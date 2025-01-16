@@ -1,5 +1,5 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Chris Herren,1914,Driving Layup Shot,2PT Field Goal,1,0,LAYUPS,2000
-Chris Herren,1914,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2000
-Chris Herren,1914,Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,2000
-Chris Herren,1914,Layup Shot,2PT Field Goal,1,1,LAYUPS,2000
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Chris Herren,1914,Driving Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2000
+Chris Herren,1914,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2000
+Chris Herren,1914,Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2000
+Chris Herren,1914,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2000

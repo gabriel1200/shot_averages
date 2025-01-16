@@ -1,14 +1,14 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Taylor Hendricks,1641707,Cutting Dunk Shot,2PT Field Goal,1,1,DUNKS,2024
-Taylor Hendricks,1641707,Driving Dunk Shot,2PT Field Goal,2,2,DUNKS,2024
-Taylor Hendricks,1641707,Driving Floating Jump Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,2024
-Taylor Hendricks,1641707,Driving Layup Shot,2PT Field Goal,8,1,LAYUPS,2024
-Taylor Hendricks,1641707,Dunk Shot,2PT Field Goal,1,0,DUNKS,2024
-Taylor Hendricks,1641707,Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,2024
-Taylor Hendricks,1641707,Jump Shot,3PT Field Goal,24,7,JUMP_SHOTS,2024
-Taylor Hendricks,1641707,Pullup Jump shot,2PT Field Goal,4,2,JUMP_SHOTS,2024
-Taylor Hendricks,1641707,Putback Layup Shot,2PT Field Goal,1,1,LAYUPS,2024
-Taylor Hendricks,1641707,Running Dunk Shot,2PT Field Goal,2,2,DUNKS,2024
-Taylor Hendricks,1641707,Running Pull-Up Jump Shot,3PT Field Goal,2,2,JUMP_SHOTS,2024
-Taylor Hendricks,1641707,Tip Layup Shot,2PT Field Goal,4,3,LAYUPS,2024
-Taylor Hendricks,1641707,Turnaround Hook Shot,2PT Field Goal,1,1,POST_MOVES,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Taylor Hendricks,1641707,Cutting Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2024
+Taylor Hendricks,1641707,Driving Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2024
+Taylor Hendricks,1641707,Driving Floating Jump Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,0.0,2024
+Taylor Hendricks,1641707,Driving Layup Shot,2PT Field Goal,8,1,LAYUPS,0.125,2024
+Taylor Hendricks,1641707,Dunk Shot,2PT Field Goal,1,0,DUNKS,0.0,2024
+Taylor Hendricks,1641707,Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
+Taylor Hendricks,1641707,Jump Shot,3PT Field Goal,24,7,JUMP_SHOTS,0.4375,2024
+Taylor Hendricks,1641707,Pullup Jump shot,2PT Field Goal,4,2,JUMP_SHOTS,0.5,2024
+Taylor Hendricks,1641707,Putback Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
+Taylor Hendricks,1641707,Running Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2024
+Taylor Hendricks,1641707,Running Pull-Up Jump Shot,3PT Field Goal,2,2,JUMP_SHOTS,1.5,2024
+Taylor Hendricks,1641707,Tip Layup Shot,2PT Field Goal,4,3,LAYUPS,0.75,2024
+Taylor Hendricks,1641707,Turnaround Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2024

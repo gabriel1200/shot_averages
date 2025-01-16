@@ -1,52 +1,52 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Brandon Boston Jr.,1630527,Cutting Layup Shot,2PT Field Goal,1,1,LAYUPS,2023
-Brandon Boston Jr.,1630527,Cutting Dunk Shot,2PT Field Goal,1,1,DUNKS,2024
-Brandon Boston Jr.,1630527,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,2024
-Brandon Boston Jr.,1630527,Driving Finger Roll Layup Shot,2PT Field Goal,2,0,LAYUPS,2024
-Brandon Boston Jr.,1630527,Driving Layup Shot,2PT Field Goal,6,1,LAYUPS,2024
-Brandon Boston Jr.,1630527,Driving Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,2024
-Brandon Boston Jr.,1630527,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2024
-Brandon Boston Jr.,1630527,Jump Shot,3PT Field Goal,9,3,JUMP_SHOTS,2024
-Brandon Boston Jr.,1630527,Pullup Jump shot,2PT Field Goal,8,1,JUMP_SHOTS,2024
-Brandon Boston Jr.,1630527,Pullup Jump shot,3PT Field Goal,2,1,JUMP_SHOTS,2024
-Brandon Boston Jr.,1630527,Putback Layup Shot,2PT Field Goal,1,0,LAYUPS,2024
-Brandon Boston Jr.,1630527,Running Alley Oop Dunk Shot,2PT Field Goal,1,1,DUNKS,2024
-Brandon Boston Jr.,1630527,Running Layup Shot,2PT Field Goal,1,1,LAYUPS,2024
-Brandon Boston Jr.,1630527,Running Pull-Up Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,2024
-Brandon Boston Jr.,1630527,Step Back Jump shot,2PT Field Goal,5,4,JUMP_SHOTS,2024
-Brandon Boston Jr.,1630527,Step Back Jump shot,3PT Field Goal,7,2,JUMP_SHOTS,2024
-Brandon Boston Jr.,1630527,Tip Layup Shot,2PT Field Goal,1,1,LAYUPS,2024
-Brandon Boston Jr.,1630527,Turnaround Fadeaway Bank Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2024
-Brandon Boston Jr.,1630527,Turnaround Fadeaway shot,2PT Field Goal,2,2,JUMP_SHOTS,2024
-Brandon Boston,1630527,Alley Oop Dunk Shot,2PT Field Goal,2,2,DUNKS,2025
-Brandon Boston,1630527,Cutting Layup Shot,2PT Field Goal,3,2,LAYUPS,2025
-Brandon Boston,1630527,Driving Dunk Shot,2PT Field Goal,3,2,DUNKS,2025
-Brandon Boston,1630527,Driving Finger Roll Layup Shot,2PT Field Goal,6,3,LAYUPS,2025
-Brandon Boston,1630527,Driving Floating Jump Shot,2PT Field Goal,9,2,SPECIALTY_SHOTS,2025
-Brandon Boston,1630527,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,2025
-Brandon Boston,1630527,Driving Layup Shot,2PT Field Goal,25,8,LAYUPS,2025
-Brandon Boston,1630527,Driving Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,2025
-Brandon Boston,1630527,Fadeaway Jump Shot,2PT Field Goal,10,1,JUMP_SHOTS,2025
-Brandon Boston,1630527,Finger Roll Layup Shot,2PT Field Goal,1,0,LAYUPS,2025
-Brandon Boston,1630527,Floating Jump shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,2025
-Brandon Boston,1630527,Jump Bank Shot,3PT Field Goal,1,1,JUMP_SHOTS,2025
-Brandon Boston,1630527,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,2025
-Brandon Boston,1630527,Jump Shot,3PT Field Goal,49,22,JUMP_SHOTS,2025
-Brandon Boston,1630527,Layup Shot,2PT Field Goal,1,1,LAYUPS,2025
-Brandon Boston,1630527,Pullup Jump shot,2PT Field Goal,33,16,JUMP_SHOTS,2025
-Brandon Boston,1630527,Pullup Jump shot,3PT Field Goal,16,3,JUMP_SHOTS,2025
-Brandon Boston,1630527,Putback Layup Shot,2PT Field Goal,4,1,LAYUPS,2025
-Brandon Boston,1630527,Running Dunk Shot,2PT Field Goal,5,5,DUNKS,2025
-Brandon Boston,1630527,Running Finger Roll Layup Shot,2PT Field Goal,3,2,LAYUPS,2025
-Brandon Boston,1630527,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,2025
-Brandon Boston,1630527,Running Jump Shot,3PT Field Goal,5,1,JUMP_SHOTS,2025
-Brandon Boston,1630527,Running Layup Shot,2PT Field Goal,9,9,LAYUPS,2025
-Brandon Boston,1630527,Running Pull-Up Jump Shot,3PT Field Goal,3,0,JUMP_SHOTS,2025
-Brandon Boston,1630527,Running Reverse Dunk Shot,2PT Field Goal,1,1,DUNKS,2025
-Brandon Boston,1630527,Running Reverse Layup Shot,2PT Field Goal,3,2,LAYUPS,2025
-Brandon Boston,1630527,Step Back Jump shot,2PT Field Goal,20,8,JUMP_SHOTS,2025
-Brandon Boston,1630527,Step Back Jump shot,3PT Field Goal,20,6,JUMP_SHOTS,2025
-Brandon Boston,1630527,Tip Dunk Shot,2PT Field Goal,1,1,DUNKS,2025
-Brandon Boston,1630527,Tip Layup Shot,2PT Field Goal,3,1,LAYUPS,2025
-Brandon Boston,1630527,Turnaround Fadeaway shot,2PT Field Goal,4,2,JUMP_SHOTS,2025
-Brandon Boston,1630527,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Brandon Boston Jr.,1630527,Cutting Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2023
+Brandon Boston Jr.,1630527,Cutting Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2024
+Brandon Boston Jr.,1630527,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2024
+Brandon Boston Jr.,1630527,Driving Finger Roll Layup Shot,2PT Field Goal,2,0,LAYUPS,0.0,2024
+Brandon Boston Jr.,1630527,Driving Layup Shot,2PT Field Goal,6,1,LAYUPS,0.1666666666666666,2024
+Brandon Boston Jr.,1630527,Driving Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2024
+Brandon Boston Jr.,1630527,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
+Brandon Boston Jr.,1630527,Jump Shot,3PT Field Goal,9,3,JUMP_SHOTS,0.5,2024
+Brandon Boston Jr.,1630527,Pullup Jump shot,2PT Field Goal,8,1,JUMP_SHOTS,0.125,2024
+Brandon Boston Jr.,1630527,Pullup Jump shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2024
+Brandon Boston Jr.,1630527,Putback Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2024
+Brandon Boston Jr.,1630527,Running Alley Oop Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2024
+Brandon Boston Jr.,1630527,Running Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
+Brandon Boston Jr.,1630527,Running Pull-Up Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
+Brandon Boston Jr.,1630527,Step Back Jump shot,2PT Field Goal,5,4,JUMP_SHOTS,0.8,2024
+Brandon Boston Jr.,1630527,Step Back Jump shot,3PT Field Goal,7,2,JUMP_SHOTS,0.4285714285714285,2024
+Brandon Boston Jr.,1630527,Tip Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
+Brandon Boston Jr.,1630527,Turnaround Fadeaway Bank Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
+Brandon Boston Jr.,1630527,Turnaround Fadeaway shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,2024
+Brandon Boston,1630527,Alley Oop Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2025
+Brandon Boston,1630527,Cutting Layup Shot,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2025
+Brandon Boston,1630527,Driving Dunk Shot,2PT Field Goal,3,2,DUNKS,0.6666666666666666,2025
+Brandon Boston,1630527,Driving Finger Roll Layup Shot,2PT Field Goal,6,3,LAYUPS,0.5,2025
+Brandon Boston,1630527,Driving Floating Jump Shot,2PT Field Goal,9,2,SPECIALTY_SHOTS,0.2222222222222222,2025
+Brandon Boston,1630527,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2025
+Brandon Boston,1630527,Driving Layup Shot,2PT Field Goal,25,8,LAYUPS,0.32,2025
+Brandon Boston,1630527,Driving Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2025
+Brandon Boston,1630527,Fadeaway Jump Shot,2PT Field Goal,10,1,JUMP_SHOTS,0.1,2025
+Brandon Boston,1630527,Finger Roll Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2025
+Brandon Boston,1630527,Floating Jump shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,0.0,2025
+Brandon Boston,1630527,Jump Bank Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2025
+Brandon Boston,1630527,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2025
+Brandon Boston,1630527,Jump Shot,3PT Field Goal,49,22,JUMP_SHOTS,0.673469387755102,2025
+Brandon Boston,1630527,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2025
+Brandon Boston,1630527,Pullup Jump shot,2PT Field Goal,33,16,JUMP_SHOTS,0.4848484848484848,2025
+Brandon Boston,1630527,Pullup Jump shot,3PT Field Goal,16,3,JUMP_SHOTS,0.28125,2025
+Brandon Boston,1630527,Putback Layup Shot,2PT Field Goal,4,1,LAYUPS,0.25,2025
+Brandon Boston,1630527,Running Dunk Shot,2PT Field Goal,5,5,DUNKS,1.0,2025
+Brandon Boston,1630527,Running Finger Roll Layup Shot,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2025
+Brandon Boston,1630527,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2025
+Brandon Boston,1630527,Running Jump Shot,3PT Field Goal,5,1,JUMP_SHOTS,0.3,2025
+Brandon Boston,1630527,Running Layup Shot,2PT Field Goal,9,9,LAYUPS,1.0,2025
+Brandon Boston,1630527,Running Pull-Up Jump Shot,3PT Field Goal,3,0,JUMP_SHOTS,0.0,2025
+Brandon Boston,1630527,Running Reverse Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2025
+Brandon Boston,1630527,Running Reverse Layup Shot,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2025
+Brandon Boston,1630527,Step Back Jump shot,2PT Field Goal,20,8,JUMP_SHOTS,0.4,2025
+Brandon Boston,1630527,Step Back Jump shot,3PT Field Goal,20,6,JUMP_SHOTS,0.45,2025
+Brandon Boston,1630527,Tip Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2025
+Brandon Boston,1630527,Tip Layup Shot,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2025
+Brandon Boston,1630527,Turnaround Fadeaway shot,2PT Field Goal,4,2,JUMP_SHOTS,0.5,2025
+Brandon Boston,1630527,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025

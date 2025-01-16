@@ -1,59 +1,59 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-John Henson,203089,Dunk Shot,2PT Field Goal,1,1,DUNKS,2013
-John Henson,203089,Hook Shot,2PT Field Goal,1,1,POST_MOVES,2013
-John Henson,203089,Jump Hook Shot,2PT Field Goal,2,0,POST_MOVES,2013
-John Henson,203089,Jump Shot,2PT Field Goal,6,2,JUMP_SHOTS,2013
-John Henson,203089,Layup Shot,2PT Field Goal,4,3,LAYUPS,2013
-John Henson,203089,Alley Oop Layup shot,2PT Field Goal,1,1,LAYUPS,2014
-John Henson,203089,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2014
-John Henson,203089,Hook Shot,2PT Field Goal,7,4,POST_MOVES,2014
-John Henson,203089,Jump Hook Shot,2PT Field Goal,2,2,POST_MOVES,2014
-John Henson,203089,Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,2014
-John Henson,203089,Layup Shot,2PT Field Goal,2,1,LAYUPS,2014
-John Henson,203089,Putback Dunk Shot,2PT Field Goal,1,1,DUNKS,2014
-John Henson,203089,Putback Layup Shot,2PT Field Goal,1,1,LAYUPS,2014
-John Henson,203089,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,2014
-John Henson,203089,Running Hook Shot,2PT Field Goal,1,0,POST_MOVES,2014
-John Henson,203089,Running Layup Shot,2PT Field Goal,1,1,LAYUPS,2014
-John Henson,203089,Step Back Jump shot,2PT Field Goal,1,1,JUMP_SHOTS,2014
-John Henson,203089,Turnaround Hook Shot,2PT Field Goal,1,0,POST_MOVES,2014
-John Henson,203089,Alley Oop Dunk Shot,2PT Field Goal,1,1,DUNKS,2015
-John Henson,203089,Hook Shot,2PT Field Goal,1,0,POST_MOVES,2015
-John Henson,203089,Layup Shot,2PT Field Goal,2,0,LAYUPS,2015
-John Henson,203089,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2015
-John Henson,203089,Alley Oop Dunk Shot,2PT Field Goal,3,3,DUNKS,2016
-John Henson,203089,Alley Oop Layup shot,2PT Field Goal,1,1,LAYUPS,2016
-John Henson,203089,Cutting Layup Shot,2PT Field Goal,1,1,LAYUPS,2016
-John Henson,203089,Driving Floating Jump Shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,2016
-John Henson,203089,Driving Layup Shot,2PT Field Goal,1,0,LAYUPS,2016
-John Henson,203089,Dunk Shot,2PT Field Goal,1,1,DUNKS,2016
-John Henson,203089,Hook Shot,2PT Field Goal,10,6,POST_MOVES,2016
-John Henson,203089,Jump Shot,2PT Field Goal,6,2,JUMP_SHOTS,2016
-John Henson,203089,Layup Shot,2PT Field Goal,3,2,LAYUPS,2016
-John Henson,203089,Tip Layup Shot,2PT Field Goal,4,4,LAYUPS,2016
-John Henson,203089,Turnaround Hook Shot,2PT Field Goal,3,2,POST_MOVES,2016
-John Henson,203089,Alley Oop Dunk Shot,2PT Field Goal,7,5,DUNKS,2017
-John Henson,203089,Alley Oop Layup shot,2PT Field Goal,4,3,LAYUPS,2017
-John Henson,203089,Cutting Dunk Shot,2PT Field Goal,3,3,DUNKS,2017
-John Henson,203089,Cutting Layup Shot,2PT Field Goal,2,1,LAYUPS,2017
-John Henson,203089,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,2017
-John Henson,203089,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,2017
-John Henson,203089,Dunk Shot,2PT Field Goal,8,8,DUNKS,2017
-John Henson,203089,Hook Shot,2PT Field Goal,29,15,POST_MOVES,2017
-John Henson,203089,Jump Shot,2PT Field Goal,16,5,JUMP_SHOTS,2017
-John Henson,203089,Layup Shot,2PT Field Goal,15,4,LAYUPS,2017
-John Henson,203089,Putback Dunk Shot,2PT Field Goal,1,0,DUNKS,2017
-John Henson,203089,Putback Layup Shot,2PT Field Goal,2,1,LAYUPS,2017
-John Henson,203089,Reverse Layup Shot,2PT Field Goal,2,0,LAYUPS,2017
-John Henson,203089,Tip Dunk Shot,2PT Field Goal,3,3,DUNKS,2017
-John Henson,203089,Tip Layup Shot,2PT Field Goal,7,5,LAYUPS,2017
-John Henson,203089,Turnaround Hook Shot,2PT Field Goal,4,3,POST_MOVES,2017
-John Henson,203089,Alley Oop Dunk Shot,2PT Field Goal,2,2,DUNKS,2018
-John Henson,203089,Alley Oop Layup shot,2PT Field Goal,1,1,LAYUPS,2018
-John Henson,203089,Cutting Dunk Shot,2PT Field Goal,1,1,DUNKS,2018
-John Henson,203089,Hook Shot,2PT Field Goal,3,2,POST_MOVES,2018
-John Henson,203089,Jump Shot,2PT Field Goal,3,0,JUMP_SHOTS,2018
-John Henson,203089,Layup Shot,2PT Field Goal,1,0,LAYUPS,2018
-John Henson,203089,Putback Dunk Shot,2PT Field Goal,1,1,DUNKS,2018
-John Henson,203089,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,2018
-John Henson,203089,Tip Layup Shot,2PT Field Goal,3,1,LAYUPS,2018
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+John Henson,203089,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2013
+John Henson,203089,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2013
+John Henson,203089,Jump Hook Shot,2PT Field Goal,2,0,POST_MOVES,0.0,2013
+John Henson,203089,Jump Shot,2PT Field Goal,6,2,JUMP_SHOTS,0.3333333333333333,2013
+John Henson,203089,Layup Shot,2PT Field Goal,4,3,LAYUPS,0.75,2013
+John Henson,203089,Alley Oop Layup shot,2PT Field Goal,1,1,LAYUPS,1.0,2014
+John Henson,203089,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2014
+John Henson,203089,Hook Shot,2PT Field Goal,7,4,POST_MOVES,0.5714285714285714,2014
+John Henson,203089,Jump Hook Shot,2PT Field Goal,2,2,POST_MOVES,1.0,2014
+John Henson,203089,Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2014
+John Henson,203089,Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2014
+John Henson,203089,Putback Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2014
+John Henson,203089,Putback Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2014
+John Henson,203089,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2014
+John Henson,203089,Running Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2014
+John Henson,203089,Running Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2014
+John Henson,203089,Step Back Jump shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2014
+John Henson,203089,Turnaround Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2014
+John Henson,203089,Alley Oop Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2015
+John Henson,203089,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2015
+John Henson,203089,Layup Shot,2PT Field Goal,2,0,LAYUPS,0.0,2015
+John Henson,203089,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2015
+John Henson,203089,Alley Oop Dunk Shot,2PT Field Goal,3,3,DUNKS,1.0,2016
+John Henson,203089,Alley Oop Layup shot,2PT Field Goal,1,1,LAYUPS,1.0,2016
+John Henson,203089,Cutting Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2016
+John Henson,203089,Driving Floating Jump Shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,1.0,2016
+John Henson,203089,Driving Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2016
+John Henson,203089,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2016
+John Henson,203089,Hook Shot,2PT Field Goal,10,6,POST_MOVES,0.6,2016
+John Henson,203089,Jump Shot,2PT Field Goal,6,2,JUMP_SHOTS,0.3333333333333333,2016
+John Henson,203089,Layup Shot,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2016
+John Henson,203089,Tip Layup Shot,2PT Field Goal,4,4,LAYUPS,1.0,2016
+John Henson,203089,Turnaround Hook Shot,2PT Field Goal,3,2,POST_MOVES,0.6666666666666666,2016
+John Henson,203089,Alley Oop Dunk Shot,2PT Field Goal,7,5,DUNKS,0.7142857142857143,2017
+John Henson,203089,Alley Oop Layup shot,2PT Field Goal,4,3,LAYUPS,0.75,2017
+John Henson,203089,Cutting Dunk Shot,2PT Field Goal,3,3,DUNKS,1.0,2017
+John Henson,203089,Cutting Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2017
+John Henson,203089,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2017
+John Henson,203089,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2017
+John Henson,203089,Dunk Shot,2PT Field Goal,8,8,DUNKS,1.0,2017
+John Henson,203089,Hook Shot,2PT Field Goal,29,15,POST_MOVES,0.5172413793103449,2017
+John Henson,203089,Jump Shot,2PT Field Goal,16,5,JUMP_SHOTS,0.3125,2017
+John Henson,203089,Layup Shot,2PT Field Goal,15,4,LAYUPS,0.2666666666666666,2017
+John Henson,203089,Putback Dunk Shot,2PT Field Goal,1,0,DUNKS,0.0,2017
+John Henson,203089,Putback Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2017
+John Henson,203089,Reverse Layup Shot,2PT Field Goal,2,0,LAYUPS,0.0,2017
+John Henson,203089,Tip Dunk Shot,2PT Field Goal,3,3,DUNKS,1.0,2017
+John Henson,203089,Tip Layup Shot,2PT Field Goal,7,5,LAYUPS,0.7142857142857143,2017
+John Henson,203089,Turnaround Hook Shot,2PT Field Goal,4,3,POST_MOVES,0.75,2017
+John Henson,203089,Alley Oop Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2018
+John Henson,203089,Alley Oop Layup shot,2PT Field Goal,1,1,LAYUPS,1.0,2018
+John Henson,203089,Cutting Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2018
+John Henson,203089,Hook Shot,2PT Field Goal,3,2,POST_MOVES,0.6666666666666666,2018
+John Henson,203089,Jump Shot,2PT Field Goal,3,0,JUMP_SHOTS,0.0,2018
+John Henson,203089,Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2018
+John Henson,203089,Putback Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2018
+John Henson,203089,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2018
+John Henson,203089,Tip Layup Shot,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2018

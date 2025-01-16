@@ -1,10 +1,10 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Jelani McCoy,1741,Layup Shot,2PT Field Goal,1,1,LAYUPS,1999
-Jelani McCoy,1741,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2000
-Jelani McCoy,1741,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,2000
-Jelani McCoy,1741,Hook Shot,2PT Field Goal,1,1,POST_MOVES,2001
-Jelani McCoy,1741,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,2001
-Jelani McCoy,1741,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2002
-Jelani McCoy,1741,Layup Shot,2PT Field Goal,2,1,LAYUPS,2002
-Jelani McCoy,1741,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,2002
-Jelani McCoy,1741,Layup Shot,2PT Field Goal,2,2,LAYUPS,2005
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Jelani McCoy,1741,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,1999
+Jelani McCoy,1741,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2000
+Jelani McCoy,1741,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2000
+Jelani McCoy,1741,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2001
+Jelani McCoy,1741,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2001
+Jelani McCoy,1741,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2002
+Jelani McCoy,1741,Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2002
+Jelani McCoy,1741,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2002
+Jelani McCoy,1741,Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2005

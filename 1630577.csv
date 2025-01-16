@@ -1,47 +1,47 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Julian Champagnie,1630577,Driving Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,2023
-Julian Champagnie,1630577,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,2023
-Julian Champagnie,1630577,Pullup Jump shot,3PT Field Goal,1,0,JUMP_SHOTS,2023
-Julian Champagnie,1630577,Cutting Dunk Shot,2PT Field Goal,1,1,DUNKS,2024
-Julian Champagnie,1630577,Cutting Layup Shot,2PT Field Goal,3,0,LAYUPS,2024
-Julian Champagnie,1630577,Driving Dunk Shot,2PT Field Goal,6,1,DUNKS,2024
-Julian Champagnie,1630577,Driving Floating Bank Jump Shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,2024
-Julian Champagnie,1630577,Driving Floating Jump Shot,2PT Field Goal,4,0,SPECIALTY_SHOTS,2024
-Julian Champagnie,1630577,Driving Layup Shot,2PT Field Goal,10,6,LAYUPS,2024
-Julian Champagnie,1630577,Dunk Shot,2PT Field Goal,1,1,DUNKS,2024
-Julian Champagnie,1630577,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2024
-Julian Champagnie,1630577,Floating Jump shot,2PT Field Goal,2,1,SPECIALTY_SHOTS,2024
-Julian Champagnie,1630577,Jump Shot,3PT Field Goal,80,22,JUMP_SHOTS,2024
-Julian Champagnie,1630577,Layup Shot,2PT Field Goal,2,2,LAYUPS,2024
-Julian Champagnie,1630577,Pullup Jump shot,2PT Field Goal,2,1,JUMP_SHOTS,2024
-Julian Champagnie,1630577,Pullup Jump shot,3PT Field Goal,3,2,JUMP_SHOTS,2024
-Julian Champagnie,1630577,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,2024
-Julian Champagnie,1630577,Running Dunk Shot,2PT Field Goal,3,3,DUNKS,2024
-Julian Champagnie,1630577,Running Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,2024
-Julian Champagnie,1630577,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2024
-Julian Champagnie,1630577,Running Jump Shot,3PT Field Goal,10,3,JUMP_SHOTS,2024
-Julian Champagnie,1630577,Running Layup Shot,2PT Field Goal,2,1,LAYUPS,2024
-Julian Champagnie,1630577,Step Back Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,2024
-Julian Champagnie,1630577,Step Back Jump shot,3PT Field Goal,1,0,JUMP_SHOTS,2024
-Julian Champagnie,1630577,Tip Layup Shot,2PT Field Goal,3,1,LAYUPS,2024
-Julian Champagnie,1630577,Alley Oop Dunk Shot,2PT Field Goal,1,1,DUNKS,2025
-Julian Champagnie,1630577,Cutting Dunk Shot,2PT Field Goal,2,0,DUNKS,2025
-Julian Champagnie,1630577,Cutting Layup Shot,2PT Field Goal,1,1,LAYUPS,2025
-Julian Champagnie,1630577,Driving Dunk Shot,2PT Field Goal,2,2,DUNKS,2025
-Julian Champagnie,1630577,Driving Finger Roll Layup Shot,2PT Field Goal,2,2,LAYUPS,2025
-Julian Champagnie,1630577,Driving Floating Jump Shot,2PT Field Goal,4,0,SPECIALTY_SHOTS,2025
-Julian Champagnie,1630577,Driving Layup Shot,2PT Field Goal,5,3,LAYUPS,2025
-Julian Champagnie,1630577,Floating Jump shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,2025
-Julian Champagnie,1630577,Jump Shot,3PT Field Goal,84,34,JUMP_SHOTS,2025
-Julian Champagnie,1630577,Layup Shot,2PT Field Goal,3,2,LAYUPS,2025
-Julian Champagnie,1630577,Pullup Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,2025
-Julian Champagnie,1630577,Pullup Jump shot,3PT Field Goal,6,3,JUMP_SHOTS,2025
-Julian Champagnie,1630577,Putback Layup Shot,2PT Field Goal,1,1,LAYUPS,2025
-Julian Champagnie,1630577,Running Dunk Shot,2PT Field Goal,2,2,DUNKS,2025
-Julian Champagnie,1630577,Running Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,2025
-Julian Champagnie,1630577,Running Jump Shot,3PT Field Goal,16,4,JUMP_SHOTS,2025
-Julian Champagnie,1630577,Running Layup Shot,2PT Field Goal,3,1,LAYUPS,2025
-Julian Champagnie,1630577,Running Pull-Up Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,2025
-Julian Champagnie,1630577,Step Back Jump shot,2PT Field Goal,1,1,JUMP_SHOTS,2025
-Julian Champagnie,1630577,Step Back Jump shot,3PT Field Goal,3,1,JUMP_SHOTS,2025
-Julian Champagnie,1630577,Turnaround Bank shot,2PT Field Goal,1,0,JUMP_SHOTS,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Julian Champagnie,1630577,Driving Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2023
+Julian Champagnie,1630577,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2023
+Julian Champagnie,1630577,Pullup Jump shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2023
+Julian Champagnie,1630577,Cutting Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2024
+Julian Champagnie,1630577,Cutting Layup Shot,2PT Field Goal,3,0,LAYUPS,0.0,2024
+Julian Champagnie,1630577,Driving Dunk Shot,2PT Field Goal,6,1,DUNKS,0.1666666666666666,2024
+Julian Champagnie,1630577,Driving Floating Bank Jump Shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,1.0,2024
+Julian Champagnie,1630577,Driving Floating Jump Shot,2PT Field Goal,4,0,SPECIALTY_SHOTS,0.0,2024
+Julian Champagnie,1630577,Driving Layup Shot,2PT Field Goal,10,6,LAYUPS,0.6,2024
+Julian Champagnie,1630577,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2024
+Julian Champagnie,1630577,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
+Julian Champagnie,1630577,Floating Jump shot,2PT Field Goal,2,1,SPECIALTY_SHOTS,0.5,2024
+Julian Champagnie,1630577,Jump Shot,3PT Field Goal,80,22,JUMP_SHOTS,0.4125,2024
+Julian Champagnie,1630577,Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2024
+Julian Champagnie,1630577,Pullup Jump shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2024
+Julian Champagnie,1630577,Pullup Jump shot,3PT Field Goal,3,2,JUMP_SHOTS,1.0,2024
+Julian Champagnie,1630577,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
+Julian Champagnie,1630577,Running Dunk Shot,2PT Field Goal,3,3,DUNKS,1.0,2024
+Julian Champagnie,1630577,Running Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
+Julian Champagnie,1630577,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
+Julian Champagnie,1630577,Running Jump Shot,3PT Field Goal,10,3,JUMP_SHOTS,0.45,2024
+Julian Champagnie,1630577,Running Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2024
+Julian Champagnie,1630577,Step Back Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
+Julian Champagnie,1630577,Step Back Jump shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
+Julian Champagnie,1630577,Tip Layup Shot,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2024
+Julian Champagnie,1630577,Alley Oop Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2025
+Julian Champagnie,1630577,Cutting Dunk Shot,2PT Field Goal,2,0,DUNKS,0.0,2025
+Julian Champagnie,1630577,Cutting Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2025
+Julian Champagnie,1630577,Driving Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2025
+Julian Champagnie,1630577,Driving Finger Roll Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2025
+Julian Champagnie,1630577,Driving Floating Jump Shot,2PT Field Goal,4,0,SPECIALTY_SHOTS,0.0,2025
+Julian Champagnie,1630577,Driving Layup Shot,2PT Field Goal,5,3,LAYUPS,0.6,2025
+Julian Champagnie,1630577,Floating Jump shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,1.0,2025
+Julian Champagnie,1630577,Jump Shot,3PT Field Goal,84,34,JUMP_SHOTS,0.6071428571428571,2025
+Julian Champagnie,1630577,Layup Shot,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2025
+Julian Champagnie,1630577,Pullup Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
+Julian Champagnie,1630577,Pullup Jump shot,3PT Field Goal,6,3,JUMP_SHOTS,0.75,2025
+Julian Champagnie,1630577,Putback Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2025
+Julian Champagnie,1630577,Running Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2025
+Julian Champagnie,1630577,Running Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2025
+Julian Champagnie,1630577,Running Jump Shot,3PT Field Goal,16,4,JUMP_SHOTS,0.375,2025
+Julian Champagnie,1630577,Running Layup Shot,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2025
+Julian Champagnie,1630577,Running Pull-Up Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,2025
+Julian Champagnie,1630577,Step Back Jump shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2025
+Julian Champagnie,1630577,Step Back Jump shot,3PT Field Goal,3,1,JUMP_SHOTS,0.5,2025
+Julian Champagnie,1630577,Turnaround Bank shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025

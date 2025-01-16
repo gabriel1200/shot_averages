@@ -1,44 +1,44 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Jose Alvarado,1630631,Driving Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,2022
-Jose Alvarado,1630631,Pullup Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,2022
-Jose Alvarado,1630631,Running Layup Shot,2PT Field Goal,1,0,LAYUPS,2022
-Jose Alvarado,1630631,Cutting Layup Shot,2PT Field Goal,4,2,LAYUPS,2024
-Jose Alvarado,1630631,Driving Finger Roll Layup Shot,2PT Field Goal,2,1,LAYUPS,2024
-Jose Alvarado,1630631,Driving Floating Bank Jump Shot,2PT Field Goal,7,3,SPECIALTY_SHOTS,2024
-Jose Alvarado,1630631,Driving Floating Jump Shot,2PT Field Goal,27,10,SPECIALTY_SHOTS,2024
-Jose Alvarado,1630631,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,2024
-Jose Alvarado,1630631,Driving Layup Shot,2PT Field Goal,17,5,LAYUPS,2024
-Jose Alvarado,1630631,Driving Reverse Layup Shot,2PT Field Goal,4,2,LAYUPS,2024
-Jose Alvarado,1630631,Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,2024
-Jose Alvarado,1630631,Floating Jump shot,2PT Field Goal,7,4,SPECIALTY_SHOTS,2024
-Jose Alvarado,1630631,Hook Bank Shot,2PT Field Goal,1,0,POST_MOVES,2024
-Jose Alvarado,1630631,Hook Shot,2PT Field Goal,1,0,POST_MOVES,2024
-Jose Alvarado,1630631,Jump Shot,3PT Field Goal,100,37,JUMP_SHOTS,2024
-Jose Alvarado,1630631,Layup Shot,2PT Field Goal,3,2,LAYUPS,2024
-Jose Alvarado,1630631,Pullup Jump shot,2PT Field Goal,8,2,JUMP_SHOTS,2024
-Jose Alvarado,1630631,Pullup Jump shot,3PT Field Goal,8,3,JUMP_SHOTS,2024
-Jose Alvarado,1630631,Putback Layup Shot,2PT Field Goal,5,4,LAYUPS,2024
-Jose Alvarado,1630631,Running Finger Roll Layup Shot,2PT Field Goal,2,2,LAYUPS,2024
-Jose Alvarado,1630631,Running Jump Shot,3PT Field Goal,15,3,JUMP_SHOTS,2024
-Jose Alvarado,1630631,Running Layup Shot,2PT Field Goal,11,5,LAYUPS,2024
-Jose Alvarado,1630631,Running Pull-Up Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2024
-Jose Alvarado,1630631,Running Pull-Up Jump Shot,3PT Field Goal,5,4,JUMP_SHOTS,2024
-Jose Alvarado,1630631,Running Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,2024
-Jose Alvarado,1630631,Step Back Jump shot,3PT Field Goal,4,1,JUMP_SHOTS,2024
-Jose Alvarado,1630631,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2024
-Jose Alvarado,1630631,Driving Finger Roll Layup Shot,2PT Field Goal,2,1,LAYUPS,2025
-Jose Alvarado,1630631,Driving Floating Bank Jump Shot,2PT Field Goal,3,0,SPECIALTY_SHOTS,2025
-Jose Alvarado,1630631,Driving Floating Jump Shot,2PT Field Goal,15,5,SPECIALTY_SHOTS,2025
-Jose Alvarado,1630631,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,2025
-Jose Alvarado,1630631,Driving Layup Shot,2PT Field Goal,8,4,LAYUPS,2025
-Jose Alvarado,1630631,Fadeaway Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,2025
-Jose Alvarado,1630631,Floating Jump shot,2PT Field Goal,4,1,SPECIALTY_SHOTS,2025
-Jose Alvarado,1630631,Jump Shot,3PT Field Goal,38,12,JUMP_SHOTS,2025
-Jose Alvarado,1630631,Pullup Jump shot,2PT Field Goal,6,2,JUMP_SHOTS,2025
-Jose Alvarado,1630631,Pullup Jump shot,3PT Field Goal,15,8,JUMP_SHOTS,2025
-Jose Alvarado,1630631,Running Jump Shot,3PT Field Goal,6,5,JUMP_SHOTS,2025
-Jose Alvarado,1630631,Running Layup Shot,2PT Field Goal,4,2,LAYUPS,2025
-Jose Alvarado,1630631,Running Pull-Up Jump Shot,3PT Field Goal,3,1,JUMP_SHOTS,2025
-Jose Alvarado,1630631,Step Back Jump shot,3PT Field Goal,4,2,JUMP_SHOTS,2025
-Jose Alvarado,1630631,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2025
-Jose Alvarado,1630631,Turnaround Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Jose Alvarado,1630631,Driving Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2022
+Jose Alvarado,1630631,Pullup Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2022
+Jose Alvarado,1630631,Running Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2022
+Jose Alvarado,1630631,Cutting Layup Shot,2PT Field Goal,4,2,LAYUPS,0.5,2024
+Jose Alvarado,1630631,Driving Finger Roll Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2024
+Jose Alvarado,1630631,Driving Floating Bank Jump Shot,2PT Field Goal,7,3,SPECIALTY_SHOTS,0.4285714285714285,2024
+Jose Alvarado,1630631,Driving Floating Jump Shot,2PT Field Goal,27,10,SPECIALTY_SHOTS,0.3703703703703703,2024
+Jose Alvarado,1630631,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2024
+Jose Alvarado,1630631,Driving Layup Shot,2PT Field Goal,17,5,LAYUPS,0.2941176470588235,2024
+Jose Alvarado,1630631,Driving Reverse Layup Shot,2PT Field Goal,4,2,LAYUPS,0.5,2024
+Jose Alvarado,1630631,Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
+Jose Alvarado,1630631,Floating Jump shot,2PT Field Goal,7,4,SPECIALTY_SHOTS,0.5714285714285714,2024
+Jose Alvarado,1630631,Hook Bank Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2024
+Jose Alvarado,1630631,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2024
+Jose Alvarado,1630631,Jump Shot,3PT Field Goal,100,37,JUMP_SHOTS,0.555,2024
+Jose Alvarado,1630631,Layup Shot,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2024
+Jose Alvarado,1630631,Pullup Jump shot,2PT Field Goal,8,2,JUMP_SHOTS,0.25,2024
+Jose Alvarado,1630631,Pullup Jump shot,3PT Field Goal,8,3,JUMP_SHOTS,0.5625,2024
+Jose Alvarado,1630631,Putback Layup Shot,2PT Field Goal,5,4,LAYUPS,0.8,2024
+Jose Alvarado,1630631,Running Finger Roll Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2024
+Jose Alvarado,1630631,Running Jump Shot,3PT Field Goal,15,3,JUMP_SHOTS,0.3,2024
+Jose Alvarado,1630631,Running Layup Shot,2PT Field Goal,11,5,LAYUPS,0.4545454545454545,2024
+Jose Alvarado,1630631,Running Pull-Up Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
+Jose Alvarado,1630631,Running Pull-Up Jump Shot,3PT Field Goal,5,4,JUMP_SHOTS,1.2,2024
+Jose Alvarado,1630631,Running Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
+Jose Alvarado,1630631,Step Back Jump shot,3PT Field Goal,4,1,JUMP_SHOTS,0.375,2024
+Jose Alvarado,1630631,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
+Jose Alvarado,1630631,Driving Finger Roll Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2025
+Jose Alvarado,1630631,Driving Floating Bank Jump Shot,2PT Field Goal,3,0,SPECIALTY_SHOTS,0.0,2025
+Jose Alvarado,1630631,Driving Floating Jump Shot,2PT Field Goal,15,5,SPECIALTY_SHOTS,0.3333333333333333,2025
+Jose Alvarado,1630631,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2025
+Jose Alvarado,1630631,Driving Layup Shot,2PT Field Goal,8,4,LAYUPS,0.5,2025
+Jose Alvarado,1630631,Fadeaway Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2025
+Jose Alvarado,1630631,Floating Jump shot,2PT Field Goal,4,1,SPECIALTY_SHOTS,0.25,2025
+Jose Alvarado,1630631,Jump Shot,3PT Field Goal,38,12,JUMP_SHOTS,0.4736842105263157,2025
+Jose Alvarado,1630631,Pullup Jump shot,2PT Field Goal,6,2,JUMP_SHOTS,0.3333333333333333,2025
+Jose Alvarado,1630631,Pullup Jump shot,3PT Field Goal,15,8,JUMP_SHOTS,0.8,2025
+Jose Alvarado,1630631,Running Jump Shot,3PT Field Goal,6,5,JUMP_SHOTS,1.25,2025
+Jose Alvarado,1630631,Running Layup Shot,2PT Field Goal,4,2,LAYUPS,0.5,2025
+Jose Alvarado,1630631,Running Pull-Up Jump Shot,3PT Field Goal,3,1,JUMP_SHOTS,0.5,2025
+Jose Alvarado,1630631,Step Back Jump shot,3PT Field Goal,4,2,JUMP_SHOTS,0.75,2025
+Jose Alvarado,1630631,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
+Jose Alvarado,1630631,Turnaround Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2025

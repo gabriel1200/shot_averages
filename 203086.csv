@@ -1,10 +1,10 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Meyers Leonard,203086,Dunk Shot,2PT Field Goal,1,1,DUNKS,2014
-Meyers Leonard,203086,Jump Shot,3PT Field Goal,3,1,JUMP_SHOTS,2015
-Meyers Leonard,203086,Layup Shot,2PT Field Goal,1,1,LAYUPS,2015
-Meyers Leonard,203086,Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,2015
-Meyers Leonard,203086,Running Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,2015
-Meyers Leonard,203086,Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,2016
-Meyers Leonard,203086,Turnaround Fadeaway shot,2PT Field Goal,1,1,JUMP_SHOTS,2016
-Meyers Leonard,203086,Jump Shot,3PT Field Goal,3,1,JUMP_SHOTS,2017
-Meyers Leonard,203086,Running Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,2017
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Meyers Leonard,203086,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2014
+Meyers Leonard,203086,Jump Shot,3PT Field Goal,3,1,JUMP_SHOTS,0.5,2015
+Meyers Leonard,203086,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2015
+Meyers Leonard,203086,Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2015
+Meyers Leonard,203086,Running Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,2015
+Meyers Leonard,203086,Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2016
+Meyers Leonard,203086,Turnaround Fadeaway shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2016
+Meyers Leonard,203086,Jump Shot,3PT Field Goal,3,1,JUMP_SHOTS,0.5,2017
+Meyers Leonard,203086,Running Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2017

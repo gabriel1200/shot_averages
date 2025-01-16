@@ -1,24 +1,24 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Chris Quinn,200809,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,2007
-Chris Quinn,200809,Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,2007
-Chris Quinn,200809,Jump Shot,3PT Field Goal,8,2,JUMP_SHOTS,2007
-Chris Quinn,200809,Driving Layup Shot,2PT Field Goal,1,0,LAYUPS,2008
-Chris Quinn,200809,Jump Shot,2PT Field Goal,6,5,JUMP_SHOTS,2008
-Chris Quinn,200809,Jump Shot,3PT Field Goal,7,3,JUMP_SHOTS,2008
-Chris Quinn,200809,Layup Shot,2PT Field Goal,2,1,LAYUPS,2008
-Chris Quinn,200809,Running Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,2008
-Chris Quinn,200809,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2008
-Chris Quinn,200809,Driving Layup Shot,2PT Field Goal,2,2,LAYUPS,2009
-Chris Quinn,200809,Jump Bank Shot,2PT Field Goal,1,1,JUMP_SHOTS,2009
-Chris Quinn,200809,Jump Shot,2PT Field Goal,20,3,JUMP_SHOTS,2009
-Chris Quinn,200809,Jump Shot,3PT Field Goal,16,6,JUMP_SHOTS,2009
-Chris Quinn,200809,Layup Shot,2PT Field Goal,3,2,LAYUPS,2009
-Chris Quinn,200809,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,2009
-Chris Quinn,200809,Driving Layup Shot,2PT Field Goal,1,0,LAYUPS,2010
-Chris Quinn,200809,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,2010
-Chris Quinn,200809,Driving Layup Shot,2PT Field Goal,1,0,LAYUPS,2011
-Chris Quinn,200809,Floating Jump shot,2PT Field Goal,2,0,SPECIALTY_SHOTS,2011
-Chris Quinn,200809,Jump Shot,2PT Field Goal,7,1,JUMP_SHOTS,2011
-Chris Quinn,200809,Jump Shot,3PT Field Goal,6,2,JUMP_SHOTS,2011
-Chris Quinn,200809,Pullup Jump shot,2PT Field Goal,3,2,JUMP_SHOTS,2011
-Chris Quinn,200809,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2011
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Chris Quinn,200809,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2007
+Chris Quinn,200809,Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,0.3333333333333333,2007
+Chris Quinn,200809,Jump Shot,3PT Field Goal,8,2,JUMP_SHOTS,0.375,2007
+Chris Quinn,200809,Driving Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2008
+Chris Quinn,200809,Jump Shot,2PT Field Goal,6,5,JUMP_SHOTS,0.8333333333333334,2008
+Chris Quinn,200809,Jump Shot,3PT Field Goal,7,3,JUMP_SHOTS,0.6428571428571429,2008
+Chris Quinn,200809,Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2008
+Chris Quinn,200809,Running Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2008
+Chris Quinn,200809,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2008
+Chris Quinn,200809,Driving Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2009
+Chris Quinn,200809,Jump Bank Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2009
+Chris Quinn,200809,Jump Shot,2PT Field Goal,20,3,JUMP_SHOTS,0.15,2009
+Chris Quinn,200809,Jump Shot,3PT Field Goal,16,6,JUMP_SHOTS,0.5625,2009
+Chris Quinn,200809,Layup Shot,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2009
+Chris Quinn,200809,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2009
+Chris Quinn,200809,Driving Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2010
+Chris Quinn,200809,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2010
+Chris Quinn,200809,Driving Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2011
+Chris Quinn,200809,Floating Jump shot,2PT Field Goal,2,0,SPECIALTY_SHOTS,0.0,2011
+Chris Quinn,200809,Jump Shot,2PT Field Goal,7,1,JUMP_SHOTS,0.1428571428571428,2011
+Chris Quinn,200809,Jump Shot,3PT Field Goal,6,2,JUMP_SHOTS,0.5,2011
+Chris Quinn,200809,Pullup Jump shot,2PT Field Goal,3,2,JUMP_SHOTS,0.6666666666666666,2011
+Chris Quinn,200809,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2011

@@ -1,42 +1,42 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Vladimir Stepania,1735,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,1999
-Vladimir Stepania,1735,Hook Shot,2PT Field Goal,1,0,POST_MOVES,1999
-Vladimir Stepania,1735,Jump Shot,2PT Field Goal,8,3,JUMP_SHOTS,1999
-Vladimir Stepania,1735,Tip Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,1999
-Vladimir Stepania,1735,Hook Shot,2PT Field Goal,1,0,POST_MOVES,2001
-Vladimir Stepania,1735,Jump Shot,2PT Field Goal,3,0,JUMP_SHOTS,2001
-Vladimir Stepania,1735,Alley Oop Layup shot,2PT Field Goal,1,1,LAYUPS,2002
-Vladimir Stepania,1735,Driving Layup Shot,2PT Field Goal,2,1,LAYUPS,2002
-Vladimir Stepania,1735,Dunk Shot,2PT Field Goal,3,2,DUNKS,2002
-Vladimir Stepania,1735,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2002
-Vladimir Stepania,1735,Hook Shot,2PT Field Goal,5,3,POST_MOVES,2002
-Vladimir Stepania,1735,Jump Hook Shot,2PT Field Goal,1,1,POST_MOVES,2002
-Vladimir Stepania,1735,Jump Shot,2PT Field Goal,20,4,JUMP_SHOTS,2002
-Vladimir Stepania,1735,Layup Shot,2PT Field Goal,10,5,LAYUPS,2002
-Vladimir Stepania,1735,Running Hook Shot,2PT Field Goal,2,1,POST_MOVES,2002
-Vladimir Stepania,1735,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,2002
-Vladimir Stepania,1735,Tip Shot,2PT Field Goal,3,2,SPECIALTY_SHOTS,2002
-Vladimir Stepania,1735,Driving Dunk Shot,2PT Field Goal,2,2,DUNKS,2003
-Vladimir Stepania,1735,Driving Layup Shot,2PT Field Goal,4,1,LAYUPS,2003
-Vladimir Stepania,1735,Dunk Shot,2PT Field Goal,2,2,DUNKS,2003
-Vladimir Stepania,1735,Finger Roll Shot,2PT Field Goal,1,1,LAYUPS,2003
-Vladimir Stepania,1735,Hook Shot,2PT Field Goal,19,10,POST_MOVES,2003
-Vladimir Stepania,1735,Jump Hook Shot,2PT Field Goal,1,0,POST_MOVES,2003
-Vladimir Stepania,1735,Jump Shot,2PT Field Goal,55,18,JUMP_SHOTS,2003
-Vladimir Stepania,1735,Layup Shot,2PT Field Goal,50,22,LAYUPS,2003
-Vladimir Stepania,1735,Reverse Layup Shot,2PT Field Goal,3,3,LAYUPS,2003
-Vladimir Stepania,1735,Running Hook Shot,2PT Field Goal,1,0,POST_MOVES,2003
-Vladimir Stepania,1735,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2003
-Vladimir Stepania,1735,Slam Dunk Shot,2PT Field Goal,4,4,DUNKS,2003
-Vladimir Stepania,1735,Tip Shot,2PT Field Goal,11,5,SPECIALTY_SHOTS,2003
-Vladimir Stepania,1735,Turnaround Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,2003
-Vladimir Stepania,1735,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,2004
-Vladimir Stepania,1735,Dunk Shot,2PT Field Goal,1,0,DUNKS,2004
-Vladimir Stepania,1735,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2004
-Vladimir Stepania,1735,Hook Bank Shot,2PT Field Goal,1,1,POST_MOVES,2004
-Vladimir Stepania,1735,Hook Shot,2PT Field Goal,5,1,POST_MOVES,2004
-Vladimir Stepania,1735,Jump Shot,2PT Field Goal,26,4,JUMP_SHOTS,2004
-Vladimir Stepania,1735,Layup Shot,2PT Field Goal,29,17,LAYUPS,2004
-Vladimir Stepania,1735,Running Hook Shot,2PT Field Goal,1,1,POST_MOVES,2004
-Vladimir Stepania,1735,Tip Shot,2PT Field Goal,3,2,SPECIALTY_SHOTS,2004
-Vladimir Stepania,1735,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2004
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Vladimir Stepania,1735,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,1999
+Vladimir Stepania,1735,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,1999
+Vladimir Stepania,1735,Jump Shot,2PT Field Goal,8,3,JUMP_SHOTS,0.375,1999
+Vladimir Stepania,1735,Tip Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,0.0,1999
+Vladimir Stepania,1735,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2001
+Vladimir Stepania,1735,Jump Shot,2PT Field Goal,3,0,JUMP_SHOTS,0.0,2001
+Vladimir Stepania,1735,Alley Oop Layup shot,2PT Field Goal,1,1,LAYUPS,1.0,2002
+Vladimir Stepania,1735,Driving Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2002
+Vladimir Stepania,1735,Dunk Shot,2PT Field Goal,3,2,DUNKS,0.6666666666666666,2002
+Vladimir Stepania,1735,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2002
+Vladimir Stepania,1735,Hook Shot,2PT Field Goal,5,3,POST_MOVES,0.6,2002
+Vladimir Stepania,1735,Jump Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2002
+Vladimir Stepania,1735,Jump Shot,2PT Field Goal,20,4,JUMP_SHOTS,0.2,2002
+Vladimir Stepania,1735,Layup Shot,2PT Field Goal,10,5,LAYUPS,0.5,2002
+Vladimir Stepania,1735,Running Hook Shot,2PT Field Goal,2,1,POST_MOVES,0.5,2002
+Vladimir Stepania,1735,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2002
+Vladimir Stepania,1735,Tip Shot,2PT Field Goal,3,2,SPECIALTY_SHOTS,0.6666666666666666,2002
+Vladimir Stepania,1735,Driving Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2003
+Vladimir Stepania,1735,Driving Layup Shot,2PT Field Goal,4,1,LAYUPS,0.25,2003
+Vladimir Stepania,1735,Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2003
+Vladimir Stepania,1735,Finger Roll Shot,2PT Field Goal,1,1,LAYUPS,1.0,2003
+Vladimir Stepania,1735,Hook Shot,2PT Field Goal,19,10,POST_MOVES,0.5263157894736842,2003
+Vladimir Stepania,1735,Jump Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2003
+Vladimir Stepania,1735,Jump Shot,2PT Field Goal,55,18,JUMP_SHOTS,0.3272727272727272,2003
+Vladimir Stepania,1735,Layup Shot,2PT Field Goal,50,22,LAYUPS,0.44,2003
+Vladimir Stepania,1735,Reverse Layup Shot,2PT Field Goal,3,3,LAYUPS,1.0,2003
+Vladimir Stepania,1735,Running Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2003
+Vladimir Stepania,1735,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2003
+Vladimir Stepania,1735,Slam Dunk Shot,2PT Field Goal,4,4,DUNKS,1.0,2003
+Vladimir Stepania,1735,Tip Shot,2PT Field Goal,11,5,SPECIALTY_SHOTS,0.4545454545454545,2003
+Vladimir Stepania,1735,Turnaround Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,2003
+Vladimir Stepania,1735,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2004
+Vladimir Stepania,1735,Dunk Shot,2PT Field Goal,1,0,DUNKS,0.0,2004
+Vladimir Stepania,1735,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2004
+Vladimir Stepania,1735,Hook Bank Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2004
+Vladimir Stepania,1735,Hook Shot,2PT Field Goal,5,1,POST_MOVES,0.2,2004
+Vladimir Stepania,1735,Jump Shot,2PT Field Goal,26,4,JUMP_SHOTS,0.1538461538461538,2004
+Vladimir Stepania,1735,Layup Shot,2PT Field Goal,29,17,LAYUPS,0.5862068965517241,2004
+Vladimir Stepania,1735,Running Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2004
+Vladimir Stepania,1735,Tip Shot,2PT Field Goal,3,2,SPECIALTY_SHOTS,0.6666666666666666,2004
+Vladimir Stepania,1735,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2004

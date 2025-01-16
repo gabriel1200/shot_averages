@@ -1,39 +1,39 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Day'Ron Sharpe,1630549,Cutting Dunk Shot,2PT Field Goal,5,4,DUNKS,2022
-Day'Ron Sharpe,1630549,Cutting Layup Shot,2PT Field Goal,2,1,LAYUPS,2022
-Day'Ron Sharpe,1630549,Dunk Shot,2PT Field Goal,2,2,DUNKS,2022
-Day'Ron Sharpe,1630549,Layup Shot,2PT Field Goal,2,2,LAYUPS,2022
-Day'Ron Sharpe,1630549,Putback Layup Shot,2PT Field Goal,1,0,LAYUPS,2022
-Day'Ron Sharpe,1630549,Tip Layup Shot,2PT Field Goal,2,2,LAYUPS,2022
-Day'Ron Sharpe,1630549,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2022
-Day'Ron Sharpe,1630549,Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,2023
-Day'Ron Sharpe,1630549,Alley Oop Dunk Shot,2PT Field Goal,2,1,DUNKS,2024
-Day'Ron Sharpe,1630549,Cutting Dunk Shot,2PT Field Goal,1,1,DUNKS,2024
-Day'Ron Sharpe,1630549,Cutting Finger Roll Layup Shot,2PT Field Goal,1,0,LAYUPS,2024
-Day'Ron Sharpe,1630549,Cutting Layup Shot,2PT Field Goal,4,3,LAYUPS,2024
-Day'Ron Sharpe,1630549,Driving Bank Hook Shot,2PT Field Goal,1,0,POST_MOVES,2024
-Day'Ron Sharpe,1630549,Driving Hook Shot,2PT Field Goal,2,0,POST_MOVES,2024
-Day'Ron Sharpe,1630549,Driving Layup Shot,2PT Field Goal,2,2,LAYUPS,2024
-Day'Ron Sharpe,1630549,Floating Jump shot,2PT Field Goal,2,1,SPECIALTY_SHOTS,2024
-Day'Ron Sharpe,1630549,Hook Shot,2PT Field Goal,2,1,POST_MOVES,2024
-Day'Ron Sharpe,1630549,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2024
-Day'Ron Sharpe,1630549,Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,2024
-Day'Ron Sharpe,1630549,Layup Shot,2PT Field Goal,4,3,LAYUPS,2024
-Day'Ron Sharpe,1630549,Putback Dunk Shot,2PT Field Goal,1,1,DUNKS,2024
-Day'Ron Sharpe,1630549,Putback Layup Shot,2PT Field Goal,1,0,LAYUPS,2024
-Day'Ron Sharpe,1630549,Running Dunk Shot,2PT Field Goal,2,2,DUNKS,2024
-Day'Ron Sharpe,1630549,Tip Dunk Shot,2PT Field Goal,2,2,DUNKS,2024
-Day'Ron Sharpe,1630549,Tip Layup Shot,2PT Field Goal,6,3,LAYUPS,2024
-Day'Ron Sharpe,1630549,Turnaround Hook Shot,2PT Field Goal,2,0,POST_MOVES,2024
-Day'Ron Sharpe,1630549,Alley Oop Layup shot,2PT Field Goal,1,1,LAYUPS,2025
-Day'Ron Sharpe,1630549,Cutting Dunk Shot,2PT Field Goal,1,1,DUNKS,2025
-Day'Ron Sharpe,1630549,Cutting Layup Shot,2PT Field Goal,4,2,LAYUPS,2025
-Day'Ron Sharpe,1630549,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,2025
-Day'Ron Sharpe,1630549,Jump Bank Shot,2PT Field Goal,1,0,JUMP_SHOTS,2025
-Day'Ron Sharpe,1630549,Jump Shot,3PT Field Goal,6,1,JUMP_SHOTS,2025
-Day'Ron Sharpe,1630549,Layup Shot,2PT Field Goal,1,0,LAYUPS,2025
-Day'Ron Sharpe,1630549,Putback Layup Shot,2PT Field Goal,5,2,LAYUPS,2025
-Day'Ron Sharpe,1630549,Running Alley Oop Layup Shot,2PT Field Goal,1,1,LAYUPS,2025
-Day'Ron Sharpe,1630549,Running Dunk Shot,2PT Field Goal,1,1,DUNKS,2025
-Day'Ron Sharpe,1630549,Running Layup Shot,2PT Field Goal,1,1,LAYUPS,2025
-Day'Ron Sharpe,1630549,Tip Layup Shot,2PT Field Goal,3,1,LAYUPS,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Day'Ron Sharpe,1630549,Cutting Dunk Shot,2PT Field Goal,5,4,DUNKS,0.8,2022
+Day'Ron Sharpe,1630549,Cutting Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2022
+Day'Ron Sharpe,1630549,Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2022
+Day'Ron Sharpe,1630549,Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2022
+Day'Ron Sharpe,1630549,Putback Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2022
+Day'Ron Sharpe,1630549,Tip Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2022
+Day'Ron Sharpe,1630549,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2022
+Day'Ron Sharpe,1630549,Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2023
+Day'Ron Sharpe,1630549,Alley Oop Dunk Shot,2PT Field Goal,2,1,DUNKS,0.5,2024
+Day'Ron Sharpe,1630549,Cutting Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2024
+Day'Ron Sharpe,1630549,Cutting Finger Roll Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2024
+Day'Ron Sharpe,1630549,Cutting Layup Shot,2PT Field Goal,4,3,LAYUPS,0.75,2024
+Day'Ron Sharpe,1630549,Driving Bank Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2024
+Day'Ron Sharpe,1630549,Driving Hook Shot,2PT Field Goal,2,0,POST_MOVES,0.0,2024
+Day'Ron Sharpe,1630549,Driving Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2024
+Day'Ron Sharpe,1630549,Floating Jump shot,2PT Field Goal,2,1,SPECIALTY_SHOTS,0.5,2024
+Day'Ron Sharpe,1630549,Hook Shot,2PT Field Goal,2,1,POST_MOVES,0.5,2024
+Day'Ron Sharpe,1630549,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
+Day'Ron Sharpe,1630549,Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2024
+Day'Ron Sharpe,1630549,Layup Shot,2PT Field Goal,4,3,LAYUPS,0.75,2024
+Day'Ron Sharpe,1630549,Putback Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2024
+Day'Ron Sharpe,1630549,Putback Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2024
+Day'Ron Sharpe,1630549,Running Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2024
+Day'Ron Sharpe,1630549,Tip Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2024
+Day'Ron Sharpe,1630549,Tip Layup Shot,2PT Field Goal,6,3,LAYUPS,0.5,2024
+Day'Ron Sharpe,1630549,Turnaround Hook Shot,2PT Field Goal,2,0,POST_MOVES,0.0,2024
+Day'Ron Sharpe,1630549,Alley Oop Layup shot,2PT Field Goal,1,1,LAYUPS,1.0,2025
+Day'Ron Sharpe,1630549,Cutting Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2025
+Day'Ron Sharpe,1630549,Cutting Layup Shot,2PT Field Goal,4,2,LAYUPS,0.5,2025
+Day'Ron Sharpe,1630549,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2025
+Day'Ron Sharpe,1630549,Jump Bank Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
+Day'Ron Sharpe,1630549,Jump Shot,3PT Field Goal,6,1,JUMP_SHOTS,0.25,2025
+Day'Ron Sharpe,1630549,Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2025
+Day'Ron Sharpe,1630549,Putback Layup Shot,2PT Field Goal,5,2,LAYUPS,0.4,2025
+Day'Ron Sharpe,1630549,Running Alley Oop Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2025
+Day'Ron Sharpe,1630549,Running Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2025
+Day'Ron Sharpe,1630549,Running Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2025
+Day'Ron Sharpe,1630549,Tip Layup Shot,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2025

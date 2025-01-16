@@ -1,36 +1,36 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Olivier-Maxence Prosper,1641765,Cutting Dunk Shot,2PT Field Goal,1,1,DUNKS,2024
-Olivier-Maxence Prosper,1641765,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,2024
-Olivier-Maxence Prosper,1641765,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,2024
-Olivier-Maxence Prosper,1641765,Driving Layup Shot,2PT Field Goal,6,2,LAYUPS,2024
-Olivier-Maxence Prosper,1641765,Driving Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,2024
-Olivier-Maxence Prosper,1641765,Dunk Shot,2PT Field Goal,1,1,DUNKS,2024
-Olivier-Maxence Prosper,1641765,Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,2024
-Olivier-Maxence Prosper,1641765,Jump Shot,3PT Field Goal,22,7,JUMP_SHOTS,2024
-Olivier-Maxence Prosper,1641765,Pullup Jump shot,2PT Field Goal,3,1,JUMP_SHOTS,2024
-Olivier-Maxence Prosper,1641765,Putback Layup Shot,2PT Field Goal,1,1,LAYUPS,2024
-Olivier-Maxence Prosper,1641765,Running Dunk Shot,2PT Field Goal,2,2,DUNKS,2024
-Olivier-Maxence Prosper,1641765,Running Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,2024
-Olivier-Maxence Prosper,1641765,Running Layup Shot,2PT Field Goal,4,1,LAYUPS,2024
-Olivier-Maxence Prosper,1641765,Running Pull-Up Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2024
-Olivier-Maxence Prosper,1641765,Tip Dunk Shot,2PT Field Goal,1,1,DUNKS,2024
-Olivier-Maxence Prosper,1641765,Tip Layup Shot,2PT Field Goal,3,1,LAYUPS,2024
-Olivier-Maxence Prosper,1641765,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,2024
-Olivier-Maxence Prosper,1641765,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,2025
-Olivier-Maxence Prosper,1641765,Driving Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,2025
-Olivier-Maxence Prosper,1641765,Driving Floating Bank Jump Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,2025
-Olivier-Maxence Prosper,1641765,Driving Floating Jump Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,2025
-Olivier-Maxence Prosper,1641765,Driving Layup Shot,2PT Field Goal,4,2,LAYUPS,2025
-Olivier-Maxence Prosper,1641765,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2025
-Olivier-Maxence Prosper,1641765,Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,2025
-Olivier-Maxence Prosper,1641765,Jump Shot,3PT Field Goal,8,2,JUMP_SHOTS,2025
-Olivier-Maxence Prosper,1641765,Layup Shot,2PT Field Goal,2,0,LAYUPS,2025
-Olivier-Maxence Prosper,1641765,Pullup Jump shot,2PT Field Goal,3,0,JUMP_SHOTS,2025
-Olivier-Maxence Prosper,1641765,Putback Layup Shot,2PT Field Goal,2,0,LAYUPS,2025
-Olivier-Maxence Prosper,1641765,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,2025
-Olivier-Maxence Prosper,1641765,Running Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,2025
-Olivier-Maxence Prosper,1641765,Running Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,2025
-Olivier-Maxence Prosper,1641765,Running Layup Shot,2PT Field Goal,2,1,LAYUPS,2025
-Olivier-Maxence Prosper,1641765,Running Reverse Dunk Shot,2PT Field Goal,1,1,DUNKS,2025
-Olivier-Maxence Prosper,1641765,Step Back Jump shot,3PT Field Goal,1,0,JUMP_SHOTS,2025
-Olivier-Maxence Prosper,1641765,Tip Layup Shot,2PT Field Goal,1,0,LAYUPS,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Olivier-Maxence Prosper,1641765,Cutting Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2024
+Olivier-Maxence Prosper,1641765,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2024
+Olivier-Maxence Prosper,1641765,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2024
+Olivier-Maxence Prosper,1641765,Driving Layup Shot,2PT Field Goal,6,2,LAYUPS,0.3333333333333333,2024
+Olivier-Maxence Prosper,1641765,Driving Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2024
+Olivier-Maxence Prosper,1641765,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2024
+Olivier-Maxence Prosper,1641765,Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2024
+Olivier-Maxence Prosper,1641765,Jump Shot,3PT Field Goal,22,7,JUMP_SHOTS,0.4772727272727273,2024
+Olivier-Maxence Prosper,1641765,Pullup Jump shot,2PT Field Goal,3,1,JUMP_SHOTS,0.3333333333333333,2024
+Olivier-Maxence Prosper,1641765,Putback Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
+Olivier-Maxence Prosper,1641765,Running Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2024
+Olivier-Maxence Prosper,1641765,Running Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
+Olivier-Maxence Prosper,1641765,Running Layup Shot,2PT Field Goal,4,1,LAYUPS,0.25,2024
+Olivier-Maxence Prosper,1641765,Running Pull-Up Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
+Olivier-Maxence Prosper,1641765,Tip Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2024
+Olivier-Maxence Prosper,1641765,Tip Layup Shot,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2024
+Olivier-Maxence Prosper,1641765,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2024
+Olivier-Maxence Prosper,1641765,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2025
+Olivier-Maxence Prosper,1641765,Driving Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2025
+Olivier-Maxence Prosper,1641765,Driving Floating Bank Jump Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,0.0,2025
+Olivier-Maxence Prosper,1641765,Driving Floating Jump Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,0.0,2025
+Olivier-Maxence Prosper,1641765,Driving Layup Shot,2PT Field Goal,4,2,LAYUPS,0.5,2025
+Olivier-Maxence Prosper,1641765,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
+Olivier-Maxence Prosper,1641765,Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2025
+Olivier-Maxence Prosper,1641765,Jump Shot,3PT Field Goal,8,2,JUMP_SHOTS,0.375,2025
+Olivier-Maxence Prosper,1641765,Layup Shot,2PT Field Goal,2,0,LAYUPS,0.0,2025
+Olivier-Maxence Prosper,1641765,Pullup Jump shot,2PT Field Goal,3,0,JUMP_SHOTS,0.0,2025
+Olivier-Maxence Prosper,1641765,Putback Layup Shot,2PT Field Goal,2,0,LAYUPS,0.0,2025
+Olivier-Maxence Prosper,1641765,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2025
+Olivier-Maxence Prosper,1641765,Running Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2025
+Olivier-Maxence Prosper,1641765,Running Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,2025
+Olivier-Maxence Prosper,1641765,Running Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2025
+Olivier-Maxence Prosper,1641765,Running Reverse Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2025
+Olivier-Maxence Prosper,1641765,Step Back Jump shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
+Olivier-Maxence Prosper,1641765,Tip Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2025

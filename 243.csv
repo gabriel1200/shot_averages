@@ -1,15 +1,15 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Aaron McKie,243,Driving Layup Shot,2PT Field Goal,29,24,LAYUPS,1997
-Aaron McKie,243,Dunk Shot,2PT Field Goal,4,4,DUNKS,1997
-Aaron McKie,243,Hook Shot,2PT Field Goal,1,0,POST_MOVES,1997
-Aaron McKie,243,Jump Shot,2PT Field Goal,86,24,JUMP_SHOTS,1997
-Aaron McKie,243,Jump Shot,3PT Field Goal,64,23,JUMP_SHOTS,1997
-Aaron McKie,243,Layup Shot,2PT Field Goal,59,33,LAYUPS,1997
-Aaron McKie,243,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1997
-Aaron McKie,243,Tip Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,1997
-Aaron McKie,243,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,1998
-Aaron McKie,243,Jump Shot,2PT Field Goal,13,5,JUMP_SHOTS,1998
-Aaron McKie,243,Jump Shot,3PT Field Goal,8,2,JUMP_SHOTS,1998
-Aaron McKie,243,Layup Shot,2PT Field Goal,6,3,LAYUPS,1998
-Aaron McKie,243,Running Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1998
-Aaron McKie,243,Tip Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,1998
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Aaron McKie,243,Driving Layup Shot,2PT Field Goal,29,24,LAYUPS,0.8275862068965517,1997
+Aaron McKie,243,Dunk Shot,2PT Field Goal,4,4,DUNKS,1.0,1997
+Aaron McKie,243,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,1997
+Aaron McKie,243,Jump Shot,2PT Field Goal,86,24,JUMP_SHOTS,0.2790697674418604,1997
+Aaron McKie,243,Jump Shot,3PT Field Goal,64,23,JUMP_SHOTS,0.5390625,1997
+Aaron McKie,243,Layup Shot,2PT Field Goal,59,33,LAYUPS,0.559322033898305,1997
+Aaron McKie,243,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,1997
+Aaron McKie,243,Tip Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,0.0,1997
+Aaron McKie,243,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,1998
+Aaron McKie,243,Jump Shot,2PT Field Goal,13,5,JUMP_SHOTS,0.3846153846153846,1998
+Aaron McKie,243,Jump Shot,3PT Field Goal,8,2,JUMP_SHOTS,0.375,1998
+Aaron McKie,243,Layup Shot,2PT Field Goal,6,3,LAYUPS,0.5,1998
+Aaron McKie,243,Running Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,1998
+Aaron McKie,243,Tip Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,0.0,1998

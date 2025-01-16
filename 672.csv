@@ -1,6 +1,6 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Matt Bullard,672,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,1997
-Matt Bullard,672,Jump Shot,3PT Field Goal,3,0,JUMP_SHOTS,1997
-Matt Bullard,672,Layup Shot,2PT Field Goal,1,0,LAYUPS,1997
-Matt Bullard,672,Jump Shot,3PT Field Goal,3,1,JUMP_SHOTS,1998
-Matt Bullard,672,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,1999
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Matt Bullard,672,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,1997
+Matt Bullard,672,Jump Shot,3PT Field Goal,3,0,JUMP_SHOTS,0.0,1997
+Matt Bullard,672,Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,1997
+Matt Bullard,672,Jump Shot,3PT Field Goal,3,1,JUMP_SHOTS,0.5,1998
+Matt Bullard,672,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,1999

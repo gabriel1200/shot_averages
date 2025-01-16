@@ -1,7 +1,7 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Mitchell Butler,348,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,1997
-Mitchell Butler,348,Hook Shot,2PT Field Goal,2,1,POST_MOVES,1997
-Mitchell Butler,348,Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,1997
-Mitchell Butler,348,Jump Shot,3PT Field Goal,3,0,JUMP_SHOTS,1997
-Mitchell Butler,348,Layup Shot,2PT Field Goal,7,5,LAYUPS,1997
-Mitchell Butler,348,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,2002
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Mitchell Butler,348,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,1997
+Mitchell Butler,348,Hook Shot,2PT Field Goal,2,1,POST_MOVES,0.5,1997
+Mitchell Butler,348,Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,0.3333333333333333,1997
+Mitchell Butler,348,Jump Shot,3PT Field Goal,3,0,JUMP_SHOTS,0.0,1997
+Mitchell Butler,348,Layup Shot,2PT Field Goal,7,5,LAYUPS,0.7142857142857143,1997
+Mitchell Butler,348,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2002

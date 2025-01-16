@@ -1,45 +1,45 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Malcolm Delaney,1627098,Cutting Layup Shot,2PT Field Goal,1,0,LAYUPS,2017
-Malcolm Delaney,1627098,Driving Bank shot,2PT Field Goal,1,0,JUMP_SHOTS,2017
-Malcolm Delaney,1627098,Driving Finger Roll Layup Shot,2PT Field Goal,2,0,LAYUPS,2017
-Malcolm Delaney,1627098,Driving Floating Bank Jump Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,2017
-Malcolm Delaney,1627098,Driving Floating Jump Shot,2PT Field Goal,3,0,SPECIALTY_SHOTS,2017
-Malcolm Delaney,1627098,Driving Layup Shot,2PT Field Goal,11,3,LAYUPS,2017
-Malcolm Delaney,1627098,Driving Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,2017
-Malcolm Delaney,1627098,Fadeaway Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,2017
-Malcolm Delaney,1627098,Floating Jump shot,2PT Field Goal,2,0,SPECIALTY_SHOTS,2017
-Malcolm Delaney,1627098,Hook Shot,2PT Field Goal,1,0,POST_MOVES,2017
-Malcolm Delaney,1627098,Jump Bank Shot,2PT Field Goal,1,1,JUMP_SHOTS,2017
-Malcolm Delaney,1627098,Jump Shot,2PT Field Goal,21,5,JUMP_SHOTS,2017
-Malcolm Delaney,1627098,Jump Shot,3PT Field Goal,33,9,JUMP_SHOTS,2017
-Malcolm Delaney,1627098,Layup Shot,2PT Field Goal,2,1,LAYUPS,2017
-Malcolm Delaney,1627098,Pullup Bank shot,2PT Field Goal,1,0,JUMP_SHOTS,2017
-Malcolm Delaney,1627098,Pullup Jump shot,2PT Field Goal,54,32,JUMP_SHOTS,2017
-Malcolm Delaney,1627098,Pullup Jump shot,3PT Field Goal,10,3,JUMP_SHOTS,2017
-Malcolm Delaney,1627098,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,2017
-Malcolm Delaney,1627098,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2017
-Malcolm Delaney,1627098,Running Layup Shot,2PT Field Goal,2,1,LAYUPS,2017
-Malcolm Delaney,1627098,Running Pull-Up Jump Shot,2PT Field Goal,3,3,JUMP_SHOTS,2017
-Malcolm Delaney,1627098,Step Back Jump shot,2PT Field Goal,2,1,JUMP_SHOTS,2017
-Malcolm Delaney,1627098,Tip Layup Shot,2PT Field Goal,1,0,LAYUPS,2017
-Malcolm Delaney,1627098,Turnaround Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,2017
-Malcolm Delaney,1627098,Cutting Layup Shot,2PT Field Goal,5,4,LAYUPS,2018
-Malcolm Delaney,1627098,Driving Finger Roll Layup Shot,2PT Field Goal,1,0,LAYUPS,2018
-Malcolm Delaney,1627098,Driving Floating Bank Jump Shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,2018
-Malcolm Delaney,1627098,Driving Floating Jump Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,2018
-Malcolm Delaney,1627098,Driving Layup Shot,2PT Field Goal,12,4,LAYUPS,2018
-Malcolm Delaney,1627098,Driving Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,2018
-Malcolm Delaney,1627098,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2018
-Malcolm Delaney,1627098,Floating Jump shot,2PT Field Goal,2,0,SPECIALTY_SHOTS,2018
-Malcolm Delaney,1627098,Jump Shot,2PT Field Goal,5,2,JUMP_SHOTS,2018
-Malcolm Delaney,1627098,Jump Shot,3PT Field Goal,30,13,JUMP_SHOTS,2018
-Malcolm Delaney,1627098,Layup Shot,2PT Field Goal,3,0,LAYUPS,2018
-Malcolm Delaney,1627098,Pullup Jump shot,2PT Field Goal,16,5,JUMP_SHOTS,2018
-Malcolm Delaney,1627098,Pullup Jump shot,3PT Field Goal,4,2,JUMP_SHOTS,2018
-Malcolm Delaney,1627098,Running Layup Shot,2PT Field Goal,1,1,LAYUPS,2018
-Malcolm Delaney,1627098,Running Pull-Up Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,2018
-Malcolm Delaney,1627098,Running Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,2018
-Malcolm Delaney,1627098,Step Back Jump shot,2PT Field Goal,2,1,JUMP_SHOTS,2018
-Malcolm Delaney,1627098,Step Back Jump shot,3PT Field Goal,1,0,JUMP_SHOTS,2018
-Malcolm Delaney,1627098,Tip Layup Shot,2PT Field Goal,1,0,LAYUPS,2018
-Malcolm Delaney,1627098,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2018
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Malcolm Delaney,1627098,Cutting Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2017
+Malcolm Delaney,1627098,Driving Bank shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2017
+Malcolm Delaney,1627098,Driving Finger Roll Layup Shot,2PT Field Goal,2,0,LAYUPS,0.0,2017
+Malcolm Delaney,1627098,Driving Floating Bank Jump Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,0.0,2017
+Malcolm Delaney,1627098,Driving Floating Jump Shot,2PT Field Goal,3,0,SPECIALTY_SHOTS,0.0,2017
+Malcolm Delaney,1627098,Driving Layup Shot,2PT Field Goal,11,3,LAYUPS,0.2727272727272727,2017
+Malcolm Delaney,1627098,Driving Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2017
+Malcolm Delaney,1627098,Fadeaway Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2017
+Malcolm Delaney,1627098,Floating Jump shot,2PT Field Goal,2,0,SPECIALTY_SHOTS,0.0,2017
+Malcolm Delaney,1627098,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2017
+Malcolm Delaney,1627098,Jump Bank Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2017
+Malcolm Delaney,1627098,Jump Shot,2PT Field Goal,21,5,JUMP_SHOTS,0.238095238095238,2017
+Malcolm Delaney,1627098,Jump Shot,3PT Field Goal,33,9,JUMP_SHOTS,0.4090909090909091,2017
+Malcolm Delaney,1627098,Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2017
+Malcolm Delaney,1627098,Pullup Bank shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2017
+Malcolm Delaney,1627098,Pullup Jump shot,2PT Field Goal,54,32,JUMP_SHOTS,0.5925925925925926,2017
+Malcolm Delaney,1627098,Pullup Jump shot,3PT Field Goal,10,3,JUMP_SHOTS,0.45,2017
+Malcolm Delaney,1627098,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2017
+Malcolm Delaney,1627098,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2017
+Malcolm Delaney,1627098,Running Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2017
+Malcolm Delaney,1627098,Running Pull-Up Jump Shot,2PT Field Goal,3,3,JUMP_SHOTS,1.0,2017
+Malcolm Delaney,1627098,Step Back Jump shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2017
+Malcolm Delaney,1627098,Tip Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2017
+Malcolm Delaney,1627098,Turnaround Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,2017
+Malcolm Delaney,1627098,Cutting Layup Shot,2PT Field Goal,5,4,LAYUPS,0.8,2018
+Malcolm Delaney,1627098,Driving Finger Roll Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2018
+Malcolm Delaney,1627098,Driving Floating Bank Jump Shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,1.0,2018
+Malcolm Delaney,1627098,Driving Floating Jump Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,0.0,2018
+Malcolm Delaney,1627098,Driving Layup Shot,2PT Field Goal,12,4,LAYUPS,0.3333333333333333,2018
+Malcolm Delaney,1627098,Driving Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2018
+Malcolm Delaney,1627098,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2018
+Malcolm Delaney,1627098,Floating Jump shot,2PT Field Goal,2,0,SPECIALTY_SHOTS,0.0,2018
+Malcolm Delaney,1627098,Jump Shot,2PT Field Goal,5,2,JUMP_SHOTS,0.4,2018
+Malcolm Delaney,1627098,Jump Shot,3PT Field Goal,30,13,JUMP_SHOTS,0.65,2018
+Malcolm Delaney,1627098,Layup Shot,2PT Field Goal,3,0,LAYUPS,0.0,2018
+Malcolm Delaney,1627098,Pullup Jump shot,2PT Field Goal,16,5,JUMP_SHOTS,0.3125,2018
+Malcolm Delaney,1627098,Pullup Jump shot,3PT Field Goal,4,2,JUMP_SHOTS,0.75,2018
+Malcolm Delaney,1627098,Running Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2018
+Malcolm Delaney,1627098,Running Pull-Up Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2018
+Malcolm Delaney,1627098,Running Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2018
+Malcolm Delaney,1627098,Step Back Jump shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2018
+Malcolm Delaney,1627098,Step Back Jump shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2018
+Malcolm Delaney,1627098,Tip Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2018
+Malcolm Delaney,1627098,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2018

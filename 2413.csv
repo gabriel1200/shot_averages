@@ -1,5 +1,5 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Juan Dixon,2413,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2003
-Juan Dixon,2413,Jump Shot,3PT Field Goal,6,1,JUMP_SHOTS,2003
-Juan Dixon,2413,Layup Shot,2PT Field Goal,1,0,LAYUPS,2003
-Juan Dixon,2413,Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,2006
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Juan Dixon,2413,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2003
+Juan Dixon,2413,Jump Shot,3PT Field Goal,6,1,JUMP_SHOTS,0.25,2003
+Juan Dixon,2413,Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2003
+Juan Dixon,2413,Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2006

@@ -1,6 +1,6 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Rod Strickland,393,Driving Layup Shot,2PT Field Goal,5,5,LAYUPS,1999
-Rod Strickland,393,Jump Shot,2PT Field Goal,23,2,JUMP_SHOTS,1999
-Rod Strickland,393,Jump Shot,3PT Field Goal,4,1,JUMP_SHOTS,1999
-Rod Strickland,393,Layup Shot,2PT Field Goal,2,2,LAYUPS,1999
-Rod Strickland,393,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Rod Strickland,393,Driving Layup Shot,2PT Field Goal,5,5,LAYUPS,1.0,1999
+Rod Strickland,393,Jump Shot,2PT Field Goal,23,2,JUMP_SHOTS,0.0869565217391304,1999
+Rod Strickland,393,Jump Shot,3PT Field Goal,4,1,JUMP_SHOTS,0.375,1999
+Rod Strickland,393,Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,1999
+Rod Strickland,393,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2001

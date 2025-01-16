@@ -1,20 +1,20 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Jeremy Lin,202391,Jump Shot,2PT Field Goal,4,1,JUMP_SHOTS,2011
-Jeremy Lin,202391,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,2011
-Jeremy Lin,202391,Layup Shot,2PT Field Goal,1,0,LAYUPS,2011
-Jeremy Lin,202391,Driving Bank shot,2PT Field Goal,1,1,JUMP_SHOTS,2012
-Jeremy Lin,202391,Driving Layup Shot,2PT Field Goal,7,5,LAYUPS,2012
-Jeremy Lin,202391,Driving Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,2012
-Jeremy Lin,202391,Floating Jump shot,2PT Field Goal,3,1,SPECIALTY_SHOTS,2012
-Jeremy Lin,202391,Jump Shot,2PT Field Goal,7,1,JUMP_SHOTS,2012
-Jeremy Lin,202391,Jump Shot,3PT Field Goal,3,0,JUMP_SHOTS,2012
-Jeremy Lin,202391,Layup Shot,2PT Field Goal,6,0,LAYUPS,2012
-Jeremy Lin,202391,Running Bank shot,2PT Field Goal,1,1,JUMP_SHOTS,2012
-Jeremy Lin,202391,Turnaround Fadeaway shot,2PT Field Goal,1,1,JUMP_SHOTS,2012
-Jeremy Lin,202391,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2014
-Jeremy Lin,202391,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,2014
-Jeremy Lin,202391,Layup Shot,2PT Field Goal,1,0,LAYUPS,2014
-Jeremy Lin,202391,Step Back Jump shot,2PT Field Goal,1,1,JUMP_SHOTS,2014
-Jeremy Lin,202391,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2015
-Jeremy Lin,202391,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2017
-Jeremy Lin,202391,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,2017
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Jeremy Lin,202391,Jump Shot,2PT Field Goal,4,1,JUMP_SHOTS,0.25,2011
+Jeremy Lin,202391,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2011
+Jeremy Lin,202391,Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2011
+Jeremy Lin,202391,Driving Bank shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2012
+Jeremy Lin,202391,Driving Layup Shot,2PT Field Goal,7,5,LAYUPS,0.7142857142857143,2012
+Jeremy Lin,202391,Driving Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2012
+Jeremy Lin,202391,Floating Jump shot,2PT Field Goal,3,1,SPECIALTY_SHOTS,0.3333333333333333,2012
+Jeremy Lin,202391,Jump Shot,2PT Field Goal,7,1,JUMP_SHOTS,0.1428571428571428,2012
+Jeremy Lin,202391,Jump Shot,3PT Field Goal,3,0,JUMP_SHOTS,0.0,2012
+Jeremy Lin,202391,Layup Shot,2PT Field Goal,6,0,LAYUPS,0.0,2012
+Jeremy Lin,202391,Running Bank shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2012
+Jeremy Lin,202391,Turnaround Fadeaway shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2012
+Jeremy Lin,202391,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2014
+Jeremy Lin,202391,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,2014
+Jeremy Lin,202391,Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2014
+Jeremy Lin,202391,Step Back Jump shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2014
+Jeremy Lin,202391,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2015
+Jeremy Lin,202391,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2017
+Jeremy Lin,202391,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2017

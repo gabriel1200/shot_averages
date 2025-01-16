@@ -1,6 +1,6 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Jerome Kersey,760,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,1997
-Jerome Kersey,760,Jump Shot,2PT Field Goal,4,1,JUMP_SHOTS,1997
-Jerome Kersey,760,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,1997
-Jerome Kersey,760,Layup Shot,2PT Field Goal,7,1,LAYUPS,1997
-Jerome Kersey,760,Tip Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,1997
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Jerome Kersey,760,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,1997
+Jerome Kersey,760,Jump Shot,2PT Field Goal,4,1,JUMP_SHOTS,0.25,1997
+Jerome Kersey,760,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,1997
+Jerome Kersey,760,Layup Shot,2PT Field Goal,7,1,LAYUPS,0.1428571428571428,1997
+Jerome Kersey,760,Tip Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,0.0,1997

@@ -1,40 +1,40 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Jared Butler,1630215,Cutting Layup Shot,2PT Field Goal,3,2,LAYUPS,2024
-Jared Butler,1630215,Driving Bank Hook Shot,2PT Field Goal,1,1,POST_MOVES,2024
-Jared Butler,1630215,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,2024
-Jared Butler,1630215,Driving Finger Roll Layup Shot,2PT Field Goal,7,6,LAYUPS,2024
-Jared Butler,1630215,Driving Floating Jump Shot,2PT Field Goal,15,6,SPECIALTY_SHOTS,2024
-Jared Butler,1630215,Driving Layup Shot,2PT Field Goal,19,7,LAYUPS,2024
-Jared Butler,1630215,Driving Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,2024
-Jared Butler,1630215,Floating Jump shot,2PT Field Goal,3,1,SPECIALTY_SHOTS,2024
-Jared Butler,1630215,Jump Shot,3PT Field Goal,14,2,JUMP_SHOTS,2024
-Jared Butler,1630215,Pullup Jump shot,2PT Field Goal,3,3,JUMP_SHOTS,2024
-Jared Butler,1630215,Pullup Jump shot,3PT Field Goal,9,5,JUMP_SHOTS,2024
-Jared Butler,1630215,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,2024
-Jared Butler,1630215,Running Dunk Shot,2PT Field Goal,1,1,DUNKS,2024
-Jared Butler,1630215,Running Finger Roll Layup Shot,2PT Field Goal,2,2,LAYUPS,2024
-Jared Butler,1630215,Running Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,2024
-Jared Butler,1630215,Running Layup Shot,2PT Field Goal,5,5,LAYUPS,2024
-Jared Butler,1630215,Running Pull-Up Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,2024
-Jared Butler,1630215,Step Back Jump shot,3PT Field Goal,7,3,JUMP_SHOTS,2024
-Jared Butler,1630215,Turnaround Fadeaway shot,2PT Field Goal,1,1,JUMP_SHOTS,2024
-Jared Butler,1630215,Cutting Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,2025
-Jared Butler,1630215,Cutting Layup Shot,2PT Field Goal,1,1,LAYUPS,2025
-Jared Butler,1630215,Driving Finger Roll Layup Shot,2PT Field Goal,8,7,LAYUPS,2025
-Jared Butler,1630215,Driving Floating Bank Jump Shot,2PT Field Goal,4,1,SPECIALTY_SHOTS,2025
-Jared Butler,1630215,Driving Floating Jump Shot,2PT Field Goal,17,6,SPECIALTY_SHOTS,2025
-Jared Butler,1630215,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,2025
-Jared Butler,1630215,Driving Layup Shot,2PT Field Goal,17,7,LAYUPS,2025
-Jared Butler,1630215,Driving Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,2025
-Jared Butler,1630215,Floating Jump shot,2PT Field Goal,3,1,SPECIALTY_SHOTS,2025
-Jared Butler,1630215,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2025
-Jared Butler,1630215,Jump Shot,3PT Field Goal,12,4,JUMP_SHOTS,2025
-Jared Butler,1630215,Layup Shot,2PT Field Goal,3,2,LAYUPS,2025
-Jared Butler,1630215,Pullup Jump shot,2PT Field Goal,1,1,JUMP_SHOTS,2025
-Jared Butler,1630215,Pullup Jump shot,3PT Field Goal,4,1,JUMP_SHOTS,2025
-Jared Butler,1630215,Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,2025
-Jared Butler,1630215,Running Finger Roll Layup Shot,2PT Field Goal,3,2,LAYUPS,2025
-Jared Butler,1630215,Running Jump Shot,3PT Field Goal,2,2,JUMP_SHOTS,2025
-Jared Butler,1630215,Running Layup Shot,2PT Field Goal,4,3,LAYUPS,2025
-Jared Butler,1630215,Step Back Jump shot,3PT Field Goal,2,1,JUMP_SHOTS,2025
-Jared Butler,1630215,Tip Layup Shot,2PT Field Goal,3,3,LAYUPS,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Jared Butler,1630215,Cutting Layup Shot,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2024
+Jared Butler,1630215,Driving Bank Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2024
+Jared Butler,1630215,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2024
+Jared Butler,1630215,Driving Finger Roll Layup Shot,2PT Field Goal,7,6,LAYUPS,0.8571428571428571,2024
+Jared Butler,1630215,Driving Floating Jump Shot,2PT Field Goal,15,6,SPECIALTY_SHOTS,0.4,2024
+Jared Butler,1630215,Driving Layup Shot,2PT Field Goal,19,7,LAYUPS,0.3684210526315789,2024
+Jared Butler,1630215,Driving Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
+Jared Butler,1630215,Floating Jump shot,2PT Field Goal,3,1,SPECIALTY_SHOTS,0.3333333333333333,2024
+Jared Butler,1630215,Jump Shot,3PT Field Goal,14,2,JUMP_SHOTS,0.2142857142857142,2024
+Jared Butler,1630215,Pullup Jump shot,2PT Field Goal,3,3,JUMP_SHOTS,1.0,2024
+Jared Butler,1630215,Pullup Jump shot,3PT Field Goal,9,5,JUMP_SHOTS,0.8333333333333334,2024
+Jared Butler,1630215,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
+Jared Butler,1630215,Running Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2024
+Jared Butler,1630215,Running Finger Roll Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2024
+Jared Butler,1630215,Running Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2024
+Jared Butler,1630215,Running Layup Shot,2PT Field Goal,5,5,LAYUPS,1.0,2024
+Jared Butler,1630215,Running Pull-Up Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
+Jared Butler,1630215,Step Back Jump shot,3PT Field Goal,7,3,JUMP_SHOTS,0.6428571428571429,2024
+Jared Butler,1630215,Turnaround Fadeaway shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2024
+Jared Butler,1630215,Cutting Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2025
+Jared Butler,1630215,Cutting Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2025
+Jared Butler,1630215,Driving Finger Roll Layup Shot,2PT Field Goal,8,7,LAYUPS,0.875,2025
+Jared Butler,1630215,Driving Floating Bank Jump Shot,2PT Field Goal,4,1,SPECIALTY_SHOTS,0.25,2025
+Jared Butler,1630215,Driving Floating Jump Shot,2PT Field Goal,17,6,SPECIALTY_SHOTS,0.3529411764705882,2025
+Jared Butler,1630215,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2025
+Jared Butler,1630215,Driving Layup Shot,2PT Field Goal,17,7,LAYUPS,0.4117647058823529,2025
+Jared Butler,1630215,Driving Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2025
+Jared Butler,1630215,Floating Jump shot,2PT Field Goal,3,1,SPECIALTY_SHOTS,0.3333333333333333,2025
+Jared Butler,1630215,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
+Jared Butler,1630215,Jump Shot,3PT Field Goal,12,4,JUMP_SHOTS,0.5,2025
+Jared Butler,1630215,Layup Shot,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2025
+Jared Butler,1630215,Pullup Jump shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2025
+Jared Butler,1630215,Pullup Jump shot,3PT Field Goal,4,1,JUMP_SHOTS,0.375,2025
+Jared Butler,1630215,Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2025
+Jared Butler,1630215,Running Finger Roll Layup Shot,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2025
+Jared Butler,1630215,Running Jump Shot,3PT Field Goal,2,2,JUMP_SHOTS,1.5,2025
+Jared Butler,1630215,Running Layup Shot,2PT Field Goal,4,3,LAYUPS,0.75,2025
+Jared Butler,1630215,Step Back Jump shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2025
+Jared Butler,1630215,Tip Layup Shot,2PT Field Goal,3,3,LAYUPS,1.0,2025

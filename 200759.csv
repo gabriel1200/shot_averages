@@ -1,6 +1,6 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Cedric Simmons,200759,Dunk Shot,2PT Field Goal,1,1,DUNKS,2007
-Cedric Simmons,200759,Jump Shot,2PT Field Goal,9,2,JUMP_SHOTS,2007
-Cedric Simmons,200759,Layup Shot,2PT Field Goal,3,2,LAYUPS,2007
-Cedric Simmons,200759,Turnaround Hook Shot,2PT Field Goal,1,0,POST_MOVES,2007
-Cedric Simmons,200759,Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,2008
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Cedric Simmons,200759,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2007
+Cedric Simmons,200759,Jump Shot,2PT Field Goal,9,2,JUMP_SHOTS,0.2222222222222222,2007
+Cedric Simmons,200759,Layup Shot,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2007
+Cedric Simmons,200759,Turnaround Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2007
+Cedric Simmons,200759,Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2008

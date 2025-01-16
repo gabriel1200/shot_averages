@@ -1,47 +1,47 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Max Christie,1631108,Alley Oop Dunk Shot,2PT Field Goal,1,0,DUNKS,2023
-Max Christie,1631108,Cutting Dunk Shot,2PT Field Goal,5,5,DUNKS,2024
-Max Christie,1631108,Cutting Layup Shot,2PT Field Goal,1,0,LAYUPS,2024
-Max Christie,1631108,Driving Dunk Shot,2PT Field Goal,5,5,DUNKS,2024
-Max Christie,1631108,Driving Finger Roll Layup Shot,2PT Field Goal,3,2,LAYUPS,2024
-Max Christie,1631108,Driving Floating Jump Shot,2PT Field Goal,6,1,SPECIALTY_SHOTS,2024
-Max Christie,1631108,Driving Layup Shot,2PT Field Goal,12,5,LAYUPS,2024
-Max Christie,1631108,Driving Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,2024
-Max Christie,1631108,Dunk Shot,2PT Field Goal,1,1,DUNKS,2024
-Max Christie,1631108,Fadeaway Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,2024
-Max Christie,1631108,Jump Shot,3PT Field Goal,54,20,JUMP_SHOTS,2024
-Max Christie,1631108,Pullup Jump shot,2PT Field Goal,17,8,JUMP_SHOTS,2024
-Max Christie,1631108,Pullup Jump shot,3PT Field Goal,7,1,JUMP_SHOTS,2024
-Max Christie,1631108,Running Dunk Shot,2PT Field Goal,2,1,DUNKS,2024
-Max Christie,1631108,Running Finger Roll Layup Shot,2PT Field Goal,1,0,LAYUPS,2024
-Max Christie,1631108,Running Jump Shot,3PT Field Goal,5,2,JUMP_SHOTS,2024
-Max Christie,1631108,Running Layup Shot,2PT Field Goal,4,3,LAYUPS,2024
-Max Christie,1631108,Running Pull-Up Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,2024
-Max Christie,1631108,Step Back Jump shot,3PT Field Goal,2,1,JUMP_SHOTS,2024
-Max Christie,1631108,Tip Layup Shot,2PT Field Goal,1,1,LAYUPS,2024
-Max Christie,1631108,Turnaround Fadeaway shot,2PT Field Goal,1,0,JUMP_SHOTS,2024
-Max Christie,1631108,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,2024
-Max Christie,1631108,Cutting Dunk Shot,2PT Field Goal,8,8,DUNKS,2025
-Max Christie,1631108,Cutting Layup Shot,2PT Field Goal,6,3,LAYUPS,2025
-Max Christie,1631108,Driving Dunk Shot,2PT Field Goal,2,1,DUNKS,2025
-Max Christie,1631108,Driving Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,2025
-Max Christie,1631108,Driving Floating Jump Shot,2PT Field Goal,9,3,SPECIALTY_SHOTS,2025
-Max Christie,1631108,Driving Floating Jump Shot,3PT Field Goal,1,0,SPECIALTY_SHOTS,2025
-Max Christie,1631108,Driving Layup Shot,2PT Field Goal,14,6,LAYUPS,2025
-Max Christie,1631108,Dunk Shot,2PT Field Goal,1,1,DUNKS,2025
-Max Christie,1631108,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,2025
-Max Christie,1631108,Floating Jump shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,2025
-Max Christie,1631108,Floating Jump shot,3PT Field Goal,1,0,SPECIALTY_SHOTS,2025
-Max Christie,1631108,Jump Shot,3PT Field Goal,53,23,JUMP_SHOTS,2025
-Max Christie,1631108,Layup Shot,2PT Field Goal,4,4,LAYUPS,2025
-Max Christie,1631108,Pullup Jump shot,2PT Field Goal,8,0,JUMP_SHOTS,2025
-Max Christie,1631108,Pullup Jump shot,3PT Field Goal,5,1,JUMP_SHOTS,2025
-Max Christie,1631108,Running Dunk Shot,2PT Field Goal,3,3,DUNKS,2025
-Max Christie,1631108,Running Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,2025
-Max Christie,1631108,Running Jump Shot,3PT Field Goal,11,5,JUMP_SHOTS,2025
-Max Christie,1631108,Running Layup Shot,2PT Field Goal,2,2,LAYUPS,2025
-Max Christie,1631108,Step Back Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,2025
-Max Christie,1631108,Step Back Jump shot,3PT Field Goal,2,0,JUMP_SHOTS,2025
-Max Christie,1631108,Tip Layup Shot,2PT Field Goal,3,1,LAYUPS,2025
-Max Christie,1631108,Turnaround Fadeaway shot,2PT Field Goal,1,0,JUMP_SHOTS,2025
-Max Christie,1631108,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Max Christie,1631108,Alley Oop Dunk Shot,2PT Field Goal,1,0,DUNKS,0.0,2023
+Max Christie,1631108,Cutting Dunk Shot,2PT Field Goal,5,5,DUNKS,1.0,2024
+Max Christie,1631108,Cutting Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2024
+Max Christie,1631108,Driving Dunk Shot,2PT Field Goal,5,5,DUNKS,1.0,2024
+Max Christie,1631108,Driving Finger Roll Layup Shot,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2024
+Max Christie,1631108,Driving Floating Jump Shot,2PT Field Goal,6,1,SPECIALTY_SHOTS,0.1666666666666666,2024
+Max Christie,1631108,Driving Layup Shot,2PT Field Goal,12,5,LAYUPS,0.4166666666666667,2024
+Max Christie,1631108,Driving Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2024
+Max Christie,1631108,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2024
+Max Christie,1631108,Fadeaway Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,0.6666666666666666,2024
+Max Christie,1631108,Jump Shot,3PT Field Goal,54,20,JUMP_SHOTS,0.5555555555555556,2024
+Max Christie,1631108,Pullup Jump shot,2PT Field Goal,17,8,JUMP_SHOTS,0.4705882352941176,2024
+Max Christie,1631108,Pullup Jump shot,3PT Field Goal,7,1,JUMP_SHOTS,0.2142857142857142,2024
+Max Christie,1631108,Running Dunk Shot,2PT Field Goal,2,1,DUNKS,0.5,2024
+Max Christie,1631108,Running Finger Roll Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2024
+Max Christie,1631108,Running Jump Shot,3PT Field Goal,5,2,JUMP_SHOTS,0.6,2024
+Max Christie,1631108,Running Layup Shot,2PT Field Goal,4,3,LAYUPS,0.75,2024
+Max Christie,1631108,Running Pull-Up Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2024
+Max Christie,1631108,Step Back Jump shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2024
+Max Christie,1631108,Tip Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
+Max Christie,1631108,Turnaround Fadeaway shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
+Max Christie,1631108,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2024
+Max Christie,1631108,Cutting Dunk Shot,2PT Field Goal,8,8,DUNKS,1.0,2025
+Max Christie,1631108,Cutting Layup Shot,2PT Field Goal,6,3,LAYUPS,0.5,2025
+Max Christie,1631108,Driving Dunk Shot,2PT Field Goal,2,1,DUNKS,0.5,2025
+Max Christie,1631108,Driving Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2025
+Max Christie,1631108,Driving Floating Jump Shot,2PT Field Goal,9,3,SPECIALTY_SHOTS,0.3333333333333333,2025
+Max Christie,1631108,Driving Floating Jump Shot,3PT Field Goal,1,0,SPECIALTY_SHOTS,0.0,2025
+Max Christie,1631108,Driving Layup Shot,2PT Field Goal,14,6,LAYUPS,0.4285714285714285,2025
+Max Christie,1631108,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2025
+Max Christie,1631108,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2025
+Max Christie,1631108,Floating Jump shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,0.0,2025
+Max Christie,1631108,Floating Jump shot,3PT Field Goal,1,0,SPECIALTY_SHOTS,0.0,2025
+Max Christie,1631108,Jump Shot,3PT Field Goal,53,23,JUMP_SHOTS,0.6509433962264151,2025
+Max Christie,1631108,Layup Shot,2PT Field Goal,4,4,LAYUPS,1.0,2025
+Max Christie,1631108,Pullup Jump shot,2PT Field Goal,8,0,JUMP_SHOTS,0.0,2025
+Max Christie,1631108,Pullup Jump shot,3PT Field Goal,5,1,JUMP_SHOTS,0.3,2025
+Max Christie,1631108,Running Dunk Shot,2PT Field Goal,3,3,DUNKS,1.0,2025
+Max Christie,1631108,Running Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2025
+Max Christie,1631108,Running Jump Shot,3PT Field Goal,11,5,JUMP_SHOTS,0.6818181818181818,2025
+Max Christie,1631108,Running Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2025
+Max Christie,1631108,Step Back Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
+Max Christie,1631108,Step Back Jump shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,2025
+Max Christie,1631108,Tip Layup Shot,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2025
+Max Christie,1631108,Turnaround Fadeaway shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
+Max Christie,1631108,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025

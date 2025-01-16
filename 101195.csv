@@ -1,8 +1,8 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Luke Schenscher,101195,Hook Shot,2PT Field Goal,1,1,POST_MOVES,2006
-Luke Schenscher,101195,Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,2006
-Luke Schenscher,101195,Layup Shot,2PT Field Goal,4,3,LAYUPS,2006
-Luke Schenscher,101195,Hook Shot,2PT Field Goal,1,1,POST_MOVES,2007
-Luke Schenscher,101195,Jump Bank Shot,2PT Field Goal,1,1,JUMP_SHOTS,2007
-Luke Schenscher,101195,Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,2007
-Luke Schenscher,101195,Layup Shot,2PT Field Goal,4,3,LAYUPS,2007
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Luke Schenscher,101195,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2006
+Luke Schenscher,101195,Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2006
+Luke Schenscher,101195,Layup Shot,2PT Field Goal,4,3,LAYUPS,0.75,2006
+Luke Schenscher,101195,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2007
+Luke Schenscher,101195,Jump Bank Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2007
+Luke Schenscher,101195,Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2007
+Luke Schenscher,101195,Layup Shot,2PT Field Goal,4,3,LAYUPS,0.75,2007

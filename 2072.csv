@@ -1,37 +1,37 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Michael Redd,2072,Driving Layup Shot,2PT Field Goal,1,0,LAYUPS,2001
-Michael Redd,2072,Hook Shot,2PT Field Goal,1,0,POST_MOVES,2001
-Michael Redd,2072,Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,2001
-Michael Redd,2072,Layup Shot,2PT Field Goal,1,0,LAYUPS,2001
-Michael Redd,2072,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,2002
-Michael Redd,2072,Jump Shot,2PT Field Goal,4,2,JUMP_SHOTS,2002
-Michael Redd,2072,Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,2002
-Michael Redd,2072,Layup Shot,2PT Field Goal,1,1,LAYUPS,2002
-Michael Redd,2072,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2002
-Michael Redd,2072,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,2003
-Michael Redd,2072,Dunk Shot,2PT Field Goal,1,1,DUNKS,2003
-Michael Redd,2072,Jump Shot,2PT Field Goal,16,6,JUMP_SHOTS,2003
-Michael Redd,2072,Jump Shot,3PT Field Goal,13,5,JUMP_SHOTS,2003
-Michael Redd,2072,Layup Shot,2PT Field Goal,4,2,LAYUPS,2003
-Michael Redd,2072,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,2004
-Michael Redd,2072,Dunk Shot,2PT Field Goal,1,1,DUNKS,2005
-Michael Redd,2072,Fadeaway Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,2005
-Michael Redd,2072,Jump Shot,2PT Field Goal,29,12,JUMP_SHOTS,2005
-Michael Redd,2072,Jump Shot,3PT Field Goal,10,3,JUMP_SHOTS,2005
-Michael Redd,2072,Layup Shot,2PT Field Goal,3,1,LAYUPS,2005
-Michael Redd,2072,Running Dunk Shot,2PT Field Goal,1,1,DUNKS,2005
-Michael Redd,2072,Running Finger Roll Shot,2PT Field Goal,1,1,LAYUPS,2005
-Michael Redd,2072,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2005
-Michael Redd,2072,Driving Dunk Shot,2PT Field Goal,2,2,DUNKS,2006
-Michael Redd,2072,Driving Layup Shot,2PT Field Goal,9,9,LAYUPS,2006
-Michael Redd,2072,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,2006
-Michael Redd,2072,Jump Bank Shot,2PT Field Goal,3,3,JUMP_SHOTS,2006
-Michael Redd,2072,Jump Hook Shot,2PT Field Goal,1,0,POST_MOVES,2006
-Michael Redd,2072,Jump Shot,2PT Field Goal,72,22,JUMP_SHOTS,2006
-Michael Redd,2072,Jump Shot,3PT Field Goal,49,19,JUMP_SHOTS,2006
-Michael Redd,2072,Layup Shot,2PT Field Goal,27,9,LAYUPS,2006
-Michael Redd,2072,Reverse Layup Shot,2PT Field Goal,6,5,LAYUPS,2006
-Michael Redd,2072,Running Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,2006
-Michael Redd,2072,Running Layup Shot,2PT Field Goal,1,1,LAYUPS,2006
-Michael Redd,2072,Turnaround Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,2006
-Michael Redd,2072,Jump Shot,2PT Field Goal,4,0,JUMP_SHOTS,2009
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Michael Redd,2072,Driving Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2001
+Michael Redd,2072,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2001
+Michael Redd,2072,Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,0.3333333333333333,2001
+Michael Redd,2072,Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2001
+Michael Redd,2072,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2002
+Michael Redd,2072,Jump Shot,2PT Field Goal,4,2,JUMP_SHOTS,0.5,2002
+Michael Redd,2072,Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2002
+Michael Redd,2072,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2002
+Michael Redd,2072,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2002
+Michael Redd,2072,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2003
+Michael Redd,2072,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2003
+Michael Redd,2072,Jump Shot,2PT Field Goal,16,6,JUMP_SHOTS,0.375,2003
+Michael Redd,2072,Jump Shot,3PT Field Goal,13,5,JUMP_SHOTS,0.5769230769230769,2003
+Michael Redd,2072,Layup Shot,2PT Field Goal,4,2,LAYUPS,0.5,2003
+Michael Redd,2072,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2004
+Michael Redd,2072,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2005
+Michael Redd,2072,Fadeaway Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2005
+Michael Redd,2072,Jump Shot,2PT Field Goal,29,12,JUMP_SHOTS,0.4137931034482758,2005
+Michael Redd,2072,Jump Shot,3PT Field Goal,10,3,JUMP_SHOTS,0.45,2005
+Michael Redd,2072,Layup Shot,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2005
+Michael Redd,2072,Running Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2005
+Michael Redd,2072,Running Finger Roll Shot,2PT Field Goal,1,1,LAYUPS,1.0,2005
+Michael Redd,2072,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2005
+Michael Redd,2072,Driving Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2006
+Michael Redd,2072,Driving Layup Shot,2PT Field Goal,9,9,LAYUPS,1.0,2006
+Michael Redd,2072,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2006
+Michael Redd,2072,Jump Bank Shot,2PT Field Goal,3,3,JUMP_SHOTS,1.0,2006
+Michael Redd,2072,Jump Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2006
+Michael Redd,2072,Jump Shot,2PT Field Goal,72,22,JUMP_SHOTS,0.3055555555555556,2006
+Michael Redd,2072,Jump Shot,3PT Field Goal,49,19,JUMP_SHOTS,0.5816326530612245,2006
+Michael Redd,2072,Layup Shot,2PT Field Goal,27,9,LAYUPS,0.3333333333333333,2006
+Michael Redd,2072,Reverse Layup Shot,2PT Field Goal,6,5,LAYUPS,0.8333333333333334,2006
+Michael Redd,2072,Running Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2006
+Michael Redd,2072,Running Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2006
+Michael Redd,2072,Turnaround Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,0.6666666666666666,2006
+Michael Redd,2072,Jump Shot,2PT Field Goal,4,0,JUMP_SHOTS,0.0,2009

@@ -1,9 +1,9 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Larry Stewart,1125,Driving Layup Shot,2PT Field Goal,2,1,LAYUPS,1997
-Larry Stewart,1125,Dunk Shot,2PT Field Goal,5,4,DUNKS,1997
-Larry Stewart,1125,Hook Shot,2PT Field Goal,2,0,POST_MOVES,1997
-Larry Stewart,1125,Jump Shot,2PT Field Goal,9,2,JUMP_SHOTS,1997
-Larry Stewart,1125,Jump Shot,3PT Field Goal,7,0,JUMP_SHOTS,1997
-Larry Stewart,1125,Layup Shot,2PT Field Goal,27,11,LAYUPS,1997
-Larry Stewart,1125,Slam Dunk Shot,2PT Field Goal,2,2,DUNKS,1997
-Larry Stewart,1125,Tip Shot,2PT Field Goal,2,0,SPECIALTY_SHOTS,1997
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Larry Stewart,1125,Driving Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,1997
+Larry Stewart,1125,Dunk Shot,2PT Field Goal,5,4,DUNKS,0.8,1997
+Larry Stewart,1125,Hook Shot,2PT Field Goal,2,0,POST_MOVES,0.0,1997
+Larry Stewart,1125,Jump Shot,2PT Field Goal,9,2,JUMP_SHOTS,0.2222222222222222,1997
+Larry Stewart,1125,Jump Shot,3PT Field Goal,7,0,JUMP_SHOTS,0.0,1997
+Larry Stewart,1125,Layup Shot,2PT Field Goal,27,11,LAYUPS,0.4074074074074074,1997
+Larry Stewart,1125,Slam Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,1997
+Larry Stewart,1125,Tip Shot,2PT Field Goal,2,0,SPECIALTY_SHOTS,0.0,1997

@@ -1,55 +1,55 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Andrew Wiggins,203952,Alley Oop Dunk Shot,2PT Field Goal,2,2,DUNKS,2024
-Andrew Wiggins,203952,Alley Oop Layup shot,2PT Field Goal,1,1,LAYUPS,2024
-Andrew Wiggins,203952,Cutting Dunk Shot,2PT Field Goal,2,2,DUNKS,2024
-Andrew Wiggins,203952,Cutting Layup Shot,2PT Field Goal,5,3,LAYUPS,2024
-Andrew Wiggins,203952,Driving Finger Roll Layup Shot,2PT Field Goal,5,3,LAYUPS,2024
-Andrew Wiggins,203952,Driving Floating Jump Shot,2PT Field Goal,4,2,SPECIALTY_SHOTS,2024
-Andrew Wiggins,203952,Driving Hook Shot,2PT Field Goal,4,2,POST_MOVES,2024
-Andrew Wiggins,203952,Driving Layup Shot,2PT Field Goal,10,8,LAYUPS,2024
-Andrew Wiggins,203952,Dunk Shot,2PT Field Goal,1,1,DUNKS,2024
-Andrew Wiggins,203952,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2024
-Andrew Wiggins,203952,Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,2024
-Andrew Wiggins,203952,Floating Jump shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,2024
-Andrew Wiggins,203952,Hook Shot,2PT Field Goal,1,1,POST_MOVES,2024
-Andrew Wiggins,203952,Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,2024
-Andrew Wiggins,203952,Jump Shot,3PT Field Goal,41,16,JUMP_SHOTS,2024
-Andrew Wiggins,203952,Layup Shot,2PT Field Goal,1,1,LAYUPS,2024
-Andrew Wiggins,203952,Pullup Jump shot,2PT Field Goal,9,2,JUMP_SHOTS,2024
-Andrew Wiggins,203952,Pullup Jump shot,3PT Field Goal,6,3,JUMP_SHOTS,2024
-Andrew Wiggins,203952,Putback Layup Shot,2PT Field Goal,1,0,LAYUPS,2024
-Andrew Wiggins,203952,Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,2024
-Andrew Wiggins,203952,Running Dunk Shot,2PT Field Goal,3,3,DUNKS,2024
-Andrew Wiggins,203952,Running Layup Shot,2PT Field Goal,8,4,LAYUPS,2024
-Andrew Wiggins,203952,Running Pull-Up Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,2024
-Andrew Wiggins,203952,Step Back Jump shot,2PT Field Goal,7,2,JUMP_SHOTS,2024
-Andrew Wiggins,203952,Step Back Jump shot,3PT Field Goal,1,1,JUMP_SHOTS,2024
-Andrew Wiggins,203952,Tip Dunk Shot,2PT Field Goal,2,2,DUNKS,2024
-Andrew Wiggins,203952,Tip Layup Shot,2PT Field Goal,5,3,LAYUPS,2024
-Andrew Wiggins,203952,Turnaround Fadeaway shot,2PT Field Goal,2,0,JUMP_SHOTS,2024
-Andrew Wiggins,203952,Turnaround Hook Shot,2PT Field Goal,4,1,POST_MOVES,2024
-Andrew Wiggins,203952,Turnaround Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,2024
-Andrew Wiggins,203952,Cutting Dunk Shot,2PT Field Goal,1,1,DUNKS,2025
-Andrew Wiggins,203952,Cutting Layup Shot,2PT Field Goal,3,2,LAYUPS,2025
-Andrew Wiggins,203952,Driving Bank Hook Shot,2PT Field Goal,1,1,POST_MOVES,2025
-Andrew Wiggins,203952,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,2025
-Andrew Wiggins,203952,Driving Finger Roll Layup Shot,2PT Field Goal,4,2,LAYUPS,2025
-Andrew Wiggins,203952,Driving Floating Bank Jump Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,2025
-Andrew Wiggins,203952,Driving Floating Jump Shot,2PT Field Goal,2,1,SPECIALTY_SHOTS,2025
-Andrew Wiggins,203952,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,2025
-Andrew Wiggins,203952,Driving Layup Shot,2PT Field Goal,3,1,LAYUPS,2025
-Andrew Wiggins,203952,Floating Jump shot,2PT Field Goal,2,1,SPECIALTY_SHOTS,2025
-Andrew Wiggins,203952,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2025
-Andrew Wiggins,203952,Jump Shot,3PT Field Goal,15,6,JUMP_SHOTS,2025
-Andrew Wiggins,203952,Layup Shot,2PT Field Goal,1,1,LAYUPS,2025
-Andrew Wiggins,203952,Pullup Jump shot,3PT Field Goal,5,2,JUMP_SHOTS,2025
-Andrew Wiggins,203952,Putback Layup Shot,2PT Field Goal,2,1,LAYUPS,2025
-Andrew Wiggins,203952,Running Alley Oop Dunk Shot,2PT Field Goal,1,1,DUNKS,2025
-Andrew Wiggins,203952,Running Dunk Shot,2PT Field Goal,2,2,DUNKS,2025
-Andrew Wiggins,203952,Running Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,2025
-Andrew Wiggins,203952,Running Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,2025
-Andrew Wiggins,203952,Running Layup Shot,2PT Field Goal,2,1,LAYUPS,2025
-Andrew Wiggins,203952,Step Back Jump shot,2PT Field Goal,4,1,JUMP_SHOTS,2025
-Andrew Wiggins,203952,Step Back Jump shot,3PT Field Goal,3,1,JUMP_SHOTS,2025
-Andrew Wiggins,203952,Tip Layup Shot,2PT Field Goal,3,1,LAYUPS,2025
-Andrew Wiggins,203952,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Andrew Wiggins,203952,Alley Oop Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2024
+Andrew Wiggins,203952,Alley Oop Layup shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
+Andrew Wiggins,203952,Cutting Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2024
+Andrew Wiggins,203952,Cutting Layup Shot,2PT Field Goal,5,3,LAYUPS,0.6,2024
+Andrew Wiggins,203952,Driving Finger Roll Layup Shot,2PT Field Goal,5,3,LAYUPS,0.6,2024
+Andrew Wiggins,203952,Driving Floating Jump Shot,2PT Field Goal,4,2,SPECIALTY_SHOTS,0.5,2024
+Andrew Wiggins,203952,Driving Hook Shot,2PT Field Goal,4,2,POST_MOVES,0.5,2024
+Andrew Wiggins,203952,Driving Layup Shot,2PT Field Goal,10,8,LAYUPS,0.8,2024
+Andrew Wiggins,203952,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2024
+Andrew Wiggins,203952,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
+Andrew Wiggins,203952,Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
+Andrew Wiggins,203952,Floating Jump shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,1.0,2024
+Andrew Wiggins,203952,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2024
+Andrew Wiggins,203952,Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,0.6666666666666666,2024
+Andrew Wiggins,203952,Jump Shot,3PT Field Goal,41,16,JUMP_SHOTS,0.5853658536585366,2024
+Andrew Wiggins,203952,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
+Andrew Wiggins,203952,Pullup Jump shot,2PT Field Goal,9,2,JUMP_SHOTS,0.2222222222222222,2024
+Andrew Wiggins,203952,Pullup Jump shot,3PT Field Goal,6,3,JUMP_SHOTS,0.75,2024
+Andrew Wiggins,203952,Putback Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2024
+Andrew Wiggins,203952,Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2024
+Andrew Wiggins,203952,Running Dunk Shot,2PT Field Goal,3,3,DUNKS,1.0,2024
+Andrew Wiggins,203952,Running Layup Shot,2PT Field Goal,8,4,LAYUPS,0.5,2024
+Andrew Wiggins,203952,Running Pull-Up Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
+Andrew Wiggins,203952,Step Back Jump shot,2PT Field Goal,7,2,JUMP_SHOTS,0.2857142857142857,2024
+Andrew Wiggins,203952,Step Back Jump shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2024
+Andrew Wiggins,203952,Tip Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2024
+Andrew Wiggins,203952,Tip Layup Shot,2PT Field Goal,5,3,LAYUPS,0.6,2024
+Andrew Wiggins,203952,Turnaround Fadeaway shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2024
+Andrew Wiggins,203952,Turnaround Hook Shot,2PT Field Goal,4,1,POST_MOVES,0.25,2024
+Andrew Wiggins,203952,Turnaround Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2024
+Andrew Wiggins,203952,Cutting Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2025
+Andrew Wiggins,203952,Cutting Layup Shot,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2025
+Andrew Wiggins,203952,Driving Bank Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2025
+Andrew Wiggins,203952,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2025
+Andrew Wiggins,203952,Driving Finger Roll Layup Shot,2PT Field Goal,4,2,LAYUPS,0.5,2025
+Andrew Wiggins,203952,Driving Floating Bank Jump Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,0.0,2025
+Andrew Wiggins,203952,Driving Floating Jump Shot,2PT Field Goal,2,1,SPECIALTY_SHOTS,0.5,2025
+Andrew Wiggins,203952,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2025
+Andrew Wiggins,203952,Driving Layup Shot,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2025
+Andrew Wiggins,203952,Floating Jump shot,2PT Field Goal,2,1,SPECIALTY_SHOTS,0.5,2025
+Andrew Wiggins,203952,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
+Andrew Wiggins,203952,Jump Shot,3PT Field Goal,15,6,JUMP_SHOTS,0.6,2025
+Andrew Wiggins,203952,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2025
+Andrew Wiggins,203952,Pullup Jump shot,3PT Field Goal,5,2,JUMP_SHOTS,0.6,2025
+Andrew Wiggins,203952,Putback Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2025
+Andrew Wiggins,203952,Running Alley Oop Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2025
+Andrew Wiggins,203952,Running Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2025
+Andrew Wiggins,203952,Running Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2025
+Andrew Wiggins,203952,Running Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2025
+Andrew Wiggins,203952,Running Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2025
+Andrew Wiggins,203952,Step Back Jump shot,2PT Field Goal,4,1,JUMP_SHOTS,0.25,2025
+Andrew Wiggins,203952,Step Back Jump shot,3PT Field Goal,3,1,JUMP_SHOTS,0.5,2025
+Andrew Wiggins,203952,Tip Layup Shot,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2025
+Andrew Wiggins,203952,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025

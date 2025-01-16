@@ -1,14 +1,14 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-David Benoit,128,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,1998
-David Benoit,128,Driving Layup Shot,2PT Field Goal,6,4,LAYUPS,1998
-David Benoit,128,Dunk Shot,2PT Field Goal,1,1,DUNKS,1998
-David Benoit,128,Hook Shot,2PT Field Goal,6,3,POST_MOVES,1998
-David Benoit,128,Jump Shot,2PT Field Goal,67,16,JUMP_SHOTS,1998
-David Benoit,128,Jump Shot,3PT Field Goal,60,16,JUMP_SHOTS,1998
-David Benoit,128,Layup Shot,2PT Field Goal,12,6,LAYUPS,1998
-David Benoit,128,Running Jump Shot,2PT Field Goal,4,1,JUMP_SHOTS,1998
-David Benoit,128,Dunk Shot,2PT Field Goal,2,2,DUNKS,2001
-David Benoit,128,Jump Shot,2PT Field Goal,23,5,JUMP_SHOTS,2001
-David Benoit,128,Jump Shot,3PT Field Goal,3,1,JUMP_SHOTS,2001
-David Benoit,128,Layup Shot,2PT Field Goal,5,4,LAYUPS,2001
-David Benoit,128,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+David Benoit,128,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,1998
+David Benoit,128,Driving Layup Shot,2PT Field Goal,6,4,LAYUPS,0.6666666666666666,1998
+David Benoit,128,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,1998
+David Benoit,128,Hook Shot,2PT Field Goal,6,3,POST_MOVES,0.5,1998
+David Benoit,128,Jump Shot,2PT Field Goal,67,16,JUMP_SHOTS,0.2388059701492537,1998
+David Benoit,128,Jump Shot,3PT Field Goal,60,16,JUMP_SHOTS,0.4,1998
+David Benoit,128,Layup Shot,2PT Field Goal,12,6,LAYUPS,0.5,1998
+David Benoit,128,Running Jump Shot,2PT Field Goal,4,1,JUMP_SHOTS,0.25,1998
+David Benoit,128,Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2001
+David Benoit,128,Jump Shot,2PT Field Goal,23,5,JUMP_SHOTS,0.217391304347826,2001
+David Benoit,128,Jump Shot,3PT Field Goal,3,1,JUMP_SHOTS,0.5,2001
+David Benoit,128,Layup Shot,2PT Field Goal,5,4,LAYUPS,0.8,2001
+David Benoit,128,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2001

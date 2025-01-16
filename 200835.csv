@@ -1,12 +1,12 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Walter Herrmann,200835,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,2007
-Walter Herrmann,200835,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,2007
-Walter Herrmann,200835,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2008
-Walter Herrmann,200835,Jump Shot,2PT Field Goal,5,2,JUMP_SHOTS,2008
-Walter Herrmann,200835,Jump Shot,3PT Field Goal,2,2,JUMP_SHOTS,2008
-Walter Herrmann,200835,Layup Shot,2PT Field Goal,1,1,LAYUPS,2008
-Walter Herrmann,200835,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,2008
-Walter Herrmann,200835,Jump Shot,2PT Field Goal,4,1,JUMP_SHOTS,2009
-Walter Herrmann,200835,Jump Shot,3PT Field Goal,8,4,JUMP_SHOTS,2009
-Walter Herrmann,200835,Layup Shot,2PT Field Goal,1,0,LAYUPS,2009
-Walter Herrmann,200835,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2009
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Walter Herrmann,200835,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2007
+Walter Herrmann,200835,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2007
+Walter Herrmann,200835,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2008
+Walter Herrmann,200835,Jump Shot,2PT Field Goal,5,2,JUMP_SHOTS,0.4,2008
+Walter Herrmann,200835,Jump Shot,3PT Field Goal,2,2,JUMP_SHOTS,1.5,2008
+Walter Herrmann,200835,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2008
+Walter Herrmann,200835,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2008
+Walter Herrmann,200835,Jump Shot,2PT Field Goal,4,1,JUMP_SHOTS,0.25,2009
+Walter Herrmann,200835,Jump Shot,3PT Field Goal,8,4,JUMP_SHOTS,0.75,2009
+Walter Herrmann,200835,Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2009
+Walter Herrmann,200835,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2009

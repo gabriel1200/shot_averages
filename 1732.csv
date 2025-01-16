@@ -1,23 +1,23 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Felipe Lopez,1732,Driving Dunk Shot,2PT Field Goal,2,2,DUNKS,2000
-Felipe Lopez,1732,Driving Layup Shot,2PT Field Goal,5,4,LAYUPS,2000
-Felipe Lopez,1732,Jump Shot,2PT Field Goal,13,1,JUMP_SHOTS,2000
-Felipe Lopez,1732,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,2000
-Felipe Lopez,1732,Layup Shot,2PT Field Goal,8,4,LAYUPS,2000
-Felipe Lopez,1732,Tip Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,2000
-Felipe Lopez,1732,Driving Layup Shot,2PT Field Goal,10,7,LAYUPS,2001
-Felipe Lopez,1732,Dunk Shot,2PT Field Goal,1,1,DUNKS,2001
-Felipe Lopez,1732,Jump Shot,2PT Field Goal,50,18,JUMP_SHOTS,2001
-Felipe Lopez,1732,Jump Shot,3PT Field Goal,12,3,JUMP_SHOTS,2001
-Felipe Lopez,1732,Layup Shot,2PT Field Goal,52,28,LAYUPS,2001
-Felipe Lopez,1732,Layup Shot,3PT Field Goal,1,0,LAYUPS,2001
-Felipe Lopez,1732,Reverse Layup Shot,2PT Field Goal,2,2,LAYUPS,2001
-Felipe Lopez,1732,Running Dunk Shot,2PT Field Goal,1,1,DUNKS,2001
-Felipe Lopez,1732,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2001
-Felipe Lopez,1732,Running Layup Shot,2PT Field Goal,3,3,LAYUPS,2001
-Felipe Lopez,1732,Slam Dunk Shot,2PT Field Goal,4,4,DUNKS,2001
-Felipe Lopez,1732,Tip Shot,2PT Field Goal,3,3,SPECIALTY_SHOTS,2001
-Felipe Lopez,1732,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,2001
-Felipe Lopez,1732,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,2002
-Felipe Lopez,1732,Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,2002
-Felipe Lopez,1732,Layup Shot,2PT Field Goal,2,1,LAYUPS,2002
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Felipe Lopez,1732,Driving Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2000
+Felipe Lopez,1732,Driving Layup Shot,2PT Field Goal,5,4,LAYUPS,0.8,2000
+Felipe Lopez,1732,Jump Shot,2PT Field Goal,13,1,JUMP_SHOTS,0.0769230769230769,2000
+Felipe Lopez,1732,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2000
+Felipe Lopez,1732,Layup Shot,2PT Field Goal,8,4,LAYUPS,0.5,2000
+Felipe Lopez,1732,Tip Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,0.0,2000
+Felipe Lopez,1732,Driving Layup Shot,2PT Field Goal,10,7,LAYUPS,0.7,2001
+Felipe Lopez,1732,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2001
+Felipe Lopez,1732,Jump Shot,2PT Field Goal,50,18,JUMP_SHOTS,0.36,2001
+Felipe Lopez,1732,Jump Shot,3PT Field Goal,12,3,JUMP_SHOTS,0.375,2001
+Felipe Lopez,1732,Layup Shot,2PT Field Goal,52,28,LAYUPS,0.5384615384615384,2001
+Felipe Lopez,1732,Layup Shot,3PT Field Goal,1,0,LAYUPS,0.0,2001
+Felipe Lopez,1732,Reverse Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2001
+Felipe Lopez,1732,Running Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2001
+Felipe Lopez,1732,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2001
+Felipe Lopez,1732,Running Layup Shot,2PT Field Goal,3,3,LAYUPS,1.0,2001
+Felipe Lopez,1732,Slam Dunk Shot,2PT Field Goal,4,4,DUNKS,1.0,2001
+Felipe Lopez,1732,Tip Shot,2PT Field Goal,3,3,SPECIALTY_SHOTS,1.0,2001
+Felipe Lopez,1732,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2001
+Felipe Lopez,1732,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2002
+Felipe Lopez,1732,Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2002
+Felipe Lopez,1732,Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2002

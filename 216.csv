@@ -1,34 +1,34 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Brian Shaw,216,Driving Layup Shot,2PT Field Goal,11,8,LAYUPS,1997
-Brian Shaw,216,Dunk Shot,2PT Field Goal,1,0,DUNKS,1997
-Brian Shaw,216,Hook Shot,2PT Field Goal,10,3,POST_MOVES,1997
-Brian Shaw,216,Jump Shot,2PT Field Goal,74,21,JUMP_SHOTS,1997
-Brian Shaw,216,Jump Shot,3PT Field Goal,87,34,JUMP_SHOTS,1997
-Brian Shaw,216,Layup Shot,2PT Field Goal,37,16,LAYUPS,1997
-Brian Shaw,216,Running Jump Shot,2PT Field Goal,9,6,JUMP_SHOTS,1997
-Brian Shaw,216,Running Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,1997
-Brian Shaw,216,Tip Shot,2PT Field Goal,2,0,SPECIALTY_SHOTS,1997
-Brian Shaw,216,Driving Layup Shot,2PT Field Goal,1,0,LAYUPS,1998
-Brian Shaw,216,Jump Shot,2PT Field Goal,10,3,JUMP_SHOTS,1998
-Brian Shaw,216,Jump Shot,3PT Field Goal,4,1,JUMP_SHOTS,1998
-Brian Shaw,216,Running Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,1998
-Brian Shaw,216,Driving Layup Shot,2PT Field Goal,3,3,LAYUPS,2000
-Brian Shaw,216,Jump Shot,2PT Field Goal,16,5,JUMP_SHOTS,2000
-Brian Shaw,216,Jump Shot,3PT Field Goal,4,1,JUMP_SHOTS,2000
-Brian Shaw,216,Layup Shot,2PT Field Goal,6,6,LAYUPS,2000
-Brian Shaw,216,Running Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,2000
-Brian Shaw,216,Tip Shot,2PT Field Goal,2,0,SPECIALTY_SHOTS,2000
-Brian Shaw,216,Driving Layup Shot,2PT Field Goal,12,8,LAYUPS,2001
-Brian Shaw,216,Hook Shot,2PT Field Goal,1,0,POST_MOVES,2001
-Brian Shaw,216,Jump Shot,2PT Field Goal,34,13,JUMP_SHOTS,2001
-Brian Shaw,216,Jump Shot,3PT Field Goal,30,11,JUMP_SHOTS,2001
-Brian Shaw,216,Layup Shot,2PT Field Goal,9,2,LAYUPS,2001
-Brian Shaw,216,Reverse Layup Shot,2PT Field Goal,2,1,LAYUPS,2001
-Brian Shaw,216,Running Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,2001
-Brian Shaw,216,Running Layup Shot,2PT Field Goal,1,1,LAYUPS,2001
-Brian Shaw,216,Tip Shot,2PT Field Goal,4,0,SPECIALTY_SHOTS,2001
-Brian Shaw,216,Turnaround Hook Shot,2PT Field Goal,1,1,POST_MOVES,2001
-Brian Shaw,216,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,2001
-Brian Shaw,216,Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,2002
-Brian Shaw,216,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,2002
-Brian Shaw,216,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,2003
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Brian Shaw,216,Driving Layup Shot,2PT Field Goal,11,8,LAYUPS,0.7272727272727273,1997
+Brian Shaw,216,Dunk Shot,2PT Field Goal,1,0,DUNKS,0.0,1997
+Brian Shaw,216,Hook Shot,2PT Field Goal,10,3,POST_MOVES,0.3,1997
+Brian Shaw,216,Jump Shot,2PT Field Goal,74,21,JUMP_SHOTS,0.2837837837837837,1997
+Brian Shaw,216,Jump Shot,3PT Field Goal,87,34,JUMP_SHOTS,0.5862068965517241,1997
+Brian Shaw,216,Layup Shot,2PT Field Goal,37,16,LAYUPS,0.4324324324324324,1997
+Brian Shaw,216,Running Jump Shot,2PT Field Goal,9,6,JUMP_SHOTS,0.6666666666666666,1997
+Brian Shaw,216,Running Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,1997
+Brian Shaw,216,Tip Shot,2PT Field Goal,2,0,SPECIALTY_SHOTS,0.0,1997
+Brian Shaw,216,Driving Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,1998
+Brian Shaw,216,Jump Shot,2PT Field Goal,10,3,JUMP_SHOTS,0.3,1998
+Brian Shaw,216,Jump Shot,3PT Field Goal,4,1,JUMP_SHOTS,0.375,1998
+Brian Shaw,216,Running Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,1998
+Brian Shaw,216,Driving Layup Shot,2PT Field Goal,3,3,LAYUPS,1.0,2000
+Brian Shaw,216,Jump Shot,2PT Field Goal,16,5,JUMP_SHOTS,0.3125,2000
+Brian Shaw,216,Jump Shot,3PT Field Goal,4,1,JUMP_SHOTS,0.375,2000
+Brian Shaw,216,Layup Shot,2PT Field Goal,6,6,LAYUPS,1.0,2000
+Brian Shaw,216,Running Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2000
+Brian Shaw,216,Tip Shot,2PT Field Goal,2,0,SPECIALTY_SHOTS,0.0,2000
+Brian Shaw,216,Driving Layup Shot,2PT Field Goal,12,8,LAYUPS,0.6666666666666666,2001
+Brian Shaw,216,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2001
+Brian Shaw,216,Jump Shot,2PT Field Goal,34,13,JUMP_SHOTS,0.3823529411764705,2001
+Brian Shaw,216,Jump Shot,3PT Field Goal,30,11,JUMP_SHOTS,0.55,2001
+Brian Shaw,216,Layup Shot,2PT Field Goal,9,2,LAYUPS,0.2222222222222222,2001
+Brian Shaw,216,Reverse Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2001
+Brian Shaw,216,Running Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,0.6666666666666666,2001
+Brian Shaw,216,Running Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2001
+Brian Shaw,216,Tip Shot,2PT Field Goal,4,0,SPECIALTY_SHOTS,0.0,2001
+Brian Shaw,216,Turnaround Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2001
+Brian Shaw,216,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2001
+Brian Shaw,216,Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2002
+Brian Shaw,216,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,2002
+Brian Shaw,216,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2003

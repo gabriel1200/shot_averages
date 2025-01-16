@@ -1,31 +1,31 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Alonzo Gee,202087,Alley Oop Dunk Shot,2PT Field Goal,1,1,DUNKS,2013
-Alonzo Gee,202087,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,2013
-Alonzo Gee,202087,Driving Finger Roll Layup Shot,2PT Field Goal,2,2,LAYUPS,2013
-Alonzo Gee,202087,Driving Layup Shot,2PT Field Goal,2,1,LAYUPS,2013
-Alonzo Gee,202087,Driving Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,2013
-Alonzo Gee,202087,Dunk Shot,2PT Field Goal,3,2,DUNKS,2013
-Alonzo Gee,202087,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2013
-Alonzo Gee,202087,Floating Jump shot,2PT Field Goal,2,1,SPECIALTY_SHOTS,2013
-Alonzo Gee,202087,Jump Bank Shot,2PT Field Goal,1,1,JUMP_SHOTS,2013
-Alonzo Gee,202087,Jump Shot,2PT Field Goal,6,1,JUMP_SHOTS,2013
-Alonzo Gee,202087,Jump Shot,3PT Field Goal,13,3,JUMP_SHOTS,2013
-Alonzo Gee,202087,Layup Shot,2PT Field Goal,3,0,LAYUPS,2013
-Alonzo Gee,202087,Pullup Jump shot,2PT Field Goal,1,1,JUMP_SHOTS,2013
-Alonzo Gee,202087,Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,2013
-Alonzo Gee,202087,Running Bank shot,2PT Field Goal,1,1,JUMP_SHOTS,2013
-Alonzo Gee,202087,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2013
-Alonzo Gee,202087,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,2013
-Alonzo Gee,202087,Tip Shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,2013
-Alonzo Gee,202087,Hook Shot,2PT Field Goal,1,1,POST_MOVES,2014
-Alonzo Gee,202087,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2014
-Alonzo Gee,202087,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,2014
-Alonzo Gee,202087,Reverse Dunk Shot,2PT Field Goal,1,1,DUNKS,2014
-Alonzo Gee,202087,Driving Dunk Shot,2PT Field Goal,1,0,DUNKS,2015
-Alonzo Gee,202087,Driving Layup Shot,2PT Field Goal,1,0,LAYUPS,2015
-Alonzo Gee,202087,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,2015
-Alonzo Gee,202087,Layup Shot,2PT Field Goal,1,0,LAYUPS,2015
-Alonzo Gee,202087,Cutting Layup Shot,2PT Field Goal,1,1,LAYUPS,2016
-Alonzo Gee,202087,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,2016
-Alonzo Gee,202087,Dunk Shot,2PT Field Goal,1,1,DUNKS,2016
-Alonzo Gee,202087,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2016
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Alonzo Gee,202087,Alley Oop Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2013
+Alonzo Gee,202087,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2013
+Alonzo Gee,202087,Driving Finger Roll Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2013
+Alonzo Gee,202087,Driving Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2013
+Alonzo Gee,202087,Driving Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2013
+Alonzo Gee,202087,Dunk Shot,2PT Field Goal,3,2,DUNKS,0.6666666666666666,2013
+Alonzo Gee,202087,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2013
+Alonzo Gee,202087,Floating Jump shot,2PT Field Goal,2,1,SPECIALTY_SHOTS,0.5,2013
+Alonzo Gee,202087,Jump Bank Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2013
+Alonzo Gee,202087,Jump Shot,2PT Field Goal,6,1,JUMP_SHOTS,0.1666666666666666,2013
+Alonzo Gee,202087,Jump Shot,3PT Field Goal,13,3,JUMP_SHOTS,0.3461538461538461,2013
+Alonzo Gee,202087,Layup Shot,2PT Field Goal,3,0,LAYUPS,0.0,2013
+Alonzo Gee,202087,Pullup Jump shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2013
+Alonzo Gee,202087,Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2013
+Alonzo Gee,202087,Running Bank shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2013
+Alonzo Gee,202087,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2013
+Alonzo Gee,202087,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2013
+Alonzo Gee,202087,Tip Shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,1.0,2013
+Alonzo Gee,202087,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2014
+Alonzo Gee,202087,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2014
+Alonzo Gee,202087,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,2014
+Alonzo Gee,202087,Reverse Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2014
+Alonzo Gee,202087,Driving Dunk Shot,2PT Field Goal,1,0,DUNKS,0.0,2015
+Alonzo Gee,202087,Driving Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2015
+Alonzo Gee,202087,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2015
+Alonzo Gee,202087,Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2015
+Alonzo Gee,202087,Cutting Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2016
+Alonzo Gee,202087,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2016
+Alonzo Gee,202087,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2016
+Alonzo Gee,202087,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2016

@@ -1,47 +1,47 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Cristiano Felicio,1626245,Alley Oop Dunk Shot,2PT Field Goal,1,1,DUNKS,2016
-Cristiano Felicio,1626245,Driving Layup Shot,2PT Field Goal,1,0,LAYUPS,2016
-Cristiano Felicio,1626245,Dunk Shot,2PT Field Goal,2,1,DUNKS,2016
-Cristiano Felicio,1626245,Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,2016
-Cristiano Felicio,1626245,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,2016
-Cristiano Felicio,1626245,Layup Shot,2PT Field Goal,2,1,LAYUPS,2016
-Cristiano Felicio,1626245,Tip Layup Shot,2PT Field Goal,2,1,LAYUPS,2016
-Cristiano Felicio,1626245,Alley Oop Dunk Shot,2PT Field Goal,2,2,DUNKS,2017
-Cristiano Felicio,1626245,Alley Oop Layup shot,2PT Field Goal,1,0,LAYUPS,2017
-Cristiano Felicio,1626245,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,2017
-Cristiano Felicio,1626245,Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,2017
-Cristiano Felicio,1626245,Layup Shot,2PT Field Goal,2,1,LAYUPS,2017
-Cristiano Felicio,1626245,Tip Layup Shot,2PT Field Goal,6,3,LAYUPS,2017
-Cristiano Felicio,1626245,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2017
-Cristiano Felicio,1626245,Alley Oop Dunk Shot,2PT Field Goal,1,1,DUNKS,2018
-Cristiano Felicio,1626245,Cutting Dunk Shot,2PT Field Goal,1,1,DUNKS,2018
-Cristiano Felicio,1626245,Driving Floating Jump Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,2018
-Cristiano Felicio,1626245,Driving Hook Shot,2PT Field Goal,2,1,POST_MOVES,2018
-Cristiano Felicio,1626245,Driving Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,2018
-Cristiano Felicio,1626245,Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,2018
-Cristiano Felicio,1626245,Layup Shot,2PT Field Goal,6,5,LAYUPS,2018
-Cristiano Felicio,1626245,Running Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,2018
-Cristiano Felicio,1626245,Tip Layup Shot,2PT Field Goal,2,1,LAYUPS,2018
-Cristiano Felicio,1626245,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,2018
-Cristiano Felicio,1626245,Alley Oop Dunk Shot,2PT Field Goal,1,1,DUNKS,2019
-Cristiano Felicio,1626245,Cutting Layup Shot,2PT Field Goal,2,1,LAYUPS,2019
-Cristiano Felicio,1626245,Driving Dunk Shot,2PT Field Goal,3,3,DUNKS,2019
-Cristiano Felicio,1626245,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,2019
-Cristiano Felicio,1626245,Driving Layup Shot,2PT Field Goal,2,1,LAYUPS,2019
-Cristiano Felicio,1626245,Driving Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,2019
-Cristiano Felicio,1626245,Hook Shot,2PT Field Goal,2,1,POST_MOVES,2019
-Cristiano Felicio,1626245,Jump Shot,2PT Field Goal,4,1,JUMP_SHOTS,2019
-Cristiano Felicio,1626245,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,2019
-Cristiano Felicio,1626245,Layup Shot,2PT Field Goal,3,0,LAYUPS,2019
-Cristiano Felicio,1626245,Putback Layup Shot,2PT Field Goal,5,4,LAYUPS,2019
-Cristiano Felicio,1626245,Turnaround Hook Shot,2PT Field Goal,3,2,POST_MOVES,2019
-Cristiano Felicio,1626245,Cutting Dunk Shot,2PT Field Goal,2,2,DUNKS,2020
-Cristiano Felicio,1626245,Cutting Layup Shot,2PT Field Goal,1,1,LAYUPS,2020
-Cristiano Felicio,1626245,Floating Jump shot,2PT Field Goal,2,1,SPECIALTY_SHOTS,2020
-Cristiano Felicio,1626245,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,2020
-Cristiano Felicio,1626245,Layup Shot,2PT Field Goal,1,1,LAYUPS,2020
-Cristiano Felicio,1626245,Putback Layup Shot,2PT Field Goal,4,3,LAYUPS,2020
-Cristiano Felicio,1626245,Cutting Layup Shot,2PT Field Goal,1,0,LAYUPS,2021
-Cristiano Felicio,1626245,Driving Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,2021
-Cristiano Felicio,1626245,Pullup Jump shot,3PT Field Goal,1,0,JUMP_SHOTS,2021
-Cristiano Felicio,1626245,Putback Layup Shot,2PT Field Goal,1,1,LAYUPS,2021
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Cristiano Felicio,1626245,Alley Oop Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2016
+Cristiano Felicio,1626245,Driving Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2016
+Cristiano Felicio,1626245,Dunk Shot,2PT Field Goal,2,1,DUNKS,0.5,2016
+Cristiano Felicio,1626245,Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,0.3333333333333333,2016
+Cristiano Felicio,1626245,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,2016
+Cristiano Felicio,1626245,Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2016
+Cristiano Felicio,1626245,Tip Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2016
+Cristiano Felicio,1626245,Alley Oop Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2017
+Cristiano Felicio,1626245,Alley Oop Layup shot,2PT Field Goal,1,0,LAYUPS,0.0,2017
+Cristiano Felicio,1626245,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2017
+Cristiano Felicio,1626245,Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,2017
+Cristiano Felicio,1626245,Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2017
+Cristiano Felicio,1626245,Tip Layup Shot,2PT Field Goal,6,3,LAYUPS,0.5,2017
+Cristiano Felicio,1626245,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2017
+Cristiano Felicio,1626245,Alley Oop Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2018
+Cristiano Felicio,1626245,Cutting Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2018
+Cristiano Felicio,1626245,Driving Floating Jump Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,0.0,2018
+Cristiano Felicio,1626245,Driving Hook Shot,2PT Field Goal,2,1,POST_MOVES,0.5,2018
+Cristiano Felicio,1626245,Driving Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2018
+Cristiano Felicio,1626245,Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,0.6666666666666666,2018
+Cristiano Felicio,1626245,Layup Shot,2PT Field Goal,6,5,LAYUPS,0.8333333333333334,2018
+Cristiano Felicio,1626245,Running Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2018
+Cristiano Felicio,1626245,Tip Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2018
+Cristiano Felicio,1626245,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2018
+Cristiano Felicio,1626245,Alley Oop Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2019
+Cristiano Felicio,1626245,Cutting Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2019
+Cristiano Felicio,1626245,Driving Dunk Shot,2PT Field Goal,3,3,DUNKS,1.0,2019
+Cristiano Felicio,1626245,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2019
+Cristiano Felicio,1626245,Driving Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2019
+Cristiano Felicio,1626245,Driving Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2019
+Cristiano Felicio,1626245,Hook Shot,2PT Field Goal,2,1,POST_MOVES,0.5,2019
+Cristiano Felicio,1626245,Jump Shot,2PT Field Goal,4,1,JUMP_SHOTS,0.25,2019
+Cristiano Felicio,1626245,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,2019
+Cristiano Felicio,1626245,Layup Shot,2PT Field Goal,3,0,LAYUPS,0.0,2019
+Cristiano Felicio,1626245,Putback Layup Shot,2PT Field Goal,5,4,LAYUPS,0.8,2019
+Cristiano Felicio,1626245,Turnaround Hook Shot,2PT Field Goal,3,2,POST_MOVES,0.6666666666666666,2019
+Cristiano Felicio,1626245,Cutting Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2020
+Cristiano Felicio,1626245,Cutting Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2020
+Cristiano Felicio,1626245,Floating Jump shot,2PT Field Goal,2,1,SPECIALTY_SHOTS,0.5,2020
+Cristiano Felicio,1626245,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2020
+Cristiano Felicio,1626245,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2020
+Cristiano Felicio,1626245,Putback Layup Shot,2PT Field Goal,4,3,LAYUPS,0.75,2020
+Cristiano Felicio,1626245,Cutting Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2021
+Cristiano Felicio,1626245,Driving Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2021
+Cristiano Felicio,1626245,Pullup Jump shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2021
+Cristiano Felicio,1626245,Putback Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2021

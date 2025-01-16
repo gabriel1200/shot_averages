@@ -1,51 +1,51 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Allan Houston,275,Driving Layup Shot,2PT Field Goal,2,2,LAYUPS,1997
-Allan Houston,275,Jump Shot,2PT Field Goal,14,5,JUMP_SHOTS,1997
-Allan Houston,275,Jump Shot,3PT Field Goal,14,6,JUMP_SHOTS,1997
-Allan Houston,275,Layup Shot,2PT Field Goal,4,0,LAYUPS,1997
-Allan Houston,275,Running Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,1997
-Allan Houston,275,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1997
-Allan Houston,275,Driving Layup Shot,2PT Field Goal,2,2,LAYUPS,1998
-Allan Houston,275,Dunk Shot,2PT Field Goal,1,1,DUNKS,1998
-Allan Houston,275,Jump Shot,2PT Field Goal,17,4,JUMP_SHOTS,1998
-Allan Houston,275,Jump Shot,3PT Field Goal,10,6,JUMP_SHOTS,1998
-Allan Houston,275,Layup Shot,2PT Field Goal,5,1,LAYUPS,1998
-Allan Houston,275,Driving Layup Shot,2PT Field Goal,2,0,LAYUPS,1999
-Allan Houston,275,Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,1999
-Allan Houston,275,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,1999
-Allan Houston,275,Layup Shot,2PT Field Goal,1,1,LAYUPS,1999
-Allan Houston,275,Driving Dunk Shot,2PT Field Goal,1,0,DUNKS,2000
-Allan Houston,275,Driving Layup Shot,2PT Field Goal,3,1,LAYUPS,2000
-Allan Houston,275,Hook Shot,2PT Field Goal,1,0,POST_MOVES,2000
-Allan Houston,275,Jump Shot,2PT Field Goal,56,25,JUMP_SHOTS,2000
-Allan Houston,275,Jump Shot,3PT Field Goal,14,8,JUMP_SHOTS,2000
-Allan Houston,275,Layup Shot,2PT Field Goal,6,4,LAYUPS,2000
-Allan Houston,275,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2000
-Allan Houston,275,Slam Dunk Shot,2PT Field Goal,1,0,DUNKS,2000
-Allan Houston,275,Tip Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,2000
-Allan Houston,275,Driving Layup Shot,2PT Field Goal,14,11,LAYUPS,2001
-Allan Houston,275,Jump Shot,2PT Field Goal,142,66,JUMP_SHOTS,2001
-Allan Houston,275,Jump Shot,3PT Field Goal,58,22,JUMP_SHOTS,2001
-Allan Houston,275,Layup Shot,2PT Field Goal,17,6,LAYUPS,2001
-Allan Houston,275,Running Jump Shot,2PT Field Goal,6,6,JUMP_SHOTS,2001
-Allan Houston,275,Slam Dunk Shot,2PT Field Goal,2,2,DUNKS,2001
-Allan Houston,275,Tip Shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,2001
-Allan Houston,275,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2001
-Allan Houston,275,Driving Layup Shot,2PT Field Goal,1,0,LAYUPS,2002
-Allan Houston,275,Fadeaway Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,2002
-Allan Houston,275,Jump Shot,2PT Field Goal,94,36,JUMP_SHOTS,2002
-Allan Houston,275,Jump Shot,3PT Field Goal,49,22,JUMP_SHOTS,2002
-Allan Houston,275,Layup Shot,2PT Field Goal,7,1,LAYUPS,2002
-Allan Houston,275,Running Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,2002
-Allan Houston,275,Turnaround Jump Shot,2PT Field Goal,3,3,JUMP_SHOTS,2002
-Allan Houston,275,Driving Hook Shot,2PT Field Goal,1,1,POST_MOVES,2003
-Allan Houston,275,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,2003
-Allan Houston,275,Jump Shot,2PT Field Goal,64,26,JUMP_SHOTS,2003
-Allan Houston,275,Jump Shot,3PT Field Goal,51,21,JUMP_SHOTS,2003
-Allan Houston,275,Layup Shot,2PT Field Goal,4,2,LAYUPS,2003
-Allan Houston,275,Running Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,2003
-Allan Houston,275,Turnaround Jump Shot,2PT Field Goal,4,4,JUMP_SHOTS,2003
-Allan Houston,275,Jump Shot,2PT Field Goal,10,1,JUMP_SHOTS,2004
-Allan Houston,275,Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,2004
-Allan Houston,275,Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,2005
-Allan Houston,275,Jump Shot,3PT Field Goal,5,2,JUMP_SHOTS,2005
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Allan Houston,275,Driving Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,1997
+Allan Houston,275,Jump Shot,2PT Field Goal,14,5,JUMP_SHOTS,0.3571428571428571,1997
+Allan Houston,275,Jump Shot,3PT Field Goal,14,6,JUMP_SHOTS,0.6428571428571429,1997
+Allan Houston,275,Layup Shot,2PT Field Goal,4,0,LAYUPS,0.0,1997
+Allan Houston,275,Running Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,1997
+Allan Houston,275,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,1997
+Allan Houston,275,Driving Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,1998
+Allan Houston,275,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,1998
+Allan Houston,275,Jump Shot,2PT Field Goal,17,4,JUMP_SHOTS,0.2352941176470588,1998
+Allan Houston,275,Jump Shot,3PT Field Goal,10,6,JUMP_SHOTS,0.9,1998
+Allan Houston,275,Layup Shot,2PT Field Goal,5,1,LAYUPS,0.2,1998
+Allan Houston,275,Driving Layup Shot,2PT Field Goal,2,0,LAYUPS,0.0,1999
+Allan Houston,275,Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,0.6666666666666666,1999
+Allan Houston,275,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,1999
+Allan Houston,275,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,1999
+Allan Houston,275,Driving Dunk Shot,2PT Field Goal,1,0,DUNKS,0.0,2000
+Allan Houston,275,Driving Layup Shot,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2000
+Allan Houston,275,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2000
+Allan Houston,275,Jump Shot,2PT Field Goal,56,25,JUMP_SHOTS,0.4464285714285714,2000
+Allan Houston,275,Jump Shot,3PT Field Goal,14,8,JUMP_SHOTS,0.8571428571428571,2000
+Allan Houston,275,Layup Shot,2PT Field Goal,6,4,LAYUPS,0.6666666666666666,2000
+Allan Houston,275,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2000
+Allan Houston,275,Slam Dunk Shot,2PT Field Goal,1,0,DUNKS,0.0,2000
+Allan Houston,275,Tip Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,0.0,2000
+Allan Houston,275,Driving Layup Shot,2PT Field Goal,14,11,LAYUPS,0.7857142857142857,2001
+Allan Houston,275,Jump Shot,2PT Field Goal,142,66,JUMP_SHOTS,0.4647887323943662,2001
+Allan Houston,275,Jump Shot,3PT Field Goal,58,22,JUMP_SHOTS,0.5689655172413793,2001
+Allan Houston,275,Layup Shot,2PT Field Goal,17,6,LAYUPS,0.3529411764705882,2001
+Allan Houston,275,Running Jump Shot,2PT Field Goal,6,6,JUMP_SHOTS,1.0,2001
+Allan Houston,275,Slam Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2001
+Allan Houston,275,Tip Shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,1.0,2001
+Allan Houston,275,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2001
+Allan Houston,275,Driving Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2002
+Allan Houston,275,Fadeaway Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,2002
+Allan Houston,275,Jump Shot,2PT Field Goal,94,36,JUMP_SHOTS,0.3829787234042553,2002
+Allan Houston,275,Jump Shot,3PT Field Goal,49,22,JUMP_SHOTS,0.673469387755102,2002
+Allan Houston,275,Layup Shot,2PT Field Goal,7,1,LAYUPS,0.1428571428571428,2002
+Allan Houston,275,Running Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,0.6666666666666666,2002
+Allan Houston,275,Turnaround Jump Shot,2PT Field Goal,3,3,JUMP_SHOTS,1.0,2002
+Allan Houston,275,Driving Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2003
+Allan Houston,275,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2003
+Allan Houston,275,Jump Shot,2PT Field Goal,64,26,JUMP_SHOTS,0.40625,2003
+Allan Houston,275,Jump Shot,3PT Field Goal,51,21,JUMP_SHOTS,0.6176470588235294,2003
+Allan Houston,275,Layup Shot,2PT Field Goal,4,2,LAYUPS,0.5,2003
+Allan Houston,275,Running Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,2003
+Allan Houston,275,Turnaround Jump Shot,2PT Field Goal,4,4,JUMP_SHOTS,1.0,2003
+Allan Houston,275,Jump Shot,2PT Field Goal,10,1,JUMP_SHOTS,0.1,2004
+Allan Houston,275,Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2004
+Allan Houston,275,Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2005
+Allan Houston,275,Jump Shot,3PT Field Goal,5,2,JUMP_SHOTS,0.6,2005

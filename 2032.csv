@@ -1,47 +1,47 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Darius Miles,2032,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,2002
-Darius Miles,2032,Driving Layup Shot,2PT Field Goal,2,2,LAYUPS,2004
-Darius Miles,2032,Dunk Shot,2PT Field Goal,1,1,DUNKS,2004
-Darius Miles,2032,Finger Roll Shot,2PT Field Goal,1,1,LAYUPS,2004
-Darius Miles,2032,Follow Up Dunk Shot,2PT Field Goal,1,1,DUNKS,2004
-Darius Miles,2032,Jump Shot,2PT Field Goal,16,5,JUMP_SHOTS,2004
-Darius Miles,2032,Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,2004
-Darius Miles,2032,Layup Shot,2PT Field Goal,2,1,LAYUPS,2004
-Darius Miles,2032,Reverse Dunk Shot,2PT Field Goal,1,1,DUNKS,2004
-Darius Miles,2032,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,2004
-Darius Miles,2032,Alley Oop Dunk Shot,2PT Field Goal,8,6,DUNKS,2005
-Darius Miles,2032,Driving Dunk Shot,2PT Field Goal,8,8,DUNKS,2005
-Darius Miles,2032,Driving Finger Roll Shot,2PT Field Goal,4,2,LAYUPS,2005
-Darius Miles,2032,Driving Layup Shot,2PT Field Goal,10,6,LAYUPS,2005
-Darius Miles,2032,Dunk Shot,2PT Field Goal,9,8,DUNKS,2005
-Darius Miles,2032,Finger Roll Shot,2PT Field Goal,1,1,LAYUPS,2005
-Darius Miles,2032,Follow Up Dunk Shot,2PT Field Goal,2,2,DUNKS,2005
-Darius Miles,2032,Jump Bank Shot,2PT Field Goal,3,3,JUMP_SHOTS,2005
-Darius Miles,2032,Jump Hook Shot,2PT Field Goal,1,0,POST_MOVES,2005
-Darius Miles,2032,Jump Shot,2PT Field Goal,102,38,JUMP_SHOTS,2005
-Darius Miles,2032,Jump Shot,3PT Field Goal,7,2,JUMP_SHOTS,2005
-Darius Miles,2032,Layup Shot,2PT Field Goal,20,14,LAYUPS,2005
-Darius Miles,2032,Reverse Layup Shot,2PT Field Goal,5,3,LAYUPS,2005
-Darius Miles,2032,Running Hook Shot,2PT Field Goal,1,1,POST_MOVES,2005
-Darius Miles,2032,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,2005
-Darius Miles,2032,Running Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,2005
-Darius Miles,2032,Slam Dunk Shot,2PT Field Goal,6,6,DUNKS,2005
-Darius Miles,2032,Tip Shot,2PT Field Goal,5,2,SPECIALTY_SHOTS,2005
-Darius Miles,2032,Turnaround Hook Shot,2PT Field Goal,1,0,POST_MOVES,2005
-Darius Miles,2032,Turnaround Jump Shot,2PT Field Goal,10,3,JUMP_SHOTS,2005
-Darius Miles,2032,Alley Oop Dunk Shot,2PT Field Goal,5,4,DUNKS,2006
-Darius Miles,2032,Driving Dunk Shot,2PT Field Goal,4,3,DUNKS,2006
-Darius Miles,2032,Driving Finger Roll Shot,2PT Field Goal,2,2,LAYUPS,2006
-Darius Miles,2032,Driving Hook Shot,2PT Field Goal,1,1,POST_MOVES,2006
-Darius Miles,2032,Driving Layup Shot,2PT Field Goal,9,6,LAYUPS,2006
-Darius Miles,2032,Dunk Shot,2PT Field Goal,12,7,DUNKS,2006
-Darius Miles,2032,Finger Roll Shot,2PT Field Goal,1,1,LAYUPS,2006
-Darius Miles,2032,Hook Shot,2PT Field Goal,2,0,POST_MOVES,2006
-Darius Miles,2032,Jump Hook Shot,2PT Field Goal,1,1,POST_MOVES,2006
-Darius Miles,2032,Jump Shot,2PT Field Goal,93,28,JUMP_SHOTS,2006
-Darius Miles,2032,Jump Shot,3PT Field Goal,5,2,JUMP_SHOTS,2006
-Darius Miles,2032,Layup Shot,2PT Field Goal,16,6,LAYUPS,2006
-Darius Miles,2032,Reverse Layup Shot,2PT Field Goal,2,1,LAYUPS,2006
-Darius Miles,2032,Running Jump Shot,2PT Field Goal,4,4,JUMP_SHOTS,2006
-Darius Miles,2032,Slam Dunk Shot,2PT Field Goal,4,4,DUNKS,2006
-Darius Miles,2032,Turnaround Jump Shot,2PT Field Goal,5,0,JUMP_SHOTS,2006
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Darius Miles,2032,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2002
+Darius Miles,2032,Driving Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2004
+Darius Miles,2032,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2004
+Darius Miles,2032,Finger Roll Shot,2PT Field Goal,1,1,LAYUPS,1.0,2004
+Darius Miles,2032,Follow Up Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2004
+Darius Miles,2032,Jump Shot,2PT Field Goal,16,5,JUMP_SHOTS,0.3125,2004
+Darius Miles,2032,Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2004
+Darius Miles,2032,Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2004
+Darius Miles,2032,Reverse Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2004
+Darius Miles,2032,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2004
+Darius Miles,2032,Alley Oop Dunk Shot,2PT Field Goal,8,6,DUNKS,0.75,2005
+Darius Miles,2032,Driving Dunk Shot,2PT Field Goal,8,8,DUNKS,1.0,2005
+Darius Miles,2032,Driving Finger Roll Shot,2PT Field Goal,4,2,LAYUPS,0.5,2005
+Darius Miles,2032,Driving Layup Shot,2PT Field Goal,10,6,LAYUPS,0.6,2005
+Darius Miles,2032,Dunk Shot,2PT Field Goal,9,8,DUNKS,0.8888888888888888,2005
+Darius Miles,2032,Finger Roll Shot,2PT Field Goal,1,1,LAYUPS,1.0,2005
+Darius Miles,2032,Follow Up Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2005
+Darius Miles,2032,Jump Bank Shot,2PT Field Goal,3,3,JUMP_SHOTS,1.0,2005
+Darius Miles,2032,Jump Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2005
+Darius Miles,2032,Jump Shot,2PT Field Goal,102,38,JUMP_SHOTS,0.3725490196078431,2005
+Darius Miles,2032,Jump Shot,3PT Field Goal,7,2,JUMP_SHOTS,0.4285714285714285,2005
+Darius Miles,2032,Layup Shot,2PT Field Goal,20,14,LAYUPS,0.7,2005
+Darius Miles,2032,Reverse Layup Shot,2PT Field Goal,5,3,LAYUPS,0.6,2005
+Darius Miles,2032,Running Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2005
+Darius Miles,2032,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2005
+Darius Miles,2032,Running Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2005
+Darius Miles,2032,Slam Dunk Shot,2PT Field Goal,6,6,DUNKS,1.0,2005
+Darius Miles,2032,Tip Shot,2PT Field Goal,5,2,SPECIALTY_SHOTS,0.4,2005
+Darius Miles,2032,Turnaround Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2005
+Darius Miles,2032,Turnaround Jump Shot,2PT Field Goal,10,3,JUMP_SHOTS,0.3,2005
+Darius Miles,2032,Alley Oop Dunk Shot,2PT Field Goal,5,4,DUNKS,0.8,2006
+Darius Miles,2032,Driving Dunk Shot,2PT Field Goal,4,3,DUNKS,0.75,2006
+Darius Miles,2032,Driving Finger Roll Shot,2PT Field Goal,2,2,LAYUPS,1.0,2006
+Darius Miles,2032,Driving Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2006
+Darius Miles,2032,Driving Layup Shot,2PT Field Goal,9,6,LAYUPS,0.6666666666666666,2006
+Darius Miles,2032,Dunk Shot,2PT Field Goal,12,7,DUNKS,0.5833333333333334,2006
+Darius Miles,2032,Finger Roll Shot,2PT Field Goal,1,1,LAYUPS,1.0,2006
+Darius Miles,2032,Hook Shot,2PT Field Goal,2,0,POST_MOVES,0.0,2006
+Darius Miles,2032,Jump Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2006
+Darius Miles,2032,Jump Shot,2PT Field Goal,93,28,JUMP_SHOTS,0.3010752688172043,2006
+Darius Miles,2032,Jump Shot,3PT Field Goal,5,2,JUMP_SHOTS,0.6,2006
+Darius Miles,2032,Layup Shot,2PT Field Goal,16,6,LAYUPS,0.375,2006
+Darius Miles,2032,Reverse Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2006
+Darius Miles,2032,Running Jump Shot,2PT Field Goal,4,4,JUMP_SHOTS,1.0,2006
+Darius Miles,2032,Slam Dunk Shot,2PT Field Goal,4,4,DUNKS,1.0,2006
+Darius Miles,2032,Turnaround Jump Shot,2PT Field Goal,5,0,JUMP_SHOTS,0.0,2006

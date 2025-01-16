@@ -1,34 +1,34 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Joey Graham,101121,Alley Oop Dunk Shot,2PT Field Goal,1,1,DUNKS,2010
-Joey Graham,101121,Alley Oop Layup shot,2PT Field Goal,2,2,LAYUPS,2010
-Joey Graham,101121,Driving Dunk Shot,2PT Field Goal,2,2,DUNKS,2010
-Joey Graham,101121,Driving Finger Roll Layup Shot,2PT Field Goal,2,2,LAYUPS,2010
-Joey Graham,101121,Driving Hook Shot,2PT Field Goal,1,1,POST_MOVES,2010
-Joey Graham,101121,Driving Layup Shot,2PT Field Goal,2,1,LAYUPS,2010
-Joey Graham,101121,Driving Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,2010
-Joey Graham,101121,Driving Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,2010
-Joey Graham,101121,Dunk Shot,2PT Field Goal,6,6,DUNKS,2010
-Joey Graham,101121,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2010
-Joey Graham,101121,Finger Roll Layup Shot,2PT Field Goal,3,2,LAYUPS,2010
-Joey Graham,101121,Floating Jump shot,2PT Field Goal,3,3,SPECIALTY_SHOTS,2010
-Joey Graham,101121,Hook Shot,2PT Field Goal,3,2,POST_MOVES,2010
-Joey Graham,101121,Jump Bank Shot,2PT Field Goal,1,0,JUMP_SHOTS,2010
-Joey Graham,101121,Jump Hook Shot,2PT Field Goal,1,1,POST_MOVES,2010
-Joey Graham,101121,Jump Shot,2PT Field Goal,31,15,JUMP_SHOTS,2010
-Joey Graham,101121,Jump Shot,3PT Field Goal,4,1,JUMP_SHOTS,2010
-Joey Graham,101121,Layup Shot,2PT Field Goal,12,4,LAYUPS,2010
-Joey Graham,101121,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,2010
-Joey Graham,101121,Running Bank shot,2PT Field Goal,1,1,JUMP_SHOTS,2010
-Joey Graham,101121,Running Hook Shot,2PT Field Goal,1,1,POST_MOVES,2010
-Joey Graham,101121,Running Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,2010
-Joey Graham,101121,Slam Dunk Shot,2PT Field Goal,2,2,DUNKS,2010
-Joey Graham,101121,Tip Shot,2PT Field Goal,7,1,SPECIALTY_SHOTS,2010
-Joey Graham,101121,Turnaround Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,2010
-Joey Graham,101121,Driving Layup Shot,2PT Field Goal,1,0,LAYUPS,2011
-Joey Graham,101121,Hook Shot,2PT Field Goal,1,1,POST_MOVES,2011
-Joey Graham,101121,Jump Shot,2PT Field Goal,10,3,JUMP_SHOTS,2011
-Joey Graham,101121,Jump Shot,3PT Field Goal,7,2,JUMP_SHOTS,2011
-Joey Graham,101121,Layup Shot,2PT Field Goal,3,2,LAYUPS,2011
-Joey Graham,101121,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,2011
-Joey Graham,101121,Running Bank shot,2PT Field Goal,1,1,JUMP_SHOTS,2011
-Joey Graham,101121,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2011
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Joey Graham,101121,Alley Oop Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2010
+Joey Graham,101121,Alley Oop Layup shot,2PT Field Goal,2,2,LAYUPS,1.0,2010
+Joey Graham,101121,Driving Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2010
+Joey Graham,101121,Driving Finger Roll Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2010
+Joey Graham,101121,Driving Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2010
+Joey Graham,101121,Driving Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2010
+Joey Graham,101121,Driving Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2010
+Joey Graham,101121,Driving Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2010
+Joey Graham,101121,Dunk Shot,2PT Field Goal,6,6,DUNKS,1.0,2010
+Joey Graham,101121,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2010
+Joey Graham,101121,Finger Roll Layup Shot,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2010
+Joey Graham,101121,Floating Jump shot,2PT Field Goal,3,3,SPECIALTY_SHOTS,1.0,2010
+Joey Graham,101121,Hook Shot,2PT Field Goal,3,2,POST_MOVES,0.6666666666666666,2010
+Joey Graham,101121,Jump Bank Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2010
+Joey Graham,101121,Jump Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2010
+Joey Graham,101121,Jump Shot,2PT Field Goal,31,15,JUMP_SHOTS,0.4838709677419355,2010
+Joey Graham,101121,Jump Shot,3PT Field Goal,4,1,JUMP_SHOTS,0.375,2010
+Joey Graham,101121,Layup Shot,2PT Field Goal,12,4,LAYUPS,0.3333333333333333,2010
+Joey Graham,101121,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2010
+Joey Graham,101121,Running Bank shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2010
+Joey Graham,101121,Running Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2010
+Joey Graham,101121,Running Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2010
+Joey Graham,101121,Slam Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2010
+Joey Graham,101121,Tip Shot,2PT Field Goal,7,1,SPECIALTY_SHOTS,0.1428571428571428,2010
+Joey Graham,101121,Turnaround Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,0.3333333333333333,2010
+Joey Graham,101121,Driving Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2011
+Joey Graham,101121,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2011
+Joey Graham,101121,Jump Shot,2PT Field Goal,10,3,JUMP_SHOTS,0.3,2011
+Joey Graham,101121,Jump Shot,3PT Field Goal,7,2,JUMP_SHOTS,0.4285714285714285,2011
+Joey Graham,101121,Layup Shot,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2011
+Joey Graham,101121,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2011
+Joey Graham,101121,Running Bank shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2011
+Joey Graham,101121,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2011

@@ -1,5 +1,5 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Todd MacCulloch,1928,Hook Shot,2PT Field Goal,2,1,POST_MOVES,2002
-Todd MacCulloch,1928,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2002
-Todd MacCulloch,1928,Layup Shot,2PT Field Goal,7,4,LAYUPS,2002
-Todd MacCulloch,1928,Tip Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,2002
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Todd MacCulloch,1928,Hook Shot,2PT Field Goal,2,1,POST_MOVES,0.5,2002
+Todd MacCulloch,1928,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2002
+Todd MacCulloch,1928,Layup Shot,2PT Field Goal,7,4,LAYUPS,0.5714285714285714,2002
+Todd MacCulloch,1928,Tip Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,0.0,2002

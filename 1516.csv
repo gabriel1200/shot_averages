@@ -1,11 +1,11 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Ed Gray,1516,Driving Layup Shot,2PT Field Goal,3,2,LAYUPS,1998
-Ed Gray,1516,Jump Shot,2PT Field Goal,30,11,JUMP_SHOTS,1998
-Ed Gray,1516,Jump Shot,3PT Field Goal,12,3,JUMP_SHOTS,1998
-Ed Gray,1516,Layup Shot,2PT Field Goal,6,2,LAYUPS,1998
-Ed Gray,1516,Running Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,1998
-Ed Gray,1516,Driving Layup Shot,2PT Field Goal,9,5,LAYUPS,1999
-Ed Gray,1516,Jump Shot,2PT Field Goal,29,4,JUMP_SHOTS,1999
-Ed Gray,1516,Jump Shot,3PT Field Goal,14,5,JUMP_SHOTS,1999
-Ed Gray,1516,Layup Shot,2PT Field Goal,13,6,LAYUPS,1999
-Ed Gray,1516,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,1999
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Ed Gray,1516,Driving Layup Shot,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,1998
+Ed Gray,1516,Jump Shot,2PT Field Goal,30,11,JUMP_SHOTS,0.3666666666666666,1998
+Ed Gray,1516,Jump Shot,3PT Field Goal,12,3,JUMP_SHOTS,0.375,1998
+Ed Gray,1516,Layup Shot,2PT Field Goal,6,2,LAYUPS,0.3333333333333333,1998
+Ed Gray,1516,Running Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,0.6666666666666666,1998
+Ed Gray,1516,Driving Layup Shot,2PT Field Goal,9,5,LAYUPS,0.5555555555555556,1999
+Ed Gray,1516,Jump Shot,2PT Field Goal,29,4,JUMP_SHOTS,0.1379310344827586,1999
+Ed Gray,1516,Jump Shot,3PT Field Goal,14,5,JUMP_SHOTS,0.5357142857142857,1999
+Ed Gray,1516,Layup Shot,2PT Field Goal,13,6,LAYUPS,0.4615384615384615,1999
+Ed Gray,1516,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,1999

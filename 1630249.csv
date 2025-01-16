@@ -1,29 +1,29 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Vit Krejci,1630249,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,2024
-Vit Krejci,1630249,Driving Finger Roll Layup Shot,2PT Field Goal,5,3,LAYUPS,2024
-Vit Krejci,1630249,Driving Floating Jump Shot,2PT Field Goal,2,1,SPECIALTY_SHOTS,2024
-Vit Krejci,1630249,Driving Layup Shot,2PT Field Goal,3,1,LAYUPS,2024
-Vit Krejci,1630249,Jump Shot,3PT Field Goal,24,9,JUMP_SHOTS,2024
-Vit Krejci,1630249,Pullup Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,2024
-Vit Krejci,1630249,Pullup Jump shot,3PT Field Goal,4,1,JUMP_SHOTS,2024
-Vit Krejci,1630249,Putback Layup Shot,2PT Field Goal,1,1,LAYUPS,2024
-Vit Krejci,1630249,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,2024
-Vit Krejci,1630249,Running Dunk Shot,2PT Field Goal,2,2,DUNKS,2024
-Vit Krejci,1630249,Running Jump Shot,3PT Field Goal,2,2,JUMP_SHOTS,2024
-Vit Krejci,1630249,Running Layup Shot,2PT Field Goal,1,1,LAYUPS,2024
-Vit Krejci,1630249,Running Pull-Up Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,2024
-Vit Krejci,1630249,Step Back Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,2024
-Vit Krejci,1630249,Step Back Jump shot,3PT Field Goal,1,0,JUMP_SHOTS,2024
-Vit Krejci,1630249,Turnaround Fadeaway shot,2PT Field Goal,2,1,JUMP_SHOTS,2024
-Vít Krejčí,1630249,Cutting Dunk Shot,2PT Field Goal,1,0,DUNKS,2025
-Vít Krejčí,1630249,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,2025
-Vít Krejčí,1630249,Driving Finger Roll Layup Shot,2PT Field Goal,2,1,LAYUPS,2025
-Vít Krejčí,1630249,Driving Floating Bank Jump Shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,2025
-Vít Krejčí,1630249,Driving Floating Jump Shot,2PT Field Goal,3,2,SPECIALTY_SHOTS,2025
-Vít Krejčí,1630249,Driving Layup Shot,2PT Field Goal,2,1,LAYUPS,2025
-Vít Krejčí,1630249,Jump Shot,3PT Field Goal,14,6,JUMP_SHOTS,2025
-Vít Krejčí,1630249,Pullup Jump shot,3PT Field Goal,2,1,JUMP_SHOTS,2025
-Vít Krejčí,1630249,Putback Layup Shot,2PT Field Goal,2,0,LAYUPS,2025
-Vít Krejčí,1630249,Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,2025
-Vít Krejčí,1630249,Running Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,2025
-Vít Krejčí,1630249,Running Pull-Up Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Vit Krejci,1630249,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2024
+Vit Krejci,1630249,Driving Finger Roll Layup Shot,2PT Field Goal,5,3,LAYUPS,0.6,2024
+Vit Krejci,1630249,Driving Floating Jump Shot,2PT Field Goal,2,1,SPECIALTY_SHOTS,0.5,2024
+Vit Krejci,1630249,Driving Layup Shot,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2024
+Vit Krejci,1630249,Jump Shot,3PT Field Goal,24,9,JUMP_SHOTS,0.5625,2024
+Vit Krejci,1630249,Pullup Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
+Vit Krejci,1630249,Pullup Jump shot,3PT Field Goal,4,1,JUMP_SHOTS,0.375,2024
+Vit Krejci,1630249,Putback Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
+Vit Krejci,1630249,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
+Vit Krejci,1630249,Running Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2024
+Vit Krejci,1630249,Running Jump Shot,3PT Field Goal,2,2,JUMP_SHOTS,1.5,2024
+Vit Krejci,1630249,Running Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
+Vit Krejci,1630249,Running Pull-Up Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
+Vit Krejci,1630249,Step Back Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
+Vit Krejci,1630249,Step Back Jump shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
+Vit Krejci,1630249,Turnaround Fadeaway shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2024
+Vít Krejčí,1630249,Cutting Dunk Shot,2PT Field Goal,1,0,DUNKS,0.0,2025
+Vít Krejčí,1630249,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2025
+Vít Krejčí,1630249,Driving Finger Roll Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2025
+Vít Krejčí,1630249,Driving Floating Bank Jump Shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,1.0,2025
+Vít Krejčí,1630249,Driving Floating Jump Shot,2PT Field Goal,3,2,SPECIALTY_SHOTS,0.6666666666666666,2025
+Vít Krejčí,1630249,Driving Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2025
+Vít Krejčí,1630249,Jump Shot,3PT Field Goal,14,6,JUMP_SHOTS,0.6428571428571429,2025
+Vít Krejčí,1630249,Pullup Jump shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2025
+Vít Krejčí,1630249,Putback Layup Shot,2PT Field Goal,2,0,LAYUPS,0.0,2025
+Vít Krejčí,1630249,Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2025
+Vít Krejčí,1630249,Running Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,2025
+Vít Krejčí,1630249,Running Pull-Up Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2025

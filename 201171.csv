@@ -1,43 +1,43 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Carl Landry,201171,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,2010
-Carl Landry,201171,Driving Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,2010
-Carl Landry,201171,Dunk Shot,2PT Field Goal,1,1,DUNKS,2010
-Carl Landry,201171,Jump Hook Shot,2PT Field Goal,2,1,POST_MOVES,2010
-Carl Landry,201171,Jump Shot,2PT Field Goal,25,12,JUMP_SHOTS,2010
-Carl Landry,201171,Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,2010
-Carl Landry,201171,Layup Shot,2PT Field Goal,5,2,LAYUPS,2010
-Carl Landry,201171,Tip Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,2010
-Carl Landry,201171,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2010
-Carl Landry,201171,Dunk Shot,2PT Field Goal,2,1,DUNKS,2011
-Carl Landry,201171,Jump Bank Shot,2PT Field Goal,1,1,JUMP_SHOTS,2011
-Carl Landry,201171,Jump Hook Shot,2PT Field Goal,1,0,POST_MOVES,2011
-Carl Landry,201171,Jump Shot,2PT Field Goal,24,9,JUMP_SHOTS,2011
-Carl Landry,201171,Layup Shot,2PT Field Goal,7,5,LAYUPS,2011
-Carl Landry,201171,Pullup Jump shot,2PT Field Goal,1,1,JUMP_SHOTS,2011
-Carl Landry,201171,Putback Layup Shot,2PT Field Goal,1,1,LAYUPS,2011
-Carl Landry,201171,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,2011
-Carl Landry,201171,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,2011
-Carl Landry,201171,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2011
-Carl Landry,201171,Driving Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,2012
-Carl Landry,201171,Jump Shot,2PT Field Goal,13,6,JUMP_SHOTS,2012
-Carl Landry,201171,Layup Shot,2PT Field Goal,9,4,LAYUPS,2012
-Carl Landry,201171,Putback Layup Shot,2PT Field Goal,1,1,LAYUPS,2012
-Carl Landry,201171,Reverse Layup Shot,2PT Field Goal,3,3,LAYUPS,2012
-Carl Landry,201171,Running Hook Shot,2PT Field Goal,1,0,POST_MOVES,2012
-Carl Landry,201171,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,2012
-Carl Landry,201171,Tip Shot,2PT Field Goal,2,1,SPECIALTY_SHOTS,2012
-Carl Landry,201171,Turnaround Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,2012
-Carl Landry,201171,Hook Shot,2PT Field Goal,1,0,POST_MOVES,2013
-Carl Landry,201171,Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,2013
-Carl Landry,201171,Layup Shot,2PT Field Goal,1,1,LAYUPS,2013
-Carl Landry,201171,Pullup Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,2013
-Carl Landry,201171,Step Back Jump shot,2PT Field Goal,1,1,JUMP_SHOTS,2013
-Carl Landry,201171,Dunk Shot,2PT Field Goal,1,1,DUNKS,2014
-Carl Landry,201171,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,2014
-Carl Landry,201171,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,2015
-Carl Landry,201171,Jump Bank Shot,2PT Field Goal,2,1,JUMP_SHOTS,2015
-Carl Landry,201171,Jump Hook Shot,2PT Field Goal,1,1,POST_MOVES,2015
-Carl Landry,201171,Jump Shot,2PT Field Goal,9,3,JUMP_SHOTS,2015
-Carl Landry,201171,Layup Shot,2PT Field Goal,2,1,LAYUPS,2015
-Carl Landry,201171,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,2015
-Carl Landry,201171,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,2015
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Carl Landry,201171,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2010
+Carl Landry,201171,Driving Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2010
+Carl Landry,201171,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2010
+Carl Landry,201171,Jump Hook Shot,2PT Field Goal,2,1,POST_MOVES,0.5,2010
+Carl Landry,201171,Jump Shot,2PT Field Goal,25,12,JUMP_SHOTS,0.48,2010
+Carl Landry,201171,Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2010
+Carl Landry,201171,Layup Shot,2PT Field Goal,5,2,LAYUPS,0.4,2010
+Carl Landry,201171,Tip Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,0.0,2010
+Carl Landry,201171,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2010
+Carl Landry,201171,Dunk Shot,2PT Field Goal,2,1,DUNKS,0.5,2011
+Carl Landry,201171,Jump Bank Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2011
+Carl Landry,201171,Jump Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2011
+Carl Landry,201171,Jump Shot,2PT Field Goal,24,9,JUMP_SHOTS,0.375,2011
+Carl Landry,201171,Layup Shot,2PT Field Goal,7,5,LAYUPS,0.7142857142857143,2011
+Carl Landry,201171,Pullup Jump shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2011
+Carl Landry,201171,Putback Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2011
+Carl Landry,201171,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2011
+Carl Landry,201171,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2011
+Carl Landry,201171,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2011
+Carl Landry,201171,Driving Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2012
+Carl Landry,201171,Jump Shot,2PT Field Goal,13,6,JUMP_SHOTS,0.4615384615384615,2012
+Carl Landry,201171,Layup Shot,2PT Field Goal,9,4,LAYUPS,0.4444444444444444,2012
+Carl Landry,201171,Putback Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2012
+Carl Landry,201171,Reverse Layup Shot,2PT Field Goal,3,3,LAYUPS,1.0,2012
+Carl Landry,201171,Running Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2012
+Carl Landry,201171,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2012
+Carl Landry,201171,Tip Shot,2PT Field Goal,2,1,SPECIALTY_SHOTS,0.5,2012
+Carl Landry,201171,Turnaround Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2012
+Carl Landry,201171,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2013
+Carl Landry,201171,Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,0.3333333333333333,2013
+Carl Landry,201171,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2013
+Carl Landry,201171,Pullup Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2013
+Carl Landry,201171,Step Back Jump shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2013
+Carl Landry,201171,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2014
+Carl Landry,201171,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2014
+Carl Landry,201171,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2015
+Carl Landry,201171,Jump Bank Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2015
+Carl Landry,201171,Jump Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2015
+Carl Landry,201171,Jump Shot,2PT Field Goal,9,3,JUMP_SHOTS,0.3333333333333333,2015
+Carl Landry,201171,Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2015
+Carl Landry,201171,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2015
+Carl Landry,201171,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2015

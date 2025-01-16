@@ -1,6 +1,6 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Reggie Evans,2501,Layup Shot,2PT Field Goal,1,1,LAYUPS,2006
-Reggie Evans,2501,Dunk Shot,2PT Field Goal,2,2,DUNKS,2007
-Reggie Evans,2501,Follow Up Dunk Shot,2PT Field Goal,1,0,DUNKS,2007
-Reggie Evans,2501,Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,2007
-Reggie Evans,2501,Layup Shot,2PT Field Goal,6,2,LAYUPS,2007
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Reggie Evans,2501,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2006
+Reggie Evans,2501,Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2007
+Reggie Evans,2501,Follow Up Dunk Shot,2PT Field Goal,1,0,DUNKS,0.0,2007
+Reggie Evans,2501,Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2007
+Reggie Evans,2501,Layup Shot,2PT Field Goal,6,2,LAYUPS,0.3333333333333333,2007

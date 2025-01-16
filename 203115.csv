@@ -1,17 +1,17 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Will Barton,203115,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2015
-Will Barton,203115,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,2015
-Will Barton,203115,Layup Shot,2PT Field Goal,2,1,LAYUPS,2015
-Will Barton,203115,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,2015
-Will Barton,203115,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,2016
-Will Barton,203115,Jump Bank Shot,2PT Field Goal,1,0,JUMP_SHOTS,2016
-Will Barton,203115,Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,2016
-Will Barton,203115,Layup Shot,2PT Field Goal,2,1,LAYUPS,2016
-Will Barton,203115,Pullup Jump shot,3PT Field Goal,1,1,JUMP_SHOTS,2016
-Will Barton,203115,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,2017
-Will Barton,203115,Floating Jump shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,2017
-Will Barton,203115,Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,2017
-Will Barton,203115,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,2017
-Will Barton,203115,Putback Layup Shot,2PT Field Goal,1,1,LAYUPS,2017
-Will Barton,203115,Running Layup Shot,2PT Field Goal,1,0,LAYUPS,2017
-Will Barton,203115,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,2018
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Will Barton,203115,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2015
+Will Barton,203115,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,2015
+Will Barton,203115,Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2015
+Will Barton,203115,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2015
+Will Barton,203115,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2016
+Will Barton,203115,Jump Bank Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2016
+Will Barton,203115,Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2016
+Will Barton,203115,Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2016
+Will Barton,203115,Pullup Jump shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2016
+Will Barton,203115,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2017
+Will Barton,203115,Floating Jump shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,0.0,2017
+Will Barton,203115,Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2017
+Will Barton,203115,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,2017
+Will Barton,203115,Putback Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2017
+Will Barton,203115,Running Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2017
+Will Barton,203115,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2018

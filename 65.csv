@@ -1,7 +1,7 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Greg Minor,65,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,1998
-Greg Minor,65,Jump Shot,2PT Field Goal,6,1,JUMP_SHOTS,1998
-Greg Minor,65,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,1998
-Greg Minor,65,Layup Shot,2PT Field Goal,1,1,LAYUPS,1998
-Greg Minor,65,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1998
-Greg Minor,65,Tip Shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,1998
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Greg Minor,65,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,1998
+Greg Minor,65,Jump Shot,2PT Field Goal,6,1,JUMP_SHOTS,0.1666666666666666,1998
+Greg Minor,65,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,1998
+Greg Minor,65,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,1998
+Greg Minor,65,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,1998
+Greg Minor,65,Tip Shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,1.0,1998

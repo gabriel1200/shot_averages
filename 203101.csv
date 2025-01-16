@@ -1,31 +1,31 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Miles Plumlee,203101,Dunk Shot,2PT Field Goal,1,1,DUNKS,2015
-Miles Plumlee,203101,Hook Shot,2PT Field Goal,1,0,POST_MOVES,2015
-Miles Plumlee,203101,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2015
-Miles Plumlee,203101,Layup Shot,2PT Field Goal,1,1,LAYUPS,2015
-Miles Plumlee,203101,Alley Oop Dunk Shot,2PT Field Goal,8,6,DUNKS,2016
-Miles Plumlee,203101,Alley Oop Layup shot,2PT Field Goal,5,3,LAYUPS,2016
-Miles Plumlee,203101,Cutting Layup Shot,2PT Field Goal,1,1,LAYUPS,2016
-Miles Plumlee,203101,Driving Hook Shot,2PT Field Goal,1,1,POST_MOVES,2016
-Miles Plumlee,203101,Dunk Shot,2PT Field Goal,2,1,DUNKS,2016
-Miles Plumlee,203101,Hook Shot,2PT Field Goal,3,2,POST_MOVES,2016
-Miles Plumlee,203101,Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,2016
-Miles Plumlee,203101,Layup Shot,2PT Field Goal,2,0,LAYUPS,2016
-Miles Plumlee,203101,Running Alley Oop Dunk Shot,2PT Field Goal,1,1,DUNKS,2016
-Miles Plumlee,203101,Running Dunk Shot,2PT Field Goal,1,1,DUNKS,2016
-Miles Plumlee,203101,Step Back Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,2016
-Miles Plumlee,203101,Tip Dunk Shot,2PT Field Goal,1,1,DUNKS,2016
-Miles Plumlee,203101,Tip Layup Shot,2PT Field Goal,4,1,LAYUPS,2016
-Miles Plumlee,203101,Turnaround Bank shot,2PT Field Goal,1,0,JUMP_SHOTS,2016
-Miles Plumlee,203101,Turnaround Hook Shot,2PT Field Goal,1,1,POST_MOVES,2016
-Miles Plumlee,203101,Alley Oop Dunk Shot,2PT Field Goal,3,3,DUNKS,2017
-Miles Plumlee,203101,Alley Oop Layup shot,2PT Field Goal,2,2,LAYUPS,2017
-Miles Plumlee,203101,Cutting Dunk Shot,2PT Field Goal,1,1,DUNKS,2017
-Miles Plumlee,203101,Cutting Layup Shot,2PT Field Goal,1,0,LAYUPS,2017
-Miles Plumlee,203101,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,2017
-Miles Plumlee,203101,Dunk Shot,2PT Field Goal,2,2,DUNKS,2017
-Miles Plumlee,203101,Hook Shot,2PT Field Goal,4,0,POST_MOVES,2017
-Miles Plumlee,203101,Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,2017
-Miles Plumlee,203101,Layup Shot,2PT Field Goal,3,1,LAYUPS,2017
-Miles Plumlee,203101,Reverse Layup Shot,2PT Field Goal,2,1,LAYUPS,2017
-Miles Plumlee,203101,Turnaround Hook Shot,2PT Field Goal,1,0,POST_MOVES,2017
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Miles Plumlee,203101,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2015
+Miles Plumlee,203101,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2015
+Miles Plumlee,203101,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2015
+Miles Plumlee,203101,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2015
+Miles Plumlee,203101,Alley Oop Dunk Shot,2PT Field Goal,8,6,DUNKS,0.75,2016
+Miles Plumlee,203101,Alley Oop Layup shot,2PT Field Goal,5,3,LAYUPS,0.6,2016
+Miles Plumlee,203101,Cutting Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2016
+Miles Plumlee,203101,Driving Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2016
+Miles Plumlee,203101,Dunk Shot,2PT Field Goal,2,1,DUNKS,0.5,2016
+Miles Plumlee,203101,Hook Shot,2PT Field Goal,3,2,POST_MOVES,0.6666666666666666,2016
+Miles Plumlee,203101,Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,0.3333333333333333,2016
+Miles Plumlee,203101,Layup Shot,2PT Field Goal,2,0,LAYUPS,0.0,2016
+Miles Plumlee,203101,Running Alley Oop Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2016
+Miles Plumlee,203101,Running Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2016
+Miles Plumlee,203101,Step Back Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2016
+Miles Plumlee,203101,Tip Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2016
+Miles Plumlee,203101,Tip Layup Shot,2PT Field Goal,4,1,LAYUPS,0.25,2016
+Miles Plumlee,203101,Turnaround Bank shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2016
+Miles Plumlee,203101,Turnaround Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2016
+Miles Plumlee,203101,Alley Oop Dunk Shot,2PT Field Goal,3,3,DUNKS,1.0,2017
+Miles Plumlee,203101,Alley Oop Layup shot,2PT Field Goal,2,2,LAYUPS,1.0,2017
+Miles Plumlee,203101,Cutting Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2017
+Miles Plumlee,203101,Cutting Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2017
+Miles Plumlee,203101,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2017
+Miles Plumlee,203101,Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2017
+Miles Plumlee,203101,Hook Shot,2PT Field Goal,4,0,POST_MOVES,0.0,2017
+Miles Plumlee,203101,Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,0.3333333333333333,2017
+Miles Plumlee,203101,Layup Shot,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2017
+Miles Plumlee,203101,Reverse Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2017
+Miles Plumlee,203101,Turnaround Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2017

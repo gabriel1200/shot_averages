@@ -1,41 +1,41 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Tristan da Silva,1641783,Alley Oop Dunk Shot,2PT Field Goal,2,2,DUNKS,2025
-Tristan da Silva,1641783,Cutting Dunk Shot,2PT Field Goal,3,2,DUNKS,2025
-Tristan da Silva,1641783,Cutting Finger Roll Layup Shot,2PT Field Goal,3,2,LAYUPS,2025
-Tristan da Silva,1641783,Cutting Layup Shot,2PT Field Goal,9,7,LAYUPS,2025
-Tristan da Silva,1641783,Driving Dunk Shot,2PT Field Goal,4,1,DUNKS,2025
-Tristan da Silva,1641783,Driving Finger Roll Layup Shot,2PT Field Goal,7,6,LAYUPS,2025
-Tristan da Silva,1641783,Driving Floating Bank Jump Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,2025
-Tristan da Silva,1641783,Driving Floating Jump Shot,2PT Field Goal,8,3,SPECIALTY_SHOTS,2025
-Tristan da Silva,1641783,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,2025
-Tristan da Silva,1641783,Driving Layup Shot,2PT Field Goal,15,8,LAYUPS,2025
-Tristan da Silva,1641783,Driving Reverse Layup Shot,2PT Field Goal,2,1,LAYUPS,2025
-Tristan da Silva,1641783,Dunk Shot,2PT Field Goal,1,1,DUNKS,2025
-Tristan da Silva,1641783,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2025
-Tristan da Silva,1641783,Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,2025
-Tristan da Silva,1641783,Floating Jump shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,2025
-Tristan da Silva,1641783,Hook Bank Shot,2PT Field Goal,1,0,POST_MOVES,2025
-Tristan da Silva,1641783,Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,2025
-Tristan da Silva,1641783,Jump Shot,3PT Field Goal,76,30,JUMP_SHOTS,2025
-Tristan da Silva,1641783,Layup Shot,2PT Field Goal,3,1,LAYUPS,2025
-Tristan da Silva,1641783,Pullup Jump shot,2PT Field Goal,4,2,JUMP_SHOTS,2025
-Tristan da Silva,1641783,Pullup Jump shot,3PT Field Goal,8,1,JUMP_SHOTS,2025
-Tristan da Silva,1641783,Putback Layup Shot,2PT Field Goal,6,5,LAYUPS,2025
-Tristan da Silva,1641783,Reverse Layup Shot,2PT Field Goal,2,1,LAYUPS,2025
-Tristan da Silva,1641783,Running Alley Oop Dunk Shot,2PT Field Goal,2,2,DUNKS,2025
-Tristan da Silva,1641783,Running Dunk Shot,2PT Field Goal,5,5,DUNKS,2025
-Tristan da Silva,1641783,Running Finger Roll Layup Shot,2PT Field Goal,1,0,LAYUPS,2025
-Tristan da Silva,1641783,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2025
-Tristan da Silva,1641783,Running Jump Shot,3PT Field Goal,12,4,JUMP_SHOTS,2025
-Tristan da Silva,1641783,Running Layup Shot,2PT Field Goal,5,1,LAYUPS,2025
-Tristan da Silva,1641783,Running Pull-Up Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2025
-Tristan da Silva,1641783,Running Pull-Up Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,2025
-Tristan da Silva,1641783,Running Reverse Layup Shot,2PT Field Goal,2,2,LAYUPS,2025
-Tristan da Silva,1641783,Step Back Bank Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,2025
-Tristan da Silva,1641783,Step Back Jump shot,2PT Field Goal,1,1,JUMP_SHOTS,2025
-Tristan da Silva,1641783,Step Back Jump shot,3PT Field Goal,1,0,JUMP_SHOTS,2025
-Tristan da Silva,1641783,Tip Layup Shot,2PT Field Goal,3,0,LAYUPS,2025
-Tristan da Silva,1641783,Turnaround Fadeaway shot,2PT Field Goal,3,1,JUMP_SHOTS,2025
-Tristan da Silva,1641783,Turnaround Hook Shot,2PT Field Goal,3,1,POST_MOVES,2025
-Tristan da Silva,1641783,Turnaround Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,2025
-Tristan da Silva,1641783,Turnaround Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Tristan da Silva,1641783,Alley Oop Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2025
+Tristan da Silva,1641783,Cutting Dunk Shot,2PT Field Goal,3,2,DUNKS,0.6666666666666666,2025
+Tristan da Silva,1641783,Cutting Finger Roll Layup Shot,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2025
+Tristan da Silva,1641783,Cutting Layup Shot,2PT Field Goal,9,7,LAYUPS,0.7777777777777778,2025
+Tristan da Silva,1641783,Driving Dunk Shot,2PT Field Goal,4,1,DUNKS,0.25,2025
+Tristan da Silva,1641783,Driving Finger Roll Layup Shot,2PT Field Goal,7,6,LAYUPS,0.8571428571428571,2025
+Tristan da Silva,1641783,Driving Floating Bank Jump Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,0.0,2025
+Tristan da Silva,1641783,Driving Floating Jump Shot,2PT Field Goal,8,3,SPECIALTY_SHOTS,0.375,2025
+Tristan da Silva,1641783,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2025
+Tristan da Silva,1641783,Driving Layup Shot,2PT Field Goal,15,8,LAYUPS,0.5333333333333333,2025
+Tristan da Silva,1641783,Driving Reverse Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2025
+Tristan da Silva,1641783,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2025
+Tristan da Silva,1641783,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
+Tristan da Silva,1641783,Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2025
+Tristan da Silva,1641783,Floating Jump shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,1.0,2025
+Tristan da Silva,1641783,Hook Bank Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2025
+Tristan da Silva,1641783,Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,0.3333333333333333,2025
+Tristan da Silva,1641783,Jump Shot,3PT Field Goal,76,30,JUMP_SHOTS,0.5921052631578947,2025
+Tristan da Silva,1641783,Layup Shot,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2025
+Tristan da Silva,1641783,Pullup Jump shot,2PT Field Goal,4,2,JUMP_SHOTS,0.5,2025
+Tristan da Silva,1641783,Pullup Jump shot,3PT Field Goal,8,1,JUMP_SHOTS,0.1875,2025
+Tristan da Silva,1641783,Putback Layup Shot,2PT Field Goal,6,5,LAYUPS,0.8333333333333334,2025
+Tristan da Silva,1641783,Reverse Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2025
+Tristan da Silva,1641783,Running Alley Oop Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2025
+Tristan da Silva,1641783,Running Dunk Shot,2PT Field Goal,5,5,DUNKS,1.0,2025
+Tristan da Silva,1641783,Running Finger Roll Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2025
+Tristan da Silva,1641783,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
+Tristan da Silva,1641783,Running Jump Shot,3PT Field Goal,12,4,JUMP_SHOTS,0.5,2025
+Tristan da Silva,1641783,Running Layup Shot,2PT Field Goal,5,1,LAYUPS,0.2,2025
+Tristan da Silva,1641783,Running Pull-Up Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
+Tristan da Silva,1641783,Running Pull-Up Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
+Tristan da Silva,1641783,Running Reverse Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2025
+Tristan da Silva,1641783,Step Back Bank Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
+Tristan da Silva,1641783,Step Back Jump shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2025
+Tristan da Silva,1641783,Step Back Jump shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
+Tristan da Silva,1641783,Tip Layup Shot,2PT Field Goal,3,0,LAYUPS,0.0,2025
+Tristan da Silva,1641783,Turnaround Fadeaway shot,2PT Field Goal,3,1,JUMP_SHOTS,0.3333333333333333,2025
+Tristan da Silva,1641783,Turnaround Hook Shot,2PT Field Goal,3,1,POST_MOVES,0.3333333333333333,2025
+Tristan da Silva,1641783,Turnaround Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2025
+Tristan da Silva,1641783,Turnaround Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2025

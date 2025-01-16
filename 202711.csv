@@ -1,37 +1,37 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Bojan Bogdanovic,202711,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,2015
-Bojan Bogdanovic,202711,Driving Layup Shot,2PT Field Goal,1,0,LAYUPS,2016
-Bojan Bogdanovic,202711,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,2016
-Bojan Bogdanovic,202711,Pullup Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,2016
-Bojan Bogdanovic,202711,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2017
-Bojan Bogdanovic,202711,Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,2017
-Bojan Bogdanovic,202711,Cutting Layup Shot,2PT Field Goal,6,4,LAYUPS,2024
-Bojan Bogdanovic,202711,Driving Finger Roll Layup Shot,2PT Field Goal,11,8,LAYUPS,2024
-Bojan Bogdanovic,202711,Driving Floating Bank Jump Shot,2PT Field Goal,11,5,SPECIALTY_SHOTS,2024
-Bojan Bogdanovic,202711,Driving Floating Jump Shot,2PT Field Goal,11,6,SPECIALTY_SHOTS,2024
-Bojan Bogdanovic,202711,Driving Layup Shot,2PT Field Goal,59,31,LAYUPS,2024
-Bojan Bogdanovic,202711,Driving Reverse Layup Shot,2PT Field Goal,2,2,LAYUPS,2024
-Bojan Bogdanovic,202711,Fadeaway Bank shot,2PT Field Goal,2,2,JUMP_SHOTS,2024
-Bojan Bogdanovic,202711,Fadeaway Jump Shot,2PT Field Goal,30,10,JUMP_SHOTS,2024
-Bojan Bogdanovic,202711,Finger Roll Layup Shot,2PT Field Goal,1,0,LAYUPS,2024
-Bojan Bogdanovic,202711,Floating Jump shot,2PT Field Goal,3,1,SPECIALTY_SHOTS,2024
-Bojan Bogdanovic,202711,Jump Bank Shot,3PT Field Goal,1,1,JUMP_SHOTS,2024
-Bojan Bogdanovic,202711,Jump Shot,2PT Field Goal,8,4,JUMP_SHOTS,2024
-Bojan Bogdanovic,202711,Jump Shot,3PT Field Goal,149,61,JUMP_SHOTS,2024
-Bojan Bogdanovic,202711,Layup Shot,2PT Field Goal,3,2,LAYUPS,2024
-Bojan Bogdanovic,202711,Pullup Jump shot,2PT Field Goal,38,18,JUMP_SHOTS,2024
-Bojan Bogdanovic,202711,Pullup Jump shot,3PT Field Goal,23,11,JUMP_SHOTS,2024
-Bojan Bogdanovic,202711,Running Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,2024
-Bojan Bogdanovic,202711,Running Jump Shot,3PT Field Goal,23,11,JUMP_SHOTS,2024
-Bojan Bogdanovic,202711,Running Layup Shot,2PT Field Goal,19,14,LAYUPS,2024
-Bojan Bogdanovic,202711,Running Pull-Up Jump Shot,3PT Field Goal,5,1,JUMP_SHOTS,2024
-Bojan Bogdanovic,202711,Running Reverse Layup Shot,2PT Field Goal,2,2,LAYUPS,2024
-Bojan Bogdanovic,202711,Step Back Bank Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,2024
-Bojan Bogdanovic,202711,Step Back Jump shot,2PT Field Goal,27,17,JUMP_SHOTS,2024
-Bojan Bogdanovic,202711,Step Back Jump shot,3PT Field Goal,17,5,JUMP_SHOTS,2024
-Bojan Bogdanovic,202711,Tip Layup Shot,2PT Field Goal,3,2,LAYUPS,2024
-Bojan Bogdanovic,202711,Turnaround Bank shot,2PT Field Goal,2,1,JUMP_SHOTS,2024
-Bojan Bogdanovic,202711,Turnaround Fadeaway shot,2PT Field Goal,3,2,JUMP_SHOTS,2024
-Bojan Bogdanovic,202711,Turnaround Hook Shot,2PT Field Goal,1,0,POST_MOVES,2024
-Bojan Bogdanovic,202711,Turnaround Jump Shot,2PT Field Goal,4,1,JUMP_SHOTS,2024
-Bojan Bogdanovic,202711,Turnaround Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Bojan Bogdanovic,202711,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2015
+Bojan Bogdanovic,202711,Driving Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2016
+Bojan Bogdanovic,202711,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,2016
+Bojan Bogdanovic,202711,Pullup Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2016
+Bojan Bogdanovic,202711,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2017
+Bojan Bogdanovic,202711,Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2017
+Bojan Bogdanovic,202711,Cutting Layup Shot,2PT Field Goal,6,4,LAYUPS,0.6666666666666666,2024
+Bojan Bogdanovic,202711,Driving Finger Roll Layup Shot,2PT Field Goal,11,8,LAYUPS,0.7272727272727273,2024
+Bojan Bogdanovic,202711,Driving Floating Bank Jump Shot,2PT Field Goal,11,5,SPECIALTY_SHOTS,0.4545454545454545,2024
+Bojan Bogdanovic,202711,Driving Floating Jump Shot,2PT Field Goal,11,6,SPECIALTY_SHOTS,0.5454545454545454,2024
+Bojan Bogdanovic,202711,Driving Layup Shot,2PT Field Goal,59,31,LAYUPS,0.5254237288135594,2024
+Bojan Bogdanovic,202711,Driving Reverse Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2024
+Bojan Bogdanovic,202711,Fadeaway Bank shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,2024
+Bojan Bogdanovic,202711,Fadeaway Jump Shot,2PT Field Goal,30,10,JUMP_SHOTS,0.3333333333333333,2024
+Bojan Bogdanovic,202711,Finger Roll Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2024
+Bojan Bogdanovic,202711,Floating Jump shot,2PT Field Goal,3,1,SPECIALTY_SHOTS,0.3333333333333333,2024
+Bojan Bogdanovic,202711,Jump Bank Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2024
+Bojan Bogdanovic,202711,Jump Shot,2PT Field Goal,8,4,JUMP_SHOTS,0.5,2024
+Bojan Bogdanovic,202711,Jump Shot,3PT Field Goal,149,61,JUMP_SHOTS,0.6140939597315436,2024
+Bojan Bogdanovic,202711,Layup Shot,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2024
+Bojan Bogdanovic,202711,Pullup Jump shot,2PT Field Goal,38,18,JUMP_SHOTS,0.4736842105263157,2024
+Bojan Bogdanovic,202711,Pullup Jump shot,3PT Field Goal,23,11,JUMP_SHOTS,0.717391304347826,2024
+Bojan Bogdanovic,202711,Running Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
+Bojan Bogdanovic,202711,Running Jump Shot,3PT Field Goal,23,11,JUMP_SHOTS,0.717391304347826,2024
+Bojan Bogdanovic,202711,Running Layup Shot,2PT Field Goal,19,14,LAYUPS,0.7368421052631579,2024
+Bojan Bogdanovic,202711,Running Pull-Up Jump Shot,3PT Field Goal,5,1,JUMP_SHOTS,0.3,2024
+Bojan Bogdanovic,202711,Running Reverse Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2024
+Bojan Bogdanovic,202711,Step Back Bank Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2024
+Bojan Bogdanovic,202711,Step Back Jump shot,2PT Field Goal,27,17,JUMP_SHOTS,0.6296296296296297,2024
+Bojan Bogdanovic,202711,Step Back Jump shot,3PT Field Goal,17,5,JUMP_SHOTS,0.4411764705882353,2024
+Bojan Bogdanovic,202711,Tip Layup Shot,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2024
+Bojan Bogdanovic,202711,Turnaround Bank shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2024
+Bojan Bogdanovic,202711,Turnaround Fadeaway shot,2PT Field Goal,3,2,JUMP_SHOTS,0.6666666666666666,2024
+Bojan Bogdanovic,202711,Turnaround Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2024
+Bojan Bogdanovic,202711,Turnaround Jump Shot,2PT Field Goal,4,1,JUMP_SHOTS,0.25,2024
+Bojan Bogdanovic,202711,Turnaround Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2024

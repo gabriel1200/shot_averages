@@ -1,5 +1,5 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Pooh Richardson,71,Driving Layup Shot,2PT Field Goal,4,2,LAYUPS,1997
-Pooh Richardson,71,Jump Shot,2PT Field Goal,5,2,JUMP_SHOTS,1997
-Pooh Richardson,71,Jump Shot,3PT Field Goal,7,3,JUMP_SHOTS,1997
-Pooh Richardson,71,Layup Shot,2PT Field Goal,3,0,LAYUPS,1997
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Pooh Richardson,71,Driving Layup Shot,2PT Field Goal,4,2,LAYUPS,0.5,1997
+Pooh Richardson,71,Jump Shot,2PT Field Goal,5,2,JUMP_SHOTS,0.4,1997
+Pooh Richardson,71,Jump Shot,3PT Field Goal,7,3,JUMP_SHOTS,0.6428571428571429,1997
+Pooh Richardson,71,Layup Shot,2PT Field Goal,3,0,LAYUPS,0.0,1997

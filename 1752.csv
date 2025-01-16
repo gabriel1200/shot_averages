@@ -1,38 +1,38 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Sean Marks,1752,Dunk Shot,2PT Field Goal,2,1,DUNKS,2002
-Sean Marks,1752,Hook Shot,2PT Field Goal,1,0,POST_MOVES,2002
-Sean Marks,1752,Jump Shot,2PT Field Goal,7,0,JUMP_SHOTS,2002
-Sean Marks,1752,Layup Shot,2PT Field Goal,1,1,LAYUPS,2002
-Sean Marks,1752,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,2002
-Sean Marks,1752,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2002
-Sean Marks,1752,Jump Shot,2PT Field Goal,5,2,JUMP_SHOTS,2003
-Sean Marks,1752,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,2003
-Sean Marks,1752,Layup Shot,2PT Field Goal,1,1,LAYUPS,2003
-Sean Marks,1752,Tip Shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,2003
-Sean Marks,1752,Alley Oop Dunk Shot,2PT Field Goal,1,1,DUNKS,2005
-Sean Marks,1752,Dunk Shot,2PT Field Goal,1,0,DUNKS,2005
-Sean Marks,1752,Follow Up Dunk Shot,2PT Field Goal,1,1,DUNKS,2005
-Sean Marks,1752,Jump Shot,2PT Field Goal,6,1,JUMP_SHOTS,2005
-Sean Marks,1752,Layup Shot,2PT Field Goal,1,1,LAYUPS,2005
-Sean Marks,1752,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,2007
-Sean Marks,1752,Layup Shot,2PT Field Goal,1,0,LAYUPS,2007
-Sean Marks,1752,Dunk Shot,2PT Field Goal,3,3,DUNKS,2008
-Sean Marks,1752,Jump Shot,2PT Field Goal,16,6,JUMP_SHOTS,2008
-Sean Marks,1752,Dunk Shot,2PT Field Goal,1,1,DUNKS,2009
-Sean Marks,1752,Hook Shot,2PT Field Goal,1,1,POST_MOVES,2009
-Sean Marks,1752,Jump Shot,2PT Field Goal,6,1,JUMP_SHOTS,2009
-Sean Marks,1752,Layup Shot,2PT Field Goal,3,0,LAYUPS,2009
-Sean Marks,1752,Putback Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,2009
-Sean Marks,1752,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,2009
-Sean Marks,1752,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2009
-Sean Marks,1752,Dunk Shot,2PT Field Goal,1,1,DUNKS,2010
-Sean Marks,1752,Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,2010
-Sean Marks,1752,Layup Shot,2PT Field Goal,1,1,LAYUPS,2010
-Sean Marks,1752,Tip Shot,2PT Field Goal,2,1,SPECIALTY_SHOTS,2010
-Sean Marks,1752,Jump Shot,2PT Field Goal,27,11,JUMP_SHOTS,2011
-Sean Marks,1752,Jump Shot,3PT Field Goal,2,2,JUMP_SHOTS,2011
-Sean Marks,1752,Layup Shot,2PT Field Goal,5,2,LAYUPS,2011
-Sean Marks,1752,Putback Dunk Shot,2PT Field Goal,1,1,DUNKS,2011
-Sean Marks,1752,Reverse Layup Shot,2PT Field Goal,2,1,LAYUPS,2011
-Sean Marks,1752,Tip Shot,2PT Field Goal,2,0,SPECIALTY_SHOTS,2011
-Sean Marks,1752,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,2011
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Sean Marks,1752,Dunk Shot,2PT Field Goal,2,1,DUNKS,0.5,2002
+Sean Marks,1752,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2002
+Sean Marks,1752,Jump Shot,2PT Field Goal,7,0,JUMP_SHOTS,0.0,2002
+Sean Marks,1752,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2002
+Sean Marks,1752,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2002
+Sean Marks,1752,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2002
+Sean Marks,1752,Jump Shot,2PT Field Goal,5,2,JUMP_SHOTS,0.4,2003
+Sean Marks,1752,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2003
+Sean Marks,1752,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2003
+Sean Marks,1752,Tip Shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,1.0,2003
+Sean Marks,1752,Alley Oop Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2005
+Sean Marks,1752,Dunk Shot,2PT Field Goal,1,0,DUNKS,0.0,2005
+Sean Marks,1752,Follow Up Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2005
+Sean Marks,1752,Jump Shot,2PT Field Goal,6,1,JUMP_SHOTS,0.1666666666666666,2005
+Sean Marks,1752,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2005
+Sean Marks,1752,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2007
+Sean Marks,1752,Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2007
+Sean Marks,1752,Dunk Shot,2PT Field Goal,3,3,DUNKS,1.0,2008
+Sean Marks,1752,Jump Shot,2PT Field Goal,16,6,JUMP_SHOTS,0.375,2008
+Sean Marks,1752,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2009
+Sean Marks,1752,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2009
+Sean Marks,1752,Jump Shot,2PT Field Goal,6,1,JUMP_SHOTS,0.1666666666666666,2009
+Sean Marks,1752,Layup Shot,2PT Field Goal,3,0,LAYUPS,0.0,2009
+Sean Marks,1752,Putback Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2009
+Sean Marks,1752,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2009
+Sean Marks,1752,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2009
+Sean Marks,1752,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2010
+Sean Marks,1752,Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2010
+Sean Marks,1752,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2010
+Sean Marks,1752,Tip Shot,2PT Field Goal,2,1,SPECIALTY_SHOTS,0.5,2010
+Sean Marks,1752,Jump Shot,2PT Field Goal,27,11,JUMP_SHOTS,0.4074074074074074,2011
+Sean Marks,1752,Jump Shot,3PT Field Goal,2,2,JUMP_SHOTS,1.5,2011
+Sean Marks,1752,Layup Shot,2PT Field Goal,5,2,LAYUPS,0.4,2011
+Sean Marks,1752,Putback Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2011
+Sean Marks,1752,Reverse Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2011
+Sean Marks,1752,Tip Shot,2PT Field Goal,2,0,SPECIALTY_SHOTS,0.0,2011
+Sean Marks,1752,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2011

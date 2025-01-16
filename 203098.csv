@@ -1,5 +1,5 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-John Jenkins,203098,Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,2013
-John Jenkins,203098,Layup Shot,2PT Field Goal,1,0,LAYUPS,2013
-John Jenkins,203098,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,2015
-John Jenkins,203098,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,2015
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+John Jenkins,203098,Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2013
+John Jenkins,203098,Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2013
+John Jenkins,203098,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2015
+John Jenkins,203098,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2015

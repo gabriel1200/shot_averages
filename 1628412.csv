@@ -1,12 +1,12 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Frank Mason III,1628412,Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,2018
-Frank Mason III,1628412,Layup Shot,2PT Field Goal,1,0,LAYUPS,2018
-Frank Mason III,1628412,Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,2020
-Frank Mason III,1628412,Pullup Jump shot,2PT Field Goal,2,2,JUMP_SHOTS,2020
-Frank Mason III,1628412,Pullup Jump shot,3PT Field Goal,1,1,JUMP_SHOTS,2020
-Frank Mason III,1628412,Driving Layup Shot,2PT Field Goal,7,2,LAYUPS,2021
-Frank Mason III,1628412,Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,2021
-Frank Mason III,1628412,Layup Shot,2PT Field Goal,1,0,LAYUPS,2021
-Frank Mason III,1628412,Running Layup Shot,2PT Field Goal,2,2,LAYUPS,2021
-Frank Mason III,1628412,Step Back Jump shot,3PT Field Goal,1,0,JUMP_SHOTS,2021
-Frank Mason III,1628412,Turnaround Fadeaway shot,2PT Field Goal,1,0,JUMP_SHOTS,2021
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Frank Mason III,1628412,Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2018
+Frank Mason III,1628412,Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2018
+Frank Mason III,1628412,Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2020
+Frank Mason III,1628412,Pullup Jump shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,2020
+Frank Mason III,1628412,Pullup Jump shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2020
+Frank Mason III,1628412,Driving Layup Shot,2PT Field Goal,7,2,LAYUPS,0.2857142857142857,2021
+Frank Mason III,1628412,Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2021
+Frank Mason III,1628412,Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2021
+Frank Mason III,1628412,Running Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2021
+Frank Mason III,1628412,Step Back Jump shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2021
+Frank Mason III,1628412,Turnaround Fadeaway shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2021

@@ -1,41 +1,41 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Johnny Davis,1631098,Alley Oop Layup shot,2PT Field Goal,1,0,LAYUPS,2024
-Johnny Davis,1631098,Cutting Dunk Shot,2PT Field Goal,1,1,DUNKS,2024
-Johnny Davis,1631098,Cutting Layup Shot,2PT Field Goal,7,4,LAYUPS,2024
-Johnny Davis,1631098,Driving Dunk Shot,2PT Field Goal,2,2,DUNKS,2024
-Johnny Davis,1631098,Driving Finger Roll Layup Shot,2PT Field Goal,4,2,LAYUPS,2024
-Johnny Davis,1631098,Driving Floating Bank Jump Shot,2PT Field Goal,2,0,SPECIALTY_SHOTS,2024
-Johnny Davis,1631098,Driving Floating Jump Shot,2PT Field Goal,11,6,SPECIALTY_SHOTS,2024
-Johnny Davis,1631098,Driving Layup Shot,2PT Field Goal,4,3,LAYUPS,2024
-Johnny Davis,1631098,Driving Reverse Layup Shot,2PT Field Goal,3,1,LAYUPS,2024
-Johnny Davis,1631098,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,2024
-Johnny Davis,1631098,Floating Jump shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,2024
-Johnny Davis,1631098,Jump Shot,3PT Field Goal,15,5,JUMP_SHOTS,2024
-Johnny Davis,1631098,Layup Shot,2PT Field Goal,2,1,LAYUPS,2024
-Johnny Davis,1631098,Pullup Jump shot,2PT Field Goal,7,0,JUMP_SHOTS,2024
-Johnny Davis,1631098,Putback Layup Shot,2PT Field Goal,2,1,LAYUPS,2024
-Johnny Davis,1631098,Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,2024
-Johnny Davis,1631098,Running Dunk Shot,2PT Field Goal,1,1,DUNKS,2024
-Johnny Davis,1631098,Running Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,2024
-Johnny Davis,1631098,Running Layup Shot,2PT Field Goal,5,2,LAYUPS,2024
-Johnny Davis,1631098,Running Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,2024
-Johnny Davis,1631098,Tip Layup Shot,2PT Field Goal,4,2,LAYUPS,2024
-Johnny Davis,1631098,Turnaround Bank shot,2PT Field Goal,1,1,JUMP_SHOTS,2024
-Johnny Davis,1631098,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2024
-Johnny Davis,1631098,Cutting Dunk Shot,2PT Field Goal,2,2,DUNKS,2025
-Johnny Davis,1631098,Driving Bank Hook Shot,2PT Field Goal,1,1,POST_MOVES,2025
-Johnny Davis,1631098,Driving Finger Roll Layup Shot,2PT Field Goal,1,0,LAYUPS,2025
-Johnny Davis,1631098,Driving Floating Bank Jump Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,2025
-Johnny Davis,1631098,Driving Floating Jump Shot,2PT Field Goal,9,4,SPECIALTY_SHOTS,2025
-Johnny Davis,1631098,Driving Layup Shot,2PT Field Goal,2,1,LAYUPS,2025
-Johnny Davis,1631098,Jump Shot,3PT Field Goal,11,2,JUMP_SHOTS,2025
-Johnny Davis,1631098,Pullup Jump shot,2PT Field Goal,2,1,JUMP_SHOTS,2025
-Johnny Davis,1631098,Pullup Jump shot,3PT Field Goal,3,1,JUMP_SHOTS,2025
-Johnny Davis,1631098,Reverse Layup Shot,2PT Field Goal,2,2,LAYUPS,2025
-Johnny Davis,1631098,Running Dunk Shot,2PT Field Goal,3,2,DUNKS,2025
-Johnny Davis,1631098,Running Layup Shot,2PT Field Goal,2,1,LAYUPS,2025
-Johnny Davis,1631098,Step Back Jump shot,3PT Field Goal,3,1,JUMP_SHOTS,2025
-Johnny Davis,1631098,Tip Dunk Shot,2PT Field Goal,1,0,DUNKS,2025
-Johnny Davis,1631098,Tip Layup Shot,2PT Field Goal,1,0,LAYUPS,2025
-Johnny Davis,1631098,Turnaround Fadeaway shot,2PT Field Goal,1,0,JUMP_SHOTS,2025
-Johnny Davis,1631098,Turnaround Hook Shot,2PT Field Goal,1,0,POST_MOVES,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Johnny Davis,1631098,Alley Oop Layup shot,2PT Field Goal,1,0,LAYUPS,0.0,2024
+Johnny Davis,1631098,Cutting Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2024
+Johnny Davis,1631098,Cutting Layup Shot,2PT Field Goal,7,4,LAYUPS,0.5714285714285714,2024
+Johnny Davis,1631098,Driving Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2024
+Johnny Davis,1631098,Driving Finger Roll Layup Shot,2PT Field Goal,4,2,LAYUPS,0.5,2024
+Johnny Davis,1631098,Driving Floating Bank Jump Shot,2PT Field Goal,2,0,SPECIALTY_SHOTS,0.0,2024
+Johnny Davis,1631098,Driving Floating Jump Shot,2PT Field Goal,11,6,SPECIALTY_SHOTS,0.5454545454545454,2024
+Johnny Davis,1631098,Driving Layup Shot,2PT Field Goal,4,3,LAYUPS,0.75,2024
+Johnny Davis,1631098,Driving Reverse Layup Shot,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2024
+Johnny Davis,1631098,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2024
+Johnny Davis,1631098,Floating Jump shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,0.0,2024
+Johnny Davis,1631098,Jump Shot,3PT Field Goal,15,5,JUMP_SHOTS,0.5,2024
+Johnny Davis,1631098,Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2024
+Johnny Davis,1631098,Pullup Jump shot,2PT Field Goal,7,0,JUMP_SHOTS,0.0,2024
+Johnny Davis,1631098,Putback Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2024
+Johnny Davis,1631098,Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2024
+Johnny Davis,1631098,Running Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2024
+Johnny Davis,1631098,Running Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
+Johnny Davis,1631098,Running Layup Shot,2PT Field Goal,5,2,LAYUPS,0.4,2024
+Johnny Davis,1631098,Running Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2024
+Johnny Davis,1631098,Tip Layup Shot,2PT Field Goal,4,2,LAYUPS,0.5,2024
+Johnny Davis,1631098,Turnaround Bank shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2024
+Johnny Davis,1631098,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
+Johnny Davis,1631098,Cutting Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2025
+Johnny Davis,1631098,Driving Bank Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2025
+Johnny Davis,1631098,Driving Finger Roll Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2025
+Johnny Davis,1631098,Driving Floating Bank Jump Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,0.0,2025
+Johnny Davis,1631098,Driving Floating Jump Shot,2PT Field Goal,9,4,SPECIALTY_SHOTS,0.4444444444444444,2025
+Johnny Davis,1631098,Driving Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2025
+Johnny Davis,1631098,Jump Shot,3PT Field Goal,11,2,JUMP_SHOTS,0.2727272727272727,2025
+Johnny Davis,1631098,Pullup Jump shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2025
+Johnny Davis,1631098,Pullup Jump shot,3PT Field Goal,3,1,JUMP_SHOTS,0.5,2025
+Johnny Davis,1631098,Reverse Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2025
+Johnny Davis,1631098,Running Dunk Shot,2PT Field Goal,3,2,DUNKS,0.6666666666666666,2025
+Johnny Davis,1631098,Running Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2025
+Johnny Davis,1631098,Step Back Jump shot,3PT Field Goal,3,1,JUMP_SHOTS,0.5,2025
+Johnny Davis,1631098,Tip Dunk Shot,2PT Field Goal,1,0,DUNKS,0.0,2025
+Johnny Davis,1631098,Tip Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2025
+Johnny Davis,1631098,Turnaround Fadeaway shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
+Johnny Davis,1631098,Turnaround Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2025

@@ -1,32 +1,32 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Kelenna Azubuike,101235,Alley Oop Layup shot,2PT Field Goal,1,1,LAYUPS,2008
-Kelenna Azubuike,101235,Driving Dunk Shot,2PT Field Goal,1,0,DUNKS,2008
-Kelenna Azubuike,101235,Driving Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,2008
-Kelenna Azubuike,101235,Driving Layup Shot,2PT Field Goal,2,2,LAYUPS,2008
-Kelenna Azubuike,101235,Dunk Shot,2PT Field Goal,1,1,DUNKS,2008
-Kelenna Azubuike,101235,Jump Shot,2PT Field Goal,10,3,JUMP_SHOTS,2008
-Kelenna Azubuike,101235,Jump Shot,3PT Field Goal,8,3,JUMP_SHOTS,2008
-Kelenna Azubuike,101235,Layup Shot,2PT Field Goal,7,2,LAYUPS,2008
-Kelenna Azubuike,101235,Putback Layup Shot,2PT Field Goal,1,1,LAYUPS,2008
-Kelenna Azubuike,101235,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,2008
-Kelenna Azubuike,101235,Running Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,2008
-Kelenna Azubuike,101235,Tip Shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,2008
-Kelenna Azubuike,101235,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2008
-Kelenna Azubuike,101235,Driving Layup Shot,2PT Field Goal,5,2,LAYUPS,2009
-Kelenna Azubuike,101235,Driving Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,2009
-Kelenna Azubuike,101235,Hook Shot,2PT Field Goal,1,0,POST_MOVES,2009
-Kelenna Azubuike,101235,Jump Shot,2PT Field Goal,14,6,JUMP_SHOTS,2009
-Kelenna Azubuike,101235,Jump Shot,3PT Field Goal,7,2,JUMP_SHOTS,2009
-Kelenna Azubuike,101235,Layup Shot,2PT Field Goal,2,0,LAYUPS,2009
-Kelenna Azubuike,101235,Pullup Jump shot,2PT Field Goal,2,0,JUMP_SHOTS,2009
-Kelenna Azubuike,101235,Pullup Jump shot,3PT Field Goal,2,2,JUMP_SHOTS,2009
-Kelenna Azubuike,101235,Putback Layup Shot,2PT Field Goal,2,2,LAYUPS,2009
-Kelenna Azubuike,101235,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,2009
-Kelenna Azubuike,101235,Running Hook Shot,2PT Field Goal,1,1,POST_MOVES,2009
-Kelenna Azubuike,101235,Running Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,2009
-Kelenna Azubuike,101235,Step Back Jump shot,2PT Field Goal,1,1,JUMP_SHOTS,2009
-Kelenna Azubuike,101235,Dunk Shot,2PT Field Goal,1,1,DUNKS,2012
-Kelenna Azubuike,101235,Jump Bank Shot,2PT Field Goal,1,0,JUMP_SHOTS,2012
-Kelenna Azubuike,101235,Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,2012
-Kelenna Azubuike,101235,Layup Shot,2PT Field Goal,1,1,LAYUPS,2012
-Kelenna Azubuike,101235,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2012
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Kelenna Azubuike,101235,Alley Oop Layup shot,2PT Field Goal,1,1,LAYUPS,1.0,2008
+Kelenna Azubuike,101235,Driving Dunk Shot,2PT Field Goal,1,0,DUNKS,0.0,2008
+Kelenna Azubuike,101235,Driving Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2008
+Kelenna Azubuike,101235,Driving Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2008
+Kelenna Azubuike,101235,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2008
+Kelenna Azubuike,101235,Jump Shot,2PT Field Goal,10,3,JUMP_SHOTS,0.3,2008
+Kelenna Azubuike,101235,Jump Shot,3PT Field Goal,8,3,JUMP_SHOTS,0.5625,2008
+Kelenna Azubuike,101235,Layup Shot,2PT Field Goal,7,2,LAYUPS,0.2857142857142857,2008
+Kelenna Azubuike,101235,Putback Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2008
+Kelenna Azubuike,101235,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2008
+Kelenna Azubuike,101235,Running Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2008
+Kelenna Azubuike,101235,Tip Shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,1.0,2008
+Kelenna Azubuike,101235,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2008
+Kelenna Azubuike,101235,Driving Layup Shot,2PT Field Goal,5,2,LAYUPS,0.4,2009
+Kelenna Azubuike,101235,Driving Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2009
+Kelenna Azubuike,101235,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2009
+Kelenna Azubuike,101235,Jump Shot,2PT Field Goal,14,6,JUMP_SHOTS,0.4285714285714285,2009
+Kelenna Azubuike,101235,Jump Shot,3PT Field Goal,7,2,JUMP_SHOTS,0.4285714285714285,2009
+Kelenna Azubuike,101235,Layup Shot,2PT Field Goal,2,0,LAYUPS,0.0,2009
+Kelenna Azubuike,101235,Pullup Jump shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2009
+Kelenna Azubuike,101235,Pullup Jump shot,3PT Field Goal,2,2,JUMP_SHOTS,1.5,2009
+Kelenna Azubuike,101235,Putback Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2009
+Kelenna Azubuike,101235,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2009
+Kelenna Azubuike,101235,Running Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2009
+Kelenna Azubuike,101235,Running Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2009
+Kelenna Azubuike,101235,Step Back Jump shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2009
+Kelenna Azubuike,101235,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2012
+Kelenna Azubuike,101235,Jump Bank Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2012
+Kelenna Azubuike,101235,Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2012
+Kelenna Azubuike,101235,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2012
+Kelenna Azubuike,101235,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2012

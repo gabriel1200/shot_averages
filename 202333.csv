@@ -1,7 +1,7 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Xavier Henry,202333,Driving Layup Shot,2PT Field Goal,2,2,LAYUPS,2013
-Xavier Henry,202333,Jump Shot,2PT Field Goal,4,1,JUMP_SHOTS,2013
-Xavier Henry,202333,Layup Shot,2PT Field Goal,3,1,LAYUPS,2013
-Xavier Henry,202333,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,2013
-Xavier Henry,202333,Driving Layup Shot,2PT Field Goal,2,2,LAYUPS,2014
-Xavier Henry,202333,Jump Shot,3PT Field Goal,4,1,JUMP_SHOTS,2014
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Xavier Henry,202333,Driving Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2013
+Xavier Henry,202333,Jump Shot,2PT Field Goal,4,1,JUMP_SHOTS,0.25,2013
+Xavier Henry,202333,Layup Shot,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2013
+Xavier Henry,202333,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2013
+Xavier Henry,202333,Driving Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2014
+Xavier Henry,202333,Jump Shot,3PT Field Goal,4,1,JUMP_SHOTS,0.375,2014

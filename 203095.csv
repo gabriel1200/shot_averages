@@ -1,52 +1,52 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Evan Fournier,203095,Driving Layup Shot,2PT Field Goal,2,1,LAYUPS,2015
-Evan Fournier,203095,Floating Jump shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,2015
-Evan Fournier,203095,Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,2015
-Evan Fournier,203095,Jump Shot,3PT Field Goal,5,2,JUMP_SHOTS,2015
-Evan Fournier,203095,Layup Shot,2PT Field Goal,1,0,LAYUPS,2015
-Evan Fournier,203095,Pullup Jump shot,3PT Field Goal,1,1,JUMP_SHOTS,2015
-Evan Fournier,203095,Running Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,2015
-Evan Fournier,203095,Step Back Jump shot,2PT Field Goal,2,2,JUMP_SHOTS,2015
-Evan Fournier,203095,Driving Layup Shot,2PT Field Goal,6,2,LAYUPS,2016
-Evan Fournier,203095,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,2016
-Evan Fournier,203095,Floating Jump shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,2016
-Evan Fournier,203095,Jump Shot,2PT Field Goal,3,0,JUMP_SHOTS,2016
-Evan Fournier,203095,Jump Shot,3PT Field Goal,10,3,JUMP_SHOTS,2016
-Evan Fournier,203095,Layup Shot,2PT Field Goal,4,3,LAYUPS,2016
-Evan Fournier,203095,Pullup Jump shot,2PT Field Goal,3,3,JUMP_SHOTS,2016
-Evan Fournier,203095,Running Dunk Shot,2PT Field Goal,2,2,DUNKS,2016
-Evan Fournier,203095,Running Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,2016
-Evan Fournier,203095,Running Layup Shot,2PT Field Goal,1,1,LAYUPS,2016
-Evan Fournier,203095,Step Back Jump shot,3PT Field Goal,1,1,JUMP_SHOTS,2016
-Evan Fournier,203095,Driving Layup Shot,2PT Field Goal,2,1,LAYUPS,2018
-Evan Fournier,203095,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2018
-Evan Fournier,203095,Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,2018
-Evan Fournier,203095,Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,2018
-Evan Fournier,203095,Layup Shot,2PT Field Goal,1,1,LAYUPS,2018
-Evan Fournier,203095,Pullup Jump shot,3PT Field Goal,1,1,JUMP_SHOTS,2018
-Evan Fournier,203095,Running Layup Shot,2PT Field Goal,1,1,LAYUPS,2018
-Evan Fournier,203095,Step Back Bank Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,2018
-Evan Fournier,203095,Cutting Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,2024
-Evan Fournier,203095,Driving Floating Bank Jump Shot,2PT Field Goal,6,3,SPECIALTY_SHOTS,2024
-Evan Fournier,203095,Driving Floating Jump Shot,2PT Field Goal,31,18,SPECIALTY_SHOTS,2024
-Evan Fournier,203095,Driving Layup Shot,2PT Field Goal,9,3,LAYUPS,2024
-Evan Fournier,203095,Driving Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,2024
-Evan Fournier,203095,Fadeaway Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,2024
-Evan Fournier,203095,Fadeaway Jump Shot,3PT Field Goal,3,0,JUMP_SHOTS,2024
-Evan Fournier,203095,Floating Jump shot,2PT Field Goal,3,1,SPECIALTY_SHOTS,2024
-Evan Fournier,203095,Jump Bank Shot,2PT Field Goal,1,1,JUMP_SHOTS,2024
-Evan Fournier,203095,Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,2024
-Evan Fournier,203095,Jump Shot,3PT Field Goal,67,19,JUMP_SHOTS,2024
-Evan Fournier,203095,Layup Shot,2PT Field Goal,1,0,LAYUPS,2024
-Evan Fournier,203095,Pullup Jump shot,2PT Field Goal,7,4,JUMP_SHOTS,2024
-Evan Fournier,203095,Pullup Jump shot,3PT Field Goal,12,0,JUMP_SHOTS,2024
-Evan Fournier,203095,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,2024
-Evan Fournier,203095,Running Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,2024
-Evan Fournier,203095,Running Jump Shot,3PT Field Goal,6,4,JUMP_SHOTS,2024
-Evan Fournier,203095,Running Layup Shot,2PT Field Goal,3,1,LAYUPS,2024
-Evan Fournier,203095,Running Pull-Up Jump Shot,3PT Field Goal,3,3,JUMP_SHOTS,2024
-Evan Fournier,203095,Step Back Jump shot,2PT Field Goal,7,2,JUMP_SHOTS,2024
-Evan Fournier,203095,Step Back Jump shot,3PT Field Goal,16,3,JUMP_SHOTS,2024
-Evan Fournier,203095,Turnaround Fadeaway shot,2PT Field Goal,2,1,JUMP_SHOTS,2024
-Evan Fournier,203095,Turnaround Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,2024
-Evan Fournier,203095,Turnaround Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Evan Fournier,203095,Driving Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2015
+Evan Fournier,203095,Floating Jump shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,1.0,2015
+Evan Fournier,203095,Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2015
+Evan Fournier,203095,Jump Shot,3PT Field Goal,5,2,JUMP_SHOTS,0.6,2015
+Evan Fournier,203095,Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2015
+Evan Fournier,203095,Pullup Jump shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2015
+Evan Fournier,203095,Running Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,0.3333333333333333,2015
+Evan Fournier,203095,Step Back Jump shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,2015
+Evan Fournier,203095,Driving Layup Shot,2PT Field Goal,6,2,LAYUPS,0.3333333333333333,2016
+Evan Fournier,203095,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2016
+Evan Fournier,203095,Floating Jump shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,1.0,2016
+Evan Fournier,203095,Jump Shot,2PT Field Goal,3,0,JUMP_SHOTS,0.0,2016
+Evan Fournier,203095,Jump Shot,3PT Field Goal,10,3,JUMP_SHOTS,0.45,2016
+Evan Fournier,203095,Layup Shot,2PT Field Goal,4,3,LAYUPS,0.75,2016
+Evan Fournier,203095,Pullup Jump shot,2PT Field Goal,3,3,JUMP_SHOTS,1.0,2016
+Evan Fournier,203095,Running Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2016
+Evan Fournier,203095,Running Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2016
+Evan Fournier,203095,Running Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2016
+Evan Fournier,203095,Step Back Jump shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2016
+Evan Fournier,203095,Driving Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2018
+Evan Fournier,203095,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2018
+Evan Fournier,203095,Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,0.3333333333333333,2018
+Evan Fournier,203095,Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2018
+Evan Fournier,203095,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2018
+Evan Fournier,203095,Pullup Jump shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2018
+Evan Fournier,203095,Running Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2018
+Evan Fournier,203095,Step Back Bank Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2018
+Evan Fournier,203095,Cutting Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
+Evan Fournier,203095,Driving Floating Bank Jump Shot,2PT Field Goal,6,3,SPECIALTY_SHOTS,0.5,2024
+Evan Fournier,203095,Driving Floating Jump Shot,2PT Field Goal,31,18,SPECIALTY_SHOTS,0.5806451612903226,2024
+Evan Fournier,203095,Driving Layup Shot,2PT Field Goal,9,3,LAYUPS,0.3333333333333333,2024
+Evan Fournier,203095,Driving Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2024
+Evan Fournier,203095,Fadeaway Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2024
+Evan Fournier,203095,Fadeaway Jump Shot,3PT Field Goal,3,0,JUMP_SHOTS,0.0,2024
+Evan Fournier,203095,Floating Jump shot,2PT Field Goal,3,1,SPECIALTY_SHOTS,0.3333333333333333,2024
+Evan Fournier,203095,Jump Bank Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2024
+Evan Fournier,203095,Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,0.6666666666666666,2024
+Evan Fournier,203095,Jump Shot,3PT Field Goal,67,19,JUMP_SHOTS,0.4253731343283582,2024
+Evan Fournier,203095,Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2024
+Evan Fournier,203095,Pullup Jump shot,2PT Field Goal,7,4,JUMP_SHOTS,0.5714285714285714,2024
+Evan Fournier,203095,Pullup Jump shot,3PT Field Goal,12,0,JUMP_SHOTS,0.0,2024
+Evan Fournier,203095,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
+Evan Fournier,203095,Running Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
+Evan Fournier,203095,Running Jump Shot,3PT Field Goal,6,4,JUMP_SHOTS,1.0,2024
+Evan Fournier,203095,Running Layup Shot,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2024
+Evan Fournier,203095,Running Pull-Up Jump Shot,3PT Field Goal,3,3,JUMP_SHOTS,1.5,2024
+Evan Fournier,203095,Step Back Jump shot,2PT Field Goal,7,2,JUMP_SHOTS,0.2857142857142857,2024
+Evan Fournier,203095,Step Back Jump shot,3PT Field Goal,16,3,JUMP_SHOTS,0.28125,2024
+Evan Fournier,203095,Turnaround Fadeaway shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2024
+Evan Fournier,203095,Turnaround Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,2024
+Evan Fournier,203095,Turnaround Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2024

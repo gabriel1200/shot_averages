@@ -1,46 +1,46 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Yi Jianlian,201146,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,2008
-Yi Jianlian,201146,Dunk Shot,2PT Field Goal,6,2,DUNKS,2008
-Yi Jianlian,201146,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,2008
-Yi Jianlian,201146,Hook Shot,2PT Field Goal,1,0,POST_MOVES,2008
-Yi Jianlian,201146,Jump Shot,2PT Field Goal,33,14,JUMP_SHOTS,2008
-Yi Jianlian,201146,Jump Shot,3PT Field Goal,3,2,JUMP_SHOTS,2008
-Yi Jianlian,201146,Layup Shot,2PT Field Goal,10,3,LAYUPS,2008
-Yi Jianlian,201146,Tip Shot,2PT Field Goal,3,1,SPECIALTY_SHOTS,2008
-Yi Jianlian,201146,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2008
-Yi Jianlian,201146,Jump Shot,3PT Field Goal,3,0,JUMP_SHOTS,2009
-Yi Jianlian,201146,Layup Shot,2PT Field Goal,2,0,LAYUPS,2009
-Yi Jianlian,201146,Driving Dunk Shot,2PT Field Goal,2,2,DUNKS,2010
-Yi Jianlian,201146,Driving Hook Shot,2PT Field Goal,1,1,POST_MOVES,2010
-Yi Jianlian,201146,Driving Layup Shot,2PT Field Goal,4,1,LAYUPS,2010
-Yi Jianlian,201146,Dunk Shot,2PT Field Goal,2,2,DUNKS,2010
-Yi Jianlian,201146,Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,2010
-Yi Jianlian,201146,Hook Shot,2PT Field Goal,5,0,POST_MOVES,2010
-Yi Jianlian,201146,Jump Bank Shot,2PT Field Goal,1,1,JUMP_SHOTS,2010
-Yi Jianlian,201146,Jump Hook Shot,2PT Field Goal,2,0,POST_MOVES,2010
-Yi Jianlian,201146,Jump Shot,2PT Field Goal,45,15,JUMP_SHOTS,2010
-Yi Jianlian,201146,Jump Shot,3PT Field Goal,9,4,JUMP_SHOTS,2010
-Yi Jianlian,201146,Layup Shot,2PT Field Goal,10,3,LAYUPS,2010
-Yi Jianlian,201146,Putback Layup Shot,2PT Field Goal,1,0,LAYUPS,2010
-Yi Jianlian,201146,Running Hook Shot,2PT Field Goal,2,0,POST_MOVES,2010
-Yi Jianlian,201146,Running Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,2010
-Yi Jianlian,201146,Tip Shot,2PT Field Goal,2,1,SPECIALTY_SHOTS,2010
-Yi Jianlian,201146,Turnaround Fadeaway shot,2PT Field Goal,1,1,JUMP_SHOTS,2010
-Yi Jianlian,201146,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2010
-Yi Jianlian,201146,Alley Oop Dunk Shot,2PT Field Goal,1,1,DUNKS,2011
-Yi Jianlian,201146,Dunk Shot,2PT Field Goal,4,3,DUNKS,2011
-Yi Jianlian,201146,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,2011
-Yi Jianlian,201146,Hook Shot,2PT Field Goal,2,1,POST_MOVES,2011
-Yi Jianlian,201146,Jump Hook Shot,2PT Field Goal,1,0,POST_MOVES,2011
-Yi Jianlian,201146,Jump Shot,2PT Field Goal,53,22,JUMP_SHOTS,2011
-Yi Jianlian,201146,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,2011
-Yi Jianlian,201146,Layup Shot,2PT Field Goal,7,3,LAYUPS,2011
-Yi Jianlian,201146,Putback Layup Shot,2PT Field Goal,1,1,LAYUPS,2011
-Yi Jianlian,201146,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2011
-Yi Jianlian,201146,Tip Shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,2011
-Yi Jianlian,201146,Turnaround Fadeaway shot,2PT Field Goal,1,1,JUMP_SHOTS,2011
-Yi Jianlian,201146,Turnaround Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,2011
-Yi Jianlian,201146,Jump Shot,2PT Field Goal,5,1,JUMP_SHOTS,2012
-Yi Jianlian,201146,Jump Shot,3PT Field Goal,3,0,JUMP_SHOTS,2012
-Yi Jianlian,201146,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,2012
-Yi Jianlian,201146,Turnaround Fadeaway shot,2PT Field Goal,1,0,JUMP_SHOTS,2012
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Yi Jianlian,201146,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2008
+Yi Jianlian,201146,Dunk Shot,2PT Field Goal,6,2,DUNKS,0.3333333333333333,2008
+Yi Jianlian,201146,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2008
+Yi Jianlian,201146,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2008
+Yi Jianlian,201146,Jump Shot,2PT Field Goal,33,14,JUMP_SHOTS,0.4242424242424242,2008
+Yi Jianlian,201146,Jump Shot,3PT Field Goal,3,2,JUMP_SHOTS,1.0,2008
+Yi Jianlian,201146,Layup Shot,2PT Field Goal,10,3,LAYUPS,0.3,2008
+Yi Jianlian,201146,Tip Shot,2PT Field Goal,3,1,SPECIALTY_SHOTS,0.3333333333333333,2008
+Yi Jianlian,201146,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2008
+Yi Jianlian,201146,Jump Shot,3PT Field Goal,3,0,JUMP_SHOTS,0.0,2009
+Yi Jianlian,201146,Layup Shot,2PT Field Goal,2,0,LAYUPS,0.0,2009
+Yi Jianlian,201146,Driving Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2010
+Yi Jianlian,201146,Driving Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2010
+Yi Jianlian,201146,Driving Layup Shot,2PT Field Goal,4,1,LAYUPS,0.25,2010
+Yi Jianlian,201146,Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2010
+Yi Jianlian,201146,Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2010
+Yi Jianlian,201146,Hook Shot,2PT Field Goal,5,0,POST_MOVES,0.0,2010
+Yi Jianlian,201146,Jump Bank Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2010
+Yi Jianlian,201146,Jump Hook Shot,2PT Field Goal,2,0,POST_MOVES,0.0,2010
+Yi Jianlian,201146,Jump Shot,2PT Field Goal,45,15,JUMP_SHOTS,0.3333333333333333,2010
+Yi Jianlian,201146,Jump Shot,3PT Field Goal,9,4,JUMP_SHOTS,0.6666666666666666,2010
+Yi Jianlian,201146,Layup Shot,2PT Field Goal,10,3,LAYUPS,0.3,2010
+Yi Jianlian,201146,Putback Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2010
+Yi Jianlian,201146,Running Hook Shot,2PT Field Goal,2,0,POST_MOVES,0.0,2010
+Yi Jianlian,201146,Running Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2010
+Yi Jianlian,201146,Tip Shot,2PT Field Goal,2,1,SPECIALTY_SHOTS,0.5,2010
+Yi Jianlian,201146,Turnaround Fadeaway shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2010
+Yi Jianlian,201146,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2010
+Yi Jianlian,201146,Alley Oop Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2011
+Yi Jianlian,201146,Dunk Shot,2PT Field Goal,4,3,DUNKS,0.75,2011
+Yi Jianlian,201146,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2011
+Yi Jianlian,201146,Hook Shot,2PT Field Goal,2,1,POST_MOVES,0.5,2011
+Yi Jianlian,201146,Jump Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2011
+Yi Jianlian,201146,Jump Shot,2PT Field Goal,53,22,JUMP_SHOTS,0.4150943396226415,2011
+Yi Jianlian,201146,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2011
+Yi Jianlian,201146,Layup Shot,2PT Field Goal,7,3,LAYUPS,0.4285714285714285,2011
+Yi Jianlian,201146,Putback Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2011
+Yi Jianlian,201146,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2011
+Yi Jianlian,201146,Tip Shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,1.0,2011
+Yi Jianlian,201146,Turnaround Fadeaway shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2011
+Yi Jianlian,201146,Turnaround Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2011
+Yi Jianlian,201146,Jump Shot,2PT Field Goal,5,1,JUMP_SHOTS,0.2,2012
+Yi Jianlian,201146,Jump Shot,3PT Field Goal,3,0,JUMP_SHOTS,0.0,2012
+Yi Jianlian,201146,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2012
+Yi Jianlian,201146,Turnaround Fadeaway shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2012

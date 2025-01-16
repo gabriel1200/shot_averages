@@ -1,13 +1,13 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Charlie Bell,2294,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,2002
-Charlie Bell,2294,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,2002
-Charlie Bell,2294,Driving Layup Shot,2PT Field Goal,8,6,LAYUPS,2006
-Charlie Bell,2294,Jump Bank Shot,2PT Field Goal,1,0,JUMP_SHOTS,2006
-Charlie Bell,2294,Jump Shot,2PT Field Goal,17,7,JUMP_SHOTS,2006
-Charlie Bell,2294,Jump Shot,3PT Field Goal,16,9,JUMP_SHOTS,2006
-Charlie Bell,2294,Layup Shot,2PT Field Goal,9,3,LAYUPS,2006
-Charlie Bell,2294,Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,2006
-Charlie Bell,2294,Running Dunk Shot,2PT Field Goal,1,1,DUNKS,2006
-Charlie Bell,2294,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,2010
-Charlie Bell,2294,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,2010
-Charlie Bell,2294,Layup Shot,2PT Field Goal,2,0,LAYUPS,2010
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Charlie Bell,2294,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2002
+Charlie Bell,2294,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2002
+Charlie Bell,2294,Driving Layup Shot,2PT Field Goal,8,6,LAYUPS,0.75,2006
+Charlie Bell,2294,Jump Bank Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2006
+Charlie Bell,2294,Jump Shot,2PT Field Goal,17,7,JUMP_SHOTS,0.4117647058823529,2006
+Charlie Bell,2294,Jump Shot,3PT Field Goal,16,9,JUMP_SHOTS,0.84375,2006
+Charlie Bell,2294,Layup Shot,2PT Field Goal,9,3,LAYUPS,0.3333333333333333,2006
+Charlie Bell,2294,Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2006
+Charlie Bell,2294,Running Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2006
+Charlie Bell,2294,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2010
+Charlie Bell,2294,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2010
+Charlie Bell,2294,Layup Shot,2PT Field Goal,2,0,LAYUPS,0.0,2010

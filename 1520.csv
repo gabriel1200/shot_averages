@@ -1,13 +1,13 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,year
-Charles Smith,1520,Jump Shot,2PT Field Goal,4,2,JUMP_SHOTS,1998
-Charles Smith,1520,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,1998
-Charles Smith,1520,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,1999
-Charles Smith,1520,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,1999
-Charles Smith,1520,Layup Shot,2PT Field Goal,1,1,LAYUPS,1999
-Charles Smith,1520,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,2002
-Charles Smith,1520,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,2002
-Charles Smith,1520,Driving Layup Shot,2PT Field Goal,2,1,LAYUPS,2006
-Charles Smith,1520,Jump Shot,2PT Field Goal,9,5,JUMP_SHOTS,2006
-Charles Smith,1520,Jump Shot,3PT Field Goal,18,9,JUMP_SHOTS,2006
-Charles Smith,1520,Layup Shot,2PT Field Goal,3,2,LAYUPS,2006
-Charles Smith,1520,Running Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,2006
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Charles Smith,1520,Jump Shot,2PT Field Goal,4,2,JUMP_SHOTS,0.5,1998
+Charles Smith,1520,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,1998
+Charles Smith,1520,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,1999
+Charles Smith,1520,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,1999
+Charles Smith,1520,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,1999
+Charles Smith,1520,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2002
+Charles Smith,1520,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2002
+Charles Smith,1520,Driving Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2006
+Charles Smith,1520,Jump Shot,2PT Field Goal,9,5,JUMP_SHOTS,0.5555555555555556,2006
+Charles Smith,1520,Jump Shot,3PT Field Goal,18,9,JUMP_SHOTS,0.75,2006
+Charles Smith,1520,Layup Shot,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2006
+Charles Smith,1520,Running Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2006
