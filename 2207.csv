@@ -1,47 +1,47 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Joe Johnson,2207,Fadeaway Jump Shot,2PT Field Goal,1,1,FADEAWAY_JUMPERS,1.0,2002
-Joe Johnson,2207,Jump Shot,2PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2002
-Joe Johnson,2207,Jump Shot,3PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2002
-Joe Johnson,2207,Layup Shot,2PT Field Goal,1,1,STANDARD_LAYUPS,1.0,2002
-Joe Johnson,2207,Running Jump Shot,2PT Field Goal,1,1,MOVING_JUMPERS,1.0,2002
-Joe Johnson,2207,Slam Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2002
-Joe Johnson,2207,Turnaround Jump Shot,2PT Field Goal,1,1,TURNAROUND_JUMPERS,1.0,2002
-Joe Johnson,2207,Driving Layup Shot,2PT Field Goal,2,2,DRIVING_LAYUPS,1.0,2003
-Joe Johnson,2207,Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2003
-Joe Johnson,2207,Jump Shot,2PT Field Goal,25,3,STANDARD_JUMP_SHOTS,0.12,2003
-Joe Johnson,2207,Jump Shot,3PT Field Goal,12,4,STANDARD_JUMP_SHOTS,0.5,2003
-Joe Johnson,2207,Layup Shot,2PT Field Goal,3,1,STANDARD_LAYUPS,0.3333333333333333,2003
-Joe Johnson,2207,Running Jump Shot,2PT Field Goal,1,1,MOVING_JUMPERS,1.0,2003
-Joe Johnson,2207,Alley Oop Dunk Shot,2PT Field Goal,1,1,SPECIALTY_DUNKS,1.0,2004
-Joe Johnson,2207,Driving Layup Shot,2PT Field Goal,5,4,DRIVING_LAYUPS,0.8,2004
-Joe Johnson,2207,Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2004
-Joe Johnson,2207,Jump Shot,2PT Field Goal,43,17,STANDARD_JUMP_SHOTS,0.3953488372093023,2004
-Joe Johnson,2207,Jump Shot,3PT Field Goal,24,10,STANDARD_JUMP_SHOTS,0.625,2004
-Joe Johnson,2207,Layup Shot,2PT Field Goal,6,3,STANDARD_LAYUPS,0.5,2004
-Joe Johnson,2207,Reverse Layup Shot,2PT Field Goal,2,2,SPECIALTY_LAYUPS,1.0,2004
-Joe Johnson,2207,Running Jump Shot,2PT Field Goal,2,2,MOVING_JUMPERS,1.0,2004
-Joe Johnson,2207,Slam Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2004
-Joe Johnson,2207,Driving Layup Shot,2PT Field Goal,1,1,DRIVING_LAYUPS,1.0,2005
-Joe Johnson,2207,Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2005
-Joe Johnson,2207,Finger Roll Shot,2PT Field Goal,1,0,FINGER_ROLLS,0.0,2005
-Joe Johnson,2207,Jump Bank Shot,2PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2005
-Joe Johnson,2207,Jump Bank Shot,3PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2005
-Joe Johnson,2207,Jump Shot,2PT Field Goal,28,10,STANDARD_JUMP_SHOTS,0.3571428571428571,2005
-Joe Johnson,2207,Jump Shot,3PT Field Goal,32,13,STANDARD_JUMP_SHOTS,0.609375,2005
-Joe Johnson,2207,Layup Shot,2PT Field Goal,7,2,STANDARD_LAYUPS,0.2857142857142857,2005
-Joe Johnson,2207,Running Jump Shot,2PT Field Goal,6,6,MOVING_JUMPERS,1.0,2005
-Joe Johnson,2207,Layup Shot,2PT Field Goal,1,0,STANDARD_LAYUPS,0.0,2006
-Joe Johnson,2207,Jump Shot,2PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2007
-Joe Johnson,2207,Running Jump Shot,2PT Field Goal,1,0,MOVING_JUMPERS,0.0,2007
-Joe Johnson,2207,Driving Layup Shot,2PT Field Goal,2,1,DRIVING_LAYUPS,0.5,2009
-Joe Johnson,2207,Driving Reverse Layup Shot,2PT Field Goal,1,0,DRIVING_LAYUPS,0.0,2009
-Joe Johnson,2207,Fadeaway Jump Shot,2PT Field Goal,2,0,FADEAWAY_JUMPERS,0.0,2009
-Joe Johnson,2207,Jump Shot,2PT Field Goal,5,2,STANDARD_JUMP_SHOTS,0.4,2009
-Joe Johnson,2207,Jump Shot,3PT Field Goal,8,4,STANDARD_JUMP_SHOTS,0.75,2009
-Joe Johnson,2207,Layup Shot,2PT Field Goal,2,2,STANDARD_LAYUPS,1.0,2009
-Joe Johnson,2207,Running Jump Shot,2PT Field Goal,1,1,MOVING_JUMPERS,1.0,2009
-Joe Johnson,2207,Turnaround Jump Shot,2PT Field Goal,1,0,TURNAROUND_JUMPERS,0.0,2009
-Joe Johnson,2207,Driving Layup Shot,2PT Field Goal,1,1,DRIVING_LAYUPS,1.0,2012
-Joe Johnson,2207,Fadeaway Jump Shot,2PT Field Goal,1,0,FADEAWAY_JUMPERS,0.0,2012
-Joe Johnson,2207,Jump Shot,2PT Field Goal,3,0,STANDARD_JUMP_SHOTS,0.0,2012
-Joe Johnson,2207,Jump Shot,3PT Field Goal,4,1,STANDARD_JUMP_SHOTS,0.375,2012
+Joe Johnson,2207,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2002
+Joe Johnson,2207,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2002
+Joe Johnson,2207,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2002
+Joe Johnson,2207,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2002
+Joe Johnson,2207,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2002
+Joe Johnson,2207,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2002
+Joe Johnson,2207,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2002
+Joe Johnson,2207,Driving Layup,2PT Field Goal,2,2,LAYUPS,1.0,2003
+Joe Johnson,2207,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2003
+Joe Johnson,2207,Jump Shot,2PT Field Goal,25,3,JUMP_SHOTS,0.12,2003
+Joe Johnson,2207,Jump Shot,3PT Field Goal,12,4,JUMP_SHOTS,0.5,2003
+Joe Johnson,2207,Standard Layup,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2003
+Joe Johnson,2207,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2003
+Joe Johnson,2207,Alley Oop Dunk,2PT Field Goal,1,1,DUNKS,1.0,2004
+Joe Johnson,2207,Driving Layup,2PT Field Goal,5,4,LAYUPS,0.8,2004
+Joe Johnson,2207,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2004
+Joe Johnson,2207,Jump Shot,2PT Field Goal,43,17,JUMP_SHOTS,0.3953488372093023,2004
+Joe Johnson,2207,Jump Shot,3PT Field Goal,24,10,JUMP_SHOTS,0.625,2004
+Joe Johnson,2207,Standard Layup,2PT Field Goal,6,3,LAYUPS,0.5,2004
+Joe Johnson,2207,Reverse Layup,2PT Field Goal,2,2,LAYUPS,1.0,2004
+Joe Johnson,2207,Running Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,2004
+Joe Johnson,2207,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2004
+Joe Johnson,2207,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2005
+Joe Johnson,2207,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2005
+Joe Johnson,2207,Finger Roll,2PT Field Goal,1,0,LAYUPS,0.0,2005
+Joe Johnson,2207,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2005
+Joe Johnson,2207,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2005
+Joe Johnson,2207,Jump Shot,2PT Field Goal,28,10,JUMP_SHOTS,0.3571428571428571,2005
+Joe Johnson,2207,Jump Shot,3PT Field Goal,32,13,JUMP_SHOTS,0.609375,2005
+Joe Johnson,2207,Standard Layup,2PT Field Goal,7,2,LAYUPS,0.2857142857142857,2005
+Joe Johnson,2207,Running Jump Shot,2PT Field Goal,6,6,JUMP_SHOTS,1.0,2005
+Joe Johnson,2207,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2006
+Joe Johnson,2207,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2007
+Joe Johnson,2207,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2007
+Joe Johnson,2207,Driving Layup,2PT Field Goal,2,1,LAYUPS,0.5,2009
+Joe Johnson,2207,Driving Layup,2PT Field Goal,1,0,LAYUPS,0.0,2009
+Joe Johnson,2207,Fadeaway Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2009
+Joe Johnson,2207,Jump Shot,2PT Field Goal,5,2,JUMP_SHOTS,0.4,2009
+Joe Johnson,2207,Jump Shot,3PT Field Goal,8,4,JUMP_SHOTS,0.75,2009
+Joe Johnson,2207,Standard Layup,2PT Field Goal,2,2,LAYUPS,1.0,2009
+Joe Johnson,2207,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2009
+Joe Johnson,2207,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2009
+Joe Johnson,2207,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2012
+Joe Johnson,2207,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2012
+Joe Johnson,2207,Jump Shot,2PT Field Goal,3,0,JUMP_SHOTS,0.0,2012
+Joe Johnson,2207,Jump Shot,3PT Field Goal,4,1,JUMP_SHOTS,0.375,2012

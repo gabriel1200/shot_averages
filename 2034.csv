@@ -1,50 +1,50 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Mike Miller,2034,Driving Layup Shot,2PT Field Goal,2,1,DRIVING_LAYUPS,0.5,2001
-Mike Miller,2034,Hook Shot,2PT Field Goal,1,1,STANDARD_HOOKS,1.0,2001
-Mike Miller,2034,Jump Shot,2PT Field Goal,24,10,STANDARD_JUMP_SHOTS,0.4166666666666667,2001
-Mike Miller,2034,Jump Shot,3PT Field Goal,17,8,STANDARD_JUMP_SHOTS,0.7058823529411765,2001
-Mike Miller,2034,Layup Shot,2PT Field Goal,6,5,STANDARD_LAYUPS,0.8333333333333334,2001
-Mike Miller,2034,Running Hook Shot,2PT Field Goal,2,2,STANDARD_HOOKS,1.0,2001
-Mike Miller,2034,Running Jump Shot,2PT Field Goal,4,4,MOVING_JUMPERS,1.0,2001
+Mike Miller,2034,Driving Layup,2PT Field Goal,2,1,LAYUPS,0.5,2001
+Mike Miller,2034,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2001
+Mike Miller,2034,Jump Shot,2PT Field Goal,24,10,JUMP_SHOTS,0.4166666666666667,2001
+Mike Miller,2034,Jump Shot,3PT Field Goal,17,8,JUMP_SHOTS,0.7058823529411765,2001
+Mike Miller,2034,Standard Layup,2PT Field Goal,6,5,LAYUPS,0.8333333333333334,2001
+Mike Miller,2034,Running Hook Shot,2PT Field Goal,2,2,POST_MOVES,1.0,2001
+Mike Miller,2034,Running Jump Shot,2PT Field Goal,4,4,JUMP_SHOTS,1.0,2001
 Mike Miller,2034,Tip Shot,2PT Field Goal,1,0,TIP_SHOTS,0.0,2001
-Mike Miller,2034,Driving Layup Shot,2PT Field Goal,1,1,DRIVING_LAYUPS,1.0,2002
-Mike Miller,2034,Jump Shot,2PT Field Goal,4,1,STANDARD_JUMP_SHOTS,0.25,2002
-Mike Miller,2034,Jump Shot,3PT Field Goal,4,1,STANDARD_JUMP_SHOTS,0.375,2002
-Mike Miller,2034,Layup Shot,2PT Field Goal,2,2,STANDARD_LAYUPS,1.0,2002
-Mike Miller,2034,Turnaround Jump Shot,2PT Field Goal,2,1,TURNAROUND_JUMPERS,0.5,2002
-Mike Miller,2034,Driving Layup Shot,2PT Field Goal,4,4,DRIVING_LAYUPS,1.0,2003
-Mike Miller,2034,Finger Roll Shot,2PT Field Goal,1,1,FINGER_ROLLS,1.0,2003
-Mike Miller,2034,Hook Shot,2PT Field Goal,1,0,STANDARD_HOOKS,0.0,2003
-Mike Miller,2034,Jump Shot,2PT Field Goal,16,5,STANDARD_JUMP_SHOTS,0.3125,2003
-Mike Miller,2034,Jump Shot,3PT Field Goal,10,1,STANDARD_JUMP_SHOTS,0.15,2003
-Mike Miller,2034,Layup Shot,2PT Field Goal,4,2,STANDARD_LAYUPS,0.5,2003
+Mike Miller,2034,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2002
+Mike Miller,2034,Jump Shot,2PT Field Goal,4,1,JUMP_SHOTS,0.25,2002
+Mike Miller,2034,Jump Shot,3PT Field Goal,4,1,JUMP_SHOTS,0.375,2002
+Mike Miller,2034,Standard Layup,2PT Field Goal,2,2,LAYUPS,1.0,2002
+Mike Miller,2034,Turnaround Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2002
+Mike Miller,2034,Driving Layup,2PT Field Goal,4,4,LAYUPS,1.0,2003
+Mike Miller,2034,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2003
+Mike Miller,2034,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2003
+Mike Miller,2034,Jump Shot,2PT Field Goal,16,5,JUMP_SHOTS,0.3125,2003
+Mike Miller,2034,Jump Shot,3PT Field Goal,10,1,JUMP_SHOTS,0.15,2003
+Mike Miller,2034,Standard Layup,2PT Field Goal,4,2,LAYUPS,0.5,2003
 Mike Miller,2034,Tip Shot,2PT Field Goal,1,0,TIP_SHOTS,0.0,2003
-Mike Miller,2034,Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2004
-Mike Miller,2034,Jump Shot,2PT Field Goal,6,2,STANDARD_JUMP_SHOTS,0.3333333333333333,2004
-Mike Miller,2034,Jump Shot,3PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2004
-Mike Miller,2034,Layup Shot,2PT Field Goal,2,0,STANDARD_LAYUPS,0.0,2004
-Mike Miller,2034,Driving Layup Shot,2PT Field Goal,2,1,DRIVING_LAYUPS,0.5,2005
-Mike Miller,2034,Jump Shot,2PT Field Goal,25,8,STANDARD_JUMP_SHOTS,0.32,2005
-Mike Miller,2034,Jump Shot,3PT Field Goal,26,18,STANDARD_JUMP_SHOTS,1.0384615384615383,2005
-Mike Miller,2034,Layup Shot,2PT Field Goal,2,1,STANDARD_LAYUPS,0.5,2005
-Mike Miller,2034,Running Layup Shot,2PT Field Goal,1,1,STANDARD_LAYUPS,1.0,2005
-Mike Miller,2034,Slam Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2005
-Mike Miller,2034,Driving Dunk Shot,2PT Field Goal,1,1,DRIVING_DUNKS,1.0,2006
-Mike Miller,2034,Driving Layup Shot,2PT Field Goal,4,2,DRIVING_LAYUPS,0.5,2006
-Mike Miller,2034,Dunk Shot,2PT Field Goal,1,0,BASIC_DUNKS,0.0,2006
-Mike Miller,2034,Jump Shot,2PT Field Goal,19,7,STANDARD_JUMP_SHOTS,0.3684210526315789,2006
-Mike Miller,2034,Jump Shot,3PT Field Goal,24,7,STANDARD_JUMP_SHOTS,0.4375,2006
-Mike Miller,2034,Layup Shot,2PT Field Goal,8,6,STANDARD_LAYUPS,0.75,2006
-Mike Miller,2034,Reverse Layup Shot,2PT Field Goal,1,1,SPECIALTY_LAYUPS,1.0,2006
-Mike Miller,2034,Running Layup Shot,2PT Field Goal,1,1,STANDARD_LAYUPS,1.0,2006
+Mike Miller,2034,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2004
+Mike Miller,2034,Jump Shot,2PT Field Goal,6,2,JUMP_SHOTS,0.3333333333333333,2004
+Mike Miller,2034,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2004
+Mike Miller,2034,Standard Layup,2PT Field Goal,2,0,LAYUPS,0.0,2004
+Mike Miller,2034,Driving Layup,2PT Field Goal,2,1,LAYUPS,0.5,2005
+Mike Miller,2034,Jump Shot,2PT Field Goal,25,8,JUMP_SHOTS,0.32,2005
+Mike Miller,2034,Jump Shot,3PT Field Goal,26,18,JUMP_SHOTS,1.0384615384615383,2005
+Mike Miller,2034,Standard Layup,2PT Field Goal,2,1,LAYUPS,0.5,2005
+Mike Miller,2034,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2005
+Mike Miller,2034,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2005
+Mike Miller,2034,Driving Dunk,2PT Field Goal,1,1,DUNKS,1.0,2006
+Mike Miller,2034,Driving Layup,2PT Field Goal,4,2,LAYUPS,0.5,2006
+Mike Miller,2034,Standard Dunk,2PT Field Goal,1,0,DUNKS,0.0,2006
+Mike Miller,2034,Jump Shot,2PT Field Goal,19,7,JUMP_SHOTS,0.3684210526315789,2006
+Mike Miller,2034,Jump Shot,3PT Field Goal,24,7,JUMP_SHOTS,0.4375,2006
+Mike Miller,2034,Standard Layup,2PT Field Goal,8,6,LAYUPS,0.75,2006
+Mike Miller,2034,Reverse Layup,2PT Field Goal,1,1,LAYUPS,1.0,2006
+Mike Miller,2034,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2006
 Mike Miller,2034,Tip Shot,2PT Field Goal,1,1,TIP_SHOTS,1.0,2006
-Mike Miller,2034,Driving Layup Shot,2PT Field Goal,1,1,DRIVING_LAYUPS,1.0,2007
-Mike Miller,2034,Layup Shot,2PT Field Goal,2,1,STANDARD_LAYUPS,0.5,2007
-Mike Miller,2034,Jump Shot,2PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2008
-Mike Miller,2034,Jump Shot,2PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2011
-Mike Miller,2034,Jump Shot,3PT Field Goal,8,3,STANDARD_JUMP_SHOTS,0.5625,2011
-Mike Miller,2034,Jump Shot,2PT Field Goal,2,1,STANDARD_JUMP_SHOTS,0.5,2012
-Mike Miller,2034,Jump Shot,3PT Field Goal,3,2,STANDARD_JUMP_SHOTS,1.0,2012
-Mike Miller,2034,Jump Shot,3PT Field Goal,2,0,STANDARD_JUMP_SHOTS,0.0,2013
-Mike Miller,2034,Reverse Layup Shot,2PT Field Goal,1,0,SPECIALTY_LAYUPS,0.0,2013
-Mike Miller,2034,Jump Shot,3PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2015
+Mike Miller,2034,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2007
+Mike Miller,2034,Standard Layup,2PT Field Goal,2,1,LAYUPS,0.5,2007
+Mike Miller,2034,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2008
+Mike Miller,2034,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2011
+Mike Miller,2034,Jump Shot,3PT Field Goal,8,3,JUMP_SHOTS,0.5625,2011
+Mike Miller,2034,Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2012
+Mike Miller,2034,Jump Shot,3PT Field Goal,3,2,JUMP_SHOTS,1.0,2012
+Mike Miller,2034,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,2013
+Mike Miller,2034,Reverse Layup,2PT Field Goal,1,0,LAYUPS,0.0,2013
+Mike Miller,2034,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2015

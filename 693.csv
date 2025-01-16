@@ -1,12 +1,12 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Joe Smith,693,Dunk Shot,2PT Field Goal,1,0,BASIC_DUNKS,0.0,1997
-Joe Smith,693,Hook Shot,2PT Field Goal,2,1,STANDARD_HOOKS,0.5,1997
-Joe Smith,693,Jump Shot,2PT Field Goal,30,10,STANDARD_JUMP_SHOTS,0.3333333333333333,1997
-Joe Smith,693,Jump Shot,3PT Field Goal,2,0,STANDARD_JUMP_SHOTS,0.0,1997
-Joe Smith,693,Layup Shot,2PT Field Goal,7,1,STANDARD_LAYUPS,0.1428571428571428,1997
-Joe Smith,693,Slam Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,1997
-Joe Smith,693,Driving Layup Shot,2PT Field Goal,1,1,DRIVING_LAYUPS,1.0,1998
-Joe Smith,693,Hook Shot,2PT Field Goal,1,0,STANDARD_HOOKS,0.0,1998
-Joe Smith,693,Jump Shot,2PT Field Goal,10,1,STANDARD_JUMP_SHOTS,0.1,1998
-Joe Smith,693,Layup Shot,2PT Field Goal,2,0,STANDARD_LAYUPS,0.0,1998
-Joe Smith,693,Slam Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,1998
+Joe Smith,693,Standard Dunk,2PT Field Goal,1,0,DUNKS,0.0,1997
+Joe Smith,693,Hook Shot,2PT Field Goal,2,1,POST_MOVES,0.5,1997
+Joe Smith,693,Jump Shot,2PT Field Goal,30,10,JUMP_SHOTS,0.3333333333333333,1997
+Joe Smith,693,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,1997
+Joe Smith,693,Standard Layup,2PT Field Goal,7,1,LAYUPS,0.1428571428571428,1997
+Joe Smith,693,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,1997
+Joe Smith,693,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,1998
+Joe Smith,693,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,1998
+Joe Smith,693,Jump Shot,2PT Field Goal,10,1,JUMP_SHOTS,0.1,1998
+Joe Smith,693,Standard Layup,2PT Field Goal,2,0,LAYUPS,0.0,1998
+Joe Smith,693,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,1998

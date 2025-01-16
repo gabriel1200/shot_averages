@@ -1,37 +1,37 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Tre Jones,1630200,Floating Jump shot,2PT Field Goal,2,2,FLOATING_SHOTS,1.0,2023
-Tre Jones,1630200,Pullup Jump shot,2PT Field Goal,2,1,STANDARD_JUMP_SHOTS,0.5,2023
-Tre Jones,1630200,Cutting Finger Roll Layup Shot,2PT Field Goal,2,2,FINGER_ROLLS,1.0,2024
-Tre Jones,1630200,Cutting Layup Shot,2PT Field Goal,5,5,STANDARD_LAYUPS,1.0,2024
-Tre Jones,1630200,Driving Finger Roll Layup Shot,2PT Field Goal,30,23,FINGER_ROLLS,0.7666666666666667,2024
-Tre Jones,1630200,Driving Floating Bank Jump Shot,2PT Field Goal,8,4,FLOATING_SHOTS,0.5,2024
-Tre Jones,1630200,Driving Floating Jump Shot,2PT Field Goal,34,15,FLOATING_SHOTS,0.4411764705882353,2024
-Tre Jones,1630200,Driving Layup Shot,2PT Field Goal,29,14,DRIVING_LAYUPS,0.4827586206896552,2024
-Tre Jones,1630200,Driving Reverse Layup Shot,2PT Field Goal,8,5,DRIVING_LAYUPS,0.625,2024
-Tre Jones,1630200,Fadeaway Jump Shot,2PT Field Goal,1,0,FADEAWAY_JUMPERS,0.0,2024
-Tre Jones,1630200,Floating Jump shot,2PT Field Goal,8,3,FLOATING_SHOTS,0.375,2024
-Tre Jones,1630200,Jump Shot,2PT Field Goal,1,1,STANDARD_JUMP_SHOTS,1.0,2024
-Tre Jones,1630200,Jump Shot,3PT Field Goal,49,14,STANDARD_JUMP_SHOTS,0.4285714285714285,2024
-Tre Jones,1630200,Layup Shot,2PT Field Goal,1,1,STANDARD_LAYUPS,1.0,2024
-Tre Jones,1630200,Pullup Jump shot,2PT Field Goal,11,4,STANDARD_JUMP_SHOTS,0.3636363636363636,2024
-Tre Jones,1630200,Pullup Jump shot,3PT Field Goal,11,1,STANDARD_JUMP_SHOTS,0.1363636363636363,2024
-Tre Jones,1630200,Putback Layup Shot,2PT Field Goal,3,2,SPECIALTY_LAYUPS,0.6666666666666666,2024
-Tre Jones,1630200,Reverse Layup Shot,2PT Field Goal,5,5,SPECIALTY_LAYUPS,1.0,2024
-Tre Jones,1630200,Running Finger Roll Layup Shot,2PT Field Goal,7,7,FINGER_ROLLS,1.0,2024
-Tre Jones,1630200,Running Jump Shot,3PT Field Goal,11,4,MOVING_JUMPERS,0.5454545454545454,2024
-Tre Jones,1630200,Running Layup Shot,2PT Field Goal,13,10,STANDARD_LAYUPS,0.7692307692307693,2024
-Tre Jones,1630200,Running Pull-Up Jump Shot,2PT Field Goal,2,2,MOVING_JUMPERS,1.0,2024
-Tre Jones,1630200,Running Reverse Layup Shot,2PT Field Goal,2,2,SPECIALTY_LAYUPS,1.0,2024
-Tre Jones,1630200,Step Back Jump shot,3PT Field Goal,1,0,STEP_BACK_JUMPERS,0.0,2024
-Tre Jones,1630200,Tip Layup Shot,2PT Field Goal,5,3,SPECIALTY_LAYUPS,0.6,2024
-Tre Jones,1630200,Turnaround Jump Shot,2PT Field Goal,1,0,TURNAROUND_JUMPERS,0.0,2024
-Tre Jones,1630200,Cutting Layup Shot,2PT Field Goal,2,2,STANDARD_LAYUPS,1.0,2025
-Tre Jones,1630200,Driving Bank Hook Shot,2PT Field Goal,1,0,BANK_HOOKS,0.0,2025
-Tre Jones,1630200,Driving Finger Roll Layup Shot,2PT Field Goal,3,2,FINGER_ROLLS,0.6666666666666666,2025
-Tre Jones,1630200,Driving Layup Shot,2PT Field Goal,4,1,DRIVING_LAYUPS,0.25,2025
-Tre Jones,1630200,Jump Shot,3PT Field Goal,4,1,STANDARD_JUMP_SHOTS,0.375,2025
-Tre Jones,1630200,Layup Shot,2PT Field Goal,2,1,STANDARD_LAYUPS,0.5,2025
-Tre Jones,1630200,Pullup Jump shot,3PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2025
-Tre Jones,1630200,Reverse Layup Shot,2PT Field Goal,1,1,SPECIALTY_LAYUPS,1.0,2025
-Tre Jones,1630200,Running Finger Roll Layup Shot,2PT Field Goal,1,1,FINGER_ROLLS,1.0,2025
-Tre Jones,1630200,Running Layup Shot,2PT Field Goal,5,4,STANDARD_LAYUPS,0.8,2025
+Tre Jones,1630200,Floating Jump Shot,2PT Field Goal,2,2,FLOATING_SHOTS,1.0,2023
+Tre Jones,1630200,Pullup Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2023
+Tre Jones,1630200,Finger Roll,2PT Field Goal,2,2,LAYUPS,1.0,2024
+Tre Jones,1630200,Standard Layup,2PT Field Goal,5,5,LAYUPS,1.0,2024
+Tre Jones,1630200,Finger Roll,2PT Field Goal,30,23,LAYUPS,0.7666666666666667,2024
+Tre Jones,1630200,Floating Jump Shot,2PT Field Goal,8,4,FLOATING_SHOTS,0.5,2024
+Tre Jones,1630200,Floating Jump Shot,2PT Field Goal,34,15,FLOATING_SHOTS,0.4411764705882353,2024
+Tre Jones,1630200,Driving Layup,2PT Field Goal,29,14,LAYUPS,0.4827586206896552,2024
+Tre Jones,1630200,Driving Layup,2PT Field Goal,8,5,LAYUPS,0.625,2024
+Tre Jones,1630200,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
+Tre Jones,1630200,Floating Jump Shot,2PT Field Goal,8,3,FLOATING_SHOTS,0.375,2024
+Tre Jones,1630200,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2024
+Tre Jones,1630200,Jump Shot,3PT Field Goal,49,14,JUMP_SHOTS,0.4285714285714285,2024
+Tre Jones,1630200,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
+Tre Jones,1630200,Pullup Jump Shot,2PT Field Goal,11,4,JUMP_SHOTS,0.3636363636363636,2024
+Tre Jones,1630200,Pullup Jump Shot,3PT Field Goal,11,1,JUMP_SHOTS,0.1363636363636363,2024
+Tre Jones,1630200,Putback Layup,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2024
+Tre Jones,1630200,Reverse Layup,2PT Field Goal,5,5,LAYUPS,1.0,2024
+Tre Jones,1630200,Finger Roll,2PT Field Goal,7,7,LAYUPS,1.0,2024
+Tre Jones,1630200,Running Jump Shot,3PT Field Goal,11,4,JUMP_SHOTS,0.5454545454545454,2024
+Tre Jones,1630200,Standard Layup,2PT Field Goal,13,10,LAYUPS,0.7692307692307693,2024
+Tre Jones,1630200,Running Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,2024
+Tre Jones,1630200,Reverse Layup,2PT Field Goal,2,2,LAYUPS,1.0,2024
+Tre Jones,1630200,Step Back Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
+Tre Jones,1630200,Putback Layup,2PT Field Goal,5,3,LAYUPS,0.6,2024
+Tre Jones,1630200,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
+Tre Jones,1630200,Standard Layup,2PT Field Goal,2,2,LAYUPS,1.0,2025
+Tre Jones,1630200,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2025
+Tre Jones,1630200,Finger Roll,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2025
+Tre Jones,1630200,Driving Layup,2PT Field Goal,4,1,LAYUPS,0.25,2025
+Tre Jones,1630200,Jump Shot,3PT Field Goal,4,1,JUMP_SHOTS,0.375,2025
+Tre Jones,1630200,Standard Layup,2PT Field Goal,2,1,LAYUPS,0.5,2025
+Tre Jones,1630200,Pullup Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
+Tre Jones,1630200,Reverse Layup,2PT Field Goal,1,1,LAYUPS,1.0,2025
+Tre Jones,1630200,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2025
+Tre Jones,1630200,Standard Layup,2PT Field Goal,5,4,LAYUPS,0.8,2025

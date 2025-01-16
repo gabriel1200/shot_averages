@@ -1,14 +1,14 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Tim Legler,100,Jump Shot,2PT Field Goal,2,2,STANDARD_JUMP_SHOTS,1.0,1997
-Tim Legler,100,Jump Shot,3PT Field Goal,14,4,STANDARD_JUMP_SHOTS,0.4285714285714285,1997
-Tim Legler,100,Layup Shot,2PT Field Goal,1,1,STANDARD_LAYUPS,1.0,1997
-Tim Legler,100,Running Jump Shot,2PT Field Goal,1,1,MOVING_JUMPERS,1.0,1997
-Tim Legler,100,Jump Shot,2PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,1998
-Tim Legler,100,Driving Layup Shot,2PT Field Goal,4,2,DRIVING_LAYUPS,0.5,1999
-Tim Legler,100,Hook Shot,2PT Field Goal,1,1,STANDARD_HOOKS,1.0,1999
-Tim Legler,100,Jump Shot,2PT Field Goal,24,11,STANDARD_JUMP_SHOTS,0.4583333333333333,1999
-Tim Legler,100,Jump Shot,3PT Field Goal,22,9,STANDARD_JUMP_SHOTS,0.6136363636363636,1999
-Tim Legler,100,Layup Shot,2PT Field Goal,9,5,STANDARD_LAYUPS,0.5555555555555556,1999
-Tim Legler,100,Jump Shot,2PT Field Goal,6,0,STANDARD_JUMP_SHOTS,0.0,2000
-Tim Legler,100,Jump Shot,3PT Field Goal,2,0,STANDARD_JUMP_SHOTS,0.0,2000
-Tim Legler,100,Running Jump Shot,2PT Field Goal,1,1,MOVING_JUMPERS,1.0,2000
+Tim Legler,100,Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,1997
+Tim Legler,100,Jump Shot,3PT Field Goal,14,4,JUMP_SHOTS,0.4285714285714285,1997
+Tim Legler,100,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,1997
+Tim Legler,100,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,1997
+Tim Legler,100,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,1998
+Tim Legler,100,Driving Layup,2PT Field Goal,4,2,LAYUPS,0.5,1999
+Tim Legler,100,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,1999
+Tim Legler,100,Jump Shot,2PT Field Goal,24,11,JUMP_SHOTS,0.4583333333333333,1999
+Tim Legler,100,Jump Shot,3PT Field Goal,22,9,JUMP_SHOTS,0.6136363636363636,1999
+Tim Legler,100,Standard Layup,2PT Field Goal,9,5,LAYUPS,0.5555555555555556,1999
+Tim Legler,100,Jump Shot,2PT Field Goal,6,0,JUMP_SHOTS,0.0,2000
+Tim Legler,100,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,2000
+Tim Legler,100,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2000

@@ -1,68 +1,68 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Glen Davis,201175,Jump Shot,2PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2008
-Glen Davis,201175,Layup Shot,2PT Field Goal,1,1,STANDARD_LAYUPS,1.0,2008
-Glen Davis,201175,Putback Layup Shot,2PT Field Goal,1,1,SPECIALTY_LAYUPS,1.0,2008
-Glen Davis,201175,Putback Slam Dunk Shot,2PT Field Goal,1,1,SPECIALTY_DUNKS,1.0,2008
-Glen Davis,201175,Reverse Layup Shot,2PT Field Goal,1,1,SPECIALTY_LAYUPS,1.0,2008
-Glen Davis,201175,Jump Shot,2PT Field Goal,5,2,STANDARD_JUMP_SHOTS,0.4,2009
-Glen Davis,201175,Jump Shot,3PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2009
-Glen Davis,201175,Layup Shot,2PT Field Goal,1,0,STANDARD_LAYUPS,0.0,2009
-Glen Davis,201175,Slam Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2009
-Glen Davis,201175,Alley Oop Layup shot,2PT Field Goal,1,0,SPECIALTY_LAYUPS,0.0,2010
-Glen Davis,201175,Driving Hook Shot,2PT Field Goal,1,1,SPECIALTY_HOOKS,1.0,2010
-Glen Davis,201175,Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2010
-Glen Davis,201175,Fadeaway Jump Shot,2PT Field Goal,2,0,FADEAWAY_JUMPERS,0.0,2010
-Glen Davis,201175,Jump Hook Shot,2PT Field Goal,1,0,STANDARD_HOOKS,0.0,2010
-Glen Davis,201175,Jump Shot,2PT Field Goal,10,2,STANDARD_JUMP_SHOTS,0.2,2010
-Glen Davis,201175,Layup Shot,2PT Field Goal,15,8,STANDARD_LAYUPS,0.5333333333333333,2010
-Glen Davis,201175,Reverse Layup Shot,2PT Field Goal,1,1,SPECIALTY_LAYUPS,1.0,2010
-Glen Davis,201175,Turnaround Fadeaway shot,2PT Field Goal,1,1,FADEAWAY_JUMPERS,1.0,2010
-Glen Davis,201175,Turnaround Jump Shot,2PT Field Goal,1,0,TURNAROUND_JUMPERS,0.0,2010
-Glen Davis,201175,Driving Layup Shot,2PT Field Goal,1,1,DRIVING_LAYUPS,1.0,2011
-Glen Davis,201175,Hook Bank Shot,2PT Field Goal,1,0,BANK_HOOKS,0.0,2011
-Glen Davis,201175,Hook Shot,2PT Field Goal,1,1,STANDARD_HOOKS,1.0,2011
-Glen Davis,201175,Jump Shot,2PT Field Goal,9,5,STANDARD_JUMP_SHOTS,0.5555555555555556,2011
-Glen Davis,201175,Turnaround Fadeaway shot,2PT Field Goal,4,3,FADEAWAY_JUMPERS,0.75,2011
-Glen Davis,201175,Turnaround Jump Shot,2PT Field Goal,1,0,TURNAROUND_JUMPERS,0.0,2011
-Glen Davis,201175,Alley Oop Dunk Shot,2PT Field Goal,1,1,SPECIALTY_DUNKS,1.0,2012
-Glen Davis,201175,Driving Dunk Shot,2PT Field Goal,1,0,DRIVING_DUNKS,0.0,2012
-Glen Davis,201175,Driving Layup Shot,2PT Field Goal,3,2,DRIVING_LAYUPS,0.6666666666666666,2012
-Glen Davis,201175,Driving Reverse Layup Shot,2PT Field Goal,1,1,DRIVING_LAYUPS,1.0,2012
-Glen Davis,201175,Fadeaway Jump Shot,2PT Field Goal,4,3,FADEAWAY_JUMPERS,0.75,2012
-Glen Davis,201175,Hook Shot,2PT Field Goal,1,0,STANDARD_HOOKS,0.0,2012
-Glen Davis,201175,Jump Hook Shot,2PT Field Goal,1,0,STANDARD_HOOKS,0.0,2012
-Glen Davis,201175,Jump Shot,2PT Field Goal,43,13,STANDARD_JUMP_SHOTS,0.3023255813953488,2012
-Glen Davis,201175,Layup Shot,2PT Field Goal,11,7,STANDARD_LAYUPS,0.6363636363636364,2012
-Glen Davis,201175,Putback Layup Shot,2PT Field Goal,2,1,SPECIALTY_LAYUPS,0.5,2012
-Glen Davis,201175,Reverse Layup Shot,2PT Field Goal,4,3,SPECIALTY_LAYUPS,0.75,2012
-Glen Davis,201175,Running Hook Shot,2PT Field Goal,1,1,STANDARD_HOOKS,1.0,2012
-Glen Davis,201175,Running Jump Shot,2PT Field Goal,1,1,MOVING_JUMPERS,1.0,2012
-Glen Davis,201175,Running Tip Shot,2PT Field Goal,1,1,TIP_SHOTS,1.0,2012
-Glen Davis,201175,Slam Dunk Shot,2PT Field Goal,2,2,BASIC_DUNKS,1.0,2012
+Glen Davis,201175,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2008
+Glen Davis,201175,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2008
+Glen Davis,201175,Putback Layup,2PT Field Goal,1,1,LAYUPS,1.0,2008
+Glen Davis,201175,Putback Dunk,2PT Field Goal,1,1,DUNKS,1.0,2008
+Glen Davis,201175,Reverse Layup,2PT Field Goal,1,1,LAYUPS,1.0,2008
+Glen Davis,201175,Jump Shot,2PT Field Goal,5,2,JUMP_SHOTS,0.4,2009
+Glen Davis,201175,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2009
+Glen Davis,201175,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2009
+Glen Davis,201175,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2009
+Glen Davis,201175,Alley Oop Layup,2PT Field Goal,1,0,LAYUPS,0.0,2010
+Glen Davis,201175,Driving Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2010
+Glen Davis,201175,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2010
+Glen Davis,201175,Fadeaway Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2010
+Glen Davis,201175,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2010
+Glen Davis,201175,Jump Shot,2PT Field Goal,10,2,JUMP_SHOTS,0.2,2010
+Glen Davis,201175,Standard Layup,2PT Field Goal,15,8,LAYUPS,0.5333333333333333,2010
+Glen Davis,201175,Reverse Layup,2PT Field Goal,1,1,LAYUPS,1.0,2010
+Glen Davis,201175,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2010
+Glen Davis,201175,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2010
+Glen Davis,201175,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2011
+Glen Davis,201175,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2011
+Glen Davis,201175,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2011
+Glen Davis,201175,Jump Shot,2PT Field Goal,9,5,JUMP_SHOTS,0.5555555555555556,2011
+Glen Davis,201175,Turnaround Jump Shot,2PT Field Goal,4,3,JUMP_SHOTS,0.75,2011
+Glen Davis,201175,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2011
+Glen Davis,201175,Alley Oop Dunk,2PT Field Goal,1,1,DUNKS,1.0,2012
+Glen Davis,201175,Driving Dunk,2PT Field Goal,1,0,DUNKS,0.0,2012
+Glen Davis,201175,Driving Layup,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2012
+Glen Davis,201175,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2012
+Glen Davis,201175,Fadeaway Jump Shot,2PT Field Goal,4,3,JUMP_SHOTS,0.75,2012
+Glen Davis,201175,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2012
+Glen Davis,201175,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2012
+Glen Davis,201175,Jump Shot,2PT Field Goal,43,13,JUMP_SHOTS,0.3023255813953488,2012
+Glen Davis,201175,Standard Layup,2PT Field Goal,11,7,LAYUPS,0.6363636363636364,2012
+Glen Davis,201175,Putback Layup,2PT Field Goal,2,1,LAYUPS,0.5,2012
+Glen Davis,201175,Reverse Layup,2PT Field Goal,4,3,LAYUPS,0.75,2012
+Glen Davis,201175,Running Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2012
+Glen Davis,201175,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2012
+Glen Davis,201175,Tip Shot,2PT Field Goal,1,1,TIP_SHOTS,1.0,2012
+Glen Davis,201175,Standard Dunk,2PT Field Goal,2,2,DUNKS,1.0,2012
 Glen Davis,201175,Tip Shot,2PT Field Goal,3,1,TIP_SHOTS,0.3333333333333333,2012
-Glen Davis,201175,Turnaround Fadeaway shot,2PT Field Goal,2,2,FADEAWAY_JUMPERS,1.0,2012
-Glen Davis,201175,Turnaround Jump Shot,2PT Field Goal,4,4,TURNAROUND_JUMPERS,1.0,2012
-Glen Davis,201175,Driving Hook Shot,2PT Field Goal,1,1,SPECIALTY_HOOKS,1.0,2013
-Glen Davis,201175,Driving Layup Shot,2PT Field Goal,1,1,DRIVING_LAYUPS,1.0,2013
-Glen Davis,201175,Fadeaway Jump Shot,2PT Field Goal,1,0,FADEAWAY_JUMPERS,0.0,2013
-Glen Davis,201175,Jump Shot,2PT Field Goal,4,1,STANDARD_JUMP_SHOTS,0.25,2013
-Glen Davis,201175,Layup Shot,2PT Field Goal,3,1,STANDARD_LAYUPS,0.3333333333333333,2013
-Glen Davis,201175,Turnaround Jump Shot,2PT Field Goal,1,0,TURNAROUND_JUMPERS,0.0,2013
-Glen Davis,201175,Driving Hook Shot,2PT Field Goal,1,1,SPECIALTY_HOOKS,1.0,2014
-Glen Davis,201175,Driving Jump shot,2PT Field Goal,1,1,MOVING_JUMPERS,1.0,2014
-Glen Davis,201175,Driving Layup Shot,2PT Field Goal,4,2,DRIVING_LAYUPS,0.5,2014
-Glen Davis,201175,Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2014
-Glen Davis,201175,Fadeaway Jump Shot,2PT Field Goal,3,2,FADEAWAY_JUMPERS,0.6666666666666666,2014
-Glen Davis,201175,Floating Jump shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2014
-Glen Davis,201175,Jump Hook Shot,2PT Field Goal,1,1,STANDARD_HOOKS,1.0,2014
-Glen Davis,201175,Jump Shot,2PT Field Goal,49,24,STANDARD_JUMP_SHOTS,0.4897959183673469,2014
-Glen Davis,201175,Jump Shot,3PT Field Goal,4,1,STANDARD_JUMP_SHOTS,0.375,2014
-Glen Davis,201175,Layup Shot,2PT Field Goal,10,7,STANDARD_LAYUPS,0.7,2014
-Glen Davis,201175,Running Hook Shot,2PT Field Goal,3,2,STANDARD_HOOKS,0.6666666666666666,2014
-Glen Davis,201175,Running Layup Shot,2PT Field Goal,1,0,STANDARD_LAYUPS,0.0,2014
+Glen Davis,201175,Turnaround Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,2012
+Glen Davis,201175,Turnaround Jump Shot,2PT Field Goal,4,4,JUMP_SHOTS,1.0,2012
+Glen Davis,201175,Driving Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2013
+Glen Davis,201175,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2013
+Glen Davis,201175,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2013
+Glen Davis,201175,Jump Shot,2PT Field Goal,4,1,JUMP_SHOTS,0.25,2013
+Glen Davis,201175,Standard Layup,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2013
+Glen Davis,201175,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2013
+Glen Davis,201175,Driving Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2014
+Glen Davis,201175,Driving Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2014
+Glen Davis,201175,Driving Layup,2PT Field Goal,4,2,LAYUPS,0.5,2014
+Glen Davis,201175,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2014
+Glen Davis,201175,Fadeaway Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,0.6666666666666666,2014
+Glen Davis,201175,Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2014
+Glen Davis,201175,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2014
+Glen Davis,201175,Jump Shot,2PT Field Goal,49,24,JUMP_SHOTS,0.4897959183673469,2014
+Glen Davis,201175,Jump Shot,3PT Field Goal,4,1,JUMP_SHOTS,0.375,2014
+Glen Davis,201175,Standard Layup,2PT Field Goal,10,7,LAYUPS,0.7,2014
+Glen Davis,201175,Running Hook Shot,2PT Field Goal,3,2,POST_MOVES,0.6666666666666666,2014
+Glen Davis,201175,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2014
 Glen Davis,201175,Tip Shot,2PT Field Goal,1,0,TIP_SHOTS,0.0,2014
-Glen Davis,201175,Turnaround Jump Shot,2PT Field Goal,1,0,TURNAROUND_JUMPERS,0.0,2014
-Glen Davis,201175,Jump Shot,2PT Field Goal,3,2,STANDARD_JUMP_SHOTS,0.6666666666666666,2015
-Glen Davis,201175,Jump Shot,3PT Field Goal,2,0,STANDARD_JUMP_SHOTS,0.0,2015
-Glen Davis,201175,Layup Shot,2PT Field Goal,4,2,STANDARD_LAYUPS,0.5,2015
-Glen Davis,201175,Turnaround Jump Shot,2PT Field Goal,1,0,TURNAROUND_JUMPERS,0.0,2015
+Glen Davis,201175,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2014
+Glen Davis,201175,Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,0.6666666666666666,2015
+Glen Davis,201175,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,2015
+Glen Davis,201175,Standard Layup,2PT Field Goal,4,2,LAYUPS,0.5,2015
+Glen Davis,201175,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2015
