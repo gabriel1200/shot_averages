@@ -1,41 +1,41 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Xavier Tillman,1630214,Cutting Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2023
-Xavier Tillman,1630214,Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2023
-Xavier Tillman,1630214,Cutting Dunk Shot,2PT Field Goal,6,6,DUNKS,1.0,2024
-Xavier Tillman,1630214,Cutting Layup Shot,2PT Field Goal,8,7,LAYUPS,0.875,2024
-Xavier Tillman,1630214,Driving Bank Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2024
-Xavier Tillman,1630214,Driving Dunk Shot,2PT Field Goal,3,2,DUNKS,0.6666666666666666,2024
-Xavier Tillman,1630214,Driving Finger Roll Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2024
-Xavier Tillman,1630214,Driving Floating Bank Jump Shot,2PT Field Goal,2,0,SPECIALTY_SHOTS,0.0,2024
-Xavier Tillman,1630214,Driving Floating Jump Shot,2PT Field Goal,4,2,SPECIALTY_SHOTS,0.5,2024
-Xavier Tillman,1630214,Driving Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2024
-Xavier Tillman,1630214,Driving Layup Shot,2PT Field Goal,8,4,LAYUPS,0.5,2024
-Xavier Tillman,1630214,Driving Reverse Layup Shot,2PT Field Goal,3,3,LAYUPS,1.0,2024
-Xavier Tillman,1630214,Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2024
-Xavier Tillman,1630214,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Xavier Tillman,1630214,Finger Roll Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Xavier Tillman,1630214,Floating Jump shot,2PT Field Goal,11,5,SPECIALTY_SHOTS,0.4545454545454545,2024
-Xavier Tillman,1630214,Hook Bank Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2024
-Xavier Tillman,1630214,Jump Bank Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2024
-Xavier Tillman,1630214,Jump Shot,3PT Field Goal,30,8,JUMP_SHOTS,0.4,2024
-Xavier Tillman,1630214,Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2024
-Xavier Tillman,1630214,Pullup Jump shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2024
-Xavier Tillman,1630214,Putback Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Xavier Tillman,1630214,Reverse Layup Shot,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2024
-Xavier Tillman,1630214,Running Dunk Shot,2PT Field Goal,3,3,DUNKS,1.0,2024
-Xavier Tillman,1630214,Running Finger Roll Layup Shot,2PT Field Goal,4,3,LAYUPS,0.75,2024
-Xavier Tillman,1630214,Running Jump Shot,3PT Field Goal,3,1,JUMP_SHOTS,0.5,2024
-Xavier Tillman,1630214,Tip Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Xavier Tillman,1630214,Turnaround Bank Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2024
-Xavier Tillman,1630214,Turnaround Fadeaway shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Xavier Tillman,1630214,Turnaround Hook Shot,2PT Field Goal,8,4,POST_MOVES,0.5,2024
-Xavier Tillman,1630214,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2025
-Xavier Tillman,1630214,Driving Layup Shot,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2025
-Xavier Tillman,1630214,Driving Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Xavier Tillman,1630214,Floating Jump shot,2PT Field Goal,3,1,SPECIALTY_SHOTS,0.3333333333333333,2025
-Xavier Tillman,1630214,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2025
-Xavier Tillman,1630214,Jump Shot,3PT Field Goal,14,2,JUMP_SHOTS,0.2142857142857142,2025
-Xavier Tillman,1630214,Layup Shot,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2025
-Xavier Tillman,1630214,Step Back Jump shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
-Xavier Tillman,1630214,Tip Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Xavier Tillman,1630214,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
+Xavier Tillman,1630214,Cutting Layup Shot,2PT Field Goal,1,1,STANDARD_LAYUPS,1.0,2023
+Xavier Tillman,1630214,Layup Shot,2PT Field Goal,2,2,STANDARD_LAYUPS,1.0,2023
+Xavier Tillman,1630214,Cutting Dunk Shot,2PT Field Goal,6,6,SPECIALTY_DUNKS,1.0,2024
+Xavier Tillman,1630214,Cutting Layup Shot,2PT Field Goal,8,7,STANDARD_LAYUPS,0.875,2024
+Xavier Tillman,1630214,Driving Bank Hook Shot,2PT Field Goal,1,1,BANK_HOOKS,1.0,2024
+Xavier Tillman,1630214,Driving Dunk Shot,2PT Field Goal,3,2,DRIVING_DUNKS,0.6666666666666666,2024
+Xavier Tillman,1630214,Driving Finger Roll Layup Shot,2PT Field Goal,2,2,FINGER_ROLLS,1.0,2024
+Xavier Tillman,1630214,Driving Floating Bank Jump Shot,2PT Field Goal,2,0,FLOATING_SHOTS,0.0,2024
+Xavier Tillman,1630214,Driving Floating Jump Shot,2PT Field Goal,4,2,FLOATING_SHOTS,0.5,2024
+Xavier Tillman,1630214,Driving Hook Shot,2PT Field Goal,1,1,SPECIALTY_HOOKS,1.0,2024
+Xavier Tillman,1630214,Driving Layup Shot,2PT Field Goal,8,4,DRIVING_LAYUPS,0.5,2024
+Xavier Tillman,1630214,Driving Reverse Layup Shot,2PT Field Goal,3,3,DRIVING_LAYUPS,1.0,2024
+Xavier Tillman,1630214,Dunk Shot,2PT Field Goal,2,2,BASIC_DUNKS,1.0,2024
+Xavier Tillman,1630214,Fadeaway Jump Shot,2PT Field Goal,1,0,FADEAWAY_JUMPERS,0.0,2024
+Xavier Tillman,1630214,Finger Roll Layup Shot,2PT Field Goal,1,0,FINGER_ROLLS,0.0,2024
+Xavier Tillman,1630214,Floating Jump shot,2PT Field Goal,11,5,FLOATING_SHOTS,0.4545454545454545,2024
+Xavier Tillman,1630214,Hook Bank Shot,2PT Field Goal,1,0,BANK_HOOKS,0.0,2024
+Xavier Tillman,1630214,Jump Bank Shot,3PT Field Goal,1,1,STANDARD_JUMP_SHOTS,1.5,2024
+Xavier Tillman,1630214,Jump Shot,3PT Field Goal,30,8,STANDARD_JUMP_SHOTS,0.4,2024
+Xavier Tillman,1630214,Layup Shot,2PT Field Goal,2,1,STANDARD_LAYUPS,0.5,2024
+Xavier Tillman,1630214,Pullup Jump shot,2PT Field Goal,1,1,STANDARD_JUMP_SHOTS,1.0,2024
+Xavier Tillman,1630214,Putback Layup Shot,2PT Field Goal,1,0,SPECIALTY_LAYUPS,0.0,2024
+Xavier Tillman,1630214,Reverse Layup Shot,2PT Field Goal,3,1,SPECIALTY_LAYUPS,0.3333333333333333,2024
+Xavier Tillman,1630214,Running Dunk Shot,2PT Field Goal,3,3,BASIC_DUNKS,1.0,2024
+Xavier Tillman,1630214,Running Finger Roll Layup Shot,2PT Field Goal,4,3,FINGER_ROLLS,0.75,2024
+Xavier Tillman,1630214,Running Jump Shot,3PT Field Goal,3,1,MOVING_JUMPERS,0.5,2024
+Xavier Tillman,1630214,Tip Layup Shot,2PT Field Goal,1,0,SPECIALTY_LAYUPS,0.0,2024
+Xavier Tillman,1630214,Turnaround Bank Hook Shot,2PT Field Goal,1,0,SPECIALTY_HOOKS,0.0,2024
+Xavier Tillman,1630214,Turnaround Fadeaway shot,2PT Field Goal,1,0,FADEAWAY_JUMPERS,0.0,2024
+Xavier Tillman,1630214,Turnaround Hook Shot,2PT Field Goal,8,4,SPECIALTY_HOOKS,0.5,2024
+Xavier Tillman,1630214,Driving Hook Shot,2PT Field Goal,1,0,SPECIALTY_HOOKS,0.0,2025
+Xavier Tillman,1630214,Driving Layup Shot,2PT Field Goal,3,1,DRIVING_LAYUPS,0.3333333333333333,2025
+Xavier Tillman,1630214,Driving Reverse Layup Shot,2PT Field Goal,1,1,DRIVING_LAYUPS,1.0,2025
+Xavier Tillman,1630214,Floating Jump shot,2PT Field Goal,3,1,FLOATING_SHOTS,0.3333333333333333,2025
+Xavier Tillman,1630214,Hook Shot,2PT Field Goal,1,0,STANDARD_HOOKS,0.0,2025
+Xavier Tillman,1630214,Jump Shot,3PT Field Goal,14,2,STANDARD_JUMP_SHOTS,0.2142857142857142,2025
+Xavier Tillman,1630214,Layup Shot,2PT Field Goal,3,1,STANDARD_LAYUPS,0.3333333333333333,2025
+Xavier Tillman,1630214,Step Back Jump shot,3PT Field Goal,1,0,STEP_BACK_JUMPERS,0.0,2025
+Xavier Tillman,1630214,Tip Layup Shot,2PT Field Goal,1,1,SPECIALTY_LAYUPS,1.0,2025
+Xavier Tillman,1630214,Turnaround Jump Shot,2PT Field Goal,1,0,TURNAROUND_JUMPERS,0.0,2025

@@ -1,41 +1,41 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Eddie House,2067,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2001
-Eddie House,2067,Jump Shot,2PT Field Goal,32,13,JUMP_SHOTS,0.40625,2002
-Eddie House,2067,Jump Shot,3PT Field Goal,21,6,JUMP_SHOTS,0.4285714285714285,2002
-Eddie House,2067,Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2002
-Eddie House,2067,Running Jump Shot,2PT Field Goal,4,1,JUMP_SHOTS,0.25,2002
-Eddie House,2067,Driving Layup Shot,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2003
-Eddie House,2067,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2003
-Eddie House,2067,Jump Shot,2PT Field Goal,24,12,JUMP_SHOTS,0.5,2003
-Eddie House,2067,Jump Shot,3PT Field Goal,19,3,JUMP_SHOTS,0.2368421052631578,2003
-Eddie House,2067,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2003
-Eddie House,2067,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2003
-Eddie House,2067,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2003
-Eddie House,2067,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2004
-Eddie House,2067,Running Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2004
-Eddie House,2067,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2005
-Eddie House,2067,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2005
-Eddie House,2067,Jump Shot,2PT Field Goal,22,6,JUMP_SHOTS,0.2727272727272727,2005
-Eddie House,2067,Jump Shot,3PT Field Goal,7,5,JUMP_SHOTS,1.0714285714285714,2005
-Eddie House,2067,Running Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2005
-Eddie House,2067,Driving Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2006
-Eddie House,2067,Jump Bank Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2006
-Eddie House,2067,Jump Shot,2PT Field Goal,51,20,JUMP_SHOTS,0.392156862745098,2006
-Eddie House,2067,Jump Shot,3PT Field Goal,52,26,JUMP_SHOTS,0.75,2006
-Eddie House,2067,Layup Shot,2PT Field Goal,6,3,LAYUPS,0.5,2006
-Eddie House,2067,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2006
-Eddie House,2067,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2006
-Eddie House,2067,Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2007
-Eddie House,2067,Floating Jump shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,1.0,2008
-Eddie House,2067,Jump Shot,2PT Field Goal,4,1,JUMP_SHOTS,0.25,2008
-Eddie House,2067,Jump Shot,3PT Field Goal,3,1,JUMP_SHOTS,0.5,2008
-Eddie House,2067,Jump Shot,3PT Field Goal,2,2,JUMP_SHOTS,1.5,2009
-Eddie House,2067,Jump Bank Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2010
-Eddie House,2067,Jump Shot,2PT Field Goal,6,1,JUMP_SHOTS,0.1666666666666666,2010
-Eddie House,2067,Jump Shot,3PT Field Goal,9,4,JUMP_SHOTS,0.6666666666666666,2010
-Eddie House,2067,Pullup Jump shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2010
-Eddie House,2067,Jump Shot,2PT Field Goal,17,6,JUMP_SHOTS,0.3529411764705882,2011
-Eddie House,2067,Jump Shot,3PT Field Goal,23,11,JUMP_SHOTS,0.717391304347826,2011
-Eddie House,2067,Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2011
-Eddie House,2067,Pullup Jump shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2011
-Eddie House,2067,Pullup Jump shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2011
+Eddie House,2067,Jump Shot,2PT Field Goal,1,1,STANDARD_JUMP_SHOTS,1.0,2001
+Eddie House,2067,Jump Shot,2PT Field Goal,32,13,STANDARD_JUMP_SHOTS,0.40625,2002
+Eddie House,2067,Jump Shot,3PT Field Goal,21,6,STANDARD_JUMP_SHOTS,0.4285714285714285,2002
+Eddie House,2067,Layup Shot,2PT Field Goal,2,1,STANDARD_LAYUPS,0.5,2002
+Eddie House,2067,Running Jump Shot,2PT Field Goal,4,1,MOVING_JUMPERS,0.25,2002
+Eddie House,2067,Driving Layup Shot,2PT Field Goal,3,1,DRIVING_LAYUPS,0.3333333333333333,2003
+Eddie House,2067,Fadeaway Jump Shot,2PT Field Goal,1,1,FADEAWAY_JUMPERS,1.0,2003
+Eddie House,2067,Jump Shot,2PT Field Goal,24,12,STANDARD_JUMP_SHOTS,0.5,2003
+Eddie House,2067,Jump Shot,3PT Field Goal,19,3,STANDARD_JUMP_SHOTS,0.2368421052631578,2003
+Eddie House,2067,Layup Shot,2PT Field Goal,1,1,STANDARD_LAYUPS,1.0,2003
+Eddie House,2067,Reverse Layup Shot,2PT Field Goal,1,1,SPECIALTY_LAYUPS,1.0,2003
+Eddie House,2067,Running Jump Shot,2PT Field Goal,1,0,MOVING_JUMPERS,0.0,2003
+Eddie House,2067,Jump Shot,3PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2004
+Eddie House,2067,Running Jump Shot,3PT Field Goal,1,1,MOVING_JUMPERS,1.5,2004
+Eddie House,2067,Driving Layup Shot,2PT Field Goal,1,1,DRIVING_LAYUPS,1.0,2005
+Eddie House,2067,Fadeaway Jump Shot,2PT Field Goal,1,1,FADEAWAY_JUMPERS,1.0,2005
+Eddie House,2067,Jump Shot,2PT Field Goal,22,6,STANDARD_JUMP_SHOTS,0.2727272727272727,2005
+Eddie House,2067,Jump Shot,3PT Field Goal,7,5,STANDARD_JUMP_SHOTS,1.0714285714285714,2005
+Eddie House,2067,Running Jump Shot,2PT Field Goal,2,1,MOVING_JUMPERS,0.5,2005
+Eddie House,2067,Driving Layup Shot,2PT Field Goal,2,1,DRIVING_LAYUPS,0.5,2006
+Eddie House,2067,Jump Bank Shot,2PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2006
+Eddie House,2067,Jump Shot,2PT Field Goal,51,20,STANDARD_JUMP_SHOTS,0.392156862745098,2006
+Eddie House,2067,Jump Shot,3PT Field Goal,52,26,STANDARD_JUMP_SHOTS,0.75,2006
+Eddie House,2067,Layup Shot,2PT Field Goal,6,3,STANDARD_LAYUPS,0.5,2006
+Eddie House,2067,Reverse Layup Shot,2PT Field Goal,1,1,SPECIALTY_LAYUPS,1.0,2006
+Eddie House,2067,Running Jump Shot,2PT Field Goal,1,0,MOVING_JUMPERS,0.0,2006
+Eddie House,2067,Jump Shot,3PT Field Goal,1,1,STANDARD_JUMP_SHOTS,1.5,2007
+Eddie House,2067,Floating Jump shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2008
+Eddie House,2067,Jump Shot,2PT Field Goal,4,1,STANDARD_JUMP_SHOTS,0.25,2008
+Eddie House,2067,Jump Shot,3PT Field Goal,3,1,STANDARD_JUMP_SHOTS,0.5,2008
+Eddie House,2067,Jump Shot,3PT Field Goal,2,2,STANDARD_JUMP_SHOTS,1.5,2009
+Eddie House,2067,Jump Bank Shot,2PT Field Goal,1,1,STANDARD_JUMP_SHOTS,1.0,2010
+Eddie House,2067,Jump Shot,2PT Field Goal,6,1,STANDARD_JUMP_SHOTS,0.1666666666666666,2010
+Eddie House,2067,Jump Shot,3PT Field Goal,9,4,STANDARD_JUMP_SHOTS,0.6666666666666666,2010
+Eddie House,2067,Pullup Jump shot,2PT Field Goal,1,1,STANDARD_JUMP_SHOTS,1.0,2010
+Eddie House,2067,Jump Shot,2PT Field Goal,17,6,STANDARD_JUMP_SHOTS,0.3529411764705882,2011
+Eddie House,2067,Jump Shot,3PT Field Goal,23,11,STANDARD_JUMP_SHOTS,0.717391304347826,2011
+Eddie House,2067,Layup Shot,2PT Field Goal,1,0,STANDARD_LAYUPS,0.0,2011
+Eddie House,2067,Pullup Jump shot,2PT Field Goal,1,1,STANDARD_JUMP_SHOTS,1.0,2011
+Eddie House,2067,Pullup Jump shot,3PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2011

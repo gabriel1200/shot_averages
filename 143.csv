@@ -1,15 +1,15 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Terry Dehere,143,Driving Layup Shot,2PT Field Goal,16,14,LAYUPS,0.875,1997
-Terry Dehere,143,Jump Shot,2PT Field Goal,48,15,JUMP_SHOTS,0.3125,1997
-Terry Dehere,143,Jump Shot,3PT Field Goal,56,19,JUMP_SHOTS,0.5089285714285714,1997
-Terry Dehere,143,Layup Shot,2PT Field Goal,23,5,LAYUPS,0.217391304347826,1997
-Terry Dehere,143,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,1997
-Terry Dehere,143,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,1997
-Terry Dehere,143,Driving Layup Shot,2PT Field Goal,5,4,LAYUPS,0.8,1998
-Terry Dehere,143,Jump Shot,2PT Field Goal,41,15,JUMP_SHOTS,0.3658536585365853,1998
-Terry Dehere,143,Jump Shot,3PT Field Goal,16,4,JUMP_SHOTS,0.375,1998
-Terry Dehere,143,Layup Shot,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,1998
-Terry Dehere,143,Jump Shot,2PT Field Goal,10,1,JUMP_SHOTS,0.1,1999
-Terry Dehere,143,Jump Shot,3PT Field Goal,9,4,JUMP_SHOTS,0.6666666666666666,1999
-Terry Dehere,143,Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,1999
-Terry Dehere,143,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,1999
+Terry Dehere,143,Driving Layup Shot,2PT Field Goal,16,14,DRIVING_LAYUPS,0.875,1997
+Terry Dehere,143,Jump Shot,2PT Field Goal,48,15,STANDARD_JUMP_SHOTS,0.3125,1997
+Terry Dehere,143,Jump Shot,3PT Field Goal,56,19,STANDARD_JUMP_SHOTS,0.5089285714285714,1997
+Terry Dehere,143,Layup Shot,2PT Field Goal,23,5,STANDARD_LAYUPS,0.217391304347826,1997
+Terry Dehere,143,Running Jump Shot,2PT Field Goal,1,0,MOVING_JUMPERS,0.0,1997
+Terry Dehere,143,Slam Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,1997
+Terry Dehere,143,Driving Layup Shot,2PT Field Goal,5,4,DRIVING_LAYUPS,0.8,1998
+Terry Dehere,143,Jump Shot,2PT Field Goal,41,15,STANDARD_JUMP_SHOTS,0.3658536585365853,1998
+Terry Dehere,143,Jump Shot,3PT Field Goal,16,4,STANDARD_JUMP_SHOTS,0.375,1998
+Terry Dehere,143,Layup Shot,2PT Field Goal,3,2,STANDARD_LAYUPS,0.6666666666666666,1998
+Terry Dehere,143,Jump Shot,2PT Field Goal,10,1,STANDARD_JUMP_SHOTS,0.1,1999
+Terry Dehere,143,Jump Shot,3PT Field Goal,9,4,STANDARD_JUMP_SHOTS,0.6666666666666666,1999
+Terry Dehere,143,Layup Shot,2PT Field Goal,2,1,STANDARD_LAYUPS,0.5,1999
+Terry Dehere,143,Running Jump Shot,2PT Field Goal,1,1,MOVING_JUMPERS,1.0,1999

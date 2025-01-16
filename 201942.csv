@@ -1,47 +1,47 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-DeMar DeRozan,201942,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2019
-DeMar DeRozan,201942,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2019
-DeMar DeRozan,201942,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2019
-DeMar DeRozan,201942,Cutting Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2024
-DeMar DeRozan,201942,Cutting Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
-DeMar DeRozan,201942,Cutting Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
-DeMar DeRozan,201942,Driving Bank Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2024
-DeMar DeRozan,201942,Driving Finger Roll Layup Shot,2PT Field Goal,13,12,LAYUPS,0.9230769230769232,2024
-DeMar DeRozan,201942,Driving Floating Bank Jump Shot,2PT Field Goal,3,2,SPECIALTY_SHOTS,0.6666666666666666,2024
-DeMar DeRozan,201942,Driving Floating Jump Shot,2PT Field Goal,8,2,SPECIALTY_SHOTS,0.25,2024
-DeMar DeRozan,201942,Driving Layup Shot,2PT Field Goal,29,13,LAYUPS,0.4482758620689655,2024
-DeMar DeRozan,201942,Driving Reverse Layup Shot,2PT Field Goal,4,4,LAYUPS,1.0,2024
-DeMar DeRozan,201942,Fadeaway Bank shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-DeMar DeRozan,201942,Fadeaway Jump Shot,2PT Field Goal,6,3,JUMP_SHOTS,0.5,2024
-DeMar DeRozan,201942,Finger Roll Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2024
-DeMar DeRozan,201942,Floating Jump shot,2PT Field Goal,2,2,SPECIALTY_SHOTS,1.0,2024
-DeMar DeRozan,201942,Jump Shot,2PT Field Goal,16,8,JUMP_SHOTS,0.5,2024
-DeMar DeRozan,201942,Jump Shot,3PT Field Goal,29,12,JUMP_SHOTS,0.6206896551724138,2024
-DeMar DeRozan,201942,Pullup Jump shot,2PT Field Goal,68,36,JUMP_SHOTS,0.5294117647058824,2024
-DeMar DeRozan,201942,Pullup Jump shot,3PT Field Goal,12,2,JUMP_SHOTS,0.25,2024
-DeMar DeRozan,201942,Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2024
-DeMar DeRozan,201942,Running Dunk Shot,2PT Field Goal,6,5,DUNKS,0.8333333333333334,2024
-DeMar DeRozan,201942,Running Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-DeMar DeRozan,201942,Running Layup Shot,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2024
-DeMar DeRozan,201942,Step Back Jump shot,2PT Field Goal,10,7,JUMP_SHOTS,0.7,2024
-DeMar DeRozan,201942,Tip Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2024
-DeMar DeRozan,201942,Turnaround Bank shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,2024
-DeMar DeRozan,201942,Turnaround Fadeaway shot,2PT Field Goal,21,10,JUMP_SHOTS,0.4761904761904761,2024
-DeMar DeRozan,201942,Turnaround Jump Shot,2PT Field Goal,23,10,JUMP_SHOTS,0.4347826086956521,2024
-DeMar DeRozan,201942,Cutting Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2025
-DeMar DeRozan,201942,Driving Finger Roll Layup Shot,2PT Field Goal,3,3,LAYUPS,1.0,2025
-DeMar DeRozan,201942,Driving Floating Jump Shot,2PT Field Goal,7,2,SPECIALTY_SHOTS,0.2857142857142857,2025
-DeMar DeRozan,201942,Driving Layup Shot,2PT Field Goal,7,4,LAYUPS,0.5714285714285714,2025
-DeMar DeRozan,201942,Fadeaway Jump Shot,2PT Field Goal,6,2,JUMP_SHOTS,0.3333333333333333,2025
-DeMar DeRozan,201942,Jump Bank Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2025
-DeMar DeRozan,201942,Jump Shot,2PT Field Goal,12,4,JUMP_SHOTS,0.3333333333333333,2025
-DeMar DeRozan,201942,Jump Shot,3PT Field Goal,14,3,JUMP_SHOTS,0.3214285714285714,2025
-DeMar DeRozan,201942,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2025
-DeMar DeRozan,201942,Pullup Jump shot,2PT Field Goal,27,16,JUMP_SHOTS,0.5925925925925926,2025
-DeMar DeRozan,201942,Pullup Jump shot,3PT Field Goal,2,2,JUMP_SHOTS,1.5,2025
-DeMar DeRozan,201942,Running Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2025
-DeMar DeRozan,201942,Running Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2025
-DeMar DeRozan,201942,Step Back Jump shot,2PT Field Goal,5,3,JUMP_SHOTS,0.6,2025
-DeMar DeRozan,201942,Turnaround Bank shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2025
-DeMar DeRozan,201942,Turnaround Fadeaway shot,2PT Field Goal,8,7,JUMP_SHOTS,0.875,2025
-DeMar DeRozan,201942,Turnaround Jump Shot,2PT Field Goal,10,5,JUMP_SHOTS,0.5,2025
+DeMar DeRozan,201942,Driving Layup Shot,2PT Field Goal,1,1,DRIVING_LAYUPS,1.0,2019
+DeMar DeRozan,201942,Jump Shot,2PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2019
+DeMar DeRozan,201942,Layup Shot,2PT Field Goal,1,1,STANDARD_LAYUPS,1.0,2019
+DeMar DeRozan,201942,Cutting Dunk Shot,2PT Field Goal,1,1,SPECIALTY_DUNKS,1.0,2024
+DeMar DeRozan,201942,Cutting Finger Roll Layup Shot,2PT Field Goal,1,1,FINGER_ROLLS,1.0,2024
+DeMar DeRozan,201942,Cutting Layup Shot,2PT Field Goal,1,1,STANDARD_LAYUPS,1.0,2024
+DeMar DeRozan,201942,Driving Bank Hook Shot,2PT Field Goal,1,1,BANK_HOOKS,1.0,2024
+DeMar DeRozan,201942,Driving Finger Roll Layup Shot,2PT Field Goal,13,12,FINGER_ROLLS,0.9230769230769232,2024
+DeMar DeRozan,201942,Driving Floating Bank Jump Shot,2PT Field Goal,3,2,FLOATING_SHOTS,0.6666666666666666,2024
+DeMar DeRozan,201942,Driving Floating Jump Shot,2PT Field Goal,8,2,FLOATING_SHOTS,0.25,2024
+DeMar DeRozan,201942,Driving Layup Shot,2PT Field Goal,29,13,DRIVING_LAYUPS,0.4482758620689655,2024
+DeMar DeRozan,201942,Driving Reverse Layup Shot,2PT Field Goal,4,4,DRIVING_LAYUPS,1.0,2024
+DeMar DeRozan,201942,Fadeaway Bank shot,2PT Field Goal,1,0,FADEAWAY_JUMPERS,0.0,2024
+DeMar DeRozan,201942,Fadeaway Jump Shot,2PT Field Goal,6,3,FADEAWAY_JUMPERS,0.5,2024
+DeMar DeRozan,201942,Finger Roll Layup Shot,2PT Field Goal,2,1,FINGER_ROLLS,0.5,2024
+DeMar DeRozan,201942,Floating Jump shot,2PT Field Goal,2,2,FLOATING_SHOTS,1.0,2024
+DeMar DeRozan,201942,Jump Shot,2PT Field Goal,16,8,STANDARD_JUMP_SHOTS,0.5,2024
+DeMar DeRozan,201942,Jump Shot,3PT Field Goal,29,12,STANDARD_JUMP_SHOTS,0.6206896551724138,2024
+DeMar DeRozan,201942,Pullup Jump shot,2PT Field Goal,68,36,STANDARD_JUMP_SHOTS,0.5294117647058824,2024
+DeMar DeRozan,201942,Pullup Jump shot,3PT Field Goal,12,2,STANDARD_JUMP_SHOTS,0.25,2024
+DeMar DeRozan,201942,Reverse Layup Shot,2PT Field Goal,1,0,SPECIALTY_LAYUPS,0.0,2024
+DeMar DeRozan,201942,Running Dunk Shot,2PT Field Goal,6,5,BASIC_DUNKS,0.8333333333333334,2024
+DeMar DeRozan,201942,Running Jump Shot,3PT Field Goal,1,0,MOVING_JUMPERS,0.0,2024
+DeMar DeRozan,201942,Running Layup Shot,2PT Field Goal,3,1,STANDARD_LAYUPS,0.3333333333333333,2024
+DeMar DeRozan,201942,Step Back Jump shot,2PT Field Goal,10,7,STEP_BACK_JUMPERS,0.7,2024
+DeMar DeRozan,201942,Tip Layup Shot,2PT Field Goal,2,2,SPECIALTY_LAYUPS,1.0,2024
+DeMar DeRozan,201942,Turnaround Bank shot,2PT Field Goal,2,2,TURNAROUND_JUMPERS,1.0,2024
+DeMar DeRozan,201942,Turnaround Fadeaway shot,2PT Field Goal,21,10,FADEAWAY_JUMPERS,0.4761904761904761,2024
+DeMar DeRozan,201942,Turnaround Jump Shot,2PT Field Goal,23,10,TURNAROUND_JUMPERS,0.4347826086956521,2024
+DeMar DeRozan,201942,Cutting Layup Shot,2PT Field Goal,2,1,STANDARD_LAYUPS,0.5,2025
+DeMar DeRozan,201942,Driving Finger Roll Layup Shot,2PT Field Goal,3,3,FINGER_ROLLS,1.0,2025
+DeMar DeRozan,201942,Driving Floating Jump Shot,2PT Field Goal,7,2,FLOATING_SHOTS,0.2857142857142857,2025
+DeMar DeRozan,201942,Driving Layup Shot,2PT Field Goal,7,4,DRIVING_LAYUPS,0.5714285714285714,2025
+DeMar DeRozan,201942,Fadeaway Jump Shot,2PT Field Goal,6,2,FADEAWAY_JUMPERS,0.3333333333333333,2025
+DeMar DeRozan,201942,Jump Bank Shot,2PT Field Goal,1,1,STANDARD_JUMP_SHOTS,1.0,2025
+DeMar DeRozan,201942,Jump Shot,2PT Field Goal,12,4,STANDARD_JUMP_SHOTS,0.3333333333333333,2025
+DeMar DeRozan,201942,Jump Shot,3PT Field Goal,14,3,STANDARD_JUMP_SHOTS,0.3214285714285714,2025
+DeMar DeRozan,201942,Layup Shot,2PT Field Goal,1,1,STANDARD_LAYUPS,1.0,2025
+DeMar DeRozan,201942,Pullup Jump shot,2PT Field Goal,27,16,STANDARD_JUMP_SHOTS,0.5925925925925926,2025
+DeMar DeRozan,201942,Pullup Jump shot,3PT Field Goal,2,2,STANDARD_JUMP_SHOTS,1.5,2025
+DeMar DeRozan,201942,Running Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2025
+DeMar DeRozan,201942,Running Layup Shot,2PT Field Goal,2,2,STANDARD_LAYUPS,1.0,2025
+DeMar DeRozan,201942,Step Back Jump shot,2PT Field Goal,5,3,STEP_BACK_JUMPERS,0.6,2025
+DeMar DeRozan,201942,Turnaround Bank shot,2PT Field Goal,2,1,TURNAROUND_JUMPERS,0.5,2025
+DeMar DeRozan,201942,Turnaround Fadeaway shot,2PT Field Goal,8,7,FADEAWAY_JUMPERS,0.875,2025
+DeMar DeRozan,201942,Turnaround Jump Shot,2PT Field Goal,10,5,TURNAROUND_JUMPERS,0.5,2025

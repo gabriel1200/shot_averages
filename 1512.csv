@@ -1,22 +1,22 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Chris Anstey,1512,Driving Layup Shot,2PT Field Goal,3,3,LAYUPS,1.0,1998
-Chris Anstey,1512,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,1998
-Chris Anstey,1512,Hook Shot,2PT Field Goal,2,1,POST_MOVES,0.5,1998
-Chris Anstey,1512,Jump Shot,2PT Field Goal,50,21,JUMP_SHOTS,0.42,1998
-Chris Anstey,1512,Jump Shot,3PT Field Goal,4,0,JUMP_SHOTS,0.0,1998
-Chris Anstey,1512,Layup Shot,2PT Field Goal,19,6,LAYUPS,0.3157894736842105,1998
-Chris Anstey,1512,Running Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,1998
-Chris Anstey,1512,Slam Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,1998
-Chris Anstey,1512,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,1999
-Chris Anstey,1512,Driving Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,1999
-Chris Anstey,1512,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,1999
-Chris Anstey,1512,Jump Shot,2PT Field Goal,21,6,JUMP_SHOTS,0.2857142857142857,1999
-Chris Anstey,1512,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,1999
-Chris Anstey,1512,Layup Shot,2PT Field Goal,7,2,LAYUPS,0.2857142857142857,1999
-Chris Anstey,1512,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,1999
-Chris Anstey,1512,Slam Dunk Shot,2PT Field Goal,3,3,DUNKS,1.0,1999
-Chris Anstey,1512,Driving Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2000
-Chris Anstey,1512,Hook Shot,2PT Field Goal,7,4,POST_MOVES,0.5714285714285714,2000
-Chris Anstey,1512,Jump Shot,2PT Field Goal,24,11,JUMP_SHOTS,0.4583333333333333,2000
-Chris Anstey,1512,Layup Shot,2PT Field Goal,6,3,LAYUPS,0.5,2000
-Chris Anstey,1512,Slam Dunk Shot,2PT Field Goal,3,1,DUNKS,0.3333333333333333,2000
+Chris Anstey,1512,Driving Layup Shot,2PT Field Goal,3,3,DRIVING_LAYUPS,1.0,1998
+Chris Anstey,1512,Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,1998
+Chris Anstey,1512,Hook Shot,2PT Field Goal,2,1,STANDARD_HOOKS,0.5,1998
+Chris Anstey,1512,Jump Shot,2PT Field Goal,50,21,STANDARD_JUMP_SHOTS,0.42,1998
+Chris Anstey,1512,Jump Shot,3PT Field Goal,4,0,STANDARD_JUMP_SHOTS,0.0,1998
+Chris Anstey,1512,Layup Shot,2PT Field Goal,19,6,STANDARD_LAYUPS,0.3157894736842105,1998
+Chris Anstey,1512,Running Jump Shot,2PT Field Goal,2,1,MOVING_JUMPERS,0.5,1998
+Chris Anstey,1512,Slam Dunk Shot,2PT Field Goal,2,2,BASIC_DUNKS,1.0,1998
+Chris Anstey,1512,Driving Dunk Shot,2PT Field Goal,1,1,DRIVING_DUNKS,1.0,1999
+Chris Anstey,1512,Driving Layup Shot,2PT Field Goal,2,1,DRIVING_LAYUPS,0.5,1999
+Chris Anstey,1512,Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,1999
+Chris Anstey,1512,Jump Shot,2PT Field Goal,21,6,STANDARD_JUMP_SHOTS,0.2857142857142857,1999
+Chris Anstey,1512,Jump Shot,3PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,1999
+Chris Anstey,1512,Layup Shot,2PT Field Goal,7,2,STANDARD_LAYUPS,0.2857142857142857,1999
+Chris Anstey,1512,Running Jump Shot,2PT Field Goal,1,0,MOVING_JUMPERS,0.0,1999
+Chris Anstey,1512,Slam Dunk Shot,2PT Field Goal,3,3,BASIC_DUNKS,1.0,1999
+Chris Anstey,1512,Driving Layup Shot,2PT Field Goal,2,1,DRIVING_LAYUPS,0.5,2000
+Chris Anstey,1512,Hook Shot,2PT Field Goal,7,4,STANDARD_HOOKS,0.5714285714285714,2000
+Chris Anstey,1512,Jump Shot,2PT Field Goal,24,11,STANDARD_JUMP_SHOTS,0.4583333333333333,2000
+Chris Anstey,1512,Layup Shot,2PT Field Goal,6,3,STANDARD_LAYUPS,0.5,2000
+Chris Anstey,1512,Slam Dunk Shot,2PT Field Goal,3,1,BASIC_DUNKS,0.3333333333333333,2000

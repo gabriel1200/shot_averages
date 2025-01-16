@@ -1,14 +1,14 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Kareem Rush,2416,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2003
-Kareem Rush,2416,Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2003
-Kareem Rush,2416,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2003
-Kareem Rush,2416,Tip Shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,1.0,2003
-Kareem Rush,2416,Driving Layup Shot,2PT Field Goal,5,4,LAYUPS,0.8,2004
-Kareem Rush,2416,Dunk Shot,2PT Field Goal,1,0,DUNKS,0.0,2004
-Kareem Rush,2416,Jump Shot,2PT Field Goal,46,19,JUMP_SHOTS,0.4130434782608695,2004
-Kareem Rush,2416,Jump Shot,3PT Field Goal,36,11,JUMP_SHOTS,0.4583333333333333,2004
-Kareem Rush,2416,Layup Shot,2PT Field Goal,15,5,LAYUPS,0.3333333333333333,2004
-Kareem Rush,2416,Reverse Layup Shot,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2004
-Kareem Rush,2416,Running Jump Shot,2PT Field Goal,4,3,JUMP_SHOTS,0.75,2004
-Kareem Rush,2416,Running Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2004
-Kareem Rush,2416,Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2005
+Kareem Rush,2416,Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2003
+Kareem Rush,2416,Jump Shot,2PT Field Goal,2,0,STANDARD_JUMP_SHOTS,0.0,2003
+Kareem Rush,2416,Layup Shot,2PT Field Goal,1,1,STANDARD_LAYUPS,1.0,2003
+Kareem Rush,2416,Tip Shot,2PT Field Goal,1,1,TIP_SHOTS,1.0,2003
+Kareem Rush,2416,Driving Layup Shot,2PT Field Goal,5,4,DRIVING_LAYUPS,0.8,2004
+Kareem Rush,2416,Dunk Shot,2PT Field Goal,1,0,BASIC_DUNKS,0.0,2004
+Kareem Rush,2416,Jump Shot,2PT Field Goal,46,19,STANDARD_JUMP_SHOTS,0.4130434782608695,2004
+Kareem Rush,2416,Jump Shot,3PT Field Goal,36,11,STANDARD_JUMP_SHOTS,0.4583333333333333,2004
+Kareem Rush,2416,Layup Shot,2PT Field Goal,15,5,STANDARD_LAYUPS,0.3333333333333333,2004
+Kareem Rush,2416,Reverse Layup Shot,2PT Field Goal,3,1,SPECIALTY_LAYUPS,0.3333333333333333,2004
+Kareem Rush,2416,Running Jump Shot,2PT Field Goal,4,3,MOVING_JUMPERS,0.75,2004
+Kareem Rush,2416,Running Jump Shot,3PT Field Goal,1,0,MOVING_JUMPERS,0.0,2004
+Kareem Rush,2416,Jump Shot,3PT Field Goal,2,1,STANDARD_JUMP_SHOTS,0.75,2005

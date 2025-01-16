@@ -1,13 +1,13 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Dion Glover,1901,Jump Shot,2PT Field Goal,3,0,JUMP_SHOTS,0.0,2002
-Dion Glover,1901,Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2002
-Dion Glover,1901,Layup Shot,2PT Field Goal,2,0,LAYUPS,0.0,2002
-Dion Glover,1901,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2003
-Dion Glover,1901,Driving Layup Shot,2PT Field Goal,4,4,LAYUPS,1.0,2003
-Dion Glover,1901,Jump Shot,2PT Field Goal,21,9,JUMP_SHOTS,0.4285714285714285,2003
-Dion Glover,1901,Jump Shot,3PT Field Goal,7,2,JUMP_SHOTS,0.4285714285714285,2003
-Dion Glover,1901,Layup Shot,2PT Field Goal,4,0,LAYUPS,0.0,2003
-Dion Glover,1901,Reverse Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2003
-Dion Glover,1901,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2003
-Dion Glover,1901,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2003
-Dion Glover,1901,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2003
+Dion Glover,1901,Jump Shot,2PT Field Goal,3,0,STANDARD_JUMP_SHOTS,0.0,2002
+Dion Glover,1901,Jump Shot,3PT Field Goal,2,1,STANDARD_JUMP_SHOTS,0.75,2002
+Dion Glover,1901,Layup Shot,2PT Field Goal,2,0,STANDARD_LAYUPS,0.0,2002
+Dion Glover,1901,Driving Dunk Shot,2PT Field Goal,1,1,DRIVING_DUNKS,1.0,2003
+Dion Glover,1901,Driving Layup Shot,2PT Field Goal,4,4,DRIVING_LAYUPS,1.0,2003
+Dion Glover,1901,Jump Shot,2PT Field Goal,21,9,STANDARD_JUMP_SHOTS,0.4285714285714285,2003
+Dion Glover,1901,Jump Shot,3PT Field Goal,7,2,STANDARD_JUMP_SHOTS,0.4285714285714285,2003
+Dion Glover,1901,Layup Shot,2PT Field Goal,4,0,STANDARD_LAYUPS,0.0,2003
+Dion Glover,1901,Reverse Dunk Shot,2PT Field Goal,1,1,SPECIALTY_DUNKS,1.0,2003
+Dion Glover,1901,Reverse Layup Shot,2PT Field Goal,1,1,SPECIALTY_LAYUPS,1.0,2003
+Dion Glover,1901,Running Jump Shot,2PT Field Goal,1,1,MOVING_JUMPERS,1.0,2003
+Dion Glover,1901,Turnaround Jump Shot,2PT Field Goal,1,1,TURNAROUND_JUMPERS,1.0,2003

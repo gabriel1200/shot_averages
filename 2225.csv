@@ -1,10 +1,10 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Tony Parker,2225,Jump Bank Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2005
-Tony Parker,2225,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2005
-Tony Parker,2225,Driving Finger Roll Layup Shot,2PT Field Goal,3,3,LAYUPS,1.0,2009
-Tony Parker,2225,Driving Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2009
-Tony Parker,2225,Driving Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2009
-Tony Parker,2225,Jump Shot,2PT Field Goal,10,4,JUMP_SHOTS,0.4,2009
-Tony Parker,2225,Layup Shot,2PT Field Goal,10,2,LAYUPS,0.2,2009
-Tony Parker,2225,Pullup Jump shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2009
-Tony Parker,2225,Running Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2009
+Tony Parker,2225,Jump Bank Shot,2PT Field Goal,1,1,STANDARD_JUMP_SHOTS,1.0,2005
+Tony Parker,2225,Layup Shot,2PT Field Goal,1,1,STANDARD_LAYUPS,1.0,2005
+Tony Parker,2225,Driving Finger Roll Layup Shot,2PT Field Goal,3,3,FINGER_ROLLS,1.0,2009
+Tony Parker,2225,Driving Layup Shot,2PT Field Goal,1,0,DRIVING_LAYUPS,0.0,2009
+Tony Parker,2225,Driving Reverse Layup Shot,2PT Field Goal,1,1,DRIVING_LAYUPS,1.0,2009
+Tony Parker,2225,Jump Shot,2PT Field Goal,10,4,STANDARD_JUMP_SHOTS,0.4,2009
+Tony Parker,2225,Layup Shot,2PT Field Goal,10,2,STANDARD_LAYUPS,0.2,2009
+Tony Parker,2225,Pullup Jump shot,2PT Field Goal,2,1,STANDARD_JUMP_SHOTS,0.5,2009
+Tony Parker,2225,Running Layup Shot,2PT Field Goal,1,1,STANDARD_LAYUPS,1.0,2009

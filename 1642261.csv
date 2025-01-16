@@ -1,31 +1,31 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Dalton Knecht,1642261,Alley Oop Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2025
-Dalton Knecht,1642261,Alley Oop Layup shot,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Dalton Knecht,1642261,Cutting Dunk Shot,2PT Field Goal,6,5,DUNKS,0.8333333333333334,2025
-Dalton Knecht,1642261,Cutting Layup Shot,2PT Field Goal,5,4,LAYUPS,0.8,2025
-Dalton Knecht,1642261,Driving Dunk Shot,2PT Field Goal,2,1,DUNKS,0.5,2025
-Dalton Knecht,1642261,Driving Floating Bank Jump Shot,2PT Field Goal,4,3,SPECIALTY_SHOTS,0.75,2025
-Dalton Knecht,1642261,Driving Floating Jump Shot,2PT Field Goal,6,5,SPECIALTY_SHOTS,0.8333333333333334,2025
-Dalton Knecht,1642261,Driving Layup Shot,2PT Field Goal,7,2,LAYUPS,0.2857142857142857,2025
-Dalton Knecht,1642261,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2025
-Dalton Knecht,1642261,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
-Dalton Knecht,1642261,Jump Bank Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
-Dalton Knecht,1642261,Jump Bank Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2025
-Dalton Knecht,1642261,Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2025
-Dalton Knecht,1642261,Jump Shot,3PT Field Goal,75,21,JUMP_SHOTS,0.42,2025
-Dalton Knecht,1642261,Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2025
-Dalton Knecht,1642261,Pullup Jump shot,2PT Field Goal,13,8,JUMP_SHOTS,0.6153846153846154,2025
-Dalton Knecht,1642261,Pullup Jump shot,3PT Field Goal,4,2,JUMP_SHOTS,0.75,2025
-Dalton Knecht,1642261,Putback Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2025
-Dalton Knecht,1642261,Reverse Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2025
-Dalton Knecht,1642261,Running Alley Oop Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Dalton Knecht,1642261,Running Dunk Shot,2PT Field Goal,3,3,DUNKS,1.0,2025
-Dalton Knecht,1642261,Running Jump Shot,3PT Field Goal,12,2,JUMP_SHOTS,0.25,2025
-Dalton Knecht,1642261,Running Layup Shot,2PT Field Goal,6,5,LAYUPS,0.8333333333333334,2025
-Dalton Knecht,1642261,Running Pull-Up Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
-Dalton Knecht,1642261,Running Pull-Up Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2025
-Dalton Knecht,1642261,Running Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Dalton Knecht,1642261,Step Back Jump shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2025
-Dalton Knecht,1642261,Tip Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Dalton Knecht,1642261,Turnaround Fadeaway shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2025
-Dalton Knecht,1642261,Turnaround Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
+Dalton Knecht,1642261,Alley Oop Dunk Shot,2PT Field Goal,1,1,SPECIALTY_DUNKS,1.0,2025
+Dalton Knecht,1642261,Alley Oop Layup shot,2PT Field Goal,1,1,SPECIALTY_LAYUPS,1.0,2025
+Dalton Knecht,1642261,Cutting Dunk Shot,2PT Field Goal,6,5,SPECIALTY_DUNKS,0.8333333333333334,2025
+Dalton Knecht,1642261,Cutting Layup Shot,2PT Field Goal,5,4,STANDARD_LAYUPS,0.8,2025
+Dalton Knecht,1642261,Driving Dunk Shot,2PT Field Goal,2,1,DRIVING_DUNKS,0.5,2025
+Dalton Knecht,1642261,Driving Floating Bank Jump Shot,2PT Field Goal,4,3,FLOATING_SHOTS,0.75,2025
+Dalton Knecht,1642261,Driving Floating Jump Shot,2PT Field Goal,6,5,FLOATING_SHOTS,0.8333333333333334,2025
+Dalton Knecht,1642261,Driving Layup Shot,2PT Field Goal,7,2,DRIVING_LAYUPS,0.2857142857142857,2025
+Dalton Knecht,1642261,Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2025
+Dalton Knecht,1642261,Fadeaway Jump Shot,2PT Field Goal,1,0,FADEAWAY_JUMPERS,0.0,2025
+Dalton Knecht,1642261,Jump Bank Shot,2PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2025
+Dalton Knecht,1642261,Jump Bank Shot,3PT Field Goal,1,1,STANDARD_JUMP_SHOTS,1.5,2025
+Dalton Knecht,1642261,Jump Shot,2PT Field Goal,2,1,STANDARD_JUMP_SHOTS,0.5,2025
+Dalton Knecht,1642261,Jump Shot,3PT Field Goal,78,21,STANDARD_JUMP_SHOTS,0.4038461538461538,2025
+Dalton Knecht,1642261,Layup Shot,2PT Field Goal,2,2,STANDARD_LAYUPS,1.0,2025
+Dalton Knecht,1642261,Pullup Jump shot,2PT Field Goal,13,8,STANDARD_JUMP_SHOTS,0.6153846153846154,2025
+Dalton Knecht,1642261,Pullup Jump shot,3PT Field Goal,5,2,STANDARD_JUMP_SHOTS,0.6,2025
+Dalton Knecht,1642261,Putback Layup Shot,2PT Field Goal,1,0,SPECIALTY_LAYUPS,0.0,2025
+Dalton Knecht,1642261,Reverse Layup Shot,2PT Field Goal,2,2,SPECIALTY_LAYUPS,1.0,2025
+Dalton Knecht,1642261,Running Alley Oop Layup Shot,2PT Field Goal,1,1,SPECIALTY_LAYUPS,1.0,2025
+Dalton Knecht,1642261,Running Dunk Shot,2PT Field Goal,3,3,BASIC_DUNKS,1.0,2025
+Dalton Knecht,1642261,Running Jump Shot,3PT Field Goal,12,2,MOVING_JUMPERS,0.25,2025
+Dalton Knecht,1642261,Running Layup Shot,2PT Field Goal,6,5,STANDARD_LAYUPS,0.8333333333333334,2025
+Dalton Knecht,1642261,Running Pull-Up Jump Shot,2PT Field Goal,1,0,MOVING_JUMPERS,0.0,2025
+Dalton Knecht,1642261,Running Pull-Up Jump Shot,3PT Field Goal,1,1,MOVING_JUMPERS,1.5,2025
+Dalton Knecht,1642261,Running Reverse Layup Shot,2PT Field Goal,1,1,SPECIALTY_LAYUPS,1.0,2025
+Dalton Knecht,1642261,Step Back Jump shot,3PT Field Goal,2,1,STEP_BACK_JUMPERS,0.75,2025
+Dalton Knecht,1642261,Tip Layup Shot,2PT Field Goal,1,1,SPECIALTY_LAYUPS,1.0,2025
+Dalton Knecht,1642261,Turnaround Fadeaway shot,2PT Field Goal,2,1,FADEAWAY_JUMPERS,0.5,2025
+Dalton Knecht,1642261,Turnaround Jump Shot,3PT Field Goal,1,0,TURNAROUND_JUMPERS,0.0,2025

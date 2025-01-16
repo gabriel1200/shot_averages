@@ -1,36 +1,36 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Chris Mills,168,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,1997
-Chris Mills,168,Driving Layup Shot,2PT Field Goal,8,8,LAYUPS,1.0,1997
-Chris Mills,168,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,1997
-Chris Mills,168,Hook Shot,2PT Field Goal,2,2,POST_MOVES,1.0,1997
-Chris Mills,168,Jump Shot,2PT Field Goal,40,21,JUMP_SHOTS,0.525,1997
-Chris Mills,168,Jump Shot,3PT Field Goal,20,8,JUMP_SHOTS,0.6,1997
-Chris Mills,168,Layup Shot,2PT Field Goal,24,5,LAYUPS,0.2083333333333333,1997
-Chris Mills,168,Slam Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,1997
-Chris Mills,168,Tip Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,0.0,1997
-Chris Mills,168,Driving Layup Shot,2PT Field Goal,8,7,LAYUPS,0.875,1998
-Chris Mills,168,Jump Shot,2PT Field Goal,37,14,JUMP_SHOTS,0.3783783783783784,1998
-Chris Mills,168,Jump Shot,3PT Field Goal,26,10,JUMP_SHOTS,0.5769230769230769,1998
-Chris Mills,168,Layup Shot,2PT Field Goal,17,10,LAYUPS,0.5882352941176471,1998
-Chris Mills,168,Running Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,1998
-Chris Mills,168,Tip Shot,2PT Field Goal,4,0,SPECIALTY_SHOTS,0.0,1998
-Chris Mills,168,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,1999
-Chris Mills,168,Jump Shot,2PT Field Goal,26,9,JUMP_SHOTS,0.3461538461538461,1999
-Chris Mills,168,Jump Shot,3PT Field Goal,13,5,JUMP_SHOTS,0.5769230769230769,1999
-Chris Mills,168,Layup Shot,2PT Field Goal,5,3,LAYUPS,0.6,1999
-Chris Mills,168,Running Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,0.3333333333333333,1999
-Chris Mills,168,Tip Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,0.0,1999
-Chris Mills,168,Jump Shot,2PT Field Goal,8,2,JUMP_SHOTS,0.25,2000
-Chris Mills,168,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2000
-Chris Mills,168,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2001
-Chris Mills,168,Jump Shot,2PT Field Goal,6,3,JUMP_SHOTS,0.5,2001
-Chris Mills,168,Layup Shot,2PT Field Goal,2,0,LAYUPS,0.0,2001
-Chris Mills,168,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2002
-Chris Mills,168,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2002
-Chris Mills,168,Jump Shot,2PT Field Goal,13,6,JUMP_SHOTS,0.4615384615384615,2002
-Chris Mills,168,Jump Shot,3PT Field Goal,10,3,JUMP_SHOTS,0.45,2002
-Chris Mills,168,Layup Shot,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2002
-Chris Mills,168,Running Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2002
-Chris Mills,168,Tip Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,0.0,2002
-Chris Mills,168,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2002
-Chris Mills,168,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2003
+Chris Mills,168,Driving Dunk Shot,2PT Field Goal,1,1,DRIVING_DUNKS,1.0,1997
+Chris Mills,168,Driving Layup Shot,2PT Field Goal,8,8,DRIVING_LAYUPS,1.0,1997
+Chris Mills,168,Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,1997
+Chris Mills,168,Hook Shot,2PT Field Goal,2,2,STANDARD_HOOKS,1.0,1997
+Chris Mills,168,Jump Shot,2PT Field Goal,40,21,STANDARD_JUMP_SHOTS,0.525,1997
+Chris Mills,168,Jump Shot,3PT Field Goal,20,8,STANDARD_JUMP_SHOTS,0.6,1997
+Chris Mills,168,Layup Shot,2PT Field Goal,24,5,STANDARD_LAYUPS,0.2083333333333333,1997
+Chris Mills,168,Slam Dunk Shot,2PT Field Goal,2,2,BASIC_DUNKS,1.0,1997
+Chris Mills,168,Tip Shot,2PT Field Goal,1,0,TIP_SHOTS,0.0,1997
+Chris Mills,168,Driving Layup Shot,2PT Field Goal,8,7,DRIVING_LAYUPS,0.875,1998
+Chris Mills,168,Jump Shot,2PT Field Goal,37,14,STANDARD_JUMP_SHOTS,0.3783783783783784,1998
+Chris Mills,168,Jump Shot,3PT Field Goal,26,10,STANDARD_JUMP_SHOTS,0.5769230769230769,1998
+Chris Mills,168,Layup Shot,2PT Field Goal,17,10,STANDARD_LAYUPS,0.5882352941176471,1998
+Chris Mills,168,Running Jump Shot,2PT Field Goal,2,2,MOVING_JUMPERS,1.0,1998
+Chris Mills,168,Tip Shot,2PT Field Goal,4,0,TIP_SHOTS,0.0,1998
+Chris Mills,168,Hook Shot,2PT Field Goal,1,1,STANDARD_HOOKS,1.0,1999
+Chris Mills,168,Jump Shot,2PT Field Goal,26,9,STANDARD_JUMP_SHOTS,0.3461538461538461,1999
+Chris Mills,168,Jump Shot,3PT Field Goal,13,5,STANDARD_JUMP_SHOTS,0.5769230769230769,1999
+Chris Mills,168,Layup Shot,2PT Field Goal,5,3,STANDARD_LAYUPS,0.6,1999
+Chris Mills,168,Running Jump Shot,2PT Field Goal,3,1,MOVING_JUMPERS,0.3333333333333333,1999
+Chris Mills,168,Tip Shot,2PT Field Goal,1,0,TIP_SHOTS,0.0,1999
+Chris Mills,168,Jump Shot,2PT Field Goal,8,2,STANDARD_JUMP_SHOTS,0.25,2000
+Chris Mills,168,Layup Shot,2PT Field Goal,1,1,STANDARD_LAYUPS,1.0,2000
+Chris Mills,168,Hook Shot,2PT Field Goal,1,0,STANDARD_HOOKS,0.0,2001
+Chris Mills,168,Jump Shot,2PT Field Goal,6,3,STANDARD_JUMP_SHOTS,0.5,2001
+Chris Mills,168,Layup Shot,2PT Field Goal,2,0,STANDARD_LAYUPS,0.0,2001
+Chris Mills,168,Fadeaway Jump Shot,2PT Field Goal,1,1,FADEAWAY_JUMPERS,1.0,2002
+Chris Mills,168,Hook Shot,2PT Field Goal,1,1,STANDARD_HOOKS,1.0,2002
+Chris Mills,168,Jump Shot,2PT Field Goal,13,6,STANDARD_JUMP_SHOTS,0.4615384615384615,2002
+Chris Mills,168,Jump Shot,3PT Field Goal,10,3,STANDARD_JUMP_SHOTS,0.45,2002
+Chris Mills,168,Layup Shot,2PT Field Goal,3,2,STANDARD_LAYUPS,0.6666666666666666,2002
+Chris Mills,168,Running Layup Shot,2PT Field Goal,1,1,STANDARD_LAYUPS,1.0,2002
+Chris Mills,168,Tip Shot,2PT Field Goal,1,0,TIP_SHOTS,0.0,2002
+Chris Mills,168,Turnaround Jump Shot,2PT Field Goal,1,1,TURNAROUND_JUMPERS,1.0,2002
+Chris Mills,168,Jump Shot,2PT Field Goal,1,1,STANDARD_JUMP_SHOTS,1.0,2003

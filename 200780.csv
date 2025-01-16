@@ -1,39 +1,39 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Solomon Jones,200780,Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2007
-Solomon Jones,200780,Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2007
-Solomon Jones,200780,Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2008
-Solomon Jones,200780,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2008
-Solomon Jones,200780,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2008
-Solomon Jones,200780,Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2009
-Solomon Jones,200780,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2009
-Solomon Jones,200780,Jump Shot,2PT Field Goal,6,4,JUMP_SHOTS,0.6666666666666666,2009
-Solomon Jones,200780,Layup Shot,2PT Field Goal,4,1,LAYUPS,0.25,2009
-Solomon Jones,200780,Putback Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2009
-Solomon Jones,200780,Putback Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2009
-Solomon Jones,200780,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2009
-Solomon Jones,200780,Turnaround Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2009
-Solomon Jones,200780,Turnaround Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2009
-Solomon Jones,200780,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2010
-Solomon Jones,200780,Dunk Shot,2PT Field Goal,5,4,DUNKS,0.8,2010
-Solomon Jones,200780,Jump Shot,2PT Field Goal,16,4,JUMP_SHOTS,0.25,2010
-Solomon Jones,200780,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2010
-Solomon Jones,200780,Layup Shot,2PT Field Goal,7,4,LAYUPS,0.5714285714285714,2010
-Solomon Jones,200780,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2010
-Solomon Jones,200780,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2010
-Solomon Jones,200780,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2010
-Solomon Jones,200780,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2011
-Solomon Jones,200780,Jump Shot,2PT Field Goal,14,1,JUMP_SHOTS,0.0714285714285714,2011
-Solomon Jones,200780,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2011
-Solomon Jones,200780,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2011
-Solomon Jones,200780,Tip Shot,2PT Field Goal,2,0,SPECIALTY_SHOTS,0.0,2011
-Solomon Jones,200780,Turnaround Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2011
-Solomon Jones,200780,Driving Jump shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2012
-Solomon Jones,200780,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2012
-Solomon Jones,200780,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2012
-Solomon Jones,200780,Jump Shot,2PT Field Goal,12,4,JUMP_SHOTS,0.3333333333333333,2012
-Solomon Jones,200780,Layup Shot,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2012
-Solomon Jones,200780,Putback Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2012
-Solomon Jones,200780,Tip Shot,2PT Field Goal,2,1,SPECIALTY_SHOTS,0.5,2012
-Solomon Jones,200780,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2014
-Solomon Jones,200780,Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,0.6666666666666666,2014
-Solomon Jones,200780,Tip Shot,2PT Field Goal,2,0,SPECIALTY_SHOTS,0.0,2014
+Solomon Jones,200780,Jump Shot,2PT Field Goal,2,1,STANDARD_JUMP_SHOTS,0.5,2007
+Solomon Jones,200780,Layup Shot,2PT Field Goal,1,0,STANDARD_LAYUPS,0.0,2007
+Solomon Jones,200780,Jump Shot,2PT Field Goal,2,0,STANDARD_JUMP_SHOTS,0.0,2008
+Solomon Jones,200780,Layup Shot,2PT Field Goal,1,1,STANDARD_LAYUPS,1.0,2008
+Solomon Jones,200780,Running Jump Shot,2PT Field Goal,1,1,MOVING_JUMPERS,1.0,2008
+Solomon Jones,200780,Dunk Shot,2PT Field Goal,2,2,BASIC_DUNKS,1.0,2009
+Solomon Jones,200780,Hook Shot,2PT Field Goal,1,1,STANDARD_HOOKS,1.0,2009
+Solomon Jones,200780,Jump Shot,2PT Field Goal,6,4,STANDARD_JUMP_SHOTS,0.6666666666666666,2009
+Solomon Jones,200780,Layup Shot,2PT Field Goal,4,1,STANDARD_LAYUPS,0.25,2009
+Solomon Jones,200780,Putback Dunk Shot,2PT Field Goal,1,1,SPECIALTY_DUNKS,1.0,2009
+Solomon Jones,200780,Putback Layup Shot,2PT Field Goal,2,1,SPECIALTY_LAYUPS,0.5,2009
+Solomon Jones,200780,Slam Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2009
+Solomon Jones,200780,Turnaround Hook Shot,2PT Field Goal,1,0,SPECIALTY_HOOKS,0.0,2009
+Solomon Jones,200780,Turnaround Jump Shot,2PT Field Goal,2,0,TURNAROUND_JUMPERS,0.0,2009
+Solomon Jones,200780,Driving Layup Shot,2PT Field Goal,1,1,DRIVING_LAYUPS,1.0,2010
+Solomon Jones,200780,Dunk Shot,2PT Field Goal,5,4,BASIC_DUNKS,0.8,2010
+Solomon Jones,200780,Jump Shot,2PT Field Goal,16,4,STANDARD_JUMP_SHOTS,0.25,2010
+Solomon Jones,200780,Jump Shot,3PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2010
+Solomon Jones,200780,Layup Shot,2PT Field Goal,7,4,STANDARD_LAYUPS,0.5714285714285714,2010
+Solomon Jones,200780,Running Jump Shot,2PT Field Goal,1,0,MOVING_JUMPERS,0.0,2010
+Solomon Jones,200780,Slam Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2010
+Solomon Jones,200780,Turnaround Jump Shot,2PT Field Goal,1,0,TURNAROUND_JUMPERS,0.0,2010
+Solomon Jones,200780,Hook Shot,2PT Field Goal,1,0,STANDARD_HOOKS,0.0,2011
+Solomon Jones,200780,Jump Shot,2PT Field Goal,14,1,STANDARD_JUMP_SHOTS,0.0714285714285714,2011
+Solomon Jones,200780,Layup Shot,2PT Field Goal,1,1,STANDARD_LAYUPS,1.0,2011
+Solomon Jones,200780,Slam Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2011
+Solomon Jones,200780,Tip Shot,2PT Field Goal,2,0,TIP_SHOTS,0.0,2011
+Solomon Jones,200780,Turnaround Hook Shot,2PT Field Goal,1,1,SPECIALTY_HOOKS,1.0,2011
+Solomon Jones,200780,Driving Jump shot,2PT Field Goal,1,1,MOVING_JUMPERS,1.0,2012
+Solomon Jones,200780,Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2012
+Solomon Jones,200780,Hook Shot,2PT Field Goal,1,0,STANDARD_HOOKS,0.0,2012
+Solomon Jones,200780,Jump Shot,2PT Field Goal,12,4,STANDARD_JUMP_SHOTS,0.3333333333333333,2012
+Solomon Jones,200780,Layup Shot,2PT Field Goal,3,2,STANDARD_LAYUPS,0.6666666666666666,2012
+Solomon Jones,200780,Putback Layup Shot,2PT Field Goal,1,1,SPECIALTY_LAYUPS,1.0,2012
+Solomon Jones,200780,Tip Shot,2PT Field Goal,2,1,TIP_SHOTS,0.5,2012
+Solomon Jones,200780,Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2014
+Solomon Jones,200780,Jump Shot,2PT Field Goal,3,2,STANDARD_JUMP_SHOTS,0.6666666666666666,2014
+Solomon Jones,200780,Tip Shot,2PT Field Goal,2,0,TIP_SHOTS,0.0,2014

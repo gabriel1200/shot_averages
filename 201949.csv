@@ -1,39 +1,39 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-James Johnson,201949,Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2014
-James Johnson,201949,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,2014
-James Johnson,201949,Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2014
-James Johnson,201949,Tip Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,0.0,2014
-James Johnson,201949,Alley Oop Layup shot,2PT Field Goal,1,0,LAYUPS,0.0,2017
-James Johnson,201949,Cutting Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2017
-James Johnson,201949,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2017
-James Johnson,201949,Driving Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2017
-James Johnson,201949,Driving Layup Shot,2PT Field Goal,8,2,LAYUPS,0.25,2017
-James Johnson,201949,Driving Reverse Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2017
-James Johnson,201949,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2017
-James Johnson,201949,Jump Shot,2PT Field Goal,9,2,JUMP_SHOTS,0.2222222222222222,2017
-James Johnson,201949,Jump Shot,3PT Field Goal,15,6,JUMP_SHOTS,0.6,2017
-James Johnson,201949,Layup Shot,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2017
-James Johnson,201949,Pullup Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2017
-James Johnson,201949,Putback Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2017
-James Johnson,201949,Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2017
-James Johnson,201949,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2017
-James Johnson,201949,Step Back Jump shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2017
-James Johnson,201949,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2017
-James Johnson,201949,Cutting Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2018
-James Johnson,201949,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2018
-James Johnson,201949,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2018
-James Johnson,201949,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2018
-James Johnson,201949,Jump Shot,3PT Field Goal,3,1,JUMP_SHOTS,0.5,2018
-James Johnson,201949,Tip Layup Shot,2PT Field Goal,2,0,LAYUPS,0.0,2018
-James Johnson,201949,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2019
-James Johnson,201949,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2019
-James Johnson,201949,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2019
-James Johnson,201949,Cutting Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2024
-James Johnson,201949,Driving Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2024
-James Johnson,201949,Pullup Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-James Johnson,201949,Running Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-James Johnson,201949,Step Back Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-James Johnson,201949,Cutting Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2025
-James Johnson,201949,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2025
-James Johnson,201949,Pullup Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
-James Johnson,201949,Step Back Jump shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2025
+James Johnson,201949,Dunk Shot,2PT Field Goal,2,2,BASIC_DUNKS,1.0,2014
+James Johnson,201949,Jump Shot,3PT Field Goal,2,0,STANDARD_JUMP_SHOTS,0.0,2014
+James Johnson,201949,Layup Shot,2PT Field Goal,2,2,STANDARD_LAYUPS,1.0,2014
+James Johnson,201949,Tip Shot,2PT Field Goal,1,0,TIP_SHOTS,0.0,2014
+James Johnson,201949,Alley Oop Layup shot,2PT Field Goal,1,0,SPECIALTY_LAYUPS,0.0,2017
+James Johnson,201949,Cutting Layup Shot,2PT Field Goal,1,1,STANDARD_LAYUPS,1.0,2017
+James Johnson,201949,Driving Dunk Shot,2PT Field Goal,1,1,DRIVING_DUNKS,1.0,2017
+James Johnson,201949,Driving Finger Roll Layup Shot,2PT Field Goal,1,1,FINGER_ROLLS,1.0,2017
+James Johnson,201949,Driving Layup Shot,2PT Field Goal,8,2,DRIVING_LAYUPS,0.25,2017
+James Johnson,201949,Driving Reverse Layup Shot,2PT Field Goal,2,1,DRIVING_LAYUPS,0.5,2017
+James Johnson,201949,Hook Shot,2PT Field Goal,1,1,STANDARD_HOOKS,1.0,2017
+James Johnson,201949,Jump Shot,2PT Field Goal,9,2,STANDARD_JUMP_SHOTS,0.2222222222222222,2017
+James Johnson,201949,Jump Shot,3PT Field Goal,15,6,STANDARD_JUMP_SHOTS,0.6,2017
+James Johnson,201949,Layup Shot,2PT Field Goal,3,1,STANDARD_LAYUPS,0.3333333333333333,2017
+James Johnson,201949,Pullup Jump shot,2PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2017
+James Johnson,201949,Putback Layup Shot,2PT Field Goal,1,1,SPECIALTY_LAYUPS,1.0,2017
+James Johnson,201949,Reverse Layup Shot,2PT Field Goal,1,0,SPECIALTY_LAYUPS,0.0,2017
+James Johnson,201949,Running Jump Shot,2PT Field Goal,1,1,MOVING_JUMPERS,1.0,2017
+James Johnson,201949,Step Back Jump shot,3PT Field Goal,1,0,STEP_BACK_JUMPERS,0.0,2017
+James Johnson,201949,Turnaround Jump Shot,2PT Field Goal,1,1,TURNAROUND_JUMPERS,1.0,2017
+James Johnson,201949,Cutting Layup Shot,2PT Field Goal,1,1,STANDARD_LAYUPS,1.0,2018
+James Johnson,201949,Driving Dunk Shot,2PT Field Goal,1,1,DRIVING_DUNKS,1.0,2018
+James Johnson,201949,Driving Layup Shot,2PT Field Goal,1,1,DRIVING_LAYUPS,1.0,2018
+James Johnson,201949,Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2018
+James Johnson,201949,Jump Shot,3PT Field Goal,3,1,STANDARD_JUMP_SHOTS,0.5,2018
+James Johnson,201949,Tip Layup Shot,2PT Field Goal,2,0,SPECIALTY_LAYUPS,0.0,2018
+James Johnson,201949,Fadeaway Jump Shot,2PT Field Goal,1,0,FADEAWAY_JUMPERS,0.0,2019
+James Johnson,201949,Jump Shot,2PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2019
+James Johnson,201949,Jump Shot,3PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2019
+James Johnson,201949,Cutting Dunk Shot,2PT Field Goal,1,1,SPECIALTY_DUNKS,1.0,2024
+James Johnson,201949,Driving Layup Shot,2PT Field Goal,1,0,DRIVING_LAYUPS,0.0,2024
+James Johnson,201949,Pullup Jump shot,2PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2024
+James Johnson,201949,Running Jump Shot,3PT Field Goal,1,0,MOVING_JUMPERS,0.0,2024
+James Johnson,201949,Step Back Jump shot,2PT Field Goal,1,0,STEP_BACK_JUMPERS,0.0,2024
+James Johnson,201949,Cutting Layup Shot,2PT Field Goal,1,1,STANDARD_LAYUPS,1.0,2025
+James Johnson,201949,Driving Layup Shot,2PT Field Goal,1,1,DRIVING_LAYUPS,1.0,2025
+James Johnson,201949,Pullup Jump shot,2PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2025
+James Johnson,201949,Step Back Jump shot,2PT Field Goal,1,1,STEP_BACK_JUMPERS,1.0,2025

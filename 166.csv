@@ -1,43 +1,43 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Ron Harper,166,Driving Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,1997
-Ron Harper,166,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,1997
-Ron Harper,166,Jump Shot,2PT Field Goal,31,9,JUMP_SHOTS,0.2903225806451613,1997
-Ron Harper,166,Jump Shot,3PT Field Goal,44,22,JUMP_SHOTS,0.75,1997
-Ron Harper,166,Layup Shot,2PT Field Goal,27,16,LAYUPS,0.5925925925925926,1997
-Ron Harper,166,Running Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,1997
-Ron Harper,166,Tip Shot,2PT Field Goal,2,0,SPECIALTY_SHOTS,0.0,1997
-Ron Harper,166,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,1998
-Ron Harper,166,Driving Layup Shot,2PT Field Goal,10,8,LAYUPS,0.8,1998
-Ron Harper,166,Hook Shot,2PT Field Goal,2,1,POST_MOVES,0.5,1998
-Ron Harper,166,Jump Shot,2PT Field Goal,49,12,JUMP_SHOTS,0.2448979591836734,1998
-Ron Harper,166,Jump Shot,3PT Field Goal,13,1,JUMP_SHOTS,0.1153846153846153,1998
-Ron Harper,166,Layup Shot,2PT Field Goal,29,17,LAYUPS,0.5862068965517241,1998
-Ron Harper,166,Running Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,1998
-Ron Harper,166,Tip Shot,2PT Field Goal,2,1,SPECIALTY_SHOTS,0.5,1998
-Ron Harper,166,Driving Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,1999
-Ron Harper,166,Jump Shot,2PT Field Goal,28,8,JUMP_SHOTS,0.2857142857142857,1999
-Ron Harper,166,Jump Shot,3PT Field Goal,8,3,JUMP_SHOTS,0.5625,1999
-Ron Harper,166,Layup Shot,2PT Field Goal,8,3,LAYUPS,0.375,1999
-Ron Harper,166,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,1999
-Ron Harper,166,Tip Shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,1.0,1999
-Ron Harper,166,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2000
-Ron Harper,166,Driving Layup Shot,2PT Field Goal,60,37,LAYUPS,0.6166666666666667,2000
-Ron Harper,166,Dunk Shot,2PT Field Goal,3,1,DUNKS,0.3333333333333333,2000
-Ron Harper,166,Hook Shot,2PT Field Goal,4,1,POST_MOVES,0.25,2000
-Ron Harper,166,Jump Shot,2PT Field Goal,98,23,JUMP_SHOTS,0.2346938775510204,2000
-Ron Harper,166,Jump Shot,3PT Field Goal,54,18,JUMP_SHOTS,0.5,2000
-Ron Harper,166,Layup Shot,2PT Field Goal,43,27,LAYUPS,0.627906976744186,2000
-Ron Harper,166,Running Jump Shot,2PT Field Goal,8,4,JUMP_SHOTS,0.5,2000
-Ron Harper,166,Slam Dunk Shot,2PT Field Goal,3,3,DUNKS,1.0,2000
-Ron Harper,166,Tip Shot,2PT Field Goal,9,2,SPECIALTY_SHOTS,0.2222222222222222,2000
-Ron Harper,166,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2001
-Ron Harper,166,Driving Layup Shot,2PT Field Goal,22,13,LAYUPS,0.5909090909090909,2001
-Ron Harper,166,Jump Shot,2PT Field Goal,37,12,JUMP_SHOTS,0.3243243243243243,2001
-Ron Harper,166,Jump Shot,3PT Field Goal,46,14,JUMP_SHOTS,0.4565217391304347,2001
-Ron Harper,166,Layup Shot,2PT Field Goal,17,11,LAYUPS,0.6470588235294118,2001
-Ron Harper,166,Reverse Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2001
-Ron Harper,166,Running Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2001
-Ron Harper,166,Running Jump Shot,2PT Field Goal,5,3,JUMP_SHOTS,0.6,2001
-Ron Harper,166,Slam Dunk Shot,2PT Field Goal,5,5,DUNKS,1.0,2001
-Ron Harper,166,Tip Shot,2PT Field Goal,3,2,SPECIALTY_SHOTS,0.6666666666666666,2001
-Ron Harper,166,Turnaround Jump Shot,2PT Field Goal,4,3,JUMP_SHOTS,0.75,2001
+Ron Harper,166,Driving Layup Shot,2PT Field Goal,2,2,DRIVING_LAYUPS,1.0,1997
+Ron Harper,166,Hook Shot,2PT Field Goal,1,0,STANDARD_HOOKS,0.0,1997
+Ron Harper,166,Jump Shot,2PT Field Goal,31,9,STANDARD_JUMP_SHOTS,0.2903225806451613,1997
+Ron Harper,166,Jump Shot,3PT Field Goal,44,22,STANDARD_JUMP_SHOTS,0.75,1997
+Ron Harper,166,Layup Shot,2PT Field Goal,27,16,STANDARD_LAYUPS,0.5925925925925926,1997
+Ron Harper,166,Running Jump Shot,2PT Field Goal,2,1,MOVING_JUMPERS,0.5,1997
+Ron Harper,166,Tip Shot,2PT Field Goal,2,0,TIP_SHOTS,0.0,1997
+Ron Harper,166,Driving Dunk Shot,2PT Field Goal,1,1,DRIVING_DUNKS,1.0,1998
+Ron Harper,166,Driving Layup Shot,2PT Field Goal,10,8,DRIVING_LAYUPS,0.8,1998
+Ron Harper,166,Hook Shot,2PT Field Goal,2,1,STANDARD_HOOKS,0.5,1998
+Ron Harper,166,Jump Shot,2PT Field Goal,49,12,STANDARD_JUMP_SHOTS,0.2448979591836734,1998
+Ron Harper,166,Jump Shot,3PT Field Goal,13,1,STANDARD_JUMP_SHOTS,0.1153846153846153,1998
+Ron Harper,166,Layup Shot,2PT Field Goal,29,17,STANDARD_LAYUPS,0.5862068965517241,1998
+Ron Harper,166,Running Jump Shot,2PT Field Goal,2,2,MOVING_JUMPERS,1.0,1998
+Ron Harper,166,Tip Shot,2PT Field Goal,2,1,TIP_SHOTS,0.5,1998
+Ron Harper,166,Driving Layup Shot,2PT Field Goal,2,1,DRIVING_LAYUPS,0.5,1999
+Ron Harper,166,Jump Shot,2PT Field Goal,28,8,STANDARD_JUMP_SHOTS,0.2857142857142857,1999
+Ron Harper,166,Jump Shot,3PT Field Goal,8,3,STANDARD_JUMP_SHOTS,0.5625,1999
+Ron Harper,166,Layup Shot,2PT Field Goal,8,3,STANDARD_LAYUPS,0.375,1999
+Ron Harper,166,Running Jump Shot,2PT Field Goal,1,0,MOVING_JUMPERS,0.0,1999
+Ron Harper,166,Tip Shot,2PT Field Goal,1,1,TIP_SHOTS,1.0,1999
+Ron Harper,166,Driving Dunk Shot,2PT Field Goal,1,1,DRIVING_DUNKS,1.0,2000
+Ron Harper,166,Driving Layup Shot,2PT Field Goal,60,37,DRIVING_LAYUPS,0.6166666666666667,2000
+Ron Harper,166,Dunk Shot,2PT Field Goal,3,1,BASIC_DUNKS,0.3333333333333333,2000
+Ron Harper,166,Hook Shot,2PT Field Goal,4,1,STANDARD_HOOKS,0.25,2000
+Ron Harper,166,Jump Shot,2PT Field Goal,98,23,STANDARD_JUMP_SHOTS,0.2346938775510204,2000
+Ron Harper,166,Jump Shot,3PT Field Goal,54,18,STANDARD_JUMP_SHOTS,0.5,2000
+Ron Harper,166,Layup Shot,2PT Field Goal,43,27,STANDARD_LAYUPS,0.627906976744186,2000
+Ron Harper,166,Running Jump Shot,2PT Field Goal,8,4,MOVING_JUMPERS,0.5,2000
+Ron Harper,166,Slam Dunk Shot,2PT Field Goal,3,3,BASIC_DUNKS,1.0,2000
+Ron Harper,166,Tip Shot,2PT Field Goal,9,2,TIP_SHOTS,0.2222222222222222,2000
+Ron Harper,166,Driving Dunk Shot,2PT Field Goal,1,1,DRIVING_DUNKS,1.0,2001
+Ron Harper,166,Driving Layup Shot,2PT Field Goal,22,13,DRIVING_LAYUPS,0.5909090909090909,2001
+Ron Harper,166,Jump Shot,2PT Field Goal,37,12,STANDARD_JUMP_SHOTS,0.3243243243243243,2001
+Ron Harper,166,Jump Shot,3PT Field Goal,46,14,STANDARD_JUMP_SHOTS,0.4565217391304347,2001
+Ron Harper,166,Layup Shot,2PT Field Goal,17,11,STANDARD_LAYUPS,0.6470588235294118,2001
+Ron Harper,166,Reverse Layup Shot,2PT Field Goal,2,1,SPECIALTY_LAYUPS,0.5,2001
+Ron Harper,166,Running Hook Shot,2PT Field Goal,1,1,STANDARD_HOOKS,1.0,2001
+Ron Harper,166,Running Jump Shot,2PT Field Goal,5,3,MOVING_JUMPERS,0.6,2001
+Ron Harper,166,Slam Dunk Shot,2PT Field Goal,5,5,BASIC_DUNKS,1.0,2001
+Ron Harper,166,Tip Shot,2PT Field Goal,3,2,TIP_SHOTS,0.6666666666666666,2001
+Ron Harper,166,Turnaround Jump Shot,2PT Field Goal,4,3,TURNAROUND_JUMPERS,0.75,2001

@@ -1,13 +1,13 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-George McCloud,45,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,1997
-George McCloud,45,Jump Shot,2PT Field Goal,13,6,JUMP_SHOTS,0.4615384615384615,1997
-George McCloud,45,Jump Shot,3PT Field Goal,12,4,JUMP_SHOTS,0.5,1997
-George McCloud,45,Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,1997
-George McCloud,45,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,1997
-George McCloud,45,Driving Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,1998
-George McCloud,45,Jump Shot,2PT Field Goal,11,2,JUMP_SHOTS,0.1818181818181818,1998
-George McCloud,45,Jump Shot,3PT Field Goal,9,1,JUMP_SHOTS,0.1666666666666666,1998
-George McCloud,45,Layup Shot,2PT Field Goal,4,0,LAYUPS,0.0,1998
-George McCloud,45,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2001
-George McCloud,45,Jump Shot,2PT Field Goal,4,1,JUMP_SHOTS,0.25,2001
-George McCloud,45,Jump Shot,3PT Field Goal,3,0,JUMP_SHOTS,0.0,2001
+George McCloud,45,Driving Layup Shot,2PT Field Goal,1,1,DRIVING_LAYUPS,1.0,1997
+George McCloud,45,Jump Shot,2PT Field Goal,13,6,STANDARD_JUMP_SHOTS,0.4615384615384615,1997
+George McCloud,45,Jump Shot,3PT Field Goal,12,4,STANDARD_JUMP_SHOTS,0.5,1997
+George McCloud,45,Layup Shot,2PT Field Goal,1,0,STANDARD_LAYUPS,0.0,1997
+George McCloud,45,Slam Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,1997
+George McCloud,45,Driving Layup Shot,2PT Field Goal,2,1,DRIVING_LAYUPS,0.5,1998
+George McCloud,45,Jump Shot,2PT Field Goal,11,2,STANDARD_JUMP_SHOTS,0.1818181818181818,1998
+George McCloud,45,Jump Shot,3PT Field Goal,9,1,STANDARD_JUMP_SHOTS,0.1666666666666666,1998
+George McCloud,45,Layup Shot,2PT Field Goal,4,0,STANDARD_LAYUPS,0.0,1998
+George McCloud,45,Driving Layup Shot,2PT Field Goal,1,1,DRIVING_LAYUPS,1.0,2001
+George McCloud,45,Jump Shot,2PT Field Goal,4,1,STANDARD_JUMP_SHOTS,0.25,2001
+George McCloud,45,Jump Shot,3PT Field Goal,3,0,STANDARD_JUMP_SHOTS,0.0,2001

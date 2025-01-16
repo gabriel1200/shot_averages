@@ -1,27 +1,27 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Ivan Johnson,201274,Driving Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2012
-Ivan Johnson,201274,Driving Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2012
-Ivan Johnson,201274,Dunk Shot,2PT Field Goal,3,3,DUNKS,1.0,2012
-Ivan Johnson,201274,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2012
-Ivan Johnson,201274,Jump Shot,2PT Field Goal,12,2,JUMP_SHOTS,0.1666666666666666,2012
-Ivan Johnson,201274,Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2012
-Ivan Johnson,201274,Layup Shot,2PT Field Goal,5,3,LAYUPS,0.6,2012
-Ivan Johnson,201274,Putback Layup Shot,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2012
-Ivan Johnson,201274,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2012
-Ivan Johnson,201274,Running Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2012
-Ivan Johnson,201274,Running Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2012
-Ivan Johnson,201274,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2012
-Ivan Johnson,201274,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2013
-Ivan Johnson,201274,Driving Layup Shot,2PT Field Goal,4,3,LAYUPS,0.75,2013
-Ivan Johnson,201274,Driving Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2013
-Ivan Johnson,201274,Driving Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2013
-Ivan Johnson,201274,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2013
-Ivan Johnson,201274,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2013
-Ivan Johnson,201274,Jump Shot,2PT Field Goal,8,1,JUMP_SHOTS,0.125,2013
-Ivan Johnson,201274,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,2013
-Ivan Johnson,201274,Layup Shot,2PT Field Goal,8,5,LAYUPS,0.625,2013
-Ivan Johnson,201274,Putback Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2013
-Ivan Johnson,201274,Running Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2013
-Ivan Johnson,201274,Running Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2013
-Ivan Johnson,201274,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2013
-Ivan Johnson,201274,Step Back Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2013
+Ivan Johnson,201274,Driving Jump shot,2PT Field Goal,1,0,MOVING_JUMPERS,0.0,2012
+Ivan Johnson,201274,Driving Layup Shot,2PT Field Goal,2,1,DRIVING_LAYUPS,0.5,2012
+Ivan Johnson,201274,Dunk Shot,2PT Field Goal,3,3,BASIC_DUNKS,1.0,2012
+Ivan Johnson,201274,Hook Shot,2PT Field Goal,1,0,STANDARD_HOOKS,0.0,2012
+Ivan Johnson,201274,Jump Shot,2PT Field Goal,12,2,STANDARD_JUMP_SHOTS,0.1666666666666666,2012
+Ivan Johnson,201274,Jump Shot,3PT Field Goal,1,1,STANDARD_JUMP_SHOTS,1.5,2012
+Ivan Johnson,201274,Layup Shot,2PT Field Goal,5,3,STANDARD_LAYUPS,0.6,2012
+Ivan Johnson,201274,Putback Layup Shot,2PT Field Goal,3,2,SPECIALTY_LAYUPS,0.6666666666666666,2012
+Ivan Johnson,201274,Reverse Layup Shot,2PT Field Goal,1,1,SPECIALTY_LAYUPS,1.0,2012
+Ivan Johnson,201274,Running Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2012
+Ivan Johnson,201274,Running Layup Shot,2PT Field Goal,2,2,STANDARD_LAYUPS,1.0,2012
+Ivan Johnson,201274,Slam Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2012
+Ivan Johnson,201274,Driving Dunk Shot,2PT Field Goal,1,1,DRIVING_DUNKS,1.0,2013
+Ivan Johnson,201274,Driving Layup Shot,2PT Field Goal,4,3,DRIVING_LAYUPS,0.75,2013
+Ivan Johnson,201274,Driving Reverse Layup Shot,2PT Field Goal,1,1,DRIVING_LAYUPS,1.0,2013
+Ivan Johnson,201274,Driving Slam Dunk Shot,2PT Field Goal,1,1,DRIVING_DUNKS,1.0,2013
+Ivan Johnson,201274,Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2013
+Ivan Johnson,201274,Hook Shot,2PT Field Goal,1,1,STANDARD_HOOKS,1.0,2013
+Ivan Johnson,201274,Jump Shot,2PT Field Goal,8,1,STANDARD_JUMP_SHOTS,0.125,2013
+Ivan Johnson,201274,Jump Shot,3PT Field Goal,2,0,STANDARD_JUMP_SHOTS,0.0,2013
+Ivan Johnson,201274,Layup Shot,2PT Field Goal,8,5,STANDARD_LAYUPS,0.625,2013
+Ivan Johnson,201274,Putback Layup Shot,2PT Field Goal,1,1,SPECIALTY_LAYUPS,1.0,2013
+Ivan Johnson,201274,Running Dunk Shot,2PT Field Goal,2,2,BASIC_DUNKS,1.0,2013
+Ivan Johnson,201274,Running Layup Shot,2PT Field Goal,1,1,STANDARD_LAYUPS,1.0,2013
+Ivan Johnson,201274,Slam Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2013
+Ivan Johnson,201274,Step Back Jump shot,2PT Field Goal,1,0,STEP_BACK_JUMPERS,0.0,2013

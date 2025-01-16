@@ -1,46 +1,46 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Gary Harris,203914,Cutting Dunk Shot,2PT Field Goal,4,4,DUNKS,1.0,2024
-Gary Harris,203914,Cutting Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Gary Harris,203914,Cutting Layup Shot,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2024
-Gary Harris,203914,Driving Dunk Shot,2PT Field Goal,2,0,DUNKS,0.0,2024
-Gary Harris,203914,Driving Finger Roll Layup Shot,2PT Field Goal,9,6,LAYUPS,0.6666666666666666,2024
-Gary Harris,203914,Driving Floating Bank Jump Shot,2PT Field Goal,2,1,SPECIALTY_SHOTS,0.5,2024
-Gary Harris,203914,Driving Floating Jump Shot,2PT Field Goal,9,3,SPECIALTY_SHOTS,0.3333333333333333,2024
-Gary Harris,203914,Driving Hook Shot,2PT Field Goal,2,0,POST_MOVES,0.0,2024
-Gary Harris,203914,Driving Layup Shot,2PT Field Goal,12,7,LAYUPS,0.5833333333333334,2024
-Gary Harris,203914,Driving Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Gary Harris,203914,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2024
-Gary Harris,203914,Floating Jump shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,1.0,2024
-Gary Harris,203914,Jump Bank Shot,3PT Field Goal,3,3,JUMP_SHOTS,1.5,2024
-Gary Harris,203914,Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,0.3333333333333333,2024
-Gary Harris,203914,Jump Shot,3PT Field Goal,110,36,JUMP_SHOTS,0.4909090909090909,2024
-Gary Harris,203914,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Gary Harris,203914,Pullup Jump shot,2PT Field Goal,6,3,JUMP_SHOTS,0.5,2024
-Gary Harris,203914,Pullup Jump shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2024
-Gary Harris,203914,Putback Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2024
-Gary Harris,203914,Reverse Layup Shot,2PT Field Goal,5,2,LAYUPS,0.4,2024
-Gary Harris,203914,Running Jump Shot,3PT Field Goal,14,6,JUMP_SHOTS,0.6428571428571429,2024
-Gary Harris,203914,Running Layup Shot,2PT Field Goal,3,3,LAYUPS,1.0,2024
-Gary Harris,203914,Running Pull-Up Jump Shot,3PT Field Goal,5,1,JUMP_SHOTS,0.3,2024
-Gary Harris,203914,Running Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Gary Harris,203914,Step Back Jump shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2024
-Gary Harris,203914,Step Back Jump shot,3PT Field Goal,7,4,JUMP_SHOTS,0.8571428571428571,2024
-Gary Harris,203914,Tip Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Gary Harris,203914,Turnaround Fadeaway shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Gary Harris,203914,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2024
-Gary Harris,203914,Turnaround Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Gary Harris,203914,Cutting Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2025
-Gary Harris,203914,Driving Finger Roll Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2025
-Gary Harris,203914,Driving Floating Jump Shot,2PT Field Goal,3,0,SPECIALTY_SHOTS,0.0,2025
-Gary Harris,203914,Driving Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2025
-Gary Harris,203914,Driving Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2025
-Gary Harris,203914,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2025
-Gary Harris,203914,Floating Jump shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,0.0,2025
-Gary Harris,203914,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2025
-Gary Harris,203914,Jump Shot,3PT Field Goal,42,14,JUMP_SHOTS,0.5,2025
-Gary Harris,203914,Pullup Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
-Gary Harris,203914,Running Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Gary Harris,203914,Running Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,2025
-Gary Harris,203914,Running Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2025
-Gary Harris,203914,Step Back Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
-Gary Harris,203914,Step Back Jump shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2025
+Gary Harris,203914,Cutting Dunk Shot,2PT Field Goal,4,4,SPECIALTY_DUNKS,1.0,2024
+Gary Harris,203914,Cutting Finger Roll Layup Shot,2PT Field Goal,1,1,FINGER_ROLLS,1.0,2024
+Gary Harris,203914,Cutting Layup Shot,2PT Field Goal,3,2,STANDARD_LAYUPS,0.6666666666666666,2024
+Gary Harris,203914,Driving Dunk Shot,2PT Field Goal,2,0,DRIVING_DUNKS,0.0,2024
+Gary Harris,203914,Driving Finger Roll Layup Shot,2PT Field Goal,9,6,FINGER_ROLLS,0.6666666666666666,2024
+Gary Harris,203914,Driving Floating Bank Jump Shot,2PT Field Goal,2,1,FLOATING_SHOTS,0.5,2024
+Gary Harris,203914,Driving Floating Jump Shot,2PT Field Goal,9,3,FLOATING_SHOTS,0.3333333333333333,2024
+Gary Harris,203914,Driving Hook Shot,2PT Field Goal,2,0,SPECIALTY_HOOKS,0.0,2024
+Gary Harris,203914,Driving Layup Shot,2PT Field Goal,12,7,DRIVING_LAYUPS,0.5833333333333334,2024
+Gary Harris,203914,Driving Reverse Layup Shot,2PT Field Goal,1,1,DRIVING_LAYUPS,1.0,2024
+Gary Harris,203914,Fadeaway Jump Shot,2PT Field Goal,1,1,FADEAWAY_JUMPERS,1.0,2024
+Gary Harris,203914,Floating Jump shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2024
+Gary Harris,203914,Jump Bank Shot,3PT Field Goal,3,3,STANDARD_JUMP_SHOTS,1.5,2024
+Gary Harris,203914,Jump Shot,2PT Field Goal,3,1,STANDARD_JUMP_SHOTS,0.3333333333333333,2024
+Gary Harris,203914,Jump Shot,3PT Field Goal,110,36,STANDARD_JUMP_SHOTS,0.4909090909090909,2024
+Gary Harris,203914,Layup Shot,2PT Field Goal,1,1,STANDARD_LAYUPS,1.0,2024
+Gary Harris,203914,Pullup Jump shot,2PT Field Goal,6,3,STANDARD_JUMP_SHOTS,0.5,2024
+Gary Harris,203914,Pullup Jump shot,3PT Field Goal,2,1,STANDARD_JUMP_SHOTS,0.75,2024
+Gary Harris,203914,Putback Layup Shot,2PT Field Goal,2,1,SPECIALTY_LAYUPS,0.5,2024
+Gary Harris,203914,Reverse Layup Shot,2PT Field Goal,5,2,SPECIALTY_LAYUPS,0.4,2024
+Gary Harris,203914,Running Jump Shot,3PT Field Goal,14,6,MOVING_JUMPERS,0.6428571428571429,2024
+Gary Harris,203914,Running Layup Shot,2PT Field Goal,3,3,STANDARD_LAYUPS,1.0,2024
+Gary Harris,203914,Running Pull-Up Jump Shot,3PT Field Goal,5,1,MOVING_JUMPERS,0.3,2024
+Gary Harris,203914,Running Reverse Layup Shot,2PT Field Goal,1,1,SPECIALTY_LAYUPS,1.0,2024
+Gary Harris,203914,Step Back Jump shot,2PT Field Goal,2,0,STEP_BACK_JUMPERS,0.0,2024
+Gary Harris,203914,Step Back Jump shot,3PT Field Goal,7,4,STEP_BACK_JUMPERS,0.8571428571428571,2024
+Gary Harris,203914,Tip Layup Shot,2PT Field Goal,1,1,SPECIALTY_LAYUPS,1.0,2024
+Gary Harris,203914,Turnaround Fadeaway shot,2PT Field Goal,1,0,FADEAWAY_JUMPERS,0.0,2024
+Gary Harris,203914,Turnaround Jump Shot,2PT Field Goal,1,1,TURNAROUND_JUMPERS,1.0,2024
+Gary Harris,203914,Turnaround Jump Shot,3PT Field Goal,1,0,TURNAROUND_JUMPERS,0.0,2024
+Gary Harris,203914,Cutting Dunk Shot,2PT Field Goal,1,1,SPECIALTY_DUNKS,1.0,2025
+Gary Harris,203914,Driving Finger Roll Layup Shot,2PT Field Goal,2,1,FINGER_ROLLS,0.5,2025
+Gary Harris,203914,Driving Floating Jump Shot,2PT Field Goal,3,0,FLOATING_SHOTS,0.0,2025
+Gary Harris,203914,Driving Hook Shot,2PT Field Goal,1,1,SPECIALTY_HOOKS,1.0,2025
+Gary Harris,203914,Driving Layup Shot,2PT Field Goal,2,2,DRIVING_LAYUPS,1.0,2025
+Gary Harris,203914,Fadeaway Jump Shot,2PT Field Goal,1,1,FADEAWAY_JUMPERS,1.0,2025
+Gary Harris,203914,Floating Jump shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2025
+Gary Harris,203914,Jump Shot,2PT Field Goal,1,1,STANDARD_JUMP_SHOTS,1.0,2025
+Gary Harris,203914,Jump Shot,3PT Field Goal,42,14,STANDARD_JUMP_SHOTS,0.5,2025
+Gary Harris,203914,Pullup Jump shot,2PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2025
+Gary Harris,203914,Running Finger Roll Layup Shot,2PT Field Goal,1,1,FINGER_ROLLS,1.0,2025
+Gary Harris,203914,Running Jump Shot,3PT Field Goal,2,0,MOVING_JUMPERS,0.0,2025
+Gary Harris,203914,Running Layup Shot,2PT Field Goal,2,1,STANDARD_LAYUPS,0.5,2025
+Gary Harris,203914,Step Back Jump shot,2PT Field Goal,1,0,STEP_BACK_JUMPERS,0.0,2025
+Gary Harris,203914,Step Back Jump shot,3PT Field Goal,1,1,STEP_BACK_JUMPERS,1.5,2025

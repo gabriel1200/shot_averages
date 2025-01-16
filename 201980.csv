@@ -1,47 +1,47 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Danny Green,201980,Driving Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2012
-Danny Green,201980,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2012
-Danny Green,201980,Jump Shot,3PT Field Goal,4,4,JUMP_SHOTS,1.5,2012
-Danny Green,201980,Pullup Jump shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2012
-Danny Green,201980,Jump Shot,3PT Field Goal,4,3,JUMP_SHOTS,1.125,2013
-Danny Green,201980,Pullup Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2013
-Danny Green,201980,Floating Jump shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,0.0,2014
-Danny Green,201980,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2014
-Danny Green,201980,Jump Shot,3PT Field Goal,3,2,JUMP_SHOTS,1.0,2014
-Danny Green,201980,Jump Shot,2PT Field Goal,4,0,JUMP_SHOTS,0.0,2015
-Danny Green,201980,Jump Shot,3PT Field Goal,8,3,JUMP_SHOTS,0.5625,2015
-Danny Green,201980,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2015
-Danny Green,201980,Pullup Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2015
-Danny Green,201980,Pullup Jump shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2015
-Danny Green,201980,Tip Shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,1.0,2015
-Danny Green,201980,Driving Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2016
-Danny Green,201980,Floating Jump shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,0.0,2016
-Danny Green,201980,Jump Bank Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2016
-Danny Green,201980,Jump Shot,2PT Field Goal,5,1,JUMP_SHOTS,0.2,2016
-Danny Green,201980,Jump Shot,3PT Field Goal,18,8,JUMP_SHOTS,0.6666666666666666,2016
-Danny Green,201980,Layup Shot,2PT Field Goal,4,1,LAYUPS,0.25,2016
-Danny Green,201980,Pullup Jump shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2016
-Danny Green,201980,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2016
-Danny Green,201980,Step Back Jump shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2016
-Danny Green,201980,Floating Jump shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,1.0,2017
-Danny Green,201980,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2017
-Danny Green,201980,Jump Shot,3PT Field Goal,10,5,JUMP_SHOTS,0.75,2017
-Danny Green,201980,Layup Shot,2PT Field Goal,2,0,LAYUPS,0.0,2017
-Danny Green,201980,Pullup Jump shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2017
-Danny Green,201980,Pullup Jump shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2017
-Danny Green,201980,Cutting Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2018
-Danny Green,201980,Jump Bank Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2018
-Danny Green,201980,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2018
-Danny Green,201980,Driving Floating Jump Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,0.0,2020
-Danny Green,201980,Driving Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2020
-Danny Green,201980,Floating Jump shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,1.0,2020
-Danny Green,201980,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2020
-Danny Green,201980,Jump Shot,3PT Field Goal,14,6,JUMP_SHOTS,0.6428571428571429,2020
-Danny Green,201980,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2020
-Danny Green,201980,Pullup Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2020
-Danny Green,201980,Pullup Jump shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2020
-Danny Green,201980,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2020
-Danny Green,201980,Running Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2020
-Danny Green,201980,Running Pull-Up Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2020
-Danny Green,201980,Step Back Jump shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2020
-Danny Green,201980,Tip Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2020
+Danny Green,201980,Driving Layup Shot,2PT Field Goal,1,0,DRIVING_LAYUPS,0.0,2012
+Danny Green,201980,Jump Shot,2PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2012
+Danny Green,201980,Jump Shot,3PT Field Goal,4,4,STANDARD_JUMP_SHOTS,1.5,2012
+Danny Green,201980,Pullup Jump shot,2PT Field Goal,1,1,STANDARD_JUMP_SHOTS,1.0,2012
+Danny Green,201980,Jump Shot,3PT Field Goal,4,3,STANDARD_JUMP_SHOTS,1.125,2013
+Danny Green,201980,Pullup Jump shot,2PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2013
+Danny Green,201980,Floating Jump shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2014
+Danny Green,201980,Jump Shot,2PT Field Goal,1,1,STANDARD_JUMP_SHOTS,1.0,2014
+Danny Green,201980,Jump Shot,3PT Field Goal,3,2,STANDARD_JUMP_SHOTS,1.0,2014
+Danny Green,201980,Jump Shot,2PT Field Goal,4,0,STANDARD_JUMP_SHOTS,0.0,2015
+Danny Green,201980,Jump Shot,3PT Field Goal,8,3,STANDARD_JUMP_SHOTS,0.5625,2015
+Danny Green,201980,Layup Shot,2PT Field Goal,1,1,STANDARD_LAYUPS,1.0,2015
+Danny Green,201980,Pullup Jump shot,2PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2015
+Danny Green,201980,Pullup Jump shot,3PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2015
+Danny Green,201980,Tip Shot,2PT Field Goal,1,1,TIP_SHOTS,1.0,2015
+Danny Green,201980,Driving Finger Roll Layup Shot,2PT Field Goal,1,1,FINGER_ROLLS,1.0,2016
+Danny Green,201980,Floating Jump shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2016
+Danny Green,201980,Jump Bank Shot,2PT Field Goal,1,1,STANDARD_JUMP_SHOTS,1.0,2016
+Danny Green,201980,Jump Shot,2PT Field Goal,5,1,STANDARD_JUMP_SHOTS,0.2,2016
+Danny Green,201980,Jump Shot,3PT Field Goal,18,8,STANDARD_JUMP_SHOTS,0.6666666666666666,2016
+Danny Green,201980,Layup Shot,2PT Field Goal,4,1,STANDARD_LAYUPS,0.25,2016
+Danny Green,201980,Pullup Jump shot,3PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2016
+Danny Green,201980,Reverse Layup Shot,2PT Field Goal,1,1,SPECIALTY_LAYUPS,1.0,2016
+Danny Green,201980,Step Back Jump shot,3PT Field Goal,1,0,STEP_BACK_JUMPERS,0.0,2016
+Danny Green,201980,Floating Jump shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2017
+Danny Green,201980,Jump Shot,2PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2017
+Danny Green,201980,Jump Shot,3PT Field Goal,10,5,STANDARD_JUMP_SHOTS,0.75,2017
+Danny Green,201980,Layup Shot,2PT Field Goal,2,0,STANDARD_LAYUPS,0.0,2017
+Danny Green,201980,Pullup Jump shot,2PT Field Goal,2,0,STANDARD_JUMP_SHOTS,0.0,2017
+Danny Green,201980,Pullup Jump shot,3PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2017
+Danny Green,201980,Cutting Dunk Shot,2PT Field Goal,1,1,SPECIALTY_DUNKS,1.0,2018
+Danny Green,201980,Jump Bank Shot,3PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2018
+Danny Green,201980,Jump Shot,3PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2018
+Danny Green,201980,Driving Floating Jump Shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2020
+Danny Green,201980,Driving Layup Shot,2PT Field Goal,2,2,DRIVING_LAYUPS,1.0,2020
+Danny Green,201980,Floating Jump shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2020
+Danny Green,201980,Jump Shot,2PT Field Goal,1,1,STANDARD_JUMP_SHOTS,1.0,2020
+Danny Green,201980,Jump Shot,3PT Field Goal,14,6,STANDARD_JUMP_SHOTS,0.6428571428571429,2020
+Danny Green,201980,Layup Shot,2PT Field Goal,1,1,STANDARD_LAYUPS,1.0,2020
+Danny Green,201980,Pullup Jump shot,2PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2020
+Danny Green,201980,Pullup Jump shot,3PT Field Goal,2,1,STANDARD_JUMP_SHOTS,0.75,2020
+Danny Green,201980,Reverse Layup Shot,2PT Field Goal,1,1,SPECIALTY_LAYUPS,1.0,2020
+Danny Green,201980,Running Jump Shot,3PT Field Goal,1,1,MOVING_JUMPERS,1.5,2020
+Danny Green,201980,Running Pull-Up Jump Shot,3PT Field Goal,1,0,MOVING_JUMPERS,0.0,2020
+Danny Green,201980,Step Back Jump shot,3PT Field Goal,1,1,STEP_BACK_JUMPERS,1.5,2020
+Danny Green,201980,Tip Dunk Shot,2PT Field Goal,1,1,SPECIALTY_DUNKS,1.0,2020

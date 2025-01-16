@@ -1,7 +1,7 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Morris Peterson,2050,Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,2008
-Morris Peterson,2050,Jump Shot,3PT Field Goal,13,5,JUMP_SHOTS,0.5769230769230769,2008
-Morris Peterson,2050,Running Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2008
-Morris Peterson,2050,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2009
-Morris Peterson,2050,Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2009
-Morris Peterson,2050,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2009
+Morris Peterson,2050,Jump Shot,2PT Field Goal,2,2,STANDARD_JUMP_SHOTS,1.0,2008
+Morris Peterson,2050,Jump Shot,3PT Field Goal,13,5,STANDARD_JUMP_SHOTS,0.5769230769230769,2008
+Morris Peterson,2050,Running Layup Shot,2PT Field Goal,1,1,STANDARD_LAYUPS,1.0,2008
+Morris Peterson,2050,Jump Shot,2PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2009
+Morris Peterson,2050,Layup Shot,2PT Field Goal,2,1,STANDARD_LAYUPS,0.5,2009
+Morris Peterson,2050,Running Jump Shot,2PT Field Goal,1,1,MOVING_JUMPERS,1.0,2009

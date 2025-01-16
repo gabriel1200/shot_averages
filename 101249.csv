@@ -1,37 +1,37 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-John Lucas III,101249,Driving Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2007
-John Lucas III,101249,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2007
-John Lucas III,101249,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2007
-John Lucas III,101249,Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2007
-John Lucas III,101249,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2011
-John Lucas III,101249,Driving Finger Roll Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2012
-John Lucas III,101249,Driving Jump shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2012
-John Lucas III,101249,Driving Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2012
-John Lucas III,101249,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2012
-John Lucas III,101249,Floating Jump shot,2PT Field Goal,6,3,SPECIALTY_SHOTS,0.5,2012
-John Lucas III,101249,Jump Bank Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2012
-John Lucas III,101249,Jump Shot,2PT Field Goal,30,15,JUMP_SHOTS,0.5,2012
-John Lucas III,101249,Jump Shot,3PT Field Goal,39,14,JUMP_SHOTS,0.5384615384615384,2012
-John Lucas III,101249,Layup Shot,2PT Field Goal,2,0,LAYUPS,0.0,2012
-John Lucas III,101249,Pullup Bank shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2012
-John Lucas III,101249,Running Bank shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2012
-John Lucas III,101249,Running Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,2012
-John Lucas III,101249,Running Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2012
-John Lucas III,101249,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2012
-John Lucas III,101249,Driving Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2014
-John Lucas III,101249,Fadeaway Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2014
-John Lucas III,101249,Jump Shot,2PT Field Goal,6,4,JUMP_SHOTS,0.6666666666666666,2014
-John Lucas III,101249,Jump Shot,3PT Field Goal,9,3,JUMP_SHOTS,0.5,2014
-John Lucas III,101249,Pullup Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2014
-John Lucas III,101249,Running Jump Shot,2PT Field Goal,5,1,JUMP_SHOTS,0.2,2014
-John Lucas III,101249,Step Back Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2014
-John Lucas III,101249,Driving Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2015
-John Lucas III,101249,Driving Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2015
-John Lucas III,101249,Fadeaway Jump Shot,2PT Field Goal,7,5,JUMP_SHOTS,0.7142857142857143,2015
-John Lucas III,101249,Finger Roll Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2015
-John Lucas III,101249,Floating Jump shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,1.0,2015
-John Lucas III,101249,Jump Bank Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2015
-John Lucas III,101249,Jump Shot,2PT Field Goal,57,22,JUMP_SHOTS,0.3859649122807017,2015
-John Lucas III,101249,Jump Shot,3PT Field Goal,29,9,JUMP_SHOTS,0.4655172413793103,2015
-John Lucas III,101249,Layup Shot,2PT Field Goal,4,1,LAYUPS,0.25,2015
-John Lucas III,101249,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2015
+John Lucas III,101249,Driving Layup Shot,2PT Field Goal,2,2,DRIVING_LAYUPS,1.0,2007
+John Lucas III,101249,Jump Shot,2PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2007
+John Lucas III,101249,Jump Shot,3PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2007
+John Lucas III,101249,Layup Shot,2PT Field Goal,1,0,STANDARD_LAYUPS,0.0,2007
+John Lucas III,101249,Jump Shot,2PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2011
+John Lucas III,101249,Driving Finger Roll Layup Shot,2PT Field Goal,1,0,FINGER_ROLLS,0.0,2012
+John Lucas III,101249,Driving Jump shot,2PT Field Goal,1,1,MOVING_JUMPERS,1.0,2012
+John Lucas III,101249,Driving Layup Shot,2PT Field Goal,1,0,DRIVING_LAYUPS,0.0,2012
+John Lucas III,101249,Fadeaway Jump Shot,2PT Field Goal,1,0,FADEAWAY_JUMPERS,0.0,2012
+John Lucas III,101249,Floating Jump shot,2PT Field Goal,6,3,FLOATING_SHOTS,0.5,2012
+John Lucas III,101249,Jump Bank Shot,2PT Field Goal,1,1,STANDARD_JUMP_SHOTS,1.0,2012
+John Lucas III,101249,Jump Shot,2PT Field Goal,30,15,STANDARD_JUMP_SHOTS,0.5,2012
+John Lucas III,101249,Jump Shot,3PT Field Goal,39,14,STANDARD_JUMP_SHOTS,0.5384615384615384,2012
+John Lucas III,101249,Layup Shot,2PT Field Goal,2,0,STANDARD_LAYUPS,0.0,2012
+John Lucas III,101249,Pullup Bank shot,2PT Field Goal,1,0,,0.0,2012
+John Lucas III,101249,Running Bank shot,2PT Field Goal,1,1,MOVING_JUMPERS,1.0,2012
+John Lucas III,101249,Running Jump Shot,2PT Field Goal,2,2,MOVING_JUMPERS,1.0,2012
+John Lucas III,101249,Running Jump Shot,3PT Field Goal,1,1,MOVING_JUMPERS,1.5,2012
+John Lucas III,101249,Turnaround Jump Shot,2PT Field Goal,1,1,TURNAROUND_JUMPERS,1.0,2012
+John Lucas III,101249,Driving Finger Roll Layup Shot,2PT Field Goal,1,1,FINGER_ROLLS,1.0,2014
+John Lucas III,101249,Fadeaway Jump Shot,2PT Field Goal,2,1,FADEAWAY_JUMPERS,0.5,2014
+John Lucas III,101249,Jump Shot,2PT Field Goal,6,4,STANDARD_JUMP_SHOTS,0.6666666666666666,2014
+John Lucas III,101249,Jump Shot,3PT Field Goal,9,3,STANDARD_JUMP_SHOTS,0.5,2014
+John Lucas III,101249,Pullup Jump shot,2PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2014
+John Lucas III,101249,Running Jump Shot,2PT Field Goal,5,1,MOVING_JUMPERS,0.2,2014
+John Lucas III,101249,Step Back Jump shot,2PT Field Goal,1,0,STEP_BACK_JUMPERS,0.0,2014
+John Lucas III,101249,Driving Layup Shot,2PT Field Goal,2,2,DRIVING_LAYUPS,1.0,2015
+John Lucas III,101249,Driving Reverse Layup Shot,2PT Field Goal,1,1,DRIVING_LAYUPS,1.0,2015
+John Lucas III,101249,Fadeaway Jump Shot,2PT Field Goal,7,5,FADEAWAY_JUMPERS,0.7142857142857143,2015
+John Lucas III,101249,Finger Roll Layup Shot,2PT Field Goal,1,0,FINGER_ROLLS,0.0,2015
+John Lucas III,101249,Floating Jump shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2015
+John Lucas III,101249,Jump Bank Shot,2PT Field Goal,1,1,STANDARD_JUMP_SHOTS,1.0,2015
+John Lucas III,101249,Jump Shot,2PT Field Goal,57,22,STANDARD_JUMP_SHOTS,0.3859649122807017,2015
+John Lucas III,101249,Jump Shot,3PT Field Goal,29,9,STANDARD_JUMP_SHOTS,0.4655172413793103,2015
+John Lucas III,101249,Layup Shot,2PT Field Goal,4,1,STANDARD_LAYUPS,0.25,2015
+John Lucas III,101249,Running Jump Shot,2PT Field Goal,1,0,MOVING_JUMPERS,0.0,2015

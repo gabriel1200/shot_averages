@@ -1,13 +1,13 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Scott Padgett,1909,Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2000
-Scott Padgett,1909,Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2000
-Scott Padgett,1909,Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2000
-Scott Padgett,1909,Jump Shot,2PT Field Goal,6,1,JUMP_SHOTS,0.1666666666666666,2002
-Scott Padgett,1909,Jump Shot,3PT Field Goal,7,1,JUMP_SHOTS,0.2142857142857142,2002
-Scott Padgett,1909,Layup Shot,2PT Field Goal,12,5,LAYUPS,0.4166666666666667,2002
-Scott Padgett,1909,Reverse Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2002
-Scott Padgett,1909,Reverse Layup Shot,2PT Field Goal,2,0,LAYUPS,0.0,2002
-Scott Padgett,1909,Tip Shot,2PT Field Goal,2,2,SPECIALTY_SHOTS,1.0,2002
-Scott Padgett,1909,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2003
-Scott Padgett,1909,Layup Shot,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2003
-Scott Padgett,1909,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2003
+Scott Padgett,1909,Jump Shot,2PT Field Goal,2,0,STANDARD_JUMP_SHOTS,0.0,2000
+Scott Padgett,1909,Jump Shot,3PT Field Goal,2,1,STANDARD_JUMP_SHOTS,0.75,2000
+Scott Padgett,1909,Layup Shot,2PT Field Goal,2,1,STANDARD_LAYUPS,0.5,2000
+Scott Padgett,1909,Jump Shot,2PT Field Goal,6,1,STANDARD_JUMP_SHOTS,0.1666666666666666,2002
+Scott Padgett,1909,Jump Shot,3PT Field Goal,7,1,STANDARD_JUMP_SHOTS,0.2142857142857142,2002
+Scott Padgett,1909,Layup Shot,2PT Field Goal,12,5,STANDARD_LAYUPS,0.4166666666666667,2002
+Scott Padgett,1909,Reverse Dunk Shot,2PT Field Goal,1,1,SPECIALTY_DUNKS,1.0,2002
+Scott Padgett,1909,Reverse Layup Shot,2PT Field Goal,2,0,SPECIALTY_LAYUPS,0.0,2002
+Scott Padgett,1909,Tip Shot,2PT Field Goal,2,2,TIP_SHOTS,1.0,2002
+Scott Padgett,1909,Jump Shot,2PT Field Goal,1,1,STANDARD_JUMP_SHOTS,1.0,2003
+Scott Padgett,1909,Layup Shot,2PT Field Goal,3,1,STANDARD_LAYUPS,0.3333333333333333,2003
+Scott Padgett,1909,Slam Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2003

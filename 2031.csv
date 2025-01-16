@@ -1,37 +1,37 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Stromile Swift,2031,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2002
-Stromile Swift,2031,Follow Up Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2002
-Stromile Swift,2031,Jump Shot,2PT Field Goal,10,2,JUMP_SHOTS,0.2,2002
-Stromile Swift,2031,Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2002
-Stromile Swift,2031,Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2002
-Stromile Swift,2031,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2002
-Stromile Swift,2031,Tip Shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,1.0,2002
-Stromile Swift,2031,Alley Oop Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2003
-Stromile Swift,2031,Alley Oop Layup shot,2PT Field Goal,1,1,LAYUPS,1.0,2003
-Stromile Swift,2031,Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2003
-Stromile Swift,2031,Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,0.6666666666666666,2003
-Stromile Swift,2031,Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2003
-Stromile Swift,2031,Tip Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,0.0,2003
-Stromile Swift,2031,Turnaround Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2003
-Stromile Swift,2031,Alley Oop Dunk Shot,2PT Field Goal,1,0,DUNKS,0.0,2004
-Stromile Swift,2031,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2004
-Stromile Swift,2031,Follow Up Dunk Shot,2PT Field Goal,3,3,DUNKS,1.0,2004
-Stromile Swift,2031,Jump Shot,2PT Field Goal,18,10,JUMP_SHOTS,0.5555555555555556,2004
-Stromile Swift,2031,Layup Shot,2PT Field Goal,5,2,LAYUPS,0.4,2004
-Stromile Swift,2031,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2004
-Stromile Swift,2031,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2004
-Stromile Swift,2031,Turnaround Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2004
-Stromile Swift,2031,Alley Oop Layup shot,2PT Field Goal,1,0,LAYUPS,0.0,2005
-Stromile Swift,2031,Driving Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2005
-Stromile Swift,2031,Dunk Shot,2PT Field Goal,2,1,DUNKS,0.5,2005
-Stromile Swift,2031,Follow Up Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2005
-Stromile Swift,2031,Hook Shot,2PT Field Goal,2,1,POST_MOVES,0.5,2005
-Stromile Swift,2031,Jump Bank Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2005
-Stromile Swift,2031,Jump Shot,2PT Field Goal,16,2,JUMP_SHOTS,0.125,2005
-Stromile Swift,2031,Layup Shot,2PT Field Goal,5,2,LAYUPS,0.4,2005
-Stromile Swift,2031,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2005
-Stromile Swift,2031,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2005
-Stromile Swift,2031,Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2007
-Stromile Swift,2031,Jump Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2008
-Stromile Swift,2031,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2008
-Stromile Swift,2031,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2009
+Stromile Swift,2031,Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2002
+Stromile Swift,2031,Follow Up Dunk Shot,2PT Field Goal,1,1,SPECIALTY_DUNKS,1.0,2002
+Stromile Swift,2031,Jump Shot,2PT Field Goal,10,2,STANDARD_JUMP_SHOTS,0.2,2002
+Stromile Swift,2031,Layup Shot,2PT Field Goal,1,0,STANDARD_LAYUPS,0.0,2002
+Stromile Swift,2031,Reverse Layup Shot,2PT Field Goal,1,0,SPECIALTY_LAYUPS,0.0,2002
+Stromile Swift,2031,Running Jump Shot,2PT Field Goal,1,0,MOVING_JUMPERS,0.0,2002
+Stromile Swift,2031,Tip Shot,2PT Field Goal,1,1,TIP_SHOTS,1.0,2002
+Stromile Swift,2031,Alley Oop Dunk Shot,2PT Field Goal,2,2,SPECIALTY_DUNKS,1.0,2003
+Stromile Swift,2031,Alley Oop Layup shot,2PT Field Goal,1,1,SPECIALTY_LAYUPS,1.0,2003
+Stromile Swift,2031,Dunk Shot,2PT Field Goal,2,2,BASIC_DUNKS,1.0,2003
+Stromile Swift,2031,Jump Shot,2PT Field Goal,3,2,STANDARD_JUMP_SHOTS,0.6666666666666666,2003
+Stromile Swift,2031,Layup Shot,2PT Field Goal,1,0,STANDARD_LAYUPS,0.0,2003
+Stromile Swift,2031,Tip Shot,2PT Field Goal,1,0,TIP_SHOTS,0.0,2003
+Stromile Swift,2031,Turnaround Jump Shot,2PT Field Goal,2,1,TURNAROUND_JUMPERS,0.5,2003
+Stromile Swift,2031,Alley Oop Dunk Shot,2PT Field Goal,1,0,SPECIALTY_DUNKS,0.0,2004
+Stromile Swift,2031,Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2004
+Stromile Swift,2031,Follow Up Dunk Shot,2PT Field Goal,3,3,SPECIALTY_DUNKS,1.0,2004
+Stromile Swift,2031,Jump Shot,2PT Field Goal,18,10,STANDARD_JUMP_SHOTS,0.5555555555555556,2004
+Stromile Swift,2031,Layup Shot,2PT Field Goal,5,2,STANDARD_LAYUPS,0.4,2004
+Stromile Swift,2031,Reverse Layup Shot,2PT Field Goal,1,1,SPECIALTY_LAYUPS,1.0,2004
+Stromile Swift,2031,Slam Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2004
+Stromile Swift,2031,Turnaround Hook Shot,2PT Field Goal,1,0,SPECIALTY_HOOKS,0.0,2004
+Stromile Swift,2031,Alley Oop Layup shot,2PT Field Goal,1,0,SPECIALTY_LAYUPS,0.0,2005
+Stromile Swift,2031,Driving Layup Shot,2PT Field Goal,2,2,DRIVING_LAYUPS,1.0,2005
+Stromile Swift,2031,Dunk Shot,2PT Field Goal,2,1,BASIC_DUNKS,0.5,2005
+Stromile Swift,2031,Follow Up Dunk Shot,2PT Field Goal,2,2,SPECIALTY_DUNKS,1.0,2005
+Stromile Swift,2031,Hook Shot,2PT Field Goal,2,1,STANDARD_HOOKS,0.5,2005
+Stromile Swift,2031,Jump Bank Shot,2PT Field Goal,1,1,STANDARD_JUMP_SHOTS,1.0,2005
+Stromile Swift,2031,Jump Shot,2PT Field Goal,16,2,STANDARD_JUMP_SHOTS,0.125,2005
+Stromile Swift,2031,Layup Shot,2PT Field Goal,5,2,STANDARD_LAYUPS,0.4,2005
+Stromile Swift,2031,Running Jump Shot,2PT Field Goal,1,0,MOVING_JUMPERS,0.0,2005
+Stromile Swift,2031,Turnaround Jump Shot,2PT Field Goal,1,1,TURNAROUND_JUMPERS,1.0,2005
+Stromile Swift,2031,Layup Shot,2PT Field Goal,2,1,STANDARD_LAYUPS,0.5,2007
+Stromile Swift,2031,Jump Hook Shot,2PT Field Goal,1,1,STANDARD_HOOKS,1.0,2008
+Stromile Swift,2031,Jump Shot,2PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2008
+Stromile Swift,2031,Jump Shot,2PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2009

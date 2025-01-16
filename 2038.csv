@@ -1,38 +1,38 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Joel Przybilla,2038,Driving Finger Roll Shot,2PT Field Goal,1,1,LAYUPS,1.0,2001
-Joel Przybilla,2038,Driving Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2001
-Joel Przybilla,2038,Dunk Shot,2PT Field Goal,3,2,DUNKS,0.6666666666666666,2001
-Joel Przybilla,2038,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2001
-Joel Przybilla,2038,Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2001
-Joel Przybilla,2038,Layup Shot,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2001
-Joel Przybilla,2038,Tip Shot,2PT Field Goal,3,0,SPECIALTY_SHOTS,0.0,2001
-Joel Przybilla,2038,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2002
-Joel Przybilla,2038,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2003
-Joel Przybilla,2038,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2003
-Joel Przybilla,2038,Layup Shot,2PT Field Goal,8,3,LAYUPS,0.375,2003
-Joel Przybilla,2038,Dunk Shot,2PT Field Goal,13,12,DUNKS,0.9230769230769232,2005
-Joel Przybilla,2038,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2005
-Joel Przybilla,2038,Follow Up Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2005
-Joel Przybilla,2038,Hook Bank Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2005
-Joel Przybilla,2038,Hook Shot,2PT Field Goal,5,2,POST_MOVES,0.4,2005
-Joel Przybilla,2038,Jump Shot,2PT Field Goal,14,2,JUMP_SHOTS,0.1428571428571428,2005
-Joel Przybilla,2038,Layup Shot,2PT Field Goal,21,10,LAYUPS,0.4761904761904761,2005
-Joel Przybilla,2038,Reverse Layup Shot,2PT Field Goal,2,0,LAYUPS,0.0,2005
-Joel Przybilla,2038,Running Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2005
-Joel Przybilla,2038,Slam Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2005
-Joel Przybilla,2038,Tip Shot,2PT Field Goal,3,1,SPECIALTY_SHOTS,0.3333333333333333,2005
-Joel Przybilla,2038,Turnaround Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2005
-Joel Przybilla,2038,Driving Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2006
-Joel Przybilla,2038,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2006
-Joel Przybilla,2038,Dunk Shot,2PT Field Goal,15,12,DUNKS,0.8,2006
-Joel Przybilla,2038,Follow Up Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2006
-Joel Przybilla,2038,Hook Bank Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2006
-Joel Przybilla,2038,Hook Shot,2PT Field Goal,2,1,POST_MOVES,0.5,2006
-Joel Przybilla,2038,Jump Hook Shot,2PT Field Goal,3,1,POST_MOVES,0.3333333333333333,2006
-Joel Przybilla,2038,Jump Shot,2PT Field Goal,9,1,JUMP_SHOTS,0.1111111111111111,2006
-Joel Przybilla,2038,Layup Shot,2PT Field Goal,23,14,LAYUPS,0.6086956521739131,2006
-Joel Przybilla,2038,Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2006
-Joel Przybilla,2038,Slam Dunk Shot,2PT Field Goal,4,4,DUNKS,1.0,2006
-Joel Przybilla,2038,Tip Shot,2PT Field Goal,2,0,SPECIALTY_SHOTS,0.0,2006
-Joel Przybilla,2038,Turnaround Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2006
-Joel Przybilla,2038,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2006
+Joel Przybilla,2038,Driving Finger Roll Shot,2PT Field Goal,1,1,FINGER_ROLLS,1.0,2001
+Joel Przybilla,2038,Driving Layup Shot,2PT Field Goal,1,0,DRIVING_LAYUPS,0.0,2001
+Joel Przybilla,2038,Dunk Shot,2PT Field Goal,3,2,BASIC_DUNKS,0.6666666666666666,2001
+Joel Przybilla,2038,Hook Shot,2PT Field Goal,1,0,STANDARD_HOOKS,0.0,2001
+Joel Przybilla,2038,Jump Shot,2PT Field Goal,2,0,STANDARD_JUMP_SHOTS,0.0,2001
+Joel Przybilla,2038,Layup Shot,2PT Field Goal,3,2,STANDARD_LAYUPS,0.6666666666666666,2001
+Joel Przybilla,2038,Tip Shot,2PT Field Goal,3,0,TIP_SHOTS,0.0,2001
+Joel Przybilla,2038,Layup Shot,2PT Field Goal,1,1,STANDARD_LAYUPS,1.0,2002
+Joel Przybilla,2038,Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2003
+Joel Przybilla,2038,Jump Shot,2PT Field Goal,1,1,STANDARD_JUMP_SHOTS,1.0,2003
+Joel Przybilla,2038,Layup Shot,2PT Field Goal,8,3,STANDARD_LAYUPS,0.375,2003
+Joel Przybilla,2038,Dunk Shot,2PT Field Goal,13,12,BASIC_DUNKS,0.9230769230769232,2005
+Joel Przybilla,2038,Fadeaway Jump Shot,2PT Field Goal,1,0,FADEAWAY_JUMPERS,0.0,2005
+Joel Przybilla,2038,Follow Up Dunk Shot,2PT Field Goal,1,1,SPECIALTY_DUNKS,1.0,2005
+Joel Przybilla,2038,Hook Bank Shot,2PT Field Goal,1,0,BANK_HOOKS,0.0,2005
+Joel Przybilla,2038,Hook Shot,2PT Field Goal,5,2,STANDARD_HOOKS,0.4,2005
+Joel Przybilla,2038,Jump Shot,2PT Field Goal,14,2,STANDARD_JUMP_SHOTS,0.1428571428571428,2005
+Joel Przybilla,2038,Layup Shot,2PT Field Goal,21,10,STANDARD_LAYUPS,0.4761904761904761,2005
+Joel Przybilla,2038,Reverse Layup Shot,2PT Field Goal,2,0,SPECIALTY_LAYUPS,0.0,2005
+Joel Przybilla,2038,Running Hook Shot,2PT Field Goal,1,1,STANDARD_HOOKS,1.0,2005
+Joel Przybilla,2038,Slam Dunk Shot,2PT Field Goal,2,2,BASIC_DUNKS,1.0,2005
+Joel Przybilla,2038,Tip Shot,2PT Field Goal,3,1,TIP_SHOTS,0.3333333333333333,2005
+Joel Przybilla,2038,Turnaround Jump Shot,2PT Field Goal,2,0,TURNAROUND_JUMPERS,0.0,2005
+Joel Przybilla,2038,Driving Dunk Shot,2PT Field Goal,2,2,DRIVING_DUNKS,1.0,2006
+Joel Przybilla,2038,Driving Layup Shot,2PT Field Goal,1,1,DRIVING_LAYUPS,1.0,2006
+Joel Przybilla,2038,Dunk Shot,2PT Field Goal,15,12,BASIC_DUNKS,0.8,2006
+Joel Przybilla,2038,Follow Up Dunk Shot,2PT Field Goal,1,1,SPECIALTY_DUNKS,1.0,2006
+Joel Przybilla,2038,Hook Bank Shot,2PT Field Goal,1,1,BANK_HOOKS,1.0,2006
+Joel Przybilla,2038,Hook Shot,2PT Field Goal,2,1,STANDARD_HOOKS,0.5,2006
+Joel Przybilla,2038,Jump Hook Shot,2PT Field Goal,3,1,STANDARD_HOOKS,0.3333333333333333,2006
+Joel Przybilla,2038,Jump Shot,2PT Field Goal,9,1,STANDARD_JUMP_SHOTS,0.1111111111111111,2006
+Joel Przybilla,2038,Layup Shot,2PT Field Goal,23,14,STANDARD_LAYUPS,0.6086956521739131,2006
+Joel Przybilla,2038,Reverse Layup Shot,2PT Field Goal,1,1,SPECIALTY_LAYUPS,1.0,2006
+Joel Przybilla,2038,Slam Dunk Shot,2PT Field Goal,4,4,BASIC_DUNKS,1.0,2006
+Joel Przybilla,2038,Tip Shot,2PT Field Goal,2,0,TIP_SHOTS,0.0,2006
+Joel Przybilla,2038,Turnaround Hook Shot,2PT Field Goal,1,0,SPECIALTY_HOOKS,0.0,2006
+Joel Przybilla,2038,Turnaround Jump Shot,2PT Field Goal,1,0,TURNAROUND_JUMPERS,0.0,2006

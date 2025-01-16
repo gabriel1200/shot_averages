@@ -1,8 +1,8 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Bostjan Nachbar,2411,Driving Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2005
-Bostjan Nachbar,2411,Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2005
-Bostjan Nachbar,2411,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2005
-Bostjan Nachbar,2411,Jump Shot,2PT Field Goal,6,2,JUMP_SHOTS,0.3333333333333333,2005
-Bostjan Nachbar,2411,Jump Shot,3PT Field Goal,8,3,JUMP_SHOTS,0.5625,2005
-Bostjan Nachbar,2411,Layup Shot,2PT Field Goal,5,0,LAYUPS,0.0,2005
-Bostjan Nachbar,2411,Running Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2005
+Bostjan Nachbar,2411,Driving Dunk Shot,2PT Field Goal,2,2,DRIVING_DUNKS,1.0,2005
+Bostjan Nachbar,2411,Dunk Shot,2PT Field Goal,2,2,BASIC_DUNKS,1.0,2005
+Bostjan Nachbar,2411,Hook Shot,2PT Field Goal,1,1,STANDARD_HOOKS,1.0,2005
+Bostjan Nachbar,2411,Jump Shot,2PT Field Goal,6,2,STANDARD_JUMP_SHOTS,0.3333333333333333,2005
+Bostjan Nachbar,2411,Jump Shot,3PT Field Goal,8,3,STANDARD_JUMP_SHOTS,0.5625,2005
+Bostjan Nachbar,2411,Layup Shot,2PT Field Goal,5,0,STANDARD_LAYUPS,0.0,2005
+Bostjan Nachbar,2411,Running Jump Shot,3PT Field Goal,1,0,MOVING_JUMPERS,0.0,2005

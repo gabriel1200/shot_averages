@@ -1,37 +1,37 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Landry Shamet,1629013,Driving Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2020
-Landry Shamet,1629013,Driving Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2020
-Landry Shamet,1629013,Jump Shot,3PT Field Goal,6,2,JUMP_SHOTS,0.5,2020
-Landry Shamet,1629013,Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2020
-Landry Shamet,1629013,Pullup Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2020
-Landry Shamet,1629013,Running Pull-Up Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2020
-Landry Shamet,1629013,Cutting Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2021
-Landry Shamet,1629013,Driving Floating Jump Shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,1.0,2021
-Landry Shamet,1629013,Driving Layup Shot,2PT Field Goal,2,0,LAYUPS,0.0,2021
-Landry Shamet,1629013,Jump Shot,3PT Field Goal,14,8,JUMP_SHOTS,0.8571428571428571,2021
-Landry Shamet,1629013,Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2021
-Landry Shamet,1629013,Pullup Jump shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2021
-Landry Shamet,1629013,Jump Shot,3PT Field Goal,4,1,JUMP_SHOTS,0.375,2022
-Landry Shamet,1629013,Running Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2022
-Landry Shamet,1629013,Pullup Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2023
-Landry Shamet,1629013,Cutting Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Landry Shamet,1629013,Driving Dunk Shot,2PT Field Goal,4,2,DUNKS,0.5,2024
-Landry Shamet,1629013,Driving Floating Jump Shot,2PT Field Goal,3,0,SPECIALTY_SHOTS,0.0,2024
-Landry Shamet,1629013,Driving Layup Shot,2PT Field Goal,6,4,LAYUPS,0.6666666666666666,2024
-Landry Shamet,1629013,Driving Reverse Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2024
-Landry Shamet,1629013,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2024
-Landry Shamet,1629013,Floating Jump shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,1.0,2024
-Landry Shamet,1629013,Jump Shot,3PT Field Goal,40,17,JUMP_SHOTS,0.6375,2024
-Landry Shamet,1629013,Pullup Jump shot,2PT Field Goal,14,5,JUMP_SHOTS,0.3571428571428571,2024
-Landry Shamet,1629013,Pullup Jump shot,3PT Field Goal,11,3,JUMP_SHOTS,0.4090909090909091,2024
-Landry Shamet,1629013,Running Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2024
-Landry Shamet,1629013,Running Finger Roll Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Landry Shamet,1629013,Running Jump Shot,3PT Field Goal,7,3,JUMP_SHOTS,0.6428571428571429,2024
-Landry Shamet,1629013,Running Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2024
-Landry Shamet,1629013,Running Pull-Up Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2024
-Landry Shamet,1629013,Running Pull-Up Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Landry Shamet,1629013,Step Back Jump shot,3PT Field Goal,3,1,JUMP_SHOTS,0.5,2024
-Landry Shamet,1629013,Tip Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Landry Shamet,1629013,Turnaround Bank shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2024
-Landry Shamet,1629013,Turnaround Fadeaway shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Landry Shamet,1629013,Running Pull-Up Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
+Landry Shamet,1629013,Driving Layup Shot,2PT Field Goal,2,2,DRIVING_LAYUPS,1.0,2020
+Landry Shamet,1629013,Driving Reverse Layup Shot,2PT Field Goal,1,0,DRIVING_LAYUPS,0.0,2020
+Landry Shamet,1629013,Jump Shot,3PT Field Goal,6,2,STANDARD_JUMP_SHOTS,0.5,2020
+Landry Shamet,1629013,Layup Shot,2PT Field Goal,1,1,STANDARD_LAYUPS,1.0,2020
+Landry Shamet,1629013,Pullup Jump shot,2PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2020
+Landry Shamet,1629013,Running Pull-Up Jump Shot,3PT Field Goal,1,0,MOVING_JUMPERS,0.0,2020
+Landry Shamet,1629013,Cutting Dunk Shot,2PT Field Goal,1,1,SPECIALTY_DUNKS,1.0,2021
+Landry Shamet,1629013,Driving Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2021
+Landry Shamet,1629013,Driving Layup Shot,2PT Field Goal,2,0,DRIVING_LAYUPS,0.0,2021
+Landry Shamet,1629013,Jump Shot,3PT Field Goal,14,8,STANDARD_JUMP_SHOTS,0.8571428571428571,2021
+Landry Shamet,1629013,Layup Shot,2PT Field Goal,1,0,STANDARD_LAYUPS,0.0,2021
+Landry Shamet,1629013,Pullup Jump shot,3PT Field Goal,2,1,STANDARD_JUMP_SHOTS,0.75,2021
+Landry Shamet,1629013,Jump Shot,3PT Field Goal,4,1,STANDARD_JUMP_SHOTS,0.375,2022
+Landry Shamet,1629013,Running Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2022
+Landry Shamet,1629013,Pullup Jump shot,2PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2023
+Landry Shamet,1629013,Cutting Layup Shot,2PT Field Goal,1,1,STANDARD_LAYUPS,1.0,2024
+Landry Shamet,1629013,Driving Dunk Shot,2PT Field Goal,4,2,DRIVING_DUNKS,0.5,2024
+Landry Shamet,1629013,Driving Floating Jump Shot,2PT Field Goal,3,0,FLOATING_SHOTS,0.0,2024
+Landry Shamet,1629013,Driving Layup Shot,2PT Field Goal,6,4,DRIVING_LAYUPS,0.6666666666666666,2024
+Landry Shamet,1629013,Driving Reverse Layup Shot,2PT Field Goal,2,1,DRIVING_LAYUPS,0.5,2024
+Landry Shamet,1629013,Fadeaway Jump Shot,2PT Field Goal,1,1,FADEAWAY_JUMPERS,1.0,2024
+Landry Shamet,1629013,Floating Jump shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2024
+Landry Shamet,1629013,Jump Shot,3PT Field Goal,40,17,STANDARD_JUMP_SHOTS,0.6375,2024
+Landry Shamet,1629013,Pullup Jump shot,2PT Field Goal,14,5,STANDARD_JUMP_SHOTS,0.3571428571428571,2024
+Landry Shamet,1629013,Pullup Jump shot,3PT Field Goal,11,3,STANDARD_JUMP_SHOTS,0.4090909090909091,2024
+Landry Shamet,1629013,Running Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2024
+Landry Shamet,1629013,Running Finger Roll Layup Shot,2PT Field Goal,1,0,FINGER_ROLLS,0.0,2024
+Landry Shamet,1629013,Running Jump Shot,3PT Field Goal,7,3,MOVING_JUMPERS,0.6428571428571429,2024
+Landry Shamet,1629013,Running Layup Shot,2PT Field Goal,2,2,STANDARD_LAYUPS,1.0,2024
+Landry Shamet,1629013,Running Pull-Up Jump Shot,2PT Field Goal,1,1,MOVING_JUMPERS,1.0,2024
+Landry Shamet,1629013,Running Pull-Up Jump Shot,3PT Field Goal,1,0,MOVING_JUMPERS,0.0,2024
+Landry Shamet,1629013,Step Back Jump shot,3PT Field Goal,3,1,STEP_BACK_JUMPERS,0.5,2024
+Landry Shamet,1629013,Tip Layup Shot,2PT Field Goal,1,1,SPECIALTY_LAYUPS,1.0,2024
+Landry Shamet,1629013,Turnaround Bank shot,2PT Field Goal,1,1,TURNAROUND_JUMPERS,1.0,2024
+Landry Shamet,1629013,Turnaround Fadeaway shot,2PT Field Goal,1,0,FADEAWAY_JUMPERS,0.0,2024
+Landry Shamet,1629013,Running Pull-Up Jump Shot,3PT Field Goal,1,0,MOVING_JUMPERS,0.0,2025

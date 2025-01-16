@@ -1,28 +1,29 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Ryan Rollins,1631157,Driving Finger Roll Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2024
-Ryan Rollins,1631157,Driving Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2024
-Ryan Rollins,1631157,Driving Reverse Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Ryan Rollins,1631157,Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2024
-Ryan Rollins,1631157,Pullup Jump shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2024
-Ryan Rollins,1631157,Putback Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Ryan Rollins,1631157,Running Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2024
-Ryan Rollins,1631157,Running Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Ryan Rollins,1631157,Step Back Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Ryan Rollins,1631157,Cutting Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2025
-Ryan Rollins,1631157,Cutting Finger Roll Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Ryan Rollins,1631157,Cutting Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Ryan Rollins,1631157,Driving Finger Roll Layup Shot,2PT Field Goal,4,3,LAYUPS,0.75,2025
-Ryan Rollins,1631157,Driving Floating Bank Jump Shot,2PT Field Goal,4,1,SPECIALTY_SHOTS,0.25,2025
-Ryan Rollins,1631157,Driving Floating Jump Shot,2PT Field Goal,4,2,SPECIALTY_SHOTS,0.5,2025
-Ryan Rollins,1631157,Driving Layup Shot,2PT Field Goal,12,6,LAYUPS,0.5,2025
-Ryan Rollins,1631157,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
-Ryan Rollins,1631157,Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2025
-Ryan Rollins,1631157,Jump Shot,3PT Field Goal,24,10,JUMP_SHOTS,0.625,2025
-Ryan Rollins,1631157,Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2025
-Ryan Rollins,1631157,Pullup Jump shot,2PT Field Goal,4,1,JUMP_SHOTS,0.25,2025
-Ryan Rollins,1631157,Pullup Jump shot,3PT Field Goal,4,2,JUMP_SHOTS,0.75,2025
-Ryan Rollins,1631157,Running Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,2025
-Ryan Rollins,1631157,Running Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2025
-Ryan Rollins,1631157,Step Back Jump shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
-Ryan Rollins,1631157,Step Back Jump shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
-Ryan Rollins,1631157,Tip Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2025
+Ryan Rollins,1631157,Driving Finger Roll Layup Shot,2PT Field Goal,2,1,FINGER_ROLLS,0.5,2024
+Ryan Rollins,1631157,Driving Layup Shot,2PT Field Goal,2,1,DRIVING_LAYUPS,0.5,2024
+Ryan Rollins,1631157,Driving Reverse Layup Shot,2PT Field Goal,1,1,DRIVING_LAYUPS,1.0,2024
+Ryan Rollins,1631157,Jump Shot,3PT Field Goal,2,1,STANDARD_JUMP_SHOTS,0.75,2024
+Ryan Rollins,1631157,Pullup Jump shot,2PT Field Goal,2,0,STANDARD_JUMP_SHOTS,0.0,2024
+Ryan Rollins,1631157,Putback Layup Shot,2PT Field Goal,1,1,SPECIALTY_LAYUPS,1.0,2024
+Ryan Rollins,1631157,Running Jump Shot,3PT Field Goal,1,1,MOVING_JUMPERS,1.5,2024
+Ryan Rollins,1631157,Running Layup Shot,2PT Field Goal,1,0,STANDARD_LAYUPS,0.0,2024
+Ryan Rollins,1631157,Step Back Jump shot,2PT Field Goal,1,0,STEP_BACK_JUMPERS,0.0,2024
+Ryan Rollins,1631157,Cutting Dunk Shot,2PT Field Goal,2,2,SPECIALTY_DUNKS,1.0,2025
+Ryan Rollins,1631157,Cutting Finger Roll Layup Shot,2PT Field Goal,1,1,FINGER_ROLLS,1.0,2025
+Ryan Rollins,1631157,Cutting Layup Shot,2PT Field Goal,1,1,STANDARD_LAYUPS,1.0,2025
+Ryan Rollins,1631157,Driving Finger Roll Layup Shot,2PT Field Goal,4,3,FINGER_ROLLS,0.75,2025
+Ryan Rollins,1631157,Driving Floating Bank Jump Shot,2PT Field Goal,4,1,FLOATING_SHOTS,0.25,2025
+Ryan Rollins,1631157,Driving Floating Jump Shot,2PT Field Goal,4,2,FLOATING_SHOTS,0.5,2025
+Ryan Rollins,1631157,Driving Layup Shot,2PT Field Goal,13,7,DRIVING_LAYUPS,0.5384615384615384,2025
+Ryan Rollins,1631157,Fadeaway Jump Shot,2PT Field Goal,1,0,FADEAWAY_JUMPERS,0.0,2025
+Ryan Rollins,1631157,Jump Shot,2PT Field Goal,2,1,STANDARD_JUMP_SHOTS,0.5,2025
+Ryan Rollins,1631157,Jump Shot,3PT Field Goal,24,10,STANDARD_JUMP_SHOTS,0.625,2025
+Ryan Rollins,1631157,Layup Shot,2PT Field Goal,1,0,STANDARD_LAYUPS,0.0,2025
+Ryan Rollins,1631157,Pullup Jump shot,2PT Field Goal,4,1,STANDARD_JUMP_SHOTS,0.25,2025
+Ryan Rollins,1631157,Pullup Jump shot,3PT Field Goal,4,2,STANDARD_JUMP_SHOTS,0.75,2025
+Ryan Rollins,1631157,Running Jump Shot,3PT Field Goal,2,0,MOVING_JUMPERS,0.0,2025
+Ryan Rollins,1631157,Running Layup Shot,2PT Field Goal,4,2,STANDARD_LAYUPS,0.5,2025
+Ryan Rollins,1631157,Step Back Jump shot,2PT Field Goal,1,0,STEP_BACK_JUMPERS,0.0,2025
+Ryan Rollins,1631157,Step Back Jump shot,3PT Field Goal,1,0,STEP_BACK_JUMPERS,0.0,2025
+Ryan Rollins,1631157,Tip Layup Shot,2PT Field Goal,2,2,SPECIALTY_LAYUPS,1.0,2025
+Ryan Rollins,1631157,Turnaround Fadeaway shot,2PT Field Goal,1,1,FADEAWAY_JUMPERS,1.0,2025

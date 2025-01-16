@@ -1,47 +1,47 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Dan Majerle,105,Driving Layup Shot,2PT Field Goal,15,11,LAYUPS,0.7333333333333333,1997
-Dan Majerle,105,Dunk Shot,2PT Field Goal,4,4,DUNKS,1.0,1997
-Dan Majerle,105,Jump Shot,2PT Field Goal,18,7,JUMP_SHOTS,0.3888888888888889,1997
-Dan Majerle,105,Jump Shot,3PT Field Goal,76,25,JUMP_SHOTS,0.4934210526315789,1997
-Dan Majerle,105,Layup Shot,2PT Field Goal,18,9,LAYUPS,0.5,1997
-Dan Majerle,105,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,1997
-Dan Majerle,105,Tip Shot,2PT Field Goal,1,0,SPECIALTY_SHOTS,0.0,1997
-Dan Majerle,105,Driving Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,1998
-Dan Majerle,105,Driving Layup Shot,2PT Field Goal,11,7,LAYUPS,0.6363636363636364,1998
-Dan Majerle,105,Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,1998
-Dan Majerle,105,Hook Shot,2PT Field Goal,3,3,POST_MOVES,1.0,1998
-Dan Majerle,105,Jump Shot,2PT Field Goal,16,2,JUMP_SHOTS,0.125,1998
-Dan Majerle,105,Jump Shot,3PT Field Goal,129,49,JUMP_SHOTS,0.5697674418604651,1998
-Dan Majerle,105,Layup Shot,2PT Field Goal,21,15,LAYUPS,0.7142857142857143,1998
-Dan Majerle,105,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,1998
-Dan Majerle,105,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,1998
-Dan Majerle,105,Tip Shot,2PT Field Goal,2,0,SPECIALTY_SHOTS,0.0,1998
-Dan Majerle,105,Driving Layup Shot,2PT Field Goal,10,8,LAYUPS,0.8,1999
-Dan Majerle,105,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,1999
-Dan Majerle,105,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,1999
-Dan Majerle,105,Jump Shot,2PT Field Goal,15,8,JUMP_SHOTS,0.5333333333333333,1999
-Dan Majerle,105,Jump Shot,3PT Field Goal,83,30,JUMP_SHOTS,0.5421686746987951,1999
-Dan Majerle,105,Layup Shot,2PT Field Goal,13,8,LAYUPS,0.6153846153846154,1999
-Dan Majerle,105,Driving Layup Shot,2PT Field Goal,10,10,LAYUPS,1.0,2000
-Dan Majerle,105,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2000
-Dan Majerle,105,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2000
-Dan Majerle,105,Jump Shot,2PT Field Goal,20,4,JUMP_SHOTS,0.2,2000
-Dan Majerle,105,Jump Shot,3PT Field Goal,125,48,JUMP_SHOTS,0.576,2000
-Dan Majerle,105,Layup Shot,2PT Field Goal,15,12,LAYUPS,0.8,2000
-Dan Majerle,105,Running Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2000
-Dan Majerle,105,Driving Layup Shot,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2001
-Dan Majerle,105,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2001
-Dan Majerle,105,Jump Shot,2PT Field Goal,18,7,JUMP_SHOTS,0.3888888888888889,2001
-Dan Majerle,105,Jump Shot,3PT Field Goal,83,29,JUMP_SHOTS,0.5240963855421686,2001
-Dan Majerle,105,Layup Shot,2PT Field Goal,7,4,LAYUPS,0.5714285714285714,2001
-Dan Majerle,105,Reverse Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2001
-Dan Majerle,105,Running Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2001
-Dan Majerle,105,Tip Shot,2PT Field Goal,3,0,SPECIALTY_SHOTS,0.0,2001
-Dan Majerle,105,Driving Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2002
-Dan Majerle,105,Dunk Shot,2PT Field Goal,1,0,DUNKS,0.0,2002
-Dan Majerle,105,Finger Roll Shot,2PT Field Goal,1,1,LAYUPS,1.0,2002
-Dan Majerle,105,Jump Shot,2PT Field Goal,29,8,JUMP_SHOTS,0.2758620689655172,2002
-Dan Majerle,105,Jump Shot,3PT Field Goal,214,70,JUMP_SHOTS,0.4906542056074766,2002
-Dan Majerle,105,Layup Shot,2PT Field Goal,13,7,LAYUPS,0.5384615384615384,2002
-Dan Majerle,105,Reverse Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2002
-Dan Majerle,105,Running Jump Shot,2PT Field Goal,4,3,JUMP_SHOTS,0.75,2002
+Dan Majerle,105,Driving Layup Shot,2PT Field Goal,15,11,DRIVING_LAYUPS,0.7333333333333333,1997
+Dan Majerle,105,Dunk Shot,2PT Field Goal,4,4,BASIC_DUNKS,1.0,1997
+Dan Majerle,105,Jump Shot,2PT Field Goal,18,7,STANDARD_JUMP_SHOTS,0.3888888888888889,1997
+Dan Majerle,105,Jump Shot,3PT Field Goal,76,25,STANDARD_JUMP_SHOTS,0.4934210526315789,1997
+Dan Majerle,105,Layup Shot,2PT Field Goal,18,9,STANDARD_LAYUPS,0.5,1997
+Dan Majerle,105,Slam Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,1997
+Dan Majerle,105,Tip Shot,2PT Field Goal,1,0,TIP_SHOTS,0.0,1997
+Dan Majerle,105,Driving Dunk Shot,2PT Field Goal,1,1,DRIVING_DUNKS,1.0,1998
+Dan Majerle,105,Driving Layup Shot,2PT Field Goal,11,7,DRIVING_LAYUPS,0.6363636363636364,1998
+Dan Majerle,105,Dunk Shot,2PT Field Goal,2,2,BASIC_DUNKS,1.0,1998
+Dan Majerle,105,Hook Shot,2PT Field Goal,3,3,STANDARD_HOOKS,1.0,1998
+Dan Majerle,105,Jump Shot,2PT Field Goal,16,2,STANDARD_JUMP_SHOTS,0.125,1998
+Dan Majerle,105,Jump Shot,3PT Field Goal,129,49,STANDARD_JUMP_SHOTS,0.5697674418604651,1998
+Dan Majerle,105,Layup Shot,2PT Field Goal,21,15,STANDARD_LAYUPS,0.7142857142857143,1998
+Dan Majerle,105,Running Jump Shot,2PT Field Goal,1,1,MOVING_JUMPERS,1.0,1998
+Dan Majerle,105,Slam Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,1998
+Dan Majerle,105,Tip Shot,2PT Field Goal,2,0,TIP_SHOTS,0.0,1998
+Dan Majerle,105,Driving Layup Shot,2PT Field Goal,10,8,DRIVING_LAYUPS,0.8,1999
+Dan Majerle,105,Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,1999
+Dan Majerle,105,Hook Shot,2PT Field Goal,1,0,STANDARD_HOOKS,0.0,1999
+Dan Majerle,105,Jump Shot,2PT Field Goal,15,8,STANDARD_JUMP_SHOTS,0.5333333333333333,1999
+Dan Majerle,105,Jump Shot,3PT Field Goal,83,30,STANDARD_JUMP_SHOTS,0.5421686746987951,1999
+Dan Majerle,105,Layup Shot,2PT Field Goal,13,8,STANDARD_LAYUPS,0.6153846153846154,1999
+Dan Majerle,105,Driving Layup Shot,2PT Field Goal,10,10,DRIVING_LAYUPS,1.0,2000
+Dan Majerle,105,Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2000
+Dan Majerle,105,Hook Shot,2PT Field Goal,1,0,STANDARD_HOOKS,0.0,2000
+Dan Majerle,105,Jump Shot,2PT Field Goal,20,4,STANDARD_JUMP_SHOTS,0.2,2000
+Dan Majerle,105,Jump Shot,3PT Field Goal,125,48,STANDARD_JUMP_SHOTS,0.576,2000
+Dan Majerle,105,Layup Shot,2PT Field Goal,15,12,STANDARD_LAYUPS,0.8,2000
+Dan Majerle,105,Running Jump Shot,2PT Field Goal,2,0,MOVING_JUMPERS,0.0,2000
+Dan Majerle,105,Driving Layup Shot,2PT Field Goal,3,1,DRIVING_LAYUPS,0.3333333333333333,2001
+Dan Majerle,105,Hook Shot,2PT Field Goal,1,0,STANDARD_HOOKS,0.0,2001
+Dan Majerle,105,Jump Shot,2PT Field Goal,18,7,STANDARD_JUMP_SHOTS,0.3888888888888889,2001
+Dan Majerle,105,Jump Shot,3PT Field Goal,83,29,STANDARD_JUMP_SHOTS,0.5240963855421686,2001
+Dan Majerle,105,Layup Shot,2PT Field Goal,7,4,STANDARD_LAYUPS,0.5714285714285714,2001
+Dan Majerle,105,Reverse Layup Shot,2PT Field Goal,2,1,SPECIALTY_LAYUPS,0.5,2001
+Dan Majerle,105,Running Layup Shot,2PT Field Goal,1,1,STANDARD_LAYUPS,1.0,2001
+Dan Majerle,105,Tip Shot,2PT Field Goal,3,0,TIP_SHOTS,0.0,2001
+Dan Majerle,105,Driving Layup Shot,2PT Field Goal,2,1,DRIVING_LAYUPS,0.5,2002
+Dan Majerle,105,Dunk Shot,2PT Field Goal,1,0,BASIC_DUNKS,0.0,2002
+Dan Majerle,105,Finger Roll Shot,2PT Field Goal,1,1,FINGER_ROLLS,1.0,2002
+Dan Majerle,105,Jump Shot,2PT Field Goal,29,8,STANDARD_JUMP_SHOTS,0.2758620689655172,2002
+Dan Majerle,105,Jump Shot,3PT Field Goal,214,70,STANDARD_JUMP_SHOTS,0.4906542056074766,2002
+Dan Majerle,105,Layup Shot,2PT Field Goal,13,7,STANDARD_LAYUPS,0.5384615384615384,2002
+Dan Majerle,105,Reverse Layup Shot,2PT Field Goal,1,0,SPECIALTY_LAYUPS,0.0,2002
+Dan Majerle,105,Running Jump Shot,2PT Field Goal,4,3,MOVING_JUMPERS,0.75,2002

@@ -1,10 +1,10 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Eddy Curry,2201,Layup Shot,2PT Field Goal,5,4,LAYUPS,0.8,2004
-Eddy Curry,2201,Alley Oop Layup shot,2PT Field Goal,1,1,LAYUPS,1.0,2005
-Eddy Curry,2201,Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2005
-Eddy Curry,2201,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2005
-Eddy Curry,2201,Hook Shot,2PT Field Goal,6,3,POST_MOVES,0.5,2005
-Eddy Curry,2201,Jump Shot,2PT Field Goal,8,2,JUMP_SHOTS,0.25,2005
-Eddy Curry,2201,Layup Shot,2PT Field Goal,5,4,LAYUPS,0.8,2005
-Eddy Curry,2201,Reverse Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2005
-Eddy Curry,2201,Turnaround Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2005
+Eddy Curry,2201,Layup Shot,2PT Field Goal,5,4,STANDARD_LAYUPS,0.8,2004
+Eddy Curry,2201,Alley Oop Layup shot,2PT Field Goal,1,1,SPECIALTY_LAYUPS,1.0,2005
+Eddy Curry,2201,Dunk Shot,2PT Field Goal,2,2,BASIC_DUNKS,1.0,2005
+Eddy Curry,2201,Fadeaway Jump Shot,2PT Field Goal,1,1,FADEAWAY_JUMPERS,1.0,2005
+Eddy Curry,2201,Hook Shot,2PT Field Goal,6,3,STANDARD_HOOKS,0.5,2005
+Eddy Curry,2201,Jump Shot,2PT Field Goal,8,2,STANDARD_JUMP_SHOTS,0.25,2005
+Eddy Curry,2201,Layup Shot,2PT Field Goal,5,4,STANDARD_LAYUPS,0.8,2005
+Eddy Curry,2201,Reverse Layup Shot,2PT Field Goal,2,1,SPECIALTY_LAYUPS,0.5,2005
+Eddy Curry,2201,Turnaround Hook Shot,2PT Field Goal,1,0,SPECIALTY_HOOKS,0.0,2005

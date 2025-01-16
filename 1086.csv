@@ -1,7 +1,7 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Joe Stephens,1086,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2000
-Joe Stephens,1086,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2000
-Joe Stephens,1086,Jump Shot,2PT Field Goal,12,5,JUMP_SHOTS,0.4166666666666667,2000
-Joe Stephens,1086,Jump Shot,3PT Field Goal,4,0,JUMP_SHOTS,0.0,2000
-Joe Stephens,1086,Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2000
-Joe Stephens,1086,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2000
+Joe Stephens,1086,Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2000
+Joe Stephens,1086,Hook Shot,2PT Field Goal,1,1,STANDARD_HOOKS,1.0,2000
+Joe Stephens,1086,Jump Shot,2PT Field Goal,12,5,STANDARD_JUMP_SHOTS,0.4166666666666667,2000
+Joe Stephens,1086,Jump Shot,3PT Field Goal,4,0,STANDARD_JUMP_SHOTS,0.0,2000
+Joe Stephens,1086,Layup Shot,2PT Field Goal,1,0,STANDARD_LAYUPS,0.0,2000
+Joe Stephens,1086,Running Jump Shot,2PT Field Goal,1,1,MOVING_JUMPERS,1.0,2000

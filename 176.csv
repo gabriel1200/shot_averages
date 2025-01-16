@@ -1,14 +1,14 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Antonio Harvey,176,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,1997
-Antonio Harvey,176,Driving Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2000
-Antonio Harvey,176,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2000
-Antonio Harvey,176,Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,0.6666666666666666,2000
-Antonio Harvey,176,Layup Shot,2PT Field Goal,3,0,LAYUPS,0.0,2000
-Antonio Harvey,176,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2000
-Antonio Harvey,176,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2001
-Antonio Harvey,176,Jump Shot,2PT Field Goal,10,4,JUMP_SHOTS,0.4,2001
-Antonio Harvey,176,Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2001
-Antonio Harvey,176,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2001
-Antonio Harvey,176,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2001
-Antonio Harvey,176,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2001
-Antonio Harvey,176,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2002
+Antonio Harvey,176,Jump Shot,2PT Field Goal,1,1,STANDARD_JUMP_SHOTS,1.0,1997
+Antonio Harvey,176,Driving Layup Shot,2PT Field Goal,2,2,DRIVING_LAYUPS,1.0,2000
+Antonio Harvey,176,Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2000
+Antonio Harvey,176,Jump Shot,2PT Field Goal,3,2,STANDARD_JUMP_SHOTS,0.6666666666666666,2000
+Antonio Harvey,176,Layup Shot,2PT Field Goal,3,0,STANDARD_LAYUPS,0.0,2000
+Antonio Harvey,176,Running Jump Shot,2PT Field Goal,1,1,MOVING_JUMPERS,1.0,2000
+Antonio Harvey,176,Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2001
+Antonio Harvey,176,Jump Shot,2PT Field Goal,10,4,STANDARD_JUMP_SHOTS,0.4,2001
+Antonio Harvey,176,Layup Shot,2PT Field Goal,2,1,STANDARD_LAYUPS,0.5,2001
+Antonio Harvey,176,Running Jump Shot,2PT Field Goal,1,1,MOVING_JUMPERS,1.0,2001
+Antonio Harvey,176,Slam Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2001
+Antonio Harvey,176,Turnaround Jump Shot,2PT Field Goal,1,1,TURNAROUND_JUMPERS,1.0,2001
+Antonio Harvey,176,Jump Shot,2PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2002

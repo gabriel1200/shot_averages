@@ -1,16 +1,16 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jaden Springer,1630531,Cutting Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Jaden Springer,1630531,Fadeaway Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2024
-Jaden Springer,1630531,Jump Shot,3PT Field Goal,5,1,JUMP_SHOTS,0.3,2024
-Jaden Springer,1630531,Pullup Jump shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2024
-Jaden Springer,1630531,Pullup Jump shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Jaden Springer,1630531,Putback Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2024
-Jaden Springer,1630531,Running Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Jaden Springer,1630531,Driving Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2025
-Jaden Springer,1630531,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
-Jaden Springer,1630531,Jump Shot,3PT Field Goal,3,0,JUMP_SHOTS,0.0,2025
-Jaden Springer,1630531,Running Dunk Shot,2PT Field Goal,2,2,DUNKS,1.0,2025
-Jaden Springer,1630531,Running Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2025
-Jaden Springer,1630531,Running Pull-Up Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
-Jaden Springer,1630531,Turnaround Fadeaway shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
-Jaden Springer,1630531,Turnaround Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2025
+Jaden Springer,1630531,Cutting Layup Shot,2PT Field Goal,1,0,STANDARD_LAYUPS,0.0,2024
+Jaden Springer,1630531,Fadeaway Jump Shot,2PT Field Goal,2,1,FADEAWAY_JUMPERS,0.5,2024
+Jaden Springer,1630531,Jump Shot,3PT Field Goal,5,1,STANDARD_JUMP_SHOTS,0.3,2024
+Jaden Springer,1630531,Pullup Jump shot,2PT Field Goal,1,1,STANDARD_JUMP_SHOTS,1.0,2024
+Jaden Springer,1630531,Pullup Jump shot,3PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2024
+Jaden Springer,1630531,Putback Layup Shot,2PT Field Goal,2,1,SPECIALTY_LAYUPS,0.5,2024
+Jaden Springer,1630531,Running Layup Shot,2PT Field Goal,1,1,STANDARD_LAYUPS,1.0,2024
+Jaden Springer,1630531,Driving Layup Shot,2PT Field Goal,2,1,DRIVING_LAYUPS,0.5,2025
+Jaden Springer,1630531,Jump Shot,2PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2025
+Jaden Springer,1630531,Jump Shot,3PT Field Goal,3,0,STANDARD_JUMP_SHOTS,0.0,2025
+Jaden Springer,1630531,Running Dunk Shot,2PT Field Goal,2,2,BASIC_DUNKS,1.0,2025
+Jaden Springer,1630531,Running Layup Shot,2PT Field Goal,1,0,STANDARD_LAYUPS,0.0,2025
+Jaden Springer,1630531,Running Pull-Up Jump Shot,3PT Field Goal,1,0,MOVING_JUMPERS,0.0,2025
+Jaden Springer,1630531,Turnaround Fadeaway shot,2PT Field Goal,1,0,FADEAWAY_JUMPERS,0.0,2025
+Jaden Springer,1630531,Turnaround Hook Shot,2PT Field Goal,1,1,SPECIALTY_HOOKS,1.0,2025

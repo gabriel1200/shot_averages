@@ -1,6 +1,6 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jayson Williams,420,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,1998
-Jayson Williams,420,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,1998
-Jayson Williams,420,Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,1999
-Jayson Williams,420,Layup Shot,2PT Field Goal,3,3,LAYUPS,1.0,1999
-Jayson Williams,420,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,1999
+Jayson Williams,420,Driving Layup Shot,2PT Field Goal,1,1,DRIVING_LAYUPS,1.0,1998
+Jayson Williams,420,Jump Shot,2PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,1998
+Jayson Williams,420,Jump Shot,2PT Field Goal,2,1,STANDARD_JUMP_SHOTS,0.5,1999
+Jayson Williams,420,Layup Shot,2PT Field Goal,3,3,STANDARD_LAYUPS,1.0,1999
+Jayson Williams,420,Running Jump Shot,2PT Field Goal,1,1,MOVING_JUMPERS,1.0,1999

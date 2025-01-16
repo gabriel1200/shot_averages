@@ -1,22 +1,22 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Lee Nailon,1924,Jump Shot,2PT Field Goal,7,2,JUMP_SHOTS,0.2857142857142857,2001
-Lee Nailon,1924,Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2001
-Lee Nailon,1924,Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2002
-Lee Nailon,1924,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2003
-Lee Nailon,1924,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2003
-Lee Nailon,1924,Jump Shot,2PT Field Goal,14,7,JUMP_SHOTS,0.5,2003
-Lee Nailon,1924,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2003
-Lee Nailon,1924,Layup Shot,2PT Field Goal,5,2,LAYUPS,0.4,2003
-Lee Nailon,1924,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2003
-Lee Nailon,1924,Slam Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2003
-Lee Nailon,1924,Tip Shot,2PT Field Goal,1,1,SPECIALTY_SHOTS,1.0,2003
-Lee Nailon,1924,Jump Shot,2PT Field Goal,5,3,JUMP_SHOTS,0.6,2004
-Lee Nailon,1924,Driving Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2005
-Lee Nailon,1924,Dunk Shot,2PT Field Goal,1,1,DUNKS,1.0,2005
-Lee Nailon,1924,Hook Shot,2PT Field Goal,2,1,POST_MOVES,0.5,2005
-Lee Nailon,1924,Jump Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2005
-Lee Nailon,1924,Jump Shot,2PT Field Goal,52,22,JUMP_SHOTS,0.4230769230769231,2005
-Lee Nailon,1924,Layup Shot,2PT Field Goal,17,3,LAYUPS,0.1764705882352941,2005
-Lee Nailon,1924,Reverse Layup Shot,2PT Field Goal,2,1,LAYUPS,0.5,2005
-Lee Nailon,1924,Tip Shot,2PT Field Goal,3,1,SPECIALTY_SHOTS,0.3333333333333333,2005
-Lee Nailon,1924,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2005
+Lee Nailon,1924,Jump Shot,2PT Field Goal,7,2,STANDARD_JUMP_SHOTS,0.2857142857142857,2001
+Lee Nailon,1924,Layup Shot,2PT Field Goal,2,1,STANDARD_LAYUPS,0.5,2001
+Lee Nailon,1924,Layup Shot,2PT Field Goal,1,0,STANDARD_LAYUPS,0.0,2002
+Lee Nailon,1924,Driving Layup Shot,2PT Field Goal,1,1,DRIVING_LAYUPS,1.0,2003
+Lee Nailon,1924,Hook Shot,2PT Field Goal,1,0,STANDARD_HOOKS,0.0,2003
+Lee Nailon,1924,Jump Shot,2PT Field Goal,14,7,STANDARD_JUMP_SHOTS,0.5,2003
+Lee Nailon,1924,Jump Shot,3PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2003
+Lee Nailon,1924,Layup Shot,2PT Field Goal,5,2,STANDARD_LAYUPS,0.4,2003
+Lee Nailon,1924,Running Jump Shot,2PT Field Goal,1,1,MOVING_JUMPERS,1.0,2003
+Lee Nailon,1924,Slam Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2003
+Lee Nailon,1924,Tip Shot,2PT Field Goal,1,1,TIP_SHOTS,1.0,2003
+Lee Nailon,1924,Jump Shot,2PT Field Goal,5,3,STANDARD_JUMP_SHOTS,0.6,2004
+Lee Nailon,1924,Driving Layup Shot,2PT Field Goal,2,2,DRIVING_LAYUPS,1.0,2005
+Lee Nailon,1924,Dunk Shot,2PT Field Goal,1,1,BASIC_DUNKS,1.0,2005
+Lee Nailon,1924,Hook Shot,2PT Field Goal,2,1,STANDARD_HOOKS,0.5,2005
+Lee Nailon,1924,Jump Hook Shot,2PT Field Goal,1,1,STANDARD_HOOKS,1.0,2005
+Lee Nailon,1924,Jump Shot,2PT Field Goal,52,22,STANDARD_JUMP_SHOTS,0.4230769230769231,2005
+Lee Nailon,1924,Layup Shot,2PT Field Goal,17,3,STANDARD_LAYUPS,0.1764705882352941,2005
+Lee Nailon,1924,Reverse Layup Shot,2PT Field Goal,2,1,SPECIALTY_LAYUPS,0.5,2005
+Lee Nailon,1924,Tip Shot,2PT Field Goal,3,1,TIP_SHOTS,0.3333333333333333,2005
+Lee Nailon,1924,Turnaround Jump Shot,2PT Field Goal,1,1,TURNAROUND_JUMPERS,1.0,2005

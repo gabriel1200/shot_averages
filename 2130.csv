@@ -1,6 +1,6 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Mike Penberthy,2130,Driving Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2001
-Mike Penberthy,2130,Jump Shot,2PT Field Goal,5,1,JUMP_SHOTS,0.2,2001
-Mike Penberthy,2130,Jump Shot,3PT Field Goal,12,6,JUMP_SHOTS,0.75,2001
-Mike Penberthy,2130,Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2001
-Mike Penberthy,2130,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2001
+Mike Penberthy,2130,Driving Layup Shot,2PT Field Goal,2,2,DRIVING_LAYUPS,1.0,2001
+Mike Penberthy,2130,Jump Shot,2PT Field Goal,5,1,STANDARD_JUMP_SHOTS,0.2,2001
+Mike Penberthy,2130,Jump Shot,3PT Field Goal,12,6,STANDARD_JUMP_SHOTS,0.75,2001
+Mike Penberthy,2130,Layup Shot,2PT Field Goal,1,0,STANDARD_LAYUPS,0.0,2001
+Mike Penberthy,2130,Running Jump Shot,2PT Field Goal,1,1,MOVING_JUMPERS,1.0,2001

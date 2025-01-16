@@ -1,12 +1,12 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Rusty LaRue,1601,Driving Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,1998
-Rusty LaRue,1601,Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,1998
-Rusty LaRue,1601,Driving Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,1999
-Rusty LaRue,1601,Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,0.6666666666666666,1999
-Rusty LaRue,1601,Jump Shot,3PT Field Goal,7,3,JUMP_SHOTS,0.6428571428571429,1999
-Rusty LaRue,1601,Layup Shot,2PT Field Goal,3,3,LAYUPS,1.0,1999
-Rusty LaRue,1601,Driving Layup Shot,2PT Field Goal,2,2,LAYUPS,1.0,2002
-Rusty LaRue,1601,Jump Shot,2PT Field Goal,18,6,JUMP_SHOTS,0.3333333333333333,2002
-Rusty LaRue,1601,Jump Shot,3PT Field Goal,6,3,JUMP_SHOTS,0.75,2002
-Rusty LaRue,1601,Layup Shot,2PT Field Goal,7,2,LAYUPS,0.2857142857142857,2002
-Rusty LaRue,1601,Running Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,0.6666666666666666,2002
+Rusty LaRue,1601,Driving Layup Shot,2PT Field Goal,1,1,DRIVING_LAYUPS,1.0,1998
+Rusty LaRue,1601,Jump Shot,2PT Field Goal,2,2,STANDARD_JUMP_SHOTS,1.0,1998
+Rusty LaRue,1601,Driving Layup Shot,2PT Field Goal,2,2,DRIVING_LAYUPS,1.0,1999
+Rusty LaRue,1601,Jump Shot,2PT Field Goal,3,2,STANDARD_JUMP_SHOTS,0.6666666666666666,1999
+Rusty LaRue,1601,Jump Shot,3PT Field Goal,7,3,STANDARD_JUMP_SHOTS,0.6428571428571429,1999
+Rusty LaRue,1601,Layup Shot,2PT Field Goal,3,3,STANDARD_LAYUPS,1.0,1999
+Rusty LaRue,1601,Driving Layup Shot,2PT Field Goal,2,2,DRIVING_LAYUPS,1.0,2002
+Rusty LaRue,1601,Jump Shot,2PT Field Goal,18,6,STANDARD_JUMP_SHOTS,0.3333333333333333,2002
+Rusty LaRue,1601,Jump Shot,3PT Field Goal,6,3,STANDARD_JUMP_SHOTS,0.75,2002
+Rusty LaRue,1601,Layup Shot,2PT Field Goal,7,2,STANDARD_LAYUPS,0.2857142857142857,2002
+Rusty LaRue,1601,Running Jump Shot,2PT Field Goal,3,2,MOVING_JUMPERS,0.6666666666666666,2002

@@ -1,9 +1,9 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jon Leuer,202720,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2012
-Jon Leuer,202720,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2012
-Jon Leuer,202720,Jump Shot,2PT Field Goal,7,0,JUMP_SHOTS,0.0,2016
-Jon Leuer,202720,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2016
-Jon Leuer,202720,Layup Shot,2PT Field Goal,1,0,LAYUPS,0.0,2016
-Jon Leuer,202720,Putback Layup Shot,2PT Field Goal,1,1,LAYUPS,1.0,2016
-Jon Leuer,202720,Turnaround Bank Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2016
-Jon Leuer,202720,Turnaround Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,0.6666666666666666,2016
+Jon Leuer,202720,Jump Shot,2PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2012
+Jon Leuer,202720,Turnaround Jump Shot,2PT Field Goal,1,1,TURNAROUND_JUMPERS,1.0,2012
+Jon Leuer,202720,Jump Shot,2PT Field Goal,7,0,STANDARD_JUMP_SHOTS,0.0,2016
+Jon Leuer,202720,Jump Shot,3PT Field Goal,1,0,STANDARD_JUMP_SHOTS,0.0,2016
+Jon Leuer,202720,Layup Shot,2PT Field Goal,1,0,STANDARD_LAYUPS,0.0,2016
+Jon Leuer,202720,Putback Layup Shot,2PT Field Goal,1,1,SPECIALTY_LAYUPS,1.0,2016
+Jon Leuer,202720,Turnaround Bank Hook Shot,2PT Field Goal,1,0,SPECIALTY_HOOKS,0.0,2016
+Jon Leuer,202720,Turnaround Jump Shot,2PT Field Goal,3,2,TURNAROUND_JUMPERS,0.6666666666666666,2016
