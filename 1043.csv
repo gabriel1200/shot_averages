@@ -1,39 +1,34 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Amal McCaskill,1043,Dunk Shot,2,1,0,Standard Dunk,DUNKS,1997
-Amal McCaskill,1043,Hook Shot,2,1,1,Hook Shot,POST_MOVES,1997
-Amal McCaskill,1043,Jump Shot,2,18,4,2PT Jump Shot,TWO_POINT_JUMPERS,1997
-Amal McCaskill,1043,Jump Shot,3,2,0,3PT Jump Shot,THREE_POINT_JUMPERS,1997
-Amal McCaskill,1043,Layup Shot,2,8,3,Standard Layup,LAYUPS,1997
-Amal McCaskill,1043,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,1997
-Amal McCaskill,1043,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,1997
-Amal McCaskill,1043,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2002
-Amal McCaskill,1043,Dunk Shot,2,4,4,Standard Dunk,DUNKS,2002
-Amal McCaskill,1043,Follow Up Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2002
-Amal McCaskill,1043,Hook Shot,2,2,1,Hook Shot,POST_MOVES,2002
-Amal McCaskill,1043,Jump Shot,2,21,5,2PT Jump Shot,TWO_POINT_JUMPERS,2002
-Amal McCaskill,1043,Layup Shot,2,10,2,Standard Layup,LAYUPS,2002
-Amal McCaskill,1043,Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2002
-Amal McCaskill,1043,Slam Dunk Shot,2,3,3,Standard Dunk,DUNKS,2002
-Amal McCaskill,1043,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2002
-Amal McCaskill,1043,Turnaround Jump Shot,2,4,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2002
-Amal McCaskill,1043,Alley Oop Dunk Shot,2,1,0,Alley Oop Dunk,DUNKS,2003
-Amal McCaskill,1043,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2003
-Amal McCaskill,1043,Dunk Shot,2,1,0,Standard Dunk,DUNKS,2003
-Amal McCaskill,1043,Jump Shot,2,3,0,2PT Jump Shot,TWO_POINT_JUMPERS,2003
-Amal McCaskill,1043,Layup Shot,2,10,2,Standard Layup,LAYUPS,2003
-Amal McCaskill,1043,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2003
-Amal McCaskill,1043,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2004
-Amal McCaskill,1043,Driving Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2004
-Amal McCaskill,1043,Driving Layup Shot,2,3,1,Driving Layup,LAYUPS,2004
-Amal McCaskill,1043,Dunk Shot,2,4,3,Standard Dunk,DUNKS,2004
-Amal McCaskill,1043,Hook Shot,2,3,2,Hook Shot,POST_MOVES,2004
-Amal McCaskill,1043,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2004
-Amal McCaskill,1043,Jump Hook Shot,2,1,0,Hook Shot,POST_MOVES,2004
-Amal McCaskill,1043,Jump Shot,2,49,10,2PT Jump Shot,TWO_POINT_JUMPERS,2004
-Amal McCaskill,1043,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2004
-Amal McCaskill,1043,Layup Shot,2,36,15,Standard Layup,LAYUPS,2004
-Amal McCaskill,1043,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2004
-Amal McCaskill,1043,Slam Dunk Shot,2,4,4,Standard Dunk,DUNKS,2004
-Amal McCaskill,1043,Tip Shot,2,6,5,Tip Shot,TIP_SHOTS,2004
-Amal McCaskill,1043,Turnaround Hook Shot,2,2,2,Turnaround Hook Shot,POST_MOVES,2004
-Amal McCaskill,1043,Turnaround Jump Shot,2,4,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2004
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Amal McCaskill,1043,2PT Jump Shot,18,4,TWO_POINT_JUMPERS,1997
+Amal McCaskill,1043,3PT Jump Shot,2,0,THREE_POINT_JUMPERS,1997
+Amal McCaskill,1043,Hook Shot,1,1,POST_MOVES,1997
+Amal McCaskill,1043,Standard Dunk,2,1,DUNKS,1997
+Amal McCaskill,1043,Standard Layup,8,3,LAYUPS,1997
+Amal McCaskill,1043,Tip Shot,1,1,TIP_SHOTS,1997
+Amal McCaskill,1043,2PT Jump Shot,21,5,TWO_POINT_JUMPERS,2002
+Amal McCaskill,1043,2PT Turnaround Jump Shot,4,2,TWO_POINT_JUMPERS,2002
+Amal McCaskill,1043,Driving Hook Shot,1,0,POST_MOVES,2002
+Amal McCaskill,1043,Hook Shot,2,1,POST_MOVES,2002
+Amal McCaskill,1043,Reverse Layup,2,2,LAYUPS,2002
+Amal McCaskill,1043,Specialty Dunk,1,1,DUNKS,2002
+Amal McCaskill,1043,Standard Dunk,7,7,DUNKS,2002
+Amal McCaskill,1043,Standard Layup,10,2,LAYUPS,2002
+Amal McCaskill,1043,Tip Shot,1,0,TIP_SHOTS,2002
+Amal McCaskill,1043,2PT Jump Shot,3,0,TWO_POINT_JUMPERS,2003
+Amal McCaskill,1043,Alley Oop Dunk,1,0,DUNKS,2003
+Amal McCaskill,1043,Driving Layup,1,1,LAYUPS,2003
+Amal McCaskill,1043,Standard Dunk,1,0,DUNKS,2003
+Amal McCaskill,1043,Standard Layup,10,2,LAYUPS,2003
+Amal McCaskill,1043,Tip Shot,1,1,TIP_SHOTS,2003
+Amal McCaskill,1043,2PT Jump Shot,50,11,TWO_POINT_JUMPERS,2004
+Amal McCaskill,1043,2PT Turnaround Jump Shot,4,1,TWO_POINT_JUMPERS,2004
+Amal McCaskill,1043,3PT Jump Shot,1,0,THREE_POINT_JUMPERS,2004
+Amal McCaskill,1043,Alley Oop Dunk,1,1,DUNKS,2004
+Amal McCaskill,1043,Driving Layup,3,1,LAYUPS,2004
+Amal McCaskill,1043,Finger Roll,1,1,LAYUPS,2004
+Amal McCaskill,1043,Hook Shot,4,2,POST_MOVES,2004
+Amal McCaskill,1043,Reverse Layup,1,1,LAYUPS,2004
+Amal McCaskill,1043,Standard Dunk,8,7,DUNKS,2004
+Amal McCaskill,1043,Standard Layup,36,15,LAYUPS,2004
+Amal McCaskill,1043,Tip Shot,6,5,TIP_SHOTS,2004
+Amal McCaskill,1043,Turnaround Hook Shot,2,2,POST_MOVES,2004

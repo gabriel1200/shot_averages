@@ -1,17 +1,15 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Harold Jamison,1942,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2000
-Harold Jamison,1942,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2000
-Harold Jamison,1942,Hook Shot,2,2,0,Hook Shot,POST_MOVES,2000
-Harold Jamison,1942,Jump Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2000
-Harold Jamison,1942,Layup Shot,2,11,3,Standard Layup,LAYUPS,2000
-Harold Jamison,1942,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,2000
-Harold Jamison,1942,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2002
-Harold Jamison,1942,Driving Layup Shot,2,5,4,Driving Layup,LAYUPS,2002
-Harold Jamison,1942,Dunk Shot,2,4,4,Standard Dunk,DUNKS,2002
-Harold Jamison,1942,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2002
-Harold Jamison,1942,Jump Hook Shot,2,1,1,Hook Shot,POST_MOVES,2002
-Harold Jamison,1942,Jump Shot,2,10,2,2PT Jump Shot,TWO_POINT_JUMPERS,2002
-Harold Jamison,1942,Layup Shot,2,13,4,Standard Layup,LAYUPS,2002
-Harold Jamison,1942,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2002
-Harold Jamison,1942,Slam Dunk Shot,2,3,3,Standard Dunk,DUNKS,2002
-Harold Jamison,1942,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,2002
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Harold Jamison,1942,2PT Jump Shot,2,0,TWO_POINT_JUMPERS,2000
+Harold Jamison,1942,Driving Layup,1,0,LAYUPS,2000
+Harold Jamison,1942,Hook Shot,2,0,POST_MOVES,2000
+Harold Jamison,1942,Standard Dunk,2,2,DUNKS,2000
+Harold Jamison,1942,Standard Layup,11,3,LAYUPS,2000
+Harold Jamison,1942,Tip Shot,2,2,TIP_SHOTS,2000
+Harold Jamison,1942,2PT Jump Shot,10,2,TWO_POINT_JUMPERS,2002
+Harold Jamison,1942,Driving Dunk,2,2,DUNKS,2002
+Harold Jamison,1942,Driving Layup,5,4,LAYUPS,2002
+Harold Jamison,1942,Hook Shot,2,1,POST_MOVES,2002
+Harold Jamison,1942,Reverse Layup,1,1,LAYUPS,2002
+Harold Jamison,1942,Standard Dunk,7,7,DUNKS,2002
+Harold Jamison,1942,Standard Layup,13,4,LAYUPS,2002
+Harold Jamison,1942,Tip Shot,3,1,TIP_SHOTS,2002

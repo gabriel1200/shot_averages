@@ -1,27 +1,21 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Carlton Carrington,1642267,Cutting Dunk Shot,2,3,3,Specialty Dunk,DUNKS,2025
-Carlton Carrington,1642267,Cutting Layup Shot,2,8,6,Standard Layup,LAYUPS,2025
-Carlton Carrington,1642267,Driving Dunk Shot,2,2,1,Driving Dunk,DUNKS,2025
-Carlton Carrington,1642267,Driving Finger Roll Layup Shot,2,10,3,Finger Roll,LAYUPS,2025
-Carlton Carrington,1642267,Driving Floating Jump Shot,2,13,5,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Carlton Carrington,1642267,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2025
-Carlton Carrington,1642267,Driving Layup Shot,2,16,5,Driving Layup,LAYUPS,2025
-Carlton Carrington,1642267,Fadeaway Jump Shot,2,7,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
-Carlton Carrington,1642267,Floating Jump shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Carlton Carrington,1642267,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2025
-Carlton Carrington,1642267,Jump Shot,2,7,2,2PT Jump Shot,TWO_POINT_JUMPERS,2025
-Carlton Carrington,1642267,Jump Shot,3,90,29,3PT Jump Shot,THREE_POINT_JUMPERS,2025
-Carlton Carrington,1642267,Layup Shot,2,3,2,Standard Layup,LAYUPS,2025
-Carlton Carrington,1642267,Pullup Jump shot,2,51,27,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
-Carlton Carrington,1642267,Pullup Jump shot,3,37,14,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
-Carlton Carrington,1642267,Running Dunk Shot,2,4,4,Standard Dunk,DUNKS,2025
-Carlton Carrington,1642267,Running Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2025
-Carlton Carrington,1642267,Running Jump Shot,3,4,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
-Carlton Carrington,1642267,Running Layup Shot,2,7,4,Standard Layup,LAYUPS,2025
-Carlton Carrington,1642267,Running Pull-Up Jump Shot,2,2,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2025
-Carlton Carrington,1642267,Running Pull-Up Jump Shot,3,11,4,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
-Carlton Carrington,1642267,Running Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2025
-Carlton Carrington,1642267,Step Back Jump shot,2,2,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2025
-Carlton Carrington,1642267,Step Back Jump shot,3,31,12,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
-Carlton Carrington,1642267,Tip Layup Shot,2,2,0,Putback Layup,LAYUPS,2025
-Carlton Carrington,1642267,Turnaround Fadeaway shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Carlton Carrington,1642267,2PT Fadeaway Jump Shot,7,1,TWO_POINT_JUMPERS,2025
+Carlton Carrington,1642267,2PT Floating Jump Shot,17,7,FLOATING_SHOTS,2025
+Carlton Carrington,1642267,2PT Jump Shot,8,3,TWO_POINT_JUMPERS,2025
+Carlton Carrington,1642267,2PT Pullup Jump Shot,51,27,TWO_POINT_JUMPERS,2025
+Carlton Carrington,1642267,2PT Running Jump Shot,2,2,TWO_POINT_JUMPERS,2025
+Carlton Carrington,1642267,2PT Step Back Jump Shot,2,0,TWO_POINT_JUMPERS,2025
+Carlton Carrington,1642267,2PT Turnaround Jump Shot,2,1,TWO_POINT_JUMPERS,2025
+Carlton Carrington,1642267,3PT Jump Shot,93,29,THREE_POINT_JUMPERS,2025
+Carlton Carrington,1642267,3PT Pullup Jump Shot,38,15,THREE_POINT_JUMPERS,2025
+Carlton Carrington,1642267,3PT Running Jump Shot,16,4,THREE_POINT_JUMPERS,2025
+Carlton Carrington,1642267,3PT Step Back Jump Shot,31,12,THREE_POINT_JUMPERS,2025
+Carlton Carrington,1642267,Driving Dunk,2,1,DUNKS,2025
+Carlton Carrington,1642267,Driving Hook Shot,1,1,POST_MOVES,2025
+Carlton Carrington,1642267,Driving Layup,16,5,LAYUPS,2025
+Carlton Carrington,1642267,Finger Roll,11,3,LAYUPS,2025
+Carlton Carrington,1642267,Putback Layup,2,0,LAYUPS,2025
+Carlton Carrington,1642267,Reverse Layup,1,0,LAYUPS,2025
+Carlton Carrington,1642267,Specialty Dunk,3,3,DUNKS,2025
+Carlton Carrington,1642267,Standard Dunk,4,4,DUNKS,2025
+Carlton Carrington,1642267,Standard Layup,18,12,LAYUPS,2025

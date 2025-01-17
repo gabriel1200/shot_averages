@@ -1,21 +1,17 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Cody Williams,1642262,Cutting Dunk Shot,2,1,0,Specialty Dunk,DUNKS,2025
-Cody Williams,1642262,Cutting Layup Shot,2,2,2,Standard Layup,LAYUPS,2025
-Cody Williams,1642262,Driving Dunk Shot,2,1,0,Driving Dunk,DUNKS,2025
-Cody Williams,1642262,Driving Finger Roll Layup Shot,2,5,3,Finger Roll,LAYUPS,2025
-Cody Williams,1642262,Driving Floating Bank Jump Shot,2,4,2,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Cody Williams,1642262,Driving Floating Jump Shot,2,8,0,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Cody Williams,1642262,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2025
-Cody Williams,1642262,Driving Layup Shot,2,13,7,Driving Layup,LAYUPS,2025
-Cody Williams,1642262,Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2025
-Cody Williams,1642262,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Cody Williams,1642262,Jump Shot,3,54,15,3PT Jump Shot,THREE_POINT_JUMPERS,2025
-Cody Williams,1642262,Pullup Jump shot,2,4,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
-Cody Williams,1642262,Pullup Jump shot,3,2,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
-Cody Williams,1642262,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2025
-Cody Williams,1642262,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2025
-Cody Williams,1642262,Running Jump Shot,3,3,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
-Cody Williams,1642262,Running Layup Shot,2,6,2,Standard Layup,LAYUPS,2025
-Cody Williams,1642262,Running Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2025
-Cody Williams,1642262,Step Back Jump shot,2,3,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2025
-Cody Williams,1642262,Turnaround Fadeaway shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Cody Williams,1642262,2PT Floating Jump Shot,13,2,FLOATING_SHOTS,2025
+Cody Williams,1642262,2PT Pullup Jump Shot,4,0,TWO_POINT_JUMPERS,2025
+Cody Williams,1642262,2PT Step Back Jump Shot,3,0,TWO_POINT_JUMPERS,2025
+Cody Williams,1642262,2PT Turnaround Jump Shot,1,1,TWO_POINT_JUMPERS,2025
+Cody Williams,1642262,3PT Jump Shot,54,15,THREE_POINT_JUMPERS,2025
+Cody Williams,1642262,3PT Pullup Jump Shot,2,0,THREE_POINT_JUMPERS,2025
+Cody Williams,1642262,3PT Running Jump Shot,3,0,THREE_POINT_JUMPERS,2025
+Cody Williams,1642262,Driving Dunk,1,0,DUNKS,2025
+Cody Williams,1642262,Driving Hook Shot,1,0,POST_MOVES,2025
+Cody Williams,1642262,Driving Layup,13,7,LAYUPS,2025
+Cody Williams,1642262,Finger Roll,6,3,LAYUPS,2025
+Cody Williams,1642262,Putback Layup,1,1,LAYUPS,2025
+Cody Williams,1642262,Reverse Layup,1,0,LAYUPS,2025
+Cody Williams,1642262,Specialty Dunk,1,0,DUNKS,2025
+Cody Williams,1642262,Standard Dunk,2,2,DUNKS,2025
+Cody Williams,1642262,Standard Layup,8,4,LAYUPS,2025

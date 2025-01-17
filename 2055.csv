@@ -1,34 +1,31 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Mamadou N'diaye,2055,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2001
-Mamadou N'diaye,2055,Jump Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2001
-Mamadou N'diaye,2055,Turnaround Jump Shot,2,2,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2001
-Mamadou N'diaye,2055,Jump Shot,2,4,3,2PT Jump Shot,TWO_POINT_JUMPERS,2002
-Mamadou N'diaye,2055,Layup Shot,2,4,3,Standard Layup,LAYUPS,2002
-Mamadou N'diaye,2055,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2002
-Mamadou N'diaye,2055,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2002
-Mamadou N'diaye,2055,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,2003
-Mamadou N'diaye,2055,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2003
-Mamadou N'diaye,2055,Fadeaway Jump Shot,2,3,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2003
-Mamadou N'diaye,2055,Follow Up Dunk Shot,2,2,2,Specialty Dunk,DUNKS,2003
-Mamadou N'diaye,2055,Hook Shot,2,8,4,Hook Shot,POST_MOVES,2003
-Mamadou N'diaye,2055,Jump Shot,2,39,12,2PT Jump Shot,TWO_POINT_JUMPERS,2003
-Mamadou N'diaye,2055,Layup Shot,2,23,13,Standard Layup,LAYUPS,2003
-Mamadou N'diaye,2055,Running Hook Shot,2,3,2,Running Hook Shot,POST_MOVES,2003
-Mamadou N'diaye,2055,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2003
-Mamadou N'diaye,2055,Running Layup Shot,2,2,1,Standard Layup,LAYUPS,2003
-Mamadou N'diaye,2055,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2003
-Mamadou N'diaye,2055,Tip Shot,2,4,2,Tip Shot,TIP_SHOTS,2003
-Mamadou N'diaye,2055,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2003
-Mamadou N'diaye,2055,Turnaround Jump Shot,2,6,3,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2003
-Mamadou N'diaye,2055,Dunk Shot,2,4,4,Standard Dunk,DUNKS,2004
-Mamadou N'diaye,2055,Hook Shot,2,3,0,Hook Shot,POST_MOVES,2004
-Mamadou N'diaye,2055,Jump Shot,2,20,2,2PT Jump Shot,TWO_POINT_JUMPERS,2004
-Mamadou N'diaye,2055,Layup Shot,2,30,13,Standard Layup,LAYUPS,2004
-Mamadou N'diaye,2055,Slam Dunk Shot,2,4,4,Standard Dunk,DUNKS,2004
-Mamadou N'diaye,2055,Tip Shot,2,8,4,Tip Shot,TIP_SHOTS,2004
-Mamadou N'diaye,2055,Dunk Shot,2,1,0,Standard Dunk,DUNKS,2005
-Mamadou N'diaye,2055,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2005
-Mamadou N'diaye,2055,Jump Bank Shot,2,2,2,2PT Jump Shot,TWO_POINT_JUMPERS,2005
-Mamadou N'diaye,2055,Jump Shot,2,8,1,2PT Jump Shot,TWO_POINT_JUMPERS,2005
-Mamadou N'diaye,2055,Layup Shot,2,7,4,Standard Layup,LAYUPS,2005
-Mamadou N'diaye,2055,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2005
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Mamadou N'diaye,2055,2PT Jump Shot,1,0,TWO_POINT_JUMPERS,2001
+Mamadou N'diaye,2055,2PT Turnaround Jump Shot,2,0,TWO_POINT_JUMPERS,2001
+Mamadou N'diaye,2055,Hook Shot,1,1,POST_MOVES,2001
+Mamadou N'diaye,2055,2PT Jump Shot,4,3,TWO_POINT_JUMPERS,2002
+Mamadou N'diaye,2055,2PT Turnaround Jump Shot,1,0,TWO_POINT_JUMPERS,2002
+Mamadou N'diaye,2055,Standard Layup,4,3,LAYUPS,2002
+Mamadou N'diaye,2055,Tip Shot,1,0,TIP_SHOTS,2002
+Mamadou N'diaye,2055,2PT Fadeaway Jump Shot,3,1,TWO_POINT_JUMPERS,2003
+Mamadou N'diaye,2055,2PT Jump Shot,39,12,TWO_POINT_JUMPERS,2003
+Mamadou N'diaye,2055,2PT Running Jump Shot,1,0,TWO_POINT_JUMPERS,2003
+Mamadou N'diaye,2055,2PT Turnaround Jump Shot,6,3,TWO_POINT_JUMPERS,2003
+Mamadou N'diaye,2055,Driving Hook Shot,2,1,POST_MOVES,2003
+Mamadou N'diaye,2055,Driving Layup,1,0,LAYUPS,2003
+Mamadou N'diaye,2055,Hook Shot,8,4,POST_MOVES,2003
+Mamadou N'diaye,2055,Running Hook Shot,3,2,POST_MOVES,2003
+Mamadou N'diaye,2055,Specialty Dunk,2,2,DUNKS,2003
+Mamadou N'diaye,2055,Standard Dunk,1,1,DUNKS,2003
+Mamadou N'diaye,2055,Standard Layup,25,14,LAYUPS,2003
+Mamadou N'diaye,2055,Tip Shot,4,2,TIP_SHOTS,2003
+Mamadou N'diaye,2055,Turnaround Hook Shot,1,1,POST_MOVES,2003
+Mamadou N'diaye,2055,2PT Jump Shot,20,2,TWO_POINT_JUMPERS,2004
+Mamadou N'diaye,2055,Hook Shot,3,0,POST_MOVES,2004
+Mamadou N'diaye,2055,Standard Dunk,8,8,DUNKS,2004
+Mamadou N'diaye,2055,Standard Layup,30,13,LAYUPS,2004
+Mamadou N'diaye,2055,Tip Shot,8,4,TIP_SHOTS,2004
+Mamadou N'diaye,2055,2PT Jump Shot,10,3,TWO_POINT_JUMPERS,2005
+Mamadou N'diaye,2055,Hook Shot,1,0,POST_MOVES,2005
+Mamadou N'diaye,2055,Standard Dunk,1,0,DUNKS,2005
+Mamadou N'diaye,2055,Standard Layup,7,4,LAYUPS,2005
+Mamadou N'diaye,2055,Turnaround Hook Shot,1,1,POST_MOVES,2005

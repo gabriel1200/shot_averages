@@ -1,7 +1,6 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Eddie Basden,101188,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2006
-Eddie Basden,101188,Jump Shot,2,10,2,2PT Jump Shot,TWO_POINT_JUMPERS,2006
-Eddie Basden,101188,Jump Shot,3,7,1,3PT Jump Shot,THREE_POINT_JUMPERS,2006
-Eddie Basden,101188,Layup Shot,2,17,10,Standard Layup,LAYUPS,2006
-Eddie Basden,101188,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2006
-Eddie Basden,101188,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2006
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Eddie Basden,101188,2PT Jump Shot,10,2,TWO_POINT_JUMPERS,2006
+Eddie Basden,101188,3PT Jump Shot,7,1,THREE_POINT_JUMPERS,2006
+Eddie Basden,101188,Driving Layup,1,1,LAYUPS,2006
+Eddie Basden,101188,Standard Layup,18,11,LAYUPS,2006
+Eddie Basden,101188,Tip Shot,1,0,TIP_SHOTS,2006

@@ -1,13 +1,11 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Robert Franks,1629606,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2021
-Robert Franks,1629606,Driving Floating Bank Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2021
-Robert Franks,1629606,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2021
-Robert Franks,1629606,Jump Shot,2,15,5,2PT Jump Shot,TWO_POINT_JUMPERS,2021
-Robert Franks,1629606,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2021
-Robert Franks,1629606,Layup Shot,2,2,1,Standard Layup,LAYUPS,2021
-Robert Franks,1629606,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2021
-Robert Franks,1629606,Putback Layup Shot,2,2,2,Putback Layup,LAYUPS,2021
-Robert Franks,1629606,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2021
-Robert Franks,1629606,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2021
-Robert Franks,1629606,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2021
-Robert Franks,1629606,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2021
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Robert Franks,1629606,2PT Floating Jump Shot,1,1,FLOATING_SHOTS,2021
+Robert Franks,1629606,2PT Jump Shot,15,5,TWO_POINT_JUMPERS,2021
+Robert Franks,1629606,2PT Pullup Jump Shot,1,0,TWO_POINT_JUMPERS,2021
+Robert Franks,1629606,2PT Running Jump Shot,1,0,TWO_POINT_JUMPERS,2021
+Robert Franks,1629606,2PT Turnaround Jump Shot,1,0,TWO_POINT_JUMPERS,2021
+Robert Franks,1629606,3PT Jump Shot,1,0,THREE_POINT_JUMPERS,2021
+Robert Franks,1629606,Driving Layup,1,1,LAYUPS,2021
+Robert Franks,1629606,Finger Roll,1,1,LAYUPS,2021
+Robert Franks,1629606,Putback Layup,3,3,LAYUPS,2021
+Robert Franks,1629606,Standard Layup,3,2,LAYUPS,2021

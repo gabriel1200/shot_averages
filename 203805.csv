@@ -1,7 +1,7 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Will Cherry,203805,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2015
-Will Cherry,203805,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2015
-Will Cherry,203805,Jump Shot,2,11,2,2PT Jump Shot,TWO_POINT_JUMPERS,2015
-Will Cherry,203805,Layup Shot,2,4,2,Standard Layup,LAYUPS,2015
-Will Cherry,203805,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2015
-Will Cherry,203805,Running Bank shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2015
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Will Cherry,203805,2PT Floating Jump Shot,1,0,FLOATING_SHOTS,2015
+Will Cherry,203805,2PT Jump Shot,11,2,TWO_POINT_JUMPERS,2015
+Will Cherry,203805,2PT Running Jump Shot,1,1,TWO_POINT_JUMPERS,2015
+Will Cherry,203805,Driving Layup,1,0,LAYUPS,2015
+Will Cherry,203805,Reverse Layup,1,0,LAYUPS,2015
+Will Cherry,203805,Standard Layup,4,2,LAYUPS,2015

@@ -1,45 +1,41 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Michael Dickerson,1722,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,1999
-Michael Dickerson,1722,Driving Layup Shot,2,66,37,Driving Layup,LAYUPS,1999
-Michael Dickerson,1722,Dunk Shot,2,13,13,Standard Dunk,DUNKS,1999
-Michael Dickerson,1722,Jump Shot,2,257,101,2PT Jump Shot,TWO_POINT_JUMPERS,1999
-Michael Dickerson,1722,Jump Shot,3,26,10,3PT Jump Shot,THREE_POINT_JUMPERS,1999
-Michael Dickerson,1722,Layup Shot,2,72,42,Standard Layup,LAYUPS,1999
-Michael Dickerson,1722,Running Jump Shot,2,20,5,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999
-Michael Dickerson,1722,Slam Dunk Shot,2,5,5,Standard Dunk,DUNKS,1999
-Michael Dickerson,1722,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,1999
-Michael Dickerson,1722,Driving Dunk Shot,2,9,8,Driving Dunk,DUNKS,2000
-Michael Dickerson,1722,Driving Layup Shot,2,128,87,Driving Layup,LAYUPS,2000
-Michael Dickerson,1722,Dunk Shot,2,39,34,Standard Dunk,DUNKS,2000
-Michael Dickerson,1722,Hook Shot,2,4,2,Hook Shot,POST_MOVES,2000
-Michael Dickerson,1722,Jump Shot,2,898,316,2PT Jump Shot,TWO_POINT_JUMPERS,2000
-Michael Dickerson,1722,Jump Shot,3,19,8,3PT Jump Shot,THREE_POINT_JUMPERS,2000
-Michael Dickerson,1722,Layup Shot,2,139,76,Standard Layup,LAYUPS,2000
-Michael Dickerson,1722,Running Jump Shot,2,19,8,2PT Running Jump Shot,TWO_POINT_JUMPERS,2000
-Michael Dickerson,1722,Slam Dunk Shot,2,14,14,Standard Dunk,DUNKS,2000
-Michael Dickerson,1722,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2000
-Michael Dickerson,1722,Alley Oop Dunk Shot,2,5,4,Alley Oop Dunk,DUNKS,2001
-Michael Dickerson,1722,Driving Dunk Shot,2,3,2,Driving Dunk,DUNKS,2001
-Michael Dickerson,1722,Driving Layup Shot,2,35,23,Driving Layup,LAYUPS,2001
-Michael Dickerson,1722,Dunk Shot,2,21,20,Standard Dunk,DUNKS,2001
-Michael Dickerson,1722,Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2001
-Michael Dickerson,1722,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2001
-Michael Dickerson,1722,Jump Shot,2,760,276,2PT Jump Shot,TWO_POINT_JUMPERS,2001
-Michael Dickerson,1722,Jump Shot,3,18,8,3PT Jump Shot,THREE_POINT_JUMPERS,2001
-Michael Dickerson,1722,Layup Shot,2,141,66,Standard Layup,LAYUPS,2001
-Michael Dickerson,1722,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2001
-Michael Dickerson,1722,Running Jump Shot,2,12,7,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
-Michael Dickerson,1722,Running Layup Shot,2,8,8,Standard Layup,LAYUPS,2001
-Michael Dickerson,1722,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,2001
-Michael Dickerson,1722,Tip Shot,2,4,1,Tip Shot,TIP_SHOTS,2001
-Michael Dickerson,1722,Turnaround Jump Shot,2,8,6,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2001
-Michael Dickerson,1722,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2002
-Michael Dickerson,1722,Jump Shot,2,41,13,2PT Jump Shot,TWO_POINT_JUMPERS,2002
-Michael Dickerson,1722,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2002
-Michael Dickerson,1722,Layup Shot,2,4,0,Standard Layup,LAYUPS,2002
-Michael Dickerson,1722,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2002
-Michael Dickerson,1722,Driving Layup Shot,2,4,3,Driving Layup,LAYUPS,2003
-Michael Dickerson,1722,Jump Shot,2,8,2,2PT Jump Shot,TWO_POINT_JUMPERS,2003
-Michael Dickerson,1722,Jump Shot,3,8,4,3PT Jump Shot,THREE_POINT_JUMPERS,2003
-Michael Dickerson,1722,Layup Shot,2,3,1,Standard Layup,LAYUPS,2003
-Michael Dickerson,1722,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,2003
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Michael Dickerson,1722,2PT Jump Shot,257,101,TWO_POINT_JUMPERS,1999
+Michael Dickerson,1722,2PT Running Jump Shot,20,5,TWO_POINT_JUMPERS,1999
+Michael Dickerson,1722,3PT Jump Shot,26,10,THREE_POINT_JUMPERS,1999
+Michael Dickerson,1722,Driving Dunk,2,2,DUNKS,1999
+Michael Dickerson,1722,Driving Layup,66,37,LAYUPS,1999
+Michael Dickerson,1722,Standard Dunk,18,18,DUNKS,1999
+Michael Dickerson,1722,Standard Layup,72,42,LAYUPS,1999
+Michael Dickerson,1722,Tip Shot,1,0,TIP_SHOTS,1999
+Michael Dickerson,1722,2PT Jump Shot,898,316,TWO_POINT_JUMPERS,2000
+Michael Dickerson,1722,2PT Running Jump Shot,19,8,TWO_POINT_JUMPERS,2000
+Michael Dickerson,1722,3PT Jump Shot,19,8,THREE_POINT_JUMPERS,2000
+Michael Dickerson,1722,Driving Dunk,9,8,DUNKS,2000
+Michael Dickerson,1722,Driving Layup,128,87,LAYUPS,2000
+Michael Dickerson,1722,Hook Shot,4,2,POST_MOVES,2000
+Michael Dickerson,1722,Standard Dunk,53,48,DUNKS,2000
+Michael Dickerson,1722,Standard Layup,139,76,LAYUPS,2000
+Michael Dickerson,1722,Tip Shot,1,1,TIP_SHOTS,2000
+Michael Dickerson,1722,2PT Jump Shot,760,276,TWO_POINT_JUMPERS,2001
+Michael Dickerson,1722,2PT Running Jump Shot,12,7,TWO_POINT_JUMPERS,2001
+Michael Dickerson,1722,2PT Turnaround Jump Shot,8,6,TWO_POINT_JUMPERS,2001
+Michael Dickerson,1722,3PT Jump Shot,18,8,THREE_POINT_JUMPERS,2001
+Michael Dickerson,1722,Alley Oop Dunk,5,4,DUNKS,2001
+Michael Dickerson,1722,Driving Dunk,3,2,DUNKS,2001
+Michael Dickerson,1722,Driving Layup,35,23,LAYUPS,2001
+Michael Dickerson,1722,Finger Roll,1,1,LAYUPS,2001
+Michael Dickerson,1722,Hook Shot,1,0,POST_MOVES,2001
+Michael Dickerson,1722,Reverse Layup,1,1,LAYUPS,2001
+Michael Dickerson,1722,Standard Dunk,23,22,DUNKS,2001
+Michael Dickerson,1722,Standard Layup,149,74,LAYUPS,2001
+Michael Dickerson,1722,Tip Shot,4,1,TIP_SHOTS,2001
+Michael Dickerson,1722,2PT Jump Shot,41,13,TWO_POINT_JUMPERS,2002
+Michael Dickerson,1722,3PT Jump Shot,1,0,THREE_POINT_JUMPERS,2002
+Michael Dickerson,1722,Alley Oop Dunk,1,1,DUNKS,2002
+Michael Dickerson,1722,Standard Dunk,1,1,DUNKS,2002
+Michael Dickerson,1722,Standard Layup,4,0,LAYUPS,2002
+Michael Dickerson,1722,2PT Jump Shot,8,2,TWO_POINT_JUMPERS,2003
+Michael Dickerson,1722,3PT Jump Shot,8,4,THREE_POINT_JUMPERS,2003
+Michael Dickerson,1722,Driving Layup,4,3,LAYUPS,2003
+Michael Dickerson,1722,Running Hook Shot,1,0,POST_MOVES,2003
+Michael Dickerson,1722,Standard Layup,3,1,LAYUPS,2003

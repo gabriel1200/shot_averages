@@ -1,18 +1,16 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Martin Muursepp,982,Driving Layup Shot,2,9,5,Driving Layup,LAYUPS,1997
-Martin Muursepp,982,Dunk Shot,2,3,3,Standard Dunk,DUNKS,1997
-Martin Muursepp,982,Hook Shot,2,4,2,Hook Shot,POST_MOVES,1997
-Martin Muursepp,982,Jump Shot,2,60,12,2PT Jump Shot,TWO_POINT_JUMPERS,1997
-Martin Muursepp,982,Layup Shot,2,42,20,Standard Layup,LAYUPS,1997
-Martin Muursepp,982,Running Jump Shot,2,2,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
-Martin Muursepp,982,Slam Dunk Shot,2,6,6,Standard Dunk,DUNKS,1997
-Martin Muursepp,982,Tip Shot,2,5,4,Tip Shot,TIP_SHOTS,1997
-Martin Muursepp,982,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,1998
-Martin Muursepp,982,Driving Layup Shot,2,30,22,Driving Layup,LAYUPS,1998
-Martin Muursepp,982,Dunk Shot,2,2,2,Standard Dunk,DUNKS,1998
-Martin Muursepp,982,Hook Shot,2,2,1,Hook Shot,POST_MOVES,1998
-Martin Muursepp,982,Jump Shot,2,111,32,2PT Jump Shot,TWO_POINT_JUMPERS,1998
-Martin Muursepp,982,Layup Shot,2,36,18,Standard Layup,LAYUPS,1998
-Martin Muursepp,982,Running Jump Shot,2,2,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
-Martin Muursepp,982,Slam Dunk Shot,2,5,5,Standard Dunk,DUNKS,1998
-Martin Muursepp,982,Tip Shot,2,2,0,Tip Shot,TIP_SHOTS,1998
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Martin Muursepp,982,2PT Jump Shot,60,12,TWO_POINT_JUMPERS,1997
+Martin Muursepp,982,2PT Running Jump Shot,2,2,TWO_POINT_JUMPERS,1997
+Martin Muursepp,982,Driving Layup,9,5,LAYUPS,1997
+Martin Muursepp,982,Hook Shot,4,2,POST_MOVES,1997
+Martin Muursepp,982,Standard Dunk,9,9,DUNKS,1997
+Martin Muursepp,982,Standard Layup,42,20,LAYUPS,1997
+Martin Muursepp,982,Tip Shot,5,4,TIP_SHOTS,1997
+Martin Muursepp,982,2PT Jump Shot,111,32,TWO_POINT_JUMPERS,1998
+Martin Muursepp,982,2PT Running Jump Shot,2,2,TWO_POINT_JUMPERS,1998
+Martin Muursepp,982,Driving Dunk,1,1,DUNKS,1998
+Martin Muursepp,982,Driving Layup,30,22,LAYUPS,1998
+Martin Muursepp,982,Hook Shot,2,1,POST_MOVES,1998
+Martin Muursepp,982,Standard Dunk,7,7,DUNKS,1998
+Martin Muursepp,982,Standard Layup,36,18,LAYUPS,1998
+Martin Muursepp,982,Tip Shot,2,0,TIP_SHOTS,1998

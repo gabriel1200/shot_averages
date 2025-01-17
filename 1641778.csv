@@ -1,18 +1,14 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Leaky Black,1641778,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2024
-Leaky Black,1641778,Cutting Layup Shot,2,2,1,Standard Layup,LAYUPS,2024
-Leaky Black,1641778,Driving Finger Roll Layup Shot,2,2,0,Finger Roll,LAYUPS,2024
-Leaky Black,1641778,Driving Floating Bank Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2024
-Leaky Black,1641778,Driving Layup Shot,2,3,0,Driving Layup,LAYUPS,2024
-Leaky Black,1641778,Jump Shot,3,20,9,3PT Jump Shot,THREE_POINT_JUMPERS,2024
-Leaky Black,1641778,Layup Shot,2,4,1,Standard Layup,LAYUPS,2024
-Leaky Black,1641778,Pullup Jump shot,2,4,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2024
-Leaky Black,1641778,Putback Layup Shot,2,2,1,Putback Layup,LAYUPS,2024
-Leaky Black,1641778,Running Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2024
-Leaky Black,1641778,Running Alley Oop Layup Shot,2,2,2,Alley Oop Layup,LAYUPS,2024
-Leaky Black,1641778,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2024
-Leaky Black,1641778,Running Layup Shot,2,3,1,Standard Layup,LAYUPS,2024
-Leaky Black,1641778,Running Pull-Up Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2024
-Leaky Black,1641778,Tip Layup Shot,2,2,2,Putback Layup,LAYUPS,2024
-Leaky Black,1641778,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
-Leaky Black,1641778,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Leaky Black,1641778,2PT Floating Jump Shot,1,1,FLOATING_SHOTS,2024
+Leaky Black,1641778,2PT Pullup Jump Shot,4,2,TWO_POINT_JUMPERS,2024
+Leaky Black,1641778,2PT Running Jump Shot,1,1,TWO_POINT_JUMPERS,2024
+Leaky Black,1641778,2PT Turnaround Jump Shot,2,0,TWO_POINT_JUMPERS,2024
+Leaky Black,1641778,3PT Jump Shot,20,9,THREE_POINT_JUMPERS,2024
+Leaky Black,1641778,Alley Oop Dunk,1,1,DUNKS,2024
+Leaky Black,1641778,Alley Oop Layup,2,2,LAYUPS,2024
+Leaky Black,1641778,Driving Layup,3,0,LAYUPS,2024
+Leaky Black,1641778,Finger Roll,2,0,LAYUPS,2024
+Leaky Black,1641778,Putback Layup,4,3,LAYUPS,2024
+Leaky Black,1641778,Specialty Dunk,1,1,DUNKS,2024
+Leaky Black,1641778,Standard Dunk,2,2,DUNKS,2024
+Leaky Black,1641778,Standard Layup,9,3,LAYUPS,2024

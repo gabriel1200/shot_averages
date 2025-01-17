@@ -1,46 +1,42 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Bryant Reeves,735,Driving Dunk Shot,2,3,3,Driving Dunk,DUNKS,1997
-Bryant Reeves,735,Driving Layup Shot,2,10,9,Driving Layup,LAYUPS,1997
-Bryant Reeves,735,Dunk Shot,2,40,40,Standard Dunk,DUNKS,1997
-Bryant Reeves,735,Hook Shot,2,32,18,Hook Shot,POST_MOVES,1997
-Bryant Reeves,735,Jump Shot,2,594,250,2PT Jump Shot,TWO_POINT_JUMPERS,1997
-Bryant Reeves,735,Layup Shot,2,283,130,Standard Layup,LAYUPS,1997
-Bryant Reeves,735,Running Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
-Bryant Reeves,735,Slam Dunk Shot,2,18,18,Standard Dunk,DUNKS,1997
-Bryant Reeves,735,Tip Shot,2,43,29,Tip Shot,TIP_SHOTS,1997
-Bryant Reeves,735,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,1998
-Bryant Reeves,735,Driving Layup Shot,2,11,9,Driving Layup,LAYUPS,1998
-Bryant Reeves,735,Dunk Shot,2,51,50,Standard Dunk,DUNKS,1998
-Bryant Reeves,735,Hook Shot,2,72,47,Hook Shot,POST_MOVES,1998
-Bryant Reeves,735,Jump Shot,2,555,225,2PT Jump Shot,TWO_POINT_JUMPERS,1998
-Bryant Reeves,735,Layup Shot,2,190,126,Standard Layup,LAYUPS,1998
-Bryant Reeves,735,No Shot,2,3,1,No Shot,NO_SHOT,1998
-Bryant Reeves,735,Running Jump Shot,2,8,4,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
-Bryant Reeves,735,Slam Dunk Shot,2,15,15,Standard Dunk,DUNKS,1998
-Bryant Reeves,735,Tip Shot,2,34,14,Tip Shot,TIP_SHOTS,1998
-Bryant Reeves,735,Driving Layup Shot,2,3,2,Driving Layup,LAYUPS,1999
-Bryant Reeves,735,Dunk Shot,2,11,11,Standard Dunk,DUNKS,1999
-Bryant Reeves,735,Hook Shot,2,8,3,Hook Shot,POST_MOVES,1999
-Bryant Reeves,735,Jump Shot,2,179,55,2PT Jump Shot,TWO_POINT_JUMPERS,1999
-Bryant Reeves,735,Layup Shot,2,41,27,Standard Layup,LAYUPS,1999
-Bryant Reeves,735,Running Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999
-Bryant Reeves,735,Tip Shot,2,7,3,Tip Shot,TIP_SHOTS,1999
-Bryant Reeves,735,Driving Layup Shot,2,3,0,Driving Layup,LAYUPS,2000
-Bryant Reeves,735,Dunk Shot,2,20,19,Standard Dunk,DUNKS,2000
-Bryant Reeves,735,Hook Shot,2,21,9,Hook Shot,POST_MOVES,2000
-Bryant Reeves,735,Jump Shot,2,375,130,2PT Jump Shot,TWO_POINT_JUMPERS,2000
-Bryant Reeves,735,Layup Shot,2,115,70,Standard Layup,LAYUPS,2000
-Bryant Reeves,735,Running Jump Shot,2,3,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2000
-Bryant Reeves,735,Slam Dunk Shot,2,8,8,Standard Dunk,DUNKS,2000
-Bryant Reeves,735,Tip Shot,2,17,13,Tip Shot,TIP_SHOTS,2000
-Bryant Reeves,735,Driving Layup Shot,2,9,7,Driving Layup,LAYUPS,2001
-Bryant Reeves,735,Dunk Shot,2,15,12,Standard Dunk,DUNKS,2001
-Bryant Reeves,735,Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2001
-Bryant Reeves,735,Hook Shot,2,10,4,Hook Shot,POST_MOVES,2001
-Bryant Reeves,735,Jump Shot,2,398,152,2PT Jump Shot,TWO_POINT_JUMPERS,2001
-Bryant Reeves,735,Layup Shot,2,82,54,Standard Layup,LAYUPS,2001
-Bryant Reeves,735,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2001
-Bryant Reeves,735,Running Jump Shot,2,3,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
-Bryant Reeves,735,Slam Dunk Shot,2,6,6,Standard Dunk,DUNKS,2001
-Bryant Reeves,735,Tip Shot,2,17,9,Tip Shot,TIP_SHOTS,2001
-Bryant Reeves,735,Turnaround Jump Shot,2,9,6,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Bryant Reeves,735,2PT Jump Shot,594,250,TWO_POINT_JUMPERS,1997
+Bryant Reeves,735,2PT Running Jump Shot,2,1,TWO_POINT_JUMPERS,1997
+Bryant Reeves,735,Driving Dunk,3,3,DUNKS,1997
+Bryant Reeves,735,Driving Layup,10,9,LAYUPS,1997
+Bryant Reeves,735,Hook Shot,32,18,POST_MOVES,1997
+Bryant Reeves,735,Standard Dunk,58,58,DUNKS,1997
+Bryant Reeves,735,Standard Layup,283,130,LAYUPS,1997
+Bryant Reeves,735,Tip Shot,43,29,TIP_SHOTS,1997
+Bryant Reeves,735,2PT Jump Shot,555,225,TWO_POINT_JUMPERS,1998
+Bryant Reeves,735,2PT Running Jump Shot,8,4,TWO_POINT_JUMPERS,1998
+Bryant Reeves,735,Driving Dunk,1,1,DUNKS,1998
+Bryant Reeves,735,Driving Layup,11,9,LAYUPS,1998
+Bryant Reeves,735,Hook Shot,72,47,POST_MOVES,1998
+Bryant Reeves,735,No Shot,3,1,NO_SHOT,1998
+Bryant Reeves,735,Standard Dunk,66,65,DUNKS,1998
+Bryant Reeves,735,Standard Layup,190,126,LAYUPS,1998
+Bryant Reeves,735,Tip Shot,34,14,TIP_SHOTS,1998
+Bryant Reeves,735,2PT Jump Shot,179,55,TWO_POINT_JUMPERS,1999
+Bryant Reeves,735,2PT Running Jump Shot,2,1,TWO_POINT_JUMPERS,1999
+Bryant Reeves,735,Driving Layup,3,2,LAYUPS,1999
+Bryant Reeves,735,Hook Shot,8,3,POST_MOVES,1999
+Bryant Reeves,735,Standard Dunk,11,11,DUNKS,1999
+Bryant Reeves,735,Standard Layup,41,27,LAYUPS,1999
+Bryant Reeves,735,Tip Shot,7,3,TIP_SHOTS,1999
+Bryant Reeves,735,2PT Jump Shot,375,130,TWO_POINT_JUMPERS,2000
+Bryant Reeves,735,2PT Running Jump Shot,3,3,TWO_POINT_JUMPERS,2000
+Bryant Reeves,735,Driving Layup,3,0,LAYUPS,2000
+Bryant Reeves,735,Hook Shot,21,9,POST_MOVES,2000
+Bryant Reeves,735,Standard Dunk,28,27,DUNKS,2000
+Bryant Reeves,735,Standard Layup,115,70,LAYUPS,2000
+Bryant Reeves,735,Tip Shot,17,13,TIP_SHOTS,2000
+Bryant Reeves,735,2PT Jump Shot,398,152,TWO_POINT_JUMPERS,2001
+Bryant Reeves,735,2PT Running Jump Shot,3,2,TWO_POINT_JUMPERS,2001
+Bryant Reeves,735,2PT Turnaround Jump Shot,9,6,TWO_POINT_JUMPERS,2001
+Bryant Reeves,735,Driving Layup,9,7,LAYUPS,2001
+Bryant Reeves,735,Finger Roll,1,1,LAYUPS,2001
+Bryant Reeves,735,Hook Shot,10,4,POST_MOVES,2001
+Bryant Reeves,735,Reverse Layup,2,1,LAYUPS,2001
+Bryant Reeves,735,Standard Dunk,21,18,DUNKS,2001
+Bryant Reeves,735,Standard Layup,82,54,LAYUPS,2001
+Bryant Reeves,735,Tip Shot,17,9,TIP_SHOTS,2001

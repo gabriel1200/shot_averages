@@ -1,37 +1,29 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Justin Reed,2770,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2005
-Justin Reed,2770,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2005
-Justin Reed,2770,Follow Up Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2005
-Justin Reed,2770,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2005
-Justin Reed,2770,Jump Shot,2,17,8,2PT Jump Shot,TWO_POINT_JUMPERS,2005
-Justin Reed,2770,Layup Shot,2,6,1,Standard Layup,LAYUPS,2005
-Justin Reed,2770,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2005
-Justin Reed,2770,Driving Dunk Shot,2,3,3,Driving Dunk,DUNKS,2006
-Justin Reed,2770,Driving Layup Shot,2,23,16,Driving Layup,LAYUPS,2006
-Justin Reed,2770,Dunk Shot,2,6,4,Standard Dunk,DUNKS,2006
-Justin Reed,2770,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2006
-Justin Reed,2770,Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2006
-Justin Reed,2770,Follow Up Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2006
-Justin Reed,2770,Hook Shot,2,2,1,Hook Shot,POST_MOVES,2006
-Justin Reed,2770,Jump Bank Shot,2,3,3,2PT Jump Shot,TWO_POINT_JUMPERS,2006
-Justin Reed,2770,Jump Hook Shot,2,1,1,Hook Shot,POST_MOVES,2006
-Justin Reed,2770,Jump Shot,2,154,46,2PT Jump Shot,TWO_POINT_JUMPERS,2006
-Justin Reed,2770,Layup Shot,2,86,34,Standard Layup,LAYUPS,2006
-Justin Reed,2770,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2006
-Justin Reed,2770,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2006
-Justin Reed,2770,Running Layup Shot,2,2,2,Standard Layup,LAYUPS,2006
-Justin Reed,2770,Slam Dunk Shot,2,6,6,Standard Dunk,DUNKS,2006
-Justin Reed,2770,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,2006
-Justin Reed,2770,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2006
-Justin Reed,2770,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2007
-Justin Reed,2770,Driving Layup Shot,2,4,3,Driving Layup,LAYUPS,2007
-Justin Reed,2770,Dunk Shot,2,2,1,Standard Dunk,DUNKS,2007
-Justin Reed,2770,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2007
-Justin Reed,2770,Follow Up Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2007
-Justin Reed,2770,Jump Bank Shot,2,2,1,2PT Jump Shot,TWO_POINT_JUMPERS,2007
-Justin Reed,2770,Jump Hook Shot,2,1,0,Hook Shot,POST_MOVES,2007
-Justin Reed,2770,Jump Shot,2,57,17,2PT Jump Shot,TWO_POINT_JUMPERS,2007
-Justin Reed,2770,Layup Shot,2,32,12,Standard Layup,LAYUPS,2007
-Justin Reed,2770,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2007
-Justin Reed,2770,Slam Dunk Shot,2,3,3,Standard Dunk,DUNKS,2007
-Justin Reed,2770,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2007
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Justin Reed,2770,2PT Jump Shot,18,9,TWO_POINT_JUMPERS,2005
+Justin Reed,2770,Driving Layup,1,1,LAYUPS,2005
+Justin Reed,2770,Specialty Dunk,1,1,DUNKS,2005
+Justin Reed,2770,Standard Dunk,3,3,DUNKS,2005
+Justin Reed,2770,Standard Layup,6,1,LAYUPS,2005
+Justin Reed,2770,2PT Fadeaway Jump Shot,1,0,TWO_POINT_JUMPERS,2006
+Justin Reed,2770,2PT Jump Shot,157,49,TWO_POINT_JUMPERS,2006
+Justin Reed,2770,2PT Running Jump Shot,1,0,TWO_POINT_JUMPERS,2006
+Justin Reed,2770,2PT Turnaround Jump Shot,1,0,TWO_POINT_JUMPERS,2006
+Justin Reed,2770,Driving Dunk,3,3,DUNKS,2006
+Justin Reed,2770,Driving Layup,23,16,LAYUPS,2006
+Justin Reed,2770,Finger Roll,1,1,LAYUPS,2006
+Justin Reed,2770,Hook Shot,3,2,POST_MOVES,2006
+Justin Reed,2770,Reverse Layup,1,0,LAYUPS,2006
+Justin Reed,2770,Specialty Dunk,1,1,DUNKS,2006
+Justin Reed,2770,Standard Dunk,12,10,DUNKS,2006
+Justin Reed,2770,Standard Layup,88,36,LAYUPS,2006
+Justin Reed,2770,Tip Shot,3,1,TIP_SHOTS,2006
+Justin Reed,2770,2PT Fadeaway Jump Shot,1,0,TWO_POINT_JUMPERS,2007
+Justin Reed,2770,2PT Jump Shot,59,18,TWO_POINT_JUMPERS,2007
+Justin Reed,2770,2PT Running Jump Shot,1,0,TWO_POINT_JUMPERS,2007
+Justin Reed,2770,2PT Turnaround Jump Shot,2,1,TWO_POINT_JUMPERS,2007
+Justin Reed,2770,Alley Oop Dunk,1,1,DUNKS,2007
+Justin Reed,2770,Driving Layup,4,3,LAYUPS,2007
+Justin Reed,2770,Hook Shot,1,0,POST_MOVES,2007
+Justin Reed,2770,Specialty Dunk,1,1,DUNKS,2007
+Justin Reed,2770,Standard Dunk,5,4,DUNKS,2007
+Justin Reed,2770,Standard Layup,32,12,LAYUPS,2007

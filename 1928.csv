@@ -1,55 +1,45 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Todd MacCulloch,1928,Driving Layup Shot,2,4,4,Driving Layup,LAYUPS,2000
-Todd MacCulloch,1928,Dunk Shot,2,10,10,Standard Dunk,DUNKS,2000
-Todd MacCulloch,1928,Hook Shot,2,5,3,Hook Shot,POST_MOVES,2000
-Todd MacCulloch,1928,Jump Shot,2,72,22,2PT Jump Shot,TWO_POINT_JUMPERS,2000
-Todd MacCulloch,1928,Layup Shot,2,55,41,Standard Layup,LAYUPS,2000
-Todd MacCulloch,1928,Slam Dunk Shot,2,4,4,Standard Dunk,DUNKS,2000
-Todd MacCulloch,1928,Tip Shot,2,11,5,Tip Shot,TIP_SHOTS,2000
-Todd MacCulloch,1928,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2001
-Todd MacCulloch,1928,Driving Layup Shot,2,6,5,Driving Layup,LAYUPS,2001
-Todd MacCulloch,1928,Dunk Shot,2,15,15,Standard Dunk,DUNKS,2001
-Todd MacCulloch,1928,Hook Shot,2,8,8,Hook Shot,POST_MOVES,2001
-Todd MacCulloch,1928,Jump Shot,2,56,8,2PT Jump Shot,TWO_POINT_JUMPERS,2001
-Todd MacCulloch,1928,Layup Shot,2,75,54,Standard Layup,LAYUPS,2001
-Todd MacCulloch,1928,Reverse Layup Shot,2,4,4,Reverse Layup,LAYUPS,2001
-Todd MacCulloch,1928,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2001
-Todd MacCulloch,1928,Running Hook Shot,2,2,2,Running Hook Shot,POST_MOVES,2001
-Todd MacCulloch,1928,Slam Dunk Shot,2,7,7,Standard Dunk,DUNKS,2001
-Todd MacCulloch,1928,Tip Shot,2,6,3,Tip Shot,TIP_SHOTS,2001
-Todd MacCulloch,1928,Turnaround Hook Shot,2,2,0,Turnaround Hook Shot,POST_MOVES,2001
-Todd MacCulloch,1928,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2001
-Todd MacCulloch,1928,Alley Oop Layup shot,2,3,3,Alley Oop Layup,LAYUPS,2002
-Todd MacCulloch,1928,Driving Dunk Shot,2,6,6,Driving Dunk,DUNKS,2002
-Todd MacCulloch,1928,Driving Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2002
-Todd MacCulloch,1928,Driving Layup Shot,2,7,4,Driving Layup,LAYUPS,2002
-Todd MacCulloch,1928,Dunk Shot,2,34,28,Standard Dunk,DUNKS,2002
-Todd MacCulloch,1928,Fadeaway Jump Shot,2,4,2,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2002
-Todd MacCulloch,1928,Hook Shot,2,43,18,Hook Shot,POST_MOVES,2002
-Todd MacCulloch,1928,Jump Hook Shot,2,1,0,Hook Shot,POST_MOVES,2002
-Todd MacCulloch,1928,Jump Shot,2,96,27,2PT Jump Shot,TWO_POINT_JUMPERS,2002
-Todd MacCulloch,1928,Layup Shot,2,202,118,Standard Layup,LAYUPS,2002
-Todd MacCulloch,1928,Reverse Layup Shot,2,7,4,Reverse Layup,LAYUPS,2002
-Todd MacCulloch,1928,Running Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2002
-Todd MacCulloch,1928,Running Hook Shot,2,6,5,Running Hook Shot,POST_MOVES,2002
-Todd MacCulloch,1928,Running Jump Shot,2,3,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2002
-Todd MacCulloch,1928,Slam Dunk Shot,2,9,9,Standard Dunk,DUNKS,2002
-Todd MacCulloch,1928,Tip Shot,2,26,12,Tip Shot,TIP_SHOTS,2002
-Todd MacCulloch,1928,Turnaround Jump Shot,2,16,7,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2002
-Todd MacCulloch,1928,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2003
-Todd MacCulloch,1928,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2003
-Todd MacCulloch,1928,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2003
-Todd MacCulloch,1928,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2003
-Todd MacCulloch,1928,Dunk Shot,2,12,12,Standard Dunk,DUNKS,2003
-Todd MacCulloch,1928,Hook Shot,2,13,8,Hook Shot,POST_MOVES,2003
-Todd MacCulloch,1928,Jump Hook Shot,2,1,1,Hook Shot,POST_MOVES,2003
-Todd MacCulloch,1928,Jump Shot,2,50,5,2PT Jump Shot,TWO_POINT_JUMPERS,2003
-Todd MacCulloch,1928,Layup Shot,2,129,70,Standard Layup,LAYUPS,2003
-Todd MacCulloch,1928,Reverse Layup Shot,2,7,4,Reverse Layup,LAYUPS,2003
-Todd MacCulloch,1928,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2003
-Todd MacCulloch,1928,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2003
-Todd MacCulloch,1928,Running Layup Shot,2,2,1,Standard Layup,LAYUPS,2003
-Todd MacCulloch,1928,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2003
-Todd MacCulloch,1928,Tip Shot,2,9,7,Tip Shot,TIP_SHOTS,2003
-Todd MacCulloch,1928,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2003
-Todd MacCulloch,1928,Turnaround Jump Shot,2,7,7,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2003
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Todd MacCulloch,1928,2PT Jump Shot,72,22,TWO_POINT_JUMPERS,2000
+Todd MacCulloch,1928,Driving Layup,4,4,LAYUPS,2000
+Todd MacCulloch,1928,Hook Shot,5,3,POST_MOVES,2000
+Todd MacCulloch,1928,Standard Dunk,14,14,DUNKS,2000
+Todd MacCulloch,1928,Standard Layup,55,41,LAYUPS,2000
+Todd MacCulloch,1928,Tip Shot,11,5,TIP_SHOTS,2000
+Todd MacCulloch,1928,2PT Jump Shot,56,8,TWO_POINT_JUMPERS,2001
+Todd MacCulloch,1928,2PT Turnaround Jump Shot,2,1,TWO_POINT_JUMPERS,2001
+Todd MacCulloch,1928,Driving Dunk,1,1,DUNKS,2001
+Todd MacCulloch,1928,Driving Layup,6,5,LAYUPS,2001
+Todd MacCulloch,1928,Hook Shot,8,8,POST_MOVES,2001
+Todd MacCulloch,1928,Reverse Layup,4,4,LAYUPS,2001
+Todd MacCulloch,1928,Running Hook Shot,2,2,POST_MOVES,2001
+Todd MacCulloch,1928,Standard Dunk,23,23,DUNKS,2001
+Todd MacCulloch,1928,Standard Layup,75,54,LAYUPS,2001
+Todd MacCulloch,1928,Tip Shot,6,3,TIP_SHOTS,2001
+Todd MacCulloch,1928,Turnaround Hook Shot,2,0,POST_MOVES,2001
+Todd MacCulloch,1928,2PT Fadeaway Jump Shot,4,2,TWO_POINT_JUMPERS,2002
+Todd MacCulloch,1928,2PT Jump Shot,96,27,TWO_POINT_JUMPERS,2002
+Todd MacCulloch,1928,2PT Running Jump Shot,3,2,TWO_POINT_JUMPERS,2002
+Todd MacCulloch,1928,2PT Turnaround Jump Shot,16,7,TWO_POINT_JUMPERS,2002
+Todd MacCulloch,1928,Alley Oop Layup,3,3,LAYUPS,2002
+Todd MacCulloch,1928,Driving Dunk,6,6,DUNKS,2002
+Todd MacCulloch,1928,Driving Layup,7,4,LAYUPS,2002
+Todd MacCulloch,1928,Finger Roll,2,2,LAYUPS,2002
+Todd MacCulloch,1928,Hook Shot,44,18,POST_MOVES,2002
+Todd MacCulloch,1928,Reverse Layup,7,4,LAYUPS,2002
+Todd MacCulloch,1928,Running Hook Shot,6,5,POST_MOVES,2002
+Todd MacCulloch,1928,Standard Dunk,43,37,DUNKS,2002
+Todd MacCulloch,1928,Standard Layup,202,118,LAYUPS,2002
+Todd MacCulloch,1928,Tip Shot,26,12,TIP_SHOTS,2002
+Todd MacCulloch,1928,2PT Jump Shot,50,5,TWO_POINT_JUMPERS,2003
+Todd MacCulloch,1928,2PT Running Jump Shot,1,1,TWO_POINT_JUMPERS,2003
+Todd MacCulloch,1928,2PT Turnaround Jump Shot,7,7,TWO_POINT_JUMPERS,2003
+Todd MacCulloch,1928,Alley Oop Dunk,1,1,DUNKS,2003
+Todd MacCulloch,1928,Alley Oop Layup,1,1,LAYUPS,2003
+Todd MacCulloch,1928,Driving Hook Shot,1,1,POST_MOVES,2003
+Todd MacCulloch,1928,Driving Layup,1,1,LAYUPS,2003
+Todd MacCulloch,1928,Hook Shot,14,9,POST_MOVES,2003
+Todd MacCulloch,1928,Reverse Layup,7,4,LAYUPS,2003
+Todd MacCulloch,1928,Standard Dunk,14,14,DUNKS,2003
+Todd MacCulloch,1928,Standard Layup,131,71,LAYUPS,2003
+Todd MacCulloch,1928,Tip Shot,9,7,TIP_SHOTS,2003
+Todd MacCulloch,1928,Turnaround Hook Shot,1,1,POST_MOVES,2003

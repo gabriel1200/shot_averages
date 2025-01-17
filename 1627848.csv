@@ -1,18 +1,14 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Shawn Long,1627848,Cutting Dunk Shot,2,7,7,Specialty Dunk,DUNKS,2017
-Shawn Long,1627848,Cutting Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2017
-Shawn Long,1627848,Cutting Layup Shot,2,5,3,Standard Layup,LAYUPS,2017
-Shawn Long,1627848,Driving Dunk Shot,2,3,3,Driving Dunk,DUNKS,2017
-Shawn Long,1627848,Driving Layup Shot,2,10,6,Driving Layup,LAYUPS,2017
-Shawn Long,1627848,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2017
-Shawn Long,1627848,Hook Shot,2,2,1,Hook Shot,POST_MOVES,2017
-Shawn Long,1627848,Jump Shot,2,32,10,2PT Jump Shot,TWO_POINT_JUMPERS,2017
-Shawn Long,1627848,Jump Shot,3,2,1,3PT Jump Shot,THREE_POINT_JUMPERS,2017
-Shawn Long,1627848,Layup Shot,2,19,9,Standard Layup,LAYUPS,2017
-Shawn Long,1627848,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2017
-Shawn Long,1627848,Putback Layup Shot,2,12,11,Putback Layup,LAYUPS,2017
-Shawn Long,1627848,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2017
-Shawn Long,1627848,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2017
-Shawn Long,1627848,Tip Layup Shot,2,9,3,Putback Layup,LAYUPS,2017
-Shawn Long,1627848,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2017
-Shawn Long,1627848,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2017
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Shawn Long,1627848,2PT Jump Shot,32,10,TWO_POINT_JUMPERS,2017
+Shawn Long,1627848,2PT Turnaround Jump Shot,1,1,TWO_POINT_JUMPERS,2017
+Shawn Long,1627848,3PT Jump Shot,2,1,THREE_POINT_JUMPERS,2017
+Shawn Long,1627848,Driving Dunk,3,3,DUNKS,2017
+Shawn Long,1627848,Driving Layup,10,6,LAYUPS,2017
+Shawn Long,1627848,Finger Roll,1,1,LAYUPS,2017
+Shawn Long,1627848,Hook Shot,2,1,POST_MOVES,2017
+Shawn Long,1627848,Putback Dunk,1,1,DUNKS,2017
+Shawn Long,1627848,Putback Layup,21,14,LAYUPS,2017
+Shawn Long,1627848,Specialty Dunk,7,7,DUNKS,2017
+Shawn Long,1627848,Standard Dunk,3,3,DUNKS,2017
+Shawn Long,1627848,Standard Layup,25,13,LAYUPS,2017
+Shawn Long,1627848,Turnaround Hook Shot,1,0,POST_MOVES,2017

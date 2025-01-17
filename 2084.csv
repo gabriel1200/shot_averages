@@ -1,15 +1,13 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Chris Porter,2084,Alley Oop Dunk Shot,2,3,3,Alley Oop Dunk,DUNKS,2001
-Chris Porter,2084,Driving Layup Shot,2,14,13,Driving Layup,LAYUPS,2001
-Chris Porter,2084,Dunk Shot,2,8,4,Standard Dunk,DUNKS,2001
-Chris Porter,2084,Hook Shot,2,8,6,Hook Shot,POST_MOVES,2001
-Chris Porter,2084,Jump Shot,2,297,80,2PT Jump Shot,TWO_POINT_JUMPERS,2001
-Chris Porter,2084,Layup Shot,2,57,31,Standard Layup,LAYUPS,2001
-Chris Porter,2084,Reverse Layup Shot,2,6,6,Reverse Layup,LAYUPS,2001
-Chris Porter,2084,Running Hook Shot,2,4,2,Running Hook Shot,POST_MOVES,2001
-Chris Porter,2084,Running Jump Shot,2,8,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
-Chris Porter,2084,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2001
-Chris Porter,2084,Slam Dunk Shot,2,10,9,Standard Dunk,DUNKS,2001
-Chris Porter,2084,Tip Shot,2,23,10,Tip Shot,TIP_SHOTS,2001
-Chris Porter,2084,Turnaround Hook Shot,2,2,2,Turnaround Hook Shot,POST_MOVES,2001
-Chris Porter,2084,Turnaround Jump Shot,2,4,4,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Chris Porter,2084,2PT Jump Shot,297,80,TWO_POINT_JUMPERS,2001
+Chris Porter,2084,2PT Running Jump Shot,8,3,TWO_POINT_JUMPERS,2001
+Chris Porter,2084,2PT Turnaround Jump Shot,4,4,TWO_POINT_JUMPERS,2001
+Chris Porter,2084,Alley Oop Dunk,3,3,DUNKS,2001
+Chris Porter,2084,Driving Layup,14,13,LAYUPS,2001
+Chris Porter,2084,Hook Shot,8,6,POST_MOVES,2001
+Chris Porter,2084,Reverse Layup,6,6,LAYUPS,2001
+Chris Porter,2084,Running Hook Shot,4,2,POST_MOVES,2001
+Chris Porter,2084,Standard Dunk,18,13,DUNKS,2001
+Chris Porter,2084,Standard Layup,58,31,LAYUPS,2001
+Chris Porter,2084,Tip Shot,23,10,TIP_SHOTS,2001
+Chris Porter,2084,Turnaround Hook Shot,2,2,POST_MOVES,2001

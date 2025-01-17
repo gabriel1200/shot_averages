@@ -1,31 +1,24 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Josh Huestis,203962,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2016
-Josh Huestis,203962,Jump Shot,2,9,4,2PT Jump Shot,TWO_POINT_JUMPERS,2016
-Josh Huestis,203962,Pullup Jump shot,2,2,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2016
-Josh Huestis,203962,Alley Oop Dunk Shot,2,1,0,Alley Oop Dunk,DUNKS,2017
-Josh Huestis,203962,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2017
-Josh Huestis,203962,Jump Shot,2,6,3,2PT Jump Shot,TWO_POINT_JUMPERS,2017
-Josh Huestis,203962,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2017
-Josh Huestis,203962,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2017
-Josh Huestis,203962,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2017
-Josh Huestis,203962,Alley Oop Dunk Shot,2,3,3,Alley Oop Dunk,DUNKS,2018
-Josh Huestis,203962,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2018
-Josh Huestis,203962,Cutting Dunk Shot,2,6,5,Specialty Dunk,DUNKS,2018
-Josh Huestis,203962,Cutting Layup Shot,2,4,0,Standard Layup,LAYUPS,2018
-Josh Huestis,203962,Driving Dunk Shot,2,2,1,Driving Dunk,DUNKS,2018
-Josh Huestis,203962,Driving Layup Shot,2,2,0,Driving Layup,LAYUPS,2018
-Josh Huestis,203962,Driving Reverse Layup Shot,2,2,0,Driving Layup,LAYUPS,2018
-Josh Huestis,203962,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2018
-Josh Huestis,203962,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2018
-Josh Huestis,203962,Jump Shot,2,118,32,2PT Jump Shot,TWO_POINT_JUMPERS,2018
-Josh Huestis,203962,Layup Shot,2,8,2,Standard Layup,LAYUPS,2018
-Josh Huestis,203962,Pullup Jump shot,2,2,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2018
-Josh Huestis,203962,Putback Dunk Shot,2,4,4,Putback Dunk,DUNKS,2018
-Josh Huestis,203962,Putback Layup Shot,2,4,3,Putback Layup,LAYUPS,2018
-Josh Huestis,203962,Running Dunk Shot,2,3,2,Standard Dunk,DUNKS,2018
-Josh Huestis,203962,Running Jump Shot,2,2,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2018
-Josh Huestis,203962,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2018
-Josh Huestis,203962,Tip Dunk Shot,2,1,0,Specialty Dunk,DUNKS,2018
-Josh Huestis,203962,Tip Layup Shot,2,12,2,Putback Layup,LAYUPS,2018
-Josh Huestis,203962,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2018
-Josh Huestis,203962,Turnaround Jump Shot,2,3,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2018
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Josh Huestis,203962,2PT Jump Shot,9,4,TWO_POINT_JUMPERS,2016
+Josh Huestis,203962,2PT Pullup Jump Shot,2,0,TWO_POINT_JUMPERS,2016
+Josh Huestis,203962,Standard Dunk,1,1,DUNKS,2016
+Josh Huestis,203962,2PT Jump Shot,6,3,TWO_POINT_JUMPERS,2017
+Josh Huestis,203962,2PT Pullup Jump Shot,1,0,TWO_POINT_JUMPERS,2017
+Josh Huestis,203962,Alley Oop Dunk,1,0,DUNKS,2017
+Josh Huestis,203962,Putback Dunk,1,1,DUNKS,2017
+Josh Huestis,203962,Specialty Dunk,1,1,DUNKS,2017
+Josh Huestis,203962,Standard Dunk,1,1,DUNKS,2017
+Josh Huestis,203962,2PT Jump Shot,119,33,TWO_POINT_JUMPERS,2018
+Josh Huestis,203962,2PT Pullup Jump Shot,2,0,TWO_POINT_JUMPERS,2018
+Josh Huestis,203962,2PT Running Jump Shot,2,2,TWO_POINT_JUMPERS,2018
+Josh Huestis,203962,2PT Turnaround Jump Shot,3,1,TWO_POINT_JUMPERS,2018
+Josh Huestis,203962,Alley Oop Dunk,3,3,DUNKS,2018
+Josh Huestis,203962,Alley Oop Layup,1,0,LAYUPS,2018
+Josh Huestis,203962,Driving Dunk,2,1,DUNKS,2018
+Josh Huestis,203962,Driving Layup,4,0,LAYUPS,2018
+Josh Huestis,203962,Putback Dunk,4,4,DUNKS,2018
+Josh Huestis,203962,Putback Layup,16,5,LAYUPS,2018
+Josh Huestis,203962,Specialty Dunk,7,5,DUNKS,2018
+Josh Huestis,203962,Standard Dunk,5,4,DUNKS,2018
+Josh Huestis,203962,Standard Layup,13,2,LAYUPS,2018
+Josh Huestis,203962,Turnaround Hook Shot,1,0,POST_MOVES,2018

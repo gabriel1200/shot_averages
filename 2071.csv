@@ -1,23 +1,20 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Olumide Oyedeji,2071,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2001
-Olumide Oyedeji,2071,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2001
-Olumide Oyedeji,2071,Jump Shot,2,10,2,2PT Jump Shot,TWO_POINT_JUMPERS,2001
-Olumide Oyedeji,2071,Layup Shot,2,20,11,Standard Layup,LAYUPS,2001
-Olumide Oyedeji,2071,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2001
-Olumide Oyedeji,2071,Tip Shot,2,4,2,Tip Shot,TIP_SHOTS,2001
-Olumide Oyedeji,2071,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2002
-Olumide Oyedeji,2071,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2002
-Olumide Oyedeji,2071,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2002
-Olumide Oyedeji,2071,Jump Shot,2,8,5,2PT Jump Shot,TWO_POINT_JUMPERS,2002
-Olumide Oyedeji,2071,Layup Shot,2,22,10,Standard Layup,LAYUPS,2002
-Olumide Oyedeji,2071,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2002
-Olumide Oyedeji,2071,Slam Dunk Shot,2,4,4,Standard Dunk,DUNKS,2002
-Olumide Oyedeji,2071,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2002
-Olumide Oyedeji,2071,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2002
-Olumide Oyedeji,2071,Dunk Shot,2,2,1,Standard Dunk,DUNKS,2003
-Olumide Oyedeji,2071,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2003
-Olumide Oyedeji,2071,Jump Shot,2,5,1,2PT Jump Shot,TWO_POINT_JUMPERS,2003
-Olumide Oyedeji,2071,Layup Shot,2,10,3,Standard Layup,LAYUPS,2003
-Olumide Oyedeji,2071,Slam Dunk Shot,2,3,3,Standard Dunk,DUNKS,2003
-Olumide Oyedeji,2071,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2003
-Olumide Oyedeji,2071,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2003
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Olumide Oyedeji,2071,2PT Jump Shot,10,2,TWO_POINT_JUMPERS,2001
+Olumide Oyedeji,2071,Driving Layup,1,1,LAYUPS,2001
+Olumide Oyedeji,2071,Hook Shot,1,1,POST_MOVES,2001
+Olumide Oyedeji,2071,Standard Dunk,1,1,DUNKS,2001
+Olumide Oyedeji,2071,Standard Layup,20,11,LAYUPS,2001
+Olumide Oyedeji,2071,Tip Shot,4,2,TIP_SHOTS,2001
+Olumide Oyedeji,2071,2PT Jump Shot,8,5,TWO_POINT_JUMPERS,2002
+Olumide Oyedeji,2071,2PT Turnaround Jump Shot,1,0,TWO_POINT_JUMPERS,2002
+Olumide Oyedeji,2071,Driving Dunk,1,1,DUNKS,2002
+Olumide Oyedeji,2071,Hook Shot,1,0,POST_MOVES,2002
+Olumide Oyedeji,2071,Standard Dunk,6,6,DUNKS,2002
+Olumide Oyedeji,2071,Standard Layup,23,10,LAYUPS,2002
+Olumide Oyedeji,2071,Tip Shot,1,0,TIP_SHOTS,2002
+Olumide Oyedeji,2071,2PT Jump Shot,5,1,TWO_POINT_JUMPERS,2003
+Olumide Oyedeji,2071,2PT Turnaround Jump Shot,1,1,TWO_POINT_JUMPERS,2003
+Olumide Oyedeji,2071,Hook Shot,1,1,POST_MOVES,2003
+Olumide Oyedeji,2071,Standard Dunk,5,4,DUNKS,2003
+Olumide Oyedeji,2071,Standard Layup,10,3,LAYUPS,2003
+Olumide Oyedeji,2071,Turnaround Hook Shot,1,0,POST_MOVES,2003

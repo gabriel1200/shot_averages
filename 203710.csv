@@ -1,33 +1,23 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-C.J. Williams,203710,Cutting Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2018
-C.J. Williams,203710,Cutting Layup Shot,2,3,3,Standard Layup,LAYUPS,2018
-C.J. Williams,203710,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2018
-C.J. Williams,203710,Driving Finger Roll Layup Shot,2,3,3,Finger Roll,LAYUPS,2018
-C.J. Williams,203710,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2018
-C.J. Williams,203710,Driving Floating Jump Shot,2,11,5,2PT Floating Jump Shot,FLOATING_SHOTS,2018
-C.J. Williams,203710,Driving Layup Shot,2,11,6,Driving Layup,LAYUPS,2018
-C.J. Williams,203710,Fadeaway Jump Shot,2,2,2,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2018
-C.J. Williams,203710,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2018
-C.J. Williams,203710,Floating Jump shot,2,11,2,2PT Floating Jump Shot,FLOATING_SHOTS,2018
-C.J. Williams,203710,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2018
-C.J. Williams,203710,Jump Shot,2,79,19,2PT Jump Shot,TWO_POINT_JUMPERS,2018
-C.J. Williams,203710,Layup Shot,2,12,5,Standard Layup,LAYUPS,2018
-C.J. Williams,203710,Pullup Jump shot,2,27,15,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2018
-C.J. Williams,203710,Reverse Layup Shot,2,6,6,Reverse Layup,LAYUPS,2018
-C.J. Williams,203710,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2018
-C.J. Williams,203710,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2018
-C.J. Williams,203710,Running Jump Shot,2,3,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2018
-C.J. Williams,203710,Running Layup Shot,2,6,4,Standard Layup,LAYUPS,2018
-C.J. Williams,203710,Running Pull-Up Jump Shot,2,3,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2018
-C.J. Williams,203710,Step Back Jump shot,2,8,4,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2018
-C.J. Williams,203710,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2018
-C.J. Williams,203710,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2018
-C.J. Williams,203710,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2019
-C.J. Williams,203710,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2019
-C.J. Williams,203710,Driving Layup Shot,2,7,2,Driving Layup,LAYUPS,2019
-C.J. Williams,203710,Floating Jump shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2019
-C.J. Williams,203710,Jump Shot,2,12,4,2PT Jump Shot,TWO_POINT_JUMPERS,2019
-C.J. Williams,203710,Pullup Jump shot,2,6,4,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2019
-C.J. Williams,203710,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2019
-C.J. Williams,203710,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2019
-C.J. Williams,203710,Step Back Jump shot,2,4,2,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2019
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+C.J. Williams,203710,2PT Fadeaway Jump Shot,2,2,TWO_POINT_JUMPERS,2018
+C.J. Williams,203710,2PT Floating Jump Shot,23,7,FLOATING_SHOTS,2018
+C.J. Williams,203710,2PT Jump Shot,80,20,TWO_POINT_JUMPERS,2018
+C.J. Williams,203710,2PT Pullup Jump Shot,27,15,TWO_POINT_JUMPERS,2018
+C.J. Williams,203710,2PT Running Jump Shot,6,3,TWO_POINT_JUMPERS,2018
+C.J. Williams,203710,2PT Step Back Jump Shot,8,4,TWO_POINT_JUMPERS,2018
+C.J. Williams,203710,2PT Turnaround Jump Shot,2,1,TWO_POINT_JUMPERS,2018
+C.J. Williams,203710,Driving Dunk,2,2,DUNKS,2018
+C.J. Williams,203710,Driving Layup,11,6,LAYUPS,2018
+C.J. Williams,203710,Finger Roll,7,7,LAYUPS,2018
+C.J. Williams,203710,Putback Layup,1,1,LAYUPS,2018
+C.J. Williams,203710,Reverse Layup,6,6,LAYUPS,2018
+C.J. Williams,203710,Standard Dunk,1,1,DUNKS,2018
+C.J. Williams,203710,Standard Layup,21,12,LAYUPS,2018
+C.J. Williams,203710,2PT Floating Jump Shot,2,1,FLOATING_SHOTS,2019
+C.J. Williams,203710,2PT Jump Shot,12,4,TWO_POINT_JUMPERS,2019
+C.J. Williams,203710,2PT Pullup Jump Shot,6,4,TWO_POINT_JUMPERS,2019
+C.J. Williams,203710,2PT Step Back Jump Shot,4,2,TWO_POINT_JUMPERS,2019
+C.J. Williams,203710,Alley Oop Layup,1,1,LAYUPS,2019
+C.J. Williams,203710,Driving Layup,7,2,LAYUPS,2019
+C.J. Williams,203710,Standard Dunk,1,1,DUNKS,2019
+C.J. Williams,203710,Standard Layup,2,2,LAYUPS,2019

@@ -1,36 +1,25 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Milos Teodosic,1628462,Cutting Layup Shot,2,2,1,Standard Layup,LAYUPS,2018
-Milos Teodosic,1628462,Driving Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2018
-Milos Teodosic,1628462,Driving Floating Bank Jump Shot,2,4,3,2PT Floating Jump Shot,FLOATING_SHOTS,2018
-Milos Teodosic,1628462,Driving Floating Jump Shot,2,8,5,2PT Floating Jump Shot,FLOATING_SHOTS,2018
-Milos Teodosic,1628462,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2018
-Milos Teodosic,1628462,Driving Layup Shot,2,15,8,Driving Layup,LAYUPS,2018
-Milos Teodosic,1628462,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2018
-Milos Teodosic,1628462,Fadeaway Jump Shot,2,2,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2018
-Milos Teodosic,1628462,Floating Jump shot,2,8,3,2PT Floating Jump Shot,FLOATING_SHOTS,2018
-Milos Teodosic,1628462,Jump Bank Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2018
-Milos Teodosic,1628462,Jump Shot,2,181,70,2PT Jump Shot,TWO_POINT_JUMPERS,2018
-Milos Teodosic,1628462,Jump Shot,3,47,17,3PT Jump Shot,THREE_POINT_JUMPERS,2018
-Milos Teodosic,1628462,Layup Shot,2,2,1,Standard Layup,LAYUPS,2018
-Milos Teodosic,1628462,Pullup Jump shot,2,57,27,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2018
-Milos Teodosic,1628462,Pullup Jump shot,3,8,4,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2018
-Milos Teodosic,1628462,Running Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2018
-Milos Teodosic,1628462,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2018
-Milos Teodosic,1628462,Running Layup Shot,2,3,3,Standard Layup,LAYUPS,2018
-Milos Teodosic,1628462,Running Pull-Up Jump Shot,2,5,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2018
-Milos Teodosic,1628462,Running Pull-Up Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2018
-Milos Teodosic,1628462,Step Back Jump shot,2,3,3,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2018
-Milos Teodosic,1628462,Step Back Jump shot,3,3,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2018
-Milos Teodosic,1628462,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2018
-Milos Teodosic,1628462,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2018
-Milos Teodosic,1628462,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2019
-Milos Teodosic,1628462,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2019
-Milos Teodosic,1628462,Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2019
-Milos Teodosic,1628462,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2019
-Milos Teodosic,1628462,Jump Shot,2,20,8,2PT Jump Shot,TWO_POINT_JUMPERS,2019
-Milos Teodosic,1628462,Pullup Jump shot,2,10,6,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2019
-Milos Teodosic,1628462,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2019
-Milos Teodosic,1628462,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2019
-Milos Teodosic,1628462,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2019
-Milos Teodosic,1628462,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2019
-Milos Teodosic,1628462,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2019
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Milos Teodosic,1628462,2PT Fadeaway Jump Shot,2,1,TWO_POINT_JUMPERS,2018
+Milos Teodosic,1628462,2PT Floating Jump Shot,20,11,FLOATING_SHOTS,2018
+Milos Teodosic,1628462,2PT Jump Shot,183,70,TWO_POINT_JUMPERS,2018
+Milos Teodosic,1628462,2PT Pullup Jump Shot,57,27,TWO_POINT_JUMPERS,2018
+Milos Teodosic,1628462,2PT Running Jump Shot,5,1,TWO_POINT_JUMPERS,2018
+Milos Teodosic,1628462,2PT Step Back Jump Shot,3,3,TWO_POINT_JUMPERS,2018
+Milos Teodosic,1628462,2PT Turnaround Jump Shot,1,0,TWO_POINT_JUMPERS,2018
+Milos Teodosic,1628462,3PT Jump Shot,47,17,THREE_POINT_JUMPERS,2018
+Milos Teodosic,1628462,3PT Pullup Jump Shot,8,4,THREE_POINT_JUMPERS,2018
+Milos Teodosic,1628462,3PT Running Jump Shot,2,0,THREE_POINT_JUMPERS,2018
+Milos Teodosic,1628462,3PT Step Back Jump Shot,3,0,THREE_POINT_JUMPERS,2018
+Milos Teodosic,1628462,Driving Hook Shot,1,0,POST_MOVES,2018
+Milos Teodosic,1628462,Driving Layup,16,8,LAYUPS,2018
+Milos Teodosic,1628462,Finger Roll,4,3,LAYUPS,2018
+Milos Teodosic,1628462,Putback Layup,1,1,LAYUPS,2018
+Milos Teodosic,1628462,Standard Layup,7,5,LAYUPS,2018
+Milos Teodosic,1628462,2PT Jump Shot,21,8,TWO_POINT_JUMPERS,2019
+Milos Teodosic,1628462,2PT Pullup Jump Shot,10,6,TWO_POINT_JUMPERS,2019
+Milos Teodosic,1628462,2PT Running Jump Shot,1,0,TWO_POINT_JUMPERS,2019
+Milos Teodosic,1628462,2PT Step Back Jump Shot,1,0,TWO_POINT_JUMPERS,2019
+Milos Teodosic,1628462,2PT Turnaround Jump Shot,2,0,TWO_POINT_JUMPERS,2019
+Milos Teodosic,1628462,Driving Layup,2,1,LAYUPS,2019
+Milos Teodosic,1628462,Finger Roll,2,1,LAYUPS,2019
+Milos Teodosic,1628462,Putback Layup,1,1,LAYUPS,2019

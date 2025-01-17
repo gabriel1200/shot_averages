@@ -1,33 +1,21 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Jonah Bolden,1628413,Alley Oop Dunk Shot,2,2,1,Alley Oop Dunk,DUNKS,2019
-Jonah Bolden,1628413,Alley Oop Layup shot,2,3,3,Alley Oop Layup,LAYUPS,2019
-Jonah Bolden,1628413,Cutting Dunk Shot,2,5,5,Specialty Dunk,DUNKS,2019
-Jonah Bolden,1628413,Cutting Finger Roll Layup Shot,2,3,3,Finger Roll,LAYUPS,2019
-Jonah Bolden,1628413,Cutting Layup Shot,2,6,4,Standard Layup,LAYUPS,2019
-Jonah Bolden,1628413,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2019
-Jonah Bolden,1628413,Driving Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2019
-Jonah Bolden,1628413,Driving Floating Jump Shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2019
-Jonah Bolden,1628413,Driving Layup Shot,2,5,2,Driving Layup,LAYUPS,2019
-Jonah Bolden,1628413,Driving Reverse Layup Shot,2,2,2,Driving Layup,LAYUPS,2019
-Jonah Bolden,1628413,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2019
-Jonah Bolden,1628413,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2019
-Jonah Bolden,1628413,Jump Shot,2,84,29,2PT Jump Shot,TWO_POINT_JUMPERS,2019
-Jonah Bolden,1628413,Jump Shot,3,16,6,3PT Jump Shot,THREE_POINT_JUMPERS,2019
-Jonah Bolden,1628413,Layup Shot,2,12,7,Standard Layup,LAYUPS,2019
-Jonah Bolden,1628413,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2019
-Jonah Bolden,1628413,Putback Dunk Shot,2,2,2,Putback Dunk,DUNKS,2019
-Jonah Bolden,1628413,Running Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2019
-Jonah Bolden,1628413,Running Alley Oop Layup Shot,2,1,1,Alley Oop Layup,LAYUPS,2019
-Jonah Bolden,1628413,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2019
-Jonah Bolden,1628413,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2019
-Jonah Bolden,1628413,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2019
-Jonah Bolden,1628413,Tip Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2019
-Jonah Bolden,1628413,Tip Layup Shot,2,8,7,Putback Layup,LAYUPS,2019
-Jonah Bolden,1628413,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2019
-Jonah Bolden,1628413,Cutting Dunk Shot,2,1,0,Specialty Dunk,DUNKS,2020
-Jonah Bolden,1628413,Jump Shot,2,4,0,2PT Jump Shot,TWO_POINT_JUMPERS,2020
-Jonah Bolden,1628413,Layup Shot,2,2,1,Standard Layup,LAYUPS,2020
-Jonah Bolden,1628413,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2020
-Jonah Bolden,1628413,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2020
-Jonah Bolden,1628413,Tip Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2020
-Jonah Bolden,1628413,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2020
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Jonah Bolden,1628413,2PT Floating Jump Shot,3,1,FLOATING_SHOTS,2019
+Jonah Bolden,1628413,2PT Jump Shot,84,29,TWO_POINT_JUMPERS,2019
+Jonah Bolden,1628413,2PT Pullup Jump Shot,1,0,TWO_POINT_JUMPERS,2019
+Jonah Bolden,1628413,2PT Turnaround Jump Shot,1,1,TWO_POINT_JUMPERS,2019
+Jonah Bolden,1628413,3PT Jump Shot,16,6,THREE_POINT_JUMPERS,2019
+Jonah Bolden,1628413,Alley Oop Dunk,3,2,DUNKS,2019
+Jonah Bolden,1628413,Alley Oop Layup,4,4,LAYUPS,2019
+Jonah Bolden,1628413,Driving Dunk,1,1,DUNKS,2019
+Jonah Bolden,1628413,Driving Layup,7,4,LAYUPS,2019
+Jonah Bolden,1628413,Finger Roll,4,3,LAYUPS,2019
+Jonah Bolden,1628413,Putback Dunk,2,2,DUNKS,2019
+Jonah Bolden,1628413,Putback Layup,8,7,LAYUPS,2019
+Jonah Bolden,1628413,Reverse Layup,1,1,LAYUPS,2019
+Jonah Bolden,1628413,Specialty Dunk,6,6,DUNKS,2019
+Jonah Bolden,1628413,Standard Dunk,2,2,DUNKS,2019
+Jonah Bolden,1628413,Standard Layup,19,11,LAYUPS,2019
+Jonah Bolden,1628413,2PT Jump Shot,4,0,TWO_POINT_JUMPERS,2020
+Jonah Bolden,1628413,Putback Layup,2,1,LAYUPS,2020
+Jonah Bolden,1628413,Specialty Dunk,2,1,DUNKS,2020
+Jonah Bolden,1628413,Standard Layup,3,2,LAYUPS,2020

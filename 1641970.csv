@@ -1,19 +1,13 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Maozinha Pereira,1641970,Alley Oop Dunk Shot,2,2,2,Alley Oop Dunk,DUNKS,2024
-Maozinha Pereira,1641970,Cutting Dunk Shot,2,1,0,Specialty Dunk,DUNKS,2024
-Maozinha Pereira,1641970,Cutting Layup Shot,2,1,0,Standard Layup,LAYUPS,2024
-Maozinha Pereira,1641970,Driving Dunk Shot,2,1,0,Driving Dunk,DUNKS,2024
-Maozinha Pereira,1641970,Driving Finger Roll Layup Shot,2,2,0,Finger Roll,LAYUPS,2024
-Maozinha Pereira,1641970,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2024
-Maozinha Pereira,1641970,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2024
-Maozinha Pereira,1641970,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2024
-Maozinha Pereira,1641970,Hook Bank Shot,2,1,0,Hook Shot,POST_MOVES,2024
-Maozinha Pereira,1641970,Jump Shot,3,12,5,3PT Jump Shot,THREE_POINT_JUMPERS,2024
-Maozinha Pereira,1641970,Layup Shot,2,2,2,Standard Layup,LAYUPS,2024
-Maozinha Pereira,1641970,Pullup Jump shot,3,1,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
-Maozinha Pereira,1641970,Running Alley Oop Dunk Shot,2,2,2,Alley Oop Dunk,DUNKS,2024
-Maozinha Pereira,1641970,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2024
-Maozinha Pereira,1641970,Running Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2024
-Maozinha Pereira,1641970,Tip Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2024
-Maozinha Pereira,1641970,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2024
-Maozinha Pereira,1641970,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Maozinha Pereira,1641970,2PT Floating Jump Shot,2,0,FLOATING_SHOTS,2024
+Maozinha Pereira,1641970,3PT Jump Shot,12,5,THREE_POINT_JUMPERS,2024
+Maozinha Pereira,1641970,3PT Pullup Jump Shot,1,0,THREE_POINT_JUMPERS,2024
+Maozinha Pereira,1641970,Alley Oop Dunk,4,4,DUNKS,2024
+Maozinha Pereira,1641970,Driving Dunk,1,0,DUNKS,2024
+Maozinha Pereira,1641970,Finger Roll,3,0,LAYUPS,2024
+Maozinha Pereira,1641970,Hook Shot,1,0,POST_MOVES,2024
+Maozinha Pereira,1641970,Putback Layup,1,1,LAYUPS,2024
+Maozinha Pereira,1641970,Specialty Dunk,2,1,DUNKS,2024
+Maozinha Pereira,1641970,Standard Dunk,4,4,DUNKS,2024
+Maozinha Pereira,1641970,Standard Layup,3,2,LAYUPS,2024
+Maozinha Pereira,1641970,Turnaround Hook Shot,1,1,POST_MOVES,2024

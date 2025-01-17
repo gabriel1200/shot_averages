@@ -1,50 +1,38 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Marcus Williams,200766,Driving Finger Roll Shot,2,5,4,Finger Roll,LAYUPS,2007
-Marcus Williams,200766,Driving Layup Shot,2,63,40,Driving Layup,LAYUPS,2007
-Marcus Williams,200766,Fadeaway Jump Shot,2,3,2,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2007
-Marcus Williams,200766,Finger Roll Shot,2,2,1,Finger Roll,LAYUPS,2007
-Marcus Williams,200766,Jump Bank Shot,2,6,5,2PT Jump Shot,TWO_POINT_JUMPERS,2007
-Marcus Williams,200766,Jump Shot,2,313,104,2PT Jump Shot,TWO_POINT_JUMPERS,2007
-Marcus Williams,200766,Jump Shot,3,21,8,3PT Jump Shot,THREE_POINT_JUMPERS,2007
-Marcus Williams,200766,Layup Shot,2,64,21,Standard Layup,LAYUPS,2007
-Marcus Williams,200766,Reverse Layup Shot,2,8,4,Reverse Layup,LAYUPS,2007
-Marcus Williams,200766,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,2007
-Marcus Williams,200766,Running Jump Shot,2,36,16,2PT Running Jump Shot,TWO_POINT_JUMPERS,2007
-Marcus Williams,200766,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,2007
-Marcus Williams,200766,Turnaround Jump Shot,2,2,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2007
-Marcus Williams,200766,Driving Layup Shot,2,21,7,Driving Layup,LAYUPS,2008
-Marcus Williams,200766,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2008
-Marcus Williams,200766,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2008
-Marcus Williams,200766,Floating Jump shot,2,3,2,2PT Floating Jump Shot,FLOATING_SHOTS,2008
-Marcus Williams,200766,Jump Bank Shot,2,2,1,2PT Jump Shot,TWO_POINT_JUMPERS,2008
-Marcus Williams,200766,Jump Shot,2,172,65,2PT Jump Shot,TWO_POINT_JUMPERS,2008
-Marcus Williams,200766,Jump Shot,3,52,18,3PT Jump Shot,THREE_POINT_JUMPERS,2008
-Marcus Williams,200766,Layup Shot,2,14,8,Standard Layup,LAYUPS,2008
-Marcus Williams,200766,Pullup Jump shot,2,9,4,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2008
-Marcus Williams,200766,Reverse Layup Shot,2,3,1,Reverse Layup,LAYUPS,2008
-Marcus Williams,200766,Running Bank shot,2,3,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2008
-Marcus Williams,200766,Running Jump Shot,2,9,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2008
-Marcus Williams,200766,Running Layup Shot,2,2,0,Standard Layup,LAYUPS,2008
-Marcus Williams,200766,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2008
-Marcus Williams,200766,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2009
-Marcus Williams,200766,Jump Shot,2,7,0,2PT Jump Shot,TWO_POINT_JUMPERS,2009
-Marcus Williams,200766,Jump Shot,3,5,1,3PT Jump Shot,THREE_POINT_JUMPERS,2009
-Marcus Williams,200766,Layup Shot,2,2,1,Standard Layup,LAYUPS,2009
-Marcus Williams,200766,Pullup Jump shot,2,2,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2009
-Marcus Williams,200766,Driving Finger Roll Layup Shot,2,3,2,Finger Roll,LAYUPS,2010
-Marcus Williams,200766,Driving Jump shot,2,2,2,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2010
-Marcus Williams,200766,Driving Layup Shot,2,15,11,Driving Layup,LAYUPS,2010
-Marcus Williams,200766,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2010
-Marcus Williams,200766,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2010
-Marcus Williams,200766,Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2010
-Marcus Williams,200766,Floating Jump shot,2,8,3,2PT Floating Jump Shot,FLOATING_SHOTS,2010
-Marcus Williams,200766,Jump Bank Shot,2,3,2,2PT Jump Shot,TWO_POINT_JUMPERS,2010
-Marcus Williams,200766,Jump Shot,2,135,45,2PT Jump Shot,TWO_POINT_JUMPERS,2010
-Marcus Williams,200766,Jump Shot,3,28,9,3PT Jump Shot,THREE_POINT_JUMPERS,2010
-Marcus Williams,200766,Layup Shot,2,29,10,Standard Layup,LAYUPS,2010
-Marcus Williams,200766,Pullup Jump shot,2,17,6,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2010
-Marcus Williams,200766,Reverse Layup Shot,2,2,0,Reverse Layup,LAYUPS,2010
-Marcus Williams,200766,Running Bank shot,2,4,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2010
-Marcus Williams,200766,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2010
-Marcus Williams,200766,Running Jump Shot,2,17,4,2PT Running Jump Shot,TWO_POINT_JUMPERS,2010
-Marcus Williams,200766,Running Layup Shot,2,4,4,Standard Layup,LAYUPS,2010
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Marcus Williams,200766,2PT Fadeaway Jump Shot,3,2,TWO_POINT_JUMPERS,2007
+Marcus Williams,200766,2PT Jump Shot,319,109,TWO_POINT_JUMPERS,2007
+Marcus Williams,200766,2PT Running Jump Shot,36,16,TWO_POINT_JUMPERS,2007
+Marcus Williams,200766,2PT Turnaround Jump Shot,2,2,TWO_POINT_JUMPERS,2007
+Marcus Williams,200766,3PT Jump Shot,21,8,THREE_POINT_JUMPERS,2007
+Marcus Williams,200766,Driving Layup,63,40,LAYUPS,2007
+Marcus Williams,200766,Finger Roll,7,5,LAYUPS,2007
+Marcus Williams,200766,Reverse Layup,8,4,LAYUPS,2007
+Marcus Williams,200766,Running Hook Shot,1,0,POST_MOVES,2007
+Marcus Williams,200766,Standard Layup,64,21,LAYUPS,2007
+Marcus Williams,200766,Tip Shot,2,1,TIP_SHOTS,2007
+Marcus Williams,200766,2PT Fadeaway Jump Shot,1,0,TWO_POINT_JUMPERS,2008
+Marcus Williams,200766,2PT Floating Jump Shot,3,2,FLOATING_SHOTS,2008
+Marcus Williams,200766,2PT Jump Shot,174,66,TWO_POINT_JUMPERS,2008
+Marcus Williams,200766,2PT Pullup Jump Shot,9,4,TWO_POINT_JUMPERS,2008
+Marcus Williams,200766,2PT Running Jump Shot,12,4,TWO_POINT_JUMPERS,2008
+Marcus Williams,200766,2PT Turnaround Jump Shot,1,1,TWO_POINT_JUMPERS,2008
+Marcus Williams,200766,3PT Jump Shot,52,18,THREE_POINT_JUMPERS,2008
+Marcus Williams,200766,Driving Layup,22,7,LAYUPS,2008
+Marcus Williams,200766,Reverse Layup,3,1,LAYUPS,2008
+Marcus Williams,200766,Standard Layup,16,8,LAYUPS,2008
+Marcus Williams,200766,2PT Jump Shot,7,0,TWO_POINT_JUMPERS,2009
+Marcus Williams,200766,2PT Pullup Jump Shot,2,1,TWO_POINT_JUMPERS,2009
+Marcus Williams,200766,3PT Jump Shot,5,1,THREE_POINT_JUMPERS,2009
+Marcus Williams,200766,Driving Layup,1,1,LAYUPS,2009
+Marcus Williams,200766,Standard Layup,2,1,LAYUPS,2009
+Marcus Williams,200766,2PT Driving Jump Shot,2,2,TWO_POINT_JUMPERS,2010
+Marcus Williams,200766,2PT Floating Jump Shot,8,3,FLOATING_SHOTS,2010
+Marcus Williams,200766,2PT Jump Shot,138,47,TWO_POINT_JUMPERS,2010
+Marcus Williams,200766,2PT Pullup Jump Shot,17,6,TWO_POINT_JUMPERS,2010
+Marcus Williams,200766,2PT Running Jump Shot,21,7,TWO_POINT_JUMPERS,2010
+Marcus Williams,200766,3PT Jump Shot,28,9,THREE_POINT_JUMPERS,2010
+Marcus Williams,200766,Driving Layup,16,12,LAYUPS,2010
+Marcus Williams,200766,Finger Roll,5,3,LAYUPS,2010
+Marcus Williams,200766,Reverse Layup,2,0,LAYUPS,2010
+Marcus Williams,200766,Standard Dunk,1,1,DUNKS,2010
+Marcus Williams,200766,Standard Layup,33,14,LAYUPS,2010

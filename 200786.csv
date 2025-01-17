@@ -1,13 +1,11 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-David Noel,200786,Alley Oop Layup shot,2,2,0,Alley Oop Layup,LAYUPS,2007
-David Noel,200786,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2007
-David Noel,200786,Dunk Shot,2,4,3,Standard Dunk,DUNKS,2007
-David Noel,200786,Fadeaway Jump Shot,2,2,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2007
-David Noel,200786,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2007
-David Noel,200786,Jump Shot,2,121,37,2PT Jump Shot,TWO_POINT_JUMPERS,2007
-David Noel,200786,Jump Shot,3,3,3,3PT Jump Shot,THREE_POINT_JUMPERS,2007
-David Noel,200786,Layup Shot,2,35,16,Standard Layup,LAYUPS,2007
-David Noel,200786,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2007
-David Noel,200786,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2007
-David Noel,200786,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2007
-David Noel,200786,Tip Shot,2,4,0,Tip Shot,TIP_SHOTS,2007
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+David Noel,200786,2PT Fadeaway Jump Shot,2,1,TWO_POINT_JUMPERS,2007
+David Noel,200786,2PT Jump Shot,122,38,TWO_POINT_JUMPERS,2007
+David Noel,200786,2PT Running Jump Shot,1,1,TWO_POINT_JUMPERS,2007
+David Noel,200786,3PT Jump Shot,3,3,THREE_POINT_JUMPERS,2007
+David Noel,200786,Alley Oop Layup,2,0,LAYUPS,2007
+David Noel,200786,Driving Layup,1,1,LAYUPS,2007
+David Noel,200786,Reverse Layup,2,1,LAYUPS,2007
+David Noel,200786,Standard Dunk,5,4,DUNKS,2007
+David Noel,200786,Standard Layup,35,16,LAYUPS,2007
+David Noel,200786,Tip Shot,4,0,TIP_SHOTS,2007

@@ -1,33 +1,24 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Lindell Wigginton,1629623,Cutting Layup Shot,2,4,4,Standard Layup,LAYUPS,2022
-Lindell Wigginton,1629623,Driving Finger Roll Layup Shot,2,3,1,Finger Roll,LAYUPS,2022
-Lindell Wigginton,1629623,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2022
-Lindell Wigginton,1629623,Driving Floating Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2022
-Lindell Wigginton,1629623,Driving Layup Shot,2,14,7,Driving Layup,LAYUPS,2022
-Lindell Wigginton,1629623,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2022
-Lindell Wigginton,1629623,Floating Jump shot,2,2,0,2PT Floating Jump Shot,FLOATING_SHOTS,2022
-Lindell Wigginton,1629623,Jump Shot,2,10,3,2PT Jump Shot,TWO_POINT_JUMPERS,2022
-Lindell Wigginton,1629623,Jump Shot,3,11,3,3PT Jump Shot,THREE_POINT_JUMPERS,2022
-Lindell Wigginton,1629623,Layup Shot,2,1,1,Standard Layup,LAYUPS,2022
-Lindell Wigginton,1629623,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2022
-Lindell Wigginton,1629623,Running Alley Oop Dunk Shot,2,1,0,Alley Oop Dunk,DUNKS,2022
-Lindell Wigginton,1629623,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2022
-Lindell Wigginton,1629623,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2022
-Lindell Wigginton,1629623,Running Layup Shot,2,4,2,Standard Layup,LAYUPS,2022
-Lindell Wigginton,1629623,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2022
-Lindell Wigginton,1629623,Step Back Jump shot,3,2,2,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2022
-Lindell Wigginton,1629623,Tip Layup Shot,2,2,0,Putback Layup,LAYUPS,2022
-Lindell Wigginton,1629623,Driving Finger Roll Layup Shot,2,7,4,Finger Roll,LAYUPS,2023
-Lindell Wigginton,1629623,Driving Floating Jump Shot,2,2,2,2PT Floating Jump Shot,FLOATING_SHOTS,2023
-Lindell Wigginton,1629623,Driving Layup Shot,2,4,1,Driving Layup,LAYUPS,2023
-Lindell Wigginton,1629623,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2023
-Lindell Wigginton,1629623,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2023
-Lindell Wigginton,1629623,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2023
-Lindell Wigginton,1629623,Jump Shot,2,9,3,2PT Jump Shot,TWO_POINT_JUMPERS,2023
-Lindell Wigginton,1629623,Jump Shot,3,6,3,3PT Jump Shot,THREE_POINT_JUMPERS,2023
-Lindell Wigginton,1629623,Pullup Jump shot,2,3,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2023
-Lindell Wigginton,1629623,Step Back Jump shot,2,2,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2023
-Lindell Wigginton,1629623,Step Back Jump shot,3,1,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2023
-Lindell Wigginton,1629623,Driving Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2024
-Lindell Wigginton,1629623,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2024
-Lindell Wigginton,1629623,Jump Shot,3,2,0,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Lindell Wigginton,1629623,2PT Floating Jump Shot,4,1,FLOATING_SHOTS,2022
+Lindell Wigginton,1629623,2PT Jump Shot,10,3,TWO_POINT_JUMPERS,2022
+Lindell Wigginton,1629623,2PT Pullup Jump Shot,1,0,TWO_POINT_JUMPERS,2022
+Lindell Wigginton,1629623,2PT Running Jump Shot,1,1,TWO_POINT_JUMPERS,2022
+Lindell Wigginton,1629623,2PT Step Back Jump Shot,1,0,TWO_POINT_JUMPERS,2022
+Lindell Wigginton,1629623,3PT Jump Shot,11,3,THREE_POINT_JUMPERS,2022
+Lindell Wigginton,1629623,3PT Step Back Jump Shot,2,2,THREE_POINT_JUMPERS,2022
+Lindell Wigginton,1629623,Alley Oop Dunk,1,0,DUNKS,2022
+Lindell Wigginton,1629623,Driving Layup,15,7,LAYUPS,2022
+Lindell Wigginton,1629623,Finger Roll,4,2,LAYUPS,2022
+Lindell Wigginton,1629623,Putback Layup,2,0,LAYUPS,2022
+Lindell Wigginton,1629623,Standard Layup,9,7,LAYUPS,2022
+Lindell Wigginton,1629623,2PT Floating Jump Shot,3,3,FLOATING_SHOTS,2023
+Lindell Wigginton,1629623,2PT Jump Shot,10,3,TWO_POINT_JUMPERS,2023
+Lindell Wigginton,1629623,2PT Pullup Jump Shot,3,2,TWO_POINT_JUMPERS,2023
+Lindell Wigginton,1629623,2PT Step Back Jump Shot,2,1,TWO_POINT_JUMPERS,2023
+Lindell Wigginton,1629623,3PT Jump Shot,6,3,THREE_POINT_JUMPERS,2023
+Lindell Wigginton,1629623,3PT Step Back Jump Shot,1,0,THREE_POINT_JUMPERS,2023
+Lindell Wigginton,1629623,Driving Layup,5,2,LAYUPS,2023
+Lindell Wigginton,1629623,Finger Roll,7,4,LAYUPS,2023
+Lindell Wigginton,1629623,3PT Jump Shot,2,0,THREE_POINT_JUMPERS,2024
+Lindell Wigginton,1629623,Driving Layup,1,0,LAYUPS,2024
+Lindell Wigginton,1629623,Finger Roll,2,2,LAYUPS,2024

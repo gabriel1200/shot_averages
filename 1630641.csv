@@ -1,13 +1,11 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Ibou Badji,1630641,Cutting Dunk Shot,2,2,1,Specialty Dunk,DUNKS,2024
-Ibou Badji,1630641,Cutting Layup Shot,2,2,1,Standard Layup,LAYUPS,2024
-Ibou Badji,1630641,Driving Dunk Shot,2,1,0,Driving Dunk,DUNKS,2024
-Ibou Badji,1630641,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2024
-Ibou Badji,1630641,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2024
-Ibou Badji,1630641,Jump Shot,2,5,3,2PT Jump Shot,TWO_POINT_JUMPERS,2024
-Ibou Badji,1630641,Layup Shot,2,1,0,Standard Layup,LAYUPS,2024
-Ibou Badji,1630641,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2024
-Ibou Badji,1630641,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2024
-Ibou Badji,1630641,Tip Dunk Shot,2,4,4,Specialty Dunk,DUNKS,2024
-Ibou Badji,1630641,Tip Layup Shot,2,2,2,Putback Layup,LAYUPS,2024
-Ibou Badji,1630641,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Ibou Badji,1630641,2PT Floating Jump Shot,1,1,FLOATING_SHOTS,2024
+Ibou Badji,1630641,2PT Jump Shot,5,3,TWO_POINT_JUMPERS,2024
+Ibou Badji,1630641,Driving Dunk,1,0,DUNKS,2024
+Ibou Badji,1630641,Hook Shot,1,0,POST_MOVES,2024
+Ibou Badji,1630641,Putback Dunk,1,1,DUNKS,2024
+Ibou Badji,1630641,Putback Layup,2,2,LAYUPS,2024
+Ibou Badji,1630641,Specialty Dunk,6,5,DUNKS,2024
+Ibou Badji,1630641,Standard Dunk,1,1,DUNKS,2024
+Ibou Badji,1630641,Standard Layup,3,1,LAYUPS,2024
+Ibou Badji,1630641,Turnaround Hook Shot,1,0,POST_MOVES,2024

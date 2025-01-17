@@ -1,9 +1,8 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Jameel Warney,1627866,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2018
-Jameel Warney,1627866,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2018
-Jameel Warney,1627866,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2018
-Jameel Warney,1627866,Jump Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2018
-Jameel Warney,1627866,Layup Shot,2,1,0,Standard Layup,LAYUPS,2018
-Jameel Warney,1627866,Putback Layup Shot,2,3,3,Putback Layup,LAYUPS,2018
-Jameel Warney,1627866,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2018
-Jameel Warney,1627866,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,2018
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Jameel Warney,1627866,2PT Floating Jump Shot,1,1,FLOATING_SHOTS,2018
+Jameel Warney,1627866,2PT Jump Shot,2,0,TWO_POINT_JUMPERS,2018
+Jameel Warney,1627866,2PT Running Jump Shot,1,0,TWO_POINT_JUMPERS,2018
+Jameel Warney,1627866,Driving Layup,1,1,LAYUPS,2018
+Jameel Warney,1627866,Putback Layup,3,3,LAYUPS,2018
+Jameel Warney,1627866,Standard Layup,2,1,LAYUPS,2018
+Jameel Warney,1627866,Turnaround Hook Shot,2,1,POST_MOVES,2018

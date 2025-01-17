@@ -1,12 +1,12 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Litterial Green,1036,Driving Layup Shot,2,9,8,Driving Layup,LAYUPS,1997
-Litterial Green,1036,Dunk Shot,2,2,2,Standard Dunk,DUNKS,1997
-Litterial Green,1036,Jump Shot,2,30,11,2PT Jump Shot,TWO_POINT_JUMPERS,1997
-Litterial Green,1036,Jump Shot,3,10,0,3PT Jump Shot,THREE_POINT_JUMPERS,1997
-Litterial Green,1036,Layup Shot,2,11,7,Standard Layup,LAYUPS,1997
-Litterial Green,1036,Running Jump Shot,2,2,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
-Litterial Green,1036,Driving Layup Shot,2,2,0,Driving Layup,LAYUPS,1998
-Litterial Green,1036,Jump Shot,2,11,2,2PT Jump Shot,TWO_POINT_JUMPERS,1998
-Litterial Green,1036,Jump Shot,3,2,0,3PT Jump Shot,THREE_POINT_JUMPERS,1998
-Litterial Green,1036,Layup Shot,2,8,3,Standard Layup,LAYUPS,1998
-Litterial Green,1036,Layup Shot,2,1,0,Standard Layup,LAYUPS,1999
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Litterial Green,1036,2PT Jump Shot,30,11,TWO_POINT_JUMPERS,1997
+Litterial Green,1036,2PT Running Jump Shot,2,2,TWO_POINT_JUMPERS,1997
+Litterial Green,1036,3PT Jump Shot,10,0,THREE_POINT_JUMPERS,1997
+Litterial Green,1036,Driving Layup,9,8,LAYUPS,1997
+Litterial Green,1036,Standard Dunk,2,2,DUNKS,1997
+Litterial Green,1036,Standard Layup,11,7,LAYUPS,1997
+Litterial Green,1036,2PT Jump Shot,11,2,TWO_POINT_JUMPERS,1998
+Litterial Green,1036,3PT Jump Shot,2,0,THREE_POINT_JUMPERS,1998
+Litterial Green,1036,Driving Layup,2,0,LAYUPS,1998
+Litterial Green,1036,Standard Layup,8,3,LAYUPS,1998
+Litterial Green,1036,Standard Layup,1,0,LAYUPS,1999

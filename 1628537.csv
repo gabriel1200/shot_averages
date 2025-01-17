@@ -1,22 +1,19 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Jaylen Morris,1628537,Driving Dunk Shot,2,1,0,Driving Dunk,DUNKS,2018
-Jaylen Morris,1628537,Driving Floating Bank Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2018
-Jaylen Morris,1628537,Driving Floating Jump Shot,2,3,3,2PT Floating Jump Shot,FLOATING_SHOTS,2018
-Jaylen Morris,1628537,Driving Layup Shot,2,8,2,Driving Layup,LAYUPS,2018
-Jaylen Morris,1628537,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2018
-Jaylen Morris,1628537,Jump Shot,2,13,3,2PT Jump Shot,TWO_POINT_JUMPERS,2018
-Jaylen Morris,1628537,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2018
-Jaylen Morris,1628537,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2018
-Jaylen Morris,1628537,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2018
-Jaylen Morris,1628537,Running Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2018
-Jaylen Morris,1628537,Cutting Layup Shot,2,2,2,Standard Layup,LAYUPS,2019
-Jaylen Morris,1628537,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2019
-Jaylen Morris,1628537,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2019
-Jaylen Morris,1628537,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2019
-Jaylen Morris,1628537,Jump Shot,2,4,1,2PT Jump Shot,TWO_POINT_JUMPERS,2019
-Jaylen Morris,1628537,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2019
-Jaylen Morris,1628537,Driving Dunk Shot,2,1,0,Driving Dunk,DUNKS,2022
-Jaylen Morris,1628537,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2022
-Jaylen Morris,1628537,Driving Layup Shot,2,2,0,Driving Layup,LAYUPS,2022
-Jaylen Morris,1628537,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2022
-Jaylen Morris,1628537,Pullup Jump shot,3,1,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2022
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Jaylen Morris,1628537,2PT Floating Jump Shot,4,4,FLOATING_SHOTS,2018
+Jaylen Morris,1628537,2PT Jump Shot,13,3,TWO_POINT_JUMPERS,2018
+Jaylen Morris,1628537,Driving Dunk,1,0,DUNKS,2018
+Jaylen Morris,1628537,Driving Layup,8,2,LAYUPS,2018
+Jaylen Morris,1628537,Putback Layup,1,1,LAYUPS,2018
+Jaylen Morris,1628537,Reverse Layup,2,1,LAYUPS,2018
+Jaylen Morris,1628537,Standard Dunk,2,2,DUNKS,2018
+Jaylen Morris,1628537,Standard Layup,1,0,LAYUPS,2018
+Jaylen Morris,1628537,2PT Floating Jump Shot,1,0,FLOATING_SHOTS,2019
+Jaylen Morris,1628537,2PT Jump Shot,4,1,TWO_POINT_JUMPERS,2019
+Jaylen Morris,1628537,Driving Layup,1,0,LAYUPS,2019
+Jaylen Morris,1628537,Hook Shot,1,0,POST_MOVES,2019
+Jaylen Morris,1628537,Standard Layup,3,3,LAYUPS,2019
+Jaylen Morris,1628537,2PT Floating Jump Shot,1,0,FLOATING_SHOTS,2022
+Jaylen Morris,1628537,3PT Jump Shot,1,0,THREE_POINT_JUMPERS,2022
+Jaylen Morris,1628537,3PT Pullup Jump Shot,1,0,THREE_POINT_JUMPERS,2022
+Jaylen Morris,1628537,Driving Dunk,1,0,DUNKS,2022
+Jaylen Morris,1628537,Driving Layup,2,0,LAYUPS,2022

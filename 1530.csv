@@ -1,9 +1,8 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-James Collins,1530,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,1998
-James Collins,1530,Dunk Shot,2,1,1,Standard Dunk,DUNKS,1998
-James Collins,1530,Jump Shot,2,36,12,2PT Jump Shot,TWO_POINT_JUMPERS,1998
-James Collins,1530,Jump Shot,3,3,1,3PT Jump Shot,THREE_POINT_JUMPERS,1998
-James Collins,1530,Layup Shot,2,10,3,Standard Layup,LAYUPS,1998
-James Collins,1530,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
-James Collins,1530,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,1998
-James Collins,1530,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,1998
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+James Collins,1530,2PT Jump Shot,36,12,TWO_POINT_JUMPERS,1998
+James Collins,1530,2PT Running Jump Shot,1,1,TWO_POINT_JUMPERS,1998
+James Collins,1530,3PT Jump Shot,3,1,THREE_POINT_JUMPERS,1998
+James Collins,1530,Driving Layup,1,1,LAYUPS,1998
+James Collins,1530,Standard Dunk,2,2,DUNKS,1998
+James Collins,1530,Standard Layup,10,3,LAYUPS,1998
+James Collins,1530,Tip Shot,2,1,TIP_SHOTS,1998

@@ -1,28 +1,26 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Maciej Lampe,2573,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2004
-Maciej Lampe,2573,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2004
-Maciej Lampe,2573,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2004
-Maciej Lampe,2573,Hook Shot,2,4,2,Hook Shot,POST_MOVES,2004
-Maciej Lampe,2573,Jump Shot,2,61,26,2PT Jump Shot,TWO_POINT_JUMPERS,2004
-Maciej Lampe,2573,Layup Shot,2,16,9,Standard Layup,LAYUPS,2004
-Maciej Lampe,2573,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,2004
-Maciej Lampe,2573,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2004
-Maciej Lampe,2573,Turnaround Jump Shot,2,2,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2004
-Maciej Lampe,2573,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2005
-Maciej Lampe,2573,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2005
-Maciej Lampe,2573,Hook Shot,2,3,0,Hook Shot,POST_MOVES,2005
-Maciej Lampe,2573,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2005
-Maciej Lampe,2573,Jump Hook Shot,2,1,0,Hook Shot,POST_MOVES,2005
-Maciej Lampe,2573,Jump Shot,2,86,29,2PT Jump Shot,TWO_POINT_JUMPERS,2005
-Maciej Lampe,2573,Layup Shot,2,27,11,Standard Layup,LAYUPS,2005
-Maciej Lampe,2573,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,2005
-Maciej Lampe,2573,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2005
-Maciej Lampe,2573,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2005
-Maciej Lampe,2573,Tip Shot,2,6,2,Tip Shot,TIP_SHOTS,2005
-Maciej Lampe,2573,Turnaround Jump Shot,2,3,3,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2005
-Maciej Lampe,2573,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2006
-Maciej Lampe,2573,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2006
-Maciej Lampe,2573,Jump Shot,2,4,0,2PT Jump Shot,TWO_POINT_JUMPERS,2006
-Maciej Lampe,2573,Layup Shot,2,3,2,Standard Layup,LAYUPS,2006
-Maciej Lampe,2573,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2006
-Maciej Lampe,2573,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2006
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Maciej Lampe,2573,2PT Jump Shot,61,26,TWO_POINT_JUMPERS,2004
+Maciej Lampe,2573,2PT Turnaround Jump Shot,2,2,TWO_POINT_JUMPERS,2004
+Maciej Lampe,2573,Alley Oop Layup,1,1,LAYUPS,2004
+Maciej Lampe,2573,Driving Layup,1,1,LAYUPS,2004
+Maciej Lampe,2573,Hook Shot,4,2,POST_MOVES,2004
+Maciej Lampe,2573,Running Hook Shot,1,1,POST_MOVES,2004
+Maciej Lampe,2573,Standard Dunk,1,1,DUNKS,2004
+Maciej Lampe,2573,Standard Layup,16,9,LAYUPS,2004
+Maciej Lampe,2573,Tip Shot,1,0,TIP_SHOTS,2004
+Maciej Lampe,2573,2PT Fadeaway Jump Shot,1,1,TWO_POINT_JUMPERS,2005
+Maciej Lampe,2573,2PT Jump Shot,87,29,TWO_POINT_JUMPERS,2005
+Maciej Lampe,2573,2PT Running Jump Shot,1,0,TWO_POINT_JUMPERS,2005
+Maciej Lampe,2573,2PT Turnaround Jump Shot,3,3,TWO_POINT_JUMPERS,2005
+Maciej Lampe,2573,Driving Layup,1,1,LAYUPS,2005
+Maciej Lampe,2573,Hook Shot,4,0,POST_MOVES,2005
+Maciej Lampe,2573,Running Hook Shot,1,1,POST_MOVES,2005
+Maciej Lampe,2573,Standard Dunk,1,1,DUNKS,2005
+Maciej Lampe,2573,Standard Layup,27,11,LAYUPS,2005
+Maciej Lampe,2573,Tip Shot,6,2,TIP_SHOTS,2005
+Maciej Lampe,2573,2PT Fadeaway Jump Shot,1,0,TWO_POINT_JUMPERS,2006
+Maciej Lampe,2573,2PT Jump Shot,4,0,TWO_POINT_JUMPERS,2006
+Maciej Lampe,2573,2PT Running Jump Shot,1,0,TWO_POINT_JUMPERS,2006
+Maciej Lampe,2573,2PT Turnaround Jump Shot,1,0,TWO_POINT_JUMPERS,2006
+Maciej Lampe,2573,Hook Shot,1,0,POST_MOVES,2006
+Maciej Lampe,2573,Standard Layup,3,2,LAYUPS,2006

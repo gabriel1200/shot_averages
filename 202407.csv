@@ -1,39 +1,29 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Elijah Millsap,202407,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2015
-Elijah Millsap,202407,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2015
-Elijah Millsap,202407,Driving Jump shot,2,1,1,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2015
-Elijah Millsap,202407,Driving Layup Shot,2,15,8,Driving Layup,LAYUPS,2015
-Elijah Millsap,202407,Driving Reverse Layup Shot,2,2,2,Driving Layup,LAYUPS,2015
-Elijah Millsap,202407,Driving Slam Dunk Shot,2,1,1,Driving Dunk,DUNKS,2015
-Elijah Millsap,202407,Dunk Shot,2,2,1,Standard Dunk,DUNKS,2015
-Elijah Millsap,202407,Fadeaway Bank shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2015
-Elijah Millsap,202407,Floating Jump shot,2,3,2,2PT Floating Jump Shot,FLOATING_SHOTS,2015
-Elijah Millsap,202407,Jump Bank Shot,2,2,1,2PT Jump Shot,TWO_POINT_JUMPERS,2015
-Elijah Millsap,202407,Jump Shot,2,128,32,2PT Jump Shot,TWO_POINT_JUMPERS,2015
-Elijah Millsap,202407,Jump Shot,3,6,1,3PT Jump Shot,THREE_POINT_JUMPERS,2015
-Elijah Millsap,202407,Layup Shot,2,47,15,Standard Layup,LAYUPS,2015
-Elijah Millsap,202407,Pullup Jump shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2015
-Elijah Millsap,202407,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2015
-Elijah Millsap,202407,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2015
-Elijah Millsap,202407,Running Bank shot,2,3,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2015
-Elijah Millsap,202407,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2015
-Elijah Millsap,202407,Running Jump Shot,2,9,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2015
-Elijah Millsap,202407,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2015
-Elijah Millsap,202407,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2015
-Elijah Millsap,202407,Tip Shot,2,9,5,Tip Shot,TIP_SHOTS,2015
-Elijah Millsap,202407,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2015
-Elijah Millsap,202407,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2016
-Elijah Millsap,202407,Driving Bank shot,2,1,0,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2016
-Elijah Millsap,202407,Driving Layup Shot,2,6,4,Driving Layup,LAYUPS,2016
-Elijah Millsap,202407,Dunk Shot,2,1,0,Standard Dunk,DUNKS,2016
-Elijah Millsap,202407,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2016
-Elijah Millsap,202407,Jump Shot,2,16,1,2PT Jump Shot,TWO_POINT_JUMPERS,2016
-Elijah Millsap,202407,Layup Shot,2,7,1,Standard Layup,LAYUPS,2016
-Elijah Millsap,202407,Putback Layup Shot,2,1,0,Putback Layup,LAYUPS,2016
-Elijah Millsap,202407,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2016
-Elijah Millsap,202407,Running Layup Shot,2,2,2,Standard Layup,LAYUPS,2016
-Elijah Millsap,202407,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2016
-Elijah Millsap,202407,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2016
-Elijah Millsap,202407,Cutting Layup Shot,2,1,0,Standard Layup,LAYUPS,2017
-Elijah Millsap,202407,Jump Shot,2,5,0,2PT Jump Shot,TWO_POINT_JUMPERS,2017
-Elijah Millsap,202407,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2017
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Elijah Millsap,202407,2PT Driving Jump Shot,1,1,TWO_POINT_JUMPERS,2015
+Elijah Millsap,202407,2PT Fadeaway Jump Shot,1,0,TWO_POINT_JUMPERS,2015
+Elijah Millsap,202407,2PT Floating Jump Shot,3,2,FLOATING_SHOTS,2015
+Elijah Millsap,202407,2PT Jump Shot,130,33,TWO_POINT_JUMPERS,2015
+Elijah Millsap,202407,2PT Pullup Jump Shot,1,1,TWO_POINT_JUMPERS,2015
+Elijah Millsap,202407,2PT Running Jump Shot,12,4,TWO_POINT_JUMPERS,2015
+Elijah Millsap,202407,2PT Turnaround Jump Shot,1,1,TWO_POINT_JUMPERS,2015
+Elijah Millsap,202407,3PT Jump Shot,6,1,THREE_POINT_JUMPERS,2015
+Elijah Millsap,202407,Driving Dunk,2,2,DUNKS,2015
+Elijah Millsap,202407,Driving Layup,17,10,LAYUPS,2015
+Elijah Millsap,202407,Finger Roll,1,1,LAYUPS,2015
+Elijah Millsap,202407,Putback Layup,1,1,LAYUPS,2015
+Elijah Millsap,202407,Reverse Layup,1,0,LAYUPS,2015
+Elijah Millsap,202407,Standard Dunk,4,3,DUNKS,2015
+Elijah Millsap,202407,Standard Layup,48,16,LAYUPS,2015
+Elijah Millsap,202407,Tip Shot,9,5,TIP_SHOTS,2015
+Elijah Millsap,202407,2PT Driving Jump Shot,1,0,TWO_POINT_JUMPERS,2016
+Elijah Millsap,202407,2PT Jump Shot,17,1,TWO_POINT_JUMPERS,2016
+Elijah Millsap,202407,2PT Step Back Jump Shot,1,0,TWO_POINT_JUMPERS,2016
+Elijah Millsap,202407,Alley Oop Layup,1,1,LAYUPS,2016
+Elijah Millsap,202407,Driving Layup,6,4,LAYUPS,2016
+Elijah Millsap,202407,Putback Layup,2,1,LAYUPS,2016
+Elijah Millsap,202407,Reverse Layup,1,1,LAYUPS,2016
+Elijah Millsap,202407,Standard Dunk,1,0,DUNKS,2016
+Elijah Millsap,202407,Standard Layup,9,3,LAYUPS,2016
+Elijah Millsap,202407,2PT Jump Shot,5,0,TWO_POINT_JUMPERS,2017
+Elijah Millsap,202407,Putback Layup,1,1,LAYUPS,2017
+Elijah Millsap,202407,Standard Layup,1,0,LAYUPS,2017

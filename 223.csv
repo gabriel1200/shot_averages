@@ -1,27 +1,27 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Bill Curley,223,Hook Shot,2,3,3,Hook Shot,POST_MOVES,1998
-Bill Curley,223,Jump Shot,2,24,11,2PT Jump Shot,TWO_POINT_JUMPERS,1998
-Bill Curley,223,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,1998
-Bill Curley,223,Layup Shot,2,4,2,Standard Layup,LAYUPS,1998
-Bill Curley,223,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,1998
-Bill Curley,223,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,1999
-Bill Curley,223,Dunk Shot,2,1,1,Standard Dunk,DUNKS,1999
-Bill Curley,223,Hook Shot,2,8,3,Hook Shot,POST_MOVES,1999
-Bill Curley,223,Jump Shot,2,39,13,2PT Jump Shot,TWO_POINT_JUMPERS,1999
-Bill Curley,223,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,1999
-Bill Curley,223,Layup Shot,2,19,10,Standard Layup,LAYUPS,1999
-Bill Curley,223,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,1999
-Bill Curley,223,Dunk Shot,2,1,0,Standard Dunk,DUNKS,2000
-Bill Curley,223,Hook Shot,2,12,10,Hook Shot,POST_MOVES,2000
-Bill Curley,223,Jump Shot,2,37,10,2PT Jump Shot,TWO_POINT_JUMPERS,2000
-Bill Curley,223,Layup Shot,2,16,8,Standard Layup,LAYUPS,2000
-Bill Curley,223,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,2000
-Bill Curley,223,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2001
-Bill Curley,223,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2001
-Bill Curley,223,Hook Shot,2,3,2,Hook Shot,POST_MOVES,2001
-Bill Curley,223,Jump Shot,2,24,8,2PT Jump Shot,TWO_POINT_JUMPERS,2001
-Bill Curley,223,Layup Shot,2,12,8,Standard Layup,LAYUPS,2001
-Bill Curley,223,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2001
-Bill Curley,223,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
-Bill Curley,223,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,2001
-Bill Curley,223,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Bill Curley,223,2PT Jump Shot,24,11,TWO_POINT_JUMPERS,1998
+Bill Curley,223,3PT Jump Shot,1,0,THREE_POINT_JUMPERS,1998
+Bill Curley,223,Hook Shot,3,3,POST_MOVES,1998
+Bill Curley,223,Standard Layup,4,2,LAYUPS,1998
+Bill Curley,223,Tip Shot,1,0,TIP_SHOTS,1998
+Bill Curley,223,2PT Jump Shot,39,13,TWO_POINT_JUMPERS,1999
+Bill Curley,223,3PT Jump Shot,1,0,THREE_POINT_JUMPERS,1999
+Bill Curley,223,Driving Layup,1,1,LAYUPS,1999
+Bill Curley,223,Hook Shot,8,3,POST_MOVES,1999
+Bill Curley,223,Standard Dunk,1,1,DUNKS,1999
+Bill Curley,223,Standard Layup,19,10,LAYUPS,1999
+Bill Curley,223,Tip Shot,3,1,TIP_SHOTS,1999
+Bill Curley,223,2PT Jump Shot,37,10,TWO_POINT_JUMPERS,2000
+Bill Curley,223,Hook Shot,12,10,POST_MOVES,2000
+Bill Curley,223,Standard Dunk,1,0,DUNKS,2000
+Bill Curley,223,Standard Layup,16,8,LAYUPS,2000
+Bill Curley,223,Tip Shot,2,1,TIP_SHOTS,2000
+Bill Curley,223,2PT Jump Shot,24,8,TWO_POINT_JUMPERS,2001
+Bill Curley,223,2PT Running Jump Shot,1,1,TWO_POINT_JUMPERS,2001
+Bill Curley,223,Driving Layup,1,1,LAYUPS,2001
+Bill Curley,223,Hook Shot,3,2,POST_MOVES,2001
+Bill Curley,223,Reverse Layup,1,1,LAYUPS,2001
+Bill Curley,223,Standard Dunk,1,1,DUNKS,2001
+Bill Curley,223,Standard Layup,12,8,LAYUPS,2001
+Bill Curley,223,Tip Shot,2,2,TIP_SHOTS,2001
+Bill Curley,223,Turnaround Hook Shot,2,1,POST_MOVES,2001

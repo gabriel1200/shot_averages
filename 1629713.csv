@@ -1,49 +1,33 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Justin James,1629713,Alley Oop Dunk Shot,2,3,3,Alley Oop Dunk,DUNKS,2020
-Justin James,1629713,Cutting Dunk Shot,2,2,2,Specialty Dunk,DUNKS,2020
-Justin James,1629713,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2020
-Justin James,1629713,Driving Dunk Shot,2,3,1,Driving Dunk,DUNKS,2020
-Justin James,1629713,Driving Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2020
-Justin James,1629713,Driving Floating Jump Shot,2,10,3,2PT Floating Jump Shot,FLOATING_SHOTS,2020
-Justin James,1629713,Driving Layup Shot,2,5,0,Driving Layup,LAYUPS,2020
-Justin James,1629713,Driving Reverse Layup Shot,2,2,1,Driving Layup,LAYUPS,2020
-Justin James,1629713,Floating Jump shot,2,4,1,2PT Floating Jump Shot,FLOATING_SHOTS,2020
-Justin James,1629713,Jump Shot,2,29,10,2PT Jump Shot,TWO_POINT_JUMPERS,2020
-Justin James,1629713,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2020
-Justin James,1629713,Layup Shot,2,1,1,Standard Layup,LAYUPS,2020
-Justin James,1629713,Pullup Jump shot,2,10,3,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2020
-Justin James,1629713,Pullup Jump shot,3,1,1,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2020
-Justin James,1629713,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2020
-Justin James,1629713,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2020
-Justin James,1629713,Running Layup Shot,2,2,2,Standard Layup,LAYUPS,2020
-Justin James,1629713,Running Pull-Up Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2020
-Justin James,1629713,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2020
-Justin James,1629713,Tip Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2020
-Justin James,1629713,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2020
-Justin James,1629713,Alley Oop Dunk Shot,2,1,0,Alley Oop Dunk,DUNKS,2021
-Justin James,1629713,Alley Oop Layup shot,2,2,1,Alley Oop Layup,LAYUPS,2021
-Justin James,1629713,Cutting Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2021
-Justin James,1629713,Cutting Layup Shot,2,3,3,Standard Layup,LAYUPS,2021
-Justin James,1629713,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2021
-Justin James,1629713,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2021
-Justin James,1629713,Driving Floating Bank Jump Shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2021
-Justin James,1629713,Driving Floating Jump Shot,2,15,9,2PT Floating Jump Shot,FLOATING_SHOTS,2021
-Justin James,1629713,Driving Layup Shot,2,9,2,Driving Layup,LAYUPS,2021
-Justin James,1629713,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2021
-Justin James,1629713,Dunk Shot,2,2,1,Standard Dunk,DUNKS,2021
-Justin James,1629713,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2021
-Justin James,1629713,Floating Jump shot,2,3,1,2PT Floating Jump Shot,FLOATING_SHOTS,2021
-Justin James,1629713,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2021
-Justin James,1629713,Jump Shot,2,38,14,2PT Jump Shot,TWO_POINT_JUMPERS,2021
-Justin James,1629713,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2021
-Justin James,1629713,Layup Shot,2,2,1,Standard Layup,LAYUPS,2021
-Justin James,1629713,Pullup Jump shot,2,10,4,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2021
-Justin James,1629713,Putback Layup Shot,2,4,2,Putback Layup,LAYUPS,2021
-Justin James,1629713,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2021
-Justin James,1629713,Running Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2021
-Justin James,1629713,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2021
-Justin James,1629713,Running Layup Shot,2,2,1,Standard Layup,LAYUPS,2021
-Justin James,1629713,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2021
-Justin James,1629713,Tip Layup Shot,2,2,2,Putback Layup,LAYUPS,2021
-Justin James,1629713,Turnaround Fadeaway Bank Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2021
-Justin James,1629713,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2021
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Justin James,1629713,2PT Floating Jump Shot,14,4,FLOATING_SHOTS,2020
+Justin James,1629713,2PT Jump Shot,29,10,TWO_POINT_JUMPERS,2020
+Justin James,1629713,2PT Pullup Jump Shot,10,3,TWO_POINT_JUMPERS,2020
+Justin James,1629713,2PT Running Jump Shot,3,1,TWO_POINT_JUMPERS,2020
+Justin James,1629713,2PT Step Back Jump Shot,1,0,TWO_POINT_JUMPERS,2020
+Justin James,1629713,2PT Turnaround Jump Shot,1,1,TWO_POINT_JUMPERS,2020
+Justin James,1629713,3PT Jump Shot,1,0,THREE_POINT_JUMPERS,2020
+Justin James,1629713,3PT Pullup Jump Shot,1,1,THREE_POINT_JUMPERS,2020
+Justin James,1629713,Alley Oop Dunk,3,3,DUNKS,2020
+Justin James,1629713,Driving Dunk,3,1,DUNKS,2020
+Justin James,1629713,Driving Layup,7,1,LAYUPS,2020
+Justin James,1629713,Finger Roll,2,1,LAYUPS,2020
+Justin James,1629713,Specialty Dunk,3,3,DUNKS,2020
+Justin James,1629713,Standard Dunk,2,2,DUNKS,2020
+Justin James,1629713,Standard Layup,4,4,LAYUPS,2020
+Justin James,1629713,2PT Fadeaway Jump Shot,1,0,TWO_POINT_JUMPERS,2021
+Justin James,1629713,2PT Floating Jump Shot,20,11,FLOATING_SHOTS,2021
+Justin James,1629713,2PT Jump Shot,39,14,TWO_POINT_JUMPERS,2021
+Justin James,1629713,2PT Pullup Jump Shot,10,4,TWO_POINT_JUMPERS,2021
+Justin James,1629713,2PT Running Jump Shot,1,0,TWO_POINT_JUMPERS,2021
+Justin James,1629713,2PT Step Back Jump Shot,1,0,TWO_POINT_JUMPERS,2021
+Justin James,1629713,2PT Turnaround Jump Shot,1,1,TWO_POINT_JUMPERS,2021
+Justin James,1629713,3PT Jump Shot,1,0,THREE_POINT_JUMPERS,2021
+Justin James,1629713,Alley Oop Dunk,1,0,DUNKS,2021
+Justin James,1629713,Alley Oop Layup,2,1,LAYUPS,2021
+Justin James,1629713,Driving Dunk,2,2,DUNKS,2021
+Justin James,1629713,Driving Layup,10,3,LAYUPS,2021
+Justin James,1629713,Finger Roll,4,4,LAYUPS,2021
+Justin James,1629713,Putback Layup,6,4,LAYUPS,2021
+Justin James,1629713,Standard Dunk,4,3,DUNKS,2021
+Justin James,1629713,Standard Layup,7,5,LAYUPS,2021
+Justin James,1629713,Turnaround Hook Shot,1,0,POST_MOVES,2021

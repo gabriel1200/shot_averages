@@ -1,48 +1,37 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Udoka Azubuike,1628962,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2021
-Udoka Azubuike,1628962,Dunk Shot,2,3,2,Standard Dunk,DUNKS,2021
-Udoka Azubuike,1628962,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2021
-Udoka Azubuike,1628962,Layup Shot,2,3,1,Standard Layup,LAYUPS,2021
-Udoka Azubuike,1628962,Tip Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2021
-Udoka Azubuike,1628962,Alley Oop Dunk Shot,2,9,9,Alley Oop Dunk,DUNKS,2022
-Udoka Azubuike,1628962,Alley Oop Layup shot,2,3,1,Alley Oop Layup,LAYUPS,2022
-Udoka Azubuike,1628962,Cutting Dunk Shot,2,4,4,Specialty Dunk,DUNKS,2022
-Udoka Azubuike,1628962,Cutting Layup Shot,2,2,2,Standard Layup,LAYUPS,2022
-Udoka Azubuike,1628962,Dunk Shot,2,14,12,Standard Dunk,DUNKS,2022
-Udoka Azubuike,1628962,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2022
-Udoka Azubuike,1628962,Hook Bank Shot,2,1,1,Hook Shot,POST_MOVES,2022
-Udoka Azubuike,1628962,Hook Shot,2,4,1,Hook Shot,POST_MOVES,2022
-Udoka Azubuike,1628962,Layup Shot,2,4,2,Standard Layup,LAYUPS,2022
-Udoka Azubuike,1628962,Putback Layup Shot,2,2,1,Putback Layup,LAYUPS,2022
-Udoka Azubuike,1628962,Reverse Dunk Shot,2,1,1,Reverse Dunk,DUNKS,2022
-Udoka Azubuike,1628962,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2022
-Udoka Azubuike,1628962,Turnaround Hook Shot,2,3,2,Turnaround Hook Shot,POST_MOVES,2022
-Udoka Azubuike,1628962,Alley Oop Dunk Shot,2,11,10,Alley Oop Dunk,DUNKS,2023
-Udoka Azubuike,1628962,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2023
-Udoka Azubuike,1628962,Cutting Dunk Shot,2,6,5,Specialty Dunk,DUNKS,2023
-Udoka Azubuike,1628962,Cutting Layup Shot,2,3,2,Standard Layup,LAYUPS,2023
-Udoka Azubuike,1628962,Dunk Shot,2,21,20,Standard Dunk,DUNKS,2023
-Udoka Azubuike,1628962,Floating Jump shot,2,3,2,2PT Floating Jump Shot,FLOATING_SHOTS,2023
-Udoka Azubuike,1628962,Hook Shot,2,8,5,Hook Shot,POST_MOVES,2023
-Udoka Azubuike,1628962,Layup Shot,2,5,3,Standard Layup,LAYUPS,2023
-Udoka Azubuike,1628962,Putback Dunk Shot,2,2,2,Putback Dunk,DUNKS,2023
-Udoka Azubuike,1628962,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2023
-Udoka Azubuike,1628962,Reverse Dunk Shot,2,1,1,Reverse Dunk,DUNKS,2023
-Udoka Azubuike,1628962,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2023
-Udoka Azubuike,1628962,Tip Dunk Shot,2,2,2,Specialty Dunk,DUNKS,2023
-Udoka Azubuike,1628962,Tip Layup Shot,2,2,2,Putback Layup,LAYUPS,2023
-Udoka Azubuike,1628962,Turnaround Hook Shot,2,4,2,Turnaround Hook Shot,POST_MOVES,2023
-Udoka Azubuike,1628962,Alley Oop Dunk Shot,2,2,1,Alley Oop Dunk,DUNKS,2024
-Udoka Azubuike,1628962,Alley Oop Layup shot,2,2,2,Alley Oop Layup,LAYUPS,2024
-Udoka Azubuike,1628962,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2024
-Udoka Azubuike,1628962,Cutting Layup Shot,2,2,1,Standard Layup,LAYUPS,2024
-Udoka Azubuike,1628962,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2024
-Udoka Azubuike,1628962,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2024
-Udoka Azubuike,1628962,Dunk Shot,2,3,3,Standard Dunk,DUNKS,2024
-Udoka Azubuike,1628962,Hook Shot,2,2,0,Hook Shot,POST_MOVES,2024
-Udoka Azubuike,1628962,Layup Shot,2,2,1,Standard Layup,LAYUPS,2024
-Udoka Azubuike,1628962,Putback Dunk Shot,2,3,2,Putback Dunk,DUNKS,2024
-Udoka Azubuike,1628962,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2024
-Udoka Azubuike,1628962,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2024
-Udoka Azubuike,1628962,Tip Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2024
-Udoka Azubuike,1628962,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Udoka Azubuike,1628962,Alley Oop Layup,1,0,LAYUPS,2021
+Udoka Azubuike,1628962,Hook Shot,1,0,POST_MOVES,2021
+Udoka Azubuike,1628962,Specialty Dunk,1,1,DUNKS,2021
+Udoka Azubuike,1628962,Standard Dunk,3,2,DUNKS,2021
+Udoka Azubuike,1628962,Standard Layup,3,1,LAYUPS,2021
+Udoka Azubuike,1628962,2PT Floating Jump Shot,1,0,FLOATING_SHOTS,2022
+Udoka Azubuike,1628962,Alley Oop Dunk,9,9,DUNKS,2022
+Udoka Azubuike,1628962,Alley Oop Layup,3,1,LAYUPS,2022
+Udoka Azubuike,1628962,Hook Shot,5,2,POST_MOVES,2022
+Udoka Azubuike,1628962,Putback Layup,3,2,LAYUPS,2022
+Udoka Azubuike,1628962,Reverse Dunk,1,1,DUNKS,2022
+Udoka Azubuike,1628962,Specialty Dunk,4,4,DUNKS,2022
+Udoka Azubuike,1628962,Standard Dunk,14,12,DUNKS,2022
+Udoka Azubuike,1628962,Standard Layup,6,4,LAYUPS,2022
+Udoka Azubuike,1628962,Turnaround Hook Shot,3,2,POST_MOVES,2022
+Udoka Azubuike,1628962,2PT Floating Jump Shot,3,2,FLOATING_SHOTS,2023
+Udoka Azubuike,1628962,Alley Oop Dunk,11,10,DUNKS,2023
+Udoka Azubuike,1628962,Alley Oop Layup,1,0,LAYUPS,2023
+Udoka Azubuike,1628962,Hook Shot,8,5,POST_MOVES,2023
+Udoka Azubuike,1628962,Putback Dunk,2,2,DUNKS,2023
+Udoka Azubuike,1628962,Putback Layup,3,3,LAYUPS,2023
+Udoka Azubuike,1628962,Reverse Dunk,1,1,DUNKS,2023
+Udoka Azubuike,1628962,Specialty Dunk,8,7,DUNKS,2023
+Udoka Azubuike,1628962,Standard Dunk,23,22,DUNKS,2023
+Udoka Azubuike,1628962,Standard Layup,8,5,LAYUPS,2023
+Udoka Azubuike,1628962,Turnaround Hook Shot,4,2,POST_MOVES,2023
+Udoka Azubuike,1628962,Alley Oop Dunk,2,1,DUNKS,2024
+Udoka Azubuike,1628962,Alley Oop Layup,2,2,LAYUPS,2024
+Udoka Azubuike,1628962,Driving Dunk,1,1,DUNKS,2024
+Udoka Azubuike,1628962,Driving Hook Shot,1,1,POST_MOVES,2024
+Udoka Azubuike,1628962,Hook Shot,2,0,POST_MOVES,2024
+Udoka Azubuike,1628962,Putback Dunk,3,2,DUNKS,2024
+Udoka Azubuike,1628962,Putback Layup,2,1,LAYUPS,2024
+Udoka Azubuike,1628962,Specialty Dunk,2,2,DUNKS,2024
+Udoka Azubuike,1628962,Standard Dunk,4,4,DUNKS,2024
+Udoka Azubuike,1628962,Standard Layup,4,2,LAYUPS,2024

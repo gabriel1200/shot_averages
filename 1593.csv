@@ -1,8 +1,7 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Charles Shackleford,1593,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,1999
-Charles Shackleford,1593,Dunk Shot,2,3,3,Standard Dunk,DUNKS,1999
-Charles Shackleford,1593,Hook Shot,2,28,18,Hook Shot,POST_MOVES,1999
-Charles Shackleford,1593,Jump Shot,2,30,7,2PT Jump Shot,TWO_POINT_JUMPERS,1999
-Charles Shackleford,1593,Layup Shot,2,23,13,Standard Layup,LAYUPS,1999
-Charles Shackleford,1593,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,1999
-Charles Shackleford,1593,Tip Shot,2,4,2,Tip Shot,TIP_SHOTS,1999
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Charles Shackleford,1593,2PT Jump Shot,30,7,TWO_POINT_JUMPERS,1999
+Charles Shackleford,1593,Driving Layup,1,0,LAYUPS,1999
+Charles Shackleford,1593,Hook Shot,28,18,POST_MOVES,1999
+Charles Shackleford,1593,Standard Dunk,4,4,DUNKS,1999
+Charles Shackleford,1593,Standard Layup,23,13,LAYUPS,1999
+Charles Shackleford,1593,Tip Shot,4,2,TIP_SHOTS,1999

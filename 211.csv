@@ -1,7 +1,6 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Eric Mobley,211,Driving Layup Shot,2,3,1,Driving Layup,LAYUPS,1997
-Eric Mobley,211,Dunk Shot,2,8,7,Standard Dunk,DUNKS,1997
-Eric Mobley,211,Jump Shot,2,15,3,2PT Jump Shot,TWO_POINT_JUMPERS,1997
-Eric Mobley,211,Layup Shot,2,24,6,Standard Layup,LAYUPS,1997
-Eric Mobley,211,Slam Dunk Shot,2,8,8,Standard Dunk,DUNKS,1997
-Eric Mobley,211,Tip Shot,2,5,3,Tip Shot,TIP_SHOTS,1997
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Eric Mobley,211,2PT Jump Shot,15,3,TWO_POINT_JUMPERS,1997
+Eric Mobley,211,Driving Layup,3,1,LAYUPS,1997
+Eric Mobley,211,Standard Dunk,16,15,DUNKS,1997
+Eric Mobley,211,Standard Layup,24,6,LAYUPS,1997
+Eric Mobley,211,Tip Shot,5,3,TIP_SHOTS,1997

@@ -1,22 +1,18 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Marques Bolden,1629716,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2021
-Marques Bolden,1629716,Jump Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2021
-Marques Bolden,1629716,Layup Shot,2,1,1,Standard Layup,LAYUPS,2021
-Marques Bolden,1629716,Alley Oop Dunk Shot,2,2,2,Alley Oop Dunk,DUNKS,2024
-Marques Bolden,1629716,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2024
-Marques Bolden,1629716,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2024
-Marques Bolden,1629716,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2024
-Marques Bolden,1629716,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2024
-Marques Bolden,1629716,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2024
-Marques Bolden,1629716,Floating Jump shot,2,4,2,2PT Floating Jump Shot,FLOATING_SHOTS,2024
-Marques Bolden,1629716,Hook Bank Shot,2,1,0,Hook Shot,POST_MOVES,2024
-Marques Bolden,1629716,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2024
-Marques Bolden,1629716,Jump Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2024
-Marques Bolden,1629716,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2024
-Marques Bolden,1629716,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2024
-Marques Bolden,1629716,Putback Layup Shot,2,2,2,Putback Layup,LAYUPS,2024
-Marques Bolden,1629716,Running Alley Oop Layup Shot,2,1,1,Alley Oop Layup,LAYUPS,2024
-Marques Bolden,1629716,Turnaround Bank Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2024
-Marques Bolden,1629716,Turnaround Bank shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
-Marques Bolden,1629716,Turnaround Fadeaway shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
-Marques Bolden,1629716,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Marques Bolden,1629716,2PT Jump Shot,1,0,TWO_POINT_JUMPERS,2021
+Marques Bolden,1629716,Hook Shot,1,0,POST_MOVES,2021
+Marques Bolden,1629716,Standard Layup,1,1,LAYUPS,2021
+Marques Bolden,1629716,2PT Floating Jump Shot,4,2,FLOATING_SHOTS,2024
+Marques Bolden,1629716,2PT Jump Shot,1,1,TWO_POINT_JUMPERS,2024
+Marques Bolden,1629716,2PT Turnaround Jump Shot,3,2,TWO_POINT_JUMPERS,2024
+Marques Bolden,1629716,3PT Jump Shot,1,0,THREE_POINT_JUMPERS,2024
+Marques Bolden,1629716,Alley Oop Dunk,2,2,DUNKS,2024
+Marques Bolden,1629716,Alley Oop Layup,2,1,LAYUPS,2024
+Marques Bolden,1629716,Driving Hook Shot,1,0,POST_MOVES,2024
+Marques Bolden,1629716,Hook Shot,2,1,POST_MOVES,2024
+Marques Bolden,1629716,Putback Dunk,1,1,DUNKS,2024
+Marques Bolden,1629716,Putback Layup,2,2,LAYUPS,2024
+Marques Bolden,1629716,Specialty Dunk,1,1,DUNKS,2024
+Marques Bolden,1629716,Standard Dunk,1,1,DUNKS,2024
+Marques Bolden,1629716,Standard Layup,1,1,LAYUPS,2024
+Marques Bolden,1629716,Turnaround Hook Shot,3,2,POST_MOVES,2024

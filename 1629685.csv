@@ -1,49 +1,38 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Dylan Windler,1629685,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2021
-Dylan Windler,1629685,Cutting Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2021
-Dylan Windler,1629685,Cutting Layup Shot,2,7,4,Standard Layup,LAYUPS,2021
-Dylan Windler,1629685,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2021
-Dylan Windler,1629685,Driving Finger Roll Layup Shot,2,3,2,Finger Roll,LAYUPS,2021
-Dylan Windler,1629685,Driving Floating Bank Jump Shot,2,2,0,2PT Floating Jump Shot,FLOATING_SHOTS,2021
-Dylan Windler,1629685,Driving Floating Jump Shot,2,6,2,2PT Floating Jump Shot,FLOATING_SHOTS,2021
-Dylan Windler,1629685,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2021
-Dylan Windler,1629685,Driving Layup Shot,2,8,5,Driving Layup,LAYUPS,2021
-Dylan Windler,1629685,Driving Reverse Layup Shot,2,3,1,Driving Layup,LAYUPS,2021
-Dylan Windler,1629685,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2021
-Dylan Windler,1629685,Jump Shot,2,75,23,2PT Jump Shot,TWO_POINT_JUMPERS,2021
-Dylan Windler,1629685,Layup Shot,2,3,2,Standard Layup,LAYUPS,2021
-Dylan Windler,1629685,Pullup Jump shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2021
-Dylan Windler,1629685,Putback Layup Shot,2,4,2,Putback Layup,LAYUPS,2021
-Dylan Windler,1629685,Reverse Layup Shot,2,3,2,Reverse Layup,LAYUPS,2021
-Dylan Windler,1629685,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2021
-Dylan Windler,1629685,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2021
-Dylan Windler,1629685,Step Back Jump shot,2,3,2,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2021
-Dylan Windler,1629685,Tip Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2021
-Dylan Windler,1629685,Tip Layup Shot,2,2,1,Putback Layup,LAYUPS,2021
-Dylan Windler,1629685,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2021
-Dylan Windler,1629685,Cutting Layup Shot,2,6,5,Standard Layup,LAYUPS,2022
-Dylan Windler,1629685,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2022
-Dylan Windler,1629685,Driving Floating Bank Jump Shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2022
-Dylan Windler,1629685,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2022
-Dylan Windler,1629685,Driving Layup Shot,2,3,1,Driving Layup,LAYUPS,2022
-Dylan Windler,1629685,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2022
-Dylan Windler,1629685,Jump Shot,2,64,20,2PT Jump Shot,TWO_POINT_JUMPERS,2022
-Dylan Windler,1629685,Jump Shot,3,2,0,3PT Jump Shot,THREE_POINT_JUMPERS,2022
-Dylan Windler,1629685,Layup Shot,2,1,0,Standard Layup,LAYUPS,2022
-Dylan Windler,1629685,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2022
-Dylan Windler,1629685,Putback Layup Shot,2,3,1,Putback Layup,LAYUPS,2022
-Dylan Windler,1629685,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2022
-Dylan Windler,1629685,Running Dunk Shot,2,2,1,Standard Dunk,DUNKS,2022
-Dylan Windler,1629685,Running Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2022
-Dylan Windler,1629685,Running Jump Shot,2,3,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2022
-Dylan Windler,1629685,Running Layup Shot,2,2,1,Standard Layup,LAYUPS,2022
-Dylan Windler,1629685,Step Back Jump shot,2,2,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2022
-Dylan Windler,1629685,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2022
-Dylan Windler,1629685,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2023
-Dylan Windler,1629685,Jump Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2023
-Dylan Windler,1629685,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2023
-Dylan Windler,1629685,Cutting Layup Shot,2,2,2,Standard Layup,LAYUPS,2024
-Dylan Windler,1629685,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2024
-Dylan Windler,1629685,Jump Shot,3,25,11,3PT Jump Shot,THREE_POINT_JUMPERS,2024
-Dylan Windler,1629685,Pullup Jump shot,3,1,1,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
-Dylan Windler,1629685,Step Back Jump shot,3,1,1,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Dylan Windler,1629685,2PT Floating Jump Shot,8,2,FLOATING_SHOTS,2021
+Dylan Windler,1629685,2PT Jump Shot,76,24,TWO_POINT_JUMPERS,2021
+Dylan Windler,1629685,2PT Pullup Jump Shot,1,1,TWO_POINT_JUMPERS,2021
+Dylan Windler,1629685,2PT Running Jump Shot,1,1,TWO_POINT_JUMPERS,2021
+Dylan Windler,1629685,2PT Step Back Jump Shot,3,2,TWO_POINT_JUMPERS,2021
+Dylan Windler,1629685,Alley Oop Layup,1,1,LAYUPS,2021
+Dylan Windler,1629685,Driving Dunk,1,1,DUNKS,2021
+Dylan Windler,1629685,Driving Hook Shot,1,1,POST_MOVES,2021
+Dylan Windler,1629685,Driving Layup,11,6,LAYUPS,2021
+Dylan Windler,1629685,Finger Roll,5,4,LAYUPS,2021
+Dylan Windler,1629685,Putback Layup,6,3,LAYUPS,2021
+Dylan Windler,1629685,Reverse Layup,3,2,LAYUPS,2021
+Dylan Windler,1629685,Specialty Dunk,1,1,DUNKS,2021
+Dylan Windler,1629685,Standard Dunk,1,1,DUNKS,2021
+Dylan Windler,1629685,Standard Layup,10,6,LAYUPS,2021
+Dylan Windler,1629685,Turnaround Hook Shot,1,1,POST_MOVES,2021
+Dylan Windler,1629685,2PT Floating Jump Shot,3,1,FLOATING_SHOTS,2022
+Dylan Windler,1629685,2PT Jump Shot,64,20,TWO_POINT_JUMPERS,2022
+Dylan Windler,1629685,2PT Pullup Jump Shot,1,0,TWO_POINT_JUMPERS,2022
+Dylan Windler,1629685,2PT Running Jump Shot,3,2,TWO_POINT_JUMPERS,2022
+Dylan Windler,1629685,2PT Step Back Jump Shot,2,0,TWO_POINT_JUMPERS,2022
+Dylan Windler,1629685,3PT Jump Shot,2,0,THREE_POINT_JUMPERS,2022
+Dylan Windler,1629685,Driving Dunk,2,2,DUNKS,2022
+Dylan Windler,1629685,Driving Layup,4,2,LAYUPS,2022
+Dylan Windler,1629685,Finger Roll,1,0,LAYUPS,2022
+Dylan Windler,1629685,Putback Layup,4,2,LAYUPS,2022
+Dylan Windler,1629685,Reverse Layup,1,1,LAYUPS,2022
+Dylan Windler,1629685,Standard Dunk,2,1,DUNKS,2022
+Dylan Windler,1629685,Standard Layup,9,6,LAYUPS,2022
+Dylan Windler,1629685,2PT Jump Shot,1,1,TWO_POINT_JUMPERS,2023
+Dylan Windler,1629685,3PT Jump Shot,1,0,THREE_POINT_JUMPERS,2023
+Dylan Windler,1629685,Driving Layup,1,1,LAYUPS,2023
+Dylan Windler,1629685,2PT Floating Jump Shot,1,0,FLOATING_SHOTS,2024
+Dylan Windler,1629685,3PT Jump Shot,25,11,THREE_POINT_JUMPERS,2024
+Dylan Windler,1629685,3PT Pullup Jump Shot,1,1,THREE_POINT_JUMPERS,2024
+Dylan Windler,1629685,3PT Step Back Jump Shot,1,1,THREE_POINT_JUMPERS,2024
+Dylan Windler,1629685,Standard Layup,2,2,LAYUPS,2024

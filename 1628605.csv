@@ -1,12 +1,9 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Dusty Hannahs,1628605,Driving Layup Shot,2,3,2,Driving Layup,LAYUPS,2019
-Dusty Hannahs,1628605,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2019
-Dusty Hannahs,1628605,Jump Shot,2,5,0,2PT Jump Shot,TWO_POINT_JUMPERS,2019
-Dusty Hannahs,1628605,Layup Shot,2,1,0,Standard Layup,LAYUPS,2019
-Dusty Hannahs,1628605,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2019
-Dusty Hannahs,1628605,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2019
-Dusty Hannahs,1628605,Driving Floating Bank Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2020
-Dusty Hannahs,1628605,Driving Floating Jump Shot,2,3,0,2PT Floating Jump Shot,FLOATING_SHOTS,2020
-Dusty Hannahs,1628605,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2020
-Dusty Hannahs,1628605,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2020
-Dusty Hannahs,1628605,Jump Shot,2,3,2,2PT Jump Shot,TWO_POINT_JUMPERS,2020
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Dusty Hannahs,1628605,2PT Floating Jump Shot,1,0,FLOATING_SHOTS,2019
+Dusty Hannahs,1628605,2PT Jump Shot,5,0,TWO_POINT_JUMPERS,2019
+Dusty Hannahs,1628605,2PT Pullup Jump Shot,1,0,TWO_POINT_JUMPERS,2019
+Dusty Hannahs,1628605,Driving Layup,3,2,LAYUPS,2019
+Dusty Hannahs,1628605,Standard Layup,2,1,LAYUPS,2019
+Dusty Hannahs,1628605,2PT Floating Jump Shot,5,1,FLOATING_SHOTS,2020
+Dusty Hannahs,1628605,2PT Jump Shot,3,2,TWO_POINT_JUMPERS,2020
+Dusty Hannahs,1628605,Driving Layup,1,1,LAYUPS,2020

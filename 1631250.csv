@@ -1,9 +1,8 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Pete Nance,1631250,Driving Bank Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2024
-Pete Nance,1631250,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2024
-Pete Nance,1631250,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
-Pete Nance,1631250,Jump Shot,3,1,1,3PT Jump Shot,THREE_POINT_JUMPERS,2024
-Pete Nance,1631250,Turnaround Bank shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
-Pete Nance,1631250,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
-Pete Nance,1631250,Jump Shot,3,3,1,3PT Jump Shot,THREE_POINT_JUMPERS,2025
-Pete Nance,1631250,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Pete Nance,1631250,2PT Fadeaway Jump Shot,1,0,TWO_POINT_JUMPERS,2024
+Pete Nance,1631250,2PT Turnaround Jump Shot,2,0,TWO_POINT_JUMPERS,2024
+Pete Nance,1631250,3PT Jump Shot,1,1,THREE_POINT_JUMPERS,2024
+Pete Nance,1631250,Driving Hook Shot,1,0,POST_MOVES,2024
+Pete Nance,1631250,Driving Layup,1,0,LAYUPS,2024
+Pete Nance,1631250,2PT Pullup Jump Shot,1,0,TWO_POINT_JUMPERS,2025
+Pete Nance,1631250,3PT Jump Shot,3,1,THREE_POINT_JUMPERS,2025

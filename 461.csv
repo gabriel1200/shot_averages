@@ -1,56 +1,53 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Popeye Jones,461,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,1997
-Popeye Jones,461,Driving Layup Shot,2,6,1,Driving Layup,LAYUPS,1997
-Popeye Jones,461,Dunk Shot,2,1,1,Standard Dunk,DUNKS,1997
-Popeye Jones,461,Hook Shot,2,23,15,Hook Shot,POST_MOVES,1997
-Popeye Jones,461,Jump Shot,2,265,115,2PT Jump Shot,TWO_POINT_JUMPERS,1997
-Popeye Jones,461,Layup Shot,2,174,93,Standard Layup,LAYUPS,1997
-Popeye Jones,461,Running Jump Shot,2,3,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
-Popeye Jones,461,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,1997
-Popeye Jones,461,Tip Shot,2,64,29,Tip Shot,TIP_SHOTS,1997
-Popeye Jones,461,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,1998
-Popeye Jones,461,Hook Shot,2,4,2,Hook Shot,POST_MOVES,1998
-Popeye Jones,461,Jump Shot,2,83,28,2PT Jump Shot,TWO_POINT_JUMPERS,1998
-Popeye Jones,461,Layup Shot,2,27,13,Standard Layup,LAYUPS,1998
-Popeye Jones,461,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
-Popeye Jones,461,Tip Shot,2,11,8,Tip Shot,TIP_SHOTS,1998
-Popeye Jones,461,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,1999
-Popeye Jones,461,Hook Shot,2,4,1,Hook Shot,POST_MOVES,1999
-Popeye Jones,461,Jump Shot,2,19,2,2PT Jump Shot,TWO_POINT_JUMPERS,1999
-Popeye Jones,461,Layup Shot,2,24,16,Standard Layup,LAYUPS,1999
-Popeye Jones,461,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999
-Popeye Jones,461,Tip Shot,2,2,0,Tip Shot,TIP_SHOTS,1999
-Popeye Jones,461,Hook Shot,2,14,8,Hook Shot,POST_MOVES,2000
-Popeye Jones,461,Jump Shot,2,60,24,2PT Jump Shot,TWO_POINT_JUMPERS,2000
-Popeye Jones,461,Layup Shot,2,15,8,Standard Layup,LAYUPS,2000
-Popeye Jones,461,Tip Shot,2,15,4,Tip Shot,TIP_SHOTS,2000
-Popeye Jones,461,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2001
-Popeye Jones,461,Hook Shot,2,8,5,Hook Shot,POST_MOVES,2001
-Popeye Jones,461,Jump Shot,2,96,26,2PT Jump Shot,TWO_POINT_JUMPERS,2001
-Popeye Jones,461,Layup Shot,2,40,21,Standard Layup,LAYUPS,2001
-Popeye Jones,461,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2001
-Popeye Jones,461,Tip Shot,2,6,5,Tip Shot,TIP_SHOTS,2001
-Popeye Jones,461,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2001
-Popeye Jones,461,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2002
-Popeye Jones,461,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,2002
-Popeye Jones,461,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2002
-Popeye Jones,461,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2002
-Popeye Jones,461,Hook Shot,2,37,23,Hook Shot,POST_MOVES,2002
-Popeye Jones,461,Jump Hook Shot,2,5,5,Hook Shot,POST_MOVES,2002
-Popeye Jones,461,Jump Shot,2,312,101,2PT Jump Shot,TWO_POINT_JUMPERS,2002
-Popeye Jones,461,Layup Shot,2,96,48,Standard Layup,LAYUPS,2002
-Popeye Jones,461,Reverse Layup Shot,2,3,3,Reverse Layup,LAYUPS,2002
-Popeye Jones,461,Running Hook Shot,2,4,3,Running Hook Shot,POST_MOVES,2002
-Popeye Jones,461,Running Jump Shot,2,6,5,2PT Running Jump Shot,TWO_POINT_JUMPERS,2002
-Popeye Jones,461,Tip Shot,2,29,20,Tip Shot,TIP_SHOTS,2002
-Popeye Jones,461,Turnaround Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2002
-Popeye Jones,461,Turnaround Hook Shot,2,3,2,Turnaround Hook Shot,POST_MOVES,2002
-Popeye Jones,461,Turnaround Jump Shot,2,6,5,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2002
-Popeye Jones,461,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2003
-Popeye Jones,461,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2003
-Popeye Jones,461,Hook Shot,2,5,1,Hook Shot,POST_MOVES,2003
-Popeye Jones,461,Jump Hook Shot,2,5,2,Hook Shot,POST_MOVES,2003
-Popeye Jones,461,Jump Shot,2,30,11,2PT Jump Shot,TWO_POINT_JUMPERS,2003
-Popeye Jones,461,Layup Shot,2,16,7,Standard Layup,LAYUPS,2003
-Popeye Jones,461,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,2003
-Popeye Jones,461,Jump Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2004
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Popeye Jones,461,2PT Jump Shot,265,115,TWO_POINT_JUMPERS,1997
+Popeye Jones,461,2PT Running Jump Shot,3,2,TWO_POINT_JUMPERS,1997
+Popeye Jones,461,Driving Dunk,1,1,DUNKS,1997
+Popeye Jones,461,Driving Layup,6,1,LAYUPS,1997
+Popeye Jones,461,Hook Shot,23,15,POST_MOVES,1997
+Popeye Jones,461,Standard Dunk,2,2,DUNKS,1997
+Popeye Jones,461,Standard Layup,174,93,LAYUPS,1997
+Popeye Jones,461,Tip Shot,64,29,TIP_SHOTS,1997
+Popeye Jones,461,2PT Jump Shot,83,28,TWO_POINT_JUMPERS,1998
+Popeye Jones,461,2PT Running Jump Shot,1,0,TWO_POINT_JUMPERS,1998
+Popeye Jones,461,Driving Dunk,1,1,DUNKS,1998
+Popeye Jones,461,Hook Shot,4,2,POST_MOVES,1998
+Popeye Jones,461,Standard Layup,27,13,LAYUPS,1998
+Popeye Jones,461,Tip Shot,11,8,TIP_SHOTS,1998
+Popeye Jones,461,2PT Jump Shot,19,2,TWO_POINT_JUMPERS,1999
+Popeye Jones,461,2PT Running Jump Shot,1,1,TWO_POINT_JUMPERS,1999
+Popeye Jones,461,Driving Layup,1,0,LAYUPS,1999
+Popeye Jones,461,Hook Shot,4,1,POST_MOVES,1999
+Popeye Jones,461,Standard Layup,24,16,LAYUPS,1999
+Popeye Jones,461,Tip Shot,2,0,TIP_SHOTS,1999
+Popeye Jones,461,2PT Jump Shot,60,24,TWO_POINT_JUMPERS,2000
+Popeye Jones,461,Hook Shot,14,8,POST_MOVES,2000
+Popeye Jones,461,Standard Layup,15,8,LAYUPS,2000
+Popeye Jones,461,Tip Shot,15,4,TIP_SHOTS,2000
+Popeye Jones,461,2PT Jump Shot,96,26,TWO_POINT_JUMPERS,2001
+Popeye Jones,461,2PT Turnaround Jump Shot,1,1,TWO_POINT_JUMPERS,2001
+Popeye Jones,461,Driving Layup,1,1,LAYUPS,2001
+Popeye Jones,461,Hook Shot,8,5,POST_MOVES,2001
+Popeye Jones,461,Reverse Layup,1,1,LAYUPS,2001
+Popeye Jones,461,Standard Layup,40,21,LAYUPS,2001
+Popeye Jones,461,Tip Shot,6,5,TIP_SHOTS,2001
+Popeye Jones,461,2PT Fadeaway Jump Shot,1,1,TWO_POINT_JUMPERS,2002
+Popeye Jones,461,2PT Jump Shot,312,101,TWO_POINT_JUMPERS,2002
+Popeye Jones,461,2PT Running Jump Shot,6,5,TWO_POINT_JUMPERS,2002
+Popeye Jones,461,2PT Turnaround Jump Shot,6,5,TWO_POINT_JUMPERS,2002
+Popeye Jones,461,Driving Hook Shot,1,1,POST_MOVES,2002
+Popeye Jones,461,Driving Layup,2,2,LAYUPS,2002
+Popeye Jones,461,Finger Roll,1,1,LAYUPS,2002
+Popeye Jones,461,Hook Shot,42,28,POST_MOVES,2002
+Popeye Jones,461,Reverse Layup,3,3,LAYUPS,2002
+Popeye Jones,461,Running Hook Shot,4,3,POST_MOVES,2002
+Popeye Jones,461,Standard Dunk,2,2,DUNKS,2002
+Popeye Jones,461,Standard Layup,96,48,LAYUPS,2002
+Popeye Jones,461,Tip Shot,29,20,TIP_SHOTS,2002
+Popeye Jones,461,Turnaround Hook Shot,3,2,POST_MOVES,2002
+Popeye Jones,461,2PT Jump Shot,30,11,TWO_POINT_JUMPERS,2003
+Popeye Jones,461,Alley Oop Layup,1,0,LAYUPS,2003
+Popeye Jones,461,Driving Layup,2,1,LAYUPS,2003
+Popeye Jones,461,Hook Shot,10,3,POST_MOVES,2003
+Popeye Jones,461,Standard Layup,16,7,LAYUPS,2003
+Popeye Jones,461,Tip Shot,3,2,TIP_SHOTS,2003
+Popeye Jones,461,2PT Jump Shot,2,0,TWO_POINT_JUMPERS,2004

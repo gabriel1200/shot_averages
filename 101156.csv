@@ -1,12 +1,10 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Robert Whaley,101156,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2006
-Robert Whaley,101156,Dunk Shot,2,1,0,Standard Dunk,DUNKS,2006
-Robert Whaley,101156,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2006
-Robert Whaley,101156,Jump Hook Shot,2,6,3,Hook Shot,POST_MOVES,2006
-Robert Whaley,101156,Jump Shot,2,17,3,2PT Jump Shot,TWO_POINT_JUMPERS,2006
-Robert Whaley,101156,Layup Shot,2,21,10,Standard Layup,LAYUPS,2006
-Robert Whaley,101156,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2006
-Robert Whaley,101156,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2006
-Robert Whaley,101156,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,2006
-Robert Whaley,101156,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2006
-Robert Whaley,101156,Turnaround Jump Shot,2,4,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2006
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Robert Whaley,101156,2PT Jump Shot,18,4,TWO_POINT_JUMPERS,2006
+Robert Whaley,101156,2PT Turnaround Jump Shot,4,1,TWO_POINT_JUMPERS,2006
+Robert Whaley,101156,Driving Layup,1,1,LAYUPS,2006
+Robert Whaley,101156,Hook Shot,6,3,POST_MOVES,2006
+Robert Whaley,101156,Reverse Layup,1,1,LAYUPS,2006
+Robert Whaley,101156,Standard Dunk,2,1,DUNKS,2006
+Robert Whaley,101156,Standard Layup,21,10,LAYUPS,2006
+Robert Whaley,101156,Tip Shot,3,1,TIP_SHOTS,2006
+Robert Whaley,101156,Turnaround Hook Shot,1,1,POST_MOVES,2006

@@ -1,43 +1,35 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Chris Silva,1629735,Alley Oop Dunk Shot,2,9,9,Alley Oop Dunk,DUNKS,2020
-Chris Silva,1629735,Alley Oop Layup shot,2,2,1,Alley Oop Layup,LAYUPS,2020
-Chris Silva,1629735,Cutting Dunk Shot,2,5,5,Specialty Dunk,DUNKS,2020
-Chris Silva,1629735,Cutting Layup Shot,2,4,2,Standard Layup,LAYUPS,2020
-Chris Silva,1629735,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2020
-Chris Silva,1629735,Driving Floating Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2020
-Chris Silva,1629735,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2020
-Chris Silva,1629735,Driving Layup Shot,2,4,2,Driving Layup,LAYUPS,2020
-Chris Silva,1629735,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2020
-Chris Silva,1629735,Hook Bank Shot,2,1,1,Hook Shot,POST_MOVES,2020
-Chris Silva,1629735,Hook Shot,2,3,1,Hook Shot,POST_MOVES,2020
-Chris Silva,1629735,Jump Bank Shot,2,2,1,2PT Jump Shot,TWO_POINT_JUMPERS,2020
-Chris Silva,1629735,Jump Shot,2,7,2,2PT Jump Shot,TWO_POINT_JUMPERS,2020
-Chris Silva,1629735,Layup Shot,2,17,7,Standard Layup,LAYUPS,2020
-Chris Silva,1629735,Putback Layup Shot,2,7,6,Putback Layup,LAYUPS,2020
-Chris Silva,1629735,Reverse Dunk Shot,2,1,1,Reverse Dunk,DUNKS,2020
-Chris Silva,1629735,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2020
-Chris Silva,1629735,Running Layup Shot,2,2,1,Standard Layup,LAYUPS,2020
-Chris Silva,1629735,Tip Dunk Shot,2,3,1,Specialty Dunk,DUNKS,2020
-Chris Silva,1629735,Tip Layup Shot,2,3,3,Putback Layup,LAYUPS,2020
-Chris Silva,1629735,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,2020
-Chris Silva,1629735,Alley Oop Dunk Shot,2,2,2,Alley Oop Dunk,DUNKS,2021
-Chris Silva,1629735,Cutting Layup Shot,2,1,0,Standard Layup,LAYUPS,2021
-Chris Silva,1629735,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2021
-Chris Silva,1629735,Driving Layup Shot,2,2,0,Driving Layup,LAYUPS,2021
-Chris Silva,1629735,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2021
-Chris Silva,1629735,Jump Shot,2,3,2,2PT Jump Shot,TWO_POINT_JUMPERS,2021
-Chris Silva,1629735,Layup Shot,2,3,2,Standard Layup,LAYUPS,2021
-Chris Silva,1629735,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2021
-Chris Silva,1629735,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2021
-Chris Silva,1629735,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2021
-Chris Silva,1629735,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2022
-Chris Silva,1629735,Cutting Dunk Shot,2,2,2,Specialty Dunk,DUNKS,2022
-Chris Silva,1629735,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2022
-Chris Silva,1629735,Floating Jump shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2022
-Chris Silva,1629735,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2022
-Chris Silva,1629735,Jump Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2022
-Chris Silva,1629735,Layup Shot,2,4,1,Standard Layup,LAYUPS,2022
-Chris Silva,1629735,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2022
-Chris Silva,1629735,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2022
-Chris Silva,1629735,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2022
-Chris Silva,1629735,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2023
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Chris Silva,1629735,2PT Floating Jump Shot,1,1,FLOATING_SHOTS,2020
+Chris Silva,1629735,2PT Jump Shot,9,3,TWO_POINT_JUMPERS,2020
+Chris Silva,1629735,Alley Oop Dunk,9,9,DUNKS,2020
+Chris Silva,1629735,Alley Oop Layup,2,1,LAYUPS,2020
+Chris Silva,1629735,Driving Dunk,2,2,DUNKS,2020
+Chris Silva,1629735,Driving Hook Shot,1,0,POST_MOVES,2020
+Chris Silva,1629735,Driving Layup,4,2,LAYUPS,2020
+Chris Silva,1629735,Hook Shot,4,2,POST_MOVES,2020
+Chris Silva,1629735,Putback Layup,10,9,LAYUPS,2020
+Chris Silva,1629735,Reverse Dunk,1,1,DUNKS,2020
+Chris Silva,1629735,Reverse Layup,1,0,LAYUPS,2020
+Chris Silva,1629735,Specialty Dunk,8,6,DUNKS,2020
+Chris Silva,1629735,Standard Dunk,1,1,DUNKS,2020
+Chris Silva,1629735,Standard Layup,23,10,LAYUPS,2020
+Chris Silva,1629735,Turnaround Hook Shot,2,1,POST_MOVES,2020
+Chris Silva,1629735,2PT Jump Shot,3,2,TWO_POINT_JUMPERS,2021
+Chris Silva,1629735,2PT Pullup Jump Shot,1,0,TWO_POINT_JUMPERS,2021
+Chris Silva,1629735,Alley Oop Dunk,2,2,DUNKS,2021
+Chris Silva,1629735,Driving Dunk,1,1,DUNKS,2021
+Chris Silva,1629735,Driving Layup,2,0,LAYUPS,2021
+Chris Silva,1629735,Hook Shot,1,1,POST_MOVES,2021
+Chris Silva,1629735,Putback Dunk,1,1,DUNKS,2021
+Chris Silva,1629735,Reverse Layup,1,1,LAYUPS,2021
+Chris Silva,1629735,Standard Layup,4,2,LAYUPS,2021
+Chris Silva,1629735,2PT Floating Jump Shot,2,1,FLOATING_SHOTS,2022
+Chris Silva,1629735,2PT Jump Shot,1,0,TWO_POINT_JUMPERS,2022
+Chris Silva,1629735,Alley Oop Layup,1,1,LAYUPS,2022
+Chris Silva,1629735,Driving Layup,1,1,LAYUPS,2022
+Chris Silva,1629735,Hook Shot,1,0,POST_MOVES,2022
+Chris Silva,1629735,Putback Layup,1,1,LAYUPS,2022
+Chris Silva,1629735,Specialty Dunk,2,2,DUNKS,2022
+Chris Silva,1629735,Standard Layup,5,1,LAYUPS,2022
+Chris Silva,1629735,Turnaround Hook Shot,1,1,POST_MOVES,2022
+Chris Silva,1629735,Turnaround Hook Shot,1,1,POST_MOVES,2023

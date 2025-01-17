@@ -1,11 +1,9 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Jamil Wilson,203966,Cutting Layup Shot,2,2,2,Standard Layup,LAYUPS,2018
-Jamil Wilson,203966,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2018
-Jamil Wilson,203966,Driving Layup Shot,2,3,0,Driving Layup,LAYUPS,2018
-Jamil Wilson,203966,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2018
-Jamil Wilson,203966,Jump Shot,2,63,26,2PT Jump Shot,TWO_POINT_JUMPERS,2018
-Jamil Wilson,203966,Layup Shot,2,1,1,Standard Layup,LAYUPS,2018
-Jamil Wilson,203966,Pullup Jump shot,2,7,5,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2018
-Jamil Wilson,203966,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2018
-Jamil Wilson,203966,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2018
-Jamil Wilson,203966,Running Pull-Up Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2018
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Jamil Wilson,203966,2PT Floating Jump Shot,1,0,FLOATING_SHOTS,2018
+Jamil Wilson,203966,2PT Jump Shot,63,26,TWO_POINT_JUMPERS,2018
+Jamil Wilson,203966,2PT Pullup Jump Shot,7,5,TWO_POINT_JUMPERS,2018
+Jamil Wilson,203966,2PT Running Jump Shot,1,1,TWO_POINT_JUMPERS,2018
+Jamil Wilson,203966,Driving Dunk,1,1,DUNKS,2018
+Jamil Wilson,203966,Driving Layup,3,0,LAYUPS,2018
+Jamil Wilson,203966,Standard Dunk,1,1,DUNKS,2018
+Jamil Wilson,203966,Standard Layup,4,4,LAYUPS,2018

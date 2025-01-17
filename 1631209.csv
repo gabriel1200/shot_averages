@@ -1,25 +1,19 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Isaiah Wong,1631209,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2024
-Isaiah Wong,1631209,Pullup Jump shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2024
-Isaiah Wong,1631209,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
-Isaiah Wong,1631209,Driving Bank Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2025
-Isaiah Wong,1631209,Driving Floating Bank Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Isaiah Wong,1631209,Driving Floating Jump Shot,2,2,0,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Isaiah Wong,1631209,Driving Layup Shot,2,10,4,Driving Layup,LAYUPS,2025
-Isaiah Wong,1631209,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2025
-Isaiah Wong,1631209,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
-Isaiah Wong,1631209,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Isaiah Wong,1631209,Jump Bank Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2025
-Isaiah Wong,1631209,Jump Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2025
-Isaiah Wong,1631209,Jump Shot,3,7,2,3PT Jump Shot,THREE_POINT_JUMPERS,2025
-Isaiah Wong,1631209,Layup Shot,2,1,0,Standard Layup,LAYUPS,2025
-Isaiah Wong,1631209,Pullup Jump shot,2,13,4,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
-Isaiah Wong,1631209,Pullup Jump shot,3,5,1,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
-Isaiah Wong,1631209,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2025
-Isaiah Wong,1631209,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2025
-Isaiah Wong,1631209,Running Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2025
-Isaiah Wong,1631209,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
-Isaiah Wong,1631209,Running Layup Shot,2,2,0,Standard Layup,LAYUPS,2025
-Isaiah Wong,1631209,Running Pull-Up Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
-Isaiah Wong,1631209,Step Back Jump shot,3,2,1,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
-Isaiah Wong,1631209,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Isaiah Wong,1631209,2PT Floating Jump Shot,1,0,FLOATING_SHOTS,2024
+Isaiah Wong,1631209,2PT Pullup Jump Shot,1,1,TWO_POINT_JUMPERS,2024
+Isaiah Wong,1631209,3PT Running Jump Shot,1,0,THREE_POINT_JUMPERS,2024
+Isaiah Wong,1631209,2PT Fadeaway Jump Shot,1,1,TWO_POINT_JUMPERS,2025
+Isaiah Wong,1631209,2PT Floating Jump Shot,4,1,FLOATING_SHOTS,2025
+Isaiah Wong,1631209,2PT Jump Shot,1,1,TWO_POINT_JUMPERS,2025
+Isaiah Wong,1631209,2PT Pullup Jump Shot,13,4,TWO_POINT_JUMPERS,2025
+Isaiah Wong,1631209,2PT Turnaround Jump Shot,1,1,TWO_POINT_JUMPERS,2025
+Isaiah Wong,1631209,3PT Jump Shot,8,2,THREE_POINT_JUMPERS,2025
+Isaiah Wong,1631209,3PT Pullup Jump Shot,5,1,THREE_POINT_JUMPERS,2025
+Isaiah Wong,1631209,3PT Running Jump Shot,2,0,THREE_POINT_JUMPERS,2025
+Isaiah Wong,1631209,3PT Step Back Jump Shot,2,1,THREE_POINT_JUMPERS,2025
+Isaiah Wong,1631209,Driving Hook Shot,1,0,POST_MOVES,2025
+Isaiah Wong,1631209,Driving Layup,11,4,LAYUPS,2025
+Isaiah Wong,1631209,Finger Roll,2,2,LAYUPS,2025
+Isaiah Wong,1631209,Putback Layup,1,1,LAYUPS,2025
+Isaiah Wong,1631209,Standard Dunk,1,1,DUNKS,2025
+Isaiah Wong,1631209,Standard Layup,3,0,LAYUPS,2025

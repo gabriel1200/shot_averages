@@ -1,16 +1,13 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Brandon Sampson,1629102,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2019
-Brandon Sampson,1629102,Driving Floating Bank Jump Shot,2,2,2,2PT Floating Jump Shot,FLOATING_SHOTS,2019
-Brandon Sampson,1629102,Driving Floating Jump Shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2019
-Brandon Sampson,1629102,Driving Layup Shot,2,10,4,Driving Layup,LAYUPS,2019
-Brandon Sampson,1629102,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2019
-Brandon Sampson,1629102,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2019
-Brandon Sampson,1629102,Jump Shot,2,28,10,2PT Jump Shot,TWO_POINT_JUMPERS,2019
-Brandon Sampson,1629102,Layup Shot,2,1,0,Standard Layup,LAYUPS,2019
-Brandon Sampson,1629102,Pullup Jump shot,2,4,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2019
-Brandon Sampson,1629102,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2019
-Brandon Sampson,1629102,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2019
-Brandon Sampson,1629102,Running Layup Shot,2,2,2,Standard Layup,LAYUPS,2019
-Brandon Sampson,1629102,Step Back Jump shot,2,1,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2019
-Brandon Sampson,1629102,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2019
-Brandon Sampson,1629102,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2019
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Brandon Sampson,1629102,2PT Fadeaway Jump Shot,1,1,TWO_POINT_JUMPERS,2019
+Brandon Sampson,1629102,2PT Floating Jump Shot,4,3,FLOATING_SHOTS,2019
+Brandon Sampson,1629102,2PT Jump Shot,28,10,TWO_POINT_JUMPERS,2019
+Brandon Sampson,1629102,2PT Pullup Jump Shot,4,1,TWO_POINT_JUMPERS,2019
+Brandon Sampson,1629102,2PT Step Back Jump Shot,1,1,TWO_POINT_JUMPERS,2019
+Brandon Sampson,1629102,2PT Turnaround Jump Shot,2,1,TWO_POINT_JUMPERS,2019
+Brandon Sampson,1629102,Driving Layup,10,4,LAYUPS,2019
+Brandon Sampson,1629102,Finger Roll,1,1,LAYUPS,2019
+Brandon Sampson,1629102,Putback Layup,1,0,LAYUPS,2019
+Brandon Sampson,1629102,Reverse Layup,2,1,LAYUPS,2019
+Brandon Sampson,1629102,Standard Dunk,3,3,DUNKS,2019
+Brandon Sampson,1629102,Standard Layup,3,2,LAYUPS,2019

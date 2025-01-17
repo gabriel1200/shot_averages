@@ -1,16 +1,16 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Robert Archibald,2425,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2003
-Robert Archibald,2425,Dunk Shot,2,1,0,Standard Dunk,DUNKS,2003
-Robert Archibald,2425,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2003
-Robert Archibald,2425,Hook Shot,2,3,0,Hook Shot,POST_MOVES,2003
-Robert Archibald,2425,Jump Shot,2,4,1,2PT Jump Shot,TWO_POINT_JUMPERS,2003
-Robert Archibald,2425,Layup Shot,2,6,4,Standard Layup,LAYUPS,2003
-Robert Archibald,2425,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2003
-Robert Archibald,2425,Turnaround Jump Shot,2,2,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2003
-Robert Archibald,2425,Driving Layup Shot,2,4,2,Driving Layup,LAYUPS,2004
-Robert Archibald,2425,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2004
-Robert Archibald,2425,Hook Shot,2,3,1,Hook Shot,POST_MOVES,2004
-Robert Archibald,2425,Jump Shot,2,9,2,2PT Jump Shot,TWO_POINT_JUMPERS,2004
-Robert Archibald,2425,Layup Shot,2,12,3,Standard Layup,LAYUPS,2004
-Robert Archibald,2425,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2004
-Robert Archibald,2425,Tip Shot,2,3,0,Tip Shot,TIP_SHOTS,2004
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Robert Archibald,2425,2PT Fadeaway Jump Shot,1,0,TWO_POINT_JUMPERS,2003
+Robert Archibald,2425,2PT Jump Shot,4,1,TWO_POINT_JUMPERS,2003
+Robert Archibald,2425,2PT Turnaround Jump Shot,2,0,TWO_POINT_JUMPERS,2003
+Robert Archibald,2425,Driving Layup,2,1,LAYUPS,2003
+Robert Archibald,2425,Hook Shot,3,0,POST_MOVES,2003
+Robert Archibald,2425,Reverse Layup,1,0,LAYUPS,2003
+Robert Archibald,2425,Standard Dunk,1,0,DUNKS,2003
+Robert Archibald,2425,Standard Layup,6,4,LAYUPS,2003
+Robert Archibald,2425,2PT Jump Shot,9,2,TWO_POINT_JUMPERS,2004
+Robert Archibald,2425,Driving Layup,4,2,LAYUPS,2004
+Robert Archibald,2425,Hook Shot,3,1,POST_MOVES,2004
+Robert Archibald,2425,Reverse Layup,1,0,LAYUPS,2004
+Robert Archibald,2425,Standard Dunk,1,1,DUNKS,2004
+Robert Archibald,2425,Standard Layup,12,3,LAYUPS,2004
+Robert Archibald,2425,Tip Shot,3,0,TIP_SHOTS,2004

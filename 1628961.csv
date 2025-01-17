@@ -1,14 +1,13 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Kostas Antetokounmpo,1628961,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2019
-Kostas Antetokounmpo,1628961,Jump Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2019
-Kostas Antetokounmpo,1628961,Layup Shot,2,1,0,Standard Layup,LAYUPS,2019
-Kostas Antetokounmpo,1628961,Cutting Dunk Shot,2,2,2,Specialty Dunk,DUNKS,2020
-Kostas Antetokounmpo,1628961,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2020
-Kostas Antetokounmpo,1628961,Cutting Layup Shot,2,2,1,Standard Layup,LAYUPS,2021
-Kostas Antetokounmpo,1628961,Driving Dunk Shot,2,1,0,Driving Dunk,DUNKS,2021
-Kostas Antetokounmpo,1628961,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2021
-Kostas Antetokounmpo,1628961,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2021
-Kostas Antetokounmpo,1628961,Dunk Shot,2,1,0,Standard Dunk,DUNKS,2021
-Kostas Antetokounmpo,1628961,Floating Jump shot,2,2,0,2PT Floating Jump Shot,FLOATING_SHOTS,2021
-Kostas Antetokounmpo,1628961,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2021
-Kostas Antetokounmpo,1628961,Tip Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2021
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Kostas Antetokounmpo,1628961,2PT Jump Shot,1,0,TWO_POINT_JUMPERS,2019
+Kostas Antetokounmpo,1628961,Driving Hook Shot,1,0,POST_MOVES,2019
+Kostas Antetokounmpo,1628961,Standard Layup,1,0,LAYUPS,2019
+Kostas Antetokounmpo,1628961,Putback Dunk,1,1,DUNKS,2020
+Kostas Antetokounmpo,1628961,Specialty Dunk,2,2,DUNKS,2020
+Kostas Antetokounmpo,1628961,2PT Floating Jump Shot,3,0,FLOATING_SHOTS,2021
+Kostas Antetokounmpo,1628961,Driving Dunk,1,0,DUNKS,2021
+Kostas Antetokounmpo,1628961,Driving Layup,1,0,LAYUPS,2021
+Kostas Antetokounmpo,1628961,Putback Dunk,1,1,DUNKS,2021
+Kostas Antetokounmpo,1628961,Specialty Dunk,1,1,DUNKS,2021
+Kostas Antetokounmpo,1628961,Standard Dunk,1,0,DUNKS,2021
+Kostas Antetokounmpo,1628961,Standard Layup,2,1,LAYUPS,2021

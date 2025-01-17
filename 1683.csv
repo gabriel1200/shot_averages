@@ -1,11 +1,11 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Larry Robinson,1683,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,1998
-Larry Robinson,1683,Jump Shot,2,14,4,2PT Jump Shot,TWO_POINT_JUMPERS,1998
-Larry Robinson,1683,Jump Shot,3,2,1,3PT Jump Shot,THREE_POINT_JUMPERS,1998
-Larry Robinson,1683,Layup Shot,2,1,1,Standard Layup,LAYUPS,1998
-Larry Robinson,1683,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
-Larry Robinson,1683,Jump Shot,2,142,48,2PT Jump Shot,TWO_POINT_JUMPERS,2001
-Larry Robinson,1683,Jump Shot,3,37,17,3PT Jump Shot,THREE_POINT_JUMPERS,2001
-Larry Robinson,1683,Layup Shot,2,5,2,Standard Layup,LAYUPS,2001
-Larry Robinson,1683,Jump Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2002
-Larry Robinson,1683,Jump Shot,3,2,1,3PT Jump Shot,THREE_POINT_JUMPERS,2002
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Larry Robinson,1683,2PT Jump Shot,14,4,TWO_POINT_JUMPERS,1998
+Larry Robinson,1683,2PT Running Jump Shot,1,0,TWO_POINT_JUMPERS,1998
+Larry Robinson,1683,3PT Jump Shot,2,1,THREE_POINT_JUMPERS,1998
+Larry Robinson,1683,Driving Layup,1,0,LAYUPS,1998
+Larry Robinson,1683,Standard Layup,1,1,LAYUPS,1998
+Larry Robinson,1683,2PT Jump Shot,142,48,TWO_POINT_JUMPERS,2001
+Larry Robinson,1683,3PT Jump Shot,37,17,THREE_POINT_JUMPERS,2001
+Larry Robinson,1683,Standard Layup,5,2,LAYUPS,2001
+Larry Robinson,1683,2PT Jump Shot,2,0,TWO_POINT_JUMPERS,2002
+Larry Robinson,1683,3PT Jump Shot,2,1,THREE_POINT_JUMPERS,2002

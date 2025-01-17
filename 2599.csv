@@ -1,28 +1,21 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Brandon Hunter,2599,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2004
-Brandon Hunter,2599,Driving Layup Shot,2,3,3,Driving Layup,LAYUPS,2004
-Brandon Hunter,2599,Dunk Shot,2,10,8,Standard Dunk,DUNKS,2004
-Brandon Hunter,2599,Hook Shot,2,9,3,Hook Shot,POST_MOVES,2004
-Brandon Hunter,2599,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2004
-Brandon Hunter,2599,Jump Hook Shot,2,2,1,Hook Shot,POST_MOVES,2004
-Brandon Hunter,2599,Jump Shot,2,25,3,2PT Jump Shot,TWO_POINT_JUMPERS,2004
-Brandon Hunter,2599,Layup Shot,2,54,23,Standard Layup,LAYUPS,2004
-Brandon Hunter,2599,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2004
-Brandon Hunter,2599,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2004
-Brandon Hunter,2599,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,2004
-Brandon Hunter,2599,Slam Dunk Shot,2,5,5,Standard Dunk,DUNKS,2004
-Brandon Hunter,2599,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2004
-Brandon Hunter,2599,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2004
-Brandon Hunter,2599,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2004
-Brandon Hunter,2599,Driving Layup Shot,2,3,3,Driving Layup,LAYUPS,2005
-Brandon Hunter,2599,Dunk Shot,2,8,7,Standard Dunk,DUNKS,2005
-Brandon Hunter,2599,Hook Shot,2,12,6,Hook Shot,POST_MOVES,2005
-Brandon Hunter,2599,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2005
-Brandon Hunter,2599,Jump Hook Shot,2,2,2,Hook Shot,POST_MOVES,2005
-Brandon Hunter,2599,Jump Shot,2,16,2,2PT Jump Shot,TWO_POINT_JUMPERS,2005
-Brandon Hunter,2599,Layup Shot,2,22,10,Standard Layup,LAYUPS,2005
-Brandon Hunter,2599,Reverse Layup Shot,2,3,2,Reverse Layup,LAYUPS,2005
-Brandon Hunter,2599,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2005
-Brandon Hunter,2599,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,2005
-Brandon Hunter,2599,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2005
-Brandon Hunter,2599,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2005
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Brandon Hunter,2599,2PT Jump Shot,26,4,TWO_POINT_JUMPERS,2004
+Brandon Hunter,2599,2PT Turnaround Jump Shot,1,1,TWO_POINT_JUMPERS,2004
+Brandon Hunter,2599,Driving Dunk,1,1,DUNKS,2004
+Brandon Hunter,2599,Driving Layup,3,3,LAYUPS,2004
+Brandon Hunter,2599,Hook Shot,11,4,POST_MOVES,2004
+Brandon Hunter,2599,Reverse Layup,1,1,LAYUPS,2004
+Brandon Hunter,2599,Running Hook Shot,1,1,POST_MOVES,2004
+Brandon Hunter,2599,Standard Dunk,16,14,DUNKS,2004
+Brandon Hunter,2599,Standard Layup,54,23,LAYUPS,2004
+Brandon Hunter,2599,Tip Shot,1,1,TIP_SHOTS,2004
+Brandon Hunter,2599,Turnaround Hook Shot,1,0,POST_MOVES,2004
+Brandon Hunter,2599,2PT Jump Shot,17,3,TWO_POINT_JUMPERS,2005
+Brandon Hunter,2599,2PT Running Jump Shot,1,0,TWO_POINT_JUMPERS,2005
+Brandon Hunter,2599,2PT Turnaround Jump Shot,2,1,TWO_POINT_JUMPERS,2005
+Brandon Hunter,2599,Driving Layup,3,3,LAYUPS,2005
+Brandon Hunter,2599,Hook Shot,14,8,POST_MOVES,2005
+Brandon Hunter,2599,Reverse Layup,3,2,LAYUPS,2005
+Brandon Hunter,2599,Standard Dunk,10,9,DUNKS,2005
+Brandon Hunter,2599,Standard Layup,22,10,LAYUPS,2005
+Brandon Hunter,2599,Tip Shot,1,1,TIP_SHOTS,2005

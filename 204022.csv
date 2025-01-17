@@ -1,15 +1,13 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Jack Cooley,204022,Hook Shot,2,2,0,Hook Shot,POST_MOVES,2015
-Jack Cooley,204022,Jump Shot,2,7,1,2PT Jump Shot,TWO_POINT_JUMPERS,2015
-Jack Cooley,204022,Layup Shot,2,11,7,Standard Layup,LAYUPS,2015
-Jack Cooley,204022,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,2015
-Jack Cooley,204022,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2018
-Jack Cooley,204022,Cutting Layup Shot,2,3,2,Standard Layup,LAYUPS,2018
-Jack Cooley,204022,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2018
-Jack Cooley,204022,Floating Jump shot,2,3,1,2PT Floating Jump Shot,FLOATING_SHOTS,2018
-Jack Cooley,204022,Hook Shot,2,4,3,Hook Shot,POST_MOVES,2018
-Jack Cooley,204022,Jump Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2018
-Jack Cooley,204022,Layup Shot,2,8,4,Standard Layup,LAYUPS,2018
-Jack Cooley,204022,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2018
-Jack Cooley,204022,Tip Layup Shot,2,3,1,Putback Layup,LAYUPS,2018
-Jack Cooley,204022,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2018
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Jack Cooley,204022,2PT Jump Shot,7,1,TWO_POINT_JUMPERS,2015
+Jack Cooley,204022,Hook Shot,2,0,POST_MOVES,2015
+Jack Cooley,204022,Standard Layup,11,7,LAYUPS,2015
+Jack Cooley,204022,Tip Shot,2,1,TIP_SHOTS,2015
+Jack Cooley,204022,2PT Fadeaway Jump Shot,1,0,TWO_POINT_JUMPERS,2018
+Jack Cooley,204022,2PT Floating Jump Shot,3,1,FLOATING_SHOTS,2018
+Jack Cooley,204022,2PT Jump Shot,2,0,TWO_POINT_JUMPERS,2018
+Jack Cooley,204022,Alley Oop Layup,1,0,LAYUPS,2018
+Jack Cooley,204022,Hook Shot,4,3,POST_MOVES,2018
+Jack Cooley,204022,Putback Layup,4,2,LAYUPS,2018
+Jack Cooley,204022,Standard Layup,11,6,LAYUPS,2018
+Jack Cooley,204022,Turnaround Hook Shot,1,1,POST_MOVES,2018

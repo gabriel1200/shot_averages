@@ -1,18 +1,17 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Antonius Cleveland,1628499,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2018
-Antonius Cleveland,1628499,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2018
-Antonius Cleveland,1628499,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2018
-Antonius Cleveland,1628499,Jump Shot,2,10,4,2PT Jump Shot,TWO_POINT_JUMPERS,2018
-Antonius Cleveland,1628499,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2018
-Antonius Cleveland,1628499,Pullup Jump shot,2,2,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2018
-Antonius Cleveland,1628499,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2018
-Antonius Cleveland,1628499,Running Layup Shot,2,2,0,Standard Layup,LAYUPS,2018
-Antonius Cleveland,1628499,Running Pull-Up Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2018
-Antonius Cleveland,1628499,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2018
-Antonius Cleveland,1628499,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2020
-Antonius Cleveland,1628499,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2020
-Antonius Cleveland,1628499,Driving Layup Shot,2,3,1,Driving Layup,LAYUPS,2020
-Antonius Cleveland,1628499,Fadeaway Jump Shot,2,3,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2020
-Antonius Cleveland,1628499,Jump Shot,2,3,0,2PT Jump Shot,TWO_POINT_JUMPERS,2020
-Antonius Cleveland,1628499,Running Layup Shot,2,2,1,Standard Layup,LAYUPS,2020
-Antonius Cleveland,1628499,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2020
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Antonius Cleveland,1628499,2PT Floating Jump Shot,1,0,FLOATING_SHOTS,2018
+Antonius Cleveland,1628499,2PT Jump Shot,10,4,TWO_POINT_JUMPERS,2018
+Antonius Cleveland,1628499,2PT Pullup Jump Shot,2,0,TWO_POINT_JUMPERS,2018
+Antonius Cleveland,1628499,2PT Running Jump Shot,1,1,TWO_POINT_JUMPERS,2018
+Antonius Cleveland,1628499,2PT Turnaround Jump Shot,1,1,TWO_POINT_JUMPERS,2018
+Antonius Cleveland,1628499,3PT Jump Shot,1,0,THREE_POINT_JUMPERS,2018
+Antonius Cleveland,1628499,Alley Oop Dunk,1,1,DUNKS,2018
+Antonius Cleveland,1628499,Alley Oop Layup,1,0,LAYUPS,2018
+Antonius Cleveland,1628499,Putback Dunk,1,1,DUNKS,2018
+Antonius Cleveland,1628499,Standard Layup,2,0,LAYUPS,2018
+Antonius Cleveland,1628499,2PT Fadeaway Jump Shot,3,1,TWO_POINT_JUMPERS,2020
+Antonius Cleveland,1628499,2PT Floating Jump Shot,1,0,FLOATING_SHOTS,2020
+Antonius Cleveland,1628499,2PT Jump Shot,3,0,TWO_POINT_JUMPERS,2020
+Antonius Cleveland,1628499,Driving Layup,3,1,LAYUPS,2020
+Antonius Cleveland,1628499,Putback Layup,1,0,LAYUPS,2020
+Antonius Cleveland,1628499,Standard Layup,3,2,LAYUPS,2020

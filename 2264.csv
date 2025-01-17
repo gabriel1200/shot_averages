@@ -1,6 +1,6 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Alvin Jones,2264,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2002
-Alvin Jones,2264,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2002
-Alvin Jones,2264,Jump Shot,2,8,2,2PT Jump Shot,TWO_POINT_JUMPERS,2002
-Alvin Jones,2264,Layup Shot,2,8,3,Standard Layup,LAYUPS,2002
-Alvin Jones,2264,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2002
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Alvin Jones,2264,2PT Jump Shot,8,2,TWO_POINT_JUMPERS,2002
+Alvin Jones,2264,Alley Oop Dunk,1,1,DUNKS,2002
+Alvin Jones,2264,Standard Dunk,2,2,DUNKS,2002
+Alvin Jones,2264,Standard Layup,8,3,LAYUPS,2002
+Alvin Jones,2264,Tip Shot,1,0,TIP_SHOTS,2002

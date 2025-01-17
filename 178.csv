@@ -1,51 +1,45 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Olden Polynice,178,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,1997
-Olden Polynice,178,Driving Layup Shot,2,16,12,Driving Layup,LAYUPS,1997
-Olden Polynice,178,Dunk Shot,2,30,27,Standard Dunk,DUNKS,1997
-Olden Polynice,178,Hook Shot,2,254,137,Hook Shot,POST_MOVES,1997
-Olden Polynice,178,Jump Shot,2,333,103,2PT Jump Shot,TWO_POINT_JUMPERS,1997
-Olden Polynice,178,Jump Shot,3,4,0,3PT Jump Shot,THREE_POINT_JUMPERS,1997
-Olden Polynice,178,Layup Shot,2,248,124,Standard Layup,LAYUPS,1997
-Olden Polynice,178,Running Jump Shot,2,10,6,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
-Olden Polynice,178,Slam Dunk Shot,2,16,14,Standard Dunk,DUNKS,1997
-Olden Polynice,178,Tip Shot,2,54,17,Tip Shot,TIP_SHOTS,1997
-Olden Polynice,178,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,1998
-Olden Polynice,178,Driving Layup Shot,2,10,9,Driving Layup,LAYUPS,1998
-Olden Polynice,178,Dunk Shot,2,12,11,Standard Dunk,DUNKS,1998
-Olden Polynice,178,Hook Shot,2,108,58,Hook Shot,POST_MOVES,1998
-Olden Polynice,178,Jump Shot,2,244,85,2PT Jump Shot,TWO_POINT_JUMPERS,1998
-Olden Polynice,178,Layup Shot,2,108,57,Standard Layup,LAYUPS,1998
-Olden Polynice,178,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
-Olden Polynice,178,Slam Dunk Shot,2,5,5,Standard Dunk,DUNKS,1998
-Olden Polynice,178,Tip Shot,2,53,22,Tip Shot,TIP_SHOTS,1998
-Olden Polynice,178,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,1999
-Olden Polynice,178,Dunk Shot,2,6,6,Standard Dunk,DUNKS,1999
-Olden Polynice,178,Hook Shot,2,69,37,Hook Shot,POST_MOVES,1999
-Olden Polynice,178,Jump Shot,2,155,48,2PT Jump Shot,TWO_POINT_JUMPERS,1999
-Olden Polynice,178,Layup Shot,2,84,52,Standard Layup,LAYUPS,1999
-Olden Polynice,178,Running Jump Shot,3,1,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,1999
-Olden Polynice,178,Slam Dunk Shot,2,8,8,Standard Dunk,DUNKS,1999
-Olden Polynice,178,Tip Shot,2,33,15,Tip Shot,TIP_SHOTS,1999
-Olden Polynice,178,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2000
-Olden Polynice,178,Driving Layup Shot,2,3,2,Driving Layup,LAYUPS,2000
-Olden Polynice,178,Dunk Shot,2,28,27,Standard Dunk,DUNKS,2000
-Olden Polynice,178,Hook Shot,2,87,43,Hook Shot,POST_MOVES,2000
-Olden Polynice,178,Jump Shot,2,127,37,2PT Jump Shot,TWO_POINT_JUMPERS,2000
-Olden Polynice,178,Jump Shot,3,2,1,3PT Jump Shot,THREE_POINT_JUMPERS,2000
-Olden Polynice,178,Layup Shot,2,103,69,Standard Layup,LAYUPS,2000
-Olden Polynice,178,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2000
-Olden Polynice,178,Slam Dunk Shot,2,9,9,Standard Dunk,DUNKS,2000
-Olden Polynice,178,Tip Shot,2,37,13,Tip Shot,TIP_SHOTS,2000
-Olden Polynice,178,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2001
-Olden Polynice,178,Driving Layup Shot,2,3,2,Driving Layup,LAYUPS,2001
-Olden Polynice,178,Dunk Shot,2,9,7,Standard Dunk,DUNKS,2001
-Olden Polynice,178,Hook Shot,2,79,36,Hook Shot,POST_MOVES,2001
-Olden Polynice,178,Jump Shot,2,140,50,2PT Jump Shot,TWO_POINT_JUMPERS,2001
-Olden Polynice,178,Layup Shot,2,114,72,Standard Layup,LAYUPS,2001
-Olden Polynice,178,Reverse Layup Shot,2,5,4,Reverse Layup,LAYUPS,2001
-Olden Polynice,178,Running Jump Shot,2,4,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
-Olden Polynice,178,Running Layup Shot,2,2,2,Standard Layup,LAYUPS,2001
-Olden Polynice,178,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,2001
-Olden Polynice,178,Tip Shot,2,41,17,Tip Shot,TIP_SHOTS,2001
-Olden Polynice,178,Turnaround Hook Shot,2,14,11,Turnaround Hook Shot,POST_MOVES,2001
-Olden Polynice,178,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Olden Polynice,178,2PT Jump Shot,333,103,TWO_POINT_JUMPERS,1997
+Olden Polynice,178,2PT Running Jump Shot,10,6,TWO_POINT_JUMPERS,1997
+Olden Polynice,178,3PT Jump Shot,4,0,THREE_POINT_JUMPERS,1997
+Olden Polynice,178,Driving Dunk,2,2,DUNKS,1997
+Olden Polynice,178,Driving Layup,16,12,LAYUPS,1997
+Olden Polynice,178,Hook Shot,254,137,POST_MOVES,1997
+Olden Polynice,178,Standard Dunk,46,41,DUNKS,1997
+Olden Polynice,178,Standard Layup,248,124,LAYUPS,1997
+Olden Polynice,178,Tip Shot,54,17,TIP_SHOTS,1997
+Olden Polynice,178,2PT Jump Shot,244,85,TWO_POINT_JUMPERS,1998
+Olden Polynice,178,2PT Running Jump Shot,1,1,TWO_POINT_JUMPERS,1998
+Olden Polynice,178,Driving Dunk,1,1,DUNKS,1998
+Olden Polynice,178,Driving Layup,10,9,LAYUPS,1998
+Olden Polynice,178,Hook Shot,108,58,POST_MOVES,1998
+Olden Polynice,178,Standard Dunk,17,16,DUNKS,1998
+Olden Polynice,178,Standard Layup,108,57,LAYUPS,1998
+Olden Polynice,178,Tip Shot,53,22,TIP_SHOTS,1998
+Olden Polynice,178,2PT Jump Shot,155,48,TWO_POINT_JUMPERS,1999
+Olden Polynice,178,3PT Running Jump Shot,1,1,THREE_POINT_JUMPERS,1999
+Olden Polynice,178,Driving Layup,2,2,LAYUPS,1999
+Olden Polynice,178,Hook Shot,69,37,POST_MOVES,1999
+Olden Polynice,178,Standard Dunk,14,14,DUNKS,1999
+Olden Polynice,178,Standard Layup,84,52,LAYUPS,1999
+Olden Polynice,178,Tip Shot,33,15,TIP_SHOTS,1999
+Olden Polynice,178,2PT Jump Shot,127,37,TWO_POINT_JUMPERS,2000
+Olden Polynice,178,2PT Running Jump Shot,1,1,TWO_POINT_JUMPERS,2000
+Olden Polynice,178,3PT Jump Shot,2,1,THREE_POINT_JUMPERS,2000
+Olden Polynice,178,Driving Dunk,1,1,DUNKS,2000
+Olden Polynice,178,Driving Layup,3,2,LAYUPS,2000
+Olden Polynice,178,Hook Shot,87,43,POST_MOVES,2000
+Olden Polynice,178,Standard Dunk,37,36,DUNKS,2000
+Olden Polynice,178,Standard Layup,103,69,LAYUPS,2000
+Olden Polynice,178,Tip Shot,37,13,TIP_SHOTS,2000
+Olden Polynice,178,2PT Jump Shot,140,50,TWO_POINT_JUMPERS,2001
+Olden Polynice,178,2PT Running Jump Shot,4,2,TWO_POINT_JUMPERS,2001
+Olden Polynice,178,2PT Turnaround Jump Shot,1,0,TWO_POINT_JUMPERS,2001
+Olden Polynice,178,Alley Oop Layup,1,1,LAYUPS,2001
+Olden Polynice,178,Driving Layup,3,2,LAYUPS,2001
+Olden Polynice,178,Hook Shot,79,36,POST_MOVES,2001
+Olden Polynice,178,Reverse Layup,5,4,LAYUPS,2001
+Olden Polynice,178,Standard Dunk,11,9,DUNKS,2001
+Olden Polynice,178,Standard Layup,116,74,LAYUPS,2001
+Olden Polynice,178,Tip Shot,41,17,TIP_SHOTS,2001
+Olden Polynice,178,Turnaround Hook Shot,14,11,POST_MOVES,2001

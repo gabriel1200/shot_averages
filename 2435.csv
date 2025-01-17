@@ -1,25 +1,20 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Mario Kasun,2435,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2005
-Mario Kasun,2435,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2005
-Mario Kasun,2435,Dunk Shot,2,8,7,Standard Dunk,DUNKS,2005
-Mario Kasun,2435,Follow Up Dunk Shot,2,2,2,Specialty Dunk,DUNKS,2005
-Mario Kasun,2435,Hook Shot,2,5,3,Hook Shot,POST_MOVES,2005
-Mario Kasun,2435,Jump Hook Shot,2,5,0,Hook Shot,POST_MOVES,2005
-Mario Kasun,2435,Jump Shot,2,12,2,2PT Jump Shot,TWO_POINT_JUMPERS,2005
-Mario Kasun,2435,Layup Shot,2,44,22,Standard Layup,LAYUPS,2005
-Mario Kasun,2435,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2005
-Mario Kasun,2435,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,2005
-Mario Kasun,2435,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,2005
-Mario Kasun,2435,Tip Shot,2,12,3,Tip Shot,TIP_SHOTS,2005
-Mario Kasun,2435,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2005
-Mario Kasun,2435,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2005
-Mario Kasun,2435,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2006
-Mario Kasun,2435,Dunk Shot,2,6,6,Standard Dunk,DUNKS,2006
-Mario Kasun,2435,Finger Roll Shot,2,1,0,Finger Roll,LAYUPS,2006
-Mario Kasun,2435,Hook Shot,2,7,2,Hook Shot,POST_MOVES,2006
-Mario Kasun,2435,Jump Bank Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2006
-Mario Kasun,2435,Jump Hook Shot,2,3,0,Hook Shot,POST_MOVES,2006
-Mario Kasun,2435,Jump Shot,2,10,2,2PT Jump Shot,TWO_POINT_JUMPERS,2006
-Mario Kasun,2435,Layup Shot,2,27,13,Standard Layup,LAYUPS,2006
-Mario Kasun,2435,Slam Dunk Shot,2,5,5,Standard Dunk,DUNKS,2006
-Mario Kasun,2435,Tip Shot,2,7,3,Tip Shot,TIP_SHOTS,2006
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Mario Kasun,2435,2PT Jump Shot,12,2,TWO_POINT_JUMPERS,2005
+Mario Kasun,2435,2PT Turnaround Jump Shot,2,1,TWO_POINT_JUMPERS,2005
+Mario Kasun,2435,Driving Dunk,1,1,DUNKS,2005
+Mario Kasun,2435,Driving Layup,1,1,LAYUPS,2005
+Mario Kasun,2435,Hook Shot,10,3,POST_MOVES,2005
+Mario Kasun,2435,Reverse Layup,2,1,LAYUPS,2005
+Mario Kasun,2435,Running Hook Shot,1,1,POST_MOVES,2005
+Mario Kasun,2435,Specialty Dunk,2,2,DUNKS,2005
+Mario Kasun,2435,Standard Dunk,10,9,DUNKS,2005
+Mario Kasun,2435,Standard Layup,44,22,LAYUPS,2005
+Mario Kasun,2435,Tip Shot,12,3,TIP_SHOTS,2005
+Mario Kasun,2435,Turnaround Hook Shot,1,1,POST_MOVES,2005
+Mario Kasun,2435,2PT Jump Shot,12,2,TWO_POINT_JUMPERS,2006
+Mario Kasun,2435,Driving Layup,1,0,LAYUPS,2006
+Mario Kasun,2435,Finger Roll,1,0,LAYUPS,2006
+Mario Kasun,2435,Hook Shot,10,2,POST_MOVES,2006
+Mario Kasun,2435,Standard Dunk,11,11,DUNKS,2006
+Mario Kasun,2435,Standard Layup,27,13,LAYUPS,2006
+Mario Kasun,2435,Tip Shot,7,3,TIP_SHOTS,2006

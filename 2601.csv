@@ -1,8 +1,7 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Andreas Glyniadakis,2601,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2007
-Andreas Glyniadakis,2601,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2007
-Andreas Glyniadakis,2601,Hook Shot,2,4,2,Hook Shot,POST_MOVES,2007
-Andreas Glyniadakis,2601,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2007
-Andreas Glyniadakis,2601,Jump Shot,2,7,2,2PT Jump Shot,TWO_POINT_JUMPERS,2007
-Andreas Glyniadakis,2601,Layup Shot,2,2,0,Standard Layup,LAYUPS,2007
-Andreas Glyniadakis,2601,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2007
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Andreas Glyniadakis,2601,2PT Jump Shot,8,3,TWO_POINT_JUMPERS,2007
+Andreas Glyniadakis,2601,2PT Turnaround Jump Shot,1,1,TWO_POINT_JUMPERS,2007
+Andreas Glyniadakis,2601,Alley Oop Layup,1,1,LAYUPS,2007
+Andreas Glyniadakis,2601,Driving Layup,1,1,LAYUPS,2007
+Andreas Glyniadakis,2601,Hook Shot,4,2,POST_MOVES,2007
+Andreas Glyniadakis,2601,Standard Layup,2,0,LAYUPS,2007

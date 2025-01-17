@@ -1,13 +1,12 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Carlik Jones,1630637,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2022
-Carlik Jones,1630637,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2022
-Carlik Jones,1630637,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2022
-Carlik Jones,1630637,Jump Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2022
-Carlik Jones,1630637,Layup Shot,2,1,0,Standard Layup,LAYUPS,2022
-Carlik Jones,1630637,Pullup Jump shot,2,3,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2022
-Carlik Jones,1630637,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2022
-Carlik Jones,1630637,Driving Floating Jump Shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2023
-Carlik Jones,1630637,Driving Layup Shot,2,3,1,Driving Layup,LAYUPS,2023
-Carlik Jones,1630637,Jump Shot,2,5,3,2PT Jump Shot,TWO_POINT_JUMPERS,2023
-Carlik Jones,1630637,Pullup Jump shot,2,4,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2023
-Carlik Jones,1630637,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2023
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Carlik Jones,1630637,2PT Floating Jump Shot,1,0,FLOATING_SHOTS,2022
+Carlik Jones,1630637,2PT Jump Shot,2,0,TWO_POINT_JUMPERS,2022
+Carlik Jones,1630637,2PT Pullup Jump Shot,3,0,TWO_POINT_JUMPERS,2022
+Carlik Jones,1630637,Driving Layup,1,1,LAYUPS,2022
+Carlik Jones,1630637,Putback Layup,1,0,LAYUPS,2022
+Carlik Jones,1630637,Standard Layup,1,0,LAYUPS,2022
+Carlik Jones,1630637,2PT Floating Jump Shot,2,1,FLOATING_SHOTS,2023
+Carlik Jones,1630637,2PT Jump Shot,5,3,TWO_POINT_JUMPERS,2023
+Carlik Jones,1630637,2PT Pullup Jump Shot,4,0,TWO_POINT_JUMPERS,2023
+Carlik Jones,1630637,2PT Running Jump Shot,1,1,TWO_POINT_JUMPERS,2023
+Carlik Jones,1630637,Driving Layup,3,1,LAYUPS,2023

@@ -1,40 +1,37 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Louis King,1629663,Driving Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2020
-Louis King,1629663,Driving Floating Bank Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2020
-Louis King,1629663,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2020
-Louis King,1629663,Jump Shot,2,12,4,2PT Jump Shot,TWO_POINT_JUMPERS,2020
-Louis King,1629663,Layup Shot,2,1,1,Standard Layup,LAYUPS,2020
-Louis King,1629663,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2020
-Louis King,1629663,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2020
-Louis King,1629663,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2020
-Louis King,1629663,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2020
-Louis King,1629663,Cutting Layup Shot,2,2,2,Standard Layup,LAYUPS,2021
-Louis King,1629663,Driving Floating Bank Jump Shot,2,2,0,2PT Floating Jump Shot,FLOATING_SHOTS,2021
-Louis King,1629663,Driving Floating Jump Shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2021
-Louis King,1629663,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,2021
-Louis King,1629663,Floating Jump shot,2,5,2,2PT Floating Jump Shot,FLOATING_SHOTS,2021
-Louis King,1629663,Jump Shot,2,11,5,2PT Jump Shot,TWO_POINT_JUMPERS,2021
-Louis King,1629663,Pullup Jump shot,2,4,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2021
-Louis King,1629663,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2021
-Louis King,1629663,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2021
-Louis King,1629663,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2021
-Louis King,1629663,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2021
-Louis King,1629663,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2021
-Louis King,1629663,Driving Floating Jump Shot,2,2,0,2PT Floating Jump Shot,FLOATING_SHOTS,2022
-Louis King,1629663,Driving Layup Shot,2,3,2,Driving Layup,LAYUPS,2022
-Louis King,1629663,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2022
-Louis King,1629663,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2022
-Louis King,1629663,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2022
-Louis King,1629663,Jump Bank Shot,3,1,1,3PT Jump Shot,THREE_POINT_JUMPERS,2022
-Louis King,1629663,Jump Shot,2,24,5,2PT Jump Shot,TWO_POINT_JUMPERS,2022
-Louis King,1629663,Layup Shot,2,1,0,Standard Layup,LAYUPS,2022
-Louis King,1629663,Pullup Jump shot,2,11,6,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2022
-Louis King,1629663,Pullup Jump shot,3,1,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2022
-Louis King,1629663,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2022
-Louis King,1629663,Driving Floating Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2023
-Louis King,1629663,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2023
-Louis King,1629663,Jump Shot,2,4,2,2PT Jump Shot,TWO_POINT_JUMPERS,2023
-Louis King,1629663,Pullup Jump shot,2,4,3,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2023
-Louis King,1629663,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2023
-Louis King,1629663,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2023
-Louis King,1629663,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2023
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Louis King,1629663,2PT Floating Jump Shot,1,1,FLOATING_SHOTS,2020
+Louis King,1629663,2PT Jump Shot,12,4,TWO_POINT_JUMPERS,2020
+Louis King,1629663,2PT Pullup Jump Shot,1,0,TWO_POINT_JUMPERS,2020
+Louis King,1629663,2PT Turnaround Jump Shot,1,0,TWO_POINT_JUMPERS,2020
+Louis King,1629663,Driving Layup,2,1,LAYUPS,2020
+Louis King,1629663,Finger Roll,1,0,LAYUPS,2020
+Louis King,1629663,Putback Dunk,1,1,DUNKS,2020
+Louis King,1629663,Reverse Layup,1,0,LAYUPS,2020
+Louis King,1629663,Standard Layup,1,1,LAYUPS,2020
+Louis King,1629663,2PT Floating Jump Shot,9,3,FLOATING_SHOTS,2021
+Louis King,1629663,2PT Jump Shot,11,5,TWO_POINT_JUMPERS,2021
+Louis King,1629663,2PT Pullup Jump Shot,4,2,TWO_POINT_JUMPERS,2021
+Louis King,1629663,2PT Step Back Jump Shot,1,0,TWO_POINT_JUMPERS,2021
+Louis King,1629663,2PT Turnaround Jump Shot,1,0,TWO_POINT_JUMPERS,2021
+Louis King,1629663,Driving Layup,2,2,LAYUPS,2021
+Louis King,1629663,Finger Roll,1,1,LAYUPS,2021
+Louis King,1629663,Standard Dunk,2,2,DUNKS,2021
+Louis King,1629663,Standard Layup,2,2,LAYUPS,2021
+Louis King,1629663,Turnaround Hook Shot,1,0,POST_MOVES,2021
+Louis King,1629663,2PT Fadeaway Jump Shot,1,0,TWO_POINT_JUMPERS,2022
+Louis King,1629663,2PT Floating Jump Shot,3,0,FLOATING_SHOTS,2022
+Louis King,1629663,2PT Jump Shot,24,5,TWO_POINT_JUMPERS,2022
+Louis King,1629663,2PT Pullup Jump Shot,11,6,TWO_POINT_JUMPERS,2022
+Louis King,1629663,2PT Turnaround Jump Shot,1,0,TWO_POINT_JUMPERS,2022
+Louis King,1629663,3PT Jump Shot,1,1,THREE_POINT_JUMPERS,2022
+Louis King,1629663,3PT Pullup Jump Shot,1,0,THREE_POINT_JUMPERS,2022
+Louis King,1629663,Driving Layup,3,2,LAYUPS,2022
+Louis King,1629663,Hook Shot,1,1,POST_MOVES,2022
+Louis King,1629663,Standard Layup,1,0,LAYUPS,2022
+Louis King,1629663,2PT Floating Jump Shot,1,1,FLOATING_SHOTS,2023
+Louis King,1629663,2PT Jump Shot,4,2,TWO_POINT_JUMPERS,2023
+Louis King,1629663,2PT Pullup Jump Shot,4,3,TWO_POINT_JUMPERS,2023
+Louis King,1629663,2PT Step Back Jump Shot,1,0,TWO_POINT_JUMPERS,2023
+Louis King,1629663,Driving Layup,1,0,LAYUPS,2023
+Louis King,1629663,Putback Layup,1,1,LAYUPS,2023
+Louis King,1629663,Standard Layup,1,1,LAYUPS,2023

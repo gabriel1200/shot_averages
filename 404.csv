@@ -1,7 +1,6 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Kevin Duckworth,404,Dunk Shot,2,2,2,Standard Dunk,DUNKS,1997
-Kevin Duckworth,404,Hook Shot,2,22,12,Hook Shot,POST_MOVES,1997
-Kevin Duckworth,404,Jump Shot,2,50,19,2PT Jump Shot,TWO_POINT_JUMPERS,1997
-Kevin Duckworth,404,Jump Shot,3,3,3,3PT Jump Shot,THREE_POINT_JUMPERS,1997
-Kevin Duckworth,404,Layup Shot,2,23,6,Standard Layup,LAYUPS,1997
-Kevin Duckworth,404,Slam Dunk Shot,2,3,3,Standard Dunk,DUNKS,1997
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Kevin Duckworth,404,2PT Jump Shot,50,19,TWO_POINT_JUMPERS,1997
+Kevin Duckworth,404,3PT Jump Shot,3,3,THREE_POINT_JUMPERS,1997
+Kevin Duckworth,404,Hook Shot,22,12,POST_MOVES,1997
+Kevin Duckworth,404,Standard Dunk,5,5,DUNKS,1997
+Kevin Duckworth,404,Standard Layup,23,6,LAYUPS,1997

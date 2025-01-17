@@ -1,9 +1,9 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Kevin Burleson,101207,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,2006
-Kevin Burleson,101207,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2006
-Kevin Burleson,101207,Jump Shot,2,44,7,2PT Jump Shot,TWO_POINT_JUMPERS,2006
-Kevin Burleson,101207,Jump Shot,3,27,7,3PT Jump Shot,THREE_POINT_JUMPERS,2006
-Kevin Burleson,101207,Layup Shot,2,10,4,Standard Layup,LAYUPS,2006
-Kevin Burleson,101207,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2006
-Kevin Burleson,101207,Running Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2006
-Kevin Burleson,101207,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2006
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Kevin Burleson,101207,2PT Jump Shot,44,7,TWO_POINT_JUMPERS,2006
+Kevin Burleson,101207,2PT Running Jump Shot,2,1,TWO_POINT_JUMPERS,2006
+Kevin Burleson,101207,2PT Turnaround Jump Shot,1,0,TWO_POINT_JUMPERS,2006
+Kevin Burleson,101207,3PT Jump Shot,27,7,THREE_POINT_JUMPERS,2006
+Kevin Burleson,101207,Driving Layup,2,2,LAYUPS,2006
+Kevin Burleson,101207,Reverse Layup,1,0,LAYUPS,2006
+Kevin Burleson,101207,Standard Dunk,1,1,DUNKS,2006
+Kevin Burleson,101207,Standard Layup,10,4,LAYUPS,2006

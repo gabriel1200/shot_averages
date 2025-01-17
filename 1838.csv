@@ -1,50 +1,42 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Tyrone Nesby,1838,Driving Dunk Shot,2,8,5,Driving Dunk,DUNKS,1999
-Tyrone Nesby,1838,Driving Layup Shot,2,42,26,Driving Layup,LAYUPS,1999
-Tyrone Nesby,1838,Dunk Shot,2,6,3,Standard Dunk,DUNKS,1999
-Tyrone Nesby,1838,Jump Shot,2,247,82,2PT Jump Shot,TWO_POINT_JUMPERS,1999
-Tyrone Nesby,1838,Jump Shot,3,2,2,3PT Jump Shot,THREE_POINT_JUMPERS,1999
-Tyrone Nesby,1838,Layup Shot,2,52,23,Standard Layup,LAYUPS,1999
-Tyrone Nesby,1838,Running Jump Shot,2,15,12,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999
-Tyrone Nesby,1838,Slam Dunk Shot,2,23,21,Standard Dunk,DUNKS,1999
-Tyrone Nesby,1838,Tip Shot,2,10,8,Tip Shot,TIP_SHOTS,1999
-Tyrone Nesby,1838,Driving Dunk Shot,2,10,8,Driving Dunk,DUNKS,2000
-Tyrone Nesby,1838,Driving Layup Shot,2,73,42,Driving Layup,LAYUPS,2000
-Tyrone Nesby,1838,Dunk Shot,2,15,7,Standard Dunk,DUNKS,2000
-Tyrone Nesby,1838,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2000
-Tyrone Nesby,1838,Jump Shot,2,664,204,2PT Jump Shot,TWO_POINT_JUMPERS,2000
-Tyrone Nesby,1838,Layup Shot,2,86,56,Standard Layup,LAYUPS,2000
-Tyrone Nesby,1838,Running Jump Shot,2,22,13,2PT Running Jump Shot,TWO_POINT_JUMPERS,2000
-Tyrone Nesby,1838,Slam Dunk Shot,2,26,26,Standard Dunk,DUNKS,2000
-Tyrone Nesby,1838,Tip Shot,2,18,7,Tip Shot,TIP_SHOTS,2000
-Tyrone Nesby,1838,Alley Oop Dunk Shot,2,6,6,Alley Oop Dunk,DUNKS,2001
-Tyrone Nesby,1838,Driving Dunk Shot,2,5,4,Driving Dunk,DUNKS,2001
-Tyrone Nesby,1838,Driving Layup Shot,2,17,12,Driving Layup,LAYUPS,2001
-Tyrone Nesby,1838,Dunk Shot,2,4,3,Standard Dunk,DUNKS,2001
-Tyrone Nesby,1838,Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2001
-Tyrone Nesby,1838,Jump Shot,2,337,83,2PT Jump Shot,TWO_POINT_JUMPERS,2001
-Tyrone Nesby,1838,Jump Shot,3,52,14,3PT Jump Shot,THREE_POINT_JUMPERS,2001
-Tyrone Nesby,1838,Layup Shot,2,55,27,Standard Layup,LAYUPS,2001
-Tyrone Nesby,1838,Running Dunk Shot,2,4,4,Standard Dunk,DUNKS,2001
-Tyrone Nesby,1838,Running Jump Shot,2,20,16,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
-Tyrone Nesby,1838,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2001
-Tyrone Nesby,1838,Slam Dunk Shot,2,9,9,Standard Dunk,DUNKS,2001
-Tyrone Nesby,1838,Tip Shot,2,8,5,Tip Shot,TIP_SHOTS,2001
-Tyrone Nesby,1838,Turnaround Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2001
-Tyrone Nesby,1838,Turnaround Jump Shot,2,10,3,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2001
-Tyrone Nesby,1838,Alley Oop Dunk Shot,2,3,3,Alley Oop Dunk,DUNKS,2002
-Tyrone Nesby,1838,Alley Oop Layup shot,2,3,2,Alley Oop Layup,LAYUPS,2002
-Tyrone Nesby,1838,Driving Dunk Shot,2,5,5,Driving Dunk,DUNKS,2002
-Tyrone Nesby,1838,Driving Layup Shot,2,17,16,Driving Layup,LAYUPS,2002
-Tyrone Nesby,1838,Dunk Shot,2,5,3,Standard Dunk,DUNKS,2002
-Tyrone Nesby,1838,Fadeaway Jump Shot,2,6,4,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2002
-Tyrone Nesby,1838,Follow Up Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2002
-Tyrone Nesby,1838,Jump Shot,2,262,88,2PT Jump Shot,TWO_POINT_JUMPERS,2002
-Tyrone Nesby,1838,Jump Shot,3,21,5,3PT Jump Shot,THREE_POINT_JUMPERS,2002
-Tyrone Nesby,1838,Layup Shot,2,56,25,Standard Layup,LAYUPS,2002
-Tyrone Nesby,1838,Reverse Layup Shot,2,5,5,Reverse Layup,LAYUPS,2002
-Tyrone Nesby,1838,Running Jump Shot,2,9,6,2PT Running Jump Shot,TWO_POINT_JUMPERS,2002
-Tyrone Nesby,1838,Running Layup Shot,2,2,1,Standard Layup,LAYUPS,2002
-Tyrone Nesby,1838,Slam Dunk Shot,2,9,9,Standard Dunk,DUNKS,2002
-Tyrone Nesby,1838,Tip Shot,2,13,8,Tip Shot,TIP_SHOTS,2002
-Tyrone Nesby,1838,Turnaround Jump Shot,2,4,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2002
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Tyrone Nesby,1838,2PT Jump Shot,247,82,TWO_POINT_JUMPERS,1999
+Tyrone Nesby,1838,2PT Running Jump Shot,15,12,TWO_POINT_JUMPERS,1999
+Tyrone Nesby,1838,3PT Jump Shot,2,2,THREE_POINT_JUMPERS,1999
+Tyrone Nesby,1838,Driving Dunk,8,5,DUNKS,1999
+Tyrone Nesby,1838,Driving Layup,42,26,LAYUPS,1999
+Tyrone Nesby,1838,Standard Dunk,29,24,DUNKS,1999
+Tyrone Nesby,1838,Standard Layup,52,23,LAYUPS,1999
+Tyrone Nesby,1838,Tip Shot,10,8,TIP_SHOTS,1999
+Tyrone Nesby,1838,2PT Jump Shot,664,204,TWO_POINT_JUMPERS,2000
+Tyrone Nesby,1838,2PT Running Jump Shot,22,13,TWO_POINT_JUMPERS,2000
+Tyrone Nesby,1838,Driving Dunk,10,8,DUNKS,2000
+Tyrone Nesby,1838,Driving Layup,73,42,LAYUPS,2000
+Tyrone Nesby,1838,Hook Shot,1,1,POST_MOVES,2000
+Tyrone Nesby,1838,Standard Dunk,41,33,DUNKS,2000
+Tyrone Nesby,1838,Standard Layup,86,56,LAYUPS,2000
+Tyrone Nesby,1838,Tip Shot,18,7,TIP_SHOTS,2000
+Tyrone Nesby,1838,2PT Jump Shot,337,83,TWO_POINT_JUMPERS,2001
+Tyrone Nesby,1838,2PT Running Jump Shot,20,16,TWO_POINT_JUMPERS,2001
+Tyrone Nesby,1838,2PT Turnaround Jump Shot,10,3,TWO_POINT_JUMPERS,2001
+Tyrone Nesby,1838,3PT Jump Shot,52,14,THREE_POINT_JUMPERS,2001
+Tyrone Nesby,1838,Alley Oop Dunk,6,6,DUNKS,2001
+Tyrone Nesby,1838,Driving Dunk,5,4,DUNKS,2001
+Tyrone Nesby,1838,Driving Layup,17,12,LAYUPS,2001
+Tyrone Nesby,1838,Finger Roll,2,2,LAYUPS,2001
+Tyrone Nesby,1838,Standard Dunk,17,16,DUNKS,2001
+Tyrone Nesby,1838,Standard Layup,56,28,LAYUPS,2001
+Tyrone Nesby,1838,Tip Shot,8,5,TIP_SHOTS,2001
+Tyrone Nesby,1838,2PT Fadeaway Jump Shot,6,4,TWO_POINT_JUMPERS,2002
+Tyrone Nesby,1838,2PT Jump Shot,262,88,TWO_POINT_JUMPERS,2002
+Tyrone Nesby,1838,2PT Running Jump Shot,9,6,TWO_POINT_JUMPERS,2002
+Tyrone Nesby,1838,2PT Turnaround Jump Shot,4,2,TWO_POINT_JUMPERS,2002
+Tyrone Nesby,1838,3PT Jump Shot,21,5,THREE_POINT_JUMPERS,2002
+Tyrone Nesby,1838,Alley Oop Dunk,3,3,DUNKS,2002
+Tyrone Nesby,1838,Alley Oop Layup,3,2,LAYUPS,2002
+Tyrone Nesby,1838,Driving Dunk,5,5,DUNKS,2002
+Tyrone Nesby,1838,Driving Layup,17,16,LAYUPS,2002
+Tyrone Nesby,1838,Reverse Layup,5,5,LAYUPS,2002
+Tyrone Nesby,1838,Specialty Dunk,1,1,DUNKS,2002
+Tyrone Nesby,1838,Standard Dunk,14,12,DUNKS,2002
+Tyrone Nesby,1838,Standard Layup,58,26,LAYUPS,2002
+Tyrone Nesby,1838,Tip Shot,13,8,TIP_SHOTS,2002

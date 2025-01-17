@@ -1,19 +1,15 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Nathan Jawai,201605,Layup Shot,2,1,1,Standard Layup,LAYUPS,2009
-Nathan Jawai,201605,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2009
-Nathan Jawai,201605,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2009
-Nathan Jawai,201605,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2009
-Nathan Jawai,201605,Driving Layup Shot,2,4,1,Driving Layup,LAYUPS,2010
-Nathan Jawai,201605,Dunk Shot,2,6,6,Standard Dunk,DUNKS,2010
-Nathan Jawai,201605,Hook Shot,2,6,1,Hook Shot,POST_MOVES,2010
-Nathan Jawai,201605,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2010
-Nathan Jawai,201605,Jump Hook Shot,2,7,4,Hook Shot,POST_MOVES,2010
-Nathan Jawai,201605,Jump Shot,2,22,1,2PT Jump Shot,TWO_POINT_JUMPERS,2010
-Nathan Jawai,201605,Layup Shot,2,44,20,Standard Layup,LAYUPS,2010
-Nathan Jawai,201605,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2010
-Nathan Jawai,201605,Reverse Layup Shot,2,3,3,Reverse Layup,LAYUPS,2010
-Nathan Jawai,201605,Running Hook Shot,2,2,1,Running Hook Shot,POST_MOVES,2010
-Nathan Jawai,201605,Slam Dunk Shot,2,4,4,Standard Dunk,DUNKS,2010
-Nathan Jawai,201605,Tip Shot,2,7,3,Tip Shot,TIP_SHOTS,2010
-Nathan Jawai,201605,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2010
-Nathan Jawai,201605,Turnaround Jump Shot,2,3,3,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2010
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Nathan Jawai,201605,2PT Turnaround Jump Shot,2,0,TWO_POINT_JUMPERS,2009
+Nathan Jawai,201605,Standard Layup,1,1,LAYUPS,2009
+Nathan Jawai,201605,Tip Shot,1,0,TIP_SHOTS,2009
+Nathan Jawai,201605,2PT Jump Shot,23,2,TWO_POINT_JUMPERS,2010
+Nathan Jawai,201605,2PT Turnaround Jump Shot,3,3,TWO_POINT_JUMPERS,2010
+Nathan Jawai,201605,Driving Layup,4,1,LAYUPS,2010
+Nathan Jawai,201605,Hook Shot,13,5,POST_MOVES,2010
+Nathan Jawai,201605,Putback Layup,1,1,LAYUPS,2010
+Nathan Jawai,201605,Reverse Layup,3,3,LAYUPS,2010
+Nathan Jawai,201605,Running Hook Shot,2,1,POST_MOVES,2010
+Nathan Jawai,201605,Standard Dunk,10,10,DUNKS,2010
+Nathan Jawai,201605,Standard Layup,44,20,LAYUPS,2010
+Nathan Jawai,201605,Tip Shot,7,3,TIP_SHOTS,2010
+Nathan Jawai,201605,Turnaround Hook Shot,1,0,POST_MOVES,2010

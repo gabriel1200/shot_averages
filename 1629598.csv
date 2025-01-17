@@ -1,23 +1,18 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Chris Clemons,1629598,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2020
-Chris Clemons,1629598,Alley Oop Layup shot,2,2,0,Alley Oop Layup,LAYUPS,2020
-Chris Clemons,1629598,Cutting Layup Shot,2,3,2,Standard Layup,LAYUPS,2020
-Chris Clemons,1629598,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2020
-Chris Clemons,1629598,Driving Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2020
-Chris Clemons,1629598,Driving Floating Bank Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2020
-Chris Clemons,1629598,Driving Floating Jump Shot,2,3,1,2PT Floating Jump Shot,FLOATING_SHOTS,2020
-Chris Clemons,1629598,Driving Layup Shot,2,8,3,Driving Layup,LAYUPS,2020
-Chris Clemons,1629598,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2020
-Chris Clemons,1629598,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2020
-Chris Clemons,1629598,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2020
-Chris Clemons,1629598,Jump Shot,2,65,23,2PT Jump Shot,TWO_POINT_JUMPERS,2020
-Chris Clemons,1629598,Jump Shot,3,17,4,3PT Jump Shot,THREE_POINT_JUMPERS,2020
-Chris Clemons,1629598,Pullup Jump shot,2,17,9,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2020
-Chris Clemons,1629598,Pullup Jump shot,3,5,1,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2020
-Chris Clemons,1629598,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2020
-Chris Clemons,1629598,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2020
-Chris Clemons,1629598,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2020
-Chris Clemons,1629598,Running Layup Shot,2,4,2,Standard Layup,LAYUPS,2020
-Chris Clemons,1629598,Step Back Jump shot,2,5,3,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2020
-Chris Clemons,1629598,Step Back Jump shot,3,1,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2020
-Chris Clemons,1629598,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2020
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Chris Clemons,1629598,2PT Fadeaway Jump Shot,1,0,TWO_POINT_JUMPERS,2020
+Chris Clemons,1629598,2PT Floating Jump Shot,4,2,FLOATING_SHOTS,2020
+Chris Clemons,1629598,2PT Jump Shot,65,23,TWO_POINT_JUMPERS,2020
+Chris Clemons,1629598,2PT Pullup Jump Shot,17,9,TWO_POINT_JUMPERS,2020
+Chris Clemons,1629598,2PT Running Jump Shot,1,0,TWO_POINT_JUMPERS,2020
+Chris Clemons,1629598,2PT Step Back Jump Shot,5,3,TWO_POINT_JUMPERS,2020
+Chris Clemons,1629598,3PT Jump Shot,17,4,THREE_POINT_JUMPERS,2020
+Chris Clemons,1629598,3PT Pullup Jump Shot,5,1,THREE_POINT_JUMPERS,2020
+Chris Clemons,1629598,3PT Step Back Jump Shot,1,0,THREE_POINT_JUMPERS,2020
+Chris Clemons,1629598,Alley Oop Dunk,1,1,DUNKS,2020
+Chris Clemons,1629598,Alley Oop Layup,2,0,LAYUPS,2020
+Chris Clemons,1629598,Driving Dunk,1,1,DUNKS,2020
+Chris Clemons,1629598,Driving Layup,9,3,LAYUPS,2020
+Chris Clemons,1629598,Finger Roll,3,3,LAYUPS,2020
+Chris Clemons,1629598,Putback Layup,1,1,LAYUPS,2020
+Chris Clemons,1629598,Standard Dunk,2,2,DUNKS,2020
+Chris Clemons,1629598,Standard Layup,7,4,LAYUPS,2020

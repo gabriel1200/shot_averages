@@ -1,6 +1,6 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-James Lang,2591,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2007
-James Lang,2591,Jump Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2007
-James Lang,2591,Layup Shot,2,5,1,Standard Layup,LAYUPS,2007
-James Lang,2591,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2007
-James Lang,2591,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2007
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+James Lang,2591,2PT Jump Shot,1,0,TWO_POINT_JUMPERS,2007
+James Lang,2591,Hook Shot,1,1,POST_MOVES,2007
+James Lang,2591,Standard Dunk,1,1,DUNKS,2007
+James Lang,2591,Standard Layup,5,1,LAYUPS,2007
+James Lang,2591,Tip Shot,1,1,TIP_SHOTS,2007

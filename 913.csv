@@ -1,51 +1,45 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Larry Johnson,913,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,1997
-Larry Johnson,913,Driving Layup Shot,2,40,32,Driving Layup,LAYUPS,1997
-Larry Johnson,913,Dunk Shot,2,6,6,Standard Dunk,DUNKS,1997
-Larry Johnson,913,Hook Shot,2,2,2,Hook Shot,POST_MOVES,1997
-Larry Johnson,913,Jump Shot,2,317,134,2PT Jump Shot,TWO_POINT_JUMPERS,1997
-Larry Johnson,913,Layup Shot,2,331,176,Standard Layup,LAYUPS,1997
-Larry Johnson,913,Running Jump Shot,2,5,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
-Larry Johnson,913,Slam Dunk Shot,2,12,12,Standard Dunk,DUNKS,1997
-Larry Johnson,913,Tip Shot,2,20,9,Tip Shot,TIP_SHOTS,1997
-Larry Johnson,913,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,1998
-Larry Johnson,913,Driving Layup Shot,2,41,36,Driving Layup,LAYUPS,1998
-Larry Johnson,913,Dunk Shot,2,2,1,Standard Dunk,DUNKS,1998
-Larry Johnson,913,Hook Shot,2,8,5,Hook Shot,POST_MOVES,1998
-Larry Johnson,913,Jump Shot,2,411,119,2PT Jump Shot,TWO_POINT_JUMPERS,1998
-Larry Johnson,913,Layup Shot,2,359,231,Standard Layup,LAYUPS,1998
-Larry Johnson,913,Running Jump Shot,2,11,8,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
-Larry Johnson,913,Slam Dunk Shot,2,7,7,Standard Dunk,DUNKS,1998
-Larry Johnson,913,Tip Shot,2,43,20,Tip Shot,TIP_SHOTS,1998
-Larry Johnson,913,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,1999
-Larry Johnson,913,Driving Layup Shot,2,34,25,Driving Layup,LAYUPS,1999
-Larry Johnson,913,Dunk Shot,2,2,2,Standard Dunk,DUNKS,1999
-Larry Johnson,913,Hook Shot,2,3,1,Hook Shot,POST_MOVES,1999
-Larry Johnson,913,Jump Shot,2,223,73,2PT Jump Shot,TWO_POINT_JUMPERS,1999
-Larry Johnson,913,Layup Shot,2,175,101,Standard Layup,LAYUPS,1999
-Larry Johnson,913,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,1999
-Larry Johnson,913,Tip Shot,2,19,6,Tip Shot,TIP_SHOTS,1999
-Larry Johnson,913,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2000
-Larry Johnson,913,Driving Layup Shot,2,46,33,Driving Layup,LAYUPS,2000
-Larry Johnson,913,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2000
-Larry Johnson,913,Hook Shot,2,21,11,Hook Shot,POST_MOVES,2000
-Larry Johnson,913,Jump Shot,2,384,118,2PT Jump Shot,TWO_POINT_JUMPERS,2000
-Larry Johnson,913,Layup Shot,2,176,105,Standard Layup,LAYUPS,2000
-Larry Johnson,913,Running Jump Shot,2,3,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2000
-Larry Johnson,913,Slam Dunk Shot,2,3,3,Standard Dunk,DUNKS,2000
-Larry Johnson,913,Tip Shot,2,15,5,Tip Shot,TIP_SHOTS,2000
-Larry Johnson,913,Driving Dunk Shot,2,3,3,Driving Dunk,DUNKS,2001
-Larry Johnson,913,Driving Hook Shot,2,2,2,Driving Hook Shot,POST_MOVES,2001
-Larry Johnson,913,Driving Layup Shot,2,18,15,Driving Layup,LAYUPS,2001
-Larry Johnson,913,Dunk Shot,2,4,3,Standard Dunk,DUNKS,2001
-Larry Johnson,913,Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2001
-Larry Johnson,913,Hook Shot,2,7,4,Hook Shot,POST_MOVES,2001
-Larry Johnson,913,Jump Shot,2,361,104,2PT Jump Shot,TWO_POINT_JUMPERS,2001
-Larry Johnson,913,Layup Shot,2,144,71,Standard Layup,LAYUPS,2001
-Larry Johnson,913,Reverse Layup Shot,2,9,9,Reverse Layup,LAYUPS,2001
-Larry Johnson,913,Running Hook Shot,2,6,6,Running Hook Shot,POST_MOVES,2001
-Larry Johnson,913,Running Jump Shot,2,5,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
-Larry Johnson,913,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2001
-Larry Johnson,913,Slam Dunk Shot,2,4,4,Standard Dunk,DUNKS,2001
-Larry Johnson,913,Tip Shot,2,19,13,Tip Shot,TIP_SHOTS,2001
-Larry Johnson,913,Turnaround Jump Shot,2,14,8,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Larry Johnson,913,2PT Jump Shot,317,134,TWO_POINT_JUMPERS,1997
+Larry Johnson,913,2PT Running Jump Shot,5,3,TWO_POINT_JUMPERS,1997
+Larry Johnson,913,Driving Dunk,2,2,DUNKS,1997
+Larry Johnson,913,Driving Layup,40,32,LAYUPS,1997
+Larry Johnson,913,Hook Shot,2,2,POST_MOVES,1997
+Larry Johnson,913,Standard Dunk,18,18,DUNKS,1997
+Larry Johnson,913,Standard Layup,331,176,LAYUPS,1997
+Larry Johnson,913,Tip Shot,20,9,TIP_SHOTS,1997
+Larry Johnson,913,2PT Jump Shot,411,119,TWO_POINT_JUMPERS,1998
+Larry Johnson,913,2PT Running Jump Shot,11,8,TWO_POINT_JUMPERS,1998
+Larry Johnson,913,Driving Dunk,2,2,DUNKS,1998
+Larry Johnson,913,Driving Layup,41,36,LAYUPS,1998
+Larry Johnson,913,Hook Shot,8,5,POST_MOVES,1998
+Larry Johnson,913,Standard Dunk,9,8,DUNKS,1998
+Larry Johnson,913,Standard Layup,359,231,LAYUPS,1998
+Larry Johnson,913,Tip Shot,43,20,TIP_SHOTS,1998
+Larry Johnson,913,2PT Jump Shot,223,73,TWO_POINT_JUMPERS,1999
+Larry Johnson,913,Driving Dunk,1,1,DUNKS,1999
+Larry Johnson,913,Driving Layup,34,25,LAYUPS,1999
+Larry Johnson,913,Hook Shot,3,1,POST_MOVES,1999
+Larry Johnson,913,Standard Dunk,3,3,DUNKS,1999
+Larry Johnson,913,Standard Layup,175,101,LAYUPS,1999
+Larry Johnson,913,Tip Shot,19,6,TIP_SHOTS,1999
+Larry Johnson,913,2PT Jump Shot,384,118,TWO_POINT_JUMPERS,2000
+Larry Johnson,913,2PT Running Jump Shot,3,3,TWO_POINT_JUMPERS,2000
+Larry Johnson,913,Driving Dunk,2,2,DUNKS,2000
+Larry Johnson,913,Driving Layup,46,33,LAYUPS,2000
+Larry Johnson,913,Hook Shot,21,11,POST_MOVES,2000
+Larry Johnson,913,Standard Dunk,5,5,DUNKS,2000
+Larry Johnson,913,Standard Layup,176,105,LAYUPS,2000
+Larry Johnson,913,Tip Shot,15,5,TIP_SHOTS,2000
+Larry Johnson,913,2PT Jump Shot,361,104,TWO_POINT_JUMPERS,2001
+Larry Johnson,913,2PT Running Jump Shot,5,2,TWO_POINT_JUMPERS,2001
+Larry Johnson,913,2PT Turnaround Jump Shot,14,8,TWO_POINT_JUMPERS,2001
+Larry Johnson,913,Driving Dunk,3,3,DUNKS,2001
+Larry Johnson,913,Driving Hook Shot,2,2,POST_MOVES,2001
+Larry Johnson,913,Driving Layup,18,15,LAYUPS,2001
+Larry Johnson,913,Finger Roll,1,1,LAYUPS,2001
+Larry Johnson,913,Hook Shot,7,4,POST_MOVES,2001
+Larry Johnson,913,Reverse Layup,9,9,LAYUPS,2001
+Larry Johnson,913,Running Hook Shot,6,6,POST_MOVES,2001
+Larry Johnson,913,Standard Dunk,8,7,DUNKS,2001
+Larry Johnson,913,Standard Layup,145,72,LAYUPS,2001
+Larry Johnson,913,Tip Shot,19,13,TIP_SHOTS,2001

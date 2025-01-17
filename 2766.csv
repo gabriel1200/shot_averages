@@ -1,17 +1,14 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Antonio Burks,2766,Driving Layup Shot,2,3,2,Driving Layup,LAYUPS,2005
-Antonio Burks,2766,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2005
-Antonio Burks,2766,Jump Shot,2,41,18,2PT Jump Shot,TWO_POINT_JUMPERS,2005
-Antonio Burks,2766,Layup Shot,2,12,6,Standard Layup,LAYUPS,2005
-Antonio Burks,2766,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2005
-Antonio Burks,2766,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2005
-Antonio Burks,2766,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2005
-Antonio Burks,2766,Driving Finger Roll Shot,2,2,1,Finger Roll,LAYUPS,2006
-Antonio Burks,2766,Driving Layup Shot,2,20,14,Driving Layup,LAYUPS,2006
-Antonio Burks,2766,Fadeaway Jump Shot,2,2,2,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2006
-Antonio Burks,2766,Jump Bank Shot,2,2,2,2PT Jump Shot,TWO_POINT_JUMPERS,2006
-Antonio Burks,2766,Jump Shot,2,90,24,2PT Jump Shot,TWO_POINT_JUMPERS,2006
-Antonio Burks,2766,Layup Shot,2,24,5,Standard Layup,LAYUPS,2006
-Antonio Burks,2766,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2006
-Antonio Burks,2766,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2006
-Antonio Burks,2766,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2006
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Antonio Burks,2766,2PT Fadeaway Jump Shot,1,1,TWO_POINT_JUMPERS,2005
+Antonio Burks,2766,2PT Jump Shot,41,18,TWO_POINT_JUMPERS,2005
+Antonio Burks,2766,2PT Running Jump Shot,1,0,TWO_POINT_JUMPERS,2005
+Antonio Burks,2766,2PT Turnaround Jump Shot,1,0,TWO_POINT_JUMPERS,2005
+Antonio Burks,2766,Driving Layup,3,2,LAYUPS,2005
+Antonio Burks,2766,Standard Layup,13,7,LAYUPS,2005
+Antonio Burks,2766,2PT Fadeaway Jump Shot,2,2,TWO_POINT_JUMPERS,2006
+Antonio Burks,2766,2PT Jump Shot,92,26,TWO_POINT_JUMPERS,2006
+Antonio Burks,2766,2PT Running Jump Shot,1,1,TWO_POINT_JUMPERS,2006
+Antonio Burks,2766,2PT Turnaround Jump Shot,2,1,TWO_POINT_JUMPERS,2006
+Antonio Burks,2766,Driving Layup,20,14,LAYUPS,2006
+Antonio Burks,2766,Finger Roll,2,1,LAYUPS,2006
+Antonio Burks,2766,Standard Layup,25,6,LAYUPS,2006

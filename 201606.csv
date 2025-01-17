@@ -1,13 +1,12 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Sean Singletary,201606,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2009
-Sean Singletary,201606,Fadeaway Jump Shot,2,2,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2009
-Sean Singletary,201606,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2009
-Sean Singletary,201606,Jump Shot,2,55,16,2PT Jump Shot,TWO_POINT_JUMPERS,2009
-Sean Singletary,201606,Jump Shot,3,4,1,3PT Jump Shot,THREE_POINT_JUMPERS,2009
-Sean Singletary,201606,Layup Shot,2,13,6,Standard Layup,LAYUPS,2009
-Sean Singletary,201606,Pullup Jump shot,2,3,3,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2009
-Sean Singletary,201606,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2009
-Sean Singletary,201606,Running Bank shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2009
-Sean Singletary,201606,Running Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2009
-Sean Singletary,201606,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2009
-Sean Singletary,201606,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2009
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Sean Singletary,201606,2PT Fadeaway Jump Shot,2,0,TWO_POINT_JUMPERS,2009
+Sean Singletary,201606,2PT Floating Jump Shot,1,1,FLOATING_SHOTS,2009
+Sean Singletary,201606,2PT Jump Shot,55,16,TWO_POINT_JUMPERS,2009
+Sean Singletary,201606,2PT Pullup Jump Shot,3,3,TWO_POINT_JUMPERS,2009
+Sean Singletary,201606,2PT Running Jump Shot,3,2,TWO_POINT_JUMPERS,2009
+Sean Singletary,201606,2PT Turnaround Jump Shot,1,1,TWO_POINT_JUMPERS,2009
+Sean Singletary,201606,3PT Jump Shot,4,1,THREE_POINT_JUMPERS,2009
+Sean Singletary,201606,Alley Oop Layup,1,0,LAYUPS,2009
+Sean Singletary,201606,Putback Layup,1,1,LAYUPS,2009
+Sean Singletary,201606,Standard Layup,13,6,LAYUPS,2009
+Sean Singletary,201606,Tip Shot,1,0,TIP_SHOTS,2009

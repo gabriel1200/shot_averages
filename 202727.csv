@@ -1,9 +1,8 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Travis Leslie,202727,Alley Oop Dunk Shot,2,2,1,Alley Oop Dunk,DUNKS,2012
-Travis Leslie,202727,Dunk Shot,2,1,0,Standard Dunk,DUNKS,2012
-Travis Leslie,202727,Jump Shot,2,4,0,2PT Jump Shot,TWO_POINT_JUMPERS,2012
-Travis Leslie,202727,Layup Shot,2,3,2,Standard Layup,LAYUPS,2012
-Travis Leslie,202727,Putback Layup Shot,2,1,0,Putback Layup,LAYUPS,2012
-Travis Leslie,202727,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2012
-Travis Leslie,202727,Slam Dunk Shot,2,1,0,Standard Dunk,DUNKS,2012
-Travis Leslie,202727,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2012
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Travis Leslie,202727,2PT Jump Shot,4,0,TWO_POINT_JUMPERS,2012
+Travis Leslie,202727,2PT Running Jump Shot,1,1,TWO_POINT_JUMPERS,2012
+Travis Leslie,202727,Alley Oop Dunk,2,1,DUNKS,2012
+Travis Leslie,202727,Putback Layup,1,0,LAYUPS,2012
+Travis Leslie,202727,Standard Dunk,2,0,DUNKS,2012
+Travis Leslie,202727,Standard Layup,3,2,LAYUPS,2012
+Travis Leslie,202727,Tip Shot,1,1,TIP_SHOTS,2012

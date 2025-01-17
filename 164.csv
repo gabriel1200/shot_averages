@@ -1,46 +1,44 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Chris Childs,164,Driving Layup Shot,2,57,50,Driving Layup,LAYUPS,1997
-Chris Childs,164,Jump Shot,2,301,114,2PT Jump Shot,TWO_POINT_JUMPERS,1997
-Chris Childs,164,Jump Shot,3,54,20,3PT Jump Shot,THREE_POINT_JUMPERS,1997
-Chris Childs,164,Layup Shot,2,83,14,Standard Layup,LAYUPS,1997
-Chris Childs,164,Running Jump Shot,2,14,13,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
-Chris Childs,164,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,1997
-Chris Childs,164,Driving Layup Shot,2,49,35,Driving Layup,LAYUPS,1998
-Chris Childs,164,Hook Shot,2,1,0,Hook Shot,POST_MOVES,1998
-Chris Childs,164,Jump Shot,2,189,72,2PT Jump Shot,TWO_POINT_JUMPERS,1998
-Chris Childs,164,Jump Shot,3,62,17,3PT Jump Shot,THREE_POINT_JUMPERS,1998
-Chris Childs,164,Layup Shot,2,42,16,Standard Layup,LAYUPS,1998
-Chris Childs,164,Running Jump Shot,2,11,9,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
-Chris Childs,164,Driving Layup Shot,2,39,23,Driving Layup,LAYUPS,1999
-Chris Childs,164,Hook Shot,2,2,2,Hook Shot,POST_MOVES,1999
-Chris Childs,164,Jump Shot,2,150,64,2PT Jump Shot,TWO_POINT_JUMPERS,1999
-Chris Childs,164,Jump Shot,3,59,20,3PT Jump Shot,THREE_POINT_JUMPERS,1999
-Chris Childs,164,Layup Shot,2,14,4,Standard Layup,LAYUPS,1999
-Chris Childs,164,Running Jump Shot,2,3,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999
-Chris Childs,164,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2000
-Chris Childs,164,Driving Layup Shot,2,49,28,Driving Layup,LAYUPS,2000
-Chris Childs,164,Jump Shot,2,207,84,2PT Jump Shot,TWO_POINT_JUMPERS,2000
-Chris Childs,164,Jump Shot,3,64,21,3PT Jump Shot,THREE_POINT_JUMPERS,2000
-Chris Childs,164,Layup Shot,2,22,5,Standard Layup,LAYUPS,2000
-Chris Childs,164,Running Jump Shot,2,10,4,2PT Running Jump Shot,TWO_POINT_JUMPERS,2000
-Chris Childs,164,Running Jump Shot,3,4,3,3PT Running Jump Shot,THREE_POINT_JUMPERS,2000
-Chris Childs,164,Driving Finger Roll Shot,2,2,0,Finger Roll,LAYUPS,2001
-Chris Childs,164,Driving Layup Shot,2,30,21,Driving Layup,LAYUPS,2001
-Chris Childs,164,Jump Shot,2,204,86,2PT Jump Shot,TWO_POINT_JUMPERS,2001
-Chris Childs,164,Jump Shot,3,63,18,3PT Jump Shot,THREE_POINT_JUMPERS,2001
-Chris Childs,164,Layup Shot,2,23,4,Standard Layup,LAYUPS,2001
-Chris Childs,164,Running Jump Shot,2,9,4,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
-Chris Childs,164,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2001
-Chris Childs,164,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2001
-Chris Childs,164,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2001
-Chris Childs,164,Driving Finger Roll Shot,2,4,2,Finger Roll,LAYUPS,2002
-Chris Childs,164,Driving Layup Shot,2,31,17,Driving Layup,LAYUPS,2002
-Chris Childs,164,Jump Shot,2,170,45,2PT Jump Shot,TWO_POINT_JUMPERS,2002
-Chris Childs,164,Jump Shot,3,44,15,3PT Jump Shot,THREE_POINT_JUMPERS,2002
-Chris Childs,164,Layup Shot,2,25,8,Standard Layup,LAYUPS,2002
-Chris Childs,164,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2002
-Chris Childs,164,Running Jump Shot,2,16,7,2PT Running Jump Shot,TWO_POINT_JUMPERS,2002
-Chris Childs,164,Running Layup Shot,2,4,3,Standard Layup,LAYUPS,2002
-Chris Childs,164,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2002
-Chris Childs,164,Driving Layup Shot,2,2,0,Driving Layup,LAYUPS,2003
-Chris Childs,164,Jump Shot,2,18,6,2PT Jump Shot,TWO_POINT_JUMPERS,2003
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Chris Childs,164,2PT Jump Shot,301,114,TWO_POINT_JUMPERS,1997
+Chris Childs,164,2PT Running Jump Shot,14,13,TWO_POINT_JUMPERS,1997
+Chris Childs,164,3PT Jump Shot,54,20,THREE_POINT_JUMPERS,1997
+Chris Childs,164,3PT Running Jump Shot,1,0,THREE_POINT_JUMPERS,1997
+Chris Childs,164,Driving Layup,57,50,LAYUPS,1997
+Chris Childs,164,Standard Layup,83,14,LAYUPS,1997
+Chris Childs,164,2PT Jump Shot,189,72,TWO_POINT_JUMPERS,1998
+Chris Childs,164,2PT Running Jump Shot,11,9,TWO_POINT_JUMPERS,1998
+Chris Childs,164,3PT Jump Shot,62,17,THREE_POINT_JUMPERS,1998
+Chris Childs,164,Driving Layup,49,35,LAYUPS,1998
+Chris Childs,164,Hook Shot,1,0,POST_MOVES,1998
+Chris Childs,164,Standard Layup,42,16,LAYUPS,1998
+Chris Childs,164,2PT Jump Shot,150,64,TWO_POINT_JUMPERS,1999
+Chris Childs,164,2PT Running Jump Shot,3,1,TWO_POINT_JUMPERS,1999
+Chris Childs,164,3PT Jump Shot,59,20,THREE_POINT_JUMPERS,1999
+Chris Childs,164,Driving Layup,39,23,LAYUPS,1999
+Chris Childs,164,Hook Shot,2,2,POST_MOVES,1999
+Chris Childs,164,Standard Layup,14,4,LAYUPS,1999
+Chris Childs,164,2PT Jump Shot,207,84,TWO_POINT_JUMPERS,2000
+Chris Childs,164,2PT Running Jump Shot,10,4,TWO_POINT_JUMPERS,2000
+Chris Childs,164,3PT Jump Shot,64,21,THREE_POINT_JUMPERS,2000
+Chris Childs,164,3PT Running Jump Shot,4,3,THREE_POINT_JUMPERS,2000
+Chris Childs,164,Driving Dunk,1,1,DUNKS,2000
+Chris Childs,164,Driving Layup,49,28,LAYUPS,2000
+Chris Childs,164,Standard Layup,22,5,LAYUPS,2000
+Chris Childs,164,2PT Jump Shot,204,86,TWO_POINT_JUMPERS,2001
+Chris Childs,164,2PT Running Jump Shot,9,4,TWO_POINT_JUMPERS,2001
+Chris Childs,164,2PT Turnaround Jump Shot,2,1,TWO_POINT_JUMPERS,2001
+Chris Childs,164,3PT Jump Shot,63,18,THREE_POINT_JUMPERS,2001
+Chris Childs,164,3PT Running Jump Shot,1,0,THREE_POINT_JUMPERS,2001
+Chris Childs,164,Driving Layup,30,21,LAYUPS,2001
+Chris Childs,164,Finger Roll,2,0,LAYUPS,2001
+Chris Childs,164,Standard Layup,24,5,LAYUPS,2001
+Chris Childs,164,2PT Jump Shot,170,45,TWO_POINT_JUMPERS,2002
+Chris Childs,164,2PT Running Jump Shot,16,7,TWO_POINT_JUMPERS,2002
+Chris Childs,164,3PT Jump Shot,44,15,THREE_POINT_JUMPERS,2002
+Chris Childs,164,Driving Layup,31,17,LAYUPS,2002
+Chris Childs,164,Finger Roll,4,2,LAYUPS,2002
+Chris Childs,164,Reverse Layup,1,0,LAYUPS,2002
+Chris Childs,164,Standard Layup,29,11,LAYUPS,2002
+Chris Childs,164,Turnaround Hook Shot,1,0,POST_MOVES,2002
+Chris Childs,164,2PT Jump Shot,18,6,TWO_POINT_JUMPERS,2003
+Chris Childs,164,Driving Layup,2,0,LAYUPS,2003

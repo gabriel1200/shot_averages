@@ -1,25 +1,18 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Sasha Vezenkov,1628426,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2024
-Sasha Vezenkov,1628426,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2024
-Sasha Vezenkov,1628426,Cutting Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2024
-Sasha Vezenkov,1628426,Cutting Layup Shot,2,18,14,Standard Layup,LAYUPS,2024
-Sasha Vezenkov,1628426,Driving Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2024
-Sasha Vezenkov,1628426,Driving Floating Bank Jump Shot,2,3,1,2PT Floating Jump Shot,FLOATING_SHOTS,2024
-Sasha Vezenkov,1628426,Driving Floating Jump Shot,2,6,1,2PT Floating Jump Shot,FLOATING_SHOTS,2024
-Sasha Vezenkov,1628426,Driving Layup Shot,2,3,0,Driving Layup,LAYUPS,2024
-Sasha Vezenkov,1628426,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
-Sasha Vezenkov,1628426,Fadeaway Jump Shot,3,1,0,3PT Fadeaway Jump Shot,THREE_POINT_JUMPERS,2024
-Sasha Vezenkov,1628426,Floating Jump shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2024
-Sasha Vezenkov,1628426,Floating Jump shot,3,1,0,3PT Floating Jump Shot,FLOATING_SHOTS,2024
-Sasha Vezenkov,1628426,Jump Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2024
-Sasha Vezenkov,1628426,Jump Shot,3,102,40,3PT Jump Shot,THREE_POINT_JUMPERS,2024
-Sasha Vezenkov,1628426,Layup Shot,2,7,4,Standard Layup,LAYUPS,2024
-Sasha Vezenkov,1628426,Pullup Jump shot,3,2,1,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
-Sasha Vezenkov,1628426,Putback Layup Shot,2,3,2,Putback Layup,LAYUPS,2024
-Sasha Vezenkov,1628426,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2024
-Sasha Vezenkov,1628426,Running Alley Oop Layup Shot,2,3,2,Alley Oop Layup,LAYUPS,2024
-Sasha Vezenkov,1628426,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2024
-Sasha Vezenkov,1628426,Running Jump Shot,3,5,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
-Sasha Vezenkov,1628426,Running Layup Shot,2,6,4,Standard Layup,LAYUPS,2024
-Sasha Vezenkov,1628426,Step Back Jump shot,3,9,3,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
-Sasha Vezenkov,1628426,Tip Layup Shot,2,10,6,Putback Layup,LAYUPS,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Sasha Vezenkov,1628426,2PT Fadeaway Jump Shot,1,0,TWO_POINT_JUMPERS,2024
+Sasha Vezenkov,1628426,2PT Floating Jump Shot,11,3,FLOATING_SHOTS,2024
+Sasha Vezenkov,1628426,2PT Jump Shot,2,0,TWO_POINT_JUMPERS,2024
+Sasha Vezenkov,1628426,2PT Running Jump Shot,1,1,TWO_POINT_JUMPERS,2024
+Sasha Vezenkov,1628426,3PT Fadeaway Jump Shot,1,0,THREE_POINT_JUMPERS,2024
+Sasha Vezenkov,1628426,3PT Floating Jump Shot,1,0,FLOATING_SHOTS,2024
+Sasha Vezenkov,1628426,3PT Jump Shot,102,40,THREE_POINT_JUMPERS,2024
+Sasha Vezenkov,1628426,3PT Pullup Jump Shot,2,1,THREE_POINT_JUMPERS,2024
+Sasha Vezenkov,1628426,3PT Running Jump Shot,5,1,THREE_POINT_JUMPERS,2024
+Sasha Vezenkov,1628426,3PT Step Back Jump Shot,9,3,THREE_POINT_JUMPERS,2024
+Sasha Vezenkov,1628426,Alley Oop Layup,4,3,LAYUPS,2024
+Sasha Vezenkov,1628426,Driving Layup,3,0,LAYUPS,2024
+Sasha Vezenkov,1628426,Finger Roll,3,1,LAYUPS,2024
+Sasha Vezenkov,1628426,Putback Layup,13,8,LAYUPS,2024
+Sasha Vezenkov,1628426,Reverse Layup,1,0,LAYUPS,2024
+Sasha Vezenkov,1628426,Specialty Dunk,1,1,DUNKS,2024
+Sasha Vezenkov,1628426,Standard Layup,31,22,LAYUPS,2024

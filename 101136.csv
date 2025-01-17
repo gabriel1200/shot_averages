@@ -1,34 +1,29 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Salim Stoudamire,101136,Driving Dunk Shot,2,1,0,Driving Dunk,DUNKS,2006
-Salim Stoudamire,101136,Driving Layup Shot,2,18,14,Driving Layup,LAYUPS,2006
-Salim Stoudamire,101136,Dunk Shot,2,4,4,Standard Dunk,DUNKS,2006
-Salim Stoudamire,101136,Fadeaway Jump Shot,2,4,2,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2006
-Salim Stoudamire,101136,Jump Shot,2,324,130,2PT Jump Shot,TWO_POINT_JUMPERS,2006
-Salim Stoudamire,101136,Jump Shot,3,71,25,3PT Jump Shot,THREE_POINT_JUMPERS,2006
-Salim Stoudamire,101136,Layup Shot,2,46,15,Standard Layup,LAYUPS,2006
-Salim Stoudamire,101136,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2006
-Salim Stoudamire,101136,Running Jump Shot,2,18,11,2PT Running Jump Shot,TWO_POINT_JUMPERS,2006
-Salim Stoudamire,101136,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2006
-Salim Stoudamire,101136,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,2006
-Salim Stoudamire,101136,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2006
-Salim Stoudamire,101136,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2007
-Salim Stoudamire,101136,Driving Finger Roll Shot,2,1,0,Finger Roll,LAYUPS,2007
-Salim Stoudamire,101136,Driving Layup Shot,2,10,6,Driving Layup,LAYUPS,2007
-Salim Stoudamire,101136,Dunk Shot,2,3,2,Standard Dunk,DUNKS,2007
-Salim Stoudamire,101136,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2007
-Salim Stoudamire,101136,Jump Bank Shot,2,4,2,2PT Jump Shot,TWO_POINT_JUMPERS,2007
-Salim Stoudamire,101136,Jump Shot,2,241,88,2PT Jump Shot,TWO_POINT_JUMPERS,2007
-Salim Stoudamire,101136,Jump Shot,3,100,40,3PT Jump Shot,THREE_POINT_JUMPERS,2007
-Salim Stoudamire,101136,Layup Shot,2,38,21,Standard Layup,LAYUPS,2007
-Salim Stoudamire,101136,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2007
-Salim Stoudamire,101136,Running Jump Shot,2,19,12,2PT Running Jump Shot,TWO_POINT_JUMPERS,2007
-Salim Stoudamire,101136,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2007
-Salim Stoudamire,101136,Running Layup Shot,2,5,3,Standard Layup,LAYUPS,2007
-Salim Stoudamire,101136,Driving Layup Shot,2,7,5,Driving Layup,LAYUPS,2008
-Salim Stoudamire,101136,Fadeaway Jump Shot,2,2,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2008
-Salim Stoudamire,101136,Jump Shot,2,113,41,2PT Jump Shot,TWO_POINT_JUMPERS,2008
-Salim Stoudamire,101136,Jump Shot,3,41,13,3PT Jump Shot,THREE_POINT_JUMPERS,2008
-Salim Stoudamire,101136,Layup Shot,2,9,3,Standard Layup,LAYUPS,2008
-Salim Stoudamire,101136,Running Bank shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2008
-Salim Stoudamire,101136,Running Jump Shot,2,6,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2008
-Salim Stoudamire,101136,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2008
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Salim Stoudamire,101136,2PT Fadeaway Jump Shot,4,2,TWO_POINT_JUMPERS,2006
+Salim Stoudamire,101136,2PT Jump Shot,324,130,TWO_POINT_JUMPERS,2006
+Salim Stoudamire,101136,2PT Running Jump Shot,18,11,TWO_POINT_JUMPERS,2006
+Salim Stoudamire,101136,2PT Turnaround Jump Shot,1,0,TWO_POINT_JUMPERS,2006
+Salim Stoudamire,101136,3PT Jump Shot,71,25,THREE_POINT_JUMPERS,2006
+Salim Stoudamire,101136,Driving Dunk,1,0,DUNKS,2006
+Salim Stoudamire,101136,Driving Layup,18,14,LAYUPS,2006
+Salim Stoudamire,101136,Reverse Layup,2,1,LAYUPS,2006
+Salim Stoudamire,101136,Standard Dunk,4,4,DUNKS,2006
+Salim Stoudamire,101136,Standard Layup,47,15,LAYUPS,2006
+Salim Stoudamire,101136,Tip Shot,2,2,TIP_SHOTS,2006
+Salim Stoudamire,101136,2PT Fadeaway Jump Shot,1,1,TWO_POINT_JUMPERS,2007
+Salim Stoudamire,101136,2PT Jump Shot,245,90,TWO_POINT_JUMPERS,2007
+Salim Stoudamire,101136,2PT Running Jump Shot,19,12,TWO_POINT_JUMPERS,2007
+Salim Stoudamire,101136,3PT Jump Shot,100,40,THREE_POINT_JUMPERS,2007
+Salim Stoudamire,101136,3PT Running Jump Shot,1,0,THREE_POINT_JUMPERS,2007
+Salim Stoudamire,101136,Alley Oop Layup,1,1,LAYUPS,2007
+Salim Stoudamire,101136,Driving Layup,10,6,LAYUPS,2007
+Salim Stoudamire,101136,Finger Roll,1,0,LAYUPS,2007
+Salim Stoudamire,101136,Reverse Layup,1,1,LAYUPS,2007
+Salim Stoudamire,101136,Standard Dunk,3,2,DUNKS,2007
+Salim Stoudamire,101136,Standard Layup,43,24,LAYUPS,2007
+Salim Stoudamire,101136,2PT Fadeaway Jump Shot,2,1,TWO_POINT_JUMPERS,2008
+Salim Stoudamire,101136,2PT Jump Shot,113,41,TWO_POINT_JUMPERS,2008
+Salim Stoudamire,101136,2PT Running Jump Shot,7,1,TWO_POINT_JUMPERS,2008
+Salim Stoudamire,101136,3PT Jump Shot,41,13,THREE_POINT_JUMPERS,2008
+Salim Stoudamire,101136,Driving Layup,7,5,LAYUPS,2008
+Salim Stoudamire,101136,Standard Layup,10,4,LAYUPS,2008

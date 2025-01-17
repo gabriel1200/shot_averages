@@ -1,35 +1,31 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Kyle Weaver,201602,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2009
-Kyle Weaver,201602,Alley Oop Layup shot,2,2,1,Alley Oop Layup,LAYUPS,2009
-Kyle Weaver,201602,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2009
-Kyle Weaver,201602,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2009
-Kyle Weaver,201602,Driving Layup Shot,2,14,11,Driving Layup,LAYUPS,2009
-Kyle Weaver,201602,Driving Reverse Layup Shot,2,3,3,Driving Layup,LAYUPS,2009
-Kyle Weaver,201602,Dunk Shot,2,6,6,Standard Dunk,DUNKS,2009
-Kyle Weaver,201602,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2009
-Kyle Weaver,201602,Finger Roll Layup Shot,2,3,3,Finger Roll,LAYUPS,2009
-Kyle Weaver,201602,Floating Jump shot,2,7,5,2PT Floating Jump Shot,FLOATING_SHOTS,2009
-Kyle Weaver,201602,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2009
-Kyle Weaver,201602,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2009
-Kyle Weaver,201602,Jump Shot,2,134,46,2PT Jump Shot,TWO_POINT_JUMPERS,2009
-Kyle Weaver,201602,Jump Shot,3,4,1,3PT Jump Shot,THREE_POINT_JUMPERS,2009
-Kyle Weaver,201602,Layup Shot,2,34,14,Standard Layup,LAYUPS,2009
-Kyle Weaver,201602,Pullup Jump shot,2,4,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2009
-Kyle Weaver,201602,Putback Layup Shot,2,2,1,Putback Layup,LAYUPS,2009
-Kyle Weaver,201602,Reverse Layup Shot,2,12,6,Reverse Layup,LAYUPS,2009
-Kyle Weaver,201602,Running Bank shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2009
-Kyle Weaver,201602,Running Jump Shot,2,5,4,2PT Running Jump Shot,TWO_POINT_JUMPERS,2009
-Kyle Weaver,201602,Step Back Jump shot,2,2,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2009
-Kyle Weaver,201602,Tip Shot,2,6,3,Tip Shot,TIP_SHOTS,2009
-Kyle Weaver,201602,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2009
-Kyle Weaver,201602,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2010
-Kyle Weaver,201602,Jump Shot,2,29,9,2PT Jump Shot,TWO_POINT_JUMPERS,2010
-Kyle Weaver,201602,Layup Shot,2,2,2,Standard Layup,LAYUPS,2010
-Kyle Weaver,201602,Running Bank shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2010
-Kyle Weaver,201602,Driving Layup Shot,2,2,0,Driving Layup,LAYUPS,2011
-Kyle Weaver,201602,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2011
-Kyle Weaver,201602,Jump Shot,2,17,6,2PT Jump Shot,TWO_POINT_JUMPERS,2011
-Kyle Weaver,201602,Jump Shot,3,2,1,3PT Jump Shot,THREE_POINT_JUMPERS,2011
-Kyle Weaver,201602,Layup Shot,2,1,1,Standard Layup,LAYUPS,2011
-Kyle Weaver,201602,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2011
-Kyle Weaver,201602,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2011
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Kyle Weaver,201602,2PT Fadeaway Jump Shot,1,0,TWO_POINT_JUMPERS,2009
+Kyle Weaver,201602,2PT Floating Jump Shot,7,5,FLOATING_SHOTS,2009
+Kyle Weaver,201602,2PT Jump Shot,135,47,TWO_POINT_JUMPERS,2009
+Kyle Weaver,201602,2PT Pullup Jump Shot,4,2,TWO_POINT_JUMPERS,2009
+Kyle Weaver,201602,2PT Running Jump Shot,6,5,TWO_POINT_JUMPERS,2009
+Kyle Weaver,201602,2PT Step Back Jump Shot,2,1,TWO_POINT_JUMPERS,2009
+Kyle Weaver,201602,2PT Turnaround Jump Shot,1,0,TWO_POINT_JUMPERS,2009
+Kyle Weaver,201602,3PT Jump Shot,4,1,THREE_POINT_JUMPERS,2009
+Kyle Weaver,201602,Alley Oop Dunk,1,1,DUNKS,2009
+Kyle Weaver,201602,Alley Oop Layup,2,1,LAYUPS,2009
+Kyle Weaver,201602,Driving Dunk,1,1,DUNKS,2009
+Kyle Weaver,201602,Driving Layup,17,14,LAYUPS,2009
+Kyle Weaver,201602,Finger Roll,4,4,LAYUPS,2009
+Kyle Weaver,201602,Hook Shot,1,1,POST_MOVES,2009
+Kyle Weaver,201602,Putback Layup,2,1,LAYUPS,2009
+Kyle Weaver,201602,Reverse Layup,12,6,LAYUPS,2009
+Kyle Weaver,201602,Standard Dunk,6,6,DUNKS,2009
+Kyle Weaver,201602,Standard Layup,34,14,LAYUPS,2009
+Kyle Weaver,201602,Tip Shot,6,3,TIP_SHOTS,2009
+Kyle Weaver,201602,2PT Jump Shot,29,9,TWO_POINT_JUMPERS,2010
+Kyle Weaver,201602,2PT Running Jump Shot,1,0,TWO_POINT_JUMPERS,2010
+Kyle Weaver,201602,Finger Roll,1,1,LAYUPS,2010
+Kyle Weaver,201602,Standard Layup,2,2,LAYUPS,2010
+Kyle Weaver,201602,2PT Floating Jump Shot,1,1,FLOATING_SHOTS,2011
+Kyle Weaver,201602,2PT Jump Shot,17,6,TWO_POINT_JUMPERS,2011
+Kyle Weaver,201602,2PT Running Jump Shot,1,0,TWO_POINT_JUMPERS,2011
+Kyle Weaver,201602,3PT Jump Shot,2,1,THREE_POINT_JUMPERS,2011
+Kyle Weaver,201602,Driving Layup,2,0,LAYUPS,2011
+Kyle Weaver,201602,Standard Layup,1,1,LAYUPS,2011
+Kyle Weaver,201602,Tip Shot,1,0,TIP_SHOTS,2011

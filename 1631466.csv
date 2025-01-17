@@ -1,40 +1,32 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Jeenathan Williams,1631466,Cutting Layup Shot,2,2,2,Standard Layup,LAYUPS,2023
-Jeenathan Williams,1631466,Driving Bank Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2023
-Jeenathan Williams,1631466,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2023
-Jeenathan Williams,1631466,Driving Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2023
-Jeenathan Williams,1631466,Driving Layup Shot,2,7,7,Driving Layup,LAYUPS,2023
-Jeenathan Williams,1631466,Driving Reverse Layup Shot,2,2,2,Driving Layup,LAYUPS,2023
-Jeenathan Williams,1631466,Hook Bank Shot,2,1,0,Hook Shot,POST_MOVES,2023
-Jeenathan Williams,1631466,Jump Shot,2,8,3,2PT Jump Shot,TWO_POINT_JUMPERS,2023
-Jeenathan Williams,1631466,Layup Shot,2,3,1,Standard Layup,LAYUPS,2023
-Jeenathan Williams,1631466,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2023
-Jeenathan Williams,1631466,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2023
-Jeenathan Williams,1631466,Running Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2023
-Jeenathan Williams,1631466,Running Layup Shot,2,2,1,Standard Layup,LAYUPS,2023
-Jeenathan Williams,1631466,Tip Dunk Shot,2,3,3,Specialty Dunk,DUNKS,2023
-Jeenathan Williams,1631466,Tip Layup Shot,2,2,0,Putback Layup,LAYUPS,2023
-Jeenathan Williams,1631466,Turnaround Bank Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2023
-Nate Williams,1631466,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2024
-Nate Williams,1631466,Driving Finger Roll Layup Shot,2,3,3,Finger Roll,LAYUPS,2024
-Nate Williams,1631466,Driving Floating Jump Shot,2,5,1,2PT Floating Jump Shot,FLOATING_SHOTS,2024
-Nate Williams,1631466,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2024
-Nate Williams,1631466,Driving Layup Shot,2,9,3,Driving Layup,LAYUPS,2024
-Nate Williams,1631466,Driving Reverse Layup Shot,2,4,4,Driving Layup,LAYUPS,2024
-Nate Williams,1631466,Jump Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2024
-Nate Williams,1631466,Jump Shot,3,5,2,3PT Jump Shot,THREE_POINT_JUMPERS,2024
-Nate Williams,1631466,Layup Shot,2,5,3,Standard Layup,LAYUPS,2024
-Nate Williams,1631466,Putback Layup Shot,2,2,1,Putback Layup,LAYUPS,2024
-Nate Williams,1631466,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2024
-Nate Williams,1631466,Running Dunk Shot,2,3,3,Standard Dunk,DUNKS,2024
-Nate Williams,1631466,Running Layup Shot,2,4,1,Standard Layup,LAYUPS,2024
-Nate Williams,1631466,Tip Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2024
-Nate Williams,1631466,Tip Layup Shot,2,2,2,Putback Layup,LAYUPS,2024
-Nate Williams,1631466,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
-Nate Williams,1631466,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2024
-Nate Williams,1631466,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,2025
-Nate Williams,1631466,Jump Shot,3,2,2,3PT Jump Shot,THREE_POINT_JUMPERS,2025
-Nate Williams,1631466,Layup Shot,2,1,1,Standard Layup,LAYUPS,2025
-Nate Williams,1631466,Running Layup Shot,2,2,2,Standard Layup,LAYUPS,2025
-Nate Williams,1631466,Running Pull-Up Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
-Nate Williams,1631466,Step Back Jump shot,3,1,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Jeenathan Williams,1631466,2PT Jump Shot,8,3,TWO_POINT_JUMPERS,2023
+Jeenathan Williams,1631466,2PT Pullup Jump Shot,1,0,TWO_POINT_JUMPERS,2023
+Jeenathan Williams,1631466,Driving Dunk,2,2,DUNKS,2023
+Jeenathan Williams,1631466,Driving Hook Shot,1,0,POST_MOVES,2023
+Jeenathan Williams,1631466,Driving Layup,9,9,LAYUPS,2023
+Jeenathan Williams,1631466,Finger Roll,3,2,LAYUPS,2023
+Jeenathan Williams,1631466,Hook Shot,1,0,POST_MOVES,2023
+Jeenathan Williams,1631466,Putback Layup,2,0,LAYUPS,2023
+Jeenathan Williams,1631466,Specialty Dunk,3,3,DUNKS,2023
+Jeenathan Williams,1631466,Standard Dunk,1,1,DUNKS,2023
+Jeenathan Williams,1631466,Standard Layup,7,4,LAYUPS,2023
+Jeenathan Williams,1631466,Turnaround Hook Shot,1,0,POST_MOVES,2023
+Nate Williams,1631466,2PT Floating Jump Shot,5,1,FLOATING_SHOTS,2024
+Nate Williams,1631466,2PT Jump Shot,2,0,TWO_POINT_JUMPERS,2024
+Nate Williams,1631466,2PT Turnaround Jump Shot,1,0,TWO_POINT_JUMPERS,2024
+Nate Williams,1631466,3PT Jump Shot,5,2,THREE_POINT_JUMPERS,2024
+Nate Williams,1631466,Driving Dunk,1,1,DUNKS,2024
+Nate Williams,1631466,Driving Hook Shot,1,1,POST_MOVES,2024
+Nate Williams,1631466,Driving Layup,13,7,LAYUPS,2024
+Nate Williams,1631466,Finger Roll,3,3,LAYUPS,2024
+Nate Williams,1631466,Putback Layup,4,3,LAYUPS,2024
+Nate Williams,1631466,Reverse Layup,1,0,LAYUPS,2024
+Nate Williams,1631466,Specialty Dunk,1,1,DUNKS,2024
+Nate Williams,1631466,Standard Dunk,3,3,DUNKS,2024
+Nate Williams,1631466,Standard Layup,9,4,LAYUPS,2024
+Nate Williams,1631466,Turnaround Hook Shot,1,1,POST_MOVES,2024
+Nate Williams,1631466,3PT Jump Shot,2,2,THREE_POINT_JUMPERS,2025
+Nate Williams,1631466,3PT Running Jump Shot,1,0,THREE_POINT_JUMPERS,2025
+Nate Williams,1631466,3PT Step Back Jump Shot,1,0,THREE_POINT_JUMPERS,2025
+Nate Williams,1631466,Driving Layup,2,2,LAYUPS,2025
+Nate Williams,1631466,Standard Layup,3,3,LAYUPS,2025

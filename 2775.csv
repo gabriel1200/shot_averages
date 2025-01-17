@@ -1,19 +1,17 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Ha Ha,2775,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2005
-Ha Ha,2775,Dunk Shot,2,4,4,Standard Dunk,DUNKS,2005
-Ha Ha,2775,Hook Shot,2,4,1,Hook Shot,POST_MOVES,2005
-Ha Ha,2775,Jump Shot,2,5,1,2PT Jump Shot,TWO_POINT_JUMPERS,2005
-Ha Ha,2775,Layup Shot,2,6,4,Standard Layup,LAYUPS,2005
-Ha Ha,2775,Reverse Layup Shot,2,2,0,Reverse Layup,LAYUPS,2005
-Ha Ha,2775,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2005
-Ha Ha,2775,Driving Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2006
-Ha Ha,2775,Dunk Shot,2,8,6,Standard Dunk,DUNKS,2006
-Ha Ha,2775,Follow Up Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2006
-Ha Ha,2775,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2006
-Ha Ha,2775,Jump Hook Shot,2,1,0,Hook Shot,POST_MOVES,2006
-Ha Ha,2775,Jump Shot,2,3,0,2PT Jump Shot,TWO_POINT_JUMPERS,2006
-Ha Ha,2775,Layup Shot,2,9,4,Standard Layup,LAYUPS,2006
-Ha Ha,2775,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2006
-Ha Ha,2775,Slam Dunk Shot,2,3,3,Standard Dunk,DUNKS,2006
-Ha Ha,2775,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,2006
-Ha Ha,2775,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2006
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Ha Ha,2775,2PT Jump Shot,5,1,TWO_POINT_JUMPERS,2005
+Ha Ha,2775,2PT Turnaround Jump Shot,1,0,TWO_POINT_JUMPERS,2005
+Ha Ha,2775,Alley Oop Layup,1,0,LAYUPS,2005
+Ha Ha,2775,Hook Shot,4,1,POST_MOVES,2005
+Ha Ha,2775,Reverse Layup,2,0,LAYUPS,2005
+Ha Ha,2775,Standard Dunk,4,4,DUNKS,2005
+Ha Ha,2775,Standard Layup,6,4,LAYUPS,2005
+Ha Ha,2775,2PT Jump Shot,3,0,TWO_POINT_JUMPERS,2006
+Ha Ha,2775,Finger Roll,1,1,LAYUPS,2006
+Ha Ha,2775,Hook Shot,2,0,POST_MOVES,2006
+Ha Ha,2775,Reverse Layup,1,0,LAYUPS,2006
+Ha Ha,2775,Specialty Dunk,1,1,DUNKS,2006
+Ha Ha,2775,Standard Dunk,11,9,DUNKS,2006
+Ha Ha,2775,Standard Layup,9,4,LAYUPS,2006
+Ha Ha,2775,Tip Shot,2,2,TIP_SHOTS,2006
+Ha Ha,2775,Turnaround Hook Shot,1,1,POST_MOVES,2006

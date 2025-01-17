@@ -1,37 +1,27 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Ronald Holland II,1641842,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2025
-Ronald Holland II,1641842,Cutting Layup Shot,2,5,4,Standard Layup,LAYUPS,2025
-Ronald Holland II,1641842,Driving Dunk Shot,2,4,2,Driving Dunk,DUNKS,2025
-Ronald Holland II,1641842,Driving Finger Roll Layup Shot,2,3,1,Finger Roll,LAYUPS,2025
-Ronald Holland II,1641842,Driving Floating Bank Jump Shot,2,7,5,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Ronald Holland II,1641842,Driving Floating Jump Shot,2,15,7,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Ronald Holland II,1641842,Driving Floating Jump Shot,3,1,0,3PT Floating Jump Shot,FLOATING_SHOTS,2025
-Ronald Holland II,1641842,Driving Hook Shot,2,2,0,Driving Hook Shot,POST_MOVES,2025
-Ronald Holland II,1641842,Driving Layup Shot,2,30,14,Driving Layup,LAYUPS,2025
-Ronald Holland II,1641842,Driving Reverse Layup Shot,2,2,2,Driving Layup,LAYUPS,2025
-Ronald Holland II,1641842,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
-Ronald Holland II,1641842,Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2025
-Ronald Holland II,1641842,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Ronald Holland II,1641842,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2025
-Ronald Holland II,1641842,Jump Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2025
-Ronald Holland II,1641842,Jump Shot,3,63,15,3PT Jump Shot,THREE_POINT_JUMPERS,2025
-Ronald Holland II,1641842,Layup Shot,2,3,3,Standard Layup,LAYUPS,2025
-Ronald Holland II,1641842,Pullup Jump shot,2,5,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
-Ronald Holland II,1641842,Pullup Jump shot,3,8,2,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
-Ronald Holland II,1641842,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2025
-Ronald Holland II,1641842,Putback Layup Shot,2,5,4,Putback Layup,LAYUPS,2025
-Ronald Holland II,1641842,Running Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2025
-Ronald Holland II,1641842,Running Alley Oop Layup Shot,2,1,0,Alley Oop Layup,LAYUPS,2025
-Ronald Holland II,1641842,Running Dunk Shot,2,11,10,Standard Dunk,DUNKS,2025
-Ronald Holland II,1641842,Running Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2025
-Ronald Holland II,1641842,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
-Ronald Holland II,1641842,Running Layup Shot,2,19,17,Standard Layup,LAYUPS,2025
-Ronald Holland II,1641842,Running Pull-Up Jump Shot,3,2,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
-Ronald Holland II,1641842,Running Reverse Dunk Shot,2,1,1,Reverse Dunk,DUNKS,2025
-Ronald Holland II,1641842,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2025
-Ronald Holland II,1641842,Step Back Jump shot,2,2,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2025
-Ronald Holland II,1641842,Step Back Jump shot,3,4,1,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
-Ronald Holland II,1641842,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2025
-Ronald Holland II,1641842,Turnaround Bank shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
-Ronald Holland II,1641842,Turnaround Fadeaway shot,2,2,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
-Ronald Holland II,1641842,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Ronald Holland II,1641842,2PT Fadeaway Jump Shot,1,0,TWO_POINT_JUMPERS,2025
+Ronald Holland II,1641842,2PT Floating Jump Shot,23,13,FLOATING_SHOTS,2025
+Ronald Holland II,1641842,2PT Jump Shot,2,0,TWO_POINT_JUMPERS,2025
+Ronald Holland II,1641842,2PT Pullup Jump Shot,5,1,TWO_POINT_JUMPERS,2025
+Ronald Holland II,1641842,2PT Step Back Jump Shot,2,1,TWO_POINT_JUMPERS,2025
+Ronald Holland II,1641842,2PT Turnaround Jump Shot,4,3,TWO_POINT_JUMPERS,2025
+Ronald Holland II,1641842,3PT Floating Jump Shot,1,0,FLOATING_SHOTS,2025
+Ronald Holland II,1641842,3PT Jump Shot,65,15,THREE_POINT_JUMPERS,2025
+Ronald Holland II,1641842,3PT Pullup Jump Shot,8,2,THREE_POINT_JUMPERS,2025
+Ronald Holland II,1641842,3PT Running Jump Shot,3,0,THREE_POINT_JUMPERS,2025
+Ronald Holland II,1641842,3PT Step Back Jump Shot,4,1,THREE_POINT_JUMPERS,2025
+Ronald Holland II,1641842,Alley Oop Dunk,1,1,DUNKS,2025
+Ronald Holland II,1641842,Alley Oop Layup,1,0,LAYUPS,2025
+Ronald Holland II,1641842,Driving Dunk,4,2,DUNKS,2025
+Ronald Holland II,1641842,Driving Hook Shot,2,0,POST_MOVES,2025
+Ronald Holland II,1641842,Driving Layup,32,16,LAYUPS,2025
+Ronald Holland II,1641842,Finger Roll,6,3,LAYUPS,2025
+Ronald Holland II,1641842,Hook Shot,1,0,POST_MOVES,2025
+Ronald Holland II,1641842,Putback Dunk,1,1,DUNKS,2025
+Ronald Holland II,1641842,Putback Layup,6,5,LAYUPS,2025
+Ronald Holland II,1641842,Reverse Dunk,1,1,DUNKS,2025
+Ronald Holland II,1641842,Reverse Layup,1,1,LAYUPS,2025
+Ronald Holland II,1641842,Specialty Dunk,1,1,DUNKS,2025
+Ronald Holland II,1641842,Standard Dunk,11,10,DUNKS,2025
+Ronald Holland II,1641842,Standard Layup,29,25,LAYUPS,2025
+Ronald Holland II,1641842,Turnaround Hook Shot,1,1,POST_MOVES,2025

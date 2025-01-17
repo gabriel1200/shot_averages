@@ -1,38 +1,30 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Killian Tillie,1629681,Cutting Layup Shot,2,1,0,Standard Layup,LAYUPS,2021
-Killian Tillie,1629681,Driving Bank Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2021
-Killian Tillie,1629681,Driving Floating Bank Jump Shot,2,2,0,2PT Floating Jump Shot,FLOATING_SHOTS,2021
-Killian Tillie,1629681,Driving Floating Jump Shot,2,3,2,2PT Floating Jump Shot,FLOATING_SHOTS,2021
-Killian Tillie,1629681,Driving Layup Shot,2,3,2,Driving Layup,LAYUPS,2021
-Killian Tillie,1629681,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2021
-Killian Tillie,1629681,Hook Shot,2,2,1,Hook Shot,POST_MOVES,2021
-Killian Tillie,1629681,Jump Shot,2,31,7,2PT Jump Shot,TWO_POINT_JUMPERS,2021
-Killian Tillie,1629681,Layup Shot,2,1,0,Standard Layup,LAYUPS,2021
-Killian Tillie,1629681,Pullup Jump shot,2,3,3,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2021
-Killian Tillie,1629681,Running Jump Shot,2,3,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2021
-Killian Tillie,1629681,Running Layup Shot,2,3,1,Standard Layup,LAYUPS,2021
-Killian Tillie,1629681,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2021
-Killian Tillie,1629681,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,2021
-Killian Tillie,1629681,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2022
-Killian Tillie,1629681,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2022
-Killian Tillie,1629681,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2022
-Killian Tillie,1629681,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2022
-Killian Tillie,1629681,Driving Floating Bank Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2022
-Killian Tillie,1629681,Driving Floating Jump Shot,2,9,4,2PT Floating Jump Shot,FLOATING_SHOTS,2022
-Killian Tillie,1629681,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2022
-Killian Tillie,1629681,Driving Layup Shot,2,7,1,Driving Layup,LAYUPS,2022
-Killian Tillie,1629681,Fadeaway Jump Shot,2,2,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2022
-Killian Tillie,1629681,Floating Jump shot,2,5,1,2PT Floating Jump Shot,FLOATING_SHOTS,2022
-Killian Tillie,1629681,Jump Bank Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2022
-Killian Tillie,1629681,Jump Shot,2,77,24,2PT Jump Shot,TWO_POINT_JUMPERS,2022
-Killian Tillie,1629681,Jump Shot,3,3,2,3PT Jump Shot,THREE_POINT_JUMPERS,2022
-Killian Tillie,1629681,Layup Shot,2,4,1,Standard Layup,LAYUPS,2022
-Killian Tillie,1629681,Pullup Jump shot,2,3,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2022
-Killian Tillie,1629681,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2022
-Killian Tillie,1629681,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2022
-Killian Tillie,1629681,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2022
-Killian Tillie,1629681,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2022
-Killian Tillie,1629681,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2022
-Killian Tillie,1629681,Step Back Jump shot,3,1,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2022
-Killian Tillie,1629681,Tip Layup Shot,2,2,2,Putback Layup,LAYUPS,2022
-Killian Tillie,1629681,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2022
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Killian Tillie,1629681,2PT Fadeaway Jump Shot,1,0,TWO_POINT_JUMPERS,2021
+Killian Tillie,1629681,2PT Floating Jump Shot,5,2,FLOATING_SHOTS,2021
+Killian Tillie,1629681,2PT Jump Shot,31,7,TWO_POINT_JUMPERS,2021
+Killian Tillie,1629681,2PT Pullup Jump Shot,3,3,TWO_POINT_JUMPERS,2021
+Killian Tillie,1629681,2PT Running Jump Shot,3,2,TWO_POINT_JUMPERS,2021
+Killian Tillie,1629681,Driving Hook Shot,1,0,POST_MOVES,2021
+Killian Tillie,1629681,Driving Layup,3,2,LAYUPS,2021
+Killian Tillie,1629681,Hook Shot,2,1,POST_MOVES,2021
+Killian Tillie,1629681,Putback Layup,1,0,LAYUPS,2021
+Killian Tillie,1629681,Standard Layup,5,1,LAYUPS,2021
+Killian Tillie,1629681,Turnaround Hook Shot,2,1,POST_MOVES,2021
+Killian Tillie,1629681,2PT Fadeaway Jump Shot,2,1,TWO_POINT_JUMPERS,2022
+Killian Tillie,1629681,2PT Floating Jump Shot,15,6,FLOATING_SHOTS,2022
+Killian Tillie,1629681,2PT Jump Shot,79,24,TWO_POINT_JUMPERS,2022
+Killian Tillie,1629681,2PT Pullup Jump Shot,3,1,TWO_POINT_JUMPERS,2022
+Killian Tillie,1629681,2PT Running Jump Shot,1,0,TWO_POINT_JUMPERS,2022
+Killian Tillie,1629681,2PT Step Back Jump Shot,1,0,TWO_POINT_JUMPERS,2022
+Killian Tillie,1629681,2PT Turnaround Jump Shot,1,0,TWO_POINT_JUMPERS,2022
+Killian Tillie,1629681,3PT Jump Shot,3,2,THREE_POINT_JUMPERS,2022
+Killian Tillie,1629681,3PT Step Back Jump Shot,1,0,THREE_POINT_JUMPERS,2022
+Killian Tillie,1629681,Alley Oop Layup,1,0,LAYUPS,2022
+Killian Tillie,1629681,Driving Dunk,1,1,DUNKS,2022
+Killian Tillie,1629681,Driving Hook Shot,1,0,POST_MOVES,2022
+Killian Tillie,1629681,Driving Layup,7,1,LAYUPS,2022
+Killian Tillie,1629681,Finger Roll,1,1,LAYUPS,2022
+Killian Tillie,1629681,Putback Layup,2,2,LAYUPS,2022
+Killian Tillie,1629681,Specialty Dunk,1,1,DUNKS,2022
+Killian Tillie,1629681,Standard Dunk,1,1,DUNKS,2022
+Killian Tillie,1629681,Standard Layup,6,2,LAYUPS,2022

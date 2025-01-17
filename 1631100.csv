@@ -1,46 +1,31 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-AJ Griffin,1631100,Alley Oop Layup shot,2,2,2,Alley Oop Layup,LAYUPS,2023
-AJ Griffin,1631100,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2023
-AJ Griffin,1631100,Cutting Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2023
-AJ Griffin,1631100,Cutting Layup Shot,2,8,5,Standard Layup,LAYUPS,2023
-AJ Griffin,1631100,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2023
-AJ Griffin,1631100,Driving Finger Roll Layup Shot,2,7,2,Finger Roll,LAYUPS,2023
-AJ Griffin,1631100,Driving Floating Bank Jump Shot,2,2,2,2PT Floating Jump Shot,FLOATING_SHOTS,2023
-AJ Griffin,1631100,Driving Floating Jump Shot,2,65,36,2PT Floating Jump Shot,FLOATING_SHOTS,2023
-AJ Griffin,1631100,Driving Layup Shot,2,21,9,Driving Layup,LAYUPS,2023
-AJ Griffin,1631100,Driving Reverse Layup Shot,2,2,1,Driving Layup,LAYUPS,2023
-AJ Griffin,1631100,Fadeaway Jump Shot,2,2,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2023
-AJ Griffin,1631100,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2023
-AJ Griffin,1631100,Floating Jump shot,2,32,17,2PT Floating Jump Shot,FLOATING_SHOTS,2023
-AJ Griffin,1631100,Jump Shot,2,190,70,2PT Jump Shot,TWO_POINT_JUMPERS,2023
-AJ Griffin,1631100,Layup Shot,2,6,2,Standard Layup,LAYUPS,2023
-AJ Griffin,1631100,Pullup Jump shot,2,89,45,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2023
-AJ Griffin,1631100,Putback Layup Shot,2,2,1,Putback Layup,LAYUPS,2023
-AJ Griffin,1631100,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2023
-AJ Griffin,1631100,Running Dunk Shot,2,7,7,Standard Dunk,DUNKS,2023
-AJ Griffin,1631100,Running Jump Shot,2,19,6,2PT Running Jump Shot,TWO_POINT_JUMPERS,2023
-AJ Griffin,1631100,Running Layup Shot,2,10,8,Standard Layup,LAYUPS,2023
-AJ Griffin,1631100,Running Pull-Up Jump Shot,2,7,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2023
-AJ Griffin,1631100,Step Back Jump shot,2,28,10,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2023
-AJ Griffin,1631100,Tip Layup Shot,2,6,5,Putback Layup,LAYUPS,2023
-AJ Griffin,1631100,Turnaround Fadeaway shot,2,6,3,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2023
-AJ Griffin,1631100,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,2023
-AJ Griffin,1631100,Turnaround Jump Shot,2,15,7,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2023
-AJ Griffin,1631100,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2024
-AJ Griffin,1631100,Driving Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2024
-AJ Griffin,1631100,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2024
-AJ Griffin,1631100,Driving Floating Jump Shot,2,7,1,2PT Floating Jump Shot,FLOATING_SHOTS,2024
-AJ Griffin,1631100,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2024
-AJ Griffin,1631100,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2024
-AJ Griffin,1631100,Jump Shot,3,20,5,3PT Jump Shot,THREE_POINT_JUMPERS,2024
-AJ Griffin,1631100,Layup Shot,2,1,0,Standard Layup,LAYUPS,2024
-AJ Griffin,1631100,Pullup Jump shot,2,4,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2024
-AJ Griffin,1631100,Pullup Jump shot,3,4,3,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
-AJ Griffin,1631100,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2024
-AJ Griffin,1631100,Running Jump Shot,3,2,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
-AJ Griffin,1631100,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2024
-AJ Griffin,1631100,Running Pull-Up Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2024
-AJ Griffin,1631100,Running Pull-Up Jump Shot,3,6,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
-AJ Griffin,1631100,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2024
-AJ Griffin,1631100,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2024
-AJ Griffin,1631100,Step Back Jump shot,3,7,1,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+AJ Griffin,1631100,2PT Fadeaway Jump Shot,2,1,TWO_POINT_JUMPERS,2023
+AJ Griffin,1631100,2PT Floating Jump Shot,99,55,FLOATING_SHOTS,2023
+AJ Griffin,1631100,2PT Jump Shot,190,70,TWO_POINT_JUMPERS,2023
+AJ Griffin,1631100,2PT Pullup Jump Shot,89,45,TWO_POINT_JUMPERS,2023
+AJ Griffin,1631100,2PT Running Jump Shot,26,9,TWO_POINT_JUMPERS,2023
+AJ Griffin,1631100,2PT Step Back Jump Shot,28,10,TWO_POINT_JUMPERS,2023
+AJ Griffin,1631100,2PT Turnaround Jump Shot,21,10,TWO_POINT_JUMPERS,2023
+AJ Griffin,1631100,Alley Oop Layup,2,2,LAYUPS,2023
+AJ Griffin,1631100,Driving Dunk,1,1,DUNKS,2023
+AJ Griffin,1631100,Driving Layup,23,10,LAYUPS,2023
+AJ Griffin,1631100,Finger Roll,9,4,LAYUPS,2023
+AJ Griffin,1631100,Putback Layup,8,6,LAYUPS,2023
+AJ Griffin,1631100,Reverse Layup,1,1,LAYUPS,2023
+AJ Griffin,1631100,Specialty Dunk,1,1,DUNKS,2023
+AJ Griffin,1631100,Standard Dunk,7,7,DUNKS,2023
+AJ Griffin,1631100,Standard Layup,24,15,LAYUPS,2023
+AJ Griffin,1631100,Turnaround Hook Shot,2,1,POST_MOVES,2023
+AJ Griffin,1631100,2PT Floating Jump Shot,9,2,FLOATING_SHOTS,2024
+AJ Griffin,1631100,2PT Pullup Jump Shot,4,2,TWO_POINT_JUMPERS,2024
+AJ Griffin,1631100,2PT Running Jump Shot,2,1,TWO_POINT_JUMPERS,2024
+AJ Griffin,1631100,2PT Step Back Jump Shot,1,0,TWO_POINT_JUMPERS,2024
+AJ Griffin,1631100,3PT Jump Shot,20,5,THREE_POINT_JUMPERS,2024
+AJ Griffin,1631100,3PT Pullup Jump Shot,4,3,THREE_POINT_JUMPERS,2024
+AJ Griffin,1631100,3PT Running Jump Shot,8,1,THREE_POINT_JUMPERS,2024
+AJ Griffin,1631100,3PT Step Back Jump Shot,7,1,THREE_POINT_JUMPERS,2024
+AJ Griffin,1631100,Driving Layup,1,0,LAYUPS,2024
+AJ Griffin,1631100,Finger Roll,2,1,LAYUPS,2024
+AJ Griffin,1631100,Reverse Layup,1,1,LAYUPS,2024
+AJ Griffin,1631100,Specialty Dunk,1,1,DUNKS,2024
+AJ Griffin,1631100,Standard Layup,2,0,LAYUPS,2024

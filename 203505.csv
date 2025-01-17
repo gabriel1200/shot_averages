@@ -1,18 +1,16 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Vander Blue,203505,Driving Bank shot,2,1,1,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2014
-Vander Blue,203505,Jump Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2014
-Vander Blue,203505,Layup Shot,2,1,1,Standard Layup,LAYUPS,2014
-Vander Blue,203505,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2015
-Vander Blue,203505,Driving Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2015
-Vander Blue,203505,Driving Layup Shot,2,4,4,Driving Layup,LAYUPS,2015
-Vander Blue,203505,Jump Shot,2,14,2,2PT Jump Shot,TWO_POINT_JUMPERS,2015
-Vander Blue,203505,Layup Shot,2,5,0,Standard Layup,LAYUPS,2015
-Vander Blue,203505,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2015
-Vander Blue,203505,Running Bank shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2015
-Vander Blue,203505,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2015
-Vander Blue,203505,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2015
-Vander Blue,203505,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2015
-Vander Blue,203505,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2018
-Vander Blue,203505,Jump Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2018
-Vander Blue,203505,Layup Shot,2,1,0,Standard Layup,LAYUPS,2018
-Vander Blue,203505,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2018
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Vander Blue,203505,2PT Driving Jump Shot,1,1,TWO_POINT_JUMPERS,2014
+Vander Blue,203505,2PT Jump Shot,2,0,TWO_POINT_JUMPERS,2014
+Vander Blue,203505,Standard Layup,1,1,LAYUPS,2014
+Vander Blue,203505,2PT Jump Shot,14,2,TWO_POINT_JUMPERS,2015
+Vander Blue,203505,2PT Pullup Jump Shot,1,0,TWO_POINT_JUMPERS,2015
+Vander Blue,203505,2PT Running Jump Shot,2,1,TWO_POINT_JUMPERS,2015
+Vander Blue,203505,2PT Turnaround Jump Shot,1,1,TWO_POINT_JUMPERS,2015
+Vander Blue,203505,Driving Dunk,1,1,DUNKS,2015
+Vander Blue,203505,Driving Layup,4,4,LAYUPS,2015
+Vander Blue,203505,Finger Roll,1,0,LAYUPS,2015
+Vander Blue,203505,Standard Layup,5,0,LAYUPS,2015
+Vander Blue,203505,Tip Shot,1,0,TIP_SHOTS,2015
+Vander Blue,203505,2PT Jump Shot,2,0,TWO_POINT_JUMPERS,2018
+Vander Blue,203505,Driving Layup,1,1,LAYUPS,2018
+Vander Blue,203505,Standard Layup,2,0,LAYUPS,2018

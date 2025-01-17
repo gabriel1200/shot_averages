@@ -1,7 +1,6 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-David Vanterpool,2128,Driving Layup Shot,2,8,6,Driving Layup,LAYUPS,2001
-David Vanterpool,2128,Jump Shot,2,70,18,2PT Jump Shot,TWO_POINT_JUMPERS,2001
-David Vanterpool,2128,Layup Shot,2,22,12,Standard Layup,LAYUPS,2001
-David Vanterpool,2128,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2001
-David Vanterpool,2128,Running Jump Shot,2,3,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
-David Vanterpool,2128,Running Layup Shot,2,6,6,Standard Layup,LAYUPS,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+David Vanterpool,2128,2PT Jump Shot,70,18,TWO_POINT_JUMPERS,2001
+David Vanterpool,2128,2PT Running Jump Shot,3,3,TWO_POINT_JUMPERS,2001
+David Vanterpool,2128,Driving Layup,8,6,LAYUPS,2001
+David Vanterpool,2128,Reverse Layup,1,1,LAYUPS,2001
+David Vanterpool,2128,Standard Layup,28,18,LAYUPS,2001

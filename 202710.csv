@@ -1,500 +1,280 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Jimmy Butler,202710,Alley Oop Dunk Shot,2,2,1,Alley Oop Dunk,DUNKS,2012
-Jimmy Butler,202710,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2012
-Jimmy Butler,202710,Driving Layup Shot,2,6,3,Driving Layup,LAYUPS,2012
-Jimmy Butler,202710,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2012
-Jimmy Butler,202710,Dunk Shot,2,1,0,Standard Dunk,DUNKS,2012
-Jimmy Butler,202710,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2012
-Jimmy Butler,202710,Jump Bank Shot,2,2,1,2PT Jump Shot,TWO_POINT_JUMPERS,2012
-Jimmy Butler,202710,Jump Shot,2,40,11,2PT Jump Shot,TWO_POINT_JUMPERS,2012
-Jimmy Butler,202710,Layup Shot,2,11,4,Standard Layup,LAYUPS,2012
-Jimmy Butler,202710,Pullup Jump shot,2,2,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2012
-Jimmy Butler,202710,Putback Layup Shot,2,2,2,Putback Layup,LAYUPS,2012
-Jimmy Butler,202710,Reverse Layup Shot,2,3,1,Reverse Layup,LAYUPS,2012
-Jimmy Butler,202710,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2012
-Jimmy Butler,202710,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2012
-Jimmy Butler,202710,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,2012
-Jimmy Butler,202710,Turnaround Fadeaway shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2012
-Jimmy Butler,202710,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2012
-Jimmy Butler,202710,Alley Oop Dunk Shot,2,11,10,Alley Oop Dunk,DUNKS,2013
-Jimmy Butler,202710,Alley Oop Layup shot,2,4,4,Alley Oop Layup,LAYUPS,2013
-Jimmy Butler,202710,Driving Dunk Shot,2,4,3,Driving Dunk,DUNKS,2013
-Jimmy Butler,202710,Driving Jump shot,2,1,0,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2013
-Jimmy Butler,202710,Driving Layup Shot,2,31,20,Driving Layup,LAYUPS,2013
-Jimmy Butler,202710,Driving Reverse Layup Shot,2,3,2,Driving Layup,LAYUPS,2013
-Jimmy Butler,202710,Dunk Shot,2,9,9,Standard Dunk,DUNKS,2013
-Jimmy Butler,202710,Fadeaway Jump Shot,2,4,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2013
-Jimmy Butler,202710,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2013
-Jimmy Butler,202710,Jump Bank Shot,2,2,1,2PT Jump Shot,TWO_POINT_JUMPERS,2013
-Jimmy Butler,202710,Jump Shot,2,265,83,2PT Jump Shot,TWO_POINT_JUMPERS,2013
-Jimmy Butler,202710,Layup Shot,2,81,39,Standard Layup,LAYUPS,2013
-Jimmy Butler,202710,Pullup Jump shot,2,11,6,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2013
-Jimmy Butler,202710,Putback Dunk Shot,2,5,5,Putback Dunk,DUNKS,2013
-Jimmy Butler,202710,Putback Layup Shot,2,15,13,Putback Layup,LAYUPS,2013
-Jimmy Butler,202710,Putback Slam Dunk Shot,2,1,1,Putback Dunk,DUNKS,2013
-Jimmy Butler,202710,Reverse Layup Shot,2,9,6,Reverse Layup,LAYUPS,2013
-Jimmy Butler,202710,Running Bank shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2013
-Jimmy Butler,202710,Running Dunk Shot,2,3,3,Standard Dunk,DUNKS,2013
-Jimmy Butler,202710,Running Jump Shot,2,6,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2013
-Jimmy Butler,202710,Running Layup Shot,2,7,6,Standard Layup,LAYUPS,2013
-Jimmy Butler,202710,Running Slam Dunk Shot,2,4,4,Standard Dunk,DUNKS,2013
-Jimmy Butler,202710,Slam Dunk Shot,2,10,10,Standard Dunk,DUNKS,2013
-Jimmy Butler,202710,Step Back Jump shot,2,3,2,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2013
-Jimmy Butler,202710,Tip Shot,2,13,6,Tip Shot,TIP_SHOTS,2013
-Jimmy Butler,202710,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2013
-Jimmy Butler,202710,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2013
-Jimmy Butler,202710,Turnaround Jump Shot,2,5,4,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2013
-Jimmy Butler,202710,Alley Oop Dunk Shot,2,4,4,Alley Oop Dunk,DUNKS,2014
-Jimmy Butler,202710,Alley Oop Layup shot,2,4,2,Alley Oop Layup,LAYUPS,2014
-Jimmy Butler,202710,Driving Jump shot,2,1,0,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2014
-Jimmy Butler,202710,Driving Layup Shot,2,40,26,Driving Layup,LAYUPS,2014
-Jimmy Butler,202710,Driving Reverse Layup Shot,2,6,3,Driving Layup,LAYUPS,2014
-Jimmy Butler,202710,Dunk Shot,2,12,11,Standard Dunk,DUNKS,2014
-Jimmy Butler,202710,Fadeaway Bank shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2014
-Jimmy Butler,202710,Fadeaway Jump Shot,2,2,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2014
-Jimmy Butler,202710,Floating Jump shot,2,4,1,2PT Floating Jump Shot,FLOATING_SHOTS,2014
-Jimmy Butler,202710,Jump Bank Shot,2,2,1,2PT Jump Shot,TWO_POINT_JUMPERS,2014
-Jimmy Butler,202710,Jump Shot,2,438,128,2PT Jump Shot,TWO_POINT_JUMPERS,2014
-Jimmy Butler,202710,Layup Shot,2,98,50,Standard Layup,LAYUPS,2014
-Jimmy Butler,202710,Pullup Jump shot,2,10,7,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2014
-Jimmy Butler,202710,Putback Dunk Shot,2,2,2,Putback Dunk,DUNKS,2014
-Jimmy Butler,202710,Putback Layup Shot,2,9,7,Putback Layup,LAYUPS,2014
-Jimmy Butler,202710,Putback Slam Dunk Shot,2,1,1,Putback Dunk,DUNKS,2014
-Jimmy Butler,202710,Reverse Layup Shot,2,7,5,Reverse Layup,LAYUPS,2014
-Jimmy Butler,202710,Running Bank shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2014
-Jimmy Butler,202710,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2014
-Jimmy Butler,202710,Running Jump Shot,2,2,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2014
-Jimmy Butler,202710,Running Layup Shot,2,15,4,Standard Layup,LAYUPS,2014
-Jimmy Butler,202710,Running Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2014
-Jimmy Butler,202710,Running Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2014
-Jimmy Butler,202710,Slam Dunk Shot,2,8,8,Standard Dunk,DUNKS,2014
-Jimmy Butler,202710,Step Back Jump shot,2,4,2,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2014
-Jimmy Butler,202710,Tip Shot,2,11,3,Tip Shot,TIP_SHOTS,2014
-Jimmy Butler,202710,Turnaround Fadeaway shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2014
-Jimmy Butler,202710,Turnaround Jump Shot,2,4,3,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2014
-Jimmy Butler,202710,Alley Oop Dunk Shot,2,9,6,Alley Oop Dunk,DUNKS,2015
-Jimmy Butler,202710,Alley Oop Layup shot,2,15,11,Alley Oop Layup,LAYUPS,2015
-Jimmy Butler,202710,Driving Bank shot,2,1,1,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2015
-Jimmy Butler,202710,Driving Dunk Shot,2,8,8,Driving Dunk,DUNKS,2015
-Jimmy Butler,202710,Driving Jump shot,2,6,1,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2015
-Jimmy Butler,202710,Driving Layup Shot,2,49,35,Driving Layup,LAYUPS,2015
-Jimmy Butler,202710,Driving Reverse Layup Shot,2,10,4,Driving Layup,LAYUPS,2015
-Jimmy Butler,202710,Driving Slam Dunk Shot,2,1,1,Driving Dunk,DUNKS,2015
-Jimmy Butler,202710,Dunk Shot,2,17,16,Standard Dunk,DUNKS,2015
-Jimmy Butler,202710,Fadeaway Jump Shot,2,12,3,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2015
-Jimmy Butler,202710,Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2015
-Jimmy Butler,202710,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2015
-Jimmy Butler,202710,Jump Bank Shot,2,9,7,2PT Jump Shot,TWO_POINT_JUMPERS,2015
-Jimmy Butler,202710,Jump Shot,2,472,156,2PT Jump Shot,TWO_POINT_JUMPERS,2015
-Jimmy Butler,202710,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2015
-Jimmy Butler,202710,Layup Shot,2,116,57,Standard Layup,LAYUPS,2015
-Jimmy Butler,202710,Pullup Bank shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2015
-Jimmy Butler,202710,Pullup Jump shot,2,21,15,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2015
-Jimmy Butler,202710,Putback Dunk Shot,2,3,3,Putback Dunk,DUNKS,2015
-Jimmy Butler,202710,Putback Layup Shot,2,13,8,Putback Layup,LAYUPS,2015
-Jimmy Butler,202710,Putback Slam Dunk Shot,2,2,2,Putback Dunk,DUNKS,2015
-Jimmy Butler,202710,Reverse Layup Shot,2,13,11,Reverse Layup,LAYUPS,2015
-Jimmy Butler,202710,Running Bank shot,2,4,4,2PT Running Jump Shot,TWO_POINT_JUMPERS,2015
-Jimmy Butler,202710,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2015
-Jimmy Butler,202710,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2015
-Jimmy Butler,202710,Running Jump Shot,2,15,5,2PT Running Jump Shot,TWO_POINT_JUMPERS,2015
-Jimmy Butler,202710,Running Layup Shot,2,35,11,Standard Layup,LAYUPS,2015
-Jimmy Butler,202710,Running Reverse Layup Shot,2,5,3,Reverse Layup,LAYUPS,2015
-Jimmy Butler,202710,Running Slam Dunk Shot,2,5,5,Standard Dunk,DUNKS,2015
-Jimmy Butler,202710,Running Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2015
-Jimmy Butler,202710,Slam Dunk Shot,2,7,7,Standard Dunk,DUNKS,2015
-Jimmy Butler,202710,Step Back Jump shot,2,15,8,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2015
-Jimmy Butler,202710,Tip Shot,2,12,6,Tip Shot,TIP_SHOTS,2015
-Jimmy Butler,202710,Turnaround Bank shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2015
-Jimmy Butler,202710,Turnaround Fadeaway shot,2,11,10,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2015
-Jimmy Butler,202710,Turnaround Jump Shot,2,17,10,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2015
-Jimmy Butler,202710,Alley Oop Dunk Shot,2,30,28,Alley Oop Dunk,DUNKS,2016
-Jimmy Butler,202710,Alley Oop Layup shot,2,20,14,Alley Oop Layup,LAYUPS,2016
-Jimmy Butler,202710,Cutting Dunk Shot,2,12,11,Specialty Dunk,DUNKS,2016
-Jimmy Butler,202710,Cutting Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2016
-Jimmy Butler,202710,Cutting Layup Shot,2,18,14,Standard Layup,LAYUPS,2016
-Jimmy Butler,202710,Driving Bank shot,2,5,4,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2016
-Jimmy Butler,202710,Driving Dunk Shot,2,7,7,Driving Dunk,DUNKS,2016
-Jimmy Butler,202710,Driving Finger Roll Layup Shot,2,3,3,Finger Roll,LAYUPS,2016
-Jimmy Butler,202710,Driving Floating Bank Jump Shot,2,7,4,2PT Floating Jump Shot,FLOATING_SHOTS,2016
-Jimmy Butler,202710,Driving Floating Jump Shot,2,9,1,2PT Floating Jump Shot,FLOATING_SHOTS,2016
-Jimmy Butler,202710,Driving Hook Shot,2,2,0,Driving Hook Shot,POST_MOVES,2016
-Jimmy Butler,202710,Driving Layup Shot,2,92,58,Driving Layup,LAYUPS,2016
-Jimmy Butler,202710,Driving Reverse Layup Shot,2,18,10,Driving Layup,LAYUPS,2016
-Jimmy Butler,202710,Dunk Shot,2,10,10,Standard Dunk,DUNKS,2016
-Jimmy Butler,202710,Fadeaway Bank shot,2,2,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2016
-Jimmy Butler,202710,Fadeaway Jump Shot,2,22,13,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2016
-Jimmy Butler,202710,Floating Jump shot,2,6,3,2PT Floating Jump Shot,FLOATING_SHOTS,2016
-Jimmy Butler,202710,Hook Shot,2,3,2,Hook Shot,POST_MOVES,2016
-Jimmy Butler,202710,Jump Bank Shot,2,12,8,2PT Jump Shot,TWO_POINT_JUMPERS,2016
-Jimmy Butler,202710,Jump Shot,2,469,133,2PT Jump Shot,TWO_POINT_JUMPERS,2016
-Jimmy Butler,202710,Jump Shot,3,3,0,3PT Jump Shot,THREE_POINT_JUMPERS,2016
-Jimmy Butler,202710,Layup Shot,2,63,27,Standard Layup,LAYUPS,2016
-Jimmy Butler,202710,Pullup Bank shot,2,7,3,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2016
-Jimmy Butler,202710,Pullup Jump shot,2,70,39,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2016
-Jimmy Butler,202710,Putback Dunk Shot,2,2,2,Putback Dunk,DUNKS,2016
-Jimmy Butler,202710,Putback Layup Shot,2,6,5,Putback Layup,LAYUPS,2016
-Jimmy Butler,202710,Reverse Layup Shot,2,6,3,Reverse Layup,LAYUPS,2016
-Jimmy Butler,202710,Running Dunk Shot,2,11,11,Standard Dunk,DUNKS,2016
-Jimmy Butler,202710,Running Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2016
-Jimmy Butler,202710,Running Jump Shot,2,4,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2016
-Jimmy Butler,202710,Running Layup Shot,2,20,14,Standard Layup,LAYUPS,2016
-Jimmy Butler,202710,Running Pull-Up Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2016
-Jimmy Butler,202710,Running Reverse Layup Shot,2,3,0,Reverse Layup,LAYUPS,2016
-Jimmy Butler,202710,Step Back Bank Jump Shot,2,1,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2016
-Jimmy Butler,202710,Step Back Jump shot,2,27,10,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2016
-Jimmy Butler,202710,Tip Dunk Shot,2,2,1,Specialty Dunk,DUNKS,2016
-Jimmy Butler,202710,Tip Layup Shot,2,11,6,Putback Layup,LAYUPS,2016
-Jimmy Butler,202710,Turnaround Bank shot,2,2,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2016
-Jimmy Butler,202710,Turnaround Fadeaway shot,2,22,7,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2016
-Jimmy Butler,202710,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2016
-Jimmy Butler,202710,Turnaround Jump Shot,2,23,11,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2016
-Jimmy Butler,202710,Alley Oop Dunk Shot,2,16,14,Alley Oop Dunk,DUNKS,2017
-Jimmy Butler,202710,Alley Oop Layup shot,2,16,11,Alley Oop Layup,LAYUPS,2017
-Jimmy Butler,202710,Cutting Dunk Shot,2,6,5,Specialty Dunk,DUNKS,2017
-Jimmy Butler,202710,Cutting Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2017
-Jimmy Butler,202710,Cutting Layup Shot,2,13,11,Standard Layup,LAYUPS,2017
-Jimmy Butler,202710,Driving Bank Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2017
-Jimmy Butler,202710,Driving Bank shot,2,10,7,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2017
-Jimmy Butler,202710,Driving Dunk Shot,2,7,7,Driving Dunk,DUNKS,2017
-Jimmy Butler,202710,Driving Finger Roll Layup Shot,2,7,7,Finger Roll,LAYUPS,2017
-Jimmy Butler,202710,Driving Floating Bank Jump Shot,2,5,5,2PT Floating Jump Shot,FLOATING_SHOTS,2017
-Jimmy Butler,202710,Driving Floating Jump Shot,2,16,10,2PT Floating Jump Shot,FLOATING_SHOTS,2017
-Jimmy Butler,202710,Driving Layup Shot,2,122,60,Driving Layup,LAYUPS,2017
-Jimmy Butler,202710,Driving Reverse Layup Shot,2,25,17,Driving Layup,LAYUPS,2017
-Jimmy Butler,202710,Dunk Shot,2,7,7,Standard Dunk,DUNKS,2017
-Jimmy Butler,202710,Fadeaway Bank shot,2,3,2,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2017
-Jimmy Butler,202710,Fadeaway Jump Shot,2,52,18,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2017
-Jimmy Butler,202710,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2017
-Jimmy Butler,202710,Floating Jump shot,2,13,7,2PT Floating Jump Shot,FLOATING_SHOTS,2017
-Jimmy Butler,202710,Hook Shot,2,3,1,Hook Shot,POST_MOVES,2017
-Jimmy Butler,202710,Jump Bank Shot,2,17,11,2PT Jump Shot,TWO_POINT_JUMPERS,2017
-Jimmy Butler,202710,Jump Shot,2,495,147,2PT Jump Shot,TWO_POINT_JUMPERS,2017
-Jimmy Butler,202710,Layup Shot,2,77,37,Standard Layup,LAYUPS,2017
-Jimmy Butler,202710,Pullup Bank shot,2,10,6,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2017
-Jimmy Butler,202710,Pullup Jump shot,2,143,72,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2017
-Jimmy Butler,202710,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2017
-Jimmy Butler,202710,Putback Layup Shot,2,11,8,Putback Layup,LAYUPS,2017
-Jimmy Butler,202710,Reverse Layup Shot,2,5,3,Reverse Layup,LAYUPS,2017
-Jimmy Butler,202710,Running Alley Oop Dunk Shot,2,2,2,Alley Oop Dunk,DUNKS,2017
-Jimmy Butler,202710,Running Dunk Shot,2,8,8,Standard Dunk,DUNKS,2017
-Jimmy Butler,202710,Running Finger Roll Layup Shot,2,4,4,Finger Roll,LAYUPS,2017
-Jimmy Butler,202710,Running Jump Shot,2,11,8,2PT Running Jump Shot,TWO_POINT_JUMPERS,2017
-Jimmy Butler,202710,Running Layup Shot,2,14,9,Standard Layup,LAYUPS,2017
-Jimmy Butler,202710,Running Pull-Up Jump Shot,2,3,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2017
-Jimmy Butler,202710,Step Back Bank Jump Shot,2,1,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2017
-Jimmy Butler,202710,Step Back Jump shot,2,45,23,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2017
-Jimmy Butler,202710,Tip Layup Shot,2,23,13,Putback Layup,LAYUPS,2017
-Jimmy Butler,202710,Turnaround Bank shot,2,6,3,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2017
-Jimmy Butler,202710,Turnaround Fadeaway Bank Jump Shot,2,2,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2017
-Jimmy Butler,202710,Turnaround Fadeaway shot,2,21,9,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2017
-Jimmy Butler,202710,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2017
-Jimmy Butler,202710,Turnaround Jump Shot,2,28,11,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2017
-Jimmy Butler,202710,Alley Oop Dunk Shot,2,9,9,Alley Oop Dunk,DUNKS,2018
-Jimmy Butler,202710,Alley Oop Layup shot,2,8,6,Alley Oop Layup,LAYUPS,2018
-Jimmy Butler,202710,Cutting Dunk Shot,2,6,5,Specialty Dunk,DUNKS,2018
-Jimmy Butler,202710,Cutting Layup Shot,2,15,14,Standard Layup,LAYUPS,2018
-Jimmy Butler,202710,Driving Dunk Shot,2,5,4,Driving Dunk,DUNKS,2018
-Jimmy Butler,202710,Driving Finger Roll Layup Shot,2,3,2,Finger Roll,LAYUPS,2018
-Jimmy Butler,202710,Driving Floating Bank Jump Shot,2,19,12,2PT Floating Jump Shot,FLOATING_SHOTS,2018
-Jimmy Butler,202710,Driving Floating Jump Shot,2,24,14,2PT Floating Jump Shot,FLOATING_SHOTS,2018
-Jimmy Butler,202710,Driving Layup Shot,2,88,43,Driving Layup,LAYUPS,2018
-Jimmy Butler,202710,Driving Reverse Dunk Shot,2,1,1,Reverse Dunk,DUNKS,2018
-Jimmy Butler,202710,Driving Reverse Layup Shot,2,23,10,Driving Layup,LAYUPS,2018
-Jimmy Butler,202710,Dunk Shot,2,10,10,Standard Dunk,DUNKS,2018
-Jimmy Butler,202710,Fadeaway Jump Shot,2,22,10,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2018
-Jimmy Butler,202710,Floating Jump shot,2,22,12,2PT Floating Jump Shot,FLOATING_SHOTS,2018
-Jimmy Butler,202710,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2018
-Jimmy Butler,202710,Jump Bank Shot,2,13,6,2PT Jump Shot,TWO_POINT_JUMPERS,2018
-Jimmy Butler,202710,Jump Shot,2,299,96,2PT Jump Shot,TWO_POINT_JUMPERS,2018
-Jimmy Butler,202710,Layup Shot,2,38,21,Standard Layup,LAYUPS,2018
-Jimmy Butler,202710,Pullup Jump shot,2,137,71,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2018
-Jimmy Butler,202710,Putback Dunk Shot,2,4,4,Putback Dunk,DUNKS,2018
-Jimmy Butler,202710,Putback Layup Shot,2,5,3,Putback Layup,LAYUPS,2018
-Jimmy Butler,202710,Reverse Layup Shot,2,3,2,Reverse Layup,LAYUPS,2018
-Jimmy Butler,202710,Running Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2018
-Jimmy Butler,202710,Running Alley Oop Layup Shot,2,1,1,Alley Oop Layup,LAYUPS,2018
-Jimmy Butler,202710,Running Dunk Shot,2,7,7,Standard Dunk,DUNKS,2018
-Jimmy Butler,202710,Running Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2018
-Jimmy Butler,202710,Running Jump Shot,2,4,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2018
-Jimmy Butler,202710,Running Layup Shot,2,15,7,Standard Layup,LAYUPS,2018
-Jimmy Butler,202710,Running Pull-Up Jump Shot,2,5,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2018
-Jimmy Butler,202710,Running Reverse Layup Shot,2,3,3,Reverse Layup,LAYUPS,2018
-Jimmy Butler,202710,Step Back Bank Jump Shot,2,2,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2018
-Jimmy Butler,202710,Step Back Jump shot,2,38,12,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2018
-Jimmy Butler,202710,Tip Layup Shot,2,9,4,Putback Layup,LAYUPS,2018
-Jimmy Butler,202710,Turnaround Fadeaway Bank Jump Shot,2,17,10,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2018
-Jimmy Butler,202710,Turnaround Fadeaway shot,2,27,17,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2018
-Jimmy Butler,202710,Turnaround Jump Shot,2,35,13,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2018
-Jimmy Butler,202710,Alley Oop Dunk Shot,2,19,18,Alley Oop Dunk,DUNKS,2019
-Jimmy Butler,202710,Alley Oop Layup shot,2,10,6,Alley Oop Layup,LAYUPS,2019
-Jimmy Butler,202710,Cutting Dunk Shot,2,14,14,Specialty Dunk,DUNKS,2019
-Jimmy Butler,202710,Cutting Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2019
-Jimmy Butler,202710,Cutting Layup Shot,2,17,14,Standard Layup,LAYUPS,2019
-Jimmy Butler,202710,Driving Bank Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,2019
-Jimmy Butler,202710,Driving Dunk Shot,2,8,8,Driving Dunk,DUNKS,2019
-Jimmy Butler,202710,Driving Finger Roll Layup Shot,2,13,9,Finger Roll,LAYUPS,2019
-Jimmy Butler,202710,Driving Floating Bank Jump Shot,2,9,5,2PT Floating Jump Shot,FLOATING_SHOTS,2019
-Jimmy Butler,202710,Driving Floating Jump Shot,2,33,19,2PT Floating Jump Shot,FLOATING_SHOTS,2019
-Jimmy Butler,202710,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2019
-Jimmy Butler,202710,Driving Layup Shot,2,98,46,Driving Layup,LAYUPS,2019
-Jimmy Butler,202710,Driving Reverse Layup Shot,2,18,12,Driving Layup,LAYUPS,2019
-Jimmy Butler,202710,Dunk Shot,2,9,9,Standard Dunk,DUNKS,2019
-Jimmy Butler,202710,Fadeaway Jump Shot,2,20,8,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2019
-Jimmy Butler,202710,Floating Jump shot,2,11,5,2PT Floating Jump Shot,FLOATING_SHOTS,2019
-Jimmy Butler,202710,Hook Bank Shot,2,1,1,Hook Shot,POST_MOVES,2019
-Jimmy Butler,202710,Jump Bank Shot,2,15,6,2PT Jump Shot,TWO_POINT_JUMPERS,2019
-Jimmy Butler,202710,Jump Shot,2,218,72,2PT Jump Shot,TWO_POINT_JUMPERS,2019
-Jimmy Butler,202710,Layup Shot,2,41,13,Standard Layup,LAYUPS,2019
-Jimmy Butler,202710,Pullup Jump shot,2,129,49,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2019
-Jimmy Butler,202710,Putback Dunk Shot,2,2,1,Putback Dunk,DUNKS,2019
-Jimmy Butler,202710,Putback Layup Shot,2,7,4,Putback Layup,LAYUPS,2019
-Jimmy Butler,202710,Reverse Layup Shot,2,9,7,Reverse Layup,LAYUPS,2019
-Jimmy Butler,202710,Running Alley Oop Dunk Shot,2,4,4,Alley Oop Dunk,DUNKS,2019
-Jimmy Butler,202710,Running Alley Oop Layup Shot,2,2,2,Alley Oop Layup,LAYUPS,2019
-Jimmy Butler,202710,Running Dunk Shot,2,13,13,Standard Dunk,DUNKS,2019
-Jimmy Butler,202710,Running Finger Roll Layup Shot,2,3,3,Finger Roll,LAYUPS,2019
-Jimmy Butler,202710,Running Jump Shot,2,4,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2019
-Jimmy Butler,202710,Running Layup Shot,2,19,12,Standard Layup,LAYUPS,2019
-Jimmy Butler,202710,Running Pull-Up Jump Shot,2,8,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2019
-Jimmy Butler,202710,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2019
-Jimmy Butler,202710,Step Back Jump shot,2,60,19,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2019
-Jimmy Butler,202710,Tip Dunk Shot,2,2,2,Specialty Dunk,DUNKS,2019
-Jimmy Butler,202710,Tip Layup Shot,2,19,8,Putback Layup,LAYUPS,2019
-Jimmy Butler,202710,Turnaround Fadeaway Bank Jump Shot,2,7,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2019
-Jimmy Butler,202710,Turnaround Fadeaway shot,2,24,9,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2019
-Jimmy Butler,202710,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,2019
-Jimmy Butler,202710,Turnaround Jump Shot,2,31,11,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2019
-Jimmy Butler,202710,Alley Oop Layup shot,2,3,3,Alley Oop Layup,LAYUPS,2020
-Jimmy Butler,202710,Cutting Dunk Shot,2,18,18,Specialty Dunk,DUNKS,2020
-Jimmy Butler,202710,Cutting Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2020
-Jimmy Butler,202710,Cutting Layup Shot,2,21,17,Standard Layup,LAYUPS,2020
-Jimmy Butler,202710,Driving Bank Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,2020
-Jimmy Butler,202710,Driving Dunk Shot,2,13,13,Driving Dunk,DUNKS,2020
-Jimmy Butler,202710,Driving Finger Roll Layup Shot,2,20,12,Finger Roll,LAYUPS,2020
-Jimmy Butler,202710,Driving Floating Bank Jump Shot,2,29,13,2PT Floating Jump Shot,FLOATING_SHOTS,2020
-Jimmy Butler,202710,Driving Floating Jump Shot,2,41,21,2PT Floating Jump Shot,FLOATING_SHOTS,2020
-Jimmy Butler,202710,Driving Hook Shot,2,4,0,Driving Hook Shot,POST_MOVES,2020
-Jimmy Butler,202710,Driving Layup Shot,2,121,54,Driving Layup,LAYUPS,2020
-Jimmy Butler,202710,Driving Reverse Layup Shot,2,16,8,Driving Layup,LAYUPS,2020
-Jimmy Butler,202710,Fadeaway Jump Shot,2,21,7,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2020
-Jimmy Butler,202710,Floating Jump shot,2,17,7,2PT Floating Jump Shot,FLOATING_SHOTS,2020
-Jimmy Butler,202710,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2020
-Jimmy Butler,202710,Jump Bank Shot,2,7,3,2PT Jump Shot,TWO_POINT_JUMPERS,2020
-Jimmy Butler,202710,Jump Shot,2,99,28,2PT Jump Shot,TWO_POINT_JUMPERS,2020
-Jimmy Butler,202710,Layup Shot,2,29,16,Standard Layup,LAYUPS,2020
-Jimmy Butler,202710,Pullup Jump shot,2,100,26,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2020
-Jimmy Butler,202710,Putback Layup Shot,2,9,4,Putback Layup,LAYUPS,2020
-Jimmy Butler,202710,Reverse Layup Shot,2,4,1,Reverse Layup,LAYUPS,2020
-Jimmy Butler,202710,Running Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2020
-Jimmy Butler,202710,Running Dunk Shot,2,21,20,Standard Dunk,DUNKS,2020
-Jimmy Butler,202710,Running Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2020
-Jimmy Butler,202710,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2020
-Jimmy Butler,202710,Running Layup Shot,2,16,12,Standard Layup,LAYUPS,2020
-Jimmy Butler,202710,Running Reverse Layup Shot,2,3,2,Reverse Layup,LAYUPS,2020
-Jimmy Butler,202710,Step Back Bank Jump Shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2020
-Jimmy Butler,202710,Step Back Jump shot,2,43,16,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2020
-Jimmy Butler,202710,Tip Dunk Shot,2,3,3,Specialty Dunk,DUNKS,2020
-Jimmy Butler,202710,Tip Layup Shot,2,9,4,Putback Layup,LAYUPS,2020
-Jimmy Butler,202710,Turnaround Fadeaway Bank Jump Shot,2,9,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2020
-Jimmy Butler,202710,Turnaround Fadeaway shot,2,35,12,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2020
-Jimmy Butler,202710,Turnaround Hook Shot,2,2,2,Turnaround Hook Shot,POST_MOVES,2020
-Jimmy Butler,202710,Turnaround Jump Shot,2,35,15,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2020
-Jimmy Butler,202710,Alley Oop Dunk Shot,2,4,4,Alley Oop Dunk,DUNKS,2021
-Jimmy Butler,202710,Alley Oop Layup shot,2,10,9,Alley Oop Layup,LAYUPS,2021
-Jimmy Butler,202710,Cutting Dunk Shot,2,3,3,Specialty Dunk,DUNKS,2021
-Jimmy Butler,202710,Cutting Layup Shot,2,21,15,Standard Layup,LAYUPS,2021
-Jimmy Butler,202710,Driving Bank Hook Shot,2,2,0,Driving Hook Shot,POST_MOVES,2021
-Jimmy Butler,202710,Driving Dunk Shot,2,7,7,Driving Dunk,DUNKS,2021
-Jimmy Butler,202710,Driving Finger Roll Layup Shot,2,18,13,Finger Roll,LAYUPS,2021
-Jimmy Butler,202710,Driving Floating Bank Jump Shot,2,23,11,2PT Floating Jump Shot,FLOATING_SHOTS,2021
-Jimmy Butler,202710,Driving Floating Jump Shot,2,36,18,2PT Floating Jump Shot,FLOATING_SHOTS,2021
-Jimmy Butler,202710,Driving Hook Shot,2,3,3,Driving Hook Shot,POST_MOVES,2021
-Jimmy Butler,202710,Driving Layup Shot,2,132,65,Driving Layup,LAYUPS,2021
-Jimmy Butler,202710,Driving Reverse Layup Shot,2,5,2,Driving Layup,LAYUPS,2021
-Jimmy Butler,202710,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2021
-Jimmy Butler,202710,Fadeaway Jump Shot,2,11,3,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2021
-Jimmy Butler,202710,Finger Roll Layup Shot,2,3,0,Finger Roll,LAYUPS,2021
-Jimmy Butler,202710,Floating Jump shot,2,16,3,2PT Floating Jump Shot,FLOATING_SHOTS,2021
-Jimmy Butler,202710,Jump Bank Shot,2,9,6,2PT Jump Shot,TWO_POINT_JUMPERS,2021
-Jimmy Butler,202710,Jump Shot,2,103,32,2PT Jump Shot,TWO_POINT_JUMPERS,2021
-Jimmy Butler,202710,Layup Shot,2,30,17,Standard Layup,LAYUPS,2021
-Jimmy Butler,202710,Pullup Jump shot,2,108,47,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2021
-Jimmy Butler,202710,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2021
-Jimmy Butler,202710,Putback Layup Shot,2,8,4,Putback Layup,LAYUPS,2021
-Jimmy Butler,202710,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2021
-Jimmy Butler,202710,Running Alley Oop Dunk Shot,2,2,2,Alley Oop Dunk,DUNKS,2021
-Jimmy Butler,202710,Running Dunk Shot,2,15,15,Standard Dunk,DUNKS,2021
-Jimmy Butler,202710,Running Finger Roll Layup Shot,2,3,3,Finger Roll,LAYUPS,2021
-Jimmy Butler,202710,Running Jump Shot,2,2,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2021
-Jimmy Butler,202710,Running Layup Shot,2,31,22,Standard Layup,LAYUPS,2021
-Jimmy Butler,202710,Running Pull-Up Jump Shot,2,4,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2021
-Jimmy Butler,202710,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2021
-Jimmy Butler,202710,Step Back Bank Jump Shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2021
-Jimmy Butler,202710,Step Back Jump shot,2,29,10,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2021
-Jimmy Butler,202710,Tip Dunk Shot,2,5,5,Specialty Dunk,DUNKS,2021
-Jimmy Butler,202710,Tip Layup Shot,2,23,11,Putback Layup,LAYUPS,2021
-Jimmy Butler,202710,Turnaround Bank Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2021
-Jimmy Butler,202710,Turnaround Fadeaway Bank Jump Shot,2,13,8,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2021
-Jimmy Butler,202710,Turnaround Fadeaway shot,2,25,8,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2021
-Jimmy Butler,202710,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2021
-Jimmy Butler,202710,Turnaround Jump Shot,2,24,12,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2021
-Jimmy Butler,202710,Alley Oop Dunk Shot,2,4,2,Alley Oop Dunk,DUNKS,2022
-Jimmy Butler,202710,Alley Oop Layup shot,2,12,8,Alley Oop Layup,LAYUPS,2022
-Jimmy Butler,202710,Cutting Dunk Shot,2,7,6,Specialty Dunk,DUNKS,2022
-Jimmy Butler,202710,Cutting Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2022
-Jimmy Butler,202710,Cutting Layup Shot,2,22,16,Standard Layup,LAYUPS,2022
-Jimmy Butler,202710,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2022
-Jimmy Butler,202710,Driving Finger Roll Layup Shot,2,8,5,Finger Roll,LAYUPS,2022
-Jimmy Butler,202710,Driving Floating Bank Jump Shot,2,13,6,2PT Floating Jump Shot,FLOATING_SHOTS,2022
-Jimmy Butler,202710,Driving Floating Jump Shot,2,30,15,2PT Floating Jump Shot,FLOATING_SHOTS,2022
-Jimmy Butler,202710,Driving Layup Shot,2,138,66,Driving Layup,LAYUPS,2022
-Jimmy Butler,202710,Driving Reverse Layup Shot,2,13,9,Driving Layup,LAYUPS,2022
-Jimmy Butler,202710,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2022
-Jimmy Butler,202710,Fadeaway Jump Shot,2,28,13,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2022
-Jimmy Butler,202710,Floating Jump shot,2,19,7,2PT Floating Jump Shot,FLOATING_SHOTS,2022
-Jimmy Butler,202710,Jump Bank Shot,2,7,5,2PT Jump Shot,TWO_POINT_JUMPERS,2022
-Jimmy Butler,202710,Jump Shot,2,119,31,2PT Jump Shot,TWO_POINT_JUMPERS,2022
-Jimmy Butler,202710,Layup Shot,2,37,20,Standard Layup,LAYUPS,2022
-Jimmy Butler,202710,Pullup Jump shot,2,99,40,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2022
-Jimmy Butler,202710,Putback Layup Shot,2,19,18,Putback Layup,LAYUPS,2022
-Jimmy Butler,202710,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2022
-Jimmy Butler,202710,Running Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2022
-Jimmy Butler,202710,Running Alley Oop Layup Shot,2,3,3,Alley Oop Layup,LAYUPS,2022
-Jimmy Butler,202710,Running Dunk Shot,2,25,24,Standard Dunk,DUNKS,2022
-Jimmy Butler,202710,Running Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2022
-Jimmy Butler,202710,Running Jump Shot,2,6,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2022
-Jimmy Butler,202710,Running Layup Shot,2,27,18,Standard Layup,LAYUPS,2022
-Jimmy Butler,202710,Running Pull-Up Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2022
-Jimmy Butler,202710,Running Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2022
-Jimmy Butler,202710,Step Back Jump shot,2,36,14,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2022
-Jimmy Butler,202710,Tip Layup Shot,2,14,6,Putback Layup,LAYUPS,2022
-Jimmy Butler,202710,Turnaround Fadeaway Bank Jump Shot,2,18,9,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2022
-Jimmy Butler,202710,Turnaround Fadeaway shot,2,60,27,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2022
-Jimmy Butler,202710,Turnaround Hook Shot,2,5,1,Turnaround Hook Shot,POST_MOVES,2022
-Jimmy Butler,202710,Turnaround Jump Shot,2,48,18,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2022
-Jimmy Butler,202710,Alley Oop Dunk Shot,2,6,5,Alley Oop Dunk,DUNKS,2023
-Jimmy Butler,202710,Alley Oop Layup shot,2,5,3,Alley Oop Layup,LAYUPS,2023
-Jimmy Butler,202710,Cutting Dunk Shot,2,12,10,Specialty Dunk,DUNKS,2023
-Jimmy Butler,202710,Cutting Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2023
-Jimmy Butler,202710,Cutting Layup Shot,2,31,25,Standard Layup,LAYUPS,2023
-Jimmy Butler,202710,Driving Bank Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,2023
-Jimmy Butler,202710,Driving Dunk Shot,2,9,8,Driving Dunk,DUNKS,2023
-Jimmy Butler,202710,Driving Finger Roll Layup Shot,2,12,6,Finger Roll,LAYUPS,2023
-Jimmy Butler,202710,Driving Floating Bank Jump Shot,2,29,18,2PT Floating Jump Shot,FLOATING_SHOTS,2023
-Jimmy Butler,202710,Driving Floating Jump Shot,2,50,23,2PT Floating Jump Shot,FLOATING_SHOTS,2023
-Jimmy Butler,202710,Driving Hook Shot,2,4,2,Driving Hook Shot,POST_MOVES,2023
-Jimmy Butler,202710,Driving Layup Shot,2,132,61,Driving Layup,LAYUPS,2023
-Jimmy Butler,202710,Driving Reverse Layup Shot,2,20,10,Driving Layup,LAYUPS,2023
-Jimmy Butler,202710,Dunk Shot,2,3,2,Standard Dunk,DUNKS,2023
-Jimmy Butler,202710,Fadeaway Bank shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2023
-Jimmy Butler,202710,Fadeaway Jump Shot,2,27,17,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2023
-Jimmy Butler,202710,Finger Roll Layup Shot,2,3,2,Finger Roll,LAYUPS,2023
-Jimmy Butler,202710,Floating Jump shot,2,13,5,2PT Floating Jump Shot,FLOATING_SHOTS,2023
-Jimmy Butler,202710,Hook Bank Shot,2,1,0,Hook Shot,POST_MOVES,2023
-Jimmy Butler,202710,Hook Shot,2,2,2,Hook Shot,POST_MOVES,2023
-Jimmy Butler,202710,Jump Bank Shot,2,10,6,2PT Jump Shot,TWO_POINT_JUMPERS,2023
-Jimmy Butler,202710,Jump Shot,2,101,37,2PT Jump Shot,TWO_POINT_JUMPERS,2023
-Jimmy Butler,202710,Layup Shot,2,43,28,Standard Layup,LAYUPS,2023
-Jimmy Butler,202710,Pullup Jump shot,2,100,45,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2023
-Jimmy Butler,202710,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2023
-Jimmy Butler,202710,Putback Layup Shot,2,26,20,Putback Layup,LAYUPS,2023
-Jimmy Butler,202710,Reverse Layup Shot,2,3,1,Reverse Layup,LAYUPS,2023
-Jimmy Butler,202710,Running Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2023
-Jimmy Butler,202710,Running Alley Oop Layup Shot,2,1,1,Alley Oop Layup,LAYUPS,2023
-Jimmy Butler,202710,Running Dunk Shot,2,27,27,Standard Dunk,DUNKS,2023
-Jimmy Butler,202710,Running Finger Roll Layup Shot,2,5,3,Finger Roll,LAYUPS,2023
-Jimmy Butler,202710,Running Jump Shot,2,6,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2023
-Jimmy Butler,202710,Running Layup Shot,2,42,28,Standard Layup,LAYUPS,2023
-Jimmy Butler,202710,Running Pull-Up Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2023
-Jimmy Butler,202710,Running Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2023
-Jimmy Butler,202710,Step Back Jump shot,2,27,11,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2023
-Jimmy Butler,202710,Tip Dunk Shot,2,2,1,Specialty Dunk,DUNKS,2023
-Jimmy Butler,202710,Tip Layup Shot,2,24,13,Putback Layup,LAYUPS,2023
-Jimmy Butler,202710,Turnaround Bank shot,2,8,7,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2023
-Jimmy Butler,202710,Turnaround Fadeaway Bank Jump Shot,2,3,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2023
-Jimmy Butler,202710,Turnaround Fadeaway shot,2,43,17,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2023
-Jimmy Butler,202710,Turnaround Hook Shot,2,9,4,Turnaround Hook Shot,POST_MOVES,2023
-Jimmy Butler,202710,Turnaround Jump Shot,2,40,19,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2023
-Jimmy Butler,202710,Alley Oop Dunk Shot,2,5,4,Alley Oop Dunk,DUNKS,2024
-Jimmy Butler,202710,Alley Oop Layup shot,2,8,6,Alley Oop Layup,LAYUPS,2024
-Jimmy Butler,202710,Cutting Dunk Shot,2,10,10,Specialty Dunk,DUNKS,2024
-Jimmy Butler,202710,Cutting Layup Shot,2,24,19,Standard Layup,LAYUPS,2024
-Jimmy Butler,202710,Driving Bank Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2024
-Jimmy Butler,202710,Driving Dunk Shot,2,7,7,Driving Dunk,DUNKS,2024
-Jimmy Butler,202710,Driving Finger Roll Layup Shot,2,7,5,Finger Roll,LAYUPS,2024
-Jimmy Butler,202710,Driving Floating Bank Jump Shot,2,21,9,2PT Floating Jump Shot,FLOATING_SHOTS,2024
-Jimmy Butler,202710,Driving Floating Jump Shot,2,48,20,2PT Floating Jump Shot,FLOATING_SHOTS,2024
-Jimmy Butler,202710,Driving Hook Shot,2,5,4,Driving Hook Shot,POST_MOVES,2024
-Jimmy Butler,202710,Driving Layup Shot,2,125,57,Driving Layup,LAYUPS,2024
-Jimmy Butler,202710,Driving Reverse Layup Shot,2,13,4,Driving Layup,LAYUPS,2024
-Jimmy Butler,202710,Dunk Shot,2,3,3,Standard Dunk,DUNKS,2024
-Jimmy Butler,202710,Fadeaway Bank shot,2,2,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
-Jimmy Butler,202710,Fadeaway Jump Shot,2,21,6,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
-Jimmy Butler,202710,Fadeaway Jump Shot,3,1,0,3PT Fadeaway Jump Shot,THREE_POINT_JUMPERS,2024
-Jimmy Butler,202710,Floating Jump shot,2,9,3,2PT Floating Jump Shot,FLOATING_SHOTS,2024
-Jimmy Butler,202710,Hook Shot,2,4,3,Hook Shot,POST_MOVES,2024
-Jimmy Butler,202710,Jump Bank Shot,2,2,2,2PT Jump Shot,TWO_POINT_JUMPERS,2024
-Jimmy Butler,202710,Jump Bank Shot,3,1,1,3PT Jump Shot,THREE_POINT_JUMPERS,2024
-Jimmy Butler,202710,Jump Shot,2,34,16,2PT Jump Shot,TWO_POINT_JUMPERS,2024
-Jimmy Butler,202710,Jump Shot,3,104,44,3PT Jump Shot,THREE_POINT_JUMPERS,2024
-Jimmy Butler,202710,Layup Shot,2,45,26,Standard Layup,LAYUPS,2024
-Jimmy Butler,202710,Pullup Jump shot,2,54,20,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2024
-Jimmy Butler,202710,Pullup Jump shot,3,17,7,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
-Jimmy Butler,202710,Putback Layup Shot,2,26,20,Putback Layup,LAYUPS,2024
-Jimmy Butler,202710,Reverse Layup Shot,2,3,2,Reverse Layup,LAYUPS,2024
-Jimmy Butler,202710,Running Alley Oop Layup Shot,2,1,1,Alley Oop Layup,LAYUPS,2024
-Jimmy Butler,202710,Running Dunk Shot,2,19,16,Standard Dunk,DUNKS,2024
-Jimmy Butler,202710,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2024
-Jimmy Butler,202710,Running Jump Shot,3,5,3,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
-Jimmy Butler,202710,Running Layup Shot,2,32,21,Standard Layup,LAYUPS,2024
-Jimmy Butler,202710,Running Pull-Up Jump Shot,3,5,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
-Jimmy Butler,202710,Running Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2024
-Jimmy Butler,202710,Step Back Jump shot,2,15,8,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2024
-Jimmy Butler,202710,Step Back Jump shot,3,12,4,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
-Jimmy Butler,202710,Tip Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2024
-Jimmy Butler,202710,Tip Layup Shot,2,14,7,Putback Layup,LAYUPS,2024
-Jimmy Butler,202710,Turnaround Bank Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2024
-Jimmy Butler,202710,Turnaround Bank shot,2,6,3,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
-Jimmy Butler,202710,Turnaround Fadeaway Bank Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
-Jimmy Butler,202710,Turnaround Fadeaway shot,2,43,18,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
-Jimmy Butler,202710,Turnaround Hook Shot,2,3,2,Turnaround Hook Shot,POST_MOVES,2024
-Jimmy Butler,202710,Turnaround Jump Shot,2,33,11,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
-Jimmy Butler,202710,Alley Oop Dunk Shot,2,3,3,Alley Oop Dunk,DUNKS,2025
-Jimmy Butler,202710,Alley Oop Layup shot,2,2,1,Alley Oop Layup,LAYUPS,2025
-Jimmy Butler,202710,Cutting Dunk Shot,2,9,9,Specialty Dunk,DUNKS,2025
-Jimmy Butler,202710,Cutting Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2025
-Jimmy Butler,202710,Cutting Layup Shot,2,5,3,Standard Layup,LAYUPS,2025
-Jimmy Butler,202710,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2025
-Jimmy Butler,202710,Driving Finger Roll Layup Shot,2,6,5,Finger Roll,LAYUPS,2025
-Jimmy Butler,202710,Driving Floating Bank Jump Shot,2,7,3,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Jimmy Butler,202710,Driving Floating Jump Shot,2,19,8,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Jimmy Butler,202710,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2025
-Jimmy Butler,202710,Driving Layup Shot,2,38,23,Driving Layup,LAYUPS,2025
-Jimmy Butler,202710,Driving Reverse Layup Shot,2,4,2,Driving Layup,LAYUPS,2025
-Jimmy Butler,202710,Dunk Shot,2,3,3,Standard Dunk,DUNKS,2025
-Jimmy Butler,202710,Fadeaway Jump Shot,2,5,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
-Jimmy Butler,202710,Fadeaway Jump Shot,3,1,0,3PT Fadeaway Jump Shot,THREE_POINT_JUMPERS,2025
-Jimmy Butler,202710,Floating Jump shot,2,5,2,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Jimmy Butler,202710,Jump Bank Shot,2,2,1,2PT Jump Shot,TWO_POINT_JUMPERS,2025
-Jimmy Butler,202710,Jump Shot,2,9,6,2PT Jump Shot,TWO_POINT_JUMPERS,2025
-Jimmy Butler,202710,Jump Shot,3,27,10,3PT Jump Shot,THREE_POINT_JUMPERS,2025
-Jimmy Butler,202710,Layup Shot,2,9,3,Standard Layup,LAYUPS,2025
-Jimmy Butler,202710,Pullup Jump shot,2,11,6,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
-Jimmy Butler,202710,Pullup Jump shot,3,1,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
-Jimmy Butler,202710,Putback Layup Shot,2,8,3,Putback Layup,LAYUPS,2025
-Jimmy Butler,202710,Reverse Layup Shot,2,2,0,Reverse Layup,LAYUPS,2025
-Jimmy Butler,202710,Running Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2025
-Jimmy Butler,202710,Running Alley Oop Layup Shot,2,1,1,Alley Oop Layup,LAYUPS,2025
-Jimmy Butler,202710,Running Dunk Shot,2,5,5,Standard Dunk,DUNKS,2025
-Jimmy Butler,202710,Running Finger Roll Layup Shot,2,3,3,Finger Roll,LAYUPS,2025
-Jimmy Butler,202710,Running Jump Shot,3,2,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
-Jimmy Butler,202710,Running Layup Shot,2,13,9,Standard Layup,LAYUPS,2025
-Jimmy Butler,202710,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2025
-Jimmy Butler,202710,Step Back Jump shot,2,2,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2025
-Jimmy Butler,202710,Step Back Jump shot,3,1,1,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
-Jimmy Butler,202710,Tip Layup Shot,2,7,4,Putback Layup,LAYUPS,2025
-Jimmy Butler,202710,Turnaround Bank shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
-Jimmy Butler,202710,Turnaround Fadeaway Bank Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
-Jimmy Butler,202710,Turnaround Fadeaway shot,2,9,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
-Jimmy Butler,202710,Turnaround Jump Shot,2,6,4,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Jimmy Butler,202710,2PT Floating Jump Shot,1,1,FLOATING_SHOTS,2012
+Jimmy Butler,202710,2PT Jump Shot,42,12,TWO_POINT_JUMPERS,2012
+Jimmy Butler,202710,2PT Pullup Jump Shot,2,1,TWO_POINT_JUMPERS,2012
+Jimmy Butler,202710,2PT Turnaround Jump Shot,2,1,TWO_POINT_JUMPERS,2012
+Jimmy Butler,202710,Alley Oop Dunk,2,1,DUNKS,2012
+Jimmy Butler,202710,Driving Dunk,1,1,DUNKS,2012
+Jimmy Butler,202710,Driving Layup,7,4,LAYUPS,2012
+Jimmy Butler,202710,Putback Layup,2,2,LAYUPS,2012
+Jimmy Butler,202710,Reverse Layup,3,1,LAYUPS,2012
+Jimmy Butler,202710,Standard Dunk,2,1,DUNKS,2012
+Jimmy Butler,202710,Standard Layup,12,5,LAYUPS,2012
+Jimmy Butler,202710,Tip Shot,3,2,TIP_SHOTS,2012
+Jimmy Butler,202710,2PT Driving Jump Shot,1,0,TWO_POINT_JUMPERS,2013
+Jimmy Butler,202710,2PT Fadeaway Jump Shot,4,1,TWO_POINT_JUMPERS,2013
+Jimmy Butler,202710,2PT Jump Shot,267,84,TWO_POINT_JUMPERS,2013
+Jimmy Butler,202710,2PT Pullup Jump Shot,11,6,TWO_POINT_JUMPERS,2013
+Jimmy Butler,202710,2PT Running Jump Shot,8,1,TWO_POINT_JUMPERS,2013
+Jimmy Butler,202710,2PT Step Back Jump Shot,3,2,TWO_POINT_JUMPERS,2013
+Jimmy Butler,202710,2PT Turnaround Jump Shot,6,4,TWO_POINT_JUMPERS,2013
+Jimmy Butler,202710,Alley Oop Dunk,11,10,DUNKS,2013
+Jimmy Butler,202710,Alley Oop Layup,4,4,LAYUPS,2013
+Jimmy Butler,202710,Driving Dunk,4,3,DUNKS,2013
+Jimmy Butler,202710,Driving Layup,34,22,LAYUPS,2013
+Jimmy Butler,202710,Hook Shot,1,0,POST_MOVES,2013
+Jimmy Butler,202710,Putback Dunk,6,6,DUNKS,2013
+Jimmy Butler,202710,Putback Layup,15,13,LAYUPS,2013
+Jimmy Butler,202710,Reverse Layup,9,6,LAYUPS,2013
+Jimmy Butler,202710,Standard Dunk,26,26,DUNKS,2013
+Jimmy Butler,202710,Standard Layup,88,45,LAYUPS,2013
+Jimmy Butler,202710,Tip Shot,13,6,TIP_SHOTS,2013
+Jimmy Butler,202710,Turnaround Hook Shot,1,0,POST_MOVES,2013
+Jimmy Butler,202710,2PT Driving Jump Shot,1,0,TWO_POINT_JUMPERS,2014
+Jimmy Butler,202710,2PT Fadeaway Jump Shot,3,2,TWO_POINT_JUMPERS,2014
+Jimmy Butler,202710,2PT Floating Jump Shot,4,1,FLOATING_SHOTS,2014
+Jimmy Butler,202710,2PT Jump Shot,440,129,TWO_POINT_JUMPERS,2014
+Jimmy Butler,202710,2PT Pullup Jump Shot,10,7,TWO_POINT_JUMPERS,2014
+Jimmy Butler,202710,2PT Running Jump Shot,4,1,TWO_POINT_JUMPERS,2014
+Jimmy Butler,202710,2PT Step Back Jump Shot,4,2,TWO_POINT_JUMPERS,2014
+Jimmy Butler,202710,2PT Turnaround Jump Shot,6,4,TWO_POINT_JUMPERS,2014
+Jimmy Butler,202710,Alley Oop Dunk,4,4,DUNKS,2014
+Jimmy Butler,202710,Alley Oop Layup,4,2,LAYUPS,2014
+Jimmy Butler,202710,Driving Layup,46,29,LAYUPS,2014
+Jimmy Butler,202710,Putback Dunk,3,3,DUNKS,2014
+Jimmy Butler,202710,Putback Layup,9,7,LAYUPS,2014
+Jimmy Butler,202710,Reverse Layup,8,5,LAYUPS,2014
+Jimmy Butler,202710,Standard Dunk,23,22,DUNKS,2014
+Jimmy Butler,202710,Standard Layup,113,54,LAYUPS,2014
+Jimmy Butler,202710,Tip Shot,11,3,TIP_SHOTS,2014
+Jimmy Butler,202710,2PT Driving Jump Shot,7,2,TWO_POINT_JUMPERS,2015
+Jimmy Butler,202710,2PT Fadeaway Jump Shot,12,3,TWO_POINT_JUMPERS,2015
+Jimmy Butler,202710,2PT Floating Jump Shot,1,1,FLOATING_SHOTS,2015
+Jimmy Butler,202710,2PT Jump Shot,481,163,TWO_POINT_JUMPERS,2015
+Jimmy Butler,202710,2PT Pullup Jump Shot,22,16,TWO_POINT_JUMPERS,2015
+Jimmy Butler,202710,2PT Running Jump Shot,19,9,TWO_POINT_JUMPERS,2015
+Jimmy Butler,202710,2PT Step Back Jump Shot,15,8,TWO_POINT_JUMPERS,2015
+Jimmy Butler,202710,2PT Turnaround Jump Shot,29,21,TWO_POINT_JUMPERS,2015
+Jimmy Butler,202710,3PT Jump Shot,1,0,THREE_POINT_JUMPERS,2015
+Jimmy Butler,202710,Alley Oop Dunk,9,6,DUNKS,2015
+Jimmy Butler,202710,Alley Oop Layup,15,11,LAYUPS,2015
+Jimmy Butler,202710,Driving Dunk,9,9,DUNKS,2015
+Jimmy Butler,202710,Driving Layup,59,39,LAYUPS,2015
+Jimmy Butler,202710,Finger Roll,3,2,LAYUPS,2015
+Jimmy Butler,202710,Putback Dunk,5,5,DUNKS,2015
+Jimmy Butler,202710,Putback Layup,13,8,LAYUPS,2015
+Jimmy Butler,202710,Reverse Layup,18,14,LAYUPS,2015
+Jimmy Butler,202710,Standard Dunk,30,29,DUNKS,2015
+Jimmy Butler,202710,Standard Layup,151,68,LAYUPS,2015
+Jimmy Butler,202710,Tip Shot,13,7,TIP_SHOTS,2015
+Jimmy Butler,202710,2PT Driving Jump Shot,5,4,TWO_POINT_JUMPERS,2016
+Jimmy Butler,202710,2PT Fadeaway Jump Shot,24,14,TWO_POINT_JUMPERS,2016
+Jimmy Butler,202710,2PT Floating Jump Shot,22,8,FLOATING_SHOTS,2016
+Jimmy Butler,202710,2PT Jump Shot,481,141,TWO_POINT_JUMPERS,2016
+Jimmy Butler,202710,2PT Pullup Jump Shot,77,42,TWO_POINT_JUMPERS,2016
+Jimmy Butler,202710,2PT Running Jump Shot,5,2,TWO_POINT_JUMPERS,2016
+Jimmy Butler,202710,2PT Step Back Jump Shot,28,11,TWO_POINT_JUMPERS,2016
+Jimmy Butler,202710,2PT Turnaround Jump Shot,47,20,TWO_POINT_JUMPERS,2016
+Jimmy Butler,202710,3PT Jump Shot,3,0,THREE_POINT_JUMPERS,2016
+Jimmy Butler,202710,Alley Oop Dunk,30,28,DUNKS,2016
+Jimmy Butler,202710,Alley Oop Layup,20,14,LAYUPS,2016
+Jimmy Butler,202710,Driving Dunk,7,7,DUNKS,2016
+Jimmy Butler,202710,Driving Hook Shot,2,0,POST_MOVES,2016
+Jimmy Butler,202710,Driving Layup,110,68,LAYUPS,2016
+Jimmy Butler,202710,Finger Roll,6,4,LAYUPS,2016
+Jimmy Butler,202710,Hook Shot,3,2,POST_MOVES,2016
+Jimmy Butler,202710,Putback Dunk,2,2,DUNKS,2016
+Jimmy Butler,202710,Putback Layup,17,11,LAYUPS,2016
+Jimmy Butler,202710,Reverse Layup,9,3,LAYUPS,2016
+Jimmy Butler,202710,Specialty Dunk,14,12,DUNKS,2016
+Jimmy Butler,202710,Standard Dunk,21,21,DUNKS,2016
+Jimmy Butler,202710,Standard Layup,101,55,LAYUPS,2016
+Jimmy Butler,202710,Turnaround Hook Shot,1,1,POST_MOVES,2016
+Jimmy Butler,202710,2PT Driving Jump Shot,10,7,TWO_POINT_JUMPERS,2017
+Jimmy Butler,202710,2PT Fadeaway Jump Shot,55,20,TWO_POINT_JUMPERS,2017
+Jimmy Butler,202710,2PT Floating Jump Shot,34,22,FLOATING_SHOTS,2017
+Jimmy Butler,202710,2PT Jump Shot,512,158,TWO_POINT_JUMPERS,2017
+Jimmy Butler,202710,2PT Pullup Jump Shot,153,78,TWO_POINT_JUMPERS,2017
+Jimmy Butler,202710,2PT Running Jump Shot,14,10,TWO_POINT_JUMPERS,2017
+Jimmy Butler,202710,2PT Step Back Jump Shot,46,24,TWO_POINT_JUMPERS,2017
+Jimmy Butler,202710,2PT Turnaround Jump Shot,57,25,TWO_POINT_JUMPERS,2017
+Jimmy Butler,202710,Alley Oop Dunk,18,16,DUNKS,2017
+Jimmy Butler,202710,Alley Oop Layup,16,11,LAYUPS,2017
+Jimmy Butler,202710,Driving Dunk,7,7,DUNKS,2017
+Jimmy Butler,202710,Driving Hook Shot,1,0,POST_MOVES,2017
+Jimmy Butler,202710,Driving Layup,147,77,LAYUPS,2017
+Jimmy Butler,202710,Finger Roll,13,12,LAYUPS,2017
+Jimmy Butler,202710,Hook Shot,3,1,POST_MOVES,2017
+Jimmy Butler,202710,Putback Dunk,1,1,DUNKS,2017
+Jimmy Butler,202710,Putback Layup,34,21,LAYUPS,2017
+Jimmy Butler,202710,Reverse Layup,5,3,LAYUPS,2017
+Jimmy Butler,202710,Specialty Dunk,6,5,DUNKS,2017
+Jimmy Butler,202710,Standard Dunk,15,15,DUNKS,2017
+Jimmy Butler,202710,Standard Layup,104,57,LAYUPS,2017
+Jimmy Butler,202710,Turnaround Hook Shot,1,0,POST_MOVES,2017
+Jimmy Butler,202710,2PT Fadeaway Jump Shot,22,10,TWO_POINT_JUMPERS,2018
+Jimmy Butler,202710,2PT Floating Jump Shot,65,38,FLOATING_SHOTS,2018
+Jimmy Butler,202710,2PT Jump Shot,312,102,TWO_POINT_JUMPERS,2018
+Jimmy Butler,202710,2PT Pullup Jump Shot,137,71,TWO_POINT_JUMPERS,2018
+Jimmy Butler,202710,2PT Running Jump Shot,9,4,TWO_POINT_JUMPERS,2018
+Jimmy Butler,202710,2PT Step Back Jump Shot,40,13,TWO_POINT_JUMPERS,2018
+Jimmy Butler,202710,2PT Turnaround Jump Shot,79,40,TWO_POINT_JUMPERS,2018
+Jimmy Butler,202710,Alley Oop Dunk,10,10,DUNKS,2018
+Jimmy Butler,202710,Alley Oop Layup,9,7,LAYUPS,2018
+Jimmy Butler,202710,Driving Dunk,5,4,DUNKS,2018
+Jimmy Butler,202710,Driving Layup,111,53,LAYUPS,2018
+Jimmy Butler,202710,Finger Roll,5,4,LAYUPS,2018
+Jimmy Butler,202710,Hook Shot,1,0,POST_MOVES,2018
+Jimmy Butler,202710,Putback Dunk,4,4,DUNKS,2018
+Jimmy Butler,202710,Putback Layup,14,7,LAYUPS,2018
+Jimmy Butler,202710,Reverse Dunk,1,1,DUNKS,2018
+Jimmy Butler,202710,Reverse Layup,6,5,LAYUPS,2018
+Jimmy Butler,202710,Specialty Dunk,6,5,DUNKS,2018
+Jimmy Butler,202710,Standard Dunk,17,17,DUNKS,2018
+Jimmy Butler,202710,Standard Layup,68,42,LAYUPS,2018
+Jimmy Butler,202710,2PT Fadeaway Jump Shot,20,8,TWO_POINT_JUMPERS,2019
+Jimmy Butler,202710,2PT Floating Jump Shot,53,29,FLOATING_SHOTS,2019
+Jimmy Butler,202710,2PT Jump Shot,233,78,TWO_POINT_JUMPERS,2019
+Jimmy Butler,202710,2PT Pullup Jump Shot,129,49,TWO_POINT_JUMPERS,2019
+Jimmy Butler,202710,2PT Running Jump Shot,12,3,TWO_POINT_JUMPERS,2019
+Jimmy Butler,202710,2PT Step Back Jump Shot,60,19,TWO_POINT_JUMPERS,2019
+Jimmy Butler,202710,2PT Turnaround Jump Shot,62,21,TWO_POINT_JUMPERS,2019
+Jimmy Butler,202710,Alley Oop Dunk,23,22,DUNKS,2019
+Jimmy Butler,202710,Alley Oop Layup,12,8,LAYUPS,2019
+Jimmy Butler,202710,Driving Dunk,8,8,DUNKS,2019
+Jimmy Butler,202710,Driving Hook Shot,3,2,POST_MOVES,2019
+Jimmy Butler,202710,Driving Layup,116,58,LAYUPS,2019
+Jimmy Butler,202710,Finger Roll,17,13,LAYUPS,2019
+Jimmy Butler,202710,Hook Shot,1,1,POST_MOVES,2019
+Jimmy Butler,202710,Putback Dunk,2,1,DUNKS,2019
+Jimmy Butler,202710,Putback Layup,26,12,LAYUPS,2019
+Jimmy Butler,202710,Reverse Layup,10,8,LAYUPS,2019
+Jimmy Butler,202710,Specialty Dunk,16,16,DUNKS,2019
+Jimmy Butler,202710,Standard Dunk,22,22,DUNKS,2019
+Jimmy Butler,202710,Standard Layup,77,39,LAYUPS,2019
+Jimmy Butler,202710,Turnaround Hook Shot,2,1,POST_MOVES,2019
+Jimmy Butler,202710,2PT Fadeaway Jump Shot,21,7,TWO_POINT_JUMPERS,2020
+Jimmy Butler,202710,2PT Floating Jump Shot,87,41,FLOATING_SHOTS,2020
+Jimmy Butler,202710,2PT Jump Shot,106,31,TWO_POINT_JUMPERS,2020
+Jimmy Butler,202710,2PT Pullup Jump Shot,100,26,TWO_POINT_JUMPERS,2020
+Jimmy Butler,202710,2PT Running Jump Shot,1,0,TWO_POINT_JUMPERS,2020
+Jimmy Butler,202710,2PT Step Back Jump Shot,44,16,TWO_POINT_JUMPERS,2020
+Jimmy Butler,202710,2PT Turnaround Jump Shot,79,29,TWO_POINT_JUMPERS,2020
+Jimmy Butler,202710,Alley Oop Dunk,1,1,DUNKS,2020
+Jimmy Butler,202710,Alley Oop Layup,3,3,LAYUPS,2020
+Jimmy Butler,202710,Driving Dunk,13,13,DUNKS,2020
+Jimmy Butler,202710,Driving Hook Shot,6,1,POST_MOVES,2020
+Jimmy Butler,202710,Driving Layup,137,62,LAYUPS,2020
+Jimmy Butler,202710,Finger Roll,24,15,LAYUPS,2020
+Jimmy Butler,202710,Hook Shot,1,1,POST_MOVES,2020
+Jimmy Butler,202710,Putback Layup,18,8,LAYUPS,2020
+Jimmy Butler,202710,Reverse Layup,7,3,LAYUPS,2020
+Jimmy Butler,202710,Specialty Dunk,21,21,DUNKS,2020
+Jimmy Butler,202710,Standard Dunk,21,20,DUNKS,2020
+Jimmy Butler,202710,Standard Layup,66,45,LAYUPS,2020
+Jimmy Butler,202710,Turnaround Hook Shot,2,2,POST_MOVES,2020
+Jimmy Butler,202710,2PT Fadeaway Jump Shot,11,3,TWO_POINT_JUMPERS,2021
+Jimmy Butler,202710,2PT Floating Jump Shot,75,32,FLOATING_SHOTS,2021
+Jimmy Butler,202710,2PT Jump Shot,112,38,TWO_POINT_JUMPERS,2021
+Jimmy Butler,202710,2PT Pullup Jump Shot,108,47,TWO_POINT_JUMPERS,2021
+Jimmy Butler,202710,2PT Running Jump Shot,6,1,TWO_POINT_JUMPERS,2021
+Jimmy Butler,202710,2PT Step Back Jump Shot,30,10,TWO_POINT_JUMPERS,2021
+Jimmy Butler,202710,2PT Turnaround Jump Shot,62,28,TWO_POINT_JUMPERS,2021
+Jimmy Butler,202710,Alley Oop Dunk,6,6,DUNKS,2021
+Jimmy Butler,202710,Alley Oop Layup,10,9,LAYUPS,2021
+Jimmy Butler,202710,Driving Dunk,7,7,DUNKS,2021
+Jimmy Butler,202710,Driving Hook Shot,5,3,POST_MOVES,2021
+Jimmy Butler,202710,Driving Layup,137,67,LAYUPS,2021
+Jimmy Butler,202710,Finger Roll,24,16,LAYUPS,2021
+Jimmy Butler,202710,Putback Dunk,1,1,DUNKS,2021
+Jimmy Butler,202710,Putback Layup,31,15,LAYUPS,2021
+Jimmy Butler,202710,Reverse Layup,2,2,LAYUPS,2021
+Jimmy Butler,202710,Specialty Dunk,8,8,DUNKS,2021
+Jimmy Butler,202710,Standard Dunk,17,17,DUNKS,2021
+Jimmy Butler,202710,Standard Layup,82,54,LAYUPS,2021
+Jimmy Butler,202710,Turnaround Hook Shot,2,2,POST_MOVES,2021
+Jimmy Butler,202710,2PT Fadeaway Jump Shot,28,13,TWO_POINT_JUMPERS,2022
+Jimmy Butler,202710,2PT Floating Jump Shot,62,28,FLOATING_SHOTS,2022
+Jimmy Butler,202710,2PT Jump Shot,126,36,TWO_POINT_JUMPERS,2022
+Jimmy Butler,202710,2PT Pullup Jump Shot,99,40,TWO_POINT_JUMPERS,2022
+Jimmy Butler,202710,2PT Running Jump Shot,7,3,TWO_POINT_JUMPERS,2022
+Jimmy Butler,202710,2PT Step Back Jump Shot,36,14,TWO_POINT_JUMPERS,2022
+Jimmy Butler,202710,2PT Turnaround Jump Shot,126,54,TWO_POINT_JUMPERS,2022
+Jimmy Butler,202710,Alley Oop Dunk,5,3,DUNKS,2022
+Jimmy Butler,202710,Alley Oop Layup,15,11,LAYUPS,2022
+Jimmy Butler,202710,Driving Dunk,2,2,DUNKS,2022
+Jimmy Butler,202710,Driving Layup,151,75,LAYUPS,2022
+Jimmy Butler,202710,Finger Roll,11,7,LAYUPS,2022
+Jimmy Butler,202710,Putback Layup,33,24,LAYUPS,2022
+Jimmy Butler,202710,Reverse Layup,3,1,LAYUPS,2022
+Jimmy Butler,202710,Specialty Dunk,7,6,DUNKS,2022
+Jimmy Butler,202710,Standard Dunk,27,26,DUNKS,2022
+Jimmy Butler,202710,Standard Layup,86,54,LAYUPS,2022
+Jimmy Butler,202710,Turnaround Hook Shot,5,1,POST_MOVES,2022
+Jimmy Butler,202710,2PT Fadeaway Jump Shot,28,17,TWO_POINT_JUMPERS,2023
+Jimmy Butler,202710,2PT Floating Jump Shot,92,46,FLOATING_SHOTS,2023
+Jimmy Butler,202710,2PT Jump Shot,111,43,TWO_POINT_JUMPERS,2023
+Jimmy Butler,202710,2PT Pullup Jump Shot,100,45,TWO_POINT_JUMPERS,2023
+Jimmy Butler,202710,2PT Running Jump Shot,7,4,TWO_POINT_JUMPERS,2023
+Jimmy Butler,202710,2PT Step Back Jump Shot,27,11,TWO_POINT_JUMPERS,2023
+Jimmy Butler,202710,2PT Turnaround Jump Shot,94,45,TWO_POINT_JUMPERS,2023
+Jimmy Butler,202710,Alley Oop Dunk,7,6,DUNKS,2023
+Jimmy Butler,202710,Alley Oop Layup,6,4,LAYUPS,2023
+Jimmy Butler,202710,Driving Dunk,9,8,DUNKS,2023
+Jimmy Butler,202710,Driving Hook Shot,6,3,POST_MOVES,2023
+Jimmy Butler,202710,Driving Layup,152,71,LAYUPS,2023
+Jimmy Butler,202710,Finger Roll,21,12,LAYUPS,2023
+Jimmy Butler,202710,Hook Shot,3,2,POST_MOVES,2023
+Jimmy Butler,202710,Putback Dunk,1,1,DUNKS,2023
+Jimmy Butler,202710,Putback Layup,50,33,LAYUPS,2023
+Jimmy Butler,202710,Reverse Layup,5,3,LAYUPS,2023
+Jimmy Butler,202710,Specialty Dunk,14,11,DUNKS,2023
+Jimmy Butler,202710,Standard Dunk,30,29,DUNKS,2023
+Jimmy Butler,202710,Standard Layup,116,81,LAYUPS,2023
+Jimmy Butler,202710,Turnaround Hook Shot,9,4,POST_MOVES,2023
+Jimmy Butler,202710,2PT Fadeaway Jump Shot,23,6,TWO_POINT_JUMPERS,2024
+Jimmy Butler,202710,2PT Floating Jump Shot,78,32,FLOATING_SHOTS,2024
+Jimmy Butler,202710,2PT Jump Shot,36,18,TWO_POINT_JUMPERS,2024
+Jimmy Butler,202710,2PT Pullup Jump Shot,54,20,TWO_POINT_JUMPERS,2024
+Jimmy Butler,202710,2PT Step Back Jump Shot,15,8,TWO_POINT_JUMPERS,2024
+Jimmy Butler,202710,2PT Turnaround Jump Shot,83,33,TWO_POINT_JUMPERS,2024
+Jimmy Butler,202710,3PT Fadeaway Jump Shot,1,0,THREE_POINT_JUMPERS,2024
+Jimmy Butler,202710,3PT Jump Shot,105,45,THREE_POINT_JUMPERS,2024
+Jimmy Butler,202710,3PT Pullup Jump Shot,17,7,THREE_POINT_JUMPERS,2024
+Jimmy Butler,202710,3PT Running Jump Shot,10,4,THREE_POINT_JUMPERS,2024
+Jimmy Butler,202710,3PT Step Back Jump Shot,12,4,THREE_POINT_JUMPERS,2024
+Jimmy Butler,202710,Alley Oop Dunk,5,4,DUNKS,2024
+Jimmy Butler,202710,Alley Oop Layup,9,7,LAYUPS,2024
+Jimmy Butler,202710,Driving Dunk,7,7,DUNKS,2024
+Jimmy Butler,202710,Driving Hook Shot,6,4,POST_MOVES,2024
+Jimmy Butler,202710,Driving Layup,138,61,LAYUPS,2024
+Jimmy Butler,202710,Finger Roll,8,6,LAYUPS,2024
+Jimmy Butler,202710,Hook Shot,4,3,POST_MOVES,2024
+Jimmy Butler,202710,Putback Layup,40,27,LAYUPS,2024
+Jimmy Butler,202710,Reverse Layup,4,2,LAYUPS,2024
+Jimmy Butler,202710,Specialty Dunk,11,11,DUNKS,2024
+Jimmy Butler,202710,Standard Dunk,22,19,DUNKS,2024
+Jimmy Butler,202710,Standard Layup,101,66,LAYUPS,2024
+Jimmy Butler,202710,Turnaround Hook Shot,4,2,POST_MOVES,2024
+Jimmy Butler,202710,2PT Fadeaway Jump Shot,5,1,TWO_POINT_JUMPERS,2025
+Jimmy Butler,202710,2PT Floating Jump Shot,31,13,FLOATING_SHOTS,2025
+Jimmy Butler,202710,2PT Jump Shot,11,7,TWO_POINT_JUMPERS,2025
+Jimmy Butler,202710,2PT Pullup Jump Shot,11,6,TWO_POINT_JUMPERS,2025
+Jimmy Butler,202710,2PT Step Back Jump Shot,2,0,TWO_POINT_JUMPERS,2025
+Jimmy Butler,202710,2PT Turnaround Jump Shot,17,8,TWO_POINT_JUMPERS,2025
+Jimmy Butler,202710,3PT Fadeaway Jump Shot,1,0,THREE_POINT_JUMPERS,2025
+Jimmy Butler,202710,3PT Jump Shot,27,10,THREE_POINT_JUMPERS,2025
+Jimmy Butler,202710,3PT Pullup Jump Shot,1,0,THREE_POINT_JUMPERS,2025
+Jimmy Butler,202710,3PT Running Jump Shot,2,1,THREE_POINT_JUMPERS,2025
+Jimmy Butler,202710,3PT Step Back Jump Shot,1,1,THREE_POINT_JUMPERS,2025
+Jimmy Butler,202710,Alley Oop Dunk,4,4,DUNKS,2025
+Jimmy Butler,202710,Alley Oop Layup,3,2,LAYUPS,2025
+Jimmy Butler,202710,Driving Dunk,1,1,DUNKS,2025
+Jimmy Butler,202710,Driving Hook Shot,1,0,POST_MOVES,2025
+Jimmy Butler,202710,Driving Layup,42,25,LAYUPS,2025
+Jimmy Butler,202710,Finger Roll,10,9,LAYUPS,2025
+Jimmy Butler,202710,Putback Layup,15,7,LAYUPS,2025
+Jimmy Butler,202710,Reverse Layup,3,1,LAYUPS,2025
+Jimmy Butler,202710,Specialty Dunk,9,9,DUNKS,2025
+Jimmy Butler,202710,Standard Dunk,8,8,DUNKS,2025
+Jimmy Butler,202710,Standard Layup,27,15,LAYUPS,2025

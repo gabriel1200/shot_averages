@@ -1,40 +1,39 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Sam Perkins,64,Driving Layup Shot,2,24,16,Driving Layup,LAYUPS,1997
-Sam Perkins,64,Hook Shot,2,40,29,Hook Shot,POST_MOVES,1997
-Sam Perkins,64,Jump Shot,2,485,193,2PT Jump Shot,TWO_POINT_JUMPERS,1997
-Sam Perkins,64,Layup Shot,2,87,38,Standard Layup,LAYUPS,1997
-Sam Perkins,64,Running Jump Shot,2,14,7,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
-Sam Perkins,64,Slam Dunk Shot,2,3,3,Standard Dunk,DUNKS,1997
-Sam Perkins,64,Tip Shot,2,8,4,Tip Shot,TIP_SHOTS,1997
-Sam Perkins,64,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,1998
-Sam Perkins,64,Driving Layup Shot,2,17,7,Driving Layup,LAYUPS,1998
-Sam Perkins,64,Hook Shot,2,41,26,Hook Shot,POST_MOVES,1998
-Sam Perkins,64,Jump Shot,2,351,129,2PT Jump Shot,TWO_POINT_JUMPERS,1998
-Sam Perkins,64,Layup Shot,2,49,26,Standard Layup,LAYUPS,1998
-Sam Perkins,64,Running Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
-Sam Perkins,64,Slam Dunk Shot,2,4,3,Standard Dunk,DUNKS,1998
-Sam Perkins,64,Tip Shot,2,6,3,Tip Shot,TIP_SHOTS,1998
-Sam Perkins,64,Driving Layup Shot,2,7,4,Driving Layup,LAYUPS,1999
-Sam Perkins,64,Dunk Shot,2,1,1,Standard Dunk,DUNKS,1999
-Sam Perkins,64,Hook Shot,2,9,5,Hook Shot,POST_MOVES,1999
-Sam Perkins,64,Jump Shot,2,156,55,2PT Jump Shot,TWO_POINT_JUMPERS,1999
-Sam Perkins,64,Layup Shot,2,20,11,Standard Layup,LAYUPS,1999
-Sam Perkins,64,Running Jump Shot,2,3,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999
-Sam Perkins,64,Tip Shot,2,4,2,Tip Shot,TIP_SHOTS,1999
-Sam Perkins,64,Driving Layup Shot,2,12,9,Driving Layup,LAYUPS,2000
-Sam Perkins,64,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2000
-Sam Perkins,64,Hook Shot,2,27,18,Hook Shot,POST_MOVES,2000
-Sam Perkins,64,Jump Shot,2,351,127,2PT Jump Shot,TWO_POINT_JUMPERS,2000
-Sam Perkins,64,Layup Shot,2,42,24,Standard Layup,LAYUPS,2000
-Sam Perkins,64,Running Jump Shot,2,4,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2000
-Sam Perkins,64,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2000
-Sam Perkins,64,Tip Shot,2,3,3,Tip Shot,TIP_SHOTS,2000
-Sam Perkins,64,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,2001
-Sam Perkins,64,Hook Shot,2,5,4,Hook Shot,POST_MOVES,2001
-Sam Perkins,64,Jump Shot,2,197,67,2PT Jump Shot,TWO_POINT_JUMPERS,2001
-Sam Perkins,64,Layup Shot,2,13,7,Standard Layup,LAYUPS,2001
-Sam Perkins,64,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2001
-Sam Perkins,64,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,2001
-Sam Perkins,64,Running Jump Shot,2,3,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
-Sam Perkins,64,Tip Shot,2,2,0,Tip Shot,TIP_SHOTS,2001
-Sam Perkins,64,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Sam Perkins,64,2PT Jump Shot,485,193,TWO_POINT_JUMPERS,1997
+Sam Perkins,64,2PT Running Jump Shot,14,7,TWO_POINT_JUMPERS,1997
+Sam Perkins,64,Driving Layup,24,16,LAYUPS,1997
+Sam Perkins,64,Hook Shot,40,29,POST_MOVES,1997
+Sam Perkins,64,Standard Dunk,3,3,DUNKS,1997
+Sam Perkins,64,Standard Layup,87,38,LAYUPS,1997
+Sam Perkins,64,Tip Shot,8,4,TIP_SHOTS,1997
+Sam Perkins,64,2PT Jump Shot,351,129,TWO_POINT_JUMPERS,1998
+Sam Perkins,64,2PT Running Jump Shot,2,1,TWO_POINT_JUMPERS,1998
+Sam Perkins,64,Driving Dunk,1,1,DUNKS,1998
+Sam Perkins,64,Driving Layup,17,7,LAYUPS,1998
+Sam Perkins,64,Hook Shot,41,26,POST_MOVES,1998
+Sam Perkins,64,Standard Dunk,4,3,DUNKS,1998
+Sam Perkins,64,Standard Layup,49,26,LAYUPS,1998
+Sam Perkins,64,Tip Shot,6,3,TIP_SHOTS,1998
+Sam Perkins,64,2PT Jump Shot,156,55,TWO_POINT_JUMPERS,1999
+Sam Perkins,64,2PT Running Jump Shot,3,2,TWO_POINT_JUMPERS,1999
+Sam Perkins,64,Driving Layup,7,4,LAYUPS,1999
+Sam Perkins,64,Hook Shot,9,5,POST_MOVES,1999
+Sam Perkins,64,Standard Dunk,1,1,DUNKS,1999
+Sam Perkins,64,Standard Layup,20,11,LAYUPS,1999
+Sam Perkins,64,Tip Shot,4,2,TIP_SHOTS,1999
+Sam Perkins,64,2PT Jump Shot,351,127,TWO_POINT_JUMPERS,2000
+Sam Perkins,64,2PT Running Jump Shot,4,1,TWO_POINT_JUMPERS,2000
+Sam Perkins,64,Driving Layup,12,9,LAYUPS,2000
+Sam Perkins,64,Hook Shot,27,18,POST_MOVES,2000
+Sam Perkins,64,Standard Dunk,2,2,DUNKS,2000
+Sam Perkins,64,Standard Layup,42,24,LAYUPS,2000
+Sam Perkins,64,Tip Shot,3,3,TIP_SHOTS,2000
+Sam Perkins,64,2PT Jump Shot,197,67,TWO_POINT_JUMPERS,2001
+Sam Perkins,64,2PT Running Jump Shot,3,3,TWO_POINT_JUMPERS,2001
+Sam Perkins,64,2PT Turnaround Jump Shot,2,1,TWO_POINT_JUMPERS,2001
+Sam Perkins,64,Driving Layup,2,2,LAYUPS,2001
+Sam Perkins,64,Hook Shot,5,4,POST_MOVES,2001
+Sam Perkins,64,Reverse Layup,1,1,LAYUPS,2001
+Sam Perkins,64,Running Hook Shot,1,1,POST_MOVES,2001
+Sam Perkins,64,Standard Layup,13,7,LAYUPS,2001
+Sam Perkins,64,Tip Shot,2,0,TIP_SHOTS,2001

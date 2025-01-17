@@ -1,19 +1,13 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-DeJon Jarreau,1630610,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2024
-DeJon Jarreau,1630610,Driving Finger Roll Layup Shot,2,3,1,Finger Roll,LAYUPS,2024
-DeJon Jarreau,1630610,Driving Floating Bank Jump Shot,2,3,2,2PT Floating Jump Shot,FLOATING_SHOTS,2024
-DeJon Jarreau,1630610,Driving Floating Jump Shot,2,8,3,2PT Floating Jump Shot,FLOATING_SHOTS,2024
-DeJon Jarreau,1630610,Driving Layup Shot,2,4,1,Driving Layup,LAYUPS,2024
-DeJon Jarreau,1630610,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2024
-DeJon Jarreau,1630610,Jump Shot,3,10,4,3PT Jump Shot,THREE_POINT_JUMPERS,2024
-DeJon Jarreau,1630610,Layup Shot,2,1,0,Standard Layup,LAYUPS,2024
-DeJon Jarreau,1630610,Pullup Jump shot,2,7,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2024
-DeJon Jarreau,1630610,Pullup Jump shot,3,2,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
-DeJon Jarreau,1630610,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2024
-DeJon Jarreau,1630610,Running Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2024
-DeJon Jarreau,1630610,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
-DeJon Jarreau,1630610,Running Layup Shot,2,2,1,Standard Layup,LAYUPS,2024
-DeJon Jarreau,1630610,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2024
-DeJon Jarreau,1630610,Tip Dunk Shot,2,2,2,Specialty Dunk,DUNKS,2024
-DeJon Jarreau,1630610,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2024
-DeJon Jarreau,1630610,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+DeJon Jarreau,1630610,2PT Floating Jump Shot,12,5,FLOATING_SHOTS,2024
+DeJon Jarreau,1630610,2PT Pullup Jump Shot,7,1,TWO_POINT_JUMPERS,2024
+DeJon Jarreau,1630610,2PT Step Back Jump Shot,1,0,TWO_POINT_JUMPERS,2024
+DeJon Jarreau,1630610,2PT Turnaround Jump Shot,1,0,TWO_POINT_JUMPERS,2024
+DeJon Jarreau,1630610,3PT Jump Shot,10,4,THREE_POINT_JUMPERS,2024
+DeJon Jarreau,1630610,3PT Pullup Jump Shot,2,0,THREE_POINT_JUMPERS,2024
+DeJon Jarreau,1630610,3PT Running Jump Shot,1,0,THREE_POINT_JUMPERS,2024
+DeJon Jarreau,1630610,Driving Layup,4,1,LAYUPS,2024
+DeJon Jarreau,1630610,Finger Roll,4,1,LAYUPS,2024
+DeJon Jarreau,1630610,Putback Layup,2,1,LAYUPS,2024
+DeJon Jarreau,1630610,Specialty Dunk,2,2,DUNKS,2024
+DeJon Jarreau,1630610,Standard Layup,4,2,LAYUPS,2024

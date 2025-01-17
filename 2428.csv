@@ -1,16 +1,14 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Vincent Yarbrough,2428,Alley Oop Dunk Shot,2,2,1,Alley Oop Dunk,DUNKS,2003
-Vincent Yarbrough,2428,Driving Dunk Shot,2,3,3,Driving Dunk,DUNKS,2003
-Vincent Yarbrough,2428,Driving Layup Shot,2,12,5,Driving Layup,LAYUPS,2003
-Vincent Yarbrough,2428,Dunk Shot,2,9,9,Standard Dunk,DUNKS,2003
-Vincent Yarbrough,2428,Fadeaway Jump Shot,2,12,6,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2003
-Vincent Yarbrough,2428,Finger Roll Shot,2,2,1,Finger Roll,LAYUPS,2003
-Vincent Yarbrough,2428,Follow Up Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2003
-Vincent Yarbrough,2428,Jump Shot,2,338,115,2PT Jump Shot,TWO_POINT_JUMPERS,2003
-Vincent Yarbrough,2428,Layup Shot,2,29,12,Standard Layup,LAYUPS,2003
-Vincent Yarbrough,2428,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2003
-Vincent Yarbrough,2428,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2003
-Vincent Yarbrough,2428,Running Jump Shot,2,12,8,2PT Running Jump Shot,TWO_POINT_JUMPERS,2003
-Vincent Yarbrough,2428,Slam Dunk Shot,2,3,3,Standard Dunk,DUNKS,2003
-Vincent Yarbrough,2428,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2003
-Vincent Yarbrough,2428,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2003
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Vincent Yarbrough,2428,2PT Fadeaway Jump Shot,12,6,TWO_POINT_JUMPERS,2003
+Vincent Yarbrough,2428,2PT Jump Shot,338,115,TWO_POINT_JUMPERS,2003
+Vincent Yarbrough,2428,2PT Running Jump Shot,12,8,TWO_POINT_JUMPERS,2003
+Vincent Yarbrough,2428,2PT Turnaround Jump Shot,2,1,TWO_POINT_JUMPERS,2003
+Vincent Yarbrough,2428,Alley Oop Dunk,2,1,DUNKS,2003
+Vincent Yarbrough,2428,Driving Dunk,3,3,DUNKS,2003
+Vincent Yarbrough,2428,Driving Layup,12,5,LAYUPS,2003
+Vincent Yarbrough,2428,Finger Roll,2,1,LAYUPS,2003
+Vincent Yarbrough,2428,Reverse Layup,1,1,LAYUPS,2003
+Vincent Yarbrough,2428,Specialty Dunk,1,1,DUNKS,2003
+Vincent Yarbrough,2428,Standard Dunk,13,13,DUNKS,2003
+Vincent Yarbrough,2428,Standard Layup,29,12,LAYUPS,2003
+Vincent Yarbrough,2428,Tip Shot,1,1,TIP_SHOTS,2003

@@ -1,19 +1,14 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Amile Jefferson,1628518,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2019
-Amile Jefferson,1628518,Driving Layup Shot,2,3,1,Driving Layup,LAYUPS,2019
-Amile Jefferson,1628518,Hook Shot,2,3,2,Hook Shot,POST_MOVES,2019
-Amile Jefferson,1628518,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2019
-Amile Jefferson,1628518,Layup Shot,2,4,3,Standard Layup,LAYUPS,2019
-Amile Jefferson,1628518,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2019
-Amile Jefferson,1628518,Tip Layup Shot,2,3,2,Putback Layup,LAYUPS,2019
-Amile Jefferson,1628518,Cutting Layup Shot,2,1,0,Standard Layup,LAYUPS,2020
-Amile Jefferson,1628518,Driving Floating Bank Jump Shot,2,2,2,2PT Floating Jump Shot,FLOATING_SHOTS,2020
-Amile Jefferson,1628518,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2020
-Amile Jefferson,1628518,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2020
-Amile Jefferson,1628518,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2020
-Amile Jefferson,1628518,Jump Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2020
-Amile Jefferson,1628518,Layup Shot,2,3,1,Standard Layup,LAYUPS,2020
-Amile Jefferson,1628518,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2020
-Amile Jefferson,1628518,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2020
-Amile Jefferson,1628518,Turnaround Fadeaway Bank Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2020
-Amile Jefferson,1628518,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2020
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Amile Jefferson,1628518,2PT Jump Shot,1,0,TWO_POINT_JUMPERS,2019
+Amile Jefferson,1628518,Driving Layup,3,1,LAYUPS,2019
+Amile Jefferson,1628518,Hook Shot,3,2,POST_MOVES,2019
+Amile Jefferson,1628518,Putback Layup,3,2,LAYUPS,2019
+Amile Jefferson,1628518,Standard Layup,6,5,LAYUPS,2019
+Amile Jefferson,1628518,2PT Floating Jump Shot,3,2,FLOATING_SHOTS,2020
+Amile Jefferson,1628518,2PT Jump Shot,1,0,TWO_POINT_JUMPERS,2020
+Amile Jefferson,1628518,2PT Turnaround Jump Shot,1,1,TWO_POINT_JUMPERS,2020
+Amile Jefferson,1628518,Driving Layup,1,0,LAYUPS,2020
+Amile Jefferson,1628518,Hook Shot,1,0,POST_MOVES,2020
+Amile Jefferson,1628518,Putback Layup,2,1,LAYUPS,2020
+Amile Jefferson,1628518,Standard Layup,4,1,LAYUPS,2020
+Amile Jefferson,1628518,Turnaround Hook Shot,1,0,POST_MOVES,2020

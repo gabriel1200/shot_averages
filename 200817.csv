@@ -1,13 +1,12 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Pooh Jeter,200817,Driving Jump shot,2,2,1,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2011
-Pooh Jeter,200817,Driving Layup Shot,2,8,6,Driving Layup,LAYUPS,2011
-Pooh Jeter,200817,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2011
-Pooh Jeter,200817,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2011
-Pooh Jeter,200817,Jump Shot,2,179,64,2PT Jump Shot,TWO_POINT_JUMPERS,2011
-Pooh Jeter,200817,Jump Shot,3,23,5,3PT Jump Shot,THREE_POINT_JUMPERS,2011
-Pooh Jeter,200817,Layup Shot,2,23,14,Standard Layup,LAYUPS,2011
-Pooh Jeter,200817,Pullup Jump shot,2,13,11,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2011
-Pooh Jeter,200817,Running Jump Shot,2,6,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2011
-Pooh Jeter,200817,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2011
-Pooh Jeter,200817,Step Back Jump shot,2,1,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2011
-Pooh Jeter,200817,Turnaround Fadeaway shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2011
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Pooh Jeter,200817,2PT Driving Jump Shot,2,1,TWO_POINT_JUMPERS,2011
+Pooh Jeter,200817,2PT Fadeaway Jump Shot,1,0,TWO_POINT_JUMPERS,2011
+Pooh Jeter,200817,2PT Jump Shot,180,65,TWO_POINT_JUMPERS,2011
+Pooh Jeter,200817,2PT Pullup Jump Shot,13,11,TWO_POINT_JUMPERS,2011
+Pooh Jeter,200817,2PT Running Jump Shot,6,2,TWO_POINT_JUMPERS,2011
+Pooh Jeter,200817,2PT Step Back Jump Shot,1,1,TWO_POINT_JUMPERS,2011
+Pooh Jeter,200817,2PT Turnaround Jump Shot,1,1,TWO_POINT_JUMPERS,2011
+Pooh Jeter,200817,3PT Jump Shot,23,5,THREE_POINT_JUMPERS,2011
+Pooh Jeter,200817,3PT Running Jump Shot,1,0,THREE_POINT_JUMPERS,2011
+Pooh Jeter,200817,Driving Layup,8,6,LAYUPS,2011
+Pooh Jeter,200817,Standard Layup,23,14,LAYUPS,2011

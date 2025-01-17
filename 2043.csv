@@ -1,35 +1,33 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Mateen Cleaves,2043,Driving Layup Shot,2,63,49,Driving Layup,LAYUPS,2001
-Mateen Cleaves,2043,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2001
-Mateen Cleaves,2043,Jump Shot,2,215,79,2PT Jump Shot,TWO_POINT_JUMPERS,2001
-Mateen Cleaves,2043,Jump Shot,3,2,0,3PT Jump Shot,THREE_POINT_JUMPERS,2001
-Mateen Cleaves,2043,Layup Shot,2,92,21,Standard Layup,LAYUPS,2001
-Mateen Cleaves,2043,Reverse Layup Shot,2,4,2,Reverse Layup,LAYUPS,2001
-Mateen Cleaves,2043,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,2001
-Mateen Cleaves,2043,Running Jump Shot,2,21,7,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
-Mateen Cleaves,2043,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2001
-Mateen Cleaves,2043,Driving Layup Shot,2,13,10,Driving Layup,LAYUPS,2002
-Mateen Cleaves,2043,Jump Shot,2,41,13,2PT Jump Shot,TWO_POINT_JUMPERS,2002
-Mateen Cleaves,2043,Layup Shot,2,9,4,Standard Layup,LAYUPS,2002
-Mateen Cleaves,2043,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2002
-Mateen Cleaves,2043,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,2002
-Mateen Cleaves,2043,Running Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2002
-Mateen Cleaves,2043,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2002
-Mateen Cleaves,2043,Driving Layup Shot,2,4,1,Driving Layup,LAYUPS,2003
-Mateen Cleaves,2043,Jump Shot,2,15,4,2PT Jump Shot,TWO_POINT_JUMPERS,2003
-Mateen Cleaves,2043,Layup Shot,2,2,0,Standard Layup,LAYUPS,2003
-Mateen Cleaves,2043,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2003
-Mateen Cleaves,2043,Driving Layup Shot,2,4,2,Driving Layup,LAYUPS,2004
-Mateen Cleaves,2043,Jump Shot,2,18,5,2PT Jump Shot,TWO_POINT_JUMPERS,2004
-Mateen Cleaves,2043,Layup Shot,2,1,0,Standard Layup,LAYUPS,2004
-Mateen Cleaves,2043,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2005
-Mateen Cleaves,2043,Jump Shot,2,8,4,2PT Jump Shot,TWO_POINT_JUMPERS,2005
-Mateen Cleaves,2043,Jump Shot,3,2,0,3PT Jump Shot,THREE_POINT_JUMPERS,2005
-Mateen Cleaves,2043,Layup Shot,2,3,0,Standard Layup,LAYUPS,2005
-Mateen Cleaves,2043,Driving Layup Shot,2,13,8,Driving Layup,LAYUPS,2006
-Mateen Cleaves,2043,Jump Shot,2,46,15,2PT Jump Shot,TWO_POINT_JUMPERS,2006
-Mateen Cleaves,2043,Jump Shot,3,3,0,3PT Jump Shot,THREE_POINT_JUMPERS,2006
-Mateen Cleaves,2043,Layup Shot,2,6,0,Standard Layup,LAYUPS,2006
-Mateen Cleaves,2043,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2006
-Mateen Cleaves,2043,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2006
-Mateen Cleaves,2043,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2006
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Mateen Cleaves,2043,2PT Jump Shot,215,79,TWO_POINT_JUMPERS,2001
+Mateen Cleaves,2043,2PT Running Jump Shot,21,7,TWO_POINT_JUMPERS,2001
+Mateen Cleaves,2043,3PT Jump Shot,2,0,THREE_POINT_JUMPERS,2001
+Mateen Cleaves,2043,Driving Layup,63,49,LAYUPS,2001
+Mateen Cleaves,2043,Hook Shot,1,0,POST_MOVES,2001
+Mateen Cleaves,2043,Reverse Layup,4,2,LAYUPS,2001
+Mateen Cleaves,2043,Running Hook Shot,1,1,POST_MOVES,2001
+Mateen Cleaves,2043,Standard Layup,93,22,LAYUPS,2001
+Mateen Cleaves,2043,2PT Jump Shot,41,13,TWO_POINT_JUMPERS,2002
+Mateen Cleaves,2043,2PT Running Jump Shot,2,1,TWO_POINT_JUMPERS,2002
+Mateen Cleaves,2043,2PT Turnaround Jump Shot,1,0,TWO_POINT_JUMPERS,2002
+Mateen Cleaves,2043,Driving Layup,13,10,LAYUPS,2002
+Mateen Cleaves,2043,Reverse Layup,1,1,LAYUPS,2002
+Mateen Cleaves,2043,Running Hook Shot,1,1,POST_MOVES,2002
+Mateen Cleaves,2043,Standard Layup,9,4,LAYUPS,2002
+Mateen Cleaves,2043,2PT Jump Shot,15,4,TWO_POINT_JUMPERS,2003
+Mateen Cleaves,2043,Driving Layup,4,1,LAYUPS,2003
+Mateen Cleaves,2043,Reverse Layup,2,1,LAYUPS,2003
+Mateen Cleaves,2043,Standard Layup,2,0,LAYUPS,2003
+Mateen Cleaves,2043,2PT Jump Shot,18,5,TWO_POINT_JUMPERS,2004
+Mateen Cleaves,2043,Driving Layup,4,2,LAYUPS,2004
+Mateen Cleaves,2043,Standard Layup,1,0,LAYUPS,2004
+Mateen Cleaves,2043,2PT Jump Shot,8,4,TWO_POINT_JUMPERS,2005
+Mateen Cleaves,2043,3PT Jump Shot,2,0,THREE_POINT_JUMPERS,2005
+Mateen Cleaves,2043,Driving Layup,1,1,LAYUPS,2005
+Mateen Cleaves,2043,Standard Layup,3,0,LAYUPS,2005
+Mateen Cleaves,2043,2PT Jump Shot,46,15,TWO_POINT_JUMPERS,2006
+Mateen Cleaves,2043,2PT Running Jump Shot,1,1,TWO_POINT_JUMPERS,2006
+Mateen Cleaves,2043,3PT Jump Shot,3,0,THREE_POINT_JUMPERS,2006
+Mateen Cleaves,2043,Driving Layup,13,8,LAYUPS,2006
+Mateen Cleaves,2043,Reverse Layup,1,0,LAYUPS,2006
+Mateen Cleaves,2043,Standard Layup,7,1,LAYUPS,2006

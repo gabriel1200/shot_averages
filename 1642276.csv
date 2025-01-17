@@ -1,29 +1,21 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Kel'el Ware,1642276,Alley Oop Dunk Shot,2,21,19,Alley Oop Dunk,DUNKS,2025
-Kel'el Ware,1642276,Alley Oop Layup shot,2,4,3,Alley Oop Layup,LAYUPS,2025
-Kel'el Ware,1642276,Cutting Dunk Shot,2,5,5,Specialty Dunk,DUNKS,2025
-Kel'el Ware,1642276,Cutting Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2025
-Kel'el Ware,1642276,Cutting Layup Shot,2,5,3,Standard Layup,LAYUPS,2025
-Kel'el Ware,1642276,Driving Floating Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Kel'el Ware,1642276,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2025
-Kel'el Ware,1642276,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2025
-Kel'el Ware,1642276,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Kel'el Ware,1642276,Hook Bank Shot,2,1,0,Hook Shot,POST_MOVES,2025
-Kel'el Ware,1642276,Jump Bank Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2025
-Kel'el Ware,1642276,Jump Shot,2,4,2,2PT Jump Shot,TWO_POINT_JUMPERS,2025
-Kel'el Ware,1642276,Jump Shot,3,24,11,3PT Jump Shot,THREE_POINT_JUMPERS,2025
-Kel'el Ware,1642276,Layup Shot,2,6,2,Standard Layup,LAYUPS,2025
-Kel'el Ware,1642276,Pullup Jump shot,2,2,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
-Kel'el Ware,1642276,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2025
-Kel'el Ware,1642276,Putback Layup Shot,2,2,1,Putback Layup,LAYUPS,2025
-Kel'el Ware,1642276,Reverse Dunk Shot,2,1,0,Reverse Dunk,DUNKS,2025
-Kel'el Ware,1642276,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2025
-Kel'el Ware,1642276,Running Dunk Shot,2,4,3,Standard Dunk,DUNKS,2025
-Kel'el Ware,1642276,Running Jump Shot,3,1,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
-Kel'el Ware,1642276,Step Back Jump shot,3,1,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
-Kel'el Ware,1642276,Tip Dunk Shot,2,3,1,Specialty Dunk,DUNKS,2025
-Kel'el Ware,1642276,Tip Layup Shot,2,4,1,Putback Layup,LAYUPS,2025
-Kel'el Ware,1642276,Turnaround Bank Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2025
-Kel'el Ware,1642276,Turnaround Fadeaway shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
-Kel'el Ware,1642276,Turnaround Hook Shot,2,6,3,Turnaround Hook Shot,POST_MOVES,2025
-Kel'el Ware,1642276,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Kel'el Ware,1642276,2PT Floating Jump Shot,2,1,FLOATING_SHOTS,2025
+Kel'el Ware,1642276,2PT Jump Shot,4,2,TWO_POINT_JUMPERS,2025
+Kel'el Ware,1642276,2PT Pullup Jump Shot,2,2,TWO_POINT_JUMPERS,2025
+Kel'el Ware,1642276,2PT Turnaround Jump Shot,4,2,TWO_POINT_JUMPERS,2025
+Kel'el Ware,1642276,3PT Jump Shot,25,11,THREE_POINT_JUMPERS,2025
+Kel'el Ware,1642276,3PT Running Jump Shot,1,1,THREE_POINT_JUMPERS,2025
+Kel'el Ware,1642276,3PT Step Back Jump Shot,1,0,THREE_POINT_JUMPERS,2025
+Kel'el Ware,1642276,Alley Oop Dunk,21,19,DUNKS,2025
+Kel'el Ware,1642276,Alley Oop Layup,4,3,LAYUPS,2025
+Kel'el Ware,1642276,Driving Layup,1,0,LAYUPS,2025
+Kel'el Ware,1642276,Finger Roll,1,1,LAYUPS,2025
+Kel'el Ware,1642276,Hook Shot,1,0,POST_MOVES,2025
+Kel'el Ware,1642276,Putback Dunk,1,1,DUNKS,2025
+Kel'el Ware,1642276,Putback Layup,6,2,LAYUPS,2025
+Kel'el Ware,1642276,Reverse Dunk,1,0,DUNKS,2025
+Kel'el Ware,1642276,Reverse Layup,1,1,LAYUPS,2025
+Kel'el Ware,1642276,Specialty Dunk,8,6,DUNKS,2025
+Kel'el Ware,1642276,Standard Dunk,5,4,DUNKS,2025
+Kel'el Ware,1642276,Standard Layup,11,5,LAYUPS,2025
+Kel'el Ware,1642276,Turnaround Hook Shot,7,3,POST_MOVES,2025

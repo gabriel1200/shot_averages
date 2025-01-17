@@ -1,13 +1,10 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Rob Dillingham,1642265,Driving Finger Roll Layup Shot,2,3,1,Finger Roll,LAYUPS,2025
-Rob Dillingham,1642265,Driving Floating Bank Jump Shot,2,3,1,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Rob Dillingham,1642265,Driving Floating Jump Shot,2,3,1,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Rob Dillingham,1642265,Driving Layup Shot,2,12,7,Driving Layup,LAYUPS,2025
-Rob Dillingham,1642265,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Rob Dillingham,1642265,Jump Shot,3,8,3,3PT Jump Shot,THREE_POINT_JUMPERS,2025
-Rob Dillingham,1642265,Pullup Jump shot,2,3,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
-Rob Dillingham,1642265,Pullup Jump shot,3,10,5,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
-Rob Dillingham,1642265,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
-Rob Dillingham,1642265,Running Layup Shot,2,4,3,Standard Layup,LAYUPS,2025
-Rob Dillingham,1642265,Running Pull-Up Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2025
-Rob Dillingham,1642265,Running Pull-Up Jump Shot,3,2,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Rob Dillingham,1642265,2PT Floating Jump Shot,7,2,FLOATING_SHOTS,2025
+Rob Dillingham,1642265,2PT Pullup Jump Shot,3,1,TWO_POINT_JUMPERS,2025
+Rob Dillingham,1642265,2PT Running Jump Shot,1,0,TWO_POINT_JUMPERS,2025
+Rob Dillingham,1642265,3PT Jump Shot,8,3,THREE_POINT_JUMPERS,2025
+Rob Dillingham,1642265,3PT Pullup Jump Shot,10,5,THREE_POINT_JUMPERS,2025
+Rob Dillingham,1642265,3PT Running Jump Shot,3,1,THREE_POINT_JUMPERS,2025
+Rob Dillingham,1642265,Driving Layup,12,7,LAYUPS,2025
+Rob Dillingham,1642265,Finger Roll,3,1,LAYUPS,2025
+Rob Dillingham,1642265,Standard Layup,4,3,LAYUPS,2025

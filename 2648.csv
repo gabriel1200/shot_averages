@@ -1,50 +1,44 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Ronald Dupree,2648,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2004
-Ronald Dupree,2648,Driving Layup Shot,2,9,5,Driving Layup,LAYUPS,2004
-Ronald Dupree,2648,Dunk Shot,2,10,10,Standard Dunk,DUNKS,2004
-Ronald Dupree,2648,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2004
-Ronald Dupree,2648,Finger Roll Shot,2,2,2,Finger Roll,LAYUPS,2004
-Ronald Dupree,2648,Follow Up Dunk Shot,2,5,5,Specialty Dunk,DUNKS,2004
-Ronald Dupree,2648,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2004
-Ronald Dupree,2648,Jump Shot,2,166,48,2PT Jump Shot,TWO_POINT_JUMPERS,2004
-Ronald Dupree,2648,Layup Shot,2,64,23,Standard Layup,LAYUPS,2004
-Ronald Dupree,2648,Reverse Layup Shot,2,5,3,Reverse Layup,LAYUPS,2004
-Ronald Dupree,2648,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2004
-Ronald Dupree,2648,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,2004
-Ronald Dupree,2648,Running Jump Shot,2,5,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2004
-Ronald Dupree,2648,Slam Dunk Shot,2,4,4,Standard Dunk,DUNKS,2004
-Ronald Dupree,2648,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,2004
-Ronald Dupree,2648,Turnaround Jump Shot,2,3,3,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2004
-Ronald Dupree,2648,Alley Oop Dunk Shot,2,8,7,Alley Oop Dunk,DUNKS,2005
-Ronald Dupree,2648,Alley Oop Layup shot,2,2,1,Alley Oop Layup,LAYUPS,2005
-Ronald Dupree,2648,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2005
-Ronald Dupree,2648,Driving Layup Shot,2,6,5,Driving Layup,LAYUPS,2005
-Ronald Dupree,2648,Dunk Shot,2,11,9,Standard Dunk,DUNKS,2005
-Ronald Dupree,2648,Jump Shot,2,50,14,2PT Jump Shot,TWO_POINT_JUMPERS,2005
-Ronald Dupree,2648,Layup Shot,2,29,12,Standard Layup,LAYUPS,2005
-Ronald Dupree,2648,Running Jump Shot,2,3,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2005
-Ronald Dupree,2648,Slam Dunk Shot,2,6,6,Standard Dunk,DUNKS,2005
-Ronald Dupree,2648,Tip Shot,2,10,4,Tip Shot,TIP_SHOTS,2005
-Ronald Dupree,2648,Alley Oop Dunk Shot,2,3,3,Alley Oop Dunk,DUNKS,2006
-Ronald Dupree,2648,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2006
-Ronald Dupree,2648,Driving Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2006
-Ronald Dupree,2648,Driving Layup Shot,2,5,3,Driving Layup,LAYUPS,2006
-Ronald Dupree,2648,Dunk Shot,2,2,1,Standard Dunk,DUNKS,2006
-Ronald Dupree,2648,Follow Up Dunk Shot,2,2,2,Specialty Dunk,DUNKS,2006
-Ronald Dupree,2648,Jump Shot,2,27,9,2PT Jump Shot,TWO_POINT_JUMPERS,2006
-Ronald Dupree,2648,Layup Shot,2,13,6,Standard Layup,LAYUPS,2006
-Ronald Dupree,2648,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2006
-Ronald Dupree,2648,Slam Dunk Shot,2,4,4,Standard Dunk,DUNKS,2006
-Ronald Dupree,2648,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,2006
-Ronald Dupree,2648,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2006
-Ronald Dupree,2648,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2007
-Ronald Dupree,2648,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2007
-Ronald Dupree,2648,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2007
-Ronald Dupree,2648,Follow Up Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2007
-Ronald Dupree,2648,Jump Shot,2,17,3,2PT Jump Shot,TWO_POINT_JUMPERS,2007
-Ronald Dupree,2648,Layup Shot,2,7,1,Standard Layup,LAYUPS,2007
-Ronald Dupree,2648,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,2007
-Ronald Dupree,2648,Jump Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2008
-Ronald Dupree,2648,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2008
-Ronald Dupree,2648,Jump Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2011
-Ronald Dupree,2648,Layup Shot,2,2,1,Standard Layup,LAYUPS,2011
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Ronald Dupree,2648,2PT Fadeaway Jump Shot,1,1,TWO_POINT_JUMPERS,2004
+Ronald Dupree,2648,2PT Jump Shot,167,48,TWO_POINT_JUMPERS,2004
+Ronald Dupree,2648,2PT Running Jump Shot,5,3,TWO_POINT_JUMPERS,2004
+Ronald Dupree,2648,2PT Turnaround Jump Shot,3,3,TWO_POINT_JUMPERS,2004
+Ronald Dupree,2648,Driving Dunk,2,2,DUNKS,2004
+Ronald Dupree,2648,Driving Layup,9,5,LAYUPS,2004
+Ronald Dupree,2648,Finger Roll,2,2,LAYUPS,2004
+Ronald Dupree,2648,Reverse Layup,5,3,LAYUPS,2004
+Ronald Dupree,2648,Running Hook Shot,1,0,POST_MOVES,2004
+Ronald Dupree,2648,Specialty Dunk,5,5,DUNKS,2004
+Ronald Dupree,2648,Standard Dunk,15,15,DUNKS,2004
+Ronald Dupree,2648,Standard Layup,64,23,LAYUPS,2004
+Ronald Dupree,2648,Tip Shot,3,1,TIP_SHOTS,2004
+Ronald Dupree,2648,2PT Jump Shot,50,14,TWO_POINT_JUMPERS,2005
+Ronald Dupree,2648,2PT Running Jump Shot,3,1,TWO_POINT_JUMPERS,2005
+Ronald Dupree,2648,Alley Oop Dunk,8,7,DUNKS,2005
+Ronald Dupree,2648,Alley Oop Layup,2,1,LAYUPS,2005
+Ronald Dupree,2648,Driving Dunk,2,2,DUNKS,2005
+Ronald Dupree,2648,Driving Layup,6,5,LAYUPS,2005
+Ronald Dupree,2648,Standard Dunk,17,15,DUNKS,2005
+Ronald Dupree,2648,Standard Layup,29,12,LAYUPS,2005
+Ronald Dupree,2648,Tip Shot,10,4,TIP_SHOTS,2005
+Ronald Dupree,2648,2PT Jump Shot,27,9,TWO_POINT_JUMPERS,2006
+Ronald Dupree,2648,2PT Turnaround Jump Shot,2,1,TWO_POINT_JUMPERS,2006
+Ronald Dupree,2648,Alley Oop Dunk,3,3,DUNKS,2006
+Ronald Dupree,2648,Driving Dunk,1,1,DUNKS,2006
+Ronald Dupree,2648,Driving Layup,5,3,LAYUPS,2006
+Ronald Dupree,2648,Finger Roll,1,1,LAYUPS,2006
+Ronald Dupree,2648,Reverse Layup,1,1,LAYUPS,2006
+Ronald Dupree,2648,Specialty Dunk,2,2,DUNKS,2006
+Ronald Dupree,2648,Standard Dunk,6,5,DUNKS,2006
+Ronald Dupree,2648,Standard Layup,13,6,LAYUPS,2006
+Ronald Dupree,2648,Tip Shot,2,1,TIP_SHOTS,2006
+Ronald Dupree,2648,2PT Fadeaway Jump Shot,1,1,TWO_POINT_JUMPERS,2007
+Ronald Dupree,2648,2PT Jump Shot,17,3,TWO_POINT_JUMPERS,2007
+Ronald Dupree,2648,Driving Layup,1,1,LAYUPS,2007
+Ronald Dupree,2648,Specialty Dunk,1,1,DUNKS,2007
+Ronald Dupree,2648,Standard Dunk,4,4,DUNKS,2007
+Ronald Dupree,2648,Standard Layup,7,1,LAYUPS,2007
+Ronald Dupree,2648,2PT Jump Shot,2,0,TWO_POINT_JUMPERS,2008
+Ronald Dupree,2648,2PT Turnaround Jump Shot,1,1,TWO_POINT_JUMPERS,2008
+Ronald Dupree,2648,2PT Jump Shot,2,0,TWO_POINT_JUMPERS,2011
+Ronald Dupree,2648,Standard Layup,2,1,LAYUPS,2011

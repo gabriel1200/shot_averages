@@ -1,13 +1,12 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Dakari Johnson,1626177,Cutting Dunk Shot,2,2,2,Specialty Dunk,DUNKS,2018
-Dakari Johnson,1626177,Cutting Layup Shot,2,3,2,Standard Layup,LAYUPS,2018
-Dakari Johnson,1626177,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2018
-Dakari Johnson,1626177,Jump Shot,2,9,6,2PT Jump Shot,TWO_POINT_JUMPERS,2018
-Dakari Johnson,1626177,Layup Shot,2,12,4,Standard Layup,LAYUPS,2018
-Dakari Johnson,1626177,Putback Dunk Shot,2,2,2,Putback Dunk,DUNKS,2018
-Dakari Johnson,1626177,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2018
-Dakari Johnson,1626177,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2018
-Dakari Johnson,1626177,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2018
-Dakari Johnson,1626177,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2018
-Dakari Johnson,1626177,Turnaround Hook Shot,2,5,2,Turnaround Hook Shot,POST_MOVES,2018
-Dakari Johnson,1626177,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2018
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Dakari Johnson,1626177,2PT Jump Shot,9,6,TWO_POINT_JUMPERS,2018
+Dakari Johnson,1626177,2PT Running Jump Shot,1,1,TWO_POINT_JUMPERS,2018
+Dakari Johnson,1626177,2PT Turnaround Jump Shot,1,0,TWO_POINT_JUMPERS,2018
+Dakari Johnson,1626177,Hook Shot,1,0,POST_MOVES,2018
+Dakari Johnson,1626177,Putback Dunk,2,2,DUNKS,2018
+Dakari Johnson,1626177,Putback Layup,1,1,LAYUPS,2018
+Dakari Johnson,1626177,Reverse Layup,1,1,LAYUPS,2018
+Dakari Johnson,1626177,Specialty Dunk,2,2,DUNKS,2018
+Dakari Johnson,1626177,Standard Dunk,1,1,DUNKS,2018
+Dakari Johnson,1626177,Standard Layup,15,6,LAYUPS,2018
+Dakari Johnson,1626177,Turnaround Hook Shot,5,2,POST_MOVES,2018

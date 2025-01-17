@@ -1,25 +1,21 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Justin Robinson,1629620,Driving Floating Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2020
-Justin Robinson,1629620,Jump Shot,2,6,3,2PT Jump Shot,TWO_POINT_JUMPERS,2020
-Justin Robinson,1629620,Pullup Jump shot,2,5,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2020
-Justin Robinson,1629620,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2021
-Justin Robinson,1629620,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2021
-Justin Robinson,1629620,Jump Shot,2,10,3,2PT Jump Shot,TWO_POINT_JUMPERS,2021
-Justin Robinson,1629620,Jump Shot,3,2,1,3PT Jump Shot,THREE_POINT_JUMPERS,2021
-Justin Robinson,1629620,Pullup Jump shot,2,3,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2021
-Justin Robinson,1629620,Pullup Jump shot,3,1,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2021
-Justin Robinson,1629620,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2021
-Justin Robinson,1629620,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2021
-Justin Robinson,1629620,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2022
-Justin Robinson,1629620,Driving Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2022
-Justin Robinson,1629620,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2022
-Justin Robinson,1629620,Driving Floating Jump Shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2022
-Justin Robinson,1629620,Driving Layup Shot,2,5,1,Driving Layup,LAYUPS,2022
-Justin Robinson,1629620,Jump Shot,2,47,11,2PT Jump Shot,TWO_POINT_JUMPERS,2022
-Justin Robinson,1629620,Jump Shot,3,2,2,3PT Jump Shot,THREE_POINT_JUMPERS,2022
-Justin Robinson,1629620,Pullup Jump shot,2,22,6,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2022
-Justin Robinson,1629620,Pullup Jump shot,3,4,1,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2022
-Justin Robinson,1629620,Running Finger Roll Layup Shot,2,3,2,Finger Roll,LAYUPS,2022
-Justin Robinson,1629620,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2022
-Justin Robinson,1629620,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2022
-Justin Robinson,1629620,Running Pull-Up Jump Shot,2,3,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2022
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Justin Robinson,1629620,2PT Floating Jump Shot,1,1,FLOATING_SHOTS,2020
+Justin Robinson,1629620,2PT Jump Shot,6,3,TWO_POINT_JUMPERS,2020
+Justin Robinson,1629620,2PT Pullup Jump Shot,5,1,TWO_POINT_JUMPERS,2020
+Justin Robinson,1629620,2PT Floating Jump Shot,1,1,FLOATING_SHOTS,2021
+Justin Robinson,1629620,2PT Jump Shot,10,3,TWO_POINT_JUMPERS,2021
+Justin Robinson,1629620,2PT Pullup Jump Shot,3,0,TWO_POINT_JUMPERS,2021
+Justin Robinson,1629620,2PT Running Jump Shot,1,0,TWO_POINT_JUMPERS,2021
+Justin Robinson,1629620,3PT Jump Shot,2,1,THREE_POINT_JUMPERS,2021
+Justin Robinson,1629620,3PT Pullup Jump Shot,1,0,THREE_POINT_JUMPERS,2021
+Justin Robinson,1629620,Driving Layup,2,1,LAYUPS,2021
+Justin Robinson,1629620,Standard Layup,1,1,LAYUPS,2021
+Justin Robinson,1629620,2PT Floating Jump Shot,3,1,FLOATING_SHOTS,2022
+Justin Robinson,1629620,2PT Jump Shot,47,11,TWO_POINT_JUMPERS,2022
+Justin Robinson,1629620,2PT Pullup Jump Shot,22,6,TWO_POINT_JUMPERS,2022
+Justin Robinson,1629620,2PT Running Jump Shot,4,2,TWO_POINT_JUMPERS,2022
+Justin Robinson,1629620,3PT Jump Shot,2,2,THREE_POINT_JUMPERS,2022
+Justin Robinson,1629620,3PT Pullup Jump Shot,4,1,THREE_POINT_JUMPERS,2022
+Justin Robinson,1629620,Driving Layup,5,1,LAYUPS,2022
+Justin Robinson,1629620,Finger Roll,4,2,LAYUPS,2022
+Justin Robinson,1629620,Standard Layup,2,2,LAYUPS,2022

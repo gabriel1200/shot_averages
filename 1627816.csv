@@ -1,51 +1,38 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Alex Poythress,1627816,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2017
-Alex Poythress,1627816,Driving Bank shot,2,1,1,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2017
-Alex Poythress,1627816,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2017
-Alex Poythress,1627816,Driving Floating Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2017
-Alex Poythress,1627816,Driving Layup Shot,2,5,3,Driving Layup,LAYUPS,2017
-Alex Poythress,1627816,Driving Reverse Layup Shot,2,2,2,Driving Layup,LAYUPS,2017
-Alex Poythress,1627816,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2017
-Alex Poythress,1627816,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2017
-Alex Poythress,1627816,Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2017
-Alex Poythress,1627816,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2017
-Alex Poythress,1627816,Jump Shot,2,20,6,2PT Jump Shot,TWO_POINT_JUMPERS,2017
-Alex Poythress,1627816,Jump Shot,3,2,0,3PT Jump Shot,THREE_POINT_JUMPERS,2017
-Alex Poythress,1627816,Layup Shot,2,6,1,Standard Layup,LAYUPS,2017
-Alex Poythress,1627816,No Shot,2,1,0,No Shot,NO_SHOT,2017
-Alex Poythress,1627816,Putback Layup Shot,2,3,3,Putback Layup,LAYUPS,2017
-Alex Poythress,1627816,Reverse Layup Shot,2,3,2,Reverse Layup,LAYUPS,2017
-Alex Poythress,1627816,Tip Layup Shot,2,3,1,Putback Layup,LAYUPS,2017
-Alex Poythress,1627816,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2017
-Alex Poythress,1627816,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2018
-Alex Poythress,1627816,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2018
-Alex Poythress,1627816,Driving Layup Shot,2,3,0,Driving Layup,LAYUPS,2018
-Alex Poythress,1627816,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2018
-Alex Poythress,1627816,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2018
-Alex Poythress,1627816,Jump Shot,2,12,4,2PT Jump Shot,TWO_POINT_JUMPERS,2018
-Alex Poythress,1627816,Layup Shot,2,2,2,Standard Layup,LAYUPS,2018
-Alex Poythress,1627816,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2018
-Alex Poythress,1627816,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2018
-Alex Poythress,1627816,Tip Layup Shot,2,3,0,Putback Layup,LAYUPS,2018
-Alex Poythress,1627816,Alley Oop Dunk Shot,2,2,1,Alley Oop Dunk,DUNKS,2019
-Alex Poythress,1627816,Cutting Dunk Shot,2,4,4,Specialty Dunk,DUNKS,2019
-Alex Poythress,1627816,Cutting Layup Shot,2,5,3,Standard Layup,LAYUPS,2019
-Alex Poythress,1627816,Driving Dunk Shot,2,2,1,Driving Dunk,DUNKS,2019
-Alex Poythress,1627816,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2019
-Alex Poythress,1627816,Driving Layup Shot,2,8,2,Driving Layup,LAYUPS,2019
-Alex Poythress,1627816,Dunk Shot,2,3,1,Standard Dunk,DUNKS,2019
-Alex Poythress,1627816,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2019
-Alex Poythress,1627816,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2019
-Alex Poythress,1627816,Jump Shot,2,19,7,2PT Jump Shot,TWO_POINT_JUMPERS,2019
-Alex Poythress,1627816,Jump Shot,3,5,2,3PT Jump Shot,THREE_POINT_JUMPERS,2019
-Alex Poythress,1627816,Layup Shot,2,8,4,Standard Layup,LAYUPS,2019
-Alex Poythress,1627816,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2019
-Alex Poythress,1627816,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2019
-Alex Poythress,1627816,Putback Layup Shot,2,5,3,Putback Layup,LAYUPS,2019
-Alex Poythress,1627816,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2019
-Alex Poythress,1627816,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2019
-Alex Poythress,1627816,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2019
-Alex Poythress,1627816,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2019
-Alex Poythress,1627816,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2019
-Alex Poythress,1627816,Tip Dunk Shot,2,1,0,Specialty Dunk,DUNKS,2019
-Alex Poythress,1627816,Tip Layup Shot,2,8,4,Putback Layup,LAYUPS,2019
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Alex Poythress,1627816,2PT Driving Jump Shot,1,1,TWO_POINT_JUMPERS,2017
+Alex Poythress,1627816,2PT Fadeaway Jump Shot,1,1,TWO_POINT_JUMPERS,2017
+Alex Poythress,1627816,2PT Floating Jump Shot,1,1,FLOATING_SHOTS,2017
+Alex Poythress,1627816,2PT Jump Shot,21,7,TWO_POINT_JUMPERS,2017
+Alex Poythress,1627816,2PT Turnaround Jump Shot,1,0,TWO_POINT_JUMPERS,2017
+Alex Poythress,1627816,3PT Jump Shot,2,0,THREE_POINT_JUMPERS,2017
+Alex Poythress,1627816,Driving Dunk,1,1,DUNKS,2017
+Alex Poythress,1627816,Driving Layup,7,5,LAYUPS,2017
+Alex Poythress,1627816,Finger Roll,1,0,LAYUPS,2017
+Alex Poythress,1627816,No Shot,1,0,NO_SHOT,2017
+Alex Poythress,1627816,Putback Layup,6,4,LAYUPS,2017
+Alex Poythress,1627816,Reverse Layup,3,2,LAYUPS,2017
+Alex Poythress,1627816,Standard Dunk,1,1,DUNKS,2017
+Alex Poythress,1627816,Standard Layup,7,2,LAYUPS,2017
+Alex Poythress,1627816,2PT Jump Shot,13,4,TWO_POINT_JUMPERS,2018
+Alex Poythress,1627816,Alley Oop Layup,1,1,LAYUPS,2018
+Alex Poythress,1627816,Driving Dunk,1,1,DUNKS,2018
+Alex Poythress,1627816,Driving Layup,3,0,LAYUPS,2018
+Alex Poythress,1627816,Putback Layup,3,0,LAYUPS,2018
+Alex Poythress,1627816,Reverse Layup,1,1,LAYUPS,2018
+Alex Poythress,1627816,Standard Dunk,2,2,DUNKS,2018
+Alex Poythress,1627816,Standard Layup,2,2,LAYUPS,2018
+Alex Poythress,1627816,2PT Jump Shot,19,7,TWO_POINT_JUMPERS,2019
+Alex Poythress,1627816,2PT Pullup Jump Shot,1,0,TWO_POINT_JUMPERS,2019
+Alex Poythress,1627816,2PT Step Back Jump Shot,1,0,TWO_POINT_JUMPERS,2019
+Alex Poythress,1627816,3PT Jump Shot,5,2,THREE_POINT_JUMPERS,2019
+Alex Poythress,1627816,Alley Oop Dunk,2,1,DUNKS,2019
+Alex Poythress,1627816,Driving Dunk,2,1,DUNKS,2019
+Alex Poythress,1627816,Driving Layup,8,2,LAYUPS,2019
+Alex Poythress,1627816,Finger Roll,2,2,LAYUPS,2019
+Alex Poythress,1627816,Hook Shot,1,0,POST_MOVES,2019
+Alex Poythress,1627816,Putback Dunk,1,1,DUNKS,2019
+Alex Poythress,1627816,Putback Layup,13,7,LAYUPS,2019
+Alex Poythress,1627816,Reverse Layup,2,2,LAYUPS,2019
+Alex Poythress,1627816,Specialty Dunk,5,4,DUNKS,2019
+Alex Poythress,1627816,Standard Dunk,5,3,DUNKS,2019
+Alex Poythress,1627816,Standard Layup,14,8,LAYUPS,2019

@@ -1,12 +1,12 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Larry Owens,202082,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2011
-Larry Owens,202082,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2011
-Larry Owens,202082,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2011
-Larry Owens,202082,Hook Shot,2,2,1,Hook Shot,POST_MOVES,2011
-Larry Owens,202082,Jump Shot,2,20,8,2PT Jump Shot,TWO_POINT_JUMPERS,2011
-Larry Owens,202082,Layup Shot,2,1,0,Standard Layup,LAYUPS,2011
-Larry Owens,202082,Pullup Jump shot,2,4,3,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2011
-Larry Owens,202082,Turnaround Bank shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2011
-Larry Owens,202082,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2011
-Larry Owens,202082,Jump Shot,2,9,3,2PT Jump Shot,TWO_POINT_JUMPERS,2012
-Larry Owens,202082,Layup Shot,2,2,1,Standard Layup,LAYUPS,2012
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Larry Owens,202082,2PT Floating Jump Shot,1,0,FLOATING_SHOTS,2011
+Larry Owens,202082,2PT Jump Shot,20,8,TWO_POINT_JUMPERS,2011
+Larry Owens,202082,2PT Pullup Jump Shot,4,3,TWO_POINT_JUMPERS,2011
+Larry Owens,202082,2PT Turnaround Jump Shot,1,1,TWO_POINT_JUMPERS,2011
+Larry Owens,202082,Finger Roll,1,1,LAYUPS,2011
+Larry Owens,202082,Hook Shot,2,1,POST_MOVES,2011
+Larry Owens,202082,Standard Dunk,1,1,DUNKS,2011
+Larry Owens,202082,Standard Layup,1,0,LAYUPS,2011
+Larry Owens,202082,Turnaround Hook Shot,1,0,POST_MOVES,2011
+Larry Owens,202082,2PT Jump Shot,9,3,TWO_POINT_JUMPERS,2012
+Larry Owens,202082,Standard Layup,2,1,LAYUPS,2012

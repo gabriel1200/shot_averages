@@ -1,17 +1,12 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Nicolas Laprovittola,1627879,Cutting Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2017
-Nicolas Laprovittola,1627879,Driving Finger Roll Layup Shot,2,3,2,Finger Roll,LAYUPS,2017
-Nicolas Laprovittola,1627879,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2017
-Nicolas Laprovittola,1627879,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2017
-Nicolas Laprovittola,1627879,Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2017
-Nicolas Laprovittola,1627879,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2017
-Nicolas Laprovittola,1627879,Jump Bank Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2017
-Nicolas Laprovittola,1627879,Jump Shot,2,14,6,2PT Jump Shot,TWO_POINT_JUMPERS,2017
-Nicolas Laprovittola,1627879,Jump Shot,3,12,5,3PT Jump Shot,THREE_POINT_JUMPERS,2017
-Nicolas Laprovittola,1627879,Layup Shot,2,2,0,Standard Layup,LAYUPS,2017
-Nicolas Laprovittola,1627879,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2017
-Nicolas Laprovittola,1627879,Pullup Jump shot,3,1,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2017
-Nicolas Laprovittola,1627879,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2017
-Nicolas Laprovittola,1627879,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2017
-Nicolas Laprovittola,1627879,Running Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2017
-Nicolas Laprovittola,1627879,Step Back Jump shot,2,1,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2017
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Nicolas Laprovittola,1627879,2PT Floating Jump Shot,2,0,FLOATING_SHOTS,2017
+Nicolas Laprovittola,1627879,2PT Jump Shot,14,6,TWO_POINT_JUMPERS,2017
+Nicolas Laprovittola,1627879,2PT Pullup Jump Shot,1,0,TWO_POINT_JUMPERS,2017
+Nicolas Laprovittola,1627879,2PT Running Jump Shot,2,1,TWO_POINT_JUMPERS,2017
+Nicolas Laprovittola,1627879,2PT Step Back Jump Shot,1,1,TWO_POINT_JUMPERS,2017
+Nicolas Laprovittola,1627879,3PT Jump Shot,13,5,THREE_POINT_JUMPERS,2017
+Nicolas Laprovittola,1627879,3PT Pullup Jump Shot,1,0,THREE_POINT_JUMPERS,2017
+Nicolas Laprovittola,1627879,Driving Layup,2,1,LAYUPS,2017
+Nicolas Laprovittola,1627879,Finger Roll,7,5,LAYUPS,2017
+Nicolas Laprovittola,1627879,Reverse Layup,2,1,LAYUPS,2017
+Nicolas Laprovittola,1627879,Standard Layup,2,0,LAYUPS,2017

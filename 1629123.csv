@@ -1,12 +1,10 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Jared Terrell,1629123,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2019
-Jared Terrell,1629123,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2019
-Jared Terrell,1629123,Driving Floating Jump Shot,2,2,0,2PT Floating Jump Shot,FLOATING_SHOTS,2019
-Jared Terrell,1629123,Driving Layup Shot,2,3,0,Driving Layup,LAYUPS,2019
-Jared Terrell,1629123,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2019
-Jared Terrell,1629123,Jump Shot,2,8,1,2PT Jump Shot,TWO_POINT_JUMPERS,2019
-Jared Terrell,1629123,Jump Shot,3,5,2,3PT Jump Shot,THREE_POINT_JUMPERS,2019
-Jared Terrell,1629123,Layup Shot,2,2,0,Standard Layup,LAYUPS,2019
-Jared Terrell,1629123,Pullup Jump shot,2,12,5,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2019
-Jared Terrell,1629123,Putback Layup Shot,2,1,0,Putback Layup,LAYUPS,2019
-Jared Terrell,1629123,Step Back Jump shot,2,3,2,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2019
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Jared Terrell,1629123,2PT Floating Jump Shot,3,0,FLOATING_SHOTS,2019
+Jared Terrell,1629123,2PT Jump Shot,8,1,TWO_POINT_JUMPERS,2019
+Jared Terrell,1629123,2PT Pullup Jump Shot,12,5,TWO_POINT_JUMPERS,2019
+Jared Terrell,1629123,2PT Step Back Jump Shot,3,2,TWO_POINT_JUMPERS,2019
+Jared Terrell,1629123,3PT Jump Shot,5,2,THREE_POINT_JUMPERS,2019
+Jared Terrell,1629123,Driving Dunk,1,1,DUNKS,2019
+Jared Terrell,1629123,Driving Layup,4,1,LAYUPS,2019
+Jared Terrell,1629123,Putback Layup,1,0,LAYUPS,2019
+Jared Terrell,1629123,Standard Layup,2,0,LAYUPS,2019

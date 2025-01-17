@@ -1,7 +1,5 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Peyton Siva,203491,Driving Layup Shot,2,10,5,Driving Layup,LAYUPS,2014
-Peyton Siva,203491,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2014
-Peyton Siva,203491,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2014
-Peyton Siva,203491,Jump Shot,2,33,9,2PT Jump Shot,TWO_POINT_JUMPERS,2014
-Peyton Siva,203491,Layup Shot,2,11,1,Standard Layup,LAYUPS,2014
-Peyton Siva,203491,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2014
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Peyton Siva,203491,2PT Floating Jump Shot,1,1,FLOATING_SHOTS,2014
+Peyton Siva,203491,2PT Jump Shot,33,9,TWO_POINT_JUMPERS,2014
+Peyton Siva,203491,Driving Layup,11,6,LAYUPS,2014
+Peyton Siva,203491,Standard Layup,12,2,LAYUPS,2014

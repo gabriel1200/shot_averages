@@ -1,9 +1,8 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Robert Parish,305,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,1997
-Robert Parish,305,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,1997
-Robert Parish,305,Dunk Shot,2,3,3,Standard Dunk,DUNKS,1997
-Robert Parish,305,Hook Shot,2,5,3,Hook Shot,POST_MOVES,1997
-Robert Parish,305,Jump Shot,2,78,32,2PT Jump Shot,TWO_POINT_JUMPERS,1997
-Robert Parish,305,Layup Shot,2,44,22,Standard Layup,LAYUPS,1997
-Robert Parish,305,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,1997
-Robert Parish,305,Tip Shot,2,7,4,Tip Shot,TIP_SHOTS,1997
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Robert Parish,305,2PT Jump Shot,78,32,TWO_POINT_JUMPERS,1997
+Robert Parish,305,Driving Dunk,2,2,DUNKS,1997
+Robert Parish,305,Driving Layup,2,2,LAYUPS,1997
+Robert Parish,305,Hook Shot,5,3,POST_MOVES,1997
+Robert Parish,305,Standard Dunk,5,5,DUNKS,1997
+Robert Parish,305,Standard Layup,44,22,LAYUPS,1997
+Robert Parish,305,Tip Shot,7,4,TIP_SHOTS,1997

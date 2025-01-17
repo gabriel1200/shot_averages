@@ -1,15 +1,13 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Dereon Seabron,1631220,Driving Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2023
-Dereon Seabron,1631220,Driving Layup Shot,2,2,0,Driving Layup,LAYUPS,2023
-Dereon Seabron,1631220,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2023
-Dereon Seabron,1631220,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2023
-Dereon Seabron,1631220,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2024
-Dereon Seabron,1631220,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2024
-Dereon Seabron,1631220,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2024
-Dereon Seabron,1631220,Driving Layup Shot,2,4,1,Driving Layup,LAYUPS,2024
-Dereon Seabron,1631220,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2024
-Dereon Seabron,1631220,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2024
-Dereon Seabron,1631220,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2024
-Dereon Seabron,1631220,Step Back Jump shot,3,1,1,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
-Dereon Seabron,1631220,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2024
-Dereon Seabron,1631220,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Dereon Seabron,1631220,Driving Layup,2,0,LAYUPS,2023
+Dereon Seabron,1631220,Finger Roll,1,0,LAYUPS,2023
+Dereon Seabron,1631220,Putback Layup,1,1,LAYUPS,2023
+Dereon Seabron,1631220,Standard Dunk,1,1,DUNKS,2023
+Dereon Seabron,1631220,2PT Floating Jump Shot,3,1,FLOATING_SHOTS,2024
+Dereon Seabron,1631220,2PT Turnaround Jump Shot,1,0,TWO_POINT_JUMPERS,2024
+Dereon Seabron,1631220,3PT Jump Shot,1,0,THREE_POINT_JUMPERS,2024
+Dereon Seabron,1631220,3PT Step Back Jump Shot,1,1,THREE_POINT_JUMPERS,2024
+Dereon Seabron,1631220,Driving Hook Shot,1,0,POST_MOVES,2024
+Dereon Seabron,1631220,Driving Layup,4,1,LAYUPS,2024
+Dereon Seabron,1631220,Putback Layup,1,1,LAYUPS,2024
+Dereon Seabron,1631220,Standard Layup,1,0,LAYUPS,2024

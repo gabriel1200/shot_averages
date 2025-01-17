@@ -1,57 +1,54 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Robert Pack,123,Driving Dunk Shot,2,6,6,Driving Dunk,DUNKS,1997
-Robert Pack,123,Driving Layup Shot,2,146,92,Driving Layup,LAYUPS,1997
-Robert Pack,123,Dunk Shot,2,4,4,Standard Dunk,DUNKS,1997
-Robert Pack,123,Hook Shot,2,1,0,Hook Shot,POST_MOVES,1997
-Robert Pack,123,Jump Shot,2,287,88,2PT Jump Shot,TWO_POINT_JUMPERS,1997
-Robert Pack,123,Jump Shot,3,95,27,3PT Jump Shot,THREE_POINT_JUMPERS,1997
-Robert Pack,123,Layup Shot,2,103,21,Standard Layup,LAYUPS,1997
-Robert Pack,123,Running Jump Shot,2,44,27,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
-Robert Pack,123,Slam Dunk Shot,2,7,7,Standard Dunk,DUNKS,1997
-Robert Pack,123,Driving Layup Shot,2,24,12,Driving Layup,LAYUPS,1998
-Robert Pack,123,Jump Shot,2,44,10,2PT Jump Shot,TWO_POINT_JUMPERS,1998
-Robert Pack,123,Jump Shot,3,6,3,3PT Jump Shot,THREE_POINT_JUMPERS,1998
-Robert Pack,123,Layup Shot,2,18,5,Standard Layup,LAYUPS,1998
-Robert Pack,123,Running Jump Shot,2,3,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
-Robert Pack,123,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,1998
-Robert Pack,123,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,1998
-Robert Pack,123,Driving Layup Shot,2,57,27,Driving Layup,LAYUPS,1999
-Robert Pack,123,Jump Shot,2,82,29,2PT Jump Shot,TWO_POINT_JUMPERS,1999
-Robert Pack,123,Jump Shot,3,3,0,3PT Jump Shot,THREE_POINT_JUMPERS,1999
-Robert Pack,123,Layup Shot,2,20,12,Standard Layup,LAYUPS,1999
-Robert Pack,123,Running Jump Shot,2,10,5,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999
-Robert Pack,123,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,1999
-Robert Pack,123,Driving Layup Shot,2,66,51,Driving Layup,LAYUPS,2000
-Robert Pack,123,Jump Shot,2,126,34,2PT Jump Shot,TWO_POINT_JUMPERS,2000
-Robert Pack,123,Jump Shot,3,2,0,3PT Jump Shot,THREE_POINT_JUMPERS,2000
-Robert Pack,123,Layup Shot,2,32,9,Standard Layup,LAYUPS,2000
-Robert Pack,123,Running Jump Shot,2,3,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2000
-Robert Pack,123,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2000
-Robert Pack,123,Driving Layup Shot,2,95,54,Driving Layup,LAYUPS,2001
-Robert Pack,123,Dunk Shot,2,1,0,Standard Dunk,DUNKS,2001
-Robert Pack,123,Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2001
-Robert Pack,123,Jump Shot,2,211,75,2PT Jump Shot,TWO_POINT_JUMPERS,2001
-Robert Pack,123,Jump Shot,3,27,11,3PT Jump Shot,THREE_POINT_JUMPERS,2001
-Robert Pack,123,Layup Shot,2,65,31,Standard Layup,LAYUPS,2001
-Robert Pack,123,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2001
-Robert Pack,123,Running Jump Shot,2,20,7,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
-Robert Pack,123,Running Jump Shot,3,3,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2001
-Robert Pack,123,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2001
-Robert Pack,123,Driving Layup Shot,2,14,12,Driving Layup,LAYUPS,2002
-Robert Pack,123,Jump Shot,2,35,6,2PT Jump Shot,TWO_POINT_JUMPERS,2002
-Robert Pack,123,Jump Shot,3,4,1,3PT Jump Shot,THREE_POINT_JUMPERS,2002
-Robert Pack,123,Layup Shot,2,11,3,Standard Layup,LAYUPS,2002
-Robert Pack,123,Running Jump Shot,2,4,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2002
-Robert Pack,123,Driving Layup Shot,2,19,11,Driving Layup,LAYUPS,2003
-Robert Pack,123,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2003
-Robert Pack,123,Jump Shot,2,73,28,2PT Jump Shot,TWO_POINT_JUMPERS,2003
-Robert Pack,123,Jump Shot,3,5,0,3PT Jump Shot,THREE_POINT_JUMPERS,2003
-Robert Pack,123,Layup Shot,2,27,8,Standard Layup,LAYUPS,2003
-Robert Pack,123,Running Jump Shot,2,2,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2003
-Robert Pack,123,Running Layup Shot,2,2,2,Standard Layup,LAYUPS,2003
-Robert Pack,123,Driving Layup Shot,2,9,8,Driving Layup,LAYUPS,2004
-Robert Pack,123,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2004
-Robert Pack,123,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2004
-Robert Pack,123,Jump Shot,2,29,7,2PT Jump Shot,TWO_POINT_JUMPERS,2004
-Robert Pack,123,Layup Shot,2,9,4,Standard Layup,LAYUPS,2004
-Robert Pack,123,Running Jump Shot,2,3,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2004
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Robert Pack,123,2PT Jump Shot,287,88,TWO_POINT_JUMPERS,1997
+Robert Pack,123,2PT Running Jump Shot,44,27,TWO_POINT_JUMPERS,1997
+Robert Pack,123,3PT Jump Shot,95,27,THREE_POINT_JUMPERS,1997
+Robert Pack,123,Driving Dunk,6,6,DUNKS,1997
+Robert Pack,123,Driving Layup,146,92,LAYUPS,1997
+Robert Pack,123,Hook Shot,1,0,POST_MOVES,1997
+Robert Pack,123,Standard Dunk,11,11,DUNKS,1997
+Robert Pack,123,Standard Layup,103,21,LAYUPS,1997
+Robert Pack,123,2PT Jump Shot,44,10,TWO_POINT_JUMPERS,1998
+Robert Pack,123,2PT Running Jump Shot,3,0,TWO_POINT_JUMPERS,1998
+Robert Pack,123,3PT Jump Shot,6,3,THREE_POINT_JUMPERS,1998
+Robert Pack,123,Driving Layup,24,12,LAYUPS,1998
+Robert Pack,123,Standard Dunk,2,2,DUNKS,1998
+Robert Pack,123,Standard Layup,18,5,LAYUPS,1998
+Robert Pack,123,Tip Shot,1,1,TIP_SHOTS,1998
+Robert Pack,123,2PT Jump Shot,82,29,TWO_POINT_JUMPERS,1999
+Robert Pack,123,2PT Running Jump Shot,10,5,TWO_POINT_JUMPERS,1999
+Robert Pack,123,3PT Jump Shot,3,0,THREE_POINT_JUMPERS,1999
+Robert Pack,123,Driving Layup,57,27,LAYUPS,1999
+Robert Pack,123,Standard Dunk,2,2,DUNKS,1999
+Robert Pack,123,Standard Layup,20,12,LAYUPS,1999
+Robert Pack,123,2PT Jump Shot,126,34,TWO_POINT_JUMPERS,2000
+Robert Pack,123,2PT Running Jump Shot,3,1,TWO_POINT_JUMPERS,2000
+Robert Pack,123,3PT Jump Shot,2,0,THREE_POINT_JUMPERS,2000
+Robert Pack,123,Driving Layup,66,51,LAYUPS,2000
+Robert Pack,123,Standard Dunk,1,1,DUNKS,2000
+Robert Pack,123,Standard Layup,32,9,LAYUPS,2000
+Robert Pack,123,2PT Jump Shot,211,75,TWO_POINT_JUMPERS,2001
+Robert Pack,123,2PT Running Jump Shot,20,7,TWO_POINT_JUMPERS,2001
+Robert Pack,123,3PT Jump Shot,27,11,THREE_POINT_JUMPERS,2001
+Robert Pack,123,3PT Running Jump Shot,3,0,THREE_POINT_JUMPERS,2001
+Robert Pack,123,Driving Layup,95,54,LAYUPS,2001
+Robert Pack,123,Finger Roll,1,1,LAYUPS,2001
+Robert Pack,123,Reverse Layup,2,1,LAYUPS,2001
+Robert Pack,123,Standard Dunk,1,0,DUNKS,2001
+Robert Pack,123,Standard Layup,65,31,LAYUPS,2001
+Robert Pack,123,Tip Shot,1,1,TIP_SHOTS,2001
+Robert Pack,123,2PT Jump Shot,35,6,TWO_POINT_JUMPERS,2002
+Robert Pack,123,2PT Running Jump Shot,4,3,TWO_POINT_JUMPERS,2002
+Robert Pack,123,3PT Jump Shot,4,1,THREE_POINT_JUMPERS,2002
+Robert Pack,123,Driving Layup,14,12,LAYUPS,2002
+Robert Pack,123,Standard Layup,11,3,LAYUPS,2002
+Robert Pack,123,2PT Fadeaway Jump Shot,1,1,TWO_POINT_JUMPERS,2003
+Robert Pack,123,2PT Jump Shot,73,28,TWO_POINT_JUMPERS,2003
+Robert Pack,123,2PT Running Jump Shot,2,2,TWO_POINT_JUMPERS,2003
+Robert Pack,123,3PT Jump Shot,5,0,THREE_POINT_JUMPERS,2003
+Robert Pack,123,Driving Layup,19,11,LAYUPS,2003
+Robert Pack,123,Standard Layup,29,10,LAYUPS,2003
+Robert Pack,123,2PT Fadeaway Jump Shot,1,0,TWO_POINT_JUMPERS,2004
+Robert Pack,123,2PT Jump Shot,30,8,TWO_POINT_JUMPERS,2004
+Robert Pack,123,2PT Running Jump Shot,3,2,TWO_POINT_JUMPERS,2004
+Robert Pack,123,Driving Layup,9,8,LAYUPS,2004
+Robert Pack,123,Standard Layup,9,4,LAYUPS,2004

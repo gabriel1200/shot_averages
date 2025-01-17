@@ -1,18 +1,16 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Daniel Hamilton,1627772,Driving Layup Shot,2,3,1,Driving Layup,LAYUPS,2018
-Daniel Hamilton,1627772,Jump Shot,2,5,2,2PT Jump Shot,TWO_POINT_JUMPERS,2018
-Daniel Hamilton,1627772,Pullup Jump shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2018
-Daniel Hamilton,1627772,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2018
-Daniel Hamilton,1627772,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2018
-Daniel Hamilton,1627772,Driving Floating Bank Jump Shot,2,2,2,2PT Floating Jump Shot,FLOATING_SHOTS,2019
-Daniel Hamilton,1627772,Driving Floating Jump Shot,2,5,1,2PT Floating Jump Shot,FLOATING_SHOTS,2019
-Daniel Hamilton,1627772,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2019
-Daniel Hamilton,1627772,Driving Layup Shot,2,14,7,Driving Layup,LAYUPS,2019
-Daniel Hamilton,1627772,Jump Shot,2,14,4,2PT Jump Shot,TWO_POINT_JUMPERS,2019
-Daniel Hamilton,1627772,Jump Shot,3,11,4,3PT Jump Shot,THREE_POINT_JUMPERS,2019
-Daniel Hamilton,1627772,Layup Shot,2,2,0,Standard Layup,LAYUPS,2019
-Daniel Hamilton,1627772,Pullup Jump shot,2,3,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2019
-Daniel Hamilton,1627772,Putback Layup Shot,2,1,0,Putback Layup,LAYUPS,2019
-Daniel Hamilton,1627772,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2019
-Daniel Hamilton,1627772,Tip Layup Shot,2,4,2,Putback Layup,LAYUPS,2019
-Daniel Hamilton,1627772,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2019
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Daniel Hamilton,1627772,2PT Jump Shot,5,2,TWO_POINT_JUMPERS,2018
+Daniel Hamilton,1627772,2PT Pullup Jump Shot,1,1,TWO_POINT_JUMPERS,2018
+Daniel Hamilton,1627772,2PT Step Back Jump Shot,1,0,TWO_POINT_JUMPERS,2018
+Daniel Hamilton,1627772,Driving Layup,3,1,LAYUPS,2018
+Daniel Hamilton,1627772,Standard Layup,1,1,LAYUPS,2018
+Daniel Hamilton,1627772,2PT Floating Jump Shot,7,3,FLOATING_SHOTS,2019
+Daniel Hamilton,1627772,2PT Jump Shot,14,4,TWO_POINT_JUMPERS,2019
+Daniel Hamilton,1627772,2PT Pullup Jump Shot,3,2,TWO_POINT_JUMPERS,2019
+Daniel Hamilton,1627772,2PT Step Back Jump Shot,1,0,TWO_POINT_JUMPERS,2019
+Daniel Hamilton,1627772,2PT Turnaround Jump Shot,2,1,TWO_POINT_JUMPERS,2019
+Daniel Hamilton,1627772,3PT Jump Shot,11,4,THREE_POINT_JUMPERS,2019
+Daniel Hamilton,1627772,Driving Hook Shot,1,0,POST_MOVES,2019
+Daniel Hamilton,1627772,Driving Layup,14,7,LAYUPS,2019
+Daniel Hamilton,1627772,Putback Layup,5,2,LAYUPS,2019
+Daniel Hamilton,1627772,Standard Layup,2,0,LAYUPS,2019

@@ -1,13 +1,11 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Dee Brown,200793,Driving Layup Shot,2,16,7,Driving Layup,LAYUPS,2007
-Dee Brown,200793,Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2007
-Dee Brown,200793,Jump Shot,2,58,14,2PT Jump Shot,TWO_POINT_JUMPERS,2007
-Dee Brown,200793,Layup Shot,2,22,10,Standard Layup,LAYUPS,2007
-Dee Brown,200793,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2007
-Dee Brown,200793,Driving Layup Shot,2,6,4,Driving Layup,LAYUPS,2009
-Dee Brown,200793,Jump Shot,2,25,6,2PT Jump Shot,TWO_POINT_JUMPERS,2009
-Dee Brown,200793,Jump Shot,3,4,1,3PT Jump Shot,THREE_POINT_JUMPERS,2009
-Dee Brown,200793,Layup Shot,2,10,5,Standard Layup,LAYUPS,2009
-Dee Brown,200793,Running Jump Shot,2,2,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2009
-Dee Brown,200793,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2009
-Dee Brown,200793,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2009
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Dee Brown,200793,2PT Jump Shot,58,14,TWO_POINT_JUMPERS,2007
+Dee Brown,200793,Driving Layup,16,7,LAYUPS,2007
+Dee Brown,200793,Finger Roll,1,1,LAYUPS,2007
+Dee Brown,200793,Standard Layup,23,10,LAYUPS,2007
+Dee Brown,200793,2PT Jump Shot,25,6,TWO_POINT_JUMPERS,2009
+Dee Brown,200793,2PT Running Jump Shot,2,0,TWO_POINT_JUMPERS,2009
+Dee Brown,200793,3PT Jump Shot,4,1,THREE_POINT_JUMPERS,2009
+Dee Brown,200793,Driving Layup,6,4,LAYUPS,2009
+Dee Brown,200793,Standard Layup,11,6,LAYUPS,2009
+Dee Brown,200793,Tip Shot,1,1,TIP_SHOTS,2009

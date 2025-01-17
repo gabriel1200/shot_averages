@@ -1,52 +1,37 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Brandon Williams,1630314,Cutting Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2022
-Brandon Williams,1630314,Cutting Layup Shot,2,3,1,Standard Layup,LAYUPS,2022
-Brandon Williams,1630314,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2022
-Brandon Williams,1630314,Driving Finger Roll Layup Shot,2,16,7,Finger Roll,LAYUPS,2022
-Brandon Williams,1630314,Driving Floating Jump Shot,2,18,5,2PT Floating Jump Shot,FLOATING_SHOTS,2022
-Brandon Williams,1630314,Driving Layup Shot,2,64,24,Driving Layup,LAYUPS,2022
-Brandon Williams,1630314,Driving Reverse Layup Shot,2,2,0,Driving Layup,LAYUPS,2022
-Brandon Williams,1630314,Fadeaway Jump Shot,2,6,4,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2022
-Brandon Williams,1630314,Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2022
-Brandon Williams,1630314,Floating Jump shot,2,4,2,2PT Floating Jump Shot,FLOATING_SHOTS,2022
-Brandon Williams,1630314,Jump Shot,2,64,23,2PT Jump Shot,TWO_POINT_JUMPERS,2022
-Brandon Williams,1630314,Jump Shot,3,1,1,3PT Jump Shot,THREE_POINT_JUMPERS,2022
-Brandon Williams,1630314,Layup Shot,2,2,0,Standard Layup,LAYUPS,2022
-Brandon Williams,1630314,Pullup Jump shot,2,38,11,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2022
-Brandon Williams,1630314,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2022
-Brandon Williams,1630314,Running Finger Roll Layup Shot,2,2,0,Finger Roll,LAYUPS,2022
-Brandon Williams,1630314,Running Jump Shot,2,5,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2022
-Brandon Williams,1630314,Running Layup Shot,2,14,8,Standard Layup,LAYUPS,2022
-Brandon Williams,1630314,Running Pull-Up Jump Shot,2,3,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2022
-Brandon Williams,1630314,Running Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2022
-Brandon Williams,1630314,Step Back Jump shot,2,29,9,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2022
-Brandon Williams,1630314,Tip Layup Shot,2,2,2,Putback Layup,LAYUPS,2022
-Brandon Williams,1630314,Turnaround Fadeaway shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2022
-Brandon Williams,1630314,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2022
-Brandon Williams,1630314,Cutting Layup Shot,2,1,0,Standard Layup,LAYUPS,2024
-Brandon Williams,1630314,Driving Finger Roll Layup Shot,2,2,0,Finger Roll,LAYUPS,2024
-Brandon Williams,1630314,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2024
-Brandon Williams,1630314,Driving Floating Jump Shot,2,5,1,2PT Floating Jump Shot,FLOATING_SHOTS,2024
-Brandon Williams,1630314,Driving Layup Shot,2,11,6,Driving Layup,LAYUPS,2024
-Brandon Williams,1630314,Fadeaway Jump Shot,2,3,2,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
-Brandon Williams,1630314,Jump Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2024
-Brandon Williams,1630314,Jump Shot,3,10,1,3PT Jump Shot,THREE_POINT_JUMPERS,2024
-Brandon Williams,1630314,Pullup Jump shot,2,6,3,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2024
-Brandon Williams,1630314,Pullup Jump shot,3,4,2,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
-Brandon Williams,1630314,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2024
-Brandon Williams,1630314,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2024
-Brandon Williams,1630314,Running Layup Shot,2,4,2,Standard Layup,LAYUPS,2024
-Brandon Williams,1630314,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2024
-Brandon Williams,1630314,Step Back Jump shot,3,1,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
-Brandon Williams,1630314,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2024
-Brandon Williams,1630314,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
-Brandon Williams,1630314,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2025
-Brandon Williams,1630314,Driving Finger Roll Layup Shot,2,5,4,Finger Roll,LAYUPS,2025
-Brandon Williams,1630314,Driving Floating Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Brandon Williams,1630314,Driving Layup Shot,2,9,2,Driving Layup,LAYUPS,2025
-Brandon Williams,1630314,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2025
-Brandon Williams,1630314,Jump Shot,3,6,3,3PT Jump Shot,THREE_POINT_JUMPERS,2025
-Brandon Williams,1630314,Pullup Jump shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
-Brandon Williams,1630314,Pullup Jump shot,3,3,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
-Brandon Williams,1630314,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
-Brandon Williams,1630314,Running Layup Shot,2,2,1,Standard Layup,LAYUPS,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Brandon Williams,1630314,2PT Fadeaway Jump Shot,6,4,TWO_POINT_JUMPERS,2022
+Brandon Williams,1630314,2PT Floating Jump Shot,22,7,FLOATING_SHOTS,2022
+Brandon Williams,1630314,2PT Jump Shot,64,23,TWO_POINT_JUMPERS,2022
+Brandon Williams,1630314,2PT Pullup Jump Shot,38,11,TWO_POINT_JUMPERS,2022
+Brandon Williams,1630314,2PT Running Jump Shot,8,2,TWO_POINT_JUMPERS,2022
+Brandon Williams,1630314,2PT Step Back Jump Shot,29,9,TWO_POINT_JUMPERS,2022
+Brandon Williams,1630314,2PT Turnaround Jump Shot,3,1,TWO_POINT_JUMPERS,2022
+Brandon Williams,1630314,3PT Jump Shot,1,1,THREE_POINT_JUMPERS,2022
+Brandon Williams,1630314,Driving Dunk,1,1,DUNKS,2022
+Brandon Williams,1630314,Driving Layup,66,24,LAYUPS,2022
+Brandon Williams,1630314,Finger Roll,21,10,LAYUPS,2022
+Brandon Williams,1630314,Putback Layup,2,2,LAYUPS,2022
+Brandon Williams,1630314,Reverse Layup,2,1,LAYUPS,2022
+Brandon Williams,1630314,Standard Layup,19,9,LAYUPS,2022
+Brandon Williams,1630314,2PT Fadeaway Jump Shot,3,2,TWO_POINT_JUMPERS,2024
+Brandon Williams,1630314,2PT Floating Jump Shot,6,1,FLOATING_SHOTS,2024
+Brandon Williams,1630314,2PT Jump Shot,1,0,TWO_POINT_JUMPERS,2024
+Brandon Williams,1630314,2PT Pullup Jump Shot,6,3,TWO_POINT_JUMPERS,2024
+Brandon Williams,1630314,2PT Turnaround Jump Shot,1,0,TWO_POINT_JUMPERS,2024
+Brandon Williams,1630314,3PT Jump Shot,10,1,THREE_POINT_JUMPERS,2024
+Brandon Williams,1630314,3PT Pullup Jump Shot,4,2,THREE_POINT_JUMPERS,2024
+Brandon Williams,1630314,3PT Step Back Jump Shot,1,0,THREE_POINT_JUMPERS,2024
+Brandon Williams,1630314,Driving Layup,11,6,LAYUPS,2024
+Brandon Williams,1630314,Finger Roll,3,1,LAYUPS,2024
+Brandon Williams,1630314,Putback Layup,1,0,LAYUPS,2024
+Brandon Williams,1630314,Reverse Layup,1,1,LAYUPS,2024
+Brandon Williams,1630314,Standard Dunk,1,1,DUNKS,2024
+Brandon Williams,1630314,Standard Layup,5,2,LAYUPS,2024
+Brandon Williams,1630314,2PT Floating Jump Shot,1,1,FLOATING_SHOTS,2025
+Brandon Williams,1630314,2PT Pullup Jump Shot,1,1,TWO_POINT_JUMPERS,2025
+Brandon Williams,1630314,3PT Jump Shot,6,3,THREE_POINT_JUMPERS,2025
+Brandon Williams,1630314,3PT Pullup Jump Shot,3,0,THREE_POINT_JUMPERS,2025
+Brandon Williams,1630314,3PT Running Jump Shot,1,0,THREE_POINT_JUMPERS,2025
+Brandon Williams,1630314,Driving Layup,10,2,LAYUPS,2025
+Brandon Williams,1630314,Finger Roll,5,4,LAYUPS,2025
+Brandon Williams,1630314,Standard Layup,3,2,LAYUPS,2025

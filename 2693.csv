@@ -1,42 +1,36 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Keith McLeod,2693,Driving Layup Shot,2,8,6,Driving Layup,LAYUPS,2004
-Keith McLeod,2693,Fadeaway Jump Shot,2,2,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2004
-Keith McLeod,2693,Finger Roll Shot,2,1,0,Finger Roll,LAYUPS,2004
-Keith McLeod,2693,Jump Shot,2,56,16,2PT Jump Shot,TWO_POINT_JUMPERS,2004
-Keith McLeod,2693,Jump Shot,3,3,0,3PT Jump Shot,THREE_POINT_JUMPERS,2004
-Keith McLeod,2693,Layup Shot,2,7,1,Standard Layup,LAYUPS,2004
-Keith McLeod,2693,Reverse Layup Shot,2,3,1,Reverse Layup,LAYUPS,2004
-Keith McLeod,2693,Running Jump Shot,2,2,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2004
-Keith McLeod,2693,Driving Dunk Shot,2,2,1,Driving Dunk,DUNKS,2005
-Keith McLeod,2693,Driving Finger Roll Shot,2,3,2,Finger Roll,LAYUPS,2005
-Keith McLeod,2693,Driving Layup Shot,2,36,22,Driving Layup,LAYUPS,2005
-Keith McLeod,2693,Dunk Shot,2,7,5,Standard Dunk,DUNKS,2005
-Keith McLeod,2693,Fadeaway Jump Shot,2,13,6,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2005
-Keith McLeod,2693,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2005
-Keith McLeod,2693,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2005
-Keith McLeod,2693,Jump Shot,2,271,83,2PT Jump Shot,TWO_POINT_JUMPERS,2005
-Keith McLeod,2693,Layup Shot,2,51,12,Standard Layup,LAYUPS,2005
-Keith McLeod,2693,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2005
-Keith McLeod,2693,Running Jump Shot,2,16,6,2PT Running Jump Shot,TWO_POINT_JUMPERS,2005
-Keith McLeod,2693,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2005
-Keith McLeod,2693,Slam Dunk Shot,2,3,3,Standard Dunk,DUNKS,2005
-Keith McLeod,2693,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2005
-Keith McLeod,2693,Driving Dunk Shot,2,1,0,Driving Dunk,DUNKS,2006
-Keith McLeod,2693,Driving Finger Roll Shot,2,1,0,Finger Roll,LAYUPS,2006
-Keith McLeod,2693,Driving Layup Shot,2,28,15,Driving Layup,LAYUPS,2006
-Keith McLeod,2693,Dunk Shot,2,4,4,Standard Dunk,DUNKS,2006
-Keith McLeod,2693,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2006
-Keith McLeod,2693,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2006
-Keith McLeod,2693,Jump Shot,2,270,84,2PT Jump Shot,TWO_POINT_JUMPERS,2006
-Keith McLeod,2693,Layup Shot,2,23,10,Standard Layup,LAYUPS,2006
-Keith McLeod,2693,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2006
-Keith McLeod,2693,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2006
-Keith McLeod,2693,Running Jump Shot,2,8,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2006
-Keith McLeod,2693,Driving Layup Shot,2,11,7,Driving Layup,LAYUPS,2007
-Keith McLeod,2693,Fadeaway Jump Shot,2,6,3,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2007
-Keith McLeod,2693,Jump Bank Shot,2,2,1,2PT Jump Shot,TWO_POINT_JUMPERS,2007
-Keith McLeod,2693,Jump Shot,2,143,51,2PT Jump Shot,TWO_POINT_JUMPERS,2007
-Keith McLeod,2693,Layup Shot,2,13,3,Standard Layup,LAYUPS,2007
-Keith McLeod,2693,Reverse Layup Shot,2,4,0,Reverse Layup,LAYUPS,2007
-Keith McLeod,2693,Running Jump Shot,2,8,7,2PT Running Jump Shot,TWO_POINT_JUMPERS,2007
-Keith McLeod,2693,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2007
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Keith McLeod,2693,2PT Fadeaway Jump Shot,2,1,TWO_POINT_JUMPERS,2004
+Keith McLeod,2693,2PT Jump Shot,56,16,TWO_POINT_JUMPERS,2004
+Keith McLeod,2693,2PT Running Jump Shot,2,2,TWO_POINT_JUMPERS,2004
+Keith McLeod,2693,3PT Jump Shot,3,0,THREE_POINT_JUMPERS,2004
+Keith McLeod,2693,Driving Layup,8,6,LAYUPS,2004
+Keith McLeod,2693,Finger Roll,1,0,LAYUPS,2004
+Keith McLeod,2693,Reverse Layup,3,1,LAYUPS,2004
+Keith McLeod,2693,Standard Layup,7,1,LAYUPS,2004
+Keith McLeod,2693,2PT Fadeaway Jump Shot,13,6,TWO_POINT_JUMPERS,2005
+Keith McLeod,2693,2PT Jump Shot,272,84,TWO_POINT_JUMPERS,2005
+Keith McLeod,2693,2PT Running Jump Shot,16,6,TWO_POINT_JUMPERS,2005
+Keith McLeod,2693,2PT Turnaround Jump Shot,1,1,TWO_POINT_JUMPERS,2005
+Keith McLeod,2693,Driving Dunk,2,1,DUNKS,2005
+Keith McLeod,2693,Driving Layup,36,22,LAYUPS,2005
+Keith McLeod,2693,Finger Roll,3,2,LAYUPS,2005
+Keith McLeod,2693,Hook Shot,1,0,POST_MOVES,2005
+Keith McLeod,2693,Reverse Layup,2,1,LAYUPS,2005
+Keith McLeod,2693,Standard Dunk,10,8,DUNKS,2005
+Keith McLeod,2693,Standard Layup,52,12,LAYUPS,2005
+Keith McLeod,2693,2PT Fadeaway Jump Shot,1,1,TWO_POINT_JUMPERS,2006
+Keith McLeod,2693,2PT Jump Shot,271,85,TWO_POINT_JUMPERS,2006
+Keith McLeod,2693,2PT Running Jump Shot,8,3,TWO_POINT_JUMPERS,2006
+Keith McLeod,2693,Driving Dunk,1,0,DUNKS,2006
+Keith McLeod,2693,Driving Layup,28,15,LAYUPS,2006
+Keith McLeod,2693,Finger Roll,1,0,LAYUPS,2006
+Keith McLeod,2693,Reverse Layup,2,1,LAYUPS,2006
+Keith McLeod,2693,Standard Dunk,5,5,DUNKS,2006
+Keith McLeod,2693,Standard Layup,23,10,LAYUPS,2006
+Keith McLeod,2693,2PT Fadeaway Jump Shot,6,3,TWO_POINT_JUMPERS,2007
+Keith McLeod,2693,2PT Jump Shot,145,52,TWO_POINT_JUMPERS,2007
+Keith McLeod,2693,2PT Running Jump Shot,8,7,TWO_POINT_JUMPERS,2007
+Keith McLeod,2693,2PT Turnaround Jump Shot,1,1,TWO_POINT_JUMPERS,2007
+Keith McLeod,2693,Driving Layup,11,7,LAYUPS,2007
+Keith McLeod,2693,Reverse Layup,4,0,LAYUPS,2007
+Keith McLeod,2693,Standard Layup,13,3,LAYUPS,2007

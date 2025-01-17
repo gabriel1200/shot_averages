@@ -1,9 +1,6 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Diamond Stone,1627754,Cutting Layup Shot,2,1,0,Standard Layup,LAYUPS,2017
-Diamond Stone,1627754,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2017
-Diamond Stone,1627754,Jump Shot,2,4,2,2PT Jump Shot,TWO_POINT_JUMPERS,2017
-Diamond Stone,1627754,Layup Shot,2,1,0,Standard Layup,LAYUPS,2017
-Diamond Stone,1627754,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2017
-Diamond Stone,1627754,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2017
-Diamond Stone,1627754,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,2017
-Diamond Stone,1627754,Turnaround Jump Shot,2,2,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2017
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Diamond Stone,1627754,2PT Jump Shot,5,2,TWO_POINT_JUMPERS,2017
+Diamond Stone,1627754,2PT Turnaround Jump Shot,3,0,TWO_POINT_JUMPERS,2017
+Diamond Stone,1627754,Putback Layup,1,0,LAYUPS,2017
+Diamond Stone,1627754,Standard Layup,2,0,LAYUPS,2017
+Diamond Stone,1627754,Turnaround Hook Shot,2,1,POST_MOVES,2017

@@ -1,35 +1,34 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Cory Alexander,724,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,1997
-Cory Alexander,724,Driving Layup Shot,2,24,17,Driving Layup,LAYUPS,1997
-Cory Alexander,724,Dunk Shot,2,1,1,Standard Dunk,DUNKS,1997
-Cory Alexander,724,Jump Shot,2,372,142,2PT Jump Shot,TWO_POINT_JUMPERS,1997
-Cory Alexander,724,Layup Shot,2,83,26,Standard Layup,LAYUPS,1997
-Cory Alexander,724,Running Jump Shot,2,8,6,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
-Cory Alexander,724,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,1997
-Cory Alexander,724,Driving Layup Shot,2,34,20,Driving Layup,LAYUPS,1998
-Cory Alexander,724,Dunk Shot,2,5,5,Standard Dunk,DUNKS,1998
-Cory Alexander,724,Jump Shot,2,331,130,2PT Jump Shot,TWO_POINT_JUMPERS,1998
-Cory Alexander,724,Layup Shot,2,21,12,Standard Layup,LAYUPS,1998
-Cory Alexander,724,Running Jump Shot,2,9,4,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
-Cory Alexander,724,Driving Layup Shot,2,24,11,Driving Layup,LAYUPS,1999
-Cory Alexander,724,Hook Shot,2,1,1,Hook Shot,POST_MOVES,1999
-Cory Alexander,724,Jump Shot,2,206,67,2PT Jump Shot,TWO_POINT_JUMPERS,1999
-Cory Alexander,724,Layup Shot,2,11,5,Standard Layup,LAYUPS,1999
-Cory Alexander,724,Running Jump Shot,2,18,13,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999
-Cory Alexander,724,Driving Layup Shot,2,12,6,Driving Layup,LAYUPS,2000
-Cory Alexander,724,Jump Shot,2,69,14,2PT Jump Shot,TWO_POINT_JUMPERS,2000
-Cory Alexander,724,Layup Shot,2,12,6,Standard Layup,LAYUPS,2000
-Cory Alexander,724,Running Jump Shot,2,4,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2000
-Cory Alexander,724,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2000
-Cory Alexander,724,Driving Layup Shot,2,4,2,Driving Layup,LAYUPS,2001
-Cory Alexander,724,Jump Shot,2,41,13,2PT Jump Shot,TWO_POINT_JUMPERS,2001
-Cory Alexander,724,Layup Shot,2,4,0,Standard Layup,LAYUPS,2001
-Cory Alexander,724,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2001
-Cory Alexander,724,Running Jump Shot,2,5,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
-Cory Alexander,724,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2001
-Cory Alexander,724,Driving Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2005
-Cory Alexander,724,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2005
-Cory Alexander,724,Jump Shot,2,37,10,2PT Jump Shot,TWO_POINT_JUMPERS,2005
-Cory Alexander,724,Layup Shot,2,7,3,Standard Layup,LAYUPS,2005
-Cory Alexander,724,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2005
-Cory Alexander,724,Running Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2005
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Cory Alexander,724,2PT Jump Shot,372,142,TWO_POINT_JUMPERS,1997
+Cory Alexander,724,2PT Running Jump Shot,8,6,TWO_POINT_JUMPERS,1997
+Cory Alexander,724,Driving Dunk,1,1,DUNKS,1997
+Cory Alexander,724,Driving Layup,24,17,LAYUPS,1997
+Cory Alexander,724,Standard Dunk,2,2,DUNKS,1997
+Cory Alexander,724,Standard Layup,83,26,LAYUPS,1997
+Cory Alexander,724,2PT Jump Shot,331,130,TWO_POINT_JUMPERS,1998
+Cory Alexander,724,2PT Running Jump Shot,9,4,TWO_POINT_JUMPERS,1998
+Cory Alexander,724,Driving Layup,34,20,LAYUPS,1998
+Cory Alexander,724,Standard Dunk,5,5,DUNKS,1998
+Cory Alexander,724,Standard Layup,21,12,LAYUPS,1998
+Cory Alexander,724,2PT Jump Shot,206,67,TWO_POINT_JUMPERS,1999
+Cory Alexander,724,2PT Running Jump Shot,18,13,TWO_POINT_JUMPERS,1999
+Cory Alexander,724,Driving Layup,24,11,LAYUPS,1999
+Cory Alexander,724,Hook Shot,1,1,POST_MOVES,1999
+Cory Alexander,724,Standard Layup,11,5,LAYUPS,1999
+Cory Alexander,724,2PT Jump Shot,69,14,TWO_POINT_JUMPERS,2000
+Cory Alexander,724,2PT Running Jump Shot,4,1,TWO_POINT_JUMPERS,2000
+Cory Alexander,724,Driving Layup,12,6,LAYUPS,2000
+Cory Alexander,724,Standard Dunk,1,1,DUNKS,2000
+Cory Alexander,724,Standard Layup,12,6,LAYUPS,2000
+Cory Alexander,724,2PT Jump Shot,41,13,TWO_POINT_JUMPERS,2001
+Cory Alexander,724,2PT Running Jump Shot,5,2,TWO_POINT_JUMPERS,2001
+Cory Alexander,724,2PT Turnaround Jump Shot,1,1,TWO_POINT_JUMPERS,2001
+Cory Alexander,724,Driving Layup,4,2,LAYUPS,2001
+Cory Alexander,724,Reverse Layup,1,0,LAYUPS,2001
+Cory Alexander,724,Standard Layup,4,0,LAYUPS,2001
+Cory Alexander,724,2PT Jump Shot,37,10,TWO_POINT_JUMPERS,2005
+Cory Alexander,724,2PT Running Jump Shot,2,1,TWO_POINT_JUMPERS,2005
+Cory Alexander,724,Driving Layup,1,1,LAYUPS,2005
+Cory Alexander,724,Finger Roll,1,1,LAYUPS,2005
+Cory Alexander,724,Reverse Layup,1,0,LAYUPS,2005
+Cory Alexander,724,Standard Layup,7,3,LAYUPS,2005

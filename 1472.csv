@@ -1,7 +1,7 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Tom Chambers,1472,Driving Layup Shot,2,2,0,Driving Layup,LAYUPS,1997
-Tom Chambers,1472,Jump Shot,2,12,4,2PT Jump Shot,TWO_POINT_JUMPERS,1997
-Tom Chambers,1472,Layup Shot,2,16,3,Standard Layup,LAYUPS,1997
-Tom Chambers,1472,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,1997
-Tom Chambers,1472,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,1998
-Tom Chambers,1472,Jump Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Tom Chambers,1472,2PT Jump Shot,12,4,TWO_POINT_JUMPERS,1997
+Tom Chambers,1472,Driving Layup,2,0,LAYUPS,1997
+Tom Chambers,1472,Standard Layup,16,3,LAYUPS,1997
+Tom Chambers,1472,Tip Shot,1,0,TIP_SHOTS,1997
+Tom Chambers,1472,2PT Jump Shot,1,1,TWO_POINT_JUMPERS,1998
+Tom Chambers,1472,Driving Layup,1,1,LAYUPS,1998

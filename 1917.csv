@@ -1,39 +1,38 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Wang Zhi-zhi,1917,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,2001
-Wang Zhi-zhi,1917,Jump Shot,2,16,6,2PT Jump Shot,TWO_POINT_JUMPERS,2001
-Wang Zhi-zhi,1917,Layup Shot,2,1,0,Standard Layup,LAYUPS,2001
-Wang Zhi-zhi,1917,Driving Layup Shot,2,10,8,Driving Layup,LAYUPS,2002
-Wang Zhi-zhi,1917,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2002
-Wang Zhi-zhi,1917,Hook Shot,2,2,2,Hook Shot,POST_MOVES,2002
-Wang Zhi-zhi,1917,Jump Shot,2,165,66,2PT Jump Shot,TWO_POINT_JUMPERS,2002
-Wang Zhi-zhi,1917,Jump Shot,3,25,7,3PT Jump Shot,THREE_POINT_JUMPERS,2002
-Wang Zhi-zhi,1917,Layup Shot,2,36,19,Standard Layup,LAYUPS,2002
-Wang Zhi-zhi,1917,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2002
-Wang Zhi-zhi,1917,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,2002
-Wang Zhi-zhi,1917,Running Jump Shot,2,3,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2002
-Wang Zhi-zhi,1917,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2002
-Wang Zhi-zhi,1917,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,2002
-Wang Zhi-zhi,1917,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2002
-Wang Zhi-zhi,1917,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2003
-Wang Zhi-zhi,1917,Driving Layup Shot,2,12,11,Driving Layup,LAYUPS,2003
-Wang Zhi-zhi,1917,Dunk Shot,2,5,4,Standard Dunk,DUNKS,2003
-Wang Zhi-zhi,1917,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2003
-Wang Zhi-zhi,1917,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2003
-Wang Zhi-zhi,1917,Jump Shot,2,94,23,2PT Jump Shot,TWO_POINT_JUMPERS,2003
-Wang Zhi-zhi,1917,Jump Shot,3,1,1,3PT Jump Shot,THREE_POINT_JUMPERS,2003
-Wang Zhi-zhi,1917,Layup Shot,2,33,14,Standard Layup,LAYUPS,2003
-Wang Zhi-zhi,1917,Running Jump Shot,2,3,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2003
-Wang Zhi-zhi,1917,Tip Shot,2,6,2,Tip Shot,TIP_SHOTS,2003
-Wang Zhi-zhi,1917,Turnaround Jump Shot,2,5,5,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2003
-Wang Zhi-zhi,1917,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2004
-Wang Zhi-zhi,1917,Jump Shot,2,24,9,2PT Jump Shot,TWO_POINT_JUMPERS,2004
-Wang Zhi-zhi,1917,Jump Shot,3,4,0,3PT Jump Shot,THREE_POINT_JUMPERS,2004
-Wang Zhi-zhi,1917,Layup Shot,2,14,5,Standard Layup,LAYUPS,2004
-Wang Zhi-zhi,1917,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2004
-Wang Zhi-zhi,1917,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2004
-Wang Zhi-zhi,1917,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,2005
-Wang Zhi-zhi,1917,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2005
-Wang Zhi-zhi,1917,Jump Shot,2,20,11,2PT Jump Shot,TWO_POINT_JUMPERS,2005
-Wang Zhi-zhi,1917,Layup Shot,2,10,2,Standard Layup,LAYUPS,2005
-Wang Zhi-zhi,1917,Running Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2005
-Wang Zhi-zhi,1917,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2005
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Wang Zhi-zhi,1917,2PT Jump Shot,16,6,TWO_POINT_JUMPERS,2001
+Wang Zhi-zhi,1917,Driving Layup,2,2,LAYUPS,2001
+Wang Zhi-zhi,1917,Standard Layup,1,0,LAYUPS,2001
+Wang Zhi-zhi,1917,2PT Jump Shot,165,66,TWO_POINT_JUMPERS,2002
+Wang Zhi-zhi,1917,2PT Running Jump Shot,3,1,TWO_POINT_JUMPERS,2002
+Wang Zhi-zhi,1917,2PT Turnaround Jump Shot,1,1,TWO_POINT_JUMPERS,2002
+Wang Zhi-zhi,1917,3PT Jump Shot,25,7,THREE_POINT_JUMPERS,2002
+Wang Zhi-zhi,1917,Driving Layup,10,8,LAYUPS,2002
+Wang Zhi-zhi,1917,Hook Shot,2,2,POST_MOVES,2002
+Wang Zhi-zhi,1917,Reverse Layup,1,1,LAYUPS,2002
+Wang Zhi-zhi,1917,Running Hook Shot,1,1,POST_MOVES,2002
+Wang Zhi-zhi,1917,Standard Dunk,2,2,DUNKS,2002
+Wang Zhi-zhi,1917,Standard Layup,36,19,LAYUPS,2002
+Wang Zhi-zhi,1917,Tip Shot,2,1,TIP_SHOTS,2002
+Wang Zhi-zhi,1917,2PT Fadeaway Jump Shot,1,0,TWO_POINT_JUMPERS,2003
+Wang Zhi-zhi,1917,2PT Jump Shot,94,23,TWO_POINT_JUMPERS,2003
+Wang Zhi-zhi,1917,2PT Running Jump Shot,3,1,TWO_POINT_JUMPERS,2003
+Wang Zhi-zhi,1917,2PT Turnaround Jump Shot,5,5,TWO_POINT_JUMPERS,2003
+Wang Zhi-zhi,1917,3PT Jump Shot,1,1,THREE_POINT_JUMPERS,2003
+Wang Zhi-zhi,1917,Driving Dunk,1,1,DUNKS,2003
+Wang Zhi-zhi,1917,Driving Layup,12,11,LAYUPS,2003
+Wang Zhi-zhi,1917,Hook Shot,1,0,POST_MOVES,2003
+Wang Zhi-zhi,1917,Standard Dunk,5,4,DUNKS,2003
+Wang Zhi-zhi,1917,Standard Layup,33,14,LAYUPS,2003
+Wang Zhi-zhi,1917,Tip Shot,6,2,TIP_SHOTS,2003
+Wang Zhi-zhi,1917,2PT Jump Shot,24,9,TWO_POINT_JUMPERS,2004
+Wang Zhi-zhi,1917,2PT Turnaround Jump Shot,2,1,TWO_POINT_JUMPERS,2004
+Wang Zhi-zhi,1917,3PT Jump Shot,4,0,THREE_POINT_JUMPERS,2004
+Wang Zhi-zhi,1917,Driving Layup,1,1,LAYUPS,2004
+Wang Zhi-zhi,1917,Reverse Layup,1,1,LAYUPS,2004
+Wang Zhi-zhi,1917,Standard Layup,14,5,LAYUPS,2004
+Wang Zhi-zhi,1917,2PT Jump Shot,20,11,TWO_POINT_JUMPERS,2005
+Wang Zhi-zhi,1917,2PT Running Jump Shot,2,1,TWO_POINT_JUMPERS,2005
+Wang Zhi-zhi,1917,2PT Turnaround Jump Shot,1,1,TWO_POINT_JUMPERS,2005
+Wang Zhi-zhi,1917,Driving Layup,2,2,LAYUPS,2005
+Wang Zhi-zhi,1917,Hook Shot,1,0,POST_MOVES,2005
+Wang Zhi-zhi,1917,Standard Layup,10,2,LAYUPS,2005

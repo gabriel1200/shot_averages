@@ -1,32 +1,26 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Jon Brockman,201972,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2010
-Jon Brockman,201972,Dunk Shot,2,3,3,Standard Dunk,DUNKS,2010
-Jon Brockman,201972,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2010
-Jon Brockman,201972,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2010
-Jon Brockman,201972,Jump Hook Shot,2,2,2,Hook Shot,POST_MOVES,2010
-Jon Brockman,201972,Jump Shot,2,25,7,2PT Jump Shot,TWO_POINT_JUMPERS,2010
-Jon Brockman,201972,Layup Shot,2,41,24,Standard Layup,LAYUPS,2010
-Jon Brockman,201972,Putback Dunk Shot,2,1,0,Putback Dunk,DUNKS,2010
-Jon Brockman,201972,Putback Layup Shot,2,2,2,Putback Layup,LAYUPS,2010
-Jon Brockman,201972,Reverse Layup Shot,2,5,5,Reverse Layup,LAYUPS,2010
-Jon Brockman,201972,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2010
-Jon Brockman,201972,Tip Shot,2,18,9,Tip Shot,TIP_SHOTS,2010
-Jon Brockman,201972,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2010
-Jon Brockman,201972,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2011
-Jon Brockman,201972,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2011
-Jon Brockman,201972,Hook Shot,2,6,1,Hook Shot,POST_MOVES,2011
-Jon Brockman,201972,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2011
-Jon Brockman,201972,Jump Shot,2,23,9,2PT Jump Shot,TWO_POINT_JUMPERS,2011
-Jon Brockman,201972,Layup Shot,2,48,25,Standard Layup,LAYUPS,2011
-Jon Brockman,201972,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2011
-Jon Brockman,201972,Reverse Layup Shot,2,3,1,Reverse Layup,LAYUPS,2011
-Jon Brockman,201972,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2011
-Jon Brockman,201972,Running Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2011
-Jon Brockman,201972,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2011
-Jon Brockman,201972,Tip Shot,2,6,5,Tip Shot,TIP_SHOTS,2011
-Jon Brockman,201972,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2011
-Jon Brockman,201972,Dunk Shot,2,1,0,Standard Dunk,DUNKS,2012
-Jon Brockman,201972,Jump Shot,2,17,4,2PT Jump Shot,TWO_POINT_JUMPERS,2012
-Jon Brockman,201972,Layup Shot,2,22,8,Standard Layup,LAYUPS,2012
-Jon Brockman,201972,Putback Layup Shot,2,3,1,Putback Layup,LAYUPS,2012
-Jon Brockman,201972,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,2012
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Jon Brockman,201972,2PT Fadeaway Jump Shot,1,1,TWO_POINT_JUMPERS,2010
+Jon Brockman,201972,2PT Jump Shot,25,7,TWO_POINT_JUMPERS,2010
+Jon Brockman,201972,2PT Turnaround Jump Shot,1,0,TWO_POINT_JUMPERS,2010
+Jon Brockman,201972,Driving Layup,2,1,LAYUPS,2010
+Jon Brockman,201972,Hook Shot,3,2,POST_MOVES,2010
+Jon Brockman,201972,Putback Dunk,1,0,DUNKS,2010
+Jon Brockman,201972,Putback Layup,2,2,LAYUPS,2010
+Jon Brockman,201972,Reverse Layup,5,5,LAYUPS,2010
+Jon Brockman,201972,Standard Dunk,4,4,DUNKS,2010
+Jon Brockman,201972,Standard Layup,41,24,LAYUPS,2010
+Jon Brockman,201972,Tip Shot,18,9,TIP_SHOTS,2010
+Jon Brockman,201972,2PT Jump Shot,24,9,TWO_POINT_JUMPERS,2011
+Jon Brockman,201972,2PT Turnaround Jump Shot,1,1,TWO_POINT_JUMPERS,2011
+Jon Brockman,201972,Driving Layup,1,1,LAYUPS,2011
+Jon Brockman,201972,Hook Shot,6,1,POST_MOVES,2011
+Jon Brockman,201972,Putback Dunk,1,1,DUNKS,2011
+Jon Brockman,201972,Reverse Layup,3,1,LAYUPS,2011
+Jon Brockman,201972,Standard Dunk,4,4,DUNKS,2011
+Jon Brockman,201972,Standard Layup,48,25,LAYUPS,2011
+Jon Brockman,201972,Tip Shot,6,5,TIP_SHOTS,2011
+Jon Brockman,201972,2PT Jump Shot,17,4,TWO_POINT_JUMPERS,2012
+Jon Brockman,201972,Putback Layup,3,1,LAYUPS,2012
+Jon Brockman,201972,Standard Dunk,1,0,DUNKS,2012
+Jon Brockman,201972,Standard Layup,22,8,LAYUPS,2012
+Jon Brockman,201972,Tip Shot,2,2,TIP_SHOTS,2012

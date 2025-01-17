@@ -1,34 +1,31 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Roshown McLeod,1728,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,1999
-Roshown McLeod,1728,Driving Layup Shot,2,7,4,Driving Layup,LAYUPS,1999
-Roshown McLeod,1728,Dunk Shot,2,1,1,Standard Dunk,DUNKS,1999
-Roshown McLeod,1728,Hook Shot,2,9,6,Hook Shot,POST_MOVES,1999
-Roshown McLeod,1728,Jump Shot,2,119,39,2PT Jump Shot,TWO_POINT_JUMPERS,1999
-Roshown McLeod,1728,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,1999
-Roshown McLeod,1728,Layup Shot,2,20,9,Standard Layup,LAYUPS,1999
-Roshown McLeod,1728,Running Jump Shot,2,3,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999
-Roshown McLeod,1728,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,1999
-Roshown McLeod,1728,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,1999
-Roshown McLeod,1728,Driving Layup Shot,2,5,4,Driving Layup,LAYUPS,2000
-Roshown McLeod,1728,Dunk Shot,2,1,0,Standard Dunk,DUNKS,2000
-Roshown McLeod,1728,Hook Shot,2,6,3,Hook Shot,POST_MOVES,2000
-Roshown McLeod,1728,Jump Shot,2,259,93,2PT Jump Shot,TWO_POINT_JUMPERS,2000
-Roshown McLeod,1728,Jump Shot,3,10,1,3PT Jump Shot,THREE_POINT_JUMPERS,2000
-Roshown McLeod,1728,Layup Shot,2,44,27,Standard Layup,LAYUPS,2000
-Roshown McLeod,1728,Running Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2000
-Roshown McLeod,1728,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2000
-Roshown McLeod,1728,Tip Shot,2,4,1,Tip Shot,TIP_SHOTS,2000
-Roshown McLeod,1728,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2001
-Roshown McLeod,1728,Driving Layup Shot,2,11,9,Driving Layup,LAYUPS,2001
-Roshown McLeod,1728,Dunk Shot,2,2,1,Standard Dunk,DUNKS,2001
-Roshown McLeod,1728,Finger Roll Shot,2,1,0,Finger Roll,LAYUPS,2001
-Roshown McLeod,1728,Hook Shot,2,6,5,Hook Shot,POST_MOVES,2001
-Roshown McLeod,1728,Jump Shot,2,260,101,2PT Jump Shot,TWO_POINT_JUMPERS,2001
-Roshown McLeod,1728,Jump Shot,3,5,0,3PT Jump Shot,THREE_POINT_JUMPERS,2001
-Roshown McLeod,1728,Layup Shot,2,29,17,Standard Layup,LAYUPS,2001
-Roshown McLeod,1728,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2001
-Roshown McLeod,1728,Running Jump Shot,2,7,5,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
-Roshown McLeod,1728,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2001
-Roshown McLeod,1728,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,2001
-Roshown McLeod,1728,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2001
-Roshown McLeod,1728,Turnaround Jump Shot,2,4,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Roshown McLeod,1728,2PT Jump Shot,119,39,TWO_POINT_JUMPERS,1999
+Roshown McLeod,1728,2PT Running Jump Shot,3,1,TWO_POINT_JUMPERS,1999
+Roshown McLeod,1728,3PT Jump Shot,1,0,THREE_POINT_JUMPERS,1999
+Roshown McLeod,1728,Driving Dunk,1,1,DUNKS,1999
+Roshown McLeod,1728,Driving Layup,7,4,LAYUPS,1999
+Roshown McLeod,1728,Hook Shot,9,6,POST_MOVES,1999
+Roshown McLeod,1728,Standard Dunk,2,2,DUNKS,1999
+Roshown McLeod,1728,Standard Layup,20,9,LAYUPS,1999
+Roshown McLeod,1728,Tip Shot,1,0,TIP_SHOTS,1999
+Roshown McLeod,1728,2PT Jump Shot,259,93,TWO_POINT_JUMPERS,2000
+Roshown McLeod,1728,2PT Running Jump Shot,2,1,TWO_POINT_JUMPERS,2000
+Roshown McLeod,1728,3PT Jump Shot,10,1,THREE_POINT_JUMPERS,2000
+Roshown McLeod,1728,Driving Layup,5,4,LAYUPS,2000
+Roshown McLeod,1728,Hook Shot,6,3,POST_MOVES,2000
+Roshown McLeod,1728,Standard Dunk,2,1,DUNKS,2000
+Roshown McLeod,1728,Standard Layup,44,27,LAYUPS,2000
+Roshown McLeod,1728,Tip Shot,4,1,TIP_SHOTS,2000
+Roshown McLeod,1728,2PT Jump Shot,260,101,TWO_POINT_JUMPERS,2001
+Roshown McLeod,1728,2PT Running Jump Shot,7,5,TWO_POINT_JUMPERS,2001
+Roshown McLeod,1728,2PT Turnaround Jump Shot,4,2,TWO_POINT_JUMPERS,2001
+Roshown McLeod,1728,3PT Jump Shot,5,0,THREE_POINT_JUMPERS,2001
+Roshown McLeod,1728,Driving Dunk,1,1,DUNKS,2001
+Roshown McLeod,1728,Driving Layup,11,9,LAYUPS,2001
+Roshown McLeod,1728,Finger Roll,1,0,LAYUPS,2001
+Roshown McLeod,1728,Hook Shot,6,5,POST_MOVES,2001
+Roshown McLeod,1728,Reverse Layup,1,0,LAYUPS,2001
+Roshown McLeod,1728,Standard Dunk,2,1,DUNKS,2001
+Roshown McLeod,1728,Standard Layup,30,18,LAYUPS,2001
+Roshown McLeod,1728,Tip Shot,3,2,TIP_SHOTS,2001
+Roshown McLeod,1728,Turnaround Hook Shot,1,1,POST_MOVES,2001

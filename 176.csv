@@ -1,29 +1,27 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Antonio Harvey,176,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,1997
-Antonio Harvey,176,Jump Shot,2,4,2,2PT Jump Shot,TWO_POINT_JUMPERS,1997
-Antonio Harvey,176,Layup Shot,2,3,1,Standard Layup,LAYUPS,1997
-Antonio Harvey,176,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,1997
-Antonio Harvey,176,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,1997
-Antonio Harvey,176,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2000
-Antonio Harvey,176,Driving Layup Shot,2,3,3,Driving Layup,LAYUPS,2000
-Antonio Harvey,176,Dunk Shot,2,3,3,Standard Dunk,DUNKS,2000
-Antonio Harvey,176,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2000
-Antonio Harvey,176,Jump Shot,2,9,3,2PT Jump Shot,TWO_POINT_JUMPERS,2000
-Antonio Harvey,176,Layup Shot,2,8,2,Standard Layup,LAYUPS,2000
-Antonio Harvey,176,Running Jump Shot,2,2,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2000
-Antonio Harvey,176,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,2000
-Antonio Harvey,176,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2000
-Antonio Harvey,176,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2001
-Antonio Harvey,176,Jump Shot,2,16,5,2PT Jump Shot,TWO_POINT_JUMPERS,2001
-Antonio Harvey,176,Layup Shot,2,4,1,Standard Layup,LAYUPS,2001
-Antonio Harvey,176,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
-Antonio Harvey,176,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,2001
-Antonio Harvey,176,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,2001
-Antonio Harvey,176,Turnaround Jump Shot,2,2,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2001
-Antonio Harvey,176,Jump Shot,2,7,1,2PT Jump Shot,TWO_POINT_JUMPERS,2002
-Antonio Harvey,176,Layup Shot,2,1,0,Standard Layup,LAYUPS,2002
-Antonio Harvey,176,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,2002
-Antonio Harvey,176,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,2002
-Antonio Harvey,176,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2003
-Antonio Harvey,176,Jump Shot,2,3,0,2PT Jump Shot,TWO_POINT_JUMPERS,2003
-Antonio Harvey,176,Layup Shot,2,1,1,Standard Layup,LAYUPS,2003
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Antonio Harvey,176,2PT Jump Shot,4,2,TWO_POINT_JUMPERS,1997
+Antonio Harvey,176,Driving Layup,2,1,LAYUPS,1997
+Antonio Harvey,176,Standard Dunk,1,1,DUNKS,1997
+Antonio Harvey,176,Standard Layup,3,1,LAYUPS,1997
+Antonio Harvey,176,Tip Shot,1,0,TIP_SHOTS,1997
+Antonio Harvey,176,2PT Jump Shot,9,3,TWO_POINT_JUMPERS,2000
+Antonio Harvey,176,2PT Running Jump Shot,2,2,TWO_POINT_JUMPERS,2000
+Antonio Harvey,176,Driving Dunk,1,1,DUNKS,2000
+Antonio Harvey,176,Driving Layup,3,3,LAYUPS,2000
+Antonio Harvey,176,Hook Shot,1,0,POST_MOVES,2000
+Antonio Harvey,176,Standard Dunk,5,5,DUNKS,2000
+Antonio Harvey,176,Standard Layup,8,2,LAYUPS,2000
+Antonio Harvey,176,Tip Shot,1,1,TIP_SHOTS,2000
+Antonio Harvey,176,2PT Jump Shot,16,5,TWO_POINT_JUMPERS,2001
+Antonio Harvey,176,2PT Running Jump Shot,1,1,TWO_POINT_JUMPERS,2001
+Antonio Harvey,176,2PT Turnaround Jump Shot,2,2,TWO_POINT_JUMPERS,2001
+Antonio Harvey,176,Standard Dunk,3,3,DUNKS,2001
+Antonio Harvey,176,Standard Layup,4,1,LAYUPS,2001
+Antonio Harvey,176,Tip Shot,2,1,TIP_SHOTS,2001
+Antonio Harvey,176,2PT Jump Shot,7,1,TWO_POINT_JUMPERS,2002
+Antonio Harvey,176,Running Hook Shot,1,1,POST_MOVES,2002
+Antonio Harvey,176,Standard Layup,1,0,LAYUPS,2002
+Antonio Harvey,176,Tip Shot,3,2,TIP_SHOTS,2002
+Antonio Harvey,176,2PT Jump Shot,3,0,TWO_POINT_JUMPERS,2003
+Antonio Harvey,176,Standard Dunk,1,1,DUNKS,2003
+Antonio Harvey,176,Standard Layup,1,1,LAYUPS,2003

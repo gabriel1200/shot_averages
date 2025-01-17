@@ -1,46 +1,38 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Jiri Welsch,2412,Driving Layup Shot,2,7,4,Driving Layup,LAYUPS,2003
-Jiri Welsch,2412,Jump Shot,2,55,10,2PT Jump Shot,TWO_POINT_JUMPERS,2003
-Jiri Welsch,2412,Layup Shot,2,8,3,Standard Layup,LAYUPS,2003
-Jiri Welsch,2412,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2003
-Jiri Welsch,2412,Running Jump Shot,2,4,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2003
-Jiri Welsch,2412,Driving Dunk Shot,2,5,4,Driving Dunk,DUNKS,2004
-Jiri Welsch,2412,Driving Finger Roll Shot,2,2,2,Finger Roll,LAYUPS,2004
-Jiri Welsch,2412,Driving Layup Shot,2,44,41,Driving Layup,LAYUPS,2004
-Jiri Welsch,2412,Dunk Shot,2,6,4,Standard Dunk,DUNKS,2004
-Jiri Welsch,2412,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2004
-Jiri Welsch,2412,Finger Roll Shot,2,1,0,Finger Roll,LAYUPS,2004
-Jiri Welsch,2412,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2004
-Jiri Welsch,2412,Jump Bank Shot,2,6,5,2PT Jump Shot,TWO_POINT_JUMPERS,2004
-Jiri Welsch,2412,Jump Shot,2,435,161,2PT Jump Shot,TWO_POINT_JUMPERS,2004
-Jiri Welsch,2412,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2004
-Jiri Welsch,2412,Layup Shot,2,93,36,Standard Layup,LAYUPS,2004
-Jiri Welsch,2412,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2004
-Jiri Welsch,2412,Running Jump Shot,2,9,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2004
-Jiri Welsch,2412,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2004
-Jiri Welsch,2412,Slam Dunk Shot,2,3,3,Standard Dunk,DUNKS,2004
-Jiri Welsch,2412,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,2004
-Jiri Welsch,2412,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2005
-Jiri Welsch,2412,Driving Layup Shot,2,25,21,Driving Layup,LAYUPS,2005
-Jiri Welsch,2412,Dunk Shot,2,6,6,Standard Dunk,DUNKS,2005
-Jiri Welsch,2412,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2005
-Jiri Welsch,2412,Finger Roll Shot,2,1,0,Finger Roll,LAYUPS,2005
-Jiri Welsch,2412,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2005
-Jiri Welsch,2412,Jump Shot,2,272,90,2PT Jump Shot,TWO_POINT_JUMPERS,2005
-Jiri Welsch,2412,Jump Shot,3,7,1,3PT Jump Shot,THREE_POINT_JUMPERS,2005
-Jiri Welsch,2412,Layup Shot,2,48,23,Standard Layup,LAYUPS,2005
-Jiri Welsch,2412,Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2005
-Jiri Welsch,2412,Running Jump Shot,2,2,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2005
-Jiri Welsch,2412,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2005
-Jiri Welsch,2412,Slam Dunk Shot,2,3,3,Standard Dunk,DUNKS,2005
-Jiri Welsch,2412,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2005
-Jiri Welsch,2412,Driving Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2006
-Jiri Welsch,2412,Driving Layup Shot,2,9,6,Driving Layup,LAYUPS,2006
-Jiri Welsch,2412,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2006
-Jiri Welsch,2412,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2006
-Jiri Welsch,2412,Jump Shot,2,156,49,2PT Jump Shot,TWO_POINT_JUMPERS,2006
-Jiri Welsch,2412,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2006
-Jiri Welsch,2412,Layup Shot,2,45,24,Standard Layup,LAYUPS,2006
-Jiri Welsch,2412,Reverse Layup Shot,2,3,2,Reverse Layup,LAYUPS,2006
-Jiri Welsch,2412,Running Jump Shot,2,3,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2006
-Jiri Welsch,2412,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2006
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Jiri Welsch,2412,2PT Jump Shot,55,10,TWO_POINT_JUMPERS,2003
+Jiri Welsch,2412,2PT Running Jump Shot,4,1,TWO_POINT_JUMPERS,2003
+Jiri Welsch,2412,Driving Layup,7,4,LAYUPS,2003
+Jiri Welsch,2412,Reverse Layup,1,1,LAYUPS,2003
+Jiri Welsch,2412,Standard Layup,8,3,LAYUPS,2003
+Jiri Welsch,2412,2PT Fadeaway Jump Shot,1,0,TWO_POINT_JUMPERS,2004
+Jiri Welsch,2412,2PT Jump Shot,441,166,TWO_POINT_JUMPERS,2004
+Jiri Welsch,2412,2PT Running Jump Shot,9,3,TWO_POINT_JUMPERS,2004
+Jiri Welsch,2412,3PT Jump Shot,1,0,THREE_POINT_JUMPERS,2004
+Jiri Welsch,2412,Driving Dunk,5,4,DUNKS,2004
+Jiri Welsch,2412,Driving Layup,44,41,LAYUPS,2004
+Jiri Welsch,2412,Finger Roll,3,2,LAYUPS,2004
+Jiri Welsch,2412,Hook Shot,1,0,POST_MOVES,2004
+Jiri Welsch,2412,Reverse Layup,1,0,LAYUPS,2004
+Jiri Welsch,2412,Standard Dunk,9,7,DUNKS,2004
+Jiri Welsch,2412,Standard Layup,94,37,LAYUPS,2004
+Jiri Welsch,2412,Tip Shot,3,2,TIP_SHOTS,2004
+Jiri Welsch,2412,2PT Fadeaway Jump Shot,1,1,TWO_POINT_JUMPERS,2005
+Jiri Welsch,2412,2PT Jump Shot,272,90,TWO_POINT_JUMPERS,2005
+Jiri Welsch,2412,2PT Running Jump Shot,2,0,TWO_POINT_JUMPERS,2005
+Jiri Welsch,2412,2PT Turnaround Jump Shot,1,0,TWO_POINT_JUMPERS,2005
+Jiri Welsch,2412,3PT Jump Shot,7,1,THREE_POINT_JUMPERS,2005
+Jiri Welsch,2412,Driving Dunk,1,1,DUNKS,2005
+Jiri Welsch,2412,Driving Layup,25,21,LAYUPS,2005
+Jiri Welsch,2412,Finger Roll,1,0,LAYUPS,2005
+Jiri Welsch,2412,Hook Shot,1,0,POST_MOVES,2005
+Jiri Welsch,2412,Reverse Layup,2,2,LAYUPS,2005
+Jiri Welsch,2412,Standard Dunk,9,9,DUNKS,2005
+Jiri Welsch,2412,Standard Layup,49,24,LAYUPS,2005
+Jiri Welsch,2412,2PT Jump Shot,157,50,TWO_POINT_JUMPERS,2006
+Jiri Welsch,2412,2PT Running Jump Shot,3,0,TWO_POINT_JUMPERS,2006
+Jiri Welsch,2412,3PT Jump Shot,1,0,THREE_POINT_JUMPERS,2006
+Jiri Welsch,2412,Driving Layup,9,6,LAYUPS,2006
+Jiri Welsch,2412,Finger Roll,1,1,LAYUPS,2006
+Jiri Welsch,2412,Reverse Layup,3,2,LAYUPS,2006
+Jiri Welsch,2412,Standard Dunk,3,3,DUNKS,2006
+Jiri Welsch,2412,Standard Layup,45,24,LAYUPS,2006

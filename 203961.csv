@@ -1,37 +1,28 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Eric Moreland,203961,Jump Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2015
-Eric Moreland,203961,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2016
-Eric Moreland,203961,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2016
-Eric Moreland,203961,Hook Shot,2,2,0,Hook Shot,POST_MOVES,2016
-Eric Moreland,203961,Jump Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2016
-Eric Moreland,203961,Layup Shot,2,1,1,Standard Layup,LAYUPS,2016
-Eric Moreland,203961,Alley Oop Dunk Shot,2,3,2,Alley Oop Dunk,DUNKS,2018
-Eric Moreland,203961,Alley Oop Layup shot,2,3,3,Alley Oop Layup,LAYUPS,2018
-Eric Moreland,203961,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2018
-Eric Moreland,203961,Cutting Layup Shot,2,5,3,Standard Layup,LAYUPS,2018
-Eric Moreland,203961,Driving Floating Bank Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2018
-Eric Moreland,203961,Driving Floating Jump Shot,2,7,3,2PT Floating Jump Shot,FLOATING_SHOTS,2018
-Eric Moreland,203961,Driving Hook Shot,2,2,0,Driving Hook Shot,POST_MOVES,2018
-Eric Moreland,203961,Driving Layup Shot,2,3,1,Driving Layup,LAYUPS,2018
-Eric Moreland,203961,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2018
-Eric Moreland,203961,Dunk Shot,2,10,9,Standard Dunk,DUNKS,2018
-Eric Moreland,203961,Floating Jump shot,2,13,7,2PT Floating Jump Shot,FLOATING_SHOTS,2018
-Eric Moreland,203961,Hook Shot,2,11,5,Hook Shot,POST_MOVES,2018
-Eric Moreland,203961,Jump Shot,2,4,0,2PT Jump Shot,TWO_POINT_JUMPERS,2018
-Eric Moreland,203961,Layup Shot,2,24,10,Standard Layup,LAYUPS,2018
-Eric Moreland,203961,Putback Layup Shot,2,3,1,Putback Layup,LAYUPS,2018
-Eric Moreland,203961,Reverse Layup Shot,2,8,7,Reverse Layup,LAYUPS,2018
-Eric Moreland,203961,Running Dunk Shot,2,2,1,Standard Dunk,DUNKS,2018
-Eric Moreland,203961,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2018
-Eric Moreland,203961,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2018
-Eric Moreland,203961,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2018
-Eric Moreland,203961,Tip Dunk Shot,2,4,3,Specialty Dunk,DUNKS,2018
-Eric Moreland,203961,Tip Layup Shot,2,10,5,Putback Layup,LAYUPS,2018
-Eric Moreland,203961,Turnaround Hook Shot,2,3,1,Turnaround Hook Shot,POST_MOVES,2018
-Eric Moreland,203961,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2018
-Eric Moreland,203961,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2019
-Eric Moreland,203961,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2019
-Eric Moreland,203961,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2019
-Eric Moreland,203961,Jump Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2019
-Eric Moreland,203961,Layup Shot,2,1,0,Standard Layup,LAYUPS,2019
-Eric Moreland,203961,Tip Layup Shot,2,2,1,Putback Layup,LAYUPS,2019
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Eric Moreland,203961,2PT Jump Shot,1,1,TWO_POINT_JUMPERS,2015
+Eric Moreland,203961,2PT Jump Shot,1,0,TWO_POINT_JUMPERS,2016
+Eric Moreland,203961,Driving Dunk,1,1,DUNKS,2016
+Eric Moreland,203961,Hook Shot,2,0,POST_MOVES,2016
+Eric Moreland,203961,Standard Dunk,1,1,DUNKS,2016
+Eric Moreland,203961,Standard Layup,1,1,LAYUPS,2016
+Eric Moreland,203961,2PT Floating Jump Shot,21,11,FLOATING_SHOTS,2018
+Eric Moreland,203961,2PT Jump Shot,4,0,TWO_POINT_JUMPERS,2018
+Eric Moreland,203961,2PT Step Back Jump Shot,1,0,TWO_POINT_JUMPERS,2018
+Eric Moreland,203961,2PT Turnaround Jump Shot,1,0,TWO_POINT_JUMPERS,2018
+Eric Moreland,203961,Alley Oop Dunk,3,2,DUNKS,2018
+Eric Moreland,203961,Alley Oop Layup,3,3,LAYUPS,2018
+Eric Moreland,203961,Driving Hook Shot,2,0,POST_MOVES,2018
+Eric Moreland,203961,Driving Layup,4,2,LAYUPS,2018
+Eric Moreland,203961,Hook Shot,11,5,POST_MOVES,2018
+Eric Moreland,203961,Putback Layup,13,6,LAYUPS,2018
+Eric Moreland,203961,Reverse Layup,9,8,LAYUPS,2018
+Eric Moreland,203961,Specialty Dunk,5,4,DUNKS,2018
+Eric Moreland,203961,Standard Dunk,12,10,DUNKS,2018
+Eric Moreland,203961,Standard Layup,30,14,LAYUPS,2018
+Eric Moreland,203961,Turnaround Hook Shot,3,1,POST_MOVES,2018
+Eric Moreland,203961,2PT Floating Jump Shot,1,0,FLOATING_SHOTS,2019
+Eric Moreland,203961,2PT Jump Shot,1,1,TWO_POINT_JUMPERS,2019
+Eric Moreland,203961,Driving Hook Shot,1,1,POST_MOVES,2019
+Eric Moreland,203961,Driving Layup,1,0,LAYUPS,2019
+Eric Moreland,203961,Putback Layup,2,1,LAYUPS,2019
+Eric Moreland,203961,Standard Layup,1,0,LAYUPS,2019

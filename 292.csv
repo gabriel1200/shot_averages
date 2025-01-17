@@ -1,28 +1,25 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Anthony Miller,292,Jump Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,1997
-Anthony Miller,292,Layup Shot,2,3,0,Standard Layup,LAYUPS,1997
-Anthony Miller,292,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,1998
-Anthony Miller,292,Dunk Shot,2,4,4,Standard Dunk,DUNKS,1998
-Anthony Miller,292,Hook Shot,2,1,0,Hook Shot,POST_MOVES,1998
-Anthony Miller,292,Jump Shot,2,7,3,2PT Jump Shot,TWO_POINT_JUMPERS,1998
-Anthony Miller,292,Layup Shot,2,27,13,Standard Layup,LAYUPS,1998
-Anthony Miller,292,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
-Anthony Miller,292,Slam Dunk Shot,2,3,3,Standard Dunk,DUNKS,1998
-Anthony Miller,292,Tip Shot,2,7,4,Tip Shot,TIP_SHOTS,1998
-Anthony Miller,292,Driving Layup Shot,2,6,5,Driving Layup,LAYUPS,1999
-Anthony Miller,292,Dunk Shot,2,3,1,Standard Dunk,DUNKS,1999
-Anthony Miller,292,Jump Shot,2,15,6,2PT Jump Shot,TWO_POINT_JUMPERS,1999
-Anthony Miller,292,Layup Shot,2,27,12,Standard Layup,LAYUPS,1999
-Anthony Miller,292,Running Jump Shot,2,2,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999
-Anthony Miller,292,Slam Dunk Shot,2,4,4,Standard Dunk,DUNKS,1999
-Anthony Miller,292,Tip Shot,2,3,0,Tip Shot,TIP_SHOTS,1999
-Anthony Miller,292,Driving Layup Shot,2,4,3,Driving Layup,LAYUPS,2000
-Anthony Miller,292,Dunk Shot,2,8,7,Standard Dunk,DUNKS,2000
-Anthony Miller,292,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2000
-Anthony Miller,292,Jump Shot,2,18,4,2PT Jump Shot,TWO_POINT_JUMPERS,2000
-Anthony Miller,292,Layup Shot,2,53,31,Standard Layup,LAYUPS,2000
-Anthony Miller,292,Slam Dunk Shot,2,5,4,Standard Dunk,DUNKS,2000
-Anthony Miller,292,Tip Shot,2,8,3,Tip Shot,TIP_SHOTS,2000
-Anthony Miller,292,Jump Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2001
-Anthony Miller,292,Layup Shot,2,1,0,Standard Layup,LAYUPS,2001
-Anthony Miller,292,Layup Shot,2,3,2,Standard Layup,LAYUPS,2005
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Anthony Miller,292,2PT Jump Shot,2,0,TWO_POINT_JUMPERS,1997
+Anthony Miller,292,Standard Layup,3,0,LAYUPS,1997
+Anthony Miller,292,2PT Jump Shot,7,3,TWO_POINT_JUMPERS,1998
+Anthony Miller,292,2PT Running Jump Shot,1,0,TWO_POINT_JUMPERS,1998
+Anthony Miller,292,Driving Dunk,2,2,DUNKS,1998
+Anthony Miller,292,Hook Shot,1,0,POST_MOVES,1998
+Anthony Miller,292,Standard Dunk,7,7,DUNKS,1998
+Anthony Miller,292,Standard Layup,27,13,LAYUPS,1998
+Anthony Miller,292,Tip Shot,7,4,TIP_SHOTS,1998
+Anthony Miller,292,2PT Jump Shot,15,6,TWO_POINT_JUMPERS,1999
+Anthony Miller,292,2PT Running Jump Shot,2,0,TWO_POINT_JUMPERS,1999
+Anthony Miller,292,Driving Layup,6,5,LAYUPS,1999
+Anthony Miller,292,Standard Dunk,7,5,DUNKS,1999
+Anthony Miller,292,Standard Layup,27,12,LAYUPS,1999
+Anthony Miller,292,Tip Shot,3,0,TIP_SHOTS,1999
+Anthony Miller,292,2PT Jump Shot,18,4,TWO_POINT_JUMPERS,2000
+Anthony Miller,292,Driving Layup,4,3,LAYUPS,2000
+Anthony Miller,292,Hook Shot,1,0,POST_MOVES,2000
+Anthony Miller,292,Standard Dunk,13,11,DUNKS,2000
+Anthony Miller,292,Standard Layup,53,31,LAYUPS,2000
+Anthony Miller,292,Tip Shot,8,3,TIP_SHOTS,2000
+Anthony Miller,292,2PT Jump Shot,1,1,TWO_POINT_JUMPERS,2001
+Anthony Miller,292,Standard Layup,1,0,LAYUPS,2001
+Anthony Miller,292,Standard Layup,3,2,LAYUPS,2005

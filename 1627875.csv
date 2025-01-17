@@ -1,20 +1,16 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Marcus Georges-Hunt,1627875,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2017
-Marcus Georges-Hunt,1627875,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2017
-Marcus Georges-Hunt,1627875,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2017
-Marcus Georges-Hunt,1627875,Jump Shot,2,2,1,2PT Jump Shot,TWO_POINT_JUMPERS,2017
-Marcus Georges-Hunt,1627875,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2017
-Marcus Georges-Hunt,1627875,Putback Layup Shot,2,1,0,Putback Layup,LAYUPS,2017
-Marcus Georges-Hunt,1627875,Driving Floating Bank Jump Shot,2,2,2,2PT Floating Jump Shot,FLOATING_SHOTS,2018
-Marcus Georges-Hunt,1627875,Driving Floating Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2018
-Marcus Georges-Hunt,1627875,Driving Layup Shot,2,10,7,Driving Layup,LAYUPS,2018
-Marcus Georges-Hunt,1627875,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2018
-Marcus Georges-Hunt,1627875,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2018
-Marcus Georges-Hunt,1627875,Floating Jump shot,2,2,0,2PT Floating Jump Shot,FLOATING_SHOTS,2018
-Marcus Georges-Hunt,1627875,Jump Shot,2,11,3,2PT Jump Shot,TWO_POINT_JUMPERS,2018
-Marcus Georges-Hunt,1627875,Jump Shot,3,6,2,3PT Jump Shot,THREE_POINT_JUMPERS,2018
-Marcus Georges-Hunt,1627875,Layup Shot,2,1,0,Standard Layup,LAYUPS,2018
-Marcus Georges-Hunt,1627875,Pullup Jump shot,2,4,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2018
-Marcus Georges-Hunt,1627875,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2018
-Marcus Georges-Hunt,1627875,Running Layup Shot,2,6,3,Standard Layup,LAYUPS,2018
-Marcus Georges-Hunt,1627875,Tip Layup Shot,2,2,0,Putback Layup,LAYUPS,2018
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Marcus Georges-Hunt,1627875,2PT Floating Jump Shot,1,0,FLOATING_SHOTS,2017
+Marcus Georges-Hunt,1627875,2PT Jump Shot,2,1,TWO_POINT_JUMPERS,2017
+Marcus Georges-Hunt,1627875,2PT Pullup Jump Shot,1,0,TWO_POINT_JUMPERS,2017
+Marcus Georges-Hunt,1627875,Driving Layup,1,0,LAYUPS,2017
+Marcus Georges-Hunt,1627875,Hook Shot,1,1,POST_MOVES,2017
+Marcus Georges-Hunt,1627875,Putback Layup,1,0,LAYUPS,2017
+Marcus Georges-Hunt,1627875,2PT Fadeaway Jump Shot,1,0,TWO_POINT_JUMPERS,2018
+Marcus Georges-Hunt,1627875,2PT Floating Jump Shot,5,3,FLOATING_SHOTS,2018
+Marcus Georges-Hunt,1627875,2PT Jump Shot,11,3,TWO_POINT_JUMPERS,2018
+Marcus Georges-Hunt,1627875,2PT Pullup Jump Shot,4,1,TWO_POINT_JUMPERS,2018
+Marcus Georges-Hunt,1627875,3PT Jump Shot,6,2,THREE_POINT_JUMPERS,2018
+Marcus Georges-Hunt,1627875,Driving Layup,10,7,LAYUPS,2018
+Marcus Georges-Hunt,1627875,Putback Layup,2,0,LAYUPS,2018
+Marcus Georges-Hunt,1627875,Standard Dunk,2,2,DUNKS,2018
+Marcus Georges-Hunt,1627875,Standard Layup,7,3,LAYUPS,2018

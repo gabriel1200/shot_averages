@@ -1,19 +1,14 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Reed Sheppard,1642263,Driving Dunk Shot,2,1,0,Driving Dunk,DUNKS,2025
-Reed Sheppard,1642263,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2025
-Reed Sheppard,1642263,Driving Floating Bank Jump Shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Reed Sheppard,1642263,Driving Floating Jump Shot,2,10,3,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Reed Sheppard,1642263,Driving Layup Shot,2,7,3,Driving Layup,LAYUPS,2025
-Reed Sheppard,1642263,Driving Reverse Layup Shot,2,2,0,Driving Layup,LAYUPS,2025
-Reed Sheppard,1642263,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
-Reed Sheppard,1642263,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Reed Sheppard,1642263,Jump Shot,2,3,0,2PT Jump Shot,TWO_POINT_JUMPERS,2025
-Reed Sheppard,1642263,Jump Shot,3,49,15,3PT Jump Shot,THREE_POINT_JUMPERS,2025
-Reed Sheppard,1642263,Pullup Jump shot,2,14,6,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
-Reed Sheppard,1642263,Pullup Jump shot,3,9,2,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
-Reed Sheppard,1642263,Running Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2025
-Reed Sheppard,1642263,Running Jump Shot,3,9,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
-Reed Sheppard,1642263,Running Layup Shot,2,3,3,Standard Layup,LAYUPS,2025
-Reed Sheppard,1642263,Running Pull-Up Jump Shot,3,3,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
-Reed Sheppard,1642263,Tip Layup Shot,2,2,1,Putback Layup,LAYUPS,2025
-Reed Sheppard,1642263,Turnaround Fadeaway shot,2,3,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Reed Sheppard,1642263,2PT Fadeaway Jump Shot,1,0,TWO_POINT_JUMPERS,2025
+Reed Sheppard,1642263,2PT Floating Jump Shot,13,5,FLOATING_SHOTS,2025
+Reed Sheppard,1642263,2PT Jump Shot,3,0,TWO_POINT_JUMPERS,2025
+Reed Sheppard,1642263,2PT Pullup Jump Shot,14,6,TWO_POINT_JUMPERS,2025
+Reed Sheppard,1642263,2PT Turnaround Jump Shot,3,0,TWO_POINT_JUMPERS,2025
+Reed Sheppard,1642263,3PT Jump Shot,49,15,THREE_POINT_JUMPERS,2025
+Reed Sheppard,1642263,3PT Pullup Jump Shot,9,2,THREE_POINT_JUMPERS,2025
+Reed Sheppard,1642263,3PT Running Jump Shot,12,2,THREE_POINT_JUMPERS,2025
+Reed Sheppard,1642263,Driving Dunk,1,0,DUNKS,2025
+Reed Sheppard,1642263,Driving Layup,9,3,LAYUPS,2025
+Reed Sheppard,1642263,Finger Roll,2,1,LAYUPS,2025
+Reed Sheppard,1642263,Putback Layup,2,1,LAYUPS,2025
+Reed Sheppard,1642263,Standard Layup,3,3,LAYUPS,2025

@@ -1,45 +1,43 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Bimbo Coles,902,Driving Layup Shot,2,31,21,Driving Layup,LAYUPS,1997
-Bimbo Coles,902,Dunk Shot,2,1,1,Standard Dunk,DUNKS,1997
-Bimbo Coles,902,Jump Shot,2,218,69,2PT Jump Shot,TWO_POINT_JUMPERS,1997
-Bimbo Coles,902,Layup Shot,2,57,26,Standard Layup,LAYUPS,1997
-Bimbo Coles,902,Running Jump Shot,2,7,5,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
-Bimbo Coles,902,Driving Layup Shot,2,30,18,Driving Layup,LAYUPS,1998
-Bimbo Coles,902,Dunk Shot,2,2,2,Standard Dunk,DUNKS,1998
-Bimbo Coles,902,Jump Shot,2,353,118,2PT Jump Shot,TWO_POINT_JUMPERS,1998
-Bimbo Coles,902,Layup Shot,2,41,19,Standard Layup,LAYUPS,1998
-Bimbo Coles,902,Running Jump Shot,2,10,7,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
-Bimbo Coles,902,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,1998
-Bimbo Coles,902,Driving Layup Shot,2,45,26,Driving Layup,LAYUPS,1999
-Bimbo Coles,902,Dunk Shot,2,1,0,Standard Dunk,DUNKS,1999
-Bimbo Coles,902,Hook Shot,2,3,1,Hook Shot,POST_MOVES,1999
-Bimbo Coles,902,Jump Shot,2,322,132,2PT Jump Shot,TWO_POINT_JUMPERS,1999
-Bimbo Coles,902,Layup Shot,2,28,13,Standard Layup,LAYUPS,1999
-Bimbo Coles,902,Running Jump Shot,2,15,11,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999
-Bimbo Coles,902,Driving Layup Shot,2,47,36,Driving Layup,LAYUPS,2000
-Bimbo Coles,902,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2000
-Bimbo Coles,902,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2000
-Bimbo Coles,902,Jump Shot,2,489,202,2PT Jump Shot,TWO_POINT_JUMPERS,2000
-Bimbo Coles,902,Layup Shot,2,55,26,Standard Layup,LAYUPS,2000
-Bimbo Coles,902,Running Jump Shot,2,13,9,2PT Running Jump Shot,TWO_POINT_JUMPERS,2000
-Bimbo Coles,902,Driving Layup Shot,2,13,10,Driving Layup,LAYUPS,2001
-Bimbo Coles,902,Hook Shot,2,2,2,Hook Shot,POST_MOVES,2001
-Bimbo Coles,902,Jump Shot,2,203,72,2PT Jump Shot,TWO_POINT_JUMPERS,2001
-Bimbo Coles,902,Layup Shot,2,8,1,Standard Layup,LAYUPS,2001
-Bimbo Coles,902,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2001
-Bimbo Coles,902,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,2001
-Bimbo Coles,902,Running Jump Shot,2,9,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
-Bimbo Coles,902,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2001
-Bimbo Coles,902,Driving Layup Shot,2,6,3,Driving Layup,LAYUPS,2002
-Bimbo Coles,902,Jump Shot,2,119,42,2PT Jump Shot,TWO_POINT_JUMPERS,2002
-Bimbo Coles,902,Layup Shot,2,18,9,Standard Layup,LAYUPS,2002
-Bimbo Coles,902,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2002
-Bimbo Coles,902,Running Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2002
-Bimbo Coles,902,Jump Shot,2,150,48,2PT Jump Shot,TWO_POINT_JUMPERS,2003
-Bimbo Coles,902,Layup Shot,2,16,6,Standard Layup,LAYUPS,2003
-Bimbo Coles,902,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2003
-Bimbo Coles,902,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2003
-Bimbo Coles,902,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,2004
-Bimbo Coles,902,Jump Shot,2,26,6,2PT Jump Shot,TWO_POINT_JUMPERS,2004
-Bimbo Coles,902,Layup Shot,2,5,3,Standard Layup,LAYUPS,2004
-Bimbo Coles,902,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2004
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Bimbo Coles,902,2PT Jump Shot,218,69,TWO_POINT_JUMPERS,1997
+Bimbo Coles,902,2PT Running Jump Shot,7,5,TWO_POINT_JUMPERS,1997
+Bimbo Coles,902,Driving Layup,31,21,LAYUPS,1997
+Bimbo Coles,902,Standard Dunk,1,1,DUNKS,1997
+Bimbo Coles,902,Standard Layup,57,26,LAYUPS,1997
+Bimbo Coles,902,2PT Jump Shot,353,118,TWO_POINT_JUMPERS,1998
+Bimbo Coles,902,2PT Running Jump Shot,10,7,TWO_POINT_JUMPERS,1998
+Bimbo Coles,902,Driving Layup,30,18,LAYUPS,1998
+Bimbo Coles,902,Standard Dunk,4,4,DUNKS,1998
+Bimbo Coles,902,Standard Layup,41,19,LAYUPS,1998
+Bimbo Coles,902,2PT Jump Shot,322,132,TWO_POINT_JUMPERS,1999
+Bimbo Coles,902,2PT Running Jump Shot,15,11,TWO_POINT_JUMPERS,1999
+Bimbo Coles,902,Driving Layup,45,26,LAYUPS,1999
+Bimbo Coles,902,Hook Shot,3,1,POST_MOVES,1999
+Bimbo Coles,902,Standard Dunk,1,0,DUNKS,1999
+Bimbo Coles,902,Standard Layup,28,13,LAYUPS,1999
+Bimbo Coles,902,2PT Jump Shot,489,202,TWO_POINT_JUMPERS,2000
+Bimbo Coles,902,2PT Running Jump Shot,13,9,TWO_POINT_JUMPERS,2000
+Bimbo Coles,902,Driving Layup,47,36,LAYUPS,2000
+Bimbo Coles,902,Hook Shot,1,1,POST_MOVES,2000
+Bimbo Coles,902,Standard Dunk,2,2,DUNKS,2000
+Bimbo Coles,902,Standard Layup,55,26,LAYUPS,2000
+Bimbo Coles,902,2PT Jump Shot,203,72,TWO_POINT_JUMPERS,2001
+Bimbo Coles,902,2PT Running Jump Shot,9,3,TWO_POINT_JUMPERS,2001
+Bimbo Coles,902,Driving Layup,13,10,LAYUPS,2001
+Bimbo Coles,902,Hook Shot,2,2,POST_MOVES,2001
+Bimbo Coles,902,Reverse Layup,2,1,LAYUPS,2001
+Bimbo Coles,902,Running Hook Shot,1,1,POST_MOVES,2001
+Bimbo Coles,902,Standard Layup,9,2,LAYUPS,2001
+Bimbo Coles,902,2PT Jump Shot,119,42,TWO_POINT_JUMPERS,2002
+Bimbo Coles,902,2PT Running Jump Shot,2,1,TWO_POINT_JUMPERS,2002
+Bimbo Coles,902,Driving Layup,6,3,LAYUPS,2002
+Bimbo Coles,902,Reverse Layup,1,1,LAYUPS,2002
+Bimbo Coles,902,Standard Layup,18,9,LAYUPS,2002
+Bimbo Coles,902,2PT Jump Shot,150,48,TWO_POINT_JUMPERS,2003
+Bimbo Coles,902,2PT Running Jump Shot,1,1,TWO_POINT_JUMPERS,2003
+Bimbo Coles,902,Reverse Layup,1,1,LAYUPS,2003
+Bimbo Coles,902,Standard Layup,16,6,LAYUPS,2003
+Bimbo Coles,902,2PT Jump Shot,26,6,TWO_POINT_JUMPERS,2004
+Bimbo Coles,902,2PT Running Jump Shot,1,1,TWO_POINT_JUMPERS,2004
+Bimbo Coles,902,Driving Layup,2,2,LAYUPS,2004
+Bimbo Coles,902,Standard Layup,5,3,LAYUPS,2004

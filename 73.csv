@@ -1,23 +1,21 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Hot Rod Williams,73,Driving Layup Shot,2,12,8,Driving Layup,LAYUPS,1997
-Hot Rod Williams,73,Dunk Shot,2,36,35,Standard Dunk,DUNKS,1997
-Hot Rod Williams,73,Hook Shot,2,9,6,Hook Shot,POST_MOVES,1997
-Hot Rod Williams,73,Jump Shot,2,149,47,2PT Jump Shot,TWO_POINT_JUMPERS,1997
-Hot Rod Williams,73,Layup Shot,2,159,74,Standard Layup,LAYUPS,1997
-Hot Rod Williams,73,Running Jump Shot,2,2,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
-Hot Rod Williams,73,Slam Dunk Shot,2,18,18,Standard Dunk,DUNKS,1997
-Hot Rod Williams,73,Tip Shot,2,31,14,Tip Shot,TIP_SHOTS,1997
-Hot Rod Williams,73,Driving Dunk Shot,2,4,4,Driving Dunk,DUNKS,1998
-Hot Rod Williams,73,Driving Layup Shot,2,6,3,Driving Layup,LAYUPS,1998
-Hot Rod Williams,73,Dunk Shot,2,13,11,Standard Dunk,DUNKS,1998
-Hot Rod Williams,73,Hook Shot,2,3,1,Hook Shot,POST_MOVES,1998
-Hot Rod Williams,73,Jump Shot,2,95,36,2PT Jump Shot,TWO_POINT_JUMPERS,1998
-Hot Rod Williams,73,Layup Shot,2,62,31,Standard Layup,LAYUPS,1998
-Hot Rod Williams,73,Running Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
-Hot Rod Williams,73,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,1998
-Hot Rod Williams,73,Tip Shot,2,15,6,Tip Shot,TIP_SHOTS,1998
-Hot Rod Williams,73,Driving Layup Shot,2,4,1,Driving Layup,LAYUPS,1999
-Hot Rod Williams,73,Dunk Shot,2,2,2,Standard Dunk,DUNKS,1999
-Hot Rod Williams,73,Jump Shot,2,13,2,2PT Jump Shot,TWO_POINT_JUMPERS,1999
-Hot Rod Williams,73,Layup Shot,2,11,4,Standard Layup,LAYUPS,1999
-Hot Rod Williams,73,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,1999
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Hot Rod Williams,73,2PT Jump Shot,149,47,TWO_POINT_JUMPERS,1997
+Hot Rod Williams,73,2PT Running Jump Shot,2,2,TWO_POINT_JUMPERS,1997
+Hot Rod Williams,73,Driving Layup,12,8,LAYUPS,1997
+Hot Rod Williams,73,Hook Shot,9,6,POST_MOVES,1997
+Hot Rod Williams,73,Standard Dunk,54,53,DUNKS,1997
+Hot Rod Williams,73,Standard Layup,159,74,LAYUPS,1997
+Hot Rod Williams,73,Tip Shot,31,14,TIP_SHOTS,1997
+Hot Rod Williams,73,2PT Jump Shot,95,36,TWO_POINT_JUMPERS,1998
+Hot Rod Williams,73,2PT Running Jump Shot,2,1,TWO_POINT_JUMPERS,1998
+Hot Rod Williams,73,Driving Dunk,4,4,DUNKS,1998
+Hot Rod Williams,73,Driving Layup,6,3,LAYUPS,1998
+Hot Rod Williams,73,Hook Shot,3,1,POST_MOVES,1998
+Hot Rod Williams,73,Standard Dunk,15,13,DUNKS,1998
+Hot Rod Williams,73,Standard Layup,62,31,LAYUPS,1998
+Hot Rod Williams,73,Tip Shot,15,6,TIP_SHOTS,1998
+Hot Rod Williams,73,2PT Jump Shot,13,2,TWO_POINT_JUMPERS,1999
+Hot Rod Williams,73,Driving Layup,4,1,LAYUPS,1999
+Hot Rod Williams,73,Standard Dunk,2,2,DUNKS,1999
+Hot Rod Williams,73,Standard Layup,11,4,LAYUPS,1999
+Hot Rod Williams,73,Tip Shot,3,2,TIP_SHOTS,1999

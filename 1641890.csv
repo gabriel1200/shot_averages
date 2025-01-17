@@ -1,9 +1,8 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Tyler Smith,1641890,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2025
-Tyler Smith,1641890,Driving Floating Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Tyler Smith,1641890,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Tyler Smith,1641890,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2025
-Tyler Smith,1641890,Jump Shot,3,7,3,3PT Jump Shot,THREE_POINT_JUMPERS,2025
-Tyler Smith,1641890,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2025
-Tyler Smith,1641890,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
-Tyler Smith,1641890,Tip Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Tyler Smith,1641890,2PT Floating Jump Shot,2,2,FLOATING_SHOTS,2025
+Tyler Smith,1641890,3PT Jump Shot,7,3,THREE_POINT_JUMPERS,2025
+Tyler Smith,1641890,3PT Running Jump Shot,1,0,THREE_POINT_JUMPERS,2025
+Tyler Smith,1641890,Driving Dunk,1,1,DUNKS,2025
+Tyler Smith,1641890,Hook Shot,1,1,POST_MOVES,2025
+Tyler Smith,1641890,Specialty Dunk,1,1,DUNKS,2025
+Tyler Smith,1641890,Standard Dunk,1,1,DUNKS,2025

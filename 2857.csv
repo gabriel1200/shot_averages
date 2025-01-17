@@ -1,21 +1,16 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Andre Barrett,2857,Driving Layup Shot,2,15,7,Driving Layup,LAYUPS,2005
-Andre Barrett,2857,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2005
-Andre Barrett,2857,Jump Shot,2,94,32,2PT Jump Shot,TWO_POINT_JUMPERS,2005
-Andre Barrett,2857,Layup Shot,2,6,3,Standard Layup,LAYUPS,2005
-Andre Barrett,2857,Running Jump Shot,2,7,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2005
-Andre Barrett,2857,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2005
-Andre Barrett,2857,Driving Layup Shot,2,18,10,Driving Layup,LAYUPS,2006
-Andre Barrett,2857,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2006
-Andre Barrett,2857,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2006
-Andre Barrett,2857,Jump Shot,2,62,17,2PT Jump Shot,TWO_POINT_JUMPERS,2006
-Andre Barrett,2857,Layup Shot,2,11,3,Standard Layup,LAYUPS,2006
-Andre Barrett,2857,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2006
-Andre Barrett,2857,Running Jump Shot,2,8,4,2PT Running Jump Shot,TWO_POINT_JUMPERS,2006
-Andre Barrett,2857,Running Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2006
-Andre Barrett,2857,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2006
-Andre Barrett,2857,Jump Shot,2,4,1,2PT Jump Shot,TWO_POINT_JUMPERS,2007
-Andre Barrett,2857,Layup Shot,2,2,1,Standard Layup,LAYUPS,2007
-Andre Barrett,2857,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2007
-Andre Barrett,2857,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2007
-Andre Barrett,2857,Jump Shot,2,5,2,2PT Jump Shot,TWO_POINT_JUMPERS,2008
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Andre Barrett,2857,2PT Jump Shot,95,33,TWO_POINT_JUMPERS,2005
+Andre Barrett,2857,2PT Running Jump Shot,7,2,TWO_POINT_JUMPERS,2005
+Andre Barrett,2857,Driving Layup,15,7,LAYUPS,2005
+Andre Barrett,2857,Standard Layup,7,3,LAYUPS,2005
+Andre Barrett,2857,2PT Fadeaway Jump Shot,1,1,TWO_POINT_JUMPERS,2006
+Andre Barrett,2857,2PT Jump Shot,63,18,TWO_POINT_JUMPERS,2006
+Andre Barrett,2857,2PT Running Jump Shot,8,4,TWO_POINT_JUMPERS,2006
+Andre Barrett,2857,Driving Layup,18,10,LAYUPS,2006
+Andre Barrett,2857,Reverse Layup,1,0,LAYUPS,2006
+Andre Barrett,2857,Standard Layup,11,3,LAYUPS,2006
+Andre Barrett,2857,Tip Shot,2,2,TIP_SHOTS,2006
+Andre Barrett,2857,2PT Jump Shot,4,1,TWO_POINT_JUMPERS,2007
+Andre Barrett,2857,Reverse Layup,1,1,LAYUPS,2007
+Andre Barrett,2857,Standard Layup,3,2,LAYUPS,2007
+Andre Barrett,2857,2PT Jump Shot,5,2,TWO_POINT_JUMPERS,2008

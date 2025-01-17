@@ -1,7 +1,6 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Walter Sharpe,201594,Hook Bank Shot,2,1,1,Hook Shot,POST_MOVES,2009
-Walter Sharpe,201594,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2009
-Walter Sharpe,201594,Jump Shot,2,5,0,2PT Jump Shot,TWO_POINT_JUMPERS,2009
-Walter Sharpe,201594,Layup Shot,2,1,0,Standard Layup,LAYUPS,2009
-Walter Sharpe,201594,Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2009
-Walter Sharpe,201594,Reverse Slam Dunk Shot,2,1,1,Reverse Dunk,DUNKS,2009
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Walter Sharpe,201594,2PT Jump Shot,5,0,TWO_POINT_JUMPERS,2009
+Walter Sharpe,201594,Hook Shot,2,1,POST_MOVES,2009
+Walter Sharpe,201594,Reverse Dunk,1,1,DUNKS,2009
+Walter Sharpe,201594,Reverse Layup,2,2,LAYUPS,2009
+Walter Sharpe,201594,Standard Layup,1,0,LAYUPS,2009

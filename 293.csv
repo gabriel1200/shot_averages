@@ -1,7 +1,6 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Charles Smith,293,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,1997
-Charles Smith,293,Dunk Shot,2,1,1,Standard Dunk,DUNKS,1997
-Charles Smith,293,Hook Shot,2,1,1,Hook Shot,POST_MOVES,1997
-Charles Smith,293,Jump Shot,2,66,23,2PT Jump Shot,TWO_POINT_JUMPERS,1997
-Charles Smith,293,Layup Shot,2,10,3,Standard Layup,LAYUPS,1997
-Charles Smith,293,Slam Dunk Shot,2,4,4,Standard Dunk,DUNKS,1997
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Charles Smith,293,2PT Jump Shot,66,23,TWO_POINT_JUMPERS,1997
+Charles Smith,293,Driving Layup,2,2,LAYUPS,1997
+Charles Smith,293,Hook Shot,1,1,POST_MOVES,1997
+Charles Smith,293,Standard Dunk,5,5,DUNKS,1997
+Charles Smith,293,Standard Layup,10,3,LAYUPS,1997

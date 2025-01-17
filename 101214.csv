@@ -1,47 +1,39 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Jawad Williams,101214,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2009
-Jawad Williams,101214,Jump Shot,2,3,1,2PT Jump Shot,TWO_POINT_JUMPERS,2009
-Jawad Williams,101214,Jump Shot,3,6,2,3PT Jump Shot,THREE_POINT_JUMPERS,2009
-Jawad Williams,101214,Layup Shot,2,1,0,Standard Layup,LAYUPS,2009
-Jawad Williams,101214,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2009
-Jawad Williams,101214,Driving Layup Shot,2,3,2,Driving Layup,LAYUPS,2010
-Jawad Williams,101214,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2010
-Jawad Williams,101214,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2010
-Jawad Williams,101214,Fadeaway Jump Shot,2,3,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2010
-Jawad Williams,101214,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2010
-Jawad Williams,101214,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2010
-Jawad Williams,101214,Jump Hook Shot,2,1,1,Hook Shot,POST_MOVES,2010
-Jawad Williams,101214,Jump Shot,2,50,19,2PT Jump Shot,TWO_POINT_JUMPERS,2010
-Jawad Williams,101214,Jump Shot,3,90,28,3PT Jump Shot,THREE_POINT_JUMPERS,2010
-Jawad Williams,101214,Layup Shot,2,28,13,Standard Layup,LAYUPS,2010
-Jawad Williams,101214,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2010
-Jawad Williams,101214,Pullup Jump shot,3,3,2,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2010
-Jawad Williams,101214,Putback Dunk Shot,2,1,0,Putback Dunk,DUNKS,2010
-Jawad Williams,101214,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2010
-Jawad Williams,101214,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2010
-Jawad Williams,101214,Running Jump Shot,2,2,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2010
-Jawad Williams,101214,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2010
-Jawad Williams,101214,Step Back Jump shot,2,4,2,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2010
-Jawad Williams,101214,Tip Shot,2,4,2,Tip Shot,TIP_SHOTS,2010
-Jawad Williams,101214,Turnaround Fadeaway shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2010
-Jawad Williams,101214,Turnaround Jump Shot,2,7,4,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2010
-Jawad Williams,101214,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2011
-Jawad Williams,101214,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2011
-Jawad Williams,101214,Driving Jump shot,2,2,2,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2011
-Jawad Williams,101214,Driving Layup Shot,2,2,0,Driving Layup,LAYUPS,2011
-Jawad Williams,101214,Floating Jump shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2011
-Jawad Williams,101214,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2011
-Jawad Williams,101214,Jump Hook Shot,2,1,1,Hook Shot,POST_MOVES,2011
-Jawad Williams,101214,Jump Shot,2,49,7,2PT Jump Shot,TWO_POINT_JUMPERS,2011
-Jawad Williams,101214,Jump Shot,3,42,12,3PT Jump Shot,THREE_POINT_JUMPERS,2011
-Jawad Williams,101214,Layup Shot,2,4,3,Standard Layup,LAYUPS,2011
-Jawad Williams,101214,Pullup Jump shot,2,4,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2011
-Jawad Williams,101214,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2011
-Jawad Williams,101214,Reverse Layup Shot,2,3,2,Reverse Layup,LAYUPS,2011
-Jawad Williams,101214,Running Bank shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2011
-Jawad Williams,101214,Running Jump Shot,2,3,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2011
-Jawad Williams,101214,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2011
-Jawad Williams,101214,Step Back Jump shot,2,3,2,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2011
-Jawad Williams,101214,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2011
-Jawad Williams,101214,Turnaround Bank shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2011
-Jawad Williams,101214,Turnaround Jump Shot,2,3,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2011
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Jawad Williams,101214,2PT Jump Shot,3,1,TWO_POINT_JUMPERS,2009
+Jawad Williams,101214,2PT Turnaround Jump Shot,1,1,TWO_POINT_JUMPERS,2009
+Jawad Williams,101214,3PT Jump Shot,6,2,THREE_POINT_JUMPERS,2009
+Jawad Williams,101214,Standard Dunk,1,1,DUNKS,2009
+Jawad Williams,101214,Standard Layup,1,0,LAYUPS,2009
+Jawad Williams,101214,2PT Fadeaway Jump Shot,3,1,TWO_POINT_JUMPERS,2010
+Jawad Williams,101214,2PT Floating Jump Shot,1,1,FLOATING_SHOTS,2010
+Jawad Williams,101214,2PT Jump Shot,51,19,TWO_POINT_JUMPERS,2010
+Jawad Williams,101214,2PT Pullup Jump Shot,1,0,TWO_POINT_JUMPERS,2010
+Jawad Williams,101214,2PT Running Jump Shot,2,0,TWO_POINT_JUMPERS,2010
+Jawad Williams,101214,2PT Step Back Jump Shot,4,2,TWO_POINT_JUMPERS,2010
+Jawad Williams,101214,2PT Turnaround Jump Shot,8,5,TWO_POINT_JUMPERS,2010
+Jawad Williams,101214,3PT Jump Shot,90,28,THREE_POINT_JUMPERS,2010
+Jawad Williams,101214,3PT Pullup Jump Shot,3,2,THREE_POINT_JUMPERS,2010
+Jawad Williams,101214,Driving Layup,4,3,LAYUPS,2010
+Jawad Williams,101214,Hook Shot,1,1,POST_MOVES,2010
+Jawad Williams,101214,Putback Dunk,1,0,DUNKS,2010
+Jawad Williams,101214,Putback Layup,1,1,LAYUPS,2010
+Jawad Williams,101214,Reverse Layup,1,0,LAYUPS,2010
+Jawad Williams,101214,Standard Dunk,3,3,DUNKS,2010
+Jawad Williams,101214,Standard Layup,28,13,LAYUPS,2010
+Jawad Williams,101214,Tip Shot,4,2,TIP_SHOTS,2010
+Jawad Williams,101214,2PT Driving Jump Shot,2,2,TWO_POINT_JUMPERS,2011
+Jawad Williams,101214,2PT Floating Jump Shot,2,1,FLOATING_SHOTS,2011
+Jawad Williams,101214,2PT Jump Shot,49,7,TWO_POINT_JUMPERS,2011
+Jawad Williams,101214,2PT Pullup Jump Shot,4,2,TWO_POINT_JUMPERS,2011
+Jawad Williams,101214,2PT Running Jump Shot,4,2,TWO_POINT_JUMPERS,2011
+Jawad Williams,101214,2PT Step Back Jump Shot,3,2,TWO_POINT_JUMPERS,2011
+Jawad Williams,101214,2PT Turnaround Jump Shot,4,2,TWO_POINT_JUMPERS,2011
+Jawad Williams,101214,3PT Jump Shot,42,12,THREE_POINT_JUMPERS,2011
+Jawad Williams,101214,Driving Dunk,1,1,DUNKS,2011
+Jawad Williams,101214,Driving Hook Shot,1,1,POST_MOVES,2011
+Jawad Williams,101214,Driving Layup,2,0,LAYUPS,2011
+Jawad Williams,101214,Hook Shot,2,2,POST_MOVES,2011
+Jawad Williams,101214,Putback Layup,1,1,LAYUPS,2011
+Jawad Williams,101214,Reverse Layup,3,2,LAYUPS,2011
+Jawad Williams,101214,Standard Layup,5,3,LAYUPS,2011
+Jawad Williams,101214,Tip Shot,1,1,TIP_SHOTS,2011

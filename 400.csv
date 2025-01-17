@@ -1,37 +1,35 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Derek Strong,400,Driving Layup Shot,2,10,8,Driving Layup,LAYUPS,1997
-Derek Strong,400,Dunk Shot,2,17,15,Standard Dunk,DUNKS,1997
-Derek Strong,400,Hook Shot,2,20,12,Hook Shot,POST_MOVES,1997
-Derek Strong,400,Jump Shot,2,294,115,2PT Jump Shot,TWO_POINT_JUMPERS,1997
-Derek Strong,400,Layup Shot,2,206,96,Standard Layup,LAYUPS,1997
-Derek Strong,400,Running Jump Shot,2,4,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
-Derek Strong,400,Slam Dunk Shot,2,3,3,Standard Dunk,DUNKS,1997
-Derek Strong,400,Tip Shot,2,32,10,Tip Shot,TIP_SHOTS,1997
-Derek Strong,400,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,1998
-Derek Strong,400,Driving Layup Shot,2,31,20,Driving Layup,LAYUPS,1998
-Derek Strong,400,Dunk Shot,2,20,18,Standard Dunk,DUNKS,1998
-Derek Strong,400,Hook Shot,2,17,7,Hook Shot,POST_MOVES,1998
-Derek Strong,400,Jump Shot,2,343,112,2PT Jump Shot,TWO_POINT_JUMPERS,1998
-Derek Strong,400,Layup Shot,2,185,88,Standard Layup,LAYUPS,1998
-Derek Strong,400,Running Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
-Derek Strong,400,Slam Dunk Shot,2,6,6,Standard Dunk,DUNKS,1998
-Derek Strong,400,Tip Shot,2,13,7,Tip Shot,TIP_SHOTS,1998
-Derek Strong,400,Driving Layup Shot,2,7,4,Driving Layup,LAYUPS,1999
-Derek Strong,400,Dunk Shot,2,5,5,Standard Dunk,DUNKS,1999
-Derek Strong,400,Hook Shot,2,1,0,Hook Shot,POST_MOVES,1999
-Derek Strong,400,Jump Shot,2,96,27,2PT Jump Shot,TWO_POINT_JUMPERS,1999
-Derek Strong,400,Layup Shot,2,63,36,Standard Layup,LAYUPS,1999
-Derek Strong,400,Running Jump Shot,2,5,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999
-Derek Strong,400,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,1999
-Derek Strong,400,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2000
-Derek Strong,400,Hook Shot,2,2,1,Hook Shot,POST_MOVES,2000
-Derek Strong,400,Jump Shot,2,33,10,2PT Jump Shot,TWO_POINT_JUMPERS,2000
-Derek Strong,400,Layup Shot,2,10,8,Standard Layup,LAYUPS,2000
-Derek Strong,400,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,2000
-Derek Strong,400,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2001
-Derek Strong,400,Hook Shot,2,4,3,Hook Shot,POST_MOVES,2001
-Derek Strong,400,Jump Shot,2,72,23,2PT Jump Shot,TWO_POINT_JUMPERS,2001
-Derek Strong,400,Layup Shot,2,31,13,Standard Layup,LAYUPS,2001
-Derek Strong,400,Reverse Layup Shot,2,3,3,Reverse Layup,LAYUPS,2001
-Derek Strong,400,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,2001
-Derek Strong,400,Tip Shot,2,3,0,Tip Shot,TIP_SHOTS,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Derek Strong,400,2PT Jump Shot,294,115,TWO_POINT_JUMPERS,1997
+Derek Strong,400,2PT Running Jump Shot,4,3,TWO_POINT_JUMPERS,1997
+Derek Strong,400,Driving Layup,10,8,LAYUPS,1997
+Derek Strong,400,Hook Shot,20,12,POST_MOVES,1997
+Derek Strong,400,Standard Dunk,20,18,DUNKS,1997
+Derek Strong,400,Standard Layup,206,96,LAYUPS,1997
+Derek Strong,400,Tip Shot,32,10,TIP_SHOTS,1997
+Derek Strong,400,2PT Jump Shot,343,112,TWO_POINT_JUMPERS,1998
+Derek Strong,400,2PT Running Jump Shot,2,1,TWO_POINT_JUMPERS,1998
+Derek Strong,400,Driving Dunk,1,1,DUNKS,1998
+Derek Strong,400,Driving Layup,31,20,LAYUPS,1998
+Derek Strong,400,Hook Shot,17,7,POST_MOVES,1998
+Derek Strong,400,Standard Dunk,26,24,DUNKS,1998
+Derek Strong,400,Standard Layup,185,88,LAYUPS,1998
+Derek Strong,400,Tip Shot,13,7,TIP_SHOTS,1998
+Derek Strong,400,2PT Jump Shot,96,27,TWO_POINT_JUMPERS,1999
+Derek Strong,400,2PT Running Jump Shot,5,2,TWO_POINT_JUMPERS,1999
+Derek Strong,400,Driving Layup,7,4,LAYUPS,1999
+Derek Strong,400,Hook Shot,1,0,POST_MOVES,1999
+Derek Strong,400,Standard Dunk,5,5,DUNKS,1999
+Derek Strong,400,Standard Layup,63,36,LAYUPS,1999
+Derek Strong,400,Tip Shot,3,2,TIP_SHOTS,1999
+Derek Strong,400,2PT Jump Shot,33,10,TWO_POINT_JUMPERS,2000
+Derek Strong,400,Driving Layup,1,1,LAYUPS,2000
+Derek Strong,400,Hook Shot,2,1,POST_MOVES,2000
+Derek Strong,400,Standard Layup,10,8,LAYUPS,2000
+Derek Strong,400,Tip Shot,2,1,TIP_SHOTS,2000
+Derek Strong,400,2PT Jump Shot,72,23,TWO_POINT_JUMPERS,2001
+Derek Strong,400,Driving Layup,2,1,LAYUPS,2001
+Derek Strong,400,Hook Shot,4,3,POST_MOVES,2001
+Derek Strong,400,Reverse Layup,3,3,LAYUPS,2001
+Derek Strong,400,Standard Dunk,2,2,DUNKS,2001
+Derek Strong,400,Standard Layup,31,13,LAYUPS,2001
+Derek Strong,400,Tip Shot,3,0,TIP_SHOTS,2001

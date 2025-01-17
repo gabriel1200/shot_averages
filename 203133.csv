@@ -1,28 +1,26 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Robbie Hummel,203133,Driving Bank shot,2,1,1,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2014
-Robbie Hummel,203133,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2014
-Robbie Hummel,203133,Floating Jump shot,2,3,3,2PT Floating Jump Shot,FLOATING_SHOTS,2014
-Robbie Hummel,203133,Jump Shot,2,149,52,2PT Jump Shot,TWO_POINT_JUMPERS,2014
-Robbie Hummel,203133,Layup Shot,2,8,3,Standard Layup,LAYUPS,2014
-Robbie Hummel,203133,Pullup Jump shot,2,4,3,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2014
-Robbie Hummel,203133,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2014
-Robbie Hummel,203133,Running Bank shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2014
-Robbie Hummel,203133,Running Jump Shot,2,4,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2014
-Robbie Hummel,203133,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2014
-Robbie Hummel,203133,Tip Shot,2,3,3,Tip Shot,TIP_SHOTS,2014
-Robbie Hummel,203133,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2014
-Robbie Hummel,203133,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2015
-Robbie Hummel,203133,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2015
-Robbie Hummel,203133,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2015
-Robbie Hummel,203133,Jump Shot,2,122,45,2PT Jump Shot,TWO_POINT_JUMPERS,2015
-Robbie Hummel,203133,Jump Shot,3,11,5,3PT Jump Shot,THREE_POINT_JUMPERS,2015
-Robbie Hummel,203133,Layup Shot,2,13,11,Standard Layup,LAYUPS,2015
-Robbie Hummel,203133,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2015
-Robbie Hummel,203133,Pullup Jump shot,3,1,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2015
-Robbie Hummel,203133,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2015
-Robbie Hummel,203133,Putback Layup Shot,2,2,2,Putback Layup,LAYUPS,2015
-Robbie Hummel,203133,Reverse Layup Shot,2,4,4,Reverse Layup,LAYUPS,2015
-Robbie Hummel,203133,Running Jump Shot,2,3,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2015
-Robbie Hummel,203133,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2015
-Robbie Hummel,203133,Tip Shot,2,8,6,Tip Shot,TIP_SHOTS,2015
-Robbie Hummel,203133,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2015
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Robbie Hummel,203133,2PT Driving Jump Shot,1,1,TWO_POINT_JUMPERS,2014
+Robbie Hummel,203133,2PT Floating Jump Shot,3,3,FLOATING_SHOTS,2014
+Robbie Hummel,203133,2PT Jump Shot,149,52,TWO_POINT_JUMPERS,2014
+Robbie Hummel,203133,2PT Pullup Jump Shot,4,3,TWO_POINT_JUMPERS,2014
+Robbie Hummel,203133,2PT Running Jump Shot,5,0,TWO_POINT_JUMPERS,2014
+Robbie Hummel,203133,2PT Step Back Jump Shot,1,0,TWO_POINT_JUMPERS,2014
+Robbie Hummel,203133,2PT Turnaround Jump Shot,1,0,TWO_POINT_JUMPERS,2014
+Robbie Hummel,203133,Putback Dunk,1,1,DUNKS,2014
+Robbie Hummel,203133,Standard Dunk,1,1,DUNKS,2014
+Robbie Hummel,203133,Standard Layup,8,3,LAYUPS,2014
+Robbie Hummel,203133,Tip Shot,3,3,TIP_SHOTS,2014
+Robbie Hummel,203133,2PT Jump Shot,123,46,TWO_POINT_JUMPERS,2015
+Robbie Hummel,203133,2PT Pullup Jump Shot,1,0,TWO_POINT_JUMPERS,2015
+Robbie Hummel,203133,2PT Running Jump Shot,3,0,TWO_POINT_JUMPERS,2015
+Robbie Hummel,203133,2PT Turnaround Jump Shot,2,1,TWO_POINT_JUMPERS,2015
+Robbie Hummel,203133,3PT Jump Shot,11,5,THREE_POINT_JUMPERS,2015
+Robbie Hummel,203133,3PT Pullup Jump Shot,1,0,THREE_POINT_JUMPERS,2015
+Robbie Hummel,203133,Driving Layup,1,1,LAYUPS,2015
+Robbie Hummel,203133,Finger Roll,1,1,LAYUPS,2015
+Robbie Hummel,203133,Putback Dunk,1,1,DUNKS,2015
+Robbie Hummel,203133,Putback Layup,2,2,LAYUPS,2015
+Robbie Hummel,203133,Reverse Layup,4,4,LAYUPS,2015
+Robbie Hummel,203133,Standard Dunk,1,1,DUNKS,2015
+Robbie Hummel,203133,Standard Layup,13,11,LAYUPS,2015
+Robbie Hummel,203133,Tip Shot,8,6,TIP_SHOTS,2015

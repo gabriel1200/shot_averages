@@ -1,19 +1,15 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Chris Richard,201181,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2008
-Chris Richard,201181,Dunk Shot,2,7,2,Standard Dunk,DUNKS,2008
-Chris Richard,201181,Hook Shot,2,4,0,Hook Shot,POST_MOVES,2008
-Chris Richard,201181,Jump Hook Shot,2,5,3,Hook Shot,POST_MOVES,2008
-Chris Richard,201181,Jump Shot,2,17,4,2PT Jump Shot,TWO_POINT_JUMPERS,2008
-Chris Richard,201181,Layup Shot,2,33,18,Standard Layup,LAYUPS,2008
-Chris Richard,201181,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2008
-Chris Richard,201181,Putback Slam Dunk Shot,2,2,2,Putback Dunk,DUNKS,2008
-Chris Richard,201181,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2008
-Chris Richard,201181,Slam Dunk Shot,2,4,4,Standard Dunk,DUNKS,2008
-Chris Richard,201181,Tip Shot,2,12,5,Tip Shot,TIP_SHOTS,2008
-Chris Richard,201181,Dunk Shot,2,6,3,Standard Dunk,DUNKS,2010
-Chris Richard,201181,Hook Shot,2,8,2,Hook Shot,POST_MOVES,2010
-Chris Richard,201181,Jump Shot,2,3,2,2PT Jump Shot,TWO_POINT_JUMPERS,2010
-Chris Richard,201181,Layup Shot,2,7,3,Standard Layup,LAYUPS,2010
-Chris Richard,201181,Putback Dunk Shot,2,2,2,Putback Dunk,DUNKS,2010
-Chris Richard,201181,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2010
-Chris Richard,201181,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,2010
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Chris Richard,201181,2PT Jump Shot,17,4,TWO_POINT_JUMPERS,2008
+Chris Richard,201181,Driving Dunk,1,1,DUNKS,2008
+Chris Richard,201181,Hook Shot,9,3,POST_MOVES,2008
+Chris Richard,201181,Putback Dunk,3,3,DUNKS,2008
+Chris Richard,201181,Reverse Layup,1,1,LAYUPS,2008
+Chris Richard,201181,Standard Dunk,11,6,DUNKS,2008
+Chris Richard,201181,Standard Layup,33,18,LAYUPS,2008
+Chris Richard,201181,Tip Shot,12,5,TIP_SHOTS,2008
+Chris Richard,201181,2PT Jump Shot,3,2,TWO_POINT_JUMPERS,2010
+Chris Richard,201181,Hook Shot,8,2,POST_MOVES,2010
+Chris Richard,201181,Putback Dunk,2,2,DUNKS,2010
+Chris Richard,201181,Standard Dunk,7,4,DUNKS,2010
+Chris Richard,201181,Standard Layup,7,3,LAYUPS,2010
+Chris Richard,201181,Tip Shot,2,2,TIP_SHOTS,2010

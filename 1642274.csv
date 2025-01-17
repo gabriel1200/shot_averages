@@ -1,33 +1,19 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Yves Missi,1642274,Alley Oop Dunk Shot,2,11,10,Alley Oop Dunk,DUNKS,2025
-Yves Missi,1642274,Alley Oop Layup shot,2,3,3,Alley Oop Layup,LAYUPS,2025
-Yves Missi,1642274,Cutting Dunk Shot,2,32,27,Specialty Dunk,DUNKS,2025
-Yves Missi,1642274,Cutting Finger Roll Layup Shot,2,7,5,Finger Roll,LAYUPS,2025
-Yves Missi,1642274,Cutting Layup Shot,2,20,11,Standard Layup,LAYUPS,2025
-Yves Missi,1642274,Driving Bank Hook Shot,2,5,1,Driving Hook Shot,POST_MOVES,2025
-Yves Missi,1642274,Driving Dunk Shot,2,8,7,Driving Dunk,DUNKS,2025
-Yves Missi,1642274,Driving Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2025
-Yves Missi,1642274,Driving Floating Bank Jump Shot,2,3,0,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Yves Missi,1642274,Driving Floating Jump Shot,2,4,0,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Yves Missi,1642274,Driving Hook Shot,2,4,3,Driving Hook Shot,POST_MOVES,2025
-Yves Missi,1642274,Driving Layup Shot,2,20,9,Driving Layup,LAYUPS,2025
-Yves Missi,1642274,Driving Reverse Layup Shot,2,4,3,Driving Layup,LAYUPS,2025
-Yves Missi,1642274,Dunk Shot,2,8,5,Standard Dunk,DUNKS,2025
-Yves Missi,1642274,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2025
-Yves Missi,1642274,Floating Jump shot,2,7,2,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Yves Missi,1642274,Hook Bank Shot,2,1,1,Hook Shot,POST_MOVES,2025
-Yves Missi,1642274,Hook Shot,2,11,4,Hook Shot,POST_MOVES,2025
-Yves Missi,1642274,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2025
-Yves Missi,1642274,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2025
-Yves Missi,1642274,Layup Shot,2,14,4,Standard Layup,LAYUPS,2025
-Yves Missi,1642274,Putback Dunk Shot,2,5,3,Putback Dunk,DUNKS,2025
-Yves Missi,1642274,Putback Layup Shot,2,16,9,Putback Layup,LAYUPS,2025
-Yves Missi,1642274,Reverse Layup Shot,2,6,2,Reverse Layup,LAYUPS,2025
-Yves Missi,1642274,Running Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2025
-Yves Missi,1642274,Running Dunk Shot,2,7,7,Standard Dunk,DUNKS,2025
-Yves Missi,1642274,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2025
-Yves Missi,1642274,Running Layup Shot,2,2,1,Standard Layup,LAYUPS,2025
-Yves Missi,1642274,Tip Dunk Shot,2,5,4,Specialty Dunk,DUNKS,2025
-Yves Missi,1642274,Tip Layup Shot,2,47,20,Putback Layup,LAYUPS,2025
-Yves Missi,1642274,Turnaround Hook Shot,2,4,0,Turnaround Hook Shot,POST_MOVES,2025
-Yves Missi,1642274,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Yves Missi,1642274,2PT Floating Jump Shot,14,2,FLOATING_SHOTS,2025
+Yves Missi,1642274,2PT Jump Shot,1,1,TWO_POINT_JUMPERS,2025
+Yves Missi,1642274,2PT Turnaround Jump Shot,1,0,TWO_POINT_JUMPERS,2025
+Yves Missi,1642274,3PT Jump Shot,1,0,THREE_POINT_JUMPERS,2025
+Yves Missi,1642274,Alley Oop Dunk,12,11,DUNKS,2025
+Yves Missi,1642274,Alley Oop Layup,3,3,LAYUPS,2025
+Yves Missi,1642274,Driving Dunk,8,7,DUNKS,2025
+Yves Missi,1642274,Driving Hook Shot,9,4,POST_MOVES,2025
+Yves Missi,1642274,Driving Layup,24,12,LAYUPS,2025
+Yves Missi,1642274,Finger Roll,11,9,LAYUPS,2025
+Yves Missi,1642274,Hook Shot,12,5,POST_MOVES,2025
+Yves Missi,1642274,Putback Dunk,5,3,DUNKS,2025
+Yves Missi,1642274,Putback Layup,63,29,LAYUPS,2025
+Yves Missi,1642274,Reverse Layup,6,2,LAYUPS,2025
+Yves Missi,1642274,Specialty Dunk,37,31,DUNKS,2025
+Yves Missi,1642274,Standard Dunk,15,12,DUNKS,2025
+Yves Missi,1642274,Standard Layup,36,16,LAYUPS,2025
+Yves Missi,1642274,Turnaround Hook Shot,4,0,POST_MOVES,2025

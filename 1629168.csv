@@ -1,32 +1,28 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-BJ Johnson,1629168,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2019
-BJ Johnson,1629168,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2019
-BJ Johnson,1629168,Jump Shot,2,7,3,2PT Jump Shot,TWO_POINT_JUMPERS,2019
-BJ Johnson,1629168,Layup Shot,2,1,0,Standard Layup,LAYUPS,2019
-BJ Johnson,1629168,Pullup Jump shot,2,4,3,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2019
-BJ Johnson,1629168,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2019
-BJ Johnson,1629168,Running Layup Shot,2,2,1,Standard Layup,LAYUPS,2019
-BJ Johnson,1629168,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2019
-BJ Johnson,1629168,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2020
-BJ Johnson,1629168,Cutting Layup Shot,2,1,0,Standard Layup,LAYUPS,2020
-BJ Johnson,1629168,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2020
-BJ Johnson,1629168,Driving Layup Shot,2,4,0,Driving Layup,LAYUPS,2020
-BJ Johnson,1629168,Jump Shot,2,6,2,2PT Jump Shot,TWO_POINT_JUMPERS,2020
-BJ Johnson,1629168,Pullup Jump shot,2,11,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2020
-BJ Johnson,1629168,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2020
-BJ Johnson,1629168,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2020
-BJ Johnson,1629168,Running Jump Shot,2,2,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2020
-BJ Johnson,1629168,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2020
-BJ Johnson,1629168,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2020
-BJ Johnson,1629168,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2020
-BJ Johnson,1629168,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2022
-BJ Johnson,1629168,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2022
-BJ Johnson,1629168,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2022
-BJ Johnson,1629168,Jump Shot,2,5,2,2PT Jump Shot,TWO_POINT_JUMPERS,2022
-BJ Johnson,1629168,Jump Shot,3,5,3,3PT Jump Shot,THREE_POINT_JUMPERS,2022
-BJ Johnson,1629168,Pullup Jump shot,2,6,4,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2022
-BJ Johnson,1629168,Putback Layup Shot,2,1,0,Putback Layup,LAYUPS,2022
-BJ Johnson,1629168,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2022
-BJ Johnson,1629168,Running Pull-Up Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2022
-BJ Johnson,1629168,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2022
-BJ Johnson,1629168,Turnaround Jump Shot,2,2,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2022
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+BJ Johnson,1629168,2PT Floating Jump Shot,1,1,FLOATING_SHOTS,2019
+BJ Johnson,1629168,2PT Jump Shot,7,3,TWO_POINT_JUMPERS,2019
+BJ Johnson,1629168,2PT Pullup Jump Shot,4,3,TWO_POINT_JUMPERS,2019
+BJ Johnson,1629168,2PT Step Back Jump Shot,1,0,TWO_POINT_JUMPERS,2019
+BJ Johnson,1629168,Driving Layup,1,0,LAYUPS,2019
+BJ Johnson,1629168,Standard Dunk,1,1,DUNKS,2019
+BJ Johnson,1629168,Standard Layup,3,1,LAYUPS,2019
+BJ Johnson,1629168,2PT Floating Jump Shot,1,0,FLOATING_SHOTS,2020
+BJ Johnson,1629168,2PT Jump Shot,6,2,TWO_POINT_JUMPERS,2020
+BJ Johnson,1629168,2PT Pullup Jump Shot,11,2,TWO_POINT_JUMPERS,2020
+BJ Johnson,1629168,2PT Running Jump Shot,2,0,TWO_POINT_JUMPERS,2020
+BJ Johnson,1629168,2PT Step Back Jump Shot,1,0,TWO_POINT_JUMPERS,2020
+BJ Johnson,1629168,2PT Turnaround Jump Shot,1,1,TWO_POINT_JUMPERS,2020
+BJ Johnson,1629168,Driving Layup,4,0,LAYUPS,2020
+BJ Johnson,1629168,Putback Layup,1,1,LAYUPS,2020
+BJ Johnson,1629168,Specialty Dunk,1,1,DUNKS,2020
+BJ Johnson,1629168,Standard Dunk,2,2,DUNKS,2020
+BJ Johnson,1629168,Standard Layup,2,0,LAYUPS,2020
+BJ Johnson,1629168,2PT Jump Shot,5,2,TWO_POINT_JUMPERS,2022
+BJ Johnson,1629168,2PT Pullup Jump Shot,6,4,TWO_POINT_JUMPERS,2022
+BJ Johnson,1629168,2PT Running Jump Shot,1,0,TWO_POINT_JUMPERS,2022
+BJ Johnson,1629168,2PT Turnaround Jump Shot,2,0,TWO_POINT_JUMPERS,2022
+BJ Johnson,1629168,3PT Jump Shot,5,3,THREE_POINT_JUMPERS,2022
+BJ Johnson,1629168,Driving Layup,1,0,LAYUPS,2022
+BJ Johnson,1629168,Putback Layup,2,0,LAYUPS,2022
+BJ Johnson,1629168,Specialty Dunk,1,1,DUNKS,2022
+BJ Johnson,1629168,Standard Layup,2,1,LAYUPS,2022

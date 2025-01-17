@@ -1,19 +1,18 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Derek Harper,157,Driving Layup Shot,2,105,74,Driving Layup,LAYUPS,1997
-Derek Harper,157,Dunk Shot,2,1,1,Standard Dunk,DUNKS,1997
-Derek Harper,157,Jump Shot,2,364,137,2PT Jump Shot,TWO_POINT_JUMPERS,1997
-Derek Harper,157,Jump Shot,3,121,46,3PT Jump Shot,THREE_POINT_JUMPERS,1997
-Derek Harper,157,Layup Shot,2,71,32,Standard Layup,LAYUPS,1997
-Derek Harper,157,Running Jump Shot,2,10,7,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
-Derek Harper,157,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,1997
-Derek Harper,157,Driving Layup Shot,2,46,28,Driving Layup,LAYUPS,1998
-Derek Harper,157,Dunk Shot,2,1,1,Standard Dunk,DUNKS,1998
-Derek Harper,157,Jump Shot,2,293,118,2PT Jump Shot,TWO_POINT_JUMPERS,1998
-Derek Harper,157,Jump Shot,3,145,53,3PT Jump Shot,THREE_POINT_JUMPERS,1998
-Derek Harper,157,Layup Shot,2,43,22,Standard Layup,LAYUPS,1998
-Derek Harper,157,Running Jump Shot,2,14,4,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
-Derek Harper,157,Driving Layup Shot,2,36,21,Driving Layup,LAYUPS,1999
-Derek Harper,157,Jump Shot,2,140,52,2PT Jump Shot,TWO_POINT_JUMPERS,1999
-Derek Harper,157,Jump Shot,3,85,29,3PT Jump Shot,THREE_POINT_JUMPERS,1999
-Derek Harper,157,Layup Shot,2,24,15,Standard Layup,LAYUPS,1999
-Derek Harper,157,Running Jump Shot,2,6,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Derek Harper,157,2PT Jump Shot,364,137,TWO_POINT_JUMPERS,1997
+Derek Harper,157,2PT Running Jump Shot,10,7,TWO_POINT_JUMPERS,1997
+Derek Harper,157,3PT Jump Shot,121,46,THREE_POINT_JUMPERS,1997
+Derek Harper,157,Driving Layup,105,74,LAYUPS,1997
+Derek Harper,157,Standard Dunk,3,3,DUNKS,1997
+Derek Harper,157,Standard Layup,71,32,LAYUPS,1997
+Derek Harper,157,2PT Jump Shot,293,118,TWO_POINT_JUMPERS,1998
+Derek Harper,157,2PT Running Jump Shot,14,4,TWO_POINT_JUMPERS,1998
+Derek Harper,157,3PT Jump Shot,145,53,THREE_POINT_JUMPERS,1998
+Derek Harper,157,Driving Layup,46,28,LAYUPS,1998
+Derek Harper,157,Standard Dunk,1,1,DUNKS,1998
+Derek Harper,157,Standard Layup,43,22,LAYUPS,1998
+Derek Harper,157,2PT Jump Shot,140,52,TWO_POINT_JUMPERS,1999
+Derek Harper,157,2PT Running Jump Shot,6,3,TWO_POINT_JUMPERS,1999
+Derek Harper,157,3PT Jump Shot,85,29,THREE_POINT_JUMPERS,1999
+Derek Harper,157,Driving Layup,36,21,LAYUPS,1999
+Derek Harper,157,Standard Layup,24,15,LAYUPS,1999

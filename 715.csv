@@ -1,9 +1,9 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-John Coker,715,Hook Shot,2,3,2,Hook Shot,POST_MOVES,1999
-John Coker,715,Jump Shot,2,18,5,2PT Jump Shot,TWO_POINT_JUMPERS,1999
-John Coker,715,Layup Shot,2,9,5,Standard Layup,LAYUPS,1999
-John Coker,715,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,1999
-John Coker,715,Hook Shot,2,3,1,Hook Shot,POST_MOVES,2001
-John Coker,715,Jump Shot,2,3,0,2PT Jump Shot,TWO_POINT_JUMPERS,2001
-John Coker,715,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2001
-John Coker,715,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+John Coker,715,2PT Jump Shot,18,5,TWO_POINT_JUMPERS,1999
+John Coker,715,Hook Shot,3,2,POST_MOVES,1999
+John Coker,715,Standard Layup,9,5,LAYUPS,1999
+John Coker,715,Tip Shot,1,1,TIP_SHOTS,1999
+John Coker,715,2PT Jump Shot,3,0,TWO_POINT_JUMPERS,2001
+John Coker,715,Hook Shot,3,1,POST_MOVES,2001
+John Coker,715,Tip Shot,1,0,TIP_SHOTS,2001
+John Coker,715,Turnaround Hook Shot,1,0,POST_MOVES,2001

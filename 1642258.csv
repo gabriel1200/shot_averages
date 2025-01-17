@@ -1,42 +1,25 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Zaccharie Risacher,1642258,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2025
-Zaccharie Risacher,1642258,Cutting Dunk Shot,2,8,8,Specialty Dunk,DUNKS,2025
-Zaccharie Risacher,1642258,Cutting Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2025
-Zaccharie Risacher,1642258,Cutting Layup Shot,2,13,5,Standard Layup,LAYUPS,2025
-Zaccharie Risacher,1642258,Driving Bank Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,2025
-Zaccharie Risacher,1642258,Driving Dunk Shot,2,4,3,Driving Dunk,DUNKS,2025
-Zaccharie Risacher,1642258,Driving Finger Roll Layup Shot,2,9,5,Finger Roll,LAYUPS,2025
-Zaccharie Risacher,1642258,Driving Floating Bank Jump Shot,2,10,6,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Zaccharie Risacher,1642258,Driving Floating Jump Shot,2,11,5,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Zaccharie Risacher,1642258,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,2025
-Zaccharie Risacher,1642258,Driving Layup Shot,2,32,10,Driving Layup,LAYUPS,2025
-Zaccharie Risacher,1642258,Driving Reverse Layup Shot,2,7,5,Driving Layup,LAYUPS,2025
-Zaccharie Risacher,1642258,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2025
-Zaccharie Risacher,1642258,Fadeaway Jump Shot,2,3,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
-Zaccharie Risacher,1642258,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2025
-Zaccharie Risacher,1642258,Floating Jump shot,2,6,2,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Zaccharie Risacher,1642258,Hook Shot,2,3,2,Hook Shot,POST_MOVES,2025
-Zaccharie Risacher,1642258,Jump Shot,2,8,1,2PT Jump Shot,TWO_POINT_JUMPERS,2025
-Zaccharie Risacher,1642258,Jump Shot,3,113,36,3PT Jump Shot,THREE_POINT_JUMPERS,2025
-Zaccharie Risacher,1642258,Layup Shot,2,9,3,Standard Layup,LAYUPS,2025
-Zaccharie Risacher,1642258,Pullup Jump shot,2,5,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
-Zaccharie Risacher,1642258,Pullup Jump shot,3,6,1,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
-Zaccharie Risacher,1642258,Putback Layup Shot,2,6,4,Putback Layup,LAYUPS,2025
-Zaccharie Risacher,1642258,Reverse Layup Shot,2,5,1,Reverse Layup,LAYUPS,2025
-Zaccharie Risacher,1642258,Running Alley Oop Dunk Shot,2,5,4,Alley Oop Dunk,DUNKS,2025
-Zaccharie Risacher,1642258,Running Alley Oop Layup Shot,2,4,2,Alley Oop Layup,LAYUPS,2025
-Zaccharie Risacher,1642258,Running Dunk Shot,2,14,12,Standard Dunk,DUNKS,2025
-Zaccharie Risacher,1642258,Running Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2025
-Zaccharie Risacher,1642258,Running Jump Shot,2,4,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2025
-Zaccharie Risacher,1642258,Running Jump Shot,3,27,6,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
-Zaccharie Risacher,1642258,Running Layup Shot,2,20,10,Standard Layup,LAYUPS,2025
-Zaccharie Risacher,1642258,Running Pull-Up Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2025
-Zaccharie Risacher,1642258,Running Pull-Up Jump Shot,3,7,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
-Zaccharie Risacher,1642258,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2025
-Zaccharie Risacher,1642258,Step Back Jump shot,2,2,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2025
-Zaccharie Risacher,1642258,Step Back Jump shot,3,7,1,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
-Zaccharie Risacher,1642258,Tip Layup Shot,2,11,5,Putback Layup,LAYUPS,2025
-Zaccharie Risacher,1642258,Turnaround Bank Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2025
-Zaccharie Risacher,1642258,Turnaround Bank shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
-Zaccharie Risacher,1642258,Turnaround Fadeaway shot,2,3,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
-Zaccharie Risacher,1642258,Turnaround Jump Shot,2,6,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Zaccharie Risacher,1642258,2PT Fadeaway Jump Shot,3,1,TWO_POINT_JUMPERS,2025
+Zaccharie Risacher,1642258,2PT Floating Jump Shot,27,13,FLOATING_SHOTS,2025
+Zaccharie Risacher,1642258,2PT Jump Shot,8,1,TWO_POINT_JUMPERS,2025
+Zaccharie Risacher,1642258,2PT Pullup Jump Shot,5,2,TWO_POINT_JUMPERS,2025
+Zaccharie Risacher,1642258,2PT Running Jump Shot,5,1,TWO_POINT_JUMPERS,2025
+Zaccharie Risacher,1642258,2PT Step Back Jump Shot,2,0,TWO_POINT_JUMPERS,2025
+Zaccharie Risacher,1642258,2PT Turnaround Jump Shot,10,3,TWO_POINT_JUMPERS,2025
+Zaccharie Risacher,1642258,3PT Jump Shot,113,36,THREE_POINT_JUMPERS,2025
+Zaccharie Risacher,1642258,3PT Pullup Jump Shot,6,1,THREE_POINT_JUMPERS,2025
+Zaccharie Risacher,1642258,3PT Running Jump Shot,34,7,THREE_POINT_JUMPERS,2025
+Zaccharie Risacher,1642258,3PT Step Back Jump Shot,7,1,THREE_POINT_JUMPERS,2025
+Zaccharie Risacher,1642258,Alley Oop Dunk,5,4,DUNKS,2025
+Zaccharie Risacher,1642258,Alley Oop Layup,5,3,LAYUPS,2025
+Zaccharie Risacher,1642258,Driving Dunk,4,3,DUNKS,2025
+Zaccharie Risacher,1642258,Driving Hook Shot,4,2,POST_MOVES,2025
+Zaccharie Risacher,1642258,Driving Layup,39,15,LAYUPS,2025
+Zaccharie Risacher,1642258,Finger Roll,12,7,LAYUPS,2025
+Zaccharie Risacher,1642258,Hook Shot,3,2,POST_MOVES,2025
+Zaccharie Risacher,1642258,Putback Layup,17,9,LAYUPS,2025
+Zaccharie Risacher,1642258,Reverse Layup,6,2,LAYUPS,2025
+Zaccharie Risacher,1642258,Specialty Dunk,8,8,DUNKS,2025
+Zaccharie Risacher,1642258,Standard Dunk,16,14,DUNKS,2025
+Zaccharie Risacher,1642258,Standard Layup,42,18,LAYUPS,2025
+Zaccharie Risacher,1642258,Turnaround Hook Shot,1,1,POST_MOVES,2025

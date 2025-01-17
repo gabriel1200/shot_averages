@@ -1,51 +1,36 @@
-PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
-Craig Porter Jr.,1641854,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2024
-Craig Porter Jr.,1641854,Cutting Layup Shot,2,8,7,Standard Layup,LAYUPS,2024
-Craig Porter Jr.,1641854,Driving Dunk Shot,2,5,4,Driving Dunk,DUNKS,2024
-Craig Porter Jr.,1641854,Driving Finger Roll Layup Shot,2,5,5,Finger Roll,LAYUPS,2024
-Craig Porter Jr.,1641854,Driving Floating Bank Jump Shot,2,8,5,2PT Floating Jump Shot,FLOATING_SHOTS,2024
-Craig Porter Jr.,1641854,Driving Floating Jump Shot,2,22,9,2PT Floating Jump Shot,FLOATING_SHOTS,2024
-Craig Porter Jr.,1641854,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2024
-Craig Porter Jr.,1641854,Driving Layup Shot,2,40,20,Driving Layup,LAYUPS,2024
-Craig Porter Jr.,1641854,Driving Reverse Layup Shot,2,2,1,Driving Layup,LAYUPS,2024
-Craig Porter Jr.,1641854,Fadeaway Bank shot,2,2,2,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
-Craig Porter Jr.,1641854,Fadeaway Jump Shot,2,3,3,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
-Craig Porter Jr.,1641854,Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2024
-Craig Porter Jr.,1641854,Floating Jump shot,2,7,3,2PT Floating Jump Shot,FLOATING_SHOTS,2024
-Craig Porter Jr.,1641854,Jump Shot,3,11,4,3PT Jump Shot,THREE_POINT_JUMPERS,2024
-Craig Porter Jr.,1641854,Pullup Jump shot,2,26,14,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2024
-Craig Porter Jr.,1641854,Pullup Jump shot,3,7,1,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
-Craig Porter Jr.,1641854,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2024
-Craig Porter Jr.,1641854,Running Dunk Shot,2,4,4,Standard Dunk,DUNKS,2024
-Craig Porter Jr.,1641854,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2024
-Craig Porter Jr.,1641854,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
-Craig Porter Jr.,1641854,Running Layup Shot,2,14,5,Standard Layup,LAYUPS,2024
-Craig Porter Jr.,1641854,Running Pull-Up Jump Shot,2,2,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2024
-Craig Porter Jr.,1641854,Running Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2024
-Craig Porter Jr.,1641854,Step Back Bank Jump Shot,3,1,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
-Craig Porter Jr.,1641854,Step Back Jump shot,2,15,8,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2024
-Craig Porter Jr.,1641854,Step Back Jump shot,3,14,7,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
-Craig Porter Jr.,1641854,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2024
-Craig Porter Jr.,1641854,Turnaround Bank shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
-Craig Porter Jr.,1641854,Turnaround Fadeaway shot,2,9,3,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
-Craig Porter Jr.,1641854,Turnaround Hook Shot,2,2,2,Turnaround Hook Shot,POST_MOVES,2024
-Craig Porter Jr.,1641854,Turnaround Jump Shot,2,10,4,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
-Craig Porter Jr.,1641854,Cutting Dunk Shot,2,2,2,Specialty Dunk,DUNKS,2025
-Craig Porter Jr.,1641854,Cutting Layup Shot,2,2,2,Standard Layup,LAYUPS,2025
-Craig Porter Jr.,1641854,Driving Finger Roll Layup Shot,2,3,3,Finger Roll,LAYUPS,2025
-Craig Porter Jr.,1641854,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Craig Porter Jr.,1641854,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Craig Porter Jr.,1641854,Driving Layup Shot,2,5,1,Driving Layup,LAYUPS,2025
-Craig Porter Jr.,1641854,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2025
-Craig Porter Jr.,1641854,Jump Bank Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2025
-Craig Porter Jr.,1641854,Jump Shot,3,3,2,3PT Jump Shot,THREE_POINT_JUMPERS,2025
-Craig Porter Jr.,1641854,Pullup Jump shot,2,2,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
-Craig Porter Jr.,1641854,Pullup Jump shot,3,4,1,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
-Craig Porter Jr.,1641854,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2025
-Craig Porter Jr.,1641854,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2025
-Craig Porter Jr.,1641854,Running Jump Shot,3,1,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
-Craig Porter Jr.,1641854,Running Layup Shot,2,3,2,Standard Layup,LAYUPS,2025
-Craig Porter Jr.,1641854,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2025
-Craig Porter Jr.,1641854,Step Back Jump shot,3,2,1,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
-Craig Porter Jr.,1641854,Turnaround Bank Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2025
-Craig Porter Jr.,1641854,Turnaround Fadeaway shot,2,3,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
+Craig Porter Jr.,1641854,2PT Fadeaway Jump Shot,5,5,TWO_POINT_JUMPERS,2024
+Craig Porter Jr.,1641854,2PT Floating Jump Shot,37,17,FLOATING_SHOTS,2024
+Craig Porter Jr.,1641854,2PT Pullup Jump Shot,26,14,TWO_POINT_JUMPERS,2024
+Craig Porter Jr.,1641854,2PT Running Jump Shot,2,0,TWO_POINT_JUMPERS,2024
+Craig Porter Jr.,1641854,2PT Step Back Jump Shot,15,8,TWO_POINT_JUMPERS,2024
+Craig Porter Jr.,1641854,2PT Turnaround Jump Shot,20,8,TWO_POINT_JUMPERS,2024
+Craig Porter Jr.,1641854,3PT Jump Shot,11,4,THREE_POINT_JUMPERS,2024
+Craig Porter Jr.,1641854,3PT Pullup Jump Shot,7,1,THREE_POINT_JUMPERS,2024
+Craig Porter Jr.,1641854,3PT Running Jump Shot,1,0,THREE_POINT_JUMPERS,2024
+Craig Porter Jr.,1641854,3PT Step Back Jump Shot,15,7,THREE_POINT_JUMPERS,2024
+Craig Porter Jr.,1641854,Driving Dunk,5,4,DUNKS,2024
+Craig Porter Jr.,1641854,Driving Hook Shot,1,0,POST_MOVES,2024
+Craig Porter Jr.,1641854,Driving Layup,42,21,LAYUPS,2024
+Craig Porter Jr.,1641854,Finger Roll,7,6,LAYUPS,2024
+Craig Porter Jr.,1641854,Putback Layup,1,0,LAYUPS,2024
+Craig Porter Jr.,1641854,Reverse Layup,4,2,LAYUPS,2024
+Craig Porter Jr.,1641854,Specialty Dunk,1,1,DUNKS,2024
+Craig Porter Jr.,1641854,Standard Dunk,4,4,DUNKS,2024
+Craig Porter Jr.,1641854,Standard Layup,22,12,LAYUPS,2024
+Craig Porter Jr.,1641854,Turnaround Hook Shot,2,2,POST_MOVES,2024
+Craig Porter Jr.,1641854,2PT Floating Jump Shot,3,1,FLOATING_SHOTS,2025
+Craig Porter Jr.,1641854,2PT Pullup Jump Shot,2,1,TWO_POINT_JUMPERS,2025
+Craig Porter Jr.,1641854,2PT Step Back Jump Shot,1,0,TWO_POINT_JUMPERS,2025
+Craig Porter Jr.,1641854,2PT Turnaround Jump Shot,3,1,TWO_POINT_JUMPERS,2025
+Craig Porter Jr.,1641854,3PT Jump Shot,4,2,THREE_POINT_JUMPERS,2025
+Craig Porter Jr.,1641854,3PT Pullup Jump Shot,5,2,THREE_POINT_JUMPERS,2025
+Craig Porter Jr.,1641854,3PT Running Jump Shot,1,1,THREE_POINT_JUMPERS,2025
+Craig Porter Jr.,1641854,3PT Step Back Jump Shot,2,1,THREE_POINT_JUMPERS,2025
+Craig Porter Jr.,1641854,Driving Layup,7,3,LAYUPS,2025
+Craig Porter Jr.,1641854,Finger Roll,3,3,LAYUPS,2025
+Craig Porter Jr.,1641854,Reverse Layup,1,1,LAYUPS,2025
+Craig Porter Jr.,1641854,Specialty Dunk,2,2,DUNKS,2025
+Craig Porter Jr.,1641854,Standard Dunk,1,1,DUNKS,2025
+Craig Porter Jr.,1641854,Standard Layup,5,4,LAYUPS,2025
+Craig Porter Jr.,1641854,Turnaround Hook Shot,1,1,POST_MOVES,2025
