@@ -1,6 +1,7 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Alex Stepheson,1627293,Hook Shot,2,4,2,POST_MOVES,,2016
-Alex Stepheson,1627293,Jump Shot,2,6,0,JUMP_SHOTS,,2016
-Alex Stepheson,1627293,Putback Layup,2,9,6,LAYUPS,,2016
-Alex Stepheson,1627293,Standard Layup,2,6,0,LAYUPS,,2016
-Alex Stepheson,1627293,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2016
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Alex Stepheson,1627293,Hook Shot,2,4,2,Hook Shot,POST_MOVES,2016
+Alex Stepheson,1627293,Jump Shot,2,6,0,2PT Jump Shot,TWO_POINT_JUMPERS,2016
+Alex Stepheson,1627293,Layup Shot,2,6,0,Standard Layup,LAYUPS,2016
+Alex Stepheson,1627293,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2016
+Alex Stepheson,1627293,Tip Layup Shot,2,8,5,Putback Layup,LAYUPS,2016
+Alex Stepheson,1627293,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2016

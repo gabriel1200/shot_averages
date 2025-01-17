@@ -1,32 +1,36 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Darnell Jackson,201616,Alley Oop Dunk,2,1,0,DUNKS,,2009
-Darnell Jackson,201616,Driving Dunk,2,1,1,DUNKS,,2009
-Darnell Jackson,201616,Driving Layup,2,3,3,LAYUPS,,2009
-Darnell Jackson,201616,Jump Shot,2,51,17,JUMP_SHOTS,,2009
-Darnell Jackson,201616,Putback Dunk,2,1,1,DUNKS,,2009
-Darnell Jackson,201616,Putback Layup,2,1,1,LAYUPS,,2009
-Darnell Jackson,201616,Reverse Layup,2,1,1,LAYUPS,,2009
-Darnell Jackson,201616,Running Jump Shot,2,1,1,JUMP_SHOTS,,2009
-Darnell Jackson,201616,Standard Dunk,2,6,6,DUNKS,,2009
-Darnell Jackson,201616,Standard Layup,2,16,5,LAYUPS,,2009
-Darnell Jackson,201616,Tip Shot,2,3,1,TIP_SHOTS,,2009
-Darnell Jackson,201616,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2009
-Darnell Jackson,201616,Jump Shot,2,15,3,JUMP_SHOTS,,2010
-Darnell Jackson,201616,Putback Layup,2,1,1,LAYUPS,,2010
-Darnell Jackson,201616,Reverse Layup,2,1,0,LAYUPS,,2010
-Darnell Jackson,201616,Standard Dunk,2,3,3,DUNKS,,2010
-Darnell Jackson,201616,Standard Layup,2,9,1,LAYUPS,,2010
-Darnell Jackson,201616,Tip Shot,2,1,1,TIP_SHOTS,,2010
-Darnell Jackson,201616,Alley Oop Dunk,2,1,1,DUNKS,,2011
-Darnell Jackson,201616,Driving Dunk,2,2,2,DUNKS,,2011
-Darnell Jackson,201616,Driving Jump Shot,2,1,1,JUMP_SHOTS,,2011
-Darnell Jackson,201616,Driving Layup,2,3,1,LAYUPS,,2011
-Darnell Jackson,201616,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2011
-Darnell Jackson,201616,Hook Shot,2,1,0,POST_MOVES,,2011
-Darnell Jackson,201616,Jump Shot,2,94,36,JUMP_SHOTS,,2011
-Darnell Jackson,201616,Putback Dunk,2,4,3,DUNKS,,2011
-Darnell Jackson,201616,Putback Layup,2,3,2,LAYUPS,,2011
-Darnell Jackson,201616,Reverse Layup,2,1,1,LAYUPS,,2011
-Darnell Jackson,201616,Standard Dunk,2,11,10,DUNKS,,2011
-Darnell Jackson,201616,Standard Layup,2,27,17,LAYUPS,,2011
-Darnell Jackson,201616,Tip Shot,2,9,3,TIP_SHOTS,,2011
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Darnell Jackson,201616,Alley Oop Dunk Shot,2,1,0,Alley Oop Dunk,DUNKS,2009
+Darnell Jackson,201616,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2009
+Darnell Jackson,201616,Driving Layup Shot,2,3,3,Driving Layup,LAYUPS,2009
+Darnell Jackson,201616,Dunk Shot,2,4,4,Standard Dunk,DUNKS,2009
+Darnell Jackson,201616,Jump Shot,2,51,17,2PT Jump Shot,TWO_POINT_JUMPERS,2009
+Darnell Jackson,201616,Layup Shot,2,16,5,Standard Layup,LAYUPS,2009
+Darnell Jackson,201616,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2009
+Darnell Jackson,201616,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2009
+Darnell Jackson,201616,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2009
+Darnell Jackson,201616,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2009
+Darnell Jackson,201616,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,2009
+Darnell Jackson,201616,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,2009
+Darnell Jackson,201616,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2009
+Darnell Jackson,201616,Dunk Shot,2,3,3,Standard Dunk,DUNKS,2010
+Darnell Jackson,201616,Jump Shot,2,15,3,2PT Jump Shot,TWO_POINT_JUMPERS,2010
+Darnell Jackson,201616,Layup Shot,2,9,1,Standard Layup,LAYUPS,2010
+Darnell Jackson,201616,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2010
+Darnell Jackson,201616,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2010
+Darnell Jackson,201616,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2010
+Darnell Jackson,201616,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2011
+Darnell Jackson,201616,Driving Jump shot,2,1,1,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2011
+Darnell Jackson,201616,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2011
+Darnell Jackson,201616,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2011
+Darnell Jackson,201616,Driving Slam Dunk Shot,2,2,2,Driving Dunk,DUNKS,2011
+Darnell Jackson,201616,Dunk Shot,2,8,7,Standard Dunk,DUNKS,2011
+Darnell Jackson,201616,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2011
+Darnell Jackson,201616,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2011
+Darnell Jackson,201616,Jump Shot,2,94,36,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Darnell Jackson,201616,Layup Shot,2,27,17,Standard Layup,LAYUPS,2011
+Darnell Jackson,201616,Putback Dunk Shot,2,3,2,Putback Dunk,DUNKS,2011
+Darnell Jackson,201616,Putback Layup Shot,2,3,2,Putback Layup,LAYUPS,2011
+Darnell Jackson,201616,Putback Slam Dunk Shot,2,1,1,Putback Dunk,DUNKS,2011
+Darnell Jackson,201616,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2011
+Darnell Jackson,201616,Slam Dunk Shot,2,3,3,Standard Dunk,DUNKS,2011
+Darnell Jackson,201616,Tip Shot,2,9,3,Tip Shot,TIP_SHOTS,2011

@@ -1,11 +1,12 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Mike Penberthy,2130,Driving Layup,2,15,10,LAYUPS,,2001
-Mike Penberthy,2130,Finger Roll,2,1,1,LAYUPS,,2001
-Mike Penberthy,2130,Jump Shot,2,167,62,JUMP_SHOTS,,2001
-Mike Penberthy,2130,Jump Shot,3,20,8,JUMP_SHOTS,,2001
-Mike Penberthy,2130,Reverse Layup,2,1,1,LAYUPS,,2001
-Mike Penberthy,2130,Running Jump Shot,2,7,5,JUMP_SHOTS,,2001
-Mike Penberthy,2130,Standard Layup,2,10,4,LAYUPS,,2001
-Mike Penberthy,2130,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2001
-Mike Penberthy,2130,Driving Layup,2,1,1,LAYUPS,,2002
-Mike Penberthy,2130,Jump Shot,2,1,0,JUMP_SHOTS,,2002
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Mike Penberthy,2130,Driving Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2001
+Mike Penberthy,2130,Driving Layup Shot,2,15,10,Driving Layup,LAYUPS,2001
+Mike Penberthy,2130,Jump Shot,2,167,62,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Mike Penberthy,2130,Jump Shot,3,20,8,3PT Jump Shot,THREE_POINT_JUMPERS,2001
+Mike Penberthy,2130,Layup Shot,2,9,4,Standard Layup,LAYUPS,2001
+Mike Penberthy,2130,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2001
+Mike Penberthy,2130,Running Jump Shot,2,7,5,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
+Mike Penberthy,2130,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2001
+Mike Penberthy,2130,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2001
+Mike Penberthy,2130,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2002
+Mike Penberthy,2130,Jump Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2002

@@ -1,21 +1,23 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Carl Herrera,61,Driving Layup,2,10,6,LAYUPS,,1997
-Carl Herrera,61,Hook Shot,2,68,36,POST_MOVES,,1997
-Carl Herrera,61,Jump Shot,2,282,110,JUMP_SHOTS,,1997
-Carl Herrera,61,Running Jump Shot,2,5,3,JUMP_SHOTS,,1997
-Carl Herrera,61,Standard Dunk,2,37,29,DUNKS,,1997
-Carl Herrera,61,Standard Layup,2,184,67,LAYUPS,,1997
-Carl Herrera,61,Tip Shot,2,7,6,TIP_SHOTS,,1997
-Carl Herrera,61,Driving Layup,2,2,1,LAYUPS,,1998
-Carl Herrera,61,Hook Shot,2,24,14,POST_MOVES,,1998
-Carl Herrera,61,Jump Shot,2,110,40,JUMP_SHOTS,,1998
-Carl Herrera,61,Running Jump Shot,2,1,1,JUMP_SHOTS,,1998
-Carl Herrera,61,Standard Dunk,2,3,3,DUNKS,,1998
-Carl Herrera,61,Standard Layup,2,34,17,LAYUPS,,1998
-Carl Herrera,61,Tip Shot,2,1,0,TIP_SHOTS,,1998
-Carl Herrera,61,Driving Layup,2,3,3,LAYUPS,,1999
-Carl Herrera,61,Hook Shot,2,10,1,POST_MOVES,,1999
-Carl Herrera,61,Jump Shot,2,48,17,JUMP_SHOTS,,1999
-Carl Herrera,61,Running Jump Shot,2,1,0,JUMP_SHOTS,,1999
-Carl Herrera,61,Standard Layup,2,11,8,LAYUPS,,1999
-Carl Herrera,61,Tip Shot,2,3,1,TIP_SHOTS,,1999
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Carl Herrera,61,Driving Layup Shot,2,10,6,Driving Layup,LAYUPS,1997
+Carl Herrera,61,Dunk Shot,2,26,18,Standard Dunk,DUNKS,1997
+Carl Herrera,61,Hook Shot,2,68,36,Hook Shot,POST_MOVES,1997
+Carl Herrera,61,Jump Shot,2,282,110,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Carl Herrera,61,Layup Shot,2,184,67,Standard Layup,LAYUPS,1997
+Carl Herrera,61,Running Jump Shot,2,5,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
+Carl Herrera,61,Slam Dunk Shot,2,11,11,Standard Dunk,DUNKS,1997
+Carl Herrera,61,Tip Shot,2,7,6,Tip Shot,TIP_SHOTS,1997
+Carl Herrera,61,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,1998
+Carl Herrera,61,Dunk Shot,2,2,2,Standard Dunk,DUNKS,1998
+Carl Herrera,61,Hook Shot,2,24,14,Hook Shot,POST_MOVES,1998
+Carl Herrera,61,Jump Shot,2,110,40,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+Carl Herrera,61,Layup Shot,2,34,17,Standard Layup,LAYUPS,1998
+Carl Herrera,61,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
+Carl Herrera,61,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,1998
+Carl Herrera,61,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,1998
+Carl Herrera,61,Driving Layup Shot,2,3,3,Driving Layup,LAYUPS,1999
+Carl Herrera,61,Hook Shot,2,10,1,Hook Shot,POST_MOVES,1999
+Carl Herrera,61,Jump Shot,2,48,17,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Carl Herrera,61,Layup Shot,2,11,8,Standard Layup,LAYUPS,1999
+Carl Herrera,61,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999
+Carl Herrera,61,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,1999

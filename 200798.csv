@@ -1,10 +1,10 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Cheikh Samb,200798,Jump Shot,2,3,2,JUMP_SHOTS,,2008
-Cheikh Samb,200798,Standard Layup,2,1,1,LAYUPS,,2008
-Cheikh Samb,200798,Hook Shot,2,1,0,POST_MOVES,,2009
-Cheikh Samb,200798,Jump Shot,2,20,3,JUMP_SHOTS,,2009
-Cheikh Samb,200798,Putback Layup,2,1,1,LAYUPS,,2009
-Cheikh Samb,200798,Running Jump Shot,2,1,0,JUMP_SHOTS,,2009
-Cheikh Samb,200798,Standard Layup,2,5,0,LAYUPS,,2009
-Cheikh Samb,200798,Tip Shot,2,2,1,TIP_SHOTS,,2009
-Cheikh Samb,200798,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2009
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Cheikh Samb,200798,Jump Shot,2,3,2,2PT Jump Shot,TWO_POINT_JUMPERS,2008
+Cheikh Samb,200798,Layup Shot,2,1,1,Standard Layup,LAYUPS,2008
+Cheikh Samb,200798,Jump Hook Shot,2,1,0,Hook Shot,POST_MOVES,2009
+Cheikh Samb,200798,Jump Shot,2,20,3,2PT Jump Shot,TWO_POINT_JUMPERS,2009
+Cheikh Samb,200798,Layup Shot,2,5,0,Standard Layup,LAYUPS,2009
+Cheikh Samb,200798,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2009
+Cheikh Samb,200798,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2009
+Cheikh Samb,200798,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,2009
+Cheikh Samb,200798,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2009

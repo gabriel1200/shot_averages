@@ -1,21 +1,24 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jermareo Davidson,201176,Driving Dunk,2,1,1,DUNKS,,2008
-Jermareo Davidson,201176,Driving Layup,2,2,1,LAYUPS,,2008
-Jermareo Davidson,201176,Finger Roll,2,1,1,LAYUPS,,2008
-Jermareo Davidson,201176,Hook Shot,2,8,3,POST_MOVES,,2008
-Jermareo Davidson,201176,Jump Shot,2,75,22,JUMP_SHOTS,,2008
-Jermareo Davidson,201176,Putback Dunk,2,1,1,DUNKS,,2008
-Jermareo Davidson,201176,Running Jump Shot,2,1,1,JUMP_SHOTS,,2008
-Jermareo Davidson,201176,Standard Dunk,2,3,2,DUNKS,,2008
-Jermareo Davidson,201176,Standard Layup,2,19,12,LAYUPS,,2008
-Jermareo Davidson,201176,Tip Shot,2,6,3,TIP_SHOTS,,2008
-Jermareo Davidson,201176,Turnaround Jump Shot,2,8,4,JUMP_SHOTS,,2008
-Jermareo Davidson,201176,Driving Dunk,2,1,1,DUNKS,,2009
-Jermareo Davidson,201176,Driving Layup,2,1,1,LAYUPS,,2009
-Jermareo Davidson,201176,Fadeaway Jump Shot,2,2,1,JUMP_SHOTS,,2009
-Jermareo Davidson,201176,Jump Shot,2,20,8,JUMP_SHOTS,,2009
-Jermareo Davidson,201176,Putback Dunk,2,2,2,DUNKS,,2009
-Jermareo Davidson,201176,Standard Dunk,2,2,2,DUNKS,,2009
-Jermareo Davidson,201176,Standard Layup,2,5,1,LAYUPS,,2009
-Jermareo Davidson,201176,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2009
-Jermareo Davidson,201176,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2009
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Jermareo Davidson,201176,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2008
+Jermareo Davidson,201176,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2008
+Jermareo Davidson,201176,Dunk Shot,2,3,2,Standard Dunk,DUNKS,2008
+Jermareo Davidson,201176,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2008
+Jermareo Davidson,201176,Hook Shot,2,6,1,Hook Shot,POST_MOVES,2008
+Jermareo Davidson,201176,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2008
+Jermareo Davidson,201176,Jump Hook Shot,2,2,2,Hook Shot,POST_MOVES,2008
+Jermareo Davidson,201176,Jump Shot,2,74,21,2PT Jump Shot,TWO_POINT_JUMPERS,2008
+Jermareo Davidson,201176,Layup Shot,2,19,12,Standard Layup,LAYUPS,2008
+Jermareo Davidson,201176,Putback Slam Dunk Shot,2,1,1,Putback Dunk,DUNKS,2008
+Jermareo Davidson,201176,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2008
+Jermareo Davidson,201176,Tip Shot,2,6,3,Tip Shot,TIP_SHOTS,2008
+Jermareo Davidson,201176,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2008
+Jermareo Davidson,201176,Turnaround Jump Shot,2,7,4,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2008
+Jermareo Davidson,201176,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2009
+Jermareo Davidson,201176,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2009
+Jermareo Davidson,201176,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2009
+Jermareo Davidson,201176,Fadeaway Jump Shot,2,2,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2009
+Jermareo Davidson,201176,Jump Shot,2,20,8,2PT Jump Shot,TWO_POINT_JUMPERS,2009
+Jermareo Davidson,201176,Layup Shot,2,5,1,Standard Layup,LAYUPS,2009
+Jermareo Davidson,201176,Putback Dunk Shot,2,2,2,Putback Dunk,DUNKS,2009
+Jermareo Davidson,201176,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2009
+Jermareo Davidson,201176,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2009

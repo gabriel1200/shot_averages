@@ -1,38 +1,43 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-A.C. Green,920,Driving Layup,2,17,14,LAYUPS,,1997
-A.C. Green,920,Hook Shot,2,12,7,POST_MOVES,,1997
-A.C. Green,920,Jump Shot,2,246,95,JUMP_SHOTS,,1997
-A.C. Green,920,Standard Dunk,2,24,24,DUNKS,,1997
-A.C. Green,920,Standard Layup,2,173,86,LAYUPS,,1997
-A.C. Green,920,Tip Shot,2,12,8,TIP_SHOTS,,1997
-A.C. Green,920,Driving Dunk,2,2,1,DUNKS,,1998
-A.C. Green,920,Driving Layup,2,26,16,LAYUPS,,1998
-A.C. Green,920,Hook Shot,2,9,4,POST_MOVES,,1998
-A.C. Green,920,Jump Shot,2,358,147,JUMP_SHOTS,,1998
-A.C. Green,920,No Shot,2,2,1,NO_SHOT,,1998
-A.C. Green,920,Running Jump Shot,2,3,2,JUMP_SHOTS,,1998
-A.C. Green,920,Standard Dunk,2,6,6,DUNKS,,1998
-A.C. Green,920,Standard Layup,2,116,59,LAYUPS,,1998
-A.C. Green,920,Tip Shot,2,12,6,TIP_SHOTS,,1998
-A.C. Green,920,Driving Dunk,2,1,1,DUNKS,,1999
-A.C. Green,920,Driving Layup,2,9,8,LAYUPS,,1999
-A.C. Green,920,Hook Shot,2,7,4,POST_MOVES,,1999
-A.C. Green,920,Jump Shot,2,179,66,JUMP_SHOTS,,1999
-A.C. Green,920,Standard Dunk,2,3,2,DUNKS,,1999
-A.C. Green,920,Standard Layup,2,47,21,LAYUPS,,1999
-A.C. Green,920,Tip Shot,2,10,6,TIP_SHOTS,,1999
-A.C. Green,920,Driving Layup,2,13,12,LAYUPS,,2000
-A.C. Green,920,Hook Shot,2,12,9,POST_MOVES,,2000
-A.C. Green,920,Jump Shot,2,241,92,JUMP_SHOTS,,2000
-A.C. Green,920,Standard Dunk,2,6,5,DUNKS,,2000
-A.C. Green,920,Standard Layup,2,92,47,LAYUPS,,2000
-A.C. Green,920,Tip Shot,2,23,8,TIP_SHOTS,,2000
-A.C. Green,920,Driving Dunk,2,1,1,DUNKS,,2001
-A.C. Green,920,Driving Layup,2,5,2,LAYUPS,,2001
-A.C. Green,920,Hook Shot,2,16,7,POST_MOVES,,2001
-A.C. Green,920,Jump Shot,2,218,81,JUMP_SHOTS,,2001
-A.C. Green,920,Reverse Layup,2,1,1,LAYUPS,,2001
-A.C. Green,920,Standard Dunk,2,4,4,DUNKS,,2001
-A.C. Green,920,Standard Layup,2,68,42,LAYUPS,,2001
-A.C. Green,920,Tip Shot,2,10,5,TIP_SHOTS,,2001
-A.C. Green,920,Turnaround Hook Shot,2,1,1,POST_MOVES,,2001
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+A.C. Green,920,Driving Layup Shot,2,17,14,Driving Layup,LAYUPS,1997
+A.C. Green,920,Dunk Shot,2,11,11,Standard Dunk,DUNKS,1997
+A.C. Green,920,Hook Shot,2,12,7,Hook Shot,POST_MOVES,1997
+A.C. Green,920,Jump Shot,2,246,95,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+A.C. Green,920,Layup Shot,2,173,86,Standard Layup,LAYUPS,1997
+A.C. Green,920,Slam Dunk Shot,2,13,13,Standard Dunk,DUNKS,1997
+A.C. Green,920,Tip Shot,2,12,8,Tip Shot,TIP_SHOTS,1997
+A.C. Green,920,Driving Dunk Shot,2,2,1,Driving Dunk,DUNKS,1998
+A.C. Green,920,Driving Layup Shot,2,26,16,Driving Layup,LAYUPS,1998
+A.C. Green,920,Dunk Shot,2,3,3,Standard Dunk,DUNKS,1998
+A.C. Green,920,Hook Shot,2,9,4,Hook Shot,POST_MOVES,1998
+A.C. Green,920,Jump Shot,2,358,147,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+A.C. Green,920,Layup Shot,2,116,59,Standard Layup,LAYUPS,1998
+A.C. Green,920,No Shot,2,2,1,No Shot,NO_SHOT,1998
+A.C. Green,920,Running Jump Shot,2,3,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
+A.C. Green,920,Slam Dunk Shot,2,3,3,Standard Dunk,DUNKS,1998
+A.C. Green,920,Tip Shot,2,12,6,Tip Shot,TIP_SHOTS,1998
+A.C. Green,920,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,1999
+A.C. Green,920,Driving Layup Shot,2,9,8,Driving Layup,LAYUPS,1999
+A.C. Green,920,Dunk Shot,2,2,1,Standard Dunk,DUNKS,1999
+A.C. Green,920,Hook Shot,2,7,4,Hook Shot,POST_MOVES,1999
+A.C. Green,920,Jump Shot,2,179,66,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+A.C. Green,920,Layup Shot,2,47,21,Standard Layup,LAYUPS,1999
+A.C. Green,920,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,1999
+A.C. Green,920,Tip Shot,2,10,6,Tip Shot,TIP_SHOTS,1999
+A.C. Green,920,Driving Layup Shot,2,13,12,Driving Layup,LAYUPS,2000
+A.C. Green,920,Dunk Shot,2,3,2,Standard Dunk,DUNKS,2000
+A.C. Green,920,Hook Shot,2,12,9,Hook Shot,POST_MOVES,2000
+A.C. Green,920,Jump Shot,2,241,92,2PT Jump Shot,TWO_POINT_JUMPERS,2000
+A.C. Green,920,Layup Shot,2,92,47,Standard Layup,LAYUPS,2000
+A.C. Green,920,Slam Dunk Shot,2,3,3,Standard Dunk,DUNKS,2000
+A.C. Green,920,Tip Shot,2,23,8,Tip Shot,TIP_SHOTS,2000
+A.C. Green,920,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2001
+A.C. Green,920,Driving Layup Shot,2,5,2,Driving Layup,LAYUPS,2001
+A.C. Green,920,Dunk Shot,2,4,4,Standard Dunk,DUNKS,2001
+A.C. Green,920,Hook Shot,2,16,7,Hook Shot,POST_MOVES,2001
+A.C. Green,920,Jump Shot,2,218,81,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+A.C. Green,920,Layup Shot,2,67,41,Standard Layup,LAYUPS,2001
+A.C. Green,920,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2001
+A.C. Green,920,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2001
+A.C. Green,920,Tip Shot,2,10,5,Tip Shot,TIP_SHOTS,2001
+A.C. Green,920,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2001

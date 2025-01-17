@@ -1,16 +1,21 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Pelle Larsson,1641796,Alley Oop Layup,2,1,1,LAYUPS,,2025
-Pelle Larsson,1641796,Driving Layup,2,9,6,LAYUPS,,2025
-Pelle Larsson,1641796,Finger Roll,2,6,3,LAYUPS,,2025
-Pelle Larsson,1641796,Floating Jump Shot,2,2,1,FLOATING_SHOTS,,2025
-Pelle Larsson,1641796,Jump Shot,2,1,0,JUMP_SHOTS,,2025
-Pelle Larsson,1641796,Jump Shot,3,31,10,JUMP_SHOTS,,2025
-Pelle Larsson,1641796,Pullup Jump Shot,3,1,0,JUMP_SHOTS,,2025
-Pelle Larsson,1641796,Putback Layup,2,6,2,LAYUPS,,2025
-Pelle Larsson,1641796,Reverse Layup,2,2,1,LAYUPS,,2025
-Pelle Larsson,1641796,Running Jump Shot,3,2,1,JUMP_SHOTS,,2025
-Pelle Larsson,1641796,Specialty Dunk,2,1,1,DUNKS,,2025
-Pelle Larsson,1641796,Standard Dunk,2,1,1,DUNKS,,2025
-Pelle Larsson,1641796,Standard Layup,2,11,8,LAYUPS,,2025
-Pelle Larsson,1641796,Step Back Jump Shot,3,1,0,JUMP_SHOTS,,2025
-Pelle Larsson,1641796,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Pelle Larsson,1641796,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2025
+Pelle Larsson,1641796,Cutting Layup Shot,2,6,4,Standard Layup,LAYUPS,2025
+Pelle Larsson,1641796,Driving Finger Roll Layup Shot,2,3,1,Finger Roll,LAYUPS,2025
+Pelle Larsson,1641796,Driving Floating Jump Shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Pelle Larsson,1641796,Driving Layup Shot,2,7,5,Driving Layup,LAYUPS,2025
+Pelle Larsson,1641796,Driving Reverse Layup Shot,2,2,1,Driving Layup,LAYUPS,2025
+Pelle Larsson,1641796,Jump Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2025
+Pelle Larsson,1641796,Jump Shot,3,31,10,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Pelle Larsson,1641796,Layup Shot,2,1,1,Standard Layup,LAYUPS,2025
+Pelle Larsson,1641796,Pullup Jump shot,3,1,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
+Pelle Larsson,1641796,Putback Layup Shot,2,2,1,Putback Layup,LAYUPS,2025
+Pelle Larsson,1641796,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2025
+Pelle Larsson,1641796,Running Alley Oop Layup Shot,2,1,1,Alley Oop Layup,LAYUPS,2025
+Pelle Larsson,1641796,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2025
+Pelle Larsson,1641796,Running Finger Roll Layup Shot,2,3,2,Finger Roll,LAYUPS,2025
+Pelle Larsson,1641796,Running Jump Shot,3,2,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Pelle Larsson,1641796,Running Layup Shot,2,4,3,Standard Layup,LAYUPS,2025
+Pelle Larsson,1641796,Step Back Jump shot,3,1,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
+Pelle Larsson,1641796,Tip Layup Shot,2,4,1,Putback Layup,LAYUPS,2025
+Pelle Larsson,1641796,Turnaround Fadeaway shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025

@@ -1,46 +1,50 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Charles Oakley,891,Driving Dunk,2,1,1,DUNKS,,1997
-Charles Oakley,891,Driving Layup,2,10,9,LAYUPS,,1997
-Charles Oakley,891,Hook Shot,2,4,3,POST_MOVES,,1997
-Charles Oakley,891,Jump Shot,2,407,174,JUMP_SHOTS,,1997
-Charles Oakley,891,Standard Dunk,2,2,2,DUNKS,,1997
-Charles Oakley,891,Standard Layup,2,239,126,LAYUPS,,1997
-Charles Oakley,891,Tip Shot,2,31,24,TIP_SHOTS,,1997
-Charles Oakley,891,Driving Layup,2,14,12,LAYUPS,,1998
-Charles Oakley,891,Hook Shot,2,4,1,POST_MOVES,,1998
-Charles Oakley,891,Jump Shot,2,526,218,JUMP_SHOTS,,1998
-Charles Oakley,891,Running Jump Shot,2,1,1,JUMP_SHOTS,,1998
-Charles Oakley,891,Standard Dunk,2,2,0,DUNKS,,1998
-Charles Oakley,891,Standard Layup,2,100,54,LAYUPS,,1998
-Charles Oakley,891,Tip Shot,2,51,21,TIP_SHOTS,,1998
-Charles Oakley,891,Driving Layup,2,15,8,LAYUPS,,1999
-Charles Oakley,891,Hook Shot,2,3,2,POST_MOVES,,1999
-Charles Oakley,891,Jump Shot,2,272,114,JUMP_SHOTS,,1999
-Charles Oakley,891,Running Jump Shot,2,1,0,JUMP_SHOTS,,1999
-Charles Oakley,891,Standard Layup,2,26,14,LAYUPS,,1999
-Charles Oakley,891,Tip Shot,2,10,2,TIP_SHOTS,,1999
-Charles Oakley,891,Driving Layup,2,4,0,LAYUPS,,2000
-Charles Oakley,891,Jump Shot,2,514,217,JUMP_SHOTS,,2000
-Charles Oakley,891,Standard Layup,2,27,14,LAYUPS,,2000
-Charles Oakley,891,Tip Shot,2,15,3,TIP_SHOTS,,2000
-Charles Oakley,891,Driving Dunk,2,1,1,DUNKS,,2001
-Charles Oakley,891,Driving Layup,2,10,6,LAYUPS,,2001
-Charles Oakley,891,Finger Roll,2,1,1,LAYUPS,,2001
-Charles Oakley,891,Hook Shot,2,4,1,POST_MOVES,,2001
-Charles Oakley,891,Jump Shot,2,690,255,JUMP_SHOTS,,2001
-Charles Oakley,891,Reverse Layup,2,2,1,LAYUPS,,2001
-Charles Oakley,891,Running Jump Shot,2,1,0,JUMP_SHOTS,,2001
-Charles Oakley,891,Standard Layup,2,51,31,LAYUPS,,2001
-Charles Oakley,891,Tip Shot,2,17,5,TIP_SHOTS,,2001
-Charles Oakley,891,Turnaround Hook Shot,2,1,0,POST_MOVES,,2001
-Charles Oakley,891,Turnaround Jump Shot,2,8,4,JUMP_SHOTS,,2001
-Charles Oakley,891,Driving Layup,2,1,1,LAYUPS,,2002
-Charles Oakley,891,Hook Shot,2,2,0,POST_MOVES,,2002
-Charles Oakley,891,Jump Shot,2,244,87,JUMP_SHOTS,,2002
-Charles Oakley,891,Standard Layup,2,14,8,LAYUPS,,2002
-Charles Oakley,891,Tip Shot,2,2,1,TIP_SHOTS,,2002
-Charles Oakley,891,Jump Shot,2,43,17,JUMP_SHOTS,,2003
-Charles Oakley,891,Standard Layup,2,9,4,LAYUPS,,2003
-Charles Oakley,891,Tip Shot,2,3,2,TIP_SHOTS,,2003
-Charles Oakley,891,Jump Shot,2,4,1,JUMP_SHOTS,,2004
-Charles Oakley,891,Standard Layup,2,2,1,LAYUPS,,2004
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Charles Oakley,891,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,1997
+Charles Oakley,891,Driving Layup Shot,2,10,9,Driving Layup,LAYUPS,1997
+Charles Oakley,891,Dunk Shot,2,1,1,Standard Dunk,DUNKS,1997
+Charles Oakley,891,Hook Shot,2,4,3,Hook Shot,POST_MOVES,1997
+Charles Oakley,891,Jump Shot,2,407,174,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Charles Oakley,891,Layup Shot,2,239,126,Standard Layup,LAYUPS,1997
+Charles Oakley,891,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,1997
+Charles Oakley,891,Tip Shot,2,31,24,Tip Shot,TIP_SHOTS,1997
+Charles Oakley,891,Driving Layup Shot,2,14,12,Driving Layup,LAYUPS,1998
+Charles Oakley,891,Dunk Shot,2,1,0,Standard Dunk,DUNKS,1998
+Charles Oakley,891,Hook Shot,2,4,1,Hook Shot,POST_MOVES,1998
+Charles Oakley,891,Jump Shot,2,526,218,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+Charles Oakley,891,Layup Shot,2,100,54,Standard Layup,LAYUPS,1998
+Charles Oakley,891,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
+Charles Oakley,891,Slam Dunk Shot,2,1,0,Standard Dunk,DUNKS,1998
+Charles Oakley,891,Tip Shot,2,51,21,Tip Shot,TIP_SHOTS,1998
+Charles Oakley,891,Driving Layup Shot,2,15,8,Driving Layup,LAYUPS,1999
+Charles Oakley,891,Hook Shot,2,3,2,Hook Shot,POST_MOVES,1999
+Charles Oakley,891,Jump Shot,2,272,114,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Charles Oakley,891,Layup Shot,2,26,14,Standard Layup,LAYUPS,1999
+Charles Oakley,891,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999
+Charles Oakley,891,Tip Shot,2,10,2,Tip Shot,TIP_SHOTS,1999
+Charles Oakley,891,Driving Layup Shot,2,4,0,Driving Layup,LAYUPS,2000
+Charles Oakley,891,Jump Shot,2,514,217,2PT Jump Shot,TWO_POINT_JUMPERS,2000
+Charles Oakley,891,Layup Shot,2,27,14,Standard Layup,LAYUPS,2000
+Charles Oakley,891,Tip Shot,2,15,3,Tip Shot,TIP_SHOTS,2000
+Charles Oakley,891,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2001
+Charles Oakley,891,Driving Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2001
+Charles Oakley,891,Driving Layup Shot,2,10,6,Driving Layup,LAYUPS,2001
+Charles Oakley,891,Hook Shot,2,4,1,Hook Shot,POST_MOVES,2001
+Charles Oakley,891,Jump Shot,2,690,255,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Charles Oakley,891,Layup Shot,2,50,30,Standard Layup,LAYUPS,2001
+Charles Oakley,891,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2001
+Charles Oakley,891,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
+Charles Oakley,891,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2001
+Charles Oakley,891,Tip Shot,2,17,5,Tip Shot,TIP_SHOTS,2001
+Charles Oakley,891,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2001
+Charles Oakley,891,Turnaround Jump Shot,2,8,4,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2001
+Charles Oakley,891,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2002
+Charles Oakley,891,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2002
+Charles Oakley,891,Jump Hook Shot,2,1,0,Hook Shot,POST_MOVES,2002
+Charles Oakley,891,Jump Shot,2,244,87,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Charles Oakley,891,Layup Shot,2,14,8,Standard Layup,LAYUPS,2002
+Charles Oakley,891,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,2002
+Charles Oakley,891,Jump Shot,2,43,17,2PT Jump Shot,TWO_POINT_JUMPERS,2003
+Charles Oakley,891,Layup Shot,2,9,4,Standard Layup,LAYUPS,2003
+Charles Oakley,891,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,2003
+Charles Oakley,891,Jump Shot,2,4,1,2PT Jump Shot,TWO_POINT_JUMPERS,2004
+Charles Oakley,891,Layup Shot,2,2,1,Standard Layup,LAYUPS,2004

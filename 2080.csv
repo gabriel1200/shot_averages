@@ -1,6 +1,7 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Igor Rakocevic,2080,Driving Layup,2,5,4,LAYUPS,,2003
-Igor Rakocevic,2080,Jump Shot,2,40,12,JUMP_SHOTS,,2003
-Igor Rakocevic,2080,Running Jump Shot,2,1,1,JUMP_SHOTS,,2003
-Igor Rakocevic,2080,Standard Dunk,2,2,1,DUNKS,,2003
-Igor Rakocevic,2080,Standard Layup,2,10,4,LAYUPS,,2003
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Igor Rakocevic,2080,Driving Layup Shot,2,5,4,Driving Layup,LAYUPS,2003
+Igor Rakocevic,2080,Dunk Shot,2,1,0,Standard Dunk,DUNKS,2003
+Igor Rakocevic,2080,Jump Shot,2,40,12,2PT Jump Shot,TWO_POINT_JUMPERS,2003
+Igor Rakocevic,2080,Layup Shot,2,10,4,Standard Layup,LAYUPS,2003
+Igor Rakocevic,2080,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2003
+Igor Rakocevic,2080,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2003

@@ -1,50 +1,65 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jamal Cain,1631288,Alley Oop Dunk,2,1,1,DUNKS,,2023
-Jamal Cain,1631288,Driving Layup,2,5,3,LAYUPS,,2023
-Jamal Cain,1631288,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2023
-Jamal Cain,1631288,Finger Roll,2,1,1,LAYUPS,,2023
-Jamal Cain,1631288,Floating Jump Shot,2,5,3,FLOATING_SHOTS,,2023
-Jamal Cain,1631288,Hook Shot,2,2,2,POST_MOVES,,2023
-Jamal Cain,1631288,Jump Shot,2,18,7,JUMP_SHOTS,,2023
-Jamal Cain,1631288,Pullup Jump Shot,2,4,0,JUMP_SHOTS,,2023
-Jamal Cain,1631288,Putback Layup,2,7,6,LAYUPS,,2023
-Jamal Cain,1631288,Reverse Layup,2,2,0,LAYUPS,,2023
-Jamal Cain,1631288,Standard Dunk,2,2,2,DUNKS,,2023
-Jamal Cain,1631288,Standard Layup,2,16,11,LAYUPS,,2023
-Jamal Cain,1631288,Turnaround Hook Shot,2,1,0,POST_MOVES,,2023
-Jamal Cain,1631288,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2023
-Jamal Cain,1631288,Alley Oop Dunk,2,1,1,DUNKS,,2024
-Jamal Cain,1631288,Alley Oop Layup,2,1,1,LAYUPS,,2024
-Jamal Cain,1631288,Driving Layup,2,2,0,LAYUPS,,2024
-Jamal Cain,1631288,Fadeaway Jump Shot,2,3,1,JUMP_SHOTS,,2024
-Jamal Cain,1631288,Floating Jump Shot,2,9,3,FLOATING_SHOTS,,2024
-Jamal Cain,1631288,Hook Shot,2,1,1,POST_MOVES,,2024
-Jamal Cain,1631288,Jump Shot,2,1,0,JUMP_SHOTS,,2024
-Jamal Cain,1631288,Jump Shot,3,27,9,JUMP_SHOTS,,2024
-Jamal Cain,1631288,Pullup Jump Shot,2,6,3,JUMP_SHOTS,,2024
-Jamal Cain,1631288,Pullup Jump Shot,3,1,1,JUMP_SHOTS,,2024
-Jamal Cain,1631288,Putback Layup,2,6,3,LAYUPS,,2024
-Jamal Cain,1631288,Reverse Layup,2,3,1,LAYUPS,,2024
-Jamal Cain,1631288,Running Jump Shot,2,1,0,JUMP_SHOTS,,2024
-Jamal Cain,1631288,Running Jump Shot,3,2,0,JUMP_SHOTS,,2024
-Jamal Cain,1631288,Specialty Dunk,2,3,3,DUNKS,,2024
-Jamal Cain,1631288,Standard Dunk,2,2,1,DUNKS,,2024
-Jamal Cain,1631288,Standard Layup,2,8,4,LAYUPS,,2024
-Jamal Cain,1631288,Step Back Jump Shot,2,1,1,JUMP_SHOTS,,2024
-Jamal Cain,1631288,Step Back Jump Shot,3,1,1,JUMP_SHOTS,,2024
-Jamal Cain,1631288,Alley Oop Layup,2,1,1,LAYUPS,,2025
-Jamal Cain,1631288,Driving Layup,2,1,1,LAYUPS,,2025
-Jamal Cain,1631288,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2025
-Jamal Cain,1631288,Finger Roll,2,2,2,LAYUPS,,2025
-Jamal Cain,1631288,Floating Jump Shot,2,10,4,FLOATING_SHOTS,,2025
-Jamal Cain,1631288,Jump Shot,2,1,1,JUMP_SHOTS,,2025
-Jamal Cain,1631288,Jump Shot,3,22,8,JUMP_SHOTS,,2025
-Jamal Cain,1631288,Pullup Jump Shot,2,2,0,JUMP_SHOTS,,2025
-Jamal Cain,1631288,Pullup Jump Shot,3,3,1,JUMP_SHOTS,,2025
-Jamal Cain,1631288,Putback Layup,2,3,1,LAYUPS,,2025
-Jamal Cain,1631288,Reverse Layup,2,1,1,LAYUPS,,2025
-Jamal Cain,1631288,Running Jump Shot,3,2,0,JUMP_SHOTS,,2025
-Jamal Cain,1631288,Standard Dunk,2,1,1,DUNKS,,2025
-Jamal Cain,1631288,Standard Layup,2,2,2,LAYUPS,,2025
-Jamal Cain,1631288,Step Back Jump Shot,3,1,0,JUMP_SHOTS,,2025
-Jamal Cain,1631288,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Jamal Cain,1631288,Cutting Layup Shot,2,7,6,Standard Layup,LAYUPS,2023
+Jamal Cain,1631288,Driving Floating Jump Shot,2,2,0,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Jamal Cain,1631288,Driving Layup Shot,2,5,3,Driving Layup,LAYUPS,2023
+Jamal Cain,1631288,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2023
+Jamal Cain,1631288,Floating Jump shot,2,3,3,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Jamal Cain,1631288,Hook Shot,2,2,2,Hook Shot,POST_MOVES,2023
+Jamal Cain,1631288,Jump Shot,2,18,7,2PT Jump Shot,TWO_POINT_JUMPERS,2023
+Jamal Cain,1631288,Layup Shot,2,7,3,Standard Layup,LAYUPS,2023
+Jamal Cain,1631288,Pullup Jump shot,2,4,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2023
+Jamal Cain,1631288,Putback Layup Shot,2,2,2,Putback Layup,LAYUPS,2023
+Jamal Cain,1631288,Reverse Layup Shot,2,2,0,Reverse Layup,LAYUPS,2023
+Jamal Cain,1631288,Running Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2023
+Jamal Cain,1631288,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2023
+Jamal Cain,1631288,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2023
+Jamal Cain,1631288,Running Layup Shot,2,2,2,Standard Layup,LAYUPS,2023
+Jamal Cain,1631288,Tip Layup Shot,2,5,4,Putback Layup,LAYUPS,2023
+Jamal Cain,1631288,Turnaround Fadeaway shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2023
+Jamal Cain,1631288,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2023
+Jamal Cain,1631288,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2024
+Jamal Cain,1631288,Cutting Dunk Shot,2,3,3,Specialty Dunk,DUNKS,2024
+Jamal Cain,1631288,Cutting Layup Shot,2,2,2,Standard Layup,LAYUPS,2024
+Jamal Cain,1631288,Driving Floating Jump Shot,2,5,1,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Jamal Cain,1631288,Driving Layup Shot,2,2,0,Driving Layup,LAYUPS,2024
+Jamal Cain,1631288,Fadeaway Bank shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
+Jamal Cain,1631288,Fadeaway Jump Shot,2,2,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
+Jamal Cain,1631288,Floating Jump shot,2,4,2,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Jamal Cain,1631288,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2024
+Jamal Cain,1631288,Jump Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2024
+Jamal Cain,1631288,Jump Shot,3,27,9,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Jamal Cain,1631288,Layup Shot,2,4,1,Standard Layup,LAYUPS,2024
+Jamal Cain,1631288,Pullup Jump shot,2,6,3,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2024
+Jamal Cain,1631288,Pullup Jump shot,3,1,1,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
+Jamal Cain,1631288,Putback Layup Shot,2,5,3,Putback Layup,LAYUPS,2024
+Jamal Cain,1631288,Reverse Layup Shot,2,3,1,Reverse Layup,LAYUPS,2024
+Jamal Cain,1631288,Running Alley Oop Layup Shot,2,1,1,Alley Oop Layup,LAYUPS,2024
+Jamal Cain,1631288,Running Dunk Shot,2,2,1,Standard Dunk,DUNKS,2024
+Jamal Cain,1631288,Running Jump Shot,3,2,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Jamal Cain,1631288,Running Layup Shot,2,2,1,Standard Layup,LAYUPS,2024
+Jamal Cain,1631288,Running Pull-Up Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2024
+Jamal Cain,1631288,Step Back Jump shot,2,1,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2024
+Jamal Cain,1631288,Step Back Jump shot,3,1,1,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
+Jamal Cain,1631288,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2024
+Jamal Cain,1631288,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2025
+Jamal Cain,1631288,Driving Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2025
+Jamal Cain,1631288,Driving Floating Bank Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Jamal Cain,1631288,Driving Floating Jump Shot,2,6,2,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Jamal Cain,1631288,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2025
+Jamal Cain,1631288,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
+Jamal Cain,1631288,Floating Jump shot,2,3,1,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Jamal Cain,1631288,Jump Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2025
+Jamal Cain,1631288,Jump Shot,3,22,8,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Jamal Cain,1631288,Pullup Jump shot,2,2,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
+Jamal Cain,1631288,Pullup Jump shot,3,3,1,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
+Jamal Cain,1631288,Putback Layup Shot,2,2,1,Putback Layup,LAYUPS,2025
+Jamal Cain,1631288,Running Alley Oop Layup Shot,2,1,1,Alley Oop Layup,LAYUPS,2025
+Jamal Cain,1631288,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2025
+Jamal Cain,1631288,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Jamal Cain,1631288,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2025
+Jamal Cain,1631288,Running Pull-Up Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Jamal Cain,1631288,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2025
+Jamal Cain,1631288,Step Back Jump shot,3,1,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
+Jamal Cain,1631288,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2025
+Jamal Cain,1631288,Turnaround Fadeaway shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+Jamal Cain,1631288,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025

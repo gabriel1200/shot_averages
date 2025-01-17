@@ -1,17 +1,21 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Will Solomon,2226,Driving Layup,2,18,16,LAYUPS,,2002
-Will Solomon,2226,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2002
-Will Solomon,2226,Jump Shot,2,280,82,JUMP_SHOTS,,2002
-Will Solomon,2226,Reverse Layup,2,1,0,LAYUPS,,2002
-Will Solomon,2226,Running Jump Shot,2,6,4,JUMP_SHOTS,,2002
-Will Solomon,2226,Standard Layup,2,25,10,LAYUPS,,2002
-Will Solomon,2226,Driving Layup,2,19,10,LAYUPS,,2009
-Will Solomon,2226,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2009
-Will Solomon,2226,Finger Roll,2,6,5,LAYUPS,,2009
-Will Solomon,2226,Floating Jump Shot,2,3,2,FLOATING_SHOTS,,2009
-Will Solomon,2226,Jump Shot,2,172,68,JUMP_SHOTS,,2009
-Will Solomon,2226,Pullup Jump Shot,2,19,9,JUMP_SHOTS,,2009
-Will Solomon,2226,Running Jump Shot,2,11,5,JUMP_SHOTS,,2009
-Will Solomon,2226,Standard Dunk,2,2,2,DUNKS,,2009
-Will Solomon,2226,Standard Layup,2,11,3,LAYUPS,,2009
-Will Solomon,2226,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2009
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Will Solomon,2226,Driving Layup Shot,2,18,16,Driving Layup,LAYUPS,2002
+Will Solomon,2226,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2002
+Will Solomon,2226,Jump Shot,2,280,82,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Will Solomon,2226,Layup Shot,2,24,10,Standard Layup,LAYUPS,2002
+Will Solomon,2226,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2002
+Will Solomon,2226,Running Jump Shot,2,6,4,2PT Running Jump Shot,TWO_POINT_JUMPERS,2002
+Will Solomon,2226,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2002
+Will Solomon,2226,Driving Finger Roll Layup Shot,2,6,5,Finger Roll,LAYUPS,2009
+Will Solomon,2226,Driving Layup Shot,2,19,10,Driving Layup,LAYUPS,2009
+Will Solomon,2226,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2009
+Will Solomon,2226,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2009
+Will Solomon,2226,Floating Jump shot,2,3,2,2PT Floating Jump Shot,FLOATING_SHOTS,2009
+Will Solomon,2226,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2009
+Will Solomon,2226,Jump Shot,2,171,67,2PT Jump Shot,TWO_POINT_JUMPERS,2009
+Will Solomon,2226,Layup Shot,2,10,2,Standard Layup,LAYUPS,2009
+Will Solomon,2226,Pullup Jump shot,2,19,9,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2009
+Will Solomon,2226,Running Jump Shot,2,11,5,2PT Running Jump Shot,TWO_POINT_JUMPERS,2009
+Will Solomon,2226,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2009
+Will Solomon,2226,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2009
+Will Solomon,2226,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2009

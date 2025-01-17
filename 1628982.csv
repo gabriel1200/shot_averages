@@ -1,27 +1,36 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Melvin Frazier Jr.,1628982,Alley Oop Dunk,2,1,1,DUNKS,,2019
-Melvin Frazier Jr.,1628982,Driving Hook Shot,2,1,0,POST_MOVES,,2019
-Melvin Frazier Jr.,1628982,Driving Layup,2,2,1,LAYUPS,,2019
-Melvin Frazier Jr.,1628982,Jump Shot,2,9,1,JUMP_SHOTS,,2019
-Melvin Frazier Jr.,1628982,Pullup Jump Shot,2,2,0,JUMP_SHOTS,,2019
-Melvin Frazier Jr.,1628982,Standard Dunk,2,1,1,DUNKS,,2019
-Melvin Frazier Jr.,1628982,Standard Layup,2,5,3,LAYUPS,,2019
-Melvin Frazier Jr.,1628982,Driving Layup,2,7,2,LAYUPS,,2020
-Melvin Frazier Jr.,1628982,Jump Shot,2,11,6,JUMP_SHOTS,,2020
-Melvin Frazier Jr.,1628982,Jump Shot,3,4,2,JUMP_SHOTS,,2020
-Melvin Frazier Jr.,1628982,Pullup Jump Shot,2,6,2,JUMP_SHOTS,,2020
-Melvin Frazier Jr.,1628982,Putback Layup,2,1,1,LAYUPS,,2020
-Melvin Frazier Jr.,1628982,Reverse Layup,2,2,1,LAYUPS,,2020
-Melvin Frazier Jr.,1628982,Standard Dunk,2,1,1,DUNKS,,2020
-Melvin Frazier Jr.,1628982,Step Back Jump Shot,2,2,0,JUMP_SHOTS,,2020
-Melvin Frazier Jr.,1628982,Driving Hook Shot,2,1,0,POST_MOVES,,2022
-Melvin Frazier Jr.,1628982,Driving Layup,2,12,6,LAYUPS,,2022
-Melvin Frazier Jr.,1628982,Floating Jump Shot,2,3,0,FLOATING_SHOTS,,2022
-Melvin Frazier Jr.,1628982,Hook Shot,2,1,0,POST_MOVES,,2022
-Melvin Frazier Jr.,1628982,Jump Shot,3,20,1,JUMP_SHOTS,,2022
-Melvin Frazier Jr.,1628982,Putback Layup,2,1,1,LAYUPS,,2022
-Melvin Frazier Jr.,1628982,Reverse Layup,2,2,0,LAYUPS,,2022
-Melvin Frazier Jr.,1628982,Running Jump Shot,3,1,0,JUMP_SHOTS,,2022
-Melvin Frazier Jr.,1628982,Specialty Dunk,2,1,1,DUNKS,,2022
-Melvin Frazier Jr.,1628982,Standard Layup,2,4,3,LAYUPS,,2022
-Melvin Frazier Jr.,1628982,Turnaround Hook Shot,2,2,1,POST_MOVES,,2022
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Melvin Frazier Jr.,1628982,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2019
+Melvin Frazier Jr.,1628982,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2019
+Melvin Frazier Jr.,1628982,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2019
+Melvin Frazier Jr.,1628982,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2019
+Melvin Frazier Jr.,1628982,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2019
+Melvin Frazier Jr.,1628982,Jump Shot,2,9,1,2PT Jump Shot,TWO_POINT_JUMPERS,2019
+Melvin Frazier Jr.,1628982,Layup Shot,2,4,2,Standard Layup,LAYUPS,2019
+Melvin Frazier Jr.,1628982,Pullup Jump shot,2,2,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2019
+Melvin Frazier Jr.,1628982,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2019
+Melvin Frazier Jr.,1628982,Driving Layup Shot,2,6,1,Driving Layup,LAYUPS,2020
+Melvin Frazier Jr.,1628982,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2020
+Melvin Frazier Jr.,1628982,Jump Shot,2,11,6,2PT Jump Shot,TWO_POINT_JUMPERS,2020
+Melvin Frazier Jr.,1628982,Jump Shot,3,4,2,3PT Jump Shot,THREE_POINT_JUMPERS,2020
+Melvin Frazier Jr.,1628982,Pullup Jump shot,2,6,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2020
+Melvin Frazier Jr.,1628982,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2020
+Melvin Frazier Jr.,1628982,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2020
+Melvin Frazier Jr.,1628982,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2020
+Melvin Frazier Jr.,1628982,Step Back Jump shot,2,2,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2020
+Melvin Frazier Jr.,1628982,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2022
+Melvin Frazier Jr.,1628982,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2022
+Melvin Frazier Jr.,1628982,Driving Bank Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2022
+Melvin Frazier Jr.,1628982,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Melvin Frazier Jr.,1628982,Driving Floating Jump Shot,2,2,0,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Melvin Frazier Jr.,1628982,Driving Layup Shot,2,9,3,Driving Layup,LAYUPS,2022
+Melvin Frazier Jr.,1628982,Driving Reverse Layup Shot,2,3,3,Driving Layup,LAYUPS,2022
+Melvin Frazier Jr.,1628982,Hook Bank Shot,2,1,0,Hook Shot,POST_MOVES,2022
+Melvin Frazier Jr.,1628982,Jump Shot,3,20,1,3PT Jump Shot,THREE_POINT_JUMPERS,2022
+Melvin Frazier Jr.,1628982,Layup Shot,2,1,1,Standard Layup,LAYUPS,2022
+Melvin Frazier Jr.,1628982,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2022
+Melvin Frazier Jr.,1628982,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2022
+Melvin Frazier Jr.,1628982,Running Layup Shot,2,2,1,Standard Layup,LAYUPS,2022
+Melvin Frazier Jr.,1628982,Running Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2022
+Melvin Frazier Jr.,1628982,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2022
+Melvin Frazier Jr.,1628982,Turnaround Bank Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2022
+Melvin Frazier Jr.,1628982,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2022

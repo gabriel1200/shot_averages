@@ -1,55 +1,71 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Adreian Payne,203940,Driving Dunk,2,4,4,DUNKS,,2015
-Adreian Payne,203940,Driving Hook Shot,2,2,0,POST_MOVES,,2015
-Adreian Payne,203940,Driving Layup,2,8,4,LAYUPS,,2015
-Adreian Payne,203940,Fadeaway Jump Shot,2,2,1,JUMP_SHOTS,,2015
-Adreian Payne,203940,Floating Jump Shot,2,2,0,FLOATING_SHOTS,,2015
-Adreian Payne,203940,Hook Shot,2,7,5,POST_MOVES,,2015
-Adreian Payne,203940,Jump Shot,2,121,41,JUMP_SHOTS,,2015
-Adreian Payne,203940,Pullup Jump Shot,2,1,1,JUMP_SHOTS,,2015
-Adreian Payne,203940,Putback Dunk,2,6,3,DUNKS,,2015
-Adreian Payne,203940,Reverse Dunk,2,1,1,DUNKS,,2015
-Adreian Payne,203940,Reverse Layup,2,3,2,LAYUPS,,2015
-Adreian Payne,203940,Running Hook Shot,2,4,2,POST_MOVES,,2015
-Adreian Payne,203940,Running Jump Shot,2,8,3,JUMP_SHOTS,,2015
-Adreian Payne,203940,Standard Dunk,2,10,8,DUNKS,,2015
-Adreian Payne,203940,Standard Layup,2,24,9,LAYUPS,,2015
-Adreian Payne,203940,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2015
-Adreian Payne,203940,Tip Shot,2,5,1,TIP_SHOTS,,2015
-Adreian Payne,203940,Turnaround Hook Shot,2,1,1,POST_MOVES,,2015
-Adreian Payne,203940,Turnaround Jump Shot,2,10,5,JUMP_SHOTS,,2015
-Adreian Payne,203940,Alley Oop Dunk,2,2,2,DUNKS,,2016
-Adreian Payne,203940,Driving Hook Shot,2,1,0,POST_MOVES,,2016
-Adreian Payne,203940,Driving Jump Shot,2,1,0,JUMP_SHOTS,,2016
-Adreian Payne,203940,Driving Layup,2,5,4,LAYUPS,,2016
-Adreian Payne,203940,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2016
-Adreian Payne,203940,Floating Jump Shot,2,3,1,FLOATING_SHOTS,,2016
-Adreian Payne,203940,Hook Shot,2,5,2,POST_MOVES,,2016
-Adreian Payne,203940,Jump Shot,2,82,23,JUMP_SHOTS,,2016
-Adreian Payne,203940,Pullup Jump Shot,2,4,1,JUMP_SHOTS,,2016
-Adreian Payne,203940,Putback Dunk,2,2,2,DUNKS,,2016
-Adreian Payne,203940,Putback Layup,2,4,2,LAYUPS,,2016
-Adreian Payne,203940,Reverse Layup,2,2,0,LAYUPS,,2016
-Adreian Payne,203940,Running Jump Shot,2,2,0,JUMP_SHOTS,,2016
-Adreian Payne,203940,Specialty Dunk,2,4,4,DUNKS,,2016
-Adreian Payne,203940,Standard Dunk,2,2,1,DUNKS,,2016
-Adreian Payne,203940,Standard Layup,2,12,4,LAYUPS,,2016
-Adreian Payne,203940,Step Back Jump Shot,2,3,1,JUMP_SHOTS,,2016
-Adreian Payne,203940,Turnaround Hook Shot,2,2,2,POST_MOVES,,2016
-Adreian Payne,203940,Turnaround Jump Shot,2,8,3,JUMP_SHOTS,,2016
-Adreian Payne,203940,Driving Layup,2,3,2,LAYUPS,,2017
-Adreian Payne,203940,Floating Jump Shot,2,1,1,FLOATING_SHOTS,,2017
-Adreian Payne,203940,Hook Shot,2,1,1,POST_MOVES,,2017
-Adreian Payne,203940,Jump Shot,2,28,9,JUMP_SHOTS,,2017
-Adreian Payne,203940,Pullup Jump Shot,2,2,2,JUMP_SHOTS,,2017
-Adreian Payne,203940,Putback Dunk,2,1,1,DUNKS,,2017
-Adreian Payne,203940,Running Jump Shot,2,1,1,JUMP_SHOTS,,2017
-Adreian Payne,203940,Specialty Dunk,2,1,1,DUNKS,,2017
-Adreian Payne,203940,Standard Dunk,2,2,2,DUNKS,,2017
-Adreian Payne,203940,Standard Layup,2,9,2,LAYUPS,,2017
-Adreian Payne,203940,Turnaround Hook Shot,2,2,1,POST_MOVES,,2017
-Adreian Payne,203940,Turnaround Jump Shot,2,3,0,JUMP_SHOTS,,2017
-Adreian Payne,203940,Driving Hook Shot,2,1,1,POST_MOVES,,2018
-Adreian Payne,203940,Jump Shot,2,7,4,JUMP_SHOTS,,2018
-Adreian Payne,203940,Pullup Jump Shot,2,1,1,JUMP_SHOTS,,2018
-Adreian Payne,203940,Putback Layup,2,1,1,LAYUPS,,2018
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Adreian Payne,203940,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2015
+Adreian Payne,203940,Driving Hook Shot,2,2,0,Driving Hook Shot,POST_MOVES,2015
+Adreian Payne,203940,Driving Layup Shot,2,8,4,Driving Layup,LAYUPS,2015
+Adreian Payne,203940,Driving Slam Dunk Shot,2,2,2,Driving Dunk,DUNKS,2015
+Adreian Payne,203940,Dunk Shot,2,5,3,Standard Dunk,DUNKS,2015
+Adreian Payne,203940,Fadeaway Jump Shot,2,2,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2015
+Adreian Payne,203940,Floating Jump shot,2,2,0,2PT Floating Jump Shot,FLOATING_SHOTS,2015
+Adreian Payne,203940,Hook Shot,2,3,3,Hook Shot,POST_MOVES,2015
+Adreian Payne,203940,Jump Bank Shot,2,2,2,2PT Jump Shot,TWO_POINT_JUMPERS,2015
+Adreian Payne,203940,Jump Hook Shot,2,4,2,Hook Shot,POST_MOVES,2015
+Adreian Payne,203940,Jump Shot,2,119,39,2PT Jump Shot,TWO_POINT_JUMPERS,2015
+Adreian Payne,203940,Layup Shot,2,20,8,Standard Layup,LAYUPS,2015
+Adreian Payne,203940,Pullup Jump shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2015
+Adreian Payne,203940,Putback Dunk Shot,2,4,2,Putback Dunk,DUNKS,2015
+Adreian Payne,203940,Putback Slam Dunk Shot,2,2,1,Putback Dunk,DUNKS,2015
+Adreian Payne,203940,Reverse Dunk Shot,2,1,1,Reverse Dunk,DUNKS,2015
+Adreian Payne,203940,Reverse Layup Shot,2,3,2,Reverse Layup,LAYUPS,2015
+Adreian Payne,203940,Running Hook Shot,2,4,2,Running Hook Shot,POST_MOVES,2015
+Adreian Payne,203940,Running Jump Shot,2,8,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2015
+Adreian Payne,203940,Running Layup Shot,2,4,1,Standard Layup,LAYUPS,2015
+Adreian Payne,203940,Slam Dunk Shot,2,5,5,Standard Dunk,DUNKS,2015
+Adreian Payne,203940,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2015
+Adreian Payne,203940,Tip Shot,2,5,1,Tip Shot,TIP_SHOTS,2015
+Adreian Payne,203940,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2015
+Adreian Payne,203940,Turnaround Jump Shot,2,10,5,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2015
+Adreian Payne,203940,Alley Oop Dunk Shot,2,2,2,Alley Oop Dunk,DUNKS,2016
+Adreian Payne,203940,Cutting Dunk Shot,2,3,3,Specialty Dunk,DUNKS,2016
+Adreian Payne,203940,Cutting Layup Shot,2,2,1,Standard Layup,LAYUPS,2016
+Adreian Payne,203940,Driving Bank Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2016
+Adreian Payne,203940,Driving Bank shot,2,1,0,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2016
+Adreian Payne,203940,Driving Floating Jump Shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2016
+Adreian Payne,203940,Driving Layup Shot,2,5,4,Driving Layup,LAYUPS,2016
+Adreian Payne,203940,Dunk Shot,2,2,1,Standard Dunk,DUNKS,2016
+Adreian Payne,203940,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2016
+Adreian Payne,203940,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2016
+Adreian Payne,203940,Hook Shot,2,5,2,Hook Shot,POST_MOVES,2016
+Adreian Payne,203940,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2016
+Adreian Payne,203940,Jump Shot,2,81,23,2PT Jump Shot,TWO_POINT_JUMPERS,2016
+Adreian Payne,203940,Layup Shot,2,10,3,Standard Layup,LAYUPS,2016
+Adreian Payne,203940,Pullup Jump shot,2,4,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2016
+Adreian Payne,203940,Putback Dunk Shot,2,2,2,Putback Dunk,DUNKS,2016
+Adreian Payne,203940,Putback Layup Shot,2,2,1,Putback Layup,LAYUPS,2016
+Adreian Payne,203940,Reverse Layup Shot,2,2,0,Reverse Layup,LAYUPS,2016
+Adreian Payne,203940,Running Jump Shot,2,2,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2016
+Adreian Payne,203940,Step Back Jump shot,2,3,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2016
+Adreian Payne,203940,Tip Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2016
+Adreian Payne,203940,Tip Layup Shot,2,2,1,Putback Layup,LAYUPS,2016
+Adreian Payne,203940,Turnaround Bank shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2016
+Adreian Payne,203940,Turnaround Fadeaway Bank Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2016
+Adreian Payne,203940,Turnaround Hook Shot,2,2,2,Turnaround Hook Shot,POST_MOVES,2016
+Adreian Payne,203940,Turnaround Jump Shot,2,5,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2016
+Adreian Payne,203940,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2017
+Adreian Payne,203940,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2017
+Adreian Payne,203940,Driving Layup Shot,2,3,2,Driving Layup,LAYUPS,2017
+Adreian Payne,203940,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2017
+Adreian Payne,203940,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2017
+Adreian Payne,203940,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2017
+Adreian Payne,203940,Jump Bank Shot,2,3,2,2PT Jump Shot,TWO_POINT_JUMPERS,2017
+Adreian Payne,203940,Jump Shot,2,25,7,2PT Jump Shot,TWO_POINT_JUMPERS,2017
+Adreian Payne,203940,Layup Shot,2,8,1,Standard Layup,LAYUPS,2017
+Adreian Payne,203940,Pullup Jump shot,2,2,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2017
+Adreian Payne,203940,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2017
+Adreian Payne,203940,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2017
+Adreian Payne,203940,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2017
+Adreian Payne,203940,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,2017
+Adreian Payne,203940,Turnaround Jump Shot,2,3,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2017
+Adreian Payne,203940,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2018
+Adreian Payne,203940,Jump Shot,2,7,4,2PT Jump Shot,TWO_POINT_JUMPERS,2018
+Adreian Payne,203940,Pullup Jump shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2018
+Adreian Payne,203940,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2018

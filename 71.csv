@@ -1,14 +1,14 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Pooh Richardson,71,Driving Layup,2,23,19,LAYUPS,,1997
-Pooh Richardson,71,Jump Shot,2,276,97,JUMP_SHOTS,,1997
-Pooh Richardson,71,Jump Shot,3,11,4,JUMP_SHOTS,,1997
-Pooh Richardson,71,Running Jump Shot,2,2,2,JUMP_SHOTS,,1997
-Pooh Richardson,71,Standard Layup,2,32,9,LAYUPS,,1997
-Pooh Richardson,71,Driving Layup,2,31,19,LAYUPS,,1998
-Pooh Richardson,71,Jump Shot,2,271,93,JUMP_SHOTS,,1998
-Pooh Richardson,71,Running Jump Shot,2,9,4,JUMP_SHOTS,,1998
-Pooh Richardson,71,Standard Layup,2,22,8,LAYUPS,,1998
-Pooh Richardson,71,Driving Layup,2,4,4,LAYUPS,,1999
-Pooh Richardson,71,Jump Shot,2,27,4,JUMP_SHOTS,,1999
-Pooh Richardson,71,Running Jump Shot,2,3,3,JUMP_SHOTS,,1999
-Pooh Richardson,71,Standard Layup,2,2,1,LAYUPS,,1999
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Pooh Richardson,71,Driving Layup Shot,2,23,19,Driving Layup,LAYUPS,1997
+Pooh Richardson,71,Jump Shot,2,276,97,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Pooh Richardson,71,Jump Shot,3,11,4,3PT Jump Shot,THREE_POINT_JUMPERS,1997
+Pooh Richardson,71,Layup Shot,2,32,9,Standard Layup,LAYUPS,1997
+Pooh Richardson,71,Running Jump Shot,2,2,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
+Pooh Richardson,71,Driving Layup Shot,2,31,19,Driving Layup,LAYUPS,1998
+Pooh Richardson,71,Jump Shot,2,271,93,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+Pooh Richardson,71,Layup Shot,2,22,8,Standard Layup,LAYUPS,1998
+Pooh Richardson,71,Running Jump Shot,2,9,4,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
+Pooh Richardson,71,Driving Layup Shot,2,4,4,Driving Layup,LAYUPS,1999
+Pooh Richardson,71,Jump Shot,2,27,4,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Pooh Richardson,71,Layup Shot,2,2,1,Standard Layup,LAYUPS,1999
+Pooh Richardson,71,Running Jump Shot,2,3,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999

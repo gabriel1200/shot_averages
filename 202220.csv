@@ -1,9 +1,11 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Zabian Dowdell,202220,Driving Layup,2,15,13,LAYUPS,,2011
-Zabian Dowdell,202220,Jump Shot,2,77,24,JUMP_SHOTS,,2011
-Zabian Dowdell,202220,Pullup Jump Shot,2,8,6,JUMP_SHOTS,,2011
-Zabian Dowdell,202220,Reverse Layup,2,2,0,LAYUPS,,2011
-Zabian Dowdell,202220,Running Jump Shot,2,4,0,JUMP_SHOTS,,2011
-Zabian Dowdell,202220,Standard Dunk,2,1,1,DUNKS,,2011
-Zabian Dowdell,202220,Standard Layup,2,16,5,LAYUPS,,2011
-Zabian Dowdell,202220,Step Back Jump Shot,2,2,2,JUMP_SHOTS,,2011
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Zabian Dowdell,202220,Driving Layup Shot,2,15,13,Driving Layup,LAYUPS,2011
+Zabian Dowdell,202220,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2011
+Zabian Dowdell,202220,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Zabian Dowdell,202220,Jump Shot,2,76,23,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Zabian Dowdell,202220,Layup Shot,2,15,4,Standard Layup,LAYUPS,2011
+Zabian Dowdell,202220,Pullup Jump shot,2,8,6,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2011
+Zabian Dowdell,202220,Reverse Layup Shot,2,2,0,Reverse Layup,LAYUPS,2011
+Zabian Dowdell,202220,Running Jump Shot,2,4,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2011
+Zabian Dowdell,202220,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2011
+Zabian Dowdell,202220,Step Back Jump shot,2,2,2,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2011

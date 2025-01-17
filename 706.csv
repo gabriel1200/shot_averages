@@ -1,7 +1,7 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jerome Allen,706,Driving Dunk,2,3,3,DUNKS,,1997
-Jerome Allen,706,Driving Layup,2,30,16,LAYUPS,,1997
-Jerome Allen,706,Jump Shot,2,137,40,JUMP_SHOTS,,1997
-Jerome Allen,706,Running Jump Shot,2,7,3,JUMP_SHOTS,,1997
-Jerome Allen,706,Standard Dunk,2,2,1,DUNKS,,1997
-Jerome Allen,706,Standard Layup,2,41,14,LAYUPS,,1997
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Jerome Allen,706,Driving Dunk Shot,2,3,3,Driving Dunk,DUNKS,1997
+Jerome Allen,706,Driving Layup Shot,2,30,16,Driving Layup,LAYUPS,1997
+Jerome Allen,706,Dunk Shot,2,2,1,Standard Dunk,DUNKS,1997
+Jerome Allen,706,Jump Shot,2,137,40,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Jerome Allen,706,Layup Shot,2,41,14,Standard Layup,LAYUPS,1997
+Jerome Allen,706,Running Jump Shot,2,7,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997

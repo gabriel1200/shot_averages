@@ -1,61 +1,69 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Moochie Norris,983,Driving Layup,2,3,2,LAYUPS,,1997
-Moochie Norris,983,Jump Shot,2,15,2,JUMP_SHOTS,,1997
-Moochie Norris,983,Running Jump Shot,2,2,0,JUMP_SHOTS,,1997
-Moochie Norris,983,Standard Layup,2,2,0,LAYUPS,,1997
-Moochie Norris,983,Driving Layup,2,6,4,LAYUPS,,1999
-Moochie Norris,983,Jump Shot,2,30,9,JUMP_SHOTS,,1999
-Moochie Norris,983,Running Jump Shot,2,1,0,JUMP_SHOTS,,1999
-Moochie Norris,983,Standard Layup,2,3,0,LAYUPS,,1999
-Moochie Norris,983,Driving Layup,2,12,6,LAYUPS,,2000
-Moochie Norris,983,Hook Shot,2,1,1,POST_MOVES,,2000
-Moochie Norris,983,Jump Shot,2,105,41,JUMP_SHOTS,,2000
-Moochie Norris,983,Running Jump Shot,2,10,3,JUMP_SHOTS,,2000
-Moochie Norris,983,Standard Layup,2,30,18,LAYUPS,,2000
-Moochie Norris,983,Tip Shot,2,1,0,TIP_SHOTS,,2000
-Moochie Norris,983,Driving Layup,2,61,41,LAYUPS,,2001
-Moochie Norris,983,Finger Roll,2,3,3,LAYUPS,,2001
-Moochie Norris,983,Jump Shot,2,259,99,JUMP_SHOTS,,2001
-Moochie Norris,983,Reverse Layup,2,3,1,LAYUPS,,2001
-Moochie Norris,983,Running Jump Shot,2,23,14,JUMP_SHOTS,,2001
-Moochie Norris,983,Standard Layup,2,61,24,LAYUPS,,2001
-Moochie Norris,983,Tip Shot,2,1,0,TIP_SHOTS,,2001
-Moochie Norris,983,Turnaround Jump Shot,2,2,2,JUMP_SHOTS,,2001
-Moochie Norris,983,Driving Layup,2,79,49,LAYUPS,,2002
-Moochie Norris,983,Fadeaway Jump Shot,2,2,0,JUMP_SHOTS,,2002
-Moochie Norris,983,Finger Roll,2,2,1,LAYUPS,,2002
-Moochie Norris,983,Hook Shot,2,1,0,POST_MOVES,,2002
-Moochie Norris,983,Jump Shot,2,438,151,JUMP_SHOTS,,2002
-Moochie Norris,983,Reverse Layup,2,5,3,LAYUPS,,2002
-Moochie Norris,983,Running Hook Shot,2,1,0,POST_MOVES,,2002
-Moochie Norris,983,Running Jump Shot,2,42,24,JUMP_SHOTS,,2002
-Moochie Norris,983,Standard Layup,2,60,22,LAYUPS,,2002
-Moochie Norris,983,Tip Shot,2,1,1,TIP_SHOTS,,2002
-Moochie Norris,983,Driving Layup,2,30,15,LAYUPS,,2003
-Moochie Norris,983,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2003
-Moochie Norris,983,Finger Roll,2,1,0,LAYUPS,,2003
-Moochie Norris,983,Hook Shot,2,1,0,POST_MOVES,,2003
-Moochie Norris,983,Jump Shot,2,217,81,JUMP_SHOTS,,2003
-Moochie Norris,983,Reverse Layup,2,3,1,LAYUPS,,2003
-Moochie Norris,983,Running Jump Shot,2,28,19,JUMP_SHOTS,,2003
-Moochie Norris,983,Standard Layup,2,49,17,LAYUPS,,2003
-Moochie Norris,983,Driving Layup,2,15,12,LAYUPS,,2004
-Moochie Norris,983,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2004
-Moochie Norris,983,Finger Roll,2,1,1,LAYUPS,,2004
-Moochie Norris,983,Jump Shot,2,152,49,JUMP_SHOTS,,2004
-Moochie Norris,983,Reverse Layup,2,4,3,LAYUPS,,2004
-Moochie Norris,983,Running Jump Shot,2,12,6,JUMP_SHOTS,,2004
-Moochie Norris,983,Standard Layup,2,31,7,LAYUPS,,2004
-Moochie Norris,983,Tip Shot,2,1,1,TIP_SHOTS,,2004
-Moochie Norris,983,Driving Layup,2,3,2,LAYUPS,,2005
-Moochie Norris,983,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2005
-Moochie Norris,983,Finger Roll,2,1,1,LAYUPS,,2005
-Moochie Norris,983,Jump Shot,2,75,24,JUMP_SHOTS,,2005
-Moochie Norris,983,Reverse Layup,2,3,2,LAYUPS,,2005
-Moochie Norris,983,Running Jump Shot,2,4,2,JUMP_SHOTS,,2005
-Moochie Norris,983,Standard Layup,2,22,4,LAYUPS,,2005
-Moochie Norris,983,Driving Layup,2,6,5,LAYUPS,,2006
-Moochie Norris,983,Jump Shot,2,79,29,JUMP_SHOTS,,2006
-Moochie Norris,983,Reverse Layup,2,4,4,LAYUPS,,2006
-Moochie Norris,983,Running Jump Shot,2,3,3,JUMP_SHOTS,,2006
-Moochie Norris,983,Standard Layup,2,20,5,LAYUPS,,2006
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Moochie Norris,983,Driving Layup Shot,2,3,2,Driving Layup,LAYUPS,1997
+Moochie Norris,983,Jump Shot,2,15,2,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Moochie Norris,983,Layup Shot,2,2,0,Standard Layup,LAYUPS,1997
+Moochie Norris,983,Running Jump Shot,2,2,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
+Moochie Norris,983,Driving Layup Shot,2,6,4,Driving Layup,LAYUPS,1999
+Moochie Norris,983,Jump Shot,2,30,9,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Moochie Norris,983,Layup Shot,2,3,0,Standard Layup,LAYUPS,1999
+Moochie Norris,983,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999
+Moochie Norris,983,Driving Layup Shot,2,12,6,Driving Layup,LAYUPS,2000
+Moochie Norris,983,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2000
+Moochie Norris,983,Jump Shot,2,105,41,2PT Jump Shot,TWO_POINT_JUMPERS,2000
+Moochie Norris,983,Layup Shot,2,30,18,Standard Layup,LAYUPS,2000
+Moochie Norris,983,Running Jump Shot,2,10,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2000
+Moochie Norris,983,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2000
+Moochie Norris,983,Driving Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2001
+Moochie Norris,983,Driving Layup Shot,2,61,41,Driving Layup,LAYUPS,2001
+Moochie Norris,983,Finger Roll Shot,2,2,2,Finger Roll,LAYUPS,2001
+Moochie Norris,983,Jump Shot,2,259,99,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Moochie Norris,983,Layup Shot,2,56,23,Standard Layup,LAYUPS,2001
+Moochie Norris,983,Reverse Layup Shot,2,3,1,Reverse Layup,LAYUPS,2001
+Moochie Norris,983,Running Jump Shot,2,23,14,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
+Moochie Norris,983,Running Layup Shot,2,5,1,Standard Layup,LAYUPS,2001
+Moochie Norris,983,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2001
+Moochie Norris,983,Turnaround Jump Shot,2,2,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2001
+Moochie Norris,983,Driving Finger Roll Shot,2,1,0,Finger Roll,LAYUPS,2002
+Moochie Norris,983,Driving Layup Shot,2,79,49,Driving Layup,LAYUPS,2002
+Moochie Norris,983,Fadeaway Jump Shot,2,2,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2002
+Moochie Norris,983,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2002
+Moochie Norris,983,Jump Shot,2,438,151,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Moochie Norris,983,Layup Shot,2,53,19,Standard Layup,LAYUPS,2002
+Moochie Norris,983,Reverse Layup Shot,2,5,3,Reverse Layup,LAYUPS,2002
+Moochie Norris,983,Running Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2002
+Moochie Norris,983,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,2002
+Moochie Norris,983,Running Jump Shot,2,42,24,2PT Running Jump Shot,TWO_POINT_JUMPERS,2002
+Moochie Norris,983,Running Layup Shot,2,7,3,Standard Layup,LAYUPS,2002
+Moochie Norris,983,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2002
+Moochie Norris,983,Driving Finger Roll Shot,2,1,0,Finger Roll,LAYUPS,2003
+Moochie Norris,983,Driving Layup Shot,2,30,15,Driving Layup,LAYUPS,2003
+Moochie Norris,983,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2003
+Moochie Norris,983,Jump Hook Shot,2,1,0,Hook Shot,POST_MOVES,2003
+Moochie Norris,983,Jump Shot,2,217,81,2PT Jump Shot,TWO_POINT_JUMPERS,2003
+Moochie Norris,983,Layup Shot,2,46,16,Standard Layup,LAYUPS,2003
+Moochie Norris,983,Reverse Layup Shot,2,3,1,Reverse Layup,LAYUPS,2003
+Moochie Norris,983,Running Jump Shot,2,28,19,2PT Running Jump Shot,TWO_POINT_JUMPERS,2003
+Moochie Norris,983,Running Layup Shot,2,3,1,Standard Layup,LAYUPS,2003
+Moochie Norris,983,Driving Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2004
+Moochie Norris,983,Driving Layup Shot,2,15,12,Driving Layup,LAYUPS,2004
+Moochie Norris,983,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2004
+Moochie Norris,983,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2004
+Moochie Norris,983,Jump Shot,2,151,48,2PT Jump Shot,TWO_POINT_JUMPERS,2004
+Moochie Norris,983,Layup Shot,2,30,6,Standard Layup,LAYUPS,2004
+Moochie Norris,983,Reverse Layup Shot,2,4,3,Reverse Layup,LAYUPS,2004
+Moochie Norris,983,Running Jump Shot,2,12,6,2PT Running Jump Shot,TWO_POINT_JUMPERS,2004
+Moochie Norris,983,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2004
+Moochie Norris,983,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2004
+Moochie Norris,983,Driving Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2005
+Moochie Norris,983,Driving Layup Shot,2,3,2,Driving Layup,LAYUPS,2005
+Moochie Norris,983,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2005
+Moochie Norris,983,Jump Shot,2,75,24,2PT Jump Shot,TWO_POINT_JUMPERS,2005
+Moochie Norris,983,Layup Shot,2,22,4,Standard Layup,LAYUPS,2005
+Moochie Norris,983,Reverse Layup Shot,2,3,2,Reverse Layup,LAYUPS,2005
+Moochie Norris,983,Running Jump Shot,2,4,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2005
+Moochie Norris,983,Driving Layup Shot,2,6,5,Driving Layup,LAYUPS,2006
+Moochie Norris,983,Jump Bank Shot,2,2,2,2PT Jump Shot,TWO_POINT_JUMPERS,2006
+Moochie Norris,983,Jump Shot,2,77,27,2PT Jump Shot,TWO_POINT_JUMPERS,2006
+Moochie Norris,983,Layup Shot,2,20,5,Standard Layup,LAYUPS,2006
+Moochie Norris,983,Reverse Layup Shot,2,4,4,Reverse Layup,LAYUPS,2006
+Moochie Norris,983,Running Jump Shot,2,3,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2006

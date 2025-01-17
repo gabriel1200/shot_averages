@@ -1,61 +1,74 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Renaldo Balkman,200764,Alley Oop Dunk,2,2,2,DUNKS,,2007
-Renaldo Balkman,200764,Alley Oop Layup,2,2,2,LAYUPS,,2007
-Renaldo Balkman,200764,Driving Dunk,2,10,10,DUNKS,,2007
-Renaldo Balkman,200764,Driving Layup,2,13,9,LAYUPS,,2007
-Renaldo Balkman,200764,Finger Roll,2,1,1,LAYUPS,,2007
-Renaldo Balkman,200764,Hook Shot,2,2,2,POST_MOVES,,2007
-Renaldo Balkman,200764,Jump Shot,2,71,10,JUMP_SHOTS,,2007
-Renaldo Balkman,200764,Jump Shot,3,1,1,JUMP_SHOTS,,2007
-Renaldo Balkman,200764,Reverse Layup,2,4,4,LAYUPS,,2007
-Renaldo Balkman,200764,Specialty Dunk,2,3,3,DUNKS,,2007
-Renaldo Balkman,200764,Standard Dunk,2,33,29,DUNKS,,2007
-Renaldo Balkman,200764,Standard Layup,2,109,53,LAYUPS,,2007
-Renaldo Balkman,200764,Tip Shot,2,24,13,TIP_SHOTS,,2007
-Renaldo Balkman,200764,Alley Oop Dunk,2,3,3,DUNKS,,2008
-Renaldo Balkman,200764,Alley Oop Layup,2,2,2,LAYUPS,,2008
-Renaldo Balkman,200764,Driving Dunk,2,5,4,DUNKS,,2008
-Renaldo Balkman,200764,Driving Layup,2,9,8,LAYUPS,,2008
-Renaldo Balkman,200764,Finger Roll,2,2,2,LAYUPS,,2008
-Renaldo Balkman,200764,Hook Shot,2,1,0,POST_MOVES,,2008
-Renaldo Balkman,200764,Jump Shot,2,34,5,JUMP_SHOTS,,2008
-Renaldo Balkman,200764,Jump Shot,3,4,0,JUMP_SHOTS,,2008
-Renaldo Balkman,200764,Putback Dunk,2,3,2,DUNKS,,2008
-Renaldo Balkman,200764,Putback Layup,2,5,5,LAYUPS,,2008
-Renaldo Balkman,200764,Reverse Layup,2,2,1,LAYUPS,,2008
-Renaldo Balkman,200764,Standard Dunk,2,23,18,DUNKS,,2008
-Renaldo Balkman,200764,Standard Layup,2,73,35,LAYUPS,,2008
-Renaldo Balkman,200764,Tip Shot,2,19,6,TIP_SHOTS,,2008
-Renaldo Balkman,200764,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2008
-Renaldo Balkman,200764,Alley Oop Dunk,2,3,3,DUNKS,,2009
-Renaldo Balkman,200764,Driving Dunk,2,4,3,DUNKS,,2009
-Renaldo Balkman,200764,Driving Layup,2,3,1,LAYUPS,,2009
-Renaldo Balkman,200764,Finger Roll,2,1,0,LAYUPS,,2009
-Renaldo Balkman,200764,Hook Shot,2,2,2,POST_MOVES,,2009
-Renaldo Balkman,200764,Jump Shot,2,45,15,JUMP_SHOTS,,2009
-Renaldo Balkman,200764,Putback Dunk,2,1,1,DUNKS,,2009
-Renaldo Balkman,200764,Putback Layup,2,1,1,LAYUPS,,2009
-Renaldo Balkman,200764,Reverse Layup,2,8,3,LAYUPS,,2009
-Renaldo Balkman,200764,Standard Dunk,2,29,26,DUNKS,,2009
-Renaldo Balkman,200764,Standard Layup,2,74,43,LAYUPS,,2009
-Renaldo Balkman,200764,Tip Shot,2,23,10,TIP_SHOTS,,2009
-Renaldo Balkman,200764,Turnaround Jump Shot,2,3,2,JUMP_SHOTS,,2009
-Renaldo Balkman,200764,Driving Layup,2,2,2,LAYUPS,,2010
-Renaldo Balkman,200764,Jump Shot,2,11,0,JUMP_SHOTS,,2010
-Renaldo Balkman,200764,Reverse Layup,2,1,1,LAYUPS,,2010
-Renaldo Balkman,200764,Standard Layup,2,4,3,LAYUPS,,2010
-Renaldo Balkman,200764,Driving Dunk,2,3,3,DUNKS,,2011
-Renaldo Balkman,200764,Jump Shot,2,5,1,JUMP_SHOTS,,2011
-Renaldo Balkman,200764,Reverse Layup,2,1,0,LAYUPS,,2011
-Renaldo Balkman,200764,Standard Dunk,2,1,1,DUNKS,,2011
-Renaldo Balkman,200764,Standard Layup,2,3,1,LAYUPS,,2011
-Renaldo Balkman,200764,Alley Oop Dunk,2,1,1,DUNKS,,2012
-Renaldo Balkman,200764,Driving Dunk,2,1,1,DUNKS,,2012
-Renaldo Balkman,200764,Driving Layup,2,1,1,LAYUPS,,2012
-Renaldo Balkman,200764,Finger Roll,2,1,1,LAYUPS,,2012
-Renaldo Balkman,200764,Jump Shot,2,8,2,JUMP_SHOTS,,2012
-Renaldo Balkman,200764,Jump Shot,3,7,2,JUMP_SHOTS,,2012
-Renaldo Balkman,200764,Putback Dunk,2,1,1,DUNKS,,2012
-Renaldo Balkman,200764,Reverse Layup,2,1,1,LAYUPS,,2012
-Renaldo Balkman,200764,Standard Dunk,2,2,1,DUNKS,,2012
-Renaldo Balkman,200764,Standard Layup,2,9,5,LAYUPS,,2012
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Renaldo Balkman,200764,Alley Oop Dunk Shot,2,2,2,Alley Oop Dunk,DUNKS,2007
+Renaldo Balkman,200764,Alley Oop Layup shot,2,2,2,Alley Oop Layup,LAYUPS,2007
+Renaldo Balkman,200764,Driving Dunk Shot,2,10,10,Driving Dunk,DUNKS,2007
+Renaldo Balkman,200764,Driving Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2007
+Renaldo Balkman,200764,Driving Layup Shot,2,13,9,Driving Layup,LAYUPS,2007
+Renaldo Balkman,200764,Dunk Shot,2,12,8,Standard Dunk,DUNKS,2007
+Renaldo Balkman,200764,Follow Up Dunk Shot,2,3,3,Specialty Dunk,DUNKS,2007
+Renaldo Balkman,200764,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2007
+Renaldo Balkman,200764,Jump Hook Shot,2,1,1,Hook Shot,POST_MOVES,2007
+Renaldo Balkman,200764,Jump Shot,2,71,10,2PT Jump Shot,TWO_POINT_JUMPERS,2007
+Renaldo Balkman,200764,Jump Shot,3,1,1,3PT Jump Shot,THREE_POINT_JUMPERS,2007
+Renaldo Balkman,200764,Layup Shot,2,107,51,Standard Layup,LAYUPS,2007
+Renaldo Balkman,200764,Reverse Layup Shot,2,4,4,Reverse Layup,LAYUPS,2007
+Renaldo Balkman,200764,Running Dunk Shot,2,3,3,Standard Dunk,DUNKS,2007
+Renaldo Balkman,200764,Running Layup Shot,2,2,2,Standard Layup,LAYUPS,2007
+Renaldo Balkman,200764,Slam Dunk Shot,2,18,18,Standard Dunk,DUNKS,2007
+Renaldo Balkman,200764,Tip Shot,2,24,13,Tip Shot,TIP_SHOTS,2007
+Renaldo Balkman,200764,Alley Oop Dunk Shot,2,3,3,Alley Oop Dunk,DUNKS,2008
+Renaldo Balkman,200764,Alley Oop Layup shot,2,2,2,Alley Oop Layup,LAYUPS,2008
+Renaldo Balkman,200764,Driving Dunk Shot,2,4,3,Driving Dunk,DUNKS,2008
+Renaldo Balkman,200764,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2008
+Renaldo Balkman,200764,Driving Layup Shot,2,9,8,Driving Layup,LAYUPS,2008
+Renaldo Balkman,200764,Driving Slam Dunk Shot,2,1,1,Driving Dunk,DUNKS,2008
+Renaldo Balkman,200764,Dunk Shot,2,14,9,Standard Dunk,DUNKS,2008
+Renaldo Balkman,200764,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2008
+Renaldo Balkman,200764,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2008
+Renaldo Balkman,200764,Jump Shot,2,34,5,2PT Jump Shot,TWO_POINT_JUMPERS,2008
+Renaldo Balkman,200764,Jump Shot,3,4,0,3PT Jump Shot,THREE_POINT_JUMPERS,2008
+Renaldo Balkman,200764,Layup Shot,2,73,35,Standard Layup,LAYUPS,2008
+Renaldo Balkman,200764,Putback Dunk Shot,2,3,2,Putback Dunk,DUNKS,2008
+Renaldo Balkman,200764,Putback Layup Shot,2,5,5,Putback Layup,LAYUPS,2008
+Renaldo Balkman,200764,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2008
+Renaldo Balkman,200764,Slam Dunk Shot,2,9,9,Standard Dunk,DUNKS,2008
+Renaldo Balkman,200764,Tip Shot,2,19,6,Tip Shot,TIP_SHOTS,2008
+Renaldo Balkman,200764,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2008
+Renaldo Balkman,200764,Alley Oop Dunk Shot,2,3,3,Alley Oop Dunk,DUNKS,2009
+Renaldo Balkman,200764,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2009
+Renaldo Balkman,200764,Driving Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2009
+Renaldo Balkman,200764,Driving Layup Shot,2,3,1,Driving Layup,LAYUPS,2009
+Renaldo Balkman,200764,Driving Slam Dunk Shot,2,2,1,Driving Dunk,DUNKS,2009
+Renaldo Balkman,200764,Dunk Shot,2,20,17,Standard Dunk,DUNKS,2009
+Renaldo Balkman,200764,Jump Hook Shot,2,2,2,Hook Shot,POST_MOVES,2009
+Renaldo Balkman,200764,Jump Shot,2,45,15,2PT Jump Shot,TWO_POINT_JUMPERS,2009
+Renaldo Balkman,200764,Layup Shot,2,73,42,Standard Layup,LAYUPS,2009
+Renaldo Balkman,200764,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2009
+Renaldo Balkman,200764,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2009
+Renaldo Balkman,200764,Reverse Layup Shot,2,8,3,Reverse Layup,LAYUPS,2009
+Renaldo Balkman,200764,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2009
+Renaldo Balkman,200764,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2009
+Renaldo Balkman,200764,Slam Dunk Shot,2,8,8,Standard Dunk,DUNKS,2009
+Renaldo Balkman,200764,Tip Shot,2,23,10,Tip Shot,TIP_SHOTS,2009
+Renaldo Balkman,200764,Turnaround Jump Shot,2,3,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2009
+Renaldo Balkman,200764,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,2010
+Renaldo Balkman,200764,Jump Shot,2,11,0,2PT Jump Shot,TWO_POINT_JUMPERS,2010
+Renaldo Balkman,200764,Layup Shot,2,4,3,Standard Layup,LAYUPS,2010
+Renaldo Balkman,200764,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2010
+Renaldo Balkman,200764,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2011
+Renaldo Balkman,200764,Driving Slam Dunk Shot,2,2,2,Driving Dunk,DUNKS,2011
+Renaldo Balkman,200764,Jump Shot,2,5,1,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Renaldo Balkman,200764,Layup Shot,2,3,1,Standard Layup,LAYUPS,2011
+Renaldo Balkman,200764,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2011
+Renaldo Balkman,200764,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2011
+Renaldo Balkman,200764,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2012
+Renaldo Balkman,200764,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2012
+Renaldo Balkman,200764,Driving Slam Dunk Shot,2,1,1,Driving Dunk,DUNKS,2012
+Renaldo Balkman,200764,Dunk Shot,2,2,1,Standard Dunk,DUNKS,2012
+Renaldo Balkman,200764,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2012
+Renaldo Balkman,200764,Jump Shot,2,8,2,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Renaldo Balkman,200764,Jump Shot,3,7,2,3PT Jump Shot,THREE_POINT_JUMPERS,2012
+Renaldo Balkman,200764,Layup Shot,2,8,4,Standard Layup,LAYUPS,2012
+Renaldo Balkman,200764,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2012
+Renaldo Balkman,200764,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2012
+Renaldo Balkman,200764,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2012

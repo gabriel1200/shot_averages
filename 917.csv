@@ -1,11 +1,11 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jack Haley,917,Hook Shot,2,2,1,POST_MOVES,,1997
-Jack Haley,917,Jump Shot,2,20,2,JUMP_SHOTS,,1997
-Jack Haley,917,Standard Dunk,2,2,2,DUNKS,,1997
-Jack Haley,917,Standard Layup,2,10,7,LAYUPS,,1997
-Jack Haley,917,Tip Shot,2,3,1,TIP_SHOTS,,1997
-Jack Haley,917,Driving Layup,2,1,1,LAYUPS,,1998
-Jack Haley,917,Hook Shot,2,1,1,POST_MOVES,,1998
-Jack Haley,917,Jump Shot,2,7,0,JUMP_SHOTS,,1998
-Jack Haley,917,Standard Dunk,2,1,1,DUNKS,,1998
-Jack Haley,917,Standard Layup,2,8,2,LAYUPS,,1998
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Jack Haley,917,Dunk Shot,2,2,2,Standard Dunk,DUNKS,1997
+Jack Haley,917,Hook Shot,2,2,1,Hook Shot,POST_MOVES,1997
+Jack Haley,917,Jump Shot,2,20,2,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Jack Haley,917,Layup Shot,2,10,7,Standard Layup,LAYUPS,1997
+Jack Haley,917,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,1997
+Jack Haley,917,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,1998
+Jack Haley,917,Hook Shot,2,1,1,Hook Shot,POST_MOVES,1998
+Jack Haley,917,Jump Shot,2,7,0,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+Jack Haley,917,Layup Shot,2,8,2,Standard Layup,LAYUPS,1998
+Jack Haley,917,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,1998

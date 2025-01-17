@@ -1,18 +1,26 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Donovan Clingan,1642270,Alley Oop Dunk,2,19,16,DUNKS,,2025
-Donovan Clingan,1642270,Alley Oop Layup,2,6,4,LAYUPS,,2025
-Donovan Clingan,1642270,Driving Layup,2,3,0,LAYUPS,,2025
-Donovan Clingan,1642270,Finger Roll,2,1,0,LAYUPS,,2025
-Donovan Clingan,1642270,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2025
-Donovan Clingan,1642270,Hook Shot,2,2,2,POST_MOVES,,2025
-Donovan Clingan,1642270,Jump Shot,2,1,0,JUMP_SHOTS,,2025
-Donovan Clingan,1642270,Jump Shot,3,18,6,JUMP_SHOTS,,2025
-Donovan Clingan,1642270,Pullup Jump Shot,3,1,0,JUMP_SHOTS,,2025
-Donovan Clingan,1642270,Putback Dunk,2,2,2,DUNKS,,2025
-Donovan Clingan,1642270,Putback Layup,2,32,18,LAYUPS,,2025
-Donovan Clingan,1642270,Reverse Layup,2,2,2,LAYUPS,,2025
-Donovan Clingan,1642270,Specialty Dunk,2,8,7,DUNKS,,2025
-Donovan Clingan,1642270,Standard Dunk,2,8,4,DUNKS,,2025
-Donovan Clingan,1642270,Standard Layup,2,27,11,LAYUPS,,2025
-Donovan Clingan,1642270,Step Back Jump Shot,3,1,0,JUMP_SHOTS,,2025
-Donovan Clingan,1642270,Turnaround Hook Shot,2,2,0,POST_MOVES,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Donovan Clingan,1642270,Alley Oop Dunk Shot,2,18,15,Alley Oop Dunk,DUNKS,2025
+Donovan Clingan,1642270,Alley Oop Layup shot,2,6,4,Alley Oop Layup,LAYUPS,2025
+Donovan Clingan,1642270,Cutting Dunk Shot,2,8,7,Specialty Dunk,DUNKS,2025
+Donovan Clingan,1642270,Cutting Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2025
+Donovan Clingan,1642270,Cutting Layup Shot,2,11,4,Standard Layup,LAYUPS,2025
+Donovan Clingan,1642270,Driving Layup Shot,2,2,0,Driving Layup,LAYUPS,2025
+Donovan Clingan,1642270,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2025
+Donovan Clingan,1642270,Dunk Shot,2,4,1,Standard Dunk,DUNKS,2025
+Donovan Clingan,1642270,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Donovan Clingan,1642270,Hook Shot,2,2,2,Hook Shot,POST_MOVES,2025
+Donovan Clingan,1642270,Jump Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2025
+Donovan Clingan,1642270,Jump Shot,3,18,6,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Donovan Clingan,1642270,Layup Shot,2,15,7,Standard Layup,LAYUPS,2025
+Donovan Clingan,1642270,Pullup Jump shot,3,1,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
+Donovan Clingan,1642270,Putback Dunk Shot,2,2,2,Putback Dunk,DUNKS,2025
+Donovan Clingan,1642270,Putback Layup Shot,2,17,12,Putback Layup,LAYUPS,2025
+Donovan Clingan,1642270,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2025
+Donovan Clingan,1642270,Running Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2025
+Donovan Clingan,1642270,Running Dunk Shot,2,4,3,Standard Dunk,DUNKS,2025
+Donovan Clingan,1642270,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2025
+Donovan Clingan,1642270,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2025
+Donovan Clingan,1642270,Step Back Jump shot,3,1,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
+Donovan Clingan,1642270,Tip Layup Shot,2,15,6,Putback Layup,LAYUPS,2025
+Donovan Clingan,1642270,Turnaround Bank Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2025
+Donovan Clingan,1642270,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2025

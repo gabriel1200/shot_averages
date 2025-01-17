@@ -1,17 +1,22 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Antonio Reeves,1641810,Alley Oop Dunk,2,1,1,DUNKS,,2025
-Antonio Reeves,1641810,Driving Hook Shot,2,1,0,POST_MOVES,,2025
-Antonio Reeves,1641810,Driving Layup,2,5,1,LAYUPS,,2025
-Antonio Reeves,1641810,Finger Roll,2,3,2,LAYUPS,,2025
-Antonio Reeves,1641810,Floating Jump Shot,2,13,6,FLOATING_SHOTS,,2025
-Antonio Reeves,1641810,Jump Shot,3,24,7,JUMP_SHOTS,,2025
-Antonio Reeves,1641810,Pullup Jump Shot,2,1,1,JUMP_SHOTS,,2025
-Antonio Reeves,1641810,Pullup Jump Shot,3,1,1,JUMP_SHOTS,,2025
-Antonio Reeves,1641810,Putback Layup,2,2,2,LAYUPS,,2025
-Antonio Reeves,1641810,Reverse Layup,2,2,2,LAYUPS,,2025
-Antonio Reeves,1641810,Running Jump Shot,3,6,2,JUMP_SHOTS,,2025
-Antonio Reeves,1641810,Standard Dunk,2,1,1,DUNKS,,2025
-Antonio Reeves,1641810,Standard Layup,2,6,4,LAYUPS,,2025
-Antonio Reeves,1641810,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2025
-Antonio Reeves,1641810,Step Back Jump Shot,3,6,1,JUMP_SHOTS,,2025
-Antonio Reeves,1641810,Turnaround Hook Shot,2,1,0,POST_MOVES,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Antonio Reeves,1641810,Cutting Layup Shot,2,2,1,Standard Layup,LAYUPS,2025
+Antonio Reeves,1641810,Driving Finger Roll Layup Shot,2,3,2,Finger Roll,LAYUPS,2025
+Antonio Reeves,1641810,Driving Floating Bank Jump Shot,2,5,4,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Antonio Reeves,1641810,Driving Floating Jump Shot,2,8,2,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Antonio Reeves,1641810,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2025
+Antonio Reeves,1641810,Driving Layup Shot,2,5,1,Driving Layup,LAYUPS,2025
+Antonio Reeves,1641810,Jump Shot,3,24,7,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Antonio Reeves,1641810,Pullup Jump shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
+Antonio Reeves,1641810,Pullup Jump shot,3,1,1,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
+Antonio Reeves,1641810,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2025
+Antonio Reeves,1641810,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2025
+Antonio Reeves,1641810,Running Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2025
+Antonio Reeves,1641810,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2025
+Antonio Reeves,1641810,Running Jump Shot,3,4,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Antonio Reeves,1641810,Running Layup Shot,2,4,3,Standard Layup,LAYUPS,2025
+Antonio Reeves,1641810,Running Pull-Up Jump Shot,3,2,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Antonio Reeves,1641810,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2025
+Antonio Reeves,1641810,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2025
+Antonio Reeves,1641810,Step Back Jump shot,3,6,1,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
+Antonio Reeves,1641810,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2025
+Antonio Reeves,1641810,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2025

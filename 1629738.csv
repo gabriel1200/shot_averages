@@ -1,19 +1,24 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Vincent Poirier,1629738,Alley Oop Dunk,2,4,4,DUNKS,,2020
-Vincent Poirier,1629738,Driving Hook Shot,2,1,0,POST_MOVES,,2020
-Vincent Poirier,1629738,Driving Layup,2,4,0,LAYUPS,,2020
-Vincent Poirier,1629738,Jump Shot,2,8,4,JUMP_SHOTS,,2020
-Vincent Poirier,1629738,Pullup Jump Shot,2,2,1,JUMP_SHOTS,,2020
-Vincent Poirier,1629738,Putback Dunk,2,2,2,DUNKS,,2020
-Vincent Poirier,1629738,Putback Layup,2,4,2,LAYUPS,,2020
-Vincent Poirier,1629738,Reverse Layup,2,1,0,LAYUPS,,2020
-Vincent Poirier,1629738,Standard Layup,2,5,3,LAYUPS,,2020
-Vincent Poirier,1629738,Turnaround Hook Shot,2,2,1,POST_MOVES,,2020
-Vincent Poirier,1629738,Turnaround Jump Shot,2,3,0,JUMP_SHOTS,,2020
-Vincent Poirier,1629738,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2021
-Vincent Poirier,1629738,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2021
-Vincent Poirier,1629738,Jump Shot,2,3,1,JUMP_SHOTS,,2021
-Vincent Poirier,1629738,Putback Layup,2,4,2,LAYUPS,,2021
-Vincent Poirier,1629738,Reverse Layup,2,1,0,LAYUPS,,2021
-Vincent Poirier,1629738,Standard Layup,2,1,0,LAYUPS,,2021
-Vincent Poirier,1629738,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2021
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Vincent Poirier,1629738,Alley Oop Dunk Shot,2,4,4,Alley Oop Dunk,DUNKS,2020
+Vincent Poirier,1629738,Cutting Layup Shot,2,2,2,Standard Layup,LAYUPS,2020
+Vincent Poirier,1629738,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2020
+Vincent Poirier,1629738,Driving Layup Shot,2,3,0,Driving Layup,LAYUPS,2020
+Vincent Poirier,1629738,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2020
+Vincent Poirier,1629738,Jump Shot,2,8,4,2PT Jump Shot,TWO_POINT_JUMPERS,2020
+Vincent Poirier,1629738,Layup Shot,2,3,1,Standard Layup,LAYUPS,2020
+Vincent Poirier,1629738,Pullup Jump shot,2,2,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2020
+Vincent Poirier,1629738,Putback Dunk Shot,2,2,2,Putback Dunk,DUNKS,2020
+Vincent Poirier,1629738,Putback Layup Shot,2,1,0,Putback Layup,LAYUPS,2020
+Vincent Poirier,1629738,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2020
+Vincent Poirier,1629738,Tip Layup Shot,2,3,2,Putback Layup,LAYUPS,2020
+Vincent Poirier,1629738,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2020
+Vincent Poirier,1629738,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,2020
+Vincent Poirier,1629738,Turnaround Jump Shot,2,2,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2020
+Vincent Poirier,1629738,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2021
+Vincent Poirier,1629738,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Vincent Poirier,1629738,Jump Shot,2,3,1,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Vincent Poirier,1629738,Layup Shot,2,1,0,Standard Layup,LAYUPS,2021
+Vincent Poirier,1629738,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2021
+Vincent Poirier,1629738,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2021
+Vincent Poirier,1629738,Tip Layup Shot,2,3,1,Putback Layup,LAYUPS,2021
+Vincent Poirier,1629738,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2021

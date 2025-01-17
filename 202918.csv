@@ -1,6 +1,6 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Xavier Silas,202918,Driving Layup,2,1,1,LAYUPS,,2012
-Xavier Silas,202918,Jump Shot,2,8,1,JUMP_SHOTS,,2012
-Xavier Silas,202918,Running Jump Shot,2,2,1,JUMP_SHOTS,,2012
-Xavier Silas,202918,Standard Layup,2,4,1,LAYUPS,,2012
-Xavier Silas,202918,Jump Shot,2,3,0,JUMP_SHOTS,,2018
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Xavier Silas,202918,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2012
+Xavier Silas,202918,Jump Shot,2,8,1,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Xavier Silas,202918,Layup Shot,2,4,1,Standard Layup,LAYUPS,2012
+Xavier Silas,202918,Running Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2012
+Xavier Silas,202918,Jump Shot,2,3,0,2PT Jump Shot,TWO_POINT_JUMPERS,2018

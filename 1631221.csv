@@ -1,13 +1,17 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Collin Gillespie,1631221,Driving Layup,2,7,5,LAYUPS,,2024
-Collin Gillespie,1631221,Finger Roll,2,2,1,LAYUPS,,2024
-Collin Gillespie,1631221,Floating Jump Shot,2,7,4,FLOATING_SHOTS,,2024
-Collin Gillespie,1631221,Jump Shot,3,26,9,JUMP_SHOTS,,2024
-Collin Gillespie,1631221,Pullup Jump Shot,2,9,4,JUMP_SHOTS,,2024
-Collin Gillespie,1631221,Pullup Jump Shot,3,8,3,JUMP_SHOTS,,2024
-Collin Gillespie,1631221,Running Jump Shot,3,1,1,JUMP_SHOTS,,2024
-Collin Gillespie,1631221,Standard Dunk,2,1,1,DUNKS,,2024
-Collin Gillespie,1631221,Standard Layup,2,5,2,LAYUPS,,2024
-Collin Gillespie,1631221,Step Back Jump Shot,3,3,2,JUMP_SHOTS,,2024
-Collin Gillespie,1631221,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2025
-Collin Gillespie,1631221,Jump Shot,3,1,1,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Collin Gillespie,1631221,Cutting Layup Shot,2,3,2,Standard Layup,LAYUPS,2024
+Collin Gillespie,1631221,Driving Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2024
+Collin Gillespie,1631221,Driving Floating Bank Jump Shot,2,4,2,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Collin Gillespie,1631221,Driving Floating Jump Shot,2,3,2,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Collin Gillespie,1631221,Driving Layup Shot,2,5,4,Driving Layup,LAYUPS,2024
+Collin Gillespie,1631221,Driving Reverse Layup Shot,2,2,1,Driving Layup,LAYUPS,2024
+Collin Gillespie,1631221,Jump Shot,3,26,9,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Collin Gillespie,1631221,Pullup Jump shot,2,9,4,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2024
+Collin Gillespie,1631221,Pullup Jump shot,3,8,3,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
+Collin Gillespie,1631221,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2024
+Collin Gillespie,1631221,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2024
+Collin Gillespie,1631221,Running Jump Shot,3,1,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Collin Gillespie,1631221,Running Layup Shot,2,2,0,Standard Layup,LAYUPS,2024
+Collin Gillespie,1631221,Step Back Jump shot,3,3,2,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
+Collin Gillespie,1631221,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
+Collin Gillespie,1631221,Jump Shot,3,1,1,3PT Jump Shot,THREE_POINT_JUMPERS,2025

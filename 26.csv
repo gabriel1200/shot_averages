@@ -1,40 +1,45 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Luc Longley,26,Driving Dunk,2,4,4,DUNKS,,1997
-Luc Longley,26,Driving Layup,2,6,4,LAYUPS,,1997
-Luc Longley,26,Hook Shot,2,50,31,POST_MOVES,,1997
-Luc Longley,26,Jump Shot,2,218,75,JUMP_SHOTS,,1997
-Luc Longley,26,Running Jump Shot,2,1,1,JUMP_SHOTS,,1997
-Luc Longley,26,Standard Dunk,2,24,21,DUNKS,,1997
-Luc Longley,26,Standard Layup,2,159,70,LAYUPS,,1997
-Luc Longley,26,Tip Shot,2,23,15,TIP_SHOTS,,1997
-Luc Longley,26,Driving Dunk,2,7,7,DUNKS,,1998
-Luc Longley,26,Driving Layup,2,10,8,LAYUPS,,1998
-Luc Longley,26,Hook Shot,2,76,29,POST_MOVES,,1998
-Luc Longley,26,Jump Shot,2,298,107,JUMP_SHOTS,,1998
-Luc Longley,26,Running Jump Shot,2,3,3,JUMP_SHOTS,,1998
-Luc Longley,26,Standard Dunk,2,38,32,DUNKS,,1998
-Luc Longley,26,Standard Layup,2,156,79,LAYUPS,,1998
-Luc Longley,26,Tip Shot,2,21,12,TIP_SHOTS,,1998
-Luc Longley,26,Driving Dunk,2,1,1,DUNKS,,1999
-Luc Longley,26,Driving Layup,2,3,3,LAYUPS,,1999
-Luc Longley,26,Hook Shot,2,37,18,POST_MOVES,,1999
-Luc Longley,26,Jump Shot,2,161,68,JUMP_SHOTS,,1999
-Luc Longley,26,Running Jump Shot,2,1,1,JUMP_SHOTS,,1999
-Luc Longley,26,Standard Dunk,2,10,10,DUNKS,,1999
-Luc Longley,26,Standard Layup,2,67,35,LAYUPS,,1999
-Luc Longley,26,Tip Shot,2,10,4,TIP_SHOTS,,1999
-Luc Longley,26,Driving Dunk,2,1,1,DUNKS,,2000
-Luc Longley,26,Driving Layup,2,5,3,LAYUPS,,2000
-Luc Longley,26,Hook Shot,2,58,31,POST_MOVES,,2000
-Luc Longley,26,Jump Shot,2,199,78,JUMP_SHOTS,,2000
-Luc Longley,26,Standard Dunk,2,24,22,DUNKS,,2000
-Luc Longley,26,Standard Layup,2,85,39,LAYUPS,,2000
-Luc Longley,26,Tip Shot,2,27,12,TIP_SHOTS,,2000
-Luc Longley,26,Driving Layup,2,1,1,LAYUPS,,2001
-Luc Longley,26,Finger Roll,2,1,0,LAYUPS,,2001
-Luc Longley,26,Hook Shot,2,4,0,POST_MOVES,,2001
-Luc Longley,26,Jump Shot,2,19,4,JUMP_SHOTS,,2001
-Luc Longley,26,Running Hook Shot,2,1,1,POST_MOVES,,2001
-Luc Longley,26,Standard Dunk,2,4,4,DUNKS,,2001
-Luc Longley,26,Standard Layup,2,17,7,LAYUPS,,2001
-Luc Longley,26,Tip Shot,2,7,1,TIP_SHOTS,,2001
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Luc Longley,26,Driving Dunk Shot,2,4,4,Driving Dunk,DUNKS,1997
+Luc Longley,26,Driving Layup Shot,2,6,4,Driving Layup,LAYUPS,1997
+Luc Longley,26,Dunk Shot,2,12,9,Standard Dunk,DUNKS,1997
+Luc Longley,26,Hook Shot,2,50,31,Hook Shot,POST_MOVES,1997
+Luc Longley,26,Jump Shot,2,218,75,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Luc Longley,26,Layup Shot,2,159,70,Standard Layup,LAYUPS,1997
+Luc Longley,26,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
+Luc Longley,26,Slam Dunk Shot,2,12,12,Standard Dunk,DUNKS,1997
+Luc Longley,26,Tip Shot,2,23,15,Tip Shot,TIP_SHOTS,1997
+Luc Longley,26,Driving Dunk Shot,2,7,7,Driving Dunk,DUNKS,1998
+Luc Longley,26,Driving Layup Shot,2,10,8,Driving Layup,LAYUPS,1998
+Luc Longley,26,Dunk Shot,2,35,29,Standard Dunk,DUNKS,1998
+Luc Longley,26,Hook Shot,2,76,29,Hook Shot,POST_MOVES,1998
+Luc Longley,26,Jump Shot,2,298,107,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+Luc Longley,26,Layup Shot,2,156,79,Standard Layup,LAYUPS,1998
+Luc Longley,26,Running Jump Shot,2,3,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
+Luc Longley,26,Slam Dunk Shot,2,3,3,Standard Dunk,DUNKS,1998
+Luc Longley,26,Tip Shot,2,21,12,Tip Shot,TIP_SHOTS,1998
+Luc Longley,26,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,1999
+Luc Longley,26,Driving Layup Shot,2,3,3,Driving Layup,LAYUPS,1999
+Luc Longley,26,Dunk Shot,2,8,8,Standard Dunk,DUNKS,1999
+Luc Longley,26,Hook Shot,2,37,18,Hook Shot,POST_MOVES,1999
+Luc Longley,26,Jump Shot,2,161,68,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Luc Longley,26,Layup Shot,2,67,35,Standard Layup,LAYUPS,1999
+Luc Longley,26,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999
+Luc Longley,26,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,1999
+Luc Longley,26,Tip Shot,2,10,4,Tip Shot,TIP_SHOTS,1999
+Luc Longley,26,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2000
+Luc Longley,26,Driving Layup Shot,2,5,3,Driving Layup,LAYUPS,2000
+Luc Longley,26,Dunk Shot,2,20,18,Standard Dunk,DUNKS,2000
+Luc Longley,26,Hook Shot,2,58,31,Hook Shot,POST_MOVES,2000
+Luc Longley,26,Jump Shot,2,199,78,2PT Jump Shot,TWO_POINT_JUMPERS,2000
+Luc Longley,26,Layup Shot,2,85,39,Standard Layup,LAYUPS,2000
+Luc Longley,26,Slam Dunk Shot,2,4,4,Standard Dunk,DUNKS,2000
+Luc Longley,26,Tip Shot,2,27,12,Tip Shot,TIP_SHOTS,2000
+Luc Longley,26,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2001
+Luc Longley,26,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2001
+Luc Longley,26,Finger Roll Shot,2,1,0,Finger Roll,LAYUPS,2001
+Luc Longley,26,Hook Shot,2,4,0,Hook Shot,POST_MOVES,2001
+Luc Longley,26,Jump Shot,2,19,4,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Luc Longley,26,Layup Shot,2,17,7,Standard Layup,LAYUPS,2001
+Luc Longley,26,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,2001
+Luc Longley,26,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,2001
+Luc Longley,26,Tip Shot,2,7,1,Tip Shot,TIP_SHOTS,2001

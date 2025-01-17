@@ -1,22 +1,30 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-DeQuan Jones,203199,Alley Oop Dunk,2,4,4,DUNKS,,2013
-DeQuan Jones,203199,Alley Oop Layup,2,1,0,LAYUPS,,2013
-DeQuan Jones,203199,Driving Dunk,2,9,8,DUNKS,,2013
-DeQuan Jones,203199,Driving Hook Shot,2,2,1,POST_MOVES,,2013
-DeQuan Jones,203199,Driving Layup,2,15,10,LAYUPS,,2013
-DeQuan Jones,203199,Fadeaway Jump Shot,2,2,1,JUMP_SHOTS,,2013
-DeQuan Jones,203199,Finger Roll,2,1,1,LAYUPS,,2013
-DeQuan Jones,203199,Floating Jump Shot,2,2,0,FLOATING_SHOTS,,2013
-DeQuan Jones,203199,Hook Shot,2,6,3,POST_MOVES,,2013
-DeQuan Jones,203199,Jump Shot,2,96,29,JUMP_SHOTS,,2013
-DeQuan Jones,203199,Pullup Jump Shot,2,5,2,JUMP_SHOTS,,2013
-DeQuan Jones,203199,Putback Dunk,2,1,1,DUNKS,,2013
-DeQuan Jones,203199,Putback Layup,2,1,1,LAYUPS,,2013
-DeQuan Jones,203199,Reverse Layup,2,2,0,LAYUPS,,2013
-DeQuan Jones,203199,Running Hook Shot,2,2,0,POST_MOVES,,2013
-DeQuan Jones,203199,Running Jump Shot,2,13,3,JUMP_SHOTS,,2013
-DeQuan Jones,203199,Standard Dunk,2,12,9,DUNKS,,2013
-DeQuan Jones,203199,Standard Layup,2,38,20,LAYUPS,,2013
-DeQuan Jones,203199,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2013
-DeQuan Jones,203199,Turnaround Hook Shot,2,1,1,POST_MOVES,,2013
-DeQuan Jones,203199,Turnaround Jump Shot,2,4,1,JUMP_SHOTS,,2013
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+DeQuan Jones,203199,Alley Oop Dunk Shot,2,4,4,Alley Oop Dunk,DUNKS,2013
+DeQuan Jones,203199,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2013
+DeQuan Jones,203199,Driving Dunk Shot,2,4,4,Driving Dunk,DUNKS,2013
+DeQuan Jones,203199,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,2013
+DeQuan Jones,203199,Driving Layup Shot,2,15,10,Driving Layup,LAYUPS,2013
+DeQuan Jones,203199,Driving Slam Dunk Shot,2,5,4,Driving Dunk,DUNKS,2013
+DeQuan Jones,203199,Dunk Shot,2,5,3,Standard Dunk,DUNKS,2013
+DeQuan Jones,203199,Fadeaway Jump Shot,2,2,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2013
+DeQuan Jones,203199,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2013
+DeQuan Jones,203199,Floating Jump shot,2,2,0,2PT Floating Jump Shot,FLOATING_SHOTS,2013
+DeQuan Jones,203199,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2013
+DeQuan Jones,203199,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2013
+DeQuan Jones,203199,Jump Hook Shot,2,5,2,Hook Shot,POST_MOVES,2013
+DeQuan Jones,203199,Jump Shot,2,95,28,2PT Jump Shot,TWO_POINT_JUMPERS,2013
+DeQuan Jones,203199,Layup Shot,2,30,16,Standard Layup,LAYUPS,2013
+DeQuan Jones,203199,Pullup Jump shot,2,5,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2013
+DeQuan Jones,203199,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2013
+DeQuan Jones,203199,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2013
+DeQuan Jones,203199,Reverse Layup Shot,2,2,0,Reverse Layup,LAYUPS,2013
+DeQuan Jones,203199,Running Bank shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2013
+DeQuan Jones,203199,Running Dunk Shot,2,1,0,Standard Dunk,DUNKS,2013
+DeQuan Jones,203199,Running Hook Shot,2,2,0,Running Hook Shot,POST_MOVES,2013
+DeQuan Jones,203199,Running Jump Shot,2,12,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2013
+DeQuan Jones,203199,Running Layup Shot,2,8,4,Standard Layup,LAYUPS,2013
+DeQuan Jones,203199,Slam Dunk Shot,2,6,6,Standard Dunk,DUNKS,2013
+DeQuan Jones,203199,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2013
+DeQuan Jones,203199,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2013
+DeQuan Jones,203199,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2013
+DeQuan Jones,203199,Turnaround Jump Shot,2,3,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2013

@@ -1,34 +1,52 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Isaiah Whitehead,1627785,Driving Dunk,2,4,4,DUNKS,,2017
-Isaiah Whitehead,1627785,Driving Hook Shot,2,3,2,POST_MOVES,,2017
-Isaiah Whitehead,1627785,Driving Jump Shot,2,4,2,JUMP_SHOTS,,2017
-Isaiah Whitehead,1627785,Driving Layup,2,113,59,LAYUPS,,2017
-Isaiah Whitehead,1627785,Finger Roll,2,3,2,LAYUPS,,2017
-Isaiah Whitehead,1627785,Floating Jump Shot,2,28,13,FLOATING_SHOTS,,2017
-Isaiah Whitehead,1627785,Hook Shot,2,1,0,POST_MOVES,,2017
-Isaiah Whitehead,1627785,Jump Shot,2,117,34,JUMP_SHOTS,,2017
-Isaiah Whitehead,1627785,Jump Shot,3,87,24,JUMP_SHOTS,,2017
-Isaiah Whitehead,1627785,Pullup Jump Shot,2,24,12,JUMP_SHOTS,,2017
-Isaiah Whitehead,1627785,Pullup Jump Shot,3,3,1,JUMP_SHOTS,,2017
-Isaiah Whitehead,1627785,Putback Layup,2,6,5,LAYUPS,,2017
-Isaiah Whitehead,1627785,Reverse Layup,2,9,5,LAYUPS,,2017
-Isaiah Whitehead,1627785,Running Jump Shot,2,12,2,JUMP_SHOTS,,2017
-Isaiah Whitehead,1627785,Specialty Dunk,2,1,0,DUNKS,,2017
-Isaiah Whitehead,1627785,Standard Dunk,2,3,2,DUNKS,,2017
-Isaiah Whitehead,1627785,Standard Layup,2,76,34,LAYUPS,,2017
-Isaiah Whitehead,1627785,Step Back Jump Shot,2,5,1,JUMP_SHOTS,,2017
-Isaiah Whitehead,1627785,Step Back Jump Shot,3,2,0,JUMP_SHOTS,,2017
-Isaiah Whitehead,1627785,Turnaround Jump Shot,2,6,2,JUMP_SHOTS,,2017
-Isaiah Whitehead,1627785,Driving Layup,2,25,15,LAYUPS,,2018
-Isaiah Whitehead,1627785,Fadeaway Jump Shot,2,2,0,JUMP_SHOTS,,2018
-Isaiah Whitehead,1627785,Floating Jump Shot,2,13,6,FLOATING_SHOTS,,2018
-Isaiah Whitehead,1627785,Hook Shot,2,1,0,POST_MOVES,,2018
-Isaiah Whitehead,1627785,Jump Shot,2,14,5,JUMP_SHOTS,,2018
-Isaiah Whitehead,1627785,Jump Shot,3,3,1,JUMP_SHOTS,,2018
-Isaiah Whitehead,1627785,Pullup Jump Shot,2,9,4,JUMP_SHOTS,,2018
-Isaiah Whitehead,1627785,Pullup Jump Shot,3,1,0,JUMP_SHOTS,,2018
-Isaiah Whitehead,1627785,Putback Layup,2,2,2,LAYUPS,,2018
-Isaiah Whitehead,1627785,Reverse Layup,2,5,2,LAYUPS,,2018
-Isaiah Whitehead,1627785,Standard Layup,2,6,2,LAYUPS,,2018
-Isaiah Whitehead,1627785,Step Back Jump Shot,2,4,3,JUMP_SHOTS,,2018
-Isaiah Whitehead,1627785,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2018
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Isaiah Whitehead,1627785,Cutting Dunk Shot,2,1,0,Specialty Dunk,DUNKS,2017
+Isaiah Whitehead,1627785,Cutting Layup Shot,2,6,6,Standard Layup,LAYUPS,2017
+Isaiah Whitehead,1627785,Driving Bank Hook Shot,2,2,2,Driving Hook Shot,POST_MOVES,2017
+Isaiah Whitehead,1627785,Driving Bank shot,2,4,2,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2017
+Isaiah Whitehead,1627785,Driving Dunk Shot,2,4,4,Driving Dunk,DUNKS,2017
+Isaiah Whitehead,1627785,Driving Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2017
+Isaiah Whitehead,1627785,Driving Floating Bank Jump Shot,2,3,3,2PT Floating Jump Shot,FLOATING_SHOTS,2017
+Isaiah Whitehead,1627785,Driving Floating Jump Shot,2,9,6,2PT Floating Jump Shot,FLOATING_SHOTS,2017
+Isaiah Whitehead,1627785,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2017
+Isaiah Whitehead,1627785,Driving Layup Shot,2,101,54,Driving Layup,LAYUPS,2017
+Isaiah Whitehead,1627785,Driving Reverse Layup Shot,2,12,5,Driving Layup,LAYUPS,2017
+Isaiah Whitehead,1627785,Dunk Shot,2,2,1,Standard Dunk,DUNKS,2017
+Isaiah Whitehead,1627785,Floating Jump shot,2,16,4,2PT Floating Jump Shot,FLOATING_SHOTS,2017
+Isaiah Whitehead,1627785,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2017
+Isaiah Whitehead,1627785,Jump Bank Shot,2,6,3,2PT Jump Shot,TWO_POINT_JUMPERS,2017
+Isaiah Whitehead,1627785,Jump Shot,2,111,31,2PT Jump Shot,TWO_POINT_JUMPERS,2017
+Isaiah Whitehead,1627785,Jump Shot,3,87,24,3PT Jump Shot,THREE_POINT_JUMPERS,2017
+Isaiah Whitehead,1627785,Layup Shot,2,45,11,Standard Layup,LAYUPS,2017
+Isaiah Whitehead,1627785,Pullup Bank shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2017
+Isaiah Whitehead,1627785,Pullup Jump shot,2,23,11,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2017
+Isaiah Whitehead,1627785,Pullup Jump shot,3,3,1,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2017
+Isaiah Whitehead,1627785,Putback Layup Shot,2,2,2,Putback Layup,LAYUPS,2017
+Isaiah Whitehead,1627785,Reverse Layup Shot,2,7,3,Reverse Layup,LAYUPS,2017
+Isaiah Whitehead,1627785,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2017
+Isaiah Whitehead,1627785,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2017
+Isaiah Whitehead,1627785,Running Jump Shot,2,11,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2017
+Isaiah Whitehead,1627785,Running Layup Shot,2,25,17,Standard Layup,LAYUPS,2017
+Isaiah Whitehead,1627785,Running Pull-Up Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2017
+Isaiah Whitehead,1627785,Running Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2017
+Isaiah Whitehead,1627785,Step Back Jump shot,2,5,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2017
+Isaiah Whitehead,1627785,Step Back Jump shot,3,2,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2017
+Isaiah Whitehead,1627785,Tip Layup Shot,2,4,3,Putback Layup,LAYUPS,2017
+Isaiah Whitehead,1627785,Turnaround Bank shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2017
+Isaiah Whitehead,1627785,Turnaround Jump Shot,2,5,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2017
+Isaiah Whitehead,1627785,Driving Floating Bank Jump Shot,2,2,2,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Isaiah Whitehead,1627785,Driving Floating Jump Shot,2,8,4,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Isaiah Whitehead,1627785,Driving Layup Shot,2,20,12,Driving Layup,LAYUPS,2018
+Isaiah Whitehead,1627785,Driving Reverse Layup Shot,2,5,3,Driving Layup,LAYUPS,2018
+Isaiah Whitehead,1627785,Fadeaway Jump Shot,2,2,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2018
+Isaiah Whitehead,1627785,Floating Jump shot,2,3,0,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Isaiah Whitehead,1627785,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2018
+Isaiah Whitehead,1627785,Jump Shot,2,14,5,2PT Jump Shot,TWO_POINT_JUMPERS,2018
+Isaiah Whitehead,1627785,Jump Shot,3,3,1,3PT Jump Shot,THREE_POINT_JUMPERS,2018
+Isaiah Whitehead,1627785,Layup Shot,2,6,2,Standard Layup,LAYUPS,2018
+Isaiah Whitehead,1627785,Pullup Jump shot,2,9,4,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2018
+Isaiah Whitehead,1627785,Pullup Jump shot,3,1,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2018
+Isaiah Whitehead,1627785,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2018
+Isaiah Whitehead,1627785,Reverse Layup Shot,2,5,2,Reverse Layup,LAYUPS,2018
+Isaiah Whitehead,1627785,Step Back Jump shot,2,4,3,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2018
+Isaiah Whitehead,1627785,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2018
+Isaiah Whitehead,1627785,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2018

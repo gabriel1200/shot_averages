@@ -1,4 +1,4 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Robert Werdann,438,Driving Layup,2,1,1,LAYUPS,,1997
-Robert Werdann,438,Standard Layup,2,3,0,LAYUPS,,1997
-Robert Werdann,438,Tip Shot,2,3,2,TIP_SHOTS,,1997
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Robert Werdann,438,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,1997
+Robert Werdann,438,Layup Shot,2,3,0,Standard Layup,LAYUPS,1997
+Robert Werdann,438,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,1997

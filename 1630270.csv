@@ -1,11 +1,11 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Xavier Sneed,1630270,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2022
-Xavier Sneed,1630270,Jump Shot,2,8,1,JUMP_SHOTS,,2022
-Xavier Sneed,1630270,Standard Layup,2,1,1,LAYUPS,,2022
-Xavier Sneed,1630270,Driving Dunk,2,1,1,DUNKS,,2023
-Xavier Sneed,1630270,Driving Layup,2,1,0,LAYUPS,,2023
-Xavier Sneed,1630270,Jump Shot,2,3,2,JUMP_SHOTS,,2023
-Xavier Sneed,1630270,Jump Shot,3,2,0,JUMP_SHOTS,,2023
-Xavier Sneed,1630270,Pullup Jump Shot,2,1,0,JUMP_SHOTS,,2023
-Xavier Sneed,1630270,Running Jump Shot,2,1,1,JUMP_SHOTS,,2023
-Xavier Sneed,1630270,Standard Layup,2,1,1,LAYUPS,,2023
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Xavier Sneed,1630270,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Xavier Sneed,1630270,Jump Shot,2,8,1,2PT Jump Shot,TWO_POINT_JUMPERS,2022
+Xavier Sneed,1630270,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2022
+Xavier Sneed,1630270,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2023
+Xavier Sneed,1630270,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2023
+Xavier Sneed,1630270,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2023
+Xavier Sneed,1630270,Jump Shot,2,3,2,2PT Jump Shot,TWO_POINT_JUMPERS,2023
+Xavier Sneed,1630270,Jump Shot,3,2,0,3PT Jump Shot,THREE_POINT_JUMPERS,2023
+Xavier Sneed,1630270,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2023
+Xavier Sneed,1630270,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2023

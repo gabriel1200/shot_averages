@@ -1,28 +1,33 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Tierre Brown,2357,Driving Layup,2,18,8,LAYUPS,,2002
-Tierre Brown,2357,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2002
-Tierre Brown,2357,Jump Shot,2,65,26,JUMP_SHOTS,,2002
-Tierre Brown,2357,Reverse Layup,2,6,6,LAYUPS,,2002
-Tierre Brown,2357,Running Jump Shot,2,6,2,JUMP_SHOTS,,2002
-Tierre Brown,2357,Standard Layup,2,15,6,LAYUPS,,2002
-Tierre Brown,2357,Tip Shot,2,1,1,TIP_SHOTS,,2002
-Tierre Brown,2357,Turnaround Jump Shot,2,3,0,JUMP_SHOTS,,2002
-Tierre Brown,2357,Driving Layup,2,10,9,LAYUPS,,2003
-Tierre Brown,2357,Fadeaway Jump Shot,2,3,1,JUMP_SHOTS,,2003
-Tierre Brown,2357,Finger Roll,2,2,2,LAYUPS,,2003
-Tierre Brown,2357,Jump Shot,2,28,7,JUMP_SHOTS,,2003
-Tierre Brown,2357,Reverse Layup,2,1,1,LAYUPS,,2003
-Tierre Brown,2357,Running Jump Shot,2,3,2,JUMP_SHOTS,,2003
-Tierre Brown,2357,Standard Layup,2,12,5,LAYUPS,,2003
-Tierre Brown,2357,Driving Layup,2,2,2,LAYUPS,,2004
-Tierre Brown,2357,Jump Shot,2,2,0,JUMP_SHOTS,,2004
-Tierre Brown,2357,Driving Layup,2,42,31,LAYUPS,,2005
-Tierre Brown,2357,Fadeaway Jump Shot,2,2,2,JUMP_SHOTS,,2005
-Tierre Brown,2357,Finger Roll,2,3,2,LAYUPS,,2005
-Tierre Brown,2357,Hook Shot,2,1,0,POST_MOVES,,2005
-Tierre Brown,2357,Jump Shot,2,210,67,JUMP_SHOTS,,2005
-Tierre Brown,2357,Jump Shot,3,2,0,JUMP_SHOTS,,2005
-Tierre Brown,2357,Reverse Layup,2,8,3,LAYUPS,,2005
-Tierre Brown,2357,Running Jump Shot,2,15,9,JUMP_SHOTS,,2005
-Tierre Brown,2357,Standard Layup,2,63,9,LAYUPS,,2005
-Tierre Brown,2357,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2005
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Tierre Brown,2357,Driving Layup Shot,2,18,8,Driving Layup,LAYUPS,2002
+Tierre Brown,2357,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2002
+Tierre Brown,2357,Jump Shot,2,65,26,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Tierre Brown,2357,Layup Shot,2,14,5,Standard Layup,LAYUPS,2002
+Tierre Brown,2357,Reverse Layup Shot,2,6,6,Reverse Layup,LAYUPS,2002
+Tierre Brown,2357,Running Jump Shot,2,6,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2002
+Tierre Brown,2357,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2002
+Tierre Brown,2357,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2002
+Tierre Brown,2357,Turnaround Jump Shot,2,3,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2002
+Tierre Brown,2357,Driving Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2003
+Tierre Brown,2357,Driving Layup Shot,2,10,9,Driving Layup,LAYUPS,2003
+Tierre Brown,2357,Fadeaway Jump Shot,2,3,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2003
+Tierre Brown,2357,Jump Shot,2,28,7,2PT Jump Shot,TWO_POINT_JUMPERS,2003
+Tierre Brown,2357,Layup Shot,2,12,5,Standard Layup,LAYUPS,2003
+Tierre Brown,2357,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2003
+Tierre Brown,2357,Running Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2003
+Tierre Brown,2357,Running Jump Shot,2,3,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2003
+Tierre Brown,2357,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,2004
+Tierre Brown,2357,Jump Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2004
+Tierre Brown,2357,Driving Finger Roll Shot,2,2,1,Finger Roll,LAYUPS,2005
+Tierre Brown,2357,Driving Layup Shot,2,42,31,Driving Layup,LAYUPS,2005
+Tierre Brown,2357,Fadeaway Jump Shot,2,2,2,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2005
+Tierre Brown,2357,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2005
+Tierre Brown,2357,Jump Bank Shot,2,10,8,2PT Jump Shot,TWO_POINT_JUMPERS,2005
+Tierre Brown,2357,Jump Shot,2,200,59,2PT Jump Shot,TWO_POINT_JUMPERS,2005
+Tierre Brown,2357,Jump Shot,3,2,0,3PT Jump Shot,THREE_POINT_JUMPERS,2005
+Tierre Brown,2357,Layup Shot,2,61,9,Standard Layup,LAYUPS,2005
+Tierre Brown,2357,Reverse Layup Shot,2,8,3,Reverse Layup,LAYUPS,2005
+Tierre Brown,2357,Running Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2005
+Tierre Brown,2357,Running Jump Shot,2,15,9,2PT Running Jump Shot,TWO_POINT_JUMPERS,2005
+Tierre Brown,2357,Running Layup Shot,2,2,0,Standard Layup,LAYUPS,2005
+Tierre Brown,2357,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2005

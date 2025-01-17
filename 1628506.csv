@@ -1,7 +1,8 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-London Perrantes,1628506,Driving Layup,2,1,0,LAYUPS,,2018
-London Perrantes,1628506,Finger Roll,2,1,1,LAYUPS,,2018
-London Perrantes,1628506,Floating Jump Shot,2,5,1,FLOATING_SHOTS,,2018
-London Perrantes,1628506,Jump Shot,2,4,0,JUMP_SHOTS,,2018
-London Perrantes,1628506,Pullup Jump Shot,2,1,0,JUMP_SHOTS,,2018
-London Perrantes,1628506,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2018
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+London Perrantes,1628506,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2018
+London Perrantes,1628506,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+London Perrantes,1628506,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2018
+London Perrantes,1628506,Floating Jump shot,2,4,1,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+London Perrantes,1628506,Jump Shot,2,4,0,2PT Jump Shot,TWO_POINT_JUMPERS,2018
+London Perrantes,1628506,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2018
+London Perrantes,1628506,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2018

@@ -1,26 +1,32 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Randolph Morris,201043,Jump Shot,2,4,0,JUMP_SHOTS,,2007
-Randolph Morris,201043,Standard Layup,2,2,1,LAYUPS,,2007
-Randolph Morris,201043,Alley Oop Layup,2,2,2,LAYUPS,,2008
-Randolph Morris,201043,Driving Layup,2,1,1,LAYUPS,,2008
-Randolph Morris,201043,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2008
-Randolph Morris,201043,Hook Shot,2,3,1,POST_MOVES,,2008
-Randolph Morris,201043,Jump Shot,2,25,3,JUMP_SHOTS,,2008
-Randolph Morris,201043,Putback Dunk,2,2,1,DUNKS,,2008
-Randolph Morris,201043,Reverse Layup,2,1,1,LAYUPS,,2008
-Randolph Morris,201043,Standard Layup,2,5,3,LAYUPS,,2008
-Randolph Morris,201043,Tip Shot,2,3,0,TIP_SHOTS,,2008
-Randolph Morris,201043,Turnaround Jump Shot,2,15,8,JUMP_SHOTS,,2008
-Randolph Morris,201043,Jump Shot,2,10,3,JUMP_SHOTS,,2009
-Randolph Morris,201043,Standard Layup,2,2,2,LAYUPS,,2009
-Randolph Morris,201043,Tip Shot,2,1,0,TIP_SHOTS,,2009
-Randolph Morris,201043,Turnaround Jump Shot,2,4,2,JUMP_SHOTS,,2009
-Randolph Morris,201043,Driving Dunk,2,2,0,DUNKS,,2010
-Randolph Morris,201043,Driving Layup,2,3,2,LAYUPS,,2010
-Randolph Morris,201043,Hook Shot,2,2,0,POST_MOVES,,2010
-Randolph Morris,201043,Jump Shot,2,9,6,JUMP_SHOTS,,2010
-Randolph Morris,201043,Putback Layup,2,3,3,LAYUPS,,2010
-Randolph Morris,201043,Standard Dunk,2,1,1,DUNKS,,2010
-Randolph Morris,201043,Standard Layup,2,3,2,LAYUPS,,2010
-Randolph Morris,201043,Tip Shot,2,4,1,TIP_SHOTS,,2010
-Randolph Morris,201043,Turnaround Jump Shot,2,14,8,JUMP_SHOTS,,2010
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Randolph Morris,201043,Jump Shot,2,4,0,2PT Jump Shot,TWO_POINT_JUMPERS,2007
+Randolph Morris,201043,Layup Shot,2,2,1,Standard Layup,LAYUPS,2007
+Randolph Morris,201043,Alley Oop Layup shot,2,2,2,Alley Oop Layup,LAYUPS,2008
+Randolph Morris,201043,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2008
+Randolph Morris,201043,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2008
+Randolph Morris,201043,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2008
+Randolph Morris,201043,Jump Hook Shot,2,2,1,Hook Shot,POST_MOVES,2008
+Randolph Morris,201043,Jump Shot,2,25,3,2PT Jump Shot,TWO_POINT_JUMPERS,2008
+Randolph Morris,201043,Layup Shot,2,4,2,Standard Layup,LAYUPS,2008
+Randolph Morris,201043,Putback Dunk Shot,2,2,1,Putback Dunk,DUNKS,2008
+Randolph Morris,201043,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2008
+Randolph Morris,201043,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2008
+Randolph Morris,201043,Tip Shot,2,3,0,Tip Shot,TIP_SHOTS,2008
+Randolph Morris,201043,Turnaround Bank shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2008
+Randolph Morris,201043,Turnaround Jump Shot,2,14,7,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2008
+Randolph Morris,201043,Jump Shot,2,10,3,2PT Jump Shot,TWO_POINT_JUMPERS,2009
+Randolph Morris,201043,Layup Shot,2,1,1,Standard Layup,LAYUPS,2009
+Randolph Morris,201043,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2009
+Randolph Morris,201043,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2009
+Randolph Morris,201043,Turnaround Jump Shot,2,4,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2009
+Randolph Morris,201043,Driving Dunk Shot,2,2,0,Driving Dunk,DUNKS,2010
+Randolph Morris,201043,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2010
+Randolph Morris,201043,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2010
+Randolph Morris,201043,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2010
+Randolph Morris,201043,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2010
+Randolph Morris,201043,Jump Bank Hook Shot,2,1,0,Hook Shot,POST_MOVES,2010
+Randolph Morris,201043,Jump Shot,2,9,6,2PT Jump Shot,TWO_POINT_JUMPERS,2010
+Randolph Morris,201043,Layup Shot,2,3,2,Standard Layup,LAYUPS,2010
+Randolph Morris,201043,Putback Layup Shot,2,3,3,Putback Layup,LAYUPS,2010
+Randolph Morris,201043,Tip Shot,2,4,1,Tip Shot,TIP_SHOTS,2010
+Randolph Morris,201043,Turnaround Jump Shot,2,14,8,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2010

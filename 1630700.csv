@@ -1,57 +1,95 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Dyson Daniels,1630700,Alley Oop Dunk,2,1,1,DUNKS,,2023
-Dyson Daniels,1630700,Driving Dunk,2,1,1,DUNKS,,2023
-Dyson Daniels,1630700,Driving Layup,2,22,9,LAYUPS,,2023
-Dyson Daniels,1630700,Finger Roll,2,13,6,LAYUPS,,2023
-Dyson Daniels,1630700,Floating Jump Shot,2,22,7,FLOATING_SHOTS,,2023
-Dyson Daniels,1630700,Hook Shot,2,1,1,POST_MOVES,,2023
-Dyson Daniels,1630700,Jump Shot,2,71,22,JUMP_SHOTS,,2023
-Dyson Daniels,1630700,Pullup Jump Shot,2,7,2,JUMP_SHOTS,,2023
-Dyson Daniels,1630700,Putback Layup,2,10,7,LAYUPS,,2023
-Dyson Daniels,1630700,Reverse Layup,2,4,0,LAYUPS,,2023
-Dyson Daniels,1630700,Running Jump Shot,2,6,4,JUMP_SHOTS,,2023
-Dyson Daniels,1630700,Specialty Dunk,2,2,2,DUNKS,,2023
-Dyson Daniels,1630700,Standard Dunk,2,3,3,DUNKS,,2023
-Dyson Daniels,1630700,Standard Layup,2,26,16,LAYUPS,,2023
-Dyson Daniels,1630700,Step Back Jump Shot,2,5,1,JUMP_SHOTS,,2023
-Dyson Daniels,1630700,Turnaround Hook Shot,2,6,2,POST_MOVES,,2023
-Dyson Daniels,1630700,Turnaround Jump Shot,2,8,3,JUMP_SHOTS,,2023
-Dyson Daniels,1630700,Driving Dunk,2,2,2,DUNKS,,2024
-Dyson Daniels,1630700,Driving Hook Shot,2,3,0,POST_MOVES,,2024
-Dyson Daniels,1630700,Driving Layup,2,18,10,LAYUPS,,2024
-Dyson Daniels,1630700,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2024
-Dyson Daniels,1630700,Finger Roll,2,17,11,LAYUPS,,2024
-Dyson Daniels,1630700,Floating Jump Shot,2,63,32,FLOATING_SHOTS,,2024
-Dyson Daniels,1630700,Jump Shot,3,122,38,JUMP_SHOTS,,2024
-Dyson Daniels,1630700,Pullup Jump Shot,3,8,2,JUMP_SHOTS,,2024
-Dyson Daniels,1630700,Putback Dunk,2,1,1,DUNKS,,2024
-Dyson Daniels,1630700,Putback Layup,2,16,8,LAYUPS,,2024
-Dyson Daniels,1630700,Reverse Layup,2,6,4,LAYUPS,,2024
-Dyson Daniels,1630700,Running Jump Shot,2,2,1,JUMP_SHOTS,,2024
-Dyson Daniels,1630700,Running Jump Shot,3,4,1,JUMP_SHOTS,,2024
-Dyson Daniels,1630700,Specialty Dunk,2,7,5,DUNKS,,2024
-Dyson Daniels,1630700,Standard Dunk,2,7,5,DUNKS,,2024
-Dyson Daniels,1630700,Standard Layup,2,23,13,LAYUPS,,2024
-Dyson Daniels,1630700,Step Back Jump Shot,3,1,1,JUMP_SHOTS,,2024
-Dyson Daniels,1630700,Turnaround Hook Shot,2,6,2,POST_MOVES,,2024
-Dyson Daniels,1630700,Turnaround Jump Shot,2,4,3,JUMP_SHOTS,,2024
-Dyson Daniels,1630700,Alley Oop Dunk,2,5,5,DUNKS,,2025
-Dyson Daniels,1630700,Alley Oop Layup,2,3,0,LAYUPS,,2025
-Dyson Daniels,1630700,Driving Dunk,2,2,1,DUNKS,,2025
-Dyson Daniels,1630700,Driving Layup,2,41,20,LAYUPS,,2025
-Dyson Daniels,1630700,Fadeaway Jump Shot,3,1,0,JUMP_SHOTS,,2025
-Dyson Daniels,1630700,Finger Roll,2,30,18,LAYUPS,,2025
-Dyson Daniels,1630700,Floating Jump Shot,2,127,57,FLOATING_SHOTS,,2025
-Dyson Daniels,1630700,Hook Shot,2,1,0,POST_MOVES,,2025
-Dyson Daniels,1630700,Jump Shot,3,104,31,JUMP_SHOTS,,2025
-Dyson Daniels,1630700,Pullup Jump Shot,2,2,1,JUMP_SHOTS,,2025
-Dyson Daniels,1630700,Pullup Jump Shot,3,15,5,JUMP_SHOTS,,2025
-Dyson Daniels,1630700,Putback Layup,2,26,15,LAYUPS,,2025
-Dyson Daniels,1630700,Reverse Layup,2,5,4,LAYUPS,,2025
-Dyson Daniels,1630700,Running Jump Shot,3,11,5,JUMP_SHOTS,,2025
-Dyson Daniels,1630700,Specialty Dunk,2,2,1,DUNKS,,2025
-Dyson Daniels,1630700,Standard Dunk,2,8,8,DUNKS,,2025
-Dyson Daniels,1630700,Standard Layup,2,36,24,LAYUPS,,2025
-Dyson Daniels,1630700,Step Back Jump Shot,3,5,2,JUMP_SHOTS,,2025
-Dyson Daniels,1630700,Turnaround Hook Shot,2,5,0,POST_MOVES,,2025
-Dyson Daniels,1630700,Turnaround Jump Shot,2,9,0,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Dyson Daniels,1630700,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2023
+Dyson Daniels,1630700,Cutting Layup Shot,2,5,5,Standard Layup,LAYUPS,2023
+Dyson Daniels,1630700,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2023
+Dyson Daniels,1630700,Driving Finger Roll Layup Shot,2,13,6,Finger Roll,LAYUPS,2023
+Dyson Daniels,1630700,Driving Floating Bank Jump Shot,2,3,1,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Dyson Daniels,1630700,Driving Floating Jump Shot,2,13,3,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Dyson Daniels,1630700,Driving Layup Shot,2,20,8,Driving Layup,LAYUPS,2023
+Dyson Daniels,1630700,Driving Reverse Layup Shot,2,2,1,Driving Layup,LAYUPS,2023
+Dyson Daniels,1630700,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2023
+Dyson Daniels,1630700,Floating Jump shot,2,6,3,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Dyson Daniels,1630700,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2023
+Dyson Daniels,1630700,Jump Shot,2,71,22,2PT Jump Shot,TWO_POINT_JUMPERS,2023
+Dyson Daniels,1630700,Layup Shot,2,4,3,Standard Layup,LAYUPS,2023
+Dyson Daniels,1630700,Pullup Jump shot,2,7,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2023
+Dyson Daniels,1630700,Putback Layup Shot,2,7,4,Putback Layup,LAYUPS,2023
+Dyson Daniels,1630700,Reverse Layup Shot,2,2,0,Reverse Layup,LAYUPS,2023
+Dyson Daniels,1630700,Running Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2023
+Dyson Daniels,1630700,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2023
+Dyson Daniels,1630700,Running Jump Shot,2,4,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2023
+Dyson Daniels,1630700,Running Layup Shot,2,17,8,Standard Layup,LAYUPS,2023
+Dyson Daniels,1630700,Running Pull-Up Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2023
+Dyson Daniels,1630700,Running Reverse Layup Shot,2,2,0,Reverse Layup,LAYUPS,2023
+Dyson Daniels,1630700,Step Back Jump shot,2,5,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2023
+Dyson Daniels,1630700,Tip Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2023
+Dyson Daniels,1630700,Tip Layup Shot,2,3,3,Putback Layup,LAYUPS,2023
+Dyson Daniels,1630700,Turnaround Bank Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2023
+Dyson Daniels,1630700,Turnaround Fadeaway shot,2,2,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2023
+Dyson Daniels,1630700,Turnaround Hook Shot,2,5,2,Turnaround Hook Shot,POST_MOVES,2023
+Dyson Daniels,1630700,Turnaround Jump Shot,2,6,3,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2023
+Dyson Daniels,1630700,Cutting Dunk Shot,2,7,5,Specialty Dunk,DUNKS,2024
+Dyson Daniels,1630700,Cutting Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2024
+Dyson Daniels,1630700,Cutting Layup Shot,2,8,5,Standard Layup,LAYUPS,2024
+Dyson Daniels,1630700,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2024
+Dyson Daniels,1630700,Driving Finger Roll Layup Shot,2,12,8,Finger Roll,LAYUPS,2024
+Dyson Daniels,1630700,Driving Floating Bank Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Dyson Daniels,1630700,Driving Floating Jump Shot,2,45,23,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Dyson Daniels,1630700,Driving Hook Shot,2,3,0,Driving Hook Shot,POST_MOVES,2024
+Dyson Daniels,1630700,Driving Layup Shot,2,17,9,Driving Layup,LAYUPS,2024
+Dyson Daniels,1630700,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2024
+Dyson Daniels,1630700,Dunk Shot,2,1,0,Standard Dunk,DUNKS,2024
+Dyson Daniels,1630700,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
+Dyson Daniels,1630700,Floating Jump shot,2,17,8,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Dyson Daniels,1630700,Jump Shot,3,122,38,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Dyson Daniels,1630700,Layup Shot,2,6,3,Standard Layup,LAYUPS,2024
+Dyson Daniels,1630700,Pullup Jump shot,3,8,2,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
+Dyson Daniels,1630700,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2024
+Dyson Daniels,1630700,Putback Layup Shot,2,8,5,Putback Layup,LAYUPS,2024
+Dyson Daniels,1630700,Reverse Layup Shot,2,6,4,Reverse Layup,LAYUPS,2024
+Dyson Daniels,1630700,Running Dunk Shot,2,6,5,Standard Dunk,DUNKS,2024
+Dyson Daniels,1630700,Running Finger Roll Layup Shot,2,4,2,Finger Roll,LAYUPS,2024
+Dyson Daniels,1630700,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2024
+Dyson Daniels,1630700,Running Jump Shot,3,4,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Dyson Daniels,1630700,Running Layup Shot,2,9,5,Standard Layup,LAYUPS,2024
+Dyson Daniels,1630700,Running Pull-Up Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2024
+Dyson Daniels,1630700,Step Back Jump shot,3,1,1,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
+Dyson Daniels,1630700,Tip Layup Shot,2,8,3,Putback Layup,LAYUPS,2024
+Dyson Daniels,1630700,Turnaround Hook Shot,2,6,2,Turnaround Hook Shot,POST_MOVES,2024
+Dyson Daniels,1630700,Turnaround Jump Shot,2,4,3,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Dyson Daniels,1630700,Alley Oop Dunk Shot,2,3,3,Alley Oop Dunk,DUNKS,2025
+Dyson Daniels,1630700,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2025
+Dyson Daniels,1630700,Cutting Dunk Shot,2,2,1,Specialty Dunk,DUNKS,2025
+Dyson Daniels,1630700,Cutting Finger Roll Layup Shot,2,3,3,Finger Roll,LAYUPS,2025
+Dyson Daniels,1630700,Cutting Layup Shot,2,7,5,Standard Layup,LAYUPS,2025
+Dyson Daniels,1630700,Driving Dunk Shot,2,2,1,Driving Dunk,DUNKS,2025
+Dyson Daniels,1630700,Driving Finger Roll Layup Shot,2,20,10,Finger Roll,LAYUPS,2025
+Dyson Daniels,1630700,Driving Floating Bank Jump Shot,2,19,8,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Dyson Daniels,1630700,Driving Floating Jump Shot,2,68,28,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Dyson Daniels,1630700,Driving Layup Shot,2,37,18,Driving Layup,LAYUPS,2025
+Dyson Daniels,1630700,Driving Reverse Layup Shot,2,4,2,Driving Layup,LAYUPS,2025
+Dyson Daniels,1630700,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2025
+Dyson Daniels,1630700,Fadeaway Jump Shot,3,1,0,3PT Fadeaway Jump Shot,THREE_POINT_JUMPERS,2025
+Dyson Daniels,1630700,Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2025
+Dyson Daniels,1630700,Floating Jump shot,2,40,21,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Dyson Daniels,1630700,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2025
+Dyson Daniels,1630700,Jump Shot,3,104,31,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Dyson Daniels,1630700,Layup Shot,2,3,1,Standard Layup,LAYUPS,2025
+Dyson Daniels,1630700,Pullup Jump shot,2,2,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
+Dyson Daniels,1630700,Pullup Jump shot,3,15,5,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
+Dyson Daniels,1630700,Putback Layup Shot,2,7,6,Putback Layup,LAYUPS,2025
+Dyson Daniels,1630700,Reverse Layup Shot,2,3,2,Reverse Layup,LAYUPS,2025
+Dyson Daniels,1630700,Running Alley Oop Dunk Shot,2,2,2,Alley Oop Dunk,DUNKS,2025
+Dyson Daniels,1630700,Running Alley Oop Layup Shot,2,2,0,Alley Oop Layup,LAYUPS,2025
+Dyson Daniels,1630700,Running Dunk Shot,2,7,7,Standard Dunk,DUNKS,2025
+Dyson Daniels,1630700,Running Finger Roll Layup Shot,2,5,4,Finger Roll,LAYUPS,2025
+Dyson Daniels,1630700,Running Jump Shot,3,9,4,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Dyson Daniels,1630700,Running Layup Shot,2,26,18,Standard Layup,LAYUPS,2025
+Dyson Daniels,1630700,Running Pull-Up Jump Shot,3,2,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Dyson Daniels,1630700,Running Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2025
+Dyson Daniels,1630700,Step Back Jump shot,3,5,2,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
+Dyson Daniels,1630700,Tip Layup Shot,2,19,9,Putback Layup,LAYUPS,2025
+Dyson Daniels,1630700,Turnaround Bank shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+Dyson Daniels,1630700,Turnaround Fadeaway shot,2,4,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+Dyson Daniels,1630700,Turnaround Hook Shot,2,5,0,Turnaround Hook Shot,POST_MOVES,2025
+Dyson Daniels,1630700,Turnaround Jump Shot,2,4,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025

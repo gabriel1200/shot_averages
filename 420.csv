@@ -1,24 +1,27 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jayson Williams,420,Driving Dunk,2,9,8,DUNKS,,1997
-Jayson Williams,420,Driving Layup,2,27,20,LAYUPS,,1997
-Jayson Williams,420,Hook Shot,2,12,7,POST_MOVES,,1997
-Jayson Williams,420,Jump Shot,2,228,80,JUMP_SHOTS,,1997
-Jayson Williams,420,Running Jump Shot,2,6,4,JUMP_SHOTS,,1997
-Jayson Williams,420,Standard Dunk,2,54,50,DUNKS,,1997
-Jayson Williams,420,Standard Layup,2,127,48,LAYUPS,,1997
-Jayson Williams,420,Tip Shot,2,77,4,TIP_SHOTS,,1997
-Jayson Williams,420,Driving Dunk,2,10,9,DUNKS,,1998
-Jayson Williams,420,Driving Layup,2,44,30,LAYUPS,,1998
-Jayson Williams,420,Hook Shot,2,24,13,POST_MOVES,,1998
-Jayson Williams,420,Jump Shot,2,160,52,JUMP_SHOTS,,1998
-Jayson Williams,420,Running Jump Shot,2,11,8,JUMP_SHOTS,,1998
-Jayson Williams,420,Standard Dunk,2,87,83,DUNKS,,1998
-Jayson Williams,420,Standard Layup,2,140,75,LAYUPS,,1998
-Jayson Williams,420,Tip Shot,2,169,51,TIP_SHOTS,,1998
-Jayson Williams,420,Driving Layup,2,6,5,LAYUPS,,1999
-Jayson Williams,420,Hook Shot,2,12,6,POST_MOVES,,1999
-Jayson Williams,420,Jump Shot,2,88,30,JUMP_SHOTS,,1999
-Jayson Williams,420,Running Jump Shot,2,4,3,JUMP_SHOTS,,1999
-Jayson Williams,420,Standard Dunk,2,18,15,DUNKS,,1999
-Jayson Williams,420,Standard Layup,2,45,28,LAYUPS,,1999
-Jayson Williams,420,Tip Shot,2,45,10,TIP_SHOTS,,1999
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Jayson Williams,420,Driving Dunk Shot,2,9,8,Driving Dunk,DUNKS,1997
+Jayson Williams,420,Driving Layup Shot,2,27,20,Driving Layup,LAYUPS,1997
+Jayson Williams,420,Dunk Shot,2,36,32,Standard Dunk,DUNKS,1997
+Jayson Williams,420,Hook Shot,2,12,7,Hook Shot,POST_MOVES,1997
+Jayson Williams,420,Jump Shot,2,228,80,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Jayson Williams,420,Layup Shot,2,127,48,Standard Layup,LAYUPS,1997
+Jayson Williams,420,Running Jump Shot,2,6,4,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
+Jayson Williams,420,Slam Dunk Shot,2,18,18,Standard Dunk,DUNKS,1997
+Jayson Williams,420,Tip Shot,2,77,4,Tip Shot,TIP_SHOTS,1997
+Jayson Williams,420,Driving Dunk Shot,2,10,9,Driving Dunk,DUNKS,1998
+Jayson Williams,420,Driving Layup Shot,2,44,30,Driving Layup,LAYUPS,1998
+Jayson Williams,420,Dunk Shot,2,55,52,Standard Dunk,DUNKS,1998
+Jayson Williams,420,Hook Shot,2,24,13,Hook Shot,POST_MOVES,1998
+Jayson Williams,420,Jump Shot,2,160,52,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+Jayson Williams,420,Layup Shot,2,140,75,Standard Layup,LAYUPS,1998
+Jayson Williams,420,Running Jump Shot,2,11,8,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
+Jayson Williams,420,Slam Dunk Shot,2,32,31,Standard Dunk,DUNKS,1998
+Jayson Williams,420,Tip Shot,2,169,51,Tip Shot,TIP_SHOTS,1998
+Jayson Williams,420,Driving Layup Shot,2,6,5,Driving Layup,LAYUPS,1999
+Jayson Williams,420,Dunk Shot,2,13,10,Standard Dunk,DUNKS,1999
+Jayson Williams,420,Hook Shot,2,12,6,Hook Shot,POST_MOVES,1999
+Jayson Williams,420,Jump Shot,2,88,30,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Jayson Williams,420,Layup Shot,2,45,28,Standard Layup,LAYUPS,1999
+Jayson Williams,420,Running Jump Shot,2,4,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999
+Jayson Williams,420,Slam Dunk Shot,2,5,5,Standard Dunk,DUNKS,1999
+Jayson Williams,420,Tip Shot,2,45,10,Tip Shot,TIP_SHOTS,1999

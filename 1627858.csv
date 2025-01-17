@@ -1,14 +1,22 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Kyle Collinsworth,1627858,Driving Hook Shot,2,1,1,POST_MOVES,,2018
-Kyle Collinsworth,1627858,Driving Layup,2,16,6,LAYUPS,,2018
-Kyle Collinsworth,1627858,Finger Roll,2,8,4,LAYUPS,,2018
-Kyle Collinsworth,1627858,Floating Jump Shot,2,21,9,FLOATING_SHOTS,,2018
-Kyle Collinsworth,1627858,Jump Shot,2,16,2,JUMP_SHOTS,,2018
-Kyle Collinsworth,1627858,Jump Shot,3,4,2,JUMP_SHOTS,,2018
-Kyle Collinsworth,1627858,Pullup Jump Shot,2,2,1,JUMP_SHOTS,,2018
-Kyle Collinsworth,1627858,Putback Layup,2,13,4,LAYUPS,,2018
-Kyle Collinsworth,1627858,Reverse Layup,2,2,1,LAYUPS,,2018
-Kyle Collinsworth,1627858,Specialty Dunk,2,3,3,DUNKS,,2018
-Kyle Collinsworth,1627858,Standard Dunk,2,2,2,DUNKS,,2018
-Kyle Collinsworth,1627858,Standard Layup,2,8,2,LAYUPS,,2018
-Kyle Collinsworth,1627858,Turnaround Jump Shot,2,3,1,JUMP_SHOTS,,2018
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Kyle Collinsworth,1627858,Cutting Dunk Shot,2,2,2,Specialty Dunk,DUNKS,2018
+Kyle Collinsworth,1627858,Driving Finger Roll Layup Shot,2,6,4,Finger Roll,LAYUPS,2018
+Kyle Collinsworth,1627858,Driving Floating Bank Jump Shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Kyle Collinsworth,1627858,Driving Floating Jump Shot,2,11,4,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Kyle Collinsworth,1627858,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2018
+Kyle Collinsworth,1627858,Driving Layup Shot,2,15,6,Driving Layup,LAYUPS,2018
+Kyle Collinsworth,1627858,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2018
+Kyle Collinsworth,1627858,Finger Roll Layup Shot,2,2,0,Finger Roll,LAYUPS,2018
+Kyle Collinsworth,1627858,Floating Jump shot,2,8,4,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Kyle Collinsworth,1627858,Jump Shot,2,16,2,2PT Jump Shot,TWO_POINT_JUMPERS,2018
+Kyle Collinsworth,1627858,Jump Shot,3,4,2,3PT Jump Shot,THREE_POINT_JUMPERS,2018
+Kyle Collinsworth,1627858,Layup Shot,2,6,1,Standard Layup,LAYUPS,2018
+Kyle Collinsworth,1627858,Pullup Jump shot,2,2,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2018
+Kyle Collinsworth,1627858,Putback Layup Shot,2,5,2,Putback Layup,LAYUPS,2018
+Kyle Collinsworth,1627858,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2018
+Kyle Collinsworth,1627858,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2018
+Kyle Collinsworth,1627858,Running Layup Shot,2,2,1,Standard Layup,LAYUPS,2018
+Kyle Collinsworth,1627858,Tip Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2018
+Kyle Collinsworth,1627858,Tip Layup Shot,2,8,2,Putback Layup,LAYUPS,2018
+Kyle Collinsworth,1627858,Turnaround Fadeaway Bank Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2018
+Kyle Collinsworth,1627858,Turnaround Jump Shot,2,2,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2018

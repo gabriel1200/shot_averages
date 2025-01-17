@@ -1,13 +1,15 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Leonard Miller,1631159,Alley Oop Layup,2,1,1,LAYUPS,,2024
-Leonard Miller,1631159,Driving Layup,2,1,0,LAYUPS,,2024
-Leonard Miller,1631159,Jump Shot,3,4,1,JUMP_SHOTS,,2024
-Leonard Miller,1631159,Pullup Jump Shot,2,1,1,JUMP_SHOTS,,2024
-Leonard Miller,1631159,Putback Layup,2,3,2,LAYUPS,,2024
-Leonard Miller,1631159,Reverse Layup,2,2,2,LAYUPS,,2024
-Leonard Miller,1631159,Running Jump Shot,3,1,1,JUMP_SHOTS,,2024
-Leonard Miller,1631159,Standard Layup,2,4,3,LAYUPS,,2024
-Leonard Miller,1631159,Step Back Jump Shot,2,1,1,JUMP_SHOTS,,2024
-Leonard Miller,1631159,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2024
-Leonard Miller,1631159,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2025
-Leonard Miller,1631159,Jump Shot,3,1,0,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Leonard Miller,1631159,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2024
+Leonard Miller,1631159,Cutting Layup Shot,2,1,0,Standard Layup,LAYUPS,2024
+Leonard Miller,1631159,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2024
+Leonard Miller,1631159,Jump Shot,3,4,1,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Leonard Miller,1631159,Layup Shot,2,3,3,Standard Layup,LAYUPS,2024
+Leonard Miller,1631159,Pullup Jump shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2024
+Leonard Miller,1631159,Putback Layup Shot,2,3,2,Putback Layup,LAYUPS,2024
+Leonard Miller,1631159,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2024
+Leonard Miller,1631159,Running Jump Shot,3,1,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Leonard Miller,1631159,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2024
+Leonard Miller,1631159,Step Back Jump shot,2,1,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2024
+Leonard Miller,1631159,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Leonard Miller,1631159,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
+Leonard Miller,1631159,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2025

@@ -1,11 +1,13 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jay Williams,2398,Alley Oop Dunk,2,1,1,DUNKS,,2003
-Jay Williams,2398,Driving Dunk,2,3,3,DUNKS,,2003
-Jay Williams,2398,Driving Layup,2,56,44,LAYUPS,,2003
-Jay Williams,2398,Finger Roll,2,3,2,LAYUPS,,2003
-Jay Williams,2398,Jump Shot,2,442,133,JUMP_SHOTS,,2003
-Jay Williams,2398,Reverse Layup,2,3,2,LAYUPS,,2003
-Jay Williams,2398,Running Jump Shot,2,35,30,JUMP_SHOTS,,2003
-Jay Williams,2398,Standard Dunk,2,10,9,DUNKS,,2003
-Jay Williams,2398,Standard Layup,2,129,48,LAYUPS,,2003
-Jay Williams,2398,Tip Shot,2,3,1,TIP_SHOTS,,2003
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Jay Williams,2398,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2003
+Jay Williams,2398,Driving Dunk Shot,2,3,3,Driving Dunk,DUNKS,2003
+Jay Williams,2398,Driving Finger Roll Shot,2,3,2,Finger Roll,LAYUPS,2003
+Jay Williams,2398,Driving Layup Shot,2,56,44,Driving Layup,LAYUPS,2003
+Jay Williams,2398,Dunk Shot,2,8,7,Standard Dunk,DUNKS,2003
+Jay Williams,2398,Jump Shot,2,442,133,2PT Jump Shot,TWO_POINT_JUMPERS,2003
+Jay Williams,2398,Layup Shot,2,123,43,Standard Layup,LAYUPS,2003
+Jay Williams,2398,Reverse Layup Shot,2,3,2,Reverse Layup,LAYUPS,2003
+Jay Williams,2398,Running Jump Shot,2,35,30,2PT Running Jump Shot,TWO_POINT_JUMPERS,2003
+Jay Williams,2398,Running Layup Shot,2,6,5,Standard Layup,LAYUPS,2003
+Jay Williams,2398,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,2003
+Jay Williams,2398,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,2003

@@ -1,7 +1,8 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Elijah Bryant,1629091,Driving Layup,2,1,0,LAYUPS,,2021
-Elijah Bryant,1629091,Jump Shot,2,6,2,JUMP_SHOTS,,2021
-Elijah Bryant,1629091,Pullup Jump Shot,2,2,1,JUMP_SHOTS,,2021
-Elijah Bryant,1629091,Putback Layup,2,2,1,LAYUPS,,2021
-Elijah Bryant,1629091,Reverse Layup,2,1,1,LAYUPS,,2021
-Elijah Bryant,1629091,Standard Layup,2,1,1,LAYUPS,,2021
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Elijah Bryant,1629091,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2021
+Elijah Bryant,1629091,Jump Shot,2,6,2,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Elijah Bryant,1629091,Pullup Jump shot,2,2,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2021
+Elijah Bryant,1629091,Putback Layup Shot,2,1,0,Putback Layup,LAYUPS,2021
+Elijah Bryant,1629091,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2021
+Elijah Bryant,1629091,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2021
+Elijah Bryant,1629091,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2021

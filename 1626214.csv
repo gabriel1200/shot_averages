@@ -1,11 +1,12 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Bryce Dejean-Jones,1626214,Driving Dunk,2,2,1,DUNKS,,2016
-Bryce Dejean-Jones,1626214,Driving Layup,2,5,3,LAYUPS,,2016
-Bryce Dejean-Jones,1626214,Jump Shot,2,14,5,JUMP_SHOTS,,2016
-Bryce Dejean-Jones,1626214,Jump Shot,3,32,12,JUMP_SHOTS,,2016
-Bryce Dejean-Jones,1626214,Pullup Jump Shot,2,1,1,JUMP_SHOTS,,2016
-Bryce Dejean-Jones,1626214,Putback Dunk,2,1,1,DUNKS,,2016
-Bryce Dejean-Jones,1626214,Putback Layup,2,1,0,LAYUPS,,2016
-Bryce Dejean-Jones,1626214,Reverse Dunk,2,1,1,DUNKS,,2016
-Bryce Dejean-Jones,1626214,Standard Dunk,2,3,1,DUNKS,,2016
-Bryce Dejean-Jones,1626214,Standard Layup,2,9,3,LAYUPS,,2016
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Bryce Dejean-Jones,1626214,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2016
+Bryce Dejean-Jones,1626214,Driving Dunk Shot,2,2,1,Driving Dunk,DUNKS,2016
+Bryce Dejean-Jones,1626214,Driving Layup Shot,2,5,3,Driving Layup,LAYUPS,2016
+Bryce Dejean-Jones,1626214,Driving Reverse Dunk Shot,2,1,1,Reverse Dunk,DUNKS,2016
+Bryce Dejean-Jones,1626214,Dunk Shot,2,3,1,Standard Dunk,DUNKS,2016
+Bryce Dejean-Jones,1626214,Jump Shot,2,14,5,2PT Jump Shot,TWO_POINT_JUMPERS,2016
+Bryce Dejean-Jones,1626214,Jump Shot,3,32,12,3PT Jump Shot,THREE_POINT_JUMPERS,2016
+Bryce Dejean-Jones,1626214,Layup Shot,2,8,2,Standard Layup,LAYUPS,2016
+Bryce Dejean-Jones,1626214,Pullup Jump shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2016
+Bryce Dejean-Jones,1626214,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2016
+Bryce Dejean-Jones,1626214,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2016

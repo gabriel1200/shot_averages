@@ -1,10 +1,13 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Dexter Dennis,1641926,Driving Dunk,2,1,1,DUNKS,,2024
-Dexter Dennis,1641926,Driving Layup,2,3,3,LAYUPS,,2024
-Dexter Dennis,1641926,Floating Jump Shot,2,2,1,FLOATING_SHOTS,,2024
-Dexter Dennis,1641926,Jump Shot,3,7,1,JUMP_SHOTS,,2024
-Dexter Dennis,1641926,Pullup Jump Shot,2,1,1,JUMP_SHOTS,,2024
-Dexter Dennis,1641926,Reverse Layup,2,1,1,LAYUPS,,2024
-Dexter Dennis,1641926,Running Jump Shot,3,1,0,JUMP_SHOTS,,2024
-Dexter Dennis,1641926,Standard Layup,2,2,2,LAYUPS,,2024
-Dexter Dennis,1641926,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2024
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Dexter Dennis,1641926,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2024
+Dexter Dennis,1641926,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Dexter Dennis,1641926,Driving Floating Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Dexter Dennis,1641926,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2024
+Dexter Dennis,1641926,Driving Reverse Layup Shot,2,2,2,Driving Layup,LAYUPS,2024
+Dexter Dennis,1641926,Jump Shot,3,7,1,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Dexter Dennis,1641926,Layup Shot,2,1,1,Standard Layup,LAYUPS,2024
+Dexter Dennis,1641926,Pullup Jump shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2024
+Dexter Dennis,1641926,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2024
+Dexter Dennis,1641926,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Dexter Dennis,1641926,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2024
+Dexter Dennis,1641926,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2024

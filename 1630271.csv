@@ -1,22 +1,25 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Brodric Thomas,1630271,Alley Oop Dunk,2,1,1,DUNKS,,2021
-Brodric Thomas,1630271,Driving Layup,2,12,5,LAYUPS,,2021
-Brodric Thomas,1630271,Finger Roll,2,4,3,LAYUPS,,2021
-Brodric Thomas,1630271,Floating Jump Shot,2,3,0,FLOATING_SHOTS,,2021
-Brodric Thomas,1630271,Hook Shot,2,1,0,POST_MOVES,,2021
-Brodric Thomas,1630271,Jump Shot,2,56,16,JUMP_SHOTS,,2021
-Brodric Thomas,1630271,Pullup Jump Shot,2,11,2,JUMP_SHOTS,,2021
-Brodric Thomas,1630271,Putback Dunk,2,1,1,DUNKS,,2021
-Brodric Thomas,1630271,Specialty Dunk,2,2,2,DUNKS,,2021
-Brodric Thomas,1630271,Standard Dunk,2,2,2,DUNKS,,2021
-Brodric Thomas,1630271,Standard Layup,2,7,4,LAYUPS,,2021
-Brodric Thomas,1630271,Step Back Jump Shot,2,7,2,JUMP_SHOTS,,2021
-Brodric Thomas,1630271,Turnaround Hook Shot,2,1,1,POST_MOVES,,2021
-Brodric Thomas,1630271,Driving Dunk,2,1,0,DUNKS,,2022
-Brodric Thomas,1630271,Driving Layup,2,2,2,LAYUPS,,2022
-Brodric Thomas,1630271,Jump Shot,2,7,1,JUMP_SHOTS,,2022
-Brodric Thomas,1630271,Pullup Jump Shot,2,1,1,JUMP_SHOTS,,2022
-Brodric Thomas,1630271,Running Jump Shot,2,1,0,JUMP_SHOTS,,2022
-Brodric Thomas,1630271,Standard Dunk,2,2,1,DUNKS,,2022
-Brodric Thomas,1630271,Standard Layup,2,3,3,LAYUPS,,2022
-Brodric Thomas,1630271,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2022
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Brodric Thomas,1630271,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2021
+Brodric Thomas,1630271,Cutting Dunk Shot,2,2,2,Specialty Dunk,DUNKS,2021
+Brodric Thomas,1630271,Cutting Layup Shot,2,4,1,Standard Layup,LAYUPS,2021
+Brodric Thomas,1630271,Driving Finger Roll Layup Shot,2,3,2,Finger Roll,LAYUPS,2021
+Brodric Thomas,1630271,Driving Floating Jump Shot,2,3,0,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Brodric Thomas,1630271,Driving Layup Shot,2,12,5,Driving Layup,LAYUPS,2021
+Brodric Thomas,1630271,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2021
+Brodric Thomas,1630271,Jump Shot,2,56,16,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Brodric Thomas,1630271,Layup Shot,2,1,1,Standard Layup,LAYUPS,2021
+Brodric Thomas,1630271,Pullup Jump shot,2,11,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2021
+Brodric Thomas,1630271,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2021
+Brodric Thomas,1630271,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2021
+Brodric Thomas,1630271,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2021
+Brodric Thomas,1630271,Running Layup Shot,2,2,2,Standard Layup,LAYUPS,2021
+Brodric Thomas,1630271,Step Back Jump shot,2,7,2,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2021
+Brodric Thomas,1630271,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2021
+Brodric Thomas,1630271,Cutting Layup Shot,2,3,3,Standard Layup,LAYUPS,2022
+Brodric Thomas,1630271,Driving Dunk Shot,2,1,0,Driving Dunk,DUNKS,2022
+Brodric Thomas,1630271,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,2022
+Brodric Thomas,1630271,Jump Shot,2,7,1,2PT Jump Shot,TWO_POINT_JUMPERS,2022
+Brodric Thomas,1630271,Pullup Jump shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2022
+Brodric Thomas,1630271,Running Dunk Shot,2,2,1,Standard Dunk,DUNKS,2022
+Brodric Thomas,1630271,Running Pull-Up Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2022
+Brodric Thomas,1630271,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2022

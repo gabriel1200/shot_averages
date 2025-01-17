@@ -1,9 +1,10 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Carldell Johnson,201291,Driving Layup,2,2,2,LAYUPS,,2012
-Carldell Johnson,201291,Floating Jump Shot,2,2,1,FLOATING_SHOTS,,2012
-Carldell Johnson,201291,Jump Shot,2,20,5,JUMP_SHOTS,,2012
-Carldell Johnson,201291,Jump Shot,3,3,0,JUMP_SHOTS,,2012
-Carldell Johnson,201291,Pullup Jump Shot,2,2,2,JUMP_SHOTS,,2012
-Carldell Johnson,201291,Running Jump Shot,2,1,0,JUMP_SHOTS,,2012
-Carldell Johnson,201291,Standard Layup,2,4,1,LAYUPS,,2012
-Carldell Johnson,201291,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2012
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Carldell Johnson,201291,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,2012
+Carldell Johnson,201291,Floating Jump shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2012
+Carldell Johnson,201291,Jump Bank Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Carldell Johnson,201291,Jump Shot,2,18,5,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Carldell Johnson,201291,Jump Shot,3,3,0,3PT Jump Shot,THREE_POINT_JUMPERS,2012
+Carldell Johnson,201291,Layup Shot,2,4,1,Standard Layup,LAYUPS,2012
+Carldell Johnson,201291,Pullup Jump shot,2,2,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2012
+Carldell Johnson,201291,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2012
+Carldell Johnson,201291,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2012

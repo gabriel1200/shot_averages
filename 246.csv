@@ -1,14 +1,15 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Greg Anderson,246,Driving Layup,2,9,5,LAYUPS,,1997
-Greg Anderson,246,Hook Shot,2,7,5,POST_MOVES,,1997
-Greg Anderson,246,Jump Shot,2,25,8,JUMP_SHOTS,,1997
-Greg Anderson,246,Running Jump Shot,2,1,1,JUMP_SHOTS,,1997
-Greg Anderson,246,Standard Dunk,2,10,8,DUNKS,,1997
-Greg Anderson,246,Standard Layup,2,194,94,LAYUPS,,1997
-Greg Anderson,246,Tip Shot,2,16,9,TIP_SHOTS,,1997
-Greg Anderson,246,Driving Dunk,2,1,1,DUNKS,,1998
-Greg Anderson,246,Driving Layup,2,2,2,LAYUPS,,1998
-Greg Anderson,246,Jump Shot,2,13,1,JUMP_SHOTS,,1998
-Greg Anderson,246,Standard Dunk,2,3,3,DUNKS,,1998
-Greg Anderson,246,Standard Layup,2,55,25,LAYUPS,,1998
-Greg Anderson,246,Tip Shot,2,7,4,TIP_SHOTS,,1998
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Greg Anderson,246,Driving Layup Shot,2,9,5,Driving Layup,LAYUPS,1997
+Greg Anderson,246,Dunk Shot,2,5,4,Standard Dunk,DUNKS,1997
+Greg Anderson,246,Hook Shot,2,7,5,Hook Shot,POST_MOVES,1997
+Greg Anderson,246,Jump Shot,2,25,8,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Greg Anderson,246,Layup Shot,2,194,94,Standard Layup,LAYUPS,1997
+Greg Anderson,246,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
+Greg Anderson,246,Slam Dunk Shot,2,5,4,Standard Dunk,DUNKS,1997
+Greg Anderson,246,Tip Shot,2,16,9,Tip Shot,TIP_SHOTS,1997
+Greg Anderson,246,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,1998
+Greg Anderson,246,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,1998
+Greg Anderson,246,Dunk Shot,2,3,3,Standard Dunk,DUNKS,1998
+Greg Anderson,246,Jump Shot,2,13,1,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+Greg Anderson,246,Layup Shot,2,55,25,Standard Layup,LAYUPS,1998
+Greg Anderson,246,Tip Shot,2,7,4,Tip Shot,TIP_SHOTS,1998

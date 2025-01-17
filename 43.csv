@@ -1,38 +1,40 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Chris Whitney,43,Driving Layup,2,31,29,LAYUPS,,1997
-Chris Whitney,43,Jump Shot,2,258,95,JUMP_SHOTS,,1997
-Chris Whitney,43,Running Jump Shot,2,3,2,JUMP_SHOTS,,1997
-Chris Whitney,43,Standard Layup,2,37,12,LAYUPS,,1997
-Chris Whitney,43,Tip Shot,2,1,1,TIP_SHOTS,,1997
-Chris Whitney,43,Driving Layup,2,18,13,LAYUPS,,1998
-Chris Whitney,43,Jump Shot,2,307,99,JUMP_SHOTS,,1998
-Chris Whitney,43,Running Jump Shot,2,5,5,JUMP_SHOTS,,1998
-Chris Whitney,43,Standard Layup,2,25,9,LAYUPS,,1998
-Chris Whitney,43,Driving Layup,2,12,12,LAYUPS,,1999
-Chris Whitney,43,Jump Shot,2,126,41,JUMP_SHOTS,,1999
-Chris Whitney,43,Running Jump Shot,2,7,6,JUMP_SHOTS,,1999
-Chris Whitney,43,Standard Layup,2,11,5,LAYUPS,,1999
-Chris Whitney,43,Driving Layup,2,26,26,LAYUPS,,2000
-Chris Whitney,43,Jump Shot,2,445,165,JUMP_SHOTS,,2000
-Chris Whitney,43,Running Jump Shot,2,24,15,JUMP_SHOTS,,2000
-Chris Whitney,43,Standard Layup,2,25,10,LAYUPS,,2000
-Chris Whitney,43,Tip Shot,2,1,1,TIP_SHOTS,,2000
-Chris Whitney,43,Driving Layup,2,10,6,LAYUPS,,2001
-Chris Whitney,43,Jump Shot,2,407,141,JUMP_SHOTS,,2001
-Chris Whitney,43,Running Jump Shot,2,17,14,JUMP_SHOTS,,2001
-Chris Whitney,43,Standard Layup,2,35,21,LAYUPS,,2001
-Chris Whitney,43,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2001
-Chris Whitney,43,Driving Layup,2,5,4,LAYUPS,,2002
-Chris Whitney,43,Fadeaway Jump Shot,2,2,2,JUMP_SHOTS,,2002
-Chris Whitney,43,Finger Roll,2,1,1,LAYUPS,,2002
-Chris Whitney,43,Jump Shot,2,597,233,JUMP_SHOTS,,2002
-Chris Whitney,43,Reverse Layup,2,2,2,LAYUPS,,2002
-Chris Whitney,43,Running Jump Shot,2,29,27,JUMP_SHOTS,,2002
-Chris Whitney,43,Standard Layup,2,20,5,LAYUPS,,2002
-Chris Whitney,43,Driving Layup,2,4,3,LAYUPS,,2003
-Chris Whitney,43,Fadeaway Jump Shot,2,2,0,JUMP_SHOTS,,2003
-Chris Whitney,43,Jump Shot,2,324,111,JUMP_SHOTS,,2003
-Chris Whitney,43,Running Jump Shot,2,8,3,JUMP_SHOTS,,2003
-Chris Whitney,43,Standard Layup,2,11,7,LAYUPS,,2003
-Chris Whitney,43,Jump Shot,2,41,14,JUMP_SHOTS,,2004
-Chris Whitney,43,Standard Layup,2,4,3,LAYUPS,,2004
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Chris Whitney,43,Driving Layup Shot,2,31,29,Driving Layup,LAYUPS,1997
+Chris Whitney,43,Jump Shot,2,258,95,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Chris Whitney,43,Layup Shot,2,37,12,Standard Layup,LAYUPS,1997
+Chris Whitney,43,Running Jump Shot,2,3,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
+Chris Whitney,43,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,1997
+Chris Whitney,43,Driving Layup Shot,2,18,13,Driving Layup,LAYUPS,1998
+Chris Whitney,43,Jump Shot,2,307,99,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+Chris Whitney,43,Layup Shot,2,25,9,Standard Layup,LAYUPS,1998
+Chris Whitney,43,Running Jump Shot,2,5,5,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
+Chris Whitney,43,Driving Layup Shot,2,12,12,Driving Layup,LAYUPS,1999
+Chris Whitney,43,Jump Shot,2,126,41,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Chris Whitney,43,Layup Shot,2,11,5,Standard Layup,LAYUPS,1999
+Chris Whitney,43,Running Jump Shot,2,7,6,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999
+Chris Whitney,43,Driving Layup Shot,2,26,26,Driving Layup,LAYUPS,2000
+Chris Whitney,43,Jump Shot,2,445,165,2PT Jump Shot,TWO_POINT_JUMPERS,2000
+Chris Whitney,43,Layup Shot,2,25,10,Standard Layup,LAYUPS,2000
+Chris Whitney,43,Running Jump Shot,2,24,15,2PT Running Jump Shot,TWO_POINT_JUMPERS,2000
+Chris Whitney,43,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2000
+Chris Whitney,43,Driving Layup Shot,2,10,6,Driving Layup,LAYUPS,2001
+Chris Whitney,43,Jump Shot,2,407,141,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Chris Whitney,43,Layup Shot,2,27,13,Standard Layup,LAYUPS,2001
+Chris Whitney,43,Running Jump Shot,2,17,14,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
+Chris Whitney,43,Running Layup Shot,2,8,8,Standard Layup,LAYUPS,2001
+Chris Whitney,43,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2001
+Chris Whitney,43,Driving Layup Shot,2,5,4,Driving Layup,LAYUPS,2002
+Chris Whitney,43,Fadeaway Jump Shot,2,2,2,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2002
+Chris Whitney,43,Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2002
+Chris Whitney,43,Jump Shot,2,597,233,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Chris Whitney,43,Layup Shot,2,20,5,Standard Layup,LAYUPS,2002
+Chris Whitney,43,Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2002
+Chris Whitney,43,Running Jump Shot,2,29,27,2PT Running Jump Shot,TWO_POINT_JUMPERS,2002
+Chris Whitney,43,Driving Layup Shot,2,4,3,Driving Layup,LAYUPS,2003
+Chris Whitney,43,Fadeaway Jump Shot,2,2,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2003
+Chris Whitney,43,Jump Shot,2,324,111,2PT Jump Shot,TWO_POINT_JUMPERS,2003
+Chris Whitney,43,Layup Shot,2,11,7,Standard Layup,LAYUPS,2003
+Chris Whitney,43,Running Jump Shot,2,8,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2003
+Chris Whitney,43,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2004
+Chris Whitney,43,Jump Shot,2,40,13,2PT Jump Shot,TWO_POINT_JUMPERS,2004
+Chris Whitney,43,Layup Shot,2,4,3,Standard Layup,LAYUPS,2004

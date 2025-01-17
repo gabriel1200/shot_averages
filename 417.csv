@@ -1,47 +1,50 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Sam Mitchell,417,Driving Dunk,2,3,3,DUNKS,,1997
-Sam Mitchell,417,Driving Layup,2,48,43,LAYUPS,,1997
-Sam Mitchell,417,Hook Shot,2,29,22,POST_MOVES,,1997
-Sam Mitchell,417,Jump Shot,2,360,128,JUMP_SHOTS,,1997
-Sam Mitchell,417,Running Jump Shot,2,15,9,JUMP_SHOTS,,1997
-Sam Mitchell,417,Standard Dunk,2,12,12,DUNKS,,1997
-Sam Mitchell,417,Standard Layup,2,127,47,LAYUPS,,1997
-Sam Mitchell,417,Tip Shot,2,9,5,TIP_SHOTS,,1997
-Sam Mitchell,417,Driving Dunk,2,3,3,DUNKS,,1998
-Sam Mitchell,417,Driving Layup,2,53,37,LAYUPS,,1998
-Sam Mitchell,417,Hook Shot,2,26,13,POST_MOVES,,1998
-Sam Mitchell,417,Jump Shot,2,576,241,JUMP_SHOTS,,1998
-Sam Mitchell,417,Jump Shot,3,4,2,JUMP_SHOTS,,1998
-Sam Mitchell,417,Running Jump Shot,2,37,21,JUMP_SHOTS,,1998
-Sam Mitchell,417,Standard Dunk,2,4,3,DUNKS,,1998
-Sam Mitchell,417,Standard Layup,2,90,48,LAYUPS,,1998
-Sam Mitchell,417,Tip Shot,2,7,3,TIP_SHOTS,,1998
-Sam Mitchell,417,Driving Layup,2,24,14,LAYUPS,,1999
-Sam Mitchell,417,Hook Shot,2,9,7,POST_MOVES,,1999
-Sam Mitchell,417,Jump Shot,2,407,152,JUMP_SHOTS,,1999
-Sam Mitchell,417,Jump Shot,3,2,0,JUMP_SHOTS,,1999
-Sam Mitchell,417,Running Jump Shot,2,33,18,JUMP_SHOTS,,1999
-Sam Mitchell,417,Standard Layup,2,46,22,LAYUPS,,1999
-Sam Mitchell,417,Tip Shot,2,1,0,TIP_SHOTS,,1999
-Sam Mitchell,417,Driving Layup,2,33,26,LAYUPS,,2000
-Sam Mitchell,417,Hook Shot,2,5,4,POST_MOVES,,2000
-Sam Mitchell,417,Jump Shot,2,294,111,JUMP_SHOTS,,2000
-Sam Mitchell,417,Running Jump Shot,2,22,16,JUMP_SHOTS,,2000
-Sam Mitchell,417,Standard Layup,2,20,11,LAYUPS,,2000
-Sam Mitchell,417,Tip Shot,2,2,0,TIP_SHOTS,,2000
-Sam Mitchell,417,Driving Layup,2,13,9,LAYUPS,,2001
-Sam Mitchell,417,Hook Shot,2,1,0,POST_MOVES,,2001
-Sam Mitchell,417,Jump Shot,2,249,92,JUMP_SHOTS,,2001
-Sam Mitchell,417,Running Hook Shot,2,2,1,POST_MOVES,,2001
-Sam Mitchell,417,Running Jump Shot,2,10,9,JUMP_SHOTS,,2001
-Sam Mitchell,417,Standard Dunk,2,1,1,DUNKS,,2001
-Sam Mitchell,417,Standard Layup,2,12,6,LAYUPS,,2001
-Sam Mitchell,417,Tip Shot,2,1,0,TIP_SHOTS,,2001
-Sam Mitchell,417,Driving Layup,2,9,6,LAYUPS,,2002
-Sam Mitchell,417,Finger Roll,2,2,2,LAYUPS,,2002
-Sam Mitchell,417,Hook Shot,2,1,0,POST_MOVES,,2002
-Sam Mitchell,417,Jump Shot,2,185,72,JUMP_SHOTS,,2002
-Sam Mitchell,417,Running Hook Shot,2,1,0,POST_MOVES,,2002
-Sam Mitchell,417,Running Jump Shot,2,14,12,JUMP_SHOTS,,2002
-Sam Mitchell,417,Standard Layup,2,14,5,LAYUPS,,2002
-Sam Mitchell,417,Tip Shot,2,1,1,TIP_SHOTS,,2002
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Sam Mitchell,417,Driving Dunk Shot,2,3,3,Driving Dunk,DUNKS,1997
+Sam Mitchell,417,Driving Layup Shot,2,48,43,Driving Layup,LAYUPS,1997
+Sam Mitchell,417,Dunk Shot,2,2,2,Standard Dunk,DUNKS,1997
+Sam Mitchell,417,Hook Shot,2,29,22,Hook Shot,POST_MOVES,1997
+Sam Mitchell,417,Jump Shot,2,360,128,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Sam Mitchell,417,Layup Shot,2,127,47,Standard Layup,LAYUPS,1997
+Sam Mitchell,417,Running Jump Shot,2,15,9,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
+Sam Mitchell,417,Slam Dunk Shot,2,10,10,Standard Dunk,DUNKS,1997
+Sam Mitchell,417,Tip Shot,2,9,5,Tip Shot,TIP_SHOTS,1997
+Sam Mitchell,417,Driving Dunk Shot,2,3,3,Driving Dunk,DUNKS,1998
+Sam Mitchell,417,Driving Layup Shot,2,53,37,Driving Layup,LAYUPS,1998
+Sam Mitchell,417,Dunk Shot,2,2,1,Standard Dunk,DUNKS,1998
+Sam Mitchell,417,Hook Shot,2,26,13,Hook Shot,POST_MOVES,1998
+Sam Mitchell,417,Jump Shot,2,576,241,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+Sam Mitchell,417,Jump Shot,3,4,2,3PT Jump Shot,THREE_POINT_JUMPERS,1998
+Sam Mitchell,417,Layup Shot,2,90,48,Standard Layup,LAYUPS,1998
+Sam Mitchell,417,Running Jump Shot,2,37,21,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
+Sam Mitchell,417,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,1998
+Sam Mitchell,417,Tip Shot,2,7,3,Tip Shot,TIP_SHOTS,1998
+Sam Mitchell,417,Driving Layup Shot,2,24,14,Driving Layup,LAYUPS,1999
+Sam Mitchell,417,Hook Shot,2,9,7,Hook Shot,POST_MOVES,1999
+Sam Mitchell,417,Jump Shot,2,407,152,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Sam Mitchell,417,Jump Shot,3,2,0,3PT Jump Shot,THREE_POINT_JUMPERS,1999
+Sam Mitchell,417,Layup Shot,2,46,22,Standard Layup,LAYUPS,1999
+Sam Mitchell,417,Running Jump Shot,2,33,18,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999
+Sam Mitchell,417,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,1999
+Sam Mitchell,417,Driving Layup Shot,2,33,26,Driving Layup,LAYUPS,2000
+Sam Mitchell,417,Hook Shot,2,5,4,Hook Shot,POST_MOVES,2000
+Sam Mitchell,417,Jump Shot,2,294,111,2PT Jump Shot,TWO_POINT_JUMPERS,2000
+Sam Mitchell,417,Layup Shot,2,20,11,Standard Layup,LAYUPS,2000
+Sam Mitchell,417,Running Jump Shot,2,22,16,2PT Running Jump Shot,TWO_POINT_JUMPERS,2000
+Sam Mitchell,417,Tip Shot,2,2,0,Tip Shot,TIP_SHOTS,2000
+Sam Mitchell,417,Driving Layup Shot,2,13,9,Driving Layup,LAYUPS,2001
+Sam Mitchell,417,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2001
+Sam Mitchell,417,Jump Shot,2,249,92,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Sam Mitchell,417,Layup Shot,2,12,6,Standard Layup,LAYUPS,2001
+Sam Mitchell,417,Running Hook Shot,2,2,1,Running Hook Shot,POST_MOVES,2001
+Sam Mitchell,417,Running Jump Shot,2,10,9,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
+Sam Mitchell,417,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2001
+Sam Mitchell,417,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2001
+Sam Mitchell,417,Driving Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2002
+Sam Mitchell,417,Driving Layup Shot,2,9,6,Driving Layup,LAYUPS,2002
+Sam Mitchell,417,Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2002
+Sam Mitchell,417,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2002
+Sam Mitchell,417,Jump Shot,2,185,72,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Sam Mitchell,417,Layup Shot,2,14,5,Standard Layup,LAYUPS,2002
+Sam Mitchell,417,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,2002
+Sam Mitchell,417,Running Jump Shot,2,14,12,2PT Running Jump Shot,TWO_POINT_JUMPERS,2002
+Sam Mitchell,417,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2002

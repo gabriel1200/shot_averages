@@ -1,25 +1,32 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Cleanthony Early,203921,Alley Oop Dunk,2,1,1,DUNKS,,2015
-Cleanthony Early,203921,Alley Oop Layup,2,2,1,LAYUPS,,2015
-Cleanthony Early,203921,Driving Dunk,2,5,5,DUNKS,,2015
-Cleanthony Early,203921,Driving Jump Shot,2,2,1,JUMP_SHOTS,,2015
-Cleanthony Early,203921,Driving Layup,2,21,11,LAYUPS,,2015
-Cleanthony Early,203921,Finger Roll,2,1,1,LAYUPS,,2015
-Cleanthony Early,203921,Jump Shot,2,138,36,JUMP_SHOTS,,2015
-Cleanthony Early,203921,Pullup Jump Shot,2,4,1,JUMP_SHOTS,,2015
-Cleanthony Early,203921,Putback Dunk,2,4,2,DUNKS,,2015
-Cleanthony Early,203921,Putback Layup,2,1,1,LAYUPS,,2015
-Cleanthony Early,203921,Reverse Layup,2,4,1,LAYUPS,,2015
-Cleanthony Early,203921,Running Jump Shot,2,3,3,JUMP_SHOTS,,2015
-Cleanthony Early,203921,Standard Dunk,2,4,3,DUNKS,,2015
-Cleanthony Early,203921,Standard Layup,2,19,7,LAYUPS,,2015
-Cleanthony Early,203921,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2015
-Cleanthony Early,203921,Tip Shot,2,3,1,TIP_SHOTS,,2015
-Cleanthony Early,203921,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2015
-Cleanthony Early,203921,Driving Layup,2,4,1,LAYUPS,,2016
-Cleanthony Early,203921,Jump Shot,2,27,5,JUMP_SHOTS,,2016
-Cleanthony Early,203921,Pullup Jump Shot,2,1,1,JUMP_SHOTS,,2016
-Cleanthony Early,203921,Putback Layup,2,1,1,LAYUPS,,2016
-Cleanthony Early,203921,Reverse Layup,2,1,1,LAYUPS,,2016
-Cleanthony Early,203921,Standard Layup,2,5,3,LAYUPS,,2016
-Cleanthony Early,203921,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2016
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Cleanthony Early,203921,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2015
+Cleanthony Early,203921,Alley Oop Layup shot,2,2,1,Alley Oop Layup,LAYUPS,2015
+Cleanthony Early,203921,Driving Dunk Shot,2,3,3,Driving Dunk,DUNKS,2015
+Cleanthony Early,203921,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2015
+Cleanthony Early,203921,Driving Jump shot,2,2,1,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2015
+Cleanthony Early,203921,Driving Layup Shot,2,19,10,Driving Layup,LAYUPS,2015
+Cleanthony Early,203921,Driving Reverse Layup Shot,2,2,1,Driving Layup,LAYUPS,2015
+Cleanthony Early,203921,Driving Slam Dunk Shot,2,2,2,Driving Dunk,DUNKS,2015
+Cleanthony Early,203921,Dunk Shot,2,2,1,Standard Dunk,DUNKS,2015
+Cleanthony Early,203921,Jump Shot,2,138,36,2PT Jump Shot,TWO_POINT_JUMPERS,2015
+Cleanthony Early,203921,Layup Shot,2,19,7,Standard Layup,LAYUPS,2015
+Cleanthony Early,203921,Pullup Jump shot,2,4,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2015
+Cleanthony Early,203921,Putback Dunk Shot,2,3,1,Putback Dunk,DUNKS,2015
+Cleanthony Early,203921,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2015
+Cleanthony Early,203921,Putback Slam Dunk Shot,2,1,1,Putback Dunk,DUNKS,2015
+Cleanthony Early,203921,Reverse Layup Shot,2,3,1,Reverse Layup,LAYUPS,2015
+Cleanthony Early,203921,Running Jump Shot,2,3,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2015
+Cleanthony Early,203921,Running Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2015
+Cleanthony Early,203921,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,2015
+Cleanthony Early,203921,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2015
+Cleanthony Early,203921,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,2015
+Cleanthony Early,203921,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2015
+Cleanthony Early,203921,Driving Layup Shot,2,3,1,Driving Layup,LAYUPS,2016
+Cleanthony Early,203921,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2016
+Cleanthony Early,203921,Jump Shot,2,27,5,2PT Jump Shot,TWO_POINT_JUMPERS,2016
+Cleanthony Early,203921,Layup Shot,2,3,1,Standard Layup,LAYUPS,2016
+Cleanthony Early,203921,Pullup Bank shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2016
+Cleanthony Early,203921,Running Layup Shot,2,2,2,Standard Layup,LAYUPS,2016
+Cleanthony Early,203921,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2016
+Cleanthony Early,203921,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2016
+Cleanthony Early,203921,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2016

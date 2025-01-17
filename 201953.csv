@@ -1,56 +1,77 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Eric Maynor,201953,Driving Jump Shot,2,3,2,JUMP_SHOTS,,2010
-Eric Maynor,201953,Driving Layup,2,31,19,LAYUPS,,2010
-Eric Maynor,201953,Fadeaway Jump Shot,2,5,3,JUMP_SHOTS,,2010
-Eric Maynor,201953,Finger Roll,2,2,2,LAYUPS,,2010
-Eric Maynor,201953,Floating Jump Shot,2,34,18,FLOATING_SHOTS,,2010
-Eric Maynor,201953,Jump Shot,2,181,57,JUMP_SHOTS,,2010
-Eric Maynor,201953,Pullup Jump Shot,2,8,5,JUMP_SHOTS,,2010
-Eric Maynor,201953,Putback Layup,2,1,1,LAYUPS,,2010
-Eric Maynor,201953,Reverse Layup,2,1,0,LAYUPS,,2010
-Eric Maynor,201953,Running Jump Shot,2,44,24,JUMP_SHOTS,,2010
-Eric Maynor,201953,Standard Layup,2,50,19,LAYUPS,,2010
-Eric Maynor,201953,Step Back Jump Shot,2,2,2,JUMP_SHOTS,,2010
-Eric Maynor,201953,Tip Shot,2,3,1,TIP_SHOTS,,2010
-Eric Maynor,201953,Turnaround Jump Shot,2,3,1,JUMP_SHOTS,,2010
-Eric Maynor,201953,Driving Hook Shot,2,1,0,POST_MOVES,,2011
-Eric Maynor,201953,Driving Jump Shot,2,6,3,JUMP_SHOTS,,2011
-Eric Maynor,201953,Driving Layup,2,14,9,LAYUPS,,2011
-Eric Maynor,201953,Fadeaway Jump Shot,2,6,3,JUMP_SHOTS,,2011
-Eric Maynor,201953,Finger Roll,2,4,3,LAYUPS,,2011
-Eric Maynor,201953,Floating Jump Shot,2,50,27,FLOATING_SHOTS,,2011
-Eric Maynor,201953,Hook Shot,2,1,0,POST_MOVES,,2011
-Eric Maynor,201953,Jump Shot,2,191,59,JUMP_SHOTS,,2011
-Eric Maynor,201953,Pullup Jump Shot,2,14,10,JUMP_SHOTS,,2011
-Eric Maynor,201953,Putback Layup,2,1,1,LAYUPS,,2011
-Eric Maynor,201953,Running Jump Shot,2,21,8,JUMP_SHOTS,,2011
-Eric Maynor,201953,Standard Layup,2,20,9,LAYUPS,,2011
-Eric Maynor,201953,Step Back Jump Shot,2,3,1,JUMP_SHOTS,,2011
-Eric Maynor,201953,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2011
-Eric Maynor,201953,Floating Jump Shot,2,4,0,FLOATING_SHOTS,,2012
-Eric Maynor,201953,Jump Shot,2,27,8,JUMP_SHOTS,,2012
-Eric Maynor,201953,Pullup Jump Shot,2,2,2,JUMP_SHOTS,,2012
-Eric Maynor,201953,Running Jump Shot,2,3,1,JUMP_SHOTS,,2012
-Eric Maynor,201953,Standard Layup,2,1,1,LAYUPS,,2012
-Eric Maynor,201953,Step Back Jump Shot,2,1,1,JUMP_SHOTS,,2012
-Eric Maynor,201953,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2012
-Eric Maynor,201953,Driving Hook Shot,2,1,0,POST_MOVES,,2013
-Eric Maynor,201953,Driving Jump Shot,2,5,3,JUMP_SHOTS,,2013
-Eric Maynor,201953,Driving Layup,2,17,9,LAYUPS,,2013
-Eric Maynor,201953,Fadeaway Jump Shot,2,2,1,JUMP_SHOTS,,2013
-Eric Maynor,201953,Floating Jump Shot,2,26,9,FLOATING_SHOTS,,2013
-Eric Maynor,201953,Jump Shot,2,151,42,JUMP_SHOTS,,2013
-Eric Maynor,201953,Jump Shot,3,9,5,JUMP_SHOTS,,2013
-Eric Maynor,201953,Pullup Jump Shot,2,13,9,JUMP_SHOTS,,2013
-Eric Maynor,201953,Putback Layup,2,1,0,LAYUPS,,2013
-Eric Maynor,201953,Running Jump Shot,2,34,13,JUMP_SHOTS,,2013
-Eric Maynor,201953,Standard Layup,2,20,13,LAYUPS,,2013
-Eric Maynor,201953,Turnaround Jump Shot,2,2,2,JUMP_SHOTS,,2013
-Eric Maynor,201953,Driving Jump Shot,2,1,0,JUMP_SHOTS,,2014
-Eric Maynor,201953,Driving Layup,2,3,2,LAYUPS,,2014
-Eric Maynor,201953,Floating Jump Shot,2,14,7,FLOATING_SHOTS,,2014
-Eric Maynor,201953,Jump Shot,2,49,8,JUMP_SHOTS,,2014
-Eric Maynor,201953,Jump Shot,3,16,4,JUMP_SHOTS,,2014
-Eric Maynor,201953,Pullup Jump Shot,2,8,5,JUMP_SHOTS,,2014
-Eric Maynor,201953,Running Jump Shot,2,5,4,JUMP_SHOTS,,2014
-Eric Maynor,201953,Standard Layup,2,5,2,LAYUPS,,2014
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Eric Maynor,201953,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2010
+Eric Maynor,201953,Driving Jump shot,2,3,2,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2010
+Eric Maynor,201953,Driving Layup Shot,2,30,19,Driving Layup,LAYUPS,2010
+Eric Maynor,201953,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2010
+Eric Maynor,201953,Fadeaway Jump Shot,2,5,3,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2010
+Eric Maynor,201953,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2010
+Eric Maynor,201953,Floating Jump shot,2,34,18,2PT Floating Jump Shot,FLOATING_SHOTS,2010
+Eric Maynor,201953,Jump Bank Shot,2,6,5,2PT Jump Shot,TWO_POINT_JUMPERS,2010
+Eric Maynor,201953,Jump Shot,2,175,52,2PT Jump Shot,TWO_POINT_JUMPERS,2010
+Eric Maynor,201953,Layup Shot,2,47,19,Standard Layup,LAYUPS,2010
+Eric Maynor,201953,Pullup Jump shot,2,8,5,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2010
+Eric Maynor,201953,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2010
+Eric Maynor,201953,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2010
+Eric Maynor,201953,Running Bank shot,2,9,9,2PT Running Jump Shot,TWO_POINT_JUMPERS,2010
+Eric Maynor,201953,Running Jump Shot,2,35,15,2PT Running Jump Shot,TWO_POINT_JUMPERS,2010
+Eric Maynor,201953,Running Layup Shot,2,3,0,Standard Layup,LAYUPS,2010
+Eric Maynor,201953,Step Back Jump shot,2,2,2,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2010
+Eric Maynor,201953,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,2010
+Eric Maynor,201953,Turnaround Fadeaway shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2010
+Eric Maynor,201953,Turnaround Jump Shot,2,2,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2010
+Eric Maynor,201953,Driving Bank shot,2,2,1,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2011
+Eric Maynor,201953,Driving Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2011
+Eric Maynor,201953,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2011
+Eric Maynor,201953,Driving Jump shot,2,4,2,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2011
+Eric Maynor,201953,Driving Layup Shot,2,13,8,Driving Layup,LAYUPS,2011
+Eric Maynor,201953,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2011
+Eric Maynor,201953,Fadeaway Bank shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2011
+Eric Maynor,201953,Fadeaway Jump Shot,2,5,2,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2011
+Eric Maynor,201953,Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2011
+Eric Maynor,201953,Floating Jump shot,2,50,27,2PT Floating Jump Shot,FLOATING_SHOTS,2011
+Eric Maynor,201953,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2011
+Eric Maynor,201953,Jump Bank Shot,2,3,1,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Eric Maynor,201953,Jump Shot,2,188,58,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Eric Maynor,201953,Layup Shot,2,19,8,Standard Layup,LAYUPS,2011
+Eric Maynor,201953,Pullup Jump shot,2,14,10,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2011
+Eric Maynor,201953,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2011
+Eric Maynor,201953,Running Bank shot,2,4,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2011
+Eric Maynor,201953,Running Jump Shot,2,17,5,2PT Running Jump Shot,TWO_POINT_JUMPERS,2011
+Eric Maynor,201953,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2011
+Eric Maynor,201953,Step Back Jump shot,2,3,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2011
+Eric Maynor,201953,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2011
+Eric Maynor,201953,Floating Jump shot,2,4,0,2PT Floating Jump Shot,FLOATING_SHOTS,2012
+Eric Maynor,201953,Jump Shot,2,27,8,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Eric Maynor,201953,Layup Shot,2,1,1,Standard Layup,LAYUPS,2012
+Eric Maynor,201953,Pullup Jump shot,2,2,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2012
+Eric Maynor,201953,Running Bank shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2012
+Eric Maynor,201953,Running Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2012
+Eric Maynor,201953,Step Back Jump shot,2,1,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2012
+Eric Maynor,201953,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2012
+Eric Maynor,201953,Driving Bank shot,2,1,0,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2013
+Eric Maynor,201953,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2013
+Eric Maynor,201953,Driving Jump shot,2,4,3,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2013
+Eric Maynor,201953,Driving Layup Shot,2,15,9,Driving Layup,LAYUPS,2013
+Eric Maynor,201953,Driving Reverse Layup Shot,2,2,0,Driving Layup,LAYUPS,2013
+Eric Maynor,201953,Fadeaway Jump Shot,2,2,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2013
+Eric Maynor,201953,Floating Jump shot,2,26,9,2PT Floating Jump Shot,FLOATING_SHOTS,2013
+Eric Maynor,201953,Jump Bank Shot,2,3,1,2PT Jump Shot,TWO_POINT_JUMPERS,2013
+Eric Maynor,201953,Jump Shot,2,148,41,2PT Jump Shot,TWO_POINT_JUMPERS,2013
+Eric Maynor,201953,Jump Shot,3,9,5,3PT Jump Shot,THREE_POINT_JUMPERS,2013
+Eric Maynor,201953,Layup Shot,2,15,9,Standard Layup,LAYUPS,2013
+Eric Maynor,201953,Pullup Jump shot,2,13,9,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2013
+Eric Maynor,201953,Putback Layup Shot,2,1,0,Putback Layup,LAYUPS,2013
+Eric Maynor,201953,Running Bank shot,2,4,4,2PT Running Jump Shot,TWO_POINT_JUMPERS,2013
+Eric Maynor,201953,Running Jump Shot,2,30,9,2PT Running Jump Shot,TWO_POINT_JUMPERS,2013
+Eric Maynor,201953,Running Layup Shot,2,5,4,Standard Layup,LAYUPS,2013
+Eric Maynor,201953,Turnaround Jump Shot,2,2,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2013
+Eric Maynor,201953,Driving Jump shot,2,1,0,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2014
+Eric Maynor,201953,Driving Layup Shot,2,3,2,Driving Layup,LAYUPS,2014
+Eric Maynor,201953,Floating Jump shot,2,14,7,2PT Floating Jump Shot,FLOATING_SHOTS,2014
+Eric Maynor,201953,Jump Shot,2,49,8,2PT Jump Shot,TWO_POINT_JUMPERS,2014
+Eric Maynor,201953,Jump Shot,3,16,4,3PT Jump Shot,THREE_POINT_JUMPERS,2014
+Eric Maynor,201953,Layup Shot,2,3,0,Standard Layup,LAYUPS,2014
+Eric Maynor,201953,Pullup Jump shot,2,8,5,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2014
+Eric Maynor,201953,Running Bank shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2014
+Eric Maynor,201953,Running Jump Shot,2,4,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2014
+Eric Maynor,201953,Running Layup Shot,2,2,2,Standard Layup,LAYUPS,2014

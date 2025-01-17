@@ -1,7 +1,7 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Elijah Harkless,1641989,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2025
-Elijah Harkless,1641989,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2025
-Elijah Harkless,1641989,Jump Shot,3,8,2,JUMP_SHOTS,,2025
-Elijah Harkless,1641989,Pullup Jump Shot,3,2,1,JUMP_SHOTS,,2025
-Elijah Harkless,1641989,Reverse Layup,2,1,1,LAYUPS,,2025
-Elijah Harkless,1641989,Running Jump Shot,3,1,0,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Elijah Harkless,1641989,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Elijah Harkless,1641989,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
+Elijah Harkless,1641989,Jump Shot,3,8,2,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Elijah Harkless,1641989,Pullup Jump shot,3,2,1,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
+Elijah Harkless,1641989,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Elijah Harkless,1641989,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2025

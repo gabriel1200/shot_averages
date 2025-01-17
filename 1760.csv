@@ -1,30 +1,30 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Derrick Dial,1760,Driving Layup,2,2,2,LAYUPS,,2000
-Derrick Dial,1760,Jump Shot,2,32,8,JUMP_SHOTS,,2000
-Derrick Dial,1760,Running Jump Shot,2,1,0,JUMP_SHOTS,,2000
-Derrick Dial,1760,Standard Dunk,2,1,1,DUNKS,,2000
-Derrick Dial,1760,Standard Layup,2,9,6,LAYUPS,,2000
-Derrick Dial,1760,Tip Shot,2,1,0,TIP_SHOTS,,2000
-Derrick Dial,1760,Alley Oop Layup,2,1,1,LAYUPS,,2001
-Derrick Dial,1760,Driving Dunk,2,1,1,DUNKS,,2001
-Derrick Dial,1760,Driving Layup,2,2,2,LAYUPS,,2001
-Derrick Dial,1760,Hook Shot,2,1,1,POST_MOVES,,2001
-Derrick Dial,1760,Jump Shot,2,55,19,JUMP_SHOTS,,2001
-Derrick Dial,1760,Jump Shot,3,2,0,JUMP_SHOTS,,2001
-Derrick Dial,1760,Running Jump Shot,2,2,2,JUMP_SHOTS,,2001
-Derrick Dial,1760,Standard Layup,2,18,9,LAYUPS,,2001
-Derrick Dial,1760,Tip Shot,2,1,1,TIP_SHOTS,,2001
-Derrick Dial,1760,Driving Layup,2,9,5,LAYUPS,,2002
-Derrick Dial,1760,Finger Roll,2,1,0,LAYUPS,,2002
-Derrick Dial,1760,Jump Shot,2,93,29,JUMP_SHOTS,,2002
-Derrick Dial,1760,Jump Shot,3,1,0,JUMP_SHOTS,,2002
-Derrick Dial,1760,Reverse Layup,2,2,1,LAYUPS,,2002
-Derrick Dial,1760,Running Jump Shot,2,2,1,JUMP_SHOTS,,2002
-Derrick Dial,1760,Standard Dunk,2,2,0,DUNKS,,2002
-Derrick Dial,1760,Standard Layup,2,7,4,LAYUPS,,2002
-Derrick Dial,1760,Tip Shot,2,3,1,TIP_SHOTS,,2002
-Derrick Dial,1760,Driving Layup,2,1,1,LAYUPS,,2004
-Derrick Dial,1760,Jump Shot,2,15,5,JUMP_SHOTS,,2004
-Derrick Dial,1760,Jump Shot,3,8,2,JUMP_SHOTS,,2004
-Derrick Dial,1760,Standard Layup,2,3,1,LAYUPS,,2004
-Derrick Dial,1760,Tip Shot,2,1,0,TIP_SHOTS,,2004
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Derrick Dial,1760,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,2000
+Derrick Dial,1760,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2000
+Derrick Dial,1760,Jump Shot,2,32,8,2PT Jump Shot,TWO_POINT_JUMPERS,2000
+Derrick Dial,1760,Layup Shot,2,9,6,Standard Layup,LAYUPS,2000
+Derrick Dial,1760,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2000
+Derrick Dial,1760,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2000
+Derrick Dial,1760,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2001
+Derrick Dial,1760,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2001
+Derrick Dial,1760,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,2001
+Derrick Dial,1760,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2001
+Derrick Dial,1760,Jump Shot,2,55,19,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Derrick Dial,1760,Jump Shot,3,2,0,3PT Jump Shot,THREE_POINT_JUMPERS,2001
+Derrick Dial,1760,Layup Shot,2,18,9,Standard Layup,LAYUPS,2001
+Derrick Dial,1760,Running Jump Shot,2,2,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
+Derrick Dial,1760,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2001
+Derrick Dial,1760,Driving Finger Roll Shot,2,1,0,Finger Roll,LAYUPS,2002
+Derrick Dial,1760,Driving Layup Shot,2,9,5,Driving Layup,LAYUPS,2002
+Derrick Dial,1760,Dunk Shot,2,2,0,Standard Dunk,DUNKS,2002
+Derrick Dial,1760,Jump Shot,2,93,29,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Derrick Dial,1760,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2002
+Derrick Dial,1760,Layup Shot,2,7,4,Standard Layup,LAYUPS,2002
+Derrick Dial,1760,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2002
+Derrick Dial,1760,Running Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2002
+Derrick Dial,1760,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,2002
+Derrick Dial,1760,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2004
+Derrick Dial,1760,Jump Shot,2,15,5,2PT Jump Shot,TWO_POINT_JUMPERS,2004
+Derrick Dial,1760,Jump Shot,3,8,2,3PT Jump Shot,THREE_POINT_JUMPERS,2004
+Derrick Dial,1760,Layup Shot,2,3,1,Standard Layup,LAYUPS,2004
+Derrick Dial,1760,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2004

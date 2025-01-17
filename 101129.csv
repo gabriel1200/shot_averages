@@ -1,77 +1,96 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Luther Head,101129,Driving Dunk,2,1,1,DUNKS,,2006
-Luther Head,101129,Driving Layup,2,40,28,LAYUPS,,2006
-Luther Head,101129,Fadeaway Jump Shot,2,3,2,JUMP_SHOTS,,2006
-Luther Head,101129,Fadeaway Jump Shot,3,1,1,JUMP_SHOTS,,2006
-Luther Head,101129,Jump Shot,2,147,45,JUMP_SHOTS,,2006
-Luther Head,101129,Jump Shot,3,311,111,JUMP_SHOTS,,2006
-Luther Head,101129,Reverse Layup,2,27,20,LAYUPS,,2006
-Luther Head,101129,Running Jump Shot,2,20,12,JUMP_SHOTS,,2006
-Luther Head,101129,Standard Dunk,2,2,2,DUNKS,,2006
-Luther Head,101129,Standard Layup,2,77,31,LAYUPS,,2006
-Luther Head,101129,Turnaround Jump Shot,3,1,1,JUMP_SHOTS,,2006
-Luther Head,101129,Driving Dunk,2,2,2,DUNKS,,2007
-Luther Head,101129,Driving Layup,2,42,31,LAYUPS,,2007
-Luther Head,101129,Fadeaway Jump Shot,2,8,2,JUMP_SHOTS,,2007
-Luther Head,101129,Finger Roll,2,1,0,LAYUPS,,2007
-Luther Head,101129,Jump Shot,2,130,40,JUMP_SHOTS,,2007
-Luther Head,101129,Jump Shot,3,401,177,JUMP_SHOTS,,2007
-Luther Head,101129,Reverse Layup,2,18,12,LAYUPS,,2007
-Luther Head,101129,Running Hook Shot,2,1,1,POST_MOVES,,2007
-Luther Head,101129,Running Jump Shot,2,18,8,JUMP_SHOTS,,2007
-Luther Head,101129,Standard Dunk,2,2,2,DUNKS,,2007
-Luther Head,101129,Standard Layup,2,77,31,LAYUPS,,2007
-Luther Head,101129,Driving Layup,2,44,32,LAYUPS,,2008
-Luther Head,101129,Fadeaway Jump Shot,2,3,3,JUMP_SHOTS,,2008
-Luther Head,101129,Fadeaway Jump Shot,3,1,0,JUMP_SHOTS,,2008
-Luther Head,101129,Finger Roll,2,5,2,LAYUPS,,2008
-Luther Head,101129,Jump Shot,2,86,36,JUMP_SHOTS,,2008
-Luther Head,101129,Jump Shot,3,221,78,JUMP_SHOTS,,2008
-Luther Head,101129,Pullup Jump Shot,2,4,2,JUMP_SHOTS,,2008
-Luther Head,101129,Reverse Layup,2,19,14,LAYUPS,,2008
-Luther Head,101129,Running Jump Shot,2,9,5,JUMP_SHOTS,,2008
-Luther Head,101129,Running Jump Shot,3,2,0,JUMP_SHOTS,,2008
-Luther Head,101129,Standard Dunk,2,1,1,DUNKS,,2008
-Luther Head,101129,Standard Layup,2,77,30,LAYUPS,,2008
-Luther Head,101129,Step Back Jump Shot,2,3,1,JUMP_SHOTS,,2008
-Luther Head,101129,Tip Shot,2,2,2,TIP_SHOTS,,2008
-Luther Head,101129,Driving Layup,2,13,9,LAYUPS,,2009
-Luther Head,101129,Finger Roll,2,1,1,LAYUPS,,2009
-Luther Head,101129,Floating Jump Shot,2,3,1,FLOATING_SHOTS,,2009
-Luther Head,101129,Hook Shot,2,1,0,POST_MOVES,,2009
-Luther Head,101129,Jump Shot,2,36,8,JUMP_SHOTS,,2009
-Luther Head,101129,Jump Shot,3,51,18,JUMP_SHOTS,,2009
-Luther Head,101129,Pullup Jump Shot,2,2,1,JUMP_SHOTS,,2009
-Luther Head,101129,Pullup Jump Shot,3,2,2,JUMP_SHOTS,,2009
-Luther Head,101129,Reverse Layup,2,5,3,LAYUPS,,2009
-Luther Head,101129,Running Jump Shot,2,11,5,JUMP_SHOTS,,2009
-Luther Head,101129,Running Jump Shot,3,1,0,JUMP_SHOTS,,2009
-Luther Head,101129,Standard Layup,2,17,7,LAYUPS,,2009
-Luther Head,101129,Tip Shot,2,1,0,TIP_SHOTS,,2009
-Luther Head,101129,Driving Layup,2,27,19,LAYUPS,,2010
-Luther Head,101129,Fadeaway Jump Shot,2,5,5,JUMP_SHOTS,,2010
-Luther Head,101129,Finger Roll,2,4,4,LAYUPS,,2010
-Luther Head,101129,Floating Jump Shot,2,7,5,FLOATING_SHOTS,,2010
-Luther Head,101129,Jump Shot,2,134,39,JUMP_SHOTS,,2010
-Luther Head,101129,Jump Shot,3,68,24,JUMP_SHOTS,,2010
-Luther Head,101129,Pullup Jump Shot,2,8,7,JUMP_SHOTS,,2010
-Luther Head,101129,Pullup Jump Shot,3,1,1,JUMP_SHOTS,,2010
-Luther Head,101129,Reverse Layup,2,12,10,LAYUPS,,2010
-Luther Head,101129,Running Jump Shot,2,6,3,JUMP_SHOTS,,2010
-Luther Head,101129,Running Jump Shot,3,1,0,JUMP_SHOTS,,2010
-Luther Head,101129,Standard Dunk,2,1,1,DUNKS,,2010
-Luther Head,101129,Standard Layup,2,36,17,LAYUPS,,2010
-Luther Head,101129,Step Back Jump Shot,2,1,1,JUMP_SHOTS,,2010
-Luther Head,101129,Driving Jump Shot,2,1,1,JUMP_SHOTS,,2011
-Luther Head,101129,Driving Layup,2,9,6,LAYUPS,,2011
-Luther Head,101129,Finger Roll,2,1,1,LAYUPS,,2011
-Luther Head,101129,Floating Jump Shot,2,1,1,FLOATING_SHOTS,,2011
-Luther Head,101129,Jump Shot,2,76,20,JUMP_SHOTS,,2011
-Luther Head,101129,Jump Shot,3,43,17,JUMP_SHOTS,,2011
-Luther Head,101129,Pullup Jump Shot,2,6,5,JUMP_SHOTS,,2011
-Luther Head,101129,Reverse Layup,2,5,3,LAYUPS,,2011
-Luther Head,101129,Running Hook Shot,2,2,1,POST_MOVES,,2011
-Luther Head,101129,Running Jump Shot,2,2,2,JUMP_SHOTS,,2011
-Luther Head,101129,Standard Dunk,2,1,1,DUNKS,,2011
-Luther Head,101129,Standard Layup,2,15,9,LAYUPS,,2011
-Luther Head,101129,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2011
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Luther Head,101129,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2006
+Luther Head,101129,Driving Layup Shot,2,40,28,Driving Layup,LAYUPS,2006
+Luther Head,101129,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2006
+Luther Head,101129,Fadeaway Jump Shot,2,3,2,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2006
+Luther Head,101129,Fadeaway Jump Shot,3,1,1,3PT Fadeaway Jump Shot,THREE_POINT_JUMPERS,2006
+Luther Head,101129,Jump Bank Shot,2,3,2,2PT Jump Shot,TWO_POINT_JUMPERS,2006
+Luther Head,101129,Jump Shot,2,144,43,2PT Jump Shot,TWO_POINT_JUMPERS,2006
+Luther Head,101129,Jump Shot,3,311,111,3PT Jump Shot,THREE_POINT_JUMPERS,2006
+Luther Head,101129,Layup Shot,2,75,29,Standard Layup,LAYUPS,2006
+Luther Head,101129,Reverse Layup Shot,2,27,20,Reverse Layup,LAYUPS,2006
+Luther Head,101129,Running Jump Shot,2,20,12,2PT Running Jump Shot,TWO_POINT_JUMPERS,2006
+Luther Head,101129,Running Layup Shot,2,2,2,Standard Layup,LAYUPS,2006
+Luther Head,101129,Turnaround Jump Shot,3,1,1,3PT Turnaround Jump Shot,THREE_POINT_JUMPERS,2006
+Luther Head,101129,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2007
+Luther Head,101129,Driving Finger Roll Shot,2,1,0,Finger Roll,LAYUPS,2007
+Luther Head,101129,Driving Layup Shot,2,42,31,Driving Layup,LAYUPS,2007
+Luther Head,101129,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2007
+Luther Head,101129,Fadeaway Jump Shot,2,8,2,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2007
+Luther Head,101129,Jump Bank Shot,2,3,1,2PT Jump Shot,TWO_POINT_JUMPERS,2007
+Luther Head,101129,Jump Shot,2,127,39,2PT Jump Shot,TWO_POINT_JUMPERS,2007
+Luther Head,101129,Jump Shot,3,401,177,3PT Jump Shot,THREE_POINT_JUMPERS,2007
+Luther Head,101129,Layup Shot,2,74,30,Standard Layup,LAYUPS,2007
+Luther Head,101129,Reverse Layup Shot,2,18,12,Reverse Layup,LAYUPS,2007
+Luther Head,101129,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,2007
+Luther Head,101129,Running Jump Shot,2,18,8,2PT Running Jump Shot,TWO_POINT_JUMPERS,2007
+Luther Head,101129,Running Layup Shot,2,3,1,Standard Layup,LAYUPS,2007
+Luther Head,101129,Driving Finger Roll Layup Shot,2,3,1,Finger Roll,LAYUPS,2008
+Luther Head,101129,Driving Layup Shot,2,39,28,Driving Layup,LAYUPS,2008
+Luther Head,101129,Driving Reverse Layup Shot,2,5,4,Driving Layup,LAYUPS,2008
+Luther Head,101129,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2008
+Luther Head,101129,Fadeaway Jump Shot,2,3,3,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2008
+Luther Head,101129,Fadeaway Jump Shot,3,1,0,3PT Fadeaway Jump Shot,THREE_POINT_JUMPERS,2008
+Luther Head,101129,Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2008
+Luther Head,101129,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2008
+Luther Head,101129,Jump Shot,2,85,35,2PT Jump Shot,TWO_POINT_JUMPERS,2008
+Luther Head,101129,Jump Shot,3,221,78,3PT Jump Shot,THREE_POINT_JUMPERS,2008
+Luther Head,101129,Layup Shot,2,74,28,Standard Layup,LAYUPS,2008
+Luther Head,101129,Pullup Jump shot,2,4,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2008
+Luther Head,101129,Reverse Layup Shot,2,19,14,Reverse Layup,LAYUPS,2008
+Luther Head,101129,Running Bank shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2008
+Luther Head,101129,Running Jump Shot,2,8,4,2PT Running Jump Shot,TWO_POINT_JUMPERS,2008
+Luther Head,101129,Running Jump Shot,3,2,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2008
+Luther Head,101129,Running Layup Shot,2,3,2,Standard Layup,LAYUPS,2008
+Luther Head,101129,Step Back Jump shot,2,3,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2008
+Luther Head,101129,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,2008
+Luther Head,101129,Driving Layup Shot,2,11,8,Driving Layup,LAYUPS,2009
+Luther Head,101129,Driving Reverse Layup Shot,2,2,1,Driving Layup,LAYUPS,2009
+Luther Head,101129,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2009
+Luther Head,101129,Floating Jump shot,2,3,1,2PT Floating Jump Shot,FLOATING_SHOTS,2009
+Luther Head,101129,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2009
+Luther Head,101129,Jump Shot,2,36,8,2PT Jump Shot,TWO_POINT_JUMPERS,2009
+Luther Head,101129,Jump Shot,3,51,18,3PT Jump Shot,THREE_POINT_JUMPERS,2009
+Luther Head,101129,Layup Shot,2,17,7,Standard Layup,LAYUPS,2009
+Luther Head,101129,Pullup Jump shot,2,2,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2009
+Luther Head,101129,Pullup Jump shot,3,2,2,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2009
+Luther Head,101129,Reverse Layup Shot,2,5,3,Reverse Layup,LAYUPS,2009
+Luther Head,101129,Running Jump Shot,2,11,5,2PT Running Jump Shot,TWO_POINT_JUMPERS,2009
+Luther Head,101129,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2009
+Luther Head,101129,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2009
+Luther Head,101129,Driving Finger Roll Layup Shot,2,3,3,Finger Roll,LAYUPS,2010
+Luther Head,101129,Driving Layup Shot,2,24,17,Driving Layup,LAYUPS,2010
+Luther Head,101129,Driving Reverse Layup Shot,2,3,2,Driving Layup,LAYUPS,2010
+Luther Head,101129,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2010
+Luther Head,101129,Fadeaway Jump Shot,2,5,5,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2010
+Luther Head,101129,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2010
+Luther Head,101129,Floating Jump shot,2,7,5,2PT Floating Jump Shot,FLOATING_SHOTS,2010
+Luther Head,101129,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2010
+Luther Head,101129,Jump Shot,2,133,38,2PT Jump Shot,TWO_POINT_JUMPERS,2010
+Luther Head,101129,Jump Shot,3,68,24,3PT Jump Shot,THREE_POINT_JUMPERS,2010
+Luther Head,101129,Layup Shot,2,36,17,Standard Layup,LAYUPS,2010
+Luther Head,101129,Pullup Jump shot,2,8,7,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2010
+Luther Head,101129,Pullup Jump shot,3,1,1,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2010
+Luther Head,101129,Reverse Layup Shot,2,12,10,Reverse Layup,LAYUPS,2010
+Luther Head,101129,Running Bank shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2010
+Luther Head,101129,Running Jump Shot,2,4,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2010
+Luther Head,101129,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2010
+Luther Head,101129,Step Back Jump shot,2,1,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2010
+Luther Head,101129,Driving Jump shot,2,1,1,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2011
+Luther Head,101129,Driving Layup Shot,2,7,4,Driving Layup,LAYUPS,2011
+Luther Head,101129,Driving Reverse Layup Shot,2,2,2,Driving Layup,LAYUPS,2011
+Luther Head,101129,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2011
+Luther Head,101129,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2011
+Luther Head,101129,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Luther Head,101129,Jump Bank Shot,3,1,1,3PT Jump Shot,THREE_POINT_JUMPERS,2011
+Luther Head,101129,Jump Shot,2,75,19,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Luther Head,101129,Jump Shot,3,42,16,3PT Jump Shot,THREE_POINT_JUMPERS,2011
+Luther Head,101129,Layup Shot,2,14,8,Standard Layup,LAYUPS,2011
+Luther Head,101129,Pullup Jump shot,2,6,5,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2011
+Luther Head,101129,Reverse Layup Shot,2,5,3,Reverse Layup,LAYUPS,2011
+Luther Head,101129,Running Bank shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2011
+Luther Head,101129,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2011
+Luther Head,101129,Running Hook Shot,2,2,1,Running Hook Shot,POST_MOVES,2011
+Luther Head,101129,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2011
+Luther Head,101129,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2011
+Luther Head,101129,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2011

@@ -1,12 +1,12 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Brian Bowen II,1628968,Alley Oop Dunk,2,1,1,DUNKS,,2020
-Brian Bowen II,1628968,Alley Oop Layup,2,1,0,LAYUPS,,2020
-Brian Bowen II,1628968,Finger Roll,2,1,1,LAYUPS,,2020
-Brian Bowen II,1628968,Jump Shot,2,3,0,JUMP_SHOTS,,2020
-Brian Bowen II,1628968,Pullup Jump Shot,2,1,1,JUMP_SHOTS,,2020
-Brian Bowen II,1628968,Putback Layup,2,1,0,LAYUPS,,2020
-Brian Bowen II,1628968,Standard Layup,2,1,0,LAYUPS,,2020
-Brian Bowen II,1628968,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2020
-Brian Bowen II,1628968,Driving Hook Shot,2,1,1,POST_MOVES,,2021
-Brian Bowen II,1628968,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2021
-Brian Bowen II,1628968,Jump Shot,2,2,0,JUMP_SHOTS,,2021
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Brian Bowen II,1628968,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2020
+Brian Bowen II,1628968,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2020
+Brian Bowen II,1628968,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2020
+Brian Bowen II,1628968,Jump Shot,2,3,0,2PT Jump Shot,TWO_POINT_JUMPERS,2020
+Brian Bowen II,1628968,Pullup Jump shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2020
+Brian Bowen II,1628968,Putback Layup Shot,2,1,0,Putback Layup,LAYUPS,2020
+Brian Bowen II,1628968,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2020
+Brian Bowen II,1628968,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2020
+Brian Bowen II,1628968,Driving Bank Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2021
+Brian Bowen II,1628968,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2021
+Brian Bowen II,1628968,Jump Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2021

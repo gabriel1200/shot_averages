@@ -1,11 +1,11 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Julius Hodge,101125,Alley Oop Layup,2,1,0,LAYUPS,,2006
-Julius Hodge,101125,Hook Shot,2,1,0,POST_MOVES,,2006
-Julius Hodge,101125,Jump Shot,2,2,1,JUMP_SHOTS,,2006
-Julius Hodge,101125,Reverse Layup,2,1,0,LAYUPS,,2006
-Julius Hodge,101125,Standard Layup,2,5,2,LAYUPS,,2006
-Julius Hodge,101125,Tip Shot,2,3,2,TIP_SHOTS,,2006
-Julius Hodge,101125,Jump Shot,2,4,2,JUMP_SHOTS,,2007
-Julius Hodge,101125,Reverse Layup,2,1,1,LAYUPS,,2007
-Julius Hodge,101125,Running Jump Shot,2,2,1,JUMP_SHOTS,,2007
-Julius Hodge,101125,Standard Layup,2,5,2,LAYUPS,,2007
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Julius Hodge,101125,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2006
+Julius Hodge,101125,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2006
+Julius Hodge,101125,Jump Shot,2,2,1,2PT Jump Shot,TWO_POINT_JUMPERS,2006
+Julius Hodge,101125,Layup Shot,2,5,2,Standard Layup,LAYUPS,2006
+Julius Hodge,101125,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2006
+Julius Hodge,101125,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,2006
+Julius Hodge,101125,Jump Shot,2,4,2,2PT Jump Shot,TWO_POINT_JUMPERS,2007
+Julius Hodge,101125,Layup Shot,2,5,2,Standard Layup,LAYUPS,2007
+Julius Hodge,101125,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2007
+Julius Hodge,101125,Running Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2007

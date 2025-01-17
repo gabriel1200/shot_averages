@@ -1,7 +1,8 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Nate Huffman,1572,Hook Shot,2,1,0,POST_MOVES,,2003
-Nate Huffman,1572,Jump Shot,2,7,2,JUMP_SHOTS,,2003
-Nate Huffman,1572,Standard Dunk,2,4,4,DUNKS,,2003
-Nate Huffman,1572,Standard Layup,2,8,2,LAYUPS,,2003
-Nate Huffman,1572,Tip Shot,2,4,1,TIP_SHOTS,,2003
-Nate Huffman,1572,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2003
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Nate Huffman,1572,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2003
+Nate Huffman,1572,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2003
+Nate Huffman,1572,Jump Shot,2,7,2,2PT Jump Shot,TWO_POINT_JUMPERS,2003
+Nate Huffman,1572,Layup Shot,2,8,2,Standard Layup,LAYUPS,2003
+Nate Huffman,1572,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,2003
+Nate Huffman,1572,Tip Shot,2,4,1,Tip Shot,TIP_SHOTS,2003
+Nate Huffman,1572,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2003

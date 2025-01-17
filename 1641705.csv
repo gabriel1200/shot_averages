@@ -1,55 +1,103 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Victor Wembanyama,1641705,Alley Oop Dunk,2,65,58,DUNKS,,2024
-Victor Wembanyama,1641705,Alley Oop Layup,2,43,27,LAYUPS,,2024
-Victor Wembanyama,1641705,Driving Dunk,2,27,24,DUNKS,,2024
-Victor Wembanyama,1641705,Driving Hook Shot,2,9,4,POST_MOVES,,2024
-Victor Wembanyama,1641705,Driving Layup,2,53,24,LAYUPS,,2024
-Victor Wembanyama,1641705,Fadeaway Jump Shot,2,35,9,JUMP_SHOTS,,2024
-Victor Wembanyama,1641705,Fadeaway Jump Shot,3,1,0,JUMP_SHOTS,,2024
-Victor Wembanyama,1641705,Finger Roll,2,36,21,LAYUPS,,2024
-Victor Wembanyama,1641705,Floating Jump Shot,2,43,16,FLOATING_SHOTS,,2024
-Victor Wembanyama,1641705,Hook Shot,2,17,6,POST_MOVES,,2024
-Victor Wembanyama,1641705,Jump Shot,2,80,34,JUMP_SHOTS,,2024
-Victor Wembanyama,1641705,Jump Shot,3,218,60,JUMP_SHOTS,,2024
-Victor Wembanyama,1641705,Pullup Jump Shot,2,41,12,JUMP_SHOTS,,2024
-Victor Wembanyama,1641705,Pullup Jump Shot,3,79,31,JUMP_SHOTS,,2024
-Victor Wembanyama,1641705,Putback Dunk,2,5,4,DUNKS,,2024
-Victor Wembanyama,1641705,Putback Layup,2,67,30,LAYUPS,,2024
-Victor Wembanyama,1641705,Reverse Dunk,2,3,3,DUNKS,,2024
-Victor Wembanyama,1641705,Reverse Layup,2,6,2,LAYUPS,,2024
-Victor Wembanyama,1641705,Running Jump Shot,2,7,2,JUMP_SHOTS,,2024
-Victor Wembanyama,1641705,Running Jump Shot,3,44,13,JUMP_SHOTS,,2024
-Victor Wembanyama,1641705,Specialty Dunk,2,47,38,DUNKS,,2024
-Victor Wembanyama,1641705,Standard Dunk,2,40,38,DUNKS,,2024
-Victor Wembanyama,1641705,Standard Layup,2,53,27,LAYUPS,,2024
-Victor Wembanyama,1641705,Step Back Jump Shot,2,10,1,JUMP_SHOTS,,2024
-Victor Wembanyama,1641705,Step Back Jump Shot,3,52,24,JUMP_SHOTS,,2024
-Victor Wembanyama,1641705,Turnaround Hook Shot,2,25,13,POST_MOVES,,2024
-Victor Wembanyama,1641705,Turnaround Jump Shot,2,80,30,JUMP_SHOTS,,2024
-Victor Wembanyama,1641705,Alley Oop Dunk,2,24,22,DUNKS,,2025
-Victor Wembanyama,1641705,Alley Oop Layup,2,13,8,LAYUPS,,2025
-Victor Wembanyama,1641705,Driving Dunk,2,12,11,DUNKS,,2025
-Victor Wembanyama,1641705,Driving Hook Shot,2,1,0,POST_MOVES,,2025
-Victor Wembanyama,1641705,Driving Layup,2,21,8,LAYUPS,,2025
-Victor Wembanyama,1641705,Fadeaway Jump Shot,2,25,7,JUMP_SHOTS,,2025
-Victor Wembanyama,1641705,Fadeaway Jump Shot,3,2,0,JUMP_SHOTS,,2025
-Victor Wembanyama,1641705,Finger Roll,2,22,16,LAYUPS,,2025
-Victor Wembanyama,1641705,Floating Jump Shot,2,23,10,FLOATING_SHOTS,,2025
-Victor Wembanyama,1641705,Floating Jump Shot,3,3,1,FLOATING_SHOTS,,2025
-Victor Wembanyama,1641705,Hook Shot,2,2,1,POST_MOVES,,2025
-Victor Wembanyama,1641705,Jump Shot,2,33,16,JUMP_SHOTS,,2025
-Victor Wembanyama,1641705,Jump Shot,3,206,77,JUMP_SHOTS,,2025
-Victor Wembanyama,1641705,Pullup Jump Shot,2,34,12,JUMP_SHOTS,,2025
-Victor Wembanyama,1641705,Pullup Jump Shot,3,38,9,JUMP_SHOTS,,2025
-Victor Wembanyama,1641705,Putback Dunk,2,5,4,DUNKS,,2025
-Victor Wembanyama,1641705,Putback Layup,2,18,12,LAYUPS,,2025
-Victor Wembanyama,1641705,Reverse Dunk,2,3,3,DUNKS,,2025
-Victor Wembanyama,1641705,Running Jump Shot,2,1,1,JUMP_SHOTS,,2025
-Victor Wembanyama,1641705,Running Jump Shot,3,31,12,JUMP_SHOTS,,2025
-Victor Wembanyama,1641705,Specialty Dunk,2,14,14,DUNKS,,2025
-Victor Wembanyama,1641705,Standard Dunk,2,14,14,DUNKS,,2025
-Victor Wembanyama,1641705,Standard Layup,2,33,19,LAYUPS,,2025
-Victor Wembanyama,1641705,Step Back Jump Shot,2,4,1,JUMP_SHOTS,,2025
-Victor Wembanyama,1641705,Step Back Jump Shot,3,33,11,JUMP_SHOTS,,2025
-Victor Wembanyama,1641705,Turnaround Hook Shot,2,3,1,POST_MOVES,,2025
-Victor Wembanyama,1641705,Turnaround Jump Shot,2,26,16,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Victor Wembanyama,1641705,Alley Oop Dunk Shot,2,50,44,Alley Oop Dunk,DUNKS,2024
+Victor Wembanyama,1641705,Alley Oop Layup shot,2,36,21,Alley Oop Layup,LAYUPS,2024
+Victor Wembanyama,1641705,Cutting Dunk Shot,2,30,27,Specialty Dunk,DUNKS,2024
+Victor Wembanyama,1641705,Cutting Finger Roll Layup Shot,2,5,2,Finger Roll,LAYUPS,2024
+Victor Wembanyama,1641705,Cutting Layup Shot,2,9,7,Standard Layup,LAYUPS,2024
+Victor Wembanyama,1641705,Driving Bank Hook Shot,2,2,2,Driving Hook Shot,POST_MOVES,2024
+Victor Wembanyama,1641705,Driving Dunk Shot,2,27,24,Driving Dunk,DUNKS,2024
+Victor Wembanyama,1641705,Driving Finger Roll Layup Shot,2,23,12,Finger Roll,LAYUPS,2024
+Victor Wembanyama,1641705,Driving Floating Bank Jump Shot,2,12,4,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Victor Wembanyama,1641705,Driving Floating Jump Shot,2,17,6,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Victor Wembanyama,1641705,Driving Hook Shot,2,7,2,Driving Hook Shot,POST_MOVES,2024
+Victor Wembanyama,1641705,Driving Layup Shot,2,47,21,Driving Layup,LAYUPS,2024
+Victor Wembanyama,1641705,Driving Reverse Dunk Shot,2,2,2,Reverse Dunk,DUNKS,2024
+Victor Wembanyama,1641705,Driving Reverse Layup Shot,2,6,3,Driving Layup,LAYUPS,2024
+Victor Wembanyama,1641705,Dunk Shot,2,25,24,Standard Dunk,DUNKS,2024
+Victor Wembanyama,1641705,Fadeaway Bank shot,2,2,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
+Victor Wembanyama,1641705,Fadeaway Jump Shot,2,33,8,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
+Victor Wembanyama,1641705,Fadeaway Jump Shot,3,1,0,3PT Fadeaway Jump Shot,THREE_POINT_JUMPERS,2024
+Victor Wembanyama,1641705,Finger Roll Layup Shot,2,6,6,Finger Roll,LAYUPS,2024
+Victor Wembanyama,1641705,Floating Jump shot,2,14,6,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Victor Wembanyama,1641705,Hook Bank Shot,2,3,1,Hook Shot,POST_MOVES,2024
+Victor Wembanyama,1641705,Hook Shot,2,14,5,Hook Shot,POST_MOVES,2024
+Victor Wembanyama,1641705,Jump Bank Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2024
+Victor Wembanyama,1641705,Jump Bank Shot,3,2,0,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Victor Wembanyama,1641705,Jump Shot,2,78,34,2PT Jump Shot,TWO_POINT_JUMPERS,2024
+Victor Wembanyama,1641705,Jump Shot,3,216,60,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Victor Wembanyama,1641705,Layup Shot,2,32,15,Standard Layup,LAYUPS,2024
+Victor Wembanyama,1641705,Pullup Jump shot,2,41,12,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2024
+Victor Wembanyama,1641705,Pullup Jump shot,3,79,31,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
+Victor Wembanyama,1641705,Putback Dunk Shot,2,5,4,Putback Dunk,DUNKS,2024
+Victor Wembanyama,1641705,Putback Layup Shot,2,15,10,Putback Layup,LAYUPS,2024
+Victor Wembanyama,1641705,Reverse Dunk Shot,2,1,1,Reverse Dunk,DUNKS,2024
+Victor Wembanyama,1641705,Reverse Layup Shot,2,5,1,Reverse Layup,LAYUPS,2024
+Victor Wembanyama,1641705,Running Alley Oop Dunk Shot,2,15,14,Alley Oop Dunk,DUNKS,2024
+Victor Wembanyama,1641705,Running Alley Oop Layup Shot,2,7,6,Alley Oop Layup,LAYUPS,2024
+Victor Wembanyama,1641705,Running Dunk Shot,2,15,14,Standard Dunk,DUNKS,2024
+Victor Wembanyama,1641705,Running Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2024
+Victor Wembanyama,1641705,Running Jump Shot,2,5,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2024
+Victor Wembanyama,1641705,Running Jump Shot,3,18,7,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Victor Wembanyama,1641705,Running Layup Shot,2,12,5,Standard Layup,LAYUPS,2024
+Victor Wembanyama,1641705,Running Pull-Up Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2024
+Victor Wembanyama,1641705,Running Pull-Up Jump Shot,3,26,6,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Victor Wembanyama,1641705,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2024
+Victor Wembanyama,1641705,Step Back Jump shot,2,10,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2024
+Victor Wembanyama,1641705,Step Back Jump shot,3,52,24,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
+Victor Wembanyama,1641705,Tip Dunk Shot,2,17,11,Specialty Dunk,DUNKS,2024
+Victor Wembanyama,1641705,Tip Layup Shot,2,52,20,Putback Layup,LAYUPS,2024
+Victor Wembanyama,1641705,Turnaround Bank Hook Shot,2,7,5,Turnaround Hook Shot,POST_MOVES,2024
+Victor Wembanyama,1641705,Turnaround Bank shot,2,9,5,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Victor Wembanyama,1641705,Turnaround Fadeaway Bank Jump Shot,2,2,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Victor Wembanyama,1641705,Turnaround Fadeaway shot,2,32,10,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Victor Wembanyama,1641705,Turnaround Hook Shot,2,18,8,Turnaround Hook Shot,POST_MOVES,2024
+Victor Wembanyama,1641705,Turnaround Jump Shot,2,37,13,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Victor Wembanyama,1641705,Alley Oop Dunk Shot,2,18,17,Alley Oop Dunk,DUNKS,2025
+Victor Wembanyama,1641705,Alley Oop Layup shot,2,13,8,Alley Oop Layup,LAYUPS,2025
+Victor Wembanyama,1641705,Cutting Dunk Shot,2,9,9,Specialty Dunk,DUNKS,2025
+Victor Wembanyama,1641705,Cutting Finger Roll Layup Shot,2,3,2,Finger Roll,LAYUPS,2025
+Victor Wembanyama,1641705,Cutting Layup Shot,2,12,8,Standard Layup,LAYUPS,2025
+Victor Wembanyama,1641705,Driving Dunk Shot,2,12,11,Driving Dunk,DUNKS,2025
+Victor Wembanyama,1641705,Driving Finger Roll Layup Shot,2,15,12,Finger Roll,LAYUPS,2025
+Victor Wembanyama,1641705,Driving Floating Bank Jump Shot,2,11,7,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Victor Wembanyama,1641705,Driving Floating Jump Shot,2,8,1,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Victor Wembanyama,1641705,Driving Floating Jump Shot,3,2,0,3PT Floating Jump Shot,FLOATING_SHOTS,2025
+Victor Wembanyama,1641705,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2025
+Victor Wembanyama,1641705,Driving Layup Shot,2,20,8,Driving Layup,LAYUPS,2025
+Victor Wembanyama,1641705,Driving Reverse Dunk Shot,2,2,2,Reverse Dunk,DUNKS,2025
+Victor Wembanyama,1641705,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2025
+Victor Wembanyama,1641705,Dunk Shot,2,7,7,Standard Dunk,DUNKS,2025
+Victor Wembanyama,1641705,Fadeaway Bank shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
+Victor Wembanyama,1641705,Fadeaway Jump Shot,2,24,7,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
+Victor Wembanyama,1641705,Fadeaway Jump Shot,3,2,0,3PT Fadeaway Jump Shot,THREE_POINT_JUMPERS,2025
+Victor Wembanyama,1641705,Finger Roll Layup Shot,2,3,2,Finger Roll,LAYUPS,2025
+Victor Wembanyama,1641705,Floating Jump shot,2,4,2,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Victor Wembanyama,1641705,Floating Jump shot,3,1,1,3PT Floating Jump Shot,FLOATING_SHOTS,2025
+Victor Wembanyama,1641705,Hook Shot,2,2,1,Hook Shot,POST_MOVES,2025
+Victor Wembanyama,1641705,Jump Bank Shot,2,3,1,2PT Jump Shot,TWO_POINT_JUMPERS,2025
+Victor Wembanyama,1641705,Jump Shot,2,30,15,2PT Jump Shot,TWO_POINT_JUMPERS,2025
+Victor Wembanyama,1641705,Jump Shot,3,206,77,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Victor Wembanyama,1641705,Layup Shot,2,18,8,Standard Layup,LAYUPS,2025
+Victor Wembanyama,1641705,Pullup Jump shot,2,34,12,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
+Victor Wembanyama,1641705,Pullup Jump shot,3,38,9,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
+Victor Wembanyama,1641705,Putback Dunk Shot,2,5,4,Putback Dunk,DUNKS,2025
+Victor Wembanyama,1641705,Putback Layup Shot,2,4,3,Putback Layup,LAYUPS,2025
+Victor Wembanyama,1641705,Reverse Dunk Shot,2,1,1,Reverse Dunk,DUNKS,2025
+Victor Wembanyama,1641705,Running Alley Oop Dunk Shot,2,6,5,Alley Oop Dunk,DUNKS,2025
+Victor Wembanyama,1641705,Running Dunk Shot,2,7,7,Standard Dunk,DUNKS,2025
+Victor Wembanyama,1641705,Running Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2025
+Victor Wembanyama,1641705,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2025
+Victor Wembanyama,1641705,Running Jump Shot,3,17,6,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Victor Wembanyama,1641705,Running Layup Shot,2,3,3,Standard Layup,LAYUPS,2025
+Victor Wembanyama,1641705,Running Pull-Up Jump Shot,3,14,6,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Victor Wembanyama,1641705,Step Back Bank Jump Shot,3,2,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
+Victor Wembanyama,1641705,Step Back Jump shot,2,4,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2025
+Victor Wembanyama,1641705,Step Back Jump shot,3,31,11,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
+Victor Wembanyama,1641705,Tip Dunk Shot,2,5,5,Specialty Dunk,DUNKS,2025
+Victor Wembanyama,1641705,Tip Layup Shot,2,14,9,Putback Layup,LAYUPS,2025
+Victor Wembanyama,1641705,Turnaround Bank Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2025
+Victor Wembanyama,1641705,Turnaround Bank shot,2,5,4,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+Victor Wembanyama,1641705,Turnaround Fadeaway Bank Jump Shot,2,3,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+Victor Wembanyama,1641705,Turnaround Fadeaway shot,2,7,5,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+Victor Wembanyama,1641705,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,2025
+Victor Wembanyama,1641705,Turnaround Jump Shot,2,11,5,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025

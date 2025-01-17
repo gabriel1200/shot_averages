@@ -1,26 +1,31 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Hanno Mottola,2069,Driving Dunk,2,2,2,DUNKS,,2001
-Hanno Mottola,2069,Driving Layup,2,8,5,LAYUPS,,2001
-Hanno Mottola,2069,Finger Roll,2,1,1,LAYUPS,,2001
-Hanno Mottola,2069,Hook Shot,2,10,8,POST_MOVES,,2001
-Hanno Mottola,2069,Jump Shot,2,180,61,JUMP_SHOTS,,2001
-Hanno Mottola,2069,Reverse Layup,2,2,2,LAYUPS,,2001
-Hanno Mottola,2069,Running Jump Shot,2,4,3,JUMP_SHOTS,,2001
-Hanno Mottola,2069,Standard Dunk,2,9,9,DUNKS,,2001
-Hanno Mottola,2069,Standard Layup,2,47,24,LAYUPS,,2001
-Hanno Mottola,2069,Tip Shot,2,5,2,TIP_SHOTS,,2001
-Hanno Mottola,2069,Turnaround Hook Shot,2,4,3,POST_MOVES,,2001
-Hanno Mottola,2069,Turnaround Jump Shot,2,5,3,JUMP_SHOTS,,2001
-Hanno Mottola,2069,Alley Oop Layup,2,1,0,LAYUPS,,2002
-Hanno Mottola,2069,Driving Layup,2,4,3,LAYUPS,,2002
-Hanno Mottola,2069,Finger Roll,2,4,2,LAYUPS,,2002
-Hanno Mottola,2069,Hook Shot,2,16,9,POST_MOVES,,2002
-Hanno Mottola,2069,Jump Shot,2,230,89,JUMP_SHOTS,,2002
-Hanno Mottola,2069,Reverse Layup,2,4,3,LAYUPS,,2002
-Hanno Mottola,2069,Running Hook Shot,2,1,1,POST_MOVES,,2002
-Hanno Mottola,2069,Running Jump Shot,2,5,3,JUMP_SHOTS,,2002
-Hanno Mottola,2069,Standard Dunk,2,7,6,DUNKS,,2002
-Hanno Mottola,2069,Standard Layup,2,96,43,LAYUPS,,2002
-Hanno Mottola,2069,Tip Shot,2,14,8,TIP_SHOTS,,2002
-Hanno Mottola,2069,Turnaround Hook Shot,2,1,1,POST_MOVES,,2002
-Hanno Mottola,2069,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2002
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Hanno Mottola,2069,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2001
+Hanno Mottola,2069,Driving Layup Shot,2,8,5,Driving Layup,LAYUPS,2001
+Hanno Mottola,2069,Dunk Shot,2,8,8,Standard Dunk,DUNKS,2001
+Hanno Mottola,2069,Hook Shot,2,10,8,Hook Shot,POST_MOVES,2001
+Hanno Mottola,2069,Jump Shot,2,180,61,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Hanno Mottola,2069,Layup Shot,2,46,23,Standard Layup,LAYUPS,2001
+Hanno Mottola,2069,Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2001
+Hanno Mottola,2069,Running Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2001
+Hanno Mottola,2069,Running Jump Shot,2,4,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
+Hanno Mottola,2069,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2001
+Hanno Mottola,2069,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2001
+Hanno Mottola,2069,Tip Shot,2,5,2,Tip Shot,TIP_SHOTS,2001
+Hanno Mottola,2069,Turnaround Hook Shot,2,4,3,Turnaround Hook Shot,POST_MOVES,2001
+Hanno Mottola,2069,Turnaround Jump Shot,2,5,3,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2001
+Hanno Mottola,2069,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2002
+Hanno Mottola,2069,Driving Finger Roll Shot,2,2,2,Finger Roll,LAYUPS,2002
+Hanno Mottola,2069,Driving Layup Shot,2,4,3,Driving Layup,LAYUPS,2002
+Hanno Mottola,2069,Dunk Shot,2,6,5,Standard Dunk,DUNKS,2002
+Hanno Mottola,2069,Finger Roll Shot,2,2,0,Finger Roll,LAYUPS,2002
+Hanno Mottola,2069,Hook Shot,2,15,8,Hook Shot,POST_MOVES,2002
+Hanno Mottola,2069,Jump Hook Shot,2,1,1,Hook Shot,POST_MOVES,2002
+Hanno Mottola,2069,Jump Shot,2,230,89,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Hanno Mottola,2069,Layup Shot,2,96,43,Standard Layup,LAYUPS,2002
+Hanno Mottola,2069,Reverse Layup Shot,2,4,3,Reverse Layup,LAYUPS,2002
+Hanno Mottola,2069,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,2002
+Hanno Mottola,2069,Running Jump Shot,2,5,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2002
+Hanno Mottola,2069,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2002
+Hanno Mottola,2069,Tip Shot,2,14,8,Tip Shot,TIP_SHOTS,2002
+Hanno Mottola,2069,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2002
+Hanno Mottola,2069,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2002

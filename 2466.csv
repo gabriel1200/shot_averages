@@ -1,5 +1,5 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Maurice Carter,2466,Jump Shot,2,30,7,JUMP_SHOTS,,2004
-Maurice Carter,2466,Jump Shot,3,1,1,JUMP_SHOTS,,2004
-Maurice Carter,2466,Standard Dunk,2,1,1,DUNKS,,2004
-Maurice Carter,2466,Standard Layup,2,3,2,LAYUPS,,2004
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Maurice Carter,2466,Jump Shot,2,30,7,2PT Jump Shot,TWO_POINT_JUMPERS,2004
+Maurice Carter,2466,Jump Shot,3,1,1,3PT Jump Shot,THREE_POINT_JUMPERS,2004
+Maurice Carter,2466,Layup Shot,2,3,2,Standard Layup,LAYUPS,2004
+Maurice Carter,2466,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2004

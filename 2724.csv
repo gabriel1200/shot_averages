@@ -1,5 +1,5 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Desmond Ferguson,2724,Jump Shot,2,9,3,JUMP_SHOTS,,2004
-Desmond Ferguson,2724,Standard Dunk,2,1,1,DUNKS,,2004
-Desmond Ferguson,2724,Standard Layup,2,1,1,LAYUPS,,2004
-Desmond Ferguson,2724,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2004
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Desmond Ferguson,2724,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2004
+Desmond Ferguson,2724,Jump Shot,2,9,3,2PT Jump Shot,TWO_POINT_JUMPERS,2004
+Desmond Ferguson,2724,Layup Shot,2,1,1,Standard Layup,LAYUPS,2004
+Desmond Ferguson,2724,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2004

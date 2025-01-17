@@ -1,42 +1,53 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-DeAndre Liggins,202732,Driving Layup,2,5,3,LAYUPS,,2012
-DeAndre Liggins,202732,Floating Jump Shot,2,2,0,FLOATING_SHOTS,,2012
-DeAndre Liggins,202732,Jump Shot,2,7,1,JUMP_SHOTS,,2012
-DeAndre Liggins,202732,Reverse Dunk,2,1,1,DUNKS,,2012
-DeAndre Liggins,202732,Reverse Layup,2,1,1,LAYUPS,,2012
-DeAndre Liggins,202732,Running Jump Shot,2,1,1,JUMP_SHOTS,,2012
-DeAndre Liggins,202732,Standard Dunk,2,2,1,DUNKS,,2012
-DeAndre Liggins,202732,Standard Layup,2,5,4,LAYUPS,,2012
-DeAndre Liggins,202732,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2012
-DeAndre Liggins,202732,Driving Jump Shot,2,1,0,JUMP_SHOTS,,2013
-DeAndre Liggins,202732,Driving Layup,2,3,2,LAYUPS,,2013
-DeAndre Liggins,202732,Floating Jump Shot,2,2,1,FLOATING_SHOTS,,2013
-DeAndre Liggins,202732,Jump Shot,2,24,9,JUMP_SHOTS,,2013
-DeAndre Liggins,202732,Putback Layup,2,1,1,LAYUPS,,2013
-DeAndre Liggins,202732,Reverse Layup,2,2,0,LAYUPS,,2013
-DeAndre Liggins,202732,Standard Dunk,2,1,1,DUNKS,,2013
-DeAndre Liggins,202732,Standard Layup,2,11,6,LAYUPS,,2013
-DeAndre Liggins,202732,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2013
-DeAndre Liggins,202732,Standard Layup,2,1,1,LAYUPS,,2014
-DeAndre Liggins,202732,Alley Oop Layup,2,2,1,LAYUPS,,2017
-DeAndre Liggins,202732,Driving Jump Shot,2,1,0,JUMP_SHOTS,,2017
-DeAndre Liggins,202732,Driving Layup,2,22,11,LAYUPS,,2017
-DeAndre Liggins,202732,Finger Roll,2,2,1,LAYUPS,,2017
-DeAndre Liggins,202732,Floating Jump Shot,2,4,1,FLOATING_SHOTS,,2017
-DeAndre Liggins,202732,Jump Shot,2,67,21,JUMP_SHOTS,,2017
-DeAndre Liggins,202732,Pullup Jump Shot,2,1,0,JUMP_SHOTS,,2017
-DeAndre Liggins,202732,Putback Layup,2,1,1,LAYUPS,,2017
-DeAndre Liggins,202732,Reverse Layup,2,7,2,LAYUPS,,2017
-DeAndre Liggins,202732,Running Jump Shot,2,1,0,JUMP_SHOTS,,2017
-DeAndre Liggins,202732,Standard Dunk,2,1,0,DUNKS,,2017
-DeAndre Liggins,202732,Standard Layup,2,31,17,LAYUPS,,2017
-DeAndre Liggins,202732,Turnaround Jump Shot,2,2,0,JUMP_SHOTS,,2017
-DeAndre Liggins,202732,Driving Layup,2,15,4,LAYUPS,,2018
-DeAndre Liggins,202732,Finger Roll,2,1,0,LAYUPS,,2018
-DeAndre Liggins,202732,Floating Jump Shot,2,2,2,FLOATING_SHOTS,,2018
-DeAndre Liggins,202732,Jump Shot,2,62,23,JUMP_SHOTS,,2018
-DeAndre Liggins,202732,Jump Shot,3,6,2,JUMP_SHOTS,,2018
-DeAndre Liggins,202732,Pullup Jump Shot,2,7,3,JUMP_SHOTS,,2018
-DeAndre Liggins,202732,Putback Layup,2,1,1,LAYUPS,,2018
-DeAndre Liggins,202732,Standard Layup,2,11,5,LAYUPS,,2018
-DeAndre Liggins,202732,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2018
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+DeAndre Liggins,202732,Driving Layup Shot,2,4,2,Driving Layup,LAYUPS,2012
+DeAndre Liggins,202732,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2012
+DeAndre Liggins,202732,Dunk Shot,2,2,1,Standard Dunk,DUNKS,2012
+DeAndre Liggins,202732,Floating Jump shot,2,2,0,2PT Floating Jump Shot,FLOATING_SHOTS,2012
+DeAndre Liggins,202732,Jump Shot,2,7,1,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+DeAndre Liggins,202732,Layup Shot,2,4,3,Standard Layup,LAYUPS,2012
+DeAndre Liggins,202732,Reverse Dunk Shot,2,1,1,Reverse Dunk,DUNKS,2012
+DeAndre Liggins,202732,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2012
+DeAndre Liggins,202732,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2012
+DeAndre Liggins,202732,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2012
+DeAndre Liggins,202732,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2012
+DeAndre Liggins,202732,Driving Jump shot,2,1,0,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2013
+DeAndre Liggins,202732,Driving Layup Shot,2,3,2,Driving Layup,LAYUPS,2013
+DeAndre Liggins,202732,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2013
+DeAndre Liggins,202732,Floating Jump shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2013
+DeAndre Liggins,202732,Jump Shot,2,24,9,2PT Jump Shot,TWO_POINT_JUMPERS,2013
+DeAndre Liggins,202732,Layup Shot,2,11,6,Standard Layup,LAYUPS,2013
+DeAndre Liggins,202732,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2013
+DeAndre Liggins,202732,Reverse Layup Shot,2,2,0,Reverse Layup,LAYUPS,2013
+DeAndre Liggins,202732,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2013
+DeAndre Liggins,202732,Layup Shot,2,1,1,Standard Layup,LAYUPS,2014
+DeAndre Liggins,202732,Alley Oop Layup shot,2,2,1,Alley Oop Layup,LAYUPS,2017
+DeAndre Liggins,202732,Cutting Layup Shot,2,5,4,Standard Layup,LAYUPS,2017
+DeAndre Liggins,202732,Driving Bank shot,2,1,0,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2017
+DeAndre Liggins,202732,Driving Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2017
+DeAndre Liggins,202732,Driving Floating Bank Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2017
+DeAndre Liggins,202732,Driving Floating Jump Shot,2,2,0,2PT Floating Jump Shot,FLOATING_SHOTS,2017
+DeAndre Liggins,202732,Driving Layup Shot,2,19,10,Driving Layup,LAYUPS,2017
+DeAndre Liggins,202732,Driving Reverse Layup Shot,2,3,1,Driving Layup,LAYUPS,2017
+DeAndre Liggins,202732,Dunk Shot,2,1,0,Standard Dunk,DUNKS,2017
+DeAndre Liggins,202732,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2017
+DeAndre Liggins,202732,Jump Shot,2,67,21,2PT Jump Shot,TWO_POINT_JUMPERS,2017
+DeAndre Liggins,202732,Layup Shot,2,17,7,Standard Layup,LAYUPS,2017
+DeAndre Liggins,202732,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2017
+DeAndre Liggins,202732,Reverse Layup Shot,2,6,2,Reverse Layup,LAYUPS,2017
+DeAndre Liggins,202732,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2017
+DeAndre Liggins,202732,Running Layup Shot,2,9,6,Standard Layup,LAYUPS,2017
+DeAndre Liggins,202732,Running Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2017
+DeAndre Liggins,202732,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2017
+DeAndre Liggins,202732,Turnaround Jump Shot,2,2,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2017
+DeAndre Liggins,202732,Cutting Layup Shot,2,1,0,Standard Layup,LAYUPS,2018
+DeAndre Liggins,202732,Driving Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2018
+DeAndre Liggins,202732,Driving Layup Shot,2,14,3,Driving Layup,LAYUPS,2018
+DeAndre Liggins,202732,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2018
+DeAndre Liggins,202732,Floating Jump shot,2,2,2,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+DeAndre Liggins,202732,Jump Shot,2,62,23,2PT Jump Shot,TWO_POINT_JUMPERS,2018
+DeAndre Liggins,202732,Jump Shot,3,6,2,3PT Jump Shot,THREE_POINT_JUMPERS,2018
+DeAndre Liggins,202732,Layup Shot,2,6,2,Standard Layup,LAYUPS,2018
+DeAndre Liggins,202732,Pullup Jump shot,2,7,3,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2018
+DeAndre Liggins,202732,Running Layup Shot,2,4,3,Standard Layup,LAYUPS,2018
+DeAndre Liggins,202732,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2018
+DeAndre Liggins,202732,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2018

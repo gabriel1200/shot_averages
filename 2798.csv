@@ -1,6 +1,6 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Horace Jenkins,2798,Alley Oop Layup,2,1,1,LAYUPS,,2005
-Horace Jenkins,2798,Driving Layup,2,3,3,LAYUPS,,2005
-Horace Jenkins,2798,Jump Shot,2,27,6,JUMP_SHOTS,,2005
-Horace Jenkins,2798,Reverse Layup,2,1,1,LAYUPS,,2005
-Horace Jenkins,2798,Standard Layup,2,13,4,LAYUPS,,2005
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Horace Jenkins,2798,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2005
+Horace Jenkins,2798,Driving Layup Shot,2,3,3,Driving Layup,LAYUPS,2005
+Horace Jenkins,2798,Jump Shot,2,27,6,2PT Jump Shot,TWO_POINT_JUMPERS,2005
+Horace Jenkins,2798,Layup Shot,2,13,4,Standard Layup,LAYUPS,2005
+Horace Jenkins,2798,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2005

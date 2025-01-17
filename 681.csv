@@ -1,17 +1,17 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Donny Marshall,681,Driving Dunk,2,1,1,DUNKS,,1997
-Donny Marshall,681,Driving Layup,2,12,5,LAYUPS,,1997
-Donny Marshall,681,Jump Shot,2,128,41,JUMP_SHOTS,,1997
-Donny Marshall,681,Running Jump Shot,2,1,0,JUMP_SHOTS,,1997
-Donny Marshall,681,Standard Dunk,2,1,1,DUNKS,,1997
-Donny Marshall,681,Standard Layup,2,15,3,LAYUPS,,1997
-Donny Marshall,681,Tip Shot,2,2,1,TIP_SHOTS,,1997
-Donny Marshall,681,Hook Shot,2,1,0,POST_MOVES,,2000
-Donny Marshall,681,Jump Shot,2,7,1,JUMP_SHOTS,,2000
-Donny Marshall,681,Standard Layup,2,3,2,LAYUPS,,2000
-Donny Marshall,681,Driving Layup,2,3,0,LAYUPS,,2002
-Donny Marshall,681,Jump Shot,2,17,5,JUMP_SHOTS,,2002
-Donny Marshall,681,Running Jump Shot,2,2,0,JUMP_SHOTS,,2002
-Donny Marshall,681,Standard Dunk,2,1,1,DUNKS,,2002
-Donny Marshall,681,Standard Layup,2,6,2,LAYUPS,,2002
-Donny Marshall,681,Jump Shot,2,3,0,JUMP_SHOTS,,2003
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Donny Marshall,681,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,1997
+Donny Marshall,681,Driving Layup Shot,2,12,5,Driving Layup,LAYUPS,1997
+Donny Marshall,681,Jump Shot,2,128,41,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Donny Marshall,681,Layup Shot,2,15,3,Standard Layup,LAYUPS,1997
+Donny Marshall,681,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
+Donny Marshall,681,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,1997
+Donny Marshall,681,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,1997
+Donny Marshall,681,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2000
+Donny Marshall,681,Jump Shot,2,7,1,2PT Jump Shot,TWO_POINT_JUMPERS,2000
+Donny Marshall,681,Layup Shot,2,3,2,Standard Layup,LAYUPS,2000
+Donny Marshall,681,Driving Layup Shot,2,3,0,Driving Layup,LAYUPS,2002
+Donny Marshall,681,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2002
+Donny Marshall,681,Jump Shot,2,17,5,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Donny Marshall,681,Layup Shot,2,6,2,Standard Layup,LAYUPS,2002
+Donny Marshall,681,Running Jump Shot,2,2,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2002
+Donny Marshall,681,Jump Shot,2,3,0,2PT Jump Shot,TWO_POINT_JUMPERS,2003

@@ -1,5 +1,5 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Marlon Garnett,1831,Driving Layup,2,6,5,LAYUPS,,1999
-Marlon Garnett,1831,Jump Shot,2,37,10,JUMP_SHOTS,,1999
-Marlon Garnett,1831,Jump Shot,3,2,0,JUMP_SHOTS,,1999
-Marlon Garnett,1831,Standard Layup,2,6,0,LAYUPS,,1999
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Marlon Garnett,1831,Driving Layup Shot,2,6,5,Driving Layup,LAYUPS,1999
+Marlon Garnett,1831,Jump Shot,2,37,10,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Marlon Garnett,1831,Jump Shot,3,2,0,3PT Jump Shot,THREE_POINT_JUMPERS,1999
+Marlon Garnett,1831,Layup Shot,2,6,0,Standard Layup,LAYUPS,1999

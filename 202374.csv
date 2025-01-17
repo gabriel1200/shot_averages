@@ -1,16 +1,21 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Solomon Alabi,202374,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2011
-Solomon Alabi,202374,Hook Shot,2,3,1,POST_MOVES,,2011
-Solomon Alabi,202374,Jump Shot,2,9,0,JUMP_SHOTS,,2011
-Solomon Alabi,202374,Standard Dunk,2,2,2,DUNKS,,2011
-Solomon Alabi,202374,Driving Hook Shot,2,1,0,POST_MOVES,,2012
-Solomon Alabi,202374,Driving Layup,2,1,0,LAYUPS,,2012
-Solomon Alabi,202374,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2012
-Solomon Alabi,202374,Hook Shot,2,3,1,POST_MOVES,,2012
-Solomon Alabi,202374,Jump Shot,2,9,1,JUMP_SHOTS,,2012
-Solomon Alabi,202374,Pullup Jump Shot,2,1,1,JUMP_SHOTS,,2012
-Solomon Alabi,202374,Putback Dunk,2,2,1,DUNKS,,2012
-Solomon Alabi,202374,Standard Dunk,2,6,5,DUNKS,,2012
-Solomon Alabi,202374,Standard Layup,2,3,2,LAYUPS,,2012
-Solomon Alabi,202374,Tip Shot,2,6,2,TIP_SHOTS,,2012
-Solomon Alabi,202374,Turnaround Jump Shot,2,3,0,JUMP_SHOTS,,2012
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Solomon Alabi,202374,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2011
+Solomon Alabi,202374,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2011
+Solomon Alabi,202374,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2011
+Solomon Alabi,202374,Jump Hook Shot,2,2,1,Hook Shot,POST_MOVES,2011
+Solomon Alabi,202374,Jump Shot,2,9,0,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Solomon Alabi,202374,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2012
+Solomon Alabi,202374,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2012
+Solomon Alabi,202374,Dunk Shot,2,2,1,Standard Dunk,DUNKS,2012
+Solomon Alabi,202374,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2012
+Solomon Alabi,202374,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2012
+Solomon Alabi,202374,Jump Hook Shot,2,2,1,Hook Shot,POST_MOVES,2012
+Solomon Alabi,202374,Jump Shot,2,9,1,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Solomon Alabi,202374,Layup Shot,2,3,2,Standard Layup,LAYUPS,2012
+Solomon Alabi,202374,Pullup Jump shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2012
+Solomon Alabi,202374,Putback Dunk Shot,2,1,0,Putback Dunk,DUNKS,2012
+Solomon Alabi,202374,Putback Slam Dunk Shot,2,1,1,Putback Dunk,DUNKS,2012
+Solomon Alabi,202374,Slam Dunk Shot,2,4,4,Standard Dunk,DUNKS,2012
+Solomon Alabi,202374,Tip Shot,2,6,2,Tip Shot,TIP_SHOTS,2012
+Solomon Alabi,202374,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2012
+Solomon Alabi,202374,Turnaround Jump Shot,2,2,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2012

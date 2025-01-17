@@ -1,45 +1,72 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Brandin Podziemski,1641764,Alley Oop Layup,2,1,0,LAYUPS,,2024
-Brandin Podziemski,1641764,Driving Dunk,2,1,0,DUNKS,,2024
-Brandin Podziemski,1641764,Driving Hook Shot,2,24,7,POST_MOVES,,2024
-Brandin Podziemski,1641764,Driving Layup,2,82,42,LAYUPS,,2024
-Brandin Podziemski,1641764,Fadeaway Jump Shot,2,2,1,JUMP_SHOTS,,2024
-Brandin Podziemski,1641764,Finger Roll,2,39,26,LAYUPS,,2024
-Brandin Podziemski,1641764,Floating Jump Shot,2,76,32,FLOATING_SHOTS,,2024
-Brandin Podziemski,1641764,Floating Jump Shot,3,2,0,FLOATING_SHOTS,,2024
-Brandin Podziemski,1641764,Hook Shot,2,4,0,POST_MOVES,,2024
-Brandin Podziemski,1641764,Jump Shot,2,3,0,JUMP_SHOTS,,2024
-Brandin Podziemski,1641764,Jump Shot,3,157,57,JUMP_SHOTS,,2024
-Brandin Podziemski,1641764,Pullup Jump Shot,2,12,3,JUMP_SHOTS,,2024
-Brandin Podziemski,1641764,Pullup Jump Shot,3,27,11,JUMP_SHOTS,,2024
-Brandin Podziemski,1641764,Putback Layup,2,15,6,LAYUPS,,2024
-Brandin Podziemski,1641764,Reverse Layup,2,12,9,LAYUPS,,2024
-Brandin Podziemski,1641764,Running Jump Shot,3,24,8,JUMP_SHOTS,,2024
-Brandin Podziemski,1641764,Specialty Dunk,2,1,1,DUNKS,,2024
-Brandin Podziemski,1641764,Standard Dunk,2,3,3,DUNKS,,2024
-Brandin Podziemski,1641764,Standard Layup,2,63,39,LAYUPS,,2024
-Brandin Podziemski,1641764,Step Back Jump Shot,2,7,4,JUMP_SHOTS,,2024
-Brandin Podziemski,1641764,Step Back Jump Shot,3,23,13,JUMP_SHOTS,,2024
-Brandin Podziemski,1641764,Turnaround Hook Shot,2,4,2,POST_MOVES,,2024
-Brandin Podziemski,1641764,Turnaround Jump Shot,2,14,6,JUMP_SHOTS,,2024
-Brandin Podziemski,1641764,Turnaround Jump Shot,3,1,1,JUMP_SHOTS,,2024
-Brandin Podziemski,1641764,Driving Hook Shot,2,3,2,POST_MOVES,,2025
-Brandin Podziemski,1641764,Driving Layup,2,20,10,LAYUPS,,2025
-Brandin Podziemski,1641764,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2025
-Brandin Podziemski,1641764,Fadeaway Jump Shot,3,1,0,JUMP_SHOTS,,2025
-Brandin Podziemski,1641764,Finger Roll,2,10,5,LAYUPS,,2025
-Brandin Podziemski,1641764,Floating Jump Shot,2,24,9,FLOATING_SHOTS,,2025
-Brandin Podziemski,1641764,Hook Shot,2,1,0,POST_MOVES,,2025
-Brandin Podziemski,1641764,Jump Shot,2,1,1,JUMP_SHOTS,,2025
-Brandin Podziemski,1641764,Jump Shot,3,55,18,JUMP_SHOTS,,2025
-Brandin Podziemski,1641764,Pullup Jump Shot,2,25,12,JUMP_SHOTS,,2025
-Brandin Podziemski,1641764,Pullup Jump Shot,3,20,6,JUMP_SHOTS,,2025
-Brandin Podziemski,1641764,Putback Layup,2,9,5,LAYUPS,,2025
-Brandin Podziemski,1641764,Reverse Layup,2,1,1,LAYUPS,,2025
-Brandin Podziemski,1641764,Running Jump Shot,3,8,1,JUMP_SHOTS,,2025
-Brandin Podziemski,1641764,Specialty Dunk,2,1,0,DUNKS,,2025
-Brandin Podziemski,1641764,Standard Layup,2,18,12,LAYUPS,,2025
-Brandin Podziemski,1641764,Step Back Jump Shot,2,6,1,JUMP_SHOTS,,2025
-Brandin Podziemski,1641764,Step Back Jump Shot,3,21,6,JUMP_SHOTS,,2025
-Brandin Podziemski,1641764,Turnaround Hook Shot,2,1,1,POST_MOVES,,2025
-Brandin Podziemski,1641764,Turnaround Jump Shot,2,4,3,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Brandin Podziemski,1641764,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2024
+Brandin Podziemski,1641764,Cutting Finger Roll Layup Shot,2,6,5,Finger Roll,LAYUPS,2024
+Brandin Podziemski,1641764,Cutting Layup Shot,2,26,19,Standard Layup,LAYUPS,2024
+Brandin Podziemski,1641764,Driving Dunk Shot,2,1,0,Driving Dunk,DUNKS,2024
+Brandin Podziemski,1641764,Driving Finger Roll Layup Shot,2,23,14,Finger Roll,LAYUPS,2024
+Brandin Podziemski,1641764,Driving Floating Bank Jump Shot,2,11,4,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Brandin Podziemski,1641764,Driving Floating Bank Jump Shot,3,1,0,3PT Floating Jump Shot,FLOATING_SHOTS,2024
+Brandin Podziemski,1641764,Driving Floating Jump Shot,2,49,22,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Brandin Podziemski,1641764,Driving Floating Jump Shot,3,1,0,3PT Floating Jump Shot,FLOATING_SHOTS,2024
+Brandin Podziemski,1641764,Driving Hook Shot,2,24,7,Driving Hook Shot,POST_MOVES,2024
+Brandin Podziemski,1641764,Driving Layup Shot,2,70,33,Driving Layup,LAYUPS,2024
+Brandin Podziemski,1641764,Driving Reverse Layup Shot,2,12,9,Driving Layup,LAYUPS,2024
+Brandin Podziemski,1641764,Fadeaway Jump Shot,2,2,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
+Brandin Podziemski,1641764,Finger Roll Layup Shot,2,3,1,Finger Roll,LAYUPS,2024
+Brandin Podziemski,1641764,Floating Jump shot,2,16,6,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Brandin Podziemski,1641764,Hook Shot,2,4,0,Hook Shot,POST_MOVES,2024
+Brandin Podziemski,1641764,Jump Bank Shot,3,1,1,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Brandin Podziemski,1641764,Jump Shot,2,3,0,2PT Jump Shot,TWO_POINT_JUMPERS,2024
+Brandin Podziemski,1641764,Jump Shot,3,156,56,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Brandin Podziemski,1641764,Layup Shot,2,12,6,Standard Layup,LAYUPS,2024
+Brandin Podziemski,1641764,Pullup Jump shot,2,12,3,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2024
+Brandin Podziemski,1641764,Pullup Jump shot,3,27,11,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
+Brandin Podziemski,1641764,Putback Layup Shot,2,7,3,Putback Layup,LAYUPS,2024
+Brandin Podziemski,1641764,Reverse Layup Shot,2,7,5,Reverse Layup,LAYUPS,2024
+Brandin Podziemski,1641764,Running Alley Oop Layup Shot,2,1,0,Alley Oop Layup,LAYUPS,2024
+Brandin Podziemski,1641764,Running Dunk Shot,2,3,3,Standard Dunk,DUNKS,2024
+Brandin Podziemski,1641764,Running Finger Roll Layup Shot,2,7,6,Finger Roll,LAYUPS,2024
+Brandin Podziemski,1641764,Running Jump Shot,3,14,4,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Brandin Podziemski,1641764,Running Layup Shot,2,25,14,Standard Layup,LAYUPS,2024
+Brandin Podziemski,1641764,Running Pull-Up Jump Shot,3,10,4,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Brandin Podziemski,1641764,Running Reverse Layup Shot,2,5,4,Reverse Layup,LAYUPS,2024
+Brandin Podziemski,1641764,Step Back Jump shot,2,7,4,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2024
+Brandin Podziemski,1641764,Step Back Jump shot,3,23,13,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
+Brandin Podziemski,1641764,Tip Layup Shot,2,8,3,Putback Layup,LAYUPS,2024
+Brandin Podziemski,1641764,Turnaround Bank Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2024
+Brandin Podziemski,1641764,Turnaround Bank shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Brandin Podziemski,1641764,Turnaround Fadeaway Bank Jump Shot,3,1,1,3PT Turnaround Jump Shot,THREE_POINT_JUMPERS,2024
+Brandin Podziemski,1641764,Turnaround Fadeaway shot,2,8,3,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Brandin Podziemski,1641764,Turnaround Hook Shot,2,3,1,Turnaround Hook Shot,POST_MOVES,2024
+Brandin Podziemski,1641764,Turnaround Jump Shot,2,5,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Brandin Podziemski,1641764,Cutting Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2025
+Brandin Podziemski,1641764,Cutting Layup Shot,2,8,6,Standard Layup,LAYUPS,2025
+Brandin Podziemski,1641764,Driving Finger Roll Layup Shot,2,7,3,Finger Roll,LAYUPS,2025
+Brandin Podziemski,1641764,Driving Floating Bank Jump Shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Brandin Podziemski,1641764,Driving Floating Jump Shot,2,15,6,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Brandin Podziemski,1641764,Driving Hook Shot,2,3,2,Driving Hook Shot,POST_MOVES,2025
+Brandin Podziemski,1641764,Driving Layup Shot,2,15,8,Driving Layup,LAYUPS,2025
+Brandin Podziemski,1641764,Driving Reverse Layup Shot,2,5,2,Driving Layup,LAYUPS,2025
+Brandin Podziemski,1641764,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
+Brandin Podziemski,1641764,Fadeaway Jump Shot,3,1,0,3PT Fadeaway Jump Shot,THREE_POINT_JUMPERS,2025
+Brandin Podziemski,1641764,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2025
+Brandin Podziemski,1641764,Floating Jump shot,2,7,2,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Brandin Podziemski,1641764,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2025
+Brandin Podziemski,1641764,Jump Bank Shot,3,2,1,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Brandin Podziemski,1641764,Jump Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2025
+Brandin Podziemski,1641764,Jump Shot,3,53,17,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Brandin Podziemski,1641764,Layup Shot,2,3,3,Standard Layup,LAYUPS,2025
+Brandin Podziemski,1641764,Pullup Jump shot,2,25,12,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
+Brandin Podziemski,1641764,Pullup Jump shot,3,20,6,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
+Brandin Podziemski,1641764,Putback Layup Shot,2,3,2,Putback Layup,LAYUPS,2025
+Brandin Podziemski,1641764,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2025
+Brandin Podziemski,1641764,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2025
+Brandin Podziemski,1641764,Running Jump Shot,3,6,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Brandin Podziemski,1641764,Running Layup Shot,2,7,3,Standard Layup,LAYUPS,2025
+Brandin Podziemski,1641764,Running Pull-Up Jump Shot,3,2,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Brandin Podziemski,1641764,Step Back Jump shot,2,6,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2025
+Brandin Podziemski,1641764,Step Back Jump shot,3,21,6,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
+Brandin Podziemski,1641764,Tip Dunk Shot,2,1,0,Specialty Dunk,DUNKS,2025
+Brandin Podziemski,1641764,Tip Layup Shot,2,6,3,Putback Layup,LAYUPS,2025
+Brandin Podziemski,1641764,Turnaround Fadeaway shot,2,4,3,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+Brandin Podziemski,1641764,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2025

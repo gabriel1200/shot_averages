@@ -1,9 +1,10 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-D.J. Carton,1630618,Finger Roll,2,1,0,LAYUPS,,2024
-D.J. Carton,1630618,Floating Jump Shot,2,2,1,FLOATING_SHOTS,,2024
-D.J. Carton,1630618,Jump Shot,3,4,1,JUMP_SHOTS,,2024
-D.J. Carton,1630618,Standard Layup,2,1,1,LAYUPS,,2024
-D.J. Carton,1630618,Driving Hook Shot,2,1,0,POST_MOVES,,2025
-D.J. Carton,1630618,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2025
-D.J. Carton,1630618,Jump Shot,3,3,0,JUMP_SHOTS,,2025
-D.J. Carton,1630618,Standard Layup,2,2,1,LAYUPS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+D.J. Carton,1630618,Cutting Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2024
+D.J. Carton,1630618,Driving Floating Jump Shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+D.J. Carton,1630618,Jump Shot,3,4,1,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+D.J. Carton,1630618,Layup Shot,2,1,1,Standard Layup,LAYUPS,2024
+D.J. Carton,1630618,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+D.J. Carton,1630618,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2025
+D.J. Carton,1630618,Jump Shot,3,3,0,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+D.J. Carton,1630618,Layup Shot,2,1,0,Standard Layup,LAYUPS,2025
+D.J. Carton,1630618,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2025

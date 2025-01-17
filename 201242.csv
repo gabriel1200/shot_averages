@@ -1,8 +1,8 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Thomas Gardner,201242,Jump Shot,2,18,7,JUMP_SHOTS,,2008
-Thomas Gardner,201242,Running Jump Shot,2,1,0,JUMP_SHOTS,,2008
-Thomas Gardner,201242,Standard Layup,2,4,2,LAYUPS,,2008
-Thomas Gardner,201242,Driving Layup,2,2,0,LAYUPS,,2009
-Thomas Gardner,201242,Jump Shot,2,31,8,JUMP_SHOTS,,2009
-Thomas Gardner,201242,Jump Shot,3,2,0,JUMP_SHOTS,,2009
-Thomas Gardner,201242,Standard Layup,2,1,1,LAYUPS,,2009
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Thomas Gardner,201242,Jump Shot,2,18,7,2PT Jump Shot,TWO_POINT_JUMPERS,2008
+Thomas Gardner,201242,Layup Shot,2,4,2,Standard Layup,LAYUPS,2008
+Thomas Gardner,201242,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2008
+Thomas Gardner,201242,Driving Layup Shot,2,2,0,Driving Layup,LAYUPS,2009
+Thomas Gardner,201242,Jump Shot,2,31,8,2PT Jump Shot,TWO_POINT_JUMPERS,2009
+Thomas Gardner,201242,Jump Shot,3,2,0,3PT Jump Shot,THREE_POINT_JUMPERS,2009
+Thomas Gardner,201242,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2009

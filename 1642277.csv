@@ -1,15 +1,20 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Johnny Furphy,1642277,Alley Oop Layup,2,1,1,LAYUPS,,2025
-Johnny Furphy,1642277,Driving Layup,2,2,1,LAYUPS,,2025
-Johnny Furphy,1642277,Finger Roll,2,1,0,LAYUPS,,2025
-Johnny Furphy,1642277,Jump Shot,3,28,10,JUMP_SHOTS,,2025
-Johnny Furphy,1642277,Pullup Jump Shot,3,1,0,JUMP_SHOTS,,2025
-Johnny Furphy,1642277,Putback Layup,2,3,1,LAYUPS,,2025
-Johnny Furphy,1642277,Reverse Layup,2,1,1,LAYUPS,,2025
-Johnny Furphy,1642277,Running Jump Shot,2,1,0,JUMP_SHOTS,,2025
-Johnny Furphy,1642277,Running Jump Shot,3,2,1,JUMP_SHOTS,,2025
-Johnny Furphy,1642277,Specialty Dunk,2,1,0,DUNKS,,2025
-Johnny Furphy,1642277,Standard Dunk,2,2,2,DUNKS,,2025
-Johnny Furphy,1642277,Standard Layup,2,10,4,LAYUPS,,2025
-Johnny Furphy,1642277,Step Back Jump Shot,3,1,0,JUMP_SHOTS,,2025
-Johnny Furphy,1642277,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Johnny Furphy,1642277,Cutting Dunk Shot,2,1,0,Specialty Dunk,DUNKS,2025
+Johnny Furphy,1642277,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2025
+Johnny Furphy,1642277,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2025
+Johnny Furphy,1642277,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2025
+Johnny Furphy,1642277,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2025
+Johnny Furphy,1642277,Jump Shot,3,28,10,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Johnny Furphy,1642277,Layup Shot,2,2,0,Standard Layup,LAYUPS,2025
+Johnny Furphy,1642277,Pullup Jump shot,3,1,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
+Johnny Furphy,1642277,Putback Layup Shot,2,2,0,Putback Layup,LAYUPS,2025
+Johnny Furphy,1642277,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2025
+Johnny Furphy,1642277,Running Alley Oop Layup Shot,2,1,1,Alley Oop Layup,LAYUPS,2025
+Johnny Furphy,1642277,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2025
+Johnny Furphy,1642277,Running Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2025
+Johnny Furphy,1642277,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2025
+Johnny Furphy,1642277,Running Jump Shot,3,2,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Johnny Furphy,1642277,Running Layup Shot,2,7,3,Standard Layup,LAYUPS,2025
+Johnny Furphy,1642277,Step Back Jump shot,3,1,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
+Johnny Furphy,1642277,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2025
+Johnny Furphy,1642277,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025

@@ -1,4 +1,4 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Andrew Gaze,1845,Driving Layup,2,1,1,LAYUPS,,1999
-Andrew Gaze,1845,Jump Shot,2,23,6,JUMP_SHOTS,,1999
-Andrew Gaze,1845,Running Jump Shot,2,1,1,JUMP_SHOTS,,1999
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Andrew Gaze,1845,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,1999
+Andrew Gaze,1845,Jump Shot,2,23,6,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Andrew Gaze,1845,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999

@@ -1,26 +1,43 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Tristan da Silva,1641783,Alley Oop Dunk,2,5,5,DUNKS,,2025
-Tristan da Silva,1641783,Alley Oop Layup,2,2,1,LAYUPS,,2025
-Tristan da Silva,1641783,Driving Dunk,2,5,1,DUNKS,,2025
-Tristan da Silva,1641783,Driving Hook Shot,2,3,2,POST_MOVES,,2025
-Tristan da Silva,1641783,Driving Layup,2,24,12,LAYUPS,,2025
-Tristan da Silva,1641783,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2025
-Tristan da Silva,1641783,Finger Roll,2,13,10,LAYUPS,,2025
-Tristan da Silva,1641783,Floating Jump Shot,2,17,7,FLOATING_SHOTS,,2025
-Tristan da Silva,1641783,Hook Shot,2,1,0,POST_MOVES,,2025
-Tristan da Silva,1641783,Jump Shot,2,5,1,JUMP_SHOTS,,2025
-Tristan da Silva,1641783,Jump Shot,3,117,38,JUMP_SHOTS,,2025
-Tristan da Silva,1641783,Pullup Jump Shot,2,5,2,JUMP_SHOTS,,2025
-Tristan da Silva,1641783,Pullup Jump Shot,3,10,2,JUMP_SHOTS,,2025
-Tristan da Silva,1641783,Putback Layup,2,12,6,LAYUPS,,2025
-Tristan da Silva,1641783,Reverse Layup,2,4,3,LAYUPS,,2025
-Tristan da Silva,1641783,Running Jump Shot,2,2,0,JUMP_SHOTS,,2025
-Tristan da Silva,1641783,Running Jump Shot,3,17,6,JUMP_SHOTS,,2025
-Tristan da Silva,1641783,Specialty Dunk,2,4,3,DUNKS,,2025
-Tristan da Silva,1641783,Standard Dunk,2,7,7,DUNKS,,2025
-Tristan da Silva,1641783,Standard Layup,2,27,12,LAYUPS,,2025
-Tristan da Silva,1641783,Step Back Jump Shot,2,2,1,JUMP_SHOTS,,2025
-Tristan da Silva,1641783,Step Back Jump Shot,3,4,0,JUMP_SHOTS,,2025
-Tristan da Silva,1641783,Turnaround Hook Shot,2,5,2,POST_MOVES,,2025
-Tristan da Silva,1641783,Turnaround Jump Shot,2,7,3,JUMP_SHOTS,,2025
-Tristan da Silva,1641783,Turnaround Jump Shot,3,1,0,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Tristan da Silva,1641783,Alley Oop Dunk Shot,2,2,2,Alley Oop Dunk,DUNKS,2025
+Tristan da Silva,1641783,Alley Oop Layup shot,2,2,1,Alley Oop Layup,LAYUPS,2025
+Tristan da Silva,1641783,Cutting Dunk Shot,2,4,3,Specialty Dunk,DUNKS,2025
+Tristan da Silva,1641783,Cutting Finger Roll Layup Shot,2,3,2,Finger Roll,LAYUPS,2025
+Tristan da Silva,1641783,Cutting Layup Shot,2,15,10,Standard Layup,LAYUPS,2025
+Tristan da Silva,1641783,Driving Dunk Shot,2,5,1,Driving Dunk,DUNKS,2025
+Tristan da Silva,1641783,Driving Finger Roll Layup Shot,2,7,6,Finger Roll,LAYUPS,2025
+Tristan da Silva,1641783,Driving Floating Bank Jump Shot,2,3,2,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Tristan da Silva,1641783,Driving Floating Jump Shot,2,13,4,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Tristan da Silva,1641783,Driving Hook Shot,2,3,2,Driving Hook Shot,POST_MOVES,2025
+Tristan da Silva,1641783,Driving Layup Shot,2,22,11,Driving Layup,LAYUPS,2025
+Tristan da Silva,1641783,Driving Reverse Layup Shot,2,2,1,Driving Layup,LAYUPS,2025
+Tristan da Silva,1641783,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2025
+Tristan da Silva,1641783,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
+Tristan da Silva,1641783,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2025
+Tristan da Silva,1641783,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Tristan da Silva,1641783,Hook Bank Shot,2,1,0,Hook Shot,POST_MOVES,2025
+Tristan da Silva,1641783,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2025
+Tristan da Silva,1641783,Jump Shot,2,4,1,2PT Jump Shot,TWO_POINT_JUMPERS,2025
+Tristan da Silva,1641783,Jump Shot,3,117,38,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Tristan da Silva,1641783,Layup Shot,2,5,1,Standard Layup,LAYUPS,2025
+Tristan da Silva,1641783,Pullup Jump shot,2,5,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
+Tristan da Silva,1641783,Pullup Jump shot,3,10,2,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
+Tristan da Silva,1641783,Putback Layup Shot,2,8,6,Putback Layup,LAYUPS,2025
+Tristan da Silva,1641783,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2025
+Tristan da Silva,1641783,Running Alley Oop Dunk Shot,2,3,3,Alley Oop Dunk,DUNKS,2025
+Tristan da Silva,1641783,Running Dunk Shot,2,6,6,Standard Dunk,DUNKS,2025
+Tristan da Silva,1641783,Running Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2025
+Tristan da Silva,1641783,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2025
+Tristan da Silva,1641783,Running Jump Shot,3,16,6,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Tristan da Silva,1641783,Running Layup Shot,2,7,1,Standard Layup,LAYUPS,2025
+Tristan da Silva,1641783,Running Pull-Up Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2025
+Tristan da Silva,1641783,Running Pull-Up Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Tristan da Silva,1641783,Running Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2025
+Tristan da Silva,1641783,Step Back Bank Jump Shot,3,1,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
+Tristan da Silva,1641783,Step Back Jump shot,2,2,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2025
+Tristan da Silva,1641783,Step Back Jump shot,3,3,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
+Tristan da Silva,1641783,Tip Layup Shot,2,4,0,Putback Layup,LAYUPS,2025
+Tristan da Silva,1641783,Turnaround Fadeaway shot,2,3,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+Tristan da Silva,1641783,Turnaround Hook Shot,2,5,2,Turnaround Hook Shot,POST_MOVES,2025
+Tristan da Silva,1641783,Turnaround Jump Shot,2,4,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+Tristan da Silva,1641783,Turnaround Jump Shot,3,1,0,3PT Turnaround Jump Shot,THREE_POINT_JUMPERS,2025

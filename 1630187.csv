@@ -1,17 +1,21 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Daniel Oturu,1630187,Alley Oop Dunk,2,1,1,DUNKS,,2021
-Daniel Oturu,1630187,Driving Layup,2,2,1,LAYUPS,,2021
-Daniel Oturu,1630187,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2021
-Daniel Oturu,1630187,Hook Shot,2,1,0,POST_MOVES,,2021
-Daniel Oturu,1630187,Jump Shot,2,15,3,JUMP_SHOTS,,2021
-Daniel Oturu,1630187,Pullup Jump Shot,2,1,1,JUMP_SHOTS,,2021
-Daniel Oturu,1630187,Putback Layup,2,9,6,LAYUPS,,2021
-Daniel Oturu,1630187,Specialty Dunk,2,2,2,DUNKS,,2021
-Daniel Oturu,1630187,Standard Dunk,2,3,2,DUNKS,,2021
-Daniel Oturu,1630187,Standard Layup,2,11,3,LAYUPS,,2021
-Daniel Oturu,1630187,Turnaround Hook Shot,2,2,0,POST_MOVES,,2021
-Daniel Oturu,1630187,Turnaround Jump Shot,2,4,3,JUMP_SHOTS,,2021
-Daniel Oturu,1630187,Jump Shot,2,1,0,JUMP_SHOTS,,2022
-Daniel Oturu,1630187,Putback Layup,2,1,1,LAYUPS,,2022
-Daniel Oturu,1630187,Standard Layup,2,3,2,LAYUPS,,2022
-Daniel Oturu,1630187,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2022
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Daniel Oturu,1630187,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2021
+Daniel Oturu,1630187,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2021
+Daniel Oturu,1630187,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2021
+Daniel Oturu,1630187,Dunk Shot,2,3,2,Standard Dunk,DUNKS,2021
+Daniel Oturu,1630187,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Daniel Oturu,1630187,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2021
+Daniel Oturu,1630187,Jump Shot,2,15,3,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Daniel Oturu,1630187,Layup Shot,2,10,3,Standard Layup,LAYUPS,2021
+Daniel Oturu,1630187,Pullup Jump shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2021
+Daniel Oturu,1630187,Putback Layup Shot,2,7,5,Putback Layup,LAYUPS,2021
+Daniel Oturu,1630187,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2021
+Daniel Oturu,1630187,Tip Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2021
+Daniel Oturu,1630187,Tip Layup Shot,2,2,1,Putback Layup,LAYUPS,2021
+Daniel Oturu,1630187,Turnaround Hook Shot,2,2,0,Turnaround Hook Shot,POST_MOVES,2021
+Daniel Oturu,1630187,Turnaround Jump Shot,2,4,3,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2021
+Daniel Oturu,1630187,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2022
+Daniel Oturu,1630187,Jump Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2022
+Daniel Oturu,1630187,Layup Shot,2,2,1,Standard Layup,LAYUPS,2022
+Daniel Oturu,1630187,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2022
+Daniel Oturu,1630187,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2022

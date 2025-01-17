@@ -1,8 +1,9 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Casper Ware,203810,Driving Jump Shot,2,1,1,JUMP_SHOTS,,2014
-Casper Ware,203810,Driving Layup,2,4,3,LAYUPS,,2014
-Casper Ware,203810,Floating Jump Shot,2,3,2,FLOATING_SHOTS,,2014
-Casper Ware,203810,Jump Shot,2,29,8,JUMP_SHOTS,,2014
-Casper Ware,203810,Pullup Jump Shot,2,1,1,JUMP_SHOTS,,2014
-Casper Ware,203810,Running Jump Shot,2,1,0,JUMP_SHOTS,,2014
-Casper Ware,203810,Standard Layup,2,3,3,LAYUPS,,2014
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Casper Ware,203810,Driving Bank shot,2,1,1,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2014
+Casper Ware,203810,Driving Layup Shot,2,4,3,Driving Layup,LAYUPS,2014
+Casper Ware,203810,Floating Jump shot,2,3,2,2PT Floating Jump Shot,FLOATING_SHOTS,2014
+Casper Ware,203810,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2014
+Casper Ware,203810,Jump Shot,2,28,8,2PT Jump Shot,TWO_POINT_JUMPERS,2014
+Casper Ware,203810,Layup Shot,2,3,3,Standard Layup,LAYUPS,2014
+Casper Ware,203810,Pullup Jump shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2014
+Casper Ware,203810,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2014

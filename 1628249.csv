@@ -1,8 +1,12 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Mitchell Creek,1628249,Driving Layup,2,3,2,LAYUPS,,2019
-Mitchell Creek,1628249,Finger Roll,2,1,0,LAYUPS,,2019
-Mitchell Creek,1628249,Floating Jump Shot,2,1,1,FLOATING_SHOTS,,2019
-Mitchell Creek,1628249,Jump Shot,3,2,0,JUMP_SHOTS,,2019
-Mitchell Creek,1628249,Putback Layup,2,3,1,LAYUPS,,2019
-Mitchell Creek,1628249,Standard Layup,2,5,4,LAYUPS,,2019
-Mitchell Creek,1628249,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2019
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Mitchell Creek,1628249,Cutting Layup Shot,2,3,3,Standard Layup,LAYUPS,2019
+Mitchell Creek,1628249,Driving Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2019
+Mitchell Creek,1628249,Driving Floating Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2019
+Mitchell Creek,1628249,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2019
+Mitchell Creek,1628249,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2019
+Mitchell Creek,1628249,Jump Shot,3,2,0,3PT Jump Shot,THREE_POINT_JUMPERS,2019
+Mitchell Creek,1628249,Layup Shot,2,1,0,Standard Layup,LAYUPS,2019
+Mitchell Creek,1628249,Putback Layup Shot,2,2,1,Putback Layup,LAYUPS,2019
+Mitchell Creek,1628249,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2019
+Mitchell Creek,1628249,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2019
+Mitchell Creek,1628249,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2019

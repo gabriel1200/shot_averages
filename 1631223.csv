@@ -1,61 +1,93 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-David Roddy,1631223,Alley Oop Dunk,2,2,2,DUNKS,,2023
-David Roddy,1631223,Alley Oop Layup,2,1,0,LAYUPS,,2023
-David Roddy,1631223,Driving Dunk,2,4,4,DUNKS,,2023
-David Roddy,1631223,Driving Hook Shot,2,8,3,POST_MOVES,,2023
-David Roddy,1631223,Driving Layup,2,53,25,LAYUPS,,2023
-David Roddy,1631223,Fadeaway Jump Shot,2,2,0,JUMP_SHOTS,,2023
-David Roddy,1631223,Finger Roll,2,16,9,LAYUPS,,2023
-David Roddy,1631223,Floating Jump Shot,2,23,10,FLOATING_SHOTS,,2023
-David Roddy,1631223,Hook Shot,2,2,0,POST_MOVES,,2023
-David Roddy,1631223,Jump Shot,2,189,57,JUMP_SHOTS,,2023
-David Roddy,1631223,Pullup Jump Shot,2,13,5,JUMP_SHOTS,,2023
-David Roddy,1631223,Putback Dunk,2,2,1,DUNKS,,2023
-David Roddy,1631223,Putback Layup,2,19,13,LAYUPS,,2023
-David Roddy,1631223,Reverse Layup,2,2,1,LAYUPS,,2023
-David Roddy,1631223,Running Jump Shot,2,16,5,JUMP_SHOTS,,2023
-David Roddy,1631223,Specialty Dunk,2,8,7,DUNKS,,2023
-David Roddy,1631223,Standard Dunk,2,8,8,DUNKS,,2023
-David Roddy,1631223,Standard Layup,2,37,23,LAYUPS,,2023
-David Roddy,1631223,Step Back Jump Shot,2,5,1,JUMP_SHOTS,,2023
-David Roddy,1631223,Turnaround Hook Shot,2,3,1,POST_MOVES,,2023
-David Roddy,1631223,Turnaround Jump Shot,2,7,5,JUMP_SHOTS,,2023
-David Roddy,1631223,Driving Dunk,2,7,4,DUNKS,,2024
-David Roddy,1631223,Driving Hook Shot,2,9,3,POST_MOVES,,2024
-David Roddy,1631223,Driving Layup,2,43,18,LAYUPS,,2024
-David Roddy,1631223,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2024
-David Roddy,1631223,Finger Roll,2,27,19,LAYUPS,,2024
-David Roddy,1631223,Floating Jump Shot,2,37,15,FLOATING_SHOTS,,2024
-David Roddy,1631223,Hook Shot,2,7,0,POST_MOVES,,2024
-David Roddy,1631223,Jump Shot,2,4,0,JUMP_SHOTS,,2024
-David Roddy,1631223,Jump Shot,3,148,44,JUMP_SHOTS,,2024
-David Roddy,1631223,Pullup Jump Shot,2,2,0,JUMP_SHOTS,,2024
-David Roddy,1631223,Pullup Jump Shot,3,5,1,JUMP_SHOTS,,2024
-David Roddy,1631223,Putback Dunk,2,1,1,DUNKS,,2024
-David Roddy,1631223,Putback Layup,2,20,11,LAYUPS,,2024
-David Roddy,1631223,Reverse Layup,2,2,2,LAYUPS,,2024
-David Roddy,1631223,Running Jump Shot,2,1,0,JUMP_SHOTS,,2024
-David Roddy,1631223,Running Jump Shot,3,6,2,JUMP_SHOTS,,2024
-David Roddy,1631223,Specialty Dunk,2,4,3,DUNKS,,2024
-David Roddy,1631223,Standard Dunk,2,5,4,DUNKS,,2024
-David Roddy,1631223,Standard Layup,2,42,26,LAYUPS,,2024
-David Roddy,1631223,Step Back Jump Shot,3,5,1,JUMP_SHOTS,,2024
-David Roddy,1631223,Turnaround Hook Shot,2,9,4,POST_MOVES,,2024
-David Roddy,1631223,Turnaround Jump Shot,2,24,7,JUMP_SHOTS,,2024
-David Roddy,1631223,Driving Dunk,2,1,1,DUNKS,,2025
-David Roddy,1631223,Driving Layup,2,12,9,LAYUPS,,2025
-David Roddy,1631223,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2025
-David Roddy,1631223,Finger Roll,2,1,1,LAYUPS,,2025
-David Roddy,1631223,Floating Jump Shot,2,10,5,FLOATING_SHOTS,,2025
-David Roddy,1631223,Hook Shot,2,1,1,POST_MOVES,,2025
-David Roddy,1631223,Jump Shot,3,31,13,JUMP_SHOTS,,2025
-David Roddy,1631223,Pullup Jump Shot,2,1,0,JUMP_SHOTS,,2025
-David Roddy,1631223,Pullup Jump Shot,3,4,1,JUMP_SHOTS,,2025
-David Roddy,1631223,Putback Layup,2,1,0,LAYUPS,,2025
-David Roddy,1631223,Reverse Layup,2,2,0,LAYUPS,,2025
-David Roddy,1631223,Running Jump Shot,3,4,0,JUMP_SHOTS,,2025
-David Roddy,1631223,Specialty Dunk,2,1,1,DUNKS,,2025
-David Roddy,1631223,Standard Layup,2,8,5,LAYUPS,,2025
-David Roddy,1631223,Step Back Jump Shot,3,2,2,JUMP_SHOTS,,2025
-David Roddy,1631223,Turnaround Hook Shot,2,2,1,POST_MOVES,,2025
-David Roddy,1631223,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+David Roddy,1631223,Alley Oop Dunk Shot,2,2,2,Alley Oop Dunk,DUNKS,2023
+David Roddy,1631223,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2023
+David Roddy,1631223,Cutting Dunk Shot,2,8,7,Specialty Dunk,DUNKS,2023
+David Roddy,1631223,Cutting Finger Roll Layup Shot,2,4,4,Finger Roll,LAYUPS,2023
+David Roddy,1631223,Cutting Layup Shot,2,9,5,Standard Layup,LAYUPS,2023
+David Roddy,1631223,Driving Bank Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,2023
+David Roddy,1631223,Driving Dunk Shot,2,4,4,Driving Dunk,DUNKS,2023
+David Roddy,1631223,Driving Finger Roll Layup Shot,2,10,4,Finger Roll,LAYUPS,2023
+David Roddy,1631223,Driving Floating Bank Jump Shot,2,6,3,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+David Roddy,1631223,Driving Floating Jump Shot,2,17,7,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+David Roddy,1631223,Driving Hook Shot,2,6,2,Driving Hook Shot,POST_MOVES,2023
+David Roddy,1631223,Driving Layup Shot,2,52,25,Driving Layup,LAYUPS,2023
+David Roddy,1631223,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2023
+David Roddy,1631223,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2023
+David Roddy,1631223,Fadeaway Jump Shot,2,2,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2023
+David Roddy,1631223,Hook Shot,2,2,0,Hook Shot,POST_MOVES,2023
+David Roddy,1631223,Jump Shot,2,189,57,2PT Jump Shot,TWO_POINT_JUMPERS,2023
+David Roddy,1631223,Layup Shot,2,8,2,Standard Layup,LAYUPS,2023
+David Roddy,1631223,Pullup Jump shot,2,13,5,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2023
+David Roddy,1631223,Putback Dunk Shot,2,2,1,Putback Dunk,DUNKS,2023
+David Roddy,1631223,Putback Layup Shot,2,12,7,Putback Layup,LAYUPS,2023
+David Roddy,1631223,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2023
+David Roddy,1631223,Running Dunk Shot,2,7,7,Standard Dunk,DUNKS,2023
+David Roddy,1631223,Running Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2023
+David Roddy,1631223,Running Jump Shot,2,12,5,2PT Running Jump Shot,TWO_POINT_JUMPERS,2023
+David Roddy,1631223,Running Layup Shot,2,20,16,Standard Layup,LAYUPS,2023
+David Roddy,1631223,Running Pull-Up Jump Shot,2,4,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2023
+David Roddy,1631223,Step Back Jump shot,2,5,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2023
+David Roddy,1631223,Tip Layup Shot,2,7,6,Putback Layup,LAYUPS,2023
+David Roddy,1631223,Turnaround Fadeaway shot,2,4,3,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2023
+David Roddy,1631223,Turnaround Hook Shot,2,3,1,Turnaround Hook Shot,POST_MOVES,2023
+David Roddy,1631223,Turnaround Jump Shot,2,3,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2023
+David Roddy,1631223,Cutting Dunk Shot,2,4,3,Specialty Dunk,DUNKS,2024
+David Roddy,1631223,Cutting Finger Roll Layup Shot,2,4,3,Finger Roll,LAYUPS,2024
+David Roddy,1631223,Cutting Layup Shot,2,14,10,Standard Layup,LAYUPS,2024
+David Roddy,1631223,Driving Bank Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2024
+David Roddy,1631223,Driving Dunk Shot,2,7,4,Driving Dunk,DUNKS,2024
+David Roddy,1631223,Driving Finger Roll Layup Shot,2,15,12,Finger Roll,LAYUPS,2024
+David Roddy,1631223,Driving Floating Bank Jump Shot,2,12,6,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+David Roddy,1631223,Driving Floating Jump Shot,2,21,5,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+David Roddy,1631223,Driving Hook Shot,2,8,3,Driving Hook Shot,POST_MOVES,2024
+David Roddy,1631223,Driving Layup Shot,2,42,18,Driving Layup,LAYUPS,2024
+David Roddy,1631223,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2024
+David Roddy,1631223,Dunk Shot,2,3,2,Standard Dunk,DUNKS,2024
+David Roddy,1631223,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
+David Roddy,1631223,Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2024
+David Roddy,1631223,Floating Jump shot,2,4,4,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+David Roddy,1631223,Hook Bank Shot,2,1,0,Hook Shot,POST_MOVES,2024
+David Roddy,1631223,Hook Shot,2,6,0,Hook Shot,POST_MOVES,2024
+David Roddy,1631223,Jump Bank Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+David Roddy,1631223,Jump Shot,2,4,0,2PT Jump Shot,TWO_POINT_JUMPERS,2024
+David Roddy,1631223,Jump Shot,3,147,44,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+David Roddy,1631223,Layup Shot,2,9,4,Standard Layup,LAYUPS,2024
+David Roddy,1631223,Pullup Jump shot,2,2,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2024
+David Roddy,1631223,Pullup Jump shot,3,5,1,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
+David Roddy,1631223,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2024
+David Roddy,1631223,Putback Layup Shot,2,8,6,Putback Layup,LAYUPS,2024
+David Roddy,1631223,Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2024
+David Roddy,1631223,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2024
+David Roddy,1631223,Running Finger Roll Layup Shot,2,6,3,Finger Roll,LAYUPS,2024
+David Roddy,1631223,Running Jump Shot,3,5,2,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+David Roddy,1631223,Running Layup Shot,2,19,12,Standard Layup,LAYUPS,2024
+David Roddy,1631223,Running Pull-Up Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2024
+David Roddy,1631223,Running Pull-Up Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+David Roddy,1631223,Step Back Jump shot,3,5,1,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
+David Roddy,1631223,Tip Layup Shot,2,12,5,Putback Layup,LAYUPS,2024
+David Roddy,1631223,Turnaround Bank shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+David Roddy,1631223,Turnaround Fadeaway shot,2,21,7,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+David Roddy,1631223,Turnaround Hook Shot,2,9,4,Turnaround Hook Shot,POST_MOVES,2024
+David Roddy,1631223,Turnaround Jump Shot,2,2,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+David Roddy,1631223,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2025
+David Roddy,1631223,Cutting Layup Shot,2,4,3,Standard Layup,LAYUPS,2025
+David Roddy,1631223,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2025
+David Roddy,1631223,Driving Floating Jump Shot,2,9,5,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+David Roddy,1631223,Driving Layup Shot,2,11,9,Driving Layup,LAYUPS,2025
+David Roddy,1631223,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2025
+David Roddy,1631223,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
+David Roddy,1631223,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+David Roddy,1631223,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2025
+David Roddy,1631223,Jump Shot,3,31,13,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+David Roddy,1631223,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
+David Roddy,1631223,Pullup Jump shot,3,4,1,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
+David Roddy,1631223,Putback Layup Shot,2,1,0,Putback Layup,LAYUPS,2025
+David Roddy,1631223,Reverse Layup Shot,2,2,0,Reverse Layup,LAYUPS,2025
+David Roddy,1631223,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2025
+David Roddy,1631223,Running Jump Shot,3,3,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+David Roddy,1631223,Running Layup Shot,2,4,2,Standard Layup,LAYUPS,2025
+David Roddy,1631223,Running Pull-Up Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+David Roddy,1631223,Step Back Jump shot,3,2,2,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
+David Roddy,1631223,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+David Roddy,1631223,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,2025
+David Roddy,1631223,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025

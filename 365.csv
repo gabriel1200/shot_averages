@@ -1,46 +1,49 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Derrick McKey,365,Driving Layup,2,10,9,LAYUPS,,1997
-Derrick McKey,365,Hook Shot,2,23,16,POST_MOVES,,1997
-Derrick McKey,365,Jump Shot,2,212,58,JUMP_SHOTS,,1997
-Derrick McKey,365,Jump Shot,3,9,3,JUMP_SHOTS,,1997
-Derrick McKey,365,Running Jump Shot,2,1,1,JUMP_SHOTS,,1997
-Derrick McKey,365,Standard Dunk,2,9,9,DUNKS,,1997
-Derrick McKey,365,Standard Layup,2,106,46,LAYUPS,,1997
-Derrick McKey,365,Tip Shot,2,9,6,TIP_SHOTS,,1997
-Derrick McKey,365,Driving Layup,2,7,5,LAYUPS,,1998
-Derrick McKey,365,Hook Shot,2,22,17,POST_MOVES,,1998
-Derrick McKey,365,Jump Shot,2,222,75,JUMP_SHOTS,,1998
-Derrick McKey,365,Running Jump Shot,2,1,1,JUMP_SHOTS,,1998
-Derrick McKey,365,Standard Dunk,2,7,7,DUNKS,,1998
-Derrick McKey,365,Standard Layup,2,58,39,LAYUPS,,1998
-Derrick McKey,365,Tip Shot,2,10,6,TIP_SHOTS,,1998
-Derrick McKey,365,Driving Layup,2,2,2,LAYUPS,,1999
-Derrick McKey,365,Hook Shot,2,3,2,POST_MOVES,,1999
-Derrick McKey,365,Jump Shot,2,28,9,JUMP_SHOTS,,1999
-Derrick McKey,365,Standard Layup,2,16,8,LAYUPS,,1999
-Derrick McKey,365,Tip Shot,2,3,2,TIP_SHOTS,,1999
-Derrick McKey,365,Driving Dunk,2,1,1,DUNKS,,2000
-Derrick McKey,365,Driving Layup,2,1,1,LAYUPS,,2000
-Derrick McKey,365,Hook Shot,2,4,2,POST_MOVES,,2000
-Derrick McKey,365,Jump Shot,2,76,24,JUMP_SHOTS,,2000
-Derrick McKey,365,Jump Shot,3,4,1,JUMP_SHOTS,,2000
-Derrick McKey,365,Running Jump Shot,2,1,1,JUMP_SHOTS,,2000
-Derrick McKey,365,Standard Layup,2,18,12,LAYUPS,,2000
-Derrick McKey,365,Tip Shot,2,3,1,TIP_SHOTS,,2000
-Derrick McKey,365,Driving Hook Shot,2,1,1,POST_MOVES,,2001
-Derrick McKey,365,Driving Layup,2,3,2,LAYUPS,,2001
-Derrick McKey,365,Hook Shot,2,7,6,POST_MOVES,,2001
-Derrick McKey,365,Jump Shot,2,85,24,JUMP_SHOTS,,2001
-Derrick McKey,365,Reverse Layup,2,2,2,LAYUPS,,2001
-Derrick McKey,365,Standard Dunk,2,1,1,DUNKS,,2001
-Derrick McKey,365,Standard Layup,2,29,20,LAYUPS,,2001
-Derrick McKey,365,Tip Shot,2,7,4,TIP_SHOTS,,2001
-Derrick McKey,365,Turnaround Hook Shot,2,1,0,POST_MOVES,,2001
-Derrick McKey,365,Driving Layup,2,2,2,LAYUPS,,2002
-Derrick McKey,365,Hook Shot,2,4,2,POST_MOVES,,2002
-Derrick McKey,365,Jump Shot,2,77,26,JUMP_SHOTS,,2002
-Derrick McKey,365,Jump Shot,3,1,0,JUMP_SHOTS,,2002
-Derrick McKey,365,Reverse Layup,2,1,1,LAYUPS,,2002
-Derrick McKey,365,Standard Layup,2,26,16,LAYUPS,,2002
-Derrick McKey,365,Tip Shot,2,6,1,TIP_SHOTS,,2002
-Derrick McKey,365,Turnaround Jump Shot,2,5,4,JUMP_SHOTS,,2002
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Derrick McKey,365,Driving Layup Shot,2,10,9,Driving Layup,LAYUPS,1997
+Derrick McKey,365,Dunk Shot,2,6,6,Standard Dunk,DUNKS,1997
+Derrick McKey,365,Hook Shot,2,23,16,Hook Shot,POST_MOVES,1997
+Derrick McKey,365,Jump Shot,2,212,58,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Derrick McKey,365,Jump Shot,3,9,3,3PT Jump Shot,THREE_POINT_JUMPERS,1997
+Derrick McKey,365,Layup Shot,2,106,46,Standard Layup,LAYUPS,1997
+Derrick McKey,365,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
+Derrick McKey,365,Slam Dunk Shot,2,3,3,Standard Dunk,DUNKS,1997
+Derrick McKey,365,Tip Shot,2,9,6,Tip Shot,TIP_SHOTS,1997
+Derrick McKey,365,Driving Layup Shot,2,7,5,Driving Layup,LAYUPS,1998
+Derrick McKey,365,Dunk Shot,2,5,5,Standard Dunk,DUNKS,1998
+Derrick McKey,365,Hook Shot,2,22,17,Hook Shot,POST_MOVES,1998
+Derrick McKey,365,Jump Shot,2,222,75,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+Derrick McKey,365,Layup Shot,2,58,39,Standard Layup,LAYUPS,1998
+Derrick McKey,365,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
+Derrick McKey,365,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,1998
+Derrick McKey,365,Tip Shot,2,10,6,Tip Shot,TIP_SHOTS,1998
+Derrick McKey,365,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,1999
+Derrick McKey,365,Hook Shot,2,3,2,Hook Shot,POST_MOVES,1999
+Derrick McKey,365,Jump Shot,2,28,9,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Derrick McKey,365,Layup Shot,2,16,8,Standard Layup,LAYUPS,1999
+Derrick McKey,365,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,1999
+Derrick McKey,365,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2000
+Derrick McKey,365,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2000
+Derrick McKey,365,Hook Shot,2,4,2,Hook Shot,POST_MOVES,2000
+Derrick McKey,365,Jump Shot,2,76,24,2PT Jump Shot,TWO_POINT_JUMPERS,2000
+Derrick McKey,365,Jump Shot,3,4,1,3PT Jump Shot,THREE_POINT_JUMPERS,2000
+Derrick McKey,365,Layup Shot,2,18,12,Standard Layup,LAYUPS,2000
+Derrick McKey,365,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2000
+Derrick McKey,365,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,2000
+Derrick McKey,365,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2001
+Derrick McKey,365,Driving Layup Shot,2,3,2,Driving Layup,LAYUPS,2001
+Derrick McKey,365,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2001
+Derrick McKey,365,Hook Shot,2,7,6,Hook Shot,POST_MOVES,2001
+Derrick McKey,365,Jump Shot,2,85,24,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Derrick McKey,365,Layup Shot,2,29,20,Standard Layup,LAYUPS,2001
+Derrick McKey,365,Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2001
+Derrick McKey,365,Tip Shot,2,7,4,Tip Shot,TIP_SHOTS,2001
+Derrick McKey,365,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2001
+Derrick McKey,365,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,2002
+Derrick McKey,365,Hook Shot,2,2,0,Hook Shot,POST_MOVES,2002
+Derrick McKey,365,Jump Hook Shot,2,2,2,Hook Shot,POST_MOVES,2002
+Derrick McKey,365,Jump Shot,2,77,26,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Derrick McKey,365,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2002
+Derrick McKey,365,Layup Shot,2,26,16,Standard Layup,LAYUPS,2002
+Derrick McKey,365,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2002
+Derrick McKey,365,Tip Shot,2,6,1,Tip Shot,TIP_SHOTS,2002
+Derrick McKey,365,Turnaround Jump Shot,2,5,4,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2002

@@ -1,15 +1,18 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Marshall Plumlee,1627850,Driving Jump Shot,2,1,1,JUMP_SHOTS,,2017
-Marshall Plumlee,1627850,Driving Layup,2,2,1,LAYUPS,,2017
-Marshall Plumlee,1627850,Hook Shot,2,3,0,POST_MOVES,,2017
-Marshall Plumlee,1627850,Jump Shot,2,4,1,JUMP_SHOTS,,2017
-Marshall Plumlee,1627850,Putback Dunk,2,1,1,DUNKS,,2017
-Marshall Plumlee,1627850,Putback Layup,2,2,1,LAYUPS,,2017
-Marshall Plumlee,1627850,Reverse Dunk,2,1,1,DUNKS,,2017
-Marshall Plumlee,1627850,Reverse Layup,2,1,1,LAYUPS,,2017
-Marshall Plumlee,1627850,Specialty Dunk,2,1,1,DUNKS,,2017
-Marshall Plumlee,1627850,Standard Dunk,2,2,2,DUNKS,,2017
-Marshall Plumlee,1627850,Standard Layup,2,10,5,LAYUPS,,2017
-Marshall Plumlee,1627850,Turnaround Hook Shot,2,2,1,POST_MOVES,,2017
-Marshall Plumlee,1627850,Standard Dunk,2,1,1,DUNKS,,2018
-Marshall Plumlee,1627850,Standard Layup,2,2,0,LAYUPS,,2018
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Marshall Plumlee,1627850,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2017
+Marshall Plumlee,1627850,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2017
+Marshall Plumlee,1627850,Driving Bank shot,2,1,1,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2017
+Marshall Plumlee,1627850,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2017
+Marshall Plumlee,1627850,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2017
+Marshall Plumlee,1627850,Hook Shot,2,3,0,Hook Shot,POST_MOVES,2017
+Marshall Plumlee,1627850,Jump Shot,2,4,1,2PT Jump Shot,TWO_POINT_JUMPERS,2017
+Marshall Plumlee,1627850,Layup Shot,2,8,4,Standard Layup,LAYUPS,2017
+Marshall Plumlee,1627850,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2017
+Marshall Plumlee,1627850,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2017
+Marshall Plumlee,1627850,Reverse Dunk Shot,2,1,1,Reverse Dunk,DUNKS,2017
+Marshall Plumlee,1627850,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2017
+Marshall Plumlee,1627850,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2017
+Marshall Plumlee,1627850,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2017
+Marshall Plumlee,1627850,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,2017
+Marshall Plumlee,1627850,Layup Shot,2,2,0,Standard Layup,LAYUPS,2018
+Marshall Plumlee,1627850,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2018

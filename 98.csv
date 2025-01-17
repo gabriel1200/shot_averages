@@ -1,43 +1,47 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Nick Anderson,98,Driving Dunk,2,2,1,DUNKS,,1997
-Nick Anderson,98,Driving Layup,2,22,19,LAYUPS,,1997
-Nick Anderson,98,Hook Shot,2,5,3,POST_MOVES,,1997
-Nick Anderson,98,Jump Shot,2,584,207,JUMP_SHOTS,,1997
-Nick Anderson,98,Running Jump Shot,2,18,11,JUMP_SHOTS,,1997
-Nick Anderson,98,Standard Dunk,2,18,18,DUNKS,,1997
-Nick Anderson,98,Standard Layup,2,71,25,LAYUPS,,1997
-Nick Anderson,98,Tip Shot,2,5,4,TIP_SHOTS,,1997
-Nick Anderson,98,Driving Dunk,2,1,1,DUNKS,,1998
-Nick Anderson,98,Driving Layup,2,65,50,LAYUPS,,1998
-Nick Anderson,98,Hook Shot,2,7,3,POST_MOVES,,1998
-Nick Anderson,98,Jump Shot,2,535,203,JUMP_SHOTS,,1998
-Nick Anderson,98,Running Jump Shot,2,35,25,JUMP_SHOTS,,1998
-Nick Anderson,98,Standard Dunk,2,13,12,DUNKS,,1998
-Nick Anderson,98,Standard Layup,2,83,41,LAYUPS,,1998
-Nick Anderson,98,Tip Shot,2,15,8,TIP_SHOTS,,1998
-Nick Anderson,98,Driving Dunk,2,2,2,DUNKS,,1999
-Nick Anderson,98,Driving Layup,2,28,17,LAYUPS,,1999
-Nick Anderson,98,Hook Shot,2,5,3,POST_MOVES,,1999
-Nick Anderson,98,Jump Shot,2,494,172,JUMP_SHOTS,,1999
-Nick Anderson,98,Running Jump Shot,2,26,10,JUMP_SHOTS,,1999
-Nick Anderson,98,Standard Dunk,2,4,4,DUNKS,,1999
-Nick Anderson,98,Standard Layup,2,70,39,LAYUPS,,1999
-Nick Anderson,98,Tip Shot,2,11,6,TIP_SHOTS,,1999
-Nick Anderson,98,Driving Dunk,2,1,1,DUNKS,,2000
-Nick Anderson,98,Driving Layup,2,30,20,LAYUPS,,2000
-Nick Anderson,98,Hook Shot,2,4,3,POST_MOVES,,2000
-Nick Anderson,98,Jump Shot,2,661,231,JUMP_SHOTS,,2000
-Nick Anderson,98,Running Jump Shot,2,11,5,JUMP_SHOTS,,2000
-Nick Anderson,98,Standard Dunk,2,7,6,DUNKS,,2000
-Nick Anderson,98,Standard Layup,2,55,33,LAYUPS,,2000
-Nick Anderson,98,Tip Shot,2,13,7,TIP_SHOTS,,2000
-Nick Anderson,98,Driving Layup,2,1,1,LAYUPS,,2001
-Nick Anderson,98,Hook Shot,2,1,0,POST_MOVES,,2001
-Nick Anderson,98,Jump Shot,2,52,12,JUMP_SHOTS,,2001
-Nick Anderson,98,Standard Layup,2,2,1,LAYUPS,,2001
-Nick Anderson,98,Tip Shot,2,1,0,TIP_SHOTS,,2001
-Nick Anderson,98,Hook Shot,2,1,0,POST_MOVES,,2002
-Nick Anderson,98,Jump Shot,2,68,17,JUMP_SHOTS,,2002
-Nick Anderson,98,Running Jump Shot,2,1,1,JUMP_SHOTS,,2002
-Nick Anderson,98,Standard Layup,2,4,2,LAYUPS,,2002
-Nick Anderson,98,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2002
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Nick Anderson,98,Driving Dunk Shot,2,2,1,Driving Dunk,DUNKS,1997
+Nick Anderson,98,Driving Layup Shot,2,22,19,Driving Layup,LAYUPS,1997
+Nick Anderson,98,Dunk Shot,2,11,11,Standard Dunk,DUNKS,1997
+Nick Anderson,98,Hook Shot,2,5,3,Hook Shot,POST_MOVES,1997
+Nick Anderson,98,Jump Shot,2,584,207,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Nick Anderson,98,Layup Shot,2,71,25,Standard Layup,LAYUPS,1997
+Nick Anderson,98,Running Jump Shot,2,18,11,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
+Nick Anderson,98,Slam Dunk Shot,2,7,7,Standard Dunk,DUNKS,1997
+Nick Anderson,98,Tip Shot,2,5,4,Tip Shot,TIP_SHOTS,1997
+Nick Anderson,98,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,1998
+Nick Anderson,98,Driving Layup Shot,2,65,50,Driving Layup,LAYUPS,1998
+Nick Anderson,98,Dunk Shot,2,11,10,Standard Dunk,DUNKS,1998
+Nick Anderson,98,Hook Shot,2,7,3,Hook Shot,POST_MOVES,1998
+Nick Anderson,98,Jump Shot,2,535,203,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+Nick Anderson,98,Layup Shot,2,83,41,Standard Layup,LAYUPS,1998
+Nick Anderson,98,Running Jump Shot,2,35,25,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
+Nick Anderson,98,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,1998
+Nick Anderson,98,Tip Shot,2,15,8,Tip Shot,TIP_SHOTS,1998
+Nick Anderson,98,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,1999
+Nick Anderson,98,Driving Layup Shot,2,28,17,Driving Layup,LAYUPS,1999
+Nick Anderson,98,Dunk Shot,2,3,3,Standard Dunk,DUNKS,1999
+Nick Anderson,98,Hook Shot,2,5,3,Hook Shot,POST_MOVES,1999
+Nick Anderson,98,Jump Shot,2,494,172,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Nick Anderson,98,Layup Shot,2,70,39,Standard Layup,LAYUPS,1999
+Nick Anderson,98,Running Jump Shot,2,26,10,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999
+Nick Anderson,98,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,1999
+Nick Anderson,98,Tip Shot,2,11,6,Tip Shot,TIP_SHOTS,1999
+Nick Anderson,98,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2000
+Nick Anderson,98,Driving Layup Shot,2,30,20,Driving Layup,LAYUPS,2000
+Nick Anderson,98,Dunk Shot,2,6,5,Standard Dunk,DUNKS,2000
+Nick Anderson,98,Hook Shot,2,4,3,Hook Shot,POST_MOVES,2000
+Nick Anderson,98,Jump Shot,2,661,231,2PT Jump Shot,TWO_POINT_JUMPERS,2000
+Nick Anderson,98,Layup Shot,2,55,33,Standard Layup,LAYUPS,2000
+Nick Anderson,98,Running Jump Shot,2,11,5,2PT Running Jump Shot,TWO_POINT_JUMPERS,2000
+Nick Anderson,98,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2000
+Nick Anderson,98,Tip Shot,2,13,7,Tip Shot,TIP_SHOTS,2000
+Nick Anderson,98,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2001
+Nick Anderson,98,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2001
+Nick Anderson,98,Jump Shot,2,52,12,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Nick Anderson,98,Layup Shot,2,2,1,Standard Layup,LAYUPS,2001
+Nick Anderson,98,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2001
+Nick Anderson,98,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2002
+Nick Anderson,98,Jump Shot,2,68,17,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Nick Anderson,98,Layup Shot,2,4,2,Standard Layup,LAYUPS,2002
+Nick Anderson,98,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2002
+Nick Anderson,98,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2002

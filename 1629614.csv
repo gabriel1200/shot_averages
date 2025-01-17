@@ -1,52 +1,90 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Andrew Nembhard,1629614,Driving Dunk,2,1,1,DUNKS,,2023
-Andrew Nembhard,1629614,Driving Layup,2,62,35,LAYUPS,,2023
-Andrew Nembhard,1629614,Fadeaway Jump Shot,2,19,7,JUMP_SHOTS,,2023
-Andrew Nembhard,1629614,Finger Roll,2,31,21,LAYUPS,,2023
-Andrew Nembhard,1629614,Floating Jump Shot,2,90,35,FLOATING_SHOTS,,2023
-Andrew Nembhard,1629614,Jump Shot,2,162,61,JUMP_SHOTS,,2023
-Andrew Nembhard,1629614,Jump Shot,3,23,10,JUMP_SHOTS,,2023
-Andrew Nembhard,1629614,Pullup Jump Shot,2,109,41,JUMP_SHOTS,,2023
-Andrew Nembhard,1629614,Pullup Jump Shot,3,5,1,JUMP_SHOTS,,2023
-Andrew Nembhard,1629614,Putback Layup,2,4,2,LAYUPS,,2023
-Andrew Nembhard,1629614,Reverse Layup,2,6,3,LAYUPS,,2023
-Andrew Nembhard,1629614,Running Jump Shot,2,25,11,JUMP_SHOTS,,2023
-Andrew Nembhard,1629614,Running Jump Shot,3,5,2,JUMP_SHOTS,,2023
-Andrew Nembhard,1629614,Standard Layup,2,40,30,LAYUPS,,2023
-Andrew Nembhard,1629614,Step Back Jump Shot,2,39,16,JUMP_SHOTS,,2023
-Andrew Nembhard,1629614,Step Back Jump Shot,3,5,0,JUMP_SHOTS,,2023
-Andrew Nembhard,1629614,Turnaround Jump Shot,2,18,8,JUMP_SHOTS,,2023
-Andrew Nembhard,1629614,Driving Layup,2,50,26,LAYUPS,,2024
-Andrew Nembhard,1629614,Fadeaway Jump Shot,2,31,16,JUMP_SHOTS,,2024
-Andrew Nembhard,1629614,Finger Roll,2,47,36,LAYUPS,,2024
-Andrew Nembhard,1629614,Floating Jump Shot,2,53,24,FLOATING_SHOTS,,2024
-Andrew Nembhard,1629614,Hook Shot,2,1,0,POST_MOVES,,2024
-Andrew Nembhard,1629614,Jump Shot,2,14,6,JUMP_SHOTS,,2024
-Andrew Nembhard,1629614,Jump Shot,3,113,45,JUMP_SHOTS,,2024
-Andrew Nembhard,1629614,Pullup Jump Shot,2,81,42,JUMP_SHOTS,,2024
-Andrew Nembhard,1629614,Pullup Jump Shot,3,17,6,JUMP_SHOTS,,2024
-Andrew Nembhard,1629614,Putback Layup,2,6,4,LAYUPS,,2024
-Andrew Nembhard,1629614,Reverse Layup,2,2,1,LAYUPS,,2024
-Andrew Nembhard,1629614,Running Jump Shot,2,4,4,JUMP_SHOTS,,2024
-Andrew Nembhard,1629614,Running Jump Shot,3,23,7,JUMP_SHOTS,,2024
-Andrew Nembhard,1629614,Standard Dunk,2,1,1,DUNKS,,2024
-Andrew Nembhard,1629614,Standard Layup,2,29,23,LAYUPS,,2024
-Andrew Nembhard,1629614,Step Back Jump Shot,2,19,9,JUMP_SHOTS,,2024
-Andrew Nembhard,1629614,Step Back Jump Shot,3,18,3,JUMP_SHOTS,,2024
-Andrew Nembhard,1629614,Turnaround Jump Shot,2,13,7,JUMP_SHOTS,,2024
-Andrew Nembhard,1629614,Driving Layup,2,24,14,LAYUPS,,2025
-Andrew Nembhard,1629614,Fadeaway Jump Shot,2,14,5,JUMP_SHOTS,,2025
-Andrew Nembhard,1629614,Finger Roll,2,18,15,LAYUPS,,2025
-Andrew Nembhard,1629614,Floating Jump Shot,2,16,7,FLOATING_SHOTS,,2025
-Andrew Nembhard,1629614,Jump Shot,2,6,1,JUMP_SHOTS,,2025
-Andrew Nembhard,1629614,Jump Shot,3,45,16,JUMP_SHOTS,,2025
-Andrew Nembhard,1629614,Pullup Jump Shot,2,33,9,JUMP_SHOTS,,2025
-Andrew Nembhard,1629614,Pullup Jump Shot,3,7,0,JUMP_SHOTS,,2025
-Andrew Nembhard,1629614,Putback Layup,2,1,1,LAYUPS,,2025
-Andrew Nembhard,1629614,Reverse Layup,2,4,4,LAYUPS,,2025
-Andrew Nembhard,1629614,Running Jump Shot,2,7,2,JUMP_SHOTS,,2025
-Andrew Nembhard,1629614,Running Jump Shot,3,5,2,JUMP_SHOTS,,2025
-Andrew Nembhard,1629614,Standard Layup,2,17,12,LAYUPS,,2025
-Andrew Nembhard,1629614,Step Back Jump Shot,2,17,9,JUMP_SHOTS,,2025
-Andrew Nembhard,1629614,Step Back Jump Shot,3,5,3,JUMP_SHOTS,,2025
-Andrew Nembhard,1629614,Turnaround Jump Shot,2,5,4,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Andrew Nembhard,1629614,Cutting Layup Shot,2,4,3,Standard Layup,LAYUPS,2023
+Andrew Nembhard,1629614,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2023
+Andrew Nembhard,1629614,Driving Finger Roll Layup Shot,2,23,13,Finger Roll,LAYUPS,2023
+Andrew Nembhard,1629614,Driving Floating Bank Jump Shot,2,25,12,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Andrew Nembhard,1629614,Driving Floating Jump Shot,2,47,16,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Andrew Nembhard,1629614,Driving Layup Shot,2,49,29,Driving Layup,LAYUPS,2023
+Andrew Nembhard,1629614,Driving Reverse Layup Shot,2,13,6,Driving Layup,LAYUPS,2023
+Andrew Nembhard,1629614,Fadeaway Bank shot,2,2,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2023
+Andrew Nembhard,1629614,Fadeaway Jump Shot,2,17,6,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2023
+Andrew Nembhard,1629614,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2023
+Andrew Nembhard,1629614,Floating Jump shot,2,18,7,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Andrew Nembhard,1629614,Jump Bank Shot,2,2,2,2PT Jump Shot,TWO_POINT_JUMPERS,2023
+Andrew Nembhard,1629614,Jump Shot,2,160,59,2PT Jump Shot,TWO_POINT_JUMPERS,2023
+Andrew Nembhard,1629614,Jump Shot,3,23,10,3PT Jump Shot,THREE_POINT_JUMPERS,2023
+Andrew Nembhard,1629614,Layup Shot,2,8,2,Standard Layup,LAYUPS,2023
+Andrew Nembhard,1629614,Pullup Jump shot,2,109,41,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2023
+Andrew Nembhard,1629614,Pullup Jump shot,3,5,1,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2023
+Andrew Nembhard,1629614,Putback Layup Shot,2,2,1,Putback Layup,LAYUPS,2023
+Andrew Nembhard,1629614,Running Finger Roll Layup Shot,2,7,7,Finger Roll,LAYUPS,2023
+Andrew Nembhard,1629614,Running Jump Shot,2,19,9,2PT Running Jump Shot,TWO_POINT_JUMPERS,2023
+Andrew Nembhard,1629614,Running Jump Shot,3,3,2,3PT Running Jump Shot,THREE_POINT_JUMPERS,2023
+Andrew Nembhard,1629614,Running Layup Shot,2,28,25,Standard Layup,LAYUPS,2023
+Andrew Nembhard,1629614,Running Pull-Up Jump Shot,2,6,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2023
+Andrew Nembhard,1629614,Running Pull-Up Jump Shot,3,2,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2023
+Andrew Nembhard,1629614,Running Reverse Layup Shot,2,6,3,Reverse Layup,LAYUPS,2023
+Andrew Nembhard,1629614,Step Back Jump shot,2,39,16,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2023
+Andrew Nembhard,1629614,Step Back Jump shot,3,5,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2023
+Andrew Nembhard,1629614,Tip Layup Shot,2,2,1,Putback Layup,LAYUPS,2023
+Andrew Nembhard,1629614,Turnaround Fadeaway shot,2,12,6,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2023
+Andrew Nembhard,1629614,Turnaround Jump Shot,2,6,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2023
+Andrew Nembhard,1629614,Cutting Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2024
+Andrew Nembhard,1629614,Cutting Layup Shot,2,6,6,Standard Layup,LAYUPS,2024
+Andrew Nembhard,1629614,Driving Finger Roll Layup Shot,2,32,23,Finger Roll,LAYUPS,2024
+Andrew Nembhard,1629614,Driving Floating Bank Jump Shot,2,11,8,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Andrew Nembhard,1629614,Driving Floating Jump Shot,2,31,15,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Andrew Nembhard,1629614,Driving Layup Shot,2,42,22,Driving Layup,LAYUPS,2024
+Andrew Nembhard,1629614,Driving Reverse Layup Shot,2,8,4,Driving Layup,LAYUPS,2024
+Andrew Nembhard,1629614,Fadeaway Bank shot,2,2,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
+Andrew Nembhard,1629614,Fadeaway Jump Shot,2,29,15,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
+Andrew Nembhard,1629614,Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2024
+Andrew Nembhard,1629614,Floating Jump shot,2,11,1,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Andrew Nembhard,1629614,Hook Bank Shot,2,1,0,Hook Shot,POST_MOVES,2024
+Andrew Nembhard,1629614,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2024
+Andrew Nembhard,1629614,Jump Shot,2,13,5,2PT Jump Shot,TWO_POINT_JUMPERS,2024
+Andrew Nembhard,1629614,Jump Shot,3,113,45,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Andrew Nembhard,1629614,Layup Shot,2,5,1,Standard Layup,LAYUPS,2024
+Andrew Nembhard,1629614,Pullup Jump shot,2,81,42,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2024
+Andrew Nembhard,1629614,Pullup Jump shot,3,17,6,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
+Andrew Nembhard,1629614,Putback Layup Shot,2,3,2,Putback Layup,LAYUPS,2024
+Andrew Nembhard,1629614,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2024
+Andrew Nembhard,1629614,Running Finger Roll Layup Shot,2,11,10,Finger Roll,LAYUPS,2024
+Andrew Nembhard,1629614,Running Jump Shot,2,2,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2024
+Andrew Nembhard,1629614,Running Jump Shot,3,22,6,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Andrew Nembhard,1629614,Running Layup Shot,2,18,16,Standard Layup,LAYUPS,2024
+Andrew Nembhard,1629614,Running Pull-Up Jump Shot,2,2,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2024
+Andrew Nembhard,1629614,Running Pull-Up Jump Shot,3,1,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Andrew Nembhard,1629614,Running Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2024
+Andrew Nembhard,1629614,Step Back Bank Jump Shot,2,1,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2024
+Andrew Nembhard,1629614,Step Back Jump shot,2,18,8,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2024
+Andrew Nembhard,1629614,Step Back Jump shot,3,18,3,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
+Andrew Nembhard,1629614,Tip Layup Shot,2,3,2,Putback Layup,LAYUPS,2024
+Andrew Nembhard,1629614,Turnaround Bank shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Andrew Nembhard,1629614,Turnaround Fadeaway shot,2,6,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Andrew Nembhard,1629614,Turnaround Jump Shot,2,5,4,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Andrew Nembhard,1629614,Driving Finger Roll Layup Shot,2,11,8,Finger Roll,LAYUPS,2025
+Andrew Nembhard,1629614,Driving Floating Bank Jump Shot,2,7,5,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Andrew Nembhard,1629614,Driving Floating Jump Shot,2,9,2,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Andrew Nembhard,1629614,Driving Layup Shot,2,23,13,Driving Layup,LAYUPS,2025
+Andrew Nembhard,1629614,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2025
+Andrew Nembhard,1629614,Fadeaway Bank shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
+Andrew Nembhard,1629614,Fadeaway Jump Shot,2,13,4,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
+Andrew Nembhard,1629614,Jump Bank Shot,3,1,1,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Andrew Nembhard,1629614,Jump Shot,2,6,1,2PT Jump Shot,TWO_POINT_JUMPERS,2025
+Andrew Nembhard,1629614,Jump Shot,3,44,15,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Andrew Nembhard,1629614,Layup Shot,2,3,3,Standard Layup,LAYUPS,2025
+Andrew Nembhard,1629614,Pullup Jump shot,2,33,9,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
+Andrew Nembhard,1629614,Pullup Jump shot,3,7,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
+Andrew Nembhard,1629614,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2025
+Andrew Nembhard,1629614,Running Finger Roll Layup Shot,2,7,7,Finger Roll,LAYUPS,2025
+Andrew Nembhard,1629614,Running Jump Shot,2,3,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2025
+Andrew Nembhard,1629614,Running Jump Shot,3,5,2,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Andrew Nembhard,1629614,Running Layup Shot,2,14,9,Standard Layup,LAYUPS,2025
+Andrew Nembhard,1629614,Running Pull-Up Jump Shot,2,4,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2025
+Andrew Nembhard,1629614,Running Reverse Layup Shot,2,3,3,Reverse Layup,LAYUPS,2025
+Andrew Nembhard,1629614,Step Back Jump shot,2,17,9,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2025
+Andrew Nembhard,1629614,Step Back Jump shot,3,5,3,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
+Andrew Nembhard,1629614,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2025
+Andrew Nembhard,1629614,Turnaround Fadeaway shot,2,4,4,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+Andrew Nembhard,1629614,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025

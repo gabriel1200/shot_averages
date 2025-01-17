@@ -1,14 +1,21 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Juan Carlos Navarro,2434,Driving Jump Shot,2,1,1,JUMP_SHOTS,,2008
-Juan Carlos Navarro,2434,Driving Layup,2,42,32,LAYUPS,,2008
-Juan Carlos Navarro,2434,Fadeaway Jump Shot,2,3,0,JUMP_SHOTS,,2008
-Juan Carlos Navarro,2434,Finger Roll,2,5,4,LAYUPS,,2008
-Juan Carlos Navarro,2434,Floating Jump Shot,2,26,19,FLOATING_SHOTS,,2008
-Juan Carlos Navarro,2434,Jump Shot,2,514,173,JUMP_SHOTS,,2008
-Juan Carlos Navarro,2434,Pullup Jump Shot,2,5,2,JUMP_SHOTS,,2008
-Juan Carlos Navarro,2434,Running Hook Shot,2,3,0,POST_MOVES,,2008
-Juan Carlos Navarro,2434,Running Jump Shot,2,88,45,JUMP_SHOTS,,2008
-Juan Carlos Navarro,2434,Standard Layup,2,64,25,LAYUPS,,2008
-Juan Carlos Navarro,2434,Step Back Jump Shot,2,9,3,JUMP_SHOTS,,2008
-Juan Carlos Navarro,2434,Tip Shot,2,2,1,TIP_SHOTS,,2008
-Juan Carlos Navarro,2434,Turnaround Jump Shot,2,4,3,JUMP_SHOTS,,2008
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Juan Carlos Navarro,2434,Driving Bank shot,2,1,1,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2008
+Juan Carlos Navarro,2434,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2008
+Juan Carlos Navarro,2434,Driving Layup Shot,2,40,30,Driving Layup,LAYUPS,2008
+Juan Carlos Navarro,2434,Driving Reverse Layup Shot,2,2,2,Driving Layup,LAYUPS,2008
+Juan Carlos Navarro,2434,Fadeaway Jump Shot,2,3,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2008
+Juan Carlos Navarro,2434,Finger Roll Layup Shot,2,3,2,Finger Roll,LAYUPS,2008
+Juan Carlos Navarro,2434,Floating Jump shot,2,26,19,2PT Floating Jump Shot,FLOATING_SHOTS,2008
+Juan Carlos Navarro,2434,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2008
+Juan Carlos Navarro,2434,Jump Shot,2,513,172,2PT Jump Shot,TWO_POINT_JUMPERS,2008
+Juan Carlos Navarro,2434,Layup Shot,2,44,17,Standard Layup,LAYUPS,2008
+Juan Carlos Navarro,2434,Pullup Jump shot,2,5,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2008
+Juan Carlos Navarro,2434,Running Bank shot,2,3,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2008
+Juan Carlos Navarro,2434,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2008
+Juan Carlos Navarro,2434,Running Hook Shot,2,3,0,Running Hook Shot,POST_MOVES,2008
+Juan Carlos Navarro,2434,Running Jump Shot,2,85,43,2PT Running Jump Shot,TWO_POINT_JUMPERS,2008
+Juan Carlos Navarro,2434,Running Layup Shot,2,20,8,Standard Layup,LAYUPS,2008
+Juan Carlos Navarro,2434,Step Back Jump shot,2,9,3,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2008
+Juan Carlos Navarro,2434,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,2008
+Juan Carlos Navarro,2434,Turnaround Fadeaway shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2008
+Juan Carlos Navarro,2434,Turnaround Jump Shot,2,3,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2008

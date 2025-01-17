@@ -1,27 +1,28 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Sherman Douglas,428,Driving Layup,2,66,58,LAYUPS,,1997
-Sherman Douglas,428,Jump Shot,2,318,118,JUMP_SHOTS,,1997
-Sherman Douglas,428,Running Jump Shot,2,16,13,JUMP_SHOTS,,1997
-Sherman Douglas,428,Standard Layup,2,207,117,LAYUPS,,1997
-Sherman Douglas,428,Tip Shot,2,3,0,TIP_SHOTS,,1997
-Sherman Douglas,428,Driving Layup,2,136,100,LAYUPS,,1998
-Sherman Douglas,428,Hook Shot,2,5,4,POST_MOVES,,1998
-Sherman Douglas,428,Jump Shot,2,255,86,JUMP_SHOTS,,1998
-Sherman Douglas,428,Running Jump Shot,2,40,20,JUMP_SHOTS,,1998
-Sherman Douglas,428,Standard Layup,2,77,44,LAYUPS,,1998
-Sherman Douglas,428,Tip Shot,2,2,1,TIP_SHOTS,,1998
-Sherman Douglas,428,Driving Layup,2,67,43,LAYUPS,,1999
-Sherman Douglas,428,Jump Shot,2,105,24,JUMP_SHOTS,,1999
-Sherman Douglas,428,Running Jump Shot,2,17,13,JUMP_SHOTS,,1999
-Sherman Douglas,428,Standard Layup,2,30,16,LAYUPS,,1999
-Sherman Douglas,428,Driving Layup,2,24,15,LAYUPS,,2000
-Sherman Douglas,428,Jump Shot,2,57,24,JUMP_SHOTS,,2000
-Sherman Douglas,428,Running Jump Shot,2,1,0,JUMP_SHOTS,,2000
-Sherman Douglas,428,Standard Layup,2,7,5,LAYUPS,,2000
-Sherman Douglas,428,Tip Shot,2,1,1,TIP_SHOTS,,2000
-Sherman Douglas,428,Driving Layup,2,64,42,LAYUPS,,2001
-Sherman Douglas,428,Finger Roll,2,1,0,LAYUPS,,2001
-Sherman Douglas,428,Jump Shot,2,177,49,JUMP_SHOTS,,2001
-Sherman Douglas,428,Reverse Layup,2,2,0,LAYUPS,,2001
-Sherman Douglas,428,Running Jump Shot,2,20,9,JUMP_SHOTS,,2001
-Sherman Douglas,428,Standard Layup,2,39,22,LAYUPS,,2001
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Sherman Douglas,428,Driving Layup Shot,2,66,58,Driving Layup,LAYUPS,1997
+Sherman Douglas,428,Jump Shot,2,318,118,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Sherman Douglas,428,Layup Shot,2,207,117,Standard Layup,LAYUPS,1997
+Sherman Douglas,428,Running Jump Shot,2,16,13,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
+Sherman Douglas,428,Tip Shot,2,3,0,Tip Shot,TIP_SHOTS,1997
+Sherman Douglas,428,Driving Layup Shot,2,136,100,Driving Layup,LAYUPS,1998
+Sherman Douglas,428,Hook Shot,2,5,4,Hook Shot,POST_MOVES,1998
+Sherman Douglas,428,Jump Shot,2,255,86,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+Sherman Douglas,428,Layup Shot,2,77,44,Standard Layup,LAYUPS,1998
+Sherman Douglas,428,Running Jump Shot,2,40,20,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
+Sherman Douglas,428,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,1998
+Sherman Douglas,428,Driving Layup Shot,2,67,43,Driving Layup,LAYUPS,1999
+Sherman Douglas,428,Jump Shot,2,105,24,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Sherman Douglas,428,Layup Shot,2,30,16,Standard Layup,LAYUPS,1999
+Sherman Douglas,428,Running Jump Shot,2,17,13,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999
+Sherman Douglas,428,Driving Layup Shot,2,24,15,Driving Layup,LAYUPS,2000
+Sherman Douglas,428,Jump Shot,2,57,24,2PT Jump Shot,TWO_POINT_JUMPERS,2000
+Sherman Douglas,428,Layup Shot,2,7,5,Standard Layup,LAYUPS,2000
+Sherman Douglas,428,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2000
+Sherman Douglas,428,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2000
+Sherman Douglas,428,Driving Layup Shot,2,64,42,Driving Layup,LAYUPS,2001
+Sherman Douglas,428,Finger Roll Shot,2,1,0,Finger Roll,LAYUPS,2001
+Sherman Douglas,428,Jump Shot,2,177,49,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Sherman Douglas,428,Layup Shot,2,37,20,Standard Layup,LAYUPS,2001
+Sherman Douglas,428,Reverse Layup Shot,2,2,0,Reverse Layup,LAYUPS,2001
+Sherman Douglas,428,Running Jump Shot,2,20,9,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
+Sherman Douglas,428,Running Layup Shot,2,2,2,Standard Layup,LAYUPS,2001

@@ -1,6 +1,6 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Tracy Moore,929,Driving Dunk,2,1,0,DUNKS,,1997
-Tracy Moore,929,Driving Layup,2,7,7,LAYUPS,,1997
-Tracy Moore,929,Jump Shot,2,58,17,JUMP_SHOTS,,1997
-Tracy Moore,929,Running Jump Shot,2,3,2,JUMP_SHOTS,,1997
-Tracy Moore,929,Standard Layup,2,16,7,LAYUPS,,1997
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Tracy Moore,929,Driving Dunk Shot,2,1,0,Driving Dunk,DUNKS,1997
+Tracy Moore,929,Driving Layup Shot,2,7,7,Driving Layup,LAYUPS,1997
+Tracy Moore,929,Jump Shot,2,58,17,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Tracy Moore,929,Layup Shot,2,16,7,Standard Layup,LAYUPS,1997
+Tracy Moore,929,Running Jump Shot,2,3,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997

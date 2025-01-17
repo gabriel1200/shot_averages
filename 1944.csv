@@ -1,65 +1,75 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Eddie Robinson,1944,Driving Dunk,2,7,7,DUNKS,,2000
-Eddie Robinson,1944,Driving Layup,2,13,11,LAYUPS,,2000
-Eddie Robinson,1944,Jump Shot,2,273,126,JUMP_SHOTS,,2000
-Eddie Robinson,1944,Running Jump Shot,2,7,4,JUMP_SHOTS,,2000
-Eddie Robinson,1944,Standard Dunk,2,50,45,DUNKS,,2000
-Eddie Robinson,1944,Standard Layup,2,29,17,LAYUPS,,2000
-Eddie Robinson,1944,Tip Shot,2,7,2,TIP_SHOTS,,2000
-Eddie Robinson,1944,Alley Oop Dunk,2,13,13,DUNKS,,2001
-Eddie Robinson,1944,Alley Oop Layup,2,5,5,LAYUPS,,2001
-Eddie Robinson,1944,Driving Dunk,2,8,8,DUNKS,,2001
-Eddie Robinson,1944,Driving Layup,2,7,6,LAYUPS,,2001
-Eddie Robinson,1944,Hook Shot,2,1,0,POST_MOVES,,2001
-Eddie Robinson,1944,Jump Shot,2,287,126,JUMP_SHOTS,,2001
-Eddie Robinson,1944,Jump Shot,3,1,0,JUMP_SHOTS,,2001
-Eddie Robinson,1944,Reverse Layup,2,1,0,LAYUPS,,2001
-Eddie Robinson,1944,Running Jump Shot,2,7,6,JUMP_SHOTS,,2001
-Eddie Robinson,1944,Standard Dunk,2,27,24,DUNKS,,2001
-Eddie Robinson,1944,Standard Layup,2,44,26,LAYUPS,,2001
-Eddie Robinson,1944,Tip Shot,2,4,1,TIP_SHOTS,,2001
-Eddie Robinson,1944,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2001
-Eddie Robinson,1944,Alley Oop Dunk,2,1,1,DUNKS,,2002
-Eddie Robinson,1944,Alley Oop Layup,2,1,1,LAYUPS,,2002
-Eddie Robinson,1944,Driving Dunk,2,3,3,DUNKS,,2002
-Eddie Robinson,1944,Driving Layup,2,6,4,LAYUPS,,2002
-Eddie Robinson,1944,Fadeaway Jump Shot,2,2,0,JUMP_SHOTS,,2002
-Eddie Robinson,1944,Finger Roll,2,1,1,LAYUPS,,2002
-Eddie Robinson,1944,Hook Shot,2,1,0,POST_MOVES,,2002
-Eddie Robinson,1944,Jump Shot,2,179,69,JUMP_SHOTS,,2002
-Eddie Robinson,1944,Jump Shot,3,1,0,JUMP_SHOTS,,2002
-Eddie Robinson,1944,Running Jump Shot,2,5,2,JUMP_SHOTS,,2002
-Eddie Robinson,1944,Standard Dunk,2,17,15,DUNKS,,2002
-Eddie Robinson,1944,Standard Layup,2,25,13,LAYUPS,,2002
-Eddie Robinson,1944,Tip Shot,2,3,2,TIP_SHOTS,,2002
-Eddie Robinson,1944,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2002
-Eddie Robinson,1944,Alley Oop Dunk,2,6,6,DUNKS,,2003
-Eddie Robinson,1944,Alley Oop Layup,2,2,2,LAYUPS,,2003
-Eddie Robinson,1944,Driving Dunk,2,7,7,DUNKS,,2003
-Eddie Robinson,1944,Driving Layup,2,8,8,LAYUPS,,2003
-Eddie Robinson,1944,Fadeaway Jump Shot,2,2,1,JUMP_SHOTS,,2003
-Eddie Robinson,1944,Finger Roll,2,1,1,LAYUPS,,2003
-Eddie Robinson,1944,Hook Shot,2,1,1,POST_MOVES,,2003
-Eddie Robinson,1944,Jump Shot,2,188,70,JUMP_SHOTS,,2003
-Eddie Robinson,1944,Jump Shot,3,1,0,JUMP_SHOTS,,2003
-Eddie Robinson,1944,Reverse Layup,2,2,0,LAYUPS,,2003
-Eddie Robinson,1944,Running Jump Shot,2,4,3,JUMP_SHOTS,,2003
-Eddie Robinson,1944,Specialty Dunk,2,1,1,DUNKS,,2003
-Eddie Robinson,1944,Standard Dunk,2,23,21,DUNKS,,2003
-Eddie Robinson,1944,Standard Layup,2,57,29,LAYUPS,,2003
-Eddie Robinson,1944,Tip Shot,2,9,4,TIP_SHOTS,,2003
-Eddie Robinson,1944,Turnaround Jump Shot,2,3,1,JUMP_SHOTS,,2003
-Eddie Robinson,1944,Alley Oop Dunk,2,1,1,DUNKS,,2004
-Eddie Robinson,1944,Alley Oop Layup,2,1,1,LAYUPS,,2004
-Eddie Robinson,1944,Driving Dunk,2,1,1,DUNKS,,2004
-Eddie Robinson,1944,Driving Layup,2,1,1,LAYUPS,,2004
-Eddie Robinson,1944,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2004
-Eddie Robinson,1944,Finger Roll,2,1,1,LAYUPS,,2004
-Eddie Robinson,1944,Jump Shot,2,268,121,JUMP_SHOTS,,2004
-Eddie Robinson,1944,Jump Shot,3,4,0,JUMP_SHOTS,,2004
-Eddie Robinson,1944,Reverse Layup,2,2,2,LAYUPS,,2004
-Eddie Robinson,1944,Running Jump Shot,2,2,2,JUMP_SHOTS,,2004
-Eddie Robinson,1944,Standard Dunk,2,12,11,DUNKS,,2004
-Eddie Robinson,1944,Standard Layup,2,24,11,LAYUPS,,2004
-Eddie Robinson,1944,Tip Shot,2,7,4,TIP_SHOTS,,2004
-Eddie Robinson,1944,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2004
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Eddie Robinson,1944,Driving Dunk Shot,2,7,7,Driving Dunk,DUNKS,2000
+Eddie Robinson,1944,Driving Layup Shot,2,13,11,Driving Layup,LAYUPS,2000
+Eddie Robinson,1944,Dunk Shot,2,25,22,Standard Dunk,DUNKS,2000
+Eddie Robinson,1944,Jump Shot,2,273,126,2PT Jump Shot,TWO_POINT_JUMPERS,2000
+Eddie Robinson,1944,Layup Shot,2,29,17,Standard Layup,LAYUPS,2000
+Eddie Robinson,1944,Running Jump Shot,2,7,4,2PT Running Jump Shot,TWO_POINT_JUMPERS,2000
+Eddie Robinson,1944,Slam Dunk Shot,2,25,23,Standard Dunk,DUNKS,2000
+Eddie Robinson,1944,Tip Shot,2,7,2,Tip Shot,TIP_SHOTS,2000
+Eddie Robinson,1944,Alley Oop Dunk Shot,2,13,13,Alley Oop Dunk,DUNKS,2001
+Eddie Robinson,1944,Alley Oop Layup shot,2,5,5,Alley Oop Layup,LAYUPS,2001
+Eddie Robinson,1944,Driving Dunk Shot,2,8,8,Driving Dunk,DUNKS,2001
+Eddie Robinson,1944,Driving Layup Shot,2,7,6,Driving Layup,LAYUPS,2001
+Eddie Robinson,1944,Dunk Shot,2,18,15,Standard Dunk,DUNKS,2001
+Eddie Robinson,1944,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2001
+Eddie Robinson,1944,Jump Shot,2,287,126,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Eddie Robinson,1944,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2001
+Eddie Robinson,1944,Layup Shot,2,42,24,Standard Layup,LAYUPS,2001
+Eddie Robinson,1944,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2001
+Eddie Robinson,1944,Running Jump Shot,2,7,6,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
+Eddie Robinson,1944,Running Layup Shot,2,2,2,Standard Layup,LAYUPS,2001
+Eddie Robinson,1944,Slam Dunk Shot,2,9,9,Standard Dunk,DUNKS,2001
+Eddie Robinson,1944,Tip Shot,2,4,1,Tip Shot,TIP_SHOTS,2001
+Eddie Robinson,1944,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2001
+Eddie Robinson,1944,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2002
+Eddie Robinson,1944,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2002
+Eddie Robinson,1944,Driving Dunk Shot,2,3,3,Driving Dunk,DUNKS,2002
+Eddie Robinson,1944,Driving Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2002
+Eddie Robinson,1944,Driving Layup Shot,2,6,4,Driving Layup,LAYUPS,2002
+Eddie Robinson,1944,Dunk Shot,2,11,9,Standard Dunk,DUNKS,2002
+Eddie Robinson,1944,Fadeaway Jump Shot,2,2,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2002
+Eddie Robinson,1944,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2002
+Eddie Robinson,1944,Jump Shot,2,179,69,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Eddie Robinson,1944,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2002
+Eddie Robinson,1944,Layup Shot,2,25,13,Standard Layup,LAYUPS,2002
+Eddie Robinson,1944,Running Jump Shot,2,5,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2002
+Eddie Robinson,1944,Slam Dunk Shot,2,6,6,Standard Dunk,DUNKS,2002
+Eddie Robinson,1944,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,2002
+Eddie Robinson,1944,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2002
+Eddie Robinson,1944,Alley Oop Dunk Shot,2,6,6,Alley Oop Dunk,DUNKS,2003
+Eddie Robinson,1944,Alley Oop Layup shot,2,2,2,Alley Oop Layup,LAYUPS,2003
+Eddie Robinson,1944,Driving Dunk Shot,2,7,7,Driving Dunk,DUNKS,2003
+Eddie Robinson,1944,Driving Layup Shot,2,8,8,Driving Layup,LAYUPS,2003
+Eddie Robinson,1944,Dunk Shot,2,9,8,Standard Dunk,DUNKS,2003
+Eddie Robinson,1944,Fadeaway Jump Shot,2,2,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2003
+Eddie Robinson,1944,Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2003
+Eddie Robinson,1944,Follow Up Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2003
+Eddie Robinson,1944,Jump Hook Shot,2,1,1,Hook Shot,POST_MOVES,2003
+Eddie Robinson,1944,Jump Shot,2,188,70,2PT Jump Shot,TWO_POINT_JUMPERS,2003
+Eddie Robinson,1944,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2003
+Eddie Robinson,1944,Layup Shot,2,56,29,Standard Layup,LAYUPS,2003
+Eddie Robinson,1944,Reverse Layup Shot,2,2,0,Reverse Layup,LAYUPS,2003
+Eddie Robinson,1944,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2003
+Eddie Robinson,1944,Running Jump Shot,2,4,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2003
+Eddie Robinson,1944,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2003
+Eddie Robinson,1944,Slam Dunk Shot,2,13,12,Standard Dunk,DUNKS,2003
+Eddie Robinson,1944,Tip Shot,2,9,4,Tip Shot,TIP_SHOTS,2003
+Eddie Robinson,1944,Turnaround Jump Shot,2,3,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2003
+Eddie Robinson,1944,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2004
+Eddie Robinson,1944,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2004
+Eddie Robinson,1944,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2004
+Eddie Robinson,1944,Driving Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2004
+Eddie Robinson,1944,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2004
+Eddie Robinson,1944,Dunk Shot,2,7,6,Standard Dunk,DUNKS,2004
+Eddie Robinson,1944,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2004
+Eddie Robinson,1944,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2004
+Eddie Robinson,1944,Jump Shot,2,267,120,2PT Jump Shot,TWO_POINT_JUMPERS,2004
+Eddie Robinson,1944,Jump Shot,3,4,0,3PT Jump Shot,THREE_POINT_JUMPERS,2004
+Eddie Robinson,1944,Layup Shot,2,24,11,Standard Layup,LAYUPS,2004
+Eddie Robinson,1944,Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2004
+Eddie Robinson,1944,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2004
+Eddie Robinson,1944,Running Jump Shot,2,2,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2004
+Eddie Robinson,1944,Slam Dunk Shot,2,4,4,Standard Dunk,DUNKS,2004
+Eddie Robinson,1944,Tip Shot,2,7,4,Tip Shot,TIP_SHOTS,2004
+Eddie Robinson,1944,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2004

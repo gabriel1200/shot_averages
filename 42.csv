@@ -1,63 +1,75 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Monty Williams,42,Driving Dunk,2,4,4,DUNKS,,1997
-Monty Williams,42,Driving Layup,2,43,37,LAYUPS,,1997
-Monty Williams,42,Hook Shot,2,19,12,POST_MOVES,,1997
-Monty Williams,42,Jump Shot,2,120,46,JUMP_SHOTS,,1997
-Monty Williams,42,Running Jump Shot,2,6,4,JUMP_SHOTS,,1997
-Monty Williams,42,Standard Dunk,2,28,27,DUNKS,,1997
-Monty Williams,42,Standard Layup,2,227,94,LAYUPS,,1997
-Monty Williams,42,Tip Shot,2,13,10,TIP_SHOTS,,1997
-Monty Williams,42,Driving Dunk,2,8,8,DUNKS,,1998
-Monty Williams,42,Driving Layup,2,42,32,LAYUPS,,1998
-Monty Williams,42,Hook Shot,2,7,5,POST_MOVES,,1998
-Monty Williams,42,Jump Shot,2,155,46,JUMP_SHOTS,,1998
-Monty Williams,42,Running Jump Shot,2,2,1,JUMP_SHOTS,,1998
-Monty Williams,42,Standard Dunk,2,17,16,DUNKS,,1998
-Monty Williams,42,Standard Layup,2,128,52,LAYUPS,,1998
-Monty Williams,42,Tip Shot,2,9,5,TIP_SHOTS,,1998
-Monty Williams,42,Jump Shot,2,2,0,JUMP_SHOTS,,1999
-Monty Williams,42,Driving Layup,2,75,47,LAYUPS,,2000
-Monty Williams,42,Hook Shot,2,29,13,POST_MOVES,,2000
-Monty Williams,42,Jump Shot,2,262,92,JUMP_SHOTS,,2000
-Monty Williams,42,Running Jump Shot,2,11,9,JUMP_SHOTS,,2000
-Monty Williams,42,Standard Dunk,2,16,12,DUNKS,,2000
-Monty Williams,42,Standard Layup,2,128,79,LAYUPS,,2000
-Monty Williams,42,Tip Shot,2,17,11,TIP_SHOTS,,2000
-Monty Williams,42,Alley Oop Layup,2,3,1,LAYUPS,,2001
-Monty Williams,42,Driving Layup,2,34,22,LAYUPS,,2001
-Monty Williams,42,Finger Roll,2,13,9,LAYUPS,,2001
-Monty Williams,42,Hook Shot,2,21,6,POST_MOVES,,2001
-Monty Williams,42,Jump Shot,2,109,26,JUMP_SHOTS,,2001
-Monty Williams,42,Reverse Layup,2,14,11,LAYUPS,,2001
-Monty Williams,42,Running Hook Shot,2,5,0,POST_MOVES,,2001
-Monty Williams,42,Running Jump Shot,2,6,1,JUMP_SHOTS,,2001
-Monty Williams,42,Standard Dunk,2,10,9,DUNKS,,2001
-Monty Williams,42,Standard Layup,2,119,65,LAYUPS,,2001
-Monty Williams,42,Tip Shot,2,22,9,TIP_SHOTS,,2001
-Monty Williams,42,Turnaround Hook Shot,2,3,1,POST_MOVES,,2001
-Monty Williams,42,Turnaround Jump Shot,2,5,2,JUMP_SHOTS,,2001
-Monty Williams,42,Alley Oop Layup,2,1,1,LAYUPS,,2002
-Monty Williams,42,Driving Dunk,2,2,1,DUNKS,,2002
-Monty Williams,42,Driving Hook Shot,2,1,1,POST_MOVES,,2002
-Monty Williams,42,Driving Layup,2,34,21,LAYUPS,,2002
-Monty Williams,42,Fadeaway Jump Shot,2,3,1,JUMP_SHOTS,,2002
-Monty Williams,42,Finger Roll,2,15,12,LAYUPS,,2002
-Monty Williams,42,Hook Shot,2,19,9,POST_MOVES,,2002
-Monty Williams,42,Jump Shot,2,58,16,JUMP_SHOTS,,2002
-Monty Williams,42,Reverse Layup,2,17,12,LAYUPS,,2002
-Monty Williams,42,Running Hook Shot,2,1,1,POST_MOVES,,2002
-Monty Williams,42,Running Jump Shot,2,2,1,JUMP_SHOTS,,2002
-Monty Williams,42,Specialty Dunk,2,1,0,DUNKS,,2002
-Monty Williams,42,Standard Dunk,2,14,13,DUNKS,,2002
-Monty Williams,42,Standard Layup,2,171,96,LAYUPS,,2002
-Monty Williams,42,Tip Shot,2,18,10,TIP_SHOTS,,2002
-Monty Williams,42,Turnaround Jump Shot,2,5,3,JUMP_SHOTS,,2002
-Monty Williams,42,Driving Layup,2,5,4,LAYUPS,,2003
-Monty Williams,42,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2003
-Monty Williams,42,Hook Shot,2,1,1,POST_MOVES,,2003
-Monty Williams,42,Jump Shot,2,24,8,JUMP_SHOTS,,2003
-Monty Williams,42,Reverse Layup,2,1,0,LAYUPS,,2003
-Monty Williams,42,Running Jump Shot,2,1,1,JUMP_SHOTS,,2003
-Monty Williams,42,Standard Layup,2,42,17,LAYUPS,,2003
-Monty Williams,42,Tip Shot,2,1,1,TIP_SHOTS,,2003
-Monty Williams,42,Turnaround Jump Shot,2,4,1,JUMP_SHOTS,,2003
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Monty Williams,42,Driving Dunk Shot,2,4,4,Driving Dunk,DUNKS,1997
+Monty Williams,42,Driving Layup Shot,2,43,37,Driving Layup,LAYUPS,1997
+Monty Williams,42,Dunk Shot,2,21,20,Standard Dunk,DUNKS,1997
+Monty Williams,42,Hook Shot,2,19,12,Hook Shot,POST_MOVES,1997
+Monty Williams,42,Jump Shot,2,120,46,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Monty Williams,42,Layup Shot,2,227,94,Standard Layup,LAYUPS,1997
+Monty Williams,42,Running Jump Shot,2,6,4,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
+Monty Williams,42,Slam Dunk Shot,2,7,7,Standard Dunk,DUNKS,1997
+Monty Williams,42,Tip Shot,2,13,10,Tip Shot,TIP_SHOTS,1997
+Monty Williams,42,Driving Dunk Shot,2,8,8,Driving Dunk,DUNKS,1998
+Monty Williams,42,Driving Layup Shot,2,42,32,Driving Layup,LAYUPS,1998
+Monty Williams,42,Dunk Shot,2,8,7,Standard Dunk,DUNKS,1998
+Monty Williams,42,Hook Shot,2,7,5,Hook Shot,POST_MOVES,1998
+Monty Williams,42,Jump Shot,2,155,46,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+Monty Williams,42,Layup Shot,2,128,52,Standard Layup,LAYUPS,1998
+Monty Williams,42,Running Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
+Monty Williams,42,Slam Dunk Shot,2,9,9,Standard Dunk,DUNKS,1998
+Monty Williams,42,Tip Shot,2,9,5,Tip Shot,TIP_SHOTS,1998
+Monty Williams,42,Jump Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Monty Williams,42,Driving Layup Shot,2,75,47,Driving Layup,LAYUPS,2000
+Monty Williams,42,Dunk Shot,2,10,6,Standard Dunk,DUNKS,2000
+Monty Williams,42,Hook Shot,2,29,13,Hook Shot,POST_MOVES,2000
+Monty Williams,42,Jump Shot,2,262,92,2PT Jump Shot,TWO_POINT_JUMPERS,2000
+Monty Williams,42,Layup Shot,2,128,79,Standard Layup,LAYUPS,2000
+Monty Williams,42,Running Jump Shot,2,11,9,2PT Running Jump Shot,TWO_POINT_JUMPERS,2000
+Monty Williams,42,Slam Dunk Shot,2,6,6,Standard Dunk,DUNKS,2000
+Monty Williams,42,Tip Shot,2,17,11,Tip Shot,TIP_SHOTS,2000
+Monty Williams,42,Alley Oop Layup shot,2,3,1,Alley Oop Layup,LAYUPS,2001
+Monty Williams,42,Driving Finger Roll Shot,2,4,4,Finger Roll,LAYUPS,2001
+Monty Williams,42,Driving Layup Shot,2,34,22,Driving Layup,LAYUPS,2001
+Monty Williams,42,Dunk Shot,2,8,7,Standard Dunk,DUNKS,2001
+Monty Williams,42,Finger Roll Shot,2,9,5,Finger Roll,LAYUPS,2001
+Monty Williams,42,Hook Shot,2,21,6,Hook Shot,POST_MOVES,2001
+Monty Williams,42,Jump Shot,2,109,26,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Monty Williams,42,Layup Shot,2,118,65,Standard Layup,LAYUPS,2001
+Monty Williams,42,Reverse Layup Shot,2,14,11,Reverse Layup,LAYUPS,2001
+Monty Williams,42,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2001
+Monty Williams,42,Running Hook Shot,2,5,0,Running Hook Shot,POST_MOVES,2001
+Monty Williams,42,Running Jump Shot,2,6,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
+Monty Williams,42,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2001
+Monty Williams,42,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2001
+Monty Williams,42,Tip Shot,2,22,9,Tip Shot,TIP_SHOTS,2001
+Monty Williams,42,Turnaround Hook Shot,2,3,1,Turnaround Hook Shot,POST_MOVES,2001
+Monty Williams,42,Turnaround Jump Shot,2,5,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2001
+Monty Williams,42,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2002
+Monty Williams,42,Driving Dunk Shot,2,2,1,Driving Dunk,DUNKS,2002
+Monty Williams,42,Driving Finger Roll Shot,2,2,1,Finger Roll,LAYUPS,2002
+Monty Williams,42,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2002
+Monty Williams,42,Driving Layup Shot,2,34,21,Driving Layup,LAYUPS,2002
+Monty Williams,42,Dunk Shot,2,13,12,Standard Dunk,DUNKS,2002
+Monty Williams,42,Fadeaway Jump Shot,2,3,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2002
+Monty Williams,42,Finger Roll Shot,2,11,9,Finger Roll,LAYUPS,2002
+Monty Williams,42,Follow Up Dunk Shot,2,1,0,Specialty Dunk,DUNKS,2002
+Monty Williams,42,Hook Shot,2,17,8,Hook Shot,POST_MOVES,2002
+Monty Williams,42,Jump Hook Shot,2,2,1,Hook Shot,POST_MOVES,2002
+Monty Williams,42,Jump Shot,2,58,16,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Monty Williams,42,Layup Shot,2,171,96,Standard Layup,LAYUPS,2002
+Monty Williams,42,Reverse Layup Shot,2,17,12,Reverse Layup,LAYUPS,2002
+Monty Williams,42,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2002
+Monty Williams,42,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,2002
+Monty Williams,42,Running Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2002
+Monty Williams,42,Tip Shot,2,18,10,Tip Shot,TIP_SHOTS,2002
+Monty Williams,42,Turnaround Finger Roll Shot,2,2,2,Finger Roll,LAYUPS,2002
+Monty Williams,42,Turnaround Jump Shot,2,5,3,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2002
+Monty Williams,42,Driving Layup Shot,2,5,4,Driving Layup,LAYUPS,2003
+Monty Williams,42,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2003
+Monty Williams,42,Jump Hook Shot,2,1,1,Hook Shot,POST_MOVES,2003
+Monty Williams,42,Jump Shot,2,24,8,2PT Jump Shot,TWO_POINT_JUMPERS,2003
+Monty Williams,42,Layup Shot,2,39,14,Standard Layup,LAYUPS,2003
+Monty Williams,42,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2003
+Monty Williams,42,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2003
+Monty Williams,42,Running Layup Shot,2,3,3,Standard Layup,LAYUPS,2003
+Monty Williams,42,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2003
+Monty Williams,42,Turnaround Jump Shot,2,4,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2003

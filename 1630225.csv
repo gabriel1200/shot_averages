@@ -1,15 +1,16 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Isaiah Todd,1630225,Driving Layup,2,5,1,LAYUPS,,2022
-Isaiah Todd,1630225,Floating Jump Shot,2,2,1,FLOATING_SHOTS,,2022
-Isaiah Todd,1630225,Jump Shot,2,14,5,JUMP_SHOTS,,2022
-Isaiah Todd,1630225,Jump Shot,3,1,0,JUMP_SHOTS,,2022
-Isaiah Todd,1630225,Pullup Jump Shot,2,2,0,JUMP_SHOTS,,2022
-Isaiah Todd,1630225,Putback Layup,2,1,0,LAYUPS,,2022
-Isaiah Todd,1630225,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2022
-Isaiah Todd,1630225,Driving Hook Shot,2,2,1,POST_MOVES,,2023
-Isaiah Todd,1630225,Floating Jump Shot,2,1,1,FLOATING_SHOTS,,2023
-Isaiah Todd,1630225,Hook Shot,2,2,0,POST_MOVES,,2023
-Isaiah Todd,1630225,Jump Shot,2,5,0,JUMP_SHOTS,,2023
-Isaiah Todd,1630225,Jump Shot,3,6,1,JUMP_SHOTS,,2023
-Isaiah Todd,1630225,Standard Dunk,2,1,0,DUNKS,,2023
-Isaiah Todd,1630225,Turnaround Hook Shot,2,2,0,POST_MOVES,,2023
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Isaiah Todd,1630225,Driving Floating Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Isaiah Todd,1630225,Driving Layup Shot,2,5,1,Driving Layup,LAYUPS,2022
+Isaiah Todd,1630225,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Isaiah Todd,1630225,Jump Shot,2,14,5,2PT Jump Shot,TWO_POINT_JUMPERS,2022
+Isaiah Todd,1630225,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2022
+Isaiah Todd,1630225,Pullup Jump shot,2,2,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2022
+Isaiah Todd,1630225,Putback Layup Shot,2,1,0,Putback Layup,LAYUPS,2022
+Isaiah Todd,1630225,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2022
+Isaiah Todd,1630225,Driving Floating Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Isaiah Todd,1630225,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,2023
+Isaiah Todd,1630225,Hook Shot,2,2,0,Hook Shot,POST_MOVES,2023
+Isaiah Todd,1630225,Jump Shot,2,5,0,2PT Jump Shot,TWO_POINT_JUMPERS,2023
+Isaiah Todd,1630225,Jump Shot,3,6,1,3PT Jump Shot,THREE_POINT_JUMPERS,2023
+Isaiah Todd,1630225,Running Dunk Shot,2,1,0,Standard Dunk,DUNKS,2023
+Isaiah Todd,1630225,Turnaround Hook Shot,2,2,0,Turnaround Hook Shot,POST_MOVES,2023

@@ -1,30 +1,45 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Allonzo Trier,1629019,Alley Oop Layup,2,1,0,LAYUPS,,2019
-Allonzo Trier,1629019,Driving Dunk,2,7,6,DUNKS,,2019
-Allonzo Trier,1629019,Driving Hook Shot,2,1,1,POST_MOVES,,2019
-Allonzo Trier,1629019,Driving Layup,2,125,64,LAYUPS,,2019
-Allonzo Trier,1629019,Fadeaway Jump Shot,2,15,9,JUMP_SHOTS,,2019
-Allonzo Trier,1629019,Finger Roll,2,19,16,LAYUPS,,2019
-Allonzo Trier,1629019,Floating Jump Shot,2,7,2,FLOATING_SHOTS,,2019
-Allonzo Trier,1629019,Jump Shot,2,139,51,JUMP_SHOTS,,2019
-Allonzo Trier,1629019,Jump Shot,3,1,1,JUMP_SHOTS,,2019
-Allonzo Trier,1629019,Pullup Jump Shot,2,66,22,JUMP_SHOTS,,2019
-Allonzo Trier,1629019,Putback Layup,2,7,4,LAYUPS,,2019
-Allonzo Trier,1629019,Reverse Layup,2,2,2,LAYUPS,,2019
-Allonzo Trier,1629019,Running Jump Shot,2,3,0,JUMP_SHOTS,,2019
-Allonzo Trier,1629019,Standard Dunk,2,2,2,DUNKS,,2019
-Allonzo Trier,1629019,Standard Layup,2,57,26,LAYUPS,,2019
-Allonzo Trier,1629019,Step Back Jump Shot,2,59,24,JUMP_SHOTS,,2019
-Allonzo Trier,1629019,Turnaround Jump Shot,2,7,2,JUMP_SHOTS,,2019
-Allonzo Trier,1629019,Driving Dunk,2,3,2,DUNKS,,2020
-Allonzo Trier,1629019,Driving Layup,2,8,3,LAYUPS,,2020
-Allonzo Trier,1629019,Fadeaway Jump Shot,2,3,3,JUMP_SHOTS,,2020
-Allonzo Trier,1629019,Floating Jump Shot,2,3,1,FLOATING_SHOTS,,2020
-Allonzo Trier,1629019,Jump Shot,2,45,18,JUMP_SHOTS,,2020
-Allonzo Trier,1629019,Pullup Jump Shot,2,17,8,JUMP_SHOTS,,2020
-Allonzo Trier,1629019,Putback Layup,2,1,0,LAYUPS,,2020
-Allonzo Trier,1629019,Reverse Layup,2,2,2,LAYUPS,,2020
-Allonzo Trier,1629019,Standard Dunk,2,3,3,DUNKS,,2020
-Allonzo Trier,1629019,Standard Layup,2,7,4,LAYUPS,,2020
-Allonzo Trier,1629019,Step Back Jump Shot,2,12,6,JUMP_SHOTS,,2020
-Allonzo Trier,1629019,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2020
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Allonzo Trier,1629019,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2019
+Allonzo Trier,1629019,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2019
+Allonzo Trier,1629019,Driving Dunk Shot,2,7,6,Driving Dunk,DUNKS,2019
+Allonzo Trier,1629019,Driving Finger Roll Layup Shot,2,16,14,Finger Roll,LAYUPS,2019
+Allonzo Trier,1629019,Driving Floating Bank Jump Shot,2,3,0,2PT Floating Jump Shot,FLOATING_SHOTS,2019
+Allonzo Trier,1629019,Driving Floating Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2019
+Allonzo Trier,1629019,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2019
+Allonzo Trier,1629019,Driving Layup Shot,2,118,60,Driving Layup,LAYUPS,2019
+Allonzo Trier,1629019,Driving Reverse Layup Shot,2,7,4,Driving Layup,LAYUPS,2019
+Allonzo Trier,1629019,Fadeaway Jump Shot,2,15,9,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2019
+Allonzo Trier,1629019,Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2019
+Allonzo Trier,1629019,Floating Jump shot,2,3,1,2PT Floating Jump Shot,FLOATING_SHOTS,2019
+Allonzo Trier,1629019,Jump Bank Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2019
+Allonzo Trier,1629019,Jump Shot,2,137,51,2PT Jump Shot,TWO_POINT_JUMPERS,2019
+Allonzo Trier,1629019,Jump Shot,3,1,1,3PT Jump Shot,THREE_POINT_JUMPERS,2019
+Allonzo Trier,1629019,Layup Shot,2,31,10,Standard Layup,LAYUPS,2019
+Allonzo Trier,1629019,Pullup Jump shot,2,66,22,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2019
+Allonzo Trier,1629019,Putback Layup Shot,2,4,2,Putback Layup,LAYUPS,2019
+Allonzo Trier,1629019,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2019
+Allonzo Trier,1629019,Running Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2019
+Allonzo Trier,1629019,Running Jump Shot,2,2,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2019
+Allonzo Trier,1629019,Running Layup Shot,2,25,15,Standard Layup,LAYUPS,2019
+Allonzo Trier,1629019,Running Pull-Up Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2019
+Allonzo Trier,1629019,Running Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2019
+Allonzo Trier,1629019,Step Back Bank Jump Shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2019
+Allonzo Trier,1629019,Step Back Jump shot,2,58,24,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2019
+Allonzo Trier,1629019,Tip Layup Shot,2,3,2,Putback Layup,LAYUPS,2019
+Allonzo Trier,1629019,Turnaround Fadeaway shot,2,4,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2019
+Allonzo Trier,1629019,Turnaround Jump Shot,2,3,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2019
+Allonzo Trier,1629019,Driving Dunk Shot,2,3,2,Driving Dunk,DUNKS,2020
+Allonzo Trier,1629019,Driving Floating Bank Jump Shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2020
+Allonzo Trier,1629019,Driving Layup Shot,2,8,3,Driving Layup,LAYUPS,2020
+Allonzo Trier,1629019,Fadeaway Jump Shot,2,3,3,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2020
+Allonzo Trier,1629019,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2020
+Allonzo Trier,1629019,Jump Shot,2,45,18,2PT Jump Shot,TWO_POINT_JUMPERS,2020
+Allonzo Trier,1629019,Layup Shot,2,6,3,Standard Layup,LAYUPS,2020
+Allonzo Trier,1629019,Pullup Jump shot,2,17,8,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2020
+Allonzo Trier,1629019,Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2020
+Allonzo Trier,1629019,Running Dunk Shot,2,3,3,Standard Dunk,DUNKS,2020
+Allonzo Trier,1629019,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2020
+Allonzo Trier,1629019,Step Back Jump shot,2,12,6,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2020
+Allonzo Trier,1629019,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2020
+Allonzo Trier,1629019,Turnaround Fadeaway Bank Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2020
+Allonzo Trier,1629019,Turnaround Fadeaway shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2020

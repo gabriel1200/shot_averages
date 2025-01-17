@@ -1,9 +1,10 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Andre Ingram,201281,Floating Jump Shot,2,5,2,FLOATING_SHOTS,,2018
-Andre Ingram,201281,Jump Shot,2,9,6,JUMP_SHOTS,,2018
-Andre Ingram,201281,Pullup Jump Shot,2,2,0,JUMP_SHOTS,,2018
-Andre Ingram,201281,Standard Layup,2,1,0,LAYUPS,,2018
-Andre Ingram,201281,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2019
-Andre Ingram,201281,Jump Shot,2,3,0,JUMP_SHOTS,,2019
-Andre Ingram,201281,Pullup Jump Shot,2,1,0,JUMP_SHOTS,,2019
-Andre Ingram,201281,Running Jump Shot,2,1,0,JUMP_SHOTS,,2019
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Andre Ingram,201281,Driving Floating Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Andre Ingram,201281,Floating Jump shot,2,4,1,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Andre Ingram,201281,Jump Shot,2,9,6,2PT Jump Shot,TWO_POINT_JUMPERS,2018
+Andre Ingram,201281,Pullup Jump shot,2,2,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2018
+Andre Ingram,201281,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2018
+Andre Ingram,201281,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2019
+Andre Ingram,201281,Jump Shot,2,3,0,2PT Jump Shot,TWO_POINT_JUMPERS,2019
+Andre Ingram,201281,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2019
+Andre Ingram,201281,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2019

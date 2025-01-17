@@ -1,5 +1,5 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Antoine Rigaudeau,2541,Driving Layup,2,5,4,LAYUPS,,2003
-Antoine Rigaudeau,2541,Jump Shot,2,27,4,JUMP_SHOTS,,2003
-Antoine Rigaudeau,2541,Reverse Layup,2,1,0,LAYUPS,,2003
-Antoine Rigaudeau,2541,Standard Layup,2,2,0,LAYUPS,,2003
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Antoine Rigaudeau,2541,Driving Layup Shot,2,5,4,Driving Layup,LAYUPS,2003
+Antoine Rigaudeau,2541,Jump Shot,2,27,4,2PT Jump Shot,TWO_POINT_JUMPERS,2003
+Antoine Rigaudeau,2541,Layup Shot,2,2,0,Standard Layup,LAYUPS,2003
+Antoine Rigaudeau,2541,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2003

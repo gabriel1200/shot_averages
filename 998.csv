@@ -1,32 +1,36 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Mark Pope,998,Driving Layup,2,1,1,LAYUPS,,1998
-Mark Pope,998,Jump Shot,2,28,5,JUMP_SHOTS,,1998
-Mark Pope,998,Standard Dunk,2,3,3,DUNKS,,1998
-Mark Pope,998,Standard Layup,2,6,4,LAYUPS,,1998
-Mark Pope,998,Tip Shot,2,3,1,TIP_SHOTS,,1998
-Mark Pope,998,Driving Layup,2,1,1,LAYUPS,,1999
-Mark Pope,998,Jump Shot,2,4,0,JUMP_SHOTS,,1999
-Mark Pope,998,Tip Shot,2,2,0,TIP_SHOTS,,1999
-Mark Pope,998,Driving Dunk,2,2,2,DUNKS,,2001
-Mark Pope,998,Driving Layup,2,2,2,LAYUPS,,2001
-Mark Pope,998,Hook Shot,2,1,1,POST_MOVES,,2001
-Mark Pope,998,Jump Shot,2,77,21,JUMP_SHOTS,,2001
-Mark Pope,998,Running Jump Shot,2,1,0,JUMP_SHOTS,,2001
-Mark Pope,998,Standard Dunk,2,8,8,DUNKS,,2001
-Mark Pope,998,Standard Layup,2,36,20,LAYUPS,,2001
-Mark Pope,998,Tip Shot,2,15,8,TIP_SHOTS,,2001
-Mark Pope,998,Driving Dunk,2,2,2,DUNKS,,2002
-Mark Pope,998,Hook Shot,2,2,2,POST_MOVES,,2002
-Mark Pope,998,Jump Shot,2,55,14,JUMP_SHOTS,,2002
-Mark Pope,998,Reverse Layup,2,1,0,LAYUPS,,2002
-Mark Pope,998,Standard Dunk,2,6,6,DUNKS,,2002
-Mark Pope,998,Standard Layup,2,18,10,LAYUPS,,2002
-Mark Pope,998,Tip Shot,2,7,2,TIP_SHOTS,,2002
-Mark Pope,998,Hook Shot,2,1,0,POST_MOVES,,2004
-Mark Pope,998,Standard Layup,2,1,1,LAYUPS,,2004
-Mark Pope,998,Driving Layup,2,1,0,LAYUPS,,2005
-Mark Pope,998,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2005
-Mark Pope,998,Jump Shot,2,1,0,JUMP_SHOTS,,2005
-Mark Pope,998,Reverse Layup,2,1,0,LAYUPS,,2005
-Mark Pope,998,Standard Layup,2,1,1,LAYUPS,,2005
-Mark Pope,998,Tip Shot,2,1,1,TIP_SHOTS,,2005
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Mark Pope,998,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,1998
+Mark Pope,998,Dunk Shot,2,3,3,Standard Dunk,DUNKS,1998
+Mark Pope,998,Jump Shot,2,28,5,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+Mark Pope,998,Layup Shot,2,6,4,Standard Layup,LAYUPS,1998
+Mark Pope,998,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,1998
+Mark Pope,998,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,1999
+Mark Pope,998,Jump Shot,2,4,0,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Mark Pope,998,Tip Shot,2,2,0,Tip Shot,TIP_SHOTS,1999
+Mark Pope,998,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2001
+Mark Pope,998,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,2001
+Mark Pope,998,Dunk Shot,2,8,8,Standard Dunk,DUNKS,2001
+Mark Pope,998,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2001
+Mark Pope,998,Jump Shot,2,77,21,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Mark Pope,998,Layup Shot,2,34,19,Standard Layup,LAYUPS,2001
+Mark Pope,998,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
+Mark Pope,998,Running Layup Shot,2,2,1,Standard Layup,LAYUPS,2001
+Mark Pope,998,Tip Shot,2,15,8,Tip Shot,TIP_SHOTS,2001
+Mark Pope,998,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2002
+Mark Pope,998,Dunk Shot,2,4,4,Standard Dunk,DUNKS,2002
+Mark Pope,998,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2002
+Mark Pope,998,Jump Hook Shot,2,1,1,Hook Shot,POST_MOVES,2002
+Mark Pope,998,Jump Shot,2,55,14,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Mark Pope,998,Layup Shot,2,18,10,Standard Layup,LAYUPS,2002
+Mark Pope,998,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2002
+Mark Pope,998,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2002
+Mark Pope,998,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2002
+Mark Pope,998,Tip Shot,2,7,2,Tip Shot,TIP_SHOTS,2002
+Mark Pope,998,Jump Hook Shot,2,1,0,Hook Shot,POST_MOVES,2004
+Mark Pope,998,Layup Shot,2,1,1,Standard Layup,LAYUPS,2004
+Mark Pope,998,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2005
+Mark Pope,998,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2005
+Mark Pope,998,Jump Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2005
+Mark Pope,998,Layup Shot,2,1,1,Standard Layup,LAYUPS,2005
+Mark Pope,998,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2005
+Mark Pope,998,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2005

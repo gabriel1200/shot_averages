@@ -1,11 +1,15 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Rodney Purvis,1628681,Driving Dunk,2,1,0,DUNKS,,2018
-Rodney Purvis,1628681,Driving Hook Shot,2,1,1,POST_MOVES,,2018
-Rodney Purvis,1628681,Driving Layup,2,2,0,LAYUPS,,2018
-Rodney Purvis,1628681,Floating Jump Shot,2,6,2,FLOATING_SHOTS,,2018
-Rodney Purvis,1628681,Jump Shot,2,55,16,JUMP_SHOTS,,2018
-Rodney Purvis,1628681,Jump Shot,3,5,1,JUMP_SHOTS,,2018
-Rodney Purvis,1628681,Pullup Jump Shot,2,22,8,JUMP_SHOTS,,2018
-Rodney Purvis,1628681,Running Jump Shot,2,1,0,JUMP_SHOTS,,2018
-Rodney Purvis,1628681,Standard Layup,2,10,7,LAYUPS,,2018
-Rodney Purvis,1628681,Step Back Jump Shot,2,4,0,JUMP_SHOTS,,2018
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Rodney Purvis,1628681,Driving Dunk Shot,2,1,0,Driving Dunk,DUNKS,2018
+Rodney Purvis,1628681,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Rodney Purvis,1628681,Driving Floating Jump Shot,2,4,1,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Rodney Purvis,1628681,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2018
+Rodney Purvis,1628681,Driving Layup Shot,2,2,0,Driving Layup,LAYUPS,2018
+Rodney Purvis,1628681,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Rodney Purvis,1628681,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2018
+Rodney Purvis,1628681,Jump Shot,2,54,15,2PT Jump Shot,TWO_POINT_JUMPERS,2018
+Rodney Purvis,1628681,Jump Shot,3,5,1,3PT Jump Shot,THREE_POINT_JUMPERS,2018
+Rodney Purvis,1628681,Layup Shot,2,3,1,Standard Layup,LAYUPS,2018
+Rodney Purvis,1628681,Pullup Jump shot,2,22,8,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2018
+Rodney Purvis,1628681,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2018
+Rodney Purvis,1628681,Running Layup Shot,2,7,6,Standard Layup,LAYUPS,2018
+Rodney Purvis,1628681,Step Back Jump shot,2,4,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2018

@@ -1,38 +1,54 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jeremy Pargo,202951,Driving Dunk,2,2,2,DUNKS,,2012
-Jeremy Pargo,202951,Driving Jump Shot,2,4,0,JUMP_SHOTS,,2012
-Jeremy Pargo,202951,Driving Layup,2,14,13,LAYUPS,,2012
-Jeremy Pargo,202951,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2012
-Jeremy Pargo,202951,Finger Roll,2,3,2,LAYUPS,,2012
-Jeremy Pargo,202951,Jump Shot,2,82,18,JUMP_SHOTS,,2012
-Jeremy Pargo,202951,Pullup Jump Shot,2,10,2,JUMP_SHOTS,,2012
-Jeremy Pargo,202951,Reverse Layup,2,1,0,LAYUPS,,2012
-Jeremy Pargo,202951,Running Jump Shot,2,5,1,JUMP_SHOTS,,2012
-Jeremy Pargo,202951,Standard Dunk,2,2,2,DUNKS,,2012
-Jeremy Pargo,202951,Standard Layup,2,16,4,LAYUPS,,2012
-Jeremy Pargo,202951,Step Back Jump Shot,2,6,2,JUMP_SHOTS,,2012
-Jeremy Pargo,202951,Tip Shot,2,1,1,TIP_SHOTS,,2012
-Jeremy Pargo,202951,Turnaround Jump Shot,2,3,2,JUMP_SHOTS,,2012
-Jeremy Pargo,202951,Alley Oop Dunk,2,2,2,DUNKS,,2013
-Jeremy Pargo,202951,Driving Layup,2,30,18,LAYUPS,,2013
-Jeremy Pargo,202951,Fadeaway Jump Shot,2,9,4,JUMP_SHOTS,,2013
-Jeremy Pargo,202951,Finger Roll,2,2,1,LAYUPS,,2013
-Jeremy Pargo,202951,Floating Jump Shot,2,3,2,FLOATING_SHOTS,,2013
-Jeremy Pargo,202951,Jump Shot,2,134,45,JUMP_SHOTS,,2013
-Jeremy Pargo,202951,Jump Shot,3,1,1,JUMP_SHOTS,,2013
-Jeremy Pargo,202951,Pullup Jump Shot,2,1,1,JUMP_SHOTS,,2013
-Jeremy Pargo,202951,Reverse Layup,2,5,2,LAYUPS,,2013
-Jeremy Pargo,202951,Running Jump Shot,2,5,3,JUMP_SHOTS,,2013
-Jeremy Pargo,202951,Standard Dunk,2,1,1,DUNKS,,2013
-Jeremy Pargo,202951,Standard Layup,2,46,11,LAYUPS,,2013
-Jeremy Pargo,202951,Step Back Jump Shot,2,8,6,JUMP_SHOTS,,2013
-Jeremy Pargo,202951,Turnaround Jump Shot,2,3,2,JUMP_SHOTS,,2013
-Jeremy Pargo,202951,Driving Layup,2,4,4,LAYUPS,,2020
-Jeremy Pargo,202951,Finger Roll,2,1,0,LAYUPS,,2020
-Jeremy Pargo,202951,Floating Jump Shot,2,2,0,FLOATING_SHOTS,,2020
-Jeremy Pargo,202951,Hook Shot,2,1,0,POST_MOVES,,2020
-Jeremy Pargo,202951,Jump Shot,2,6,1,JUMP_SHOTS,,2020
-Jeremy Pargo,202951,Pullup Jump Shot,2,3,3,JUMP_SHOTS,,2020
-Jeremy Pargo,202951,Reverse Layup,2,1,1,LAYUPS,,2020
-Jeremy Pargo,202951,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2020
-Jeremy Pargo,202951,Turnaround Jump Shot,2,3,2,JUMP_SHOTS,,2020
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Jeremy Pargo,202951,Driving Bank shot,2,1,0,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2012
+Jeremy Pargo,202951,Driving Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2012
+Jeremy Pargo,202951,Driving Jump shot,2,3,0,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2012
+Jeremy Pargo,202951,Driving Layup Shot,2,10,9,Driving Layup,LAYUPS,2012
+Jeremy Pargo,202951,Driving Reverse Layup Shot,2,4,4,Driving Layup,LAYUPS,2012
+Jeremy Pargo,202951,Driving Slam Dunk Shot,2,2,2,Driving Dunk,DUNKS,2012
+Jeremy Pargo,202951,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2012
+Jeremy Pargo,202951,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2012
+Jeremy Pargo,202951,Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2012
+Jeremy Pargo,202951,Jump Bank Shot,2,2,1,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Jeremy Pargo,202951,Jump Shot,2,80,17,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Jeremy Pargo,202951,Layup Shot,2,16,4,Standard Layup,LAYUPS,2012
+Jeremy Pargo,202951,Pullup Bank shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2012
+Jeremy Pargo,202951,Pullup Jump shot,2,9,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2012
+Jeremy Pargo,202951,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2012
+Jeremy Pargo,202951,Running Bank shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2012
+Jeremy Pargo,202951,Running Jump Shot,2,4,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2012
+Jeremy Pargo,202951,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2012
+Jeremy Pargo,202951,Step Back Jump shot,2,6,2,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2012
+Jeremy Pargo,202951,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2012
+Jeremy Pargo,202951,Turnaround Bank shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2012
+Jeremy Pargo,202951,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2012
+Jeremy Pargo,202951,Alley Oop Dunk Shot,2,2,2,Alley Oop Dunk,DUNKS,2013
+Jeremy Pargo,202951,Driving Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2013
+Jeremy Pargo,202951,Driving Layup Shot,2,29,18,Driving Layup,LAYUPS,2013
+Jeremy Pargo,202951,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2013
+Jeremy Pargo,202951,Fadeaway Jump Shot,2,9,4,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2013
+Jeremy Pargo,202951,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2013
+Jeremy Pargo,202951,Floating Jump shot,2,3,2,2PT Floating Jump Shot,FLOATING_SHOTS,2013
+Jeremy Pargo,202951,Jump Bank Shot,2,3,2,2PT Jump Shot,TWO_POINT_JUMPERS,2013
+Jeremy Pargo,202951,Jump Shot,2,131,43,2PT Jump Shot,TWO_POINT_JUMPERS,2013
+Jeremy Pargo,202951,Jump Shot,3,1,1,3PT Jump Shot,THREE_POINT_JUMPERS,2013
+Jeremy Pargo,202951,Layup Shot,2,46,11,Standard Layup,LAYUPS,2013
+Jeremy Pargo,202951,Pullup Jump shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2013
+Jeremy Pargo,202951,Reverse Layup Shot,2,5,2,Reverse Layup,LAYUPS,2013
+Jeremy Pargo,202951,Running Bank shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2013
+Jeremy Pargo,202951,Running Jump Shot,2,4,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2013
+Jeremy Pargo,202951,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2013
+Jeremy Pargo,202951,Step Back Jump shot,2,8,6,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2013
+Jeremy Pargo,202951,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2013
+Jeremy Pargo,202951,Turnaround Jump Shot,2,2,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2013
+Jeremy Pargo,202951,Driving Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2020
+Jeremy Pargo,202951,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2020
+Jeremy Pargo,202951,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2020
+Jeremy Pargo,202951,Driving Layup Shot,2,3,3,Driving Layup,LAYUPS,2020
+Jeremy Pargo,202951,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2020
+Jeremy Pargo,202951,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2020
+Jeremy Pargo,202951,Jump Shot,2,6,1,2PT Jump Shot,TWO_POINT_JUMPERS,2020
+Jeremy Pargo,202951,Pullup Jump shot,2,3,3,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2020
+Jeremy Pargo,202951,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2020
+Jeremy Pargo,202951,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2020
+Jeremy Pargo,202951,Turnaround Fadeaway shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2020
+Jeremy Pargo,202951,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2020

@@ -1,18 +1,20 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Alex Acker,101165,Jump Shot,2,11,3,JUMP_SHOTS,,2006
-Alex Acker,101165,Jump Shot,3,1,0,JUMP_SHOTS,,2006
-Alex Acker,101165,Running Jump Shot,2,1,1,JUMP_SHOTS,,2006
-Alex Acker,101165,Standard Layup,2,2,0,LAYUPS,,2006
-Alex Acker,101165,Tip Shot,2,1,0,TIP_SHOTS,,2006
-Alex Acker,101165,Alley Oop Layup,2,1,0,LAYUPS,,2009
-Alex Acker,101165,Driving Dunk,2,1,0,DUNKS,,2009
-Alex Acker,101165,Driving Layup,2,2,2,LAYUPS,,2009
-Alex Acker,101165,Finger Roll,2,2,0,LAYUPS,,2009
-Alex Acker,101165,Jump Shot,2,39,15,JUMP_SHOTS,,2009
-Alex Acker,101165,Jump Shot,3,16,7,JUMP_SHOTS,,2009
-Alex Acker,101165,Reverse Layup,2,2,2,LAYUPS,,2009
-Alex Acker,101165,Running Jump Shot,2,1,1,JUMP_SHOTS,,2009
-Alex Acker,101165,Standard Layup,2,9,2,LAYUPS,,2009
-Alex Acker,101165,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2009
-Alex Acker,101165,Tip Shot,2,1,0,TIP_SHOTS,,2009
-Alex Acker,101165,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2009
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Alex Acker,101165,Jump Shot,2,11,3,2PT Jump Shot,TWO_POINT_JUMPERS,2006
+Alex Acker,101165,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2006
+Alex Acker,101165,Layup Shot,2,2,0,Standard Layup,LAYUPS,2006
+Alex Acker,101165,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2006
+Alex Acker,101165,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2006
+Alex Acker,101165,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2009
+Alex Acker,101165,Driving Dunk Shot,2,1,0,Driving Dunk,DUNKS,2009
+Alex Acker,101165,Driving Finger Roll Layup Shot,2,2,0,Finger Roll,LAYUPS,2009
+Alex Acker,101165,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2009
+Alex Acker,101165,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2009
+Alex Acker,101165,Jump Shot,2,39,15,2PT Jump Shot,TWO_POINT_JUMPERS,2009
+Alex Acker,101165,Jump Shot,3,16,7,3PT Jump Shot,THREE_POINT_JUMPERS,2009
+Alex Acker,101165,Layup Shot,2,8,1,Standard Layup,LAYUPS,2009
+Alex Acker,101165,Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2009
+Alex Acker,101165,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2009
+Alex Acker,101165,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2009
+Alex Acker,101165,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2009
+Alex Acker,101165,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2009
+Alex Acker,101165,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2009

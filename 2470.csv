@@ -1,61 +1,79 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Smush Parker,2470,Alley Oop Dunk,2,1,1,DUNKS,,2003
-Smush Parker,2470,Driving Dunk,2,5,4,DUNKS,,2003
-Smush Parker,2470,Driving Layup,2,36,29,LAYUPS,,2003
-Smush Parker,2470,Finger Roll,2,1,1,LAYUPS,,2003
-Smush Parker,2470,Jump Shot,2,195,52,JUMP_SHOTS,,2003
-Smush Parker,2470,Reverse Dunk,2,3,3,DUNKS,,2003
-Smush Parker,2470,Reverse Layup,2,11,5,LAYUPS,,2003
-Smush Parker,2470,Running Jump Shot,2,12,8,JUMP_SHOTS,,2003
-Smush Parker,2470,Standard Dunk,2,17,13,DUNKS,,2003
-Smush Parker,2470,Standard Layup,2,52,17,LAYUPS,,2003
-Smush Parker,2470,Tip Shot,2,3,3,TIP_SHOTS,,2003
-Smush Parker,2470,Turnaround Jump Shot,2,2,0,JUMP_SHOTS,,2003
-Smush Parker,2470,Alley Oop Layup,2,1,1,LAYUPS,,2005
-Smush Parker,2470,Driving Layup,2,3,3,LAYUPS,,2005
-Smush Parker,2470,Jump Shot,2,28,8,JUMP_SHOTS,,2005
-Smush Parker,2470,Reverse Layup,2,2,2,LAYUPS,,2005
-Smush Parker,2470,Running Jump Shot,2,1,1,JUMP_SHOTS,,2005
-Smush Parker,2470,Standard Dunk,2,2,2,DUNKS,,2005
-Smush Parker,2470,Standard Layup,2,6,1,LAYUPS,,2005
-Smush Parker,2470,Alley Oop Dunk,2,3,3,DUNKS,,2006
-Smush Parker,2470,Driving Dunk,2,9,9,DUNKS,,2006
-Smush Parker,2470,Driving Layup,2,74,61,LAYUPS,,2006
-Smush Parker,2470,Fadeaway Jump Shot,2,2,2,JUMP_SHOTS,,2006
-Smush Parker,2470,Finger Roll,2,7,6,LAYUPS,,2006
-Smush Parker,2470,Hook Shot,2,1,0,POST_MOVES,,2006
-Smush Parker,2470,Jump Shot,2,480,151,JUMP_SHOTS,,2006
-Smush Parker,2470,Reverse Dunk,2,5,5,DUNKS,,2006
-Smush Parker,2470,Reverse Layup,2,18,15,LAYUPS,,2006
-Smush Parker,2470,Running Hook Shot,2,2,1,POST_MOVES,,2006
-Smush Parker,2470,Running Jump Shot,2,21,15,JUMP_SHOTS,,2006
-Smush Parker,2470,Standard Dunk,2,34,28,DUNKS,,2006
-Smush Parker,2470,Standard Layup,2,117,50,LAYUPS,,2006
-Smush Parker,2470,Tip Shot,2,3,1,TIP_SHOTS,,2006
-Smush Parker,2470,Turnaround Jump Shot,2,3,1,JUMP_SHOTS,,2006
-Smush Parker,2470,Alley Oop Layup,2,1,1,LAYUPS,,2007
-Smush Parker,2470,Driving Dunk,2,2,2,DUNKS,,2007
-Smush Parker,2470,Driving Layup,2,61,47,LAYUPS,,2007
-Smush Parker,2470,Fadeaway Jump Shot,2,2,0,JUMP_SHOTS,,2007
-Smush Parker,2470,Finger Roll,2,11,10,LAYUPS,,2007
-Smush Parker,2470,Hook Shot,2,4,3,POST_MOVES,,2007
-Smush Parker,2470,Jump Shot,2,521,198,JUMP_SHOTS,,2007
-Smush Parker,2470,Jump Shot,3,2,0,JUMP_SHOTS,,2007
-Smush Parker,2470,Reverse Dunk,2,2,2,DUNKS,,2007
-Smush Parker,2470,Reverse Layup,2,13,11,LAYUPS,,2007
-Smush Parker,2470,Running Jump Shot,2,25,12,JUMP_SHOTS,,2007
-Smush Parker,2470,Standard Dunk,2,12,11,DUNKS,,2007
-Smush Parker,2470,Standard Layup,2,122,43,LAYUPS,,2007
-Smush Parker,2470,Tip Shot,2,3,0,TIP_SHOTS,,2007
-Smush Parker,2470,Turnaround Jump Shot,2,4,2,JUMP_SHOTS,,2007
-Smush Parker,2470,Alley Oop Layup,2,1,0,LAYUPS,,2008
-Smush Parker,2470,Driving Dunk,2,1,1,DUNKS,,2008
-Smush Parker,2470,Driving Layup,2,8,7,LAYUPS,,2008
-Smush Parker,2470,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2008
-Smush Parker,2470,Floating Jump Shot,2,8,6,FLOATING_SHOTS,,2008
-Smush Parker,2470,Jump Shot,2,140,39,JUMP_SHOTS,,2008
-Smush Parker,2470,Pullup Jump Shot,2,1,1,JUMP_SHOTS,,2008
-Smush Parker,2470,Running Jump Shot,2,5,3,JUMP_SHOTS,,2008
-Smush Parker,2470,Standard Dunk,2,1,1,DUNKS,,2008
-Smush Parker,2470,Standard Layup,2,17,5,LAYUPS,,2008
-Smush Parker,2470,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2008
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Smush Parker,2470,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2003
+Smush Parker,2470,Driving Dunk Shot,2,5,4,Driving Dunk,DUNKS,2003
+Smush Parker,2470,Driving Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2003
+Smush Parker,2470,Driving Layup Shot,2,36,29,Driving Layup,LAYUPS,2003
+Smush Parker,2470,Dunk Shot,2,9,5,Standard Dunk,DUNKS,2003
+Smush Parker,2470,Jump Shot,2,195,52,2PT Jump Shot,TWO_POINT_JUMPERS,2003
+Smush Parker,2470,Layup Shot,2,51,16,Standard Layup,LAYUPS,2003
+Smush Parker,2470,Reverse Dunk Shot,2,3,3,Reverse Dunk,DUNKS,2003
+Smush Parker,2470,Reverse Layup Shot,2,11,5,Reverse Layup,LAYUPS,2003
+Smush Parker,2470,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2003
+Smush Parker,2470,Running Jump Shot,2,12,8,2PT Running Jump Shot,TWO_POINT_JUMPERS,2003
+Smush Parker,2470,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2003
+Smush Parker,2470,Slam Dunk Shot,2,7,7,Standard Dunk,DUNKS,2003
+Smush Parker,2470,Tip Shot,2,3,3,Tip Shot,TIP_SHOTS,2003
+Smush Parker,2470,Turnaround Jump Shot,2,2,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2003
+Smush Parker,2470,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2005
+Smush Parker,2470,Driving Layup Shot,2,3,3,Driving Layup,LAYUPS,2005
+Smush Parker,2470,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2005
+Smush Parker,2470,Jump Bank Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2005
+Smush Parker,2470,Jump Shot,2,26,8,2PT Jump Shot,TWO_POINT_JUMPERS,2005
+Smush Parker,2470,Layup Shot,2,6,1,Standard Layup,LAYUPS,2005
+Smush Parker,2470,Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2005
+Smush Parker,2470,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2005
+Smush Parker,2470,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2005
+Smush Parker,2470,Alley Oop Dunk Shot,2,3,3,Alley Oop Dunk,DUNKS,2006
+Smush Parker,2470,Driving Dunk Shot,2,9,9,Driving Dunk,DUNKS,2006
+Smush Parker,2470,Driving Finger Roll Shot,2,5,4,Finger Roll,LAYUPS,2006
+Smush Parker,2470,Driving Layup Shot,2,74,61,Driving Layup,LAYUPS,2006
+Smush Parker,2470,Dunk Shot,2,16,11,Standard Dunk,DUNKS,2006
+Smush Parker,2470,Fadeaway Jump Shot,2,2,2,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2006
+Smush Parker,2470,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2006
+Smush Parker,2470,Jump Bank Shot,2,9,6,2PT Jump Shot,TWO_POINT_JUMPERS,2006
+Smush Parker,2470,Jump Shot,2,471,145,2PT Jump Shot,TWO_POINT_JUMPERS,2006
+Smush Parker,2470,Layup Shot,2,113,49,Standard Layup,LAYUPS,2006
+Smush Parker,2470,Reverse Dunk Shot,2,5,5,Reverse Dunk,DUNKS,2006
+Smush Parker,2470,Reverse Layup Shot,2,18,15,Reverse Layup,LAYUPS,2006
+Smush Parker,2470,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2006
+Smush Parker,2470,Running Finger Roll Shot,2,2,2,Finger Roll,LAYUPS,2006
+Smush Parker,2470,Running Hook Shot,2,2,1,Running Hook Shot,POST_MOVES,2006
+Smush Parker,2470,Running Jump Shot,2,21,15,2PT Running Jump Shot,TWO_POINT_JUMPERS,2006
+Smush Parker,2470,Running Layup Shot,2,4,1,Standard Layup,LAYUPS,2006
+Smush Parker,2470,Slam Dunk Shot,2,17,16,Standard Dunk,DUNKS,2006
+Smush Parker,2470,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,2006
+Smush Parker,2470,Turnaround Jump Shot,2,3,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2006
+Smush Parker,2470,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2007
+Smush Parker,2470,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2007
+Smush Parker,2470,Driving Finger Roll Shot,2,8,7,Finger Roll,LAYUPS,2007
+Smush Parker,2470,Driving Layup Shot,2,61,47,Driving Layup,LAYUPS,2007
+Smush Parker,2470,Dunk Shot,2,8,7,Standard Dunk,DUNKS,2007
+Smush Parker,2470,Fadeaway Jump Shot,2,2,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2007
+Smush Parker,2470,Finger Roll Shot,2,2,2,Finger Roll,LAYUPS,2007
+Smush Parker,2470,Hook Bank Shot,2,1,1,Hook Shot,POST_MOVES,2007
+Smush Parker,2470,Hook Shot,2,3,2,Hook Shot,POST_MOVES,2007
+Smush Parker,2470,Jump Bank Shot,2,9,9,2PT Jump Shot,TWO_POINT_JUMPERS,2007
+Smush Parker,2470,Jump Shot,2,512,189,2PT Jump Shot,TWO_POINT_JUMPERS,2007
+Smush Parker,2470,Jump Shot,3,2,0,3PT Jump Shot,THREE_POINT_JUMPERS,2007
+Smush Parker,2470,Layup Shot,2,116,40,Standard Layup,LAYUPS,2007
+Smush Parker,2470,Reverse Dunk Shot,2,2,2,Reverse Dunk,DUNKS,2007
+Smush Parker,2470,Reverse Layup Shot,2,13,11,Reverse Layup,LAYUPS,2007
+Smush Parker,2470,Running Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2007
+Smush Parker,2470,Running Jump Shot,2,25,12,2PT Running Jump Shot,TWO_POINT_JUMPERS,2007
+Smush Parker,2470,Running Layup Shot,2,6,3,Standard Layup,LAYUPS,2007
+Smush Parker,2470,Slam Dunk Shot,2,4,4,Standard Dunk,DUNKS,2007
+Smush Parker,2470,Tip Shot,2,3,0,Tip Shot,TIP_SHOTS,2007
+Smush Parker,2470,Turnaround Jump Shot,2,4,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2007
+Smush Parker,2470,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2008
+Smush Parker,2470,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2008
+Smush Parker,2470,Driving Layup Shot,2,8,7,Driving Layup,LAYUPS,2008
+Smush Parker,2470,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2008
+Smush Parker,2470,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2008
+Smush Parker,2470,Floating Jump shot,2,8,6,2PT Floating Jump Shot,FLOATING_SHOTS,2008
+Smush Parker,2470,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2008
+Smush Parker,2470,Jump Shot,2,139,39,2PT Jump Shot,TWO_POINT_JUMPERS,2008
+Smush Parker,2470,Layup Shot,2,15,3,Standard Layup,LAYUPS,2008
+Smush Parker,2470,Pullup Jump shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2008
+Smush Parker,2470,Running Jump Shot,2,5,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2008
+Smush Parker,2470,Running Layup Shot,2,2,2,Standard Layup,LAYUPS,2008
+Smush Parker,2470,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2008

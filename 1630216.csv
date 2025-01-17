@@ -1,13 +1,16 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Cassius Winston,1630216,Driving Layup,2,1,0,LAYUPS,,2021
-Cassius Winston,1630216,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2021
-Cassius Winston,1630216,Finger Roll,2,2,2,LAYUPS,,2021
-Cassius Winston,1630216,Floating Jump Shot,2,4,1,FLOATING_SHOTS,,2021
-Cassius Winston,1630216,Jump Shot,2,14,7,JUMP_SHOTS,,2021
-Cassius Winston,1630216,Pullup Jump Shot,2,8,3,JUMP_SHOTS,,2021
-Cassius Winston,1630216,Step Back Jump Shot,2,3,0,JUMP_SHOTS,,2021
-Cassius Winston,1630216,Driving Layup,2,2,0,LAYUPS,,2022
-Cassius Winston,1630216,Jump Shot,2,4,2,JUMP_SHOTS,,2022
-Cassius Winston,1630216,Pullup Jump Shot,2,3,2,JUMP_SHOTS,,2022
-Cassius Winston,1630216,Running Jump Shot,3,1,0,JUMP_SHOTS,,2022
-Cassius Winston,1630216,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2022
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Cassius Winston,1630216,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2021
+Cassius Winston,1630216,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Cassius Winston,1630216,Driving Floating Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Cassius Winston,1630216,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2021
+Cassius Winston,1630216,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2021
+Cassius Winston,1630216,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2021
+Cassius Winston,1630216,Floating Jump shot,2,2,0,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Cassius Winston,1630216,Jump Shot,2,14,7,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Cassius Winston,1630216,Pullup Jump shot,2,8,3,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2021
+Cassius Winston,1630216,Step Back Jump shot,2,3,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2021
+Cassius Winston,1630216,Driving Layup Shot,2,2,0,Driving Layup,LAYUPS,2022
+Cassius Winston,1630216,Jump Shot,2,4,2,2PT Jump Shot,TWO_POINT_JUMPERS,2022
+Cassius Winston,1630216,Pullup Jump shot,2,3,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2022
+Cassius Winston,1630216,Running Pull-Up Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2022
+Cassius Winston,1630216,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2022

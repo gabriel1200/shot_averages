@@ -1,45 +1,68 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Sekou Doumbouya,1629635,Alley Oop Dunk,2,1,1,DUNKS,,2020
-Sekou Doumbouya,1629635,Alley Oop Layup,2,2,1,LAYUPS,,2020
-Sekou Doumbouya,1629635,Driving Dunk,2,3,1,DUNKS,,2020
-Sekou Doumbouya,1629635,Driving Layup,2,23,10,LAYUPS,,2020
-Sekou Doumbouya,1629635,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2020
-Sekou Doumbouya,1629635,Finger Roll,2,4,2,LAYUPS,,2020
-Sekou Doumbouya,1629635,Floating Jump Shot,2,16,5,FLOATING_SHOTS,,2020
-Sekou Doumbouya,1629635,Hook Shot,2,1,0,POST_MOVES,,2020
-Sekou Doumbouya,1629635,Jump Shot,2,93,29,JUMP_SHOTS,,2020
-Sekou Doumbouya,1629635,Jump Shot,3,3,0,JUMP_SHOTS,,2020
-Sekou Doumbouya,1629635,Pullup Jump Shot,2,5,2,JUMP_SHOTS,,2020
-Sekou Doumbouya,1629635,Putback Dunk,2,1,1,DUNKS,,2020
-Sekou Doumbouya,1629635,Putback Layup,2,5,1,LAYUPS,,2020
-Sekou Doumbouya,1629635,Reverse Layup,2,1,1,LAYUPS,,2020
-Sekou Doumbouya,1629635,Running Jump Shot,2,1,0,JUMP_SHOTS,,2020
-Sekou Doumbouya,1629635,Specialty Dunk,2,8,8,DUNKS,,2020
-Sekou Doumbouya,1629635,Standard Dunk,2,4,4,DUNKS,,2020
-Sekou Doumbouya,1629635,Standard Layup,2,50,24,LAYUPS,,2020
-Sekou Doumbouya,1629635,Step Back Jump Shot,2,7,1,JUMP_SHOTS,,2020
-Sekou Doumbouya,1629635,Turnaround Hook Shot,2,1,0,POST_MOVES,,2020
-Sekou Doumbouya,1629635,Turnaround Jump Shot,2,6,1,JUMP_SHOTS,,2020
-Sekou Doumbouya,1629635,Alley Oop Layup,2,1,0,LAYUPS,,2021
-Sekou Doumbouya,1629635,Driving Dunk,2,4,2,DUNKS,,2021
-Sekou Doumbouya,1629635,Driving Layup,2,32,11,LAYUPS,,2021
-Sekou Doumbouya,1629635,Fadeaway Jump Shot,2,2,0,JUMP_SHOTS,,2021
-Sekou Doumbouya,1629635,Finger Roll,2,9,6,LAYUPS,,2021
-Sekou Doumbouya,1629635,Floating Jump Shot,2,8,1,FLOATING_SHOTS,,2021
-Sekou Doumbouya,1629635,Hook Shot,2,1,0,POST_MOVES,,2021
-Sekou Doumbouya,1629635,Jump Shot,2,108,23,JUMP_SHOTS,,2021
-Sekou Doumbouya,1629635,Jump Shot,3,8,2,JUMP_SHOTS,,2021
-Sekou Doumbouya,1629635,Pullup Jump Shot,2,3,1,JUMP_SHOTS,,2021
-Sekou Doumbouya,1629635,Putback Layup,2,14,8,LAYUPS,,2021
-Sekou Doumbouya,1629635,Reverse Layup,2,4,2,LAYUPS,,2021
-Sekou Doumbouya,1629635,Running Jump Shot,2,1,0,JUMP_SHOTS,,2021
-Sekou Doumbouya,1629635,Specialty Dunk,2,7,6,DUNKS,,2021
-Sekou Doumbouya,1629635,Standard Dunk,2,12,11,DUNKS,,2021
-Sekou Doumbouya,1629635,Standard Layup,2,58,34,LAYUPS,,2021
-Sekou Doumbouya,1629635,Step Back Jump Shot,2,2,0,JUMP_SHOTS,,2021
-Sekou Doumbouya,1629635,Turnaround Hook Shot,2,1,0,POST_MOVES,,2021
-Sekou Doumbouya,1629635,Turnaround Jump Shot,2,7,0,JUMP_SHOTS,,2021
-Sekou Doumbouya,1629635,Driving Layup,2,1,1,LAYUPS,,2022
-Sekou Doumbouya,1629635,Hook Shot,2,1,1,POST_MOVES,,2022
-Sekou Doumbouya,1629635,Jump Shot,2,2,1,JUMP_SHOTS,,2022
-Sekou Doumbouya,1629635,Standard Layup,2,4,2,LAYUPS,,2022
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Sekou Doumbouya,1629635,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2020
+Sekou Doumbouya,1629635,Alley Oop Layup shot,2,2,1,Alley Oop Layup,LAYUPS,2020
+Sekou Doumbouya,1629635,Cutting Dunk Shot,2,6,6,Specialty Dunk,DUNKS,2020
+Sekou Doumbouya,1629635,Cutting Layup Shot,2,13,8,Standard Layup,LAYUPS,2020
+Sekou Doumbouya,1629635,Driving Dunk Shot,2,3,1,Driving Dunk,DUNKS,2020
+Sekou Doumbouya,1629635,Driving Finger Roll Layup Shot,2,3,2,Finger Roll,LAYUPS,2020
+Sekou Doumbouya,1629635,Driving Floating Bank Jump Shot,2,3,1,2PT Floating Jump Shot,FLOATING_SHOTS,2020
+Sekou Doumbouya,1629635,Driving Floating Jump Shot,2,8,3,2PT Floating Jump Shot,FLOATING_SHOTS,2020
+Sekou Doumbouya,1629635,Driving Layup Shot,2,23,10,Driving Layup,LAYUPS,2020
+Sekou Doumbouya,1629635,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2020
+Sekou Doumbouya,1629635,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2020
+Sekou Doumbouya,1629635,Floating Jump shot,2,5,1,2PT Floating Jump Shot,FLOATING_SHOTS,2020
+Sekou Doumbouya,1629635,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2020
+Sekou Doumbouya,1629635,Jump Bank Shot,2,2,2,2PT Jump Shot,TWO_POINT_JUMPERS,2020
+Sekou Doumbouya,1629635,Jump Shot,2,91,27,2PT Jump Shot,TWO_POINT_JUMPERS,2020
+Sekou Doumbouya,1629635,Jump Shot,3,3,0,3PT Jump Shot,THREE_POINT_JUMPERS,2020
+Sekou Doumbouya,1629635,Layup Shot,2,20,8,Standard Layup,LAYUPS,2020
+Sekou Doumbouya,1629635,Pullup Jump shot,2,5,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2020
+Sekou Doumbouya,1629635,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2020
+Sekou Doumbouya,1629635,Putback Layup Shot,2,3,1,Putback Layup,LAYUPS,2020
+Sekou Doumbouya,1629635,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2020
+Sekou Doumbouya,1629635,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2020
+Sekou Doumbouya,1629635,Running Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2020
+Sekou Doumbouya,1629635,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2020
+Sekou Doumbouya,1629635,Running Layup Shot,2,17,8,Standard Layup,LAYUPS,2020
+Sekou Doumbouya,1629635,Step Back Jump shot,2,7,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2020
+Sekou Doumbouya,1629635,Tip Dunk Shot,2,2,2,Specialty Dunk,DUNKS,2020
+Sekou Doumbouya,1629635,Tip Layup Shot,2,2,0,Putback Layup,LAYUPS,2020
+Sekou Doumbouya,1629635,Turnaround Fadeaway Bank Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2020
+Sekou Doumbouya,1629635,Turnaround Fadeaway shot,2,3,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2020
+Sekou Doumbouya,1629635,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2020
+Sekou Doumbouya,1629635,Turnaround Jump Shot,2,2,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2020
+Sekou Doumbouya,1629635,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2021
+Sekou Doumbouya,1629635,Cutting Dunk Shot,2,7,6,Specialty Dunk,DUNKS,2021
+Sekou Doumbouya,1629635,Cutting Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2021
+Sekou Doumbouya,1629635,Cutting Layup Shot,2,12,10,Standard Layup,LAYUPS,2021
+Sekou Doumbouya,1629635,Driving Dunk Shot,2,4,2,Driving Dunk,DUNKS,2021
+Sekou Doumbouya,1629635,Driving Finger Roll Layup Shot,2,5,2,Finger Roll,LAYUPS,2021
+Sekou Doumbouya,1629635,Driving Floating Jump Shot,2,6,0,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Sekou Doumbouya,1629635,Driving Layup Shot,2,30,10,Driving Layup,LAYUPS,2021
+Sekou Doumbouya,1629635,Driving Reverse Layup Shot,2,2,1,Driving Layup,LAYUPS,2021
+Sekou Doumbouya,1629635,Dunk Shot,2,3,2,Standard Dunk,DUNKS,2021
+Sekou Doumbouya,1629635,Fadeaway Jump Shot,2,2,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2021
+Sekou Doumbouya,1629635,Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2021
+Sekou Doumbouya,1629635,Floating Jump shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Sekou Doumbouya,1629635,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2021
+Sekou Doumbouya,1629635,Jump Shot,2,108,23,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Sekou Doumbouya,1629635,Jump Shot,3,8,2,3PT Jump Shot,THREE_POINT_JUMPERS,2021
+Sekou Doumbouya,1629635,Layup Shot,2,34,17,Standard Layup,LAYUPS,2021
+Sekou Doumbouya,1629635,Pullup Jump shot,2,3,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2021
+Sekou Doumbouya,1629635,Putback Layup Shot,2,11,7,Putback Layup,LAYUPS,2021
+Sekou Doumbouya,1629635,Reverse Layup Shot,2,3,2,Reverse Layup,LAYUPS,2021
+Sekou Doumbouya,1629635,Running Dunk Shot,2,9,9,Standard Dunk,DUNKS,2021
+Sekou Doumbouya,1629635,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2021
+Sekou Doumbouya,1629635,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2021
+Sekou Doumbouya,1629635,Running Layup Shot,2,12,7,Standard Layup,LAYUPS,2021
+Sekou Doumbouya,1629635,Running Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2021
+Sekou Doumbouya,1629635,Step Back Jump shot,2,2,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2021
+Sekou Doumbouya,1629635,Tip Layup Shot,2,3,1,Putback Layup,LAYUPS,2021
+Sekou Doumbouya,1629635,Turnaround Fadeaway shot,2,3,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2021
+Sekou Doumbouya,1629635,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2021
+Sekou Doumbouya,1629635,Turnaround Jump Shot,2,4,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2021
+Sekou Doumbouya,1629635,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2022
+Sekou Doumbouya,1629635,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2022
+Sekou Doumbouya,1629635,Jump Shot,2,2,1,2PT Jump Shot,TWO_POINT_JUMPERS,2022
+Sekou Doumbouya,1629635,Layup Shot,2,1,1,Standard Layup,LAYUPS,2022
+Sekou Doumbouya,1629635,Running Layup Shot,2,3,1,Standard Layup,LAYUPS,2022

@@ -1,18 +1,28 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Matas Buzelis,1641824,Driving Dunk,2,5,2,DUNKS,,2025
-Matas Buzelis,1641824,Driving Hook Shot,2,1,0,POST_MOVES,,2025
-Matas Buzelis,1641824,Driving Layup,2,18,3,LAYUPS,,2025
-Matas Buzelis,1641824,Finger Roll,2,10,8,LAYUPS,,2025
-Matas Buzelis,1641824,Floating Jump Shot,2,9,3,FLOATING_SHOTS,,2025
-Matas Buzelis,1641824,Jump Shot,2,2,1,JUMP_SHOTS,,2025
-Matas Buzelis,1641824,Jump Shot,3,83,25,JUMP_SHOTS,,2025
-Matas Buzelis,1641824,Pullup Jump Shot,2,2,1,JUMP_SHOTS,,2025
-Matas Buzelis,1641824,Putback Layup,2,8,2,LAYUPS,,2025
-Matas Buzelis,1641824,Reverse Dunk,2,1,1,DUNKS,,2025
-Matas Buzelis,1641824,Running Jump Shot,3,6,3,JUMP_SHOTS,,2025
-Matas Buzelis,1641824,Specialty Dunk,2,5,5,DUNKS,,2025
-Matas Buzelis,1641824,Standard Dunk,2,10,9,DUNKS,,2025
-Matas Buzelis,1641824,Standard Layup,2,14,4,LAYUPS,,2025
-Matas Buzelis,1641824,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2025
-Matas Buzelis,1641824,Step Back Jump Shot,3,2,2,JUMP_SHOTS,,2025
-Matas Buzelis,1641824,Turnaround Jump Shot,2,4,0,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Matas Buzelis,1641824,Cutting Dunk Shot,2,4,4,Specialty Dunk,DUNKS,2025
+Matas Buzelis,1641824,Cutting Layup Shot,2,4,0,Standard Layup,LAYUPS,2025
+Matas Buzelis,1641824,Driving Dunk Shot,2,5,2,Driving Dunk,DUNKS,2025
+Matas Buzelis,1641824,Driving Finger Roll Layup Shot,2,8,6,Finger Roll,LAYUPS,2025
+Matas Buzelis,1641824,Driving Floating Jump Shot,2,7,3,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Matas Buzelis,1641824,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2025
+Matas Buzelis,1641824,Driving Layup Shot,2,17,3,Driving Layup,LAYUPS,2025
+Matas Buzelis,1641824,Driving Reverse Dunk Shot,2,1,1,Reverse Dunk,DUNKS,2025
+Matas Buzelis,1641824,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2025
+Matas Buzelis,1641824,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2025
+Matas Buzelis,1641824,Floating Jump shot,2,2,0,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Matas Buzelis,1641824,Jump Shot,2,2,1,2PT Jump Shot,TWO_POINT_JUMPERS,2025
+Matas Buzelis,1641824,Jump Shot,3,83,25,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Matas Buzelis,1641824,Layup Shot,2,4,2,Standard Layup,LAYUPS,2025
+Matas Buzelis,1641824,Pullup Jump shot,2,2,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
+Matas Buzelis,1641824,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2025
+Matas Buzelis,1641824,Running Dunk Shot,2,8,7,Standard Dunk,DUNKS,2025
+Matas Buzelis,1641824,Running Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2025
+Matas Buzelis,1641824,Running Jump Shot,3,5,3,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Matas Buzelis,1641824,Running Layup Shot,2,6,2,Standard Layup,LAYUPS,2025
+Matas Buzelis,1641824,Running Pull-Up Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Matas Buzelis,1641824,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2025
+Matas Buzelis,1641824,Step Back Jump shot,3,2,2,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
+Matas Buzelis,1641824,Tip Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2025
+Matas Buzelis,1641824,Tip Layup Shot,2,7,1,Putback Layup,LAYUPS,2025
+Matas Buzelis,1641824,Turnaround Fadeaway shot,2,2,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+Matas Buzelis,1641824,Turnaround Jump Shot,2,2,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025

@@ -1,49 +1,68 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Luka Garza,1630568,Driving Layup,2,3,1,LAYUPS,,2022
-Luka Garza,1630568,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2022
-Luka Garza,1630568,Floating Jump Shot,2,2,1,FLOATING_SHOTS,,2022
-Luka Garza,1630568,Hook Shot,2,2,2,POST_MOVES,,2022
-Luka Garza,1630568,Jump Shot,2,68,20,JUMP_SHOTS,,2022
-Luka Garza,1630568,Pullup Jump Shot,2,3,1,JUMP_SHOTS,,2022
-Luka Garza,1630568,Putback Layup,2,18,14,LAYUPS,,2022
-Luka Garza,1630568,Reverse Layup,2,5,4,LAYUPS,,2022
-Luka Garza,1630568,Specialty Dunk,2,3,3,DUNKS,,2022
-Luka Garza,1630568,Standard Dunk,2,1,1,DUNKS,,2022
-Luka Garza,1630568,Standard Layup,2,31,13,LAYUPS,,2022
-Luka Garza,1630568,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2022
-Luka Garza,1630568,Turnaround Hook Shot,2,8,5,POST_MOVES,,2022
-Luka Garza,1630568,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2022
-Luka Garza,1630568,Driving Hook Shot,2,4,2,POST_MOVES,,2023
-Luka Garza,1630568,Driving Layup,2,8,7,LAYUPS,,2023
-Luka Garza,1630568,Floating Jump Shot,2,8,4,FLOATING_SHOTS,,2023
-Luka Garza,1630568,Hook Shot,2,3,1,POST_MOVES,,2023
-Luka Garza,1630568,Jump Shot,2,43,14,JUMP_SHOTS,,2023
-Luka Garza,1630568,Pullup Jump Shot,2,1,1,JUMP_SHOTS,,2023
-Luka Garza,1630568,Putback Layup,2,16,11,LAYUPS,,2023
-Luka Garza,1630568,Reverse Layup,2,2,2,LAYUPS,,2023
-Luka Garza,1630568,Specialty Dunk,2,1,1,DUNKS,,2023
-Luka Garza,1630568,Standard Dunk,2,1,1,DUNKS,,2023
-Luka Garza,1630568,Standard Layup,2,16,11,LAYUPS,,2023
-Luka Garza,1630568,Turnaround Hook Shot,2,13,8,POST_MOVES,,2023
-Luka Garza,1630568,Driving Hook Shot,2,1,0,POST_MOVES,,2024
-Luka Garza,1630568,Driving Layup,2,2,1,LAYUPS,,2024
-Luka Garza,1630568,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2024
-Luka Garza,1630568,Floating Jump Shot,2,7,6,FLOATING_SHOTS,,2024
-Luka Garza,1630568,Hook Shot,2,5,2,POST_MOVES,,2024
-Luka Garza,1630568,Jump Shot,3,31,9,JUMP_SHOTS,,2024
-Luka Garza,1630568,Pullup Jump Shot,3,1,0,JUMP_SHOTS,,2024
-Luka Garza,1630568,Putback Layup,2,8,5,LAYUPS,,2024
-Luka Garza,1630568,Reverse Layup,2,1,1,LAYUPS,,2024
-Luka Garza,1630568,Standard Dunk,2,2,2,DUNKS,,2024
-Luka Garza,1630568,Standard Layup,2,9,6,LAYUPS,,2024
-Luka Garza,1630568,Turnaround Hook Shot,2,5,1,POST_MOVES,,2024
-Luka Garza,1630568,Turnaround Jump Shot,2,2,2,JUMP_SHOTS,,2024
-Luka Garza,1630568,Driving Layup,2,1,0,LAYUPS,,2025
-Luka Garza,1630568,Finger Roll,2,1,1,LAYUPS,,2025
-Luka Garza,1630568,Floating Jump Shot,2,4,3,FLOATING_SHOTS,,2025
-Luka Garza,1630568,Jump Shot,3,8,2,JUMP_SHOTS,,2025
-Luka Garza,1630568,Putback Layup,2,3,2,LAYUPS,,2025
-Luka Garza,1630568,Standard Dunk,2,3,3,DUNKS,,2025
-Luka Garza,1630568,Standard Layup,2,6,5,LAYUPS,,2025
-Luka Garza,1630568,Turnaround Hook Shot,2,1,0,POST_MOVES,,2025
-Luka Garza,1630568,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Luka Garza,1630568,Cutting Dunk Shot,2,3,3,Specialty Dunk,DUNKS,2022
+Luka Garza,1630568,Cutting Layup Shot,2,10,5,Standard Layup,LAYUPS,2022
+Luka Garza,1630568,Driving Layup Shot,2,3,1,Driving Layup,LAYUPS,2022
+Luka Garza,1630568,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2022
+Luka Garza,1630568,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2022
+Luka Garza,1630568,Floating Jump shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Luka Garza,1630568,Hook Shot,2,2,2,Hook Shot,POST_MOVES,2022
+Luka Garza,1630568,Jump Shot,2,68,20,2PT Jump Shot,TWO_POINT_JUMPERS,2022
+Luka Garza,1630568,Layup Shot,2,19,7,Standard Layup,LAYUPS,2022
+Luka Garza,1630568,Pullup Jump shot,2,3,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2022
+Luka Garza,1630568,Putback Layup Shot,2,14,12,Putback Layup,LAYUPS,2022
+Luka Garza,1630568,Reverse Layup Shot,2,5,4,Reverse Layup,LAYUPS,2022
+Luka Garza,1630568,Running Layup Shot,2,2,1,Standard Layup,LAYUPS,2022
+Luka Garza,1630568,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2022
+Luka Garza,1630568,Tip Layup Shot,2,4,2,Putback Layup,LAYUPS,2022
+Luka Garza,1630568,Turnaround Bank Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2022
+Luka Garza,1630568,Turnaround Hook Shot,2,7,4,Turnaround Hook Shot,POST_MOVES,2022
+Luka Garza,1630568,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2022
+Luka Garza,1630568,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2023
+Luka Garza,1630568,Cutting Layup Shot,2,4,3,Standard Layup,LAYUPS,2023
+Luka Garza,1630568,Driving Bank Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2023
+Luka Garza,1630568,Driving Hook Shot,2,3,1,Driving Hook Shot,POST_MOVES,2023
+Luka Garza,1630568,Driving Layup Shot,2,8,7,Driving Layup,LAYUPS,2023
+Luka Garza,1630568,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2023
+Luka Garza,1630568,Floating Jump shot,2,8,4,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Luka Garza,1630568,Hook Shot,2,3,1,Hook Shot,POST_MOVES,2023
+Luka Garza,1630568,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2023
+Luka Garza,1630568,Jump Shot,2,42,14,2PT Jump Shot,TWO_POINT_JUMPERS,2023
+Luka Garza,1630568,Layup Shot,2,11,7,Standard Layup,LAYUPS,2023
+Luka Garza,1630568,Pullup Jump shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2023
+Luka Garza,1630568,Putback Layup Shot,2,11,9,Putback Layup,LAYUPS,2023
+Luka Garza,1630568,Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2023
+Luka Garza,1630568,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2023
+Luka Garza,1630568,Tip Layup Shot,2,5,2,Putback Layup,LAYUPS,2023
+Luka Garza,1630568,Turnaround Bank Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2023
+Luka Garza,1630568,Turnaround Hook Shot,2,12,7,Turnaround Hook Shot,POST_MOVES,2023
+Luka Garza,1630568,Driving Floating Jump Shot,2,2,2,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Luka Garza,1630568,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2024
+Luka Garza,1630568,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2024
+Luka Garza,1630568,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2024
+Luka Garza,1630568,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
+Luka Garza,1630568,Floating Jump shot,2,5,4,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Luka Garza,1630568,Hook Shot,2,5,2,Hook Shot,POST_MOVES,2024
+Luka Garza,1630568,Jump Shot,3,31,9,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Luka Garza,1630568,Layup Shot,2,8,5,Standard Layup,LAYUPS,2024
+Luka Garza,1630568,Pullup Jump shot,3,1,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
+Luka Garza,1630568,Putback Layup Shot,2,6,4,Putback Layup,LAYUPS,2024
+Luka Garza,1630568,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2024
+Luka Garza,1630568,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2024
+Luka Garza,1630568,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2024
+Luka Garza,1630568,Tip Layup Shot,2,2,1,Putback Layup,LAYUPS,2024
+Luka Garza,1630568,Turnaround Bank Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2024
+Luka Garza,1630568,Turnaround Fadeaway shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Luka Garza,1630568,Turnaround Hook Shot,2,4,1,Turnaround Hook Shot,POST_MOVES,2024
+Luka Garza,1630568,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Luka Garza,1630568,Cutting Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2025
+Luka Garza,1630568,Cutting Layup Shot,2,3,3,Standard Layup,LAYUPS,2025
+Luka Garza,1630568,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2025
+Luka Garza,1630568,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2025
+Luka Garza,1630568,Floating Jump shot,2,4,3,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Luka Garza,1630568,Jump Shot,3,8,2,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Luka Garza,1630568,Layup Shot,2,2,1,Standard Layup,LAYUPS,2025
+Luka Garza,1630568,Putback Layup Shot,2,3,2,Putback Layup,LAYUPS,2025
+Luka Garza,1630568,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2025
+Luka Garza,1630568,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2025
+Luka Garza,1630568,Turnaround Bank Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2025
+Luka Garza,1630568,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025

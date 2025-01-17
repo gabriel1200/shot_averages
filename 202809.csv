@@ -1,17 +1,20 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Cory Higgins,202809,Driving Layup,2,16,11,LAYUPS,,2012
-Cory Higgins,202809,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2012
-Cory Higgins,202809,Finger Roll,2,3,1,LAYUPS,,2012
-Cory Higgins,202809,Floating Jump Shot,2,1,1,FLOATING_SHOTS,,2012
-Cory Higgins,202809,Jump Shot,2,109,31,JUMP_SHOTS,,2012
-Cory Higgins,202809,Reverse Layup,2,1,0,LAYUPS,,2012
-Cory Higgins,202809,Running Jump Shot,2,3,2,JUMP_SHOTS,,2012
-Cory Higgins,202809,Standard Dunk,2,1,0,DUNKS,,2012
-Cory Higgins,202809,Standard Layup,2,24,5,LAYUPS,,2012
-Cory Higgins,202809,Tip Shot,2,1,1,TIP_SHOTS,,2012
-Cory Higgins,202809,Driving Layup,2,1,1,LAYUPS,,2013
-Cory Higgins,202809,Jump Shot,2,12,3,JUMP_SHOTS,,2013
-Cory Higgins,202809,Pullup Jump Shot,2,3,2,JUMP_SHOTS,,2013
-Cory Higgins,202809,Running Jump Shot,2,1,0,JUMP_SHOTS,,2013
-Cory Higgins,202809,Standard Layup,2,1,0,LAYUPS,,2013
-Cory Higgins,202809,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2013
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Cory Higgins,202809,Driving Finger Roll Layup Shot,2,3,1,Finger Roll,LAYUPS,2012
+Cory Higgins,202809,Driving Layup Shot,2,16,11,Driving Layup,LAYUPS,2012
+Cory Higgins,202809,Dunk Shot,2,1,0,Standard Dunk,DUNKS,2012
+Cory Higgins,202809,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2012
+Cory Higgins,202809,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2012
+Cory Higgins,202809,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Cory Higgins,202809,Jump Shot,2,108,31,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Cory Higgins,202809,Layup Shot,2,22,4,Standard Layup,LAYUPS,2012
+Cory Higgins,202809,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2012
+Cory Higgins,202809,Running Bank shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2012
+Cory Higgins,202809,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2012
+Cory Higgins,202809,Running Layup Shot,2,2,1,Standard Layup,LAYUPS,2012
+Cory Higgins,202809,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2012
+Cory Higgins,202809,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2013
+Cory Higgins,202809,Jump Shot,2,12,3,2PT Jump Shot,TWO_POINT_JUMPERS,2013
+Cory Higgins,202809,Layup Shot,2,1,0,Standard Layup,LAYUPS,2013
+Cory Higgins,202809,Pullup Jump shot,2,3,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2013
+Cory Higgins,202809,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2013
+Cory Higgins,202809,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2013

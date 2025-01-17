@@ -1,30 +1,41 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Dominique Jones,202346,Driving Jump Shot,2,4,2,JUMP_SHOTS,,2011
-Dominique Jones,202346,Driving Layup,2,4,1,LAYUPS,,2011
-Dominique Jones,202346,Jump Shot,2,25,6,JUMP_SHOTS,,2011
-Dominique Jones,202346,Running Jump Shot,2,5,4,JUMP_SHOTS,,2011
-Dominique Jones,202346,Standard Dunk,2,1,0,DUNKS,,2011
-Dominique Jones,202346,Standard Layup,2,6,1,LAYUPS,,2011
-Dominique Jones,202346,Driving Dunk,2,1,1,DUNKS,,2012
-Dominique Jones,202346,Driving Jump Shot,2,4,0,JUMP_SHOTS,,2012
-Dominique Jones,202346,Driving Layup,2,17,12,LAYUPS,,2012
-Dominique Jones,202346,Finger Roll,2,1,0,LAYUPS,,2012
-Dominique Jones,202346,Jump Shot,2,28,5,JUMP_SHOTS,,2012
-Dominique Jones,202346,Pullup Jump Shot,2,5,1,JUMP_SHOTS,,2012
-Dominique Jones,202346,Running Jump Shot,2,3,2,JUMP_SHOTS,,2012
-Dominique Jones,202346,Standard Dunk,2,1,1,DUNKS,,2012
-Dominique Jones,202346,Standard Layup,2,12,6,LAYUPS,,2012
-Dominique Jones,202346,Tip Shot,2,1,1,TIP_SHOTS,,2012
-Dominique Jones,202346,Driving Dunk,2,3,3,DUNKS,,2013
-Dominique Jones,202346,Driving Jump Shot,2,8,5,JUMP_SHOTS,,2013
-Dominique Jones,202346,Driving Layup,2,28,12,LAYUPS,,2013
-Dominique Jones,202346,Finger Roll,2,1,0,LAYUPS,,2013
-Dominique Jones,202346,Floating Jump Shot,2,6,2,FLOATING_SHOTS,,2013
-Dominique Jones,202346,Jump Shot,2,27,3,JUMP_SHOTS,,2013
-Dominique Jones,202346,Jump Shot,3,1,0,JUMP_SHOTS,,2013
-Dominique Jones,202346,Putback Layup,2,1,0,LAYUPS,,2013
-Dominique Jones,202346,Running Hook Shot,2,2,1,POST_MOVES,,2013
-Dominique Jones,202346,Running Jump Shot,2,9,2,JUMP_SHOTS,,2013
-Dominique Jones,202346,Standard Dunk,2,2,2,DUNKS,,2013
-Dominique Jones,202346,Standard Layup,2,20,10,LAYUPS,,2013
-Dominique Jones,202346,Tip Shot,2,1,0,TIP_SHOTS,,2013
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Dominique Jones,202346,Driving Bank shot,2,2,2,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2011
+Dominique Jones,202346,Driving Jump shot,2,2,0,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2011
+Dominique Jones,202346,Driving Layup Shot,2,4,1,Driving Layup,LAYUPS,2011
+Dominique Jones,202346,Dunk Shot,2,1,0,Standard Dunk,DUNKS,2011
+Dominique Jones,202346,Jump Bank Shot,2,3,2,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Dominique Jones,202346,Jump Shot,2,22,4,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Dominique Jones,202346,Layup Shot,2,6,1,Standard Layup,LAYUPS,2011
+Dominique Jones,202346,Running Jump Shot,2,5,4,2PT Running Jump Shot,TWO_POINT_JUMPERS,2011
+Dominique Jones,202346,Driving Bank shot,2,2,0,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2012
+Dominique Jones,202346,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2012
+Dominique Jones,202346,Driving Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2012
+Dominique Jones,202346,Driving Jump shot,2,2,0,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2012
+Dominique Jones,202346,Driving Layup Shot,2,17,12,Driving Layup,LAYUPS,2012
+Dominique Jones,202346,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Dominique Jones,202346,Jump Shot,2,27,4,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Dominique Jones,202346,Layup Shot,2,9,4,Standard Layup,LAYUPS,2012
+Dominique Jones,202346,Pullup Jump shot,2,5,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2012
+Dominique Jones,202346,Running Bank shot,2,2,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2012
+Dominique Jones,202346,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2012
+Dominique Jones,202346,Running Layup Shot,2,3,2,Standard Layup,LAYUPS,2012
+Dominique Jones,202346,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2012
+Dominique Jones,202346,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2012
+Dominique Jones,202346,Driving Bank shot,2,2,1,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2013
+Dominique Jones,202346,Driving Dunk Shot,2,3,3,Driving Dunk,DUNKS,2013
+Dominique Jones,202346,Driving Jump shot,2,6,4,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2013
+Dominique Jones,202346,Driving Layup Shot,2,25,12,Driving Layup,LAYUPS,2013
+Dominique Jones,202346,Driving Reverse Layup Shot,2,3,0,Driving Layup,LAYUPS,2013
+Dominique Jones,202346,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2013
+Dominique Jones,202346,Floating Jump shot,2,6,2,2PT Floating Jump Shot,FLOATING_SHOTS,2013
+Dominique Jones,202346,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2013
+Dominique Jones,202346,Jump Shot,2,26,2,2PT Jump Shot,TWO_POINT_JUMPERS,2013
+Dominique Jones,202346,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2013
+Dominique Jones,202346,Layup Shot,2,16,7,Standard Layup,LAYUPS,2013
+Dominique Jones,202346,Putback Layup Shot,2,1,0,Putback Layup,LAYUPS,2013
+Dominique Jones,202346,Running Bank shot,2,4,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2013
+Dominique Jones,202346,Running Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2013
+Dominique Jones,202346,Running Hook Shot,2,2,1,Running Hook Shot,POST_MOVES,2013
+Dominique Jones,202346,Running Jump Shot,2,5,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2013
+Dominique Jones,202346,Running Layup Shot,2,4,3,Standard Layup,LAYUPS,2013
+Dominique Jones,202346,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2013

@@ -1,5 +1,5 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Dedric Willoughby,2000,Driving Layup,2,10,7,LAYUPS,,2000
-Dedric Willoughby,2000,Jump Shot,2,156,50,JUMP_SHOTS,,2000
-Dedric Willoughby,2000,Running Jump Shot,2,2,1,JUMP_SHOTS,,2000
-Dedric Willoughby,2000,Standard Layup,2,11,3,LAYUPS,,2000
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Dedric Willoughby,2000,Driving Layup Shot,2,10,7,Driving Layup,LAYUPS,2000
+Dedric Willoughby,2000,Jump Shot,2,156,50,2PT Jump Shot,TWO_POINT_JUMPERS,2000
+Dedric Willoughby,2000,Layup Shot,2,11,3,Standard Layup,LAYUPS,2000
+Dedric Willoughby,2000,Running Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2000

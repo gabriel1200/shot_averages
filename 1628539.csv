@@ -1,41 +1,55 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Mychal Mulder,1628539,Driving Hook Shot,2,1,1,POST_MOVES,,2020
-Mychal Mulder,1628539,Driving Layup,2,6,4,LAYUPS,,2020
-Mychal Mulder,1628539,Finger Roll,2,1,0,LAYUPS,,2020
-Mychal Mulder,1628539,Floating Jump Shot,2,2,2,FLOATING_SHOTS,,2020
-Mychal Mulder,1628539,Jump Shot,2,42,12,JUMP_SHOTS,,2020
-Mychal Mulder,1628539,Pullup Jump Shot,2,10,4,JUMP_SHOTS,,2020
-Mychal Mulder,1628539,Running Jump Shot,2,3,2,JUMP_SHOTS,,2020
-Mychal Mulder,1628539,Standard Layup,2,2,1,LAYUPS,,2020
-Mychal Mulder,1628539,Alley Oop Dunk,2,2,2,DUNKS,,2021
-Mychal Mulder,1628539,Alley Oop Layup,2,1,1,LAYUPS,,2021
-Mychal Mulder,1628539,Driving Dunk,2,6,5,DUNKS,,2021
-Mychal Mulder,1628539,Driving Layup,2,15,8,LAYUPS,,2021
-Mychal Mulder,1628539,Fadeaway Jump Shot,3,1,1,JUMP_SHOTS,,2021
-Mychal Mulder,1628539,Finger Roll,2,5,4,LAYUPS,,2021
-Mychal Mulder,1628539,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2021
-Mychal Mulder,1628539,Jump Shot,2,129,44,JUMP_SHOTS,,2021
-Mychal Mulder,1628539,Jump Shot,3,59,22,JUMP_SHOTS,,2021
-Mychal Mulder,1628539,Pullup Jump Shot,2,9,6,JUMP_SHOTS,,2021
-Mychal Mulder,1628539,Pullup Jump Shot,3,6,5,JUMP_SHOTS,,2021
-Mychal Mulder,1628539,Reverse Layup,2,2,0,LAYUPS,,2021
-Mychal Mulder,1628539,Running Jump Shot,2,4,3,JUMP_SHOTS,,2021
-Mychal Mulder,1628539,Running Jump Shot,3,3,0,JUMP_SHOTS,,2021
-Mychal Mulder,1628539,Specialty Dunk,2,4,4,DUNKS,,2021
-Mychal Mulder,1628539,Standard Dunk,2,3,3,DUNKS,,2021
-Mychal Mulder,1628539,Standard Layup,2,9,7,LAYUPS,,2021
-Mychal Mulder,1628539,Step Back Jump Shot,2,4,3,JUMP_SHOTS,,2021
-Mychal Mulder,1628539,Step Back Jump Shot,3,1,1,JUMP_SHOTS,,2021
-Mychal Mulder,1628539,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2021
-Mychal Mulder,1628539,Driving Layup,2,8,1,LAYUPS,,2022
-Mychal Mulder,1628539,Finger Roll,2,2,1,LAYUPS,,2022
-Mychal Mulder,1628539,Floating Jump Shot,2,2,1,FLOATING_SHOTS,,2022
-Mychal Mulder,1628539,Jump Shot,3,48,15,JUMP_SHOTS,,2022
-Mychal Mulder,1628539,Pullup Jump Shot,2,3,1,JUMP_SHOTS,,2022
-Mychal Mulder,1628539,Pullup Jump Shot,3,3,0,JUMP_SHOTS,,2022
-Mychal Mulder,1628539,Running Jump Shot,3,1,0,JUMP_SHOTS,,2022
-Mychal Mulder,1628539,Specialty Dunk,2,1,1,DUNKS,,2022
-Mychal Mulder,1628539,Standard Dunk,2,2,1,DUNKS,,2022
-Mychal Mulder,1628539,Standard Layup,2,4,1,LAYUPS,,2022
-Mychal Mulder,1628539,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2022
-Mychal Mulder,1628539,Step Back Jump Shot,3,2,2,JUMP_SHOTS,,2022
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Mychal Mulder,1628539,Cutting Layup Shot,2,1,0,Standard Layup,LAYUPS,2020
+Mychal Mulder,1628539,Driving Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2020
+Mychal Mulder,1628539,Driving Floating Bank Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2020
+Mychal Mulder,1628539,Driving Floating Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2020
+Mychal Mulder,1628539,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2020
+Mychal Mulder,1628539,Driving Layup Shot,2,3,1,Driving Layup,LAYUPS,2020
+Mychal Mulder,1628539,Driving Reverse Layup Shot,2,3,3,Driving Layup,LAYUPS,2020
+Mychal Mulder,1628539,Jump Shot,2,42,12,2PT Jump Shot,TWO_POINT_JUMPERS,2020
+Mychal Mulder,1628539,Pullup Jump shot,2,10,4,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2020
+Mychal Mulder,1628539,Running Jump Shot,2,2,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2020
+Mychal Mulder,1628539,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2020
+Mychal Mulder,1628539,Running Pull-Up Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2020
+Mychal Mulder,1628539,Alley Oop Dunk Shot,2,2,2,Alley Oop Dunk,DUNKS,2021
+Mychal Mulder,1628539,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2021
+Mychal Mulder,1628539,Cutting Dunk Shot,2,4,4,Specialty Dunk,DUNKS,2021
+Mychal Mulder,1628539,Cutting Layup Shot,2,3,3,Standard Layup,LAYUPS,2021
+Mychal Mulder,1628539,Driving Dunk Shot,2,6,5,Driving Dunk,DUNKS,2021
+Mychal Mulder,1628539,Driving Finger Roll Layup Shot,2,5,4,Finger Roll,LAYUPS,2021
+Mychal Mulder,1628539,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Mychal Mulder,1628539,Driving Layup Shot,2,9,3,Driving Layup,LAYUPS,2021
+Mychal Mulder,1628539,Driving Reverse Layup Shot,2,6,5,Driving Layup,LAYUPS,2021
+Mychal Mulder,1628539,Fadeaway Jump Shot,3,1,1,3PT Fadeaway Jump Shot,THREE_POINT_JUMPERS,2021
+Mychal Mulder,1628539,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Mychal Mulder,1628539,Jump Shot,2,128,44,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Mychal Mulder,1628539,Jump Shot,3,59,22,3PT Jump Shot,THREE_POINT_JUMPERS,2021
+Mychal Mulder,1628539,Layup Shot,2,2,2,Standard Layup,LAYUPS,2021
+Mychal Mulder,1628539,Pullup Jump shot,2,9,6,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2021
+Mychal Mulder,1628539,Pullup Jump shot,3,6,5,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2021
+Mychal Mulder,1628539,Reverse Layup Shot,2,2,0,Reverse Layup,LAYUPS,2021
+Mychal Mulder,1628539,Running Dunk Shot,2,3,3,Standard Dunk,DUNKS,2021
+Mychal Mulder,1628539,Running Jump Shot,2,3,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2021
+Mychal Mulder,1628539,Running Jump Shot,3,2,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2021
+Mychal Mulder,1628539,Running Layup Shot,2,4,2,Standard Layup,LAYUPS,2021
+Mychal Mulder,1628539,Running Pull-Up Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2021
+Mychal Mulder,1628539,Running Pull-Up Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2021
+Mychal Mulder,1628539,Step Back Jump shot,2,4,3,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2021
+Mychal Mulder,1628539,Step Back Jump shot,3,1,1,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2021
+Mychal Mulder,1628539,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2021
+Mychal Mulder,1628539,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2022
+Mychal Mulder,1628539,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2022
+Mychal Mulder,1628539,Driving Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2022
+Mychal Mulder,1628539,Driving Floating Jump Shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Mychal Mulder,1628539,Driving Layup Shot,2,7,0,Driving Layup,LAYUPS,2022
+Mychal Mulder,1628539,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2022
+Mychal Mulder,1628539,Dunk Shot,2,1,0,Standard Dunk,DUNKS,2022
+Mychal Mulder,1628539,Jump Shot,3,48,15,3PT Jump Shot,THREE_POINT_JUMPERS,2022
+Mychal Mulder,1628539,Layup Shot,2,1,0,Standard Layup,LAYUPS,2022
+Mychal Mulder,1628539,Pullup Jump shot,2,3,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2022
+Mychal Mulder,1628539,Pullup Jump shot,3,3,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2022
+Mychal Mulder,1628539,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2022
+Mychal Mulder,1628539,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2022
+Mychal Mulder,1628539,Running Layup Shot,2,2,0,Standard Layup,LAYUPS,2022
+Mychal Mulder,1628539,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2022
+Mychal Mulder,1628539,Step Back Jump shot,3,2,2,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2022

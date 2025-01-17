@@ -1,9 +1,9 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-James Thomas,2839,Jump Shot,2,3,1,JUMP_SHOTS,,2005
-James Thomas,2839,Standard Dunk,2,2,2,DUNKS,,2005
-James Thomas,2839,Standard Layup,2,9,7,LAYUPS,,2005
-James Thomas,2839,Tip Shot,2,6,2,TIP_SHOTS,,2005
-James Thomas,2839,Jump Shot,2,2,1,JUMP_SHOTS,,2006
-James Thomas,2839,Standard Dunk,2,1,1,DUNKS,,2006
-James Thomas,2839,Standard Layup,2,14,7,LAYUPS,,2006
-James Thomas,2839,Tip Shot,2,2,1,TIP_SHOTS,,2006
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+James Thomas,2839,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2005
+James Thomas,2839,Jump Shot,2,3,1,2PT Jump Shot,TWO_POINT_JUMPERS,2005
+James Thomas,2839,Layup Shot,2,9,7,Standard Layup,LAYUPS,2005
+James Thomas,2839,Tip Shot,2,6,2,Tip Shot,TIP_SHOTS,2005
+James Thomas,2839,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2006
+James Thomas,2839,Jump Shot,2,2,1,2PT Jump Shot,TWO_POINT_JUMPERS,2006
+James Thomas,2839,Layup Shot,2,14,7,Standard Layup,LAYUPS,2006
+James Thomas,2839,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,2006

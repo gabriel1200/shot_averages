@@ -1,10 +1,10 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Darius Washington,200827,Driving Dunk,2,1,0,DUNKS,,2008
-Darius Washington,200827,Driving Layup,2,2,1,LAYUPS,,2008
-Darius Washington,200827,Finger Roll,2,1,1,LAYUPS,,2008
-Darius Washington,200827,Floating Jump Shot,2,3,0,FLOATING_SHOTS,,2008
-Darius Washington,200827,Jump Shot,2,29,8,JUMP_SHOTS,,2008
-Darius Washington,200827,Pullup Jump Shot,2,1,1,JUMP_SHOTS,,2008
-Darius Washington,200827,Reverse Layup,2,2,2,LAYUPS,,2008
-Darius Washington,200827,Running Jump Shot,2,1,1,JUMP_SHOTS,,2008
-Darius Washington,200827,Standard Layup,2,8,7,LAYUPS,,2008
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Darius Washington,200827,Driving Dunk Shot,2,1,0,Driving Dunk,DUNKS,2008
+Darius Washington,200827,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2008
+Darius Washington,200827,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2008
+Darius Washington,200827,Floating Jump shot,2,3,0,2PT Floating Jump Shot,FLOATING_SHOTS,2008
+Darius Washington,200827,Jump Shot,2,29,8,2PT Jump Shot,TWO_POINT_JUMPERS,2008
+Darius Washington,200827,Layup Shot,2,8,7,Standard Layup,LAYUPS,2008
+Darius Washington,200827,Pullup Jump shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2008
+Darius Washington,200827,Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2008
+Darius Washington,200827,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2008

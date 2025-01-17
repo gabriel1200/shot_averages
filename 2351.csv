@@ -1,16 +1,18 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Oscar Torres,2351,Driving Dunk,2,2,1,DUNKS,,2002
-Oscar Torres,2351,Driving Layup,2,9,7,LAYUPS,,2002
-Oscar Torres,2351,Finger Roll,2,2,1,LAYUPS,,2002
-Oscar Torres,2351,Jump Shot,2,245,84,JUMP_SHOTS,,2002
-Oscar Torres,2351,Reverse Layup,2,6,4,LAYUPS,,2002
-Oscar Torres,2351,Running Jump Shot,2,14,8,JUMP_SHOTS,,2002
-Oscar Torres,2351,Standard Dunk,2,10,9,DUNKS,,2002
-Oscar Torres,2351,Standard Layup,2,43,17,LAYUPS,,2002
-Oscar Torres,2351,Tip Shot,2,4,4,TIP_SHOTS,,2002
-Oscar Torres,2351,Turnaround Jump Shot,2,6,0,JUMP_SHOTS,,2002
-Oscar Torres,2351,Driving Layup,2,3,1,LAYUPS,,2003
-Oscar Torres,2351,Jump Shot,2,27,13,JUMP_SHOTS,,2003
-Oscar Torres,2351,Running Jump Shot,2,1,1,JUMP_SHOTS,,2003
-Oscar Torres,2351,Standard Layup,2,4,1,LAYUPS,,2003
-Oscar Torres,2351,Tip Shot,2,1,0,TIP_SHOTS,,2003
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Oscar Torres,2351,Driving Dunk Shot,2,2,1,Driving Dunk,DUNKS,2002
+Oscar Torres,2351,Driving Finger Roll Shot,2,1,0,Finger Roll,LAYUPS,2002
+Oscar Torres,2351,Driving Layup Shot,2,9,7,Driving Layup,LAYUPS,2002
+Oscar Torres,2351,Dunk Shot,2,7,6,Standard Dunk,DUNKS,2002
+Oscar Torres,2351,Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2002
+Oscar Torres,2351,Jump Shot,2,245,84,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Oscar Torres,2351,Layup Shot,2,43,17,Standard Layup,LAYUPS,2002
+Oscar Torres,2351,Reverse Layup Shot,2,6,4,Reverse Layup,LAYUPS,2002
+Oscar Torres,2351,Running Jump Shot,2,14,8,2PT Running Jump Shot,TWO_POINT_JUMPERS,2002
+Oscar Torres,2351,Slam Dunk Shot,2,3,3,Standard Dunk,DUNKS,2002
+Oscar Torres,2351,Tip Shot,2,4,4,Tip Shot,TIP_SHOTS,2002
+Oscar Torres,2351,Turnaround Jump Shot,2,6,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2002
+Oscar Torres,2351,Driving Layup Shot,2,3,1,Driving Layup,LAYUPS,2003
+Oscar Torres,2351,Jump Shot,2,27,13,2PT Jump Shot,TWO_POINT_JUMPERS,2003
+Oscar Torres,2351,Layup Shot,2,4,1,Standard Layup,LAYUPS,2003
+Oscar Torres,2351,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2003
+Oscar Torres,2351,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2003

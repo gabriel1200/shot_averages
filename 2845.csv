@@ -1,6 +1,6 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Erik Daniels,2845,Finger Roll,2,1,1,LAYUPS,,2005
-Erik Daniels,2845,Hook Shot,2,1,1,POST_MOVES,,2005
-Erik Daniels,2845,Jump Shot,2,11,1,JUMP_SHOTS,,2005
-Erik Daniels,2845,Standard Layup,2,4,2,LAYUPS,,2005
-Erik Daniels,2845,Tip Shot,2,1,1,TIP_SHOTS,,2005
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Erik Daniels,2845,Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2005
+Erik Daniels,2845,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2005
+Erik Daniels,2845,Jump Shot,2,11,1,2PT Jump Shot,TWO_POINT_JUMPERS,2005
+Erik Daniels,2845,Layup Shot,2,4,2,Standard Layup,LAYUPS,2005
+Erik Daniels,2845,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2005

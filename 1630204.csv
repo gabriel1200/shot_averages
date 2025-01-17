@@ -1,10 +1,14 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Ashton Hagans,1630204,Driving Layup,2,22,10,LAYUPS,,2024
-Ashton Hagans,1630204,Finger Roll,2,3,3,LAYUPS,,2024
-Ashton Hagans,1630204,Floating Jump Shot,2,14,4,FLOATING_SHOTS,,2024
-Ashton Hagans,1630204,Jump Shot,3,22,7,JUMP_SHOTS,,2024
-Ashton Hagans,1630204,Pullup Jump Shot,2,2,1,JUMP_SHOTS,,2024
-Ashton Hagans,1630204,Pullup Jump Shot,3,2,0,JUMP_SHOTS,,2024
-Ashton Hagans,1630204,Putback Layup,2,4,3,LAYUPS,,2024
-Ashton Hagans,1630204,Running Jump Shot,3,1,1,JUMP_SHOTS,,2024
-Ashton Hagans,1630204,Standard Layup,2,1,0,LAYUPS,,2024
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Ashton Hagans,1630204,Driving Finger Roll Layup Shot,2,3,3,Finger Roll,LAYUPS,2024
+Ashton Hagans,1630204,Driving Floating Bank Jump Shot,2,4,1,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Ashton Hagans,1630204,Driving Floating Jump Shot,2,9,3,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Ashton Hagans,1630204,Driving Layup Shot,2,20,9,Driving Layup,LAYUPS,2024
+Ashton Hagans,1630204,Driving Reverse Layup Shot,2,2,1,Driving Layup,LAYUPS,2024
+Ashton Hagans,1630204,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Ashton Hagans,1630204,Jump Shot,3,22,7,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Ashton Hagans,1630204,Pullup Jump shot,2,2,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2024
+Ashton Hagans,1630204,Pullup Jump shot,3,2,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
+Ashton Hagans,1630204,Putback Layup Shot,2,2,1,Putback Layup,LAYUPS,2024
+Ashton Hagans,1630204,Running Jump Shot,3,1,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Ashton Hagans,1630204,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2024
+Ashton Hagans,1630204,Tip Layup Shot,2,2,2,Putback Layup,LAYUPS,2024

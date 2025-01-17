@@ -1,10 +1,10 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Andre Emmett,2765,Alley Oop Dunk,2,1,1,DUNKS,,2005
-Andre Emmett,2765,Jump Shot,2,3,1,JUMP_SHOTS,,2005
-Andre Emmett,2765,Standard Layup,2,1,0,LAYUPS,,2005
-Andre Emmett,2765,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2005
-Andre Emmett,2765,Driving Layup,2,1,0,LAYUPS,,2012
-Andre Emmett,2765,Finger Roll,2,1,1,LAYUPS,,2012
-Andre Emmett,2765,Jump Shot,2,3,1,JUMP_SHOTS,,2012
-Andre Emmett,2765,Standard Dunk,2,1,1,DUNKS,,2012
-Andre Emmett,2765,Standard Layup,2,1,1,LAYUPS,,2012
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Andre Emmett,2765,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2005
+Andre Emmett,2765,Jump Shot,2,3,1,2PT Jump Shot,TWO_POINT_JUMPERS,2005
+Andre Emmett,2765,Layup Shot,2,1,0,Standard Layup,LAYUPS,2005
+Andre Emmett,2765,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2005
+Andre Emmett,2765,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2012
+Andre Emmett,2765,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2012
+Andre Emmett,2765,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2012
+Andre Emmett,2765,Jump Shot,2,3,1,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Andre Emmett,2765,Layup Shot,2,1,1,Standard Layup,LAYUPS,2012

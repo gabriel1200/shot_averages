@@ -1,42 +1,50 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Greg Stiemsma,201880,Alley Oop Dunk,2,4,4,DUNKS,,2012
-Greg Stiemsma,201880,Alley Oop Layup,2,3,3,LAYUPS,,2012
-Greg Stiemsma,201880,Driving Layup,2,2,0,LAYUPS,,2012
-Greg Stiemsma,201880,Hook Shot,2,3,1,POST_MOVES,,2012
-Greg Stiemsma,201880,Jump Shot,2,62,29,JUMP_SHOTS,,2012
-Greg Stiemsma,201880,Putback Dunk,2,1,1,DUNKS,,2012
-Greg Stiemsma,201880,Reverse Layup,2,3,3,LAYUPS,,2012
-Greg Stiemsma,201880,Standard Dunk,2,7,4,DUNKS,,2012
-Greg Stiemsma,201880,Standard Layup,2,29,17,LAYUPS,,2012
-Greg Stiemsma,201880,Tip Shot,2,7,4,TIP_SHOTS,,2012
-Greg Stiemsma,201880,Alley Oop Dunk,2,6,6,DUNKS,,2013
-Greg Stiemsma,201880,Alley Oop Layup,2,4,2,LAYUPS,,2013
-Greg Stiemsma,201880,Driving Jump Shot,2,1,0,JUMP_SHOTS,,2013
-Greg Stiemsma,201880,Hook Shot,2,10,4,POST_MOVES,,2013
-Greg Stiemsma,201880,Jump Shot,2,163,63,JUMP_SHOTS,,2013
-Greg Stiemsma,201880,Putback Dunk,2,1,1,DUNKS,,2013
-Greg Stiemsma,201880,Putback Layup,2,1,1,LAYUPS,,2013
-Greg Stiemsma,201880,Reverse Layup,2,2,0,LAYUPS,,2013
-Greg Stiemsma,201880,Standard Dunk,2,18,15,DUNKS,,2013
-Greg Stiemsma,201880,Standard Layup,2,58,26,LAYUPS,,2013
-Greg Stiemsma,201880,Tip Shot,2,11,8,TIP_SHOTS,,2013
-Greg Stiemsma,201880,Turnaround Hook Shot,2,1,0,POST_MOVES,,2013
-Greg Stiemsma,201880,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2013
-Greg Stiemsma,201880,Driving Dunk,2,1,1,DUNKS,,2014
-Greg Stiemsma,201880,Driving Layup,2,1,0,LAYUPS,,2014
-Greg Stiemsma,201880,Fadeaway Jump Shot,2,2,1,JUMP_SHOTS,,2014
-Greg Stiemsma,201880,Hook Shot,2,9,5,POST_MOVES,,2014
-Greg Stiemsma,201880,Jump Shot,2,35,11,JUMP_SHOTS,,2014
-Greg Stiemsma,201880,Jump Shot,3,1,0,JUMP_SHOTS,,2014
-Greg Stiemsma,201880,Putback Dunk,2,4,3,DUNKS,,2014
-Greg Stiemsma,201880,Putback Layup,2,5,5,LAYUPS,,2014
-Greg Stiemsma,201880,Reverse Layup,2,5,2,LAYUPS,,2014
-Greg Stiemsma,201880,Standard Dunk,2,13,10,DUNKS,,2014
-Greg Stiemsma,201880,Standard Layup,2,35,25,LAYUPS,,2014
-Greg Stiemsma,201880,Tip Shot,2,11,7,TIP_SHOTS,,2014
-Greg Stiemsma,201880,Alley Oop Layup,2,2,1,LAYUPS,,2015
-Greg Stiemsma,201880,Hook Shot,2,1,1,POST_MOVES,,2015
-Greg Stiemsma,201880,Jump Shot,2,2,1,JUMP_SHOTS,,2015
-Greg Stiemsma,201880,Reverse Layup,2,1,1,LAYUPS,,2015
-Greg Stiemsma,201880,Standard Dunk,2,1,1,DUNKS,,2015
-Greg Stiemsma,201880,Standard Layup,2,1,1,LAYUPS,,2015
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Greg Stiemsma,201880,Alley Oop Dunk Shot,2,4,4,Alley Oop Dunk,DUNKS,2012
+Greg Stiemsma,201880,Alley Oop Layup shot,2,3,3,Alley Oop Layup,LAYUPS,2012
+Greg Stiemsma,201880,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2012
+Greg Stiemsma,201880,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2012
+Greg Stiemsma,201880,Dunk Shot,2,5,2,Standard Dunk,DUNKS,2012
+Greg Stiemsma,201880,Hook Shot,2,3,1,Hook Shot,POST_MOVES,2012
+Greg Stiemsma,201880,Jump Shot,2,62,29,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Greg Stiemsma,201880,Layup Shot,2,29,17,Standard Layup,LAYUPS,2012
+Greg Stiemsma,201880,Putback Slam Dunk Shot,2,1,1,Putback Dunk,DUNKS,2012
+Greg Stiemsma,201880,Reverse Layup Shot,2,3,3,Reverse Layup,LAYUPS,2012
+Greg Stiemsma,201880,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,2012
+Greg Stiemsma,201880,Tip Shot,2,7,4,Tip Shot,TIP_SHOTS,2012
+Greg Stiemsma,201880,Alley Oop Dunk Shot,2,6,6,Alley Oop Dunk,DUNKS,2013
+Greg Stiemsma,201880,Alley Oop Layup shot,2,4,2,Alley Oop Layup,LAYUPS,2013
+Greg Stiemsma,201880,Driving Bank shot,2,1,0,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2013
+Greg Stiemsma,201880,Dunk Shot,2,12,9,Standard Dunk,DUNKS,2013
+Greg Stiemsma,201880,Hook Shot,2,3,0,Hook Shot,POST_MOVES,2013
+Greg Stiemsma,201880,Jump Hook Shot,2,7,4,Hook Shot,POST_MOVES,2013
+Greg Stiemsma,201880,Jump Shot,2,163,63,2PT Jump Shot,TWO_POINT_JUMPERS,2013
+Greg Stiemsma,201880,Layup Shot,2,57,25,Standard Layup,LAYUPS,2013
+Greg Stiemsma,201880,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2013
+Greg Stiemsma,201880,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2013
+Greg Stiemsma,201880,Reverse Layup Shot,2,2,0,Reverse Layup,LAYUPS,2013
+Greg Stiemsma,201880,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2013
+Greg Stiemsma,201880,Slam Dunk Shot,2,6,6,Standard Dunk,DUNKS,2013
+Greg Stiemsma,201880,Tip Shot,2,11,8,Tip Shot,TIP_SHOTS,2013
+Greg Stiemsma,201880,Turnaround Bank shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2013
+Greg Stiemsma,201880,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2013
+Greg Stiemsma,201880,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2013
+Greg Stiemsma,201880,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2014
+Greg Stiemsma,201880,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2014
+Greg Stiemsma,201880,Dunk Shot,2,12,9,Standard Dunk,DUNKS,2014
+Greg Stiemsma,201880,Fadeaway Jump Shot,2,2,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2014
+Greg Stiemsma,201880,Hook Shot,2,6,3,Hook Shot,POST_MOVES,2014
+Greg Stiemsma,201880,Jump Hook Shot,2,3,2,Hook Shot,POST_MOVES,2014
+Greg Stiemsma,201880,Jump Shot,2,35,11,2PT Jump Shot,TWO_POINT_JUMPERS,2014
+Greg Stiemsma,201880,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2014
+Greg Stiemsma,201880,Layup Shot,2,35,25,Standard Layup,LAYUPS,2014
+Greg Stiemsma,201880,Putback Dunk Shot,2,4,3,Putback Dunk,DUNKS,2014
+Greg Stiemsma,201880,Putback Layup Shot,2,5,5,Putback Layup,LAYUPS,2014
+Greg Stiemsma,201880,Reverse Layup Shot,2,5,2,Reverse Layup,LAYUPS,2014
+Greg Stiemsma,201880,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2014
+Greg Stiemsma,201880,Tip Shot,2,11,7,Tip Shot,TIP_SHOTS,2014
+Greg Stiemsma,201880,Alley Oop Layup shot,2,2,1,Alley Oop Layup,LAYUPS,2015
+Greg Stiemsma,201880,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2015
+Greg Stiemsma,201880,Jump Hook Shot,2,1,1,Hook Shot,POST_MOVES,2015
+Greg Stiemsma,201880,Jump Shot,2,2,1,2PT Jump Shot,TWO_POINT_JUMPERS,2015
+Greg Stiemsma,201880,Layup Shot,2,1,1,Standard Layup,LAYUPS,2015
+Greg Stiemsma,201880,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2015

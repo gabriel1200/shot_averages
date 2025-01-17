@@ -1,68 +1,76 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Horace Grant,270,Driving Dunk,2,3,3,DUNKS,,1997
-Horace Grant,270,Driving Layup,2,17,15,LAYUPS,,1997
-Horace Grant,270,Hook Shot,2,15,10,POST_MOVES,,1997
-Horace Grant,270,Jump Shot,2,416,179,JUMP_SHOTS,,1997
-Horace Grant,270,Jump Shot,3,1,0,JUMP_SHOTS,,1997
-Horace Grant,270,Running Jump Shot,2,6,3,JUMP_SHOTS,,1997
-Horace Grant,270,Standard Dunk,2,33,31,DUNKS,,1997
-Horace Grant,270,Standard Layup,2,160,94,LAYUPS,,1997
-Horace Grant,270,Tip Shot,2,44,23,TIP_SHOTS,,1997
-Horace Grant,270,Driving Dunk,2,2,2,DUNKS,,1998
-Horace Grant,270,Driving Layup,2,20,15,LAYUPS,,1998
-Horace Grant,270,Hook Shot,2,16,6,POST_MOVES,,1998
-Horace Grant,270,Jump Shot,2,620,243,JUMP_SHOTS,,1998
-Horace Grant,270,Jump Shot,3,4,0,JUMP_SHOTS,,1998
-Horace Grant,270,Running Jump Shot,2,5,2,JUMP_SHOTS,,1998
-Horace Grant,270,Standard Dunk,2,20,20,DUNKS,,1998
-Horace Grant,270,Standard Layup,2,131,86,LAYUPS,,1998
-Horace Grant,270,Tip Shot,2,39,19,TIP_SHOTS,,1998
-Horace Grant,270,Driving Layup,2,7,5,LAYUPS,,1999
-Horace Grant,270,Hook Shot,2,5,1,POST_MOVES,,1999
-Horace Grant,270,Jump Shot,2,351,142,JUMP_SHOTS,,1999
-Horace Grant,270,Running Jump Shot,2,5,2,JUMP_SHOTS,,1999
-Horace Grant,270,Standard Dunk,2,4,3,DUNKS,,1999
-Horace Grant,270,Standard Layup,2,59,38,LAYUPS,,1999
-Horace Grant,270,Tip Shot,2,25,7,TIP_SHOTS,,1999
-Horace Grant,270,Driving Layup,2,6,4,LAYUPS,,2000
-Horace Grant,270,Hook Shot,2,7,5,POST_MOVES,,2000
-Horace Grant,270,Jump Shot,2,478,190,JUMP_SHOTS,,2000
-Horace Grant,270,Running Jump Shot,2,3,1,JUMP_SHOTS,,2000
-Horace Grant,270,Standard Dunk,2,11,10,DUNKS,,2000
-Horace Grant,270,Standard Layup,2,77,47,LAYUPS,,2000
-Horace Grant,270,Tip Shot,2,17,9,TIP_SHOTS,,2000
-Horace Grant,270,Alley Oop Layup,2,1,1,LAYUPS,,2001
-Horace Grant,270,Driving Dunk,2,3,3,DUNKS,,2001
-Horace Grant,270,Driving Hook Shot,2,1,1,POST_MOVES,,2001
-Horace Grant,270,Driving Layup,2,8,6,LAYUPS,,2001
-Horace Grant,270,Hook Shot,2,18,8,POST_MOVES,,2001
-Horace Grant,270,Jump Shot,2,345,137,JUMP_SHOTS,,2001
-Horace Grant,270,Reverse Layup,2,4,4,LAYUPS,,2001
-Horace Grant,270,Standard Dunk,2,21,20,DUNKS,,2001
-Horace Grant,270,Standard Layup,2,127,72,LAYUPS,,2001
-Horace Grant,270,Tip Shot,2,39,11,TIP_SHOTS,,2001
-Horace Grant,270,Turnaround Hook Shot,2,1,0,POST_MOVES,,2001
-Horace Grant,270,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2001
-Horace Grant,270,Driving Layup,2,1,1,LAYUPS,,2002
-Horace Grant,270,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2002
-Horace Grant,270,Finger Roll,2,1,1,LAYUPS,,2002
-Horace Grant,270,Hook Shot,2,7,4,POST_MOVES,,2002
-Horace Grant,270,Jump Shot,2,354,154,JUMP_SHOTS,,2002
-Horace Grant,270,Reverse Layup,2,14,13,LAYUPS,,2002
-Horace Grant,270,Running Jump Shot,2,2,2,JUMP_SHOTS,,2002
-Horace Grant,270,Standard Dunk,2,8,8,DUNKS,,2002
-Horace Grant,270,Standard Layup,2,97,61,LAYUPS,,2002
-Horace Grant,270,Tip Shot,2,27,18,TIP_SHOTS,,2002
-Horace Grant,270,Turnaround Jump Shot,2,3,2,JUMP_SHOTS,,2002
-Horace Grant,270,Driving Layup,2,1,1,LAYUPS,,2003
-Horace Grant,270,Jump Shot,2,23,11,JUMP_SHOTS,,2003
-Horace Grant,270,Standard Layup,2,1,1,LAYUPS,,2003
-Horace Grant,270,Driving Layup,2,1,1,LAYUPS,,2004
-Horace Grant,270,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2004
-Horace Grant,270,Hook Shot,2,4,1,POST_MOVES,,2004
-Horace Grant,270,Jump Shot,2,144,47,JUMP_SHOTS,,2004
-Horace Grant,270,Reverse Layup,2,1,1,LAYUPS,,2004
-Horace Grant,270,Standard Dunk,2,2,2,DUNKS,,2004
-Horace Grant,270,Standard Layup,2,59,32,LAYUPS,,2004
-Horace Grant,270,Tip Shot,2,9,5,TIP_SHOTS,,2004
-Horace Grant,270,Turnaround Jump Shot,2,3,2,JUMP_SHOTS,,2004
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Horace Grant,270,Driving Dunk Shot,2,3,3,Driving Dunk,DUNKS,1997
+Horace Grant,270,Driving Layup Shot,2,17,15,Driving Layup,LAYUPS,1997
+Horace Grant,270,Dunk Shot,2,24,22,Standard Dunk,DUNKS,1997
+Horace Grant,270,Hook Shot,2,15,10,Hook Shot,POST_MOVES,1997
+Horace Grant,270,Jump Shot,2,416,179,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Horace Grant,270,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,1997
+Horace Grant,270,Layup Shot,2,160,94,Standard Layup,LAYUPS,1997
+Horace Grant,270,Running Jump Shot,2,6,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
+Horace Grant,270,Slam Dunk Shot,2,9,9,Standard Dunk,DUNKS,1997
+Horace Grant,270,Tip Shot,2,44,23,Tip Shot,TIP_SHOTS,1997
+Horace Grant,270,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,1998
+Horace Grant,270,Driving Layup Shot,2,20,15,Driving Layup,LAYUPS,1998
+Horace Grant,270,Dunk Shot,2,17,17,Standard Dunk,DUNKS,1998
+Horace Grant,270,Hook Shot,2,16,6,Hook Shot,POST_MOVES,1998
+Horace Grant,270,Jump Shot,2,620,243,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+Horace Grant,270,Jump Shot,3,4,0,3PT Jump Shot,THREE_POINT_JUMPERS,1998
+Horace Grant,270,Layup Shot,2,131,86,Standard Layup,LAYUPS,1998
+Horace Grant,270,Running Jump Shot,2,5,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
+Horace Grant,270,Slam Dunk Shot,2,3,3,Standard Dunk,DUNKS,1998
+Horace Grant,270,Tip Shot,2,39,19,Tip Shot,TIP_SHOTS,1998
+Horace Grant,270,Driving Layup Shot,2,7,5,Driving Layup,LAYUPS,1999
+Horace Grant,270,Dunk Shot,2,3,2,Standard Dunk,DUNKS,1999
+Horace Grant,270,Hook Shot,2,5,1,Hook Shot,POST_MOVES,1999
+Horace Grant,270,Jump Shot,2,351,142,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Horace Grant,270,Layup Shot,2,59,38,Standard Layup,LAYUPS,1999
+Horace Grant,270,Running Jump Shot,2,5,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999
+Horace Grant,270,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,1999
+Horace Grant,270,Tip Shot,2,25,7,Tip Shot,TIP_SHOTS,1999
+Horace Grant,270,Driving Layup Shot,2,6,4,Driving Layup,LAYUPS,2000
+Horace Grant,270,Dunk Shot,2,4,3,Standard Dunk,DUNKS,2000
+Horace Grant,270,Hook Shot,2,7,5,Hook Shot,POST_MOVES,2000
+Horace Grant,270,Jump Shot,2,478,190,2PT Jump Shot,TWO_POINT_JUMPERS,2000
+Horace Grant,270,Layup Shot,2,77,47,Standard Layup,LAYUPS,2000
+Horace Grant,270,Running Jump Shot,2,3,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2000
+Horace Grant,270,Slam Dunk Shot,2,7,7,Standard Dunk,DUNKS,2000
+Horace Grant,270,Tip Shot,2,17,9,Tip Shot,TIP_SHOTS,2000
+Horace Grant,270,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2001
+Horace Grant,270,Driving Dunk Shot,2,3,3,Driving Dunk,DUNKS,2001
+Horace Grant,270,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2001
+Horace Grant,270,Driving Layup Shot,2,8,6,Driving Layup,LAYUPS,2001
+Horace Grant,270,Dunk Shot,2,8,7,Standard Dunk,DUNKS,2001
+Horace Grant,270,Hook Shot,2,18,8,Hook Shot,POST_MOVES,2001
+Horace Grant,270,Jump Shot,2,345,137,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Horace Grant,270,Layup Shot,2,126,71,Standard Layup,LAYUPS,2001
+Horace Grant,270,Reverse Layup Shot,2,4,4,Reverse Layup,LAYUPS,2001
+Horace Grant,270,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2001
+Horace Grant,270,Slam Dunk Shot,2,13,13,Standard Dunk,DUNKS,2001
+Horace Grant,270,Tip Shot,2,39,11,Tip Shot,TIP_SHOTS,2001
+Horace Grant,270,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2001
+Horace Grant,270,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2001
+Horace Grant,270,Driving Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2002
+Horace Grant,270,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2002
+Horace Grant,270,Dunk Shot,2,7,7,Standard Dunk,DUNKS,2002
+Horace Grant,270,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2002
+Horace Grant,270,Hook Shot,2,7,4,Hook Shot,POST_MOVES,2002
+Horace Grant,270,Jump Shot,2,354,154,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Horace Grant,270,Layup Shot,2,97,61,Standard Layup,LAYUPS,2002
+Horace Grant,270,Reverse Layup Shot,2,14,13,Reverse Layup,LAYUPS,2002
+Horace Grant,270,Running Jump Shot,2,2,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2002
+Horace Grant,270,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2002
+Horace Grant,270,Tip Shot,2,27,18,Tip Shot,TIP_SHOTS,2002
+Horace Grant,270,Turnaround Jump Shot,2,3,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2002
+Horace Grant,270,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2003
+Horace Grant,270,Jump Shot,2,23,11,2PT Jump Shot,TWO_POINT_JUMPERS,2003
+Horace Grant,270,Layup Shot,2,1,1,Standard Layup,LAYUPS,2003
+Horace Grant,270,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2004
+Horace Grant,270,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2004
+Horace Grant,270,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2004
+Horace Grant,270,Hook Shot,2,4,1,Hook Shot,POST_MOVES,2004
+Horace Grant,270,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2004
+Horace Grant,270,Jump Shot,2,143,46,2PT Jump Shot,TWO_POINT_JUMPERS,2004
+Horace Grant,270,Layup Shot,2,59,32,Standard Layup,LAYUPS,2004
+Horace Grant,270,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2004
+Horace Grant,270,Tip Shot,2,9,5,Tip Shot,TIP_SHOTS,2004
+Horace Grant,270,Turnaround Jump Shot,2,3,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2004

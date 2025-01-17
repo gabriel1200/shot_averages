@@ -1,6 +1,6 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Branden Carlson,1642382,Floating Jump Shot,2,1,1,FLOATING_SHOTS,,2025
-Branden Carlson,1642382,Jump Shot,3,10,3,JUMP_SHOTS,,2025
-Branden Carlson,1642382,Putback Dunk,2,1,1,DUNKS,,2025
-Branden Carlson,1642382,Standard Layup,2,1,0,LAYUPS,,2025
-Branden Carlson,1642382,Turnaround Hook Shot,2,1,0,POST_MOVES,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Branden Carlson,1642382,Driving Floating Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Branden Carlson,1642382,Jump Shot,3,10,3,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Branden Carlson,1642382,Layup Shot,2,1,0,Standard Layup,LAYUPS,2025
+Branden Carlson,1642382,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2025
+Branden Carlson,1642382,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2025

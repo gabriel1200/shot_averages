@@ -1,8 +1,10 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Dewan Hernandez,1629608,Driving Layup,2,4,1,LAYUPS,,2020
-Dewan Hernandez,1629608,Finger Roll,2,1,1,LAYUPS,,2020
-Dewan Hernandez,1629608,Floating Jump Shot,2,1,1,FLOATING_SHOTS,,2020
-Dewan Hernandez,1629608,Jump Shot,2,2,1,JUMP_SHOTS,,2020
-Dewan Hernandez,1629608,Putback Layup,2,3,1,LAYUPS,,2020
-Dewan Hernandez,1629608,Standard Layup,2,2,0,LAYUPS,,2020
-Dewan Hernandez,1629608,Turnaround Hook Shot,2,1,0,POST_MOVES,,2020
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Dewan Hernandez,1629608,Cutting Layup Shot,2,2,0,Standard Layup,LAYUPS,2020
+Dewan Hernandez,1629608,Driving Layup Shot,2,3,1,Driving Layup,LAYUPS,2020
+Dewan Hernandez,1629608,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2020
+Dewan Hernandez,1629608,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2020
+Dewan Hernandez,1629608,Jump Shot,2,2,1,2PT Jump Shot,TWO_POINT_JUMPERS,2020
+Dewan Hernandez,1629608,Putback Layup Shot,2,2,1,Putback Layup,LAYUPS,2020
+Dewan Hernandez,1629608,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2020
+Dewan Hernandez,1629608,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2020
+Dewan Hernandez,1629608,Turnaround Bank Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2020

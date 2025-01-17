@@ -1,11 +1,11 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Dwayne Schintzius,368,Hook Shot,2,5,1,POST_MOVES,,1997
-Dwayne Schintzius,368,Jump Shot,2,23,7,JUMP_SHOTS,,1997
-Dwayne Schintzius,368,Jump Shot,3,1,0,JUMP_SHOTS,,1997
-Dwayne Schintzius,368,Standard Dunk,2,1,1,DUNKS,,1997
-Dwayne Schintzius,368,Standard Layup,2,4,4,LAYUPS,,1997
-Dwayne Schintzius,368,Tip Shot,2,2,0,TIP_SHOTS,,1997
-Dwayne Schintzius,368,Hook Shot,2,1,0,POST_MOVES,,1999
-Dwayne Schintzius,368,Jump Shot,2,11,3,JUMP_SHOTS,,1999
-Dwayne Schintzius,368,Standard Layup,2,2,1,LAYUPS,,1999
-Dwayne Schintzius,368,Tip Shot,2,2,0,TIP_SHOTS,,1999
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Dwayne Schintzius,368,Dunk Shot,2,1,1,Standard Dunk,DUNKS,1997
+Dwayne Schintzius,368,Hook Shot,2,5,1,Hook Shot,POST_MOVES,1997
+Dwayne Schintzius,368,Jump Shot,2,23,7,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Dwayne Schintzius,368,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,1997
+Dwayne Schintzius,368,Layup Shot,2,4,4,Standard Layup,LAYUPS,1997
+Dwayne Schintzius,368,Tip Shot,2,2,0,Tip Shot,TIP_SHOTS,1997
+Dwayne Schintzius,368,Hook Shot,2,1,0,Hook Shot,POST_MOVES,1999
+Dwayne Schintzius,368,Jump Shot,2,11,3,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Dwayne Schintzius,368,Layup Shot,2,2,1,Standard Layup,LAYUPS,1999
+Dwayne Schintzius,368,Tip Shot,2,2,0,Tip Shot,TIP_SHOTS,1999

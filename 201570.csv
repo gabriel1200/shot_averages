@@ -1,23 +1,30 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Joe Alexander,201570,Driving Dunk,2,1,1,DUNKS,,2009
-Joe Alexander,201570,Driving Jump Shot,2,1,1,JUMP_SHOTS,,2009
-Joe Alexander,201570,Driving Layup,2,6,6,LAYUPS,,2009
-Joe Alexander,201570,Fadeaway Jump Shot,2,2,0,JUMP_SHOTS,,2009
-Joe Alexander,201570,Finger Roll,2,2,1,LAYUPS,,2009
-Joe Alexander,201570,Hook Shot,2,2,1,POST_MOVES,,2009
-Joe Alexander,201570,Jump Shot,2,147,50,JUMP_SHOTS,,2009
-Joe Alexander,201570,Jump Shot,3,4,1,JUMP_SHOTS,,2009
-Joe Alexander,201570,Pullup Jump Shot,2,1,0,JUMP_SHOTS,,2009
-Joe Alexander,201570,Putback Dunk,2,1,1,DUNKS,,2009
-Joe Alexander,201570,Putback Layup,2,2,2,LAYUPS,,2009
-Joe Alexander,201570,Reverse Layup,2,2,1,LAYUPS,,2009
-Joe Alexander,201570,Running Jump Shot,2,3,0,JUMP_SHOTS,,2009
-Joe Alexander,201570,Standard Dunk,2,13,12,DUNKS,,2009
-Joe Alexander,201570,Standard Layup,2,45,22,LAYUPS,,2009
-Joe Alexander,201570,Tip Shot,2,2,0,TIP_SHOTS,,2009
-Joe Alexander,201570,Turnaround Jump Shot,2,11,3,JUMP_SHOTS,,2009
-Joe Alexander,201570,Jump Shot,2,2,0,JUMP_SHOTS,,2010
-Joe Alexander,201570,Running Jump Shot,2,1,1,JUMP_SHOTS,,2010
-Joe Alexander,201570,Standard Layup,2,1,0,LAYUPS,,2010
-Joe Alexander,201570,Tip Shot,2,1,0,TIP_SHOTS,,2010
-Joe Alexander,201570,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2010
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Joe Alexander,201570,Driving Bank shot,2,1,1,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2009
+Joe Alexander,201570,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2009
+Joe Alexander,201570,Driving Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2009
+Joe Alexander,201570,Driving Layup Shot,2,5,5,Driving Layup,LAYUPS,2009
+Joe Alexander,201570,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2009
+Joe Alexander,201570,Dunk Shot,2,10,9,Standard Dunk,DUNKS,2009
+Joe Alexander,201570,Fadeaway Jump Shot,2,2,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2009
+Joe Alexander,201570,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2009
+Joe Alexander,201570,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2009
+Joe Alexander,201570,Jump Hook Shot,2,1,1,Hook Shot,POST_MOVES,2009
+Joe Alexander,201570,Jump Shot,2,147,50,2PT Jump Shot,TWO_POINT_JUMPERS,2009
+Joe Alexander,201570,Jump Shot,3,4,1,3PT Jump Shot,THREE_POINT_JUMPERS,2009
+Joe Alexander,201570,Layup Shot,2,45,22,Standard Layup,LAYUPS,2009
+Joe Alexander,201570,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2009
+Joe Alexander,201570,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2009
+Joe Alexander,201570,Putback Layup Shot,2,2,2,Putback Layup,LAYUPS,2009
+Joe Alexander,201570,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2009
+Joe Alexander,201570,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2009
+Joe Alexander,201570,Running Jump Shot,2,3,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2009
+Joe Alexander,201570,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,2009
+Joe Alexander,201570,Tip Shot,2,2,0,Tip Shot,TIP_SHOTS,2009
+Joe Alexander,201570,Turnaround Bank shot,2,2,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2009
+Joe Alexander,201570,Turnaround Fadeaway shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2009
+Joe Alexander,201570,Turnaround Jump Shot,2,8,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2009
+Joe Alexander,201570,Jump Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2010
+Joe Alexander,201570,Layup Shot,2,1,0,Standard Layup,LAYUPS,2010
+Joe Alexander,201570,Running Bank shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2010
+Joe Alexander,201570,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2010
+Joe Alexander,201570,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2010

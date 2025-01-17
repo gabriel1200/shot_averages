@@ -1,51 +1,64 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Chris Quinn,200809,Driving Layup,2,12,6,LAYUPS,,2007
-Chris Quinn,200809,Jump Shot,2,80,27,JUMP_SHOTS,,2007
-Chris Quinn,200809,Jump Shot,3,16,6,JUMP_SHOTS,,2007
-Chris Quinn,200809,Reverse Layup,2,3,1,LAYUPS,,2007
-Chris Quinn,200809,Running Jump Shot,2,12,8,JUMP_SHOTS,,2007
-Chris Quinn,200809,Standard Layup,2,7,0,LAYUPS,,2007
-Chris Quinn,200809,Tip Shot,2,1,0,TIP_SHOTS,,2007
-Chris Quinn,200809,Driving Layup,2,33,20,LAYUPS,,2008
-Chris Quinn,200809,Fadeaway Jump Shot,2,3,2,JUMP_SHOTS,,2008
-Chris Quinn,200809,Finger Roll,2,6,3,LAYUPS,,2008
-Chris Quinn,200809,Floating Jump Shot,2,5,2,FLOATING_SHOTS,,2008
-Chris Quinn,200809,Jump Shot,2,265,106,JUMP_SHOTS,,2008
-Chris Quinn,200809,Jump Shot,3,18,8,JUMP_SHOTS,,2008
-Chris Quinn,200809,Pullup Jump Shot,2,3,3,JUMP_SHOTS,,2008
-Chris Quinn,200809,Reverse Layup,2,1,0,LAYUPS,,2008
-Chris Quinn,200809,Running Jump Shot,2,13,8,JUMP_SHOTS,,2008
-Chris Quinn,200809,Running Jump Shot,3,2,0,JUMP_SHOTS,,2008
-Chris Quinn,200809,Standard Layup,2,22,5,LAYUPS,,2008
-Chris Quinn,200809,Turnaround Hook Shot,2,1,1,POST_MOVES,,2008
-Chris Quinn,200809,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2008
-Chris Quinn,200809,Driving Jump Shot,2,1,0,JUMP_SHOTS,,2009
-Chris Quinn,200809,Driving Layup,2,21,10,LAYUPS,,2009
-Chris Quinn,200809,Fadeaway Jump Shot,2,2,0,JUMP_SHOTS,,2009
-Chris Quinn,200809,Finger Roll,2,2,2,LAYUPS,,2009
-Chris Quinn,200809,Floating Jump Shot,2,8,3,FLOATING_SHOTS,,2009
-Chris Quinn,200809,Jump Shot,2,162,64,JUMP_SHOTS,,2009
-Chris Quinn,200809,Jump Shot,3,65,30,JUMP_SHOTS,,2009
-Chris Quinn,200809,Pullup Jump Shot,2,5,2,JUMP_SHOTS,,2009
-Chris Quinn,200809,Reverse Layup,2,3,1,LAYUPS,,2009
-Chris Quinn,200809,Running Jump Shot,2,8,4,JUMP_SHOTS,,2009
-Chris Quinn,200809,Standard Layup,2,12,2,LAYUPS,,2009
-Chris Quinn,200809,Driving Layup,2,5,3,LAYUPS,,2010
-Chris Quinn,200809,Floating Jump Shot,2,3,2,FLOATING_SHOTS,,2010
-Chris Quinn,200809,Jump Shot,2,24,9,JUMP_SHOTS,,2010
-Chris Quinn,200809,Jump Shot,3,19,4,JUMP_SHOTS,,2010
-Chris Quinn,200809,Pullup Jump Shot,2,2,1,JUMP_SHOTS,,2010
-Chris Quinn,200809,Running Jump Shot,2,3,1,JUMP_SHOTS,,2010
-Chris Quinn,200809,Alley Oop Layup,2,1,1,LAYUPS,,2011
-Chris Quinn,200809,Driving Layup,2,1,0,LAYUPS,,2011
-Chris Quinn,200809,Floating Jump Shot,2,6,3,FLOATING_SHOTS,,2011
-Chris Quinn,200809,Jump Shot,2,49,13,JUMP_SHOTS,,2011
-Chris Quinn,200809,Jump Shot,3,16,4,JUMP_SHOTS,,2011
-Chris Quinn,200809,Pullup Jump Shot,2,7,5,JUMP_SHOTS,,2011
-Chris Quinn,200809,Running Jump Shot,2,5,4,JUMP_SHOTS,,2011
-Chris Quinn,200809,Standard Layup,2,5,3,LAYUPS,,2011
-Chris Quinn,200809,Driving Layup,2,2,1,LAYUPS,,2013
-Chris Quinn,200809,Jump Shot,2,10,2,JUMP_SHOTS,,2013
-Chris Quinn,200809,Jump Shot,3,2,0,JUMP_SHOTS,,2013
-Chris Quinn,200809,Running Hook Shot,2,1,1,POST_MOVES,,2013
-Chris Quinn,200809,Running Jump Shot,2,1,0,JUMP_SHOTS,,2013
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Chris Quinn,200809,Driving Layup Shot,2,12,6,Driving Layup,LAYUPS,2007
+Chris Quinn,200809,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2007
+Chris Quinn,200809,Jump Shot,2,79,27,2PT Jump Shot,TWO_POINT_JUMPERS,2007
+Chris Quinn,200809,Jump Shot,3,16,6,3PT Jump Shot,THREE_POINT_JUMPERS,2007
+Chris Quinn,200809,Layup Shot,2,7,0,Standard Layup,LAYUPS,2007
+Chris Quinn,200809,Reverse Layup Shot,2,3,1,Reverse Layup,LAYUPS,2007
+Chris Quinn,200809,Running Jump Shot,2,12,8,2PT Running Jump Shot,TWO_POINT_JUMPERS,2007
+Chris Quinn,200809,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2007
+Chris Quinn,200809,Driving Finger Roll Layup Shot,2,6,3,Finger Roll,LAYUPS,2008
+Chris Quinn,200809,Driving Layup Shot,2,33,20,Driving Layup,LAYUPS,2008
+Chris Quinn,200809,Fadeaway Jump Shot,2,3,2,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2008
+Chris Quinn,200809,Floating Jump shot,2,5,2,2PT Floating Jump Shot,FLOATING_SHOTS,2008
+Chris Quinn,200809,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2008
+Chris Quinn,200809,Jump Shot,2,264,105,2PT Jump Shot,TWO_POINT_JUMPERS,2008
+Chris Quinn,200809,Jump Shot,3,18,8,3PT Jump Shot,THREE_POINT_JUMPERS,2008
+Chris Quinn,200809,Layup Shot,2,21,5,Standard Layup,LAYUPS,2008
+Chris Quinn,200809,Pullup Jump shot,2,3,3,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2008
+Chris Quinn,200809,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2008
+Chris Quinn,200809,Running Bank shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2008
+Chris Quinn,200809,Running Jump Shot,2,12,7,2PT Running Jump Shot,TWO_POINT_JUMPERS,2008
+Chris Quinn,200809,Running Jump Shot,3,2,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2008
+Chris Quinn,200809,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2008
+Chris Quinn,200809,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2008
+Chris Quinn,200809,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2008
+Chris Quinn,200809,Driving Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2009
+Chris Quinn,200809,Driving Jump shot,2,1,0,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2009
+Chris Quinn,200809,Driving Layup Shot,2,21,10,Driving Layup,LAYUPS,2009
+Chris Quinn,200809,Fadeaway Jump Shot,2,2,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2009
+Chris Quinn,200809,Floating Jump shot,2,8,3,2PT Floating Jump Shot,FLOATING_SHOTS,2009
+Chris Quinn,200809,Jump Bank Shot,2,5,4,2PT Jump Shot,TWO_POINT_JUMPERS,2009
+Chris Quinn,200809,Jump Bank Shot,3,1,1,3PT Jump Shot,THREE_POINT_JUMPERS,2009
+Chris Quinn,200809,Jump Shot,2,157,60,2PT Jump Shot,TWO_POINT_JUMPERS,2009
+Chris Quinn,200809,Jump Shot,3,64,29,3PT Jump Shot,THREE_POINT_JUMPERS,2009
+Chris Quinn,200809,Layup Shot,2,11,2,Standard Layup,LAYUPS,2009
+Chris Quinn,200809,Pullup Bank shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2009
+Chris Quinn,200809,Pullup Jump shot,2,4,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2009
+Chris Quinn,200809,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2009
+Chris Quinn,200809,Running Bank shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2009
+Chris Quinn,200809,Running Jump Shot,2,7,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2009
+Chris Quinn,200809,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2009
+Chris Quinn,200809,Running Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2009
+Chris Quinn,200809,Driving Layup Shot,2,5,3,Driving Layup,LAYUPS,2010
+Chris Quinn,200809,Floating Jump shot,2,3,2,2PT Floating Jump Shot,FLOATING_SHOTS,2010
+Chris Quinn,200809,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2010
+Chris Quinn,200809,Jump Shot,2,23,8,2PT Jump Shot,TWO_POINT_JUMPERS,2010
+Chris Quinn,200809,Jump Shot,3,19,4,3PT Jump Shot,THREE_POINT_JUMPERS,2010
+Chris Quinn,200809,Pullup Jump shot,2,2,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2010
+Chris Quinn,200809,Running Bank shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2010
+Chris Quinn,200809,Running Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2010
+Chris Quinn,200809,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2011
+Chris Quinn,200809,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2011
+Chris Quinn,200809,Floating Jump shot,2,6,3,2PT Floating Jump Shot,FLOATING_SHOTS,2011
+Chris Quinn,200809,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Chris Quinn,200809,Jump Shot,2,48,12,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Chris Quinn,200809,Jump Shot,3,16,4,3PT Jump Shot,THREE_POINT_JUMPERS,2011
+Chris Quinn,200809,Layup Shot,2,5,3,Standard Layup,LAYUPS,2011
+Chris Quinn,200809,Pullup Jump shot,2,7,5,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2011
+Chris Quinn,200809,Running Jump Shot,2,5,4,2PT Running Jump Shot,TWO_POINT_JUMPERS,2011
+Chris Quinn,200809,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2013
+Chris Quinn,200809,Jump Shot,2,10,2,2PT Jump Shot,TWO_POINT_JUMPERS,2013
+Chris Quinn,200809,Jump Shot,3,2,0,3PT Jump Shot,THREE_POINT_JUMPERS,2013
+Chris Quinn,200809,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,2013
+Chris Quinn,200809,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2013

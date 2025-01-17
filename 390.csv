@@ -1,8 +1,8 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Sasha Danilovic,390,Driving Dunk,2,1,1,DUNKS,,1997
-Sasha Danilovic,390,Driving Layup,2,54,44,LAYUPS,,1997
-Sasha Danilovic,390,Jump Shot,2,428,162,JUMP_SHOTS,,1997
-Sasha Danilovic,390,Running Jump Shot,2,15,12,JUMP_SHOTS,,1997
-Sasha Danilovic,390,Standard Dunk,2,2,2,DUNKS,,1997
-Sasha Danilovic,390,Standard Layup,2,68,26,LAYUPS,,1997
-Sasha Danilovic,390,Tip Shot,2,2,1,TIP_SHOTS,,1997
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Sasha Danilovic,390,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,1997
+Sasha Danilovic,390,Driving Layup Shot,2,54,44,Driving Layup,LAYUPS,1997
+Sasha Danilovic,390,Jump Shot,2,428,162,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Sasha Danilovic,390,Layup Shot,2,68,26,Standard Layup,LAYUPS,1997
+Sasha Danilovic,390,Running Jump Shot,2,15,12,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
+Sasha Danilovic,390,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,1997
+Sasha Danilovic,390,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,1997

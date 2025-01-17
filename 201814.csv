@@ -1,35 +1,47 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Gary Forbes,201814,Alley Oop Layup,2,2,0,LAYUPS,,2011
-Gary Forbes,201814,Driving Dunk,2,2,1,DUNKS,,2011
-Gary Forbes,201814,Driving Layup,2,41,27,LAYUPS,,2011
-Gary Forbes,201814,Fadeaway Jump Shot,2,4,1,JUMP_SHOTS,,2011
-Gary Forbes,201814,Finger Roll,2,3,1,LAYUPS,,2011
-Gary Forbes,201814,Floating Jump Shot,2,8,2,FLOATING_SHOTS,,2011
-Gary Forbes,201814,Hook Shot,2,1,1,POST_MOVES,,2011
-Gary Forbes,201814,Jump Shot,2,108,34,JUMP_SHOTS,,2011
-Gary Forbes,201814,Jump Shot,3,1,0,JUMP_SHOTS,,2011
-Gary Forbes,201814,Reverse Layup,2,9,6,LAYUPS,,2011
-Gary Forbes,201814,Running Jump Shot,2,20,9,JUMP_SHOTS,,2011
-Gary Forbes,201814,Standard Dunk,2,7,7,DUNKS,,2011
-Gary Forbes,201814,Standard Layup,2,57,33,LAYUPS,,2011
-Gary Forbes,201814,Tip Shot,2,5,2,TIP_SHOTS,,2011
-Gary Forbes,201814,Turnaround Hook Shot,2,1,0,POST_MOVES,,2011
-Gary Forbes,201814,Turnaround Jump Shot,2,3,0,JUMP_SHOTS,,2011
-Gary Forbes,201814,Driving Dunk,2,1,1,DUNKS,,2012
-Gary Forbes,201814,Driving Hook Shot,2,2,1,POST_MOVES,,2012
-Gary Forbes,201814,Driving Jump Shot,2,4,2,JUMP_SHOTS,,2012
-Gary Forbes,201814,Driving Layup,2,29,13,LAYUPS,,2012
-Gary Forbes,201814,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2012
-Gary Forbes,201814,Finger Roll,2,2,2,LAYUPS,,2012
-Gary Forbes,201814,Floating Jump Shot,2,6,3,FLOATING_SHOTS,,2012
-Gary Forbes,201814,Jump Shot,2,156,59,JUMP_SHOTS,,2012
-Gary Forbes,201814,Jump Shot,3,4,2,JUMP_SHOTS,,2012
-Gary Forbes,201814,Pullup Jump Shot,2,12,4,JUMP_SHOTS,,2012
-Gary Forbes,201814,Putback Layup,2,1,1,LAYUPS,,2012
-Gary Forbes,201814,Reverse Layup,2,1,0,LAYUPS,,2012
-Gary Forbes,201814,Running Jump Shot,2,15,6,JUMP_SHOTS,,2012
-Gary Forbes,201814,Running Jump Shot,3,1,0,JUMP_SHOTS,,2012
-Gary Forbes,201814,Standard Dunk,2,1,1,DUNKS,,2012
-Gary Forbes,201814,Standard Layup,2,30,16,LAYUPS,,2012
-Gary Forbes,201814,Tip Shot,2,2,1,TIP_SHOTS,,2012
-Gary Forbes,201814,Turnaround Jump Shot,2,3,0,JUMP_SHOTS,,2012
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Gary Forbes,201814,Alley Oop Layup shot,2,2,0,Alley Oop Layup,LAYUPS,2011
+Gary Forbes,201814,Driving Dunk Shot,2,2,1,Driving Dunk,DUNKS,2011
+Gary Forbes,201814,Driving Finger Roll Layup Shot,2,3,1,Finger Roll,LAYUPS,2011
+Gary Forbes,201814,Driving Layup Shot,2,38,24,Driving Layup,LAYUPS,2011
+Gary Forbes,201814,Driving Reverse Layup Shot,2,3,3,Driving Layup,LAYUPS,2011
+Gary Forbes,201814,Dunk Shot,2,6,6,Standard Dunk,DUNKS,2011
+Gary Forbes,201814,Fadeaway Jump Shot,2,4,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2011
+Gary Forbes,201814,Floating Jump shot,2,8,2,2PT Floating Jump Shot,FLOATING_SHOTS,2011
+Gary Forbes,201814,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2011
+Gary Forbes,201814,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Gary Forbes,201814,Jump Shot,2,107,34,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Gary Forbes,201814,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2011
+Gary Forbes,201814,Layup Shot,2,57,33,Standard Layup,LAYUPS,2011
+Gary Forbes,201814,Reverse Layup Shot,2,8,5,Reverse Layup,LAYUPS,2011
+Gary Forbes,201814,Running Bank shot,2,4,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2011
+Gary Forbes,201814,Running Jump Shot,2,16,6,2PT Running Jump Shot,TWO_POINT_JUMPERS,2011
+Gary Forbes,201814,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2011
+Gary Forbes,201814,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2011
+Gary Forbes,201814,Tip Shot,2,5,2,Tip Shot,TIP_SHOTS,2011
+Gary Forbes,201814,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2011
+Gary Forbes,201814,Turnaround Jump Shot,2,3,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2011
+Gary Forbes,201814,Driving Bank shot,2,1,1,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2012
+Gary Forbes,201814,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2012
+Gary Forbes,201814,Driving Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2012
+Gary Forbes,201814,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,2012
+Gary Forbes,201814,Driving Jump shot,2,3,1,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2012
+Gary Forbes,201814,Driving Layup Shot,2,26,12,Driving Layup,LAYUPS,2012
+Gary Forbes,201814,Driving Reverse Layup Shot,2,3,1,Driving Layup,LAYUPS,2012
+Gary Forbes,201814,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2012
+Gary Forbes,201814,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2012
+Gary Forbes,201814,Floating Jump shot,2,6,3,2PT Floating Jump Shot,FLOATING_SHOTS,2012
+Gary Forbes,201814,Jump Bank Shot,2,4,3,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Gary Forbes,201814,Jump Shot,2,152,56,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Gary Forbes,201814,Jump Shot,3,4,2,3PT Jump Shot,THREE_POINT_JUMPERS,2012
+Gary Forbes,201814,Layup Shot,2,28,14,Standard Layup,LAYUPS,2012
+Gary Forbes,201814,Pullup Jump shot,2,12,4,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2012
+Gary Forbes,201814,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2012
+Gary Forbes,201814,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2012
+Gary Forbes,201814,Running Bank shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2012
+Gary Forbes,201814,Running Jump Shot,2,13,5,2PT Running Jump Shot,TWO_POINT_JUMPERS,2012
+Gary Forbes,201814,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2012
+Gary Forbes,201814,Running Layup Shot,2,2,2,Standard Layup,LAYUPS,2012
+Gary Forbes,201814,Running Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2012
+Gary Forbes,201814,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2012
+Gary Forbes,201814,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2012
+Gary Forbes,201814,Turnaround Jump Shot,2,2,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2012

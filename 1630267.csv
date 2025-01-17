@@ -1,34 +1,54 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Facundo Campazzo,1630267,Driving Hook Shot,2,1,0,POST_MOVES,,2021
-Facundo Campazzo,1630267,Driving Layup,2,18,7,LAYUPS,,2021
-Facundo Campazzo,1630267,Finger Roll,2,21,14,LAYUPS,,2021
-Facundo Campazzo,1630267,Floating Jump Shot,2,23,8,FLOATING_SHOTS,,2021
-Facundo Campazzo,1630267,Jump Shot,2,157,55,JUMP_SHOTS,,2021
-Facundo Campazzo,1630267,Jump Shot,3,3,1,JUMP_SHOTS,,2021
-Facundo Campazzo,1630267,Pullup Jump Shot,2,43,15,JUMP_SHOTS,,2021
-Facundo Campazzo,1630267,Pullup Jump Shot,3,1,0,JUMP_SHOTS,,2021
-Facundo Campazzo,1630267,Putback Layup,2,1,0,LAYUPS,,2021
-Facundo Campazzo,1630267,Reverse Layup,2,2,2,LAYUPS,,2021
-Facundo Campazzo,1630267,Running Jump Shot,2,12,5,JUMP_SHOTS,,2021
-Facundo Campazzo,1630267,Running Jump Shot,3,1,1,JUMP_SHOTS,,2021
-Facundo Campazzo,1630267,Standard Layup,2,17,9,LAYUPS,,2021
-Facundo Campazzo,1630267,Step Back Jump Shot,2,15,3,JUMP_SHOTS,,2021
-Facundo Campazzo,1630267,Driving Layup,2,15,6,LAYUPS,,2022
-Facundo Campazzo,1630267,Finger Roll,2,25,16,LAYUPS,,2022
-Facundo Campazzo,1630267,Floating Jump Shot,2,19,5,FLOATING_SHOTS,,2022
-Facundo Campazzo,1630267,Floating Jump Shot,3,1,0,FLOATING_SHOTS,,2022
-Facundo Campazzo,1630267,Jump Shot,2,127,38,JUMP_SHOTS,,2022
-Facundo Campazzo,1630267,Jump Shot,3,16,4,JUMP_SHOTS,,2022
-Facundo Campazzo,1630267,Pullup Jump Shot,2,33,14,JUMP_SHOTS,,2022
-Facundo Campazzo,1630267,Pullup Jump Shot,3,3,1,JUMP_SHOTS,,2022
-Facundo Campazzo,1630267,Reverse Dunk,2,1,0,DUNKS,,2022
-Facundo Campazzo,1630267,Reverse Layup,2,6,4,LAYUPS,,2022
-Facundo Campazzo,1630267,Running Jump Shot,2,10,2,JUMP_SHOTS,,2022
-Facundo Campazzo,1630267,Standard Layup,2,24,13,LAYUPS,,2022
-Facundo Campazzo,1630267,Step Back Jump Shot,2,12,3,JUMP_SHOTS,,2022
-Facundo Campazzo,1630267,Turnaround Hook Shot,2,2,0,POST_MOVES,,2022
-Facundo Campazzo,1630267,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2022
-Facundo Campazzo,1630267,Driving Layup,2,2,0,LAYUPS,,2023
-Facundo Campazzo,1630267,Jump Shot,2,9,2,JUMP_SHOTS,,2023
-Facundo Campazzo,1630267,Pullup Jump Shot,2,1,1,JUMP_SHOTS,,2023
-Facundo Campazzo,1630267,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2023
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Facundo Campazzo,1630267,Cutting Layup Shot,2,5,2,Standard Layup,LAYUPS,2021
+Facundo Campazzo,1630267,Driving Finger Roll Layup Shot,2,12,8,Finger Roll,LAYUPS,2021
+Facundo Campazzo,1630267,Driving Floating Bank Jump Shot,2,6,3,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Facundo Campazzo,1630267,Driving Floating Jump Shot,2,13,4,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Facundo Campazzo,1630267,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2021
+Facundo Campazzo,1630267,Driving Layup Shot,2,13,5,Driving Layup,LAYUPS,2021
+Facundo Campazzo,1630267,Driving Reverse Layup Shot,2,5,2,Driving Layup,LAYUPS,2021
+Facundo Campazzo,1630267,Floating Jump shot,2,4,1,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Facundo Campazzo,1630267,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Facundo Campazzo,1630267,Jump Shot,2,156,55,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Facundo Campazzo,1630267,Jump Shot,3,3,1,3PT Jump Shot,THREE_POINT_JUMPERS,2021
+Facundo Campazzo,1630267,Layup Shot,2,1,0,Standard Layup,LAYUPS,2021
+Facundo Campazzo,1630267,Pullup Jump shot,2,43,15,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2021
+Facundo Campazzo,1630267,Pullup Jump shot,3,1,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2021
+Facundo Campazzo,1630267,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2021
+Facundo Campazzo,1630267,Running Finger Roll Layup Shot,2,9,6,Finger Roll,LAYUPS,2021
+Facundo Campazzo,1630267,Running Jump Shot,2,8,4,2PT Running Jump Shot,TWO_POINT_JUMPERS,2021
+Facundo Campazzo,1630267,Running Jump Shot,3,1,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2021
+Facundo Campazzo,1630267,Running Layup Shot,2,11,7,Standard Layup,LAYUPS,2021
+Facundo Campazzo,1630267,Running Pull-Up Jump Shot,2,4,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2021
+Facundo Campazzo,1630267,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2021
+Facundo Campazzo,1630267,Step Back Jump shot,2,15,3,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2021
+Facundo Campazzo,1630267,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2021
+Facundo Campazzo,1630267,Cutting Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2022
+Facundo Campazzo,1630267,Cutting Layup Shot,2,7,5,Standard Layup,LAYUPS,2022
+Facundo Campazzo,1630267,Driving Finger Roll Layup Shot,2,12,5,Finger Roll,LAYUPS,2022
+Facundo Campazzo,1630267,Driving Floating Bank Jump Shot,2,3,0,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Facundo Campazzo,1630267,Driving Floating Jump Shot,2,13,3,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Facundo Campazzo,1630267,Driving Floating Jump Shot,3,1,0,3PT Floating Jump Shot,FLOATING_SHOTS,2022
+Facundo Campazzo,1630267,Driving Layup Shot,2,11,3,Driving Layup,LAYUPS,2022
+Facundo Campazzo,1630267,Driving Reverse Dunk Shot,2,1,0,Reverse Dunk,DUNKS,2022
+Facundo Campazzo,1630267,Driving Reverse Layup Shot,2,4,3,Driving Layup,LAYUPS,2022
+Facundo Campazzo,1630267,Floating Jump shot,2,3,2,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Facundo Campazzo,1630267,Jump Bank Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2022
+Facundo Campazzo,1630267,Jump Shot,2,125,38,2PT Jump Shot,TWO_POINT_JUMPERS,2022
+Facundo Campazzo,1630267,Jump Shot,3,16,4,3PT Jump Shot,THREE_POINT_JUMPERS,2022
+Facundo Campazzo,1630267,Layup Shot,2,6,2,Standard Layup,LAYUPS,2022
+Facundo Campazzo,1630267,Pullup Jump shot,2,33,14,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2022
+Facundo Campazzo,1630267,Pullup Jump shot,3,3,1,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2022
+Facundo Campazzo,1630267,Reverse Layup Shot,2,3,2,Reverse Layup,LAYUPS,2022
+Facundo Campazzo,1630267,Running Finger Roll Layup Shot,2,12,10,Finger Roll,LAYUPS,2022
+Facundo Campazzo,1630267,Running Jump Shot,2,6,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2022
+Facundo Campazzo,1630267,Running Layup Shot,2,11,6,Standard Layup,LAYUPS,2022
+Facundo Campazzo,1630267,Running Pull-Up Jump Shot,2,4,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2022
+Facundo Campazzo,1630267,Running Reverse Layup Shot,2,3,2,Reverse Layup,LAYUPS,2022
+Facundo Campazzo,1630267,Step Back Jump shot,2,12,3,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2022
+Facundo Campazzo,1630267,Turnaround Fadeaway Bank Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2022
+Facundo Campazzo,1630267,Turnaround Fadeaway shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2022
+Facundo Campazzo,1630267,Turnaround Hook Shot,2,2,0,Turnaround Hook Shot,POST_MOVES,2022
+Facundo Campazzo,1630267,Driving Layup Shot,2,2,0,Driving Layup,LAYUPS,2023
+Facundo Campazzo,1630267,Jump Shot,2,9,2,2PT Jump Shot,TWO_POINT_JUMPERS,2023
+Facundo Campazzo,1630267,Pullup Jump shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2023
+Facundo Campazzo,1630267,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2023

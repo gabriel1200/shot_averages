@@ -1,42 +1,55 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jarace Walker,1641716,Driving Dunk,2,1,1,DUNKS,,2024
-Jarace Walker,1641716,Driving Layup,2,5,1,LAYUPS,,2024
-Jarace Walker,1641716,Fadeaway Jump Shot,2,2,2,JUMP_SHOTS,,2024
-Jarace Walker,1641716,Finger Roll,2,4,1,LAYUPS,,2024
-Jarace Walker,1641716,Floating Jump Shot,2,9,4,FLOATING_SHOTS,,2024
-Jarace Walker,1641716,Jump Shot,2,2,0,JUMP_SHOTS,,2024
-Jarace Walker,1641716,Jump Shot,3,37,15,JUMP_SHOTS,,2024
-Jarace Walker,1641716,Pullup Jump Shot,2,8,3,JUMP_SHOTS,,2024
-Jarace Walker,1641716,Pullup Jump Shot,3,10,7,JUMP_SHOTS,,2024
-Jarace Walker,1641716,Putback Layup,2,7,2,LAYUPS,,2024
-Jarace Walker,1641716,Running Jump Shot,2,1,0,JUMP_SHOTS,,2024
-Jarace Walker,1641716,Running Jump Shot,3,4,0,JUMP_SHOTS,,2024
-Jarace Walker,1641716,Specialty Dunk,2,1,1,DUNKS,,2024
-Jarace Walker,1641716,Standard Dunk,2,2,2,DUNKS,,2024
-Jarace Walker,1641716,Standard Layup,2,7,3,LAYUPS,,2024
-Jarace Walker,1641716,Step Back Jump Shot,2,5,3,JUMP_SHOTS,,2024
-Jarace Walker,1641716,Step Back Jump Shot,3,4,0,JUMP_SHOTS,,2024
-Jarace Walker,1641716,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2024
-Jarace Walker,1641716,Alley Oop Dunk,2,1,1,DUNKS,,2025
-Jarace Walker,1641716,Driving Dunk,2,3,2,DUNKS,,2025
-Jarace Walker,1641716,Driving Layup,2,12,2,LAYUPS,,2025
-Jarace Walker,1641716,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2025
-Jarace Walker,1641716,Fadeaway Jump Shot,3,1,1,JUMP_SHOTS,,2025
-Jarace Walker,1641716,Finger Roll,2,9,6,LAYUPS,,2025
-Jarace Walker,1641716,Floating Jump Shot,2,18,7,FLOATING_SHOTS,,2025
-Jarace Walker,1641716,Jump Shot,2,1,1,JUMP_SHOTS,,2025
-Jarace Walker,1641716,Jump Shot,3,74,34,JUMP_SHOTS,,2025
-Jarace Walker,1641716,Pullup Jump Shot,2,12,4,JUMP_SHOTS,,2025
-Jarace Walker,1641716,Pullup Jump Shot,3,17,7,JUMP_SHOTS,,2025
-Jarace Walker,1641716,Putback Dunk,2,1,1,DUNKS,,2025
-Jarace Walker,1641716,Putback Layup,2,3,0,LAYUPS,,2025
-Jarace Walker,1641716,Reverse Layup,2,2,2,LAYUPS,,2025
-Jarace Walker,1641716,Running Jump Shot,2,1,1,JUMP_SHOTS,,2025
-Jarace Walker,1641716,Running Jump Shot,3,4,0,JUMP_SHOTS,,2025
-Jarace Walker,1641716,Specialty Dunk,2,5,5,DUNKS,,2025
-Jarace Walker,1641716,Standard Dunk,2,9,8,DUNKS,,2025
-Jarace Walker,1641716,Standard Layup,2,13,6,LAYUPS,,2025
-Jarace Walker,1641716,Step Back Jump Shot,2,1,1,JUMP_SHOTS,,2025
-Jarace Walker,1641716,Step Back Jump Shot,3,11,1,JUMP_SHOTS,,2025
-Jarace Walker,1641716,Turnaround Hook Shot,2,2,1,POST_MOVES,,2025
-Jarace Walker,1641716,Turnaround Jump Shot,2,5,5,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Jarace Walker,1641716,Cutting Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2024
+Jarace Walker,1641716,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2024
+Jarace Walker,1641716,Driving Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2024
+Jarace Walker,1641716,Driving Floating Bank Jump Shot,2,2,0,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Jarace Walker,1641716,Driving Floating Jump Shot,2,7,4,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Jarace Walker,1641716,Driving Layup Shot,2,5,1,Driving Layup,LAYUPS,2024
+Jarace Walker,1641716,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2024
+Jarace Walker,1641716,Fadeaway Jump Shot,2,2,2,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
+Jarace Walker,1641716,Jump Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2024
+Jarace Walker,1641716,Jump Shot,3,37,15,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Jarace Walker,1641716,Layup Shot,2,1,0,Standard Layup,LAYUPS,2024
+Jarace Walker,1641716,Pullup Jump shot,2,8,3,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2024
+Jarace Walker,1641716,Pullup Jump shot,3,10,7,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
+Jarace Walker,1641716,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2024
+Jarace Walker,1641716,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2024
+Jarace Walker,1641716,Running Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2024
+Jarace Walker,1641716,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2024
+Jarace Walker,1641716,Running Jump Shot,3,4,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Jarace Walker,1641716,Running Layup Shot,2,6,3,Standard Layup,LAYUPS,2024
+Jarace Walker,1641716,Step Back Jump shot,2,5,3,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2024
+Jarace Walker,1641716,Step Back Jump shot,3,4,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
+Jarace Walker,1641716,Tip Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2024
+Jarace Walker,1641716,Tip Layup Shot,2,6,1,Putback Layup,LAYUPS,2024
+Jarace Walker,1641716,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Jarace Walker,1641716,Cutting Dunk Shot,2,5,5,Specialty Dunk,DUNKS,2025
+Jarace Walker,1641716,Cutting Layup Shot,2,3,2,Standard Layup,LAYUPS,2025
+Jarace Walker,1641716,Driving Dunk Shot,2,3,2,Driving Dunk,DUNKS,2025
+Jarace Walker,1641716,Driving Finger Roll Layup Shot,2,8,5,Finger Roll,LAYUPS,2025
+Jarace Walker,1641716,Driving Floating Bank Jump Shot,2,3,2,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Jarace Walker,1641716,Driving Floating Jump Shot,2,14,5,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Jarace Walker,1641716,Driving Layup Shot,2,12,2,Driving Layup,LAYUPS,2025
+Jarace Walker,1641716,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2025
+Jarace Walker,1641716,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
+Jarace Walker,1641716,Fadeaway Jump Shot,3,1,1,3PT Fadeaway Jump Shot,THREE_POINT_JUMPERS,2025
+Jarace Walker,1641716,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Jarace Walker,1641716,Jump Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2025
+Jarace Walker,1641716,Jump Shot,3,74,34,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Jarace Walker,1641716,Layup Shot,2,2,0,Standard Layup,LAYUPS,2025
+Jarace Walker,1641716,Pullup Jump shot,2,12,4,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
+Jarace Walker,1641716,Pullup Jump shot,3,17,7,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
+Jarace Walker,1641716,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2025
+Jarace Walker,1641716,Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2025
+Jarace Walker,1641716,Running Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2025
+Jarace Walker,1641716,Running Dunk Shot,2,8,7,Standard Dunk,DUNKS,2025
+Jarace Walker,1641716,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2025
+Jarace Walker,1641716,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2025
+Jarace Walker,1641716,Running Jump Shot,3,4,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Jarace Walker,1641716,Running Layup Shot,2,8,4,Standard Layup,LAYUPS,2025
+Jarace Walker,1641716,Step Back Jump shot,2,1,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2025
+Jarace Walker,1641716,Step Back Jump shot,3,11,1,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
+Jarace Walker,1641716,Tip Layup Shot,2,3,0,Putback Layup,LAYUPS,2025
+Jarace Walker,1641716,Turnaround Fadeaway shot,2,4,4,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+Jarace Walker,1641716,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,2025
+Jarace Walker,1641716,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025

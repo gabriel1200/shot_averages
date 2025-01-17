@@ -1,16 +1,18 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Coby Karl,201207,Alley Oop Dunk,2,1,1,DUNKS,,2008
-Coby Karl,201207,Jump Shot,2,18,3,JUMP_SHOTS,,2008
-Coby Karl,201207,Jump Shot,3,1,1,JUMP_SHOTS,,2008
-Coby Karl,201207,Running Jump Shot,2,2,2,JUMP_SHOTS,,2008
-Coby Karl,201207,Standard Dunk,2,1,1,DUNKS,,2008
-Coby Karl,201207,Standard Layup,2,3,1,LAYUPS,,2008
-Coby Karl,201207,Driving Layup,2,10,5,LAYUPS,,2010
-Coby Karl,201207,Finger Roll,2,1,1,LAYUPS,,2010
-Coby Karl,201207,Floating Jump Shot,2,2,1,FLOATING_SHOTS,,2010
-Coby Karl,201207,Jump Shot,2,13,0,JUMP_SHOTS,,2010
-Coby Karl,201207,Jump Shot,3,1,1,JUMP_SHOTS,,2010
-Coby Karl,201207,Reverse Layup,2,1,0,LAYUPS,,2010
-Coby Karl,201207,Standard Layup,2,2,2,LAYUPS,,2010
-Coby Karl,201207,Step Back Jump Shot,2,1,1,JUMP_SHOTS,,2010
-Coby Karl,201207,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2010
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Coby Karl,201207,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2008
+Coby Karl,201207,Jump Shot,2,18,3,2PT Jump Shot,TWO_POINT_JUMPERS,2008
+Coby Karl,201207,Jump Shot,3,1,1,3PT Jump Shot,THREE_POINT_JUMPERS,2008
+Coby Karl,201207,Layup Shot,2,2,1,Standard Layup,LAYUPS,2008
+Coby Karl,201207,Running Jump Shot,2,2,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2008
+Coby Karl,201207,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2008
+Coby Karl,201207,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2008
+Coby Karl,201207,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2010
+Coby Karl,201207,Driving Layup Shot,2,10,5,Driving Layup,LAYUPS,2010
+Coby Karl,201207,Floating Jump shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2010
+Coby Karl,201207,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2010
+Coby Karl,201207,Jump Shot,2,12,0,2PT Jump Shot,TWO_POINT_JUMPERS,2010
+Coby Karl,201207,Jump Shot,3,1,1,3PT Jump Shot,THREE_POINT_JUMPERS,2010
+Coby Karl,201207,Layup Shot,2,2,2,Standard Layup,LAYUPS,2010
+Coby Karl,201207,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2010
+Coby Karl,201207,Step Back Jump shot,2,1,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2010
+Coby Karl,201207,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2010

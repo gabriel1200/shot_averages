@@ -1,69 +1,81 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Earl Barron,2853,Driving Layup,2,1,0,LAYUPS,,2006
-Earl Barron,2853,Jump Shot,2,11,4,JUMP_SHOTS,,2006
-Earl Barron,2853,Standard Layup,2,1,0,LAYUPS,,2006
-Earl Barron,2853,Tip Shot,2,1,0,TIP_SHOTS,,2006
-Earl Barron,2853,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2006
-Earl Barron,2853,Driving Layup,2,2,2,LAYUPS,,2007
-Earl Barron,2853,Hook Shot,2,8,2,POST_MOVES,,2007
-Earl Barron,2853,Jump Shot,2,51,11,JUMP_SHOTS,,2007
-Earl Barron,2853,Standard Dunk,2,2,2,DUNKS,,2007
-Earl Barron,2853,Standard Layup,2,13,5,LAYUPS,,2007
-Earl Barron,2853,Tip Shot,2,3,2,TIP_SHOTS,,2007
-Earl Barron,2853,Turnaround Jump Shot,2,4,0,JUMP_SHOTS,,2007
-Earl Barron,2853,Driving Dunk,2,2,2,DUNKS,,2008
-Earl Barron,2853,Driving Hook Shot,2,1,0,POST_MOVES,,2008
-Earl Barron,2853,Driving Jump Shot,2,3,3,JUMP_SHOTS,,2008
-Earl Barron,2853,Driving Layup,2,6,4,LAYUPS,,2008
-Earl Barron,2853,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2008
-Earl Barron,2853,Finger Roll,2,1,1,LAYUPS,,2008
-Earl Barron,2853,Hook Shot,2,10,6,POST_MOVES,,2008
-Earl Barron,2853,Jump Shot,2,210,76,JUMP_SHOTS,,2008
-Earl Barron,2853,Putback Layup,2,2,2,LAYUPS,,2008
-Earl Barron,2853,Reverse Dunk,2,1,1,DUNKS,,2008
-Earl Barron,2853,Reverse Layup,2,5,2,LAYUPS,,2008
-Earl Barron,2853,Running Hook Shot,2,1,1,POST_MOVES,,2008
-Earl Barron,2853,Running Jump Shot,2,2,0,JUMP_SHOTS,,2008
-Earl Barron,2853,Standard Dunk,2,6,4,DUNKS,,2008
-Earl Barron,2853,Standard Layup,2,47,17,LAYUPS,,2008
-Earl Barron,2853,Tip Shot,2,19,9,TIP_SHOTS,,2008
-Earl Barron,2853,Turnaround Hook Shot,2,2,1,POST_MOVES,,2008
-Earl Barron,2853,Turnaround Jump Shot,2,8,3,JUMP_SHOTS,,2008
-Earl Barron,2853,Driving Layup,2,2,2,LAYUPS,,2010
-Earl Barron,2853,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2010
-Earl Barron,2853,Hook Shot,2,3,0,POST_MOVES,,2010
-Earl Barron,2853,Jump Shot,2,38,15,JUMP_SHOTS,,2010
-Earl Barron,2853,Putback Layup,2,2,2,LAYUPS,,2010
-Earl Barron,2853,Reverse Layup,2,1,1,LAYUPS,,2010
-Earl Barron,2853,Standard Dunk,2,1,1,DUNKS,,2010
-Earl Barron,2853,Standard Layup,2,11,5,LAYUPS,,2010
-Earl Barron,2853,Tip Shot,2,7,2,TIP_SHOTS,,2010
-Earl Barron,2853,Turnaround Hook Shot,2,2,1,POST_MOVES,,2010
-Earl Barron,2853,Driving Layup,2,3,2,LAYUPS,,2011
-Earl Barron,2853,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2011
-Earl Barron,2853,Hook Shot,2,3,2,POST_MOVES,,2011
-Earl Barron,2853,Jump Shot,2,58,13,JUMP_SHOTS,,2011
-Earl Barron,2853,Pullup Jump Shot,2,1,0,JUMP_SHOTS,,2011
-Earl Barron,2853,Putback Layup,2,2,1,LAYUPS,,2011
-Earl Barron,2853,Reverse Layup,2,2,2,LAYUPS,,2011
-Earl Barron,2853,Standard Dunk,2,3,3,DUNKS,,2011
-Earl Barron,2853,Standard Layup,2,15,4,LAYUPS,,2011
-Earl Barron,2853,Tip Shot,2,10,4,TIP_SHOTS,,2011
-Earl Barron,2853,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2011
-Earl Barron,2853,Jump Shot,2,3,1,JUMP_SHOTS,,2012
-Earl Barron,2853,Tip Shot,2,1,1,TIP_SHOTS,,2012
-Earl Barron,2853,Driving Layup,2,1,0,LAYUPS,,2013
-Earl Barron,2853,Jump Shot,2,35,12,JUMP_SHOTS,,2013
-Earl Barron,2853,Reverse Layup,2,1,1,LAYUPS,,2013
-Earl Barron,2853,Standard Layup,2,5,1,LAYUPS,,2013
-Earl Barron,2853,Tip Shot,2,7,4,TIP_SHOTS,,2013
-Earl Barron,2853,Turnaround Hook Shot,2,1,0,POST_MOVES,,2013
-Earl Barron,2853,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2013
-Earl Barron,2853,Driving Layup,2,1,0,LAYUPS,,2015
-Earl Barron,2853,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2015
-Earl Barron,2853,Jump Shot,2,25,11,JUMP_SHOTS,,2015
-Earl Barron,2853,Putback Layup,2,1,1,LAYUPS,,2015
-Earl Barron,2853,Reverse Layup,2,1,0,LAYUPS,,2015
-Earl Barron,2853,Standard Layup,2,4,0,LAYUPS,,2015
-Earl Barron,2853,Tip Shot,2,4,0,TIP_SHOTS,,2015
-Earl Barron,2853,Turnaround Jump Shot,2,2,0,JUMP_SHOTS,,2015
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Earl Barron,2853,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2006
+Earl Barron,2853,Jump Shot,2,11,4,2PT Jump Shot,TWO_POINT_JUMPERS,2006
+Earl Barron,2853,Layup Shot,2,1,0,Standard Layup,LAYUPS,2006
+Earl Barron,2853,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2006
+Earl Barron,2853,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2006
+Earl Barron,2853,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,2007
+Earl Barron,2853,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2007
+Earl Barron,2853,Hook Shot,2,4,1,Hook Shot,POST_MOVES,2007
+Earl Barron,2853,Jump Hook Shot,2,4,1,Hook Shot,POST_MOVES,2007
+Earl Barron,2853,Jump Shot,2,51,11,2PT Jump Shot,TWO_POINT_JUMPERS,2007
+Earl Barron,2853,Layup Shot,2,13,5,Standard Layup,LAYUPS,2007
+Earl Barron,2853,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,2007
+Earl Barron,2853,Turnaround Jump Shot,2,4,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2007
+Earl Barron,2853,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2008
+Earl Barron,2853,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2008
+Earl Barron,2853,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2008
+Earl Barron,2853,Driving Jump shot,2,3,3,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2008
+Earl Barron,2853,Driving Layup Shot,2,6,4,Driving Layup,LAYUPS,2008
+Earl Barron,2853,Dunk Shot,2,5,3,Standard Dunk,DUNKS,2008
+Earl Barron,2853,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2008
+Earl Barron,2853,Hook Bank Shot,2,1,1,Hook Shot,POST_MOVES,2008
+Earl Barron,2853,Hook Shot,2,8,5,Hook Shot,POST_MOVES,2008
+Earl Barron,2853,Jump Bank Shot,2,4,3,2PT Jump Shot,TWO_POINT_JUMPERS,2008
+Earl Barron,2853,Jump Hook Shot,2,1,0,Hook Shot,POST_MOVES,2008
+Earl Barron,2853,Jump Shot,2,206,73,2PT Jump Shot,TWO_POINT_JUMPERS,2008
+Earl Barron,2853,Layup Shot,2,46,16,Standard Layup,LAYUPS,2008
+Earl Barron,2853,Putback Layup Shot,2,2,2,Putback Layup,LAYUPS,2008
+Earl Barron,2853,Reverse Layup Shot,2,5,2,Reverse Layup,LAYUPS,2008
+Earl Barron,2853,Reverse Slam Dunk Shot,2,1,1,Reverse Dunk,DUNKS,2008
+Earl Barron,2853,Running Bank Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,2008
+Earl Barron,2853,Running Bank shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2008
+Earl Barron,2853,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2008
+Earl Barron,2853,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2008
+Earl Barron,2853,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2008
+Earl Barron,2853,Tip Shot,2,19,9,Tip Shot,TIP_SHOTS,2008
+Earl Barron,2853,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2008
+Earl Barron,2853,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,2008
+Earl Barron,2853,Turnaround Jump Shot,2,7,3,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2008
+Earl Barron,2853,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2010
+Earl Barron,2853,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2010
+Earl Barron,2853,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2010
+Earl Barron,2853,Hook Shot,2,3,0,Hook Shot,POST_MOVES,2010
+Earl Barron,2853,Jump Shot,2,38,15,2PT Jump Shot,TWO_POINT_JUMPERS,2010
+Earl Barron,2853,Layup Shot,2,11,5,Standard Layup,LAYUPS,2010
+Earl Barron,2853,Putback Layup Shot,2,2,2,Putback Layup,LAYUPS,2010
+Earl Barron,2853,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2010
+Earl Barron,2853,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2010
+Earl Barron,2853,Tip Shot,2,7,2,Tip Shot,TIP_SHOTS,2010
+Earl Barron,2853,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,2010
+Earl Barron,2853,Driving Layup Shot,2,3,2,Driving Layup,LAYUPS,2011
+Earl Barron,2853,Dunk Shot,2,3,3,Standard Dunk,DUNKS,2011
+Earl Barron,2853,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2011
+Earl Barron,2853,Hook Shot,2,3,2,Hook Shot,POST_MOVES,2011
+Earl Barron,2853,Jump Bank Shot,2,2,1,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Earl Barron,2853,Jump Shot,2,56,12,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Earl Barron,2853,Layup Shot,2,15,4,Standard Layup,LAYUPS,2011
+Earl Barron,2853,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2011
+Earl Barron,2853,Putback Layup Shot,2,2,1,Putback Layup,LAYUPS,2011
+Earl Barron,2853,Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2011
+Earl Barron,2853,Tip Shot,2,10,4,Tip Shot,TIP_SHOTS,2011
+Earl Barron,2853,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2011
+Earl Barron,2853,Jump Shot,2,3,1,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Earl Barron,2853,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2012
+Earl Barron,2853,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2013
+Earl Barron,2853,Jump Bank Shot,2,2,1,2PT Jump Shot,TWO_POINT_JUMPERS,2013
+Earl Barron,2853,Jump Shot,2,33,11,2PT Jump Shot,TWO_POINT_JUMPERS,2013
+Earl Barron,2853,Layup Shot,2,4,0,Standard Layup,LAYUPS,2013
+Earl Barron,2853,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2013
+Earl Barron,2853,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2013
+Earl Barron,2853,Tip Shot,2,7,4,Tip Shot,TIP_SHOTS,2013
+Earl Barron,2853,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2013
+Earl Barron,2853,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2013
+Earl Barron,2853,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2015
+Earl Barron,2853,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2015
+Earl Barron,2853,Jump Shot,2,25,11,2PT Jump Shot,TWO_POINT_JUMPERS,2015
+Earl Barron,2853,Layup Shot,2,4,0,Standard Layup,LAYUPS,2015
+Earl Barron,2853,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2015
+Earl Barron,2853,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2015
+Earl Barron,2853,Tip Shot,2,4,0,Tip Shot,TIP_SHOTS,2015
+Earl Barron,2853,Turnaround Jump Shot,2,2,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2015

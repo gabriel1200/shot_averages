@@ -1,10 +1,13 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Malik Williams,1642013,Driving Layup,2,1,1,LAYUPS,,2024
-Malik Williams,1642013,Floating Jump Shot,2,2,0,FLOATING_SHOTS,,2024
-Malik Williams,1642013,Jump Shot,2,5,1,JUMP_SHOTS,,2024
-Malik Williams,1642013,Jump Shot,3,5,1,JUMP_SHOTS,,2024
-Malik Williams,1642013,Putback Layup,2,12,4,LAYUPS,,2024
-Malik Williams,1642013,Specialty Dunk,2,4,2,DUNKS,,2024
-Malik Williams,1642013,Standard Layup,2,3,0,LAYUPS,,2024
-Malik Williams,1642013,Turnaround Hook Shot,2,1,0,POST_MOVES,,2024
-Malik Williams,1642013,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2024
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Malik Williams,1642013,Cutting Dunk Shot,2,3,2,Specialty Dunk,DUNKS,2024
+Malik Williams,1642013,Cutting Layup Shot,2,2,0,Standard Layup,LAYUPS,2024
+Malik Williams,1642013,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2024
+Malik Williams,1642013,Floating Jump shot,2,2,0,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Malik Williams,1642013,Jump Shot,2,5,1,2PT Jump Shot,TWO_POINT_JUMPERS,2024
+Malik Williams,1642013,Jump Shot,3,5,1,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Malik Williams,1642013,Putback Layup Shot,2,6,2,Putback Layup,LAYUPS,2024
+Malik Williams,1642013,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2024
+Malik Williams,1642013,Tip Dunk Shot,2,1,0,Specialty Dunk,DUNKS,2024
+Malik Williams,1642013,Tip Layup Shot,2,6,2,Putback Layup,LAYUPS,2024
+Malik Williams,1642013,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2024
+Malik Williams,1642013,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024

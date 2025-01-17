@@ -1,42 +1,66 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jordan Goodwin,1630692,Driving Layup,2,1,0,LAYUPS,,2022
-Jordan Goodwin,1630692,Jump Shot,2,1,0,JUMP_SHOTS,,2022
-Jordan Goodwin,1630692,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2022
-Jordan Goodwin,1630692,Driving Dunk,2,4,3,DUNKS,,2023
-Jordan Goodwin,1630692,Driving Hook Shot,2,2,2,POST_MOVES,,2023
-Jordan Goodwin,1630692,Driving Layup,2,41,22,LAYUPS,,2023
-Jordan Goodwin,1630692,Fadeaway Jump Shot,2,6,1,JUMP_SHOTS,,2023
-Jordan Goodwin,1630692,Finger Roll,2,7,5,LAYUPS,,2023
-Jordan Goodwin,1630692,Floating Jump Shot,2,57,27,FLOATING_SHOTS,,2023
-Jordan Goodwin,1630692,Hook Shot,2,1,0,POST_MOVES,,2023
-Jordan Goodwin,1630692,Jump Shot,2,87,30,JUMP_SHOTS,,2023
-Jordan Goodwin,1630692,Pullup Jump Shot,2,58,19,JUMP_SHOTS,,2023
-Jordan Goodwin,1630692,Putback Layup,2,26,14,LAYUPS,,2023
-Jordan Goodwin,1630692,Running Jump Shot,2,6,1,JUMP_SHOTS,,2023
-Jordan Goodwin,1630692,Specialty Dunk,2,2,0,DUNKS,,2023
-Jordan Goodwin,1630692,Standard Dunk,2,3,2,DUNKS,,2023
-Jordan Goodwin,1630692,Standard Layup,2,24,17,LAYUPS,,2023
-Jordan Goodwin,1630692,Step Back Jump Shot,2,20,10,JUMP_SHOTS,,2023
-Jordan Goodwin,1630692,Turnaround Jump Shot,2,9,5,JUMP_SHOTS,,2023
-Jordan Goodwin,1630692,Driving Dunk,2,2,1,DUNKS,,2024
-Jordan Goodwin,1630692,Driving Hook Shot,2,1,0,POST_MOVES,,2024
-Jordan Goodwin,1630692,Driving Layup,2,28,9,LAYUPS,,2024
-Jordan Goodwin,1630692,Fadeaway Jump Shot,2,7,1,JUMP_SHOTS,,2024
-Jordan Goodwin,1630692,Finger Roll,2,25,16,LAYUPS,,2024
-Jordan Goodwin,1630692,Floating Jump Shot,2,70,26,FLOATING_SHOTS,,2024
-Jordan Goodwin,1630692,Floating Jump Shot,3,1,0,FLOATING_SHOTS,,2024
-Jordan Goodwin,1630692,Hook Shot,2,2,0,POST_MOVES,,2024
-Jordan Goodwin,1630692,Jump Shot,2,9,1,JUMP_SHOTS,,2024
-Jordan Goodwin,1630692,Jump Shot,3,95,28,JUMP_SHOTS,,2024
-Jordan Goodwin,1630692,Pullup Jump Shot,2,20,8,JUMP_SHOTS,,2024
-Jordan Goodwin,1630692,Pullup Jump Shot,3,24,4,JUMP_SHOTS,,2024
-Jordan Goodwin,1630692,Putback Layup,2,28,15,LAYUPS,,2024
-Jordan Goodwin,1630692,Reverse Layup,2,2,1,LAYUPS,,2024
-Jordan Goodwin,1630692,Running Jump Shot,2,1,0,JUMP_SHOTS,,2024
-Jordan Goodwin,1630692,Running Jump Shot,3,12,5,JUMP_SHOTS,,2024
-Jordan Goodwin,1630692,Standard Dunk,2,1,0,DUNKS,,2024
-Jordan Goodwin,1630692,Standard Layup,2,19,8,LAYUPS,,2024
-Jordan Goodwin,1630692,Step Back Jump Shot,2,14,8,JUMP_SHOTS,,2024
-Jordan Goodwin,1630692,Step Back Jump Shot,3,9,5,JUMP_SHOTS,,2024
-Jordan Goodwin,1630692,Turnaround Hook Shot,2,1,0,POST_MOVES,,2024
-Jordan Goodwin,1630692,Turnaround Jump Shot,2,11,5,JUMP_SHOTS,,2024
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Jordan Goodwin,1630692,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2022
+Jordan Goodwin,1630692,Jump Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2022
+Jordan Goodwin,1630692,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2022
+Jordan Goodwin,1630692,Cutting Layup Shot,2,7,4,Standard Layup,LAYUPS,2023
+Jordan Goodwin,1630692,Driving Dunk Shot,2,4,3,Driving Dunk,DUNKS,2023
+Jordan Goodwin,1630692,Driving Finger Roll Layup Shot,2,5,4,Finger Roll,LAYUPS,2023
+Jordan Goodwin,1630692,Driving Floating Bank Jump Shot,2,12,5,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Jordan Goodwin,1630692,Driving Floating Jump Shot,2,33,18,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Jordan Goodwin,1630692,Driving Hook Shot,2,2,2,Driving Hook Shot,POST_MOVES,2023
+Jordan Goodwin,1630692,Driving Layup Shot,2,39,21,Driving Layup,LAYUPS,2023
+Jordan Goodwin,1630692,Driving Reverse Layup Shot,2,2,1,Driving Layup,LAYUPS,2023
+Jordan Goodwin,1630692,Fadeaway Bank shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2023
+Jordan Goodwin,1630692,Fadeaway Jump Shot,2,5,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2023
+Jordan Goodwin,1630692,Floating Jump shot,2,12,4,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Jordan Goodwin,1630692,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2023
+Jordan Goodwin,1630692,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2023
+Jordan Goodwin,1630692,Jump Shot,2,86,29,2PT Jump Shot,TWO_POINT_JUMPERS,2023
+Jordan Goodwin,1630692,Layup Shot,2,7,5,Standard Layup,LAYUPS,2023
+Jordan Goodwin,1630692,Pullup Jump shot,2,58,19,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2023
+Jordan Goodwin,1630692,Putback Layup Shot,2,17,9,Putback Layup,LAYUPS,2023
+Jordan Goodwin,1630692,Running Dunk Shot,2,3,2,Standard Dunk,DUNKS,2023
+Jordan Goodwin,1630692,Running Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2023
+Jordan Goodwin,1630692,Running Jump Shot,2,4,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2023
+Jordan Goodwin,1630692,Running Layup Shot,2,10,8,Standard Layup,LAYUPS,2023
+Jordan Goodwin,1630692,Running Pull-Up Jump Shot,2,2,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2023
+Jordan Goodwin,1630692,Step Back Jump shot,2,20,10,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2023
+Jordan Goodwin,1630692,Tip Dunk Shot,2,2,0,Specialty Dunk,DUNKS,2023
+Jordan Goodwin,1630692,Tip Layup Shot,2,9,5,Putback Layup,LAYUPS,2023
+Jordan Goodwin,1630692,Turnaround Fadeaway shot,2,6,4,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2023
+Jordan Goodwin,1630692,Turnaround Jump Shot,2,3,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2023
+Jordan Goodwin,1630692,Cutting Finger Roll Layup Shot,2,3,3,Finger Roll,LAYUPS,2024
+Jordan Goodwin,1630692,Cutting Layup Shot,2,3,3,Standard Layup,LAYUPS,2024
+Jordan Goodwin,1630692,Driving Bank Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2024
+Jordan Goodwin,1630692,Driving Dunk Shot,2,2,1,Driving Dunk,DUNKS,2024
+Jordan Goodwin,1630692,Driving Finger Roll Layup Shot,2,19,11,Finger Roll,LAYUPS,2024
+Jordan Goodwin,1630692,Driving Floating Bank Jump Shot,2,12,5,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Jordan Goodwin,1630692,Driving Floating Bank Jump Shot,3,1,0,3PT Floating Jump Shot,FLOATING_SHOTS,2024
+Jordan Goodwin,1630692,Driving Floating Jump Shot,2,48,19,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Jordan Goodwin,1630692,Driving Layup Shot,2,25,7,Driving Layup,LAYUPS,2024
+Jordan Goodwin,1630692,Driving Reverse Layup Shot,2,3,2,Driving Layup,LAYUPS,2024
+Jordan Goodwin,1630692,Fadeaway Bank shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
+Jordan Goodwin,1630692,Fadeaway Jump Shot,2,6,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
+Jordan Goodwin,1630692,Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2024
+Jordan Goodwin,1630692,Floating Jump shot,2,10,2,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Jordan Goodwin,1630692,Hook Bank Shot,2,1,0,Hook Shot,POST_MOVES,2024
+Jordan Goodwin,1630692,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2024
+Jordan Goodwin,1630692,Jump Shot,2,9,1,2PT Jump Shot,TWO_POINT_JUMPERS,2024
+Jordan Goodwin,1630692,Jump Shot,3,95,28,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Jordan Goodwin,1630692,Layup Shot,2,7,3,Standard Layup,LAYUPS,2024
+Jordan Goodwin,1630692,Pullup Jump shot,2,20,8,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2024
+Jordan Goodwin,1630692,Pullup Jump shot,3,24,4,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
+Jordan Goodwin,1630692,Putback Layup Shot,2,12,8,Putback Layup,LAYUPS,2024
+Jordan Goodwin,1630692,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2024
+Jordan Goodwin,1630692,Running Dunk Shot,2,1,0,Standard Dunk,DUNKS,2024
+Jordan Goodwin,1630692,Running Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2024
+Jordan Goodwin,1630692,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2024
+Jordan Goodwin,1630692,Running Jump Shot,3,10,5,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Jordan Goodwin,1630692,Running Layup Shot,2,9,2,Standard Layup,LAYUPS,2024
+Jordan Goodwin,1630692,Running Pull-Up Jump Shot,3,2,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Jordan Goodwin,1630692,Step Back Jump shot,2,14,8,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2024
+Jordan Goodwin,1630692,Step Back Jump shot,3,9,5,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
+Jordan Goodwin,1630692,Tip Layup Shot,2,16,7,Putback Layup,LAYUPS,2024
+Jordan Goodwin,1630692,Turnaround Fadeaway shot,2,8,3,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Jordan Goodwin,1630692,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2024
+Jordan Goodwin,1630692,Turnaround Jump Shot,2,3,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024

@@ -1,10 +1,10 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Alex Fudge,1641788,Driving Dunk,2,1,1,DUNKS,,2024
-Alex Fudge,1641788,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2024
-Alex Fudge,1641788,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2024
-Alex Fudge,1641788,Jump Shot,2,2,0,JUMP_SHOTS,,2024
-Alex Fudge,1641788,Jump Shot,3,5,1,JUMP_SHOTS,,2024
-Alex Fudge,1641788,Specialty Dunk,2,1,0,DUNKS,,2024
-Alex Fudge,1641788,Standard Dunk,2,1,1,DUNKS,,2024
-Alex Fudge,1641788,Standard Layup,2,2,1,LAYUPS,,2024
-Alex Fudge,1641788,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2024
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Alex Fudge,1641788,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2024
+Alex Fudge,1641788,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Alex Fudge,1641788,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
+Alex Fudge,1641788,Jump Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2024
+Alex Fudge,1641788,Jump Shot,3,5,1,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Alex Fudge,1641788,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2024
+Alex Fudge,1641788,Running Layup Shot,2,2,1,Standard Layup,LAYUPS,2024
+Alex Fudge,1641788,Tip Dunk Shot,2,1,0,Specialty Dunk,DUNKS,2024
+Alex Fudge,1641788,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024

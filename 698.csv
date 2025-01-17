@@ -1,15 +1,15 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Eddie Johnson,698,Driving Layup,2,15,11,LAYUPS,,1997
-Eddie Johnson,698,Hook Shot,2,1,1,POST_MOVES,,1997
-Eddie Johnson,698,Jump Shot,2,287,118,JUMP_SHOTS,,1997
-Eddie Johnson,698,Running Jump Shot,2,9,3,JUMP_SHOTS,,1997
-Eddie Johnson,698,Standard Layup,2,48,25,LAYUPS,,1997
-Eddie Johnson,698,Tip Shot,2,2,2,TIP_SHOTS,,1997
-Eddie Johnson,698,Driving Layup,2,31,20,LAYUPS,,1998
-Eddie Johnson,698,Hook Shot,2,7,4,POST_MOVES,,1998
-Eddie Johnson,698,Jump Shot,2,426,159,JUMP_SHOTS,,1998
-Eddie Johnson,698,Running Jump Shot,2,12,5,JUMP_SHOTS,,1998
-Eddie Johnson,698,Standard Layup,2,61,35,LAYUPS,,1998
-Eddie Johnson,698,Tip Shot,2,7,4,TIP_SHOTS,,1998
-Eddie Johnson,698,Jump Shot,2,10,3,JUMP_SHOTS,,1999
-Eddie Johnson,698,Standard Layup,2,3,3,LAYUPS,,1999
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Eddie Johnson,698,Driving Layup Shot,2,15,11,Driving Layup,LAYUPS,1997
+Eddie Johnson,698,Hook Shot,2,1,1,Hook Shot,POST_MOVES,1997
+Eddie Johnson,698,Jump Shot,2,287,118,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Eddie Johnson,698,Layup Shot,2,48,25,Standard Layup,LAYUPS,1997
+Eddie Johnson,698,Running Jump Shot,2,9,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
+Eddie Johnson,698,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,1997
+Eddie Johnson,698,Driving Layup Shot,2,31,20,Driving Layup,LAYUPS,1998
+Eddie Johnson,698,Hook Shot,2,7,4,Hook Shot,POST_MOVES,1998
+Eddie Johnson,698,Jump Shot,2,426,159,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+Eddie Johnson,698,Layup Shot,2,61,35,Standard Layup,LAYUPS,1998
+Eddie Johnson,698,Running Jump Shot,2,12,5,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
+Eddie Johnson,698,Tip Shot,2,7,4,Tip Shot,TIP_SHOTS,1998
+Eddie Johnson,698,Jump Shot,2,10,3,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Eddie Johnson,698,Layup Shot,2,3,3,Standard Layup,LAYUPS,1999

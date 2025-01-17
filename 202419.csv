@@ -1,30 +1,39 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Chris Johnson,202419,Alley Oop Dunk,2,4,2,DUNKS,,2011
-Chris Johnson,202419,Jump Shot,2,7,0,JUMP_SHOTS,,2011
-Chris Johnson,202419,Putback Dunk,2,1,1,DUNKS,,2011
-Chris Johnson,202419,Reverse Layup,2,3,2,LAYUPS,,2011
-Chris Johnson,202419,Standard Dunk,2,2,2,DUNKS,,2011
-Chris Johnson,202419,Standard Layup,2,4,2,LAYUPS,,2011
-Chris Johnson,202419,Alley Oop Dunk,2,1,1,DUNKS,,2012
-Chris Johnson,202419,Driving Dunk,2,1,1,DUNKS,,2012
-Chris Johnson,202419,Finger Roll,2,2,1,LAYUPS,,2012
-Chris Johnson,202419,Hook Shot,2,1,1,POST_MOVES,,2012
-Chris Johnson,202419,Jump Shot,2,12,3,JUMP_SHOTS,,2012
-Chris Johnson,202419,Putback Layup,2,2,1,LAYUPS,,2012
-Chris Johnson,202419,Reverse Layup,2,1,1,LAYUPS,,2012
-Chris Johnson,202419,Running Jump Shot,2,2,0,JUMP_SHOTS,,2012
-Chris Johnson,202419,Standard Dunk,2,4,4,DUNKS,,2012
-Chris Johnson,202419,Standard Layup,2,7,4,LAYUPS,,2012
-Chris Johnson,202419,Tip Shot,2,4,1,TIP_SHOTS,,2012
-Chris Johnson,202419,Turnaround Jump Shot,2,4,2,JUMP_SHOTS,,2012
-Chris Johnson,202419,Alley Oop Dunk,2,12,11,DUNKS,,2013
-Chris Johnson,202419,Alley Oop Layup,2,2,1,LAYUPS,,2013
-Chris Johnson,202419,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2013
-Chris Johnson,202419,Hook Shot,2,2,1,POST_MOVES,,2013
-Chris Johnson,202419,Jump Shot,2,27,9,JUMP_SHOTS,,2013
-Chris Johnson,202419,Putback Dunk,2,1,1,DUNKS,,2013
-Chris Johnson,202419,Reverse Dunk,2,1,1,DUNKS,,2013
-Chris Johnson,202419,Standard Dunk,2,11,11,DUNKS,,2013
-Chris Johnson,202419,Standard Layup,2,11,7,LAYUPS,,2013
-Chris Johnson,202419,Tip Shot,2,2,2,TIP_SHOTS,,2013
-Chris Johnson,202419,Turnaround Jump Shot,2,5,4,JUMP_SHOTS,,2013
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Chris Johnson,202419,Alley Oop Dunk Shot,2,4,2,Alley Oop Dunk,DUNKS,2011
+Chris Johnson,202419,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2011
+Chris Johnson,202419,Jump Shot,2,7,0,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Chris Johnson,202419,Layup Shot,2,4,2,Standard Layup,LAYUPS,2011
+Chris Johnson,202419,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2011
+Chris Johnson,202419,Reverse Layup Shot,2,3,2,Reverse Layup,LAYUPS,2011
+Chris Johnson,202419,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2012
+Chris Johnson,202419,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2012
+Chris Johnson,202419,Driving Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2012
+Chris Johnson,202419,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2012
+Chris Johnson,202419,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2012
+Chris Johnson,202419,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2012
+Chris Johnson,202419,Jump Shot,2,12,3,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Chris Johnson,202419,Layup Shot,2,7,4,Standard Layup,LAYUPS,2012
+Chris Johnson,202419,Putback Layup Shot,2,2,1,Putback Layup,LAYUPS,2012
+Chris Johnson,202419,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2012
+Chris Johnson,202419,Running Bank shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2012
+Chris Johnson,202419,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2012
+Chris Johnson,202419,Slam Dunk Shot,2,3,3,Standard Dunk,DUNKS,2012
+Chris Johnson,202419,Tip Shot,2,4,1,Tip Shot,TIP_SHOTS,2012
+Chris Johnson,202419,Turnaround Bank shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2012
+Chris Johnson,202419,Turnaround Fadeaway shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2012
+Chris Johnson,202419,Turnaround Jump Shot,2,2,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2012
+Chris Johnson,202419,Alley Oop Dunk Shot,2,12,11,Alley Oop Dunk,DUNKS,2013
+Chris Johnson,202419,Alley Oop Layup shot,2,2,1,Alley Oop Layup,LAYUPS,2013
+Chris Johnson,202419,Dunk Shot,2,7,7,Standard Dunk,DUNKS,2013
+Chris Johnson,202419,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2013
+Chris Johnson,202419,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2013
+Chris Johnson,202419,Jump Hook Shot,2,1,0,Hook Shot,POST_MOVES,2013
+Chris Johnson,202419,Jump Shot,2,27,9,2PT Jump Shot,TWO_POINT_JUMPERS,2013
+Chris Johnson,202419,Layup Shot,2,11,7,Standard Layup,LAYUPS,2013
+Chris Johnson,202419,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2013
+Chris Johnson,202419,Reverse Dunk Shot,2,1,1,Reverse Dunk,DUNKS,2013
+Chris Johnson,202419,Slam Dunk Shot,2,4,4,Standard Dunk,DUNKS,2013
+Chris Johnson,202419,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,2013
+Chris Johnson,202419,Turnaround Bank shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2013
+Chris Johnson,202419,Turnaround Fadeaway shot,2,2,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2013
+Chris Johnson,202419,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2013

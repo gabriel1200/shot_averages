@@ -1,9 +1,11 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Billy Garrett,1628656,Driving Layup,2,3,2,LAYUPS,,2019
-Billy Garrett,1628656,Finger Roll,2,2,1,LAYUPS,,2019
-Billy Garrett,1628656,Floating Jump Shot,2,4,3,FLOATING_SHOTS,,2019
-Billy Garrett,1628656,Jump Shot,2,10,2,JUMP_SHOTS,,2019
-Billy Garrett,1628656,Pullup Jump Shot,2,4,1,JUMP_SHOTS,,2019
-Billy Garrett,1628656,Running Jump Shot,2,1,0,JUMP_SHOTS,,2019
-Billy Garrett,1628656,Standard Layup,2,1,1,LAYUPS,,2019
-Billy Garrett,1628656,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2019
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Billy Garrett,1628656,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2019
+Billy Garrett,1628656,Driving Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2019
+Billy Garrett,1628656,Driving Floating Jump Shot,2,3,2,2PT Floating Jump Shot,FLOATING_SHOTS,2019
+Billy Garrett,1628656,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2019
+Billy Garrett,1628656,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2019
+Billy Garrett,1628656,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2019
+Billy Garrett,1628656,Jump Shot,2,10,2,2PT Jump Shot,TWO_POINT_JUMPERS,2019
+Billy Garrett,1628656,Pullup Jump shot,2,4,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2019
+Billy Garrett,1628656,Running Pull-Up Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2019
+Billy Garrett,1628656,Turnaround Fadeaway shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2019

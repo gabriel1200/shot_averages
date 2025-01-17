@@ -1,25 +1,33 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Leandro Bolmaro,1630195,Driving Hook Shot,2,1,0,POST_MOVES,,2022
-Leandro Bolmaro,1630195,Driving Layup,2,8,2,LAYUPS,,2022
-Leandro Bolmaro,1630195,Finger Roll,2,3,1,LAYUPS,,2022
-Leandro Bolmaro,1630195,Floating Jump Shot,2,2,0,FLOATING_SHOTS,,2022
-Leandro Bolmaro,1630195,Jump Shot,2,18,3,JUMP_SHOTS,,2022
-Leandro Bolmaro,1630195,Pullup Jump Shot,2,9,3,JUMP_SHOTS,,2022
-Leandro Bolmaro,1630195,Putback Layup,2,4,2,LAYUPS,,2022
-Leandro Bolmaro,1630195,Reverse Layup,2,1,0,LAYUPS,,2022
-Leandro Bolmaro,1630195,Running Jump Shot,2,1,1,JUMP_SHOTS,,2022
-Leandro Bolmaro,1630195,Specialty Dunk,2,1,1,DUNKS,,2022
-Leandro Bolmaro,1630195,Standard Dunk,2,1,1,DUNKS,,2022
-Leandro Bolmaro,1630195,Standard Layup,2,3,3,LAYUPS,,2022
-Leandro Bolmaro,1630195,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2022
-Leandro Bolmaro,1630195,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2022
-Leandro Bolmaro,1630195,Driving Hook Shot,2,1,0,POST_MOVES,,2023
-Leandro Bolmaro,1630195,Driving Layup,2,3,1,LAYUPS,,2023
-Leandro Bolmaro,1630195,Finger Roll,2,1,0,LAYUPS,,2023
-Leandro Bolmaro,1630195,Floating Jump Shot,2,2,0,FLOATING_SHOTS,,2023
-Leandro Bolmaro,1630195,Jump Shot,2,4,0,JUMP_SHOTS,,2023
-Leandro Bolmaro,1630195,Pullup Jump Shot,2,1,0,JUMP_SHOTS,,2023
-Leandro Bolmaro,1630195,Putback Layup,2,1,0,LAYUPS,,2023
-Leandro Bolmaro,1630195,Standard Layup,2,3,0,LAYUPS,,2023
-Leandro Bolmaro,1630195,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2023
-Leandro Bolmaro,1630195,Turnaround Jump Shot,2,3,2,JUMP_SHOTS,,2023
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Leandro Bolmaro,1630195,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2022
+Leandro Bolmaro,1630195,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2022
+Leandro Bolmaro,1630195,Driving Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2022
+Leandro Bolmaro,1630195,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Leandro Bolmaro,1630195,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2022
+Leandro Bolmaro,1630195,Driving Layup Shot,2,7,2,Driving Layup,LAYUPS,2022
+Leandro Bolmaro,1630195,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2022
+Leandro Bolmaro,1630195,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2022
+Leandro Bolmaro,1630195,Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2022
+Leandro Bolmaro,1630195,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Leandro Bolmaro,1630195,Jump Shot,2,18,3,2PT Jump Shot,TWO_POINT_JUMPERS,2022
+Leandro Bolmaro,1630195,Pullup Jump shot,2,9,3,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2022
+Leandro Bolmaro,1630195,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2022
+Leandro Bolmaro,1630195,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2022
+Leandro Bolmaro,1630195,Running Layup Shot,2,2,2,Standard Layup,LAYUPS,2022
+Leandro Bolmaro,1630195,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2022
+Leandro Bolmaro,1630195,Tip Layup Shot,2,4,2,Putback Layup,LAYUPS,2022
+Leandro Bolmaro,1630195,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2022
+Leandro Bolmaro,1630195,Driving Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2023
+Leandro Bolmaro,1630195,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Leandro Bolmaro,1630195,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Leandro Bolmaro,1630195,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2023
+Leandro Bolmaro,1630195,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2023
+Leandro Bolmaro,1630195,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2023
+Leandro Bolmaro,1630195,Jump Shot,2,4,0,2PT Jump Shot,TWO_POINT_JUMPERS,2023
+Leandro Bolmaro,1630195,Layup Shot,2,2,0,Standard Layup,LAYUPS,2023
+Leandro Bolmaro,1630195,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2023
+Leandro Bolmaro,1630195,Putback Layup Shot,2,1,0,Putback Layup,LAYUPS,2023
+Leandro Bolmaro,1630195,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2023
+Leandro Bolmaro,1630195,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2023
+Leandro Bolmaro,1630195,Turnaround Bank shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2023
+Leandro Bolmaro,1630195,Turnaround Fadeaway shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2023

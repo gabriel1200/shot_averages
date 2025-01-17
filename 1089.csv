@@ -1,10 +1,11 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Kevin Salvadori,1089,Driving Dunk,2,1,1,DUNKS,,1997
-Kevin Salvadori,1089,Hook Shot,2,4,0,POST_MOVES,,1997
-Kevin Salvadori,1089,Jump Shot,2,12,4,JUMP_SHOTS,,1997
-Kevin Salvadori,1089,Standard Dunk,2,4,3,DUNKS,,1997
-Kevin Salvadori,1089,Standard Layup,2,11,3,LAYUPS,,1997
-Kevin Salvadori,1089,Tip Shot,2,1,1,TIP_SHOTS,,1997
-Kevin Salvadori,1089,Hook Shot,2,1,0,POST_MOVES,,1998
-Kevin Salvadori,1089,Jump Shot,2,9,0,JUMP_SHOTS,,1998
-Kevin Salvadori,1089,Standard Layup,2,3,1,LAYUPS,,1998
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Kevin Salvadori,1089,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,1997
+Kevin Salvadori,1089,Dunk Shot,2,2,1,Standard Dunk,DUNKS,1997
+Kevin Salvadori,1089,Hook Shot,2,4,0,Hook Shot,POST_MOVES,1997
+Kevin Salvadori,1089,Jump Shot,2,12,4,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Kevin Salvadori,1089,Layup Shot,2,11,3,Standard Layup,LAYUPS,1997
+Kevin Salvadori,1089,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,1997
+Kevin Salvadori,1089,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,1997
+Kevin Salvadori,1089,Hook Shot,2,1,0,Hook Shot,POST_MOVES,1998
+Kevin Salvadori,1089,Jump Shot,2,9,0,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+Kevin Salvadori,1089,Layup Shot,2,3,1,Standard Layup,LAYUPS,1998

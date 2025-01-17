@@ -1,50 +1,66 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Omer Yurtseven,1630209,Alley Oop Dunk,2,12,12,DUNKS,,2022
-Omer Yurtseven,1630209,Alley Oop Layup,2,16,12,LAYUPS,,2022
-Omer Yurtseven,1630209,Driving Dunk,2,1,1,DUNKS,,2022
-Omer Yurtseven,1630209,Driving Hook Shot,2,3,3,POST_MOVES,,2022
-Omer Yurtseven,1630209,Driving Layup,2,2,0,LAYUPS,,2022
-Omer Yurtseven,1630209,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2022
-Omer Yurtseven,1630209,Floating Jump Shot,2,30,14,FLOATING_SHOTS,,2022
-Omer Yurtseven,1630209,Hook Shot,2,33,13,POST_MOVES,,2022
-Omer Yurtseven,1630209,Jump Shot,2,39,12,JUMP_SHOTS,,2022
-Omer Yurtseven,1630209,Pullup Jump Shot,2,1,0,JUMP_SHOTS,,2022
-Omer Yurtseven,1630209,Putback Dunk,2,2,1,DUNKS,,2022
-Omer Yurtseven,1630209,Putback Layup,2,26,14,LAYUPS,,2022
-Omer Yurtseven,1630209,Reverse Layup,2,1,0,LAYUPS,,2022
-Omer Yurtseven,1630209,Running Jump Shot,2,1,0,JUMP_SHOTS,,2022
-Omer Yurtseven,1630209,Specialty Dunk,2,16,14,DUNKS,,2022
-Omer Yurtseven,1630209,Standard Dunk,2,13,11,DUNKS,,2022
-Omer Yurtseven,1630209,Standard Layup,2,28,15,LAYUPS,,2022
-Omer Yurtseven,1630209,Turnaround Hook Shot,2,11,5,POST_MOVES,,2022
-Omer Yurtseven,1630209,Turnaround Jump Shot,2,11,3,JUMP_SHOTS,,2022
-Omer Yurtseven,1630209,Driving Hook Shot,2,1,0,POST_MOVES,,2023
-Omer Yurtseven,1630209,Floating Jump Shot,2,4,3,FLOATING_SHOTS,,2023
-Omer Yurtseven,1630209,Hook Shot,2,2,1,POST_MOVES,,2023
-Omer Yurtseven,1630209,Jump Shot,2,8,4,JUMP_SHOTS,,2023
-Omer Yurtseven,1630209,Putback Layup,2,1,0,LAYUPS,,2023
-Omer Yurtseven,1630209,Reverse Layup,2,1,1,LAYUPS,,2023
-Omer Yurtseven,1630209,Specialty Dunk,2,2,1,DUNKS,,2023
-Omer Yurtseven,1630209,Standard Layup,2,3,3,LAYUPS,,2023
-Omer Yurtseven,1630209,Turnaround Hook Shot,2,4,3,POST_MOVES,,2023
-Omer Yurtseven,1630209,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2023
-Omer Yurtseven,1630209,Alley Oop Dunk,2,10,8,DUNKS,,2024
-Omer Yurtseven,1630209,Alley Oop Layup,2,8,4,LAYUPS,,2024
-Omer Yurtseven,1630209,Driving Hook Shot,2,3,0,POST_MOVES,,2024
-Omer Yurtseven,1630209,Driving Layup,2,1,0,LAYUPS,,2024
-Omer Yurtseven,1630209,Floating Jump Shot,2,22,11,FLOATING_SHOTS,,2024
-Omer Yurtseven,1630209,Hook Shot,2,17,12,POST_MOVES,,2024
-Omer Yurtseven,1630209,Jump Shot,2,6,4,JUMP_SHOTS,,2024
-Omer Yurtseven,1630209,Jump Shot,3,22,4,JUMP_SHOTS,,2024
-Omer Yurtseven,1630209,Pullup Jump Shot,2,1,1,JUMP_SHOTS,,2024
-Omer Yurtseven,1630209,Putback Dunk,2,4,4,DUNKS,,2024
-Omer Yurtseven,1630209,Putback Layup,2,18,11,LAYUPS,,2024
-Omer Yurtseven,1630209,Reverse Dunk,2,1,0,DUNKS,,2024
-Omer Yurtseven,1630209,Reverse Layup,2,2,2,LAYUPS,,2024
-Omer Yurtseven,1630209,Running Jump Shot,3,1,1,JUMP_SHOTS,,2024
-Omer Yurtseven,1630209,Specialty Dunk,2,17,15,DUNKS,,2024
-Omer Yurtseven,1630209,Standard Dunk,2,2,2,DUNKS,,2024
-Omer Yurtseven,1630209,Standard Layup,2,15,6,LAYUPS,,2024
-Omer Yurtseven,1630209,Step Back Jump Shot,3,1,0,JUMP_SHOTS,,2024
-Omer Yurtseven,1630209,Turnaround Hook Shot,2,29,14,POST_MOVES,,2024
-Omer Yurtseven,1630209,Turnaround Jump Shot,2,4,0,JUMP_SHOTS,,2024
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Omer Yurtseven,1630209,Alley Oop Dunk Shot,2,12,12,Alley Oop Dunk,DUNKS,2022
+Omer Yurtseven,1630209,Alley Oop Layup shot,2,15,11,Alley Oop Layup,LAYUPS,2022
+Omer Yurtseven,1630209,Cutting Dunk Shot,2,12,10,Specialty Dunk,DUNKS,2022
+Omer Yurtseven,1630209,Cutting Layup Shot,2,8,3,Standard Layup,LAYUPS,2022
+Omer Yurtseven,1630209,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2022
+Omer Yurtseven,1630209,Driving Floating Bank Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Omer Yurtseven,1630209,Driving Floating Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Omer Yurtseven,1630209,Driving Hook Shot,2,3,3,Driving Hook Shot,POST_MOVES,2022
+Omer Yurtseven,1630209,Driving Layup Shot,2,2,0,Driving Layup,LAYUPS,2022
+Omer Yurtseven,1630209,Dunk Shot,2,10,8,Standard Dunk,DUNKS,2022
+Omer Yurtseven,1630209,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2022
+Omer Yurtseven,1630209,Floating Jump shot,2,28,12,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Omer Yurtseven,1630209,Hook Shot,2,33,13,Hook Shot,POST_MOVES,2022
+Omer Yurtseven,1630209,Jump Bank Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2022
+Omer Yurtseven,1630209,Jump Shot,2,37,12,2PT Jump Shot,TWO_POINT_JUMPERS,2022
+Omer Yurtseven,1630209,Layup Shot,2,20,12,Standard Layup,LAYUPS,2022
+Omer Yurtseven,1630209,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2022
+Omer Yurtseven,1630209,Putback Dunk Shot,2,2,1,Putback Dunk,DUNKS,2022
+Omer Yurtseven,1630209,Putback Layup Shot,2,13,8,Putback Layup,LAYUPS,2022
+Omer Yurtseven,1630209,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2022
+Omer Yurtseven,1630209,Running Alley Oop Layup Shot,2,1,1,Alley Oop Layup,LAYUPS,2022
+Omer Yurtseven,1630209,Running Dunk Shot,2,3,3,Standard Dunk,DUNKS,2022
+Omer Yurtseven,1630209,Running Pull-Up Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2022
+Omer Yurtseven,1630209,Tip Dunk Shot,2,4,4,Specialty Dunk,DUNKS,2022
+Omer Yurtseven,1630209,Tip Layup Shot,2,13,6,Putback Layup,LAYUPS,2022
+Omer Yurtseven,1630209,Turnaround Fadeaway shot,2,5,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2022
+Omer Yurtseven,1630209,Turnaround Hook Shot,2,11,5,Turnaround Hook Shot,POST_MOVES,2022
+Omer Yurtseven,1630209,Turnaround Jump Shot,2,6,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2022
+Omer Yurtseven,1630209,Cutting Dunk Shot,2,1,0,Specialty Dunk,DUNKS,2023
+Omer Yurtseven,1630209,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2023
+Omer Yurtseven,1630209,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2023
+Omer Yurtseven,1630209,Floating Jump shot,2,4,3,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Omer Yurtseven,1630209,Hook Shot,2,2,1,Hook Shot,POST_MOVES,2023
+Omer Yurtseven,1630209,Jump Shot,2,8,4,2PT Jump Shot,TWO_POINT_JUMPERS,2023
+Omer Yurtseven,1630209,Layup Shot,2,2,2,Standard Layup,LAYUPS,2023
+Omer Yurtseven,1630209,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2023
+Omer Yurtseven,1630209,Tip Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2023
+Omer Yurtseven,1630209,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2023
+Omer Yurtseven,1630209,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2023
+Omer Yurtseven,1630209,Turnaround Hook Shot,2,4,3,Turnaround Hook Shot,POST_MOVES,2023
+Omer Yurtseven,1630209,Alley Oop Dunk Shot,2,10,8,Alley Oop Dunk,DUNKS,2024
+Omer Yurtseven,1630209,Alley Oop Layup shot,2,8,4,Alley Oop Layup,LAYUPS,2024
+Omer Yurtseven,1630209,Cutting Dunk Shot,2,8,6,Specialty Dunk,DUNKS,2024
+Omer Yurtseven,1630209,Cutting Layup Shot,2,7,3,Standard Layup,LAYUPS,2024
+Omer Yurtseven,1630209,Driving Hook Shot,2,3,0,Driving Hook Shot,POST_MOVES,2024
+Omer Yurtseven,1630209,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2024
+Omer Yurtseven,1630209,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2024
+Omer Yurtseven,1630209,Floating Jump shot,2,22,11,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Omer Yurtseven,1630209,Hook Bank Shot,2,1,0,Hook Shot,POST_MOVES,2024
+Omer Yurtseven,1630209,Hook Shot,2,16,12,Hook Shot,POST_MOVES,2024
+Omer Yurtseven,1630209,Jump Shot,2,6,4,2PT Jump Shot,TWO_POINT_JUMPERS,2024
+Omer Yurtseven,1630209,Jump Shot,3,22,4,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Omer Yurtseven,1630209,Layup Shot,2,8,3,Standard Layup,LAYUPS,2024
+Omer Yurtseven,1630209,Pullup Jump shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2024
+Omer Yurtseven,1630209,Putback Dunk Shot,2,4,4,Putback Dunk,DUNKS,2024
+Omer Yurtseven,1630209,Putback Layup Shot,2,10,6,Putback Layup,LAYUPS,2024
+Omer Yurtseven,1630209,Reverse Dunk Shot,2,1,0,Reverse Dunk,DUNKS,2024
+Omer Yurtseven,1630209,Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2024
+Omer Yurtseven,1630209,Running Jump Shot,3,1,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Omer Yurtseven,1630209,Step Back Jump shot,3,1,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
+Omer Yurtseven,1630209,Tip Dunk Shot,2,9,9,Specialty Dunk,DUNKS,2024
+Omer Yurtseven,1630209,Tip Layup Shot,2,8,5,Putback Layup,LAYUPS,2024
+Omer Yurtseven,1630209,Turnaround Fadeaway shot,2,2,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Omer Yurtseven,1630209,Turnaround Hook Shot,2,29,14,Turnaround Hook Shot,POST_MOVES,2024
+Omer Yurtseven,1630209,Turnaround Jump Shot,2,2,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024

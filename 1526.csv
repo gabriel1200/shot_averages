@@ -1,9 +1,10 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-James Cotton,1526,Jump Shot,2,11,2,JUMP_SHOTS,,1998
-James Cotton,1526,Standard Dunk,2,2,1,DUNKS,,1998
-James Cotton,1526,Standard Layup,2,8,5,LAYUPS,,1998
-James Cotton,1526,Driving Layup,2,2,0,LAYUPS,,1999
-James Cotton,1526,Jump Shot,2,10,2,JUMP_SHOTS,,1999
-James Cotton,1526,Running Jump Shot,2,1,1,JUMP_SHOTS,,1999
-James Cotton,1526,Standard Dunk,2,1,1,DUNKS,,1999
-James Cotton,1526,Standard Layup,2,4,2,LAYUPS,,1999
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+James Cotton,1526,Dunk Shot,2,1,0,Standard Dunk,DUNKS,1998
+James Cotton,1526,Jump Shot,2,11,2,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+James Cotton,1526,Layup Shot,2,8,5,Standard Layup,LAYUPS,1998
+James Cotton,1526,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,1998
+James Cotton,1526,Driving Layup Shot,2,2,0,Driving Layup,LAYUPS,1999
+James Cotton,1526,Dunk Shot,2,1,1,Standard Dunk,DUNKS,1999
+James Cotton,1526,Jump Shot,2,10,2,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+James Cotton,1526,Layup Shot,2,4,2,Standard Layup,LAYUPS,1999
+James Cotton,1526,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999

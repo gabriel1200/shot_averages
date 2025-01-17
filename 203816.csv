@@ -1,6 +1,6 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Scotty Hopson,203816,Jump Shot,2,4,0,JUMP_SHOTS,,2014
-Scotty Hopson,203816,Driving Layup,2,1,0,LAYUPS,,2018
-Scotty Hopson,203816,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2022
-Scotty Hopson,203816,Jump Shot,2,1,0,JUMP_SHOTS,,2022
-Scotty Hopson,203816,Pullup Jump Shot,2,2,2,JUMP_SHOTS,,2022
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Scotty Hopson,203816,Jump Shot,2,4,0,2PT Jump Shot,TWO_POINT_JUMPERS,2014
+Scotty Hopson,203816,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2018
+Scotty Hopson,203816,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Scotty Hopson,203816,Jump Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2022
+Scotty Hopson,203816,Pullup Jump shot,2,2,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2022

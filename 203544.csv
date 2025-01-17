@@ -1,35 +1,43 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Pero Antic,203544,Alley Oop Dunk,2,1,1,DUNKS,,2014
-Pero Antic,203544,Alley Oop Layup,2,2,1,LAYUPS,,2014
-Pero Antic,203544,Driving Dunk,2,1,1,DUNKS,,2014
-Pero Antic,203544,Driving Jump Shot,2,6,2,JUMP_SHOTS,,2014
-Pero Antic,203544,Driving Layup,2,7,2,LAYUPS,,2014
-Pero Antic,203544,Fadeaway Jump Shot,2,3,2,JUMP_SHOTS,,2014
-Pero Antic,203544,Jump Shot,2,207,67,JUMP_SHOTS,,2014
-Pero Antic,203544,Putback Dunk,2,2,2,DUNKS,,2014
-Pero Antic,203544,Putback Layup,2,4,2,LAYUPS,,2014
-Pero Antic,203544,Reverse Layup,2,1,0,LAYUPS,,2014
-Pero Antic,203544,Running Jump Shot,2,4,2,JUMP_SHOTS,,2014
-Pero Antic,203544,Standard Dunk,2,8,8,DUNKS,,2014
-Pero Antic,203544,Standard Layup,2,25,16,LAYUPS,,2014
-Pero Antic,203544,Step Back Jump Shot,2,5,3,JUMP_SHOTS,,2014
-Pero Antic,203544,Tip Shot,2,15,12,TIP_SHOTS,,2014
-Pero Antic,203544,Turnaround Jump Shot,2,3,2,JUMP_SHOTS,,2014
-Pero Antic,203544,Alley Oop Layup,2,1,1,LAYUPS,,2015
-Pero Antic,203544,Driving Dunk,2,1,1,DUNKS,,2015
-Pero Antic,203544,Driving Jump Shot,2,1,1,JUMP_SHOTS,,2015
-Pero Antic,203544,Driving Layup,2,4,1,LAYUPS,,2015
-Pero Antic,203544,Fadeaway Jump Shot,2,6,1,JUMP_SHOTS,,2015
-Pero Antic,203544,Finger Roll,2,1,0,LAYUPS,,2015
-Pero Antic,203544,Floating Jump Shot,2,1,1,FLOATING_SHOTS,,2015
-Pero Antic,203544,Jump Shot,2,211,65,JUMP_SHOTS,,2015
-Pero Antic,203544,Putback Dunk,2,1,1,DUNKS,,2015
-Pero Antic,203544,Putback Layup,2,12,5,LAYUPS,,2015
-Pero Antic,203544,Reverse Layup,2,3,3,LAYUPS,,2015
-Pero Antic,203544,Running Jump Shot,2,1,0,JUMP_SHOTS,,2015
-Pero Antic,203544,Standard Dunk,2,4,4,DUNKS,,2015
-Pero Antic,203544,Standard Layup,2,33,18,LAYUPS,,2015
-Pero Antic,203544,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2015
-Pero Antic,203544,Tip Shot,2,12,5,TIP_SHOTS,,2015
-Pero Antic,203544,Turnaround Hook Shot,2,1,0,POST_MOVES,,2015
-Pero Antic,203544,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2015
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Pero Antic,203544,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2014
+Pero Antic,203544,Alley Oop Layup shot,2,2,1,Alley Oop Layup,LAYUPS,2014
+Pero Antic,203544,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2014
+Pero Antic,203544,Driving Jump shot,2,6,2,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2014
+Pero Antic,203544,Driving Layup Shot,2,7,2,Driving Layup,LAYUPS,2014
+Pero Antic,203544,Dunk Shot,2,6,6,Standard Dunk,DUNKS,2014
+Pero Antic,203544,Fadeaway Bank shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2014
+Pero Antic,203544,Fadeaway Jump Shot,2,2,2,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2014
+Pero Antic,203544,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2014
+Pero Antic,203544,Jump Shot,2,206,66,2PT Jump Shot,TWO_POINT_JUMPERS,2014
+Pero Antic,203544,Layup Shot,2,21,14,Standard Layup,LAYUPS,2014
+Pero Antic,203544,Putback Dunk Shot,2,2,2,Putback Dunk,DUNKS,2014
+Pero Antic,203544,Putback Layup Shot,2,4,2,Putback Layup,LAYUPS,2014
+Pero Antic,203544,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2014
+Pero Antic,203544,Running Bank shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2014
+Pero Antic,203544,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2014
+Pero Antic,203544,Running Jump Shot,2,3,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2014
+Pero Antic,203544,Running Layup Shot,2,4,2,Standard Layup,LAYUPS,2014
+Pero Antic,203544,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2014
+Pero Antic,203544,Step Back Jump shot,2,5,3,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2014
+Pero Antic,203544,Tip Shot,2,15,12,Tip Shot,TIP_SHOTS,2014
+Pero Antic,203544,Turnaround Jump Shot,2,3,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2014
+Pero Antic,203544,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2015
+Pero Antic,203544,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2015
+Pero Antic,203544,Driving Jump shot,2,1,1,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2015
+Pero Antic,203544,Driving Layup Shot,2,4,1,Driving Layup,LAYUPS,2015
+Pero Antic,203544,Dunk Shot,2,4,4,Standard Dunk,DUNKS,2015
+Pero Antic,203544,Fadeaway Jump Shot,2,6,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2015
+Pero Antic,203544,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2015
+Pero Antic,203544,Jump Bank Shot,2,3,1,2PT Jump Shot,TWO_POINT_JUMPERS,2015
+Pero Antic,203544,Jump Shot,2,208,64,2PT Jump Shot,TWO_POINT_JUMPERS,2015
+Pero Antic,203544,Layup Shot,2,30,15,Standard Layup,LAYUPS,2015
+Pero Antic,203544,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2015
+Pero Antic,203544,Putback Layup Shot,2,12,5,Putback Layup,LAYUPS,2015
+Pero Antic,203544,Reverse Layup Shot,2,3,3,Reverse Layup,LAYUPS,2015
+Pero Antic,203544,Running Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2015
+Pero Antic,203544,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2015
+Pero Antic,203544,Running Layup Shot,2,3,3,Standard Layup,LAYUPS,2015
+Pero Antic,203544,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2015
+Pero Antic,203544,Tip Shot,2,12,5,Tip Shot,TIP_SHOTS,2015
+Pero Antic,203544,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2015
+Pero Antic,203544,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2015

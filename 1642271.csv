@@ -1,20 +1,33 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Kyle Filipowski,1642271,Alley Oop Layup,2,2,0,LAYUPS,,2025
-Kyle Filipowski,1642271,Driving Dunk,2,2,2,DUNKS,,2025
-Kyle Filipowski,1642271,Driving Hook Shot,2,1,1,POST_MOVES,,2025
-Kyle Filipowski,1642271,Driving Layup,2,14,7,LAYUPS,,2025
-Kyle Filipowski,1642271,Fadeaway Jump Shot,2,2,0,JUMP_SHOTS,,2025
-Kyle Filipowski,1642271,Finger Roll,2,4,4,LAYUPS,,2025
-Kyle Filipowski,1642271,Floating Jump Shot,2,4,2,FLOATING_SHOTS,,2025
-Kyle Filipowski,1642271,Hook Shot,2,1,1,POST_MOVES,,2025
-Kyle Filipowski,1642271,Jump Shot,2,3,3,JUMP_SHOTS,,2025
-Kyle Filipowski,1642271,Jump Shot,3,50,15,JUMP_SHOTS,,2025
-Kyle Filipowski,1642271,Pullup Jump Shot,3,3,0,JUMP_SHOTS,,2025
-Kyle Filipowski,1642271,Putback Dunk,2,2,1,DUNKS,,2025
-Kyle Filipowski,1642271,Putback Layup,2,4,1,LAYUPS,,2025
-Kyle Filipowski,1642271,Running Jump Shot,3,5,3,JUMP_SHOTS,,2025
-Kyle Filipowski,1642271,Specialty Dunk,2,6,6,DUNKS,,2025
-Kyle Filipowski,1642271,Standard Dunk,2,5,4,DUNKS,,2025
-Kyle Filipowski,1642271,Standard Layup,2,19,11,LAYUPS,,2025
-Kyle Filipowski,1642271,Turnaround Hook Shot,2,4,3,POST_MOVES,,2025
-Kyle Filipowski,1642271,Turnaround Jump Shot,2,4,2,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Kyle Filipowski,1642271,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2025
+Kyle Filipowski,1642271,Cutting Dunk Shot,2,6,6,Specialty Dunk,DUNKS,2025
+Kyle Filipowski,1642271,Cutting Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2025
+Kyle Filipowski,1642271,Cutting Layup Shot,2,8,5,Standard Layup,LAYUPS,2025
+Kyle Filipowski,1642271,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2025
+Kyle Filipowski,1642271,Driving Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2025
+Kyle Filipowski,1642271,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Kyle Filipowski,1642271,Driving Floating Jump Shot,2,3,2,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Kyle Filipowski,1642271,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2025
+Kyle Filipowski,1642271,Driving Layup Shot,2,14,7,Driving Layup,LAYUPS,2025
+Kyle Filipowski,1642271,Dunk Shot,2,3,2,Standard Dunk,DUNKS,2025
+Kyle Filipowski,1642271,Fadeaway Jump Shot,2,2,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
+Kyle Filipowski,1642271,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2025
+Kyle Filipowski,1642271,Jump Bank Shot,2,2,2,2PT Jump Shot,TWO_POINT_JUMPERS,2025
+Kyle Filipowski,1642271,Jump Bank Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Kyle Filipowski,1642271,Jump Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2025
+Kyle Filipowski,1642271,Jump Shot,3,49,15,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Kyle Filipowski,1642271,Layup Shot,2,6,2,Standard Layup,LAYUPS,2025
+Kyle Filipowski,1642271,Pullup Jump shot,3,3,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
+Kyle Filipowski,1642271,Putback Dunk Shot,2,2,1,Putback Dunk,DUNKS,2025
+Kyle Filipowski,1642271,Putback Layup Shot,2,3,1,Putback Layup,LAYUPS,2025
+Kyle Filipowski,1642271,Running Alley Oop Layup Shot,2,1,0,Alley Oop Layup,LAYUPS,2025
+Kyle Filipowski,1642271,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2025
+Kyle Filipowski,1642271,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2025
+Kyle Filipowski,1642271,Running Jump Shot,3,4,3,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Kyle Filipowski,1642271,Running Layup Shot,2,5,4,Standard Layup,LAYUPS,2025
+Kyle Filipowski,1642271,Running Pull-Up Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Kyle Filipowski,1642271,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2025
+Kyle Filipowski,1642271,Turnaround Bank Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2025
+Kyle Filipowski,1642271,Turnaround Fadeaway Bank Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+Kyle Filipowski,1642271,Turnaround Hook Shot,2,3,2,Turnaround Hook Shot,POST_MOVES,2025
+Kyle Filipowski,1642271,Turnaround Jump Shot,2,3,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025

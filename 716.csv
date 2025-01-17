@@ -1,7 +1,8 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Rumeal Robinson,716,Driving Dunk,2,1,1,DUNKS,,1997
-Rumeal Robinson,716,Driving Layup,2,19,15,LAYUPS,,1997
-Rumeal Robinson,716,Jump Shot,2,111,39,JUMP_SHOTS,,1997
-Rumeal Robinson,716,Jump Shot,3,3,0,JUMP_SHOTS,,1997
-Rumeal Robinson,716,Standard Dunk,2,2,2,DUNKS,,1997
-Rumeal Robinson,716,Standard Layup,2,28,9,LAYUPS,,1997
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Rumeal Robinson,716,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,1997
+Rumeal Robinson,716,Driving Layup Shot,2,19,15,Driving Layup,LAYUPS,1997
+Rumeal Robinson,716,Dunk Shot,2,1,1,Standard Dunk,DUNKS,1997
+Rumeal Robinson,716,Jump Shot,2,111,39,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Rumeal Robinson,716,Jump Shot,3,3,0,3PT Jump Shot,THREE_POINT_JUMPERS,1997
+Rumeal Robinson,716,Layup Shot,2,28,9,Standard Layup,LAYUPS,1997
+Rumeal Robinson,716,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,1997

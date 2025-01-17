@@ -1,5 +1,5 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Martin Lewis,729,Jump Shot,2,8,1,JUMP_SHOTS,,1997
-Martin Lewis,729,Running Jump Shot,2,1,1,JUMP_SHOTS,,1997
-Martin Lewis,729,Standard Dunk,2,1,1,DUNKS,,1997
-Martin Lewis,729,Standard Layup,2,4,3,LAYUPS,,1997
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Martin Lewis,729,Jump Shot,2,8,1,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Martin Lewis,729,Layup Shot,2,4,3,Standard Layup,LAYUPS,1997
+Martin Lewis,729,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
+Martin Lewis,729,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,1997

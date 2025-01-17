@@ -1,8 +1,8 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Kirk Haston,2213,Hook Shot,2,1,1,POST_MOVES,,2002
-Kirk Haston,2213,Jump Shot,2,31,8,JUMP_SHOTS,,2002
-Kirk Haston,2213,Standard Layup,2,5,1,LAYUPS,,2002
-Kirk Haston,2213,Tip Shot,2,1,0,TIP_SHOTS,,2002
-Kirk Haston,2213,Turnaround Hook Shot,2,1,1,POST_MOVES,,2002
-Kirk Haston,2213,Jump Shot,2,16,2,JUMP_SHOTS,,2003
-Kirk Haston,2213,Standard Layup,2,1,0,LAYUPS,,2003
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Kirk Haston,2213,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2002
+Kirk Haston,2213,Jump Shot,2,31,8,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Kirk Haston,2213,Layup Shot,2,5,1,Standard Layup,LAYUPS,2002
+Kirk Haston,2213,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2002
+Kirk Haston,2213,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2002
+Kirk Haston,2213,Jump Shot,2,16,2,2PT Jump Shot,TWO_POINT_JUMPERS,2003
+Kirk Haston,2213,Layup Shot,2,1,0,Standard Layup,LAYUPS,2003

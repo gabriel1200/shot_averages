@@ -1,27 +1,33 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Nolan Smith,202701,Driving Dunk,2,1,1,DUNKS,,2012
-Nolan Smith,202701,Driving Hook Shot,2,1,0,POST_MOVES,,2012
-Nolan Smith,202701,Driving Layup,2,17,10,LAYUPS,,2012
-Nolan Smith,202701,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2012
-Nolan Smith,202701,Floating Jump Shot,2,2,2,FLOATING_SHOTS,,2012
-Nolan Smith,202701,Jump Shot,2,108,31,JUMP_SHOTS,,2012
-Nolan Smith,202701,Pullup Jump Shot,2,9,5,JUMP_SHOTS,,2012
-Nolan Smith,202701,Putback Layup,2,1,0,LAYUPS,,2012
-Nolan Smith,202701,Reverse Layup,2,2,1,LAYUPS,,2012
-Nolan Smith,202701,Running Jump Shot,2,9,2,JUMP_SHOTS,,2012
-Nolan Smith,202701,Standard Layup,2,26,12,LAYUPS,,2012
-Nolan Smith,202701,Tip Shot,2,1,1,TIP_SHOTS,,2012
-Nolan Smith,202701,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2012
-Nolan Smith,202701,Driving Dunk,2,1,1,DUNKS,,2013
-Nolan Smith,202701,Driving Layup,2,11,7,LAYUPS,,2013
-Nolan Smith,202701,Fadeaway Jump Shot,2,2,0,JUMP_SHOTS,,2013
-Nolan Smith,202701,Finger Roll,2,3,1,LAYUPS,,2013
-Nolan Smith,202701,Floating Jump Shot,2,2,1,FLOATING_SHOTS,,2013
-Nolan Smith,202701,Jump Shot,2,67,16,JUMP_SHOTS,,2013
-Nolan Smith,202701,Pullup Jump Shot,2,7,4,JUMP_SHOTS,,2013
-Nolan Smith,202701,Reverse Layup,2,2,2,LAYUPS,,2013
-Nolan Smith,202701,Running Hook Shot,2,1,0,POST_MOVES,,2013
-Nolan Smith,202701,Running Jump Shot,2,8,4,JUMP_SHOTS,,2013
-Nolan Smith,202701,Standard Dunk,2,1,0,DUNKS,,2013
-Nolan Smith,202701,Standard Layup,2,8,5,LAYUPS,,2013
-Nolan Smith,202701,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2013
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Nolan Smith,202701,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2012
+Nolan Smith,202701,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2012
+Nolan Smith,202701,Driving Layup Shot,2,16,9,Driving Layup,LAYUPS,2012
+Nolan Smith,202701,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2012
+Nolan Smith,202701,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2012
+Nolan Smith,202701,Floating Jump shot,2,2,2,2PT Floating Jump Shot,FLOATING_SHOTS,2012
+Nolan Smith,202701,Jump Bank Shot,2,6,5,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Nolan Smith,202701,Jump Shot,2,102,26,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Nolan Smith,202701,Layup Shot,2,25,11,Standard Layup,LAYUPS,2012
+Nolan Smith,202701,Pullup Jump shot,2,9,5,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2012
+Nolan Smith,202701,Putback Layup Shot,2,1,0,Putback Layup,LAYUPS,2012
+Nolan Smith,202701,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2012
+Nolan Smith,202701,Running Jump Shot,2,9,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2012
+Nolan Smith,202701,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2012
+Nolan Smith,202701,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2012
+Nolan Smith,202701,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2012
+Nolan Smith,202701,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2013
+Nolan Smith,202701,Driving Finger Roll Layup Shot,2,3,1,Finger Roll,LAYUPS,2013
+Nolan Smith,202701,Driving Layup Shot,2,11,7,Driving Layup,LAYUPS,2013
+Nolan Smith,202701,Dunk Shot,2,1,0,Standard Dunk,DUNKS,2013
+Nolan Smith,202701,Fadeaway Jump Shot,2,2,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2013
+Nolan Smith,202701,Floating Jump shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2013
+Nolan Smith,202701,Jump Shot,2,67,16,2PT Jump Shot,TWO_POINT_JUMPERS,2013
+Nolan Smith,202701,Layup Shot,2,5,3,Standard Layup,LAYUPS,2013
+Nolan Smith,202701,Pullup Bank shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2013
+Nolan Smith,202701,Pullup Jump shot,2,6,3,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2013
+Nolan Smith,202701,Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2013
+Nolan Smith,202701,Running Bank shot,2,3,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2013
+Nolan Smith,202701,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,2013
+Nolan Smith,202701,Running Jump Shot,2,5,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2013
+Nolan Smith,202701,Running Layup Shot,2,3,2,Standard Layup,LAYUPS,2013
+Nolan Smith,202701,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2013

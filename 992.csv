@@ -1,8 +1,8 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Marcus Brown,992,Driving Dunk,2,1,1,DUNKS,,1997
-Marcus Brown,992,Driving Layup,2,5,3,LAYUPS,,1997
-Marcus Brown,992,Jump Shot,2,45,17,JUMP_SHOTS,,1997
-Marcus Brown,992,Running Jump Shot,2,4,3,JUMP_SHOTS,,1997
-Marcus Brown,992,Standard Layup,2,15,4,LAYUPS,,1997
-Marcus Brown,992,Jump Shot,2,13,3,JUMP_SHOTS,,2000
-Marcus Brown,992,Standard Layup,2,1,1,LAYUPS,,2000
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Marcus Brown,992,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,1997
+Marcus Brown,992,Driving Layup Shot,2,5,3,Driving Layup,LAYUPS,1997
+Marcus Brown,992,Jump Shot,2,45,17,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Marcus Brown,992,Layup Shot,2,15,4,Standard Layup,LAYUPS,1997
+Marcus Brown,992,Running Jump Shot,2,4,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
+Marcus Brown,992,Jump Shot,2,13,3,2PT Jump Shot,TWO_POINT_JUMPERS,2000
+Marcus Brown,992,Layup Shot,2,1,1,Standard Layup,LAYUPS,2000

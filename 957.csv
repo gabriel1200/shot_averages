@@ -1,29 +1,33 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Todd Fuller,957,Driving Layup,2,3,2,LAYUPS,,1997
-Todd Fuller,957,Hook Shot,2,29,16,POST_MOVES,,1997
-Todd Fuller,957,Jump Shot,2,109,35,JUMP_SHOTS,,1997
-Todd Fuller,957,Standard Dunk,2,15,13,DUNKS,,1997
-Todd Fuller,957,Standard Layup,2,92,43,LAYUPS,,1997
-Todd Fuller,957,Tip Shot,2,16,3,TIP_SHOTS,,1997
-Todd Fuller,957,Hook Shot,2,13,5,POST_MOVES,,1998
-Todd Fuller,957,Jump Shot,2,130,40,JUMP_SHOTS,,1998
-Todd Fuller,957,Standard Dunk,2,15,14,DUNKS,,1998
-Todd Fuller,957,Standard Layup,2,41,25,LAYUPS,,1998
-Todd Fuller,957,Tip Shot,2,6,2,TIP_SHOTS,,1998
-Todd Fuller,957,Driving Layup,2,3,3,LAYUPS,,1999
-Todd Fuller,957,Hook Shot,2,2,0,POST_MOVES,,1999
-Todd Fuller,957,Jump Shot,2,65,22,JUMP_SHOTS,,1999
-Todd Fuller,957,Standard Dunk,2,8,7,DUNKS,,1999
-Todd Fuller,957,Standard Layup,2,40,23,LAYUPS,,1999
-Todd Fuller,957,Tip Shot,2,6,1,TIP_SHOTS,,1999
-Todd Fuller,957,Driving Layup,2,1,0,LAYUPS,,2000
-Todd Fuller,957,Hook Shot,2,9,2,POST_MOVES,,2000
-Todd Fuller,957,Jump Shot,2,55,17,JUMP_SHOTS,,2000
-Todd Fuller,957,Standard Dunk,2,5,5,DUNKS,,2000
-Todd Fuller,957,Standard Layup,2,49,24,LAYUPS,,2000
-Todd Fuller,957,Tip Shot,2,3,3,TIP_SHOTS,,2000
-Todd Fuller,957,Hook Shot,2,2,1,POST_MOVES,,2001
-Todd Fuller,957,Jump Shot,2,23,4,JUMP_SHOTS,,2001
-Todd Fuller,957,Standard Dunk,2,3,2,DUNKS,,2001
-Todd Fuller,957,Standard Layup,2,5,3,LAYUPS,,2001
-Todd Fuller,957,Tip Shot,2,2,0,TIP_SHOTS,,2001
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Todd Fuller,957,Driving Layup Shot,2,3,2,Driving Layup,LAYUPS,1997
+Todd Fuller,957,Dunk Shot,2,7,5,Standard Dunk,DUNKS,1997
+Todd Fuller,957,Hook Shot,2,29,16,Hook Shot,POST_MOVES,1997
+Todd Fuller,957,Jump Shot,2,109,35,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Todd Fuller,957,Layup Shot,2,92,43,Standard Layup,LAYUPS,1997
+Todd Fuller,957,Slam Dunk Shot,2,8,8,Standard Dunk,DUNKS,1997
+Todd Fuller,957,Tip Shot,2,16,3,Tip Shot,TIP_SHOTS,1997
+Todd Fuller,957,Dunk Shot,2,9,8,Standard Dunk,DUNKS,1998
+Todd Fuller,957,Hook Shot,2,13,5,Hook Shot,POST_MOVES,1998
+Todd Fuller,957,Jump Shot,2,130,40,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+Todd Fuller,957,Layup Shot,2,41,25,Standard Layup,LAYUPS,1998
+Todd Fuller,957,Slam Dunk Shot,2,6,6,Standard Dunk,DUNKS,1998
+Todd Fuller,957,Tip Shot,2,6,2,Tip Shot,TIP_SHOTS,1998
+Todd Fuller,957,Driving Layup Shot,2,3,3,Driving Layup,LAYUPS,1999
+Todd Fuller,957,Dunk Shot,2,6,5,Standard Dunk,DUNKS,1999
+Todd Fuller,957,Hook Shot,2,2,0,Hook Shot,POST_MOVES,1999
+Todd Fuller,957,Jump Shot,2,65,22,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Todd Fuller,957,Layup Shot,2,40,23,Standard Layup,LAYUPS,1999
+Todd Fuller,957,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,1999
+Todd Fuller,957,Tip Shot,2,6,1,Tip Shot,TIP_SHOTS,1999
+Todd Fuller,957,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2000
+Todd Fuller,957,Dunk Shot,2,4,4,Standard Dunk,DUNKS,2000
+Todd Fuller,957,Hook Shot,2,9,2,Hook Shot,POST_MOVES,2000
+Todd Fuller,957,Jump Shot,2,55,17,2PT Jump Shot,TWO_POINT_JUMPERS,2000
+Todd Fuller,957,Layup Shot,2,49,24,Standard Layup,LAYUPS,2000
+Todd Fuller,957,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2000
+Todd Fuller,957,Tip Shot,2,3,3,Tip Shot,TIP_SHOTS,2000
+Todd Fuller,957,Dunk Shot,2,3,2,Standard Dunk,DUNKS,2001
+Todd Fuller,957,Hook Shot,2,2,1,Hook Shot,POST_MOVES,2001
+Todd Fuller,957,Jump Shot,2,23,4,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Todd Fuller,957,Layup Shot,2,5,3,Standard Layup,LAYUPS,2001
+Todd Fuller,957,Tip Shot,2,2,0,Tip Shot,TIP_SHOTS,2001

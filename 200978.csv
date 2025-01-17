@@ -1,15 +1,16 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jeremy Richardson,200978,Jump Shot,2,6,3,JUMP_SHOTS,,2007
-Jeremy Richardson,200978,Driving Layup,2,1,1,LAYUPS,,2008
-Jeremy Richardson,200978,Jump Shot,2,36,13,JUMP_SHOTS,,2008
-Jeremy Richardson,200978,Jump Shot,3,3,1,JUMP_SHOTS,,2008
-Jeremy Richardson,200978,Pullup Jump Shot,2,1,0,JUMP_SHOTS,,2008
-Jeremy Richardson,200978,Standard Layup,2,3,1,LAYUPS,,2008
-Jeremy Richardson,200978,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2009
-Jeremy Richardson,200978,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2009
-Jeremy Richardson,200978,Hook Shot,2,1,0,POST_MOVES,,2009
-Jeremy Richardson,200978,Jump Shot,2,40,11,JUMP_SHOTS,,2009
-Jeremy Richardson,200978,Running Hook Shot,2,1,0,POST_MOVES,,2009
-Jeremy Richardson,200978,Running Jump Shot,2,1,1,JUMP_SHOTS,,2009
-Jeremy Richardson,200978,Standard Dunk,2,1,1,DUNKS,,2009
-Jeremy Richardson,200978,Standard Layup,2,3,1,LAYUPS,,2009
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Jeremy Richardson,200978,Jump Shot,2,6,3,2PT Jump Shot,TWO_POINT_JUMPERS,2007
+Jeremy Richardson,200978,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2008
+Jeremy Richardson,200978,Jump Shot,2,36,13,2PT Jump Shot,TWO_POINT_JUMPERS,2008
+Jeremy Richardson,200978,Jump Shot,3,3,1,3PT Jump Shot,THREE_POINT_JUMPERS,2008
+Jeremy Richardson,200978,Layup Shot,2,2,0,Standard Layup,LAYUPS,2008
+Jeremy Richardson,200978,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2008
+Jeremy Richardson,200978,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2008
+Jeremy Richardson,200978,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2009
+Jeremy Richardson,200978,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2009
+Jeremy Richardson,200978,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2009
+Jeremy Richardson,200978,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2009
+Jeremy Richardson,200978,Jump Shot,2,40,11,2PT Jump Shot,TWO_POINT_JUMPERS,2009
+Jeremy Richardson,200978,Layup Shot,2,3,1,Standard Layup,LAYUPS,2009
+Jeremy Richardson,200978,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,2009
+Jeremy Richardson,200978,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2009

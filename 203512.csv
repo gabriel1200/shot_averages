@@ -1,45 +1,64 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Lucas Nogueira,203512,Alley Oop Dunk,2,2,1,DUNKS,,2015
-Lucas Nogueira,203512,Driving Jump Shot,2,1,0,JUMP_SHOTS,,2015
-Lucas Nogueira,203512,Jump Shot,2,2,0,JUMP_SHOTS,,2015
-Lucas Nogueira,203512,Standard Dunk,2,1,1,DUNKS,,2015
-Lucas Nogueira,203512,Standard Layup,2,1,0,LAYUPS,,2015
-Lucas Nogueira,203512,Tip Shot,2,1,0,TIP_SHOTS,,2015
-Lucas Nogueira,203512,Alley Oop Dunk,2,9,9,DUNKS,,2016
-Lucas Nogueira,203512,Alley Oop Layup,2,3,1,LAYUPS,,2016
-Lucas Nogueira,203512,Driving Layup,2,2,0,LAYUPS,,2016
-Lucas Nogueira,203512,Finger Roll,2,1,1,LAYUPS,,2016
-Lucas Nogueira,203512,Jump Shot,2,6,1,JUMP_SHOTS,,2016
-Lucas Nogueira,203512,Putback Layup,2,3,1,LAYUPS,,2016
-Lucas Nogueira,203512,Reverse Layup,2,3,2,LAYUPS,,2016
-Lucas Nogueira,203512,Specialty Dunk,2,2,2,DUNKS,,2016
-Lucas Nogueira,203512,Standard Dunk,2,7,6,DUNKS,,2016
-Lucas Nogueira,203512,Standard Layup,2,8,5,LAYUPS,,2016
-Lucas Nogueira,203512,Alley Oop Dunk,2,31,28,DUNKS,,2017
-Lucas Nogueira,203512,Alley Oop Layup,2,10,3,LAYUPS,,2017
-Lucas Nogueira,203512,Driving Dunk,2,2,2,DUNKS,,2017
-Lucas Nogueira,203512,Driving Layup,2,2,0,LAYUPS,,2017
-Lucas Nogueira,203512,Finger Roll,2,4,3,LAYUPS,,2017
-Lucas Nogueira,203512,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2017
-Lucas Nogueira,203512,Hook Shot,2,6,2,POST_MOVES,,2017
-Lucas Nogueira,203512,Jump Shot,2,21,5,JUMP_SHOTS,,2017
-Lucas Nogueira,203512,Putback Dunk,2,3,3,DUNKS,,2017
-Lucas Nogueira,203512,Putback Layup,2,20,9,LAYUPS,,2017
-Lucas Nogueira,203512,Reverse Layup,2,7,6,LAYUPS,,2017
-Lucas Nogueira,203512,Specialty Dunk,2,14,14,DUNKS,,2017
-Lucas Nogueira,203512,Standard Dunk,2,14,12,DUNKS,,2017
-Lucas Nogueira,203512,Standard Layup,2,20,16,LAYUPS,,2017
-Lucas Nogueira,203512,Turnaround Hook Shot,2,1,0,POST_MOVES,,2017
-Lucas Nogueira,203512,Alley Oop Dunk,2,13,13,DUNKS,,2018
-Lucas Nogueira,203512,Alley Oop Layup,2,12,8,LAYUPS,,2018
-Lucas Nogueira,203512,Driving Dunk,2,2,2,DUNKS,,2018
-Lucas Nogueira,203512,Driving Layup,2,1,0,LAYUPS,,2018
-Lucas Nogueira,203512,Finger Roll,2,1,0,LAYUPS,,2018
-Lucas Nogueira,203512,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2018
-Lucas Nogueira,203512,Jump Shot,2,18,5,JUMP_SHOTS,,2018
-Lucas Nogueira,203512,Putback Dunk,2,3,2,DUNKS,,2018
-Lucas Nogueira,203512,Putback Layup,2,6,4,LAYUPS,,2018
-Lucas Nogueira,203512,Specialty Dunk,2,8,8,DUNKS,,2018
-Lucas Nogueira,203512,Standard Dunk,2,4,4,DUNKS,,2018
-Lucas Nogueira,203512,Standard Layup,2,10,3,LAYUPS,,2018
-Lucas Nogueira,203512,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2018
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Lucas Nogueira,203512,Alley Oop Dunk Shot,2,2,1,Alley Oop Dunk,DUNKS,2015
+Lucas Nogueira,203512,Driving Jump shot,2,1,0,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2015
+Lucas Nogueira,203512,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2015
+Lucas Nogueira,203512,Jump Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2015
+Lucas Nogueira,203512,Layup Shot,2,1,0,Standard Layup,LAYUPS,2015
+Lucas Nogueira,203512,Running Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2015
+Lucas Nogueira,203512,Alley Oop Dunk Shot,2,8,8,Alley Oop Dunk,DUNKS,2016
+Lucas Nogueira,203512,Alley Oop Layup shot,2,3,1,Alley Oop Layup,LAYUPS,2016
+Lucas Nogueira,203512,Cutting Dunk Shot,2,2,2,Specialty Dunk,DUNKS,2016
+Lucas Nogueira,203512,Cutting Layup Shot,2,2,2,Standard Layup,LAYUPS,2016
+Lucas Nogueira,203512,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2016
+Lucas Nogueira,203512,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2016
+Lucas Nogueira,203512,Dunk Shot,2,5,4,Standard Dunk,DUNKS,2016
+Lucas Nogueira,203512,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2016
+Lucas Nogueira,203512,Jump Shot,2,6,1,2PT Jump Shot,TWO_POINT_JUMPERS,2016
+Lucas Nogueira,203512,Layup Shot,2,6,3,Standard Layup,LAYUPS,2016
+Lucas Nogueira,203512,Reverse Layup Shot,2,3,2,Reverse Layup,LAYUPS,2016
+Lucas Nogueira,203512,Running Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2016
+Lucas Nogueira,203512,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2016
+Lucas Nogueira,203512,Tip Layup Shot,2,3,1,Putback Layup,LAYUPS,2016
+Lucas Nogueira,203512,Alley Oop Dunk Shot,2,28,25,Alley Oop Dunk,DUNKS,2017
+Lucas Nogueira,203512,Alley Oop Layup shot,2,9,3,Alley Oop Layup,LAYUPS,2017
+Lucas Nogueira,203512,Cutting Dunk Shot,2,8,8,Specialty Dunk,DUNKS,2017
+Lucas Nogueira,203512,Cutting Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2017
+Lucas Nogueira,203512,Cutting Layup Shot,2,10,8,Standard Layup,LAYUPS,2017
+Lucas Nogueira,203512,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2017
+Lucas Nogueira,203512,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2017
+Lucas Nogueira,203512,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2017
+Lucas Nogueira,203512,Driving Layup Shot,2,2,0,Driving Layup,LAYUPS,2017
+Lucas Nogueira,203512,Dunk Shot,2,9,7,Standard Dunk,DUNKS,2017
+Lucas Nogueira,203512,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2017
+Lucas Nogueira,203512,Hook Shot,2,6,2,Hook Shot,POST_MOVES,2017
+Lucas Nogueira,203512,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2017
+Lucas Nogueira,203512,Jump Shot,2,20,5,2PT Jump Shot,TWO_POINT_JUMPERS,2017
+Lucas Nogueira,203512,Layup Shot,2,9,8,Standard Layup,LAYUPS,2017
+Lucas Nogueira,203512,Putback Dunk Shot,2,3,3,Putback Dunk,DUNKS,2017
+Lucas Nogueira,203512,Putback Layup Shot,2,8,7,Putback Layup,LAYUPS,2017
+Lucas Nogueira,203512,Reverse Layup Shot,2,6,5,Reverse Layup,LAYUPS,2017
+Lucas Nogueira,203512,Running Alley Oop Dunk Shot,2,3,3,Alley Oop Dunk,DUNKS,2017
+Lucas Nogueira,203512,Running Alley Oop Layup Shot,2,1,0,Alley Oop Layup,LAYUPS,2017
+Lucas Nogueira,203512,Running Dunk Shot,2,5,5,Standard Dunk,DUNKS,2017
+Lucas Nogueira,203512,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2017
+Lucas Nogueira,203512,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2017
+Lucas Nogueira,203512,Tip Dunk Shot,2,6,6,Specialty Dunk,DUNKS,2017
+Lucas Nogueira,203512,Tip Layup Shot,2,12,2,Putback Layup,LAYUPS,2017
+Lucas Nogueira,203512,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2017
+Lucas Nogueira,203512,Alley Oop Dunk Shot,2,13,13,Alley Oop Dunk,DUNKS,2018
+Lucas Nogueira,203512,Alley Oop Layup shot,2,12,8,Alley Oop Layup,LAYUPS,2018
+Lucas Nogueira,203512,Cutting Dunk Shot,2,7,7,Specialty Dunk,DUNKS,2018
+Lucas Nogueira,203512,Cutting Layup Shot,2,6,2,Standard Layup,LAYUPS,2018
+Lucas Nogueira,203512,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2018
+Lucas Nogueira,203512,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Lucas Nogueira,203512,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2018
+Lucas Nogueira,203512,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2018
+Lucas Nogueira,203512,Jump Shot,2,18,5,2PT Jump Shot,TWO_POINT_JUMPERS,2018
+Lucas Nogueira,203512,Layup Shot,2,4,1,Standard Layup,LAYUPS,2018
+Lucas Nogueira,203512,Putback Dunk Shot,2,3,2,Putback Dunk,DUNKS,2018
+Lucas Nogueira,203512,Putback Layup Shot,2,3,3,Putback Layup,LAYUPS,2018
+Lucas Nogueira,203512,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2018
+Lucas Nogueira,203512,Running Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2018
+Lucas Nogueira,203512,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2018
+Lucas Nogueira,203512,Tip Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2018
+Lucas Nogueira,203512,Tip Layup Shot,2,3,1,Putback Layup,LAYUPS,2018

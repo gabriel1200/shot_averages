@@ -1,12 +1,14 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Devin Carter,1642269,Alley Oop Dunk,2,1,1,DUNKS,,2025
-Devin Carter,1642269,Driving Hook Shot,2,2,1,POST_MOVES,,2025
-Devin Carter,1642269,Driving Layup,2,2,1,LAYUPS,,2025
-Devin Carter,1642269,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2025
-Devin Carter,1642269,Floating Jump Shot,2,5,2,FLOATING_SHOTS,,2025
-Devin Carter,1642269,Jump Shot,3,9,3,JUMP_SHOTS,,2025
-Devin Carter,1642269,Pullup Jump Shot,3,6,2,JUMP_SHOTS,,2025
-Devin Carter,1642269,Putback Layup,2,2,1,LAYUPS,,2025
-Devin Carter,1642269,Running Jump Shot,3,3,0,JUMP_SHOTS,,2025
-Devin Carter,1642269,Standard Layup,2,1,0,LAYUPS,,2025
-Devin Carter,1642269,Step Back Jump Shot,3,1,0,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Devin Carter,1642269,Driving Bank Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2025
+Devin Carter,1642269,Driving Floating Jump Shot,2,5,2,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Devin Carter,1642269,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2025
+Devin Carter,1642269,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2025
+Devin Carter,1642269,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
+Devin Carter,1642269,Jump Shot,3,9,3,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Devin Carter,1642269,Layup Shot,2,1,0,Standard Layup,LAYUPS,2025
+Devin Carter,1642269,Pullup Jump shot,3,6,2,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
+Devin Carter,1642269,Putback Layup Shot,2,2,1,Putback Layup,LAYUPS,2025
+Devin Carter,1642269,Running Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2025
+Devin Carter,1642269,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Devin Carter,1642269,Running Pull-Up Jump Shot,3,2,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Devin Carter,1642269,Step Back Jump shot,3,1,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025

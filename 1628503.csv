@@ -1,15 +1,20 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jamel Artis,1628503,Driving Hook Shot,2,1,1,POST_MOVES,,2018
-Jamel Artis,1628503,Driving Layup,2,4,1,LAYUPS,,2018
-Jamel Artis,1628503,Finger Roll,2,2,2,LAYUPS,,2018
-Jamel Artis,1628503,Floating Jump Shot,2,6,2,FLOATING_SHOTS,,2018
-Jamel Artis,1628503,Hook Shot,2,2,1,POST_MOVES,,2018
-Jamel Artis,1628503,Jump Shot,2,28,8,JUMP_SHOTS,,2018
-Jamel Artis,1628503,Jump Shot,3,10,2,JUMP_SHOTS,,2018
-Jamel Artis,1628503,Pullup Jump Shot,2,13,6,JUMP_SHOTS,,2018
-Jamel Artis,1628503,Putback Layup,2,1,0,LAYUPS,,2018
-Jamel Artis,1628503,Reverse Layup,2,1,1,LAYUPS,,2018
-Jamel Artis,1628503,Standard Dunk,2,1,0,DUNKS,,2018
-Jamel Artis,1628503,Standard Layup,2,7,5,LAYUPS,,2018
-Jamel Artis,1628503,Step Back Jump Shot,2,2,1,JUMP_SHOTS,,2018
-Jamel Artis,1628503,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2018
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Jamel Artis,1628503,Cutting Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2018
+Jamel Artis,1628503,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2018
+Jamel Artis,1628503,Driving Floating Bank Jump Shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Jamel Artis,1628503,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Jamel Artis,1628503,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2018
+Jamel Artis,1628503,Driving Layup Shot,2,4,1,Driving Layup,LAYUPS,2018
+Jamel Artis,1628503,Dunk Shot,2,1,0,Standard Dunk,DUNKS,2018
+Jamel Artis,1628503,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2018
+Jamel Artis,1628503,Floating Jump shot,2,3,1,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Jamel Artis,1628503,Hook Shot,2,2,1,Hook Shot,POST_MOVES,2018
+Jamel Artis,1628503,Jump Shot,2,28,8,2PT Jump Shot,TWO_POINT_JUMPERS,2018
+Jamel Artis,1628503,Jump Shot,3,10,2,3PT Jump Shot,THREE_POINT_JUMPERS,2018
+Jamel Artis,1628503,Layup Shot,2,3,2,Standard Layup,LAYUPS,2018
+Jamel Artis,1628503,Pullup Jump shot,2,13,6,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2018
+Jamel Artis,1628503,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2018
+Jamel Artis,1628503,Running Layup Shot,2,3,2,Standard Layup,LAYUPS,2018
+Jamel Artis,1628503,Step Back Jump shot,2,2,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2018
+Jamel Artis,1628503,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2018
+Jamel Artis,1628503,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2018

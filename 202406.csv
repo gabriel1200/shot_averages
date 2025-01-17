@@ -1,11 +1,15 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jerome Dyson,202406,Driving Jump Shot,2,1,1,JUMP_SHOTS,,2012
-Jerome Dyson,202406,Driving Layup,2,10,8,LAYUPS,,2012
-Jerome Dyson,202406,Finger Roll,2,1,1,LAYUPS,,2012
-Jerome Dyson,202406,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2012
-Jerome Dyson,202406,Jump Shot,2,17,2,JUMP_SHOTS,,2012
-Jerome Dyson,202406,Pullup Jump Shot,2,1,1,JUMP_SHOTS,,2012
-Jerome Dyson,202406,Running Jump Shot,2,3,1,JUMP_SHOTS,,2012
-Jerome Dyson,202406,Standard Dunk,2,2,1,DUNKS,,2012
-Jerome Dyson,202406,Standard Layup,2,11,4,LAYUPS,,2012
-Jerome Dyson,202406,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2012
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Jerome Dyson,202406,Driving Jump shot,2,1,1,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2012
+Jerome Dyson,202406,Driving Layup Shot,2,10,8,Driving Layup,LAYUPS,2012
+Jerome Dyson,202406,Dunk Shot,2,1,0,Standard Dunk,DUNKS,2012
+Jerome Dyson,202406,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2012
+Jerome Dyson,202406,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2012
+Jerome Dyson,202406,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Jerome Dyson,202406,Jump Shot,2,16,2,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Jerome Dyson,202406,Layup Shot,2,10,3,Standard Layup,LAYUPS,2012
+Jerome Dyson,202406,Pullup Jump shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2012
+Jerome Dyson,202406,Running Bank shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2012
+Jerome Dyson,202406,Running Jump Shot,2,2,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2012
+Jerome Dyson,202406,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2012
+Jerome Dyson,202406,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2012
+Jerome Dyson,202406,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2012

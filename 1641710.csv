@@ -1,45 +1,71 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Anthony Black,1641710,Alley Oop Dunk,2,3,3,DUNKS,,2024
-Anthony Black,1641710,Alley Oop Layup,2,1,1,LAYUPS,,2024
-Anthony Black,1641710,Driving Dunk,2,3,2,DUNKS,,2024
-Anthony Black,1641710,Driving Layup,2,25,8,LAYUPS,,2024
-Anthony Black,1641710,Fadeaway Jump Shot,2,4,1,JUMP_SHOTS,,2024
-Anthony Black,1641710,Finger Roll,2,8,3,LAYUPS,,2024
-Anthony Black,1641710,Floating Jump Shot,2,21,6,FLOATING_SHOTS,,2024
-Anthony Black,1641710,Hook Shot,2,1,0,POST_MOVES,,2024
-Anthony Black,1641710,Jump Shot,2,6,1,JUMP_SHOTS,,2024
-Anthony Black,1641710,Jump Shot,3,77,32,JUMP_SHOTS,,2024
-Anthony Black,1641710,Pullup Jump Shot,2,18,6,JUMP_SHOTS,,2024
-Anthony Black,1641710,Pullup Jump Shot,3,6,3,JUMP_SHOTS,,2024
-Anthony Black,1641710,Putback Layup,2,11,7,LAYUPS,,2024
-Anthony Black,1641710,Reverse Layup,2,1,1,LAYUPS,,2024
-Anthony Black,1641710,Running Jump Shot,3,10,2,JUMP_SHOTS,,2024
-Anthony Black,1641710,Specialty Dunk,2,11,10,DUNKS,,2024
-Anthony Black,1641710,Standard Dunk,2,10,10,DUNKS,,2024
-Anthony Black,1641710,Standard Layup,2,23,17,LAYUPS,,2024
-Anthony Black,1641710,Step Back Jump Shot,2,4,1,JUMP_SHOTS,,2024
-Anthony Black,1641710,Step Back Jump Shot,3,1,0,JUMP_SHOTS,,2024
-Anthony Black,1641710,Turnaround Jump Shot,2,3,1,JUMP_SHOTS,,2024
-Anthony Black,1641710,Alley Oop Dunk,2,2,1,DUNKS,,2025
-Anthony Black,1641710,Alley Oop Layup,2,1,1,LAYUPS,,2025
-Anthony Black,1641710,Driving Dunk,2,3,0,DUNKS,,2025
-Anthony Black,1641710,Driving Hook Shot,2,2,1,POST_MOVES,,2025
-Anthony Black,1641710,Driving Layup,2,62,32,LAYUPS,,2025
-Anthony Black,1641710,Fadeaway Jump Shot,2,5,1,JUMP_SHOTS,,2025
-Anthony Black,1641710,Fadeaway Jump Shot,3,1,0,JUMP_SHOTS,,2025
-Anthony Black,1641710,Finger Roll,2,19,15,LAYUPS,,2025
-Anthony Black,1641710,Floating Jump Shot,2,36,12,FLOATING_SHOTS,,2025
-Anthony Black,1641710,Hook Shot,2,1,0,POST_MOVES,,2025
-Anthony Black,1641710,Jump Shot,2,2,1,JUMP_SHOTS,,2025
-Anthony Black,1641710,Jump Shot,3,56,16,JUMP_SHOTS,,2025
-Anthony Black,1641710,Pullup Jump Shot,2,16,6,JUMP_SHOTS,,2025
-Anthony Black,1641710,Pullup Jump Shot,3,15,1,JUMP_SHOTS,,2025
-Anthony Black,1641710,Putback Layup,2,7,0,LAYUPS,,2025
-Anthony Black,1641710,Running Jump Shot,3,9,2,JUMP_SHOTS,,2025
-Anthony Black,1641710,Specialty Dunk,2,2,2,DUNKS,,2025
-Anthony Black,1641710,Standard Dunk,2,7,7,DUNKS,,2025
-Anthony Black,1641710,Standard Layup,2,21,12,LAYUPS,,2025
-Anthony Black,1641710,Step Back Jump Shot,2,2,0,JUMP_SHOTS,,2025
-Anthony Black,1641710,Step Back Jump Shot,3,8,3,JUMP_SHOTS,,2025
-Anthony Black,1641710,Turnaround Hook Shot,2,2,0,POST_MOVES,,2025
-Anthony Black,1641710,Turnaround Jump Shot,2,6,3,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Anthony Black,1641710,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2024
+Anthony Black,1641710,Cutting Dunk Shot,2,11,10,Specialty Dunk,DUNKS,2024
+Anthony Black,1641710,Cutting Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2024
+Anthony Black,1641710,Cutting Layup Shot,2,11,8,Standard Layup,LAYUPS,2024
+Anthony Black,1641710,Driving Dunk Shot,2,3,2,Driving Dunk,DUNKS,2024
+Anthony Black,1641710,Driving Finger Roll Layup Shot,2,5,3,Finger Roll,LAYUPS,2024
+Anthony Black,1641710,Driving Floating Bank Jump Shot,2,3,2,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Anthony Black,1641710,Driving Floating Jump Shot,2,14,4,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Anthony Black,1641710,Driving Layup Shot,2,24,8,Driving Layup,LAYUPS,2024
+Anthony Black,1641710,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2024
+Anthony Black,1641710,Fadeaway Jump Shot,2,4,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
+Anthony Black,1641710,Floating Jump shot,2,4,0,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Anthony Black,1641710,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2024
+Anthony Black,1641710,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2024
+Anthony Black,1641710,Jump Shot,2,5,1,2PT Jump Shot,TWO_POINT_JUMPERS,2024
+Anthony Black,1641710,Jump Shot,3,77,32,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Anthony Black,1641710,Layup Shot,2,3,2,Standard Layup,LAYUPS,2024
+Anthony Black,1641710,Pullup Jump shot,2,18,6,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2024
+Anthony Black,1641710,Pullup Jump shot,3,6,3,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
+Anthony Black,1641710,Putback Layup Shot,2,1,0,Putback Layup,LAYUPS,2024
+Anthony Black,1641710,Running Alley Oop Dunk Shot,2,2,2,Alley Oop Dunk,DUNKS,2024
+Anthony Black,1641710,Running Alley Oop Layup Shot,2,1,1,Alley Oop Layup,LAYUPS,2024
+Anthony Black,1641710,Running Dunk Shot,2,10,10,Standard Dunk,DUNKS,2024
+Anthony Black,1641710,Running Finger Roll Layup Shot,2,2,0,Finger Roll,LAYUPS,2024
+Anthony Black,1641710,Running Jump Shot,3,8,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Anthony Black,1641710,Running Layup Shot,2,9,7,Standard Layup,LAYUPS,2024
+Anthony Black,1641710,Running Pull-Up Jump Shot,3,2,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Anthony Black,1641710,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2024
+Anthony Black,1641710,Step Back Jump shot,2,4,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2024
+Anthony Black,1641710,Step Back Jump shot,3,1,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
+Anthony Black,1641710,Tip Layup Shot,2,10,7,Putback Layup,LAYUPS,2024
+Anthony Black,1641710,Turnaround Bank shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Anthony Black,1641710,Turnaround Fadeaway Bank Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Anthony Black,1641710,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Anthony Black,1641710,Alley Oop Dunk Shot,2,1,0,Alley Oop Dunk,DUNKS,2025
+Anthony Black,1641710,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2025
+Anthony Black,1641710,Cutting Dunk Shot,2,2,2,Specialty Dunk,DUNKS,2025
+Anthony Black,1641710,Cutting Layup Shot,2,2,1,Standard Layup,LAYUPS,2025
+Anthony Black,1641710,Driving Bank Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2025
+Anthony Black,1641710,Driving Dunk Shot,2,3,0,Driving Dunk,DUNKS,2025
+Anthony Black,1641710,Driving Finger Roll Layup Shot,2,16,14,Finger Roll,LAYUPS,2025
+Anthony Black,1641710,Driving Floating Bank Jump Shot,2,6,0,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Anthony Black,1641710,Driving Floating Jump Shot,2,26,12,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Anthony Black,1641710,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2025
+Anthony Black,1641710,Driving Layup Shot,2,59,31,Driving Layup,LAYUPS,2025
+Anthony Black,1641710,Driving Reverse Layup Shot,2,3,1,Driving Layup,LAYUPS,2025
+Anthony Black,1641710,Fadeaway Jump Shot,2,5,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
+Anthony Black,1641710,Fadeaway Jump Shot,3,1,0,3PT Fadeaway Jump Shot,THREE_POINT_JUMPERS,2025
+Anthony Black,1641710,Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2025
+Anthony Black,1641710,Floating Jump shot,2,4,0,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Anthony Black,1641710,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2025
+Anthony Black,1641710,Jump Shot,2,2,1,2PT Jump Shot,TWO_POINT_JUMPERS,2025
+Anthony Black,1641710,Jump Shot,3,56,16,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Anthony Black,1641710,Layup Shot,2,2,0,Standard Layup,LAYUPS,2025
+Anthony Black,1641710,Pullup Jump shot,2,16,6,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
+Anthony Black,1641710,Pullup Jump shot,3,15,1,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
+Anthony Black,1641710,Putback Layup Shot,2,4,0,Putback Layup,LAYUPS,2025
+Anthony Black,1641710,Running Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2025
+Anthony Black,1641710,Running Dunk Shot,2,7,7,Standard Dunk,DUNKS,2025
+Anthony Black,1641710,Running Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2025
+Anthony Black,1641710,Running Jump Shot,3,6,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Anthony Black,1641710,Running Layup Shot,2,17,11,Standard Layup,LAYUPS,2025
+Anthony Black,1641710,Running Pull-Up Jump Shot,3,3,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Anthony Black,1641710,Step Back Jump shot,2,2,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2025
+Anthony Black,1641710,Step Back Jump shot,3,8,3,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
+Anthony Black,1641710,Tip Layup Shot,2,3,0,Putback Layup,LAYUPS,2025
+Anthony Black,1641710,Turnaround Fadeaway Bank Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+Anthony Black,1641710,Turnaround Fadeaway shot,2,4,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+Anthony Black,1641710,Turnaround Hook Shot,2,2,0,Turnaround Hook Shot,POST_MOVES,2025
+Anthony Black,1641710,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025

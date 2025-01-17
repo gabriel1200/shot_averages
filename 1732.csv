@@ -1,45 +1,53 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Felipe Lopez,1732,Driving Dunk,2,3,3,DUNKS,,1999
-Felipe Lopez,1732,Driving Layup,2,60,37,LAYUPS,,1999
-Felipe Lopez,1732,Hook Shot,2,1,0,POST_MOVES,,1999
-Felipe Lopez,1732,Jump Shot,2,179,43,JUMP_SHOTS,,1999
-Felipe Lopez,1732,Jump Shot,3,1,1,JUMP_SHOTS,,1999
-Felipe Lopez,1732,Running Jump Shot,2,7,4,JUMP_SHOTS,,1999
-Felipe Lopez,1732,Standard Dunk,2,22,22,DUNKS,,1999
-Felipe Lopez,1732,Standard Layup,2,99,54,LAYUPS,,1999
-Felipe Lopez,1732,Tip Shot,2,7,5,TIP_SHOTS,,1999
-Felipe Lopez,1732,Driving Dunk,2,8,7,DUNKS,,2000
-Felipe Lopez,1732,Driving Layup,2,29,16,LAYUPS,,2000
-Felipe Lopez,1732,Hook Shot,2,1,0,POST_MOVES,,2000
-Felipe Lopez,1732,Jump Shot,2,112,30,JUMP_SHOTS,,2000
-Felipe Lopez,1732,Jump Shot,3,5,0,JUMP_SHOTS,,2000
-Felipe Lopez,1732,Standard Dunk,2,17,16,DUNKS,,2000
-Felipe Lopez,1732,Standard Layup,2,76,33,LAYUPS,,2000
-Felipe Lopez,1732,Tip Shot,2,13,9,TIP_SHOTS,,2000
-Felipe Lopez,1732,Alley Oop Dunk,2,2,2,DUNKS,,2001
-Felipe Lopez,1732,Alley Oop Layup,2,2,1,LAYUPS,,2001
-Felipe Lopez,1732,Driving Dunk,2,4,4,DUNKS,,2001
-Felipe Lopez,1732,Driving Layup,2,40,25,LAYUPS,,2001
-Felipe Lopez,1732,Hook Shot,2,1,0,POST_MOVES,,2001
-Felipe Lopez,1732,Jump Shot,2,223,70,JUMP_SHOTS,,2001
-Felipe Lopez,1732,Jump Shot,3,20,6,JUMP_SHOTS,,2001
-Felipe Lopez,1732,Reverse Dunk,2,1,1,DUNKS,,2001
-Felipe Lopez,1732,Reverse Layup,2,8,4,LAYUPS,,2001
-Felipe Lopez,1732,Running Jump Shot,2,6,1,JUMP_SHOTS,,2001
-Felipe Lopez,1732,Standard Dunk,2,22,19,DUNKS,,2001
-Felipe Lopez,1732,Standard Layup,2,136,71,LAYUPS,,2001
-Felipe Lopez,1732,Standard Layup,3,1,0,LAYUPS,,2001
-Felipe Lopez,1732,Tip Shot,2,10,6,TIP_SHOTS,,2001
-Felipe Lopez,1732,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2001
-Felipe Lopez,1732,Alley Oop Layup,2,1,0,LAYUPS,,2002
-Felipe Lopez,1732,Driving Dunk,2,2,2,DUNKS,,2002
-Felipe Lopez,1732,Driving Layup,2,16,14,LAYUPS,,2002
-Felipe Lopez,1732,Fadeaway Jump Shot,2,2,2,JUMP_SHOTS,,2002
-Felipe Lopez,1732,Hook Shot,2,2,1,POST_MOVES,,2002
-Felipe Lopez,1732,Jump Shot,2,72,18,JUMP_SHOTS,,2002
-Felipe Lopez,1732,Jump Shot,3,8,4,JUMP_SHOTS,,2002
-Felipe Lopez,1732,Reverse Layup,2,1,0,LAYUPS,,2002
-Felipe Lopez,1732,Running Jump Shot,2,1,0,JUMP_SHOTS,,2002
-Felipe Lopez,1732,Standard Dunk,2,6,5,DUNKS,,2002
-Felipe Lopez,1732,Standard Layup,2,38,10,LAYUPS,,2002
-Felipe Lopez,1732,Tip Shot,2,7,3,TIP_SHOTS,,2002
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Felipe Lopez,1732,Driving Dunk Shot,2,3,3,Driving Dunk,DUNKS,1999
+Felipe Lopez,1732,Driving Layup Shot,2,60,37,Driving Layup,LAYUPS,1999
+Felipe Lopez,1732,Dunk Shot,2,15,15,Standard Dunk,DUNKS,1999
+Felipe Lopez,1732,Hook Shot,2,1,0,Hook Shot,POST_MOVES,1999
+Felipe Lopez,1732,Jump Shot,2,179,43,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Felipe Lopez,1732,Jump Shot,3,1,1,3PT Jump Shot,THREE_POINT_JUMPERS,1999
+Felipe Lopez,1732,Layup Shot,2,99,54,Standard Layup,LAYUPS,1999
+Felipe Lopez,1732,Running Jump Shot,2,7,4,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999
+Felipe Lopez,1732,Slam Dunk Shot,2,7,7,Standard Dunk,DUNKS,1999
+Felipe Lopez,1732,Tip Shot,2,7,5,Tip Shot,TIP_SHOTS,1999
+Felipe Lopez,1732,Driving Dunk Shot,2,8,7,Driving Dunk,DUNKS,2000
+Felipe Lopez,1732,Driving Layup Shot,2,29,16,Driving Layup,LAYUPS,2000
+Felipe Lopez,1732,Dunk Shot,2,9,9,Standard Dunk,DUNKS,2000
+Felipe Lopez,1732,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2000
+Felipe Lopez,1732,Jump Shot,2,112,30,2PT Jump Shot,TWO_POINT_JUMPERS,2000
+Felipe Lopez,1732,Jump Shot,3,5,0,3PT Jump Shot,THREE_POINT_JUMPERS,2000
+Felipe Lopez,1732,Layup Shot,2,76,33,Standard Layup,LAYUPS,2000
+Felipe Lopez,1732,Slam Dunk Shot,2,8,7,Standard Dunk,DUNKS,2000
+Felipe Lopez,1732,Tip Shot,2,13,9,Tip Shot,TIP_SHOTS,2000
+Felipe Lopez,1732,Alley Oop Dunk Shot,2,2,2,Alley Oop Dunk,DUNKS,2001
+Felipe Lopez,1732,Alley Oop Layup shot,2,2,1,Alley Oop Layup,LAYUPS,2001
+Felipe Lopez,1732,Driving Dunk Shot,2,4,4,Driving Dunk,DUNKS,2001
+Felipe Lopez,1732,Driving Layup Shot,2,40,25,Driving Layup,LAYUPS,2001
+Felipe Lopez,1732,Dunk Shot,2,12,9,Standard Dunk,DUNKS,2001
+Felipe Lopez,1732,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2001
+Felipe Lopez,1732,Jump Shot,2,223,70,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Felipe Lopez,1732,Jump Shot,3,20,6,3PT Jump Shot,THREE_POINT_JUMPERS,2001
+Felipe Lopez,1732,Layup Shot,2,129,65,Standard Layup,LAYUPS,2001
+Felipe Lopez,1732,Layup Shot,3,1,0,Standard Layup,LAYUPS,2001
+Felipe Lopez,1732,Reverse Dunk Shot,2,1,1,Reverse Dunk,DUNKS,2001
+Felipe Lopez,1732,Reverse Layup Shot,2,8,4,Reverse Layup,LAYUPS,2001
+Felipe Lopez,1732,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2001
+Felipe Lopez,1732,Running Jump Shot,2,6,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
+Felipe Lopez,1732,Running Layup Shot,2,7,6,Standard Layup,LAYUPS,2001
+Felipe Lopez,1732,Slam Dunk Shot,2,8,8,Standard Dunk,DUNKS,2001
+Felipe Lopez,1732,Tip Shot,2,10,6,Tip Shot,TIP_SHOTS,2001
+Felipe Lopez,1732,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2001
+Felipe Lopez,1732,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2002
+Felipe Lopez,1732,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2002
+Felipe Lopez,1732,Driving Layup Shot,2,16,14,Driving Layup,LAYUPS,2002
+Felipe Lopez,1732,Dunk Shot,2,3,2,Standard Dunk,DUNKS,2002
+Felipe Lopez,1732,Fadeaway Jump Shot,2,2,2,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2002
+Felipe Lopez,1732,Hook Shot,2,2,1,Hook Shot,POST_MOVES,2002
+Felipe Lopez,1732,Jump Shot,2,72,18,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Felipe Lopez,1732,Jump Shot,3,8,4,3PT Jump Shot,THREE_POINT_JUMPERS,2002
+Felipe Lopez,1732,Layup Shot,2,37,9,Standard Layup,LAYUPS,2002
+Felipe Lopez,1732,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2002
+Felipe Lopez,1732,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2002
+Felipe Lopez,1732,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2002
+Felipe Lopez,1732,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2002
+Felipe Lopez,1732,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,2002
+Felipe Lopez,1732,Tip Shot,2,7,3,Tip Shot,TIP_SHOTS,2002

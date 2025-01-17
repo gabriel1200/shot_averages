@@ -1,9 +1,10 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Predrag Savovic,2453,Driving Layup,2,4,4,LAYUPS,,2003
-Predrag Savovic,2453,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2003
-Predrag Savovic,2453,Finger Roll,2,1,0,LAYUPS,,2003
-Predrag Savovic,2453,Hook Shot,2,1,1,POST_MOVES,,2003
-Predrag Savovic,2453,Jump Shot,2,57,13,JUMP_SHOTS,,2003
-Predrag Savovic,2453,Reverse Layup,2,2,0,LAYUPS,,2003
-Predrag Savovic,2453,Standard Layup,2,26,11,LAYUPS,,2003
-Predrag Savovic,2453,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2003
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Predrag Savovic,2453,Driving Layup Shot,2,4,4,Driving Layup,LAYUPS,2003
+Predrag Savovic,2453,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2003
+Predrag Savovic,2453,Finger Roll Shot,2,1,0,Finger Roll,LAYUPS,2003
+Predrag Savovic,2453,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2003
+Predrag Savovic,2453,Jump Shot,2,57,13,2PT Jump Shot,TWO_POINT_JUMPERS,2003
+Predrag Savovic,2453,Layup Shot,2,25,10,Standard Layup,LAYUPS,2003
+Predrag Savovic,2453,Reverse Layup Shot,2,2,0,Reverse Layup,LAYUPS,2003
+Predrag Savovic,2453,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2003
+Predrag Savovic,2453,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2003

@@ -1,9 +1,10 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Randell Jackson,1872,Driving Layup,2,7,5,LAYUPS,,1999
-Randell Jackson,1872,Hook Shot,2,2,0,POST_MOVES,,1999
-Randell Jackson,1872,Jump Shot,2,68,19,JUMP_SHOTS,,1999
-Randell Jackson,1872,Jump Shot,3,2,0,JUMP_SHOTS,,1999
-Randell Jackson,1872,Running Jump Shot,2,3,1,JUMP_SHOTS,,1999
-Randell Jackson,1872,Standard Dunk,2,7,6,DUNKS,,1999
-Randell Jackson,1872,Standard Layup,2,13,11,LAYUPS,,1999
-Randell Jackson,1872,Tip Shot,2,6,4,TIP_SHOTS,,1999
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Randell Jackson,1872,Driving Layup Shot,2,7,5,Driving Layup,LAYUPS,1999
+Randell Jackson,1872,Dunk Shot,2,4,3,Standard Dunk,DUNKS,1999
+Randell Jackson,1872,Hook Shot,2,2,0,Hook Shot,POST_MOVES,1999
+Randell Jackson,1872,Jump Shot,2,68,19,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Randell Jackson,1872,Jump Shot,3,2,0,3PT Jump Shot,THREE_POINT_JUMPERS,1999
+Randell Jackson,1872,Layup Shot,2,13,11,Standard Layup,LAYUPS,1999
+Randell Jackson,1872,Running Jump Shot,2,3,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999
+Randell Jackson,1872,Slam Dunk Shot,2,3,3,Standard Dunk,DUNKS,1999
+Randell Jackson,1872,Tip Shot,2,6,4,Tip Shot,TIP_SHOTS,1999

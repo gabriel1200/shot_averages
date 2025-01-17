@@ -1,28 +1,44 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Julian Phillips,1641763,Alley Oop Dunk,2,1,1,DUNKS,,2024
-Julian Phillips,1641763,Driving Dunk,2,1,0,DUNKS,,2024
-Julian Phillips,1641763,Driving Layup,2,14,8,LAYUPS,,2024
-Julian Phillips,1641763,Finger Roll,2,3,2,LAYUPS,,2024
-Julian Phillips,1641763,Floating Jump Shot,2,4,1,FLOATING_SHOTS,,2024
-Julian Phillips,1641763,Jump Shot,2,2,1,JUMP_SHOTS,,2024
-Julian Phillips,1641763,Jump Shot,3,35,10,JUMP_SHOTS,,2024
-Julian Phillips,1641763,Putback Layup,2,3,2,LAYUPS,,2024
-Julian Phillips,1641763,Reverse Layup,2,2,1,LAYUPS,,2024
-Julian Phillips,1641763,Running Jump Shot,3,3,2,JUMP_SHOTS,,2024
-Julian Phillips,1641763,Specialty Dunk,2,4,3,DUNKS,,2024
-Julian Phillips,1641763,Standard Dunk,2,1,0,DUNKS,,2024
-Julian Phillips,1641763,Standard Layup,2,4,1,LAYUPS,,2024
-Julian Phillips,1641763,Driving Layup,2,12,6,LAYUPS,,2025
-Julian Phillips,1641763,Finger Roll,2,4,3,LAYUPS,,2025
-Julian Phillips,1641763,Floating Jump Shot,2,6,1,FLOATING_SHOTS,,2025
-Julian Phillips,1641763,Hook Shot,2,1,0,POST_MOVES,,2025
-Julian Phillips,1641763,Jump Shot,2,1,0,JUMP_SHOTS,,2025
-Julian Phillips,1641763,Jump Shot,3,73,24,JUMP_SHOTS,,2025
-Julian Phillips,1641763,Putback Layup,2,9,7,LAYUPS,,2025
-Julian Phillips,1641763,Reverse Dunk,2,1,1,DUNKS,,2025
-Julian Phillips,1641763,Running Jump Shot,2,1,0,JUMP_SHOTS,,2025
-Julian Phillips,1641763,Running Jump Shot,3,10,2,JUMP_SHOTS,,2025
-Julian Phillips,1641763,Specialty Dunk,2,8,6,DUNKS,,2025
-Julian Phillips,1641763,Standard Dunk,2,9,9,DUNKS,,2025
-Julian Phillips,1641763,Standard Layup,2,12,7,LAYUPS,,2025
-Julian Phillips,1641763,Turnaround Hook Shot,2,1,0,POST_MOVES,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Julian Phillips,1641763,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2024
+Julian Phillips,1641763,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2024
+Julian Phillips,1641763,Cutting Layup Shot,2,2,0,Standard Layup,LAYUPS,2024
+Julian Phillips,1641763,Driving Dunk Shot,2,1,0,Driving Dunk,DUNKS,2024
+Julian Phillips,1641763,Driving Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2024
+Julian Phillips,1641763,Driving Floating Jump Shot,2,3,0,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Julian Phillips,1641763,Driving Layup Shot,2,11,7,Driving Layup,LAYUPS,2024
+Julian Phillips,1641763,Driving Reverse Layup Shot,2,3,1,Driving Layup,LAYUPS,2024
+Julian Phillips,1641763,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Julian Phillips,1641763,Jump Shot,2,2,1,2PT Jump Shot,TWO_POINT_JUMPERS,2024
+Julian Phillips,1641763,Jump Shot,3,35,10,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Julian Phillips,1641763,Layup Shot,2,1,1,Standard Layup,LAYUPS,2024
+Julian Phillips,1641763,Putback Layup Shot,2,3,2,Putback Layup,LAYUPS,2024
+Julian Phillips,1641763,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2024
+Julian Phillips,1641763,Running Dunk Shot,2,1,0,Standard Dunk,DUNKS,2024
+Julian Phillips,1641763,Running Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2024
+Julian Phillips,1641763,Running Jump Shot,3,3,2,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Julian Phillips,1641763,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2024
+Julian Phillips,1641763,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2024
+Julian Phillips,1641763,Tip Dunk Shot,2,3,2,Specialty Dunk,DUNKS,2024
+Julian Phillips,1641763,Cutting Dunk Shot,2,5,4,Specialty Dunk,DUNKS,2025
+Julian Phillips,1641763,Cutting Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2025
+Julian Phillips,1641763,Cutting Layup Shot,2,7,6,Standard Layup,LAYUPS,2025
+Julian Phillips,1641763,Driving Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2025
+Julian Phillips,1641763,Driving Floating Jump Shot,2,5,1,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Julian Phillips,1641763,Driving Layup Shot,2,12,6,Driving Layup,LAYUPS,2025
+Julian Phillips,1641763,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2025
+Julian Phillips,1641763,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Julian Phillips,1641763,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2025
+Julian Phillips,1641763,Jump Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2025
+Julian Phillips,1641763,Jump Shot,3,73,24,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Julian Phillips,1641763,Layup Shot,2,3,0,Standard Layup,LAYUPS,2025
+Julian Phillips,1641763,Putback Layup Shot,2,3,3,Putback Layup,LAYUPS,2025
+Julian Phillips,1641763,Reverse Dunk Shot,2,1,1,Reverse Dunk,DUNKS,2025
+Julian Phillips,1641763,Running Dunk Shot,2,7,7,Standard Dunk,DUNKS,2025
+Julian Phillips,1641763,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2025
+Julian Phillips,1641763,Running Jump Shot,3,9,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Julian Phillips,1641763,Running Layup Shot,2,2,1,Standard Layup,LAYUPS,2025
+Julian Phillips,1641763,Running Pull-Up Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2025
+Julian Phillips,1641763,Running Pull-Up Jump Shot,3,1,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Julian Phillips,1641763,Tip Dunk Shot,2,3,2,Specialty Dunk,DUNKS,2025
+Julian Phillips,1641763,Tip Layup Shot,2,6,4,Putback Layup,LAYUPS,2025
+Julian Phillips,1641763,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2025

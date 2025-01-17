@@ -1,33 +1,46 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Nick Smith Jr.,1641733,Alley Oop Layup,2,1,0,LAYUPS,,2024
-Nick Smith Jr.,1641733,Driving Hook Shot,2,1,0,POST_MOVES,,2024
-Nick Smith Jr.,1641733,Driving Layup,2,8,3,LAYUPS,,2024
-Nick Smith Jr.,1641733,Fadeaway Jump Shot,2,5,1,JUMP_SHOTS,,2024
-Nick Smith Jr.,1641733,Finger Roll,2,2,1,LAYUPS,,2024
-Nick Smith Jr.,1641733,Floating Jump Shot,2,34,12,FLOATING_SHOTS,,2024
-Nick Smith Jr.,1641733,Jump Shot,2,6,3,JUMP_SHOTS,,2024
-Nick Smith Jr.,1641733,Jump Shot,3,104,48,JUMP_SHOTS,,2024
-Nick Smith Jr.,1641733,Pullup Jump Shot,2,43,13,JUMP_SHOTS,,2024
-Nick Smith Jr.,1641733,Pullup Jump Shot,3,19,6,JUMP_SHOTS,,2024
-Nick Smith Jr.,1641733,Putback Layup,2,4,1,LAYUPS,,2024
-Nick Smith Jr.,1641733,Reverse Layup,2,2,2,LAYUPS,,2024
-Nick Smith Jr.,1641733,Running Jump Shot,2,6,3,JUMP_SHOTS,,2024
-Nick Smith Jr.,1641733,Running Jump Shot,3,9,3,JUMP_SHOTS,,2024
-Nick Smith Jr.,1641733,Specialty Dunk,2,2,2,DUNKS,,2024
-Nick Smith Jr.,1641733,Standard Layup,2,12,3,LAYUPS,,2024
-Nick Smith Jr.,1641733,Step Back Jump Shot,2,12,2,JUMP_SHOTS,,2024
-Nick Smith Jr.,1641733,Step Back Jump Shot,3,14,6,JUMP_SHOTS,,2024
-Nick Smith Jr.,1641733,Turnaround Hook Shot,2,1,1,POST_MOVES,,2024
-Nick Smith Jr.,1641733,Turnaround Jump Shot,2,4,3,JUMP_SHOTS,,2024
-Nick Smith Jr.,1641733,Driving Layup,2,3,1,LAYUPS,,2025
-Nick Smith Jr.,1641733,Fadeaway Jump Shot,2,5,2,JUMP_SHOTS,,2025
-Nick Smith Jr.,1641733,Floating Jump Shot,2,12,3,FLOATING_SHOTS,,2025
-Nick Smith Jr.,1641733,Jump Shot,3,29,10,JUMP_SHOTS,,2025
-Nick Smith Jr.,1641733,Pullup Jump Shot,2,8,3,JUMP_SHOTS,,2025
-Nick Smith Jr.,1641733,Pullup Jump Shot,3,4,3,JUMP_SHOTS,,2025
-Nick Smith Jr.,1641733,Running Jump Shot,3,11,4,JUMP_SHOTS,,2025
-Nick Smith Jr.,1641733,Standard Layup,2,3,3,LAYUPS,,2025
-Nick Smith Jr.,1641733,Step Back Jump Shot,2,2,0,JUMP_SHOTS,,2025
-Nick Smith Jr.,1641733,Step Back Jump Shot,3,5,1,JUMP_SHOTS,,2025
-Nick Smith Jr.,1641733,Turnaround Hook Shot,2,1,0,POST_MOVES,,2025
-Nick Smith Jr.,1641733,Turnaround Jump Shot,2,3,1,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Nick Smith Jr.,1641733,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2024
+Nick Smith Jr.,1641733,Cutting Layup Shot,2,4,1,Standard Layup,LAYUPS,2024
+Nick Smith Jr.,1641733,Driving Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2024
+Nick Smith Jr.,1641733,Driving Floating Jump Shot,2,25,8,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Nick Smith Jr.,1641733,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2024
+Nick Smith Jr.,1641733,Driving Layup Shot,2,7,2,Driving Layup,LAYUPS,2024
+Nick Smith Jr.,1641733,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2024
+Nick Smith Jr.,1641733,Fadeaway Jump Shot,2,5,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
+Nick Smith Jr.,1641733,Floating Jump shot,2,9,4,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Nick Smith Jr.,1641733,Jump Shot,2,6,3,2PT Jump Shot,TWO_POINT_JUMPERS,2024
+Nick Smith Jr.,1641733,Jump Shot,3,104,48,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Nick Smith Jr.,1641733,Layup Shot,2,2,0,Standard Layup,LAYUPS,2024
+Nick Smith Jr.,1641733,Pullup Jump shot,2,43,13,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2024
+Nick Smith Jr.,1641733,Pullup Jump shot,3,19,6,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
+Nick Smith Jr.,1641733,Putback Layup Shot,2,4,1,Putback Layup,LAYUPS,2024
+Nick Smith Jr.,1641733,Running Alley Oop Layup Shot,2,1,0,Alley Oop Layup,LAYUPS,2024
+Nick Smith Jr.,1641733,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2024
+Nick Smith Jr.,1641733,Running Jump Shot,3,6,2,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Nick Smith Jr.,1641733,Running Layup Shot,2,6,2,Standard Layup,LAYUPS,2024
+Nick Smith Jr.,1641733,Running Pull-Up Jump Shot,2,5,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2024
+Nick Smith Jr.,1641733,Running Pull-Up Jump Shot,3,3,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Nick Smith Jr.,1641733,Running Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2024
+Nick Smith Jr.,1641733,Step Back Jump shot,2,12,2,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2024
+Nick Smith Jr.,1641733,Step Back Jump shot,3,14,6,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
+Nick Smith Jr.,1641733,Tip Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2024
+Nick Smith Jr.,1641733,Turnaround Bank shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Nick Smith Jr.,1641733,Turnaround Fadeaway shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Nick Smith Jr.,1641733,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2024
+Nick Smith Jr.,1641733,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Nick Smith Jr.,1641733,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2025
+Nick Smith Jr.,1641733,Driving Floating Jump Shot,2,12,3,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Nick Smith Jr.,1641733,Driving Layup Shot,2,3,1,Driving Layup,LAYUPS,2025
+Nick Smith Jr.,1641733,Fadeaway Bank shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
+Nick Smith Jr.,1641733,Fadeaway Jump Shot,2,4,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
+Nick Smith Jr.,1641733,Jump Shot,3,29,10,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Nick Smith Jr.,1641733,Pullup Jump shot,2,8,3,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
+Nick Smith Jr.,1641733,Pullup Jump shot,3,4,3,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
+Nick Smith Jr.,1641733,Running Jump Shot,3,10,4,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Nick Smith Jr.,1641733,Running Layup Shot,2,2,2,Standard Layup,LAYUPS,2025
+Nick Smith Jr.,1641733,Running Pull-Up Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Nick Smith Jr.,1641733,Step Back Jump shot,2,2,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2025
+Nick Smith Jr.,1641733,Step Back Jump shot,3,5,1,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
+Nick Smith Jr.,1641733,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+Nick Smith Jr.,1641733,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2025
+Nick Smith Jr.,1641733,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025

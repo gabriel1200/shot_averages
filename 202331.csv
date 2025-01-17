@@ -1,300 +1,490 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Paul George,202331,Alley Oop Dunk,2,11,11,DUNKS,,2011
-Paul George,202331,Alley Oop Layup,2,1,1,LAYUPS,,2011
-Paul George,202331,Driving Dunk,2,4,4,DUNKS,,2011
-Paul George,202331,Driving Jump Shot,2,2,1,JUMP_SHOTS,,2011
-Paul George,202331,Driving Layup,2,17,14,LAYUPS,,2011
-Paul George,202331,Fadeaway Jump Shot,2,12,9,JUMP_SHOTS,,2011
-Paul George,202331,Finger Roll,2,5,4,LAYUPS,,2011
-Paul George,202331,Floating Jump Shot,2,3,3,FLOATING_SHOTS,,2011
-Paul George,202331,Hook Shot,2,1,0,POST_MOVES,,2011
-Paul George,202331,Jump Shot,2,226,72,JUMP_SHOTS,,2011
-Paul George,202331,Pullup Jump Shot,2,10,6,JUMP_SHOTS,,2011
-Paul George,202331,Putback Dunk,2,3,3,DUNKS,,2011
-Paul George,202331,Putback Layup,2,3,3,LAYUPS,,2011
-Paul George,202331,Reverse Layup,2,7,5,LAYUPS,,2011
-Paul George,202331,Running Jump Shot,2,4,0,JUMP_SHOTS,,2011
-Paul George,202331,Standard Dunk,2,20,15,DUNKS,,2011
-Paul George,202331,Standard Layup,2,52,23,LAYUPS,,2011
-Paul George,202331,Step Back Jump Shot,2,4,1,JUMP_SHOTS,,2011
-Paul George,202331,Tip Shot,2,6,3,TIP_SHOTS,,2011
-Paul George,202331,Turnaround Jump Shot,2,3,1,JUMP_SHOTS,,2011
-Paul George,202331,Alley Oop Dunk,2,3,3,DUNKS,,2012
-Paul George,202331,Alley Oop Layup,2,3,2,LAYUPS,,2012
-Paul George,202331,Driving Dunk,2,7,6,DUNKS,,2012
-Paul George,202331,Driving Layup,2,30,21,LAYUPS,,2012
-Paul George,202331,Fadeaway Jump Shot,2,15,6,JUMP_SHOTS,,2012
-Paul George,202331,Finger Roll,2,11,10,LAYUPS,,2012
-Paul George,202331,Floating Jump Shot,2,2,1,FLOATING_SHOTS,,2012
-Paul George,202331,Jump Shot,2,376,118,JUMP_SHOTS,,2012
-Paul George,202331,Pullup Jump Shot,2,13,7,JUMP_SHOTS,,2012
-Paul George,202331,Putback Dunk,2,3,3,DUNKS,,2012
-Paul George,202331,Putback Layup,2,3,3,LAYUPS,,2012
-Paul George,202331,Reverse Dunk,2,1,1,DUNKS,,2012
-Paul George,202331,Reverse Layup,2,7,3,LAYUPS,,2012
-Paul George,202331,Running Jump Shot,2,3,2,JUMP_SHOTS,,2012
-Paul George,202331,Standard Dunk,2,42,36,DUNKS,,2012
-Paul George,202331,Standard Layup,2,89,39,LAYUPS,,2012
-Paul George,202331,Step Back Jump Shot,2,14,9,JUMP_SHOTS,,2012
-Paul George,202331,Tip Shot,2,8,5,TIP_SHOTS,,2012
-Paul George,202331,Turnaround Jump Shot,2,9,6,JUMP_SHOTS,,2012
-Paul George,202331,Alley Oop Dunk,2,4,4,DUNKS,,2013
-Paul George,202331,Alley Oop Layup,2,3,2,LAYUPS,,2013
-Paul George,202331,Driving Dunk,2,15,14,DUNKS,,2013
-Paul George,202331,Driving Jump Shot,2,6,2,JUMP_SHOTS,,2013
-Paul George,202331,Driving Layup,2,34,25,LAYUPS,,2013
-Paul George,202331,Fadeaway Jump Shot,2,23,11,JUMP_SHOTS,,2013
-Paul George,202331,Finger Roll,2,13,12,LAYUPS,,2013
-Paul George,202331,Floating Jump Shot,2,1,1,FLOATING_SHOTS,,2013
-Paul George,202331,Hook Shot,2,2,0,POST_MOVES,,2013
-Paul George,202331,Jump Shot,2,761,247,JUMP_SHOTS,,2013
-Paul George,202331,Pullup Jump Shot,2,34,18,JUMP_SHOTS,,2013
-Paul George,202331,Putback Dunk,2,2,1,DUNKS,,2013
-Paul George,202331,Putback Layup,2,3,3,LAYUPS,,2013
-Paul George,202331,Reverse Dunk,2,5,4,DUNKS,,2013
-Paul George,202331,Reverse Layup,2,6,4,LAYUPS,,2013
-Paul George,202331,Running Jump Shot,2,9,1,JUMP_SHOTS,,2013
-Paul George,202331,Standard Dunk,2,51,48,DUNKS,,2013
-Paul George,202331,Standard Layup,2,144,63,LAYUPS,,2013
-Paul George,202331,Step Back Jump Shot,2,24,15,JUMP_SHOTS,,2013
-Paul George,202331,Tip Shot,2,13,4,TIP_SHOTS,,2013
-Paul George,202331,Turnaround Hook Shot,2,1,0,POST_MOVES,,2013
-Paul George,202331,Turnaround Jump Shot,2,22,14,JUMP_SHOTS,,2013
-Paul George,202331,Alley Oop Dunk,2,10,10,DUNKS,,2014
-Paul George,202331,Alley Oop Layup,2,4,3,LAYUPS,,2014
-Paul George,202331,Driving Dunk,2,17,13,DUNKS,,2014
-Paul George,202331,Driving Jump Shot,2,10,4,JUMP_SHOTS,,2014
-Paul George,202331,Driving Layup,2,54,37,LAYUPS,,2014
-Paul George,202331,Fadeaway Jump Shot,2,33,21,JUMP_SHOTS,,2014
-Paul George,202331,Finger Roll,2,9,7,LAYUPS,,2014
-Paul George,202331,Floating Jump Shot,2,5,3,FLOATING_SHOTS,,2014
-Paul George,202331,Jump Shot,2,860,271,JUMP_SHOTS,,2014
-Paul George,202331,Jump Shot,3,3,1,JUMP_SHOTS,,2014
-Paul George,202331,Pullup Jump Shot,2,66,44,JUMP_SHOTS,,2014
-Paul George,202331,Putback Dunk,2,1,0,DUNKS,,2014
-Paul George,202331,Putback Layup,2,1,1,LAYUPS,,2014
-Paul George,202331,Reverse Dunk,2,4,4,DUNKS,,2014
-Paul George,202331,Reverse Layup,2,13,10,LAYUPS,,2014
-Paul George,202331,Running Jump Shot,2,13,9,JUMP_SHOTS,,2014
-Paul George,202331,Standard Dunk,2,43,42,DUNKS,,2014
-Paul George,202331,Standard Layup,2,132,45,LAYUPS,,2014
-Paul George,202331,Step Back Jump Shot,2,46,31,JUMP_SHOTS,,2014
-Paul George,202331,Tip Shot,2,5,1,TIP_SHOTS,,2014
-Paul George,202331,Turnaround Jump Shot,2,32,20,JUMP_SHOTS,,2014
-Paul George,202331,Driving Layup,2,1,1,LAYUPS,,2015
-Paul George,202331,Fadeaway Jump Shot,2,2,1,JUMP_SHOTS,,2015
-Paul George,202331,Jump Shot,2,34,11,JUMP_SHOTS,,2015
-Paul George,202331,Pullup Jump Shot,2,3,2,JUMP_SHOTS,,2015
-Paul George,202331,Putback Dunk,2,1,0,DUNKS,,2015
-Paul George,202331,Standard Dunk,2,2,2,DUNKS,,2015
-Paul George,202331,Standard Layup,2,5,0,LAYUPS,,2015
-Paul George,202331,Tip Shot,2,1,1,TIP_SHOTS,,2015
-Paul George,202331,Alley Oop Dunk,2,2,2,DUNKS,,2016
-Paul George,202331,Alley Oop Layup,2,4,2,LAYUPS,,2016
-Paul George,202331,Driving Dunk,2,11,9,DUNKS,,2016
-Paul George,202331,Driving Jump Shot,2,6,3,JUMP_SHOTS,,2016
-Paul George,202331,Driving Layup,2,77,41,LAYUPS,,2016
-Paul George,202331,Fadeaway Jump Shot,2,35,13,JUMP_SHOTS,,2016
-Paul George,202331,Finger Roll,2,9,7,LAYUPS,,2016
-Paul George,202331,Floating Jump Shot,2,25,16,FLOATING_SHOTS,,2016
-Paul George,202331,Jump Shot,2,820,278,JUMP_SHOTS,,2016
-Paul George,202331,Pullup Jump Shot,2,169,81,JUMP_SHOTS,,2016
-Paul George,202331,Putback Dunk,2,1,1,DUNKS,,2016
-Paul George,202331,Putback Layup,2,14,9,LAYUPS,,2016
-Paul George,202331,Reverse Dunk,2,2,2,DUNKS,,2016
-Paul George,202331,Reverse Layup,2,8,4,LAYUPS,,2016
-Paul George,202331,Running Jump Shot,2,24,12,JUMP_SHOTS,,2016
-Paul George,202331,Specialty Dunk,2,5,5,DUNKS,,2016
-Paul George,202331,Standard Dunk,2,15,14,DUNKS,,2016
-Paul George,202331,Standard Layup,2,111,55,LAYUPS,,2016
-Paul George,202331,Step Back Jump Shot,2,67,33,JUMP_SHOTS,,2016
-Paul George,202331,Turnaround Hook Shot,2,1,1,POST_MOVES,,2016
-Paul George,202331,Turnaround Jump Shot,2,39,15,JUMP_SHOTS,,2016
-Paul George,202331,Alley Oop Dunk,2,2,2,DUNKS,,2017
-Paul George,202331,Alley Oop Layup,2,1,1,LAYUPS,,2017
-Paul George,202331,Driving Dunk,2,12,10,DUNKS,,2017
-Paul George,202331,Driving Hook Shot,2,3,2,POST_MOVES,,2017
-Paul George,202331,Driving Jump Shot,2,3,3,JUMP_SHOTS,,2017
-Paul George,202331,Driving Layup,2,71,41,LAYUPS,,2017
-Paul George,202331,Fadeaway Jump Shot,2,20,12,JUMP_SHOTS,,2017
-Paul George,202331,Finger Roll,2,11,7,LAYUPS,,2017
-Paul George,202331,Floating Jump Shot,2,17,6,FLOATING_SHOTS,,2017
-Paul George,202331,Jump Shot,2,792,292,JUMP_SHOTS,,2017
-Paul George,202331,Pullup Jump Shot,2,172,104,JUMP_SHOTS,,2017
-Paul George,202331,Putback Dunk,2,1,1,DUNKS,,2017
-Paul George,202331,Putback Layup,2,9,4,LAYUPS,,2017
-Paul George,202331,Reverse Dunk,2,1,1,DUNKS,,2017
-Paul George,202331,Reverse Layup,2,6,2,LAYUPS,,2017
-Paul George,202331,Running Jump Shot,2,20,11,JUMP_SHOTS,,2017
-Paul George,202331,Specialty Dunk,2,6,4,DUNKS,,2017
-Paul George,202331,Standard Dunk,2,13,13,DUNKS,,2017
-Paul George,202331,Standard Layup,2,65,40,LAYUPS,,2017
-Paul George,202331,Step Back Jump Shot,2,81,39,JUMP_SHOTS,,2017
-Paul George,202331,Turnaround Hook Shot,2,1,1,POST_MOVES,,2017
-Paul George,202331,Turnaround Jump Shot,2,38,24,JUMP_SHOTS,,2017
-Paul George,202331,Alley Oop Dunk,2,1,1,DUNKS,,2018
-Paul George,202331,Alley Oop Layup,2,2,2,LAYUPS,,2018
-Paul George,202331,Driving Dunk,2,20,16,DUNKS,,2018
-Paul George,202331,Driving Hook Shot,2,1,0,POST_MOVES,,2018
-Paul George,202331,Driving Layup,2,153,79,LAYUPS,,2018
-Paul George,202331,Fadeaway Jump Shot,2,17,4,JUMP_SHOTS,,2018
-Paul George,202331,Finger Roll,2,7,5,LAYUPS,,2018
-Paul George,202331,Floating Jump Shot,2,48,18,FLOATING_SHOTS,,2018
-Paul George,202331,Jump Shot,2,579,215,JUMP_SHOTS,,2018
-Paul George,202331,Pullup Jump Shot,2,238,85,JUMP_SHOTS,,2018
-Paul George,202331,Pullup Jump Shot,3,2,0,JUMP_SHOTS,,2018
-Paul George,202331,Putback Layup,2,10,7,LAYUPS,,2018
-Paul George,202331,Reverse Layup,2,4,3,LAYUPS,,2018
-Paul George,202331,Running Jump Shot,2,36,19,JUMP_SHOTS,,2018
-Paul George,202331,Running Jump Shot,3,1,1,JUMP_SHOTS,,2018
-Paul George,202331,Specialty Dunk,2,5,5,DUNKS,,2018
-Paul George,202331,Standard Dunk,2,17,16,DUNKS,,2018
-Paul George,202331,Standard Layup,2,91,50,LAYUPS,,2018
-Paul George,202331,Step Back Jump Shot,2,77,34,JUMP_SHOTS,,2018
-Paul George,202331,Turnaround Jump Shot,2,31,16,JUMP_SHOTS,,2018
-Paul George,202331,Alley Oop Dunk,2,5,5,DUNKS,,2019
-Paul George,202331,Alley Oop Layup,2,3,1,LAYUPS,,2019
-Paul George,202331,Driving Dunk,2,19,16,DUNKS,,2019
-Paul George,202331,Driving Hook Shot,2,1,0,POST_MOVES,,2019
-Paul George,202331,Driving Layup,2,188,82,LAYUPS,,2019
-Paul George,202331,Fadeaway Jump Shot,2,21,10,JUMP_SHOTS,,2019
-Paul George,202331,Finger Roll,2,15,12,LAYUPS,,2019
-Paul George,202331,Floating Jump Shot,2,88,40,FLOATING_SHOTS,,2019
-Paul George,202331,Jump Shot,2,550,204,JUMP_SHOTS,,2019
-Paul George,202331,Jump Shot,3,24,9,JUMP_SHOTS,,2019
-Paul George,202331,Pullup Jump Shot,2,311,123,JUMP_SHOTS,,2019
-Paul George,202331,Pullup Jump Shot,3,12,6,JUMP_SHOTS,,2019
-Paul George,202331,Putback Layup,2,21,11,LAYUPS,,2019
-Paul George,202331,Reverse Layup,2,9,5,LAYUPS,,2019
-Paul George,202331,Running Jump Shot,2,64,26,JUMP_SHOTS,,2019
-Paul George,202331,Running Jump Shot,3,3,2,JUMP_SHOTS,,2019
-Paul George,202331,Specialty Dunk,2,6,4,DUNKS,,2019
-Paul George,202331,Standard Dunk,2,27,27,DUNKS,,2019
-Paul George,202331,Standard Layup,2,86,54,LAYUPS,,2019
-Paul George,202331,Step Back Jump Shot,2,109,46,JUMP_SHOTS,,2019
-Paul George,202331,Step Back Jump Shot,3,2,0,JUMP_SHOTS,,2019
-Paul George,202331,Turnaround Jump Shot,2,50,24,JUMP_SHOTS,,2019
-Paul George,202331,Driving Dunk,2,3,3,DUNKS,,2020
-Paul George,202331,Driving Hook Shot,2,2,1,POST_MOVES,,2020
-Paul George,202331,Driving Layup,2,83,44,LAYUPS,,2020
-Paul George,202331,Fadeaway Jump Shot,2,17,6,JUMP_SHOTS,,2020
-Paul George,202331,Finger Roll,2,10,5,LAYUPS,,2020
-Paul George,202331,Floating Jump Shot,2,34,16,FLOATING_SHOTS,,2020
-Paul George,202331,Hook Shot,2,1,0,POST_MOVES,,2020
-Paul George,202331,Jump Shot,2,271,103,JUMP_SHOTS,,2020
-Paul George,202331,Jump Shot,3,1,0,JUMP_SHOTS,,2020
-Paul George,202331,Pullup Jump Shot,2,149,59,JUMP_SHOTS,,2020
-Paul George,202331,Pullup Jump Shot,3,2,1,JUMP_SHOTS,,2020
-Paul George,202331,Putback Layup,2,2,2,LAYUPS,,2020
-Paul George,202331,Reverse Layup,2,2,2,LAYUPS,,2020
-Paul George,202331,Running Jump Shot,2,31,14,JUMP_SHOTS,,2020
-Paul George,202331,Specialty Dunk,2,2,2,DUNKS,,2020
-Paul George,202331,Standard Dunk,2,11,10,DUNKS,,2020
-Paul George,202331,Standard Layup,2,35,18,LAYUPS,,2020
-Paul George,202331,Step Back Jump Shot,2,93,46,JUMP_SHOTS,,2020
-Paul George,202331,Step Back Jump Shot,3,1,0,JUMP_SHOTS,,2020
-Paul George,202331,Turnaround Jump Shot,2,32,11,JUMP_SHOTS,,2020
-Paul George,202331,Alley Oop Dunk,2,2,2,DUNKS,,2021
-Paul George,202331,Alley Oop Layup,2,3,2,LAYUPS,,2021
-Paul George,202331,Driving Dunk,2,13,11,DUNKS,,2021
-Paul George,202331,Driving Hook Shot,2,1,1,POST_MOVES,,2021
-Paul George,202331,Driving Layup,2,139,71,LAYUPS,,2021
-Paul George,202331,Fadeaway Jump Shot,2,22,9,JUMP_SHOTS,,2021
-Paul George,202331,Finger Roll,2,16,11,LAYUPS,,2021
-Paul George,202331,Floating Jump Shot,2,54,23,FLOATING_SHOTS,,2021
-Paul George,202331,Hook Shot,2,1,1,POST_MOVES,,2021
-Paul George,202331,Jump Shot,2,298,118,JUMP_SHOTS,,2021
-Paul George,202331,Pullup Jump Shot,2,185,84,JUMP_SHOTS,,2021
-Paul George,202331,Putback Layup,2,5,4,LAYUPS,,2021
-Paul George,202331,Reverse Layup,2,3,3,LAYUPS,,2021
-Paul George,202331,Running Jump Shot,2,22,9,JUMP_SHOTS,,2021
-Paul George,202331,Specialty Dunk,2,3,3,DUNKS,,2021
-Paul George,202331,Standard Dunk,2,5,3,DUNKS,,2021
-Paul George,202331,Standard Layup,2,42,22,LAYUPS,,2021
-Paul George,202331,Step Back Jump Shot,2,100,48,JUMP_SHOTS,,2021
-Paul George,202331,Step Back Jump Shot,3,1,1,JUMP_SHOTS,,2021
-Paul George,202331,Turnaround Hook Shot,2,1,1,POST_MOVES,,2021
-Paul George,202331,Turnaround Jump Shot,2,37,18,JUMP_SHOTS,,2021
-Paul George,202331,Alley Oop Layup,2,1,0,LAYUPS,,2022
-Paul George,202331,Driving Dunk,2,8,6,DUNKS,,2022
-Paul George,202331,Driving Hook Shot,2,2,0,POST_MOVES,,2022
-Paul George,202331,Driving Layup,2,69,33,LAYUPS,,2022
-Paul George,202331,Fadeaway Jump Shot,2,33,13,JUMP_SHOTS,,2022
-Paul George,202331,Finger Roll,2,5,5,LAYUPS,,2022
-Paul George,202331,Floating Jump Shot,2,27,14,FLOATING_SHOTS,,2022
-Paul George,202331,Hook Shot,2,1,1,POST_MOVES,,2022
-Paul George,202331,Jump Shot,2,161,57,JUMP_SHOTS,,2022
-Paul George,202331,Pullup Jump Shot,2,146,52,JUMP_SHOTS,,2022
-Paul George,202331,Putback Layup,2,3,3,LAYUPS,,2022
-Paul George,202331,Reverse Layup,2,7,4,LAYUPS,,2022
-Paul George,202331,Running Jump Shot,2,21,6,JUMP_SHOTS,,2022
-Paul George,202331,Standard Dunk,2,4,4,DUNKS,,2022
-Paul George,202331,Standard Layup,2,19,9,LAYUPS,,2022
-Paul George,202331,Step Back Jump Shot,2,89,37,JUMP_SHOTS,,2022
-Paul George,202331,Turnaround Hook Shot,2,1,1,POST_MOVES,,2022
-Paul George,202331,Turnaround Jump Shot,2,39,23,JUMP_SHOTS,,2022
-Paul George,202331,Alley Oop Dunk,2,4,4,DUNKS,,2023
-Paul George,202331,Alley Oop Layup,2,1,0,LAYUPS,,2023
-Paul George,202331,Driving Dunk,2,19,14,DUNKS,,2023
-Paul George,202331,Driving Hook Shot,2,4,3,POST_MOVES,,2023
-Paul George,202331,Driving Layup,2,100,56,LAYUPS,,2023
-Paul George,202331,Fadeaway Jump Shot,2,34,15,JUMP_SHOTS,,2023
-Paul George,202331,Finger Roll,2,22,17,LAYUPS,,2023
-Paul George,202331,Floating Jump Shot,2,44,22,FLOATING_SHOTS,,2023
-Paul George,202331,Hook Shot,2,2,0,POST_MOVES,,2023
-Paul George,202331,Jump Shot,2,256,100,JUMP_SHOTS,,2023
-Paul George,202331,Pullup Jump Shot,2,285,108,JUMP_SHOTS,,2023
-Paul George,202331,Putback Layup,2,14,8,LAYUPS,,2023
-Paul George,202331,Reverse Layup,2,5,4,LAYUPS,,2023
-Paul George,202331,Running Jump Shot,2,34,14,JUMP_SHOTS,,2023
-Paul George,202331,Specialty Dunk,2,5,5,DUNKS,,2023
-Paul George,202331,Standard Dunk,2,14,13,DUNKS,,2023
-Paul George,202331,Standard Layup,2,38,23,LAYUPS,,2023
-Paul George,202331,Step Back Jump Shot,2,75,33,JUMP_SHOTS,,2023
-Paul George,202331,Turnaround Jump Shot,2,48,20,JUMP_SHOTS,,2023
-Paul George,202331,Alley Oop Dunk,2,1,1,DUNKS,,2024
-Paul George,202331,Alley Oop Layup,2,4,2,LAYUPS,,2024
-Paul George,202331,Driving Dunk,2,18,9,DUNKS,,2024
-Paul George,202331,Driving Hook Shot,2,8,3,POST_MOVES,,2024
-Paul George,202331,Driving Layup,2,104,56,LAYUPS,,2024
-Paul George,202331,Fadeaway Jump Shot,2,47,21,JUMP_SHOTS,,2024
-Paul George,202331,Fadeaway Jump Shot,3,1,1,JUMP_SHOTS,,2024
-Paul George,202331,Finger Roll,2,11,6,LAYUPS,,2024
-Paul George,202331,Floating Jump Shot,2,41,19,FLOATING_SHOTS,,2024
-Paul George,202331,Jump Shot,2,58,29,JUMP_SHOTS,,2024
-Paul George,202331,Jump Shot,3,335,152,JUMP_SHOTS,,2024
-Paul George,202331,Pullup Jump Shot,2,141,61,JUMP_SHOTS,,2024
-Paul George,202331,Pullup Jump Shot,3,125,46,JUMP_SHOTS,,2024
-Paul George,202331,Putback Layup,2,7,2,LAYUPS,,2024
-Paul George,202331,Reverse Dunk,2,1,1,DUNKS,,2024
-Paul George,202331,Reverse Layup,2,6,4,LAYUPS,,2024
-Paul George,202331,Running Jump Shot,2,6,3,JUMP_SHOTS,,2024
-Paul George,202331,Running Jump Shot,3,48,12,JUMP_SHOTS,,2024
-Paul George,202331,Specialty Dunk,2,4,4,DUNKS,,2024
-Paul George,202331,Standard Dunk,2,16,14,DUNKS,,2024
-Paul George,202331,Standard Layup,2,70,49,LAYUPS,,2024
-Paul George,202331,Step Back Jump Shot,2,64,32,JUMP_SHOTS,,2024
-Paul George,202331,Step Back Jump Shot,3,78,31,JUMP_SHOTS,,2024
-Paul George,202331,Turnaround Hook Shot,2,1,1,POST_MOVES,,2024
-Paul George,202331,Turnaround Jump Shot,2,40,22,JUMP_SHOTS,,2024
-Paul George,202331,Turnaround Jump Shot,3,1,1,JUMP_SHOTS,,2024
-Paul George,202331,Driving Dunk,2,5,3,DUNKS,,2025
-Paul George,202331,Driving Hook Shot,2,1,1,POST_MOVES,,2025
-Paul George,202331,Driving Layup,2,41,23,LAYUPS,,2025
-Paul George,202331,Fadeaway Jump Shot,2,16,6,JUMP_SHOTS,,2025
-Paul George,202331,Finger Roll,2,4,2,LAYUPS,,2025
-Paul George,202331,Floating Jump Shot,2,16,8,FLOATING_SHOTS,,2025
-Paul George,202331,Jump Shot,2,8,3,JUMP_SHOTS,,2025
-Paul George,202331,Jump Shot,3,85,32,JUMP_SHOTS,,2025
-Paul George,202331,Pullup Jump Shot,2,46,19,JUMP_SHOTS,,2025
-Paul George,202331,Pullup Jump Shot,3,59,18,JUMP_SHOTS,,2025
-Paul George,202331,Putback Layup,2,3,1,LAYUPS,,2025
-Paul George,202331,Running Jump Shot,2,1,0,JUMP_SHOTS,,2025
-Paul George,202331,Running Jump Shot,3,11,3,JUMP_SHOTS,,2025
-Paul George,202331,Specialty Dunk,2,2,0,DUNKS,,2025
-Paul George,202331,Standard Dunk,2,4,4,DUNKS,,2025
-Paul George,202331,Standard Layup,2,12,6,LAYUPS,,2025
-Paul George,202331,Step Back Jump Shot,2,29,13,JUMP_SHOTS,,2025
-Paul George,202331,Step Back Jump Shot,3,28,12,JUMP_SHOTS,,2025
-Paul George,202331,Turnaround Hook Shot,2,2,2,POST_MOVES,,2025
-Paul George,202331,Turnaround Jump Shot,2,27,13,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Paul George,202331,Alley Oop Dunk Shot,2,11,11,Alley Oop Dunk,DUNKS,2011
+Paul George,202331,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2011
+Paul George,202331,Driving Bank shot,2,1,1,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2011
+Paul George,202331,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2011
+Paul George,202331,Driving Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2011
+Paul George,202331,Driving Jump shot,2,1,0,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2011
+Paul George,202331,Driving Layup Shot,2,17,14,Driving Layup,LAYUPS,2011
+Paul George,202331,Driving Slam Dunk Shot,2,2,2,Driving Dunk,DUNKS,2011
+Paul George,202331,Dunk Shot,2,7,4,Standard Dunk,DUNKS,2011
+Paul George,202331,Fadeaway Jump Shot,2,12,9,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2011
+Paul George,202331,Finger Roll Layup Shot,2,3,2,Finger Roll,LAYUPS,2011
+Paul George,202331,Floating Jump shot,2,3,3,2PT Floating Jump Shot,FLOATING_SHOTS,2011
+Paul George,202331,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2011
+Paul George,202331,Jump Bank Shot,2,2,2,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Paul George,202331,Jump Shot,2,224,70,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Paul George,202331,Layup Shot,2,51,22,Standard Layup,LAYUPS,2011
+Paul George,202331,Pullup Bank shot,2,2,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2011
+Paul George,202331,Pullup Jump shot,2,8,4,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2011
+Paul George,202331,Putback Dunk Shot,2,2,2,Putback Dunk,DUNKS,2011
+Paul George,202331,Putback Layup Shot,2,3,3,Putback Layup,LAYUPS,2011
+Paul George,202331,Putback Slam Dunk Shot,2,1,1,Putback Dunk,DUNKS,2011
+Paul George,202331,Reverse Layup Shot,2,7,5,Reverse Layup,LAYUPS,2011
+Paul George,202331,Running Jump Shot,2,4,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2011
+Paul George,202331,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2011
+Paul George,202331,Slam Dunk Shot,2,13,11,Standard Dunk,DUNKS,2011
+Paul George,202331,Step Back Jump shot,2,4,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2011
+Paul George,202331,Tip Shot,2,6,3,Tip Shot,TIP_SHOTS,2011
+Paul George,202331,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2011
+Paul George,202331,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2011
+Paul George,202331,Alley Oop Dunk Shot,2,3,3,Alley Oop Dunk,DUNKS,2012
+Paul George,202331,Alley Oop Layup shot,2,3,2,Alley Oop Layup,LAYUPS,2012
+Paul George,202331,Driving Dunk Shot,2,6,5,Driving Dunk,DUNKS,2012
+Paul George,202331,Driving Finger Roll Layup Shot,2,6,5,Finger Roll,LAYUPS,2012
+Paul George,202331,Driving Layup Shot,2,25,18,Driving Layup,LAYUPS,2012
+Paul George,202331,Driving Reverse Layup Shot,2,5,3,Driving Layup,LAYUPS,2012
+Paul George,202331,Driving Slam Dunk Shot,2,1,1,Driving Dunk,DUNKS,2012
+Paul George,202331,Dunk Shot,2,24,18,Standard Dunk,DUNKS,2012
+Paul George,202331,Fadeaway Jump Shot,2,15,6,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2012
+Paul George,202331,Finger Roll Layup Shot,2,4,4,Finger Roll,LAYUPS,2012
+Paul George,202331,Floating Jump shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2012
+Paul George,202331,Jump Bank Shot,2,2,1,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Paul George,202331,Jump Shot,2,374,117,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Paul George,202331,Layup Shot,2,87,37,Standard Layup,LAYUPS,2012
+Paul George,202331,Pullup Jump shot,2,13,7,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2012
+Paul George,202331,Putback Dunk Shot,2,3,3,Putback Dunk,DUNKS,2012
+Paul George,202331,Putback Layup Shot,2,3,3,Putback Layup,LAYUPS,2012
+Paul George,202331,Reverse Dunk Shot,2,1,1,Reverse Dunk,DUNKS,2012
+Paul George,202331,Reverse Layup Shot,2,7,3,Reverse Layup,LAYUPS,2012
+Paul George,202331,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2012
+Paul George,202331,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2012
+Paul George,202331,Running Jump Shot,2,3,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2012
+Paul George,202331,Running Layup Shot,2,2,2,Standard Layup,LAYUPS,2012
+Paul George,202331,Running Slam Dunk Shot,2,3,3,Standard Dunk,DUNKS,2012
+Paul George,202331,Slam Dunk Shot,2,14,14,Standard Dunk,DUNKS,2012
+Paul George,202331,Step Back Jump shot,2,14,9,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2012
+Paul George,202331,Tip Shot,2,8,5,Tip Shot,TIP_SHOTS,2012
+Paul George,202331,Turnaround Bank shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2012
+Paul George,202331,Turnaround Fadeaway shot,2,2,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2012
+Paul George,202331,Turnaround Jump Shot,2,6,3,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2012
+Paul George,202331,Alley Oop Dunk Shot,2,4,4,Alley Oop Dunk,DUNKS,2013
+Paul George,202331,Alley Oop Layup shot,2,3,2,Alley Oop Layup,LAYUPS,2013
+Paul George,202331,Driving Dunk Shot,2,8,7,Driving Dunk,DUNKS,2013
+Paul George,202331,Driving Finger Roll Layup Shot,2,9,9,Finger Roll,LAYUPS,2013
+Paul George,202331,Driving Jump shot,2,6,2,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2013
+Paul George,202331,Driving Layup Shot,2,34,25,Driving Layup,LAYUPS,2013
+Paul George,202331,Driving Slam Dunk Shot,2,7,7,Driving Dunk,DUNKS,2013
+Paul George,202331,Dunk Shot,2,27,24,Standard Dunk,DUNKS,2013
+Paul George,202331,Fadeaway Jump Shot,2,23,11,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2013
+Paul George,202331,Finger Roll Layup Shot,2,4,3,Finger Roll,LAYUPS,2013
+Paul George,202331,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2013
+Paul George,202331,Hook Shot,2,2,0,Hook Shot,POST_MOVES,2013
+Paul George,202331,Jump Bank Shot,2,8,7,2PT Jump Shot,TWO_POINT_JUMPERS,2013
+Paul George,202331,Jump Shot,2,753,240,2PT Jump Shot,TWO_POINT_JUMPERS,2013
+Paul George,202331,Layup Shot,2,136,60,Standard Layup,LAYUPS,2013
+Paul George,202331,Pullup Jump shot,2,34,18,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2013
+Paul George,202331,Putback Dunk Shot,2,2,1,Putback Dunk,DUNKS,2013
+Paul George,202331,Putback Layup Shot,2,3,3,Putback Layup,LAYUPS,2013
+Paul George,202331,Reverse Dunk Shot,2,3,2,Reverse Dunk,DUNKS,2013
+Paul George,202331,Reverse Layup Shot,2,6,4,Reverse Layup,LAYUPS,2013
+Paul George,202331,Reverse Slam Dunk Shot,2,2,2,Reverse Dunk,DUNKS,2013
+Paul George,202331,Running Bank shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2013
+Paul George,202331,Running Dunk Shot,2,3,3,Standard Dunk,DUNKS,2013
+Paul George,202331,Running Jump Shot,2,8,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2013
+Paul George,202331,Running Layup Shot,2,8,3,Standard Layup,LAYUPS,2013
+Paul George,202331,Running Slam Dunk Shot,2,3,3,Standard Dunk,DUNKS,2013
+Paul George,202331,Slam Dunk Shot,2,18,18,Standard Dunk,DUNKS,2013
+Paul George,202331,Step Back Jump shot,2,24,15,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2013
+Paul George,202331,Tip Shot,2,13,4,Tip Shot,TIP_SHOTS,2013
+Paul George,202331,Turnaround Bank shot,2,2,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2013
+Paul George,202331,Turnaround Fadeaway shot,2,9,5,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2013
+Paul George,202331,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2013
+Paul George,202331,Turnaround Jump Shot,2,11,7,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2013
+Paul George,202331,Alley Oop Dunk Shot,2,10,10,Alley Oop Dunk,DUNKS,2014
+Paul George,202331,Alley Oop Layup shot,2,4,3,Alley Oop Layup,LAYUPS,2014
+Paul George,202331,Driving Dunk Shot,2,11,7,Driving Dunk,DUNKS,2014
+Paul George,202331,Driving Finger Roll Layup Shot,2,6,5,Finger Roll,LAYUPS,2014
+Paul George,202331,Driving Jump shot,2,10,4,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2014
+Paul George,202331,Driving Layup Shot,2,49,32,Driving Layup,LAYUPS,2014
+Paul George,202331,Driving Reverse Layup Shot,2,5,5,Driving Layup,LAYUPS,2014
+Paul George,202331,Driving Slam Dunk Shot,2,6,6,Driving Dunk,DUNKS,2014
+Paul George,202331,Dunk Shot,2,26,25,Standard Dunk,DUNKS,2014
+Paul George,202331,Fadeaway Jump Shot,2,33,21,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2014
+Paul George,202331,Finger Roll Layup Shot,2,3,2,Finger Roll,LAYUPS,2014
+Paul George,202331,Floating Jump shot,2,5,3,2PT Floating Jump Shot,FLOATING_SHOTS,2014
+Paul George,202331,Jump Bank Shot,2,4,2,2PT Jump Shot,TWO_POINT_JUMPERS,2014
+Paul George,202331,Jump Shot,2,856,269,2PT Jump Shot,TWO_POINT_JUMPERS,2014
+Paul George,202331,Jump Shot,3,3,1,3PT Jump Shot,THREE_POINT_JUMPERS,2014
+Paul George,202331,Layup Shot,2,129,44,Standard Layup,LAYUPS,2014
+Paul George,202331,Pullup Jump shot,2,66,44,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2014
+Paul George,202331,Putback Dunk Shot,2,1,0,Putback Dunk,DUNKS,2014
+Paul George,202331,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2014
+Paul George,202331,Reverse Dunk Shot,2,2,2,Reverse Dunk,DUNKS,2014
+Paul George,202331,Reverse Layup Shot,2,13,10,Reverse Layup,LAYUPS,2014
+Paul George,202331,Reverse Slam Dunk Shot,2,2,2,Reverse Dunk,DUNKS,2014
+Paul George,202331,Running Bank shot,2,6,6,2PT Running Jump Shot,TWO_POINT_JUMPERS,2014
+Paul George,202331,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2014
+Paul George,202331,Running Jump Shot,2,7,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2014
+Paul George,202331,Running Layup Shot,2,3,1,Standard Layup,LAYUPS,2014
+Paul George,202331,Running Slam Dunk Shot,2,3,3,Standard Dunk,DUNKS,2014
+Paul George,202331,Slam Dunk Shot,2,13,13,Standard Dunk,DUNKS,2014
+Paul George,202331,Step Back Jump shot,2,46,31,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2014
+Paul George,202331,Tip Shot,2,5,1,Tip Shot,TIP_SHOTS,2014
+Paul George,202331,Turnaround Fadeaway shot,2,12,7,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2014
+Paul George,202331,Turnaround Jump Shot,2,20,13,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2014
+Paul George,202331,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2015
+Paul George,202331,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2015
+Paul George,202331,Fadeaway Jump Shot,2,2,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2015
+Paul George,202331,Jump Shot,2,34,11,2PT Jump Shot,TWO_POINT_JUMPERS,2015
+Paul George,202331,Layup Shot,2,5,0,Standard Layup,LAYUPS,2015
+Paul George,202331,Pullup Jump shot,2,3,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2015
+Paul George,202331,Putback Dunk Shot,2,1,0,Putback Dunk,DUNKS,2015
+Paul George,202331,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2015
+Paul George,202331,Alley Oop Dunk Shot,2,2,2,Alley Oop Dunk,DUNKS,2016
+Paul George,202331,Alley Oop Layup shot,2,4,2,Alley Oop Layup,LAYUPS,2016
+Paul George,202331,Cutting Dunk Shot,2,5,5,Specialty Dunk,DUNKS,2016
+Paul George,202331,Cutting Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2016
+Paul George,202331,Cutting Layup Shot,2,21,19,Standard Layup,LAYUPS,2016
+Paul George,202331,Driving Bank shot,2,6,3,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2016
+Paul George,202331,Driving Dunk Shot,2,11,9,Driving Dunk,DUNKS,2016
+Paul George,202331,Driving Finger Roll Layup Shot,2,4,2,Finger Roll,LAYUPS,2016
+Paul George,202331,Driving Floating Bank Jump Shot,2,3,3,2PT Floating Jump Shot,FLOATING_SHOTS,2016
+Paul George,202331,Driving Floating Jump Shot,2,9,7,2PT Floating Jump Shot,FLOATING_SHOTS,2016
+Paul George,202331,Driving Layup Shot,2,65,36,Driving Layup,LAYUPS,2016
+Paul George,202331,Driving Reverse Dunk Shot,2,1,1,Reverse Dunk,DUNKS,2016
+Paul George,202331,Driving Reverse Layup Shot,2,12,5,Driving Layup,LAYUPS,2016
+Paul George,202331,Dunk Shot,2,8,8,Standard Dunk,DUNKS,2016
+Paul George,202331,Fadeaway Jump Shot,2,35,13,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2016
+Paul George,202331,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2016
+Paul George,202331,Floating Jump shot,2,13,6,2PT Floating Jump Shot,FLOATING_SHOTS,2016
+Paul George,202331,Jump Bank Shot,2,7,6,2PT Jump Shot,TWO_POINT_JUMPERS,2016
+Paul George,202331,Jump Shot,2,813,272,2PT Jump Shot,TWO_POINT_JUMPERS,2016
+Paul George,202331,Layup Shot,2,69,23,Standard Layup,LAYUPS,2016
+Paul George,202331,Pullup Bank shot,2,3,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2016
+Paul George,202331,Pullup Jump shot,2,166,79,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2016
+Paul George,202331,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2016
+Paul George,202331,Putback Layup Shot,2,6,5,Putback Layup,LAYUPS,2016
+Paul George,202331,Reverse Dunk Shot,2,1,1,Reverse Dunk,DUNKS,2016
+Paul George,202331,Reverse Layup Shot,2,8,4,Reverse Layup,LAYUPS,2016
+Paul George,202331,Running Dunk Shot,2,7,6,Standard Dunk,DUNKS,2016
+Paul George,202331,Running Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2016
+Paul George,202331,Running Jump Shot,2,18,9,2PT Running Jump Shot,TWO_POINT_JUMPERS,2016
+Paul George,202331,Running Layup Shot,2,21,13,Standard Layup,LAYUPS,2016
+Paul George,202331,Running Pull-Up Jump Shot,2,6,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2016
+Paul George,202331,Step Back Bank Jump Shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2016
+Paul George,202331,Step Back Jump shot,2,66,33,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2016
+Paul George,202331,Tip Layup Shot,2,8,4,Putback Layup,LAYUPS,2016
+Paul George,202331,Turnaround Bank shot,2,4,3,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2016
+Paul George,202331,Turnaround Fadeaway shot,2,9,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2016
+Paul George,202331,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2016
+Paul George,202331,Turnaround Jump Shot,2,26,10,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2016
+Paul George,202331,Alley Oop Dunk Shot,2,2,2,Alley Oop Dunk,DUNKS,2017
+Paul George,202331,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2017
+Paul George,202331,Cutting Dunk Shot,2,6,4,Specialty Dunk,DUNKS,2017
+Paul George,202331,Cutting Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2017
+Paul George,202331,Cutting Layup Shot,2,10,9,Standard Layup,LAYUPS,2017
+Paul George,202331,Driving Bank shot,2,3,3,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2017
+Paul George,202331,Driving Dunk Shot,2,12,10,Driving Dunk,DUNKS,2017
+Paul George,202331,Driving Finger Roll Layup Shot,2,8,4,Finger Roll,LAYUPS,2017
+Paul George,202331,Driving Floating Bank Jump Shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2017
+Paul George,202331,Driving Floating Jump Shot,2,6,0,2PT Floating Jump Shot,FLOATING_SHOTS,2017
+Paul George,202331,Driving Hook Shot,2,3,2,Driving Hook Shot,POST_MOVES,2017
+Paul George,202331,Driving Layup Shot,2,68,39,Driving Layup,LAYUPS,2017
+Paul George,202331,Driving Reverse Layup Shot,2,3,2,Driving Layup,LAYUPS,2017
+Paul George,202331,Dunk Shot,2,7,7,Standard Dunk,DUNKS,2017
+Paul George,202331,Fadeaway Jump Shot,2,20,12,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2017
+Paul George,202331,Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2017
+Paul George,202331,Floating Jump shot,2,9,5,2PT Floating Jump Shot,FLOATING_SHOTS,2017
+Paul George,202331,Jump Bank Shot,2,5,2,2PT Jump Shot,TWO_POINT_JUMPERS,2017
+Paul George,202331,Jump Shot,2,787,290,2PT Jump Shot,TWO_POINT_JUMPERS,2017
+Paul George,202331,Layup Shot,2,42,22,Standard Layup,LAYUPS,2017
+Paul George,202331,Pullup Bank shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2017
+Paul George,202331,Pullup Jump shot,2,171,104,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2017
+Paul George,202331,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2017
+Paul George,202331,Putback Layup Shot,2,3,3,Putback Layup,LAYUPS,2017
+Paul George,202331,Reverse Dunk Shot,2,1,1,Reverse Dunk,DUNKS,2017
+Paul George,202331,Reverse Layup Shot,2,5,2,Reverse Layup,LAYUPS,2017
+Paul George,202331,Running Dunk Shot,2,6,6,Standard Dunk,DUNKS,2017
+Paul George,202331,Running Jump Shot,2,18,9,2PT Running Jump Shot,TWO_POINT_JUMPERS,2017
+Paul George,202331,Running Layup Shot,2,13,9,Standard Layup,LAYUPS,2017
+Paul George,202331,Running Pull-Up Jump Shot,2,2,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2017
+Paul George,202331,Running Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2017
+Paul George,202331,Step Back Jump shot,2,81,39,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2017
+Paul George,202331,Tip Layup Shot,2,6,1,Putback Layup,LAYUPS,2017
+Paul George,202331,Turnaround Bank shot,2,2,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2017
+Paul George,202331,Turnaround Fadeaway Bank Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2017
+Paul George,202331,Turnaround Fadeaway shot,2,6,6,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2017
+Paul George,202331,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2017
+Paul George,202331,Turnaround Jump Shot,2,29,16,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2017
+Paul George,202331,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2018
+Paul George,202331,Alley Oop Layup shot,2,2,2,Alley Oop Layup,LAYUPS,2018
+Paul George,202331,Cutting Dunk Shot,2,4,4,Specialty Dunk,DUNKS,2018
+Paul George,202331,Cutting Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2018
+Paul George,202331,Cutting Layup Shot,2,15,10,Standard Layup,LAYUPS,2018
+Paul George,202331,Driving Dunk Shot,2,20,16,Driving Dunk,DUNKS,2018
+Paul George,202331,Driving Finger Roll Layup Shot,2,3,2,Finger Roll,LAYUPS,2018
+Paul George,202331,Driving Floating Bank Jump Shot,2,8,5,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Paul George,202331,Driving Floating Jump Shot,2,26,11,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Paul George,202331,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2018
+Paul George,202331,Driving Layup Shot,2,142,72,Driving Layup,LAYUPS,2018
+Paul George,202331,Driving Reverse Layup Shot,2,11,7,Driving Layup,LAYUPS,2018
+Paul George,202331,Dunk Shot,2,6,5,Standard Dunk,DUNKS,2018
+Paul George,202331,Fadeaway Jump Shot,2,17,4,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2018
+Paul George,202331,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2018
+Paul George,202331,Floating Jump shot,2,14,2,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Paul George,202331,Jump Bank Shot,2,2,1,2PT Jump Shot,TWO_POINT_JUMPERS,2018
+Paul George,202331,Jump Shot,2,577,214,2PT Jump Shot,TWO_POINT_JUMPERS,2018
+Paul George,202331,Layup Shot,2,40,15,Standard Layup,LAYUPS,2018
+Paul George,202331,Pullup Jump shot,2,238,85,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2018
+Paul George,202331,Pullup Jump shot,3,2,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2018
+Paul George,202331,Putback Layup Shot,2,5,5,Putback Layup,LAYUPS,2018
+Paul George,202331,Reverse Layup Shot,2,4,3,Reverse Layup,LAYUPS,2018
+Paul George,202331,Running Dunk Shot,2,11,11,Standard Dunk,DUNKS,2018
+Paul George,202331,Running Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2018
+Paul George,202331,Running Jump Shot,2,20,13,2PT Running Jump Shot,TWO_POINT_JUMPERS,2018
+Paul George,202331,Running Layup Shot,2,36,25,Standard Layup,LAYUPS,2018
+Paul George,202331,Running Pull-Up Jump Shot,2,16,6,2PT Running Jump Shot,TWO_POINT_JUMPERS,2018
+Paul George,202331,Running Pull-Up Jump Shot,3,1,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2018
+Paul George,202331,Step Back Jump shot,2,77,34,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2018
+Paul George,202331,Tip Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2018
+Paul George,202331,Tip Layup Shot,2,5,2,Putback Layup,LAYUPS,2018
+Paul George,202331,Turnaround Fadeaway Bank Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2018
+Paul George,202331,Turnaround Fadeaway shot,2,9,4,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2018
+Paul George,202331,Turnaround Jump Shot,2,20,11,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2018
+Paul George,202331,Alley Oop Dunk Shot,2,4,4,Alley Oop Dunk,DUNKS,2019
+Paul George,202331,Alley Oop Layup shot,2,3,1,Alley Oop Layup,LAYUPS,2019
+Paul George,202331,Cutting Dunk Shot,2,5,4,Specialty Dunk,DUNKS,2019
+Paul George,202331,Cutting Layup Shot,2,18,12,Standard Layup,LAYUPS,2019
+Paul George,202331,Driving Dunk Shot,2,19,16,Driving Dunk,DUNKS,2019
+Paul George,202331,Driving Finger Roll Layup Shot,2,12,10,Finger Roll,LAYUPS,2019
+Paul George,202331,Driving Floating Bank Jump Shot,2,16,10,2PT Floating Jump Shot,FLOATING_SHOTS,2019
+Paul George,202331,Driving Floating Jump Shot,2,50,24,2PT Floating Jump Shot,FLOATING_SHOTS,2019
+Paul George,202331,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2019
+Paul George,202331,Driving Layup Shot,2,175,73,Driving Layup,LAYUPS,2019
+Paul George,202331,Driving Reverse Layup Shot,2,13,9,Driving Layup,LAYUPS,2019
+Paul George,202331,Dunk Shot,2,8,8,Standard Dunk,DUNKS,2019
+Paul George,202331,Fadeaway Jump Shot,2,21,10,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2019
+Paul George,202331,Floating Jump shot,2,22,6,2PT Floating Jump Shot,FLOATING_SHOTS,2019
+Paul George,202331,Jump Bank Shot,2,4,3,2PT Jump Shot,TWO_POINT_JUMPERS,2019
+Paul George,202331,Jump Shot,2,546,201,2PT Jump Shot,TWO_POINT_JUMPERS,2019
+Paul George,202331,Jump Shot,3,24,9,3PT Jump Shot,THREE_POINT_JUMPERS,2019
+Paul George,202331,Layup Shot,2,36,18,Standard Layup,LAYUPS,2019
+Paul George,202331,Pullup Jump shot,2,311,123,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2019
+Paul George,202331,Pullup Jump shot,3,12,6,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2019
+Paul George,202331,Putback Layup Shot,2,10,7,Putback Layup,LAYUPS,2019
+Paul George,202331,Reverse Layup Shot,2,4,2,Reverse Layup,LAYUPS,2019
+Paul George,202331,Running Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2019
+Paul George,202331,Running Dunk Shot,2,19,19,Standard Dunk,DUNKS,2019
+Paul George,202331,Running Finger Roll Layup Shot,2,3,2,Finger Roll,LAYUPS,2019
+Paul George,202331,Running Jump Shot,2,23,11,2PT Running Jump Shot,TWO_POINT_JUMPERS,2019
+Paul George,202331,Running Layup Shot,2,32,24,Standard Layup,LAYUPS,2019
+Paul George,202331,Running Pull-Up Jump Shot,2,41,15,2PT Running Jump Shot,TWO_POINT_JUMPERS,2019
+Paul George,202331,Running Pull-Up Jump Shot,3,3,2,3PT Running Jump Shot,THREE_POINT_JUMPERS,2019
+Paul George,202331,Running Reverse Layup Shot,2,5,3,Reverse Layup,LAYUPS,2019
+Paul George,202331,Step Back Bank Jump Shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2019
+Paul George,202331,Step Back Jump shot,2,108,46,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2019
+Paul George,202331,Step Back Jump shot,3,2,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2019
+Paul George,202331,Tip Dunk Shot,2,1,0,Specialty Dunk,DUNKS,2019
+Paul George,202331,Tip Layup Shot,2,11,4,Putback Layup,LAYUPS,2019
+Paul George,202331,Turnaround Fadeaway Bank Jump Shot,2,9,7,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2019
+Paul George,202331,Turnaround Fadeaway shot,2,12,4,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2019
+Paul George,202331,Turnaround Jump Shot,2,29,13,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2019
+Paul George,202331,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2020
+Paul George,202331,Cutting Layup Shot,2,7,6,Standard Layup,LAYUPS,2020
+Paul George,202331,Driving Dunk Shot,2,3,3,Driving Dunk,DUNKS,2020
+Paul George,202331,Driving Finger Roll Layup Shot,2,9,4,Finger Roll,LAYUPS,2020
+Paul George,202331,Driving Floating Bank Jump Shot,2,12,6,2PT Floating Jump Shot,FLOATING_SHOTS,2020
+Paul George,202331,Driving Floating Jump Shot,2,17,8,2PT Floating Jump Shot,FLOATING_SHOTS,2020
+Paul George,202331,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,2020
+Paul George,202331,Driving Layup Shot,2,76,42,Driving Layup,LAYUPS,2020
+Paul George,202331,Driving Reverse Layup Shot,2,7,2,Driving Layup,LAYUPS,2020
+Paul George,202331,Fadeaway Jump Shot,2,17,6,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2020
+Paul George,202331,Floating Jump shot,2,5,2,2PT Floating Jump Shot,FLOATING_SHOTS,2020
+Paul George,202331,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2020
+Paul George,202331,Jump Bank Shot,2,3,1,2PT Jump Shot,TWO_POINT_JUMPERS,2020
+Paul George,202331,Jump Shot,2,268,102,2PT Jump Shot,TWO_POINT_JUMPERS,2020
+Paul George,202331,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2020
+Paul George,202331,Layup Shot,2,17,6,Standard Layup,LAYUPS,2020
+Paul George,202331,Pullup Jump shot,2,149,59,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2020
+Paul George,202331,Pullup Jump shot,3,2,1,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2020
+Paul George,202331,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2020
+Paul George,202331,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2020
+Paul George,202331,Running Dunk Shot,2,11,10,Standard Dunk,DUNKS,2020
+Paul George,202331,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2020
+Paul George,202331,Running Jump Shot,2,9,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2020
+Paul George,202331,Running Layup Shot,2,11,6,Standard Layup,LAYUPS,2020
+Paul George,202331,Running Pull-Up Jump Shot,2,22,12,2PT Running Jump Shot,TWO_POINT_JUMPERS,2020
+Paul George,202331,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2020
+Paul George,202331,Step Back Jump shot,2,93,46,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2020
+Paul George,202331,Step Back Jump shot,3,1,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2020
+Paul George,202331,Tip Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2020
+Paul George,202331,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2020
+Paul George,202331,Turnaround Fadeaway Bank Jump Shot,2,4,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2020
+Paul George,202331,Turnaround Fadeaway shot,2,15,5,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2020
+Paul George,202331,Turnaround Jump Shot,2,13,5,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2020
+Paul George,202331,Alley Oop Dunk Shot,2,2,2,Alley Oop Dunk,DUNKS,2021
+Paul George,202331,Alley Oop Layup shot,2,3,2,Alley Oop Layup,LAYUPS,2021
+Paul George,202331,Cutting Dunk Shot,2,2,2,Specialty Dunk,DUNKS,2021
+Paul George,202331,Cutting Layup Shot,2,7,4,Standard Layup,LAYUPS,2021
+Paul George,202331,Driving Dunk Shot,2,13,11,Driving Dunk,DUNKS,2021
+Paul George,202331,Driving Finger Roll Layup Shot,2,13,8,Finger Roll,LAYUPS,2021
+Paul George,202331,Driving Floating Bank Jump Shot,2,4,3,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Paul George,202331,Driving Floating Jump Shot,2,38,15,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Paul George,202331,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2021
+Paul George,202331,Driving Layup Shot,2,120,58,Driving Layup,LAYUPS,2021
+Paul George,202331,Driving Reverse Layup Shot,2,19,13,Driving Layup,LAYUPS,2021
+Paul George,202331,Dunk Shot,2,1,0,Standard Dunk,DUNKS,2021
+Paul George,202331,Fadeaway Jump Shot,2,22,9,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2021
+Paul George,202331,Floating Jump shot,2,12,5,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Paul George,202331,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2021
+Paul George,202331,Jump Bank Shot,2,3,1,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Paul George,202331,Jump Shot,2,295,117,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Paul George,202331,Layup Shot,2,15,6,Standard Layup,LAYUPS,2021
+Paul George,202331,Pullup Jump shot,2,185,84,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2021
+Paul George,202331,Putback Layup Shot,2,3,2,Putback Layup,LAYUPS,2021
+Paul George,202331,Reverse Layup Shot,2,3,3,Reverse Layup,LAYUPS,2021
+Paul George,202331,Running Dunk Shot,2,4,3,Standard Dunk,DUNKS,2021
+Paul George,202331,Running Finger Roll Layup Shot,2,3,3,Finger Roll,LAYUPS,2021
+Paul George,202331,Running Jump Shot,2,8,4,2PT Running Jump Shot,TWO_POINT_JUMPERS,2021
+Paul George,202331,Running Layup Shot,2,20,12,Standard Layup,LAYUPS,2021
+Paul George,202331,Running Pull-Up Jump Shot,2,14,5,2PT Running Jump Shot,TWO_POINT_JUMPERS,2021
+Paul George,202331,Step Back Jump shot,2,100,48,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2021
+Paul George,202331,Step Back Jump shot,3,1,1,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2021
+Paul George,202331,Tip Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2021
+Paul George,202331,Tip Layup Shot,2,2,2,Putback Layup,LAYUPS,2021
+Paul George,202331,Turnaround Fadeaway Bank Jump Shot,2,2,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2021
+Paul George,202331,Turnaround Fadeaway shot,2,19,7,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2021
+Paul George,202331,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2021
+Paul George,202331,Turnaround Jump Shot,2,16,9,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2021
+Paul George,202331,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2022
+Paul George,202331,Cutting Layup Shot,2,2,1,Standard Layup,LAYUPS,2022
+Paul George,202331,Driving Bank Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2022
+Paul George,202331,Driving Dunk Shot,2,8,6,Driving Dunk,DUNKS,2022
+Paul George,202331,Driving Finger Roll Layup Shot,2,4,4,Finger Roll,LAYUPS,2022
+Paul George,202331,Driving Floating Bank Jump Shot,2,10,7,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Paul George,202331,Driving Floating Jump Shot,2,13,6,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Paul George,202331,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2022
+Paul George,202331,Driving Layup Shot,2,57,27,Driving Layup,LAYUPS,2022
+Paul George,202331,Driving Reverse Layup Shot,2,12,6,Driving Layup,LAYUPS,2022
+Paul George,202331,Fadeaway Jump Shot,2,33,13,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2022
+Paul George,202331,Floating Jump shot,2,4,1,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Paul George,202331,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2022
+Paul George,202331,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2022
+Paul George,202331,Jump Shot,2,160,56,2PT Jump Shot,TWO_POINT_JUMPERS,2022
+Paul George,202331,Layup Shot,2,9,4,Standard Layup,LAYUPS,2022
+Paul George,202331,Pullup Jump shot,2,146,52,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2022
+Paul George,202331,Putback Layup Shot,2,2,2,Putback Layup,LAYUPS,2022
+Paul George,202331,Reverse Layup Shot,2,4,3,Reverse Layup,LAYUPS,2022
+Paul George,202331,Running Dunk Shot,2,4,4,Standard Dunk,DUNKS,2022
+Paul George,202331,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2022
+Paul George,202331,Running Jump Shot,2,9,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2022
+Paul George,202331,Running Layup Shot,2,8,4,Standard Layup,LAYUPS,2022
+Paul George,202331,Running Pull-Up Jump Shot,2,12,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2022
+Paul George,202331,Running Reverse Layup Shot,2,3,1,Reverse Layup,LAYUPS,2022
+Paul George,202331,Step Back Bank Jump Shot,2,2,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2022
+Paul George,202331,Step Back Jump shot,2,87,37,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2022
+Paul George,202331,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2022
+Paul George,202331,Turnaround Fadeaway Bank Jump Shot,2,4,3,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2022
+Paul George,202331,Turnaround Fadeaway shot,2,20,12,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2022
+Paul George,202331,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2022
+Paul George,202331,Turnaround Jump Shot,2,15,8,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2022
+Paul George,202331,Alley Oop Dunk Shot,2,4,4,Alley Oop Dunk,DUNKS,2023
+Paul George,202331,Cutting Dunk Shot,2,4,4,Specialty Dunk,DUNKS,2023
+Paul George,202331,Cutting Layup Shot,2,7,6,Standard Layup,LAYUPS,2023
+Paul George,202331,Driving Bank Hook Shot,2,3,3,Driving Hook Shot,POST_MOVES,2023
+Paul George,202331,Driving Dunk Shot,2,19,14,Driving Dunk,DUNKS,2023
+Paul George,202331,Driving Finger Roll Layup Shot,2,16,12,Finger Roll,LAYUPS,2023
+Paul George,202331,Driving Floating Bank Jump Shot,2,5,2,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Paul George,202331,Driving Floating Jump Shot,2,35,18,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Paul George,202331,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2023
+Paul George,202331,Driving Layup Shot,2,90,49,Driving Layup,LAYUPS,2023
+Paul George,202331,Driving Reverse Layup Shot,2,10,7,Driving Layup,LAYUPS,2023
+Paul George,202331,Dunk Shot,2,2,1,Standard Dunk,DUNKS,2023
+Paul George,202331,Fadeaway Bank shot,2,2,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2023
+Paul George,202331,Fadeaway Jump Shot,2,32,14,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2023
+Paul George,202331,Floating Jump shot,2,4,2,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Paul George,202331,Hook Bank Shot,2,1,0,Hook Shot,POST_MOVES,2023
+Paul George,202331,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2023
+Paul George,202331,Jump Shot,2,256,100,2PT Jump Shot,TWO_POINT_JUMPERS,2023
+Paul George,202331,Layup Shot,2,13,5,Standard Layup,LAYUPS,2023
+Paul George,202331,Pullup Jump shot,2,285,108,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2023
+Paul George,202331,Putback Layup Shot,2,6,5,Putback Layup,LAYUPS,2023
+Paul George,202331,Reverse Layup Shot,2,4,3,Reverse Layup,LAYUPS,2023
+Paul George,202331,Running Alley Oop Layup Shot,2,1,0,Alley Oop Layup,LAYUPS,2023
+Paul George,202331,Running Dunk Shot,2,12,12,Standard Dunk,DUNKS,2023
+Paul George,202331,Running Finger Roll Layup Shot,2,6,5,Finger Roll,LAYUPS,2023
+Paul George,202331,Running Jump Shot,2,10,5,2PT Running Jump Shot,TWO_POINT_JUMPERS,2023
+Paul George,202331,Running Layup Shot,2,18,12,Standard Layup,LAYUPS,2023
+Paul George,202331,Running Pull-Up Jump Shot,2,24,9,2PT Running Jump Shot,TWO_POINT_JUMPERS,2023
+Paul George,202331,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2023
+Paul George,202331,Step Back Bank Jump Shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2023
+Paul George,202331,Step Back Jump shot,2,74,33,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2023
+Paul George,202331,Tip Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2023
+Paul George,202331,Tip Layup Shot,2,8,3,Putback Layup,LAYUPS,2023
+Paul George,202331,Turnaround Bank shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2023
+Paul George,202331,Turnaround Fadeaway Bank Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2023
+Paul George,202331,Turnaround Fadeaway shot,2,32,14,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2023
+Paul George,202331,Turnaround Jump Shot,2,14,5,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2023
+Paul George,202331,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2024
+Paul George,202331,Alley Oop Layup shot,2,3,2,Alley Oop Layup,LAYUPS,2024
+Paul George,202331,Cutting Dunk Shot,2,4,4,Specialty Dunk,DUNKS,2024
+Paul George,202331,Cutting Layup Shot,2,17,16,Standard Layup,LAYUPS,2024
+Paul George,202331,Driving Bank Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,2024
+Paul George,202331,Driving Dunk Shot,2,18,9,Driving Dunk,DUNKS,2024
+Paul George,202331,Driving Finger Roll Layup Shot,2,6,2,Finger Roll,LAYUPS,2024
+Paul George,202331,Driving Floating Bank Jump Shot,2,7,6,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Paul George,202331,Driving Floating Jump Shot,2,26,12,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Paul George,202331,Driving Hook Shot,2,6,2,Driving Hook Shot,POST_MOVES,2024
+Paul George,202331,Driving Layup Shot,2,102,54,Driving Layup,LAYUPS,2024
+Paul George,202331,Driving Reverse Layup Shot,2,2,2,Driving Layup,LAYUPS,2024
+Paul George,202331,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2024
+Paul George,202331,Fadeaway Bank shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
+Paul George,202331,Fadeaway Jump Shot,2,46,20,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
+Paul George,202331,Fadeaway Jump Shot,3,1,1,3PT Fadeaway Jump Shot,THREE_POINT_JUMPERS,2024
+Paul George,202331,Floating Jump shot,2,8,1,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Paul George,202331,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2024
+Paul George,202331,Jump Shot,2,57,28,2PT Jump Shot,TWO_POINT_JUMPERS,2024
+Paul George,202331,Jump Shot,3,335,152,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Paul George,202331,Layup Shot,2,14,8,Standard Layup,LAYUPS,2024
+Paul George,202331,Pullup Jump shot,2,141,61,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2024
+Paul George,202331,Pullup Jump shot,3,125,46,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
+Paul George,202331,Putback Layup Shot,2,4,2,Putback Layup,LAYUPS,2024
+Paul George,202331,Reverse Layup Shot,2,3,2,Reverse Layup,LAYUPS,2024
+Paul George,202331,Running Alley Oop Layup Shot,2,1,0,Alley Oop Layup,LAYUPS,2024
+Paul George,202331,Running Dunk Shot,2,15,13,Standard Dunk,DUNKS,2024
+Paul George,202331,Running Finger Roll Layup Shot,2,5,4,Finger Roll,LAYUPS,2024
+Paul George,202331,Running Jump Shot,2,2,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2024
+Paul George,202331,Running Jump Shot,3,23,5,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Paul George,202331,Running Layup Shot,2,39,25,Standard Layup,LAYUPS,2024
+Paul George,202331,Running Pull-Up Jump Shot,2,4,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2024
+Paul George,202331,Running Pull-Up Jump Shot,3,25,7,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Paul George,202331,Running Reverse Dunk Shot,2,1,1,Reverse Dunk,DUNKS,2024
+Paul George,202331,Running Reverse Layup Shot,2,3,2,Reverse Layup,LAYUPS,2024
+Paul George,202331,Step Back Jump shot,2,64,32,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2024
+Paul George,202331,Step Back Jump shot,3,78,31,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
+Paul George,202331,Tip Layup Shot,2,3,0,Putback Layup,LAYUPS,2024
+Paul George,202331,Turnaround Bank shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Paul George,202331,Turnaround Fadeaway Bank Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Paul George,202331,Turnaround Fadeaway shot,2,21,12,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Paul George,202331,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2024
+Paul George,202331,Turnaround Jump Shot,2,17,10,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Paul George,202331,Turnaround Jump Shot,3,1,1,3PT Turnaround Jump Shot,THREE_POINT_JUMPERS,2024
+Paul George,202331,Cutting Dunk Shot,2,1,0,Specialty Dunk,DUNKS,2025
+Paul George,202331,Cutting Layup Shot,2,2,1,Standard Layup,LAYUPS,2025
+Paul George,202331,Driving Dunk Shot,2,5,3,Driving Dunk,DUNKS,2025
+Paul George,202331,Driving Finger Roll Layup Shot,2,4,2,Finger Roll,LAYUPS,2025
+Paul George,202331,Driving Floating Bank Jump Shot,2,5,4,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Paul George,202331,Driving Floating Jump Shot,2,11,4,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Paul George,202331,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2025
+Paul George,202331,Driving Layup Shot,2,38,21,Driving Layup,LAYUPS,2025
+Paul George,202331,Driving Reverse Layup Shot,2,3,2,Driving Layup,LAYUPS,2025
+Paul George,202331,Fadeaway Jump Shot,2,16,6,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
+Paul George,202331,Jump Shot,2,8,3,2PT Jump Shot,TWO_POINT_JUMPERS,2025
+Paul George,202331,Jump Shot,3,85,32,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Paul George,202331,Layup Shot,2,1,1,Standard Layup,LAYUPS,2025
+Paul George,202331,Pullup Jump shot,2,46,19,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
+Paul George,202331,Pullup Jump shot,3,59,18,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
+Paul George,202331,Putback Layup Shot,2,2,1,Putback Layup,LAYUPS,2025
+Paul George,202331,Running Dunk Shot,2,4,4,Standard Dunk,DUNKS,2025
+Paul George,202331,Running Jump Shot,3,4,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Paul George,202331,Running Layup Shot,2,9,4,Standard Layup,LAYUPS,2025
+Paul George,202331,Running Pull-Up Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2025
+Paul George,202331,Running Pull-Up Jump Shot,3,7,3,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Paul George,202331,Step Back Jump shot,2,29,13,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2025
+Paul George,202331,Step Back Jump shot,3,28,12,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
+Paul George,202331,Tip Dunk Shot,2,1,0,Specialty Dunk,DUNKS,2025
+Paul George,202331,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2025
+Paul George,202331,Turnaround Fadeaway shot,2,21,12,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+Paul George,202331,Turnaround Hook Shot,2,2,2,Turnaround Hook Shot,POST_MOVES,2025
+Paul George,202331,Turnaround Jump Shot,2,6,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025

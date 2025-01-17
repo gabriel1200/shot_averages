@@ -1,15 +1,19 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Mike Batiste,2471,Driving Dunk,2,1,1,DUNKS,,2003
-Mike Batiste,2471,Driving Layup,2,6,4,LAYUPS,,2003
-Mike Batiste,2471,Fadeaway Jump Shot,2,15,6,JUMP_SHOTS,,2003
-Mike Batiste,2471,Finger Roll,2,2,1,LAYUPS,,2003
-Mike Batiste,2471,Hook Shot,2,16,8,POST_MOVES,,2003
-Mike Batiste,2471,Jump Shot,2,270,77,JUMP_SHOTS,,2003
-Mike Batiste,2471,Reverse Layup,2,13,11,LAYUPS,,2003
-Mike Batiste,2471,Running Jump Shot,2,1,1,JUMP_SHOTS,,2003
-Mike Batiste,2471,Specialty Dunk,2,4,3,DUNKS,,2003
-Mike Batiste,2471,Standard Dunk,2,31,30,DUNKS,,2003
-Mike Batiste,2471,Standard Layup,2,76,38,LAYUPS,,2003
-Mike Batiste,2471,Tip Shot,2,18,11,TIP_SHOTS,,2003
-Mike Batiste,2471,Turnaround Hook Shot,2,2,1,POST_MOVES,,2003
-Mike Batiste,2471,Turnaround Jump Shot,2,12,5,JUMP_SHOTS,,2003
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Mike Batiste,2471,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2003
+Mike Batiste,2471,Driving Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2003
+Mike Batiste,2471,Driving Layup Shot,2,6,4,Driving Layup,LAYUPS,2003
+Mike Batiste,2471,Dunk Shot,2,23,22,Standard Dunk,DUNKS,2003
+Mike Batiste,2471,Fadeaway Jump Shot,2,15,6,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2003
+Mike Batiste,2471,Follow Up Dunk Shot,2,4,3,Specialty Dunk,DUNKS,2003
+Mike Batiste,2471,Hook Shot,2,15,7,Hook Shot,POST_MOVES,2003
+Mike Batiste,2471,Jump Hook Shot,2,1,1,Hook Shot,POST_MOVES,2003
+Mike Batiste,2471,Jump Shot,2,270,77,2PT Jump Shot,TWO_POINT_JUMPERS,2003
+Mike Batiste,2471,Layup Shot,2,75,37,Standard Layup,LAYUPS,2003
+Mike Batiste,2471,Reverse Layup Shot,2,13,11,Reverse Layup,LAYUPS,2003
+Mike Batiste,2471,Running Finger Roll Shot,2,1,0,Finger Roll,LAYUPS,2003
+Mike Batiste,2471,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2003
+Mike Batiste,2471,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2003
+Mike Batiste,2471,Slam Dunk Shot,2,8,8,Standard Dunk,DUNKS,2003
+Mike Batiste,2471,Tip Shot,2,18,11,Tip Shot,TIP_SHOTS,2003
+Mike Batiste,2471,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,2003
+Mike Batiste,2471,Turnaround Jump Shot,2,12,5,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2003

@@ -1,11 +1,11 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Chinanu Onuaku,1627778,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2017
-Chinanu Onuaku,1627778,Putback Layup,2,1,1,LAYUPS,,2017
-Chinanu Onuaku,1627778,Reverse Layup,2,1,1,LAYUPS,,2017
-Chinanu Onuaku,1627778,Specialty Dunk,2,3,2,DUNKS,,2017
-Chinanu Onuaku,1627778,Standard Layup,2,1,1,LAYUPS,,2017
-Chinanu Onuaku,1627778,Driving Layup,2,1,0,LAYUPS,,2018
-Chinanu Onuaku,1627778,Hook Shot,2,1,1,POST_MOVES,,2018
-Chinanu Onuaku,1627778,Jump Shot,2,1,0,JUMP_SHOTS,,2018
-Chinanu Onuaku,1627778,Standard Dunk,2,1,1,DUNKS,,2018
-Chinanu Onuaku,1627778,Standard Layup,2,1,0,LAYUPS,,2018
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Chinanu Onuaku,1627778,Cutting Dunk Shot,2,3,2,Specialty Dunk,DUNKS,2017
+Chinanu Onuaku,1627778,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2017
+Chinanu Onuaku,1627778,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2017
+Chinanu Onuaku,1627778,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2017
+Chinanu Onuaku,1627778,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2017
+Chinanu Onuaku,1627778,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2018
+Chinanu Onuaku,1627778,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2018
+Chinanu Onuaku,1627778,Jump Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2018
+Chinanu Onuaku,1627778,Layup Shot,2,1,0,Standard Layup,LAYUPS,2018
+Chinanu Onuaku,1627778,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2018

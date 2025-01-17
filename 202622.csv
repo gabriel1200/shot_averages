@@ -1,7 +1,7 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Courtney Fortson,202622,Driving Jump Shot,2,2,2,JUMP_SHOTS,,2012
-Courtney Fortson,202622,Driving Layup,2,3,2,LAYUPS,,2012
-Courtney Fortson,202622,Jump Shot,2,17,4,JUMP_SHOTS,,2012
-Courtney Fortson,202622,Reverse Layup,2,1,0,LAYUPS,,2012
-Courtney Fortson,202622,Running Jump Shot,2,3,1,JUMP_SHOTS,,2012
-Courtney Fortson,202622,Standard Layup,2,6,2,LAYUPS,,2012
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Courtney Fortson,202622,Driving Jump shot,2,2,2,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2012
+Courtney Fortson,202622,Driving Layup Shot,2,3,2,Driving Layup,LAYUPS,2012
+Courtney Fortson,202622,Jump Shot,2,17,4,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Courtney Fortson,202622,Layup Shot,2,6,2,Standard Layup,LAYUPS,2012
+Courtney Fortson,202622,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2012
+Courtney Fortson,202622,Running Jump Shot,2,3,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2012

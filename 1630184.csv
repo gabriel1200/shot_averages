@@ -1,55 +1,87 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Kira Lewis Jr.,1630184,Alley Oop Layup,2,1,1,LAYUPS,,2021
-Kira Lewis Jr.,1630184,Driving Hook Shot,2,1,1,POST_MOVES,,2021
-Kira Lewis Jr.,1630184,Driving Layup,2,56,23,LAYUPS,,2021
-Kira Lewis Jr.,1630184,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2021
-Kira Lewis Jr.,1630184,Finger Roll,2,14,10,LAYUPS,,2021
-Kira Lewis Jr.,1630184,Floating Jump Shot,2,67,25,FLOATING_SHOTS,,2021
-Kira Lewis Jr.,1630184,Jump Shot,2,107,34,JUMP_SHOTS,,2021
-Kira Lewis Jr.,1630184,Pullup Jump Shot,2,24,6,JUMP_SHOTS,,2021
-Kira Lewis Jr.,1630184,Putback Layup,2,4,2,LAYUPS,,2021
-Kira Lewis Jr.,1630184,Running Jump Shot,2,6,2,JUMP_SHOTS,,2021
-Kira Lewis Jr.,1630184,Standard Dunk,2,4,4,DUNKS,,2021
-Kira Lewis Jr.,1630184,Standard Layup,2,43,19,LAYUPS,,2021
-Kira Lewis Jr.,1630184,Step Back Jump Shot,2,9,2,JUMP_SHOTS,,2021
-Kira Lewis Jr.,1630184,Driving Dunk,2,1,1,DUNKS,,2022
-Kira Lewis Jr.,1630184,Driving Layup,2,29,16,LAYUPS,,2022
-Kira Lewis Jr.,1630184,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2022
-Kira Lewis Jr.,1630184,Finger Roll,2,3,2,LAYUPS,,2022
-Kira Lewis Jr.,1630184,Floating Jump Shot,2,17,8,FLOATING_SHOTS,,2022
-Kira Lewis Jr.,1630184,Jump Shot,2,44,10,JUMP_SHOTS,,2022
-Kira Lewis Jr.,1630184,Jump Shot,3,3,0,JUMP_SHOTS,,2022
-Kira Lewis Jr.,1630184,Pullup Jump Shot,2,24,6,JUMP_SHOTS,,2022
-Kira Lewis Jr.,1630184,Pullup Jump Shot,3,1,0,JUMP_SHOTS,,2022
-Kira Lewis Jr.,1630184,Putback Layup,2,2,2,LAYUPS,,2022
-Kira Lewis Jr.,1630184,Reverse Layup,2,1,1,LAYUPS,,2022
-Kira Lewis Jr.,1630184,Running Jump Shot,2,1,1,JUMP_SHOTS,,2022
-Kira Lewis Jr.,1630184,Specialty Dunk,2,1,0,DUNKS,,2022
-Kira Lewis Jr.,1630184,Standard Dunk,2,2,2,DUNKS,,2022
-Kira Lewis Jr.,1630184,Standard Layup,2,13,9,LAYUPS,,2022
-Kira Lewis Jr.,1630184,Step Back Jump Shot,2,2,1,JUMP_SHOTS,,2022
-Kira Lewis Jr.,1630184,Step Back Jump Shot,3,1,0,JUMP_SHOTS,,2022
-Kira Lewis Jr.,1630184,Driving Dunk,2,1,0,DUNKS,,2023
-Kira Lewis Jr.,1630184,Driving Layup,2,15,5,LAYUPS,,2023
-Kira Lewis Jr.,1630184,Finger Roll,2,5,4,LAYUPS,,2023
-Kira Lewis Jr.,1630184,Floating Jump Shot,2,12,5,FLOATING_SHOTS,,2023
-Kira Lewis Jr.,1630184,Jump Shot,2,26,10,JUMP_SHOTS,,2023
-Kira Lewis Jr.,1630184,Jump Shot,3,1,0,JUMP_SHOTS,,2023
-Kira Lewis Jr.,1630184,Pullup Jump Shot,2,11,6,JUMP_SHOTS,,2023
-Kira Lewis Jr.,1630184,Putback Layup,2,2,2,LAYUPS,,2023
-Kira Lewis Jr.,1630184,Reverse Layup,2,1,1,LAYUPS,,2023
-Kira Lewis Jr.,1630184,Running Jump Shot,2,2,2,JUMP_SHOTS,,2023
-Kira Lewis Jr.,1630184,Standard Layup,2,9,3,LAYUPS,,2023
-Kira Lewis Jr.,1630184,Step Back Jump Shot,2,3,2,JUMP_SHOTS,,2023
-Kira Lewis Jr.,1630184,Driving Layup,2,15,7,LAYUPS,,2024
-Kira Lewis Jr.,1630184,Fadeaway Jump Shot,2,2,1,JUMP_SHOTS,,2024
-Kira Lewis Jr.,1630184,Finger Roll,2,4,2,LAYUPS,,2024
-Kira Lewis Jr.,1630184,Floating Jump Shot,2,15,6,FLOATING_SHOTS,,2024
-Kira Lewis Jr.,1630184,Jump Shot,3,24,3,JUMP_SHOTS,,2024
-Kira Lewis Jr.,1630184,Pullup Jump Shot,2,6,0,JUMP_SHOTS,,2024
-Kira Lewis Jr.,1630184,Pullup Jump Shot,3,6,1,JUMP_SHOTS,,2024
-Kira Lewis Jr.,1630184,Putback Layup,2,3,2,LAYUPS,,2024
-Kira Lewis Jr.,1630184,Running Jump Shot,3,2,0,JUMP_SHOTS,,2024
-Kira Lewis Jr.,1630184,Standard Dunk,2,1,1,DUNKS,,2024
-Kira Lewis Jr.,1630184,Standard Layup,2,13,11,LAYUPS,,2024
-Kira Lewis Jr.,1630184,Step Back Jump Shot,3,1,0,JUMP_SHOTS,,2024
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Kira Lewis Jr.,1630184,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2021
+Kira Lewis Jr.,1630184,Cutting Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2021
+Kira Lewis Jr.,1630184,Cutting Layup Shot,2,7,6,Standard Layup,LAYUPS,2021
+Kira Lewis Jr.,1630184,Driving Bank Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2021
+Kira Lewis Jr.,1630184,Driving Finger Roll Layup Shot,2,8,5,Finger Roll,LAYUPS,2021
+Kira Lewis Jr.,1630184,Driving Floating Bank Jump Shot,2,5,3,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Kira Lewis Jr.,1630184,Driving Floating Jump Shot,2,38,13,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Kira Lewis Jr.,1630184,Driving Layup Shot,2,54,22,Driving Layup,LAYUPS,2021
+Kira Lewis Jr.,1630184,Driving Reverse Layup Shot,2,2,1,Driving Layup,LAYUPS,2021
+Kira Lewis Jr.,1630184,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2021
+Kira Lewis Jr.,1630184,Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2021
+Kira Lewis Jr.,1630184,Floating Jump shot,2,24,9,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Kira Lewis Jr.,1630184,Jump Shot,2,107,34,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Kira Lewis Jr.,1630184,Layup Shot,2,22,6,Standard Layup,LAYUPS,2021
+Kira Lewis Jr.,1630184,Pullup Jump shot,2,24,6,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2021
+Kira Lewis Jr.,1630184,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2021
+Kira Lewis Jr.,1630184,Running Dunk Shot,2,4,4,Standard Dunk,DUNKS,2021
+Kira Lewis Jr.,1630184,Running Finger Roll Layup Shot,2,3,3,Finger Roll,LAYUPS,2021
+Kira Lewis Jr.,1630184,Running Jump Shot,2,5,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2021
+Kira Lewis Jr.,1630184,Running Layup Shot,2,14,7,Standard Layup,LAYUPS,2021
+Kira Lewis Jr.,1630184,Running Pull-Up Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2021
+Kira Lewis Jr.,1630184,Step Back Jump shot,2,9,2,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2021
+Kira Lewis Jr.,1630184,Tip Layup Shot,2,3,1,Putback Layup,LAYUPS,2021
+Kira Lewis Jr.,1630184,Cutting Dunk Shot,2,1,0,Specialty Dunk,DUNKS,2022
+Kira Lewis Jr.,1630184,Cutting Layup Shot,2,2,1,Standard Layup,LAYUPS,2022
+Kira Lewis Jr.,1630184,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2022
+Kira Lewis Jr.,1630184,Driving Finger Roll Layup Shot,2,3,2,Finger Roll,LAYUPS,2022
+Kira Lewis Jr.,1630184,Driving Floating Bank Jump Shot,2,2,2,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Kira Lewis Jr.,1630184,Driving Floating Jump Shot,2,10,6,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Kira Lewis Jr.,1630184,Driving Layup Shot,2,24,12,Driving Layup,LAYUPS,2022
+Kira Lewis Jr.,1630184,Driving Reverse Layup Shot,2,5,4,Driving Layup,LAYUPS,2022
+Kira Lewis Jr.,1630184,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2022
+Kira Lewis Jr.,1630184,Floating Jump shot,2,5,0,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Kira Lewis Jr.,1630184,Jump Shot,2,44,10,2PT Jump Shot,TWO_POINT_JUMPERS,2022
+Kira Lewis Jr.,1630184,Jump Shot,3,3,0,3PT Jump Shot,THREE_POINT_JUMPERS,2022
+Kira Lewis Jr.,1630184,Layup Shot,2,3,0,Standard Layup,LAYUPS,2022
+Kira Lewis Jr.,1630184,Pullup Jump shot,2,24,6,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2022
+Kira Lewis Jr.,1630184,Pullup Jump shot,3,1,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2022
+Kira Lewis Jr.,1630184,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2022
+Kira Lewis Jr.,1630184,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2022
+Kira Lewis Jr.,1630184,Running Layup Shot,2,8,8,Standard Layup,LAYUPS,2022
+Kira Lewis Jr.,1630184,Running Pull-Up Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2022
+Kira Lewis Jr.,1630184,Step Back Jump shot,2,2,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2022
+Kira Lewis Jr.,1630184,Step Back Jump shot,3,1,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2022
+Kira Lewis Jr.,1630184,Tip Layup Shot,2,2,2,Putback Layup,LAYUPS,2022
+Kira Lewis Jr.,1630184,Cutting Layup Shot,2,1,0,Standard Layup,LAYUPS,2023
+Kira Lewis Jr.,1630184,Driving Dunk Shot,2,1,0,Driving Dunk,DUNKS,2023
+Kira Lewis Jr.,1630184,Driving Finger Roll Layup Shot,2,3,2,Finger Roll,LAYUPS,2023
+Kira Lewis Jr.,1630184,Driving Floating Bank Jump Shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Kira Lewis Jr.,1630184,Driving Floating Jump Shot,2,10,4,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Kira Lewis Jr.,1630184,Driving Layup Shot,2,12,4,Driving Layup,LAYUPS,2023
+Kira Lewis Jr.,1630184,Driving Reverse Layup Shot,2,3,1,Driving Layup,LAYUPS,2023
+Kira Lewis Jr.,1630184,Jump Shot,2,26,10,2PT Jump Shot,TWO_POINT_JUMPERS,2023
+Kira Lewis Jr.,1630184,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2023
+Kira Lewis Jr.,1630184,Layup Shot,2,4,1,Standard Layup,LAYUPS,2023
+Kira Lewis Jr.,1630184,Pullup Jump shot,2,11,6,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2023
+Kira Lewis Jr.,1630184,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2023
+Kira Lewis Jr.,1630184,Running Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2023
+Kira Lewis Jr.,1630184,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2023
+Kira Lewis Jr.,1630184,Running Layup Shot,2,4,2,Standard Layup,LAYUPS,2023
+Kira Lewis Jr.,1630184,Running Pull-Up Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2023
+Kira Lewis Jr.,1630184,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2023
+Kira Lewis Jr.,1630184,Step Back Jump shot,2,3,2,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2023
+Kira Lewis Jr.,1630184,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2023
+Kira Lewis Jr.,1630184,Cutting Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2024
+Kira Lewis Jr.,1630184,Cutting Layup Shot,2,4,4,Standard Layup,LAYUPS,2024
+Kira Lewis Jr.,1630184,Driving Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2024
+Kira Lewis Jr.,1630184,Driving Floating Bank Jump Shot,2,4,2,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Kira Lewis Jr.,1630184,Driving Floating Jump Shot,2,9,4,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Kira Lewis Jr.,1630184,Driving Layup Shot,2,14,7,Driving Layup,LAYUPS,2024
+Kira Lewis Jr.,1630184,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2024
+Kira Lewis Jr.,1630184,Fadeaway Bank shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
+Kira Lewis Jr.,1630184,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
+Kira Lewis Jr.,1630184,Floating Jump shot,2,2,0,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Kira Lewis Jr.,1630184,Jump Bank Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Kira Lewis Jr.,1630184,Jump Shot,3,23,3,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Kira Lewis Jr.,1630184,Layup Shot,2,1,1,Standard Layup,LAYUPS,2024
+Kira Lewis Jr.,1630184,Pullup Jump shot,2,6,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2024
+Kira Lewis Jr.,1630184,Pullup Jump shot,3,6,1,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
+Kira Lewis Jr.,1630184,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2024
+Kira Lewis Jr.,1630184,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2024
+Kira Lewis Jr.,1630184,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Kira Lewis Jr.,1630184,Running Layup Shot,2,8,6,Standard Layup,LAYUPS,2024
+Kira Lewis Jr.,1630184,Running Pull-Up Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Kira Lewis Jr.,1630184,Step Back Jump shot,3,1,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
+Kira Lewis Jr.,1630184,Tip Layup Shot,2,3,2,Putback Layup,LAYUPS,2024

@@ -1,18 +1,20 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Naz Mitrou-Long,1628513,Jump Shot,2,1,1,JUMP_SHOTS,,2018
-Naz Mitrou-Long,1628513,Driving Dunk,2,1,1,DUNKS,,2019
-Naz Mitrou-Long,1628513,Driving Hook Shot,2,1,1,POST_MOVES,,2019
-Naz Mitrou-Long,1628513,Driving Layup,2,5,2,LAYUPS,,2019
-Naz Mitrou-Long,1628513,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2019
-Naz Mitrou-Long,1628513,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2019
-Naz Mitrou-Long,1628513,Jump Shot,2,9,2,JUMP_SHOTS,,2019
-Naz Mitrou-Long,1628513,Jump Shot,3,1,0,JUMP_SHOTS,,2019
-Naz Mitrou-Long,1628513,Pullup Jump Shot,2,1,0,JUMP_SHOTS,,2019
-Naz Mitrou-Long,1628513,Driving Layup,2,1,1,LAYUPS,,2020
-Naz Mitrou-Long,1628513,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2020
-Naz Mitrou-Long,1628513,Floating Jump Shot,2,2,1,FLOATING_SHOTS,,2020
-Naz Mitrou-Long,1628513,Jump Shot,2,6,1,JUMP_SHOTS,,2020
-Naz Mitrou-Long,1628513,Jump Shot,3,1,0,JUMP_SHOTS,,2020
-Naz Mitrou-Long,1628513,Pullup Jump Shot,3,2,0,JUMP_SHOTS,,2020
-Naz Mitrou-Long,1628513,Running Jump Shot,2,3,1,JUMP_SHOTS,,2020
-Naz Mitrou-Long,1628513,Step Back Jump Shot,2,1,1,JUMP_SHOTS,,2020
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Naz Mitrou-Long,1628513,Jump Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2018
+Naz Mitrou-Long,1628513,Driving Bank Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2019
+Naz Mitrou-Long,1628513,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2019
+Naz Mitrou-Long,1628513,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2019
+Naz Mitrou-Long,1628513,Driving Layup Shot,2,5,2,Driving Layup,LAYUPS,2019
+Naz Mitrou-Long,1628513,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2019
+Naz Mitrou-Long,1628513,Jump Shot,2,9,2,2PT Jump Shot,TWO_POINT_JUMPERS,2019
+Naz Mitrou-Long,1628513,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2019
+Naz Mitrou-Long,1628513,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2019
+Naz Mitrou-Long,1628513,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2020
+Naz Mitrou-Long,1628513,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2020
+Naz Mitrou-Long,1628513,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2020
+Naz Mitrou-Long,1628513,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2020
+Naz Mitrou-Long,1628513,Jump Shot,2,6,1,2PT Jump Shot,TWO_POINT_JUMPERS,2020
+Naz Mitrou-Long,1628513,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2020
+Naz Mitrou-Long,1628513,Pullup Jump shot,3,2,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2020
+Naz Mitrou-Long,1628513,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2020
+Naz Mitrou-Long,1628513,Running Pull-Up Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2020
+Naz Mitrou-Long,1628513,Step Back Jump shot,2,1,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2020

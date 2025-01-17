@@ -1,6 +1,6 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Adam Harrington,2492,Jump Shot,2,28,9,JUMP_SHOTS,,2003
-Adam Harrington,2492,Reverse Layup,2,2,1,LAYUPS,,2003
-Adam Harrington,2492,Running Jump Shot,2,1,0,JUMP_SHOTS,,2003
-Adam Harrington,2492,Standard Dunk,2,1,0,DUNKS,,2003
-Adam Harrington,2492,Standard Layup,2,5,1,LAYUPS,,2003
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Adam Harrington,2492,Dunk Shot,2,1,0,Standard Dunk,DUNKS,2003
+Adam Harrington,2492,Jump Shot,2,28,9,2PT Jump Shot,TWO_POINT_JUMPERS,2003
+Adam Harrington,2492,Layup Shot,2,5,1,Standard Layup,LAYUPS,2003
+Adam Harrington,2492,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2003
+Adam Harrington,2492,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2003

@@ -1,8 +1,9 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Ira Bowman,1085,Driving Layup,2,1,1,LAYUPS,,2000
-Ira Bowman,1085,Jump Shot,2,1,1,JUMP_SHOTS,,2000
-Ira Bowman,1085,Jump Shot,2,2,0,JUMP_SHOTS,,2001
-Ira Bowman,1085,Driving Layup,2,2,2,LAYUPS,,2002
-Ira Bowman,1085,Jump Shot,2,2,1,JUMP_SHOTS,,2002
-Ira Bowman,1085,Jump Shot,3,1,0,JUMP_SHOTS,,2002
-Ira Bowman,1085,Standard Layup,2,2,2,LAYUPS,,2002
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Ira Bowman,1085,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2000
+Ira Bowman,1085,Jump Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2000
+Ira Bowman,1085,Jump Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Ira Bowman,1085,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,2002
+Ira Bowman,1085,Jump Shot,2,2,1,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Ira Bowman,1085,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2002
+Ira Bowman,1085,Layup Shot,2,1,1,Standard Layup,LAYUPS,2002
+Ira Bowman,1085,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2002

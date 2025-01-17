@@ -1,8 +1,9 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Tyler Lydon,1628399,Driving Layup,2,2,0,LAYUPS,,2019
-Tyler Lydon,1628399,Jump Shot,2,7,3,JUMP_SHOTS,,2019
-Tyler Lydon,1628399,Pullup Jump Shot,2,1,0,JUMP_SHOTS,,2019
-Tyler Lydon,1628399,Putback Layup,2,3,3,LAYUPS,,2019
-Tyler Lydon,1628399,Specialty Dunk,2,2,2,DUNKS,,2019
-Tyler Lydon,1628399,Standard Layup,2,1,0,LAYUPS,,2019
-Tyler Lydon,1628399,Step Back Jump Shot,2,2,1,JUMP_SHOTS,,2019
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Tyler Lydon,1628399,Cutting Dunk Shot,2,2,2,Specialty Dunk,DUNKS,2019
+Tyler Lydon,1628399,Driving Layup Shot,2,2,0,Driving Layup,LAYUPS,2019
+Tyler Lydon,1628399,Jump Shot,2,7,3,2PT Jump Shot,TWO_POINT_JUMPERS,2019
+Tyler Lydon,1628399,Layup Shot,2,1,0,Standard Layup,LAYUPS,2019
+Tyler Lydon,1628399,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2019
+Tyler Lydon,1628399,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2019
+Tyler Lydon,1628399,Step Back Jump shot,2,2,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2019
+Tyler Lydon,1628399,Tip Layup Shot,2,2,2,Putback Layup,LAYUPS,2019

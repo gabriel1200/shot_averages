@@ -1,18 +1,22 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Roko Ukic,101146,Driving Layup,2,88,52,LAYUPS,,2009
-Roko Ukic,101146,Fadeaway Jump Shot,2,3,2,JUMP_SHOTS,,2009
-Roko Ukic,101146,Finger Roll,2,4,3,LAYUPS,,2009
-Roko Ukic,101146,Floating Jump Shot,2,9,6,FLOATING_SHOTS,,2009
-Roko Ukic,101146,Jump Shot,2,76,15,JUMP_SHOTS,,2009
-Roko Ukic,101146,Jump Shot,3,22,3,JUMP_SHOTS,,2009
-Roko Ukic,101146,Pullup Jump Shot,2,20,5,JUMP_SHOTS,,2009
-Roko Ukic,101146,Pullup Jump Shot,3,2,1,JUMP_SHOTS,,2009
-Roko Ukic,101146,Reverse Layup,2,3,2,LAYUPS,,2009
-Roko Ukic,101146,Running Jump Shot,2,41,17,JUMP_SHOTS,,2009
-Roko Ukic,101146,Standard Layup,2,49,14,LAYUPS,,2009
-Roko Ukic,101146,Turnaround Jump Shot,2,7,3,JUMP_SHOTS,,2009
-Roko Ukic,101146,Jump Shot,2,16,6,JUMP_SHOTS,,2010
-Roko Ukic,101146,Jump Shot,3,3,1,JUMP_SHOTS,,2010
-Roko Ukic,101146,Running Jump Shot,2,3,1,JUMP_SHOTS,,2010
-Roko Ukic,101146,Standard Layup,2,7,5,LAYUPS,,2010
-Roko Ukic,101146,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2010
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Roko Ukic,101146,Driving Finger Roll Layup Shot,2,4,3,Finger Roll,LAYUPS,2009
+Roko Ukic,101146,Driving Layup Shot,2,85,51,Driving Layup,LAYUPS,2009
+Roko Ukic,101146,Driving Reverse Layup Shot,2,3,1,Driving Layup,LAYUPS,2009
+Roko Ukic,101146,Fadeaway Jump Shot,2,3,2,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2009
+Roko Ukic,101146,Floating Jump shot,2,9,6,2PT Floating Jump Shot,FLOATING_SHOTS,2009
+Roko Ukic,101146,Jump Shot,2,76,15,2PT Jump Shot,TWO_POINT_JUMPERS,2009
+Roko Ukic,101146,Jump Shot,3,22,3,3PT Jump Shot,THREE_POINT_JUMPERS,2009
+Roko Ukic,101146,Layup Shot,2,46,12,Standard Layup,LAYUPS,2009
+Roko Ukic,101146,Pullup Jump shot,2,20,5,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2009
+Roko Ukic,101146,Pullup Jump shot,3,2,1,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2009
+Roko Ukic,101146,Reverse Layup Shot,2,3,2,Reverse Layup,LAYUPS,2009
+Roko Ukic,101146,Running Bank shot,2,2,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2009
+Roko Ukic,101146,Running Jump Shot,2,39,15,2PT Running Jump Shot,TWO_POINT_JUMPERS,2009
+Roko Ukic,101146,Running Layup Shot,2,3,2,Standard Layup,LAYUPS,2009
+Roko Ukic,101146,Turnaround Fadeaway shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2009
+Roko Ukic,101146,Turnaround Jump Shot,2,5,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2009
+Roko Ukic,101146,Jump Shot,2,16,6,2PT Jump Shot,TWO_POINT_JUMPERS,2010
+Roko Ukic,101146,Jump Shot,3,3,1,3PT Jump Shot,THREE_POINT_JUMPERS,2010
+Roko Ukic,101146,Layup Shot,2,7,5,Standard Layup,LAYUPS,2010
+Roko Ukic,101146,Running Jump Shot,2,3,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2010
+Roko Ukic,101146,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2010

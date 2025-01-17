@@ -1,6 +1,7 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Aleem Ford,1630758,Driving Layup,2,1,1,LAYUPS,,2022
-Aleem Ford,1630758,Floating Jump Shot,2,2,1,FLOATING_SHOTS,,2022
-Aleem Ford,1630758,Jump Shot,2,15,2,JUMP_SHOTS,,2022
-Aleem Ford,1630758,Specialty Dunk,2,1,1,DUNKS,,2022
-Aleem Ford,1630758,Standard Layup,2,1,1,LAYUPS,,2022
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Aleem Ford,1630758,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2022
+Aleem Ford,1630758,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Aleem Ford,1630758,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2022
+Aleem Ford,1630758,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Aleem Ford,1630758,Jump Shot,2,15,2,2PT Jump Shot,TWO_POINT_JUMPERS,2022
+Aleem Ford,1630758,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2022

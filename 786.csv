@@ -1,20 +1,22 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Gerald Wilkins,786,Driving Dunk,2,4,4,DUNKS,,1997
-Gerald Wilkins,786,Driving Layup,2,59,42,LAYUPS,,1997
-Gerald Wilkins,786,Hook Shot,2,5,2,POST_MOVES,,1997
-Gerald Wilkins,786,Jump Shot,2,473,158,JUMP_SHOTS,,1997
-Gerald Wilkins,786,Running Jump Shot,2,38,29,JUMP_SHOTS,,1997
-Gerald Wilkins,786,Standard Dunk,2,32,30,DUNKS,,1997
-Gerald Wilkins,786,Standard Layup,2,148,58,LAYUPS,,1997
-Gerald Wilkins,786,Driving Dunk,2,2,1,DUNKS,,1998
-Gerald Wilkins,786,Driving Layup,2,61,32,LAYUPS,,1998
-Gerald Wilkins,786,Hook Shot,2,8,3,POST_MOVES,,1998
-Gerald Wilkins,786,Jump Shot,2,286,66,JUMP_SHOTS,,1998
-Gerald Wilkins,786,Jump Shot,3,1,0,JUMP_SHOTS,,1998
-Gerald Wilkins,786,Running Jump Shot,2,24,10,JUMP_SHOTS,,1998
-Gerald Wilkins,786,Standard Dunk,2,3,3,DUNKS,,1998
-Gerald Wilkins,786,Standard Layup,2,48,26,LAYUPS,,1998
-Gerald Wilkins,786,Tip Shot,2,1,0,TIP_SHOTS,,1998
-Gerald Wilkins,786,Jump Shot,2,7,0,JUMP_SHOTS,,1999
-Gerald Wilkins,786,Running Jump Shot,2,1,0,JUMP_SHOTS,,1999
-Gerald Wilkins,786,Standard Layup,2,1,0,LAYUPS,,1999
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Gerald Wilkins,786,Driving Dunk Shot,2,4,4,Driving Dunk,DUNKS,1997
+Gerald Wilkins,786,Driving Layup Shot,2,59,42,Driving Layup,LAYUPS,1997
+Gerald Wilkins,786,Dunk Shot,2,21,19,Standard Dunk,DUNKS,1997
+Gerald Wilkins,786,Hook Shot,2,5,2,Hook Shot,POST_MOVES,1997
+Gerald Wilkins,786,Jump Shot,2,473,158,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Gerald Wilkins,786,Layup Shot,2,148,58,Standard Layup,LAYUPS,1997
+Gerald Wilkins,786,Running Jump Shot,2,38,29,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
+Gerald Wilkins,786,Slam Dunk Shot,2,11,11,Standard Dunk,DUNKS,1997
+Gerald Wilkins,786,Driving Dunk Shot,2,2,1,Driving Dunk,DUNKS,1998
+Gerald Wilkins,786,Driving Layup Shot,2,61,32,Driving Layup,LAYUPS,1998
+Gerald Wilkins,786,Dunk Shot,2,2,2,Standard Dunk,DUNKS,1998
+Gerald Wilkins,786,Hook Shot,2,8,3,Hook Shot,POST_MOVES,1998
+Gerald Wilkins,786,Jump Shot,2,286,66,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+Gerald Wilkins,786,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,1998
+Gerald Wilkins,786,Layup Shot,2,48,26,Standard Layup,LAYUPS,1998
+Gerald Wilkins,786,Running Jump Shot,2,24,10,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
+Gerald Wilkins,786,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,1998
+Gerald Wilkins,786,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,1998
+Gerald Wilkins,786,Jump Shot,2,7,0,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Gerald Wilkins,786,Layup Shot,2,1,0,Standard Layup,LAYUPS,1999
+Gerald Wilkins,786,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999

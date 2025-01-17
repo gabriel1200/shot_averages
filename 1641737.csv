@@ -1,7 +1,12 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Adem Bona,1641737,Driving Dunk,2,1,1,DUNKS,,2025
-Adem Bona,1641737,Driving Layup,2,2,2,LAYUPS,,2025
-Adem Bona,1641737,Putback Layup,2,7,5,LAYUPS,,2025
-Adem Bona,1641737,Specialty Dunk,2,5,4,DUNKS,,2025
-Adem Bona,1641737,Standard Dunk,2,4,3,DUNKS,,2025
-Adem Bona,1641737,Standard Layup,2,5,1,LAYUPS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Adem Bona,1641737,Cutting Dunk Shot,2,4,3,Specialty Dunk,DUNKS,2025
+Adem Bona,1641737,Cutting Layup Shot,2,1,0,Standard Layup,LAYUPS,2025
+Adem Bona,1641737,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2025
+Adem Bona,1641737,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2025
+Adem Bona,1641737,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2025
+Adem Bona,1641737,Dunk Shot,2,3,2,Standard Dunk,DUNKS,2025
+Adem Bona,1641737,Layup Shot,2,4,1,Standard Layup,LAYUPS,2025
+Adem Bona,1641737,Putback Layup Shot,2,4,3,Putback Layup,LAYUPS,2025
+Adem Bona,1641737,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2025
+Adem Bona,1641737,Tip Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2025
+Adem Bona,1641737,Tip Layup Shot,2,3,2,Putback Layup,LAYUPS,2025

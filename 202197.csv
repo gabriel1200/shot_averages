@@ -1,4 +1,4 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Shane Edwards,202197,Jump Shot,2,1,0,JUMP_SHOTS,,2014
-Shane Edwards,202197,Standard Layup,2,1,1,LAYUPS,,2014
-Shane Edwards,202197,Tip Shot,2,1,0,TIP_SHOTS,,2014
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Shane Edwards,202197,Jump Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2014
+Shane Edwards,202197,Layup Shot,2,1,1,Standard Layup,LAYUPS,2014
+Shane Edwards,202197,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2014

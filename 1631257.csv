@@ -1,8 +1,11 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jermaine Samuels Jr.,1631257,Driving Layup,2,2,1,LAYUPS,,2024
-Jermaine Samuels Jr.,1631257,Finger Roll,2,2,2,LAYUPS,,2024
-Jermaine Samuels Jr.,1631257,Floating Jump Shot,2,1,1,FLOATING_SHOTS,,2024
-Jermaine Samuels Jr.,1631257,Jump Shot,3,2,0,JUMP_SHOTS,,2024
-Jermaine Samuels Jr.,1631257,Putback Layup,2,1,1,LAYUPS,,2024
-Jermaine Samuels Jr.,1631257,Specialty Dunk,2,1,1,DUNKS,,2024
-Jermaine Samuels Jr.,1631257,Standard Layup,2,5,3,LAYUPS,,2024
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Jermaine Samuels Jr.,1631257,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2024
+Jermaine Samuels Jr.,1631257,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2024
+Jermaine Samuels Jr.,1631257,Driving Floating Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Jermaine Samuels Jr.,1631257,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2024
+Jermaine Samuels Jr.,1631257,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2024
+Jermaine Samuels Jr.,1631257,Jump Shot,3,2,0,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Jermaine Samuels Jr.,1631257,Layup Shot,2,1,0,Standard Layup,LAYUPS,2024
+Jermaine Samuels Jr.,1631257,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2024
+Jermaine Samuels Jr.,1631257,Running Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2024
+Jermaine Samuels Jr.,1631257,Running Layup Shot,2,3,2,Standard Layup,LAYUPS,2024

@@ -1,21 +1,22 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Kenny Satterfield,2261,Driving Dunk,2,1,1,DUNKS,,2002
-Kenny Satterfield,2261,Driving Layup,2,22,15,LAYUPS,,2002
-Kenny Satterfield,2261,Finger Roll,2,1,0,LAYUPS,,2002
-Kenny Satterfield,2261,Jump Shot,2,123,35,JUMP_SHOTS,,2002
-Kenny Satterfield,2261,Jump Shot,3,1,0,JUMP_SHOTS,,2002
-Kenny Satterfield,2261,Reverse Layup,2,2,1,LAYUPS,,2002
-Kenny Satterfield,2261,Running Jump Shot,2,15,7,JUMP_SHOTS,,2002
-Kenny Satterfield,2261,Standard Dunk,2,1,1,DUNKS,,2002
-Kenny Satterfield,2261,Standard Layup,2,33,13,LAYUPS,,2002
-Kenny Satterfield,2261,Driving Layup,2,18,7,LAYUPS,,2003
-Kenny Satterfield,2261,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2003
-Kenny Satterfield,2261,Finger Roll,2,2,0,LAYUPS,,2003
-Kenny Satterfield,2261,Hook Shot,2,1,0,POST_MOVES,,2003
-Kenny Satterfield,2261,Jump Shot,2,110,30,JUMP_SHOTS,,2003
-Kenny Satterfield,2261,Jump Shot,3,1,0,JUMP_SHOTS,,2003
-Kenny Satterfield,2261,Reverse Layup,2,3,2,LAYUPS,,2003
-Kenny Satterfield,2261,Running Jump Shot,2,17,2,JUMP_SHOTS,,2003
-Kenny Satterfield,2261,Standard Dunk,2,2,0,DUNKS,,2003
-Kenny Satterfield,2261,Standard Layup,2,27,13,LAYUPS,,2003
-Kenny Satterfield,2261,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2003
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Kenny Satterfield,2261,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2002
+Kenny Satterfield,2261,Driving Finger Roll Shot,2,1,0,Finger Roll,LAYUPS,2002
+Kenny Satterfield,2261,Driving Layup Shot,2,22,15,Driving Layup,LAYUPS,2002
+Kenny Satterfield,2261,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2002
+Kenny Satterfield,2261,Jump Shot,2,123,35,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Kenny Satterfield,2261,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2002
+Kenny Satterfield,2261,Layup Shot,2,33,13,Standard Layup,LAYUPS,2002
+Kenny Satterfield,2261,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2002
+Kenny Satterfield,2261,Running Jump Shot,2,15,7,2PT Running Jump Shot,TWO_POINT_JUMPERS,2002
+Kenny Satterfield,2261,Driving Finger Roll Shot,2,1,0,Finger Roll,LAYUPS,2003
+Kenny Satterfield,2261,Driving Layup Shot,2,18,7,Driving Layup,LAYUPS,2003
+Kenny Satterfield,2261,Dunk Shot,2,2,0,Standard Dunk,DUNKS,2003
+Kenny Satterfield,2261,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2003
+Kenny Satterfield,2261,Finger Roll Shot,2,1,0,Finger Roll,LAYUPS,2003
+Kenny Satterfield,2261,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2003
+Kenny Satterfield,2261,Jump Shot,2,110,30,2PT Jump Shot,TWO_POINT_JUMPERS,2003
+Kenny Satterfield,2261,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2003
+Kenny Satterfield,2261,Layup Shot,2,27,13,Standard Layup,LAYUPS,2003
+Kenny Satterfield,2261,Reverse Layup Shot,2,3,2,Reverse Layup,LAYUPS,2003
+Kenny Satterfield,2261,Running Jump Shot,2,17,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2003
+Kenny Satterfield,2261,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2003

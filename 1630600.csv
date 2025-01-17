@@ -1,20 +1,27 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Isaiah Mobley,1630600,Driving Layup,2,4,0,LAYUPS,,2023
-Isaiah Mobley,1630600,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2023
-Isaiah Mobley,1630600,Hook Shot,2,1,1,POST_MOVES,,2023
-Isaiah Mobley,1630600,Jump Shot,2,8,3,JUMP_SHOTS,,2023
-Isaiah Mobley,1630600,Pullup Jump Shot,2,1,0,JUMP_SHOTS,,2023
-Isaiah Mobley,1630600,Putback Layup,2,2,1,LAYUPS,,2023
-Isaiah Mobley,1630600,Running Jump Shot,2,1,0,JUMP_SHOTS,,2023
-Isaiah Mobley,1630600,Standard Dunk,2,1,1,DUNKS,,2023
-Isaiah Mobley,1630600,Standard Layup,2,2,2,LAYUPS,,2023
-Isaiah Mobley,1630600,Turnaround Hook Shot,2,7,4,POST_MOVES,,2023
-Isaiah Mobley,1630600,Driving Layup,2,1,1,LAYUPS,,2024
-Isaiah Mobley,1630600,Fadeaway Jump Shot,2,2,0,JUMP_SHOTS,,2024
-Isaiah Mobley,1630600,Floating Jump Shot,2,2,0,FLOATING_SHOTS,,2024
-Isaiah Mobley,1630600,Hook Shot,2,1,0,POST_MOVES,,2024
-Isaiah Mobley,1630600,Jump Shot,3,10,3,JUMP_SHOTS,,2024
-Isaiah Mobley,1630600,Putback Layup,2,2,1,LAYUPS,,2024
-Isaiah Mobley,1630600,Standard Dunk,2,2,2,DUNKS,,2024
-Isaiah Mobley,1630600,Standard Layup,2,3,2,LAYUPS,,2024
-Isaiah Mobley,1630600,Turnaround Hook Shot,2,1,1,POST_MOVES,,2024
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Isaiah Mobley,1630600,Cutting Layup Shot,2,2,2,Standard Layup,LAYUPS,2023
+Isaiah Mobley,1630600,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Isaiah Mobley,1630600,Driving Layup Shot,2,2,0,Driving Layup,LAYUPS,2023
+Isaiah Mobley,1630600,Driving Reverse Layup Shot,2,2,0,Driving Layup,LAYUPS,2023
+Isaiah Mobley,1630600,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2023
+Isaiah Mobley,1630600,Jump Shot,2,8,3,2PT Jump Shot,TWO_POINT_JUMPERS,2023
+Isaiah Mobley,1630600,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2023
+Isaiah Mobley,1630600,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2023
+Isaiah Mobley,1630600,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2023
+Isaiah Mobley,1630600,Running Pull-Up Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2023
+Isaiah Mobley,1630600,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2023
+Isaiah Mobley,1630600,Turnaround Bank Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2023
+Isaiah Mobley,1630600,Turnaround Hook Shot,2,6,3,Turnaround Hook Shot,POST_MOVES,2023
+Isaiah Mobley,1630600,Cutting Layup Shot,2,1,0,Standard Layup,LAYUPS,2024
+Isaiah Mobley,1630600,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Isaiah Mobley,1630600,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2024
+Isaiah Mobley,1630600,Fadeaway Jump Shot,2,2,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
+Isaiah Mobley,1630600,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Isaiah Mobley,1630600,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2024
+Isaiah Mobley,1630600,Jump Shot,3,10,3,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Isaiah Mobley,1630600,Layup Shot,2,1,1,Standard Layup,LAYUPS,2024
+Isaiah Mobley,1630600,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2024
+Isaiah Mobley,1630600,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2024
+Isaiah Mobley,1630600,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2024
+Isaiah Mobley,1630600,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2024
+Isaiah Mobley,1630600,Turnaround Bank Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2024

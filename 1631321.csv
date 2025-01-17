@@ -1,19 +1,23 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Sidy Cissoko,1631321,Driving Dunk,2,1,1,DUNKS,,2024
-Sidy Cissoko,1631321,Driving Layup,2,3,0,LAYUPS,,2024
-Sidy Cissoko,1631321,Floating Jump Shot,2,4,3,FLOATING_SHOTS,,2024
-Sidy Cissoko,1631321,Jump Shot,3,10,1,JUMP_SHOTS,,2024
-Sidy Cissoko,1631321,Putback Dunk,2,1,1,DUNKS,,2024
-Sidy Cissoko,1631321,Putback Layup,2,1,1,LAYUPS,,2024
-Sidy Cissoko,1631321,Reverse Dunk,2,1,1,DUNKS,,2024
-Sidy Cissoko,1631321,Running Jump Shot,3,2,0,JUMP_SHOTS,,2024
-Sidy Cissoko,1631321,Specialty Dunk,2,3,3,DUNKS,,2024
-Sidy Cissoko,1631321,Standard Dunk,2,5,4,DUNKS,,2024
-Sidy Cissoko,1631321,Standard Layup,2,2,1,LAYUPS,,2024
-Sidy Cissoko,1631321,Alley Oop Dunk,2,1,1,DUNKS,,2025
-Sidy Cissoko,1631321,Driving Dunk,2,1,1,DUNKS,,2025
-Sidy Cissoko,1631321,Driving Layup,2,2,0,LAYUPS,,2025
-Sidy Cissoko,1631321,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2025
-Sidy Cissoko,1631321,Jump Shot,3,6,3,JUMP_SHOTS,,2025
-Sidy Cissoko,1631321,Putback Layup,2,1,1,LAYUPS,,2025
-Sidy Cissoko,1631321,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Sidy Cissoko,1631321,Cutting Dunk Shot,2,3,3,Specialty Dunk,DUNKS,2024
+Sidy Cissoko,1631321,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2024
+Sidy Cissoko,1631321,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2024
+Sidy Cissoko,1631321,Driving Floating Bank Jump Shot,2,3,2,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Sidy Cissoko,1631321,Driving Floating Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Sidy Cissoko,1631321,Driving Layup Shot,2,3,0,Driving Layup,LAYUPS,2024
+Sidy Cissoko,1631321,Driving Reverse Dunk Shot,2,1,1,Reverse Dunk,DUNKS,2024
+Sidy Cissoko,1631321,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2024
+Sidy Cissoko,1631321,Jump Bank Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Sidy Cissoko,1631321,Jump Shot,3,9,1,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Sidy Cissoko,1631321,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2024
+Sidy Cissoko,1631321,Running Dunk Shot,2,4,3,Standard Dunk,DUNKS,2024
+Sidy Cissoko,1631321,Running Jump Shot,3,2,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Sidy Cissoko,1631321,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2024
+Sidy Cissoko,1631321,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2024
+Sidy Cissoko,1631321,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2025
+Sidy Cissoko,1631321,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Sidy Cissoko,1631321,Driving Layup Shot,2,2,0,Driving Layup,LAYUPS,2025
+Sidy Cissoko,1631321,Jump Shot,3,6,3,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Sidy Cissoko,1631321,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2025
+Sidy Cissoko,1631321,Running Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2025
+Sidy Cissoko,1631321,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2025

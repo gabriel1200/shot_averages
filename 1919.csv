@@ -1,42 +1,47 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Laron Profit,1919,Driving Dunk,2,1,1,DUNKS,,2000
-Laron Profit,1919,Driving Layup,2,6,4,LAYUPS,,2000
-Laron Profit,1919,Jump Shot,2,42,8,JUMP_SHOTS,,2000
-Laron Profit,1919,Standard Dunk,2,7,6,DUNKS,,2000
-Laron Profit,1919,Standard Layup,2,2,2,LAYUPS,,2000
-Laron Profit,1919,Tip Shot,2,1,0,TIP_SHOTS,,2000
-Laron Profit,1919,Alley Oop Dunk,2,2,2,DUNKS,,2001
-Laron Profit,1919,Alley Oop Layup,2,1,1,LAYUPS,,2001
-Laron Profit,1919,Driving Layup,2,5,5,LAYUPS,,2001
-Laron Profit,1919,Jump Shot,2,77,14,JUMP_SHOTS,,2001
-Laron Profit,1919,Jump Shot,3,7,1,JUMP_SHOTS,,2001
-Laron Profit,1919,Reverse Layup,2,2,2,LAYUPS,,2001
-Laron Profit,1919,Running Jump Shot,2,2,2,JUMP_SHOTS,,2001
-Laron Profit,1919,Standard Dunk,2,5,5,DUNKS,,2001
-Laron Profit,1919,Standard Layup,2,36,22,LAYUPS,,2001
-Laron Profit,1919,Tip Shot,2,2,1,TIP_SHOTS,,2001
-Laron Profit,1919,Turnaround Jump Shot,2,3,1,JUMP_SHOTS,,2001
-Laron Profit,1919,Alley Oop Dunk,2,3,3,DUNKS,,2005
-Laron Profit,1919,Driving Layup,2,12,10,LAYUPS,,2005
-Laron Profit,1919,Finger Roll,2,1,1,LAYUPS,,2005
-Laron Profit,1919,Jump Shot,2,73,24,JUMP_SHOTS,,2005
-Laron Profit,1919,Jump Shot,3,5,2,JUMP_SHOTS,,2005
-Laron Profit,1919,Reverse Layup,2,3,2,LAYUPS,,2005
-Laron Profit,1919,Running Jump Shot,2,1,0,JUMP_SHOTS,,2005
-Laron Profit,1919,Specialty Dunk,2,3,2,DUNKS,,2005
-Laron Profit,1919,Standard Dunk,2,2,2,DUNKS,,2005
-Laron Profit,1919,Standard Layup,2,17,5,LAYUPS,,2005
-Laron Profit,1919,Tip Shot,2,5,3,TIP_SHOTS,,2005
-Laron Profit,1919,Turnaround Jump Shot,2,3,2,JUMP_SHOTS,,2005
-Laron Profit,1919,Alley Oop Dunk,2,1,1,DUNKS,,2006
-Laron Profit,1919,Driving Dunk,2,3,3,DUNKS,,2006
-Laron Profit,1919,Driving Layup,2,4,3,LAYUPS,,2006
-Laron Profit,1919,Finger Roll,2,1,1,LAYUPS,,2006
-Laron Profit,1919,Jump Shot,2,48,12,JUMP_SHOTS,,2006
-Laron Profit,1919,Jump Shot,3,2,2,JUMP_SHOTS,,2006
-Laron Profit,1919,Reverse Layup,2,5,4,LAYUPS,,2006
-Laron Profit,1919,Specialty Dunk,2,1,1,DUNKS,,2006
-Laron Profit,1919,Standard Dunk,2,3,3,DUNKS,,2006
-Laron Profit,1919,Standard Layup,2,14,9,LAYUPS,,2006
-Laron Profit,1919,Tip Shot,2,1,1,TIP_SHOTS,,2006
-Laron Profit,1919,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2006
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Laron Profit,1919,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2000
+Laron Profit,1919,Driving Layup Shot,2,6,4,Driving Layup,LAYUPS,2000
+Laron Profit,1919,Dunk Shot,2,2,1,Standard Dunk,DUNKS,2000
+Laron Profit,1919,Jump Shot,2,42,8,2PT Jump Shot,TWO_POINT_JUMPERS,2000
+Laron Profit,1919,Layup Shot,2,2,2,Standard Layup,LAYUPS,2000
+Laron Profit,1919,Slam Dunk Shot,2,5,5,Standard Dunk,DUNKS,2000
+Laron Profit,1919,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2000
+Laron Profit,1919,Alley Oop Dunk Shot,2,2,2,Alley Oop Dunk,DUNKS,2001
+Laron Profit,1919,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2001
+Laron Profit,1919,Driving Layup Shot,2,5,5,Driving Layup,LAYUPS,2001
+Laron Profit,1919,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2001
+Laron Profit,1919,Jump Shot,2,77,14,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Laron Profit,1919,Jump Shot,3,7,1,3PT Jump Shot,THREE_POINT_JUMPERS,2001
+Laron Profit,1919,Layup Shot,2,31,17,Standard Layup,LAYUPS,2001
+Laron Profit,1919,Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2001
+Laron Profit,1919,Running Jump Shot,2,2,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
+Laron Profit,1919,Running Layup Shot,2,5,5,Standard Layup,LAYUPS,2001
+Laron Profit,1919,Slam Dunk Shot,2,3,3,Standard Dunk,DUNKS,2001
+Laron Profit,1919,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,2001
+Laron Profit,1919,Turnaround Jump Shot,2,3,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2001
+Laron Profit,1919,Alley Oop Dunk Shot,2,3,3,Alley Oop Dunk,DUNKS,2005
+Laron Profit,1919,Driving Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2005
+Laron Profit,1919,Driving Layup Shot,2,12,10,Driving Layup,LAYUPS,2005
+Laron Profit,1919,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2005
+Laron Profit,1919,Follow Up Dunk Shot,2,3,2,Specialty Dunk,DUNKS,2005
+Laron Profit,1919,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2005
+Laron Profit,1919,Jump Shot,2,72,23,2PT Jump Shot,TWO_POINT_JUMPERS,2005
+Laron Profit,1919,Jump Shot,3,5,2,3PT Jump Shot,THREE_POINT_JUMPERS,2005
+Laron Profit,1919,Layup Shot,2,17,5,Standard Layup,LAYUPS,2005
+Laron Profit,1919,Reverse Layup Shot,2,3,2,Reverse Layup,LAYUPS,2005
+Laron Profit,1919,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2005
+Laron Profit,1919,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2005
+Laron Profit,1919,Tip Shot,2,5,3,Tip Shot,TIP_SHOTS,2005
+Laron Profit,1919,Turnaround Jump Shot,2,3,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2005
+Laron Profit,1919,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2006
+Laron Profit,1919,Driving Dunk Shot,2,3,3,Driving Dunk,DUNKS,2006
+Laron Profit,1919,Driving Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2006
+Laron Profit,1919,Driving Layup Shot,2,4,3,Driving Layup,LAYUPS,2006
+Laron Profit,1919,Dunk Shot,2,3,3,Standard Dunk,DUNKS,2006
+Laron Profit,1919,Follow Up Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2006
+Laron Profit,1919,Jump Shot,2,48,12,2PT Jump Shot,TWO_POINT_JUMPERS,2006
+Laron Profit,1919,Jump Shot,3,2,2,3PT Jump Shot,THREE_POINT_JUMPERS,2006
+Laron Profit,1919,Layup Shot,2,14,9,Standard Layup,LAYUPS,2006
+Laron Profit,1919,Reverse Layup Shot,2,5,4,Reverse Layup,LAYUPS,2006
+Laron Profit,1919,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2006
+Laron Profit,1919,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2006

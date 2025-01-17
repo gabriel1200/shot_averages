@@ -1,7 +1,7 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Demetris Nichols,201193,Driving Dunk,2,1,1,DUNKS,,2008
-Demetris Nichols,201193,Jump Shot,2,21,5,JUMP_SHOTS,,2008
-Demetris Nichols,201193,Standard Layup,2,1,0,LAYUPS,,2008
-Demetris Nichols,201193,Driving Layup,2,1,1,LAYUPS,,2009
-Demetris Nichols,201193,Jump Shot,2,7,2,JUMP_SHOTS,,2009
-Demetris Nichols,201193,Standard Layup,2,1,0,LAYUPS,,2009
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Demetris Nichols,201193,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2008
+Demetris Nichols,201193,Jump Shot,2,21,5,2PT Jump Shot,TWO_POINT_JUMPERS,2008
+Demetris Nichols,201193,Layup Shot,2,1,0,Standard Layup,LAYUPS,2008
+Demetris Nichols,201193,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2009
+Demetris Nichols,201193,Jump Shot,2,7,2,2PT Jump Shot,TWO_POINT_JUMPERS,2009
+Demetris Nichols,201193,Layup Shot,2,1,0,Standard Layup,LAYUPS,2009

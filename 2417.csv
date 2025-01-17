@@ -1,40 +1,45 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Qyntel Woods,2417,Alley Oop Dunk,2,6,4,DUNKS,,2003
-Qyntel Woods,2417,Alley Oop Layup,2,1,1,LAYUPS,,2003
-Qyntel Woods,2417,Driving Dunk,2,4,3,DUNKS,,2003
-Qyntel Woods,2417,Driving Layup,2,8,6,LAYUPS,,2003
-Qyntel Woods,2417,Jump Shot,2,67,28,JUMP_SHOTS,,2003
-Qyntel Woods,2417,Reverse Layup,2,1,0,LAYUPS,,2003
-Qyntel Woods,2417,Running Jump Shot,2,3,1,JUMP_SHOTS,,2003
-Qyntel Woods,2417,Standard Dunk,2,3,3,DUNKS,,2003
-Qyntel Woods,2417,Standard Layup,2,20,11,LAYUPS,,2003
-Qyntel Woods,2417,Tip Shot,2,4,2,TIP_SHOTS,,2003
-Qyntel Woods,2417,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2003
-Qyntel Woods,2417,Alley Oop Dunk,2,3,3,DUNKS,,2004
-Qyntel Woods,2417,Driving Dunk,2,4,3,DUNKS,,2004
-Qyntel Woods,2417,Driving Layup,2,18,11,LAYUPS,,2004
-Qyntel Woods,2417,Finger Roll,2,3,3,LAYUPS,,2004
-Qyntel Woods,2417,Jump Shot,2,146,46,JUMP_SHOTS,,2004
-Qyntel Woods,2417,Reverse Layup,2,3,1,LAYUPS,,2004
-Qyntel Woods,2417,Running Jump Shot,2,7,4,JUMP_SHOTS,,2004
-Qyntel Woods,2417,Specialty Dunk,2,1,1,DUNKS,,2004
-Qyntel Woods,2417,Standard Dunk,2,6,6,DUNKS,,2004
-Qyntel Woods,2417,Standard Layup,2,38,8,LAYUPS,,2004
-Qyntel Woods,2417,Tip Shot,2,7,2,TIP_SHOTS,,2004
-Qyntel Woods,2417,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2004
-Qyntel Woods,2417,Jump Shot,2,7,2,JUMP_SHOTS,,2005
-Qyntel Woods,2417,Standard Layup,2,5,3,LAYUPS,,2005
-Qyntel Woods,2417,Alley Oop Dunk,2,8,8,DUNKS,,2006
-Qyntel Woods,2417,Alley Oop Layup,2,1,0,LAYUPS,,2006
-Qyntel Woods,2417,Driving Dunk,2,16,15,DUNKS,,2006
-Qyntel Woods,2417,Driving Layup,2,23,21,LAYUPS,,2006
-Qyntel Woods,2417,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2006
-Qyntel Woods,2417,Finger Roll,2,2,2,LAYUPS,,2006
-Qyntel Woods,2417,Jump Shot,2,140,44,JUMP_SHOTS,,2006
-Qyntel Woods,2417,Reverse Layup,2,2,2,LAYUPS,,2006
-Qyntel Woods,2417,Running Jump Shot,2,10,7,JUMP_SHOTS,,2006
-Qyntel Woods,2417,Specialty Dunk,2,1,1,DUNKS,,2006
-Qyntel Woods,2417,Standard Dunk,2,17,16,DUNKS,,2006
-Qyntel Woods,2417,Standard Layup,2,26,9,LAYUPS,,2006
-Qyntel Woods,2417,Tip Shot,2,6,2,TIP_SHOTS,,2006
-Qyntel Woods,2417,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2006
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Qyntel Woods,2417,Alley Oop Dunk Shot,2,6,4,Alley Oop Dunk,DUNKS,2003
+Qyntel Woods,2417,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2003
+Qyntel Woods,2417,Driving Dunk Shot,2,4,3,Driving Dunk,DUNKS,2003
+Qyntel Woods,2417,Driving Layup Shot,2,8,6,Driving Layup,LAYUPS,2003
+Qyntel Woods,2417,Jump Shot,2,67,28,2PT Jump Shot,TWO_POINT_JUMPERS,2003
+Qyntel Woods,2417,Layup Shot,2,20,11,Standard Layup,LAYUPS,2003
+Qyntel Woods,2417,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2003
+Qyntel Woods,2417,Running Jump Shot,2,3,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2003
+Qyntel Woods,2417,Slam Dunk Shot,2,3,3,Standard Dunk,DUNKS,2003
+Qyntel Woods,2417,Tip Shot,2,4,2,Tip Shot,TIP_SHOTS,2003
+Qyntel Woods,2417,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2003
+Qyntel Woods,2417,Alley Oop Dunk Shot,2,3,3,Alley Oop Dunk,DUNKS,2004
+Qyntel Woods,2417,Driving Dunk Shot,2,4,3,Driving Dunk,DUNKS,2004
+Qyntel Woods,2417,Driving Finger Roll Shot,2,2,2,Finger Roll,LAYUPS,2004
+Qyntel Woods,2417,Driving Layup Shot,2,18,11,Driving Layup,LAYUPS,2004
+Qyntel Woods,2417,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2004
+Qyntel Woods,2417,Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2004
+Qyntel Woods,2417,Follow Up Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2004
+Qyntel Woods,2417,Jump Bank Shot,2,2,1,2PT Jump Shot,TWO_POINT_JUMPERS,2004
+Qyntel Woods,2417,Jump Shot,2,144,45,2PT Jump Shot,TWO_POINT_JUMPERS,2004
+Qyntel Woods,2417,Layup Shot,2,38,8,Standard Layup,LAYUPS,2004
+Qyntel Woods,2417,Reverse Layup Shot,2,3,1,Reverse Layup,LAYUPS,2004
+Qyntel Woods,2417,Running Jump Shot,2,7,4,2PT Running Jump Shot,TWO_POINT_JUMPERS,2004
+Qyntel Woods,2417,Slam Dunk Shot,2,4,4,Standard Dunk,DUNKS,2004
+Qyntel Woods,2417,Tip Shot,2,7,2,Tip Shot,TIP_SHOTS,2004
+Qyntel Woods,2417,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2004
+Qyntel Woods,2417,Jump Shot,2,7,2,2PT Jump Shot,TWO_POINT_JUMPERS,2005
+Qyntel Woods,2417,Layup Shot,2,5,3,Standard Layup,LAYUPS,2005
+Qyntel Woods,2417,Alley Oop Dunk Shot,2,8,8,Alley Oop Dunk,DUNKS,2006
+Qyntel Woods,2417,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2006
+Qyntel Woods,2417,Driving Dunk Shot,2,16,15,Driving Dunk,DUNKS,2006
+Qyntel Woods,2417,Driving Finger Roll Shot,2,2,2,Finger Roll,LAYUPS,2006
+Qyntel Woods,2417,Driving Layup Shot,2,23,21,Driving Layup,LAYUPS,2006
+Qyntel Woods,2417,Dunk Shot,2,5,4,Standard Dunk,DUNKS,2006
+Qyntel Woods,2417,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2006
+Qyntel Woods,2417,Follow Up Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2006
+Qyntel Woods,2417,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2006
+Qyntel Woods,2417,Jump Shot,2,139,43,2PT Jump Shot,TWO_POINT_JUMPERS,2006
+Qyntel Woods,2417,Layup Shot,2,26,9,Standard Layup,LAYUPS,2006
+Qyntel Woods,2417,Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2006
+Qyntel Woods,2417,Running Jump Shot,2,10,7,2PT Running Jump Shot,TWO_POINT_JUMPERS,2006
+Qyntel Woods,2417,Slam Dunk Shot,2,12,12,Standard Dunk,DUNKS,2006
+Qyntel Woods,2417,Tip Shot,2,6,2,Tip Shot,TIP_SHOTS,2006
+Qyntel Woods,2417,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2006

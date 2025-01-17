@@ -1,15 +1,16 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jordan Walsh,1641775,Jump Shot,3,8,2,JUMP_SHOTS,,2024
-Jordan Walsh,1641775,Running Jump Shot,3,1,0,JUMP_SHOTS,,2024
-Jordan Walsh,1641775,Specialty Dunk,2,1,1,DUNKS,,2024
-Jordan Walsh,1641775,Standard Dunk,2,4,3,DUNKS,,2024
-Jordan Walsh,1641775,Standard Layup,2,1,0,LAYUPS,,2024
-Jordan Walsh,1641775,Alley Oop Layup,2,1,0,LAYUPS,,2025
-Jordan Walsh,1641775,Driving Dunk,2,2,1,DUNKS,,2025
-Jordan Walsh,1641775,Driving Layup,2,5,3,LAYUPS,,2025
-Jordan Walsh,1641775,Finger Roll,2,1,1,LAYUPS,,2025
-Jordan Walsh,1641775,Jump Shot,3,30,6,JUMP_SHOTS,,2025
-Jordan Walsh,1641775,Pullup Jump Shot,3,2,2,JUMP_SHOTS,,2025
-Jordan Walsh,1641775,Putback Layup,2,2,1,LAYUPS,,2025
-Jordan Walsh,1641775,Specialty Dunk,2,1,1,DUNKS,,2025
-Jordan Walsh,1641775,Standard Layup,2,3,1,LAYUPS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Jordan Walsh,1641775,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2024
+Jordan Walsh,1641775,Jump Shot,3,8,2,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Jordan Walsh,1641775,Running Dunk Shot,2,4,3,Standard Dunk,DUNKS,2024
+Jordan Walsh,1641775,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Jordan Walsh,1641775,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2024
+Jordan Walsh,1641775,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2025
+Jordan Walsh,1641775,Driving Dunk Shot,2,2,1,Driving Dunk,DUNKS,2025
+Jordan Walsh,1641775,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2025
+Jordan Walsh,1641775,Driving Layup Shot,2,5,3,Driving Layup,LAYUPS,2025
+Jordan Walsh,1641775,Jump Shot,3,30,6,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Jordan Walsh,1641775,Pullup Jump shot,3,2,2,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
+Jordan Walsh,1641775,Putback Layup Shot,2,1,0,Putback Layup,LAYUPS,2025
+Jordan Walsh,1641775,Running Alley Oop Layup Shot,2,1,0,Alley Oop Layup,LAYUPS,2025
+Jordan Walsh,1641775,Running Layup Shot,2,3,1,Standard Layup,LAYUPS,2025
+Jordan Walsh,1641775,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2025

@@ -1,5 +1,5 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Mark Jones,2891,Driving Layup,2,1,1,LAYUPS,,2005
-Mark Jones,2891,Jump Shot,2,23,6,JUMP_SHOTS,,2005
-Mark Jones,2891,Standard Layup,2,6,1,LAYUPS,,2005
-Mark Jones,2891,Tip Shot,2,1,1,TIP_SHOTS,,2005
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Mark Jones,2891,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2005
+Mark Jones,2891,Jump Shot,2,23,6,2PT Jump Shot,TWO_POINT_JUMPERS,2005
+Mark Jones,2891,Layup Shot,2,6,1,Standard Layup,LAYUPS,2005
+Mark Jones,2891,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2005

@@ -1,26 +1,31 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Cassius Stanley,1630199,Alley Oop Dunk,2,1,1,DUNKS,,2021
-Cassius Stanley,1630199,Driving Dunk,2,1,0,DUNKS,,2021
-Cassius Stanley,1630199,Driving Layup,2,8,1,LAYUPS,,2021
-Cassius Stanley,1630199,Finger Roll,2,1,1,LAYUPS,,2021
-Cassius Stanley,1630199,Floating Jump Shot,2,4,1,FLOATING_SHOTS,,2021
-Cassius Stanley,1630199,Hook Shot,2,1,0,POST_MOVES,,2021
-Cassius Stanley,1630199,Jump Shot,2,12,3,JUMP_SHOTS,,2021
-Cassius Stanley,1630199,Pullup Jump Shot,2,2,1,JUMP_SHOTS,,2021
-Cassius Stanley,1630199,Putback Layup,2,1,0,LAYUPS,,2021
-Cassius Stanley,1630199,Specialty Dunk,2,1,1,DUNKS,,2021
-Cassius Stanley,1630199,Standard Dunk,2,2,1,DUNKS,,2021
-Cassius Stanley,1630199,Standard Layup,2,8,3,LAYUPS,,2021
-Cassius Stanley,1630199,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2021
-Cassius Stanley,1630199,Driving Dunk,2,1,0,DUNKS,,2022
-Cassius Stanley,1630199,Driving Hook Shot,2,1,1,POST_MOVES,,2022
-Cassius Stanley,1630199,Driving Layup,2,6,4,LAYUPS,,2022
-Cassius Stanley,1630199,Finger Roll,2,2,2,LAYUPS,,2022
-Cassius Stanley,1630199,Floating Jump Shot,2,7,2,FLOATING_SHOTS,,2022
-Cassius Stanley,1630199,Hook Shot,2,2,2,POST_MOVES,,2022
-Cassius Stanley,1630199,Jump Shot,2,16,4,JUMP_SHOTS,,2022
-Cassius Stanley,1630199,Pullup Jump Shot,2,3,0,JUMP_SHOTS,,2022
-Cassius Stanley,1630199,Putback Layup,2,1,0,LAYUPS,,2022
-Cassius Stanley,1630199,Reverse Layup,2,2,2,LAYUPS,,2022
-Cassius Stanley,1630199,Standard Layup,2,4,2,LAYUPS,,2022
-Cassius Stanley,1630199,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2022
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Cassius Stanley,1630199,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2021
+Cassius Stanley,1630199,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2021
+Cassius Stanley,1630199,Cutting Layup Shot,2,3,1,Standard Layup,LAYUPS,2021
+Cassius Stanley,1630199,Driving Dunk Shot,2,1,0,Driving Dunk,DUNKS,2021
+Cassius Stanley,1630199,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2021
+Cassius Stanley,1630199,Driving Floating Jump Shot,2,2,0,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Cassius Stanley,1630199,Driving Layup Shot,2,8,1,Driving Layup,LAYUPS,2021
+Cassius Stanley,1630199,Dunk Shot,2,2,1,Standard Dunk,DUNKS,2021
+Cassius Stanley,1630199,Floating Jump shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Cassius Stanley,1630199,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2021
+Cassius Stanley,1630199,Jump Shot,2,12,3,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Cassius Stanley,1630199,Layup Shot,2,3,2,Standard Layup,LAYUPS,2021
+Cassius Stanley,1630199,Pullup Jump shot,2,2,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2021
+Cassius Stanley,1630199,Running Layup Shot,2,2,0,Standard Layup,LAYUPS,2021
+Cassius Stanley,1630199,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2021
+Cassius Stanley,1630199,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2021
+Cassius Stanley,1630199,Cutting Layup Shot,2,2,1,Standard Layup,LAYUPS,2022
+Cassius Stanley,1630199,Driving Dunk Shot,2,1,0,Driving Dunk,DUNKS,2022
+Cassius Stanley,1630199,Driving Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2022
+Cassius Stanley,1630199,Driving Floating Jump Shot,2,3,1,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Cassius Stanley,1630199,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2022
+Cassius Stanley,1630199,Driving Layup Shot,2,6,4,Driving Layup,LAYUPS,2022
+Cassius Stanley,1630199,Floating Jump shot,2,4,1,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Cassius Stanley,1630199,Hook Shot,2,2,2,Hook Shot,POST_MOVES,2022
+Cassius Stanley,1630199,Jump Shot,2,16,4,2PT Jump Shot,TWO_POINT_JUMPERS,2022
+Cassius Stanley,1630199,Layup Shot,2,2,1,Standard Layup,LAYUPS,2022
+Cassius Stanley,1630199,Pullup Jump shot,2,3,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2022
+Cassius Stanley,1630199,Putback Layup Shot,2,1,0,Putback Layup,LAYUPS,2022
+Cassius Stanley,1630199,Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2022
+Cassius Stanley,1630199,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2022

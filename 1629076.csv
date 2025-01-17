@@ -1,32 +1,45 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Tyler Cook,1629076,Alley Oop Dunk,2,1,0,DUNKS,,2020
-Tyler Cook,1629076,Driving Dunk,2,1,0,DUNKS,,2020
-Tyler Cook,1629076,Reverse Layup,2,1,1,LAYUPS,,2020
-Tyler Cook,1629076,Specialty Dunk,2,3,2,DUNKS,,2020
-Tyler Cook,1629076,Standard Layup,2,5,4,LAYUPS,,2020
-Tyler Cook,1629076,Turnaround Hook Shot,2,1,1,POST_MOVES,,2020
-Tyler Cook,1629076,Alley Oop Dunk,2,9,8,DUNKS,,2021
-Tyler Cook,1629076,Alley Oop Layup,2,1,1,LAYUPS,,2021
-Tyler Cook,1629076,Driving Hook Shot,2,2,0,POST_MOVES,,2021
-Tyler Cook,1629076,Driving Layup,2,13,5,LAYUPS,,2021
-Tyler Cook,1629076,Finger Roll,2,2,0,LAYUPS,,2021
-Tyler Cook,1629076,Floating Jump Shot,2,2,2,FLOATING_SHOTS,,2021
-Tyler Cook,1629076,Hook Shot,2,8,3,POST_MOVES,,2021
-Tyler Cook,1629076,Jump Shot,2,3,0,JUMP_SHOTS,,2021
-Tyler Cook,1629076,Putback Layup,2,6,3,LAYUPS,,2021
-Tyler Cook,1629076,Specialty Dunk,2,13,12,DUNKS,,2021
-Tyler Cook,1629076,Standard Dunk,2,21,20,DUNKS,,2021
-Tyler Cook,1629076,Standard Layup,2,20,12,LAYUPS,,2021
-Tyler Cook,1629076,Step Back Jump Shot,2,1,1,JUMP_SHOTS,,2021
-Tyler Cook,1629076,Turnaround Hook Shot,2,2,2,POST_MOVES,,2021
-Tyler Cook,1629076,Driving Dunk,2,1,0,DUNKS,,2022
-Tyler Cook,1629076,Driving Layup,2,3,0,LAYUPS,,2022
-Tyler Cook,1629076,Hook Shot,2,1,0,POST_MOVES,,2022
-Tyler Cook,1629076,Putback Dunk,2,1,1,DUNKS,,2022
-Tyler Cook,1629076,Putback Layup,2,7,3,LAYUPS,,2022
-Tyler Cook,1629076,Reverse Layup,2,1,0,LAYUPS,,2022
-Tyler Cook,1629076,Specialty Dunk,2,10,10,DUNKS,,2022
-Tyler Cook,1629076,Standard Dunk,2,3,3,DUNKS,,2022
-Tyler Cook,1629076,Standard Layup,2,7,5,LAYUPS,,2022
-Tyler Cook,1629076,Turnaround Hook Shot,2,2,1,POST_MOVES,,2022
-Tyler Cook,1629076,Turnaround Jump Shot,2,2,0,JUMP_SHOTS,,2022
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Tyler Cook,1629076,Alley Oop Dunk Shot,2,1,0,Alley Oop Dunk,DUNKS,2020
+Tyler Cook,1629076,Cutting Dunk Shot,2,2,1,Specialty Dunk,DUNKS,2020
+Tyler Cook,1629076,Cutting Layup Shot,2,2,2,Standard Layup,LAYUPS,2020
+Tyler Cook,1629076,Driving Dunk Shot,2,1,0,Driving Dunk,DUNKS,2020
+Tyler Cook,1629076,Layup Shot,2,2,1,Standard Layup,LAYUPS,2020
+Tyler Cook,1629076,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2020
+Tyler Cook,1629076,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2020
+Tyler Cook,1629076,Tip Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2020
+Tyler Cook,1629076,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2020
+Tyler Cook,1629076,Alley Oop Dunk Shot,2,7,6,Alley Oop Dunk,DUNKS,2021
+Tyler Cook,1629076,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2021
+Tyler Cook,1629076,Cutting Dunk Shot,2,12,11,Specialty Dunk,DUNKS,2021
+Tyler Cook,1629076,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2021
+Tyler Cook,1629076,Driving Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2021
+Tyler Cook,1629076,Driving Hook Shot,2,2,0,Driving Hook Shot,POST_MOVES,2021
+Tyler Cook,1629076,Driving Layup Shot,2,13,5,Driving Layup,LAYUPS,2021
+Tyler Cook,1629076,Dunk Shot,2,18,17,Standard Dunk,DUNKS,2021
+Tyler Cook,1629076,Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2021
+Tyler Cook,1629076,Floating Jump shot,2,2,2,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Tyler Cook,1629076,Hook Shot,2,8,3,Hook Shot,POST_MOVES,2021
+Tyler Cook,1629076,Jump Shot,2,3,0,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Tyler Cook,1629076,Layup Shot,2,18,10,Standard Layup,LAYUPS,2021
+Tyler Cook,1629076,Putback Layup Shot,2,4,2,Putback Layup,LAYUPS,2021
+Tyler Cook,1629076,Running Alley Oop Dunk Shot,2,2,2,Alley Oop Dunk,DUNKS,2021
+Tyler Cook,1629076,Running Dunk Shot,2,3,3,Standard Dunk,DUNKS,2021
+Tyler Cook,1629076,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2021
+Tyler Cook,1629076,Step Back Jump shot,2,1,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2021
+Tyler Cook,1629076,Tip Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2021
+Tyler Cook,1629076,Tip Layup Shot,2,2,1,Putback Layup,LAYUPS,2021
+Tyler Cook,1629076,Turnaround Hook Shot,2,2,2,Turnaround Hook Shot,POST_MOVES,2021
+Tyler Cook,1629076,Cutting Dunk Shot,2,10,10,Specialty Dunk,DUNKS,2022
+Tyler Cook,1629076,Cutting Layup Shot,2,3,3,Standard Layup,LAYUPS,2022
+Tyler Cook,1629076,Driving Dunk Shot,2,1,0,Driving Dunk,DUNKS,2022
+Tyler Cook,1629076,Driving Layup Shot,2,3,0,Driving Layup,LAYUPS,2022
+Tyler Cook,1629076,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2022
+Tyler Cook,1629076,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2022
+Tyler Cook,1629076,Layup Shot,2,3,2,Standard Layup,LAYUPS,2022
+Tyler Cook,1629076,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2022
+Tyler Cook,1629076,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2022
+Tyler Cook,1629076,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2022
+Tyler Cook,1629076,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2022
+Tyler Cook,1629076,Tip Layup Shot,2,7,3,Putback Layup,LAYUPS,2022
+Tyler Cook,1629076,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,2022
+Tyler Cook,1629076,Turnaround Jump Shot,2,2,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2022

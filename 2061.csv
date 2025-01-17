@@ -1,32 +1,33 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Dan Langhi,2061,Driving Layup,2,4,2,LAYUPS,,2001
-Dan Langhi,2061,Hook Shot,2,2,1,POST_MOVES,,2001
-Dan Langhi,2061,Jump Shot,2,61,23,JUMP_SHOTS,,2001
-Dan Langhi,2061,Running Hook Shot,2,1,0,POST_MOVES,,2001
-Dan Langhi,2061,Running Jump Shot,2,6,3,JUMP_SHOTS,,2001
-Dan Langhi,2061,Standard Dunk,2,3,2,DUNKS,,2001
-Dan Langhi,2061,Standard Layup,2,18,5,LAYUPS,,2001
-Dan Langhi,2061,Tip Shot,2,1,0,TIP_SHOTS,,2001
-Dan Langhi,2061,Turnaround Jump Shot,2,3,1,JUMP_SHOTS,,2001
-Dan Langhi,2061,Driving Layup,2,6,4,LAYUPS,,2002
-Dan Langhi,2061,Finger Roll,2,1,0,LAYUPS,,2002
-Dan Langhi,2061,Hook Shot,2,1,0,POST_MOVES,,2002
-Dan Langhi,2061,Jump Shot,2,98,36,JUMP_SHOTS,,2002
-Dan Langhi,2061,Running Hook Shot,2,2,1,POST_MOVES,,2002
-Dan Langhi,2061,Running Jump Shot,2,2,2,JUMP_SHOTS,,2002
-Dan Langhi,2061,Standard Dunk,2,2,2,DUNKS,,2002
-Dan Langhi,2061,Standard Layup,2,6,2,LAYUPS,,2002
-Dan Langhi,2061,Tip Shot,2,6,2,TIP_SHOTS,,2002
-Dan Langhi,2061,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2002
-Dan Langhi,2061,Driving Layup,2,4,3,LAYUPS,,2003
-Dan Langhi,2061,Jump Shot,2,153,63,JUMP_SHOTS,,2003
-Dan Langhi,2061,Jump Shot,3,14,3,JUMP_SHOTS,,2003
-Dan Langhi,2061,Reverse Layup,2,4,4,LAYUPS,,2003
-Dan Langhi,2061,Running Hook Shot,2,1,0,POST_MOVES,,2003
-Dan Langhi,2061,Running Jump Shot,2,2,1,JUMP_SHOTS,,2003
-Dan Langhi,2061,Standard Dunk,2,2,2,DUNKS,,2003
-Dan Langhi,2061,Standard Layup,2,18,4,LAYUPS,,2003
-Dan Langhi,2061,Tip Shot,2,3,1,TIP_SHOTS,,2003
-Dan Langhi,2061,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2003
-Dan Langhi,2061,Jump Shot,2,11,3,JUMP_SHOTS,,2004
-Dan Langhi,2061,Turnaround Jump Shot,2,3,2,JUMP_SHOTS,,2004
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Dan Langhi,2061,Driving Layup Shot,2,4,2,Driving Layup,LAYUPS,2001
+Dan Langhi,2061,Dunk Shot,2,3,2,Standard Dunk,DUNKS,2001
+Dan Langhi,2061,Hook Shot,2,2,1,Hook Shot,POST_MOVES,2001
+Dan Langhi,2061,Jump Shot,2,61,23,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Dan Langhi,2061,Layup Shot,2,18,5,Standard Layup,LAYUPS,2001
+Dan Langhi,2061,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,2001
+Dan Langhi,2061,Running Jump Shot,2,6,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
+Dan Langhi,2061,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2001
+Dan Langhi,2061,Turnaround Jump Shot,2,3,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2001
+Dan Langhi,2061,Driving Finger Roll Shot,2,1,0,Finger Roll,LAYUPS,2002
+Dan Langhi,2061,Driving Layup Shot,2,6,4,Driving Layup,LAYUPS,2002
+Dan Langhi,2061,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2002
+Dan Langhi,2061,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2002
+Dan Langhi,2061,Jump Shot,2,98,36,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Dan Langhi,2061,Layup Shot,2,6,2,Standard Layup,LAYUPS,2002
+Dan Langhi,2061,Running Hook Shot,2,2,1,Running Hook Shot,POST_MOVES,2002
+Dan Langhi,2061,Running Jump Shot,2,2,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2002
+Dan Langhi,2061,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2002
+Dan Langhi,2061,Tip Shot,2,6,2,Tip Shot,TIP_SHOTS,2002
+Dan Langhi,2061,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2002
+Dan Langhi,2061,Driving Layup Shot,2,4,3,Driving Layup,LAYUPS,2003
+Dan Langhi,2061,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2003
+Dan Langhi,2061,Jump Shot,2,153,63,2PT Jump Shot,TWO_POINT_JUMPERS,2003
+Dan Langhi,2061,Jump Shot,3,14,3,3PT Jump Shot,THREE_POINT_JUMPERS,2003
+Dan Langhi,2061,Layup Shot,2,18,4,Standard Layup,LAYUPS,2003
+Dan Langhi,2061,Reverse Layup Shot,2,4,4,Reverse Layup,LAYUPS,2003
+Dan Langhi,2061,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,2003
+Dan Langhi,2061,Running Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2003
+Dan Langhi,2061,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,2003
+Dan Langhi,2061,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2003
+Dan Langhi,2061,Jump Shot,2,11,3,2PT Jump Shot,TWO_POINT_JUMPERS,2004
+Dan Langhi,2061,Turnaround Jump Shot,2,3,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2004

@@ -1,21 +1,25 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Axel Toupane,1626253,Alley Oop Layup,2,2,1,LAYUPS,,2016
-Axel Toupane,1626253,Driving Layup,2,1,1,LAYUPS,,2016
-Axel Toupane,1626253,Floating Jump Shot,2,2,0,FLOATING_SHOTS,,2016
-Axel Toupane,1626253,Hook Shot,2,1,0,POST_MOVES,,2016
-Axel Toupane,1626253,Jump Shot,2,18,3,JUMP_SHOTS,,2016
-Axel Toupane,1626253,Jump Shot,3,32,12,JUMP_SHOTS,,2016
-Axel Toupane,1626253,Putback Layup,2,1,0,LAYUPS,,2016
-Axel Toupane,1626253,Reverse Layup,2,2,1,LAYUPS,,2016
-Axel Toupane,1626253,Standard Dunk,2,1,1,DUNKS,,2016
-Axel Toupane,1626253,Standard Layup,2,9,5,LAYUPS,,2016
-Axel Toupane,1626253,Step Back Jump Shot,2,1,1,JUMP_SHOTS,,2016
-Axel Toupane,1626253,Finger Roll,2,1,1,LAYUPS,,2017
-Axel Toupane,1626253,Jump Shot,2,7,4,JUMP_SHOTS,,2017
-Axel Toupane,1626253,Jump Shot,3,1,0,JUMP_SHOTS,,2017
-Axel Toupane,1626253,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2021
-Axel Toupane,1626253,Jump Shot,2,2,0,JUMP_SHOTS,,2021
-Axel Toupane,1626253,Jump Shot,3,1,0,JUMP_SHOTS,,2021
-Axel Toupane,1626253,Pullup Jump Shot,2,1,0,JUMP_SHOTS,,2021
-Axel Toupane,1626253,Pullup Jump Shot,3,1,1,JUMP_SHOTS,,2021
-Axel Toupane,1626253,Standard Layup,2,5,3,LAYUPS,,2021
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Axel Toupane,1626253,Alley Oop Layup shot,2,2,1,Alley Oop Layup,LAYUPS,2016
+Axel Toupane,1626253,Cutting Layup Shot,2,3,1,Standard Layup,LAYUPS,2016
+Axel Toupane,1626253,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2016
+Axel Toupane,1626253,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2016
+Axel Toupane,1626253,Floating Jump shot,2,2,0,2PT Floating Jump Shot,FLOATING_SHOTS,2016
+Axel Toupane,1626253,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2016
+Axel Toupane,1626253,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2016
+Axel Toupane,1626253,Jump Shot,2,17,3,2PT Jump Shot,TWO_POINT_JUMPERS,2016
+Axel Toupane,1626253,Jump Shot,3,32,12,3PT Jump Shot,THREE_POINT_JUMPERS,2016
+Axel Toupane,1626253,Layup Shot,2,2,2,Standard Layup,LAYUPS,2016
+Axel Toupane,1626253,Putback Layup Shot,2,1,0,Putback Layup,LAYUPS,2016
+Axel Toupane,1626253,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2016
+Axel Toupane,1626253,Running Layup Shot,2,4,2,Standard Layup,LAYUPS,2016
+Axel Toupane,1626253,Step Back Jump shot,2,1,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2016
+Axel Toupane,1626253,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2017
+Axel Toupane,1626253,Jump Shot,2,7,4,2PT Jump Shot,TWO_POINT_JUMPERS,2017
+Axel Toupane,1626253,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2017
+Axel Toupane,1626253,Cutting Layup Shot,2,3,2,Standard Layup,LAYUPS,2021
+Axel Toupane,1626253,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Axel Toupane,1626253,Jump Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Axel Toupane,1626253,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2021
+Axel Toupane,1626253,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2021
+Axel Toupane,1626253,Pullup Jump shot,3,1,1,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2021
+Axel Toupane,1626253,Running Layup Shot,2,2,1,Standard Layup,LAYUPS,2021

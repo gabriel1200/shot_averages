@@ -1,61 +1,86 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Wayne Selden,1627782,Driving Dunk,2,2,1,DUNKS,,2017
-Wayne Selden,1627782,Driving Hook Shot,2,1,1,POST_MOVES,,2017
-Wayne Selden,1627782,Driving Layup,2,5,3,LAYUPS,,2017
-Wayne Selden,1627782,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2017
-Wayne Selden,1627782,Finger Roll,2,1,1,LAYUPS,,2017
-Wayne Selden,1627782,Floating Jump Shot,2,3,1,FLOATING_SHOTS,,2017
-Wayne Selden,1627782,Jump Shot,2,17,5,JUMP_SHOTS,,2017
-Wayne Selden,1627782,Jump Shot,3,13,4,JUMP_SHOTS,,2017
-Wayne Selden,1627782,Pullup Jump Shot,2,3,0,JUMP_SHOTS,,2017
-Wayne Selden,1627782,Reverse Layup,2,1,1,LAYUPS,,2017
-Wayne Selden,1627782,Running Jump Shot,2,1,0,JUMP_SHOTS,,2017
-Wayne Selden,1627782,Standard Dunk,2,2,2,DUNKS,,2017
-Wayne Selden,1627782,Standard Layup,2,7,6,LAYUPS,,2017
-Wayne Selden,1627782,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2017
-Wayne Selden,1627782,Alley Oop Dunk,2,1,1,DUNKS,,2018
-Wayne Selden,1627782,Alley Oop Layup,2,1,0,LAYUPS,,2018
-Wayne Selden,1627782,Driving Dunk,2,7,7,DUNKS,,2018
-Wayne Selden,1627782,Driving Layup,2,20,8,LAYUPS,,2018
-Wayne Selden,1627782,Fadeaway Jump Shot,2,3,0,JUMP_SHOTS,,2018
-Wayne Selden,1627782,Finger Roll,2,8,3,LAYUPS,,2018
-Wayne Selden,1627782,Floating Jump Shot,2,36,14,FLOATING_SHOTS,,2018
-Wayne Selden,1627782,Jump Shot,2,111,46,JUMP_SHOTS,,2018
-Wayne Selden,1627782,Jump Shot,3,18,3,JUMP_SHOTS,,2018
-Wayne Selden,1627782,Pullup Jump Shot,2,20,10,JUMP_SHOTS,,2018
-Wayne Selden,1627782,Pullup Jump Shot,3,3,0,JUMP_SHOTS,,2018
-Wayne Selden,1627782,Putback Layup,2,3,2,LAYUPS,,2018
-Wayne Selden,1627782,Reverse Layup,2,3,1,LAYUPS,,2018
-Wayne Selden,1627782,Running Jump Shot,2,4,2,JUMP_SHOTS,,2018
-Wayne Selden,1627782,Specialty Dunk,2,3,3,DUNKS,,2018
-Wayne Selden,1627782,Standard Dunk,2,3,2,DUNKS,,2018
-Wayne Selden,1627782,Standard Layup,2,19,9,LAYUPS,,2018
-Wayne Selden,1627782,Step Back Jump Shot,2,4,4,JUMP_SHOTS,,2018
-Wayne Selden,1627782,Step Back Jump Shot,3,1,1,JUMP_SHOTS,,2018
-Wayne Selden,1627782,Turnaround Hook Shot,2,1,0,POST_MOVES,,2018
-Wayne Selden,1627782,Driving Dunk,2,9,7,DUNKS,,2019
-Wayne Selden,1627782,Driving Hook Shot,2,1,1,POST_MOVES,,2019
-Wayne Selden,1627782,Driving Layup,2,49,20,LAYUPS,,2019
-Wayne Selden,1627782,Fadeaway Jump Shot,2,8,3,JUMP_SHOTS,,2019
-Wayne Selden,1627782,Finger Roll,2,9,7,LAYUPS,,2019
-Wayne Selden,1627782,Floating Jump Shot,2,67,28,FLOATING_SHOTS,,2019
-Wayne Selden,1627782,Jump Shot,2,102,35,JUMP_SHOTS,,2019
-Wayne Selden,1627782,Jump Shot,3,88,26,JUMP_SHOTS,,2019
-Wayne Selden,1627782,Pullup Jump Shot,2,62,25,JUMP_SHOTS,,2019
-Wayne Selden,1627782,Pullup Jump Shot,3,6,3,JUMP_SHOTS,,2019
-Wayne Selden,1627782,Putback Layup,2,12,6,LAYUPS,,2019
-Wayne Selden,1627782,Reverse Layup,2,3,3,LAYUPS,,2019
-Wayne Selden,1627782,Running Jump Shot,2,4,1,JUMP_SHOTS,,2019
-Wayne Selden,1627782,Running Jump Shot,3,1,0,JUMP_SHOTS,,2019
-Wayne Selden,1627782,Specialty Dunk,2,3,3,DUNKS,,2019
-Wayne Selden,1627782,Standard Dunk,2,8,7,DUNKS,,2019
-Wayne Selden,1627782,Standard Layup,2,37,15,LAYUPS,,2019
-Wayne Selden,1627782,Step Back Jump Shot,2,6,4,JUMP_SHOTS,,2019
-Wayne Selden,1627782,Step Back Jump Shot,3,2,0,JUMP_SHOTS,,2019
-Wayne Selden,1627782,Turnaround Hook Shot,2,1,0,POST_MOVES,,2019
-Wayne Selden,1627782,Turnaround Jump Shot,2,4,2,JUMP_SHOTS,,2019
-Wayne Selden,1627782,Turnaround Jump Shot,3,1,0,JUMP_SHOTS,,2019
-Wayne Selden,1627782,Driving Layup,2,1,0,LAYUPS,,2022
-Wayne Selden,1627782,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2022
-Wayne Selden,1627782,Jump Shot,3,1,0,JUMP_SHOTS,,2022
-Wayne Selden,1627782,Step Back Jump Shot,3,1,1,JUMP_SHOTS,,2022
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Wayne Selden,1627782,Driving Dunk Shot,2,2,1,Driving Dunk,DUNKS,2017
+Wayne Selden,1627782,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2017
+Wayne Selden,1627782,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2017
+Wayne Selden,1627782,Driving Floating Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2017
+Wayne Selden,1627782,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2017
+Wayne Selden,1627782,Driving Layup Shot,2,4,2,Driving Layup,LAYUPS,2017
+Wayne Selden,1627782,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2017
+Wayne Selden,1627782,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2017
+Wayne Selden,1627782,Fadeaway Bank shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2017
+Wayne Selden,1627782,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2017
+Wayne Selden,1627782,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2017
+Wayne Selden,1627782,Jump Shot,2,16,5,2PT Jump Shot,TWO_POINT_JUMPERS,2017
+Wayne Selden,1627782,Jump Shot,3,13,4,3PT Jump Shot,THREE_POINT_JUMPERS,2017
+Wayne Selden,1627782,Layup Shot,2,4,3,Standard Layup,LAYUPS,2017
+Wayne Selden,1627782,Pullup Jump shot,2,3,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2017
+Wayne Selden,1627782,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2017
+Wayne Selden,1627782,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2017
+Wayne Selden,1627782,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2017
+Wayne Selden,1627782,Running Layup Shot,2,3,3,Standard Layup,LAYUPS,2017
+Wayne Selden,1627782,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2017
+Wayne Selden,1627782,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2018
+Wayne Selden,1627782,Cutting Dunk Shot,2,2,2,Specialty Dunk,DUNKS,2018
+Wayne Selden,1627782,Driving Dunk Shot,2,7,7,Driving Dunk,DUNKS,2018
+Wayne Selden,1627782,Driving Finger Roll Layup Shot,2,6,2,Finger Roll,LAYUPS,2018
+Wayne Selden,1627782,Driving Floating Bank Jump Shot,2,12,6,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Wayne Selden,1627782,Driving Floating Jump Shot,2,20,6,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Wayne Selden,1627782,Driving Layup Shot,2,20,8,Driving Layup,LAYUPS,2018
+Wayne Selden,1627782,Fadeaway Jump Shot,2,3,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2018
+Wayne Selden,1627782,Floating Jump shot,2,4,2,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Wayne Selden,1627782,Jump Bank Shot,2,4,2,2PT Jump Shot,TWO_POINT_JUMPERS,2018
+Wayne Selden,1627782,Jump Shot,2,107,44,2PT Jump Shot,TWO_POINT_JUMPERS,2018
+Wayne Selden,1627782,Jump Shot,3,18,3,3PT Jump Shot,THREE_POINT_JUMPERS,2018
+Wayne Selden,1627782,Layup Shot,2,9,4,Standard Layup,LAYUPS,2018
+Wayne Selden,1627782,Pullup Jump shot,2,20,10,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2018
+Wayne Selden,1627782,Pullup Jump shot,3,3,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2018
+Wayne Selden,1627782,Putback Layup Shot,2,2,1,Putback Layup,LAYUPS,2018
+Wayne Selden,1627782,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2018
+Wayne Selden,1627782,Running Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2018
+Wayne Selden,1627782,Running Dunk Shot,2,3,2,Standard Dunk,DUNKS,2018
+Wayne Selden,1627782,Running Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2018
+Wayne Selden,1627782,Running Jump Shot,2,4,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2018
+Wayne Selden,1627782,Running Layup Shot,2,10,5,Standard Layup,LAYUPS,2018
+Wayne Selden,1627782,Running Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2018
+Wayne Selden,1627782,Step Back Jump shot,2,4,4,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2018
+Wayne Selden,1627782,Step Back Jump shot,3,1,1,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2018
+Wayne Selden,1627782,Tip Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2018
+Wayne Selden,1627782,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2018
+Wayne Selden,1627782,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2018
+Wayne Selden,1627782,Cutting Dunk Shot,2,2,2,Specialty Dunk,DUNKS,2019
+Wayne Selden,1627782,Cutting Layup Shot,2,4,1,Standard Layup,LAYUPS,2019
+Wayne Selden,1627782,Driving Bank Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2019
+Wayne Selden,1627782,Driving Dunk Shot,2,9,7,Driving Dunk,DUNKS,2019
+Wayne Selden,1627782,Driving Finger Roll Layup Shot,2,8,6,Finger Roll,LAYUPS,2019
+Wayne Selden,1627782,Driving Floating Bank Jump Shot,2,19,12,2PT Floating Jump Shot,FLOATING_SHOTS,2019
+Wayne Selden,1627782,Driving Floating Jump Shot,2,30,12,2PT Floating Jump Shot,FLOATING_SHOTS,2019
+Wayne Selden,1627782,Driving Layup Shot,2,44,18,Driving Layup,LAYUPS,2019
+Wayne Selden,1627782,Driving Reverse Layup Shot,2,5,2,Driving Layup,LAYUPS,2019
+Wayne Selden,1627782,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2019
+Wayne Selden,1627782,Fadeaway Jump Shot,2,8,3,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2019
+Wayne Selden,1627782,Floating Jump shot,2,18,4,2PT Floating Jump Shot,FLOATING_SHOTS,2019
+Wayne Selden,1627782,Jump Shot,2,102,35,2PT Jump Shot,TWO_POINT_JUMPERS,2019
+Wayne Selden,1627782,Jump Shot,3,88,26,3PT Jump Shot,THREE_POINT_JUMPERS,2019
+Wayne Selden,1627782,Layup Shot,2,16,4,Standard Layup,LAYUPS,2019
+Wayne Selden,1627782,Pullup Jump shot,2,62,25,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2019
+Wayne Selden,1627782,Pullup Jump shot,3,6,3,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2019
+Wayne Selden,1627782,Putback Layup Shot,2,4,2,Putback Layup,LAYUPS,2019
+Wayne Selden,1627782,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2019
+Wayne Selden,1627782,Running Dunk Shot,2,6,5,Standard Dunk,DUNKS,2019
+Wayne Selden,1627782,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2019
+Wayne Selden,1627782,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2019
+Wayne Selden,1627782,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2019
+Wayne Selden,1627782,Running Layup Shot,2,17,10,Standard Layup,LAYUPS,2019
+Wayne Selden,1627782,Running Pull-Up Jump Shot,2,3,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2019
+Wayne Selden,1627782,Running Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2019
+Wayne Selden,1627782,Step Back Jump shot,2,6,4,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2019
+Wayne Selden,1627782,Step Back Jump shot,3,2,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2019
+Wayne Selden,1627782,Tip Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2019
+Wayne Selden,1627782,Tip Layup Shot,2,8,4,Putback Layup,LAYUPS,2019
+Wayne Selden,1627782,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2019
+Wayne Selden,1627782,Turnaround Jump Shot,2,4,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2019
+Wayne Selden,1627782,Turnaround Jump Shot,3,1,0,3PT Turnaround Jump Shot,THREE_POINT_JUMPERS,2019
+Wayne Selden,1627782,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Wayne Selden,1627782,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2022
+Wayne Selden,1627782,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2022
+Wayne Selden,1627782,Step Back Jump shot,3,1,1,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2022

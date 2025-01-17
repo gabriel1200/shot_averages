@@ -1,11 +1,11 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Paul Grant,1514,Hook Shot,2,1,1,POST_MOVES,,1999
-Paul Grant,1514,Jump Shot,2,4,0,JUMP_SHOTS,,1999
-Paul Grant,1514,Standard Layup,2,1,1,LAYUPS,,1999
-Paul Grant,1514,Driving Layup,2,1,1,LAYUPS,,2004
-Paul Grant,1514,Hook Shot,2,3,2,POST_MOVES,,2004
-Paul Grant,1514,Jump Shot,2,11,5,JUMP_SHOTS,,2004
-Paul Grant,1514,Running Jump Shot,2,1,0,JUMP_SHOTS,,2004
-Paul Grant,1514,Specialty Dunk,2,1,0,DUNKS,,2004
-Paul Grant,1514,Standard Dunk,2,1,1,DUNKS,,2004
-Paul Grant,1514,Standard Layup,2,5,2,LAYUPS,,2004
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Paul Grant,1514,Hook Shot,2,1,1,Hook Shot,POST_MOVES,1999
+Paul Grant,1514,Jump Shot,2,4,0,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Paul Grant,1514,Layup Shot,2,1,1,Standard Layup,LAYUPS,1999
+Paul Grant,1514,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2004
+Paul Grant,1514,Follow Up Dunk Shot,2,1,0,Specialty Dunk,DUNKS,2004
+Paul Grant,1514,Hook Shot,2,3,2,Hook Shot,POST_MOVES,2004
+Paul Grant,1514,Jump Shot,2,11,5,2PT Jump Shot,TWO_POINT_JUMPERS,2004
+Paul Grant,1514,Layup Shot,2,5,2,Standard Layup,LAYUPS,2004
+Paul Grant,1514,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2004
+Paul Grant,1514,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2004

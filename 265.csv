@@ -1,23 +1,25 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Harvey Grant,265,Driving Dunk,2,6,6,DUNKS,,1997
-Harvey Grant,265,Driving Layup,2,6,5,LAYUPS,,1997
-Harvey Grant,265,Hook Shot,2,3,3,POST_MOVES,,1997
-Harvey Grant,265,Jump Shot,2,219,75,JUMP_SHOTS,,1997
-Harvey Grant,265,Jump Shot,3,10,3,JUMP_SHOTS,,1997
-Harvey Grant,265,Standard Dunk,2,16,16,DUNKS,,1997
-Harvey Grant,265,Standard Layup,2,49,16,LAYUPS,,1997
-Harvey Grant,265,Tip Shot,2,5,5,TIP_SHOTS,,1997
-Harvey Grant,265,Driving Dunk,2,2,2,DUNKS,,1998
-Harvey Grant,265,Driving Layup,2,5,3,LAYUPS,,1998
-Harvey Grant,265,Jump Shot,2,156,53,JUMP_SHOTS,,1998
-Harvey Grant,265,Running Jump Shot,2,1,0,JUMP_SHOTS,,1998
-Harvey Grant,265,Standard Dunk,2,7,6,DUNKS,,1998
-Harvey Grant,265,Standard Layup,2,17,7,LAYUPS,,1998
-Harvey Grant,265,Tip Shot,2,8,4,TIP_SHOTS,,1998
-Harvey Grant,265,Driving Layup,2,2,1,LAYUPS,,1999
-Harvey Grant,265,Hook Shot,2,4,3,POST_MOVES,,1999
-Harvey Grant,265,Jump Shot,2,144,43,JUMP_SHOTS,,1999
-Harvey Grant,265,Running Jump Shot,2,1,0,JUMP_SHOTS,,1999
-Harvey Grant,265,Standard Dunk,2,3,3,DUNKS,,1999
-Harvey Grant,265,Standard Layup,2,11,10,LAYUPS,,1999
-Harvey Grant,265,Tip Shot,2,3,2,TIP_SHOTS,,1999
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Harvey Grant,265,Driving Dunk Shot,2,6,6,Driving Dunk,DUNKS,1997
+Harvey Grant,265,Driving Layup Shot,2,6,5,Driving Layup,LAYUPS,1997
+Harvey Grant,265,Dunk Shot,2,4,4,Standard Dunk,DUNKS,1997
+Harvey Grant,265,Hook Shot,2,3,3,Hook Shot,POST_MOVES,1997
+Harvey Grant,265,Jump Shot,2,219,75,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Harvey Grant,265,Jump Shot,3,10,3,3PT Jump Shot,THREE_POINT_JUMPERS,1997
+Harvey Grant,265,Layup Shot,2,49,16,Standard Layup,LAYUPS,1997
+Harvey Grant,265,Slam Dunk Shot,2,12,12,Standard Dunk,DUNKS,1997
+Harvey Grant,265,Tip Shot,2,5,5,Tip Shot,TIP_SHOTS,1997
+Harvey Grant,265,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,1998
+Harvey Grant,265,Driving Layup Shot,2,5,3,Driving Layup,LAYUPS,1998
+Harvey Grant,265,Dunk Shot,2,5,4,Standard Dunk,DUNKS,1998
+Harvey Grant,265,Jump Shot,2,156,53,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+Harvey Grant,265,Layup Shot,2,17,7,Standard Layup,LAYUPS,1998
+Harvey Grant,265,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
+Harvey Grant,265,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,1998
+Harvey Grant,265,Tip Shot,2,8,4,Tip Shot,TIP_SHOTS,1998
+Harvey Grant,265,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,1999
+Harvey Grant,265,Dunk Shot,2,3,3,Standard Dunk,DUNKS,1999
+Harvey Grant,265,Hook Shot,2,4,3,Hook Shot,POST_MOVES,1999
+Harvey Grant,265,Jump Shot,2,144,43,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Harvey Grant,265,Layup Shot,2,11,10,Standard Layup,LAYUPS,1999
+Harvey Grant,265,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999
+Harvey Grant,265,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,1999

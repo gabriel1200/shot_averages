@@ -1,15 +1,20 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Vitor Faverani,203543,Alley Oop Dunk,2,2,0,DUNKS,,2014
-Vitor Faverani,203543,Driving Dunk,2,4,2,DUNKS,,2014
-Vitor Faverani,203543,Driving Hook Shot,2,1,0,POST_MOVES,,2014
-Vitor Faverani,203543,Hook Shot,2,12,4,POST_MOVES,,2014
-Vitor Faverani,203543,Jump Shot,2,66,21,JUMP_SHOTS,,2014
-Vitor Faverani,203543,Putback Dunk,2,2,2,DUNKS,,2014
-Vitor Faverani,203543,Putback Layup,2,2,1,LAYUPS,,2014
-Vitor Faverani,203543,Reverse Layup,2,1,0,LAYUPS,,2014
-Vitor Faverani,203543,Running Hook Shot,2,4,2,POST_MOVES,,2014
-Vitor Faverani,203543,Standard Dunk,2,6,6,DUNKS,,2014
-Vitor Faverani,203543,Standard Layup,2,34,17,LAYUPS,,2014
-Vitor Faverani,203543,Tip Shot,2,7,6,TIP_SHOTS,,2014
-Vitor Faverani,203543,Turnaround Hook Shot,2,5,3,POST_MOVES,,2014
-Vitor Faverani,203543,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2014
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Vitor Faverani,203543,Alley Oop Dunk Shot,2,2,0,Alley Oop Dunk,DUNKS,2014
+Vitor Faverani,203543,Driving Dunk Shot,2,4,2,Driving Dunk,DUNKS,2014
+Vitor Faverani,203543,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2014
+Vitor Faverani,203543,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2014
+Vitor Faverani,203543,Hook Shot,2,11,3,Hook Shot,POST_MOVES,2014
+Vitor Faverani,203543,Jump Hook Shot,2,1,1,Hook Shot,POST_MOVES,2014
+Vitor Faverani,203543,Jump Shot,2,66,21,2PT Jump Shot,TWO_POINT_JUMPERS,2014
+Vitor Faverani,203543,Layup Shot,2,32,15,Standard Layup,LAYUPS,2014
+Vitor Faverani,203543,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2014
+Vitor Faverani,203543,Putback Layup Shot,2,2,1,Putback Layup,LAYUPS,2014
+Vitor Faverani,203543,Putback Slam Dunk Shot,2,1,1,Putback Dunk,DUNKS,2014
+Vitor Faverani,203543,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2014
+Vitor Faverani,203543,Running Hook Shot,2,4,2,Running Hook Shot,POST_MOVES,2014
+Vitor Faverani,203543,Running Layup Shot,2,2,2,Standard Layup,LAYUPS,2014
+Vitor Faverani,203543,Running Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2014
+Vitor Faverani,203543,Slam Dunk Shot,2,4,4,Standard Dunk,DUNKS,2014
+Vitor Faverani,203543,Tip Shot,2,6,5,Tip Shot,TIP_SHOTS,2014
+Vitor Faverani,203543,Turnaround Hook Shot,2,5,3,Turnaround Hook Shot,POST_MOVES,2014
+Vitor Faverani,203543,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2014

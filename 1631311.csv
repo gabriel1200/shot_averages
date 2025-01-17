@@ -1,27 +1,32 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Lester Quinones,1631311,Driving Layup,2,1,0,LAYUPS,,2023
-Lester Quinones,1631311,Jump Shot,2,2,1,JUMP_SHOTS,,2023
-Lester Quinones,1631311,Pullup Jump Shot,2,2,1,JUMP_SHOTS,,2023
-Lester Quinones,1631311,Driving Dunk,2,2,2,DUNKS,,2024
-Lester Quinones,1631311,Driving Layup,2,13,4,LAYUPS,,2024
-Lester Quinones,1631311,Fadeaway Jump Shot,2,3,1,JUMP_SHOTS,,2024
-Lester Quinones,1631311,Finger Roll,2,9,3,LAYUPS,,2024
-Lester Quinones,1631311,Floating Jump Shot,2,4,0,FLOATING_SHOTS,,2024
-Lester Quinones,1631311,Jump Shot,2,1,1,JUMP_SHOTS,,2024
-Lester Quinones,1631311,Jump Shot,3,57,21,JUMP_SHOTS,,2024
-Lester Quinones,1631311,Pullup Jump Shot,2,2,1,JUMP_SHOTS,,2024
-Lester Quinones,1631311,Pullup Jump Shot,3,9,3,JUMP_SHOTS,,2024
-Lester Quinones,1631311,Putback Layup,2,3,2,LAYUPS,,2024
-Lester Quinones,1631311,Reverse Layup,2,1,0,LAYUPS,,2024
-Lester Quinones,1631311,Running Jump Shot,3,11,5,JUMP_SHOTS,,2024
-Lester Quinones,1631311,Standard Dunk,2,1,1,DUNKS,,2024
-Lester Quinones,1631311,Standard Layup,2,9,6,LAYUPS,,2024
-Lester Quinones,1631311,Step Back Jump Shot,2,2,1,JUMP_SHOTS,,2024
-Lester Quinones,1631311,Step Back Jump Shot,3,11,3,JUMP_SHOTS,,2024
-Lester Quinones,1631311,Turnaround Jump Shot,2,3,2,JUMP_SHOTS,,2024
-Lester Quinones,1631311,Driving Layup,2,1,1,LAYUPS,,2025
-Lester Quinones,1631311,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2025
-Lester Quinones,1631311,Jump Shot,3,2,0,JUMP_SHOTS,,2025
-Lester Quinones,1631311,Putback Layup,2,1,1,LAYUPS,,2025
-Lester Quinones,1631311,Running Jump Shot,3,1,0,JUMP_SHOTS,,2025
-Lester Quinones,1631311,Standard Layup,2,2,2,LAYUPS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Lester Quinones,1631311,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2023
+Lester Quinones,1631311,Jump Shot,2,2,1,2PT Jump Shot,TWO_POINT_JUMPERS,2023
+Lester Quinones,1631311,Pullup Jump shot,2,2,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2023
+Lester Quinones,1631311,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2024
+Lester Quinones,1631311,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2024
+Lester Quinones,1631311,Driving Finger Roll Layup Shot,2,9,3,Finger Roll,LAYUPS,2024
+Lester Quinones,1631311,Driving Floating Jump Shot,2,4,0,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Lester Quinones,1631311,Driving Layup Shot,2,13,4,Driving Layup,LAYUPS,2024
+Lester Quinones,1631311,Fadeaway Jump Shot,2,3,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
+Lester Quinones,1631311,Jump Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2024
+Lester Quinones,1631311,Jump Shot,3,57,21,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Lester Quinones,1631311,Layup Shot,2,3,1,Standard Layup,LAYUPS,2024
+Lester Quinones,1631311,Pullup Jump shot,2,2,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2024
+Lester Quinones,1631311,Pullup Jump shot,3,9,3,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
+Lester Quinones,1631311,Putback Layup Shot,2,2,1,Putback Layup,LAYUPS,2024
+Lester Quinones,1631311,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2024
+Lester Quinones,1631311,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2024
+Lester Quinones,1631311,Running Jump Shot,3,8,3,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Lester Quinones,1631311,Running Layup Shot,2,5,4,Standard Layup,LAYUPS,2024
+Lester Quinones,1631311,Running Pull-Up Jump Shot,3,3,2,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Lester Quinones,1631311,Step Back Jump shot,2,2,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2024
+Lester Quinones,1631311,Step Back Jump shot,3,11,3,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
+Lester Quinones,1631311,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2024
+Lester Quinones,1631311,Turnaround Fadeaway shot,2,2,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Lester Quinones,1631311,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Lester Quinones,1631311,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Lester Quinones,1631311,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2025
+Lester Quinones,1631311,Jump Shot,3,2,0,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Lester Quinones,1631311,Layup Shot,2,2,2,Standard Layup,LAYUPS,2025
+Lester Quinones,1631311,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Lester Quinones,1631311,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2025

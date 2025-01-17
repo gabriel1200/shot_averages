@@ -1,60 +1,71 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jelani McCoy,1741,Driving Dunk,2,1,1,DUNKS,,1999
-Jelani McCoy,1741,Driving Layup,2,2,2,LAYUPS,,1999
-Jelani McCoy,1741,Hook Shot,2,12,10,POST_MOVES,,1999
-Jelani McCoy,1741,Jump Shot,2,17,5,JUMP_SHOTS,,1999
-Jelani McCoy,1741,Running Jump Shot,2,1,1,JUMP_SHOTS,,1999
-Jelani McCoy,1741,Standard Dunk,2,23,23,DUNKS,,1999
-Jelani McCoy,1741,Standard Layup,2,17,11,LAYUPS,,1999
-Jelani McCoy,1741,Tip Shot,2,3,3,TIP_SHOTS,,1999
-Jelani McCoy,1741,Driving Dunk,2,1,1,DUNKS,,2000
-Jelani McCoy,1741,Driving Layup,2,10,9,LAYUPS,,2000
-Jelani McCoy,1741,Hook Shot,2,25,16,POST_MOVES,,2000
-Jelani McCoy,1741,Jump Shot,2,56,12,JUMP_SHOTS,,2000
-Jelani McCoy,1741,Running Jump Shot,2,1,0,JUMP_SHOTS,,2000
-Jelani McCoy,1741,Standard Dunk,2,38,35,DUNKS,,2000
-Jelani McCoy,1741,Standard Layup,2,44,27,LAYUPS,,2000
-Jelani McCoy,1741,Tip Shot,2,2,2,TIP_SHOTS,,2000
-Jelani McCoy,1741,Alley Oop Layup,2,1,1,LAYUPS,,2001
-Jelani McCoy,1741,Driving Layup,2,6,6,LAYUPS,,2001
-Jelani McCoy,1741,Finger Roll,2,1,1,LAYUPS,,2001
-Jelani McCoy,1741,Hook Shot,2,32,20,POST_MOVES,,2001
-Jelani McCoy,1741,Jump Shot,2,59,10,JUMP_SHOTS,,2001
-Jelani McCoy,1741,Reverse Layup,2,3,3,LAYUPS,,2001
-Jelani McCoy,1741,Running Hook Shot,2,1,1,POST_MOVES,,2001
-Jelani McCoy,1741,Running Jump Shot,2,3,2,JUMP_SHOTS,,2001
-Jelani McCoy,1741,Standard Dunk,2,53,49,DUNKS,,2001
-Jelani McCoy,1741,Standard Layup,2,94,41,LAYUPS,,2001
-Jelani McCoy,1741,Tip Shot,2,3,1,TIP_SHOTS,,2001
-Jelani McCoy,1741,Turnaround Hook Shot,2,4,1,POST_MOVES,,2001
-Jelani McCoy,1741,Turnaround Jump Shot,2,4,2,JUMP_SHOTS,,2001
-Jelani McCoy,1741,Driving Layup,2,1,1,LAYUPS,,2002
-Jelani McCoy,1741,Hook Shot,2,3,3,POST_MOVES,,2002
-Jelani McCoy,1741,Jump Shot,2,4,0,JUMP_SHOTS,,2002
-Jelani McCoy,1741,Standard Dunk,2,5,5,DUNKS,,2002
-Jelani McCoy,1741,Standard Layup,2,6,1,LAYUPS,,2002
-Jelani McCoy,1741,Tip Shot,2,1,1,TIP_SHOTS,,2002
-Jelani McCoy,1741,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2002
-Jelani McCoy,1741,Alley Oop Dunk,2,1,0,DUNKS,,2003
-Jelani McCoy,1741,Alley Oop Layup,2,3,3,LAYUPS,,2003
-Jelani McCoy,1741,Driving Dunk,2,1,1,DUNKS,,2003
-Jelani McCoy,1741,Driving Hook Shot,2,15,3,POST_MOVES,,2003
-Jelani McCoy,1741,Driving Layup,2,21,11,LAYUPS,,2003
-Jelani McCoy,1741,Finger Roll,2,15,13,LAYUPS,,2003
-Jelani McCoy,1741,Hook Shot,2,41,24,POST_MOVES,,2003
-Jelani McCoy,1741,Jump Shot,2,75,18,JUMP_SHOTS,,2003
-Jelani McCoy,1741,Reverse Dunk,2,1,1,DUNKS,,2003
-Jelani McCoy,1741,Reverse Layup,2,10,4,LAYUPS,,2003
-Jelani McCoy,1741,Running Hook Shot,2,5,3,POST_MOVES,,2003
-Jelani McCoy,1741,Running Jump Shot,2,8,3,JUMP_SHOTS,,2003
-Jelani McCoy,1741,Specialty Dunk,2,5,5,DUNKS,,2003
-Jelani McCoy,1741,Standard Dunk,2,42,40,DUNKS,,2003
-Jelani McCoy,1741,Standard Layup,2,87,41,LAYUPS,,2003
-Jelani McCoy,1741,Tip Shot,2,25,14,TIP_SHOTS,,2003
-Jelani McCoy,1741,Turnaround Hook Shot,2,16,5,POST_MOVES,,2003
-Jelani McCoy,1741,Turnaround Jump Shot,2,24,5,JUMP_SHOTS,,2003
-Jelani McCoy,1741,Jump Shot,2,1,1,JUMP_SHOTS,,2005
-Jelani McCoy,1741,Standard Dunk,2,2,2,DUNKS,,2005
-Jelani McCoy,1741,Standard Layup,2,9,4,LAYUPS,,2005
-Jelani McCoy,1741,Tip Shot,2,1,0,TIP_SHOTS,,2005
-Jelani McCoy,1741,Standard Dunk,2,1,1,DUNKS,,2008
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Jelani McCoy,1741,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,1999
+Jelani McCoy,1741,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,1999
+Jelani McCoy,1741,Dunk Shot,2,7,7,Standard Dunk,DUNKS,1999
+Jelani McCoy,1741,Hook Shot,2,12,10,Hook Shot,POST_MOVES,1999
+Jelani McCoy,1741,Jump Shot,2,17,5,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Jelani McCoy,1741,Layup Shot,2,17,11,Standard Layup,LAYUPS,1999
+Jelani McCoy,1741,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999
+Jelani McCoy,1741,Slam Dunk Shot,2,16,16,Standard Dunk,DUNKS,1999
+Jelani McCoy,1741,Tip Shot,2,3,3,Tip Shot,TIP_SHOTS,1999
+Jelani McCoy,1741,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2000
+Jelani McCoy,1741,Driving Layup Shot,2,10,9,Driving Layup,LAYUPS,2000
+Jelani McCoy,1741,Dunk Shot,2,9,7,Standard Dunk,DUNKS,2000
+Jelani McCoy,1741,Hook Shot,2,25,16,Hook Shot,POST_MOVES,2000
+Jelani McCoy,1741,Jump Shot,2,56,12,2PT Jump Shot,TWO_POINT_JUMPERS,2000
+Jelani McCoy,1741,Layup Shot,2,44,27,Standard Layup,LAYUPS,2000
+Jelani McCoy,1741,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2000
+Jelani McCoy,1741,Slam Dunk Shot,2,29,28,Standard Dunk,DUNKS,2000
+Jelani McCoy,1741,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,2000
+Jelani McCoy,1741,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2001
+Jelani McCoy,1741,Driving Layup Shot,2,6,6,Driving Layup,LAYUPS,2001
+Jelani McCoy,1741,Dunk Shot,2,20,16,Standard Dunk,DUNKS,2001
+Jelani McCoy,1741,Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2001
+Jelani McCoy,1741,Hook Shot,2,32,20,Hook Shot,POST_MOVES,2001
+Jelani McCoy,1741,Jump Shot,2,59,10,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Jelani McCoy,1741,Layup Shot,2,93,41,Standard Layup,LAYUPS,2001
+Jelani McCoy,1741,Reverse Layup Shot,2,3,3,Reverse Layup,LAYUPS,2001
+Jelani McCoy,1741,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,2001
+Jelani McCoy,1741,Running Jump Shot,2,3,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
+Jelani McCoy,1741,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2001
+Jelani McCoy,1741,Slam Dunk Shot,2,33,33,Standard Dunk,DUNKS,2001
+Jelani McCoy,1741,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,2001
+Jelani McCoy,1741,Turnaround Hook Shot,2,4,1,Turnaround Hook Shot,POST_MOVES,2001
+Jelani McCoy,1741,Turnaround Jump Shot,2,4,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2001
+Jelani McCoy,1741,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2002
+Jelani McCoy,1741,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2002
+Jelani McCoy,1741,Hook Shot,2,3,3,Hook Shot,POST_MOVES,2002
+Jelani McCoy,1741,Jump Shot,2,4,0,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Jelani McCoy,1741,Layup Shot,2,6,1,Standard Layup,LAYUPS,2002
+Jelani McCoy,1741,Slam Dunk Shot,2,4,4,Standard Dunk,DUNKS,2002
+Jelani McCoy,1741,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2002
+Jelani McCoy,1741,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2002
+Jelani McCoy,1741,Alley Oop Dunk Shot,2,1,0,Alley Oop Dunk,DUNKS,2003
+Jelani McCoy,1741,Alley Oop Layup shot,2,3,3,Alley Oop Layup,LAYUPS,2003
+Jelani McCoy,1741,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2003
+Jelani McCoy,1741,Driving Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2003
+Jelani McCoy,1741,Driving Hook Shot,2,15,3,Driving Hook Shot,POST_MOVES,2003
+Jelani McCoy,1741,Driving Layup Shot,2,21,11,Driving Layup,LAYUPS,2003
+Jelani McCoy,1741,Dunk Shot,2,15,14,Standard Dunk,DUNKS,2003
+Jelani McCoy,1741,Finger Roll Shot,2,11,11,Finger Roll,LAYUPS,2003
+Jelani McCoy,1741,Follow Up Dunk Shot,2,5,5,Specialty Dunk,DUNKS,2003
+Jelani McCoy,1741,Hook Shot,2,33,18,Hook Shot,POST_MOVES,2003
+Jelani McCoy,1741,Jump Hook Shot,2,8,6,Hook Shot,POST_MOVES,2003
+Jelani McCoy,1741,Jump Shot,2,75,18,2PT Jump Shot,TWO_POINT_JUMPERS,2003
+Jelani McCoy,1741,Layup Shot,2,85,40,Standard Layup,LAYUPS,2003
+Jelani McCoy,1741,Reverse Dunk Shot,2,1,1,Reverse Dunk,DUNKS,2003
+Jelani McCoy,1741,Reverse Layup Shot,2,10,4,Reverse Layup,LAYUPS,2003
+Jelani McCoy,1741,Running Finger Roll Shot,2,3,1,Finger Roll,LAYUPS,2003
+Jelani McCoy,1741,Running Hook Shot,2,5,3,Running Hook Shot,POST_MOVES,2003
+Jelani McCoy,1741,Running Jump Shot,2,8,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2003
+Jelani McCoy,1741,Running Layup Shot,2,2,1,Standard Layup,LAYUPS,2003
+Jelani McCoy,1741,Running Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2003
+Jelani McCoy,1741,Slam Dunk Shot,2,27,26,Standard Dunk,DUNKS,2003
+Jelani McCoy,1741,Tip Shot,2,24,13,Tip Shot,TIP_SHOTS,2003
+Jelani McCoy,1741,Turnaround Hook Shot,2,16,5,Turnaround Hook Shot,POST_MOVES,2003
+Jelani McCoy,1741,Turnaround Jump Shot,2,24,5,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2003
+Jelani McCoy,1741,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2005
+Jelani McCoy,1741,Jump Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2005
+Jelani McCoy,1741,Layup Shot,2,9,4,Standard Layup,LAYUPS,2005
+Jelani McCoy,1741,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2005
+Jelani McCoy,1741,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2008

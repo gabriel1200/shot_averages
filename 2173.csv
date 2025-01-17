@@ -1,4 +1,4 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Sean Colson,2173,Driving Layup,2,1,1,LAYUPS,,2001
-Sean Colson,2173,Jump Shot,2,22,5,JUMP_SHOTS,,2001
-Sean Colson,2173,Standard Layup,2,1,0,LAYUPS,,2001
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Sean Colson,2173,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2001
+Sean Colson,2173,Jump Shot,2,22,5,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Sean Colson,2173,Layup Shot,2,1,0,Standard Layup,LAYUPS,2001

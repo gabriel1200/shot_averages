@@ -1,17 +1,18 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Ricky Ledo,203495,Driving Jump Shot,2,1,0,JUMP_SHOTS,,2014
-Ricky Ledo,203495,Driving Layup,2,2,1,LAYUPS,,2014
-Ricky Ledo,203495,Jump Shot,2,12,3,JUMP_SHOTS,,2014
-Ricky Ledo,203495,Standard Layup,2,2,2,LAYUPS,,2014
-Ricky Ledo,203495,Driving Jump Shot,2,5,1,JUMP_SHOTS,,2015
-Ricky Ledo,203495,Driving Layup,2,12,7,LAYUPS,,2015
-Ricky Ledo,203495,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2015
-Ricky Ledo,203495,Finger Roll,2,1,1,LAYUPS,,2015
-Ricky Ledo,203495,Jump Shot,2,46,12,JUMP_SHOTS,,2015
-Ricky Ledo,203495,Pullup Jump Shot,2,1,1,JUMP_SHOTS,,2015
-Ricky Ledo,203495,Putback Dunk,2,1,0,DUNKS,,2015
-Ricky Ledo,203495,Reverse Layup,2,1,1,LAYUPS,,2015
-Ricky Ledo,203495,Running Jump Shot,2,1,0,JUMP_SHOTS,,2015
-Ricky Ledo,203495,Standard Layup,2,23,6,LAYUPS,,2015
-Ricky Ledo,203495,Step Back Jump Shot,2,3,2,JUMP_SHOTS,,2015
-Ricky Ledo,203495,Tip Shot,2,1,1,TIP_SHOTS,,2015
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Ricky Ledo,203495,Driving Bank shot,2,1,0,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2014
+Ricky Ledo,203495,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2014
+Ricky Ledo,203495,Jump Shot,2,12,3,2PT Jump Shot,TWO_POINT_JUMPERS,2014
+Ricky Ledo,203495,Layup Shot,2,2,2,Standard Layup,LAYUPS,2014
+Ricky Ledo,203495,Driving Bank shot,2,2,1,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2015
+Ricky Ledo,203495,Driving Jump shot,2,3,0,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2015
+Ricky Ledo,203495,Driving Layup Shot,2,12,7,Driving Layup,LAYUPS,2015
+Ricky Ledo,203495,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2015
+Ricky Ledo,203495,Jump Shot,2,46,12,2PT Jump Shot,TWO_POINT_JUMPERS,2015
+Ricky Ledo,203495,Layup Shot,2,23,6,Standard Layup,LAYUPS,2015
+Ricky Ledo,203495,Pullup Jump shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2015
+Ricky Ledo,203495,Putback Dunk Shot,2,1,0,Putback Dunk,DUNKS,2015
+Ricky Ledo,203495,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2015
+Ricky Ledo,203495,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2015
+Ricky Ledo,203495,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2015
+Ricky Ledo,203495,Step Back Jump shot,2,3,2,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2015
+Ricky Ledo,203495,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2015

@@ -1,22 +1,28 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Diante Garrett,203197,Driving Layup,2,2,2,LAYUPS,,2013
-Diante Garrett,203197,Finger Roll,2,1,1,LAYUPS,,2013
-Diante Garrett,203197,Floating Jump Shot,2,1,1,FLOATING_SHOTS,,2013
-Diante Garrett,203197,Jump Shot,2,30,4,JUMP_SHOTS,,2013
-Diante Garrett,203197,Pullup Jump Shot,2,3,1,JUMP_SHOTS,,2013
-Diante Garrett,203197,Reverse Layup,2,2,2,LAYUPS,,2013
-Diante Garrett,203197,Running Jump Shot,2,1,0,JUMP_SHOTS,,2013
-Diante Garrett,203197,Standard Layup,2,8,5,LAYUPS,,2013
-Diante Garrett,203197,Tip Shot,2,1,0,TIP_SHOTS,,2013
-Diante Garrett,203197,Driving Jump Shot,2,2,1,JUMP_SHOTS,,2014
-Diante Garrett,203197,Driving Layup,2,19,12,LAYUPS,,2014
-Diante Garrett,203197,Fadeaway Jump Shot,2,5,4,JUMP_SHOTS,,2014
-Diante Garrett,203197,Floating Jump Shot,2,8,3,FLOATING_SHOTS,,2014
-Diante Garrett,203197,Hook Shot,2,1,1,POST_MOVES,,2014
-Diante Garrett,203197,Jump Shot,2,167,51,JUMP_SHOTS,,2014
-Diante Garrett,203197,Pullup Jump Shot,2,7,2,JUMP_SHOTS,,2014
-Diante Garrett,203197,Reverse Layup,2,5,2,LAYUPS,,2014
-Diante Garrett,203197,Running Jump Shot,2,22,13,JUMP_SHOTS,,2014
-Diante Garrett,203197,Standard Layup,2,24,12,LAYUPS,,2014
-Diante Garrett,203197,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2014
-Diante Garrett,203197,Turnaround Jump Shot,2,3,0,JUMP_SHOTS,,2014
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Diante Garrett,203197,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2013
+Diante Garrett,203197,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,2013
+Diante Garrett,203197,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2013
+Diante Garrett,203197,Jump Shot,2,30,4,2PT Jump Shot,TWO_POINT_JUMPERS,2013
+Diante Garrett,203197,Layup Shot,2,8,5,Standard Layup,LAYUPS,2013
+Diante Garrett,203197,Pullup Jump shot,2,3,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2013
+Diante Garrett,203197,Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2013
+Diante Garrett,203197,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2013
+Diante Garrett,203197,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2013
+Diante Garrett,203197,Driving Jump shot,2,2,1,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2014
+Diante Garrett,203197,Driving Layup Shot,2,18,11,Driving Layup,LAYUPS,2014
+Diante Garrett,203197,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2014
+Diante Garrett,203197,Fadeaway Jump Shot,2,5,4,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2014
+Diante Garrett,203197,Floating Jump shot,2,8,3,2PT Floating Jump Shot,FLOATING_SHOTS,2014
+Diante Garrett,203197,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2014
+Diante Garrett,203197,Jump Bank Shot,2,5,1,2PT Jump Shot,TWO_POINT_JUMPERS,2014
+Diante Garrett,203197,Jump Shot,2,162,50,2PT Jump Shot,TWO_POINT_JUMPERS,2014
+Diante Garrett,203197,Layup Shot,2,22,12,Standard Layup,LAYUPS,2014
+Diante Garrett,203197,Pullup Jump shot,2,7,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2014
+Diante Garrett,203197,Reverse Layup Shot,2,4,1,Reverse Layup,LAYUPS,2014
+Diante Garrett,203197,Running Bank shot,2,5,5,2PT Running Jump Shot,TWO_POINT_JUMPERS,2014
+Diante Garrett,203197,Running Jump Shot,2,17,8,2PT Running Jump Shot,TWO_POINT_JUMPERS,2014
+Diante Garrett,203197,Running Layup Shot,2,2,0,Standard Layup,LAYUPS,2014
+Diante Garrett,203197,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2014
+Diante Garrett,203197,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2014
+Diante Garrett,203197,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2014
+Diante Garrett,203197,Turnaround Jump Shot,2,2,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2014

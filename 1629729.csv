@@ -1,6 +1,6 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Josh Reaves,1629729,Floating Jump Shot,2,2,0,FLOATING_SHOTS,,2020
-Josh Reaves,1629729,Jump Shot,2,2,0,JUMP_SHOTS,,2020
-Josh Reaves,1629729,Putback Layup,2,1,0,LAYUPS,,2020
-Josh Reaves,1629729,Reverse Layup,2,3,2,LAYUPS,,2020
-Josh Reaves,1629729,Specialty Dunk,2,1,1,DUNKS,,2020
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Josh Reaves,1629729,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2020
+Josh Reaves,1629729,Driving Floating Jump Shot,2,2,0,2PT Floating Jump Shot,FLOATING_SHOTS,2020
+Josh Reaves,1629729,Jump Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2020
+Josh Reaves,1629729,Reverse Layup Shot,2,3,2,Reverse Layup,LAYUPS,2020
+Josh Reaves,1629729,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2020

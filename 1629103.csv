@@ -1,39 +1,65 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Kelan Martin,1629103,Driving Dunk,2,3,3,DUNKS,,2020
-Kelan Martin,1629103,Driving Layup,2,17,7,LAYUPS,,2020
-Kelan Martin,1629103,Floating Jump Shot,2,31,17,FLOATING_SHOTS,,2020
-Kelan Martin,1629103,Jump Shot,2,75,16,JUMP_SHOTS,,2020
-Kelan Martin,1629103,Jump Shot,3,14,3,JUMP_SHOTS,,2020
-Kelan Martin,1629103,Pullup Jump Shot,2,16,7,JUMP_SHOTS,,2020
-Kelan Martin,1629103,Putback Layup,2,2,2,LAYUPS,,2020
-Kelan Martin,1629103,Running Jump Shot,2,1,1,JUMP_SHOTS,,2020
-Kelan Martin,1629103,Specialty Dunk,2,1,0,DUNKS,,2020
-Kelan Martin,1629103,Standard Layup,2,17,13,LAYUPS,,2020
-Kelan Martin,1629103,Step Back Jump Shot,2,2,1,JUMP_SHOTS,,2020
-Kelan Martin,1629103,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2020
-Kelan Martin,1629103,Driving Layup,2,13,3,LAYUPS,,2021
-Kelan Martin,1629103,Finger Roll,2,6,4,LAYUPS,,2021
-Kelan Martin,1629103,Floating Jump Shot,2,18,7,FLOATING_SHOTS,,2021
-Kelan Martin,1629103,Jump Shot,2,50,14,JUMP_SHOTS,,2021
-Kelan Martin,1629103,Pullup Jump Shot,2,16,12,JUMP_SHOTS,,2021
-Kelan Martin,1629103,Putback Layup,2,8,5,LAYUPS,,2021
-Kelan Martin,1629103,Reverse Layup,2,2,1,LAYUPS,,2021
-Kelan Martin,1629103,Running Jump Shot,2,7,4,JUMP_SHOTS,,2021
-Kelan Martin,1629103,Specialty Dunk,2,2,1,DUNKS,,2021
-Kelan Martin,1629103,Standard Dunk,2,2,2,DUNKS,,2021
-Kelan Martin,1629103,Standard Layup,2,12,7,LAYUPS,,2021
-Kelan Martin,1629103,Step Back Jump Shot,2,2,2,JUMP_SHOTS,,2021
-Kelan Martin,1629103,Driving Layup,2,15,8,LAYUPS,,2022
-Kelan Martin,1629103,Fadeaway Jump Shot,2,3,1,JUMP_SHOTS,,2022
-Kelan Martin,1629103,Finger Roll,2,11,6,LAYUPS,,2022
-Kelan Martin,1629103,Floating Jump Shot,2,19,9,FLOATING_SHOTS,,2022
-Kelan Martin,1629103,Jump Shot,2,60,20,JUMP_SHOTS,,2022
-Kelan Martin,1629103,Pullup Jump Shot,2,26,9,JUMP_SHOTS,,2022
-Kelan Martin,1629103,Pullup Jump Shot,3,1,0,JUMP_SHOTS,,2022
-Kelan Martin,1629103,Putback Layup,2,4,3,LAYUPS,,2022
-Kelan Martin,1629103,Running Jump Shot,2,4,1,JUMP_SHOTS,,2022
-Kelan Martin,1629103,Specialty Dunk,2,2,1,DUNKS,,2022
-Kelan Martin,1629103,Standard Dunk,2,2,2,DUNKS,,2022
-Kelan Martin,1629103,Standard Layup,2,16,8,LAYUPS,,2022
-Kelan Martin,1629103,Step Back Jump Shot,2,7,2,JUMP_SHOTS,,2022
-Kelan Martin,1629103,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2022
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Kelan Martin,1629103,Cutting Layup Shot,2,6,4,Standard Layup,LAYUPS,2020
+Kelan Martin,1629103,Driving Dunk Shot,2,3,3,Driving Dunk,DUNKS,2020
+Kelan Martin,1629103,Driving Floating Bank Jump Shot,2,7,5,2PT Floating Jump Shot,FLOATING_SHOTS,2020
+Kelan Martin,1629103,Driving Floating Jump Shot,2,11,3,2PT Floating Jump Shot,FLOATING_SHOTS,2020
+Kelan Martin,1629103,Driving Layup Shot,2,17,7,Driving Layup,LAYUPS,2020
+Kelan Martin,1629103,Floating Jump shot,2,13,9,2PT Floating Jump Shot,FLOATING_SHOTS,2020
+Kelan Martin,1629103,Jump Shot,2,75,16,2PT Jump Shot,TWO_POINT_JUMPERS,2020
+Kelan Martin,1629103,Jump Shot,3,14,3,3PT Jump Shot,THREE_POINT_JUMPERS,2020
+Kelan Martin,1629103,Layup Shot,2,4,3,Standard Layup,LAYUPS,2020
+Kelan Martin,1629103,Pullup Jump shot,2,16,7,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2020
+Kelan Martin,1629103,Putback Layup Shot,2,2,2,Putback Layup,LAYUPS,2020
+Kelan Martin,1629103,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2020
+Kelan Martin,1629103,Running Layup Shot,2,7,6,Standard Layup,LAYUPS,2020
+Kelan Martin,1629103,Step Back Jump shot,2,2,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2020
+Kelan Martin,1629103,Tip Dunk Shot,2,1,0,Specialty Dunk,DUNKS,2020
+Kelan Martin,1629103,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2020
+Kelan Martin,1629103,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2021
+Kelan Martin,1629103,Cutting Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2021
+Kelan Martin,1629103,Cutting Layup Shot,2,2,2,Standard Layup,LAYUPS,2021
+Kelan Martin,1629103,Driving Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2021
+Kelan Martin,1629103,Driving Floating Bank Jump Shot,2,2,0,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Kelan Martin,1629103,Driving Floating Jump Shot,2,10,4,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Kelan Martin,1629103,Driving Layup Shot,2,12,3,Driving Layup,LAYUPS,2021
+Kelan Martin,1629103,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2021
+Kelan Martin,1629103,Floating Jump shot,2,6,3,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Kelan Martin,1629103,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Kelan Martin,1629103,Jump Shot,2,49,14,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Kelan Martin,1629103,Layup Shot,2,6,1,Standard Layup,LAYUPS,2021
+Kelan Martin,1629103,Pullup Jump shot,2,16,12,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2021
+Kelan Martin,1629103,Putback Layup Shot,2,4,3,Putback Layup,LAYUPS,2021
+Kelan Martin,1629103,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2021
+Kelan Martin,1629103,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2021
+Kelan Martin,1629103,Running Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2021
+Kelan Martin,1629103,Running Jump Shot,2,5,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2021
+Kelan Martin,1629103,Running Layup Shot,2,4,4,Standard Layup,LAYUPS,2021
+Kelan Martin,1629103,Running Pull-Up Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2021
+Kelan Martin,1629103,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2021
+Kelan Martin,1629103,Step Back Jump shot,2,2,2,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2021
+Kelan Martin,1629103,Tip Dunk Shot,2,1,0,Specialty Dunk,DUNKS,2021
+Kelan Martin,1629103,Tip Layup Shot,2,4,2,Putback Layup,LAYUPS,2021
+Kelan Martin,1629103,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2022
+Kelan Martin,1629103,Cutting Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2022
+Kelan Martin,1629103,Cutting Layup Shot,2,7,5,Standard Layup,LAYUPS,2022
+Kelan Martin,1629103,Driving Finger Roll Layup Shot,2,4,1,Finger Roll,LAYUPS,2022
+Kelan Martin,1629103,Driving Floating Bank Jump Shot,2,4,1,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Kelan Martin,1629103,Driving Floating Jump Shot,2,12,7,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Kelan Martin,1629103,Driving Layup Shot,2,14,7,Driving Layup,LAYUPS,2022
+Kelan Martin,1629103,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2022
+Kelan Martin,1629103,Fadeaway Jump Shot,2,3,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2022
+Kelan Martin,1629103,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2022
+Kelan Martin,1629103,Floating Jump shot,2,3,1,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Kelan Martin,1629103,Jump Shot,2,60,20,2PT Jump Shot,TWO_POINT_JUMPERS,2022
+Kelan Martin,1629103,Layup Shot,2,4,2,Standard Layup,LAYUPS,2022
+Kelan Martin,1629103,Pullup Jump shot,2,26,9,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2022
+Kelan Martin,1629103,Pullup Jump shot,3,1,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2022
+Kelan Martin,1629103,Putback Layup Shot,2,3,3,Putback Layup,LAYUPS,2022
+Kelan Martin,1629103,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2022
+Kelan Martin,1629103,Running Finger Roll Layup Shot,2,5,4,Finger Roll,LAYUPS,2022
+Kelan Martin,1629103,Running Jump Shot,2,4,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2022
+Kelan Martin,1629103,Running Layup Shot,2,5,1,Standard Layup,LAYUPS,2022
+Kelan Martin,1629103,Step Back Jump shot,2,7,2,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2022
+Kelan Martin,1629103,Tip Dunk Shot,2,1,0,Specialty Dunk,DUNKS,2022
+Kelan Martin,1629103,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2022
+Kelan Martin,1629103,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2022

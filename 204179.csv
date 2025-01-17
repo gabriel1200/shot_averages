@@ -1,8 +1,9 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Omari Johnson,204179,Driving Layup,2,1,1,LAYUPS,,2018
-Omari Johnson,204179,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2018
-Omari Johnson,204179,Jump Shot,2,13,4,JUMP_SHOTS,,2018
-Omari Johnson,204179,Putback Layup,2,3,2,LAYUPS,,2018
-Omari Johnson,204179,Standard Layup,2,1,1,LAYUPS,,2018
-Omari Johnson,204179,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2018
-Omari Johnson,204179,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2018
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Omari Johnson,204179,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2018
+Omari Johnson,204179,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2018
+Omari Johnson,204179,Jump Shot,2,13,4,2PT Jump Shot,TWO_POINT_JUMPERS,2018
+Omari Johnson,204179,Layup Shot,2,1,1,Standard Layup,LAYUPS,2018
+Omari Johnson,204179,Putback Layup Shot,2,2,1,Putback Layup,LAYUPS,2018
+Omari Johnson,204179,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2018
+Omari Johnson,204179,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2018
+Omari Johnson,204179,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2018

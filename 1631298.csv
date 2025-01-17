@@ -1,15 +1,20 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jack White,1631298,Driving Layup,2,4,2,LAYUPS,,2023
-Jack White,1631298,Jump Shot,2,6,1,JUMP_SHOTS,,2023
-Jack White,1631298,Pullup Jump Shot,2,1,0,JUMP_SHOTS,,2023
-Jack White,1631298,Putback Dunk,2,1,1,DUNKS,,2023
-Jack White,1631298,Putback Layup,2,2,1,LAYUPS,,2023
-Jack White,1631298,Running Jump Shot,2,2,2,JUMP_SHOTS,,2023
-Jack White,1631298,Standard Dunk,2,1,1,DUNKS,,2023
-Jack White,1631298,Standard Layup,2,2,0,LAYUPS,,2023
-Jack White,1631298,Driving Hook Shot,2,1,0,POST_MOVES,,2024
-Jack White,1631298,Jump Shot,3,10,2,JUMP_SHOTS,,2024
-Jack White,1631298,Putback Layup,2,2,0,LAYUPS,,2024
-Jack White,1631298,Reverse Layup,2,1,0,LAYUPS,,2024
-Jack White,1631298,Standard Layup,2,1,0,LAYUPS,,2024
-Jack White,1631298,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2024
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Jack White,1631298,Driving Layup Shot,2,3,2,Driving Layup,LAYUPS,2023
+Jack White,1631298,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2023
+Jack White,1631298,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2023
+Jack White,1631298,Jump Shot,2,6,1,2PT Jump Shot,TWO_POINT_JUMPERS,2023
+Jack White,1631298,Layup Shot,2,1,0,Standard Layup,LAYUPS,2023
+Jack White,1631298,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2023
+Jack White,1631298,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2023
+Jack White,1631298,Putback Layup Shot,2,1,0,Putback Layup,LAYUPS,2023
+Jack White,1631298,Running Jump Shot,2,2,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2023
+Jack White,1631298,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2023
+Jack White,1631298,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2023
+Jack White,1631298,Cutting Layup Shot,2,1,0,Standard Layup,LAYUPS,2024
+Jack White,1631298,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2024
+Jack White,1631298,Jump Bank Shot,3,1,1,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Jack White,1631298,Jump Shot,3,9,1,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Jack White,1631298,Putback Layup Shot,2,1,0,Putback Layup,LAYUPS,2024
+Jack White,1631298,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2024
+Jack White,1631298,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2024
+Jack White,1631298,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2024

@@ -1,6 +1,6 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Tony Mitchell,203502,Jump Shot,2,4,1,JUMP_SHOTS,,2014
-Tony Mitchell,203502,Putback Dunk,2,1,1,DUNKS,,2014
-Tony Mitchell,203502,Putback Layup,2,1,1,LAYUPS,,2014
-Tony Mitchell,203502,Standard Dunk,2,1,1,DUNKS,,2014
-Tony Mitchell,203502,Standard Layup,2,5,1,LAYUPS,,2014
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Tony Mitchell,203502,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2014
+Tony Mitchell,203502,Jump Shot,2,4,1,2PT Jump Shot,TWO_POINT_JUMPERS,2014
+Tony Mitchell,203502,Layup Shot,2,5,1,Standard Layup,LAYUPS,2014
+Tony Mitchell,203502,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2014
+Tony Mitchell,203502,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2014

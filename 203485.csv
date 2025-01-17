@@ -1,50 +1,63 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Lorenzo Brown,203485,Driving Jump Shot,2,1,1,JUMP_SHOTS,,2014
-Lorenzo Brown,203485,Driving Layup,2,9,5,LAYUPS,,2014
-Lorenzo Brown,203485,Finger Roll,2,2,2,LAYUPS,,2014
-Lorenzo Brown,203485,Floating Jump Shot,2,2,1,FLOATING_SHOTS,,2014
-Lorenzo Brown,203485,Jump Shot,2,46,3,JUMP_SHOTS,,2014
-Lorenzo Brown,203485,Pullup Jump Shot,2,4,4,JUMP_SHOTS,,2014
-Lorenzo Brown,203485,Reverse Layup,2,2,1,LAYUPS,,2014
-Lorenzo Brown,203485,Running Jump Shot,2,3,3,JUMP_SHOTS,,2014
-Lorenzo Brown,203485,Standard Layup,2,14,4,LAYUPS,,2014
-Lorenzo Brown,203485,Tip Shot,2,2,1,TIP_SHOTS,,2014
-Lorenzo Brown,203485,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2014
-Lorenzo Brown,203485,Driving Dunk,2,2,1,DUNKS,,2015
-Lorenzo Brown,203485,Driving Layup,2,21,14,LAYUPS,,2015
-Lorenzo Brown,203485,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2015
-Lorenzo Brown,203485,Finger Roll,2,3,2,LAYUPS,,2015
-Lorenzo Brown,203485,Floating Jump Shot,2,2,2,FLOATING_SHOTS,,2015
-Lorenzo Brown,203485,Jump Shot,2,52,14,JUMP_SHOTS,,2015
-Lorenzo Brown,203485,Pullup Jump Shot,2,10,4,JUMP_SHOTS,,2015
-Lorenzo Brown,203485,Running Jump Shot,2,9,4,JUMP_SHOTS,,2015
-Lorenzo Brown,203485,Standard Dunk,2,3,3,DUNKS,,2015
-Lorenzo Brown,203485,Standard Layup,2,16,6,LAYUPS,,2015
-Lorenzo Brown,203485,Step Back Jump Shot,2,2,1,JUMP_SHOTS,,2015
-Lorenzo Brown,203485,Tip Shot,2,1,0,TIP_SHOTS,,2015
-Lorenzo Brown,203485,Driving Layup,2,4,2,LAYUPS,,2016
-Lorenzo Brown,203485,Floating Jump Shot,2,2,1,FLOATING_SHOTS,,2016
-Lorenzo Brown,203485,Jump Shot,2,14,2,JUMP_SHOTS,,2016
-Lorenzo Brown,203485,Pullup Jump Shot,2,3,2,JUMP_SHOTS,,2016
-Lorenzo Brown,203485,Standard Layup,2,1,1,LAYUPS,,2016
-Lorenzo Brown,203485,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2016
-Lorenzo Brown,203485,Driving Layup,2,5,4,LAYUPS,,2018
-Lorenzo Brown,203485,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2018
-Lorenzo Brown,203485,Floating Jump Shot,2,2,0,FLOATING_SHOTS,,2018
-Lorenzo Brown,203485,Jump Shot,2,11,1,JUMP_SHOTS,,2018
-Lorenzo Brown,203485,Pullup Jump Shot,2,11,6,JUMP_SHOTS,,2018
-Lorenzo Brown,203485,Running Jump Shot,2,1,0,JUMP_SHOTS,,2018
-Lorenzo Brown,203485,Standard Dunk,2,1,1,DUNKS,,2018
-Lorenzo Brown,203485,Step Back Jump Shot,2,2,1,JUMP_SHOTS,,2018
-Lorenzo Brown,203485,Driving Dunk,2,1,0,DUNKS,,2019
-Lorenzo Brown,203485,Driving Layup,2,10,2,LAYUPS,,2019
-Lorenzo Brown,203485,Finger Roll,2,2,1,LAYUPS,,2019
-Lorenzo Brown,203485,Floating Jump Shot,2,8,3,FLOATING_SHOTS,,2019
-Lorenzo Brown,203485,Jump Shot,2,24,5,JUMP_SHOTS,,2019
-Lorenzo Brown,203485,Pullup Jump Shot,2,7,2,JUMP_SHOTS,,2019
-Lorenzo Brown,203485,Putback Layup,2,1,0,LAYUPS,,2019
-Lorenzo Brown,203485,Reverse Layup,2,2,2,LAYUPS,,2019
-Lorenzo Brown,203485,Running Jump Shot,2,2,1,JUMP_SHOTS,,2019
-Lorenzo Brown,203485,Standard Dunk,2,2,2,DUNKS,,2019
-Lorenzo Brown,203485,Standard Layup,2,8,3,LAYUPS,,2019
-Lorenzo Brown,203485,Step Back Jump Shot,2,4,2,JUMP_SHOTS,,2019
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Lorenzo Brown,203485,Driving Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2014
+Lorenzo Brown,203485,Driving Jump shot,2,1,1,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2014
+Lorenzo Brown,203485,Driving Layup Shot,2,9,5,Driving Layup,LAYUPS,2014
+Lorenzo Brown,203485,Floating Jump shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2014
+Lorenzo Brown,203485,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2014
+Lorenzo Brown,203485,Jump Shot,2,45,3,2PT Jump Shot,TWO_POINT_JUMPERS,2014
+Lorenzo Brown,203485,Layup Shot,2,14,4,Standard Layup,LAYUPS,2014
+Lorenzo Brown,203485,Pullup Jump shot,2,4,4,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2014
+Lorenzo Brown,203485,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2014
+Lorenzo Brown,203485,Running Bank shot,2,2,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2014
+Lorenzo Brown,203485,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2014
+Lorenzo Brown,203485,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,2014
+Lorenzo Brown,203485,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2014
+Lorenzo Brown,203485,Driving Dunk Shot,2,2,1,Driving Dunk,DUNKS,2015
+Lorenzo Brown,203485,Driving Finger Roll Layup Shot,2,3,2,Finger Roll,LAYUPS,2015
+Lorenzo Brown,203485,Driving Layup Shot,2,19,12,Driving Layup,LAYUPS,2015
+Lorenzo Brown,203485,Driving Reverse Layup Shot,2,2,2,Driving Layup,LAYUPS,2015
+Lorenzo Brown,203485,Dunk Shot,2,3,3,Standard Dunk,DUNKS,2015
+Lorenzo Brown,203485,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2015
+Lorenzo Brown,203485,Floating Jump shot,2,2,2,2PT Floating Jump Shot,FLOATING_SHOTS,2015
+Lorenzo Brown,203485,Jump Bank Shot,2,3,1,2PT Jump Shot,TWO_POINT_JUMPERS,2015
+Lorenzo Brown,203485,Jump Shot,2,49,13,2PT Jump Shot,TWO_POINT_JUMPERS,2015
+Lorenzo Brown,203485,Layup Shot,2,16,6,Standard Layup,LAYUPS,2015
+Lorenzo Brown,203485,Pullup Bank shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2015
+Lorenzo Brown,203485,Pullup Jump shot,2,9,3,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2015
+Lorenzo Brown,203485,Running Bank shot,2,5,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2015
+Lorenzo Brown,203485,Running Jump Shot,2,4,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2015
+Lorenzo Brown,203485,Step Back Jump shot,2,2,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2015
+Lorenzo Brown,203485,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2015
+Lorenzo Brown,203485,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2016
+Lorenzo Brown,203485,Driving Layup Shot,2,3,1,Driving Layup,LAYUPS,2016
+Lorenzo Brown,203485,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2016
+Lorenzo Brown,203485,Floating Jump shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2016
+Lorenzo Brown,203485,Jump Shot,2,14,2,2PT Jump Shot,TWO_POINT_JUMPERS,2016
+Lorenzo Brown,203485,Pullup Jump shot,2,3,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2016
+Lorenzo Brown,203485,Turnaround Bank shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2016
+Lorenzo Brown,203485,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Lorenzo Brown,203485,Driving Layup Shot,2,4,3,Driving Layup,LAYUPS,2018
+Lorenzo Brown,203485,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2018
+Lorenzo Brown,203485,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2018
+Lorenzo Brown,203485,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Lorenzo Brown,203485,Jump Shot,2,11,1,2PT Jump Shot,TWO_POINT_JUMPERS,2018
+Lorenzo Brown,203485,Pullup Jump shot,2,11,6,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2018
+Lorenzo Brown,203485,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2018
+Lorenzo Brown,203485,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2018
+Lorenzo Brown,203485,Step Back Jump shot,2,2,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2018
+Lorenzo Brown,203485,Driving Dunk Shot,2,1,0,Driving Dunk,DUNKS,2019
+Lorenzo Brown,203485,Driving Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2019
+Lorenzo Brown,203485,Driving Floating Bank Jump Shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2019
+Lorenzo Brown,203485,Driving Floating Jump Shot,2,4,0,2PT Floating Jump Shot,FLOATING_SHOTS,2019
+Lorenzo Brown,203485,Driving Layup Shot,2,10,2,Driving Layup,LAYUPS,2019
+Lorenzo Brown,203485,Floating Jump shot,2,2,2,2PT Floating Jump Shot,FLOATING_SHOTS,2019
+Lorenzo Brown,203485,Jump Shot,2,24,5,2PT Jump Shot,TWO_POINT_JUMPERS,2019
+Lorenzo Brown,203485,Layup Shot,2,3,2,Standard Layup,LAYUPS,2019
+Lorenzo Brown,203485,Pullup Jump shot,2,7,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2019
+Lorenzo Brown,203485,Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2019
+Lorenzo Brown,203485,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2019
+Lorenzo Brown,203485,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2019
+Lorenzo Brown,203485,Running Layup Shot,2,5,1,Standard Layup,LAYUPS,2019
+Lorenzo Brown,203485,Running Pull-Up Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2019
+Lorenzo Brown,203485,Step Back Jump shot,2,4,2,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2019
+Lorenzo Brown,203485,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2019

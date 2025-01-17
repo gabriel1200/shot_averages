@@ -1,8 +1,8 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-John Salley,927,Driving Dunk,2,1,1,DUNKS,,2000
-John Salley,927,Driving Layup,2,2,2,LAYUPS,,2000
-John Salley,927,Hook Shot,2,2,1,POST_MOVES,,2000
-John Salley,927,Jump Shot,2,42,11,JUMP_SHOTS,,2000
-John Salley,927,Standard Dunk,2,3,3,DUNKS,,2000
-John Salley,927,Standard Layup,2,13,6,LAYUPS,,2000
-John Salley,927,Tip Shot,2,6,1,TIP_SHOTS,,2000
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+John Salley,927,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2000
+John Salley,927,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,2000
+John Salley,927,Hook Shot,2,2,1,Hook Shot,POST_MOVES,2000
+John Salley,927,Jump Shot,2,42,11,2PT Jump Shot,TWO_POINT_JUMPERS,2000
+John Salley,927,Layup Shot,2,13,6,Standard Layup,LAYUPS,2000
+John Salley,927,Slam Dunk Shot,2,3,3,Standard Dunk,DUNKS,2000
+John Salley,927,Tip Shot,2,6,1,Tip Shot,TIP_SHOTS,2000

@@ -1,32 +1,36 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Bernard Robinson,2774,Driving Layup,2,5,4,LAYUPS,,2005
-Bernard Robinson,2774,Finger Roll,2,2,2,LAYUPS,,2005
-Bernard Robinson,2774,Hook Shot,2,1,0,POST_MOVES,,2005
-Bernard Robinson,2774,Jump Shot,2,41,13,JUMP_SHOTS,,2005
-Bernard Robinson,2774,Running Jump Shot,2,1,0,JUMP_SHOTS,,2005
-Bernard Robinson,2774,Standard Dunk,2,3,3,DUNKS,,2005
-Bernard Robinson,2774,Standard Layup,2,26,12,LAYUPS,,2005
-Bernard Robinson,2774,Tip Shot,2,2,2,TIP_SHOTS,,2005
-Bernard Robinson,2774,Driving Dunk,2,2,2,DUNKS,,2006
-Bernard Robinson,2774,Driving Hook Shot,2,1,0,POST_MOVES,,2006
-Bernard Robinson,2774,Driving Layup,2,34,26,LAYUPS,,2006
-Bernard Robinson,2774,Fadeaway Jump Shot,2,3,2,JUMP_SHOTS,,2006
-Bernard Robinson,2774,Finger Roll,2,4,4,LAYUPS,,2006
-Bernard Robinson,2774,Hook Shot,2,2,0,POST_MOVES,,2006
-Bernard Robinson,2774,Jump Shot,2,147,41,JUMP_SHOTS,,2006
-Bernard Robinson,2774,Reverse Layup,2,7,4,LAYUPS,,2006
-Bernard Robinson,2774,Running Hook Shot,2,3,1,POST_MOVES,,2006
-Bernard Robinson,2774,Running Jump Shot,2,3,1,JUMP_SHOTS,,2006
-Bernard Robinson,2774,Standard Dunk,2,14,13,DUNKS,,2006
-Bernard Robinson,2774,Standard Layup,2,132,57,LAYUPS,,2006
-Bernard Robinson,2774,Tip Shot,2,9,3,TIP_SHOTS,,2006
-Bernard Robinson,2774,Turnaround Jump Shot,2,4,3,JUMP_SHOTS,,2006
-Bernard Robinson,2774,Driving Layup,2,4,2,LAYUPS,,2007
-Bernard Robinson,2774,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2007
-Bernard Robinson,2774,Finger Roll,2,1,0,LAYUPS,,2007
-Bernard Robinson,2774,Jump Shot,2,28,4,JUMP_SHOTS,,2007
-Bernard Robinson,2774,Running Hook Shot,2,1,1,POST_MOVES,,2007
-Bernard Robinson,2774,Running Jump Shot,2,1,0,JUMP_SHOTS,,2007
-Bernard Robinson,2774,Standard Dunk,2,1,1,DUNKS,,2007
-Bernard Robinson,2774,Standard Layup,2,24,10,LAYUPS,,2007
-Bernard Robinson,2774,Tip Shot,2,1,1,TIP_SHOTS,,2007
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Bernard Robinson,2774,Driving Finger Roll Shot,2,2,2,Finger Roll,LAYUPS,2005
+Bernard Robinson,2774,Driving Layup Shot,2,5,4,Driving Layup,LAYUPS,2005
+Bernard Robinson,2774,Dunk Shot,2,3,3,Standard Dunk,DUNKS,2005
+Bernard Robinson,2774,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2005
+Bernard Robinson,2774,Jump Bank Shot,2,3,2,2PT Jump Shot,TWO_POINT_JUMPERS,2005
+Bernard Robinson,2774,Jump Shot,2,38,11,2PT Jump Shot,TWO_POINT_JUMPERS,2005
+Bernard Robinson,2774,Layup Shot,2,26,12,Standard Layup,LAYUPS,2005
+Bernard Robinson,2774,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2005
+Bernard Robinson,2774,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,2005
+Bernard Robinson,2774,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2006
+Bernard Robinson,2774,Driving Finger Roll Shot,2,3,3,Finger Roll,LAYUPS,2006
+Bernard Robinson,2774,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2006
+Bernard Robinson,2774,Driving Layup Shot,2,34,26,Driving Layup,LAYUPS,2006
+Bernard Robinson,2774,Dunk Shot,2,14,13,Standard Dunk,DUNKS,2006
+Bernard Robinson,2774,Fadeaway Jump Shot,2,3,2,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2006
+Bernard Robinson,2774,Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2006
+Bernard Robinson,2774,Hook Shot,2,2,0,Hook Shot,POST_MOVES,2006
+Bernard Robinson,2774,Jump Bank Shot,2,9,6,2PT Jump Shot,TWO_POINT_JUMPERS,2006
+Bernard Robinson,2774,Jump Shot,2,138,35,2PT Jump Shot,TWO_POINT_JUMPERS,2006
+Bernard Robinson,2774,Layup Shot,2,129,54,Standard Layup,LAYUPS,2006
+Bernard Robinson,2774,Reverse Layup Shot,2,7,4,Reverse Layup,LAYUPS,2006
+Bernard Robinson,2774,Running Hook Shot,2,3,1,Running Hook Shot,POST_MOVES,2006
+Bernard Robinson,2774,Running Jump Shot,2,3,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2006
+Bernard Robinson,2774,Running Layup Shot,2,3,3,Standard Layup,LAYUPS,2006
+Bernard Robinson,2774,Tip Shot,2,9,3,Tip Shot,TIP_SHOTS,2006
+Bernard Robinson,2774,Turnaround Jump Shot,2,4,3,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2006
+Bernard Robinson,2774,Driving Layup Shot,2,4,2,Driving Layup,LAYUPS,2007
+Bernard Robinson,2774,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2007
+Bernard Robinson,2774,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2007
+Bernard Robinson,2774,Finger Roll Shot,2,1,0,Finger Roll,LAYUPS,2007
+Bernard Robinson,2774,Jump Shot,2,28,4,2PT Jump Shot,TWO_POINT_JUMPERS,2007
+Bernard Robinson,2774,Layup Shot,2,24,10,Standard Layup,LAYUPS,2007
+Bernard Robinson,2774,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,2007
+Bernard Robinson,2774,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2007
+Bernard Robinson,2774,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2007

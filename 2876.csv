@@ -1,12 +1,14 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jared Reiner,2876,Hook Shot,2,3,1,POST_MOVES,,2005
-Jared Reiner,2876,Jump Shot,2,16,5,JUMP_SHOTS,,2005
-Jared Reiner,2876,Standard Layup,2,9,3,LAYUPS,,2005
-Jared Reiner,2876,Tip Shot,2,1,0,TIP_SHOTS,,2005
-Jared Reiner,2876,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2005
-Jared Reiner,2876,Hook Shot,2,6,2,POST_MOVES,,2007
-Jared Reiner,2876,Jump Shot,2,10,1,JUMP_SHOTS,,2007
-Jared Reiner,2876,Standard Dunk,2,3,3,DUNKS,,2007
-Jared Reiner,2876,Standard Layup,2,17,7,LAYUPS,,2007
-Jared Reiner,2876,Tip Shot,2,6,2,TIP_SHOTS,,2007
-Jared Reiner,2876,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2007
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Jared Reiner,2876,Hook Shot,2,3,1,Hook Shot,POST_MOVES,2005
+Jared Reiner,2876,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2005
+Jared Reiner,2876,Jump Shot,2,15,5,2PT Jump Shot,TWO_POINT_JUMPERS,2005
+Jared Reiner,2876,Layup Shot,2,9,3,Standard Layup,LAYUPS,2005
+Jared Reiner,2876,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2005
+Jared Reiner,2876,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2005
+Jared Reiner,2876,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2007
+Jared Reiner,2876,Hook Shot,2,6,2,Hook Shot,POST_MOVES,2007
+Jared Reiner,2876,Jump Shot,2,10,1,2PT Jump Shot,TWO_POINT_JUMPERS,2007
+Jared Reiner,2876,Layup Shot,2,17,7,Standard Layup,LAYUPS,2007
+Jared Reiner,2876,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2007
+Jared Reiner,2876,Tip Shot,2,6,2,Tip Shot,TIP_SHOTS,2007
+Jared Reiner,2876,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2007

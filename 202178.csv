@@ -1,31 +1,41 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Sundiata Gaines,202178,Driving Layup,2,8,4,LAYUPS,,2010
-Sundiata Gaines,202178,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2010
-Sundiata Gaines,202178,Floating Jump Shot,2,1,1,FLOATING_SHOTS,,2010
-Sundiata Gaines,202178,Jump Shot,2,52,18,JUMP_SHOTS,,2010
-Sundiata Gaines,202178,Running Jump Shot,2,6,5,JUMP_SHOTS,,2010
-Sundiata Gaines,202178,Standard Layup,2,13,9,LAYUPS,,2010
-Sundiata Gaines,202178,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2010
-Sundiata Gaines,202178,Driving Jump Shot,2,1,1,JUMP_SHOTS,,2011
-Sundiata Gaines,202178,Driving Layup,2,19,12,LAYUPS,,2011
-Sundiata Gaines,202178,Floating Jump Shot,2,3,1,FLOATING_SHOTS,,2011
-Sundiata Gaines,202178,Jump Shot,2,67,20,JUMP_SHOTS,,2011
-Sundiata Gaines,202178,Pullup Jump Shot,2,2,1,JUMP_SHOTS,,2011
-Sundiata Gaines,202178,Running Jump Shot,2,3,0,JUMP_SHOTS,,2011
-Sundiata Gaines,202178,Standard Layup,2,7,6,LAYUPS,,2011
-Sundiata Gaines,202178,Tip Shot,2,1,1,TIP_SHOTS,,2011
-Sundiata Gaines,202178,Turnaround Jump Shot,2,2,0,JUMP_SHOTS,,2011
-Sundiata Gaines,202178,Driving Jump Shot,2,2,1,JUMP_SHOTS,,2012
-Sundiata Gaines,202178,Driving Layup,2,36,12,LAYUPS,,2012
-Sundiata Gaines,202178,Fadeaway Jump Shot,2,3,1,JUMP_SHOTS,,2012
-Sundiata Gaines,202178,Finger Roll,2,1,1,LAYUPS,,2012
-Sundiata Gaines,202178,Floating Jump Shot,2,5,1,FLOATING_SHOTS,,2012
-Sundiata Gaines,202178,Jump Shot,2,166,61,JUMP_SHOTS,,2012
-Sundiata Gaines,202178,Pullup Jump Shot,2,4,1,JUMP_SHOTS,,2012
-Sundiata Gaines,202178,Reverse Layup,2,4,1,LAYUPS,,2012
-Sundiata Gaines,202178,Running Jump Shot,2,11,7,JUMP_SHOTS,,2012
-Sundiata Gaines,202178,Standard Dunk,2,1,1,DUNKS,,2012
-Sundiata Gaines,202178,Standard Layup,2,26,10,LAYUPS,,2012
-Sundiata Gaines,202178,Step Back Jump Shot,2,3,1,JUMP_SHOTS,,2012
-Sundiata Gaines,202178,Tip Shot,2,4,4,TIP_SHOTS,,2012
-Sundiata Gaines,202178,Turnaround Jump Shot,2,5,0,JUMP_SHOTS,,2012
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Sundiata Gaines,202178,Driving Layup Shot,2,8,4,Driving Layup,LAYUPS,2010
+Sundiata Gaines,202178,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2010
+Sundiata Gaines,202178,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2010
+Sundiata Gaines,202178,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2010
+Sundiata Gaines,202178,Jump Shot,2,51,17,2PT Jump Shot,TWO_POINT_JUMPERS,2010
+Sundiata Gaines,202178,Layup Shot,2,13,9,Standard Layup,LAYUPS,2010
+Sundiata Gaines,202178,Running Bank shot,2,2,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2010
+Sundiata Gaines,202178,Running Jump Shot,2,4,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2010
+Sundiata Gaines,202178,Turnaround Fadeaway shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2010
+Sundiata Gaines,202178,Driving Bank shot,2,1,1,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2011
+Sundiata Gaines,202178,Driving Layup Shot,2,15,9,Driving Layup,LAYUPS,2011
+Sundiata Gaines,202178,Driving Reverse Layup Shot,2,4,3,Driving Layup,LAYUPS,2011
+Sundiata Gaines,202178,Floating Jump shot,2,3,1,2PT Floating Jump Shot,FLOATING_SHOTS,2011
+Sundiata Gaines,202178,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Sundiata Gaines,202178,Jump Shot,2,66,19,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Sundiata Gaines,202178,Layup Shot,2,6,5,Standard Layup,LAYUPS,2011
+Sundiata Gaines,202178,Pullup Jump shot,2,2,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2011
+Sundiata Gaines,202178,Running Bank shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2011
+Sundiata Gaines,202178,Running Jump Shot,2,2,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2011
+Sundiata Gaines,202178,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2011
+Sundiata Gaines,202178,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2011
+Sundiata Gaines,202178,Turnaround Jump Shot,2,2,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2011
+Sundiata Gaines,202178,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2012
+Sundiata Gaines,202178,Driving Jump shot,2,2,1,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2012
+Sundiata Gaines,202178,Driving Layup Shot,2,33,11,Driving Layup,LAYUPS,2012
+Sundiata Gaines,202178,Driving Reverse Layup Shot,2,3,1,Driving Layup,LAYUPS,2012
+Sundiata Gaines,202178,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2012
+Sundiata Gaines,202178,Fadeaway Jump Shot,2,3,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2012
+Sundiata Gaines,202178,Floating Jump shot,2,5,1,2PT Floating Jump Shot,FLOATING_SHOTS,2012
+Sundiata Gaines,202178,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Sundiata Gaines,202178,Jump Shot,2,165,61,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Sundiata Gaines,202178,Layup Shot,2,26,10,Standard Layup,LAYUPS,2012
+Sundiata Gaines,202178,Pullup Jump shot,2,4,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2012
+Sundiata Gaines,202178,Reverse Layup Shot,2,3,1,Reverse Layup,LAYUPS,2012
+Sundiata Gaines,202178,Running Bank shot,2,3,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2012
+Sundiata Gaines,202178,Running Jump Shot,2,8,5,2PT Running Jump Shot,TWO_POINT_JUMPERS,2012
+Sundiata Gaines,202178,Running Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2012
+Sundiata Gaines,202178,Step Back Jump shot,2,3,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2012
+Sundiata Gaines,202178,Tip Shot,2,4,4,Tip Shot,TIP_SHOTS,2012
+Sundiata Gaines,202178,Turnaround Jump Shot,2,5,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2012

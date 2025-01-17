@@ -1,30 +1,40 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Mason Jones,1630222,Driving Layup,2,10,6,LAYUPS,,2021
-Mason Jones,1630222,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2021
-Mason Jones,1630222,Finger Roll,2,8,4,LAYUPS,,2021
-Mason Jones,1630222,Floating Jump Shot,2,9,5,FLOATING_SHOTS,,2021
-Mason Jones,1630222,Jump Shot,2,41,14,JUMP_SHOTS,,2021
-Mason Jones,1630222,Jump Shot,3,6,3,JUMP_SHOTS,,2021
-Mason Jones,1630222,Pullup Jump Shot,2,21,9,JUMP_SHOTS,,2021
-Mason Jones,1630222,Reverse Dunk,2,1,1,DUNKS,,2021
-Mason Jones,1630222,Reverse Layup,2,1,0,LAYUPS,,2021
-Mason Jones,1630222,Standard Layup,2,13,5,LAYUPS,,2021
-Mason Jones,1630222,Step Back Jump Shot,2,10,4,JUMP_SHOTS,,2021
-Mason Jones,1630222,Step Back Jump Shot,3,1,0,JUMP_SHOTS,,2021
-Mason Jones,1630222,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2021
-Mason Jones,1630222,Driving Layup,2,4,3,LAYUPS,,2022
-Mason Jones,1630222,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2022
-Mason Jones,1630222,Floating Jump Shot,2,1,1,FLOATING_SHOTS,,2022
-Mason Jones,1630222,Jump Shot,2,1,0,JUMP_SHOTS,,2022
-Mason Jones,1630222,Pullup Jump Shot,2,1,0,JUMP_SHOTS,,2022
-Mason Jones,1630222,Putback Layup,2,1,0,LAYUPS,,2022
-Mason Jones,1630222,Running Jump Shot,2,1,1,JUMP_SHOTS,,2022
-Mason Jones,1630222,Standard Layup,2,4,2,LAYUPS,,2022
-Mason Jones,1630222,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2022
-Mason Jones,1630222,Driving Layup,2,1,0,LAYUPS,,2024
-Mason Jones,1630222,Jump Shot,3,3,1,JUMP_SHOTS,,2024
-Mason Jones,1630222,Pullup Jump Shot,3,2,0,JUMP_SHOTS,,2024
-Mason Jones,1630222,Running Jump Shot,3,1,1,JUMP_SHOTS,,2024
-Mason Jones,1630222,Step Back Jump Shot,3,1,0,JUMP_SHOTS,,2024
-Mason Jones,1630222,Jump Shot,3,1,0,JUMP_SHOTS,,2025
-Mason Jones,1630222,Running Jump Shot,3,1,0,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Mason Jones,1630222,Cutting Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2021
+Mason Jones,1630222,Cutting Layup Shot,2,3,2,Standard Layup,LAYUPS,2021
+Mason Jones,1630222,Driving Finger Roll Layup Shot,2,5,3,Finger Roll,LAYUPS,2021
+Mason Jones,1630222,Driving Floating Bank Jump Shot,2,3,3,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Mason Jones,1630222,Driving Floating Jump Shot,2,2,0,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Mason Jones,1630222,Driving Layup Shot,2,8,4,Driving Layup,LAYUPS,2021
+Mason Jones,1630222,Driving Reverse Layup Shot,2,2,2,Driving Layup,LAYUPS,2021
+Mason Jones,1630222,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2021
+Mason Jones,1630222,Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2021
+Mason Jones,1630222,Floating Jump shot,2,4,2,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Mason Jones,1630222,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Mason Jones,1630222,Jump Shot,2,40,14,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Mason Jones,1630222,Jump Shot,3,6,3,3PT Jump Shot,THREE_POINT_JUMPERS,2021
+Mason Jones,1630222,Layup Shot,2,3,2,Standard Layup,LAYUPS,2021
+Mason Jones,1630222,Pullup Jump shot,2,21,9,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2021
+Mason Jones,1630222,Reverse Dunk Shot,2,1,1,Reverse Dunk,DUNKS,2021
+Mason Jones,1630222,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2021
+Mason Jones,1630222,Running Layup Shot,2,7,1,Standard Layup,LAYUPS,2021
+Mason Jones,1630222,Running Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2021
+Mason Jones,1630222,Step Back Jump shot,2,10,4,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2021
+Mason Jones,1630222,Step Back Jump shot,3,1,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2021
+Mason Jones,1630222,Turnaround Fadeaway Bank Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2021
+Mason Jones,1630222,Driving Floating Bank Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Mason Jones,1630222,Driving Layup Shot,2,4,3,Driving Layup,LAYUPS,2022
+Mason Jones,1630222,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2022
+Mason Jones,1630222,Jump Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2022
+Mason Jones,1630222,Layup Shot,2,2,1,Standard Layup,LAYUPS,2022
+Mason Jones,1630222,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2022
+Mason Jones,1630222,Putback Layup Shot,2,1,0,Putback Layup,LAYUPS,2022
+Mason Jones,1630222,Running Layup Shot,2,2,1,Standard Layup,LAYUPS,2022
+Mason Jones,1630222,Running Pull-Up Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2022
+Mason Jones,1630222,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2022
+Mason Jones,1630222,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2024
+Mason Jones,1630222,Jump Shot,3,3,1,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Mason Jones,1630222,Pullup Jump shot,3,2,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
+Mason Jones,1630222,Running Jump Shot,3,1,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Mason Jones,1630222,Step Back Jump shot,3,1,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
+Mason Jones,1630222,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Mason Jones,1630222,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025

@@ -1,45 +1,51 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Mitch Richmond,782,Driving Dunk,2,6,6,DUNKS,,1997
-Mitch Richmond,782,Driving Layup,2,135,99,LAYUPS,,1997
-Mitch Richmond,782,Hook Shot,2,7,4,POST_MOVES,,1997
-Mitch Richmond,782,Jump Shot,2,1172,494,JUMP_SHOTS,,1997
-Mitch Richmond,782,Running Jump Shot,2,43,26,JUMP_SHOTS,,1997
-Mitch Richmond,782,Standard Dunk,2,12,10,DUNKS,,1997
-Mitch Richmond,782,Standard Layup,2,196,76,LAYUPS,,1997
-Mitch Richmond,782,Tip Shot,2,7,2,TIP_SHOTS,,1997
-Mitch Richmond,782,Driving Dunk,2,1,1,DUNKS,,1998
-Mitch Richmond,782,Driving Layup,2,100,64,LAYUPS,,1998
-Mitch Richmond,782,Hook Shot,2,3,1,POST_MOVES,,1998
-Mitch Richmond,782,Jump Shot,2,970,386,JUMP_SHOTS,,1998
-Mitch Richmond,782,Running Jump Shot,2,35,25,JUMP_SHOTS,,1998
-Mitch Richmond,782,Standard Dunk,2,4,4,DUNKS,,1998
-Mitch Richmond,782,Standard Layup,2,104,60,LAYUPS,,1998
-Mitch Richmond,782,Tip Shot,2,3,2,TIP_SHOTS,,1998
-Mitch Richmond,782,Driving Dunk,2,2,2,DUNKS,,1999
-Mitch Richmond,782,Driving Layup,2,59,41,LAYUPS,,1999
-Mitch Richmond,782,Hook Shot,2,2,2,POST_MOVES,,1999
-Mitch Richmond,782,Jump Shot,2,615,216,JUMP_SHOTS,,1999
-Mitch Richmond,782,Running Jump Shot,2,18,12,JUMP_SHOTS,,1999
-Mitch Richmond,782,Standard Dunk,2,1,1,DUNKS,,1999
-Mitch Richmond,782,Standard Layup,2,103,55,LAYUPS,,1999
-Mitch Richmond,782,Tip Shot,2,3,2,TIP_SHOTS,,1999
-Mitch Richmond,782,Driving Dunk,2,2,2,DUNKS,,2000
-Mitch Richmond,782,Driving Layup,2,76,65,LAYUPS,,2000
-Mitch Richmond,782,Hook Shot,2,4,3,POST_MOVES,,2000
-Mitch Richmond,782,Jump Shot,2,831,308,JUMP_SHOTS,,2000
-Mitch Richmond,782,Running Jump Shot,2,33,26,JUMP_SHOTS,,2000
-Mitch Richmond,782,Standard Layup,2,103,43,LAYUPS,,2000
-Mitch Richmond,782,Driving Layup,2,16,11,LAYUPS,,2001
-Mitch Richmond,782,Jump Shot,2,432,161,JUMP_SHOTS,,2001
-Mitch Richmond,782,Running Jump Shot,2,21,14,JUMP_SHOTS,,2001
-Mitch Richmond,782,Standard Dunk,2,3,3,DUNKS,,2001
-Mitch Richmond,782,Standard Layup,2,31,16,LAYUPS,,2001
-Mitch Richmond,782,Tip Shot,2,1,0,TIP_SHOTS,,2001
-Mitch Richmond,782,Driving Layup,2,12,10,LAYUPS,,2002
-Mitch Richmond,782,Fadeaway Jump Shot,2,3,2,JUMP_SHOTS,,2002
-Mitch Richmond,782,Jump Shot,2,204,71,JUMP_SHOTS,,2002
-Mitch Richmond,782,Reverse Layup,2,4,4,LAYUPS,,2002
-Mitch Richmond,782,Running Jump Shot,2,3,3,JUMP_SHOTS,,2002
-Mitch Richmond,782,Standard Dunk,2,2,2,DUNKS,,2002
-Mitch Richmond,782,Standard Layup,2,17,7,LAYUPS,,2002
-Mitch Richmond,782,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2002
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Mitch Richmond,782,Driving Dunk Shot,2,6,6,Driving Dunk,DUNKS,1997
+Mitch Richmond,782,Driving Layup Shot,2,135,99,Driving Layup,LAYUPS,1997
+Mitch Richmond,782,Dunk Shot,2,8,6,Standard Dunk,DUNKS,1997
+Mitch Richmond,782,Hook Shot,2,7,4,Hook Shot,POST_MOVES,1997
+Mitch Richmond,782,Jump Shot,2,1172,494,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Mitch Richmond,782,Layup Shot,2,196,76,Standard Layup,LAYUPS,1997
+Mitch Richmond,782,Running Jump Shot,2,43,26,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
+Mitch Richmond,782,Slam Dunk Shot,2,4,4,Standard Dunk,DUNKS,1997
+Mitch Richmond,782,Tip Shot,2,7,2,Tip Shot,TIP_SHOTS,1997
+Mitch Richmond,782,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,1998
+Mitch Richmond,782,Driving Layup Shot,2,100,64,Driving Layup,LAYUPS,1998
+Mitch Richmond,782,Dunk Shot,2,2,2,Standard Dunk,DUNKS,1998
+Mitch Richmond,782,Hook Shot,2,3,1,Hook Shot,POST_MOVES,1998
+Mitch Richmond,782,Jump Shot,2,970,386,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+Mitch Richmond,782,Layup Shot,2,104,60,Standard Layup,LAYUPS,1998
+Mitch Richmond,782,Running Jump Shot,2,35,25,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
+Mitch Richmond,782,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,1998
+Mitch Richmond,782,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,1998
+Mitch Richmond,782,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,1999
+Mitch Richmond,782,Driving Layup Shot,2,59,41,Driving Layup,LAYUPS,1999
+Mitch Richmond,782,Hook Shot,2,2,2,Hook Shot,POST_MOVES,1999
+Mitch Richmond,782,Jump Shot,2,615,216,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Mitch Richmond,782,Layup Shot,2,103,55,Standard Layup,LAYUPS,1999
+Mitch Richmond,782,Running Jump Shot,2,18,12,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999
+Mitch Richmond,782,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,1999
+Mitch Richmond,782,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,1999
+Mitch Richmond,782,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2000
+Mitch Richmond,782,Driving Layup Shot,2,76,65,Driving Layup,LAYUPS,2000
+Mitch Richmond,782,Hook Shot,2,4,3,Hook Shot,POST_MOVES,2000
+Mitch Richmond,782,Jump Shot,2,831,308,2PT Jump Shot,TWO_POINT_JUMPERS,2000
+Mitch Richmond,782,Layup Shot,2,103,43,Standard Layup,LAYUPS,2000
+Mitch Richmond,782,Running Jump Shot,2,33,26,2PT Running Jump Shot,TWO_POINT_JUMPERS,2000
+Mitch Richmond,782,Driving Layup Shot,2,16,11,Driving Layup,LAYUPS,2001
+Mitch Richmond,782,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2001
+Mitch Richmond,782,Jump Shot,2,432,161,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Mitch Richmond,782,Layup Shot,2,31,16,Standard Layup,LAYUPS,2001
+Mitch Richmond,782,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2001
+Mitch Richmond,782,Running Jump Shot,2,21,14,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
+Mitch Richmond,782,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2001
+Mitch Richmond,782,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2001
+Mitch Richmond,782,Driving Layup Shot,2,12,10,Driving Layup,LAYUPS,2002
+Mitch Richmond,782,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2002
+Mitch Richmond,782,Fadeaway Jump Shot,2,3,2,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2002
+Mitch Richmond,782,Jump Shot,2,204,71,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Mitch Richmond,782,Layup Shot,2,16,6,Standard Layup,LAYUPS,2002
+Mitch Richmond,782,Reverse Layup Shot,2,4,4,Reverse Layup,LAYUPS,2002
+Mitch Richmond,782,Running Jump Shot,2,3,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2002
+Mitch Richmond,782,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2002
+Mitch Richmond,782,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2002
+Mitch Richmond,782,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2002

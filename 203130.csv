@@ -1,4 +1,4 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Darius Johnson-Odom,203130,Jump Shot,2,3,0,JUMP_SHOTS,,2013
-Darius Johnson-Odom,203130,Standard Layup,2,1,0,LAYUPS,,2013
-Darius Johnson-Odom,203130,Jump Shot,2,7,0,JUMP_SHOTS,,2014
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Darius Johnson-Odom,203130,Jump Shot,2,3,0,2PT Jump Shot,TWO_POINT_JUMPERS,2013
+Darius Johnson-Odom,203130,Layup Shot,2,1,0,Standard Layup,LAYUPS,2013
+Darius Johnson-Odom,203130,Jump Shot,2,7,0,2PT Jump Shot,TWO_POINT_JUMPERS,2014

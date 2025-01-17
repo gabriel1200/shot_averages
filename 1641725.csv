@@ -1,9 +1,9 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Trey Alexander,1641725,Driving Layup,2,1,0,LAYUPS,,2025
-Trey Alexander,1641725,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2025
-Trey Alexander,1641725,Floating Jump Shot,2,1,1,FLOATING_SHOTS,,2025
-Trey Alexander,1641725,Jump Shot,3,7,2,JUMP_SHOTS,,2025
-Trey Alexander,1641725,Pullup Jump Shot,2,3,0,JUMP_SHOTS,,2025
-Trey Alexander,1641725,Pullup Jump Shot,3,2,0,JUMP_SHOTS,,2025
-Trey Alexander,1641725,Standard Layup,2,1,0,LAYUPS,,2025
-Trey Alexander,1641725,Step Back Jump Shot,2,2,1,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Trey Alexander,1641725,Driving Floating Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Trey Alexander,1641725,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2025
+Trey Alexander,1641725,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
+Trey Alexander,1641725,Jump Shot,3,7,2,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Trey Alexander,1641725,Layup Shot,2,1,0,Standard Layup,LAYUPS,2025
+Trey Alexander,1641725,Pullup Jump shot,2,3,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
+Trey Alexander,1641725,Pullup Jump shot,3,2,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
+Trey Alexander,1641725,Step Back Jump shot,2,2,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2025

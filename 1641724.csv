@@ -1,31 +1,37 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jett Howard,1641724,Jump Shot,3,14,5,JUMP_SHOTS,,2024
-Jett Howard,1641724,Pullup Jump Shot,2,1,1,JUMP_SHOTS,,2024
-Jett Howard,1641724,Pullup Jump Shot,3,6,0,JUMP_SHOTS,,2024
-Jett Howard,1641724,Putback Layup,2,1,0,LAYUPS,,2024
-Jett Howard,1641724,Running Jump Shot,3,2,0,JUMP_SHOTS,,2024
-Jett Howard,1641724,Standard Layup,2,2,2,LAYUPS,,2024
-Jett Howard,1641724,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2024
-Jett Howard,1641724,Step Back Jump Shot,3,3,2,JUMP_SHOTS,,2024
-Jett Howard,1641724,Alley Oop Dunk,2,1,1,DUNKS,,2025
-Jett Howard,1641724,Alley Oop Layup,2,1,1,LAYUPS,,2025
-Jett Howard,1641724,Driving Dunk,2,1,1,DUNKS,,2025
-Jett Howard,1641724,Driving Hook Shot,2,1,1,POST_MOVES,,2025
-Jett Howard,1641724,Driving Layup,2,3,2,LAYUPS,,2025
-Jett Howard,1641724,Floating Jump Shot,2,5,1,FLOATING_SHOTS,,2025
-Jett Howard,1641724,Floating Jump Shot,3,1,0,FLOATING_SHOTS,,2025
-Jett Howard,1641724,Hook Shot,2,1,0,POST_MOVES,,2025
-Jett Howard,1641724,Jump Shot,2,1,1,JUMP_SHOTS,,2025
-Jett Howard,1641724,Jump Shot,3,76,25,JUMP_SHOTS,,2025
-Jett Howard,1641724,Pullup Jump Shot,2,11,5,JUMP_SHOTS,,2025
-Jett Howard,1641724,Pullup Jump Shot,3,17,1,JUMP_SHOTS,,2025
-Jett Howard,1641724,Putback Layup,2,4,2,LAYUPS,,2025
-Jett Howard,1641724,Reverse Layup,2,1,1,LAYUPS,,2025
-Jett Howard,1641724,Running Jump Shot,2,1,1,JUMP_SHOTS,,2025
-Jett Howard,1641724,Running Jump Shot,3,11,4,JUMP_SHOTS,,2025
-Jett Howard,1641724,Specialty Dunk,2,1,1,DUNKS,,2025
-Jett Howard,1641724,Standard Layup,2,9,5,LAYUPS,,2025
-Jett Howard,1641724,Step Back Jump Shot,2,4,3,JUMP_SHOTS,,2025
-Jett Howard,1641724,Step Back Jump Shot,3,8,4,JUMP_SHOTS,,2025
-Jett Howard,1641724,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2025
-Jett Howard,1641724,Turnaround Jump Shot,3,1,1,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Jett Howard,1641724,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2024
+Jett Howard,1641724,Jump Shot,3,14,5,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Jett Howard,1641724,Layup Shot,2,1,1,Standard Layup,LAYUPS,2024
+Jett Howard,1641724,Pullup Jump shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2024
+Jett Howard,1641724,Pullup Jump shot,3,6,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
+Jett Howard,1641724,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Jett Howard,1641724,Running Pull-Up Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Jett Howard,1641724,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2024
+Jett Howard,1641724,Step Back Jump shot,3,3,2,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
+Jett Howard,1641724,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2024
+Jett Howard,1641724,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2025
+Jett Howard,1641724,Cutting Layup Shot,2,3,2,Standard Layup,LAYUPS,2025
+Jett Howard,1641724,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2025
+Jett Howard,1641724,Driving Floating Jump Shot,2,4,0,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Jett Howard,1641724,Driving Floating Jump Shot,3,1,0,3PT Floating Jump Shot,FLOATING_SHOTS,2025
+Jett Howard,1641724,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2025
+Jett Howard,1641724,Driving Layup Shot,2,3,2,Driving Layup,LAYUPS,2025
+Jett Howard,1641724,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Jett Howard,1641724,Hook Bank Shot,2,1,0,Hook Shot,POST_MOVES,2025
+Jett Howard,1641724,Jump Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2025
+Jett Howard,1641724,Jump Shot,3,76,25,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Jett Howard,1641724,Pullup Jump shot,2,11,5,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
+Jett Howard,1641724,Pullup Jump shot,3,17,1,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
+Jett Howard,1641724,Putback Layup Shot,2,3,2,Putback Layup,LAYUPS,2025
+Jett Howard,1641724,Running Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2025
+Jett Howard,1641724,Running Alley Oop Layup Shot,2,1,1,Alley Oop Layup,LAYUPS,2025
+Jett Howard,1641724,Running Jump Shot,3,9,4,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Jett Howard,1641724,Running Layup Shot,2,6,3,Standard Layup,LAYUPS,2025
+Jett Howard,1641724,Running Pull-Up Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2025
+Jett Howard,1641724,Running Pull-Up Jump Shot,3,2,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Jett Howard,1641724,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2025
+Jett Howard,1641724,Step Back Jump shot,2,4,3,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2025
+Jett Howard,1641724,Step Back Jump shot,3,8,4,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
+Jett Howard,1641724,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2025
+Jett Howard,1641724,Turnaround Fadeaway shot,3,1,1,3PT Turnaround Jump Shot,THREE_POINT_JUMPERS,2025
+Jett Howard,1641724,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025

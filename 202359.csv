@@ -1,4 +1,5 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Darington Hobson,202359,Driving Layup,2,1,0,LAYUPS,,2012
-Darington Hobson,202359,Jump Shot,2,11,1,JUMP_SHOTS,,2012
-Darington Hobson,202359,Reverse Layup,2,1,1,LAYUPS,,2012
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Darington Hobson,202359,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2012
+Darington Hobson,202359,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Darington Hobson,202359,Jump Shot,2,10,1,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Darington Hobson,202359,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2012

@@ -1,60 +1,78 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jeff Adrien,202399,Alley Oop Layup,2,1,1,LAYUPS,,2011
-Jeff Adrien,202399,Driving Dunk,2,1,1,DUNKS,,2011
-Jeff Adrien,202399,Driving Layup,2,4,2,LAYUPS,,2011
-Jeff Adrien,202399,Hook Shot,2,1,1,POST_MOVES,,2011
-Jeff Adrien,202399,Jump Shot,2,15,2,JUMP_SHOTS,,2011
-Jeff Adrien,202399,Putback Dunk,2,1,1,DUNKS,,2011
-Jeff Adrien,202399,Putback Layup,2,1,1,LAYUPS,,2011
-Jeff Adrien,202399,Reverse Layup,2,3,2,LAYUPS,,2011
-Jeff Adrien,202399,Standard Dunk,2,3,3,DUNKS,,2011
-Jeff Adrien,202399,Standard Layup,2,15,5,LAYUPS,,2011
-Jeff Adrien,202399,Tip Shot,2,5,3,TIP_SHOTS,,2011
-Jeff Adrien,202399,Turnaround Hook Shot,2,4,1,POST_MOVES,,2011
-Jeff Adrien,202399,Jump Shot,2,10,4,JUMP_SHOTS,,2012
-Jeff Adrien,202399,Putback Dunk,2,1,1,DUNKS,,2012
-Jeff Adrien,202399,Putback Layup,2,2,2,LAYUPS,,2012
-Jeff Adrien,202399,Standard Dunk,2,1,0,DUNKS,,2012
-Jeff Adrien,202399,Standard Layup,2,2,0,LAYUPS,,2012
-Jeff Adrien,202399,Driving Jump Shot,2,3,3,JUMP_SHOTS,,2013
-Jeff Adrien,202399,Driving Layup,2,6,1,LAYUPS,,2013
-Jeff Adrien,202399,Fadeaway Jump Shot,2,4,3,JUMP_SHOTS,,2013
-Jeff Adrien,202399,Floating Jump Shot,2,1,1,FLOATING_SHOTS,,2013
-Jeff Adrien,202399,Hook Shot,2,6,2,POST_MOVES,,2013
-Jeff Adrien,202399,Jump Shot,2,89,30,JUMP_SHOTS,,2013
-Jeff Adrien,202399,Putback Dunk,2,2,2,DUNKS,,2013
-Jeff Adrien,202399,Putback Layup,2,4,4,LAYUPS,,2013
-Jeff Adrien,202399,Reverse Layup,2,4,3,LAYUPS,,2013
-Jeff Adrien,202399,Running Jump Shot,2,1,1,JUMP_SHOTS,,2013
-Jeff Adrien,202399,Standard Dunk,2,9,6,DUNKS,,2013
-Jeff Adrien,202399,Standard Layup,2,27,12,LAYUPS,,2013
-Jeff Adrien,202399,Tip Shot,2,10,4,TIP_SHOTS,,2013
-Jeff Adrien,202399,Turnaround Jump Shot,2,2,0,JUMP_SHOTS,,2013
-Jeff Adrien,202399,Alley Oop Dunk,2,3,3,DUNKS,,2014
-Jeff Adrien,202399,Driving Dunk,2,2,2,DUNKS,,2014
-Jeff Adrien,202399,Driving Jump Shot,2,1,0,JUMP_SHOTS,,2014
-Jeff Adrien,202399,Driving Layup,2,5,5,LAYUPS,,2014
-Jeff Adrien,202399,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2014
-Jeff Adrien,202399,Floating Jump Shot,2,2,2,FLOATING_SHOTS,,2014
-Jeff Adrien,202399,Hook Shot,2,18,7,POST_MOVES,,2014
-Jeff Adrien,202399,Jump Shot,2,87,30,JUMP_SHOTS,,2014
-Jeff Adrien,202399,Pullup Jump Shot,2,2,2,JUMP_SHOTS,,2014
-Jeff Adrien,202399,Putback Dunk,2,2,2,DUNKS,,2014
-Jeff Adrien,202399,Putback Layup,2,10,9,LAYUPS,,2014
-Jeff Adrien,202399,Reverse Layup,2,3,3,LAYUPS,,2014
-Jeff Adrien,202399,Standard Dunk,2,23,20,DUNKS,,2014
-Jeff Adrien,202399,Standard Layup,2,87,43,LAYUPS,,2014
-Jeff Adrien,202399,Step Back Jump Shot,2,1,1,JUMP_SHOTS,,2014
-Jeff Adrien,202399,Tip Shot,2,20,9,TIP_SHOTS,,2014
-Jeff Adrien,202399,Turnaround Hook Shot,2,3,2,POST_MOVES,,2014
-Jeff Adrien,202399,Turnaround Jump Shot,2,5,2,JUMP_SHOTS,,2014
-Jeff Adrien,202399,Driving Layup,2,3,2,LAYUPS,,2015
-Jeff Adrien,202399,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2015
-Jeff Adrien,202399,Jump Shot,2,16,4,JUMP_SHOTS,,2015
-Jeff Adrien,202399,Putback Layup,2,1,1,LAYUPS,,2015
-Jeff Adrien,202399,Reverse Layup,2,2,2,LAYUPS,,2015
-Jeff Adrien,202399,Standard Dunk,2,3,2,DUNKS,,2015
-Jeff Adrien,202399,Standard Layup,2,14,5,LAYUPS,,2015
-Jeff Adrien,202399,Step Back Jump Shot,2,1,1,JUMP_SHOTS,,2015
-Jeff Adrien,202399,Turnaround Hook Shot,2,1,1,POST_MOVES,,2015
-Jeff Adrien,202399,Turnaround Jump Shot,2,2,0,JUMP_SHOTS,,2015
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Jeff Adrien,202399,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2011
+Jeff Adrien,202399,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2011
+Jeff Adrien,202399,Driving Layup Shot,2,3,1,Driving Layup,LAYUPS,2011
+Jeff Adrien,202399,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2011
+Jeff Adrien,202399,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2011
+Jeff Adrien,202399,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2011
+Jeff Adrien,202399,Jump Shot,2,15,2,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Jeff Adrien,202399,Layup Shot,2,15,5,Standard Layup,LAYUPS,2011
+Jeff Adrien,202399,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2011
+Jeff Adrien,202399,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2011
+Jeff Adrien,202399,Reverse Layup Shot,2,3,2,Reverse Layup,LAYUPS,2011
+Jeff Adrien,202399,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,2011
+Jeff Adrien,202399,Tip Shot,2,5,3,Tip Shot,TIP_SHOTS,2011
+Jeff Adrien,202399,Turnaround Hook Shot,2,4,1,Turnaround Hook Shot,POST_MOVES,2011
+Jeff Adrien,202399,Dunk Shot,2,1,0,Standard Dunk,DUNKS,2012
+Jeff Adrien,202399,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Jeff Adrien,202399,Jump Shot,2,9,4,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Jeff Adrien,202399,Layup Shot,2,2,0,Standard Layup,LAYUPS,2012
+Jeff Adrien,202399,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2012
+Jeff Adrien,202399,Putback Layup Shot,2,2,2,Putback Layup,LAYUPS,2012
+Jeff Adrien,202399,Driving Bank shot,2,1,1,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2013
+Jeff Adrien,202399,Driving Jump shot,2,2,2,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2013
+Jeff Adrien,202399,Driving Layup Shot,2,6,1,Driving Layup,LAYUPS,2013
+Jeff Adrien,202399,Dunk Shot,2,7,4,Standard Dunk,DUNKS,2013
+Jeff Adrien,202399,Fadeaway Jump Shot,2,4,3,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2013
+Jeff Adrien,202399,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2013
+Jeff Adrien,202399,Hook Shot,2,2,0,Hook Shot,POST_MOVES,2013
+Jeff Adrien,202399,Jump Bank Shot,2,3,3,2PT Jump Shot,TWO_POINT_JUMPERS,2013
+Jeff Adrien,202399,Jump Hook Shot,2,4,2,Hook Shot,POST_MOVES,2013
+Jeff Adrien,202399,Jump Shot,2,86,27,2PT Jump Shot,TWO_POINT_JUMPERS,2013
+Jeff Adrien,202399,Layup Shot,2,27,12,Standard Layup,LAYUPS,2013
+Jeff Adrien,202399,Putback Dunk Shot,2,2,2,Putback Dunk,DUNKS,2013
+Jeff Adrien,202399,Putback Layup Shot,2,4,4,Putback Layup,LAYUPS,2013
+Jeff Adrien,202399,Reverse Layup Shot,2,4,3,Reverse Layup,LAYUPS,2013
+Jeff Adrien,202399,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2013
+Jeff Adrien,202399,Running Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2013
+Jeff Adrien,202399,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,2013
+Jeff Adrien,202399,Tip Shot,2,9,3,Tip Shot,TIP_SHOTS,2013
+Jeff Adrien,202399,Turnaround Jump Shot,2,2,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2013
+Jeff Adrien,202399,Alley Oop Dunk Shot,2,3,3,Alley Oop Dunk,DUNKS,2014
+Jeff Adrien,202399,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2014
+Jeff Adrien,202399,Driving Jump shot,2,1,0,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2014
+Jeff Adrien,202399,Driving Layup Shot,2,5,5,Driving Layup,LAYUPS,2014
+Jeff Adrien,202399,Driving Slam Dunk Shot,2,1,1,Driving Dunk,DUNKS,2014
+Jeff Adrien,202399,Dunk Shot,2,19,16,Standard Dunk,DUNKS,2014
+Jeff Adrien,202399,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2014
+Jeff Adrien,202399,Floating Jump shot,2,2,2,2PT Floating Jump Shot,FLOATING_SHOTS,2014
+Jeff Adrien,202399,Hook Shot,2,15,4,Hook Shot,POST_MOVES,2014
+Jeff Adrien,202399,Jump Bank Shot,2,5,4,2PT Jump Shot,TWO_POINT_JUMPERS,2014
+Jeff Adrien,202399,Jump Hook Shot,2,3,3,Hook Shot,POST_MOVES,2014
+Jeff Adrien,202399,Jump Shot,2,82,26,2PT Jump Shot,TWO_POINT_JUMPERS,2014
+Jeff Adrien,202399,Layup Shot,2,86,43,Standard Layup,LAYUPS,2014
+Jeff Adrien,202399,Pullup Jump shot,2,2,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2014
+Jeff Adrien,202399,Putback Layup Shot,2,10,9,Putback Layup,LAYUPS,2014
+Jeff Adrien,202399,Putback Slam Dunk Shot,2,2,2,Putback Dunk,DUNKS,2014
+Jeff Adrien,202399,Reverse Layup Shot,2,3,3,Reverse Layup,LAYUPS,2014
+Jeff Adrien,202399,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2014
+Jeff Adrien,202399,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2014
+Jeff Adrien,202399,Slam Dunk Shot,2,3,3,Standard Dunk,DUNKS,2014
+Jeff Adrien,202399,Step Back Jump shot,2,1,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2014
+Jeff Adrien,202399,Tip Shot,2,20,9,Tip Shot,TIP_SHOTS,2014
+Jeff Adrien,202399,Turnaround Bank shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2014
+Jeff Adrien,202399,Turnaround Fadeaway shot,2,2,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2014
+Jeff Adrien,202399,Turnaround Hook Shot,2,3,2,Turnaround Hook Shot,POST_MOVES,2014
+Jeff Adrien,202399,Turnaround Jump Shot,2,2,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2014
+Jeff Adrien,202399,Driving Layup Shot,2,3,2,Driving Layup,LAYUPS,2015
+Jeff Adrien,202399,Dunk Shot,2,3,2,Standard Dunk,DUNKS,2015
+Jeff Adrien,202399,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2015
+Jeff Adrien,202399,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2015
+Jeff Adrien,202399,Jump Shot,2,15,3,2PT Jump Shot,TWO_POINT_JUMPERS,2015
+Jeff Adrien,202399,Layup Shot,2,14,5,Standard Layup,LAYUPS,2015
+Jeff Adrien,202399,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2015
+Jeff Adrien,202399,Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2015
+Jeff Adrien,202399,Step Back Jump shot,2,1,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2015
+Jeff Adrien,202399,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2015
+Jeff Adrien,202399,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2015
+Jeff Adrien,202399,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2015

@@ -1,21 +1,21 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Brandon Armstrong,2220,Alley Oop Layup,2,1,1,LAYUPS,,2002
-Brandon Armstrong,2220,Driving Layup,2,1,0,LAYUPS,,2002
-Brandon Armstrong,2220,Fadeaway Jump Shot,2,2,0,JUMP_SHOTS,,2002
-Brandon Armstrong,2220,Jump Shot,2,69,23,JUMP_SHOTS,,2002
-Brandon Armstrong,2220,Running Jump Shot,2,2,1,JUMP_SHOTS,,2002
-Brandon Armstrong,2220,Standard Dunk,2,1,1,DUNKS,,2002
-Brandon Armstrong,2220,Standard Layup,2,6,1,LAYUPS,,2002
-Brandon Armstrong,2220,Tip Shot,2,2,0,TIP_SHOTS,,2002
-Brandon Armstrong,2220,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2002
-Brandon Armstrong,2220,Driving Layup,2,2,1,LAYUPS,,2003
-Brandon Armstrong,2220,Jump Shot,2,22,7,JUMP_SHOTS,,2003
-Brandon Armstrong,2220,Running Jump Shot,2,1,0,JUMP_SHOTS,,2003
-Brandon Armstrong,2220,Standard Layup,2,2,1,LAYUPS,,2003
-Brandon Armstrong,2220,Driving Layup,2,5,3,LAYUPS,,2004
-Brandon Armstrong,2220,Fadeaway Jump Shot,2,4,1,JUMP_SHOTS,,2004
-Brandon Armstrong,2220,Finger Roll,2,1,0,LAYUPS,,2004
-Brandon Armstrong,2220,Jump Shot,2,145,51,JUMP_SHOTS,,2004
-Brandon Armstrong,2220,Running Jump Shot,2,2,0,JUMP_SHOTS,,2004
-Brandon Armstrong,2220,Standard Layup,2,16,9,LAYUPS,,2004
-Brandon Armstrong,2220,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2004
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Brandon Armstrong,2220,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2002
+Brandon Armstrong,2220,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2002
+Brandon Armstrong,2220,Fadeaway Jump Shot,2,2,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2002
+Brandon Armstrong,2220,Jump Shot,2,69,23,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Brandon Armstrong,2220,Layup Shot,2,6,1,Standard Layup,LAYUPS,2002
+Brandon Armstrong,2220,Running Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2002
+Brandon Armstrong,2220,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2002
+Brandon Armstrong,2220,Tip Shot,2,2,0,Tip Shot,TIP_SHOTS,2002
+Brandon Armstrong,2220,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2002
+Brandon Armstrong,2220,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2003
+Brandon Armstrong,2220,Jump Shot,2,22,7,2PT Jump Shot,TWO_POINT_JUMPERS,2003
+Brandon Armstrong,2220,Layup Shot,2,2,1,Standard Layup,LAYUPS,2003
+Brandon Armstrong,2220,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2003
+Brandon Armstrong,2220,Driving Finger Roll Shot,2,1,0,Finger Roll,LAYUPS,2004
+Brandon Armstrong,2220,Driving Layup Shot,2,5,3,Driving Layup,LAYUPS,2004
+Brandon Armstrong,2220,Fadeaway Jump Shot,2,4,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2004
+Brandon Armstrong,2220,Jump Shot,2,145,51,2PT Jump Shot,TWO_POINT_JUMPERS,2004
+Brandon Armstrong,2220,Layup Shot,2,16,9,Standard Layup,LAYUPS,2004
+Brandon Armstrong,2220,Running Jump Shot,2,2,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2004
+Brandon Armstrong,2220,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2004

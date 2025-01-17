@@ -1,11 +1,11 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jamel Thomas,1975,Driving Layup,2,1,1,LAYUPS,,2000
-Jamel Thomas,1975,Jump Shot,2,15,5,JUMP_SHOTS,,2000
-Jamel Thomas,1975,Standard Dunk,2,1,1,DUNKS,,2000
-Jamel Thomas,1975,Standard Layup,2,1,1,LAYUPS,,2000
-Jamel Thomas,1975,Driving Layup,2,2,1,LAYUPS,,2001
-Jamel Thomas,1975,Jump Shot,2,11,2,JUMP_SHOTS,,2001
-Jamel Thomas,1975,Reverse Layup,2,2,2,LAYUPS,,2001
-Jamel Thomas,1975,Standard Layup,2,2,0,LAYUPS,,2001
-Jamel Thomas,1975,Tip Shot,2,1,1,TIP_SHOTS,,2001
-Jamel Thomas,1975,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2001
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Jamel Thomas,1975,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2000
+Jamel Thomas,1975,Jump Shot,2,15,5,2PT Jump Shot,TWO_POINT_JUMPERS,2000
+Jamel Thomas,1975,Layup Shot,2,1,1,Standard Layup,LAYUPS,2000
+Jamel Thomas,1975,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2000
+Jamel Thomas,1975,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2001
+Jamel Thomas,1975,Jump Shot,2,11,2,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Jamel Thomas,1975,Layup Shot,2,2,0,Standard Layup,LAYUPS,2001
+Jamel Thomas,1975,Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2001
+Jamel Thomas,1975,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2001
+Jamel Thomas,1975,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2001

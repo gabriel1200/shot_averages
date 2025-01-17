@@ -1,56 +1,91 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Malaki Branham,1631103,Alley Oop Layup,2,1,1,LAYUPS,,2023
-Malaki Branham,1631103,Driving Dunk,2,3,0,DUNKS,,2023
-Malaki Branham,1631103,Driving Hook Shot,2,2,0,POST_MOVES,,2023
-Malaki Branham,1631103,Driving Layup,2,62,28,LAYUPS,,2023
-Malaki Branham,1631103,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2023
-Malaki Branham,1631103,Finger Roll,2,22,15,LAYUPS,,2023
-Malaki Branham,1631103,Floating Jump Shot,2,74,44,FLOATING_SHOTS,,2023
-Malaki Branham,1631103,Hook Shot,2,1,1,POST_MOVES,,2023
-Malaki Branham,1631103,Jump Shot,2,205,63,JUMP_SHOTS,,2023
-Malaki Branham,1631103,Jump Shot,3,1,1,JUMP_SHOTS,,2023
-Malaki Branham,1631103,Pullup Jump Shot,2,143,65,JUMP_SHOTS,,2023
-Malaki Branham,1631103,Putback Layup,2,5,5,LAYUPS,,2023
-Malaki Branham,1631103,Reverse Layup,2,7,6,LAYUPS,,2023
-Malaki Branham,1631103,Running Jump Shot,2,25,8,JUMP_SHOTS,,2023
-Malaki Branham,1631103,Specialty Dunk,2,8,8,DUNKS,,2023
-Malaki Branham,1631103,Standard Dunk,2,1,1,DUNKS,,2023
-Malaki Branham,1631103,Standard Layup,2,34,21,LAYUPS,,2023
-Malaki Branham,1631103,Step Back Jump Shot,2,8,0,JUMP_SHOTS,,2023
-Malaki Branham,1631103,Turnaround Jump Shot,2,8,2,JUMP_SHOTS,,2023
-Malaki Branham,1631103,Alley Oop Layup,2,1,1,LAYUPS,,2024
-Malaki Branham,1631103,Driving Dunk,2,1,1,DUNKS,,2024
-Malaki Branham,1631103,Driving Hook Shot,2,3,1,POST_MOVES,,2024
-Malaki Branham,1631103,Driving Layup,2,51,27,LAYUPS,,2024
-Malaki Branham,1631103,Fadeaway Jump Shot,2,2,0,JUMP_SHOTS,,2024
-Malaki Branham,1631103,Finger Roll,2,34,19,LAYUPS,,2024
-Malaki Branham,1631103,Floating Jump Shot,2,70,34,FLOATING_SHOTS,,2024
-Malaki Branham,1631103,Jump Shot,2,14,5,JUMP_SHOTS,,2024
-Malaki Branham,1631103,Jump Shot,3,197,75,JUMP_SHOTS,,2024
-Malaki Branham,1631103,Pullup Jump Shot,2,92,34,JUMP_SHOTS,,2024
-Malaki Branham,1631103,Pullup Jump Shot,3,25,6,JUMP_SHOTS,,2024
-Malaki Branham,1631103,Putback Layup,2,3,3,LAYUPS,,2024
-Malaki Branham,1631103,Reverse Layup,2,6,5,LAYUPS,,2024
-Malaki Branham,1631103,Running Jump Shot,2,5,0,JUMP_SHOTS,,2024
-Malaki Branham,1631103,Running Jump Shot,3,35,10,JUMP_SHOTS,,2024
-Malaki Branham,1631103,Specialty Dunk,2,6,6,DUNKS,,2024
-Malaki Branham,1631103,Standard Dunk,2,5,5,DUNKS,,2024
-Malaki Branham,1631103,Standard Layup,2,54,33,LAYUPS,,2024
-Malaki Branham,1631103,Step Back Jump Shot,2,5,2,JUMP_SHOTS,,2024
-Malaki Branham,1631103,Step Back Jump Shot,3,11,2,JUMP_SHOTS,,2024
-Malaki Branham,1631103,Turnaround Hook Shot,2,2,0,POST_MOVES,,2024
-Malaki Branham,1631103,Turnaround Jump Shot,2,6,2,JUMP_SHOTS,,2024
-Malaki Branham,1631103,Driving Dunk,2,1,0,DUNKS,,2025
-Malaki Branham,1631103,Driving Hook Shot,2,1,0,POST_MOVES,,2025
-Malaki Branham,1631103,Driving Layup,2,11,6,LAYUPS,,2025
-Malaki Branham,1631103,Fadeaway Jump Shot,2,2,1,JUMP_SHOTS,,2025
-Malaki Branham,1631103,Finger Roll,2,10,8,LAYUPS,,2025
-Malaki Branham,1631103,Floating Jump Shot,2,9,2,FLOATING_SHOTS,,2025
-Malaki Branham,1631103,Jump Shot,2,1,0,JUMP_SHOTS,,2025
-Malaki Branham,1631103,Jump Shot,3,35,13,JUMP_SHOTS,,2025
-Malaki Branham,1631103,Pullup Jump Shot,2,17,8,JUMP_SHOTS,,2025
-Malaki Branham,1631103,Pullup Jump Shot,3,6,4,JUMP_SHOTS,,2025
-Malaki Branham,1631103,Running Jump Shot,3,5,1,JUMP_SHOTS,,2025
-Malaki Branham,1631103,Specialty Dunk,2,1,1,DUNKS,,2025
-Malaki Branham,1631103,Standard Layup,2,5,2,LAYUPS,,2025
-Malaki Branham,1631103,Step Back Jump Shot,3,2,1,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Malaki Branham,1631103,Cutting Dunk Shot,2,8,8,Specialty Dunk,DUNKS,2023
+Malaki Branham,1631103,Cutting Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2023
+Malaki Branham,1631103,Cutting Layup Shot,2,15,12,Standard Layup,LAYUPS,2023
+Malaki Branham,1631103,Driving Dunk Shot,2,3,0,Driving Dunk,DUNKS,2023
+Malaki Branham,1631103,Driving Finger Roll Layup Shot,2,17,10,Finger Roll,LAYUPS,2023
+Malaki Branham,1631103,Driving Floating Bank Jump Shot,2,11,10,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Malaki Branham,1631103,Driving Floating Jump Shot,2,42,21,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Malaki Branham,1631103,Driving Hook Shot,2,2,0,Driving Hook Shot,POST_MOVES,2023
+Malaki Branham,1631103,Driving Layup Shot,2,53,23,Driving Layup,LAYUPS,2023
+Malaki Branham,1631103,Driving Reverse Layup Shot,2,9,5,Driving Layup,LAYUPS,2023
+Malaki Branham,1631103,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2023
+Malaki Branham,1631103,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2023
+Malaki Branham,1631103,Floating Jump shot,2,21,13,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Malaki Branham,1631103,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2023
+Malaki Branham,1631103,Jump Bank Shot,2,2,1,2PT Jump Shot,TWO_POINT_JUMPERS,2023
+Malaki Branham,1631103,Jump Shot,2,203,62,2PT Jump Shot,TWO_POINT_JUMPERS,2023
+Malaki Branham,1631103,Jump Shot,3,1,1,3PT Jump Shot,THREE_POINT_JUMPERS,2023
+Malaki Branham,1631103,Layup Shot,2,2,1,Standard Layup,LAYUPS,2023
+Malaki Branham,1631103,Pullup Jump shot,2,143,65,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2023
+Malaki Branham,1631103,Putback Layup Shot,2,5,5,Putback Layup,LAYUPS,2023
+Malaki Branham,1631103,Reverse Layup Shot,2,5,4,Reverse Layup,LAYUPS,2023
+Malaki Branham,1631103,Running Alley Oop Layup Shot,2,1,1,Alley Oop Layup,LAYUPS,2023
+Malaki Branham,1631103,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2023
+Malaki Branham,1631103,Running Finger Roll Layup Shot,2,3,3,Finger Roll,LAYUPS,2023
+Malaki Branham,1631103,Running Jump Shot,2,16,7,2PT Running Jump Shot,TWO_POINT_JUMPERS,2023
+Malaki Branham,1631103,Running Layup Shot,2,17,8,Standard Layup,LAYUPS,2023
+Malaki Branham,1631103,Running Pull-Up Jump Shot,2,9,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2023
+Malaki Branham,1631103,Running Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2023
+Malaki Branham,1631103,Step Back Jump shot,2,8,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2023
+Malaki Branham,1631103,Turnaround Bank shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2023
+Malaki Branham,1631103,Turnaround Fadeaway shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2023
+Malaki Branham,1631103,Turnaround Jump Shot,2,5,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2023
+Malaki Branham,1631103,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2024
+Malaki Branham,1631103,Cutting Dunk Shot,2,6,6,Specialty Dunk,DUNKS,2024
+Malaki Branham,1631103,Cutting Finger Roll Layup Shot,2,2,0,Finger Roll,LAYUPS,2024
+Malaki Branham,1631103,Cutting Layup Shot,2,28,22,Standard Layup,LAYUPS,2024
+Malaki Branham,1631103,Driving Bank Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2024
+Malaki Branham,1631103,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2024
+Malaki Branham,1631103,Driving Finger Roll Layup Shot,2,27,15,Finger Roll,LAYUPS,2024
+Malaki Branham,1631103,Driving Floating Bank Jump Shot,2,13,7,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Malaki Branham,1631103,Driving Floating Jump Shot,2,43,23,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Malaki Branham,1631103,Driving Hook Shot,2,2,0,Driving Hook Shot,POST_MOVES,2024
+Malaki Branham,1631103,Driving Layup Shot,2,44,23,Driving Layup,LAYUPS,2024
+Malaki Branham,1631103,Driving Reverse Layup Shot,2,7,4,Driving Layup,LAYUPS,2024
+Malaki Branham,1631103,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2024
+Malaki Branham,1631103,Fadeaway Jump Shot,2,2,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
+Malaki Branham,1631103,Floating Jump shot,2,14,4,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Malaki Branham,1631103,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2024
+Malaki Branham,1631103,Jump Shot,2,13,5,2PT Jump Shot,TWO_POINT_JUMPERS,2024
+Malaki Branham,1631103,Jump Shot,3,197,75,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Malaki Branham,1631103,Layup Shot,2,7,4,Standard Layup,LAYUPS,2024
+Malaki Branham,1631103,Pullup Jump shot,2,92,34,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2024
+Malaki Branham,1631103,Pullup Jump shot,3,25,6,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
+Malaki Branham,1631103,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2024
+Malaki Branham,1631103,Reverse Layup Shot,2,3,2,Reverse Layup,LAYUPS,2024
+Malaki Branham,1631103,Running Dunk Shot,2,4,4,Standard Dunk,DUNKS,2024
+Malaki Branham,1631103,Running Finger Roll Layup Shot,2,5,4,Finger Roll,LAYUPS,2024
+Malaki Branham,1631103,Running Jump Shot,3,27,7,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Malaki Branham,1631103,Running Layup Shot,2,19,7,Standard Layup,LAYUPS,2024
+Malaki Branham,1631103,Running Pull-Up Jump Shot,2,5,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2024
+Malaki Branham,1631103,Running Pull-Up Jump Shot,3,8,3,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Malaki Branham,1631103,Running Reverse Layup Shot,2,3,3,Reverse Layup,LAYUPS,2024
+Malaki Branham,1631103,Step Back Jump shot,2,5,2,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2024
+Malaki Branham,1631103,Step Back Jump shot,3,11,2,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
+Malaki Branham,1631103,Tip Layup Shot,2,2,2,Putback Layup,LAYUPS,2024
+Malaki Branham,1631103,Turnaround Bank shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Malaki Branham,1631103,Turnaround Hook Shot,2,2,0,Turnaround Hook Shot,POST_MOVES,2024
+Malaki Branham,1631103,Turnaround Jump Shot,2,5,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Malaki Branham,1631103,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2025
+Malaki Branham,1631103,Cutting Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2025
+Malaki Branham,1631103,Cutting Layup Shot,2,3,2,Standard Layup,LAYUPS,2025
+Malaki Branham,1631103,Driving Bank Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2025
+Malaki Branham,1631103,Driving Dunk Shot,2,1,0,Driving Dunk,DUNKS,2025
+Malaki Branham,1631103,Driving Finger Roll Layup Shot,2,7,5,Finger Roll,LAYUPS,2025
+Malaki Branham,1631103,Driving Floating Bank Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Malaki Branham,1631103,Driving Floating Jump Shot,2,6,0,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Malaki Branham,1631103,Driving Layup Shot,2,9,4,Driving Layup,LAYUPS,2025
+Malaki Branham,1631103,Driving Reverse Layup Shot,2,2,2,Driving Layup,LAYUPS,2025
+Malaki Branham,1631103,Fadeaway Jump Shot,2,2,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
+Malaki Branham,1631103,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2025
+Malaki Branham,1631103,Floating Jump shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Malaki Branham,1631103,Jump Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2025
+Malaki Branham,1631103,Jump Shot,3,35,13,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Malaki Branham,1631103,Pullup Jump shot,2,17,8,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
+Malaki Branham,1631103,Pullup Jump shot,3,6,4,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
+Malaki Branham,1631103,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2025
+Malaki Branham,1631103,Running Jump Shot,3,3,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Malaki Branham,1631103,Running Layup Shot,2,2,0,Standard Layup,LAYUPS,2025
+Malaki Branham,1631103,Running Pull-Up Jump Shot,3,2,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Malaki Branham,1631103,Step Back Jump shot,3,2,1,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025

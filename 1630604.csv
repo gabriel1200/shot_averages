@@ -1,6 +1,6 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-E.J. Liddell,1630604,Driving Dunk,2,1,1,DUNKS,,2024
-E.J. Liddell,1630604,Jump Shot,3,5,0,JUMP_SHOTS,,2024
-E.J. Liddell,1630604,Floating Jump Shot,2,2,2,FLOATING_SHOTS,,2025
-E.J. Liddell,1630604,Jump Shot,3,5,3,JUMP_SHOTS,,2025
-E.J. Liddell,1630604,Pullup Jump Shot,3,1,0,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+E.J. Liddell,1630604,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2024
+E.J. Liddell,1630604,Jump Shot,3,5,0,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+E.J. Liddell,1630604,Floating Jump shot,2,2,2,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+E.J. Liddell,1630604,Jump Shot,3,5,3,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+E.J. Liddell,1630604,Pullup Jump shot,3,1,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025

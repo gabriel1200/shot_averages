@@ -1,15 +1,23 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Brandon Paul,203464,Driving Dunk,2,2,1,DUNKS,,2018
-Brandon Paul,203464,Driving Layup,2,11,5,LAYUPS,,2018
-Brandon Paul,203464,Finger Roll,2,11,8,LAYUPS,,2018
-Brandon Paul,203464,Floating Jump Shot,2,2,2,FLOATING_SHOTS,,2018
-Brandon Paul,203464,Jump Shot,2,54,17,JUMP_SHOTS,,2018
-Brandon Paul,203464,Pullup Jump Shot,2,11,1,JUMP_SHOTS,,2018
-Brandon Paul,203464,Putback Layup,2,3,2,LAYUPS,,2018
-Brandon Paul,203464,Reverse Layup,2,3,1,LAYUPS,,2018
-Brandon Paul,203464,Running Jump Shot,2,2,0,JUMP_SHOTS,,2018
-Brandon Paul,203464,Specialty Dunk,2,5,4,DUNKS,,2018
-Brandon Paul,203464,Standard Dunk,2,5,4,DUNKS,,2018
-Brandon Paul,203464,Standard Layup,2,13,10,LAYUPS,,2018
-Brandon Paul,203464,Step Back Jump Shot,2,4,0,JUMP_SHOTS,,2018
-Brandon Paul,203464,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2018
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Brandon Paul,203464,Cutting Dunk Shot,2,4,4,Specialty Dunk,DUNKS,2018
+Brandon Paul,203464,Cutting Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2018
+Brandon Paul,203464,Cutting Layup Shot,2,3,3,Standard Layup,LAYUPS,2018
+Brandon Paul,203464,Driving Dunk Shot,2,2,1,Driving Dunk,DUNKS,2018
+Brandon Paul,203464,Driving Finger Roll Layup Shot,2,9,6,Finger Roll,LAYUPS,2018
+Brandon Paul,203464,Driving Floating Bank Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Brandon Paul,203464,Driving Floating Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Brandon Paul,203464,Driving Layup Shot,2,11,5,Driving Layup,LAYUPS,2018
+Brandon Paul,203464,Dunk Shot,2,4,3,Standard Dunk,DUNKS,2018
+Brandon Paul,203464,Jump Shot,2,54,17,2PT Jump Shot,TWO_POINT_JUMPERS,2018
+Brandon Paul,203464,Layup Shot,2,5,3,Standard Layup,LAYUPS,2018
+Brandon Paul,203464,Pullup Jump shot,2,11,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2018
+Brandon Paul,203464,Putback Layup Shot,2,2,2,Putback Layup,LAYUPS,2018
+Brandon Paul,203464,Reverse Layup Shot,2,3,1,Reverse Layup,LAYUPS,2018
+Brandon Paul,203464,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2018
+Brandon Paul,203464,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2018
+Brandon Paul,203464,Running Jump Shot,2,2,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2018
+Brandon Paul,203464,Running Layup Shot,2,5,4,Standard Layup,LAYUPS,2018
+Brandon Paul,203464,Step Back Jump shot,2,4,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2018
+Brandon Paul,203464,Tip Dunk Shot,2,1,0,Specialty Dunk,DUNKS,2018
+Brandon Paul,203464,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2018
+Brandon Paul,203464,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2018

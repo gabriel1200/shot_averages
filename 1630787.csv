@@ -1,8 +1,9 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Cameron McGriff,1630787,Driving Layup,2,1,1,LAYUPS,,2022
-Cameron McGriff,1630787,Floating Jump Shot,2,2,0,FLOATING_SHOTS,,2022
-Cameron McGriff,1630787,Jump Shot,2,5,1,JUMP_SHOTS,,2022
-Cameron McGriff,1630787,Pullup Jump Shot,2,2,1,JUMP_SHOTS,,2022
-Cameron McGriff,1630787,Putback Layup,2,2,1,LAYUPS,,2022
-Cameron McGriff,1630787,Reverse Layup,2,1,1,LAYUPS,,2022
-Cameron McGriff,1630787,Standard Layup,2,1,0,LAYUPS,,2022
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Cameron McGriff,1630787,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Cameron McGriff,1630787,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Cameron McGriff,1630787,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2022
+Cameron McGriff,1630787,Jump Shot,2,5,1,2PT Jump Shot,TWO_POINT_JUMPERS,2022
+Cameron McGriff,1630787,Pullup Jump shot,2,2,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2022
+Cameron McGriff,1630787,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2022
+Cameron McGriff,1630787,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2022
+Cameron McGriff,1630787,Tip Layup Shot,2,2,1,Putback Layup,LAYUPS,2022

@@ -1,20 +1,24 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Lazar Hayward,202351,Driving Layup,2,6,4,LAYUPS,,2011
-Lazar Hayward,202351,Hook Shot,2,2,1,POST_MOVES,,2011
-Lazar Hayward,202351,Jump Shot,2,109,31,JUMP_SHOTS,,2011
-Lazar Hayward,202351,Putback Layup,2,3,3,LAYUPS,,2011
-Lazar Hayward,202351,Running Jump Shot,2,3,1,JUMP_SHOTS,,2011
-Lazar Hayward,202351,Standard Layup,2,25,11,LAYUPS,,2011
-Lazar Hayward,202351,Tip Shot,2,3,2,TIP_SHOTS,,2011
-Lazar Hayward,202351,Turnaround Jump Shot,2,3,2,JUMP_SHOTS,,2011
-Lazar Hayward,202351,Driving Layup,2,3,1,LAYUPS,,2012
-Lazar Hayward,202351,Floating Jump Shot,2,3,1,FLOATING_SHOTS,,2012
-Lazar Hayward,202351,Jump Shot,2,24,8,JUMP_SHOTS,,2012
-Lazar Hayward,202351,Pullup Jump Shot,2,2,0,JUMP_SHOTS,,2012
-Lazar Hayward,202351,Standard Dunk,2,2,2,DUNKS,,2012
-Lazar Hayward,202351,Standard Layup,2,1,1,LAYUPS,,2012
-Lazar Hayward,202351,Step Back Jump Shot,2,2,0,JUMP_SHOTS,,2012
-Lazar Hayward,202351,Tip Shot,2,1,0,TIP_SHOTS,,2012
-Lazar Hayward,202351,Driving Layup,2,1,1,LAYUPS,,2013
-Lazar Hayward,202351,Jump Shot,2,8,0,JUMP_SHOTS,,2013
-Lazar Hayward,202351,Standard Layup,2,1,1,LAYUPS,,2013
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Lazar Hayward,202351,Driving Layup Shot,2,5,4,Driving Layup,LAYUPS,2011
+Lazar Hayward,202351,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2011
+Lazar Hayward,202351,Hook Shot,2,2,1,Hook Shot,POST_MOVES,2011
+Lazar Hayward,202351,Jump Shot,2,109,31,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Lazar Hayward,202351,Layup Shot,2,24,11,Standard Layup,LAYUPS,2011
+Lazar Hayward,202351,Putback Layup Shot,2,3,3,Putback Layup,LAYUPS,2011
+Lazar Hayward,202351,Running Jump Shot,2,3,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2011
+Lazar Hayward,202351,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2011
+Lazar Hayward,202351,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,2011
+Lazar Hayward,202351,Turnaround Bank shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2011
+Lazar Hayward,202351,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2011
+Lazar Hayward,202351,Driving Layup Shot,2,3,1,Driving Layup,LAYUPS,2012
+Lazar Hayward,202351,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2012
+Lazar Hayward,202351,Floating Jump shot,2,3,1,2PT Floating Jump Shot,FLOATING_SHOTS,2012
+Lazar Hayward,202351,Jump Shot,2,24,8,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Lazar Hayward,202351,Layup Shot,2,1,1,Standard Layup,LAYUPS,2012
+Lazar Hayward,202351,Pullup Jump shot,2,2,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2012
+Lazar Hayward,202351,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2012
+Lazar Hayward,202351,Step Back Jump shot,2,2,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2012
+Lazar Hayward,202351,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2012
+Lazar Hayward,202351,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2013
+Lazar Hayward,202351,Jump Shot,2,8,0,2PT Jump Shot,TWO_POINT_JUMPERS,2013
+Lazar Hayward,202351,Layup Shot,2,1,1,Standard Layup,LAYUPS,2013

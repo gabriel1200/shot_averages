@@ -1,14 +1,16 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jemerrio Jones,1629203,Driving Layup,2,1,0,LAYUPS,,2019
-Jemerrio Jones,1629203,Finger Roll,2,2,2,LAYUPS,,2019
-Jemerrio Jones,1629203,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2019
-Jemerrio Jones,1629203,Jump Shot,2,10,2,JUMP_SHOTS,,2019
-Jemerrio Jones,1629203,Pullup Jump Shot,2,3,0,JUMP_SHOTS,,2019
-Jemerrio Jones,1629203,Putback Layup,2,7,3,LAYUPS,,2019
-Jemerrio Jones,1629203,Reverse Layup,2,1,1,LAYUPS,,2019
-Jemerrio Jones,1629203,Specialty Dunk,2,1,1,DUNKS,,2019
-Jemerrio Jones,1629203,Standard Layup,2,6,3,LAYUPS,,2019
-Jemerrio Jones,1629203,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2019
-Jemerrio Jones,1629203,Putback Layup,2,1,1,LAYUPS,,2022
-Jemerrio Jones,1629203,Standard Layup,2,1,1,LAYUPS,,2022
-Jemerrio Jones,1629203,Turnaround Hook Shot,2,1,0,POST_MOVES,,2022
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Jemerrio Jones,1629203,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2019
+Jemerrio Jones,1629203,Cutting Layup Shot,2,2,1,Standard Layup,LAYUPS,2019
+Jemerrio Jones,1629203,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2019
+Jemerrio Jones,1629203,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2019
+Jemerrio Jones,1629203,Jump Shot,2,10,2,2PT Jump Shot,TWO_POINT_JUMPERS,2019
+Jemerrio Jones,1629203,Layup Shot,2,4,2,Standard Layup,LAYUPS,2019
+Jemerrio Jones,1629203,Pullup Jump shot,2,3,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2019
+Jemerrio Jones,1629203,Putback Layup Shot,2,3,1,Putback Layup,LAYUPS,2019
+Jemerrio Jones,1629203,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2019
+Jemerrio Jones,1629203,Running Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2019
+Jemerrio Jones,1629203,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2019
+Jemerrio Jones,1629203,Tip Layup Shot,2,4,2,Putback Layup,LAYUPS,2019
+Jemerrio Jones,1629203,Layup Shot,2,1,1,Standard Layup,LAYUPS,2022
+Jemerrio Jones,1629203,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2022
+Jemerrio Jones,1629203,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2022

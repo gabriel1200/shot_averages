@@ -1,39 +1,54 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Moussa Diabate,1631217,Driving Dunk,2,1,1,DUNKS,,2023
-Moussa Diabate,1631217,Driving Layup,2,2,1,LAYUPS,,2023
-Moussa Diabate,1631217,Finger Roll,2,1,1,LAYUPS,,2023
-Moussa Diabate,1631217,Floating Jump Shot,2,3,0,FLOATING_SHOTS,,2023
-Moussa Diabate,1631217,Hook Shot,2,3,3,POST_MOVES,,2023
-Moussa Diabate,1631217,Jump Shot,2,3,1,JUMP_SHOTS,,2023
-Moussa Diabate,1631217,Putback Layup,2,15,6,LAYUPS,,2023
-Moussa Diabate,1631217,Reverse Layup,2,1,1,LAYUPS,,2023
-Moussa Diabate,1631217,Running Jump Shot,2,1,0,JUMP_SHOTS,,2023
-Moussa Diabate,1631217,Specialty Dunk,2,2,2,DUNKS,,2023
-Moussa Diabate,1631217,Standard Dunk,2,4,4,DUNKS,,2023
-Moussa Diabate,1631217,Standard Layup,2,10,3,LAYUPS,,2023
-Moussa Diabate,1631217,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2023
-Moussa Diabate,1631217,Alley Oop Dunk,2,1,0,DUNKS,,2024
-Moussa Diabate,1631217,Driving Layup,2,1,0,LAYUPS,,2024
-Moussa Diabate,1631217,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2024
-Moussa Diabate,1631217,Floating Jump Shot,2,2,1,FLOATING_SHOTS,,2024
-Moussa Diabate,1631217,Putback Layup,2,6,5,LAYUPS,,2024
-Moussa Diabate,1631217,Specialty Dunk,2,3,2,DUNKS,,2024
-Moussa Diabate,1631217,Standard Dunk,2,2,2,DUNKS,,2024
-Moussa Diabate,1631217,Standard Layup,2,3,0,LAYUPS,,2024
-Moussa Diabate,1631217,Alley Oop Dunk,2,3,2,DUNKS,,2025
-Moussa Diabate,1631217,Alley Oop Layup,2,1,1,LAYUPS,,2025
-Moussa Diabate,1631217,Driving Dunk,2,2,2,DUNKS,,2025
-Moussa Diabate,1631217,Driving Hook Shot,2,1,0,POST_MOVES,,2025
-Moussa Diabate,1631217,Driving Layup,2,6,4,LAYUPS,,2025
-Moussa Diabate,1631217,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2025
-Moussa Diabate,1631217,Finger Roll,2,2,1,LAYUPS,,2025
-Moussa Diabate,1631217,Floating Jump Shot,2,5,1,FLOATING_SHOTS,,2025
-Moussa Diabate,1631217,Hook Shot,2,2,0,POST_MOVES,,2025
-Moussa Diabate,1631217,Putback Dunk,2,3,3,DUNKS,,2025
-Moussa Diabate,1631217,Putback Layup,2,16,6,LAYUPS,,2025
-Moussa Diabate,1631217,Reverse Layup,2,2,2,LAYUPS,,2025
-Moussa Diabate,1631217,Specialty Dunk,2,10,9,DUNKS,,2025
-Moussa Diabate,1631217,Standard Dunk,2,5,5,DUNKS,,2025
-Moussa Diabate,1631217,Standard Layup,2,15,9,LAYUPS,,2025
-Moussa Diabate,1631217,Turnaround Hook Shot,2,1,0,POST_MOVES,,2025
-Moussa Diabate,1631217,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Moussa Diabate,1631217,Cutting Dunk Shot,2,2,2,Specialty Dunk,DUNKS,2023
+Moussa Diabate,1631217,Cutting Layup Shot,2,1,0,Standard Layup,LAYUPS,2023
+Moussa Diabate,1631217,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2023
+Moussa Diabate,1631217,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Moussa Diabate,1631217,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2023
+Moussa Diabate,1631217,Dunk Shot,2,3,3,Standard Dunk,DUNKS,2023
+Moussa Diabate,1631217,Floating Jump shot,2,2,0,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Moussa Diabate,1631217,Hook Shot,2,3,3,Hook Shot,POST_MOVES,2023
+Moussa Diabate,1631217,Jump Shot,2,3,1,2PT Jump Shot,TWO_POINT_JUMPERS,2023
+Moussa Diabate,1631217,Layup Shot,2,9,3,Standard Layup,LAYUPS,2023
+Moussa Diabate,1631217,Putback Layup Shot,2,7,2,Putback Layup,LAYUPS,2023
+Moussa Diabate,1631217,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2023
+Moussa Diabate,1631217,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2023
+Moussa Diabate,1631217,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2023
+Moussa Diabate,1631217,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2023
+Moussa Diabate,1631217,Tip Layup Shot,2,8,4,Putback Layup,LAYUPS,2023
+Moussa Diabate,1631217,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2023
+Moussa Diabate,1631217,Alley Oop Dunk Shot,2,1,0,Alley Oop Dunk,DUNKS,2024
+Moussa Diabate,1631217,Cutting Dunk Shot,2,2,2,Specialty Dunk,DUNKS,2024
+Moussa Diabate,1631217,Cutting Layup Shot,2,2,0,Standard Layup,LAYUPS,2024
+Moussa Diabate,1631217,Driving Floating Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Moussa Diabate,1631217,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2024
+Moussa Diabate,1631217,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2024
+Moussa Diabate,1631217,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
+Moussa Diabate,1631217,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Moussa Diabate,1631217,Layup Shot,2,1,0,Standard Layup,LAYUPS,2024
+Moussa Diabate,1631217,Putback Layup Shot,2,4,3,Putback Layup,LAYUPS,2024
+Moussa Diabate,1631217,Tip Dunk Shot,2,1,0,Specialty Dunk,DUNKS,2024
+Moussa Diabate,1631217,Tip Layup Shot,2,2,2,Putback Layup,LAYUPS,2024
+Moussa Diabate,1631217,Alley Oop Dunk Shot,2,3,2,Alley Oop Dunk,DUNKS,2025
+Moussa Diabate,1631217,Cutting Dunk Shot,2,10,9,Specialty Dunk,DUNKS,2025
+Moussa Diabate,1631217,Cutting Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2025
+Moussa Diabate,1631217,Cutting Layup Shot,2,8,5,Standard Layup,LAYUPS,2025
+Moussa Diabate,1631217,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2025
+Moussa Diabate,1631217,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2025
+Moussa Diabate,1631217,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Moussa Diabate,1631217,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2025
+Moussa Diabate,1631217,Driving Layup Shot,2,6,4,Driving Layup,LAYUPS,2025
+Moussa Diabate,1631217,Dunk Shot,2,4,4,Standard Dunk,DUNKS,2025
+Moussa Diabate,1631217,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
+Moussa Diabate,1631217,Floating Jump shot,2,4,1,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Moussa Diabate,1631217,Hook Bank Shot,2,1,0,Hook Shot,POST_MOVES,2025
+Moussa Diabate,1631217,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2025
+Moussa Diabate,1631217,Layup Shot,2,3,2,Standard Layup,LAYUPS,2025
+Moussa Diabate,1631217,Putback Dunk Shot,2,3,3,Putback Dunk,DUNKS,2025
+Moussa Diabate,1631217,Putback Layup Shot,2,9,6,Putback Layup,LAYUPS,2025
+Moussa Diabate,1631217,Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2025
+Moussa Diabate,1631217,Running Alley Oop Layup Shot,2,1,1,Alley Oop Layup,LAYUPS,2025
+Moussa Diabate,1631217,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2025
+Moussa Diabate,1631217,Running Layup Shot,2,4,2,Standard Layup,LAYUPS,2025
+Moussa Diabate,1631217,Tip Layup Shot,2,7,0,Putback Layup,LAYUPS,2025
+Moussa Diabate,1631217,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2025
+Moussa Diabate,1631217,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025

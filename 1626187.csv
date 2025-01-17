@@ -1,6 +1,8 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Michael Frazier II,1626187,Driving Layup,2,3,0,LAYUPS,,2020
-Michael Frazier II,1626187,Jump Shot,3,22,4,JUMP_SHOTS,,2020
-Michael Frazier II,1626187,Pullup Jump Shot,3,1,0,JUMP_SHOTS,,2020
-Michael Frazier II,1626187,Standard Dunk,2,1,1,DUNKS,,2020
-Michael Frazier II,1626187,Standard Layup,2,2,2,LAYUPS,,2020
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Michael Frazier II,1626187,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2020
+Michael Frazier II,1626187,Driving Layup Shot,2,2,0,Driving Layup,LAYUPS,2020
+Michael Frazier II,1626187,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2020
+Michael Frazier II,1626187,Jump Shot,3,22,4,3PT Jump Shot,THREE_POINT_JUMPERS,2020
+Michael Frazier II,1626187,Pullup Jump shot,3,1,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2020
+Michael Frazier II,1626187,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2020
+Michael Frazier II,1626187,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2020

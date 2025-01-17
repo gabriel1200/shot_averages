@@ -1,8 +1,9 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jamie Watson,320,Driving Layup,2,7,4,LAYUPS,,1997
-Jamie Watson,320,Jump Shot,2,36,13,JUMP_SHOTS,,1997
-Jamie Watson,320,Standard Dunk,2,3,3,DUNKS,,1997
-Jamie Watson,320,Standard Layup,2,21,9,LAYUPS,,1997
-Jamie Watson,320,Tip Shot,2,5,2,TIP_SHOTS,,1997
-Jamie Watson,320,Driving Layup,2,1,1,LAYUPS,,1999
-Jamie Watson,320,Jump Shot,2,1,0,JUMP_SHOTS,,1999
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Jamie Watson,320,Driving Layup Shot,2,7,4,Driving Layup,LAYUPS,1997
+Jamie Watson,320,Dunk Shot,2,2,2,Standard Dunk,DUNKS,1997
+Jamie Watson,320,Jump Shot,2,36,13,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Jamie Watson,320,Layup Shot,2,21,9,Standard Layup,LAYUPS,1997
+Jamie Watson,320,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,1997
+Jamie Watson,320,Tip Shot,2,5,2,Tip Shot,TIP_SHOTS,1997
+Jamie Watson,320,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,1999
+Jamie Watson,320,Jump Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,1999

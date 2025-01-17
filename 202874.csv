@@ -1,26 +1,28 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Chris Wright,202874,Alley Oop Dunk,2,5,4,DUNKS,,2012
-Chris Wright,202874,Driving Dunk,2,1,1,DUNKS,,2012
-Chris Wright,202874,Driving Hook Shot,2,1,1,POST_MOVES,,2012
-Chris Wright,202874,Driving Jump Shot,2,1,1,JUMP_SHOTS,,2012
-Chris Wright,202874,Driving Layup,2,3,3,LAYUPS,,2012
-Chris Wright,202874,Floating Jump Shot,2,1,1,FLOATING_SHOTS,,2012
-Chris Wright,202874,Hook Shot,2,1,0,POST_MOVES,,2012
-Chris Wright,202874,Jump Shot,2,5,1,JUMP_SHOTS,,2012
-Chris Wright,202874,Putback Dunk,2,3,2,DUNKS,,2012
-Chris Wright,202874,Reverse Dunk,2,1,1,DUNKS,,2012
-Chris Wright,202874,Reverse Layup,2,1,0,LAYUPS,,2012
-Chris Wright,202874,Running Hook Shot,2,1,0,POST_MOVES,,2012
-Chris Wright,202874,Running Jump Shot,2,1,0,JUMP_SHOTS,,2012
-Chris Wright,202874,Standard Dunk,2,5,5,DUNKS,,2012
-Chris Wright,202874,Standard Layup,2,12,2,LAYUPS,,2012
-Chris Wright,202874,Step Back Jump Shot,2,2,1,JUMP_SHOTS,,2012
-Chris Wright,202874,Tip Shot,2,1,0,TIP_SHOTS,,2012
-Chris Wright,202874,Alley Oop Dunk,2,3,3,DUNKS,,2014
-Chris Wright,202874,Driving Dunk,2,1,1,DUNKS,,2014
-Chris Wright,202874,Driving Layup,2,1,0,LAYUPS,,2014
-Chris Wright,202874,Jump Shot,2,4,1,JUMP_SHOTS,,2014
-Chris Wright,202874,Putback Dunk,2,1,1,DUNKS,,2014
-Chris Wright,202874,Standard Dunk,2,5,3,DUNKS,,2014
-Chris Wright,202874,Standard Layup,2,18,11,LAYUPS,,2014
-Chris Wright,202874,Tip Shot,2,2,1,TIP_SHOTS,,2014
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Chris Wright,202874,Alley Oop Dunk Shot,2,5,4,Alley Oop Dunk,DUNKS,2012
+Chris Wright,202874,Driving Bank shot,2,1,1,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2012
+Chris Wright,202874,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2012
+Chris Wright,202874,Driving Layup Shot,2,3,3,Driving Layup,LAYUPS,2012
+Chris Wright,202874,Driving Slam Dunk Shot,2,1,1,Driving Dunk,DUNKS,2012
+Chris Wright,202874,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2012
+Chris Wright,202874,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2012
+Chris Wright,202874,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Chris Wright,202874,Jump Hook Shot,2,1,0,Hook Shot,POST_MOVES,2012
+Chris Wright,202874,Jump Shot,2,4,0,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Chris Wright,202874,Layup Shot,2,12,2,Standard Layup,LAYUPS,2012
+Chris Wright,202874,Putback Slam Dunk Shot,2,3,2,Putback Dunk,DUNKS,2012
+Chris Wright,202874,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2012
+Chris Wright,202874,Reverse Slam Dunk Shot,2,1,1,Reverse Dunk,DUNKS,2012
+Chris Wright,202874,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,2012
+Chris Wright,202874,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2012
+Chris Wright,202874,Slam Dunk Shot,2,4,4,Standard Dunk,DUNKS,2012
+Chris Wright,202874,Step Back Jump shot,2,2,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2012
+Chris Wright,202874,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2012
+Chris Wright,202874,Alley Oop Dunk Shot,2,3,3,Alley Oop Dunk,DUNKS,2014
+Chris Wright,202874,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2014
+Chris Wright,202874,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2014
+Chris Wright,202874,Dunk Shot,2,5,3,Standard Dunk,DUNKS,2014
+Chris Wright,202874,Jump Shot,2,4,1,2PT Jump Shot,TWO_POINT_JUMPERS,2014
+Chris Wright,202874,Layup Shot,2,18,11,Standard Layup,LAYUPS,2014
+Chris Wright,202874,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2014
+Chris Wright,202874,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,2014

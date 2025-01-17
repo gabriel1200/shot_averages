@@ -1,22 +1,39 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Stephon Castle,1642264,Alley Oop Dunk,2,3,3,DUNKS,,2025
-Stephon Castle,1642264,Alley Oop Layup,2,3,2,LAYUPS,,2025
-Stephon Castle,1642264,Driving Dunk,2,3,3,DUNKS,,2025
-Stephon Castle,1642264,Driving Layup,2,57,25,LAYUPS,,2025
-Stephon Castle,1642264,Fadeaway Jump Shot,2,5,2,JUMP_SHOTS,,2025
-Stephon Castle,1642264,Finger Roll,2,20,13,LAYUPS,,2025
-Stephon Castle,1642264,Floating Jump Shot,2,36,12,FLOATING_SHOTS,,2025
-Stephon Castle,1642264,Jump Shot,2,4,3,JUMP_SHOTS,,2025
-Stephon Castle,1642264,Jump Shot,3,95,27,JUMP_SHOTS,,2025
-Stephon Castle,1642264,Pullup Jump Shot,2,46,14,JUMP_SHOTS,,2025
-Stephon Castle,1642264,Pullup Jump Shot,3,35,8,JUMP_SHOTS,,2025
-Stephon Castle,1642264,Putback Layup,2,6,3,LAYUPS,,2025
-Stephon Castle,1642264,Reverse Layup,2,2,0,LAYUPS,,2025
-Stephon Castle,1642264,Running Jump Shot,2,3,0,JUMP_SHOTS,,2025
-Stephon Castle,1642264,Running Jump Shot,3,10,1,JUMP_SHOTS,,2025
-Stephon Castle,1642264,Specialty Dunk,2,9,9,DUNKS,,2025
-Stephon Castle,1642264,Standard Dunk,2,9,8,DUNKS,,2025
-Stephon Castle,1642264,Standard Layup,2,36,19,LAYUPS,,2025
-Stephon Castle,1642264,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2025
-Stephon Castle,1642264,Step Back Jump Shot,3,7,1,JUMP_SHOTS,,2025
-Stephon Castle,1642264,Turnaround Jump Shot,2,5,3,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Stephon Castle,1642264,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2025
+Stephon Castle,1642264,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2025
+Stephon Castle,1642264,Cutting Dunk Shot,2,7,7,Specialty Dunk,DUNKS,2025
+Stephon Castle,1642264,Cutting Finger Roll Layup Shot,2,3,2,Finger Roll,LAYUPS,2025
+Stephon Castle,1642264,Cutting Layup Shot,2,9,5,Standard Layup,LAYUPS,2025
+Stephon Castle,1642264,Driving Dunk Shot,2,3,3,Driving Dunk,DUNKS,2025
+Stephon Castle,1642264,Driving Finger Roll Layup Shot,2,11,6,Finger Roll,LAYUPS,2025
+Stephon Castle,1642264,Driving Floating Bank Jump Shot,2,7,2,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Stephon Castle,1642264,Driving Floating Jump Shot,2,29,10,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Stephon Castle,1642264,Driving Layup Shot,2,52,22,Driving Layup,LAYUPS,2025
+Stephon Castle,1642264,Driving Reverse Layup Shot,2,5,3,Driving Layup,LAYUPS,2025
+Stephon Castle,1642264,Fadeaway Jump Shot,2,5,2,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
+Stephon Castle,1642264,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2025
+Stephon Castle,1642264,Jump Bank Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Stephon Castle,1642264,Jump Shot,2,3,2,2PT Jump Shot,TWO_POINT_JUMPERS,2025
+Stephon Castle,1642264,Jump Shot,3,94,27,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Stephon Castle,1642264,Layup Shot,2,4,2,Standard Layup,LAYUPS,2025
+Stephon Castle,1642264,Pullup Jump shot,2,46,14,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
+Stephon Castle,1642264,Pullup Jump shot,3,35,8,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
+Stephon Castle,1642264,Putback Layup Shot,2,2,1,Putback Layup,LAYUPS,2025
+Stephon Castle,1642264,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2025
+Stephon Castle,1642264,Running Alley Oop Dunk Shot,2,2,2,Alley Oop Dunk,DUNKS,2025
+Stephon Castle,1642264,Running Alley Oop Layup Shot,2,2,2,Alley Oop Layup,LAYUPS,2025
+Stephon Castle,1642264,Running Dunk Shot,2,9,8,Standard Dunk,DUNKS,2025
+Stephon Castle,1642264,Running Finger Roll Layup Shot,2,6,5,Finger Roll,LAYUPS,2025
+Stephon Castle,1642264,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2025
+Stephon Castle,1642264,Running Jump Shot,3,6,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Stephon Castle,1642264,Running Layup Shot,2,23,12,Standard Layup,LAYUPS,2025
+Stephon Castle,1642264,Running Pull-Up Jump Shot,2,2,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2025
+Stephon Castle,1642264,Running Pull-Up Jump Shot,3,4,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Stephon Castle,1642264,Running Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2025
+Stephon Castle,1642264,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2025
+Stephon Castle,1642264,Step Back Jump shot,3,7,1,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
+Stephon Castle,1642264,Tip Dunk Shot,2,2,2,Specialty Dunk,DUNKS,2025
+Stephon Castle,1642264,Tip Layup Shot,2,4,2,Putback Layup,LAYUPS,2025
+Stephon Castle,1642264,Turnaround Bank shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+Stephon Castle,1642264,Turnaround Fadeaway shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+Stephon Castle,1642264,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025

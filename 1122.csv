@@ -1,19 +1,20 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Dominique Wilkins,1122,Driving Dunk,2,7,7,DUNKS,,1997
-Dominique Wilkins,1122,Driving Layup,2,44,35,LAYUPS,,1997
-Dominique Wilkins,1122,Hook Shot,2,25,16,POST_MOVES,,1997
-Dominique Wilkins,1122,Jump Shot,2,258,84,JUMP_SHOTS,,1997
-Dominique Wilkins,1122,Jump Shot,3,234,68,JUMP_SHOTS,,1997
-Dominique Wilkins,1122,Running Jump Shot,2,9,7,JUMP_SHOTS,,1997
-Dominique Wilkins,1122,Standard Dunk,2,43,36,DUNKS,,1997
-Dominique Wilkins,1122,Standard Layup,2,323,138,LAYUPS,,1997
-Dominique Wilkins,1122,Tip Shot,2,10,6,TIP_SHOTS,,1997
-Dominique Wilkins,1122,Driving Dunk,2,2,1,DUNKS,,1999
-Dominique Wilkins,1122,Driving Layup,2,8,5,LAYUPS,,1999
-Dominique Wilkins,1122,Hook Shot,2,3,1,POST_MOVES,,1999
-Dominique Wilkins,1122,Jump Shot,2,63,23,JUMP_SHOTS,,1999
-Dominique Wilkins,1122,Jump Shot,3,19,5,JUMP_SHOTS,,1999
-Dominique Wilkins,1122,Running Jump Shot,2,4,0,JUMP_SHOTS,,1999
-Dominique Wilkins,1122,Standard Dunk,2,3,3,DUNKS,,1999
-Dominique Wilkins,1122,Standard Layup,2,29,11,LAYUPS,,1999
-Dominique Wilkins,1122,Tip Shot,2,1,1,TIP_SHOTS,,1999
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Dominique Wilkins,1122,Driving Dunk Shot,2,7,7,Driving Dunk,DUNKS,1997
+Dominique Wilkins,1122,Driving Layup Shot,2,44,35,Driving Layup,LAYUPS,1997
+Dominique Wilkins,1122,Dunk Shot,2,13,7,Standard Dunk,DUNKS,1997
+Dominique Wilkins,1122,Hook Shot,2,25,16,Hook Shot,POST_MOVES,1997
+Dominique Wilkins,1122,Jump Shot,2,258,84,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Dominique Wilkins,1122,Jump Shot,3,234,68,3PT Jump Shot,THREE_POINT_JUMPERS,1997
+Dominique Wilkins,1122,Layup Shot,2,323,138,Standard Layup,LAYUPS,1997
+Dominique Wilkins,1122,Running Jump Shot,2,9,7,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
+Dominique Wilkins,1122,Slam Dunk Shot,2,30,29,Standard Dunk,DUNKS,1997
+Dominique Wilkins,1122,Tip Shot,2,10,6,Tip Shot,TIP_SHOTS,1997
+Dominique Wilkins,1122,Driving Dunk Shot,2,2,1,Driving Dunk,DUNKS,1999
+Dominique Wilkins,1122,Driving Layup Shot,2,8,5,Driving Layup,LAYUPS,1999
+Dominique Wilkins,1122,Hook Shot,2,3,1,Hook Shot,POST_MOVES,1999
+Dominique Wilkins,1122,Jump Shot,2,63,23,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Dominique Wilkins,1122,Jump Shot,3,19,5,3PT Jump Shot,THREE_POINT_JUMPERS,1999
+Dominique Wilkins,1122,Layup Shot,2,29,11,Standard Layup,LAYUPS,1999
+Dominique Wilkins,1122,Running Jump Shot,2,4,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999
+Dominique Wilkins,1122,Slam Dunk Shot,2,3,3,Standard Dunk,DUNKS,1999
+Dominique Wilkins,1122,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,1999

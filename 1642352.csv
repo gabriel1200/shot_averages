@@ -1,7 +1,7 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Keshad Johnson,1642352,Driving Layup,2,1,1,LAYUPS,,2025
-Keshad Johnson,1642352,Jump Shot,3,4,1,JUMP_SHOTS,,2025
-Keshad Johnson,1642352,Putback Layup,2,1,0,LAYUPS,,2025
-Keshad Johnson,1642352,Specialty Dunk,2,2,2,DUNKS,,2025
-Keshad Johnson,1642352,Standard Dunk,2,1,1,DUNKS,,2025
-Keshad Johnson,1642352,Standard Layup,2,1,1,LAYUPS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Keshad Johnson,1642352,Cutting Dunk Shot,2,2,2,Specialty Dunk,DUNKS,2025
+Keshad Johnson,1642352,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2025
+Keshad Johnson,1642352,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2025
+Keshad Johnson,1642352,Jump Shot,3,4,1,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Keshad Johnson,1642352,Putback Layup Shot,2,1,0,Putback Layup,LAYUPS,2025
+Keshad Johnson,1642352,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2025

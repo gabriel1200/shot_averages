@@ -1,15 +1,18 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Andre Owens,101261,Driving Layup,2,7,3,LAYUPS,,2006
-Andre Owens,101261,Jump Shot,2,45,18,JUMP_SHOTS,,2006
-Andre Owens,101261,Jump Shot,3,5,1,JUMP_SHOTS,,2006
-Andre Owens,101261,Running Jump Shot,3,1,0,JUMP_SHOTS,,2006
-Andre Owens,101261,Standard Layup,2,15,5,LAYUPS,,2006
-Andre Owens,101261,Tip Shot,2,1,0,TIP_SHOTS,,2006
-Andre Owens,101261,Driving Layup,2,10,8,LAYUPS,,2008
-Andre Owens,101261,Finger Roll,2,1,1,LAYUPS,,2008
-Andre Owens,101261,Jump Shot,2,68,22,JUMP_SHOTS,,2008
-Andre Owens,101261,Jump Shot,3,5,2,JUMP_SHOTS,,2008
-Andre Owens,101261,Pullup Jump Shot,2,2,1,JUMP_SHOTS,,2008
-Andre Owens,101261,Reverse Layup,2,1,1,LAYUPS,,2008
-Andre Owens,101261,Running Jump Shot,2,2,1,JUMP_SHOTS,,2008
-Andre Owens,101261,Standard Layup,2,18,4,LAYUPS,,2008
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Andre Owens,101261,Driving Layup Shot,2,7,3,Driving Layup,LAYUPS,2006
+Andre Owens,101261,Jump Shot,2,45,18,2PT Jump Shot,TWO_POINT_JUMPERS,2006
+Andre Owens,101261,Jump Shot,3,5,1,3PT Jump Shot,THREE_POINT_JUMPERS,2006
+Andre Owens,101261,Layup Shot,2,15,5,Standard Layup,LAYUPS,2006
+Andre Owens,101261,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2006
+Andre Owens,101261,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2006
+Andre Owens,101261,Driving Layup Shot,2,9,7,Driving Layup,LAYUPS,2008
+Andre Owens,101261,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2008
+Andre Owens,101261,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2008
+Andre Owens,101261,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2008
+Andre Owens,101261,Jump Shot,2,67,21,2PT Jump Shot,TWO_POINT_JUMPERS,2008
+Andre Owens,101261,Jump Shot,3,5,2,3PT Jump Shot,THREE_POINT_JUMPERS,2008
+Andre Owens,101261,Layup Shot,2,17,3,Standard Layup,LAYUPS,2008
+Andre Owens,101261,Pullup Jump shot,2,2,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2008
+Andre Owens,101261,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2008
+Andre Owens,101261,Running Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2008
+Andre Owens,101261,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2008

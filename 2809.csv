@@ -1,8 +1,8 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Gerald Fitch,2809,Driving Layup,2,6,3,LAYUPS,,2006
-Gerald Fitch,2809,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2006
-Gerald Fitch,2809,Jump Shot,2,66,19,JUMP_SHOTS,,2006
-Gerald Fitch,2809,Reverse Layup,2,1,1,LAYUPS,,2006
-Gerald Fitch,2809,Running Jump Shot,2,5,4,JUMP_SHOTS,,2006
-Gerald Fitch,2809,Standard Layup,2,9,2,LAYUPS,,2006
-Gerald Fitch,2809,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2006
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Gerald Fitch,2809,Driving Layup Shot,2,6,3,Driving Layup,LAYUPS,2006
+Gerald Fitch,2809,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2006
+Gerald Fitch,2809,Jump Shot,2,66,19,2PT Jump Shot,TWO_POINT_JUMPERS,2006
+Gerald Fitch,2809,Layup Shot,2,9,2,Standard Layup,LAYUPS,2006
+Gerald Fitch,2809,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2006
+Gerald Fitch,2809,Running Jump Shot,2,5,4,2PT Running Jump Shot,TWO_POINT_JUMPERS,2006
+Gerald Fitch,2809,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2006

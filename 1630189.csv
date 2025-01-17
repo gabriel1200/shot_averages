@@ -1,13 +1,15 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Tyler Bey,1630189,Alley Oop Dunk,2,1,1,DUNKS,,2021
-Tyler Bey,1630189,Alley Oop Layup,2,1,1,LAYUPS,,2021
-Tyler Bey,1630189,Driving Layup,2,2,0,LAYUPS,,2021
-Tyler Bey,1630189,Floating Jump Shot,2,5,1,FLOATING_SHOTS,,2021
-Tyler Bey,1630189,Hook Shot,2,1,0,POST_MOVES,,2021
-Tyler Bey,1630189,Jump Shot,2,3,1,JUMP_SHOTS,,2021
-Tyler Bey,1630189,Pullup Jump Shot,2,2,0,JUMP_SHOTS,,2021
-Tyler Bey,1630189,Putback Layup,2,3,2,LAYUPS,,2021
-Tyler Bey,1630189,Specialty Dunk,2,1,0,DUNKS,,2021
-Tyler Bey,1630189,Standard Layup,2,1,0,LAYUPS,,2021
-Tyler Bey,1630189,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2021
-Tyler Bey,1630189,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2021
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Tyler Bey,1630189,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2021
+Tyler Bey,1630189,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2021
+Tyler Bey,1630189,Driving Floating Jump Shot,2,4,1,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Tyler Bey,1630189,Driving Layup Shot,2,2,0,Driving Layup,LAYUPS,2021
+Tyler Bey,1630189,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Tyler Bey,1630189,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2021
+Tyler Bey,1630189,Jump Shot,2,3,1,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Tyler Bey,1630189,Layup Shot,2,1,0,Standard Layup,LAYUPS,2021
+Tyler Bey,1630189,Pullup Jump shot,2,2,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2021
+Tyler Bey,1630189,Putback Layup Shot,2,2,1,Putback Layup,LAYUPS,2021
+Tyler Bey,1630189,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2021
+Tyler Bey,1630189,Tip Dunk Shot,2,1,0,Specialty Dunk,DUNKS,2021
+Tyler Bey,1630189,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2021
+Tyler Bey,1630189,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2021

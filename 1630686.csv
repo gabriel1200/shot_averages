@@ -1,12 +1,16 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Georgios Kalaitzakis,1630686,Driving Layup,2,6,4,LAYUPS,,2022
-Georgios Kalaitzakis,1630686,Finger Roll,2,2,1,LAYUPS,,2022
-Georgios Kalaitzakis,1630686,Floating Jump Shot,2,4,1,FLOATING_SHOTS,,2022
-Georgios Kalaitzakis,1630686,Jump Shot,2,24,9,JUMP_SHOTS,,2022
-Georgios Kalaitzakis,1630686,Pullup Jump Shot,2,9,2,JUMP_SHOTS,,2022
-Georgios Kalaitzakis,1630686,Putback Layup,2,4,1,LAYUPS,,2022
-Georgios Kalaitzakis,1630686,Reverse Layup,2,1,1,LAYUPS,,2022
-Georgios Kalaitzakis,1630686,Standard Dunk,2,5,4,DUNKS,,2022
-Georgios Kalaitzakis,1630686,Standard Layup,2,9,7,LAYUPS,,2022
-Georgios Kalaitzakis,1630686,Step Back Jump Shot,2,2,0,JUMP_SHOTS,,2022
-Georgios Kalaitzakis,1630686,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2022
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Georgios Kalaitzakis,1630686,Cutting Layup Shot,2,7,6,Standard Layup,LAYUPS,2022
+Georgios Kalaitzakis,1630686,Driving Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2022
+Georgios Kalaitzakis,1630686,Driving Floating Bank Jump Shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Georgios Kalaitzakis,1630686,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Georgios Kalaitzakis,1630686,Driving Layup Shot,2,6,4,Driving Layup,LAYUPS,2022
+Georgios Kalaitzakis,1630686,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Georgios Kalaitzakis,1630686,Jump Shot,2,24,9,2PT Jump Shot,TWO_POINT_JUMPERS,2022
+Georgios Kalaitzakis,1630686,Layup Shot,2,1,1,Standard Layup,LAYUPS,2022
+Georgios Kalaitzakis,1630686,Pullup Jump shot,2,9,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2022
+Georgios Kalaitzakis,1630686,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2022
+Georgios Kalaitzakis,1630686,Running Dunk Shot,2,5,4,Standard Dunk,DUNKS,2022
+Georgios Kalaitzakis,1630686,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2022
+Georgios Kalaitzakis,1630686,Step Back Jump shot,2,2,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2022
+Georgios Kalaitzakis,1630686,Tip Layup Shot,2,4,1,Putback Layup,LAYUPS,2022
+Georgios Kalaitzakis,1630686,Turnaround Fadeaway Bank Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2022

@@ -1,10 +1,11 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Adam Flagler,1641745,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2024
-Adam Flagler,1641745,Jump Shot,3,1,0,JUMP_SHOTS,,2024
-Adam Flagler,1641745,Pullup Jump Shot,3,2,0,JUMP_SHOTS,,2024
-Adam Flagler,1641745,Running Jump Shot,3,2,0,JUMP_SHOTS,,2024
-Adam Flagler,1641745,Step Back Jump Shot,3,1,1,JUMP_SHOTS,,2024
-Adam Flagler,1641745,Jump Shot,3,17,4,JUMP_SHOTS,,2025
-Adam Flagler,1641745,Pullup Jump Shot,2,1,0,JUMP_SHOTS,,2025
-Adam Flagler,1641745,Pullup Jump Shot,3,1,0,JUMP_SHOTS,,2025
-Adam Flagler,1641745,Step Back Jump Shot,3,1,1,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Adam Flagler,1641745,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Adam Flagler,1641745,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Adam Flagler,1641745,Pullup Jump shot,3,2,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
+Adam Flagler,1641745,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Adam Flagler,1641745,Running Pull-Up Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Adam Flagler,1641745,Step Back Jump shot,3,1,1,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
+Adam Flagler,1641745,Jump Shot,3,17,4,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Adam Flagler,1641745,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
+Adam Flagler,1641745,Pullup Jump shot,3,1,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
+Adam Flagler,1641745,Step Back Jump shot,3,1,1,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025

@@ -1,16 +1,18 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-J.R. Bremer,2452,Driving Layup,2,27,18,LAYUPS,,2003
-J.R. Bremer,2452,Fadeaway Jump Shot,2,2,2,JUMP_SHOTS,,2003
-J.R. Bremer,2452,Finger Roll,2,3,1,LAYUPS,,2003
-J.R. Bremer,2452,Jump Shot,2,364,130,JUMP_SHOTS,,2003
-J.R. Bremer,2452,Jump Shot,3,8,2,JUMP_SHOTS,,2003
-J.R. Bremer,2452,Reverse Layup,2,2,1,LAYUPS,,2003
-J.R. Bremer,2452,Running Jump Shot,2,9,5,JUMP_SHOTS,,2003
-J.R. Bremer,2452,Standard Layup,2,49,12,LAYUPS,,2003
-J.R. Bremer,2452,Driving Layup,2,10,6,LAYUPS,,2004
-J.R. Bremer,2452,Fadeaway Jump Shot,2,2,0,JUMP_SHOTS,,2004
-J.R. Bremer,2452,Finger Roll,2,1,0,LAYUPS,,2004
-J.R. Bremer,2452,Jump Shot,2,121,31,JUMP_SHOTS,,2004
-J.R. Bremer,2452,Reverse Layup,2,1,0,LAYUPS,,2004
-J.R. Bremer,2452,Running Jump Shot,2,4,2,JUMP_SHOTS,,2004
-J.R. Bremer,2452,Standard Layup,2,19,4,LAYUPS,,2004
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+J.R. Bremer,2452,Driving Finger Roll Shot,2,2,0,Finger Roll,LAYUPS,2003
+J.R. Bremer,2452,Driving Layup Shot,2,27,18,Driving Layup,LAYUPS,2003
+J.R. Bremer,2452,Fadeaway Jump Shot,2,2,2,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2003
+J.R. Bremer,2452,Jump Shot,2,364,130,2PT Jump Shot,TWO_POINT_JUMPERS,2003
+J.R. Bremer,2452,Jump Shot,3,8,2,3PT Jump Shot,THREE_POINT_JUMPERS,2003
+J.R. Bremer,2452,Layup Shot,2,48,11,Standard Layup,LAYUPS,2003
+J.R. Bremer,2452,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2003
+J.R. Bremer,2452,Running Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2003
+J.R. Bremer,2452,Running Jump Shot,2,9,5,2PT Running Jump Shot,TWO_POINT_JUMPERS,2003
+J.R. Bremer,2452,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2003
+J.R. Bremer,2452,Driving Layup Shot,2,10,6,Driving Layup,LAYUPS,2004
+J.R. Bremer,2452,Fadeaway Jump Shot,2,2,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2004
+J.R. Bremer,2452,Finger Roll Shot,2,1,0,Finger Roll,LAYUPS,2004
+J.R. Bremer,2452,Jump Shot,2,121,31,2PT Jump Shot,TWO_POINT_JUMPERS,2004
+J.R. Bremer,2452,Layup Shot,2,19,4,Standard Layup,LAYUPS,2004
+J.R. Bremer,2452,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2004
+J.R. Bremer,2452,Running Jump Shot,2,4,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2004

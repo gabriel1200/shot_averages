@@ -1,42 +1,57 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Joey Dorsey,201595,Standard Dunk,2,1,1,DUNKS,,2009
-Joey Dorsey,201595,Standard Layup,2,1,0,LAYUPS,,2009
-Joey Dorsey,201595,Hook Shot,2,2,1,POST_MOVES,,2010
-Joey Dorsey,201595,Jump Shot,2,2,0,JUMP_SHOTS,,2010
-Joey Dorsey,201595,Putback Dunk,2,1,1,DUNKS,,2010
-Joey Dorsey,201595,Putback Layup,2,2,2,LAYUPS,,2010
-Joey Dorsey,201595,Standard Dunk,2,2,2,DUNKS,,2010
-Joey Dorsey,201595,Standard Layup,2,10,3,LAYUPS,,2010
-Joey Dorsey,201595,Tip Shot,2,1,0,TIP_SHOTS,,2010
-Joey Dorsey,201595,Alley Oop Dunk,2,1,1,DUNKS,,2011
-Joey Dorsey,201595,Alley Oop Layup,2,2,2,LAYUPS,,2011
-Joey Dorsey,201595,Driving Dunk,2,1,0,DUNKS,,2011
-Joey Dorsey,201595,Driving Hook Shot,2,1,0,POST_MOVES,,2011
-Joey Dorsey,201595,Driving Jump Shot,2,1,0,JUMP_SHOTS,,2011
-Joey Dorsey,201595,Driving Layup,2,1,0,LAYUPS,,2011
-Joey Dorsey,201595,Hook Shot,2,2,1,POST_MOVES,,2011
-Joey Dorsey,201595,Jump Shot,2,6,2,JUMP_SHOTS,,2011
-Joey Dorsey,201595,Putback Dunk,2,3,3,DUNKS,,2011
-Joey Dorsey,201595,Putback Layup,2,2,2,LAYUPS,,2011
-Joey Dorsey,201595,Reverse Dunk,2,1,1,DUNKS,,2011
-Joey Dorsey,201595,Reverse Layup,2,3,1,LAYUPS,,2011
-Joey Dorsey,201595,Running Jump Shot,2,1,0,JUMP_SHOTS,,2011
-Joey Dorsey,201595,Standard Dunk,2,11,10,DUNKS,,2011
-Joey Dorsey,201595,Standard Layup,2,48,24,LAYUPS,,2011
-Joey Dorsey,201595,Tip Shot,2,14,4,TIP_SHOTS,,2011
-Joey Dorsey,201595,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2011
-Joey Dorsey,201595,Alley Oop Dunk,2,1,1,DUNKS,,2015
-Joey Dorsey,201595,Alley Oop Layup,2,3,2,LAYUPS,,2015
-Joey Dorsey,201595,Driving Dunk,2,2,1,DUNKS,,2015
-Joey Dorsey,201595,Driving Layup,2,3,1,LAYUPS,,2015
-Joey Dorsey,201595,Finger Roll,2,4,3,LAYUPS,,2015
-Joey Dorsey,201595,Hook Shot,2,11,4,POST_MOVES,,2015
-Joey Dorsey,201595,Jump Shot,2,15,4,JUMP_SHOTS,,2015
-Joey Dorsey,201595,Putback Dunk,2,5,4,DUNKS,,2015
-Joey Dorsey,201595,Putback Layup,2,3,3,LAYUPS,,2015
-Joey Dorsey,201595,Reverse Layup,2,2,1,LAYUPS,,2015
-Joey Dorsey,201595,Standard Dunk,2,30,25,DUNKS,,2015
-Joey Dorsey,201595,Standard Layup,2,57,28,LAYUPS,,2015
-Joey Dorsey,201595,Tip Shot,2,5,1,TIP_SHOTS,,2015
-Joey Dorsey,201595,Turnaround Hook Shot,2,3,1,POST_MOVES,,2015
-Joey Dorsey,201595,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2015
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Joey Dorsey,201595,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2009
+Joey Dorsey,201595,Layup Shot,2,1,0,Standard Layup,LAYUPS,2009
+Joey Dorsey,201595,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2010
+Joey Dorsey,201595,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2010
+Joey Dorsey,201595,Jump Hook Shot,2,1,0,Hook Shot,POST_MOVES,2010
+Joey Dorsey,201595,Jump Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2010
+Joey Dorsey,201595,Layup Shot,2,10,3,Standard Layup,LAYUPS,2010
+Joey Dorsey,201595,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2010
+Joey Dorsey,201595,Putback Layup Shot,2,2,2,Putback Layup,LAYUPS,2010
+Joey Dorsey,201595,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2010
+Joey Dorsey,201595,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2010
+Joey Dorsey,201595,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2011
+Joey Dorsey,201595,Alley Oop Layup shot,2,2,2,Alley Oop Layup,LAYUPS,2011
+Joey Dorsey,201595,Driving Dunk Shot,2,1,0,Driving Dunk,DUNKS,2011
+Joey Dorsey,201595,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2011
+Joey Dorsey,201595,Driving Jump shot,2,1,0,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2011
+Joey Dorsey,201595,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2011
+Joey Dorsey,201595,Dunk Shot,2,4,3,Standard Dunk,DUNKS,2011
+Joey Dorsey,201595,Hook Shot,2,2,1,Hook Shot,POST_MOVES,2011
+Joey Dorsey,201595,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Joey Dorsey,201595,Jump Shot,2,5,1,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Joey Dorsey,201595,Layup Shot,2,46,24,Standard Layup,LAYUPS,2011
+Joey Dorsey,201595,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2011
+Joey Dorsey,201595,Putback Layup Shot,2,2,2,Putback Layup,LAYUPS,2011
+Joey Dorsey,201595,Putback Slam Dunk Shot,2,2,2,Putback Dunk,DUNKS,2011
+Joey Dorsey,201595,Reverse Dunk Shot,2,1,1,Reverse Dunk,DUNKS,2011
+Joey Dorsey,201595,Reverse Layup Shot,2,3,1,Reverse Layup,LAYUPS,2011
+Joey Dorsey,201595,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2011
+Joey Dorsey,201595,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2011
+Joey Dorsey,201595,Running Layup Shot,2,2,0,Standard Layup,LAYUPS,2011
+Joey Dorsey,201595,Running Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2011
+Joey Dorsey,201595,Slam Dunk Shot,2,5,5,Standard Dunk,DUNKS,2011
+Joey Dorsey,201595,Tip Shot,2,14,4,Tip Shot,TIP_SHOTS,2011
+Joey Dorsey,201595,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2011
+Joey Dorsey,201595,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2015
+Joey Dorsey,201595,Alley Oop Layup shot,2,3,2,Alley Oop Layup,LAYUPS,2015
+Joey Dorsey,201595,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2015
+Joey Dorsey,201595,Driving Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2015
+Joey Dorsey,201595,Driving Layup Shot,2,3,1,Driving Layup,LAYUPS,2015
+Joey Dorsey,201595,Driving Slam Dunk Shot,2,1,0,Driving Dunk,DUNKS,2015
+Joey Dorsey,201595,Dunk Shot,2,12,8,Standard Dunk,DUNKS,2015
+Joey Dorsey,201595,Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2015
+Joey Dorsey,201595,Hook Shot,2,9,3,Hook Shot,POST_MOVES,2015
+Joey Dorsey,201595,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2015
+Joey Dorsey,201595,Jump Hook Shot,2,2,1,Hook Shot,POST_MOVES,2015
+Joey Dorsey,201595,Jump Shot,2,14,3,2PT Jump Shot,TWO_POINT_JUMPERS,2015
+Joey Dorsey,201595,Layup Shot,2,57,28,Standard Layup,LAYUPS,2015
+Joey Dorsey,201595,Putback Dunk Shot,2,5,4,Putback Dunk,DUNKS,2015
+Joey Dorsey,201595,Putback Layup Shot,2,3,3,Putback Layup,LAYUPS,2015
+Joey Dorsey,201595,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2015
+Joey Dorsey,201595,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2015
+Joey Dorsey,201595,Running Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2015
+Joey Dorsey,201595,Slam Dunk Shot,2,17,16,Standard Dunk,DUNKS,2015
+Joey Dorsey,201595,Tip Shot,2,5,1,Tip Shot,TIP_SHOTS,2015
+Joey Dorsey,201595,Turnaround Hook Shot,2,3,1,Turnaround Hook Shot,POST_MOVES,2015
+Joey Dorsey,201595,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2015

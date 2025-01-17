@@ -1,51 +1,57 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Eric Montross,376,Driving Dunk,2,1,1,DUNKS,,1997
-Eric Montross,376,Driving Layup,2,4,3,LAYUPS,,1997
-Eric Montross,376,Hook Shot,2,96,41,POST_MOVES,,1997
-Eric Montross,376,Jump Shot,2,80,24,JUMP_SHOTS,,1997
-Eric Montross,376,Running Jump Shot,2,1,1,JUMP_SHOTS,,1997
-Eric Montross,376,Standard Dunk,2,34,30,DUNKS,,1997
-Eric Montross,376,Standard Layup,2,84,35,LAYUPS,,1997
-Eric Montross,376,Tip Shot,2,50,25,TIP_SHOTS,,1997
-Eric Montross,376,Driving Dunk,2,1,1,DUNKS,,1998
-Eric Montross,376,Driving Layup,2,2,2,LAYUPS,,1998
-Eric Montross,376,Hook Shot,2,24,8,POST_MOVES,,1998
-Eric Montross,376,Jump Shot,2,50,10,JUMP_SHOTS,,1998
-Eric Montross,376,Standard Dunk,2,13,13,DUNKS,,1998
-Eric Montross,376,Standard Layup,2,28,16,LAYUPS,,1998
-Eric Montross,376,Tip Shot,2,26,11,TIP_SHOTS,,1998
-Eric Montross,376,Hook Shot,2,15,5,POST_MOVES,,1999
-Eric Montross,376,Jump Shot,2,26,9,JUMP_SHOTS,,1999
-Eric Montross,376,Standard Dunk,2,14,13,DUNKS,,1999
-Eric Montross,376,Standard Layup,2,13,8,LAYUPS,,1999
-Eric Montross,376,Tip Shot,2,12,7,TIP_SHOTS,,1999
-Eric Montross,376,Driving Layup,2,1,0,LAYUPS,,2000
-Eric Montross,376,Hook Shot,2,15,2,POST_MOVES,,2000
-Eric Montross,376,Jump Shot,2,30,11,JUMP_SHOTS,,2000
-Eric Montross,376,Standard Dunk,2,2,2,DUNKS,,2000
-Eric Montross,376,Standard Layup,2,4,1,LAYUPS,,2000
-Eric Montross,376,Tip Shot,2,3,1,TIP_SHOTS,,2000
-Eric Montross,376,Driving Dunk,2,1,1,DUNKS,,2001
-Eric Montross,376,Driving Hook Shot,2,1,0,POST_MOVES,,2001
-Eric Montross,376,Hook Shot,2,41,15,POST_MOVES,,2001
-Eric Montross,376,Jump Shot,2,43,8,JUMP_SHOTS,,2001
-Eric Montross,376,Running Hook Shot,2,1,1,POST_MOVES,,2001
-Eric Montross,376,Standard Dunk,2,9,6,DUNKS,,2001
-Eric Montross,376,Standard Layup,2,24,14,LAYUPS,,2001
-Eric Montross,376,Tip Shot,2,14,9,TIP_SHOTS,,2001
-Eric Montross,376,Turnaround Hook Shot,2,1,1,POST_MOVES,,2001
-Eric Montross,376,Turnaround Jump Shot,2,3,1,JUMP_SHOTS,,2001
-Eric Montross,376,Driving Dunk,2,1,1,DUNKS,,2002
-Eric Montross,376,Driving Hook Shot,2,2,1,POST_MOVES,,2002
-Eric Montross,376,Driving Layup,2,1,0,LAYUPS,,2002
-Eric Montross,376,Fadeaway Jump Shot,2,2,2,JUMP_SHOTS,,2002
-Eric Montross,376,Finger Roll,2,1,0,LAYUPS,,2002
-Eric Montross,376,Hook Shot,2,14,6,POST_MOVES,,2002
-Eric Montross,376,Jump Shot,2,69,23,JUMP_SHOTS,,2002
-Eric Montross,376,Reverse Layup,2,1,0,LAYUPS,,2002
-Eric Montross,376,Running Hook Shot,2,3,2,POST_MOVES,,2002
-Eric Montross,376,Standard Dunk,2,8,6,DUNKS,,2002
-Eric Montross,376,Standard Layup,2,12,4,LAYUPS,,2002
-Eric Montross,376,Tip Shot,2,10,5,TIP_SHOTS,,2002
-Eric Montross,376,Turnaround Hook Shot,2,5,3,POST_MOVES,,2002
-Eric Montross,376,Turnaround Jump Shot,2,3,0,JUMP_SHOTS,,2002
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Eric Montross,376,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,1997
+Eric Montross,376,Driving Layup Shot,2,4,3,Driving Layup,LAYUPS,1997
+Eric Montross,376,Dunk Shot,2,17,14,Standard Dunk,DUNKS,1997
+Eric Montross,376,Hook Shot,2,96,41,Hook Shot,POST_MOVES,1997
+Eric Montross,376,Jump Shot,2,80,24,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Eric Montross,376,Layup Shot,2,84,35,Standard Layup,LAYUPS,1997
+Eric Montross,376,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
+Eric Montross,376,Slam Dunk Shot,2,17,16,Standard Dunk,DUNKS,1997
+Eric Montross,376,Tip Shot,2,50,25,Tip Shot,TIP_SHOTS,1997
+Eric Montross,376,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,1998
+Eric Montross,376,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,1998
+Eric Montross,376,Dunk Shot,2,9,9,Standard Dunk,DUNKS,1998
+Eric Montross,376,Hook Shot,2,24,8,Hook Shot,POST_MOVES,1998
+Eric Montross,376,Jump Shot,2,50,10,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+Eric Montross,376,Layup Shot,2,28,16,Standard Layup,LAYUPS,1998
+Eric Montross,376,Slam Dunk Shot,2,4,4,Standard Dunk,DUNKS,1998
+Eric Montross,376,Tip Shot,2,26,11,Tip Shot,TIP_SHOTS,1998
+Eric Montross,376,Dunk Shot,2,13,12,Standard Dunk,DUNKS,1999
+Eric Montross,376,Hook Shot,2,15,5,Hook Shot,POST_MOVES,1999
+Eric Montross,376,Jump Shot,2,26,9,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Eric Montross,376,Layup Shot,2,13,8,Standard Layup,LAYUPS,1999
+Eric Montross,376,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,1999
+Eric Montross,376,Tip Shot,2,12,7,Tip Shot,TIP_SHOTS,1999
+Eric Montross,376,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2000
+Eric Montross,376,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2000
+Eric Montross,376,Hook Shot,2,15,2,Hook Shot,POST_MOVES,2000
+Eric Montross,376,Jump Shot,2,30,11,2PT Jump Shot,TWO_POINT_JUMPERS,2000
+Eric Montross,376,Layup Shot,2,4,1,Standard Layup,LAYUPS,2000
+Eric Montross,376,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,2000
+Eric Montross,376,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2001
+Eric Montross,376,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2001
+Eric Montross,376,Dunk Shot,2,8,6,Standard Dunk,DUNKS,2001
+Eric Montross,376,Hook Shot,2,41,15,Hook Shot,POST_MOVES,2001
+Eric Montross,376,Jump Shot,2,43,8,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Eric Montross,376,Layup Shot,2,24,14,Standard Layup,LAYUPS,2001
+Eric Montross,376,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,2001
+Eric Montross,376,Slam Dunk Shot,2,1,0,Standard Dunk,DUNKS,2001
+Eric Montross,376,Tip Shot,2,14,9,Tip Shot,TIP_SHOTS,2001
+Eric Montross,376,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2001
+Eric Montross,376,Turnaround Jump Shot,2,3,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2001
+Eric Montross,376,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2002
+Eric Montross,376,Driving Finger Roll Shot,2,1,0,Finger Roll,LAYUPS,2002
+Eric Montross,376,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,2002
+Eric Montross,376,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2002
+Eric Montross,376,Dunk Shot,2,6,4,Standard Dunk,DUNKS,2002
+Eric Montross,376,Fadeaway Jump Shot,2,2,2,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2002
+Eric Montross,376,Hook Shot,2,12,5,Hook Shot,POST_MOVES,2002
+Eric Montross,376,Jump Hook Shot,2,2,1,Hook Shot,POST_MOVES,2002
+Eric Montross,376,Jump Shot,2,69,23,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Eric Montross,376,Layup Shot,2,12,4,Standard Layup,LAYUPS,2002
+Eric Montross,376,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2002
+Eric Montross,376,Running Hook Shot,2,3,2,Running Hook Shot,POST_MOVES,2002
+Eric Montross,376,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,2002
+Eric Montross,376,Tip Shot,2,10,5,Tip Shot,TIP_SHOTS,2002
+Eric Montross,376,Turnaround Hook Shot,2,5,3,Turnaround Hook Shot,POST_MOVES,2002
+Eric Montross,376,Turnaround Jump Shot,2,3,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2002

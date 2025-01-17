@@ -1,3 +1,3 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jerome Beasley,2602,Standard Layup,2,2,0,LAYUPS,,2004
-Jerome Beasley,2602,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2004
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Jerome Beasley,2602,Layup Shot,2,2,0,Standard Layup,LAYUPS,2004
+Jerome Beasley,2602,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2004

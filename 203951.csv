@@ -1,6 +1,6 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Keith Appling,203951,Driving Layup,2,1,1,LAYUPS,,2016
-Keith Appling,203951,Jump Shot,2,2,0,JUMP_SHOTS,,2016
-Keith Appling,203951,Pullup Jump Shot,2,3,0,JUMP_SHOTS,,2016
-Keith Appling,203951,Running Jump Shot,2,1,0,JUMP_SHOTS,,2016
-Keith Appling,203951,Standard Layup,2,1,1,LAYUPS,,2016
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Keith Appling,203951,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2016
+Keith Appling,203951,Jump Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2016
+Keith Appling,203951,Pullup Jump shot,2,3,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2016
+Keith Appling,203951,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2016
+Keith Appling,203951,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2016

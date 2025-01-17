@@ -1,40 +1,61 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Keyonte George,1641718,Alley Oop Dunk,2,2,2,DUNKS,,2024
-Keyonte George,1641718,Alley Oop Layup,2,4,2,LAYUPS,,2024
-Keyonte George,1641718,Driving Dunk,2,3,3,DUNKS,,2024
-Keyonte George,1641718,Driving Layup,2,78,31,LAYUPS,,2024
-Keyonte George,1641718,Fadeaway Jump Shot,2,6,1,JUMP_SHOTS,,2024
-Keyonte George,1641718,Finger Roll,2,24,10,LAYUPS,,2024
-Keyonte George,1641718,Floating Jump Shot,2,149,77,FLOATING_SHOTS,,2024
-Keyonte George,1641718,Floating Jump Shot,3,1,1,FLOATING_SHOTS,,2024
-Keyonte George,1641718,Jump Shot,2,6,0,JUMP_SHOTS,,2024
-Keyonte George,1641718,Jump Shot,3,224,76,JUMP_SHOTS,,2024
-Keyonte George,1641718,Pullup Jump Shot,2,46,14,JUMP_SHOTS,,2024
-Keyonte George,1641718,Pullup Jump Shot,3,136,49,JUMP_SHOTS,,2024
-Keyonte George,1641718,Putback Layup,2,1,1,LAYUPS,,2024
-Keyonte George,1641718,Running Jump Shot,2,1,0,JUMP_SHOTS,,2024
-Keyonte George,1641718,Running Jump Shot,3,47,13,JUMP_SHOTS,,2024
-Keyonte George,1641718,Specialty Dunk,2,2,2,DUNKS,,2024
-Keyonte George,1641718,Standard Dunk,2,5,5,DUNKS,,2024
-Keyonte George,1641718,Standard Layup,2,39,21,LAYUPS,,2024
-Keyonte George,1641718,Step Back Jump Shot,2,7,2,JUMP_SHOTS,,2024
-Keyonte George,1641718,Step Back Jump Shot,3,32,8,JUMP_SHOTS,,2024
-Keyonte George,1641718,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2024
-Keyonte George,1641718,Driving Dunk,2,2,2,DUNKS,,2025
-Keyonte George,1641718,Driving Hook Shot,2,2,0,POST_MOVES,,2025
-Keyonte George,1641718,Driving Layup,2,35,16,LAYUPS,,2025
-Keyonte George,1641718,Fadeaway Jump Shot,2,5,1,JUMP_SHOTS,,2025
-Keyonte George,1641718,Finger Roll,2,25,18,LAYUPS,,2025
-Keyonte George,1641718,Floating Jump Shot,2,61,18,FLOATING_SHOTS,,2025
-Keyonte George,1641718,Jump Shot,2,1,0,JUMP_SHOTS,,2025
-Keyonte George,1641718,Jump Shot,3,111,41,JUMP_SHOTS,,2025
-Keyonte George,1641718,Pullup Jump Shot,2,11,6,JUMP_SHOTS,,2025
-Keyonte George,1641718,Pullup Jump Shot,3,71,25,JUMP_SHOTS,,2025
-Keyonte George,1641718,Putback Layup,2,1,1,LAYUPS,,2025
-Keyonte George,1641718,Reverse Layup,2,1,0,LAYUPS,,2025
-Keyonte George,1641718,Running Jump Shot,3,19,6,JUMP_SHOTS,,2025
-Keyonte George,1641718,Standard Dunk,2,5,4,DUNKS,,2025
-Keyonte George,1641718,Standard Layup,2,15,9,LAYUPS,,2025
-Keyonte George,1641718,Step Back Jump Shot,2,4,1,JUMP_SHOTS,,2025
-Keyonte George,1641718,Step Back Jump Shot,3,26,8,JUMP_SHOTS,,2025
-Keyonte George,1641718,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Keyonte George,1641718,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2024
+Keyonte George,1641718,Alley Oop Layup shot,2,2,1,Alley Oop Layup,LAYUPS,2024
+Keyonte George,1641718,Cutting Dunk Shot,2,2,2,Specialty Dunk,DUNKS,2024
+Keyonte George,1641718,Cutting Layup Shot,2,8,6,Standard Layup,LAYUPS,2024
+Keyonte George,1641718,Driving Dunk Shot,2,3,3,Driving Dunk,DUNKS,2024
+Keyonte George,1641718,Driving Finger Roll Layup Shot,2,19,6,Finger Roll,LAYUPS,2024
+Keyonte George,1641718,Driving Floating Bank Jump Shot,2,49,26,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Keyonte George,1641718,Driving Floating Jump Shot,2,91,47,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Keyonte George,1641718,Driving Layup Shot,2,77,30,Driving Layup,LAYUPS,2024
+Keyonte George,1641718,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2024
+Keyonte George,1641718,Fadeaway Bank shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
+Keyonte George,1641718,Fadeaway Jump Shot,2,5,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
+Keyonte George,1641718,Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2024
+Keyonte George,1641718,Floating Jump shot,2,9,4,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Keyonte George,1641718,Floating Jump shot,3,1,1,3PT Floating Jump Shot,FLOATING_SHOTS,2024
+Keyonte George,1641718,Jump Shot,2,6,0,2PT Jump Shot,TWO_POINT_JUMPERS,2024
+Keyonte George,1641718,Jump Shot,3,224,76,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Keyonte George,1641718,Layup Shot,2,6,3,Standard Layup,LAYUPS,2024
+Keyonte George,1641718,Pullup Jump shot,2,46,14,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2024
+Keyonte George,1641718,Pullup Jump shot,3,136,49,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
+Keyonte George,1641718,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2024
+Keyonte George,1641718,Running Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2024
+Keyonte George,1641718,Running Alley Oop Layup Shot,2,2,1,Alley Oop Layup,LAYUPS,2024
+Keyonte George,1641718,Running Dunk Shot,2,5,5,Standard Dunk,DUNKS,2024
+Keyonte George,1641718,Running Finger Roll Layup Shot,2,4,4,Finger Roll,LAYUPS,2024
+Keyonte George,1641718,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2024
+Keyonte George,1641718,Running Jump Shot,3,29,4,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Keyonte George,1641718,Running Layup Shot,2,25,12,Standard Layup,LAYUPS,2024
+Keyonte George,1641718,Running Pull-Up Jump Shot,3,18,9,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Keyonte George,1641718,Step Back Jump shot,2,7,2,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2024
+Keyonte George,1641718,Step Back Jump shot,3,32,8,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
+Keyonte George,1641718,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Keyonte George,1641718,Cutting Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2025
+Keyonte George,1641718,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2025
+Keyonte George,1641718,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2025
+Keyonte George,1641718,Driving Finger Roll Layup Shot,2,20,14,Finger Roll,LAYUPS,2025
+Keyonte George,1641718,Driving Floating Bank Jump Shot,2,21,5,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Keyonte George,1641718,Driving Floating Jump Shot,2,38,13,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Keyonte George,1641718,Driving Hook Shot,2,2,0,Driving Hook Shot,POST_MOVES,2025
+Keyonte George,1641718,Driving Layup Shot,2,34,15,Driving Layup,LAYUPS,2025
+Keyonte George,1641718,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2025
+Keyonte George,1641718,Fadeaway Jump Shot,2,5,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
+Keyonte George,1641718,Floating Jump shot,2,2,0,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Keyonte George,1641718,Jump Bank Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Keyonte George,1641718,Jump Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2025
+Keyonte George,1641718,Jump Shot,3,110,41,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Keyonte George,1641718,Layup Shot,2,2,2,Standard Layup,LAYUPS,2025
+Keyonte George,1641718,Pullup Jump shot,2,11,6,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
+Keyonte George,1641718,Pullup Jump shot,3,71,25,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
+Keyonte George,1641718,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2025
+Keyonte George,1641718,Running Dunk Shot,2,5,4,Standard Dunk,DUNKS,2025
+Keyonte George,1641718,Running Finger Roll Layup Shot,2,4,3,Finger Roll,LAYUPS,2025
+Keyonte George,1641718,Running Jump Shot,3,10,5,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Keyonte George,1641718,Running Layup Shot,2,12,6,Standard Layup,LAYUPS,2025
+Keyonte George,1641718,Running Pull-Up Jump Shot,3,9,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Keyonte George,1641718,Running Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2025
+Keyonte George,1641718,Step Back Jump shot,2,4,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2025
+Keyonte George,1641718,Step Back Jump shot,3,26,8,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
+Keyonte George,1641718,Turnaround Fadeaway shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+Keyonte George,1641718,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025

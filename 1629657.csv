@@ -1,25 +1,34 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Kyle Guy,1629657,Jump Shot,2,3,0,JUMP_SHOTS,,2020
-Kyle Guy,1629657,Standard Layup,2,1,1,LAYUPS,,2020
-Kyle Guy,1629657,Step Back Jump Shot,2,1,1,JUMP_SHOTS,,2020
-Kyle Guy,1629657,Driving Layup,2,13,5,LAYUPS,,2021
-Kyle Guy,1629657,Fadeaway Jump Shot,2,3,1,JUMP_SHOTS,,2021
-Kyle Guy,1629657,Finger Roll,2,2,1,LAYUPS,,2021
-Kyle Guy,1629657,Floating Jump Shot,2,10,2,FLOATING_SHOTS,,2021
-Kyle Guy,1629657,Jump Shot,2,33,9,JUMP_SHOTS,,2021
-Kyle Guy,1629657,Jump Shot,3,7,2,JUMP_SHOTS,,2021
-Kyle Guy,1629657,Pullup Jump Shot,2,5,2,JUMP_SHOTS,,2021
-Kyle Guy,1629657,Running Jump Shot,2,2,2,JUMP_SHOTS,,2021
-Kyle Guy,1629657,Standard Dunk,2,1,0,DUNKS,,2021
-Kyle Guy,1629657,Standard Layup,2,8,3,LAYUPS,,2021
-Kyle Guy,1629657,Step Back Jump Shot,2,3,2,JUMP_SHOTS,,2021
-Kyle Guy,1629657,Step Back Jump Shot,3,1,0,JUMP_SHOTS,,2021
-Kyle Guy,1629657,Driving Layup,2,9,5,LAYUPS,,2022
-Kyle Guy,1629657,Finger Roll,2,2,1,LAYUPS,,2022
-Kyle Guy,1629657,Floating Jump Shot,2,5,0,FLOATING_SHOTS,,2022
-Kyle Guy,1629657,Jump Shot,2,32,12,JUMP_SHOTS,,2022
-Kyle Guy,1629657,Jump Shot,3,1,0,JUMP_SHOTS,,2022
-Kyle Guy,1629657,Pullup Jump Shot,2,9,4,JUMP_SHOTS,,2022
-Kyle Guy,1629657,Running Jump Shot,2,1,1,JUMP_SHOTS,,2022
-Kyle Guy,1629657,Standard Layup,2,3,1,LAYUPS,,2022
-Kyle Guy,1629657,Step Back Jump Shot,2,3,2,JUMP_SHOTS,,2022
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Kyle Guy,1629657,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2020
+Kyle Guy,1629657,Jump Shot,2,3,0,2PT Jump Shot,TWO_POINT_JUMPERS,2020
+Kyle Guy,1629657,Step Back Jump shot,2,1,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2020
+Kyle Guy,1629657,Cutting Layup Shot,2,2,0,Standard Layup,LAYUPS,2021
+Kyle Guy,1629657,Driving Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2021
+Kyle Guy,1629657,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Kyle Guy,1629657,Driving Floating Jump Shot,2,4,1,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Kyle Guy,1629657,Driving Layup Shot,2,11,3,Driving Layup,LAYUPS,2021
+Kyle Guy,1629657,Driving Reverse Layup Shot,2,2,2,Driving Layup,LAYUPS,2021
+Kyle Guy,1629657,Dunk Shot,2,1,0,Standard Dunk,DUNKS,2021
+Kyle Guy,1629657,Fadeaway Jump Shot,2,3,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2021
+Kyle Guy,1629657,Floating Jump shot,2,5,1,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Kyle Guy,1629657,Jump Shot,2,33,9,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Kyle Guy,1629657,Jump Shot,3,7,2,3PT Jump Shot,THREE_POINT_JUMPERS,2021
+Kyle Guy,1629657,Layup Shot,2,2,1,Standard Layup,LAYUPS,2021
+Kyle Guy,1629657,Pullup Jump shot,2,5,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2021
+Kyle Guy,1629657,Running Jump Shot,2,2,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2021
+Kyle Guy,1629657,Running Layup Shot,2,4,2,Standard Layup,LAYUPS,2021
+Kyle Guy,1629657,Step Back Jump shot,2,3,2,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2021
+Kyle Guy,1629657,Step Back Jump shot,3,1,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2021
+Kyle Guy,1629657,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2022
+Kyle Guy,1629657,Driving Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2022
+Kyle Guy,1629657,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Kyle Guy,1629657,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Kyle Guy,1629657,Driving Layup Shot,2,8,4,Driving Layup,LAYUPS,2022
+Kyle Guy,1629657,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2022
+Kyle Guy,1629657,Floating Jump shot,2,3,0,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Kyle Guy,1629657,Jump Shot,2,32,12,2PT Jump Shot,TWO_POINT_JUMPERS,2022
+Kyle Guy,1629657,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2022
+Kyle Guy,1629657,Layup Shot,2,2,0,Standard Layup,LAYUPS,2022
+Kyle Guy,1629657,Pullup Jump shot,2,9,4,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2022
+Kyle Guy,1629657,Running Pull-Up Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2022
+Kyle Guy,1629657,Step Back Jump shot,2,3,2,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2022

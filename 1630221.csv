@@ -1,11 +1,19 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Josh Hall,1630221,Driving Layup,2,18,7,LAYUPS,,2021
-Josh Hall,1630221,Floating Jump Shot,2,15,6,FLOATING_SHOTS,,2021
-Josh Hall,1630221,Jump Shot,2,37,4,JUMP_SHOTS,,2021
-Josh Hall,1630221,Pullup Jump Shot,2,9,3,JUMP_SHOTS,,2021
-Josh Hall,1630221,Putback Layup,2,2,2,LAYUPS,,2021
-Josh Hall,1630221,Running Jump Shot,2,2,1,JUMP_SHOTS,,2021
-Josh Hall,1630221,Standard Dunk,2,1,1,DUNKS,,2021
-Josh Hall,1630221,Standard Layup,2,9,4,LAYUPS,,2021
-Josh Hall,1630221,Step Back Jump Shot,2,4,2,JUMP_SHOTS,,2021
-Josh Hall,1630221,Turnaround Jump Shot,2,2,0,JUMP_SHOTS,,2021
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Josh Hall,1630221,Driving Floating Bank Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Josh Hall,1630221,Driving Floating Jump Shot,2,11,4,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Josh Hall,1630221,Driving Layup Shot,2,18,7,Driving Layup,LAYUPS,2021
+Josh Hall,1630221,Floating Jump shot,2,3,1,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Josh Hall,1630221,Jump Bank Shot,2,2,1,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Josh Hall,1630221,Jump Shot,2,35,3,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Josh Hall,1630221,Layup Shot,2,6,2,Standard Layup,LAYUPS,2021
+Josh Hall,1630221,Pullup Jump shot,2,9,3,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2021
+Josh Hall,1630221,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2021
+Josh Hall,1630221,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2021
+Josh Hall,1630221,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2021
+Josh Hall,1630221,Running Layup Shot,2,3,2,Standard Layup,LAYUPS,2021
+Josh Hall,1630221,Running Pull-Up Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2021
+Josh Hall,1630221,Step Back Bank Jump Shot,2,1,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2021
+Josh Hall,1630221,Step Back Jump shot,2,3,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2021
+Josh Hall,1630221,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2021
+Josh Hall,1630221,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2021
+Josh Hall,1630221,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2021

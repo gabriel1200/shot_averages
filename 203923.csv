@@ -1,32 +1,37 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-James Young,203923,Alley Oop Dunk,2,1,1,DUNKS,,2015
-James Young,203923,Driving Layup,2,4,2,LAYUPS,,2015
-James Young,203923,Fadeaway Jump Shot,2,2,1,JUMP_SHOTS,,2015
-James Young,203923,Jump Shot,2,81,22,JUMP_SHOTS,,2015
-James Young,203923,Pullup Jump Shot,2,4,2,JUMP_SHOTS,,2015
-James Young,203923,Reverse Layup,2,3,3,LAYUPS,,2015
-James Young,203923,Running Jump Shot,2,3,2,JUMP_SHOTS,,2015
-James Young,203923,Standard Dunk,2,1,1,DUNKS,,2015
-James Young,203923,Standard Layup,2,2,2,LAYUPS,,2015
-James Young,203923,Tip Shot,2,1,0,TIP_SHOTS,,2015
-James Young,203923,Driving Layup,2,1,0,LAYUPS,,2016
-James Young,203923,Finger Roll,2,2,1,LAYUPS,,2016
-James Young,203923,Floating Jump Shot,2,2,1,FLOATING_SHOTS,,2016
-James Young,203923,Jump Shot,2,28,8,JUMP_SHOTS,,2016
-James Young,203923,Pullup Jump Shot,2,1,0,JUMP_SHOTS,,2016
-James Young,203923,Standard Layup,2,2,1,LAYUPS,,2016
-James Young,203923,Driving Layup,2,1,1,LAYUPS,,2017
-James Young,203923,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2017
-James Young,203923,Finger Roll,2,1,1,LAYUPS,,2017
-James Young,203923,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2017
-James Young,203923,Hook Shot,2,1,1,POST_MOVES,,2017
-James Young,203923,Jump Shot,2,42,13,JUMP_SHOTS,,2017
-James Young,203923,Pullup Jump Shot,2,2,0,JUMP_SHOTS,,2017
-James Young,203923,Putback Dunk,2,1,0,DUNKS,,2017
-James Young,203923,Putback Layup,2,1,1,LAYUPS,,2017
-James Young,203923,Standard Dunk,2,2,2,DUNKS,,2017
-James Young,203923,Standard Layup,2,4,4,LAYUPS,,2017
-James Young,203923,Driving Layup,2,1,1,LAYUPS,,2018
-James Young,203923,Jump Shot,2,11,3,JUMP_SHOTS,,2018
-James Young,203923,Pullup Jump Shot,2,1,1,JUMP_SHOTS,,2018
-James Young,203923,Standard Layup,2,1,0,LAYUPS,,2018
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+James Young,203923,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2015
+James Young,203923,Driving Layup Shot,2,4,2,Driving Layup,LAYUPS,2015
+James Young,203923,Fadeaway Jump Shot,2,2,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2015
+James Young,203923,Jump Shot,2,81,22,2PT Jump Shot,TWO_POINT_JUMPERS,2015
+James Young,203923,Layup Shot,2,2,2,Standard Layup,LAYUPS,2015
+James Young,203923,Pullup Jump shot,2,4,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2015
+James Young,203923,Reverse Layup Shot,2,3,3,Reverse Layup,LAYUPS,2015
+James Young,203923,Running Jump Shot,2,3,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2015
+James Young,203923,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2015
+James Young,203923,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2015
+James Young,203923,Cutting Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2016
+James Young,203923,Driving Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2016
+James Young,203923,Driving Floating Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2016
+James Young,203923,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2016
+James Young,203923,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2016
+James Young,203923,Jump Shot,2,28,8,2PT Jump Shot,TWO_POINT_JUMPERS,2016
+James Young,203923,Layup Shot,2,2,1,Standard Layup,LAYUPS,2016
+James Young,203923,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2016
+James Young,203923,Cutting Layup Shot,2,2,2,Standard Layup,LAYUPS,2017
+James Young,203923,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2017
+James Young,203923,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2017
+James Young,203923,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2017
+James Young,203923,Fadeaway Bank shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2017
+James Young,203923,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2017
+James Young,203923,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2017
+James Young,203923,Jump Shot,2,42,13,2PT Jump Shot,TWO_POINT_JUMPERS,2017
+James Young,203923,Layup Shot,2,1,1,Standard Layup,LAYUPS,2017
+James Young,203923,Pullup Jump shot,2,2,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2017
+James Young,203923,Putback Dunk Shot,2,1,0,Putback Dunk,DUNKS,2017
+James Young,203923,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2017
+James Young,203923,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2017
+James Young,203923,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2017
+James Young,203923,Cutting Layup Shot,2,1,0,Standard Layup,LAYUPS,2018
+James Young,203923,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2018
+James Young,203923,Jump Shot,2,11,3,2PT Jump Shot,TWO_POINT_JUMPERS,2018
+James Young,203923,Pullup Jump shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2018

@@ -1,13 +1,16 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Lorenzo Williams,31,Hook Shot,2,1,0,POST_MOVES,,1997
-Lorenzo Williams,31,Standard Dunk,2,8,7,DUNKS,,1997
-Lorenzo Williams,31,Standard Layup,2,17,10,LAYUPS,,1997
-Lorenzo Williams,31,Tip Shot,2,5,3,TIP_SHOTS,,1997
-Lorenzo Williams,31,Jump Shot,2,2,0,JUMP_SHOTS,,1998
-Lorenzo Williams,31,Standard Dunk,2,5,5,DUNKS,,1998
-Lorenzo Williams,31,Standard Layup,2,6,5,LAYUPS,,1998
-Lorenzo Williams,31,Tip Shot,2,4,3,TIP_SHOTS,,1998
-Lorenzo Williams,31,Jump Shot,2,2,1,JUMP_SHOTS,,2000
-Lorenzo Williams,31,Standard Dunk,2,3,2,DUNKS,,2000
-Lorenzo Williams,31,Standard Layup,2,2,2,LAYUPS,,2000
-Lorenzo Williams,31,Tip Shot,2,2,2,TIP_SHOTS,,2000
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Lorenzo Williams,31,Dunk Shot,2,6,5,Standard Dunk,DUNKS,1997
+Lorenzo Williams,31,Hook Shot,2,1,0,Hook Shot,POST_MOVES,1997
+Lorenzo Williams,31,Layup Shot,2,17,10,Standard Layup,LAYUPS,1997
+Lorenzo Williams,31,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,1997
+Lorenzo Williams,31,Tip Shot,2,5,3,Tip Shot,TIP_SHOTS,1997
+Lorenzo Williams,31,Dunk Shot,2,3,3,Standard Dunk,DUNKS,1998
+Lorenzo Williams,31,Jump Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+Lorenzo Williams,31,Layup Shot,2,6,5,Standard Layup,LAYUPS,1998
+Lorenzo Williams,31,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,1998
+Lorenzo Williams,31,Tip Shot,2,4,3,Tip Shot,TIP_SHOTS,1998
+Lorenzo Williams,31,Dunk Shot,2,2,1,Standard Dunk,DUNKS,2000
+Lorenzo Williams,31,Jump Shot,2,2,1,2PT Jump Shot,TWO_POINT_JUMPERS,2000
+Lorenzo Williams,31,Layup Shot,2,2,2,Standard Layup,LAYUPS,2000
+Lorenzo Williams,31,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2000
+Lorenzo Williams,31,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,2000

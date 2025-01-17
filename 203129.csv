@@ -1,20 +1,24 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Tornike Shengelia,203129,Driving Dunk,2,1,1,DUNKS,,2013
-Tornike Shengelia,203129,Driving Jump Shot,2,2,0,JUMP_SHOTS,,2013
-Tornike Shengelia,203129,Driving Layup,2,2,2,LAYUPS,,2013
-Tornike Shengelia,203129,Hook Shot,2,1,0,POST_MOVES,,2013
-Tornike Shengelia,203129,Jump Shot,2,3,1,JUMP_SHOTS,,2013
-Tornike Shengelia,203129,Putback Dunk,2,1,1,DUNKS,,2013
-Tornike Shengelia,203129,Reverse Layup,2,1,0,LAYUPS,,2013
-Tornike Shengelia,203129,Standard Layup,2,11,5,LAYUPS,,2013
-Tornike Shengelia,203129,Alley Oop Dunk,2,1,1,DUNKS,,2014
-Tornike Shengelia,203129,Driving Dunk,2,1,1,DUNKS,,2014
-Tornike Shengelia,203129,Driving Jump Shot,2,1,0,JUMP_SHOTS,,2014
-Tornike Shengelia,203129,Driving Layup,2,8,5,LAYUPS,,2014
-Tornike Shengelia,203129,Finger Roll,2,1,1,LAYUPS,,2014
-Tornike Shengelia,203129,Floating Jump Shot,2,1,1,FLOATING_SHOTS,,2014
-Tornike Shengelia,203129,Hook Shot,2,2,0,POST_MOVES,,2014
-Tornike Shengelia,203129,Jump Shot,2,7,0,JUMP_SHOTS,,2014
-Tornike Shengelia,203129,Reverse Layup,2,1,0,LAYUPS,,2014
-Tornike Shengelia,203129,Standard Dunk,2,1,1,DUNKS,,2014
-Tornike Shengelia,203129,Standard Layup,2,4,3,LAYUPS,,2014
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Tornike Shengelia,203129,Driving Bank shot,2,1,0,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2013
+Tornike Shengelia,203129,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2013
+Tornike Shengelia,203129,Driving Jump shot,2,1,0,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2013
+Tornike Shengelia,203129,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,2013
+Tornike Shengelia,203129,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2013
+Tornike Shengelia,203129,Jump Shot,2,3,1,2PT Jump Shot,TWO_POINT_JUMPERS,2013
+Tornike Shengelia,203129,Layup Shot,2,10,5,Standard Layup,LAYUPS,2013
+Tornike Shengelia,203129,Putback Slam Dunk Shot,2,1,1,Putback Dunk,DUNKS,2013
+Tornike Shengelia,203129,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2013
+Tornike Shengelia,203129,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2013
+Tornike Shengelia,203129,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2014
+Tornike Shengelia,203129,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2014
+Tornike Shengelia,203129,Driving Jump shot,2,1,0,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2014
+Tornike Shengelia,203129,Driving Layup Shot,2,7,4,Driving Layup,LAYUPS,2014
+Tornike Shengelia,203129,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2014
+Tornike Shengelia,203129,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2014
+Tornike Shengelia,203129,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2014
+Tornike Shengelia,203129,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2014
+Tornike Shengelia,203129,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2014
+Tornike Shengelia,203129,Jump Hook Shot,2,1,0,Hook Shot,POST_MOVES,2014
+Tornike Shengelia,203129,Jump Shot,2,7,0,2PT Jump Shot,TWO_POINT_JUMPERS,2014
+Tornike Shengelia,203129,Layup Shot,2,4,3,Standard Layup,LAYUPS,2014
+Tornike Shengelia,203129,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2014

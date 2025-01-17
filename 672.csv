@@ -1,48 +1,50 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Matt Bullard,672,Driving Layup,2,15,13,LAYUPS,,1997
-Matt Bullard,672,Hook Shot,2,3,3,POST_MOVES,,1997
-Matt Bullard,672,Jump Shot,2,219,82,JUMP_SHOTS,,1997
-Matt Bullard,672,Jump Shot,3,20,5,JUMP_SHOTS,,1997
-Matt Bullard,672,Running Jump Shot,2,7,2,JUMP_SHOTS,,1997
-Matt Bullard,672,Standard Dunk,2,4,3,DUNKS,,1997
-Matt Bullard,672,Standard Layup,2,15,5,LAYUPS,,1997
-Matt Bullard,672,Tip Shot,2,1,1,TIP_SHOTS,,1997
-Matt Bullard,672,Driving Dunk,2,1,0,DUNKS,,1998
-Matt Bullard,672,Driving Layup,2,8,7,LAYUPS,,1998
-Matt Bullard,672,Hook Shot,2,7,5,POST_MOVES,,1998
-Matt Bullard,672,Jump Shot,2,329,139,JUMP_SHOTS,,1998
-Matt Bullard,672,Jump Shot,3,4,1,JUMP_SHOTS,,1998
-Matt Bullard,672,Running Jump Shot,2,21,9,JUMP_SHOTS,,1998
-Matt Bullard,672,Standard Dunk,2,6,5,DUNKS,,1998
-Matt Bullard,672,Standard Layup,2,12,9,LAYUPS,,1998
-Matt Bullard,672,Tip Shot,2,1,0,TIP_SHOTS,,1998
-Matt Bullard,672,Driving Layup,2,4,1,LAYUPS,,1999
-Matt Bullard,672,Jump Shot,2,90,33,JUMP_SHOTS,,1999
-Matt Bullard,672,Jump Shot,3,7,2,JUMP_SHOTS,,1999
-Matt Bullard,672,Running Jump Shot,2,3,0,JUMP_SHOTS,,1999
-Matt Bullard,672,Standard Dunk,2,2,2,DUNKS,,1999
-Matt Bullard,672,Standard Layup,2,6,3,LAYUPS,,1999
-Matt Bullard,672,Tip Shot,2,2,2,TIP_SHOTS,,1999
-Matt Bullard,672,Driving Dunk,2,1,0,DUNKS,,2000
-Matt Bullard,672,Driving Layup,2,6,3,LAYUPS,,2000
-Matt Bullard,672,Hook Shot,2,9,1,POST_MOVES,,2000
-Matt Bullard,672,Jump Shot,2,297,124,JUMP_SHOTS,,2000
-Matt Bullard,672,Running Jump Shot,2,12,6,JUMP_SHOTS,,2000
-Matt Bullard,672,Standard Dunk,2,2,2,DUNKS,,2000
-Matt Bullard,672,Standard Layup,2,12,3,LAYUPS,,2000
-Matt Bullard,672,Tip Shot,2,1,0,TIP_SHOTS,,2000
-Matt Bullard,672,Driving Layup,2,6,3,LAYUPS,,2001
-Matt Bullard,672,Hook Shot,2,2,1,POST_MOVES,,2001
-Matt Bullard,672,Jump Shot,2,283,115,JUMP_SHOTS,,2001
-Matt Bullard,672,Running Hook Shot,2,1,1,POST_MOVES,,2001
-Matt Bullard,672,Running Jump Shot,2,7,5,JUMP_SHOTS,,2001
-Matt Bullard,672,Standard Dunk,2,1,1,DUNKS,,2001
-Matt Bullard,672,Standard Layup,2,4,3,LAYUPS,,2001
-Matt Bullard,672,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2001
-Matt Bullard,672,Driving Layup,2,1,1,LAYUPS,,2002
-Matt Bullard,672,Hook Shot,2,2,1,POST_MOVES,,2002
-Matt Bullard,672,Jump Shot,2,100,31,JUMP_SHOTS,,2002
-Matt Bullard,672,Running Jump Shot,2,1,1,JUMP_SHOTS,,2002
-Matt Bullard,672,Standard Layup,2,7,3,LAYUPS,,2002
-Matt Bullard,672,Tip Shot,2,3,1,TIP_SHOTS,,2002
-Matt Bullard,672,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2002
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Matt Bullard,672,Driving Layup Shot,2,15,13,Driving Layup,LAYUPS,1997
+Matt Bullard,672,Dunk Shot,2,3,2,Standard Dunk,DUNKS,1997
+Matt Bullard,672,Hook Shot,2,3,3,Hook Shot,POST_MOVES,1997
+Matt Bullard,672,Jump Shot,2,219,82,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Matt Bullard,672,Jump Shot,3,20,5,3PT Jump Shot,THREE_POINT_JUMPERS,1997
+Matt Bullard,672,Layup Shot,2,15,5,Standard Layup,LAYUPS,1997
+Matt Bullard,672,Running Jump Shot,2,7,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
+Matt Bullard,672,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,1997
+Matt Bullard,672,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,1997
+Matt Bullard,672,Driving Dunk Shot,2,1,0,Driving Dunk,DUNKS,1998
+Matt Bullard,672,Driving Layup Shot,2,8,7,Driving Layup,LAYUPS,1998
+Matt Bullard,672,Dunk Shot,2,6,5,Standard Dunk,DUNKS,1998
+Matt Bullard,672,Hook Shot,2,7,5,Hook Shot,POST_MOVES,1998
+Matt Bullard,672,Jump Shot,2,329,139,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+Matt Bullard,672,Jump Shot,3,4,1,3PT Jump Shot,THREE_POINT_JUMPERS,1998
+Matt Bullard,672,Layup Shot,2,12,9,Standard Layup,LAYUPS,1998
+Matt Bullard,672,Running Jump Shot,2,21,9,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
+Matt Bullard,672,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,1998
+Matt Bullard,672,Driving Layup Shot,2,4,1,Driving Layup,LAYUPS,1999
+Matt Bullard,672,Dunk Shot,2,2,2,Standard Dunk,DUNKS,1999
+Matt Bullard,672,Jump Shot,2,90,33,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Matt Bullard,672,Jump Shot,3,7,2,3PT Jump Shot,THREE_POINT_JUMPERS,1999
+Matt Bullard,672,Layup Shot,2,6,3,Standard Layup,LAYUPS,1999
+Matt Bullard,672,Running Jump Shot,2,3,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999
+Matt Bullard,672,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,1999
+Matt Bullard,672,Driving Dunk Shot,2,1,0,Driving Dunk,DUNKS,2000
+Matt Bullard,672,Driving Layup Shot,2,6,3,Driving Layup,LAYUPS,2000
+Matt Bullard,672,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2000
+Matt Bullard,672,Hook Shot,2,9,1,Hook Shot,POST_MOVES,2000
+Matt Bullard,672,Jump Shot,2,297,124,2PT Jump Shot,TWO_POINT_JUMPERS,2000
+Matt Bullard,672,Layup Shot,2,12,3,Standard Layup,LAYUPS,2000
+Matt Bullard,672,Running Jump Shot,2,12,6,2PT Running Jump Shot,TWO_POINT_JUMPERS,2000
+Matt Bullard,672,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2000
+Matt Bullard,672,Driving Layup Shot,2,6,3,Driving Layup,LAYUPS,2001
+Matt Bullard,672,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2001
+Matt Bullard,672,Hook Shot,2,2,1,Hook Shot,POST_MOVES,2001
+Matt Bullard,672,Jump Shot,2,283,115,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Matt Bullard,672,Layup Shot,2,3,3,Standard Layup,LAYUPS,2001
+Matt Bullard,672,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,2001
+Matt Bullard,672,Running Jump Shot,2,7,5,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
+Matt Bullard,672,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2001
+Matt Bullard,672,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2001
+Matt Bullard,672,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2002
+Matt Bullard,672,Hook Shot,2,2,1,Hook Shot,POST_MOVES,2002
+Matt Bullard,672,Jump Shot,2,100,31,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Matt Bullard,672,Layup Shot,2,7,3,Standard Layup,LAYUPS,2002
+Matt Bullard,672,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2002
+Matt Bullard,672,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,2002
+Matt Bullard,672,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2002

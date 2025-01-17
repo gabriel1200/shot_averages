@@ -1,43 +1,54 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Manny Harris,202412,Driving Dunk,2,2,2,DUNKS,,2011
-Manny Harris,202412,Driving Jump Shot,2,1,0,JUMP_SHOTS,,2011
-Manny Harris,202412,Driving Layup,2,22,13,LAYUPS,,2011
-Manny Harris,202412,Fadeaway Jump Shot,2,2,1,JUMP_SHOTS,,2011
-Manny Harris,202412,Finger Roll,2,3,2,LAYUPS,,2011
-Manny Harris,202412,Floating Jump Shot,2,8,2,FLOATING_SHOTS,,2011
-Manny Harris,202412,Hook Shot,2,1,0,POST_MOVES,,2011
-Manny Harris,202412,Jump Shot,2,163,46,JUMP_SHOTS,,2011
-Manny Harris,202412,Pullup Jump Shot,2,4,3,JUMP_SHOTS,,2011
-Manny Harris,202412,Putback Layup,2,1,1,LAYUPS,,2011
-Manny Harris,202412,Reverse Layup,2,2,2,LAYUPS,,2011
-Manny Harris,202412,Running Jump Shot,2,12,6,JUMP_SHOTS,,2011
-Manny Harris,202412,Standard Dunk,2,2,2,DUNKS,,2011
-Manny Harris,202412,Standard Layup,2,57,23,LAYUPS,,2011
-Manny Harris,202412,Tip Shot,2,7,4,TIP_SHOTS,,2011
-Manny Harris,202412,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2011
-Manny Harris,202412,Driving Jump Shot,2,2,1,JUMP_SHOTS,,2012
-Manny Harris,202412,Driving Layup,2,18,14,LAYUPS,,2012
-Manny Harris,202412,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2012
-Manny Harris,202412,Floating Jump Shot,2,3,2,FLOATING_SHOTS,,2012
-Manny Harris,202412,Jump Shot,2,87,23,JUMP_SHOTS,,2012
-Manny Harris,202412,Pullup Jump Shot,2,1,1,JUMP_SHOTS,,2012
-Manny Harris,202412,Running Jump Shot,2,4,4,JUMP_SHOTS,,2012
-Manny Harris,202412,Standard Dunk,2,2,2,DUNKS,,2012
-Manny Harris,202412,Standard Layup,2,29,11,LAYUPS,,2012
-Manny Harris,202412,Step Back Jump Shot,2,2,2,JUMP_SHOTS,,2012
-Manny Harris,202412,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2012
-Manny Harris,202412,Driving Dunk,2,2,2,DUNKS,,2014
-Manny Harris,202412,Driving Jump Shot,2,1,0,JUMP_SHOTS,,2014
-Manny Harris,202412,Driving Layup,2,9,7,LAYUPS,,2014
-Manny Harris,202412,Fadeaway Jump Shot,2,2,0,JUMP_SHOTS,,2014
-Manny Harris,202412,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2014
-Manny Harris,202412,Jump Shot,2,31,8,JUMP_SHOTS,,2014
-Manny Harris,202412,Pullup Jump Shot,2,6,4,JUMP_SHOTS,,2014
-Manny Harris,202412,Putback Dunk,2,1,1,DUNKS,,2014
-Manny Harris,202412,Running Jump Shot,2,4,1,JUMP_SHOTS,,2014
-Manny Harris,202412,Standard Layup,2,13,5,LAYUPS,,2014
-Manny Harris,202412,Driving Layup,2,2,2,LAYUPS,,2017
-Manny Harris,202412,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2017
-Manny Harris,202412,Jump Shot,2,8,1,JUMP_SHOTS,,2017
-Manny Harris,202412,Pullup Jump Shot,2,1,0,JUMP_SHOTS,,2017
-Manny Harris,202412,Standard Layup,2,3,0,LAYUPS,,2017
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Manny Harris,202412,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2011
+Manny Harris,202412,Driving Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2011
+Manny Harris,202412,Driving Jump shot,2,1,0,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2011
+Manny Harris,202412,Driving Layup Shot,2,21,12,Driving Layup,LAYUPS,2011
+Manny Harris,202412,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2011
+Manny Harris,202412,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2011
+Manny Harris,202412,Fadeaway Jump Shot,2,2,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2011
+Manny Harris,202412,Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2011
+Manny Harris,202412,Floating Jump shot,2,8,2,2PT Floating Jump Shot,FLOATING_SHOTS,2011
+Manny Harris,202412,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2011
+Manny Harris,202412,Jump Bank Shot,2,6,4,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Manny Harris,202412,Jump Shot,2,157,42,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Manny Harris,202412,Layup Shot,2,55,23,Standard Layup,LAYUPS,2011
+Manny Harris,202412,Pullup Jump shot,2,4,3,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2011
+Manny Harris,202412,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2011
+Manny Harris,202412,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2011
+Manny Harris,202412,Running Bank shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2011
+Manny Harris,202412,Running Jump Shot,2,11,5,2PT Running Jump Shot,TWO_POINT_JUMPERS,2011
+Manny Harris,202412,Running Layup Shot,2,2,0,Standard Layup,LAYUPS,2011
+Manny Harris,202412,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2011
+Manny Harris,202412,Tip Shot,2,7,4,Tip Shot,TIP_SHOTS,2011
+Manny Harris,202412,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2011
+Manny Harris,202412,Driving Jump shot,2,2,1,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2012
+Manny Harris,202412,Driving Layup Shot,2,18,14,Driving Layup,LAYUPS,2012
+Manny Harris,202412,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2012
+Manny Harris,202412,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2012
+Manny Harris,202412,Floating Jump shot,2,3,2,2PT Floating Jump Shot,FLOATING_SHOTS,2012
+Manny Harris,202412,Jump Bank Shot,2,2,2,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Manny Harris,202412,Jump Shot,2,85,21,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Manny Harris,202412,Layup Shot,2,28,10,Standard Layup,LAYUPS,2012
+Manny Harris,202412,Pullup Jump shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2012
+Manny Harris,202412,Running Jump Shot,2,4,4,2PT Running Jump Shot,TWO_POINT_JUMPERS,2012
+Manny Harris,202412,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2012
+Manny Harris,202412,Step Back Jump shot,2,2,2,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2012
+Manny Harris,202412,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2012
+Manny Harris,202412,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2014
+Manny Harris,202412,Driving Jump shot,2,1,0,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2014
+Manny Harris,202412,Driving Layup Shot,2,9,7,Driving Layup,LAYUPS,2014
+Manny Harris,202412,Fadeaway Jump Shot,2,2,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2014
+Manny Harris,202412,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2014
+Manny Harris,202412,Jump Shot,2,31,8,2PT Jump Shot,TWO_POINT_JUMPERS,2014
+Manny Harris,202412,Layup Shot,2,10,5,Standard Layup,LAYUPS,2014
+Manny Harris,202412,Pullup Jump shot,2,6,4,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2014
+Manny Harris,202412,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2014
+Manny Harris,202412,Running Bank shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2014
+Manny Harris,202412,Running Jump Shot,2,2,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2014
+Manny Harris,202412,Running Layup Shot,2,3,0,Standard Layup,LAYUPS,2014
+Manny Harris,202412,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2017
+Manny Harris,202412,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2017
+Manny Harris,202412,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2017
+Manny Harris,202412,Jump Shot,2,8,1,2PT Jump Shot,TWO_POINT_JUMPERS,2017
+Manny Harris,202412,Layup Shot,2,3,0,Standard Layup,LAYUPS,2017
+Manny Harris,202412,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2017

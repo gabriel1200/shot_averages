@@ -1,11 +1,12 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Sharone Wright,412,Driving Layup,2,8,4,LAYUPS,,1997
-Sharone Wright,412,Hook Shot,2,3,2,POST_MOVES,,1997
-Sharone Wright,412,Jump Shot,2,214,66,JUMP_SHOTS,,1997
-Sharone Wright,412,Running Jump Shot,2,1,0,JUMP_SHOTS,,1997
-Sharone Wright,412,Standard Dunk,2,43,39,DUNKS,,1997
-Sharone Wright,412,Standard Layup,2,119,44,LAYUPS,,1997
-Sharone Wright,412,Tip Shot,2,15,6,TIP_SHOTS,,1997
-Sharone Wright,412,Jump Shot,2,7,2,JUMP_SHOTS,,1998
-Sharone Wright,412,Standard Layup,2,6,4,LAYUPS,,1998
-Sharone Wright,412,Tip Shot,2,1,1,TIP_SHOTS,,1998
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Sharone Wright,412,Driving Layup Shot,2,8,4,Driving Layup,LAYUPS,1997
+Sharone Wright,412,Dunk Shot,2,12,8,Standard Dunk,DUNKS,1997
+Sharone Wright,412,Hook Shot,2,3,2,Hook Shot,POST_MOVES,1997
+Sharone Wright,412,Jump Shot,2,214,66,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Sharone Wright,412,Layup Shot,2,119,44,Standard Layup,LAYUPS,1997
+Sharone Wright,412,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
+Sharone Wright,412,Slam Dunk Shot,2,31,31,Standard Dunk,DUNKS,1997
+Sharone Wright,412,Tip Shot,2,15,6,Tip Shot,TIP_SHOTS,1997
+Sharone Wright,412,Jump Shot,2,7,2,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+Sharone Wright,412,Layup Shot,2,6,4,Standard Layup,LAYUPS,1998
+Sharone Wright,412,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,1998

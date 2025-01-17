@@ -1,7 +1,8 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Arvydas Macijauskas,101178,Driving Layup,2,3,3,LAYUPS,,2006
-Arvydas Macijauskas,101178,Jump Shot,2,26,5,JUMP_SHOTS,,2006
-Arvydas Macijauskas,101178,Jump Shot,3,6,2,JUMP_SHOTS,,2006
-Arvydas Macijauskas,101178,Reverse Layup,2,1,1,LAYUPS,,2006
-Arvydas Macijauskas,101178,Running Jump Shot,2,2,1,JUMP_SHOTS,,2006
-Arvydas Macijauskas,101178,Standard Layup,2,3,2,LAYUPS,,2006
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Arvydas Macijauskas,101178,Driving Layup Shot,2,3,3,Driving Layup,LAYUPS,2006
+Arvydas Macijauskas,101178,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2006
+Arvydas Macijauskas,101178,Jump Shot,2,25,4,2PT Jump Shot,TWO_POINT_JUMPERS,2006
+Arvydas Macijauskas,101178,Jump Shot,3,6,2,3PT Jump Shot,THREE_POINT_JUMPERS,2006
+Arvydas Macijauskas,101178,Layup Shot,2,3,2,Standard Layup,LAYUPS,2006
+Arvydas Macijauskas,101178,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2006
+Arvydas Macijauskas,101178,Running Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2006

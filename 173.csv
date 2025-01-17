@@ -1,20 +1,20 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Keith Askins,173,Driving Dunk,2,1,1,DUNKS,,1997
-Keith Askins,173,Driving Layup,2,5,3,LAYUPS,,1997
-Keith Askins,173,Hook Shot,2,1,1,POST_MOVES,,1997
-Keith Askins,173,Jump Shot,2,230,95,JUMP_SHOTS,,1997
-Keith Askins,173,Jump Shot,3,9,2,JUMP_SHOTS,,1997
-Keith Askins,173,Running Jump Shot,2,1,0,JUMP_SHOTS,,1997
-Keith Askins,173,Standard Dunk,2,3,3,DUNKS,,1997
-Keith Askins,173,Standard Layup,2,45,25,LAYUPS,,1997
-Keith Askins,173,Tip Shot,2,24,8,TIP_SHOTS,,1997
-Keith Askins,173,Driving Layup,2,1,1,LAYUPS,,1998
-Keith Askins,173,Jump Shot,2,100,25,JUMP_SHOTS,,1998
-Keith Askins,173,Jump Shot,3,5,3,JUMP_SHOTS,,1998
-Keith Askins,173,Standard Dunk,2,2,2,DUNKS,,1998
-Keith Askins,173,Standard Layup,2,8,5,LAYUPS,,1998
-Keith Askins,173,Tip Shot,2,6,3,TIP_SHOTS,,1998
-Keith Askins,173,Jump Shot,2,51,14,JUMP_SHOTS,,1999
-Keith Askins,173,Jump Shot,3,4,1,JUMP_SHOTS,,1999
-Keith Askins,173,Standard Layup,2,5,4,LAYUPS,,1999
-Keith Askins,173,Tip Shot,2,2,1,TIP_SHOTS,,1999
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Keith Askins,173,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,1997
+Keith Askins,173,Driving Layup Shot,2,5,3,Driving Layup,LAYUPS,1997
+Keith Askins,173,Dunk Shot,2,3,3,Standard Dunk,DUNKS,1997
+Keith Askins,173,Hook Shot,2,1,1,Hook Shot,POST_MOVES,1997
+Keith Askins,173,Jump Shot,2,230,95,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Keith Askins,173,Jump Shot,3,9,2,3PT Jump Shot,THREE_POINT_JUMPERS,1997
+Keith Askins,173,Layup Shot,2,45,25,Standard Layup,LAYUPS,1997
+Keith Askins,173,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
+Keith Askins,173,Tip Shot,2,24,8,Tip Shot,TIP_SHOTS,1997
+Keith Askins,173,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,1998
+Keith Askins,173,Dunk Shot,2,2,2,Standard Dunk,DUNKS,1998
+Keith Askins,173,Jump Shot,2,100,25,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+Keith Askins,173,Jump Shot,3,5,3,3PT Jump Shot,THREE_POINT_JUMPERS,1998
+Keith Askins,173,Layup Shot,2,8,5,Standard Layup,LAYUPS,1998
+Keith Askins,173,Tip Shot,2,6,3,Tip Shot,TIP_SHOTS,1998
+Keith Askins,173,Jump Shot,2,51,14,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Keith Askins,173,Jump Shot,3,4,1,3PT Jump Shot,THREE_POINT_JUMPERS,1999
+Keith Askins,173,Layup Shot,2,5,4,Standard Layup,LAYUPS,1999
+Keith Askins,173,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,1999

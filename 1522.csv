@@ -1,10 +1,11 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Keith Booth,1522,Jump Shot,2,3,1,JUMP_SHOTS,,1998
-Keith Booth,1522,Standard Layup,2,3,1,LAYUPS,,1998
-Keith Booth,1522,Driving Layup,2,9,6,LAYUPS,,1999
-Keith Booth,1522,Hook Shot,2,1,0,POST_MOVES,,1999
-Keith Booth,1522,Jump Shot,2,80,21,JUMP_SHOTS,,1999
-Keith Booth,1522,Jump Shot,3,10,1,JUMP_SHOTS,,1999
-Keith Booth,1522,Standard Dunk,2,6,5,DUNKS,,1999
-Keith Booth,1522,Standard Layup,2,43,16,LAYUPS,,1999
-Keith Booth,1522,Tip Shot,2,2,0,TIP_SHOTS,,1999
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Keith Booth,1522,Jump Shot,2,3,1,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+Keith Booth,1522,Layup Shot,2,3,1,Standard Layup,LAYUPS,1998
+Keith Booth,1522,Driving Layup Shot,2,9,6,Driving Layup,LAYUPS,1999
+Keith Booth,1522,Dunk Shot,2,5,4,Standard Dunk,DUNKS,1999
+Keith Booth,1522,Hook Shot,2,1,0,Hook Shot,POST_MOVES,1999
+Keith Booth,1522,Jump Shot,2,80,21,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Keith Booth,1522,Jump Shot,3,10,1,3PT Jump Shot,THREE_POINT_JUMPERS,1999
+Keith Booth,1522,Layup Shot,2,43,16,Standard Layup,LAYUPS,1999
+Keith Booth,1522,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,1999
+Keith Booth,1522,Tip Shot,2,2,0,Tip Shot,TIP_SHOTS,1999

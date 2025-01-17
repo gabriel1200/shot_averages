@@ -1,7 +1,8 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Trentyn Flowers,1642280,Alley Oop Dunk,2,1,1,DUNKS,,2025
-Trentyn Flowers,1642280,Finger Roll,2,3,1,LAYUPS,,2025
-Trentyn Flowers,1642280,Floating Jump Shot,2,1,1,FLOATING_SHOTS,,2025
-Trentyn Flowers,1642280,Jump Shot,3,2,0,JUMP_SHOTS,,2025
-Trentyn Flowers,1642280,Putback Layup,2,1,0,LAYUPS,,2025
-Trentyn Flowers,1642280,Standard Layup,2,1,1,LAYUPS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Trentyn Flowers,1642280,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2025
+Trentyn Flowers,1642280,Driving Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2025
+Trentyn Flowers,1642280,Driving Floating Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Trentyn Flowers,1642280,Jump Shot,3,2,0,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Trentyn Flowers,1642280,Running Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2025
+Trentyn Flowers,1642280,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2025
+Trentyn Flowers,1642280,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2025

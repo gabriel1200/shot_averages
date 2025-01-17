@@ -1,7 +1,10 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Sasha Kaun,201619,Hook Shot,2,1,0,POST_MOVES,,2016
-Sasha Kaun,201619,Jump Shot,2,3,0,JUMP_SHOTS,,2016
-Sasha Kaun,201619,Putback Layup,2,4,3,LAYUPS,,2016
-Sasha Kaun,201619,Reverse Layup,2,1,1,LAYUPS,,2016
-Sasha Kaun,201619,Specialty Dunk,2,1,1,DUNKS,,2016
-Sasha Kaun,201619,Standard Layup,2,7,4,LAYUPS,,2016
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Sasha Kaun,201619,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2016
+Sasha Kaun,201619,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2016
+Sasha Kaun,201619,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2016
+Sasha Kaun,201619,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2016
+Sasha Kaun,201619,Jump Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2016
+Sasha Kaun,201619,Layup Shot,2,6,3,Standard Layup,LAYUPS,2016
+Sasha Kaun,201619,Putback Layup Shot,2,3,2,Putback Layup,LAYUPS,2016
+Sasha Kaun,201619,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2016
+Sasha Kaun,201619,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2016

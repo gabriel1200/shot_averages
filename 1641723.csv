@@ -1,27 +1,33 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Kobe Bufkin,1641723,Driving Layup,2,9,3,LAYUPS,,2024
-Kobe Bufkin,1641723,Finger Roll,2,3,1,LAYUPS,,2024
-Kobe Bufkin,1641723,Floating Jump Shot,2,15,9,FLOATING_SHOTS,,2024
-Kobe Bufkin,1641723,Jump Shot,3,24,4,JUMP_SHOTS,,2024
-Kobe Bufkin,1641723,Pullup Jump Shot,2,19,9,JUMP_SHOTS,,2024
-Kobe Bufkin,1641723,Pullup Jump Shot,3,10,4,JUMP_SHOTS,,2024
-Kobe Bufkin,1641723,Putback Layup,2,1,1,LAYUPS,,2024
-Kobe Bufkin,1641723,Running Jump Shot,3,4,1,JUMP_SHOTS,,2024
-Kobe Bufkin,1641723,Standard Layup,2,1,0,LAYUPS,,2024
-Kobe Bufkin,1641723,Step Back Jump Shot,2,4,2,JUMP_SHOTS,,2024
-Kobe Bufkin,1641723,Step Back Jump Shot,3,2,0,JUMP_SHOTS,,2024
-Kobe Bufkin,1641723,Alley Oop Layup,2,1,0,LAYUPS,,2025
-Kobe Bufkin,1641723,Driving Hook Shot,2,1,1,POST_MOVES,,2025
-Kobe Bufkin,1641723,Driving Layup,2,7,4,LAYUPS,,2025
-Kobe Bufkin,1641723,Finger Roll,2,1,0,LAYUPS,,2025
-Kobe Bufkin,1641723,Floating Jump Shot,2,6,3,FLOATING_SHOTS,,2025
-Kobe Bufkin,1641723,Jump Shot,3,13,3,JUMP_SHOTS,,2025
-Kobe Bufkin,1641723,Pullup Jump Shot,2,3,3,JUMP_SHOTS,,2025
-Kobe Bufkin,1641723,Pullup Jump Shot,3,3,1,JUMP_SHOTS,,2025
-Kobe Bufkin,1641723,Putback Layup,2,1,0,LAYUPS,,2025
-Kobe Bufkin,1641723,Running Jump Shot,2,1,0,JUMP_SHOTS,,2025
-Kobe Bufkin,1641723,Running Jump Shot,3,2,0,JUMP_SHOTS,,2025
-Kobe Bufkin,1641723,Standard Layup,2,4,2,LAYUPS,,2025
-Kobe Bufkin,1641723,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2025
-Kobe Bufkin,1641723,Step Back Jump Shot,3,1,0,JUMP_SHOTS,,2025
-Kobe Bufkin,1641723,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Kobe Bufkin,1641723,Driving Finger Roll Layup Shot,2,3,1,Finger Roll,LAYUPS,2024
+Kobe Bufkin,1641723,Driving Floating Bank Jump Shot,2,2,2,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Kobe Bufkin,1641723,Driving Floating Jump Shot,2,10,5,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Kobe Bufkin,1641723,Driving Layup Shot,2,9,3,Driving Layup,LAYUPS,2024
+Kobe Bufkin,1641723,Floating Jump shot,2,3,2,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Kobe Bufkin,1641723,Jump Shot,3,24,4,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Kobe Bufkin,1641723,Pullup Jump shot,2,19,9,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2024
+Kobe Bufkin,1641723,Pullup Jump shot,3,10,4,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
+Kobe Bufkin,1641723,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Kobe Bufkin,1641723,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2024
+Kobe Bufkin,1641723,Running Pull-Up Jump Shot,3,3,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Kobe Bufkin,1641723,Step Back Jump shot,2,4,2,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2024
+Kobe Bufkin,1641723,Step Back Jump shot,3,2,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
+Kobe Bufkin,1641723,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2024
+Kobe Bufkin,1641723,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2025
+Kobe Bufkin,1641723,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2025
+Kobe Bufkin,1641723,Driving Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2025
+Kobe Bufkin,1641723,Driving Floating Jump Shot,2,6,3,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Kobe Bufkin,1641723,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2025
+Kobe Bufkin,1641723,Driving Layup Shot,2,5,2,Driving Layup,LAYUPS,2025
+Kobe Bufkin,1641723,Driving Reverse Layup Shot,2,2,2,Driving Layup,LAYUPS,2025
+Kobe Bufkin,1641723,Jump Shot,3,13,3,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Kobe Bufkin,1641723,Pullup Jump shot,2,3,3,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
+Kobe Bufkin,1641723,Pullup Jump shot,3,3,1,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
+Kobe Bufkin,1641723,Putback Layup Shot,2,1,0,Putback Layup,LAYUPS,2025
+Kobe Bufkin,1641723,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2025
+Kobe Bufkin,1641723,Running Jump Shot,3,2,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Kobe Bufkin,1641723,Running Layup Shot,2,3,1,Standard Layup,LAYUPS,2025
+Kobe Bufkin,1641723,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2025
+Kobe Bufkin,1641723,Step Back Jump shot,3,1,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
+Kobe Bufkin,1641723,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+Kobe Bufkin,1641723,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025

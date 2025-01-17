@@ -1,5 +1,5 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Ed Pinckney,291,Jump Shot,2,15,9,JUMP_SHOTS,,1997
-Ed Pinckney,291,Standard Dunk,2,9,9,DUNKS,,1997
-Ed Pinckney,291,Standard Layup,2,16,4,LAYUPS,,1997
-Ed Pinckney,291,Tip Shot,2,3,1,TIP_SHOTS,,1997
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Ed Pinckney,291,Dunk Shot,2,9,9,Standard Dunk,DUNKS,1997
+Ed Pinckney,291,Jump Shot,2,15,9,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Ed Pinckney,291,Layup Shot,2,16,4,Standard Layup,LAYUPS,1997
+Ed Pinckney,291,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,1997

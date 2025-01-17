@@ -1,20 +1,26 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jordan Miller,1641757,Driving Dunk,2,2,2,DUNKS,,2024
-Jordan Miller,1641757,Driving Layup,2,1,0,LAYUPS,,2024
-Jordan Miller,1641757,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2024
-Jordan Miller,1641757,Jump Shot,2,1,0,JUMP_SHOTS,,2024
-Jordan Miller,1641757,Jump Shot,3,2,1,JUMP_SHOTS,,2024
-Jordan Miller,1641757,Putback Layup,2,2,2,LAYUPS,,2024
-Jordan Miller,1641757,Alley Oop Dunk,2,1,1,DUNKS,,2025
-Jordan Miller,1641757,Driving Hook Shot,2,1,0,POST_MOVES,,2025
-Jordan Miller,1641757,Driving Layup,2,24,12,LAYUPS,,2025
-Jordan Miller,1641757,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2025
-Jordan Miller,1641757,Finger Roll,2,6,3,LAYUPS,,2025
-Jordan Miller,1641757,Floating Jump Shot,2,24,11,FLOATING_SHOTS,,2025
-Jordan Miller,1641757,Jump Shot,3,26,7,JUMP_SHOTS,,2025
-Jordan Miller,1641757,Pullup Jump Shot,3,3,0,JUMP_SHOTS,,2025
-Jordan Miller,1641757,Putback Layup,2,10,7,LAYUPS,,2025
-Jordan Miller,1641757,Running Jump Shot,3,3,1,JUMP_SHOTS,,2025
-Jordan Miller,1641757,Standard Dunk,2,3,2,DUNKS,,2025
-Jordan Miller,1641757,Standard Layup,2,14,5,LAYUPS,,2025
-Jordan Miller,1641757,Step Back Jump Shot,3,3,0,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Jordan Miller,1641757,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2024
+Jordan Miller,1641757,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Jordan Miller,1641757,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2024
+Jordan Miller,1641757,Jump Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2024
+Jordan Miller,1641757,Jump Shot,3,2,1,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Jordan Miller,1641757,Tip Layup Shot,2,2,2,Putback Layup,LAYUPS,2024
+Jordan Miller,1641757,Cutting Layup Shot,2,2,1,Standard Layup,LAYUPS,2025
+Jordan Miller,1641757,Driving Finger Roll Layup Shot,2,5,3,Finger Roll,LAYUPS,2025
+Jordan Miller,1641757,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Jordan Miller,1641757,Driving Floating Jump Shot,2,23,11,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Jordan Miller,1641757,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2025
+Jordan Miller,1641757,Driving Layup Shot,2,22,10,Driving Layup,LAYUPS,2025
+Jordan Miller,1641757,Driving Reverse Layup Shot,2,2,2,Driving Layup,LAYUPS,2025
+Jordan Miller,1641757,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
+Jordan Miller,1641757,Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2025
+Jordan Miller,1641757,Jump Shot,3,26,7,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Jordan Miller,1641757,Layup Shot,2,4,1,Standard Layup,LAYUPS,2025
+Jordan Miller,1641757,Pullup Jump shot,3,3,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
+Jordan Miller,1641757,Putback Layup Shot,2,2,1,Putback Layup,LAYUPS,2025
+Jordan Miller,1641757,Running Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2025
+Jordan Miller,1641757,Running Dunk Shot,2,3,2,Standard Dunk,DUNKS,2025
+Jordan Miller,1641757,Running Jump Shot,3,3,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Jordan Miller,1641757,Running Layup Shot,2,8,3,Standard Layup,LAYUPS,2025
+Jordan Miller,1641757,Step Back Jump shot,3,3,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
+Jordan Miller,1641757,Tip Layup Shot,2,8,6,Putback Layup,LAYUPS,2025

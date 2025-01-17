@@ -1,31 +1,31 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Doug Overton,77,Driving Layup,2,24,22,LAYUPS,,1997
-Doug Overton,77,Jump Shot,2,123,45,JUMP_SHOTS,,1997
-Doug Overton,77,Running Jump Shot,2,10,8,JUMP_SHOTS,,1997
-Doug Overton,77,Standard Layup,2,33,6,LAYUPS,,1997
-Doug Overton,77,Driving Layup,2,9,7,LAYUPS,,1998
-Doug Overton,77,Jump Shot,2,44,15,JUMP_SHOTS,,1998
-Doug Overton,77,Running Jump Shot,2,1,1,JUMP_SHOTS,,1998
-Doug Overton,77,Standard Layup,2,9,1,LAYUPS,,1998
-Doug Overton,77,Driving Layup,2,15,10,LAYUPS,,1999
-Doug Overton,77,Jump Shot,2,55,22,JUMP_SHOTS,,1999
-Doug Overton,77,Running Jump Shot,2,6,3,JUMP_SHOTS,,1999
-Doug Overton,77,Standard Layup,2,8,1,LAYUPS,,1999
-Doug Overton,77,Driving Layup,2,17,9,LAYUPS,,2000
-Doug Overton,77,Hook Shot,2,1,0,POST_MOVES,,2000
-Doug Overton,77,Jump Shot,2,115,48,JUMP_SHOTS,,2000
-Doug Overton,77,Running Jump Shot,2,6,0,JUMP_SHOTS,,2000
-Doug Overton,77,Standard Layup,2,15,4,LAYUPS,,2000
-Doug Overton,77,Driving Layup,2,25,14,LAYUPS,,2001
-Doug Overton,77,Jump Shot,2,96,33,JUMP_SHOTS,,2001
-Doug Overton,77,Running Jump Shot,2,12,5,JUMP_SHOTS,,2001
-Doug Overton,77,Standard Layup,2,6,0,LAYUPS,,2001
-Doug Overton,77,Driving Layup,2,2,1,LAYUPS,,2002
-Doug Overton,77,Jump Shot,2,37,10,JUMP_SHOTS,,2002
-Doug Overton,77,Running Jump Shot,2,3,2,JUMP_SHOTS,,2002
-Doug Overton,77,Standard Layup,2,2,1,LAYUPS,,2002
-Doug Overton,77,Driving Layup,2,9,7,LAYUPS,,2004
-Doug Overton,77,Jump Shot,2,210,84,JUMP_SHOTS,,2004
-Doug Overton,77,Running Jump Shot,2,5,2,JUMP_SHOTS,,2004
-Doug Overton,77,Standard Layup,2,20,5,LAYUPS,,2004
-Doug Overton,77,Tip Shot,2,1,1,TIP_SHOTS,,2004
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Doug Overton,77,Driving Layup Shot,2,24,22,Driving Layup,LAYUPS,1997
+Doug Overton,77,Jump Shot,2,123,45,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Doug Overton,77,Layup Shot,2,33,6,Standard Layup,LAYUPS,1997
+Doug Overton,77,Running Jump Shot,2,10,8,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
+Doug Overton,77,Driving Layup Shot,2,9,7,Driving Layup,LAYUPS,1998
+Doug Overton,77,Jump Shot,2,44,15,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+Doug Overton,77,Layup Shot,2,9,1,Standard Layup,LAYUPS,1998
+Doug Overton,77,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
+Doug Overton,77,Driving Layup Shot,2,15,10,Driving Layup,LAYUPS,1999
+Doug Overton,77,Jump Shot,2,55,22,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Doug Overton,77,Layup Shot,2,8,1,Standard Layup,LAYUPS,1999
+Doug Overton,77,Running Jump Shot,2,6,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999
+Doug Overton,77,Driving Layup Shot,2,17,9,Driving Layup,LAYUPS,2000
+Doug Overton,77,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2000
+Doug Overton,77,Jump Shot,2,115,48,2PT Jump Shot,TWO_POINT_JUMPERS,2000
+Doug Overton,77,Layup Shot,2,15,4,Standard Layup,LAYUPS,2000
+Doug Overton,77,Running Jump Shot,2,6,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2000
+Doug Overton,77,Driving Layup Shot,2,25,14,Driving Layup,LAYUPS,2001
+Doug Overton,77,Jump Shot,2,96,33,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Doug Overton,77,Layup Shot,2,6,0,Standard Layup,LAYUPS,2001
+Doug Overton,77,Running Jump Shot,2,12,5,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
+Doug Overton,77,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2002
+Doug Overton,77,Jump Shot,2,37,10,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Doug Overton,77,Layup Shot,2,2,1,Standard Layup,LAYUPS,2002
+Doug Overton,77,Running Jump Shot,2,3,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2002
+Doug Overton,77,Driving Layup Shot,2,9,7,Driving Layup,LAYUPS,2004
+Doug Overton,77,Jump Shot,2,210,84,2PT Jump Shot,TWO_POINT_JUMPERS,2004
+Doug Overton,77,Layup Shot,2,20,5,Standard Layup,LAYUPS,2004
+Doug Overton,77,Running Jump Shot,2,5,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2004
+Doug Overton,77,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2004

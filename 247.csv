@@ -1,19 +1,19 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Joe Dumars,247,Driving Layup,2,23,19,LAYUPS,,1997
-Joe Dumars,247,Hook Shot,2,1,1,POST_MOVES,,1997
-Joe Dumars,247,Jump Shot,2,451,193,JUMP_SHOTS,,1997
-Joe Dumars,247,Jump Shot,3,312,135,JUMP_SHOTS,,1997
-Joe Dumars,247,Running Jump Shot,2,30,27,JUMP_SHOTS,,1997
-Joe Dumars,247,Running Jump Shot,3,1,1,JUMP_SHOTS,,1997
-Joe Dumars,247,Standard Layup,2,57,9,LAYUPS,,1997
-Joe Dumars,247,Driving Layup,2,4,2,LAYUPS,,1998
-Joe Dumars,247,Jump Shot,2,649,268,JUMP_SHOTS,,1998
-Joe Dumars,247,Jump Shot,3,116,43,JUMP_SHOTS,,1998
-Joe Dumars,247,Running Jump Shot,2,14,12,JUMP_SHOTS,,1998
-Joe Dumars,247,Standard Layup,2,8,4,LAYUPS,,1998
-Joe Dumars,247,Driving Layup,2,1,1,LAYUPS,,1999
-Joe Dumars,247,Hook Shot,2,1,0,POST_MOVES,,1999
-Joe Dumars,247,Jump Shot,2,284,110,JUMP_SHOTS,,1999
-Joe Dumars,247,Jump Shot,3,57,27,JUMP_SHOTS,,1999
-Joe Dumars,247,Running Jump Shot,2,5,4,JUMP_SHOTS,,1999
-Joe Dumars,247,Standard Layup,2,2,2,LAYUPS,,1999
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Joe Dumars,247,Driving Layup Shot,2,23,19,Driving Layup,LAYUPS,1997
+Joe Dumars,247,Hook Shot,2,1,1,Hook Shot,POST_MOVES,1997
+Joe Dumars,247,Jump Shot,2,451,193,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Joe Dumars,247,Jump Shot,3,312,135,3PT Jump Shot,THREE_POINT_JUMPERS,1997
+Joe Dumars,247,Layup Shot,2,57,9,Standard Layup,LAYUPS,1997
+Joe Dumars,247,Running Jump Shot,2,30,27,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
+Joe Dumars,247,Running Jump Shot,3,1,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,1997
+Joe Dumars,247,Driving Layup Shot,2,4,2,Driving Layup,LAYUPS,1998
+Joe Dumars,247,Jump Shot,2,649,268,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+Joe Dumars,247,Jump Shot,3,116,43,3PT Jump Shot,THREE_POINT_JUMPERS,1998
+Joe Dumars,247,Layup Shot,2,8,4,Standard Layup,LAYUPS,1998
+Joe Dumars,247,Running Jump Shot,2,14,12,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
+Joe Dumars,247,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,1999
+Joe Dumars,247,Hook Shot,2,1,0,Hook Shot,POST_MOVES,1999
+Joe Dumars,247,Jump Shot,2,284,110,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Joe Dumars,247,Jump Shot,3,57,27,3PT Jump Shot,THREE_POINT_JUMPERS,1999
+Joe Dumars,247,Layup Shot,2,2,2,Standard Layup,LAYUPS,1999
+Joe Dumars,247,Running Jump Shot,2,5,4,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999

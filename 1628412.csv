@@ -1,51 +1,70 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Frank Mason III,1628412,Driving Dunk,2,1,1,DUNKS,,2018
-Frank Mason III,1628412,Driving Hook Shot,2,1,1,POST_MOVES,,2018
-Frank Mason III,1628412,Driving Layup,2,76,32,LAYUPS,,2018
-Frank Mason III,1628412,Fadeaway Jump Shot,2,3,1,JUMP_SHOTS,,2018
-Frank Mason III,1628412,Finger Roll,2,3,0,LAYUPS,,2018
-Frank Mason III,1628412,Floating Jump Shot,2,50,20,FLOATING_SHOTS,,2018
-Frank Mason III,1628412,Jump Shot,2,127,46,JUMP_SHOTS,,2018
-Frank Mason III,1628412,Jump Shot,3,3,1,JUMP_SHOTS,,2018
-Frank Mason III,1628412,Pullup Jump Shot,2,40,13,JUMP_SHOTS,,2018
-Frank Mason III,1628412,Putback Layup,2,2,1,LAYUPS,,2018
-Frank Mason III,1628412,Reverse Layup,2,4,0,LAYUPS,,2018
-Frank Mason III,1628412,Running Jump Shot,2,3,0,JUMP_SHOTS,,2018
-Frank Mason III,1628412,Standard Layup,2,54,21,LAYUPS,,2018
-Frank Mason III,1628412,Step Back Jump Shot,2,12,7,JUMP_SHOTS,,2018
-Frank Mason III,1628412,Turnaround Hook Shot,2,1,0,POST_MOVES,,2018
-Frank Mason III,1628412,Alley Oop Layup,2,1,1,LAYUPS,,2019
-Frank Mason III,1628412,Driving Layup,2,25,13,LAYUPS,,2019
-Frank Mason III,1628412,Fadeaway Jump Shot,2,3,2,JUMP_SHOTS,,2019
-Frank Mason III,1628412,Finger Roll,2,3,2,LAYUPS,,2019
-Frank Mason III,1628412,Floating Jump Shot,2,17,7,FLOATING_SHOTS,,2019
-Frank Mason III,1628412,Jump Shot,2,54,9,JUMP_SHOTS,,2019
-Frank Mason III,1628412,Pullup Jump Shot,2,28,13,JUMP_SHOTS,,2019
-Frank Mason III,1628412,Putback Layup,2,3,2,LAYUPS,,2019
-Frank Mason III,1628412,Reverse Layup,2,4,3,LAYUPS,,2019
-Frank Mason III,1628412,Running Jump Shot,2,1,0,JUMP_SHOTS,,2019
-Frank Mason III,1628412,Standard Dunk,2,1,0,DUNKS,,2019
-Frank Mason III,1628412,Standard Layup,2,20,14,LAYUPS,,2019
-Frank Mason III,1628412,Step Back Jump Shot,2,8,4,JUMP_SHOTS,,2019
-Frank Mason III,1628412,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2019
-Frank Mason III,1628412,Driving Layup,2,10,4,LAYUPS,,2020
-Frank Mason III,1628412,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2020
-Frank Mason III,1628412,Finger Roll,2,5,4,LAYUPS,,2020
-Frank Mason III,1628412,Floating Jump Shot,2,4,1,FLOATING_SHOTS,,2020
-Frank Mason III,1628412,Jump Shot,2,11,2,JUMP_SHOTS,,2020
-Frank Mason III,1628412,Jump Shot,3,2,1,JUMP_SHOTS,,2020
-Frank Mason III,1628412,Pullup Jump Shot,2,9,5,JUMP_SHOTS,,2020
-Frank Mason III,1628412,Pullup Jump Shot,3,1,1,JUMP_SHOTS,,2020
-Frank Mason III,1628412,Putback Layup,2,1,0,LAYUPS,,2020
-Frank Mason III,1628412,Running Jump Shot,2,2,0,JUMP_SHOTS,,2020
-Frank Mason III,1628412,Standard Layup,2,4,4,LAYUPS,,2020
-Frank Mason III,1628412,Step Back Jump Shot,2,1,1,JUMP_SHOTS,,2020
-Frank Mason III,1628412,Driving Layup,2,12,5,LAYUPS,,2021
-Frank Mason III,1628412,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2021
-Frank Mason III,1628412,Jump Shot,2,2,1,JUMP_SHOTS,,2021
-Frank Mason III,1628412,Jump Shot,3,1,1,JUMP_SHOTS,,2021
-Frank Mason III,1628412,Pullup Jump Shot,2,1,0,JUMP_SHOTS,,2021
-Frank Mason III,1628412,Putback Layup,2,1,0,LAYUPS,,2021
-Frank Mason III,1628412,Standard Layup,2,4,2,LAYUPS,,2021
-Frank Mason III,1628412,Step Back Jump Shot,3,1,0,JUMP_SHOTS,,2021
-Frank Mason III,1628412,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2021
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Frank Mason III,1628412,Cutting Layup Shot,2,5,4,Standard Layup,LAYUPS,2018
+Frank Mason III,1628412,Driving Bank Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2018
+Frank Mason III,1628412,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2018
+Frank Mason III,1628412,Driving Finger Roll Layup Shot,2,3,0,Finger Roll,LAYUPS,2018
+Frank Mason III,1628412,Driving Floating Bank Jump Shot,2,3,2,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Frank Mason III,1628412,Driving Floating Jump Shot,2,22,9,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Frank Mason III,1628412,Driving Layup Shot,2,68,26,Driving Layup,LAYUPS,2018
+Frank Mason III,1628412,Driving Reverse Layup Shot,2,8,6,Driving Layup,LAYUPS,2018
+Frank Mason III,1628412,Fadeaway Jump Shot,2,3,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2018
+Frank Mason III,1628412,Floating Jump shot,2,25,9,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Frank Mason III,1628412,Jump Shot,2,127,46,2PT Jump Shot,TWO_POINT_JUMPERS,2018
+Frank Mason III,1628412,Jump Shot,3,3,1,3PT Jump Shot,THREE_POINT_JUMPERS,2018
+Frank Mason III,1628412,Layup Shot,2,27,5,Standard Layup,LAYUPS,2018
+Frank Mason III,1628412,Pullup Jump shot,2,40,13,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2018
+Frank Mason III,1628412,Reverse Layup Shot,2,4,0,Reverse Layup,LAYUPS,2018
+Frank Mason III,1628412,Running Jump Shot,2,2,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2018
+Frank Mason III,1628412,Running Layup Shot,2,22,12,Standard Layup,LAYUPS,2018
+Frank Mason III,1628412,Running Pull-Up Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2018
+Frank Mason III,1628412,Step Back Jump shot,2,12,7,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2018
+Frank Mason III,1628412,Tip Layup Shot,2,2,1,Putback Layup,LAYUPS,2018
+Frank Mason III,1628412,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2018
+Frank Mason III,1628412,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2019
+Frank Mason III,1628412,Cutting Layup Shot,2,2,2,Standard Layup,LAYUPS,2019
+Frank Mason III,1628412,Driving Finger Roll Layup Shot,2,3,2,Finger Roll,LAYUPS,2019
+Frank Mason III,1628412,Driving Floating Bank Jump Shot,2,3,3,2PT Floating Jump Shot,FLOATING_SHOTS,2019
+Frank Mason III,1628412,Driving Floating Jump Shot,2,6,2,2PT Floating Jump Shot,FLOATING_SHOTS,2019
+Frank Mason III,1628412,Driving Layup Shot,2,22,12,Driving Layup,LAYUPS,2019
+Frank Mason III,1628412,Driving Reverse Layup Shot,2,3,1,Driving Layup,LAYUPS,2019
+Frank Mason III,1628412,Fadeaway Jump Shot,2,3,2,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2019
+Frank Mason III,1628412,Floating Jump shot,2,8,2,2PT Floating Jump Shot,FLOATING_SHOTS,2019
+Frank Mason III,1628412,Jump Shot,2,54,9,2PT Jump Shot,TWO_POINT_JUMPERS,2019
+Frank Mason III,1628412,Layup Shot,2,7,5,Standard Layup,LAYUPS,2019
+Frank Mason III,1628412,Pullup Jump shot,2,28,13,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2019
+Frank Mason III,1628412,Reverse Layup Shot,2,3,2,Reverse Layup,LAYUPS,2019
+Frank Mason III,1628412,Running Dunk Shot,2,1,0,Standard Dunk,DUNKS,2019
+Frank Mason III,1628412,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2019
+Frank Mason III,1628412,Running Layup Shot,2,11,7,Standard Layup,LAYUPS,2019
+Frank Mason III,1628412,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2019
+Frank Mason III,1628412,Step Back Jump shot,2,8,4,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2019
+Frank Mason III,1628412,Tip Layup Shot,2,3,2,Putback Layup,LAYUPS,2019
+Frank Mason III,1628412,Turnaround Fadeaway shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2019
+Frank Mason III,1628412,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2020
+Frank Mason III,1628412,Driving Finger Roll Layup Shot,2,3,3,Finger Roll,LAYUPS,2020
+Frank Mason III,1628412,Driving Floating Bank Jump Shot,2,3,1,2PT Floating Jump Shot,FLOATING_SHOTS,2020
+Frank Mason III,1628412,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2020
+Frank Mason III,1628412,Driving Layup Shot,2,9,3,Driving Layup,LAYUPS,2020
+Frank Mason III,1628412,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2020
+Frank Mason III,1628412,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2020
+Frank Mason III,1628412,Jump Shot,2,11,2,2PT Jump Shot,TWO_POINT_JUMPERS,2020
+Frank Mason III,1628412,Jump Shot,3,2,1,3PT Jump Shot,THREE_POINT_JUMPERS,2020
+Frank Mason III,1628412,Pullup Jump shot,2,9,5,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2020
+Frank Mason III,1628412,Pullup Jump shot,3,1,1,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2020
+Frank Mason III,1628412,Putback Layup Shot,2,1,0,Putback Layup,LAYUPS,2020
+Frank Mason III,1628412,Running Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2020
+Frank Mason III,1628412,Running Layup Shot,2,3,3,Standard Layup,LAYUPS,2020
+Frank Mason III,1628412,Running Pull-Up Jump Shot,2,2,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2020
+Frank Mason III,1628412,Step Back Jump shot,2,1,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2020
+Frank Mason III,1628412,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Frank Mason III,1628412,Driving Layup Shot,2,10,3,Driving Layup,LAYUPS,2021
+Frank Mason III,1628412,Driving Reverse Layup Shot,2,2,2,Driving Layup,LAYUPS,2021
+Frank Mason III,1628412,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Frank Mason III,1628412,Jump Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Frank Mason III,1628412,Jump Shot,3,1,1,3PT Jump Shot,THREE_POINT_JUMPERS,2021
+Frank Mason III,1628412,Layup Shot,2,2,0,Standard Layup,LAYUPS,2021
+Frank Mason III,1628412,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2021
+Frank Mason III,1628412,Putback Layup Shot,2,1,0,Putback Layup,LAYUPS,2021
+Frank Mason III,1628412,Running Layup Shot,2,2,2,Standard Layup,LAYUPS,2021
+Frank Mason III,1628412,Step Back Jump shot,3,1,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2021
+Frank Mason III,1628412,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2021

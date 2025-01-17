@@ -1,61 +1,71 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Gary Clark,1629109,Alley Oop Layup,2,1,1,LAYUPS,,2019
-Gary Clark,1629109,Driving Dunk,2,1,1,DUNKS,,2019
-Gary Clark,1629109,Driving Hook Shot,2,1,0,POST_MOVES,,2019
-Gary Clark,1629109,Driving Layup,2,2,1,LAYUPS,,2019
-Gary Clark,1629109,Finger Roll,2,1,0,LAYUPS,,2019
-Gary Clark,1629109,Floating Jump Shot,2,1,1,FLOATING_SHOTS,,2019
-Gary Clark,1629109,Jump Shot,2,124,39,JUMP_SHOTS,,2019
-Gary Clark,1629109,Jump Shot,3,9,1,JUMP_SHOTS,,2019
-Gary Clark,1629109,Pullup Jump Shot,2,4,1,JUMP_SHOTS,,2019
-Gary Clark,1629109,Putback Layup,2,2,2,LAYUPS,,2019
-Gary Clark,1629109,Specialty Dunk,2,1,1,DUNKS,,2019
-Gary Clark,1629109,Standard Dunk,2,1,0,DUNKS,,2019
-Gary Clark,1629109,Standard Layup,2,1,1,LAYUPS,,2019
-Gary Clark,1629109,Step Back Jump Shot,2,2,1,JUMP_SHOTS,,2019
-Gary Clark,1629109,Driving Layup,2,3,2,LAYUPS,,2020
-Gary Clark,1629109,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2020
-Gary Clark,1629109,Hook Shot,2,1,1,POST_MOVES,,2020
-Gary Clark,1629109,Jump Shot,2,79,32,JUMP_SHOTS,,2020
-Gary Clark,1629109,Jump Shot,3,30,8,JUMP_SHOTS,,2020
-Gary Clark,1629109,Pullup Jump Shot,2,2,1,JUMP_SHOTS,,2020
-Gary Clark,1629109,Putback Layup,2,5,4,LAYUPS,,2020
-Gary Clark,1629109,Reverse Layup,2,1,1,LAYUPS,,2020
-Gary Clark,1629109,Running Jump Shot,2,2,0,JUMP_SHOTS,,2020
-Gary Clark,1629109,Running Jump Shot,3,1,0,JUMP_SHOTS,,2020
-Gary Clark,1629109,Specialty Dunk,2,3,3,DUNKS,,2020
-Gary Clark,1629109,Standard Layup,2,4,2,LAYUPS,,2020
-Gary Clark,1629109,Turnaround Hook Shot,2,1,0,POST_MOVES,,2020
-Gary Clark,1629109,Driving Hook Shot,2,2,0,POST_MOVES,,2021
-Gary Clark,1629109,Driving Layup,2,1,0,LAYUPS,,2021
-Gary Clark,1629109,Floating Jump Shot,2,2,1,FLOATING_SHOTS,,2021
-Gary Clark,1629109,Hook Shot,2,1,0,POST_MOVES,,2021
-Gary Clark,1629109,Jump Shot,2,68,21,JUMP_SHOTS,,2021
-Gary Clark,1629109,Jump Shot,3,34,8,JUMP_SHOTS,,2021
-Gary Clark,1629109,Pullup Jump Shot,2,5,0,JUMP_SHOTS,,2021
-Gary Clark,1629109,Pullup Jump Shot,3,1,0,JUMP_SHOTS,,2021
-Gary Clark,1629109,Putback Dunk,2,1,1,DUNKS,,2021
-Gary Clark,1629109,Putback Layup,2,1,1,LAYUPS,,2021
-Gary Clark,1629109,Reverse Layup,2,1,0,LAYUPS,,2021
-Gary Clark,1629109,Running Jump Shot,2,3,1,JUMP_SHOTS,,2021
-Gary Clark,1629109,Specialty Dunk,2,1,1,DUNKS,,2021
-Gary Clark,1629109,Standard Layup,2,8,5,LAYUPS,,2021
-Gary Clark,1629109,Step Back Jump Shot,2,2,1,JUMP_SHOTS,,2021
-Gary Clark,1629109,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2021
-Gary Clark,1629109,Driving Hook Shot,2,1,1,POST_MOVES,,2022
-Gary Clark,1629109,Driving Layup,2,4,1,LAYUPS,,2022
-Gary Clark,1629109,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2022
-Gary Clark,1629109,Finger Roll,2,1,0,LAYUPS,,2022
-Gary Clark,1629109,Floating Jump Shot,2,1,1,FLOATING_SHOTS,,2022
-Gary Clark,1629109,Hook Shot,2,1,0,POST_MOVES,,2022
-Gary Clark,1629109,Jump Shot,2,46,17,JUMP_SHOTS,,2022
-Gary Clark,1629109,Jump Shot,3,20,10,JUMP_SHOTS,,2022
-Gary Clark,1629109,Pullup Jump Shot,2,1,1,JUMP_SHOTS,,2022
-Gary Clark,1629109,Pullup Jump Shot,3,1,0,JUMP_SHOTS,,2022
-Gary Clark,1629109,Putback Layup,2,2,0,LAYUPS,,2022
-Gary Clark,1629109,Reverse Layup,2,1,0,LAYUPS,,2022
-Gary Clark,1629109,Running Jump Shot,3,1,0,JUMP_SHOTS,,2022
-Gary Clark,1629109,Specialty Dunk,2,1,0,DUNKS,,2022
-Gary Clark,1629109,Standard Layup,2,4,1,LAYUPS,,2022
-Gary Clark,1629109,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2022
-Gary Clark,1629109,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2022
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Gary Clark,1629109,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2019
+Gary Clark,1629109,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2019
+Gary Clark,1629109,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2019
+Gary Clark,1629109,Driving Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2019
+Gary Clark,1629109,Driving Floating Bank Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2019
+Gary Clark,1629109,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2019
+Gary Clark,1629109,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2019
+Gary Clark,1629109,Dunk Shot,2,1,0,Standard Dunk,DUNKS,2019
+Gary Clark,1629109,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2019
+Gary Clark,1629109,Jump Shot,2,123,39,2PT Jump Shot,TWO_POINT_JUMPERS,2019
+Gary Clark,1629109,Jump Shot,3,9,1,3PT Jump Shot,THREE_POINT_JUMPERS,2019
+Gary Clark,1629109,Layup Shot,2,1,1,Standard Layup,LAYUPS,2019
+Gary Clark,1629109,Pullup Jump shot,2,4,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2019
+Gary Clark,1629109,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2019
+Gary Clark,1629109,Step Back Jump shot,2,2,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2019
+Gary Clark,1629109,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2019
+Gary Clark,1629109,Cutting Dunk Shot,2,3,3,Specialty Dunk,DUNKS,2020
+Gary Clark,1629109,Cutting Layup Shot,2,2,1,Standard Layup,LAYUPS,2020
+Gary Clark,1629109,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2020
+Gary Clark,1629109,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2020
+Gary Clark,1629109,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2020
+Gary Clark,1629109,Hook Bank Shot,2,1,1,Hook Shot,POST_MOVES,2020
+Gary Clark,1629109,Jump Shot,2,79,32,2PT Jump Shot,TWO_POINT_JUMPERS,2020
+Gary Clark,1629109,Jump Shot,3,30,8,3PT Jump Shot,THREE_POINT_JUMPERS,2020
+Gary Clark,1629109,Layup Shot,2,2,1,Standard Layup,LAYUPS,2020
+Gary Clark,1629109,Pullup Jump shot,2,2,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2020
+Gary Clark,1629109,Putback Layup Shot,2,3,3,Putback Layup,LAYUPS,2020
+Gary Clark,1629109,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2020
+Gary Clark,1629109,Running Jump Shot,2,2,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2020
+Gary Clark,1629109,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2020
+Gary Clark,1629109,Tip Layup Shot,2,2,1,Putback Layup,LAYUPS,2020
+Gary Clark,1629109,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2020
+Gary Clark,1629109,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2021
+Gary Clark,1629109,Cutting Layup Shot,2,2,1,Standard Layup,LAYUPS,2021
+Gary Clark,1629109,Driving Hook Shot,2,2,0,Driving Hook Shot,POST_MOVES,2021
+Gary Clark,1629109,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2021
+Gary Clark,1629109,Floating Jump shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Gary Clark,1629109,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2021
+Gary Clark,1629109,Jump Shot,2,68,21,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Gary Clark,1629109,Jump Shot,3,34,8,3PT Jump Shot,THREE_POINT_JUMPERS,2021
+Gary Clark,1629109,Layup Shot,2,5,4,Standard Layup,LAYUPS,2021
+Gary Clark,1629109,Pullup Jump shot,2,5,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2021
+Gary Clark,1629109,Pullup Jump shot,3,1,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2021
+Gary Clark,1629109,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2021
+Gary Clark,1629109,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2021
+Gary Clark,1629109,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2021
+Gary Clark,1629109,Running Jump Shot,2,3,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2021
+Gary Clark,1629109,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2021
+Gary Clark,1629109,Step Back Jump shot,2,2,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2021
+Gary Clark,1629109,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2021
+Gary Clark,1629109,Cutting Layup Shot,2,1,0,Standard Layup,LAYUPS,2022
+Gary Clark,1629109,Driving Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2022
+Gary Clark,1629109,Driving Floating Bank Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Gary Clark,1629109,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2022
+Gary Clark,1629109,Driving Layup Shot,2,3,1,Driving Layup,LAYUPS,2022
+Gary Clark,1629109,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2022
+Gary Clark,1629109,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2022
+Gary Clark,1629109,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2022
+Gary Clark,1629109,Jump Bank Shot,3,1,1,3PT Jump Shot,THREE_POINT_JUMPERS,2022
+Gary Clark,1629109,Jump Shot,2,46,17,2PT Jump Shot,TWO_POINT_JUMPERS,2022
+Gary Clark,1629109,Jump Shot,3,19,9,3PT Jump Shot,THREE_POINT_JUMPERS,2022
+Gary Clark,1629109,Layup Shot,2,3,1,Standard Layup,LAYUPS,2022
+Gary Clark,1629109,Pullup Jump shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2022
+Gary Clark,1629109,Pullup Jump shot,3,1,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2022
+Gary Clark,1629109,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2022
+Gary Clark,1629109,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2022
+Gary Clark,1629109,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2022
+Gary Clark,1629109,Tip Dunk Shot,2,1,0,Specialty Dunk,DUNKS,2022
+Gary Clark,1629109,Tip Layup Shot,2,2,0,Putback Layup,LAYUPS,2022
+Gary Clark,1629109,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2022

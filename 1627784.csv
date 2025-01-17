@@ -1,21 +1,23 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jarrod Uthoff,1627784,Driving Dunk,2,1,0,DUNKS,,2017
-Jarrod Uthoff,1627784,Driving Layup,2,1,0,LAYUPS,,2017
-Jarrod Uthoff,1627784,Fadeaway Jump Shot,2,4,2,JUMP_SHOTS,,2017
-Jarrod Uthoff,1627784,Floating Jump Shot,2,3,1,FLOATING_SHOTS,,2017
-Jarrod Uthoff,1627784,Jump Shot,2,18,5,JUMP_SHOTS,,2017
-Jarrod Uthoff,1627784,Jump Shot,3,1,1,JUMP_SHOTS,,2017
-Jarrod Uthoff,1627784,Specialty Dunk,2,1,1,DUNKS,,2017
-Jarrod Uthoff,1627784,Standard Dunk,2,3,2,DUNKS,,2017
-Jarrod Uthoff,1627784,Standard Layup,2,4,3,LAYUPS,,2017
-Jarrod Uthoff,1627784,Turnaround Hook Shot,2,1,1,POST_MOVES,,2017
-Jarrod Uthoff,1627784,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2017
-Jarrod Uthoff,1627784,Fadeaway Jump Shot,2,2,2,JUMP_SHOTS,,2020
-Jarrod Uthoff,1627784,Jump Shot,2,5,2,JUMP_SHOTS,,2020
-Jarrod Uthoff,1627784,Jump Shot,3,3,0,JUMP_SHOTS,,2020
-Jarrod Uthoff,1627784,Pullup Jump Shot,2,1,0,JUMP_SHOTS,,2020
-Jarrod Uthoff,1627784,Reverse Layup,2,1,1,LAYUPS,,2020
-Jarrod Uthoff,1627784,Running Jump Shot,3,1,1,JUMP_SHOTS,,2020
-Jarrod Uthoff,1627784,Standard Layup,2,1,0,LAYUPS,,2020
-Jarrod Uthoff,1627784,Step Back Jump Shot,3,1,0,JUMP_SHOTS,,2020
-Jarrod Uthoff,1627784,Turnaround Jump Shot,2,3,1,JUMP_SHOTS,,2020
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Jarrod Uthoff,1627784,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2017
+Jarrod Uthoff,1627784,Driving Dunk Shot,2,1,0,Driving Dunk,DUNKS,2017
+Jarrod Uthoff,1627784,Driving Floating Jump Shot,2,3,1,2PT Floating Jump Shot,FLOATING_SHOTS,2017
+Jarrod Uthoff,1627784,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2017
+Jarrod Uthoff,1627784,Dunk Shot,2,2,1,Standard Dunk,DUNKS,2017
+Jarrod Uthoff,1627784,Fadeaway Jump Shot,2,4,2,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2017
+Jarrod Uthoff,1627784,Jump Shot,2,18,5,2PT Jump Shot,TWO_POINT_JUMPERS,2017
+Jarrod Uthoff,1627784,Jump Shot,3,1,1,3PT Jump Shot,THREE_POINT_JUMPERS,2017
+Jarrod Uthoff,1627784,Layup Shot,2,4,3,Standard Layup,LAYUPS,2017
+Jarrod Uthoff,1627784,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2017
+Jarrod Uthoff,1627784,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2017
+Jarrod Uthoff,1627784,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2017
+Jarrod Uthoff,1627784,Fadeaway Jump Shot,2,2,2,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2020
+Jarrod Uthoff,1627784,Jump Shot,2,5,2,2PT Jump Shot,TWO_POINT_JUMPERS,2020
+Jarrod Uthoff,1627784,Jump Shot,3,3,0,3PT Jump Shot,THREE_POINT_JUMPERS,2020
+Jarrod Uthoff,1627784,Layup Shot,2,1,0,Standard Layup,LAYUPS,2020
+Jarrod Uthoff,1627784,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2020
+Jarrod Uthoff,1627784,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2020
+Jarrod Uthoff,1627784,Running Jump Shot,3,1,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2020
+Jarrod Uthoff,1627784,Step Back Jump shot,3,1,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2020
+Jarrod Uthoff,1627784,Turnaround Fadeaway shot,2,2,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2020
+Jarrod Uthoff,1627784,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2020

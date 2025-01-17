@@ -1,24 +1,26 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Bison Dele,183,Hook Shot,2,6,5,POST_MOVES,,1997
-Bison Dele,183,Jump Shot,2,30,11,JUMP_SHOTS,,1997
-Bison Dele,183,Standard Dunk,2,2,2,DUNKS,,1997
-Bison Dele,183,Standard Layup,2,20,7,LAYUPS,,1997
-Bison Dele,183,Tip Shot,2,5,1,TIP_SHOTS,,1997
-Bison Dele,183,Driving Dunk,2,6,5,DUNKS,,1998
-Bison Dele,183,Driving Layup,2,21,16,LAYUPS,,1998
-Bison Dele,183,Hook Shot,2,166,80,POST_MOVES,,1998
-Bison Dele,183,Jump Shot,2,492,182,JUMP_SHOTS,,1998
-Bison Dele,183,Jump Shot,3,3,1,JUMP_SHOTS,,1998
-Bison Dele,183,Running Jump Shot,2,5,2,JUMP_SHOTS,,1998
-Bison Dele,183,Standard Dunk,2,146,136,DUNKS,,1998
-Bison Dele,183,Standard Layup,2,163,88,LAYUPS,,1998
-Bison Dele,183,Tip Shot,2,38,21,TIP_SHOTS,,1998
-Bison Dele,183,Driving Dunk,2,1,1,DUNKS,,1999
-Bison Dele,183,Driving Layup,2,12,8,LAYUPS,,1999
-Bison Dele,183,Hook Shot,2,80,42,POST_MOVES,,1999
-Bison Dele,183,Jump Shot,2,167,51,JUMP_SHOTS,,1999
-Bison Dele,183,Jump Shot,3,1,0,JUMP_SHOTS,,1999
-Bison Dele,183,Running Jump Shot,2,1,1,JUMP_SHOTS,,1999
-Bison Dele,183,Standard Dunk,2,53,49,DUNKS,,1999
-Bison Dele,183,Standard Layup,2,95,55,LAYUPS,,1999
-Bison Dele,183,Tip Shot,2,21,9,TIP_SHOTS,,1999
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Bison Dele,183,Dunk Shot,2,2,2,Standard Dunk,DUNKS,1997
+Bison Dele,183,Hook Shot,2,6,5,Hook Shot,POST_MOVES,1997
+Bison Dele,183,Jump Shot,2,30,11,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Bison Dele,183,Layup Shot,2,20,7,Standard Layup,LAYUPS,1997
+Bison Dele,183,Tip Shot,2,5,1,Tip Shot,TIP_SHOTS,1997
+Bison Dele,183,Driving Dunk Shot,2,6,5,Driving Dunk,DUNKS,1998
+Bison Dele,183,Driving Layup Shot,2,21,16,Driving Layup,LAYUPS,1998
+Bison Dele,183,Dunk Shot,2,115,105,Standard Dunk,DUNKS,1998
+Bison Dele,183,Hook Shot,2,166,80,Hook Shot,POST_MOVES,1998
+Bison Dele,183,Jump Shot,2,492,182,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+Bison Dele,183,Jump Shot,3,3,1,3PT Jump Shot,THREE_POINT_JUMPERS,1998
+Bison Dele,183,Layup Shot,2,163,88,Standard Layup,LAYUPS,1998
+Bison Dele,183,Running Jump Shot,2,5,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
+Bison Dele,183,Slam Dunk Shot,2,31,31,Standard Dunk,DUNKS,1998
+Bison Dele,183,Tip Shot,2,38,21,Tip Shot,TIP_SHOTS,1998
+Bison Dele,183,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,1999
+Bison Dele,183,Driving Layup Shot,2,12,8,Driving Layup,LAYUPS,1999
+Bison Dele,183,Dunk Shot,2,42,38,Standard Dunk,DUNKS,1999
+Bison Dele,183,Hook Shot,2,80,42,Hook Shot,POST_MOVES,1999
+Bison Dele,183,Jump Shot,2,167,51,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Bison Dele,183,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,1999
+Bison Dele,183,Layup Shot,2,95,55,Standard Layup,LAYUPS,1999
+Bison Dele,183,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999
+Bison Dele,183,Slam Dunk Shot,2,11,11,Standard Dunk,DUNKS,1999
+Bison Dele,183,Tip Shot,2,21,9,Tip Shot,TIP_SHOTS,1999

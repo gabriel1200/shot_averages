@@ -1,35 +1,46 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Khyri Thomas,1629017,Driving Layup,2,4,3,LAYUPS,,2019
-Khyri Thomas,1629017,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2019
-Khyri Thomas,1629017,Finger Roll,2,1,1,LAYUPS,,2019
-Khyri Thomas,1629017,Floating Jump Shot,2,2,1,FLOATING_SHOTS,,2019
-Khyri Thomas,1629017,Jump Shot,2,36,10,JUMP_SHOTS,,2019
-Khyri Thomas,1629017,Jump Shot,3,4,1,JUMP_SHOTS,,2019
-Khyri Thomas,1629017,Pullup Jump Shot,2,11,2,JUMP_SHOTS,,2019
-Khyri Thomas,1629017,Putback Layup,2,1,0,LAYUPS,,2019
-Khyri Thomas,1629017,Reverse Layup,2,1,0,LAYUPS,,2019
-Khyri Thomas,1629017,Standard Dunk,2,1,1,DUNKS,,2019
-Khyri Thomas,1629017,Standard Layup,2,6,2,LAYUPS,,2019
-Khyri Thomas,1629017,Step Back Jump Shot,2,1,1,JUMP_SHOTS,,2019
-Khyri Thomas,1629017,Driving Layup,2,1,0,LAYUPS,,2020
-Khyri Thomas,1629017,Jump Shot,2,8,3,JUMP_SHOTS,,2020
-Khyri Thomas,1629017,Jump Shot,3,4,2,JUMP_SHOTS,,2020
-Khyri Thomas,1629017,Pullup Jump Shot,2,4,0,JUMP_SHOTS,,2020
-Khyri Thomas,1629017,Alley Oop Layup,2,1,0,LAYUPS,,2021
-Khyri Thomas,1629017,Driving Layup,2,10,6,LAYUPS,,2021
-Khyri Thomas,1629017,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2021
-Khyri Thomas,1629017,Finger Roll,2,2,2,LAYUPS,,2021
-Khyri Thomas,1629017,Floating Jump Shot,2,4,1,FLOATING_SHOTS,,2021
-Khyri Thomas,1629017,Jump Shot,2,12,6,JUMP_SHOTS,,2021
-Khyri Thomas,1629017,Jump Shot,3,8,0,JUMP_SHOTS,,2021
-Khyri Thomas,1629017,Pullup Jump Shot,2,6,3,JUMP_SHOTS,,2021
-Khyri Thomas,1629017,Pullup Jump Shot,3,4,1,JUMP_SHOTS,,2021
-Khyri Thomas,1629017,Putback Layup,2,1,0,LAYUPS,,2021
-Khyri Thomas,1629017,Reverse Layup,2,1,1,LAYUPS,,2021
-Khyri Thomas,1629017,Running Jump Shot,2,2,1,JUMP_SHOTS,,2021
-Khyri Thomas,1629017,Running Jump Shot,3,1,1,JUMP_SHOTS,,2021
-Khyri Thomas,1629017,Specialty Dunk,2,1,1,DUNKS,,2021
-Khyri Thomas,1629017,Standard Dunk,2,1,1,DUNKS,,2021
-Khyri Thomas,1629017,Standard Layup,2,5,5,LAYUPS,,2021
-Khyri Thomas,1629017,Step Back Jump Shot,2,4,1,JUMP_SHOTS,,2021
-Khyri Thomas,1629017,Step Back Jump Shot,3,2,1,JUMP_SHOTS,,2021
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Khyri Thomas,1629017,Cutting Layup Shot,2,3,1,Standard Layup,LAYUPS,2019
+Khyri Thomas,1629017,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2019
+Khyri Thomas,1629017,Driving Floating Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2019
+Khyri Thomas,1629017,Driving Layup Shot,2,4,3,Driving Layup,LAYUPS,2019
+Khyri Thomas,1629017,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2019
+Khyri Thomas,1629017,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2019
+Khyri Thomas,1629017,Jump Bank Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2019
+Khyri Thomas,1629017,Jump Shot,2,36,10,2PT Jump Shot,TWO_POINT_JUMPERS,2019
+Khyri Thomas,1629017,Jump Shot,3,3,1,3PT Jump Shot,THREE_POINT_JUMPERS,2019
+Khyri Thomas,1629017,Layup Shot,2,1,0,Standard Layup,LAYUPS,2019
+Khyri Thomas,1629017,Pullup Jump shot,2,11,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2019
+Khyri Thomas,1629017,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2019
+Khyri Thomas,1629017,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2019
+Khyri Thomas,1629017,Running Layup Shot,2,2,1,Standard Layup,LAYUPS,2019
+Khyri Thomas,1629017,Step Back Jump shot,2,1,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2019
+Khyri Thomas,1629017,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2019
+Khyri Thomas,1629017,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2020
+Khyri Thomas,1629017,Jump Shot,2,8,3,2PT Jump Shot,TWO_POINT_JUMPERS,2020
+Khyri Thomas,1629017,Jump Shot,3,4,2,3PT Jump Shot,THREE_POINT_JUMPERS,2020
+Khyri Thomas,1629017,Pullup Jump shot,2,4,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2020
+Khyri Thomas,1629017,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2021
+Khyri Thomas,1629017,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2021
+Khyri Thomas,1629017,Cutting Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2021
+Khyri Thomas,1629017,Cutting Layup Shot,2,2,2,Standard Layup,LAYUPS,2021
+Khyri Thomas,1629017,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2021
+Khyri Thomas,1629017,Driving Floating Bank Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Khyri Thomas,1629017,Driving Floating Jump Shot,2,2,0,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Khyri Thomas,1629017,Driving Layup Shot,2,10,6,Driving Layup,LAYUPS,2021
+Khyri Thomas,1629017,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2021
+Khyri Thomas,1629017,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Khyri Thomas,1629017,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Khyri Thomas,1629017,Jump Shot,2,11,5,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Khyri Thomas,1629017,Jump Shot,3,8,0,3PT Jump Shot,THREE_POINT_JUMPERS,2021
+Khyri Thomas,1629017,Layup Shot,2,1,1,Standard Layup,LAYUPS,2021
+Khyri Thomas,1629017,Pullup Jump shot,2,6,3,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2021
+Khyri Thomas,1629017,Pullup Jump shot,3,4,1,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2021
+Khyri Thomas,1629017,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2021
+Khyri Thomas,1629017,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2021
+Khyri Thomas,1629017,Running Layup Shot,2,2,2,Standard Layup,LAYUPS,2021
+Khyri Thomas,1629017,Running Pull-Up Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2021
+Khyri Thomas,1629017,Running Pull-Up Jump Shot,3,1,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2021
+Khyri Thomas,1629017,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2021
+Khyri Thomas,1629017,Step Back Jump shot,2,4,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2021
+Khyri Thomas,1629017,Step Back Jump shot,3,2,1,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2021
+Khyri Thomas,1629017,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2021

@@ -1,26 +1,34 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Marquis Teague,203104,Driving Jump Shot,2,2,1,JUMP_SHOTS,,2013
-Marquis Teague,203104,Driving Layup,2,24,12,LAYUPS,,2013
-Marquis Teague,203104,Floating Jump Shot,2,5,4,FLOATING_SHOTS,,2013
-Marquis Teague,203104,Jump Shot,2,52,13,JUMP_SHOTS,,2013
-Marquis Teague,203104,Pullup Jump Shot,2,3,0,JUMP_SHOTS,,2013
-Marquis Teague,203104,Reverse Layup,2,2,1,LAYUPS,,2013
-Marquis Teague,203104,Running Jump Shot,2,2,2,JUMP_SHOTS,,2013
-Marquis Teague,203104,Standard Layup,2,23,10,LAYUPS,,2013
-Marquis Teague,203104,Driving Jump Shot,2,3,2,JUMP_SHOTS,,2014
-Marquis Teague,203104,Driving Layup,2,22,15,LAYUPS,,2014
-Marquis Teague,203104,Finger Roll,2,1,1,LAYUPS,,2014
-Marquis Teague,203104,Jump Shot,2,56,12,JUMP_SHOTS,,2014
-Marquis Teague,203104,Pullup Jump Shot,2,1,0,JUMP_SHOTS,,2014
-Marquis Teague,203104,Putback Dunk,2,1,0,DUNKS,,2014
-Marquis Teague,203104,Reverse Layup,2,1,0,LAYUPS,,2014
-Marquis Teague,203104,Running Jump Shot,2,4,2,JUMP_SHOTS,,2014
-Marquis Teague,203104,Standard Layup,2,29,6,LAYUPS,,2014
-Marquis Teague,203104,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2014
-Marquis Teague,203104,Driving Layup,2,1,0,LAYUPS,,2018
-Marquis Teague,203104,Finger Roll,2,1,0,LAYUPS,,2018
-Marquis Teague,203104,Floating Jump Shot,2,2,2,FLOATING_SHOTS,,2018
-Marquis Teague,203104,Jump Shot,2,4,1,JUMP_SHOTS,,2018
-Marquis Teague,203104,Pullup Jump Shot,2,5,0,JUMP_SHOTS,,2018
-Marquis Teague,203104,Standard Layup,2,1,1,LAYUPS,,2018
-Marquis Teague,203104,Step Back Jump Shot,2,2,0,JUMP_SHOTS,,2018
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Marquis Teague,203104,Driving Jump shot,2,2,1,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2013
+Marquis Teague,203104,Driving Layup Shot,2,21,11,Driving Layup,LAYUPS,2013
+Marquis Teague,203104,Driving Reverse Layup Shot,2,3,1,Driving Layup,LAYUPS,2013
+Marquis Teague,203104,Floating Jump shot,2,5,4,2PT Floating Jump Shot,FLOATING_SHOTS,2013
+Marquis Teague,203104,Jump Shot,2,52,13,2PT Jump Shot,TWO_POINT_JUMPERS,2013
+Marquis Teague,203104,Layup Shot,2,16,5,Standard Layup,LAYUPS,2013
+Marquis Teague,203104,Pullup Jump shot,2,3,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2013
+Marquis Teague,203104,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2013
+Marquis Teague,203104,Running Bank shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2013
+Marquis Teague,203104,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2013
+Marquis Teague,203104,Running Layup Shot,2,7,5,Standard Layup,LAYUPS,2013
+Marquis Teague,203104,Driving Jump shot,2,3,2,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2014
+Marquis Teague,203104,Driving Layup Shot,2,21,15,Driving Layup,LAYUPS,2014
+Marquis Teague,203104,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2014
+Marquis Teague,203104,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2014
+Marquis Teague,203104,Jump Bank Shot,2,3,3,2PT Jump Shot,TWO_POINT_JUMPERS,2014
+Marquis Teague,203104,Jump Shot,2,53,9,2PT Jump Shot,TWO_POINT_JUMPERS,2014
+Marquis Teague,203104,Layup Shot,2,26,5,Standard Layup,LAYUPS,2014
+Marquis Teague,203104,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2014
+Marquis Teague,203104,Putback Dunk Shot,2,1,0,Putback Dunk,DUNKS,2014
+Marquis Teague,203104,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2014
+Marquis Teague,203104,Running Bank shot,2,2,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2014
+Marquis Teague,203104,Running Jump Shot,2,2,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2014
+Marquis Teague,203104,Running Layup Shot,2,3,1,Standard Layup,LAYUPS,2014
+Marquis Teague,203104,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2014
+Marquis Teague,203104,Driving Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2018
+Marquis Teague,203104,Driving Floating Bank Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Marquis Teague,203104,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2018
+Marquis Teague,203104,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Marquis Teague,203104,Jump Shot,2,4,1,2PT Jump Shot,TWO_POINT_JUMPERS,2018
+Marquis Teague,203104,Pullup Jump shot,2,5,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2018
+Marquis Teague,203104,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2018
+Marquis Teague,203104,Step Back Jump shot,2,2,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2018

@@ -1,12 +1,12 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Myles Powell,1629619,Driving Layup,2,4,2,LAYUPS,,2022
-Myles Powell,1629619,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2022
-Myles Powell,1629619,Finger Roll,2,1,1,LAYUPS,,2022
-Myles Powell,1629619,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2022
-Myles Powell,1629619,Jump Shot,2,1,0,JUMP_SHOTS,,2022
-Myles Powell,1629619,Jump Shot,3,2,1,JUMP_SHOTS,,2022
-Myles Powell,1629619,Pullup Jump Shot,2,1,0,JUMP_SHOTS,,2022
-Myles Powell,1629619,Pullup Jump Shot,3,3,0,JUMP_SHOTS,,2022
-Myles Powell,1629619,Putback Layup,2,1,1,LAYUPS,,2022
-Myles Powell,1629619,Running Jump Shot,2,1,0,JUMP_SHOTS,,2022
-Myles Powell,1629619,Standard Layup,2,1,0,LAYUPS,,2022
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Myles Powell,1629619,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2022
+Myles Powell,1629619,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Myles Powell,1629619,Driving Layup Shot,2,4,2,Driving Layup,LAYUPS,2022
+Myles Powell,1629619,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2022
+Myles Powell,1629619,Jump Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2022
+Myles Powell,1629619,Jump Shot,3,2,1,3PT Jump Shot,THREE_POINT_JUMPERS,2022
+Myles Powell,1629619,Layup Shot,2,1,0,Standard Layup,LAYUPS,2022
+Myles Powell,1629619,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2022
+Myles Powell,1629619,Pullup Jump shot,3,3,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2022
+Myles Powell,1629619,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2022
+Myles Powell,1629619,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2022

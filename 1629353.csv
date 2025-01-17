@@ -1,9 +1,9 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Isaac Humphries,1629353,Alley Oop Layup,2,1,0,LAYUPS,,2019
-Isaac Humphries,1629353,Driving Layup,2,1,0,LAYUPS,,2019
-Isaac Humphries,1629353,Hook Shot,2,1,0,POST_MOVES,,2019
-Isaac Humphries,1629353,Jump Shot,2,14,4,JUMP_SHOTS,,2019
-Isaac Humphries,1629353,Reverse Layup,2,1,1,LAYUPS,,2019
-Isaac Humphries,1629353,Specialty Dunk,2,1,0,DUNKS,,2019
-Isaac Humphries,1629353,Standard Dunk,2,1,0,DUNKS,,2019
-Isaac Humphries,1629353,Standard Layup,2,1,1,LAYUPS,,2019
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Isaac Humphries,1629353,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2019
+Isaac Humphries,1629353,Cutting Dunk Shot,2,1,0,Specialty Dunk,DUNKS,2019
+Isaac Humphries,1629353,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2019
+Isaac Humphries,1629353,Dunk Shot,2,1,0,Standard Dunk,DUNKS,2019
+Isaac Humphries,1629353,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2019
+Isaac Humphries,1629353,Jump Shot,2,14,4,2PT Jump Shot,TWO_POINT_JUMPERS,2019
+Isaac Humphries,1629353,Layup Shot,2,1,1,Standard Layup,LAYUPS,2019
+Isaac Humphries,1629353,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2019

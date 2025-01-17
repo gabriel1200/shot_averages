@@ -1,10 +1,12 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Derrick Caracter,202382,Driving Layup,2,4,2,LAYUPS,,2011
-Derrick Caracter,202382,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2011
-Derrick Caracter,202382,Hook Shot,2,3,1,POST_MOVES,,2011
-Derrick Caracter,202382,Jump Shot,2,27,9,JUMP_SHOTS,,2011
-Derrick Caracter,202382,Reverse Layup,2,1,0,LAYUPS,,2011
-Derrick Caracter,202382,Standard Dunk,2,3,3,DUNKS,,2011
-Derrick Caracter,202382,Standard Layup,2,25,15,LAYUPS,,2011
-Derrick Caracter,202382,Step Back Jump Shot,2,1,1,JUMP_SHOTS,,2011
-Derrick Caracter,202382,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2011
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Derrick Caracter,202382,Driving Layup Shot,2,3,2,Driving Layup,LAYUPS,2011
+Derrick Caracter,202382,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2011
+Derrick Caracter,202382,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2011
+Derrick Caracter,202382,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2011
+Derrick Caracter,202382,Hook Shot,2,3,1,Hook Shot,POST_MOVES,2011
+Derrick Caracter,202382,Jump Shot,2,27,9,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Derrick Caracter,202382,Layup Shot,2,25,15,Standard Layup,LAYUPS,2011
+Derrick Caracter,202382,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2011
+Derrick Caracter,202382,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,2011
+Derrick Caracter,202382,Step Back Jump shot,2,1,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2011
+Derrick Caracter,202382,Turnaround Fadeaway shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2011

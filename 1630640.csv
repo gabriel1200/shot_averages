@@ -1,4 +1,4 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-MJ Walker,1630640,Jump Shot,2,2,0,JUMP_SHOTS,,2022
-MJ Walker,1630640,Standard Layup,2,1,0,LAYUPS,,2022
-MJ Walker,1630640,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2022
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+MJ Walker,1630640,Jump Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2022
+MJ Walker,1630640,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2022
+MJ Walker,1630640,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2022

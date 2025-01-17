@@ -1,69 +1,79 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Corie Blount,916,Driving Layup,2,4,3,LAYUPS,,1997
-Corie Blount,916,Hook Shot,2,5,4,POST_MOVES,,1997
-Corie Blount,916,Jump Shot,2,53,16,JUMP_SHOTS,,1997
-Corie Blount,916,Standard Dunk,2,37,33,DUNKS,,1997
-Corie Blount,916,Standard Layup,2,69,30,LAYUPS,,1997
-Corie Blount,916,Tip Shot,2,11,6,TIP_SHOTS,,1997
-Corie Blount,916,Driving Layup,2,1,1,LAYUPS,,1998
-Corie Blount,916,Hook Shot,2,7,3,POST_MOVES,,1998
-Corie Blount,916,Jump Shot,2,55,22,JUMP_SHOTS,,1998
-Corie Blount,916,Standard Dunk,2,46,43,DUNKS,,1998
-Corie Blount,916,Standard Layup,2,56,30,LAYUPS,,1998
-Corie Blount,916,Tip Shot,2,22,8,TIP_SHOTS,,1998
-Corie Blount,916,Driving Dunk,2,1,0,DUNKS,,1999
-Corie Blount,916,Driving Layup,2,4,1,LAYUPS,,1999
-Corie Blount,916,Hook Shot,2,9,4,POST_MOVES,,1999
-Corie Blount,916,Jump Shot,2,25,5,JUMP_SHOTS,,1999
-Corie Blount,916,Standard Dunk,2,13,11,DUNKS,,1999
-Corie Blount,916,Standard Layup,2,39,14,LAYUPS,,1999
-Corie Blount,916,Tip Shot,2,9,1,TIP_SHOTS,,1999
-Corie Blount,916,Driving Layup,2,2,1,LAYUPS,,2000
-Corie Blount,916,Hook Shot,2,5,1,POST_MOVES,,2000
-Corie Blount,916,Jump Shot,2,30,9,JUMP_SHOTS,,2000
-Corie Blount,916,Standard Dunk,2,20,19,DUNKS,,2000
-Corie Blount,916,Standard Layup,2,26,12,LAYUPS,,2000
-Corie Blount,916,Tip Shot,2,6,2,TIP_SHOTS,,2000
-Corie Blount,916,Driving Dunk,2,1,1,DUNKS,,2001
-Corie Blount,916,Driving Hook Shot,2,2,1,POST_MOVES,,2001
-Corie Blount,916,Driving Layup,2,6,4,LAYUPS,,2001
-Corie Blount,916,Hook Shot,2,16,8,POST_MOVES,,2001
-Corie Blount,916,Jump Shot,2,156,51,JUMP_SHOTS,,2001
-Corie Blount,916,Reverse Dunk,2,1,1,DUNKS,,2001
-Corie Blount,916,Reverse Layup,2,4,3,LAYUPS,,2001
-Corie Blount,916,Running Hook Shot,2,1,1,POST_MOVES,,2001
-Corie Blount,916,Standard Dunk,2,29,21,DUNKS,,2001
-Corie Blount,916,Standard Layup,2,42,26,LAYUPS,,2001
-Corie Blount,916,Tip Shot,2,29,9,TIP_SHOTS,,2001
-Corie Blount,916,Turnaround Hook Shot,2,2,1,POST_MOVES,,2001
-Corie Blount,916,Turnaround Jump Shot,2,5,3,JUMP_SHOTS,,2001
-Corie Blount,916,Alley Oop Dunk,2,1,1,DUNKS,,2002
-Corie Blount,916,Driving Dunk,2,1,1,DUNKS,,2002
-Corie Blount,916,Driving Layup,2,2,1,LAYUPS,,2002
-Corie Blount,916,Hook Shot,2,6,2,POST_MOVES,,2002
-Corie Blount,916,Jump Shot,2,137,48,JUMP_SHOTS,,2002
-Corie Blount,916,Reverse Layup,2,2,2,LAYUPS,,2002
-Corie Blount,916,Running Jump Shot,2,1,1,JUMP_SHOTS,,2002
-Corie Blount,916,Specialty Dunk,2,2,2,DUNKS,,2002
-Corie Blount,916,Standard Dunk,2,11,7,DUNKS,,2002
-Corie Blount,916,Standard Layup,2,66,35,LAYUPS,,2002
-Corie Blount,916,Tip Shot,2,19,12,TIP_SHOTS,,2002
-Corie Blount,916,Turnaround Hook Shot,2,2,2,POST_MOVES,,2002
-Corie Blount,916,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2002
-Corie Blount,916,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2003
-Corie Blount,916,Hook Shot,2,3,1,POST_MOVES,,2003
-Corie Blount,916,Jump Shot,2,82,38,JUMP_SHOTS,,2003
-Corie Blount,916,Reverse Layup,2,1,0,LAYUPS,,2003
-Corie Blount,916,Standard Dunk,2,8,8,DUNKS,,2003
-Corie Blount,916,Standard Layup,2,23,9,LAYUPS,,2003
-Corie Blount,916,Tip Shot,2,10,5,TIP_SHOTS,,2003
-Corie Blount,916,Turnaround Jump Shot,2,6,4,JUMP_SHOTS,,2003
-Corie Blount,916,Driving Layup,2,1,1,LAYUPS,,2004
-Corie Blount,916,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2004
-Corie Blount,916,Hook Shot,2,4,2,POST_MOVES,,2004
-Corie Blount,916,Jump Shot,2,182,81,JUMP_SHOTS,,2004
-Corie Blount,916,Standard Dunk,2,9,7,DUNKS,,2004
-Corie Blount,916,Standard Layup,2,34,16,LAYUPS,,2004
-Corie Blount,916,Tip Shot,2,14,6,TIP_SHOTS,,2004
-Corie Blount,916,Turnaround Hook Shot,2,1,0,POST_MOVES,,2004
-Corie Blount,916,Turnaround Jump Shot,2,7,2,JUMP_SHOTS,,2004
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Corie Blount,916,Driving Layup Shot,2,4,3,Driving Layup,LAYUPS,1997
+Corie Blount,916,Dunk Shot,2,11,9,Standard Dunk,DUNKS,1997
+Corie Blount,916,Hook Shot,2,5,4,Hook Shot,POST_MOVES,1997
+Corie Blount,916,Jump Shot,2,53,16,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Corie Blount,916,Layup Shot,2,69,30,Standard Layup,LAYUPS,1997
+Corie Blount,916,Slam Dunk Shot,2,26,24,Standard Dunk,DUNKS,1997
+Corie Blount,916,Tip Shot,2,11,6,Tip Shot,TIP_SHOTS,1997
+Corie Blount,916,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,1998
+Corie Blount,916,Dunk Shot,2,13,11,Standard Dunk,DUNKS,1998
+Corie Blount,916,Hook Shot,2,7,3,Hook Shot,POST_MOVES,1998
+Corie Blount,916,Jump Shot,2,55,22,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+Corie Blount,916,Layup Shot,2,56,30,Standard Layup,LAYUPS,1998
+Corie Blount,916,Slam Dunk Shot,2,33,32,Standard Dunk,DUNKS,1998
+Corie Blount,916,Tip Shot,2,22,8,Tip Shot,TIP_SHOTS,1998
+Corie Blount,916,Driving Dunk Shot,2,1,0,Driving Dunk,DUNKS,1999
+Corie Blount,916,Driving Layup Shot,2,4,1,Driving Layup,LAYUPS,1999
+Corie Blount,916,Dunk Shot,2,4,3,Standard Dunk,DUNKS,1999
+Corie Blount,916,Hook Shot,2,9,4,Hook Shot,POST_MOVES,1999
+Corie Blount,916,Jump Shot,2,25,5,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Corie Blount,916,Layup Shot,2,39,14,Standard Layup,LAYUPS,1999
+Corie Blount,916,Slam Dunk Shot,2,9,8,Standard Dunk,DUNKS,1999
+Corie Blount,916,Tip Shot,2,9,1,Tip Shot,TIP_SHOTS,1999
+Corie Blount,916,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2000
+Corie Blount,916,Dunk Shot,2,18,17,Standard Dunk,DUNKS,2000
+Corie Blount,916,Hook Shot,2,5,1,Hook Shot,POST_MOVES,2000
+Corie Blount,916,Jump Shot,2,30,9,2PT Jump Shot,TWO_POINT_JUMPERS,2000
+Corie Blount,916,Layup Shot,2,26,12,Standard Layup,LAYUPS,2000
+Corie Blount,916,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,2000
+Corie Blount,916,Tip Shot,2,6,2,Tip Shot,TIP_SHOTS,2000
+Corie Blount,916,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2001
+Corie Blount,916,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,2001
+Corie Blount,916,Driving Layup Shot,2,6,4,Driving Layup,LAYUPS,2001
+Corie Blount,916,Dunk Shot,2,19,11,Standard Dunk,DUNKS,2001
+Corie Blount,916,Hook Shot,2,16,8,Hook Shot,POST_MOVES,2001
+Corie Blount,916,Jump Shot,2,156,51,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Corie Blount,916,Layup Shot,2,41,26,Standard Layup,LAYUPS,2001
+Corie Blount,916,Reverse Dunk Shot,2,1,1,Reverse Dunk,DUNKS,2001
+Corie Blount,916,Reverse Layup Shot,2,4,3,Reverse Layup,LAYUPS,2001
+Corie Blount,916,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,2001
+Corie Blount,916,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2001
+Corie Blount,916,Slam Dunk Shot,2,10,10,Standard Dunk,DUNKS,2001
+Corie Blount,916,Tip Shot,2,29,9,Tip Shot,TIP_SHOTS,2001
+Corie Blount,916,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,2001
+Corie Blount,916,Turnaround Jump Shot,2,5,3,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2001
+Corie Blount,916,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2002
+Corie Blount,916,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2002
+Corie Blount,916,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2002
+Corie Blount,916,Dunk Shot,2,8,4,Standard Dunk,DUNKS,2002
+Corie Blount,916,Follow Up Dunk Shot,2,2,2,Specialty Dunk,DUNKS,2002
+Corie Blount,916,Hook Shot,2,6,2,Hook Shot,POST_MOVES,2002
+Corie Blount,916,Jump Shot,2,137,48,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Corie Blount,916,Layup Shot,2,66,35,Standard Layup,LAYUPS,2002
+Corie Blount,916,Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2002
+Corie Blount,916,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2002
+Corie Blount,916,Slam Dunk Shot,2,3,3,Standard Dunk,DUNKS,2002
+Corie Blount,916,Tip Shot,2,19,12,Tip Shot,TIP_SHOTS,2002
+Corie Blount,916,Turnaround Hook Shot,2,2,2,Turnaround Hook Shot,POST_MOVES,2002
+Corie Blount,916,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2002
+Corie Blount,916,Dunk Shot,2,5,5,Standard Dunk,DUNKS,2003
+Corie Blount,916,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2003
+Corie Blount,916,Hook Shot,2,2,1,Hook Shot,POST_MOVES,2003
+Corie Blount,916,Jump Hook Shot,2,1,0,Hook Shot,POST_MOVES,2003
+Corie Blount,916,Jump Shot,2,82,38,2PT Jump Shot,TWO_POINT_JUMPERS,2003
+Corie Blount,916,Layup Shot,2,23,9,Standard Layup,LAYUPS,2003
+Corie Blount,916,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2003
+Corie Blount,916,Slam Dunk Shot,2,3,3,Standard Dunk,DUNKS,2003
+Corie Blount,916,Tip Shot,2,10,5,Tip Shot,TIP_SHOTS,2003
+Corie Blount,916,Turnaround Jump Shot,2,6,4,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2003
+Corie Blount,916,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2004
+Corie Blount,916,Dunk Shot,2,7,5,Standard Dunk,DUNKS,2004
+Corie Blount,916,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2004
+Corie Blount,916,Hook Shot,2,4,2,Hook Shot,POST_MOVES,2004
+Corie Blount,916,Jump Shot,2,182,81,2PT Jump Shot,TWO_POINT_JUMPERS,2004
+Corie Blount,916,Layup Shot,2,34,16,Standard Layup,LAYUPS,2004
+Corie Blount,916,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,2004
+Corie Blount,916,Tip Shot,2,14,6,Tip Shot,TIP_SHOTS,2004
+Corie Blount,916,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2004
+Corie Blount,916,Turnaround Jump Shot,2,7,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2004

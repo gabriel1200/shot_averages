@@ -1,18 +1,23 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Mike Taylor,201446,Driving Dunk,2,4,2,DUNKS,,2009
-Mike Taylor,201446,Driving Layup,2,33,26,LAYUPS,,2009
-Mike Taylor,201446,Fadeaway Jump Shot,2,2,0,JUMP_SHOTS,,2009
-Mike Taylor,201446,Finger Roll,2,2,1,LAYUPS,,2009
-Mike Taylor,201446,Floating Jump Shot,2,30,16,FLOATING_SHOTS,,2009
-Mike Taylor,201446,Jump Shot,2,112,36,JUMP_SHOTS,,2009
-Mike Taylor,201446,Jump Shot,3,1,0,JUMP_SHOTS,,2009
-Mike Taylor,201446,Pullup Jump Shot,2,2,1,JUMP_SHOTS,,2009
-Mike Taylor,201446,Reverse Dunk,2,3,2,DUNKS,,2009
-Mike Taylor,201446,Reverse Layup,2,4,2,LAYUPS,,2009
-Mike Taylor,201446,Running Hook Shot,2,1,1,POST_MOVES,,2009
-Mike Taylor,201446,Running Jump Shot,2,8,5,JUMP_SHOTS,,2009
-Mike Taylor,201446,Standard Dunk,2,2,1,DUNKS,,2009
-Mike Taylor,201446,Standard Layup,2,58,15,LAYUPS,,2009
-Mike Taylor,201446,Tip Shot,2,2,0,TIP_SHOTS,,2009
-Mike Taylor,201446,Turnaround Hook Shot,2,2,1,POST_MOVES,,2009
-Mike Taylor,201446,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2009
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Mike Taylor,201446,Driving Dunk Shot,2,3,1,Driving Dunk,DUNKS,2009
+Mike Taylor,201446,Driving Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2009
+Mike Taylor,201446,Driving Layup Shot,2,30,23,Driving Layup,LAYUPS,2009
+Mike Taylor,201446,Driving Reverse Layup Shot,2,3,3,Driving Layup,LAYUPS,2009
+Mike Taylor,201446,Driving Slam Dunk Shot,2,1,1,Driving Dunk,DUNKS,2009
+Mike Taylor,201446,Fadeaway Jump Shot,2,2,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2009
+Mike Taylor,201446,Floating Jump shot,2,30,16,2PT Floating Jump Shot,FLOATING_SHOTS,2009
+Mike Taylor,201446,Jump Bank Shot,2,2,1,2PT Jump Shot,TWO_POINT_JUMPERS,2009
+Mike Taylor,201446,Jump Shot,2,110,35,2PT Jump Shot,TWO_POINT_JUMPERS,2009
+Mike Taylor,201446,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2009
+Mike Taylor,201446,Layup Shot,2,58,15,Standard Layup,LAYUPS,2009
+Mike Taylor,201446,Pullup Jump shot,2,2,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2009
+Mike Taylor,201446,Reverse Dunk Shot,2,2,1,Reverse Dunk,DUNKS,2009
+Mike Taylor,201446,Reverse Layup Shot,2,4,2,Reverse Layup,LAYUPS,2009
+Mike Taylor,201446,Reverse Slam Dunk Shot,2,1,1,Reverse Dunk,DUNKS,2009
+Mike Taylor,201446,Running Dunk Shot,2,1,0,Standard Dunk,DUNKS,2009
+Mike Taylor,201446,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,2009
+Mike Taylor,201446,Running Jump Shot,2,8,5,2PT Running Jump Shot,TWO_POINT_JUMPERS,2009
+Mike Taylor,201446,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2009
+Mike Taylor,201446,Tip Shot,2,2,0,Tip Shot,TIP_SHOTS,2009
+Mike Taylor,201446,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,2009
+Mike Taylor,201446,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2009

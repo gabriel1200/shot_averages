@@ -1,21 +1,26 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Stanley Umude,1630649,Jump Shot,2,1,0,JUMP_SHOTS,,2023
-Stanley Umude,1630649,Alley Oop Layup,2,1,0,LAYUPS,,2024
-Stanley Umude,1630649,Driving Dunk,2,1,1,DUNKS,,2024
-Stanley Umude,1630649,Driving Layup,2,5,4,LAYUPS,,2024
-Stanley Umude,1630649,Finger Roll,2,1,0,LAYUPS,,2024
-Stanley Umude,1630649,Floating Jump Shot,2,8,2,FLOATING_SHOTS,,2024
-Stanley Umude,1630649,Hook Shot,2,1,0,POST_MOVES,,2024
-Stanley Umude,1630649,Jump Shot,3,45,20,JUMP_SHOTS,,2024
-Stanley Umude,1630649,Pullup Jump Shot,2,7,2,JUMP_SHOTS,,2024
-Stanley Umude,1630649,Pullup Jump Shot,3,1,0,JUMP_SHOTS,,2024
-Stanley Umude,1630649,Putback Layup,2,1,0,LAYUPS,,2024
-Stanley Umude,1630649,Reverse Layup,2,1,1,LAYUPS,,2024
-Stanley Umude,1630649,Running Jump Shot,3,7,4,JUMP_SHOTS,,2024
-Stanley Umude,1630649,Standard Dunk,2,1,1,DUNKS,,2024
-Stanley Umude,1630649,Standard Layup,2,4,2,LAYUPS,,2024
-Stanley Umude,1630649,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2025
-Stanley Umude,1630649,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2025
-Stanley Umude,1630649,Jump Shot,3,7,2,JUMP_SHOTS,,2025
-Stanley Umude,1630649,Pullup Jump Shot,2,2,0,JUMP_SHOTS,,2025
-Stanley Umude,1630649,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Stanley Umude,1630649,Jump Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2023
+Stanley Umude,1630649,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2024
+Stanley Umude,1630649,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2024
+Stanley Umude,1630649,Driving Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2024
+Stanley Umude,1630649,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Stanley Umude,1630649,Driving Floating Jump Shot,2,6,2,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Stanley Umude,1630649,Driving Layup Shot,2,4,3,Driving Layup,LAYUPS,2024
+Stanley Umude,1630649,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2024
+Stanley Umude,1630649,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Stanley Umude,1630649,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2024
+Stanley Umude,1630649,Jump Shot,3,45,20,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Stanley Umude,1630649,Layup Shot,2,1,0,Standard Layup,LAYUPS,2024
+Stanley Umude,1630649,Pullup Jump shot,2,7,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2024
+Stanley Umude,1630649,Pullup Jump shot,3,1,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
+Stanley Umude,1630649,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2024
+Stanley Umude,1630649,Running Jump Shot,3,6,3,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Stanley Umude,1630649,Running Layup Shot,2,3,2,Standard Layup,LAYUPS,2024
+Stanley Umude,1630649,Running Pull-Up Jump Shot,3,1,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Stanley Umude,1630649,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2024
+Stanley Umude,1630649,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2024
+Stanley Umude,1630649,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Stanley Umude,1630649,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
+Stanley Umude,1630649,Jump Shot,3,7,2,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Stanley Umude,1630649,Pullup Jump shot,2,2,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
+Stanley Umude,1630649,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025

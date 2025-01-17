@@ -1,60 +1,83 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Vlatko Cancar,1628427,Driving Dunk,2,1,1,DUNKS,,2020
-Vlatko Cancar,1628427,Finger Roll,2,1,0,LAYUPS,,2020
-Vlatko Cancar,1628427,Jump Shot,2,5,1,JUMP_SHOTS,,2020
-Vlatko Cancar,1628427,Jump Shot,3,1,0,JUMP_SHOTS,,2020
-Vlatko Cancar,1628427,Putback Layup,2,1,0,LAYUPS,,2020
-Vlatko Cancar,1628427,Running Jump Shot,2,1,0,JUMP_SHOTS,,2020
-Vlatko Cancar,1628427,Specialty Dunk,2,1,1,DUNKS,,2020
-Vlatko Cancar,1628427,Standard Layup,2,3,3,LAYUPS,,2020
-Vlatko Cancar,1628427,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2020
-Vlatko Cancar,1628427,Driving Dunk,2,1,1,DUNKS,,2021
-Vlatko Cancar,1628427,Driving Layup,2,6,1,LAYUPS,,2021
-Vlatko Cancar,1628427,Finger Roll,2,5,5,LAYUPS,,2021
-Vlatko Cancar,1628427,Floating Jump Shot,2,4,2,FLOATING_SHOTS,,2021
-Vlatko Cancar,1628427,Jump Shot,2,25,7,JUMP_SHOTS,,2021
-Vlatko Cancar,1628427,Jump Shot,3,10,3,JUMP_SHOTS,,2021
-Vlatko Cancar,1628427,Pullup Jump Shot,2,1,1,JUMP_SHOTS,,2021
-Vlatko Cancar,1628427,Putback Layup,2,5,4,LAYUPS,,2021
-Vlatko Cancar,1628427,Running Jump Shot,2,1,0,JUMP_SHOTS,,2021
-Vlatko Cancar,1628427,Specialty Dunk,2,4,3,DUNKS,,2021
-Vlatko Cancar,1628427,Standard Layup,2,10,6,LAYUPS,,2021
-Vlatko Cancar,1628427,Driving Layup,2,4,0,LAYUPS,,2022
-Vlatko Cancar,1628427,Finger Roll,2,3,3,LAYUPS,,2022
-Vlatko Cancar,1628427,Floating Jump Shot,2,4,2,FLOATING_SHOTS,,2022
-Vlatko Cancar,1628427,Jump Shot,2,5,1,JUMP_SHOTS,,2022
-Vlatko Cancar,1628427,Jump Shot,3,10,5,JUMP_SHOTS,,2022
-Vlatko Cancar,1628427,Pullup Jump Shot,2,1,0,JUMP_SHOTS,,2022
-Vlatko Cancar,1628427,Putback Layup,2,1,0,LAYUPS,,2022
-Vlatko Cancar,1628427,Running Jump Shot,3,1,1,JUMP_SHOTS,,2022
-Vlatko Cancar,1628427,Specialty Dunk,2,1,1,DUNKS,,2022
-Vlatko Cancar,1628427,Standard Dunk,2,1,1,DUNKS,,2022
-Vlatko Cancar,1628427,Standard Layup,2,10,9,LAYUPS,,2022
-Vlatko Cancar,1628427,Alley Oop Layup,2,1,0,LAYUPS,,2023
-Vlatko Cancar,1628427,Driving Dunk,2,2,1,DUNKS,,2023
-Vlatko Cancar,1628427,Driving Hook Shot,2,1,0,POST_MOVES,,2023
-Vlatko Cancar,1628427,Driving Layup,2,14,7,LAYUPS,,2023
-Vlatko Cancar,1628427,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2023
-Vlatko Cancar,1628427,Finger Roll,2,19,12,LAYUPS,,2023
-Vlatko Cancar,1628427,Floating Jump Shot,2,7,3,FLOATING_SHOTS,,2023
-Vlatko Cancar,1628427,Floating Jump Shot,3,1,0,FLOATING_SHOTS,,2023
-Vlatko Cancar,1628427,Hook Shot,2,5,2,POST_MOVES,,2023
-Vlatko Cancar,1628427,Jump Shot,2,36,12,JUMP_SHOTS,,2023
-Vlatko Cancar,1628427,Jump Shot,3,73,31,JUMP_SHOTS,,2023
-Vlatko Cancar,1628427,Pullup Jump Shot,3,1,0,JUMP_SHOTS,,2023
-Vlatko Cancar,1628427,Putback Layup,2,8,6,LAYUPS,,2023
-Vlatko Cancar,1628427,Reverse Layup,2,8,6,LAYUPS,,2023
-Vlatko Cancar,1628427,Running Jump Shot,2,3,1,JUMP_SHOTS,,2023
-Vlatko Cancar,1628427,Running Jump Shot,3,1,0,JUMP_SHOTS,,2023
-Vlatko Cancar,1628427,Specialty Dunk,2,1,0,DUNKS,,2023
-Vlatko Cancar,1628427,Standard Dunk,2,3,3,DUNKS,,2023
-Vlatko Cancar,1628427,Standard Layup,2,30,20,LAYUPS,,2023
-Vlatko Cancar,1628427,Step Back Jump Shot,2,3,1,JUMP_SHOTS,,2023
-Vlatko Cancar,1628427,Step Back Jump Shot,3,1,0,JUMP_SHOTS,,2023
-Vlatko Cancar,1628427,Turnaround Hook Shot,2,2,1,POST_MOVES,,2023
-Vlatko Cancar,1628427,Turnaround Jump Shot,2,6,2,JUMP_SHOTS,,2023
-Vlatko Čančar,1628427,Driving Dunk,2,1,1,DUNKS,,2025
-Vlatko Čančar,1628427,Driving Hook Shot,2,1,1,POST_MOVES,,2025
-Vlatko Čančar,1628427,Jump Shot,3,2,1,JUMP_SHOTS,,2025
-Vlatko Čančar,1628427,Standard Dunk,2,1,1,DUNKS,,2025
-Vlatko Čančar,1628427,Standard Layup,2,2,0,LAYUPS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Vlatko Cancar,1628427,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2020
+Vlatko Cancar,1628427,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2020
+Vlatko Cancar,1628427,Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2020
+Vlatko Cancar,1628427,Jump Shot,2,5,1,2PT Jump Shot,TWO_POINT_JUMPERS,2020
+Vlatko Cancar,1628427,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2020
+Vlatko Cancar,1628427,Layup Shot,2,3,3,Standard Layup,LAYUPS,2020
+Vlatko Cancar,1628427,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2020
+Vlatko Cancar,1628427,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2020
+Vlatko Cancar,1628427,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2020
+Vlatko Cancar,1628427,Cutting Dunk Shot,2,4,3,Specialty Dunk,DUNKS,2021
+Vlatko Cancar,1628427,Cutting Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2021
+Vlatko Cancar,1628427,Cutting Layup Shot,2,5,2,Standard Layup,LAYUPS,2021
+Vlatko Cancar,1628427,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2021
+Vlatko Cancar,1628427,Driving Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2021
+Vlatko Cancar,1628427,Driving Floating Bank Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Vlatko Cancar,1628427,Driving Floating Jump Shot,2,3,1,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Vlatko Cancar,1628427,Driving Layup Shot,2,6,1,Driving Layup,LAYUPS,2021
+Vlatko Cancar,1628427,Jump Shot,2,25,7,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Vlatko Cancar,1628427,Jump Shot,3,10,3,3PT Jump Shot,THREE_POINT_JUMPERS,2021
+Vlatko Cancar,1628427,Layup Shot,2,4,3,Standard Layup,LAYUPS,2021
+Vlatko Cancar,1628427,Pullup Jump shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2021
+Vlatko Cancar,1628427,Putback Layup Shot,2,3,3,Putback Layup,LAYUPS,2021
+Vlatko Cancar,1628427,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2021
+Vlatko Cancar,1628427,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2021
+Vlatko Cancar,1628427,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2021
+Vlatko Cancar,1628427,Tip Layup Shot,2,2,1,Putback Layup,LAYUPS,2021
+Vlatko Cancar,1628427,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2022
+Vlatko Cancar,1628427,Cutting Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2022
+Vlatko Cancar,1628427,Cutting Layup Shot,2,3,2,Standard Layup,LAYUPS,2022
+Vlatko Cancar,1628427,Driving Floating Jump Shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Vlatko Cancar,1628427,Driving Layup Shot,2,4,0,Driving Layup,LAYUPS,2022
+Vlatko Cancar,1628427,Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2022
+Vlatko Cancar,1628427,Floating Jump shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Vlatko Cancar,1628427,Jump Shot,2,5,1,2PT Jump Shot,TWO_POINT_JUMPERS,2022
+Vlatko Cancar,1628427,Jump Shot,3,10,5,3PT Jump Shot,THREE_POINT_JUMPERS,2022
+Vlatko Cancar,1628427,Layup Shot,2,3,3,Standard Layup,LAYUPS,2022
+Vlatko Cancar,1628427,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2022
+Vlatko Cancar,1628427,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2022
+Vlatko Cancar,1628427,Running Jump Shot,3,1,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2022
+Vlatko Cancar,1628427,Running Layup Shot,2,4,4,Standard Layup,LAYUPS,2022
+Vlatko Cancar,1628427,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2022
+Vlatko Cancar,1628427,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2023
+Vlatko Cancar,1628427,Cutting Dunk Shot,2,1,0,Specialty Dunk,DUNKS,2023
+Vlatko Cancar,1628427,Cutting Finger Roll Layup Shot,2,3,2,Finger Roll,LAYUPS,2023
+Vlatko Cancar,1628427,Cutting Layup Shot,2,8,7,Standard Layup,LAYUPS,2023
+Vlatko Cancar,1628427,Driving Dunk Shot,2,2,1,Driving Dunk,DUNKS,2023
+Vlatko Cancar,1628427,Driving Finger Roll Layup Shot,2,9,6,Finger Roll,LAYUPS,2023
+Vlatko Cancar,1628427,Driving Floating Bank Jump Shot,2,3,1,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Vlatko Cancar,1628427,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Vlatko Cancar,1628427,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2023
+Vlatko Cancar,1628427,Driving Layup Shot,2,13,6,Driving Layup,LAYUPS,2023
+Vlatko Cancar,1628427,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2023
+Vlatko Cancar,1628427,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2023
+Vlatko Cancar,1628427,Finger Roll Layup Shot,2,4,2,Finger Roll,LAYUPS,2023
+Vlatko Cancar,1628427,Floating Jump shot,2,3,2,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Vlatko Cancar,1628427,Floating Jump shot,3,1,0,3PT Floating Jump Shot,FLOATING_SHOTS,2023
+Vlatko Cancar,1628427,Hook Shot,2,5,2,Hook Shot,POST_MOVES,2023
+Vlatko Cancar,1628427,Jump Bank Shot,3,1,1,3PT Jump Shot,THREE_POINT_JUMPERS,2023
+Vlatko Cancar,1628427,Jump Shot,2,36,12,2PT Jump Shot,TWO_POINT_JUMPERS,2023
+Vlatko Cancar,1628427,Jump Shot,3,72,30,3PT Jump Shot,THREE_POINT_JUMPERS,2023
+Vlatko Cancar,1628427,Layup Shot,2,16,9,Standard Layup,LAYUPS,2023
+Vlatko Cancar,1628427,Pullup Jump shot,3,1,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2023
+Vlatko Cancar,1628427,Putback Layup Shot,2,4,3,Putback Layup,LAYUPS,2023
+Vlatko Cancar,1628427,Reverse Layup Shot,2,8,6,Reverse Layup,LAYUPS,2023
+Vlatko Cancar,1628427,Running Dunk Shot,2,3,3,Standard Dunk,DUNKS,2023
+Vlatko Cancar,1628427,Running Finger Roll Layup Shot,2,3,2,Finger Roll,LAYUPS,2023
+Vlatko Cancar,1628427,Running Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2023
+Vlatko Cancar,1628427,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2023
+Vlatko Cancar,1628427,Running Layup Shot,2,6,4,Standard Layup,LAYUPS,2023
+Vlatko Cancar,1628427,Running Pull-Up Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2023
+Vlatko Cancar,1628427,Step Back Jump shot,2,3,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2023
+Vlatko Cancar,1628427,Step Back Jump shot,3,1,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2023
+Vlatko Cancar,1628427,Tip Layup Shot,2,4,3,Putback Layup,LAYUPS,2023
+Vlatko Cancar,1628427,Turnaround Bank shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2023
+Vlatko Cancar,1628427,Turnaround Fadeaway shot,2,3,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2023
+Vlatko Cancar,1628427,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,2023
+Vlatko Cancar,1628427,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2023
+Vlatko Čančar,1628427,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2025
+Vlatko Čančar,1628427,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2025
+Vlatko Čančar,1628427,Jump Shot,3,2,1,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Vlatko Čančar,1628427,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2025
+Vlatko Čančar,1628427,Running Layup Shot,2,2,0,Standard Layup,LAYUPS,2025

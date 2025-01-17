@@ -1,10 +1,12 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Tyrell Terry,1630179,Driving Layup,2,2,2,LAYUPS,,2021
-Tyrell Terry,1630179,Floating Jump Shot,2,2,0,FLOATING_SHOTS,,2021
-Tyrell Terry,1630179,Jump Shot,2,5,0,JUMP_SHOTS,,2021
-Tyrell Terry,1630179,Jump Shot,3,1,0,JUMP_SHOTS,,2021
-Tyrell Terry,1630179,Pullup Jump Shot,2,1,0,JUMP_SHOTS,,2021
-Tyrell Terry,1630179,Reverse Layup,2,2,2,LAYUPS,,2021
-Tyrell Terry,1630179,Standard Layup,2,1,1,LAYUPS,,2021
-Tyrell Terry,1630179,Step Back Jump Shot,2,2,0,JUMP_SHOTS,,2021
-Tyrell Terry,1630179,Pullup Jump Shot,2,1,1,JUMP_SHOTS,,2022
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Tyrell Terry,1630179,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Tyrell Terry,1630179,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,2021
+Tyrell Terry,1630179,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Tyrell Terry,1630179,Jump Shot,2,5,0,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Tyrell Terry,1630179,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2021
+Tyrell Terry,1630179,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2021
+Tyrell Terry,1630179,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2021
+Tyrell Terry,1630179,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2021
+Tyrell Terry,1630179,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2021
+Tyrell Terry,1630179,Step Back Jump shot,2,2,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2021
+Tyrell Terry,1630179,Pullup Jump shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2022

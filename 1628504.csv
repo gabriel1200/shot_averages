@@ -1,12 +1,14 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Xavier Rathan-Mayes,1628504,Alley Oop Layup,2,1,0,LAYUPS,,2018
-Xavier Rathan-Mayes,1628504,Driving Hook Shot,2,1,0,POST_MOVES,,2018
-Xavier Rathan-Mayes,1628504,Driving Layup,2,3,2,LAYUPS,,2018
-Xavier Rathan-Mayes,1628504,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2018
-Xavier Rathan-Mayes,1628504,Finger Roll,2,2,2,LAYUPS,,2018
-Xavier Rathan-Mayes,1628504,Floating Jump Shot,2,5,1,FLOATING_SHOTS,,2018
-Xavier Rathan-Mayes,1628504,Jump Shot,2,16,2,JUMP_SHOTS,,2018
-Xavier Rathan-Mayes,1628504,Pullup Jump Shot,2,7,2,JUMP_SHOTS,,2018
-Xavier Rathan-Mayes,1628504,Standard Layup,2,1,1,LAYUPS,,2018
-Xavier Rathan-Mayes,1628504,Step Back Jump Shot,2,4,2,JUMP_SHOTS,,2018
-Xavier Rathan-Mayes,1628504,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2018
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Xavier Rathan-Mayes,1628504,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2018
+Xavier Rathan-Mayes,1628504,Driving Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2018
+Xavier Rathan-Mayes,1628504,Driving Floating Jump Shot,2,4,0,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Xavier Rathan-Mayes,1628504,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2018
+Xavier Rathan-Mayes,1628504,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2018
+Xavier Rathan-Mayes,1628504,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2018
+Xavier Rathan-Mayes,1628504,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2018
+Xavier Rathan-Mayes,1628504,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Xavier Rathan-Mayes,1628504,Jump Shot,2,16,2,2PT Jump Shot,TWO_POINT_JUMPERS,2018
+Xavier Rathan-Mayes,1628504,Layup Shot,2,1,1,Standard Layup,LAYUPS,2018
+Xavier Rathan-Mayes,1628504,Pullup Jump shot,2,7,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2018
+Xavier Rathan-Mayes,1628504,Step Back Jump shot,2,4,2,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2018
+Xavier Rathan-Mayes,1628504,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2018

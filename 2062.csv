@@ -1,15 +1,16 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-A.J. Guyton,2062,Driving Layup,2,6,3,LAYUPS,,2001
-A.J. Guyton,2062,Finger Roll,2,3,2,LAYUPS,,2001
-A.J. Guyton,2062,Jump Shot,2,172,64,JUMP_SHOTS,,2001
-A.J. Guyton,2062,Running Jump Shot,2,5,5,JUMP_SHOTS,,2001
-A.J. Guyton,2062,Standard Layup,2,6,4,LAYUPS,,2001
-A.J. Guyton,2062,Driving Layup,2,9,7,LAYUPS,,2002
-A.J. Guyton,2062,Jump Shot,2,202,64,JUMP_SHOTS,,2002
-A.J. Guyton,2062,Jump Shot,3,7,4,JUMP_SHOTS,,2002
-A.J. Guyton,2062,Reverse Layup,2,2,2,LAYUPS,,2002
-A.J. Guyton,2062,Running Hook Shot,2,1,0,POST_MOVES,,2002
-A.J. Guyton,2062,Running Jump Shot,2,7,5,JUMP_SHOTS,,2002
-A.J. Guyton,2062,Standard Layup,2,13,4,LAYUPS,,2002
-A.J. Guyton,2062,Tip Shot,2,2,1,TIP_SHOTS,,2002
-A.J. Guyton,2062,Jump Shot,2,4,0,JUMP_SHOTS,,2003
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+A.J. Guyton,2062,Driving Finger Roll Shot,2,3,2,Finger Roll,LAYUPS,2001
+A.J. Guyton,2062,Driving Layup Shot,2,6,3,Driving Layup,LAYUPS,2001
+A.J. Guyton,2062,Jump Shot,2,172,64,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+A.J. Guyton,2062,Layup Shot,2,6,4,Standard Layup,LAYUPS,2001
+A.J. Guyton,2062,Running Jump Shot,2,5,5,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
+A.J. Guyton,2062,Driving Layup Shot,2,9,7,Driving Layup,LAYUPS,2002
+A.J. Guyton,2062,Jump Shot,2,202,64,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+A.J. Guyton,2062,Jump Shot,3,7,4,3PT Jump Shot,THREE_POINT_JUMPERS,2002
+A.J. Guyton,2062,Layup Shot,2,12,3,Standard Layup,LAYUPS,2002
+A.J. Guyton,2062,Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2002
+A.J. Guyton,2062,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,2002
+A.J. Guyton,2062,Running Jump Shot,2,7,5,2PT Running Jump Shot,TWO_POINT_JUMPERS,2002
+A.J. Guyton,2062,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2002
+A.J. Guyton,2062,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,2002
+A.J. Guyton,2062,Jump Shot,2,4,0,2PT Jump Shot,TWO_POINT_JUMPERS,2003

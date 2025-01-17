@@ -1,4 +1,4 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Norman Richardson,2369,Driving Layup,2,3,2,LAYUPS,,2002
-Norman Richardson,2369,Jump Shot,2,17,6,JUMP_SHOTS,,2002
-Norman Richardson,2369,Standard Layup,2,6,2,LAYUPS,,2002
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Norman Richardson,2369,Driving Layup Shot,2,3,2,Driving Layup,LAYUPS,2002
+Norman Richardson,2369,Jump Shot,2,17,6,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Norman Richardson,2369,Layup Shot,2,6,2,Standard Layup,LAYUPS,2002

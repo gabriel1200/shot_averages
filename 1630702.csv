@@ -1,58 +1,88 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jaden Hardy,1630702,Driving Dunk,2,4,3,DUNKS,,2023
-Jaden Hardy,1630702,Driving Hook Shot,2,3,3,POST_MOVES,,2023
-Jaden Hardy,1630702,Driving Layup,2,56,26,LAYUPS,,2023
-Jaden Hardy,1630702,Fadeaway Jump Shot,2,3,0,JUMP_SHOTS,,2023
-Jaden Hardy,1630702,Finger Roll,2,22,13,LAYUPS,,2023
-Jaden Hardy,1630702,Floating Jump Shot,2,13,7,FLOATING_SHOTS,,2023
-Jaden Hardy,1630702,Jump Shot,2,90,35,JUMP_SHOTS,,2023
-Jaden Hardy,1630702,Jump Shot,3,4,2,JUMP_SHOTS,,2023
-Jaden Hardy,1630702,Pullup Jump Shot,2,39,14,JUMP_SHOTS,,2023
-Jaden Hardy,1630702,Pullup Jump Shot,3,1,1,JUMP_SHOTS,,2023
-Jaden Hardy,1630702,Putback Layup,2,3,3,LAYUPS,,2023
-Jaden Hardy,1630702,Reverse Layup,2,1,0,LAYUPS,,2023
-Jaden Hardy,1630702,Running Jump Shot,2,12,6,JUMP_SHOTS,,2023
-Jaden Hardy,1630702,Standard Dunk,2,4,4,DUNKS,,2023
-Jaden Hardy,1630702,Standard Layup,2,32,11,LAYUPS,,2023
-Jaden Hardy,1630702,Step Back Jump Shot,2,42,16,JUMP_SHOTS,,2023
-Jaden Hardy,1630702,Step Back Jump Shot,3,1,0,JUMP_SHOTS,,2023
-Jaden Hardy,1630702,Turnaround Jump Shot,2,3,2,JUMP_SHOTS,,2023
-Jaden Hardy,1630702,Alley Oop Dunk,2,1,1,DUNKS,,2024
-Jaden Hardy,1630702,Driving Dunk,2,7,5,DUNKS,,2024
-Jaden Hardy,1630702,Driving Layup,2,51,15,LAYUPS,,2024
-Jaden Hardy,1630702,Fadeaway Jump Shot,2,21,6,JUMP_SHOTS,,2024
-Jaden Hardy,1630702,Finger Roll,2,13,6,LAYUPS,,2024
-Jaden Hardy,1630702,Floating Jump Shot,2,35,17,FLOATING_SHOTS,,2024
-Jaden Hardy,1630702,Jump Shot,2,2,0,JUMP_SHOTS,,2024
-Jaden Hardy,1630702,Jump Shot,3,154,57,JUMP_SHOTS,,2024
-Jaden Hardy,1630702,Pullup Jump Shot,2,51,20,JUMP_SHOTS,,2024
-Jaden Hardy,1630702,Pullup Jump Shot,3,30,9,JUMP_SHOTS,,2024
-Jaden Hardy,1630702,Putback Layup,2,4,3,LAYUPS,,2024
-Jaden Hardy,1630702,Reverse Layup,2,1,0,LAYUPS,,2024
-Jaden Hardy,1630702,Running Jump Shot,2,1,1,JUMP_SHOTS,,2024
-Jaden Hardy,1630702,Running Jump Shot,3,9,6,JUMP_SHOTS,,2024
-Jaden Hardy,1630702,Specialty Dunk,2,1,1,DUNKS,,2024
-Jaden Hardy,1630702,Standard Dunk,2,2,2,DUNKS,,2024
-Jaden Hardy,1630702,Standard Layup,2,37,23,LAYUPS,,2024
-Jaden Hardy,1630702,Step Back Jump Shot,2,17,9,JUMP_SHOTS,,2024
-Jaden Hardy,1630702,Step Back Jump Shot,3,31,9,JUMP_SHOTS,,2024
-Jaden Hardy,1630702,Turnaround Jump Shot,2,11,5,JUMP_SHOTS,,2024
-Jaden Hardy,1630702,Alley Oop Dunk,2,1,0,DUNKS,,2025
-Jaden Hardy,1630702,Alley Oop Layup,2,1,1,LAYUPS,,2025
-Jaden Hardy,1630702,Driving Dunk,2,3,3,DUNKS,,2025
-Jaden Hardy,1630702,Driving Layup,2,31,14,LAYUPS,,2025
-Jaden Hardy,1630702,Fadeaway Jump Shot,2,6,4,JUMP_SHOTS,,2025
-Jaden Hardy,1630702,Finger Roll,2,7,5,LAYUPS,,2025
-Jaden Hardy,1630702,Floating Jump Shot,2,28,11,FLOATING_SHOTS,,2025
-Jaden Hardy,1630702,Jump Shot,2,3,0,JUMP_SHOTS,,2025
-Jaden Hardy,1630702,Jump Shot,3,71,28,JUMP_SHOTS,,2025
-Jaden Hardy,1630702,Pullup Jump Shot,2,19,3,JUMP_SHOTS,,2025
-Jaden Hardy,1630702,Pullup Jump Shot,3,18,6,JUMP_SHOTS,,2025
-Jaden Hardy,1630702,Putback Layup,2,1,0,LAYUPS,,2025
-Jaden Hardy,1630702,Reverse Layup,2,2,2,LAYUPS,,2025
-Jaden Hardy,1630702,Running Jump Shot,3,12,7,JUMP_SHOTS,,2025
-Jaden Hardy,1630702,Standard Dunk,2,3,3,DUNKS,,2025
-Jaden Hardy,1630702,Standard Layup,2,12,8,LAYUPS,,2025
-Jaden Hardy,1630702,Step Back Jump Shot,2,5,1,JUMP_SHOTS,,2025
-Jaden Hardy,1630702,Step Back Jump Shot,3,7,2,JUMP_SHOTS,,2025
-Jaden Hardy,1630702,Turnaround Jump Shot,2,3,2,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Jaden Hardy,1630702,Cutting Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2023
+Jaden Hardy,1630702,Cutting Layup Shot,2,4,3,Standard Layup,LAYUPS,2023
+Jaden Hardy,1630702,Driving Bank Hook Shot,2,2,2,Driving Hook Shot,POST_MOVES,2023
+Jaden Hardy,1630702,Driving Dunk Shot,2,4,3,Driving Dunk,DUNKS,2023
+Jaden Hardy,1630702,Driving Finger Roll Layup Shot,2,16,9,Finger Roll,LAYUPS,2023
+Jaden Hardy,1630702,Driving Floating Bank Jump Shot,2,2,2,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Jaden Hardy,1630702,Driving Floating Jump Shot,2,7,4,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Jaden Hardy,1630702,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2023
+Jaden Hardy,1630702,Driving Layup Shot,2,51,22,Driving Layup,LAYUPS,2023
+Jaden Hardy,1630702,Driving Reverse Layup Shot,2,5,4,Driving Layup,LAYUPS,2023
+Jaden Hardy,1630702,Fadeaway Jump Shot,2,3,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2023
+Jaden Hardy,1630702,Floating Jump shot,2,4,1,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Jaden Hardy,1630702,Jump Shot,2,90,35,2PT Jump Shot,TWO_POINT_JUMPERS,2023
+Jaden Hardy,1630702,Jump Shot,3,4,2,3PT Jump Shot,THREE_POINT_JUMPERS,2023
+Jaden Hardy,1630702,Layup Shot,2,4,1,Standard Layup,LAYUPS,2023
+Jaden Hardy,1630702,Pullup Jump shot,2,39,14,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2023
+Jaden Hardy,1630702,Pullup Jump shot,3,1,1,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2023
+Jaden Hardy,1630702,Putback Layup Shot,2,2,2,Putback Layup,LAYUPS,2023
+Jaden Hardy,1630702,Running Dunk Shot,2,4,4,Standard Dunk,DUNKS,2023
+Jaden Hardy,1630702,Running Finger Roll Layup Shot,2,5,3,Finger Roll,LAYUPS,2023
+Jaden Hardy,1630702,Running Jump Shot,2,10,5,2PT Running Jump Shot,TWO_POINT_JUMPERS,2023
+Jaden Hardy,1630702,Running Layup Shot,2,24,7,Standard Layup,LAYUPS,2023
+Jaden Hardy,1630702,Running Pull-Up Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2023
+Jaden Hardy,1630702,Running Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2023
+Jaden Hardy,1630702,Step Back Jump shot,2,42,16,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2023
+Jaden Hardy,1630702,Step Back Jump shot,3,1,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2023
+Jaden Hardy,1630702,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2023
+Jaden Hardy,1630702,Turnaround Bank shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2023
+Jaden Hardy,1630702,Turnaround Fadeaway shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2023
+Jaden Hardy,1630702,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2024
+Jaden Hardy,1630702,Cutting Layup Shot,2,3,3,Standard Layup,LAYUPS,2024
+Jaden Hardy,1630702,Driving Dunk Shot,2,7,5,Driving Dunk,DUNKS,2024
+Jaden Hardy,1630702,Driving Finger Roll Layup Shot,2,11,4,Finger Roll,LAYUPS,2024
+Jaden Hardy,1630702,Driving Floating Bank Jump Shot,2,6,4,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Jaden Hardy,1630702,Driving Floating Jump Shot,2,28,12,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Jaden Hardy,1630702,Driving Layup Shot,2,50,15,Driving Layup,LAYUPS,2024
+Jaden Hardy,1630702,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2024
+Jaden Hardy,1630702,Fadeaway Jump Shot,2,21,6,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
+Jaden Hardy,1630702,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Jaden Hardy,1630702,Jump Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2024
+Jaden Hardy,1630702,Jump Shot,3,154,57,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Jaden Hardy,1630702,Layup Shot,2,3,0,Standard Layup,LAYUPS,2024
+Jaden Hardy,1630702,Pullup Jump shot,2,51,20,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2024
+Jaden Hardy,1630702,Pullup Jump shot,3,30,9,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
+Jaden Hardy,1630702,Putback Layup Shot,2,3,3,Putback Layup,LAYUPS,2024
+Jaden Hardy,1630702,Running Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2024
+Jaden Hardy,1630702,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2024
+Jaden Hardy,1630702,Running Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2024
+Jaden Hardy,1630702,Running Jump Shot,3,7,4,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Jaden Hardy,1630702,Running Layup Shot,2,31,20,Standard Layup,LAYUPS,2024
+Jaden Hardy,1630702,Running Pull-Up Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2024
+Jaden Hardy,1630702,Running Pull-Up Jump Shot,3,2,2,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Jaden Hardy,1630702,Running Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2024
+Jaden Hardy,1630702,Step Back Bank Jump Shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2024
+Jaden Hardy,1630702,Step Back Jump shot,2,16,9,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2024
+Jaden Hardy,1630702,Step Back Jump shot,3,31,9,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
+Jaden Hardy,1630702,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2024
+Jaden Hardy,1630702,Turnaround Fadeaway shot,2,8,4,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Jaden Hardy,1630702,Turnaround Jump Shot,2,3,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Jaden Hardy,1630702,Alley Oop Dunk Shot,2,1,0,Alley Oop Dunk,DUNKS,2025
+Jaden Hardy,1630702,Cutting Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2025
+Jaden Hardy,1630702,Cutting Layup Shot,2,2,2,Standard Layup,LAYUPS,2025
+Jaden Hardy,1630702,Driving Dunk Shot,2,3,3,Driving Dunk,DUNKS,2025
+Jaden Hardy,1630702,Driving Finger Roll Layup Shot,2,5,4,Finger Roll,LAYUPS,2025
+Jaden Hardy,1630702,Driving Floating Bank Jump Shot,2,6,3,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Jaden Hardy,1630702,Driving Floating Jump Shot,2,21,7,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Jaden Hardy,1630702,Driving Layup Shot,2,28,13,Driving Layup,LAYUPS,2025
+Jaden Hardy,1630702,Driving Reverse Layup Shot,2,3,1,Driving Layup,LAYUPS,2025
+Jaden Hardy,1630702,Fadeaway Jump Shot,2,6,4,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
+Jaden Hardy,1630702,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Jaden Hardy,1630702,Jump Shot,2,3,0,2PT Jump Shot,TWO_POINT_JUMPERS,2025
+Jaden Hardy,1630702,Jump Shot,3,71,28,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Jaden Hardy,1630702,Layup Shot,2,1,0,Standard Layup,LAYUPS,2025
+Jaden Hardy,1630702,Pullup Jump shot,2,19,3,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
+Jaden Hardy,1630702,Pullup Jump shot,3,18,6,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
+Jaden Hardy,1630702,Running Alley Oop Layup Shot,2,1,1,Alley Oop Layup,LAYUPS,2025
+Jaden Hardy,1630702,Running Dunk Shot,2,3,3,Standard Dunk,DUNKS,2025
+Jaden Hardy,1630702,Running Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2025
+Jaden Hardy,1630702,Running Jump Shot,3,6,5,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Jaden Hardy,1630702,Running Layup Shot,2,9,6,Standard Layup,LAYUPS,2025
+Jaden Hardy,1630702,Running Pull-Up Jump Shot,3,6,2,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Jaden Hardy,1630702,Running Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2025
+Jaden Hardy,1630702,Step Back Jump shot,2,5,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2025
+Jaden Hardy,1630702,Step Back Jump shot,3,7,2,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
+Jaden Hardy,1630702,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2025
+Jaden Hardy,1630702,Turnaround Fadeaway shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+Jaden Hardy,1630702,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025

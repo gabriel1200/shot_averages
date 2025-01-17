@@ -1,26 +1,29 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Malik Hairston,201612,Driving Dunk,2,1,1,DUNKS,,2009
-Malik Hairston,201612,Driving Layup,2,4,1,LAYUPS,,2009
-Malik Hairston,201612,Finger Roll,2,1,1,LAYUPS,,2009
-Malik Hairston,201612,Jump Shot,2,20,6,JUMP_SHOTS,,2009
-Malik Hairston,201612,Jump Shot,3,1,0,JUMP_SHOTS,,2009
-Malik Hairston,201612,Putback Dunk,2,1,1,DUNKS,,2009
-Malik Hairston,201612,Putback Layup,2,2,1,LAYUPS,,2009
-Malik Hairston,201612,Reverse Dunk,2,1,1,DUNKS,,2009
-Malik Hairston,201612,Reverse Layup,2,1,1,LAYUPS,,2009
-Malik Hairston,201612,Running Jump Shot,2,1,0,JUMP_SHOTS,,2009
-Malik Hairston,201612,Standard Dunk,2,5,5,DUNKS,,2009
-Malik Hairston,201612,Standard Layup,2,11,6,LAYUPS,,2009
-Malik Hairston,201612,Alley Oop Layup,2,1,1,LAYUPS,,2010
-Malik Hairston,201612,Driving Dunk,2,1,1,DUNKS,,2010
-Malik Hairston,201612,Driving Layup,2,14,8,LAYUPS,,2010
-Malik Hairston,201612,Finger Roll,2,3,3,LAYUPS,,2010
-Malik Hairston,201612,Floating Jump Shot,2,1,1,FLOATING_SHOTS,,2010
-Malik Hairston,201612,Jump Shot,2,29,8,JUMP_SHOTS,,2010
-Malik Hairston,201612,Jump Shot,3,2,1,JUMP_SHOTS,,2010
-Malik Hairston,201612,Putback Dunk,2,2,2,DUNKS,,2010
-Malik Hairston,201612,Reverse Dunk,2,1,1,DUNKS,,2010
-Malik Hairston,201612,Running Jump Shot,2,1,0,JUMP_SHOTS,,2010
-Malik Hairston,201612,Standard Dunk,2,6,6,DUNKS,,2010
-Malik Hairston,201612,Standard Layup,2,14,7,LAYUPS,,2010
-Malik Hairston,201612,Tip Shot,2,1,1,TIP_SHOTS,,2010
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Malik Hairston,201612,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2009
+Malik Hairston,201612,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2009
+Malik Hairston,201612,Driving Layup Shot,2,4,1,Driving Layup,LAYUPS,2009
+Malik Hairston,201612,Dunk Shot,2,5,5,Standard Dunk,DUNKS,2009
+Malik Hairston,201612,Jump Shot,2,20,6,2PT Jump Shot,TWO_POINT_JUMPERS,2009
+Malik Hairston,201612,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2009
+Malik Hairston,201612,Layup Shot,2,11,6,Standard Layup,LAYUPS,2009
+Malik Hairston,201612,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2009
+Malik Hairston,201612,Putback Layup Shot,2,2,1,Putback Layup,LAYUPS,2009
+Malik Hairston,201612,Reverse Dunk Shot,2,1,1,Reverse Dunk,DUNKS,2009
+Malik Hairston,201612,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2009
+Malik Hairston,201612,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2009
+Malik Hairston,201612,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2010
+Malik Hairston,201612,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2010
+Malik Hairston,201612,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2010
+Malik Hairston,201612,Driving Layup Shot,2,14,8,Driving Layup,LAYUPS,2010
+Malik Hairston,201612,Dunk Shot,2,5,5,Standard Dunk,DUNKS,2010
+Malik Hairston,201612,Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2010
+Malik Hairston,201612,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2010
+Malik Hairston,201612,Jump Shot,2,29,8,2PT Jump Shot,TWO_POINT_JUMPERS,2010
+Malik Hairston,201612,Jump Shot,3,2,1,3PT Jump Shot,THREE_POINT_JUMPERS,2010
+Malik Hairston,201612,Layup Shot,2,14,7,Standard Layup,LAYUPS,2010
+Malik Hairston,201612,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2010
+Malik Hairston,201612,Putback Slam Dunk Shot,2,1,1,Putback Dunk,DUNKS,2010
+Malik Hairston,201612,Reverse Dunk Shot,2,1,1,Reverse Dunk,DUNKS,2010
+Malik Hairston,201612,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2010
+Malik Hairston,201612,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2010
+Malik Hairston,201612,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2010

@@ -1,40 +1,43 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Terry Porter,345,Driving Layup,2,43,37,LAYUPS,,1997
-Terry Porter,345,Hook Shot,2,1,1,POST_MOVES,,1997
-Terry Porter,345,Jump Shot,2,300,106,JUMP_SHOTS,,1997
-Terry Porter,345,Jump Shot,3,30,15,JUMP_SHOTS,,1997
-Terry Porter,345,Running Jump Shot,2,11,10,JUMP_SHOTS,,1997
-Terry Porter,345,Standard Layup,2,63,17,LAYUPS,,1997
-Terry Porter,345,Tip Shot,2,1,1,TIP_SHOTS,,1997
-Terry Porter,345,Driving Layup,2,53,34,LAYUPS,,1998
-Terry Porter,345,Hook Shot,2,1,0,POST_MOVES,,1998
-Terry Porter,345,Jump Shot,2,348,130,JUMP_SHOTS,,1998
-Terry Porter,345,Jump Shot,3,98,44,JUMP_SHOTS,,1998
-Terry Porter,345,Running Jump Shot,2,30,27,JUMP_SHOTS,,1998
-Terry Porter,345,Standard Layup,2,47,24,LAYUPS,,1998
-Terry Porter,345,Driving Layup,2,52,32,LAYUPS,,1999
-Terry Porter,345,Hook Shot,2,3,2,POST_MOVES,,1999
-Terry Porter,345,Jump Shot,2,253,105,JUMP_SHOTS,,1999
-Terry Porter,345,Running Jump Shot,2,16,7,JUMP_SHOTS,,1999
-Terry Porter,345,Standard Layup,2,45,26,LAYUPS,,1999
-Terry Porter,345,Tip Shot,2,1,0,TIP_SHOTS,,1999
-Terry Porter,345,Driving Layup,2,28,17,LAYUPS,,2000
-Terry Porter,345,Hook Shot,2,1,0,POST_MOVES,,2000
-Terry Porter,345,Jump Shot,2,348,135,JUMP_SHOTS,,2000
-Terry Porter,345,Jump Shot,3,18,9,JUMP_SHOTS,,2000
-Terry Porter,345,Running Jump Shot,2,8,5,JUMP_SHOTS,,2000
-Terry Porter,345,Standard Layup,2,60,41,LAYUPS,,2000
-Terry Porter,345,Driving Layup,2,16,10,LAYUPS,,2001
-Terry Porter,345,Finger Roll,2,1,1,LAYUPS,,2001
-Terry Porter,345,Jump Shot,2,346,138,JUMP_SHOTS,,2001
-Terry Porter,345,Running Hook Shot,2,1,0,POST_MOVES,,2001
-Terry Porter,345,Running Jump Shot,2,12,10,JUMP_SHOTS,,2001
-Terry Porter,345,Standard Layup,2,63,37,LAYUPS,,2001
-Terry Porter,345,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2001
-Terry Porter,345,Driving Layup,2,16,11,LAYUPS,,2002
-Terry Porter,345,Finger Roll,2,2,2,LAYUPS,,2002
-Terry Porter,345,Jump Shot,2,259,101,JUMP_SHOTS,,2002
-Terry Porter,345,Running Jump Shot,2,5,4,JUMP_SHOTS,,2002
-Terry Porter,345,Standard Layup,2,35,14,LAYUPS,,2002
-Terry Porter,345,Tip Shot,2,1,1,TIP_SHOTS,,2002
-Terry Porter,345,Turnaround Jump Shot,2,2,2,JUMP_SHOTS,,2002
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Terry Porter,345,Driving Layup Shot,2,43,37,Driving Layup,LAYUPS,1997
+Terry Porter,345,Hook Shot,2,1,1,Hook Shot,POST_MOVES,1997
+Terry Porter,345,Jump Shot,2,300,106,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Terry Porter,345,Jump Shot,3,30,15,3PT Jump Shot,THREE_POINT_JUMPERS,1997
+Terry Porter,345,Layup Shot,2,63,17,Standard Layup,LAYUPS,1997
+Terry Porter,345,Running Jump Shot,2,11,10,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997
+Terry Porter,345,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,1997
+Terry Porter,345,Driving Layup Shot,2,53,34,Driving Layup,LAYUPS,1998
+Terry Porter,345,Hook Shot,2,1,0,Hook Shot,POST_MOVES,1998
+Terry Porter,345,Jump Shot,2,348,130,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+Terry Porter,345,Jump Shot,3,98,44,3PT Jump Shot,THREE_POINT_JUMPERS,1998
+Terry Porter,345,Layup Shot,2,47,24,Standard Layup,LAYUPS,1998
+Terry Porter,345,Running Jump Shot,2,30,27,2PT Running Jump Shot,TWO_POINT_JUMPERS,1998
+Terry Porter,345,Driving Layup Shot,2,52,32,Driving Layup,LAYUPS,1999
+Terry Porter,345,Hook Shot,2,3,2,Hook Shot,POST_MOVES,1999
+Terry Porter,345,Jump Shot,2,253,105,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Terry Porter,345,Layup Shot,2,45,26,Standard Layup,LAYUPS,1999
+Terry Porter,345,Running Jump Shot,2,16,7,2PT Running Jump Shot,TWO_POINT_JUMPERS,1999
+Terry Porter,345,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,1999
+Terry Porter,345,Driving Layup Shot,2,28,17,Driving Layup,LAYUPS,2000
+Terry Porter,345,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2000
+Terry Porter,345,Jump Shot,2,348,135,2PT Jump Shot,TWO_POINT_JUMPERS,2000
+Terry Porter,345,Jump Shot,3,18,9,3PT Jump Shot,THREE_POINT_JUMPERS,2000
+Terry Porter,345,Layup Shot,2,60,41,Standard Layup,LAYUPS,2000
+Terry Porter,345,Running Jump Shot,2,8,5,2PT Running Jump Shot,TWO_POINT_JUMPERS,2000
+Terry Porter,345,Driving Layup Shot,2,16,10,Driving Layup,LAYUPS,2001
+Terry Porter,345,Jump Shot,2,346,138,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Terry Porter,345,Layup Shot,2,62,36,Standard Layup,LAYUPS,2001
+Terry Porter,345,Running Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2001
+Terry Porter,345,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,2001
+Terry Porter,345,Running Jump Shot,2,12,10,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
+Terry Porter,345,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2001
+Terry Porter,345,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2001
+Terry Porter,345,Driving Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2002
+Terry Porter,345,Driving Layup Shot,2,16,11,Driving Layup,LAYUPS,2002
+Terry Porter,345,Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2002
+Terry Porter,345,Jump Shot,2,259,101,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Terry Porter,345,Layup Shot,2,32,12,Standard Layup,LAYUPS,2002
+Terry Porter,345,Running Jump Shot,2,5,4,2PT Running Jump Shot,TWO_POINT_JUMPERS,2002
+Terry Porter,345,Running Layup Shot,2,3,2,Standard Layup,LAYUPS,2002
+Terry Porter,345,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2002
+Terry Porter,345,Turnaround Jump Shot,2,2,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2002

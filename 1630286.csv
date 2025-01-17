@@ -1,6 +1,7 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Trevon Scott,1630286,Driving Layup,2,1,1,LAYUPS,,2022
-Trevon Scott,1630286,Jump Shot,2,1,0,JUMP_SHOTS,,2022
-Trevon Scott,1630286,Standard Layup,2,2,1,LAYUPS,,2022
-Trevon Scott,1630286,Turnaround Hook Shot,2,1,1,POST_MOVES,,2022
-Trevon Scott,1630286,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2022
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Trevon Scott,1630286,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2022
+Trevon Scott,1630286,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2022
+Trevon Scott,1630286,Jump Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2022
+Trevon Scott,1630286,Layup Shot,2,1,0,Standard Layup,LAYUPS,2022
+Trevon Scott,1630286,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2022
+Trevon Scott,1630286,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2022

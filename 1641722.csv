@@ -1,40 +1,57 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jordan Hawkins,1641722,Alley Oop Dunk,2,1,0,DUNKS,,2024
-Jordan Hawkins,1641722,Alley Oop Layup,2,1,1,LAYUPS,,2024
-Jordan Hawkins,1641722,Driving Dunk,2,4,3,DUNKS,,2024
-Jordan Hawkins,1641722,Driving Hook Shot,2,2,0,POST_MOVES,,2024
-Jordan Hawkins,1641722,Driving Layup,2,23,7,LAYUPS,,2024
-Jordan Hawkins,1641722,Fadeaway Jump Shot,2,8,4,JUMP_SHOTS,,2024
-Jordan Hawkins,1641722,Fadeaway Jump Shot,3,2,1,JUMP_SHOTS,,2024
-Jordan Hawkins,1641722,Finger Roll,2,7,4,LAYUPS,,2024
-Jordan Hawkins,1641722,Floating Jump Shot,2,17,6,FLOATING_SHOTS,,2024
-Jordan Hawkins,1641722,Floating Jump Shot,3,1,0,FLOATING_SHOTS,,2024
-Jordan Hawkins,1641722,Jump Shot,2,7,4,JUMP_SHOTS,,2024
-Jordan Hawkins,1641722,Jump Shot,3,218,79,JUMP_SHOTS,,2024
-Jordan Hawkins,1641722,Pullup Jump Shot,2,58,20,JUMP_SHOTS,,2024
-Jordan Hawkins,1641722,Pullup Jump Shot,3,24,9,JUMP_SHOTS,,2024
-Jordan Hawkins,1641722,Putback Layup,2,3,2,LAYUPS,,2024
-Jordan Hawkins,1641722,Running Jump Shot,2,2,1,JUMP_SHOTS,,2024
-Jordan Hawkins,1641722,Running Jump Shot,3,45,17,JUMP_SHOTS,,2024
-Jordan Hawkins,1641722,Specialty Dunk,2,2,2,DUNKS,,2024
-Jordan Hawkins,1641722,Standard Dunk,2,4,2,DUNKS,,2024
-Jordan Hawkins,1641722,Standard Layup,2,12,6,LAYUPS,,2024
-Jordan Hawkins,1641722,Step Back Jump Shot,2,6,3,JUMP_SHOTS,,2024
-Jordan Hawkins,1641722,Step Back Jump Shot,3,8,3,JUMP_SHOTS,,2024
-Jordan Hawkins,1641722,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2024
-Jordan Hawkins,1641722,Driving Dunk,2,3,2,DUNKS,,2025
-Jordan Hawkins,1641722,Driving Layup,2,15,4,LAYUPS,,2025
-Jordan Hawkins,1641722,Fadeaway Jump Shot,2,9,2,JUMP_SHOTS,,2025
-Jordan Hawkins,1641722,Finger Roll,2,3,2,LAYUPS,,2025
-Jordan Hawkins,1641722,Floating Jump Shot,2,9,2,FLOATING_SHOTS,,2025
-Jordan Hawkins,1641722,Jump Shot,2,2,2,JUMP_SHOTS,,2025
-Jordan Hawkins,1641722,Jump Shot,3,77,27,JUMP_SHOTS,,2025
-Jordan Hawkins,1641722,Pullup Jump Shot,2,41,20,JUMP_SHOTS,,2025
-Jordan Hawkins,1641722,Pullup Jump Shot,3,26,8,JUMP_SHOTS,,2025
-Jordan Hawkins,1641722,Running Jump Shot,2,3,2,JUMP_SHOTS,,2025
-Jordan Hawkins,1641722,Running Jump Shot,3,38,12,JUMP_SHOTS,,2025
-Jordan Hawkins,1641722,Standard Dunk,2,4,2,DUNKS,,2025
-Jordan Hawkins,1641722,Standard Layup,2,5,0,LAYUPS,,2025
-Jordan Hawkins,1641722,Step Back Jump Shot,2,12,5,JUMP_SHOTS,,2025
-Jordan Hawkins,1641722,Step Back Jump Shot,3,13,2,JUMP_SHOTS,,2025
-Jordan Hawkins,1641722,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Jordan Hawkins,1641722,Cutting Layup Shot,2,1,0,Standard Layup,LAYUPS,2024
+Jordan Hawkins,1641722,Driving Bank Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2024
+Jordan Hawkins,1641722,Driving Dunk Shot,2,4,3,Driving Dunk,DUNKS,2024
+Jordan Hawkins,1641722,Driving Finger Roll Layup Shot,2,4,2,Finger Roll,LAYUPS,2024
+Jordan Hawkins,1641722,Driving Floating Bank Jump Shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Jordan Hawkins,1641722,Driving Floating Jump Shot,2,12,3,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Jordan Hawkins,1641722,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2024
+Jordan Hawkins,1641722,Driving Layup Shot,2,21,7,Driving Layup,LAYUPS,2024
+Jordan Hawkins,1641722,Driving Reverse Layup Shot,2,2,0,Driving Layup,LAYUPS,2024
+Jordan Hawkins,1641722,Fadeaway Jump Shot,2,8,4,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
+Jordan Hawkins,1641722,Fadeaway Jump Shot,3,2,1,3PT Fadeaway Jump Shot,THREE_POINT_JUMPERS,2024
+Jordan Hawkins,1641722,Floating Jump shot,2,3,2,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Jordan Hawkins,1641722,Floating Jump shot,3,1,0,3PT Floating Jump Shot,FLOATING_SHOTS,2024
+Jordan Hawkins,1641722,Jump Bank Shot,3,1,1,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Jordan Hawkins,1641722,Jump Shot,2,7,4,2PT Jump Shot,TWO_POINT_JUMPERS,2024
+Jordan Hawkins,1641722,Jump Shot,3,217,78,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Jordan Hawkins,1641722,Layup Shot,2,2,1,Standard Layup,LAYUPS,2024
+Jordan Hawkins,1641722,Pullup Jump shot,2,58,20,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2024
+Jordan Hawkins,1641722,Pullup Jump shot,3,24,9,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
+Jordan Hawkins,1641722,Putback Layup Shot,2,1,0,Putback Layup,LAYUPS,2024
+Jordan Hawkins,1641722,Running Alley Oop Dunk Shot,2,1,0,Alley Oop Dunk,DUNKS,2024
+Jordan Hawkins,1641722,Running Alley Oop Layup Shot,2,1,1,Alley Oop Layup,LAYUPS,2024
+Jordan Hawkins,1641722,Running Dunk Shot,2,4,2,Standard Dunk,DUNKS,2024
+Jordan Hawkins,1641722,Running Finger Roll Layup Shot,2,3,2,Finger Roll,LAYUPS,2024
+Jordan Hawkins,1641722,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2024
+Jordan Hawkins,1641722,Running Jump Shot,3,36,15,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Jordan Hawkins,1641722,Running Layup Shot,2,9,5,Standard Layup,LAYUPS,2024
+Jordan Hawkins,1641722,Running Pull-Up Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2024
+Jordan Hawkins,1641722,Running Pull-Up Jump Shot,3,9,2,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Jordan Hawkins,1641722,Step Back Jump shot,2,6,3,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2024
+Jordan Hawkins,1641722,Step Back Jump shot,3,8,3,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
+Jordan Hawkins,1641722,Tip Dunk Shot,2,2,2,Specialty Dunk,DUNKS,2024
+Jordan Hawkins,1641722,Tip Layup Shot,2,2,2,Putback Layup,LAYUPS,2024
+Jordan Hawkins,1641722,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Jordan Hawkins,1641722,Cutting Layup Shot,2,1,0,Standard Layup,LAYUPS,2025
+Jordan Hawkins,1641722,Driving Dunk Shot,2,3,2,Driving Dunk,DUNKS,2025
+Jordan Hawkins,1641722,Driving Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2025
+Jordan Hawkins,1641722,Driving Floating Bank Jump Shot,2,2,0,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Jordan Hawkins,1641722,Driving Floating Jump Shot,2,6,1,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Jordan Hawkins,1641722,Driving Layup Shot,2,15,4,Driving Layup,LAYUPS,2025
+Jordan Hawkins,1641722,Fadeaway Jump Shot,2,9,2,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
+Jordan Hawkins,1641722,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Jordan Hawkins,1641722,Jump Shot,2,2,2,2PT Jump Shot,TWO_POINT_JUMPERS,2025
+Jordan Hawkins,1641722,Jump Shot,3,77,27,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Jordan Hawkins,1641722,Pullup Jump shot,2,41,20,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
+Jordan Hawkins,1641722,Pullup Jump shot,3,26,8,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
+Jordan Hawkins,1641722,Running Dunk Shot,2,4,2,Standard Dunk,DUNKS,2025
+Jordan Hawkins,1641722,Running Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2025
+Jordan Hawkins,1641722,Running Jump Shot,3,33,11,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Jordan Hawkins,1641722,Running Layup Shot,2,4,0,Standard Layup,LAYUPS,2025
+Jordan Hawkins,1641722,Running Pull-Up Jump Shot,2,3,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2025
+Jordan Hawkins,1641722,Running Pull-Up Jump Shot,3,5,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Jordan Hawkins,1641722,Step Back Jump shot,2,12,5,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2025
+Jordan Hawkins,1641722,Step Back Jump shot,3,13,2,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
+Jordan Hawkins,1641722,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+Jordan Hawkins,1641722,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025

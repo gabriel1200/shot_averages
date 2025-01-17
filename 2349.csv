@@ -1,5 +1,5 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Victor Alexander,2349,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2002
-Victor Alexander,2349,Hook Shot,2,1,1,POST_MOVES,,2002
-Victor Alexander,2349,Jump Shot,2,43,10,JUMP_SHOTS,,2002
-Victor Alexander,2349,Standard Layup,2,6,6,LAYUPS,,2002
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Victor Alexander,2349,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2002
+Victor Alexander,2349,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2002
+Victor Alexander,2349,Jump Shot,2,43,10,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Victor Alexander,2349,Layup Shot,2,6,6,Standard Layup,LAYUPS,2002

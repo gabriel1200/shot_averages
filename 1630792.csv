@@ -1,12 +1,14 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Malcolm Hill,1630792,Driving Layup,2,1,0,LAYUPS,,2022
-Malcolm Hill,1630792,Floating Jump Shot,2,2,1,FLOATING_SHOTS,,2022
-Malcolm Hill,1630792,Hook Shot,2,1,0,POST_MOVES,,2022
-Malcolm Hill,1630792,Jump Shot,2,32,13,JUMP_SHOTS,,2022
-Malcolm Hill,1630792,Pullup Jump Shot,2,6,3,JUMP_SHOTS,,2022
-Malcolm Hill,1630792,Putback Layup,2,1,1,LAYUPS,,2022
-Malcolm Hill,1630792,Running Jump Shot,2,2,0,JUMP_SHOTS,,2022
-Malcolm Hill,1630792,Standard Layup,2,6,5,LAYUPS,,2022
-Malcolm Hill,1630792,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2022
-Malcolm Hill,1630792,Jump Shot,2,3,1,JUMP_SHOTS,,2023
-Malcolm Hill,1630792,Standard Dunk,2,1,1,DUNKS,,2023
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Malcolm Hill,1630792,Cutting Layup Shot,2,2,2,Standard Layup,LAYUPS,2022
+Malcolm Hill,1630792,Driving Floating Bank Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Malcolm Hill,1630792,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Malcolm Hill,1630792,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2022
+Malcolm Hill,1630792,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2022
+Malcolm Hill,1630792,Jump Shot,2,32,13,2PT Jump Shot,TWO_POINT_JUMPERS,2022
+Malcolm Hill,1630792,Pullup Jump shot,2,6,3,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2022
+Malcolm Hill,1630792,Running Jump Shot,2,2,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2022
+Malcolm Hill,1630792,Running Layup Shot,2,4,3,Standard Layup,LAYUPS,2022
+Malcolm Hill,1630792,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2022
+Malcolm Hill,1630792,Turnaround Fadeaway shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2022
+Malcolm Hill,1630792,Jump Shot,2,3,1,2PT Jump Shot,TWO_POINT_JUMPERS,2023
+Malcolm Hill,1630792,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2023

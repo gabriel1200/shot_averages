@@ -1,38 +1,50 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Josh Minott,1631169,Alley Oop Dunk,2,1,1,DUNKS,,2023
-Josh Minott,1631169,Alley Oop Layup,2,1,0,LAYUPS,,2023
-Josh Minott,1631169,Driving Dunk,2,1,1,DUNKS,,2023
-Josh Minott,1631169,Driving Hook Shot,2,1,0,POST_MOVES,,2023
-Josh Minott,1631169,Driving Layup,2,5,2,LAYUPS,,2023
-Josh Minott,1631169,Finger Roll,2,2,0,LAYUPS,,2023
-Josh Minott,1631169,Floating Jump Shot,2,2,0,FLOATING_SHOTS,,2023
-Josh Minott,1631169,Jump Shot,2,5,2,JUMP_SHOTS,,2023
-Josh Minott,1631169,Pullup Jump Shot,2,2,0,JUMP_SHOTS,,2023
-Josh Minott,1631169,Putback Layup,2,3,3,LAYUPS,,2023
-Josh Minott,1631169,Specialty Dunk,2,4,4,DUNKS,,2023
-Josh Minott,1631169,Standard Dunk,2,4,4,DUNKS,,2023
-Josh Minott,1631169,Standard Layup,2,5,1,LAYUPS,,2023
-Josh Minott,1631169,Alley Oop Dunk,2,1,1,DUNKS,,2024
-Josh Minott,1631169,Alley Oop Layup,2,2,0,LAYUPS,,2024
-Josh Minott,1631169,Driving Layup,2,6,3,LAYUPS,,2024
-Josh Minott,1631169,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2024
-Josh Minott,1631169,Finger Roll,2,3,1,LAYUPS,,2024
-Josh Minott,1631169,Floating Jump Shot,2,3,1,FLOATING_SHOTS,,2024
-Josh Minott,1631169,Jump Shot,3,9,4,JUMP_SHOTS,,2024
-Josh Minott,1631169,Putback Layup,2,1,1,LAYUPS,,2024
-Josh Minott,1631169,Standard Dunk,2,4,3,DUNKS,,2024
-Josh Minott,1631169,Standard Layup,2,5,2,LAYUPS,,2024
-Josh Minott,1631169,Step Back Jump Shot,3,1,0,JUMP_SHOTS,,2024
-Josh Minott,1631169,Alley Oop Dunk,2,3,3,DUNKS,,2025
-Josh Minott,1631169,Driving Dunk,2,3,3,DUNKS,,2025
-Josh Minott,1631169,Driving Layup,2,8,3,LAYUPS,,2025
-Josh Minott,1631169,Finger Roll,2,5,4,LAYUPS,,2025
-Josh Minott,1631169,Floating Jump Shot,2,1,1,FLOATING_SHOTS,,2025
-Josh Minott,1631169,Jump Shot,3,21,5,JUMP_SHOTS,,2025
-Josh Minott,1631169,Pullup Jump Shot,3,2,0,JUMP_SHOTS,,2025
-Josh Minott,1631169,Putback Layup,2,2,1,LAYUPS,,2025
-Josh Minott,1631169,Reverse Layup,2,1,1,LAYUPS,,2025
-Josh Minott,1631169,Running Jump Shot,3,2,1,JUMP_SHOTS,,2025
-Josh Minott,1631169,Specialty Dunk,2,2,1,DUNKS,,2025
-Josh Minott,1631169,Standard Dunk,2,5,5,DUNKS,,2025
-Josh Minott,1631169,Standard Layup,2,2,2,LAYUPS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Josh Minott,1631169,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2023
+Josh Minott,1631169,Cutting Dunk Shot,2,3,3,Specialty Dunk,DUNKS,2023
+Josh Minott,1631169,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2023
+Josh Minott,1631169,Driving Finger Roll Layup Shot,2,2,0,Finger Roll,LAYUPS,2023
+Josh Minott,1631169,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Josh Minott,1631169,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2023
+Josh Minott,1631169,Driving Layup Shot,2,3,0,Driving Layup,LAYUPS,2023
+Josh Minott,1631169,Driving Reverse Layup Shot,2,2,2,Driving Layup,LAYUPS,2023
+Josh Minott,1631169,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Josh Minott,1631169,Jump Shot,2,5,2,2PT Jump Shot,TWO_POINT_JUMPERS,2023
+Josh Minott,1631169,Layup Shot,2,2,0,Standard Layup,LAYUPS,2023
+Josh Minott,1631169,Pullup Jump shot,2,2,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2023
+Josh Minott,1631169,Putback Layup Shot,2,3,3,Putback Layup,LAYUPS,2023
+Josh Minott,1631169,Running Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2023
+Josh Minott,1631169,Running Dunk Shot,2,4,4,Standard Dunk,DUNKS,2023
+Josh Minott,1631169,Running Layup Shot,2,3,1,Standard Layup,LAYUPS,2023
+Josh Minott,1631169,Tip Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2023
+Josh Minott,1631169,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2024
+Josh Minott,1631169,Alley Oop Layup shot,2,2,0,Alley Oop Layup,LAYUPS,2024
+Josh Minott,1631169,Cutting Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2024
+Josh Minott,1631169,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2024
+Josh Minott,1631169,Driving Finger Roll Layup Shot,2,2,0,Finger Roll,LAYUPS,2024
+Josh Minott,1631169,Driving Floating Jump Shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Josh Minott,1631169,Driving Layup Shot,2,6,3,Driving Layup,LAYUPS,2024
+Josh Minott,1631169,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2024
+Josh Minott,1631169,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
+Josh Minott,1631169,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Josh Minott,1631169,Jump Shot,3,9,4,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Josh Minott,1631169,Layup Shot,2,2,0,Standard Layup,LAYUPS,2024
+Josh Minott,1631169,Running Dunk Shot,2,3,2,Standard Dunk,DUNKS,2024
+Josh Minott,1631169,Running Layup Shot,2,2,1,Standard Layup,LAYUPS,2024
+Josh Minott,1631169,Step Back Jump shot,3,1,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
+Josh Minott,1631169,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2024
+Josh Minott,1631169,Alley Oop Dunk Shot,2,3,3,Alley Oop Dunk,DUNKS,2025
+Josh Minott,1631169,Cutting Dunk Shot,2,2,1,Specialty Dunk,DUNKS,2025
+Josh Minott,1631169,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2025
+Josh Minott,1631169,Driving Dunk Shot,2,3,3,Driving Dunk,DUNKS,2025
+Josh Minott,1631169,Driving Finger Roll Layup Shot,2,4,4,Finger Roll,LAYUPS,2025
+Josh Minott,1631169,Driving Floating Bank Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Josh Minott,1631169,Driving Layup Shot,2,7,2,Driving Layup,LAYUPS,2025
+Josh Minott,1631169,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2025
+Josh Minott,1631169,Jump Shot,3,21,5,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Josh Minott,1631169,Pullup Jump shot,3,2,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
+Josh Minott,1631169,Putback Layup Shot,2,2,1,Putback Layup,LAYUPS,2025
+Josh Minott,1631169,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2025
+Josh Minott,1631169,Running Dunk Shot,2,5,5,Standard Dunk,DUNKS,2025
+Josh Minott,1631169,Running Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2025
+Josh Minott,1631169,Running Jump Shot,3,2,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Josh Minott,1631169,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2025

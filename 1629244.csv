@@ -1,23 +1,26 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Cam Reynolds,1629244,Driving Layup,2,1,1,LAYUPS,,2019
-Cam Reynolds,1629244,Finger Roll,2,1,0,LAYUPS,,2019
-Cam Reynolds,1629244,Floating Jump Shot,2,5,3,FLOATING_SHOTS,,2019
-Cam Reynolds,1629244,Jump Shot,2,43,14,JUMP_SHOTS,,2019
-Cam Reynolds,1629244,Jump Shot,3,6,6,JUMP_SHOTS,,2019
-Cam Reynolds,1629244,Pullup Jump Shot,2,7,2,JUMP_SHOTS,,2019
-Cam Reynolds,1629244,Putback Layup,2,1,1,LAYUPS,,2019
-Cam Reynolds,1629244,Running Jump Shot,2,2,1,JUMP_SHOTS,,2019
-Cam Reynolds,1629244,Specialty Dunk,2,1,1,DUNKS,,2019
-Cam Reynolds,1629244,Standard Dunk,2,3,2,DUNKS,,2019
-Cam Reynolds,1629244,Standard Layup,2,4,0,LAYUPS,,2019
-Cam Reynolds,1629244,Step Back Jump Shot,2,2,1,JUMP_SHOTS,,2019
-Cam Reynolds,1629244,Turnaround Hook Shot,2,1,1,POST_MOVES,,2019
-Cam Reynolds,1629244,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2019
-Cam Reynolds,1629244,Floating Jump Shot,2,2,1,FLOATING_SHOTS,,2021
-Cam Reynolds,1629244,Jump Shot,2,9,3,JUMP_SHOTS,,2021
-Cam Reynolds,1629244,Jump Shot,3,1,0,JUMP_SHOTS,,2021
-Cam Reynolds,1629244,Putback Layup,2,1,0,LAYUPS,,2021
-Cam Reynolds,1629244,Running Jump Shot,2,1,1,JUMP_SHOTS,,2021
-Cam Reynolds,1629244,Running Jump Shot,3,2,0,JUMP_SHOTS,,2021
-Cam Reynolds,1629244,Specialty Dunk,2,1,1,DUNKS,,2021
-Cam Reynolds,1629244,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2021
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Cam Reynolds,1629244,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2019
+Cam Reynolds,1629244,Cutting Layup Shot,2,1,0,Standard Layup,LAYUPS,2019
+Cam Reynolds,1629244,Driving Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2019
+Cam Reynolds,1629244,Driving Floating Bank Jump Shot,2,2,2,2PT Floating Jump Shot,FLOATING_SHOTS,2019
+Cam Reynolds,1629244,Driving Floating Jump Shot,2,3,1,2PT Floating Jump Shot,FLOATING_SHOTS,2019
+Cam Reynolds,1629244,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2019
+Cam Reynolds,1629244,Dunk Shot,2,2,1,Standard Dunk,DUNKS,2019
+Cam Reynolds,1629244,Jump Shot,2,43,14,2PT Jump Shot,TWO_POINT_JUMPERS,2019
+Cam Reynolds,1629244,Jump Shot,3,6,6,3PT Jump Shot,THREE_POINT_JUMPERS,2019
+Cam Reynolds,1629244,Layup Shot,2,3,0,Standard Layup,LAYUPS,2019
+Cam Reynolds,1629244,Pullup Jump shot,2,7,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2019
+Cam Reynolds,1629244,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2019
+Cam Reynolds,1629244,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2019
+Cam Reynolds,1629244,Running Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2019
+Cam Reynolds,1629244,Step Back Jump shot,2,2,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2019
+Cam Reynolds,1629244,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2019
+Cam Reynolds,1629244,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2019
+Cam Reynolds,1629244,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2021
+Cam Reynolds,1629244,Driving Floating Jump Shot,2,2,1,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Cam Reynolds,1629244,Jump Shot,2,9,3,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Cam Reynolds,1629244,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2021
+Cam Reynolds,1629244,Running Jump Shot,3,2,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2021
+Cam Reynolds,1629244,Running Pull-Up Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2021
+Cam Reynolds,1629244,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2021
+Cam Reynolds,1629244,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2021

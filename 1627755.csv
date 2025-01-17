@@ -1,32 +1,51 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Tyler Ulis,1627755,Driving Jump Shot,2,3,2,JUMP_SHOTS,,2017
-Tyler Ulis,1627755,Driving Layup,2,32,16,LAYUPS,,2017
-Tyler Ulis,1627755,Fadeaway Jump Shot,2,5,3,JUMP_SHOTS,,2017
-Tyler Ulis,1627755,Finger Roll,2,4,2,LAYUPS,,2017
-Tyler Ulis,1627755,Floating Jump Shot,2,56,28,FLOATING_SHOTS,,2017
-Tyler Ulis,1627755,Jump Shot,2,185,56,JUMP_SHOTS,,2017
-Tyler Ulis,1627755,Jump Shot,3,5,2,JUMP_SHOTS,,2017
-Tyler Ulis,1627755,No Shot,2,1,1,NO_SHOT,,2017
-Tyler Ulis,1627755,Pullup Jump Shot,2,104,58,JUMP_SHOTS,,2017
-Tyler Ulis,1627755,Pullup Jump Shot,3,1,0,JUMP_SHOTS,,2017
-Tyler Ulis,1627755,Reverse Layup,2,2,2,LAYUPS,,2017
-Tyler Ulis,1627755,Running Jump Shot,2,9,6,JUMP_SHOTS,,2017
-Tyler Ulis,1627755,Standard Layup,2,15,3,LAYUPS,,2017
-Tyler Ulis,1627755,Step Back Jump Shot,2,11,3,JUMP_SHOTS,,2017
-Tyler Ulis,1627755,Step Back Jump Shot,3,1,1,JUMP_SHOTS,,2017
-Tyler Ulis,1627755,Turnaround Jump Shot,2,3,1,JUMP_SHOTS,,2017
-Tyler Ulis,1627755,Driving Hook Shot,2,1,1,POST_MOVES,,2018
-Tyler Ulis,1627755,Driving Layup,2,52,18,LAYUPS,,2018
-Tyler Ulis,1627755,Fadeaway Jump Shot,2,6,4,JUMP_SHOTS,,2018
-Tyler Ulis,1627755,Finger Roll,2,9,4,LAYUPS,,2018
-Tyler Ulis,1627755,Floating Jump Shot,2,112,53,FLOATING_SHOTS,,2018
-Tyler Ulis,1627755,Jump Shot,2,159,46,JUMP_SHOTS,,2018
-Tyler Ulis,1627755,Jump Shot,3,10,3,JUMP_SHOTS,,2018
-Tyler Ulis,1627755,Pullup Jump Shot,2,138,58,JUMP_SHOTS,,2018
-Tyler Ulis,1627755,Pullup Jump Shot,3,2,0,JUMP_SHOTS,,2018
-Tyler Ulis,1627755,Running Jump Shot,2,10,6,JUMP_SHOTS,,2018
-Tyler Ulis,1627755,Running Jump Shot,3,4,1,JUMP_SHOTS,,2018
-Tyler Ulis,1627755,Standard Layup,2,23,10,LAYUPS,,2018
-Tyler Ulis,1627755,Step Back Jump Shot,2,19,8,JUMP_SHOTS,,2018
-Tyler Ulis,1627755,Step Back Jump Shot,3,1,1,JUMP_SHOTS,,2018
-Tyler Ulis,1627755,Turnaround Jump Shot,2,5,1,JUMP_SHOTS,,2018
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Tyler Ulis,1627755,Driving Bank shot,2,3,2,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2017
+Tyler Ulis,1627755,Driving Finger Roll Layup Shot,2,4,2,Finger Roll,LAYUPS,2017
+Tyler Ulis,1627755,Driving Floating Bank Jump Shot,2,6,3,2PT Floating Jump Shot,FLOATING_SHOTS,2017
+Tyler Ulis,1627755,Driving Floating Jump Shot,2,21,8,2PT Floating Jump Shot,FLOATING_SHOTS,2017
+Tyler Ulis,1627755,Driving Layup Shot,2,26,13,Driving Layup,LAYUPS,2017
+Tyler Ulis,1627755,Driving Reverse Layup Shot,2,6,3,Driving Layup,LAYUPS,2017
+Tyler Ulis,1627755,Fadeaway Bank shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2017
+Tyler Ulis,1627755,Fadeaway Jump Shot,2,4,2,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2017
+Tyler Ulis,1627755,Floating Jump shot,2,29,17,2PT Floating Jump Shot,FLOATING_SHOTS,2017
+Tyler Ulis,1627755,Jump Bank Shot,2,7,5,2PT Jump Shot,TWO_POINT_JUMPERS,2017
+Tyler Ulis,1627755,Jump Shot,2,178,51,2PT Jump Shot,TWO_POINT_JUMPERS,2017
+Tyler Ulis,1627755,Jump Shot,3,5,2,3PT Jump Shot,THREE_POINT_JUMPERS,2017
+Tyler Ulis,1627755,Layup Shot,2,11,1,Standard Layup,LAYUPS,2017
+Tyler Ulis,1627755,No Shot,2,1,1,No Shot,NO_SHOT,2017
+Tyler Ulis,1627755,Pullup Bank shot,2,2,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2017
+Tyler Ulis,1627755,Pullup Jump shot,2,102,57,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2017
+Tyler Ulis,1627755,Pullup Jump shot,3,1,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2017
+Tyler Ulis,1627755,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2017
+Tyler Ulis,1627755,Running Jump Shot,2,6,4,2PT Running Jump Shot,TWO_POINT_JUMPERS,2017
+Tyler Ulis,1627755,Running Layup Shot,2,4,2,Standard Layup,LAYUPS,2017
+Tyler Ulis,1627755,Running Pull-Up Jump Shot,2,3,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2017
+Tyler Ulis,1627755,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2017
+Tyler Ulis,1627755,Step Back Jump shot,2,11,3,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2017
+Tyler Ulis,1627755,Step Back Jump shot,3,1,1,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2017
+Tyler Ulis,1627755,Turnaround Jump Shot,2,3,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2017
+Tyler Ulis,1627755,Cutting Layup Shot,2,4,3,Standard Layup,LAYUPS,2018
+Tyler Ulis,1627755,Driving Finger Roll Layup Shot,2,8,3,Finger Roll,LAYUPS,2018
+Tyler Ulis,1627755,Driving Floating Bank Jump Shot,2,16,13,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Tyler Ulis,1627755,Driving Floating Jump Shot,2,38,14,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Tyler Ulis,1627755,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2018
+Tyler Ulis,1627755,Driving Layup Shot,2,47,17,Driving Layup,LAYUPS,2018
+Tyler Ulis,1627755,Driving Reverse Layup Shot,2,5,1,Driving Layup,LAYUPS,2018
+Tyler Ulis,1627755,Fadeaway Jump Shot,2,6,4,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2018
+Tyler Ulis,1627755,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2018
+Tyler Ulis,1627755,Floating Jump shot,2,58,26,2PT Floating Jump Shot,FLOATING_SHOTS,2018
+Tyler Ulis,1627755,Jump Bank Shot,2,4,2,2PT Jump Shot,TWO_POINT_JUMPERS,2018
+Tyler Ulis,1627755,Jump Shot,2,155,44,2PT Jump Shot,TWO_POINT_JUMPERS,2018
+Tyler Ulis,1627755,Jump Shot,3,10,3,3PT Jump Shot,THREE_POINT_JUMPERS,2018
+Tyler Ulis,1627755,Layup Shot,2,10,4,Standard Layup,LAYUPS,2018
+Tyler Ulis,1627755,Pullup Jump shot,2,138,58,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2018
+Tyler Ulis,1627755,Pullup Jump shot,3,2,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2018
+Tyler Ulis,1627755,Running Jump Shot,2,3,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2018
+Tyler Ulis,1627755,Running Jump Shot,3,1,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2018
+Tyler Ulis,1627755,Running Layup Shot,2,9,3,Standard Layup,LAYUPS,2018
+Tyler Ulis,1627755,Running Pull-Up Jump Shot,2,7,4,2PT Running Jump Shot,TWO_POINT_JUMPERS,2018
+Tyler Ulis,1627755,Running Pull-Up Jump Shot,3,3,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2018
+Tyler Ulis,1627755,Step Back Bank Jump Shot,2,1,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2018
+Tyler Ulis,1627755,Step Back Jump shot,2,18,7,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2018
+Tyler Ulis,1627755,Step Back Jump shot,3,1,1,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2018
+Tyler Ulis,1627755,Turnaround Jump Shot,2,5,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2018

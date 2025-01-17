@@ -1,6 +1,6 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Anthony Bowie,194,Driving Layup,2,2,2,LAYUPS,,1998
-Anthony Bowie,194,Hook Shot,2,1,1,POST_MOVES,,1998
-Anthony Bowie,194,Jump Shot,2,46,21,JUMP_SHOTS,,1998
-Anthony Bowie,194,No Shot,2,1,0,NO_SHOT,,1998
-Anthony Bowie,194,Standard Layup,2,10,8,LAYUPS,,1998
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Anthony Bowie,194,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,1998
+Anthony Bowie,194,Hook Shot,2,1,1,Hook Shot,POST_MOVES,1998
+Anthony Bowie,194,Jump Shot,2,46,21,2PT Jump Shot,TWO_POINT_JUMPERS,1998
+Anthony Bowie,194,Layup Shot,2,10,8,Standard Layup,LAYUPS,1998
+Anthony Bowie,194,No Shot,2,1,0,No Shot,NO_SHOT,1998

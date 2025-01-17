@@ -1,20 +1,24 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Anthony Brown,1626148,Driving Layup,2,8,3,LAYUPS,,2016
-Anthony Brown,1626148,Floating Jump Shot,2,5,2,FLOATING_SHOTS,,2016
-Anthony Brown,1626148,Jump Shot,2,81,24,JUMP_SHOTS,,2016
-Anthony Brown,1626148,Jump Shot,3,19,4,JUMP_SHOTS,,2016
-Anthony Brown,1626148,Pullup Jump Shot,2,3,2,JUMP_SHOTS,,2016
-Anthony Brown,1626148,Reverse Layup,2,1,0,LAYUPS,,2016
-Anthony Brown,1626148,Standard Dunk,2,1,1,DUNKS,,2016
-Anthony Brown,1626148,Standard Layup,2,7,2,LAYUPS,,2016
-Anthony Brown,1626148,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2016
-Anthony Brown,1626148,Driving Layup,2,1,1,LAYUPS,,2017
-Anthony Brown,1626148,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2017
-Anthony Brown,1626148,Jump Shot,2,9,3,JUMP_SHOTS,,2017
-Anthony Brown,1626148,Jump Shot,3,26,7,JUMP_SHOTS,,2017
-Anthony Brown,1626148,Pullup Jump Shot,2,4,2,JUMP_SHOTS,,2017
-Anthony Brown,1626148,Pullup Jump Shot,3,1,0,JUMP_SHOTS,,2017
-Anthony Brown,1626148,Putback Layup,2,2,1,LAYUPS,,2017
-Anthony Brown,1626148,Standard Dunk,2,2,2,DUNKS,,2017
-Anthony Brown,1626148,Standard Layup,2,4,2,LAYUPS,,2017
-Anthony Brown,1626148,Jump Shot,3,1,1,JUMP_SHOTS,,2018
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Anthony Brown,1626148,Driving Floating Bank Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2016
+Anthony Brown,1626148,Driving Layup Shot,2,8,3,Driving Layup,LAYUPS,2016
+Anthony Brown,1626148,Floating Jump shot,2,4,1,2PT Floating Jump Shot,FLOATING_SHOTS,2016
+Anthony Brown,1626148,Jump Shot,2,81,24,2PT Jump Shot,TWO_POINT_JUMPERS,2016
+Anthony Brown,1626148,Jump Shot,3,19,4,3PT Jump Shot,THREE_POINT_JUMPERS,2016
+Anthony Brown,1626148,Layup Shot,2,6,1,Standard Layup,LAYUPS,2016
+Anthony Brown,1626148,Pullup Jump shot,2,3,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2016
+Anthony Brown,1626148,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2016
+Anthony Brown,1626148,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2016
+Anthony Brown,1626148,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2016
+Anthony Brown,1626148,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2016
+Anthony Brown,1626148,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2017
+Anthony Brown,1626148,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2017
+Anthony Brown,1626148,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2017
+Anthony Brown,1626148,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2017
+Anthony Brown,1626148,Jump Shot,2,9,3,2PT Jump Shot,TWO_POINT_JUMPERS,2017
+Anthony Brown,1626148,Jump Shot,3,26,7,3PT Jump Shot,THREE_POINT_JUMPERS,2017
+Anthony Brown,1626148,Layup Shot,2,3,1,Standard Layup,LAYUPS,2017
+Anthony Brown,1626148,Pullup Jump shot,2,4,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2017
+Anthony Brown,1626148,Pullup Jump shot,3,1,0,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2017
+Anthony Brown,1626148,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2017
+Anthony Brown,1626148,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2017
+Anthony Brown,1626148,Jump Shot,3,1,1,3PT Jump Shot,THREE_POINT_JUMPERS,2018

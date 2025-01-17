@@ -1,15 +1,19 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Colin Castleton,1630658,Driving Layup,2,3,1,LAYUPS,,2024
-Colin Castleton,1630658,Floating Jump Shot,2,2,2,FLOATING_SHOTS,,2024
-Colin Castleton,1630658,Putback Layup,2,2,0,LAYUPS,,2024
-Colin Castleton,1630658,Specialty Dunk,2,1,1,DUNKS,,2024
-Colin Castleton,1630658,Standard Dunk,2,2,2,DUNKS,,2024
-Colin Castleton,1630658,Standard Layup,2,4,3,LAYUPS,,2024
-Colin Castleton,1630658,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2024
-Colin Castleton,1630658,Turnaround Hook Shot,2,1,0,POST_MOVES,,2024
-Colin Castleton,1630658,Driving Layup,2,1,0,LAYUPS,,2025
-Colin Castleton,1630658,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2025
-Colin Castleton,1630658,Jump Shot,3,4,0,JUMP_SHOTS,,2025
-Colin Castleton,1630658,Putback Layup,2,1,0,LAYUPS,,2025
-Colin Castleton,1630658,Standard Layup,2,2,1,LAYUPS,,2025
-Colin Castleton,1630658,Turnaround Hook Shot,2,1,1,POST_MOVES,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Colin Castleton,1630658,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2024
+Colin Castleton,1630658,Cutting Layup Shot,2,1,0,Standard Layup,LAYUPS,2024
+Colin Castleton,1630658,Driving Floating Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Colin Castleton,1630658,Driving Layup Shot,2,3,1,Driving Layup,LAYUPS,2024
+Colin Castleton,1630658,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Colin Castleton,1630658,Layup Shot,2,3,3,Standard Layup,LAYUPS,2024
+Colin Castleton,1630658,Putback Layup Shot,2,1,0,Putback Layup,LAYUPS,2024
+Colin Castleton,1630658,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2024
+Colin Castleton,1630658,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2024
+Colin Castleton,1630658,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2024
+Colin Castleton,1630658,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2024
+Colin Castleton,1630658,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2025
+Colin Castleton,1630658,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Colin Castleton,1630658,Jump Shot,3,4,0,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Colin Castleton,1630658,Layup Shot,2,1,1,Standard Layup,LAYUPS,2025
+Colin Castleton,1630658,Putback Layup Shot,2,1,0,Putback Layup,LAYUPS,2025
+Colin Castleton,1630658,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2025
+Colin Castleton,1630658,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2025

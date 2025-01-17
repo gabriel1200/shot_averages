@@ -1,5 +1,5 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Ruben Garces,2092,Hook Shot,2,2,0,POST_MOVES,,2001
-Ruben Garces,2092,Jump Shot,2,6,0,JUMP_SHOTS,,2001
-Ruben Garces,2092,Standard Layup,2,8,6,LAYUPS,,2001
-Ruben Garces,2092,Tip Shot,2,6,1,TIP_SHOTS,,2001
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Ruben Garces,2092,Hook Shot,2,2,0,Hook Shot,POST_MOVES,2001
+Ruben Garces,2092,Jump Shot,2,6,0,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Ruben Garces,2092,Layup Shot,2,8,6,Standard Layup,LAYUPS,2001
+Ruben Garces,2092,Tip Shot,2,6,1,Tip Shot,TIP_SHOTS,2001

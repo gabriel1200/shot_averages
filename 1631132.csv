@@ -1,31 +1,41 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Christian Koloko,1631132,Alley Oop Dunk,2,10,9,DUNKS,,2023
-Christian Koloko,1631132,Alley Oop Layup,2,4,3,LAYUPS,,2023
-Christian Koloko,1631132,Driving Hook Shot,2,3,1,POST_MOVES,,2023
-Christian Koloko,1631132,Driving Layup,2,5,1,LAYUPS,,2023
-Christian Koloko,1631132,Finger Roll,2,5,2,LAYUPS,,2023
-Christian Koloko,1631132,Floating Jump Shot,2,14,7,FLOATING_SHOTS,,2023
-Christian Koloko,1631132,Hook Shot,2,4,1,POST_MOVES,,2023
-Christian Koloko,1631132,Jump Shot,2,15,3,JUMP_SHOTS,,2023
-Christian Koloko,1631132,Putback Dunk,2,3,2,DUNKS,,2023
-Christian Koloko,1631132,Putback Layup,2,19,8,LAYUPS,,2023
-Christian Koloko,1631132,Reverse Layup,2,5,2,LAYUPS,,2023
-Christian Koloko,1631132,Running Jump Shot,2,1,0,JUMP_SHOTS,,2023
-Christian Koloko,1631132,Specialty Dunk,2,29,20,DUNKS,,2023
-Christian Koloko,1631132,Standard Dunk,2,6,5,DUNKS,,2023
-Christian Koloko,1631132,Standard Layup,2,23,8,LAYUPS,,2023
-Christian Koloko,1631132,Turnaround Hook Shot,2,3,0,POST_MOVES,,2023
-Christian Koloko,1631132,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2023
-Christian Koloko,1631132,Alley Oop Dunk,2,4,3,DUNKS,,2025
-Christian Koloko,1631132,Alley Oop Layup,2,3,3,LAYUPS,,2025
-Christian Koloko,1631132,Finger Roll,2,1,0,LAYUPS,,2025
-Christian Koloko,1631132,Floating Jump Shot,2,2,0,FLOATING_SHOTS,,2025
-Christian Koloko,1631132,Jump Shot,2,1,0,JUMP_SHOTS,,2025
-Christian Koloko,1631132,Jump Shot,3,2,0,JUMP_SHOTS,,2025
-Christian Koloko,1631132,Pullup Jump Shot,2,1,1,JUMP_SHOTS,,2025
-Christian Koloko,1631132,Putback Layup,2,3,1,LAYUPS,,2025
-Christian Koloko,1631132,Reverse Layup,2,1,0,LAYUPS,,2025
-Christian Koloko,1631132,Specialty Dunk,2,8,7,DUNKS,,2025
-Christian Koloko,1631132,Standard Dunk,2,4,3,DUNKS,,2025
-Christian Koloko,1631132,Standard Layup,2,2,2,LAYUPS,,2025
-Christian Koloko,1631132,Turnaround Hook Shot,2,3,1,POST_MOVES,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Christian Koloko,1631132,Alley Oop Dunk Shot,2,9,8,Alley Oop Dunk,DUNKS,2023
+Christian Koloko,1631132,Alley Oop Layup shot,2,4,3,Alley Oop Layup,LAYUPS,2023
+Christian Koloko,1631132,Cutting Dunk Shot,2,21,14,Specialty Dunk,DUNKS,2023
+Christian Koloko,1631132,Cutting Finger Roll Layup Shot,2,4,2,Finger Roll,LAYUPS,2023
+Christian Koloko,1631132,Cutting Layup Shot,2,8,4,Standard Layup,LAYUPS,2023
+Christian Koloko,1631132,Driving Bank Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2023
+Christian Koloko,1631132,Driving Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2023
+Christian Koloko,1631132,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,2023
+Christian Koloko,1631132,Driving Layup Shot,2,5,1,Driving Layup,LAYUPS,2023
+Christian Koloko,1631132,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2023
+Christian Koloko,1631132,Floating Jump shot,2,14,7,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Christian Koloko,1631132,Hook Shot,2,4,1,Hook Shot,POST_MOVES,2023
+Christian Koloko,1631132,Jump Shot,2,15,3,2PT Jump Shot,TWO_POINT_JUMPERS,2023
+Christian Koloko,1631132,Layup Shot,2,15,4,Standard Layup,LAYUPS,2023
+Christian Koloko,1631132,Putback Dunk Shot,2,3,2,Putback Dunk,DUNKS,2023
+Christian Koloko,1631132,Putback Layup Shot,2,10,6,Putback Layup,LAYUPS,2023
+Christian Koloko,1631132,Reverse Layup Shot,2,5,2,Reverse Layup,LAYUPS,2023
+Christian Koloko,1631132,Running Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2023
+Christian Koloko,1631132,Running Dunk Shot,2,4,3,Standard Dunk,DUNKS,2023
+Christian Koloko,1631132,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2023
+Christian Koloko,1631132,Tip Dunk Shot,2,8,6,Specialty Dunk,DUNKS,2023
+Christian Koloko,1631132,Tip Layup Shot,2,9,2,Putback Layup,LAYUPS,2023
+Christian Koloko,1631132,Turnaround Hook Shot,2,3,0,Turnaround Hook Shot,POST_MOVES,2023
+Christian Koloko,1631132,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2023
+Christian Koloko,1631132,Alley Oop Dunk Shot,2,2,1,Alley Oop Dunk,DUNKS,2025
+Christian Koloko,1631132,Alley Oop Layup shot,2,3,3,Alley Oop Layup,LAYUPS,2025
+Christian Koloko,1631132,Cutting Dunk Shot,2,6,6,Specialty Dunk,DUNKS,2025
+Christian Koloko,1631132,Cutting Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2025
+Christian Koloko,1631132,Dunk Shot,2,3,3,Standard Dunk,DUNKS,2025
+Christian Koloko,1631132,Floating Jump shot,2,2,0,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Christian Koloko,1631132,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2025
+Christian Koloko,1631132,Jump Shot,3,2,0,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Christian Koloko,1631132,Layup Shot,2,2,2,Standard Layup,LAYUPS,2025
+Christian Koloko,1631132,Pullup Jump shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
+Christian Koloko,1631132,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2025
+Christian Koloko,1631132,Running Alley Oop Dunk Shot,2,2,2,Alley Oop Dunk,DUNKS,2025
+Christian Koloko,1631132,Running Dunk Shot,2,1,0,Standard Dunk,DUNKS,2025
+Christian Koloko,1631132,Tip Dunk Shot,2,2,1,Specialty Dunk,DUNKS,2025
+Christian Koloko,1631132,Tip Layup Shot,2,3,1,Putback Layup,LAYUPS,2025
+Christian Koloko,1631132,Turnaround Hook Shot,2,3,1,Turnaround Hook Shot,POST_MOVES,2025

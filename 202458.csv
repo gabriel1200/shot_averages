@@ -1,9 +1,10 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Justin Dentmon,202458,Driving Layup,2,3,0,LAYUPS,,2012
-Justin Dentmon,202458,Jump Shot,2,17,3,JUMP_SHOTS,,2012
-Justin Dentmon,202458,Pullup Jump Shot,2,4,4,JUMP_SHOTS,,2012
-Justin Dentmon,202458,Running Jump Shot,2,1,0,JUMP_SHOTS,,2012
-Justin Dentmon,202458,Standard Layup,2,2,2,LAYUPS,,2012
-Justin Dentmon,202458,Step Back Jump Shot,2,1,1,JUMP_SHOTS,,2012
-Justin Dentmon,202458,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2013
-Justin Dentmon,202458,Jump Shot,2,1,0,JUMP_SHOTS,,2013
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Justin Dentmon,202458,Driving Layup Shot,2,3,0,Driving Layup,LAYUPS,2012
+Justin Dentmon,202458,Jump Shot,2,17,3,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Justin Dentmon,202458,Layup Shot,2,1,1,Standard Layup,LAYUPS,2012
+Justin Dentmon,202458,Pullup Jump shot,2,4,4,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2012
+Justin Dentmon,202458,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2012
+Justin Dentmon,202458,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2012
+Justin Dentmon,202458,Step Back Jump shot,2,1,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2012
+Justin Dentmon,202458,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2013
+Justin Dentmon,202458,Jump Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2013

@@ -1,63 +1,91 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jabari Walker,1631133,Alley Oop Dunk,2,1,1,DUNKS,,2023
-Jabari Walker,1631133,Alley Oop Layup,2,2,1,LAYUPS,,2023
-Jabari Walker,1631133,Driving Dunk,2,1,1,DUNKS,,2023
-Jabari Walker,1631133,Driving Hook Shot,2,2,0,POST_MOVES,,2023
-Jabari Walker,1631133,Driving Layup,2,10,7,LAYUPS,,2023
-Jabari Walker,1631133,Fadeaway Jump Shot,2,4,1,JUMP_SHOTS,,2023
-Jabari Walker,1631133,Finger Roll,2,1,1,LAYUPS,,2023
-Jabari Walker,1631133,Floating Jump Shot,2,18,3,FLOATING_SHOTS,,2023
-Jabari Walker,1631133,Hook Shot,2,4,0,POST_MOVES,,2023
-Jabari Walker,1631133,Jump Shot,2,65,22,JUMP_SHOTS,,2023
-Jabari Walker,1631133,Pullup Jump Shot,2,5,2,JUMP_SHOTS,,2023
-Jabari Walker,1631133,Putback Dunk,2,1,1,DUNKS,,2023
-Jabari Walker,1631133,Putback Layup,2,25,11,LAYUPS,,2023
-Jabari Walker,1631133,Reverse Layup,2,1,1,LAYUPS,,2023
-Jabari Walker,1631133,Running Jump Shot,2,2,0,JUMP_SHOTS,,2023
-Jabari Walker,1631133,Specialty Dunk,2,13,11,DUNKS,,2023
-Jabari Walker,1631133,Standard Dunk,2,7,5,DUNKS,,2023
-Jabari Walker,1631133,Standard Layup,2,28,14,LAYUPS,,2023
-Jabari Walker,1631133,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2023
-Jabari Walker,1631133,Turnaround Hook Shot,2,5,1,POST_MOVES,,2023
-Jabari Walker,1631133,Turnaround Jump Shot,2,2,0,JUMP_SHOTS,,2023
-Jabari Walker,1631133,Alley Oop Dunk,2,2,0,DUNKS,,2024
-Jabari Walker,1631133,Alley Oop Layup,2,2,2,LAYUPS,,2024
-Jabari Walker,1631133,Driving Dunk,2,3,1,DUNKS,,2024
-Jabari Walker,1631133,Driving Hook Shot,2,4,1,POST_MOVES,,2024
-Jabari Walker,1631133,Driving Layup,2,81,42,LAYUPS,,2024
-Jabari Walker,1631133,Fadeaway Jump Shot,2,4,1,JUMP_SHOTS,,2024
-Jabari Walker,1631133,Finger Roll,2,13,8,LAYUPS,,2024
-Jabari Walker,1631133,Floating Jump Shot,2,23,9,FLOATING_SHOTS,,2024
-Jabari Walker,1631133,Hook Shot,2,4,0,POST_MOVES,,2024
-Jabari Walker,1631133,Jump Shot,2,9,5,JUMP_SHOTS,,2024
-Jabari Walker,1631133,Jump Shot,3,136,40,JUMP_SHOTS,,2024
-Jabari Walker,1631133,Pullup Jump Shot,2,12,3,JUMP_SHOTS,,2024
-Jabari Walker,1631133,Pullup Jump Shot,3,1,1,JUMP_SHOTS,,2024
-Jabari Walker,1631133,Putback Dunk,2,2,1,DUNKS,,2024
-Jabari Walker,1631133,Putback Layup,2,78,47,LAYUPS,,2024
-Jabari Walker,1631133,Reverse Layup,2,8,7,LAYUPS,,2024
-Jabari Walker,1631133,Running Jump Shot,3,1,0,JUMP_SHOTS,,2024
-Jabari Walker,1631133,Specialty Dunk,2,15,10,DUNKS,,2024
-Jabari Walker,1631133,Standard Dunk,2,6,5,DUNKS,,2024
-Jabari Walker,1631133,Standard Layup,2,81,46,LAYUPS,,2024
-Jabari Walker,1631133,Step Back Jump Shot,2,2,1,JUMP_SHOTS,,2024
-Jabari Walker,1631133,Step Back Jump Shot,3,1,0,JUMP_SHOTS,,2024
-Jabari Walker,1631133,Turnaround Hook Shot,2,5,0,POST_MOVES,,2024
-Jabari Walker,1631133,Turnaround Jump Shot,2,16,4,JUMP_SHOTS,,2024
-Jabari Walker,1631133,Alley Oop Layup,2,1,1,LAYUPS,,2025
-Jabari Walker,1631133,Driving Hook Shot,2,1,1,POST_MOVES,,2025
-Jabari Walker,1631133,Driving Layup,2,10,5,LAYUPS,,2025
-Jabari Walker,1631133,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2025
-Jabari Walker,1631133,Finger Roll,2,1,0,LAYUPS,,2025
-Jabari Walker,1631133,Floating Jump Shot,2,2,1,FLOATING_SHOTS,,2025
-Jabari Walker,1631133,Jump Shot,2,4,1,JUMP_SHOTS,,2025
-Jabari Walker,1631133,Jump Shot,3,23,5,JUMP_SHOTS,,2025
-Jabari Walker,1631133,Pullup Jump Shot,2,1,1,JUMP_SHOTS,,2025
-Jabari Walker,1631133,Putback Dunk,2,1,1,DUNKS,,2025
-Jabari Walker,1631133,Putback Layup,2,10,6,LAYUPS,,2025
-Jabari Walker,1631133,Reverse Layup,2,2,2,LAYUPS,,2025
-Jabari Walker,1631133,Running Jump Shot,3,1,0,JUMP_SHOTS,,2025
-Jabari Walker,1631133,Specialty Dunk,2,2,2,DUNKS,,2025
-Jabari Walker,1631133,Standard Dunk,2,3,3,DUNKS,,2025
-Jabari Walker,1631133,Standard Layup,2,14,6,LAYUPS,,2025
-Jabari Walker,1631133,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Jabari Walker,1631133,Alley Oop Layup shot,2,2,1,Alley Oop Layup,LAYUPS,2023
+Jabari Walker,1631133,Cutting Dunk Shot,2,12,11,Specialty Dunk,DUNKS,2023
+Jabari Walker,1631133,Cutting Layup Shot,2,12,7,Standard Layup,LAYUPS,2023
+Jabari Walker,1631133,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2023
+Jabari Walker,1631133,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2023
+Jabari Walker,1631133,Driving Floating Jump Shot,2,8,2,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Jabari Walker,1631133,Driving Hook Shot,2,2,0,Driving Hook Shot,POST_MOVES,2023
+Jabari Walker,1631133,Driving Layup Shot,2,10,7,Driving Layup,LAYUPS,2023
+Jabari Walker,1631133,Dunk Shot,2,3,2,Standard Dunk,DUNKS,2023
+Jabari Walker,1631133,Fadeaway Jump Shot,2,4,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2023
+Jabari Walker,1631133,Floating Jump shot,2,10,1,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Jabari Walker,1631133,Hook Shot,2,4,0,Hook Shot,POST_MOVES,2023
+Jabari Walker,1631133,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2023
+Jabari Walker,1631133,Jump Shot,2,64,21,2PT Jump Shot,TWO_POINT_JUMPERS,2023
+Jabari Walker,1631133,Layup Shot,2,8,4,Standard Layup,LAYUPS,2023
+Jabari Walker,1631133,Pullup Jump shot,2,5,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2023
+Jabari Walker,1631133,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2023
+Jabari Walker,1631133,Putback Layup Shot,2,16,8,Putback Layup,LAYUPS,2023
+Jabari Walker,1631133,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2023
+Jabari Walker,1631133,Running Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2023
+Jabari Walker,1631133,Running Dunk Shot,2,4,3,Standard Dunk,DUNKS,2023
+Jabari Walker,1631133,Running Jump Shot,2,2,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2023
+Jabari Walker,1631133,Running Layup Shot,2,8,3,Standard Layup,LAYUPS,2023
+Jabari Walker,1631133,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2023
+Jabari Walker,1631133,Tip Dunk Shot,2,1,0,Specialty Dunk,DUNKS,2023
+Jabari Walker,1631133,Tip Layup Shot,2,9,3,Putback Layup,LAYUPS,2023
+Jabari Walker,1631133,Turnaround Hook Shot,2,5,1,Turnaround Hook Shot,POST_MOVES,2023
+Jabari Walker,1631133,Turnaround Jump Shot,2,2,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2023
+Jabari Walker,1631133,Alley Oop Dunk Shot,2,1,0,Alley Oop Dunk,DUNKS,2024
+Jabari Walker,1631133,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2024
+Jabari Walker,1631133,Cutting Dunk Shot,2,13,10,Specialty Dunk,DUNKS,2024
+Jabari Walker,1631133,Cutting Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2024
+Jabari Walker,1631133,Cutting Layup Shot,2,32,19,Standard Layup,LAYUPS,2024
+Jabari Walker,1631133,Driving Dunk Shot,2,3,1,Driving Dunk,DUNKS,2024
+Jabari Walker,1631133,Driving Finger Roll Layup Shot,2,9,5,Finger Roll,LAYUPS,2024
+Jabari Walker,1631133,Driving Floating Bank Jump Shot,2,4,1,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Jabari Walker,1631133,Driving Floating Jump Shot,2,12,4,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Jabari Walker,1631133,Driving Hook Shot,2,4,1,Driving Hook Shot,POST_MOVES,2024
+Jabari Walker,1631133,Driving Layup Shot,2,74,38,Driving Layup,LAYUPS,2024
+Jabari Walker,1631133,Driving Reverse Layup Shot,2,7,4,Driving Layup,LAYUPS,2024
+Jabari Walker,1631133,Dunk Shot,2,3,2,Standard Dunk,DUNKS,2024
+Jabari Walker,1631133,Fadeaway Jump Shot,2,4,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2024
+Jabari Walker,1631133,Floating Jump shot,2,7,4,2PT Floating Jump Shot,FLOATING_SHOTS,2024
+Jabari Walker,1631133,Hook Bank Shot,2,1,0,Hook Shot,POST_MOVES,2024
+Jabari Walker,1631133,Hook Shot,2,3,0,Hook Shot,POST_MOVES,2024
+Jabari Walker,1631133,Jump Shot,2,9,5,2PT Jump Shot,TWO_POINT_JUMPERS,2024
+Jabari Walker,1631133,Jump Shot,3,136,40,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+Jabari Walker,1631133,Layup Shot,2,28,13,Standard Layup,LAYUPS,2024
+Jabari Walker,1631133,Pullup Jump shot,2,12,3,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2024
+Jabari Walker,1631133,Pullup Jump shot,3,1,1,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
+Jabari Walker,1631133,Putback Dunk Shot,2,2,1,Putback Dunk,DUNKS,2024
+Jabari Walker,1631133,Putback Layup Shot,2,66,39,Putback Layup,LAYUPS,2024
+Jabari Walker,1631133,Reverse Layup Shot,2,7,6,Reverse Layup,LAYUPS,2024
+Jabari Walker,1631133,Running Alley Oop Dunk Shot,2,1,0,Alley Oop Dunk,DUNKS,2024
+Jabari Walker,1631133,Running Alley Oop Layup Shot,2,1,1,Alley Oop Layup,LAYUPS,2024
+Jabari Walker,1631133,Running Dunk Shot,2,3,3,Standard Dunk,DUNKS,2024
+Jabari Walker,1631133,Running Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2024
+Jabari Walker,1631133,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+Jabari Walker,1631133,Running Layup Shot,2,21,14,Standard Layup,LAYUPS,2024
+Jabari Walker,1631133,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2024
+Jabari Walker,1631133,Step Back Jump shot,2,2,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2024
+Jabari Walker,1631133,Step Back Jump shot,3,1,0,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
+Jabari Walker,1631133,Tip Dunk Shot,2,2,0,Specialty Dunk,DUNKS,2024
+Jabari Walker,1631133,Tip Layup Shot,2,12,8,Putback Layup,LAYUPS,2024
+Jabari Walker,1631133,Turnaround Fadeaway shot,2,8,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Jabari Walker,1631133,Turnaround Hook Shot,2,5,0,Turnaround Hook Shot,POST_MOVES,2024
+Jabari Walker,1631133,Turnaround Jump Shot,2,8,4,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+Jabari Walker,1631133,Cutting Dunk Shot,2,2,2,Specialty Dunk,DUNKS,2025
+Jabari Walker,1631133,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2025
+Jabari Walker,1631133,Driving Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2025
+Jabari Walker,1631133,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Jabari Walker,1631133,Driving Floating Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2025
+Jabari Walker,1631133,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2025
+Jabari Walker,1631133,Driving Layup Shot,2,10,5,Driving Layup,LAYUPS,2025
+Jabari Walker,1631133,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2025
+Jabari Walker,1631133,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
+Jabari Walker,1631133,Jump Shot,2,4,1,2PT Jump Shot,TWO_POINT_JUMPERS,2025
+Jabari Walker,1631133,Jump Shot,3,23,5,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+Jabari Walker,1631133,Layup Shot,2,10,4,Standard Layup,LAYUPS,2025
+Jabari Walker,1631133,Pullup Jump shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
+Jabari Walker,1631133,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2025
+Jabari Walker,1631133,Putback Layup Shot,2,8,4,Putback Layup,LAYUPS,2025
+Jabari Walker,1631133,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2025
+Jabari Walker,1631133,Running Alley Oop Layup Shot,2,1,1,Alley Oop Layup,LAYUPS,2025
+Jabari Walker,1631133,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2025
+Jabari Walker,1631133,Running Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+Jabari Walker,1631133,Running Layup Shot,2,3,1,Standard Layup,LAYUPS,2025
+Jabari Walker,1631133,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2025
+Jabari Walker,1631133,Tip Layup Shot,2,2,2,Putback Layup,LAYUPS,2025
+Jabari Walker,1631133,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025

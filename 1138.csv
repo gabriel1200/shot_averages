@@ -1,18 +1,18 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Michael Hawkins,1138,Driving Layup,2,12,11,LAYUPS,,1997
-Michael Hawkins,1138,Jump Shot,2,39,13,JUMP_SHOTS,,1997
-Michael Hawkins,1138,Jump Shot,3,2,1,JUMP_SHOTS,,1997
-Michael Hawkins,1138,Standard Layup,2,14,3,LAYUPS,,1997
-Michael Hawkins,1138,Tip Shot,2,1,1,TIP_SHOTS,,1997
-Michael Hawkins,1138,Driving Layup,2,4,3,LAYUPS,,1999
-Michael Hawkins,1138,Jump Shot,2,12,3,JUMP_SHOTS,,1999
-Michael Hawkins,1138,Jump Shot,3,19,5,JUMP_SHOTS,,1999
-Michael Hawkins,1138,Standard Layup,2,4,3,LAYUPS,,1999
-Michael Hawkins,1138,Tip Shot,2,1,0,TIP_SHOTS,,1999
-Michael Hawkins,1138,Driving Layup,2,1,0,LAYUPS,,2000
-Michael Hawkins,1138,Jump Shot,2,6,2,JUMP_SHOTS,,2000
-Michael Hawkins,1138,Jump Shot,3,5,1,JUMP_SHOTS,,2000
-Michael Hawkins,1138,Standard Layup,2,1,0,LAYUPS,,2000
-Michael Hawkins,1138,Jump Shot,2,4,0,JUMP_SHOTS,,2001
-Michael Hawkins,1138,Jump Shot,3,4,2,JUMP_SHOTS,,2001
-Michael Hawkins,1138,Standard Layup,2,1,1,LAYUPS,,2001
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Michael Hawkins,1138,Driving Layup Shot,2,12,11,Driving Layup,LAYUPS,1997
+Michael Hawkins,1138,Jump Shot,2,39,13,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Michael Hawkins,1138,Jump Shot,3,2,1,3PT Jump Shot,THREE_POINT_JUMPERS,1997
+Michael Hawkins,1138,Layup Shot,2,14,3,Standard Layup,LAYUPS,1997
+Michael Hawkins,1138,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,1997
+Michael Hawkins,1138,Driving Layup Shot,2,4,3,Driving Layup,LAYUPS,1999
+Michael Hawkins,1138,Jump Shot,2,12,3,2PT Jump Shot,TWO_POINT_JUMPERS,1999
+Michael Hawkins,1138,Jump Shot,3,19,5,3PT Jump Shot,THREE_POINT_JUMPERS,1999
+Michael Hawkins,1138,Layup Shot,2,4,3,Standard Layup,LAYUPS,1999
+Michael Hawkins,1138,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,1999
+Michael Hawkins,1138,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2000
+Michael Hawkins,1138,Jump Shot,2,6,2,2PT Jump Shot,TWO_POINT_JUMPERS,2000
+Michael Hawkins,1138,Jump Shot,3,5,1,3PT Jump Shot,THREE_POINT_JUMPERS,2000
+Michael Hawkins,1138,Layup Shot,2,1,0,Standard Layup,LAYUPS,2000
+Michael Hawkins,1138,Jump Shot,2,4,0,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Michael Hawkins,1138,Jump Shot,3,4,2,3PT Jump Shot,THREE_POINT_JUMPERS,2001
+Michael Hawkins,1138,Layup Shot,2,1,1,Standard Layup,LAYUPS,2001

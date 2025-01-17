@@ -1,34 +1,43 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-AJ Green,1631260,Alley Oop Layup,2,1,1,LAYUPS,,2023
-AJ Green,1631260,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2023
-AJ Green,1631260,Floating Jump Shot,2,2,1,FLOATING_SHOTS,,2023
-AJ Green,1631260,Jump Shot,2,78,36,JUMP_SHOTS,,2023
-AJ Green,1631260,Jump Shot,3,1,1,JUMP_SHOTS,,2023
-AJ Green,1631260,Pullup Jump Shot,2,19,6,JUMP_SHOTS,,2023
-AJ Green,1631260,Putback Layup,2,1,0,LAYUPS,,2023
-AJ Green,1631260,Running Jump Shot,2,10,4,JUMP_SHOTS,,2023
-AJ Green,1631260,Standard Layup,2,4,2,LAYUPS,,2023
-AJ Green,1631260,Step Back Jump Shot,2,8,2,JUMP_SHOTS,,2023
-AJ Green,1631260,Driving Layup,2,1,0,LAYUPS,,2024
-AJ Green,1631260,Finger Roll,2,3,3,LAYUPS,,2024
-AJ Green,1631260,Jump Shot,2,2,2,JUMP_SHOTS,,2024
-AJ Green,1631260,Jump Shot,3,134,57,JUMP_SHOTS,,2024
-AJ Green,1631260,Pullup Jump Shot,2,14,5,JUMP_SHOTS,,2024
-AJ Green,1631260,Pullup Jump Shot,3,16,5,JUMP_SHOTS,,2024
-AJ Green,1631260,Running Jump Shot,3,10,5,JUMP_SHOTS,,2024
-AJ Green,1631260,Standard Layup,2,5,3,LAYUPS,,2024
-AJ Green,1631260,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2024
-AJ Green,1631260,Step Back Jump Shot,3,8,2,JUMP_SHOTS,,2024
-AJ Green,1631260,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2024
-AJ Green,1631260,Turnaround Jump Shot,3,1,0,JUMP_SHOTS,,2024
-AJ Green,1631260,Fadeaway Jump Shot,2,2,1,JUMP_SHOTS,,2025
-AJ Green,1631260,Jump Shot,2,2,0,JUMP_SHOTS,,2025
-AJ Green,1631260,Jump Shot,3,131,59,JUMP_SHOTS,,2025
-AJ Green,1631260,Pullup Jump Shot,2,15,9,JUMP_SHOTS,,2025
-AJ Green,1631260,Pullup Jump Shot,3,28,12,JUMP_SHOTS,,2025
-AJ Green,1631260,Running Jump Shot,3,21,11,JUMP_SHOTS,,2025
-AJ Green,1631260,Standard Layup,2,5,3,LAYUPS,,2025
-AJ Green,1631260,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2025
-AJ Green,1631260,Step Back Jump Shot,3,14,3,JUMP_SHOTS,,2025
-AJ Green,1631260,Turnaround Jump Shot,2,2,0,JUMP_SHOTS,,2025
-AJ Green,1631260,Turnaround Jump Shot,3,1,1,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+AJ Green,1631260,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2023
+AJ Green,1631260,Cutting Layup Shot,2,3,2,Standard Layup,LAYUPS,2023
+AJ Green,1631260,Driving Floating Bank Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+AJ Green,1631260,Driving Floating Jump Shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+AJ Green,1631260,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2023
+AJ Green,1631260,Jump Shot,2,78,36,2PT Jump Shot,TWO_POINT_JUMPERS,2023
+AJ Green,1631260,Jump Shot,3,1,1,3PT Jump Shot,THREE_POINT_JUMPERS,2023
+AJ Green,1631260,Layup Shot,2,1,0,Standard Layup,LAYUPS,2023
+AJ Green,1631260,Pullup Jump shot,2,19,6,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2023
+AJ Green,1631260,Running Jump Shot,2,9,4,2PT Running Jump Shot,TWO_POINT_JUMPERS,2023
+AJ Green,1631260,Running Pull-Up Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2023
+AJ Green,1631260,Step Back Jump shot,2,8,2,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2023
+AJ Green,1631260,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2023
+AJ Green,1631260,Cutting Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2024
+AJ Green,1631260,Cutting Layup Shot,2,4,3,Standard Layup,LAYUPS,2024
+AJ Green,1631260,Driving Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2024
+AJ Green,1631260,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,2024
+AJ Green,1631260,Jump Shot,2,2,2,2PT Jump Shot,TWO_POINT_JUMPERS,2024
+AJ Green,1631260,Jump Shot,3,134,57,3PT Jump Shot,THREE_POINT_JUMPERS,2024
+AJ Green,1631260,Layup Shot,2,1,0,Standard Layup,LAYUPS,2024
+AJ Green,1631260,Pullup Jump shot,2,14,5,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2024
+AJ Green,1631260,Pullup Jump shot,3,16,5,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2024
+AJ Green,1631260,Running Jump Shot,3,7,4,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+AJ Green,1631260,Running Pull-Up Jump Shot,3,3,1,3PT Running Jump Shot,THREE_POINT_JUMPERS,2024
+AJ Green,1631260,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2024
+AJ Green,1631260,Step Back Jump shot,3,8,2,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2024
+AJ Green,1631260,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2024
+AJ Green,1631260,Turnaround Jump Shot,3,1,0,3PT Turnaround Jump Shot,THREE_POINT_JUMPERS,2024
+AJ Green,1631260,Cutting Layup Shot,2,4,2,Standard Layup,LAYUPS,2025
+AJ Green,1631260,Fadeaway Jump Shot,2,2,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2025
+AJ Green,1631260,Jump Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2025
+AJ Green,1631260,Jump Shot,3,131,59,3PT Jump Shot,THREE_POINT_JUMPERS,2025
+AJ Green,1631260,Pullup Jump shot,2,15,9,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2025
+AJ Green,1631260,Pullup Jump shot,3,28,12,3PT Pullup Jump Shot,THREE_POINT_JUMPERS,2025
+AJ Green,1631260,Running Jump Shot,3,15,7,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+AJ Green,1631260,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2025
+AJ Green,1631260,Running Pull-Up Jump Shot,3,6,4,3PT Running Jump Shot,THREE_POINT_JUMPERS,2025
+AJ Green,1631260,Step Back Bank Jump Shot,3,1,1,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
+AJ Green,1631260,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2025
+AJ Green,1631260,Step Back Jump shot,3,13,2,3PT Step Back Jump Shot,THREE_POINT_JUMPERS,2025
+AJ Green,1631260,Turnaround Fadeaway shot,2,2,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2025
+AJ Green,1631260,Turnaround Jump Shot,3,1,1,3PT Turnaround Jump Shot,THREE_POINT_JUMPERS,2025

@@ -1,6 +1,6 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-John Long,1381,Driving Layup,2,3,2,LAYUPS,,1997
-John Long,1381,Jump Shot,2,84,34,JUMP_SHOTS,,1997
-John Long,1381,Jump Shot,3,10,4,JUMP_SHOTS,,1997
-John Long,1381,Running Jump Shot,2,4,3,JUMP_SHOTS,,1997
-John Long,1381,Standard Layup,2,16,3,LAYUPS,,1997
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+John Long,1381,Driving Layup Shot,2,3,2,Driving Layup,LAYUPS,1997
+John Long,1381,Jump Shot,2,84,34,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+John Long,1381,Jump Shot,3,10,4,3PT Jump Shot,THREE_POINT_JUMPERS,1997
+John Long,1381,Layup Shot,2,16,3,Standard Layup,LAYUPS,1997
+John Long,1381,Running Jump Shot,2,4,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,1997

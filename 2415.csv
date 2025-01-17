@@ -1,23 +1,26 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Ryan Humphrey,2415,Driving Layup,2,1,1,LAYUPS,,2003
-Ryan Humphrey,2415,Hook Shot,2,4,2,POST_MOVES,,2003
-Ryan Humphrey,2415,Jump Shot,2,48,8,JUMP_SHOTS,,2003
-Ryan Humphrey,2415,Reverse Layup,2,1,1,LAYUPS,,2003
-Ryan Humphrey,2415,Running Hook Shot,2,2,1,POST_MOVES,,2003
-Ryan Humphrey,2415,Running Jump Shot,2,5,1,JUMP_SHOTS,,2003
-Ryan Humphrey,2415,Standard Dunk,2,7,6,DUNKS,,2003
-Ryan Humphrey,2415,Standard Layup,2,40,11,LAYUPS,,2003
-Ryan Humphrey,2415,Tip Shot,2,6,2,TIP_SHOTS,,2003
-Ryan Humphrey,2415,Turnaround Jump Shot,2,6,2,JUMP_SHOTS,,2003
-Ryan Humphrey,2415,Jump Shot,2,3,1,JUMP_SHOTS,,2004
-Ryan Humphrey,2415,Standard Layup,2,1,0,LAYUPS,,2004
-Ryan Humphrey,2415,Driving Dunk,2,3,2,DUNKS,,2005
-Ryan Humphrey,2415,Driving Layup,2,2,2,LAYUPS,,2005
-Ryan Humphrey,2415,Fadeaway Jump Shot,2,4,0,JUMP_SHOTS,,2005
-Ryan Humphrey,2415,Jump Shot,2,36,13,JUMP_SHOTS,,2005
-Ryan Humphrey,2415,Reverse Layup,2,3,1,LAYUPS,,2005
-Ryan Humphrey,2415,Standard Dunk,2,3,3,DUNKS,,2005
-Ryan Humphrey,2415,Standard Layup,2,32,13,LAYUPS,,2005
-Ryan Humphrey,2415,Tip Shot,2,15,6,TIP_SHOTS,,2005
-Ryan Humphrey,2415,Turnaround Hook Shot,2,1,0,POST_MOVES,,2005
-Ryan Humphrey,2415,Turnaround Jump Shot,2,4,2,JUMP_SHOTS,,2005
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Ryan Humphrey,2415,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2003
+Ryan Humphrey,2415,Dunk Shot,2,6,5,Standard Dunk,DUNKS,2003
+Ryan Humphrey,2415,Hook Shot,2,3,2,Hook Shot,POST_MOVES,2003
+Ryan Humphrey,2415,Jump Hook Shot,2,1,0,Hook Shot,POST_MOVES,2003
+Ryan Humphrey,2415,Jump Shot,2,48,8,2PT Jump Shot,TWO_POINT_JUMPERS,2003
+Ryan Humphrey,2415,Layup Shot,2,40,11,Standard Layup,LAYUPS,2003
+Ryan Humphrey,2415,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2003
+Ryan Humphrey,2415,Running Hook Shot,2,2,1,Running Hook Shot,POST_MOVES,2003
+Ryan Humphrey,2415,Running Jump Shot,2,5,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2003
+Ryan Humphrey,2415,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2003
+Ryan Humphrey,2415,Tip Shot,2,6,2,Tip Shot,TIP_SHOTS,2003
+Ryan Humphrey,2415,Turnaround Jump Shot,2,6,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2003
+Ryan Humphrey,2415,Jump Shot,2,3,1,2PT Jump Shot,TWO_POINT_JUMPERS,2004
+Ryan Humphrey,2415,Layup Shot,2,1,0,Standard Layup,LAYUPS,2004
+Ryan Humphrey,2415,Driving Dunk Shot,2,3,2,Driving Dunk,DUNKS,2005
+Ryan Humphrey,2415,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,2005
+Ryan Humphrey,2415,Dunk Shot,2,3,3,Standard Dunk,DUNKS,2005
+Ryan Humphrey,2415,Fadeaway Jump Shot,2,4,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2005
+Ryan Humphrey,2415,Jump Bank Shot,2,2,2,2PT Jump Shot,TWO_POINT_JUMPERS,2005
+Ryan Humphrey,2415,Jump Shot,2,34,11,2PT Jump Shot,TWO_POINT_JUMPERS,2005
+Ryan Humphrey,2415,Layup Shot,2,32,13,Standard Layup,LAYUPS,2005
+Ryan Humphrey,2415,Reverse Layup Shot,2,3,1,Reverse Layup,LAYUPS,2005
+Ryan Humphrey,2415,Tip Shot,2,15,6,Tip Shot,TIP_SHOTS,2005
+Ryan Humphrey,2415,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2005
+Ryan Humphrey,2415,Turnaround Jump Shot,2,4,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2005

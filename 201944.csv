@@ -1,59 +1,83 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Terrence Williams,201944,Alley Oop Dunk,2,9,8,DUNKS,,2010
-Terrence Williams,201944,Alley Oop Layup,2,2,1,LAYUPS,,2010
-Terrence Williams,201944,Driving Dunk,2,16,14,DUNKS,,2010
-Terrence Williams,201944,Driving Layup,2,82,43,LAYUPS,,2010
-Terrence Williams,201944,Fadeaway Jump Shot,2,2,0,JUMP_SHOTS,,2010
-Terrence Williams,201944,Finger Roll,2,20,12,LAYUPS,,2010
-Terrence Williams,201944,Floating Jump Shot,2,24,18,FLOATING_SHOTS,,2010
-Terrence Williams,201944,Jump Shot,2,319,77,JUMP_SHOTS,,2010
-Terrence Williams,201944,Pullup Jump Shot,2,13,9,JUMP_SHOTS,,2010
-Terrence Williams,201944,Putback Dunk,2,3,1,DUNKS,,2010
-Terrence Williams,201944,Putback Layup,2,5,4,LAYUPS,,2010
-Terrence Williams,201944,Running Hook Shot,2,1,0,POST_MOVES,,2010
-Terrence Williams,201944,Running Jump Shot,2,43,17,JUMP_SHOTS,,2010
-Terrence Williams,201944,Standard Dunk,2,22,20,DUNKS,,2010
-Terrence Williams,201944,Standard Layup,2,73,28,LAYUPS,,2010
-Terrence Williams,201944,Tip Shot,2,8,4,TIP_SHOTS,,2010
-Terrence Williams,201944,Turnaround Jump Shot,2,9,5,JUMP_SHOTS,,2010
-Terrence Williams,201944,Alley Oop Dunk,2,1,1,DUNKS,,2011
-Terrence Williams,201944,Alley Oop Layup,2,1,0,LAYUPS,,2011
-Terrence Williams,201944,Driving Dunk,2,2,1,DUNKS,,2011
-Terrence Williams,201944,Driving Jump Shot,2,5,2,JUMP_SHOTS,,2011
-Terrence Williams,201944,Driving Layup,2,15,8,LAYUPS,,2011
-Terrence Williams,201944,Fadeaway Jump Shot,2,3,0,JUMP_SHOTS,,2011
-Terrence Williams,201944,Finger Roll,2,4,1,LAYUPS,,2011
-Terrence Williams,201944,Floating Jump Shot,2,2,2,FLOATING_SHOTS,,2011
-Terrence Williams,201944,Jump Shot,2,57,16,JUMP_SHOTS,,2011
-Terrence Williams,201944,Jump Shot,3,1,1,JUMP_SHOTS,,2011
-Terrence Williams,201944,Pullup Jump Shot,2,5,2,JUMP_SHOTS,,2011
-Terrence Williams,201944,Running Hook Shot,2,1,1,POST_MOVES,,2011
-Terrence Williams,201944,Running Jump Shot,2,3,1,JUMP_SHOTS,,2011
-Terrence Williams,201944,Standard Layup,2,11,4,LAYUPS,,2011
-Terrence Williams,201944,Tip Shot,2,1,1,TIP_SHOTS,,2011
-Terrence Williams,201944,Turnaround Jump Shot,2,3,2,JUMP_SHOTS,,2011
-Terrence Williams,201944,Alley Oop Dunk,2,1,1,DUNKS,,2012
-Terrence Williams,201944,Driving Dunk,2,4,3,DUNKS,,2012
-Terrence Williams,201944,Driving Jump Shot,2,1,0,JUMP_SHOTS,,2012
-Terrence Williams,201944,Driving Layup,2,17,12,LAYUPS,,2012
-Terrence Williams,201944,Fadeaway Jump Shot,2,2,1,JUMP_SHOTS,,2012
-Terrence Williams,201944,Finger Roll,2,4,3,LAYUPS,,2012
-Terrence Williams,201944,Floating Jump Shot,2,5,3,FLOATING_SHOTS,,2012
-Terrence Williams,201944,Hook Shot,2,1,0,POST_MOVES,,2012
-Terrence Williams,201944,Jump Shot,2,116,38,JUMP_SHOTS,,2012
-Terrence Williams,201944,Pullup Jump Shot,2,16,7,JUMP_SHOTS,,2012
-Terrence Williams,201944,Running Hook Shot,2,1,0,POST_MOVES,,2012
-Terrence Williams,201944,Running Jump Shot,2,15,12,JUMP_SHOTS,,2012
-Terrence Williams,201944,Standard Layup,2,8,1,LAYUPS,,2012
-Terrence Williams,201944,Step Back Jump Shot,2,2,1,JUMP_SHOTS,,2012
-Terrence Williams,201944,Tip Shot,2,4,3,TIP_SHOTS,,2012
-Terrence Williams,201944,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2012
-Terrence Williams,201944,Driving Dunk,2,7,7,DUNKS,,2013
-Terrence Williams,201944,Driving Jump Shot,2,1,0,JUMP_SHOTS,,2013
-Terrence Williams,201944,Driving Layup,2,13,7,LAYUPS,,2013
-Terrence Williams,201944,Finger Roll,2,4,4,LAYUPS,,2013
-Terrence Williams,201944,Floating Jump Shot,2,4,2,FLOATING_SHOTS,,2013
-Terrence Williams,201944,Jump Shot,2,37,12,JUMP_SHOTS,,2013
-Terrence Williams,201944,Pullup Jump Shot,2,15,10,JUMP_SHOTS,,2013
-Terrence Williams,201944,Running Jump Shot,2,3,1,JUMP_SHOTS,,2013
-Terrence Williams,201944,Standard Layup,2,13,5,LAYUPS,,2013
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Terrence Williams,201944,Alley Oop Dunk Shot,2,9,8,Alley Oop Dunk,DUNKS,2010
+Terrence Williams,201944,Alley Oop Layup shot,2,2,1,Alley Oop Layup,LAYUPS,2010
+Terrence Williams,201944,Driving Dunk Shot,2,12,10,Driving Dunk,DUNKS,2010
+Terrence Williams,201944,Driving Finger Roll Layup Shot,2,14,9,Finger Roll,LAYUPS,2010
+Terrence Williams,201944,Driving Layup Shot,2,81,42,Driving Layup,LAYUPS,2010
+Terrence Williams,201944,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2010
+Terrence Williams,201944,Driving Slam Dunk Shot,2,4,4,Driving Dunk,DUNKS,2010
+Terrence Williams,201944,Dunk Shot,2,7,6,Standard Dunk,DUNKS,2010
+Terrence Williams,201944,Fadeaway Jump Shot,2,2,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2010
+Terrence Williams,201944,Finger Roll Layup Shot,2,5,3,Finger Roll,LAYUPS,2010
+Terrence Williams,201944,Floating Jump shot,2,24,18,2PT Floating Jump Shot,FLOATING_SHOTS,2010
+Terrence Williams,201944,Jump Bank Shot,2,4,3,2PT Jump Shot,TWO_POINT_JUMPERS,2010
+Terrence Williams,201944,Jump Shot,2,315,74,2PT Jump Shot,TWO_POINT_JUMPERS,2010
+Terrence Williams,201944,Layup Shot,2,68,25,Standard Layup,LAYUPS,2010
+Terrence Williams,201944,Pullup Bank shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2010
+Terrence Williams,201944,Pullup Jump shot,2,12,8,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2010
+Terrence Williams,201944,Putback Dunk Shot,2,2,1,Putback Dunk,DUNKS,2010
+Terrence Williams,201944,Putback Layup Shot,2,5,4,Putback Layup,LAYUPS,2010
+Terrence Williams,201944,Putback Slam Dunk Shot,2,1,0,Putback Dunk,DUNKS,2010
+Terrence Williams,201944,Running Bank shot,2,6,4,2PT Running Jump Shot,TWO_POINT_JUMPERS,2010
+Terrence Williams,201944,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2010
+Terrence Williams,201944,Running Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2010
+Terrence Williams,201944,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,2010
+Terrence Williams,201944,Running Jump Shot,2,37,13,2PT Running Jump Shot,TWO_POINT_JUMPERS,2010
+Terrence Williams,201944,Running Layup Shot,2,5,3,Standard Layup,LAYUPS,2010
+Terrence Williams,201944,Running Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2010
+Terrence Williams,201944,Running Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2010
+Terrence Williams,201944,Slam Dunk Shot,2,12,11,Standard Dunk,DUNKS,2010
+Terrence Williams,201944,Tip Shot,2,7,4,Tip Shot,TIP_SHOTS,2010
+Terrence Williams,201944,Turnaround Jump Shot,2,9,5,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2010
+Terrence Williams,201944,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2011
+Terrence Williams,201944,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2011
+Terrence Williams,201944,Driving Bank shot,2,1,1,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2011
+Terrence Williams,201944,Driving Dunk Shot,2,2,1,Driving Dunk,DUNKS,2011
+Terrence Williams,201944,Driving Finger Roll Layup Shot,2,4,1,Finger Roll,LAYUPS,2011
+Terrence Williams,201944,Driving Jump shot,2,4,1,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2011
+Terrence Williams,201944,Driving Layup Shot,2,15,8,Driving Layup,LAYUPS,2011
+Terrence Williams,201944,Fadeaway Jump Shot,2,3,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2011
+Terrence Williams,201944,Floating Jump shot,2,2,2,2PT Floating Jump Shot,FLOATING_SHOTS,2011
+Terrence Williams,201944,Jump Bank Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Terrence Williams,201944,Jump Shot,2,55,16,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Terrence Williams,201944,Jump Shot,3,1,1,3PT Jump Shot,THREE_POINT_JUMPERS,2011
+Terrence Williams,201944,Layup Shot,2,11,4,Standard Layup,LAYUPS,2011
+Terrence Williams,201944,Pullup Jump shot,2,5,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2011
+Terrence Williams,201944,Running Bank shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2011
+Terrence Williams,201944,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,2011
+Terrence Williams,201944,Running Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2011
+Terrence Williams,201944,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2011
+Terrence Williams,201944,Turnaround Jump Shot,2,3,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2011
+Terrence Williams,201944,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2012
+Terrence Williams,201944,Driving Dunk Shot,2,2,1,Driving Dunk,DUNKS,2012
+Terrence Williams,201944,Driving Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2012
+Terrence Williams,201944,Driving Jump shot,2,1,0,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2012
+Terrence Williams,201944,Driving Layup Shot,2,17,12,Driving Layup,LAYUPS,2012
+Terrence Williams,201944,Driving Slam Dunk Shot,2,2,2,Driving Dunk,DUNKS,2012
+Terrence Williams,201944,Fadeaway Jump Shot,2,2,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2012
+Terrence Williams,201944,Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2012
+Terrence Williams,201944,Floating Jump shot,2,5,3,2PT Floating Jump Shot,FLOATING_SHOTS,2012
+Terrence Williams,201944,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Terrence Williams,201944,Jump Hook Shot,2,1,0,Hook Shot,POST_MOVES,2012
+Terrence Williams,201944,Jump Shot,2,115,38,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Terrence Williams,201944,Layup Shot,2,8,1,Standard Layup,LAYUPS,2012
+Terrence Williams,201944,Pullup Jump shot,2,16,7,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2012
+Terrence Williams,201944,Running Bank shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2012
+Terrence Williams,201944,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,2012
+Terrence Williams,201944,Running Jump Shot,2,14,11,2PT Running Jump Shot,TWO_POINT_JUMPERS,2012
+Terrence Williams,201944,Step Back Jump shot,2,2,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2012
+Terrence Williams,201944,Tip Shot,2,4,3,Tip Shot,TIP_SHOTS,2012
+Terrence Williams,201944,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2012
+Terrence Williams,201944,Driving Dunk Shot,2,5,5,Driving Dunk,DUNKS,2013
+Terrence Williams,201944,Driving Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2013
+Terrence Williams,201944,Driving Jump shot,2,1,0,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2013
+Terrence Williams,201944,Driving Layup Shot,2,11,6,Driving Layup,LAYUPS,2013
+Terrence Williams,201944,Driving Reverse Layup Shot,2,2,1,Driving Layup,LAYUPS,2013
+Terrence Williams,201944,Driving Slam Dunk Shot,2,2,2,Driving Dunk,DUNKS,2013
+Terrence Williams,201944,Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2013
+Terrence Williams,201944,Floating Jump shot,2,4,2,2PT Floating Jump Shot,FLOATING_SHOTS,2013
+Terrence Williams,201944,Jump Shot,2,37,12,2PT Jump Shot,TWO_POINT_JUMPERS,2013
+Terrence Williams,201944,Layup Shot,2,12,4,Standard Layup,LAYUPS,2013
+Terrence Williams,201944,Pullup Jump shot,2,15,10,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2013
+Terrence Williams,201944,Running Jump Shot,2,3,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2013
+Terrence Williams,201944,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2013

@@ -1,36 +1,40 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Casey Jacobsen,2418,Alley Oop Layup,2,1,1,LAYUPS,,2003
-Casey Jacobsen,2418,Driving Dunk,2,2,2,DUNKS,,2003
-Casey Jacobsen,2418,Driving Layup,2,29,23,LAYUPS,,2003
-Casey Jacobsen,2418,Fadeaway Jump Shot,2,2,0,JUMP_SHOTS,,2003
-Casey Jacobsen,2418,Jump Shot,2,225,71,JUMP_SHOTS,,2003
-Casey Jacobsen,2418,Reverse Layup,2,10,9,LAYUPS,,2003
-Casey Jacobsen,2418,Running Jump Shot,2,3,2,JUMP_SHOTS,,2003
-Casey Jacobsen,2418,Standard Dunk,2,2,2,DUNKS,,2003
-Casey Jacobsen,2418,Standard Layup,2,53,12,LAYUPS,,2003
-Casey Jacobsen,2418,Driving Dunk,2,2,2,DUNKS,,2004
-Casey Jacobsen,2418,Driving Layup,2,21,16,LAYUPS,,2004
-Casey Jacobsen,2418,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2004
-Casey Jacobsen,2418,Jump Shot,2,254,96,JUMP_SHOTS,,2004
-Casey Jacobsen,2418,Reverse Layup,2,7,3,LAYUPS,,2004
-Casey Jacobsen,2418,Running Jump Shot,2,2,1,JUMP_SHOTS,,2004
-Casey Jacobsen,2418,Standard Layup,2,69,30,LAYUPS,,2004
-Casey Jacobsen,2418,Tip Shot,2,3,1,TIP_SHOTS,,2004
-Casey Jacobsen,2418,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2004
-Casey Jacobsen,2418,Driving Layup,2,36,29,LAYUPS,,2005
-Casey Jacobsen,2418,Finger Roll,2,2,0,LAYUPS,,2005
-Casey Jacobsen,2418,Hook Shot,2,1,0,POST_MOVES,,2005
-Casey Jacobsen,2418,Jump Shot,2,265,96,JUMP_SHOTS,,2005
-Casey Jacobsen,2418,Reverse Layup,2,12,9,LAYUPS,,2005
-Casey Jacobsen,2418,Running Jump Shot,2,4,3,JUMP_SHOTS,,2005
-Casey Jacobsen,2418,Standard Dunk,2,3,3,DUNKS,,2005
-Casey Jacobsen,2418,Standard Layup,2,80,23,LAYUPS,,2005
-Casey Jacobsen,2418,Tip Shot,2,5,2,TIP_SHOTS,,2005
-Casey Jacobsen,2418,Driving Layup,2,8,7,LAYUPS,,2008
-Casey Jacobsen,2418,Finger Roll,2,1,1,LAYUPS,,2008
-Casey Jacobsen,2418,Jump Shot,2,78,18,JUMP_SHOTS,,2008
-Casey Jacobsen,2418,Reverse Layup,2,2,2,LAYUPS,,2008
-Casey Jacobsen,2418,Running Jump Shot,2,3,1,JUMP_SHOTS,,2008
-Casey Jacobsen,2418,Standard Dunk,2,1,1,DUNKS,,2008
-Casey Jacobsen,2418,Standard Layup,2,21,8,LAYUPS,,2008
-Casey Jacobsen,2418,Tip Shot,2,1,1,TIP_SHOTS,,2008
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Casey Jacobsen,2418,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2003
+Casey Jacobsen,2418,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2003
+Casey Jacobsen,2418,Driving Layup Shot,2,29,23,Driving Layup,LAYUPS,2003
+Casey Jacobsen,2418,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2003
+Casey Jacobsen,2418,Fadeaway Jump Shot,2,2,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2003
+Casey Jacobsen,2418,Jump Shot,2,225,71,2PT Jump Shot,TWO_POINT_JUMPERS,2003
+Casey Jacobsen,2418,Layup Shot,2,53,12,Standard Layup,LAYUPS,2003
+Casey Jacobsen,2418,Reverse Layup Shot,2,10,9,Reverse Layup,LAYUPS,2003
+Casey Jacobsen,2418,Running Jump Shot,2,3,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2003
+Casey Jacobsen,2418,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2003
+Casey Jacobsen,2418,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2004
+Casey Jacobsen,2418,Driving Layup Shot,2,21,16,Driving Layup,LAYUPS,2004
+Casey Jacobsen,2418,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2004
+Casey Jacobsen,2418,Jump Shot,2,254,96,2PT Jump Shot,TWO_POINT_JUMPERS,2004
+Casey Jacobsen,2418,Layup Shot,2,68,29,Standard Layup,LAYUPS,2004
+Casey Jacobsen,2418,Reverse Layup Shot,2,7,3,Reverse Layup,LAYUPS,2004
+Casey Jacobsen,2418,Running Jump Shot,2,2,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2004
+Casey Jacobsen,2418,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2004
+Casey Jacobsen,2418,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,2004
+Casey Jacobsen,2418,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2004
+Casey Jacobsen,2418,Driving Layup Shot,2,36,29,Driving Layup,LAYUPS,2005
+Casey Jacobsen,2418,Dunk Shot,2,3,3,Standard Dunk,DUNKS,2005
+Casey Jacobsen,2418,Finger Roll Shot,2,2,0,Finger Roll,LAYUPS,2005
+Casey Jacobsen,2418,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2005
+Casey Jacobsen,2418,Jump Bank Shot,2,2,2,2PT Jump Shot,TWO_POINT_JUMPERS,2005
+Casey Jacobsen,2418,Jump Shot,2,263,94,2PT Jump Shot,TWO_POINT_JUMPERS,2005
+Casey Jacobsen,2418,Layup Shot,2,80,23,Standard Layup,LAYUPS,2005
+Casey Jacobsen,2418,Reverse Layup Shot,2,12,9,Reverse Layup,LAYUPS,2005
+Casey Jacobsen,2418,Running Jump Shot,2,4,3,2PT Running Jump Shot,TWO_POINT_JUMPERS,2005
+Casey Jacobsen,2418,Tip Shot,2,5,2,Tip Shot,TIP_SHOTS,2005
+Casey Jacobsen,2418,Driving Layup Shot,2,8,7,Driving Layup,LAYUPS,2008
+Casey Jacobsen,2418,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2008
+Casey Jacobsen,2418,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2008
+Casey Jacobsen,2418,Jump Shot,2,78,18,2PT Jump Shot,TWO_POINT_JUMPERS,2008
+Casey Jacobsen,2418,Layup Shot,2,20,8,Standard Layup,LAYUPS,2008
+Casey Jacobsen,2418,Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2008
+Casey Jacobsen,2418,Running Jump Shot,2,3,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2008
+Casey Jacobsen,2418,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2008
+Casey Jacobsen,2418,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2008

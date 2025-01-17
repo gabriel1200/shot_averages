@@ -1,16 +1,26 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Semaj Christon,203902,Driving Jump Shot,2,1,0,JUMP_SHOTS,,2017
-Semaj Christon,203902,Driving Layup,2,35,18,LAYUPS,,2017
-Semaj Christon,203902,Fadeaway Jump Shot,2,2,2,JUMP_SHOTS,,2017
-Semaj Christon,203902,Finger Roll,2,3,2,LAYUPS,,2017
-Semaj Christon,203902,Floating Jump Shot,2,13,5,FLOATING_SHOTS,,2017
-Semaj Christon,203902,Jump Shot,2,89,19,JUMP_SHOTS,,2017
-Semaj Christon,203902,Pullup Jump Shot,2,49,19,JUMP_SHOTS,,2017
-Semaj Christon,203902,Putback Layup,2,1,1,LAYUPS,,2017
-Semaj Christon,203902,Reverse Layup,2,2,1,LAYUPS,,2017
-Semaj Christon,203902,Running Jump Shot,2,2,0,JUMP_SHOTS,,2017
-Semaj Christon,203902,Specialty Dunk,2,1,1,DUNKS,,2017
-Semaj Christon,203902,Standard Dunk,2,1,0,DUNKS,,2017
-Semaj Christon,203902,Standard Layup,2,21,8,LAYUPS,,2017
-Semaj Christon,203902,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2017
-Semaj Christon,203902,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2017
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Semaj Christon,203902,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2017
+Semaj Christon,203902,Cutting Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2017
+Semaj Christon,203902,Cutting Layup Shot,2,7,4,Standard Layup,LAYUPS,2017
+Semaj Christon,203902,Driving Bank shot,2,1,0,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2017
+Semaj Christon,203902,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2017
+Semaj Christon,203902,Driving Floating Bank Jump Shot,2,3,2,2PT Floating Jump Shot,FLOATING_SHOTS,2017
+Semaj Christon,203902,Driving Floating Jump Shot,2,3,1,2PT Floating Jump Shot,FLOATING_SHOTS,2017
+Semaj Christon,203902,Driving Layup Shot,2,31,18,Driving Layup,LAYUPS,2017
+Semaj Christon,203902,Driving Reverse Layup Shot,2,4,0,Driving Layup,LAYUPS,2017
+Semaj Christon,203902,Dunk Shot,2,1,0,Standard Dunk,DUNKS,2017
+Semaj Christon,203902,Fadeaway Jump Shot,2,2,2,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2017
+Semaj Christon,203902,Floating Jump shot,2,7,2,2PT Floating Jump Shot,FLOATING_SHOTS,2017
+Semaj Christon,203902,Jump Bank Shot,2,2,2,2PT Jump Shot,TWO_POINT_JUMPERS,2017
+Semaj Christon,203902,Jump Shot,2,87,17,2PT Jump Shot,TWO_POINT_JUMPERS,2017
+Semaj Christon,203902,Layup Shot,2,10,2,Standard Layup,LAYUPS,2017
+Semaj Christon,203902,Pullup Bank shot,2,5,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2017
+Semaj Christon,203902,Pullup Jump shot,2,44,17,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2017
+Semaj Christon,203902,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2017
+Semaj Christon,203902,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2017
+Semaj Christon,203902,Running Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2017
+Semaj Christon,203902,Running Jump Shot,2,2,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2017
+Semaj Christon,203902,Running Layup Shot,2,4,2,Standard Layup,LAYUPS,2017
+Semaj Christon,203902,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2017
+Semaj Christon,203902,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2017
+Semaj Christon,203902,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2017

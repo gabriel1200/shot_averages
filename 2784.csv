@@ -1,5 +1,5 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Luis Flores,2784,Driving Layup,2,4,3,LAYUPS,,2005
-Luis Flores,2784,Jump Shot,2,21,11,JUMP_SHOTS,,2005
-Luis Flores,2784,Running Jump Shot,2,1,0,JUMP_SHOTS,,2005
-Luis Flores,2784,Standard Layup,2,3,0,LAYUPS,,2005
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Luis Flores,2784,Driving Layup Shot,2,4,3,Driving Layup,LAYUPS,2005
+Luis Flores,2784,Jump Shot,2,21,11,2PT Jump Shot,TWO_POINT_JUMPERS,2005
+Luis Flores,2784,Layup Shot,2,3,0,Standard Layup,LAYUPS,2005
+Luis Flores,2784,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2005

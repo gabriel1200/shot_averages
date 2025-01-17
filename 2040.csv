@@ -1,47 +1,56 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jerome Moiso,2040,Driving Dunk,2,1,0,DUNKS,,2001
-Jerome Moiso,2040,Driving Layup,2,1,1,LAYUPS,,2001
-Jerome Moiso,2040,Jump Shot,2,13,5,JUMP_SHOTS,,2001
-Jerome Moiso,2040,Reverse Dunk,2,2,2,DUNKS,,2001
-Jerome Moiso,2040,Standard Dunk,2,3,1,DUNKS,,2001
-Jerome Moiso,2040,Standard Layup,2,8,2,LAYUPS,,2001
-Jerome Moiso,2040,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2001
-Jerome Moiso,2040,Alley Oop Dunk,2,1,1,DUNKS,,2002
-Jerome Moiso,2040,Jump Shot,2,14,4,JUMP_SHOTS,,2002
-Jerome Moiso,2040,Standard Dunk,2,2,2,DUNKS,,2002
-Jerome Moiso,2040,Standard Layup,2,2,1,LAYUPS,,2002
-Jerome Moiso,2040,Tip Shot,2,1,0,TIP_SHOTS,,2002
-Jerome Moiso,2040,Alley Oop Dunk,2,3,3,DUNKS,,2003
-Jerome Moiso,2040,Alley Oop Layup,2,1,1,LAYUPS,,2003
-Jerome Moiso,2040,Driving Dunk,2,1,1,DUNKS,,2003
-Jerome Moiso,2040,Driving Hook Shot,2,1,0,POST_MOVES,,2003
-Jerome Moiso,2040,Driving Layup,2,1,1,LAYUPS,,2003
-Jerome Moiso,2040,Finger Roll,2,1,1,LAYUPS,,2003
-Jerome Moiso,2040,Hook Shot,2,9,7,POST_MOVES,,2003
-Jerome Moiso,2040,Jump Shot,2,71,17,JUMP_SHOTS,,2003
-Jerome Moiso,2040,Reverse Layup,2,2,1,LAYUPS,,2003
-Jerome Moiso,2040,Running Jump Shot,2,1,1,JUMP_SHOTS,,2003
-Jerome Moiso,2040,Specialty Dunk,2,4,3,DUNKS,,2003
-Jerome Moiso,2040,Standard Dunk,2,28,24,DUNKS,,2003
-Jerome Moiso,2040,Standard Layup,2,30,16,LAYUPS,,2003
-Jerome Moiso,2040,Tip Shot,2,13,8,TIP_SHOTS,,2003
-Jerome Moiso,2040,Turnaround Jump Shot,2,5,5,JUMP_SHOTS,,2003
-Jerome Moiso,2040,Alley Oop Dunk,2,2,2,DUNKS,,2004
-Jerome Moiso,2040,Driving Hook Shot,2,1,0,POST_MOVES,,2004
-Jerome Moiso,2040,Finger Roll,2,2,2,LAYUPS,,2004
-Jerome Moiso,2040,Hook Shot,2,6,2,POST_MOVES,,2004
-Jerome Moiso,2040,Jump Shot,2,33,12,JUMP_SHOTS,,2004
-Jerome Moiso,2040,Jump Shot,3,1,0,JUMP_SHOTS,,2004
-Jerome Moiso,2040,Running Jump Shot,2,2,0,JUMP_SHOTS,,2004
-Jerome Moiso,2040,Standard Dunk,2,9,9,DUNKS,,2004
-Jerome Moiso,2040,Standard Layup,2,15,4,LAYUPS,,2004
-Jerome Moiso,2040,Tip Shot,2,10,7,TIP_SHOTS,,2004
-Jerome Moiso,2040,Turnaround Jump Shot,2,3,2,JUMP_SHOTS,,2004
-Jerome Moiso,2040,Alley Oop Dunk,2,1,1,DUNKS,,2005
-Jerome Moiso,2040,Driving Dunk,2,1,1,DUNKS,,2005
-Jerome Moiso,2040,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2005
-Jerome Moiso,2040,Hook Shot,2,2,1,POST_MOVES,,2005
-Jerome Moiso,2040,Jump Shot,2,5,1,JUMP_SHOTS,,2005
-Jerome Moiso,2040,Standard Layup,2,2,2,LAYUPS,,2005
-Jerome Moiso,2040,Tip Shot,2,5,3,TIP_SHOTS,,2005
-Jerome Moiso,2040,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2005
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Jerome Moiso,2040,Driving Dunk Shot,2,1,0,Driving Dunk,DUNKS,2001
+Jerome Moiso,2040,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2001
+Jerome Moiso,2040,Dunk Shot,2,2,0,Standard Dunk,DUNKS,2001
+Jerome Moiso,2040,Jump Shot,2,13,5,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Jerome Moiso,2040,Layup Shot,2,8,2,Standard Layup,LAYUPS,2001
+Jerome Moiso,2040,Reverse Dunk Shot,2,2,2,Reverse Dunk,DUNKS,2001
+Jerome Moiso,2040,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2001
+Jerome Moiso,2040,Turnaround Jump Shot,2,2,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2001
+Jerome Moiso,2040,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2002
+Jerome Moiso,2040,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2002
+Jerome Moiso,2040,Jump Shot,2,14,4,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Jerome Moiso,2040,Layup Shot,2,2,1,Standard Layup,LAYUPS,2002
+Jerome Moiso,2040,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2002
+Jerome Moiso,2040,Alley Oop Dunk Shot,2,3,3,Alley Oop Dunk,DUNKS,2003
+Jerome Moiso,2040,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2003
+Jerome Moiso,2040,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2003
+Jerome Moiso,2040,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2003
+Jerome Moiso,2040,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2003
+Jerome Moiso,2040,Dunk Shot,2,22,18,Standard Dunk,DUNKS,2003
+Jerome Moiso,2040,Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2003
+Jerome Moiso,2040,Follow Up Dunk Shot,2,4,3,Specialty Dunk,DUNKS,2003
+Jerome Moiso,2040,Hook Shot,2,8,6,Hook Shot,POST_MOVES,2003
+Jerome Moiso,2040,Jump Hook Shot,2,1,1,Hook Shot,POST_MOVES,2003
+Jerome Moiso,2040,Jump Shot,2,71,17,2PT Jump Shot,TWO_POINT_JUMPERS,2003
+Jerome Moiso,2040,Layup Shot,2,30,16,Standard Layup,LAYUPS,2003
+Jerome Moiso,2040,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2003
+Jerome Moiso,2040,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2003
+Jerome Moiso,2040,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2003
+Jerome Moiso,2040,Slam Dunk Shot,2,5,5,Standard Dunk,DUNKS,2003
+Jerome Moiso,2040,Tip Shot,2,13,8,Tip Shot,TIP_SHOTS,2003
+Jerome Moiso,2040,Turnaround Jump Shot,2,5,5,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2003
+Jerome Moiso,2040,Alley Oop Dunk Shot,2,2,2,Alley Oop Dunk,DUNKS,2004
+Jerome Moiso,2040,Driving Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2004
+Jerome Moiso,2040,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2004
+Jerome Moiso,2040,Dunk Shot,2,4,4,Standard Dunk,DUNKS,2004
+Jerome Moiso,2040,Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2004
+Jerome Moiso,2040,Hook Shot,2,5,2,Hook Shot,POST_MOVES,2004
+Jerome Moiso,2040,Jump Bank Shot,2,8,7,2PT Jump Shot,TWO_POINT_JUMPERS,2004
+Jerome Moiso,2040,Jump Hook Shot,2,1,0,Hook Shot,POST_MOVES,2004
+Jerome Moiso,2040,Jump Shot,2,25,5,2PT Jump Shot,TWO_POINT_JUMPERS,2004
+Jerome Moiso,2040,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2004
+Jerome Moiso,2040,Layup Shot,2,15,4,Standard Layup,LAYUPS,2004
+Jerome Moiso,2040,Running Jump Shot,2,2,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2004
+Jerome Moiso,2040,Slam Dunk Shot,2,5,5,Standard Dunk,DUNKS,2004
+Jerome Moiso,2040,Tip Shot,2,10,7,Tip Shot,TIP_SHOTS,2004
+Jerome Moiso,2040,Turnaround Jump Shot,2,3,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2004
+Jerome Moiso,2040,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2005
+Jerome Moiso,2040,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2005
+Jerome Moiso,2040,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2005
+Jerome Moiso,2040,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2005
+Jerome Moiso,2040,Jump Hook Shot,2,1,0,Hook Shot,POST_MOVES,2005
+Jerome Moiso,2040,Jump Shot,2,5,1,2PT Jump Shot,TWO_POINT_JUMPERS,2005
+Jerome Moiso,2040,Layup Shot,2,2,2,Standard Layup,LAYUPS,2005
+Jerome Moiso,2040,Tip Shot,2,5,3,Tip Shot,TIP_SHOTS,2005
+Jerome Moiso,2040,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2005

@@ -1,13 +1,14 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Justin Harper,202712,Driving Layup,2,3,2,LAYUPS,,2012
-Justin Harper,202712,Jump Shot,2,20,2,JUMP_SHOTS,,2012
-Justin Harper,202712,Reverse Layup,2,1,1,LAYUPS,,2012
-Justin Harper,202712,Running Jump Shot,2,1,0,JUMP_SHOTS,,2012
-Justin Harper,202712,Standard Layup,2,3,1,LAYUPS,,2012
-Justin Harper,202712,Step Back Jump Shot,2,1,1,JUMP_SHOTS,,2012
-Justin Harper,202712,Tip Shot,2,2,2,TIP_SHOTS,,2012
-Justin Harper,202712,Jump Shot,2,9,4,JUMP_SHOTS,,2016
-Justin Harper,202712,Jump Shot,3,1,0,JUMP_SHOTS,,2016
-Justin Harper,202712,Jump Shot,2,10,3,JUMP_SHOTS,,2017
-Justin Harper,202712,Pullup Jump Shot,2,1,1,JUMP_SHOTS,,2017
-Justin Harper,202712,Standard Layup,2,1,1,LAYUPS,,2017
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Justin Harper,202712,Driving Layup Shot,2,3,2,Driving Layup,LAYUPS,2012
+Justin Harper,202712,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Justin Harper,202712,Jump Shot,2,19,2,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Justin Harper,202712,Layup Shot,2,3,1,Standard Layup,LAYUPS,2012
+Justin Harper,202712,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2012
+Justin Harper,202712,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2012
+Justin Harper,202712,Step Back Jump shot,2,1,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2012
+Justin Harper,202712,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,2012
+Justin Harper,202712,Jump Shot,2,9,4,2PT Jump Shot,TWO_POINT_JUMPERS,2016
+Justin Harper,202712,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2016
+Justin Harper,202712,Jump Shot,2,10,3,2PT Jump Shot,TWO_POINT_JUMPERS,2017
+Justin Harper,202712,Layup Shot,2,1,1,Standard Layup,LAYUPS,2017
+Justin Harper,202712,Pullup Jump shot,2,1,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2017

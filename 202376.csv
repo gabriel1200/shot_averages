@@ -1,16 +1,18 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Luke Harangody,202376,Driving Dunk,2,1,1,DUNKS,,2011
-Luke Harangody,202376,Driving Layup,2,2,2,LAYUPS,,2011
-Luke Harangody,202376,Jump Shot,2,153,52,JUMP_SHOTS,,2011
-Luke Harangody,202376,Putback Layup,2,2,2,LAYUPS,,2011
-Luke Harangody,202376,Reverse Layup,2,10,6,LAYUPS,,2011
-Luke Harangody,202376,Running Jump Shot,2,1,0,JUMP_SHOTS,,2011
-Luke Harangody,202376,Standard Layup,2,33,14,LAYUPS,,2011
-Luke Harangody,202376,Turnaround Jump Shot,2,4,2,JUMP_SHOTS,,2011
-Luke Harangody,202376,Driving Layup,2,2,1,LAYUPS,,2012
-Luke Harangody,202376,Hook Shot,2,1,0,POST_MOVES,,2012
-Luke Harangody,202376,Jump Shot,2,48,15,JUMP_SHOTS,,2012
-Luke Harangody,202376,Jump Shot,3,1,1,JUMP_SHOTS,,2012
-Luke Harangody,202376,Reverse Layup,2,3,2,LAYUPS,,2012
-Luke Harangody,202376,Standard Layup,2,7,3,LAYUPS,,2012
-Luke Harangody,202376,Tip Shot,2,3,1,TIP_SHOTS,,2012
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Luke Harangody,202376,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,2011
+Luke Harangody,202376,Driving Slam Dunk Shot,2,1,1,Driving Dunk,DUNKS,2011
+Luke Harangody,202376,Jump Shot,2,153,52,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Luke Harangody,202376,Layup Shot,2,31,13,Standard Layup,LAYUPS,2011
+Luke Harangody,202376,Putback Layup Shot,2,2,2,Putback Layup,LAYUPS,2011
+Luke Harangody,202376,Reverse Layup Shot,2,9,5,Reverse Layup,LAYUPS,2011
+Luke Harangody,202376,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2011
+Luke Harangody,202376,Running Layup Shot,2,2,1,Standard Layup,LAYUPS,2011
+Luke Harangody,202376,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2011
+Luke Harangody,202376,Turnaround Jump Shot,2,4,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2011
+Luke Harangody,202376,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2012
+Luke Harangody,202376,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2012
+Luke Harangody,202376,Jump Shot,2,48,15,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Luke Harangody,202376,Jump Shot,3,1,1,3PT Jump Shot,THREE_POINT_JUMPERS,2012
+Luke Harangody,202376,Layup Shot,2,7,3,Standard Layup,LAYUPS,2012
+Luke Harangody,202376,Reverse Layup Shot,2,3,2,Reverse Layup,LAYUPS,2012
+Luke Harangody,202376,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,2012

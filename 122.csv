@@ -1,5 +1,5 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Fred Roberts,122,Driving Layup,2,1,0,LAYUPS,,1997
-Fred Roberts,122,Jump Shot,2,7,2,JUMP_SHOTS,,1997
-Fred Roberts,122,Standard Dunk,2,2,2,DUNKS,,1997
-Fred Roberts,122,Standard Layup,2,5,2,LAYUPS,,1997
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Fred Roberts,122,Driving Layup Shot,2,1,0,Driving Layup,LAYUPS,1997
+Fred Roberts,122,Jump Shot,2,7,2,2PT Jump Shot,TWO_POINT_JUMPERS,1997
+Fred Roberts,122,Layup Shot,2,5,2,Standard Layup,LAYUPS,1997
+Fred Roberts,122,Slam Dunk Shot,2,2,2,Standard Dunk,DUNKS,1997

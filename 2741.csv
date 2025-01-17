@@ -1,32 +1,40 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Robert Swift,2741,Hook Shot,2,2,0,POST_MOVES,,2005
-Robert Swift,2741,Jump Shot,2,7,3,JUMP_SHOTS,,2005
-Robert Swift,2741,Running Hook Shot,2,1,1,POST_MOVES,,2005
-Robert Swift,2741,Standard Layup,2,1,1,LAYUPS,,2005
-Robert Swift,2741,Alley Oop Dunk,2,11,10,DUNKS,,2006
-Robert Swift,2741,Alley Oop Layup,2,5,2,LAYUPS,,2006
-Robert Swift,2741,Driving Dunk,2,4,4,DUNKS,,2006
-Robert Swift,2741,Driving Layup,2,2,2,LAYUPS,,2006
-Robert Swift,2741,Fadeaway Jump Shot,2,2,2,JUMP_SHOTS,,2006
-Robert Swift,2741,Hook Shot,2,3,1,POST_MOVES,,2006
-Robert Swift,2741,Jump Shot,2,83,31,JUMP_SHOTS,,2006
-Robert Swift,2741,Running Jump Shot,2,1,1,JUMP_SHOTS,,2006
-Robert Swift,2741,Specialty Dunk,2,9,7,DUNKS,,2006
-Robert Swift,2741,Standard Dunk,2,20,19,DUNKS,,2006
-Robert Swift,2741,Standard Layup,2,62,24,LAYUPS,,2006
-Robert Swift,2741,Tip Shot,2,21,8,TIP_SHOTS,,2006
-Robert Swift,2741,Turnaround Jump Shot,2,18,13,JUMP_SHOTS,,2006
-Robert Swift,2741,Jump Shot,2,7,3,JUMP_SHOTS,,2008
-Robert Swift,2741,Putback Layup,2,1,1,LAYUPS,,2008
-Robert Swift,2741,Standard Layup,2,7,2,LAYUPS,,2008
-Robert Swift,2741,Tip Shot,2,1,0,TIP_SHOTS,,2008
-Robert Swift,2741,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2008
-Robert Swift,2741,Alley Oop Dunk,2,2,2,DUNKS,,2009
-Robert Swift,2741,Alley Oop Layup,2,4,3,LAYUPS,,2009
-Robert Swift,2741,Fadeaway Jump Shot,2,2,2,JUMP_SHOTS,,2009
-Robert Swift,2741,Hook Shot,2,7,3,POST_MOVES,,2009
-Robert Swift,2741,Jump Shot,2,31,12,JUMP_SHOTS,,2009
-Robert Swift,2741,Standard Dunk,2,6,5,DUNKS,,2009
-Robert Swift,2741,Standard Layup,2,16,8,LAYUPS,,2009
-Robert Swift,2741,Tip Shot,2,2,2,TIP_SHOTS,,2009
-Robert Swift,2741,Turnaround Hook Shot,2,1,0,POST_MOVES,,2009
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Robert Swift,2741,Hook Shot,2,2,0,Hook Shot,POST_MOVES,2005
+Robert Swift,2741,Jump Shot,2,7,3,2PT Jump Shot,TWO_POINT_JUMPERS,2005
+Robert Swift,2741,Layup Shot,2,1,1,Standard Layup,LAYUPS,2005
+Robert Swift,2741,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,2005
+Robert Swift,2741,Alley Oop Dunk Shot,2,11,10,Alley Oop Dunk,DUNKS,2006
+Robert Swift,2741,Alley Oop Layup shot,2,5,2,Alley Oop Layup,LAYUPS,2006
+Robert Swift,2741,Driving Dunk Shot,2,4,4,Driving Dunk,DUNKS,2006
+Robert Swift,2741,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,2006
+Robert Swift,2741,Dunk Shot,2,5,4,Standard Dunk,DUNKS,2006
+Robert Swift,2741,Fadeaway Jump Shot,2,2,2,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2006
+Robert Swift,2741,Follow Up Dunk Shot,2,9,7,Specialty Dunk,DUNKS,2006
+Robert Swift,2741,Hook Shot,2,2,0,Hook Shot,POST_MOVES,2006
+Robert Swift,2741,Jump Bank Shot,2,3,3,2PT Jump Shot,TWO_POINT_JUMPERS,2006
+Robert Swift,2741,Jump Hook Shot,2,1,1,Hook Shot,POST_MOVES,2006
+Robert Swift,2741,Jump Shot,2,80,28,2PT Jump Shot,TWO_POINT_JUMPERS,2006
+Robert Swift,2741,Layup Shot,2,60,24,Standard Layup,LAYUPS,2006
+Robert Swift,2741,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2006
+Robert Swift,2741,Running Layup Shot,2,2,0,Standard Layup,LAYUPS,2006
+Robert Swift,2741,Slam Dunk Shot,2,15,15,Standard Dunk,DUNKS,2006
+Robert Swift,2741,Tip Shot,2,21,8,Tip Shot,TIP_SHOTS,2006
+Robert Swift,2741,Turnaround Jump Shot,2,18,13,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2006
+Robert Swift,2741,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2008
+Robert Swift,2741,Jump Shot,2,6,2,2PT Jump Shot,TWO_POINT_JUMPERS,2008
+Robert Swift,2741,Layup Shot,2,7,2,Standard Layup,LAYUPS,2008
+Robert Swift,2741,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2008
+Robert Swift,2741,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2008
+Robert Swift,2741,Turnaround Bank shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2008
+Robert Swift,2741,Alley Oop Dunk Shot,2,2,2,Alley Oop Dunk,DUNKS,2009
+Robert Swift,2741,Alley Oop Layup shot,2,4,3,Alley Oop Layup,LAYUPS,2009
+Robert Swift,2741,Dunk Shot,2,5,4,Standard Dunk,DUNKS,2009
+Robert Swift,2741,Fadeaway Jump Shot,2,2,2,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2009
+Robert Swift,2741,Hook Bank Shot,2,1,1,Hook Shot,POST_MOVES,2009
+Robert Swift,2741,Hook Shot,2,3,1,Hook Shot,POST_MOVES,2009
+Robert Swift,2741,Jump Hook Shot,2,3,1,Hook Shot,POST_MOVES,2009
+Robert Swift,2741,Jump Shot,2,31,12,2PT Jump Shot,TWO_POINT_JUMPERS,2009
+Robert Swift,2741,Layup Shot,2,16,8,Standard Layup,LAYUPS,2009
+Robert Swift,2741,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2009
+Robert Swift,2741,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,2009
+Robert Swift,2741,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,2009

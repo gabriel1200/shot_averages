@@ -1,11 +1,13 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Maalik Wayns,203146,Driving Layup,2,18,11,LAYUPS,,2013
-Maalik Wayns,203146,Finger Roll,2,1,1,LAYUPS,,2013
-Maalik Wayns,203146,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2013
-Maalik Wayns,203146,Jump Shot,2,52,8,JUMP_SHOTS,,2013
-Maalik Wayns,203146,Pullup Jump Shot,2,3,2,JUMP_SHOTS,,2013
-Maalik Wayns,203146,Reverse Layup,2,3,2,LAYUPS,,2013
-Maalik Wayns,203146,Running Jump Shot,2,2,0,JUMP_SHOTS,,2013
-Maalik Wayns,203146,Standard Layup,2,7,2,LAYUPS,,2013
-Maalik Wayns,203146,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2013
-Maalik Wayns,203146,Jump Shot,2,2,1,JUMP_SHOTS,,2014
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Maalik Wayns,203146,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2013
+Maalik Wayns,203146,Driving Layup Shot,2,17,11,Driving Layup,LAYUPS,2013
+Maalik Wayns,203146,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2013
+Maalik Wayns,203146,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2013
+Maalik Wayns,203146,Jump Shot,2,52,8,2PT Jump Shot,TWO_POINT_JUMPERS,2013
+Maalik Wayns,203146,Layup Shot,2,6,1,Standard Layup,LAYUPS,2013
+Maalik Wayns,203146,Pullup Jump shot,2,3,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2013
+Maalik Wayns,203146,Reverse Layup Shot,2,3,2,Reverse Layup,LAYUPS,2013
+Maalik Wayns,203146,Running Jump Shot,2,2,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2013
+Maalik Wayns,203146,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2013
+Maalik Wayns,203146,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2013
+Maalik Wayns,203146,Jump Shot,2,2,1,2PT Jump Shot,TWO_POINT_JUMPERS,2014

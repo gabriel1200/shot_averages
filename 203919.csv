@@ -1,15 +1,16 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jordan Adams,203919,Driving Jump Shot,2,1,0,JUMP_SHOTS,,2015
-Jordan Adams,203919,Driving Layup,2,2,2,LAYUPS,,2015
-Jordan Adams,203919,Floating Jump Shot,2,1,1,FLOATING_SHOTS,,2015
-Jordan Adams,203919,Jump Shot,2,50,14,JUMP_SHOTS,,2015
-Jordan Adams,203919,Pullup Jump Shot,2,3,2,JUMP_SHOTS,,2015
-Jordan Adams,203919,Reverse Layup,2,3,1,LAYUPS,,2015
-Jordan Adams,203919,Running Jump Shot,2,4,2,JUMP_SHOTS,,2015
-Jordan Adams,203919,Standard Layup,2,18,9,LAYUPS,,2015
-Jordan Adams,203919,Tip Shot,2,2,2,TIP_SHOTS,,2015
-Jordan Adams,203919,Turnaround Jump Shot,2,2,2,JUMP_SHOTS,,2015
-Jordan Adams,203919,Driving Layup,2,1,1,LAYUPS,,2016
-Jordan Adams,203919,Jump Shot,2,2,0,JUMP_SHOTS,,2016
-Jordan Adams,203919,Pullup Jump Shot,2,2,1,JUMP_SHOTS,,2016
-Jordan Adams,203919,Standard Layup,2,1,0,LAYUPS,,2016
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Jordan Adams,203919,Driving Jump shot,2,1,0,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2015
+Jordan Adams,203919,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,2015
+Jordan Adams,203919,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2015
+Jordan Adams,203919,Jump Shot,2,50,14,2PT Jump Shot,TWO_POINT_JUMPERS,2015
+Jordan Adams,203919,Layup Shot,2,16,7,Standard Layup,LAYUPS,2015
+Jordan Adams,203919,Pullup Jump shot,2,3,2,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2015
+Jordan Adams,203919,Reverse Layup Shot,2,3,1,Reverse Layup,LAYUPS,2015
+Jordan Adams,203919,Running Jump Shot,2,4,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2015
+Jordan Adams,203919,Running Layup Shot,2,2,2,Standard Layup,LAYUPS,2015
+Jordan Adams,203919,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,2015
+Jordan Adams,203919,Turnaround Jump Shot,2,2,2,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2015
+Jordan Adams,203919,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2016
+Jordan Adams,203919,Jump Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2016
+Jordan Adams,203919,Pullup Jump shot,2,2,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2016
+Jordan Adams,203919,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2016

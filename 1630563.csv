@@ -1,30 +1,41 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Joshua Primo,1630563,Alley Oop Dunk,2,1,1,DUNKS,,2022
-Joshua Primo,1630563,Alley Oop Layup,2,1,0,LAYUPS,,2022
-Joshua Primo,1630563,Driving Dunk,2,4,3,DUNKS,,2022
-Joshua Primo,1630563,Driving Layup,2,27,8,LAYUPS,,2022
-Joshua Primo,1630563,Finger Roll,2,16,11,LAYUPS,,2022
-Joshua Primo,1630563,Floating Jump Shot,2,30,6,FLOATING_SHOTS,,2022
-Joshua Primo,1630563,Jump Shot,2,122,39,JUMP_SHOTS,,2022
-Joshua Primo,1630563,Pullup Jump Shot,2,29,7,JUMP_SHOTS,,2022
-Joshua Primo,1630563,Putback Layup,2,6,4,LAYUPS,,2022
-Joshua Primo,1630563,Reverse Layup,2,1,0,LAYUPS,,2022
-Joshua Primo,1630563,Running Jump Shot,2,5,0,JUMP_SHOTS,,2022
-Joshua Primo,1630563,Specialty Dunk,2,3,3,DUNKS,,2022
-Joshua Primo,1630563,Standard Dunk,2,1,1,DUNKS,,2022
-Joshua Primo,1630563,Standard Layup,2,16,13,LAYUPS,,2022
-Joshua Primo,1630563,Step Back Jump Shot,2,3,3,JUMP_SHOTS,,2022
-Joshua Primo,1630563,Turnaround Hook Shot,2,3,1,POST_MOVES,,2022
-Joshua Primo,1630563,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2022
-Joshua Primo,1630563,Driving Dunk,2,2,1,DUNKS,,2023
-Joshua Primo,1630563,Driving Layup,2,3,0,LAYUPS,,2023
-Joshua Primo,1630563,Finger Roll,2,1,0,LAYUPS,,2023
-Joshua Primo,1630563,Floating Jump Shot,2,2,2,FLOATING_SHOTS,,2023
-Joshua Primo,1630563,Jump Shot,2,9,2,JUMP_SHOTS,,2023
-Joshua Primo,1630563,Pullup Jump Shot,2,5,3,JUMP_SHOTS,,2023
-Joshua Primo,1630563,Running Jump Shot,2,1,0,JUMP_SHOTS,,2023
-Joshua Primo,1630563,Standard Layup,2,2,1,LAYUPS,,2023
-Joshua Primo,1630563,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2023
-Joshua Primo,1630563,Jump Shot,2,1,0,JUMP_SHOTS,,2024
-Joshua Primo,1630563,Jump Shot,3,1,0,JUMP_SHOTS,,2024
-Joshua Primo,1630563,Standard Layup,2,1,1,LAYUPS,,2024
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Joshua Primo,1630563,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2022
+Joshua Primo,1630563,Cutting Dunk Shot,2,2,2,Specialty Dunk,DUNKS,2022
+Joshua Primo,1630563,Cutting Finger Roll Layup Shot,2,2,1,Finger Roll,LAYUPS,2022
+Joshua Primo,1630563,Cutting Layup Shot,2,4,4,Standard Layup,LAYUPS,2022
+Joshua Primo,1630563,Driving Dunk Shot,2,4,3,Driving Dunk,DUNKS,2022
+Joshua Primo,1630563,Driving Finger Roll Layup Shot,2,10,7,Finger Roll,LAYUPS,2022
+Joshua Primo,1630563,Driving Floating Bank Jump Shot,2,3,0,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Joshua Primo,1630563,Driving Floating Jump Shot,2,23,6,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Joshua Primo,1630563,Driving Layup Shot,2,23,7,Driving Layup,LAYUPS,2022
+Joshua Primo,1630563,Driving Reverse Layup Shot,2,4,1,Driving Layup,LAYUPS,2022
+Joshua Primo,1630563,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2022
+Joshua Primo,1630563,Floating Jump shot,2,4,0,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Joshua Primo,1630563,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2022
+Joshua Primo,1630563,Jump Shot,2,121,39,2PT Jump Shot,TWO_POINT_JUMPERS,2022
+Joshua Primo,1630563,Layup Shot,2,5,2,Standard Layup,LAYUPS,2022
+Joshua Primo,1630563,Pullup Jump shot,2,29,7,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2022
+Joshua Primo,1630563,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2022
+Joshua Primo,1630563,Running Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2022
+Joshua Primo,1630563,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2022
+Joshua Primo,1630563,Running Finger Roll Layup Shot,2,3,2,Finger Roll,LAYUPS,2022
+Joshua Primo,1630563,Running Jump Shot,2,5,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2022
+Joshua Primo,1630563,Running Layup Shot,2,7,7,Standard Layup,LAYUPS,2022
+Joshua Primo,1630563,Step Back Jump shot,2,3,3,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2022
+Joshua Primo,1630563,Tip Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2022
+Joshua Primo,1630563,Tip Layup Shot,2,6,4,Putback Layup,LAYUPS,2022
+Joshua Primo,1630563,Turnaround Fadeaway Bank Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2022
+Joshua Primo,1630563,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2022
+Joshua Primo,1630563,Turnaround Hook Shot,2,3,1,Turnaround Hook Shot,POST_MOVES,2022
+Joshua Primo,1630563,Driving Dunk Shot,2,2,1,Driving Dunk,DUNKS,2023
+Joshua Primo,1630563,Driving Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2023
+Joshua Primo,1630563,Driving Floating Jump Shot,2,2,2,2PT Floating Jump Shot,FLOATING_SHOTS,2023
+Joshua Primo,1630563,Driving Layup Shot,2,3,0,Driving Layup,LAYUPS,2023
+Joshua Primo,1630563,Jump Shot,2,9,2,2PT Jump Shot,TWO_POINT_JUMPERS,2023
+Joshua Primo,1630563,Pullup Jump shot,2,5,3,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2023
+Joshua Primo,1630563,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2023
+Joshua Primo,1630563,Running Layup Shot,2,2,1,Standard Layup,LAYUPS,2023
+Joshua Primo,1630563,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2023
+Joshua Primo,1630563,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2024
+Joshua Primo,1630563,Jump Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2024
+Joshua Primo,1630563,Jump Shot,3,1,0,3PT Jump Shot,THREE_POINT_JUMPERS,2024

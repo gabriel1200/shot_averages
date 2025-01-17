@@ -1,46 +1,57 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Samardo Samuels,202396,Alley Oop Dunk,2,1,1,DUNKS,,2011
-Samardo Samuels,202396,Driving Dunk,2,1,1,DUNKS,,2011
-Samardo Samuels,202396,Driving Layup,2,6,6,LAYUPS,,2011
-Samardo Samuels,202396,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2011
-Samardo Samuels,202396,Hook Shot,2,26,13,POST_MOVES,,2011
-Samardo Samuels,202396,Jump Shot,2,82,18,JUMP_SHOTS,,2011
-Samardo Samuels,202396,Putback Dunk,2,2,2,DUNKS,,2011
-Samardo Samuels,202396,Putback Layup,2,7,7,LAYUPS,,2011
-Samardo Samuels,202396,Reverse Layup,2,1,1,LAYUPS,,2011
-Samardo Samuels,202396,Running Hook Shot,2,3,0,POST_MOVES,,2011
-Samardo Samuels,202396,Standard Dunk,2,30,27,DUNKS,,2011
-Samardo Samuels,202396,Standard Layup,2,72,30,LAYUPS,,2011
-Samardo Samuels,202396,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2011
-Samardo Samuels,202396,Tip Shot,2,5,3,TIP_SHOTS,,2011
-Samardo Samuels,202396,Turnaround Hook Shot,2,2,1,POST_MOVES,,2011
-Samardo Samuels,202396,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2011
-Samardo Samuels,202396,Alley Oop Layup,2,1,0,LAYUPS,,2012
-Samardo Samuels,202396,Driving Dunk,2,2,2,DUNKS,,2012
-Samardo Samuels,202396,Driving Hook Shot,2,1,0,POST_MOVES,,2012
-Samardo Samuels,202396,Driving Jump Shot,2,1,1,JUMP_SHOTS,,2012
-Samardo Samuels,202396,Driving Layup,2,3,3,LAYUPS,,2012
-Samardo Samuels,202396,Fadeaway Jump Shot,2,2,0,JUMP_SHOTS,,2012
-Samardo Samuels,202396,Finger Roll,2,3,3,LAYUPS,,2012
-Samardo Samuels,202396,Hook Shot,2,21,5,POST_MOVES,,2012
-Samardo Samuels,202396,Jump Shot,2,87,28,JUMP_SHOTS,,2012
-Samardo Samuels,202396,Putback Dunk,2,2,2,DUNKS,,2012
-Samardo Samuels,202396,Putback Layup,2,3,2,LAYUPS,,2012
-Samardo Samuels,202396,Reverse Layup,2,2,1,LAYUPS,,2012
-Samardo Samuels,202396,Running Hook Shot,2,1,1,POST_MOVES,,2012
-Samardo Samuels,202396,Standard Dunk,2,22,19,DUNKS,,2012
-Samardo Samuels,202396,Standard Layup,2,70,34,LAYUPS,,2012
-Samardo Samuels,202396,Step Back Jump Shot,2,1,1,JUMP_SHOTS,,2012
-Samardo Samuels,202396,Tip Shot,2,3,2,TIP_SHOTS,,2012
-Samardo Samuels,202396,Turnaround Hook Shot,2,2,1,POST_MOVES,,2012
-Samardo Samuels,202396,Turnaround Jump Shot,2,4,0,JUMP_SHOTS,,2012
-Samardo Samuels,202396,Driving Dunk,2,2,2,DUNKS,,2013
-Samardo Samuels,202396,Driving Layup,2,2,2,LAYUPS,,2013
-Samardo Samuels,202396,Fadeaway Jump Shot,2,2,1,JUMP_SHOTS,,2013
-Samardo Samuels,202396,Hook Shot,2,2,1,POST_MOVES,,2013
-Samardo Samuels,202396,Jump Shot,2,34,6,JUMP_SHOTS,,2013
-Samardo Samuels,202396,Reverse Layup,2,2,2,LAYUPS,,2013
-Samardo Samuels,202396,Standard Dunk,2,3,3,DUNKS,,2013
-Samardo Samuels,202396,Standard Layup,2,9,3,LAYUPS,,2013
-Samardo Samuels,202396,Step Back Jump Shot,2,3,1,JUMP_SHOTS,,2013
-Samardo Samuels,202396,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2013
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Samardo Samuels,202396,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2011
+Samardo Samuels,202396,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2011
+Samardo Samuels,202396,Driving Layup Shot,2,6,6,Driving Layup,LAYUPS,2011
+Samardo Samuels,202396,Dunk Shot,2,20,17,Standard Dunk,DUNKS,2011
+Samardo Samuels,202396,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2011
+Samardo Samuels,202396,Hook Shot,2,10,2,Hook Shot,POST_MOVES,2011
+Samardo Samuels,202396,Jump Bank Shot,2,1,1,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Samardo Samuels,202396,Jump Hook Shot,2,16,11,Hook Shot,POST_MOVES,2011
+Samardo Samuels,202396,Jump Shot,2,81,17,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Samardo Samuels,202396,Layup Shot,2,71,29,Standard Layup,LAYUPS,2011
+Samardo Samuels,202396,Putback Dunk Shot,2,2,2,Putback Dunk,DUNKS,2011
+Samardo Samuels,202396,Putback Layup Shot,2,7,7,Putback Layup,LAYUPS,2011
+Samardo Samuels,202396,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2011
+Samardo Samuels,202396,Running Hook Shot,2,3,0,Running Hook Shot,POST_MOVES,2011
+Samardo Samuels,202396,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2011
+Samardo Samuels,202396,Slam Dunk Shot,2,10,10,Standard Dunk,DUNKS,2011
+Samardo Samuels,202396,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2011
+Samardo Samuels,202396,Tip Shot,2,5,3,Tip Shot,TIP_SHOTS,2011
+Samardo Samuels,202396,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,2011
+Samardo Samuels,202396,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2011
+Samardo Samuels,202396,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2012
+Samardo Samuels,202396,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2012
+Samardo Samuels,202396,Driving Finger Roll Layup Shot,2,2,2,Finger Roll,LAYUPS,2012
+Samardo Samuels,202396,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,2012
+Samardo Samuels,202396,Driving Jump shot,2,1,1,2PT Driving Jump Shot,TWO_POINT_JUMPERS,2012
+Samardo Samuels,202396,Driving Layup Shot,2,3,3,Driving Layup,LAYUPS,2012
+Samardo Samuels,202396,Dunk Shot,2,21,18,Standard Dunk,DUNKS,2012
+Samardo Samuels,202396,Fadeaway Jump Shot,2,2,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2012
+Samardo Samuels,202396,Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2012
+Samardo Samuels,202396,Hook Shot,2,11,4,Hook Shot,POST_MOVES,2012
+Samardo Samuels,202396,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Samardo Samuels,202396,Jump Hook Shot,2,10,1,Hook Shot,POST_MOVES,2012
+Samardo Samuels,202396,Jump Shot,2,86,28,2PT Jump Shot,TWO_POINT_JUMPERS,2012
+Samardo Samuels,202396,Layup Shot,2,70,34,Standard Layup,LAYUPS,2012
+Samardo Samuels,202396,Putback Dunk Shot,2,2,2,Putback Dunk,DUNKS,2012
+Samardo Samuels,202396,Putback Layup Shot,2,3,2,Putback Layup,LAYUPS,2012
+Samardo Samuels,202396,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2012
+Samardo Samuels,202396,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,2012
+Samardo Samuels,202396,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2012
+Samardo Samuels,202396,Step Back Jump shot,2,1,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2012
+Samardo Samuels,202396,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,2012
+Samardo Samuels,202396,Turnaround Bank shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2012
+Samardo Samuels,202396,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,2012
+Samardo Samuels,202396,Turnaround Jump Shot,2,3,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2012
+Samardo Samuels,202396,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2013
+Samardo Samuels,202396,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,2013
+Samardo Samuels,202396,Driving Slam Dunk Shot,2,1,1,Driving Dunk,DUNKS,2013
+Samardo Samuels,202396,Dunk Shot,2,3,3,Standard Dunk,DUNKS,2013
+Samardo Samuels,202396,Fadeaway Jump Shot,2,2,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2013
+Samardo Samuels,202396,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2013
+Samardo Samuels,202396,Jump Hook Shot,2,1,1,Hook Shot,POST_MOVES,2013
+Samardo Samuels,202396,Jump Shot,2,34,6,2PT Jump Shot,TWO_POINT_JUMPERS,2013
+Samardo Samuels,202396,Layup Shot,2,9,3,Standard Layup,LAYUPS,2013
+Samardo Samuels,202396,Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2013
+Samardo Samuels,202396,Step Back Jump shot,2,3,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2013
+Samardo Samuels,202396,Turnaround Fadeaway shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2013

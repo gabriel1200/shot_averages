@@ -1,37 +1,37 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Eddie Gill,2109,Driving Layup,2,6,4,LAYUPS,,2001
-Eddie Gill,2109,Jump Shot,2,32,11,JUMP_SHOTS,,2001
-Eddie Gill,2109,Running Jump Shot,2,3,1,JUMP_SHOTS,,2001
-Eddie Gill,2109,Driving Layup,2,5,5,LAYUPS,,2002
-Eddie Gill,2109,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2002
-Eddie Gill,2109,Jump Shot,2,67,27,JUMP_SHOTS,,2002
-Eddie Gill,2109,Jump Shot,3,6,3,JUMP_SHOTS,,2002
-Eddie Gill,2109,Running Jump Shot,2,5,1,JUMP_SHOTS,,2002
-Eddie Gill,2109,Standard Layup,2,8,2,LAYUPS,,2002
-Eddie Gill,2109,Driving Layup,2,3,2,LAYUPS,,2004
-Eddie Gill,2109,Jump Shot,2,25,6,JUMP_SHOTS,,2004
-Eddie Gill,2109,Jump Shot,3,2,1,JUMP_SHOTS,,2004
-Eddie Gill,2109,Running Jump Shot,2,5,5,JUMP_SHOTS,,2004
-Eddie Gill,2109,Standard Layup,2,1,1,LAYUPS,,2004
-Eddie Gill,2109,Driving Layup,2,17,13,LAYUPS,,2005
-Eddie Gill,2109,Fadeaway Jump Shot,2,3,2,JUMP_SHOTS,,2005
-Eddie Gill,2109,Finger Roll,2,1,1,LAYUPS,,2005
-Eddie Gill,2109,Jump Shot,2,181,51,JUMP_SHOTS,,2005
-Eddie Gill,2109,Jump Shot,3,7,4,JUMP_SHOTS,,2005
-Eddie Gill,2109,Reverse Layup,2,2,2,LAYUPS,,2005
-Eddie Gill,2109,Running Jump Shot,2,5,4,JUMP_SHOTS,,2005
-Eddie Gill,2109,Standard Layup,2,25,3,LAYUPS,,2005
-Eddie Gill,2109,Tip Shot,2,1,1,TIP_SHOTS,,2005
-Eddie Gill,2109,Driving Layup,2,4,1,LAYUPS,,2006
-Eddie Gill,2109,Jump Shot,2,35,9,JUMP_SHOTS,,2006
-Eddie Gill,2109,Reverse Layup,2,1,0,LAYUPS,,2006
-Eddie Gill,2109,Standard Layup,2,5,0,LAYUPS,,2006
-Eddie Gill,2109,Driving Layup,2,4,2,LAYUPS,,2008
-Eddie Gill,2109,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2008
-Eddie Gill,2109,Jump Shot,2,20,8,JUMP_SHOTS,,2008
-Eddie Gill,2109,Jump Shot,3,2,1,JUMP_SHOTS,,2008
-Eddie Gill,2109,Running Jump Shot,2,1,0,JUMP_SHOTS,,2008
-Eddie Gill,2109,Standard Layup,2,3,1,LAYUPS,,2008
-Eddie Gill,2109,Jump Shot,2,6,4,JUMP_SHOTS,,2009
-Eddie Gill,2109,Reverse Layup,2,1,1,LAYUPS,,2009
-Eddie Gill,2109,Standard Layup,2,2,1,LAYUPS,,2009
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Eddie Gill,2109,Driving Layup Shot,2,6,4,Driving Layup,LAYUPS,2001
+Eddie Gill,2109,Jump Shot,2,32,11,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Eddie Gill,2109,Running Jump Shot,2,3,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2001
+Eddie Gill,2109,Driving Layup Shot,2,5,5,Driving Layup,LAYUPS,2002
+Eddie Gill,2109,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2002
+Eddie Gill,2109,Jump Shot,2,67,27,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Eddie Gill,2109,Jump Shot,3,6,3,3PT Jump Shot,THREE_POINT_JUMPERS,2002
+Eddie Gill,2109,Layup Shot,2,8,2,Standard Layup,LAYUPS,2002
+Eddie Gill,2109,Running Jump Shot,2,5,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2002
+Eddie Gill,2109,Driving Layup Shot,2,3,2,Driving Layup,LAYUPS,2004
+Eddie Gill,2109,Jump Shot,2,25,6,2PT Jump Shot,TWO_POINT_JUMPERS,2004
+Eddie Gill,2109,Jump Shot,3,2,1,3PT Jump Shot,THREE_POINT_JUMPERS,2004
+Eddie Gill,2109,Layup Shot,2,1,1,Standard Layup,LAYUPS,2004
+Eddie Gill,2109,Running Jump Shot,2,5,5,2PT Running Jump Shot,TWO_POINT_JUMPERS,2004
+Eddie Gill,2109,Driving Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2005
+Eddie Gill,2109,Driving Layup Shot,2,17,13,Driving Layup,LAYUPS,2005
+Eddie Gill,2109,Fadeaway Jump Shot,2,3,2,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2005
+Eddie Gill,2109,Jump Shot,2,181,51,2PT Jump Shot,TWO_POINT_JUMPERS,2005
+Eddie Gill,2109,Jump Shot,3,7,4,3PT Jump Shot,THREE_POINT_JUMPERS,2005
+Eddie Gill,2109,Layup Shot,2,25,3,Standard Layup,LAYUPS,2005
+Eddie Gill,2109,Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2005
+Eddie Gill,2109,Running Jump Shot,2,5,4,2PT Running Jump Shot,TWO_POINT_JUMPERS,2005
+Eddie Gill,2109,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2005
+Eddie Gill,2109,Driving Layup Shot,2,4,1,Driving Layup,LAYUPS,2006
+Eddie Gill,2109,Jump Shot,2,35,9,2PT Jump Shot,TWO_POINT_JUMPERS,2006
+Eddie Gill,2109,Layup Shot,2,5,0,Standard Layup,LAYUPS,2006
+Eddie Gill,2109,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2006
+Eddie Gill,2109,Driving Layup Shot,2,4,2,Driving Layup,LAYUPS,2008
+Eddie Gill,2109,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2008
+Eddie Gill,2109,Jump Shot,2,20,8,2PT Jump Shot,TWO_POINT_JUMPERS,2008
+Eddie Gill,2109,Jump Shot,3,2,1,3PT Jump Shot,THREE_POINT_JUMPERS,2008
+Eddie Gill,2109,Layup Shot,2,3,1,Standard Layup,LAYUPS,2008
+Eddie Gill,2109,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2008
+Eddie Gill,2109,Jump Shot,2,6,4,2PT Jump Shot,TWO_POINT_JUMPERS,2009
+Eddie Gill,2109,Layup Shot,2,2,1,Standard Layup,LAYUPS,2009
+Eddie Gill,2109,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2009

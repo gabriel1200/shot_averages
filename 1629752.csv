@@ -1,17 +1,22 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Juwan Morgan,1629752,Alley Oop Dunk,2,1,0,DUNKS,,2020
-Juwan Morgan,1629752,Floating Jump Shot,2,1,1,FLOATING_SHOTS,,2020
-Juwan Morgan,1629752,Jump Shot,2,8,3,JUMP_SHOTS,,2020
-Juwan Morgan,1629752,Putback Layup,2,8,4,LAYUPS,,2020
-Juwan Morgan,1629752,Reverse Layup,2,2,2,LAYUPS,,2020
-Juwan Morgan,1629752,Standard Layup,2,6,5,LAYUPS,,2020
-Juwan Morgan,1629752,Alley Oop Layup,2,1,0,LAYUPS,,2021
-Juwan Morgan,1629752,Jump Shot,2,14,4,JUMP_SHOTS,,2021
-Juwan Morgan,1629752,Putback Layup,2,5,3,LAYUPS,,2021
-Juwan Morgan,1629752,Reverse Layup,2,2,1,LAYUPS,,2021
-Juwan Morgan,1629752,Specialty Dunk,2,1,1,DUNKS,,2021
-Juwan Morgan,1629752,Standard Dunk,2,1,1,DUNKS,,2021
-Juwan Morgan,1629752,Standard Layup,2,5,3,LAYUPS,,2021
-Juwan Morgan,1629752,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2021
-Juwan Morgan,1629752,Jump Shot,2,2,1,JUMP_SHOTS,,2022
-Juwan Morgan,1629752,Standard Layup,2,1,1,LAYUPS,,2022
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Juwan Morgan,1629752,Alley Oop Dunk Shot,2,1,0,Alley Oop Dunk,DUNKS,2020
+Juwan Morgan,1629752,Cutting Layup Shot,2,4,3,Standard Layup,LAYUPS,2020
+Juwan Morgan,1629752,Floating Jump shot,2,1,1,2PT Floating Jump Shot,FLOATING_SHOTS,2020
+Juwan Morgan,1629752,Jump Shot,2,8,3,2PT Jump Shot,TWO_POINT_JUMPERS,2020
+Juwan Morgan,1629752,Layup Shot,2,2,2,Standard Layup,LAYUPS,2020
+Juwan Morgan,1629752,Putback Layup Shot,2,3,3,Putback Layup,LAYUPS,2020
+Juwan Morgan,1629752,Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2020
+Juwan Morgan,1629752,Tip Layup Shot,2,5,1,Putback Layup,LAYUPS,2020
+Juwan Morgan,1629752,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2021
+Juwan Morgan,1629752,Cutting Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2021
+Juwan Morgan,1629752,Cutting Layup Shot,2,2,1,Standard Layup,LAYUPS,2021
+Juwan Morgan,1629752,Jump Shot,2,14,4,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Juwan Morgan,1629752,Layup Shot,2,2,1,Standard Layup,LAYUPS,2021
+Juwan Morgan,1629752,Putback Layup Shot,2,3,2,Putback Layup,LAYUPS,2021
+Juwan Morgan,1629752,Reverse Layup Shot,2,2,1,Reverse Layup,LAYUPS,2021
+Juwan Morgan,1629752,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2021
+Juwan Morgan,1629752,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2021
+Juwan Morgan,1629752,Tip Layup Shot,2,2,1,Putback Layup,LAYUPS,2021
+Juwan Morgan,1629752,Turnaround Fadeaway Bank Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2021
+Juwan Morgan,1629752,Cutting Layup Shot,2,1,1,Standard Layup,LAYUPS,2022
+Juwan Morgan,1629752,Jump Shot,2,2,1,2PT Jump Shot,TWO_POINT_JUMPERS,2022

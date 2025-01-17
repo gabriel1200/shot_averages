@@ -1,34 +1,39 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Maurice Ager,200772,Alley Oop Layup,2,1,0,LAYUPS,,2007
-Maurice Ager,200772,Driving Dunk,2,1,1,DUNKS,,2007
-Maurice Ager,200772,Driving Layup,2,6,2,LAYUPS,,2007
-Maurice Ager,200772,Finger Roll,2,1,1,LAYUPS,,2007
-Maurice Ager,200772,Jump Shot,2,43,14,JUMP_SHOTS,,2007
-Maurice Ager,200772,Reverse Layup,2,1,0,LAYUPS,,2007
-Maurice Ager,200772,Running Jump Shot,2,1,1,JUMP_SHOTS,,2007
-Maurice Ager,200772,Standard Dunk,2,3,1,DUNKS,,2007
-Maurice Ager,200772,Standard Layup,2,12,2,LAYUPS,,2007
-Maurice Ager,200772,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2007
-Maurice Ager,200772,Driving Layup,2,2,1,LAYUPS,,2008
-Maurice Ager,200772,Finger Roll,2,1,1,LAYUPS,,2008
-Maurice Ager,200772,Hook Shot,2,1,0,POST_MOVES,,2008
-Maurice Ager,200772,Jump Shot,2,37,9,JUMP_SHOTS,,2008
-Maurice Ager,200772,Jump Shot,3,3,0,JUMP_SHOTS,,2008
-Maurice Ager,200772,Putback Layup,2,1,0,LAYUPS,,2008
-Maurice Ager,200772,Running Jump Shot,2,1,1,JUMP_SHOTS,,2008
-Maurice Ager,200772,Standard Dunk,2,5,5,DUNKS,,2008
-Maurice Ager,200772,Standard Layup,2,13,3,LAYUPS,,2008
-Maurice Ager,200772,Step Back Jump Shot,2,1,1,JUMP_SHOTS,,2008
-Maurice Ager,200772,Driving Layup,2,7,5,LAYUPS,,2009
-Maurice Ager,200772,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2009
-Maurice Ager,200772,Jump Shot,2,18,3,JUMP_SHOTS,,2009
-Maurice Ager,200772,Jump Shot,3,5,0,JUMP_SHOTS,,2009
-Maurice Ager,200772,Putback Layup,2,2,2,LAYUPS,,2009
-Maurice Ager,200772,Standard Dunk,2,2,1,DUNKS,,2009
-Maurice Ager,200772,Standard Layup,2,8,4,LAYUPS,,2009
-Maurice Ager,200772,Driving Layup,2,1,1,LAYUPS,,2011
-Maurice Ager,200772,Hook Shot,2,1,0,POST_MOVES,,2011
-Maurice Ager,200772,Jump Shot,2,3,1,JUMP_SHOTS,,2011
-Maurice Ager,200772,Jump Shot,3,4,3,JUMP_SHOTS,,2011
-Maurice Ager,200772,Running Jump Shot,2,1,0,JUMP_SHOTS,,2011
-Maurice Ager,200772,Standard Layup,2,1,1,LAYUPS,,2011
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Maurice Ager,200772,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2007
+Maurice Ager,200772,Driving Dunk Shot,2,1,1,Driving Dunk,DUNKS,2007
+Maurice Ager,200772,Driving Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2007
+Maurice Ager,200772,Driving Layup Shot,2,6,2,Driving Layup,LAYUPS,2007
+Maurice Ager,200772,Dunk Shot,2,2,0,Standard Dunk,DUNKS,2007
+Maurice Ager,200772,Jump Shot,2,43,14,2PT Jump Shot,TWO_POINT_JUMPERS,2007
+Maurice Ager,200772,Layup Shot,2,9,2,Standard Layup,LAYUPS,2007
+Maurice Ager,200772,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2007
+Maurice Ager,200772,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2007
+Maurice Ager,200772,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2007
+Maurice Ager,200772,Running Layup Shot,2,3,0,Standard Layup,LAYUPS,2007
+Maurice Ager,200772,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2007
+Maurice Ager,200772,Driving Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2008
+Maurice Ager,200772,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2008
+Maurice Ager,200772,Dunk Shot,2,4,4,Standard Dunk,DUNKS,2008
+Maurice Ager,200772,Hook Shot,2,1,0,Hook Shot,POST_MOVES,2008
+Maurice Ager,200772,Jump Shot,2,37,9,2PT Jump Shot,TWO_POINT_JUMPERS,2008
+Maurice Ager,200772,Jump Shot,3,3,0,3PT Jump Shot,THREE_POINT_JUMPERS,2008
+Maurice Ager,200772,Layup Shot,2,13,3,Standard Layup,LAYUPS,2008
+Maurice Ager,200772,Putback Layup Shot,2,1,0,Putback Layup,LAYUPS,2008
+Maurice Ager,200772,Running Dunk Shot,2,1,1,Standard Dunk,DUNKS,2008
+Maurice Ager,200772,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2008
+Maurice Ager,200772,Step Back Jump shot,2,1,1,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2008
+Maurice Ager,200772,Driving Layup Shot,2,7,5,Driving Layup,LAYUPS,2009
+Maurice Ager,200772,Dunk Shot,2,2,1,Standard Dunk,DUNKS,2009
+Maurice Ager,200772,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2009
+Maurice Ager,200772,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2009
+Maurice Ager,200772,Jump Shot,2,17,3,2PT Jump Shot,TWO_POINT_JUMPERS,2009
+Maurice Ager,200772,Jump Shot,3,5,0,3PT Jump Shot,THREE_POINT_JUMPERS,2009
+Maurice Ager,200772,Layup Shot,2,8,4,Standard Layup,LAYUPS,2009
+Maurice Ager,200772,Putback Layup Shot,2,2,2,Putback Layup,LAYUPS,2009
+Maurice Ager,200772,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2011
+Maurice Ager,200772,Jump Bank Shot,3,1,1,3PT Jump Shot,THREE_POINT_JUMPERS,2011
+Maurice Ager,200772,Jump Hook Shot,2,1,0,Hook Shot,POST_MOVES,2011
+Maurice Ager,200772,Jump Shot,2,3,1,2PT Jump Shot,TWO_POINT_JUMPERS,2011
+Maurice Ager,200772,Jump Shot,3,3,2,3PT Jump Shot,THREE_POINT_JUMPERS,2011
+Maurice Ager,200772,Layup Shot,2,1,1,Standard Layup,LAYUPS,2011
+Maurice Ager,200772,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2011

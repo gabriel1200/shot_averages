@@ -1,36 +1,39 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jabari Smith,2074,Jump Shot,2,17,8,JUMP_SHOTS,,2001
-Jabari Smith,2074,Standard Dunk,2,1,1,DUNKS,,2001
-Jabari Smith,2074,Standard Layup,2,3,2,LAYUPS,,2001
-Jabari Smith,2074,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2001
-Jabari Smith,2074,Finger Roll,2,1,1,LAYUPS,,2002
-Jabari Smith,2074,Hook Shot,2,2,1,POST_MOVES,,2002
-Jabari Smith,2074,Jump Shot,2,37,9,JUMP_SHOTS,,2002
-Jabari Smith,2074,Reverse Layup,2,1,1,LAYUPS,,2002
-Jabari Smith,2074,Running Hook Shot,2,1,1,POST_MOVES,,2002
-Jabari Smith,2074,Standard Dunk,2,5,4,DUNKS,,2002
-Jabari Smith,2074,Standard Layup,2,15,8,LAYUPS,,2002
-Jabari Smith,2074,Turnaround Hook Shot,2,1,1,POST_MOVES,,2002
-Jabari Smith,2074,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2004
-Jabari Smith,2074,Hook Shot,2,1,1,POST_MOVES,,2004
-Jabari Smith,2074,Jump Shot,2,52,15,JUMP_SHOTS,,2004
-Jabari Smith,2074,Reverse Dunk,2,1,1,DUNKS,,2004
-Jabari Smith,2074,Reverse Layup,2,1,1,LAYUPS,,2004
-Jabari Smith,2074,Specialty Dunk,2,2,2,DUNKS,,2004
-Jabari Smith,2074,Standard Dunk,2,1,1,DUNKS,,2004
-Jabari Smith,2074,Standard Layup,2,9,3,LAYUPS,,2004
-Jabari Smith,2074,Tip Shot,2,1,1,TIP_SHOTS,,2004
-Jabari Smith,2074,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2004
-Jabari Smith,2074,Alley Oop Dunk,2,1,1,DUNKS,,2005
-Jabari Smith,2074,Driving Dunk,2,2,2,DUNKS,,2005
-Jabari Smith,2074,Driving Layup,2,2,1,LAYUPS,,2005
-Jabari Smith,2074,Fadeaway Jump Shot,2,2,1,JUMP_SHOTS,,2005
-Jabari Smith,2074,Hook Shot,2,2,0,POST_MOVES,,2005
-Jabari Smith,2074,Jump Shot,2,95,38,JUMP_SHOTS,,2005
-Jabari Smith,2074,Reverse Layup,2,1,0,LAYUPS,,2005
-Jabari Smith,2074,Running Jump Shot,2,2,2,JUMP_SHOTS,,2005
-Jabari Smith,2074,Specialty Dunk,2,1,0,DUNKS,,2005
-Jabari Smith,2074,Standard Dunk,2,4,4,DUNKS,,2005
-Jabari Smith,2074,Standard Layup,2,27,12,LAYUPS,,2005
-Jabari Smith,2074,Tip Shot,2,8,1,TIP_SHOTS,,2005
-Jabari Smith,2074,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2005
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Jabari Smith,2074,Jump Shot,2,17,8,2PT Jump Shot,TWO_POINT_JUMPERS,2001
+Jabari Smith,2074,Layup Shot,2,3,2,Standard Layup,LAYUPS,2001
+Jabari Smith,2074,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2001
+Jabari Smith,2074,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2001
+Jabari Smith,2074,Dunk Shot,2,2,2,Standard Dunk,DUNKS,2002
+Jabari Smith,2074,Finger Roll Shot,2,1,1,Finger Roll,LAYUPS,2002
+Jabari Smith,2074,Hook Shot,2,1,1,Hook Shot,POST_MOVES,2002
+Jabari Smith,2074,Jump Hook Shot,2,1,0,Hook Shot,POST_MOVES,2002
+Jabari Smith,2074,Jump Shot,2,37,9,2PT Jump Shot,TWO_POINT_JUMPERS,2002
+Jabari Smith,2074,Layup Shot,2,14,7,Standard Layup,LAYUPS,2002
+Jabari Smith,2074,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2002
+Jabari Smith,2074,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,2002
+Jabari Smith,2074,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2002
+Jabari Smith,2074,Slam Dunk Shot,2,3,2,Standard Dunk,DUNKS,2002
+Jabari Smith,2074,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2002
+Jabari Smith,2074,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2004
+Jabari Smith,2074,Fadeaway Jump Shot,2,1,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2004
+Jabari Smith,2074,Follow Up Dunk Shot,2,2,2,Specialty Dunk,DUNKS,2004
+Jabari Smith,2074,Jump Hook Shot,2,1,1,Hook Shot,POST_MOVES,2004
+Jabari Smith,2074,Jump Shot,2,52,15,2PT Jump Shot,TWO_POINT_JUMPERS,2004
+Jabari Smith,2074,Layup Shot,2,9,3,Standard Layup,LAYUPS,2004
+Jabari Smith,2074,Reverse Dunk Shot,2,1,1,Reverse Dunk,DUNKS,2004
+Jabari Smith,2074,Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2004
+Jabari Smith,2074,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2004
+Jabari Smith,2074,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2004
+Jabari Smith,2074,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2005
+Jabari Smith,2074,Driving Dunk Shot,2,2,2,Driving Dunk,DUNKS,2005
+Jabari Smith,2074,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2005
+Jabari Smith,2074,Dunk Shot,2,4,4,Standard Dunk,DUNKS,2005
+Jabari Smith,2074,Fadeaway Jump Shot,2,2,1,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2005
+Jabari Smith,2074,Follow Up Dunk Shot,2,1,0,Specialty Dunk,DUNKS,2005
+Jabari Smith,2074,Hook Shot,2,2,0,Hook Shot,POST_MOVES,2005
+Jabari Smith,2074,Jump Shot,2,95,38,2PT Jump Shot,TWO_POINT_JUMPERS,2005
+Jabari Smith,2074,Layup Shot,2,27,12,Standard Layup,LAYUPS,2005
+Jabari Smith,2074,Reverse Layup Shot,2,1,0,Reverse Layup,LAYUPS,2005
+Jabari Smith,2074,Running Jump Shot,2,2,2,2PT Running Jump Shot,TWO_POINT_JUMPERS,2005
+Jabari Smith,2074,Tip Shot,2,8,1,Tip Shot,TIP_SHOTS,2005
+Jabari Smith,2074,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2005

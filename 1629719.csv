@@ -1,31 +1,36 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Devontae Cacok,1629719,Putback Layup,2,1,0,LAYUPS,,2020
-Devontae Cacok,1629719,Standard Layup,2,3,1,LAYUPS,,2020
-Devontae Cacok,1629719,Turnaround Hook Shot,2,1,1,POST_MOVES,,2020
-Devontae Cacok,1629719,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2020
-Devontae Cacok,1629719,Alley Oop Dunk,2,2,2,DUNKS,,2021
-Devontae Cacok,1629719,Driving Hook Shot,2,1,1,POST_MOVES,,2021
-Devontae Cacok,1629719,Driving Layup,2,2,1,LAYUPS,,2021
-Devontae Cacok,1629719,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2021
-Devontae Cacok,1629719,Finger Roll,2,1,1,LAYUPS,,2021
-Devontae Cacok,1629719,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2021
-Devontae Cacok,1629719,Jump Shot,2,2,0,JUMP_SHOTS,,2021
-Devontae Cacok,1629719,Putback Dunk,2,1,1,DUNKS,,2021
-Devontae Cacok,1629719,Putback Layup,2,3,2,LAYUPS,,2021
-Devontae Cacok,1629719,Specialty Dunk,2,3,3,DUNKS,,2021
-Devontae Cacok,1629719,Standard Dunk,2,4,2,DUNKS,,2021
-Devontae Cacok,1629719,Standard Layup,2,6,3,LAYUPS,,2021
-Devontae Cacok,1629719,Turnaround Hook Shot,2,1,1,POST_MOVES,,2021
-Devontae Cacok,1629719,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2021
-Devontae Cacok,1629719,Driving Hook Shot,2,2,1,POST_MOVES,,2022
-Devontae Cacok,1629719,Driving Layup,2,1,0,LAYUPS,,2022
-Devontae Cacok,1629719,Finger Roll,2,1,1,LAYUPS,,2022
-Devontae Cacok,1629719,Floating Jump Shot,2,6,4,FLOATING_SHOTS,,2022
-Devontae Cacok,1629719,Hook Shot,2,3,3,POST_MOVES,,2022
-Devontae Cacok,1629719,Putback Layup,2,4,2,LAYUPS,,2022
-Devontae Cacok,1629719,Reverse Layup,2,1,1,LAYUPS,,2022
-Devontae Cacok,1629719,Specialty Dunk,2,1,1,DUNKS,,2022
-Devontae Cacok,1629719,Standard Dunk,2,2,2,DUNKS,,2022
-Devontae Cacok,1629719,Standard Layup,2,7,4,LAYUPS,,2022
-Devontae Cacok,1629719,Turnaround Hook Shot,2,2,1,POST_MOVES,,2022
-Devontae Cacok,1629719,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2022
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Devontae Cacok,1629719,Layup Shot,2,3,1,Standard Layup,LAYUPS,2020
+Devontae Cacok,1629719,Tip Layup Shot,2,1,0,Putback Layup,LAYUPS,2020
+Devontae Cacok,1629719,Turnaround Fadeaway shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2020
+Devontae Cacok,1629719,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2020
+Devontae Cacok,1629719,Alley Oop Dunk Shot,2,2,2,Alley Oop Dunk,DUNKS,2021
+Devontae Cacok,1629719,Cutting Dunk Shot,2,3,3,Specialty Dunk,DUNKS,2021
+Devontae Cacok,1629719,Cutting Layup Shot,2,4,2,Standard Layup,LAYUPS,2021
+Devontae Cacok,1629719,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,2021
+Devontae Cacok,1629719,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2021
+Devontae Cacok,1629719,Dunk Shot,2,4,2,Standard Dunk,DUNKS,2021
+Devontae Cacok,1629719,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2021
+Devontae Cacok,1629719,Floating Jump shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Devontae Cacok,1629719,Jump Shot,2,2,0,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Devontae Cacok,1629719,Layup Shot,2,2,1,Standard Layup,LAYUPS,2021
+Devontae Cacok,1629719,Putback Dunk Shot,2,1,1,Putback Dunk,DUNKS,2021
+Devontae Cacok,1629719,Putback Layup Shot,2,1,1,Putback Layup,LAYUPS,2021
+Devontae Cacok,1629719,Running Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2021
+Devontae Cacok,1629719,Tip Layup Shot,2,2,1,Putback Layup,LAYUPS,2021
+Devontae Cacok,1629719,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,2021
+Devontae Cacok,1629719,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2021
+Devontae Cacok,1629719,Cutting Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2022
+Devontae Cacok,1629719,Cutting Layup Shot,2,3,3,Standard Layup,LAYUPS,2022
+Devontae Cacok,1629719,Driving Floating Jump Shot,2,3,2,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Devontae Cacok,1629719,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,2022
+Devontae Cacok,1629719,Driving Reverse Layup Shot,2,1,0,Driving Layup,LAYUPS,2022
+Devontae Cacok,1629719,Floating Jump shot,2,3,2,2PT Floating Jump Shot,FLOATING_SHOTS,2022
+Devontae Cacok,1629719,Hook Shot,2,3,3,Hook Shot,POST_MOVES,2022
+Devontae Cacok,1629719,Layup Shot,2,4,1,Standard Layup,LAYUPS,2022
+Devontae Cacok,1629719,Putback Layup Shot,2,1,0,Putback Layup,LAYUPS,2022
+Devontae Cacok,1629719,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2022
+Devontae Cacok,1629719,Running Reverse Layup Shot,2,1,1,Reverse Layup,LAYUPS,2022
+Devontae Cacok,1629719,Tip Dunk Shot,2,1,1,Specialty Dunk,DUNKS,2022
+Devontae Cacok,1629719,Tip Layup Shot,2,3,2,Putback Layup,LAYUPS,2022
+Devontae Cacok,1629719,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,2022
+Devontae Cacok,1629719,Turnaround Jump Shot,2,1,1,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2022

@@ -1,38 +1,51 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Rafael Araujo,2737,Alley Oop Layup,2,1,1,LAYUPS,,2005
-Rafael Araujo,2737,Driving Dunk,2,1,0,DUNKS,,2005
-Rafael Araujo,2737,Driving Hook Shot,2,2,1,POST_MOVES,,2005
-Rafael Araujo,2737,Driving Layup,2,2,1,LAYUPS,,2005
-Rafael Araujo,2737,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2005
-Rafael Araujo,2737,Finger Roll,2,1,0,LAYUPS,,2005
-Rafael Araujo,2737,Hook Shot,2,19,7,POST_MOVES,,2005
-Rafael Araujo,2737,Jump Shot,2,64,20,JUMP_SHOTS,,2005
-Rafael Araujo,2737,Running Hook Shot,2,2,0,POST_MOVES,,2005
-Rafael Araujo,2737,Running Jump Shot,2,1,1,JUMP_SHOTS,,2005
-Rafael Araujo,2737,Specialty Dunk,2,4,2,DUNKS,,2005
-Rafael Araujo,2737,Standard Dunk,2,5,3,DUNKS,,2005
-Rafael Araujo,2737,Standard Layup,2,44,26,LAYUPS,,2005
-Rafael Araujo,2737,Tip Shot,2,18,10,TIP_SHOTS,,2005
-Rafael Araujo,2737,Turnaround Jump Shot,2,10,4,JUMP_SHOTS,,2005
-Rafael Araujo,2737,Alley Oop Dunk,2,1,1,DUNKS,,2006
-Rafael Araujo,2737,Alley Oop Layup,2,1,0,LAYUPS,,2006
-Rafael Araujo,2737,Driving Layup,2,8,1,LAYUPS,,2006
-Rafael Araujo,2737,Hook Shot,2,24,9,POST_MOVES,,2006
-Rafael Araujo,2737,Jump Shot,2,52,15,JUMP_SHOTS,,2006
-Rafael Araujo,2737,Reverse Layup,2,3,2,LAYUPS,,2006
-Rafael Araujo,2737,Running Hook Shot,2,2,0,POST_MOVES,,2006
-Rafael Araujo,2737,Running Jump Shot,2,1,0,JUMP_SHOTS,,2006
-Rafael Araujo,2737,Standard Dunk,2,7,7,DUNKS,,2006
-Rafael Araujo,2737,Standard Layup,2,31,12,LAYUPS,,2006
-Rafael Araujo,2737,Tip Shot,2,5,3,TIP_SHOTS,,2006
-Rafael Araujo,2737,Turnaround Hook Shot,2,4,0,POST_MOVES,,2006
-Rafael Araujo,2737,Turnaround Jump Shot,2,6,3,JUMP_SHOTS,,2006
-Rafael Araujo,2737,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2007
-Rafael Araujo,2737,Hook Shot,2,9,4,POST_MOVES,,2007
-Rafael Araujo,2737,Jump Shot,2,31,11,JUMP_SHOTS,,2007
-Rafael Araujo,2737,Reverse Layup,2,2,2,LAYUPS,,2007
-Rafael Araujo,2737,Running Hook Shot,2,2,1,POST_MOVES,,2007
-Rafael Araujo,2737,Standard Dunk,2,2,2,DUNKS,,2007
-Rafael Araujo,2737,Standard Layup,2,16,7,LAYUPS,,2007
-Rafael Araujo,2737,Tip Shot,2,1,0,TIP_SHOTS,,2007
-Rafael Araujo,2737,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2007
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Rafael Araujo,2737,Alley Oop Layup shot,2,1,1,Alley Oop Layup,LAYUPS,2005
+Rafael Araujo,2737,Driving Dunk Shot,2,1,0,Driving Dunk,DUNKS,2005
+Rafael Araujo,2737,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,2005
+Rafael Araujo,2737,Driving Layup Shot,2,2,1,Driving Layup,LAYUPS,2005
+Rafael Araujo,2737,Dunk Shot,2,4,2,Standard Dunk,DUNKS,2005
+Rafael Araujo,2737,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2005
+Rafael Araujo,2737,Finger Roll Shot,2,1,0,Finger Roll,LAYUPS,2005
+Rafael Araujo,2737,Follow Up Dunk Shot,2,4,2,Specialty Dunk,DUNKS,2005
+Rafael Araujo,2737,Hook Shot,2,10,2,Hook Shot,POST_MOVES,2005
+Rafael Araujo,2737,Jump Bank Shot,2,7,4,2PT Jump Shot,TWO_POINT_JUMPERS,2005
+Rafael Araujo,2737,Jump Hook Shot,2,9,5,Hook Shot,POST_MOVES,2005
+Rafael Araujo,2737,Jump Shot,2,57,16,2PT Jump Shot,TWO_POINT_JUMPERS,2005
+Rafael Araujo,2737,Layup Shot,2,43,26,Standard Layup,LAYUPS,2005
+Rafael Araujo,2737,Running Hook Shot,2,2,0,Running Hook Shot,POST_MOVES,2005
+Rafael Araujo,2737,Running Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2005
+Rafael Araujo,2737,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2005
+Rafael Araujo,2737,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2005
+Rafael Araujo,2737,Tip Shot,2,18,10,Tip Shot,TIP_SHOTS,2005
+Rafael Araujo,2737,Turnaround Jump Shot,2,10,4,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2005
+Rafael Araujo,2737,Alley Oop Dunk Shot,2,1,1,Alley Oop Dunk,DUNKS,2006
+Rafael Araujo,2737,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2006
+Rafael Araujo,2737,Driving Layup Shot,2,8,1,Driving Layup,LAYUPS,2006
+Rafael Araujo,2737,Dunk Shot,2,4,4,Standard Dunk,DUNKS,2006
+Rafael Araujo,2737,Hook Shot,2,15,5,Hook Shot,POST_MOVES,2006
+Rafael Araujo,2737,Jump Bank Shot,2,5,2,2PT Jump Shot,TWO_POINT_JUMPERS,2006
+Rafael Araujo,2737,Jump Hook Shot,2,9,4,Hook Shot,POST_MOVES,2006
+Rafael Araujo,2737,Jump Shot,2,47,13,2PT Jump Shot,TWO_POINT_JUMPERS,2006
+Rafael Araujo,2737,Layup Shot,2,30,11,Standard Layup,LAYUPS,2006
+Rafael Araujo,2737,Reverse Layup Shot,2,3,2,Reverse Layup,LAYUPS,2006
+Rafael Araujo,2737,Running Dunk Shot,2,2,2,Standard Dunk,DUNKS,2006
+Rafael Araujo,2737,Running Hook Shot,2,2,0,Running Hook Shot,POST_MOVES,2006
+Rafael Araujo,2737,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2006
+Rafael Araujo,2737,Running Layup Shot,2,1,1,Standard Layup,LAYUPS,2006
+Rafael Araujo,2737,Running Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,2006
+Rafael Araujo,2737,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2006
+Rafael Araujo,2737,Tip Shot,2,4,2,Tip Shot,TIP_SHOTS,2006
+Rafael Araujo,2737,Turnaround Hook Shot,2,4,0,Turnaround Hook Shot,POST_MOVES,2006
+Rafael Araujo,2737,Turnaround Jump Shot,2,6,3,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2006
+Rafael Araujo,2737,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2007
+Rafael Araujo,2737,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2007
+Rafael Araujo,2737,Hook Shot,2,3,2,Hook Shot,POST_MOVES,2007
+Rafael Araujo,2737,Jump Bank Shot,2,2,1,2PT Jump Shot,TWO_POINT_JUMPERS,2007
+Rafael Araujo,2737,Jump Hook Shot,2,6,2,Hook Shot,POST_MOVES,2007
+Rafael Araujo,2737,Jump Shot,2,29,10,2PT Jump Shot,TWO_POINT_JUMPERS,2007
+Rafael Araujo,2737,Layup Shot,2,16,7,Standard Layup,LAYUPS,2007
+Rafael Araujo,2737,Reverse Layup Shot,2,2,2,Reverse Layup,LAYUPS,2007
+Rafael Araujo,2737,Running Hook Shot,2,2,1,Running Hook Shot,POST_MOVES,2007
+Rafael Araujo,2737,Slam Dunk Shot,2,1,1,Standard Dunk,DUNKS,2007
+Rafael Araujo,2737,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,2007
+Rafael Araujo,2737,Turnaround Jump Shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2007

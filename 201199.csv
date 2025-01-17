@@ -1,11 +1,13 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-DJ Strawberry,201199,Alley Oop Dunk,2,1,0,DUNKS,,2008
-DJ Strawberry,201199,Alley Oop Layup,2,1,0,LAYUPS,,2008
-DJ Strawberry,201199,Driving Layup,2,4,2,LAYUPS,,2008
-DJ Strawberry,201199,Jump Shot,2,57,15,JUMP_SHOTS,,2008
-DJ Strawberry,201199,Jump Shot,3,3,1,JUMP_SHOTS,,2008
-DJ Strawberry,201199,Reverse Layup,2,8,3,LAYUPS,,2008
-DJ Strawberry,201199,Running Jump Shot,2,1,1,JUMP_SHOTS,,2008
-DJ Strawberry,201199,Standard Dunk,2,1,1,DUNKS,,2008
-DJ Strawberry,201199,Standard Layup,2,12,5,LAYUPS,,2008
-DJ Strawberry,201199,Tip Shot,2,4,1,TIP_SHOTS,,2008
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+DJ Strawberry,201199,Alley Oop Dunk Shot,2,1,0,Alley Oop Dunk,DUNKS,2008
+DJ Strawberry,201199,Alley Oop Layup shot,2,1,0,Alley Oop Layup,LAYUPS,2008
+DJ Strawberry,201199,Driving Layup Shot,2,3,1,Driving Layup,LAYUPS,2008
+DJ Strawberry,201199,Driving Reverse Layup Shot,2,1,1,Driving Layup,LAYUPS,2008
+DJ Strawberry,201199,Dunk Shot,2,1,1,Standard Dunk,DUNKS,2008
+DJ Strawberry,201199,Jump Bank Shot,2,1,0,2PT Jump Shot,TWO_POINT_JUMPERS,2008
+DJ Strawberry,201199,Jump Shot,2,56,15,2PT Jump Shot,TWO_POINT_JUMPERS,2008
+DJ Strawberry,201199,Jump Shot,3,3,1,3PT Jump Shot,THREE_POINT_JUMPERS,2008
+DJ Strawberry,201199,Layup Shot,2,12,5,Standard Layup,LAYUPS,2008
+DJ Strawberry,201199,Reverse Layup Shot,2,8,3,Reverse Layup,LAYUPS,2008
+DJ Strawberry,201199,Running Bank shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2008
+DJ Strawberry,201199,Tip Shot,2,4,1,Tip Shot,TIP_SHOTS,2008

@@ -1,4 +1,5 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Shaq Buchanan,1629783,Finger Roll,2,2,1,LAYUPS,,2022
-Shaq Buchanan,1629783,Running Jump Shot,2,1,0,JUMP_SHOTS,,2022
-Shaq Buchanan,1629783,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2022
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Shaq Buchanan,1629783,Cutting Finger Roll Layup Shot,2,1,1,Finger Roll,LAYUPS,2022
+Shaq Buchanan,1629783,Running Finger Roll Layup Shot,2,1,0,Finger Roll,LAYUPS,2022
+Shaq Buchanan,1629783,Running Jump Shot,2,1,0,2PT Running Jump Shot,TWO_POINT_JUMPERS,2022
+Shaq Buchanan,1629783,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2022

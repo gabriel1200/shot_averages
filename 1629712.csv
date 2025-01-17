@@ -1,17 +1,19 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Didi Louzada,1629712,Driving Layup,2,1,1,LAYUPS,,2021
-Didi Louzada,1629712,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2021
-Didi Louzada,1629712,Jump Shot,2,7,2,JUMP_SHOTS,,2021
-Didi Louzada,1629712,Pullup Jump Shot,2,1,0,JUMP_SHOTS,,2021
-Didi Louzada,1629712,Standard Layup,2,2,0,LAYUPS,,2021
-Didi Louzada,1629712,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2021
-Didi Louzada,1629712,Driving Layup,2,2,0,LAYUPS,,2022
-Didi Louzada,1629712,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2022
-Didi Louzada,1629712,Jump Shot,2,18,9,JUMP_SHOTS,,2022
-Didi Louzada,1629712,Jump Shot,3,3,0,JUMP_SHOTS,,2022
-Didi Louzada,1629712,Pullup Jump Shot,2,2,1,JUMP_SHOTS,,2022
-Didi Louzada,1629712,Putback Layup,2,1,1,LAYUPS,,2022
-Didi Louzada,1629712,Running Jump Shot,2,1,1,JUMP_SHOTS,,2022
-Didi Louzada,1629712,Running Jump Shot,3,1,0,JUMP_SHOTS,,2022
-Didi Louzada,1629712,Standard Layup,2,3,0,LAYUPS,,2022
-Didi Louzada,1629712,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2022
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Didi Louzada,1629712,Driving Floating Jump Shot,2,1,0,2PT Floating Jump Shot,FLOATING_SHOTS,2021
+Didi Louzada,1629712,Driving Layup Shot,2,1,1,Driving Layup,LAYUPS,2021
+Didi Louzada,1629712,Jump Shot,2,7,2,2PT Jump Shot,TWO_POINT_JUMPERS,2021
+Didi Louzada,1629712,Layup Shot,2,1,0,Standard Layup,LAYUPS,2021
+Didi Louzada,1629712,Pullup Jump shot,2,1,0,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2021
+Didi Louzada,1629712,Running Layup Shot,2,1,0,Standard Layup,LAYUPS,2021
+Didi Louzada,1629712,Step Back Jump shot,2,1,0,2PT Step Back Jump Shot,TWO_POINT_JUMPERS,2021
+Didi Louzada,1629712,Driving Layup Shot,2,2,0,Driving Layup,LAYUPS,2022
+Didi Louzada,1629712,Fadeaway Jump Shot,2,1,0,2PT Fadeaway Jump Shot,TWO_POINT_JUMPERS,2022
+Didi Louzada,1629712,Jump Shot,2,18,9,2PT Jump Shot,TWO_POINT_JUMPERS,2022
+Didi Louzada,1629712,Jump Shot,3,3,0,3PT Jump Shot,THREE_POINT_JUMPERS,2022
+Didi Louzada,1629712,Layup Shot,2,1,0,Standard Layup,LAYUPS,2022
+Didi Louzada,1629712,Pullup Jump shot,2,2,1,2PT Pullup Jump Shot,TWO_POINT_JUMPERS,2022
+Didi Louzada,1629712,Running Layup Shot,2,2,0,Standard Layup,LAYUPS,2022
+Didi Louzada,1629712,Running Pull-Up Jump Shot,2,1,1,2PT Running Jump Shot,TWO_POINT_JUMPERS,2022
+Didi Louzada,1629712,Running Pull-Up Jump Shot,3,1,0,3PT Running Jump Shot,THREE_POINT_JUMPERS,2022
+Didi Louzada,1629712,Tip Layup Shot,2,1,1,Putback Layup,LAYUPS,2022
+Didi Louzada,1629712,Turnaround Fadeaway shot,2,1,0,2PT Turnaround Jump Shot,TWO_POINT_JUMPERS,2022

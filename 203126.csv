@@ -1,4 +1,4 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Kris Joseph,203126,Driving Layup,2,2,2,LAYUPS,,2013
-Kris Joseph,203126,Jump Shot,2,10,0,JUMP_SHOTS,,2013
-Kris Joseph,203126,Standard Layup,2,2,0,LAYUPS,,2013
+PLAYER_NAME,PLAYER_ID,ACTION_TYPE,SHOT_TYPE,shot_count,shot_makes,shot_description,shot_group,year
+Kris Joseph,203126,Driving Layup Shot,2,2,2,Driving Layup,LAYUPS,2013
+Kris Joseph,203126,Jump Shot,2,10,0,2PT Jump Shot,TWO_POINT_JUMPERS,2013
+Kris Joseph,203126,Layup Shot,2,2,0,Standard Layup,LAYUPS,2013
