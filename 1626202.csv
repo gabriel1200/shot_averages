@@ -1,57 +1,41 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Joe Young,1626202,Standard Layup,2,2,1,Cutting Layup Shot,LAYUPS,,2016
-Joe Young,1626202,Driving Jump Shot,2,2,2,Driving Bank shot,JUMP_SHOTS,,2016
-Joe Young,1626202,Finger Roll,2,6,4,Driving Finger Roll Layup Shot,LAYUPS,,2016
-Joe Young,1626202,Driving Layup,2,12,7,Driving Layup Shot,LAYUPS,,2016
-Joe Young,1626202,Driving Layup,2,2,0,Driving Reverse Layup Shot,LAYUPS,,2016
-Joe Young,1626202,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,2016
-Joe Young,1626202,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2016
-Joe Young,1626202,Floating Jump Shot,2,4,3,Floating Jump shot,FLOATING_SHOTS,,2016
-Joe Young,1626202,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2016
-Joe Young,1626202,Jump Shot,2,75,18,Jump Shot,JUMP_SHOTS,,2016
-Joe Young,1626202,Jump Shot,3,10,1,Jump Shot,JUMP_SHOTS,,2016
-Joe Young,1626202,Standard Layup,2,8,2,Layup Shot,LAYUPS,,2016
-Joe Young,1626202,Pullup Jump Shot,2,29,11,Pullup Jump shot,JUMP_SHOTS,,2016
-Joe Young,1626202,Pullup Jump Shot,3,2,1,Pullup Jump shot,JUMP_SHOTS,,2016
-Joe Young,1626202,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2016
-Joe Young,1626202,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2016
-Joe Young,1626202,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2016
-Joe Young,1626202,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2016
-Joe Young,1626202,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2016
-Joe Young,1626202,Turnaround Jump Shot,2,4,2,Turnaround Jump Shot,JUMP_SHOTS,,2016
-Joe Young,1626202,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2017
-Joe Young,1626202,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2017
-Joe Young,1626202,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2017
-Joe Young,1626202,Driving Layup,2,5,0,Driving Layup Shot,LAYUPS,,2017
-Joe Young,1626202,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2017
-Joe Young,1626202,Floating Jump Shot,2,2,0,Floating Jump shot,FLOATING_SHOTS,,2017
-Joe Young,1626202,Jump Shot,2,31,8,Jump Shot,JUMP_SHOTS,,2017
-Joe Young,1626202,Jump Shot,3,9,1,Jump Shot,JUMP_SHOTS,,2017
-Joe Young,1626202,Standard Layup,2,2,1,Layup Shot,LAYUPS,,2017
-Joe Young,1626202,Pullup Jump Shot,2,11,7,Pullup Jump shot,JUMP_SHOTS,,2017
-Joe Young,1626202,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2017
-Joe Young,1626202,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2017
-Joe Young,1626202,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2017
-Joe Young,1626202,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2017
-Joe Young,1626202,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2017
-Joe Young,1626202,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2018
-Joe Young,1626202,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2018
-Joe Young,1626202,Finger Roll,2,10,7,Driving Finger Roll Layup Shot,LAYUPS,,2018
-Joe Young,1626202,Floating Jump Shot,2,2,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
-Joe Young,1626202,Floating Jump Shot,2,2,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
-Joe Young,1626202,Driving Layup,2,18,8,Driving Layup Shot,LAYUPS,,2018
-Joe Young,1626202,Driving Layup,2,4,2,Driving Reverse Layup Shot,LAYUPS,,2018
-Joe Young,1626202,Floating Jump Shot,2,6,2,Floating Jump shot,FLOATING_SHOTS,,2018
-Joe Young,1626202,Jump Shot,3,2,0,Jump Bank Shot,JUMP_SHOTS,,2018
-Joe Young,1626202,Jump Shot,2,28,7,Jump Shot,JUMP_SHOTS,,2018
-Joe Young,1626202,Jump Shot,3,46,18,Jump Shot,JUMP_SHOTS,,2018
-Joe Young,1626202,Standard Layup,2,7,2,Layup Shot,LAYUPS,,2018
-Joe Young,1626202,Pullup Jump Shot,2,41,21,Pullup Jump shot,JUMP_SHOTS,,2018
-Joe Young,1626202,Pullup Jump Shot,3,5,3,Pullup Jump shot,JUMP_SHOTS,,2018
-Joe Young,1626202,Standard Dunk,2,1,0,Running Dunk Shot,DUNKS,,2018
-Joe Young,1626202,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2018
-Joe Young,1626202,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2018
-Joe Young,1626202,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2018
-Joe Young,1626202,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2018
-Joe Young,1626202,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2018
-Joe Young,1626202,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2018
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Joe Young,1626202,Driving Jump Shot,2,2,2,JUMP_SHOTS,,2016
+Joe Young,1626202,Driving Layup,2,14,7,LAYUPS,,2016
+Joe Young,1626202,Finger Roll,2,7,5,LAYUPS,,2016
+Joe Young,1626202,Floating Jump Shot,2,4,3,FLOATING_SHOTS,,2016
+Joe Young,1626202,Jump Shot,2,76,19,JUMP_SHOTS,,2016
+Joe Young,1626202,Jump Shot,3,10,1,JUMP_SHOTS,,2016
+Joe Young,1626202,Pullup Jump Shot,2,29,11,JUMP_SHOTS,,2016
+Joe Young,1626202,Pullup Jump Shot,3,2,1,JUMP_SHOTS,,2016
+Joe Young,1626202,Reverse Layup,2,1,1,LAYUPS,,2016
+Joe Young,1626202,Running Jump Shot,2,1,1,JUMP_SHOTS,,2016
+Joe Young,1626202,Standard Dunk,2,5,4,DUNKS,,2016
+Joe Young,1626202,Standard Layup,2,12,4,LAYUPS,,2016
+Joe Young,1626202,Step Back Jump Shot,2,1,1,JUMP_SHOTS,,2016
+Joe Young,1626202,Turnaround Jump Shot,2,4,2,JUMP_SHOTS,,2016
+Joe Young,1626202,Driving Dunk,2,1,1,DUNKS,,2017
+Joe Young,1626202,Driving Layup,2,5,0,LAYUPS,,2017
+Joe Young,1626202,Finger Roll,2,2,1,LAYUPS,,2017
+Joe Young,1626202,Floating Jump Shot,2,2,0,FLOATING_SHOTS,,2017
+Joe Young,1626202,Jump Shot,2,31,8,JUMP_SHOTS,,2017
+Joe Young,1626202,Jump Shot,3,9,1,JUMP_SHOTS,,2017
+Joe Young,1626202,Pullup Jump Shot,2,11,7,JUMP_SHOTS,,2017
+Joe Young,1626202,Running Jump Shot,2,2,1,JUMP_SHOTS,,2017
+Joe Young,1626202,Standard Dunk,2,1,1,DUNKS,,2017
+Joe Young,1626202,Standard Layup,2,5,4,LAYUPS,,2017
+Joe Young,1626202,Step Back Jump Shot,2,1,1,JUMP_SHOTS,,2017
+Joe Young,1626202,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2017
+Joe Young,1626202,Driving Dunk,2,1,1,DUNKS,,2018
+Joe Young,1626202,Driving Layup,2,22,10,LAYUPS,,2018
+Joe Young,1626202,Finger Roll,2,11,8,LAYUPS,,2018
+Joe Young,1626202,Floating Jump Shot,2,10,3,FLOATING_SHOTS,,2018
+Joe Young,1626202,Jump Shot,2,28,7,JUMP_SHOTS,,2018
+Joe Young,1626202,Jump Shot,3,48,18,JUMP_SHOTS,,2018
+Joe Young,1626202,Pullup Jump Shot,2,41,21,JUMP_SHOTS,,2018
+Joe Young,1626202,Pullup Jump Shot,3,5,3,JUMP_SHOTS,,2018
+Joe Young,1626202,Reverse Layup,2,2,2,LAYUPS,,2018
+Joe Young,1626202,Running Jump Shot,2,2,1,JUMP_SHOTS,,2018
+Joe Young,1626202,Standard Dunk,2,1,0,DUNKS,,2018
+Joe Young,1626202,Standard Layup,2,11,5,LAYUPS,,2018
+Joe Young,1626202,Step Back Jump Shot,2,2,1,JUMP_SHOTS,,2018
+Joe Young,1626202,Turnaround Jump Shot,2,2,0,JUMP_SHOTS,,2018

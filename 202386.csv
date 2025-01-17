@@ -1,41 +1,33 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Ben Uzoh,202386,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2011
-Ben Uzoh,202386,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2011
-Ben Uzoh,202386,Driving Jump Shot,2,1,1,Driving Jump shot,JUMP_SHOTS,,2011
-Ben Uzoh,202386,Driving Layup,2,17,11,Driving Layup Shot,LAYUPS,,2011
-Ben Uzoh,202386,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2011
-Ben Uzoh,202386,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2011
-Ben Uzoh,202386,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2011
-Ben Uzoh,202386,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2011
-Ben Uzoh,202386,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2011
-Ben Uzoh,202386,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2011
-Ben Uzoh,202386,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2011
-Ben Uzoh,202386,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2011
-Ben Uzoh,202386,Jump Shot,2,56,13,Jump Shot,JUMP_SHOTS,,2011
-Ben Uzoh,202386,Standard Layup,2,39,19,Layup Shot,LAYUPS,,2011
-Ben Uzoh,202386,Pullup Jump Shot,2,2,1,Pullup Jump shot,JUMP_SHOTS,,2011
-Ben Uzoh,202386,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2011
-Ben Uzoh,202386,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2011
-Ben Uzoh,202386,Running Jump Shot,2,4,0,Running Jump Shot,JUMP_SHOTS,,2011
-Ben Uzoh,202386,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2011
-Ben Uzoh,202386,Tip Shot,2,3,0,Tip Shot,TIP_SHOTS,,2011
-Ben Uzoh,202386,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2011
-Ben Uzoh,202386,Driving Dunk,2,3,2,Driving Dunk Shot,DUNKS,,2012
-Ben Uzoh,202386,Driving Hook Shot,2,4,3,Driving Hook Shot,POST_MOVES,,2012
-Ben Uzoh,202386,Driving Jump Shot,2,3,1,Driving Jump shot,JUMP_SHOTS,,2012
-Ben Uzoh,202386,Driving Layup,2,17,8,Driving Layup Shot,LAYUPS,,2012
-Ben Uzoh,202386,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2012
-Ben Uzoh,202386,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2012
-Ben Uzoh,202386,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2012
-Ben Uzoh,202386,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2012
-Ben Uzoh,202386,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2012
-Ben Uzoh,202386,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2012
-Ben Uzoh,202386,Hook Shot,2,5,2,Jump Hook Shot,POST_MOVES,,2012
-Ben Uzoh,202386,Jump Shot,2,31,6,Jump Shot,JUMP_SHOTS,,2012
-Ben Uzoh,202386,Standard Layup,2,15,4,Layup Shot,LAYUPS,,2012
-Ben Uzoh,202386,Pullup Jump Shot,2,2,1,Pullup Jump shot,JUMP_SHOTS,,2012
-Ben Uzoh,202386,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2012
-Ben Uzoh,202386,Running Jump Shot,2,4,0,Running Jump Shot,JUMP_SHOTS,,2012
-Ben Uzoh,202386,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2012
-Ben Uzoh,202386,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2012
-Ben Uzoh,202386,Turnaround Jump Shot,2,1,0,Turnaround Bank shot,JUMP_SHOTS,,2012
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Ben Uzoh,202386,Driving Dunk,2,1,1,DUNKS,,2011
+Ben Uzoh,202386,Driving Hook Shot,2,1,0,POST_MOVES,,2011
+Ben Uzoh,202386,Driving Jump Shot,2,1,1,JUMP_SHOTS,,2011
+Ben Uzoh,202386,Driving Layup,2,19,12,LAYUPS,,2011
+Ben Uzoh,202386,Finger Roll,2,3,2,LAYUPS,,2011
+Ben Uzoh,202386,Floating Jump Shot,2,2,1,FLOATING_SHOTS,,2011
+Ben Uzoh,202386,Hook Shot,2,2,1,POST_MOVES,,2011
+Ben Uzoh,202386,Jump Shot,2,57,14,JUMP_SHOTS,,2011
+Ben Uzoh,202386,Pullup Jump Shot,2,2,1,JUMP_SHOTS,,2011
+Ben Uzoh,202386,Putback Layup,2,1,1,LAYUPS,,2011
+Ben Uzoh,202386,Reverse Layup,2,3,3,LAYUPS,,2011
+Ben Uzoh,202386,Running Jump Shot,2,4,0,JUMP_SHOTS,,2011
+Ben Uzoh,202386,Standard Dunk,2,4,4,DUNKS,,2011
+Ben Uzoh,202386,Standard Layup,2,40,19,LAYUPS,,2011
+Ben Uzoh,202386,Tip Shot,2,3,0,TIP_SHOTS,,2011
+Ben Uzoh,202386,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2011
+Ben Uzoh,202386,Driving Dunk,2,4,3,DUNKS,,2012
+Ben Uzoh,202386,Driving Hook Shot,2,4,3,POST_MOVES,,2012
+Ben Uzoh,202386,Driving Jump Shot,2,3,1,JUMP_SHOTS,,2012
+Ben Uzoh,202386,Driving Layup,2,18,9,LAYUPS,,2012
+Ben Uzoh,202386,Fadeaway Jump Shot,2,2,0,JUMP_SHOTS,,2012
+Ben Uzoh,202386,Finger Roll,2,2,2,LAYUPS,,2012
+Ben Uzoh,202386,Floating Jump Shot,2,2,1,FLOATING_SHOTS,,2012
+Ben Uzoh,202386,Hook Shot,2,5,2,POST_MOVES,,2012
+Ben Uzoh,202386,Jump Shot,2,31,6,JUMP_SHOTS,,2012
+Ben Uzoh,202386,Pullup Jump Shot,2,2,1,JUMP_SHOTS,,2012
+Ben Uzoh,202386,Reverse Layup,2,3,1,LAYUPS,,2012
+Ben Uzoh,202386,Running Jump Shot,2,4,0,JUMP_SHOTS,,2012
+Ben Uzoh,202386,Standard Dunk,2,1,1,DUNKS,,2012
+Ben Uzoh,202386,Standard Layup,2,16,5,LAYUPS,,2012
+Ben Uzoh,202386,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2012
+Ben Uzoh,202386,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2012

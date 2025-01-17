@@ -1,37 +1,33 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Armen Gilliam,288,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,1997
-Armen Gilliam,288,Driving Layup,2,10,8,Driving Layup Shot,LAYUPS,,1997
-Armen Gilliam,288,Standard Dunk,2,11,11,Dunk Shot,DUNKS,,1997
-Armen Gilliam,288,Hook Shot,2,92,62,Hook Shot,POST_MOVES,,1997
-Armen Gilliam,288,Jump Shot,2,258,88,Jump Shot,JUMP_SHOTS,,1997
-Armen Gilliam,288,Standard Layup,2,135,63,Layup Shot,LAYUPS,,1997
-Armen Gilliam,288,Running Jump Shot,2,3,2,Running Jump Shot,JUMP_SHOTS,,1997
-Armen Gilliam,288,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,1997
-Armen Gilliam,288,Tip Shot,2,6,5,Tip Shot,TIP_SHOTS,,1997
-Armen Gilliam,288,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,1998
-Armen Gilliam,288,Driving Layup,2,15,12,Driving Layup Shot,LAYUPS,,1998
-Armen Gilliam,288,Standard Dunk,2,18,18,Dunk Shot,DUNKS,,1998
-Armen Gilliam,288,Hook Shot,2,200,103,Hook Shot,POST_MOVES,,1998
-Armen Gilliam,288,Jump Shot,2,294,99,Jump Shot,JUMP_SHOTS,,1998
-Armen Gilliam,288,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,1998
-Armen Gilliam,288,Standard Layup,2,123,75,Layup Shot,LAYUPS,,1998
-Armen Gilliam,288,Running Jump Shot,2,5,4,Running Jump Shot,JUMP_SHOTS,,1998
-Armen Gilliam,288,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,1998
-Armen Gilliam,288,Tip Shot,2,14,10,Tip Shot,TIP_SHOTS,,1998
-Armen Gilliam,288,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,1999
-Armen Gilliam,288,Driving Layup,2,7,4,Driving Layup Shot,LAYUPS,,1999
-Armen Gilliam,288,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,1999
-Armen Gilliam,288,Hook Shot,2,73,45,Hook Shot,POST_MOVES,,1999
-Armen Gilliam,288,Jump Shot,2,100,31,Jump Shot,JUMP_SHOTS,,1999
-Armen Gilliam,288,Standard Layup,2,29,13,Layup Shot,LAYUPS,,1999
-Armen Gilliam,288,Running Jump Shot,2,4,1,Running Jump Shot,JUMP_SHOTS,,1999
-Armen Gilliam,288,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,1999
-Armen Gilliam,288,Tip Shot,2,6,3,Tip Shot,TIP_SHOTS,,1999
-Armen Gilliam,288,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,2000
-Armen Gilliam,288,Standard Dunk,2,7,6,Dunk Shot,DUNKS,,2000
-Armen Gilliam,288,Hook Shot,2,59,28,Hook Shot,POST_MOVES,,2000
-Armen Gilliam,288,Jump Shot,2,179,69,Jump Shot,JUMP_SHOTS,,2000
-Armen Gilliam,288,Standard Layup,2,52,24,Layup Shot,LAYUPS,,2000
-Armen Gilliam,288,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,2000
-Armen Gilliam,288,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2000
-Armen Gilliam,288,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,,2000
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Armen Gilliam,288,Driving Dunk,2,3,3,DUNKS,,1997
+Armen Gilliam,288,Driving Layup,2,10,8,LAYUPS,,1997
+Armen Gilliam,288,Hook Shot,2,92,62,POST_MOVES,,1997
+Armen Gilliam,288,Jump Shot,2,258,88,JUMP_SHOTS,,1997
+Armen Gilliam,288,Running Jump Shot,2,3,2,JUMP_SHOTS,,1997
+Armen Gilliam,288,Standard Dunk,2,15,15,DUNKS,,1997
+Armen Gilliam,288,Standard Layup,2,135,63,LAYUPS,,1997
+Armen Gilliam,288,Tip Shot,2,6,5,TIP_SHOTS,,1997
+Armen Gilliam,288,Driving Dunk,2,2,2,DUNKS,,1998
+Armen Gilliam,288,Driving Layup,2,15,12,LAYUPS,,1998
+Armen Gilliam,288,Hook Shot,2,200,103,POST_MOVES,,1998
+Armen Gilliam,288,Jump Shot,2,294,99,JUMP_SHOTS,,1998
+Armen Gilliam,288,Jump Shot,3,1,0,JUMP_SHOTS,,1998
+Armen Gilliam,288,Running Jump Shot,2,5,4,JUMP_SHOTS,,1998
+Armen Gilliam,288,Standard Dunk,2,22,22,DUNKS,,1998
+Armen Gilliam,288,Standard Layup,2,123,75,LAYUPS,,1998
+Armen Gilliam,288,Tip Shot,2,14,10,TIP_SHOTS,,1998
+Armen Gilliam,288,Driving Dunk,2,2,2,DUNKS,,1999
+Armen Gilliam,288,Driving Layup,2,7,4,LAYUPS,,1999
+Armen Gilliam,288,Hook Shot,2,73,45,POST_MOVES,,1999
+Armen Gilliam,288,Jump Shot,2,100,31,JUMP_SHOTS,,1999
+Armen Gilliam,288,Running Jump Shot,2,4,1,JUMP_SHOTS,,1999
+Armen Gilliam,288,Standard Dunk,2,2,2,DUNKS,,1999
+Armen Gilliam,288,Standard Layup,2,29,13,LAYUPS,,1999
+Armen Gilliam,288,Tip Shot,2,6,3,TIP_SHOTS,,1999
+Armen Gilliam,288,Driving Layup,2,2,2,LAYUPS,,2000
+Armen Gilliam,288,Hook Shot,2,59,28,POST_MOVES,,2000
+Armen Gilliam,288,Jump Shot,2,179,69,JUMP_SHOTS,,2000
+Armen Gilliam,288,Running Jump Shot,2,2,2,JUMP_SHOTS,,2000
+Armen Gilliam,288,Standard Dunk,2,8,7,DUNKS,,2000
+Armen Gilliam,288,Standard Layup,2,52,24,LAYUPS,,2000
+Armen Gilliam,288,Tip Shot,2,3,1,TIP_SHOTS,,2000

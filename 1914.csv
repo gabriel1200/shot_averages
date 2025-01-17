@@ -1,13 +1,12 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Chris Herren,1914,Driving Layup,2,25,12,Driving Layup Shot,LAYUPS,,2000
-Chris Herren,1914,Jump Shot,2,77,27,Jump Shot,JUMP_SHOTS,,2000
-Chris Herren,1914,Jump Shot,3,3,1,Jump Shot,JUMP_SHOTS,,2000
-Chris Herren,1914,Standard Layup,2,14,3,Layup Shot,LAYUPS,,2000
-Chris Herren,1914,Running Jump Shot,2,4,1,Running Jump Shot,JUMP_SHOTS,,2000
-Chris Herren,1914,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2000
-Chris Herren,1914,Driving Layup,2,16,10,Driving Layup Shot,LAYUPS,,2001
-Chris Herren,1914,Jump Shot,2,65,16,Jump Shot,JUMP_SHOTS,,2001
-Chris Herren,1914,Standard Layup,2,9,1,Layup Shot,LAYUPS,,2001
-Chris Herren,1914,Running Jump Shot,2,4,1,Running Jump Shot,JUMP_SHOTS,,2001
-Chris Herren,1914,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2001
-Chris Herren,1914,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Chris Herren,1914,Driving Layup,2,25,12,LAYUPS,,2000
+Chris Herren,1914,Jump Shot,2,77,27,JUMP_SHOTS,,2000
+Chris Herren,1914,Jump Shot,3,3,1,JUMP_SHOTS,,2000
+Chris Herren,1914,Running Jump Shot,2,4,1,JUMP_SHOTS,,2000
+Chris Herren,1914,Standard Dunk,2,1,1,DUNKS,,2000
+Chris Herren,1914,Standard Layup,2,14,3,LAYUPS,,2000
+Chris Herren,1914,Driving Layup,2,16,10,LAYUPS,,2001
+Chris Herren,1914,Jump Shot,2,65,16,JUMP_SHOTS,,2001
+Chris Herren,1914,Running Jump Shot,2,4,1,JUMP_SHOTS,,2001
+Chris Herren,1914,Standard Layup,2,10,2,LAYUPS,,2001
+Chris Herren,1914,Tip Shot,2,1,0,TIP_SHOTS,,2001

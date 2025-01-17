@@ -1,17 +1,16 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Tony Farmer,1108,Driving Layup,2,4,2,Driving Layup Shot,LAYUPS,,1998
-Tony Farmer,1108,Hook Shot,2,3,1,Hook Shot,POST_MOVES,,1998
-Tony Farmer,1108,Jump Shot,2,22,5,Jump Shot,JUMP_SHOTS,,1998
-Tony Farmer,1108,Jump Shot,3,9,2,Jump Shot,JUMP_SHOTS,,1998
-Tony Farmer,1108,Standard Layup,2,10,4,Layup Shot,LAYUPS,,1998
-Tony Farmer,1108,Tip Shot,2,5,3,Tip Shot,TIP_SHOTS,,1998
-Tony Farmer,1108,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2000
-Tony Farmer,1108,Driving Layup,2,19,14,Driving Layup Shot,LAYUPS,,2000
-Tony Farmer,1108,Standard Dunk,2,10,8,Dunk Shot,DUNKS,,2000
-Tony Farmer,1108,Hook Shot,2,18,8,Hook Shot,POST_MOVES,,2000
-Tony Farmer,1108,Jump Shot,2,129,34,Jump Shot,JUMP_SHOTS,,2000
-Tony Farmer,1108,Jump Shot,3,37,5,Jump Shot,JUMP_SHOTS,,2000
-Tony Farmer,1108,Standard Layup,2,58,28,Layup Shot,LAYUPS,,2000
-Tony Farmer,1108,Running Jump Shot,2,5,3,Running Jump Shot,JUMP_SHOTS,,2000
-Tony Farmer,1108,Standard Dunk,2,13,13,Slam Dunk Shot,DUNKS,,2000
-Tony Farmer,1108,Tip Shot,2,20,11,Tip Shot,TIP_SHOTS,,2000
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Tony Farmer,1108,Driving Layup,2,4,2,LAYUPS,,1998
+Tony Farmer,1108,Hook Shot,2,3,1,POST_MOVES,,1998
+Tony Farmer,1108,Jump Shot,2,22,5,JUMP_SHOTS,,1998
+Tony Farmer,1108,Jump Shot,3,9,2,JUMP_SHOTS,,1998
+Tony Farmer,1108,Standard Layup,2,10,4,LAYUPS,,1998
+Tony Farmer,1108,Tip Shot,2,5,3,TIP_SHOTS,,1998
+Tony Farmer,1108,Driving Dunk,2,3,3,DUNKS,,2000
+Tony Farmer,1108,Driving Layup,2,19,14,LAYUPS,,2000
+Tony Farmer,1108,Hook Shot,2,18,8,POST_MOVES,,2000
+Tony Farmer,1108,Jump Shot,2,129,34,JUMP_SHOTS,,2000
+Tony Farmer,1108,Jump Shot,3,37,5,JUMP_SHOTS,,2000
+Tony Farmer,1108,Running Jump Shot,2,5,3,JUMP_SHOTS,,2000
+Tony Farmer,1108,Standard Dunk,2,23,21,DUNKS,,2000
+Tony Farmer,1108,Standard Layup,2,58,28,LAYUPS,,2000
+Tony Farmer,1108,Tip Shot,2,20,11,TIP_SHOTS,,2000

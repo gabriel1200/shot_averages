@@ -1,15 +1,11 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Jerome Dyson,202406,Driving Jump Shot,2,1,1,Driving Jump shot,JUMP_SHOTS,,2012
-Jerome Dyson,202406,Driving Layup,2,10,8,Driving Layup Shot,LAYUPS,,2012
-Jerome Dyson,202406,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2012
-Jerome Dyson,202406,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2012
-Jerome Dyson,202406,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2012
-Jerome Dyson,202406,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2012
-Jerome Dyson,202406,Jump Shot,2,16,2,Jump Shot,JUMP_SHOTS,,2012
-Jerome Dyson,202406,Standard Layup,2,10,3,Layup Shot,LAYUPS,,2012
-Jerome Dyson,202406,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2012
-Jerome Dyson,202406,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2012
-Jerome Dyson,202406,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2012
-Jerome Dyson,202406,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2012
-Jerome Dyson,202406,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2012
-Jerome Dyson,202406,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2012
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Jerome Dyson,202406,Driving Jump Shot,2,1,1,JUMP_SHOTS,,2012
+Jerome Dyson,202406,Driving Layup,2,10,8,LAYUPS,,2012
+Jerome Dyson,202406,Finger Roll,2,1,1,LAYUPS,,2012
+Jerome Dyson,202406,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2012
+Jerome Dyson,202406,Jump Shot,2,17,2,JUMP_SHOTS,,2012
+Jerome Dyson,202406,Pullup Jump Shot,2,1,1,JUMP_SHOTS,,2012
+Jerome Dyson,202406,Running Jump Shot,2,3,1,JUMP_SHOTS,,2012
+Jerome Dyson,202406,Standard Dunk,2,2,1,DUNKS,,2012
+Jerome Dyson,202406,Standard Layup,2,11,4,LAYUPS,,2012
+Jerome Dyson,202406,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2012

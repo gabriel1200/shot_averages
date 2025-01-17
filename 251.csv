@@ -1,52 +1,46 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Sean Elliott,251,Driving Dunk,2,8,8,Driving Dunk Shot,DUNKS,,1997
-Sean Elliott,251,Driving Layup,2,19,16,Driving Layup Shot,LAYUPS,,1997
-Sean Elliott,251,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,1997
-Sean Elliott,251,Hook Shot,2,3,3,Hook Shot,POST_MOVES,,1997
-Sean Elliott,251,Jump Shot,2,280,92,Jump Shot,JUMP_SHOTS,,1997
-Sean Elliott,251,Jump Shot,3,1,1,Jump Shot,JUMP_SHOTS,,1997
-Sean Elliott,251,Standard Layup,2,126,50,Layup Shot,LAYUPS,,1997
-Sean Elliott,251,Running Jump Shot,2,3,2,Running Jump Shot,JUMP_SHOTS,,1997
-Sean Elliott,251,Standard Dunk,2,18,18,Slam Dunk Shot,DUNKS,,1997
-Sean Elliott,251,Tip Shot,2,3,3,Tip Shot,TIP_SHOTS,,1997
-Sean Elliott,251,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,1998
-Sean Elliott,251,Driving Layup,2,14,12,Driving Layup Shot,LAYUPS,,1998
-Sean Elliott,251,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,1998
-Sean Elliott,251,Hook Shot,2,2,2,Hook Shot,POST_MOVES,,1998
-Sean Elliott,251,Jump Shot,2,223,78,Jump Shot,JUMP_SHOTS,,1998
-Sean Elliott,251,Jump Shot,3,9,3,Jump Shot,JUMP_SHOTS,,1998
-Sean Elliott,251,Standard Layup,2,38,13,Layup Shot,LAYUPS,,1998
-Sean Elliott,251,Running Jump Shot,2,9,6,Running Jump Shot,JUMP_SHOTS,,1998
-Sean Elliott,251,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,1998
-Sean Elliott,251,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,1999
-Sean Elliott,251,Driving Layup,2,25,16,Driving Layup Shot,LAYUPS,,1999
-Sean Elliott,251,Standard Dunk,2,8,7,Dunk Shot,DUNKS,,1999
-Sean Elliott,251,Hook Shot,2,4,3,Hook Shot,POST_MOVES,,1999
-Sean Elliott,251,Jump Shot,2,349,119,Jump Shot,JUMP_SHOTS,,1999
-Sean Elliott,251,Jump Shot,3,9,4,Jump Shot,JUMP_SHOTS,,1999
-Sean Elliott,251,Standard Layup,2,73,28,Layup Shot,LAYUPS,,1999
-Sean Elliott,251,Running Jump Shot,2,10,6,Running Jump Shot,JUMP_SHOTS,,1999
-Sean Elliott,251,Standard Dunk,2,21,20,Slam Dunk Shot,DUNKS,,1999
-Sean Elliott,251,Tip Shot,2,4,1,Tip Shot,TIP_SHOTS,,1999
-Sean Elliott,251,Driving Dunk,2,3,2,Driving Dunk Shot,DUNKS,,2000
-Sean Elliott,251,Driving Layup,2,4,1,Driving Layup Shot,LAYUPS,,2000
-Sean Elliott,251,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2000
-Sean Elliott,251,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2000
-Sean Elliott,251,Jump Shot,2,73,23,Jump Shot,JUMP_SHOTS,,2000
-Sean Elliott,251,Jump Shot,3,6,4,Jump Shot,JUMP_SHOTS,,2000
-Sean Elliott,251,Standard Layup,2,14,4,Layup Shot,LAYUPS,,2000
-Sean Elliott,251,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2000
-Sean Elliott,251,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2000
-Sean Elliott,251,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2001
-Sean Elliott,251,Driving Layup,2,15,12,Driving Layup Shot,LAYUPS,,2001
-Sean Elliott,251,Standard Dunk,2,7,5,Dunk Shot,DUNKS,,2001
-Sean Elliott,251,Finger Roll,2,2,2,Finger Roll Shot,LAYUPS,,2001
-Sean Elliott,251,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2001
-Sean Elliott,251,Jump Shot,2,240,93,Jump Shot,JUMP_SHOTS,,2001
-Sean Elliott,251,Jump Shot,3,4,1,Jump Shot,JUMP_SHOTS,,2001
-Sean Elliott,251,Standard Layup,2,54,22,Layup Shot,LAYUPS,,2001
-Sean Elliott,251,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2001
-Sean Elliott,251,Running Jump Shot,2,3,1,Running Jump Shot,JUMP_SHOTS,,2001
-Sean Elliott,251,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2001
-Sean Elliott,251,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,2001
-Sean Elliott,251,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Sean Elliott,251,Driving Dunk,2,8,8,DUNKS,,1997
+Sean Elliott,251,Driving Layup,2,19,16,LAYUPS,,1997
+Sean Elliott,251,Hook Shot,2,3,3,POST_MOVES,,1997
+Sean Elliott,251,Jump Shot,2,280,92,JUMP_SHOTS,,1997
+Sean Elliott,251,Jump Shot,3,1,1,JUMP_SHOTS,,1997
+Sean Elliott,251,Running Jump Shot,2,3,2,JUMP_SHOTS,,1997
+Sean Elliott,251,Standard Dunk,2,21,21,DUNKS,,1997
+Sean Elliott,251,Standard Layup,2,126,50,LAYUPS,,1997
+Sean Elliott,251,Tip Shot,2,3,3,TIP_SHOTS,,1997
+Sean Elliott,251,Driving Dunk,2,1,1,DUNKS,,1998
+Sean Elliott,251,Driving Layup,2,14,12,LAYUPS,,1998
+Sean Elliott,251,Hook Shot,2,2,2,POST_MOVES,,1998
+Sean Elliott,251,Jump Shot,2,223,78,JUMP_SHOTS,,1998
+Sean Elliott,251,Jump Shot,3,9,3,JUMP_SHOTS,,1998
+Sean Elliott,251,Running Jump Shot,2,9,6,JUMP_SHOTS,,1998
+Sean Elliott,251,Standard Dunk,2,7,7,DUNKS,,1998
+Sean Elliott,251,Standard Layup,2,38,13,LAYUPS,,1998
+Sean Elliott,251,Driving Dunk,2,4,4,DUNKS,,1999
+Sean Elliott,251,Driving Layup,2,25,16,LAYUPS,,1999
+Sean Elliott,251,Hook Shot,2,4,3,POST_MOVES,,1999
+Sean Elliott,251,Jump Shot,2,349,119,JUMP_SHOTS,,1999
+Sean Elliott,251,Jump Shot,3,9,4,JUMP_SHOTS,,1999
+Sean Elliott,251,Running Jump Shot,2,10,6,JUMP_SHOTS,,1999
+Sean Elliott,251,Standard Dunk,2,29,27,DUNKS,,1999
+Sean Elliott,251,Standard Layup,2,73,28,LAYUPS,,1999
+Sean Elliott,251,Tip Shot,2,4,1,TIP_SHOTS,,1999
+Sean Elliott,251,Driving Dunk,2,3,2,DUNKS,,2000
+Sean Elliott,251,Driving Layup,2,4,1,LAYUPS,,2000
+Sean Elliott,251,Hook Shot,2,1,0,POST_MOVES,,2000
+Sean Elliott,251,Jump Shot,2,73,23,JUMP_SHOTS,,2000
+Sean Elliott,251,Jump Shot,3,6,4,JUMP_SHOTS,,2000
+Sean Elliott,251,Running Jump Shot,2,1,0,JUMP_SHOTS,,2000
+Sean Elliott,251,Standard Dunk,2,4,4,DUNKS,,2000
+Sean Elliott,251,Standard Layup,2,14,4,LAYUPS,,2000
+Sean Elliott,251,Driving Dunk,2,2,2,DUNKS,,2001
+Sean Elliott,251,Driving Layup,2,15,12,LAYUPS,,2001
+Sean Elliott,251,Finger Roll,2,2,2,LAYUPS,,2001
+Sean Elliott,251,Hook Shot,2,1,0,POST_MOVES,,2001
+Sean Elliott,251,Jump Shot,2,240,93,JUMP_SHOTS,,2001
+Sean Elliott,251,Jump Shot,3,4,1,JUMP_SHOTS,,2001
+Sean Elliott,251,Reverse Layup,2,3,1,LAYUPS,,2001
+Sean Elliott,251,Running Jump Shot,2,3,1,JUMP_SHOTS,,2001
+Sean Elliott,251,Standard Dunk,2,13,11,DUNKS,,2001
+Sean Elliott,251,Standard Layup,2,55,23,LAYUPS,,2001
+Sean Elliott,251,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2001

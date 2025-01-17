@@ -1,59 +1,51 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Michael Bradley,2214,Driving Layup,2,2,1,Driving Layup Shot,LAYUPS,,2002
-Michael Bradley,2214,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2002
-Michael Bradley,2214,Finger Roll,2,1,0,Finger Roll Shot,LAYUPS,,2002
-Michael Bradley,2214,Jump Shot,2,9,4,Jump Shot,JUMP_SHOTS,,2002
-Michael Bradley,2214,Standard Layup,2,7,5,Layup Shot,LAYUPS,,2002
-Michael Bradley,2214,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2002
-Michael Bradley,2214,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2002
-Michael Bradley,2214,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2002
-Michael Bradley,2214,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2002
-Michael Bradley,2214,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2003
-Michael Bradley,2214,Finger Roll,2,2,1,Driving Finger Roll Shot,LAYUPS,,2003
-Michael Bradley,2214,Driving Hook Shot,2,4,2,Driving Hook Shot,POST_MOVES,,2003
-Michael Bradley,2214,Driving Layup,2,5,4,Driving Layup Shot,LAYUPS,,2003
-Michael Bradley,2214,Standard Dunk,2,11,10,Dunk Shot,DUNKS,,2003
-Michael Bradley,2214,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2003
-Michael Bradley,2214,Finger Roll,2,2,1,Finger Roll Shot,LAYUPS,,2003
-Michael Bradley,2214,Specialty Dunk,2,3,3,Follow Up Dunk Shot,DUNKS,,2003
-Michael Bradley,2214,Hook Shot,2,8,2,Hook Shot,POST_MOVES,,2003
-Michael Bradley,2214,Hook Shot,2,5,2,Jump Hook Shot,POST_MOVES,,2003
-Michael Bradley,2214,Jump Shot,2,89,21,Jump Shot,JUMP_SHOTS,,2003
-Michael Bradley,2214,Standard Layup,2,70,40,Layup Shot,LAYUPS,,2003
-Michael Bradley,2214,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2003
-Michael Bradley,2214,Reverse Layup,2,19,13,Reverse Layup Shot,LAYUPS,,2003
-Michael Bradley,2214,Finger Roll,2,2,1,Running Finger Roll Shot,LAYUPS,,2003
-Michael Bradley,2214,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2003
-Michael Bradley,2214,Running Jump Shot,2,5,2,Running Jump Shot,JUMP_SHOTS,,2003
-Michael Bradley,2214,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2003
-Michael Bradley,2214,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,2003
-Michael Bradley,2214,Tip Shot,2,58,30,Tip Shot,TIP_SHOTS,,2003
-Michael Bradley,2214,Turnaround Hook Shot,2,7,2,Turnaround Hook Shot,POST_MOVES,,2003
-Michael Bradley,2214,Turnaround Jump Shot,2,11,5,Turnaround Jump Shot,JUMP_SHOTS,,2003
-Michael Bradley,2214,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2004
-Michael Bradley,2214,Jump Shot,2,7,0,Jump Shot,JUMP_SHOTS,,2004
-Michael Bradley,2214,Standard Layup,2,3,2,Layup Shot,LAYUPS,,2004
-Michael Bradley,2214,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2004
-Michael Bradley,2214,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,,2004
-Michael Bradley,2214,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2005
-Michael Bradley,2214,Hook Shot,2,2,2,Hook Shot,POST_MOVES,,2005
-Michael Bradley,2214,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2005
-Michael Bradley,2214,Jump Shot,2,7,3,Jump Shot,JUMP_SHOTS,,2005
-Michael Bradley,2214,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2005
-Michael Bradley,2214,Standard Layup,2,6,3,Layup Shot,LAYUPS,,2005
-Michael Bradley,2214,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2005
-Michael Bradley,2214,Finger Roll,2,1,0,Running Finger Roll Shot,LAYUPS,,2005
-Michael Bradley,2214,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2005
-Michael Bradley,2214,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,,2005
-Michael Bradley,2214,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2006
-Michael Bradley,2214,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2006
-Michael Bradley,2214,Hook Shot,2,3,1,Hook Shot,POST_MOVES,,2006
-Michael Bradley,2214,Jump Shot,2,38,8,Jump Shot,JUMP_SHOTS,,2006
-Michael Bradley,2214,Standard Layup,2,17,8,Layup Shot,LAYUPS,,2006
-Michael Bradley,2214,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2006
-Michael Bradley,2214,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2006
-Michael Bradley,2214,Running Jump Shot,2,3,3,Running Jump Shot,JUMP_SHOTS,,2006
-Michael Bradley,2214,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2006
-Michael Bradley,2214,Tip Shot,2,10,5,Tip Shot,TIP_SHOTS,,2006
-Michael Bradley,2214,Turnaround Hook Shot,2,2,2,Turnaround Hook Shot,POST_MOVES,,2006
-Michael Bradley,2214,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2006
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Michael Bradley,2214,Driving Layup,2,2,1,LAYUPS,,2002
+Michael Bradley,2214,Finger Roll,2,1,0,LAYUPS,,2002
+Michael Bradley,2214,Jump Shot,2,9,4,JUMP_SHOTS,,2002
+Michael Bradley,2214,Reverse Layup,2,1,1,LAYUPS,,2002
+Michael Bradley,2214,Running Jump Shot,2,2,0,JUMP_SHOTS,,2002
+Michael Bradley,2214,Standard Dunk,2,2,2,DUNKS,,2002
+Michael Bradley,2214,Standard Layup,2,7,5,LAYUPS,,2002
+Michael Bradley,2214,Tip Shot,2,1,0,TIP_SHOTS,,2002
+Michael Bradley,2214,Alley Oop Layup,2,2,2,LAYUPS,,2003
+Michael Bradley,2214,Driving Hook Shot,2,4,2,POST_MOVES,,2003
+Michael Bradley,2214,Driving Layup,2,5,4,LAYUPS,,2003
+Michael Bradley,2214,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2003
+Michael Bradley,2214,Finger Roll,2,6,3,LAYUPS,,2003
+Michael Bradley,2214,Hook Shot,2,13,4,POST_MOVES,,2003
+Michael Bradley,2214,Jump Shot,2,89,21,JUMP_SHOTS,,2003
+Michael Bradley,2214,Reverse Dunk,2,1,1,DUNKS,,2003
+Michael Bradley,2214,Reverse Layup,2,19,13,LAYUPS,,2003
+Michael Bradley,2214,Running Hook Shot,2,1,1,POST_MOVES,,2003
+Michael Bradley,2214,Running Jump Shot,2,5,2,JUMP_SHOTS,,2003
+Michael Bradley,2214,Specialty Dunk,2,3,3,DUNKS,,2003
+Michael Bradley,2214,Standard Dunk,2,16,15,DUNKS,,2003
+Michael Bradley,2214,Standard Layup,2,73,42,LAYUPS,,2003
+Michael Bradley,2214,Tip Shot,2,58,30,TIP_SHOTS,,2003
+Michael Bradley,2214,Turnaround Hook Shot,2,7,2,POST_MOVES,,2003
+Michael Bradley,2214,Turnaround Jump Shot,2,11,5,JUMP_SHOTS,,2003
+Michael Bradley,2214,Jump Shot,2,7,0,JUMP_SHOTS,,2004
+Michael Bradley,2214,Reverse Layup,2,1,1,LAYUPS,,2004
+Michael Bradley,2214,Standard Dunk,2,2,2,DUNKS,,2004
+Michael Bradley,2214,Standard Layup,2,3,2,LAYUPS,,2004
+Michael Bradley,2214,Tip Shot,2,2,2,TIP_SHOTS,,2004
+Michael Bradley,2214,Driving Hook Shot,2,1,1,POST_MOVES,,2005
+Michael Bradley,2214,Finger Roll,2,1,0,LAYUPS,,2005
+Michael Bradley,2214,Hook Shot,2,3,3,POST_MOVES,,2005
+Michael Bradley,2214,Jump Shot,2,7,3,JUMP_SHOTS,,2005
+Michael Bradley,2214,Jump Shot,3,1,0,JUMP_SHOTS,,2005
+Michael Bradley,2214,Reverse Layup,2,2,2,LAYUPS,,2005
+Michael Bradley,2214,Standard Dunk,2,1,1,DUNKS,,2005
+Michael Bradley,2214,Standard Layup,2,6,3,LAYUPS,,2005
+Michael Bradley,2214,Tip Shot,2,2,2,TIP_SHOTS,,2005
+Michael Bradley,2214,Driving Layup,2,1,1,LAYUPS,,2006
+Michael Bradley,2214,Hook Shot,2,3,1,POST_MOVES,,2006
+Michael Bradley,2214,Jump Shot,2,38,8,JUMP_SHOTS,,2006
+Michael Bradley,2214,Reverse Layup,2,1,1,LAYUPS,,2006
+Michael Bradley,2214,Running Hook Shot,2,1,0,POST_MOVES,,2006
+Michael Bradley,2214,Running Jump Shot,2,3,3,JUMP_SHOTS,,2006
+Michael Bradley,2214,Standard Dunk,2,1,1,DUNKS,,2006
+Michael Bradley,2214,Standard Layup,2,18,9,LAYUPS,,2006
+Michael Bradley,2214,Tip Shot,2,10,5,TIP_SHOTS,,2006
+Michael Bradley,2214,Turnaround Hook Shot,2,2,2,POST_MOVES,,2006
+Michael Bradley,2214,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2006

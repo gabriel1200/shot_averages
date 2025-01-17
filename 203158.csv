@@ -1,14 +1,13 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Kevin Jones,203158,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2013
-Kevin Jones,203158,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2013
-Kevin Jones,203158,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2013
-Kevin Jones,203158,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2013
-Kevin Jones,203158,Hook Shot,2,3,3,Jump Hook Shot,POST_MOVES,,2013
-Kevin Jones,203158,Jump Shot,2,48,9,Jump Shot,JUMP_SHOTS,,2013
-Kevin Jones,203158,Standard Layup,2,29,16,Layup Shot,LAYUPS,,2013
-Kevin Jones,203158,Putback Layup,2,4,3,Putback Layup Shot,LAYUPS,,2013
-Kevin Jones,203158,Reverse Layup,2,4,1,Reverse Layup Shot,LAYUPS,,2013
-Kevin Jones,203158,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2013
-Kevin Jones,203158,Tip Shot,2,8,3,Tip Shot,TIP_SHOTS,,2013
-Kevin Jones,203158,Turnaround Hook Shot,2,2,0,Turnaround Hook Shot,POST_MOVES,,2013
-Kevin Jones,203158,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2013
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Kevin Jones,203158,Driving Layup,2,1,1,LAYUPS,,2013
+Kevin Jones,203158,Fadeaway Jump Shot,2,2,1,JUMP_SHOTS,,2013
+Kevin Jones,203158,Hook Shot,2,3,3,POST_MOVES,,2013
+Kevin Jones,203158,Jump Shot,2,49,10,JUMP_SHOTS,,2013
+Kevin Jones,203158,Putback Layup,2,4,3,LAYUPS,,2013
+Kevin Jones,203158,Reverse Layup,2,4,1,LAYUPS,,2013
+Kevin Jones,203158,Standard Dunk,2,3,3,DUNKS,,2013
+Kevin Jones,203158,Standard Layup,2,29,16,LAYUPS,,2013
+Kevin Jones,203158,Step Back Jump Shot,2,1,1,JUMP_SHOTS,,2013
+Kevin Jones,203158,Tip Shot,2,8,3,TIP_SHOTS,,2013
+Kevin Jones,203158,Turnaround Hook Shot,2,2,0,POST_MOVES,,2013
+Kevin Jones,203158,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2013

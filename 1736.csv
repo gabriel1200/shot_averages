@@ -1,48 +1,42 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Corey Benjamin,1736,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,1999
-Corey Benjamin,1736,Driving Layup,2,4,3,Driving Layup Shot,LAYUPS,,1999
-Corey Benjamin,1736,Standard Dunk,2,5,4,Dunk Shot,DUNKS,,1999
-Corey Benjamin,1736,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,1999
-Corey Benjamin,1736,Jump Shot,2,70,19,Jump Shot,JUMP_SHOTS,,1999
-Corey Benjamin,1736,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,1999
-Corey Benjamin,1736,Standard Layup,2,20,9,Layup Shot,LAYUPS,,1999
-Corey Benjamin,1736,Running Jump Shot,2,4,2,Running Jump Shot,JUMP_SHOTS,,1999
-Corey Benjamin,1736,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,1999
-Corey Benjamin,1736,Tip Shot,2,6,1,Tip Shot,TIP_SHOTS,,1999
-Corey Benjamin,1736,Driving Dunk,2,10,9,Driving Dunk Shot,DUNKS,,2000
-Corey Benjamin,1736,Driving Layup,2,25,17,Driving Layup Shot,LAYUPS,,2000
-Corey Benjamin,1736,Standard Dunk,2,14,12,Dunk Shot,DUNKS,,2000
-Corey Benjamin,1736,Jump Shot,2,217,68,Jump Shot,JUMP_SHOTS,,2000
-Corey Benjamin,1736,Jump Shot,3,25,11,Jump Shot,JUMP_SHOTS,,2000
-Corey Benjamin,1736,Standard Layup,2,36,12,Layup Shot,LAYUPS,,2000
-Corey Benjamin,1736,Running Jump Shot,2,15,11,Running Jump Shot,JUMP_SHOTS,,2000
-Corey Benjamin,1736,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,2000
-Corey Benjamin,1736,Tip Shot,2,3,0,Tip Shot,TIP_SHOTS,,2000
-Corey Benjamin,1736,Alley Oop Dunk,2,7,6,Alley Oop Dunk Shot,DUNKS,,2001
-Corey Benjamin,1736,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2001
-Corey Benjamin,1736,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2001
-Corey Benjamin,1736,Driving Layup,2,11,8,Driving Layup Shot,LAYUPS,,2001
-Corey Benjamin,1736,Standard Dunk,2,14,11,Dunk Shot,DUNKS,,2001
-Corey Benjamin,1736,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2001
-Corey Benjamin,1736,Jump Shot,2,187,59,Jump Shot,JUMP_SHOTS,,2001
-Corey Benjamin,1736,Jump Shot,3,22,3,Jump Shot,JUMP_SHOTS,,2001
-Corey Benjamin,1736,Standard Layup,2,34,11,Layup Shot,LAYUPS,,2001
-Corey Benjamin,1736,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2001
-Corey Benjamin,1736,Running Hook Shot,2,2,2,Running Hook Shot,POST_MOVES,,2001
-Corey Benjamin,1736,Running Jump Shot,2,5,2,Running Jump Shot,JUMP_SHOTS,,2001
-Corey Benjamin,1736,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2001
-Corey Benjamin,1736,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,2001
-Corey Benjamin,1736,Tip Shot,2,6,2,Tip Shot,TIP_SHOTS,,2001
-Corey Benjamin,1736,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2001
-Corey Benjamin,1736,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2003
-Corey Benjamin,1736,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2003
-Corey Benjamin,1736,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2003
-Corey Benjamin,1736,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,2003
-Corey Benjamin,1736,Jump Shot,2,13,2,Jump Shot,JUMP_SHOTS,,2003
-Corey Benjamin,1736,Jump Shot,3,12,1,Jump Shot,JUMP_SHOTS,,2003
-Corey Benjamin,1736,Standard Layup,2,6,1,Layup Shot,LAYUPS,,2003
-Corey Benjamin,1736,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2003
-Corey Benjamin,1736,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2003
-Corey Benjamin,1736,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2003
-Corey Benjamin,1736,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2003
-Corey Benjamin,1736,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,,2003
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Corey Benjamin,1736,Driving Dunk,2,1,1,DUNKS,,1999
+Corey Benjamin,1736,Driving Layup,2,4,3,LAYUPS,,1999
+Corey Benjamin,1736,Hook Shot,2,1,0,POST_MOVES,,1999
+Corey Benjamin,1736,Jump Shot,2,70,19,JUMP_SHOTS,,1999
+Corey Benjamin,1736,Jump Shot,3,1,0,JUMP_SHOTS,,1999
+Corey Benjamin,1736,Running Jump Shot,2,4,2,JUMP_SHOTS,,1999
+Corey Benjamin,1736,Standard Dunk,2,10,9,DUNKS,,1999
+Corey Benjamin,1736,Standard Layup,2,20,9,LAYUPS,,1999
+Corey Benjamin,1736,Tip Shot,2,6,1,TIP_SHOTS,,1999
+Corey Benjamin,1736,Driving Dunk,2,10,9,DUNKS,,2000
+Corey Benjamin,1736,Driving Layup,2,25,17,LAYUPS,,2000
+Corey Benjamin,1736,Jump Shot,2,217,68,JUMP_SHOTS,,2000
+Corey Benjamin,1736,Jump Shot,3,25,11,JUMP_SHOTS,,2000
+Corey Benjamin,1736,Running Jump Shot,2,15,11,JUMP_SHOTS,,2000
+Corey Benjamin,1736,Standard Dunk,2,19,17,DUNKS,,2000
+Corey Benjamin,1736,Standard Layup,2,36,12,LAYUPS,,2000
+Corey Benjamin,1736,Tip Shot,2,3,0,TIP_SHOTS,,2000
+Corey Benjamin,1736,Alley Oop Dunk,2,7,6,DUNKS,,2001
+Corey Benjamin,1736,Alley Oop Layup,2,1,0,LAYUPS,,2001
+Corey Benjamin,1736,Driving Dunk,2,4,4,DUNKS,,2001
+Corey Benjamin,1736,Driving Layup,2,11,8,LAYUPS,,2001
+Corey Benjamin,1736,Hook Shot,2,1,0,POST_MOVES,,2001
+Corey Benjamin,1736,Jump Shot,2,187,59,JUMP_SHOTS,,2001
+Corey Benjamin,1736,Jump Shot,3,22,3,JUMP_SHOTS,,2001
+Corey Benjamin,1736,Reverse Dunk,2,1,1,DUNKS,,2001
+Corey Benjamin,1736,Running Hook Shot,2,2,2,POST_MOVES,,2001
+Corey Benjamin,1736,Running Jump Shot,2,5,2,JUMP_SHOTS,,2001
+Corey Benjamin,1736,Standard Dunk,2,19,16,DUNKS,,2001
+Corey Benjamin,1736,Standard Layup,2,35,11,LAYUPS,,2001
+Corey Benjamin,1736,Tip Shot,2,6,2,TIP_SHOTS,,2001
+Corey Benjamin,1736,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2001
+Corey Benjamin,1736,Alley Oop Dunk,2,1,1,DUNKS,,2003
+Corey Benjamin,1736,Driving Dunk,2,1,1,DUNKS,,2003
+Corey Benjamin,1736,Driving Layup,2,1,1,LAYUPS,,2003
+Corey Benjamin,1736,Jump Shot,2,13,2,JUMP_SHOTS,,2003
+Corey Benjamin,1736,Jump Shot,3,12,1,JUMP_SHOTS,,2003
+Corey Benjamin,1736,Reverse Layup,2,1,1,LAYUPS,,2003
+Corey Benjamin,1736,Running Jump Shot,2,1,1,JUMP_SHOTS,,2003
+Corey Benjamin,1736,Standard Dunk,2,3,2,DUNKS,,2003
+Corey Benjamin,1736,Standard Layup,2,7,2,LAYUPS,,2003
+Corey Benjamin,1736,Tip Shot,2,3,1,TIP_SHOTS,,2003

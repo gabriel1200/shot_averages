@@ -1,38 +1,33 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Paul Davis,200781,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2007
-Paul Davis,200781,Driving Layup,2,2,1,Driving Layup Shot,LAYUPS,,2007
-Paul Davis,200781,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2007
-Paul Davis,200781,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2007
-Paul Davis,200781,Jump Shot,2,25,4,Jump Shot,JUMP_SHOTS,,2007
-Paul Davis,200781,Standard Layup,2,15,11,Layup Shot,LAYUPS,,2007
-Paul Davis,200781,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2007
-Paul Davis,200781,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2007
-Paul Davis,200781,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2007
-Paul Davis,200781,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2007
-Paul Davis,200781,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2008
-Paul Davis,200781,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2008
-Paul Davis,200781,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,2008
-Paul Davis,200781,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2008
-Paul Davis,200781,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2008
-Paul Davis,200781,Jump Shot,2,43,13,Jump Shot,JUMP_SHOTS,,2008
-Paul Davis,200781,Standard Layup,2,7,3,Layup Shot,LAYUPS,,2008
-Paul Davis,200781,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2008
-Paul Davis,200781,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2008
-Paul Davis,200781,Tip Shot,2,7,2,Tip Shot,TIP_SHOTS,,2008
-Paul Davis,200781,Alley Oop Layup,2,3,2,Alley Oop Layup shot,LAYUPS,,2009
-Paul Davis,200781,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2009
-Paul Davis,200781,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2009
-Paul Davis,200781,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2009
-Paul Davis,200781,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2009
-Paul Davis,200781,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2009
-Paul Davis,200781,Hook Shot,2,3,0,Hook Shot,POST_MOVES,,2009
-Paul Davis,200781,Jump Shot,2,55,17,Jump Shot,JUMP_SHOTS,,2009
-Paul Davis,200781,Standard Layup,2,16,5,Layup Shot,LAYUPS,,2009
-Paul Davis,200781,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2009
-Paul Davis,200781,Tip Shot,2,1,1,Running Tip Shot,TIP_SHOTS,,2009
-Paul Davis,200781,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2009
-Paul Davis,200781,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2009
-Paul Davis,200781,Tip Shot,2,8,6,Tip Shot,TIP_SHOTS,,2009
-Paul Davis,200781,Turnaround Jump Shot,2,2,2,Turnaround Jump Shot,JUMP_SHOTS,,2009
-Paul Davis,200781,Jump Shot,2,3,1,Jump Shot,JUMP_SHOTS,,2010
-Paul Davis,200781,Standard Layup,2,1,1,Layup Shot,LAYUPS,,2010
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Paul Davis,200781,Driving Dunk,2,1,1,DUNKS,,2007
+Paul Davis,200781,Driving Layup,2,2,1,LAYUPS,,2007
+Paul Davis,200781,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2007
+Paul Davis,200781,Hook Shot,2,2,0,POST_MOVES,,2007
+Paul Davis,200781,Jump Shot,2,25,4,JUMP_SHOTS,,2007
+Paul Davis,200781,Reverse Layup,2,1,1,LAYUPS,,2007
+Paul Davis,200781,Standard Dunk,2,1,1,DUNKS,,2007
+Paul Davis,200781,Standard Layup,2,15,11,LAYUPS,,2007
+Paul Davis,200781,Tip Shot,2,2,1,TIP_SHOTS,,2007
+Paul Davis,200781,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2007
+Paul Davis,200781,Driving Dunk,2,1,1,DUNKS,,2008
+Paul Davis,200781,Finger Roll,2,2,2,LAYUPS,,2008
+Paul Davis,200781,Hook Shot,2,1,0,POST_MOVES,,2008
+Paul Davis,200781,Jump Shot,2,43,13,JUMP_SHOTS,,2008
+Paul Davis,200781,Putback Layup,2,1,1,LAYUPS,,2008
+Paul Davis,200781,Standard Dunk,2,3,2,DUNKS,,2008
+Paul Davis,200781,Standard Layup,2,7,3,LAYUPS,,2008
+Paul Davis,200781,Tip Shot,2,7,2,TIP_SHOTS,,2008
+Paul Davis,200781,Alley Oop Layup,2,3,2,LAYUPS,,2009
+Paul Davis,200781,Driving Layup,2,1,0,LAYUPS,,2009
+Paul Davis,200781,Fadeaway Jump Shot,2,3,1,JUMP_SHOTS,,2009
+Paul Davis,200781,Finger Roll,2,1,1,LAYUPS,,2009
+Paul Davis,200781,Hook Shot,2,3,0,POST_MOVES,,2009
+Paul Davis,200781,Jump Shot,2,55,17,JUMP_SHOTS,,2009
+Paul Davis,200781,Putback Dunk,2,1,1,DUNKS,,2009
+Paul Davis,200781,Standard Dunk,2,3,3,DUNKS,,2009
+Paul Davis,200781,Standard Layup,2,16,5,LAYUPS,,2009
+Paul Davis,200781,Step Back Jump Shot,2,1,1,JUMP_SHOTS,,2009
+Paul Davis,200781,Tip Shot,2,9,7,TIP_SHOTS,,2009
+Paul Davis,200781,Turnaround Jump Shot,2,2,2,JUMP_SHOTS,,2009
+Paul Davis,200781,Jump Shot,2,3,1,JUMP_SHOTS,,2010
+Paul Davis,200781,Standard Layup,2,1,1,LAYUPS,,2010

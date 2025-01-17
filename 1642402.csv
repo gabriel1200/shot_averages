@@ -1,13 +1,12 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Enrique Freeman,1642402,Specialty Dunk,2,2,1,Cutting Dunk Shot,DUNKS,,2025
-Enrique Freeman,1642402,Standard Layup,2,3,2,Cutting Layup Shot,LAYUPS,,2025
-Enrique Freeman,1642402,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2025
-Enrique Freeman,1642402,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2025
-Enrique Freeman,1642402,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2025
-Enrique Freeman,1642402,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2025
-Enrique Freeman,1642402,Jump Shot,3,5,1,Jump Shot,JUMP_SHOTS,,2025
-Enrique Freeman,1642402,Standard Layup,2,5,2,Layup Shot,LAYUPS,,2025
-Enrique Freeman,1642402,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2025
-Enrique Freeman,1642402,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2025
-Enrique Freeman,1642402,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2025
-Enrique Freeman,1642402,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Enrique Freeman,1642402,Driving Hook Shot,2,1,1,POST_MOVES,,2025
+Enrique Freeman,1642402,Driving Layup,2,1,1,LAYUPS,,2025
+Enrique Freeman,1642402,Finger Roll,2,1,1,LAYUPS,,2025
+Enrique Freeman,1642402,Hook Shot,2,1,0,POST_MOVES,,2025
+Enrique Freeman,1642402,Jump Shot,3,5,1,JUMP_SHOTS,,2025
+Enrique Freeman,1642402,Putback Layup,2,2,1,LAYUPS,,2025
+Enrique Freeman,1642402,Running Jump Shot,3,1,0,JUMP_SHOTS,,2025
+Enrique Freeman,1642402,Specialty Dunk,2,2,1,DUNKS,,2025
+Enrique Freeman,1642402,Standard Dunk,2,2,2,DUNKS,,2025
+Enrique Freeman,1642402,Standard Layup,2,8,4,LAYUPS,,2025
+Enrique Freeman,1642402,Turnaround Hook Shot,2,1,0,POST_MOVES,,2025

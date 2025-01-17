@@ -1,61 +1,56 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Jason Hart,2078,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2001
-Jason Hart,2078,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2002
-Jason Hart,2078,Jump Shot,2,14,6,Jump Shot,JUMP_SHOTS,,2002
-Jason Hart,2078,Standard Layup,2,4,3,Layup Shot,LAYUPS,,2002
-Jason Hart,2078,Driving Layup,2,13,9,Driving Layup Shot,LAYUPS,,2004
-Jason Hart,2078,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2004
-Jason Hart,2078,Jump Shot,2,107,41,Jump Shot,JUMP_SHOTS,,2004
-Jason Hart,2078,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2004
-Jason Hart,2078,Standard Layup,2,21,13,Layup Shot,LAYUPS,,2004
-Jason Hart,2078,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2004
-Jason Hart,2078,Running Jump Shot,2,9,3,Running Jump Shot,JUMP_SHOTS,,2004
-Jason Hart,2078,Standard Layup,2,6,3,Running Layup Shot,LAYUPS,,2004
-Jason Hart,2078,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2005
-Jason Hart,2078,Driving Layup,2,39,26,Driving Layup Shot,LAYUPS,,2005
-Jason Hart,2078,Fadeaway Jump Shot,2,3,2,Fadeaway Jump Shot,JUMP_SHOTS,,2005
-Jason Hart,2078,Jump Shot,2,3,3,Jump Bank Shot,JUMP_SHOTS,,2005
-Jason Hart,2078,Jump Shot,2,408,170,Jump Shot,JUMP_SHOTS,,2005
-Jason Hart,2078,Jump Shot,3,27,13,Jump Shot,JUMP_SHOTS,,2005
-Jason Hart,2078,Standard Layup,2,69,26,Layup Shot,LAYUPS,,2005
-Jason Hart,2078,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2005
-Jason Hart,2078,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2005
-Jason Hart,2078,Running Jump Shot,2,19,14,Running Jump Shot,JUMP_SHOTS,,2005
-Jason Hart,2078,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2005
-Jason Hart,2078,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2005
-Jason Hart,2078,Driving Layup,2,5,3,Driving Layup Shot,LAYUPS,,2006
-Jason Hart,2078,Hook Shot,2,2,1,Jump Hook Shot,POST_MOVES,,2006
-Jason Hart,2078,Jump Shot,2,175,62,Jump Shot,JUMP_SHOTS,,2006
-Jason Hart,2078,Standard Layup,2,31,16,Layup Shot,LAYUPS,,2006
-Jason Hart,2078,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2006
-Jason Hart,2078,Running Hook Shot,2,3,1,Running Hook Shot,POST_MOVES,,2006
-Jason Hart,2078,Running Jump Shot,2,3,2,Running Jump Shot,JUMP_SHOTS,,2006
-Jason Hart,2078,Driving Layup,2,10,9,Driving Layup Shot,LAYUPS,,2007
-Jason Hart,2078,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2007
-Jason Hart,2078,Finger Roll,2,1,0,Finger Roll Shot,LAYUPS,,2007
-Jason Hart,2078,Jump Shot,2,179,74,Jump Shot,JUMP_SHOTS,,2007
-Jason Hart,2078,Standard Layup,2,20,10,Layup Shot,LAYUPS,,2007
-Jason Hart,2078,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2007
-Jason Hart,2078,Running Jump Shot,2,8,4,Running Jump Shot,JUMP_SHOTS,,2007
-Jason Hart,2078,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,,2007
-Jason Hart,2078,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2008
-Jason Hart,2078,Driving Layup,2,7,3,Driving Layup Shot,LAYUPS,,2008
-Jason Hart,2078,Floating Jump Shot,2,3,3,Floating Jump shot,FLOATING_SHOTS,,2008
-Jason Hart,2078,Jump Shot,2,140,38,Jump Shot,JUMP_SHOTS,,2008
-Jason Hart,2078,Standard Layup,2,21,11,Layup Shot,LAYUPS,,2008
-Jason Hart,2078,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2008
-Jason Hart,2078,Finger Roll,2,1,0,Running Finger Roll Layup Shot,LAYUPS,,2008
-Jason Hart,2078,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2008
-Jason Hart,2078,Running Jump Shot,2,4,2,Running Jump Shot,JUMP_SHOTS,,2008
-Jason Hart,2078,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2008
-Jason Hart,2078,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2009
-Jason Hart,2078,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2009
-Jason Hart,2078,Floating Jump Shot,2,3,1,Floating Jump shot,FLOATING_SHOTS,,2009
-Jason Hart,2078,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2009
-Jason Hart,2078,Jump Shot,2,64,16,Jump Shot,JUMP_SHOTS,,2009
-Jason Hart,2078,Standard Layup,2,20,6,Layup Shot,LAYUPS,,2009
-Jason Hart,2078,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2009
-Jason Hart,2078,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2009
-Jason Hart,2078,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2009
-Jason Hart,2078,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2009
-Jason Hart,2078,Jump Shot,2,2,1,Jump Shot,JUMP_SHOTS,,2010
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Jason Hart,2078,Driving Layup,2,1,1,LAYUPS,,2001
+Jason Hart,2078,Driving Layup,2,1,1,LAYUPS,,2002
+Jason Hart,2078,Jump Shot,2,14,6,JUMP_SHOTS,,2002
+Jason Hart,2078,Standard Layup,2,4,3,LAYUPS,,2002
+Jason Hart,2078,Driving Layup,2,13,9,LAYUPS,,2004
+Jason Hart,2078,Hook Shot,2,1,1,POST_MOVES,,2004
+Jason Hart,2078,Jump Shot,2,107,41,JUMP_SHOTS,,2004
+Jason Hart,2078,Jump Shot,3,1,0,JUMP_SHOTS,,2004
+Jason Hart,2078,Running Hook Shot,2,1,1,POST_MOVES,,2004
+Jason Hart,2078,Running Jump Shot,2,9,3,JUMP_SHOTS,,2004
+Jason Hart,2078,Standard Layup,2,27,16,LAYUPS,,2004
+Jason Hart,2078,Driving Layup,2,39,26,LAYUPS,,2005
+Jason Hart,2078,Fadeaway Jump Shot,2,3,2,JUMP_SHOTS,,2005
+Jason Hart,2078,Finger Roll,2,1,1,LAYUPS,,2005
+Jason Hart,2078,Jump Shot,2,411,173,JUMP_SHOTS,,2005
+Jason Hart,2078,Jump Shot,3,27,13,JUMP_SHOTS,,2005
+Jason Hart,2078,Reverse Layup,2,1,0,LAYUPS,,2005
+Jason Hart,2078,Running Hook Shot,2,1,1,POST_MOVES,,2005
+Jason Hart,2078,Running Jump Shot,2,19,14,JUMP_SHOTS,,2005
+Jason Hart,2078,Standard Layup,2,70,26,LAYUPS,,2005
+Jason Hart,2078,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2005
+Jason Hart,2078,Driving Layup,2,5,3,LAYUPS,,2006
+Jason Hart,2078,Hook Shot,2,2,1,POST_MOVES,,2006
+Jason Hart,2078,Jump Shot,2,175,62,JUMP_SHOTS,,2006
+Jason Hart,2078,Reverse Layup,2,2,1,LAYUPS,,2006
+Jason Hart,2078,Running Hook Shot,2,3,1,POST_MOVES,,2006
+Jason Hart,2078,Running Jump Shot,2,3,2,JUMP_SHOTS,,2006
+Jason Hart,2078,Standard Layup,2,31,16,LAYUPS,,2006
+Jason Hart,2078,Driving Layup,2,10,9,LAYUPS,,2007
+Jason Hart,2078,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2007
+Jason Hart,2078,Finger Roll,2,1,0,LAYUPS,,2007
+Jason Hart,2078,Jump Shot,2,179,74,JUMP_SHOTS,,2007
+Jason Hart,2078,Reverse Layup,2,2,1,LAYUPS,,2007
+Jason Hart,2078,Running Jump Shot,2,8,4,JUMP_SHOTS,,2007
+Jason Hart,2078,Standard Layup,2,20,10,LAYUPS,,2007
+Jason Hart,2078,Tip Shot,2,3,2,TIP_SHOTS,,2007
+Jason Hart,2078,Driving Layup,2,7,3,LAYUPS,,2008
+Jason Hart,2078,Finger Roll,2,2,0,LAYUPS,,2008
+Jason Hart,2078,Floating Jump Shot,2,3,3,FLOATING_SHOTS,,2008
+Jason Hart,2078,Jump Shot,2,140,38,JUMP_SHOTS,,2008
+Jason Hart,2078,Pullup Jump Shot,2,1,1,JUMP_SHOTS,,2008
+Jason Hart,2078,Running Hook Shot,2,1,0,POST_MOVES,,2008
+Jason Hart,2078,Running Jump Shot,2,4,2,JUMP_SHOTS,,2008
+Jason Hart,2078,Standard Layup,2,21,11,LAYUPS,,2008
+Jason Hart,2078,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2008
+Jason Hart,2078,Driving Layup,2,1,1,LAYUPS,,2009
+Jason Hart,2078,Finger Roll,2,1,1,LAYUPS,,2009
+Jason Hart,2078,Floating Jump Shot,2,3,1,FLOATING_SHOTS,,2009
+Jason Hart,2078,Hook Shot,2,1,1,POST_MOVES,,2009
+Jason Hart,2078,Jump Shot,2,64,16,JUMP_SHOTS,,2009
+Jason Hart,2078,Pullup Jump Shot,2,1,1,JUMP_SHOTS,,2009
+Jason Hart,2078,Running Jump Shot,2,2,2,JUMP_SHOTS,,2009
+Jason Hart,2078,Standard Layup,2,20,6,LAYUPS,,2009
+Jason Hart,2078,Step Back Jump Shot,2,1,1,JUMP_SHOTS,,2009
+Jason Hart,2078,Jump Shot,2,2,1,JUMP_SHOTS,,2010

@@ -1,38 +1,34 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Jerome Kersey,760,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,1997
-Jerome Kersey,760,Driving Layup,2,24,21,Driving Layup Shot,LAYUPS,,1997
-Jerome Kersey,760,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,1997
-Jerome Kersey,760,Hook Shot,2,6,5,Hook Shot,POST_MOVES,,1997
-Jerome Kersey,760,Jump Shot,2,273,105,Jump Shot,JUMP_SHOTS,,1997
-Jerome Kersey,760,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,1997
-Jerome Kersey,760,Standard Layup,2,106,37,Layup Shot,LAYUPS,,1997
-Jerome Kersey,760,Running Jump Shot,2,7,6,Running Jump Shot,JUMP_SHOTS,,1997
-Jerome Kersey,760,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,1997
-Jerome Kersey,760,Tip Shot,2,21,11,Tip Shot,TIP_SHOTS,,1997
-Jerome Kersey,760,Driving Layup,2,19,11,Driving Layup Shot,LAYUPS,,1998
-Jerome Kersey,760,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,1998
-Jerome Kersey,760,Hook Shot,2,2,2,Hook Shot,POST_MOVES,,1998
-Jerome Kersey,760,Jump Shot,2,167,61,Jump Shot,JUMP_SHOTS,,1998
-Jerome Kersey,760,Standard Layup,2,27,13,Layup Shot,LAYUPS,,1998
-Jerome Kersey,760,Running Jump Shot,2,5,3,Running Jump Shot,JUMP_SHOTS,,1998
-Jerome Kersey,760,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,1998
-Jerome Kersey,760,Tip Shot,2,11,5,Tip Shot,TIP_SHOTS,,1998
-Jerome Kersey,760,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,1999
-Jerome Kersey,760,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,1999
-Jerome Kersey,760,Jump Shot,2,178,60,Jump Shot,JUMP_SHOTS,,1999
-Jerome Kersey,760,Standard Layup,2,15,1,Layup Shot,LAYUPS,,1999
-Jerome Kersey,760,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,1999
-Jerome Kersey,760,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,1999
-Jerome Kersey,760,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,,1999
-Jerome Kersey,760,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2000
-Jerome Kersey,760,Driving Layup,2,8,6,Driving Layup Shot,LAYUPS,,2000
-Jerome Kersey,760,Standard Dunk,2,5,4,Dunk Shot,DUNKS,,2000
-Jerome Kersey,760,Hook Shot,2,4,2,Hook Shot,POST_MOVES,,2000
-Jerome Kersey,760,Jump Shot,2,285,110,Jump Shot,JUMP_SHOTS,,2000
-Jerome Kersey,760,Standard Layup,2,39,16,Layup Shot,LAYUPS,,2000
-Jerome Kersey,760,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2000
-Jerome Kersey,760,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2000
-Jerome Kersey,760,Tip Shot,2,8,4,Tip Shot,TIP_SHOTS,,2000
-Jerome Kersey,760,Jump Shot,2,62,28,Jump Shot,JUMP_SHOTS,,2001
-Jerome Kersey,760,Standard Layup,2,6,3,Layup Shot,LAYUPS,,2001
-Jerome Kersey,760,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Jerome Kersey,760,Driving Dunk,2,3,3,DUNKS,,1997
+Jerome Kersey,760,Driving Layup,2,24,21,LAYUPS,,1997
+Jerome Kersey,760,Hook Shot,2,6,5,POST_MOVES,,1997
+Jerome Kersey,760,Jump Shot,2,273,105,JUMP_SHOTS,,1997
+Jerome Kersey,760,Jump Shot,3,2,0,JUMP_SHOTS,,1997
+Jerome Kersey,760,Running Jump Shot,2,7,6,JUMP_SHOTS,,1997
+Jerome Kersey,760,Standard Dunk,2,7,6,DUNKS,,1997
+Jerome Kersey,760,Standard Layup,2,106,37,LAYUPS,,1997
+Jerome Kersey,760,Tip Shot,2,21,11,TIP_SHOTS,,1997
+Jerome Kersey,760,Driving Layup,2,19,11,LAYUPS,,1998
+Jerome Kersey,760,Hook Shot,2,2,2,POST_MOVES,,1998
+Jerome Kersey,760,Jump Shot,2,167,61,JUMP_SHOTS,,1998
+Jerome Kersey,760,Running Jump Shot,2,5,3,JUMP_SHOTS,,1998
+Jerome Kersey,760,Standard Dunk,2,2,2,DUNKS,,1998
+Jerome Kersey,760,Standard Layup,2,27,13,LAYUPS,,1998
+Jerome Kersey,760,Tip Shot,2,11,5,TIP_SHOTS,,1998
+Jerome Kersey,760,Driving Layup,2,1,1,LAYUPS,,1999
+Jerome Kersey,760,Jump Shot,2,178,60,JUMP_SHOTS,,1999
+Jerome Kersey,760,Running Jump Shot,2,1,1,JUMP_SHOTS,,1999
+Jerome Kersey,760,Standard Dunk,2,3,3,DUNKS,,1999
+Jerome Kersey,760,Standard Layup,2,15,1,LAYUPS,,1999
+Jerome Kersey,760,Tip Shot,2,2,2,TIP_SHOTS,,1999
+Jerome Kersey,760,Driving Dunk,2,2,2,DUNKS,,2000
+Jerome Kersey,760,Driving Layup,2,8,6,LAYUPS,,2000
+Jerome Kersey,760,Hook Shot,2,4,2,POST_MOVES,,2000
+Jerome Kersey,760,Jump Shot,2,285,110,JUMP_SHOTS,,2000
+Jerome Kersey,760,Running Jump Shot,2,1,0,JUMP_SHOTS,,2000
+Jerome Kersey,760,Standard Dunk,2,7,6,DUNKS,,2000
+Jerome Kersey,760,Standard Layup,2,39,16,LAYUPS,,2000
+Jerome Kersey,760,Tip Shot,2,8,4,TIP_SHOTS,,2000
+Jerome Kersey,760,Jump Shot,2,62,28,JUMP_SHOTS,,2001
+Jerome Kersey,760,Standard Layup,2,6,3,LAYUPS,,2001
+Jerome Kersey,760,Tip Shot,2,1,1,TIP_SHOTS,,2001

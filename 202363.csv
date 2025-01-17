@@ -1,16 +1,14 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Jarvis Varnado,202363,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2013
-Jarvis Varnado,202363,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2013
-Jarvis Varnado,202363,Jump Shot,2,3,1,Jump Shot,JUMP_SHOTS,,2013
-Jarvis Varnado,202363,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2013
-Jarvis Varnado,202363,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2013
-Jarvis Varnado,202363,Standard Dunk,2,7,7,Dunk Shot,DUNKS,,2014
-Jarvis Varnado,202363,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2014
-Jarvis Varnado,202363,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2014
-Jarvis Varnado,202363,Hook Shot,2,7,2,Hook Shot,POST_MOVES,,2014
-Jarvis Varnado,202363,Jump Shot,2,23,13,Jump Shot,JUMP_SHOTS,,2014
-Jarvis Varnado,202363,Standard Layup,2,10,7,Layup Shot,LAYUPS,,2014
-Jarvis Varnado,202363,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2014
-Jarvis Varnado,202363,Standard Dunk,2,1,0,Running Dunk Shot,DUNKS,,2014
-Jarvis Varnado,202363,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2014
-Jarvis Varnado,202363,Tip Shot,2,6,3,Tip Shot,TIP_SHOTS,,2014
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Jarvis Varnado,202363,Driving Layup,2,1,0,LAYUPS,,2013
+Jarvis Varnado,202363,Jump Shot,2,3,1,JUMP_SHOTS,,2013
+Jarvis Varnado,202363,Standard Dunk,2,1,1,DUNKS,,2013
+Jarvis Varnado,202363,Standard Layup,2,1,0,LAYUPS,,2013
+Jarvis Varnado,202363,Tip Shot,2,1,1,TIP_SHOTS,,2013
+Jarvis Varnado,202363,Finger Roll,2,1,1,LAYUPS,,2014
+Jarvis Varnado,202363,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2014
+Jarvis Varnado,202363,Hook Shot,2,7,2,POST_MOVES,,2014
+Jarvis Varnado,202363,Jump Shot,2,23,13,JUMP_SHOTS,,2014
+Jarvis Varnado,202363,Reverse Layup,2,1,0,LAYUPS,,2014
+Jarvis Varnado,202363,Standard Dunk,2,11,10,DUNKS,,2014
+Jarvis Varnado,202363,Standard Layup,2,10,7,LAYUPS,,2014
+Jarvis Varnado,202363,Tip Shot,2,6,3,TIP_SHOTS,,2014

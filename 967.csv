@@ -1,16 +1,16 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Brian Evans,967,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,1997
-Brian Evans,967,Jump Shot,2,19,6,Jump Shot,JUMP_SHOTS,,1997
-Brian Evans,967,Standard Layup,2,1,1,Layup Shot,LAYUPS,,1997
-Brian Evans,967,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,1997
-Brian Evans,967,Driving Layup,2,14,8,Driving Layup Shot,LAYUPS,,1998
-Brian Evans,967,Hook Shot,2,5,3,Hook Shot,POST_MOVES,,1998
-Brian Evans,967,Jump Shot,2,251,96,Jump Shot,JUMP_SHOTS,,1998
-Brian Evans,967,Standard Layup,2,25,10,Layup Shot,LAYUPS,,1998
-Brian Evans,967,Running Jump Shot,2,7,4,Running Jump Shot,JUMP_SHOTS,,1998
-Brian Evans,967,Tip Shot,2,10,2,Tip Shot,TIP_SHOTS,,1998
-Brian Evans,967,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,1999
-Brian Evans,967,Jump Shot,2,38,11,Jump Shot,JUMP_SHOTS,,1999
-Brian Evans,967,Standard Layup,2,1,1,Layup Shot,LAYUPS,,1999
-Brian Evans,967,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,1999
-Brian Evans,967,Tip Shot,2,3,0,Tip Shot,TIP_SHOTS,,1999
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Brian Evans,967,Driving Layup,2,1,1,LAYUPS,,1997
+Brian Evans,967,Jump Shot,2,19,6,JUMP_SHOTS,,1997
+Brian Evans,967,Standard Layup,2,1,1,LAYUPS,,1997
+Brian Evans,967,Tip Shot,2,1,0,TIP_SHOTS,,1997
+Brian Evans,967,Driving Layup,2,14,8,LAYUPS,,1998
+Brian Evans,967,Hook Shot,2,5,3,POST_MOVES,,1998
+Brian Evans,967,Jump Shot,2,251,96,JUMP_SHOTS,,1998
+Brian Evans,967,Running Jump Shot,2,7,4,JUMP_SHOTS,,1998
+Brian Evans,967,Standard Layup,2,25,10,LAYUPS,,1998
+Brian Evans,967,Tip Shot,2,10,2,TIP_SHOTS,,1998
+Brian Evans,967,Driving Layup,2,1,0,LAYUPS,,1999
+Brian Evans,967,Jump Shot,2,38,11,JUMP_SHOTS,,1999
+Brian Evans,967,Running Jump Shot,2,1,1,JUMP_SHOTS,,1999
+Brian Evans,967,Standard Layup,2,1,1,LAYUPS,,1999
+Brian Evans,967,Tip Shot,2,3,0,TIP_SHOTS,,1999

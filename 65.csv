@@ -1,22 +1,21 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Greg Minor,65,Driving Layup,2,10,10,Driving Layup Shot,LAYUPS,,1997
-Greg Minor,65,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,1997
-Greg Minor,65,Jump Shot,2,111,62,Jump Shot,JUMP_SHOTS,,1997
-Greg Minor,65,Standard Layup,2,69,16,Layup Shot,LAYUPS,,1997
-Greg Minor,65,Running Jump Shot,2,3,3,Running Jump Shot,JUMP_SHOTS,,1997
-Greg Minor,65,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,,1997
-Greg Minor,65,Driving Layup,2,19,16,Driving Layup Shot,LAYUPS,,1998
-Greg Minor,65,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,1998
-Greg Minor,65,Jump Shot,2,234,89,Jump Shot,JUMP_SHOTS,,1998
-Greg Minor,65,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,1998
-Greg Minor,65,Standard Layup,2,52,22,Layup Shot,LAYUPS,,1998
-Greg Minor,65,Running Jump Shot,2,3,3,Running Jump Shot,JUMP_SHOTS,,1998
-Greg Minor,65,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,1998
-Greg Minor,65,Tip Shot,2,5,4,Tip Shot,TIP_SHOTS,,1998
-Greg Minor,65,Driving Layup,2,11,8,Driving Layup Shot,LAYUPS,,1999
-Greg Minor,65,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,1999
-Greg Minor,65,Jump Shot,2,152,54,Jump Shot,JUMP_SHOTS,,1999
-Greg Minor,65,Standard Layup,2,32,18,Layup Shot,LAYUPS,,1999
-Greg Minor,65,Running Jump Shot,2,3,2,Running Jump Shot,JUMP_SHOTS,,1999
-Greg Minor,65,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,1999
-Greg Minor,65,Tip Shot,2,4,2,Tip Shot,TIP_SHOTS,,1999
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Greg Minor,65,Driving Layup,2,10,10,LAYUPS,,1997
+Greg Minor,65,Hook Shot,2,1,1,POST_MOVES,,1997
+Greg Minor,65,Jump Shot,2,111,62,JUMP_SHOTS,,1997
+Greg Minor,65,Running Jump Shot,2,3,3,JUMP_SHOTS,,1997
+Greg Minor,65,Standard Layup,2,69,16,LAYUPS,,1997
+Greg Minor,65,Tip Shot,2,2,2,TIP_SHOTS,,1997
+Greg Minor,65,Driving Layup,2,19,16,LAYUPS,,1998
+Greg Minor,65,Jump Shot,2,234,89,JUMP_SHOTS,,1998
+Greg Minor,65,Jump Shot,3,2,0,JUMP_SHOTS,,1998
+Greg Minor,65,Running Jump Shot,2,3,3,JUMP_SHOTS,,1998
+Greg Minor,65,Standard Dunk,2,6,6,DUNKS,,1998
+Greg Minor,65,Standard Layup,2,52,22,LAYUPS,,1998
+Greg Minor,65,Tip Shot,2,5,4,TIP_SHOTS,,1998
+Greg Minor,65,Driving Layup,2,11,8,LAYUPS,,1999
+Greg Minor,65,Hook Shot,2,1,0,POST_MOVES,,1999
+Greg Minor,65,Jump Shot,2,152,54,JUMP_SHOTS,,1999
+Greg Minor,65,Running Jump Shot,2,3,2,JUMP_SHOTS,,1999
+Greg Minor,65,Standard Dunk,2,1,1,DUNKS,,1999
+Greg Minor,65,Standard Layup,2,32,18,LAYUPS,,1999
+Greg Minor,65,Tip Shot,2,4,2,TIP_SHOTS,,1999

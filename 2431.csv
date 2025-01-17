@@ -1,32 +1,25 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-David Andersen,2431,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2010
-David Andersen,2431,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2010
-David Andersen,2431,Standard Dunk,2,6,4,Dunk Shot,DUNKS,,2010
-David Andersen,2431,Fadeaway Jump Shot,2,5,1,Fadeaway Jump Shot,JUMP_SHOTS,,2010
-David Andersen,2431,Hook Shot,2,16,10,Hook Shot,POST_MOVES,,2010
-David Andersen,2431,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2010
-David Andersen,2431,Hook Shot,2,9,8,Jump Hook Shot,POST_MOVES,,2010
-David Andersen,2431,Jump Shot,2,213,80,Jump Shot,JUMP_SHOTS,,2010
-David Andersen,2431,Standard Layup,2,43,20,Layup Shot,LAYUPS,,2010
-David Andersen,2431,Pullup Jump Shot,2,2,2,Pullup Jump shot,JUMP_SHOTS,,2010
-David Andersen,2431,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2010
-David Andersen,2431,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2010
-David Andersen,2431,Tip Shot,2,4,3,Tip Shot,TIP_SHOTS,,2010
-David Andersen,2431,Turnaround Jump Shot,2,14,10,Turnaround Fadeaway shot,JUMP_SHOTS,,2010
-David Andersen,2431,Turnaround Hook Shot,2,3,0,Turnaround Hook Shot,POST_MOVES,,2010
-David Andersen,2431,Turnaround Jump Shot,2,19,6,Turnaround Jump Shot,JUMP_SHOTS,,2010
-David Andersen,2431,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2011
-David Andersen,2431,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2011
-David Andersen,2431,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2011
-David Andersen,2431,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2011
-David Andersen,2431,Jump Shot,2,93,43,Jump Shot,JUMP_SHOTS,,2011
-David Andersen,2431,Standard Layup,2,4,1,Layup Shot,LAYUPS,,2011
-David Andersen,2431,Pullup Jump Shot,2,3,1,Pullup Jump shot,JUMP_SHOTS,,2011
-David Andersen,2431,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2011
-David Andersen,2431,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2011
-David Andersen,2431,Running Jump Shot,2,4,1,Running Jump Shot,JUMP_SHOTS,,2011
-David Andersen,2431,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2011
-David Andersen,2431,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2011
-David Andersen,2431,Tip Shot,2,4,2,Tip Shot,TIP_SHOTS,,2011
-David Andersen,2431,Turnaround Jump Shot,2,3,3,Turnaround Fadeaway shot,JUMP_SHOTS,,2011
-David Andersen,2431,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2011
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+David Andersen,2431,Driving Jump Shot,2,1,0,JUMP_SHOTS,,2010
+David Andersen,2431,Driving Layup,2,1,0,LAYUPS,,2010
+David Andersen,2431,Fadeaway Jump Shot,2,5,1,JUMP_SHOTS,,2010
+David Andersen,2431,Hook Shot,2,25,18,POST_MOVES,,2010
+David Andersen,2431,Jump Shot,2,214,81,JUMP_SHOTS,,2010
+David Andersen,2431,Pullup Jump Shot,2,2,2,JUMP_SHOTS,,2010
+David Andersen,2431,Putback Layup,2,2,2,LAYUPS,,2010
+David Andersen,2431,Standard Dunk,2,6,4,DUNKS,,2010
+David Andersen,2431,Standard Layup,2,43,20,LAYUPS,,2010
+David Andersen,2431,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2010
+David Andersen,2431,Tip Shot,2,4,3,TIP_SHOTS,,2010
+David Andersen,2431,Turnaround Hook Shot,2,3,0,POST_MOVES,,2010
+David Andersen,2431,Turnaround Jump Shot,2,33,16,JUMP_SHOTS,,2010
+David Andersen,2431,Hook Shot,2,2,0,POST_MOVES,,2011
+David Andersen,2431,Jump Shot,2,94,44,JUMP_SHOTS,,2011
+David Andersen,2431,Pullup Jump Shot,2,3,1,JUMP_SHOTS,,2011
+David Andersen,2431,Putback Layup,2,1,1,LAYUPS,,2011
+David Andersen,2431,Reverse Layup,2,2,1,LAYUPS,,2011
+David Andersen,2431,Running Jump Shot,2,4,1,JUMP_SHOTS,,2011
+David Andersen,2431,Standard Dunk,2,1,1,DUNKS,,2011
+David Andersen,2431,Standard Layup,2,4,1,LAYUPS,,2011
+David Andersen,2431,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2011
+David Andersen,2431,Tip Shot,2,4,2,TIP_SHOTS,,2011
+David Andersen,2431,Turnaround Jump Shot,2,5,4,JUMP_SHOTS,,2011

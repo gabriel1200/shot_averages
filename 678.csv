@@ -1,12 +1,11 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-George Zidek,678,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,1997
-George Zidek,678,Hook Shot,2,28,18,Hook Shot,POST_MOVES,,1997
-George Zidek,678,Jump Shot,2,45,20,Jump Shot,JUMP_SHOTS,,1997
-George Zidek,678,Standard Layup,2,39,7,Layup Shot,LAYUPS,,1997
-George Zidek,678,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,1997
-George Zidek,678,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,1997
-George Zidek,678,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,,1997
-George Zidek,678,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,1998
-George Zidek,678,Hook Shot,2,9,2,Hook Shot,POST_MOVES,,1998
-George Zidek,678,Jump Shot,2,14,3,Jump Shot,JUMP_SHOTS,,1998
-George Zidek,678,Standard Layup,2,5,1,Layup Shot,LAYUPS,,1998
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+George Zidek,678,Hook Shot,2,28,18,POST_MOVES,,1997
+George Zidek,678,Jump Shot,2,45,20,JUMP_SHOTS,,1997
+George Zidek,678,Running Jump Shot,2,1,1,JUMP_SHOTS,,1997
+George Zidek,678,Standard Dunk,2,2,2,DUNKS,,1997
+George Zidek,678,Standard Layup,2,39,7,LAYUPS,,1997
+George Zidek,678,Tip Shot,2,3,1,TIP_SHOTS,,1997
+George Zidek,678,Driving Layup,2,1,1,LAYUPS,,1998
+George Zidek,678,Hook Shot,2,9,2,POST_MOVES,,1998
+George Zidek,678,Jump Shot,2,14,3,JUMP_SHOTS,,1998
+George Zidek,678,Standard Layup,2,5,1,LAYUPS,,1998

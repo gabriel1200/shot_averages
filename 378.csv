@@ -1,9 +1,9 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Craig Ehlo,378,Driving Layup,2,16,11,Driving Layup Shot,LAYUPS,,1997
-Craig Ehlo,378,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,1997
-Craig Ehlo,378,Jump Shot,2,125,36,Jump Shot,JUMP_SHOTS,,1997
-Craig Ehlo,378,Jump Shot,3,35,9,Jump Shot,JUMP_SHOTS,,1997
-Craig Ehlo,378,Standard Layup,2,65,27,Layup Shot,LAYUPS,,1997
-Craig Ehlo,378,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,1997
-Craig Ehlo,378,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,1997
-Craig Ehlo,378,Tip Shot,2,4,1,Tip Shot,TIP_SHOTS,,1997
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Craig Ehlo,378,Driving Layup,2,16,11,LAYUPS,,1997
+Craig Ehlo,378,Hook Shot,2,1,1,POST_MOVES,,1997
+Craig Ehlo,378,Jump Shot,2,125,36,JUMP_SHOTS,,1997
+Craig Ehlo,378,Jump Shot,3,35,9,JUMP_SHOTS,,1997
+Craig Ehlo,378,Running Jump Shot,2,1,1,JUMP_SHOTS,,1997
+Craig Ehlo,378,Standard Dunk,2,1,1,DUNKS,,1997
+Craig Ehlo,378,Standard Layup,2,65,27,LAYUPS,,1997
+Craig Ehlo,378,Tip Shot,2,4,1,TIP_SHOTS,,1997

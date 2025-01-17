@@ -1,18 +1,15 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Russ Smith,203893,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2015
-Russ Smith,203893,Jump Shot,2,14,1,Jump Shot,JUMP_SHOTS,,2015
-Russ Smith,203893,Standard Layup,2,4,1,Layup Shot,LAYUPS,,2015
-Russ Smith,203893,Pullup Jump Shot,2,2,1,Pullup Jump shot,JUMP_SHOTS,,2015
-Russ Smith,203893,Running Jump Shot,2,3,3,Running Jump Shot,JUMP_SHOTS,,2015
-Russ Smith,203893,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2015
-Russ Smith,203893,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2016
-Russ Smith,203893,Driving Layup,2,4,3,Driving Layup Shot,LAYUPS,,2016
-Russ Smith,203893,Floating Jump Shot,2,2,0,Floating Jump shot,FLOATING_SHOTS,,2016
-Russ Smith,203893,Jump Shot,2,6,1,Jump Shot,JUMP_SHOTS,,2016
-Russ Smith,203893,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2016
-Russ Smith,203893,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2016
-Russ Smith,203893,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2016
-Russ Smith,203893,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2016
-Russ Smith,203893,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2016
-Russ Smith,203893,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2016
-Russ Smith,203893,Reverse Layup,2,2,1,Running Reverse Layup Shot,LAYUPS,,2016
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Russ Smith,203893,Floating Jump Shot,2,1,1,FLOATING_SHOTS,,2015
+Russ Smith,203893,Jump Shot,2,14,1,JUMP_SHOTS,,2015
+Russ Smith,203893,Pullup Jump Shot,2,2,1,JUMP_SHOTS,,2015
+Russ Smith,203893,Running Jump Shot,2,3,3,JUMP_SHOTS,,2015
+Russ Smith,203893,Standard Layup,2,5,2,LAYUPS,,2015
+Russ Smith,203893,Driving Hook Shot,2,1,0,POST_MOVES,,2016
+Russ Smith,203893,Driving Layup,2,4,3,LAYUPS,,2016
+Russ Smith,203893,Floating Jump Shot,2,2,0,FLOATING_SHOTS,,2016
+Russ Smith,203893,Jump Shot,2,6,1,JUMP_SHOTS,,2016
+Russ Smith,203893,Pullup Jump Shot,2,1,1,JUMP_SHOTS,,2016
+Russ Smith,203893,Reverse Layup,2,3,1,LAYUPS,,2016
+Russ Smith,203893,Running Jump Shot,2,2,0,JUMP_SHOTS,,2016
+Russ Smith,203893,Standard Dunk,2,1,1,DUNKS,,2016
+Russ Smith,203893,Standard Layup,2,2,0,LAYUPS,,2016

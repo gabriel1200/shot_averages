@@ -1,8 +1,7 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Thomas Hamilton,676,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2000
-Thomas Hamilton,676,Standard Dunk,2,7,6,Dunk Shot,DUNKS,,2000
-Thomas Hamilton,676,Hook Shot,2,11,5,Hook Shot,POST_MOVES,,2000
-Thomas Hamilton,676,Jump Shot,2,26,1,Jump Shot,JUMP_SHOTS,,2000
-Thomas Hamilton,676,Standard Layup,2,23,12,Layup Shot,LAYUPS,,2000
-Thomas Hamilton,676,Standard Dunk,2,10,9,Slam Dunk Shot,DUNKS,,2000
-Thomas Hamilton,676,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2000
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Thomas Hamilton,676,Driving Layup,2,1,1,LAYUPS,,2000
+Thomas Hamilton,676,Hook Shot,2,11,5,POST_MOVES,,2000
+Thomas Hamilton,676,Jump Shot,2,26,1,JUMP_SHOTS,,2000
+Thomas Hamilton,676,Standard Dunk,2,17,15,DUNKS,,2000
+Thomas Hamilton,676,Standard Layup,2,23,12,LAYUPS,,2000
+Thomas Hamilton,676,Tip Shot,2,1,1,TIP_SHOTS,,2000

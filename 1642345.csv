@@ -1,23 +1,15 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Oso Ighodaro,1642345,Alley Oop Dunk,2,4,4,Alley Oop Dunk Shot,DUNKS,,2025
-Oso Ighodaro,1642345,Specialty Dunk,2,15,14,Cutting Dunk Shot,DUNKS,,2025
-Oso Ighodaro,1642345,Standard Layup,2,6,3,Cutting Layup Shot,LAYUPS,,2025
-Oso Ighodaro,1642345,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2025
-Oso Ighodaro,1642345,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2025
-Oso Ighodaro,1642345,Floating Jump Shot,2,8,6,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
-Oso Ighodaro,1642345,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2025
-Oso Ighodaro,1642345,Driving Layup,2,2,0,Driving Layup Shot,LAYUPS,,2025
-Oso Ighodaro,1642345,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2025
-Oso Ighodaro,1642345,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2025
-Oso Ighodaro,1642345,Floating Jump Shot,2,27,10,Floating Jump shot,FLOATING_SHOTS,,2025
-Oso Ighodaro,1642345,Hook Shot,2,5,3,Hook Shot,POST_MOVES,,2025
-Oso Ighodaro,1642345,Pullup Jump Shot,3,2,0,Pullup Jump shot,JUMP_SHOTS,,2025
-Oso Ighodaro,1642345,Putback Layup,2,2,0,Putback Layup Shot,LAYUPS,,2025
-Oso Ighodaro,1642345,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2025
-Oso Ighodaro,1642345,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2025
-Oso Ighodaro,1642345,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2025
-Oso Ighodaro,1642345,Standard Layup,2,3,1,Running Layup Shot,LAYUPS,,2025
-Oso Ighodaro,1642345,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2025
-Oso Ighodaro,1642345,Specialty Dunk,2,2,2,Tip Dunk Shot,DUNKS,,2025
-Oso Ighodaro,1642345,Putback Layup,2,5,3,Tip Layup Shot,LAYUPS,,2025
-Oso Ighodaro,1642345,Turnaround Hook Shot,2,4,1,Turnaround Hook Shot,POST_MOVES,,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Oso Ighodaro,1642345,Alley Oop Dunk,2,4,4,DUNKS,,2025
+Oso Ighodaro,1642345,Driving Dunk,2,1,1,DUNKS,,2025
+Oso Ighodaro,1642345,Driving Hook Shot,2,1,0,POST_MOVES,,2025
+Oso Ighodaro,1642345,Driving Layup,2,5,2,LAYUPS,,2025
+Oso Ighodaro,1642345,Finger Roll,2,1,1,LAYUPS,,2025
+Oso Ighodaro,1642345,Floating Jump Shot,2,36,16,FLOATING_SHOTS,,2025
+Oso Ighodaro,1642345,Hook Shot,2,5,3,POST_MOVES,,2025
+Oso Ighodaro,1642345,Pullup Jump Shot,3,2,0,JUMP_SHOTS,,2025
+Oso Ighodaro,1642345,Putback Layup,2,7,3,LAYUPS,,2025
+Oso Ighodaro,1642345,Reverse Layup,2,3,2,LAYUPS,,2025
+Oso Ighodaro,1642345,Specialty Dunk,2,17,16,DUNKS,,2025
+Oso Ighodaro,1642345,Standard Dunk,2,5,5,DUNKS,,2025
+Oso Ighodaro,1642345,Standard Layup,2,9,4,LAYUPS,,2025
+Oso Ighodaro,1642345,Turnaround Hook Shot,2,4,1,POST_MOVES,,2025

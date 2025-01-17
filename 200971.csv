@@ -1,8 +1,7 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Dontell Jefferson,200971,Driving Layup,2,6,5,Driving Layup Shot,LAYUPS,,2009
-Dontell Jefferson,200971,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2009
-Dontell Jefferson,200971,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2009
-Dontell Jefferson,200971,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2009
-Dontell Jefferson,200971,Jump Shot,2,7,1,Jump Shot,JUMP_SHOTS,,2009
-Dontell Jefferson,200971,Standard Layup,2,4,2,Layup Shot,LAYUPS,,2009
-Dontell Jefferson,200971,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2009
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Dontell Jefferson,200971,Driving Layup,2,7,6,LAYUPS,,2009
+Dontell Jefferson,200971,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2009
+Dontell Jefferson,200971,Jump Shot,2,7,1,JUMP_SHOTS,,2009
+Dontell Jefferson,200971,Running Jump Shot,2,2,1,JUMP_SHOTS,,2009
+Dontell Jefferson,200971,Standard Dunk,2,1,1,DUNKS,,2009
+Dontell Jefferson,200971,Standard Layup,2,4,2,LAYUPS,,2009

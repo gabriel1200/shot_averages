@@ -1,43 +1,38 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Pat Burke,2469,Alley Oop Layup,2,2,0,Alley Oop Layup shot,LAYUPS,,2003
-Pat Burke,2469,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2003
-Pat Burke,2469,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,2003
-Pat Burke,2469,Standard Dunk,2,5,4,Dunk Shot,DUNKS,,2003
-Pat Burke,2469,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2003
-Pat Burke,2469,Hook Shot,2,11,5,Hook Shot,POST_MOVES,,2003
-Pat Burke,2469,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2003
-Pat Burke,2469,Jump Shot,2,177,52,Jump Shot,JUMP_SHOTS,,2003
-Pat Burke,2469,Standard Layup,2,64,26,Layup Shot,LAYUPS,,2003
-Pat Burke,2469,Reverse Layup,2,6,6,Reverse Layup Shot,LAYUPS,,2003
-Pat Burke,2469,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2003
-Pat Burke,2469,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2003
-Pat Burke,2469,Tip Shot,2,14,5,Tip Shot,TIP_SHOTS,,2003
-Pat Burke,2469,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2003
-Pat Burke,2469,Turnaround Jump Shot,2,4,4,Turnaround Jump Shot,JUMP_SHOTS,,2003
-Pat Burke,2469,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2006
-Pat Burke,2469,Driving Layup,2,2,1,Driving Layup Shot,LAYUPS,,2006
-Pat Burke,2469,Standard Dunk,2,9,8,Dunk Shot,DUNKS,,2006
-Pat Burke,2469,Specialty Dunk,2,2,2,Follow Up Dunk Shot,DUNKS,,2006
-Pat Burke,2469,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2006
-Pat Burke,2469,Jump Shot,2,3,2,Jump Bank Shot,JUMP_SHOTS,,2006
-Pat Burke,2469,Hook Shot,2,3,1,Jump Hook Shot,POST_MOVES,,2006
-Pat Burke,2469,Jump Shot,2,69,23,Jump Shot,JUMP_SHOTS,,2006
-Pat Burke,2469,Standard Layup,2,18,11,Layup Shot,LAYUPS,,2006
-Pat Burke,2469,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2006
-Pat Burke,2469,Reverse Layup,2,6,4,Reverse Layup Shot,LAYUPS,,2006
-Pat Burke,2469,Running Hook Shot,2,2,2,Running Hook Shot,POST_MOVES,,2006
-Pat Burke,2469,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2006
-Pat Burke,2469,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2006
-Pat Burke,2469,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,,2006
-Pat Burke,2469,Turnaround Jump Shot,2,4,3,Turnaround Jump Shot,JUMP_SHOTS,,2006
-Pat Burke,2469,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2007
-Pat Burke,2469,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2007
-Pat Burke,2469,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,2007
-Pat Burke,2469,Standard Dunk,2,4,3,Dunk Shot,DUNKS,,2007
-Pat Burke,2469,Specialty Dunk,2,3,2,Follow Up Dunk Shot,DUNKS,,2007
-Pat Burke,2469,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2007
-Pat Burke,2469,Jump Shot,2,39,8,Jump Shot,JUMP_SHOTS,,2007
-Pat Burke,2469,Standard Layup,2,10,3,Layup Shot,LAYUPS,,2007
-Pat Burke,2469,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2007
-Pat Burke,2469,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2007
-Pat Burke,2469,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2007
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Pat Burke,2469,Alley Oop Layup,2,2,0,LAYUPS,,2003
+Pat Burke,2469,Driving Dunk,2,3,3,DUNKS,,2003
+Pat Burke,2469,Driving Layup,2,2,2,LAYUPS,,2003
+Pat Burke,2469,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2003
+Pat Burke,2469,Hook Shot,2,12,5,POST_MOVES,,2003
+Pat Burke,2469,Jump Shot,2,177,52,JUMP_SHOTS,,2003
+Pat Burke,2469,Reverse Layup,2,6,6,LAYUPS,,2003
+Pat Burke,2469,Running Jump Shot,2,1,1,JUMP_SHOTS,,2003
+Pat Burke,2469,Standard Dunk,2,9,8,DUNKS,,2003
+Pat Burke,2469,Standard Layup,2,64,26,LAYUPS,,2003
+Pat Burke,2469,Tip Shot,2,14,5,TIP_SHOTS,,2003
+Pat Burke,2469,Turnaround Hook Shot,2,1,0,POST_MOVES,,2003
+Pat Burke,2469,Turnaround Jump Shot,2,4,4,JUMP_SHOTS,,2003
+Pat Burke,2469,Alley Oop Layup,2,1,1,LAYUPS,,2006
+Pat Burke,2469,Driving Layup,2,2,1,LAYUPS,,2006
+Pat Burke,2469,Hook Shot,2,5,1,POST_MOVES,,2006
+Pat Burke,2469,Jump Shot,2,72,25,JUMP_SHOTS,,2006
+Pat Burke,2469,Reverse Dunk,2,1,1,DUNKS,,2006
+Pat Burke,2469,Reverse Layup,2,6,4,LAYUPS,,2006
+Pat Burke,2469,Running Hook Shot,2,2,2,POST_MOVES,,2006
+Pat Burke,2469,Running Jump Shot,2,1,1,JUMP_SHOTS,,2006
+Pat Burke,2469,Specialty Dunk,2,2,2,DUNKS,,2006
+Pat Burke,2469,Standard Dunk,2,10,9,DUNKS,,2006
+Pat Burke,2469,Standard Layup,2,18,11,LAYUPS,,2006
+Pat Burke,2469,Tip Shot,2,3,2,TIP_SHOTS,,2006
+Pat Burke,2469,Turnaround Jump Shot,2,4,3,JUMP_SHOTS,,2006
+Pat Burke,2469,Alley Oop Layup,2,1,0,LAYUPS,,2007
+Pat Burke,2469,Driving Dunk,2,1,1,DUNKS,,2007
+Pat Burke,2469,Driving Layup,2,2,2,LAYUPS,,2007
+Pat Burke,2469,Hook Shot,2,1,1,POST_MOVES,,2007
+Pat Burke,2469,Jump Shot,2,39,8,JUMP_SHOTS,,2007
+Pat Burke,2469,Reverse Dunk,2,1,1,DUNKS,,2007
+Pat Burke,2469,Reverse Layup,2,2,1,LAYUPS,,2007
+Pat Burke,2469,Specialty Dunk,2,3,2,DUNKS,,2007
+Pat Burke,2469,Standard Dunk,2,4,3,DUNKS,,2007
+Pat Burke,2469,Standard Layup,2,10,3,LAYUPS,,2007
+Pat Burke,2469,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2007

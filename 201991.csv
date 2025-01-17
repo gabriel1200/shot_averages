@@ -1,39 +1,35 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Lester Hudson,201991,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2010
-Lester Hudson,201991,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,2010
-Lester Hudson,201991,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2010
-Lester Hudson,201991,Jump Shot,2,32,7,Jump Shot,JUMP_SHOTS,,2010
-Lester Hudson,201991,Jump Shot,3,1,1,Jump Shot,JUMP_SHOTS,,2010
-Lester Hudson,201991,Standard Layup,2,4,1,Layup Shot,LAYUPS,,2010
-Lester Hudson,201991,Pullup Jump Shot,2,4,3,Pullup Jump shot,JUMP_SHOTS,,2010
-Lester Hudson,201991,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2010
-Lester Hudson,201991,Running Jump Shot,2,1,0,Running Bank shot,JUMP_SHOTS,,2010
-Lester Hudson,201991,Running Jump Shot,2,4,2,Running Jump Shot,JUMP_SHOTS,,2010
-Lester Hudson,201991,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2010
-Lester Hudson,201991,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2011
-Lester Hudson,201991,Jump Shot,2,21,5,Jump Shot,JUMP_SHOTS,,2011
-Lester Hudson,201991,Standard Layup,2,2,0,Layup Shot,LAYUPS,,2011
-Lester Hudson,201991,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2012
-Lester Hudson,201991,Driving Hook Shot,2,1,0,Driving Bank Hook Shot,POST_MOVES,,2012
-Lester Hudson,201991,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2012
-Lester Hudson,201991,Driving Layup,2,14,11,Driving Layup Shot,LAYUPS,,2012
-Lester Hudson,201991,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2012
-Lester Hudson,201991,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2012
-Lester Hudson,201991,Floating Jump Shot,2,9,5,Floating Jump shot,FLOATING_SHOTS,,2012
-Lester Hudson,201991,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2012
-Lester Hudson,201991,Jump Shot,2,99,27,Jump Shot,JUMP_SHOTS,,2012
-Lester Hudson,201991,Jump Shot,3,6,0,Jump Shot,JUMP_SHOTS,,2012
-Lester Hudson,201991,Standard Layup,2,12,5,Layup Shot,LAYUPS,,2012
-Lester Hudson,201991,Pullup Jump Shot,2,3,0,Pullup Jump shot,JUMP_SHOTS,,2012
-Lester Hudson,201991,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2012
-Lester Hudson,201991,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2012
-Lester Hudson,201991,Running Jump Shot,2,3,3,Running Bank shot,JUMP_SHOTS,,2012
-Lester Hudson,201991,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2012
-Lester Hudson,201991,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,2012
-Lester Hudson,201991,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2012
-Lester Hudson,201991,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2012
-Lester Hudson,201991,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,2015
-Lester Hudson,201991,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2015
-Lester Hudson,201991,Jump Shot,2,8,3,Jump Shot,JUMP_SHOTS,,2015
-Lester Hudson,201991,Standard Layup,2,2,1,Layup Shot,LAYUPS,,2015
-Lester Hudson,201991,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2015
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Lester Hudson,201991,Alley Oop Layup,2,2,2,LAYUPS,,2010
+Lester Hudson,201991,Driving Layup,2,2,2,LAYUPS,,2010
+Lester Hudson,201991,Floating Jump Shot,2,1,1,FLOATING_SHOTS,,2010
+Lester Hudson,201991,Jump Shot,2,32,7,JUMP_SHOTS,,2010
+Lester Hudson,201991,Jump Shot,3,1,1,JUMP_SHOTS,,2010
+Lester Hudson,201991,Pullup Jump Shot,2,4,3,JUMP_SHOTS,,2010
+Lester Hudson,201991,Reverse Layup,2,1,1,LAYUPS,,2010
+Lester Hudson,201991,Running Jump Shot,2,5,2,JUMP_SHOTS,,2010
+Lester Hudson,201991,Standard Layup,2,5,2,LAYUPS,,2010
+Lester Hudson,201991,Driving Dunk,2,1,1,DUNKS,,2011
+Lester Hudson,201991,Jump Shot,2,21,5,JUMP_SHOTS,,2011
+Lester Hudson,201991,Standard Layup,2,2,0,LAYUPS,,2011
+Lester Hudson,201991,Alley Oop Layup,2,1,1,LAYUPS,,2012
+Lester Hudson,201991,Driving Hook Shot,2,1,0,POST_MOVES,,2012
+Lester Hudson,201991,Driving Layup,2,16,12,LAYUPS,,2012
+Lester Hudson,201991,Finger Roll,2,2,2,LAYUPS,,2012
+Lester Hudson,201991,Floating Jump Shot,2,9,5,FLOATING_SHOTS,,2012
+Lester Hudson,201991,Hook Shot,2,1,0,POST_MOVES,,2012
+Lester Hudson,201991,Jump Shot,2,99,27,JUMP_SHOTS,,2012
+Lester Hudson,201991,Jump Shot,3,6,0,JUMP_SHOTS,,2012
+Lester Hudson,201991,Pullup Jump Shot,2,3,0,JUMP_SHOTS,,2012
+Lester Hudson,201991,Putback Layup,2,1,1,LAYUPS,,2012
+Lester Hudson,201991,Reverse Layup,2,2,2,LAYUPS,,2012
+Lester Hudson,201991,Running Hook Shot,2,1,1,POST_MOVES,,2012
+Lester Hudson,201991,Running Jump Shot,2,5,5,JUMP_SHOTS,,2012
+Lester Hudson,201991,Standard Dunk,2,1,1,DUNKS,,2012
+Lester Hudson,201991,Standard Layup,2,12,5,LAYUPS,,2012
+Lester Hudson,201991,Tip Shot,2,1,0,TIP_SHOTS,,2012
+Lester Hudson,201991,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2012
+Lester Hudson,201991,Driving Layup,2,2,2,LAYUPS,,2015
+Lester Hudson,201991,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2015
+Lester Hudson,201991,Jump Shot,2,8,3,JUMP_SHOTS,,2015
+Lester Hudson,201991,Standard Layup,2,2,1,LAYUPS,,2015
+Lester Hudson,201991,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2015

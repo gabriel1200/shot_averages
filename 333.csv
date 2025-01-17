@@ -1,8 +1,8 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Kevin Gamble,333,Driving Layup,2,5,3,Driving Layup Shot,LAYUPS,,1997
-Kevin Gamble,333,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,1997
-Kevin Gamble,333,Hook Shot,2,3,2,Hook Shot,POST_MOVES,,1997
-Kevin Gamble,333,Jump Shot,2,251,100,Jump Shot,JUMP_SHOTS,,1997
-Kevin Gamble,333,Jump Shot,3,8,6,Jump Shot,JUMP_SHOTS,,1997
-Kevin Gamble,333,Standard Layup,2,12,5,Layup Shot,LAYUPS,,1997
-Kevin Gamble,333,Running Jump Shot,2,6,6,Running Jump Shot,JUMP_SHOTS,,1997
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Kevin Gamble,333,Driving Layup,2,5,3,LAYUPS,,1997
+Kevin Gamble,333,Hook Shot,2,3,2,POST_MOVES,,1997
+Kevin Gamble,333,Jump Shot,2,251,100,JUMP_SHOTS,,1997
+Kevin Gamble,333,Jump Shot,3,8,6,JUMP_SHOTS,,1997
+Kevin Gamble,333,Running Jump Shot,2,6,6,JUMP_SHOTS,,1997
+Kevin Gamble,333,Standard Dunk,2,1,1,DUNKS,,1997
+Kevin Gamble,333,Standard Layup,2,12,5,LAYUPS,,1997

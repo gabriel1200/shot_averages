@@ -1,36 +1,31 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Daniel Santiago,2091,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2001
-Daniel Santiago,2091,Standard Dunk,2,22,19,Dunk Shot,DUNKS,,2001
-Daniel Santiago,2091,Hook Shot,2,22,8,Hook Shot,POST_MOVES,,2001
-Daniel Santiago,2091,Jump Shot,2,46,11,Jump Shot,JUMP_SHOTS,,2001
-Daniel Santiago,2091,Standard Layup,2,34,19,Layup Shot,LAYUPS,,2001
-Daniel Santiago,2091,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2001
-Daniel Santiago,2091,Tip Shot,2,6,3,Tip Shot,TIP_SHOTS,,2001
-Daniel Santiago,2091,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2001
-Daniel Santiago,2091,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2002
-Daniel Santiago,2091,Jump Shot,2,3,2,Jump Shot,JUMP_SHOTS,,2002
-Daniel Santiago,2091,Standard Layup,2,2,0,Layup Shot,LAYUPS,,2002
-Daniel Santiago,2091,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2002
-Daniel Santiago,2091,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2002
-Daniel Santiago,2091,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2004
-Daniel Santiago,2091,Driving Hook Shot,2,3,1,Driving Hook Shot,POST_MOVES,,2004
-Daniel Santiago,2091,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2004
-Daniel Santiago,2091,Standard Dunk,2,13,13,Dunk Shot,DUNKS,,2004
-Daniel Santiago,2091,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2004
-Daniel Santiago,2091,Hook Shot,2,20,11,Hook Shot,POST_MOVES,,2004
-Daniel Santiago,2091,Jump Shot,2,5,4,Jump Bank Shot,JUMP_SHOTS,,2004
-Daniel Santiago,2091,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2004
-Daniel Santiago,2091,Jump Shot,2,43,10,Jump Shot,JUMP_SHOTS,,2004
-Daniel Santiago,2091,Standard Layup,2,55,20,Layup Shot,LAYUPS,,2004
-Daniel Santiago,2091,Reverse Dunk,2,2,2,Reverse Dunk Shot,DUNKS,,2004
-Daniel Santiago,2091,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2004
-Daniel Santiago,2091,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2004
-Daniel Santiago,2091,Running Hook Shot,2,4,3,Running Hook Shot,POST_MOVES,,2004
-Daniel Santiago,2091,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2004
-Daniel Santiago,2091,Tip Shot,2,5,3,Tip Shot,TIP_SHOTS,,2004
-Daniel Santiago,2091,Turnaround Jump Shot,2,3,2,Turnaround Jump Shot,JUMP_SHOTS,,2004
-Daniel Santiago,2091,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2005
-Daniel Santiago,2091,Hook Shot,2,5,1,Hook Shot,POST_MOVES,,2005
-Daniel Santiago,2091,Jump Shot,2,9,2,Jump Shot,JUMP_SHOTS,,2005
-Daniel Santiago,2091,Standard Layup,2,5,3,Layup Shot,LAYUPS,,2005
-Daniel Santiago,2091,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2005
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Daniel Santiago,2091,Driving Dunk,2,2,2,DUNKS,,2001
+Daniel Santiago,2091,Hook Shot,2,22,8,POST_MOVES,,2001
+Daniel Santiago,2091,Jump Shot,2,46,11,JUMP_SHOTS,,2001
+Daniel Santiago,2091,Standard Dunk,2,23,20,DUNKS,,2001
+Daniel Santiago,2091,Standard Layup,2,34,19,LAYUPS,,2001
+Daniel Santiago,2091,Tip Shot,2,6,3,TIP_SHOTS,,2001
+Daniel Santiago,2091,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2001
+Daniel Santiago,2091,Hook Shot,2,1,1,POST_MOVES,,2002
+Daniel Santiago,2091,Jump Shot,2,3,2,JUMP_SHOTS,,2002
+Daniel Santiago,2091,Reverse Layup,2,1,1,LAYUPS,,2002
+Daniel Santiago,2091,Standard Layup,2,2,0,LAYUPS,,2002
+Daniel Santiago,2091,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2002
+Daniel Santiago,2091,Driving Dunk,2,1,1,DUNKS,,2004
+Daniel Santiago,2091,Driving Hook Shot,2,3,1,POST_MOVES,,2004
+Daniel Santiago,2091,Driving Layup,2,1,1,LAYUPS,,2004
+Daniel Santiago,2091,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2004
+Daniel Santiago,2091,Hook Shot,2,21,12,POST_MOVES,,2004
+Daniel Santiago,2091,Jump Shot,2,48,14,JUMP_SHOTS,,2004
+Daniel Santiago,2091,Reverse Dunk,2,2,2,DUNKS,,2004
+Daniel Santiago,2091,Reverse Layup,2,1,0,LAYUPS,,2004
+Daniel Santiago,2091,Running Hook Shot,2,4,3,POST_MOVES,,2004
+Daniel Santiago,2091,Standard Dunk,2,18,18,DUNKS,,2004
+Daniel Santiago,2091,Standard Layup,2,55,20,LAYUPS,,2004
+Daniel Santiago,2091,Tip Shot,2,5,3,TIP_SHOTS,,2004
+Daniel Santiago,2091,Turnaround Jump Shot,2,3,2,JUMP_SHOTS,,2004
+Daniel Santiago,2091,Hook Shot,2,5,1,POST_MOVES,,2005
+Daniel Santiago,2091,Jump Shot,2,9,2,JUMP_SHOTS,,2005
+Daniel Santiago,2091,Standard Dunk,2,1,1,DUNKS,,2005
+Daniel Santiago,2091,Standard Layup,2,5,3,LAYUPS,,2005
+Daniel Santiago,2091,Tip Shot,2,1,0,TIP_SHOTS,,2005

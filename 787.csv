@@ -1,34 +1,30 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Charles Barkley,787,Driving Dunk,2,8,8,Driving Dunk Shot,DUNKS,,1997
-Charles Barkley,787,Driving Layup,2,34,30,Driving Layup Shot,LAYUPS,,1997
-Charles Barkley,787,Standard Dunk,2,26,24,Dunk Shot,DUNKS,,1997
-Charles Barkley,787,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,1997
-Charles Barkley,787,Jump Shot,2,367,123,Jump Shot,JUMP_SHOTS,,1997
-Charles Barkley,787,Standard Layup,2,210,120,Layup Shot,LAYUPS,,1997
-Charles Barkley,787,Running Jump Shot,2,3,2,Running Jump Shot,JUMP_SHOTS,,1997
-Charles Barkley,787,Standard Dunk,2,19,19,Slam Dunk Shot,DUNKS,,1997
-Charles Barkley,787,Tip Shot,2,23,8,Tip Shot,TIP_SHOTS,,1997
-Charles Barkley,787,Driving Dunk,2,8,8,Driving Dunk Shot,DUNKS,,1998
-Charles Barkley,787,Driving Layup,2,51,34,Driving Layup Shot,LAYUPS,,1998
-Charles Barkley,787,Standard Dunk,2,30,26,Dunk Shot,DUNKS,,1998
-Charles Barkley,787,Hook Shot,2,7,5,Hook Shot,POST_MOVES,,1998
-Charles Barkley,787,Jump Shot,2,410,144,Jump Shot,JUMP_SHOTS,,1998
-Charles Barkley,787,Standard Layup,2,209,121,Layup Shot,LAYUPS,,1998
-Charles Barkley,787,Running Jump Shot,2,7,7,Running Jump Shot,JUMP_SHOTS,,1998
-Charles Barkley,787,Standard Dunk,2,9,9,Slam Dunk Shot,DUNKS,,1998
-Charles Barkley,787,Tip Shot,2,13,7,Tip Shot,TIP_SHOTS,,1998
-Charles Barkley,787,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,1999
-Charles Barkley,787,Driving Layup,2,32,19,Driving Layup Shot,LAYUPS,,1999
-Charles Barkley,787,Standard Dunk,2,16,15,Dunk Shot,DUNKS,,1999
-Charles Barkley,787,Hook Shot,2,3,1,Hook Shot,POST_MOVES,,1999
-Charles Barkley,787,Jump Shot,2,280,100,Jump Shot,JUMP_SHOTS,,1999
-Charles Barkley,787,Standard Layup,2,143,83,Layup Shot,LAYUPS,,1999
-Charles Barkley,787,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,1999
-Charles Barkley,787,Standard Dunk,2,7,7,Slam Dunk Shot,DUNKS,,1999
-Charles Barkley,787,Tip Shot,2,16,10,Tip Shot,TIP_SHOTS,,1999
-Charles Barkley,787,Driving Layup,2,5,4,Driving Layup Shot,LAYUPS,,2000
-Charles Barkley,787,Standard Dunk,2,9,8,Dunk Shot,DUNKS,,2000
-Charles Barkley,787,Jump Shot,2,130,39,Jump Shot,JUMP_SHOTS,,2000
-Charles Barkley,787,Standard Layup,2,70,50,Layup Shot,LAYUPS,,2000
-Charles Barkley,787,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2000
-Charles Barkley,787,Tip Shot,2,6,3,Tip Shot,TIP_SHOTS,,2000
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Charles Barkley,787,Driving Dunk,2,8,8,DUNKS,,1997
+Charles Barkley,787,Driving Layup,2,34,30,LAYUPS,,1997
+Charles Barkley,787,Hook Shot,2,2,1,POST_MOVES,,1997
+Charles Barkley,787,Jump Shot,2,367,123,JUMP_SHOTS,,1997
+Charles Barkley,787,Running Jump Shot,2,3,2,JUMP_SHOTS,,1997
+Charles Barkley,787,Standard Dunk,2,45,43,DUNKS,,1997
+Charles Barkley,787,Standard Layup,2,210,120,LAYUPS,,1997
+Charles Barkley,787,Tip Shot,2,23,8,TIP_SHOTS,,1997
+Charles Barkley,787,Driving Dunk,2,8,8,DUNKS,,1998
+Charles Barkley,787,Driving Layup,2,51,34,LAYUPS,,1998
+Charles Barkley,787,Hook Shot,2,7,5,POST_MOVES,,1998
+Charles Barkley,787,Jump Shot,2,410,144,JUMP_SHOTS,,1998
+Charles Barkley,787,Running Jump Shot,2,7,7,JUMP_SHOTS,,1998
+Charles Barkley,787,Standard Dunk,2,39,35,DUNKS,,1998
+Charles Barkley,787,Standard Layup,2,209,121,LAYUPS,,1998
+Charles Barkley,787,Tip Shot,2,13,7,TIP_SHOTS,,1998
+Charles Barkley,787,Driving Dunk,2,4,4,DUNKS,,1999
+Charles Barkley,787,Driving Layup,2,32,19,LAYUPS,,1999
+Charles Barkley,787,Hook Shot,2,3,1,POST_MOVES,,1999
+Charles Barkley,787,Jump Shot,2,280,100,JUMP_SHOTS,,1999
+Charles Barkley,787,Running Jump Shot,2,1,1,JUMP_SHOTS,,1999
+Charles Barkley,787,Standard Dunk,2,23,22,DUNKS,,1999
+Charles Barkley,787,Standard Layup,2,143,83,LAYUPS,,1999
+Charles Barkley,787,Tip Shot,2,16,10,TIP_SHOTS,,1999
+Charles Barkley,787,Driving Layup,2,5,4,LAYUPS,,2000
+Charles Barkley,787,Jump Shot,2,130,39,JUMP_SHOTS,,2000
+Charles Barkley,787,Standard Dunk,2,11,10,DUNKS,,2000
+Charles Barkley,787,Standard Layup,2,70,50,LAYUPS,,2000
+Charles Barkley,787,Tip Shot,2,6,3,TIP_SHOTS,,2000

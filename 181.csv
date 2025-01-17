@@ -1,7 +1,7 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Kenny Smith,181,Driving Layup,2,23,10,Driving Layup Shot,LAYUPS,,1997
-Kenny Smith,181,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,1997
-Kenny Smith,181,Jump Shot,2,174,70,Jump Shot,JUMP_SHOTS,,1997
-Kenny Smith,181,Jump Shot,3,16,8,Jump Shot,JUMP_SHOTS,,1997
-Kenny Smith,181,Standard Layup,2,20,9,Layup Shot,LAYUPS,,1997
-Kenny Smith,181,Running Jump Shot,2,5,3,Running Jump Shot,JUMP_SHOTS,,1997
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Kenny Smith,181,Driving Layup,2,23,10,LAYUPS,,1997
+Kenny Smith,181,Hook Shot,2,1,1,POST_MOVES,,1997
+Kenny Smith,181,Jump Shot,2,174,70,JUMP_SHOTS,,1997
+Kenny Smith,181,Jump Shot,3,16,8,JUMP_SHOTS,,1997
+Kenny Smith,181,Running Jump Shot,2,5,3,JUMP_SHOTS,,1997
+Kenny Smith,181,Standard Layup,2,20,9,LAYUPS,,1997

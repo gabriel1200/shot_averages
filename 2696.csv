@@ -1,7 +1,6 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Lynn Greer,2696,Driving Layup,2,8,6,Driving Layup Shot,LAYUPS,,2007
-Lynn Greer,2696,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2007
-Lynn Greer,2696,Jump Shot,2,100,38,Jump Shot,JUMP_SHOTS,,2007
-Lynn Greer,2696,Standard Layup,2,26,13,Layup Shot,LAYUPS,,2007
-Lynn Greer,2696,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2007
-Lynn Greer,2696,Running Jump Shot,2,5,3,Running Jump Shot,JUMP_SHOTS,,2007
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Lynn Greer,2696,Driving Layup,2,8,6,LAYUPS,,2007
+Lynn Greer,2696,Jump Shot,2,101,38,JUMP_SHOTS,,2007
+Lynn Greer,2696,Running Hook Shot,2,1,1,POST_MOVES,,2007
+Lynn Greer,2696,Running Jump Shot,2,5,3,JUMP_SHOTS,,2007
+Lynn Greer,2696,Standard Layup,2,26,13,LAYUPS,,2007

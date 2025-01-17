@@ -1,45 +1,42 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Mitchell Butler,348,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,1997
-Mitchell Butler,348,Driving Layup,2,12,5,Driving Layup Shot,LAYUPS,,1997
-Mitchell Butler,348,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,1997
-Mitchell Butler,348,Hook Shot,2,6,2,Hook Shot,POST_MOVES,,1997
-Mitchell Butler,348,Jump Shot,2,61,26,Jump Shot,JUMP_SHOTS,,1997
-Mitchell Butler,348,Jump Shot,3,7,0,Jump Shot,JUMP_SHOTS,,1997
-Mitchell Butler,348,Standard Layup,2,30,14,Layup Shot,LAYUPS,,1997
-Mitchell Butler,348,Running Jump Shot,2,4,1,Running Jump Shot,JUMP_SHOTS,,1997
-Mitchell Butler,348,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,1997
-Mitchell Butler,348,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,1998
-Mitchell Butler,348,Driving Layup,2,6,5,Driving Layup Shot,LAYUPS,,1998
-Mitchell Butler,348,Hook Shot,2,2,2,Hook Shot,POST_MOVES,,1998
-Mitchell Butler,348,Jump Shot,2,24,4,Jump Shot,JUMP_SHOTS,,1998
-Mitchell Butler,348,Standard Layup,2,12,2,Layup Shot,LAYUPS,,1998
-Mitchell Butler,348,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,1998
-Mitchell Butler,348,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,1998
-Mitchell Butler,348,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,1999
-Mitchell Butler,348,Driving Layup,2,14,9,Driving Layup Shot,LAYUPS,,1999
-Mitchell Butler,348,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,1999
-Mitchell Butler,348,Hook Shot,2,6,2,Hook Shot,POST_MOVES,,1999
-Mitchell Butler,348,Jump Shot,2,85,33,Jump Shot,JUMP_SHOTS,,1999
-Mitchell Butler,348,Standard Layup,2,22,14,Layup Shot,LAYUPS,,1999
-Mitchell Butler,348,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,1999
-Mitchell Butler,348,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,1999
-Mitchell Butler,348,Tip Shot,2,4,3,Tip Shot,TIP_SHOTS,,1999
-Mitchell Butler,348,Driving Layup,2,3,2,Driving Layup Shot,LAYUPS,,2002
-Mitchell Butler,348,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2002
-Mitchell Butler,348,Jump Shot,2,10,3,Jump Shot,JUMP_SHOTS,,2002
-Mitchell Butler,348,Standard Layup,2,5,2,Layup Shot,LAYUPS,,2002
-Mitchell Butler,348,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2002
-Mitchell Butler,348,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,,2002
-Mitchell Butler,348,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2004
-Mitchell Butler,348,Driving Layup,2,9,9,Driving Layup Shot,LAYUPS,,2004
-Mitchell Butler,348,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2004
-Mitchell Butler,348,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2004
-Mitchell Butler,348,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2004
-Mitchell Butler,348,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2004
-Mitchell Butler,348,Jump Shot,2,77,23,Jump Shot,JUMP_SHOTS,,2004
-Mitchell Butler,348,Standard Layup,2,25,11,Layup Shot,LAYUPS,,2004
-Mitchell Butler,348,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2004
-Mitchell Butler,348,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2004
-Mitchell Butler,348,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2004
-Mitchell Butler,348,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,,2004
-Mitchell Butler,348,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2004
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Mitchell Butler,348,Driving Dunk,2,1,1,DUNKS,,1997
+Mitchell Butler,348,Driving Layup,2,12,5,LAYUPS,,1997
+Mitchell Butler,348,Hook Shot,2,6,2,POST_MOVES,,1997
+Mitchell Butler,348,Jump Shot,2,61,26,JUMP_SHOTS,,1997
+Mitchell Butler,348,Jump Shot,3,7,0,JUMP_SHOTS,,1997
+Mitchell Butler,348,Running Jump Shot,2,4,1,JUMP_SHOTS,,1997
+Mitchell Butler,348,Standard Dunk,2,3,3,DUNKS,,1997
+Mitchell Butler,348,Standard Layup,2,30,14,LAYUPS,,1997
+Mitchell Butler,348,Tip Shot,2,1,0,TIP_SHOTS,,1997
+Mitchell Butler,348,Driving Dunk,2,1,1,DUNKS,,1998
+Mitchell Butler,348,Driving Layup,2,6,5,LAYUPS,,1998
+Mitchell Butler,348,Hook Shot,2,2,2,POST_MOVES,,1998
+Mitchell Butler,348,Jump Shot,2,24,4,JUMP_SHOTS,,1998
+Mitchell Butler,348,Running Jump Shot,2,1,0,JUMP_SHOTS,,1998
+Mitchell Butler,348,Standard Dunk,2,1,1,DUNKS,,1998
+Mitchell Butler,348,Standard Layup,2,12,2,LAYUPS,,1998
+Mitchell Butler,348,Driving Dunk,2,1,1,DUNKS,,1999
+Mitchell Butler,348,Driving Layup,2,14,9,LAYUPS,,1999
+Mitchell Butler,348,Hook Shot,2,6,2,POST_MOVES,,1999
+Mitchell Butler,348,Jump Shot,2,85,33,JUMP_SHOTS,,1999
+Mitchell Butler,348,Running Jump Shot,2,2,0,JUMP_SHOTS,,1999
+Mitchell Butler,348,Standard Dunk,2,5,5,DUNKS,,1999
+Mitchell Butler,348,Standard Layup,2,22,14,LAYUPS,,1999
+Mitchell Butler,348,Tip Shot,2,4,3,TIP_SHOTS,,1999
+Mitchell Butler,348,Driving Layup,2,3,2,LAYUPS,,2002
+Mitchell Butler,348,Jump Shot,2,10,3,JUMP_SHOTS,,2002
+Mitchell Butler,348,Reverse Layup,2,1,0,LAYUPS,,2002
+Mitchell Butler,348,Standard Dunk,2,1,1,DUNKS,,2002
+Mitchell Butler,348,Standard Layup,2,5,2,LAYUPS,,2002
+Mitchell Butler,348,Tip Shot,2,3,2,TIP_SHOTS,,2002
+Mitchell Butler,348,Driving Layup,2,9,9,LAYUPS,,2004
+Mitchell Butler,348,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2004
+Mitchell Butler,348,Finger Roll,2,1,1,LAYUPS,,2004
+Mitchell Butler,348,Hook Shot,2,1,0,POST_MOVES,,2004
+Mitchell Butler,348,Jump Shot,2,79,25,JUMP_SHOTS,,2004
+Mitchell Butler,348,Reverse Layup,2,1,1,LAYUPS,,2004
+Mitchell Butler,348,Running Jump Shot,2,1,1,JUMP_SHOTS,,2004
+Mitchell Butler,348,Standard Dunk,2,1,1,DUNKS,,2004
+Mitchell Butler,348,Standard Layup,2,26,12,LAYUPS,,2004
+Mitchell Butler,348,Tip Shot,2,3,2,TIP_SHOTS,,2004
+Mitchell Butler,348,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2004

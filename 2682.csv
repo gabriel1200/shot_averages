@@ -1,12 +1,12 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Alex Garcia,2682,Driving Layup,2,3,0,Driving Layup Shot,LAYUPS,,2004
-Alex Garcia,2682,Jump Shot,2,2,1,Jump Shot,JUMP_SHOTS,,2004
-Alex Garcia,2682,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2004
-Alex Garcia,2682,Standard Dunk,2,1,0,Slam Dunk Shot,DUNKS,,2004
-Alex Garcia,2682,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2005
-Alex Garcia,2682,Driving Layup,2,3,3,Driving Layup Shot,LAYUPS,,2005
-Alex Garcia,2682,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2005
-Alex Garcia,2682,Jump Shot,2,30,7,Jump Shot,JUMP_SHOTS,,2005
-Alex Garcia,2682,Standard Layup,2,13,6,Layup Shot,LAYUPS,,2005
-Alex Garcia,2682,Reverse Layup,2,2,0,Reverse Layup Shot,LAYUPS,,2005
-Alex Garcia,2682,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2005
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Alex Garcia,2682,Driving Layup,2,3,0,LAYUPS,,2004
+Alex Garcia,2682,Jump Shot,2,2,1,JUMP_SHOTS,,2004
+Alex Garcia,2682,Standard Dunk,2,1,0,DUNKS,,2004
+Alex Garcia,2682,Standard Layup,2,1,0,LAYUPS,,2004
+Alex Garcia,2682,Driving Dunk,2,1,1,DUNKS,,2005
+Alex Garcia,2682,Driving Layup,2,3,3,LAYUPS,,2005
+Alex Garcia,2682,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2005
+Alex Garcia,2682,Jump Shot,2,30,7,JUMP_SHOTS,,2005
+Alex Garcia,2682,Reverse Layup,2,2,0,LAYUPS,,2005
+Alex Garcia,2682,Running Jump Shot,2,2,1,JUMP_SHOTS,,2005
+Alex Garcia,2682,Standard Layup,2,13,6,LAYUPS,,2005

@@ -1,14 +1,14 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Xavier McDaniel,1365,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,1997
-Xavier McDaniel,1365,Driving Layup,2,12,8,Driving Layup Shot,LAYUPS,,1997
-Xavier McDaniel,1365,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,1997
-Xavier McDaniel,1365,Hook Shot,2,3,2,Hook Shot,POST_MOVES,,1997
-Xavier McDaniel,1365,Jump Shot,2,212,78,Jump Shot,JUMP_SHOTS,,1997
-Xavier McDaniel,1365,Jump Shot,3,20,4,Jump Shot,JUMP_SHOTS,,1997
-Xavier McDaniel,1365,Standard Layup,2,76,29,Layup Shot,LAYUPS,,1997
-Xavier McDaniel,1365,Running Jump Shot,2,3,3,Running Jump Shot,JUMP_SHOTS,,1997
-Xavier McDaniel,1365,Tip Shot,2,23,8,Tip Shot,TIP_SHOTS,,1997
-Xavier McDaniel,1365,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,1998
-Xavier McDaniel,1365,Jump Shot,2,22,5,Jump Shot,JUMP_SHOTS,,1998
-Xavier McDaniel,1365,Standard Layup,2,6,4,Layup Shot,LAYUPS,,1998
-Xavier McDaniel,1365,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,1998
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Xavier McDaniel,1365,Driving Dunk,2,4,4,DUNKS,,1997
+Xavier McDaniel,1365,Driving Layup,2,12,8,LAYUPS,,1997
+Xavier McDaniel,1365,Hook Shot,2,3,2,POST_MOVES,,1997
+Xavier McDaniel,1365,Jump Shot,2,212,78,JUMP_SHOTS,,1997
+Xavier McDaniel,1365,Jump Shot,3,20,4,JUMP_SHOTS,,1997
+Xavier McDaniel,1365,Running Jump Shot,2,3,3,JUMP_SHOTS,,1997
+Xavier McDaniel,1365,Standard Dunk,2,2,2,DUNKS,,1997
+Xavier McDaniel,1365,Standard Layup,2,76,29,LAYUPS,,1997
+Xavier McDaniel,1365,Tip Shot,2,23,8,TIP_SHOTS,,1997
+Xavier McDaniel,1365,Driving Layup,2,1,1,LAYUPS,,1998
+Xavier McDaniel,1365,Jump Shot,2,22,5,JUMP_SHOTS,,1998
+Xavier McDaniel,1365,Running Jump Shot,2,1,0,JUMP_SHOTS,,1998
+Xavier McDaniel,1365,Standard Layup,2,6,4,LAYUPS,,1998

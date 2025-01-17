@@ -1,30 +1,23 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Gui Santos,1630611,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2024
-Gui Santos,1630611,Finger Roll,2,1,0,Cutting Finger Roll Layup Shot,LAYUPS,,2024
-Gui Santos,1630611,Standard Layup,2,3,3,Cutting Layup Shot,LAYUPS,,2024
-Gui Santos,1630611,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2024
-Gui Santos,1630611,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
-Gui Santos,1630611,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2024
-Gui Santos,1630611,Driving Layup,2,4,2,Driving Layup Shot,LAYUPS,,2024
-Gui Santos,1630611,Driving Layup,2,2,0,Driving Reverse Layup Shot,LAYUPS,,2024
-Gui Santos,1630611,Jump Shot,3,19,9,Jump Shot,JUMP_SHOTS,,2024
-Gui Santos,1630611,Standard Layup,2,1,1,Layup Shot,LAYUPS,,2024
-Gui Santos,1630611,Putback Layup,2,3,2,Putback Layup Shot,LAYUPS,,2024
-Gui Santos,1630611,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2024
-Gui Santos,1630611,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2024
-Gui Santos,1630611,Finger Roll,2,2,1,Running Finger Roll Layup Shot,LAYUPS,,2024
-Gui Santos,1630611,Running Jump Shot,3,4,1,Running Jump Shot,JUMP_SHOTS,,2024
-Gui Santos,1630611,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2024
-Gui Santos,1630611,Running Jump Shot,3,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
-Gui Santos,1630611,Step Back Jump Shot,3,3,0,Step Back Jump shot,JUMP_SHOTS,,2024
-Gui Santos,1630611,Putback Layup,2,2,1,Tip Layup Shot,LAYUPS,,2024
-Gui Santos,1630611,Standard Layup,2,4,3,Cutting Layup Shot,LAYUPS,,2025
-Gui Santos,1630611,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2025
-Gui Santos,1630611,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2025
-Gui Santos,1630611,Jump Shot,2,1,0,Jump Shot,JUMP_SHOTS,,2025
-Gui Santos,1630611,Jump Shot,3,19,6,Jump Shot,JUMP_SHOTS,,2025
-Gui Santos,1630611,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2025
-Gui Santos,1630611,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2025
-Gui Santos,1630611,Running Jump Shot,3,2,1,Running Jump Shot,JUMP_SHOTS,,2025
-Gui Santos,1630611,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2025
-Gui Santos,1630611,Step Back Jump Shot,3,1,1,Step Back Jump shot,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Gui Santos,1630611,Alley Oop Dunk,2,1,1,DUNKS,,2024
+Gui Santos,1630611,Driving Hook Shot,2,1,1,POST_MOVES,,2024
+Gui Santos,1630611,Driving Layup,2,6,2,LAYUPS,,2024
+Gui Santos,1630611,Finger Roll,2,4,2,LAYUPS,,2024
+Gui Santos,1630611,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2024
+Gui Santos,1630611,Jump Shot,3,19,9,JUMP_SHOTS,,2024
+Gui Santos,1630611,Putback Layup,2,5,3,LAYUPS,,2024
+Gui Santos,1630611,Reverse Layup,2,2,2,LAYUPS,,2024
+Gui Santos,1630611,Running Jump Shot,3,5,1,JUMP_SHOTS,,2024
+Gui Santos,1630611,Standard Dunk,2,1,1,DUNKS,,2024
+Gui Santos,1630611,Standard Layup,2,7,6,LAYUPS,,2024
+Gui Santos,1630611,Step Back Jump Shot,3,3,0,JUMP_SHOTS,,2024
+Gui Santos,1630611,Finger Roll,2,1,0,LAYUPS,,2025
+Gui Santos,1630611,Floating Jump Shot,2,1,1,FLOATING_SHOTS,,2025
+Gui Santos,1630611,Jump Shot,2,1,0,JUMP_SHOTS,,2025
+Gui Santos,1630611,Jump Shot,3,19,6,JUMP_SHOTS,,2025
+Gui Santos,1630611,Putback Layup,2,1,0,LAYUPS,,2025
+Gui Santos,1630611,Reverse Layup,2,1,1,LAYUPS,,2025
+Gui Santos,1630611,Running Jump Shot,3,2,1,JUMP_SHOTS,,2025
+Gui Santos,1630611,Standard Dunk,2,1,1,DUNKS,,2025
+Gui Santos,1630611,Standard Layup,2,4,3,LAYUPS,,2025
+Gui Santos,1630611,Step Back Jump Shot,3,1,1,JUMP_SHOTS,,2025

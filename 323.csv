@@ -1,55 +1,50 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Greg Foster,323,Driving Layup,2,6,5,Driving Layup Shot,LAYUPS,,1997
-Greg Foster,323,Standard Dunk,2,6,6,Dunk Shot,DUNKS,,1997
-Greg Foster,323,Hook Shot,2,6,3,Hook Shot,POST_MOVES,,1997
-Greg Foster,323,Jump Shot,2,153,68,Jump Shot,JUMP_SHOTS,,1997
-Greg Foster,323,Standard Layup,2,60,24,Layup Shot,LAYUPS,,1997
-Greg Foster,323,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,1997
-Greg Foster,323,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,1997
-Greg Foster,323,Tip Shot,2,11,2,Tip Shot,TIP_SHOTS,,1997
-Greg Foster,323,Driving Layup,2,8,6,Driving Layup Shot,LAYUPS,,1998
-Greg Foster,323,Standard Dunk,2,32,25,Dunk Shot,DUNKS,,1998
-Greg Foster,323,Hook Shot,2,12,3,Hook Shot,POST_MOVES,,1998
-Greg Foster,323,Jump Shot,2,282,114,Jump Shot,JUMP_SHOTS,,1998
-Greg Foster,323,Standard Layup,2,53,22,Layup Shot,LAYUPS,,1998
-Greg Foster,323,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,1998
-Greg Foster,323,Standard Dunk,2,12,11,Slam Dunk Shot,DUNKS,,1998
-Greg Foster,323,Tip Shot,2,18,4,Tip Shot,TIP_SHOTS,,1998
-Greg Foster,323,Driving Layup,2,3,2,Driving Layup Shot,LAYUPS,,1999
-Greg Foster,323,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,1999
-Greg Foster,323,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,1999
-Greg Foster,323,Jump Shot,2,108,34,Jump Shot,JUMP_SHOTS,,1999
-Greg Foster,323,Standard Layup,2,16,10,Layup Shot,LAYUPS,,1999
-Greg Foster,323,Running Jump Shot,2,3,1,Running Jump Shot,JUMP_SHOTS,,1999
-Greg Foster,323,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,1999
-Greg Foster,323,Tip Shot,2,4,3,Tip Shot,TIP_SHOTS,,1999
-Greg Foster,323,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2000
-Greg Foster,323,Hook Shot,2,4,1,Hook Shot,POST_MOVES,,2000
-Greg Foster,323,Jump Shot,2,209,83,Jump Shot,JUMP_SHOTS,,2000
-Greg Foster,323,Standard Layup,2,6,6,Layup Shot,LAYUPS,,2000
-Greg Foster,323,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2000
-Greg Foster,323,Tip Shot,2,3,0,Tip Shot,TIP_SHOTS,,2000
-Greg Foster,323,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2001
-Greg Foster,323,Hook Shot,2,10,3,Hook Shot,POST_MOVES,,2001
-Greg Foster,323,Jump Shot,2,105,44,Jump Shot,JUMP_SHOTS,,2001
-Greg Foster,323,Standard Layup,2,5,1,Layup Shot,LAYUPS,,2001
-Greg Foster,323,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2001
-Greg Foster,323,Tip Shot,2,6,4,Tip Shot,TIP_SHOTS,,2001
-Greg Foster,323,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2001
-Greg Foster,323,Turnaround Jump Shot,2,4,2,Turnaround Jump Shot,JUMP_SHOTS,,2001
-Greg Foster,323,Jump Shot,2,8,2,Jump Shot,JUMP_SHOTS,,2002
-Greg Foster,323,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2002
-Greg Foster,323,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2003
-Greg Foster,323,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2003
-Greg Foster,323,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2003
-Greg Foster,323,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2003
-Greg Foster,323,Specialty Dunk,2,1,0,Follow Up Dunk Shot,DUNKS,,2003
-Greg Foster,323,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2003
-Greg Foster,323,Hook Shot,2,2,1,Jump Hook Shot,POST_MOVES,,2003
-Greg Foster,323,Jump Shot,2,87,29,Jump Shot,JUMP_SHOTS,,2003
-Greg Foster,323,Standard Layup,2,14,8,Layup Shot,LAYUPS,,2003
-Greg Foster,323,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2003
-Greg Foster,323,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2003
-Greg Foster,323,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2003
-Greg Foster,323,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2003
-Greg Foster,323,Turnaround Jump Shot,2,7,3,Turnaround Jump Shot,JUMP_SHOTS,,2003
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Greg Foster,323,Driving Layup,2,6,5,LAYUPS,,1997
+Greg Foster,323,Hook Shot,2,6,3,POST_MOVES,,1997
+Greg Foster,323,Jump Shot,2,153,68,JUMP_SHOTS,,1997
+Greg Foster,323,Running Jump Shot,2,1,1,JUMP_SHOTS,,1997
+Greg Foster,323,Standard Dunk,2,8,8,DUNKS,,1997
+Greg Foster,323,Standard Layup,2,60,24,LAYUPS,,1997
+Greg Foster,323,Tip Shot,2,11,2,TIP_SHOTS,,1997
+Greg Foster,323,Driving Layup,2,8,6,LAYUPS,,1998
+Greg Foster,323,Hook Shot,2,12,3,POST_MOVES,,1998
+Greg Foster,323,Jump Shot,2,282,114,JUMP_SHOTS,,1998
+Greg Foster,323,Running Jump Shot,2,1,1,JUMP_SHOTS,,1998
+Greg Foster,323,Standard Dunk,2,44,36,DUNKS,,1998
+Greg Foster,323,Standard Layup,2,53,22,LAYUPS,,1998
+Greg Foster,323,Tip Shot,2,18,4,TIP_SHOTS,,1998
+Greg Foster,323,Driving Layup,2,3,2,LAYUPS,,1999
+Greg Foster,323,Hook Shot,2,2,0,POST_MOVES,,1999
+Greg Foster,323,Jump Shot,2,108,34,JUMP_SHOTS,,1999
+Greg Foster,323,Running Jump Shot,2,3,1,JUMP_SHOTS,,1999
+Greg Foster,323,Standard Dunk,2,2,2,DUNKS,,1999
+Greg Foster,323,Standard Layup,2,16,10,LAYUPS,,1999
+Greg Foster,323,Tip Shot,2,4,3,TIP_SHOTS,,1999
+Greg Foster,323,Driving Layup,2,1,1,LAYUPS,,2000
+Greg Foster,323,Hook Shot,2,4,1,POST_MOVES,,2000
+Greg Foster,323,Jump Shot,2,209,83,JUMP_SHOTS,,2000
+Greg Foster,323,Running Jump Shot,2,1,0,JUMP_SHOTS,,2000
+Greg Foster,323,Standard Layup,2,6,6,LAYUPS,,2000
+Greg Foster,323,Tip Shot,2,3,0,TIP_SHOTS,,2000
+Greg Foster,323,Hook Shot,2,10,3,POST_MOVES,,2001
+Greg Foster,323,Jump Shot,2,105,44,JUMP_SHOTS,,2001
+Greg Foster,323,Running Jump Shot,2,1,1,JUMP_SHOTS,,2001
+Greg Foster,323,Standard Dunk,2,1,0,DUNKS,,2001
+Greg Foster,323,Standard Layup,2,5,1,LAYUPS,,2001
+Greg Foster,323,Tip Shot,2,6,4,TIP_SHOTS,,2001
+Greg Foster,323,Turnaround Hook Shot,2,1,1,POST_MOVES,,2001
+Greg Foster,323,Turnaround Jump Shot,2,4,2,JUMP_SHOTS,,2001
+Greg Foster,323,Jump Shot,2,8,2,JUMP_SHOTS,,2002
+Greg Foster,323,Standard Layup,2,1,0,LAYUPS,,2002
+Greg Foster,323,Driving Hook Shot,2,1,0,POST_MOVES,,2003
+Greg Foster,323,Driving Layup,2,1,0,LAYUPS,,2003
+Greg Foster,323,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2003
+Greg Foster,323,Finger Roll,2,1,1,LAYUPS,,2003
+Greg Foster,323,Hook Shot,2,3,2,POST_MOVES,,2003
+Greg Foster,323,Jump Shot,2,87,29,JUMP_SHOTS,,2003
+Greg Foster,323,Reverse Layup,2,1,0,LAYUPS,,2003
+Greg Foster,323,Running Jump Shot,2,2,1,JUMP_SHOTS,,2003
+Greg Foster,323,Specialty Dunk,2,1,0,DUNKS,,2003
+Greg Foster,323,Standard Layup,2,15,9,LAYUPS,,2003
+Greg Foster,323,Tip Shot,2,2,1,TIP_SHOTS,,2003
+Greg Foster,323,Turnaround Jump Shot,2,7,3,JUMP_SHOTS,,2003

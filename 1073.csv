@@ -1,53 +1,47 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Reggie Slater,1073,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,1997
-Reggie Slater,1073,Driving Layup,2,5,5,Driving Layup Shot,LAYUPS,,1997
-Reggie Slater,1073,Standard Dunk,2,12,11,Dunk Shot,DUNKS,,1997
-Reggie Slater,1073,Hook Shot,2,6,4,Hook Shot,POST_MOVES,,1997
-Reggie Slater,1073,Jump Shot,2,35,13,Jump Shot,JUMP_SHOTS,,1997
-Reggie Slater,1073,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,1997
-Reggie Slater,1073,Standard Layup,2,68,30,Layup Shot,LAYUPS,,1997
-Reggie Slater,1073,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,1997
-Reggie Slater,1073,Standard Dunk,2,16,16,Slam Dunk Shot,DUNKS,,1997
-Reggie Slater,1073,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,,1997
-Reggie Slater,1073,Driving Dunk,2,10,9,Driving Dunk Shot,DUNKS,,1998
-Reggie Slater,1073,Driving Layup,2,20,13,Driving Layup Shot,LAYUPS,,1998
-Reggie Slater,1073,Standard Dunk,2,24,22,Dunk Shot,DUNKS,,1998
-Reggie Slater,1073,Hook Shot,2,26,13,Hook Shot,POST_MOVES,,1998
-Reggie Slater,1073,Jump Shot,2,126,34,Jump Shot,JUMP_SHOTS,,1998
-Reggie Slater,1073,Standard Layup,2,197,79,Layup Shot,LAYUPS,,1998
-Reggie Slater,1073,No Shot,2,1,0,No Shot,NO_SHOT,,1998
-Reggie Slater,1073,Running Jump Shot,2,10,4,Running Jump Shot,JUMP_SHOTS,,1998
-Reggie Slater,1073,Standard Dunk,2,35,33,Slam Dunk Shot,DUNKS,,1998
-Reggie Slater,1073,Tip Shot,2,10,4,Tip Shot,TIP_SHOTS,,1998
-Reggie Slater,1073,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,1999
-Reggie Slater,1073,Driving Layup,2,10,7,Driving Layup Shot,LAYUPS,,1999
-Reggie Slater,1073,Standard Dunk,2,3,2,Dunk Shot,DUNKS,,1999
-Reggie Slater,1073,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,1999
-Reggie Slater,1073,Jump Shot,2,34,9,Jump Shot,JUMP_SHOTS,,1999
-Reggie Slater,1073,Standard Layup,2,22,7,Layup Shot,LAYUPS,,1999
-Reggie Slater,1073,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,1999
-Reggie Slater,1073,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,1999
-Reggie Slater,1073,Tip Shot,2,5,2,Tip Shot,TIP_SHOTS,,1999
-Reggie Slater,1073,Driving Layup,2,5,5,Driving Layup Shot,LAYUPS,,2001
-Reggie Slater,1073,Standard Dunk,2,5,4,Dunk Shot,DUNKS,,2001
-Reggie Slater,1073,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2001
-Reggie Slater,1073,Jump Shot,2,65,18,Jump Shot,JUMP_SHOTS,,2001
-Reggie Slater,1073,Standard Layup,2,72,41,Layup Shot,LAYUPS,,2001
-Reggie Slater,1073,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2001
-Reggie Slater,1073,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,2001
-Reggie Slater,1073,Standard Dunk,2,9,9,Slam Dunk Shot,DUNKS,,2001
-Reggie Slater,1073,Tip Shot,2,8,6,Tip Shot,TIP_SHOTS,,2001
-Reggie Slater,1073,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2001
-Reggie Slater,1073,Turnaround Jump Shot,2,3,3,Turnaround Jump Shot,JUMP_SHOTS,,2001
-Reggie Slater,1073,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2002
-Reggie Slater,1073,Jump Shot,2,9,2,Jump Shot,JUMP_SHOTS,,2002
-Reggie Slater,1073,Standard Layup,2,4,3,Layup Shot,LAYUPS,,2002
-Reggie Slater,1073,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2002
-Reggie Slater,1073,Driving Layup,2,6,6,Driving Layup Shot,LAYUPS,,2003
-Reggie Slater,1073,Standard Dunk,2,5,5,Dunk Shot,DUNKS,,2003
-Reggie Slater,1073,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2003
-Reggie Slater,1073,Jump Shot,2,10,1,Jump Shot,JUMP_SHOTS,,2003
-Reggie Slater,1073,Standard Layup,2,25,11,Layup Shot,LAYUPS,,2003
-Reggie Slater,1073,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2003
-Reggie Slater,1073,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2003
-Reggie Slater,1073,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2003
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Reggie Slater,1073,Driving Dunk,2,1,1,DUNKS,,1997
+Reggie Slater,1073,Driving Layup,2,5,5,LAYUPS,,1997
+Reggie Slater,1073,Hook Shot,2,6,4,POST_MOVES,,1997
+Reggie Slater,1073,Jump Shot,2,35,13,JUMP_SHOTS,,1997
+Reggie Slater,1073,Jump Shot,3,2,0,JUMP_SHOTS,,1997
+Reggie Slater,1073,Running Jump Shot,2,1,1,JUMP_SHOTS,,1997
+Reggie Slater,1073,Standard Dunk,2,28,27,DUNKS,,1997
+Reggie Slater,1073,Standard Layup,2,68,30,LAYUPS,,1997
+Reggie Slater,1073,Tip Shot,2,3,1,TIP_SHOTS,,1997
+Reggie Slater,1073,Driving Dunk,2,10,9,DUNKS,,1998
+Reggie Slater,1073,Driving Layup,2,20,13,LAYUPS,,1998
+Reggie Slater,1073,Hook Shot,2,26,13,POST_MOVES,,1998
+Reggie Slater,1073,Jump Shot,2,126,34,JUMP_SHOTS,,1998
+Reggie Slater,1073,No Shot,2,1,0,NO_SHOT,,1998
+Reggie Slater,1073,Running Jump Shot,2,10,4,JUMP_SHOTS,,1998
+Reggie Slater,1073,Standard Dunk,2,59,55,DUNKS,,1998
+Reggie Slater,1073,Standard Layup,2,197,79,LAYUPS,,1998
+Reggie Slater,1073,Tip Shot,2,10,4,TIP_SHOTS,,1998
+Reggie Slater,1073,Driving Dunk,2,1,1,DUNKS,,1999
+Reggie Slater,1073,Driving Layup,2,10,7,LAYUPS,,1999
+Reggie Slater,1073,Hook Shot,2,2,1,POST_MOVES,,1999
+Reggie Slater,1073,Jump Shot,2,34,9,JUMP_SHOTS,,1999
+Reggie Slater,1073,Running Jump Shot,2,2,0,JUMP_SHOTS,,1999
+Reggie Slater,1073,Standard Dunk,2,5,4,DUNKS,,1999
+Reggie Slater,1073,Standard Layup,2,22,7,LAYUPS,,1999
+Reggie Slater,1073,Tip Shot,2,5,2,TIP_SHOTS,,1999
+Reggie Slater,1073,Driving Layup,2,5,5,LAYUPS,,2001
+Reggie Slater,1073,Hook Shot,2,2,1,POST_MOVES,,2001
+Reggie Slater,1073,Jump Shot,2,65,18,JUMP_SHOTS,,2001
+Reggie Slater,1073,Reverse Layup,2,3,1,LAYUPS,,2001
+Reggie Slater,1073,Running Jump Shot,2,2,2,JUMP_SHOTS,,2001
+Reggie Slater,1073,Standard Dunk,2,14,13,DUNKS,,2001
+Reggie Slater,1073,Standard Layup,2,72,41,LAYUPS,,2001
+Reggie Slater,1073,Tip Shot,2,8,6,TIP_SHOTS,,2001
+Reggie Slater,1073,Turnaround Hook Shot,2,1,0,POST_MOVES,,2001
+Reggie Slater,1073,Turnaround Jump Shot,2,3,3,JUMP_SHOTS,,2001
+Reggie Slater,1073,Jump Shot,2,9,2,JUMP_SHOTS,,2002
+Reggie Slater,1073,Reverse Layup,2,1,1,LAYUPS,,2002
+Reggie Slater,1073,Standard Dunk,2,1,1,DUNKS,,2002
+Reggie Slater,1073,Standard Layup,2,4,3,LAYUPS,,2002
+Reggie Slater,1073,Driving Layup,2,6,6,LAYUPS,,2003
+Reggie Slater,1073,Hook Shot,2,1,1,POST_MOVES,,2003
+Reggie Slater,1073,Jump Shot,2,10,1,JUMP_SHOTS,,2003
+Reggie Slater,1073,Standard Dunk,2,6,6,DUNKS,,2003
+Reggie Slater,1073,Standard Layup,2,26,12,LAYUPS,,2003
+Reggie Slater,1073,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2003

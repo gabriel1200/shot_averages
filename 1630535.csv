@@ -1,54 +1,36 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Greg Brown III,1630535,Alley Oop Dunk,2,11,9,Alley Oop Dunk Shot,DUNKS,,2022
-Greg Brown III,1630535,Alley Oop Layup,2,3,0,Alley Oop Layup shot,LAYUPS,,2022
-Greg Brown III,1630535,Specialty Dunk,2,12,11,Cutting Dunk Shot,DUNKS,,2022
-Greg Brown III,1630535,Standard Layup,2,7,4,Cutting Layup Shot,LAYUPS,,2022
-Greg Brown III,1630535,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2022
-Greg Brown III,1630535,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2022
-Greg Brown III,1630535,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
-Greg Brown III,1630535,Floating Jump Shot,2,4,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
-Greg Brown III,1630535,Driving Hook Shot,2,3,0,Driving Hook Shot,POST_MOVES,,2022
-Greg Brown III,1630535,Driving Layup,2,19,5,Driving Layup Shot,LAYUPS,,2022
-Greg Brown III,1630535,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2022
-Greg Brown III,1630535,Standard Dunk,2,3,1,Dunk Shot,DUNKS,,2022
-Greg Brown III,1630535,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2022
-Greg Brown III,1630535,Jump Shot,2,2,0,Jump Bank Shot,JUMP_SHOTS,,2022
-Greg Brown III,1630535,Jump Shot,2,59,19,Jump Shot,JUMP_SHOTS,,2022
-Greg Brown III,1630535,Standard Layup,2,7,2,Layup Shot,LAYUPS,,2022
-Greg Brown III,1630535,Pullup Jump Shot,2,7,2,Pullup Jump shot,JUMP_SHOTS,,2022
-Greg Brown III,1630535,Putback Dunk,2,3,3,Putback Dunk Shot,DUNKS,,2022
-Greg Brown III,1630535,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2022
-Greg Brown III,1630535,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2022
-Greg Brown III,1630535,Alley Oop Dunk,2,5,5,Running Alley Oop Dunk Shot,DUNKS,,2022
-Greg Brown III,1630535,Alley Oop Layup,2,1,1,Running Alley Oop Layup Shot,LAYUPS,,2022
-Greg Brown III,1630535,Standard Dunk,2,5,2,Running Dunk Shot,DUNKS,,2022
-Greg Brown III,1630535,Finger Roll,2,1,0,Running Finger Roll Layup Shot,LAYUPS,,2022
-Greg Brown III,1630535,Running Jump Shot,2,4,0,Running Jump Shot,JUMP_SHOTS,,2022
-Greg Brown III,1630535,Standard Layup,2,6,3,Running Layup Shot,LAYUPS,,2022
-Greg Brown III,1630535,Running Jump Shot,2,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
-Greg Brown III,1630535,Step Back Jump Shot,2,3,0,Step Back Jump shot,JUMP_SHOTS,,2022
-Greg Brown III,1630535,Specialty Dunk,2,8,7,Tip Dunk Shot,DUNKS,,2022
-Greg Brown III,1630535,Putback Layup,2,7,2,Tip Layup Shot,LAYUPS,,2022
-Greg Brown III,1630535,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2023
-Greg Brown III,1630535,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2023
-Greg Brown III,1630535,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2023
-Greg Brown III,1630535,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
-Greg Brown III,1630535,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2023
-Greg Brown III,1630535,Driving Layup,2,5,1,Driving Layup Shot,LAYUPS,,2023
-Greg Brown III,1630535,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2023
-Greg Brown III,1630535,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2023
-Greg Brown III,1630535,Jump Shot,2,7,1,Jump Shot,JUMP_SHOTS,,2023
-Greg Brown III,1630535,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2023
-Greg Brown III,1630535,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2023
-Greg Brown III,1630535,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2023
-Greg Brown III,1630535,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2023
-Greg Brown III,1630535,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2023
-Greg Brown III,1630535,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2023
-Greg Brown III,1630535,Specialty Dunk,2,1,0,Tip Dunk Shot,DUNKS,,2023
-Greg Brown III,1630535,Alley Oop Dunk,2,1,0,Alley Oop Dunk Shot,DUNKS,,2024
-Greg Brown III,1630535,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
-Greg Brown III,1630535,Jump Shot,3,3,1,Jump Shot,JUMP_SHOTS,,2024
-Greg Brown III,1630535,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2024
-Greg Brown III,1630535,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2024
-Greg Brown III,1630535,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2024
-Greg Brown III,1630535,Putback Layup,2,2,1,Tip Layup Shot,LAYUPS,,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Greg Brown III,1630535,Alley Oop Dunk,2,16,14,DUNKS,,2022
+Greg Brown III,1630535,Alley Oop Layup,2,4,1,LAYUPS,,2022
+Greg Brown III,1630535,Driving Dunk,2,3,3,DUNKS,,2022
+Greg Brown III,1630535,Driving Hook Shot,2,3,0,POST_MOVES,,2022
+Greg Brown III,1630535,Driving Layup,2,20,5,LAYUPS,,2022
+Greg Brown III,1630535,Finger Roll,2,2,1,LAYUPS,,2022
+Greg Brown III,1630535,Floating Jump Shot,2,6,0,FLOATING_SHOTS,,2022
+Greg Brown III,1630535,Jump Shot,2,61,19,JUMP_SHOTS,,2022
+Greg Brown III,1630535,Pullup Jump Shot,2,7,2,JUMP_SHOTS,,2022
+Greg Brown III,1630535,Putback Dunk,2,3,3,DUNKS,,2022
+Greg Brown III,1630535,Putback Layup,2,8,3,LAYUPS,,2022
+Greg Brown III,1630535,Reverse Layup,2,1,0,LAYUPS,,2022
+Greg Brown III,1630535,Running Jump Shot,2,5,0,JUMP_SHOTS,,2022
+Greg Brown III,1630535,Specialty Dunk,2,20,18,DUNKS,,2022
+Greg Brown III,1630535,Standard Dunk,2,8,3,DUNKS,,2022
+Greg Brown III,1630535,Standard Layup,2,20,9,LAYUPS,,2022
+Greg Brown III,1630535,Step Back Jump Shot,2,3,0,JUMP_SHOTS,,2022
+Greg Brown III,1630535,Alley Oop Dunk,2,1,1,DUNKS,,2023
+Greg Brown III,1630535,Driving Dunk,2,1,1,DUNKS,,2023
+Greg Brown III,1630535,Driving Hook Shot,2,1,0,POST_MOVES,,2023
+Greg Brown III,1630535,Driving Layup,2,6,2,LAYUPS,,2023
+Greg Brown III,1630535,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2023
+Greg Brown III,1630535,Jump Shot,2,7,1,JUMP_SHOTS,,2023
+Greg Brown III,1630535,Jump Shot,3,1,0,JUMP_SHOTS,,2023
+Greg Brown III,1630535,Pullup Jump Shot,2,1,0,JUMP_SHOTS,,2023
+Greg Brown III,1630535,Reverse Layup,2,1,0,LAYUPS,,2023
+Greg Brown III,1630535,Specialty Dunk,2,3,2,DUNKS,,2023
+Greg Brown III,1630535,Standard Dunk,2,3,3,DUNKS,,2023
+Greg Brown III,1630535,Standard Layup,2,2,1,LAYUPS,,2023
+Greg Brown III,1630535,Alley Oop Dunk,2,2,1,DUNKS,,2024
+Greg Brown III,1630535,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2024
+Greg Brown III,1630535,Jump Shot,3,3,1,JUMP_SHOTS,,2024
+Greg Brown III,1630535,Putback Layup,2,2,1,LAYUPS,,2024
+Greg Brown III,1630535,Standard Dunk,2,1,1,DUNKS,,2024
+Greg Brown III,1630535,Standard Layup,2,2,1,LAYUPS,,2024

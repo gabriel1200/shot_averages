@@ -1,57 +1,56 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Brian Shaw,216,Driving Layup,2,27,21,Driving Layup Shot,LAYUPS,,1997
-Brian Shaw,216,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,1997
-Brian Shaw,216,Hook Shot,2,20,10,Hook Shot,POST_MOVES,,1997
-Brian Shaw,216,Jump Shot,2,235,66,Jump Shot,JUMP_SHOTS,,1997
-Brian Shaw,216,Jump Shot,3,108,40,Jump Shot,JUMP_SHOTS,,1997
-Brian Shaw,216,Standard Layup,2,93,35,Layup Shot,LAYUPS,,1997
-Brian Shaw,216,Running Jump Shot,2,29,17,Running Jump Shot,JUMP_SHOTS,,1997
-Brian Shaw,216,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,1997
-Brian Shaw,216,Tip Shot,2,2,0,Tip Shot,TIP_SHOTS,,1997
-Brian Shaw,216,Driving Layup,2,31,22,Driving Layup Shot,LAYUPS,,1998
-Brian Shaw,216,Hook Shot,2,7,5,Hook Shot,POST_MOVES,,1998
-Brian Shaw,216,Jump Shot,2,275,75,Jump Shot,JUMP_SHOTS,,1998
-Brian Shaw,216,Jump Shot,3,56,16,Jump Shot,JUMP_SHOTS,,1998
-Brian Shaw,216,Standard Layup,2,56,24,Layup Shot,LAYUPS,,1998
-Brian Shaw,216,Running Jump Shot,2,17,10,Running Jump Shot,JUMP_SHOTS,,1998
-Brian Shaw,216,Tip Shot,2,4,2,Tip Shot,TIP_SHOTS,,1998
-Brian Shaw,216,Standard Layup,2,1,0,Layup Shot,LAYUPS,,1999
-Brian Shaw,216,Driving Layup,2,34,19,Driving Layup Shot,LAYUPS,,2000
-Brian Shaw,216,Hook Shot,2,6,4,Hook Shot,POST_MOVES,,2000
-Brian Shaw,216,Jump Shot,2,204,56,Jump Shot,JUMP_SHOTS,,2000
-Brian Shaw,216,Jump Shot,3,8,2,Jump Shot,JUMP_SHOTS,,2000
-Brian Shaw,216,Standard Layup,2,47,29,Layup Shot,LAYUPS,,2000
-Brian Shaw,216,Running Jump Shot,2,15,11,Running Jump Shot,JUMP_SHOTS,,2000
-Brian Shaw,216,Tip Shot,2,8,2,Tip Shot,TIP_SHOTS,,2000
-Brian Shaw,216,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2001
-Brian Shaw,216,Driving Layup,2,37,24,Driving Layup Shot,LAYUPS,,2001
-Brian Shaw,216,Hook Shot,2,6,1,Hook Shot,POST_MOVES,,2001
-Brian Shaw,216,Jump Shot,2,238,75,Jump Shot,JUMP_SHOTS,,2001
-Brian Shaw,216,Jump Shot,3,40,15,Jump Shot,JUMP_SHOTS,,2001
-Brian Shaw,216,Standard Layup,2,49,22,Layup Shot,LAYUPS,,2001
-Brian Shaw,216,Reverse Layup,2,6,3,Reverse Layup Shot,LAYUPS,,2001
-Brian Shaw,216,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2001
-Brian Shaw,216,Running Jump Shot,2,18,15,Running Jump Shot,JUMP_SHOTS,,2001
-Brian Shaw,216,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2001
-Brian Shaw,216,Tip Shot,2,8,1,Tip Shot,TIP_SHOTS,,2001
-Brian Shaw,216,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2001
-Brian Shaw,216,Turnaround Jump Shot,2,5,4,Turnaround Jump Shot,JUMP_SHOTS,,2001
-Brian Shaw,216,Driving Layup,2,8,3,Driving Layup Shot,LAYUPS,,2002
-Brian Shaw,216,Fadeaway Jump Shot,2,2,2,Fadeaway Jump Shot,JUMP_SHOTS,,2002
-Brian Shaw,216,Hook Shot,2,4,1,Hook Shot,POST_MOVES,,2002
-Brian Shaw,216,Jump Shot,2,128,40,Jump Shot,JUMP_SHOTS,,2002
-Brian Shaw,216,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,2002
-Brian Shaw,216,Standard Layup,2,15,9,Layup Shot,LAYUPS,,2002
-Brian Shaw,216,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2002
-Brian Shaw,216,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2002
-Brian Shaw,216,Running Jump Shot,2,5,2,Running Jump Shot,JUMP_SHOTS,,2002
-Brian Shaw,216,Tip Shot,2,5,2,Tip Shot,TIP_SHOTS,,2002
-Brian Shaw,216,Driving Layup,2,7,7,Driving Layup Shot,LAYUPS,,2003
-Brian Shaw,216,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2003
-Brian Shaw,216,Hook Shot,2,5,1,Hook Shot,POST_MOVES,,2003
-Brian Shaw,216,Jump Shot,2,213,74,Jump Shot,JUMP_SHOTS,,2003
-Brian Shaw,216,Jump Shot,3,3,1,Jump Shot,JUMP_SHOTS,,2003
-Brian Shaw,216,Standard Layup,2,19,10,Layup Shot,LAYUPS,,2003
-Brian Shaw,216,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2003
-Brian Shaw,216,Running Jump Shot,2,9,7,Running Jump Shot,JUMP_SHOTS,,2003
-Brian Shaw,216,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2003
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Brian Shaw,216,Driving Layup,2,27,21,LAYUPS,,1997
+Brian Shaw,216,Hook Shot,2,20,10,POST_MOVES,,1997
+Brian Shaw,216,Jump Shot,2,235,66,JUMP_SHOTS,,1997
+Brian Shaw,216,Jump Shot,3,108,40,JUMP_SHOTS,,1997
+Brian Shaw,216,Running Jump Shot,2,29,17,JUMP_SHOTS,,1997
+Brian Shaw,216,Running Jump Shot,3,1,0,JUMP_SHOTS,,1997
+Brian Shaw,216,Standard Dunk,2,1,0,DUNKS,,1997
+Brian Shaw,216,Standard Layup,2,93,35,LAYUPS,,1997
+Brian Shaw,216,Tip Shot,2,2,0,TIP_SHOTS,,1997
+Brian Shaw,216,Driving Layup,2,31,22,LAYUPS,,1998
+Brian Shaw,216,Hook Shot,2,7,5,POST_MOVES,,1998
+Brian Shaw,216,Jump Shot,2,275,75,JUMP_SHOTS,,1998
+Brian Shaw,216,Jump Shot,3,56,16,JUMP_SHOTS,,1998
+Brian Shaw,216,Running Jump Shot,2,17,10,JUMP_SHOTS,,1998
+Brian Shaw,216,Standard Layup,2,56,24,LAYUPS,,1998
+Brian Shaw,216,Tip Shot,2,4,2,TIP_SHOTS,,1998
+Brian Shaw,216,Standard Layup,2,1,0,LAYUPS,,1999
+Brian Shaw,216,Driving Layup,2,34,19,LAYUPS,,2000
+Brian Shaw,216,Hook Shot,2,6,4,POST_MOVES,,2000
+Brian Shaw,216,Jump Shot,2,204,56,JUMP_SHOTS,,2000
+Brian Shaw,216,Jump Shot,3,8,2,JUMP_SHOTS,,2000
+Brian Shaw,216,Running Jump Shot,2,15,11,JUMP_SHOTS,,2000
+Brian Shaw,216,Standard Layup,2,47,29,LAYUPS,,2000
+Brian Shaw,216,Tip Shot,2,8,2,TIP_SHOTS,,2000
+Brian Shaw,216,Driving Dunk,2,1,1,DUNKS,,2001
+Brian Shaw,216,Driving Layup,2,37,24,LAYUPS,,2001
+Brian Shaw,216,Hook Shot,2,6,1,POST_MOVES,,2001
+Brian Shaw,216,Jump Shot,2,238,75,JUMP_SHOTS,,2001
+Brian Shaw,216,Jump Shot,3,40,15,JUMP_SHOTS,,2001
+Brian Shaw,216,Reverse Layup,2,6,3,LAYUPS,,2001
+Brian Shaw,216,Running Hook Shot,2,1,1,POST_MOVES,,2001
+Brian Shaw,216,Running Jump Shot,2,18,15,JUMP_SHOTS,,2001
+Brian Shaw,216,Standard Layup,2,50,23,LAYUPS,,2001
+Brian Shaw,216,Tip Shot,2,8,1,TIP_SHOTS,,2001
+Brian Shaw,216,Turnaround Hook Shot,2,1,1,POST_MOVES,,2001
+Brian Shaw,216,Turnaround Jump Shot,2,5,4,JUMP_SHOTS,,2001
+Brian Shaw,216,Driving Layup,2,8,3,LAYUPS,,2002
+Brian Shaw,216,Fadeaway Jump Shot,2,2,2,JUMP_SHOTS,,2002
+Brian Shaw,216,Hook Shot,2,4,1,POST_MOVES,,2002
+Brian Shaw,216,Jump Shot,2,128,40,JUMP_SHOTS,,2002
+Brian Shaw,216,Jump Shot,3,2,0,JUMP_SHOTS,,2002
+Brian Shaw,216,Reverse Layup,2,2,2,LAYUPS,,2002
+Brian Shaw,216,Running Hook Shot,2,1,0,POST_MOVES,,2002
+Brian Shaw,216,Running Jump Shot,2,5,2,JUMP_SHOTS,,2002
+Brian Shaw,216,Standard Layup,2,15,9,LAYUPS,,2002
+Brian Shaw,216,Tip Shot,2,5,2,TIP_SHOTS,,2002
+Brian Shaw,216,Driving Layup,2,7,7,LAYUPS,,2003
+Brian Shaw,216,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2003
+Brian Shaw,216,Hook Shot,2,5,1,POST_MOVES,,2003
+Brian Shaw,216,Jump Shot,2,213,74,JUMP_SHOTS,,2003
+Brian Shaw,216,Jump Shot,3,3,1,JUMP_SHOTS,,2003
+Brian Shaw,216,Running Hook Shot,2,1,0,POST_MOVES,,2003
+Brian Shaw,216,Running Jump Shot,2,9,7,JUMP_SHOTS,,2003
+Brian Shaw,216,Standard Layup,2,19,10,LAYUPS,,2003
+Brian Shaw,216,Turnaround Jump Shot,2,3,1,JUMP_SHOTS,,2003

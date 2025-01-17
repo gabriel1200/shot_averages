@@ -1,12 +1,10 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Damien Inglis,203996,Standard Layup,2,2,1,Cutting Layup Shot,LAYUPS,,2016
-Damien Inglis,203996,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2016
-Damien Inglis,203996,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2016
-Damien Inglis,203996,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,2016
-Damien Inglis,203996,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2016
-Damien Inglis,203996,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2016
-Damien Inglis,203996,Jump Shot,2,20,5,Jump Shot,JUMP_SHOTS,,2016
-Damien Inglis,203996,Standard Layup,2,3,1,Layup Shot,LAYUPS,,2016
-Damien Inglis,203996,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2016
-Damien Inglis,203996,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2016
-Damien Inglis,203996,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2016
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Damien Inglis,203996,Driving Dunk,2,1,1,DUNKS,,2016
+Damien Inglis,203996,Driving Layup,2,2,2,LAYUPS,,2016
+Damien Inglis,203996,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2016
+Damien Inglis,203996,Finger Roll,2,1,0,LAYUPS,,2016
+Damien Inglis,203996,Jump Shot,2,20,5,JUMP_SHOTS,,2016
+Damien Inglis,203996,Running Jump Shot,2,1,0,JUMP_SHOTS,,2016
+Damien Inglis,203996,Standard Dunk,2,1,1,DUNKS,,2016
+Damien Inglis,203996,Standard Layup,2,8,4,LAYUPS,,2016
+Damien Inglis,203996,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2016

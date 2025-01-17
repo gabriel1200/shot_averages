@@ -1,40 +1,35 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Jared Rhoden,1631197,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2023
-Jared Rhoden,1631197,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2023
-Jared Rhoden,1631197,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
-Jared Rhoden,1631197,Driving Layup,2,3,1,Driving Layup Shot,LAYUPS,,2023
-Jared Rhoden,1631197,Jump Shot,2,20,5,Jump Shot,JUMP_SHOTS,,2023
-Jared Rhoden,1631197,Pullup Jump Shot,2,5,2,Pullup Jump shot,JUMP_SHOTS,,2023
-Jared Rhoden,1631197,Alley Oop Layup,2,1,1,Running Alley Oop Layup Shot,LAYUPS,,2023
-Jared Rhoden,1631197,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2023
-Jared Rhoden,1631197,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2023
-Jared Rhoden,1631197,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2023
-Jared Rhoden,1631197,Putback Layup,2,4,3,Tip Layup Shot,LAYUPS,,2023
-Jared Rhoden,1631197,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2023
-Jared Rhoden,1631197,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2023
-Jared Rhoden,1631197,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2024
-Jared Rhoden,1631197,Driving Dunk,2,2,1,Driving Dunk Shot,DUNKS,,2024
-Jared Rhoden,1631197,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2024
-Jared Rhoden,1631197,Floating Jump Shot,2,1,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
-Jared Rhoden,1631197,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2024
-Jared Rhoden,1631197,Driving Layup,2,2,1,Driving Layup Shot,LAYUPS,,2024
-Jared Rhoden,1631197,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2024
-Jared Rhoden,1631197,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2024
-Jared Rhoden,1631197,Floating Jump Shot,3,1,0,Floating Jump shot,FLOATING_SHOTS,,2024
-Jared Rhoden,1631197,Jump Shot,2,4,3,Jump Shot,JUMP_SHOTS,,2024
-Jared Rhoden,1631197,Jump Shot,3,24,11,Jump Shot,JUMP_SHOTS,,2024
-Jared Rhoden,1631197,Standard Layup,2,1,1,Layup Shot,LAYUPS,,2024
-Jared Rhoden,1631197,Pullup Jump Shot,2,13,6,Pullup Jump shot,JUMP_SHOTS,,2024
-Jared Rhoden,1631197,Pullup Jump Shot,3,2,1,Pullup Jump shot,JUMP_SHOTS,,2024
-Jared Rhoden,1631197,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2024
-Jared Rhoden,1631197,Running Jump Shot,3,3,0,Running Jump Shot,JUMP_SHOTS,,2024
-Jared Rhoden,1631197,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2024
-Jared Rhoden,1631197,Running Jump Shot,3,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
-Jared Rhoden,1631197,Step Back Jump Shot,2,3,1,Step Back Jump shot,JUMP_SHOTS,,2024
-Jared Rhoden,1631197,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2024
-Jared Rhoden,1631197,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2025
-Jared Rhoden,1631197,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
-Jared Rhoden,1631197,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2025
-Jared Rhoden,1631197,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,2025
-Jared Rhoden,1631197,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2025
-Jared Rhoden,1631197,Putback Layup,2,2,1,Tip Layup Shot,LAYUPS,,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Jared Rhoden,1631197,Alley Oop Layup,2,1,1,LAYUPS,,2023
+Jared Rhoden,1631197,Driving Layup,2,3,1,LAYUPS,,2023
+Jared Rhoden,1631197,Finger Roll,2,1,0,LAYUPS,,2023
+Jared Rhoden,1631197,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2023
+Jared Rhoden,1631197,Jump Shot,2,20,5,JUMP_SHOTS,,2023
+Jared Rhoden,1631197,Pullup Jump Shot,2,5,2,JUMP_SHOTS,,2023
+Jared Rhoden,1631197,Putback Layup,2,4,3,LAYUPS,,2023
+Jared Rhoden,1631197,Specialty Dunk,2,1,1,DUNKS,,2023
+Jared Rhoden,1631197,Standard Dunk,2,1,1,DUNKS,,2023
+Jared Rhoden,1631197,Standard Layup,2,2,1,LAYUPS,,2023
+Jared Rhoden,1631197,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2023
+Jared Rhoden,1631197,Turnaround Jump Shot,2,4,2,JUMP_SHOTS,,2023
+Jared Rhoden,1631197,Driving Dunk,2,2,1,DUNKS,,2024
+Jared Rhoden,1631197,Driving Hook Shot,2,1,0,POST_MOVES,,2024
+Jared Rhoden,1631197,Driving Layup,2,2,1,LAYUPS,,2024
+Jared Rhoden,1631197,Fadeaway Jump Shot,2,2,2,JUMP_SHOTS,,2024
+Jared Rhoden,1631197,Finger Roll,2,1,1,LAYUPS,,2024
+Jared Rhoden,1631197,Floating Jump Shot,2,1,1,FLOATING_SHOTS,,2024
+Jared Rhoden,1631197,Floating Jump Shot,3,1,0,FLOATING_SHOTS,,2024
+Jared Rhoden,1631197,Jump Shot,2,4,3,JUMP_SHOTS,,2024
+Jared Rhoden,1631197,Jump Shot,3,24,11,JUMP_SHOTS,,2024
+Jared Rhoden,1631197,Pullup Jump Shot,2,13,6,JUMP_SHOTS,,2024
+Jared Rhoden,1631197,Pullup Jump Shot,3,2,1,JUMP_SHOTS,,2024
+Jared Rhoden,1631197,Running Jump Shot,3,4,0,JUMP_SHOTS,,2024
+Jared Rhoden,1631197,Specialty Dunk,2,2,2,DUNKS,,2024
+Jared Rhoden,1631197,Standard Dunk,2,1,1,DUNKS,,2024
+Jared Rhoden,1631197,Standard Layup,2,2,2,LAYUPS,,2024
+Jared Rhoden,1631197,Step Back Jump Shot,2,3,1,JUMP_SHOTS,,2024
+Jared Rhoden,1631197,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2024
+Jared Rhoden,1631197,Driving Layup,2,1,0,LAYUPS,,2025
+Jared Rhoden,1631197,Floating Jump Shot,2,2,1,FLOATING_SHOTS,,2025
+Jared Rhoden,1631197,Jump Shot,3,2,0,JUMP_SHOTS,,2025
+Jared Rhoden,1631197,Pullup Jump Shot,2,1,0,JUMP_SHOTS,,2025
+Jared Rhoden,1631197,Putback Layup,2,2,1,LAYUPS,,2025

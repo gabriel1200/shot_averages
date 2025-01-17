@@ -1,65 +1,62 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Danny Manning,330,Driving Layup,2,25,22,Driving Layup Shot,LAYUPS,,1997
-Danny Manning,330,Standard Dunk,2,14,12,Dunk Shot,DUNKS,,1997
-Danny Manning,330,Hook Shot,2,56,34,Hook Shot,POST_MOVES,,1997
-Danny Manning,330,Jump Shot,2,348,123,Jump Shot,JUMP_SHOTS,,1997
-Danny Manning,330,Jump Shot,3,5,0,Jump Shot,JUMP_SHOTS,,1997
-Danny Manning,330,Standard Layup,2,272,183,Layup Shot,LAYUPS,,1997
-Danny Manning,330,Running Jump Shot,2,24,18,Running Jump Shot,JUMP_SHOTS,,1997
-Danny Manning,330,Standard Dunk,2,9,9,Slam Dunk Shot,DUNKS,,1997
-Danny Manning,330,Tip Shot,2,42,25,Tip Shot,TIP_SHOTS,,1997
-Danny Manning,330,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,1998
-Danny Manning,330,Driving Layup,2,39,31,Driving Layup Shot,LAYUPS,,1998
-Danny Manning,330,Standard Dunk,2,7,7,Dunk Shot,DUNKS,,1998
-Danny Manning,330,Hook Shot,2,44,23,Hook Shot,POST_MOVES,,1998
-Danny Manning,330,Jump Shot,2,434,172,Jump Shot,JUMP_SHOTS,,1998
-Danny Manning,330,Jump Shot,3,3,0,Jump Shot,JUMP_SHOTS,,1998
-Danny Manning,330,Standard Layup,2,189,130,Layup Shot,LAYUPS,,1998
-Danny Manning,330,Running Jump Shot,2,13,10,Running Jump Shot,JUMP_SHOTS,,1998
-Danny Manning,330,Tip Shot,2,26,16,Tip Shot,TIP_SHOTS,,1998
-Danny Manning,330,Driving Layup,2,18,15,Driving Layup Shot,LAYUPS,,1999
-Danny Manning,330,Hook Shot,2,15,11,Hook Shot,POST_MOVES,,1999
-Danny Manning,330,Jump Shot,2,244,94,Jump Shot,JUMP_SHOTS,,1999
-Danny Manning,330,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,1999
-Danny Manning,330,Standard Layup,2,75,47,Layup Shot,LAYUPS,,1999
-Danny Manning,330,Running Jump Shot,2,16,12,Running Jump Shot,JUMP_SHOTS,,1999
-Danny Manning,330,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,1999
-Danny Manning,330,Tip Shot,2,15,7,Tip Shot,TIP_SHOTS,,1999
-Danny Manning,330,Driving Layup,2,9,8,Driving Layup Shot,LAYUPS,,2000
-Danny Manning,330,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2000
-Danny Manning,330,Hook Shot,2,13,7,Hook Shot,POST_MOVES,,2000
-Danny Manning,330,Jump Shot,2,229,74,Jump Shot,JUMP_SHOTS,,2000
-Danny Manning,330,Standard Layup,2,58,43,Layup Shot,LAYUPS,,2000
-Danny Manning,330,Running Jump Shot,2,11,8,Running Jump Shot,JUMP_SHOTS,,2000
-Danny Manning,330,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2000
-Danny Manning,330,Tip Shot,2,15,5,Tip Shot,TIP_SHOTS,,2000
-Danny Manning,330,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2001
-Danny Manning,330,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2001
-Danny Manning,330,Driving Layup,2,13,12,Driving Layup Shot,LAYUPS,,2001
-Danny Manning,330,Hook Shot,2,20,12,Hook Shot,POST_MOVES,,2001
-Danny Manning,330,Jump Shot,2,315,119,Jump Shot,JUMP_SHOTS,,2001
-Danny Manning,330,Standard Layup,2,97,66,Layup Shot,LAYUPS,,2001
-Danny Manning,330,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2001
-Danny Manning,330,Running Hook Shot,2,3,2,Running Hook Shot,POST_MOVES,,2001
-Danny Manning,330,Running Jump Shot,2,16,13,Running Jump Shot,JUMP_SHOTS,,2001
-Danny Manning,330,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2001
-Danny Manning,330,Tip Shot,2,13,4,Tip Shot,TIP_SHOTS,,2001
-Danny Manning,330,Turnaround Hook Shot,2,8,8,Turnaround Hook Shot,POST_MOVES,,2001
-Danny Manning,330,Turnaround Jump Shot,2,8,4,Turnaround Jump Shot,JUMP_SHOTS,,2001
-Danny Manning,330,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2002
-Danny Manning,330,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2002
-Danny Manning,330,Driving Layup,2,11,5,Driving Layup Shot,LAYUPS,,2002
-Danny Manning,330,Standard Dunk,2,3,2,Dunk Shot,DUNKS,,2002
-Danny Manning,330,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2002
-Danny Manning,330,Jump Shot,2,96,35,Jump Shot,JUMP_SHOTS,,2002
-Danny Manning,330,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2002
-Danny Manning,330,Standard Layup,2,21,15,Layup Shot,LAYUPS,,2002
-Danny Manning,330,Running Jump Shot,2,3,1,Running Jump Shot,JUMP_SHOTS,,2002
-Danny Manning,330,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2002
-Danny Manning,330,Tip Shot,2,5,5,Tip Shot,TIP_SHOTS,,2002
-Danny Manning,330,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2002
-Danny Manning,330,Turnaround Jump Shot,2,3,2,Turnaround Jump Shot,JUMP_SHOTS,,2002
-Danny Manning,330,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2003
-Danny Manning,330,Jump Shot,2,21,6,Jump Shot,JUMP_SHOTS,,2003
-Danny Manning,330,Standard Layup,2,9,6,Layup Shot,LAYUPS,,2003
-Danny Manning,330,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2003
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Danny Manning,330,Driving Layup,2,25,22,LAYUPS,,1997
+Danny Manning,330,Hook Shot,2,56,34,POST_MOVES,,1997
+Danny Manning,330,Jump Shot,2,348,123,JUMP_SHOTS,,1997
+Danny Manning,330,Jump Shot,3,5,0,JUMP_SHOTS,,1997
+Danny Manning,330,Running Jump Shot,2,24,18,JUMP_SHOTS,,1997
+Danny Manning,330,Standard Dunk,2,23,21,DUNKS,,1997
+Danny Manning,330,Standard Layup,2,272,183,LAYUPS,,1997
+Danny Manning,330,Tip Shot,2,42,25,TIP_SHOTS,,1997
+Danny Manning,330,Driving Dunk,2,1,1,DUNKS,,1998
+Danny Manning,330,Driving Layup,2,39,31,LAYUPS,,1998
+Danny Manning,330,Hook Shot,2,44,23,POST_MOVES,,1998
+Danny Manning,330,Jump Shot,2,434,172,JUMP_SHOTS,,1998
+Danny Manning,330,Jump Shot,3,3,0,JUMP_SHOTS,,1998
+Danny Manning,330,Running Jump Shot,2,13,10,JUMP_SHOTS,,1998
+Danny Manning,330,Standard Dunk,2,7,7,DUNKS,,1998
+Danny Manning,330,Standard Layup,2,189,130,LAYUPS,,1998
+Danny Manning,330,Tip Shot,2,26,16,TIP_SHOTS,,1998
+Danny Manning,330,Driving Layup,2,18,15,LAYUPS,,1999
+Danny Manning,330,Hook Shot,2,15,11,POST_MOVES,,1999
+Danny Manning,330,Jump Shot,2,244,94,JUMP_SHOTS,,1999
+Danny Manning,330,Jump Shot,3,2,0,JUMP_SHOTS,,1999
+Danny Manning,330,Running Jump Shot,2,16,12,JUMP_SHOTS,,1999
+Danny Manning,330,Standard Dunk,2,1,1,DUNKS,,1999
+Danny Manning,330,Standard Layup,2,75,47,LAYUPS,,1999
+Danny Manning,330,Tip Shot,2,15,7,TIP_SHOTS,,1999
+Danny Manning,330,Driving Layup,2,9,8,LAYUPS,,2000
+Danny Manning,330,Hook Shot,2,13,7,POST_MOVES,,2000
+Danny Manning,330,Jump Shot,2,229,74,JUMP_SHOTS,,2000
+Danny Manning,330,Running Jump Shot,2,11,8,JUMP_SHOTS,,2000
+Danny Manning,330,Standard Dunk,2,4,4,DUNKS,,2000
+Danny Manning,330,Standard Layup,2,58,43,LAYUPS,,2000
+Danny Manning,330,Tip Shot,2,15,5,TIP_SHOTS,,2000
+Danny Manning,330,Alley Oop Layup,2,1,1,LAYUPS,,2001
+Danny Manning,330,Driving Dunk,2,1,1,DUNKS,,2001
+Danny Manning,330,Driving Layup,2,13,12,LAYUPS,,2001
+Danny Manning,330,Hook Shot,2,20,12,POST_MOVES,,2001
+Danny Manning,330,Jump Shot,2,315,119,JUMP_SHOTS,,2001
+Danny Manning,330,Reverse Layup,2,2,2,LAYUPS,,2001
+Danny Manning,330,Running Hook Shot,2,3,2,POST_MOVES,,2001
+Danny Manning,330,Running Jump Shot,2,16,13,JUMP_SHOTS,,2001
+Danny Manning,330,Standard Dunk,2,3,3,DUNKS,,2001
+Danny Manning,330,Standard Layup,2,97,66,LAYUPS,,2001
+Danny Manning,330,Tip Shot,2,13,4,TIP_SHOTS,,2001
+Danny Manning,330,Turnaround Hook Shot,2,8,8,POST_MOVES,,2001
+Danny Manning,330,Turnaround Jump Shot,2,8,4,JUMP_SHOTS,,2001
+Danny Manning,330,Alley Oop Layup,2,1,1,LAYUPS,,2002
+Danny Manning,330,Driving Dunk,2,1,1,DUNKS,,2002
+Danny Manning,330,Driving Layup,2,11,5,LAYUPS,,2002
+Danny Manning,330,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2002
+Danny Manning,330,Jump Shot,2,96,35,JUMP_SHOTS,,2002
+Danny Manning,330,Jump Shot,3,1,0,JUMP_SHOTS,,2002
+Danny Manning,330,Running Jump Shot,2,3,1,JUMP_SHOTS,,2002
+Danny Manning,330,Standard Dunk,2,5,4,DUNKS,,2002
+Danny Manning,330,Standard Layup,2,21,15,LAYUPS,,2002
+Danny Manning,330,Tip Shot,2,5,5,TIP_SHOTS,,2002
+Danny Manning,330,Turnaround Hook Shot,2,1,1,POST_MOVES,,2002
+Danny Manning,330,Turnaround Jump Shot,2,3,2,JUMP_SHOTS,,2002
+Danny Manning,330,Driving Layup,2,1,0,LAYUPS,,2003
+Danny Manning,330,Jump Shot,2,21,6,JUMP_SHOTS,,2003
+Danny Manning,330,Standard Layup,2,9,6,LAYUPS,,2003
+Danny Manning,330,Tip Shot,2,1,1,TIP_SHOTS,,2003

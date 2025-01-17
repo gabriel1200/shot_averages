@@ -1,21 +1,20 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Terry Davis,426,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,1998
-Terry Davis,426,Driving Layup,2,11,11,Driving Layup Shot,LAYUPS,,1998
-Terry Davis,426,Standard Dunk,2,7,6,Dunk Shot,DUNKS,,1998
-Terry Davis,426,Hook Shot,2,4,3,Hook Shot,POST_MOVES,,1998
-Terry Davis,426,Jump Shot,2,80,26,Jump Shot,JUMP_SHOTS,,1998
-Terry Davis,426,Standard Layup,2,123,56,Layup Shot,LAYUPS,,1998
-Terry Davis,426,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,1998
-Terry Davis,426,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,1998
-Terry Davis,426,Tip Shot,2,20,14,Tip Shot,TIP_SHOTS,,1998
-Terry Davis,426,Driving Layup,2,5,5,Driving Layup Shot,LAYUPS,,1999
-Terry Davis,426,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,1999
-Terry Davis,426,Hook Shot,2,8,3,Hook Shot,POST_MOVES,,1999
-Terry Davis,426,Jump Shot,2,29,8,Jump Shot,JUMP_SHOTS,,1999
-Terry Davis,426,Standard Layup,2,36,23,Layup Shot,LAYUPS,,1999
-Terry Davis,426,Tip Shot,2,11,7,Tip Shot,TIP_SHOTS,,1999
-Terry Davis,426,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2001
-Terry Davis,426,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2001
-Terry Davis,426,Jump Shot,2,8,4,Jump Shot,JUMP_SHOTS,,2001
-Terry Davis,426,Standard Layup,2,10,5,Layup Shot,LAYUPS,,2001
-Terry Davis,426,Tip Shot,2,5,2,Tip Shot,TIP_SHOTS,,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Terry Davis,426,Driving Dunk,2,4,4,DUNKS,,1998
+Terry Davis,426,Driving Layup,2,11,11,LAYUPS,,1998
+Terry Davis,426,Hook Shot,2,4,3,POST_MOVES,,1998
+Terry Davis,426,Jump Shot,2,80,26,JUMP_SHOTS,,1998
+Terry Davis,426,Running Jump Shot,2,2,2,JUMP_SHOTS,,1998
+Terry Davis,426,Standard Dunk,2,12,11,DUNKS,,1998
+Terry Davis,426,Standard Layup,2,123,56,LAYUPS,,1998
+Terry Davis,426,Tip Shot,2,20,14,TIP_SHOTS,,1998
+Terry Davis,426,Driving Layup,2,5,5,LAYUPS,,1999
+Terry Davis,426,Hook Shot,2,8,3,POST_MOVES,,1999
+Terry Davis,426,Jump Shot,2,29,8,JUMP_SHOTS,,1999
+Terry Davis,426,Standard Dunk,2,3,3,DUNKS,,1999
+Terry Davis,426,Standard Layup,2,36,23,LAYUPS,,1999
+Terry Davis,426,Tip Shot,2,11,7,TIP_SHOTS,,1999
+Terry Davis,426,Driving Layup,2,1,1,LAYUPS,,2001
+Terry Davis,426,Hook Shot,2,1,0,POST_MOVES,,2001
+Terry Davis,426,Jump Shot,2,8,4,JUMP_SHOTS,,2001
+Terry Davis,426,Standard Layup,2,10,5,LAYUPS,,2001
+Terry Davis,426,Tip Shot,2,5,2,TIP_SHOTS,,2001

@@ -1,34 +1,27 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Kostas Papanikolaou,203123,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2015
-Kostas Papanikolaou,203123,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2015
-Kostas Papanikolaou,203123,Driving Layup,2,10,3,Driving Layup Shot,LAYUPS,,2015
-Kostas Papanikolaou,203123,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2015
-Kostas Papanikolaou,203123,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2015
-Kostas Papanikolaou,203123,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2015
-Kostas Papanikolaou,203123,Jump Shot,2,124,33,Jump Shot,JUMP_SHOTS,,2015
-Kostas Papanikolaou,203123,Standard Layup,2,33,21,Layup Shot,LAYUPS,,2015
-Kostas Papanikolaou,203123,Pullup Jump Shot,2,2,0,Pullup Jump shot,JUMP_SHOTS,,2015
-Kostas Papanikolaou,203123,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2015
-Kostas Papanikolaou,203123,Reverse Layup,2,3,0,Reverse Layup Shot,LAYUPS,,2015
-Kostas Papanikolaou,203123,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2015
-Kostas Papanikolaou,203123,Standard Dunk,2,2,1,Running Dunk Shot,DUNKS,,2015
-Kostas Papanikolaou,203123,Running Jump Shot,2,3,0,Running Jump Shot,JUMP_SHOTS,,2015
-Kostas Papanikolaou,203123,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2015
-Kostas Papanikolaou,203123,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2015
-Kostas Papanikolaou,203123,Turnaround Jump Shot,2,6,3,Turnaround Jump Shot,JUMP_SHOTS,,2015
-Kostas Papanikolaou,203123,Standard Layup,2,2,2,Cutting Layup Shot,LAYUPS,,2016
-Kostas Papanikolaou,203123,Driving Layup,2,4,2,Driving Layup Shot,LAYUPS,,2016
-Kostas Papanikolaou,203123,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2016
-Kostas Papanikolaou,203123,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2016
-Kostas Papanikolaou,203123,Floating Jump Shot,2,2,0,Floating Jump shot,FLOATING_SHOTS,,2016
-Kostas Papanikolaou,203123,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2016
-Kostas Papanikolaou,203123,Jump Shot,2,40,12,Jump Shot,JUMP_SHOTS,,2016
-Kostas Papanikolaou,203123,Standard Layup,2,3,0,Layup Shot,LAYUPS,,2016
-Kostas Papanikolaou,203123,Pullup Jump Shot,2,2,0,Pullup Jump shot,JUMP_SHOTS,,2016
-Kostas Papanikolaou,203123,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2016
-Kostas Papanikolaou,203123,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2016
-Kostas Papanikolaou,203123,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2016
-Kostas Papanikolaou,203123,Standard Layup,2,4,2,Running Layup Shot,LAYUPS,,2016
-Kostas Papanikolaou,203123,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2016
-Kostas Papanikolaou,203123,Putback Layup,2,1,1,Tip Layup Shot,LAYUPS,,2016
-Kostas Papanikolaou,203123,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2016
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Kostas Papanikolaou,203123,Alley Oop Layup,2,1,0,LAYUPS,,2015
+Kostas Papanikolaou,203123,Driving Dunk,2,1,1,DUNKS,,2015
+Kostas Papanikolaou,203123,Driving Jump Shot,2,1,0,JUMP_SHOTS,,2015
+Kostas Papanikolaou,203123,Driving Layup,2,10,3,LAYUPS,,2015
+Kostas Papanikolaou,203123,Fadeaway Jump Shot,2,2,0,JUMP_SHOTS,,2015
+Kostas Papanikolaou,203123,Jump Shot,2,124,33,JUMP_SHOTS,,2015
+Kostas Papanikolaou,203123,Pullup Jump Shot,2,2,0,JUMP_SHOTS,,2015
+Kostas Papanikolaou,203123,Putback Layup,2,1,1,LAYUPS,,2015
+Kostas Papanikolaou,203123,Reverse Layup,2,3,0,LAYUPS,,2015
+Kostas Papanikolaou,203123,Running Jump Shot,2,4,1,JUMP_SHOTS,,2015
+Kostas Papanikolaou,203123,Standard Dunk,2,6,5,DUNKS,,2015
+Kostas Papanikolaou,203123,Standard Layup,2,33,21,LAYUPS,,2015
+Kostas Papanikolaou,203123,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2015
+Kostas Papanikolaou,203123,Tip Shot,2,2,1,TIP_SHOTS,,2015
+Kostas Papanikolaou,203123,Turnaround Jump Shot,2,6,3,JUMP_SHOTS,,2015
+Kostas Papanikolaou,203123,Driving Layup,2,5,2,LAYUPS,,2016
+Kostas Papanikolaou,203123,Finger Roll,2,1,1,LAYUPS,,2016
+Kostas Papanikolaou,203123,Floating Jump Shot,2,2,0,FLOATING_SHOTS,,2016
+Kostas Papanikolaou,203123,Jump Shot,2,41,13,JUMP_SHOTS,,2016
+Kostas Papanikolaou,203123,Pullup Jump Shot,2,2,0,JUMP_SHOTS,,2016
+Kostas Papanikolaou,203123,Putback Layup,2,2,2,LAYUPS,,2016
+Kostas Papanikolaou,203123,Reverse Layup,2,1,1,LAYUPS,,2016
+Kostas Papanikolaou,203123,Standard Dunk,2,1,1,DUNKS,,2016
+Kostas Papanikolaou,203123,Standard Layup,2,9,4,LAYUPS,,2016
+Kostas Papanikolaou,203123,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2016
+Kostas Papanikolaou,203123,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2016

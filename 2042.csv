@@ -1,41 +1,34 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Courtney Alexander,2042,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2001
-Courtney Alexander,2042,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2001
-Courtney Alexander,2042,Driving Layup,2,17,12,Driving Layup Shot,LAYUPS,,2001
-Courtney Alexander,2042,Jump Shot,2,437,161,Jump Shot,JUMP_SHOTS,,2001
-Courtney Alexander,2042,Jump Shot,3,8,3,Jump Shot,JUMP_SHOTS,,2001
-Courtney Alexander,2042,Standard Layup,2,68,22,Layup Shot,LAYUPS,,2001
-Courtney Alexander,2042,Reverse Layup,2,6,5,Reverse Layup Shot,LAYUPS,,2001
-Courtney Alexander,2042,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2001
-Courtney Alexander,2042,Running Jump Shot,2,13,13,Running Jump Shot,JUMP_SHOTS,,2001
-Courtney Alexander,2042,Standard Layup,2,4,4,Running Layup Shot,LAYUPS,,2001
-Courtney Alexander,2042,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2001
-Courtney Alexander,2042,Tip Shot,2,4,4,Tip Shot,TIP_SHOTS,,2001
-Courtney Alexander,2042,Turnaround Jump Shot,2,9,8,Turnaround Jump Shot,JUMP_SHOTS,,2001
-Courtney Alexander,2042,Alley Oop Dunk,2,3,3,Alley Oop Dunk Shot,DUNKS,,2002
-Courtney Alexander,2042,Alley Oop Layup,2,3,3,Alley Oop Layup shot,LAYUPS,,2002
-Courtney Alexander,2042,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2002
-Courtney Alexander,2042,Driving Layup,2,15,13,Driving Layup Shot,LAYUPS,,2002
-Courtney Alexander,2042,Standard Dunk,2,6,6,Dunk Shot,DUNKS,,2002
-Courtney Alexander,2042,Fadeaway Jump Shot,2,11,11,Fadeaway Jump Shot,JUMP_SHOTS,,2002
-Courtney Alexander,2042,Jump Shot,2,353,133,Jump Shot,JUMP_SHOTS,,2002
-Courtney Alexander,2042,Standard Layup,2,46,23,Layup Shot,LAYUPS,,2002
-Courtney Alexander,2042,Reverse Layup,2,6,4,Reverse Layup Shot,LAYUPS,,2002
-Courtney Alexander,2042,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2002
-Courtney Alexander,2042,Running Jump Shot,2,12,9,Running Jump Shot,JUMP_SHOTS,,2002
-Courtney Alexander,2042,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2002
-Courtney Alexander,2042,Tip Shot,2,1,1,Running Tip Shot,TIP_SHOTS,,2002
-Courtney Alexander,2042,Standard Dunk,2,7,7,Slam Dunk Shot,DUNKS,,2002
-Courtney Alexander,2042,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2002
-Courtney Alexander,2042,Turnaround Jump Shot,2,3,3,Turnaround Jump Shot,JUMP_SHOTS,,2002
-Courtney Alexander,2042,Alley Oop Dunk,2,1,0,Alley Oop Dunk Shot,DUNKS,,2003
-Courtney Alexander,2042,Driving Layup,2,15,11,Driving Layup Shot,LAYUPS,,2003
-Courtney Alexander,2042,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2003
-Courtney Alexander,2042,Fadeaway Jump Shot,2,6,4,Fadeaway Jump Shot,JUMP_SHOTS,,2003
-Courtney Alexander,2042,Jump Shot,2,361,118,Jump Shot,JUMP_SHOTS,,2003
-Courtney Alexander,2042,Standard Layup,2,87,37,Layup Shot,LAYUPS,,2003
-Courtney Alexander,2042,Reverse Layup,2,8,3,Reverse Layup Shot,LAYUPS,,2003
-Courtney Alexander,2042,Running Jump Shot,2,3,1,Running Jump Shot,JUMP_SHOTS,,2003
-Courtney Alexander,2042,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,2003
-Courtney Alexander,2042,Tip Shot,2,6,1,Tip Shot,TIP_SHOTS,,2003
-Courtney Alexander,2042,Turnaround Jump Shot,2,9,9,Turnaround Jump Shot,JUMP_SHOTS,,2003
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Courtney Alexander,2042,Driving Dunk,2,1,1,DUNKS,,2001
+Courtney Alexander,2042,Driving Hook Shot,2,1,1,POST_MOVES,,2001
+Courtney Alexander,2042,Driving Layup,2,17,12,LAYUPS,,2001
+Courtney Alexander,2042,Jump Shot,2,437,161,JUMP_SHOTS,,2001
+Courtney Alexander,2042,Jump Shot,3,8,3,JUMP_SHOTS,,2001
+Courtney Alexander,2042,Reverse Layup,2,6,5,LAYUPS,,2001
+Courtney Alexander,2042,Running Jump Shot,2,13,13,JUMP_SHOTS,,2001
+Courtney Alexander,2042,Standard Dunk,2,5,5,DUNKS,,2001
+Courtney Alexander,2042,Standard Layup,2,72,26,LAYUPS,,2001
+Courtney Alexander,2042,Tip Shot,2,4,4,TIP_SHOTS,,2001
+Courtney Alexander,2042,Turnaround Jump Shot,2,9,8,JUMP_SHOTS,,2001
+Courtney Alexander,2042,Alley Oop Dunk,2,3,3,DUNKS,,2002
+Courtney Alexander,2042,Alley Oop Layup,2,3,3,LAYUPS,,2002
+Courtney Alexander,2042,Driving Dunk,2,3,3,DUNKS,,2002
+Courtney Alexander,2042,Driving Layup,2,15,13,LAYUPS,,2002
+Courtney Alexander,2042,Fadeaway Jump Shot,2,11,11,JUMP_SHOTS,,2002
+Courtney Alexander,2042,Jump Shot,2,353,133,JUMP_SHOTS,,2002
+Courtney Alexander,2042,Reverse Layup,2,6,4,LAYUPS,,2002
+Courtney Alexander,2042,Running Jump Shot,2,12,9,JUMP_SHOTS,,2002
+Courtney Alexander,2042,Standard Dunk,2,14,14,DUNKS,,2002
+Courtney Alexander,2042,Standard Layup,2,48,25,LAYUPS,,2002
+Courtney Alexander,2042,Tip Shot,2,3,2,TIP_SHOTS,,2002
+Courtney Alexander,2042,Turnaround Jump Shot,2,3,3,JUMP_SHOTS,,2002
+Courtney Alexander,2042,Alley Oop Dunk,2,1,0,DUNKS,,2003
+Courtney Alexander,2042,Driving Layup,2,15,11,LAYUPS,,2003
+Courtney Alexander,2042,Fadeaway Jump Shot,2,6,4,JUMP_SHOTS,,2003
+Courtney Alexander,2042,Jump Shot,2,361,118,JUMP_SHOTS,,2003
+Courtney Alexander,2042,Reverse Layup,2,8,3,LAYUPS,,2003
+Courtney Alexander,2042,Running Jump Shot,2,3,1,JUMP_SHOTS,,2003
+Courtney Alexander,2042,Standard Dunk,2,9,9,DUNKS,,2003
+Courtney Alexander,2042,Standard Layup,2,87,37,LAYUPS,,2003
+Courtney Alexander,2042,Tip Shot,2,6,1,TIP_SHOTS,,2003
+Courtney Alexander,2042,Turnaround Jump Shot,2,9,9,JUMP_SHOTS,,2003

@@ -1,42 +1,40 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Vernon Maxwell,137,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,1997
-Vernon Maxwell,137,Driving Layup,2,72,62,Driving Layup Shot,LAYUPS,,1997
-Vernon Maxwell,137,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,1997
-Vernon Maxwell,137,Jump Shot,2,451,129,Jump Shot,JUMP_SHOTS,,1997
-Vernon Maxwell,137,Jump Shot,3,189,65,Jump Shot,JUMP_SHOTS,,1997
-Vernon Maxwell,137,Standard Layup,2,168,71,Layup Shot,LAYUPS,,1997
-Vernon Maxwell,137,Running Jump Shot,2,20,8,Running Jump Shot,JUMP_SHOTS,,1997
-Vernon Maxwell,137,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,1997
-Vernon Maxwell,137,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,1997
-Vernon Maxwell,137,Driving Layup,2,31,24,Driving Layup Shot,LAYUPS,,1998
-Vernon Maxwell,137,Jump Shot,2,143,42,Jump Shot,JUMP_SHOTS,,1998
-Vernon Maxwell,137,Jump Shot,3,39,13,Jump Shot,JUMP_SHOTS,,1998
-Vernon Maxwell,137,Standard Layup,2,33,19,Layup Shot,LAYUPS,,1998
-Vernon Maxwell,137,Running Jump Shot,2,10,4,Running Jump Shot,JUMP_SHOTS,,1998
-Vernon Maxwell,137,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,1998
-Vernon Maxwell,137,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,1998
-Vernon Maxwell,137,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,1999
-Vernon Maxwell,137,Driving Layup,2,67,39,Driving Layup Shot,LAYUPS,,1999
-Vernon Maxwell,137,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,1999
-Vernon Maxwell,137,Jump Shot,2,229,72,Jump Shot,JUMP_SHOTS,,1999
-Vernon Maxwell,137,Jump Shot,3,77,28,Jump Shot,JUMP_SHOTS,,1999
-Vernon Maxwell,137,Standard Layup,2,33,14,Layup Shot,LAYUPS,,1999
-Vernon Maxwell,137,Running Jump Shot,2,11,8,Running Jump Shot,JUMP_SHOTS,,1999
-Vernon Maxwell,137,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,1999
-Vernon Maxwell,137,Driving Layup,2,44,32,Driving Layup Shot,LAYUPS,,2000
-Vernon Maxwell,137,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2000
-Vernon Maxwell,137,Jump Shot,2,171,41,Jump Shot,JUMP_SHOTS,,2000
-Vernon Maxwell,137,Jump Shot,3,212,64,Jump Shot,JUMP_SHOTS,,2000
-Vernon Maxwell,137,Standard Layup,2,31,10,Layup Shot,LAYUPS,,2000
-Vernon Maxwell,137,Running Jump Shot,2,29,21,Running Jump Shot,JUMP_SHOTS,,2000
-Vernon Maxwell,137,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2000
-Vernon Maxwell,137,Driving Layup,2,14,13,Driving Layup Shot,LAYUPS,,2001
-Vernon Maxwell,137,Finger Roll,2,2,2,Finger Roll Shot,LAYUPS,,2001
-Vernon Maxwell,137,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2001
-Vernon Maxwell,137,Jump Shot,2,71,16,Jump Shot,JUMP_SHOTS,,2001
-Vernon Maxwell,137,Jump Shot,3,111,34,Jump Shot,JUMP_SHOTS,,2001
-Vernon Maxwell,137,Standard Layup,2,16,2,Layup Shot,LAYUPS,,2001
-Vernon Maxwell,137,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2001
-Vernon Maxwell,137,Finger Roll,2,1,1,Running Finger Roll Shot,LAYUPS,,2001
-Vernon Maxwell,137,Running Jump Shot,2,5,4,Running Jump Shot,JUMP_SHOTS,,2001
-Vernon Maxwell,137,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Vernon Maxwell,137,Driving Dunk,2,2,2,DUNKS,,1997
+Vernon Maxwell,137,Driving Layup,2,72,62,LAYUPS,,1997
+Vernon Maxwell,137,Hook Shot,2,1,0,POST_MOVES,,1997
+Vernon Maxwell,137,Jump Shot,2,451,129,JUMP_SHOTS,,1997
+Vernon Maxwell,137,Jump Shot,3,189,65,JUMP_SHOTS,,1997
+Vernon Maxwell,137,Running Jump Shot,2,20,8,JUMP_SHOTS,,1997
+Vernon Maxwell,137,Standard Dunk,2,2,2,DUNKS,,1997
+Vernon Maxwell,137,Standard Layup,2,168,71,LAYUPS,,1997
+Vernon Maxwell,137,Tip Shot,2,1,1,TIP_SHOTS,,1997
+Vernon Maxwell,137,Driving Layup,2,31,24,LAYUPS,,1998
+Vernon Maxwell,137,Jump Shot,2,143,42,JUMP_SHOTS,,1998
+Vernon Maxwell,137,Jump Shot,3,39,13,JUMP_SHOTS,,1998
+Vernon Maxwell,137,Running Jump Shot,2,10,4,JUMP_SHOTS,,1998
+Vernon Maxwell,137,Standard Dunk,2,1,1,DUNKS,,1998
+Vernon Maxwell,137,Standard Layup,2,33,19,LAYUPS,,1998
+Vernon Maxwell,137,Tip Shot,2,1,0,TIP_SHOTS,,1998
+Vernon Maxwell,137,Driving Dunk,2,1,1,DUNKS,,1999
+Vernon Maxwell,137,Driving Layup,2,67,39,LAYUPS,,1999
+Vernon Maxwell,137,Jump Shot,2,229,72,JUMP_SHOTS,,1999
+Vernon Maxwell,137,Jump Shot,3,77,28,JUMP_SHOTS,,1999
+Vernon Maxwell,137,Running Jump Shot,2,11,8,JUMP_SHOTS,,1999
+Vernon Maxwell,137,Standard Dunk,2,1,1,DUNKS,,1999
+Vernon Maxwell,137,Standard Layup,2,33,14,LAYUPS,,1999
+Vernon Maxwell,137,Tip Shot,2,2,1,TIP_SHOTS,,1999
+Vernon Maxwell,137,Driving Layup,2,44,32,LAYUPS,,2000
+Vernon Maxwell,137,Hook Shot,2,2,1,POST_MOVES,,2000
+Vernon Maxwell,137,Jump Shot,2,171,41,JUMP_SHOTS,,2000
+Vernon Maxwell,137,Jump Shot,3,212,64,JUMP_SHOTS,,2000
+Vernon Maxwell,137,Running Jump Shot,2,29,21,JUMP_SHOTS,,2000
+Vernon Maxwell,137,Standard Layup,2,31,10,LAYUPS,,2000
+Vernon Maxwell,137,Tip Shot,2,1,0,TIP_SHOTS,,2000
+Vernon Maxwell,137,Driving Layup,2,14,13,LAYUPS,,2001
+Vernon Maxwell,137,Finger Roll,2,3,3,LAYUPS,,2001
+Vernon Maxwell,137,Hook Shot,2,1,0,POST_MOVES,,2001
+Vernon Maxwell,137,Jump Shot,2,71,16,JUMP_SHOTS,,2001
+Vernon Maxwell,137,Jump Shot,3,111,34,JUMP_SHOTS,,2001
+Vernon Maxwell,137,Reverse Layup,2,1,1,LAYUPS,,2001
+Vernon Maxwell,137,Running Jump Shot,2,5,4,JUMP_SHOTS,,2001
+Vernon Maxwell,137,Standard Layup,2,17,2,LAYUPS,,2001

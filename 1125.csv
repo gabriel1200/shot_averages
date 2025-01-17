@@ -1,11 +1,10 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Larry Stewart,1125,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,1997
-Larry Stewart,1125,Driving Layup,2,15,11,Driving Layup Shot,LAYUPS,,1997
-Larry Stewart,1125,Standard Dunk,2,9,8,Dunk Shot,DUNKS,,1997
-Larry Stewart,1125,Hook Shot,2,3,0,Hook Shot,POST_MOVES,,1997
-Larry Stewart,1125,Jump Shot,2,56,17,Jump Shot,JUMP_SHOTS,,1997
-Larry Stewart,1125,Jump Shot,3,37,9,Jump Shot,JUMP_SHOTS,,1997
-Larry Stewart,1125,Standard Layup,2,111,50,Layup Shot,LAYUPS,,1997
-Larry Stewart,1125,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,1997
-Larry Stewart,1125,Standard Dunk,2,14,14,Slam Dunk Shot,DUNKS,,1997
-Larry Stewart,1125,Tip Shot,2,4,0,Tip Shot,TIP_SHOTS,,1997
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Larry Stewart,1125,Driving Dunk,2,1,1,DUNKS,,1997
+Larry Stewart,1125,Driving Layup,2,15,11,LAYUPS,,1997
+Larry Stewart,1125,Hook Shot,2,3,0,POST_MOVES,,1997
+Larry Stewart,1125,Jump Shot,2,56,17,JUMP_SHOTS,,1997
+Larry Stewart,1125,Jump Shot,3,37,9,JUMP_SHOTS,,1997
+Larry Stewart,1125,Running Jump Shot,2,2,2,JUMP_SHOTS,,1997
+Larry Stewart,1125,Standard Dunk,2,23,22,DUNKS,,1997
+Larry Stewart,1125,Standard Layup,2,111,50,LAYUPS,,1997
+Larry Stewart,1125,Tip Shot,2,4,0,TIP_SHOTS,,1997

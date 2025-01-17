@@ -1,14 +1,11 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Drew Peterson,1641809,Jump Shot,3,4,3,Jump Shot,JUMP_SHOTS,,2024
-Drew Peterson,1641809,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2024
-Drew Peterson,1641809,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2024
-Drew Peterson,1641809,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2025
-Drew Peterson,1641809,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2025
-Drew Peterson,1641809,Jump Shot,3,11,4,Jump Shot,JUMP_SHOTS,,2025
-Drew Peterson,1641809,Standard Layup,2,1,1,Layup Shot,LAYUPS,,2025
-Drew Peterson,1641809,Pullup Jump Shot,3,1,1,Pullup Jump shot,JUMP_SHOTS,,2025
-Drew Peterson,1641809,Running Jump Shot,3,2,0,Running Jump Shot,JUMP_SHOTS,,2025
-Drew Peterson,1641809,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2025
-Drew Peterson,1641809,Running Jump Shot,3,2,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025
-Drew Peterson,1641809,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2025
-Drew Peterson,1641809,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Drew Peterson,1641809,Jump Shot,3,4,3,JUMP_SHOTS,,2024
+Drew Peterson,1641809,Running Jump Shot,3,1,0,JUMP_SHOTS,,2024
+Drew Peterson,1641809,Standard Dunk,2,1,1,DUNKS,,2024
+Drew Peterson,1641809,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2025
+Drew Peterson,1641809,Jump Shot,3,11,4,JUMP_SHOTS,,2025
+Drew Peterson,1641809,Pullup Jump Shot,3,1,1,JUMP_SHOTS,,2025
+Drew Peterson,1641809,Running Jump Shot,3,4,2,JUMP_SHOTS,,2025
+Drew Peterson,1641809,Standard Layup,2,3,2,LAYUPS,,2025
+Drew Peterson,1641809,Step Back Jump Shot,2,1,1,JUMP_SHOTS,,2025
+Drew Peterson,1641809,Step Back Jump Shot,3,1,0,JUMP_SHOTS,,2025

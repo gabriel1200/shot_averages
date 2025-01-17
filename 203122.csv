@@ -1,8 +1,7 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Kevin Murphy,203122,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2013
-Kevin Murphy,203122,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2013
-Kevin Murphy,203122,Jump Shot,2,21,3,Jump Shot,JUMP_SHOTS,,2013
-Kevin Murphy,203122,Standard Layup,2,1,1,Layup Shot,LAYUPS,,2013
-Kevin Murphy,203122,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2013
-Kevin Murphy,203122,Step Back Jump Shot,2,2,0,Step Back Jump shot,JUMP_SHOTS,,2013
-Kevin Murphy,203122,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2013
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Kevin Murphy,203122,Driving Jump Shot,2,1,1,JUMP_SHOTS,,2013
+Kevin Murphy,203122,Jump Shot,2,21,3,JUMP_SHOTS,,2013
+Kevin Murphy,203122,Standard Dunk,2,1,1,DUNKS,,2013
+Kevin Murphy,203122,Standard Layup,2,2,2,LAYUPS,,2013
+Kevin Murphy,203122,Step Back Jump Shot,2,2,0,JUMP_SHOTS,,2013
+Kevin Murphy,203122,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2013

@@ -1,44 +1,38 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Patrick O'Bryant,200753,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2007
-Patrick O'Bryant,200753,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2007
-Patrick O'Bryant,200753,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2007
-Patrick O'Bryant,200753,Hook Shot,2,2,1,Jump Hook Shot,POST_MOVES,,2007
-Patrick O'Bryant,200753,Jump Shot,2,18,5,Jump Shot,JUMP_SHOTS,,2007
-Patrick O'Bryant,200753,Standard Layup,2,2,2,Layup Shot,LAYUPS,,2007
-Patrick O'Bryant,200753,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2007
-Patrick O'Bryant,200753,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2007
-Patrick O'Bryant,200753,Turnaround Jump Shot,2,4,1,Turnaround Jump Shot,JUMP_SHOTS,,2007
-Patrick O'Bryant,200753,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2008
-Patrick O'Bryant,200753,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2008
-Patrick O'Bryant,200753,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2008
-Patrick O'Bryant,200753,Hook Shot,2,4,2,Jump Hook Shot,POST_MOVES,,2008
-Patrick O'Bryant,200753,Jump Shot,2,6,4,Jump Shot,JUMP_SHOTS,,2008
-Patrick O'Bryant,200753,Standard Layup,2,6,2,Layup Shot,LAYUPS,,2008
-Patrick O'Bryant,200753,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2008
-Patrick O'Bryant,200753,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2008
-Patrick O'Bryant,200753,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2008
-Patrick O'Bryant,200753,Turnaround Hook Shot,2,4,3,Turnaround Hook Shot,POST_MOVES,,2008
-Patrick O'Bryant,200753,Alley Oop Dunk,2,2,1,Alley Oop Dunk Shot,DUNKS,,2009
-Patrick O'Bryant,200753,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2009
-Patrick O'Bryant,200753,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2009
-Patrick O'Bryant,200753,Standard Dunk,2,10,10,Dunk Shot,DUNKS,,2009
-Patrick O'Bryant,200753,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2009
-Patrick O'Bryant,200753,Hook Shot,2,5,2,Hook Shot,POST_MOVES,,2009
-Patrick O'Bryant,200753,Hook Shot,2,2,2,Jump Hook Shot,POST_MOVES,,2009
-Patrick O'Bryant,200753,Jump Shot,2,42,17,Jump Shot,JUMP_SHOTS,,2009
-Patrick O'Bryant,200753,Standard Layup,2,3,0,Layup Shot,LAYUPS,,2009
-Patrick O'Bryant,200753,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2009
-Patrick O'Bryant,200753,Running Hook Shot,2,3,2,Running Hook Shot,POST_MOVES,,2009
-Patrick O'Bryant,200753,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2009
-Patrick O'Bryant,200753,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2009
-Patrick O'Bryant,200753,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2009
-Patrick O'Bryant,200753,Turnaround Jump Shot,2,4,3,Turnaround Fadeaway shot,JUMP_SHOTS,,2009
-Patrick O'Bryant,200753,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2009
-Patrick O'Bryant,200753,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2009
-Patrick O'Bryant,200753,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2010
-Patrick O'Bryant,200753,Hook Shot,2,2,2,Hook Shot,POST_MOVES,,2010
-Patrick O'Bryant,200753,Jump Shot,2,6,4,Jump Shot,JUMP_SHOTS,,2010
-Patrick O'Bryant,200753,Standard Layup,2,2,0,Layup Shot,LAYUPS,,2010
-Patrick O'Bryant,200753,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2010
-Patrick O'Bryant,200753,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2010
-Patrick O'Bryant,200753,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2010
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Patrick O'Bryant,200753,Driving Hook Shot,2,1,0,POST_MOVES,,2007
+Patrick O'Bryant,200753,Hook Shot,2,4,1,POST_MOVES,,2007
+Patrick O'Bryant,200753,Jump Shot,2,18,5,JUMP_SHOTS,,2007
+Patrick O'Bryant,200753,Specialty Dunk,2,1,1,DUNKS,,2007
+Patrick O'Bryant,200753,Standard Layup,2,2,2,LAYUPS,,2007
+Patrick O'Bryant,200753,Tip Shot,2,1,0,TIP_SHOTS,,2007
+Patrick O'Bryant,200753,Turnaround Hook Shot,2,1,0,POST_MOVES,,2007
+Patrick O'Bryant,200753,Turnaround Jump Shot,2,4,1,JUMP_SHOTS,,2007
+Patrick O'Bryant,200753,Alley Oop Dunk,2,1,1,DUNKS,,2008
+Patrick O'Bryant,200753,Alley Oop Layup,2,1,0,LAYUPS,,2008
+Patrick O'Bryant,200753,Hook Shot,2,5,2,POST_MOVES,,2008
+Patrick O'Bryant,200753,Jump Shot,2,6,4,JUMP_SHOTS,,2008
+Patrick O'Bryant,200753,Running Hook Shot,2,1,0,POST_MOVES,,2008
+Patrick O'Bryant,200753,Standard Dunk,2,3,3,DUNKS,,2008
+Patrick O'Bryant,200753,Standard Layup,2,6,2,LAYUPS,,2008
+Patrick O'Bryant,200753,Tip Shot,2,2,1,TIP_SHOTS,,2008
+Patrick O'Bryant,200753,Turnaround Hook Shot,2,4,3,POST_MOVES,,2008
+Patrick O'Bryant,200753,Alley Oop Dunk,2,2,1,DUNKS,,2009
+Patrick O'Bryant,200753,Driving Dunk,2,1,1,DUNKS,,2009
+Patrick O'Bryant,200753,Driving Hook Shot,2,1,1,POST_MOVES,,2009
+Patrick O'Bryant,200753,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2009
+Patrick O'Bryant,200753,Hook Shot,2,7,4,POST_MOVES,,2009
+Patrick O'Bryant,200753,Jump Shot,2,42,17,JUMP_SHOTS,,2009
+Patrick O'Bryant,200753,Putback Dunk,2,1,1,DUNKS,,2009
+Patrick O'Bryant,200753,Running Hook Shot,2,3,2,POST_MOVES,,2009
+Patrick O'Bryant,200753,Running Jump Shot,2,1,0,JUMP_SHOTS,,2009
+Patrick O'Bryant,200753,Standard Dunk,2,13,13,DUNKS,,2009
+Patrick O'Bryant,200753,Standard Layup,2,3,0,LAYUPS,,2009
+Patrick O'Bryant,200753,Tip Shot,2,1,0,TIP_SHOTS,,2009
+Patrick O'Bryant,200753,Turnaround Hook Shot,2,2,1,POST_MOVES,,2009
+Patrick O'Bryant,200753,Turnaround Jump Shot,2,6,3,JUMP_SHOTS,,2009
+Patrick O'Bryant,200753,Hook Shot,2,2,2,POST_MOVES,,2010
+Patrick O'Bryant,200753,Jump Shot,2,6,4,JUMP_SHOTS,,2010
+Patrick O'Bryant,200753,Standard Dunk,2,1,1,DUNKS,,2010
+Patrick O'Bryant,200753,Standard Layup,2,2,0,LAYUPS,,2010
+Patrick O'Bryant,200753,Tip Shot,2,1,1,TIP_SHOTS,,2010
+Patrick O'Bryant,200753,Turnaround Jump Shot,2,3,0,JUMP_SHOTS,,2010

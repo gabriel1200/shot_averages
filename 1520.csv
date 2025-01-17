@@ -1,46 +1,41 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Charles Smith,1520,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,1998
-Charles Smith,1520,Driving Layup,2,5,3,Driving Layup Shot,LAYUPS,,1998
-Charles Smith,1520,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,1998
-Charles Smith,1520,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,1998
-Charles Smith,1520,Jump Shot,2,93,32,Jump Shot,JUMP_SHOTS,,1998
-Charles Smith,1520,Jump Shot,3,5,1,Jump Shot,JUMP_SHOTS,,1998
-Charles Smith,1520,Standard Layup,2,10,5,Layup Shot,LAYUPS,,1998
-Charles Smith,1520,Running Jump Shot,2,4,3,Running Jump Shot,JUMP_SHOTS,,1998
-Charles Smith,1520,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,1998
-Charles Smith,1520,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,1998
-Charles Smith,1520,Driving Layup,2,7,5,Driving Layup Shot,LAYUPS,,1999
-Charles Smith,1520,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,1999
-Charles Smith,1520,Jump Shot,2,67,21,Jump Shot,JUMP_SHOTS,,1999
-Charles Smith,1520,Jump Shot,3,6,1,Jump Shot,JUMP_SHOTS,,1999
-Charles Smith,1520,Standard Layup,2,11,5,Layup Shot,LAYUPS,,1999
-Charles Smith,1520,Running Jump Shot,2,3,0,Running Jump Shot,JUMP_SHOTS,,1999
-Charles Smith,1520,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,1999
-Charles Smith,1520,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,1999
-Charles Smith,1520,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2002
-Charles Smith,1520,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2002
-Charles Smith,1520,Driving Layup,2,25,19,Driving Layup Shot,LAYUPS,,2002
-Charles Smith,1520,Standard Dunk,2,16,15,Dunk Shot,DUNKS,,2002
-Charles Smith,1520,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2002
-Charles Smith,1520,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2002
-Charles Smith,1520,Specialty Dunk,2,2,2,Follow Up Dunk Shot,DUNKS,,2002
-Charles Smith,1520,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2002
-Charles Smith,1520,Jump Shot,2,250,73,Jump Shot,JUMP_SHOTS,,2002
-Charles Smith,1520,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2002
-Charles Smith,1520,Standard Layup,2,84,39,Layup Shot,LAYUPS,,2002
-Charles Smith,1520,Reverse Layup,2,8,4,Reverse Layup Shot,LAYUPS,,2002
-Charles Smith,1520,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2002
-Charles Smith,1520,Running Jump Shot,2,14,10,Running Jump Shot,JUMP_SHOTS,,2002
-Charles Smith,1520,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2002
-Charles Smith,1520,Standard Dunk,2,8,8,Slam Dunk Shot,DUNKS,,2002
-Charles Smith,1520,Tip Shot,2,7,2,Tip Shot,TIP_SHOTS,,2002
-Charles Smith,1520,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2002
-Charles Smith,1520,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2003
-Charles Smith,1520,Jump Shot,2,3,0,Jump Shot,JUMP_SHOTS,,2003
-Charles Smith,1520,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2006
-Charles Smith,1520,Driving Layup,2,3,1,Driving Layup Shot,LAYUPS,,2006
-Charles Smith,1520,Jump Shot,2,37,14,Jump Shot,JUMP_SHOTS,,2006
-Charles Smith,1520,Jump Shot,3,18,9,Jump Shot,JUMP_SHOTS,,2006
-Charles Smith,1520,Standard Layup,2,9,5,Layup Shot,LAYUPS,,2006
-Charles Smith,1520,Running Jump Shot,2,3,0,Running Jump Shot,JUMP_SHOTS,,2006
-Charles Smith,1520,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2006
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Charles Smith,1520,Driving Dunk,2,2,2,DUNKS,,1998
+Charles Smith,1520,Driving Layup,2,5,3,LAYUPS,,1998
+Charles Smith,1520,Hook Shot,2,1,0,POST_MOVES,,1998
+Charles Smith,1520,Jump Shot,2,93,32,JUMP_SHOTS,,1998
+Charles Smith,1520,Jump Shot,3,5,1,JUMP_SHOTS,,1998
+Charles Smith,1520,Running Jump Shot,2,4,3,JUMP_SHOTS,,1998
+Charles Smith,1520,Standard Dunk,2,4,3,DUNKS,,1998
+Charles Smith,1520,Standard Layup,2,10,5,LAYUPS,,1998
+Charles Smith,1520,Tip Shot,2,1,0,TIP_SHOTS,,1998
+Charles Smith,1520,Driving Layup,2,7,5,LAYUPS,,1999
+Charles Smith,1520,Jump Shot,2,67,21,JUMP_SHOTS,,1999
+Charles Smith,1520,Jump Shot,3,6,1,JUMP_SHOTS,,1999
+Charles Smith,1520,Running Jump Shot,2,3,0,JUMP_SHOTS,,1999
+Charles Smith,1520,Standard Dunk,2,2,2,DUNKS,,1999
+Charles Smith,1520,Standard Layup,2,11,5,LAYUPS,,1999
+Charles Smith,1520,Tip Shot,2,1,1,TIP_SHOTS,,1999
+Charles Smith,1520,Alley Oop Dunk,2,1,1,DUNKS,,2002
+Charles Smith,1520,Driving Dunk,2,4,4,DUNKS,,2002
+Charles Smith,1520,Driving Layup,2,25,19,LAYUPS,,2002
+Charles Smith,1520,Fadeaway Jump Shot,2,2,1,JUMP_SHOTS,,2002
+Charles Smith,1520,Finger Roll,2,1,1,LAYUPS,,2002
+Charles Smith,1520,Hook Shot,2,1,1,POST_MOVES,,2002
+Charles Smith,1520,Jump Shot,2,250,73,JUMP_SHOTS,,2002
+Charles Smith,1520,Jump Shot,3,1,0,JUMP_SHOTS,,2002
+Charles Smith,1520,Reverse Layup,2,8,4,LAYUPS,,2002
+Charles Smith,1520,Running Jump Shot,2,14,10,JUMP_SHOTS,,2002
+Charles Smith,1520,Specialty Dunk,2,2,2,DUNKS,,2002
+Charles Smith,1520,Standard Dunk,2,25,24,DUNKS,,2002
+Charles Smith,1520,Standard Layup,2,86,40,LAYUPS,,2002
+Charles Smith,1520,Tip Shot,2,7,2,TIP_SHOTS,,2002
+Charles Smith,1520,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2002
+Charles Smith,1520,Driving Layup,2,1,1,LAYUPS,,2003
+Charles Smith,1520,Jump Shot,2,3,0,JUMP_SHOTS,,2003
+Charles Smith,1520,Driving Dunk,2,1,1,DUNKS,,2006
+Charles Smith,1520,Driving Layup,2,3,1,LAYUPS,,2006
+Charles Smith,1520,Jump Shot,2,37,14,JUMP_SHOTS,,2006
+Charles Smith,1520,Jump Shot,3,18,9,JUMP_SHOTS,,2006
+Charles Smith,1520,Running Jump Shot,2,3,0,JUMP_SHOTS,,2006
+Charles Smith,1520,Standard Layup,2,9,5,LAYUPS,,2006
+Charles Smith,1520,Tip Shot,2,1,0,TIP_SHOTS,,2006

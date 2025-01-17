@@ -1,46 +1,33 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Reggie Perry,1629617,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2021
-Reggie Perry,1629617,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2021
-Reggie Perry,1629617,Standard Layup,2,9,3,Cutting Layup Shot,LAYUPS,,2021
-Reggie Perry,1629617,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2021
-Reggie Perry,1629617,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
-Reggie Perry,1629617,Driving Hook Shot,2,2,0,Driving Hook Shot,POST_MOVES,,2021
-Reggie Perry,1629617,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2021
-Reggie Perry,1629617,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2021
-Reggie Perry,1629617,Jump Shot,2,22,3,Jump Shot,JUMP_SHOTS,,2021
-Reggie Perry,1629617,Standard Layup,2,7,3,Layup Shot,LAYUPS,,2021
-Reggie Perry,1629617,Pullup Jump Shot,2,2,0,Pullup Jump shot,JUMP_SHOTS,,2021
-Reggie Perry,1629617,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2021
-Reggie Perry,1629617,Putback Layup,2,13,7,Putback Layup Shot,LAYUPS,,2021
-Reggie Perry,1629617,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2021
-Reggie Perry,1629617,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2021
-Reggie Perry,1629617,Standard Layup,2,3,3,Running Layup Shot,LAYUPS,,2021
-Reggie Perry,1629617,Putback Layup,2,2,1,Tip Layup Shot,LAYUPS,,2021
-Reggie Perry,1629617,Turnaround Hook Shot,2,5,1,Turnaround Hook Shot,POST_MOVES,,2021
-Reggie Perry,1629617,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2022
-Reggie Perry,1629617,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2022
-Reggie Perry,1629617,Finger Roll,2,2,2,Cutting Finger Roll Layup Shot,LAYUPS,,2022
-Reggie Perry,1629617,Standard Layup,2,2,2,Cutting Layup Shot,LAYUPS,,2022
-Reggie Perry,1629617,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2022
-Reggie Perry,1629617,Floating Jump Shot,2,2,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
-Reggie Perry,1629617,Driving Hook Shot,2,4,2,Driving Hook Shot,POST_MOVES,,2022
-Reggie Perry,1629617,Driving Layup,2,5,3,Driving Layup Shot,LAYUPS,,2022
-Reggie Perry,1629617,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2022
-Reggie Perry,1629617,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2022
-Reggie Perry,1629617,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2022
-Reggie Perry,1629617,Floating Jump Shot,2,4,1,Floating Jump shot,FLOATING_SHOTS,,2022
-Reggie Perry,1629617,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2022
-Reggie Perry,1629617,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2022
-Reggie Perry,1629617,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2022
-Reggie Perry,1629617,Jump Shot,3,1,0,Jump Bank Shot,JUMP_SHOTS,,2022
-Reggie Perry,1629617,Jump Shot,2,16,5,Jump Shot,JUMP_SHOTS,,2022
-Reggie Perry,1629617,Jump Shot,3,4,0,Jump Shot,JUMP_SHOTS,,2022
-Reggie Perry,1629617,Standard Layup,2,5,3,Layup Shot,LAYUPS,,2022
-Reggie Perry,1629617,Pullup Jump Shot,2,5,3,Pullup Jump shot,JUMP_SHOTS,,2022
-Reggie Perry,1629617,Putback Layup,2,5,4,Putback Layup Shot,LAYUPS,,2022
-Reggie Perry,1629617,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2022
-Reggie Perry,1629617,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2022
-Reggie Perry,1629617,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2022
-Reggie Perry,1629617,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2022
-Reggie Perry,1629617,Specialty Dunk,2,1,0,Tip Dunk Shot,DUNKS,,2022
-Reggie Perry,1629617,Turnaround Hook Shot,2,5,3,Turnaround Hook Shot,POST_MOVES,,2022
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Reggie Perry,1629617,Alley Oop Dunk,2,1,1,DUNKS,,2021
+Reggie Perry,1629617,Driving Dunk,2,1,1,DUNKS,,2021
+Reggie Perry,1629617,Driving Hook Shot,2,2,0,POST_MOVES,,2021
+Reggie Perry,1629617,Driving Layup,2,1,1,LAYUPS,,2021
+Reggie Perry,1629617,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2021
+Reggie Perry,1629617,Jump Shot,2,22,3,JUMP_SHOTS,,2021
+Reggie Perry,1629617,Pullup Jump Shot,2,2,0,JUMP_SHOTS,,2021
+Reggie Perry,1629617,Putback Dunk,2,1,1,DUNKS,,2021
+Reggie Perry,1629617,Putback Layup,2,15,8,LAYUPS,,2021
+Reggie Perry,1629617,Reverse Layup,2,3,2,LAYUPS,,2021
+Reggie Perry,1629617,Running Jump Shot,2,1,1,JUMP_SHOTS,,2021
+Reggie Perry,1629617,Specialty Dunk,2,2,2,DUNKS,,2021
+Reggie Perry,1629617,Standard Dunk,2,2,2,DUNKS,,2021
+Reggie Perry,1629617,Standard Layup,2,19,9,LAYUPS,,2021
+Reggie Perry,1629617,Turnaround Hook Shot,2,5,1,POST_MOVES,,2021
+Reggie Perry,1629617,Alley Oop Layup,2,2,1,LAYUPS,,2022
+Reggie Perry,1629617,Driving Dunk,2,1,1,DUNKS,,2022
+Reggie Perry,1629617,Driving Hook Shot,2,4,2,POST_MOVES,,2022
+Reggie Perry,1629617,Driving Layup,2,6,3,LAYUPS,,2022
+Reggie Perry,1629617,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2022
+Reggie Perry,1629617,Finger Roll,2,3,3,LAYUPS,,2022
+Reggie Perry,1629617,Floating Jump Shot,2,6,1,FLOATING_SHOTS,,2022
+Reggie Perry,1629617,Hook Shot,2,3,0,POST_MOVES,,2022
+Reggie Perry,1629617,Jump Shot,2,17,6,JUMP_SHOTS,,2022
+Reggie Perry,1629617,Jump Shot,3,5,0,JUMP_SHOTS,,2022
+Reggie Perry,1629617,Pullup Jump Shot,2,5,3,JUMP_SHOTS,,2022
+Reggie Perry,1629617,Putback Layup,2,5,4,LAYUPS,,2022
+Reggie Perry,1629617,Reverse Layup,2,1,1,LAYUPS,,2022
+Reggie Perry,1629617,Specialty Dunk,2,3,2,DUNKS,,2022
+Reggie Perry,1629617,Standard Dunk,2,3,3,DUNKS,,2022
+Reggie Perry,1629617,Standard Layup,2,9,7,LAYUPS,,2022
+Reggie Perry,1629617,Turnaround Hook Shot,2,5,3,POST_MOVES,,2022

@@ -1,49 +1,45 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Mark Bryant,95,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,1997
-Mark Bryant,95,Driving Layup,2,7,7,Driving Layup Shot,LAYUPS,,1997
-Mark Bryant,95,Standard Dunk,2,8,7,Dunk Shot,DUNKS,,1997
-Mark Bryant,95,Hook Shot,2,65,37,Hook Shot,POST_MOVES,,1997
-Mark Bryant,95,Jump Shot,2,107,56,Jump Shot,JUMP_SHOTS,,1997
-Mark Bryant,95,Standard Layup,2,72,35,Layup Shot,LAYUPS,,1997
-Mark Bryant,95,Running Jump Shot,2,5,3,Running Jump Shot,JUMP_SHOTS,,1997
-Mark Bryant,95,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,1997
-Mark Bryant,95,Tip Shot,2,7,3,Tip Shot,TIP_SHOTS,,1997
-Mark Bryant,95,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,1998
-Mark Bryant,95,Standard Dunk,2,13,11,Dunk Shot,DUNKS,,1998
-Mark Bryant,95,Hook Shot,2,42,21,Hook Shot,POST_MOVES,,1998
-Mark Bryant,95,Jump Shot,2,97,35,Jump Shot,JUMP_SHOTS,,1998
-Mark Bryant,95,Standard Layup,2,63,35,Layup Shot,LAYUPS,,1998
-Mark Bryant,95,Running Jump Shot,2,3,2,Running Jump Shot,JUMP_SHOTS,,1998
-Mark Bryant,95,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,1998
-Mark Bryant,95,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,,1998
-Mark Bryant,95,Driving Layup,2,5,5,Driving Layup Shot,LAYUPS,,1999
-Mark Bryant,95,Standard Dunk,2,5,5,Dunk Shot,DUNKS,,1999
-Mark Bryant,95,Hook Shot,2,27,22,Hook Shot,POST_MOVES,,1999
-Mark Bryant,95,Jump Shot,2,230,90,Jump Shot,JUMP_SHOTS,,1999
-Mark Bryant,95,Standard Layup,2,74,44,Layup Shot,LAYUPS,,1999
-Mark Bryant,95,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,1999
-Mark Bryant,95,Tip Shot,2,6,1,Tip Shot,TIP_SHOTS,,1999
-Mark Bryant,95,Driving Layup,2,9,8,Driving Layup Shot,LAYUPS,,2000
-Mark Bryant,95,Standard Dunk,2,8,8,Dunk Shot,DUNKS,,2000
-Mark Bryant,95,Hook Shot,2,47,26,Hook Shot,POST_MOVES,,2000
-Mark Bryant,95,Jump Shot,2,197,75,Jump Shot,JUMP_SHOTS,,2000
-Mark Bryant,95,Standard Layup,2,69,45,Layup Shot,LAYUPS,,2000
-Mark Bryant,95,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2000
-Mark Bryant,95,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,2000
-Mark Bryant,95,Tip Shot,2,9,7,Tip Shot,TIP_SHOTS,,2000
-Mark Bryant,95,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2001
-Mark Bryant,95,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2001
-Mark Bryant,95,Jump Shot,2,14,6,Jump Shot,JUMP_SHOTS,,2001
-Mark Bryant,95,Standard Layup,2,1,1,Layup Shot,LAYUPS,,2001
-Mark Bryant,95,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2001
-Mark Bryant,95,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2001
-Mark Bryant,95,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2002
-Mark Bryant,95,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2002
-Mark Bryant,95,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2002
-Mark Bryant,95,Jump Shot,2,32,11,Jump Shot,JUMP_SHOTS,,2002
-Mark Bryant,95,Standard Layup,2,15,7,Layup Shot,LAYUPS,,2002
-Mark Bryant,95,Turnaround Jump Shot,2,3,2,Turnaround Jump Shot,JUMP_SHOTS,,2002
-Mark Bryant,95,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2003
-Mark Bryant,95,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2003
-Mark Bryant,95,Jump Shot,2,16,3,Jump Shot,JUMP_SHOTS,,2003
-Mark Bryant,95,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2003
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Mark Bryant,95,Driving Dunk,2,1,1,DUNKS,,1997
+Mark Bryant,95,Driving Layup,2,7,7,LAYUPS,,1997
+Mark Bryant,95,Hook Shot,2,65,37,POST_MOVES,,1997
+Mark Bryant,95,Jump Shot,2,107,56,JUMP_SHOTS,,1997
+Mark Bryant,95,Running Jump Shot,2,5,3,JUMP_SHOTS,,1997
+Mark Bryant,95,Standard Dunk,2,11,10,DUNKS,,1997
+Mark Bryant,95,Standard Layup,2,72,35,LAYUPS,,1997
+Mark Bryant,95,Tip Shot,2,7,3,TIP_SHOTS,,1997
+Mark Bryant,95,Driving Layup,2,1,1,LAYUPS,,1998
+Mark Bryant,95,Hook Shot,2,42,21,POST_MOVES,,1998
+Mark Bryant,95,Jump Shot,2,97,35,JUMP_SHOTS,,1998
+Mark Bryant,95,Running Jump Shot,2,3,2,JUMP_SHOTS,,1998
+Mark Bryant,95,Standard Dunk,2,16,14,DUNKS,,1998
+Mark Bryant,95,Standard Layup,2,63,35,LAYUPS,,1998
+Mark Bryant,95,Tip Shot,2,3,1,TIP_SHOTS,,1998
+Mark Bryant,95,Driving Layup,2,5,5,LAYUPS,,1999
+Mark Bryant,95,Hook Shot,2,27,22,POST_MOVES,,1999
+Mark Bryant,95,Jump Shot,2,230,90,JUMP_SHOTS,,1999
+Mark Bryant,95,Running Jump Shot,2,1,1,JUMP_SHOTS,,1999
+Mark Bryant,95,Standard Dunk,2,5,5,DUNKS,,1999
+Mark Bryant,95,Standard Layup,2,74,44,LAYUPS,,1999
+Mark Bryant,95,Tip Shot,2,6,1,TIP_SHOTS,,1999
+Mark Bryant,95,Driving Layup,2,9,8,LAYUPS,,2000
+Mark Bryant,95,Hook Shot,2,47,26,POST_MOVES,,2000
+Mark Bryant,95,Jump Shot,2,197,75,JUMP_SHOTS,,2000
+Mark Bryant,95,Running Jump Shot,2,2,0,JUMP_SHOTS,,2000
+Mark Bryant,95,Standard Dunk,2,13,13,DUNKS,,2000
+Mark Bryant,95,Standard Layup,2,69,45,LAYUPS,,2000
+Mark Bryant,95,Tip Shot,2,9,7,TIP_SHOTS,,2000
+Mark Bryant,95,Driving Layup,2,1,0,LAYUPS,,2001
+Mark Bryant,95,Hook Shot,2,2,0,POST_MOVES,,2001
+Mark Bryant,95,Jump Shot,2,14,6,JUMP_SHOTS,,2001
+Mark Bryant,95,Standard Dunk,2,1,1,DUNKS,,2001
+Mark Bryant,95,Standard Layup,2,1,1,LAYUPS,,2001
+Mark Bryant,95,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2001
+Mark Bryant,95,Hook Shot,2,2,2,POST_MOVES,,2002
+Mark Bryant,95,Jump Shot,2,32,11,JUMP_SHOTS,,2002
+Mark Bryant,95,Standard Dunk,2,3,3,DUNKS,,2002
+Mark Bryant,95,Standard Layup,2,15,7,LAYUPS,,2002
+Mark Bryant,95,Turnaround Jump Shot,2,3,2,JUMP_SHOTS,,2002
+Mark Bryant,95,Hook Shot,2,1,1,POST_MOVES,,2003
+Mark Bryant,95,Jump Shot,2,16,3,JUMP_SHOTS,,2003
+Mark Bryant,95,Standard Dunk,2,1,1,DUNKS,,2003
+Mark Bryant,95,Standard Layup,2,1,0,LAYUPS,,2003

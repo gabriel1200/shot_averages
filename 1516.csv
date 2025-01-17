@@ -1,15 +1,14 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Ed Gray,1516,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,1998
-Ed Gray,1516,Driving Layup,2,20,13,Driving Layup Shot,LAYUPS,,1998
-Ed Gray,1516,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,1998
-Ed Gray,1516,Jump Shot,2,116,35,Jump Shot,JUMP_SHOTS,,1998
-Ed Gray,1516,Jump Shot,3,29,9,Jump Shot,JUMP_SHOTS,,1998
-Ed Gray,1516,Standard Layup,2,25,10,Layup Shot,LAYUPS,,1998
-Ed Gray,1516,Running Jump Shot,2,7,5,Running Jump Shot,JUMP_SHOTS,,1998
-Ed Gray,1516,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,1998
-Ed Gray,1516,Driving Layup,2,20,11,Driving Layup Shot,LAYUPS,,1999
-Ed Gray,1516,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,1999
-Ed Gray,1516,Jump Shot,2,101,18,Jump Shot,JUMP_SHOTS,,1999
-Ed Gray,1516,Jump Shot,3,26,7,Jump Shot,JUMP_SHOTS,,1999
-Ed Gray,1516,Standard Layup,2,26,12,Layup Shot,LAYUPS,,1999
-Ed Gray,1516,Running Jump Shot,2,7,3,Running Jump Shot,JUMP_SHOTS,,1999
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Ed Gray,1516,Driving Dunk,2,1,1,DUNKS,,1998
+Ed Gray,1516,Driving Layup,2,20,13,LAYUPS,,1998
+Ed Gray,1516,Jump Shot,2,116,35,JUMP_SHOTS,,1998
+Ed Gray,1516,Jump Shot,3,29,9,JUMP_SHOTS,,1998
+Ed Gray,1516,Running Jump Shot,2,7,5,JUMP_SHOTS,,1998
+Ed Gray,1516,Standard Dunk,2,4,4,DUNKS,,1998
+Ed Gray,1516,Standard Layup,2,25,10,LAYUPS,,1998
+Ed Gray,1516,Driving Layup,2,20,11,LAYUPS,,1999
+Ed Gray,1516,Jump Shot,2,101,18,JUMP_SHOTS,,1999
+Ed Gray,1516,Jump Shot,3,26,7,JUMP_SHOTS,,1999
+Ed Gray,1516,Running Jump Shot,2,7,3,JUMP_SHOTS,,1999
+Ed Gray,1516,Standard Dunk,2,2,2,DUNKS,,1999
+Ed Gray,1516,Standard Layup,2,26,12,LAYUPS,,1999

@@ -1,40 +1,37 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Jim McIlvaine,29,Driving Layup,2,5,2,Driving Layup Shot,LAYUPS,,1997
-Jim McIlvaine,29,Standard Dunk,2,12,8,Dunk Shot,DUNKS,,1997
-Jim McIlvaine,29,Hook Shot,2,16,8,Hook Shot,POST_MOVES,,1997
-Jim McIlvaine,29,Jump Shot,2,102,32,Jump Shot,JUMP_SHOTS,,1997
-Jim McIlvaine,29,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,1997
-Jim McIlvaine,29,Standard Layup,2,79,36,Layup Shot,LAYUPS,,1997
-Jim McIlvaine,29,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,1997
-Jim McIlvaine,29,Standard Dunk,2,35,34,Slam Dunk Shot,DUNKS,,1997
-Jim McIlvaine,29,Tip Shot,2,24,10,Tip Shot,TIP_SHOTS,,1997
-Jim McIlvaine,29,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,1998
-Jim McIlvaine,29,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,1998
-Jim McIlvaine,29,Standard Dunk,2,7,5,Dunk Shot,DUNKS,,1998
-Jim McIlvaine,29,Hook Shot,2,17,9,Hook Shot,POST_MOVES,,1998
-Jim McIlvaine,29,Jump Shot,2,95,26,Jump Shot,JUMP_SHOTS,,1998
-Jim McIlvaine,29,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,1998
-Jim McIlvaine,29,Standard Layup,2,63,34,Layup Shot,LAYUPS,,1998
-Jim McIlvaine,29,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,1998
-Jim McIlvaine,29,Standard Dunk,2,15,15,Slam Dunk Shot,DUNKS,,1998
-Jim McIlvaine,29,Tip Shot,2,22,10,Tip Shot,TIP_SHOTS,,1998
-Jim McIlvaine,29,Driving Layup,2,2,1,Driving Layup Shot,LAYUPS,,1999
-Jim McIlvaine,29,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,1999
-Jim McIlvaine,29,Hook Shot,2,9,5,Hook Shot,POST_MOVES,,1999
-Jim McIlvaine,29,Jump Shot,2,15,6,Jump Shot,JUMP_SHOTS,,1999
-Jim McIlvaine,29,Standard Layup,2,12,5,Layup Shot,LAYUPS,,1999
-Jim McIlvaine,29,Tip Shot,2,11,3,Tip Shot,TIP_SHOTS,,1999
-Jim McIlvaine,29,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2000
-Jim McIlvaine,29,Driving Layup,2,3,1,Driving Layup Shot,LAYUPS,,2000
-Jim McIlvaine,29,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2000
-Jim McIlvaine,29,Hook Shot,2,17,7,Hook Shot,POST_MOVES,,2000
-Jim McIlvaine,29,Jump Shot,2,39,10,Jump Shot,JUMP_SHOTS,,2000
-Jim McIlvaine,29,Standard Layup,2,42,21,Layup Shot,LAYUPS,,2000
-Jim McIlvaine,29,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2000
-Jim McIlvaine,29,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,2000
-Jim McIlvaine,29,Tip Shot,2,41,14,Tip Shot,TIP_SHOTS,,2000
-Jim McIlvaine,29,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2001
-Jim McIlvaine,29,Hook Shot,2,6,3,Hook Shot,POST_MOVES,,2001
-Jim McIlvaine,29,Jump Shot,2,17,5,Jump Shot,JUMP_SHOTS,,2001
-Jim McIlvaine,29,Standard Layup,2,2,0,Layup Shot,LAYUPS,,2001
-Jim McIlvaine,29,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Jim McIlvaine,29,Driving Layup,2,5,2,LAYUPS,,1997
+Jim McIlvaine,29,Hook Shot,2,16,8,POST_MOVES,,1997
+Jim McIlvaine,29,Jump Shot,2,102,32,JUMP_SHOTS,,1997
+Jim McIlvaine,29,Jump Shot,3,1,0,JUMP_SHOTS,,1997
+Jim McIlvaine,29,Running Jump Shot,2,1,0,JUMP_SHOTS,,1997
+Jim McIlvaine,29,Standard Dunk,2,47,42,DUNKS,,1997
+Jim McIlvaine,29,Standard Layup,2,79,36,LAYUPS,,1997
+Jim McIlvaine,29,Tip Shot,2,24,10,TIP_SHOTS,,1997
+Jim McIlvaine,29,Driving Dunk,2,1,1,DUNKS,,1998
+Jim McIlvaine,29,Driving Layup,2,1,0,LAYUPS,,1998
+Jim McIlvaine,29,Hook Shot,2,17,9,POST_MOVES,,1998
+Jim McIlvaine,29,Jump Shot,2,95,26,JUMP_SHOTS,,1998
+Jim McIlvaine,29,Jump Shot,3,1,0,JUMP_SHOTS,,1998
+Jim McIlvaine,29,Running Jump Shot,2,1,1,JUMP_SHOTS,,1998
+Jim McIlvaine,29,Standard Dunk,2,22,20,DUNKS,,1998
+Jim McIlvaine,29,Standard Layup,2,63,34,LAYUPS,,1998
+Jim McIlvaine,29,Tip Shot,2,22,10,TIP_SHOTS,,1998
+Jim McIlvaine,29,Driving Layup,2,2,1,LAYUPS,,1999
+Jim McIlvaine,29,Hook Shot,2,9,5,POST_MOVES,,1999
+Jim McIlvaine,29,Jump Shot,2,15,6,JUMP_SHOTS,,1999
+Jim McIlvaine,29,Standard Dunk,2,2,2,DUNKS,,1999
+Jim McIlvaine,29,Standard Layup,2,12,5,LAYUPS,,1999
+Jim McIlvaine,29,Tip Shot,2,11,3,TIP_SHOTS,,1999
+Jim McIlvaine,29,Driving Dunk,2,2,2,DUNKS,,2000
+Jim McIlvaine,29,Driving Layup,2,3,1,LAYUPS,,2000
+Jim McIlvaine,29,Hook Shot,2,17,7,POST_MOVES,,2000
+Jim McIlvaine,29,Jump Shot,2,39,10,JUMP_SHOTS,,2000
+Jim McIlvaine,29,Running Jump Shot,2,1,0,JUMP_SHOTS,,2000
+Jim McIlvaine,29,Standard Dunk,2,9,9,DUNKS,,2000
+Jim McIlvaine,29,Standard Layup,2,42,21,LAYUPS,,2000
+Jim McIlvaine,29,Tip Shot,2,41,14,TIP_SHOTS,,2000
+Jim McIlvaine,29,Driving Layup,2,1,1,LAYUPS,,2001
+Jim McIlvaine,29,Hook Shot,2,6,3,POST_MOVES,,2001
+Jim McIlvaine,29,Jump Shot,2,17,5,JUMP_SHOTS,,2001
+Jim McIlvaine,29,Standard Layup,2,2,0,LAYUPS,,2001
+Jim McIlvaine,29,Tip Shot,2,2,1,TIP_SHOTS,,2001

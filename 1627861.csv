@@ -1,5 +1,4 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Mike Tobey,1627861,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2017
-Mike Tobey,1627861,Jump Shot,2,1,0,Jump Shot,JUMP_SHOTS,,2017
-Mike Tobey,1627861,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2017
-Mike Tobey,1627861,Putback Layup,2,1,1,Tip Layup Shot,LAYUPS,,2017
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Mike Tobey,1627861,Jump Shot,2,1,0,JUMP_SHOTS,,2017
+Mike Tobey,1627861,Putback Layup,2,2,1,LAYUPS,,2017
+Mike Tobey,1627861,Standard Dunk,2,1,0,DUNKS,,2017

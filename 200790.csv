@@ -1,10 +1,10 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Marcus Vinicius,200790,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2007
-Marcus Vinicius,200790,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2007
-Marcus Vinicius,200790,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2007
-Marcus Vinicius,200790,Jump Shot,2,9,3,Jump Shot,JUMP_SHOTS,,2007
-Marcus Vinicius,200790,Standard Layup,2,3,2,Layup Shot,LAYUPS,,2007
-Marcus Vinicius,200790,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2008
-Marcus Vinicius,200790,Jump Shot,2,15,6,Jump Shot,JUMP_SHOTS,,2008
-Marcus Vinicius,200790,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2008
-Marcus Vinicius,200790,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2008
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Marcus Vinicius,200790,Driving Layup,2,1,1,LAYUPS,,2007
+Marcus Vinicius,200790,Hook Shot,2,1,0,POST_MOVES,,2007
+Marcus Vinicius,200790,Jump Shot,2,9,3,JUMP_SHOTS,,2007
+Marcus Vinicius,200790,Standard Dunk,2,1,1,DUNKS,,2007
+Marcus Vinicius,200790,Standard Layup,2,3,2,LAYUPS,,2007
+Marcus Vinicius,200790,Jump Shot,2,15,6,JUMP_SHOTS,,2008
+Marcus Vinicius,200790,Jump Shot,3,1,0,JUMP_SHOTS,,2008
+Marcus Vinicius,200790,Standard Dunk,2,3,3,DUNKS,,2008
+Marcus Vinicius,200790,Standard Layup,2,1,0,LAYUPS,,2008

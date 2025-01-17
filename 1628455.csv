@@ -1,55 +1,37 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Mike James,1628455,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2018
-Mike James,1628455,Driving Hook Shot,2,1,0,Driving Bank Hook Shot,POST_MOVES,,2018
-Mike James,1628455,Driving Dunk,2,2,0,Driving Dunk Shot,DUNKS,,2018
-Mike James,1628455,Finger Roll,2,20,15,Driving Finger Roll Layup Shot,LAYUPS,,2018
-Mike James,1628455,Floating Jump Shot,2,9,4,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
-Mike James,1628455,Floating Jump Shot,2,27,10,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
-Mike James,1628455,Driving Hook Shot,2,2,2,Driving Hook Shot,POST_MOVES,,2018
-Mike James,1628455,Driving Layup,2,38,18,Driving Layup Shot,LAYUPS,,2018
-Mike James,1628455,Driving Layup,2,8,6,Driving Reverse Layup Shot,LAYUPS,,2018
-Mike James,1628455,Standard Dunk,2,2,0,Dunk Shot,DUNKS,,2018
-Mike James,1628455,Fadeaway Jump Shot,2,3,0,Fadeaway Jump Shot,JUMP_SHOTS,,2018
-Mike James,1628455,Finger Roll,2,2,0,Finger Roll Layup Shot,LAYUPS,,2018
-Mike James,1628455,Floating Jump Shot,2,8,3,Floating Jump shot,FLOATING_SHOTS,,2018
-Mike James,1628455,Jump Shot,2,2,0,Jump Bank Shot,JUMP_SHOTS,,2018
-Mike James,1628455,Jump Shot,2,73,13,Jump Shot,JUMP_SHOTS,,2018
-Mike James,1628455,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2018
-Mike James,1628455,Standard Layup,2,5,2,Layup Shot,LAYUPS,,2018
-Mike James,1628455,Pullup Jump Shot,2,59,20,Pullup Jump shot,JUMP_SHOTS,,2018
-Mike James,1628455,Pullup Jump Shot,3,3,1,Pullup Jump shot,JUMP_SHOTS,,2018
-Mike James,1628455,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2018
-Mike James,1628455,Alley Oop Layup,2,1,0,Running Alley Oop Layup Shot,LAYUPS,,2018
-Mike James,1628455,Standard Dunk,2,4,4,Running Dunk Shot,DUNKS,,2018
-Mike James,1628455,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2018
-Mike James,1628455,Running Jump Shot,2,4,1,Running Jump Shot,JUMP_SHOTS,,2018
-Mike James,1628455,Standard Layup,2,10,2,Running Layup Shot,LAYUPS,,2018
-Mike James,1628455,Running Jump Shot,2,3,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2018
-Mike James,1628455,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2018
-Mike James,1628455,Step Back Jump Shot,2,24,13,Step Back Jump shot,JUMP_SHOTS,,2018
-Mike James,1628455,Step Back Jump Shot,3,1,1,Step Back Jump shot,JUMP_SHOTS,,2018
-Mike James,1628455,Putback Layup,2,1,0,Tip Layup Shot,LAYUPS,,2018
-Mike James,1628455,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2018
-Mike James,1628455,Turnaround Jump Shot,2,2,2,Turnaround Jump Shot,JUMP_SHOTS,,2018
-Mike James,1628455,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2021
-Mike James,1628455,Driving Hook Shot,2,1,0,Driving Bank Hook Shot,POST_MOVES,,2021
-Mike James,1628455,Driving Dunk,2,1,0,Driving Dunk Shot,DUNKS,,2021
-Mike James,1628455,Finger Roll,2,2,0,Driving Finger Roll Layup Shot,LAYUPS,,2021
-Mike James,1628455,Floating Jump Shot,2,2,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2021
-Mike James,1628455,Floating Jump Shot,2,10,5,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
-Mike James,1628455,Driving Hook Shot,2,3,2,Driving Hook Shot,POST_MOVES,,2021
-Mike James,1628455,Driving Layup,2,12,2,Driving Layup Shot,LAYUPS,,2021
-Mike James,1628455,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2021
-Mike James,1628455,Fadeaway Jump Shot,2,6,2,Fadeaway Jump Shot,JUMP_SHOTS,,2021
-Mike James,1628455,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2021
-Mike James,1628455,Jump Shot,2,5,0,Jump Shot,JUMP_SHOTS,,2021
-Mike James,1628455,Jump Shot,3,11,5,Jump Shot,JUMP_SHOTS,,2021
-Mike James,1628455,Pullup Jump Shot,2,5,2,Pullup Jump shot,JUMP_SHOTS,,2021
-Mike James,1628455,Pullup Jump Shot,3,6,3,Pullup Jump shot,JUMP_SHOTS,,2021
-Mike James,1628455,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2021
-Mike James,1628455,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2021
-Mike James,1628455,Standard Layup,2,3,1,Running Layup Shot,LAYUPS,,2021
-Mike James,1628455,Step Back Jump Shot,2,11,4,Step Back Jump shot,JUMP_SHOTS,,2021
-Mike James,1628455,Step Back Jump Shot,3,6,2,Step Back Jump shot,JUMP_SHOTS,,2021
-Mike James,1628455,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2021
-Mike James,1628455,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2021
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Mike James,1628455,Alley Oop Layup,2,1,0,LAYUPS,,2018
+Mike James,1628455,Driving Dunk,2,2,0,DUNKS,,2018
+Mike James,1628455,Driving Hook Shot,2,3,2,POST_MOVES,,2018
+Mike James,1628455,Driving Layup,2,46,24,LAYUPS,,2018
+Mike James,1628455,Fadeaway Jump Shot,2,3,0,JUMP_SHOTS,,2018
+Mike James,1628455,Finger Roll,2,23,16,LAYUPS,,2018
+Mike James,1628455,Floating Jump Shot,2,44,17,FLOATING_SHOTS,,2018
+Mike James,1628455,Jump Shot,2,75,13,JUMP_SHOTS,,2018
+Mike James,1628455,Jump Shot,3,1,0,JUMP_SHOTS,,2018
+Mike James,1628455,Pullup Jump Shot,2,59,20,JUMP_SHOTS,,2018
+Mike James,1628455,Pullup Jump Shot,3,3,1,JUMP_SHOTS,,2018
+Mike James,1628455,Putback Layup,2,2,0,LAYUPS,,2018
+Mike James,1628455,Reverse Layup,2,2,2,LAYUPS,,2018
+Mike James,1628455,Running Jump Shot,2,7,2,JUMP_SHOTS,,2018
+Mike James,1628455,Specialty Dunk,2,1,1,DUNKS,,2018
+Mike James,1628455,Standard Dunk,2,6,4,DUNKS,,2018
+Mike James,1628455,Standard Layup,2,15,4,LAYUPS,,2018
+Mike James,1628455,Step Back Jump Shot,2,24,13,JUMP_SHOTS,,2018
+Mike James,1628455,Step Back Jump Shot,3,1,1,JUMP_SHOTS,,2018
+Mike James,1628455,Turnaround Jump Shot,2,3,3,JUMP_SHOTS,,2018
+Mike James,1628455,Driving Dunk,2,1,0,DUNKS,,2021
+Mike James,1628455,Driving Hook Shot,2,4,2,POST_MOVES,,2021
+Mike James,1628455,Driving Layup,2,13,3,LAYUPS,,2021
+Mike James,1628455,Fadeaway Jump Shot,2,6,2,JUMP_SHOTS,,2021
+Mike James,1628455,Finger Roll,2,2,0,LAYUPS,,2021
+Mike James,1628455,Floating Jump Shot,2,13,7,FLOATING_SHOTS,,2021
+Mike James,1628455,Jump Shot,2,5,0,JUMP_SHOTS,,2021
+Mike James,1628455,Jump Shot,3,11,5,JUMP_SHOTS,,2021
+Mike James,1628455,Pullup Jump Shot,2,5,2,JUMP_SHOTS,,2021
+Mike James,1628455,Pullup Jump Shot,3,6,3,JUMP_SHOTS,,2021
+Mike James,1628455,Putback Layup,2,1,1,LAYUPS,,2021
+Mike James,1628455,Standard Dunk,2,1,1,DUNKS,,2021
+Mike James,1628455,Standard Layup,2,4,2,LAYUPS,,2021
+Mike James,1628455,Step Back Jump Shot,2,11,4,JUMP_SHOTS,,2021
+Mike James,1628455,Step Back Jump Shot,3,6,2,JUMP_SHOTS,,2021
+Mike James,1628455,Turnaround Jump Shot,2,3,0,JUMP_SHOTS,,2021

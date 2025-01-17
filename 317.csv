@@ -1,53 +1,48 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-John Starks,317,Driving Dunk,2,8,8,Driving Dunk Shot,DUNKS,,1997
-John Starks,317,Driving Layup,2,81,74,Driving Layup Shot,LAYUPS,,1997
-John Starks,317,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,1997
-John Starks,317,Jump Shot,2,572,216,Jump Shot,JUMP_SHOTS,,1997
-John Starks,317,Jump Shot,3,61,24,Jump Shot,JUMP_SHOTS,,1997
-John Starks,317,Standard Layup,2,115,32,Layup Shot,LAYUPS,,1997
-John Starks,317,Running Jump Shot,2,11,7,Running Jump Shot,JUMP_SHOTS,,1997
-John Starks,317,Running Jump Shot,3,1,1,Running Jump Shot,JUMP_SHOTS,,1997
-John Starks,317,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,1997
-John Starks,317,Driving Dunk,2,8,8,Driving Dunk Shot,DUNKS,,1998
-John Starks,317,Driving Layup,2,82,65,Driving Layup Shot,LAYUPS,,1998
-John Starks,317,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,1998
-John Starks,317,Hook Shot,2,3,2,Hook Shot,POST_MOVES,,1998
-John Starks,317,Jump Shot,2,735,244,Jump Shot,JUMP_SHOTS,,1998
-John Starks,317,Standard Layup,2,92,32,Layup Shot,LAYUPS,,1998
-John Starks,317,Running Jump Shot,2,16,14,Running Jump Shot,JUMP_SHOTS,,1998
-John Starks,317,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,1998
-John Starks,317,Tip Shot,2,5,2,Tip Shot,TIP_SHOTS,,1998
-John Starks,317,Driving Layup,2,39,20,Driving Layup Shot,LAYUPS,,1999
-John Starks,317,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,1999
-John Starks,317,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,1999
-John Starks,317,Jump Shot,2,624,213,Jump Shot,JUMP_SHOTS,,1999
-John Starks,317,Jump Shot,3,12,4,Jump Shot,JUMP_SHOTS,,1999
-John Starks,317,Standard Layup,2,38,20,Layup Shot,LAYUPS,,1999
-John Starks,317,Running Jump Shot,2,12,9,Running Jump Shot,JUMP_SHOTS,,1999
-John Starks,317,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,1999
-John Starks,317,Driving Layup,2,31,18,Driving Layup Shot,LAYUPS,,2000
-John Starks,317,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2000
-John Starks,317,Jump Shot,2,481,171,Jump Shot,JUMP_SHOTS,,2000
-John Starks,317,Standard Layup,2,13,6,Layup Shot,LAYUPS,,2000
-John Starks,317,Running Jump Shot,2,15,7,Running Jump Shot,JUMP_SHOTS,,2000
-John Starks,317,Finger Roll,2,1,0,Driving Finger Roll Shot,LAYUPS,,2001
-John Starks,317,Driving Layup,2,25,21,Driving Layup Shot,LAYUPS,,2001
-John Starks,317,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,2001
-John Starks,317,Hook Shot,2,3,1,Hook Shot,POST_MOVES,,2001
-John Starks,317,Jump Shot,2,553,200,Jump Shot,JUMP_SHOTS,,2001
-John Starks,317,Standard Layup,2,76,36,Layup Shot,LAYUPS,,2001
-John Starks,317,Reverse Layup,2,6,5,Reverse Layup Shot,LAYUPS,,2001
-John Starks,317,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2001
-John Starks,317,Running Jump Shot,2,14,7,Running Jump Shot,JUMP_SHOTS,,2001
-John Starks,317,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2001
-John Starks,317,Tip Shot,2,3,0,Tip Shot,TIP_SHOTS,,2001
-John Starks,317,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2001
-John Starks,317,Driving Layup,2,16,11,Driving Layup Shot,LAYUPS,,2002
-John Starks,317,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2002
-John Starks,317,Hook Shot,2,3,2,Hook Shot,POST_MOVES,,2002
-John Starks,317,Jump Shot,2,235,78,Jump Shot,JUMP_SHOTS,,2002
-John Starks,317,Standard Layup,2,51,21,Layup Shot,LAYUPS,,2002
-John Starks,317,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2002
-John Starks,317,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2002
-John Starks,317,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2002
-John Starks,317,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2002
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+John Starks,317,Driving Dunk,2,8,8,DUNKS,,1997
+John Starks,317,Driving Layup,2,81,74,LAYUPS,,1997
+John Starks,317,Jump Shot,2,572,216,JUMP_SHOTS,,1997
+John Starks,317,Jump Shot,3,61,24,JUMP_SHOTS,,1997
+John Starks,317,Running Jump Shot,2,11,7,JUMP_SHOTS,,1997
+John Starks,317,Running Jump Shot,3,1,1,JUMP_SHOTS,,1997
+John Starks,317,Standard Dunk,2,7,7,DUNKS,,1997
+John Starks,317,Standard Layup,2,115,32,LAYUPS,,1997
+John Starks,317,Driving Dunk,2,8,8,DUNKS,,1998
+John Starks,317,Driving Layup,2,82,65,LAYUPS,,1998
+John Starks,317,Hook Shot,2,3,2,POST_MOVES,,1998
+John Starks,317,Jump Shot,2,735,244,JUMP_SHOTS,,1998
+John Starks,317,Running Jump Shot,2,16,14,JUMP_SHOTS,,1998
+John Starks,317,Standard Dunk,2,5,5,DUNKS,,1998
+John Starks,317,Standard Layup,2,92,32,LAYUPS,,1998
+John Starks,317,Tip Shot,2,5,2,TIP_SHOTS,,1998
+John Starks,317,Driving Layup,2,39,20,LAYUPS,,1999
+John Starks,317,Hook Shot,2,1,1,POST_MOVES,,1999
+John Starks,317,Jump Shot,2,624,213,JUMP_SHOTS,,1999
+John Starks,317,Jump Shot,3,12,4,JUMP_SHOTS,,1999
+John Starks,317,Running Jump Shot,2,12,9,JUMP_SHOTS,,1999
+John Starks,317,Standard Dunk,2,2,2,DUNKS,,1999
+John Starks,317,Standard Layup,2,38,20,LAYUPS,,1999
+John Starks,317,Driving Layup,2,31,18,LAYUPS,,2000
+John Starks,317,Hook Shot,2,2,1,POST_MOVES,,2000
+John Starks,317,Jump Shot,2,481,171,JUMP_SHOTS,,2000
+John Starks,317,Running Jump Shot,2,15,7,JUMP_SHOTS,,2000
+John Starks,317,Standard Layup,2,13,6,LAYUPS,,2000
+John Starks,317,Driving Layup,2,25,21,LAYUPS,,2001
+John Starks,317,Finger Roll,2,1,0,LAYUPS,,2001
+John Starks,317,Hook Shot,2,3,1,POST_MOVES,,2001
+John Starks,317,Jump Shot,2,553,200,JUMP_SHOTS,,2001
+John Starks,317,Reverse Layup,2,6,5,LAYUPS,,2001
+John Starks,317,Running Hook Shot,2,1,0,POST_MOVES,,2001
+John Starks,317,Running Jump Shot,2,14,7,JUMP_SHOTS,,2001
+John Starks,317,Standard Dunk,2,2,1,DUNKS,,2001
+John Starks,317,Standard Layup,2,77,37,LAYUPS,,2001
+John Starks,317,Tip Shot,2,3,0,TIP_SHOTS,,2001
+John Starks,317,Turnaround Hook Shot,2,1,1,POST_MOVES,,2001
+John Starks,317,Driving Layup,2,16,11,LAYUPS,,2002
+John Starks,317,Hook Shot,2,3,2,POST_MOVES,,2002
+John Starks,317,Jump Shot,2,235,78,JUMP_SHOTS,,2002
+John Starks,317,Reverse Layup,2,1,1,LAYUPS,,2002
+John Starks,317,Running Jump Shot,2,1,0,JUMP_SHOTS,,2002
+John Starks,317,Standard Dunk,2,1,0,DUNKS,,2002
+John Starks,317,Standard Layup,2,52,21,LAYUPS,,2002
+John Starks,317,Tip Shot,2,1,1,TIP_SHOTS,,2002

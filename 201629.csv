@@ -1,15 +1,14 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Othello Hunter,201629,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2009
-Othello Hunter,201629,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2009
-Othello Hunter,201629,Jump Shot,2,5,1,Jump Shot,JUMP_SHOTS,,2009
-Othello Hunter,201629,Standard Layup,2,6,4,Layup Shot,LAYUPS,,2009
-Othello Hunter,201629,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2009
-Othello Hunter,201629,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2009
-Othello Hunter,201629,Tip Shot,2,4,3,Tip Shot,TIP_SHOTS,,2009
-Othello Hunter,201629,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2009
-Othello Hunter,201629,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2010
-Othello Hunter,201629,Jump Shot,2,3,0,Jump Shot,JUMP_SHOTS,,2010
-Othello Hunter,201629,Standard Layup,2,4,1,Layup Shot,LAYUPS,,2010
-Othello Hunter,201629,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2010
-Othello Hunter,201629,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2010
-Othello Hunter,201629,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2010
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Othello Hunter,201629,Driving Layup,2,1,1,LAYUPS,,2009
+Othello Hunter,201629,Jump Shot,2,5,1,JUMP_SHOTS,,2009
+Othello Hunter,201629,Putback Layup,2,1,1,LAYUPS,,2009
+Othello Hunter,201629,Running Jump Shot,2,1,0,JUMP_SHOTS,,2009
+Othello Hunter,201629,Standard Dunk,2,1,1,DUNKS,,2009
+Othello Hunter,201629,Standard Layup,2,6,4,LAYUPS,,2009
+Othello Hunter,201629,Tip Shot,2,4,3,TIP_SHOTS,,2009
+Othello Hunter,201629,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2009
+Othello Hunter,201629,Jump Shot,2,3,0,JUMP_SHOTS,,2010
+Othello Hunter,201629,Standard Dunk,2,1,1,DUNKS,,2010
+Othello Hunter,201629,Standard Layup,2,5,1,LAYUPS,,2010
+Othello Hunter,201629,Tip Shot,2,2,1,TIP_SHOTS,,2010
+Othello Hunter,201629,Turnaround Hook Shot,2,1,1,POST_MOVES,,2010

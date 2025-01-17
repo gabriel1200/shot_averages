@@ -1,16 +1,14 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Willie Burton,416,Driving Layup,2,5,4,Driving Layup Shot,LAYUPS,,1997
-Willie Burton,416,Standard Dunk,2,4,3,Dunk Shot,DUNKS,,1997
-Willie Burton,416,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,1997
-Willie Burton,416,Jump Shot,2,68,20,Jump Shot,JUMP_SHOTS,,1997
-Willie Burton,416,Standard Layup,2,33,10,Layup Shot,LAYUPS,,1997
-Willie Burton,416,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,1997
-Willie Burton,416,Standard Dunk,2,2,1,Slam Dunk Shot,DUNKS,,1997
-Willie Burton,416,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,1998
-Willie Burton,416,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,1998
-Willie Burton,416,Jump Shot,2,15,4,Jump Shot,JUMP_SHOTS,,1998
-Willie Burton,416,Standard Layup,2,2,1,Layup Shot,LAYUPS,,1998
-Willie Burton,416,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,1998
-Willie Burton,416,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,1999
-Willie Burton,416,Jump Shot,2,5,0,Jump Shot,JUMP_SHOTS,,1999
-Willie Burton,416,Standard Layup,2,1,1,Layup Shot,LAYUPS,,1999
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Willie Burton,416,Driving Layup,2,5,4,LAYUPS,,1997
+Willie Burton,416,Hook Shot,2,2,0,POST_MOVES,,1997
+Willie Burton,416,Jump Shot,2,68,20,JUMP_SHOTS,,1997
+Willie Burton,416,Running Jump Shot,2,2,1,JUMP_SHOTS,,1997
+Willie Burton,416,Standard Dunk,2,6,4,DUNKS,,1997
+Willie Burton,416,Standard Layup,2,33,10,LAYUPS,,1997
+Willie Burton,416,Driving Layup,2,1,1,LAYUPS,,1998
+Willie Burton,416,Jump Shot,2,15,4,JUMP_SHOTS,,1998
+Willie Burton,416,Standard Dunk,2,3,2,DUNKS,,1998
+Willie Burton,416,Standard Layup,2,2,1,LAYUPS,,1998
+Willie Burton,416,Driving Layup,2,1,0,LAYUPS,,1999
+Willie Burton,416,Jump Shot,2,5,0,JUMP_SHOTS,,1999
+Willie Burton,416,Standard Layup,2,1,1,LAYUPS,,1999

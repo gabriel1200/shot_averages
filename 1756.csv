@@ -1,15 +1,14 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Ryan Stack,1756,Driving Layup,2,4,2,Driving Layup Shot,LAYUPS,,1999
-Ryan Stack,1756,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,1999
-Ryan Stack,1756,Hook Shot,2,3,0,Hook Shot,POST_MOVES,,1999
-Ryan Stack,1756,Jump Shot,2,22,9,Jump Shot,JUMP_SHOTS,,1999
-Ryan Stack,1756,Standard Layup,2,6,1,Layup Shot,LAYUPS,,1999
-Ryan Stack,1756,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,1999
-Ryan Stack,1756,Driving Layup,2,3,0,Driving Layup Shot,LAYUPS,,2000
-Ryan Stack,1756,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2000
-Ryan Stack,1756,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2000
-Ryan Stack,1756,Jump Shot,2,27,7,Jump Shot,JUMP_SHOTS,,2000
-Ryan Stack,1756,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2000
-Ryan Stack,1756,Standard Layup,2,7,1,Layup Shot,LAYUPS,,2000
-Ryan Stack,1756,Standard Dunk,2,7,6,Slam Dunk Shot,DUNKS,,2000
-Ryan Stack,1756,Tip Shot,2,4,1,Tip Shot,TIP_SHOTS,,2000
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Ryan Stack,1756,Driving Layup,2,4,2,LAYUPS,,1999
+Ryan Stack,1756,Hook Shot,2,3,0,POST_MOVES,,1999
+Ryan Stack,1756,Jump Shot,2,22,9,JUMP_SHOTS,,1999
+Ryan Stack,1756,Standard Dunk,2,1,1,DUNKS,,1999
+Ryan Stack,1756,Standard Layup,2,6,1,LAYUPS,,1999
+Ryan Stack,1756,Tip Shot,2,1,1,TIP_SHOTS,,1999
+Ryan Stack,1756,Driving Layup,2,3,0,LAYUPS,,2000
+Ryan Stack,1756,Hook Shot,2,1,1,POST_MOVES,,2000
+Ryan Stack,1756,Jump Shot,2,27,7,JUMP_SHOTS,,2000
+Ryan Stack,1756,Jump Shot,3,1,0,JUMP_SHOTS,,2000
+Ryan Stack,1756,Standard Dunk,2,8,7,DUNKS,,2000
+Ryan Stack,1756,Standard Layup,2,7,1,LAYUPS,,2000
+Ryan Stack,1756,Tip Shot,2,4,1,TIP_SHOTS,,2000

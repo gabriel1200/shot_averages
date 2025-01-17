@@ -1,34 +1,33 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Doug West,28,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,1997
-Doug West,28,Driving Layup,2,36,34,Driving Layup Shot,LAYUPS,,1997
-Doug West,28,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,1997
-Doug West,28,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,1997
-Doug West,28,Jump Shot,2,328,134,Jump Shot,JUMP_SHOTS,,1997
-Doug West,28,Jump Shot,3,9,3,Jump Shot,JUMP_SHOTS,,1997
-Doug West,28,Standard Layup,2,79,31,Layup Shot,LAYUPS,,1997
-Doug West,28,Running Jump Shot,2,18,11,Running Jump Shot,JUMP_SHOTS,,1997
-Doug West,28,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,1997
-Doug West,28,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,1997
-Doug West,28,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,1998
-Doug West,28,Driving Layup,2,13,9,Driving Layup Shot,LAYUPS,,1998
-Doug West,28,Jump Shot,2,121,39,Jump Shot,JUMP_SHOTS,,1998
-Doug West,28,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,1998
-Doug West,28,Standard Layup,2,23,7,Layup Shot,LAYUPS,,1998
-Doug West,28,Running Jump Shot,2,5,4,Running Jump Shot,JUMP_SHOTS,,1998
-Doug West,28,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,1998
-Doug West,28,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,,1998
-Doug West,28,Driving Layup,2,6,5,Driving Layup Shot,LAYUPS,,1999
-Doug West,28,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,1999
-Doug West,28,Jump Shot,2,46,18,Jump Shot,JUMP_SHOTS,,1999
-Doug West,28,Standard Layup,2,12,7,Layup Shot,LAYUPS,,1999
-Doug West,28,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2000
-Doug West,28,Driving Layup,2,5,3,Driving Layup Shot,LAYUPS,,2000
-Doug West,28,Standard Dunk,2,7,6,Dunk Shot,DUNKS,,2000
-Doug West,28,Jump Shot,2,94,30,Jump Shot,JUMP_SHOTS,,2000
-Doug West,28,Standard Layup,2,36,18,Layup Shot,LAYUPS,,2000
-Doug West,28,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2000
-Doug West,28,Driving Layup,2,3,1,Driving Layup Shot,LAYUPS,,2001
-Doug West,28,Jump Shot,2,27,6,Jump Shot,JUMP_SHOTS,,2001
-Doug West,28,Standard Layup,2,6,3,Layup Shot,LAYUPS,,2001
-Doug West,28,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2001
-Doug West,28,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Doug West,28,Driving Dunk,2,2,2,DUNKS,,1997
+Doug West,28,Driving Layup,2,36,34,LAYUPS,,1997
+Doug West,28,Hook Shot,2,1,1,POST_MOVES,,1997
+Doug West,28,Jump Shot,2,328,134,JUMP_SHOTS,,1997
+Doug West,28,Jump Shot,3,9,3,JUMP_SHOTS,,1997
+Doug West,28,Running Jump Shot,2,18,11,JUMP_SHOTS,,1997
+Doug West,28,Standard Dunk,2,9,9,DUNKS,,1997
+Doug West,28,Standard Layup,2,79,31,LAYUPS,,1997
+Doug West,28,Tip Shot,2,2,1,TIP_SHOTS,,1997
+Doug West,28,Driving Dunk,2,1,1,DUNKS,,1998
+Doug West,28,Driving Layup,2,13,9,LAYUPS,,1998
+Doug West,28,Jump Shot,2,121,39,JUMP_SHOTS,,1998
+Doug West,28,Jump Shot,3,2,0,JUMP_SHOTS,,1998
+Doug West,28,Running Jump Shot,2,5,4,JUMP_SHOTS,,1998
+Doug West,28,Standard Dunk,2,3,3,DUNKS,,1998
+Doug West,28,Standard Layup,2,23,7,LAYUPS,,1998
+Doug West,28,Tip Shot,2,3,1,TIP_SHOTS,,1998
+Doug West,28,Driving Layup,2,6,5,LAYUPS,,1999
+Doug West,28,Jump Shot,2,46,18,JUMP_SHOTS,,1999
+Doug West,28,Standard Dunk,2,1,1,DUNKS,,1999
+Doug West,28,Standard Layup,2,12,7,LAYUPS,,1999
+Doug West,28,Driving Dunk,2,2,2,DUNKS,,2000
+Doug West,28,Driving Layup,2,5,3,LAYUPS,,2000
+Doug West,28,Jump Shot,2,94,30,JUMP_SHOTS,,2000
+Doug West,28,Standard Dunk,2,7,6,DUNKS,,2000
+Doug West,28,Standard Layup,2,36,18,LAYUPS,,2000
+Doug West,28,Tip Shot,2,1,0,TIP_SHOTS,,2000
+Doug West,28,Driving Layup,2,3,1,LAYUPS,,2001
+Doug West,28,Jump Shot,2,27,6,JUMP_SHOTS,,2001
+Doug West,28,Standard Dunk,2,1,1,DUNKS,,2001
+Doug West,28,Standard Layup,2,6,3,LAYUPS,,2001
+Doug West,28,Tip Shot,2,1,0,TIP_SHOTS,,2001

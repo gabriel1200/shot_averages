@@ -1,37 +1,34 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Zan Tabak,440,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,1997
-Zan Tabak,440,Driving Layup,2,4,3,Driving Layup Shot,LAYUPS,,1997
-Zan Tabak,440,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,1997
-Zan Tabak,440,Hook Shot,2,17,8,Hook Shot,POST_MOVES,,1997
-Zan Tabak,440,Jump Shot,2,16,3,Jump Shot,JUMP_SHOTS,,1997
-Zan Tabak,440,Standard Layup,2,25,9,Layup Shot,LAYUPS,,1997
-Zan Tabak,440,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,1997
-Zan Tabak,440,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,,1997
-Zan Tabak,440,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,1998
-Zan Tabak,440,Driving Layup,2,14,12,Driving Layup Shot,LAYUPS,,1998
-Zan Tabak,440,Standard Dunk,2,4,3,Dunk Shot,DUNKS,,1998
-Zan Tabak,440,Hook Shot,2,50,29,Hook Shot,POST_MOVES,,1998
-Zan Tabak,440,Jump Shot,2,160,51,Jump Shot,JUMP_SHOTS,,1998
-Zan Tabak,440,Standard Layup,2,45,24,Layup Shot,LAYUPS,,1998
-Zan Tabak,440,Standard Dunk,2,8,8,Slam Dunk Shot,DUNKS,,1998
-Zan Tabak,440,Tip Shot,2,22,14,Tip Shot,TIP_SHOTS,,1998
-Zan Tabak,440,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,2000
-Zan Tabak,440,Hook Shot,2,5,2,Hook Shot,POST_MOVES,,2000
-Zan Tabak,440,Jump Shot,2,17,3,Jump Shot,JUMP_SHOTS,,2000
-Zan Tabak,440,Standard Layup,2,6,5,Layup Shot,LAYUPS,,2000
-Zan Tabak,440,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2000
-Zan Tabak,440,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,,2000
-Zan Tabak,440,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2001
-Zan Tabak,440,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2001
-Zan Tabak,440,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2001
-Zan Tabak,440,Standard Dunk,2,4,3,Dunk Shot,DUNKS,,2001
-Zan Tabak,440,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2001
-Zan Tabak,440,Hook Shot,2,41,34,Hook Shot,POST_MOVES,,2001
-Zan Tabak,440,Jump Shot,2,73,19,Jump Shot,JUMP_SHOTS,,2001
-Zan Tabak,440,Standard Layup,2,43,18,Layup Shot,LAYUPS,,2001
-Zan Tabak,440,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2001
-Zan Tabak,440,Running Hook Shot,2,2,2,Running Hook Shot,POST_MOVES,,2001
-Zan Tabak,440,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2001
-Zan Tabak,440,Tip Shot,2,10,10,Tip Shot,TIP_SHOTS,,2001
-Zan Tabak,440,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2001
-Zan Tabak,440,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Zan Tabak,440,Driving Dunk,2,1,1,DUNKS,,1997
+Zan Tabak,440,Driving Layup,2,4,3,LAYUPS,,1997
+Zan Tabak,440,Hook Shot,2,17,8,POST_MOVES,,1997
+Zan Tabak,440,Jump Shot,2,16,3,JUMP_SHOTS,,1997
+Zan Tabak,440,Standard Dunk,2,6,6,DUNKS,,1997
+Zan Tabak,440,Standard Layup,2,25,9,LAYUPS,,1997
+Zan Tabak,440,Tip Shot,2,2,2,TIP_SHOTS,,1997
+Zan Tabak,440,Driving Dunk,2,1,1,DUNKS,,1998
+Zan Tabak,440,Driving Layup,2,14,12,LAYUPS,,1998
+Zan Tabak,440,Hook Shot,2,50,29,POST_MOVES,,1998
+Zan Tabak,440,Jump Shot,2,160,51,JUMP_SHOTS,,1998
+Zan Tabak,440,Standard Dunk,2,12,11,DUNKS,,1998
+Zan Tabak,440,Standard Layup,2,45,24,LAYUPS,,1998
+Zan Tabak,440,Tip Shot,2,22,14,TIP_SHOTS,,1998
+Zan Tabak,440,Driving Layup,2,2,2,LAYUPS,,2000
+Zan Tabak,440,Hook Shot,2,5,2,POST_MOVES,,2000
+Zan Tabak,440,Jump Shot,2,17,3,JUMP_SHOTS,,2000
+Zan Tabak,440,Standard Dunk,2,2,2,DUNKS,,2000
+Zan Tabak,440,Standard Layup,2,6,5,LAYUPS,,2000
+Zan Tabak,440,Tip Shot,2,2,2,TIP_SHOTS,,2000
+Zan Tabak,440,Driving Dunk,2,2,2,DUNKS,,2001
+Zan Tabak,440,Driving Hook Shot,2,1,1,POST_MOVES,,2001
+Zan Tabak,440,Driving Layup,2,1,1,LAYUPS,,2001
+Zan Tabak,440,Finger Roll,2,1,1,LAYUPS,,2001
+Zan Tabak,440,Hook Shot,2,41,34,POST_MOVES,,2001
+Zan Tabak,440,Jump Shot,2,73,19,JUMP_SHOTS,,2001
+Zan Tabak,440,Reverse Layup,2,2,2,LAYUPS,,2001
+Zan Tabak,440,Running Hook Shot,2,2,2,POST_MOVES,,2001
+Zan Tabak,440,Standard Dunk,2,7,6,DUNKS,,2001
+Zan Tabak,440,Standard Layup,2,43,18,LAYUPS,,2001
+Zan Tabak,440,Tip Shot,2,10,10,TIP_SHOTS,,2001
+Zan Tabak,440,Turnaround Hook Shot,2,1,1,POST_MOVES,,2001
+Zan Tabak,440,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2001

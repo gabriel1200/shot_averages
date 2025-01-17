@@ -1,15 +1,14 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Ivano Newbill,1096,Driving Layup,2,3,3,Driving Layup Shot,LAYUPS,,1997
-Ivano Newbill,1096,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,1997
-Ivano Newbill,1096,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,1997
-Ivano Newbill,1096,Jump Shot,2,10,1,Jump Shot,JUMP_SHOTS,,1997
-Ivano Newbill,1096,Standard Layup,2,56,25,Layup Shot,LAYUPS,,1997
-Ivano Newbill,1096,Tip Shot,2,17,7,Tip Shot,TIP_SHOTS,,1997
-Ivano Newbill,1096,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,1998
-Ivano Newbill,1096,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,1998
-Ivano Newbill,1096,Hook Shot,2,3,2,Hook Shot,POST_MOVES,,1998
-Ivano Newbill,1096,Jump Shot,2,27,3,Jump Shot,JUMP_SHOTS,,1998
-Ivano Newbill,1096,Jump Shot,3,1,1,Jump Shot,JUMP_SHOTS,,1998
-Ivano Newbill,1096,Standard Layup,2,20,10,Layup Shot,LAYUPS,,1998
-Ivano Newbill,1096,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,1998
-Ivano Newbill,1096,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,1998
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Ivano Newbill,1096,Driving Layup,2,3,3,LAYUPS,,1997
+Ivano Newbill,1096,Hook Shot,2,2,1,POST_MOVES,,1997
+Ivano Newbill,1096,Jump Shot,2,10,1,JUMP_SHOTS,,1997
+Ivano Newbill,1096,Standard Dunk,2,3,3,DUNKS,,1997
+Ivano Newbill,1096,Standard Layup,2,56,25,LAYUPS,,1997
+Ivano Newbill,1096,Tip Shot,2,17,7,TIP_SHOTS,,1997
+Ivano Newbill,1096,Driving Layup,2,1,0,LAYUPS,,1998
+Ivano Newbill,1096,Hook Shot,2,3,2,POST_MOVES,,1998
+Ivano Newbill,1096,Jump Shot,2,27,3,JUMP_SHOTS,,1998
+Ivano Newbill,1096,Jump Shot,3,1,1,JUMP_SHOTS,,1998
+Ivano Newbill,1096,Standard Dunk,2,3,3,DUNKS,,1998
+Ivano Newbill,1096,Standard Layup,2,20,10,LAYUPS,,1998
+Ivano Newbill,1096,Tip Shot,2,2,1,TIP_SHOTS,,1998

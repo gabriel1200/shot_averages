@@ -1,21 +1,19 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Clyde Drexler,17,Driving Dunk,2,10,10,Driving Dunk Shot,DUNKS,,1997
-Clyde Drexler,17,Driving Layup,2,101,67,Driving Layup Shot,LAYUPS,,1997
-Clyde Drexler,17,Standard Dunk,2,13,13,Dunk Shot,DUNKS,,1997
-Clyde Drexler,17,Hook Shot,2,4,1,Hook Shot,POST_MOVES,,1997
-Clyde Drexler,17,Jump Shot,2,529,191,Jump Shot,JUMP_SHOTS,,1997
-Clyde Drexler,17,Jump Shot,3,30,10,Jump Shot,JUMP_SHOTS,,1997
-Clyde Drexler,17,Standard Layup,2,183,87,Layup Shot,LAYUPS,,1997
-Clyde Drexler,17,Running Jump Shot,2,12,7,Running Jump Shot,JUMP_SHOTS,,1997
-Clyde Drexler,17,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,1997
-Clyde Drexler,17,Tip Shot,2,12,6,Tip Shot,TIP_SHOTS,,1997
-Clyde Drexler,17,Driving Dunk,2,10,9,Driving Dunk Shot,DUNKS,,1998
-Clyde Drexler,17,Driving Layup,2,170,115,Driving Layup Shot,LAYUPS,,1998
-Clyde Drexler,17,Standard Dunk,2,14,14,Dunk Shot,DUNKS,,1998
-Clyde Drexler,17,Hook Shot,2,6,3,Hook Shot,POST_MOVES,,1998
-Clyde Drexler,17,Jump Shot,2,651,197,Jump Shot,JUMP_SHOTS,,1998
-Clyde Drexler,17,Jump Shot,3,31,13,Jump Shot,JUMP_SHOTS,,1998
-Clyde Drexler,17,Standard Layup,2,156,89,Layup Shot,LAYUPS,,1998
-Clyde Drexler,17,Running Jump Shot,2,8,3,Running Jump Shot,JUMP_SHOTS,,1998
-Clyde Drexler,17,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,1998
-Clyde Drexler,17,Tip Shot,2,8,4,Tip Shot,TIP_SHOTS,,1998
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Clyde Drexler,17,Driving Dunk,2,10,10,DUNKS,,1997
+Clyde Drexler,17,Driving Layup,2,101,67,LAYUPS,,1997
+Clyde Drexler,17,Hook Shot,2,4,1,POST_MOVES,,1997
+Clyde Drexler,17,Jump Shot,2,529,191,JUMP_SHOTS,,1997
+Clyde Drexler,17,Jump Shot,3,30,10,JUMP_SHOTS,,1997
+Clyde Drexler,17,Running Jump Shot,2,12,7,JUMP_SHOTS,,1997
+Clyde Drexler,17,Standard Dunk,2,18,18,DUNKS,,1997
+Clyde Drexler,17,Standard Layup,2,183,87,LAYUPS,,1997
+Clyde Drexler,17,Tip Shot,2,12,6,TIP_SHOTS,,1997
+Clyde Drexler,17,Driving Dunk,2,10,9,DUNKS,,1998
+Clyde Drexler,17,Driving Layup,2,170,115,LAYUPS,,1998
+Clyde Drexler,17,Hook Shot,2,6,3,POST_MOVES,,1998
+Clyde Drexler,17,Jump Shot,2,651,197,JUMP_SHOTS,,1998
+Clyde Drexler,17,Jump Shot,3,31,13,JUMP_SHOTS,,1998
+Clyde Drexler,17,Running Jump Shot,2,8,3,JUMP_SHOTS,,1998
+Clyde Drexler,17,Standard Dunk,2,19,19,DUNKS,,1998
+Clyde Drexler,17,Standard Layup,2,156,89,LAYUPS,,1998
+Clyde Drexler,17,Tip Shot,2,8,4,TIP_SHOTS,,1998

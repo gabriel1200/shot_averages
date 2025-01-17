@@ -1,17 +1,15 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Eric Riley,35,Driving Layup,2,5,4,Driving Layup Shot,LAYUPS,,1998
-Eric Riley,35,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,1998
-Eric Riley,35,Hook Shot,2,10,4,Hook Shot,POST_MOVES,,1998
-Eric Riley,35,Jump Shot,2,92,33,Jump Shot,JUMP_SHOTS,,1998
-Eric Riley,35,Standard Layup,2,15,5,Layup Shot,LAYUPS,,1998
-Eric Riley,35,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,1998
-Eric Riley,35,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,1998
-Eric Riley,35,Tip Shot,2,4,2,Tip Shot,TIP_SHOTS,,1998
-Eric Riley,35,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,1999
-Eric Riley,35,Standard Dunk,2,5,5,Dunk Shot,DUNKS,,1999
-Eric Riley,35,Hook Shot,2,5,5,Hook Shot,POST_MOVES,,1999
-Eric Riley,35,Jump Shot,2,15,4,Jump Shot,JUMP_SHOTS,,1999
-Eric Riley,35,Standard Layup,2,17,6,Layup Shot,LAYUPS,,1999
-Eric Riley,35,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,1999
-Eric Riley,35,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,1999
-Eric Riley,35,Tip Shot,2,5,1,Tip Shot,TIP_SHOTS,,1999
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Eric Riley,35,Driving Layup,2,5,4,LAYUPS,,1998
+Eric Riley,35,Hook Shot,2,10,4,POST_MOVES,,1998
+Eric Riley,35,Jump Shot,2,92,33,JUMP_SHOTS,,1998
+Eric Riley,35,Running Jump Shot,2,1,0,JUMP_SHOTS,,1998
+Eric Riley,35,Standard Dunk,2,8,8,DUNKS,,1998
+Eric Riley,35,Standard Layup,2,15,5,LAYUPS,,1998
+Eric Riley,35,Tip Shot,2,4,2,TIP_SHOTS,,1998
+Eric Riley,35,Driving Dunk,2,2,2,DUNKS,,1999
+Eric Riley,35,Hook Shot,2,5,5,POST_MOVES,,1999
+Eric Riley,35,Jump Shot,2,15,4,JUMP_SHOTS,,1999
+Eric Riley,35,Running Jump Shot,2,1,1,JUMP_SHOTS,,1999
+Eric Riley,35,Standard Dunk,2,9,9,DUNKS,,1999
+Eric Riley,35,Standard Layup,2,17,6,LAYUPS,,1999
+Eric Riley,35,Tip Shot,2,5,1,TIP_SHOTS,,1999

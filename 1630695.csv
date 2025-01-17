@@ -1,40 +1,33 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Micah Potter,1630695,Jump Shot,2,3,0,Jump Shot,JUMP_SHOTS,,2022
-Micah Potter,1630695,Standard Layup,2,3,2,Layup Shot,LAYUPS,,2022
-Micah Potter,1630695,Putback Layup,2,3,2,Putback Layup Shot,LAYUPS,,2022
-Micah Potter,1630695,Putback Layup,2,1,0,Tip Layup Shot,LAYUPS,,2022
-Micah Potter,1630695,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2022
-Micah Potter,1630695,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2023
-Micah Potter,1630695,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2023
-Micah Potter,1630695,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
-Micah Potter,1630695,Driving Layup,2,2,1,Driving Layup Shot,LAYUPS,,2023
-Micah Potter,1630695,Jump Shot,2,7,4,Jump Shot,JUMP_SHOTS,,2023
-Micah Potter,1630695,Putback Layup,2,2,2,Tip Layup Shot,LAYUPS,,2023
-Micah Potter,1630695,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2024
-Micah Potter,1630695,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2024
-Micah Potter,1630695,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2024
-Micah Potter,1630695,Standard Layup,2,2,2,Cutting Layup Shot,LAYUPS,,2024
-Micah Potter,1630695,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
-Micah Potter,1630695,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2024
-Micah Potter,1630695,Driving Layup,2,2,0,Driving Layup Shot,LAYUPS,,2024
-Micah Potter,1630695,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2024
-Micah Potter,1630695,Jump Shot,3,18,7,Jump Shot,JUMP_SHOTS,,2024
-Micah Potter,1630695,Standard Layup,2,2,2,Layup Shot,LAYUPS,,2024
-Micah Potter,1630695,Putback Layup,2,3,2,Putback Layup Shot,LAYUPS,,2024
-Micah Potter,1630695,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2024
-Micah Potter,1630695,Running Jump Shot,3,2,2,Running Jump Shot,JUMP_SHOTS,,2024
-Micah Potter,1630695,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2024
-Micah Potter,1630695,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2024
-Micah Potter,1630695,Putback Layup,2,2,1,Tip Layup Shot,LAYUPS,,2024
-Micah Potter,1630695,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2025
-Micah Potter,1630695,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2025
-Micah Potter,1630695,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
-Micah Potter,1630695,Driving Layup,2,2,0,Driving Layup Shot,LAYUPS,,2025
-Micah Potter,1630695,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2025
-Micah Potter,1630695,Jump Shot,3,34,11,Jump Shot,JUMP_SHOTS,,2025
-Micah Potter,1630695,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2025
-Micah Potter,1630695,Running Jump Shot,3,3,2,Running Jump Shot,JUMP_SHOTS,,2025
-Micah Potter,1630695,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2025
-Micah Potter,1630695,Running Jump Shot,3,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025
-Micah Potter,1630695,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2025
-Micah Potter,1630695,Putback Layup,2,2,1,Tip Layup Shot,LAYUPS,,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Micah Potter,1630695,Jump Shot,2,3,0,JUMP_SHOTS,,2022
+Micah Potter,1630695,Putback Layup,2,4,2,LAYUPS,,2022
+Micah Potter,1630695,Standard Layup,2,3,2,LAYUPS,,2022
+Micah Potter,1630695,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2022
+Micah Potter,1630695,Driving Layup,2,2,1,LAYUPS,,2023
+Micah Potter,1630695,Finger Roll,2,1,1,LAYUPS,,2023
+Micah Potter,1630695,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2023
+Micah Potter,1630695,Jump Shot,2,7,4,JUMP_SHOTS,,2023
+Micah Potter,1630695,Putback Layup,2,2,2,LAYUPS,,2023
+Micah Potter,1630695,Specialty Dunk,2,2,2,DUNKS,,2023
+Micah Potter,1630695,Alley Oop Dunk,2,1,1,DUNKS,,2024
+Micah Potter,1630695,Alley Oop Layup,2,1,0,LAYUPS,,2024
+Micah Potter,1630695,Driving Hook Shot,2,1,0,POST_MOVES,,2024
+Micah Potter,1630695,Driving Layup,2,2,0,LAYUPS,,2024
+Micah Potter,1630695,Floating Jump Shot,2,1,0,FLOATING_SHOTS,,2024
+Micah Potter,1630695,Hook Shot,2,1,0,POST_MOVES,,2024
+Micah Potter,1630695,Jump Shot,3,18,7,JUMP_SHOTS,,2024
+Micah Potter,1630695,Putback Layup,2,5,3,LAYUPS,,2024
+Micah Potter,1630695,Reverse Layup,2,1,0,LAYUPS,,2024
+Micah Potter,1630695,Running Jump Shot,3,2,2,JUMP_SHOTS,,2024
+Micah Potter,1630695,Specialty Dunk,2,2,2,DUNKS,,2024
+Micah Potter,1630695,Standard Layup,2,4,4,LAYUPS,,2024
+Micah Potter,1630695,Step Back Jump Shot,3,1,0,JUMP_SHOTS,,2024
+Micah Potter,1630695,Driving Layup,2,2,0,LAYUPS,,2025
+Micah Potter,1630695,Floating Jump Shot,2,2,0,FLOATING_SHOTS,,2025
+Micah Potter,1630695,Jump Shot,3,34,11,JUMP_SHOTS,,2025
+Micah Potter,1630695,Putback Dunk,2,1,1,DUNKS,,2025
+Micah Potter,1630695,Putback Layup,2,2,1,LAYUPS,,2025
+Micah Potter,1630695,Running Jump Shot,3,4,2,JUMP_SHOTS,,2025
+Micah Potter,1630695,Specialty Dunk,2,2,2,DUNKS,,2025
+Micah Potter,1630695,Standard Layup,2,2,2,LAYUPS,,2025
+Micah Potter,1630695,Step Back Jump Shot,3,1,0,JUMP_SHOTS,,2025

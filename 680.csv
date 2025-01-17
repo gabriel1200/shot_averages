@@ -1,51 +1,43 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-John Amaechi,680,Driving Dunk,2,3,2,Driving Dunk Shot,DUNKS,,2000
-John Amaechi,680,Driving Layup,2,90,61,Driving Layup Shot,LAYUPS,,2000
-John Amaechi,680,Standard Dunk,2,5,4,Dunk Shot,DUNKS,,2000
-John Amaechi,680,Hook Shot,2,45,18,Hook Shot,POST_MOVES,,2000
-John Amaechi,680,Jump Shot,2,419,156,Jump Shot,JUMP_SHOTS,,2000
-John Amaechi,680,Standard Layup,2,108,48,Layup Shot,LAYUPS,,2000
-John Amaechi,680,Running Jump Shot,2,24,12,Running Jump Shot,JUMP_SHOTS,,2000
-John Amaechi,680,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2000
-John Amaechi,680,Tip Shot,2,5,4,Tip Shot,TIP_SHOTS,,2000
-John Amaechi,680,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2001
-John Amaechi,680,Finger Roll,2,3,3,Driving Finger Roll Shot,LAYUPS,,2001
-John Amaechi,680,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2001
-John Amaechi,680,Driving Layup,2,44,30,Driving Layup Shot,LAYUPS,,2001
-John Amaechi,680,Standard Dunk,2,7,6,Dunk Shot,DUNKS,,2001
-John Amaechi,680,Finger Roll,2,10,6,Finger Roll Shot,LAYUPS,,2001
-John Amaechi,680,Hook Shot,2,26,11,Hook Shot,POST_MOVES,,2001
-John Amaechi,680,Jump Shot,2,292,81,Jump Shot,JUMP_SHOTS,,2001
-John Amaechi,680,Standard Layup,2,134,61,Layup Shot,LAYUPS,,2001
-John Amaechi,680,Reverse Layup,2,17,8,Reverse Layup Shot,LAYUPS,,2001
-John Amaechi,680,Running Hook Shot,2,9,6,Running Hook Shot,POST_MOVES,,2001
-John Amaechi,680,Running Jump Shot,2,7,4,Running Jump Shot,JUMP_SHOTS,,2001
-John Amaechi,680,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2001
-John Amaechi,680,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2001
-John Amaechi,680,Tip Shot,2,9,3,Tip Shot,TIP_SHOTS,,2001
-John Amaechi,680,Turnaround Hook Shot,2,3,1,Turnaround Hook Shot,POST_MOVES,,2001
-John Amaechi,680,Turnaround Jump Shot,2,22,8,Turnaround Jump Shot,JUMP_SHOTS,,2001
-John Amaechi,680,Driving Layup,2,8,4,Driving Layup Shot,LAYUPS,,2002
-John Amaechi,680,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2002
-John Amaechi,680,Hook Shot,2,9,2,Hook Shot,POST_MOVES,,2002
-John Amaechi,680,Hook Shot,2,2,2,Jump Hook Shot,POST_MOVES,,2002
-John Amaechi,680,Jump Shot,2,70,13,Jump Shot,JUMP_SHOTS,,2002
-John Amaechi,680,Standard Layup,2,53,23,Layup Shot,LAYUPS,,2002
-John Amaechi,680,Reverse Layup,2,5,4,Reverse Layup Shot,LAYUPS,,2002
-John Amaechi,680,Standard Dunk,2,2,1,Running Dunk Shot,DUNKS,,2002
-John Amaechi,680,Running Hook Shot,2,3,1,Running Hook Shot,POST_MOVES,,2002
-John Amaechi,680,Running Jump Shot,2,3,0,Running Jump Shot,JUMP_SHOTS,,2002
-John Amaechi,680,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2002
-John Amaechi,680,Tip Shot,2,7,1,Tip Shot,TIP_SHOTS,,2002
-John Amaechi,680,Driving Layup,2,7,3,Driving Layup Shot,LAYUPS,,2003
-John Amaechi,680,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2003
-John Amaechi,680,Fadeaway Jump Shot,2,2,2,Fadeaway Jump Shot,JUMP_SHOTS,,2003
-John Amaechi,680,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2003
-John Amaechi,680,Jump Shot,2,46,6,Jump Shot,JUMP_SHOTS,,2003
-John Amaechi,680,Standard Layup,2,46,17,Layup Shot,LAYUPS,,2003
-John Amaechi,680,Reverse Layup,2,5,4,Reverse Layup Shot,LAYUPS,,2003
-John Amaechi,680,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2003
-John Amaechi,680,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2003
-John Amaechi,680,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2003
-John Amaechi,680,Tip Shot,2,6,1,Tip Shot,TIP_SHOTS,,2003
-John Amaechi,680,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2003
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+John Amaechi,680,Driving Dunk,2,3,2,DUNKS,,2000
+John Amaechi,680,Driving Layup,2,90,61,LAYUPS,,2000
+John Amaechi,680,Hook Shot,2,45,18,POST_MOVES,,2000
+John Amaechi,680,Jump Shot,2,419,156,JUMP_SHOTS,,2000
+John Amaechi,680,Running Jump Shot,2,24,12,JUMP_SHOTS,,2000
+John Amaechi,680,Standard Dunk,2,6,5,DUNKS,,2000
+John Amaechi,680,Standard Layup,2,108,48,LAYUPS,,2000
+John Amaechi,680,Tip Shot,2,5,4,TIP_SHOTS,,2000
+John Amaechi,680,Driving Dunk,2,3,3,DUNKS,,2001
+John Amaechi,680,Driving Hook Shot,2,1,1,POST_MOVES,,2001
+John Amaechi,680,Driving Layup,2,44,30,LAYUPS,,2001
+John Amaechi,680,Finger Roll,2,13,9,LAYUPS,,2001
+John Amaechi,680,Hook Shot,2,26,11,POST_MOVES,,2001
+John Amaechi,680,Jump Shot,2,292,81,JUMP_SHOTS,,2001
+John Amaechi,680,Reverse Layup,2,17,8,LAYUPS,,2001
+John Amaechi,680,Running Hook Shot,2,9,6,POST_MOVES,,2001
+John Amaechi,680,Running Jump Shot,2,7,4,JUMP_SHOTS,,2001
+John Amaechi,680,Standard Dunk,2,10,9,DUNKS,,2001
+John Amaechi,680,Standard Layup,2,136,63,LAYUPS,,2001
+John Amaechi,680,Tip Shot,2,9,3,TIP_SHOTS,,2001
+John Amaechi,680,Turnaround Hook Shot,2,3,1,POST_MOVES,,2001
+John Amaechi,680,Turnaround Jump Shot,2,22,8,JUMP_SHOTS,,2001
+John Amaechi,680,Driving Layup,2,8,4,LAYUPS,,2002
+John Amaechi,680,Hook Shot,2,11,4,POST_MOVES,,2002
+John Amaechi,680,Jump Shot,2,70,13,JUMP_SHOTS,,2002
+John Amaechi,680,Reverse Layup,2,5,4,LAYUPS,,2002
+John Amaechi,680,Running Hook Shot,2,3,1,POST_MOVES,,2002
+John Amaechi,680,Running Jump Shot,2,3,0,JUMP_SHOTS,,2002
+John Amaechi,680,Standard Dunk,2,5,4,DUNKS,,2002
+John Amaechi,680,Standard Layup,2,54,23,LAYUPS,,2002
+John Amaechi,680,Tip Shot,2,7,1,TIP_SHOTS,,2002
+John Amaechi,680,Driving Layup,2,7,3,LAYUPS,,2003
+John Amaechi,680,Fadeaway Jump Shot,2,2,2,JUMP_SHOTS,,2003
+John Amaechi,680,Hook Shot,2,1,0,POST_MOVES,,2003
+John Amaechi,680,Jump Shot,2,46,6,JUMP_SHOTS,,2003
+John Amaechi,680,Reverse Layup,2,5,4,LAYUPS,,2003
+John Amaechi,680,Running Hook Shot,2,1,1,POST_MOVES,,2003
+John Amaechi,680,Running Jump Shot,2,1,1,JUMP_SHOTS,,2003
+John Amaechi,680,Standard Dunk,2,1,1,DUNKS,,2003
+John Amaechi,680,Standard Layup,2,47,18,LAYUPS,,2003
+John Amaechi,680,Tip Shot,2,6,1,TIP_SHOTS,,2003
+John Amaechi,680,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2003

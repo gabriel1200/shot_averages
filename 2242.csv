@@ -1,37 +1,33 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Terence Morris,2242,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2002
-Terence Morris,2242,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2002
-Terence Morris,2242,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2002
-Terence Morris,2242,Finger Roll,2,1,0,Driving Finger Roll Shot,LAYUPS,,2002
-Terence Morris,2242,Driving Layup,2,12,7,Driving Layup Shot,LAYUPS,,2002
-Terence Morris,2242,Standard Dunk,2,13,13,Dunk Shot,DUNKS,,2002
-Terence Morris,2242,Finger Roll,2,1,0,Finger Roll Shot,LAYUPS,,2002
-Terence Morris,2242,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2002
-Terence Morris,2242,Hook Shot,2,3,0,Hook Shot,POST_MOVES,,2002
-Terence Morris,2242,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2002
-Terence Morris,2242,Jump Shot,2,186,55,Jump Shot,JUMP_SHOTS,,2002
-Terence Morris,2242,Standard Layup,2,45,21,Layup Shot,LAYUPS,,2002
-Terence Morris,2242,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2002
-Terence Morris,2242,Running Jump Shot,2,3,0,Running Jump Shot,JUMP_SHOTS,,2002
-Terence Morris,2242,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2002
-Terence Morris,2242,Tip Shot,2,10,6,Tip Shot,TIP_SHOTS,,2002
-Terence Morris,2242,Turnaround Jump Shot,2,5,1,Turnaround Jump Shot,JUMP_SHOTS,,2002
-Terence Morris,2242,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2003
-Terence Morris,2242,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2003
-Terence Morris,2242,Driving Layup,2,2,1,Driving Layup Shot,LAYUPS,,2003
-Terence Morris,2242,Standard Dunk,2,5,3,Dunk Shot,DUNKS,,2003
-Terence Morris,2242,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2003
-Terence Morris,2242,Specialty Dunk,2,2,2,Follow Up Dunk Shot,DUNKS,,2003
-Terence Morris,2242,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2003
-Terence Morris,2242,Jump Shot,2,118,47,Jump Shot,JUMP_SHOTS,,2003
-Terence Morris,2242,Standard Layup,2,28,18,Layup Shot,LAYUPS,,2003
-Terence Morris,2242,Reverse Layup,2,4,3,Reverse Layup Shot,LAYUPS,,2003
-Terence Morris,2242,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2003
-Terence Morris,2242,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2003
-Terence Morris,2242,Tip Shot,2,7,2,Tip Shot,TIP_SHOTS,,2003
-Terence Morris,2242,Turnaround Jump Shot,2,3,2,Turnaround Jump Shot,JUMP_SHOTS,,2003
-Terence Morris,2242,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2006
-Terence Morris,2242,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2006
-Terence Morris,2242,Jump Shot,2,38,10,Jump Shot,JUMP_SHOTS,,2006
-Terence Morris,2242,Standard Layup,2,7,4,Layup Shot,LAYUPS,,2006
-Terence Morris,2242,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2006
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Terence Morris,2242,Alley Oop Dunk,2,1,1,DUNKS,,2002
+Terence Morris,2242,Alley Oop Layup,2,2,1,LAYUPS,,2002
+Terence Morris,2242,Driving Dunk,2,1,1,DUNKS,,2002
+Terence Morris,2242,Driving Layup,2,12,7,LAYUPS,,2002
+Terence Morris,2242,Finger Roll,2,2,0,LAYUPS,,2002
+Terence Morris,2242,Hook Shot,2,4,0,POST_MOVES,,2002
+Terence Morris,2242,Jump Shot,2,186,55,JUMP_SHOTS,,2002
+Terence Morris,2242,Reverse Layup,2,2,2,LAYUPS,,2002
+Terence Morris,2242,Running Jump Shot,2,3,0,JUMP_SHOTS,,2002
+Terence Morris,2242,Specialty Dunk,2,1,1,DUNKS,,2002
+Terence Morris,2242,Standard Dunk,2,15,15,DUNKS,,2002
+Terence Morris,2242,Standard Layup,2,45,21,LAYUPS,,2002
+Terence Morris,2242,Tip Shot,2,10,6,TIP_SHOTS,,2002
+Terence Morris,2242,Turnaround Jump Shot,2,5,1,JUMP_SHOTS,,2002
+Terence Morris,2242,Alley Oop Dunk,2,1,1,DUNKS,,2003
+Terence Morris,2242,Driving Dunk,2,1,1,DUNKS,,2003
+Terence Morris,2242,Driving Layup,2,2,1,LAYUPS,,2003
+Terence Morris,2242,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2003
+Terence Morris,2242,Hook Shot,2,1,0,POST_MOVES,,2003
+Terence Morris,2242,Jump Shot,2,118,47,JUMP_SHOTS,,2003
+Terence Morris,2242,Reverse Layup,2,4,3,LAYUPS,,2003
+Terence Morris,2242,Running Jump Shot,2,2,1,JUMP_SHOTS,,2003
+Terence Morris,2242,Specialty Dunk,2,2,2,DUNKS,,2003
+Terence Morris,2242,Standard Dunk,2,6,4,DUNKS,,2003
+Terence Morris,2242,Standard Layup,2,28,18,LAYUPS,,2003
+Terence Morris,2242,Tip Shot,2,7,2,TIP_SHOTS,,2003
+Terence Morris,2242,Turnaround Jump Shot,2,3,2,JUMP_SHOTS,,2003
+Terence Morris,2242,Driving Layup,2,1,1,LAYUPS,,2006
+Terence Morris,2242,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2006
+Terence Morris,2242,Jump Shot,2,38,10,JUMP_SHOTS,,2006
+Terence Morris,2242,Standard Layup,2,7,4,LAYUPS,,2006
+Terence Morris,2242,Tip Shot,2,2,1,TIP_SHOTS,,2006

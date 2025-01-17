@@ -1,10 +1,9 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Jordan Hall,1631160,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2023
-Jordan Hall,1631160,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2023
-Jordan Hall,1631160,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
-Jordan Hall,1631160,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2023
-Jordan Hall,1631160,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2023
-Jordan Hall,1631160,Jump Shot,2,15,3,Jump Shot,JUMP_SHOTS,,2023
-Jordan Hall,1631160,Pullup Jump Shot,2,6,3,Pullup Jump shot,JUMP_SHOTS,,2023
-Jordan Hall,1631160,Standard Dunk,2,1,0,Running Dunk Shot,DUNKS,,2023
-Jordan Hall,1631160,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2023
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Jordan Hall,1631160,Driving Layup,2,1,1,LAYUPS,,2023
+Jordan Hall,1631160,Finger Roll,2,1,1,LAYUPS,,2023
+Jordan Hall,1631160,Floating Jump Shot,2,2,0,FLOATING_SHOTS,,2023
+Jordan Hall,1631160,Jump Shot,2,15,3,JUMP_SHOTS,,2023
+Jordan Hall,1631160,Pullup Jump Shot,2,6,3,JUMP_SHOTS,,2023
+Jordan Hall,1631160,Running Jump Shot,2,1,0,JUMP_SHOTS,,2023
+Jordan Hall,1631160,Standard Dunk,2,1,0,DUNKS,,2023
+Jordan Hall,1631160,Standard Layup,2,1,1,LAYUPS,,2023

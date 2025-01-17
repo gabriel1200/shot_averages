@@ -1,51 +1,48 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Tim Hardaway,896,Driving Layup,2,134,104,Driving Layup Shot,LAYUPS,,1997
-Tim Hardaway,896,Hook Shot,2,11,6,Hook Shot,POST_MOVES,,1997
-Tim Hardaway,896,Jump Shot,2,1020,366,Jump Shot,JUMP_SHOTS,,1997
-Tim Hardaway,896,Standard Layup,2,143,48,Layup Shot,LAYUPS,,1997
-Tim Hardaway,896,Running Jump Shot,2,75,50,Running Jump Shot,JUMP_SHOTS,,1997
-Tim Hardaway,896,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,1997
-Tim Hardaway,896,Driving Layup,2,147,102,Driving Layup Shot,LAYUPS,,1998
-Tim Hardaway,896,Hook Shot,2,29,11,Hook Shot,POST_MOVES,,1998
-Tim Hardaway,896,Jump Shot,2,908,340,Jump Shot,JUMP_SHOTS,,1998
-Tim Hardaway,896,Standard Layup,2,112,49,Layup Shot,LAYUPS,,1998
-Tim Hardaway,896,Running Jump Shot,2,98,56,Running Jump Shot,JUMP_SHOTS,,1998
-Tim Hardaway,896,Tip Shot,2,2,0,Tip Shot,TIP_SHOTS,,1998
-Tim Hardaway,896,Driving Layup,2,67,39,Driving Layup Shot,LAYUPS,,1999
-Tim Hardaway,896,Hook Shot,2,12,7,Hook Shot,POST_MOVES,,1999
-Tim Hardaway,896,Jump Shot,2,587,210,Jump Shot,JUMP_SHOTS,,1999
-Tim Hardaway,896,Standard Layup,2,47,26,Layup Shot,LAYUPS,,1999
-Tim Hardaway,896,Running Jump Shot,2,39,19,Running Jump Shot,JUMP_SHOTS,,1999
-Tim Hardaway,896,Driving Layup,2,47,29,Driving Layup Shot,LAYUPS,,2000
-Tim Hardaway,896,Hook Shot,2,10,2,Hook Shot,POST_MOVES,,2000
-Tim Hardaway,896,Jump Shot,2,506,179,Jump Shot,JUMP_SHOTS,,2000
-Tim Hardaway,896,Standard Layup,2,36,15,Layup Shot,LAYUPS,,2000
-Tim Hardaway,896,Running Jump Shot,2,38,21,Running Jump Shot,JUMP_SHOTS,,2000
-Tim Hardaway,896,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2000
-Tim Hardaway,896,Driving Layup,2,58,32,Driving Layup Shot,LAYUPS,,2001
-Tim Hardaway,896,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2001
-Tim Hardaway,896,Hook Shot,2,10,1,Hook Shot,POST_MOVES,,2001
-Tim Hardaway,896,Jump Shot,2,879,328,Jump Shot,JUMP_SHOTS,,2001
-Tim Hardaway,896,Standard Layup,2,41,17,Layup Shot,LAYUPS,,2001
-Tim Hardaway,896,Reverse Layup,2,6,3,Reverse Layup Shot,LAYUPS,,2001
-Tim Hardaway,896,Running Hook Shot,2,3,2,Running Hook Shot,POST_MOVES,,2001
-Tim Hardaway,896,Running Jump Shot,2,40,21,Running Jump Shot,JUMP_SHOTS,,2001
-Tim Hardaway,896,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2001
-Tim Hardaway,896,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2001
-Tim Hardaway,896,Finger Roll,2,1,0,Driving Finger Roll Shot,LAYUPS,,2002
-Tim Hardaway,896,Driving Layup,2,32,17,Driving Layup Shot,LAYUPS,,2002
-Tim Hardaway,896,Fadeaway Jump Shot,2,8,7,Fadeaway Jump Shot,JUMP_SHOTS,,2002
-Tim Hardaway,896,Finger Roll,2,2,1,Finger Roll Shot,LAYUPS,,2002
-Tim Hardaway,896,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2002
-Tim Hardaway,896,Jump Shot,2,518,183,Jump Shot,JUMP_SHOTS,,2002
-Tim Hardaway,896,Standard Layup,2,36,7,Layup Shot,LAYUPS,,2002
-Tim Hardaway,896,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2002
-Tim Hardaway,896,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2002
-Tim Hardaway,896,Running Jump Shot,2,9,4,Running Jump Shot,JUMP_SHOTS,,2002
-Tim Hardaway,896,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2002
-Tim Hardaway,896,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2002
-Tim Hardaway,896,Turnaround Jump Shot,2,5,2,Turnaround Jump Shot,JUMP_SHOTS,,2002
-Tim Hardaway,896,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2003
-Tim Hardaway,896,Finger Roll,2,3,3,Finger Roll Shot,LAYUPS,,2003
-Tim Hardaway,896,Jump Shot,2,42,13,Jump Shot,JUMP_SHOTS,,2003
-Tim Hardaway,896,Standard Layup,2,3,1,Layup Shot,LAYUPS,,2003
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Tim Hardaway,896,Driving Layup,2,134,104,LAYUPS,,1997
+Tim Hardaway,896,Hook Shot,2,11,6,POST_MOVES,,1997
+Tim Hardaway,896,Jump Shot,2,1020,366,JUMP_SHOTS,,1997
+Tim Hardaway,896,Running Jump Shot,2,75,50,JUMP_SHOTS,,1997
+Tim Hardaway,896,Standard Layup,2,143,48,LAYUPS,,1997
+Tim Hardaway,896,Tip Shot,2,1,1,TIP_SHOTS,,1997
+Tim Hardaway,896,Driving Layup,2,147,102,LAYUPS,,1998
+Tim Hardaway,896,Hook Shot,2,29,11,POST_MOVES,,1998
+Tim Hardaway,896,Jump Shot,2,908,340,JUMP_SHOTS,,1998
+Tim Hardaway,896,Running Jump Shot,2,98,56,JUMP_SHOTS,,1998
+Tim Hardaway,896,Standard Layup,2,112,49,LAYUPS,,1998
+Tim Hardaway,896,Tip Shot,2,2,0,TIP_SHOTS,,1998
+Tim Hardaway,896,Driving Layup,2,67,39,LAYUPS,,1999
+Tim Hardaway,896,Hook Shot,2,12,7,POST_MOVES,,1999
+Tim Hardaway,896,Jump Shot,2,587,210,JUMP_SHOTS,,1999
+Tim Hardaway,896,Running Jump Shot,2,39,19,JUMP_SHOTS,,1999
+Tim Hardaway,896,Standard Layup,2,47,26,LAYUPS,,1999
+Tim Hardaway,896,Driving Layup,2,47,29,LAYUPS,,2000
+Tim Hardaway,896,Hook Shot,2,10,2,POST_MOVES,,2000
+Tim Hardaway,896,Jump Shot,2,506,179,JUMP_SHOTS,,2000
+Tim Hardaway,896,Running Jump Shot,2,38,21,JUMP_SHOTS,,2000
+Tim Hardaway,896,Standard Layup,2,36,15,LAYUPS,,2000
+Tim Hardaway,896,Tip Shot,2,1,0,TIP_SHOTS,,2000
+Tim Hardaway,896,Driving Layup,2,58,32,LAYUPS,,2001
+Tim Hardaway,896,Finger Roll,2,1,1,LAYUPS,,2001
+Tim Hardaway,896,Hook Shot,2,10,1,POST_MOVES,,2001
+Tim Hardaway,896,Jump Shot,2,879,328,JUMP_SHOTS,,2001
+Tim Hardaway,896,Reverse Layup,2,6,3,LAYUPS,,2001
+Tim Hardaway,896,Running Hook Shot,2,3,2,POST_MOVES,,2001
+Tim Hardaway,896,Running Jump Shot,2,40,21,JUMP_SHOTS,,2001
+Tim Hardaway,896,Standard Layup,2,43,19,LAYUPS,,2001
+Tim Hardaway,896,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2001
+Tim Hardaway,896,Driving Layup,2,32,17,LAYUPS,,2002
+Tim Hardaway,896,Fadeaway Jump Shot,2,8,7,JUMP_SHOTS,,2002
+Tim Hardaway,896,Finger Roll,2,3,1,LAYUPS,,2002
+Tim Hardaway,896,Hook Shot,2,1,1,POST_MOVES,,2002
+Tim Hardaway,896,Jump Shot,2,518,183,JUMP_SHOTS,,2002
+Tim Hardaway,896,Reverse Layup,2,3,1,LAYUPS,,2002
+Tim Hardaway,896,Running Hook Shot,2,1,0,POST_MOVES,,2002
+Tim Hardaway,896,Running Jump Shot,2,9,4,JUMP_SHOTS,,2002
+Tim Hardaway,896,Standard Layup,2,39,9,LAYUPS,,2002
+Tim Hardaway,896,Tip Shot,2,1,1,TIP_SHOTS,,2002
+Tim Hardaway,896,Turnaround Jump Shot,2,5,2,JUMP_SHOTS,,2002
+Tim Hardaway,896,Driving Layup,2,1,1,LAYUPS,,2003
+Tim Hardaway,896,Finger Roll,2,3,3,LAYUPS,,2003
+Tim Hardaway,896,Jump Shot,2,42,13,JUMP_SHOTS,,2003
+Tim Hardaway,896,Standard Layup,2,3,1,LAYUPS,,2003

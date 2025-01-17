@@ -1,45 +1,39 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Zendon Hamilton,1985,Driving Layup,2,3,0,Driving Layup Shot,LAYUPS,,2001
-Zendon Hamilton,1985,Jump Shot,2,2,0,Jump Shot,JUMP_SHOTS,,2001
-Zendon Hamilton,1985,Standard Layup,2,3,1,Layup Shot,LAYUPS,,2001
-Zendon Hamilton,1985,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2001
-Zendon Hamilton,1985,Driving Layup,2,10,5,Driving Layup Shot,LAYUPS,,2002
-Zendon Hamilton,1985,Standard Dunk,2,15,11,Dunk Shot,DUNKS,,2002
-Zendon Hamilton,1985,Fadeaway Jump Shot,2,3,0,Fadeaway Jump Shot,JUMP_SHOTS,,2002
-Zendon Hamilton,1985,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2002
-Zendon Hamilton,1985,Specialty Dunk,2,2,2,Follow Up Dunk Shot,DUNKS,,2002
-Zendon Hamilton,1985,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2002
-Zendon Hamilton,1985,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2002
-Zendon Hamilton,1985,Jump Shot,2,86,22,Jump Shot,JUMP_SHOTS,,2002
-Zendon Hamilton,1985,Standard Layup,2,81,36,Layup Shot,LAYUPS,,2002
-Zendon Hamilton,1985,Reverse Layup,2,8,3,Reverse Layup Shot,LAYUPS,,2002
-Zendon Hamilton,1985,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2002
-Zendon Hamilton,1985,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2002
-Zendon Hamilton,1985,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2002
-Zendon Hamilton,1985,Standard Dunk,2,11,11,Slam Dunk Shot,DUNKS,,2002
-Zendon Hamilton,1985,Tip Shot,2,22,8,Tip Shot,TIP_SHOTS,,2002
-Zendon Hamilton,1985,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2003
-Zendon Hamilton,1985,Driving Layup,2,2,1,Driving Layup Shot,LAYUPS,,2003
-Zendon Hamilton,1985,Standard Layup,2,2,1,Layup Shot,LAYUPS,,2003
-Zendon Hamilton,1985,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2004
-Zendon Hamilton,1985,Driving Layup,2,3,3,Driving Layup Shot,LAYUPS,,2004
-Zendon Hamilton,1985,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2004
-Zendon Hamilton,1985,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2004
-Zendon Hamilton,1985,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2004
-Zendon Hamilton,1985,Jump Shot,2,3,3,Jump Bank Shot,JUMP_SHOTS,,2004
-Zendon Hamilton,1985,Jump Shot,2,17,7,Jump Shot,JUMP_SHOTS,,2004
-Zendon Hamilton,1985,Standard Layup,2,55,24,Layup Shot,LAYUPS,,2004
-Zendon Hamilton,1985,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2004
-Zendon Hamilton,1985,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2004
-Zendon Hamilton,1985,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2004
-Zendon Hamilton,1985,Tip Shot,2,5,2,Tip Shot,TIP_SHOTS,,2004
-Zendon Hamilton,1985,Jump Shot,2,9,2,Jump Shot,JUMP_SHOTS,,2005
-Zendon Hamilton,1985,Standard Layup,2,21,7,Layup Shot,LAYUPS,,2005
-Zendon Hamilton,1985,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2005
-Zendon Hamilton,1985,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2005
-Zendon Hamilton,1985,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2006
-Zendon Hamilton,1985,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2006
-Zendon Hamilton,1985,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2006
-Zendon Hamilton,1985,Jump Shot,2,2,1,Jump Shot,JUMP_SHOTS,,2006
-Zendon Hamilton,1985,Standard Layup,2,8,3,Layup Shot,LAYUPS,,2006
-Zendon Hamilton,1985,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2006
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Zendon Hamilton,1985,Driving Layup,2,3,0,LAYUPS,,2001
+Zendon Hamilton,1985,Jump Shot,2,2,0,JUMP_SHOTS,,2001
+Zendon Hamilton,1985,Standard Layup,2,3,1,LAYUPS,,2001
+Zendon Hamilton,1985,Tip Shot,2,1,1,TIP_SHOTS,,2001
+Zendon Hamilton,1985,Driving Layup,2,10,5,LAYUPS,,2002
+Zendon Hamilton,1985,Fadeaway Jump Shot,2,3,0,JUMP_SHOTS,,2002
+Zendon Hamilton,1985,Finger Roll,2,1,1,LAYUPS,,2002
+Zendon Hamilton,1985,Hook Shot,2,2,2,POST_MOVES,,2002
+Zendon Hamilton,1985,Jump Shot,2,86,22,JUMP_SHOTS,,2002
+Zendon Hamilton,1985,Reverse Layup,2,8,3,LAYUPS,,2002
+Zendon Hamilton,1985,Running Jump Shot,2,2,0,JUMP_SHOTS,,2002
+Zendon Hamilton,1985,Specialty Dunk,2,2,2,DUNKS,,2002
+Zendon Hamilton,1985,Standard Dunk,2,27,23,DUNKS,,2002
+Zendon Hamilton,1985,Standard Layup,2,82,37,LAYUPS,,2002
+Zendon Hamilton,1985,Tip Shot,2,22,8,TIP_SHOTS,,2002
+Zendon Hamilton,1985,Alley Oop Layup,2,1,0,LAYUPS,,2003
+Zendon Hamilton,1985,Driving Layup,2,2,1,LAYUPS,,2003
+Zendon Hamilton,1985,Standard Layup,2,2,1,LAYUPS,,2003
+Zendon Hamilton,1985,Alley Oop Dunk,2,1,1,DUNKS,,2004
+Zendon Hamilton,1985,Driving Layup,2,3,3,LAYUPS,,2004
+Zendon Hamilton,1985,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2004
+Zendon Hamilton,1985,Hook Shot,2,1,1,POST_MOVES,,2004
+Zendon Hamilton,1985,Jump Shot,2,20,10,JUMP_SHOTS,,2004
+Zendon Hamilton,1985,Reverse Layup,2,1,1,LAYUPS,,2004
+Zendon Hamilton,1985,Running Jump Shot,2,1,1,JUMP_SHOTS,,2004
+Zendon Hamilton,1985,Standard Dunk,2,7,7,DUNKS,,2004
+Zendon Hamilton,1985,Standard Layup,2,55,24,LAYUPS,,2004
+Zendon Hamilton,1985,Tip Shot,2,5,2,TIP_SHOTS,,2004
+Zendon Hamilton,1985,Jump Shot,2,9,2,JUMP_SHOTS,,2005
+Zendon Hamilton,1985,Running Hook Shot,2,1,1,POST_MOVES,,2005
+Zendon Hamilton,1985,Standard Layup,2,21,7,LAYUPS,,2005
+Zendon Hamilton,1985,Tip Shot,2,1,1,TIP_SHOTS,,2005
+Zendon Hamilton,1985,Driving Layup,2,1,1,LAYUPS,,2006
+Zendon Hamilton,1985,Hook Shot,2,1,0,POST_MOVES,,2006
+Zendon Hamilton,1985,Jump Shot,2,2,1,JUMP_SHOTS,,2006
+Zendon Hamilton,1985,Standard Dunk,2,1,1,DUNKS,,2006
+Zendon Hamilton,1985,Standard Layup,2,8,3,LAYUPS,,2006
+Zendon Hamilton,1985,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2006

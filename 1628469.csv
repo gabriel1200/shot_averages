@@ -1,47 +1,30 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Antonio Blakeney,1628469,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2018
-Antonio Blakeney,1628469,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2018
-Antonio Blakeney,1628469,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
-Antonio Blakeney,1628469,Floating Jump Shot,2,2,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
-Antonio Blakeney,1628469,Driving Layup,2,7,1,Driving Layup Shot,LAYUPS,,2018
-Antonio Blakeney,1628469,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2018
-Antonio Blakeney,1628469,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2018
-Antonio Blakeney,1628469,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2018
-Antonio Blakeney,1628469,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2018
-Antonio Blakeney,1628469,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2018
-Antonio Blakeney,1628469,Jump Shot,2,69,19,Jump Shot,JUMP_SHOTS,,2018
-Antonio Blakeney,1628469,Standard Layup,2,7,3,Layup Shot,LAYUPS,,2018
-Antonio Blakeney,1628469,Pullup Jump Shot,2,34,16,Pullup Jump shot,JUMP_SHOTS,,2018
-Antonio Blakeney,1628469,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2018
-Antonio Blakeney,1628469,Running Jump Shot,2,4,1,Running Jump Shot,JUMP_SHOTS,,2018
-Antonio Blakeney,1628469,Standard Layup,2,5,4,Running Layup Shot,LAYUPS,,2018
-Antonio Blakeney,1628469,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2018
-Antonio Blakeney,1628469,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2018
-Antonio Blakeney,1628469,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2019
-Antonio Blakeney,1628469,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2019
-Antonio Blakeney,1628469,Standard Layup,2,4,3,Cutting Layup Shot,LAYUPS,,2019
-Antonio Blakeney,1628469,Driving Hook Shot,2,1,0,Driving Bank Hook Shot,POST_MOVES,,2019
-Antonio Blakeney,1628469,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2019
-Antonio Blakeney,1628469,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2019
-Antonio Blakeney,1628469,Floating Jump Shot,2,4,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
-Antonio Blakeney,1628469,Floating Jump Shot,2,35,12,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
-Antonio Blakeney,1628469,Driving Layup,2,35,19,Driving Layup Shot,LAYUPS,,2019
-Antonio Blakeney,1628469,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2019
-Antonio Blakeney,1628469,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2019
-Antonio Blakeney,1628469,Fadeaway Jump Shot,2,10,3,Fadeaway Jump Shot,JUMP_SHOTS,,2019
-Antonio Blakeney,1628469,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2019
-Antonio Blakeney,1628469,Floating Jump Shot,2,16,8,Floating Jump shot,FLOATING_SHOTS,,2019
-Antonio Blakeney,1628469,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2019
-Antonio Blakeney,1628469,Jump Shot,2,132,47,Jump Shot,JUMP_SHOTS,,2019
-Antonio Blakeney,1628469,Jump Shot,3,1,1,Jump Shot,JUMP_SHOTS,,2019
-Antonio Blakeney,1628469,Standard Layup,2,3,1,Layup Shot,LAYUPS,,2019
-Antonio Blakeney,1628469,Pullup Jump Shot,2,107,46,Pullup Jump shot,JUMP_SHOTS,,2019
-Antonio Blakeney,1628469,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2019
-Antonio Blakeney,1628469,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2019
-Antonio Blakeney,1628469,Standard Dunk,2,5,5,Running Dunk Shot,DUNKS,,2019
-Antonio Blakeney,1628469,Finger Roll,2,2,2,Running Finger Roll Layup Shot,LAYUPS,,2019
-Antonio Blakeney,1628469,Running Jump Shot,2,6,1,Running Jump Shot,JUMP_SHOTS,,2019
-Antonio Blakeney,1628469,Standard Layup,2,5,2,Running Layup Shot,LAYUPS,,2019
-Antonio Blakeney,1628469,Running Jump Shot,2,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2019
-Antonio Blakeney,1628469,Step Back Jump Shot,2,12,4,Step Back Jump shot,JUMP_SHOTS,,2019
-Antonio Blakeney,1628469,Putback Layup,2,2,0,Tip Layup Shot,LAYUPS,,2019
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Antonio Blakeney,1628469,Alley Oop Dunk,2,1,1,DUNKS,,2018
+Antonio Blakeney,1628469,Driving Dunk,2,1,1,DUNKS,,2018
+Antonio Blakeney,1628469,Driving Layup,2,7,1,LAYUPS,,2018
+Antonio Blakeney,1628469,Fadeaway Jump Shot,2,2,0,JUMP_SHOTS,,2018
+Antonio Blakeney,1628469,Finger Roll,2,1,0,LAYUPS,,2018
+Antonio Blakeney,1628469,Floating Jump Shot,2,4,1,FLOATING_SHOTS,,2018
+Antonio Blakeney,1628469,Jump Shot,2,70,19,JUMP_SHOTS,,2018
+Antonio Blakeney,1628469,Pullup Jump Shot,2,34,16,JUMP_SHOTS,,2018
+Antonio Blakeney,1628469,Running Jump Shot,2,5,2,JUMP_SHOTS,,2018
+Antonio Blakeney,1628469,Standard Dunk,2,5,5,DUNKS,,2018
+Antonio Blakeney,1628469,Standard Layup,2,12,7,LAYUPS,,2018
+Antonio Blakeney,1628469,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2018
+Antonio Blakeney,1628469,Alley Oop Layup,2,1,0,LAYUPS,,2019
+Antonio Blakeney,1628469,Driving Dunk,2,1,1,DUNKS,,2019
+Antonio Blakeney,1628469,Driving Hook Shot,2,1,0,POST_MOVES,,2019
+Antonio Blakeney,1628469,Driving Layup,2,38,21,LAYUPS,,2019
+Antonio Blakeney,1628469,Fadeaway Jump Shot,2,10,3,JUMP_SHOTS,,2019
+Antonio Blakeney,1628469,Finger Roll,2,5,4,LAYUPS,,2019
+Antonio Blakeney,1628469,Floating Jump Shot,2,55,21,FLOATING_SHOTS,,2019
+Antonio Blakeney,1628469,Jump Shot,2,134,49,JUMP_SHOTS,,2019
+Antonio Blakeney,1628469,Jump Shot,3,1,1,JUMP_SHOTS,,2019
+Antonio Blakeney,1628469,Pullup Jump Shot,2,107,46,JUMP_SHOTS,,2019
+Antonio Blakeney,1628469,Putback Layup,2,3,1,LAYUPS,,2019
+Antonio Blakeney,1628469,Reverse Layup,2,1,0,LAYUPS,,2019
+Antonio Blakeney,1628469,Running Jump Shot,2,7,1,JUMP_SHOTS,,2019
+Antonio Blakeney,1628469,Specialty Dunk,2,1,1,DUNKS,,2019
+Antonio Blakeney,1628469,Standard Dunk,2,7,7,DUNKS,,2019
+Antonio Blakeney,1628469,Standard Layup,2,12,6,LAYUPS,,2019
+Antonio Blakeney,1628469,Step Back Jump Shot,2,12,4,JUMP_SHOTS,,2019

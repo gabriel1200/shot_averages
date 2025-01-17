@@ -1,20 +1,17 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-David Benoit,128,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,1998
-David Benoit,128,Driving Layup,2,11,8,Driving Layup Shot,LAYUPS,,1998
-David Benoit,128,Standard Dunk,2,5,4,Dunk Shot,DUNKS,,1998
-David Benoit,128,Hook Shot,2,9,6,Hook Shot,POST_MOVES,,1998
-David Benoit,128,Jump Shot,2,164,49,Jump Shot,JUMP_SHOTS,,1998
-David Benoit,128,Jump Shot,3,170,55,Jump Shot,JUMP_SHOTS,,1998
-David Benoit,128,Standard Layup,2,31,16,Layup Shot,LAYUPS,,1998
-David Benoit,128,Running Jump Shot,2,7,3,Running Jump Shot,JUMP_SHOTS,,1998
-David Benoit,128,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,1998
-David Benoit,128,Tip Shot,2,4,4,Tip Shot,TIP_SHOTS,,1998
-David Benoit,128,Standard Dunk,2,7,7,Dunk Shot,DUNKS,,2001
-David Benoit,128,Jump Shot,2,91,36,Jump Shot,JUMP_SHOTS,,2001
-David Benoit,128,Jump Shot,3,13,5,Jump Shot,JUMP_SHOTS,,2001
-David Benoit,128,Standard Layup,2,27,15,Layup Shot,LAYUPS,,2001
-David Benoit,128,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2001
-David Benoit,128,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2001
-David Benoit,128,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2001
-David Benoit,128,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2001
-David Benoit,128,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+David Benoit,128,Driving Dunk,2,2,2,DUNKS,,1998
+David Benoit,128,Driving Layup,2,11,8,LAYUPS,,1998
+David Benoit,128,Hook Shot,2,9,6,POST_MOVES,,1998
+David Benoit,128,Jump Shot,2,164,49,JUMP_SHOTS,,1998
+David Benoit,128,Jump Shot,3,170,55,JUMP_SHOTS,,1998
+David Benoit,128,Running Jump Shot,2,7,3,JUMP_SHOTS,,1998
+David Benoit,128,Standard Dunk,2,10,9,DUNKS,,1998
+David Benoit,128,Standard Layup,2,31,16,LAYUPS,,1998
+David Benoit,128,Tip Shot,2,4,4,TIP_SHOTS,,1998
+David Benoit,128,Jump Shot,2,91,36,JUMP_SHOTS,,2001
+David Benoit,128,Jump Shot,3,13,5,JUMP_SHOTS,,2001
+David Benoit,128,Standard Dunk,2,11,11,DUNKS,,2001
+David Benoit,128,Standard Layup,2,28,16,LAYUPS,,2001
+David Benoit,128,Tip Shot,2,2,1,TIP_SHOTS,,2001
+David Benoit,128,Turnaround Hook Shot,2,1,1,POST_MOVES,,2001
+David Benoit,128,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2001

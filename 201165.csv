@@ -1,23 +1,20 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Morris Almond,201165,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2008
-Morris Almond,201165,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2008
-Morris Almond,201165,Jump Shot,2,10,2,Jump Shot,JUMP_SHOTS,,2008
-Morris Almond,201165,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2008
-Morris Almond,201165,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2008
-Morris Almond,201165,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2008
-Morris Almond,201165,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2009
-Morris Almond,201165,Driving Layup,2,3,2,Driving Layup Shot,LAYUPS,,2009
-Morris Almond,201165,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2009
-Morris Almond,201165,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2009
-Morris Almond,201165,Jump Shot,2,45,15,Jump Shot,JUMP_SHOTS,,2009
-Morris Almond,201165,Standard Layup,2,19,7,Layup Shot,LAYUPS,,2009
-Morris Almond,201165,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2009
-Morris Almond,201165,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2009
-Morris Almond,201165,Running Jump Shot,2,4,3,Running Jump Shot,JUMP_SHOTS,,2009
-Morris Almond,201165,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2009
-Morris Almond,201165,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2009
-Morris Almond,201165,Tip Shot,2,2,0,Tip Shot,TIP_SHOTS,,2009
-Morris Almond,201165,Jump Shot,2,12,3,Jump Shot,JUMP_SHOTS,,2012
-Morris Almond,201165,Jump Shot,3,2,1,Jump Shot,JUMP_SHOTS,,2012
-Morris Almond,201165,Standard Layup,2,2,2,Layup Shot,LAYUPS,,2012
-Morris Almond,201165,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2012
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Morris Almond,201165,Driving Layup,2,1,0,LAYUPS,,2008
+Morris Almond,201165,Jump Shot,2,10,2,JUMP_SHOTS,,2008
+Morris Almond,201165,Running Jump Shot,2,1,1,JUMP_SHOTS,,2008
+Morris Almond,201165,Standard Dunk,2,1,1,DUNKS,,2008
+Morris Almond,201165,Standard Layup,2,1,0,LAYUPS,,2008
+Morris Almond,201165,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2008
+Morris Almond,201165,Alley Oop Layup,2,1,1,LAYUPS,,2009
+Morris Almond,201165,Driving Layup,2,4,3,LAYUPS,,2009
+Morris Almond,201165,Jump Shot,2,46,15,JUMP_SHOTS,,2009
+Morris Almond,201165,Reverse Layup,2,1,0,LAYUPS,,2009
+Morris Almond,201165,Running Hook Shot,2,1,1,POST_MOVES,,2009
+Morris Almond,201165,Running Jump Shot,2,4,3,JUMP_SHOTS,,2009
+Morris Almond,201165,Standard Dunk,2,1,1,DUNKS,,2009
+Morris Almond,201165,Standard Layup,2,21,9,LAYUPS,,2009
+Morris Almond,201165,Tip Shot,2,2,0,TIP_SHOTS,,2009
+Morris Almond,201165,Jump Shot,2,12,3,JUMP_SHOTS,,2012
+Morris Almond,201165,Jump Shot,3,2,1,JUMP_SHOTS,,2012
+Morris Almond,201165,Standard Layup,2,2,2,LAYUPS,,2012
+Morris Almond,201165,Tip Shot,2,1,0,TIP_SHOTS,,2012

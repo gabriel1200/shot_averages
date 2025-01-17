@@ -1,51 +1,35 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Tyler Dorsey,1628416,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2018
-Tyler Dorsey,1628416,Standard Layup,2,5,3,Cutting Layup Shot,LAYUPS,,2018
-Tyler Dorsey,1628416,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2018
-Tyler Dorsey,1628416,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2018
-Tyler Dorsey,1628416,Floating Jump Shot,2,4,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
-Tyler Dorsey,1628416,Floating Jump Shot,2,16,5,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
-Tyler Dorsey,1628416,Driving Layup,2,49,23,Driving Layup Shot,LAYUPS,,2018
-Tyler Dorsey,1628416,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2018
-Tyler Dorsey,1628416,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2018
-Tyler Dorsey,1628416,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2018
-Tyler Dorsey,1628416,Floating Jump Shot,2,2,0,Floating Jump shot,FLOATING_SHOTS,,2018
-Tyler Dorsey,1628416,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2018
-Tyler Dorsey,1628416,Jump Shot,2,156,50,Jump Shot,JUMP_SHOTS,,2018
-Tyler Dorsey,1628416,Jump Shot,3,16,8,Jump Shot,JUMP_SHOTS,,2018
-Tyler Dorsey,1628416,Standard Layup,2,14,7,Layup Shot,LAYUPS,,2018
-Tyler Dorsey,1628416,Pullup Jump Shot,2,78,26,Pullup Jump shot,JUMP_SHOTS,,2018
-Tyler Dorsey,1628416,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2018
-Tyler Dorsey,1628416,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2018
-Tyler Dorsey,1628416,Running Jump Shot,2,7,4,Running Jump Shot,JUMP_SHOTS,,2018
-Tyler Dorsey,1628416,Standard Layup,2,6,2,Running Layup Shot,LAYUPS,,2018
-Tyler Dorsey,1628416,Running Jump Shot,2,4,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2018
-Tyler Dorsey,1628416,Step Back Jump Shot,2,9,4,Step Back Jump shot,JUMP_SHOTS,,2018
-Tyler Dorsey,1628416,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2018
-Tyler Dorsey,1628416,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2018
-Tyler Dorsey,1628416,Standard Layup,2,4,3,Cutting Layup Shot,LAYUPS,,2019
-Tyler Dorsey,1628416,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2019
-Tyler Dorsey,1628416,Floating Jump Shot,2,6,5,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
-Tyler Dorsey,1628416,Floating Jump Shot,2,13,5,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
-Tyler Dorsey,1628416,Driving Layup,2,44,20,Driving Layup Shot,LAYUPS,,2019
-Tyler Dorsey,1628416,Driving Layup,2,6,3,Driving Reverse Layup Shot,LAYUPS,,2019
-Tyler Dorsey,1628416,Floating Jump Shot,2,3,0,Floating Jump shot,FLOATING_SHOTS,,2019
-Tyler Dorsey,1628416,Jump Shot,2,97,31,Jump Shot,JUMP_SHOTS,,2019
-Tyler Dorsey,1628416,Jump Shot,3,15,5,Jump Shot,JUMP_SHOTS,,2019
-Tyler Dorsey,1628416,Standard Layup,2,6,2,Layup Shot,LAYUPS,,2019
-Tyler Dorsey,1628416,Pullup Jump Shot,2,33,15,Pullup Jump shot,JUMP_SHOTS,,2019
-Tyler Dorsey,1628416,Pullup Jump Shot,3,2,0,Pullup Jump shot,JUMP_SHOTS,,2019
-Tyler Dorsey,1628416,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2019
-Tyler Dorsey,1628416,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2019
-Tyler Dorsey,1628416,Running Jump Shot,2,9,5,Running Jump Shot,JUMP_SHOTS,,2019
-Tyler Dorsey,1628416,Running Jump Shot,3,2,1,Running Jump Shot,JUMP_SHOTS,,2019
-Tyler Dorsey,1628416,Standard Layup,2,9,8,Running Layup Shot,LAYUPS,,2019
-Tyler Dorsey,1628416,Running Jump Shot,2,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2019
-Tyler Dorsey,1628416,Step Back Jump Shot,2,5,0,Step Back Jump shot,JUMP_SHOTS,,2019
-Tyler Dorsey,1628416,Putback Layup,2,3,2,Tip Layup Shot,LAYUPS,,2019
-Tyler Dorsey,1628416,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2019
-Tyler Dorsey,1628416,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2019
-Tyler Dorsey,1628416,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2019
-Tyler Dorsey,1628416,Jump Shot,2,1,1,Jump Shot,JUMP_SHOTS,,2023
-Tyler Dorsey,1628416,Jump Shot,3,2,1,Jump Shot,JUMP_SHOTS,,2023
-Tyler Dorsey,1628416,Pullup Jump Shot,2,2,2,Pullup Jump shot,JUMP_SHOTS,,2023
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Tyler Dorsey,1628416,Alley Oop Dunk,2,1,1,DUNKS,,2018
+Tyler Dorsey,1628416,Driving Dunk,2,1,1,DUNKS,,2018
+Tyler Dorsey,1628416,Driving Layup,2,52,25,LAYUPS,,2018
+Tyler Dorsey,1628416,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2018
+Tyler Dorsey,1628416,Finger Roll,2,2,1,LAYUPS,,2018
+Tyler Dorsey,1628416,Floating Jump Shot,2,22,6,FLOATING_SHOTS,,2018
+Tyler Dorsey,1628416,Jump Shot,2,158,51,JUMP_SHOTS,,2018
+Tyler Dorsey,1628416,Jump Shot,3,16,8,JUMP_SHOTS,,2018
+Tyler Dorsey,1628416,Pullup Jump Shot,2,78,26,JUMP_SHOTS,,2018
+Tyler Dorsey,1628416,Pullup Jump Shot,3,1,0,JUMP_SHOTS,,2018
+Tyler Dorsey,1628416,Running Jump Shot,2,11,6,JUMP_SHOTS,,2018
+Tyler Dorsey,1628416,Specialty Dunk,2,1,1,DUNKS,,2018
+Tyler Dorsey,1628416,Standard Dunk,2,1,0,DUNKS,,2018
+Tyler Dorsey,1628416,Standard Layup,2,25,12,LAYUPS,,2018
+Tyler Dorsey,1628416,Step Back Jump Shot,2,9,4,JUMP_SHOTS,,2018
+Tyler Dorsey,1628416,Turnaround Jump Shot,2,3,1,JUMP_SHOTS,,2018
+Tyler Dorsey,1628416,Driving Dunk,2,1,1,DUNKS,,2019
+Tyler Dorsey,1628416,Driving Layup,2,50,23,LAYUPS,,2019
+Tyler Dorsey,1628416,Floating Jump Shot,2,22,10,FLOATING_SHOTS,,2019
+Tyler Dorsey,1628416,Jump Shot,2,97,31,JUMP_SHOTS,,2019
+Tyler Dorsey,1628416,Jump Shot,3,15,5,JUMP_SHOTS,,2019
+Tyler Dorsey,1628416,Pullup Jump Shot,2,33,15,JUMP_SHOTS,,2019
+Tyler Dorsey,1628416,Pullup Jump Shot,3,2,0,JUMP_SHOTS,,2019
+Tyler Dorsey,1628416,Putback Layup,2,4,3,LAYUPS,,2019
+Tyler Dorsey,1628416,Reverse Layup,2,1,0,LAYUPS,,2019
+Tyler Dorsey,1628416,Running Jump Shot,2,10,5,JUMP_SHOTS,,2019
+Tyler Dorsey,1628416,Running Jump Shot,3,2,1,JUMP_SHOTS,,2019
+Tyler Dorsey,1628416,Standard Layup,2,19,13,LAYUPS,,2019
+Tyler Dorsey,1628416,Step Back Jump Shot,2,5,0,JUMP_SHOTS,,2019
+Tyler Dorsey,1628416,Turnaround Hook Shot,2,1,0,POST_MOVES,,2019
+Tyler Dorsey,1628416,Turnaround Jump Shot,2,2,0,JUMP_SHOTS,,2019
+Tyler Dorsey,1628416,Jump Shot,2,1,1,JUMP_SHOTS,,2023
+Tyler Dorsey,1628416,Jump Shot,3,2,1,JUMP_SHOTS,,2023
+Tyler Dorsey,1628416,Pullup Jump Shot,2,2,2,JUMP_SHOTS,,2023

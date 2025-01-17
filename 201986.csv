@@ -1,39 +1,31 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Nando De Colo,201986,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2013
-Nando De Colo,201986,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2013
-Nando De Colo,201986,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2013
-Nando De Colo,201986,Driving Layup,2,10,7,Driving Layup Shot,LAYUPS,,2013
-Nando De Colo,201986,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2013
-Nando De Colo,201986,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2013
-Nando De Colo,201986,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2013
-Nando De Colo,201986,Floating Jump Shot,2,3,2,Floating Jump shot,FLOATING_SHOTS,,2013
-Nando De Colo,201986,Jump Shot,2,136,45,Jump Shot,JUMP_SHOTS,,2013
-Nando De Colo,201986,Jump Shot,3,10,3,Jump Shot,JUMP_SHOTS,,2013
-Nando De Colo,201986,Standard Layup,2,44,25,Layup Shot,LAYUPS,,2013
-Nando De Colo,201986,Pullup Jump Shot,2,9,5,Pullup Jump shot,JUMP_SHOTS,,2013
-Nando De Colo,201986,Pullup Jump Shot,3,1,1,Pullup Jump shot,JUMP_SHOTS,,2013
-Nando De Colo,201986,Reverse Layup,2,6,4,Reverse Layup Shot,LAYUPS,,2013
-Nando De Colo,201986,Running Jump Shot,2,5,3,Running Jump Shot,JUMP_SHOTS,,2013
-Nando De Colo,201986,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2013
-Nando De Colo,201986,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2013
-Nando De Colo,201986,Turnaround Jump Shot,2,4,1,Turnaround Jump Shot,JUMP_SHOTS,,2013
-Nando De Colo,201986,Finger Roll,2,3,1,Driving Finger Roll Layup Shot,LAYUPS,,2014
-Nando De Colo,201986,Driving Jump Shot,2,2,1,Driving Jump shot,JUMP_SHOTS,,2014
-Nando De Colo,201986,Driving Layup,2,14,10,Driving Layup Shot,LAYUPS,,2014
-Nando De Colo,201986,Driving Layup,2,2,0,Driving Reverse Layup Shot,LAYUPS,,2014
-Nando De Colo,201986,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2014
-Nando De Colo,201986,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2014
-Nando De Colo,201986,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2014
-Nando De Colo,201986,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2014
-Nando De Colo,201986,Jump Shot,2,80,24,Jump Shot,JUMP_SHOTS,,2014
-Nando De Colo,201986,Jump Shot,3,5,3,Jump Shot,JUMP_SHOTS,,2014
-Nando De Colo,201986,Standard Layup,2,20,12,Layup Shot,LAYUPS,,2014
-Nando De Colo,201986,Pullup Jump Shot,2,8,2,Pullup Jump shot,JUMP_SHOTS,,2014
-Nando De Colo,201986,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2014
-Nando De Colo,201986,Reverse Layup,2,4,3,Reverse Layup Shot,LAYUPS,,2014
-Nando De Colo,201986,Running Jump Shot,2,3,1,Running Jump Shot,JUMP_SHOTS,,2014
-Nando De Colo,201986,Standard Layup,2,2,0,Running Layup Shot,LAYUPS,,2014
-Nando De Colo,201986,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2014
-Nando De Colo,201986,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2014
-Nando De Colo,201986,Turnaround Hook Shot,3,1,0,Turnaround Hook Shot,POST_MOVES,,2014
-Nando De Colo,201986,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2014
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Nando De Colo,201986,Alley Oop Layup,2,1,0,LAYUPS,,2013
+Nando De Colo,201986,Driving Jump Shot,2,1,1,JUMP_SHOTS,,2013
+Nando De Colo,201986,Driving Layup,2,13,9,LAYUPS,,2013
+Nando De Colo,201986,Finger Roll,2,2,2,LAYUPS,,2013
+Nando De Colo,201986,Floating Jump Shot,2,3,2,FLOATING_SHOTS,,2013
+Nando De Colo,201986,Jump Shot,2,136,45,JUMP_SHOTS,,2013
+Nando De Colo,201986,Jump Shot,3,10,3,JUMP_SHOTS,,2013
+Nando De Colo,201986,Pullup Jump Shot,2,9,5,JUMP_SHOTS,,2013
+Nando De Colo,201986,Pullup Jump Shot,3,1,1,JUMP_SHOTS,,2013
+Nando De Colo,201986,Reverse Layup,2,6,4,LAYUPS,,2013
+Nando De Colo,201986,Running Jump Shot,2,5,3,JUMP_SHOTS,,2013
+Nando De Colo,201986,Standard Dunk,2,2,2,DUNKS,,2013
+Nando De Colo,201986,Standard Layup,2,47,27,LAYUPS,,2013
+Nando De Colo,201986,Tip Shot,2,1,0,TIP_SHOTS,,2013
+Nando De Colo,201986,Turnaround Jump Shot,2,4,1,JUMP_SHOTS,,2013
+Nando De Colo,201986,Driving Jump Shot,2,2,1,JUMP_SHOTS,,2014
+Nando De Colo,201986,Driving Layup,2,16,10,LAYUPS,,2014
+Nando De Colo,201986,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2014
+Nando De Colo,201986,Finger Roll,2,4,1,LAYUPS,,2014
+Nando De Colo,201986,Floating Jump Shot,2,1,1,FLOATING_SHOTS,,2014
+Nando De Colo,201986,Jump Shot,2,82,25,JUMP_SHOTS,,2014
+Nando De Colo,201986,Jump Shot,3,5,3,JUMP_SHOTS,,2014
+Nando De Colo,201986,Pullup Jump Shot,2,8,2,JUMP_SHOTS,,2014
+Nando De Colo,201986,Putback Layup,2,1,1,LAYUPS,,2014
+Nando De Colo,201986,Reverse Layup,2,5,4,LAYUPS,,2014
+Nando De Colo,201986,Running Jump Shot,2,3,1,JUMP_SHOTS,,2014
+Nando De Colo,201986,Standard Layup,2,22,12,LAYUPS,,2014
+Nando De Colo,201986,Tip Shot,2,1,1,TIP_SHOTS,,2014
+Nando De Colo,201986,Turnaround Hook Shot,3,1,0,POST_MOVES,,2014
+Nando De Colo,201986,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2014

@@ -1,49 +1,43 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Otis Thorpe,901,Driving Dunk,2,7,7,Driving Dunk Shot,DUNKS,,1997
-Otis Thorpe,901,Driving Layup,2,30,27,Driving Layup Shot,LAYUPS,,1997
-Otis Thorpe,901,Standard Dunk,2,96,86,Dunk Shot,DUNKS,,1997
-Otis Thorpe,901,Hook Shot,2,90,56,Hook Shot,POST_MOVES,,1997
-Otis Thorpe,901,Jump Shot,2,238,71,Jump Shot,JUMP_SHOTS,,1997
-Otis Thorpe,901,Standard Layup,2,262,123,Layup Shot,LAYUPS,,1997
-Otis Thorpe,901,Running Jump Shot,2,8,5,Running Jump Shot,JUMP_SHOTS,,1997
-Otis Thorpe,901,Standard Dunk,2,32,32,Slam Dunk Shot,DUNKS,,1997
-Otis Thorpe,901,Tip Shot,2,24,12,Tip Shot,TIP_SHOTS,,1997
-Otis Thorpe,901,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,1998
-Otis Thorpe,901,Driving Layup,2,39,22,Driving Layup Shot,LAYUPS,,1998
-Otis Thorpe,901,Standard Dunk,2,27,26,Dunk Shot,DUNKS,,1998
-Otis Thorpe,901,Hook Shot,2,72,36,Hook Shot,POST_MOVES,,1998
-Otis Thorpe,901,Jump Shot,2,274,76,Jump Shot,JUMP_SHOTS,,1998
-Otis Thorpe,901,Standard Layup,2,167,103,Layup Shot,LAYUPS,,1998
-Otis Thorpe,901,No Shot,2,2,0,No Shot,NO_SHOT,,1998
-Otis Thorpe,901,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,1998
-Otis Thorpe,901,Standard Dunk,2,17,16,Slam Dunk Shot,DUNKS,,1998
-Otis Thorpe,901,Tip Shot,2,21,11,Tip Shot,TIP_SHOTS,,1998
-Otis Thorpe,901,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,1999
-Otis Thorpe,901,Driving Layup,2,10,9,Driving Layup Shot,LAYUPS,,1999
-Otis Thorpe,901,Standard Dunk,2,10,10,Dunk Shot,DUNKS,,1999
-Otis Thorpe,901,Hook Shot,2,39,30,Hook Shot,POST_MOVES,,1999
-Otis Thorpe,901,Jump Shot,2,244,95,Jump Shot,JUMP_SHOTS,,1999
-Otis Thorpe,901,Standard Layup,2,115,78,Layup Shot,LAYUPS,,1999
-Otis Thorpe,901,Running Jump Shot,2,5,3,Running Jump Shot,JUMP_SHOTS,,1999
-Otis Thorpe,901,Standard Dunk,2,9,9,Slam Dunk Shot,DUNKS,,1999
-Otis Thorpe,901,Tip Shot,2,7,5,Tip Shot,TIP_SHOTS,,1999
-Otis Thorpe,901,Driving Layup,2,7,5,Driving Layup Shot,LAYUPS,,2000
-Otis Thorpe,901,Standard Dunk,2,13,11,Dunk Shot,DUNKS,,2000
-Otis Thorpe,901,Hook Shot,2,44,23,Hook Shot,POST_MOVES,,2000
-Otis Thorpe,901,Jump Shot,2,123,51,Jump Shot,JUMP_SHOTS,,2000
-Otis Thorpe,901,Standard Layup,2,47,31,Layup Shot,LAYUPS,,2000
-Otis Thorpe,901,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,2000
-Otis Thorpe,901,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2000
-Otis Thorpe,901,Tip Shot,2,6,1,Tip Shot,TIP_SHOTS,,2000
-Otis Thorpe,901,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2001
-Otis Thorpe,901,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2001
-Otis Thorpe,901,Standard Dunk,2,6,5,Dunk Shot,DUNKS,,2001
-Otis Thorpe,901,Hook Shot,2,3,3,Hook Shot,POST_MOVES,,2001
-Otis Thorpe,901,Jump Shot,2,76,22,Jump Shot,JUMP_SHOTS,,2001
-Otis Thorpe,901,Standard Layup,2,28,17,Layup Shot,LAYUPS,,2001
-Otis Thorpe,901,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2001
-Otis Thorpe,901,Finger Roll,2,1,1,Running Finger Roll Shot,LAYUPS,,2001
-Otis Thorpe,901,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2001
-Otis Thorpe,901,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2001
-Otis Thorpe,901,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2001
-Otis Thorpe,901,Tip Shot,2,10,5,Tip Shot,TIP_SHOTS,,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Otis Thorpe,901,Driving Dunk,2,7,7,DUNKS,,1997
+Otis Thorpe,901,Driving Layup,2,30,27,LAYUPS,,1997
+Otis Thorpe,901,Hook Shot,2,90,56,POST_MOVES,,1997
+Otis Thorpe,901,Jump Shot,2,238,71,JUMP_SHOTS,,1997
+Otis Thorpe,901,Running Jump Shot,2,8,5,JUMP_SHOTS,,1997
+Otis Thorpe,901,Standard Dunk,2,128,118,DUNKS,,1997
+Otis Thorpe,901,Standard Layup,2,262,123,LAYUPS,,1997
+Otis Thorpe,901,Tip Shot,2,24,12,TIP_SHOTS,,1997
+Otis Thorpe,901,Driving Dunk,2,3,3,DUNKS,,1998
+Otis Thorpe,901,Driving Layup,2,39,22,LAYUPS,,1998
+Otis Thorpe,901,Hook Shot,2,72,36,POST_MOVES,,1998
+Otis Thorpe,901,Jump Shot,2,274,76,JUMP_SHOTS,,1998
+Otis Thorpe,901,No Shot,2,2,0,NO_SHOT,,1998
+Otis Thorpe,901,Running Jump Shot,2,2,1,JUMP_SHOTS,,1998
+Otis Thorpe,901,Standard Dunk,2,44,42,DUNKS,,1998
+Otis Thorpe,901,Standard Layup,2,167,103,LAYUPS,,1998
+Otis Thorpe,901,Tip Shot,2,21,11,TIP_SHOTS,,1998
+Otis Thorpe,901,Driving Dunk,2,1,1,DUNKS,,1999
+Otis Thorpe,901,Driving Layup,2,10,9,LAYUPS,,1999
+Otis Thorpe,901,Hook Shot,2,39,30,POST_MOVES,,1999
+Otis Thorpe,901,Jump Shot,2,244,95,JUMP_SHOTS,,1999
+Otis Thorpe,901,Running Jump Shot,2,5,3,JUMP_SHOTS,,1999
+Otis Thorpe,901,Standard Dunk,2,19,19,DUNKS,,1999
+Otis Thorpe,901,Standard Layup,2,115,78,LAYUPS,,1999
+Otis Thorpe,901,Tip Shot,2,7,5,TIP_SHOTS,,1999
+Otis Thorpe,901,Driving Layup,2,7,5,LAYUPS,,2000
+Otis Thorpe,901,Hook Shot,2,44,23,POST_MOVES,,2000
+Otis Thorpe,901,Jump Shot,2,123,51,JUMP_SHOTS,,2000
+Otis Thorpe,901,Running Jump Shot,2,2,2,JUMP_SHOTS,,2000
+Otis Thorpe,901,Standard Dunk,2,14,12,DUNKS,,2000
+Otis Thorpe,901,Standard Layup,2,47,31,LAYUPS,,2000
+Otis Thorpe,901,Tip Shot,2,6,1,TIP_SHOTS,,2000
+Otis Thorpe,901,Driving Dunk,2,1,1,DUNKS,,2001
+Otis Thorpe,901,Driving Layup,2,1,1,LAYUPS,,2001
+Otis Thorpe,901,Finger Roll,2,1,1,LAYUPS,,2001
+Otis Thorpe,901,Hook Shot,2,3,3,POST_MOVES,,2001
+Otis Thorpe,901,Jump Shot,2,76,22,JUMP_SHOTS,,2001
+Otis Thorpe,901,Reverse Layup,2,2,2,LAYUPS,,2001
+Otis Thorpe,901,Running Hook Shot,2,1,0,POST_MOVES,,2001
+Otis Thorpe,901,Standard Dunk,2,7,6,DUNKS,,2001
+Otis Thorpe,901,Standard Layup,2,29,18,LAYUPS,,2001
+Otis Thorpe,901,Tip Shot,2,10,5,TIP_SHOTS,,2001

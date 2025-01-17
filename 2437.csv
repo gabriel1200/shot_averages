@@ -1,49 +1,39 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Lonny Baxter,2437,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2003
-Lonny Baxter,2437,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,2003
-Lonny Baxter,2437,Standard Dunk,2,10,10,Dunk Shot,DUNKS,,2003
-Lonny Baxter,2437,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2003
-Lonny Baxter,2437,Hook Shot,2,6,2,Hook Shot,POST_MOVES,,2003
-Lonny Baxter,2437,Hook Shot,2,5,3,Jump Hook Shot,POST_MOVES,,2003
-Lonny Baxter,2437,Jump Shot,2,62,14,Jump Shot,JUMP_SHOTS,,2003
-Lonny Baxter,2437,Standard Layup,2,95,46,Layup Shot,LAYUPS,,2003
-Lonny Baxter,2437,Reverse Layup,2,6,4,Reverse Layup Shot,LAYUPS,,2003
-Lonny Baxter,2437,Running Jump Shot,2,3,3,Running Jump Shot,JUMP_SHOTS,,2003
-Lonny Baxter,2437,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2003
-Lonny Baxter,2437,Tip Shot,2,12,7,Tip Shot,TIP_SHOTS,,2003
-Lonny Baxter,2437,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2004
-Lonny Baxter,2437,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2004
-Lonny Baxter,2437,Finger Roll,2,2,2,Driving Finger Roll Shot,LAYUPS,,2004
-Lonny Baxter,2437,Driving Hook Shot,2,2,0,Driving Hook Shot,POST_MOVES,,2004
-Lonny Baxter,2437,Driving Layup,2,5,3,Driving Layup Shot,LAYUPS,,2004
-Lonny Baxter,2437,Standard Dunk,2,8,6,Dunk Shot,DUNKS,,2004
-Lonny Baxter,2437,Finger Roll,2,1,0,Finger Roll Shot,LAYUPS,,2004
-Lonny Baxter,2437,Specialty Dunk,2,3,3,Follow Up Dunk Shot,DUNKS,,2004
-Lonny Baxter,2437,Hook Shot,2,2,2,Hook Bank Shot,POST_MOVES,,2004
-Lonny Baxter,2437,Hook Shot,2,12,3,Hook Shot,POST_MOVES,,2004
-Lonny Baxter,2437,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2004
-Lonny Baxter,2437,Hook Shot,2,4,2,Jump Hook Shot,POST_MOVES,,2004
-Lonny Baxter,2437,Jump Shot,2,59,18,Jump Shot,JUMP_SHOTS,,2004
-Lonny Baxter,2437,Standard Layup,2,84,44,Layup Shot,LAYUPS,,2004
-Lonny Baxter,2437,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2004
-Lonny Baxter,2437,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2004
-Lonny Baxter,2437,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2004
-Lonny Baxter,2437,Tip Shot,2,11,5,Tip Shot,TIP_SHOTS,,2004
-Lonny Baxter,2437,Turnaround Hook Shot,2,2,2,Turnaround Hook Shot,POST_MOVES,,2004
-Lonny Baxter,2437,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2004
-Lonny Baxter,2437,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2005
-Lonny Baxter,2437,Jump Shot,2,4,0,Jump Shot,JUMP_SHOTS,,2005
-Lonny Baxter,2437,Standard Layup,2,6,2,Layup Shot,LAYUPS,,2005
-Lonny Baxter,2437,Driving Layup,2,6,4,Driving Layup Shot,LAYUPS,,2006
-Lonny Baxter,2437,Standard Dunk,2,5,5,Dunk Shot,DUNKS,,2006
-Lonny Baxter,2437,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2006
-Lonny Baxter,2437,Hook Shot,2,6,1,Hook Shot,POST_MOVES,,2006
-Lonny Baxter,2437,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2006
-Lonny Baxter,2437,Jump Shot,2,25,5,Jump Shot,JUMP_SHOTS,,2006
-Lonny Baxter,2437,Standard Layup,2,45,21,Layup Shot,LAYUPS,,2006
-Lonny Baxter,2437,Reverse Layup,2,5,4,Reverse Layup Shot,LAYUPS,,2006
-Lonny Baxter,2437,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2006
-Lonny Baxter,2437,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2006
-Lonny Baxter,2437,Tip Shot,2,4,2,Tip Shot,TIP_SHOTS,,2006
-Lonny Baxter,2437,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2006
-Lonny Baxter,2437,Turnaround Jump Shot,2,3,0,Turnaround Jump Shot,JUMP_SHOTS,,2006
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Lonny Baxter,2437,Driving Dunk,2,2,2,DUNKS,,2003
+Lonny Baxter,2437,Driving Layup,2,2,2,LAYUPS,,2003
+Lonny Baxter,2437,Hook Shot,2,11,5,POST_MOVES,,2003
+Lonny Baxter,2437,Jump Shot,2,62,14,JUMP_SHOTS,,2003
+Lonny Baxter,2437,Reverse Layup,2,6,4,LAYUPS,,2003
+Lonny Baxter,2437,Running Jump Shot,2,3,3,JUMP_SHOTS,,2003
+Lonny Baxter,2437,Specialty Dunk,2,1,1,DUNKS,,2003
+Lonny Baxter,2437,Standard Dunk,2,12,12,DUNKS,,2003
+Lonny Baxter,2437,Standard Layup,2,95,46,LAYUPS,,2003
+Lonny Baxter,2437,Tip Shot,2,12,7,TIP_SHOTS,,2003
+Lonny Baxter,2437,Alley Oop Dunk,2,1,1,DUNKS,,2004
+Lonny Baxter,2437,Driving Dunk,2,2,2,DUNKS,,2004
+Lonny Baxter,2437,Driving Hook Shot,2,2,0,POST_MOVES,,2004
+Lonny Baxter,2437,Driving Layup,2,5,3,LAYUPS,,2004
+Lonny Baxter,2437,Finger Roll,2,3,2,LAYUPS,,2004
+Lonny Baxter,2437,Hook Shot,2,18,7,POST_MOVES,,2004
+Lonny Baxter,2437,Jump Shot,2,61,20,JUMP_SHOTS,,2004
+Lonny Baxter,2437,Reverse Dunk,2,1,1,DUNKS,,2004
+Lonny Baxter,2437,Reverse Layup,2,2,2,LAYUPS,,2004
+Lonny Baxter,2437,Specialty Dunk,2,3,3,DUNKS,,2004
+Lonny Baxter,2437,Standard Dunk,2,12,10,DUNKS,,2004
+Lonny Baxter,2437,Standard Layup,2,84,44,LAYUPS,,2004
+Lonny Baxter,2437,Tip Shot,2,11,5,TIP_SHOTS,,2004
+Lonny Baxter,2437,Turnaround Hook Shot,2,2,2,POST_MOVES,,2004
+Lonny Baxter,2437,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2004
+Lonny Baxter,2437,Hook Shot,2,1,1,POST_MOVES,,2005
+Lonny Baxter,2437,Jump Shot,2,4,0,JUMP_SHOTS,,2005
+Lonny Baxter,2437,Standard Layup,2,6,2,LAYUPS,,2005
+Lonny Baxter,2437,Driving Layup,2,6,4,LAYUPS,,2006
+Lonny Baxter,2437,Hook Shot,2,7,1,POST_MOVES,,2006
+Lonny Baxter,2437,Jump Shot,2,26,6,JUMP_SHOTS,,2006
+Lonny Baxter,2437,Reverse Layup,2,5,4,LAYUPS,,2006
+Lonny Baxter,2437,Running Jump Shot,2,1,0,JUMP_SHOTS,,2006
+Lonny Baxter,2437,Standard Dunk,2,6,6,DUNKS,,2006
+Lonny Baxter,2437,Standard Layup,2,45,21,LAYUPS,,2006
+Lonny Baxter,2437,Tip Shot,2,4,2,TIP_SHOTS,,2006
+Lonny Baxter,2437,Turnaround Hook Shot,2,1,1,POST_MOVES,,2006
+Lonny Baxter,2437,Turnaround Jump Shot,2,3,0,JUMP_SHOTS,,2006

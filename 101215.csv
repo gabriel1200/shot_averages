@@ -1,16 +1,15 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Will Conroy,101215,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2007
-Will Conroy,101215,Jump Shot,2,1,0,Jump Shot,JUMP_SHOTS,,2007
-Will Conroy,101215,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2007
-Will Conroy,101215,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2010
-Will Conroy,101215,Driving Layup,2,3,2,Driving Layup Shot,LAYUPS,,2010
-Will Conroy,101215,Jump Shot,2,1,0,Jump Shot,JUMP_SHOTS,,2010
-Will Conroy,101215,Jump Shot,3,3,0,Jump Shot,JUMP_SHOTS,,2010
-Will Conroy,101215,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2010
-Will Conroy,101215,Driving Jump Shot,2,1,0,Driving Bank shot,JUMP_SHOTS,,2013
-Will Conroy,101215,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2013
-Will Conroy,101215,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2013
-Will Conroy,101215,Jump Shot,2,1,0,Jump Shot,JUMP_SHOTS,,2013
-Will Conroy,101215,Jump Shot,3,3,0,Jump Shot,JUMP_SHOTS,,2013
-Will Conroy,101215,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2013
-Will Conroy,101215,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2013
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Will Conroy,101215,Driving Layup,2,1,0,LAYUPS,,2007
+Will Conroy,101215,Jump Shot,2,1,0,JUMP_SHOTS,,2007
+Will Conroy,101215,Running Jump Shot,2,1,0,JUMP_SHOTS,,2007
+Will Conroy,101215,Driving Dunk,2,1,1,DUNKS,,2010
+Will Conroy,101215,Driving Layup,2,3,2,LAYUPS,,2010
+Will Conroy,101215,Jump Shot,2,1,0,JUMP_SHOTS,,2010
+Will Conroy,101215,Jump Shot,3,3,0,JUMP_SHOTS,,2010
+Will Conroy,101215,Running Jump Shot,2,2,0,JUMP_SHOTS,,2010
+Will Conroy,101215,Driving Hook Shot,2,1,0,POST_MOVES,,2013
+Will Conroy,101215,Driving Jump Shot,2,2,0,JUMP_SHOTS,,2013
+Will Conroy,101215,Jump Shot,2,1,0,JUMP_SHOTS,,2013
+Will Conroy,101215,Jump Shot,3,3,0,JUMP_SHOTS,,2013
+Will Conroy,101215,Pullup Jump Shot,2,1,0,JUMP_SHOTS,,2013
+Will Conroy,101215,Standard Layup,2,1,0,LAYUPS,,2013

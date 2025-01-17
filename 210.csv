@@ -1,47 +1,45 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Terrell Brandon,210,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,1997
-Terrell Brandon,210,Driving Layup,2,108,74,Driving Layup Shot,LAYUPS,,1997
-Terrell Brandon,210,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,1997
-Terrell Brandon,210,Jump Shot,2,1033,423,Jump Shot,JUMP_SHOTS,,1997
-Terrell Brandon,210,Jump Shot,3,13,2,Jump Shot,JUMP_SHOTS,,1997
-Terrell Brandon,210,Standard Layup,2,89,30,Layup Shot,LAYUPS,,1997
-Terrell Brandon,210,Running Jump Shot,2,59,35,Running Jump Shot,JUMP_SHOTS,,1997
-Terrell Brandon,210,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,1997
-Terrell Brandon,210,Driving Layup,2,33,26,Driving Layup Shot,LAYUPS,,1998
-Terrell Brandon,210,Standard Dunk,2,5,5,Dunk Shot,DUNKS,,1998
-Terrell Brandon,210,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,1998
-Terrell Brandon,210,Jump Shot,2,482,194,Jump Shot,JUMP_SHOTS,,1998
-Terrell Brandon,210,Jump Shot,3,86,30,Jump Shot,JUMP_SHOTS,,1998
-Terrell Brandon,210,Standard Layup,2,109,71,Layup Shot,LAYUPS,,1998
-Terrell Brandon,210,Running Jump Shot,2,12,12,Running Jump Shot,JUMP_SHOTS,,1998
-Terrell Brandon,210,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,1998
-Terrell Brandon,210,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,1998
-Terrell Brandon,210,Driving Layup,2,43,30,Driving Layup Shot,LAYUPS,,1999
-Terrell Brandon,210,Jump Shot,2,386,134,Jump Shot,JUMP_SHOTS,,1999
-Terrell Brandon,210,Jump Shot,3,14,3,Jump Shot,JUMP_SHOTS,,1999
-Terrell Brandon,210,Standard Layup,2,40,25,Layup Shot,LAYUPS,,1999
-Terrell Brandon,210,Running Jump Shot,2,24,20,Running Jump Shot,JUMP_SHOTS,,1999
-Terrell Brandon,210,Driving Layup,2,87,54,Driving Layup Shot,LAYUPS,,2000
-Terrell Brandon,210,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2000
-Terrell Brandon,210,Jump Shot,2,778,321,Jump Shot,JUMP_SHOTS,,2000
-Terrell Brandon,210,Jump Shot,3,25,6,Jump Shot,JUMP_SHOTS,,2000
-Terrell Brandon,210,Standard Layup,2,66,33,Layup Shot,LAYUPS,,2000
-Terrell Brandon,210,Running Jump Shot,2,85,71,Running Jump Shot,JUMP_SHOTS,,2000
-Terrell Brandon,210,Driving Layup,2,80,58,Driving Layup Shot,LAYUPS,,2001
-Terrell Brandon,210,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2001
-Terrell Brandon,210,Jump Shot,2,850,329,Jump Shot,JUMP_SHOTS,,2001
-Terrell Brandon,210,Standard Layup,2,113,51,Layup Shot,LAYUPS,,2001
-Terrell Brandon,210,Reverse Layup,2,6,4,Reverse Layup Shot,LAYUPS,,2001
-Terrell Brandon,210,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2001
-Terrell Brandon,210,Running Jump Shot,2,75,61,Running Jump Shot,JUMP_SHOTS,,2001
-Terrell Brandon,210,Standard Layup,2,4,3,Running Layup Shot,LAYUPS,,2001
-Terrell Brandon,210,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2001
-Terrell Brandon,210,Turnaround Jump Shot,2,3,2,Turnaround Jump Shot,JUMP_SHOTS,,2001
-Terrell Brandon,210,Driving Layup,2,32,22,Driving Layup Shot,LAYUPS,,2002
-Terrell Brandon,210,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2002
-Terrell Brandon,210,Fadeaway Jump Shot,2,3,3,Fadeaway Jump Shot,JUMP_SHOTS,,2002
-Terrell Brandon,210,Finger Roll,2,2,2,Finger Roll Shot,LAYUPS,,2002
-Terrell Brandon,210,Jump Shot,2,270,95,Jump Shot,JUMP_SHOTS,,2002
-Terrell Brandon,210,Standard Layup,2,33,15,Layup Shot,LAYUPS,,2002
-Terrell Brandon,210,Reverse Layup,2,6,3,Reverse Layup Shot,LAYUPS,,2002
-Terrell Brandon,210,Running Jump Shot,2,18,14,Running Jump Shot,JUMP_SHOTS,,2002
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Terrell Brandon,210,Driving Dunk,2,4,4,DUNKS,,1997
+Terrell Brandon,210,Driving Layup,2,108,74,LAYUPS,,1997
+Terrell Brandon,210,Jump Shot,2,1033,423,JUMP_SHOTS,,1997
+Terrell Brandon,210,Jump Shot,3,13,2,JUMP_SHOTS,,1997
+Terrell Brandon,210,Running Jump Shot,2,59,35,JUMP_SHOTS,,1997
+Terrell Brandon,210,Standard Dunk,2,7,7,DUNKS,,1997
+Terrell Brandon,210,Standard Layup,2,89,30,LAYUPS,,1997
+Terrell Brandon,210,Driving Layup,2,33,26,LAYUPS,,1998
+Terrell Brandon,210,Hook Shot,2,2,1,POST_MOVES,,1998
+Terrell Brandon,210,Jump Shot,2,482,194,JUMP_SHOTS,,1998
+Terrell Brandon,210,Jump Shot,3,86,30,JUMP_SHOTS,,1998
+Terrell Brandon,210,Running Jump Shot,2,12,12,JUMP_SHOTS,,1998
+Terrell Brandon,210,Running Jump Shot,3,1,0,JUMP_SHOTS,,1998
+Terrell Brandon,210,Standard Dunk,2,5,5,DUNKS,,1998
+Terrell Brandon,210,Standard Layup,2,109,71,LAYUPS,,1998
+Terrell Brandon,210,Tip Shot,2,1,0,TIP_SHOTS,,1998
+Terrell Brandon,210,Driving Layup,2,43,30,LAYUPS,,1999
+Terrell Brandon,210,Jump Shot,2,386,134,JUMP_SHOTS,,1999
+Terrell Brandon,210,Jump Shot,3,14,3,JUMP_SHOTS,,1999
+Terrell Brandon,210,Running Jump Shot,2,24,20,JUMP_SHOTS,,1999
+Terrell Brandon,210,Standard Layup,2,40,25,LAYUPS,,1999
+Terrell Brandon,210,Driving Layup,2,87,54,LAYUPS,,2000
+Terrell Brandon,210,Jump Shot,2,778,321,JUMP_SHOTS,,2000
+Terrell Brandon,210,Jump Shot,3,25,6,JUMP_SHOTS,,2000
+Terrell Brandon,210,Running Jump Shot,2,85,71,JUMP_SHOTS,,2000
+Terrell Brandon,210,Standard Dunk,2,1,1,DUNKS,,2000
+Terrell Brandon,210,Standard Layup,2,66,33,LAYUPS,,2000
+Terrell Brandon,210,Driving Layup,2,80,58,LAYUPS,,2001
+Terrell Brandon,210,Finger Roll,2,1,1,LAYUPS,,2001
+Terrell Brandon,210,Jump Shot,2,850,329,JUMP_SHOTS,,2001
+Terrell Brandon,210,Reverse Layup,2,6,4,LAYUPS,,2001
+Terrell Brandon,210,Running Hook Shot,2,1,1,POST_MOVES,,2001
+Terrell Brandon,210,Running Jump Shot,2,75,61,JUMP_SHOTS,,2001
+Terrell Brandon,210,Standard Layup,2,117,54,LAYUPS,,2001
+Terrell Brandon,210,Tip Shot,2,1,1,TIP_SHOTS,,2001
+Terrell Brandon,210,Turnaround Jump Shot,2,3,2,JUMP_SHOTS,,2001
+Terrell Brandon,210,Driving Layup,2,32,22,LAYUPS,,2002
+Terrell Brandon,210,Fadeaway Jump Shot,2,3,3,JUMP_SHOTS,,2002
+Terrell Brandon,210,Finger Roll,2,2,2,LAYUPS,,2002
+Terrell Brandon,210,Jump Shot,2,270,95,JUMP_SHOTS,,2002
+Terrell Brandon,210,Reverse Layup,2,6,3,LAYUPS,,2002
+Terrell Brandon,210,Running Jump Shot,2,18,14,JUMP_SHOTS,,2002
+Terrell Brandon,210,Standard Dunk,2,1,1,DUNKS,,2002
+Terrell Brandon,210,Standard Layup,2,33,15,LAYUPS,,2002

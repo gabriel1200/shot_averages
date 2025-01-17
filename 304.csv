@@ -1,56 +1,50 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-John Stockton,304,Driving Layup,2,81,67,Driving Layup Shot,LAYUPS,,1997
-John Stockton,304,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,1997
-John Stockton,304,Jump Shot,2,442,199,Jump Shot,JUMP_SHOTS,,1997
-John Stockton,304,Standard Layup,2,186,117,Layup Shot,LAYUPS,,1997
-John Stockton,304,Running Jump Shot,2,49,33,Running Jump Shot,JUMP_SHOTS,,1997
-John Stockton,304,Driving Layup,2,85,67,Driving Layup Shot,LAYUPS,,1998
-John Stockton,304,Jump Shot,2,276,109,Jump Shot,JUMP_SHOTS,,1998
-John Stockton,304,Standard Layup,2,111,66,Layup Shot,LAYUPS,,1998
-John Stockton,304,Running Jump Shot,2,39,28,Running Jump Shot,JUMP_SHOTS,,1998
-John Stockton,304,Driving Layup,2,56,36,Driving Layup Shot,LAYUPS,,1999
-John Stockton,304,Jump Shot,2,248,96,Jump Shot,JUMP_SHOTS,,1999
-John Stockton,304,Standard Layup,2,85,54,Layup Shot,LAYUPS,,1999
-John Stockton,304,Running Jump Shot,2,21,14,Running Jump Shot,JUMP_SHOTS,,1999
-John Stockton,304,Driving Layup,2,98,65,Driving Layup Shot,LAYUPS,,2000
-John Stockton,304,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2000
-John Stockton,304,Jump Shot,2,458,209,Jump Shot,JUMP_SHOTS,,2000
-John Stockton,304,Standard Layup,2,119,64,Layup Shot,LAYUPS,,2000
-John Stockton,304,Running Jump Shot,2,47,23,Running Jump Shot,JUMP_SHOTS,,2000
-John Stockton,304,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2000
-John Stockton,304,Finger Roll,2,3,1,Driving Finger Roll Shot,LAYUPS,,2001
-John Stockton,304,Driving Layup,2,83,60,Driving Layup Shot,LAYUPS,,2001
-John Stockton,304,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2001
-John Stockton,304,Jump Shot,2,388,167,Jump Shot,JUMP_SHOTS,,2001
-John Stockton,304,Jump Shot,3,5,1,Jump Shot,JUMP_SHOTS,,2001
-John Stockton,304,Standard Layup,2,127,66,Layup Shot,LAYUPS,,2001
-John Stockton,304,Reverse Layup,2,8,8,Reverse Layup Shot,LAYUPS,,2001
-John Stockton,304,Running Jump Shot,2,27,17,Running Jump Shot,JUMP_SHOTS,,2001
-John Stockton,304,Standard Layup,2,7,6,Running Layup Shot,LAYUPS,,2001
-John Stockton,304,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2001
-John Stockton,304,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2001
-John Stockton,304,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2002
-John Stockton,304,Driving Layup,2,110,87,Driving Layup Shot,LAYUPS,,2002
-John Stockton,304,Fadeaway Jump Shot,2,4,2,Fadeaway Jump Shot,JUMP_SHOTS,,2002
-John Stockton,304,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2002
-John Stockton,304,Jump Shot,2,447,195,Jump Shot,JUMP_SHOTS,,2002
-John Stockton,304,Standard Layup,2,158,80,Layup Shot,LAYUPS,,2002
-John Stockton,304,Reverse Layup,2,15,12,Reverse Layup Shot,LAYUPS,,2002
-John Stockton,304,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2002
-John Stockton,304,Running Jump Shot,2,31,16,Running Jump Shot,JUMP_SHOTS,,2002
-John Stockton,304,Standard Layup,2,4,3,Running Layup Shot,LAYUPS,,2002
-John Stockton,304,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2002
-John Stockton,304,Turnaround Jump Shot,2,2,2,Turnaround Jump Shot,JUMP_SHOTS,,2002
-John Stockton,304,Finger Roll,2,2,1,Driving Finger Roll Shot,LAYUPS,,2003
-John Stockton,304,Driving Layup,2,83,55,Driving Layup Shot,LAYUPS,,2003
-John Stockton,304,Fadeaway Jump Shot,2,5,2,Fadeaway Jump Shot,JUMP_SHOTS,,2003
-John Stockton,304,Finger Roll,2,1,0,Finger Roll Shot,LAYUPS,,2003
-John Stockton,304,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2003
-John Stockton,304,Jump Shot,2,389,162,Jump Shot,JUMP_SHOTS,,2003
-John Stockton,304,Standard Layup,2,101,49,Layup Shot,LAYUPS,,2003
-John Stockton,304,Reverse Layup,2,7,7,Reverse Layup Shot,LAYUPS,,2003
-John Stockton,304,Finger Roll,2,1,0,Running Finger Roll Shot,LAYUPS,,2003
-John Stockton,304,Running Jump Shot,2,43,28,Running Jump Shot,JUMP_SHOTS,,2003
-John Stockton,304,Standard Layup,2,4,3,Running Layup Shot,LAYUPS,,2003
-John Stockton,304,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2003
-John Stockton,304,Turnaround Jump Shot,2,2,2,Turnaround Jump Shot,JUMP_SHOTS,,2003
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+John Stockton,304,Driving Layup,2,81,67,LAYUPS,,1997
+John Stockton,304,Hook Shot,2,1,0,POST_MOVES,,1997
+John Stockton,304,Jump Shot,2,442,199,JUMP_SHOTS,,1997
+John Stockton,304,Running Jump Shot,2,49,33,JUMP_SHOTS,,1997
+John Stockton,304,Standard Layup,2,186,117,LAYUPS,,1997
+John Stockton,304,Driving Layup,2,85,67,LAYUPS,,1998
+John Stockton,304,Jump Shot,2,276,109,JUMP_SHOTS,,1998
+John Stockton,304,Running Jump Shot,2,39,28,JUMP_SHOTS,,1998
+John Stockton,304,Standard Layup,2,111,66,LAYUPS,,1998
+John Stockton,304,Driving Layup,2,56,36,LAYUPS,,1999
+John Stockton,304,Jump Shot,2,248,96,JUMP_SHOTS,,1999
+John Stockton,304,Running Jump Shot,2,21,14,JUMP_SHOTS,,1999
+John Stockton,304,Standard Layup,2,85,54,LAYUPS,,1999
+John Stockton,304,Driving Layup,2,98,65,LAYUPS,,2000
+John Stockton,304,Hook Shot,2,1,1,POST_MOVES,,2000
+John Stockton,304,Jump Shot,2,458,209,JUMP_SHOTS,,2000
+John Stockton,304,Running Jump Shot,2,47,23,JUMP_SHOTS,,2000
+John Stockton,304,Standard Layup,2,119,64,LAYUPS,,2000
+John Stockton,304,Tip Shot,2,2,1,TIP_SHOTS,,2000
+John Stockton,304,Driving Layup,2,83,60,LAYUPS,,2001
+John Stockton,304,Finger Roll,2,3,1,LAYUPS,,2001
+John Stockton,304,Hook Shot,2,1,0,POST_MOVES,,2001
+John Stockton,304,Jump Shot,2,388,167,JUMP_SHOTS,,2001
+John Stockton,304,Jump Shot,3,5,1,JUMP_SHOTS,,2001
+John Stockton,304,Reverse Layup,2,8,8,LAYUPS,,2001
+John Stockton,304,Running Jump Shot,2,27,17,JUMP_SHOTS,,2001
+John Stockton,304,Standard Layup,2,134,72,LAYUPS,,2001
+John Stockton,304,Tip Shot,2,1,1,TIP_SHOTS,,2001
+John Stockton,304,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2001
+John Stockton,304,Driving Layup,2,110,87,LAYUPS,,2002
+John Stockton,304,Fadeaway Jump Shot,2,4,2,JUMP_SHOTS,,2002
+John Stockton,304,Finger Roll,2,2,2,LAYUPS,,2002
+John Stockton,304,Jump Shot,2,447,195,JUMP_SHOTS,,2002
+John Stockton,304,Reverse Layup,2,15,12,LAYUPS,,2002
+John Stockton,304,Running Hook Shot,2,1,1,POST_MOVES,,2002
+John Stockton,304,Running Jump Shot,2,31,16,JUMP_SHOTS,,2002
+John Stockton,304,Standard Layup,2,162,83,LAYUPS,,2002
+John Stockton,304,Tip Shot,2,1,1,TIP_SHOTS,,2002
+John Stockton,304,Turnaround Jump Shot,2,2,2,JUMP_SHOTS,,2002
+John Stockton,304,Driving Layup,2,83,55,LAYUPS,,2003
+John Stockton,304,Fadeaway Jump Shot,2,5,2,JUMP_SHOTS,,2003
+John Stockton,304,Finger Roll,2,4,1,LAYUPS,,2003
+John Stockton,304,Hook Shot,2,1,0,POST_MOVES,,2003
+John Stockton,304,Jump Shot,2,389,162,JUMP_SHOTS,,2003
+John Stockton,304,Reverse Layup,2,7,7,LAYUPS,,2003
+John Stockton,304,Running Jump Shot,2,43,28,JUMP_SHOTS,,2003
+John Stockton,304,Standard Layup,2,105,52,LAYUPS,,2003
+John Stockton,304,Tip Shot,2,1,0,TIP_SHOTS,,2003
+John Stockton,304,Turnaround Jump Shot,2,2,2,JUMP_SHOTS,,2003

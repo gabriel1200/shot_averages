@@ -1,12 +1,10 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Xavier Cooks,1641645,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2023
-Xavier Cooks,1641645,Standard Layup,2,3,3,Cutting Layup Shot,LAYUPS,,2023
-Xavier Cooks,1641645,Driving Layup,2,4,0,Driving Layup Shot,LAYUPS,,2023
-Xavier Cooks,1641645,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2023
-Xavier Cooks,1641645,Hook Shot,2,3,2,Hook Shot,POST_MOVES,,2023
-Xavier Cooks,1641645,Jump Shot,2,1,0,Jump Shot,JUMP_SHOTS,,2023
-Xavier Cooks,1641645,Standard Layup,2,5,3,Layup Shot,LAYUPS,,2023
-Xavier Cooks,1641645,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2023
-Xavier Cooks,1641645,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2023
-Xavier Cooks,1641645,Putback Layup,2,4,2,Tip Layup Shot,LAYUPS,,2023
-Xavier Cooks,1641645,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2023
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Xavier Cooks,1641645,Alley Oop Dunk,2,2,2,DUNKS,,2023
+Xavier Cooks,1641645,Driving Layup,2,4,0,LAYUPS,,2023
+Xavier Cooks,1641645,Floating Jump Shot,2,2,1,FLOATING_SHOTS,,2023
+Xavier Cooks,1641645,Hook Shot,2,3,2,POST_MOVES,,2023
+Xavier Cooks,1641645,Jump Shot,2,1,0,JUMP_SHOTS,,2023
+Xavier Cooks,1641645,Putback Layup,2,6,4,LAYUPS,,2023
+Xavier Cooks,1641645,Standard Dunk,2,1,1,DUNKS,,2023
+Xavier Cooks,1641645,Standard Layup,2,8,6,LAYUPS,,2023
+Xavier Cooks,1641645,Turnaround Hook Shot,2,1,1,POST_MOVES,,2023

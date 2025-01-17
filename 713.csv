@@ -1,49 +1,43 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Chris Carr,713,Driving Dunk,2,7,6,Driving Dunk Shot,DUNKS,,1997
-Chris Carr,713,Driving Layup,2,10,10,Driving Layup Shot,LAYUPS,,1997
-Chris Carr,713,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,1997
-Chris Carr,713,Hook Shot,2,3,2,Hook Shot,POST_MOVES,,1997
-Chris Carr,713,Jump Shot,2,180,62,Jump Shot,JUMP_SHOTS,,1997
-Chris Carr,713,Standard Layup,2,39,15,Layup Shot,LAYUPS,,1997
-Chris Carr,713,Running Jump Shot,2,15,14,Running Jump Shot,JUMP_SHOTS,,1997
-Chris Carr,713,Standard Dunk,2,13,12,Slam Dunk Shot,DUNKS,,1997
-Chris Carr,713,Tip Shot,2,3,3,Tip Shot,TIP_SHOTS,,1997
-Chris Carr,713,Driving Dunk,2,5,5,Driving Dunk Shot,DUNKS,,1998
-Chris Carr,713,Driving Layup,2,23,17,Driving Layup Shot,LAYUPS,,1998
-Chris Carr,713,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,1998
-Chris Carr,713,Jump Shot,2,340,116,Jump Shot,JUMP_SHOTS,,1998
-Chris Carr,713,Standard Layup,2,34,16,Layup Shot,LAYUPS,,1998
-Chris Carr,713,Running Jump Shot,2,36,25,Running Jump Shot,JUMP_SHOTS,,1998
-Chris Carr,713,Standard Dunk,2,8,8,Slam Dunk Shot,DUNKS,,1998
-Chris Carr,713,Tip Shot,2,4,2,Tip Shot,TIP_SHOTS,,1998
-Chris Carr,713,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,1999
-Chris Carr,713,Driving Layup,2,11,4,Driving Layup Shot,LAYUPS,,1999
-Chris Carr,713,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,1999
-Chris Carr,713,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,1999
-Chris Carr,713,Jump Shot,2,157,57,Jump Shot,JUMP_SHOTS,,1999
-Chris Carr,713,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,1999
-Chris Carr,713,Standard Layup,2,14,5,Layup Shot,LAYUPS,,1999
-Chris Carr,713,Running Jump Shot,2,10,1,Running Jump Shot,JUMP_SHOTS,,1999
-Chris Carr,713,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,1999
-Chris Carr,713,Tip Shot,2,2,0,Tip Shot,TIP_SHOTS,,1999
-Chris Carr,713,Driving Dunk,2,4,3,Driving Dunk Shot,DUNKS,,2000
-Chris Carr,713,Driving Layup,2,16,12,Driving Layup Shot,LAYUPS,,2000
-Chris Carr,713,Standard Dunk,2,19,13,Dunk Shot,DUNKS,,2000
-Chris Carr,713,Hook Shot,2,3,0,Hook Shot,POST_MOVES,,2000
-Chris Carr,713,Jump Shot,2,388,136,Jump Shot,JUMP_SHOTS,,2000
-Chris Carr,713,Standard Layup,2,43,15,Layup Shot,LAYUPS,,2000
-Chris Carr,713,Running Jump Shot,2,10,8,Running Jump Shot,JUMP_SHOTS,,2000
-Chris Carr,713,Standard Dunk,2,7,7,Slam Dunk Shot,DUNKS,,2000
-Chris Carr,713,Tip Shot,2,6,2,Tip Shot,TIP_SHOTS,,2000
-Chris Carr,713,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2001
-Chris Carr,713,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2001
-Chris Carr,713,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2001
-Chris Carr,713,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2001
-Chris Carr,713,Jump Shot,2,90,37,Jump Shot,JUMP_SHOTS,,2001
-Chris Carr,713,Standard Layup,2,6,3,Layup Shot,LAYUPS,,2001
-Chris Carr,713,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2001
-Chris Carr,713,Running Jump Shot,2,3,2,Running Jump Shot,JUMP_SHOTS,,2001
-Chris Carr,713,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2001
-Chris Carr,713,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2001
-Chris Carr,713,Tip Shot,2,2,0,Tip Shot,TIP_SHOTS,,2001
-Chris Carr,713,Turnaround Jump Shot,2,2,2,Turnaround Jump Shot,JUMP_SHOTS,,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Chris Carr,713,Driving Dunk,2,7,6,DUNKS,,1997
+Chris Carr,713,Driving Layup,2,10,10,LAYUPS,,1997
+Chris Carr,713,Hook Shot,2,3,2,POST_MOVES,,1997
+Chris Carr,713,Jump Shot,2,180,62,JUMP_SHOTS,,1997
+Chris Carr,713,Running Jump Shot,2,15,14,JUMP_SHOTS,,1997
+Chris Carr,713,Standard Dunk,2,14,13,DUNKS,,1997
+Chris Carr,713,Standard Layup,2,39,15,LAYUPS,,1997
+Chris Carr,713,Tip Shot,2,3,3,TIP_SHOTS,,1997
+Chris Carr,713,Driving Dunk,2,5,5,DUNKS,,1998
+Chris Carr,713,Driving Layup,2,23,17,LAYUPS,,1998
+Chris Carr,713,Jump Shot,2,340,116,JUMP_SHOTS,,1998
+Chris Carr,713,Running Jump Shot,2,36,25,JUMP_SHOTS,,1998
+Chris Carr,713,Standard Dunk,2,10,9,DUNKS,,1998
+Chris Carr,713,Standard Layup,2,34,16,LAYUPS,,1998
+Chris Carr,713,Tip Shot,2,4,2,TIP_SHOTS,,1998
+Chris Carr,713,Driving Dunk,2,4,4,DUNKS,,1999
+Chris Carr,713,Driving Layup,2,11,4,LAYUPS,,1999
+Chris Carr,713,Hook Shot,2,1,0,POST_MOVES,,1999
+Chris Carr,713,Jump Shot,2,157,57,JUMP_SHOTS,,1999
+Chris Carr,713,Jump Shot,3,1,0,JUMP_SHOTS,,1999
+Chris Carr,713,Running Jump Shot,2,10,1,JUMP_SHOTS,,1999
+Chris Carr,713,Standard Dunk,2,5,5,DUNKS,,1999
+Chris Carr,713,Standard Layup,2,14,5,LAYUPS,,1999
+Chris Carr,713,Tip Shot,2,2,0,TIP_SHOTS,,1999
+Chris Carr,713,Driving Dunk,2,4,3,DUNKS,,2000
+Chris Carr,713,Driving Layup,2,16,12,LAYUPS,,2000
+Chris Carr,713,Hook Shot,2,3,0,POST_MOVES,,2000
+Chris Carr,713,Jump Shot,2,388,136,JUMP_SHOTS,,2000
+Chris Carr,713,Running Jump Shot,2,10,8,JUMP_SHOTS,,2000
+Chris Carr,713,Standard Dunk,2,26,20,DUNKS,,2000
+Chris Carr,713,Standard Layup,2,43,15,LAYUPS,,2000
+Chris Carr,713,Tip Shot,2,6,2,TIP_SHOTS,,2000
+Chris Carr,713,Alley Oop Layup,2,1,1,LAYUPS,,2001
+Chris Carr,713,Driving Dunk,2,2,2,DUNKS,,2001
+Chris Carr,713,Driving Layup,2,1,1,LAYUPS,,2001
+Chris Carr,713,Jump Shot,2,90,37,JUMP_SHOTS,,2001
+Chris Carr,713,Reverse Layup,2,1,1,LAYUPS,,2001
+Chris Carr,713,Running Jump Shot,2,3,2,JUMP_SHOTS,,2001
+Chris Carr,713,Standard Dunk,2,3,3,DUNKS,,2001
+Chris Carr,713,Standard Layup,2,7,4,LAYUPS,,2001
+Chris Carr,713,Tip Shot,2,2,0,TIP_SHOTS,,2001
+Chris Carr,713,Turnaround Jump Shot,2,2,2,JUMP_SHOTS,,2001

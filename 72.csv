@@ -1,63 +1,54 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Kenny Anderson,72,Driving Layup,2,226,157,Driving Layup Shot,LAYUPS,,1997
-Kenny Anderson,72,Jump Shot,2,671,243,Jump Shot,JUMP_SHOTS,,1997
-Kenny Anderson,72,Standard Layup,2,196,63,Layup Shot,LAYUPS,,1997
-Kenny Anderson,72,Running Jump Shot,2,39,21,Running Jump Shot,JUMP_SHOTS,,1997
-Kenny Anderson,72,Tip Shot,2,5,1,Tip Shot,TIP_SHOTS,,1997
-Kenny Anderson,72,Driving Layup,2,113,74,Driving Layup Shot,LAYUPS,,1998
-Kenny Anderson,72,Jump Shot,2,463,155,Jump Shot,JUMP_SHOTS,,1998
-Kenny Anderson,72,Standard Layup,2,79,25,Layup Shot,LAYUPS,,1998
-Kenny Anderson,72,Running Jump Shot,2,19,14,Running Jump Shot,JUMP_SHOTS,,1998
-Kenny Anderson,72,Driving Layup,2,80,65,Driving Layup Shot,LAYUPS,,1999
-Kenny Anderson,72,Jump Shot,2,216,77,Jump Shot,JUMP_SHOTS,,1999
-Kenny Anderson,72,Standard Layup,2,45,12,Layup Shot,LAYUPS,,1999
-Kenny Anderson,72,Running Jump Shot,2,16,7,Running Jump Shot,JUMP_SHOTS,,1999
-Kenny Anderson,72,Driving Layup,2,151,110,Driving Layup Shot,LAYUPS,,2000
-Kenny Anderson,72,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2000
-Kenny Anderson,72,Jump Shot,2,687,276,Jump Shot,JUMP_SHOTS,,2000
-Kenny Anderson,72,Standard Layup,2,120,35,Layup Shot,LAYUPS,,2000
-Kenny Anderson,72,Running Jump Shot,2,25,12,Running Jump Shot,JUMP_SHOTS,,2000
-Kenny Anderson,72,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2000
-Kenny Anderson,72,Driving Layup,2,27,23,Driving Layup Shot,LAYUPS,,2001
-Kenny Anderson,72,Jump Shot,2,154,48,Jump Shot,JUMP_SHOTS,,2001
-Kenny Anderson,72,Standard Layup,2,35,10,Layup Shot,LAYUPS,,2001
-Kenny Anderson,72,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2001
-Kenny Anderson,72,Running Jump Shot,2,9,6,Running Jump Shot,JUMP_SHOTS,,2001
-Kenny Anderson,72,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2001
-Kenny Anderson,72,Finger Roll,2,3,2,Driving Finger Roll Shot,LAYUPS,,2002
-Kenny Anderson,72,Driving Layup,2,66,52,Driving Layup Shot,LAYUPS,,2002
-Kenny Anderson,72,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2002
-Kenny Anderson,72,Jump Shot,2,487,186,Jump Shot,JUMP_SHOTS,,2002
-Kenny Anderson,72,Standard Layup,2,132,57,Layup Shot,LAYUPS,,2002
-Kenny Anderson,72,Reverse Layup,2,10,6,Reverse Layup Shot,LAYUPS,,2002
-Kenny Anderson,72,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2002
-Kenny Anderson,72,Running Jump Shot,2,13,7,Running Jump Shot,JUMP_SHOTS,,2002
-Kenny Anderson,72,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2002
-Kenny Anderson,72,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2002
-Kenny Anderson,72,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2002
-Kenny Anderson,72,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2003
-Kenny Anderson,72,Finger Roll,2,3,3,Driving Finger Roll Shot,LAYUPS,,2003
-Kenny Anderson,72,Driving Layup,2,44,35,Driving Layup Shot,LAYUPS,,2003
-Kenny Anderson,72,Finger Roll,2,3,2,Finger Roll Shot,LAYUPS,,2003
-Kenny Anderson,72,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2003
-Kenny Anderson,72,Jump Shot,2,241,86,Jump Shot,JUMP_SHOTS,,2003
-Kenny Anderson,72,Standard Layup,2,66,24,Layup Shot,LAYUPS,,2003
-Kenny Anderson,72,Reverse Layup,2,5,1,Reverse Layup Shot,LAYUPS,,2003
-Kenny Anderson,72,Running Jump Shot,2,15,8,Running Jump Shot,JUMP_SHOTS,,2003
-Kenny Anderson,72,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2003
-Kenny Anderson,72,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2003
-Kenny Anderson,72,Finger Roll,2,4,4,Driving Finger Roll Shot,LAYUPS,,2004
-Kenny Anderson,72,Driving Layup,2,15,12,Driving Layup Shot,LAYUPS,,2004
-Kenny Anderson,72,Finger Roll,2,10,10,Finger Roll Shot,LAYUPS,,2004
-Kenny Anderson,72,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2004
-Kenny Anderson,72,Jump Shot,2,163,56,Jump Shot,JUMP_SHOTS,,2004
-Kenny Anderson,72,Standard Layup,2,45,17,Layup Shot,LAYUPS,,2004
-Kenny Anderson,72,Reverse Layup,2,6,6,Reverse Layup Shot,LAYUPS,,2004
-Kenny Anderson,72,Finger Roll,2,1,1,Running Finger Roll Shot,LAYUPS,,2004
-Kenny Anderson,72,Running Jump Shot,2,8,6,Running Jump Shot,JUMP_SHOTS,,2004
-Kenny Anderson,72,Standard Layup,2,2,0,Running Layup Shot,LAYUPS,,2004
-Kenny Anderson,72,Driving Layup,2,10,8,Driving Layup Shot,LAYUPS,,2005
-Kenny Anderson,72,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2005
-Kenny Anderson,72,Jump Shot,2,146,55,Jump Shot,JUMP_SHOTS,,2005
-Kenny Anderson,72,Standard Layup,2,39,17,Layup Shot,LAYUPS,,2005
-Kenny Anderson,72,Running Jump Shot,2,5,4,Running Jump Shot,JUMP_SHOTS,,2005
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Kenny Anderson,72,Driving Layup,2,226,157,LAYUPS,,1997
+Kenny Anderson,72,Jump Shot,2,671,243,JUMP_SHOTS,,1997
+Kenny Anderson,72,Running Jump Shot,2,39,21,JUMP_SHOTS,,1997
+Kenny Anderson,72,Standard Layup,2,196,63,LAYUPS,,1997
+Kenny Anderson,72,Tip Shot,2,5,1,TIP_SHOTS,,1997
+Kenny Anderson,72,Driving Layup,2,113,74,LAYUPS,,1998
+Kenny Anderson,72,Jump Shot,2,463,155,JUMP_SHOTS,,1998
+Kenny Anderson,72,Running Jump Shot,2,19,14,JUMP_SHOTS,,1998
+Kenny Anderson,72,Standard Layup,2,79,25,LAYUPS,,1998
+Kenny Anderson,72,Driving Layup,2,80,65,LAYUPS,,1999
+Kenny Anderson,72,Jump Shot,2,216,77,JUMP_SHOTS,,1999
+Kenny Anderson,72,Running Jump Shot,2,16,7,JUMP_SHOTS,,1999
+Kenny Anderson,72,Standard Layup,2,45,12,LAYUPS,,1999
+Kenny Anderson,72,Driving Layup,2,151,110,LAYUPS,,2000
+Kenny Anderson,72,Hook Shot,2,1,0,POST_MOVES,,2000
+Kenny Anderson,72,Jump Shot,2,687,276,JUMP_SHOTS,,2000
+Kenny Anderson,72,Running Jump Shot,2,25,12,JUMP_SHOTS,,2000
+Kenny Anderson,72,Standard Layup,2,120,35,LAYUPS,,2000
+Kenny Anderson,72,Tip Shot,2,2,1,TIP_SHOTS,,2000
+Kenny Anderson,72,Driving Layup,2,27,23,LAYUPS,,2001
+Kenny Anderson,72,Jump Shot,2,154,48,JUMP_SHOTS,,2001
+Kenny Anderson,72,Reverse Layup,2,1,1,LAYUPS,,2001
+Kenny Anderson,72,Running Jump Shot,2,9,6,JUMP_SHOTS,,2001
+Kenny Anderson,72,Standard Layup,2,36,10,LAYUPS,,2001
+Kenny Anderson,72,Driving Layup,2,66,52,LAYUPS,,2002
+Kenny Anderson,72,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2002
+Kenny Anderson,72,Finger Roll,2,3,2,LAYUPS,,2002
+Kenny Anderson,72,Jump Shot,2,487,186,JUMP_SHOTS,,2002
+Kenny Anderson,72,Reverse Layup,2,10,6,LAYUPS,,2002
+Kenny Anderson,72,Running Hook Shot,2,1,1,POST_MOVES,,2002
+Kenny Anderson,72,Running Jump Shot,2,13,7,JUMP_SHOTS,,2002
+Kenny Anderson,72,Standard Layup,2,133,57,LAYUPS,,2002
+Kenny Anderson,72,Tip Shot,2,1,1,TIP_SHOTS,,2002
+Kenny Anderson,72,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2002
+Kenny Anderson,72,Alley Oop Layup,2,1,1,LAYUPS,,2003
+Kenny Anderson,72,Driving Layup,2,44,35,LAYUPS,,2003
+Kenny Anderson,72,Finger Roll,2,6,5,LAYUPS,,2003
+Kenny Anderson,72,Hook Shot,2,1,0,POST_MOVES,,2003
+Kenny Anderson,72,Jump Shot,2,241,86,JUMP_SHOTS,,2003
+Kenny Anderson,72,Reverse Layup,2,5,1,LAYUPS,,2003
+Kenny Anderson,72,Running Jump Shot,2,15,8,JUMP_SHOTS,,2003
+Kenny Anderson,72,Standard Layup,2,68,26,LAYUPS,,2003
+Kenny Anderson,72,Tip Shot,2,1,1,TIP_SHOTS,,2003
+Kenny Anderson,72,Driving Layup,2,15,12,LAYUPS,,2004
+Kenny Anderson,72,Finger Roll,2,15,15,LAYUPS,,2004
+Kenny Anderson,72,Jump Shot,2,165,57,JUMP_SHOTS,,2004
+Kenny Anderson,72,Reverse Layup,2,6,6,LAYUPS,,2004
+Kenny Anderson,72,Running Jump Shot,2,8,6,JUMP_SHOTS,,2004
+Kenny Anderson,72,Standard Layup,2,47,17,LAYUPS,,2004
+Kenny Anderson,72,Driving Layup,2,10,8,LAYUPS,,2005
+Kenny Anderson,72,Jump Shot,2,147,56,JUMP_SHOTS,,2005
+Kenny Anderson,72,Running Jump Shot,2,5,4,JUMP_SHOTS,,2005
+Kenny Anderson,72,Standard Layup,2,39,17,LAYUPS,,2005

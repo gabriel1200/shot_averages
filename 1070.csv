@@ -1,13 +1,12 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Devin Gray,1070,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,1997
-Devin Gray,1070,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,1997
-Devin Gray,1070,Jump Shot,2,4,0,Jump Shot,JUMP_SHOTS,,1997
-Devin Gray,1070,Standard Layup,2,19,5,Layup Shot,LAYUPS,,1997
-Devin Gray,1070,Driving Layup,2,3,2,Driving Layup Shot,LAYUPS,,2000
-Devin Gray,1070,Standard Dunk,2,3,2,Dunk Shot,DUNKS,,2000
-Devin Gray,1070,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2000
-Devin Gray,1070,Jump Shot,2,12,3,Jump Shot,JUMP_SHOTS,,2000
-Devin Gray,1070,Standard Layup,2,15,6,Layup Shot,LAYUPS,,2000
-Devin Gray,1070,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2000
-Devin Gray,1070,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2000
-Devin Gray,1070,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2000
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Devin Gray,1070,Driving Layup,2,2,2,LAYUPS,,1997
+Devin Gray,1070,Jump Shot,2,4,0,JUMP_SHOTS,,1997
+Devin Gray,1070,Standard Dunk,2,1,1,DUNKS,,1997
+Devin Gray,1070,Standard Layup,2,19,5,LAYUPS,,1997
+Devin Gray,1070,Driving Layup,2,3,2,LAYUPS,,2000
+Devin Gray,1070,Hook Shot,2,1,0,POST_MOVES,,2000
+Devin Gray,1070,Jump Shot,2,12,3,JUMP_SHOTS,,2000
+Devin Gray,1070,Running Jump Shot,2,1,0,JUMP_SHOTS,,2000
+Devin Gray,1070,Standard Dunk,2,4,3,DUNKS,,2000
+Devin Gray,1070,Standard Layup,2,15,6,LAYUPS,,2000
+Devin Gray,1070,Tip Shot,2,1,1,TIP_SHOTS,,2000

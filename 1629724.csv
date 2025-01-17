@@ -1,11 +1,10 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Vic Law,1629724,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2020
-Vic Law,1629724,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2020
-Vic Law,1629724,Floating Jump Shot,2,1,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
-Vic Law,1629724,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2020
-Vic Law,1629724,Jump Shot,2,7,1,Jump Shot,JUMP_SHOTS,,2020
-Vic Law,1629724,Pullup Jump Shot,2,3,0,Pullup Jump shot,JUMP_SHOTS,,2020
-Vic Law,1629724,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2020
-Vic Law,1629724,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2020
-Vic Law,1629724,Specialty Dunk,2,1,0,Tip Dunk Shot,DUNKS,,2020
-Vic Law,1629724,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2020
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Vic Law,1629724,Alley Oop Layup,2,1,0,LAYUPS,,2020
+Vic Law,1629724,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2020
+Vic Law,1629724,Floating Jump Shot,2,2,2,FLOATING_SHOTS,,2020
+Vic Law,1629724,Jump Shot,2,7,1,JUMP_SHOTS,,2020
+Vic Law,1629724,Pullup Jump Shot,2,3,0,JUMP_SHOTS,,2020
+Vic Law,1629724,Running Jump Shot,2,1,1,JUMP_SHOTS,,2020
+Vic Law,1629724,Specialty Dunk,2,1,0,DUNKS,,2020
+Vic Law,1629724,Standard Layup,2,1,0,LAYUPS,,2020
+Vic Law,1629724,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2020

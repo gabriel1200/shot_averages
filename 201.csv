@@ -1,44 +1,38 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Chris Dudley,201,Driving Layup,2,4,4,Driving Layup Shot,LAYUPS,,1997
-Chris Dudley,201,Standard Dunk,2,25,21,Dunk Shot,DUNKS,,1997
-Chris Dudley,201,Hook Shot,2,48,23,Hook Shot,POST_MOVES,,1997
-Chris Dudley,201,Jump Shot,2,86,22,Jump Shot,JUMP_SHOTS,,1997
-Chris Dudley,201,Standard Layup,2,73,29,Layup Shot,LAYUPS,,1997
-Chris Dudley,201,Standard Dunk,2,7,7,Slam Dunk Shot,DUNKS,,1997
-Chris Dudley,201,Tip Shot,2,50,20,Tip Shot,TIP_SHOTS,,1997
-Chris Dudley,201,Standard Dunk,2,6,6,Dunk Shot,DUNKS,,1998
-Chris Dudley,201,Hook Shot,2,12,5,Hook Shot,POST_MOVES,,1998
-Chris Dudley,201,Jump Shot,2,37,7,Jump Shot,JUMP_SHOTS,,1998
-Chris Dudley,201,Standard Layup,2,44,20,Layup Shot,LAYUPS,,1998
-Chris Dudley,201,Standard Dunk,2,8,8,Slam Dunk Shot,DUNKS,,1998
-Chris Dudley,201,Tip Shot,2,36,12,Tip Shot,TIP_SHOTS,,1998
-Chris Dudley,201,Driving Layup,2,3,1,Driving Layup Shot,LAYUPS,,1999
-Chris Dudley,201,Standard Dunk,2,5,4,Dunk Shot,DUNKS,,1999
-Chris Dudley,201,Hook Shot,2,17,10,Hook Shot,POST_MOVES,,1999
-Chris Dudley,201,Jump Shot,2,13,2,Jump Shot,JUMP_SHOTS,,1999
-Chris Dudley,201,Standard Layup,2,30,19,Layup Shot,LAYUPS,,1999
-Chris Dudley,201,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,1999
-Chris Dudley,201,Tip Shot,2,35,6,Tip Shot,TIP_SHOTS,,1999
-Chris Dudley,201,Driving Layup,2,3,2,Driving Layup Shot,LAYUPS,,2000
-Chris Dudley,201,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2000
-Chris Dudley,201,Hook Shot,2,6,2,Hook Shot,POST_MOVES,,2000
-Chris Dudley,201,Jump Shot,2,12,0,Jump Shot,JUMP_SHOTS,,2000
-Chris Dudley,201,Standard Layup,2,20,8,Layup Shot,LAYUPS,,2000
-Chris Dudley,201,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2000
-Chris Dudley,201,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2000
-Chris Dudley,201,Tip Shot,2,19,4,Tip Shot,TIP_SHOTS,,2000
-Chris Dudley,201,Standard Dunk,2,7,6,Dunk Shot,DUNKS,,2001
-Chris Dudley,201,Hook Shot,2,15,7,Hook Shot,POST_MOVES,,2001
-Chris Dudley,201,Jump Shot,2,20,3,Jump Shot,JUMP_SHOTS,,2001
-Chris Dudley,201,Standard Layup,2,16,8,Layup Shot,LAYUPS,,2001
-Chris Dudley,201,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2001
-Chris Dudley,201,Tip Shot,2,14,4,Tip Shot,TIP_SHOTS,,2001
-Chris Dudley,201,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2002
-Chris Dudley,201,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2002
-Chris Dudley,201,Hook Shot,2,7,3,Hook Shot,POST_MOVES,,2002
-Chris Dudley,201,Hook Shot,2,4,3,Jump Hook Shot,POST_MOVES,,2002
-Chris Dudley,201,Jump Shot,2,16,2,Jump Shot,JUMP_SHOTS,,2002
-Chris Dudley,201,Standard Layup,2,9,2,Layup Shot,LAYUPS,,2002
-Chris Dudley,201,Tip Shot,2,8,5,Tip Shot,TIP_SHOTS,,2002
-Chris Dudley,201,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2002
-Chris Dudley,201,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2003
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Chris Dudley,201,Driving Layup,2,4,4,LAYUPS,,1997
+Chris Dudley,201,Hook Shot,2,48,23,POST_MOVES,,1997
+Chris Dudley,201,Jump Shot,2,86,22,JUMP_SHOTS,,1997
+Chris Dudley,201,Standard Dunk,2,32,28,DUNKS,,1997
+Chris Dudley,201,Standard Layup,2,73,29,LAYUPS,,1997
+Chris Dudley,201,Tip Shot,2,50,20,TIP_SHOTS,,1997
+Chris Dudley,201,Hook Shot,2,12,5,POST_MOVES,,1998
+Chris Dudley,201,Jump Shot,2,37,7,JUMP_SHOTS,,1998
+Chris Dudley,201,Standard Dunk,2,14,14,DUNKS,,1998
+Chris Dudley,201,Standard Layup,2,44,20,LAYUPS,,1998
+Chris Dudley,201,Tip Shot,2,36,12,TIP_SHOTS,,1998
+Chris Dudley,201,Driving Layup,2,3,1,LAYUPS,,1999
+Chris Dudley,201,Hook Shot,2,17,10,POST_MOVES,,1999
+Chris Dudley,201,Jump Shot,2,13,2,JUMP_SHOTS,,1999
+Chris Dudley,201,Standard Dunk,2,11,10,DUNKS,,1999
+Chris Dudley,201,Standard Layup,2,30,19,LAYUPS,,1999
+Chris Dudley,201,Tip Shot,2,35,6,TIP_SHOTS,,1999
+Chris Dudley,201,Driving Layup,2,3,2,LAYUPS,,2000
+Chris Dudley,201,Hook Shot,2,6,2,POST_MOVES,,2000
+Chris Dudley,201,Jump Shot,2,12,0,JUMP_SHOTS,,2000
+Chris Dudley,201,Running Jump Shot,2,1,1,JUMP_SHOTS,,2000
+Chris Dudley,201,Standard Dunk,2,6,6,DUNKS,,2000
+Chris Dudley,201,Standard Layup,2,20,8,LAYUPS,,2000
+Chris Dudley,201,Tip Shot,2,19,4,TIP_SHOTS,,2000
+Chris Dudley,201,Hook Shot,2,15,7,POST_MOVES,,2001
+Chris Dudley,201,Jump Shot,2,20,3,JUMP_SHOTS,,2001
+Chris Dudley,201,Standard Dunk,2,8,7,DUNKS,,2001
+Chris Dudley,201,Standard Layup,2,16,8,LAYUPS,,2001
+Chris Dudley,201,Tip Shot,2,14,4,TIP_SHOTS,,2001
+Chris Dudley,201,Driving Dunk,2,1,1,DUNKS,,2002
+Chris Dudley,201,Hook Shot,2,11,6,POST_MOVES,,2002
+Chris Dudley,201,Jump Shot,2,16,2,JUMP_SHOTS,,2002
+Chris Dudley,201,Standard Dunk,2,4,4,DUNKS,,2002
+Chris Dudley,201,Standard Layup,2,9,2,LAYUPS,,2002
+Chris Dudley,201,Tip Shot,2,8,5,TIP_SHOTS,,2002
+Chris Dudley,201,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2002
+Chris Dudley,201,Standard Layup,2,1,0,LAYUPS,,2003

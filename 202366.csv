@@ -1,30 +1,24 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Jerome Jordan,202366,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2012
-Jerome Jordan,202366,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2012
-Jerome Jordan,202366,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2012
-Jerome Jordan,202366,Standard Dunk,2,5,4,Dunk Shot,DUNKS,,2012
-Jerome Jordan,202366,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2012
-Jerome Jordan,202366,Jump Shot,2,10,2,Jump Shot,JUMP_SHOTS,,2012
-Jerome Jordan,202366,Standard Layup,2,6,2,Layup Shot,LAYUPS,,2012
-Jerome Jordan,202366,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2012
-Jerome Jordan,202366,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2012
-Jerome Jordan,202366,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2012
-Jerome Jordan,202366,Tip Shot,2,2,0,Tip Shot,TIP_SHOTS,,2012
-Jerome Jordan,202366,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2015
-Jerome Jordan,202366,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2015
-Jerome Jordan,202366,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2015
-Jerome Jordan,202366,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2015
-Jerome Jordan,202366,Standard Dunk,2,9,6,Dunk Shot,DUNKS,,2015
-Jerome Jordan,202366,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2015
-Jerome Jordan,202366,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2015
-Jerome Jordan,202366,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2015
-Jerome Jordan,202366,Hook Shot,2,4,2,Hook Shot,POST_MOVES,,2015
-Jerome Jordan,202366,Jump Shot,2,13,4,Jump Shot,JUMP_SHOTS,,2015
-Jerome Jordan,202366,Standard Layup,2,30,11,Layup Shot,LAYUPS,,2015
-Jerome Jordan,202366,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2015
-Jerome Jordan,202366,Putback Layup,2,5,5,Putback Layup Shot,LAYUPS,,2015
-Jerome Jordan,202366,Putback Dunk,2,1,1,Putback Slam Dunk Shot,DUNKS,,2015
-Jerome Jordan,202366,Reverse Layup,2,5,3,Reverse Layup Shot,LAYUPS,,2015
-Jerome Jordan,202366,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2015
-Jerome Jordan,202366,Standard Dunk,2,7,7,Slam Dunk Shot,DUNKS,,2015
-Jerome Jordan,202366,Tip Shot,2,8,3,Tip Shot,TIP_SHOTS,,2015
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Jerome Jordan,202366,Alley Oop Dunk,2,2,2,DUNKS,,2012
+Jerome Jordan,202366,Driving Dunk,2,1,1,DUNKS,,2012
+Jerome Jordan,202366,Driving Layup,2,1,1,LAYUPS,,2012
+Jerome Jordan,202366,Hook Shot,2,2,1,POST_MOVES,,2012
+Jerome Jordan,202366,Jump Shot,2,10,2,JUMP_SHOTS,,2012
+Jerome Jordan,202366,Putback Dunk,2,2,2,DUNKS,,2012
+Jerome Jordan,202366,Putback Layup,2,1,1,LAYUPS,,2012
+Jerome Jordan,202366,Standard Dunk,2,6,5,DUNKS,,2012
+Jerome Jordan,202366,Standard Layup,2,6,2,LAYUPS,,2012
+Jerome Jordan,202366,Tip Shot,2,2,0,TIP_SHOTS,,2012
+Jerome Jordan,202366,Alley Oop Dunk,2,2,2,DUNKS,,2015
+Jerome Jordan,202366,Driving Dunk,2,1,1,DUNKS,,2015
+Jerome Jordan,202366,Driving Layup,2,1,0,LAYUPS,,2015
+Jerome Jordan,202366,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2015
+Jerome Jordan,202366,Finger Roll,2,2,2,LAYUPS,,2015
+Jerome Jordan,202366,Hook Shot,2,5,2,POST_MOVES,,2015
+Jerome Jordan,202366,Jump Shot,2,13,4,JUMP_SHOTS,,2015
+Jerome Jordan,202366,Putback Dunk,2,3,3,DUNKS,,2015
+Jerome Jordan,202366,Putback Layup,2,5,5,LAYUPS,,2015
+Jerome Jordan,202366,Reverse Layup,2,5,3,LAYUPS,,2015
+Jerome Jordan,202366,Standard Dunk,2,16,13,DUNKS,,2015
+Jerome Jordan,202366,Standard Layup,2,32,12,LAYUPS,,2015
+Jerome Jordan,202366,Tip Shot,2,8,3,TIP_SHOTS,,2015

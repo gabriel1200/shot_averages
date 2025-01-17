@@ -1,16 +1,15 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Paul McPherson,2101,Alley Oop Dunk,2,6,6,Alley Oop Dunk Shot,DUNKS,,2001
-Paul McPherson,2101,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2001
-Paul McPherson,2101,Driving Layup,2,15,11,Driving Layup Shot,LAYUPS,,2001
-Paul McPherson,2101,Standard Dunk,2,18,13,Dunk Shot,DUNKS,,2001
-Paul McPherson,2101,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2001
-Paul McPherson,2101,Hook Shot,2,2,2,Hook Shot,POST_MOVES,,2001
-Paul McPherson,2101,Jump Shot,2,114,37,Jump Shot,JUMP_SHOTS,,2001
-Paul McPherson,2101,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2001
-Paul McPherson,2101,Standard Layup,2,24,15,Layup Shot,LAYUPS,,2001
-Paul McPherson,2101,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2001
-Paul McPherson,2101,Reverse Layup,2,5,3,Reverse Layup Shot,LAYUPS,,2001
-Paul McPherson,2101,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2001
-Paul McPherson,2101,Standard Dunk,2,8,8,Slam Dunk Shot,DUNKS,,2001
-Paul McPherson,2101,Tip Shot,2,9,3,Tip Shot,TIP_SHOTS,,2001
-Paul McPherson,2101,Turnaround Jump Shot,2,8,6,Turnaround Jump Shot,JUMP_SHOTS,,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Paul McPherson,2101,Alley Oop Dunk,2,6,6,DUNKS,,2001
+Paul McPherson,2101,Driving Dunk,2,2,2,DUNKS,,2001
+Paul McPherson,2101,Driving Layup,2,15,11,LAYUPS,,2001
+Paul McPherson,2101,Finger Roll,2,1,1,LAYUPS,,2001
+Paul McPherson,2101,Hook Shot,2,2,2,POST_MOVES,,2001
+Paul McPherson,2101,Jump Shot,2,114,37,JUMP_SHOTS,,2001
+Paul McPherson,2101,Jump Shot,3,1,0,JUMP_SHOTS,,2001
+Paul McPherson,2101,Reverse Dunk,2,1,1,DUNKS,,2001
+Paul McPherson,2101,Reverse Layup,2,5,3,LAYUPS,,2001
+Paul McPherson,2101,Running Jump Shot,2,2,1,JUMP_SHOTS,,2001
+Paul McPherson,2101,Standard Dunk,2,26,21,DUNKS,,2001
+Paul McPherson,2101,Standard Layup,2,24,15,LAYUPS,,2001
+Paul McPherson,2101,Tip Shot,2,9,3,TIP_SHOTS,,2001
+Paul McPherson,2101,Turnaround Jump Shot,2,8,6,JUMP_SHOTS,,2001

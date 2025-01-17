@@ -1,41 +1,39 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Nikoloz Tskitishvili,2401,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2003
-Nikoloz Tskitishvili,2401,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2003
-Nikoloz Tskitishvili,2401,Driving Layup,2,10,5,Driving Layup Shot,LAYUPS,,2003
-Nikoloz Tskitishvili,2401,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2003
-Nikoloz Tskitishvili,2401,Fadeaway Jump Shot,2,5,1,Fadeaway Jump Shot,JUMP_SHOTS,,2003
-Nikoloz Tskitishvili,2401,Finger Roll,2,1,0,Finger Roll Shot,LAYUPS,,2003
-Nikoloz Tskitishvili,2401,Hook Shot,2,2,2,Jump Hook Shot,POST_MOVES,,2003
-Nikoloz Tskitishvili,2401,Jump Shot,2,267,68,Jump Shot,JUMP_SHOTS,,2003
-Nikoloz Tskitishvili,2401,Jump Shot,3,15,2,Jump Shot,JUMP_SHOTS,,2003
-Nikoloz Tskitishvili,2401,Standard Layup,2,35,11,Layup Shot,LAYUPS,,2003
-Nikoloz Tskitishvili,2401,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2003
-Nikoloz Tskitishvili,2401,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2003
-Nikoloz Tskitishvili,2401,Running Jump Shot,2,6,2,Running Jump Shot,JUMP_SHOTS,,2003
-Nikoloz Tskitishvili,2401,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2003
-Nikoloz Tskitishvili,2401,Tip Shot,2,22,4,Tip Shot,TIP_SHOTS,,2003
-Nikoloz Tskitishvili,2401,Turnaround Jump Shot,2,17,9,Turnaround Jump Shot,JUMP_SHOTS,,2003
-Nikoloz Tskitishvili,2401,Driving Layup,2,4,2,Driving Layup Shot,LAYUPS,,2004
-Nikoloz Tskitishvili,2401,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2004
-Nikoloz Tskitishvili,2401,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2004
-Nikoloz Tskitishvili,2401,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2004
-Nikoloz Tskitishvili,2401,Jump Shot,2,95,27,Jump Shot,JUMP_SHOTS,,2004
-Nikoloz Tskitishvili,2401,Standard Layup,2,6,3,Layup Shot,LAYUPS,,2004
-Nikoloz Tskitishvili,2401,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2004
-Nikoloz Tskitishvili,2401,Tip Shot,2,8,2,Tip Shot,TIP_SHOTS,,2004
-Nikoloz Tskitishvili,2401,Turnaround Jump Shot,2,4,2,Turnaround Jump Shot,JUMP_SHOTS,,2004
-Nikoloz Tskitishvili,2401,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2005
-Nikoloz Tskitishvili,2401,Jump Shot,2,53,14,Jump Shot,JUMP_SHOTS,,2005
-Nikoloz Tskitishvili,2401,Standard Layup,2,13,6,Layup Shot,LAYUPS,,2005
-Nikoloz Tskitishvili,2401,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2005
-Nikoloz Tskitishvili,2401,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2005
-Nikoloz Tskitishvili,2401,Turnaround Jump Shot,2,5,1,Turnaround Jump Shot,JUMP_SHOTS,,2005
-Nikoloz Tskitishvili,2401,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2006
-Nikoloz Tskitishvili,2401,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2006
-Nikoloz Tskitishvili,2401,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2006
-Nikoloz Tskitishvili,2401,Finger Roll,2,1,0,Finger Roll Shot,LAYUPS,,2006
-Nikoloz Tskitishvili,2401,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2006
-Nikoloz Tskitishvili,2401,Jump Shot,2,22,7,Jump Shot,JUMP_SHOTS,,2006
-Nikoloz Tskitishvili,2401,Standard Layup,2,6,1,Layup Shot,LAYUPS,,2006
-Nikoloz Tskitishvili,2401,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,,2006
-Nikoloz Tskitishvili,2401,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2006
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Nikoloz Tskitishvili,2401,Alley Oop Dunk,2,1,1,DUNKS,,2003
+Nikoloz Tskitishvili,2401,Alley Oop Layup,2,1,0,LAYUPS,,2003
+Nikoloz Tskitishvili,2401,Driving Layup,2,10,5,LAYUPS,,2003
+Nikoloz Tskitishvili,2401,Fadeaway Jump Shot,2,5,1,JUMP_SHOTS,,2003
+Nikoloz Tskitishvili,2401,Finger Roll,2,1,0,LAYUPS,,2003
+Nikoloz Tskitishvili,2401,Hook Shot,2,2,2,POST_MOVES,,2003
+Nikoloz Tskitishvili,2401,Jump Shot,2,267,68,JUMP_SHOTS,,2003
+Nikoloz Tskitishvili,2401,Jump Shot,3,15,2,JUMP_SHOTS,,2003
+Nikoloz Tskitishvili,2401,Reverse Layup,2,3,2,LAYUPS,,2003
+Nikoloz Tskitishvili,2401,Running Jump Shot,2,6,2,JUMP_SHOTS,,2003
+Nikoloz Tskitishvili,2401,Standard Dunk,2,8,8,DUNKS,,2003
+Nikoloz Tskitishvili,2401,Standard Layup,2,35,11,LAYUPS,,2003
+Nikoloz Tskitishvili,2401,Tip Shot,2,22,4,TIP_SHOTS,,2003
+Nikoloz Tskitishvili,2401,Turnaround Jump Shot,2,17,9,JUMP_SHOTS,,2003
+Nikoloz Tskitishvili,2401,Driving Layup,2,4,2,LAYUPS,,2004
+Nikoloz Tskitishvili,2401,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2004
+Nikoloz Tskitishvili,2401,Jump Shot,2,95,27,JUMP_SHOTS,,2004
+Nikoloz Tskitishvili,2401,Reverse Layup,2,1,1,LAYUPS,,2004
+Nikoloz Tskitishvili,2401,Specialty Dunk,2,1,1,DUNKS,,2004
+Nikoloz Tskitishvili,2401,Standard Dunk,2,2,2,DUNKS,,2004
+Nikoloz Tskitishvili,2401,Standard Layup,2,6,3,LAYUPS,,2004
+Nikoloz Tskitishvili,2401,Tip Shot,2,8,2,TIP_SHOTS,,2004
+Nikoloz Tskitishvili,2401,Turnaround Jump Shot,2,4,2,JUMP_SHOTS,,2004
+Nikoloz Tskitishvili,2401,Alley Oop Layup,2,1,1,LAYUPS,,2005
+Nikoloz Tskitishvili,2401,Jump Shot,2,53,14,JUMP_SHOTS,,2005
+Nikoloz Tskitishvili,2401,Reverse Layup,2,1,0,LAYUPS,,2005
+Nikoloz Tskitishvili,2401,Standard Layup,2,13,6,LAYUPS,,2005
+Nikoloz Tskitishvili,2401,Tip Shot,2,1,0,TIP_SHOTS,,2005
+Nikoloz Tskitishvili,2401,Turnaround Jump Shot,2,5,1,JUMP_SHOTS,,2005
+Nikoloz Tskitishvili,2401,Driving Layup,2,1,1,LAYUPS,,2006
+Nikoloz Tskitishvili,2401,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2006
+Nikoloz Tskitishvili,2401,Finger Roll,2,1,0,LAYUPS,,2006
+Nikoloz Tskitishvili,2401,Hook Shot,2,1,1,POST_MOVES,,2006
+Nikoloz Tskitishvili,2401,Jump Shot,2,22,7,JUMP_SHOTS,,2006
+Nikoloz Tskitishvili,2401,Standard Dunk,2,1,1,DUNKS,,2006
+Nikoloz Tskitishvili,2401,Standard Layup,2,6,1,LAYUPS,,2006
+Nikoloz Tskitishvili,2401,Tip Shot,2,3,1,TIP_SHOTS,,2006
+Nikoloz Tskitishvili,2401,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2006

@@ -1,58 +1,42 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Jonny Flynn,201938,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2010
-Jonny Flynn,201938,Driving Dunk,2,3,2,Driving Dunk Shot,DUNKS,,2010
-Jonny Flynn,201938,Finger Roll,2,4,4,Driving Finger Roll Layup Shot,LAYUPS,,2010
-Jonny Flynn,201938,Driving Jump Shot,2,3,2,Driving Jump shot,JUMP_SHOTS,,2010
-Jonny Flynn,201938,Driving Layup,2,127,93,Driving Layup Shot,LAYUPS,,2010
-Jonny Flynn,201938,Driving Layup,2,4,3,Driving Reverse Layup Shot,LAYUPS,,2010
-Jonny Flynn,201938,Standard Dunk,2,9,5,Dunk Shot,DUNKS,,2010
-Jonny Flynn,201938,Fadeaway Jump Shot,2,12,5,Fadeaway Jump Shot,JUMP_SHOTS,,2010
-Jonny Flynn,201938,Finger Roll,2,3,3,Finger Roll Layup Shot,LAYUPS,,2010
-Jonny Flynn,201938,Floating Jump Shot,2,40,24,Floating Jump shot,FLOATING_SHOTS,,2010
-Jonny Flynn,201938,Jump Shot,2,11,9,Jump Bank Shot,JUMP_SHOTS,,2010
-Jonny Flynn,201938,Jump Shot,2,479,140,Jump Shot,JUMP_SHOTS,,2010
-Jonny Flynn,201938,Standard Layup,2,105,26,Layup Shot,LAYUPS,,2010
-Jonny Flynn,201938,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2010
-Jonny Flynn,201938,Pullup Jump Shot,2,59,35,Pullup Jump shot,JUMP_SHOTS,,2010
-Jonny Flynn,201938,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2010
-Jonny Flynn,201938,Reverse Layup,2,14,8,Reverse Layup Shot,LAYUPS,,2010
-Jonny Flynn,201938,Running Jump Shot,2,6,5,Running Bank shot,JUMP_SHOTS,,2010
-Jonny Flynn,201938,Running Jump Shot,2,45,17,Running Jump Shot,JUMP_SHOTS,,2010
-Jonny Flynn,201938,Standard Layup,2,12,7,Running Layup Shot,LAYUPS,,2010
-Jonny Flynn,201938,Standard Dunk,2,1,0,Slam Dunk Shot,DUNKS,,2010
-Jonny Flynn,201938,Step Back Jump Shot,2,10,5,Step Back Jump shot,JUMP_SHOTS,,2010
-Jonny Flynn,201938,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2010
-Jonny Flynn,201938,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2011
-Jonny Flynn,201938,Finger Roll,2,3,1,Driving Finger Roll Layup Shot,LAYUPS,,2011
-Jonny Flynn,201938,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2011
-Jonny Flynn,201938,Driving Jump Shot,2,2,1,Driving Jump shot,JUMP_SHOTS,,2011
-Jonny Flynn,201938,Driving Layup,2,19,13,Driving Layup Shot,LAYUPS,,2011
-Jonny Flynn,201938,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2011
-Jonny Flynn,201938,Fadeaway Jump Shot,2,5,2,Fadeaway Jump Shot,JUMP_SHOTS,,2011
-Jonny Flynn,201938,Floating Jump Shot,2,13,11,Floating Jump shot,FLOATING_SHOTS,,2011
-Jonny Flynn,201938,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2011
-Jonny Flynn,201938,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2011
-Jonny Flynn,201938,Jump Shot,2,187,50,Jump Shot,JUMP_SHOTS,,2011
-Jonny Flynn,201938,Standard Layup,2,16,4,Layup Shot,LAYUPS,,2011
-Jonny Flynn,201938,Pullup Jump Shot,2,20,13,Pullup Jump shot,JUMP_SHOTS,,2011
-Jonny Flynn,201938,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2011
-Jonny Flynn,201938,Running Jump Shot,2,1,0,Running Bank shot,JUMP_SHOTS,,2011
-Jonny Flynn,201938,Running Jump Shot,2,12,5,Running Jump Shot,JUMP_SHOTS,,2011
-Jonny Flynn,201938,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2011
-Jonny Flynn,201938,Step Back Jump Shot,2,9,2,Step Back Jump shot,JUMP_SHOTS,,2011
-Jonny Flynn,201938,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2011
-Jonny Flynn,201938,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2012
-Jonny Flynn,201938,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2012
-Jonny Flynn,201938,Driving Layup,2,9,5,Driving Layup Shot,LAYUPS,,2012
-Jonny Flynn,201938,Fadeaway Jump Shot,2,4,2,Fadeaway Jump Shot,JUMP_SHOTS,,2012
-Jonny Flynn,201938,Floating Jump Shot,2,10,4,Floating Jump shot,FLOATING_SHOTS,,2012
-Jonny Flynn,201938,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2012
-Jonny Flynn,201938,Jump Shot,2,69,17,Jump Shot,JUMP_SHOTS,,2012
-Jonny Flynn,201938,Jump Shot,3,3,1,Jump Shot,JUMP_SHOTS,,2012
-Jonny Flynn,201938,Standard Layup,2,11,3,Layup Shot,LAYUPS,,2012
-Jonny Flynn,201938,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2012
-Jonny Flynn,201938,Pullup Jump Shot,2,5,3,Pullup Jump shot,JUMP_SHOTS,,2012
-Jonny Flynn,201938,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2012
-Jonny Flynn,201938,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2012
-Jonny Flynn,201938,Running Jump Shot,2,3,2,Running Bank shot,JUMP_SHOTS,,2012
-Jonny Flynn,201938,Running Jump Shot,2,8,2,Running Jump Shot,JUMP_SHOTS,,2012
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Jonny Flynn,201938,Driving Dunk,2,3,2,DUNKS,,2010
+Jonny Flynn,201938,Driving Jump Shot,2,4,3,JUMP_SHOTS,,2010
+Jonny Flynn,201938,Driving Layup,2,131,96,LAYUPS,,2010
+Jonny Flynn,201938,Fadeaway Jump Shot,2,12,5,JUMP_SHOTS,,2010
+Jonny Flynn,201938,Finger Roll,2,7,7,LAYUPS,,2010
+Jonny Flynn,201938,Floating Jump Shot,2,40,24,FLOATING_SHOTS,,2010
+Jonny Flynn,201938,Jump Shot,2,490,149,JUMP_SHOTS,,2010
+Jonny Flynn,201938,Pullup Jump Shot,2,60,36,JUMP_SHOTS,,2010
+Jonny Flynn,201938,Putback Dunk,2,1,1,DUNKS,,2010
+Jonny Flynn,201938,Reverse Layup,2,14,8,LAYUPS,,2010
+Jonny Flynn,201938,Running Jump Shot,2,51,22,JUMP_SHOTS,,2010
+Jonny Flynn,201938,Standard Dunk,2,10,5,DUNKS,,2010
+Jonny Flynn,201938,Standard Layup,2,117,33,LAYUPS,,2010
+Jonny Flynn,201938,Step Back Jump Shot,2,10,5,JUMP_SHOTS,,2010
+Jonny Flynn,201938,Turnaround Jump Shot,2,2,1,JUMP_SHOTS,,2010
+Jonny Flynn,201938,Driving Hook Shot,2,1,0,POST_MOVES,,2011
+Jonny Flynn,201938,Driving Jump Shot,2,3,2,JUMP_SHOTS,,2011
+Jonny Flynn,201938,Driving Layup,2,20,14,LAYUPS,,2011
+Jonny Flynn,201938,Fadeaway Jump Shot,2,5,2,JUMP_SHOTS,,2011
+Jonny Flynn,201938,Finger Roll,2,3,1,LAYUPS,,2011
+Jonny Flynn,201938,Floating Jump Shot,2,13,11,FLOATING_SHOTS,,2011
+Jonny Flynn,201938,Hook Shot,2,1,0,POST_MOVES,,2011
+Jonny Flynn,201938,Jump Shot,2,189,51,JUMP_SHOTS,,2011
+Jonny Flynn,201938,Pullup Jump Shot,2,20,13,JUMP_SHOTS,,2011
+Jonny Flynn,201938,Reverse Layup,2,1,1,LAYUPS,,2011
+Jonny Flynn,201938,Running Jump Shot,2,13,5,JUMP_SHOTS,,2011
+Jonny Flynn,201938,Standard Layup,2,17,5,LAYUPS,,2011
+Jonny Flynn,201938,Step Back Jump Shot,2,9,2,JUMP_SHOTS,,2011
+Jonny Flynn,201938,Tip Shot,2,1,1,TIP_SHOTS,,2011
+Jonny Flynn,201938,Driving Jump Shot,2,1,0,JUMP_SHOTS,,2012
+Jonny Flynn,201938,Driving Layup,2,9,5,LAYUPS,,2012
+Jonny Flynn,201938,Fadeaway Jump Shot,2,4,2,JUMP_SHOTS,,2012
+Jonny Flynn,201938,Finger Roll,2,2,2,LAYUPS,,2012
+Jonny Flynn,201938,Floating Jump Shot,2,10,4,FLOATING_SHOTS,,2012
+Jonny Flynn,201938,Jump Shot,2,70,17,JUMP_SHOTS,,2012
+Jonny Flynn,201938,Jump Shot,3,3,1,JUMP_SHOTS,,2012
+Jonny Flynn,201938,Pullup Jump Shot,2,6,4,JUMP_SHOTS,,2012
+Jonny Flynn,201938,Putback Layup,2,1,1,LAYUPS,,2012
+Jonny Flynn,201938,Reverse Layup,2,3,3,LAYUPS,,2012
+Jonny Flynn,201938,Running Jump Shot,2,11,4,JUMP_SHOTS,,2012
+Jonny Flynn,201938,Standard Layup,2,11,3,LAYUPS,,2012

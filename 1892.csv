@@ -1,19 +1,17 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Trajan Langdon,1892,Driving Layup,2,3,1,Driving Layup Shot,LAYUPS,,2000
-Trajan Langdon,1892,Jump Shot,2,33,12,Jump Shot,JUMP_SHOTS,,2000
-Trajan Langdon,1892,Standard Layup,2,4,2,Layup Shot,LAYUPS,,2000
-Trajan Langdon,1892,Driving Layup,2,8,7,Driving Layup Shot,LAYUPS,,2001
-Trajan Langdon,1892,Hook Shot,2,3,2,Hook Shot,POST_MOVES,,2001
-Trajan Langdon,1892,Jump Shot,2,261,101,Jump Shot,JUMP_SHOTS,,2001
-Trajan Langdon,1892,Jump Shot,3,7,3,Jump Shot,JUMP_SHOTS,,2001
-Trajan Langdon,1892,Standard Layup,2,25,15,Layup Shot,LAYUPS,,2001
-Trajan Langdon,1892,Running Jump Shot,2,5,3,Running Jump Shot,JUMP_SHOTS,,2001
-Trajan Langdon,1892,Standard Layup,2,4,4,Running Layup Shot,LAYUPS,,2001
-Trajan Langdon,1892,Driving Layup,2,4,3,Driving Layup Shot,LAYUPS,,2002
-Trajan Langdon,1892,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2002
-Trajan Langdon,1892,Jump Shot,2,144,50,Jump Shot,JUMP_SHOTS,,2002
-Trajan Langdon,1892,Jump Shot,3,3,0,Jump Shot,JUMP_SHOTS,,2002
-Trajan Langdon,1892,Standard Layup,2,17,11,Layup Shot,LAYUPS,,2002
-Trajan Langdon,1892,Running Jump Shot,2,5,4,Running Jump Shot,JUMP_SHOTS,,2002
-Trajan Langdon,1892,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2002
-Trajan Langdon,1892,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2002
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Trajan Langdon,1892,Driving Layup,2,3,1,LAYUPS,,2000
+Trajan Langdon,1892,Jump Shot,2,33,12,JUMP_SHOTS,,2000
+Trajan Langdon,1892,Standard Layup,2,4,2,LAYUPS,,2000
+Trajan Langdon,1892,Driving Layup,2,8,7,LAYUPS,,2001
+Trajan Langdon,1892,Hook Shot,2,3,2,POST_MOVES,,2001
+Trajan Langdon,1892,Jump Shot,2,261,101,JUMP_SHOTS,,2001
+Trajan Langdon,1892,Jump Shot,3,7,3,JUMP_SHOTS,,2001
+Trajan Langdon,1892,Running Jump Shot,2,5,3,JUMP_SHOTS,,2001
+Trajan Langdon,1892,Standard Layup,2,29,19,LAYUPS,,2001
+Trajan Langdon,1892,Driving Layup,2,4,3,LAYUPS,,2002
+Trajan Langdon,1892,Hook Shot,2,1,0,POST_MOVES,,2002
+Trajan Langdon,1892,Jump Shot,2,144,50,JUMP_SHOTS,,2002
+Trajan Langdon,1892,Jump Shot,3,3,0,JUMP_SHOTS,,2002
+Trajan Langdon,1892,Running Jump Shot,2,5,4,JUMP_SHOTS,,2002
+Trajan Langdon,1892,Standard Layup,2,18,12,LAYUPS,,2002
+Trajan Langdon,1892,Turnaround Jump Shot,2,1,1,JUMP_SHOTS,,2002

@@ -1,14 +1,14 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Vincent Askew,355,Driving Layup,2,15,14,Driving Layup Shot,LAYUPS,,1997
-Vincent Askew,355,Jump Shot,2,100,33,Jump Shot,JUMP_SHOTS,,1997
-Vincent Askew,355,Jump Shot,3,3,1,Jump Shot,JUMP_SHOTS,,1997
-Vincent Askew,355,Standard Layup,2,54,20,Layup Shot,LAYUPS,,1997
-Vincent Askew,355,Running Jump Shot,2,10,9,Running Jump Shot,JUMP_SHOTS,,1997
-Vincent Askew,355,Tip Shot,2,4,4,Tip Shot,TIP_SHOTS,,1997
-Vincent Askew,355,Driving Layup,2,4,3,Driving Layup Shot,LAYUPS,,1998
-Vincent Askew,355,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,1998
-Vincent Askew,355,Jump Shot,2,31,6,Jump Shot,JUMP_SHOTS,,1998
-Vincent Askew,355,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,1998
-Vincent Askew,355,Standard Layup,2,9,5,Layup Shot,LAYUPS,,1998
-Vincent Askew,355,Running Jump Shot,2,4,2,Running Jump Shot,JUMP_SHOTS,,1998
-Vincent Askew,355,Tip Shot,2,4,2,Tip Shot,TIP_SHOTS,,1998
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Vincent Askew,355,Driving Layup,2,15,14,LAYUPS,,1997
+Vincent Askew,355,Jump Shot,2,100,33,JUMP_SHOTS,,1997
+Vincent Askew,355,Jump Shot,3,3,1,JUMP_SHOTS,,1997
+Vincent Askew,355,Running Jump Shot,2,10,9,JUMP_SHOTS,,1997
+Vincent Askew,355,Standard Layup,2,54,20,LAYUPS,,1997
+Vincent Askew,355,Tip Shot,2,4,4,TIP_SHOTS,,1997
+Vincent Askew,355,Driving Layup,2,4,3,LAYUPS,,1998
+Vincent Askew,355,Jump Shot,2,31,6,JUMP_SHOTS,,1998
+Vincent Askew,355,Jump Shot,3,1,0,JUMP_SHOTS,,1998
+Vincent Askew,355,Running Jump Shot,2,4,2,JUMP_SHOTS,,1998
+Vincent Askew,355,Standard Dunk,2,1,1,DUNKS,,1998
+Vincent Askew,355,Standard Layup,2,9,5,LAYUPS,,1998
+Vincent Askew,355,Tip Shot,2,4,2,TIP_SHOTS,,1998

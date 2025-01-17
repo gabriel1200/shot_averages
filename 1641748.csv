@@ -1,52 +1,34 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Andre Jackson Jr.,1641748,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2024
-Andre Jackson Jr.,1641748,Specialty Dunk,2,3,3,Cutting Dunk Shot,DUNKS,,2024
-Andre Jackson Jr.,1641748,Finger Roll,2,1,0,Cutting Finger Roll Layup Shot,LAYUPS,,2024
-Andre Jackson Jr.,1641748,Standard Layup,2,2,0,Cutting Layup Shot,LAYUPS,,2024
-Andre Jackson Jr.,1641748,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2024
-Andre Jackson Jr.,1641748,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
-Andre Jackson Jr.,1641748,Floating Jump Shot,2,6,4,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
-Andre Jackson Jr.,1641748,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2024
-Andre Jackson Jr.,1641748,Floating Jump Shot,2,6,4,Floating Jump shot,FLOATING_SHOTS,,2024
-Andre Jackson Jr.,1641748,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2024
-Andre Jackson Jr.,1641748,Jump Shot,3,1,1,Jump Bank Shot,JUMP_SHOTS,,2024
-Andre Jackson Jr.,1641748,Jump Shot,2,1,1,Jump Shot,JUMP_SHOTS,,2024
-Andre Jackson Jr.,1641748,Jump Shot,3,37,13,Jump Shot,JUMP_SHOTS,,2024
-Andre Jackson Jr.,1641748,Standard Layup,2,5,1,Layup Shot,LAYUPS,,2024
-Andre Jackson Jr.,1641748,Pullup Jump Shot,2,2,1,Pullup Jump shot,JUMP_SHOTS,,2024
-Andre Jackson Jr.,1641748,Pullup Jump Shot,3,2,0,Pullup Jump shot,JUMP_SHOTS,,2024
-Andre Jackson Jr.,1641748,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2024
-Andre Jackson Jr.,1641748,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2024
-Andre Jackson Jr.,1641748,Standard Dunk,2,4,4,Running Dunk Shot,DUNKS,,2024
-Andre Jackson Jr.,1641748,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2024
-Andre Jackson Jr.,1641748,Running Jump Shot,3,3,2,Running Jump Shot,JUMP_SHOTS,,2024
-Andre Jackson Jr.,1641748,Standard Layup,2,7,2,Running Layup Shot,LAYUPS,,2024
-Andre Jackson Jr.,1641748,Step Back Jump Shot,3,3,1,Step Back Jump shot,JUMP_SHOTS,,2024
-Andre Jackson Jr.,1641748,Specialty Dunk,2,6,6,Tip Dunk Shot,DUNKS,,2024
-Andre Jackson Jr.,1641748,Putback Layup,2,2,1,Tip Layup Shot,LAYUPS,,2024
-Andre Jackson Jr.,1641748,Alley Oop Dunk,2,1,0,Alley Oop Dunk Shot,DUNKS,,2025
-Andre Jackson Jr.,1641748,Specialty Dunk,2,4,3,Cutting Dunk Shot,DUNKS,,2025
-Andre Jackson Jr.,1641748,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2025
-Andre Jackson Jr.,1641748,Standard Layup,2,5,2,Cutting Layup Shot,LAYUPS,,2025
-Andre Jackson Jr.,1641748,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2025
-Andre Jackson Jr.,1641748,Finger Roll,2,4,3,Driving Finger Roll Layup Shot,LAYUPS,,2025
-Andre Jackson Jr.,1641748,Floating Jump Shot,2,7,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
-Andre Jackson Jr.,1641748,Driving Hook Shot,2,2,0,Driving Hook Shot,POST_MOVES,,2025
-Andre Jackson Jr.,1641748,Driving Layup,2,5,0,Driving Layup Shot,LAYUPS,,2025
-Andre Jackson Jr.,1641748,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2025
-Andre Jackson Jr.,1641748,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2025
-Andre Jackson Jr.,1641748,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2025
-Andre Jackson Jr.,1641748,Jump Shot,3,48,18,Jump Shot,JUMP_SHOTS,,2025
-Andre Jackson Jr.,1641748,Pullup Jump Shot,3,3,0,Pullup Jump shot,JUMP_SHOTS,,2025
-Andre Jackson Jr.,1641748,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2025
-Andre Jackson Jr.,1641748,Standard Dunk,2,5,4,Running Dunk Shot,DUNKS,,2025
-Andre Jackson Jr.,1641748,Finger Roll,2,3,2,Running Finger Roll Layup Shot,LAYUPS,,2025
-Andre Jackson Jr.,1641748,Standard Layup,2,9,6,Running Layup Shot,LAYUPS,,2025
-Andre Jackson Jr.,1641748,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2025
-Andre Jackson Jr.,1641748,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2025
-Andre Jackson Jr.,1641748,Step Back Jump Shot,3,5,2,Step Back Jump shot,JUMP_SHOTS,,2025
-Andre Jackson Jr.,1641748,Specialty Dunk,2,6,3,Tip Dunk Shot,DUNKS,,2025
-Andre Jackson Jr.,1641748,Putback Layup,2,3,1,Tip Layup Shot,LAYUPS,,2025
-Andre Jackson Jr.,1641748,Turnaround Hook Shot,2,1,0,Turnaround Bank Hook Shot,POST_MOVES,,2025
-Andre Jackson Jr.,1641748,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2025
-Andre Jackson Jr.,1641748,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Andre Jackson Jr.,1641748,Alley Oop Dunk,2,3,3,DUNKS,,2024
+Andre Jackson Jr.,1641748,Driving Layup,2,1,0,LAYUPS,,2024
+Andre Jackson Jr.,1641748,Finger Roll,2,3,2,LAYUPS,,2024
+Andre Jackson Jr.,1641748,Floating Jump Shot,2,13,8,FLOATING_SHOTS,,2024
+Andre Jackson Jr.,1641748,Hook Shot,2,1,0,POST_MOVES,,2024
+Andre Jackson Jr.,1641748,Jump Shot,2,1,1,JUMP_SHOTS,,2024
+Andre Jackson Jr.,1641748,Jump Shot,3,38,14,JUMP_SHOTS,,2024
+Andre Jackson Jr.,1641748,Pullup Jump Shot,2,2,1,JUMP_SHOTS,,2024
+Andre Jackson Jr.,1641748,Pullup Jump Shot,3,2,0,JUMP_SHOTS,,2024
+Andre Jackson Jr.,1641748,Putback Layup,2,3,2,LAYUPS,,2024
+Andre Jackson Jr.,1641748,Running Jump Shot,3,3,2,JUMP_SHOTS,,2024
+Andre Jackson Jr.,1641748,Specialty Dunk,2,9,9,DUNKS,,2024
+Andre Jackson Jr.,1641748,Standard Dunk,2,4,4,DUNKS,,2024
+Andre Jackson Jr.,1641748,Standard Layup,2,14,3,LAYUPS,,2024
+Andre Jackson Jr.,1641748,Step Back Jump Shot,3,3,1,JUMP_SHOTS,,2024
+Andre Jackson Jr.,1641748,Alley Oop Dunk,2,1,0,DUNKS,,2025
+Andre Jackson Jr.,1641748,Driving Dunk,2,1,1,DUNKS,,2025
+Andre Jackson Jr.,1641748,Driving Hook Shot,2,2,0,POST_MOVES,,2025
+Andre Jackson Jr.,1641748,Driving Layup,2,5,0,LAYUPS,,2025
+Andre Jackson Jr.,1641748,Finger Roll,2,8,6,LAYUPS,,2025
+Andre Jackson Jr.,1641748,Floating Jump Shot,2,9,3,FLOATING_SHOTS,,2025
+Andre Jackson Jr.,1641748,Hook Shot,2,3,1,POST_MOVES,,2025
+Andre Jackson Jr.,1641748,Jump Shot,3,48,18,JUMP_SHOTS,,2025
+Andre Jackson Jr.,1641748,Pullup Jump Shot,3,3,0,JUMP_SHOTS,,2025
+Andre Jackson Jr.,1641748,Putback Layup,2,3,1,LAYUPS,,2025
+Andre Jackson Jr.,1641748,Reverse Layup,2,3,3,LAYUPS,,2025
+Andre Jackson Jr.,1641748,Specialty Dunk,2,10,6,DUNKS,,2025
+Andre Jackson Jr.,1641748,Standard Dunk,2,5,4,DUNKS,,2025
+Andre Jackson Jr.,1641748,Standard Layup,2,14,8,LAYUPS,,2025
+Andre Jackson Jr.,1641748,Step Back Jump Shot,2,1,0,JUMP_SHOTS,,2025
+Andre Jackson Jr.,1641748,Step Back Jump Shot,3,5,2,JUMP_SHOTS,,2025
+Andre Jackson Jr.,1641748,Turnaround Hook Shot,2,2,0,POST_MOVES,,2025
+Andre Jackson Jr.,1641748,Turnaround Jump Shot,2,1,0,JUMP_SHOTS,,2025

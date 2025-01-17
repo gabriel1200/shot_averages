@@ -1,10 +1,9 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Thurl Bailey,1847,Driving Layup,2,3,1,Driving Layup Shot,LAYUPS,,1999
-Thurl Bailey,1847,Standard Dunk,2,4,3,Dunk Shot,DUNKS,,1999
-Thurl Bailey,1847,Hook Shot,2,25,10,Hook Shot,POST_MOVES,,1999
-Thurl Bailey,1847,Jump Shot,2,95,38,Jump Shot,JUMP_SHOTS,,1999
-Thurl Bailey,1847,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,1999
-Thurl Bailey,1847,Standard Layup,2,35,19,Layup Shot,LAYUPS,,1999
-Thurl Bailey,1847,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,1999
-Thurl Bailey,1847,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,1999
-Thurl Bailey,1847,Tip Shot,2,8,5,Tip Shot,TIP_SHOTS,,1999
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Thurl Bailey,1847,Driving Layup,2,3,1,LAYUPS,,1999
+Thurl Bailey,1847,Hook Shot,2,25,10,POST_MOVES,,1999
+Thurl Bailey,1847,Jump Shot,2,95,38,JUMP_SHOTS,,1999
+Thurl Bailey,1847,Jump Shot,3,2,0,JUMP_SHOTS,,1999
+Thurl Bailey,1847,Running Jump Shot,2,1,0,JUMP_SHOTS,,1999
+Thurl Bailey,1847,Standard Dunk,2,6,5,DUNKS,,1999
+Thurl Bailey,1847,Standard Layup,2,35,19,LAYUPS,,1999
+Thurl Bailey,1847,Tip Shot,2,8,5,TIP_SHOTS,,1999

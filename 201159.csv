@@ -1,48 +1,36 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Javaris Crittenton,201159,Driving Dunk,2,5,5,Driving Dunk Shot,DUNKS,,2008
-Javaris Crittenton,201159,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2008
-Javaris Crittenton,201159,Driving Jump Shot,2,1,1,Driving Jump shot,JUMP_SHOTS,,2008
-Javaris Crittenton,201159,Driving Layup,2,27,20,Driving Layup Shot,LAYUPS,,2008
-Javaris Crittenton,201159,Driving Layup,2,6,6,Driving Reverse Layup Shot,LAYUPS,,2008
-Javaris Crittenton,201159,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2008
-Javaris Crittenton,201159,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2008
-Javaris Crittenton,201159,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2008
-Javaris Crittenton,201159,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2008
-Javaris Crittenton,201159,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2008
-Javaris Crittenton,201159,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2008
-Javaris Crittenton,201159,Jump Shot,2,99,25,Jump Shot,JUMP_SHOTS,,2008
-Javaris Crittenton,201159,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2008
-Javaris Crittenton,201159,Standard Layup,2,46,16,Layup Shot,LAYUPS,,2008
-Javaris Crittenton,201159,Pullup Jump Shot,2,4,1,Pullup Jump shot,JUMP_SHOTS,,2008
-Javaris Crittenton,201159,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2008
-Javaris Crittenton,201159,Reverse Layup,2,18,9,Reverse Layup Shot,LAYUPS,,2008
-Javaris Crittenton,201159,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2008
-Javaris Crittenton,201159,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2008
-Javaris Crittenton,201159,Running Jump Shot,2,3,1,Running Jump Shot,JUMP_SHOTS,,2008
-Javaris Crittenton,201159,Standard Layup,2,7,2,Running Layup Shot,LAYUPS,,2008
-Javaris Crittenton,201159,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2008
-Javaris Crittenton,201159,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2008
-Javaris Crittenton,201159,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2008
-Javaris Crittenton,201159,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2008
-Javaris Crittenton,201159,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2009
-Javaris Crittenton,201159,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2009
-Javaris Crittenton,201159,Driving Jump Shot,2,1,1,Driving Jump shot,JUMP_SHOTS,,2009
-Javaris Crittenton,201159,Driving Layup,2,45,43,Driving Layup Shot,LAYUPS,,2009
-Javaris Crittenton,201159,Driving Layup,2,3,3,Driving Reverse Layup Shot,LAYUPS,,2009
-Javaris Crittenton,201159,Standard Dunk,2,8,7,Dunk Shot,DUNKS,,2009
-Javaris Crittenton,201159,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2009
-Javaris Crittenton,201159,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2009
-Javaris Crittenton,201159,Floating Jump Shot,2,2,2,Floating Jump shot,FLOATING_SHOTS,,2009
-Javaris Crittenton,201159,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2009
-Javaris Crittenton,201159,Jump Shot,2,107,17,Jump Shot,JUMP_SHOTS,,2009
-Javaris Crittenton,201159,Standard Layup,2,75,29,Layup Shot,LAYUPS,,2009
-Javaris Crittenton,201159,Pullup Jump Shot,2,2,1,Pullup Jump shot,JUMP_SHOTS,,2009
-Javaris Crittenton,201159,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2009
-Javaris Crittenton,201159,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2009
-Javaris Crittenton,201159,Reverse Layup,2,6,4,Reverse Layup Shot,LAYUPS,,2009
-Javaris Crittenton,201159,Running Jump Shot,2,2,2,Running Bank shot,JUMP_SHOTS,,2009
-Javaris Crittenton,201159,Running Jump Shot,2,8,3,Running Jump Shot,JUMP_SHOTS,,2009
-Javaris Crittenton,201159,Standard Layup,2,6,4,Running Layup Shot,LAYUPS,,2009
-Javaris Crittenton,201159,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2009
-Javaris Crittenton,201159,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2009
-Javaris Crittenton,201159,Tip Shot,2,7,3,Tip Shot,TIP_SHOTS,,2009
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Javaris Crittenton,201159,Driving Dunk,2,5,5,DUNKS,,2008
+Javaris Crittenton,201159,Driving Jump Shot,2,1,1,JUMP_SHOTS,,2008
+Javaris Crittenton,201159,Driving Layup,2,33,26,LAYUPS,,2008
+Javaris Crittenton,201159,Fadeaway Jump Shot,2,1,0,JUMP_SHOTS,,2008
+Javaris Crittenton,201159,Finger Roll,2,4,4,LAYUPS,,2008
+Javaris Crittenton,201159,Floating Jump Shot,2,1,1,FLOATING_SHOTS,,2008
+Javaris Crittenton,201159,Hook Shot,2,1,0,POST_MOVES,,2008
+Javaris Crittenton,201159,Jump Shot,2,100,26,JUMP_SHOTS,,2008
+Javaris Crittenton,201159,Jump Shot,3,1,0,JUMP_SHOTS,,2008
+Javaris Crittenton,201159,Pullup Jump Shot,2,4,1,JUMP_SHOTS,,2008
+Javaris Crittenton,201159,Reverse Dunk,2,1,1,DUNKS,,2008
+Javaris Crittenton,201159,Reverse Layup,2,19,9,LAYUPS,,2008
+Javaris Crittenton,201159,Running Hook Shot,2,1,1,POST_MOVES,,2008
+Javaris Crittenton,201159,Running Jump Shot,2,3,1,JUMP_SHOTS,,2008
+Javaris Crittenton,201159,Standard Dunk,2,1,1,DUNKS,,2008
+Javaris Crittenton,201159,Standard Layup,2,53,18,LAYUPS,,2008
+Javaris Crittenton,201159,Tip Shot,2,2,1,TIP_SHOTS,,2008
+Javaris Crittenton,201159,Turnaround Jump Shot,2,2,2,JUMP_SHOTS,,2008
+Javaris Crittenton,201159,Driving Dunk,2,3,3,DUNKS,,2009
+Javaris Crittenton,201159,Driving Jump Shot,2,1,1,JUMP_SHOTS,,2009
+Javaris Crittenton,201159,Driving Layup,2,48,46,LAYUPS,,2009
+Javaris Crittenton,201159,Fadeaway Jump Shot,2,1,1,JUMP_SHOTS,,2009
+Javaris Crittenton,201159,Finger Roll,2,2,2,LAYUPS,,2009
+Javaris Crittenton,201159,Floating Jump Shot,2,2,2,FLOATING_SHOTS,,2009
+Javaris Crittenton,201159,Hook Shot,2,1,0,POST_MOVES,,2009
+Javaris Crittenton,201159,Jump Shot,2,107,17,JUMP_SHOTS,,2009
+Javaris Crittenton,201159,Pullup Jump Shot,2,2,1,JUMP_SHOTS,,2009
+Javaris Crittenton,201159,Putback Dunk,2,2,2,DUNKS,,2009
+Javaris Crittenton,201159,Putback Layup,2,2,2,LAYUPS,,2009
+Javaris Crittenton,201159,Reverse Layup,2,7,5,LAYUPS,,2009
+Javaris Crittenton,201159,Running Jump Shot,2,10,5,JUMP_SHOTS,,2009
+Javaris Crittenton,201159,Standard Dunk,2,8,7,DUNKS,,2009
+Javaris Crittenton,201159,Standard Layup,2,81,33,LAYUPS,,2009
+Javaris Crittenton,201159,Step Back Jump Shot,2,1,1,JUMP_SHOTS,,2009
+Javaris Crittenton,201159,Tip Shot,2,7,3,TIP_SHOTS,,2009

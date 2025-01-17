@@ -1,52 +1,44 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Michael Jordan,893,Driving Dunk,2,10,10,Driving Dunk Shot,DUNKS,,1997
-Michael Jordan,893,Driving Layup,2,55,41,Driving Layup Shot,LAYUPS,,1997
-Michael Jordan,893,Standard Dunk,2,17,14,Dunk Shot,DUNKS,,1997
-Michael Jordan,893,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,1997
-Michael Jordan,893,Jump Shot,2,1505,708,Jump Shot,JUMP_SHOTS,,1997
-Michael Jordan,893,Standard Layup,2,232,87,Layup Shot,LAYUPS,,1997
-Michael Jordan,893,Running Jump Shot,2,23,19,Running Jump Shot,JUMP_SHOTS,,1997
-Michael Jordan,893,Standard Dunk,2,25,25,Slam Dunk Shot,DUNKS,,1997
-Michael Jordan,893,Tip Shot,2,24,15,Tip Shot,TIP_SHOTS,,1997
-Michael Jordan,893,Driving Dunk,2,28,28,Driving Dunk Shot,DUNKS,,1998
-Michael Jordan,893,Driving Layup,2,92,69,Driving Layup Shot,LAYUPS,,1998
-Michael Jordan,893,Standard Dunk,2,45,41,Dunk Shot,DUNKS,,1998
-Michael Jordan,893,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,1998
-Michael Jordan,893,Jump Shot,2,1425,583,Jump Shot,JUMP_SHOTS,,1998
-Michael Jordan,893,Standard Layup,2,245,119,Layup Shot,LAYUPS,,1998
-Michael Jordan,893,Running Jump Shot,2,24,17,Running Jump Shot,JUMP_SHOTS,,1998
-Michael Jordan,893,Standard Dunk,2,20,20,Slam Dunk Shot,DUNKS,,1998
-Michael Jordan,893,Tip Shot,2,13,4,Tip Shot,TIP_SHOTS,,1998
-Michael Jordan,893,Alley Oop Layup,2,9,8,Alley Oop Layup shot,LAYUPS,,2002
-Michael Jordan,893,Driving Dunk,2,8,8,Driving Dunk Shot,DUNKS,,2002
-Michael Jordan,893,Finger Roll,2,2,2,Driving Finger Roll Shot,LAYUPS,,2002
-Michael Jordan,893,Driving Layup,2,40,33,Driving Layup Shot,LAYUPS,,2002
-Michael Jordan,893,Standard Dunk,2,5,5,Dunk Shot,DUNKS,,2002
-Michael Jordan,893,Fadeaway Jump Shot,2,67,57,Fadeaway Jump Shot,JUMP_SHOTS,,2002
-Michael Jordan,893,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2002
-Michael Jordan,893,Jump Shot,2,997,307,Jump Shot,JUMP_SHOTS,,2002
-Michael Jordan,893,Standard Layup,2,79,28,Layup Shot,LAYUPS,,2002
-Michael Jordan,893,Reverse Layup,2,17,13,Reverse Layup Shot,LAYUPS,,2002
-Michael Jordan,893,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2002
-Michael Jordan,893,Running Jump Shot,2,33,30,Running Jump Shot,JUMP_SHOTS,,2002
-Michael Jordan,893,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2002
-Michael Jordan,893,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,2002
-Michael Jordan,893,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2002
-Michael Jordan,893,Turnaround Jump Shot,2,56,49,Turnaround Jump Shot,JUMP_SHOTS,,2002
-Michael Jordan,893,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2003
-Michael Jordan,893,Alley Oop Layup,2,7,7,Alley Oop Layup shot,LAYUPS,,2003
-Michael Jordan,893,Driving Dunk,2,7,6,Driving Dunk Shot,DUNKS,,2003
-Michael Jordan,893,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2003
-Michael Jordan,893,Driving Layup,2,56,49,Driving Layup Shot,LAYUPS,,2003
-Michael Jordan,893,Standard Dunk,2,7,7,Dunk Shot,DUNKS,,2003
-Michael Jordan,893,Fadeaway Jump Shot,2,107,85,Fadeaway Jump Shot,JUMP_SHOTS,,2003
-Michael Jordan,893,Finger Roll,2,7,6,Finger Roll Shot,LAYUPS,,2003
-Michael Jordan,893,Jump Shot,2,1073,356,Jump Shot,JUMP_SHOTS,,2003
-Michael Jordan,893,Standard Layup,2,110,45,Layup Shot,LAYUPS,,2003
-Michael Jordan,893,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2003
-Michael Jordan,893,Reverse Layup,2,14,9,Reverse Layup Shot,LAYUPS,,2003
-Michael Jordan,893,Running Jump Shot,2,47,42,Running Jump Shot,JUMP_SHOTS,,2003
-Michael Jordan,893,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,2003
-Michael Jordan,893,Tip Shot,2,4,2,Tip Shot,TIP_SHOTS,,2003
-Michael Jordan,893,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2003
-Michael Jordan,893,Turnaround Jump Shot,2,78,56,Turnaround Jump Shot,JUMP_SHOTS,,2003
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
+Michael Jordan,893,Driving Dunk,2,10,10,DUNKS,,1997
+Michael Jordan,893,Driving Layup,2,55,41,LAYUPS,,1997
+Michael Jordan,893,Hook Shot,2,1,1,POST_MOVES,,1997
+Michael Jordan,893,Jump Shot,2,1505,708,JUMP_SHOTS,,1997
+Michael Jordan,893,Running Jump Shot,2,23,19,JUMP_SHOTS,,1997
+Michael Jordan,893,Standard Dunk,2,42,39,DUNKS,,1997
+Michael Jordan,893,Standard Layup,2,232,87,LAYUPS,,1997
+Michael Jordan,893,Tip Shot,2,24,15,TIP_SHOTS,,1997
+Michael Jordan,893,Driving Dunk,2,28,28,DUNKS,,1998
+Michael Jordan,893,Driving Layup,2,92,69,LAYUPS,,1998
+Michael Jordan,893,Hook Shot,2,1,0,POST_MOVES,,1998
+Michael Jordan,893,Jump Shot,2,1425,583,JUMP_SHOTS,,1998
+Michael Jordan,893,Running Jump Shot,2,24,17,JUMP_SHOTS,,1998
+Michael Jordan,893,Standard Dunk,2,65,61,DUNKS,,1998
+Michael Jordan,893,Standard Layup,2,245,119,LAYUPS,,1998
+Michael Jordan,893,Tip Shot,2,13,4,TIP_SHOTS,,1998
+Michael Jordan,893,Alley Oop Layup,2,9,8,LAYUPS,,2002
+Michael Jordan,893,Driving Dunk,2,8,8,DUNKS,,2002
+Michael Jordan,893,Driving Layup,2,40,33,LAYUPS,,2002
+Michael Jordan,893,Fadeaway Jump Shot,2,67,57,JUMP_SHOTS,,2002
+Michael Jordan,893,Finger Roll,2,3,3,LAYUPS,,2002
+Michael Jordan,893,Jump Shot,2,997,307,JUMP_SHOTS,,2002
+Michael Jordan,893,Reverse Layup,2,17,13,LAYUPS,,2002
+Michael Jordan,893,Running Jump Shot,2,33,30,JUMP_SHOTS,,2002
+Michael Jordan,893,Standard Dunk,2,12,12,DUNKS,,2002
+Michael Jordan,893,Standard Layup,2,81,30,LAYUPS,,2002
+Michael Jordan,893,Tip Shot,2,1,1,TIP_SHOTS,,2002
+Michael Jordan,893,Turnaround Jump Shot,2,56,49,JUMP_SHOTS,,2002
+Michael Jordan,893,Alley Oop Dunk,2,2,2,DUNKS,,2003
+Michael Jordan,893,Alley Oop Layup,2,7,7,LAYUPS,,2003
+Michael Jordan,893,Driving Dunk,2,7,6,DUNKS,,2003
+Michael Jordan,893,Driving Layup,2,56,49,LAYUPS,,2003
+Michael Jordan,893,Fadeaway Jump Shot,2,107,85,JUMP_SHOTS,,2003
+Michael Jordan,893,Finger Roll,2,8,7,LAYUPS,,2003
+Michael Jordan,893,Jump Shot,2,1073,356,JUMP_SHOTS,,2003
+Michael Jordan,893,Reverse Dunk,2,1,1,DUNKS,,2003
+Michael Jordan,893,Reverse Layup,2,14,9,LAYUPS,,2003
+Michael Jordan,893,Running Jump Shot,2,47,42,JUMP_SHOTS,,2003
+Michael Jordan,893,Standard Dunk,2,12,12,DUNKS,,2003
+Michael Jordan,893,Standard Layup,2,110,45,LAYUPS,,2003
+Michael Jordan,893,Tip Shot,2,4,2,TIP_SHOTS,,2003
+Michael Jordan,893,Turnaround Hook Shot,2,1,0,POST_MOVES,,2003
+Michael Jordan,893,Turnaround Jump Shot,2,78,56,JUMP_SHOTS,,2003
