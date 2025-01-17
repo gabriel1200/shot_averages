@@ -1,45 +1,45 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Chris Webber,185,Driving Dunk,2PT Field Goal,10,10,Driving Dunk Shot,DUNKS,1.0,1997
-Chris Webber,185,Driving Layup,2PT Field Goal,18,17,Driving Layup Shot,LAYUPS,0.9444444444444444,1997
-Chris Webber,185,Standard Dunk,2PT Field Goal,15,14,Dunk Shot,DUNKS,0.9333333333333332,1997
-Chris Webber,185,Hook Shot,2PT Field Goal,16,8,Hook Shot,POST_MOVES,0.5,1997
-Chris Webber,185,Jump Shot,2PT Field Goal,83,25,Jump Shot,JUMP_SHOTS,0.3012048192771084,1997
-Chris Webber,185,Jump Shot,3PT Field Goal,31,10,Jump Shot,JUMP_SHOTS,0.4838709677419355,1997
-Chris Webber,185,Standard Layup,2PT Field Goal,90,33,Layup Shot,LAYUPS,0.3666666666666666,1997
-Chris Webber,185,Standard Dunk,2PT Field Goal,20,20,Slam Dunk Shot,DUNKS,1.0,1997
-Chris Webber,185,Tip Shot,2PT Field Goal,5,5,Tip Shot,TIP_SHOTS,1.0,1997
-Chris Webber,185,Driving Dunk,2PT Field Goal,7,7,Driving Dunk Shot,DUNKS,1.0,1998
-Chris Webber,185,Driving Layup,2PT Field Goal,10,8,Driving Layup Shot,LAYUPS,0.8,1998
-Chris Webber,185,Standard Dunk,2PT Field Goal,10,9,Dunk Shot,DUNKS,0.9,1998
-Chris Webber,185,Hook Shot,2PT Field Goal,10,6,Hook Shot,POST_MOVES,0.6,1998
-Chris Webber,185,Jump Shot,2PT Field Goal,77,29,Jump Shot,JUMP_SHOTS,0.3766233766233766,1998
-Chris Webber,185,Jump Shot,3PT Field Goal,35,13,Jump Shot,JUMP_SHOTS,0.5571428571428572,1998
-Chris Webber,185,Standard Layup,2PT Field Goal,33,12,Layup Shot,LAYUPS,0.3636363636363636,1998
-Chris Webber,185,Standard Dunk,2PT Field Goal,11,11,Slam Dunk Shot,DUNKS,1.0,1998
-Chris Webber,185,Tip Shot,2PT Field Goal,3,1,Tip Shot,TIP_SHOTS,0.3333333333333333,1998
-Chris Webber,185,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2000
-Chris Webber,185,Jump Shot,2PT Field Goal,6,0,Jump Shot,JUMP_SHOTS,0.0,2000
-Chris Webber,185,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2000
-Chris Webber,185,Standard Layup,2PT Field Goal,2,2,Layup Shot,LAYUPS,1.0,2000
-Chris Webber,185,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2001
-Chris Webber,185,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2005
-Chris Webber,185,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2005
-Chris Webber,185,Finger Roll,2PT Field Goal,1,1,Finger Roll Shot,LAYUPS,1.0,2005
-Chris Webber,185,Hook Shot,2PT Field Goal,1,1,Jump Hook Shot,POST_MOVES,1.0,2005
-Chris Webber,185,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2005
-Chris Webber,185,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2007
-Chris Webber,185,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2007
-Chris Webber,185,Standard Dunk,2PT Field Goal,3,2,Dunk Shot,DUNKS,0.6666666666666666,2007
-Chris Webber,185,Specialty Dunk,2PT Field Goal,2,2,Follow Up Dunk Shot,DUNKS,1.0,2007
-Chris Webber,185,Hook Shot,2PT Field Goal,7,2,Hook Shot,POST_MOVES,0.2857142857142857,2007
-Chris Webber,185,Jump Shot,2PT Field Goal,2,1,Jump Bank Shot,JUMP_SHOTS,0.5,2007
-Chris Webber,185,Hook Shot,2PT Field Goal,1,1,Jump Hook Shot,POST_MOVES,1.0,2007
-Chris Webber,185,Jump Shot,2PT Field Goal,17,4,Jump Shot,JUMP_SHOTS,0.2352941176470588,2007
-Chris Webber,185,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2007
-Chris Webber,185,Standard Layup,2PT Field Goal,7,3,Layup Shot,LAYUPS,0.4285714285714285,2007
-Chris Webber,185,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2007
-Chris Webber,185,Running Hook Shot,2PT Field Goal,1,0,Running Hook Shot,POST_MOVES,0.0,2007
-Chris Webber,185,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2007
-Chris Webber,185,Tip Shot,2PT Field Goal,4,1,Tip Shot,TIP_SHOTS,0.25,2007
-Chris Webber,185,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2007
-Chris Webber,185,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2007
+PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+185,Driving Dunk,2PT Field Goal,10,10,Driving Dunk Shot,DUNKS,1.0,1997
+185,Driving Layup,2PT Field Goal,18,17,Driving Layup Shot,LAYUPS,0.9444444444444444,1997
+185,Standard Dunk,2PT Field Goal,15,14,Dunk Shot,DUNKS,0.9333333333333332,1997
+185,Hook Shot,2PT Field Goal,16,8,Hook Shot,POST_MOVES,0.5,1997
+185,Jump Shot,2PT Field Goal,83,25,Jump Shot,JUMP_SHOTS,0.3012048192771084,1997
+185,Jump Shot,3PT Field Goal,31,10,Jump Shot,JUMP_SHOTS,0.4838709677419355,1997
+185,Standard Layup,2PT Field Goal,90,33,Layup Shot,LAYUPS,0.3666666666666666,1997
+185,Standard Dunk,2PT Field Goal,20,20,Slam Dunk Shot,DUNKS,1.0,1997
+185,Tip Shot,2PT Field Goal,5,5,Tip Shot,TIP_SHOTS,1.0,1997
+185,Driving Dunk,2PT Field Goal,7,7,Driving Dunk Shot,DUNKS,1.0,1998
+185,Driving Layup,2PT Field Goal,10,8,Driving Layup Shot,LAYUPS,0.8,1998
+185,Standard Dunk,2PT Field Goal,10,9,Dunk Shot,DUNKS,0.9,1998
+185,Hook Shot,2PT Field Goal,10,6,Hook Shot,POST_MOVES,0.6,1998
+185,Jump Shot,2PT Field Goal,77,29,Jump Shot,JUMP_SHOTS,0.3766233766233766,1998
+185,Jump Shot,3PT Field Goal,35,13,Jump Shot,JUMP_SHOTS,0.5571428571428572,1998
+185,Standard Layup,2PT Field Goal,33,12,Layup Shot,LAYUPS,0.3636363636363636,1998
+185,Standard Dunk,2PT Field Goal,11,11,Slam Dunk Shot,DUNKS,1.0,1998
+185,Tip Shot,2PT Field Goal,3,1,Tip Shot,TIP_SHOTS,0.3333333333333333,1998
+185,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2000
+185,Jump Shot,2PT Field Goal,6,0,Jump Shot,JUMP_SHOTS,0.0,2000
+185,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2000
+185,Standard Layup,2PT Field Goal,2,2,Layup Shot,LAYUPS,1.0,2000
+185,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2001
+185,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2005
+185,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2005
+185,Finger Roll,2PT Field Goal,1,1,Finger Roll Shot,LAYUPS,1.0,2005
+185,Hook Shot,2PT Field Goal,1,1,Jump Hook Shot,POST_MOVES,1.0,2005
+185,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2005
+185,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2007
+185,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2007
+185,Standard Dunk,2PT Field Goal,3,2,Dunk Shot,DUNKS,0.6666666666666666,2007
+185,Specialty Dunk,2PT Field Goal,2,2,Follow Up Dunk Shot,DUNKS,1.0,2007
+185,Hook Shot,2PT Field Goal,7,2,Hook Shot,POST_MOVES,0.2857142857142857,2007
+185,Jump Shot,2PT Field Goal,2,1,Jump Bank Shot,JUMP_SHOTS,0.5,2007
+185,Hook Shot,2PT Field Goal,1,1,Jump Hook Shot,POST_MOVES,1.0,2007
+185,Jump Shot,2PT Field Goal,17,4,Jump Shot,JUMP_SHOTS,0.2352941176470588,2007
+185,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2007
+185,Standard Layup,2PT Field Goal,7,3,Layup Shot,LAYUPS,0.4285714285714285,2007
+185,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2007
+185,Running Hook Shot,2PT Field Goal,1,0,Running Hook Shot,POST_MOVES,0.0,2007
+185,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2007
+185,Tip Shot,2PT Field Goal,4,1,Tip Shot,TIP_SHOTS,0.25,2007
+185,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2007
+185,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2007

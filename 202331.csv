@@ -1,44 +1,44 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-Paul George,202331,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2014
-Paul George,202331,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,2014
-Paul George,202331,Driving Layup,2PT Field Goal,3,1,Driving Layup Shot,LAYUPS,0.3333333333333333,2019
-Paul George,202331,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,2019
-Paul George,202331,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2019
-Paul George,202331,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.0,2019
-Paul George,202331,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2020
-Paul George,202331,Pullup Jump Shot,3PT Field Goal,2,1,Pullup Jump shot,JUMP_SHOTS,0.75,2020
-Paul George,202331,Pullup Jump Shot,2PT Field Goal,2,1,Pullup Jump shot,JUMP_SHOTS,0.5,2021
-Paul George,202331,Step Back Jump Shot,3PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.5,2021
-Paul George,202331,Alley Oop Layup,2PT Field Goal,3,2,Alley Oop Layup shot,LAYUPS,0.6666666666666666,2024
-Paul George,202331,Specialty Dunk,2PT Field Goal,3,3,Cutting Dunk Shot,DUNKS,1.0,2024
-Paul George,202331,Standard Layup,2PT Field Goal,4,3,Cutting Layup Shot,LAYUPS,0.75,2024
-Paul George,202331,Driving Hook Shot,2PT Field Goal,1,1,Driving Bank Hook Shot,POST_MOVES,1.0,2024
-Paul George,202331,Driving Dunk,2PT Field Goal,7,4,Driving Dunk Shot,DUNKS,0.5714285714285714,2024
-Paul George,202331,Finger Roll,2PT Field Goal,1,0,Driving Finger Roll Layup Shot,LAYUPS,0.0,2024
-Paul George,202331,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,1.0,2024
-Paul George,202331,Floating Jump Shot,2PT Field Goal,13,3,Driving Floating Jump Shot,FLOATING_SHOTS,0.2307692307692307,2024
-Paul George,202331,Driving Hook Shot,2PT Field Goal,3,1,Driving Hook Shot,POST_MOVES,0.3333333333333333,2024
-Paul George,202331,Driving Layup,2PT Field Goal,39,20,Driving Layup Shot,LAYUPS,0.5128205128205128,2024
-Paul George,202331,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2024
-Paul George,202331,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Bank shot,JUMP_SHOTS,1.0,2024
-Paul George,202331,Fadeaway Jump Shot,2PT Field Goal,16,8,Fadeaway Jump Shot,JUMP_SHOTS,0.5,2024
-Paul George,202331,Fadeaway Jump Shot,3PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.5,2024
-Paul George,202331,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2024
-Paul George,202331,Jump Shot,2PT Field Goal,17,7,Jump Shot,JUMP_SHOTS,0.4117647058823529,2024
-Paul George,202331,Jump Shot,3PT Field Goal,115,52,Jump Shot,JUMP_SHOTS,0.6782608695652174,2024
-Paul George,202331,Standard Layup,2PT Field Goal,3,2,Layup Shot,LAYUPS,0.6666666666666666,2024
-Paul George,202331,Pullup Jump Shot,2PT Field Goal,47,20,Pullup Jump shot,JUMP_SHOTS,0.425531914893617,2024
-Paul George,202331,Pullup Jump Shot,3PT Field Goal,51,19,Pullup Jump shot,JUMP_SHOTS,0.5588235294117647,2024
-Paul George,202331,Putback Layup,2PT Field Goal,1,0,Putback Layup Shot,LAYUPS,0.0,2024
-Paul George,202331,Standard Dunk,2PT Field Goal,5,4,Running Dunk Shot,DUNKS,0.8,2024
-Paul George,202331,Finger Roll,2PT Field Goal,2,2,Running Finger Roll Layup Shot,LAYUPS,1.0,2024
-Paul George,202331,Running Jump Shot,3PT Field Goal,8,1,Running Jump Shot,JUMP_SHOTS,0.1875,2024
-Paul George,202331,Standard Layup,2PT Field Goal,12,8,Running Layup Shot,LAYUPS,0.6666666666666666,2024
-Paul George,202331,Running Jump Shot,2PT Field Goal,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,1.0,2024
-Paul George,202331,Running Jump Shot,3PT Field Goal,11,5,Running Pull-Up Jump Shot,JUMP_SHOTS,0.6818181818181818,2024
-Paul George,202331,Reverse Layup,2PT Field Goal,1,1,Running Reverse Layup Shot,LAYUPS,1.0,2024
-Paul George,202331,Step Back Jump Shot,2PT Field Goal,25,9,Step Back Jump shot,JUMP_SHOTS,0.36,2024
-Paul George,202331,Step Back Jump Shot,3PT Field Goal,32,15,Step Back Jump shot,JUMP_SHOTS,0.703125,2024
-Paul George,202331,Turnaround Jump Shot,2PT Field Goal,6,3,Turnaround Fadeaway shot,JUMP_SHOTS,0.5,2024
-Paul George,202331,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2024
-Paul George,202331,Turnaround Jump Shot,2PT Field Goal,8,5,Turnaround Jump Shot,JUMP_SHOTS,0.625,2024
+PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+202331,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2014
+202331,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,2014
+202331,Driving Layup,2PT Field Goal,3,1,Driving Layup Shot,LAYUPS,0.3333333333333333,2019
+202331,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,2019
+202331,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2019
+202331,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.0,2019
+202331,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2020
+202331,Pullup Jump Shot,3PT Field Goal,2,1,Pullup Jump shot,JUMP_SHOTS,0.75,2020
+202331,Pullup Jump Shot,2PT Field Goal,2,1,Pullup Jump shot,JUMP_SHOTS,0.5,2021
+202331,Step Back Jump Shot,3PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.5,2021
+202331,Alley Oop Layup,2PT Field Goal,3,2,Alley Oop Layup shot,LAYUPS,0.6666666666666666,2024
+202331,Specialty Dunk,2PT Field Goal,3,3,Cutting Dunk Shot,DUNKS,1.0,2024
+202331,Standard Layup,2PT Field Goal,4,3,Cutting Layup Shot,LAYUPS,0.75,2024
+202331,Driving Hook Shot,2PT Field Goal,1,1,Driving Bank Hook Shot,POST_MOVES,1.0,2024
+202331,Driving Dunk,2PT Field Goal,7,4,Driving Dunk Shot,DUNKS,0.5714285714285714,2024
+202331,Finger Roll,2PT Field Goal,1,0,Driving Finger Roll Layup Shot,LAYUPS,0.0,2024
+202331,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,1.0,2024
+202331,Floating Jump Shot,2PT Field Goal,13,3,Driving Floating Jump Shot,FLOATING_SHOTS,0.2307692307692307,2024
+202331,Driving Hook Shot,2PT Field Goal,3,1,Driving Hook Shot,POST_MOVES,0.3333333333333333,2024
+202331,Driving Layup,2PT Field Goal,39,20,Driving Layup Shot,LAYUPS,0.5128205128205128,2024
+202331,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2024
+202331,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Bank shot,JUMP_SHOTS,1.0,2024
+202331,Fadeaway Jump Shot,2PT Field Goal,16,8,Fadeaway Jump Shot,JUMP_SHOTS,0.5,2024
+202331,Fadeaway Jump Shot,3PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.5,2024
+202331,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2024
+202331,Jump Shot,2PT Field Goal,17,7,Jump Shot,JUMP_SHOTS,0.4117647058823529,2024
+202331,Jump Shot,3PT Field Goal,115,52,Jump Shot,JUMP_SHOTS,0.6782608695652174,2024
+202331,Standard Layup,2PT Field Goal,3,2,Layup Shot,LAYUPS,0.6666666666666666,2024
+202331,Pullup Jump Shot,2PT Field Goal,47,20,Pullup Jump shot,JUMP_SHOTS,0.425531914893617,2024
+202331,Pullup Jump Shot,3PT Field Goal,51,19,Pullup Jump shot,JUMP_SHOTS,0.5588235294117647,2024
+202331,Putback Layup,2PT Field Goal,1,0,Putback Layup Shot,LAYUPS,0.0,2024
+202331,Standard Dunk,2PT Field Goal,5,4,Running Dunk Shot,DUNKS,0.8,2024
+202331,Finger Roll,2PT Field Goal,2,2,Running Finger Roll Layup Shot,LAYUPS,1.0,2024
+202331,Running Jump Shot,3PT Field Goal,8,1,Running Jump Shot,JUMP_SHOTS,0.1875,2024
+202331,Standard Layup,2PT Field Goal,12,8,Running Layup Shot,LAYUPS,0.6666666666666666,2024
+202331,Running Jump Shot,2PT Field Goal,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,1.0,2024
+202331,Running Jump Shot,3PT Field Goal,11,5,Running Pull-Up Jump Shot,JUMP_SHOTS,0.6818181818181818,2024
+202331,Reverse Layup,2PT Field Goal,1,1,Running Reverse Layup Shot,LAYUPS,1.0,2024
+202331,Step Back Jump Shot,2PT Field Goal,25,9,Step Back Jump shot,JUMP_SHOTS,0.36,2024
+202331,Step Back Jump Shot,3PT Field Goal,32,15,Step Back Jump shot,JUMP_SHOTS,0.703125,2024
+202331,Turnaround Jump Shot,2PT Field Goal,6,3,Turnaround Fadeaway shot,JUMP_SHOTS,0.5,2024
+202331,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2024
+202331,Turnaround Jump Shot,2PT Field Goal,8,5,Turnaround Jump Shot,JUMP_SHOTS,0.625,2024
