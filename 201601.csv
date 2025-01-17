@@ -1,57 +1,234 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-201601,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2009
-201601,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2009
-201601,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2009
-201601,Hook Shot,2PT Field Goal,1,1,Jump Hook Shot,POST_MOVES,1.0,2009
-201601,Jump Shot,2PT Field Goal,19,4,Jump Shot,JUMP_SHOTS,0.2105263157894736,2009
-201601,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2009
-201601,Standard Layup,2PT Field Goal,16,9,Layup Shot,LAYUPS,0.5625,2009
-201601,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2009
-201601,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2009
-201601,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2009
-201601,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2009
-201601,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2010
-201601,Hook Shot,2PT Field Goal,3,1,Hook Shot,POST_MOVES,0.3333333333333333,2010
-201601,Jump Shot,2PT Field Goal,18,4,Jump Shot,JUMP_SHOTS,0.2222222222222222,2010
-201601,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2010
-201601,Standard Layup,2PT Field Goal,25,13,Layup Shot,LAYUPS,0.52,2010
-201601,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2010
-201601,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2010
-201601,Tip Shot,2PT Field Goal,2,0,Tip Shot,TIP_SHOTS,0.0,2010
-201601,Driving Jump Shot,2PT Field Goal,1,0,Driving Jump shot,JUMP_SHOTS,0.0,2011
-201601,Driving Layup,2PT Field Goal,4,3,Driving Layup Shot,LAYUPS,0.75,2011
-201601,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2011
-201601,Standard Dunk,2PT Field Goal,3,3,Dunk Shot,DUNKS,1.0,2011
-201601,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2011
-201601,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2011
-201601,Hook Shot,2PT Field Goal,1,1,Jump Hook Shot,POST_MOVES,1.0,2011
-201601,Jump Shot,2PT Field Goal,31,10,Jump Shot,JUMP_SHOTS,0.3225806451612903,2011
-201601,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2011
-201601,Standard Layup,2PT Field Goal,23,14,Layup Shot,LAYUPS,0.6086956521739131,2011
-201601,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2011
-201601,Reverse Layup,2PT Field Goal,4,4,Reverse Layup Shot,LAYUPS,1.0,2011
-201601,Tip Shot,2PT Field Goal,2,0,Tip Shot,TIP_SHOTS,0.0,2011
-201601,Alley Oop Layup,2PT Field Goal,1,0,Alley Oop Layup shot,LAYUPS,0.0,2012
-201601,Driving Layup,2PT Field Goal,2,2,Driving Layup Shot,LAYUPS,1.0,2012
-201601,Driving Layup,2PT Field Goal,2,2,Driving Reverse Layup Shot,LAYUPS,1.0,2012
-201601,Driving Dunk,2PT Field Goal,1,1,Driving Slam Dunk Shot,DUNKS,1.0,2012
-201601,Standard Dunk,2PT Field Goal,6,4,Dunk Shot,DUNKS,0.6666666666666666,2012
-201601,Hook Shot,2PT Field Goal,3,2,Hook Shot,POST_MOVES,0.6666666666666666,2012
-201601,Jump Shot,2PT Field Goal,33,5,Jump Shot,JUMP_SHOTS,0.1515151515151515,2012
-201601,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2012
-201601,Standard Layup,2PT Field Goal,43,25,Layup Shot,LAYUPS,0.5813953488372093,2012
-201601,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2012
-201601,Putback Layup,2PT Field Goal,2,0,Putback Layup Shot,LAYUPS,0.0,2012
-201601,Reverse Layup,2PT Field Goal,2,2,Reverse Layup Shot,LAYUPS,1.0,2012
-201601,Tip Shot,2PT Field Goal,5,3,Tip Shot,TIP_SHOTS,0.6,2012
-201601,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2012
-201601,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2013
-201601,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2013
-201601,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2013
-201601,Jump Shot,2PT Field Goal,5,2,Jump Shot,JUMP_SHOTS,0.4,2013
-201601,Jump Shot,3PT Field Goal,4,1,Jump Shot,JUMP_SHOTS,0.375,2013
-201601,Standard Layup,2PT Field Goal,12,5,Layup Shot,LAYUPS,0.4166666666666667,2013
-201601,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2014
-201601,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2014
-201601,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2016
-201601,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2016
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Luc Mbah a Moute,201601,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2009
+Luc Mbah a Moute,201601,Driving Layup,2,14,9,Driving Layup Shot,LAYUPS,,2009
+Luc Mbah a Moute,201601,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2009
+Luc Mbah a Moute,201601,Driving Dunk,2,2,2,Driving Slam Dunk Shot,DUNKS,,2009
+Luc Mbah a Moute,201601,Standard Dunk,2,18,14,Dunk Shot,DUNKS,,2009
+Luc Mbah a Moute,201601,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2009
+Luc Mbah a Moute,201601,Hook Shot,2,3,1,Hook Shot,POST_MOVES,,2009
+Luc Mbah a Moute,201601,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2009
+Luc Mbah a Moute,201601,Hook Shot,2,2,1,Jump Hook Shot,POST_MOVES,,2009
+Luc Mbah a Moute,201601,Jump Shot,2,232,74,Jump Shot,JUMP_SHOTS,,2009
+Luc Mbah a Moute,201601,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2009
+Luc Mbah a Moute,201601,Standard Layup,2,160,87,Layup Shot,LAYUPS,,2009
+Luc Mbah a Moute,201601,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2009
+Luc Mbah a Moute,201601,Putback Layup,2,4,4,Putback Layup Shot,LAYUPS,,2009
+Luc Mbah a Moute,201601,Reverse Layup,2,19,14,Reverse Layup Shot,LAYUPS,,2009
+Luc Mbah a Moute,201601,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2009
+Luc Mbah a Moute,201601,Running Hook Shot,2,2,2,Running Hook Shot,POST_MOVES,,2009
+Luc Mbah a Moute,201601,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,2009
+Luc Mbah a Moute,201601,Tip Shot,2,17,7,Tip Shot,TIP_SHOTS,,2009
+Luc Mbah a Moute,201601,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2009
+Luc Mbah a Moute,201601,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2009
+Luc Mbah a Moute,201601,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2010
+Luc Mbah a Moute,201601,Driving Layup,2,3,2,Driving Layup Shot,LAYUPS,,2010
+Luc Mbah a Moute,201601,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2010
+Luc Mbah a Moute,201601,Standard Dunk,2,12,11,Dunk Shot,DUNKS,,2010
+Luc Mbah a Moute,201601,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+Luc Mbah a Moute,201601,Hook Shot,2,13,4,Hook Shot,POST_MOVES,,2010
+Luc Mbah a Moute,201601,Hook Shot,2,1,1,Jump Bank Hook Shot,POST_MOVES,,2010
+Luc Mbah a Moute,201601,Jump Shot,2,148,43,Jump Shot,JUMP_SHOTS,,2010
+Luc Mbah a Moute,201601,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2010
+Luc Mbah a Moute,201601,Standard Layup,2,140,82,Layup Shot,LAYUPS,,2010
+Luc Mbah a Moute,201601,Pullup Jump Shot,2,3,2,Pullup Jump shot,JUMP_SHOTS,,2010
+Luc Mbah a Moute,201601,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2010
+Luc Mbah a Moute,201601,Putback Layup,2,4,4,Putback Layup Shot,LAYUPS,,2010
+Luc Mbah a Moute,201601,Reverse Layup,2,13,10,Reverse Layup Shot,LAYUPS,,2010
+Luc Mbah a Moute,201601,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2010
+Luc Mbah a Moute,201601,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2010
+Luc Mbah a Moute,201601,Tip Shot,2,23,11,Tip Shot,TIP_SHOTS,,2010
+Luc Mbah a Moute,201601,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2010
+Luc Mbah a Moute,201601,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2011
+Luc Mbah a Moute,201601,Driving Dunk,2,2,1,Driving Dunk Shot,DUNKS,,2011
+Luc Mbah a Moute,201601,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2011
+Luc Mbah a Moute,201601,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2011
+Luc Mbah a Moute,201601,Driving Layup,2,21,14,Driving Layup Shot,LAYUPS,,2011
+Luc Mbah a Moute,201601,Driving Layup,2,5,3,Driving Reverse Layup Shot,LAYUPS,,2011
+Luc Mbah a Moute,201601,Standard Dunk,2,8,8,Dunk Shot,DUNKS,,2011
+Luc Mbah a Moute,201601,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Luc Mbah a Moute,201601,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2011
+Luc Mbah a Moute,201601,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2011
+Luc Mbah a Moute,201601,Hook Shot,2,2,1,Jump Hook Shot,POST_MOVES,,2011
+Luc Mbah a Moute,201601,Jump Shot,2,199,66,Jump Shot,JUMP_SHOTS,,2011
+Luc Mbah a Moute,201601,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2011
+Luc Mbah a Moute,201601,Standard Layup,2,132,71,Layup Shot,LAYUPS,,2011
+Luc Mbah a Moute,201601,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2011
+Luc Mbah a Moute,201601,Putback Layup,2,3,2,Putback Layup Shot,LAYUPS,,2011
+Luc Mbah a Moute,201601,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2011
+Luc Mbah a Moute,201601,Reverse Layup,2,11,9,Reverse Layup Shot,LAYUPS,,2011
+Luc Mbah a Moute,201601,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2011
+Luc Mbah a Moute,201601,Standard Layup,2,3,3,Running Layup Shot,LAYUPS,,2011
+Luc Mbah a Moute,201601,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2011
+Luc Mbah a Moute,201601,Tip Shot,2,30,12,Tip Shot,TIP_SHOTS,,2011
+Luc Mbah a Moute,201601,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2011
+Luc Mbah a Moute,201601,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2012
+Luc Mbah a Moute,201601,Driving Layup,2,7,6,Driving Layup Shot,LAYUPS,,2012
+Luc Mbah a Moute,201601,Driving Layup,2,4,3,Driving Reverse Layup Shot,LAYUPS,,2012
+Luc Mbah a Moute,201601,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2012
+Luc Mbah a Moute,201601,Standard Dunk,2,8,6,Dunk Shot,DUNKS,,2012
+Luc Mbah a Moute,201601,Hook Shot,2,4,2,Hook Shot,POST_MOVES,,2012
+Luc Mbah a Moute,201601,Jump Shot,2,87,19,Jump Shot,JUMP_SHOTS,,2012
+Luc Mbah a Moute,201601,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,2012
+Luc Mbah a Moute,201601,Standard Layup,2,110,70,Layup Shot,LAYUPS,,2012
+Luc Mbah a Moute,201601,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2012
+Luc Mbah a Moute,201601,Putback Layup,2,3,1,Putback Layup Shot,LAYUPS,,2012
+Luc Mbah a Moute,201601,Reverse Layup,2,10,10,Reverse Layup Shot,LAYUPS,,2012
+Luc Mbah a Moute,201601,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2012
+Luc Mbah a Moute,201601,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2012
+Luc Mbah a Moute,201601,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2012
+Luc Mbah a Moute,201601,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2012
+Luc Mbah a Moute,201601,Tip Shot,2,16,8,Tip Shot,TIP_SHOTS,,2012
+Luc Mbah a Moute,201601,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2012
+Luc Mbah a Moute,201601,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Luc Mbah a Moute,201601,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2013
+Luc Mbah a Moute,201601,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2013
+Luc Mbah a Moute,201601,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2013
+Luc Mbah a Moute,201601,Driving Layup,2,15,5,Driving Layup Shot,LAYUPS,,2013
+Luc Mbah a Moute,201601,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2013
+Luc Mbah a Moute,201601,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2013
+Luc Mbah a Moute,201601,Standard Dunk,2,6,5,Dunk Shot,DUNKS,,2013
+Luc Mbah a Moute,201601,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Luc Mbah a Moute,201601,Hook Shot,2,11,5,Hook Shot,POST_MOVES,,2013
+Luc Mbah a Moute,201601,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2013
+Luc Mbah a Moute,201601,Jump Shot,2,172,54,Jump Shot,JUMP_SHOTS,,2013
+Luc Mbah a Moute,201601,Jump Shot,3,5,1,Jump Shot,JUMP_SHOTS,,2013
+Luc Mbah a Moute,201601,Standard Layup,2,118,50,Layup Shot,LAYUPS,,2013
+Luc Mbah a Moute,201601,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2013
+Luc Mbah a Moute,201601,Reverse Layup,2,14,11,Reverse Layup Shot,LAYUPS,,2013
+Luc Mbah a Moute,201601,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2013
+Luc Mbah a Moute,201601,Running Hook Shot,2,4,4,Running Hook Shot,POST_MOVES,,2013
+Luc Mbah a Moute,201601,Step Back Jump Shot,2,2,0,Step Back Jump shot,JUMP_SHOTS,,2013
+Luc Mbah a Moute,201601,Tip Shot,2,10,4,Tip Shot,TIP_SHOTS,,2013
+Luc Mbah a Moute,201601,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2013
+Luc Mbah a Moute,201601,Turnaround Jump Shot,2,4,2,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Luc Mbah a Moute,201601,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2014
+Luc Mbah a Moute,201601,Driving Dunk,2,5,5,Driving Dunk Shot,DUNKS,,2014
+Luc Mbah a Moute,201601,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2014
+Luc Mbah a Moute,201601,Driving Layup,2,19,12,Driving Layup Shot,LAYUPS,,2014
+Luc Mbah a Moute,201601,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2014
+Luc Mbah a Moute,201601,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2014
+Luc Mbah a Moute,201601,Standard Dunk,2,8,5,Dunk Shot,DUNKS,,2014
+Luc Mbah a Moute,201601,Hook Shot,2,4,2,Hook Shot,POST_MOVES,,2014
+Luc Mbah a Moute,201601,Jump Shot,2,69,19,Jump Shot,JUMP_SHOTS,,2014
+Luc Mbah a Moute,201601,Jump Shot,3,3,0,Jump Shot,JUMP_SHOTS,,2014
+Luc Mbah a Moute,201601,Standard Layup,2,62,31,Layup Shot,LAYUPS,,2014
+Luc Mbah a Moute,201601,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2014
+Luc Mbah a Moute,201601,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2014
+Luc Mbah a Moute,201601,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2014
+Luc Mbah a Moute,201601,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2014
+Luc Mbah a Moute,201601,Standard Layup,2,4,2,Running Layup Shot,LAYUPS,,2014
+Luc Mbah a Moute,201601,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2014
+Luc Mbah a Moute,201601,Tip Shot,2,4,0,Tip Shot,TIP_SHOTS,,2014
+Luc Mbah a Moute,201601,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2014
+Luc Mbah a Moute,201601,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2014
+Luc Mbah a Moute,201601,Driving Dunk,2,5,5,Driving Dunk Shot,DUNKS,,2015
+Luc Mbah a Moute,201601,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2015
+Luc Mbah a Moute,201601,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2015
+Luc Mbah a Moute,201601,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2015
+Luc Mbah a Moute,201601,Driving Layup,2,38,28,Driving Layup Shot,LAYUPS,,2015
+Luc Mbah a Moute,201601,Driving Layup,2,8,5,Driving Reverse Layup Shot,LAYUPS,,2015
+Luc Mbah a Moute,201601,Standard Dunk,2,11,9,Dunk Shot,DUNKS,,2015
+Luc Mbah a Moute,201601,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2015
+Luc Mbah a Moute,201601,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2015
+Luc Mbah a Moute,201601,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2015
+Luc Mbah a Moute,201601,Jump Shot,2,204,55,Jump Shot,JUMP_SHOTS,,2015
+Luc Mbah a Moute,201601,Jump Shot,3,201,61,Jump Shot,JUMP_SHOTS,,2015
+Luc Mbah a Moute,201601,Standard Layup,2,114,47,Layup Shot,LAYUPS,,2015
+Luc Mbah a Moute,201601,Pullup Jump Shot,2,12,12,Pullup Jump shot,JUMP_SHOTS,,2015
+Luc Mbah a Moute,201601,Putback Layup,2,7,6,Putback Layup Shot,LAYUPS,,2015
+Luc Mbah a Moute,201601,Reverse Layup,2,5,5,Reverse Layup Shot,LAYUPS,,2015
+Luc Mbah a Moute,201601,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2015
+Luc Mbah a Moute,201601,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2015
+Luc Mbah a Moute,201601,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2015
+Luc Mbah a Moute,201601,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2015
+Luc Mbah a Moute,201601,Step Back Jump Shot,2,3,1,Step Back Jump shot,JUMP_SHOTS,,2015
+Luc Mbah a Moute,201601,Step Back Jump Shot,3,1,1,Step Back Jump shot,JUMP_SHOTS,,2015
+Luc Mbah a Moute,201601,Tip Shot,2,4,1,Tip Shot,TIP_SHOTS,,2015
+Luc Mbah a Moute,201601,Turnaround Hook Shot,2,1,1,Turnaround Bank Hook Shot,POST_MOVES,,2015
+Luc Mbah a Moute,201601,Turnaround Jump Shot,2,2,2,Turnaround Bank shot,JUMP_SHOTS,,2015
+Luc Mbah a Moute,201601,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2015
+Luc Mbah a Moute,201601,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2015
+Luc Mbah a Moute,201601,Turnaround Jump Shot,2,5,4,Turnaround Jump Shot,JUMP_SHOTS,,2015
+Luc Mbah a Moute,201601,Specialty Dunk,2,5,5,Cutting Dunk Shot,DUNKS,,2016
+Luc Mbah a Moute,201601,Finger Roll,2,2,2,Cutting Finger Roll Layup Shot,LAYUPS,,2016
+Luc Mbah a Moute,201601,Standard Layup,2,19,17,Cutting Layup Shot,LAYUPS,,2016
+Luc Mbah a Moute,201601,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2016
+Luc Mbah a Moute,201601,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Luc Mbah a Moute,201601,Driving Layup,2,11,8,Driving Layup Shot,LAYUPS,,2016
+Luc Mbah a Moute,201601,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2016
+Luc Mbah a Moute,201601,Standard Dunk,2,6,3,Dunk Shot,DUNKS,,2016
+Luc Mbah a Moute,201601,Finger Roll,2,2,1,Finger Roll Layup Shot,LAYUPS,,2016
+Luc Mbah a Moute,201601,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2016
+Luc Mbah a Moute,201601,Jump Shot,2,77,21,Jump Shot,JUMP_SHOTS,,2016
+Luc Mbah a Moute,201601,Jump Shot,3,2,2,Jump Shot,JUMP_SHOTS,,2016
+Luc Mbah a Moute,201601,Standard Layup,2,59,24,Layup Shot,LAYUPS,,2016
+Luc Mbah a Moute,201601,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2016
+Luc Mbah a Moute,201601,Reverse Layup,2,2,0,Reverse Layup Shot,LAYUPS,,2016
+Luc Mbah a Moute,201601,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2016
+Luc Mbah a Moute,201601,Standard Layup,2,3,1,Running Layup Shot,LAYUPS,,2016
+Luc Mbah a Moute,201601,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2016
+Luc Mbah a Moute,201601,Putback Layup,2,4,1,Tip Layup Shot,LAYUPS,,2016
+Luc Mbah a Moute,201601,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2016
+Luc Mbah a Moute,201601,Specialty Dunk,2,10,10,Cutting Dunk Shot,DUNKS,,2017
+Luc Mbah a Moute,201601,Standard Layup,2,20,17,Cutting Layup Shot,LAYUPS,,2017
+Luc Mbah a Moute,201601,Driving Dunk,2,5,3,Driving Dunk Shot,DUNKS,,2017
+Luc Mbah a Moute,201601,Finger Roll,2,3,1,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Luc Mbah a Moute,201601,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Luc Mbah a Moute,201601,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2017
+Luc Mbah a Moute,201601,Driving Layup,2,28,17,Driving Layup Shot,LAYUPS,,2017
+Luc Mbah a Moute,201601,Driving Layup,2,10,9,Driving Reverse Layup Shot,LAYUPS,,2017
+Luc Mbah a Moute,201601,Standard Dunk,2,7,6,Dunk Shot,DUNKS,,2017
+Luc Mbah a Moute,201601,Finger Roll,2,3,3,Finger Roll Layup Shot,LAYUPS,,2017
+Luc Mbah a Moute,201601,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2017
+Luc Mbah a Moute,201601,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2017
+Luc Mbah a Moute,201601,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2017
+Luc Mbah a Moute,201601,Jump Shot,2,168,71,Jump Shot,JUMP_SHOTS,,2017
+Luc Mbah a Moute,201601,Standard Layup,2,44,15,Layup Shot,LAYUPS,,2017
+Luc Mbah a Moute,201601,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2017
+Luc Mbah a Moute,201601,Pullup Jump Shot,2,10,6,Pullup Jump shot,JUMP_SHOTS,,2017
+Luc Mbah a Moute,201601,Reverse Layup,2,22,12,Reverse Layup Shot,LAYUPS,,2017
+Luc Mbah a Moute,201601,Standard Dunk,2,6,6,Running Dunk Shot,DUNKS,,2017
+Luc Mbah a Moute,201601,Standard Layup,2,11,6,Running Layup Shot,LAYUPS,,2017
+Luc Mbah a Moute,201601,Running Jump Shot,2,3,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2017
+Luc Mbah a Moute,201601,Reverse Layup,2,3,2,Running Reverse Layup Shot,LAYUPS,,2017
+Luc Mbah a Moute,201601,Step Back Jump Shot,2,3,1,Step Back Jump shot,JUMP_SHOTS,,2017
+Luc Mbah a Moute,201601,Putback Layup,2,4,2,Tip Layup Shot,LAYUPS,,2017
+Luc Mbah a Moute,201601,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2017
+Luc Mbah a Moute,201601,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Luc Mbah a Moute,201601,Specialty Dunk,2,9,9,Cutting Dunk Shot,DUNKS,,2018
+Luc Mbah a Moute,201601,Finger Roll,2,3,3,Cutting Finger Roll Layup Shot,LAYUPS,,2018
+Luc Mbah a Moute,201601,Standard Layup,2,21,15,Cutting Layup Shot,LAYUPS,,2018
+Luc Mbah a Moute,201601,Driving Dunk,2,10,10,Driving Dunk Shot,DUNKS,,2018
+Luc Mbah a Moute,201601,Finger Roll,2,10,5,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Luc Mbah a Moute,201601,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Luc Mbah a Moute,201601,Floating Jump Shot,2,1,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Luc Mbah a Moute,201601,Driving Layup,2,44,19,Driving Layup Shot,LAYUPS,,2018
+Luc Mbah a Moute,201601,Driving Layup,2,5,5,Driving Reverse Layup Shot,LAYUPS,,2018
+Luc Mbah a Moute,201601,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2018
+Luc Mbah a Moute,201601,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+Luc Mbah a Moute,201601,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2018
+Luc Mbah a Moute,201601,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2018
+Luc Mbah a Moute,201601,Jump Shot,2,176,63,Jump Shot,JUMP_SHOTS,,2018
+Luc Mbah a Moute,201601,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2018
+Luc Mbah a Moute,201601,Standard Layup,2,20,8,Layup Shot,LAYUPS,,2018
+Luc Mbah a Moute,201601,Pullup Jump Shot,2,4,1,Pullup Jump shot,JUMP_SHOTS,,2018
+Luc Mbah a Moute,201601,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2018
+Luc Mbah a Moute,201601,Reverse Layup,2,7,2,Reverse Layup Shot,LAYUPS,,2018
+Luc Mbah a Moute,201601,Standard Dunk,2,4,4,Running Dunk Shot,DUNKS,,2018
+Luc Mbah a Moute,201601,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2018
+Luc Mbah a Moute,201601,Standard Layup,2,16,10,Running Layup Shot,LAYUPS,,2018
+Luc Mbah a Moute,201601,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2018
+Luc Mbah a Moute,201601,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2018
+Luc Mbah a Moute,201601,Putback Layup,2,1,1,Tip Layup Shot,LAYUPS,,2018
+Luc Mbah a Moute,201601,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2018
+Luc Mbah a Moute,201601,Standard Layup,2,1,0,Cutting Layup Shot,LAYUPS,,2019
+Luc Mbah a Moute,201601,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2019
+Luc Mbah a Moute,201601,Jump Shot,2,6,2,Jump Shot,JUMP_SHOTS,,2019
+Luc Mbah a Moute,201601,Standard Layup,2,6,2,Layup Shot,LAYUPS,,2019
+Luc Mbah a Moute,201601,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2019
+Luc Mbah a Moute,201601,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2019
+Luc Mbah a Moute,201601,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2019
+Luc Mbah a Moute,201601,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2020
+Luc Mbah a Moute,201601,Jump Shot,2,2,0,Jump Shot,JUMP_SHOTS,,2020
+Luc Mbah a Moute,201601,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2020
+Luc Mbah a Moute,201601,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2020

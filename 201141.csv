@@ -1,15 +1,58 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-201141,Driving Hook Shot,2PT Field Goal,1,1,Driving Hook Shot,POST_MOVES,1.0,2009
-201141,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2009
-201141,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2009
-201141,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2014
-201141,Driving Dunk,2PT Field Goal,1,1,Driving Slam Dunk Shot,DUNKS,1.0,2014
-201141,Standard Dunk,2PT Field Goal,8,6,Dunk Shot,DUNKS,0.75,2014
-201141,Hook Shot,2PT Field Goal,3,0,Hook Shot,POST_MOVES,0.0,2014
-201141,Jump Shot,2PT Field Goal,4,1,Jump Shot,JUMP_SHOTS,0.25,2014
-201141,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2014
-201141,Putback Dunk,2PT Field Goal,1,1,Putback Dunk Shot,DUNKS,1.0,2014
-201141,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2014
-201141,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2014
-201141,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2014
-201141,Turnaround Hook Shot,2PT Field Goal,2,0,Turnaround Hook Shot,POST_MOVES,0.0,2014
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Greg Oden,201141,Alley Oop Dunk,2,6,5,Alley Oop Dunk Shot,DUNKS,,2009
+Greg Oden,201141,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2009
+Greg Oden,201141,Driving Dunk,2,7,7,Driving Dunk Shot,DUNKS,,2009
+Greg Oden,201141,Driving Hook Shot,2,5,3,Driving Hook Shot,POST_MOVES,,2009
+Greg Oden,201141,Driving Jump Shot,2,1,1,Driving Jump shot,JUMP_SHOTS,,2009
+Greg Oden,201141,Driving Layup,2,4,4,Driving Layup Shot,LAYUPS,,2009
+Greg Oden,201141,Driving Dunk,2,3,3,Driving Slam Dunk Shot,DUNKS,,2009
+Greg Oden,201141,Standard Dunk,2,42,35,Dunk Shot,DUNKS,,2009
+Greg Oden,201141,Hook Shot,2,2,2,Hook Bank Shot,POST_MOVES,,2009
+Greg Oden,201141,Hook Shot,2,42,18,Hook Shot,POST_MOVES,,2009
+Greg Oden,201141,Hook Shot,2,18,8,Jump Hook Shot,POST_MOVES,,2009
+Greg Oden,201141,Jump Shot,2,28,7,Jump Shot,JUMP_SHOTS,,2009
+Greg Oden,201141,Standard Layup,2,85,37,Layup Shot,LAYUPS,,2009
+Greg Oden,201141,Putback Dunk,2,8,8,Putback Dunk Shot,DUNKS,,2009
+Greg Oden,201141,Putback Layup,2,4,3,Putback Layup Shot,LAYUPS,,2009
+Greg Oden,201141,Putback Dunk,2,2,2,Putback Slam Dunk Shot,DUNKS,,2009
+Greg Oden,201141,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2009
+Greg Oden,201141,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2009
+Greg Oden,201141,Standard Dunk,2,37,37,Slam Dunk Shot,DUNKS,,2009
+Greg Oden,201141,Tip Shot,2,22,6,Tip Shot,TIP_SHOTS,,2009
+Greg Oden,201141,Turnaround Hook Shot,2,28,9,Turnaround Hook Shot,POST_MOVES,,2009
+Greg Oden,201141,Turnaround Jump Shot,2,4,0,Turnaround Jump Shot,JUMP_SHOTS,,2009
+Greg Oden,201141,Alley Oop Dunk,2,6,6,Alley Oop Dunk Shot,DUNKS,,2010
+Greg Oden,201141,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2010
+Greg Oden,201141,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2010
+Greg Oden,201141,Driving Hook Shot,2,4,1,Driving Hook Shot,POST_MOVES,,2010
+Greg Oden,201141,Driving Layup,2,4,4,Driving Layup Shot,LAYUPS,,2010
+Greg Oden,201141,Driving Layup,2,3,1,Driving Reverse Layup Shot,LAYUPS,,2010
+Greg Oden,201141,Driving Dunk,2,4,4,Driving Slam Dunk Shot,DUNKS,,2010
+Greg Oden,201141,Standard Dunk,2,12,12,Dunk Shot,DUNKS,,2010
+Greg Oden,201141,Hook Shot,2,8,1,Hook Shot,POST_MOVES,,2010
+Greg Oden,201141,Hook Shot,2,3,1,Jump Hook Shot,POST_MOVES,,2010
+Greg Oden,201141,Jump Shot,2,10,3,Jump Shot,JUMP_SHOTS,,2010
+Greg Oden,201141,Standard Layup,2,41,25,Layup Shot,LAYUPS,,2010
+Greg Oden,201141,Putback Dunk,2,4,4,Putback Dunk Shot,DUNKS,,2010
+Greg Oden,201141,Putback Layup,2,4,2,Putback Layup Shot,LAYUPS,,2010
+Greg Oden,201141,Reverse Layup,2,4,2,Reverse Layup Shot,LAYUPS,,2010
+Greg Oden,201141,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2010
+Greg Oden,201141,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2010
+Greg Oden,201141,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,2010
+Greg Oden,201141,Tip Shot,2,18,8,Tip Shot,TIP_SHOTS,,2010
+Greg Oden,201141,Turnaround Hook Shot,2,12,6,Turnaround Hook Shot,POST_MOVES,,2010
+Greg Oden,201141,Turnaround Jump Shot,2,4,2,Turnaround Jump Shot,JUMP_SHOTS,,2010
+Greg Oden,201141,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2014
+Greg Oden,201141,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2014
+Greg Oden,201141,Standard Dunk,2,20,15,Dunk Shot,DUNKS,,2014
+Greg Oden,201141,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2014
+Greg Oden,201141,Hook Shot,2,5,1,Hook Shot,POST_MOVES,,2014
+Greg Oden,201141,Jump Shot,2,5,1,Jump Shot,JUMP_SHOTS,,2014
+Greg Oden,201141,Standard Layup,2,5,1,Layup Shot,LAYUPS,,2014
+Greg Oden,201141,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2014
+Greg Oden,201141,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2014
+Greg Oden,201141,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2014
+Greg Oden,201141,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2014
+Greg Oden,201141,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2014
+Greg Oden,201141,Turnaround Hook Shot,2,3,0,Turnaround Hook Shot,POST_MOVES,,2014
+Greg Oden,201141,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2014

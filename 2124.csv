@@ -1,38 +1,126 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-2124,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2002
-2124,Jump Shot,2PT Field Goal,6,4,Jump Shot,JUMP_SHOTS,0.6666666666666666,2002
-2124,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2002
-2124,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2002
-2124,Turnaround Jump Shot,2PT Field Goal,2,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2002
-2124,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2003
-2124,Driving Layup,2PT Field Goal,6,4,Driving Layup Shot,LAYUPS,0.6666666666666666,2003
-2124,Standard Dunk,2PT Field Goal,3,2,Dunk Shot,DUNKS,0.6666666666666666,2003
-2124,Hook Shot,2PT Field Goal,10,4,Hook Shot,POST_MOVES,0.4,2003
-2124,Hook Shot,2PT Field Goal,1,1,Jump Hook Shot,POST_MOVES,1.0,2003
-2124,Jump Shot,2PT Field Goal,100,42,Jump Shot,JUMP_SHOTS,0.42,2003
-2124,Standard Layup,2PT Field Goal,9,5,Layup Shot,LAYUPS,0.5555555555555556,2003
-2124,Running Hook Shot,2PT Field Goal,1,1,Running Hook Shot,POST_MOVES,1.0,2003
-2124,Running Jump Shot,2PT Field Goal,3,3,Running Jump Shot,JUMP_SHOTS,1.0,2003
-2124,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2003
-2124,Turnaround Jump Shot,2PT Field Goal,7,3,Turnaround Jump Shot,JUMP_SHOTS,0.4285714285714285,2003
-2124,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2004
-2124,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2004
-2124,Jump Shot,2PT Field Goal,11,4,Jump Shot,JUMP_SHOTS,0.3636363636363636,2004
-2124,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2004
-2124,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2004
-2124,Turnaround Jump Shot,2PT Field Goal,2,2,Turnaround Jump Shot,JUMP_SHOTS,1.0,2004
-2124,Jump Shot,2PT Field Goal,15,5,Jump Shot,JUMP_SHOTS,0.3333333333333333,2005
-2124,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2005
-2124,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2005
-2124,Turnaround Jump Shot,2PT Field Goal,2,2,Turnaround Jump Shot,JUMP_SHOTS,1.0,2005
-2124,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2006
-2124,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2006
-2124,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,2006
-2124,Jump Shot,2PT Field Goal,43,19,Jump Shot,JUMP_SHOTS,0.4418604651162791,2006
-2124,Standard Layup,2PT Field Goal,6,4,Layup Shot,LAYUPS,0.6666666666666666,2006
-2124,Running Hook Shot,2PT Field Goal,1,1,Running Hook Shot,POST_MOVES,1.0,2006
-2124,Tip Shot,2PT Field Goal,3,2,Tip Shot,TIP_SHOTS,0.6666666666666666,2006
-2124,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2006
-2124,Jump Shot,2PT Field Goal,6,3,Jump Shot,JUMP_SHOTS,0.5,2008
-2124,Tip Shot,2PT Field Goal,2,2,Tip Shot,TIP_SHOTS,1.0,2008
-2124,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2009
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Malik Allen,2124,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2002
+Malik Allen,2124,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2002
+Malik Allen,2124,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2002
+Malik Allen,2124,Jump Shot,2,35,13,Jump Shot,JUMP_SHOTS,,2002
+Malik Allen,2124,Standard Layup,2,2,1,Layup Shot,LAYUPS,,2002
+Malik Allen,2124,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2002
+Malik Allen,2124,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2002
+Malik Allen,2124,Tip Shot,2,4,3,Tip Shot,TIP_SHOTS,,2002
+Malik Allen,2124,Turnaround Jump Shot,2,3,0,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Malik Allen,2124,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2003
+Malik Allen,2124,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2003
+Malik Allen,2124,Driving Layup,2,10,7,Driving Layup Shot,LAYUPS,,2003
+Malik Allen,2124,Standard Dunk,2,13,8,Dunk Shot,DUNKS,,2003
+Malik Allen,2124,Fadeaway Jump Shot,2,3,3,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Malik Allen,2124,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2003
+Malik Allen,2124,Hook Shot,2,57,31,Hook Shot,POST_MOVES,,2003
+Malik Allen,2124,Hook Shot,2,6,3,Jump Hook Shot,POST_MOVES,,2003
+Malik Allen,2124,Jump Shot,2,579,216,Jump Shot,JUMP_SHOTS,,2003
+Malik Allen,2124,Standard Layup,2,45,20,Layup Shot,LAYUPS,,2003
+Malik Allen,2124,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2003
+Malik Allen,2124,Running Hook Shot,2,7,6,Running Hook Shot,POST_MOVES,,2003
+Malik Allen,2124,Running Jump Shot,2,9,6,Running Jump Shot,JUMP_SHOTS,,2003
+Malik Allen,2124,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2003
+Malik Allen,2124,Tip Shot,2,19,8,Tip Shot,TIP_SHOTS,,2003
+Malik Allen,2124,Turnaround Hook Shot,2,3,2,Turnaround Hook Shot,POST_MOVES,,2003
+Malik Allen,2124,Turnaround Jump Shot,2,30,16,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Malik Allen,2124,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2004
+Malik Allen,2124,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2004
+Malik Allen,2124,Driving Layup,2,3,2,Driving Layup Shot,LAYUPS,,2004
+Malik Allen,2124,Fadeaway Jump Shot,2,2,2,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Malik Allen,2124,Hook Shot,2,8,4,Hook Shot,POST_MOVES,,2004
+Malik Allen,2124,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2004
+Malik Allen,2124,Hook Shot,2,2,1,Jump Hook Shot,POST_MOVES,,2004
+Malik Allen,2124,Jump Shot,2,145,54,Jump Shot,JUMP_SHOTS,,2004
+Malik Allen,2124,Standard Layup,2,10,4,Layup Shot,LAYUPS,,2004
+Malik Allen,2124,Running Hook Shot,2,2,2,Running Hook Shot,POST_MOVES,,2004
+Malik Allen,2124,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2004
+Malik Allen,2124,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2004
+Malik Allen,2124,Tip Shot,2,7,3,Tip Shot,TIP_SHOTS,,2004
+Malik Allen,2124,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2004
+Malik Allen,2124,Turnaround Jump Shot,2,13,6,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Malik Allen,2124,Standard Dunk,2,6,6,Dunk Shot,DUNKS,,2005
+Malik Allen,2124,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2005
+Malik Allen,2124,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2005
+Malik Allen,2124,Hook Shot,2,5,4,Hook Shot,POST_MOVES,,2005
+Malik Allen,2124,Jump Shot,2,135,53,Jump Shot,JUMP_SHOTS,,2005
+Malik Allen,2124,Standard Layup,2,12,9,Layup Shot,LAYUPS,,2005
+Malik Allen,2124,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2005
+Malik Allen,2124,Tip Shot,2,8,5,Tip Shot,TIP_SHOTS,,2005
+Malik Allen,2124,Turnaround Jump Shot,2,8,5,Turnaround Jump Shot,JUMP_SHOTS,,2005
+Malik Allen,2124,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2006
+Malik Allen,2124,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2006
+Malik Allen,2124,Standard Dunk,2,5,4,Dunk Shot,DUNKS,,2006
+Malik Allen,2124,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2006
+Malik Allen,2124,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2006
+Malik Allen,2124,Hook Shot,2,10,6,Hook Shot,POST_MOVES,,2006
+Malik Allen,2124,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2006
+Malik Allen,2124,Jump Shot,2,173,79,Jump Shot,JUMP_SHOTS,,2006
+Malik Allen,2124,Jump Shot,3,1,1,Jump Shot,JUMP_SHOTS,,2006
+Malik Allen,2124,Standard Layup,2,26,9,Layup Shot,LAYUPS,,2006
+Malik Allen,2124,Running Hook Shot,2,3,2,Running Hook Shot,POST_MOVES,,2006
+Malik Allen,2124,Tip Shot,2,11,4,Tip Shot,TIP_SHOTS,,2006
+Malik Allen,2124,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2006
+Malik Allen,2124,Turnaround Jump Shot,2,11,10,Turnaround Jump Shot,JUMP_SHOTS,,2006
+Malik Allen,2124,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2007
+Malik Allen,2124,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2007
+Malik Allen,2124,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2007
+Malik Allen,2124,Hook Shot,2,4,1,Hook Shot,POST_MOVES,,2007
+Malik Allen,2124,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2007
+Malik Allen,2124,Hook Shot,2,4,2,Jump Hook Shot,POST_MOVES,,2007
+Malik Allen,2124,Jump Shot,2,184,73,Jump Shot,JUMP_SHOTS,,2007
+Malik Allen,2124,Standard Layup,2,28,13,Layup Shot,LAYUPS,,2007
+Malik Allen,2124,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2007
+Malik Allen,2124,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2007
+Malik Allen,2124,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2007
+Malik Allen,2124,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2007
+Malik Allen,2124,Tip Shot,2,13,7,Tip Shot,TIP_SHOTS,,2007
+Malik Allen,2124,Turnaround Jump Shot,2,16,6,Turnaround Jump Shot,JUMP_SHOTS,,2007
+Malik Allen,2124,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2008
+Malik Allen,2124,Driving Layup,2,3,2,Driving Layup Shot,LAYUPS,,2008
+Malik Allen,2124,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2008
+Malik Allen,2124,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2008
+Malik Allen,2124,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2008
+Malik Allen,2124,Hook Shot,2,3,0,Hook Shot,POST_MOVES,,2008
+Malik Allen,2124,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2008
+Malik Allen,2124,Jump Shot,2,245,116,Jump Shot,JUMP_SHOTS,,2008
+Malik Allen,2124,Standard Layup,2,16,5,Layup Shot,LAYUPS,,2008
+Malik Allen,2124,Pullup Jump Shot,2,2,2,Pullup Bank shot,JUMP_SHOTS,,2008
+Malik Allen,2124,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2008
+Malik Allen,2124,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2008
+Malik Allen,2124,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2008
+Malik Allen,2124,Running Hook Shot,2,3,0,Running Hook Shot,POST_MOVES,,2008
+Malik Allen,2124,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2008
+Malik Allen,2124,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2008
+Malik Allen,2124,Tip Shot,2,16,10,Tip Shot,TIP_SHOTS,,2008
+Malik Allen,2124,Turnaround Jump Shot,2,4,4,Turnaround Fadeaway shot,JUMP_SHOTS,,2008
+Malik Allen,2124,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2008
+Malik Allen,2124,Turnaround Jump Shot,2,21,11,Turnaround Jump Shot,JUMP_SHOTS,,2008
+Malik Allen,2124,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2009
+Malik Allen,2124,Hook Shot,2,5,3,Hook Shot,POST_MOVES,,2009
+Malik Allen,2124,Jump Shot,2,126,49,Jump Shot,JUMP_SHOTS,,2009
+Malik Allen,2124,Standard Layup,2,14,6,Layup Shot,LAYUPS,,2009
+Malik Allen,2124,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2009
+Malik Allen,2124,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2009
+Malik Allen,2124,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2009
+Malik Allen,2124,Tip Shot,2,10,1,Tip Shot,TIP_SHOTS,,2009
+Malik Allen,2124,Turnaround Jump Shot,2,8,7,Turnaround Jump Shot,JUMP_SHOTS,,2009
+Malik Allen,2124,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2010
+Malik Allen,2124,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2010
+Malik Allen,2124,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2010
+Malik Allen,2124,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+Malik Allen,2124,Jump Shot,2,83,31,Jump Shot,JUMP_SHOTS,,2010
+Malik Allen,2124,Standard Layup,2,8,4,Layup Shot,LAYUPS,,2010
+Malik Allen,2124,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2010
+Malik Allen,2124,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2010
+Malik Allen,2124,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2010
+Malik Allen,2124,Tip Shot,2,11,3,Tip Shot,TIP_SHOTS,,2010
+Malik Allen,2124,Turnaround Jump Shot,2,6,3,Turnaround Jump Shot,JUMP_SHOTS,,2010
+Malik Allen,2124,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Malik Allen,2124,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2011
+Malik Allen,2124,Jump Shot,2,19,4,Jump Shot,JUMP_SHOTS,,2011
+Malik Allen,2124,Standard Layup,2,2,2,Layup Shot,LAYUPS,,2011
+Malik Allen,2124,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2011
+Malik Allen,2124,Tip Shot,2,5,3,Tip Shot,TIP_SHOTS,,2011
+Malik Allen,2124,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2011

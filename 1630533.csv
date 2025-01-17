@@ -1,45 +1,141 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1630533,Alley Oop Dunk,2PT Field Goal,3,3,Alley Oop Dunk Shot,DUNKS,1.0,2024
-1630533,Specialty Dunk,2PT Field Goal,4,3,Cutting Dunk Shot,DUNKS,0.75,2024
-1630533,Finger Roll,2PT Field Goal,1,0,Cutting Finger Roll Layup Shot,LAYUPS,0.0,2024
-1630533,Standard Layup,2PT Field Goal,2,2,Cutting Layup Shot,LAYUPS,1.0,2024
-1630533,Finger Roll,2PT Field Goal,7,5,Driving Finger Roll Layup Shot,LAYUPS,0.7142857142857143,2024
-1630533,Floating Jump Shot,2PT Field Goal,4,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.25,2024
-1630533,Floating Jump Shot,2PT Field Goal,11,3,Driving Floating Jump Shot,FLOATING_SHOTS,0.2727272727272727,2024
-1630533,Driving Layup,2PT Field Goal,5,0,Driving Layup Shot,LAYUPS,0.0,2024
-1630533,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Bank shot,JUMP_SHOTS,1.0,2024
-1630533,Floating Jump Shot,2PT Field Goal,4,1,Floating Jump shot,FLOATING_SHOTS,0.25,2024
-1630533,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2024
-1630533,Jump Shot,3PT Field Goal,61,19,Jump Shot,JUMP_SHOTS,0.4672131147540984,2024
-1630533,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2024
-1630533,Pullup Jump Shot,2PT Field Goal,21,7,Pullup Jump shot,JUMP_SHOTS,0.3333333333333333,2024
-1630533,Pullup Jump Shot,3PT Field Goal,5,2,Pullup Jump shot,JUMP_SHOTS,0.6,2024
-1630533,Putback Layup,2PT Field Goal,2,0,Putback Layup Shot,LAYUPS,0.0,2024
-1630533,Alley Oop Dunk,2PT Field Goal,3,3,Running Alley Oop Dunk Shot,DUNKS,1.0,2024
-1630533,Alley Oop Layup,2PT Field Goal,1,1,Running Alley Oop Layup Shot,LAYUPS,1.0,2024
-1630533,Standard Dunk,2PT Field Goal,3,3,Running Dunk Shot,DUNKS,1.0,2024
-1630533,Finger Roll,2PT Field Goal,1,1,Running Finger Roll Layup Shot,LAYUPS,1.0,2024
-1630533,Running Jump Shot,3PT Field Goal,7,1,Running Jump Shot,JUMP_SHOTS,0.2142857142857142,2024
-1630533,Standard Layup,2PT Field Goal,3,2,Running Layup Shot,LAYUPS,0.6666666666666666,2024
-1630533,Running Jump Shot,3PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2024
-1630533,Step Back Jump Shot,2PT Field Goal,3,0,Step Back Jump shot,JUMP_SHOTS,0.0,2024
-1630533,Step Back Jump Shot,3PT Field Goal,6,2,Step Back Jump shot,JUMP_SHOTS,0.5,2024
-1630533,Specialty Dunk,2PT Field Goal,2,2,Tip Dunk Shot,DUNKS,1.0,2024
-1630533,Putback Layup,2PT Field Goal,3,3,Tip Layup Shot,LAYUPS,1.0,2024
-1630533,Turnaround Jump Shot,2PT Field Goal,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,0.5,2024
-1630533,Turnaround Jump Shot,2PT Field Goal,3,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2024
-1630533,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2025
-1630533,Driving Layup,2PT Field Goal,8,3,Driving Layup Shot,LAYUPS,0.375,2025
-1630533,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2025
-1630533,Standard Dunk,2PT Field Goal,1,0,Dunk Shot,DUNKS,0.0,2025
-1630533,Jump Shot,3PT Field Goal,11,4,Jump Shot,JUMP_SHOTS,0.5454545454545454,2025
-1630533,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2025
-1630533,Putback Layup,2PT Field Goal,1,0,Putback Layup Shot,LAYUPS,0.0,2025
-1630533,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2025
-1630533,Standard Dunk,2PT Field Goal,2,2,Running Dunk Shot,DUNKS,1.0,2025
-1630533,Running Jump Shot,3PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.5,2025
-1630533,Standard Layup,2PT Field Goal,2,1,Running Layup Shot,LAYUPS,0.5,2025
-1630533,Running Jump Shot,3PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2025
-1630533,Step Back Jump Shot,3PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2025
-1630533,Specialty Dunk,2PT Field Goal,1,1,Tip Dunk Shot,DUNKS,1.0,2025
-1630533,Putback Layup,2PT Field Goal,2,0,Tip Layup Shot,LAYUPS,0.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Ziaire Williams,1630533,Alley Oop Dunk,2,8,8,Alley Oop Dunk Shot,DUNKS,,2022
+Ziaire Williams,1630533,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2022
+Ziaire Williams,1630533,Specialty Dunk,2,6,6,Cutting Dunk Shot,DUNKS,,2022
+Ziaire Williams,1630533,Finger Roll,2,2,2,Cutting Finger Roll Layup Shot,LAYUPS,,2022
+Ziaire Williams,1630533,Standard Layup,2,5,1,Cutting Layup Shot,LAYUPS,,2022
+Ziaire Williams,1630533,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2022
+Ziaire Williams,1630533,Finger Roll,2,4,3,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Ziaire Williams,1630533,Floating Jump Shot,2,7,3,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Ziaire Williams,1630533,Floating Jump Shot,2,15,4,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Ziaire Williams,1630533,Driving Layup,2,7,4,Driving Layup Shot,LAYUPS,,2022
+Ziaire Williams,1630533,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2022
+Ziaire Williams,1630533,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2022
+Ziaire Williams,1630533,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Ziaire Williams,1630533,Finger Roll,2,2,1,Finger Roll Layup Shot,LAYUPS,,2022
+Ziaire Williams,1630533,Floating Jump Shot,2,10,6,Floating Jump shot,FLOATING_SHOTS,,2022
+Ziaire Williams,1630533,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2022
+Ziaire Williams,1630533,Jump Shot,2,212,71,Jump Shot,JUMP_SHOTS,,2022
+Ziaire Williams,1630533,Standard Layup,2,2,1,Layup Shot,LAYUPS,,2022
+Ziaire Williams,1630533,Pullup Jump Shot,2,51,23,Pullup Jump shot,JUMP_SHOTS,,2022
+Ziaire Williams,1630533,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2022
+Ziaire Williams,1630533,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2022
+Ziaire Williams,1630533,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2022
+Ziaire Williams,1630533,Alley Oop Dunk,2,17,17,Running Alley Oop Dunk Shot,DUNKS,,2022
+Ziaire Williams,1630533,Alley Oop Layup,2,1,1,Running Alley Oop Layup Shot,LAYUPS,,2022
+Ziaire Williams,1630533,Standard Dunk,2,5,5,Running Dunk Shot,DUNKS,,2022
+Ziaire Williams,1630533,Finger Roll,2,2,2,Running Finger Roll Layup Shot,LAYUPS,,2022
+Ziaire Williams,1630533,Running Jump Shot,2,15,5,Running Jump Shot,JUMP_SHOTS,,2022
+Ziaire Williams,1630533,Standard Layup,2,8,5,Running Layup Shot,LAYUPS,,2022
+Ziaire Williams,1630533,Running Jump Shot,2,2,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
+Ziaire Williams,1630533,Step Back Jump Shot,2,17,4,Step Back Jump shot,JUMP_SHOTS,,2022
+Ziaire Williams,1630533,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2022
+Ziaire Williams,1630533,Putback Layup,2,4,2,Tip Layup Shot,LAYUPS,,2022
+Ziaire Williams,1630533,Turnaround Jump Shot,2,3,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2022
+Ziaire Williams,1630533,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2022
+Ziaire Williams,1630533,Alley Oop Dunk,2,10,8,Alley Oop Dunk Shot,DUNKS,,2023
+Ziaire Williams,1630533,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2023
+Ziaire Williams,1630533,Specialty Dunk,2,4,4,Cutting Dunk Shot,DUNKS,,2023
+Ziaire Williams,1630533,Standard Layup,2,6,5,Cutting Layup Shot,LAYUPS,,2023
+Ziaire Williams,1630533,Driving Hook Shot,2,1,0,Driving Bank Hook Shot,POST_MOVES,,2023
+Ziaire Williams,1630533,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Ziaire Williams,1630533,Floating Jump Shot,2,3,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+Ziaire Williams,1630533,Floating Jump Shot,2,8,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Ziaire Williams,1630533,Driving Layup,2,9,5,Driving Layup Shot,LAYUPS,,2023
+Ziaire Williams,1630533,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2023
+Ziaire Williams,1630533,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,2023
+Ziaire Williams,1630533,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2023
+Ziaire Williams,1630533,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2023
+Ziaire Williams,1630533,Jump Shot,2,70,16,Jump Shot,JUMP_SHOTS,,2023
+Ziaire Williams,1630533,Jump Shot,3,5,0,Jump Shot,JUMP_SHOTS,,2023
+Ziaire Williams,1630533,Standard Layup,2,2,1,Layup Shot,LAYUPS,,2023
+Ziaire Williams,1630533,Pullup Jump Shot,2,19,11,Pullup Jump shot,JUMP_SHOTS,,2023
+Ziaire Williams,1630533,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2023
+Ziaire Williams,1630533,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2023
+Ziaire Williams,1630533,Reverse Dunk,2,1,0,Reverse Dunk Shot,DUNKS,,2023
+Ziaire Williams,1630533,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2023
+Ziaire Williams,1630533,Alley Oop Dunk,2,6,6,Running Alley Oop Dunk Shot,DUNKS,,2023
+Ziaire Williams,1630533,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2023
+Ziaire Williams,1630533,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2023
+Ziaire Williams,1630533,Running Jump Shot,2,10,4,Running Jump Shot,JUMP_SHOTS,,2023
+Ziaire Williams,1630533,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2023
+Ziaire Williams,1630533,Standard Layup,2,7,5,Running Layup Shot,LAYUPS,,2023
+Ziaire Williams,1630533,Reverse Layup,2,2,1,Running Reverse Layup Shot,LAYUPS,,2023
+Ziaire Williams,1630533,Step Back Jump Shot,2,13,5,Step Back Jump shot,JUMP_SHOTS,,2023
+Ziaire Williams,1630533,Putback Layup,2,2,0,Tip Layup Shot,LAYUPS,,2023
+Ziaire Williams,1630533,Turnaround Jump Shot,2,4,2,Turnaround Jump Shot,JUMP_SHOTS,,2023
+Ziaire Williams,1630533,Alley Oop Dunk,2,10,7,Alley Oop Dunk Shot,DUNKS,,2024
+Ziaire Williams,1630533,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2024
+Ziaire Williams,1630533,Specialty Dunk,2,10,9,Cutting Dunk Shot,DUNKS,,2024
+Ziaire Williams,1630533,Finger Roll,2,1,0,Cutting Finger Roll Layup Shot,LAYUPS,,2024
+Ziaire Williams,1630533,Standard Layup,2,4,3,Cutting Layup Shot,LAYUPS,,2024
+Ziaire Williams,1630533,Driving Hook Shot,2,1,0,Driving Bank Hook Shot,POST_MOVES,,2024
+Ziaire Williams,1630533,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2024
+Ziaire Williams,1630533,Finger Roll,2,13,9,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Ziaire Williams,1630533,Floating Jump Shot,2,6,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Ziaire Williams,1630533,Floating Jump Shot,2,14,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Ziaire Williams,1630533,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2024
+Ziaire Williams,1630533,Driving Layup,2,18,5,Driving Layup Shot,LAYUPS,,2024
+Ziaire Williams,1630533,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2024
+Ziaire Williams,1630533,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2024
+Ziaire Williams,1630533,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Ziaire Williams,1630533,Floating Jump Shot,2,7,2,Floating Jump shot,FLOATING_SHOTS,,2024
+Ziaire Williams,1630533,Jump Shot,3,1,1,Jump Bank Shot,JUMP_SHOTS,,2024
+Ziaire Williams,1630533,Jump Shot,2,5,0,Jump Shot,JUMP_SHOTS,,2024
+Ziaire Williams,1630533,Jump Shot,3,147,49,Jump Shot,JUMP_SHOTS,,2024
+Ziaire Williams,1630533,Standard Layup,2,7,3,Layup Shot,LAYUPS,,2024
+Ziaire Williams,1630533,Pullup Jump Shot,2,36,13,Pullup Jump shot,JUMP_SHOTS,,2024
+Ziaire Williams,1630533,Pullup Jump Shot,3,13,2,Pullup Jump shot,JUMP_SHOTS,,2024
+Ziaire Williams,1630533,Putback Layup,2,7,4,Putback Layup Shot,LAYUPS,,2024
+Ziaire Williams,1630533,Alley Oop Dunk,2,7,7,Running Alley Oop Dunk Shot,DUNKS,,2024
+Ziaire Williams,1630533,Alley Oop Layup,2,2,1,Running Alley Oop Layup Shot,LAYUPS,,2024
+Ziaire Williams,1630533,Standard Dunk,2,6,6,Running Dunk Shot,DUNKS,,2024
+Ziaire Williams,1630533,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2024
+Ziaire Williams,1630533,Running Jump Shot,3,12,3,Running Jump Shot,JUMP_SHOTS,,2024
+Ziaire Williams,1630533,Standard Layup,2,7,2,Running Layup Shot,LAYUPS,,2024
+Ziaire Williams,1630533,Running Jump Shot,3,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Ziaire Williams,1630533,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2024
+Ziaire Williams,1630533,Step Back Jump Shot,2,6,1,Step Back Jump shot,JUMP_SHOTS,,2024
+Ziaire Williams,1630533,Step Back Jump Shot,3,14,3,Step Back Jump shot,JUMP_SHOTS,,2024
+Ziaire Williams,1630533,Specialty Dunk,2,2,2,Tip Dunk Shot,DUNKS,,2024
+Ziaire Williams,1630533,Putback Layup,2,5,5,Tip Layup Shot,LAYUPS,,2024
+Ziaire Williams,1630533,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2024
+Ziaire Williams,1630533,Turnaround Jump Shot,2,5,2,Turnaround Jump Shot,JUMP_SHOTS,,2024
+Ziaire Williams,1630533,Turnaround Jump Shot,3,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2024
+Ziaire Williams,1630533,Alley Oop Dunk,2,3,3,Alley Oop Dunk Shot,DUNKS,,2025
+Ziaire Williams,1630533,Alley Oop Layup,2,2,0,Alley Oop Layup shot,LAYUPS,,2025
+Ziaire Williams,1630533,Specialty Dunk,2,3,3,Cutting Dunk Shot,DUNKS,,2025
+Ziaire Williams,1630533,Standard Layup,2,8,4,Cutting Layup Shot,LAYUPS,,2025
+Ziaire Williams,1630533,Driving Dunk,2,2,0,Driving Dunk Shot,DUNKS,,2025
+Ziaire Williams,1630533,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Ziaire Williams,1630533,Floating Jump Shot,2,2,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2025
+Ziaire Williams,1630533,Floating Jump Shot,2,2,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Ziaire Williams,1630533,Floating Jump Shot,3,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Ziaire Williams,1630533,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2025
+Ziaire Williams,1630533,Driving Layup,2,20,8,Driving Layup Shot,LAYUPS,,2025
+Ziaire Williams,1630533,Driving Layup,2,4,1,Driving Reverse Layup Shot,LAYUPS,,2025
+Ziaire Williams,1630533,Standard Dunk,2,2,0,Dunk Shot,DUNKS,,2025
+Ziaire Williams,1630533,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2025
+Ziaire Williams,1630533,Floating Jump Shot,2,2,0,Floating Jump shot,FLOATING_SHOTS,,2025
+Ziaire Williams,1630533,Jump Shot,2,1,0,Jump Shot,JUMP_SHOTS,,2025
+Ziaire Williams,1630533,Jump Shot,3,88,31,Jump Shot,JUMP_SHOTS,,2025
+Ziaire Williams,1630533,Standard Layup,2,6,1,Layup Shot,LAYUPS,,2025
+Ziaire Williams,1630533,Pullup Jump Shot,2,4,1,Pullup Jump shot,JUMP_SHOTS,,2025
+Ziaire Williams,1630533,Pullup Jump Shot,3,3,0,Pullup Jump shot,JUMP_SHOTS,,2025
+Ziaire Williams,1630533,Putback Layup,2,7,5,Putback Layup Shot,LAYUPS,,2025
+Ziaire Williams,1630533,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2025
+Ziaire Williams,1630533,Alley Oop Dunk,2,2,2,Running Alley Oop Dunk Shot,DUNKS,,2025
+Ziaire Williams,1630533,Standard Dunk,2,11,9,Running Dunk Shot,DUNKS,,2025
+Ziaire Williams,1630533,Finger Roll,2,2,1,Running Finger Roll Layup Shot,LAYUPS,,2025
+Ziaire Williams,1630533,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2025
+Ziaire Williams,1630533,Running Jump Shot,3,9,4,Running Jump Shot,JUMP_SHOTS,,2025
+Ziaire Williams,1630533,Standard Layup,2,13,9,Running Layup Shot,LAYUPS,,2025
+Ziaire Williams,1630533,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025
+Ziaire Williams,1630533,Running Jump Shot,3,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025
+Ziaire Williams,1630533,Reverse Layup,2,3,2,Running Reverse Layup Shot,LAYUPS,,2025
+Ziaire Williams,1630533,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2025
+Ziaire Williams,1630533,Step Back Jump Shot,3,4,0,Step Back Jump shot,JUMP_SHOTS,,2025
+Ziaire Williams,1630533,Specialty Dunk,2,2,2,Tip Dunk Shot,DUNKS,,2025
+Ziaire Williams,1630533,Putback Layup,2,4,1,Tip Layup Shot,LAYUPS,,2025
+Ziaire Williams,1630533,Turnaround Jump Shot,2,2,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2025
+Ziaire Williams,1630533,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2025

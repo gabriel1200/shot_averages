@@ -1,50 +1,75 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1542,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2002
-1542,Driving Layup,2PT Field Goal,3,3,Driving Layup Shot,LAYUPS,1.0,2002
-1542,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,2002
-1542,Jump Shot,2PT Field Goal,71,32,Jump Shot,JUMP_SHOTS,0.4507042253521127,2002
-1542,Standard Layup,2PT Field Goal,19,10,Layup Shot,LAYUPS,0.5263157894736842,2002
-1542,Running Hook Shot,2PT Field Goal,1,0,Running Hook Shot,POST_MOVES,0.0,2002
-1542,Standard Dunk,2PT Field Goal,2,2,Slam Dunk Shot,DUNKS,1.0,2002
-1542,Tip Shot,2PT Field Goal,2,2,Tip Shot,TIP_SHOTS,1.0,2002
-1542,Turnaround Jump Shot,2PT Field Goal,2,1,Turnaround Jump Shot,JUMP_SHOTS,0.5,2002
-1542,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Shot,LAYUPS,1.0,2003
-1542,Driving Layup,2PT Field Goal,10,6,Driving Layup Shot,LAYUPS,0.6,2003
-1542,Hook Shot,2PT Field Goal,4,0,Hook Shot,POST_MOVES,0.0,2003
-1542,Jump Shot,2PT Field Goal,127,48,Jump Shot,JUMP_SHOTS,0.3779527559055118,2003
-1542,Jump Shot,3PT Field Goal,19,9,Jump Shot,JUMP_SHOTS,0.7105263157894737,2003
-1542,Standard Layup,2PT Field Goal,27,14,Layup Shot,LAYUPS,0.5185185185185185,2003
-1542,Reverse Dunk,2PT Field Goal,1,1,Reverse Dunk Shot,DUNKS,1.0,2003
-1542,Reverse Layup,2PT Field Goal,2,1,Reverse Layup Shot,LAYUPS,0.5,2003
-1542,Running Hook Shot,2PT Field Goal,1,1,Running Hook Shot,POST_MOVES,1.0,2003
-1542,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2003
-1542,Standard Dunk,2PT Field Goal,5,5,Slam Dunk Shot,DUNKS,1.0,2003
-1542,Tip Shot,2PT Field Goal,2,1,Tip Shot,TIP_SHOTS,0.5,2003
-1542,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2003
-1542,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2004
-1542,Driving Layup,2PT Field Goal,2,0,Driving Layup Shot,LAYUPS,0.0,2004
-1542,Hook Shot,2PT Field Goal,5,3,Hook Shot,POST_MOVES,0.6,2004
-1542,Jump Shot,2PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2004
-1542,Jump Shot,2PT Field Goal,69,19,Jump Shot,JUMP_SHOTS,0.2753623188405797,2004
-1542,Jump Shot,3PT Field Goal,11,4,Jump Shot,JUMP_SHOTS,0.5454545454545454,2004
-1542,Standard Layup,2PT Field Goal,16,7,Layup Shot,LAYUPS,0.4375,2004
-1542,Reverse Layup,2PT Field Goal,2,1,Reverse Layup Shot,LAYUPS,0.5,2004
-1542,Finger Roll,2PT Field Goal,1,0,Running Finger Roll Shot,LAYUPS,0.0,2004
-1542,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2004
-1542,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2004
-1542,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2004
-1542,Driving Hook Shot,2PT Field Goal,1,1,Driving Hook Shot,POST_MOVES,1.0,2005
-1542,Driving Layup,2PT Field Goal,5,4,Driving Layup Shot,LAYUPS,0.8,2005
-1542,Standard Dunk,2PT Field Goal,6,5,Dunk Shot,DUNKS,0.8333333333333334,2005
-1542,Finger Roll,2PT Field Goal,2,2,Finger Roll Shot,LAYUPS,1.0,2005
-1542,Hook Shot,2PT Field Goal,8,5,Hook Shot,POST_MOVES,0.625,2005
-1542,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2005
-1542,Hook Shot,2PT Field Goal,1,0,Jump Hook Shot,POST_MOVES,0.0,2005
-1542,Jump Shot,2PT Field Goal,139,59,Jump Shot,JUMP_SHOTS,0.4244604316546763,2005
-1542,Jump Shot,3PT Field Goal,37,15,Jump Shot,JUMP_SHOTS,0.6081081081081081,2005
-1542,Standard Layup,2PT Field Goal,46,19,Layup Shot,LAYUPS,0.4130434782608695,2005
-1542,Running Hook Shot,2PT Field Goal,1,1,Running Hook Shot,POST_MOVES,1.0,2005
-1542,Running Jump Shot,2PT Field Goal,2,2,Running Jump Shot,JUMP_SHOTS,1.0,2005
-1542,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2005
-1542,Tip Shot,2PT Field Goal,3,2,Tip Shot,TIP_SHOTS,0.6666666666666666,2005
-1542,Turnaround Jump Shot,2PT Field Goal,2,1,Turnaround Jump Shot,JUMP_SHOTS,0.5,2005
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Predrag Drobnjak,1542,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2002
+Predrag Drobnjak,1542,Driving Layup,2,10,7,Driving Layup Shot,LAYUPS,,2002
+Predrag Drobnjak,1542,Standard Dunk,2,3,2,Dunk Shot,DUNKS,,2002
+Predrag Drobnjak,1542,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Predrag Drobnjak,1542,Specialty Dunk,2,2,2,Follow Up Dunk Shot,DUNKS,,2002
+Predrag Drobnjak,1542,Hook Shot,2,4,3,Hook Shot,POST_MOVES,,2002
+Predrag Drobnjak,1542,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2002
+Predrag Drobnjak,1542,Jump Shot,2,291,121,Jump Shot,JUMP_SHOTS,,2002
+Predrag Drobnjak,1542,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,2002
+Predrag Drobnjak,1542,Standard Layup,2,74,37,Layup Shot,LAYUPS,,2002
+Predrag Drobnjak,1542,Reverse Layup,2,4,3,Reverse Layup Shot,LAYUPS,,2002
+Predrag Drobnjak,1542,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2002
+Predrag Drobnjak,1542,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,2002
+Predrag Drobnjak,1542,Tip Shot,2,4,2,Tip Shot,TIP_SHOTS,,2002
+Predrag Drobnjak,1542,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2002
+Predrag Drobnjak,1542,Turnaround Jump Shot,2,7,4,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Predrag Drobnjak,1542,Driving Dunk,2,5,5,Driving Dunk Shot,DUNKS,,2003
+Predrag Drobnjak,1542,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2003
+Predrag Drobnjak,1542,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,,2003
+Predrag Drobnjak,1542,Driving Layup,2,28,19,Driving Layup Shot,LAYUPS,,2003
+Predrag Drobnjak,1542,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2003
+Predrag Drobnjak,1542,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2003
+Predrag Drobnjak,1542,Hook Shot,2,18,6,Hook Shot,POST_MOVES,,2003
+Predrag Drobnjak,1542,Hook Shot,2,2,1,Jump Hook Shot,POST_MOVES,,2003
+Predrag Drobnjak,1542,Jump Shot,2,498,190,Jump Shot,JUMP_SHOTS,,2003
+Predrag Drobnjak,1542,Jump Shot,3,85,30,Jump Shot,JUMP_SHOTS,,2003
+Predrag Drobnjak,1542,Standard Layup,2,97,41,Layup Shot,LAYUPS,,2003
+Predrag Drobnjak,1542,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2003
+Predrag Drobnjak,1542,Reverse Layup,2,8,4,Reverse Layup Shot,LAYUPS,,2003
+Predrag Drobnjak,1542,Running Hook Shot,2,5,3,Running Hook Shot,POST_MOVES,,2003
+Predrag Drobnjak,1542,Running Jump Shot,2,7,4,Running Jump Shot,JUMP_SHOTS,,2003
+Predrag Drobnjak,1542,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2003
+Predrag Drobnjak,1542,Standard Dunk,2,8,8,Slam Dunk Shot,DUNKS,,2003
+Predrag Drobnjak,1542,Tip Shot,2,7,2,Tip Shot,TIP_SHOTS,,2003
+Predrag Drobnjak,1542,Turnaround Jump Shot,2,10,3,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Predrag Drobnjak,1542,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2004
+Predrag Drobnjak,1542,Driving Hook Shot,2,2,2,Driving Hook Shot,POST_MOVES,,2004
+Predrag Drobnjak,1542,Driving Layup,2,7,3,Driving Layup Shot,LAYUPS,,2004
+Predrag Drobnjak,1542,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2004
+Predrag Drobnjak,1542,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Predrag Drobnjak,1542,Hook Shot,2,14,8,Hook Shot,POST_MOVES,,2004
+Predrag Drobnjak,1542,Jump Shot,2,3,2,Jump Bank Shot,JUMP_SHOTS,,2004
+Predrag Drobnjak,1542,Hook Shot,2,6,5,Jump Hook Shot,POST_MOVES,,2004
+Predrag Drobnjak,1542,Jump Shot,2,227,72,Jump Shot,JUMP_SHOTS,,2004
+Predrag Drobnjak,1542,Jump Shot,3,36,11,Jump Shot,JUMP_SHOTS,,2004
+Predrag Drobnjak,1542,Standard Layup,2,48,23,Layup Shot,LAYUPS,,2004
+Predrag Drobnjak,1542,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2004
+Predrag Drobnjak,1542,Finger Roll,2,1,0,Running Finger Roll Shot,LAYUPS,,2004
+Predrag Drobnjak,1542,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2004
+Predrag Drobnjak,1542,Running Jump Shot,2,7,4,Running Jump Shot,JUMP_SHOTS,,2004
+Predrag Drobnjak,1542,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2004
+Predrag Drobnjak,1542,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2004
+Predrag Drobnjak,1542,Tip Shot,2,7,3,Tip Shot,TIP_SHOTS,,2004
+Predrag Drobnjak,1542,Turnaround Hook Shot,2,2,2,Turnaround Hook Shot,POST_MOVES,,2004
+Predrag Drobnjak,1542,Turnaround Jump Shot,2,9,6,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Predrag Drobnjak,1542,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2005
+Predrag Drobnjak,1542,Finger Roll,2,2,2,Driving Finger Roll Shot,LAYUPS,,2005
+Predrag Drobnjak,1542,Driving Hook Shot,2,2,2,Driving Hook Shot,POST_MOVES,,2005
+Predrag Drobnjak,1542,Driving Layup,2,11,9,Driving Layup Shot,LAYUPS,,2005
+Predrag Drobnjak,1542,Standard Dunk,2,8,7,Dunk Shot,DUNKS,,2005
+Predrag Drobnjak,1542,Finger Roll,2,2,2,Finger Roll Shot,LAYUPS,,2005
+Predrag Drobnjak,1542,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2005
+Predrag Drobnjak,1542,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2005
+Predrag Drobnjak,1542,Hook Shot,2,13,9,Hook Shot,POST_MOVES,,2005
+Predrag Drobnjak,1542,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2005
+Predrag Drobnjak,1542,Hook Shot,2,2,1,Jump Hook Shot,POST_MOVES,,2005
+Predrag Drobnjak,1542,Jump Shot,2,306,117,Jump Shot,JUMP_SHOTS,,2005
+Predrag Drobnjak,1542,Jump Shot,3,71,25,Jump Shot,JUMP_SHOTS,,2005
+Predrag Drobnjak,1542,Standard Layup,2,105,49,Layup Shot,LAYUPS,,2005
+Predrag Drobnjak,1542,Running Hook Shot,2,3,2,Running Hook Shot,POST_MOVES,,2005
+Predrag Drobnjak,1542,Running Jump Shot,2,3,3,Running Jump Shot,JUMP_SHOTS,,2005
+Predrag Drobnjak,1542,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2005
+Predrag Drobnjak,1542,Tip Shot,2,6,3,Tip Shot,TIP_SHOTS,,2005
+Predrag Drobnjak,1542,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2005

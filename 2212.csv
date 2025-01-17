@@ -1,12 +1,129 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-2212,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2003
-2212,Specialty Dunk,2PT Field Goal,1,1,Follow Up Dunk Shot,DUNKS,1.0,2003
-2212,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2003
-2212,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2003
-2212,Standard Layup,2PT Field Goal,3,1,Layup Shot,LAYUPS,0.3333333333333333,2003
-2212,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2003
-2212,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2003
-2212,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2004
-2212,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2005
-2212,Standard Layup,2PT Field Goal,4,3,Layup Shot,LAYUPS,0.75,2005
-2212,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2005
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Steven Hunter,2212,Alley Oop Dunk,2,3,3,Alley Oop Dunk Shot,DUNKS,,2002
+Steven Hunter,2212,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2002
+Steven Hunter,2212,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2002
+Steven Hunter,2212,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,2002
+Steven Hunter,2212,Standard Dunk,2,18,11,Dunk Shot,DUNKS,,2002
+Steven Hunter,2212,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Steven Hunter,2212,Hook Shot,2,12,5,Hook Shot,POST_MOVES,,2002
+Steven Hunter,2212,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2002
+Steven Hunter,2212,Jump Shot,2,40,7,Jump Shot,JUMP_SHOTS,,2002
+Steven Hunter,2212,Standard Layup,2,31,16,Layup Shot,LAYUPS,,2002
+Steven Hunter,2212,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2002
+Steven Hunter,2212,Reverse Layup,2,2,0,Reverse Layup Shot,LAYUPS,,2002
+Steven Hunter,2212,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2002
+Steven Hunter,2212,Standard Dunk,2,12,12,Slam Dunk Shot,DUNKS,,2002
+Steven Hunter,2212,Tip Shot,2,15,6,Tip Shot,TIP_SHOTS,,2002
+Steven Hunter,2212,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2002
+Steven Hunter,2212,Turnaround Jump Shot,2,4,0,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Steven Hunter,2212,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2003
+Steven Hunter,2212,Driving Layup,2,3,3,Driving Layup Shot,LAYUPS,,2003
+Steven Hunter,2212,Standard Dunk,2,8,6,Dunk Shot,DUNKS,,2003
+Steven Hunter,2212,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Steven Hunter,2212,Specialty Dunk,2,3,3,Follow Up Dunk Shot,DUNKS,,2003
+Steven Hunter,2212,Hook Shot,2,9,4,Hook Shot,POST_MOVES,,2003
+Steven Hunter,2212,Jump Shot,2,20,7,Jump Shot,JUMP_SHOTS,,2003
+Steven Hunter,2212,Standard Layup,2,37,13,Layup Shot,LAYUPS,,2003
+Steven Hunter,2212,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2003
+Steven Hunter,2212,Standard Dunk,2,7,7,Slam Dunk Shot,DUNKS,,2003
+Steven Hunter,2212,Tip Shot,2,7,6,Tip Shot,TIP_SHOTS,,2003
+Steven Hunter,2212,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2003
+Steven Hunter,2212,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Steven Hunter,2212,Alley Oop Dunk,2,2,1,Alley Oop Dunk Shot,DUNKS,,2004
+Steven Hunter,2212,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2004
+Steven Hunter,2212,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2004
+Steven Hunter,2212,Standard Dunk,2,30,26,Dunk Shot,DUNKS,,2004
+Steven Hunter,2212,Specialty Dunk,2,5,4,Follow Up Dunk Shot,DUNKS,,2004
+Steven Hunter,2212,Hook Shot,2,9,2,Hook Shot,POST_MOVES,,2004
+Steven Hunter,2212,Hook Shot,2,4,2,Jump Hook Shot,POST_MOVES,,2004
+Steven Hunter,2212,Jump Shot,2,28,5,Jump Shot,JUMP_SHOTS,,2004
+Steven Hunter,2212,Standard Layup,2,44,18,Layup Shot,LAYUPS,,2004
+Steven Hunter,2212,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2004
+Steven Hunter,2212,Standard Dunk,2,11,11,Slam Dunk Shot,DUNKS,,2004
+Steven Hunter,2212,Tip Shot,2,15,7,Tip Shot,TIP_SHOTS,,2004
+Steven Hunter,2212,Turnaround Jump Shot,2,3,2,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Steven Hunter,2212,Alley Oop Dunk,2,3,3,Alley Oop Dunk Shot,DUNKS,,2005
+Steven Hunter,2212,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2005
+Steven Hunter,2212,Driving Dunk,2,5,5,Driving Dunk Shot,DUNKS,,2005
+Steven Hunter,2212,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2005
+Steven Hunter,2212,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,2005
+Steven Hunter,2212,Standard Dunk,2,41,37,Dunk Shot,DUNKS,,2005
+Steven Hunter,2212,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2005
+Steven Hunter,2212,Specialty Dunk,2,4,4,Follow Up Dunk Shot,DUNKS,,2005
+Steven Hunter,2212,Hook Shot,2,7,1,Hook Shot,POST_MOVES,,2005
+Steven Hunter,2212,Jump Shot,2,31,9,Jump Shot,JUMP_SHOTS,,2005
+Steven Hunter,2212,Standard Layup,2,85,49,Layup Shot,LAYUPS,,2005
+Steven Hunter,2212,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2005
+Steven Hunter,2212,Standard Dunk,2,1,0,Running Dunk Shot,DUNKS,,2005
+Steven Hunter,2212,Running Hook Shot,2,6,5,Running Hook Shot,POST_MOVES,,2005
+Steven Hunter,2212,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2005
+Steven Hunter,2212,Standard Dunk,2,10,10,Slam Dunk Shot,DUNKS,,2005
+Steven Hunter,2212,Tip Shot,2,16,5,Tip Shot,TIP_SHOTS,,2005
+Steven Hunter,2212,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2005
+Steven Hunter,2212,Turnaround Jump Shot,2,2,2,Turnaround Jump Shot,JUMP_SHOTS,,2005
+Steven Hunter,2212,Alley Oop Dunk,2,7,7,Alley Oop Dunk Shot,DUNKS,,2006
+Steven Hunter,2212,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2006
+Steven Hunter,2212,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2006
+Steven Hunter,2212,Driving Layup,2,5,5,Driving Layup Shot,LAYUPS,,2006
+Steven Hunter,2212,Standard Dunk,2,44,35,Dunk Shot,DUNKS,,2006
+Steven Hunter,2212,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2006
+Steven Hunter,2212,Specialty Dunk,2,8,8,Follow Up Dunk Shot,DUNKS,,2006
+Steven Hunter,2212,Hook Shot,2,21,9,Hook Shot,POST_MOVES,,2006
+Steven Hunter,2212,Hook Shot,2,5,4,Jump Hook Shot,POST_MOVES,,2006
+Steven Hunter,2212,Jump Shot,2,37,2,Jump Shot,JUMP_SHOTS,,2006
+Steven Hunter,2212,Standard Layup,2,93,45,Layup Shot,LAYUPS,,2006
+Steven Hunter,2212,Reverse Dunk,2,2,2,Reverse Dunk Shot,DUNKS,,2006
+Steven Hunter,2212,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2006
+Steven Hunter,2212,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2006
+Steven Hunter,2212,Running Hook Shot,2,7,6,Running Hook Shot,POST_MOVES,,2006
+Steven Hunter,2212,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2006
+Steven Hunter,2212,Standard Dunk,2,34,34,Slam Dunk Shot,DUNKS,,2006
+Steven Hunter,2212,Tip Shot,2,10,3,Tip Shot,TIP_SHOTS,,2006
+Steven Hunter,2212,Turnaround Hook Shot,2,3,3,Turnaround Hook Shot,POST_MOVES,,2006
+Steven Hunter,2212,Turnaround Jump Shot,2,7,5,Turnaround Jump Shot,JUMP_SHOTS,,2006
+Steven Hunter,2212,Alley Oop Dunk,2,10,8,Alley Oop Dunk Shot,DUNKS,,2007
+Steven Hunter,2212,Alley Oop Layup,2,5,5,Alley Oop Layup shot,LAYUPS,,2007
+Steven Hunter,2212,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2007
+Steven Hunter,2212,Driving Layup,2,3,3,Driving Layup Shot,LAYUPS,,2007
+Steven Hunter,2212,Standard Dunk,2,38,35,Dunk Shot,DUNKS,,2007
+Steven Hunter,2212,Fadeaway Jump Shot,2,2,2,Fadeaway Jump Shot,JUMP_SHOTS,,2007
+Steven Hunter,2212,Specialty Dunk,2,2,2,Follow Up Dunk Shot,DUNKS,,2007
+Steven Hunter,2212,Hook Shot,2,32,15,Hook Shot,POST_MOVES,,2007
+Steven Hunter,2212,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2007
+Steven Hunter,2212,Hook Shot,2,4,3,Jump Hook Shot,POST_MOVES,,2007
+Steven Hunter,2212,Jump Shot,2,72,16,Jump Shot,JUMP_SHOTS,,2007
+Steven Hunter,2212,Standard Layup,2,85,40,Layup Shot,LAYUPS,,2007
+Steven Hunter,2212,Reverse Dunk,2,2,2,Reverse Dunk Shot,DUNKS,,2007
+Steven Hunter,2212,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2007
+Steven Hunter,2212,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2007
+Steven Hunter,2212,Running Hook Shot,2,4,2,Running Hook Shot,POST_MOVES,,2007
+Steven Hunter,2212,Standard Dunk,2,29,29,Slam Dunk Shot,DUNKS,,2007
+Steven Hunter,2212,Tip Shot,2,23,15,Tip Shot,TIP_SHOTS,,2007
+Steven Hunter,2212,Turnaround Hook Shot,2,3,2,Turnaround Hook Shot,POST_MOVES,,2007
+Steven Hunter,2212,Turnaround Jump Shot,2,6,4,Turnaround Jump Shot,JUMP_SHOTS,,2007
+Steven Hunter,2212,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2008
+Steven Hunter,2212,Standard Dunk,2,4,3,Dunk Shot,DUNKS,,2008
+Steven Hunter,2212,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2008
+Steven Hunter,2212,Jump Shot,2,2,0,Jump Shot,JUMP_SHOTS,,2008
+Steven Hunter,2212,Standard Layup,2,12,7,Layup Shot,LAYUPS,,2008
+Steven Hunter,2212,Putback Dunk,2,2,1,Putback Dunk Shot,DUNKS,,2008
+Steven Hunter,2212,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2008
+Steven Hunter,2212,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2008
+Steven Hunter,2212,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2008
+Steven Hunter,2212,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2008
+Steven Hunter,2212,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2008
+Steven Hunter,2212,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2010
+Steven Hunter,2212,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2010
+Steven Hunter,2212,Standard Dunk,2,6,6,Dunk Shot,DUNKS,,2010
+Steven Hunter,2212,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+Steven Hunter,2212,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2010
+Steven Hunter,2212,Hook Shot,2,2,0,Jump Hook Shot,POST_MOVES,,2010
+Steven Hunter,2212,Jump Shot,2,4,0,Jump Shot,JUMP_SHOTS,,2010
+Steven Hunter,2212,Standard Layup,2,10,3,Layup Shot,LAYUPS,,2010
+Steven Hunter,2212,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2010
+Steven Hunter,2212,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2010
+Steven Hunter,2212,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2010
+Steven Hunter,2212,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2010
+Steven Hunter,2212,Tip Shot,2,3,0,Tip Shot,TIP_SHOTS,,2010
+Steven Hunter,2212,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2010
+Steven Hunter,2212,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2010

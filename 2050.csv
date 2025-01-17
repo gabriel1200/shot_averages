@@ -1,7 +1,199 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-2050,Jump Shot,2PT Field Goal,2,2,Jump Shot,JUMP_SHOTS,1.0,2008
-2050,Jump Shot,3PT Field Goal,13,5,Jump Shot,JUMP_SHOTS,0.5769230769230769,2008
-2050,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2008
-2050,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2009
-2050,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2009
-2050,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2009
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Morris Peterson,2050,Alley Oop Dunk,2,7,6,Alley Oop Dunk Shot,DUNKS,,2001
+Morris Peterson,2050,Alley Oop Layup,2,5,5,Alley Oop Layup shot,LAYUPS,,2001
+Morris Peterson,2050,Driving Dunk,2,3,2,Driving Dunk Shot,DUNKS,,2001
+Morris Peterson,2050,Finger Roll,2,6,4,Driving Finger Roll Shot,LAYUPS,,2001
+Morris Peterson,2050,Driving Layup,2,42,20,Driving Layup Shot,LAYUPS,,2001
+Morris Peterson,2050,Standard Dunk,2,7,6,Dunk Shot,DUNKS,,2001
+Morris Peterson,2050,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2001
+Morris Peterson,2050,Jump Shot,2,393,142,Jump Shot,JUMP_SHOTS,,2001
+Morris Peterson,2050,Jump Shot,3,6,0,Jump Shot,JUMP_SHOTS,,2001
+Morris Peterson,2050,Standard Layup,2,92,50,Layup Shot,LAYUPS,,2001
+Morris Peterson,2050,Reverse Layup,2,18,8,Reverse Layup Shot,LAYUPS,,2001
+Morris Peterson,2050,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2001
+Morris Peterson,2050,Finger Roll,2,1,1,Running Finger Roll Shot,LAYUPS,,2001
+Morris Peterson,2050,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2001
+Morris Peterson,2050,Running Jump Shot,2,45,19,Running Jump Shot,JUMP_SHOTS,,2001
+Morris Peterson,2050,Standard Layup,2,10,8,Running Layup Shot,LAYUPS,,2001
+Morris Peterson,2050,Standard Dunk,2,7,7,Slam Dunk Shot,DUNKS,,2001
+Morris Peterson,2050,Tip Shot,2,19,8,Tip Shot,TIP_SHOTS,,2001
+Morris Peterson,2050,Turnaround Jump Shot,2,9,2,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Morris Peterson,2050,Alley Oop Dunk,2,4,4,Alley Oop Dunk Shot,DUNKS,,2002
+Morris Peterson,2050,Alley Oop Layup,2,6,4,Alley Oop Layup shot,LAYUPS,,2002
+Morris Peterson,2050,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2002
+Morris Peterson,2050,Finger Roll,2,3,1,Driving Finger Roll Shot,LAYUPS,,2002
+Morris Peterson,2050,Driving Layup,2,76,42,Driving Layup Shot,LAYUPS,,2002
+Morris Peterson,2050,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2002
+Morris Peterson,2050,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Morris Peterson,2050,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2002
+Morris Peterson,2050,Specialty Dunk,2,1,0,Follow Up Dunk Shot,DUNKS,,2002
+Morris Peterson,2050,Hook Shot,2,2,2,Hook Shot,POST_MOVES,,2002
+Morris Peterson,2050,Jump Shot,2,483,174,Jump Shot,JUMP_SHOTS,,2002
+Morris Peterson,2050,Standard Layup,2,75,39,Layup Shot,LAYUPS,,2002
+Morris Peterson,2050,Reverse Layup,2,6,6,Reverse Layup Shot,LAYUPS,,2002
+Morris Peterson,2050,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2002
+Morris Peterson,2050,Running Jump Shot,2,61,30,Running Jump Shot,JUMP_SHOTS,,2002
+Morris Peterson,2050,Standard Layup,2,18,14,Running Layup Shot,LAYUPS,,2002
+Morris Peterson,2050,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2002
+Morris Peterson,2050,Tip Shot,2,11,5,Tip Shot,TIP_SHOTS,,2002
+Morris Peterson,2050,Turnaround Jump Shot,2,10,4,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Morris Peterson,2050,Alley Oop Dunk,2,4,4,Alley Oop Dunk Shot,DUNKS,,2003
+Morris Peterson,2050,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2003
+Morris Peterson,2050,Driving Dunk,2,3,2,Driving Dunk Shot,DUNKS,,2003
+Morris Peterson,2050,Finger Roll,2,13,7,Driving Finger Roll Shot,LAYUPS,,2003
+Morris Peterson,2050,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2003
+Morris Peterson,2050,Driving Layup,2,67,38,Driving Layup Shot,LAYUPS,,2003
+Morris Peterson,2050,Standard Dunk,2,5,3,Dunk Shot,DUNKS,,2003
+Morris Peterson,2050,Fadeaway Jump Shot,2,7,1,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Morris Peterson,2050,Specialty Dunk,2,4,4,Follow Up Dunk Shot,DUNKS,,2003
+Morris Peterson,2050,Hook Shot,2,3,2,Hook Shot,POST_MOVES,,2003
+Morris Peterson,2050,Jump Shot,2,676,219,Jump Shot,JUMP_SHOTS,,2003
+Morris Peterson,2050,Jump Shot,3,13,6,Jump Shot,JUMP_SHOTS,,2003
+Morris Peterson,2050,Standard Layup,2,100,51,Layup Shot,LAYUPS,,2003
+Morris Peterson,2050,Reverse Layup,2,14,8,Reverse Layup Shot,LAYUPS,,2003
+Morris Peterson,2050,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2003
+Morris Peterson,2050,Finger Roll,2,3,2,Running Finger Roll Shot,LAYUPS,,2003
+Morris Peterson,2050,Running Jump Shot,2,89,31,Running Jump Shot,JUMP_SHOTS,,2003
+Morris Peterson,2050,Running Jump Shot,3,2,0,Running Jump Shot,JUMP_SHOTS,,2003
+Morris Peterson,2050,Standard Layup,2,20,17,Running Layup Shot,LAYUPS,,2003
+Morris Peterson,2050,Tip Shot,2,3,2,Running Tip Shot,TIP_SHOTS,,2003
+Morris Peterson,2050,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,2003
+Morris Peterson,2050,Tip Shot,2,14,6,Tip Shot,TIP_SHOTS,,2003
+Morris Peterson,2050,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2003
+Morris Peterson,2050,Turnaround Jump Shot,2,20,7,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Morris Peterson,2050,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2004
+Morris Peterson,2050,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2004
+Morris Peterson,2050,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2004
+Morris Peterson,2050,Finger Roll,2,4,4,Driving Finger Roll Shot,LAYUPS,,2004
+Morris Peterson,2050,Driving Layup,2,35,22,Driving Layup Shot,LAYUPS,,2004
+Morris Peterson,2050,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2004
+Morris Peterson,2050,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Morris Peterson,2050,Finger Roll,2,1,0,Finger Roll Shot,LAYUPS,,2004
+Morris Peterson,2050,Jump Shot,2,5,2,Jump Bank Shot,JUMP_SHOTS,,2004
+Morris Peterson,2050,Jump Shot,2,451,167,Jump Shot,JUMP_SHOTS,,2004
+Morris Peterson,2050,Jump Shot,3,2,1,Jump Shot,JUMP_SHOTS,,2004
+Morris Peterson,2050,Standard Layup,2,31,11,Layup Shot,LAYUPS,,2004
+Morris Peterson,2050,Reverse Layup,2,11,5,Reverse Layup Shot,LAYUPS,,2004
+Morris Peterson,2050,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2004
+Morris Peterson,2050,Running Jump Shot,2,23,9,Running Jump Shot,JUMP_SHOTS,,2004
+Morris Peterson,2050,Standard Layup,2,9,8,Running Layup Shot,LAYUPS,,2004
+Morris Peterson,2050,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2004
+Morris Peterson,2050,Tip Shot,2,3,0,Tip Shot,TIP_SHOTS,,2004
+Morris Peterson,2050,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Morris Peterson,2050,Alley Oop Layup,2,4,3,Alley Oop Layup shot,LAYUPS,,2005
+Morris Peterson,2050,Driving Dunk,2,12,6,Driving Dunk Shot,DUNKS,,2005
+Morris Peterson,2050,Finger Roll,2,19,14,Driving Finger Roll Shot,LAYUPS,,2005
+Morris Peterson,2050,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2005
+Morris Peterson,2050,Driving Layup,2,73,40,Driving Layup Shot,LAYUPS,,2005
+Morris Peterson,2050,Standard Dunk,2,6,5,Dunk Shot,DUNKS,,2005
+Morris Peterson,2050,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2005
+Morris Peterson,2050,Finger Roll,2,4,3,Finger Roll Shot,LAYUPS,,2005
+Morris Peterson,2050,Specialty Dunk,2,3,2,Follow Up Dunk Shot,DUNKS,,2005
+Morris Peterson,2050,Jump Shot,2,6,2,Jump Bank Shot,JUMP_SHOTS,,2005
+Morris Peterson,2050,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2005
+Morris Peterson,2050,Jump Shot,2,547,197,Jump Shot,JUMP_SHOTS,,2005
+Morris Peterson,2050,Standard Layup,2,75,33,Layup Shot,LAYUPS,,2005
+Morris Peterson,2050,Reverse Layup,2,14,9,Reverse Layup Shot,LAYUPS,,2005
+Morris Peterson,2050,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2005
+Morris Peterson,2050,Running Hook Shot,2,2,2,Running Hook Shot,POST_MOVES,,2005
+Morris Peterson,2050,Running Jump Shot,2,43,18,Running Jump Shot,JUMP_SHOTS,,2005
+Morris Peterson,2050,Standard Layup,2,13,7,Running Layup Shot,LAYUPS,,2005
+Morris Peterson,2050,Tip Shot,2,1,1,Running Tip Shot,TIP_SHOTS,,2005
+Morris Peterson,2050,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,2005
+Morris Peterson,2050,Tip Shot,2,9,4,Tip Shot,TIP_SHOTS,,2005
+Morris Peterson,2050,Turnaround Jump Shot,2,4,0,Turnaround Jump Shot,JUMP_SHOTS,,2005
+Morris Peterson,2050,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2006
+Morris Peterson,2050,Alley Oop Layup,2,5,4,Alley Oop Layup shot,LAYUPS,,2006
+Morris Peterson,2050,Driving Dunk,2,8,7,Driving Dunk Shot,DUNKS,,2006
+Morris Peterson,2050,Finger Roll,2,32,22,Driving Finger Roll Shot,LAYUPS,,2006
+Morris Peterson,2050,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,,2006
+Morris Peterson,2050,Driving Layup,2,83,48,Driving Layup Shot,LAYUPS,,2006
+Morris Peterson,2050,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2006
+Morris Peterson,2050,Fadeaway Jump Shot,2,3,1,Fadeaway Jump Shot,JUMP_SHOTS,,2006
+Morris Peterson,2050,Specialty Dunk,2,2,1,Follow Up Dunk Shot,DUNKS,,2006
+Morris Peterson,2050,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2006
+Morris Peterson,2050,Jump Shot,2,8,5,Jump Bank Shot,JUMP_SHOTS,,2006
+Morris Peterson,2050,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2006
+Morris Peterson,2050,Jump Shot,2,736,287,Jump Shot,JUMP_SHOTS,,2006
+Morris Peterson,2050,Jump Shot,3,12,3,Jump Shot,JUMP_SHOTS,,2006
+Morris Peterson,2050,Standard Layup,2,81,35,Layup Shot,LAYUPS,,2006
+Morris Peterson,2050,Reverse Layup,2,10,3,Reverse Layup Shot,LAYUPS,,2006
+Morris Peterson,2050,Standard Dunk,2,1,0,Running Dunk Shot,DUNKS,,2006
+Morris Peterson,2050,Finger Roll,2,2,1,Running Finger Roll Shot,LAYUPS,,2006
+Morris Peterson,2050,Running Hook Shot,2,4,2,Running Hook Shot,POST_MOVES,,2006
+Morris Peterson,2050,Running Jump Shot,2,75,35,Running Jump Shot,JUMP_SHOTS,,2006
+Morris Peterson,2050,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2006
+Morris Peterson,2050,Standard Layup,2,9,7,Running Layup Shot,LAYUPS,,2006
+Morris Peterson,2050,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2006
+Morris Peterson,2050,Tip Shot,2,5,4,Tip Shot,TIP_SHOTS,,2006
+Morris Peterson,2050,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2006
+Morris Peterson,2050,Turnaround Jump Shot,2,7,4,Turnaround Jump Shot,JUMP_SHOTS,,2006
+Morris Peterson,2050,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2007
+Morris Peterson,2050,Finger Roll,2,3,3,Driving Finger Roll Shot,LAYUPS,,2007
+Morris Peterson,2050,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2007
+Morris Peterson,2050,Driving Layup,2,30,19,Driving Layup Shot,LAYUPS,,2007
+Morris Peterson,2050,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2007
+Morris Peterson,2050,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2007
+Morris Peterson,2050,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2007
+Morris Peterson,2050,Hook Shot,2,2,2,Hook Shot,POST_MOVES,,2007
+Morris Peterson,2050,Jump Shot,2,3,3,Jump Bank Shot,JUMP_SHOTS,,2007
+Morris Peterson,2050,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2007
+Morris Peterson,2050,Jump Shot,2,374,141,Jump Shot,JUMP_SHOTS,,2007
+Morris Peterson,2050,Jump Shot,3,5,2,Jump Shot,JUMP_SHOTS,,2007
+Morris Peterson,2050,Standard Layup,2,35,18,Layup Shot,LAYUPS,,2007
+Morris Peterson,2050,Reverse Layup,2,13,7,Reverse Layup Shot,LAYUPS,,2007
+Morris Peterson,2050,Finger Roll,2,1,0,Running Finger Roll Shot,LAYUPS,,2007
+Morris Peterson,2050,Running Hook Shot,2,2,0,Running Hook Shot,POST_MOVES,,2007
+Morris Peterson,2050,Running Jump Shot,2,22,11,Running Jump Shot,JUMP_SHOTS,,2007
+Morris Peterson,2050,Standard Layup,2,10,7,Running Layup Shot,LAYUPS,,2007
+Morris Peterson,2050,Tip Shot,2,4,3,Tip Shot,TIP_SHOTS,,2007
+Morris Peterson,2050,Turnaround Jump Shot,2,5,0,Turnaround Jump Shot,JUMP_SHOTS,,2007
+Morris Peterson,2050,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2008
+Morris Peterson,2050,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2008
+Morris Peterson,2050,Driving Layup,2,12,8,Driving Layup Shot,LAYUPS,,2008
+Morris Peterson,2050,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2008
+Morris Peterson,2050,Jump Shot,2,4,3,Jump Bank Shot,JUMP_SHOTS,,2008
+Morris Peterson,2050,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2008
+Morris Peterson,2050,Jump Shot,2,386,144,Jump Shot,JUMP_SHOTS,,2008
+Morris Peterson,2050,Jump Shot,3,14,5,Jump Shot,JUMP_SHOTS,,2008
+Morris Peterson,2050,Standard Layup,2,74,36,Layup Shot,LAYUPS,,2008
+Morris Peterson,2050,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2008
+Morris Peterson,2050,Reverse Layup,2,9,7,Reverse Layup Shot,LAYUPS,,2008
+Morris Peterson,2050,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2008
+Morris Peterson,2050,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2008
+Morris Peterson,2050,Running Jump Shot,2,5,5,Running Jump Shot,JUMP_SHOTS,,2008
+Morris Peterson,2050,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2008
+Morris Peterson,2050,Turnaround Jump Shot,2,3,2,Turnaround Jump Shot,JUMP_SHOTS,,2008
+Morris Peterson,2050,Driving Jump Shot,2,1,1,Driving Jump shot,JUMP_SHOTS,,2009
+Morris Peterson,2050,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2009
+Morris Peterson,2050,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2009
+Morris Peterson,2050,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2009
+Morris Peterson,2050,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2009
+Morris Peterson,2050,Jump Shot,2,143,48,Jump Shot,JUMP_SHOTS,,2009
+Morris Peterson,2050,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2009
+Morris Peterson,2050,Standard Layup,2,19,9,Layup Shot,LAYUPS,,2009
+Morris Peterson,2050,Pullup Jump Shot,2,2,2,Pullup Jump shot,JUMP_SHOTS,,2009
+Morris Peterson,2050,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2009
+Morris Peterson,2050,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2009
+Morris Peterson,2050,Running Hook Shot,2,2,2,Running Hook Shot,POST_MOVES,,2009
+Morris Peterson,2050,Running Jump Shot,2,5,4,Running Jump Shot,JUMP_SHOTS,,2009
+Morris Peterson,2050,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2009
+Morris Peterson,2050,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2009
+Morris Peterson,2050,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2009
+Morris Peterson,2050,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2010
+Morris Peterson,2050,Driving Layup,2,5,5,Driving Layup Shot,LAYUPS,,2010
+Morris Peterson,2050,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,2010
+Morris Peterson,2050,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2010
+Morris Peterson,2050,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2010
+Morris Peterson,2050,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2010
+Morris Peterson,2050,Jump Shot,2,228,73,Jump Shot,JUMP_SHOTS,,2010
+Morris Peterson,2050,Standard Layup,2,35,16,Layup Shot,LAYUPS,,2010
+Morris Peterson,2050,Pullup Jump Shot,2,6,4,Pullup Jump shot,JUMP_SHOTS,,2010
+Morris Peterson,2050,Reverse Layup,2,4,2,Reverse Layup Shot,LAYUPS,,2010
+Morris Peterson,2050,Running Jump Shot,2,9,4,Running Jump Shot,JUMP_SHOTS,,2010
+Morris Peterson,2050,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2010
+Morris Peterson,2050,Step Back Jump Shot,2,2,2,Step Back Jump shot,JUMP_SHOTS,,2010
+Morris Peterson,2050,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,,2010
+Morris Peterson,2050,Jump Shot,2,3,0,Jump Shot,JUMP_SHOTS,,2011
+Morris Peterson,2050,Standard Layup,2,1,1,Layup Shot,LAYUPS,,2011
+Morris Peterson,2050,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2011

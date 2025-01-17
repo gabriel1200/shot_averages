@@ -1,20 +1,264 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-201960,Jump Shot,2PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2012
-201960,Jump Shot,2PT Field Goal,6,0,Jump Shot,JUMP_SHOTS,0.0,2012
-201960,Jump Shot,3PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.5,2012
-201960,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2012
-201960,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2013
-201960,Jump Shot,2PT Field Goal,22,13,Jump Shot,JUMP_SHOTS,0.5909090909090909,2013
-201960,Jump Shot,3PT Field Goal,6,1,Jump Shot,JUMP_SHOTS,0.25,2013
-201960,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2013
-201960,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2013
-201960,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2014
-201960,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2015
-201960,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2018
-201960,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2018
-201960,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2018
-201960,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2018
-201960,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2018
-201960,Putback Layup,2PT Field Goal,2,2,Putback Layup Shot,LAYUPS,1.0,2018
-201960,Floating Jump Shot,2PT Field Goal,2,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.5,2019
-201960,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2019
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+DeMarre Carroll,201960,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2010
+DeMarre Carroll,201960,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2010
+DeMarre Carroll,201960,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2010
+DeMarre Carroll,201960,Driving Layup,2,5,2,Driving Layup Shot,LAYUPS,,2010
+DeMarre Carroll,201960,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2010
+DeMarre Carroll,201960,Finger Roll,2,2,1,Finger Roll Layup Shot,LAYUPS,,2010
+DeMarre Carroll,201960,Floating Jump Shot,2,2,0,Floating Jump shot,FLOATING_SHOTS,,2010
+DeMarre Carroll,201960,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2010
+DeMarre Carroll,201960,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2010
+DeMarre Carroll,201960,Jump Shot,2,129,44,Jump Shot,JUMP_SHOTS,,2010
+DeMarre Carroll,201960,Standard Layup,2,51,25,Layup Shot,LAYUPS,,2010
+DeMarre Carroll,201960,Pullup Jump Shot,2,3,1,Pullup Jump shot,JUMP_SHOTS,,2010
+DeMarre Carroll,201960,Putback Layup,2,3,3,Putback Layup Shot,LAYUPS,,2010
+DeMarre Carroll,201960,Reverse Layup,2,4,3,Reverse Layup Shot,LAYUPS,,2010
+DeMarre Carroll,201960,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2010
+DeMarre Carroll,201960,Running Jump Shot,2,5,0,Running Jump Shot,JUMP_SHOTS,,2010
+DeMarre Carroll,201960,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2010
+DeMarre Carroll,201960,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2010
+DeMarre Carroll,201960,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2010
+DeMarre Carroll,201960,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2010
+DeMarre Carroll,201960,Turnaround Jump Shot,2,4,1,Turnaround Jump Shot,JUMP_SHOTS,,2010
+DeMarre Carroll,201960,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2011
+DeMarre Carroll,201960,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2011
+DeMarre Carroll,201960,Jump Shot,2,6,1,Jump Shot,JUMP_SHOTS,,2011
+DeMarre Carroll,201960,Standard Layup,2,3,2,Layup Shot,LAYUPS,,2011
+DeMarre Carroll,201960,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2011
+DeMarre Carroll,201960,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2012
+DeMarre Carroll,201960,Driving Jump Shot,2,1,1,Driving Jump shot,JUMP_SHOTS,,2012
+DeMarre Carroll,201960,Driving Layup,2,4,2,Driving Layup Shot,LAYUPS,,2012
+DeMarre Carroll,201960,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2012
+DeMarre Carroll,201960,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+DeMarre Carroll,201960,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2012
+DeMarre Carroll,201960,Jump Shot,2,58,17,Jump Shot,JUMP_SHOTS,,2012
+DeMarre Carroll,201960,Jump Shot,3,10,5,Jump Shot,JUMP_SHOTS,,2012
+DeMarre Carroll,201960,Standard Layup,2,19,11,Layup Shot,LAYUPS,,2012
+DeMarre Carroll,201960,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2012
+DeMarre Carroll,201960,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2012
+DeMarre Carroll,201960,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2012
+DeMarre Carroll,201960,Running Jump Shot,2,3,1,Running Jump Shot,JUMP_SHOTS,,2012
+DeMarre Carroll,201960,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2012
+DeMarre Carroll,201960,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2012
+DeMarre Carroll,201960,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2013
+DeMarre Carroll,201960,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2013
+DeMarre Carroll,201960,Driving Jump Shot,2,1,1,Driving Jump shot,JUMP_SHOTS,,2013
+DeMarre Carroll,201960,Driving Layup,2,12,8,Driving Layup Shot,LAYUPS,,2013
+DeMarre Carroll,201960,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2013
+DeMarre Carroll,201960,Fadeaway Jump Shot,2,3,0,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+DeMarre Carroll,201960,Floating Jump Shot,2,3,1,Floating Jump shot,FLOATING_SHOTS,,2013
+DeMarre Carroll,201960,Hook Shot,2,3,1,Hook Shot,POST_MOVES,,2013
+DeMarre Carroll,201960,Jump Shot,2,4,4,Jump Bank Shot,JUMP_SHOTS,,2013
+DeMarre Carroll,201960,Hook Shot,2,2,2,Jump Hook Shot,POST_MOVES,,2013
+DeMarre Carroll,201960,Jump Shot,2,189,64,Jump Shot,JUMP_SHOTS,,2013
+DeMarre Carroll,201960,Jump Shot,3,23,6,Jump Shot,JUMP_SHOTS,,2013
+DeMarre Carroll,201960,Standard Layup,2,48,35,Layup Shot,LAYUPS,,2013
+DeMarre Carroll,201960,Pullup Jump Shot,2,2,1,Pullup Jump shot,JUMP_SHOTS,,2013
+DeMarre Carroll,201960,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2013
+DeMarre Carroll,201960,Reverse Layup,2,9,7,Reverse Layup Shot,LAYUPS,,2013
+DeMarre Carroll,201960,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2013
+DeMarre Carroll,201960,Running Jump Shot,2,5,1,Running Jump Shot,JUMP_SHOTS,,2013
+DeMarre Carroll,201960,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2013
+DeMarre Carroll,201960,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2013
+DeMarre Carroll,201960,Standard Dunk,2,7,7,Slam Dunk Shot,DUNKS,,2013
+DeMarre Carroll,201960,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2013
+DeMarre Carroll,201960,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2014
+DeMarre Carroll,201960,Driving Dunk,2,3,2,Driving Dunk Shot,DUNKS,,2014
+DeMarre Carroll,201960,Driving Hook Shot,2,3,2,Driving Hook Shot,POST_MOVES,,2014
+DeMarre Carroll,201960,Driving Jump Shot,2,25,7,Driving Jump shot,JUMP_SHOTS,,2014
+DeMarre Carroll,201960,Driving Layup,2,21,13,Driving Layup Shot,LAYUPS,,2014
+DeMarre Carroll,201960,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2014
+DeMarre Carroll,201960,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2014
+DeMarre Carroll,201960,Standard Dunk,2,8,8,Dunk Shot,DUNKS,,2014
+DeMarre Carroll,201960,Fadeaway Jump Shot,2,5,1,Fadeaway Jump Shot,JUMP_SHOTS,,2014
+DeMarre Carroll,201960,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2014
+DeMarre Carroll,201960,Floating Jump Shot,2,8,5,Floating Jump shot,FLOATING_SHOTS,,2014
+DeMarre Carroll,201960,Hook Shot,2,4,1,Hook Shot,POST_MOVES,,2014
+DeMarre Carroll,201960,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2014
+DeMarre Carroll,201960,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2014
+DeMarre Carroll,201960,Jump Shot,2,363,132,Jump Shot,JUMP_SHOTS,,2014
+DeMarre Carroll,201960,Jump Shot,3,4,0,Jump Shot,JUMP_SHOTS,,2014
+DeMarre Carroll,201960,Standard Layup,2,91,63,Layup Shot,LAYUPS,,2014
+DeMarre Carroll,201960,Pullup Jump Shot,2,5,3,Pullup Jump shot,JUMP_SHOTS,,2014
+DeMarre Carroll,201960,Putback Layup,2,16,11,Putback Layup Shot,LAYUPS,,2014
+DeMarre Carroll,201960,Reverse Layup,2,5,4,Reverse Layup Shot,LAYUPS,,2014
+DeMarre Carroll,201960,Reverse Dunk,2,1,1,Reverse Slam Dunk Shot,DUNKS,,2014
+DeMarre Carroll,201960,Running Jump Shot,2,2,2,Running Bank shot,JUMP_SHOTS,,2014
+DeMarre Carroll,201960,Standard Dunk,2,8,8,Running Dunk Shot,DUNKS,,2014
+DeMarre Carroll,201960,Running Hook Shot,2,4,3,Running Hook Shot,POST_MOVES,,2014
+DeMarre Carroll,201960,Running Jump Shot,2,7,1,Running Jump Shot,JUMP_SHOTS,,2014
+DeMarre Carroll,201960,Standard Layup,2,35,21,Running Layup Shot,LAYUPS,,2014
+DeMarre Carroll,201960,Reverse Layup,2,3,0,Running Reverse Layup Shot,LAYUPS,,2014
+DeMarre Carroll,201960,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2014
+DeMarre Carroll,201960,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2014
+DeMarre Carroll,201960,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,,2014
+DeMarre Carroll,201960,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2014
+DeMarre Carroll,201960,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2014
+DeMarre Carroll,201960,Turnaround Jump Shot,2,4,1,Turnaround Jump Shot,JUMP_SHOTS,,2014
+DeMarre Carroll,201960,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2015
+DeMarre Carroll,201960,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2015
+DeMarre Carroll,201960,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2015
+DeMarre Carroll,201960,Driving Hook Shot,2,4,1,Driving Hook Shot,POST_MOVES,,2015
+DeMarre Carroll,201960,Driving Jump Shot,2,24,12,Driving Jump shot,JUMP_SHOTS,,2015
+DeMarre Carroll,201960,Driving Layup,2,24,15,Driving Layup Shot,LAYUPS,,2015
+DeMarre Carroll,201960,Driving Layup,2,4,3,Driving Reverse Layup Shot,LAYUPS,,2015
+DeMarre Carroll,201960,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2015
+DeMarre Carroll,201960,Fadeaway Jump Shot,2,3,1,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+DeMarre Carroll,201960,Floating Jump Shot,2,16,12,Floating Jump shot,FLOATING_SHOTS,,2015
+DeMarre Carroll,201960,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2015
+DeMarre Carroll,201960,Jump Shot,2,368,140,Jump Shot,JUMP_SHOTS,,2015
+DeMarre Carroll,201960,Jump Shot,3,2,1,Jump Shot,JUMP_SHOTS,,2015
+DeMarre Carroll,201960,Standard Layup,2,109,65,Layup Shot,LAYUPS,,2015
+DeMarre Carroll,201960,Pullup Jump Shot,2,12,5,Pullup Jump shot,JUMP_SHOTS,,2015
+DeMarre Carroll,201960,Putback Layup,2,13,8,Putback Layup Shot,LAYUPS,,2015
+DeMarre Carroll,201960,Reverse Layup,2,7,3,Reverse Layup Shot,LAYUPS,,2015
+DeMarre Carroll,201960,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2015
+DeMarre Carroll,201960,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2015
+DeMarre Carroll,201960,Running Hook Shot,2,2,2,Running Hook Shot,POST_MOVES,,2015
+DeMarre Carroll,201960,Running Jump Shot,2,11,5,Running Jump Shot,JUMP_SHOTS,,2015
+DeMarre Carroll,201960,Standard Layup,2,28,24,Running Layup Shot,LAYUPS,,2015
+DeMarre Carroll,201960,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2015
+DeMarre Carroll,201960,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2015
+DeMarre Carroll,201960,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2015
+DeMarre Carroll,201960,Tip Shot,2,4,1,Tip Shot,TIP_SHOTS,,2015
+DeMarre Carroll,201960,Turnaround Jump Shot,2,3,3,Turnaround Jump Shot,JUMP_SHOTS,,2015
+DeMarre Carroll,201960,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2016
+DeMarre Carroll,201960,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2016
+DeMarre Carroll,201960,Standard Layup,2,9,4,Cutting Layup Shot,LAYUPS,,2016
+DeMarre Carroll,201960,Finger Roll,2,5,2,Driving Finger Roll Layup Shot,LAYUPS,,2016
+DeMarre Carroll,201960,Floating Jump Shot,2,6,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2016
+DeMarre Carroll,201960,Floating Jump Shot,3,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2016
+DeMarre Carroll,201960,Floating Jump Shot,2,17,7,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+DeMarre Carroll,201960,Driving Hook Shot,2,4,2,Driving Hook Shot,POST_MOVES,,2016
+DeMarre Carroll,201960,Driving Layup,2,8,4,Driving Layup Shot,LAYUPS,,2016
+DeMarre Carroll,201960,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2016
+DeMarre Carroll,201960,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2016
+DeMarre Carroll,201960,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+DeMarre Carroll,201960,Floating Jump Shot,2,8,3,Floating Jump shot,FLOATING_SHOTS,,2016
+DeMarre Carroll,201960,Hook Shot,2,5,3,Hook Shot,POST_MOVES,,2016
+DeMarre Carroll,201960,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2016
+DeMarre Carroll,201960,Jump Shot,2,136,44,Jump Shot,JUMP_SHOTS,,2016
+DeMarre Carroll,201960,Jump Shot,3,5,3,Jump Shot,JUMP_SHOTS,,2016
+DeMarre Carroll,201960,Standard Layup,2,17,7,Layup Shot,LAYUPS,,2016
+DeMarre Carroll,201960,Pullup Jump Shot,2,1,0,Pullup Bank shot,JUMP_SHOTS,,2016
+DeMarre Carroll,201960,Pullup Jump Shot,2,10,4,Pullup Jump shot,JUMP_SHOTS,,2016
+DeMarre Carroll,201960,Putback Layup,2,4,3,Putback Layup Shot,LAYUPS,,2016
+DeMarre Carroll,201960,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2016
+DeMarre Carroll,201960,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2016
+DeMarre Carroll,201960,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2016
+DeMarre Carroll,201960,Running Jump Shot,2,9,2,Running Jump Shot,JUMP_SHOTS,,2016
+DeMarre Carroll,201960,Standard Layup,2,6,4,Running Layup Shot,LAYUPS,,2016
+DeMarre Carroll,201960,Running Jump Shot,2,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2016
+DeMarre Carroll,201960,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2016
+DeMarre Carroll,201960,Putback Layup,2,2,0,Tip Layup Shot,LAYUPS,,2016
+DeMarre Carroll,201960,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2016
+DeMarre Carroll,201960,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2017
+DeMarre Carroll,201960,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2017
+DeMarre Carroll,201960,Standard Layup,2,12,9,Cutting Layup Shot,LAYUPS,,2017
+DeMarre Carroll,201960,Driving Hook Shot,2,1,0,Driving Bank Hook Shot,POST_MOVES,,2017
+DeMarre Carroll,201960,Driving Jump Shot,2,1,0,Driving Bank shot,JUMP_SHOTS,,2017
+DeMarre Carroll,201960,Floating Jump Shot,2,7,4,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2017
+DeMarre Carroll,201960,Floating Jump Shot,2,19,7,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+DeMarre Carroll,201960,Driving Hook Shot,2,9,3,Driving Hook Shot,POST_MOVES,,2017
+DeMarre Carroll,201960,Driving Layup,2,16,8,Driving Layup Shot,LAYUPS,,2017
+DeMarre Carroll,201960,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2017
+DeMarre Carroll,201960,Fadeaway Jump Shot,2,5,2,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+DeMarre Carroll,201960,Floating Jump Shot,2,8,6,Floating Jump shot,FLOATING_SHOTS,,2017
+DeMarre Carroll,201960,Hook Shot,2,3,2,Hook Shot,POST_MOVES,,2017
+DeMarre Carroll,201960,Jump Shot,2,331,106,Jump Shot,JUMP_SHOTS,,2017
+DeMarre Carroll,201960,Standard Layup,2,28,15,Layup Shot,LAYUPS,,2017
+DeMarre Carroll,201960,Pullup Jump Shot,2,21,9,Pullup Jump shot,JUMP_SHOTS,,2017
+DeMarre Carroll,201960,Putback Layup,2,12,7,Putback Layup Shot,LAYUPS,,2017
+DeMarre Carroll,201960,Reverse Layup,2,4,1,Reverse Layup Shot,LAYUPS,,2017
+DeMarre Carroll,201960,Alley Oop Layup,2,1,1,Running Alley Oop Layup Shot,LAYUPS,,2017
+DeMarre Carroll,201960,Standard Dunk,2,4,4,Running Dunk Shot,DUNKS,,2017
+DeMarre Carroll,201960,Finger Roll,2,1,0,Running Finger Roll Layup Shot,LAYUPS,,2017
+DeMarre Carroll,201960,Running Jump Shot,2,27,15,Running Jump Shot,JUMP_SHOTS,,2017
+DeMarre Carroll,201960,Standard Layup,2,17,11,Running Layup Shot,LAYUPS,,2017
+DeMarre Carroll,201960,Running Jump Shot,2,5,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2017
+DeMarre Carroll,201960,Reverse Layup,2,2,1,Running Reverse Layup Shot,LAYUPS,,2017
+DeMarre Carroll,201960,Step Back Jump Shot,2,1,0,Step Back Bank Jump Shot,JUMP_SHOTS,,2017
+DeMarre Carroll,201960,Step Back Jump Shot,2,5,1,Step Back Jump shot,JUMP_SHOTS,,2017
+DeMarre Carroll,201960,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2017
+DeMarre Carroll,201960,Turnaround Hook Shot,2,2,2,Turnaround Hook Shot,POST_MOVES,,2017
+DeMarre Carroll,201960,Specialty Dunk,2,5,5,Cutting Dunk Shot,DUNKS,,2018
+DeMarre Carroll,201960,Standard Layup,2,15,11,Cutting Layup Shot,LAYUPS,,2018
+DeMarre Carroll,201960,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2018
+DeMarre Carroll,201960,Finger Roll,2,10,6,Driving Finger Roll Layup Shot,LAYUPS,,2018
+DeMarre Carroll,201960,Floating Jump Shot,2,11,5,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+DeMarre Carroll,201960,Floating Jump Shot,2,44,17,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+DeMarre Carroll,201960,Driving Hook Shot,2,10,3,Driving Hook Shot,POST_MOVES,,2018
+DeMarre Carroll,201960,Driving Layup,2,81,37,Driving Layup Shot,LAYUPS,,2018
+DeMarre Carroll,201960,Driving Layup,2,13,8,Driving Reverse Layup Shot,LAYUPS,,2018
+DeMarre Carroll,201960,Standard Dunk,2,4,2,Dunk Shot,DUNKS,,2018
+DeMarre Carroll,201960,Fadeaway Jump Shot,2,8,2,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+DeMarre Carroll,201960,Floating Jump Shot,2,12,3,Floating Jump shot,FLOATING_SHOTS,,2018
+DeMarre Carroll,201960,Hook Shot,2,5,2,Hook Shot,POST_MOVES,,2018
+DeMarre Carroll,201960,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2018
+DeMarre Carroll,201960,Jump Shot,2,358,126,Jump Shot,JUMP_SHOTS,,2018
+DeMarre Carroll,201960,Jump Shot,3,22,9,Jump Shot,JUMP_SHOTS,,2018
+DeMarre Carroll,201960,Standard Layup,2,43,20,Layup Shot,LAYUPS,,2018
+DeMarre Carroll,201960,Pullup Jump Shot,2,43,16,Pullup Jump shot,JUMP_SHOTS,,2018
+DeMarre Carroll,201960,Pullup Jump Shot,3,3,0,Pullup Jump shot,JUMP_SHOTS,,2018
+DeMarre Carroll,201960,Putback Layup,2,19,13,Putback Layup Shot,LAYUPS,,2018
+DeMarre Carroll,201960,Reverse Layup,2,6,3,Reverse Layup Shot,LAYUPS,,2018
+DeMarre Carroll,201960,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2018
+DeMarre Carroll,201960,Finger Roll,2,2,2,Running Finger Roll Layup Shot,LAYUPS,,2018
+DeMarre Carroll,201960,Running Jump Shot,2,6,3,Running Jump Shot,JUMP_SHOTS,,2018
+DeMarre Carroll,201960,Running Jump Shot,3,1,1,Running Jump Shot,JUMP_SHOTS,,2018
+DeMarre Carroll,201960,Standard Layup,2,17,10,Running Layup Shot,LAYUPS,,2018
+DeMarre Carroll,201960,Running Jump Shot,2,6,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2018
+DeMarre Carroll,201960,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2018
+DeMarre Carroll,201960,Step Back Jump Shot,2,14,7,Step Back Jump shot,JUMP_SHOTS,,2018
+DeMarre Carroll,201960,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2018
+DeMarre Carroll,201960,Putback Layup,2,3,1,Tip Layup Shot,LAYUPS,,2018
+DeMarre Carroll,201960,Turnaround Jump Shot,2,5,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2018
+DeMarre Carroll,201960,Turnaround Hook Shot,2,5,2,Turnaround Hook Shot,POST_MOVES,,2018
+DeMarre Carroll,201960,Turnaround Jump Shot,2,7,4,Turnaround Jump Shot,JUMP_SHOTS,,2018
+DeMarre Carroll,201960,Standard Layup,2,12,10,Cutting Layup Shot,LAYUPS,,2019
+DeMarre Carroll,201960,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2019
+DeMarre Carroll,201960,Finger Roll,2,9,4,Driving Finger Roll Layup Shot,LAYUPS,,2019
+DeMarre Carroll,201960,Floating Jump Shot,2,5,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+DeMarre Carroll,201960,Floating Jump Shot,2,43,16,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+DeMarre Carroll,201960,Driving Hook Shot,2,5,3,Driving Hook Shot,POST_MOVES,,2019
+DeMarre Carroll,201960,Driving Layup,2,61,25,Driving Layup Shot,LAYUPS,,2019
+DeMarre Carroll,201960,Driving Layup,2,2,0,Driving Reverse Layup Shot,LAYUPS,,2019
+DeMarre Carroll,201960,Fadeaway Jump Shot,2,4,2,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+DeMarre Carroll,201960,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2019
+DeMarre Carroll,201960,Floating Jump Shot,2,4,0,Floating Jump shot,FLOATING_SHOTS,,2019
+DeMarre Carroll,201960,Hook Shot,2,4,0,Hook Shot,POST_MOVES,,2019
+DeMarre Carroll,201960,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2019
+DeMarre Carroll,201960,Jump Shot,2,296,104,Jump Shot,JUMP_SHOTS,,2019
+DeMarre Carroll,201960,Jump Shot,3,4,2,Jump Shot,JUMP_SHOTS,,2019
+DeMarre Carroll,201960,Standard Layup,2,19,11,Layup Shot,LAYUPS,,2019
+DeMarre Carroll,201960,Pullup Jump Shot,2,31,6,Pullup Jump shot,JUMP_SHOTS,,2019
+DeMarre Carroll,201960,Putback Layup,2,12,10,Putback Layup Shot,LAYUPS,,2019
+DeMarre Carroll,201960,Reverse Layup,2,10,4,Reverse Layup Shot,LAYUPS,,2019
+DeMarre Carroll,201960,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2019
+DeMarre Carroll,201960,Finger Roll,2,4,2,Running Finger Roll Layup Shot,LAYUPS,,2019
+DeMarre Carroll,201960,Running Jump Shot,2,5,3,Running Jump Shot,JUMP_SHOTS,,2019
+DeMarre Carroll,201960,Standard Layup,2,16,10,Running Layup Shot,LAYUPS,,2019
+DeMarre Carroll,201960,Running Jump Shot,2,3,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2019
+DeMarre Carroll,201960,Step Back Jump Shot,2,11,5,Step Back Jump shot,JUMP_SHOTS,,2019
+DeMarre Carroll,201960,Putback Layup,2,3,3,Tip Layup Shot,LAYUPS,,2019
+DeMarre Carroll,201960,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2019
+DeMarre Carroll,201960,Turnaround Hook Shot,2,2,0,Turnaround Hook Shot,POST_MOVES,,2019
+DeMarre Carroll,201960,Turnaround Jump Shot,2,4,1,Turnaround Jump Shot,JUMP_SHOTS,,2019
+DeMarre Carroll,201960,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2020
+DeMarre Carroll,201960,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2020
+DeMarre Carroll,201960,Floating Jump Shot,2,6,5,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+DeMarre Carroll,201960,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2020
+DeMarre Carroll,201960,Driving Layup,2,7,2,Driving Layup Shot,LAYUPS,,2020
+DeMarre Carroll,201960,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2020
+DeMarre Carroll,201960,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+DeMarre Carroll,201960,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2020
+DeMarre Carroll,201960,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2020
+DeMarre Carroll,201960,Jump Shot,2,29,7,Jump Shot,JUMP_SHOTS,,2020
+DeMarre Carroll,201960,Standard Layup,2,4,2,Layup Shot,LAYUPS,,2020
+DeMarre Carroll,201960,Pullup Jump Shot,2,2,1,Pullup Jump shot,JUMP_SHOTS,,2020
+DeMarre Carroll,201960,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2020
+DeMarre Carroll,201960,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2020
+DeMarre Carroll,201960,Running Jump Shot,2,3,1,Running Jump Shot,JUMP_SHOTS,,2020
+DeMarre Carroll,201960,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2020
+DeMarre Carroll,201960,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2020
+DeMarre Carroll,201960,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2020

@@ -1,15 +1,98 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-243,Driving Layup,2PT Field Goal,29,24,Driving Layup Shot,LAYUPS,0.8275862068965517,1997
-243,Standard Dunk,2PT Field Goal,4,4,Dunk Shot,DUNKS,1.0,1997
-243,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,1997
-243,Jump Shot,2PT Field Goal,86,24,Jump Shot,JUMP_SHOTS,0.2790697674418604,1997
-243,Jump Shot,3PT Field Goal,64,23,Jump Shot,JUMP_SHOTS,0.5390625,1997
-243,Standard Layup,2PT Field Goal,59,33,Layup Shot,LAYUPS,0.559322033898305,1997
-243,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,1997
-243,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,1997
-243,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,1998
-243,Jump Shot,2PT Field Goal,13,5,Jump Shot,JUMP_SHOTS,0.3846153846153846,1998
-243,Jump Shot,3PT Field Goal,8,2,Jump Shot,JUMP_SHOTS,0.375,1998
-243,Standard Layup,2PT Field Goal,6,3,Layup Shot,LAYUPS,0.5,1998
-243,Running Jump Shot,3PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.5,1998
-243,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,1998
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Aaron McKie,243,Driving Layup,2,44,29,Driving Layup Shot,LAYUPS,,1997
+Aaron McKie,243,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,1997
+Aaron McKie,243,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,1997
+Aaron McKie,243,Jump Shot,2,170,52,Jump Shot,JUMP_SHOTS,,1997
+Aaron McKie,243,Jump Shot,3,66,24,Jump Shot,JUMP_SHOTS,,1997
+Aaron McKie,243,Standard Layup,2,74,37,Layup Shot,LAYUPS,,1997
+Aaron McKie,243,Running Jump Shot,2,4,3,Running Jump Shot,JUMP_SHOTS,,1997
+Aaron McKie,243,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,1997
+Aaron McKie,243,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,1997
+Aaron McKie,243,Driving Layup,2,20,13,Driving Layup Shot,LAYUPS,,1998
+Aaron McKie,243,Standard Dunk,2,5,5,Dunk Shot,DUNKS,,1998
+Aaron McKie,243,Hook Shot,2,2,2,Hook Shot,POST_MOVES,,1998
+Aaron McKie,243,Jump Shot,2,263,81,Jump Shot,JUMP_SHOTS,,1998
+Aaron McKie,243,Jump Shot,3,18,4,Jump Shot,JUMP_SHOTS,,1998
+Aaron McKie,243,Standard Layup,2,62,27,Layup Shot,LAYUPS,,1998
+Aaron McKie,243,Running Jump Shot,2,3,2,Running Jump Shot,JUMP_SHOTS,,1998
+Aaron McKie,243,Running Jump Shot,3,1,1,Running Jump Shot,JUMP_SHOTS,,1998
+Aaron McKie,243,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,1998
+Aaron McKie,243,Tip Shot,2,4,1,Tip Shot,TIP_SHOTS,,1998
+Aaron McKie,243,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,1999
+Aaron McKie,243,Driving Layup,2,10,8,Driving Layup Shot,LAYUPS,,1999
+Aaron McKie,243,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,1999
+Aaron McKie,243,Jump Shot,2,195,72,Jump Shot,JUMP_SHOTS,,1999
+Aaron McKie,243,Jump Shot,3,12,2,Jump Shot,JUMP_SHOTS,,1999
+Aaron McKie,243,Standard Layup,2,15,10,Layup Shot,LAYUPS,,1999
+Aaron McKie,243,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,1999
+Aaron McKie,243,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,1999
+Aaron McKie,243,Driving Layup,2,44,37,Driving Layup Shot,LAYUPS,,2000
+Aaron McKie,243,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2000
+Aaron McKie,243,Jump Shot,2,470,170,Jump Shot,JUMP_SHOTS,,2000
+Aaron McKie,243,Jump Shot,3,27,10,Jump Shot,JUMP_SHOTS,,2000
+Aaron McKie,243,Standard Layup,2,40,17,Layup Shot,LAYUPS,,2000
+Aaron McKie,243,Running Jump Shot,2,9,7,Running Jump Shot,JUMP_SHOTS,,2000
+Aaron McKie,243,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2000
+Aaron McKie,243,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2001
+Aaron McKie,243,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2001
+Aaron McKie,243,Driving Layup,2,79,73,Driving Layup Shot,LAYUPS,,2001
+Aaron McKie,243,Finger Roll,2,2,1,Finger Roll Shot,LAYUPS,,2001
+Aaron McKie,243,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2001
+Aaron McKie,243,Jump Shot,2,487,166,Jump Shot,JUMP_SHOTS,,2001
+Aaron McKie,243,Jump Shot,3,22,9,Jump Shot,JUMP_SHOTS,,2001
+Aaron McKie,243,Standard Layup,2,80,49,Layup Shot,LAYUPS,,2001
+Aaron McKie,243,Reverse Layup,2,4,2,Reverse Layup Shot,LAYUPS,,2001
+Aaron McKie,243,Running Jump Shot,2,11,11,Running Jump Shot,JUMP_SHOTS,,2001
+Aaron McKie,243,Standard Layup,2,4,4,Running Layup Shot,LAYUPS,,2001
+Aaron McKie,243,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2001
+Aaron McKie,243,Turnaround Jump Shot,2,21,19,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Aaron McKie,243,Finger Roll,2,3,3,Driving Finger Roll Shot,LAYUPS,,2002
+Aaron McKie,243,Driving Layup,2,38,33,Driving Layup Shot,LAYUPS,,2002
+Aaron McKie,243,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2002
+Aaron McKie,243,Fadeaway Jump Shot,2,20,15,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Aaron McKie,243,Jump Shot,2,346,126,Jump Shot,JUMP_SHOTS,,2002
+Aaron McKie,243,Jump Shot,3,16,5,Jump Shot,JUMP_SHOTS,,2002
+Aaron McKie,243,Standard Layup,2,47,20,Layup Shot,LAYUPS,,2002
+Aaron McKie,243,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2002
+Aaron McKie,243,Running Jump Shot,2,8,8,Running Jump Shot,JUMP_SHOTS,,2002
+Aaron McKie,243,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2002
+Aaron McKie,243,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2002
+Aaron McKie,243,Turnaround Jump Shot,2,6,4,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Aaron McKie,243,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2003
+Aaron McKie,243,Driving Layup,2,56,46,Driving Layup Shot,LAYUPS,,2003
+Aaron McKie,243,Fadeaway Jump Shot,2,23,21,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Aaron McKie,243,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2003
+Aaron McKie,243,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2003
+Aaron McKie,243,Jump Shot,2,413,130,Jump Shot,JUMP_SHOTS,,2003
+Aaron McKie,243,Standard Layup,2,145,67,Layup Shot,LAYUPS,,2003
+Aaron McKie,243,Reverse Layup,2,6,6,Reverse Layup Shot,LAYUPS,,2003
+Aaron McKie,243,Running Jump Shot,2,6,3,Running Jump Shot,JUMP_SHOTS,,2003
+Aaron McKie,243,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2003
+Aaron McKie,243,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2003
+Aaron McKie,243,Turnaround Jump Shot,2,10,9,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Aaron McKie,243,Finger Roll,2,3,2,Driving Finger Roll Shot,LAYUPS,,2004
+Aaron McKie,243,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2004
+Aaron McKie,243,Driving Layup,2,44,38,Driving Layup Shot,LAYUPS,,2004
+Aaron McKie,243,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2004
+Aaron McKie,243,Fadeaway Jump Shot,2,27,23,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Aaron McKie,243,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2004
+Aaron McKie,243,Jump Shot,2,390,146,Jump Shot,JUMP_SHOTS,,2004
+Aaron McKie,243,Jump Shot,3,4,1,Jump Shot,JUMP_SHOTS,,2004
+Aaron McKie,243,Standard Layup,2,79,29,Layup Shot,LAYUPS,,2004
+Aaron McKie,243,Reverse Layup,2,4,4,Reverse Layup Shot,LAYUPS,,2004
+Aaron McKie,243,Finger Roll,2,1,1,Running Finger Roll Shot,LAYUPS,,2004
+Aaron McKie,243,Running Jump Shot,2,9,8,Running Jump Shot,JUMP_SHOTS,,2004
+Aaron McKie,243,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2004
+Aaron McKie,243,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,,2004
+Aaron McKie,243,Turnaround Jump Shot,2,6,5,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Aaron McKie,243,Driving Layup,2,5,5,Driving Layup Shot,LAYUPS,,2005
+Aaron McKie,243,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2005
+Aaron McKie,243,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2005
+Aaron McKie,243,Jump Shot,2,111,41,Jump Shot,JUMP_SHOTS,,2005
+Aaron McKie,243,Standard Layup,2,20,11,Layup Shot,LAYUPS,,2005
+Aaron McKie,243,Turnaround Jump Shot,2,3,2,Turnaround Jump Shot,JUMP_SHOTS,,2005
+Aaron McKie,243,Jump Shot,2,12,3,Jump Shot,JUMP_SHOTS,,2006
+Aaron McKie,243,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2007
+Aaron McKie,243,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2007
+Aaron McKie,243,Jump Shot,2,14,8,Jump Shot,JUMP_SHOTS,,2007
+Aaron McKie,243,Standard Layup,2,1,1,Layup Shot,LAYUPS,,2007

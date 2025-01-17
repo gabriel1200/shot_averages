@@ -1,17 +1,166 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-201576,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2011
-201576,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2012
-201576,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2012
-201576,Driving Dunk,2PT Field Goal,1,1,Driving Slam Dunk Shot,DUNKS,1.0,2013
-201576,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2013
-201576,Finger Roll,2PT Field Goal,1,1,Finger Roll Layup Shot,LAYUPS,1.0,2013
-201576,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2013
-201576,Jump Shot,3PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,2013
-201576,Standard Layup,2PT Field Goal,2,2,Layup Shot,LAYUPS,1.0,2013
-201576,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2013
-201576,Putback Dunk,2PT Field Goal,1,1,Putback Dunk Shot,DUNKS,1.0,2013
-201576,Tip Shot,2PT Field Goal,2,2,Tip Shot,TIP_SHOTS,1.0,2013
-201576,Driving Layup,2PT Field Goal,2,2,Driving Layup Shot,LAYUPS,1.0,2014
-201576,Jump Shot,2PT Field Goal,4,1,Jump Shot,JUMP_SHOTS,0.25,2014
-201576,Jump Shot,3PT Field Goal,4,3,Jump Shot,JUMP_SHOTS,1.125,2014
-201576,Standard Layup,2PT Field Goal,2,2,Layup Shot,LAYUPS,1.0,2014
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Anthony Randolph,201576,Alley Oop Dunk,2,4,4,Alley Oop Dunk Shot,DUNKS,,2009
+Anthony Randolph,201576,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2009
+Anthony Randolph,201576,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2009
+Anthony Randolph,201576,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2009
+Anthony Randolph,201576,Driving Layup,2,15,13,Driving Layup Shot,LAYUPS,,2009
+Anthony Randolph,201576,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2009
+Anthony Randolph,201576,Driving Dunk,2,10,10,Driving Slam Dunk Shot,DUNKS,,2009
+Anthony Randolph,201576,Standard Dunk,2,7,6,Dunk Shot,DUNKS,,2009
+Anthony Randolph,201576,Fadeaway Jump Shot,2,3,0,Fadeaway Jump Shot,JUMP_SHOTS,,2009
+Anthony Randolph,201576,Floating Jump Shot,2,3,3,Floating Jump shot,FLOATING_SHOTS,,2009
+Anthony Randolph,201576,Hook Shot,2,6,0,Hook Shot,POST_MOVES,,2009
+Anthony Randolph,201576,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2009
+Anthony Randolph,201576,Hook Shot,2,3,2,Jump Hook Shot,POST_MOVES,,2009
+Anthony Randolph,201576,Jump Shot,2,192,49,Jump Shot,JUMP_SHOTS,,2009
+Anthony Randolph,201576,Standard Layup,2,65,26,Layup Shot,LAYUPS,,2009
+Anthony Randolph,201576,Pullup Jump Shot,2,6,4,Pullup Jump shot,JUMP_SHOTS,,2009
+Anthony Randolph,201576,Putback Dunk,2,6,6,Putback Dunk Shot,DUNKS,,2009
+Anthony Randolph,201576,Putback Layup,2,8,8,Putback Layup Shot,LAYUPS,,2009
+Anthony Randolph,201576,Putback Dunk,2,4,4,Putback Slam Dunk Shot,DUNKS,,2009
+Anthony Randolph,201576,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2009
+Anthony Randolph,201576,Reverse Dunk,2,1,1,Reverse Slam Dunk Shot,DUNKS,,2009
+Anthony Randolph,201576,Running Hook Shot,2,3,3,Running Hook Shot,POST_MOVES,,2009
+Anthony Randolph,201576,Running Jump Shot,2,8,6,Running Jump Shot,JUMP_SHOTS,,2009
+Anthony Randolph,201576,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2009
+Anthony Randolph,201576,Standard Dunk,2,3,3,Running Slam Dunk Shot,DUNKS,,2009
+Anthony Randolph,201576,Standard Dunk,2,18,16,Slam Dunk Shot,DUNKS,,2009
+Anthony Randolph,201576,Step Back Jump Shot,2,7,6,Step Back Jump shot,JUMP_SHOTS,,2009
+Anthony Randolph,201576,Tip Shot,2,21,6,Tip Shot,TIP_SHOTS,,2009
+Anthony Randolph,201576,Turnaround Jump Shot,2,3,3,Turnaround Bank shot,JUMP_SHOTS,,2009
+Anthony Randolph,201576,Turnaround Hook Shot,2,3,2,Turnaround Hook Shot,POST_MOVES,,2009
+Anthony Randolph,201576,Turnaround Jump Shot,2,19,7,Turnaround Jump Shot,JUMP_SHOTS,,2009
+Anthony Randolph,201576,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2010
+Anthony Randolph,201576,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2010
+Anthony Randolph,201576,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2010
+Anthony Randolph,201576,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2010
+Anthony Randolph,201576,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2010
+Anthony Randolph,201576,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2010
+Anthony Randolph,201576,Driving Layup,2,12,11,Driving Layup Shot,LAYUPS,,2010
+Anthony Randolph,201576,Driving Dunk,2,7,7,Driving Slam Dunk Shot,DUNKS,,2010
+Anthony Randolph,201576,Standard Dunk,2,7,7,Dunk Shot,DUNKS,,2010
+Anthony Randolph,201576,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+Anthony Randolph,201576,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2010
+Anthony Randolph,201576,Floating Jump Shot,2,2,2,Floating Jump shot,FLOATING_SHOTS,,2010
+Anthony Randolph,201576,Hook Shot,2,4,1,Hook Shot,POST_MOVES,,2010
+Anthony Randolph,201576,Jump Shot,2,3,2,Jump Bank Shot,JUMP_SHOTS,,2010
+Anthony Randolph,201576,Hook Shot,2,3,2,Jump Hook Shot,POST_MOVES,,2010
+Anthony Randolph,201576,Jump Shot,2,134,35,Jump Shot,JUMP_SHOTS,,2010
+Anthony Randolph,201576,Standard Layup,2,61,18,Layup Shot,LAYUPS,,2010
+Anthony Randolph,201576,Pullup Jump Shot,2,7,4,Pullup Jump shot,JUMP_SHOTS,,2010
+Anthony Randolph,201576,Putback Dunk,2,3,3,Putback Dunk Shot,DUNKS,,2010
+Anthony Randolph,201576,Putback Layup,2,4,4,Putback Layup Shot,LAYUPS,,2010
+Anthony Randolph,201576,Putback Dunk,2,3,3,Putback Slam Dunk Shot,DUNKS,,2010
+Anthony Randolph,201576,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2010
+Anthony Randolph,201576,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2010
+Anthony Randolph,201576,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2010
+Anthony Randolph,201576,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2010
+Anthony Randolph,201576,Running Jump Shot,2,9,4,Running Jump Shot,JUMP_SHOTS,,2010
+Anthony Randolph,201576,Standard Layup,2,3,3,Running Layup Shot,LAYUPS,,2010
+Anthony Randolph,201576,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,2010
+Anthony Randolph,201576,Step Back Jump Shot,2,6,6,Step Back Jump shot,JUMP_SHOTS,,2010
+Anthony Randolph,201576,Tip Shot,2,12,4,Tip Shot,TIP_SHOTS,,2010
+Anthony Randolph,201576,Turnaround Jump Shot,2,3,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2010
+Anthony Randolph,201576,Turnaround Jump Shot,2,6,2,Turnaround Jump Shot,JUMP_SHOTS,,2010
+Anthony Randolph,201576,Alley Oop Dunk,2,6,6,Alley Oop Dunk Shot,DUNKS,,2011
+Anthony Randolph,201576,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2011
+Anthony Randolph,201576,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2011
+Anthony Randolph,201576,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2011
+Anthony Randolph,201576,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2011
+Anthony Randolph,201576,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2011
+Anthony Randolph,201576,Driving Layup,2,11,7,Driving Layup Shot,LAYUPS,,2011
+Anthony Randolph,201576,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2011
+Anthony Randolph,201576,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2011
+Anthony Randolph,201576,Standard Dunk,2,8,7,Dunk Shot,DUNKS,,2011
+Anthony Randolph,201576,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Anthony Randolph,201576,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2011
+Anthony Randolph,201576,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2011
+Anthony Randolph,201576,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2011
+Anthony Randolph,201576,Jump Shot,2,128,41,Jump Shot,JUMP_SHOTS,,2011
+Anthony Randolph,201576,Jump Shot,3,1,1,Jump Shot,JUMP_SHOTS,,2011
+Anthony Randolph,201576,Standard Layup,2,42,21,Layup Shot,LAYUPS,,2011
+Anthony Randolph,201576,Pullup Jump Shot,2,2,2,Pullup Jump shot,JUMP_SHOTS,,2011
+Anthony Randolph,201576,Putback Dunk,2,5,5,Putback Dunk Shot,DUNKS,,2011
+Anthony Randolph,201576,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2011
+Anthony Randolph,201576,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2011
+Anthony Randolph,201576,Reverse Layup,2,5,3,Reverse Layup Shot,LAYUPS,,2011
+Anthony Randolph,201576,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2011
+Anthony Randolph,201576,Running Hook Shot,2,3,2,Running Hook Shot,POST_MOVES,,2011
+Anthony Randolph,201576,Running Jump Shot,2,8,3,Running Jump Shot,JUMP_SHOTS,,2011
+Anthony Randolph,201576,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2011
+Anthony Randolph,201576,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,2011
+Anthony Randolph,201576,Step Back Jump Shot,2,6,2,Step Back Jump shot,JUMP_SHOTS,,2011
+Anthony Randolph,201576,Tip Shot,2,7,2,Tip Shot,TIP_SHOTS,,2011
+Anthony Randolph,201576,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2011
+Anthony Randolph,201576,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2011
+Anthony Randolph,201576,Turnaround Jump Shot,2,5,1,Turnaround Jump Shot,JUMP_SHOTS,,2011
+Anthony Randolph,201576,Alley Oop Dunk,2,5,5,Alley Oop Dunk Shot,DUNKS,,2012
+Anthony Randolph,201576,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2012
+Anthony Randolph,201576,Driving Dunk,2,3,2,Driving Dunk Shot,DUNKS,,2012
+Anthony Randolph,201576,Driving Layup,2,8,5,Driving Layup Shot,LAYUPS,,2012
+Anthony Randolph,201576,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2012
+Anthony Randolph,201576,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2012
+Anthony Randolph,201576,Standard Dunk,2,8,8,Dunk Shot,DUNKS,,2012
+Anthony Randolph,201576,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Anthony Randolph,201576,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2012
+Anthony Randolph,201576,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2012
+Anthony Randolph,201576,Jump Shot,2,93,27,Jump Shot,JUMP_SHOTS,,2012
+Anthony Randolph,201576,Standard Layup,2,40,21,Layup Shot,LAYUPS,,2012
+Anthony Randolph,201576,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2012
+Anthony Randolph,201576,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2012
+Anthony Randolph,201576,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2012
+Anthony Randolph,201576,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2012
+Anthony Randolph,201576,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2012
+Anthony Randolph,201576,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2012
+Anthony Randolph,201576,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2012
+Anthony Randolph,201576,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2012
+Anthony Randolph,201576,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2012
+Anthony Randolph,201576,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2012
+Anthony Randolph,201576,Tip Shot,2,14,6,Tip Shot,TIP_SHOTS,,2012
+Anthony Randolph,201576,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2012
+Anthony Randolph,201576,Turnaround Jump Shot,2,5,2,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Anthony Randolph,201576,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2013
+Anthony Randolph,201576,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2013
+Anthony Randolph,201576,Driving Dunk,2,2,1,Driving Dunk Shot,DUNKS,,2013
+Anthony Randolph,201576,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2013
+Anthony Randolph,201576,Driving Jump Shot,2,2,0,Driving Jump shot,JUMP_SHOTS,,2013
+Anthony Randolph,201576,Driving Layup,2,3,0,Driving Layup Shot,LAYUPS,,2013
+Anthony Randolph,201576,Driving Dunk,2,2,2,Driving Slam Dunk Shot,DUNKS,,2013
+Anthony Randolph,201576,Standard Dunk,2,9,9,Dunk Shot,DUNKS,,2013
+Anthony Randolph,201576,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2013
+Anthony Randolph,201576,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2013
+Anthony Randolph,201576,Hook Shot,2,1,0,Jump Bank Hook Shot,POST_MOVES,,2013
+Anthony Randolph,201576,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2013
+Anthony Randolph,201576,Hook Shot,2,2,1,Jump Hook Shot,POST_MOVES,,2013
+Anthony Randolph,201576,Jump Shot,2,26,6,Jump Shot,JUMP_SHOTS,,2013
+Anthony Randolph,201576,Jump Shot,3,4,0,Jump Shot,JUMP_SHOTS,,2013
+Anthony Randolph,201576,Standard Layup,2,29,12,Layup Shot,LAYUPS,,2013
+Anthony Randolph,201576,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2013
+Anthony Randolph,201576,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2013
+Anthony Randolph,201576,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2013
+Anthony Randolph,201576,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2013
+Anthony Randolph,201576,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2013
+Anthony Randolph,201576,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2013
+Anthony Randolph,201576,Running Jump Shot,2,3,1,Running Jump Shot,JUMP_SHOTS,,2013
+Anthony Randolph,201576,Standard Dunk,2,9,8,Slam Dunk Shot,DUNKS,,2013
+Anthony Randolph,201576,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,,2013
+Anthony Randolph,201576,Turnaround Hook Shot,2,1,1,Turnaround Bank Hook Shot,POST_MOVES,,2013
+Anthony Randolph,201576,Turnaround Jump Shot,2,4,1,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Anthony Randolph,201576,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2014
+Anthony Randolph,201576,Driving Layup,2,10,6,Driving Layup Shot,LAYUPS,,2014
+Anthony Randolph,201576,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2014
+Anthony Randolph,201576,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2014
+Anthony Randolph,201576,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2014
+Anthony Randolph,201576,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2014
+Anthony Randolph,201576,Jump Shot,2,106,28,Jump Shot,JUMP_SHOTS,,2014
+Anthony Randolph,201576,Jump Shot,3,11,4,Jump Shot,JUMP_SHOTS,,2014
+Anthony Randolph,201576,Standard Layup,2,25,12,Layup Shot,LAYUPS,,2014
+Anthony Randolph,201576,Pullup Jump Shot,2,2,1,Pullup Jump shot,JUMP_SHOTS,,2014
+Anthony Randolph,201576,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2014
+Anthony Randolph,201576,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2014
+Anthony Randolph,201576,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2014
+Anthony Randolph,201576,Running Hook Shot,2,2,2,Running Hook Shot,POST_MOVES,,2014
+Anthony Randolph,201576,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2014
+Anthony Randolph,201576,Standard Dunk,2,2,2,Running Slam Dunk Shot,DUNKS,,2014
+Anthony Randolph,201576,Tip Shot,2,5,3,Tip Shot,TIP_SHOTS,,2014
+Anthony Randolph,201576,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2014

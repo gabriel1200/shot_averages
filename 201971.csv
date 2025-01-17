@@ -1,30 +1,184 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-201971,Hook Shot,2PT Field Goal,1,1,Jump Hook Shot,POST_MOVES,1.0,2010
-201971,Jump Shot,2PT Field Goal,2,2,Jump Shot,JUMP_SHOTS,1.0,2010
-201971,Standard Layup,2PT Field Goal,8,6,Layup Shot,LAYUPS,0.75,2010
-201971,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2010
-201971,Running Jump Shot,3PT Field Goal,1,0,Running Bank shot,JUMP_SHOTS,0.0,2011
-201971,Driving Layup,2PT Field Goal,3,1,Driving Layup Shot,LAYUPS,0.3333333333333333,2012
-201971,Finger Roll,2PT Field Goal,1,1,Finger Roll Layup Shot,LAYUPS,1.0,2012
-201971,Floating Jump Shot,2PT Field Goal,3,2,Floating Jump shot,FLOATING_SHOTS,0.6666666666666666,2012
-201971,Jump Shot,2PT Field Goal,12,7,Jump Shot,JUMP_SHOTS,0.5833333333333334,2012
-201971,Standard Layup,2PT Field Goal,15,11,Layup Shot,LAYUPS,0.7333333333333333,2012
-201971,Running Hook Shot,2PT Field Goal,1,0,Running Hook Shot,POST_MOVES,0.0,2012
-201971,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2012
-201971,Reverse Layup,2PT Field Goal,1,1,Running Reverse Layup Shot,LAYUPS,1.0,2012
-201971,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2012
-201971,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2013
-201971,Floating Jump Shot,2PT Field Goal,2,1,Floating Jump shot,FLOATING_SHOTS,0.5,2013
-201971,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2013
-201971,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2013
-201971,Hook Shot,2PT Field Goal,2,2,Jump Hook Shot,POST_MOVES,1.0,2013
-201971,Jump Shot,2PT Field Goal,12,4,Jump Shot,JUMP_SHOTS,0.3333333333333333,2013
-201971,Standard Layup,2PT Field Goal,7,5,Layup Shot,LAYUPS,0.7142857142857143,2013
-201971,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2013
-201971,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2013
-201971,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2015
-201971,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2015
-201971,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2015
-201971,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2016
-201971,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2016
-201971,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.0,2016
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+DeJuan Blair,201971,Alley Oop Layup,2,3,3,Alley Oop Layup shot,LAYUPS,,2010
+DeJuan Blair,201971,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2010
+DeJuan Blair,201971,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2010
+DeJuan Blair,201971,Driving Layup,2,12,8,Driving Layup Shot,LAYUPS,,2010
+DeJuan Blair,201971,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2010
+DeJuan Blair,201971,Standard Dunk,2,20,17,Dunk Shot,DUNKS,,2010
+DeJuan Blair,201971,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2010
+DeJuan Blair,201971,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2010
+DeJuan Blair,201971,Hook Shot,2,7,4,Hook Shot,POST_MOVES,,2010
+DeJuan Blair,201971,Hook Shot,2,1,1,Jump Bank Hook Shot,POST_MOVES,,2010
+DeJuan Blair,201971,Jump Shot,2,15,7,Jump Bank Shot,JUMP_SHOTS,,2010
+DeJuan Blair,201971,Hook Shot,2,6,4,Jump Hook Shot,POST_MOVES,,2010
+DeJuan Blair,201971,Jump Shot,2,95,33,Jump Shot,JUMP_SHOTS,,2010
+DeJuan Blair,201971,Standard Layup,2,203,112,Layup Shot,LAYUPS,,2010
+DeJuan Blair,201971,Putback Dunk,2,3,3,Putback Dunk Shot,DUNKS,,2010
+DeJuan Blair,201971,Putback Layup,2,18,13,Putback Layup Shot,LAYUPS,,2010
+DeJuan Blair,201971,Reverse Layup,2,29,21,Reverse Layup Shot,LAYUPS,,2010
+DeJuan Blair,201971,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2010
+DeJuan Blair,201971,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2010
+DeJuan Blair,201971,Running Hook Shot,2,2,2,Running Hook Shot,POST_MOVES,,2010
+DeJuan Blair,201971,Running Jump Shot,2,3,0,Running Jump Shot,JUMP_SHOTS,,2010
+DeJuan Blair,201971,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2010
+DeJuan Blair,201971,Standard Dunk,2,10,10,Slam Dunk Shot,DUNKS,,2010
+DeJuan Blair,201971,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2010
+DeJuan Blair,201971,Tip Shot,2,50,28,Tip Shot,TIP_SHOTS,,2010
+DeJuan Blair,201971,Turnaround Hook Shot,2,1,0,Turnaround Bank Hook Shot,POST_MOVES,,2010
+DeJuan Blair,201971,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2010
+DeJuan Blair,201971,Turnaround Jump Shot,2,6,2,Turnaround Jump Shot,JUMP_SHOTS,,2010
+DeJuan Blair,201971,Alley Oop Layup,2,5,2,Alley Oop Layup shot,LAYUPS,,2011
+DeJuan Blair,201971,Driving Dunk,2,1,0,Driving Dunk Shot,DUNKS,,2011
+DeJuan Blair,201971,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2011
+DeJuan Blair,201971,Driving Jump Shot,2,2,1,Driving Jump shot,JUMP_SHOTS,,2011
+DeJuan Blair,201971,Driving Layup,2,17,15,Driving Layup Shot,LAYUPS,,2011
+DeJuan Blair,201971,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2011
+DeJuan Blair,201971,Standard Dunk,2,12,8,Dunk Shot,DUNKS,,2011
+DeJuan Blair,201971,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+DeJuan Blair,201971,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2011
+DeJuan Blair,201971,Floating Jump Shot,2,11,9,Floating Jump shot,FLOATING_SHOTS,,2011
+DeJuan Blair,201971,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2011
+DeJuan Blair,201971,Hook Shot,2,10,4,Hook Shot,POST_MOVES,,2011
+DeJuan Blair,201971,Hook Shot,2,1,1,Jump Bank Hook Shot,POST_MOVES,,2011
+DeJuan Blair,201971,Jump Shot,2,18,7,Jump Bank Shot,JUMP_SHOTS,,2011
+DeJuan Blair,201971,Hook Shot,2,4,2,Jump Hook Shot,POST_MOVES,,2011
+DeJuan Blair,201971,Jump Shot,2,165,43,Jump Shot,JUMP_SHOTS,,2011
+DeJuan Blair,201971,Standard Layup,2,191,109,Layup Shot,LAYUPS,,2011
+DeJuan Blair,201971,Pullup Jump Shot,2,1,0,Pullup Bank shot,JUMP_SHOTS,,2011
+DeJuan Blair,201971,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2011
+DeJuan Blair,201971,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2011
+DeJuan Blair,201971,Putback Layup,2,12,9,Putback Layup Shot,LAYUPS,,2011
+DeJuan Blair,201971,Reverse Layup,2,36,27,Reverse Layup Shot,LAYUPS,,2011
+DeJuan Blair,201971,Running Jump Shot,3,1,0,Running Bank shot,JUMP_SHOTS,,2011
+DeJuan Blair,201971,Standard Dunk,2,1,0,Running Dunk Shot,DUNKS,,2011
+DeJuan Blair,201971,Running Hook Shot,2,2,2,Running Hook Shot,POST_MOVES,,2011
+DeJuan Blair,201971,Running Jump Shot,2,7,3,Running Jump Shot,JUMP_SHOTS,,2011
+DeJuan Blair,201971,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2011
+DeJuan Blair,201971,Standard Dunk,2,16,16,Slam Dunk Shot,DUNKS,,2011
+DeJuan Blair,201971,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2011
+DeJuan Blair,201971,Tip Shot,2,46,20,Tip Shot,TIP_SHOTS,,2011
+DeJuan Blair,201971,Turnaround Hook Shot,2,1,1,Turnaround Bank Hook Shot,POST_MOVES,,2011
+DeJuan Blair,201971,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2011
+DeJuan Blair,201971,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2011
+DeJuan Blair,201971,Turnaround Jump Shot,2,10,4,Turnaround Jump Shot,JUMP_SHOTS,,2011
+DeJuan Blair,201971,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2012
+DeJuan Blair,201971,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2012
+DeJuan Blair,201971,Driving Layup,2,6,4,Driving Layup Shot,LAYUPS,,2012
+DeJuan Blair,201971,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2012
+DeJuan Blair,201971,Standard Dunk,2,5,4,Dunk Shot,DUNKS,,2012
+DeJuan Blair,201971,Fadeaway Jump Shot,2,4,2,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+DeJuan Blair,201971,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2012
+DeJuan Blair,201971,Floating Jump Shot,2,16,11,Floating Jump shot,FLOATING_SHOTS,,2012
+DeJuan Blair,201971,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2012
+DeJuan Blair,201971,Hook Shot,2,9,3,Hook Shot,POST_MOVES,,2012
+DeJuan Blair,201971,Jump Shot,2,20,10,Jump Bank Shot,JUMP_SHOTS,,2012
+DeJuan Blair,201971,Hook Shot,2,7,6,Jump Hook Shot,POST_MOVES,,2012
+DeJuan Blair,201971,Jump Shot,2,127,38,Jump Shot,JUMP_SHOTS,,2012
+DeJuan Blair,201971,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2012
+DeJuan Blair,201971,Standard Layup,2,194,121,Layup Shot,LAYUPS,,2012
+DeJuan Blair,201971,Putback Layup,2,3,2,Putback Layup Shot,LAYUPS,,2012
+DeJuan Blair,201971,Reverse Layup,2,28,23,Reverse Layup Shot,LAYUPS,,2012
+DeJuan Blair,201971,Running Jump Shot,2,3,2,Running Bank shot,JUMP_SHOTS,,2012
+DeJuan Blair,201971,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2012
+DeJuan Blair,201971,Running Jump Shot,2,17,11,Running Jump Shot,JUMP_SHOTS,,2012
+DeJuan Blair,201971,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2012
+DeJuan Blair,201971,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2012
+DeJuan Blair,201971,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2012
+DeJuan Blair,201971,Tip Shot,2,27,16,Tip Shot,TIP_SHOTS,,2012
+DeJuan Blair,201971,Turnaround Hook Shot,2,1,0,Turnaround Bank Hook Shot,POST_MOVES,,2012
+DeJuan Blair,201971,Turnaround Jump Shot,2,4,2,Turnaround Bank shot,JUMP_SHOTS,,2012
+DeJuan Blair,201971,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2012
+DeJuan Blair,201971,Turnaround Hook Shot,2,5,2,Turnaround Hook Shot,POST_MOVES,,2012
+DeJuan Blair,201971,Turnaround Jump Shot,2,15,3,Turnaround Jump Shot,JUMP_SHOTS,,2012
+DeJuan Blair,201971,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2013
+DeJuan Blair,201971,Driving Layup,2,5,3,Driving Layup Shot,LAYUPS,,2013
+DeJuan Blair,201971,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2013
+DeJuan Blair,201971,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2013
+DeJuan Blair,201971,Floating Jump Shot,2,9,6,Floating Jump shot,FLOATING_SHOTS,,2013
+DeJuan Blair,201971,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2013
+DeJuan Blair,201971,Hook Shot,2,6,1,Hook Shot,POST_MOVES,,2013
+DeJuan Blair,201971,Jump Shot,2,10,6,Jump Bank Shot,JUMP_SHOTS,,2013
+DeJuan Blair,201971,Hook Shot,2,4,4,Jump Hook Shot,POST_MOVES,,2013
+DeJuan Blair,201971,Jump Shot,2,90,29,Jump Shot,JUMP_SHOTS,,2013
+DeJuan Blair,201971,Standard Layup,2,78,52,Layup Shot,LAYUPS,,2013
+DeJuan Blair,201971,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2013
+DeJuan Blair,201971,Putback Layup,2,7,4,Putback Layup Shot,LAYUPS,,2013
+DeJuan Blair,201971,Reverse Layup,2,16,8,Reverse Layup Shot,LAYUPS,,2013
+DeJuan Blair,201971,Running Hook Shot,2,2,2,Running Bank Hook Shot,POST_MOVES,,2013
+DeJuan Blair,201971,Running Jump Shot,2,1,0,Running Bank shot,JUMP_SHOTS,,2013
+DeJuan Blair,201971,Running Jump Shot,2,5,4,Running Jump Shot,JUMP_SHOTS,,2013
+DeJuan Blair,201971,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2013
+DeJuan Blair,201971,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2013
+DeJuan Blair,201971,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2013
+DeJuan Blair,201971,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,2013
+DeJuan Blair,201971,Tip Shot,2,10,4,Tip Shot,TIP_SHOTS,,2013
+DeJuan Blair,201971,Turnaround Jump Shot,2,3,2,Turnaround Bank shot,JUMP_SHOTS,,2013
+DeJuan Blair,201971,Turnaround Jump Shot,2,10,3,Turnaround Jump Shot,JUMP_SHOTS,,2013
+DeJuan Blair,201971,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2014
+DeJuan Blair,201971,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2014
+DeJuan Blair,201971,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2014
+DeJuan Blair,201971,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2014
+DeJuan Blair,201971,Driving Hook Shot,2,3,1,Driving Hook Shot,POST_MOVES,,2014
+DeJuan Blair,201971,Driving Jump Shot,2,4,2,Driving Jump shot,JUMP_SHOTS,,2014
+DeJuan Blair,201971,Driving Layup,2,22,10,Driving Layup Shot,LAYUPS,,2014
+DeJuan Blair,201971,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2014
+DeJuan Blair,201971,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2014
+DeJuan Blair,201971,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2014
+DeJuan Blair,201971,Fadeaway Jump Shot,2,1,0,Fadeaway Bank shot,JUMP_SHOTS,,2014
+DeJuan Blair,201971,Fadeaway Jump Shot,2,3,0,Fadeaway Jump Shot,JUMP_SHOTS,,2014
+DeJuan Blair,201971,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2014
+DeJuan Blair,201971,Floating Jump Shot,2,19,9,Floating Jump shot,FLOATING_SHOTS,,2014
+DeJuan Blair,201971,Hook Shot,2,8,4,Hook Shot,POST_MOVES,,2014
+DeJuan Blair,201971,Hook Shot,2,1,1,Jump Bank Hook Shot,POST_MOVES,,2014
+DeJuan Blair,201971,Jump Shot,2,9,7,Jump Bank Shot,JUMP_SHOTS,,2014
+DeJuan Blair,201971,Hook Shot,2,6,4,Jump Hook Shot,POST_MOVES,,2014
+DeJuan Blair,201971,Jump Shot,2,103,35,Jump Shot,JUMP_SHOTS,,2014
+DeJuan Blair,201971,Standard Layup,2,102,69,Layup Shot,LAYUPS,,2014
+DeJuan Blair,201971,Putback Layup,2,10,9,Putback Layup Shot,LAYUPS,,2014
+DeJuan Blair,201971,Reverse Layup,2,18,9,Reverse Layup Shot,LAYUPS,,2014
+DeJuan Blair,201971,Running Jump Shot,2,1,0,Running Bank shot,JUMP_SHOTS,,2014
+DeJuan Blair,201971,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2014
+DeJuan Blair,201971,Running Hook Shot,2,2,1,Running Hook Shot,POST_MOVES,,2014
+DeJuan Blair,201971,Running Jump Shot,2,26,14,Running Jump Shot,JUMP_SHOTS,,2014
+DeJuan Blair,201971,Standard Layup,2,9,5,Running Layup Shot,LAYUPS,,2014
+DeJuan Blair,201971,Reverse Layup,2,4,3,Running Reverse Layup Shot,LAYUPS,,2014
+DeJuan Blair,201971,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2014
+DeJuan Blair,201971,Tip Shot,2,1,0,Running Tip Shot,TIP_SHOTS,,2014
+DeJuan Blair,201971,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2014
+DeJuan Blair,201971,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2014
+DeJuan Blair,201971,Tip Shot,2,11,4,Tip Shot,TIP_SHOTS,,2014
+DeJuan Blair,201971,Turnaround Hook Shot,2,1,1,Turnaround Bank Hook Shot,POST_MOVES,,2014
+DeJuan Blair,201971,Turnaround Jump Shot,2,2,2,Turnaround Bank shot,JUMP_SHOTS,,2014
+DeJuan Blair,201971,Turnaround Hook Shot,2,4,3,Turnaround Hook Shot,POST_MOVES,,2014
+DeJuan Blair,201971,Turnaround Jump Shot,2,6,2,Turnaround Jump Shot,JUMP_SHOTS,,2014
+DeJuan Blair,201971,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2015
+DeJuan Blair,201971,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2015
+DeJuan Blair,201971,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2015
+DeJuan Blair,201971,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2015
+DeJuan Blair,201971,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2015
+DeJuan Blair,201971,Floating Jump Shot,2,5,4,Floating Jump shot,FLOATING_SHOTS,,2015
+DeJuan Blair,201971,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2015
+DeJuan Blair,201971,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2015
+DeJuan Blair,201971,Jump Shot,2,19,4,Jump Shot,JUMP_SHOTS,,2015
+DeJuan Blair,201971,Standard Layup,2,9,2,Layup Shot,LAYUPS,,2015
+DeJuan Blair,201971,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2015
+DeJuan Blair,201971,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2015
+DeJuan Blair,201971,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,2015
+DeJuan Blair,201971,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2015
+DeJuan Blair,201971,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,,2015
+DeJuan Blair,201971,Turnaround Hook Shot,2,4,1,Turnaround Hook Shot,POST_MOVES,,2015
+DeJuan Blair,201971,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2015
+DeJuan Blair,201971,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2016
+DeJuan Blair,201971,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2016
+DeJuan Blair,201971,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2016
+DeJuan Blair,201971,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2016
+DeJuan Blair,201971,Floating Jump Shot,2,3,3,Floating Jump shot,FLOATING_SHOTS,,2016
+DeJuan Blair,201971,Hook Shot,2,3,0,Hook Shot,POST_MOVES,,2016
+DeJuan Blair,201971,Jump Shot,2,32,7,Jump Shot,JUMP_SHOTS,,2016
+DeJuan Blair,201971,Standard Layup,2,18,8,Layup Shot,LAYUPS,,2016
+DeJuan Blair,201971,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2016
+DeJuan Blair,201971,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2016
+DeJuan Blair,201971,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2016
+DeJuan Blair,201971,Step Back Jump Shot,2,2,2,Step Back Jump shot,JUMP_SHOTS,,2016
+DeJuan Blair,201971,Putback Layup,2,2,1,Tip Layup Shot,LAYUPS,,2016
+DeJuan Blair,201971,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2016

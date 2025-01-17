@@ -1,31 +1,33 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1642274,Alley Oop Dunk,2PT Field Goal,8,7,Alley Oop Dunk Shot,DUNKS,0.875,2025
-1642274,Alley Oop Layup,2PT Field Goal,2,2,Alley Oop Layup shot,LAYUPS,1.0,2025
-1642274,Specialty Dunk,2PT Field Goal,30,25,Cutting Dunk Shot,DUNKS,0.8333333333333334,2025
-1642274,Finger Roll,2PT Field Goal,5,4,Cutting Finger Roll Layup Shot,LAYUPS,0.8,2025
-1642274,Standard Layup,2PT Field Goal,15,7,Cutting Layup Shot,LAYUPS,0.4666666666666667,2025
-1642274,Driving Hook Shot,2PT Field Goal,5,1,Driving Bank Hook Shot,POST_MOVES,0.2,2025
-1642274,Driving Dunk,2PT Field Goal,5,5,Driving Dunk Shot,DUNKS,1.0,2025
-1642274,Finger Roll,2PT Field Goal,2,2,Driving Finger Roll Layup Shot,LAYUPS,1.0,2025
-1642274,Floating Jump Shot,2PT Field Goal,2,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.0,2025
-1642274,Floating Jump Shot,2PT Field Goal,4,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2025
-1642274,Driving Hook Shot,2PT Field Goal,3,3,Driving Hook Shot,POST_MOVES,1.0,2025
-1642274,Driving Layup,2PT Field Goal,16,6,Driving Layup Shot,LAYUPS,0.375,2025
-1642274,Driving Layup,2PT Field Goal,2,1,Driving Reverse Layup Shot,LAYUPS,0.5,2025
-1642274,Standard Dunk,2PT Field Goal,1,0,Dunk Shot,DUNKS,0.0,2025
-1642274,Floating Jump Shot,2PT Field Goal,5,1,Floating Jump shot,FLOATING_SHOTS,0.2,2025
-1642274,Hook Shot,2PT Field Goal,1,1,Hook Bank Shot,POST_MOVES,1.0,2025
-1642274,Hook Shot,2PT Field Goal,8,3,Hook Shot,POST_MOVES,0.375,2025
-1642274,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2025
-1642274,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2025
-1642274,Standard Layup,2PT Field Goal,5,0,Layup Shot,LAYUPS,0.0,2025
-1642274,Putback Dunk,2PT Field Goal,5,3,Putback Dunk Shot,DUNKS,0.6,2025
-1642274,Putback Layup,2PT Field Goal,12,8,Putback Layup Shot,LAYUPS,0.6666666666666666,2025
-1642274,Reverse Layup,2PT Field Goal,4,1,Reverse Layup Shot,LAYUPS,0.25,2025
-1642274,Standard Dunk,2PT Field Goal,4,4,Running Dunk Shot,DUNKS,1.0,2025
-1642274,Finger Roll,2PT Field Goal,1,1,Running Finger Roll Layup Shot,LAYUPS,1.0,2025
-1642274,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2025
-1642274,Specialty Dunk,2PT Field Goal,5,4,Tip Dunk Shot,DUNKS,0.8,2025
-1642274,Putback Layup,2PT Field Goal,28,13,Tip Layup Shot,LAYUPS,0.4642857142857143,2025
-1642274,Turnaround Hook Shot,2PT Field Goal,3,0,Turnaround Hook Shot,POST_MOVES,0.0,2025
-1642274,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Yves Missi,1642274,Alley Oop Dunk,2,11,10,Alley Oop Dunk Shot,DUNKS,,2025
+Yves Missi,1642274,Alley Oop Layup,2,3,3,Alley Oop Layup shot,LAYUPS,,2025
+Yves Missi,1642274,Specialty Dunk,2,32,27,Cutting Dunk Shot,DUNKS,,2025
+Yves Missi,1642274,Finger Roll,2,7,5,Cutting Finger Roll Layup Shot,LAYUPS,,2025
+Yves Missi,1642274,Standard Layup,2,20,11,Cutting Layup Shot,LAYUPS,,2025
+Yves Missi,1642274,Driving Hook Shot,2,5,1,Driving Bank Hook Shot,POST_MOVES,,2025
+Yves Missi,1642274,Driving Dunk,2,8,7,Driving Dunk Shot,DUNKS,,2025
+Yves Missi,1642274,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Yves Missi,1642274,Floating Jump Shot,2,3,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2025
+Yves Missi,1642274,Floating Jump Shot,2,4,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Yves Missi,1642274,Driving Hook Shot,2,4,3,Driving Hook Shot,POST_MOVES,,2025
+Yves Missi,1642274,Driving Layup,2,20,9,Driving Layup Shot,LAYUPS,,2025
+Yves Missi,1642274,Driving Layup,2,4,3,Driving Reverse Layup Shot,LAYUPS,,2025
+Yves Missi,1642274,Standard Dunk,2,8,5,Dunk Shot,DUNKS,,2025
+Yves Missi,1642274,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2025
+Yves Missi,1642274,Floating Jump Shot,2,7,2,Floating Jump shot,FLOATING_SHOTS,,2025
+Yves Missi,1642274,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2025
+Yves Missi,1642274,Hook Shot,2,11,4,Hook Shot,POST_MOVES,,2025
+Yves Missi,1642274,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2025
+Yves Missi,1642274,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2025
+Yves Missi,1642274,Standard Layup,2,14,4,Layup Shot,LAYUPS,,2025
+Yves Missi,1642274,Putback Dunk,2,5,3,Putback Dunk Shot,DUNKS,,2025
+Yves Missi,1642274,Putback Layup,2,16,9,Putback Layup Shot,LAYUPS,,2025
+Yves Missi,1642274,Reverse Layup,2,6,2,Reverse Layup Shot,LAYUPS,,2025
+Yves Missi,1642274,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2025
+Yves Missi,1642274,Standard Dunk,2,7,7,Running Dunk Shot,DUNKS,,2025
+Yves Missi,1642274,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2025
+Yves Missi,1642274,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2025
+Yves Missi,1642274,Specialty Dunk,2,5,4,Tip Dunk Shot,DUNKS,,2025
+Yves Missi,1642274,Putback Layup,2,47,20,Tip Layup Shot,LAYUPS,,2025
+Yves Missi,1642274,Turnaround Hook Shot,2,4,0,Turnaround Hook Shot,POST_MOVES,,2025
+Yves Missi,1642274,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2025

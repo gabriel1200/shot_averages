@@ -1,16 +1,35 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1724,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1999
-1724,Jump Shot,2PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.3333333333333333,2000
-1724,Jump Shot,3PT Field Goal,5,2,Jump Shot,JUMP_SHOTS,0.6,2000
-1724,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2000
-1724,Jump Shot,2PT Field Goal,9,5,Jump Shot,JUMP_SHOTS,0.5555555555555556,2001
-1724,Jump Shot,3PT Field Goal,9,2,Jump Shot,JUMP_SHOTS,0.3333333333333333,2001
-1724,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2001
-1724,Jump Shot,2PT Field Goal,13,4,Jump Shot,JUMP_SHOTS,0.3076923076923077,2002
-1724,Jump Shot,3PT Field Goal,8,1,Jump Shot,JUMP_SHOTS,0.1875,2002
-1724,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2002
-1724,Jump Shot,2PT Field Goal,4,1,Jump Shot,JUMP_SHOTS,0.25,2003
-1724,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2003
-1724,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2003
-1724,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2004
-1724,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2004
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Bryce Drew,1724,Driving Layup,2,10,6,Driving Layup Shot,LAYUPS,,1999
+Bryce Drew,1724,Jump Shot,2,79,21,Jump Shot,JUMP_SHOTS,,1999
+Bryce Drew,1724,Jump Shot,3,11,5,Jump Shot,JUMP_SHOTS,,1999
+Bryce Drew,1724,Standard Layup,2,11,7,Layup Shot,LAYUPS,,1999
+Bryce Drew,1724,Running Jump Shot,2,18,8,Running Jump Shot,JUMP_SHOTS,,1999
+Bryce Drew,1724,Driving Layup,2,29,19,Driving Layup Shot,LAYUPS,,2000
+Bryce Drew,1724,Jump Shot,2,288,89,Jump Shot,JUMP_SHOTS,,2000
+Bryce Drew,1724,Jump Shot,3,29,14,Jump Shot,JUMP_SHOTS,,2000
+Bryce Drew,1724,Standard Layup,2,19,9,Layup Shot,LAYUPS,,2000
+Bryce Drew,1724,Running Jump Shot,2,47,26,Running Jump Shot,JUMP_SHOTS,,2000
+Bryce Drew,1724,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2000
+Bryce Drew,1724,Driving Layup,2,19,13,Driving Layup Shot,LAYUPS,,2001
+Bryce Drew,1724,Jump Shot,2,214,69,Jump Shot,JUMP_SHOTS,,2001
+Bryce Drew,1724,Jump Shot,3,38,14,Jump Shot,JUMP_SHOTS,,2001
+Bryce Drew,1724,Standard Layup,2,28,10,Layup Shot,LAYUPS,,2001
+Bryce Drew,1724,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2001
+Bryce Drew,1724,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2001
+Bryce Drew,1724,Running Jump Shot,2,24,15,Running Jump Shot,JUMP_SHOTS,,2001
+Bryce Drew,1724,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2001
+Bryce Drew,1724,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2002
+Bryce Drew,1724,Driving Layup,2,3,2,Driving Layup Shot,LAYUPS,,2002
+Bryce Drew,1724,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Bryce Drew,1724,Jump Shot,2,134,58,Jump Shot,JUMP_SHOTS,,2002
+Bryce Drew,1724,Jump Shot,3,11,1,Jump Shot,JUMP_SHOTS,,2002
+Bryce Drew,1724,Standard Layup,2,24,9,Layup Shot,LAYUPS,,2002
+Bryce Drew,1724,Running Jump Shot,2,8,6,Running Jump Shot,JUMP_SHOTS,,2002
+Bryce Drew,1724,Jump Shot,2,22,7,Jump Shot,JUMP_SHOTS,,2003
+Bryce Drew,1724,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2003
+Bryce Drew,1724,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2003
+Bryce Drew,1724,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2003
+Bryce Drew,1724,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2003
+Bryce Drew,1724,Jump Shot,2,16,2,Jump Shot,JUMP_SHOTS,,2004
+Bryce Drew,1724,Standard Layup,2,1,1,Layup Shot,LAYUPS,,2004
+Bryce Drew,1724,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2004

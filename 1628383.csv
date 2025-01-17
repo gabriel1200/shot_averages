@@ -1,10 +1,31 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1628383,Specialty Dunk,2PT Field Goal,1,0,Cutting Dunk Shot,DUNKS,0.0,2021
-1628383,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2021
-1628383,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2021
-1628383,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2021
-1628383,Jump Shot,3PT Field Goal,9,2,Jump Shot,JUMP_SHOTS,0.3333333333333333,2021
-1628383,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2021
-1628383,Specialty Dunk,2PT Field Goal,1,1,Tip Dunk Shot,DUNKS,1.0,2021
-1628383,Putback Layup,2PT Field Goal,1,1,Tip Layup Shot,LAYUPS,1.0,2021
-1628383,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2021
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Justin Patton,1628383,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2018
+Justin Patton,1628383,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2018
+Justin Patton,1628383,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2019
+Justin Patton,1628383,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2019
+Justin Patton,1628383,Jump Shot,2,2,0,Jump Shot,JUMP_SHOTS,,2019
+Justin Patton,1628383,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2019
+Justin Patton,1628383,Putback Layup,2,2,0,Tip Layup Shot,LAYUPS,,2019
+Justin Patton,1628383,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2020
+Justin Patton,1628383,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2020
+Justin Patton,1628383,Jump Shot,2,3,1,Jump Shot,JUMP_SHOTS,,2020
+Justin Patton,1628383,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,2020
+Justin Patton,1628383,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2020
+Justin Patton,1628383,Turnaround Hook Shot,2,2,2,Turnaround Hook Shot,POST_MOVES,,2020
+Justin Patton,1628383,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2021
+Justin Patton,1628383,Specialty Dunk,2,7,6,Cutting Dunk Shot,DUNKS,,2021
+Justin Patton,1628383,Standard Layup,2,4,1,Cutting Layup Shot,LAYUPS,,2021
+Justin Patton,1628383,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2021
+Justin Patton,1628383,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2021
+Justin Patton,1628383,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2021
+Justin Patton,1628383,Floating Jump Shot,2,3,2,Floating Jump shot,FLOATING_SHOTS,,2021
+Justin Patton,1628383,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2021
+Justin Patton,1628383,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2021
+Justin Patton,1628383,Jump Shot,2,15,6,Jump Shot,JUMP_SHOTS,,2021
+Justin Patton,1628383,Jump Shot,3,25,6,Jump Shot,JUMP_SHOTS,,2021
+Justin Patton,1628383,Standard Layup,2,3,2,Layup Shot,LAYUPS,,2021
+Justin Patton,1628383,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2021
+Justin Patton,1628383,Alley Oop Layup,2,1,0,Running Alley Oop Layup Shot,LAYUPS,,2021
+Justin Patton,1628383,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2021
+Justin Patton,1628383,Putback Layup,2,1,1,Tip Layup Shot,LAYUPS,,2021
+Justin Patton,1628383,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2021

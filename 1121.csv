@@ -1,7 +1,7 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1121,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,1997
-1121,Standard Dunk,2PT Field Goal,3,3,Dunk Shot,DUNKS,1.0,1997
-1121,Jump Shot,2PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.3333333333333333,1997
-1121,Jump Shot,3PT Field Goal,6,1,Jump Shot,JUMP_SHOTS,0.25,1997
-1121,Standard Layup,2PT Field Goal,5,0,Layup Shot,LAYUPS,0.0,1997
-1121,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,1997
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Dexter Boney,1121,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,1997
+Dexter Boney,1121,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,1997
+Dexter Boney,1121,Jump Shot,2,3,1,Jump Shot,JUMP_SHOTS,,1997
+Dexter Boney,1121,Jump Shot,3,6,1,Jump Shot,JUMP_SHOTS,,1997
+Dexter Boney,1121,Standard Layup,2,5,0,Layup Shot,LAYUPS,,1997
+Dexter Boney,1121,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,1997

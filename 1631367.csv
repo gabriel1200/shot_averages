@@ -1,11 +1,19 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1631367,Finger Roll,2PT Field Goal,1,0,Driving Finger Roll Layup Shot,LAYUPS,0.0,2024
-1631367,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2024
-1631367,Jump Shot,3PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2024
-1631367,Jump Shot,3PT Field Goal,36,13,Jump Shot,JUMP_SHOTS,0.5416666666666666,2024
-1631367,Pullup Jump Shot,2PT Field Goal,3,1,Pullup Jump shot,JUMP_SHOTS,0.3333333333333333,2024
-1631367,Pullup Jump Shot,3PT Field Goal,8,3,Pullup Jump shot,JUMP_SHOTS,0.5625,2024
-1631367,Running Jump Shot,3PT Field Goal,4,2,Running Jump Shot,JUMP_SHOTS,0.75,2024
-1631367,Running Jump Shot,3PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2024
-1631367,Step Back Jump Shot,2PT Field Goal,4,1,Step Back Jump shot,JUMP_SHOTS,0.25,2024
-1631367,Step Back Jump Shot,3PT Field Goal,4,2,Step Back Jump shot,JUMP_SHOTS,0.75,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Jacob Gilyard,1631367,Jump Shot,2,2,1,Jump Shot,JUMP_SHOTS,,2023
+Jacob Gilyard,1631367,Running Jump Shot,2,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2023
+Jacob Gilyard,1631367,Standard Layup,2,1,0,Cutting Layup Shot,LAYUPS,,2024
+Jacob Gilyard,1631367,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Jacob Gilyard,1631367,Floating Jump Shot,2,2,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Jacob Gilyard,1631367,Floating Jump Shot,2,1,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Jacob Gilyard,1631367,Driving Layup,2,3,1,Driving Layup Shot,LAYUPS,,2024
+Jacob Gilyard,1631367,Jump Shot,3,1,0,Jump Bank Shot,JUMP_SHOTS,,2024
+Jacob Gilyard,1631367,Jump Shot,2,1,0,Jump Shot,JUMP_SHOTS,,2024
+Jacob Gilyard,1631367,Jump Shot,3,79,32,Jump Shot,JUMP_SHOTS,,2024
+Jacob Gilyard,1631367,Pullup Jump Shot,2,6,2,Pullup Jump shot,JUMP_SHOTS,,2024
+Jacob Gilyard,1631367,Pullup Jump Shot,3,23,10,Pullup Jump shot,JUMP_SHOTS,,2024
+Jacob Gilyard,1631367,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2024
+Jacob Gilyard,1631367,Running Jump Shot,3,9,4,Running Jump Shot,JUMP_SHOTS,,2024
+Jacob Gilyard,1631367,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2024
+Jacob Gilyard,1631367,Running Jump Shot,3,4,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Jacob Gilyard,1631367,Step Back Jump Shot,2,6,3,Step Back Jump shot,JUMP_SHOTS,,2024
+Jacob Gilyard,1631367,Step Back Jump Shot,3,10,4,Step Back Jump shot,JUMP_SHOTS,,2024

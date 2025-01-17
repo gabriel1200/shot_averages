@@ -1,34 +1,162 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-101121,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2010
-101121,Alley Oop Layup,2PT Field Goal,2,2,Alley Oop Layup shot,LAYUPS,1.0,2010
-101121,Driving Dunk,2PT Field Goal,2,2,Driving Dunk Shot,DUNKS,1.0,2010
-101121,Finger Roll,2PT Field Goal,2,2,Driving Finger Roll Layup Shot,LAYUPS,1.0,2010
-101121,Driving Hook Shot,2PT Field Goal,1,1,Driving Hook Shot,POST_MOVES,1.0,2010
-101121,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2010
-101121,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2010
-101121,Driving Dunk,2PT Field Goal,1,1,Driving Slam Dunk Shot,DUNKS,1.0,2010
-101121,Standard Dunk,2PT Field Goal,6,6,Dunk Shot,DUNKS,1.0,2010
-101121,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2010
-101121,Finger Roll,2PT Field Goal,3,2,Finger Roll Layup Shot,LAYUPS,0.6666666666666666,2010
-101121,Floating Jump Shot,2PT Field Goal,3,3,Floating Jump shot,FLOATING_SHOTS,1.0,2010
-101121,Hook Shot,2PT Field Goal,3,2,Hook Shot,POST_MOVES,0.6666666666666666,2010
-101121,Jump Shot,2PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2010
-101121,Hook Shot,2PT Field Goal,1,1,Jump Hook Shot,POST_MOVES,1.0,2010
-101121,Jump Shot,2PT Field Goal,31,15,Jump Shot,JUMP_SHOTS,0.4838709677419355,2010
-101121,Jump Shot,3PT Field Goal,4,1,Jump Shot,JUMP_SHOTS,0.375,2010
-101121,Standard Layup,2PT Field Goal,12,4,Layup Shot,LAYUPS,0.3333333333333333,2010
-101121,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2010
-101121,Running Jump Shot,2PT Field Goal,1,1,Running Bank shot,JUMP_SHOTS,1.0,2010
-101121,Running Hook Shot,2PT Field Goal,1,1,Running Hook Shot,POST_MOVES,1.0,2010
-101121,Running Jump Shot,2PT Field Goal,2,0,Running Jump Shot,JUMP_SHOTS,0.0,2010
-101121,Standard Dunk,2PT Field Goal,2,2,Slam Dunk Shot,DUNKS,1.0,2010
-101121,Tip Shot,2PT Field Goal,7,1,Tip Shot,TIP_SHOTS,0.1428571428571428,2010
-101121,Turnaround Jump Shot,2PT Field Goal,3,1,Turnaround Jump Shot,JUMP_SHOTS,0.3333333333333333,2010
-101121,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2011
-101121,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2011
-101121,Jump Shot,2PT Field Goal,10,3,Jump Shot,JUMP_SHOTS,0.3,2011
-101121,Jump Shot,3PT Field Goal,7,2,Jump Shot,JUMP_SHOTS,0.4285714285714285,2011
-101121,Standard Layup,2PT Field Goal,3,2,Layup Shot,LAYUPS,0.6666666666666666,2011
-101121,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2011
-101121,Running Jump Shot,2PT Field Goal,1,1,Running Bank shot,JUMP_SHOTS,1.0,2011
-101121,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2011
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Joey Graham,101121,Alley Oop Dunk,2,5,5,Alley Oop Dunk Shot,DUNKS,,2006
+Joey Graham,101121,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2006
+Joey Graham,101121,Driving Dunk,2,10,8,Driving Dunk Shot,DUNKS,,2006
+Joey Graham,101121,Finger Roll,2,2,2,Driving Finger Roll Shot,LAYUPS,,2006
+Joey Graham,101121,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2006
+Joey Graham,101121,Driving Layup,2,26,19,Driving Layup Shot,LAYUPS,,2006
+Joey Graham,101121,Standard Dunk,2,6,6,Dunk Shot,DUNKS,,2006
+Joey Graham,101121,Fadeaway Jump Shot,2,5,3,Fadeaway Jump Shot,JUMP_SHOTS,,2006
+Joey Graham,101121,Finger Roll,2,2,2,Finger Roll Shot,LAYUPS,,2006
+Joey Graham,101121,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2006
+Joey Graham,101121,Jump Shot,2,4,2,Jump Bank Shot,JUMP_SHOTS,,2006
+Joey Graham,101121,Hook Shot,2,2,1,Jump Hook Shot,POST_MOVES,,2006
+Joey Graham,101121,Jump Shot,2,198,71,Jump Shot,JUMP_SHOTS,,2006
+Joey Graham,101121,Jump Shot,3,45,17,Jump Shot,JUMP_SHOTS,,2006
+Joey Graham,101121,Standard Layup,2,43,20,Layup Shot,LAYUPS,,2006
+Joey Graham,101121,Reverse Dunk,2,1,0,Reverse Dunk Shot,DUNKS,,2006
+Joey Graham,101121,Reverse Layup,2,4,3,Reverse Layup Shot,LAYUPS,,2006
+Joey Graham,101121,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2006
+Joey Graham,101121,Running Hook Shot,2,2,2,Running Hook Shot,POST_MOVES,,2006
+Joey Graham,101121,Running Jump Shot,2,28,17,Running Jump Shot,JUMP_SHOTS,,2006
+Joey Graham,101121,Standard Layup,2,4,2,Running Layup Shot,LAYUPS,,2006
+Joey Graham,101121,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2006
+Joey Graham,101121,Tip Shot,2,7,2,Tip Shot,TIP_SHOTS,,2006
+Joey Graham,101121,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2006
+Joey Graham,101121,Turnaround Jump Shot,2,10,7,Turnaround Jump Shot,JUMP_SHOTS,,2006
+Joey Graham,101121,Alley Oop Dunk,2,2,1,Alley Oop Dunk Shot,DUNKS,,2007
+Joey Graham,101121,Driving Dunk,2,10,8,Driving Dunk Shot,DUNKS,,2007
+Joey Graham,101121,Finger Roll,2,2,2,Driving Finger Roll Shot,LAYUPS,,2007
+Joey Graham,101121,Driving Hook Shot,2,3,1,Driving Hook Shot,POST_MOVES,,2007
+Joey Graham,101121,Driving Layup,2,26,18,Driving Layup Shot,LAYUPS,,2007
+Joey Graham,101121,Standard Dunk,2,12,9,Dunk Shot,DUNKS,,2007
+Joey Graham,101121,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2007
+Joey Graham,101121,Hook Shot,2,5,3,Hook Shot,POST_MOVES,,2007
+Joey Graham,101121,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2007
+Joey Graham,101121,Hook Shot,2,2,1,Jump Hook Shot,POST_MOVES,,2007
+Joey Graham,101121,Jump Shot,2,191,75,Jump Shot,JUMP_SHOTS,,2007
+Joey Graham,101121,Jump Shot,3,29,9,Jump Shot,JUMP_SHOTS,,2007
+Joey Graham,101121,Standard Layup,2,45,26,Layup Shot,LAYUPS,,2007
+Joey Graham,101121,Reverse Layup,2,10,6,Reverse Layup Shot,LAYUPS,,2007
+Joey Graham,101121,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2007
+Joey Graham,101121,Finger Roll,2,1,1,Running Finger Roll Shot,LAYUPS,,2007
+Joey Graham,101121,Running Hook Shot,2,2,0,Running Hook Shot,POST_MOVES,,2007
+Joey Graham,101121,Running Jump Shot,2,13,6,Running Jump Shot,JUMP_SHOTS,,2007
+Joey Graham,101121,Running Jump Shot,3,2,0,Running Jump Shot,JUMP_SHOTS,,2007
+Joey Graham,101121,Standard Layup,2,5,4,Running Layup Shot,LAYUPS,,2007
+Joey Graham,101121,Standard Dunk,2,10,10,Slam Dunk Shot,DUNKS,,2007
+Joey Graham,101121,Tip Shot,2,9,7,Tip Shot,TIP_SHOTS,,2007
+Joey Graham,101121,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2007
+Joey Graham,101121,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2007
+Joey Graham,101121,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2008
+Joey Graham,101121,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2008
+Joey Graham,101121,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2008
+Joey Graham,101121,Driving Layup,2,2,0,Driving Layup Shot,LAYUPS,,2008
+Joey Graham,101121,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2008
+Joey Graham,101121,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2008
+Joey Graham,101121,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2008
+Joey Graham,101121,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2008
+Joey Graham,101121,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2008
+Joey Graham,101121,Jump Shot,2,57,19,Jump Shot,JUMP_SHOTS,,2008
+Joey Graham,101121,Jump Shot,3,3,2,Jump Shot,JUMP_SHOTS,,2008
+Joey Graham,101121,Standard Layup,2,22,7,Layup Shot,LAYUPS,,2008
+Joey Graham,101121,Pullup Jump Shot,2,2,1,Pullup Jump shot,JUMP_SHOTS,,2008
+Joey Graham,101121,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2008
+Joey Graham,101121,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,2008
+Joey Graham,101121,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2008
+Joey Graham,101121,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2008
+Joey Graham,101121,Tip Shot,2,2,0,Tip Shot,TIP_SHOTS,,2008
+Joey Graham,101121,Turnaround Jump Shot,2,2,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2008
+Joey Graham,101121,Turnaround Jump Shot,2,4,1,Turnaround Jump Shot,JUMP_SHOTS,,2008
+Joey Graham,101121,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2009
+Joey Graham,101121,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2009
+Joey Graham,101121,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2009
+Joey Graham,101121,Driving Dunk,2,14,12,Driving Dunk Shot,DUNKS,,2009
+Joey Graham,101121,Finger Roll,2,6,5,Driving Finger Roll Layup Shot,LAYUPS,,2009
+Joey Graham,101121,Driving Hook Shot,2,12,5,Driving Hook Shot,POST_MOVES,,2009
+Joey Graham,101121,Driving Layup,2,22,11,Driving Layup Shot,LAYUPS,,2009
+Joey Graham,101121,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2009
+Joey Graham,101121,Driving Dunk,2,7,6,Driving Slam Dunk Shot,DUNKS,,2009
+Joey Graham,101121,Standard Dunk,2,11,10,Dunk Shot,DUNKS,,2009
+Joey Graham,101121,Fadeaway Jump Shot,2,5,2,Fadeaway Jump Shot,JUMP_SHOTS,,2009
+Joey Graham,101121,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2009
+Joey Graham,101121,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2009
+Joey Graham,101121,Hook Shot,2,5,3,Hook Shot,POST_MOVES,,2009
+Joey Graham,101121,Hook Shot,2,1,0,Jump Bank Hook Shot,POST_MOVES,,2009
+Joey Graham,101121,Jump Shot,2,5,5,Jump Bank Shot,JUMP_SHOTS,,2009
+Joey Graham,101121,Hook Shot,2,6,4,Jump Hook Shot,POST_MOVES,,2009
+Joey Graham,101121,Jump Shot,2,163,57,Jump Shot,JUMP_SHOTS,,2009
+Joey Graham,101121,Jump Shot,3,12,3,Jump Shot,JUMP_SHOTS,,2009
+Joey Graham,101121,Standard Layup,2,81,33,Layup Shot,LAYUPS,,2009
+Joey Graham,101121,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2009
+Joey Graham,101121,Pullup Jump Shot,2,25,12,Pullup Jump shot,JUMP_SHOTS,,2009
+Joey Graham,101121,Putback Layup,2,5,4,Putback Layup Shot,LAYUPS,,2009
+Joey Graham,101121,Reverse Layup,2,6,2,Reverse Layup Shot,LAYUPS,,2009
+Joey Graham,101121,Reverse Dunk,2,1,1,Reverse Slam Dunk Shot,DUNKS,,2009
+Joey Graham,101121,Running Jump Shot,2,2,0,Running Bank shot,JUMP_SHOTS,,2009
+Joey Graham,101121,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2009
+Joey Graham,101121,Finger Roll,2,1,0,Running Finger Roll Layup Shot,LAYUPS,,2009
+Joey Graham,101121,Running Hook Shot,2,2,1,Running Hook Shot,POST_MOVES,,2009
+Joey Graham,101121,Running Jump Shot,2,16,9,Running Jump Shot,JUMP_SHOTS,,2009
+Joey Graham,101121,Running Jump Shot,3,3,0,Running Jump Shot,JUMP_SHOTS,,2009
+Joey Graham,101121,Standard Layup,2,5,4,Running Layup Shot,LAYUPS,,2009
+Joey Graham,101121,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2009
+Joey Graham,101121,Standard Dunk,2,15,15,Slam Dunk Shot,DUNKS,,2009
+Joey Graham,101121,Step Back Jump Shot,2,3,1,Step Back Jump shot,JUMP_SHOTS,,2009
+Joey Graham,101121,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2009
+Joey Graham,101121,Tip Shot,2,17,8,Tip Shot,TIP_SHOTS,,2009
+Joey Graham,101121,Turnaround Jump Shot,2,4,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2009
+Joey Graham,101121,Turnaround Hook Shot,2,5,2,Turnaround Hook Shot,POST_MOVES,,2009
+Joey Graham,101121,Turnaround Jump Shot,2,7,5,Turnaround Jump Shot,JUMP_SHOTS,,2009
+Joey Graham,101121,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2010
+Joey Graham,101121,Alley Oop Layup,2,3,3,Alley Oop Layup shot,LAYUPS,,2010
+Joey Graham,101121,Driving Dunk,2,5,5,Driving Dunk Shot,DUNKS,,2010
+Joey Graham,101121,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2010
+Joey Graham,101121,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2010
+Joey Graham,101121,Driving Layup,2,10,7,Driving Layup Shot,LAYUPS,,2010
+Joey Graham,101121,Driving Layup,2,2,0,Driving Reverse Layup Shot,LAYUPS,,2010
+Joey Graham,101121,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2010
+Joey Graham,101121,Standard Dunk,2,10,10,Dunk Shot,DUNKS,,2010
+Joey Graham,101121,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+Joey Graham,101121,Finger Roll,2,3,2,Finger Roll Layup Shot,LAYUPS,,2010
+Joey Graham,101121,Floating Jump Shot,2,3,3,Floating Jump shot,FLOATING_SHOTS,,2010
+Joey Graham,101121,Hook Shot,2,3,2,Hook Shot,POST_MOVES,,2010
+Joey Graham,101121,Jump Shot,2,2,0,Jump Bank Shot,JUMP_SHOTS,,2010
+Joey Graham,101121,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2010
+Joey Graham,101121,Jump Shot,2,78,32,Jump Shot,JUMP_SHOTS,,2010
+Joey Graham,101121,Jump Shot,3,13,2,Jump Shot,JUMP_SHOTS,,2010
+Joey Graham,101121,Standard Layup,2,31,14,Layup Shot,LAYUPS,,2010
+Joey Graham,101121,Pullup Jump Shot,2,2,0,Pullup Jump shot,JUMP_SHOTS,,2010
+Joey Graham,101121,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2010
+Joey Graham,101121,Reverse Layup,2,4,4,Reverse Layup Shot,LAYUPS,,2010
+Joey Graham,101121,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2010
+Joey Graham,101121,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2010
+Joey Graham,101121,Running Jump Shot,2,3,1,Running Jump Shot,JUMP_SHOTS,,2010
+Joey Graham,101121,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2010
+Joey Graham,101121,Tip Shot,2,9,3,Tip Shot,TIP_SHOTS,,2010
+Joey Graham,101121,Turnaround Jump Shot,2,6,3,Turnaround Jump Shot,JUMP_SHOTS,,2010
+Joey Graham,101121,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2011
+Joey Graham,101121,Driving Jump Shot,2,2,2,Driving Bank shot,JUMP_SHOTS,,2011
+Joey Graham,101121,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2011
+Joey Graham,101121,Driving Layup,2,4,2,Driving Layup Shot,LAYUPS,,2011
+Joey Graham,101121,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2011
+Joey Graham,101121,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2011
+Joey Graham,101121,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Joey Graham,101121,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2011
+Joey Graham,101121,Floating Jump Shot,2,3,1,Floating Jump shot,FLOATING_SHOTS,,2011
+Joey Graham,101121,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2011
+Joey Graham,101121,Jump Shot,2,3,1,Jump Bank Shot,JUMP_SHOTS,,2011
+Joey Graham,101121,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2011
+Joey Graham,101121,Jump Shot,2,86,35,Jump Shot,JUMP_SHOTS,,2011
+Joey Graham,101121,Jump Shot,3,30,9,Jump Shot,JUMP_SHOTS,,2011
+Joey Graham,101121,Standard Layup,2,21,13,Layup Shot,LAYUPS,,2011
+Joey Graham,101121,Pullup Jump Shot,2,2,1,Pullup Jump shot,JUMP_SHOTS,,2011
+Joey Graham,101121,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2011
+Joey Graham,101121,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2011
+Joey Graham,101121,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2011
+Joey Graham,101121,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2011
+Joey Graham,101121,Step Back Jump Shot,2,2,2,Step Back Jump shot,JUMP_SHOTS,,2011
+Joey Graham,101121,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2011
+Joey Graham,101121,Turnaround Jump Shot,2,2,0,Turnaround Bank shot,JUMP_SHOTS,,2011
+Joey Graham,101121,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2011
+Joey Graham,101121,Turnaround Jump Shot,2,8,4,Turnaround Jump Shot,JUMP_SHOTS,,2011

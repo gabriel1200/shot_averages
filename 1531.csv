@@ -1,36 +1,111 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1531,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2001
-1531,Standard Dunk,2PT Field Goal,1,0,Dunk Shot,DUNKS,0.0,2001
-1531,Hook Shot,2PT Field Goal,4,2,Hook Shot,POST_MOVES,0.5,2001
-1531,Jump Shot,2PT Field Goal,51,24,Jump Shot,JUMP_SHOTS,0.4705882352941176,2001
-1531,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,2001
-1531,Standard Layup,2PT Field Goal,18,12,Layup Shot,LAYUPS,0.6666666666666666,2001
-1531,Standard Dunk,2PT Field Goal,2,2,Slam Dunk Shot,DUNKS,1.0,2001
-1531,Tip Shot,2PT Field Goal,2,2,Tip Shot,TIP_SHOTS,1.0,2001
-1531,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2001
-1531,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,2002
-1531,Jump Shot,2PT Field Goal,8,5,Jump Shot,JUMP_SHOTS,0.625,2002
-1531,Standard Layup,2PT Field Goal,3,1,Layup Shot,LAYUPS,0.3333333333333333,2002
-1531,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2003
-1531,Driving Layup,2PT Field Goal,2,2,Driving Layup Shot,LAYUPS,1.0,2003
-1531,Hook Shot,2PT Field Goal,2,2,Hook Shot,POST_MOVES,1.0,2003
-1531,Jump Shot,2PT Field Goal,37,10,Jump Shot,JUMP_SHOTS,0.2702702702702703,2003
-1531,Standard Layup,2PT Field Goal,14,7,Layup Shot,LAYUPS,0.5,2003
-1531,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2003
-1531,Running Hook Shot,2PT Field Goal,1,1,Running Hook Shot,POST_MOVES,1.0,2003
-1531,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2003
-1531,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2003
-1531,Tip Shot,2PT Field Goal,3,2,Tip Shot,TIP_SHOTS,0.6666666666666666,2003
-1531,Turnaround Jump Shot,2PT Field Goal,2,1,Turnaround Jump Shot,JUMP_SHOTS,0.5,2003
-1531,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2006
-1531,Jump Shot,2PT Field Goal,14,5,Jump Shot,JUMP_SHOTS,0.3571428571428571,2006
-1531,Standard Layup,2PT Field Goal,6,3,Layup Shot,LAYUPS,0.5,2006
-1531,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2006
-1531,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2007
-1531,Fadeaway Jump Shot,2PT Field Goal,6,3,Fadeaway Jump Shot,JUMP_SHOTS,0.5,2007
-1531,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,2007
-1531,Jump Shot,2PT Field Goal,55,17,Jump Shot,JUMP_SHOTS,0.3090909090909091,2007
-1531,Standard Layup,2PT Field Goal,14,8,Layup Shot,LAYUPS,0.5714285714285714,2007
-1531,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2007
-1531,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2007
-1531,Turnaround Jump Shot,2PT Field Goal,2,1,Turnaround Jump Shot,JUMP_SHOTS,0.5,2007
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Marc Jackson,1531,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2001
+Marc Jackson,1531,Driving Layup,2,5,3,Driving Layup Shot,LAYUPS,,2001
+Marc Jackson,1531,Standard Dunk,2,7,5,Dunk Shot,DUNKS,,2001
+Marc Jackson,1531,Hook Shot,2,21,14,Hook Shot,POST_MOVES,,2001
+Marc Jackson,1531,Jump Shot,2,298,106,Jump Shot,JUMP_SHOTS,,2001
+Marc Jackson,1531,Jump Shot,3,20,4,Jump Shot,JUMP_SHOTS,,2001
+Marc Jackson,1531,Standard Layup,2,94,63,Layup Shot,LAYUPS,,2001
+Marc Jackson,1531,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2001
+Marc Jackson,1531,Running Hook Shot,2,3,3,Running Hook Shot,POST_MOVES,,2001
+Marc Jackson,1531,Running Jump Shot,2,5,4,Running Jump Shot,JUMP_SHOTS,,2001
+Marc Jackson,1531,Standard Dunk,2,9,9,Slam Dunk Shot,DUNKS,,2001
+Marc Jackson,1531,Tip Shot,2,21,15,Tip Shot,TIP_SHOTS,,2001
+Marc Jackson,1531,Turnaround Hook Shot,2,4,0,Turnaround Hook Shot,POST_MOVES,,2001
+Marc Jackson,1531,Turnaround Jump Shot,2,17,9,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Marc Jackson,1531,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2002
+Marc Jackson,1531,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,2002
+Marc Jackson,1531,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Marc Jackson,1531,Specialty Dunk,2,2,2,Follow Up Dunk Shot,DUNKS,,2002
+Marc Jackson,1531,Hook Shot,2,4,1,Hook Shot,POST_MOVES,,2002
+Marc Jackson,1531,Jump Shot,2,105,30,Jump Shot,JUMP_SHOTS,,2002
+Marc Jackson,1531,Standard Layup,2,32,14,Layup Shot,LAYUPS,,2002
+Marc Jackson,1531,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2002
+Marc Jackson,1531,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,2002
+Marc Jackson,1531,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2002
+Marc Jackson,1531,Tip Shot,2,6,4,Tip Shot,TIP_SHOTS,,2002
+Marc Jackson,1531,Turnaround Jump Shot,2,5,3,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Marc Jackson,1531,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2003
+Marc Jackson,1531,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2003
+Marc Jackson,1531,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2003
+Marc Jackson,1531,Driving Layup,2,4,4,Driving Layup Shot,LAYUPS,,2003
+Marc Jackson,1531,Standard Dunk,2,10,10,Dunk Shot,DUNKS,,2003
+Marc Jackson,1531,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Marc Jackson,1531,Hook Shot,2,12,8,Hook Shot,POST_MOVES,,2003
+Marc Jackson,1531,Hook Shot,2,2,1,Jump Hook Shot,POST_MOVES,,2003
+Marc Jackson,1531,Jump Shot,2,191,50,Jump Shot,JUMP_SHOTS,,2003
+Marc Jackson,1531,Jump Shot,3,1,1,Jump Shot,JUMP_SHOTS,,2003
+Marc Jackson,1531,Standard Layup,2,83,42,Layup Shot,LAYUPS,,2003
+Marc Jackson,1531,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2003
+Marc Jackson,1531,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2003
+Marc Jackson,1531,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2003
+Marc Jackson,1531,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2003
+Marc Jackson,1531,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2003
+Marc Jackson,1531,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,2003
+Marc Jackson,1531,Tip Shot,2,14,10,Tip Shot,TIP_SHOTS,,2003
+Marc Jackson,1531,Turnaround Hook Shot,2,2,2,Turnaround Hook Shot,POST_MOVES,,2003
+Marc Jackson,1531,Turnaround Jump Shot,2,15,10,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Marc Jackson,1531,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2004
+Marc Jackson,1531,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2004
+Marc Jackson,1531,Fadeaway Jump Shot,2,2,2,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Marc Jackson,1531,Hook Shot,2,6,2,Hook Shot,POST_MOVES,,2004
+Marc Jackson,1531,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2004
+Marc Jackson,1531,Hook Shot,2,2,2,Jump Hook Shot,POST_MOVES,,2004
+Marc Jackson,1531,Jump Shot,2,83,25,Jump Shot,JUMP_SHOTS,,2004
+Marc Jackson,1531,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2004
+Marc Jackson,1531,Standard Layup,2,51,20,Layup Shot,LAYUPS,,2004
+Marc Jackson,1531,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2004
+Marc Jackson,1531,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2004
+Marc Jackson,1531,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2004
+Marc Jackson,1531,Tip Shot,2,8,5,Tip Shot,TIP_SHOTS,,2004
+Marc Jackson,1531,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2004
+Marc Jackson,1531,Turnaround Jump Shot,2,6,4,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Marc Jackson,1531,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2005
+Marc Jackson,1531,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2005
+Marc Jackson,1531,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2005
+Marc Jackson,1531,Standard Dunk,2,8,8,Dunk Shot,DUNKS,,2005
+Marc Jackson,1531,Fadeaway Jump Shot,2,14,12,Fadeaway Jump Shot,JUMP_SHOTS,,2005
+Marc Jackson,1531,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2005
+Marc Jackson,1531,Specialty Dunk,2,2,2,Follow Up Dunk Shot,DUNKS,,2005
+Marc Jackson,1531,Hook Shot,2,31,20,Hook Shot,POST_MOVES,,2005
+Marc Jackson,1531,Jump Shot,2,3,3,Jump Bank Shot,JUMP_SHOTS,,2005
+Marc Jackson,1531,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2005
+Marc Jackson,1531,Jump Shot,2,341,112,Jump Shot,JUMP_SHOTS,,2005
+Marc Jackson,1531,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,2005
+Marc Jackson,1531,Standard Layup,2,257,131,Layup Shot,LAYUPS,,2005
+Marc Jackson,1531,Reverse Layup,2,6,6,Reverse Layup Shot,LAYUPS,,2005
+Marc Jackson,1531,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2005
+Marc Jackson,1531,Running Jump Shot,2,3,3,Running Jump Shot,JUMP_SHOTS,,2005
+Marc Jackson,1531,Standard Dunk,2,6,5,Slam Dunk Shot,DUNKS,,2005
+Marc Jackson,1531,Tip Shot,2,34,18,Tip Shot,TIP_SHOTS,,2005
+Marc Jackson,1531,Turnaround Hook Shot,2,3,2,Turnaround Hook Shot,POST_MOVES,,2005
+Marc Jackson,1531,Turnaround Jump Shot,2,15,12,Turnaround Jump Shot,JUMP_SHOTS,,2005
+Marc Jackson,1531,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2006
+Marc Jackson,1531,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2006
+Marc Jackson,1531,Driving Layup,2,2,1,Driving Layup Shot,LAYUPS,,2006
+Marc Jackson,1531,Standard Dunk,2,3,2,Dunk Shot,DUNKS,,2006
+Marc Jackson,1531,Fadeaway Jump Shot,2,7,6,Fadeaway Jump Shot,JUMP_SHOTS,,2006
+Marc Jackson,1531,Hook Shot,2,13,6,Hook Shot,POST_MOVES,,2006
+Marc Jackson,1531,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2006
+Marc Jackson,1531,Hook Shot,2,2,0,Jump Hook Shot,POST_MOVES,,2006
+Marc Jackson,1531,Jump Shot,2,205,79,Jump Shot,JUMP_SHOTS,,2006
+Marc Jackson,1531,Standard Layup,2,84,45,Layup Shot,LAYUPS,,2006
+Marc Jackson,1531,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2006
+Marc Jackson,1531,Running Hook Shot,2,3,3,Running Hook Shot,POST_MOVES,,2006
+Marc Jackson,1531,Tip Shot,2,20,13,Tip Shot,TIP_SHOTS,,2006
+Marc Jackson,1531,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2006
+Marc Jackson,1531,Turnaround Jump Shot,2,24,13,Turnaround Jump Shot,JUMP_SHOTS,,2006
+Marc Jackson,1531,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,2007
+Marc Jackson,1531,Fadeaway Jump Shot,2,14,7,Fadeaway Jump Shot,JUMP_SHOTS,,2007
+Marc Jackson,1531,Hook Shot,2,11,6,Hook Shot,POST_MOVES,,2007
+Marc Jackson,1531,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2007
+Marc Jackson,1531,Hook Shot,2,2,0,Jump Hook Shot,POST_MOVES,,2007
+Marc Jackson,1531,Jump Shot,2,269,94,Jump Shot,JUMP_SHOTS,,2007
+Marc Jackson,1531,Standard Layup,2,70,38,Layup Shot,LAYUPS,,2007
+Marc Jackson,1531,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2007
+Marc Jackson,1531,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2007
+Marc Jackson,1531,Tip Shot,2,1,1,Running Tip Shot,TIP_SHOTS,,2007
+Marc Jackson,1531,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2007
+Marc Jackson,1531,Tip Shot,2,8,4,Tip Shot,TIP_SHOTS,,2007
+Marc Jackson,1531,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2007
+Marc Jackson,1531,Turnaround Jump Shot,2,5,1,Turnaround Jump Shot,JUMP_SHOTS,,2007

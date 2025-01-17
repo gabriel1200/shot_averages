@@ -1,34 +1,43 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1642259,Alley Oop Layup,2PT Field Goal,1,0,Alley Oop Layup shot,LAYUPS,0.0,2025
-1642259,Specialty Dunk,2PT Field Goal,3,3,Cutting Dunk Shot,DUNKS,1.0,2025
-1642259,Standard Layup,2PT Field Goal,2,1,Cutting Layup Shot,LAYUPS,0.5,2025
-1642259,Driving Hook Shot,2PT Field Goal,2,0,Driving Bank Hook Shot,POST_MOVES,0.0,2025
-1642259,Driving Dunk,2PT Field Goal,2,1,Driving Dunk Shot,DUNKS,0.5,2025
-1642259,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2025
-1642259,Floating Jump Shot,2PT Field Goal,4,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.25,2025
-1642259,Floating Jump Shot,2PT Field Goal,9,6,Driving Floating Jump Shot,FLOATING_SHOTS,0.6666666666666666,2025
-1642259,Driving Hook Shot,2PT Field Goal,2,1,Driving Hook Shot,POST_MOVES,0.5,2025
-1642259,Driving Layup,2PT Field Goal,6,1,Driving Layup Shot,LAYUPS,0.1666666666666666,2025
-1642259,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Bank shot,JUMP_SHOTS,0.0,2025
-1642259,Fadeaway Jump Shot,2PT Field Goal,4,1,Fadeaway Jump Shot,JUMP_SHOTS,0.25,2025
-1642259,Fadeaway Jump Shot,3PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2025
-1642259,Floating Jump Shot,2PT Field Goal,8,3,Floating Jump shot,FLOATING_SHOTS,0.375,2025
-1642259,Hook Shot,2PT Field Goal,4,2,Hook Shot,POST_MOVES,0.5,2025
-1642259,Jump Shot,3PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.5,2025
-1642259,Jump Shot,2PT Field Goal,5,1,Jump Shot,JUMP_SHOTS,0.2,2025
-1642259,Jump Shot,3PT Field Goal,71,21,Jump Shot,JUMP_SHOTS,0.4436619718309859,2025
-1642259,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2025
-1642259,Putback Dunk,2PT Field Goal,3,3,Putback Dunk Shot,DUNKS,1.0,2025
-1642259,Putback Layup,2PT Field Goal,2,1,Putback Layup Shot,LAYUPS,0.5,2025
-1642259,Alley Oop Dunk,2PT Field Goal,2,2,Running Alley Oop Dunk Shot,DUNKS,1.0,2025
-1642259,Standard Dunk,2PT Field Goal,4,4,Running Dunk Shot,DUNKS,1.0,2025
-1642259,Finger Roll,2PT Field Goal,2,1,Running Finger Roll Layup Shot,LAYUPS,0.5,2025
-1642259,Running Jump Shot,3PT Field Goal,3,2,Running Jump Shot,JUMP_SHOTS,1.0,2025
-1642259,Running Jump Shot,3PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2025
-1642259,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.0,2025
-1642259,Step Back Jump Shot,3PT Field Goal,2,0,Step Back Jump shot,JUMP_SHOTS,0.0,2025
-1642259,Specialty Dunk,2PT Field Goal,1,1,Tip Dunk Shot,DUNKS,1.0,2025
-1642259,Putback Layup,2PT Field Goal,2,1,Tip Layup Shot,LAYUPS,0.5,2025
-1642259,Turnaround Jump Shot,2PT Field Goal,5,1,Turnaround Fadeaway shot,JUMP_SHOTS,0.2,2025
-1642259,Turnaround Hook Shot,2PT Field Goal,6,2,Turnaround Hook Shot,POST_MOVES,0.3333333333333333,2025
-1642259,Turnaround Jump Shot,2PT Field Goal,6,3,Turnaround Jump Shot,JUMP_SHOTS,0.5,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Alexandre Sarr,1642259,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2025
+Alexandre Sarr,1642259,Alley Oop Layup,2,2,0,Alley Oop Layup shot,LAYUPS,,2025
+Alexandre Sarr,1642259,Specialty Dunk,2,10,10,Cutting Dunk Shot,DUNKS,,2025
+Alexandre Sarr,1642259,Standard Layup,2,11,3,Cutting Layup Shot,LAYUPS,,2025
+Alexandre Sarr,1642259,Driving Hook Shot,2,2,0,Driving Bank Hook Shot,POST_MOVES,,2025
+Alexandre Sarr,1642259,Driving Dunk,2,5,4,Driving Dunk Shot,DUNKS,,2025
+Alexandre Sarr,1642259,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Alexandre Sarr,1642259,Floating Jump Shot,2,8,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2025
+Alexandre Sarr,1642259,Floating Jump Shot,2,20,10,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Alexandre Sarr,1642259,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,,2025
+Alexandre Sarr,1642259,Driving Layup,2,10,3,Driving Layup Shot,LAYUPS,,2025
+Alexandre Sarr,1642259,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2025
+Alexandre Sarr,1642259,Fadeaway Jump Shot,2,1,0,Fadeaway Bank shot,JUMP_SHOTS,,2025
+Alexandre Sarr,1642259,Fadeaway Jump Shot,2,5,1,Fadeaway Jump Shot,JUMP_SHOTS,,2025
+Alexandre Sarr,1642259,Fadeaway Jump Shot,3,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2025
+Alexandre Sarr,1642259,Floating Jump Shot,2,13,3,Floating Jump shot,FLOATING_SHOTS,,2025
+Alexandre Sarr,1642259,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2025
+Alexandre Sarr,1642259,Hook Shot,2,6,2,Hook Shot,POST_MOVES,,2025
+Alexandre Sarr,1642259,Jump Shot,3,1,1,Jump Bank Shot,JUMP_SHOTS,,2025
+Alexandre Sarr,1642259,Jump Shot,2,11,2,Jump Shot,JUMP_SHOTS,,2025
+Alexandre Sarr,1642259,Jump Shot,3,142,46,Jump Shot,JUMP_SHOTS,,2025
+Alexandre Sarr,1642259,Standard Layup,2,4,3,Layup Shot,LAYUPS,,2025
+Alexandre Sarr,1642259,Pullup Jump Shot,2,5,2,Pullup Jump shot,JUMP_SHOTS,,2025
+Alexandre Sarr,1642259,Pullup Jump Shot,3,2,1,Pullup Jump shot,JUMP_SHOTS,,2025
+Alexandre Sarr,1642259,Putback Dunk,2,6,6,Putback Dunk Shot,DUNKS,,2025
+Alexandre Sarr,1642259,Putback Layup,2,11,5,Putback Layup Shot,LAYUPS,,2025
+Alexandre Sarr,1642259,Alley Oop Dunk,2,4,4,Running Alley Oop Dunk Shot,DUNKS,,2025
+Alexandre Sarr,1642259,Alley Oop Layup,2,2,1,Running Alley Oop Layup Shot,LAYUPS,,2025
+Alexandre Sarr,1642259,Standard Dunk,2,6,6,Running Dunk Shot,DUNKS,,2025
+Alexandre Sarr,1642259,Finger Roll,2,3,2,Running Finger Roll Layup Shot,LAYUPS,,2025
+Alexandre Sarr,1642259,Running Jump Shot,3,4,2,Running Jump Shot,JUMP_SHOTS,,2025
+Alexandre Sarr,1642259,Standard Layup,2,3,0,Running Layup Shot,LAYUPS,,2025
+Alexandre Sarr,1642259,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025
+Alexandre Sarr,1642259,Running Jump Shot,3,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025
+Alexandre Sarr,1642259,Step Back Jump Shot,2,3,2,Step Back Jump shot,JUMP_SHOTS,,2025
+Alexandre Sarr,1642259,Step Back Jump Shot,3,3,0,Step Back Jump shot,JUMP_SHOTS,,2025
+Alexandre Sarr,1642259,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2025
+Alexandre Sarr,1642259,Putback Layup,2,5,2,Tip Layup Shot,LAYUPS,,2025
+Alexandre Sarr,1642259,Turnaround Hook Shot,2,2,0,Turnaround Bank Hook Shot,POST_MOVES,,2025
+Alexandre Sarr,1642259,Turnaround Jump Shot,2,14,5,Turnaround Fadeaway shot,JUMP_SHOTS,,2025
+Alexandre Sarr,1642259,Turnaround Hook Shot,2,21,8,Turnaround Hook Shot,POST_MOVES,,2025
+Alexandre Sarr,1642259,Turnaround Jump Shot,2,10,5,Turnaround Jump Shot,JUMP_SHOTS,,2025

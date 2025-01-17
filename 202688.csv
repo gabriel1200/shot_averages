@@ -1,33 +1,205 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-202688,Driving Hook Shot,2PT Field Goal,1,1,Driving Bank Hook Shot,POST_MOVES,1.0,2014
-202688,Driving Layup,2PT Field Goal,8,7,Driving Layup Shot,LAYUPS,0.875,2014
-202688,Driving Layup,2PT Field Goal,2,1,Driving Reverse Layup Shot,LAYUPS,0.5,2014
-202688,Fadeaway Jump Shot,2PT Field Goal,2,1,Fadeaway Jump Shot,JUMP_SHOTS,0.5,2014
-202688,Floating Jump Shot,2PT Field Goal,3,1,Floating Jump shot,FLOATING_SHOTS,0.3333333333333333,2014
-202688,Jump Shot,2PT Field Goal,25,13,Jump Shot,JUMP_SHOTS,0.52,2014
-202688,Jump Shot,3PT Field Goal,28,12,Jump Shot,JUMP_SHOTS,0.6428571428571429,2014
-202688,Standard Layup,2PT Field Goal,27,8,Layup Shot,LAYUPS,0.2962962962962963,2014
-202688,Pullup Jump Shot,2PT Field Goal,4,2,Pullup Jump shot,JUMP_SHOTS,0.5,2014
-202688,Pullup Jump Shot,3PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.5,2014
-202688,Reverse Layup,2PT Field Goal,2,1,Reverse Layup Shot,LAYUPS,0.5,2014
-202688,Running Jump Shot,2PT Field Goal,5,3,Running Jump Shot,JUMP_SHOTS,0.6,2014
-202688,Finger Roll,2PT Field Goal,2,2,Driving Finger Roll Layup Shot,LAYUPS,1.0,2015
-202688,Driving Layup,2PT Field Goal,4,3,Driving Layup Shot,LAYUPS,0.75,2015
-202688,Jump Shot,2PT Field Goal,24,6,Jump Shot,JUMP_SHOTS,0.25,2015
-202688,Jump Shot,3PT Field Goal,20,9,Jump Shot,JUMP_SHOTS,0.675,2015
-202688,Standard Layup,2PT Field Goal,14,6,Layup Shot,LAYUPS,0.4285714285714285,2015
-202688,Pullup Jump Shot,2PT Field Goal,2,2,Pullup Jump shot,JUMP_SHOTS,1.0,2015
-202688,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2015
-202688,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2015
-202688,Step Back Jump Shot,2PT Field Goal,2,1,Step Back Jump shot,JUMP_SHOTS,0.5,2015
-202688,Driving Layup,2PT Field Goal,2,0,Driving Layup Shot,LAYUPS,0.0,2016
-202688,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2016
-202688,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2016
-202688,Jump Shot,2PT Field Goal,4,2,Jump Shot,JUMP_SHOTS,0.5,2016
-202688,Jump Shot,3PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.5,2016
-202688,Pullup Jump Shot,2PT Field Goal,3,1,Pullup Jump shot,JUMP_SHOTS,0.3333333333333333,2016
-202688,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2016
-202688,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2016
-202688,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.0,2016
-202688,Step Back Jump Shot,3PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.5,2016
-202688,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2017
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Brandon Knight,202688,Alley Oop Dunk,2,3,2,Alley Oop Dunk Shot,DUNKS,,2012
+Brandon Knight,202688,Alley Oop Layup,2,5,4,Alley Oop Layup shot,LAYUPS,,2012
+Brandon Knight,202688,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2012
+Brandon Knight,202688,Finger Roll,2,3,3,Driving Finger Roll Layup Shot,LAYUPS,,2012
+Brandon Knight,202688,Driving Jump Shot,2,2,1,Driving Jump shot,JUMP_SHOTS,,2012
+Brandon Knight,202688,Driving Layup,2,88,69,Driving Layup Shot,LAYUPS,,2012
+Brandon Knight,202688,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2012
+Brandon Knight,202688,Standard Dunk,2,4,3,Dunk Shot,DUNKS,,2012
+Brandon Knight,202688,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Brandon Knight,202688,Finger Roll,2,3,3,Finger Roll Layup Shot,LAYUPS,,2012
+Brandon Knight,202688,Floating Jump Shot,2,54,31,Floating Jump shot,FLOATING_SHOTS,,2012
+Brandon Knight,202688,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2012
+Brandon Knight,202688,Jump Shot,2,3,2,Jump Bank Shot,JUMP_SHOTS,,2012
+Brandon Knight,202688,Jump Shot,2,441,141,Jump Shot,JUMP_SHOTS,,2012
+Brandon Knight,202688,Standard Layup,2,86,28,Layup Shot,LAYUPS,,2012
+Brandon Knight,202688,Pullup Jump Shot,2,25,11,Pullup Jump shot,JUMP_SHOTS,,2012
+Brandon Knight,202688,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2012
+Brandon Knight,202688,Running Jump Shot,2,7,5,Running Bank shot,JUMP_SHOTS,,2012
+Brandon Knight,202688,Running Hook Shot,2,2,0,Running Hook Shot,POST_MOVES,,2012
+Brandon Knight,202688,Running Jump Shot,2,30,7,Running Jump Shot,JUMP_SHOTS,,2012
+Brandon Knight,202688,Standard Layup,2,4,3,Running Layup Shot,LAYUPS,,2012
+Brandon Knight,202688,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,,2012
+Brandon Knight,202688,Alley Oop Dunk,2,3,3,Alley Oop Dunk Shot,DUNKS,,2013
+Brandon Knight,202688,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2013
+Brandon Knight,202688,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2013
+Brandon Knight,202688,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2013
+Brandon Knight,202688,Finger Roll,2,5,3,Driving Finger Roll Layup Shot,LAYUPS,,2013
+Brandon Knight,202688,Driving Jump Shot,2,2,0,Driving Jump shot,JUMP_SHOTS,,2013
+Brandon Knight,202688,Driving Layup,2,93,67,Driving Layup Shot,LAYUPS,,2013
+Brandon Knight,202688,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2013
+Brandon Knight,202688,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2013
+Brandon Knight,202688,Standard Dunk,2,7,5,Dunk Shot,DUNKS,,2013
+Brandon Knight,202688,Fadeaway Jump Shot,2,4,2,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Brandon Knight,202688,Finger Roll,2,2,0,Finger Roll Layup Shot,LAYUPS,,2013
+Brandon Knight,202688,Floating Jump Shot,2,36,18,Floating Jump shot,FLOATING_SHOTS,,2013
+Brandon Knight,202688,Hook Shot,2,5,3,Hook Shot,POST_MOVES,,2013
+Brandon Knight,202688,Jump Shot,2,3,2,Jump Bank Shot,JUMP_SHOTS,,2013
+Brandon Knight,202688,Jump Shot,2,521,164,Jump Shot,JUMP_SHOTS,,2013
+Brandon Knight,202688,Standard Layup,2,130,50,Layup Shot,LAYUPS,,2013
+Brandon Knight,202688,Pullup Jump Shot,2,23,17,Pullup Jump shot,JUMP_SHOTS,,2013
+Brandon Knight,202688,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2013
+Brandon Knight,202688,Reverse Layup,2,5,0,Reverse Layup Shot,LAYUPS,,2013
+Brandon Knight,202688,Running Jump Shot,2,3,2,Running Bank shot,JUMP_SHOTS,,2013
+Brandon Knight,202688,Running Jump Shot,2,9,4,Running Jump Shot,JUMP_SHOTS,,2013
+Brandon Knight,202688,Standard Layup,2,7,3,Running Layup Shot,LAYUPS,,2013
+Brandon Knight,202688,Step Back Jump Shot,2,3,1,Step Back Jump shot,JUMP_SHOTS,,2013
+Brandon Knight,202688,Tip Shot,2,7,5,Tip Shot,TIP_SHOTS,,2013
+Brandon Knight,202688,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Brandon Knight,202688,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2014
+Brandon Knight,202688,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2014
+Brandon Knight,202688,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2014
+Brandon Knight,202688,Finger Roll,2,4,4,Driving Finger Roll Layup Shot,LAYUPS,,2014
+Brandon Knight,202688,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2014
+Brandon Knight,202688,Driving Jump Shot,2,5,2,Driving Jump shot,JUMP_SHOTS,,2014
+Brandon Knight,202688,Driving Layup,2,98,79,Driving Layup Shot,LAYUPS,,2014
+Brandon Knight,202688,Driving Layup,2,5,3,Driving Reverse Layup Shot,LAYUPS,,2014
+Brandon Knight,202688,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2014
+Brandon Knight,202688,Standard Dunk,2,6,4,Dunk Shot,DUNKS,,2014
+Brandon Knight,202688,Fadeaway Jump Shot,2,3,2,Fadeaway Jump Shot,JUMP_SHOTS,,2014
+Brandon Knight,202688,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2014
+Brandon Knight,202688,Floating Jump Shot,2,23,12,Floating Jump shot,FLOATING_SHOTS,,2014
+Brandon Knight,202688,Hook Shot,2,4,1,Hook Shot,POST_MOVES,,2014
+Brandon Knight,202688,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2014
+Brandon Knight,202688,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2014
+Brandon Knight,202688,Jump Shot,2,615,192,Jump Shot,JUMP_SHOTS,,2014
+Brandon Knight,202688,Jump Shot,3,31,15,Jump Shot,JUMP_SHOTS,,2014
+Brandon Knight,202688,Standard Layup,2,192,78,Layup Shot,LAYUPS,,2014
+Brandon Knight,202688,Pullup Jump Shot,2,30,17,Pullup Jump shot,JUMP_SHOTS,,2014
+Brandon Knight,202688,Pullup Jump Shot,3,1,1,Pullup Jump shot,JUMP_SHOTS,,2014
+Brandon Knight,202688,Reverse Layup,2,8,5,Reverse Layup Shot,LAYUPS,,2014
+Brandon Knight,202688,Running Jump Shot,2,3,3,Running Bank shot,JUMP_SHOTS,,2014
+Brandon Knight,202688,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2014
+Brandon Knight,202688,Running Jump Shot,2,24,14,Running Jump Shot,JUMP_SHOTS,,2014
+Brandon Knight,202688,Standard Layup,2,10,8,Running Layup Shot,LAYUPS,,2014
+Brandon Knight,202688,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2014
+Brandon Knight,202688,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2014
+Brandon Knight,202688,Step Back Jump Shot,2,13,6,Step Back Jump shot,JUMP_SHOTS,,2014
+Brandon Knight,202688,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,,2014
+Brandon Knight,202688,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2014
+Brandon Knight,202688,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2015
+Brandon Knight,202688,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2015
+Brandon Knight,202688,Finger Roll,2,5,5,Driving Finger Roll Layup Shot,LAYUPS,,2015
+Brandon Knight,202688,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2015
+Brandon Knight,202688,Driving Layup,2,63,44,Driving Layup Shot,LAYUPS,,2015
+Brandon Knight,202688,Driving Layup,2,4,3,Driving Reverse Layup Shot,LAYUPS,,2015
+Brandon Knight,202688,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2015
+Brandon Knight,202688,Standard Dunk,2,11,10,Dunk Shot,DUNKS,,2015
+Brandon Knight,202688,Finger Roll,2,3,2,Finger Roll Layup Shot,LAYUPS,,2015
+Brandon Knight,202688,Floating Jump Shot,2,12,4,Floating Jump shot,FLOATING_SHOTS,,2015
+Brandon Knight,202688,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2015
+Brandon Knight,202688,Jump Shot,2,3,2,Jump Bank Shot,JUMP_SHOTS,,2015
+Brandon Knight,202688,Jump Shot,2,550,192,Jump Shot,JUMP_SHOTS,,2015
+Brandon Knight,202688,Jump Shot,3,24,11,Jump Shot,JUMP_SHOTS,,2015
+Brandon Knight,202688,Standard Layup,2,135,60,Layup Shot,LAYUPS,,2015
+Brandon Knight,202688,Pullup Jump Shot,2,24,11,Pullup Jump shot,JUMP_SHOTS,,2015
+Brandon Knight,202688,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2015
+Brandon Knight,202688,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2015
+Brandon Knight,202688,Running Jump Shot,2,4,2,Running Bank shot,JUMP_SHOTS,,2015
+Brandon Knight,202688,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2015
+Brandon Knight,202688,Running Jump Shot,2,11,7,Running Jump Shot,JUMP_SHOTS,,2015
+Brandon Knight,202688,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2015
+Brandon Knight,202688,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2015
+Brandon Knight,202688,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2015
+Brandon Knight,202688,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2015
+Brandon Knight,202688,Step Back Jump Shot,2,17,7,Step Back Jump shot,JUMP_SHOTS,,2015
+Brandon Knight,202688,Tip Shot,2,4,1,Tip Shot,TIP_SHOTS,,2015
+Brandon Knight,202688,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2016
+Brandon Knight,202688,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2016
+Brandon Knight,202688,Standard Layup,2,5,4,Cutting Layup Shot,LAYUPS,,2016
+Brandon Knight,202688,Driving Jump Shot,2,5,3,Driving Bank shot,JUMP_SHOTS,,2016
+Brandon Knight,202688,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2016
+Brandon Knight,202688,Finger Roll,2,12,9,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Brandon Knight,202688,Floating Jump Shot,2,3,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2016
+Brandon Knight,202688,Floating Jump Shot,2,5,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Brandon Knight,202688,Driving Hook Shot,2,3,1,Driving Hook Shot,POST_MOVES,,2016
+Brandon Knight,202688,Driving Layup,2,83,51,Driving Layup Shot,LAYUPS,,2016
+Brandon Knight,202688,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2016
+Brandon Knight,202688,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2016
+Brandon Knight,202688,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Brandon Knight,202688,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2016
+Brandon Knight,202688,Floating Jump Shot,2,51,29,Floating Jump shot,FLOATING_SHOTS,,2016
+Brandon Knight,202688,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2016
+Brandon Knight,202688,Jump Shot,2,8,4,Jump Bank Shot,JUMP_SHOTS,,2016
+Brandon Knight,202688,Jump Shot,2,462,141,Jump Shot,JUMP_SHOTS,,2016
+Brandon Knight,202688,Jump Shot,3,3,1,Jump Shot,JUMP_SHOTS,,2016
+Brandon Knight,202688,Standard Layup,2,50,17,Layup Shot,LAYUPS,,2016
+Brandon Knight,202688,Pullup Jump Shot,2,84,38,Pullup Jump shot,JUMP_SHOTS,,2016
+Brandon Knight,202688,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2016
+Brandon Knight,202688,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2016
+Brandon Knight,202688,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2016
+Brandon Knight,202688,Finger Roll,2,3,3,Running Finger Roll Layup Shot,LAYUPS,,2016
+Brandon Knight,202688,Running Jump Shot,2,12,5,Running Jump Shot,JUMP_SHOTS,,2016
+Brandon Knight,202688,Standard Layup,2,21,19,Running Layup Shot,LAYUPS,,2016
+Brandon Knight,202688,Running Jump Shot,2,2,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2016
+Brandon Knight,202688,Step Back Jump Shot,2,58,23,Step Back Jump shot,JUMP_SHOTS,,2016
+Brandon Knight,202688,Step Back Jump Shot,3,1,1,Step Back Jump shot,JUMP_SHOTS,,2016
+Brandon Knight,202688,Putback Layup,2,2,1,Tip Layup Shot,LAYUPS,,2016
+Brandon Knight,202688,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2016
+Brandon Knight,202688,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2016
+Brandon Knight,202688,Turnaround Jump Shot,2,4,1,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Brandon Knight,202688,Standard Layup,2,6,6,Cutting Layup Shot,LAYUPS,,2017
+Brandon Knight,202688,Driving Jump Shot,2,3,3,Driving Bank shot,JUMP_SHOTS,,2017
+Brandon Knight,202688,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2017
+Brandon Knight,202688,Finger Roll,2,8,6,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Brandon Knight,202688,Floating Jump Shot,2,2,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2017
+Brandon Knight,202688,Floating Jump Shot,2,12,6,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Brandon Knight,202688,Driving Hook Shot,2,2,0,Driving Hook Shot,POST_MOVES,,2017
+Brandon Knight,202688,Driving Layup,2,61,30,Driving Layup Shot,LAYUPS,,2017
+Brandon Knight,202688,Driving Layup,2,6,3,Driving Reverse Layup Shot,LAYUPS,,2017
+Brandon Knight,202688,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2017
+Brandon Knight,202688,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Brandon Knight,202688,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2017
+Brandon Knight,202688,Floating Jump Shot,2,46,17,Floating Jump shot,FLOATING_SHOTS,,2017
+Brandon Knight,202688,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2017
+Brandon Knight,202688,Jump Shot,2,7,3,Jump Bank Shot,JUMP_SHOTS,,2017
+Brandon Knight,202688,Jump Shot,2,195,49,Jump Shot,JUMP_SHOTS,,2017
+Brandon Knight,202688,Standard Layup,2,23,5,Layup Shot,LAYUPS,,2017
+Brandon Knight,202688,Pullup Jump Shot,2,76,32,Pullup Jump shot,JUMP_SHOTS,,2017
+Brandon Knight,202688,Putback Layup,2,4,1,Putback Layup Shot,LAYUPS,,2017
+Brandon Knight,202688,Reverse Layup,2,2,0,Reverse Layup Shot,LAYUPS,,2017
+Brandon Knight,202688,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2017
+Brandon Knight,202688,Finger Roll,2,2,2,Running Finger Roll Layup Shot,LAYUPS,,2017
+Brandon Knight,202688,Running Jump Shot,2,3,2,Running Jump Shot,JUMP_SHOTS,,2017
+Brandon Knight,202688,Standard Layup,2,14,12,Running Layup Shot,LAYUPS,,2017
+Brandon Knight,202688,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2017
+Brandon Knight,202688,Step Back Jump Shot,2,40,20,Step Back Jump shot,JUMP_SHOTS,,2017
+Brandon Knight,202688,Putback Layup,2,2,1,Tip Layup Shot,LAYUPS,,2017
+Brandon Knight,202688,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2017
+Brandon Knight,202688,Standard Layup,2,5,3,Cutting Layup Shot,LAYUPS,,2019
+Brandon Knight,202688,Finger Roll,2,9,5,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Brandon Knight,202688,Floating Jump Shot,2,5,3,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Brandon Knight,202688,Floating Jump Shot,2,28,8,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Brandon Knight,202688,Driving Hook Shot,2,2,0,Driving Hook Shot,POST_MOVES,,2019
+Brandon Knight,202688,Driving Layup,2,15,5,Driving Layup Shot,LAYUPS,,2019
+Brandon Knight,202688,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+Brandon Knight,202688,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2019
+Brandon Knight,202688,Floating Jump Shot,2,8,2,Floating Jump shot,FLOATING_SHOTS,,2019
+Brandon Knight,202688,Jump Shot,2,109,29,Jump Shot,JUMP_SHOTS,,2019
+Brandon Knight,202688,Standard Layup,2,6,3,Layup Shot,LAYUPS,,2019
+Brandon Knight,202688,Pullup Jump Shot,2,32,18,Pullup Jump shot,JUMP_SHOTS,,2019
+Brandon Knight,202688,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2019
+Brandon Knight,202688,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2019
+Brandon Knight,202688,Standard Layup,2,5,2,Running Layup Shot,LAYUPS,,2019
+Brandon Knight,202688,Step Back Jump Shot,2,30,16,Step Back Jump shot,JUMP_SHOTS,,2019
+Brandon Knight,202688,Putback Layup,2,1,1,Tip Layup Shot,LAYUPS,,2019
+Brandon Knight,202688,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2019
+Brandon Knight,202688,Standard Layup,2,1,0,Cutting Layup Shot,LAYUPS,,2020
+Brandon Knight,202688,Floating Jump Shot,2,4,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2020
+Brandon Knight,202688,Floating Jump Shot,2,11,6,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Brandon Knight,202688,Driving Layup,2,9,3,Driving Layup Shot,LAYUPS,,2020
+Brandon Knight,202688,Floating Jump Shot,2,5,2,Floating Jump shot,FLOATING_SHOTS,,2020
+Brandon Knight,202688,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2020
+Brandon Knight,202688,Jump Shot,2,95,35,Jump Shot,JUMP_SHOTS,,2020
+Brandon Knight,202688,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2020
+Brandon Knight,202688,Pullup Jump Shot,2,14,4,Pullup Jump shot,JUMP_SHOTS,,2020
+Brandon Knight,202688,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2020
+Brandon Knight,202688,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2020
+Brandon Knight,202688,Step Back Jump Shot,2,24,6,Step Back Jump shot,JUMP_SHOTS,,2020
+Brandon Knight,202688,Driving Layup,2,4,3,Driving Layup Shot,LAYUPS,,2022
+Brandon Knight,202688,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2022
+Brandon Knight,202688,Jump Shot,2,11,3,Jump Shot,JUMP_SHOTS,,2022
+Brandon Knight,202688,Pullup Jump Shot,2,4,1,Pullup Jump shot,JUMP_SHOTS,,2022
+Brandon Knight,202688,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2022
+Brandon Knight,202688,Step Back Jump Shot,2,2,0,Step Back Jump shot,JUMP_SHOTS,,2022

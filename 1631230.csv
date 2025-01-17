@@ -1,23 +1,52 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1631230,Specialty Dunk,2PT Field Goal,2,2,Cutting Dunk Shot,DUNKS,1.0,2024
-1631230,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2024
-1631230,Driving Dunk,2PT Field Goal,1,0,Driving Dunk Shot,DUNKS,0.0,2024
-1631230,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2024
-1631230,Driving Hook Shot,2PT Field Goal,1,1,Driving Hook Shot,POST_MOVES,1.0,2024
-1631230,Driving Layup,2PT Field Goal,3,0,Driving Layup Shot,LAYUPS,0.0,2024
-1631230,Floating Jump Shot,2PT Field Goal,3,0,Floating Jump shot,FLOATING_SHOTS,0.0,2024
-1631230,Hook Shot,2PT Field Goal,1,1,Hook Bank Shot,POST_MOVES,1.0,2024
-1631230,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,2024
-1631230,Jump Shot,2PT Field Goal,10,6,Jump Shot,JUMP_SHOTS,0.6,2024
-1631230,Jump Shot,3PT Field Goal,6,2,Jump Shot,JUMP_SHOTS,0.5,2024
-1631230,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2024
-1631230,Pullup Jump Shot,2PT Field Goal,2,1,Pullup Jump shot,JUMP_SHOTS,0.5,2024
-1631230,Putback Layup,2PT Field Goal,3,2,Putback Layup Shot,LAYUPS,0.6666666666666666,2024
-1631230,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2024
-1631230,Alley Oop Layup,2PT Field Goal,1,1,Running Alley Oop Layup Shot,LAYUPS,1.0,2024
-1631230,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2024
-1631230,Putback Layup,2PT Field Goal,7,2,Tip Layup Shot,LAYUPS,0.2857142857142857,2024
-1631230,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2024
-1631230,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2024
-1631230,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2025
-1631230,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Dominick Barlow,1631230,Specialty Dunk,2,7,7,Cutting Dunk Shot,DUNKS,,2023
+Dominick Barlow,1631230,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2023
+Dominick Barlow,1631230,Standard Layup,2,12,7,Cutting Layup Shot,LAYUPS,,2023
+Dominick Barlow,1631230,Driving Layup,2,3,0,Driving Layup Shot,LAYUPS,,2023
+Dominick Barlow,1631230,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,2023
+Dominick Barlow,1631230,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2023
+Dominick Barlow,1631230,Floating Jump Shot,2,6,2,Floating Jump shot,FLOATING_SHOTS,,2023
+Dominick Barlow,1631230,Jump Shot,2,16,5,Jump Shot,JUMP_SHOTS,,2023
+Dominick Barlow,1631230,Standard Layup,2,13,6,Layup Shot,LAYUPS,,2023
+Dominick Barlow,1631230,Pullup Jump Shot,2,2,0,Pullup Jump shot,JUMP_SHOTS,,2023
+Dominick Barlow,1631230,Putback Layup,2,4,4,Putback Layup Shot,LAYUPS,,2023
+Dominick Barlow,1631230,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2023
+Dominick Barlow,1631230,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2023
+Dominick Barlow,1631230,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2023
+Dominick Barlow,1631230,Specialty Dunk,2,3,3,Tip Dunk Shot,DUNKS,,2023
+Dominick Barlow,1631230,Putback Layup,2,10,5,Tip Layup Shot,LAYUPS,,2023
+Dominick Barlow,1631230,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2023
+Dominick Barlow,1631230,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2023
+Dominick Barlow,1631230,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2024
+Dominick Barlow,1631230,Specialty Dunk,2,3,3,Cutting Dunk Shot,DUNKS,,2024
+Dominick Barlow,1631230,Standard Layup,2,6,5,Cutting Layup Shot,LAYUPS,,2024
+Dominick Barlow,1631230,Driving Dunk,2,2,1,Driving Dunk Shot,DUNKS,,2024
+Dominick Barlow,1631230,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Dominick Barlow,1631230,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Dominick Barlow,1631230,Driving Hook Shot,2,2,2,Driving Hook Shot,POST_MOVES,,2024
+Dominick Barlow,1631230,Driving Layup,2,6,0,Driving Layup Shot,LAYUPS,,2024
+Dominick Barlow,1631230,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2024
+Dominick Barlow,1631230,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2024
+Dominick Barlow,1631230,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Dominick Barlow,1631230,Floating Jump Shot,2,7,1,Floating Jump shot,FLOATING_SHOTS,,2024
+Dominick Barlow,1631230,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2024
+Dominick Barlow,1631230,Hook Shot,2,3,1,Hook Shot,POST_MOVES,,2024
+Dominick Barlow,1631230,Jump Shot,2,23,11,Jump Shot,JUMP_SHOTS,,2024
+Dominick Barlow,1631230,Jump Shot,3,9,3,Jump Shot,JUMP_SHOTS,,2024
+Dominick Barlow,1631230,Standard Layup,2,7,3,Layup Shot,LAYUPS,,2024
+Dominick Barlow,1631230,Pullup Jump Shot,2,5,2,Pullup Jump shot,JUMP_SHOTS,,2024
+Dominick Barlow,1631230,Putback Layup,2,6,3,Putback Layup Shot,LAYUPS,,2024
+Dominick Barlow,1631230,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2024
+Dominick Barlow,1631230,Alley Oop Layup,2,1,1,Running Alley Oop Layup Shot,LAYUPS,,2024
+Dominick Barlow,1631230,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2024
+Dominick Barlow,1631230,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2024
+Dominick Barlow,1631230,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2024
+Dominick Barlow,1631230,Putback Layup,2,11,5,Tip Layup Shot,LAYUPS,,2024
+Dominick Barlow,1631230,Turnaround Hook Shot,2,1,1,Turnaround Bank Hook Shot,POST_MOVES,,2024
+Dominick Barlow,1631230,Turnaround Hook Shot,2,5,2,Turnaround Hook Shot,POST_MOVES,,2024
+Dominick Barlow,1631230,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2024
+Dominick Barlow,1631230,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Dominick Barlow,1631230,Jump Shot,2,2,0,Jump Shot,JUMP_SHOTS,,2025
+Dominick Barlow,1631230,Jump Shot,3,2,1,Jump Shot,JUMP_SHOTS,,2025
+Dominick Barlow,1631230,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2025
+Dominick Barlow,1631230,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2025

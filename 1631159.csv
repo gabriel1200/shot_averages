@@ -1,7 +1,15 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1631159,Standard Layup,2PT Field Goal,1,0,Cutting Layup Shot,LAYUPS,0.0,2024
-1631159,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2024
-1631159,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2024
-1631159,Putback Layup,2PT Field Goal,1,0,Putback Layup Shot,LAYUPS,0.0,2024
-1631159,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.0,2024
-1631159,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Leonard Miller,1631159,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2024
+Leonard Miller,1631159,Standard Layup,2,1,0,Cutting Layup Shot,LAYUPS,,2024
+Leonard Miller,1631159,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2024
+Leonard Miller,1631159,Jump Shot,3,4,1,Jump Shot,JUMP_SHOTS,,2024
+Leonard Miller,1631159,Standard Layup,2,3,3,Layup Shot,LAYUPS,,2024
+Leonard Miller,1631159,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2024
+Leonard Miller,1631159,Putback Layup,2,3,2,Putback Layup Shot,LAYUPS,,2024
+Leonard Miller,1631159,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2024
+Leonard Miller,1631159,Running Jump Shot,3,1,1,Running Jump Shot,JUMP_SHOTS,,2024
+Leonard Miller,1631159,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2024
+Leonard Miller,1631159,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2024
+Leonard Miller,1631159,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2024
+Leonard Miller,1631159,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2025
+Leonard Miller,1631159,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2025

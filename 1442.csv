@@ -1,43 +1,69 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1442,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2002
-1442,Driving Hook Shot,2PT Field Goal,1,1,Driving Hook Shot,POST_MOVES,1.0,2002
-1442,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2002
-1442,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,2002
-1442,Fadeaway Jump Shot,2PT Field Goal,3,2,Fadeaway Jump Shot,JUMP_SHOTS,0.6666666666666666,2002
-1442,Finger Roll,2PT Field Goal,1,1,Finger Roll Shot,LAYUPS,1.0,2002
-1442,Hook Shot,2PT Field Goal,23,7,Hook Shot,POST_MOVES,0.3043478260869565,2002
-1442,Hook Shot,2PT Field Goal,1,0,Jump Hook Shot,POST_MOVES,0.0,2002
-1442,Jump Shot,2PT Field Goal,48,14,Jump Shot,JUMP_SHOTS,0.2916666666666667,2002
-1442,Standard Layup,2PT Field Goal,27,15,Layup Shot,LAYUPS,0.5555555555555556,2002
-1442,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2002
-1442,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2002
-1442,Turnaround Hook Shot,2PT Field Goal,2,2,Turnaround Hook Shot,POST_MOVES,1.0,2002
-1442,Turnaround Jump Shot,2PT Field Goal,4,1,Turnaround Jump Shot,JUMP_SHOTS,0.25,2002
-1442,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2003
-1442,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2003
-1442,Hook Shot,2PT Field Goal,4,1,Hook Shot,POST_MOVES,0.25,2003
-1442,Jump Shot,2PT Field Goal,8,2,Jump Shot,JUMP_SHOTS,0.25,2003
-1442,Standard Layup,2PT Field Goal,6,4,Layup Shot,LAYUPS,0.6666666666666666,2003
-1442,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2003
-1442,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2003
-1442,Turnaround Jump Shot,2PT Field Goal,4,3,Turnaround Jump Shot,JUMP_SHOTS,0.75,2003
-1442,Jump Shot,2PT Field Goal,10,3,Jump Shot,JUMP_SHOTS,0.3,2004
-1442,Standard Layup,2PT Field Goal,4,3,Layup Shot,LAYUPS,0.75,2004
-1442,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2004
-1442,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2005
-1442,Standard Dunk,2PT Field Goal,3,2,Dunk Shot,DUNKS,0.6666666666666666,2005
-1442,Fadeaway Jump Shot,2PT Field Goal,2,2,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2005
-1442,Hook Shot,2PT Field Goal,11,9,Hook Shot,POST_MOVES,0.8181818181818182,2005
-1442,Hook Shot,2PT Field Goal,5,5,Jump Hook Shot,POST_MOVES,1.0,2005
-1442,Jump Shot,2PT Field Goal,30,12,Jump Shot,JUMP_SHOTS,0.4,2005
-1442,Standard Layup,2PT Field Goal,22,8,Layup Shot,LAYUPS,0.3636363636363636,2005
-1442,Reverse Dunk,2PT Field Goal,1,1,Reverse Dunk Shot,DUNKS,1.0,2005
-1442,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2005
-1442,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2005
-1442,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2005
-1442,Turnaround Jump Shot,2PT Field Goal,5,4,Turnaround Jump Shot,JUMP_SHOTS,0.8,2005
-1442,Hook Shot,2PT Field Goal,5,3,Hook Shot,POST_MOVES,0.6,2006
-1442,Hook Shot,2PT Field Goal,2,2,Jump Hook Shot,POST_MOVES,1.0,2006
-1442,Jump Shot,2PT Field Goal,5,2,Jump Shot,JUMP_SHOTS,0.4,2006
-1442,Standard Layup,2PT Field Goal,2,2,Layup Shot,LAYUPS,1.0,2006
-1442,Turnaround Jump Shot,2PT Field Goal,2,2,Turnaround Jump Shot,JUMP_SHOTS,1.0,2006
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Zeljko Rebraca,1442,Alley Oop Dunk,2,1,0,Alley Oop Dunk Shot,DUNKS,,2002
+Zeljko Rebraca,1442,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2002
+Zeljko Rebraca,1442,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2002
+Zeljko Rebraca,1442,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2002
+Zeljko Rebraca,1442,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2002
+Zeljko Rebraca,1442,Standard Dunk,2,18,18,Dunk Shot,DUNKS,,2002
+Zeljko Rebraca,1442,Fadeaway Jump Shot,2,4,2,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Zeljko Rebraca,1442,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2002
+Zeljko Rebraca,1442,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2002
+Zeljko Rebraca,1442,Hook Shot,2,62,27,Hook Shot,POST_MOVES,,2002
+Zeljko Rebraca,1442,Hook Shot,2,6,4,Jump Hook Shot,POST_MOVES,,2002
+Zeljko Rebraca,1442,Jump Shot,2,163,55,Jump Shot,JUMP_SHOTS,,2002
+Zeljko Rebraca,1442,Standard Layup,2,76,51,Layup Shot,LAYUPS,,2002
+Zeljko Rebraca,1442,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2002
+Zeljko Rebraca,1442,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2002
+Zeljko Rebraca,1442,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2002
+Zeljko Rebraca,1442,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2002
+Zeljko Rebraca,1442,Tip Shot,2,8,4,Tip Shot,TIP_SHOTS,,2002
+Zeljko Rebraca,1442,Turnaround Hook Shot,2,6,4,Turnaround Hook Shot,POST_MOVES,,2002
+Zeljko Rebraca,1442,Turnaround Jump Shot,2,16,11,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Zeljko Rebraca,1442,Standard Dunk,2,5,4,Dunk Shot,DUNKS,,2003
+Zeljko Rebraca,1442,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Zeljko Rebraca,1442,Hook Shot,2,18,11,Hook Shot,POST_MOVES,,2003
+Zeljko Rebraca,1442,Jump Shot,2,74,31,Jump Shot,JUMP_SHOTS,,2003
+Zeljko Rebraca,1442,Standard Layup,2,30,20,Layup Shot,LAYUPS,,2003
+Zeljko Rebraca,1442,Tip Shot,2,4,3,Tip Shot,TIP_SHOTS,,2003
+Zeljko Rebraca,1442,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2003
+Zeljko Rebraca,1442,Turnaround Jump Shot,2,12,9,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Zeljko Rebraca,1442,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2004
+Zeljko Rebraca,1442,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Zeljko Rebraca,1442,Hook Shot,2,11,3,Hook Shot,POST_MOVES,,2004
+Zeljko Rebraca,1442,Jump Shot,2,38,13,Jump Shot,JUMP_SHOTS,,2004
+Zeljko Rebraca,1442,Standard Layup,2,14,10,Layup Shot,LAYUPS,,2004
+Zeljko Rebraca,1442,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2004
+Zeljko Rebraca,1442,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2004
+Zeljko Rebraca,1442,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2004
+Zeljko Rebraca,1442,Turnaround Jump Shot,2,8,4,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Zeljko Rebraca,1442,Driving Hook Shot,2,3,2,Driving Hook Shot,POST_MOVES,,2005
+Zeljko Rebraca,1442,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2005
+Zeljko Rebraca,1442,Standard Dunk,2,3,2,Dunk Shot,DUNKS,,2005
+Zeljko Rebraca,1442,Fadeaway Jump Shot,2,5,5,Fadeaway Jump Shot,JUMP_SHOTS,,2005
+Zeljko Rebraca,1442,Hook Shot,2,29,20,Hook Shot,POST_MOVES,,2005
+Zeljko Rebraca,1442,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2005
+Zeljko Rebraca,1442,Hook Shot,2,16,14,Jump Hook Shot,POST_MOVES,,2005
+Zeljko Rebraca,1442,Jump Shot,2,84,34,Jump Shot,JUMP_SHOTS,,2005
+Zeljko Rebraca,1442,Standard Layup,2,56,30,Layup Shot,LAYUPS,,2005
+Zeljko Rebraca,1442,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2005
+Zeljko Rebraca,1442,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2005
+Zeljko Rebraca,1442,Running Hook Shot,2,3,3,Running Hook Shot,POST_MOVES,,2005
+Zeljko Rebraca,1442,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2005
+Zeljko Rebraca,1442,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2005
+Zeljko Rebraca,1442,Tip Shot,2,2,0,Tip Shot,TIP_SHOTS,,2005
+Zeljko Rebraca,1442,Turnaround Hook Shot,2,2,2,Turnaround Hook Shot,POST_MOVES,,2005
+Zeljko Rebraca,1442,Turnaround Jump Shot,2,23,14,Turnaround Jump Shot,JUMP_SHOTS,,2005
+Zeljko Rebraca,1442,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2006
+Zeljko Rebraca,1442,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2006
+Zeljko Rebraca,1442,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2006
+Zeljko Rebraca,1442,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2006
+Zeljko Rebraca,1442,Hook Shot,2,13,7,Hook Shot,POST_MOVES,,2006
+Zeljko Rebraca,1442,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2006
+Zeljko Rebraca,1442,Hook Shot,2,3,3,Jump Hook Shot,POST_MOVES,,2006
+Zeljko Rebraca,1442,Jump Shot,2,41,12,Jump Shot,JUMP_SHOTS,,2006
+Zeljko Rebraca,1442,Standard Layup,2,20,13,Layup Shot,LAYUPS,,2006
+Zeljko Rebraca,1442,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2006
+Zeljko Rebraca,1442,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2006
+Zeljko Rebraca,1442,Finger Roll,2,1,1,Turnaround Finger Roll Shot,LAYUPS,,2006
+Zeljko Rebraca,1442,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2006
+Zeljko Rebraca,1442,Turnaround Jump Shot,2,8,8,Turnaround Jump Shot,JUMP_SHOTS,,2006

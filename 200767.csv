@@ -1,16 +1,81 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-200767,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2009
-200767,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2009
-200767,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2009
-200767,Standard Layup,2PT Field Goal,4,3,Layup Shot,LAYUPS,0.75,2009
-200767,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2009
-200767,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2009
-200767,Alley Oop Dunk,2PT Field Goal,2,1,Alley Oop Dunk Shot,DUNKS,0.5,2010
-200767,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2010
-200767,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2010
-200767,Standard Dunk,2PT Field Goal,4,4,Dunk Shot,DUNKS,1.0,2010
-200767,Jump Shot,2PT Field Goal,6,2,Jump Shot,JUMP_SHOTS,0.3333333333333333,2010
-200767,Standard Layup,2PT Field Goal,11,6,Layup Shot,LAYUPS,0.5454545454545454,2010
-200767,Putback Dunk,2PT Field Goal,2,2,Putback Dunk Shot,DUNKS,1.0,2010
-200767,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2010
-200767,Tip Shot,2PT Field Goal,3,0,Tip Shot,TIP_SHOTS,0.0,2010
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Josh Boone,200767,Alley Oop Dunk,2,12,9,Alley Oop Dunk Shot,DUNKS,,2007
+Josh Boone,200767,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2007
+Josh Boone,200767,Driving Dunk,2,2,0,Driving Dunk Shot,DUNKS,,2007
+Josh Boone,200767,Finger Roll,2,2,2,Driving Finger Roll Shot,LAYUPS,,2007
+Josh Boone,200767,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2007
+Josh Boone,200767,Standard Dunk,2,24,23,Dunk Shot,DUNKS,,2007
+Josh Boone,200767,Specialty Dunk,2,2,2,Follow Up Dunk Shot,DUNKS,,2007
+Josh Boone,200767,Hook Shot,2,3,0,Hook Shot,POST_MOVES,,2007
+Josh Boone,200767,Hook Shot,2,4,4,Jump Hook Shot,POST_MOVES,,2007
+Josh Boone,200767,Jump Shot,2,16,5,Jump Shot,JUMP_SHOTS,,2007
+Josh Boone,200767,Standard Layup,2,67,34,Layup Shot,LAYUPS,,2007
+Josh Boone,200767,Reverse Layup,2,4,0,Reverse Layup Shot,LAYUPS,,2007
+Josh Boone,200767,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2007
+Josh Boone,200767,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2007
+Josh Boone,200767,Standard Dunk,2,9,9,Slam Dunk Shot,DUNKS,,2007
+Josh Boone,200767,Tip Shot,2,21,6,Tip Shot,TIP_SHOTS,,2007
+Josh Boone,200767,Alley Oop Dunk,2,15,10,Alley Oop Dunk Shot,DUNKS,,2008
+Josh Boone,200767,Alley Oop Layup,2,7,6,Alley Oop Layup shot,LAYUPS,,2008
+Josh Boone,200767,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2008
+Josh Boone,200767,Driving Jump Shot,2,1,1,Driving Jump shot,JUMP_SHOTS,,2008
+Josh Boone,200767,Driving Layup,2,7,6,Driving Layup Shot,LAYUPS,,2008
+Josh Boone,200767,Standard Dunk,2,44,39,Dunk Shot,DUNKS,,2008
+Josh Boone,200767,Finger Roll,2,2,1,Finger Roll Layup Shot,LAYUPS,,2008
+Josh Boone,200767,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2008
+Josh Boone,200767,Hook Shot,2,15,7,Hook Shot,POST_MOVES,,2008
+Josh Boone,200767,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2008
+Josh Boone,200767,Hook Shot,2,3,3,Jump Hook Shot,POST_MOVES,,2008
+Josh Boone,200767,Jump Shot,2,53,20,Jump Shot,JUMP_SHOTS,,2008
+Josh Boone,200767,Standard Layup,2,179,83,Layup Shot,LAYUPS,,2008
+Josh Boone,200767,Putback Dunk,2,9,8,Putback Dunk Shot,DUNKS,,2008
+Josh Boone,200767,Putback Layup,2,12,11,Putback Layup Shot,LAYUPS,,2008
+Josh Boone,200767,Putback Dunk,2,3,3,Putback Slam Dunk Shot,DUNKS,,2008
+Josh Boone,200767,Reverse Layup,2,11,4,Reverse Layup Shot,LAYUPS,,2008
+Josh Boone,200767,Reverse Dunk,2,1,1,Reverse Slam Dunk Shot,DUNKS,,2008
+Josh Boone,200767,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2008
+Josh Boone,200767,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2008
+Josh Boone,200767,Standard Dunk,2,7,7,Slam Dunk Shot,DUNKS,,2008
+Josh Boone,200767,Tip Shot,2,53,20,Tip Shot,TIP_SHOTS,,2008
+Josh Boone,200767,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2008
+Josh Boone,200767,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2008
+Josh Boone,200767,Alley Oop Dunk,2,5,2,Alley Oop Dunk Shot,DUNKS,,2009
+Josh Boone,200767,Alley Oop Layup,2,6,3,Alley Oop Layup shot,LAYUPS,,2009
+Josh Boone,200767,Finger Roll,2,2,0,Driving Finger Roll Layup Shot,LAYUPS,,2009
+Josh Boone,200767,Driving Layup,2,2,1,Driving Layup Shot,LAYUPS,,2009
+Josh Boone,200767,Standard Dunk,2,18,17,Dunk Shot,DUNKS,,2009
+Josh Boone,200767,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2009
+Josh Boone,200767,Hook Shot,2,6,3,Hook Shot,POST_MOVES,,2009
+Josh Boone,200767,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2009
+Josh Boone,200767,Jump Shot,2,39,10,Jump Shot,JUMP_SHOTS,,2009
+Josh Boone,200767,Standard Layup,2,82,46,Layup Shot,LAYUPS,,2009
+Josh Boone,200767,Putback Dunk,2,8,6,Putback Dunk Shot,DUNKS,,2009
+Josh Boone,200767,Putback Layup,2,12,8,Putback Layup Shot,LAYUPS,,2009
+Josh Boone,200767,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2009
+Josh Boone,200767,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2009
+Josh Boone,200767,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2009
+Josh Boone,200767,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2009
+Josh Boone,200767,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2009
+Josh Boone,200767,Tip Shot,2,19,6,Tip Shot,TIP_SHOTS,,2009
+Josh Boone,200767,Turnaround Jump Shot,2,3,2,Turnaround Jump Shot,JUMP_SHOTS,,2009
+Josh Boone,200767,Alley Oop Dunk,2,5,3,Alley Oop Dunk Shot,DUNKS,,2010
+Josh Boone,200767,Alley Oop Layup,2,4,4,Alley Oop Layup shot,LAYUPS,,2010
+Josh Boone,200767,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2010
+Josh Boone,200767,Driving Layup,2,7,2,Driving Layup Shot,LAYUPS,,2010
+Josh Boone,200767,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2010
+Josh Boone,200767,Standard Dunk,2,17,15,Dunk Shot,DUNKS,,2010
+Josh Boone,200767,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2010
+Josh Boone,200767,Hook Shot,2,7,2,Hook Shot,POST_MOVES,,2010
+Josh Boone,200767,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2010
+Josh Boone,200767,Jump Shot,2,42,13,Jump Shot,JUMP_SHOTS,,2010
+Josh Boone,200767,Standard Layup,2,72,38,Layup Shot,LAYUPS,,2010
+Josh Boone,200767,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2010
+Josh Boone,200767,Putback Dunk,2,13,10,Putback Dunk Shot,DUNKS,,2010
+Josh Boone,200767,Putback Layup,2,9,6,Putback Layup Shot,LAYUPS,,2010
+Josh Boone,200767,Reverse Layup,2,10,8,Reverse Layup Shot,LAYUPS,,2010
+Josh Boone,200767,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2010
+Josh Boone,200767,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2010
+Josh Boone,200767,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2010
+Josh Boone,200767,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2010
+Josh Boone,200767,Tip Shot,2,26,8,Tip Shot,TIP_SHOTS,,2010
+Josh Boone,200767,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2010

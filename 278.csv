@@ -1,28 +1,116 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-278,Driving Layup,2PT Field Goal,6,5,Driving Layup Shot,LAYUPS,0.8333333333333334,1997
-278,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,1997
-278,Hook Shot,2PT Field Goal,3,2,Hook Shot,POST_MOVES,0.6666666666666666,1997
-278,Jump Shot,2PT Field Goal,11,2,Jump Shot,JUMP_SHOTS,0.1818181818181818,1997
-278,Standard Layup,2PT Field Goal,21,8,Layup Shot,LAYUPS,0.3809523809523809,1997
-278,Running Jump Shot,2PT Field Goal,3,2,Running Jump Shot,JUMP_SHOTS,0.6666666666666666,1997
-278,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,1997
-278,Tip Shot,2PT Field Goal,2,2,Tip Shot,TIP_SHOTS,1.0,1997
-278,Driving Layup,2PT Field Goal,4,3,Driving Layup Shot,LAYUPS,0.75,1998
-278,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,1998
-278,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,1998
-278,Jump Shot,2PT Field Goal,19,4,Jump Shot,JUMP_SHOTS,0.2105263157894736,1998
-278,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,1998
-278,Standard Layup,2PT Field Goal,12,6,Layup Shot,LAYUPS,0.5,1998
-278,Running Jump Shot,2PT Field Goal,4,0,Running Jump Shot,JUMP_SHOTS,0.0,1998
-278,Standard Dunk,2PT Field Goal,3,3,Slam Dunk Shot,DUNKS,1.0,1998
-278,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,1999
-278,Driving Layup,2PT Field Goal,3,1,Driving Layup Shot,LAYUPS,0.3333333333333333,1999
-278,Standard Dunk,2PT Field Goal,3,1,Dunk Shot,DUNKS,0.3333333333333333,1999
-278,Jump Shot,2PT Field Goal,12,7,Jump Shot,JUMP_SHOTS,0.5833333333333334,1999
-278,Standard Layup,2PT Field Goal,6,3,Layup Shot,LAYUPS,0.5,1999
-278,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,1999
-278,Standard Dunk,2PT Field Goal,2,2,Slam Dunk Shot,DUNKS,1.0,1999
-278,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,1999
-278,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2001
-278,Jump Shot,2PT Field Goal,4,3,Jump Shot,JUMP_SHOTS,0.75,2001
-278,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Stacey Augmon,278,Driving Dunk,2,4,3,Driving Dunk Shot,DUNKS,,1997
+Stacey Augmon,278,Driving Layup,2,24,17,Driving Layup Shot,LAYUPS,,1997
+Stacey Augmon,278,Standard Dunk,2,9,9,Dunk Shot,DUNKS,,1997
+Stacey Augmon,278,Hook Shot,2,14,9,Hook Shot,POST_MOVES,,1997
+Stacey Augmon,278,Jump Shot,2,69,21,Jump Shot,JUMP_SHOTS,,1997
+Stacey Augmon,278,Standard Layup,2,88,38,Layup Shot,LAYUPS,,1997
+Stacey Augmon,278,Running Jump Shot,2,5,2,Running Jump Shot,JUMP_SHOTS,,1997
+Stacey Augmon,278,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,1997
+Stacey Augmon,278,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,,1997
+Stacey Augmon,278,Driving Dunk,2,3,2,Driving Dunk Shot,DUNKS,,1998
+Stacey Augmon,278,Driving Layup,2,43,24,Driving Layup Shot,LAYUPS,,1998
+Stacey Augmon,278,Standard Dunk,2,14,12,Dunk Shot,DUNKS,,1998
+Stacey Augmon,278,Hook Shot,2,17,6,Hook Shot,POST_MOVES,,1998
+Stacey Augmon,278,Jump Shot,2,164,42,Jump Shot,JUMP_SHOTS,,1998
+Stacey Augmon,278,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,1998
+Stacey Augmon,278,Standard Layup,2,90,44,Layup Shot,LAYUPS,,1998
+Stacey Augmon,278,Running Jump Shot,2,14,7,Running Jump Shot,JUMP_SHOTS,,1998
+Stacey Augmon,278,Standard Dunk,2,13,13,Slam Dunk Shot,DUNKS,,1998
+Stacey Augmon,278,Tip Shot,2,12,4,Tip Shot,TIP_SHOTS,,1998
+Stacey Augmon,278,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,1999
+Stacey Augmon,278,Driving Layup,2,15,5,Driving Layup Shot,LAYUPS,,1999
+Stacey Augmon,278,Standard Dunk,2,12,9,Dunk Shot,DUNKS,,1999
+Stacey Augmon,278,Jump Shot,2,99,37,Jump Shot,JUMP_SHOTS,,1999
+Stacey Augmon,278,Standard Layup,2,32,14,Layup Shot,LAYUPS,,1999
+Stacey Augmon,278,Running Jump Shot,2,4,3,Running Jump Shot,JUMP_SHOTS,,1999
+Stacey Augmon,278,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,1999
+Stacey Augmon,278,Tip Shot,2,4,2,Tip Shot,TIP_SHOTS,,1999
+Stacey Augmon,278,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2000
+Stacey Augmon,278,Driving Layup,2,13,6,Driving Layup Shot,LAYUPS,,2000
+Stacey Augmon,278,Standard Dunk,2,7,7,Dunk Shot,DUNKS,,2000
+Stacey Augmon,278,Hook Shot,2,4,2,Hook Shot,POST_MOVES,,2000
+Stacey Augmon,278,Jump Shot,2,99,34,Jump Shot,JUMP_SHOTS,,2000
+Stacey Augmon,278,Standard Layup,2,43,28,Layup Shot,LAYUPS,,2000
+Stacey Augmon,278,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2000
+Stacey Augmon,278,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2000
+Stacey Augmon,278,Tip Shot,2,4,3,Tip Shot,TIP_SHOTS,,2000
+Stacey Augmon,278,Alley Oop Dunk,2,3,3,Alley Oop Dunk Shot,DUNKS,,2001
+Stacey Augmon,278,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2001
+Stacey Augmon,278,Finger Roll,2,1,0,Driving Finger Roll Shot,LAYUPS,,2001
+Stacey Augmon,278,Driving Layup,2,12,7,Driving Layup Shot,LAYUPS,,2001
+Stacey Augmon,278,Standard Dunk,2,14,13,Dunk Shot,DUNKS,,2001
+Stacey Augmon,278,Hook Shot,2,4,2,Hook Shot,POST_MOVES,,2001
+Stacey Augmon,278,Jump Shot,2,159,63,Jump Shot,JUMP_SHOTS,,2001
+Stacey Augmon,278,Standard Layup,2,42,18,Layup Shot,LAYUPS,,2001
+Stacey Augmon,278,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2001
+Stacey Augmon,278,Reverse Layup,2,6,4,Reverse Layup Shot,LAYUPS,,2001
+Stacey Augmon,278,Running Jump Shot,2,4,3,Running Jump Shot,JUMP_SHOTS,,2001
+Stacey Augmon,278,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2001
+Stacey Augmon,278,Tip Shot,2,8,3,Tip Shot,TIP_SHOTS,,2001
+Stacey Augmon,278,Turnaround Jump Shot,2,7,5,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Stacey Augmon,278,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2002
+Stacey Augmon,278,Driving Layup,2,4,3,Driving Layup Shot,LAYUPS,,2002
+Stacey Augmon,278,Standard Dunk,2,12,11,Dunk Shot,DUNKS,,2002
+Stacey Augmon,278,Fadeaway Jump Shot,2,3,2,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Stacey Augmon,278,Hook Shot,2,3,1,Hook Shot,POST_MOVES,,2002
+Stacey Augmon,278,Jump Shot,2,218,78,Jump Shot,JUMP_SHOTS,,2002
+Stacey Augmon,278,Standard Layup,2,57,24,Layup Shot,LAYUPS,,2002
+Stacey Augmon,278,Reverse Layup,2,9,7,Reverse Layup Shot,LAYUPS,,2002
+Stacey Augmon,278,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2002
+Stacey Augmon,278,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,2002
+Stacey Augmon,278,Tip Shot,2,9,2,Tip Shot,TIP_SHOTS,,2002
+Stacey Augmon,278,Turnaround Jump Shot,2,6,5,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Stacey Augmon,278,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2003
+Stacey Augmon,278,Finger Roll,2,4,2,Driving Finger Roll Shot,LAYUPS,,2003
+Stacey Augmon,278,Driving Layup,2,5,5,Driving Layup Shot,LAYUPS,,2003
+Stacey Augmon,278,Standard Dunk,2,6,6,Dunk Shot,DUNKS,,2003
+Stacey Augmon,278,Fadeaway Jump Shot,2,6,6,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Stacey Augmon,278,Hook Shot,2,6,4,Hook Shot,POST_MOVES,,2003
+Stacey Augmon,278,Jump Shot,2,107,25,Jump Shot,JUMP_SHOTS,,2003
+Stacey Augmon,278,Standard Layup,2,42,17,Layup Shot,LAYUPS,,2003
+Stacey Augmon,278,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2003
+Stacey Augmon,278,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2003
+Stacey Augmon,278,Tip Shot,2,3,3,Tip Shot,TIP_SHOTS,,2003
+Stacey Augmon,278,Turnaround Jump Shot,2,7,5,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Stacey Augmon,278,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2004
+Stacey Augmon,278,Driving Layup,2,7,5,Driving Layup Shot,LAYUPS,,2004
+Stacey Augmon,278,Standard Dunk,2,8,7,Dunk Shot,DUNKS,,2004
+Stacey Augmon,278,Fadeaway Jump Shot,2,15,10,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Stacey Augmon,278,Hook Shot,2,4,1,Hook Shot,POST_MOVES,,2004
+Stacey Augmon,278,Jump Shot,2,4,2,Jump Bank Shot,JUMP_SHOTS,,2004
+Stacey Augmon,278,Hook Shot,2,2,0,Jump Hook Shot,POST_MOVES,,2004
+Stacey Augmon,278,Jump Shot,2,176,45,Jump Shot,JUMP_SHOTS,,2004
+Stacey Augmon,278,Standard Layup,2,97,53,Layup Shot,LAYUPS,,2004
+Stacey Augmon,278,Reverse Layup,2,5,2,Reverse Layup Shot,LAYUPS,,2004
+Stacey Augmon,278,Finger Roll,2,1,0,Running Finger Roll Shot,LAYUPS,,2004
+Stacey Augmon,278,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2004
+Stacey Augmon,278,Running Jump Shot,2,4,2,Running Jump Shot,JUMP_SHOTS,,2004
+Stacey Augmon,278,Standard Layup,2,4,2,Running Layup Shot,LAYUPS,,2004
+Stacey Augmon,278,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2004
+Stacey Augmon,278,Tip Shot,2,5,2,Tip Shot,TIP_SHOTS,,2004
+Stacey Augmon,278,Turnaround Jump Shot,2,10,8,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Stacey Augmon,278,Driving Layup,2,3,2,Driving Layup Shot,LAYUPS,,2005
+Stacey Augmon,278,Standard Dunk,2,7,5,Dunk Shot,DUNKS,,2005
+Stacey Augmon,278,Fadeaway Jump Shot,2,9,3,Fadeaway Jump Shot,JUMP_SHOTS,,2005
+Stacey Augmon,278,Hook Shot,2,13,4,Hook Shot,POST_MOVES,,2005
+Stacey Augmon,278,Jump Shot,2,3,3,Jump Bank Shot,JUMP_SHOTS,,2005
+Stacey Augmon,278,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2005
+Stacey Augmon,278,Jump Shot,2,70,18,Jump Shot,JUMP_SHOTS,,2005
+Stacey Augmon,278,Standard Layup,2,39,18,Layup Shot,LAYUPS,,2005
+Stacey Augmon,278,Reverse Dunk,2,1,0,Reverse Dunk Shot,DUNKS,,2005
+Stacey Augmon,278,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2005
+Stacey Augmon,278,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2005
+Stacey Augmon,278,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2005
+Stacey Augmon,278,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,,2005
+Stacey Augmon,278,Turnaround Jump Shot,2,13,8,Turnaround Jump Shot,JUMP_SHOTS,,2005
+Stacey Augmon,278,Driving Layup,2,3,1,Driving Layup Shot,LAYUPS,,2006
+Stacey Augmon,278,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2006
+Stacey Augmon,278,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2006
+Stacey Augmon,278,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2006
+Stacey Augmon,278,Hook Shot,2,2,0,Jump Hook Shot,POST_MOVES,,2006
+Stacey Augmon,278,Jump Shot,2,38,9,Jump Shot,JUMP_SHOTS,,2006
+Stacey Augmon,278,Standard Layup,2,19,10,Layup Shot,LAYUPS,,2006
+Stacey Augmon,278,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2006
+Stacey Augmon,278,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2006
+Stacey Augmon,278,Turnaround Jump Shot,2,4,1,Turnaround Jump Shot,JUMP_SHOTS,,2006

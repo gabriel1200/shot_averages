@@ -1,91 +1,275 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1905,Alley Oop Dunk,2PT Field Goal,2,2,Alley Oop Dunk Shot,DUNKS,1.0,2002
-1905,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2002
-1905,Driving Layup,2PT Field Goal,2,2,Driving Layup Shot,LAYUPS,1.0,2002
-1905,Standard Dunk,2PT Field Goal,9,7,Dunk Shot,DUNKS,0.7777777777777778,2002
-1905,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2002
-1905,Jump Shot,2PT Field Goal,15,2,Jump Shot,JUMP_SHOTS,0.1333333333333333,2002
-1905,Jump Shot,3PT Field Goal,5,1,Jump Shot,JUMP_SHOTS,0.3,2002
-1905,Standard Layup,2PT Field Goal,21,7,Layup Shot,LAYUPS,0.3333333333333333,2002
-1905,Reverse Layup,2PT Field Goal,2,1,Reverse Layup Shot,LAYUPS,0.5,2002
-1905,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2002
-1905,Running Hook Shot,2PT Field Goal,1,0,Running Hook Shot,POST_MOVES,0.0,2002
-1905,Standard Dunk,2PT Field Goal,3,3,Slam Dunk Shot,DUNKS,1.0,2002
-1905,Tip Shot,2PT Field Goal,2,1,Tip Shot,TIP_SHOTS,0.5,2002
-1905,Alley Oop Dunk,2PT Field Goal,4,4,Alley Oop Dunk Shot,DUNKS,1.0,2003
-1905,Alley Oop Layup,2PT Field Goal,1,0,Alley Oop Layup shot,LAYUPS,0.0,2003
-1905,Driving Dunk,2PT Field Goal,2,2,Driving Dunk Shot,DUNKS,1.0,2003
-1905,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2003
-1905,Standard Dunk,2PT Field Goal,5,5,Dunk Shot,DUNKS,1.0,2003
-1905,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2003
-1905,Jump Shot,2PT Field Goal,32,4,Jump Shot,JUMP_SHOTS,0.125,2003
-1905,Jump Shot,3PT Field Goal,18,6,Jump Shot,JUMP_SHOTS,0.5,2003
-1905,Standard Layup,2PT Field Goal,17,9,Layup Shot,LAYUPS,0.5294117647058824,2003
-1905,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2003
-1905,Tip Shot,2PT Field Goal,7,5,Tip Shot,TIP_SHOTS,0.7142857142857143,2003
-1905,Driving Dunk,2PT Field Goal,3,2,Driving Dunk Shot,DUNKS,0.6666666666666666,2004
-1905,Driving Layup,2PT Field Goal,11,7,Driving Layup Shot,LAYUPS,0.6363636363636364,2004
-1905,Standard Dunk,2PT Field Goal,10,10,Dunk Shot,DUNKS,1.0,2004
-1905,Fadeaway Jump Shot,2PT Field Goal,3,1,Fadeaway Jump Shot,JUMP_SHOTS,0.3333333333333333,2004
-1905,Jump Shot,2PT Field Goal,35,12,Jump Shot,JUMP_SHOTS,0.3428571428571428,2004
-1905,Jump Shot,3PT Field Goal,30,12,Jump Shot,JUMP_SHOTS,0.6,2004
-1905,Standard Layup,2PT Field Goal,29,9,Layup Shot,LAYUPS,0.3103448275862069,2004
-1905,Running Jump Shot,2PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.5,2004
-1905,Standard Dunk,2PT Field Goal,3,3,Slam Dunk Shot,DUNKS,1.0,2004
-1905,Tip Shot,2PT Field Goal,5,1,Tip Shot,TIP_SHOTS,0.2,2004
-1905,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2004
-1905,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2005
-1905,Driving Layup,2PT Field Goal,2,2,Driving Layup Shot,LAYUPS,1.0,2005
-1905,Fadeaway Jump Shot,2PT Field Goal,2,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2005
-1905,Specialty Dunk,2PT Field Goal,1,1,Follow Up Dunk Shot,DUNKS,1.0,2005
-1905,Jump Shot,2PT Field Goal,8,2,Jump Shot,JUMP_SHOTS,0.25,2005
-1905,Jump Shot,3PT Field Goal,4,2,Jump Shot,JUMP_SHOTS,0.75,2005
-1905,Standard Layup,2PT Field Goal,6,3,Layup Shot,LAYUPS,0.5,2005
-1905,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2005
-1905,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2006
-1905,Driving Layup,2PT Field Goal,2,2,Driving Layup Shot,LAYUPS,1.0,2006
-1905,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2006
-1905,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2006
-1905,Jump Shot,2PT Field Goal,19,4,Jump Shot,JUMP_SHOTS,0.2105263157894736,2006
-1905,Jump Shot,3PT Field Goal,4,4,Jump Shot,JUMP_SHOTS,1.5,2006
-1905,Standard Layup,2PT Field Goal,10,2,Layup Shot,LAYUPS,0.2,2006
-1905,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2006
-1905,Standard Dunk,2PT Field Goal,3,3,Slam Dunk Shot,DUNKS,1.0,2006
-1905,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2006
-1905,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2007
-1905,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2007
-1905,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2007
-1905,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2008
-1905,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2010
-1905,Jump Shot,2PT Field Goal,9,6,Jump Shot,JUMP_SHOTS,0.6666666666666666,2010
-1905,Jump Shot,3PT Field Goal,6,1,Jump Shot,JUMP_SHOTS,0.25,2010
-1905,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2010
-1905,Putback Dunk,2PT Field Goal,1,1,Putback Dunk Shot,DUNKS,1.0,2010
-1905,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2010
-1905,Tip Shot,2PT Field Goal,2,1,Tip Shot,TIP_SHOTS,0.5,2010
-1905,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2010
-1905,Alley Oop Dunk,2PT Field Goal,1,0,Alley Oop Dunk Shot,DUNKS,0.0,2011
-1905,Alley Oop Layup,2PT Field Goal,1,1,Alley Oop Layup shot,LAYUPS,1.0,2011
-1905,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2011
-1905,Jump Shot,2PT Field Goal,5,2,Jump Shot,JUMP_SHOTS,0.4,2011
-1905,Jump Shot,3PT Field Goal,3,2,Jump Shot,JUMP_SHOTS,1.0,2011
-1905,Standard Layup,2PT Field Goal,5,3,Layup Shot,LAYUPS,0.6,2011
-1905,Standard Dunk,2PT Field Goal,2,2,Slam Dunk Shot,DUNKS,1.0,2011
-1905,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2011
-1905,Alley Oop Dunk,2PT Field Goal,2,2,Alley Oop Dunk Shot,DUNKS,1.0,2013
-1905,Alley Oop Layup,2PT Field Goal,2,2,Alley Oop Layup shot,LAYUPS,1.0,2013
-1905,Driving Dunk,2PT Field Goal,4,4,Driving Dunk Shot,DUNKS,1.0,2013
-1905,Driving Layup,2PT Field Goal,6,3,Driving Layup Shot,LAYUPS,0.5,2013
-1905,Standard Dunk,2PT Field Goal,8,8,Dunk Shot,DUNKS,1.0,2013
-1905,Fadeaway Jump Shot,2PT Field Goal,2,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2013
-1905,Jump Shot,2PT Field Goal,16,6,Jump Shot,JUMP_SHOTS,0.375,2013
-1905,Jump Shot,3PT Field Goal,12,7,Jump Shot,JUMP_SHOTS,0.875,2013
-1905,Standard Layup,2PT Field Goal,19,7,Layup Shot,LAYUPS,0.3684210526315789,2013
-1905,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2013
-1905,Reverse Layup,2PT Field Goal,2,1,Reverse Layup Shot,LAYUPS,0.5,2013
-1905,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2013
-1905,Tip Shot,2PT Field Goal,1,1,Running Tip Shot,TIP_SHOTS,1.0,2013
-1905,Tip Shot,2PT Field Goal,2,1,Tip Shot,TIP_SHOTS,0.5,2013
-1905,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2014
-1905,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2014
-1905,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2014
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Andrei Kirilenko,1905,Alley Oop Dunk,2,4,4,Alley Oop Dunk Shot,DUNKS,,2002
+Andrei Kirilenko,1905,Alley Oop Layup,2,4,3,Alley Oop Layup shot,LAYUPS,,2002
+Andrei Kirilenko,1905,Driving Dunk,2,3,2,Driving Dunk Shot,DUNKS,,2002
+Andrei Kirilenko,1905,Driving Layup,2,30,19,Driving Layup Shot,LAYUPS,,2002
+Andrei Kirilenko,1905,Standard Dunk,2,68,61,Dunk Shot,DUNKS,,2002
+Andrei Kirilenko,1905,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Andrei Kirilenko,1905,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2002
+Andrei Kirilenko,1905,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2002
+Andrei Kirilenko,1905,Jump Shot,2,208,45,Jump Shot,JUMP_SHOTS,,2002
+Andrei Kirilenko,1905,Jump Shot,3,43,13,Jump Shot,JUMP_SHOTS,,2002
+Andrei Kirilenko,1905,Standard Layup,2,186,80,Layup Shot,LAYUPS,,2002
+Andrei Kirilenko,1905,Reverse Dunk,2,3,3,Reverse Dunk Shot,DUNKS,,2002
+Andrei Kirilenko,1905,Reverse Layup,2,10,5,Reverse Layup Shot,LAYUPS,,2002
+Andrei Kirilenko,1905,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2002
+Andrei Kirilenko,1905,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2002
+Andrei Kirilenko,1905,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2002
+Andrei Kirilenko,1905,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2002
+Andrei Kirilenko,1905,Standard Dunk,2,29,28,Slam Dunk Shot,DUNKS,,2002
+Andrei Kirilenko,1905,Tip Shot,2,33,15,Tip Shot,TIP_SHOTS,,2002
+Andrei Kirilenko,1905,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Andrei Kirilenko,1905,Alley Oop Dunk,2,27,26,Alley Oop Dunk Shot,DUNKS,,2003
+Andrei Kirilenko,1905,Alley Oop Layup,2,7,4,Alley Oop Layup shot,LAYUPS,,2003
+Andrei Kirilenko,1905,Driving Dunk,2,9,9,Driving Dunk Shot,DUNKS,,2003
+Andrei Kirilenko,1905,Driving Layup,2,16,12,Driving Layup Shot,LAYUPS,,2003
+Andrei Kirilenko,1905,Standard Dunk,2,54,52,Dunk Shot,DUNKS,,2003
+Andrei Kirilenko,1905,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Andrei Kirilenko,1905,Specialty Dunk,2,2,1,Follow Up Dunk Shot,DUNKS,,2003
+Andrei Kirilenko,1905,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2003
+Andrei Kirilenko,1905,Jump Shot,2,248,70,Jump Shot,JUMP_SHOTS,,2003
+Andrei Kirilenko,1905,Jump Shot,3,67,22,Jump Shot,JUMP_SHOTS,,2003
+Andrei Kirilenko,1905,Standard Layup,2,127,63,Layup Shot,LAYUPS,,2003
+Andrei Kirilenko,1905,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2003
+Andrei Kirilenko,1905,Reverse Layup,2,10,5,Reverse Layup Shot,LAYUPS,,2003
+Andrei Kirilenko,1905,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2003
+Andrei Kirilenko,1905,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2003
+Andrei Kirilenko,1905,Running Jump Shot,2,5,3,Running Jump Shot,JUMP_SHOTS,,2003
+Andrei Kirilenko,1905,Standard Dunk,2,19,19,Slam Dunk Shot,DUNKS,,2003
+Andrei Kirilenko,1905,Tip Shot,2,41,24,Tip Shot,TIP_SHOTS,,2003
+Andrei Kirilenko,1905,Turnaround Jump Shot,2,3,2,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Andrei Kirilenko,1905,Alley Oop Dunk,2,4,4,Alley Oop Dunk Shot,DUNKS,,2004
+Andrei Kirilenko,1905,Alley Oop Layup,2,4,3,Alley Oop Layup shot,LAYUPS,,2004
+Andrei Kirilenko,1905,Driving Dunk,2,16,14,Driving Dunk Shot,DUNKS,,2004
+Andrei Kirilenko,1905,Driving Layup,2,55,39,Driving Layup Shot,LAYUPS,,2004
+Andrei Kirilenko,1905,Standard Dunk,2,51,49,Dunk Shot,DUNKS,,2004
+Andrei Kirilenko,1905,Fadeaway Jump Shot,2,20,8,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Andrei Kirilenko,1905,Finger Roll,2,1,0,Finger Roll Shot,LAYUPS,,2004
+Andrei Kirilenko,1905,Specialty Dunk,2,5,4,Follow Up Dunk Shot,DUNKS,,2004
+Andrei Kirilenko,1905,Jump Shot,2,4,2,Jump Bank Shot,JUMP_SHOTS,,2004
+Andrei Kirilenko,1905,Jump Shot,2,275,72,Jump Shot,JUMP_SHOTS,,2004
+Andrei Kirilenko,1905,Jump Shot,3,122,38,Jump Shot,JUMP_SHOTS,,2004
+Andrei Kirilenko,1905,Standard Layup,2,252,102,Layup Shot,LAYUPS,,2004
+Andrei Kirilenko,1905,Reverse Dunk,2,2,2,Reverse Dunk Shot,DUNKS,,2004
+Andrei Kirilenko,1905,Reverse Layup,2,6,3,Reverse Layup Shot,LAYUPS,,2004
+Andrei Kirilenko,1905,Standard Dunk,2,3,2,Running Dunk Shot,DUNKS,,2004
+Andrei Kirilenko,1905,Running Hook Shot,2,2,2,Running Hook Shot,POST_MOVES,,2004
+Andrei Kirilenko,1905,Running Jump Shot,2,10,3,Running Jump Shot,JUMP_SHOTS,,2004
+Andrei Kirilenko,1905,Tip Shot,2,1,1,Running Tip Shot,TIP_SHOTS,,2004
+Andrei Kirilenko,1905,Standard Dunk,2,25,25,Slam Dunk Shot,DUNKS,,2004
+Andrei Kirilenko,1905,Tip Shot,2,63,32,Tip Shot,TIP_SHOTS,,2004
+Andrei Kirilenko,1905,Turnaround Jump Shot,2,10,7,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Andrei Kirilenko,1905,Alley Oop Dunk,2,5,5,Alley Oop Dunk Shot,DUNKS,,2005
+Andrei Kirilenko,1905,Driving Dunk,2,6,6,Driving Dunk Shot,DUNKS,,2005
+Andrei Kirilenko,1905,Driving Layup,2,13,10,Driving Layup Shot,LAYUPS,,2005
+Andrei Kirilenko,1905,Standard Dunk,2,20,18,Dunk Shot,DUNKS,,2005
+Andrei Kirilenko,1905,Fadeaway Jump Shot,2,12,5,Fadeaway Jump Shot,JUMP_SHOTS,,2005
+Andrei Kirilenko,1905,Specialty Dunk,2,6,6,Follow Up Dunk Shot,DUNKS,,2005
+Andrei Kirilenko,1905,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2005
+Andrei Kirilenko,1905,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2005
+Andrei Kirilenko,1905,Jump Shot,2,169,58,Jump Shot,JUMP_SHOTS,,2005
+Andrei Kirilenko,1905,Jump Shot,3,25,6,Jump Shot,JUMP_SHOTS,,2005
+Andrei Kirilenko,1905,Standard Layup,2,100,52,Layup Shot,LAYUPS,,2005
+Andrei Kirilenko,1905,Reverse Layup,2,5,2,Reverse Layup Shot,LAYUPS,,2005
+Andrei Kirilenko,1905,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2005
+Andrei Kirilenko,1905,Running Jump Shot,2,9,6,Running Jump Shot,JUMP_SHOTS,,2005
+Andrei Kirilenko,1905,Running Jump Shot,3,2,0,Running Jump Shot,JUMP_SHOTS,,2005
+Andrei Kirilenko,1905,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2005
+Andrei Kirilenko,1905,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,2005
+Andrei Kirilenko,1905,Tip Shot,2,21,11,Tip Shot,TIP_SHOTS,,2005
+Andrei Kirilenko,1905,Turnaround Jump Shot,2,13,10,Turnaround Jump Shot,JUMP_SHOTS,,2005
+Andrei Kirilenko,1905,Alley Oop Dunk,2,3,3,Alley Oop Dunk Shot,DUNKS,,2006
+Andrei Kirilenko,1905,Alley Oop Layup,2,4,3,Alley Oop Layup shot,LAYUPS,,2006
+Andrei Kirilenko,1905,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2006
+Andrei Kirilenko,1905,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2006
+Andrei Kirilenko,1905,Driving Layup,2,57,41,Driving Layup Shot,LAYUPS,,2006
+Andrei Kirilenko,1905,Standard Dunk,2,43,43,Dunk Shot,DUNKS,,2006
+Andrei Kirilenko,1905,Fadeaway Jump Shot,2,7,5,Fadeaway Jump Shot,JUMP_SHOTS,,2006
+Andrei Kirilenko,1905,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2006
+Andrei Kirilenko,1905,Specialty Dunk,2,7,6,Follow Up Dunk Shot,DUNKS,,2006
+Andrei Kirilenko,1905,Jump Shot,2,7,6,Jump Bank Shot,JUMP_SHOTS,,2006
+Andrei Kirilenko,1905,Jump Shot,2,302,82,Jump Shot,JUMP_SHOTS,,2006
+Andrei Kirilenko,1905,Jump Shot,3,32,11,Jump Shot,JUMP_SHOTS,,2006
+Andrei Kirilenko,1905,Standard Layup,2,178,83,Layup Shot,LAYUPS,,2006
+Andrei Kirilenko,1905,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2006
+Andrei Kirilenko,1905,Running Jump Shot,2,15,6,Running Jump Shot,JUMP_SHOTS,,2006
+Andrei Kirilenko,1905,Standard Dunk,2,16,15,Slam Dunk Shot,DUNKS,,2006
+Andrei Kirilenko,1905,Tip Shot,2,41,20,Tip Shot,TIP_SHOTS,,2006
+Andrei Kirilenko,1905,Turnaround Jump Shot,2,9,4,Turnaround Jump Shot,JUMP_SHOTS,,2006
+Andrei Kirilenko,1905,Alley Oop Dunk,2,3,3,Alley Oop Dunk Shot,DUNKS,,2007
+Andrei Kirilenko,1905,Alley Oop Layup,2,3,2,Alley Oop Layup shot,LAYUPS,,2007
+Andrei Kirilenko,1905,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2007
+Andrei Kirilenko,1905,Driving Layup,2,20,18,Driving Layup Shot,LAYUPS,,2007
+Andrei Kirilenko,1905,Standard Dunk,2,33,33,Dunk Shot,DUNKS,,2007
+Andrei Kirilenko,1905,Fadeaway Jump Shot,2,3,0,Fadeaway Jump Shot,JUMP_SHOTS,,2007
+Andrei Kirilenko,1905,Specialty Dunk,2,4,4,Follow Up Dunk Shot,DUNKS,,2007
+Andrei Kirilenko,1905,Jump Shot,2,4,4,Jump Bank Shot,JUMP_SHOTS,,2007
+Andrei Kirilenko,1905,Jump Shot,2,192,49,Jump Shot,JUMP_SHOTS,,2007
+Andrei Kirilenko,1905,Jump Shot,3,8,0,Jump Shot,JUMP_SHOTS,,2007
+Andrei Kirilenko,1905,Standard Layup,2,107,52,Layup Shot,LAYUPS,,2007
+Andrei Kirilenko,1905,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2007
+Andrei Kirilenko,1905,Reverse Layup,2,10,9,Reverse Layup Shot,LAYUPS,,2007
+Andrei Kirilenko,1905,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2007
+Andrei Kirilenko,1905,Standard Dunk,2,9,9,Slam Dunk Shot,DUNKS,,2007
+Andrei Kirilenko,1905,Tip Shot,2,16,10,Tip Shot,TIP_SHOTS,,2007
+Andrei Kirilenko,1905,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2007
+Andrei Kirilenko,1905,Alley Oop Dunk,2,6,6,Alley Oop Dunk Shot,DUNKS,,2008
+Andrei Kirilenko,1905,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2008
+Andrei Kirilenko,1905,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2008
+Andrei Kirilenko,1905,Driving Layup,2,20,13,Driving Layup Shot,LAYUPS,,2008
+Andrei Kirilenko,1905,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2008
+Andrei Kirilenko,1905,Standard Dunk,2,32,30,Dunk Shot,DUNKS,,2008
+Andrei Kirilenko,1905,Fadeaway Jump Shot,2,5,0,Fadeaway Jump Shot,JUMP_SHOTS,,2008
+Andrei Kirilenko,1905,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2008
+Andrei Kirilenko,1905,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2008
+Andrei Kirilenko,1905,Jump Shot,2,293,108,Jump Shot,JUMP_SHOTS,,2008
+Andrei Kirilenko,1905,Jump Shot,3,3,0,Jump Shot,JUMP_SHOTS,,2008
+Andrei Kirilenko,1905,Standard Layup,2,105,59,Layup Shot,LAYUPS,,2008
+Andrei Kirilenko,1905,Putback Dunk,2,4,4,Putback Dunk Shot,DUNKS,,2008
+Andrei Kirilenko,1905,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2008
+Andrei Kirilenko,1905,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2008
+Andrei Kirilenko,1905,Reverse Layup,2,9,6,Reverse Layup Shot,LAYUPS,,2008
+Andrei Kirilenko,1905,Standard Dunk,2,4,4,Running Dunk Shot,DUNKS,,2008
+Andrei Kirilenko,1905,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2008
+Andrei Kirilenko,1905,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2008
+Andrei Kirilenko,1905,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2008
+Andrei Kirilenko,1905,Standard Dunk,2,11,11,Slam Dunk Shot,DUNKS,,2008
+Andrei Kirilenko,1905,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2008
+Andrei Kirilenko,1905,Tip Shot,2,34,21,Tip Shot,TIP_SHOTS,,2008
+Andrei Kirilenko,1905,Turnaround Jump Shot,2,4,1,Turnaround Jump Shot,JUMP_SHOTS,,2008
+Andrei Kirilenko,1905,Alley Oop Dunk,2,5,5,Alley Oop Dunk Shot,DUNKS,,2009
+Andrei Kirilenko,1905,Alley Oop Layup,2,5,4,Alley Oop Layup shot,LAYUPS,,2009
+Andrei Kirilenko,1905,Driving Dunk,2,6,5,Driving Dunk Shot,DUNKS,,2009
+Andrei Kirilenko,1905,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2009
+Andrei Kirilenko,1905,Driving Layup,2,37,23,Driving Layup Shot,LAYUPS,,2009
+Andrei Kirilenko,1905,Standard Dunk,2,37,35,Dunk Shot,DUNKS,,2009
+Andrei Kirilenko,1905,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2009
+Andrei Kirilenko,1905,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2009
+Andrei Kirilenko,1905,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2009
+Andrei Kirilenko,1905,Jump Shot,2,4,0,Jump Bank Shot,JUMP_SHOTS,,2009
+Andrei Kirilenko,1905,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2009
+Andrei Kirilenko,1905,Jump Shot,2,281,91,Jump Shot,JUMP_SHOTS,,2009
+Andrei Kirilenko,1905,Standard Layup,2,121,55,Layup Shot,LAYUPS,,2009
+Andrei Kirilenko,1905,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2009
+Andrei Kirilenko,1905,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2009
+Andrei Kirilenko,1905,Reverse Layup,2,8,6,Reverse Layup Shot,LAYUPS,,2009
+Andrei Kirilenko,1905,Reverse Dunk,2,1,1,Reverse Slam Dunk Shot,DUNKS,,2009
+Andrei Kirilenko,1905,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2009
+Andrei Kirilenko,1905,Running Jump Shot,2,9,4,Running Jump Shot,JUMP_SHOTS,,2009
+Andrei Kirilenko,1905,Standard Layup,2,2,0,Running Layup Shot,LAYUPS,,2009
+Andrei Kirilenko,1905,Standard Dunk,2,10,10,Slam Dunk Shot,DUNKS,,2009
+Andrei Kirilenko,1905,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2009
+Andrei Kirilenko,1905,Tip Shot,2,25,8,Tip Shot,TIP_SHOTS,,2009
+Andrei Kirilenko,1905,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2009
+Andrei Kirilenko,1905,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2009
+Andrei Kirilenko,1905,Turnaround Jump Shot,2,5,3,Turnaround Jump Shot,JUMP_SHOTS,,2009
+Andrei Kirilenko,1905,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2010
+Andrei Kirilenko,1905,Driving Dunk,2,8,8,Driving Dunk Shot,DUNKS,,2010
+Andrei Kirilenko,1905,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2010
+Andrei Kirilenko,1905,Driving Layup,2,14,11,Driving Layup Shot,LAYUPS,,2010
+Andrei Kirilenko,1905,Driving Dunk,2,3,3,Driving Slam Dunk Shot,DUNKS,,2010
+Andrei Kirilenko,1905,Standard Dunk,2,27,25,Dunk Shot,DUNKS,,2010
+Andrei Kirilenko,1905,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+Andrei Kirilenko,1905,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2010
+Andrei Kirilenko,1905,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2010
+Andrei Kirilenko,1905,Jump Shot,2,241,81,Jump Shot,JUMP_SHOTS,,2010
+Andrei Kirilenko,1905,Jump Shot,3,8,1,Jump Shot,JUMP_SHOTS,,2010
+Andrei Kirilenko,1905,Standard Layup,2,88,47,Layup Shot,LAYUPS,,2010
+Andrei Kirilenko,1905,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2010
+Andrei Kirilenko,1905,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2010
+Andrei Kirilenko,1905,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2010
+Andrei Kirilenko,1905,Putback Dunk,2,1,1,Putback Slam Dunk Shot,DUNKS,,2010
+Andrei Kirilenko,1905,Reverse Layup,2,6,4,Reverse Layup Shot,LAYUPS,,2010
+Andrei Kirilenko,1905,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2010
+Andrei Kirilenko,1905,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2010
+Andrei Kirilenko,1905,Running Jump Shot,2,6,1,Running Jump Shot,JUMP_SHOTS,,2010
+Andrei Kirilenko,1905,Standard Layup,2,4,3,Running Layup Shot,LAYUPS,,2010
+Andrei Kirilenko,1905,Standard Dunk,2,2,2,Running Slam Dunk Shot,DUNKS,,2010
+Andrei Kirilenko,1905,Standard Dunk,2,31,31,Slam Dunk Shot,DUNKS,,2010
+Andrei Kirilenko,1905,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2010
+Andrei Kirilenko,1905,Tip Shot,2,26,12,Tip Shot,TIP_SHOTS,,2010
+Andrei Kirilenko,1905,Turnaround Jump Shot,2,2,2,Turnaround Jump Shot,JUMP_SHOTS,,2010
+Andrei Kirilenko,1905,Alley Oop Dunk,2,8,7,Alley Oop Dunk Shot,DUNKS,,2011
+Andrei Kirilenko,1905,Alley Oop Layup,2,5,2,Alley Oop Layup shot,LAYUPS,,2011
+Andrei Kirilenko,1905,Driving Dunk,2,4,3,Driving Dunk Shot,DUNKS,,2011
+Andrei Kirilenko,1905,Driving Jump Shot,2,1,1,Driving Jump shot,JUMP_SHOTS,,2011
+Andrei Kirilenko,1905,Driving Layup,2,23,15,Driving Layup Shot,LAYUPS,,2011
+Andrei Kirilenko,1905,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2011
+Andrei Kirilenko,1905,Driving Dunk,2,2,2,Driving Slam Dunk Shot,DUNKS,,2011
+Andrei Kirilenko,1905,Standard Dunk,2,40,38,Dunk Shot,DUNKS,,2011
+Andrei Kirilenko,1905,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Andrei Kirilenko,1905,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2011
+Andrei Kirilenko,1905,Jump Shot,2,7,5,Jump Bank Shot,JUMP_SHOTS,,2011
+Andrei Kirilenko,1905,Jump Shot,2,270,84,Jump Shot,JUMP_SHOTS,,2011
+Andrei Kirilenko,1905,Jump Shot,3,8,4,Jump Shot,JUMP_SHOTS,,2011
+Andrei Kirilenko,1905,Standard Layup,2,110,48,Layup Shot,LAYUPS,,2011
+Andrei Kirilenko,1905,Pullup Jump Shot,3,1,1,Pullup Jump shot,JUMP_SHOTS,,2011
+Andrei Kirilenko,1905,Putback Dunk,2,4,4,Putback Dunk Shot,DUNKS,,2011
+Andrei Kirilenko,1905,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2011
+Andrei Kirilenko,1905,Reverse Layup,2,4,2,Reverse Layup Shot,LAYUPS,,2011
+Andrei Kirilenko,1905,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2011
+Andrei Kirilenko,1905,Running Jump Shot,2,6,3,Running Jump Shot,JUMP_SHOTS,,2011
+Andrei Kirilenko,1905,Standard Layup,2,2,0,Running Layup Shot,LAYUPS,,2011
+Andrei Kirilenko,1905,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2011
+Andrei Kirilenko,1905,Standard Dunk,2,13,13,Slam Dunk Shot,DUNKS,,2011
+Andrei Kirilenko,1905,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2011
+Andrei Kirilenko,1905,Tip Shot,2,21,12,Tip Shot,TIP_SHOTS,,2011
+Andrei Kirilenko,1905,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2011
+Andrei Kirilenko,1905,Turnaround Jump Shot,2,3,2,Turnaround Jump Shot,JUMP_SHOTS,,2011
+Andrei Kirilenko,1905,Alley Oop Dunk,2,16,15,Alley Oop Dunk Shot,DUNKS,,2013
+Andrei Kirilenko,1905,Alley Oop Layup,2,15,11,Alley Oop Layup shot,LAYUPS,,2013
+Andrei Kirilenko,1905,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2013
+Andrei Kirilenko,1905,Driving Dunk,2,11,10,Driving Dunk Shot,DUNKS,,2013
+Andrei Kirilenko,1905,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2013
+Andrei Kirilenko,1905,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2013
+Andrei Kirilenko,1905,Driving Jump Shot,2,3,1,Driving Jump shot,JUMP_SHOTS,,2013
+Andrei Kirilenko,1905,Driving Layup,2,44,28,Driving Layup Shot,LAYUPS,,2013
+Andrei Kirilenko,1905,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2013
+Andrei Kirilenko,1905,Driving Dunk,2,3,3,Driving Slam Dunk Shot,DUNKS,,2013
+Andrei Kirilenko,1905,Standard Dunk,2,41,39,Dunk Shot,DUNKS,,2013
+Andrei Kirilenko,1905,Fadeaway Jump Shot,2,7,3,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Andrei Kirilenko,1905,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2013
+Andrei Kirilenko,1905,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2013
+Andrei Kirilenko,1905,Hook Shot,2,1,1,Jump Bank Hook Shot,POST_MOVES,,2013
+Andrei Kirilenko,1905,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2013
+Andrei Kirilenko,1905,Jump Shot,2,102,32,Jump Shot,JUMP_SHOTS,,2013
+Andrei Kirilenko,1905,Jump Shot,3,117,34,Jump Shot,JUMP_SHOTS,,2013
+Andrei Kirilenko,1905,Standard Layup,2,120,59,Layup Shot,LAYUPS,,2013
+Andrei Kirilenko,1905,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2013
+Andrei Kirilenko,1905,Pullup Jump Shot,3,1,1,Pullup Jump shot,JUMP_SHOTS,,2013
+Andrei Kirilenko,1905,Putback Dunk,2,5,4,Putback Dunk Shot,DUNKS,,2013
+Andrei Kirilenko,1905,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2013
+Andrei Kirilenko,1905,Reverse Layup,2,9,7,Reverse Layup Shot,LAYUPS,,2013
+Andrei Kirilenko,1905,Running Jump Shot,2,1,0,Running Bank shot,JUMP_SHOTS,,2013
+Andrei Kirilenko,1905,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2013
+Andrei Kirilenko,1905,Running Jump Shot,2,5,4,Running Jump Shot,JUMP_SHOTS,,2013
+Andrei Kirilenko,1905,Standard Layup,2,4,0,Running Layup Shot,LAYUPS,,2013
+Andrei Kirilenko,1905,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2013
+Andrei Kirilenko,1905,Tip Shot,2,1,1,Running Tip Shot,TIP_SHOTS,,2013
+Andrei Kirilenko,1905,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,2013
+Andrei Kirilenko,1905,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2013
+Andrei Kirilenko,1905,Tip Shot,2,26,13,Tip Shot,TIP_SHOTS,,2013
+Andrei Kirilenko,1905,Turnaround Jump Shot,2,6,1,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Andrei Kirilenko,1905,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2014
+Andrei Kirilenko,1905,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2014
+Andrei Kirilenko,1905,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2014
+Andrei Kirilenko,1905,Driving Layup,2,11,3,Driving Layup Shot,LAYUPS,,2014
+Andrei Kirilenko,1905,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2014
+Andrei Kirilenko,1905,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2014
+Andrei Kirilenko,1905,Standard Dunk,2,20,20,Dunk Shot,DUNKS,,2014
+Andrei Kirilenko,1905,Fadeaway Jump Shot,2,1,0,Fadeaway Bank shot,JUMP_SHOTS,,2014
+Andrei Kirilenko,1905,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2014
+Andrei Kirilenko,1905,Jump Shot,2,3,3,Jump Bank Shot,JUMP_SHOTS,,2014
+Andrei Kirilenko,1905,Jump Shot,2,45,7,Jump Shot,JUMP_SHOTS,,2014
+Andrei Kirilenko,1905,Standard Layup,2,46,26,Layup Shot,LAYUPS,,2014
+Andrei Kirilenko,1905,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2014
+Andrei Kirilenko,1905,Reverse Layup,2,5,3,Reverse Layup Shot,LAYUPS,,2014
+Andrei Kirilenko,1905,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2014
+Andrei Kirilenko,1905,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2014
+Andrei Kirilenko,1905,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2014
+Andrei Kirilenko,1905,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2014
+Andrei Kirilenko,1905,Tip Shot,2,10,4,Tip Shot,TIP_SHOTS,,2014
+Andrei Kirilenko,1905,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2014
+Andrei Kirilenko,1905,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2014
+Andrei Kirilenko,1905,Jump Shot,2,1,0,Jump Shot,JUMP_SHOTS,,2015
+Andrei Kirilenko,1905,Standard Layup,2,4,0,Layup Shot,LAYUPS,,2015

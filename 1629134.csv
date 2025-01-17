@@ -1,38 +1,100 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1629134,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2020
-1629134,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2020
-1629134,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2020
-1629134,Jump Shot,3PT Field Goal,4,0,Jump Shot,JUMP_SHOTS,0.0,2020
-1629134,Pullup Jump Shot,2PT Field Goal,2,0,Pullup Jump shot,JUMP_SHOTS,0.0,2020
-1629134,Pullup Jump Shot,3PT Field Goal,4,1,Pullup Jump shot,JUMP_SHOTS,0.375,2020
-1629134,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2020
-1629134,Specialty Dunk,2PT Field Goal,1,0,Cutting Dunk Shot,DUNKS,0.0,2021
-1629134,Finger Roll,2PT Field Goal,1,1,Cutting Finger Roll Layup Shot,LAYUPS,1.0,2021
-1629134,Standard Layup,2PT Field Goal,1,0,Cutting Layup Shot,LAYUPS,0.0,2021
-1629134,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2021
-1629134,Floating Jump Shot,2PT Field Goal,3,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2021
-1629134,Driving Layup,2PT Field Goal,6,4,Driving Layup Shot,LAYUPS,0.6666666666666666,2021
-1629134,Driving Layup,2PT Field Goal,2,2,Driving Reverse Layup Shot,LAYUPS,1.0,2021
-1629134,Jump Shot,3PT Field Goal,19,9,Jump Shot,JUMP_SHOTS,0.7105263157894737,2021
-1629134,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2021
-1629134,Pullup Jump Shot,2PT Field Goal,6,3,Pullup Jump shot,JUMP_SHOTS,0.5,2021
-1629134,Pullup Jump Shot,3PT Field Goal,3,1,Pullup Jump shot,JUMP_SHOTS,0.5,2021
-1629134,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2021
-1629134,Running Jump Shot,3PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.5,2021
-1629134,Standard Layup,2PT Field Goal,4,1,Running Layup Shot,LAYUPS,0.25,2021
-1629134,Running Jump Shot,3PT Field Goal,2,1,Running Pull-Up Jump Shot,JUMP_SHOTS,0.75,2021
-1629134,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2021
-1629134,Floating Jump Shot,2PT Field Goal,7,3,Driving Floating Jump Shot,FLOATING_SHOTS,0.4285714285714285,2023
-1629134,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2023
-1629134,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2023
-1629134,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2023
-1629134,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2023
-1629134,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2023
-1629134,Jump Shot,3PT Field Goal,13,5,Jump Shot,JUMP_SHOTS,0.5769230769230769,2023
-1629134,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2023
-1629134,Pullup Jump Shot,2PT Field Goal,6,3,Pullup Jump shot,JUMP_SHOTS,0.5,2023
-1629134,Pullup Jump Shot,3PT Field Goal,14,7,Pullup Jump shot,JUMP_SHOTS,0.75,2023
-1629134,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2023
-1629134,Running Jump Shot,3PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2023
-1629134,Step Back Jump Shot,3PT Field Goal,3,2,Step Back Jump shot,JUMP_SHOTS,1.0,2023
-1629134,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2023
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Kendrick Nunn,1629134,Alley Oop Dunk,2,2,1,Alley Oop Dunk Shot,DUNKS,,2020
+Kendrick Nunn,1629134,Specialty Dunk,2,2,1,Cutting Dunk Shot,DUNKS,,2020
+Kendrick Nunn,1629134,Standard Layup,2,16,12,Cutting Layup Shot,LAYUPS,,2020
+Kendrick Nunn,1629134,Driving Dunk,2,7,6,Driving Dunk Shot,DUNKS,,2020
+Kendrick Nunn,1629134,Finger Roll,2,22,16,Driving Finger Roll Layup Shot,LAYUPS,,2020
+Kendrick Nunn,1629134,Floating Jump Shot,2,7,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2020
+Kendrick Nunn,1629134,Floating Jump Shot,2,63,28,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Kendrick Nunn,1629134,Driving Hook Shot,2,3,0,Driving Hook Shot,POST_MOVES,,2020
+Kendrick Nunn,1629134,Driving Layup,2,89,42,Driving Layup Shot,LAYUPS,,2020
+Kendrick Nunn,1629134,Driving Layup,2,14,8,Driving Reverse Layup Shot,LAYUPS,,2020
+Kendrick Nunn,1629134,Standard Dunk,2,3,2,Dunk Shot,DUNKS,,2020
+Kendrick Nunn,1629134,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+Kendrick Nunn,1629134,Finger Roll,2,3,1,Finger Roll Layup Shot,LAYUPS,,2020
+Kendrick Nunn,1629134,Floating Jump Shot,2,30,11,Floating Jump shot,FLOATING_SHOTS,,2020
+Kendrick Nunn,1629134,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2020
+Kendrick Nunn,1629134,Jump Shot,2,3,3,Jump Bank Shot,JUMP_SHOTS,,2020
+Kendrick Nunn,1629134,Jump Shot,2,323,113,Jump Shot,JUMP_SHOTS,,2020
+Kendrick Nunn,1629134,Jump Shot,3,13,2,Jump Shot,JUMP_SHOTS,,2020
+Kendrick Nunn,1629134,Standard Layup,2,16,7,Layup Shot,LAYUPS,,2020
+Kendrick Nunn,1629134,Pullup Jump Shot,2,162,71,Pullup Jump shot,JUMP_SHOTS,,2020
+Kendrick Nunn,1629134,Pullup Jump Shot,3,6,2,Pullup Jump shot,JUMP_SHOTS,,2020
+Kendrick Nunn,1629134,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2020
+Kendrick Nunn,1629134,Reverse Layup,2,8,6,Reverse Layup Shot,LAYUPS,,2020
+Kendrick Nunn,1629134,Standard Dunk,2,10,10,Running Dunk Shot,DUNKS,,2020
+Kendrick Nunn,1629134,Finger Roll,2,4,4,Running Finger Roll Layup Shot,LAYUPS,,2020
+Kendrick Nunn,1629134,Running Jump Shot,2,9,1,Running Jump Shot,JUMP_SHOTS,,2020
+Kendrick Nunn,1629134,Running Jump Shot,3,1,1,Running Jump Shot,JUMP_SHOTS,,2020
+Kendrick Nunn,1629134,Standard Layup,2,21,13,Running Layup Shot,LAYUPS,,2020
+Kendrick Nunn,1629134,Running Jump Shot,2,13,5,Running Pull-Up Jump Shot,JUMP_SHOTS,,2020
+Kendrick Nunn,1629134,Reverse Dunk,2,1,1,Running Reverse Dunk Shot,DUNKS,,2020
+Kendrick Nunn,1629134,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2020
+Kendrick Nunn,1629134,Step Back Jump Shot,2,35,20,Step Back Jump shot,JUMP_SHOTS,,2020
+Kendrick Nunn,1629134,Turnaround Jump Shot,2,4,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2020
+Kendrick Nunn,1629134,Turnaround Hook Shot,2,7,4,Turnaround Hook Shot,POST_MOVES,,2020
+Kendrick Nunn,1629134,Turnaround Jump Shot,2,11,3,Turnaround Jump Shot,JUMP_SHOTS,,2020
+Kendrick Nunn,1629134,Specialty Dunk,2,2,1,Cutting Dunk Shot,DUNKS,,2021
+Kendrick Nunn,1629134,Finger Roll,2,7,7,Cutting Finger Roll Layup Shot,LAYUPS,,2021
+Kendrick Nunn,1629134,Standard Layup,2,17,13,Cutting Layup Shot,LAYUPS,,2021
+Kendrick Nunn,1629134,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2021
+Kendrick Nunn,1629134,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2021
+Kendrick Nunn,1629134,Finger Roll,2,19,16,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Kendrick Nunn,1629134,Floating Jump Shot,2,2,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2021
+Kendrick Nunn,1629134,Floating Jump Shot,2,37,19,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Kendrick Nunn,1629134,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,,2021
+Kendrick Nunn,1629134,Driving Layup,2,70,36,Driving Layup Shot,LAYUPS,,2021
+Kendrick Nunn,1629134,Driving Layup,2,10,8,Driving Reverse Layup Shot,LAYUPS,,2021
+Kendrick Nunn,1629134,Fadeaway Jump Shot,2,3,0,Fadeaway Jump Shot,JUMP_SHOTS,,2021
+Kendrick Nunn,1629134,Finger Roll,2,3,1,Finger Roll Layup Shot,LAYUPS,,2021
+Kendrick Nunn,1629134,Floating Jump Shot,2,10,3,Floating Jump shot,FLOATING_SHOTS,,2021
+Kendrick Nunn,1629134,Jump Shot,2,207,78,Jump Shot,JUMP_SHOTS,,2021
+Kendrick Nunn,1629134,Jump Shot,3,57,22,Jump Shot,JUMP_SHOTS,,2021
+Kendrick Nunn,1629134,Standard Layup,2,10,7,Layup Shot,LAYUPS,,2021
+Kendrick Nunn,1629134,Pullup Jump Shot,2,98,47,Pullup Jump shot,JUMP_SHOTS,,2021
+Kendrick Nunn,1629134,Pullup Jump Shot,3,9,2,Pullup Jump shot,JUMP_SHOTS,,2021
+Kendrick Nunn,1629134,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2021
+Kendrick Nunn,1629134,Reverse Layup,2,4,3,Reverse Layup Shot,LAYUPS,,2021
+Kendrick Nunn,1629134,Standard Dunk,2,9,8,Running Dunk Shot,DUNKS,,2021
+Kendrick Nunn,1629134,Finger Roll,2,4,3,Running Finger Roll Layup Shot,LAYUPS,,2021
+Kendrick Nunn,1629134,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2021
+Kendrick Nunn,1629134,Running Jump Shot,3,1,1,Running Jump Shot,JUMP_SHOTS,,2021
+Kendrick Nunn,1629134,Standard Layup,2,27,17,Running Layup Shot,LAYUPS,,2021
+Kendrick Nunn,1629134,Running Jump Shot,2,3,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2021
+Kendrick Nunn,1629134,Running Jump Shot,3,2,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2021
+Kendrick Nunn,1629134,Step Back Jump Shot,2,21,9,Step Back Jump shot,JUMP_SHOTS,,2021
+Kendrick Nunn,1629134,Step Back Jump Shot,3,4,1,Step Back Jump shot,JUMP_SHOTS,,2021
+Kendrick Nunn,1629134,Putback Layup,2,1,1,Tip Layup Shot,LAYUPS,,2021
+Kendrick Nunn,1629134,Turnaround Hook Shot,2,6,2,Turnaround Hook Shot,POST_MOVES,,2021
+Kendrick Nunn,1629134,Turnaround Jump Shot,2,7,2,Turnaround Jump Shot,JUMP_SHOTS,,2021
+Kendrick Nunn,1629134,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2023
+Kendrick Nunn,1629134,Standard Layup,2,4,4,Cutting Layup Shot,LAYUPS,,2023
+Kendrick Nunn,1629134,Driving Hook Shot,2,1,0,Driving Bank Hook Shot,POST_MOVES,,2023
+Kendrick Nunn,1629134,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2023
+Kendrick Nunn,1629134,Finger Roll,2,10,5,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Kendrick Nunn,1629134,Floating Jump Shot,2,3,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+Kendrick Nunn,1629134,Floating Jump Shot,2,35,13,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Kendrick Nunn,1629134,Driving Hook Shot,2,3,1,Driving Hook Shot,POST_MOVES,,2023
+Kendrick Nunn,1629134,Driving Layup,2,34,17,Driving Layup Shot,LAYUPS,,2023
+Kendrick Nunn,1629134,Driving Layup,2,4,0,Driving Reverse Layup Shot,LAYUPS,,2023
+Kendrick Nunn,1629134,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2023
+Kendrick Nunn,1629134,Floating Jump Shot,2,9,3,Floating Jump shot,FLOATING_SHOTS,,2023
+Kendrick Nunn,1629134,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2023
+Kendrick Nunn,1629134,Jump Shot,2,113,42,Jump Shot,JUMP_SHOTS,,2023
+Kendrick Nunn,1629134,Jump Shot,3,23,9,Jump Shot,JUMP_SHOTS,,2023
+Kendrick Nunn,1629134,Standard Layup,2,12,7,Layup Shot,LAYUPS,,2023
+Kendrick Nunn,1629134,Pullup Jump Shot,2,96,40,Pullup Jump shot,JUMP_SHOTS,,2023
+Kendrick Nunn,1629134,Pullup Jump Shot,3,18,7,Pullup Jump shot,JUMP_SHOTS,,2023
+Kendrick Nunn,1629134,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2023
+Kendrick Nunn,1629134,Alley Oop Layup,2,1,0,Running Alley Oop Layup Shot,LAYUPS,,2023
+Kendrick Nunn,1629134,Standard Dunk,2,7,5,Running Dunk Shot,DUNKS,,2023
+Kendrick Nunn,1629134,Running Jump Shot,2,12,3,Running Jump Shot,JUMP_SHOTS,,2023
+Kendrick Nunn,1629134,Standard Layup,2,16,9,Running Layup Shot,LAYUPS,,2023
+Kendrick Nunn,1629134,Running Jump Shot,2,6,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2023
+Kendrick Nunn,1629134,Running Jump Shot,3,3,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2023
+Kendrick Nunn,1629134,Step Back Jump Shot,2,13,5,Step Back Jump shot,JUMP_SHOTS,,2023
+Kendrick Nunn,1629134,Step Back Jump Shot,3,6,3,Step Back Jump shot,JUMP_SHOTS,,2023
+Kendrick Nunn,1629134,Putback Layup,2,5,4,Tip Layup Shot,LAYUPS,,2023
+Kendrick Nunn,1629134,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2023
+Kendrick Nunn,1629134,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2023
+Kendrick Nunn,1629134,Turnaround Jump Shot,2,5,3,Turnaround Jump Shot,JUMP_SHOTS,,2023

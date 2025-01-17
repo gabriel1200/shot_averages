@@ -1,38 +1,74 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-193,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,1997
-193,Driving Layup,2PT Field Goal,5,5,Driving Layup Shot,LAYUPS,1.0,1997
-193,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,1997
-193,Hook Shot,2PT Field Goal,5,2,Hook Shot,POST_MOVES,0.4,1997
-193,Jump Shot,2PT Field Goal,20,11,Jump Shot,JUMP_SHOTS,0.55,1997
-193,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1997
-193,Standard Layup,2PT Field Goal,47,24,Layup Shot,LAYUPS,0.5106382978723404,1997
-193,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,1997
-193,Tip Shot,2PT Field Goal,2,2,Tip Shot,TIP_SHOTS,1.0,1997
-193,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,1998
-193,Jump Shot,2PT Field Goal,5,2,Jump Shot,JUMP_SHOTS,0.4,1998
-193,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2001
-193,Driving Layup,2PT Field Goal,8,5,Driving Layup Shot,LAYUPS,0.625,2002
-193,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,2002
-193,Fadeaway Jump Shot,2PT Field Goal,6,4,Fadeaway Jump Shot,JUMP_SHOTS,0.6666666666666666,2002
-193,Finger Roll,2PT Field Goal,1,1,Finger Roll Shot,LAYUPS,1.0,2002
-193,Hook Shot,2PT Field Goal,16,10,Hook Shot,POST_MOVES,0.625,2002
-193,Hook Shot,2PT Field Goal,3,3,Jump Hook Shot,POST_MOVES,1.0,2002
-193,Jump Shot,2PT Field Goal,98,39,Jump Shot,JUMP_SHOTS,0.3979591836734694,2002
-193,Jump Shot,3PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.5,2002
-193,Standard Layup,2PT Field Goal,72,40,Layup Shot,LAYUPS,0.5555555555555556,2002
-193,Reverse Layup,2PT Field Goal,4,3,Reverse Layup Shot,LAYUPS,0.75,2002
-193,Running Hook Shot,2PT Field Goal,2,2,Running Hook Shot,POST_MOVES,1.0,2002
-193,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2002
-193,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2002
-193,Tip Shot,2PT Field Goal,5,1,Tip Shot,TIP_SHOTS,0.2,2002
-193,Turnaround Hook Shot,2PT Field Goal,2,1,Turnaround Hook Shot,POST_MOVES,0.5,2002
-193,Turnaround Jump Shot,2PT Field Goal,4,2,Turnaround Jump Shot,JUMP_SHOTS,0.5,2002
-193,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2003
-193,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2003
-193,Hook Shot,2PT Field Goal,6,2,Hook Shot,POST_MOVES,0.3333333333333333,2003
-193,Jump Shot,2PT Field Goal,38,11,Jump Shot,JUMP_SHOTS,0.2894736842105263,2003
-193,Standard Layup,2PT Field Goal,17,10,Layup Shot,LAYUPS,0.5882352941176471,2003
-193,Reverse Layup,2PT Field Goal,2,2,Reverse Layup Shot,LAYUPS,1.0,2003
-193,Running Hook Shot,2PT Field Goal,2,2,Running Hook Shot,POST_MOVES,1.0,2003
-193,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2003
-193,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2003
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Anthony Mason,193,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,1997
+Anthony Mason,193,Driving Layup,2,66,63,Driving Layup Shot,LAYUPS,,1997
+Anthony Mason,193,Standard Dunk,2,10,10,Dunk Shot,DUNKS,,1997
+Anthony Mason,193,Hook Shot,2,24,19,Hook Shot,POST_MOVES,,1997
+Anthony Mason,193,Jump Shot,2,262,139,Jump Shot,JUMP_SHOTS,,1997
+Anthony Mason,193,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,1997
+Anthony Mason,193,Standard Layup,2,442,185,Layup Shot,LAYUPS,,1997
+Anthony Mason,193,Running Jump Shot,2,4,4,Running Jump Shot,JUMP_SHOTS,,1997
+Anthony Mason,193,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,1997
+Anthony Mason,193,Tip Shot,2,11,8,Tip Shot,TIP_SHOTS,,1997
+Anthony Mason,193,Driving Dunk,2,5,5,Driving Dunk Shot,DUNKS,,1998
+Anthony Mason,193,Driving Layup,2,63,54,Driving Layup Shot,LAYUPS,,1998
+Anthony Mason,193,Standard Dunk,2,19,18,Dunk Shot,DUNKS,,1998
+Anthony Mason,193,Hook Shot,2,17,8,Hook Shot,POST_MOVES,,1998
+Anthony Mason,193,Jump Shot,2,351,133,Jump Shot,JUMP_SHOTS,,1998
+Anthony Mason,193,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,1998
+Anthony Mason,193,Standard Layup,2,277,151,Layup Shot,LAYUPS,,1998
+Anthony Mason,193,Running Jump Shot,2,7,5,Running Jump Shot,JUMP_SHOTS,,1998
+Anthony Mason,193,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,1998
+Anthony Mason,193,Tip Shot,2,18,9,Tip Shot,TIP_SHOTS,,1998
+Anthony Mason,193,Driving Layup,2,47,33,Driving Layup Shot,LAYUPS,,2000
+Anthony Mason,193,Standard Dunk,2,10,7,Dunk Shot,DUNKS,,2000
+Anthony Mason,193,Hook Shot,2,46,30,Hook Shot,POST_MOVES,,2000
+Anthony Mason,193,Jump Shot,2,332,125,Jump Shot,JUMP_SHOTS,,2000
+Anthony Mason,193,Standard Layup,2,212,114,Layup Shot,LAYUPS,,2000
+Anthony Mason,193,Running Jump Shot,2,3,2,Running Jump Shot,JUMP_SHOTS,,2000
+Anthony Mason,193,Standard Dunk,2,3,2,Slam Dunk Shot,DUNKS,,2000
+Anthony Mason,193,Tip Shot,2,8,4,Tip Shot,TIP_SHOTS,,2000
+Anthony Mason,193,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2001
+Anthony Mason,193,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2001
+Anthony Mason,193,Driving Layup,2,73,39,Driving Layup Shot,LAYUPS,,2001
+Anthony Mason,193,Standard Dunk,2,10,8,Dunk Shot,DUNKS,,2001
+Anthony Mason,193,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2001
+Anthony Mason,193,Hook Shot,2,143,76,Hook Shot,POST_MOVES,,2001
+Anthony Mason,193,Jump Shot,2,481,196,Jump Shot,JUMP_SHOTS,,2001
+Anthony Mason,193,Standard Layup,2,184,101,Layup Shot,LAYUPS,,2001
+Anthony Mason,193,Reverse Layup,2,25,19,Reverse Layup Shot,LAYUPS,,2001
+Anthony Mason,193,Running Hook Shot,2,7,4,Running Hook Shot,POST_MOVES,,2001
+Anthony Mason,193,Running Jump Shot,2,7,4,Running Jump Shot,JUMP_SHOTS,,2001
+Anthony Mason,193,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2001
+Anthony Mason,193,Tip Shot,2,10,3,Tip Shot,TIP_SHOTS,,2001
+Anthony Mason,193,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2001
+Anthony Mason,193,Turnaround Jump Shot,2,8,5,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Anthony Mason,193,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2002
+Anthony Mason,193,Driving Layup,2,14,10,Driving Layup Shot,LAYUPS,,2002
+Anthony Mason,193,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2002
+Anthony Mason,193,Fadeaway Jump Shot,2,24,18,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Anthony Mason,193,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2002
+Anthony Mason,193,Hook Shot,2,45,30,Hook Shot,POST_MOVES,,2002
+Anthony Mason,193,Hook Shot,2,10,10,Jump Hook Shot,POST_MOVES,,2002
+Anthony Mason,193,Jump Shot,2,283,110,Jump Shot,JUMP_SHOTS,,2002
+Anthony Mason,193,Jump Shot,3,1,1,Jump Shot,JUMP_SHOTS,,2002
+Anthony Mason,193,Standard Layup,2,199,101,Layup Shot,LAYUPS,,2002
+Anthony Mason,193,Reverse Layup,2,12,11,Reverse Layup Shot,LAYUPS,,2002
+Anthony Mason,193,Running Hook Shot,2,9,8,Running Hook Shot,POST_MOVES,,2002
+Anthony Mason,193,Running Jump Shot,2,3,3,Running Jump Shot,JUMP_SHOTS,,2002
+Anthony Mason,193,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2002
+Anthony Mason,193,Tip Shot,2,8,1,Tip Shot,TIP_SHOTS,,2002
+Anthony Mason,193,Turnaround Hook Shot,2,3,2,Turnaround Hook Shot,POST_MOVES,,2002
+Anthony Mason,193,Turnaround Jump Shot,2,9,5,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Anthony Mason,193,Driving Layup,2,6,5,Driving Layup Shot,LAYUPS,,2003
+Anthony Mason,193,Fadeaway Jump Shot,2,11,5,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Anthony Mason,193,Finger Roll,2,1,0,Finger Roll Shot,LAYUPS,,2003
+Anthony Mason,193,Hook Shot,2,37,22,Hook Shot,POST_MOVES,,2003
+Anthony Mason,193,Hook Shot,2,5,4,Jump Hook Shot,POST_MOVES,,2003
+Anthony Mason,193,Jump Shot,2,208,84,Jump Shot,JUMP_SHOTS,,2003
+Anthony Mason,193,Standard Layup,2,105,56,Layup Shot,LAYUPS,,2003
+Anthony Mason,193,Reverse Layup,2,7,6,Reverse Layup Shot,LAYUPS,,2003
+Anthony Mason,193,Running Hook Shot,2,2,2,Running Hook Shot,POST_MOVES,,2003
+Anthony Mason,193,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2003
+Anthony Mason,193,Tip Shot,2,4,3,Tip Shot,TIP_SHOTS,,2003
+Anthony Mason,193,Turnaround Hook Shot,2,4,3,Turnaround Hook Shot,POST_MOVES,,2003
+Anthony Mason,193,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2003

@@ -1,24 +1,43 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-21,Driving Layup,2PT Field Goal,25,14,Driving Layup Shot,LAYUPS,0.56,1997
-21,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,1997
-21,Jump Shot,2PT Field Goal,33,9,Jump Shot,JUMP_SHOTS,0.2727272727272727,1997
-21,Jump Shot,3PT Field Goal,59,21,Jump Shot,JUMP_SHOTS,0.5338983050847458,1997
-21,Standard Layup,2PT Field Goal,25,10,Layup Shot,LAYUPS,0.4,1997
-21,Running Jump Shot,2PT Field Goal,4,1,Running Jump Shot,JUMP_SHOTS,0.25,1997
-21,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,1998
-21,Jump Shot,2PT Field Goal,3,2,Jump Shot,JUMP_SHOTS,0.6666666666666666,1998
-21,Jump Shot,3PT Field Goal,10,1,Jump Shot,JUMP_SHOTS,0.15,1998
-21,Driving Layup,2PT Field Goal,5,5,Driving Layup Shot,LAYUPS,1.0,1999
-21,Jump Shot,2PT Field Goal,14,6,Jump Shot,JUMP_SHOTS,0.4285714285714285,1999
-21,Jump Shot,3PT Field Goal,33,14,Jump Shot,JUMP_SHOTS,0.6363636363636364,1999
-21,Standard Layup,2PT Field Goal,8,6,Layup Shot,LAYUPS,0.75,1999
-21,Running Jump Shot,2PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.5,1999
-21,Driving Layup,2PT Field Goal,4,3,Driving Layup Shot,LAYUPS,0.75,2000
-21,Jump Shot,2PT Field Goal,12,4,Jump Shot,JUMP_SHOTS,0.3333333333333333,2000
-21,Jump Shot,3PT Field Goal,26,9,Jump Shot,JUMP_SHOTS,0.5192307692307693,2000
-21,Standard Layup,2PT Field Goal,4,1,Layup Shot,LAYUPS,0.25,2000
-21,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2000
-21,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2001
-21,Jump Shot,2PT Field Goal,4,1,Jump Shot,JUMP_SHOTS,0.25,2001
-21,Jump Shot,3PT Field Goal,11,4,Jump Shot,JUMP_SHOTS,0.5454545454545454,2001
-21,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Greg Anthony,21,Driving Layup,2,68,42,Driving Layup Shot,LAYUPS,,1997
+Greg Anthony,21,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,1997
+Greg Anthony,21,Jump Shot,2,185,68,Jump Shot,JUMP_SHOTS,,1997
+Greg Anthony,21,Jump Shot,3,173,62,Jump Shot,JUMP_SHOTS,,1997
+Greg Anthony,21,Standard Layup,2,69,24,Layup Shot,LAYUPS,,1997
+Greg Anthony,21,Running Jump Shot,2,11,2,Running Jump Shot,JUMP_SHOTS,,1997
+Greg Anthony,21,Driving Layup,2,41,29,Driving Layup Shot,LAYUPS,,1998
+Greg Anthony,21,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,1998
+Greg Anthony,21,Jump Shot,2,235,89,Jump Shot,JUMP_SHOTS,,1998
+Greg Anthony,21,Jump Shot,3,30,12,Jump Shot,JUMP_SHOTS,,1998
+Greg Anthony,21,Standard Layup,2,30,10,Layup Shot,LAYUPS,,1998
+Greg Anthony,21,Running Jump Shot,2,10,7,Running Jump Shot,JUMP_SHOTS,,1998
+Greg Anthony,21,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,,1998
+Greg Anthony,21,Driving Layup,2,23,13,Driving Layup Shot,LAYUPS,,1999
+Greg Anthony,21,Jump Shot,2,157,54,Jump Shot,JUMP_SHOTS,,1999
+Greg Anthony,21,Jump Shot,3,36,17,Jump Shot,JUMP_SHOTS,,1999
+Greg Anthony,21,Standard Layup,2,28,15,Layup Shot,LAYUPS,,1999
+Greg Anthony,21,Running Jump Shot,2,7,5,Running Jump Shot,JUMP_SHOTS,,1999
+Greg Anthony,21,Driving Layup,2,31,20,Driving Layup Shot,LAYUPS,,2000
+Greg Anthony,21,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2000
+Greg Anthony,21,Jump Shot,2,321,117,Jump Shot,JUMP_SHOTS,,2000
+Greg Anthony,21,Jump Shot,3,31,12,Jump Shot,JUMP_SHOTS,,2000
+Greg Anthony,21,Standard Layup,2,25,14,Layup Shot,LAYUPS,,2000
+Greg Anthony,21,Running Jump Shot,2,7,6,Running Jump Shot,JUMP_SHOTS,,2000
+Greg Anthony,21,Driving Layup,2,13,8,Driving Layup Shot,LAYUPS,,2001
+Greg Anthony,21,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2001
+Greg Anthony,21,Jump Shot,2,218,82,Jump Shot,JUMP_SHOTS,,2001
+Greg Anthony,21,Jump Shot,3,11,4,Jump Shot,JUMP_SHOTS,,2001
+Greg Anthony,21,Standard Layup,2,7,1,Layup Shot,LAYUPS,,2001
+Greg Anthony,21,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,2001
+Greg Anthony,21,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2001
+Greg Anthony,21,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2002
+Greg Anthony,21,Driving Layup,2,12,10,Driving Layup Shot,LAYUPS,,2002
+Greg Anthony,21,Fadeaway Jump Shot,2,4,2,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Greg Anthony,21,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2002
+Greg Anthony,21,Jump Shot,2,385,136,Jump Shot,JUMP_SHOTS,,2002
+Greg Anthony,21,Standard Layup,2,53,21,Layup Shot,LAYUPS,,2002
+Greg Anthony,21,Reverse Layup,2,9,8,Reverse Layup Shot,LAYUPS,,2002
+Greg Anthony,21,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2002
+Greg Anthony,21,Running Jump Shot,2,6,1,Running Jump Shot,JUMP_SHOTS,,2002
+Greg Anthony,21,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2002
+Greg Anthony,21,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2002

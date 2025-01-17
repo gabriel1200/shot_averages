@@ -1,23 +1,41 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-180,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,1997
-180,Driving Layup,2PT Field Goal,7,5,Driving Layup Shot,LAYUPS,0.7142857142857143,1998
-180,Jump Shot,2PT Field Goal,13,3,Jump Shot,JUMP_SHOTS,0.2307692307692307,1998
-180,Jump Shot,3PT Field Goal,10,4,Jump Shot,JUMP_SHOTS,0.6,1998
-180,Standard Layup,2PT Field Goal,6,2,Layup Shot,LAYUPS,0.3333333333333333,1998
-180,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,1999
-180,Driving Layup,2PT Field Goal,22,14,Driving Layup Shot,LAYUPS,0.6363636363636364,2000
-180,Jump Shot,2PT Field Goal,47,14,Jump Shot,JUMP_SHOTS,0.2978723404255319,2000
-180,Jump Shot,3PT Field Goal,39,15,Jump Shot,JUMP_SHOTS,0.5769230769230769,2000
-180,Standard Layup,2PT Field Goal,23,7,Layup Shot,LAYUPS,0.3043478260869565,2000
-180,Running Jump Shot,2PT Field Goal,2,2,Running Jump Shot,JUMP_SHOTS,1.0,2000
-180,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2001
-180,Jump Shot,3PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.5,2001
-180,Driving Layup,2PT Field Goal,4,2,Driving Layup Shot,LAYUPS,0.5,2002
-180,Jump Shot,2PT Field Goal,21,13,Jump Shot,JUMP_SHOTS,0.6190476190476191,2002
-180,Jump Shot,3PT Field Goal,17,10,Jump Shot,JUMP_SHOTS,0.8823529411764706,2002
-180,Standard Layup,2PT Field Goal,12,4,Layup Shot,LAYUPS,0.3333333333333333,2002
-180,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2002
-180,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2003
-180,Jump Shot,2PT Field Goal,6,2,Jump Shot,JUMP_SHOTS,0.3333333333333333,2003
-180,Jump Shot,3PT Field Goal,8,1,Jump Shot,JUMP_SHOTS,0.1875,2003
-180,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2003
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+John Crotty,180,Driving Layup,2,37,30,Driving Layup Shot,LAYUPS,,1997
+John Crotty,180,Jump Shot,2,79,34,Jump Shot,JUMP_SHOTS,,1997
+John Crotty,180,Jump Shot,3,2,1,Jump Shot,JUMP_SHOTS,,1997
+John Crotty,180,Standard Layup,2,35,13,Layup Shot,LAYUPS,,1997
+John Crotty,180,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,1997
+John Crotty,180,Driving Layup,2,25,12,Driving Layup Shot,LAYUPS,,1998
+John Crotty,180,Jump Shot,2,40,6,Jump Shot,JUMP_SHOTS,,1998
+John Crotty,180,Jump Shot,3,11,5,Jump Shot,JUMP_SHOTS,,1998
+John Crotty,180,Standard Layup,2,14,6,Layup Shot,LAYUPS,,1998
+John Crotty,180,Driving Layup,2,24,13,Driving Layup Shot,LAYUPS,,1999
+John Crotty,180,Hook Shot,2,6,3,Hook Shot,POST_MOVES,,1999
+John Crotty,180,Jump Shot,2,84,29,Jump Shot,JUMP_SHOTS,,1999
+John Crotty,180,Standard Layup,2,9,5,Layup Shot,LAYUPS,,1999
+John Crotty,180,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,1999
+John Crotty,180,Driving Layup,2,38,28,Driving Layup Shot,LAYUPS,,2000
+John Crotty,180,Jump Shot,2,123,46,Jump Shot,JUMP_SHOTS,,2000
+John Crotty,180,Jump Shot,3,41,15,Jump Shot,JUMP_SHOTS,,2000
+John Crotty,180,Standard Layup,2,44,13,Layup Shot,LAYUPS,,2000
+John Crotty,180,Running Jump Shot,2,4,4,Running Jump Shot,JUMP_SHOTS,,2000
+John Crotty,180,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2000
+John Crotty,180,Driving Layup,2,8,3,Driving Layup Shot,LAYUPS,,2001
+John Crotty,180,Jump Shot,2,34,8,Jump Shot,JUMP_SHOTS,,2001
+John Crotty,180,Jump Shot,3,2,1,Jump Shot,JUMP_SHOTS,,2001
+John Crotty,180,Standard Layup,2,17,8,Layup Shot,LAYUPS,,2001
+John Crotty,180,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2001
+John Crotty,180,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2001
+John Crotty,180,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2001
+John Crotty,180,Driving Layup,2,12,8,Driving Layup Shot,LAYUPS,,2002
+John Crotty,180,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2002
+John Crotty,180,Jump Shot,2,81,41,Jump Shot,JUMP_SHOTS,,2002
+John Crotty,180,Jump Shot,3,69,31,Jump Shot,JUMP_SHOTS,,2002
+John Crotty,180,Standard Layup,2,40,12,Layup Shot,LAYUPS,,2002
+John Crotty,180,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2002
+John Crotty,180,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,2002
+John Crotty,180,Driving Layup,2,8,5,Driving Layup Shot,LAYUPS,,2003
+John Crotty,180,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2003
+John Crotty,180,Jump Shot,2,17,5,Jump Shot,JUMP_SHOTS,,2003
+John Crotty,180,Jump Shot,3,12,4,Jump Shot,JUMP_SHOTS,,2003
+John Crotty,180,Standard Layup,2,2,0,Layup Shot,LAYUPS,,2003
+John Crotty,180,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2003

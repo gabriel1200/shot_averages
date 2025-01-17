@@ -1,6 +1,12 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-200788,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2008
-200788,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2008
-200788,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2008
-200788,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2008
-200788,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2008
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+James Augustine,200788,Standard Layup,2,3,1,Layup Shot,LAYUPS,,2007
+James Augustine,200788,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2008
+James Augustine,200788,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2008
+James Augustine,200788,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2008
+James Augustine,200788,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2008
+James Augustine,200788,Jump Shot,2,7,3,Jump Shot,JUMP_SHOTS,,2008
+James Augustine,200788,Standard Layup,2,13,7,Layup Shot,LAYUPS,,2008
+James Augustine,200788,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2008
+James Augustine,200788,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2008
+James Augustine,200788,Tip Shot,2,5,3,Tip Shot,TIP_SHOTS,,2008
+James Augustine,200788,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2008

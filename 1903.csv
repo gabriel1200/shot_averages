@@ -1,10 +1,175 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1903,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2001
-1903,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2002
-1903,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2002
-1903,Jump Shot,2PT Field Goal,5,2,Jump Shot,JUMP_SHOTS,0.4,2002
-1903,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2002
-1903,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2005
-1903,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2010
-1903,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2010
-1903,Standard Layup,2PT Field Goal,4,2,Layup Shot,LAYUPS,0.5,2010
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Kenny Thomas,1903,Driving Layup,2,23,18,Driving Layup Shot,LAYUPS,,2000
+Kenny Thomas,1903,Standard Dunk,2,18,13,Dunk Shot,DUNKS,,2000
+Kenny Thomas,1903,Hook Shot,2,35,22,Hook Shot,POST_MOVES,,2000
+Kenny Thomas,1903,Jump Shot,2,284,75,Jump Shot,JUMP_SHOTS,,2000
+Kenny Thomas,1903,Standard Layup,2,132,60,Layup Shot,LAYUPS,,2000
+Kenny Thomas,1903,Running Jump Shot,2,6,1,Running Jump Shot,JUMP_SHOTS,,2000
+Kenny Thomas,1903,Standard Dunk,2,16,16,Slam Dunk Shot,DUNKS,,2000
+Kenny Thomas,1903,Tip Shot,2,17,7,Tip Shot,TIP_SHOTS,,2000
+Kenny Thomas,1903,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2001
+Kenny Thomas,1903,Driving Layup,2,35,29,Driving Layup Shot,LAYUPS,,2001
+Kenny Thomas,1903,Standard Dunk,2,23,21,Dunk Shot,DUNKS,,2001
+Kenny Thomas,1903,Hook Shot,2,31,11,Hook Shot,POST_MOVES,,2001
+Kenny Thomas,1903,Jump Shot,2,214,54,Jump Shot,JUMP_SHOTS,,2001
+Kenny Thomas,1903,Standard Layup,2,113,60,Layup Shot,LAYUPS,,2001
+Kenny Thomas,1903,Reverse Layup,2,7,3,Reverse Layup Shot,LAYUPS,,2001
+Kenny Thomas,1903,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2001
+Kenny Thomas,1903,Running Jump Shot,2,5,3,Running Jump Shot,JUMP_SHOTS,,2001
+Kenny Thomas,1903,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2001
+Kenny Thomas,1903,Standard Dunk,2,8,8,Slam Dunk Shot,DUNKS,,2001
+Kenny Thomas,1903,Tip Shot,2,19,10,Tip Shot,TIP_SHOTS,,2001
+Kenny Thomas,1903,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2001
+Kenny Thomas,1903,Turnaround Jump Shot,2,6,4,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Kenny Thomas,1903,Driving Dunk,2,5,5,Driving Dunk Shot,DUNKS,,2002
+Kenny Thomas,1903,Finger Roll,2,3,3,Driving Finger Roll Shot,LAYUPS,,2002
+Kenny Thomas,1903,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,,2002
+Kenny Thomas,1903,Driving Layup,2,120,73,Driving Layup Shot,LAYUPS,,2002
+Kenny Thomas,1903,Standard Dunk,2,30,27,Dunk Shot,DUNKS,,2002
+Kenny Thomas,1903,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Kenny Thomas,1903,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2002
+Kenny Thomas,1903,Specialty Dunk,2,4,4,Follow Up Dunk Shot,DUNKS,,2002
+Kenny Thomas,1903,Hook Shot,2,54,27,Hook Shot,POST_MOVES,,2002
+Kenny Thomas,1903,Hook Shot,2,7,5,Jump Hook Shot,POST_MOVES,,2002
+Kenny Thomas,1903,Jump Shot,2,356,118,Jump Shot,JUMP_SHOTS,,2002
+Kenny Thomas,1903,Standard Layup,2,146,81,Layup Shot,LAYUPS,,2002
+Kenny Thomas,1903,Reverse Layup,2,7,4,Reverse Layup Shot,LAYUPS,,2002
+Kenny Thomas,1903,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2002
+Kenny Thomas,1903,Running Hook Shot,2,8,5,Running Hook Shot,POST_MOVES,,2002
+Kenny Thomas,1903,Running Jump Shot,2,18,9,Running Jump Shot,JUMP_SHOTS,,2002
+Kenny Thomas,1903,Standard Layup,2,5,4,Running Layup Shot,LAYUPS,,2002
+Kenny Thomas,1903,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2002
+Kenny Thomas,1903,Tip Shot,2,18,7,Tip Shot,TIP_SHOTS,,2002
+Kenny Thomas,1903,Turnaround Hook Shot,2,12,10,Turnaround Hook Shot,POST_MOVES,,2002
+Kenny Thomas,1903,Turnaround Jump Shot,2,26,6,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Kenny Thomas,1903,Alley Oop Dunk,2,1,0,Alley Oop Dunk Shot,DUNKS,,2003
+Kenny Thomas,1903,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2003
+Kenny Thomas,1903,Driving Dunk,2,1,0,Driving Dunk Shot,DUNKS,,2003
+Kenny Thomas,1903,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2003
+Kenny Thomas,1903,Driving Layup,2,36,30,Driving Layup Shot,LAYUPS,,2003
+Kenny Thomas,1903,Standard Dunk,2,25,22,Dunk Shot,DUNKS,,2003
+Kenny Thomas,1903,Fadeaway Jump Shot,2,4,4,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Kenny Thomas,1903,Finger Roll,2,2,2,Finger Roll Shot,LAYUPS,,2003
+Kenny Thomas,1903,Specialty Dunk,2,5,5,Follow Up Dunk Shot,DUNKS,,2003
+Kenny Thomas,1903,Hook Shot,2,28,14,Hook Shot,POST_MOVES,,2003
+Kenny Thomas,1903,Hook Shot,2,4,2,Jump Hook Shot,POST_MOVES,,2003
+Kenny Thomas,1903,Jump Shot,2,212,47,Jump Shot,JUMP_SHOTS,,2003
+Kenny Thomas,1903,Standard Layup,2,154,73,Layup Shot,LAYUPS,,2003
+Kenny Thomas,1903,Reverse Layup,2,10,7,Reverse Layup Shot,LAYUPS,,2003
+Kenny Thomas,1903,Running Jump Shot,2,8,6,Running Jump Shot,JUMP_SHOTS,,2003
+Kenny Thomas,1903,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2003
+Kenny Thomas,1903,Standard Dunk,2,12,12,Slam Dunk Shot,DUNKS,,2003
+Kenny Thomas,1903,Tip Shot,2,25,13,Tip Shot,TIP_SHOTS,,2003
+Kenny Thomas,1903,Finger Roll,2,1,1,Turnaround Finger Roll Shot,LAYUPS,,2003
+Kenny Thomas,1903,Turnaround Hook Shot,2,10,5,Turnaround Hook Shot,POST_MOVES,,2003
+Kenny Thomas,1903,Turnaround Jump Shot,2,17,14,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Kenny Thomas,1903,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2004
+Kenny Thomas,1903,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2004
+Kenny Thomas,1903,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2004
+Kenny Thomas,1903,Finger Roll,2,3,3,Driving Finger Roll Shot,LAYUPS,,2004
+Kenny Thomas,1903,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2004
+Kenny Thomas,1903,Driving Layup,2,25,19,Driving Layup Shot,LAYUPS,,2004
+Kenny Thomas,1903,Standard Dunk,2,37,32,Dunk Shot,DUNKS,,2004
+Kenny Thomas,1903,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Kenny Thomas,1903,Finger Roll,2,3,3,Finger Roll Shot,LAYUPS,,2004
+Kenny Thomas,1903,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2004
+Kenny Thomas,1903,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2004
+Kenny Thomas,1903,Hook Shot,2,32,13,Hook Shot,POST_MOVES,,2004
+Kenny Thomas,1903,Jump Shot,2,11,10,Jump Bank Shot,JUMP_SHOTS,,2004
+Kenny Thomas,1903,Jump Shot,3,1,1,Jump Bank Shot,JUMP_SHOTS,,2004
+Kenny Thomas,1903,Hook Shot,2,4,2,Jump Hook Shot,POST_MOVES,,2004
+Kenny Thomas,1903,Jump Shot,2,309,90,Jump Shot,JUMP_SHOTS,,2004
+Kenny Thomas,1903,Jump Shot,3,3,0,Jump Shot,JUMP_SHOTS,,2004
+Kenny Thomas,1903,Standard Layup,2,242,95,Layup Shot,LAYUPS,,2004
+Kenny Thomas,1903,Reverse Layup,2,24,21,Reverse Layup Shot,LAYUPS,,2004
+Kenny Thomas,1903,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2004
+Kenny Thomas,1903,Running Hook Shot,2,10,5,Running Hook Shot,POST_MOVES,,2004
+Kenny Thomas,1903,Running Jump Shot,2,10,7,Running Jump Shot,JUMP_SHOTS,,2004
+Kenny Thomas,1903,Standard Layup,2,4,4,Running Layup Shot,LAYUPS,,2004
+Kenny Thomas,1903,Standard Dunk,2,11,11,Slam Dunk Shot,DUNKS,,2004
+Kenny Thomas,1903,Tip Shot,2,40,28,Tip Shot,TIP_SHOTS,,2004
+Kenny Thomas,1903,Turnaround Hook Shot,2,13,12,Turnaround Hook Shot,POST_MOVES,,2004
+Kenny Thomas,1903,Turnaround Jump Shot,2,18,14,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Kenny Thomas,1903,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2005
+Kenny Thomas,1903,Driving Dunk,2,5,5,Driving Dunk Shot,DUNKS,,2005
+Kenny Thomas,1903,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2005
+Kenny Thomas,1903,Driving Layup,2,27,22,Driving Layup Shot,LAYUPS,,2005
+Kenny Thomas,1903,Standard Dunk,2,26,25,Dunk Shot,DUNKS,,2005
+Kenny Thomas,1903,Fadeaway Jump Shot,2,4,3,Fadeaway Jump Shot,JUMP_SHOTS,,2005
+Kenny Thomas,1903,Finger Roll,2,4,2,Finger Roll Shot,LAYUPS,,2005
+Kenny Thomas,1903,Specialty Dunk,2,4,2,Follow Up Dunk Shot,DUNKS,,2005
+Kenny Thomas,1903,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2005
+Kenny Thomas,1903,Hook Shot,2,18,5,Hook Shot,POST_MOVES,,2005
+Kenny Thomas,1903,Jump Shot,2,4,3,Jump Bank Shot,JUMP_SHOTS,,2005
+Kenny Thomas,1903,Hook Shot,2,11,7,Jump Hook Shot,POST_MOVES,,2005
+Kenny Thomas,1903,Jump Shot,2,495,209,Jump Shot,JUMP_SHOTS,,2005
+Kenny Thomas,1903,Jump Shot,3,1,1,Jump Shot,JUMP_SHOTS,,2005
+Kenny Thomas,1903,Standard Layup,2,115,39,Layup Shot,LAYUPS,,2005
+Kenny Thomas,1903,Reverse Layup,2,10,9,Reverse Layup Shot,LAYUPS,,2005
+Kenny Thomas,1903,Running Hook Shot,2,3,2,Running Hook Shot,POST_MOVES,,2005
+Kenny Thomas,1903,Running Jump Shot,2,9,4,Running Jump Shot,JUMP_SHOTS,,2005
+Kenny Thomas,1903,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,2005
+Kenny Thomas,1903,Tip Shot,2,28,14,Tip Shot,TIP_SHOTS,,2005
+Kenny Thomas,1903,Turnaround Hook Shot,2,5,4,Turnaround Hook Shot,POST_MOVES,,2005
+Kenny Thomas,1903,Turnaround Jump Shot,2,2,2,Turnaround Jump Shot,JUMP_SHOTS,,2005
+Kenny Thomas,1903,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2006
+Kenny Thomas,1903,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2006
+Kenny Thomas,1903,Driving Layup,2,37,25,Driving Layup Shot,LAYUPS,,2006
+Kenny Thomas,1903,Standard Dunk,2,33,32,Dunk Shot,DUNKS,,2006
+Kenny Thomas,1903,Fadeaway Jump Shot,2,2,2,Fadeaway Jump Shot,JUMP_SHOTS,,2006
+Kenny Thomas,1903,Finger Roll,2,5,4,Finger Roll Shot,LAYUPS,,2006
+Kenny Thomas,1903,Specialty Dunk,2,5,4,Follow Up Dunk Shot,DUNKS,,2006
+Kenny Thomas,1903,Hook Shot,2,11,4,Hook Shot,POST_MOVES,,2006
+Kenny Thomas,1903,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2006
+Kenny Thomas,1903,Hook Shot,2,11,6,Jump Hook Shot,POST_MOVES,,2006
+Kenny Thomas,1903,Jump Shot,2,277,90,Jump Shot,JUMP_SHOTS,,2006
+Kenny Thomas,1903,Standard Layup,2,155,87,Layup Shot,LAYUPS,,2006
+Kenny Thomas,1903,Reverse Layup,2,16,15,Reverse Layup Shot,LAYUPS,,2006
+Kenny Thomas,1903,Running Hook Shot,2,3,2,Running Hook Shot,POST_MOVES,,2006
+Kenny Thomas,1903,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2006
+Kenny Thomas,1903,Standard Dunk,2,13,13,Slam Dunk Shot,DUNKS,,2006
+Kenny Thomas,1903,Tip Shot,2,20,9,Tip Shot,TIP_SHOTS,,2006
+Kenny Thomas,1903,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2006
+Kenny Thomas,1903,Turnaround Jump Shot,2,5,3,Turnaround Jump Shot,JUMP_SHOTS,,2006
+Kenny Thomas,1903,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2007
+Kenny Thomas,1903,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2007
+Kenny Thomas,1903,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2007
+Kenny Thomas,1903,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,,2007
+Kenny Thomas,1903,Driving Layup,2,7,5,Driving Layup Shot,LAYUPS,,2007
+Kenny Thomas,1903,Standard Dunk,2,19,16,Dunk Shot,DUNKS,,2007
+Kenny Thomas,1903,Finger Roll,2,1,0,Finger Roll Shot,LAYUPS,,2007
+Kenny Thomas,1903,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2007
+Kenny Thomas,1903,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2007
+Kenny Thomas,1903,Hook Shot,2,25,6,Hook Shot,POST_MOVES,,2007
+Kenny Thomas,1903,Jump Shot,2,2,0,Jump Bank Shot,JUMP_SHOTS,,2007
+Kenny Thomas,1903,Hook Shot,2,50,23,Jump Hook Shot,POST_MOVES,,2007
+Kenny Thomas,1903,Jump Shot,2,37,6,Jump Shot,JUMP_SHOTS,,2007
+Kenny Thomas,1903,Standard Layup,2,103,57,Layup Shot,LAYUPS,,2007
+Kenny Thomas,1903,Reverse Layup,2,5,4,Reverse Layup Shot,LAYUPS,,2007
+Kenny Thomas,1903,Running Hook Shot,2,7,2,Running Hook Shot,POST_MOVES,,2007
+Kenny Thomas,1903,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2007
+Kenny Thomas,1903,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2007
+Kenny Thomas,1903,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,2007
+Kenny Thomas,1903,Tip Shot,2,21,6,Tip Shot,TIP_SHOTS,,2007
+Kenny Thomas,1903,Turnaround Hook Shot,2,7,5,Turnaround Hook Shot,POST_MOVES,,2007
+Kenny Thomas,1903,Turnaround Jump Shot,2,5,3,Turnaround Jump Shot,JUMP_SHOTS,,2007
+Kenny Thomas,1903,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2008
+Kenny Thomas,1903,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2008
+Kenny Thomas,1903,Hook Shot,2,4,2,Jump Hook Shot,POST_MOVES,,2008
+Kenny Thomas,1903,Jump Shot,2,7,0,Jump Shot,JUMP_SHOTS,,2008
+Kenny Thomas,1903,Standard Layup,2,14,4,Layup Shot,LAYUPS,,2008
+Kenny Thomas,1903,Tip Shot,2,5,3,Tip Shot,TIP_SHOTS,,2008
+Kenny Thomas,1903,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2008
+Kenny Thomas,1903,Jump Shot,2,2,0,Jump Shot,JUMP_SHOTS,,2009
+Kenny Thomas,1903,Standard Layup,2,2,1,Layup Shot,LAYUPS,,2009
+Kenny Thomas,1903,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2009
+Kenny Thomas,1903,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2009
+Kenny Thomas,1903,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2009
+Kenny Thomas,1903,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2010
+Kenny Thomas,1903,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2010
+Kenny Thomas,1903,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2010
+Kenny Thomas,1903,Hook Shot,2,4,2,Jump Hook Shot,POST_MOVES,,2010
+Kenny Thomas,1903,Jump Shot,2,7,1,Jump Shot,JUMP_SHOTS,,2010
+Kenny Thomas,1903,Standard Layup,2,17,11,Layup Shot,LAYUPS,,2010
+Kenny Thomas,1903,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2010
+Kenny Thomas,1903,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,,2010

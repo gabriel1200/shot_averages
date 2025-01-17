@@ -1,12 +1,277 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-201956,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2011
-201956,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2011
-201956,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2013
-201956,Jump Shot,3PT Field Goal,5,1,Jump Shot,JUMP_SHOTS,0.3,2013
-201956,Standard Layup,2PT Field Goal,3,0,Layup Shot,LAYUPS,0.0,2013
-201956,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2014
-201956,Jump Shot,3PT Field Goal,3,3,Jump Shot,JUMP_SHOTS,1.5,2014
-201956,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2014
-201956,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2015
-201956,Standard Layup,2PT Field Goal,1,0,Cutting Layup Shot,LAYUPS,0.0,2018
-201956,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2018
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Omri Casspi,201956,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2010
+Omri Casspi,201956,Alley Oop Layup,2,8,7,Alley Oop Layup shot,LAYUPS,,2010
+Omri Casspi,201956,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2010
+Omri Casspi,201956,Driving Dunk,2,4,2,Driving Dunk Shot,DUNKS,,2010
+Omri Casspi,201956,Finger Roll,2,4,2,Driving Finger Roll Layup Shot,LAYUPS,,2010
+Omri Casspi,201956,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2010
+Omri Casspi,201956,Driving Layup,2,25,20,Driving Layup Shot,LAYUPS,,2010
+Omri Casspi,201956,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2010
+Omri Casspi,201956,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2010
+Omri Casspi,201956,Standard Dunk,2,16,15,Dunk Shot,DUNKS,,2010
+Omri Casspi,201956,Fadeaway Jump Shot,2,5,4,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+Omri Casspi,201956,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2010
+Omri Casspi,201956,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2010
+Omri Casspi,201956,Hook Shot,2,7,2,Hook Shot,POST_MOVES,,2010
+Omri Casspi,201956,Jump Shot,2,3,3,Jump Bank Shot,JUMP_SHOTS,,2010
+Omri Casspi,201956,Hook Shot,2,11,5,Jump Hook Shot,POST_MOVES,,2010
+Omri Casspi,201956,Jump Shot,2,408,139,Jump Shot,JUMP_SHOTS,,2010
+Omri Casspi,201956,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2010
+Omri Casspi,201956,Standard Layup,2,90,49,Layup Shot,LAYUPS,,2010
+Omri Casspi,201956,Pullup Jump Shot,2,5,3,Pullup Jump shot,JUMP_SHOTS,,2010
+Omri Casspi,201956,Putback Layup,2,3,2,Putback Layup Shot,LAYUPS,,2010
+Omri Casspi,201956,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2010
+Omri Casspi,201956,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2010
+Omri Casspi,201956,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2010
+Omri Casspi,201956,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2010
+Omri Casspi,201956,Running Jump Shot,2,21,11,Running Jump Shot,JUMP_SHOTS,,2010
+Omri Casspi,201956,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2010
+Omri Casspi,201956,Standard Dunk,2,7,7,Slam Dunk Shot,DUNKS,,2010
+Omri Casspi,201956,Step Back Jump Shot,2,5,3,Step Back Jump shot,JUMP_SHOTS,,2010
+Omri Casspi,201956,Tip Shot,2,17,9,Tip Shot,TIP_SHOTS,,2010
+Omri Casspi,201956,Turnaround Jump Shot,2,3,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2010
+Omri Casspi,201956,Turnaround Hook Shot,2,2,0,Turnaround Hook Shot,POST_MOVES,,2010
+Omri Casspi,201956,Turnaround Jump Shot,2,10,2,Turnaround Jump Shot,JUMP_SHOTS,,2010
+Omri Casspi,201956,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2011
+Omri Casspi,201956,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2011
+Omri Casspi,201956,Driving Layup,2,9,6,Driving Layup Shot,LAYUPS,,2011
+Omri Casspi,201956,Standard Dunk,2,18,18,Dunk Shot,DUNKS,,2011
+Omri Casspi,201956,Fadeaway Jump Shot,2,5,2,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Omri Casspi,201956,Floating Jump Shot,2,3,2,Floating Jump shot,FLOATING_SHOTS,,2011
+Omri Casspi,201956,Hook Shot,2,3,1,Hook Shot,POST_MOVES,,2011
+Omri Casspi,201956,Jump Shot,2,3,3,Jump Bank Shot,JUMP_SHOTS,,2011
+Omri Casspi,201956,Hook Shot,2,7,4,Jump Hook Shot,POST_MOVES,,2011
+Omri Casspi,201956,Jump Shot,2,387,123,Jump Shot,JUMP_SHOTS,,2011
+Omri Casspi,201956,Jump Shot,3,3,0,Jump Shot,JUMP_SHOTS,,2011
+Omri Casspi,201956,Standard Layup,2,60,35,Layup Shot,LAYUPS,,2011
+Omri Casspi,201956,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2011
+Omri Casspi,201956,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2011
+Omri Casspi,201956,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2011
+Omri Casspi,201956,Running Jump Shot,2,3,3,Running Bank shot,JUMP_SHOTS,,2011
+Omri Casspi,201956,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2011
+Omri Casspi,201956,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2011
+Omri Casspi,201956,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2011
+Omri Casspi,201956,Running Jump Shot,2,8,3,Running Jump Shot,JUMP_SHOTS,,2011
+Omri Casspi,201956,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2011
+Omri Casspi,201956,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2011
+Omri Casspi,201956,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2011
+Omri Casspi,201956,Step Back Jump Shot,2,2,2,Step Back Jump shot,JUMP_SHOTS,,2011
+Omri Casspi,201956,Tip Shot,2,15,7,Tip Shot,TIP_SHOTS,,2011
+Omri Casspi,201956,Turnaround Jump Shot,2,1,0,Turnaround Bank shot,JUMP_SHOTS,,2011
+Omri Casspi,201956,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2011
+Omri Casspi,201956,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2011
+Omri Casspi,201956,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2012
+Omri Casspi,201956,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2012
+Omri Casspi,201956,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2012
+Omri Casspi,201956,Driving Jump Shot,2,2,0,Driving Jump shot,JUMP_SHOTS,,2012
+Omri Casspi,201956,Driving Layup,2,13,7,Driving Layup Shot,LAYUPS,,2012
+Omri Casspi,201956,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2012
+Omri Casspi,201956,Standard Dunk,2,15,13,Dunk Shot,DUNKS,,2012
+Omri Casspi,201956,Fadeaway Jump Shot,2,4,1,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Omri Casspi,201956,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2012
+Omri Casspi,201956,Floating Jump Shot,2,3,2,Floating Jump shot,FLOATING_SHOTS,,2012
+Omri Casspi,201956,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2012
+Omri Casspi,201956,Jump Shot,2,4,4,Jump Bank Shot,JUMP_SHOTS,,2012
+Omri Casspi,201956,Jump Shot,2,208,65,Jump Shot,JUMP_SHOTS,,2012
+Omri Casspi,201956,Jump Shot,3,30,9,Jump Shot,JUMP_SHOTS,,2012
+Omri Casspi,201956,Standard Layup,2,82,36,Layup Shot,LAYUPS,,2012
+Omri Casspi,201956,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2012
+Omri Casspi,201956,Putback Layup,2,3,3,Putback Layup Shot,LAYUPS,,2012
+Omri Casspi,201956,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2012
+Omri Casspi,201956,Running Jump Shot,2,2,0,Running Bank shot,JUMP_SHOTS,,2012
+Omri Casspi,201956,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2012
+Omri Casspi,201956,Running Jump Shot,2,16,8,Running Jump Shot,JUMP_SHOTS,,2012
+Omri Casspi,201956,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2012
+Omri Casspi,201956,Step Back Jump Shot,2,3,1,Step Back Jump shot,JUMP_SHOTS,,2012
+Omri Casspi,201956,Tip Shot,2,9,2,Tip Shot,TIP_SHOTS,,2012
+Omri Casspi,201956,Driving Jump Shot,2,2,0,Driving Jump shot,JUMP_SHOTS,,2013
+Omri Casspi,201956,Driving Layup,2,6,3,Driving Layup Shot,LAYUPS,,2013
+Omri Casspi,201956,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2013
+Omri Casspi,201956,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Omri Casspi,201956,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2013
+Omri Casspi,201956,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2013
+Omri Casspi,201956,Hook Shot,2,1,1,Jump Bank Hook Shot,POST_MOVES,,2013
+Omri Casspi,201956,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2013
+Omri Casspi,201956,Jump Shot,2,80,33,Jump Shot,JUMP_SHOTS,,2013
+Omri Casspi,201956,Jump Shot,3,24,6,Jump Shot,JUMP_SHOTS,,2013
+Omri Casspi,201956,Standard Layup,2,21,6,Layup Shot,LAYUPS,,2013
+Omri Casspi,201956,Pullup Jump Shot,2,3,1,Pullup Jump shot,JUMP_SHOTS,,2013
+Omri Casspi,201956,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2013
+Omri Casspi,201956,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2013
+Omri Casspi,201956,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2013
+Omri Casspi,201956,Running Jump Shot,2,3,0,Running Jump Shot,JUMP_SHOTS,,2013
+Omri Casspi,201956,Standard Layup,2,3,3,Running Layup Shot,LAYUPS,,2013
+Omri Casspi,201956,Step Back Jump Shot,2,5,4,Step Back Jump shot,JUMP_SHOTS,,2013
+Omri Casspi,201956,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2013
+Omri Casspi,201956,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Omri Casspi,201956,Alley Oop Layup,2,3,0,Alley Oop Layup shot,LAYUPS,,2014
+Omri Casspi,201956,Finger Roll,2,3,3,Driving Finger Roll Layup Shot,LAYUPS,,2014
+Omri Casspi,201956,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2014
+Omri Casspi,201956,Driving Layup,2,23,11,Driving Layup Shot,LAYUPS,,2014
+Omri Casspi,201956,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2014
+Omri Casspi,201956,Driving Dunk,2,2,1,Driving Slam Dunk Shot,DUNKS,,2014
+Omri Casspi,201956,Standard Dunk,2,6,6,Dunk Shot,DUNKS,,2014
+Omri Casspi,201956,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2014
+Omri Casspi,201956,Fadeaway Jump Shot,2,5,0,Fadeaway Jump Shot,JUMP_SHOTS,,2014
+Omri Casspi,201956,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2014
+Omri Casspi,201956,Floating Jump Shot,2,10,7,Floating Jump shot,FLOATING_SHOTS,,2014
+Omri Casspi,201956,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2014
+Omri Casspi,201956,Jump Shot,2,6,3,Jump Bank Shot,JUMP_SHOTS,,2014
+Omri Casspi,201956,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2014
+Omri Casspi,201956,Jump Shot,2,209,63,Jump Shot,JUMP_SHOTS,,2014
+Omri Casspi,201956,Jump Shot,3,15,6,Jump Shot,JUMP_SHOTS,,2014
+Omri Casspi,201956,Standard Layup,2,47,29,Layup Shot,LAYUPS,,2014
+Omri Casspi,201956,Pullup Jump Shot,2,1,0,Pullup Bank shot,JUMP_SHOTS,,2014
+Omri Casspi,201956,Pullup Jump Shot,2,6,4,Pullup Jump shot,JUMP_SHOTS,,2014
+Omri Casspi,201956,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2014
+Omri Casspi,201956,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2014
+Omri Casspi,201956,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2014
+Omri Casspi,201956,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2014
+Omri Casspi,201956,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2014
+Omri Casspi,201956,Running Jump Shot,2,23,10,Running Jump Shot,JUMP_SHOTS,,2014
+Omri Casspi,201956,Standard Layup,2,3,3,Running Layup Shot,LAYUPS,,2014
+Omri Casspi,201956,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2014
+Omri Casspi,201956,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2014
+Omri Casspi,201956,Step Back Jump Shot,2,11,4,Step Back Jump shot,JUMP_SHOTS,,2014
+Omri Casspi,201956,Tip Shot,2,6,3,Tip Shot,TIP_SHOTS,,2014
+Omri Casspi,201956,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2014
+Omri Casspi,201956,Turnaround Jump Shot,2,4,3,Turnaround Fadeaway shot,JUMP_SHOTS,,2014
+Omri Casspi,201956,Turnaround Jump Shot,2,9,3,Turnaround Jump Shot,JUMP_SHOTS,,2014
+Omri Casspi,201956,Driving Jump Shot,2,1,0,Driving Bank shot,JUMP_SHOTS,,2015
+Omri Casspi,201956,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2015
+Omri Casspi,201956,Driving Jump Shot,2,2,2,Driving Jump shot,JUMP_SHOTS,,2015
+Omri Casspi,201956,Driving Layup,2,45,40,Driving Layup Shot,LAYUPS,,2015
+Omri Casspi,201956,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2015
+Omri Casspi,201956,Standard Dunk,2,18,16,Dunk Shot,DUNKS,,2015
+Omri Casspi,201956,Finger Roll,2,4,3,Finger Roll Layup Shot,LAYUPS,,2015
+Omri Casspi,201956,Floating Jump Shot,2,6,2,Floating Jump shot,FLOATING_SHOTS,,2015
+Omri Casspi,201956,Hook Shot,2,3,2,Hook Shot,POST_MOVES,,2015
+Omri Casspi,201956,Jump Shot,2,3,1,Jump Bank Shot,JUMP_SHOTS,,2015
+Omri Casspi,201956,Hook Shot,2,3,3,Jump Hook Shot,POST_MOVES,,2015
+Omri Casspi,201956,Jump Shot,2,187,49,Jump Shot,JUMP_SHOTS,,2015
+Omri Casspi,201956,Jump Shot,3,2,1,Jump Shot,JUMP_SHOTS,,2015
+Omri Casspi,201956,Standard Layup,2,87,51,Layup Shot,LAYUPS,,2015
+Omri Casspi,201956,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2015
+Omri Casspi,201956,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2015
+Omri Casspi,201956,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2015
+Omri Casspi,201956,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2015
+Omri Casspi,201956,Reverse Layup,2,4,3,Reverse Layup Shot,LAYUPS,,2015
+Omri Casspi,201956,Running Jump Shot,2,2,2,Running Bank shot,JUMP_SHOTS,,2015
+Omri Casspi,201956,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2015
+Omri Casspi,201956,Running Jump Shot,2,29,13,Running Jump Shot,JUMP_SHOTS,,2015
+Omri Casspi,201956,Standard Layup,2,6,4,Running Layup Shot,LAYUPS,,2015
+Omri Casspi,201956,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2015
+Omri Casspi,201956,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,2015
+Omri Casspi,201956,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2015
+Omri Casspi,201956,Tip Shot,2,4,1,Tip Shot,TIP_SHOTS,,2015
+Omri Casspi,201956,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2015
+Omri Casspi,201956,Alley Oop Dunk,2,3,3,Alley Oop Dunk Shot,DUNKS,,2016
+Omri Casspi,201956,Specialty Dunk,2,4,4,Cutting Dunk Shot,DUNKS,,2016
+Omri Casspi,201956,Finger Roll,2,3,3,Cutting Finger Roll Layup Shot,LAYUPS,,2016
+Omri Casspi,201956,Standard Layup,2,16,13,Cutting Layup Shot,LAYUPS,,2016
+Omri Casspi,201956,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2016
+Omri Casspi,201956,Driving Dunk,2,8,7,Driving Dunk Shot,DUNKS,,2016
+Omri Casspi,201956,Finger Roll,2,12,10,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Omri Casspi,201956,Floating Jump Shot,2,3,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2016
+Omri Casspi,201956,Floating Jump Shot,2,9,8,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Omri Casspi,201956,Driving Hook Shot,2,2,0,Driving Hook Shot,POST_MOVES,,2016
+Omri Casspi,201956,Driving Layup,2,43,29,Driving Layup Shot,LAYUPS,,2016
+Omri Casspi,201956,Driving Layup,2,3,3,Driving Reverse Layup Shot,LAYUPS,,2016
+Omri Casspi,201956,Standard Dunk,2,6,5,Dunk Shot,DUNKS,,2016
+Omri Casspi,201956,Finger Roll,2,6,3,Finger Roll Layup Shot,LAYUPS,,2016
+Omri Casspi,201956,Floating Jump Shot,2,27,11,Floating Jump shot,FLOATING_SHOTS,,2016
+Omri Casspi,201956,Hook Shot,2,8,5,Hook Shot,POST_MOVES,,2016
+Omri Casspi,201956,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2016
+Omri Casspi,201956,Jump Shot,2,323,115,Jump Shot,JUMP_SHOTS,,2016
+Omri Casspi,201956,Standard Layup,2,59,25,Layup Shot,LAYUPS,,2016
+Omri Casspi,201956,Pullup Jump Shot,2,7,5,Pullup Jump shot,JUMP_SHOTS,,2016
+Omri Casspi,201956,Putback Layup,2,4,4,Putback Layup Shot,LAYUPS,,2016
+Omri Casspi,201956,Reverse Layup,2,4,4,Reverse Layup Shot,LAYUPS,,2016
+Omri Casspi,201956,Standard Dunk,2,11,11,Running Dunk Shot,DUNKS,,2016
+Omri Casspi,201956,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2016
+Omri Casspi,201956,Running Jump Shot,2,14,4,Running Jump Shot,JUMP_SHOTS,,2016
+Omri Casspi,201956,Standard Layup,2,11,7,Running Layup Shot,LAYUPS,,2016
+Omri Casspi,201956,Step Back Jump Shot,2,10,5,Step Back Jump shot,JUMP_SHOTS,,2016
+Omri Casspi,201956,Putback Layup,2,16,8,Tip Layup Shot,LAYUPS,,2016
+Omri Casspi,201956,Turnaround Jump Shot,2,6,2,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Omri Casspi,201956,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2017
+Omri Casspi,201956,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2017
+Omri Casspi,201956,Finger Roll,2,2,2,Cutting Finger Roll Layup Shot,LAYUPS,,2017
+Omri Casspi,201956,Standard Layup,2,12,12,Cutting Layup Shot,LAYUPS,,2017
+Omri Casspi,201956,Driving Jump Shot,2,4,0,Driving Bank shot,JUMP_SHOTS,,2017
+Omri Casspi,201956,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2017
+Omri Casspi,201956,Finger Roll,2,4,2,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Omri Casspi,201956,Floating Jump Shot,2,3,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Omri Casspi,201956,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2017
+Omri Casspi,201956,Driving Layup,2,10,6,Driving Layup Shot,LAYUPS,,2017
+Omri Casspi,201956,Driving Layup,2,3,3,Driving Reverse Layup Shot,LAYUPS,,2017
+Omri Casspi,201956,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2017
+Omri Casspi,201956,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Omri Casspi,201956,Floating Jump Shot,2,4,1,Floating Jump shot,FLOATING_SHOTS,,2017
+Omri Casspi,201956,Jump Shot,2,59,18,Jump Shot,JUMP_SHOTS,,2017
+Omri Casspi,201956,Jump Shot,3,2,2,Jump Shot,JUMP_SHOTS,,2017
+Omri Casspi,201956,Standard Layup,2,24,9,Layup Shot,LAYUPS,,2017
+Omri Casspi,201956,Pullup Jump Shot,2,2,0,Pullup Jump shot,JUMP_SHOTS,,2017
+Omri Casspi,201956,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2017
+Omri Casspi,201956,Standard Dunk,2,2,1,Running Dunk Shot,DUNKS,,2017
+Omri Casspi,201956,Running Jump Shot,2,7,1,Running Jump Shot,JUMP_SHOTS,,2017
+Omri Casspi,201956,Standard Layup,2,7,5,Running Layup Shot,LAYUPS,,2017
+Omri Casspi,201956,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2017
+Omri Casspi,201956,Putback Layup,2,8,3,Tip Layup Shot,LAYUPS,,2017
+Omri Casspi,201956,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2018
+Omri Casspi,201956,Specialty Dunk,2,3,2,Cutting Dunk Shot,DUNKS,,2018
+Omri Casspi,201956,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2018
+Omri Casspi,201956,Standard Layup,2,25,21,Cutting Layup Shot,LAYUPS,,2018
+Omri Casspi,201956,Finger Roll,2,5,5,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Omri Casspi,201956,Floating Jump Shot,2,2,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Omri Casspi,201956,Floating Jump Shot,2,5,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Omri Casspi,201956,Driving Hook Shot,2,2,2,Driving Hook Shot,POST_MOVES,,2018
+Omri Casspi,201956,Driving Layup,2,10,8,Driving Layup Shot,LAYUPS,,2018
+Omri Casspi,201956,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2018
+Omri Casspi,201956,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+Omri Casspi,201956,Finger Roll,2,2,1,Finger Roll Layup Shot,LAYUPS,,2018
+Omri Casspi,201956,Floating Jump Shot,2,13,7,Floating Jump shot,FLOATING_SHOTS,,2018
+Omri Casspi,201956,Hook Shot,2,7,4,Hook Shot,POST_MOVES,,2018
+Omri Casspi,201956,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2018
+Omri Casspi,201956,Jump Shot,2,39,11,Jump Shot,JUMP_SHOTS,,2018
+Omri Casspi,201956,Jump Shot,3,1,1,Jump Shot,JUMP_SHOTS,,2018
+Omri Casspi,201956,Standard Layup,2,31,10,Layup Shot,LAYUPS,,2018
+Omri Casspi,201956,Pullup Jump Shot,2,4,4,Pullup Jump shot,JUMP_SHOTS,,2018
+Omri Casspi,201956,Putback Layup,2,3,2,Putback Layup Shot,LAYUPS,,2018
+Omri Casspi,201956,Reverse Layup,2,6,4,Reverse Layup Shot,LAYUPS,,2018
+Omri Casspi,201956,Standard Dunk,2,4,4,Running Dunk Shot,DUNKS,,2018
+Omri Casspi,201956,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2018
+Omri Casspi,201956,Standard Layup,2,5,4,Running Layup Shot,LAYUPS,,2018
+Omri Casspi,201956,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2018
+Omri Casspi,201956,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2018
+Omri Casspi,201956,Putback Layup,2,13,7,Tip Layup Shot,LAYUPS,,2018
+Omri Casspi,201956,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2018
+Omri Casspi,201956,Turnaround Jump Shot,2,3,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2018
+Omri Casspi,201956,Turnaround Hook Shot,2,6,4,Turnaround Hook Shot,POST_MOVES,,2018
+Omri Casspi,201956,Turnaround Jump Shot,2,4,1,Turnaround Jump Shot,JUMP_SHOTS,,2018
+Omri Casspi,201956,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2019
+Omri Casspi,201956,Specialty Dunk,2,4,4,Cutting Dunk Shot,DUNKS,,2019
+Omri Casspi,201956,Finger Roll,2,3,2,Cutting Finger Roll Layup Shot,LAYUPS,,2019
+Omri Casspi,201956,Standard Layup,2,12,9,Cutting Layup Shot,LAYUPS,,2019
+Omri Casspi,201956,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2019
+Omri Casspi,201956,Finger Roll,2,4,4,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Omri Casspi,201956,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Omri Casspi,201956,Floating Jump Shot,2,4,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Omri Casspi,201956,Driving Layup,2,16,8,Driving Layup Shot,LAYUPS,,2019
+Omri Casspi,201956,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2019
+Omri Casspi,201956,Floating Jump Shot,2,8,5,Floating Jump shot,FLOATING_SHOTS,,2019
+Omri Casspi,201956,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2019
+Omri Casspi,201956,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2019
+Omri Casspi,201956,Jump Shot,2,39,13,Jump Shot,JUMP_SHOTS,,2019
+Omri Casspi,201956,Standard Layup,2,14,9,Layup Shot,LAYUPS,,2019
+Omri Casspi,201956,Pullup Jump Shot,2,2,0,Pullup Jump shot,JUMP_SHOTS,,2019
+Omri Casspi,201956,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2019
+Omri Casspi,201956,Standard Dunk,2,11,11,Running Dunk Shot,DUNKS,,2019
+Omri Casspi,201956,Finger Roll,2,4,3,Running Finger Roll Layup Shot,LAYUPS,,2019
+Omri Casspi,201956,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2019
+Omri Casspi,201956,Standard Layup,2,5,4,Running Layup Shot,LAYUPS,,2019
+Omri Casspi,201956,Step Back Jump Shot,2,5,1,Step Back Jump shot,JUMP_SHOTS,,2019
+Omri Casspi,201956,Putback Layup,2,3,2,Tip Layup Shot,LAYUPS,,2019
+Omri Casspi,201956,Turnaround Jump Shot,2,2,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2019
+Omri Casspi,201956,Turnaround Hook Shot,2,8,3,Turnaround Hook Shot,POST_MOVES,,2019
+Omri Casspi,201956,Turnaround Jump Shot,2,6,1,Turnaround Jump Shot,JUMP_SHOTS,,2019

@@ -1,10 +1,53 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1565,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2003
-1565,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2003
-1565,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2003
-1565,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2004
-1565,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2004
-1565,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2005
-1565,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2005
-1565,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2005
-1565,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2005
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Michael Stewart,1565,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,1998
+Michael Stewart,1565,Driving Layup,2,2,1,Driving Layup Shot,LAYUPS,,1998
+Michael Stewart,1565,Standard Dunk,2,50,45,Dunk Shot,DUNKS,,1998
+Michael Stewart,1565,Hook Shot,2,10,0,Hook Shot,POST_MOVES,,1998
+Michael Stewart,1565,Jump Shot,2,103,25,Jump Shot,JUMP_SHOTS,,1998
+Michael Stewart,1565,Standard Layup,2,65,37,Layup Shot,LAYUPS,,1998
+Michael Stewart,1565,Standard Dunk,2,18,18,Slam Dunk Shot,DUNKS,,1998
+Michael Stewart,1565,Tip Shot,2,73,27,Tip Shot,TIP_SHOTS,,1998
+Michael Stewart,1565,Standard Dunk,2,3,2,Dunk Shot,DUNKS,,1999
+Michael Stewart,1565,Jump Shot,2,19,4,Jump Shot,JUMP_SHOTS,,1999
+Michael Stewart,1565,Standard Layup,2,13,6,Layup Shot,LAYUPS,,1999
+Michael Stewart,1565,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,1999
+Michael Stewart,1565,Tip Shot,2,15,7,Tip Shot,TIP_SHOTS,,1999
+Michael Stewart,1565,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2000
+Michael Stewart,1565,Hook Shot,2,3,1,Hook Shot,POST_MOVES,,2000
+Michael Stewart,1565,Jump Shot,2,21,5,Jump Shot,JUMP_SHOTS,,2000
+Michael Stewart,1565,Standard Layup,2,17,7,Layup Shot,LAYUPS,,2000
+Michael Stewart,1565,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2000
+Michael Stewart,1565,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2000
+Michael Stewart,1565,Tip Shot,2,7,3,Tip Shot,TIP_SHOTS,,2000
+Michael Stewart,1565,Driving Layup,2,3,1,Driving Layup Shot,LAYUPS,,2001
+Michael Stewart,1565,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2001
+Michael Stewart,1565,Jump Shot,2,13,3,Jump Shot,JUMP_SHOTS,,2001
+Michael Stewart,1565,Standard Layup,2,7,3,Layup Shot,LAYUPS,,2001
+Michael Stewart,1565,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2001
+Michael Stewart,1565,Tip Shot,2,6,2,Tip Shot,TIP_SHOTS,,2001
+Michael Stewart,1565,Turnaround Jump Shot,2,3,0,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Michael Stewart,1565,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2002
+Michael Stewart,1565,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2002
+Michael Stewart,1565,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2002
+Michael Stewart,1565,Jump Shot,2,5,0,Jump Shot,JUMP_SHOTS,,2002
+Michael Stewart,1565,Standard Layup,2,6,2,Layup Shot,LAYUPS,,2002
+Michael Stewart,1565,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2002
+Michael Stewart,1565,Tip Shot,2,6,0,Tip Shot,TIP_SHOTS,,2002
+Michael Stewart,1565,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Michael Stewart,1565,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2003
+Michael Stewart,1565,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2003
+Michael Stewart,1565,Jump Shot,2,15,2,Jump Shot,JUMP_SHOTS,,2003
+Michael Stewart,1565,Standard Layup,2,13,5,Layup Shot,LAYUPS,,2003
+Michael Stewart,1565,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2003
+Michael Stewart,1565,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,,2003
+Michael Stewart,1565,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Michael Stewart,1565,Jump Shot,2,4,2,Jump Shot,JUMP_SHOTS,,2004
+Michael Stewart,1565,Standard Layup,2,3,0,Layup Shot,LAYUPS,,2004
+Michael Stewart,1565,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2004
+Michael Stewart,1565,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,,2004
+Michael Stewart,1565,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2005
+Michael Stewart,1565,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2005
+Michael Stewart,1565,Jump Shot,2,4,2,Jump Shot,JUMP_SHOTS,,2005
+Michael Stewart,1565,Standard Layup,2,7,4,Layup Shot,LAYUPS,,2005
+Michael Stewart,1565,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2005
+Michael Stewart,1565,Tip Shot,2,7,2,Tip Shot,TIP_SHOTS,,2005

@@ -1,8 +1,9 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1136,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,1997
-1136,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,1997
-1136,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,1997
-1136,Jump Shot,2PT Field Goal,15,11,Jump Shot,JUMP_SHOTS,0.7333333333333333,1997
-1136,Standard Layup,2PT Field Goal,16,1,Layup Shot,LAYUPS,0.0625,1997
-1136,Standard Dunk,2PT Field Goal,4,4,Slam Dunk Shot,DUNKS,1.0,1997
-1136,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,1997
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Brett Szabo,1136,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,1997
+Brett Szabo,1136,Driving Layup,2,4,3,Driving Layup Shot,LAYUPS,,1997
+Brett Szabo,1136,Standard Dunk,2,4,3,Dunk Shot,DUNKS,,1997
+Brett Szabo,1136,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,1997
+Brett Szabo,1136,Jump Shot,2,39,22,Jump Shot,JUMP_SHOTS,,1997
+Brett Szabo,1136,Standard Layup,2,53,6,Layup Shot,LAYUPS,,1997
+Brett Szabo,1136,Standard Dunk,2,14,14,Slam Dunk Shot,DUNKS,,1997
+Brett Szabo,1136,Tip Shot,2,4,4,Tip Shot,TIP_SHOTS,,1997

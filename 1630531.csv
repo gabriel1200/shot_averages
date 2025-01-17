@@ -1,16 +1,51 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1630531,Standard Layup,2PT Field Goal,1,0,Cutting Layup Shot,LAYUPS,0.0,2024
-1630531,Fadeaway Jump Shot,2PT Field Goal,2,1,Fadeaway Jump Shot,JUMP_SHOTS,0.5,2024
-1630531,Jump Shot,3PT Field Goal,5,1,Jump Shot,JUMP_SHOTS,0.3,2024
-1630531,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2024
-1630531,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2024
-1630531,Putback Layup,2PT Field Goal,2,1,Putback Layup Shot,LAYUPS,0.5,2024
-1630531,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2024
-1630531,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2025
-1630531,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2025
-1630531,Jump Shot,3PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,2025
-1630531,Standard Dunk,2PT Field Goal,2,2,Running Dunk Shot,DUNKS,1.0,2025
-1630531,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2025
-1630531,Running Jump Shot,3PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2025
-1630531,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2025
-1630531,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Jaden Springer,1630531,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2022
+Jaden Springer,1630531,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2023
+Jaden Springer,1630531,Floating Jump Shot,2,5,4,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Jaden Springer,1630531,Driving Layup,2,6,1,Driving Layup Shot,LAYUPS,,2023
+Jaden Springer,1630531,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2023
+Jaden Springer,1630531,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2023
+Jaden Springer,1630531,Jump Shot,2,4,2,Jump Shot,JUMP_SHOTS,,2023
+Jaden Springer,1630531,Pullup Jump Shot,2,5,2,Pullup Jump shot,JUMP_SHOTS,,2023
+Jaden Springer,1630531,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2023
+Jaden Springer,1630531,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2023
+Jaden Springer,1630531,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2023
+Jaden Springer,1630531,Standard Layup,2,4,2,Running Layup Shot,LAYUPS,,2023
+Jaden Springer,1630531,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2023
+Jaden Springer,1630531,Specialty Dunk,2,2,2,Tip Dunk Shot,DUNKS,,2023
+Jaden Springer,1630531,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2023
+Jaden Springer,1630531,Standard Layup,2,3,0,Cutting Layup Shot,LAYUPS,,2024
+Jaden Springer,1630531,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Jaden Springer,1630531,Floating Jump Shot,2,6,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Jaden Springer,1630531,Driving Layup,2,13,5,Driving Layup Shot,LAYUPS,,2024
+Jaden Springer,1630531,Driving Layup,2,4,1,Driving Reverse Layup Shot,LAYUPS,,2024
+Jaden Springer,1630531,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2024
+Jaden Springer,1630531,Fadeaway Jump Shot,2,10,2,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Jaden Springer,1630531,Floating Jump Shot,2,3,0,Floating Jump shot,FLOATING_SHOTS,,2024
+Jaden Springer,1630531,Jump Shot,2,2,1,Jump Shot,JUMP_SHOTS,,2024
+Jaden Springer,1630531,Jump Shot,3,42,10,Jump Shot,JUMP_SHOTS,,2024
+Jaden Springer,1630531,Standard Layup,2,5,3,Layup Shot,LAYUPS,,2024
+Jaden Springer,1630531,Pullup Jump Shot,2,12,6,Pullup Jump shot,JUMP_SHOTS,,2024
+Jaden Springer,1630531,Pullup Jump Shot,3,2,0,Pullup Jump shot,JUMP_SHOTS,,2024
+Jaden Springer,1630531,Putback Layup,2,8,5,Putback Layup Shot,LAYUPS,,2024
+Jaden Springer,1630531,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2024
+Jaden Springer,1630531,Standard Dunk,2,6,6,Running Dunk Shot,DUNKS,,2024
+Jaden Springer,1630531,Running Jump Shot,3,3,0,Running Jump Shot,JUMP_SHOTS,,2024
+Jaden Springer,1630531,Standard Layup,2,12,9,Running Layup Shot,LAYUPS,,2024
+Jaden Springer,1630531,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Jaden Springer,1630531,Reverse Dunk,2,1,1,Running Reverse Dunk Shot,DUNKS,,2024
+Jaden Springer,1630531,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2024
+Jaden Springer,1630531,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2024
+Jaden Springer,1630531,Putback Layup,2,1,1,Tip Layup Shot,LAYUPS,,2024
+Jaden Springer,1630531,Turnaround Jump Shot,2,3,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2024
+Jaden Springer,1630531,Turnaround Jump Shot,2,5,1,Turnaround Jump Shot,JUMP_SHOTS,,2024
+Jaden Springer,1630531,Driving Layup,2,2,1,Driving Layup Shot,LAYUPS,,2025
+Jaden Springer,1630531,Jump Shot,2,1,0,Jump Shot,JUMP_SHOTS,,2025
+Jaden Springer,1630531,Jump Shot,3,3,0,Jump Shot,JUMP_SHOTS,,2025
+Jaden Springer,1630531,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2025
+Jaden Springer,1630531,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2025
+Jaden Springer,1630531,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2025
+Jaden Springer,1630531,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2025
+Jaden Springer,1630531,Running Jump Shot,3,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025
+Jaden Springer,1630531,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2025
+Jaden Springer,1630531,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2025

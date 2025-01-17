@@ -1,23 +1,118 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-201187,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2009
-201187,Driving Jump Shot,2PT Field Goal,1,1,Driving Jump shot,JUMP_SHOTS,1.0,2011
-201187,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2011
-201187,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2011
-201187,Jump Shot,2PT Field Goal,31,8,Jump Shot,JUMP_SHOTS,0.2580645161290322,2011
-201187,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2011
-201187,Standard Layup,2PT Field Goal,22,10,Layup Shot,LAYUPS,0.4545454545454545,2011
-201187,Putback Dunk,2PT Field Goal,4,4,Putback Dunk Shot,DUNKS,1.0,2011
-201187,Reverse Layup,2PT Field Goal,2,0,Reverse Layup Shot,LAYUPS,0.0,2011
-201187,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2011
-201187,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.0,2011
-201187,Tip Shot,2PT Field Goal,6,4,Tip Shot,TIP_SHOTS,0.6666666666666666,2011
-201187,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Bank shot,JUMP_SHOTS,1.0,2011
-201187,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2012
-201187,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2012
-201187,Jump Shot,2PT Field Goal,5,3,Jump Shot,JUMP_SHOTS,0.6,2012
-201187,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2012
-201187,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.0,2012
-201187,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2013
-201187,Jump Shot,2PT Field Goal,8,4,Jump Shot,JUMP_SHOTS,0.5,2013
-201187,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2013
-201187,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2013
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Dominic McGuire,201187,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2008
+Dominic McGuire,201187,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2008
+Dominic McGuire,201187,Driving Layup,2,3,1,Driving Layup Shot,LAYUPS,,2008
+Dominic McGuire,201187,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2008
+Dominic McGuire,201187,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2008
+Dominic McGuire,201187,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2008
+Dominic McGuire,201187,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2008
+Dominic McGuire,201187,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2008
+Dominic McGuire,201187,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2008
+Dominic McGuire,201187,Jump Shot,2,49,8,Jump Shot,JUMP_SHOTS,,2008
+Dominic McGuire,201187,Standard Layup,2,23,8,Layup Shot,LAYUPS,,2008
+Dominic McGuire,201187,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2008
+Dominic McGuire,201187,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2008
+Dominic McGuire,201187,Putback Dunk,2,2,2,Putback Slam Dunk Shot,DUNKS,,2008
+Dominic McGuire,201187,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2008
+Dominic McGuire,201187,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2008
+Dominic McGuire,201187,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2008
+Dominic McGuire,201187,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,2008
+Dominic McGuire,201187,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2008
+Dominic McGuire,201187,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2008
+Dominic McGuire,201187,Alley Oop Dunk,2,7,7,Alley Oop Dunk Shot,DUNKS,,2009
+Dominic McGuire,201187,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2009
+Dominic McGuire,201187,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2009
+Dominic McGuire,201187,Driving Dunk,2,6,6,Driving Dunk Shot,DUNKS,,2009
+Dominic McGuire,201187,Driving Layup,2,13,8,Driving Layup Shot,LAYUPS,,2009
+Dominic McGuire,201187,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2009
+Dominic McGuire,201187,Driving Dunk,2,2,2,Driving Slam Dunk Shot,DUNKS,,2009
+Dominic McGuire,201187,Standard Dunk,2,9,5,Dunk Shot,DUNKS,,2009
+Dominic McGuire,201187,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2009
+Dominic McGuire,201187,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2009
+Dominic McGuire,201187,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2009
+Dominic McGuire,201187,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2009
+Dominic McGuire,201187,Jump Shot,2,171,51,Jump Shot,JUMP_SHOTS,,2009
+Dominic McGuire,201187,Standard Layup,2,56,15,Layup Shot,LAYUPS,,2009
+Dominic McGuire,201187,Putback Dunk,2,7,7,Putback Dunk Shot,DUNKS,,2009
+Dominic McGuire,201187,Putback Layup,2,7,5,Putback Layup Shot,LAYUPS,,2009
+Dominic McGuire,201187,Putback Dunk,2,1,1,Putback Slam Dunk Shot,DUNKS,,2009
+Dominic McGuire,201187,Reverse Layup,2,10,6,Reverse Layup Shot,LAYUPS,,2009
+Dominic McGuire,201187,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2009
+Dominic McGuire,201187,Running Jump Shot,2,6,3,Running Jump Shot,JUMP_SHOTS,,2009
+Dominic McGuire,201187,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,2009
+Dominic McGuire,201187,Tip Shot,2,12,8,Tip Shot,TIP_SHOTS,,2009
+Dominic McGuire,201187,Turnaround Jump Shot,2,2,2,Turnaround Bank shot,JUMP_SHOTS,,2009
+Dominic McGuire,201187,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2010
+Dominic McGuire,201187,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2010
+Dominic McGuire,201187,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2010
+Dominic McGuire,201187,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+Dominic McGuire,201187,Jump Shot,2,27,6,Jump Shot,JUMP_SHOTS,,2010
+Dominic McGuire,201187,Standard Layup,2,9,1,Layup Shot,LAYUPS,,2010
+Dominic McGuire,201187,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2010
+Dominic McGuire,201187,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2010
+Dominic McGuire,201187,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2010
+Dominic McGuire,201187,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2010
+Dominic McGuire,201187,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2010
+Dominic McGuire,201187,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,,2010
+Dominic McGuire,201187,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2011
+Dominic McGuire,201187,Driving Jump Shot,2,2,2,Driving Jump shot,JUMP_SHOTS,,2011
+Dominic McGuire,201187,Driving Layup,2,6,5,Driving Layup Shot,LAYUPS,,2011
+Dominic McGuire,201187,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2011
+Dominic McGuire,201187,Standard Dunk,2,4,3,Dunk Shot,DUNKS,,2011
+Dominic McGuire,201187,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Dominic McGuire,201187,Jump Shot,2,89,22,Jump Shot,JUMP_SHOTS,,2011
+Dominic McGuire,201187,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2011
+Dominic McGuire,201187,Standard Layup,2,37,16,Layup Shot,LAYUPS,,2011
+Dominic McGuire,201187,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2011
+Dominic McGuire,201187,Putback Dunk,2,4,4,Putback Dunk Shot,DUNKS,,2011
+Dominic McGuire,201187,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2011
+Dominic McGuire,201187,Reverse Layup,2,7,0,Reverse Layup Shot,LAYUPS,,2011
+Dominic McGuire,201187,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2011
+Dominic McGuire,201187,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2011
+Dominic McGuire,201187,Tip Shot,2,1,1,Running Tip Shot,TIP_SHOTS,,2011
+Dominic McGuire,201187,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2011
+Dominic McGuire,201187,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2011
+Dominic McGuire,201187,Tip Shot,2,15,8,Tip Shot,TIP_SHOTS,,2011
+Dominic McGuire,201187,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2011
+Dominic McGuire,201187,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2011
+Dominic McGuire,201187,Alley Oop Dunk,2,3,3,Alley Oop Dunk Shot,DUNKS,,2012
+Dominic McGuire,201187,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2012
+Dominic McGuire,201187,Driving Dunk,2,1,0,Driving Dunk Shot,DUNKS,,2012
+Dominic McGuire,201187,Driving Jump Shot,2,1,1,Driving Jump shot,JUMP_SHOTS,,2012
+Dominic McGuire,201187,Driving Layup,2,13,7,Driving Layup Shot,LAYUPS,,2012
+Dominic McGuire,201187,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2012
+Dominic McGuire,201187,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2012
+Dominic McGuire,201187,Standard Dunk,2,6,6,Dunk Shot,DUNKS,,2012
+Dominic McGuire,201187,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2012
+Dominic McGuire,201187,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2012
+Dominic McGuire,201187,Hook Shot,2,1,1,Jump Bank Hook Shot,POST_MOVES,,2012
+Dominic McGuire,201187,Jump Shot,2,3,3,Jump Bank Shot,JUMP_SHOTS,,2012
+Dominic McGuire,201187,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2012
+Dominic McGuire,201187,Jump Shot,2,70,12,Jump Shot,JUMP_SHOTS,,2012
+Dominic McGuire,201187,Jump Shot,3,3,0,Jump Shot,JUMP_SHOTS,,2012
+Dominic McGuire,201187,Standard Layup,2,39,18,Layup Shot,LAYUPS,,2012
+Dominic McGuire,201187,Pullup Jump Shot,2,11,6,Pullup Jump shot,JUMP_SHOTS,,2012
+Dominic McGuire,201187,Putback Dunk,2,4,3,Putback Dunk Shot,DUNKS,,2012
+Dominic McGuire,201187,Putback Dunk,2,1,1,Putback Slam Dunk Shot,DUNKS,,2012
+Dominic McGuire,201187,Reverse Layup,2,7,5,Reverse Layup Shot,LAYUPS,,2012
+Dominic McGuire,201187,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2012
+Dominic McGuire,201187,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2012
+Dominic McGuire,201187,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2012
+Dominic McGuire,201187,Standard Dunk,2,7,7,Slam Dunk Shot,DUNKS,,2012
+Dominic McGuire,201187,Step Back Jump Shot,2,13,10,Step Back Jump shot,JUMP_SHOTS,,2012
+Dominic McGuire,201187,Tip Shot,2,14,3,Tip Shot,TIP_SHOTS,,2012
+Dominic McGuire,201187,Turnaround Jump Shot,2,2,1,Turnaround Bank shot,JUMP_SHOTS,,2012
+Dominic McGuire,201187,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2012
+Dominic McGuire,201187,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2013
+Dominic McGuire,201187,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2013
+Dominic McGuire,201187,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2013
+Dominic McGuire,201187,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2013
+Dominic McGuire,201187,Jump Shot,2,28,13,Jump Shot,JUMP_SHOTS,,2013
+Dominic McGuire,201187,Standard Layup,2,9,1,Layup Shot,LAYUPS,,2013
+Dominic McGuire,201187,Pullup Jump Shot,2,3,2,Pullup Jump shot,JUMP_SHOTS,,2013
+Dominic McGuire,201187,Reverse Layup,2,4,2,Reverse Layup Shot,LAYUPS,,2013
+Dominic McGuire,201187,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2013
+Dominic McGuire,201187,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2013
+Dominic McGuire,201187,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2013
+Dominic McGuire,201187,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2013
+Dominic McGuire,201187,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2013

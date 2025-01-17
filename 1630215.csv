@@ -1,40 +1,76 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1630215,Standard Layup,2PT Field Goal,3,2,Cutting Layup Shot,LAYUPS,0.6666666666666666,2024
-1630215,Driving Hook Shot,2PT Field Goal,1,1,Driving Bank Hook Shot,POST_MOVES,1.0,2024
-1630215,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2024
-1630215,Finger Roll,2PT Field Goal,7,6,Driving Finger Roll Layup Shot,LAYUPS,0.8571428571428571,2024
-1630215,Floating Jump Shot,2PT Field Goal,15,6,Driving Floating Jump Shot,FLOATING_SHOTS,0.4,2024
-1630215,Driving Layup,2PT Field Goal,19,7,Driving Layup Shot,LAYUPS,0.3684210526315789,2024
-1630215,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2024
-1630215,Floating Jump Shot,2PT Field Goal,3,1,Floating Jump shot,FLOATING_SHOTS,0.3333333333333333,2024
-1630215,Jump Shot,3PT Field Goal,14,2,Jump Shot,JUMP_SHOTS,0.2142857142857142,2024
-1630215,Pullup Jump Shot,2PT Field Goal,3,3,Pullup Jump shot,JUMP_SHOTS,1.0,2024
-1630215,Pullup Jump Shot,3PT Field Goal,9,5,Pullup Jump shot,JUMP_SHOTS,0.8333333333333334,2024
-1630215,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2024
-1630215,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2024
-1630215,Finger Roll,2PT Field Goal,2,2,Running Finger Roll Layup Shot,LAYUPS,1.0,2024
-1630215,Running Jump Shot,3PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.75,2024
-1630215,Standard Layup,2PT Field Goal,5,5,Running Layup Shot,LAYUPS,1.0,2024
-1630215,Running Jump Shot,3PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2024
-1630215,Step Back Jump Shot,3PT Field Goal,7,3,Step Back Jump shot,JUMP_SHOTS,0.6428571428571429,2024
-1630215,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,1.0,2024
-1630215,Finger Roll,2PT Field Goal,1,1,Cutting Finger Roll Layup Shot,LAYUPS,1.0,2025
-1630215,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2025
-1630215,Finger Roll,2PT Field Goal,8,7,Driving Finger Roll Layup Shot,LAYUPS,0.875,2025
-1630215,Floating Jump Shot,2PT Field Goal,4,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.25,2025
-1630215,Floating Jump Shot,2PT Field Goal,17,6,Driving Floating Jump Shot,FLOATING_SHOTS,0.3529411764705882,2025
-1630215,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2025
-1630215,Driving Layup,2PT Field Goal,17,7,Driving Layup Shot,LAYUPS,0.4117647058823529,2025
-1630215,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2025
-1630215,Floating Jump Shot,2PT Field Goal,3,1,Floating Jump shot,FLOATING_SHOTS,0.3333333333333333,2025
-1630215,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2025
-1630215,Jump Shot,3PT Field Goal,12,4,Jump Shot,JUMP_SHOTS,0.5,2025
-1630215,Standard Layup,2PT Field Goal,3,2,Layup Shot,LAYUPS,0.6666666666666666,2025
-1630215,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2025
-1630215,Pullup Jump Shot,3PT Field Goal,4,1,Pullup Jump shot,JUMP_SHOTS,0.375,2025
-1630215,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2025
-1630215,Finger Roll,2PT Field Goal,3,2,Running Finger Roll Layup Shot,LAYUPS,0.6666666666666666,2025
-1630215,Running Jump Shot,3PT Field Goal,2,2,Running Jump Shot,JUMP_SHOTS,1.5,2025
-1630215,Standard Layup,2PT Field Goal,4,3,Running Layup Shot,LAYUPS,0.75,2025
-1630215,Step Back Jump Shot,3PT Field Goal,2,1,Step Back Jump shot,JUMP_SHOTS,0.75,2025
-1630215,Putback Layup,2PT Field Goal,3,3,Tip Layup Shot,LAYUPS,1.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Jared Butler,1630215,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2022
+Jared Butler,1630215,Finger Roll,2,5,2,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Jared Butler,1630215,Floating Jump Shot,2,7,4,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Jared Butler,1630215,Floating Jump Shot,2,8,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Jared Butler,1630215,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2022
+Jared Butler,1630215,Driving Layup,2,17,9,Driving Layup Shot,LAYUPS,,2022
+Jared Butler,1630215,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Jared Butler,1630215,Floating Jump Shot,2,3,1,Floating Jump shot,FLOATING_SHOTS,,2022
+Jared Butler,1630215,Jump Shot,2,36,13,Jump Shot,JUMP_SHOTS,,2022
+Jared Butler,1630215,Jump Shot,3,4,1,Jump Shot,JUMP_SHOTS,,2022
+Jared Butler,1630215,Standard Layup,2,2,2,Layup Shot,LAYUPS,,2022
+Jared Butler,1630215,Pullup Jump Shot,2,24,7,Pullup Jump shot,JUMP_SHOTS,,2022
+Jared Butler,1630215,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2022
+Jared Butler,1630215,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2022
+Jared Butler,1630215,Standard Layup,2,4,1,Running Layup Shot,LAYUPS,,2022
+Jared Butler,1630215,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
+Jared Butler,1630215,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2022
+Jared Butler,1630215,Step Back Jump Shot,2,31,13,Step Back Jump shot,JUMP_SHOTS,,2022
+Jared Butler,1630215,Step Back Jump Shot,3,2,1,Step Back Jump shot,JUMP_SHOTS,,2022
+Jared Butler,1630215,Putback Layup,2,1,1,Tip Layup Shot,LAYUPS,,2022
+Jared Butler,1630215,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Jared Butler,1630215,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+Jared Butler,1630215,Floating Jump Shot,2,6,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Jared Butler,1630215,Driving Layup,2,7,2,Driving Layup Shot,LAYUPS,,2023
+Jared Butler,1630215,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2023
+Jared Butler,1630215,Jump Shot,2,1,0,Jump Shot,JUMP_SHOTS,,2023
+Jared Butler,1630215,Jump Shot,3,6,4,Jump Shot,JUMP_SHOTS,,2023
+Jared Butler,1630215,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2023
+Jared Butler,1630215,Pullup Jump Shot,3,4,2,Pullup Jump shot,JUMP_SHOTS,,2023
+Jared Butler,1630215,Running Jump Shot,3,1,1,Running Jump Shot,JUMP_SHOTS,,2023
+Jared Butler,1630215,Step Back Jump Shot,3,2,0,Step Back Jump shot,JUMP_SHOTS,,2023
+Jared Butler,1630215,Standard Layup,2,6,5,Cutting Layup Shot,LAYUPS,,2024
+Jared Butler,1630215,Driving Hook Shot,2,3,1,Driving Bank Hook Shot,POST_MOVES,,2024
+Jared Butler,1630215,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2024
+Jared Butler,1630215,Finger Roll,2,11,9,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Jared Butler,1630215,Floating Jump Shot,2,2,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Jared Butler,1630215,Floating Jump Shot,2,22,10,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Jared Butler,1630215,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2024
+Jared Butler,1630215,Driving Layup,2,41,21,Driving Layup Shot,LAYUPS,,2024
+Jared Butler,1630215,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2024
+Jared Butler,1630215,Floating Jump Shot,2,5,2,Floating Jump shot,FLOATING_SHOTS,,2024
+Jared Butler,1630215,Jump Shot,3,41,10,Jump Shot,JUMP_SHOTS,,2024
+Jared Butler,1630215,Pullup Jump Shot,2,6,3,Pullup Jump shot,JUMP_SHOTS,,2024
+Jared Butler,1630215,Pullup Jump Shot,3,16,7,Pullup Jump shot,JUMP_SHOTS,,2024
+Jared Butler,1630215,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2024
+Jared Butler,1630215,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2024
+Jared Butler,1630215,Finger Roll,2,2,2,Running Finger Roll Layup Shot,LAYUPS,,2024
+Jared Butler,1630215,Running Jump Shot,3,4,3,Running Jump Shot,JUMP_SHOTS,,2024
+Jared Butler,1630215,Standard Layup,2,14,12,Running Layup Shot,LAYUPS,,2024
+Jared Butler,1630215,Running Jump Shot,3,2,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Jared Butler,1630215,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2024
+Jared Butler,1630215,Step Back Jump Shot,3,15,4,Step Back Jump shot,JUMP_SHOTS,,2024
+Jared Butler,1630215,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2024
+Jared Butler,1630215,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2025
+Jared Butler,1630215,Standard Layup,2,2,2,Cutting Layup Shot,LAYUPS,,2025
+Jared Butler,1630215,Finger Roll,2,10,8,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Jared Butler,1630215,Floating Jump Shot,2,7,3,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2025
+Jared Butler,1630215,Floating Jump Shot,2,32,14,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Jared Butler,1630215,Driving Hook Shot,2,2,0,Driving Hook Shot,POST_MOVES,,2025
+Jared Butler,1630215,Driving Layup,2,35,20,Driving Layup Shot,LAYUPS,,2025
+Jared Butler,1630215,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2025
+Jared Butler,1630215,Floating Jump Shot,2,3,1,Floating Jump shot,FLOATING_SHOTS,,2025
+Jared Butler,1630215,Jump Shot,2,3,0,Jump Shot,JUMP_SHOTS,,2025
+Jared Butler,1630215,Jump Shot,3,21,8,Jump Shot,JUMP_SHOTS,,2025
+Jared Butler,1630215,Standard Layup,2,3,2,Layup Shot,LAYUPS,,2025
+Jared Butler,1630215,Pullup Jump Shot,2,6,2,Pullup Jump shot,JUMP_SHOTS,,2025
+Jared Butler,1630215,Pullup Jump Shot,3,11,4,Pullup Jump shot,JUMP_SHOTS,,2025
+Jared Butler,1630215,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2025
+Jared Butler,1630215,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2025
+Jared Butler,1630215,Finger Roll,2,3,2,Running Finger Roll Layup Shot,LAYUPS,,2025
+Jared Butler,1630215,Running Jump Shot,3,3,2,Running Jump Shot,JUMP_SHOTS,,2025
+Jared Butler,1630215,Standard Layup,2,8,5,Running Layup Shot,LAYUPS,,2025
+Jared Butler,1630215,Step Back Jump Shot,3,4,1,Step Back Jump shot,JUMP_SHOTS,,2025
+Jared Butler,1630215,Putback Layup,2,3,3,Tip Layup Shot,LAYUPS,,2025
+Jared Butler,1630215,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2025

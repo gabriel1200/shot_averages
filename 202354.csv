@@ -1,6 +1,24 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-202354,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2012
-202354,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2012
-202354,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2012
-202354,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2012
-202354,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2012
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Dexter Pittman,202354,Jump Shot,2,1,0,Jump Shot,JUMP_SHOTS,,2011
+Dexter Pittman,202354,Standard Layup,2,2,1,Layup Shot,LAYUPS,,2011
+Dexter Pittman,202354,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2012
+Dexter Pittman,202354,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2012
+Dexter Pittman,202354,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2012
+Dexter Pittman,202354,Standard Dunk,2,10,10,Dunk Shot,DUNKS,,2012
+Dexter Pittman,202354,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Dexter Pittman,202354,Hook Shot,2,21,5,Hook Shot,POST_MOVES,,2012
+Dexter Pittman,202354,Hook Shot,2,5,2,Jump Hook Shot,POST_MOVES,,2012
+Dexter Pittman,202354,Jump Shot,2,11,4,Jump Shot,JUMP_SHOTS,,2012
+Dexter Pittman,202354,Standard Layup,2,26,11,Layup Shot,LAYUPS,,2012
+Dexter Pittman,202354,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2012
+Dexter Pittman,202354,Standard Dunk,2,3,2,Slam Dunk Shot,DUNKS,,2012
+Dexter Pittman,202354,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2012
+Dexter Pittman,202354,Turnaround Hook Shot,2,7,3,Turnaround Hook Shot,POST_MOVES,,2012
+Dexter Pittman,202354,Turnaround Jump Shot,2,4,2,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Dexter Pittman,202354,Jump Shot,2,1,0,Jump Shot,JUMP_SHOTS,,2013
+Dexter Pittman,202354,Standard Layup,2,3,1,Layup Shot,LAYUPS,,2013
+Dexter Pittman,202354,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2013
+Dexter Pittman,202354,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2013
+Dexter Pittman,202354,Turnaround Hook Shot,2,2,2,Turnaround Hook Shot,POST_MOVES,,2013
+Dexter Pittman,202354,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Dexter Pittman,202354,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2014

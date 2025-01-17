@@ -1,6 +1,52 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-201238,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2008
-201238,Standard Layup,2PT Field Goal,2,0,Layup Shot,LAYUPS,0.0,2009
-201238,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2009
-201238,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2010
-201238,Standard Dunk,2PT Field Goal,1,1,Running Slam Dunk Shot,DUNKS,1.0,2010
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Mario West,201238,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2008
+Mario West,201238,Driving Layup,2,2,1,Driving Layup Shot,LAYUPS,,2008
+Mario West,201238,Standard Dunk,2,4,3,Dunk Shot,DUNKS,,2008
+Mario West,201238,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2008
+Mario West,201238,Jump Shot,2,10,1,Jump Shot,JUMP_SHOTS,,2008
+Mario West,201238,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2008
+Mario West,201238,Standard Layup,2,17,6,Layup Shot,LAYUPS,,2008
+Mario West,201238,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2008
+Mario West,201238,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2008
+Mario West,201238,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2008
+Mario West,201238,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2008
+Mario West,201238,Standard Layup,2,3,1,Running Layup Shot,LAYUPS,,2008
+Mario West,201238,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2008
+Mario West,201238,Tip Shot,2,3,0,Tip Shot,TIP_SHOTS,,2008
+Mario West,201238,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2009
+Mario West,201238,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2009
+Mario West,201238,Driving Layup,2,4,2,Driving Layup Shot,LAYUPS,,2009
+Mario West,201238,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,2009
+Mario West,201238,Jump Shot,2,7,1,Jump Shot,JUMP_SHOTS,,2009
+Mario West,201238,Standard Layup,2,5,1,Layup Shot,LAYUPS,,2009
+Mario West,201238,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2009
+Mario West,201238,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2009
+Mario West,201238,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2009
+Mario West,201238,Standard Dunk,2,2,1,Running Dunk Shot,DUNKS,,2009
+Mario West,201238,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2009
+Mario West,201238,Standard Layup,2,3,1,Running Layup Shot,LAYUPS,,2009
+Mario West,201238,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2009
+Mario West,201238,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,,2009
+Mario West,201238,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2010
+Mario West,201238,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2010
+Mario West,201238,Driving Layup,2,3,2,Driving Layup Shot,LAYUPS,,2010
+Mario West,201238,Driving Dunk,2,2,2,Driving Slam Dunk Shot,DUNKS,,2010
+Mario West,201238,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2010
+Mario West,201238,Jump Shot,2,2,0,Jump Shot,JUMP_SHOTS,,2010
+Mario West,201238,Standard Layup,2,3,0,Layup Shot,LAYUPS,,2010
+Mario West,201238,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2010
+Mario West,201238,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2010
+Mario West,201238,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2010
+Mario West,201238,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2010
+Mario West,201238,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2010
+Mario West,201238,Driving Jump Shot,2,1,1,Driving Jump shot,JUMP_SHOTS,,2011
+Mario West,201238,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2011
+Mario West,201238,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2011
+Mario West,201238,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2011
+Mario West,201238,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2011
+Mario West,201238,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2011
+Mario West,201238,Jump Shot,2,8,1,Jump Shot,JUMP_SHOTS,,2011
+Mario West,201238,Standard Layup,2,3,1,Layup Shot,LAYUPS,,2011
+Mario West,201238,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2011
+Mario West,201238,Tip Shot,2,2,0,Tip Shot,TIP_SHOTS,,2011
+Mario West,201238,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2011

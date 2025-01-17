@@ -1,30 +1,51 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-178,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,1997
-178,Standard Dunk,2PT Field Goal,7,6,Dunk Shot,DUNKS,0.8571428571428571,1997
-178,Hook Shot,2PT Field Goal,39,20,Hook Shot,POST_MOVES,0.5128205128205128,1997
-178,Jump Shot,2PT Field Goal,49,14,Jump Shot,JUMP_SHOTS,0.2857142857142857,1997
-178,Standard Layup,2PT Field Goal,33,17,Layup Shot,LAYUPS,0.5151515151515151,1997
-178,Standard Dunk,2PT Field Goal,2,1,Slam Dunk Shot,DUNKS,0.5,1997
-178,Tip Shot,2PT Field Goal,4,1,Tip Shot,TIP_SHOTS,0.25,1997
-178,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,1998
-178,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,1998
-178,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,1998
-178,Hook Shot,2PT Field Goal,7,4,Hook Shot,POST_MOVES,0.5714285714285714,1999
-178,Jump Shot,2PT Field Goal,16,5,Jump Shot,JUMP_SHOTS,0.3125,1999
-178,Standard Layup,2PT Field Goal,6,4,Layup Shot,LAYUPS,0.6666666666666666,1999
-178,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,1999
-178,Tip Shot,2PT Field Goal,4,2,Tip Shot,TIP_SHOTS,0.5,1999
-178,Standard Dunk,2PT Field Goal,3,2,Dunk Shot,DUNKS,0.6666666666666666,2000
-178,Hook Shot,2PT Field Goal,20,12,Hook Shot,POST_MOVES,0.6,2000
-178,Jump Shot,2PT Field Goal,38,15,Jump Shot,JUMP_SHOTS,0.3947368421052631,2000
-178,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2000
-178,Standard Layup,2PT Field Goal,19,11,Layup Shot,LAYUPS,0.5789473684210527,2000
-178,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2000
-178,Tip Shot,2PT Field Goal,14,3,Tip Shot,TIP_SHOTS,0.2142857142857142,2000
-178,Hook Shot,2PT Field Goal,12,7,Hook Shot,POST_MOVES,0.5833333333333334,2001
-178,Jump Shot,2PT Field Goal,19,8,Jump Shot,JUMP_SHOTS,0.4210526315789473,2001
-178,Standard Layup,2PT Field Goal,25,14,Layup Shot,LAYUPS,0.56,2001
-178,Reverse Layup,2PT Field Goal,2,1,Reverse Layup Shot,LAYUPS,0.5,2001
-178,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2001
-178,Tip Shot,2PT Field Goal,5,2,Tip Shot,TIP_SHOTS,0.4,2001
-178,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Olden Polynice,178,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,1997
+Olden Polynice,178,Driving Layup,2,16,12,Driving Layup Shot,LAYUPS,,1997
+Olden Polynice,178,Standard Dunk,2,30,27,Dunk Shot,DUNKS,,1997
+Olden Polynice,178,Hook Shot,2,254,137,Hook Shot,POST_MOVES,,1997
+Olden Polynice,178,Jump Shot,2,333,103,Jump Shot,JUMP_SHOTS,,1997
+Olden Polynice,178,Jump Shot,3,4,0,Jump Shot,JUMP_SHOTS,,1997
+Olden Polynice,178,Standard Layup,2,248,124,Layup Shot,LAYUPS,,1997
+Olden Polynice,178,Running Jump Shot,2,10,6,Running Jump Shot,JUMP_SHOTS,,1997
+Olden Polynice,178,Standard Dunk,2,16,14,Slam Dunk Shot,DUNKS,,1997
+Olden Polynice,178,Tip Shot,2,54,17,Tip Shot,TIP_SHOTS,,1997
+Olden Polynice,178,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,1998
+Olden Polynice,178,Driving Layup,2,10,9,Driving Layup Shot,LAYUPS,,1998
+Olden Polynice,178,Standard Dunk,2,12,11,Dunk Shot,DUNKS,,1998
+Olden Polynice,178,Hook Shot,2,108,58,Hook Shot,POST_MOVES,,1998
+Olden Polynice,178,Jump Shot,2,244,85,Jump Shot,JUMP_SHOTS,,1998
+Olden Polynice,178,Standard Layup,2,108,57,Layup Shot,LAYUPS,,1998
+Olden Polynice,178,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,1998
+Olden Polynice,178,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,1998
+Olden Polynice,178,Tip Shot,2,53,22,Tip Shot,TIP_SHOTS,,1998
+Olden Polynice,178,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,1999
+Olden Polynice,178,Standard Dunk,2,6,6,Dunk Shot,DUNKS,,1999
+Olden Polynice,178,Hook Shot,2,69,37,Hook Shot,POST_MOVES,,1999
+Olden Polynice,178,Jump Shot,2,155,48,Jump Shot,JUMP_SHOTS,,1999
+Olden Polynice,178,Standard Layup,2,84,52,Layup Shot,LAYUPS,,1999
+Olden Polynice,178,Running Jump Shot,3,1,1,Running Jump Shot,JUMP_SHOTS,,1999
+Olden Polynice,178,Standard Dunk,2,8,8,Slam Dunk Shot,DUNKS,,1999
+Olden Polynice,178,Tip Shot,2,33,15,Tip Shot,TIP_SHOTS,,1999
+Olden Polynice,178,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2000
+Olden Polynice,178,Driving Layup,2,3,2,Driving Layup Shot,LAYUPS,,2000
+Olden Polynice,178,Standard Dunk,2,28,27,Dunk Shot,DUNKS,,2000
+Olden Polynice,178,Hook Shot,2,87,43,Hook Shot,POST_MOVES,,2000
+Olden Polynice,178,Jump Shot,2,127,37,Jump Shot,JUMP_SHOTS,,2000
+Olden Polynice,178,Jump Shot,3,2,1,Jump Shot,JUMP_SHOTS,,2000
+Olden Polynice,178,Standard Layup,2,103,69,Layup Shot,LAYUPS,,2000
+Olden Polynice,178,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2000
+Olden Polynice,178,Standard Dunk,2,9,9,Slam Dunk Shot,DUNKS,,2000
+Olden Polynice,178,Tip Shot,2,37,13,Tip Shot,TIP_SHOTS,,2000
+Olden Polynice,178,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2001
+Olden Polynice,178,Driving Layup,2,3,2,Driving Layup Shot,LAYUPS,,2001
+Olden Polynice,178,Standard Dunk,2,9,7,Dunk Shot,DUNKS,,2001
+Olden Polynice,178,Hook Shot,2,79,36,Hook Shot,POST_MOVES,,2001
+Olden Polynice,178,Jump Shot,2,140,50,Jump Shot,JUMP_SHOTS,,2001
+Olden Polynice,178,Standard Layup,2,114,72,Layup Shot,LAYUPS,,2001
+Olden Polynice,178,Reverse Layup,2,5,4,Reverse Layup Shot,LAYUPS,,2001
+Olden Polynice,178,Running Jump Shot,2,4,2,Running Jump Shot,JUMP_SHOTS,,2001
+Olden Polynice,178,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2001
+Olden Polynice,178,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2001
+Olden Polynice,178,Tip Shot,2,41,17,Tip Shot,TIP_SHOTS,,2001
+Olden Polynice,178,Turnaround Hook Shot,2,14,11,Turnaround Hook Shot,POST_MOVES,,2001
+Olden Polynice,178,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2001

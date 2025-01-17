@@ -1,36 +1,163 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-361,Driving Dunk,2PT Field Goal,3,2,Driving Dunk Shot,DUNKS,0.6666666666666666,1997
-361,Driving Layup,2PT Field Goal,11,9,Driving Layup Shot,LAYUPS,0.8181818181818182,1997
-361,Standard Dunk,2PT Field Goal,3,3,Dunk Shot,DUNKS,1.0,1997
-361,Hook Shot,2PT Field Goal,10,8,Hook Shot,POST_MOVES,0.8,1997
-361,Jump Shot,2PT Field Goal,103,39,Jump Shot,JUMP_SHOTS,0.3786407766990291,1997
-361,Jump Shot,3PT Field Goal,99,38,Jump Shot,JUMP_SHOTS,0.5757575757575758,1997
-361,Standard Layup,2PT Field Goal,38,18,Layup Shot,LAYUPS,0.4736842105263157,1997
-361,Running Jump Shot,2PT Field Goal,15,9,Running Jump Shot,JUMP_SHOTS,0.6,1997
-361,Standard Dunk,2PT Field Goal,2,2,Slam Dunk Shot,DUNKS,1.0,1997
-361,Tip Shot,2PT Field Goal,6,2,Tip Shot,TIP_SHOTS,0.3333333333333333,1997
-361,Driving Dunk,2PT Field Goal,3,3,Driving Dunk Shot,DUNKS,1.0,1998
-361,Driving Layup,2PT Field Goal,16,12,Driving Layup Shot,LAYUPS,0.75,1998
-361,Standard Dunk,2PT Field Goal,14,13,Dunk Shot,DUNKS,0.9285714285714286,1998
-361,Hook Shot,2PT Field Goal,22,14,Hook Shot,POST_MOVES,0.6363636363636364,1998
-361,Jump Shot,2PT Field Goal,183,61,Jump Shot,JUMP_SHOTS,0.3333333333333333,1998
-361,Jump Shot,3PT Field Goal,36,11,Jump Shot,JUMP_SHOTS,0.4583333333333333,1998
-361,Standard Layup,2PT Field Goal,67,40,Layup Shot,LAYUPS,0.5970149253731343,1998
-361,Running Jump Shot,2PT Field Goal,7,5,Running Jump Shot,JUMP_SHOTS,0.7142857142857143,1998
-361,Standard Dunk,2PT Field Goal,8,8,Slam Dunk Shot,DUNKS,1.0,1998
-361,Tip Shot,2PT Field Goal,10,6,Tip Shot,TIP_SHOTS,0.6,1998
-361,Standard Dunk,2PT Field Goal,3,3,Dunk Shot,DUNKS,1.0,2000
-361,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,2000
-361,Jump Shot,2PT Field Goal,37,10,Jump Shot,JUMP_SHOTS,0.2702702702702703,2000
-361,Jump Shot,3PT Field Goal,28,10,Jump Shot,JUMP_SHOTS,0.5357142857142857,2000
-361,Standard Layup,2PT Field Goal,16,7,Layup Shot,LAYUPS,0.4375,2000
-361,Running Jump Shot,2PT Field Goal,6,6,Running Jump Shot,JUMP_SHOTS,1.0,2000
-361,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2000
-361,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2001
-361,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2001
-361,Jump Shot,2PT Field Goal,14,8,Jump Shot,JUMP_SHOTS,0.5714285714285714,2001
-361,Jump Shot,3PT Field Goal,8,3,Jump Shot,JUMP_SHOTS,0.5625,2001
-361,Standard Layup,2PT Field Goal,6,3,Layup Shot,LAYUPS,0.5,2001
-361,Reverse Dunk,2PT Field Goal,1,1,Reverse Dunk Shot,DUNKS,1.0,2001
-361,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2001
-361,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Clifford Robinson,361,Driving Dunk,2,6,5,Driving Dunk Shot,DUNKS,,1997
+Clifford Robinson,361,Driving Layup,2,39,32,Driving Layup Shot,LAYUPS,,1997
+Clifford Robinson,361,Standard Dunk,2,15,13,Dunk Shot,DUNKS,,1997
+Clifford Robinson,361,Hook Shot,2,42,28,Hook Shot,POST_MOVES,,1997
+Clifford Robinson,361,Jump Shot,2,610,214,Jump Shot,JUMP_SHOTS,,1997
+Clifford Robinson,361,Jump Shot,3,113,43,Jump Shot,JUMP_SHOTS,,1997
+Clifford Robinson,361,Standard Layup,2,140,61,Layup Shot,LAYUPS,,1997
+Clifford Robinson,361,Running Jump Shot,2,47,26,Running Jump Shot,JUMP_SHOTS,,1997
+Clifford Robinson,361,Standard Dunk,2,17,16,Slam Dunk Shot,DUNKS,,1997
+Clifford Robinson,361,Tip Shot,2,14,6,Tip Shot,TIP_SHOTS,,1997
+Clifford Robinson,361,Driving Dunk,2,5,5,Driving Dunk Shot,DUNKS,,1998
+Clifford Robinson,361,Driving Layup,2,33,25,Driving Layup Shot,LAYUPS,,1998
+Clifford Robinson,361,Standard Dunk,2,32,27,Dunk Shot,DUNKS,,1998
+Clifford Robinson,361,Hook Shot,2,44,31,Hook Shot,POST_MOVES,,1998
+Clifford Robinson,361,Jump Shot,2,475,170,Jump Shot,JUMP_SHOTS,,1998
+Clifford Robinson,361,Jump Shot,3,36,11,Jump Shot,JUMP_SHOTS,,1998
+Clifford Robinson,361,Standard Layup,2,202,119,Layup Shot,LAYUPS,,1998
+Clifford Robinson,361,Running Jump Shot,2,19,10,Running Jump Shot,JUMP_SHOTS,,1998
+Clifford Robinson,361,Standard Dunk,2,16,16,Slam Dunk Shot,DUNKS,,1998
+Clifford Robinson,361,Tip Shot,2,33,15,Tip Shot,TIP_SHOTS,,1998
+Clifford Robinson,361,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,1999
+Clifford Robinson,361,Driving Layup,2,23,15,Driving Layup Shot,LAYUPS,,1999
+Clifford Robinson,361,Standard Dunk,2,21,19,Dunk Shot,DUNKS,,1999
+Clifford Robinson,361,Hook Shot,2,25,17,Hook Shot,POST_MOVES,,1999
+Clifford Robinson,361,Jump Shot,2,423,163,Jump Shot,JUMP_SHOTS,,1999
+Clifford Robinson,361,Standard Layup,2,101,60,Layup Shot,LAYUPS,,1999
+Clifford Robinson,361,Running Jump Shot,2,13,9,Running Jump Shot,JUMP_SHOTS,,1999
+Clifford Robinson,361,Standard Dunk,2,10,10,Slam Dunk Shot,DUNKS,,1999
+Clifford Robinson,361,Tip Shot,2,11,4,Tip Shot,TIP_SHOTS,,1999
+Clifford Robinson,361,Driving Dunk,2,2,1,Driving Dunk Shot,DUNKS,,2000
+Clifford Robinson,361,Driving Layup,2,27,18,Driving Layup Shot,LAYUPS,,2000
+Clifford Robinson,361,Standard Dunk,2,25,24,Dunk Shot,DUNKS,,2000
+Clifford Robinson,361,Hook Shot,2,25,13,Hook Shot,POST_MOVES,,2000
+Clifford Robinson,361,Jump Shot,2,804,322,Jump Shot,JUMP_SHOTS,,2000
+Clifford Robinson,361,Jump Shot,3,29,10,Jump Shot,JUMP_SHOTS,,2000
+Clifford Robinson,361,Standard Layup,2,172,108,Layup Shot,LAYUPS,,2000
+Clifford Robinson,361,Running Jump Shot,2,31,16,Running Jump Shot,JUMP_SHOTS,,2000
+Clifford Robinson,361,Standard Dunk,2,11,11,Slam Dunk Shot,DUNKS,,2000
+Clifford Robinson,361,Tip Shot,2,16,7,Tip Shot,TIP_SHOTS,,2000
+Clifford Robinson,361,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2001
+Clifford Robinson,361,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2001
+Clifford Robinson,361,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2001
+Clifford Robinson,361,Driving Layup,2,33,25,Driving Layup Shot,LAYUPS,,2001
+Clifford Robinson,361,Standard Dunk,2,29,24,Dunk Shot,DUNKS,,2001
+Clifford Robinson,361,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2001
+Clifford Robinson,361,Hook Shot,2,21,10,Hook Shot,POST_MOVES,,2001
+Clifford Robinson,361,Jump Shot,2,858,302,Jump Shot,JUMP_SHOTS,,2001
+Clifford Robinson,361,Jump Shot,3,9,3,Jump Shot,JUMP_SHOTS,,2001
+Clifford Robinson,361,Standard Layup,2,135,68,Layup Shot,LAYUPS,,2001
+Clifford Robinson,361,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2001
+Clifford Robinson,361,Reverse Layup,2,5,3,Reverse Layup Shot,LAYUPS,,2001
+Clifford Robinson,361,Running Hook Shot,2,4,1,Running Hook Shot,POST_MOVES,,2001
+Clifford Robinson,361,Running Jump Shot,2,40,27,Running Jump Shot,JUMP_SHOTS,,2001
+Clifford Robinson,361,Standard Dunk,2,8,8,Slam Dunk Shot,DUNKS,,2001
+Clifford Robinson,361,Tip Shot,2,18,12,Tip Shot,TIP_SHOTS,,2001
+Clifford Robinson,361,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2001
+Clifford Robinson,361,Turnaround Jump Shot,2,19,11,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Clifford Robinson,361,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2002
+Clifford Robinson,361,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2002
+Clifford Robinson,361,Driving Layup,2,26,22,Driving Layup Shot,LAYUPS,,2002
+Clifford Robinson,361,Standard Dunk,2,7,6,Dunk Shot,DUNKS,,2002
+Clifford Robinson,361,Fadeaway Jump Shot,2,6,4,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Clifford Robinson,361,Finger Roll,2,3,1,Finger Roll Shot,LAYUPS,,2002
+Clifford Robinson,361,Hook Shot,2,57,30,Hook Shot,POST_MOVES,,2002
+Clifford Robinson,361,Hook Shot,2,6,5,Jump Hook Shot,POST_MOVES,,2002
+Clifford Robinson,361,Jump Shot,2,741,260,Jump Shot,JUMP_SHOTS,,2002
+Clifford Robinson,361,Standard Layup,2,105,55,Layup Shot,LAYUPS,,2002
+Clifford Robinson,361,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2002
+Clifford Robinson,361,Running Hook Shot,2,13,9,Running Hook Shot,POST_MOVES,,2002
+Clifford Robinson,361,Running Jump Shot,2,50,22,Running Jump Shot,JUMP_SHOTS,,2002
+Clifford Robinson,361,Standard Layup,2,4,3,Running Layup Shot,LAYUPS,,2002
+Clifford Robinson,361,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2002
+Clifford Robinson,361,Tip Shot,2,10,3,Tip Shot,TIP_SHOTS,,2002
+Clifford Robinson,361,Turnaround Hook Shot,2,4,3,Turnaround Hook Shot,POST_MOVES,,2002
+Clifford Robinson,361,Turnaround Jump Shot,2,31,26,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Clifford Robinson,361,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2003
+Clifford Robinson,361,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2003
+Clifford Robinson,361,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2003
+Clifford Robinson,361,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2003
+Clifford Robinson,361,Driving Layup,2,29,24,Driving Layup Shot,LAYUPS,,2003
+Clifford Robinson,361,Standard Dunk,2,6,6,Dunk Shot,DUNKS,,2003
+Clifford Robinson,361,Fadeaway Jump Shot,2,9,1,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Clifford Robinson,361,Finger Roll,2,2,1,Finger Roll Shot,LAYUPS,,2003
+Clifford Robinson,361,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2003
+Clifford Robinson,361,Hook Shot,2,63,29,Hook Shot,POST_MOVES,,2003
+Clifford Robinson,361,Hook Shot,2,4,3,Jump Hook Shot,POST_MOVES,,2003
+Clifford Robinson,361,Jump Shot,2,636,209,Jump Shot,JUMP_SHOTS,,2003
+Clifford Robinson,361,Standard Layup,2,90,39,Layup Shot,LAYUPS,,2003
+Clifford Robinson,361,Reverse Layup,2,4,1,Reverse Layup Shot,LAYUPS,,2003
+Clifford Robinson,361,Running Hook Shot,2,7,6,Running Hook Shot,POST_MOVES,,2003
+Clifford Robinson,361,Running Jump Shot,2,39,22,Running Jump Shot,JUMP_SHOTS,,2003
+Clifford Robinson,361,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2003
+Clifford Robinson,361,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2003
+Clifford Robinson,361,Tip Shot,2,9,3,Tip Shot,TIP_SHOTS,,2003
+Clifford Robinson,361,Turnaround Hook Shot,2,6,5,Turnaround Hook Shot,POST_MOVES,,2003
+Clifford Robinson,361,Turnaround Jump Shot,2,23,16,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Clifford Robinson,361,Finger Roll,2,2,1,Driving Finger Roll Shot,LAYUPS,,2004
+Clifford Robinson,361,Driving Hook Shot,2,4,4,Driving Hook Shot,POST_MOVES,,2004
+Clifford Robinson,361,Driving Layup,2,41,36,Driving Layup Shot,LAYUPS,,2004
+Clifford Robinson,361,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2004
+Clifford Robinson,361,Fadeaway Jump Shot,2,14,5,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Clifford Robinson,361,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2004
+Clifford Robinson,361,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2004
+Clifford Robinson,361,Hook Shot,2,9,5,Hook Shot,POST_MOVES,,2004
+Clifford Robinson,361,Jump Shot,2,7,5,Jump Bank Shot,JUMP_SHOTS,,2004
+Clifford Robinson,361,Hook Shot,2,12,8,Jump Hook Shot,POST_MOVES,,2004
+Clifford Robinson,361,Jump Shot,2,706,229,Jump Shot,JUMP_SHOTS,,2004
+Clifford Robinson,361,Standard Layup,2,41,17,Layup Shot,LAYUPS,,2004
+Clifford Robinson,361,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2004
+Clifford Robinson,361,Finger Roll,2,1,0,Running Finger Roll Shot,LAYUPS,,2004
+Clifford Robinson,361,Running Hook Shot,2,13,8,Running Hook Shot,POST_MOVES,,2004
+Clifford Robinson,361,Running Jump Shot,2,42,27,Running Jump Shot,JUMP_SHOTS,,2004
+Clifford Robinson,361,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2004
+Clifford Robinson,361,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2004
+Clifford Robinson,361,Tip Shot,2,11,5,Tip Shot,TIP_SHOTS,,2004
+Clifford Robinson,361,Finger Roll,2,1,0,Turnaround Finger Roll Shot,LAYUPS,,2004
+Clifford Robinson,361,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2004
+Clifford Robinson,361,Turnaround Jump Shot,2,29,9,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Clifford Robinson,361,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,,2005
+Clifford Robinson,361,Driving Layup,2,5,4,Driving Layup Shot,LAYUPS,,2005
+Clifford Robinson,361,Standard Dunk,2,7,6,Dunk Shot,DUNKS,,2005
+Clifford Robinson,361,Fadeaway Jump Shot,2,5,1,Fadeaway Jump Shot,JUMP_SHOTS,,2005
+Clifford Robinson,361,Finger Roll,2,1,0,Finger Roll Shot,LAYUPS,,2005
+Clifford Robinson,361,Hook Shot,2,7,5,Hook Shot,POST_MOVES,,2005
+Clifford Robinson,361,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2005
+Clifford Robinson,361,Hook Shot,2,9,4,Jump Hook Shot,POST_MOVES,,2005
+Clifford Robinson,361,Jump Shot,2,391,136,Jump Shot,JUMP_SHOTS,,2005
+Clifford Robinson,361,Standard Layup,2,33,17,Layup Shot,LAYUPS,,2005
+Clifford Robinson,361,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2005
+Clifford Robinson,361,Running Hook Shot,2,4,3,Running Hook Shot,POST_MOVES,,2005
+Clifford Robinson,361,Running Jump Shot,2,23,10,Running Jump Shot,JUMP_SHOTS,,2005
+Clifford Robinson,361,Tip Shot,2,13,5,Tip Shot,TIP_SHOTS,,2005
+Clifford Robinson,361,Turnaround Hook Shot,2,5,4,Turnaround Hook Shot,POST_MOVES,,2005
+Clifford Robinson,361,Turnaround Jump Shot,2,13,4,Turnaround Jump Shot,JUMP_SHOTS,,2005
+Clifford Robinson,361,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2006
+Clifford Robinson,361,Driving Layup,2,11,5,Driving Layup Shot,LAYUPS,,2006
+Clifford Robinson,361,Standard Dunk,2,8,8,Dunk Shot,DUNKS,,2006
+Clifford Robinson,361,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2006
+Clifford Robinson,361,Hook Shot,2,13,4,Hook Shot,POST_MOVES,,2006
+Clifford Robinson,361,Jump Shot,2,3,2,Jump Bank Shot,JUMP_SHOTS,,2006
+Clifford Robinson,361,Hook Shot,2,4,3,Jump Hook Shot,POST_MOVES,,2006
+Clifford Robinson,361,Jump Shot,2,396,153,Jump Shot,JUMP_SHOTS,,2006
+Clifford Robinson,361,Standard Layup,2,39,22,Layup Shot,LAYUPS,,2006
+Clifford Robinson,361,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2006
+Clifford Robinson,361,Finger Roll,2,1,1,Running Finger Roll Shot,LAYUPS,,2006
+Clifford Robinson,361,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2006
+Clifford Robinson,361,Running Jump Shot,2,11,5,Running Jump Shot,JUMP_SHOTS,,2006
+Clifford Robinson,361,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2006
+Clifford Robinson,361,Tip Shot,2,8,5,Tip Shot,TIP_SHOTS,,2006
+Clifford Robinson,361,Turnaround Jump Shot,2,14,9,Turnaround Jump Shot,JUMP_SHOTS,,2006
+Clifford Robinson,361,Driving Hook Shot,2,3,2,Driving Hook Shot,POST_MOVES,,2007
+Clifford Robinson,361,Driving Layup,2,2,0,Driving Layup Shot,LAYUPS,,2007
+Clifford Robinson,361,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2007
+Clifford Robinson,361,Hook Shot,2,5,0,Hook Shot,POST_MOVES,,2007
+Clifford Robinson,361,Hook Shot,2,2,2,Jump Hook Shot,POST_MOVES,,2007
+Clifford Robinson,361,Jump Shot,2,170,58,Jump Shot,JUMP_SHOTS,,2007
+Clifford Robinson,361,Standard Layup,2,15,10,Layup Shot,LAYUPS,,2007
+Clifford Robinson,361,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2007
+Clifford Robinson,361,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2007
+Clifford Robinson,361,Running Jump Shot,2,9,5,Running Jump Shot,JUMP_SHOTS,,2007
+Clifford Robinson,361,Tip Shot,2,5,1,Tip Shot,TIP_SHOTS,,2007
+Clifford Robinson,361,Turnaround Jump Shot,2,4,3,Turnaround Jump Shot,JUMP_SHOTS,,2007

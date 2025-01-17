@@ -1,51 +1,131 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1629670,Driving Dunk,2PT Field Goal,2,2,Driving Dunk Shot,DUNKS,1.0,2022
-1629670,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2022
-1629670,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.0,2022
-1629670,Floating Jump Shot,2PT Field Goal,2,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2022
-1629670,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2022
-1629670,Driving Layup,2PT Field Goal,3,2,Driving Layup Shot,LAYUPS,0.6666666666666666,2022
-1629670,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2022
-1629670,Fadeaway Jump Shot,3PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2022
-1629670,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2022
-1629670,Jump Shot,3PT Field Goal,13,5,Jump Shot,JUMP_SHOTS,0.5769230769230769,2022
-1629670,Pullup Jump Shot,3PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.5,2022
-1629670,Running Jump Shot,3PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2022
-1629670,Standard Layup,2PT Field Goal,2,0,Running Layup Shot,LAYUPS,0.0,2022
-1629670,Step Back Jump Shot,2PT Field Goal,4,0,Step Back Jump shot,JUMP_SHOTS,0.0,2022
-1629670,Step Back Jump Shot,3PT Field Goal,4,2,Step Back Jump shot,JUMP_SHOTS,0.75,2022
-1629670,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,1.0,2022
-1629670,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2023
-1629670,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2023
-1629670,Floating Jump Shot,2PT Field Goal,2,1,Driving Floating Jump Shot,FLOATING_SHOTS,0.5,2023
-1629670,Driving Layup,2PT Field Goal,2,2,Driving Layup Shot,LAYUPS,1.0,2023
-1629670,Finger Roll,2PT Field Goal,1,1,Finger Roll Layup Shot,LAYUPS,1.0,2023
-1629670,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2023
-1629670,Jump Shot,3PT Field Goal,11,4,Jump Shot,JUMP_SHOTS,0.5454545454545454,2023
-1629670,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2023
-1629670,Pullup Jump Shot,2PT Field Goal,4,1,Pullup Jump shot,JUMP_SHOTS,0.25,2023
-1629670,Pullup Jump Shot,3PT Field Goal,3,3,Pullup Jump shot,JUMP_SHOTS,1.5,2023
-1629670,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2023
-1629670,Finger Roll,2PT Field Goal,1,0,Running Finger Roll Layup Shot,LAYUPS,0.0,2023
-1629670,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2023
-1629670,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.0,2023
-1629670,Step Back Jump Shot,3PT Field Goal,5,2,Step Back Jump shot,JUMP_SHOTS,0.6,2023
-1629670,Putback Layup,2PT Field Goal,1,1,Tip Layup Shot,LAYUPS,1.0,2023
-1629670,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2023
-1629670,Alley Oop Layup,2PT Field Goal,1,1,Alley Oop Layup shot,LAYUPS,1.0,2024
-1629670,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2024
-1629670,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2024
-1629670,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2024
-1629670,Driving Layup,2PT Field Goal,6,3,Driving Layup Shot,LAYUPS,0.5,2024
-1629670,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2024
-1629670,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2024
-1629670,Jump Shot,3PT Field Goal,13,4,Jump Shot,JUMP_SHOTS,0.4615384615384615,2024
-1629670,Pullup Jump Shot,3PT Field Goal,3,1,Pullup Jump shot,JUMP_SHOTS,0.5,2024
-1629670,Putback Layup,2PT Field Goal,2,2,Putback Layup Shot,LAYUPS,1.0,2024
-1629670,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2024
-1629670,Finger Roll,2PT Field Goal,2,2,Running Finger Roll Layup Shot,LAYUPS,1.0,2024
-1629670,Running Jump Shot,3PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2024
-1629670,Standard Layup,2PT Field Goal,3,2,Running Layup Shot,LAYUPS,0.6666666666666666,2024
-1629670,Running Jump Shot,3PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2024
-1629670,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.0,2024
-1629670,Step Back Jump Shot,3PT Field Goal,3,1,Step Back Jump shot,JUMP_SHOTS,0.5,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Jordan Nwora,1629670,Specialty Dunk,2,1,0,Cutting Dunk Shot,DUNKS,,2021
+Jordan Nwora,1629670,Standard Layup,2,3,2,Cutting Layup Shot,LAYUPS,,2021
+Jordan Nwora,1629670,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2021
+Jordan Nwora,1629670,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Jordan Nwora,1629670,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2021
+Jordan Nwora,1629670,Floating Jump Shot,2,6,6,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Jordan Nwora,1629670,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2021
+Jordan Nwora,1629670,Driving Layup,2,13,5,Driving Layup Shot,LAYUPS,,2021
+Jordan Nwora,1629670,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2021
+Jordan Nwora,1629670,Fadeaway Jump Shot,2,3,2,Fadeaway Jump Shot,JUMP_SHOTS,,2021
+Jordan Nwora,1629670,Floating Jump Shot,2,2,0,Floating Jump shot,FLOATING_SHOTS,,2021
+Jordan Nwora,1629670,Jump Shot,2,49,16,Jump Shot,JUMP_SHOTS,,2021
+Jordan Nwora,1629670,Standard Layup,2,2,0,Layup Shot,LAYUPS,,2021
+Jordan Nwora,1629670,Pullup Jump Shot,2,17,9,Pullup Jump shot,JUMP_SHOTS,,2021
+Jordan Nwora,1629670,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2021
+Jordan Nwora,1629670,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2021
+Jordan Nwora,1629670,Standard Dunk,2,1,0,Running Dunk Shot,DUNKS,,2021
+Jordan Nwora,1629670,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2021
+Jordan Nwora,1629670,Standard Layup,2,3,1,Running Layup Shot,LAYUPS,,2021
+Jordan Nwora,1629670,Step Back Jump Shot,2,19,12,Step Back Jump shot,JUMP_SHOTS,,2021
+Jordan Nwora,1629670,Putback Layup,2,2,1,Tip Layup Shot,LAYUPS,,2021
+Jordan Nwora,1629670,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2021
+Jordan Nwora,1629670,Standard Layup,2,6,3,Cutting Layup Shot,LAYUPS,,2022
+Jordan Nwora,1629670,Driving Hook Shot,2,3,1,Driving Bank Hook Shot,POST_MOVES,,2022
+Jordan Nwora,1629670,Driving Dunk,2,7,5,Driving Dunk Shot,DUNKS,,2022
+Jordan Nwora,1629670,Finger Roll,2,4,3,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Jordan Nwora,1629670,Floating Jump Shot,2,9,5,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Jordan Nwora,1629670,Floating Jump Shot,2,28,15,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Jordan Nwora,1629670,Driving Hook Shot,2,3,2,Driving Hook Shot,POST_MOVES,,2022
+Jordan Nwora,1629670,Driving Layup,2,35,13,Driving Layup Shot,LAYUPS,,2022
+Jordan Nwora,1629670,Driving Layup,2,4,1,Driving Reverse Layup Shot,LAYUPS,,2022
+Jordan Nwora,1629670,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2022
+Jordan Nwora,1629670,Fadeaway Jump Shot,2,3,0,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Jordan Nwora,1629670,Fadeaway Jump Shot,3,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Jordan Nwora,1629670,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2022
+Jordan Nwora,1629670,Floating Jump Shot,2,12,5,Floating Jump shot,FLOATING_SHOTS,,2022
+Jordan Nwora,1629670,Hook Shot,2,2,2,Hook Shot,POST_MOVES,,2022
+Jordan Nwora,1629670,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2022
+Jordan Nwora,1629670,Jump Shot,2,156,50,Jump Shot,JUMP_SHOTS,,2022
+Jordan Nwora,1629670,Jump Shot,3,15,6,Jump Shot,JUMP_SHOTS,,2022
+Jordan Nwora,1629670,Standard Layup,2,5,3,Layup Shot,LAYUPS,,2022
+Jordan Nwora,1629670,Pullup Jump Shot,2,38,13,Pullup Jump shot,JUMP_SHOTS,,2022
+Jordan Nwora,1629670,Pullup Jump Shot,3,1,1,Pullup Jump shot,JUMP_SHOTS,,2022
+Jordan Nwora,1629670,Putback Layup,2,7,6,Putback Layup Shot,LAYUPS,,2022
+Jordan Nwora,1629670,Reverse Layup,2,4,4,Reverse Layup Shot,LAYUPS,,2022
+Jordan Nwora,1629670,Standard Dunk,2,5,4,Running Dunk Shot,DUNKS,,2022
+Jordan Nwora,1629670,Finger Roll,2,2,2,Running Finger Roll Layup Shot,LAYUPS,,2022
+Jordan Nwora,1629670,Running Jump Shot,2,11,6,Running Jump Shot,JUMP_SHOTS,,2022
+Jordan Nwora,1629670,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2022
+Jordan Nwora,1629670,Standard Layup,2,19,14,Running Layup Shot,LAYUPS,,2022
+Jordan Nwora,1629670,Running Jump Shot,2,2,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
+Jordan Nwora,1629670,Reverse Layup,2,2,1,Running Reverse Layup Shot,LAYUPS,,2022
+Jordan Nwora,1629670,Step Back Jump Shot,2,1,1,Step Back Bank Jump Shot,JUMP_SHOTS,,2022
+Jordan Nwora,1629670,Step Back Jump Shot,2,57,14,Step Back Jump shot,JUMP_SHOTS,,2022
+Jordan Nwora,1629670,Step Back Jump Shot,3,5,3,Step Back Jump shot,JUMP_SHOTS,,2022
+Jordan Nwora,1629670,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2022
+Jordan Nwora,1629670,Putback Layup,2,5,1,Tip Layup Shot,LAYUPS,,2022
+Jordan Nwora,1629670,Turnaround Jump Shot,2,4,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2022
+Jordan Nwora,1629670,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2022
+Jordan Nwora,1629670,Specialty Dunk,2,6,5,Cutting Dunk Shot,DUNKS,,2023
+Jordan Nwora,1629670,Standard Layup,2,6,4,Cutting Layup Shot,LAYUPS,,2023
+Jordan Nwora,1629670,Driving Hook Shot,2,2,0,Driving Bank Hook Shot,POST_MOVES,,2023
+Jordan Nwora,1629670,Driving Dunk,2,7,5,Driving Dunk Shot,DUNKS,,2023
+Jordan Nwora,1629670,Finger Roll,2,6,3,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Jordan Nwora,1629670,Floating Jump Shot,2,4,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+Jordan Nwora,1629670,Floating Jump Shot,2,42,21,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Jordan Nwora,1629670,Driving Hook Shot,2,2,0,Driving Hook Shot,POST_MOVES,,2023
+Jordan Nwora,1629670,Driving Layup,2,36,16,Driving Layup Shot,LAYUPS,,2023
+Jordan Nwora,1629670,Driving Layup,2,6,2,Driving Reverse Layup Shot,LAYUPS,,2023
+Jordan Nwora,1629670,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2023
+Jordan Nwora,1629670,Fadeaway Jump Shot,2,6,0,Fadeaway Jump Shot,JUMP_SHOTS,,2023
+Jordan Nwora,1629670,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2023
+Jordan Nwora,1629670,Floating Jump Shot,2,6,2,Floating Jump shot,FLOATING_SHOTS,,2023
+Jordan Nwora,1629670,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2023
+Jordan Nwora,1629670,Jump Shot,2,140,61,Jump Shot,JUMP_SHOTS,,2023
+Jordan Nwora,1629670,Jump Shot,3,16,8,Jump Shot,JUMP_SHOTS,,2023
+Jordan Nwora,1629670,Standard Layup,2,6,1,Layup Shot,LAYUPS,,2023
+Jordan Nwora,1629670,Pullup Jump Shot,2,42,13,Pullup Jump shot,JUMP_SHOTS,,2023
+Jordan Nwora,1629670,Pullup Jump Shot,3,3,3,Pullup Jump shot,JUMP_SHOTS,,2023
+Jordan Nwora,1629670,Putback Layup,2,7,6,Putback Layup Shot,LAYUPS,,2023
+Jordan Nwora,1629670,Reverse Layup,2,4,2,Reverse Layup Shot,LAYUPS,,2023
+Jordan Nwora,1629670,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2023
+Jordan Nwora,1629670,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2023
+Jordan Nwora,1629670,Finger Roll,2,5,3,Running Finger Roll Layup Shot,LAYUPS,,2023
+Jordan Nwora,1629670,Running Jump Shot,2,16,5,Running Jump Shot,JUMP_SHOTS,,2023
+Jordan Nwora,1629670,Running Jump Shot,3,3,0,Running Jump Shot,JUMP_SHOTS,,2023
+Jordan Nwora,1629670,Standard Layup,2,20,12,Running Layup Shot,LAYUPS,,2023
+Jordan Nwora,1629670,Running Jump Shot,2,2,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2023
+Jordan Nwora,1629670,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2023
+Jordan Nwora,1629670,Step Back Jump Shot,2,23,7,Step Back Jump shot,JUMP_SHOTS,,2023
+Jordan Nwora,1629670,Step Back Jump Shot,3,7,2,Step Back Jump shot,JUMP_SHOTS,,2023
+Jordan Nwora,1629670,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2023
+Jordan Nwora,1629670,Putback Layup,2,7,1,Tip Layup Shot,LAYUPS,,2023
+Jordan Nwora,1629670,Turnaround Jump Shot,2,1,0,Turnaround Bank shot,JUMP_SHOTS,,2023
+Jordan Nwora,1629670,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2023
+Jordan Nwora,1629670,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2023
+Jordan Nwora,1629670,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2024
+Jordan Nwora,1629670,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2024
+Jordan Nwora,1629670,Standard Layup,2,14,13,Cutting Layup Shot,LAYUPS,,2024
+Jordan Nwora,1629670,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2024
+Jordan Nwora,1629670,Driving Dunk,2,5,4,Driving Dunk Shot,DUNKS,,2024
+Jordan Nwora,1629670,Finger Roll,2,7,5,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Jordan Nwora,1629670,Floating Jump Shot,2,2,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Jordan Nwora,1629670,Floating Jump Shot,2,24,11,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Jordan Nwora,1629670,Driving Hook Shot,2,2,2,Driving Hook Shot,POST_MOVES,,2024
+Jordan Nwora,1629670,Driving Layup,2,24,13,Driving Layup Shot,LAYUPS,,2024
+Jordan Nwora,1629670,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2024
+Jordan Nwora,1629670,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Jordan Nwora,1629670,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2024
+Jordan Nwora,1629670,Floating Jump Shot,2,7,4,Floating Jump shot,FLOATING_SHOTS,,2024
+Jordan Nwora,1629670,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2024
+Jordan Nwora,1629670,Jump Shot,2,2,0,Jump Shot,JUMP_SHOTS,,2024
+Jordan Nwora,1629670,Jump Shot,3,80,28,Jump Shot,JUMP_SHOTS,,2024
+Jordan Nwora,1629670,Standard Layup,2,9,3,Layup Shot,LAYUPS,,2024
+Jordan Nwora,1629670,Pullup Jump Shot,2,11,3,Pullup Jump shot,JUMP_SHOTS,,2024
+Jordan Nwora,1629670,Pullup Jump Shot,3,12,3,Pullup Jump shot,JUMP_SHOTS,,2024
+Jordan Nwora,1629670,Putback Layup,2,8,5,Putback Layup Shot,LAYUPS,,2024
+Jordan Nwora,1629670,Standard Dunk,2,5,5,Running Dunk Shot,DUNKS,,2024
+Jordan Nwora,1629670,Finger Roll,2,6,3,Running Finger Roll Layup Shot,LAYUPS,,2024
+Jordan Nwora,1629670,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2024
+Jordan Nwora,1629670,Running Jump Shot,3,17,6,Running Jump Shot,JUMP_SHOTS,,2024
+Jordan Nwora,1629670,Standard Layup,2,12,5,Running Layup Shot,LAYUPS,,2024
+Jordan Nwora,1629670,Running Jump Shot,2,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Jordan Nwora,1629670,Running Jump Shot,3,6,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Jordan Nwora,1629670,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2024
+Jordan Nwora,1629670,Step Back Jump Shot,2,9,4,Step Back Jump shot,JUMP_SHOTS,,2024
+Jordan Nwora,1629670,Step Back Jump Shot,3,16,5,Step Back Jump shot,JUMP_SHOTS,,2024
+Jordan Nwora,1629670,Putback Layup,2,5,2,Tip Layup Shot,LAYUPS,,2024
+Jordan Nwora,1629670,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2024
+Jordan Nwora,1629670,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2024

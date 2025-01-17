@@ -1,48 +1,126 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1629011,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2019
-1629011,Alley Oop Dunk,2PT Field Goal,4,4,Alley Oop Dunk Shot,DUNKS,1.0,2020
-1629011,Alley Oop Layup,2PT Field Goal,1,0,Alley Oop Layup shot,LAYUPS,0.0,2020
-1629011,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2020
-1629011,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2020
-1629011,Standard Dunk,2PT Field Goal,6,5,Dunk Shot,DUNKS,0.8333333333333334,2020
-1629011,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2020
-1629011,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2020
-1629011,Specialty Dunk,2PT Field Goal,2,2,Tip Dunk Shot,DUNKS,1.0,2020
-1629011,Alley Oop Dunk,2PT Field Goal,8,8,Alley Oop Dunk Shot,DUNKS,1.0,2021
-1629011,Alley Oop Layup,2PT Field Goal,4,0,Alley Oop Layup shot,LAYUPS,0.0,2021
-1629011,Specialty Dunk,2PT Field Goal,7,5,Cutting Dunk Shot,DUNKS,0.7142857142857143,2021
-1629011,Standard Layup,2PT Field Goal,2,1,Cutting Layup Shot,LAYUPS,0.5,2021
-1629011,Standard Dunk,2PT Field Goal,7,6,Dunk Shot,DUNKS,0.8571428571428571,2021
-1629011,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2021
-1629011,Specialty Dunk,2PT Field Goal,4,3,Tip Dunk Shot,DUNKS,0.75,2021
-1629011,Putback Layup,2PT Field Goal,10,3,Tip Layup Shot,LAYUPS,0.3,2021
-1629011,Turnaround Hook Shot,2PT Field Goal,2,0,Turnaround Hook Shot,POST_MOVES,0.0,2021
-1629011,Alley Oop Dunk,2PT Field Goal,7,7,Alley Oop Dunk Shot,DUNKS,1.0,2022
-1629011,Alley Oop Layup,2PT Field Goal,1,1,Alley Oop Layup shot,LAYUPS,1.0,2022
-1629011,Specialty Dunk,2PT Field Goal,2,1,Cutting Dunk Shot,DUNKS,0.5,2022
-1629011,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2022
-1629011,Standard Dunk,2PT Field Goal,15,15,Dunk Shot,DUNKS,1.0,2022
-1629011,Hook Shot,2PT Field Goal,1,1,Hook Bank Shot,POST_MOVES,1.0,2022
-1629011,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2022
-1629011,Standard Layup,2PT Field Goal,5,3,Layup Shot,LAYUPS,0.6,2022
-1629011,Putback Dunk,2PT Field Goal,7,6,Putback Dunk Shot,DUNKS,0.8571428571428571,2022
-1629011,Putback Layup,2PT Field Goal,6,2,Putback Layup Shot,LAYUPS,0.3333333333333333,2022
-1629011,Specialty Dunk,2PT Field Goal,6,6,Tip Dunk Shot,DUNKS,1.0,2022
-1629011,Putback Layup,2PT Field Goal,4,4,Tip Layup Shot,LAYUPS,1.0,2022
-1629011,Alley Oop Dunk,2PT Field Goal,2,1,Alley Oop Dunk Shot,DUNKS,0.5,2023
-1629011,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2023
-1629011,Finger Roll,2PT Field Goal,1,0,Finger Roll Layup Shot,LAYUPS,0.0,2023
-1629011,Standard Layup,2PT Field Goal,2,0,Layup Shot,LAYUPS,0.0,2023
-1629011,Specialty Dunk,2PT Field Goal,1,1,Tip Dunk Shot,DUNKS,1.0,2023
-1629011,Putback Layup,2PT Field Goal,3,1,Tip Layup Shot,LAYUPS,0.3333333333333333,2023
-1629011,Alley Oop Layup,2PT Field Goal,2,2,Alley Oop Layup shot,LAYUPS,1.0,2024
-1629011,Specialty Dunk,2PT Field Goal,2,2,Cutting Dunk Shot,DUNKS,1.0,2024
-1629011,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2024
-1629011,Standard Dunk,2PT Field Goal,5,3,Dunk Shot,DUNKS,0.6,2024
-1629011,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2024
-1629011,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2024
-1629011,Standard Layup,2PT Field Goal,2,0,Layup Shot,LAYUPS,0.0,2024
-1629011,Putback Dunk,2PT Field Goal,2,2,Putback Dunk Shot,DUNKS,1.0,2024
-1629011,Putback Layup,2PT Field Goal,4,1,Putback Layup Shot,LAYUPS,0.25,2024
-1629011,Specialty Dunk,2PT Field Goal,4,3,Tip Dunk Shot,DUNKS,0.75,2024
-1629011,Putback Layup,2PT Field Goal,11,4,Tip Layup Shot,LAYUPS,0.3636363636363636,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Mitchell Robinson,1629011,Alley Oop Dunk,2,70,52,Alley Oop Dunk Shot,DUNKS,,2019
+Mitchell Robinson,1629011,Alley Oop Layup,2,7,6,Alley Oop Layup shot,LAYUPS,,2019
+Mitchell Robinson,1629011,Specialty Dunk,2,12,12,Cutting Dunk Shot,DUNKS,,2019
+Mitchell Robinson,1629011,Finger Roll,2,2,1,Cutting Finger Roll Layup Shot,LAYUPS,,2019
+Mitchell Robinson,1629011,Standard Layup,2,5,5,Cutting Layup Shot,LAYUPS,,2019
+Mitchell Robinson,1629011,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2019
+Mitchell Robinson,1629011,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Mitchell Robinson,1629011,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2019
+Mitchell Robinson,1629011,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2019
+Mitchell Robinson,1629011,Standard Dunk,2,33,30,Dunk Shot,DUNKS,,2019
+Mitchell Robinson,1629011,Finger Roll,2,6,3,Finger Roll Layup Shot,LAYUPS,,2019
+Mitchell Robinson,1629011,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2019
+Mitchell Robinson,1629011,Jump Shot,2,2,0,Jump Shot,JUMP_SHOTS,,2019
+Mitchell Robinson,1629011,Standard Layup,2,45,24,Layup Shot,LAYUPS,,2019
+Mitchell Robinson,1629011,Putback Dunk,2,15,15,Putback Dunk Shot,DUNKS,,2019
+Mitchell Robinson,1629011,Putback Layup,2,34,19,Putback Layup Shot,LAYUPS,,2019
+Mitchell Robinson,1629011,Reverse Layup,2,10,6,Reverse Layup Shot,LAYUPS,,2019
+Mitchell Robinson,1629011,Alley Oop Layup,2,1,0,Running Alley Oop Layup Shot,LAYUPS,,2019
+Mitchell Robinson,1629011,Standard Dunk,2,4,4,Running Dunk Shot,DUNKS,,2019
+Mitchell Robinson,1629011,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2019
+Mitchell Robinson,1629011,Specialty Dunk,2,18,14,Tip Dunk Shot,DUNKS,,2019
+Mitchell Robinson,1629011,Putback Layup,2,19,6,Tip Layup Shot,LAYUPS,,2019
+Mitchell Robinson,1629011,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2019
+Mitchell Robinson,1629011,Alley Oop Dunk,2,87,77,Alley Oop Dunk Shot,DUNKS,,2020
+Mitchell Robinson,1629011,Alley Oop Layup,2,10,9,Alley Oop Layup shot,LAYUPS,,2020
+Mitchell Robinson,1629011,Specialty Dunk,2,17,14,Cutting Dunk Shot,DUNKS,,2020
+Mitchell Robinson,1629011,Finger Roll,2,2,1,Cutting Finger Roll Layup Shot,LAYUPS,,2020
+Mitchell Robinson,1629011,Standard Layup,2,7,3,Cutting Layup Shot,LAYUPS,,2020
+Mitchell Robinson,1629011,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2020
+Mitchell Robinson,1629011,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2020
+Mitchell Robinson,1629011,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2020
+Mitchell Robinson,1629011,Driving Layup,2,2,1,Driving Layup Shot,LAYUPS,,2020
+Mitchell Robinson,1629011,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2020
+Mitchell Robinson,1629011,Standard Dunk,2,61,53,Dunk Shot,DUNKS,,2020
+Mitchell Robinson,1629011,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2020
+Mitchell Robinson,1629011,Hook Shot,2,4,3,Hook Shot,POST_MOVES,,2020
+Mitchell Robinson,1629011,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2020
+Mitchell Robinson,1629011,Jump Shot,2,2,1,Jump Shot,JUMP_SHOTS,,2020
+Mitchell Robinson,1629011,Standard Layup,2,26,6,Layup Shot,LAYUPS,,2020
+Mitchell Robinson,1629011,Putback Dunk,2,22,20,Putback Dunk Shot,DUNKS,,2020
+Mitchell Robinson,1629011,Putback Layup,2,33,23,Putback Layup Shot,LAYUPS,,2020
+Mitchell Robinson,1629011,Reverse Layup,2,2,0,Reverse Layup Shot,LAYUPS,,2020
+Mitchell Robinson,1629011,Alley Oop Dunk,2,2,1,Running Alley Oop Dunk Shot,DUNKS,,2020
+Mitchell Robinson,1629011,Alley Oop Layup,2,1,1,Running Alley Oop Layup Shot,LAYUPS,,2020
+Mitchell Robinson,1629011,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2020
+Mitchell Robinson,1629011,Finger Roll,2,2,1,Running Finger Roll Layup Shot,LAYUPS,,2020
+Mitchell Robinson,1629011,Specialty Dunk,2,18,17,Tip Dunk Shot,DUNKS,,2020
+Mitchell Robinson,1629011,Putback Layup,2,35,15,Tip Layup Shot,LAYUPS,,2020
+Mitchell Robinson,1629011,Alley Oop Dunk,2,32,30,Alley Oop Dunk Shot,DUNKS,,2021
+Mitchell Robinson,1629011,Alley Oop Layup,2,17,9,Alley Oop Layup shot,LAYUPS,,2021
+Mitchell Robinson,1629011,Specialty Dunk,2,11,9,Cutting Dunk Shot,DUNKS,,2021
+Mitchell Robinson,1629011,Standard Layup,2,4,1,Cutting Layup Shot,LAYUPS,,2021
+Mitchell Robinson,1629011,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2021
+Mitchell Robinson,1629011,Standard Dunk,2,28,24,Dunk Shot,DUNKS,,2021
+Mitchell Robinson,1629011,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2021
+Mitchell Robinson,1629011,Jump Shot,2,2,0,Jump Shot,JUMP_SHOTS,,2021
+Mitchell Robinson,1629011,Standard Layup,2,21,6,Layup Shot,LAYUPS,,2021
+Mitchell Robinson,1629011,Putback Dunk,2,13,13,Putback Dunk Shot,DUNKS,,2021
+Mitchell Robinson,1629011,Putback Layup,2,5,3,Putback Layup Shot,LAYUPS,,2021
+Mitchell Robinson,1629011,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2021
+Mitchell Robinson,1629011,Alley Oop Layup,2,1,1,Running Alley Oop Layup Shot,LAYUPS,,2021
+Mitchell Robinson,1629011,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2021
+Mitchell Robinson,1629011,Specialty Dunk,2,7,6,Tip Dunk Shot,DUNKS,,2021
+Mitchell Robinson,1629011,Putback Layup,2,29,11,Tip Layup Shot,LAYUPS,,2021
+Mitchell Robinson,1629011,Turnaround Hook Shot,2,2,0,Turnaround Hook Shot,POST_MOVES,,2021
+Mitchell Robinson,1629011,Alley Oop Dunk,2,52,46,Alley Oop Dunk Shot,DUNKS,,2022
+Mitchell Robinson,1629011,Alley Oop Layup,2,3,3,Alley Oop Layup shot,LAYUPS,,2022
+Mitchell Robinson,1629011,Specialty Dunk,2,28,23,Cutting Dunk Shot,DUNKS,,2022
+Mitchell Robinson,1629011,Standard Layup,2,7,4,Cutting Layup Shot,LAYUPS,,2022
+Mitchell Robinson,1629011,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2022
+Mitchell Robinson,1629011,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Mitchell Robinson,1629011,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2022
+Mitchell Robinson,1629011,Standard Dunk,2,53,49,Dunk Shot,DUNKS,,2022
+Mitchell Robinson,1629011,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2022
+Mitchell Robinson,1629011,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2022
+Mitchell Robinson,1629011,Hook Shot,2,3,2,Hook Shot,POST_MOVES,,2022
+Mitchell Robinson,1629011,Standard Layup,2,48,18,Layup Shot,LAYUPS,,2022
+Mitchell Robinson,1629011,Putback Dunk,2,36,32,Putback Dunk Shot,DUNKS,,2022
+Mitchell Robinson,1629011,Putback Layup,2,40,25,Putback Layup Shot,LAYUPS,,2022
+Mitchell Robinson,1629011,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2022
+Mitchell Robinson,1629011,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2022
+Mitchell Robinson,1629011,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2022
+Mitchell Robinson,1629011,Standard Dunk,2,4,3,Running Dunk Shot,DUNKS,,2022
+Mitchell Robinson,1629011,Specialty Dunk,2,25,23,Tip Dunk Shot,DUNKS,,2022
+Mitchell Robinson,1629011,Putback Layup,2,33,24,Tip Layup Shot,LAYUPS,,2022
+Mitchell Robinson,1629011,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2022
+Mitchell Robinson,1629011,Alley Oop Dunk,2,40,36,Alley Oop Dunk Shot,DUNKS,,2023
+Mitchell Robinson,1629011,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2023
+Mitchell Robinson,1629011,Specialty Dunk,2,14,14,Cutting Dunk Shot,DUNKS,,2023
+Mitchell Robinson,1629011,Standard Layup,2,7,3,Cutting Layup Shot,LAYUPS,,2023
+Mitchell Robinson,1629011,Driving Dunk,2,3,2,Driving Dunk Shot,DUNKS,,2023
+Mitchell Robinson,1629011,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2023
+Mitchell Robinson,1629011,Driving Layup,2,2,0,Driving Layup Shot,LAYUPS,,2023
+Mitchell Robinson,1629011,Standard Dunk,2,54,48,Dunk Shot,DUNKS,,2023
+Mitchell Robinson,1629011,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2023
+Mitchell Robinson,1629011,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2023
+Mitchell Robinson,1629011,Hook Shot,2,5,3,Hook Shot,POST_MOVES,,2023
+Mitchell Robinson,1629011,Standard Layup,2,20,8,Layup Shot,LAYUPS,,2023
+Mitchell Robinson,1629011,Putback Dunk,2,18,17,Putback Dunk Shot,DUNKS,,2023
+Mitchell Robinson,1629011,Putback Layup,2,33,15,Putback Layup Shot,LAYUPS,,2023
+Mitchell Robinson,1629011,Alley Oop Dunk,2,2,2,Running Alley Oop Dunk Shot,DUNKS,,2023
+Mitchell Robinson,1629011,Standard Dunk,2,2,0,Running Dunk Shot,DUNKS,,2023
+Mitchell Robinson,1629011,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2023
+Mitchell Robinson,1629011,Specialty Dunk,2,13,11,Tip Dunk Shot,DUNKS,,2023
+Mitchell Robinson,1629011,Putback Layup,2,57,26,Tip Layup Shot,LAYUPS,,2023
+Mitchell Robinson,1629011,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2023
+Mitchell Robinson,1629011,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2023
+Mitchell Robinson,1629011,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2023
+Mitchell Robinson,1629011,Alley Oop Dunk,2,16,13,Alley Oop Dunk Shot,DUNKS,,2024
+Mitchell Robinson,1629011,Alley Oop Layup,2,3,3,Alley Oop Layup shot,LAYUPS,,2024
+Mitchell Robinson,1629011,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2024
+Mitchell Robinson,1629011,Finger Roll,2,1,0,Cutting Finger Roll Layup Shot,LAYUPS,,2024
+Mitchell Robinson,1629011,Standard Layup,2,2,1,Cutting Layup Shot,LAYUPS,,2024
+Mitchell Robinson,1629011,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2024
+Mitchell Robinson,1629011,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Mitchell Robinson,1629011,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2024
+Mitchell Robinson,1629011,Standard Dunk,2,16,13,Dunk Shot,DUNKS,,2024
+Mitchell Robinson,1629011,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2024
+Mitchell Robinson,1629011,Jump Shot,2,1,0,Jump Shot,JUMP_SHOTS,,2024
+Mitchell Robinson,1629011,Standard Layup,2,9,2,Layup Shot,LAYUPS,,2024
+Mitchell Robinson,1629011,Putback Dunk,2,5,5,Putback Dunk Shot,DUNKS,,2024
+Mitchell Robinson,1629011,Putback Layup,2,13,7,Putback Layup Shot,LAYUPS,,2024
+Mitchell Robinson,1629011,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2024
+Mitchell Robinson,1629011,Specialty Dunk,2,12,11,Tip Dunk Shot,DUNKS,,2024
+Mitchell Robinson,1629011,Putback Layup,2,42,13,Tip Layup Shot,LAYUPS,,2024

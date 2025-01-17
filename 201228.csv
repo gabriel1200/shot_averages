@@ -1,56 +1,197 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-201228,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2009
-201228,Jump Shot,3PT Field Goal,2,2,Jump Shot,JUMP_SHOTS,1.5,2009
-201228,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2010
-201228,Jump Shot,2PT Field Goal,3,2,Jump Shot,JUMP_SHOTS,0.6666666666666666,2010
-201228,Jump Shot,3PT Field Goal,5,2,Jump Shot,JUMP_SHOTS,0.6,2010
-201228,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2010
-201228,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2011
-201228,Jump Shot,3PT Field Goal,3,2,Jump Shot,JUMP_SHOTS,1.0,2011
-201228,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2011
-201228,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2011
-201228,Reverse Layup,2PT Field Goal,1,0,Running Reverse Layup Shot,LAYUPS,0.0,2011
-201228,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2012
-201228,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2012
-201228,Jump Shot,2PT Field Goal,9,1,Jump Shot,JUMP_SHOTS,0.1111111111111111,2012
-201228,Jump Shot,3PT Field Goal,5,2,Jump Shot,JUMP_SHOTS,0.6,2012
-201228,Standard Layup,2PT Field Goal,3,2,Layup Shot,LAYUPS,0.6666666666666666,2012
-201228,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2013
-201228,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2013
-201228,Jump Shot,3PT Field Goal,6,2,Jump Shot,JUMP_SHOTS,0.5,2013
-201228,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2013
-201228,Driving Layup,2PT Field Goal,9,4,Driving Layup Shot,LAYUPS,0.4444444444444444,2014
-201228,Floating Jump Shot,2PT Field Goal,2,1,Floating Jump shot,FLOATING_SHOTS,0.5,2014
-201228,Jump Shot,2PT Field Goal,14,4,Jump Shot,JUMP_SHOTS,0.2857142857142857,2014
-201228,Jump Shot,3PT Field Goal,28,6,Jump Shot,JUMP_SHOTS,0.3214285714285714,2014
-201228,Standard Layup,2PT Field Goal,15,7,Layup Shot,LAYUPS,0.4666666666666667,2014
-201228,Pullup Jump Shot,2PT Field Goal,5,3,Pullup Jump shot,JUMP_SHOTS,0.6,2014
-201228,Putback Layup,2PT Field Goal,1,0,Putback Layup Shot,LAYUPS,0.0,2014
-201228,Reverse Layup,2PT Field Goal,2,2,Reverse Layup Shot,LAYUPS,1.0,2014
-201228,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2014
-201228,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2014
-201228,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2015
-201228,Jump Shot,2PT Field Goal,5,3,Jump Shot,JUMP_SHOTS,0.6,2015
-201228,Jump Shot,3PT Field Goal,11,7,Jump Shot,JUMP_SHOTS,0.9545454545454546,2015
-201228,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2015
-201228,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2015
-201228,Pullup Jump Shot,3PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.5,2015
-201228,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2016
-201228,Jump Shot,2PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.3333333333333333,2016
-201228,Jump Shot,3PT Field Goal,10,5,Jump Shot,JUMP_SHOTS,0.75,2016
-201228,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2016
-201228,Pullup Jump Shot,2PT Field Goal,3,1,Pullup Jump shot,JUMP_SHOTS,0.3333333333333333,2016
-201228,Running Jump Shot,3PT Field Goal,3,0,Running Jump Shot,JUMP_SHOTS,0.0,2016
-201228,Alley Oop Layup,2PT Field Goal,1,0,Alley Oop Layup shot,LAYUPS,0.0,2017
-201228,Standard Layup,2PT Field Goal,5,5,Cutting Layup Shot,LAYUPS,1.0,2017
-201228,Driving Layup,2PT Field Goal,6,2,Driving Layup Shot,LAYUPS,0.3333333333333333,2017
-201228,Floating Jump Shot,2PT Field Goal,3,0,Floating Jump shot,FLOATING_SHOTS,0.0,2017
-201228,Jump Shot,2PT Field Goal,11,5,Jump Shot,JUMP_SHOTS,0.4545454545454545,2017
-201228,Jump Shot,3PT Field Goal,18,8,Jump Shot,JUMP_SHOTS,0.6666666666666666,2017
-201228,Pullup Jump Shot,2PT Field Goal,6,4,Pullup Jump shot,JUMP_SHOTS,0.6666666666666666,2017
-201228,Pullup Jump Shot,3PT Field Goal,3,2,Pullup Jump shot,JUMP_SHOTS,1.0,2017
-201228,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2017
-201228,Running Jump Shot,3PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.75,2017
-201228,Standard Layup,2PT Field Goal,5,2,Running Layup Shot,LAYUPS,0.4,2017
-201228,Running Jump Shot,2PT Field Goal,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,1.0,2017
-201228,Running Jump Shot,3PT Field Goal,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,1.5,2017
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+C.J. Watson,201228,Driving Layup,2,8,6,Driving Layup Shot,LAYUPS,,2008
+C.J. Watson,201228,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2008
+C.J. Watson,201228,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2008
+C.J. Watson,201228,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2008
+C.J. Watson,201228,Jump Shot,2,70,25,Jump Shot,JUMP_SHOTS,,2008
+C.J. Watson,201228,Standard Layup,2,11,4,Layup Shot,LAYUPS,,2008
+C.J. Watson,201228,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2008
+C.J. Watson,201228,Reverse Layup,2,4,2,Reverse Layup Shot,LAYUPS,,2008
+C.J. Watson,201228,Running Jump Shot,2,4,3,Running Jump Shot,JUMP_SHOTS,,2008
+C.J. Watson,201228,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2009
+C.J. Watson,201228,Driving Jump Shot,2,1,1,Driving Jump shot,JUMP_SHOTS,,2009
+C.J. Watson,201228,Driving Layup,2,50,36,Driving Layup Shot,LAYUPS,,2009
+C.J. Watson,201228,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2009
+C.J. Watson,201228,Fadeaway Jump Shot,2,3,1,Fadeaway Jump Shot,JUMP_SHOTS,,2009
+C.J. Watson,201228,Floating Jump Shot,2,17,8,Floating Jump shot,FLOATING_SHOTS,,2009
+C.J. Watson,201228,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2009
+C.J. Watson,201228,Jump Shot,2,340,113,Jump Shot,JUMP_SHOTS,,2009
+C.J. Watson,201228,Jump Shot,3,3,2,Jump Shot,JUMP_SHOTS,,2009
+C.J. Watson,201228,Standard Layup,2,57,25,Layup Shot,LAYUPS,,2009
+C.J. Watson,201228,Pullup Jump Shot,2,42,38,Pullup Jump shot,JUMP_SHOTS,,2009
+C.J. Watson,201228,Reverse Layup,2,4,2,Reverse Layup Shot,LAYUPS,,2009
+C.J. Watson,201228,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2009
+C.J. Watson,201228,Running Hook Shot,2,3,0,Running Hook Shot,POST_MOVES,,2009
+C.J. Watson,201228,Running Jump Shot,2,26,19,Running Jump Shot,JUMP_SHOTS,,2009
+C.J. Watson,201228,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2009
+C.J. Watson,201228,Standard Dunk,2,1,0,Slam Dunk Shot,DUNKS,,2009
+C.J. Watson,201228,Step Back Jump Shot,2,3,3,Step Back Jump shot,JUMP_SHOTS,,2009
+C.J. Watson,201228,Tip Shot,2,4,1,Tip Shot,TIP_SHOTS,,2009
+C.J. Watson,201228,Turnaround Jump Shot,2,2,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2009
+C.J. Watson,201228,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2009
+C.J. Watson,201228,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2010
+C.J. Watson,201228,Finger Roll,2,3,3,Driving Finger Roll Layup Shot,LAYUPS,,2010
+C.J. Watson,201228,Driving Jump Shot,2,2,2,Driving Jump shot,JUMP_SHOTS,,2010
+C.J. Watson,201228,Driving Layup,2,44,39,Driving Layup Shot,LAYUPS,,2010
+C.J. Watson,201228,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2010
+C.J. Watson,201228,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2010
+C.J. Watson,201228,Fadeaway Jump Shot,2,6,3,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+C.J. Watson,201228,Floating Jump Shot,2,21,11,Floating Jump shot,FLOATING_SHOTS,,2010
+C.J. Watson,201228,Jump Shot,2,3,2,Jump Bank Shot,JUMP_SHOTS,,2010
+C.J. Watson,201228,Jump Shot,2,261,71,Jump Shot,JUMP_SHOTS,,2010
+C.J. Watson,201228,Jump Shot,3,14,3,Jump Shot,JUMP_SHOTS,,2010
+C.J. Watson,201228,Standard Layup,2,59,30,Layup Shot,LAYUPS,,2010
+C.J. Watson,201228,Pullup Jump Shot,2,59,37,Pullup Jump shot,JUMP_SHOTS,,2010
+C.J. Watson,201228,Pullup Jump Shot,3,1,1,Pullup Jump shot,JUMP_SHOTS,,2010
+C.J. Watson,201228,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2010
+C.J. Watson,201228,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2010
+C.J. Watson,201228,Running Jump Shot,2,2,2,Running Bank shot,JUMP_SHOTS,,2010
+C.J. Watson,201228,Running Jump Shot,2,12,10,Running Jump Shot,JUMP_SHOTS,,2010
+C.J. Watson,201228,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2010
+C.J. Watson,201228,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2010
+C.J. Watson,201228,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2010
+C.J. Watson,201228,Step Back Jump Shot,2,22,19,Step Back Jump shot,JUMP_SHOTS,,2010
+C.J. Watson,201228,Step Back Jump Shot,3,1,1,Step Back Jump shot,JUMP_SHOTS,,2010
+C.J. Watson,201228,Tip Shot,2,2,0,Tip Shot,TIP_SHOTS,,2010
+C.J. Watson,201228,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2010
+C.J. Watson,201228,Turnaround Jump Shot,2,2,2,Turnaround Jump Shot,JUMP_SHOTS,,2010
+C.J. Watson,201228,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2011
+C.J. Watson,201228,Driving Layup,2,17,9,Driving Layup Shot,LAYUPS,,2011
+C.J. Watson,201228,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2011
+C.J. Watson,201228,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2011
+C.J. Watson,201228,Fadeaway Jump Shot,2,5,3,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+C.J. Watson,201228,Floating Jump Shot,2,9,3,Floating Jump shot,FLOATING_SHOTS,,2011
+C.J. Watson,201228,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2011
+C.J. Watson,201228,Jump Shot,2,274,88,Jump Shot,JUMP_SHOTS,,2011
+C.J. Watson,201228,Jump Shot,3,16,8,Jump Shot,JUMP_SHOTS,,2011
+C.J. Watson,201228,Standard Layup,2,33,14,Layup Shot,LAYUPS,,2011
+C.J. Watson,201228,Pullup Jump Shot,2,8,5,Pullup Jump shot,JUMP_SHOTS,,2011
+C.J. Watson,201228,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2011
+C.J. Watson,201228,Running Jump Shot,2,2,1,Running Bank shot,JUMP_SHOTS,,2011
+C.J. Watson,201228,Running Jump Shot,2,12,7,Running Jump Shot,JUMP_SHOTS,,2011
+C.J. Watson,201228,Standard Layup,2,4,1,Running Layup Shot,LAYUPS,,2011
+C.J. Watson,201228,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2011
+C.J. Watson,201228,Step Back Jump Shot,2,3,1,Step Back Jump shot,JUMP_SHOTS,,2011
+C.J. Watson,201228,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2011
+C.J. Watson,201228,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2011
+C.J. Watson,201228,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2011
+C.J. Watson,201228,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2012
+C.J. Watson,201228,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2012
+C.J. Watson,201228,Driving Jump Shot,2,2,2,Driving Jump shot,JUMP_SHOTS,,2012
+C.J. Watson,201228,Driving Layup,2,19,11,Driving Layup Shot,LAYUPS,,2012
+C.J. Watson,201228,Driving Layup,2,3,3,Driving Reverse Layup Shot,LAYUPS,,2012
+C.J. Watson,201228,Fadeaway Jump Shot,2,5,2,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+C.J. Watson,201228,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2012
+C.J. Watson,201228,Floating Jump Shot,2,8,4,Floating Jump shot,FLOATING_SHOTS,,2012
+C.J. Watson,201228,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2012
+C.J. Watson,201228,Jump Shot,2,282,89,Jump Shot,JUMP_SHOTS,,2012
+C.J. Watson,201228,Jump Shot,3,35,15,Jump Shot,JUMP_SHOTS,,2012
+C.J. Watson,201228,Standard Layup,2,36,12,Layup Shot,LAYUPS,,2012
+C.J. Watson,201228,Pullup Jump Shot,2,15,10,Pullup Jump shot,JUMP_SHOTS,,2012
+C.J. Watson,201228,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2012
+C.J. Watson,201228,Reverse Layup,2,2,0,Reverse Layup Shot,LAYUPS,,2012
+C.J. Watson,201228,Running Jump Shot,2,2,2,Running Bank shot,JUMP_SHOTS,,2012
+C.J. Watson,201228,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2012
+C.J. Watson,201228,Running Jump Shot,2,10,3,Running Jump Shot,JUMP_SHOTS,,2012
+C.J. Watson,201228,Standard Layup,2,6,4,Running Layup Shot,LAYUPS,,2012
+C.J. Watson,201228,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2012
+C.J. Watson,201228,Tip Shot,2,1,0,Running Tip Shot,TIP_SHOTS,,2012
+C.J. Watson,201228,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2012
+C.J. Watson,201228,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2012
+C.J. Watson,201228,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2012
+C.J. Watson,201228,Finger Roll,2,3,1,Driving Finger Roll Layup Shot,LAYUPS,,2013
+C.J. Watson,201228,Driving Layup,2,30,19,Driving Layup Shot,LAYUPS,,2013
+C.J. Watson,201228,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2013
+C.J. Watson,201228,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+C.J. Watson,201228,Floating Jump Shot,2,19,6,Floating Jump shot,FLOATING_SHOTS,,2013
+C.J. Watson,201228,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2013
+C.J. Watson,201228,Jump Shot,2,284,107,Jump Shot,JUMP_SHOTS,,2013
+C.J. Watson,201228,Jump Shot,3,35,15,Jump Shot,JUMP_SHOTS,,2013
+C.J. Watson,201228,Standard Layup,2,45,23,Layup Shot,LAYUPS,,2013
+C.J. Watson,201228,Pullup Jump Shot,2,12,8,Pullup Jump shot,JUMP_SHOTS,,2013
+C.J. Watson,201228,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2013
+C.J. Watson,201228,Reverse Layup,2,4,2,Reverse Layup Shot,LAYUPS,,2013
+C.J. Watson,201228,Finger Roll,2,1,0,Running Finger Roll Layup Shot,LAYUPS,,2013
+C.J. Watson,201228,Running Jump Shot,2,11,4,Running Jump Shot,JUMP_SHOTS,,2013
+C.J. Watson,201228,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2013
+C.J. Watson,201228,Step Back Jump Shot,2,6,5,Step Back Jump shot,JUMP_SHOTS,,2013
+C.J. Watson,201228,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2013
+C.J. Watson,201228,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2013
+C.J. Watson,201228,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2013
+C.J. Watson,201228,Driving Jump Shot,2,2,0,Driving Jump shot,JUMP_SHOTS,,2014
+C.J. Watson,201228,Driving Layup,2,21,11,Driving Layup Shot,LAYUPS,,2014
+C.J. Watson,201228,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2014
+C.J. Watson,201228,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2014
+C.J. Watson,201228,Floating Jump Shot,2,4,3,Floating Jump shot,FLOATING_SHOTS,,2014
+C.J. Watson,201228,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2014
+C.J. Watson,201228,Jump Shot,2,167,61,Jump Shot,JUMP_SHOTS,,2014
+C.J. Watson,201228,Jump Shot,3,45,13,Jump Shot,JUMP_SHOTS,,2014
+C.J. Watson,201228,Standard Layup,2,53,31,Layup Shot,LAYUPS,,2014
+C.J. Watson,201228,Pullup Jump Shot,2,23,19,Pullup Jump shot,JUMP_SHOTS,,2014
+C.J. Watson,201228,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2014
+C.J. Watson,201228,Reverse Layup,2,5,4,Reverse Layup Shot,LAYUPS,,2014
+C.J. Watson,201228,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2014
+C.J. Watson,201228,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2014
+C.J. Watson,201228,Step Back Jump Shot,2,4,1,Step Back Jump shot,JUMP_SHOTS,,2014
+C.J. Watson,201228,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2014
+C.J. Watson,201228,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2015
+C.J. Watson,201228,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2015
+C.J. Watson,201228,Driving Jump Shot,2,3,0,Driving Jump shot,JUMP_SHOTS,,2015
+C.J. Watson,201228,Driving Layup,2,19,15,Driving Layup Shot,LAYUPS,,2015
+C.J. Watson,201228,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2015
+C.J. Watson,201228,Fadeaway Jump Shot,2,3,2,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+C.J. Watson,201228,Floating Jump Shot,2,8,6,Floating Jump shot,FLOATING_SHOTS,,2015
+C.J. Watson,201228,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2015
+C.J. Watson,201228,Jump Shot,2,262,91,Jump Shot,JUMP_SHOTS,,2015
+C.J. Watson,201228,Jump Shot,3,26,12,Jump Shot,JUMP_SHOTS,,2015
+C.J. Watson,201228,Standard Layup,2,43,21,Layup Shot,LAYUPS,,2015
+C.J. Watson,201228,Pullup Jump Shot,2,21,14,Pullup Jump shot,JUMP_SHOTS,,2015
+C.J. Watson,201228,Pullup Jump Shot,3,3,2,Pullup Jump shot,JUMP_SHOTS,,2015
+C.J. Watson,201228,Reverse Layup,2,9,6,Reverse Layup Shot,LAYUPS,,2015
+C.J. Watson,201228,Running Jump Shot,2,2,1,Running Bank shot,JUMP_SHOTS,,2015
+C.J. Watson,201228,Running Jump Shot,2,6,2,Running Jump Shot,JUMP_SHOTS,,2015
+C.J. Watson,201228,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2015
+C.J. Watson,201228,Step Back Jump Shot,2,3,1,Step Back Jump shot,JUMP_SHOTS,,2015
+C.J. Watson,201228,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2016
+C.J. Watson,201228,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2016
+C.J. Watson,201228,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2016
+C.J. Watson,201228,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+C.J. Watson,201228,Driving Layup,2,7,4,Driving Layup Shot,LAYUPS,,2016
+C.J. Watson,201228,Driving Layup,2,2,0,Driving Reverse Layup Shot,LAYUPS,,2016
+C.J. Watson,201228,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2016
+C.J. Watson,201228,Floating Jump Shot,2,10,4,Floating Jump shot,FLOATING_SHOTS,,2016
+C.J. Watson,201228,Jump Shot,3,1,0,Jump Bank Shot,JUMP_SHOTS,,2016
+C.J. Watson,201228,Jump Shot,2,64,14,Jump Shot,JUMP_SHOTS,,2016
+C.J. Watson,201228,Jump Shot,3,14,7,Jump Shot,JUMP_SHOTS,,2016
+C.J. Watson,201228,Standard Layup,2,9,4,Layup Shot,LAYUPS,,2016
+C.J. Watson,201228,Pullup Jump Shot,2,13,5,Pullup Jump shot,JUMP_SHOTS,,2016
+C.J. Watson,201228,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2016
+C.J. Watson,201228,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2016
+C.J. Watson,201228,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2016
+C.J. Watson,201228,Running Jump Shot,3,3,0,Running Jump Shot,JUMP_SHOTS,,2016
+C.J. Watson,201228,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2016
+C.J. Watson,201228,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2016
+C.J. Watson,201228,Putback Layup,2,1,0,Tip Layup Shot,LAYUPS,,2016
+C.J. Watson,201228,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2017
+C.J. Watson,201228,Standard Layup,2,9,8,Cutting Layup Shot,LAYUPS,,2017
+C.J. Watson,201228,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2017
+C.J. Watson,201228,Floating Jump Shot,2,4,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+C.J. Watson,201228,Driving Layup,2,13,7,Driving Layup Shot,LAYUPS,,2017
+C.J. Watson,201228,Driving Layup,2,4,1,Driving Reverse Layup Shot,LAYUPS,,2017
+C.J. Watson,201228,Fadeaway Jump Shot,2,2,2,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+C.J. Watson,201228,Floating Jump Shot,2,7,1,Floating Jump shot,FLOATING_SHOTS,,2017
+C.J. Watson,201228,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2017
+C.J. Watson,201228,Jump Shot,2,111,27,Jump Shot,JUMP_SHOTS,,2017
+C.J. Watson,201228,Jump Shot,3,22,8,Jump Shot,JUMP_SHOTS,,2017
+C.J. Watson,201228,Standard Layup,2,7,1,Layup Shot,LAYUPS,,2017
+C.J. Watson,201228,Pullup Jump Shot,2,29,17,Pullup Jump shot,JUMP_SHOTS,,2017
+C.J. Watson,201228,Pullup Jump Shot,3,3,2,Pullup Jump shot,JUMP_SHOTS,,2017
+C.J. Watson,201228,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2017
+C.J. Watson,201228,Running Jump Shot,2,5,2,Running Jump Shot,JUMP_SHOTS,,2017
+C.J. Watson,201228,Running Jump Shot,3,3,1,Running Jump Shot,JUMP_SHOTS,,2017
+C.J. Watson,201228,Standard Layup,2,10,5,Running Layup Shot,LAYUPS,,2017
+C.J. Watson,201228,Running Jump Shot,2,4,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2017
+C.J. Watson,201228,Running Jump Shot,3,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2017
+C.J. Watson,201228,Step Back Jump Shot,2,6,4,Step Back Jump shot,JUMP_SHOTS,,2017
+C.J. Watson,201228,Putback Layup,2,1,1,Tip Layup Shot,LAYUPS,,2017
+C.J. Watson,201228,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2017

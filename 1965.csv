@@ -1,4 +1,8 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1965,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2000
-1965,Standard Layup,2PT Field Goal,3,0,Layup Shot,LAYUPS,0.0,2000
-1965,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2000
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Rick Hughes,1965,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2000
+Rick Hughes,1965,Hook Shot,2,5,2,Hook Shot,POST_MOVES,,2000
+Rick Hughes,1965,Jump Shot,2,36,12,Jump Shot,JUMP_SHOTS,,2000
+Rick Hughes,1965,Standard Layup,2,19,11,Layup Shot,LAYUPS,,2000
+Rick Hughes,1965,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2000
+Rick Hughes,1965,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2000
+Rick Hughes,1965,Tip Shot,2,9,7,Tip Shot,TIP_SHOTS,,2000

@@ -1,131 +1,564 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-201567,Finger Roll,2PT Field Goal,1,0,Finger Roll Layup Shot,LAYUPS,0.0,2010
-201567,Jump Shot,3PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.5,2010
-201567,Standard Layup,2PT Field Goal,2,0,Layup Shot,LAYUPS,0.0,2010
-201567,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2010
-201567,Hook Shot,2PT Field Goal,1,1,Jump Hook Shot,POST_MOVES,1.0,2011
-201567,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2011
-201567,Jump Shot,3PT Field Goal,4,3,Jump Shot,JUMP_SHOTS,1.125,2011
-201567,Standard Layup,2PT Field Goal,4,2,Layup Shot,LAYUPS,0.5,2011
-201567,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2011
-201567,Running Hook Shot,2PT Field Goal,1,1,Running Hook Shot,POST_MOVES,1.0,2011
-201567,Tip Shot,2PT Field Goal,2,1,Tip Shot,TIP_SHOTS,0.5,2011
-201567,Driving Jump Shot,2PT Field Goal,1,1,Driving Jump shot,JUMP_SHOTS,1.0,2012
-201567,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2012
-201567,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2012
-201567,Jump Shot,2PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2012
-201567,Hook Shot,2PT Field Goal,2,2,Jump Hook Shot,POST_MOVES,1.0,2012
-201567,Jump Shot,2PT Field Goal,9,0,Jump Shot,JUMP_SHOTS,0.0,2012
-201567,Jump Shot,3PT Field Goal,7,0,Jump Shot,JUMP_SHOTS,0.0,2012
-201567,Standard Layup,2PT Field Goal,3,0,Layup Shot,LAYUPS,0.0,2012
-201567,Running Jump Shot,2PT Field Goal,1,1,Running Bank shot,JUMP_SHOTS,1.0,2012
-201567,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2012
-201567,Standard Dunk,2PT Field Goal,1,0,Slam Dunk Shot,DUNKS,0.0,2012
-201567,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2012
-201567,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2013
-201567,Jump Shot,3PT Field Goal,5,2,Jump Shot,JUMP_SHOTS,0.6,2013
-201567,Standard Layup,2PT Field Goal,3,1,Layup Shot,LAYUPS,0.3333333333333333,2013
-201567,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2013
-201567,Running Hook Shot,2PT Field Goal,1,1,Running Hook Shot,POST_MOVES,1.0,2013
-201567,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2013
-201567,Tip Shot,2PT Field Goal,3,1,Tip Shot,TIP_SHOTS,0.3333333333333333,2013
-201567,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2014
-201567,Hook Shot,2PT Field Goal,1,0,Jump Hook Shot,POST_MOVES,0.0,2014
-201567,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2014
-201567,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2014
-201567,Standard Layup,2PT Field Goal,4,1,Layup Shot,LAYUPS,0.25,2014
-201567,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2014
-201567,Step Back Jump Shot,3PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2014
-201567,Alley Oop Dunk,2PT Field Goal,2,2,Alley Oop Dunk Shot,DUNKS,1.0,2015
-201567,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2015
-201567,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,2015
-201567,Hook Shot,2PT Field Goal,3,1,Hook Shot,POST_MOVES,0.3333333333333333,2015
-201567,Jump Shot,2PT Field Goal,3,2,Jump Bank Shot,JUMP_SHOTS,0.6666666666666666,2015
-201567,Jump Shot,3PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.5,2015
-201567,Hook Shot,2PT Field Goal,8,2,Jump Hook Shot,POST_MOVES,0.25,2015
-201567,Jump Shot,2PT Field Goal,10,2,Jump Shot,JUMP_SHOTS,0.2,2015
-201567,Jump Shot,3PT Field Goal,40,17,Jump Shot,JUMP_SHOTS,0.6375,2015
-201567,Standard Layup,2PT Field Goal,4,3,Layup Shot,LAYUPS,0.75,2015
-201567,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2015
-201567,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2015
-201567,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2015
-201567,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Bank shot,JUMP_SHOTS,0.0,2015
-201567,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2015
-201567,Alley Oop Layup,2PT Field Goal,3,1,Alley Oop Layup shot,LAYUPS,0.3333333333333333,2016
-201567,Specialty Dunk,2PT Field Goal,2,2,Cutting Dunk Shot,DUNKS,1.0,2016
-201567,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2016
-201567,Driving Hook Shot,2PT Field Goal,1,1,Driving Hook Shot,POST_MOVES,1.0,2016
-201567,Driving Layup,2PT Field Goal,3,2,Driving Layup Shot,LAYUPS,0.6666666666666666,2016
-201567,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2016
-201567,Fadeaway Jump Shot,2PT Field Goal,3,1,Fadeaway Jump Shot,JUMP_SHOTS,0.3333333333333333,2016
-201567,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2016
-201567,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,2016
-201567,Jump Shot,2PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2016
-201567,Jump Shot,2PT Field Goal,11,1,Jump Shot,JUMP_SHOTS,0.0909090909090909,2016
-201567,Jump Shot,3PT Field Goal,42,14,Jump Shot,JUMP_SHOTS,0.5,2016
-201567,Standard Layup,2PT Field Goal,5,2,Layup Shot,LAYUPS,0.4,2016
-201567,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2016
-201567,Putback Layup,2PT Field Goal,1,0,Tip Layup Shot,LAYUPS,0.0,2016
-201567,Turnaround Jump Shot,2PT Field Goal,3,1,Turnaround Bank shot,JUMP_SHOTS,0.3333333333333333,2016
-201567,Turnaround Hook Shot,2PT Field Goal,7,2,Turnaround Hook Shot,POST_MOVES,0.2857142857142857,2016
-201567,Turnaround Jump Shot,2PT Field Goal,4,1,Turnaround Jump Shot,JUMP_SHOTS,0.25,2016
-201567,Alley Oop Layup,2PT Field Goal,1,0,Alley Oop Layup shot,LAYUPS,0.0,2017
-201567,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2017
-201567,Driving Hook Shot,2PT Field Goal,2,1,Driving Hook Shot,POST_MOVES,0.5,2017
-201567,Driving Layup,2PT Field Goal,6,3,Driving Layup Shot,LAYUPS,0.5,2017
-201567,Driving Layup,2PT Field Goal,2,1,Driving Reverse Layup Shot,LAYUPS,0.5,2017
-201567,Fadeaway Jump Shot,2PT Field Goal,2,1,Fadeaway Jump Shot,JUMP_SHOTS,0.5,2017
-201567,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2017
-201567,Hook Shot,2PT Field Goal,6,4,Hook Shot,POST_MOVES,0.6666666666666666,2017
-201567,Jump Shot,2PT Field Goal,4,1,Jump Bank Shot,JUMP_SHOTS,0.25,2017
-201567,Jump Shot,2PT Field Goal,10,4,Jump Shot,JUMP_SHOTS,0.4,2017
-201567,Jump Shot,3PT Field Goal,69,31,Jump Shot,JUMP_SHOTS,0.6739130434782609,2017
-201567,Standard Layup,2PT Field Goal,5,3,Layup Shot,LAYUPS,0.6,2017
-201567,Putback Layup,2PT Field Goal,2,2,Putback Layup Shot,LAYUPS,1.0,2017
-201567,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.0,2017
-201567,Putback Layup,2PT Field Goal,4,4,Tip Layup Shot,LAYUPS,1.0,2017
-201567,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,0.0,2017
-201567,Turnaround Jump Shot,2PT Field Goal,5,3,Turnaround Fadeaway shot,JUMP_SHOTS,0.6,2017
-201567,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2017
-201567,Turnaround Jump Shot,2PT Field Goal,3,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2017
-201567,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2018
-201567,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2018
-201567,Jump Shot,3PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,2018
-201567,Putback Layup,2PT Field Goal,1,0,Putback Layup Shot,LAYUPS,0.0,2018
-201567,Alley Oop Layup,2PT Field Goal,1,0,Alley Oop Layup shot,LAYUPS,0.0,2024
-201567,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2024
-201567,Finger Roll,2PT Field Goal,1,0,Driving Finger Roll Layup Shot,LAYUPS,0.0,2024
-201567,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2024
-201567,Driving Hook Shot,2PT Field Goal,2,0,Driving Hook Shot,POST_MOVES,0.0,2024
-201567,Driving Layup,2PT Field Goal,4,4,Driving Layup Shot,LAYUPS,1.0,2024
-201567,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2024
-201567,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Bank shot,JUMP_SHOTS,0.0,2024
-201567,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2024
-201567,Hook Shot,2PT Field Goal,1,1,Hook Bank Shot,POST_MOVES,1.0,2024
-201567,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2024
-201567,Jump Shot,2PT Field Goal,4,2,Jump Shot,JUMP_SHOTS,0.5,2024
-201567,Jump Shot,3PT Field Goal,83,28,Jump Shot,JUMP_SHOTS,0.5060240963855421,2024
-201567,Standard Layup,2PT Field Goal,5,4,Layup Shot,LAYUPS,0.8,2024
-201567,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2024
-201567,Pullup Jump Shot,3PT Field Goal,6,2,Pullup Jump shot,JUMP_SHOTS,0.5,2024
-201567,Putback Layup,2PT Field Goal,2,1,Putback Layup Shot,LAYUPS,0.5,2024
-201567,Reverse Layup,2PT Field Goal,2,2,Reverse Layup Shot,LAYUPS,1.0,2024
-201567,Alley Oop Layup,2PT Field Goal,1,1,Running Alley Oop Layup Shot,LAYUPS,1.0,2024
-201567,Running Jump Shot,3PT Field Goal,7,2,Running Jump Shot,JUMP_SHOTS,0.4285714285714285,2024
-201567,Putback Layup,2PT Field Goal,8,6,Tip Layup Shot,LAYUPS,0.75,2024
-201567,Turnaround Jump Shot,2PT Field Goal,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,0.5,2024
-201567,Turnaround Hook Shot,2PT Field Goal,2,2,Turnaround Hook Shot,POST_MOVES,1.0,2024
-201567,Standard Layup,2PT Field Goal,1,0,Cutting Layup Shot,LAYUPS,0.0,2025
-201567,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2025
-201567,Hook Shot,2PT Field Goal,1,1,Hook Bank Shot,POST_MOVES,1.0,2025
-201567,Jump Shot,3PT Field Goal,18,4,Jump Shot,JUMP_SHOTS,0.3333333333333333,2025
-201567,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2025
-201567,Pullup Jump Shot,3PT Field Goal,2,2,Pullup Jump shot,JUMP_SHOTS,1.5,2025
-201567,Putback Layup,2PT Field Goal,3,2,Putback Layup Shot,LAYUPS,0.6666666666666666,2025
-201567,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2025
-201567,Running Jump Shot,3PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2025
-201567,Running Jump Shot,3PT Field Goal,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,1.5,2025
-201567,Step Back Jump Shot,3PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2025
-201567,Putback Layup,2PT Field Goal,1,0,Tip Layup Shot,LAYUPS,0.0,2025
-201567,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2025
-201567,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Kevin Love,201567,Alley Oop Layup,2,4,3,Alley Oop Layup shot,LAYUPS,,2009
+Kevin Love,201567,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2009
+Kevin Love,201567,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2009
+Kevin Love,201567,Driving Layup,2,10,7,Driving Layup Shot,LAYUPS,,2009
+Kevin Love,201567,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2009
+Kevin Love,201567,Driving Dunk,2,3,3,Driving Slam Dunk Shot,DUNKS,,2009
+Kevin Love,201567,Standard Dunk,2,25,22,Dunk Shot,DUNKS,,2009
+Kevin Love,201567,Fadeaway Jump Shot,2,7,4,Fadeaway Jump Shot,JUMP_SHOTS,,2009
+Kevin Love,201567,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2009
+Kevin Love,201567,Hook Shot,2,3,3,Hook Bank Shot,POST_MOVES,,2009
+Kevin Love,201567,Hook Shot,2,21,7,Hook Shot,POST_MOVES,,2009
+Kevin Love,201567,Jump Shot,2,12,5,Jump Bank Shot,JUMP_SHOTS,,2009
+Kevin Love,201567,Hook Shot,2,24,13,Jump Hook Shot,POST_MOVES,,2009
+Kevin Love,201567,Jump Shot,2,223,68,Jump Shot,JUMP_SHOTS,,2009
+Kevin Love,201567,Standard Layup,2,217,94,Layup Shot,LAYUPS,,2009
+Kevin Love,201567,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2009
+Kevin Love,201567,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2009
+Kevin Love,201567,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2009
+Kevin Love,201567,Putback Layup,2,13,10,Putback Layup Shot,LAYUPS,,2009
+Kevin Love,201567,Putback Dunk,2,1,1,Putback Slam Dunk Shot,DUNKS,,2009
+Kevin Love,201567,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2009
+Kevin Love,201567,Reverse Layup,2,24,15,Reverse Layup Shot,LAYUPS,,2009
+Kevin Love,201567,Running Jump Shot,2,1,0,Running Bank shot,JUMP_SHOTS,,2009
+Kevin Love,201567,Running Hook Shot,2,6,2,Running Hook Shot,POST_MOVES,,2009
+Kevin Love,201567,Running Jump Shot,2,5,3,Running Jump Shot,JUMP_SHOTS,,2009
+Kevin Love,201567,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2009
+Kevin Love,201567,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2009
+Kevin Love,201567,Tip Shot,2,1,1,Running Tip Shot,TIP_SHOTS,,2009
+Kevin Love,201567,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,2009
+Kevin Love,201567,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2009
+Kevin Love,201567,Tip Shot,2,47,28,Tip Shot,TIP_SHOTS,,2009
+Kevin Love,201567,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2009
+Kevin Love,201567,Turnaround Jump Shot,2,3,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2009
+Kevin Love,201567,Turnaround Hook Shot,2,8,3,Turnaround Hook Shot,POST_MOVES,,2009
+Kevin Love,201567,Turnaround Jump Shot,2,9,6,Turnaround Jump Shot,JUMP_SHOTS,,2009
+Kevin Love,201567,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2010
+Kevin Love,201567,Alley Oop Layup,2,6,4,Alley Oop Layup shot,LAYUPS,,2010
+Kevin Love,201567,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2010
+Kevin Love,201567,Driving Layup,2,13,8,Driving Layup Shot,LAYUPS,,2010
+Kevin Love,201567,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2010
+Kevin Love,201567,Standard Dunk,2,12,11,Dunk Shot,DUNKS,,2010
+Kevin Love,201567,Fadeaway Jump Shot,2,10,4,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+Kevin Love,201567,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2010
+Kevin Love,201567,Hook Shot,2,15,6,Hook Shot,POST_MOVES,,2010
+Kevin Love,201567,Hook Shot,2,1,1,Jump Bank Hook Shot,POST_MOVES,,2010
+Kevin Love,201567,Jump Shot,2,15,10,Jump Bank Shot,JUMP_SHOTS,,2010
+Kevin Love,201567,Hook Shot,2,12,6,Jump Hook Shot,POST_MOVES,,2010
+Kevin Love,201567,Jump Shot,2,285,91,Jump Shot,JUMP_SHOTS,,2010
+Kevin Love,201567,Jump Shot,3,3,2,Jump Shot,JUMP_SHOTS,,2010
+Kevin Love,201567,Standard Layup,2,157,81,Layup Shot,LAYUPS,,2010
+Kevin Love,201567,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2010
+Kevin Love,201567,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2010
+Kevin Love,201567,Putback Layup,2,11,10,Putback Layup Shot,LAYUPS,,2010
+Kevin Love,201567,Reverse Layup,2,18,8,Reverse Layup Shot,LAYUPS,,2010
+Kevin Love,201567,Running Hook Shot,2,2,1,Running Hook Shot,POST_MOVES,,2010
+Kevin Love,201567,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2010
+Kevin Love,201567,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2010
+Kevin Love,201567,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2010
+Kevin Love,201567,Step Back Jump Shot,2,2,2,Step Back Jump shot,JUMP_SHOTS,,2010
+Kevin Love,201567,Tip Shot,2,52,27,Tip Shot,TIP_SHOTS,,2010
+Kevin Love,201567,Turnaround Jump Shot,2,3,2,Turnaround Bank shot,JUMP_SHOTS,,2010
+Kevin Love,201567,Turnaround Jump Shot,2,2,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2010
+Kevin Love,201567,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2010
+Kevin Love,201567,Turnaround Jump Shot,2,13,6,Turnaround Jump Shot,JUMP_SHOTS,,2010
+Kevin Love,201567,Alley Oop Layup,2,11,6,Alley Oop Layup shot,LAYUPS,,2011
+Kevin Love,201567,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2011
+Kevin Love,201567,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2011
+Kevin Love,201567,Driving Jump Shot,2,2,0,Driving Jump shot,JUMP_SHOTS,,2011
+Kevin Love,201567,Driving Layup,2,11,7,Driving Layup Shot,LAYUPS,,2011
+Kevin Love,201567,Driving Layup,2,2,0,Driving Reverse Layup Shot,LAYUPS,,2011
+Kevin Love,201567,Standard Dunk,2,17,13,Dunk Shot,DUNKS,,2011
+Kevin Love,201567,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2011
+Kevin Love,201567,Fadeaway Jump Shot,2,3,1,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Kevin Love,201567,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2011
+Kevin Love,201567,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2011
+Kevin Love,201567,Hook Shot,2,4,3,Hook Bank Shot,POST_MOVES,,2011
+Kevin Love,201567,Hook Shot,2,32,19,Hook Shot,POST_MOVES,,2011
+Kevin Love,201567,Hook Shot,2,1,1,Jump Bank Hook Shot,POST_MOVES,,2011
+Kevin Love,201567,Jump Shot,2,20,13,Jump Bank Shot,JUMP_SHOTS,,2011
+Kevin Love,201567,Hook Shot,2,35,19,Jump Hook Shot,POST_MOVES,,2011
+Kevin Love,201567,Jump Shot,2,486,166,Jump Shot,JUMP_SHOTS,,2011
+Kevin Love,201567,Jump Shot,3,12,4,Jump Shot,JUMP_SHOTS,,2011
+Kevin Love,201567,Standard Layup,2,227,126,Layup Shot,LAYUPS,,2011
+Kevin Love,201567,Pullup Jump Shot,2,2,1,Pullup Jump shot,JUMP_SHOTS,,2011
+Kevin Love,201567,Putback Layup,2,15,14,Putback Layup Shot,LAYUPS,,2011
+Kevin Love,201567,Putback Dunk,2,1,1,Putback Slam Dunk Shot,DUNKS,,2011
+Kevin Love,201567,Reverse Layup,2,12,10,Reverse Layup Shot,LAYUPS,,2011
+Kevin Love,201567,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2011
+Kevin Love,201567,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2011
+Kevin Love,201567,Running Hook Shot,2,4,3,Running Hook Shot,POST_MOVES,,2011
+Kevin Love,201567,Running Jump Shot,2,11,6,Running Jump Shot,JUMP_SHOTS,,2011
+Kevin Love,201567,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2011
+Kevin Love,201567,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2011
+Kevin Love,201567,Standard Dunk,2,6,5,Slam Dunk Shot,DUNKS,,2011
+Kevin Love,201567,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2011
+Kevin Love,201567,Tip Shot,2,72,42,Tip Shot,TIP_SHOTS,,2011
+Kevin Love,201567,Turnaround Hook Shot,2,1,1,Turnaround Bank Hook Shot,POST_MOVES,,2011
+Kevin Love,201567,Turnaround Jump Shot,2,2,1,Turnaround Bank shot,JUMP_SHOTS,,2011
+Kevin Love,201567,Turnaround Hook Shot,2,11,5,Turnaround Hook Shot,POST_MOVES,,2011
+Kevin Love,201567,Turnaround Jump Shot,2,13,4,Turnaround Jump Shot,JUMP_SHOTS,,2011
+Kevin Love,201567,Alley Oop Dunk,2,3,3,Alley Oop Dunk Shot,DUNKS,,2012
+Kevin Love,201567,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2012
+Kevin Love,201567,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2012
+Kevin Love,201567,Driving Dunk,2,7,6,Driving Dunk Shot,DUNKS,,2012
+Kevin Love,201567,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2012
+Kevin Love,201567,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,,2012
+Kevin Love,201567,Driving Jump Shot,2,5,2,Driving Jump shot,JUMP_SHOTS,,2012
+Kevin Love,201567,Driving Layup,2,30,20,Driving Layup Shot,LAYUPS,,2012
+Kevin Love,201567,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2012
+Kevin Love,201567,Standard Dunk,2,21,20,Dunk Shot,DUNKS,,2012
+Kevin Love,201567,Fadeaway Jump Shot,2,14,6,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Kevin Love,201567,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2012
+Kevin Love,201567,Hook Shot,2,24,17,Hook Shot,POST_MOVES,,2012
+Kevin Love,201567,Hook Shot,2,1,1,Jump Bank Hook Shot,POST_MOVES,,2012
+Kevin Love,201567,Jump Shot,2,25,12,Jump Bank Shot,JUMP_SHOTS,,2012
+Kevin Love,201567,Hook Shot,2,24,12,Jump Hook Shot,POST_MOVES,,2012
+Kevin Love,201567,Jump Shot,2,473,152,Jump Shot,JUMP_SHOTS,,2012
+Kevin Love,201567,Jump Shot,3,79,28,Jump Shot,JUMP_SHOTS,,2012
+Kevin Love,201567,Standard Layup,2,185,91,Layup Shot,LAYUPS,,2012
+Kevin Love,201567,Pullup Jump Shot,2,4,2,Pullup Jump shot,JUMP_SHOTS,,2012
+Kevin Love,201567,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2012
+Kevin Love,201567,Putback Layup,2,12,11,Putback Layup Shot,LAYUPS,,2012
+Kevin Love,201567,Putback Dunk,2,1,1,Putback Slam Dunk Shot,DUNKS,,2012
+Kevin Love,201567,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2012
+Kevin Love,201567,Reverse Layup,2,12,4,Reverse Layup Shot,LAYUPS,,2012
+Kevin Love,201567,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2012
+Kevin Love,201567,Running Hook Shot,2,3,1,Running Hook Shot,POST_MOVES,,2012
+Kevin Love,201567,Running Jump Shot,2,7,3,Running Jump Shot,JUMP_SHOTS,,2012
+Kevin Love,201567,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2012
+Kevin Love,201567,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2012
+Kevin Love,201567,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2012
+Kevin Love,201567,Tip Shot,2,1,1,Running Tip Shot,TIP_SHOTS,,2012
+Kevin Love,201567,Standard Dunk,2,6,5,Slam Dunk Shot,DUNKS,,2012
+Kevin Love,201567,Step Back Jump Shot,2,11,5,Step Back Jump shot,JUMP_SHOTS,,2012
+Kevin Love,201567,Step Back Jump Shot,3,1,1,Step Back Jump shot,JUMP_SHOTS,,2012
+Kevin Love,201567,Tip Shot,2,67,41,Tip Shot,TIP_SHOTS,,2012
+Kevin Love,201567,Turnaround Jump Shot,2,3,3,Turnaround Bank shot,JUMP_SHOTS,,2012
+Kevin Love,201567,Turnaround Jump Shot,2,4,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2012
+Kevin Love,201567,Turnaround Hook Shot,2,6,4,Turnaround Hook Shot,POST_MOVES,,2012
+Kevin Love,201567,Turnaround Jump Shot,2,13,6,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Kevin Love,201567,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2013
+Kevin Love,201567,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2013
+Kevin Love,201567,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2013
+Kevin Love,201567,Driving Layup,2,8,3,Driving Layup Shot,LAYUPS,,2013
+Kevin Love,201567,Standard Dunk,2,5,4,Dunk Shot,DUNKS,,2013
+Kevin Love,201567,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2013
+Kevin Love,201567,Fadeaway Jump Shot,2,3,1,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Kevin Love,201567,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2013
+Kevin Love,201567,Hook Shot,2,7,2,Hook Shot,POST_MOVES,,2013
+Kevin Love,201567,Jump Shot,2,4,3,Jump Bank Shot,JUMP_SHOTS,,2013
+Kevin Love,201567,Hook Shot,2,21,8,Jump Hook Shot,POST_MOVES,,2013
+Kevin Love,201567,Jump Shot,2,141,32,Jump Shot,JUMP_SHOTS,,2013
+Kevin Love,201567,Jump Shot,3,12,3,Jump Shot,JUMP_SHOTS,,2013
+Kevin Love,201567,Standard Layup,2,49,19,Layup Shot,LAYUPS,,2013
+Kevin Love,201567,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2013
+Kevin Love,201567,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2013
+Kevin Love,201567,Running Hook Shot,2,3,3,Running Hook Shot,POST_MOVES,,2013
+Kevin Love,201567,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2013
+Kevin Love,201567,Tip Shot,2,1,1,Running Tip Shot,TIP_SHOTS,,2013
+Kevin Love,201567,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2013
+Kevin Love,201567,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2013
+Kevin Love,201567,Tip Shot,2,24,13,Tip Shot,TIP_SHOTS,,2013
+Kevin Love,201567,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2013
+Kevin Love,201567,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2013
+Kevin Love,201567,Turnaround Jump Shot,2,2,2,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Kevin Love,201567,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2014
+Kevin Love,201567,Alley Oop Layup,2,5,2,Alley Oop Layup shot,LAYUPS,,2014
+Kevin Love,201567,Driving Jump Shot,2,1,0,Driving Bank shot,JUMP_SHOTS,,2014
+Kevin Love,201567,Driving Dunk,2,5,5,Driving Dunk Shot,DUNKS,,2014
+Kevin Love,201567,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2014
+Kevin Love,201567,Driving Jump Shot,2,1,1,Driving Jump shot,JUMP_SHOTS,,2014
+Kevin Love,201567,Driving Layup,2,23,17,Driving Layup Shot,LAYUPS,,2014
+Kevin Love,201567,Driving Layup,2,5,5,Driving Reverse Layup Shot,LAYUPS,,2014
+Kevin Love,201567,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2014
+Kevin Love,201567,Standard Dunk,2,14,13,Dunk Shot,DUNKS,,2014
+Kevin Love,201567,Fadeaway Jump Shot,2,3,3,Fadeaway Bank shot,JUMP_SHOTS,,2014
+Kevin Love,201567,Fadeaway Jump Shot,2,32,12,Fadeaway Jump Shot,JUMP_SHOTS,,2014
+Kevin Love,201567,Floating Jump Shot,2,4,2,Floating Jump shot,FLOATING_SHOTS,,2014
+Kevin Love,201567,Hook Shot,2,37,14,Hook Shot,POST_MOVES,,2014
+Kevin Love,201567,Hook Shot,2,5,5,Jump Bank Hook Shot,POST_MOVES,,2014
+Kevin Love,201567,Jump Shot,2,30,18,Jump Bank Shot,JUMP_SHOTS,,2014
+Kevin Love,201567,Hook Shot,2,62,28,Jump Hook Shot,POST_MOVES,,2014
+Kevin Love,201567,Jump Shot,2,708,246,Jump Shot,JUMP_SHOTS,,2014
+Kevin Love,201567,Jump Shot,3,24,7,Jump Shot,JUMP_SHOTS,,2014
+Kevin Love,201567,Standard Layup,2,208,130,Layup Shot,LAYUPS,,2014
+Kevin Love,201567,Pullup Jump Shot,2,2,2,Pullup Bank shot,JUMP_SHOTS,,2014
+Kevin Love,201567,Pullup Jump Shot,2,7,5,Pullup Jump shot,JUMP_SHOTS,,2014
+Kevin Love,201567,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2014
+Kevin Love,201567,Putback Layup,2,11,8,Putback Layup Shot,LAYUPS,,2014
+Kevin Love,201567,Reverse Layup,2,19,14,Reverse Layup Shot,LAYUPS,,2014
+Kevin Love,201567,Running Hook Shot,2,1,1,Running Bank Hook Shot,POST_MOVES,,2014
+Kevin Love,201567,Running Jump Shot,2,6,4,Running Bank shot,JUMP_SHOTS,,2014
+Kevin Love,201567,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2014
+Kevin Love,201567,Running Hook Shot,2,5,3,Running Hook Shot,POST_MOVES,,2014
+Kevin Love,201567,Running Jump Shot,2,12,3,Running Jump Shot,JUMP_SHOTS,,2014
+Kevin Love,201567,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2014
+Kevin Love,201567,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2014
+Kevin Love,201567,Tip Shot,2,3,3,Running Tip Shot,TIP_SHOTS,,2014
+Kevin Love,201567,Standard Dunk,2,9,9,Slam Dunk Shot,DUNKS,,2014
+Kevin Love,201567,Step Back Jump Shot,2,36,16,Step Back Jump shot,JUMP_SHOTS,,2014
+Kevin Love,201567,Step Back Jump Shot,3,2,1,Step Back Jump shot,JUMP_SHOTS,,2014
+Kevin Love,201567,Tip Shot,2,58,31,Tip Shot,TIP_SHOTS,,2014
+Kevin Love,201567,Turnaround Hook Shot,2,4,3,Turnaround Bank Hook Shot,POST_MOVES,,2014
+Kevin Love,201567,Turnaround Jump Shot,2,5,4,Turnaround Bank shot,JUMP_SHOTS,,2014
+Kevin Love,201567,Turnaround Jump Shot,2,18,8,Turnaround Fadeaway shot,JUMP_SHOTS,,2014
+Kevin Love,201567,Turnaround Hook Shot,2,19,9,Turnaround Hook Shot,POST_MOVES,,2014
+Kevin Love,201567,Turnaround Jump Shot,2,27,9,Turnaround Jump Shot,JUMP_SHOTS,,2014
+Kevin Love,201567,Alley Oop Dunk,2,6,5,Alley Oop Dunk Shot,DUNKS,,2015
+Kevin Love,201567,Alley Oop Layup,2,7,7,Alley Oop Layup shot,LAYUPS,,2015
+Kevin Love,201567,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2015
+Kevin Love,201567,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2015
+Kevin Love,201567,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2015
+Kevin Love,201567,Driving Jump Shot,2,2,0,Driving Jump shot,JUMP_SHOTS,,2015
+Kevin Love,201567,Driving Layup,2,13,8,Driving Layup Shot,LAYUPS,,2015
+Kevin Love,201567,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2015
+Kevin Love,201567,Standard Dunk,2,16,15,Dunk Shot,DUNKS,,2015
+Kevin Love,201567,Fadeaway Jump Shot,2,1,0,Fadeaway Bank shot,JUMP_SHOTS,,2015
+Kevin Love,201567,Fadeaway Jump Shot,2,11,5,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+Kevin Love,201567,Finger Roll,2,2,1,Finger Roll Layup Shot,LAYUPS,,2015
+Kevin Love,201567,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2015
+Kevin Love,201567,Hook Shot,2,30,9,Hook Shot,POST_MOVES,,2015
+Kevin Love,201567,Jump Shot,2,34,21,Jump Bank Shot,JUMP_SHOTS,,2015
+Kevin Love,201567,Jump Shot,3,1,1,Jump Bank Shot,JUMP_SHOTS,,2015
+Kevin Love,201567,Hook Shot,2,49,26,Jump Hook Shot,POST_MOVES,,2015
+Kevin Love,201567,Jump Shot,2,251,87,Jump Shot,JUMP_SHOTS,,2015
+Kevin Love,201567,Jump Shot,3,304,111,Jump Shot,JUMP_SHOTS,,2015
+Kevin Love,201567,Standard Layup,2,108,57,Layup Shot,LAYUPS,,2015
+Kevin Love,201567,Pullup Jump Shot,3,1,1,Pullup Jump shot,JUMP_SHOTS,,2015
+Kevin Love,201567,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2015
+Kevin Love,201567,Putback Layup,2,7,4,Putback Layup Shot,LAYUPS,,2015
+Kevin Love,201567,Reverse Layup,2,14,8,Reverse Layup Shot,LAYUPS,,2015
+Kevin Love,201567,Running Jump Shot,2,3,2,Running Bank shot,JUMP_SHOTS,,2015
+Kevin Love,201567,Running Hook Shot,2,4,3,Running Hook Shot,POST_MOVES,,2015
+Kevin Love,201567,Running Jump Shot,2,4,1,Running Jump Shot,JUMP_SHOTS,,2015
+Kevin Love,201567,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2015
+Kevin Love,201567,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2015
+Kevin Love,201567,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2015
+Kevin Love,201567,Step Back Jump Shot,2,6,1,Step Back Jump shot,JUMP_SHOTS,,2015
+Kevin Love,201567,Tip Shot,2,24,12,Tip Shot,TIP_SHOTS,,2015
+Kevin Love,201567,Turnaround Hook Shot,2,2,2,Turnaround Bank Hook Shot,POST_MOVES,,2015
+Kevin Love,201567,Turnaround Jump Shot,2,3,1,Turnaround Bank shot,JUMP_SHOTS,,2015
+Kevin Love,201567,Turnaround Jump Shot,2,10,3,Turnaround Fadeaway shot,JUMP_SHOTS,,2015
+Kevin Love,201567,Turnaround Hook Shot,2,11,6,Turnaround Hook Shot,POST_MOVES,,2015
+Kevin Love,201567,Turnaround Jump Shot,2,13,5,Turnaround Jump Shot,JUMP_SHOTS,,2015
+Kevin Love,201567,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2016
+Kevin Love,201567,Alley Oop Layup,2,5,3,Alley Oop Layup shot,LAYUPS,,2016
+Kevin Love,201567,Specialty Dunk,2,4,4,Cutting Dunk Shot,DUNKS,,2016
+Kevin Love,201567,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2016
+Kevin Love,201567,Standard Layup,2,8,3,Cutting Layup Shot,LAYUPS,,2016
+Kevin Love,201567,Driving Hook Shot,2,1,0,Driving Bank Hook Shot,POST_MOVES,,2016
+Kevin Love,201567,Driving Jump Shot,2,5,3,Driving Bank shot,JUMP_SHOTS,,2016
+Kevin Love,201567,Driving Dunk,2,2,1,Driving Dunk Shot,DUNKS,,2016
+Kevin Love,201567,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Kevin Love,201567,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2016
+Kevin Love,201567,Floating Jump Shot,2,2,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Kevin Love,201567,Driving Hook Shot,2,5,2,Driving Hook Shot,POST_MOVES,,2016
+Kevin Love,201567,Driving Layup,2,21,12,Driving Layup Shot,LAYUPS,,2016
+Kevin Love,201567,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2016
+Kevin Love,201567,Standard Dunk,2,10,9,Dunk Shot,DUNKS,,2016
+Kevin Love,201567,Fadeaway Jump Shot,2,15,6,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Kevin Love,201567,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2016
+Kevin Love,201567,Floating Jump Shot,2,6,1,Floating Jump shot,FLOATING_SHOTS,,2016
+Kevin Love,201567,Hook Shot,2,3,2,Hook Bank Shot,POST_MOVES,,2016
+Kevin Love,201567,Hook Shot,2,55,32,Hook Shot,POST_MOVES,,2016
+Kevin Love,201567,Hook Shot,3,1,0,Hook Shot,POST_MOVES,,2016
+Kevin Love,201567,Jump Shot,2,27,14,Jump Bank Shot,JUMP_SHOTS,,2016
+Kevin Love,201567,Jump Shot,2,149,48,Jump Shot,JUMP_SHOTS,,2016
+Kevin Love,201567,Jump Shot,3,423,151,Jump Shot,JUMP_SHOTS,,2016
+Kevin Love,201567,Standard Layup,2,72,32,Layup Shot,LAYUPS,,2016
+Kevin Love,201567,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2016
+Kevin Love,201567,Pullup Jump Shot,2,3,0,Pullup Jump shot,JUMP_SHOTS,,2016
+Kevin Love,201567,Putback Layup,2,7,5,Putback Layup Shot,LAYUPS,,2016
+Kevin Love,201567,Reverse Layup,2,6,2,Reverse Layup Shot,LAYUPS,,2016
+Kevin Love,201567,Standard Dunk,2,6,6,Running Dunk Shot,DUNKS,,2016
+Kevin Love,201567,Standard Layup,2,3,1,Running Layup Shot,LAYUPS,,2016
+Kevin Love,201567,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2016
+Kevin Love,201567,Step Back Jump Shot,2,3,3,Step Back Bank Jump Shot,JUMP_SHOTS,,2016
+Kevin Love,201567,Step Back Jump Shot,2,10,6,Step Back Jump shot,JUMP_SHOTS,,2016
+Kevin Love,201567,Step Back Jump Shot,3,7,3,Step Back Jump shot,JUMP_SHOTS,,2016
+Kevin Love,201567,Putback Layup,2,20,8,Tip Layup Shot,LAYUPS,,2016
+Kevin Love,201567,Turnaround Hook Shot,2,2,1,Turnaround Bank Hook Shot,POST_MOVES,,2016
+Kevin Love,201567,Turnaround Jump Shot,2,12,6,Turnaround Bank shot,JUMP_SHOTS,,2016
+Kevin Love,201567,Turnaround Jump Shot,2,2,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2016
+Kevin Love,201567,Turnaround Jump Shot,2,17,8,Turnaround Fadeaway shot,JUMP_SHOTS,,2016
+Kevin Love,201567,Turnaround Hook Shot,2,25,17,Turnaround Hook Shot,POST_MOVES,,2016
+Kevin Love,201567,Turnaround Jump Shot,2,29,9,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Kevin Love,201567,Alley Oop Layup,2,5,1,Alley Oop Layup shot,LAYUPS,,2017
+Kevin Love,201567,Specialty Dunk,2,6,6,Cutting Dunk Shot,DUNKS,,2017
+Kevin Love,201567,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2017
+Kevin Love,201567,Standard Layup,2,16,12,Cutting Layup Shot,LAYUPS,,2017
+Kevin Love,201567,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2017
+Kevin Love,201567,Driving Jump Shot,2,2,2,Driving Bank shot,JUMP_SHOTS,,2017
+Kevin Love,201567,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2017
+Kevin Love,201567,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Kevin Love,201567,Floating Jump Shot,2,3,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Kevin Love,201567,Driving Hook Shot,2,6,4,Driving Hook Shot,POST_MOVES,,2017
+Kevin Love,201567,Driving Layup,2,21,15,Driving Layup Shot,LAYUPS,,2017
+Kevin Love,201567,Driving Layup,2,5,4,Driving Reverse Layup Shot,LAYUPS,,2017
+Kevin Love,201567,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2017
+Kevin Love,201567,Fadeaway Jump Shot,2,15,7,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Kevin Love,201567,Floating Jump Shot,2,5,3,Floating Jump shot,FLOATING_SHOTS,,2017
+Kevin Love,201567,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2017
+Kevin Love,201567,Hook Shot,2,40,21,Hook Shot,POST_MOVES,,2017
+Kevin Love,201567,Jump Shot,2,30,13,Jump Bank Shot,JUMP_SHOTS,,2017
+Kevin Love,201567,Jump Shot,2,166,48,Jump Shot,JUMP_SHOTS,,2017
+Kevin Love,201567,Jump Shot,3,324,128,Jump Shot,JUMP_SHOTS,,2017
+Kevin Love,201567,Standard Layup,2,75,29,Layup Shot,LAYUPS,,2017
+Kevin Love,201567,Pullup Jump Shot,2,7,1,Pullup Jump shot,JUMP_SHOTS,,2017
+Kevin Love,201567,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2017
+Kevin Love,201567,Putback Layup,2,13,8,Putback Layup Shot,LAYUPS,,2017
+Kevin Love,201567,Reverse Layup,2,6,2,Reverse Layup Shot,LAYUPS,,2017
+Kevin Love,201567,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2017
+Kevin Love,201567,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2017
+Kevin Love,201567,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2017
+Kevin Love,201567,Running Jump Shot,3,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2017
+Kevin Love,201567,Step Back Jump Shot,2,6,4,Step Back Jump shot,JUMP_SHOTS,,2017
+Kevin Love,201567,Step Back Jump Shot,3,2,1,Step Back Jump shot,JUMP_SHOTS,,2017
+Kevin Love,201567,Putback Layup,2,31,18,Tip Layup Shot,LAYUPS,,2017
+Kevin Love,201567,Turnaround Hook Shot,2,5,3,Turnaround Bank Hook Shot,POST_MOVES,,2017
+Kevin Love,201567,Turnaround Jump Shot,2,4,1,Turnaround Bank shot,JUMP_SHOTS,,2017
+Kevin Love,201567,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2017
+Kevin Love,201567,Turnaround Jump Shot,2,22,12,Turnaround Fadeaway shot,JUMP_SHOTS,,2017
+Kevin Love,201567,Turnaround Hook Shot,2,17,7,Turnaround Hook Shot,POST_MOVES,,2017
+Kevin Love,201567,Turnaround Jump Shot,2,18,5,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Kevin Love,201567,Alley Oop Layup,2,7,2,Alley Oop Layup shot,LAYUPS,,2018
+Kevin Love,201567,Specialty Dunk,2,3,3,Cutting Dunk Shot,DUNKS,,2018
+Kevin Love,201567,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2018
+Kevin Love,201567,Standard Layup,2,26,19,Cutting Layup Shot,LAYUPS,,2018
+Kevin Love,201567,Driving Dunk,2,2,1,Driving Dunk Shot,DUNKS,,2018
+Kevin Love,201567,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Kevin Love,201567,Floating Jump Shot,2,4,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Kevin Love,201567,Floating Jump Shot,2,4,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Kevin Love,201567,Driving Hook Shot,2,3,1,Driving Hook Shot,POST_MOVES,,2018
+Kevin Love,201567,Driving Layup,2,25,11,Driving Layup Shot,LAYUPS,,2018
+Kevin Love,201567,Driving Layup,2,4,2,Driving Reverse Layup Shot,LAYUPS,,2018
+Kevin Love,201567,Fadeaway Jump Shot,2,6,3,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+Kevin Love,201567,Finger Roll,2,2,1,Finger Roll Layup Shot,LAYUPS,,2018
+Kevin Love,201567,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2018
+Kevin Love,201567,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2018
+Kevin Love,201567,Hook Shot,2,33,15,Hook Shot,POST_MOVES,,2018
+Kevin Love,201567,Jump Shot,2,8,5,Jump Bank Shot,JUMP_SHOTS,,2018
+Kevin Love,201567,Jump Shot,2,308,122,Jump Shot,JUMP_SHOTS,,2018
+Kevin Love,201567,Jump Shot,3,98,41,Jump Shot,JUMP_SHOTS,,2018
+Kevin Love,201567,Standard Layup,2,71,42,Layup Shot,LAYUPS,,2018
+Kevin Love,201567,Pullup Jump Shot,2,16,6,Pullup Jump shot,JUMP_SHOTS,,2018
+Kevin Love,201567,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2018
+Kevin Love,201567,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2018
+Kevin Love,201567,Putback Layup,2,15,9,Putback Layup Shot,LAYUPS,,2018
+Kevin Love,201567,Reverse Layup,2,12,8,Reverse Layup Shot,LAYUPS,,2018
+Kevin Love,201567,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2018
+Kevin Love,201567,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2018
+Kevin Love,201567,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2018
+Kevin Love,201567,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2018
+Kevin Love,201567,Step Back Jump Shot,2,9,1,Step Back Jump shot,JUMP_SHOTS,,2018
+Kevin Love,201567,Step Back Jump Shot,3,2,1,Step Back Jump shot,JUMP_SHOTS,,2018
+Kevin Love,201567,Putback Layup,2,17,9,Tip Layup Shot,LAYUPS,,2018
+Kevin Love,201567,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2018
+Kevin Love,201567,Turnaround Jump Shot,2,10,5,Turnaround Fadeaway shot,JUMP_SHOTS,,2018
+Kevin Love,201567,Turnaround Hook Shot,2,19,11,Turnaround Hook Shot,POST_MOVES,,2018
+Kevin Love,201567,Turnaround Jump Shot,2,10,2,Turnaround Jump Shot,JUMP_SHOTS,,2018
+Kevin Love,201567,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2019
+Kevin Love,201567,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2019
+Kevin Love,201567,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2019
+Kevin Love,201567,Standard Layup,2,5,1,Cutting Layup Shot,LAYUPS,,2019
+Kevin Love,201567,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2019
+Kevin Love,201567,Finger Roll,2,3,3,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Kevin Love,201567,Floating Jump Shot,2,3,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Kevin Love,201567,Floating Jump Shot,2,2,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Kevin Love,201567,Driving Hook Shot,2,3,1,Driving Hook Shot,POST_MOVES,,2019
+Kevin Love,201567,Driving Layup,2,9,3,Driving Layup Shot,LAYUPS,,2019
+Kevin Love,201567,Reverse Dunk,2,1,1,Driving Reverse Dunk Shot,DUNKS,,2019
+Kevin Love,201567,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2019
+Kevin Love,201567,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2019
+Kevin Love,201567,Fadeaway Jump Shot,2,6,1,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+Kevin Love,201567,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2019
+Kevin Love,201567,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2019
+Kevin Love,201567,Hook Shot,2,2,1,Hook Bank Shot,POST_MOVES,,2019
+Kevin Love,201567,Hook Shot,2,6,4,Hook Shot,POST_MOVES,,2019
+Kevin Love,201567,Jump Shot,2,3,1,Jump Bank Shot,JUMP_SHOTS,,2019
+Kevin Love,201567,Jump Shot,2,164,56,Jump Shot,JUMP_SHOTS,,2019
+Kevin Love,201567,Standard Layup,2,16,4,Layup Shot,LAYUPS,,2019
+Kevin Love,201567,Pullup Jump Shot,2,5,2,Pullup Jump shot,JUMP_SHOTS,,2019
+Kevin Love,201567,Putback Layup,2,4,3,Putback Layup Shot,LAYUPS,,2019
+Kevin Love,201567,Reverse Layup,2,4,3,Reverse Layup Shot,LAYUPS,,2019
+Kevin Love,201567,Alley Oop Layup,2,2,2,Running Alley Oop Layup Shot,LAYUPS,,2019
+Kevin Love,201567,Standard Layup,2,2,0,Running Layup Shot,LAYUPS,,2019
+Kevin Love,201567,Step Back Jump Shot,2,8,4,Step Back Jump shot,JUMP_SHOTS,,2019
+Kevin Love,201567,Putback Layup,2,9,3,Tip Layup Shot,LAYUPS,,2019
+Kevin Love,201567,Turnaround Hook Shot,2,1,1,Turnaround Bank Hook Shot,POST_MOVES,,2019
+Kevin Love,201567,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2019
+Kevin Love,201567,Turnaround Jump Shot,2,3,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2019
+Kevin Love,201567,Turnaround Hook Shot,2,7,3,Turnaround Hook Shot,POST_MOVES,,2019
+Kevin Love,201567,Turnaround Jump Shot,2,4,2,Turnaround Jump Shot,JUMP_SHOTS,,2019
+Kevin Love,201567,Alley Oop Layup,2,7,7,Alley Oop Layup shot,LAYUPS,,2020
+Kevin Love,201567,Specialty Dunk,2,2,1,Cutting Dunk Shot,DUNKS,,2020
+Kevin Love,201567,Standard Layup,2,13,8,Cutting Layup Shot,LAYUPS,,2020
+Kevin Love,201567,Driving Dunk,2,2,1,Driving Dunk Shot,DUNKS,,2020
+Kevin Love,201567,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2020
+Kevin Love,201567,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2020
+Kevin Love,201567,Floating Jump Shot,2,2,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Kevin Love,201567,Driving Hook Shot,2,6,2,Driving Hook Shot,POST_MOVES,,2020
+Kevin Love,201567,Driving Layup,2,17,9,Driving Layup Shot,LAYUPS,,2020
+Kevin Love,201567,Driving Layup,2,8,3,Driving Reverse Layup Shot,LAYUPS,,2020
+Kevin Love,201567,Fadeaway Jump Shot,2,13,8,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+Kevin Love,201567,Finger Roll,2,2,1,Finger Roll Layup Shot,LAYUPS,,2020
+Kevin Love,201567,Floating Jump Shot,2,3,2,Floating Jump shot,FLOATING_SHOTS,,2020
+Kevin Love,201567,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2020
+Kevin Love,201567,Hook Shot,2,16,10,Hook Shot,POST_MOVES,,2020
+Kevin Love,201567,Jump Shot,2,22,12,Jump Bank Shot,JUMP_SHOTS,,2020
+Kevin Love,201567,Jump Shot,2,409,161,Jump Shot,JUMP_SHOTS,,2020
+Kevin Love,201567,Standard Layup,2,32,22,Layup Shot,LAYUPS,,2020
+Kevin Love,201567,Pullup Jump Shot,2,35,11,Pullup Jump shot,JUMP_SHOTS,,2020
+Kevin Love,201567,Putback Layup,2,6,4,Putback Layup Shot,LAYUPS,,2020
+Kevin Love,201567,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2020
+Kevin Love,201567,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2020
+Kevin Love,201567,Running Jump Shot,2,4,2,Running Jump Shot,JUMP_SHOTS,,2020
+Kevin Love,201567,Standard Layup,2,4,3,Running Layup Shot,LAYUPS,,2020
+Kevin Love,201567,Step Back Jump Shot,2,2,1,Step Back Bank Jump Shot,JUMP_SHOTS,,2020
+Kevin Love,201567,Step Back Jump Shot,2,26,14,Step Back Jump shot,JUMP_SHOTS,,2020
+Kevin Love,201567,Putback Layup,2,13,5,Tip Layup Shot,LAYUPS,,2020
+Kevin Love,201567,Turnaround Hook Shot,2,2,1,Turnaround Bank Hook Shot,POST_MOVES,,2020
+Kevin Love,201567,Turnaround Jump Shot,2,8,2,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2020
+Kevin Love,201567,Turnaround Jump Shot,2,19,8,Turnaround Fadeaway shot,JUMP_SHOTS,,2020
+Kevin Love,201567,Turnaround Hook Shot,2,18,10,Turnaround Hook Shot,POST_MOVES,,2020
+Kevin Love,201567,Turnaround Jump Shot,2,30,14,Turnaround Jump Shot,JUMP_SHOTS,,2020
+Kevin Love,201567,Alley Oop Layup,2,4,4,Alley Oop Layup shot,LAYUPS,,2021
+Kevin Love,201567,Standard Layup,2,8,5,Cutting Layup Shot,LAYUPS,,2021
+Kevin Love,201567,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2021
+Kevin Love,201567,Floating Jump Shot,2,2,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Kevin Love,201567,Driving Layup,2,3,1,Driving Layup Shot,LAYUPS,,2021
+Kevin Love,201567,Fadeaway Jump Shot,2,6,4,Fadeaway Jump Shot,JUMP_SHOTS,,2021
+Kevin Love,201567,Hook Shot,2,8,5,Hook Shot,POST_MOVES,,2021
+Kevin Love,201567,Jump Shot,2,3,2,Jump Bank Shot,JUMP_SHOTS,,2021
+Kevin Love,201567,Jump Shot,2,159,56,Jump Shot,JUMP_SHOTS,,2021
+Kevin Love,201567,Standard Layup,2,7,6,Layup Shot,LAYUPS,,2021
+Kevin Love,201567,Pullup Jump Shot,2,10,3,Pullup Jump shot,JUMP_SHOTS,,2021
+Kevin Love,201567,Putback Layup,2,2,0,Putback Layup Shot,LAYUPS,,2021
+Kevin Love,201567,Reverse Layup,2,2,0,Reverse Layup Shot,LAYUPS,,2021
+Kevin Love,201567,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2021
+Kevin Love,201567,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2021
+Kevin Love,201567,Running Jump Shot,2,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2021
+Kevin Love,201567,Step Back Jump Shot,2,6,2,Step Back Jump shot,JUMP_SHOTS,,2021
+Kevin Love,201567,Putback Layup,2,5,3,Tip Layup Shot,LAYUPS,,2021
+Kevin Love,201567,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2021
+Kevin Love,201567,Turnaround Jump Shot,2,7,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2021
+Kevin Love,201567,Turnaround Hook Shot,2,10,4,Turnaround Hook Shot,POST_MOVES,,2021
+Kevin Love,201567,Turnaround Jump Shot,2,5,3,Turnaround Jump Shot,JUMP_SHOTS,,2021
+Kevin Love,201567,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2022
+Kevin Love,201567,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2022
+Kevin Love,201567,Finger Roll,2,1,0,Cutting Finger Roll Layup Shot,LAYUPS,,2022
+Kevin Love,201567,Standard Layup,2,15,10,Cutting Layup Shot,LAYUPS,,2022
+Kevin Love,201567,Driving Dunk,2,2,1,Driving Dunk Shot,DUNKS,,2022
+Kevin Love,201567,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Kevin Love,201567,Floating Jump Shot,2,3,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Kevin Love,201567,Floating Jump Shot,2,4,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Kevin Love,201567,Driving Hook Shot,2,4,2,Driving Hook Shot,POST_MOVES,,2022
+Kevin Love,201567,Driving Layup,2,11,6,Driving Layup Shot,LAYUPS,,2022
+Kevin Love,201567,Reverse Dunk,2,1,1,Driving Reverse Dunk Shot,DUNKS,,2022
+Kevin Love,201567,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2022
+Kevin Love,201567,Fadeaway Jump Shot,2,16,7,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Kevin Love,201567,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2022
+Kevin Love,201567,Floating Jump Shot,2,2,0,Floating Jump shot,FLOATING_SHOTS,,2022
+Kevin Love,201567,Hook Shot,2,3,2,Hook Bank Shot,POST_MOVES,,2022
+Kevin Love,201567,Hook Shot,2,8,3,Hook Shot,POST_MOVES,,2022
+Kevin Love,201567,Jump Shot,2,3,0,Jump Bank Shot,JUMP_SHOTS,,2022
+Kevin Love,201567,Jump Shot,2,450,175,Jump Shot,JUMP_SHOTS,,2022
+Kevin Love,201567,Standard Layup,2,22,11,Layup Shot,LAYUPS,,2022
+Kevin Love,201567,Pullup Jump Shot,2,46,20,Pullup Jump shot,JUMP_SHOTS,,2022
+Kevin Love,201567,Putback Layup,2,13,10,Putback Layup Shot,LAYUPS,,2022
+Kevin Love,201567,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2022
+Kevin Love,201567,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2022
+Kevin Love,201567,Running Jump Shot,2,15,6,Running Jump Shot,JUMP_SHOTS,,2022
+Kevin Love,201567,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2022
+Kevin Love,201567,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
+Kevin Love,201567,Step Back Jump Shot,2,1,0,Step Back Bank Jump Shot,JUMP_SHOTS,,2022
+Kevin Love,201567,Step Back Jump Shot,2,24,7,Step Back Jump shot,JUMP_SHOTS,,2022
+Kevin Love,201567,Putback Layup,2,18,11,Tip Layup Shot,LAYUPS,,2022
+Kevin Love,201567,Turnaround Hook Shot,2,3,2,Turnaround Bank Hook Shot,POST_MOVES,,2022
+Kevin Love,201567,Turnaround Jump Shot,2,4,2,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2022
+Kevin Love,201567,Turnaround Jump Shot,2,20,6,Turnaround Fadeaway shot,JUMP_SHOTS,,2022
+Kevin Love,201567,Turnaround Hook Shot,2,23,13,Turnaround Hook Shot,POST_MOVES,,2022
+Kevin Love,201567,Turnaround Jump Shot,2,37,17,Turnaround Jump Shot,JUMP_SHOTS,,2022
+Kevin Love,201567,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2023
+Kevin Love,201567,Specialty Dunk,2,3,2,Cutting Dunk Shot,DUNKS,,2023
+Kevin Love,201567,Standard Layup,2,3,3,Cutting Layup Shot,LAYUPS,,2023
+Kevin Love,201567,Driving Dunk,2,1,0,Driving Dunk Shot,DUNKS,,2023
+Kevin Love,201567,Floating Jump Shot,2,2,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Kevin Love,201567,Driving Hook Shot,2,2,2,Driving Hook Shot,POST_MOVES,,2023
+Kevin Love,201567,Driving Layup,2,5,3,Driving Layup Shot,LAYUPS,,2023
+Kevin Love,201567,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2023
+Kevin Love,201567,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2023
+Kevin Love,201567,Floating Jump Shot,2,5,3,Floating Jump shot,FLOATING_SHOTS,,2023
+Kevin Love,201567,Hook Shot,2,2,2,Hook Bank Shot,POST_MOVES,,2023
+Kevin Love,201567,Hook Shot,2,8,3,Hook Shot,POST_MOVES,,2023
+Kevin Love,201567,Jump Shot,2,5,1,Jump Bank Shot,JUMP_SHOTS,,2023
+Kevin Love,201567,Jump Shot,2,268,92,Jump Shot,JUMP_SHOTS,,2023
+Kevin Love,201567,Standard Layup,2,9,4,Layup Shot,LAYUPS,,2023
+Kevin Love,201567,Pullup Jump Shot,2,27,10,Pullup Jump shot,JUMP_SHOTS,,2023
+Kevin Love,201567,Putback Layup,2,5,4,Putback Layup Shot,LAYUPS,,2023
+Kevin Love,201567,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2023
+Kevin Love,201567,Standard Dunk,2,1,0,Running Dunk Shot,DUNKS,,2023
+Kevin Love,201567,Running Jump Shot,2,9,1,Running Jump Shot,JUMP_SHOTS,,2023
+Kevin Love,201567,Standard Layup,2,3,3,Running Layup Shot,LAYUPS,,2023
+Kevin Love,201567,Step Back Jump Shot,2,12,5,Step Back Jump shot,JUMP_SHOTS,,2023
+Kevin Love,201567,Putback Layup,2,16,7,Tip Layup Shot,LAYUPS,,2023
+Kevin Love,201567,Turnaround Hook Shot,2,3,2,Turnaround Bank Hook Shot,POST_MOVES,,2023
+Kevin Love,201567,Turnaround Jump Shot,2,1,0,Turnaround Bank shot,JUMP_SHOTS,,2023
+Kevin Love,201567,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2023
+Kevin Love,201567,Turnaround Jump Shot,2,7,4,Turnaround Fadeaway shot,JUMP_SHOTS,,2023
+Kevin Love,201567,Turnaround Hook Shot,2,8,6,Turnaround Hook Shot,POST_MOVES,,2023
+Kevin Love,201567,Turnaround Jump Shot,2,10,3,Turnaround Jump Shot,JUMP_SHOTS,,2023
+Kevin Love,201567,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2024
+Kevin Love,201567,Standard Layup,2,4,4,Cutting Layup Shot,LAYUPS,,2024
+Kevin Love,201567,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Kevin Love,201567,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Kevin Love,201567,Floating Jump Shot,2,4,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Kevin Love,201567,Driving Hook Shot,2,4,1,Driving Hook Shot,POST_MOVES,,2024
+Kevin Love,201567,Driving Layup,2,11,8,Driving Layup Shot,LAYUPS,,2024
+Kevin Love,201567,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2024
+Kevin Love,201567,Fadeaway Jump Shot,2,2,1,Fadeaway Bank shot,JUMP_SHOTS,,2024
+Kevin Love,201567,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Kevin Love,201567,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2024
+Kevin Love,201567,Hook Shot,2,2,2,Hook Bank Shot,POST_MOVES,,2024
+Kevin Love,201567,Hook Shot,2,5,3,Hook Shot,POST_MOVES,,2024
+Kevin Love,201567,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2024
+Kevin Love,201567,Jump Shot,2,7,3,Jump Shot,JUMP_SHOTS,,2024
+Kevin Love,201567,Jump Shot,3,212,71,Jump Shot,JUMP_SHOTS,,2024
+Kevin Love,201567,Standard Layup,2,11,8,Layup Shot,LAYUPS,,2024
+Kevin Love,201567,Pullup Jump Shot,2,3,1,Pullup Jump shot,JUMP_SHOTS,,2024
+Kevin Love,201567,Pullup Jump Shot,3,15,6,Pullup Jump shot,JUMP_SHOTS,,2024
+Kevin Love,201567,Putback Layup,2,10,7,Putback Layup Shot,LAYUPS,,2024
+Kevin Love,201567,Reverse Layup,2,4,4,Reverse Layup Shot,LAYUPS,,2024
+Kevin Love,201567,Alley Oop Layup,2,1,1,Running Alley Oop Layup Shot,LAYUPS,,2024
+Kevin Love,201567,Running Jump Shot,3,15,6,Running Jump Shot,JUMP_SHOTS,,2024
+Kevin Love,201567,Step Back Jump Shot,3,2,1,Step Back Jump shot,JUMP_SHOTS,,2024
+Kevin Love,201567,Specialty Dunk,2,1,0,Tip Dunk Shot,DUNKS,,2024
+Kevin Love,201567,Putback Layup,2,17,11,Tip Layup Shot,LAYUPS,,2024
+Kevin Love,201567,Turnaround Hook Shot,2,1,0,Turnaround Bank Hook Shot,POST_MOVES,,2024
+Kevin Love,201567,Turnaround Jump Shot,2,3,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2024
+Kevin Love,201567,Turnaround Hook Shot,2,10,9,Turnaround Hook Shot,POST_MOVES,,2024
+Kevin Love,201567,Turnaround Jump Shot,2,2,2,Turnaround Jump Shot,JUMP_SHOTS,,2024
+Kevin Love,201567,Standard Layup,2,5,2,Cutting Layup Shot,LAYUPS,,2025
+Kevin Love,201567,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Kevin Love,201567,Driving Layup,2,4,2,Driving Layup Shot,LAYUPS,,2025
+Kevin Love,201567,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2025
+Kevin Love,201567,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2025
+Kevin Love,201567,Hook Shot,2,2,1,Hook Bank Shot,POST_MOVES,,2025
+Kevin Love,201567,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2025
+Kevin Love,201567,Jump Shot,2,3,1,Jump Shot,JUMP_SHOTS,,2025
+Kevin Love,201567,Jump Shot,3,47,14,Jump Shot,JUMP_SHOTS,,2025
+Kevin Love,201567,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2025
+Kevin Love,201567,Pullup Jump Shot,3,6,4,Pullup Jump shot,JUMP_SHOTS,,2025
+Kevin Love,201567,Putback Layup,2,5,4,Putback Layup Shot,LAYUPS,,2025
+Kevin Love,201567,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2025
+Kevin Love,201567,Running Jump Shot,3,3,2,Running Jump Shot,JUMP_SHOTS,,2025
+Kevin Love,201567,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2025
+Kevin Love,201567,Running Jump Shot,3,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025
+Kevin Love,201567,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2025
+Kevin Love,201567,Putback Layup,2,7,1,Tip Layup Shot,LAYUPS,,2025
+Kevin Love,201567,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2025
+Kevin Love,201567,Turnaround Jump Shot,2,2,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2025
+Kevin Love,201567,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2025
+Kevin Love,201567,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2025

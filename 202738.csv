@@ -1,23 +1,246 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-202738,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2016
-202738,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2016
-202738,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2016
-202738,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2016
-202738,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2016
-202738,Finger Roll,2PT Field Goal,1,1,Running Finger Roll Layup Shot,LAYUPS,1.0,2016
-202738,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2017
-202738,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2017
-202738,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2017
-202738,Pullup Jump Shot,3PT Field Goal,2,1,Pullup Jump shot,JUMP_SHOTS,0.75,2017
-202738,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2018
-202738,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2018
-202738,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2018
-202738,Putback Layup,2PT Field Goal,1,0,Putback Layup Shot,LAYUPS,0.0,2018
-202738,Driving Hook Shot,2PT Field Goal,1,0,Driving Bank Hook Shot,POST_MOVES,0.0,2024
-202738,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2024
-202738,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2024
-202738,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2024
-202738,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2024
-202738,Jump Shot,3PT Field Goal,3,2,Jump Shot,JUMP_SHOTS,1.0,2024
-202738,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2024
-202738,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Isaiah Thomas,202738,Driving Jump Shot,2,3,2,Driving Bank shot,JUMP_SHOTS,,2012
+Isaiah Thomas,202738,Driving Jump Shot,2,4,4,Driving Jump shot,JUMP_SHOTS,,2012
+Isaiah Thomas,202738,Driving Layup,2,60,47,Driving Layup Shot,LAYUPS,,2012
+Isaiah Thomas,202738,Driving Layup,2,8,4,Driving Reverse Layup Shot,LAYUPS,,2012
+Isaiah Thomas,202738,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2012
+Isaiah Thomas,202738,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2012
+Isaiah Thomas,202738,Fadeaway Jump Shot,2,9,6,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Isaiah Thomas,202738,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2012
+Isaiah Thomas,202738,Floating Jump Shot,2,15,9,Floating Jump shot,FLOATING_SHOTS,,2012
+Isaiah Thomas,202738,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2012
+Isaiah Thomas,202738,Jump Shot,2,357,117,Jump Shot,JUMP_SHOTS,,2012
+Isaiah Thomas,202738,Standard Layup,2,60,28,Layup Shot,LAYUPS,,2012
+Isaiah Thomas,202738,Pullup Jump Shot,2,17,15,Pullup Jump shot,JUMP_SHOTS,,2012
+Isaiah Thomas,202738,Putback Dunk,2,1,0,Putback Dunk Shot,DUNKS,,2012
+Isaiah Thomas,202738,Reverse Layup,2,11,9,Reverse Layup Shot,LAYUPS,,2012
+Isaiah Thomas,202738,Running Jump Shot,2,2,2,Running Bank shot,JUMP_SHOTS,,2012
+Isaiah Thomas,202738,Running Hook Shot,2,3,2,Running Hook Shot,POST_MOVES,,2012
+Isaiah Thomas,202738,Running Jump Shot,2,11,5,Running Jump Shot,JUMP_SHOTS,,2012
+Isaiah Thomas,202738,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2012
+Isaiah Thomas,202738,Step Back Jump Shot,2,2,0,Step Back Jump shot,JUMP_SHOTS,,2012
+Isaiah Thomas,202738,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2012
+Isaiah Thomas,202738,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Isaiah Thomas,202738,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2013
+Isaiah Thomas,202738,Driving Jump Shot,2,2,1,Driving Bank shot,JUMP_SHOTS,,2013
+Isaiah Thomas,202738,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2013
+Isaiah Thomas,202738,Driving Jump Shot,2,7,2,Driving Jump shot,JUMP_SHOTS,,2013
+Isaiah Thomas,202738,Driving Layup,2,112,88,Driving Layup Shot,LAYUPS,,2013
+Isaiah Thomas,202738,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2013
+Isaiah Thomas,202738,Fadeaway Jump Shot,2,8,3,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Isaiah Thomas,202738,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2013
+Isaiah Thomas,202738,Floating Jump Shot,2,25,11,Floating Jump shot,FLOATING_SHOTS,,2013
+Isaiah Thomas,202738,Hook Shot,2,1,1,Jump Bank Hook Shot,POST_MOVES,,2013
+Isaiah Thomas,202738,Jump Shot,2,5,3,Jump Bank Shot,JUMP_SHOTS,,2013
+Isaiah Thomas,202738,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2013
+Isaiah Thomas,202738,Jump Shot,2,465,134,Jump Shot,JUMP_SHOTS,,2013
+Isaiah Thomas,202738,Standard Layup,2,93,50,Layup Shot,LAYUPS,,2013
+Isaiah Thomas,202738,Pullup Jump Shot,2,35,25,Pullup Jump shot,JUMP_SHOTS,,2013
+Isaiah Thomas,202738,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2013
+Isaiah Thomas,202738,Reverse Layup,2,4,4,Reverse Layup Shot,LAYUPS,,2013
+Isaiah Thomas,202738,Running Jump Shot,2,7,5,Running Bank shot,JUMP_SHOTS,,2013
+Isaiah Thomas,202738,Running Hook Shot,2,7,4,Running Hook Shot,POST_MOVES,,2013
+Isaiah Thomas,202738,Running Jump Shot,2,36,22,Running Jump Shot,JUMP_SHOTS,,2013
+Isaiah Thomas,202738,Standard Layup,2,8,4,Running Layup Shot,LAYUPS,,2013
+Isaiah Thomas,202738,Step Back Jump Shot,2,7,3,Step Back Jump shot,JUMP_SHOTS,,2013
+Isaiah Thomas,202738,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Isaiah Thomas,202738,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2014
+Isaiah Thomas,202738,Driving Jump Shot,2,3,2,Driving Bank shot,JUMP_SHOTS,,2014
+Isaiah Thomas,202738,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2014
+Isaiah Thomas,202738,Driving Jump Shot,2,7,2,Driving Jump shot,JUMP_SHOTS,,2014
+Isaiah Thomas,202738,Driving Layup,2,127,105,Driving Layup Shot,LAYUPS,,2014
+Isaiah Thomas,202738,Driving Layup,2,6,6,Driving Reverse Layup Shot,LAYUPS,,2014
+Isaiah Thomas,202738,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2014
+Isaiah Thomas,202738,Fadeaway Jump Shot,2,18,16,Fadeaway Jump Shot,JUMP_SHOTS,,2014
+Isaiah Thomas,202738,Finger Roll,2,3,1,Finger Roll Layup Shot,LAYUPS,,2014
+Isaiah Thomas,202738,Floating Jump Shot,2,38,23,Floating Jump shot,FLOATING_SHOTS,,2014
+Isaiah Thomas,202738,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2014
+Isaiah Thomas,202738,Jump Shot,2,3,3,Jump Bank Shot,JUMP_SHOTS,,2014
+Isaiah Thomas,202738,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2014
+Isaiah Thomas,202738,Jump Shot,2,644,201,Jump Shot,JUMP_SHOTS,,2014
+Isaiah Thomas,202738,Standard Layup,2,90,39,Layup Shot,LAYUPS,,2014
+Isaiah Thomas,202738,Pullup Jump Shot,2,64,37,Pullup Jump shot,JUMP_SHOTS,,2014
+Isaiah Thomas,202738,Reverse Layup,2,4,3,Reverse Layup Shot,LAYUPS,,2014
+Isaiah Thomas,202738,Running Jump Shot,2,7,7,Running Bank shot,JUMP_SHOTS,,2014
+Isaiah Thomas,202738,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2014
+Isaiah Thomas,202738,Running Hook Shot,2,12,6,Running Hook Shot,POST_MOVES,,2014
+Isaiah Thomas,202738,Running Jump Shot,2,45,27,Running Jump Shot,JUMP_SHOTS,,2014
+Isaiah Thomas,202738,Standard Layup,2,4,4,Running Layup Shot,LAYUPS,,2014
+Isaiah Thomas,202738,Step Back Jump Shot,2,11,8,Step Back Jump shot,JUMP_SHOTS,,2014
+Isaiah Thomas,202738,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2014
+Isaiah Thomas,202738,Finger Roll,2,12,12,Driving Finger Roll Layup Shot,LAYUPS,,2015
+Isaiah Thomas,202738,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2015
+Isaiah Thomas,202738,Driving Jump Shot,2,6,5,Driving Jump shot,JUMP_SHOTS,,2015
+Isaiah Thomas,202738,Driving Layup,2,101,67,Driving Layup Shot,LAYUPS,,2015
+Isaiah Thomas,202738,Driving Layup,2,9,6,Driving Reverse Layup Shot,LAYUPS,,2015
+Isaiah Thomas,202738,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2015
+Isaiah Thomas,202738,Fadeaway Jump Shot,2,8,5,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+Isaiah Thomas,202738,Finger Roll,2,3,2,Finger Roll Layup Shot,LAYUPS,,2015
+Isaiah Thomas,202738,Floating Jump Shot,2,19,13,Floating Jump shot,FLOATING_SHOTS,,2015
+Isaiah Thomas,202738,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2015
+Isaiah Thomas,202738,Jump Shot,2,3,1,Jump Bank Shot,JUMP_SHOTS,,2015
+Isaiah Thomas,202738,Jump Shot,2,466,148,Jump Shot,JUMP_SHOTS,,2015
+Isaiah Thomas,202738,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,2015
+Isaiah Thomas,202738,Standard Layup,2,80,32,Layup Shot,LAYUPS,,2015
+Isaiah Thomas,202738,Pullup Jump Shot,2,51,29,Pullup Jump shot,JUMP_SHOTS,,2015
+Isaiah Thomas,202738,Running Jump Shot,2,2,1,Running Bank shot,JUMP_SHOTS,,2015
+Isaiah Thomas,202738,Running Hook Shot,2,3,1,Running Hook Shot,POST_MOVES,,2015
+Isaiah Thomas,202738,Running Jump Shot,2,10,3,Running Jump Shot,JUMP_SHOTS,,2015
+Isaiah Thomas,202738,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2015
+Isaiah Thomas,202738,Step Back Jump Shot,2,16,7,Step Back Jump shot,JUMP_SHOTS,,2015
+Isaiah Thomas,202738,Standard Layup,2,8,7,Cutting Layup Shot,LAYUPS,,2016
+Isaiah Thomas,202738,Driving Jump Shot,2,3,3,Driving Bank shot,JUMP_SHOTS,,2016
+Isaiah Thomas,202738,Finger Roll,2,68,51,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Isaiah Thomas,202738,Floating Jump Shot,2,7,4,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2016
+Isaiah Thomas,202738,Floating Jump Shot,2,38,19,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Isaiah Thomas,202738,Driving Hook Shot,2,9,4,Driving Hook Shot,POST_MOVES,,2016
+Isaiah Thomas,202738,Driving Layup,2,192,118,Driving Layup Shot,LAYUPS,,2016
+Isaiah Thomas,202738,Driving Layup,2,29,23,Driving Reverse Layup Shot,LAYUPS,,2016
+Isaiah Thomas,202738,Fadeaway Jump Shot,2,2,1,Fadeaway Bank shot,JUMP_SHOTS,,2016
+Isaiah Thomas,202738,Fadeaway Jump Shot,2,22,7,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Isaiah Thomas,202738,Finger Roll,2,2,1,Finger Roll Layup Shot,LAYUPS,,2016
+Isaiah Thomas,202738,Floating Jump Shot,2,63,19,Floating Jump shot,FLOATING_SHOTS,,2016
+Isaiah Thomas,202738,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2016
+Isaiah Thomas,202738,Jump Shot,2,4,0,Jump Bank Shot,JUMP_SHOTS,,2016
+Isaiah Thomas,202738,Jump Shot,2,535,157,Jump Shot,JUMP_SHOTS,,2016
+Isaiah Thomas,202738,Standard Layup,2,101,13,Layup Shot,LAYUPS,,2016
+Isaiah Thomas,202738,Pullup Jump Shot,2,2,0,Pullup Bank shot,JUMP_SHOTS,,2016
+Isaiah Thomas,202738,Pullup Jump Shot,2,128,59,Pullup Jump shot,JUMP_SHOTS,,2016
+Isaiah Thomas,202738,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2016
+Isaiah Thomas,202738,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2016
+Isaiah Thomas,202738,Reverse Layup,2,4,2,Reverse Layup Shot,LAYUPS,,2016
+Isaiah Thomas,202738,Finger Roll,2,11,10,Running Finger Roll Layup Shot,LAYUPS,,2016
+Isaiah Thomas,202738,Running Jump Shot,2,19,9,Running Jump Shot,JUMP_SHOTS,,2016
+Isaiah Thomas,202738,Standard Layup,2,63,47,Running Layup Shot,LAYUPS,,2016
+Isaiah Thomas,202738,Running Jump Shot,2,13,5,Running Pull-Up Jump Shot,JUMP_SHOTS,,2016
+Isaiah Thomas,202738,Reverse Layup,2,3,3,Running Reverse Layup Shot,LAYUPS,,2016
+Isaiah Thomas,202738,Step Back Jump Shot,2,1,1,Step Back Bank Jump Shot,JUMP_SHOTS,,2016
+Isaiah Thomas,202738,Step Back Jump Shot,2,46,26,Step Back Jump shot,JUMP_SHOTS,,2016
+Isaiah Thomas,202738,Turnaround Jump Shot,2,5,1,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Isaiah Thomas,202738,Finger Roll,2,2,2,Cutting Finger Roll Layup Shot,LAYUPS,,2017
+Isaiah Thomas,202738,Standard Layup,2,9,6,Cutting Layup Shot,LAYUPS,,2017
+Isaiah Thomas,202738,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2017
+Isaiah Thomas,202738,Driving Jump Shot,2,7,5,Driving Bank shot,JUMP_SHOTS,,2017
+Isaiah Thomas,202738,Finger Roll,2,121,78,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Isaiah Thomas,202738,Floating Jump Shot,2,3,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2017
+Isaiah Thomas,202738,Floating Jump Shot,2,35,18,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Isaiah Thomas,202738,Driving Hook Shot,2,6,3,Driving Hook Shot,POST_MOVES,,2017
+Isaiah Thomas,202738,Driving Layup,2,176,116,Driving Layup Shot,LAYUPS,,2017
+Isaiah Thomas,202738,Driving Layup,2,30,18,Driving Reverse Layup Shot,LAYUPS,,2017
+Isaiah Thomas,202738,Fadeaway Jump Shot,2,2,2,Fadeaway Bank shot,JUMP_SHOTS,,2017
+Isaiah Thomas,202738,Fadeaway Jump Shot,2,17,9,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Isaiah Thomas,202738,Finger Roll,2,6,6,Finger Roll Layup Shot,LAYUPS,,2017
+Isaiah Thomas,202738,Floating Jump Shot,2,15,8,Floating Jump shot,FLOATING_SHOTS,,2017
+Isaiah Thomas,202738,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2017
+Isaiah Thomas,202738,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2017
+Isaiah Thomas,202738,Jump Shot,2,613,203,Jump Shot,JUMP_SHOTS,,2017
+Isaiah Thomas,202738,Standard Layup,2,94,20,Layup Shot,LAYUPS,,2017
+Isaiah Thomas,202738,Pullup Jump Shot,2,2,1,Pullup Bank shot,JUMP_SHOTS,,2017
+Isaiah Thomas,202738,Pullup Jump Shot,2,211,107,Pullup Jump shot,JUMP_SHOTS,,2017
+Isaiah Thomas,202738,Pullup Jump Shot,3,2,1,Pullup Jump shot,JUMP_SHOTS,,2017
+Isaiah Thomas,202738,Putback Layup,2,7,6,Putback Layup Shot,LAYUPS,,2017
+Isaiah Thomas,202738,Reverse Layup,2,6,1,Reverse Layup Shot,LAYUPS,,2017
+Isaiah Thomas,202738,Finger Roll,2,16,16,Running Finger Roll Layup Shot,LAYUPS,,2017
+Isaiah Thomas,202738,Running Jump Shot,2,11,4,Running Jump Shot,JUMP_SHOTS,,2017
+Isaiah Thomas,202738,Standard Layup,2,33,22,Running Layup Shot,LAYUPS,,2017
+Isaiah Thomas,202738,Running Jump Shot,2,10,3,Running Pull-Up Jump Shot,JUMP_SHOTS,,2017
+Isaiah Thomas,202738,Reverse Layup,2,3,1,Running Reverse Layup Shot,LAYUPS,,2017
+Isaiah Thomas,202738,Step Back Jump Shot,2,28,20,Step Back Jump shot,JUMP_SHOTS,,2017
+Isaiah Thomas,202738,Putback Layup,2,1,1,Tip Layup Shot,LAYUPS,,2017
+Isaiah Thomas,202738,Turnaround Jump Shot,2,3,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2017
+Isaiah Thomas,202738,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2018
+Isaiah Thomas,202738,Standard Layup,2,1,0,Cutting Layup Shot,LAYUPS,,2018
+Isaiah Thomas,202738,Finger Roll,2,10,5,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Isaiah Thomas,202738,Floating Jump Shot,2,2,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Isaiah Thomas,202738,Floating Jump Shot,2,10,4,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Isaiah Thomas,202738,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2018
+Isaiah Thomas,202738,Driving Layup,2,57,28,Driving Layup Shot,LAYUPS,,2018
+Isaiah Thomas,202738,Driving Layup,2,5,2,Driving Reverse Layup Shot,LAYUPS,,2018
+Isaiah Thomas,202738,Fadeaway Jump Shot,2,4,1,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+Isaiah Thomas,202738,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2018
+Isaiah Thomas,202738,Floating Jump Shot,2,21,7,Floating Jump shot,FLOATING_SHOTS,,2018
+Isaiah Thomas,202738,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2018
+Isaiah Thomas,202738,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2018
+Isaiah Thomas,202738,Jump Shot,2,176,46,Jump Shot,JUMP_SHOTS,,2018
+Isaiah Thomas,202738,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2018
+Isaiah Thomas,202738,Standard Layup,2,15,3,Layup Shot,LAYUPS,,2018
+Isaiah Thomas,202738,Pullup Jump Shot,2,77,32,Pullup Jump shot,JUMP_SHOTS,,2018
+Isaiah Thomas,202738,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2018
+Isaiah Thomas,202738,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2018
+Isaiah Thomas,202738,Finger Roll,2,1,0,Running Finger Roll Layup Shot,LAYUPS,,2018
+Isaiah Thomas,202738,Running Jump Shot,2,4,3,Running Jump Shot,JUMP_SHOTS,,2018
+Isaiah Thomas,202738,Standard Layup,2,9,7,Running Layup Shot,LAYUPS,,2018
+Isaiah Thomas,202738,Running Jump Shot,2,11,6,Running Pull-Up Jump Shot,JUMP_SHOTS,,2018
+Isaiah Thomas,202738,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2018
+Isaiah Thomas,202738,Step Back Jump Shot,2,6,4,Step Back Jump shot,JUMP_SHOTS,,2018
+Isaiah Thomas,202738,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2018
+Isaiah Thomas,202738,Finger Roll,2,1,0,Cutting Finger Roll Layup Shot,LAYUPS,,2019
+Isaiah Thomas,202738,Finger Roll,2,7,3,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Isaiah Thomas,202738,Floating Jump Shot,2,15,4,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Isaiah Thomas,202738,Driving Layup,2,8,5,Driving Layup Shot,LAYUPS,,2019
+Isaiah Thomas,202738,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2019
+Isaiah Thomas,202738,Fadeaway Jump Shot,2,5,2,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+Isaiah Thomas,202738,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2019
+Isaiah Thomas,202738,Jump Shot,2,31,7,Jump Shot,JUMP_SHOTS,,2019
+Isaiah Thomas,202738,Standard Layup,2,3,0,Layup Shot,LAYUPS,,2019
+Isaiah Thomas,202738,Pullup Jump Shot,2,16,5,Pullup Jump shot,JUMP_SHOTS,,2019
+Isaiah Thomas,202738,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2019
+Isaiah Thomas,202738,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2019
+Isaiah Thomas,202738,Running Jump Shot,2,3,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2019
+Isaiah Thomas,202738,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2019
+Isaiah Thomas,202738,Putback Layup,2,1,0,Tip Layup Shot,LAYUPS,,2019
+Isaiah Thomas,202738,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2019
+Isaiah Thomas,202738,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2020
+Isaiah Thomas,202738,Standard Layup,2,2,1,Cutting Layup Shot,LAYUPS,,2020
+Isaiah Thomas,202738,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2020
+Isaiah Thomas,202738,Finger Roll,2,6,2,Driving Finger Roll Layup Shot,LAYUPS,,2020
+Isaiah Thomas,202738,Floating Jump Shot,2,4,3,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2020
+Isaiah Thomas,202738,Floating Jump Shot,2,48,17,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Isaiah Thomas,202738,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2020
+Isaiah Thomas,202738,Driving Layup,2,30,9,Driving Layup Shot,LAYUPS,,2020
+Isaiah Thomas,202738,Driving Layup,2,4,1,Driving Reverse Layup Shot,LAYUPS,,2020
+Isaiah Thomas,202738,Fadeaway Jump Shot,2,9,2,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+Isaiah Thomas,202738,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2020
+Isaiah Thomas,202738,Floating Jump Shot,2,18,7,Floating Jump shot,FLOATING_SHOTS,,2020
+Isaiah Thomas,202738,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2020
+Isaiah Thomas,202738,Jump Shot,2,146,67,Jump Shot,JUMP_SHOTS,,2020
+Isaiah Thomas,202738,Standard Layup,2,5,2,Layup Shot,LAYUPS,,2020
+Isaiah Thomas,202738,Pullup Jump Shot,2,125,52,Pullup Jump shot,JUMP_SHOTS,,2020
+Isaiah Thomas,202738,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2020
+Isaiah Thomas,202738,Running Jump Shot,2,4,2,Running Jump Shot,JUMP_SHOTS,,2020
+Isaiah Thomas,202738,Running Jump Shot,2,6,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2020
+Isaiah Thomas,202738,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2020
+Isaiah Thomas,202738,Step Back Jump Shot,2,11,5,Step Back Jump shot,JUMP_SHOTS,,2020
+Isaiah Thomas,202738,Floating Jump Shot,2,3,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Isaiah Thomas,202738,Driving Layup,2,3,0,Driving Layup Shot,LAYUPS,,2021
+Isaiah Thomas,202738,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2021
+Isaiah Thomas,202738,Jump Shot,2,9,2,Jump Shot,JUMP_SHOTS,,2021
+Isaiah Thomas,202738,Pullup Jump Shot,2,7,3,Pullup Jump shot,JUMP_SHOTS,,2021
+Isaiah Thomas,202738,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2021
+Isaiah Thomas,202738,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2021
+Isaiah Thomas,202738,Running Jump Shot,2,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2021
+Isaiah Thomas,202738,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2021
+Isaiah Thomas,202738,Floating Jump Shot,2,2,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Isaiah Thomas,202738,Floating Jump Shot,2,16,7,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Isaiah Thomas,202738,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2022
+Isaiah Thomas,202738,Driving Layup,2,19,7,Driving Layup Shot,LAYUPS,,2022
+Isaiah Thomas,202738,Driving Layup,2,4,2,Driving Reverse Layup Shot,LAYUPS,,2022
+Isaiah Thomas,202738,Fadeaway Jump Shot,2,8,3,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Isaiah Thomas,202738,Floating Jump Shot,2,6,2,Floating Jump shot,FLOATING_SHOTS,,2022
+Isaiah Thomas,202738,Jump Shot,2,58,21,Jump Shot,JUMP_SHOTS,,2022
+Isaiah Thomas,202738,Standard Layup,2,3,2,Layup Shot,LAYUPS,,2022
+Isaiah Thomas,202738,Pullup Jump Shot,2,34,16,Pullup Jump shot,JUMP_SHOTS,,2022
+Isaiah Thomas,202738,Running Jump Shot,2,4,1,Running Jump Shot,JUMP_SHOTS,,2022
+Isaiah Thomas,202738,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2022
+Isaiah Thomas,202738,Running Jump Shot,2,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
+Isaiah Thomas,202738,Step Back Jump Shot,2,7,2,Step Back Jump shot,JUMP_SHOTS,,2022
+Isaiah Thomas,202738,Putback Layup,2,1,1,Tip Layup Shot,LAYUPS,,2022
+Isaiah Thomas,202738,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2022
+Isaiah Thomas,202738,Driving Hook Shot,2,1,0,Driving Bank Hook Shot,POST_MOVES,,2024
+Isaiah Thomas,202738,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2024
+Isaiah Thomas,202738,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2024
+Isaiah Thomas,202738,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2024
+Isaiah Thomas,202738,Jump Shot,2,1,0,Jump Shot,JUMP_SHOTS,,2024
+Isaiah Thomas,202738,Jump Shot,3,3,2,Jump Shot,JUMP_SHOTS,,2024
+Isaiah Thomas,202738,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2024
+Isaiah Thomas,202738,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2024

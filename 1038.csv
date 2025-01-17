@@ -1,7 +1,14 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1038,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2003
-1038,Jump Shot,2PT Field Goal,19,7,Jump Shot,JUMP_SHOTS,0.3684210526315789,2003
-1038,Jump Shot,3PT Field Goal,4,3,Jump Shot,JUMP_SHOTS,1.125,2003
-1038,Standard Layup,2PT Field Goal,5,1,Layup Shot,LAYUPS,0.2,2003
-1038,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2003
-1038,Running Hook Shot,2PT Field Goal,1,0,Running Hook Shot,POST_MOVES,0.0,2003
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Juaquin Hawkins,1038,Finger Roll,2,1,0,Driving Finger Roll Shot,LAYUPS,,2003
+Juaquin Hawkins,1038,Driving Layup,2,7,4,Driving Layup Shot,LAYUPS,,2003
+Juaquin Hawkins,1038,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,2003
+Juaquin Hawkins,1038,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2003
+Juaquin Hawkins,1038,Jump Shot,2,90,31,Jump Shot,JUMP_SHOTS,,2003
+Juaquin Hawkins,1038,Jump Shot,3,24,10,Jump Shot,JUMP_SHOTS,,2003
+Juaquin Hawkins,1038,Standard Layup,2,11,4,Layup Shot,LAYUPS,,2003
+Juaquin Hawkins,1038,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2003
+Juaquin Hawkins,1038,Reverse Layup,2,6,5,Reverse Layup Shot,LAYUPS,,2003
+Juaquin Hawkins,1038,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2003
+Juaquin Hawkins,1038,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2003
+Juaquin Hawkins,1038,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2003
+Juaquin Hawkins,1038,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2003

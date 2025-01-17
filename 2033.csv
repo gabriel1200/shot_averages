@@ -1,28 +1,94 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-2033,Driving Layup,2PT Field Goal,3,1,Driving Layup Shot,LAYUPS,0.3333333333333333,2002
-2033,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2002
-2033,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2002
-2033,Jump Shot,2PT Field Goal,14,3,Jump Shot,JUMP_SHOTS,0.2142857142857142,2002
-2033,Jump Shot,3PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.5,2002
-2033,Standard Layup,2PT Field Goal,6,4,Layup Shot,LAYUPS,0.6666666666666666,2002
-2033,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2002
-2033,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2002
-2033,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2003
-2033,Driving Layup,2PT Field Goal,3,1,Driving Layup Shot,LAYUPS,0.3333333333333333,2004
-2033,Hook Shot,2PT Field Goal,4,1,Hook Shot,POST_MOVES,0.25,2004
-2033,Jump Shot,2PT Field Goal,12,4,Jump Shot,JUMP_SHOTS,0.3333333333333333,2004
-2033,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2004
-2033,Standard Layup,2PT Field Goal,3,2,Layup Shot,LAYUPS,0.6666666666666666,2004
-2033,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2004
-2033,Alley Oop Layup,2PT Field Goal,1,0,Alley Oop Layup shot,LAYUPS,0.0,2005
-2033,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2005
-2033,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,2005
-2033,Fadeaway Jump Shot,2PT Field Goal,2,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2005
-2033,Hook Shot,2PT Field Goal,5,3,Hook Shot,POST_MOVES,0.6,2005
-2033,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2005
-2033,Jump Shot,2PT Field Goal,57,19,Jump Shot,JUMP_SHOTS,0.3333333333333333,2005
-2033,Jump Shot,3PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,2005
-2033,Standard Layup,2PT Field Goal,19,9,Layup Shot,LAYUPS,0.4736842105263157,2005
-2033,Running Hook Shot,2PT Field Goal,1,1,Running Hook Shot,POST_MOVES,1.0,2005
-2033,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2005
-2033,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2005
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Marcus Fizer,2033,Driving Dunk,2,5,5,Driving Dunk Shot,DUNKS,,2001
+Marcus Fizer,2033,Driving Layup,2,19,16,Driving Layup Shot,LAYUPS,,2001
+Marcus Fizer,2033,Standard Dunk,2,17,13,Dunk Shot,DUNKS,,2001
+Marcus Fizer,2033,Hook Shot,2,19,13,Hook Shot,POST_MOVES,,2001
+Marcus Fizer,2033,Jump Shot,2,400,126,Jump Shot,JUMP_SHOTS,,2001
+Marcus Fizer,2033,Standard Layup,2,145,75,Layup Shot,LAYUPS,,2001
+Marcus Fizer,2033,Reverse Layup,2,4,3,Reverse Layup Shot,LAYUPS,,2001
+Marcus Fizer,2033,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2001
+Marcus Fizer,2033,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2001
+Marcus Fizer,2033,Running Jump Shot,2,10,4,Running Jump Shot,JUMP_SHOTS,,2001
+Marcus Fizer,2033,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2001
+Marcus Fizer,2033,Standard Dunk,2,7,7,Slam Dunk Shot,DUNKS,,2001
+Marcus Fizer,2033,Tip Shot,2,8,5,Tip Shot,TIP_SHOTS,,2001
+Marcus Fizer,2033,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2001
+Marcus Fizer,2033,Turnaround Jump Shot,2,8,7,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Marcus Fizer,2033,Driving Dunk,2,6,6,Driving Dunk Shot,DUNKS,,2002
+Marcus Fizer,2033,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2002
+Marcus Fizer,2033,Driving Layup,2,30,27,Driving Layup Shot,LAYUPS,,2002
+Marcus Fizer,2033,Standard Dunk,2,21,18,Dunk Shot,DUNKS,,2002
+Marcus Fizer,2033,Fadeaway Jump Shot,2,5,5,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Marcus Fizer,2033,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2002
+Marcus Fizer,2033,Specialty Dunk,2,2,2,Follow Up Dunk Shot,DUNKS,,2002
+Marcus Fizer,2033,Hook Shot,2,23,13,Hook Shot,POST_MOVES,,2002
+Marcus Fizer,2033,Hook Shot,2,4,3,Jump Hook Shot,POST_MOVES,,2002
+Marcus Fizer,2033,Jump Shot,2,472,161,Jump Shot,JUMP_SHOTS,,2002
+Marcus Fizer,2033,Jump Shot,3,6,2,Jump Shot,JUMP_SHOTS,,2002
+Marcus Fizer,2033,Standard Layup,2,204,89,Layup Shot,LAYUPS,,2002
+Marcus Fizer,2033,Reverse Layup,2,6,2,Reverse Layup Shot,LAYUPS,,2002
+Marcus Fizer,2033,Running Hook Shot,2,2,1,Running Hook Shot,POST_MOVES,,2002
+Marcus Fizer,2033,Running Jump Shot,2,13,9,Running Jump Shot,JUMP_SHOTS,,2002
+Marcus Fizer,2033,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2002
+Marcus Fizer,2033,Standard Dunk,2,8,8,Slam Dunk Shot,DUNKS,,2002
+Marcus Fizer,2033,Tip Shot,2,20,6,Tip Shot,TIP_SHOTS,,2002
+Marcus Fizer,2033,Turnaround Hook Shot,2,3,3,Turnaround Hook Shot,POST_MOVES,,2002
+Marcus Fizer,2033,Turnaround Jump Shot,2,20,13,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Marcus Fizer,2033,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2003
+Marcus Fizer,2033,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2003
+Marcus Fizer,2033,Finger Roll,2,2,1,Driving Finger Roll Shot,LAYUPS,,2003
+Marcus Fizer,2033,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,,2003
+Marcus Fizer,2033,Driving Layup,2,16,11,Driving Layup Shot,LAYUPS,,2003
+Marcus Fizer,2033,Standard Dunk,2,17,15,Dunk Shot,DUNKS,,2003
+Marcus Fizer,2033,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Marcus Fizer,2033,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2003
+Marcus Fizer,2033,Specialty Dunk,2,2,2,Follow Up Dunk Shot,DUNKS,,2003
+Marcus Fizer,2033,Hook Shot,2,8,6,Hook Shot,POST_MOVES,,2003
+Marcus Fizer,2033,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2003
+Marcus Fizer,2033,Jump Shot,2,183,59,Jump Shot,JUMP_SHOTS,,2003
+Marcus Fizer,2033,Standard Layup,2,104,47,Layup Shot,LAYUPS,,2003
+Marcus Fizer,2033,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2003
+Marcus Fizer,2033,Running Jump Shot,2,8,8,Running Jump Shot,JUMP_SHOTS,,2003
+Marcus Fizer,2033,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2003
+Marcus Fizer,2033,Tip Shot,2,18,11,Tip Shot,TIP_SHOTS,,2003
+Marcus Fizer,2033,Turnaround Jump Shot,2,11,5,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Marcus Fizer,2033,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2004
+Marcus Fizer,2033,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2004
+Marcus Fizer,2033,Driving Layup,2,11,6,Driving Layup Shot,LAYUPS,,2004
+Marcus Fizer,2033,Standard Dunk,2,11,10,Dunk Shot,DUNKS,,2004
+Marcus Fizer,2033,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Marcus Fizer,2033,Specialty Dunk,2,3,3,Follow Up Dunk Shot,DUNKS,,2004
+Marcus Fizer,2033,Hook Shot,2,14,9,Hook Shot,POST_MOVES,,2004
+Marcus Fizer,2033,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2004
+Marcus Fizer,2033,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2004
+Marcus Fizer,2033,Jump Shot,2,188,51,Jump Shot,JUMP_SHOTS,,2004
+Marcus Fizer,2033,Jump Shot,3,9,1,Jump Shot,JUMP_SHOTS,,2004
+Marcus Fizer,2033,Standard Layup,2,81,35,Layup Shot,LAYUPS,,2004
+Marcus Fizer,2033,Reverse Layup,2,4,4,Reverse Layup Shot,LAYUPS,,2004
+Marcus Fizer,2033,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2004
+Marcus Fizer,2033,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2004
+Marcus Fizer,2033,Running Jump Shot,2,3,2,Running Jump Shot,JUMP_SHOTS,,2004
+Marcus Fizer,2033,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2004
+Marcus Fizer,2033,Tip Shot,2,9,1,Tip Shot,TIP_SHOTS,,2004
+Marcus Fizer,2033,Turnaround Jump Shot,2,4,2,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Marcus Fizer,2033,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2005
+Marcus Fizer,2033,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2005
+Marcus Fizer,2033,Driving Layup,2,8,6,Driving Layup Shot,LAYUPS,,2005
+Marcus Fizer,2033,Standard Dunk,2,6,6,Dunk Shot,DUNKS,,2005
+Marcus Fizer,2033,Fadeaway Jump Shot,2,4,2,Fadeaway Jump Shot,JUMP_SHOTS,,2005
+Marcus Fizer,2033,Hook Shot,2,16,9,Hook Shot,POST_MOVES,,2005
+Marcus Fizer,2033,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2005
+Marcus Fizer,2033,Jump Shot,2,179,70,Jump Shot,JUMP_SHOTS,,2005
+Marcus Fizer,2033,Jump Shot,3,3,0,Jump Shot,JUMP_SHOTS,,2005
+Marcus Fizer,2033,Standard Layup,2,58,27,Layup Shot,LAYUPS,,2005
+Marcus Fizer,2033,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2005
+Marcus Fizer,2033,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2005
+Marcus Fizer,2033,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2005
+Marcus Fizer,2033,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2005
+Marcus Fizer,2033,Tip Shot,2,4,2,Tip Shot,TIP_SHOTS,,2005
+Marcus Fizer,2033,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2005
+Marcus Fizer,2033,Turnaround Jump Shot,2,4,3,Turnaround Jump Shot,JUMP_SHOTS,,2005
+Marcus Fizer,2033,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2006
+Marcus Fizer,2033,Jump Shot,2,13,5,Jump Shot,JUMP_SHOTS,,2006
+Marcus Fizer,2033,Standard Layup,2,1,1,Layup Shot,LAYUPS,,2006
+Marcus Fizer,2033,Turnaround Jump Shot,2,2,2,Turnaround Jump Shot,JUMP_SHOTS,,2006

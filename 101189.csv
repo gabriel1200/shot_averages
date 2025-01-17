@@ -1,50 +1,96 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-101189,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2006
-101189,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2006
-101189,Standard Dunk,2PT Field Goal,1,0,Dunk Shot,DUNKS,0.0,2006
-101189,Specialty Dunk,2PT Field Goal,3,3,Follow Up Dunk Shot,DUNKS,1.0,2006
-101189,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,2006
-101189,Jump Shot,2PT Field Goal,16,5,Jump Shot,JUMP_SHOTS,0.3125,2006
-101189,Jump Shot,3PT Field Goal,8,6,Jump Shot,JUMP_SHOTS,1.125,2006
-101189,Standard Layup,2PT Field Goal,8,4,Layup Shot,LAYUPS,0.5,2006
-101189,Standard Dunk,2PT Field Goal,3,3,Slam Dunk Shot,DUNKS,1.0,2006
-101189,Tip Shot,2PT Field Goal,3,1,Tip Shot,TIP_SHOTS,0.3333333333333333,2006
-101189,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2007
-101189,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2007
-101189,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2007
-101189,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2009
-101189,Standard Dunk,2PT Field Goal,3,2,Dunk Shot,DUNKS,0.6666666666666666,2009
-101189,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2009
-101189,Hook Shot,2PT Field Goal,1,1,Jump Hook Shot,POST_MOVES,1.0,2009
-101189,Jump Shot,2PT Field Goal,13,2,Jump Shot,JUMP_SHOTS,0.1538461538461538,2009
-101189,Jump Shot,3PT Field Goal,6,2,Jump Shot,JUMP_SHOTS,0.5,2009
-101189,Standard Layup,2PT Field Goal,4,3,Layup Shot,LAYUPS,0.75,2009
-101189,Putback Dunk,2PT Field Goal,3,3,Putback Dunk Shot,DUNKS,1.0,2009
-101189,Putback Layup,2PT Field Goal,1,0,Putback Layup Shot,LAYUPS,0.0,2009
-101189,Standard Layup,2PT Field Goal,2,1,Running Layup Shot,LAYUPS,0.5,2009
-101189,Standard Dunk,2PT Field Goal,1,1,Running Slam Dunk Shot,DUNKS,1.0,2009
-101189,Tip Shot,2PT Field Goal,3,3,Tip Shot,TIP_SHOTS,1.0,2009
-101189,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2010
-101189,Fadeaway Jump Shot,2PT Field Goal,2,1,Fadeaway Jump Shot,JUMP_SHOTS,0.5,2010
-101189,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2010
-101189,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2010
-101189,Hook Shot,2PT Field Goal,1,1,Jump Hook Shot,POST_MOVES,1.0,2010
-101189,Jump Shot,2PT Field Goal,25,7,Jump Shot,JUMP_SHOTS,0.28,2010
-101189,Jump Shot,3PT Field Goal,16,4,Jump Shot,JUMP_SHOTS,0.375,2010
-101189,Standard Layup,2PT Field Goal,10,7,Layup Shot,LAYUPS,0.7,2010
-101189,Putback Dunk,2PT Field Goal,3,3,Putback Dunk Shot,DUNKS,1.0,2010
-101189,Reverse Layup,2PT Field Goal,2,1,Reverse Layup Shot,LAYUPS,0.5,2010
-101189,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2010
-101189,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.0,2010
-101189,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2010
-101189,Alley Oop Dunk,2PT Field Goal,2,2,Alley Oop Dunk Shot,DUNKS,1.0,2012
-101189,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2012
-101189,Standard Dunk,2PT Field Goal,3,3,Dunk Shot,DUNKS,1.0,2012
-101189,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2012
-101189,Jump Shot,2PT Field Goal,22,8,Jump Shot,JUMP_SHOTS,0.3636363636363636,2012
-101189,Jump Shot,3PT Field Goal,5,2,Jump Shot,JUMP_SHOTS,0.6,2012
-101189,Standard Layup,2PT Field Goal,6,3,Layup Shot,LAYUPS,0.5,2012
-101189,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2012
-101189,Standard Dunk,2PT Field Goal,2,2,Slam Dunk Shot,DUNKS,1.0,2012
-101189,Tip Shot,2PT Field Goal,3,2,Tip Shot,TIP_SHOTS,0.6666666666666666,2012
-101189,Turnaround Jump Shot,3PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2012
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+James Singleton,101189,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2006
+James Singleton,101189,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2006
+James Singleton,101189,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2006
+James Singleton,101189,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2006
+James Singleton,101189,Driving Layup,2,4,2,Driving Layup Shot,LAYUPS,,2006
+James Singleton,101189,Standard Dunk,2,2,0,Dunk Shot,DUNKS,,2006
+James Singleton,101189,Specialty Dunk,2,12,11,Follow Up Dunk Shot,DUNKS,,2006
+James Singleton,101189,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2006
+James Singleton,101189,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2006
+James Singleton,101189,Jump Shot,2,69,22,Jump Shot,JUMP_SHOTS,,2006
+James Singleton,101189,Jump Shot,3,11,8,Jump Shot,JUMP_SHOTS,,2006
+James Singleton,101189,Standard Layup,2,26,16,Layup Shot,LAYUPS,,2006
+James Singleton,101189,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2006
+James Singleton,101189,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2006
+James Singleton,101189,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2006
+James Singleton,101189,Tip Shot,2,7,3,Tip Shot,TIP_SHOTS,,2006
+James Singleton,101189,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2006
+James Singleton,101189,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2007
+James Singleton,101189,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2007
+James Singleton,101189,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2007
+James Singleton,101189,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2007
+James Singleton,101189,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2007
+James Singleton,101189,Specialty Dunk,2,3,3,Follow Up Dunk Shot,DUNKS,,2007
+James Singleton,101189,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2007
+James Singleton,101189,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2007
+James Singleton,101189,Jump Shot,2,42,11,Jump Shot,JUMP_SHOTS,,2007
+James Singleton,101189,Jump Shot,3,7,2,Jump Shot,JUMP_SHOTS,,2007
+James Singleton,101189,Standard Layup,2,12,6,Layup Shot,LAYUPS,,2007
+James Singleton,101189,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2007
+James Singleton,101189,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2007
+James Singleton,101189,Tip Shot,2,7,1,Tip Shot,TIP_SHOTS,,2007
+James Singleton,101189,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2007
+James Singleton,101189,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2007
+James Singleton,101189,Alley Oop Dunk,2,8,8,Alley Oop Dunk Shot,DUNKS,,2009
+James Singleton,101189,Alley Oop Layup,2,3,2,Alley Oop Layup shot,LAYUPS,,2009
+James Singleton,101189,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2009
+James Singleton,101189,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2009
+James Singleton,101189,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2009
+James Singleton,101189,Driving Layup,2,6,6,Driving Layup Shot,LAYUPS,,2009
+James Singleton,101189,Standard Dunk,2,11,10,Dunk Shot,DUNKS,,2009
+James Singleton,101189,Fadeaway Jump Shot,2,3,2,Fadeaway Jump Shot,JUMP_SHOTS,,2009
+James Singleton,101189,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2009
+James Singleton,101189,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2009
+James Singleton,101189,Hook Shot,2,2,1,Jump Hook Shot,POST_MOVES,,2009
+James Singleton,101189,Jump Shot,2,85,25,Jump Shot,JUMP_SHOTS,,2009
+James Singleton,101189,Jump Shot,3,9,2,Jump Shot,JUMP_SHOTS,,2009
+James Singleton,101189,Standard Layup,2,37,18,Layup Shot,LAYUPS,,2009
+James Singleton,101189,Pullup Jump Shot,2,5,4,Pullup Jump shot,JUMP_SHOTS,,2009
+James Singleton,101189,Putback Dunk,2,7,7,Putback Dunk Shot,DUNKS,,2009
+James Singleton,101189,Putback Layup,2,7,6,Putback Layup Shot,LAYUPS,,2009
+James Singleton,101189,Putback Dunk,2,2,2,Putback Slam Dunk Shot,DUNKS,,2009
+James Singleton,101189,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2009
+James Singleton,101189,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2009
+James Singleton,101189,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2009
+James Singleton,101189,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2009
+James Singleton,101189,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2009
+James Singleton,101189,Step Back Jump Shot,2,3,2,Step Back Jump shot,JUMP_SHOTS,,2009
+James Singleton,101189,Tip Shot,2,11,6,Tip Shot,TIP_SHOTS,,2009
+James Singleton,101189,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2009
+James Singleton,101189,Turnaround Jump Shot,2,5,2,Turnaround Jump Shot,JUMP_SHOTS,,2009
+James Singleton,101189,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2010
+James Singleton,101189,Standard Dunk,2,7,5,Dunk Shot,DUNKS,,2010
+James Singleton,101189,Fadeaway Jump Shot,2,4,3,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+James Singleton,101189,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2010
+James Singleton,101189,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2010
+James Singleton,101189,Hook Shot,2,2,2,Jump Hook Shot,POST_MOVES,,2010
+James Singleton,101189,Jump Shot,2,123,31,Jump Shot,JUMP_SHOTS,,2010
+James Singleton,101189,Jump Shot,3,27,7,Jump Shot,JUMP_SHOTS,,2010
+James Singleton,101189,Standard Layup,2,52,20,Layup Shot,LAYUPS,,2010
+James Singleton,101189,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2010
+James Singleton,101189,Putback Dunk,2,5,5,Putback Dunk Shot,DUNKS,,2010
+James Singleton,101189,Putback Layup,2,3,3,Putback Layup Shot,LAYUPS,,2010
+James Singleton,101189,Putback Dunk,2,2,2,Putback Slam Dunk Shot,DUNKS,,2010
+James Singleton,101189,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2010
+James Singleton,101189,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2010
+James Singleton,101189,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2010
+James Singleton,101189,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2010
+James Singleton,101189,Tip Shot,2,7,3,Tip Shot,TIP_SHOTS,,2010
+James Singleton,101189,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2010
+James Singleton,101189,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2010
+James Singleton,101189,Turnaround Jump Shot,2,6,5,Turnaround Jump Shot,JUMP_SHOTS,,2010
+James Singleton,101189,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2012
+James Singleton,101189,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2012
+James Singleton,101189,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2012
+James Singleton,101189,Standard Dunk,2,7,7,Dunk Shot,DUNKS,,2012
+James Singleton,101189,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2012
+James Singleton,101189,Jump Shot,2,35,13,Jump Shot,JUMP_SHOTS,,2012
+James Singleton,101189,Jump Shot,3,8,2,Jump Shot,JUMP_SHOTS,,2012
+James Singleton,101189,Standard Layup,2,8,5,Layup Shot,LAYUPS,,2012
+James Singleton,101189,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2012
+James Singleton,101189,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2012
+James Singleton,101189,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2012
+James Singleton,101189,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2012
+James Singleton,101189,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,,2012
+James Singleton,101189,Turnaround Jump Shot,3,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2012

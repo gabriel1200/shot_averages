@@ -1,14 +1,65 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-2206,Driving Layup,2PT Field Goal,4,3,Driving Layup Shot,LAYUPS,0.75,2003
-2206,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2003
-2206,Finger Roll,2PT Field Goal,1,0,Finger Roll Shot,LAYUPS,0.0,2003
-2206,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2003
-2206,Hook Shot,2PT Field Goal,3,2,Jump Hook Shot,POST_MOVES,0.6666666666666666,2003
-2206,Jump Shot,2PT Field Goal,36,16,Jump Shot,JUMP_SHOTS,0.4444444444444444,2003
-2206,Jump Shot,3PT Field Goal,11,4,Jump Shot,JUMP_SHOTS,0.5454545454545454,2003
-2206,Standard Layup,2PT Field Goal,7,2,Layup Shot,LAYUPS,0.2857142857142857,2003
-2206,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2003
-2206,Running Jump Shot,2PT Field Goal,4,3,Running Jump Shot,JUMP_SHOTS,0.75,2003
-2206,Standard Dunk,2PT Field Goal,2,2,Slam Dunk Shot,DUNKS,1.0,2003
-2206,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2005
-2206,Jump Shot,3PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.5,2005
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Rodney White,2206,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,2002
+Rodney White,2206,Standard Dunk,2,3,2,Dunk Shot,DUNKS,,2002
+Rodney White,2206,Hook Shot,2,7,2,Hook Shot,POST_MOVES,,2002
+Rodney White,2206,Jump Shot,2,36,10,Jump Shot,JUMP_SHOTS,,2002
+Rodney White,2206,Standard Layup,2,8,2,Layup Shot,LAYUPS,,2002
+Rodney White,2206,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2002
+Rodney White,2206,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,,2002
+Rodney White,2206,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Rodney White,2206,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2003
+Rodney White,2206,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2003
+Rodney White,2206,Driving Dunk,2,10,8,Driving Dunk Shot,DUNKS,,2003
+Rodney White,2206,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2003
+Rodney White,2206,Driving Layup,2,37,20,Driving Layup Shot,LAYUPS,,2003
+Rodney White,2206,Standard Dunk,2,5,4,Dunk Shot,DUNKS,,2003
+Rodney White,2206,Fadeaway Jump Shot,2,5,1,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Rodney White,2206,Finger Roll,2,3,0,Finger Roll Shot,LAYUPS,,2003
+Rodney White,2206,Hook Shot,2,7,3,Hook Shot,POST_MOVES,,2003
+Rodney White,2206,Hook Shot,2,12,7,Jump Hook Shot,POST_MOVES,,2003
+Rodney White,2206,Jump Shot,2,386,124,Jump Shot,JUMP_SHOTS,,2003
+Rodney White,2206,Jump Shot,3,29,9,Jump Shot,JUMP_SHOTS,,2003
+Rodney White,2206,Standard Layup,2,69,36,Layup Shot,LAYUPS,,2003
+Rodney White,2206,Reverse Layup,2,10,6,Reverse Layup Shot,LAYUPS,,2003
+Rodney White,2206,Running Hook Shot,2,2,0,Running Hook Shot,POST_MOVES,,2003
+Rodney White,2206,Running Jump Shot,2,20,12,Running Jump Shot,JUMP_SHOTS,,2003
+Rodney White,2206,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2003
+Rodney White,2206,Standard Dunk,2,17,16,Slam Dunk Shot,DUNKS,,2003
+Rodney White,2206,Tip Shot,2,4,2,Tip Shot,TIP_SHOTS,,2003
+Rodney White,2206,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2003
+Rodney White,2206,Turnaround Jump Shot,2,16,7,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Rodney White,2206,Alley Oop Dunk,2,6,5,Alley Oop Dunk Shot,DUNKS,,2004
+Rodney White,2206,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2004
+Rodney White,2206,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2004
+Rodney White,2206,Driving Layup,2,17,15,Driving Layup Shot,LAYUPS,,2004
+Rodney White,2206,Standard Dunk,2,14,12,Dunk Shot,DUNKS,,2004
+Rodney White,2206,Fadeaway Jump Shot,2,8,4,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Rodney White,2206,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2004
+Rodney White,2206,Jump Shot,2,6,3,Jump Bank Shot,JUMP_SHOTS,,2004
+Rodney White,2206,Hook Shot,2,3,2,Jump Hook Shot,POST_MOVES,,2004
+Rodney White,2206,Jump Shot,2,324,125,Jump Shot,JUMP_SHOTS,,2004
+Rodney White,2206,Standard Layup,2,38,19,Layup Shot,LAYUPS,,2004
+Rodney White,2206,Reverse Dunk,2,2,1,Reverse Dunk Shot,DUNKS,,2004
+Rodney White,2206,Reverse Layup,2,9,4,Reverse Layup Shot,LAYUPS,,2004
+Rodney White,2206,Running Jump Shot,2,13,8,Running Jump Shot,JUMP_SHOTS,,2004
+Rodney White,2206,Standard Dunk,2,7,6,Slam Dunk Shot,DUNKS,,2004
+Rodney White,2206,Tip Shot,2,6,2,Tip Shot,TIP_SHOTS,,2004
+Rodney White,2206,Turnaround Jump Shot,2,10,5,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Rodney White,2206,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2005
+Rodney White,2206,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2005
+Rodney White,2206,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2005
+Rodney White,2206,Driving Layup,2,8,3,Driving Layup Shot,LAYUPS,,2005
+Rodney White,2206,Standard Dunk,2,8,7,Dunk Shot,DUNKS,,2005
+Rodney White,2206,Fadeaway Jump Shot,2,5,1,Fadeaway Jump Shot,JUMP_SHOTS,,2005
+Rodney White,2206,Hook Shot,2,5,2,Hook Shot,POST_MOVES,,2005
+Rodney White,2206,Jump Shot,2,3,2,Jump Bank Shot,JUMP_SHOTS,,2005
+Rodney White,2206,Hook Shot,2,5,4,Jump Hook Shot,POST_MOVES,,2005
+Rodney White,2206,Jump Shot,2,198,71,Jump Shot,JUMP_SHOTS,,2005
+Rodney White,2206,Jump Shot,3,6,2,Jump Shot,JUMP_SHOTS,,2005
+Rodney White,2206,Standard Layup,2,26,16,Layup Shot,LAYUPS,,2005
+Rodney White,2206,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2005
+Rodney White,2206,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2005
+Rodney White,2206,Running Jump Shot,2,6,2,Running Jump Shot,JUMP_SHOTS,,2005
+Rodney White,2206,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2005
+Rodney White,2206,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2005
+Rodney White,2206,Turnaround Jump Shot,2,9,3,Turnaround Jump Shot,JUMP_SHOTS,,2005

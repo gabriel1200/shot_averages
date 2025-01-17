@@ -1,43 +1,402 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-2405,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2003
-2405,Specialty Dunk,2PT Field Goal,1,1,Follow Up Dunk Shot,DUNKS,1.0,2003
-2405,Hook Shot,2PT Field Goal,1,1,Jump Hook Shot,POST_MOVES,1.0,2003
-2405,Jump Shot,2PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.3333333333333333,2003
-2405,Standard Layup,2PT Field Goal,3,1,Layup Shot,LAYUPS,0.3333333333333333,2003
-2405,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2003
-2405,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2004
-2405,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2005
-2405,Jump Shot,2PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,2005
-2405,Standard Dunk,2PT Field Goal,3,1,Dunk Shot,DUNKS,0.3333333333333333,2007
-2405,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2007
-2405,Jump Shot,2PT Field Goal,8,4,Jump Shot,JUMP_SHOTS,0.5,2007
-2405,Standard Layup,2PT Field Goal,8,5,Layup Shot,LAYUPS,0.625,2007
-2405,Reverse Layup,2PT Field Goal,2,0,Reverse Layup Shot,LAYUPS,0.0,2007
-2405,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2007
-2405,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2007
-2405,Alley Oop Layup,2PT Field Goal,2,2,Alley Oop Layup shot,LAYUPS,1.0,2008
-2405,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2008
-2405,Standard Dunk,2PT Field Goal,9,7,Dunk Shot,DUNKS,0.7777777777777778,2008
-2405,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2008
-2405,Jump Shot,2PT Field Goal,29,15,Jump Shot,JUMP_SHOTS,0.5172413793103449,2008
-2405,Jump Shot,3PT Field Goal,5,0,Jump Shot,JUMP_SHOTS,0.0,2008
-2405,Standard Layup,2PT Field Goal,13,6,Layup Shot,LAYUPS,0.4615384615384615,2008
-2405,Running Jump Shot,2PT Field Goal,1,1,Running Bank shot,JUMP_SHOTS,1.0,2008
-2405,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2008
-2405,Standard Dunk,2PT Field Goal,2,2,Slam Dunk Shot,DUNKS,1.0,2008
-2405,Tip Shot,2PT Field Goal,2,2,Tip Shot,TIP_SHOTS,1.0,2008
-2405,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Bank shot,JUMP_SHOTS,0.0,2008
-2405,Turnaround Jump Shot,2PT Field Goal,4,1,Turnaround Jump Shot,JUMP_SHOTS,0.25,2008
-2405,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2009
-2405,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2009
-2405,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2009
-2405,Standard Dunk,2PT Field Goal,7,6,Dunk Shot,DUNKS,0.8571428571428571,2009
-2405,Jump Shot,2PT Field Goal,27,10,Jump Shot,JUMP_SHOTS,0.3703703703703703,2009
-2405,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2009
-2405,Standard Layup,2PT Field Goal,15,8,Layup Shot,LAYUPS,0.5333333333333333,2009
-2405,Reverse Dunk,2PT Field Goal,2,2,Reverse Dunk Shot,DUNKS,1.0,2009
-2405,Running Jump Shot,2PT Field Goal,2,2,Running Bank shot,JUMP_SHOTS,1.0,2009
-2405,Running Jump Shot,3PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2009
-2405,Standard Dunk,2PT Field Goal,1,1,Running Slam Dunk Shot,DUNKS,1.0,2009
-2405,Standard Dunk,2PT Field Goal,3,3,Slam Dunk Shot,DUNKS,1.0,2009
-2405,Tip Shot,2PT Field Goal,3,2,Tip Shot,TIP_SHOTS,0.6666666666666666,2009
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Amar'e Stoudemire,2405,Alley Oop Dunk,2,12,11,Alley Oop Dunk Shot,DUNKS,,2003
+Amar'e Stoudemire,2405,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2003
+Amar'e Stoudemire,2405,Driving Dunk,2,6,6,Driving Dunk Shot,DUNKS,,2003
+Amar'e Stoudemire,2405,Driving Hook Shot,2,2,2,Driving Hook Shot,POST_MOVES,,2003
+Amar'e Stoudemire,2405,Driving Layup,2,21,17,Driving Layup Shot,LAYUPS,,2003
+Amar'e Stoudemire,2405,Standard Dunk,2,67,52,Dunk Shot,DUNKS,,2003
+Amar'e Stoudemire,2405,Fadeaway Jump Shot,2,2,2,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Amar'e Stoudemire,2405,Specialty Dunk,2,19,18,Follow Up Dunk Shot,DUNKS,,2003
+Amar'e Stoudemire,2405,Hook Shot,2,13,7,Hook Shot,POST_MOVES,,2003
+Amar'e Stoudemire,2405,Hook Shot,2,15,11,Jump Hook Shot,POST_MOVES,,2003
+Amar'e Stoudemire,2405,Jump Shot,2,292,72,Jump Shot,JUMP_SHOTS,,2003
+Amar'e Stoudemire,2405,Standard Layup,2,243,89,Layup Shot,LAYUPS,,2003
+Amar'e Stoudemire,2405,Reverse Dunk,2,3,2,Reverse Dunk Shot,DUNKS,,2003
+Amar'e Stoudemire,2405,Reverse Layup,2,12,8,Reverse Layup Shot,LAYUPS,,2003
+Amar'e Stoudemire,2405,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2003
+Amar'e Stoudemire,2405,Running Jump Shot,2,15,11,Running Jump Shot,JUMP_SHOTS,,2003
+Amar'e Stoudemire,2405,Standard Dunk,2,53,51,Slam Dunk Shot,DUNKS,,2003
+Amar'e Stoudemire,2405,Tip Shot,2,28,14,Tip Shot,TIP_SHOTS,,2003
+Amar'e Stoudemire,2405,Turnaround Jump Shot,2,24,16,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Amar'e Stoudemire,2405,Alley Oop Dunk,2,10,9,Alley Oop Dunk Shot,DUNKS,,2004
+Amar'e Stoudemire,2405,Alley Oop Layup,2,4,3,Alley Oop Layup shot,LAYUPS,,2004
+Amar'e Stoudemire,2405,Driving Dunk,2,6,6,Driving Dunk Shot,DUNKS,,2004
+Amar'e Stoudemire,2405,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2004
+Amar'e Stoudemire,2405,Driving Layup,2,20,17,Driving Layup Shot,LAYUPS,,2004
+Amar'e Stoudemire,2405,Standard Dunk,2,54,41,Dunk Shot,DUNKS,,2004
+Amar'e Stoudemire,2405,Fadeaway Jump Shot,2,8,3,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Amar'e Stoudemire,2405,Finger Roll,2,3,1,Finger Roll Shot,LAYUPS,,2004
+Amar'e Stoudemire,2405,Specialty Dunk,2,11,11,Follow Up Dunk Shot,DUNKS,,2004
+Amar'e Stoudemire,2405,Hook Shot,2,14,10,Hook Shot,POST_MOVES,,2004
+Amar'e Stoudemire,2405,Jump Shot,2,13,10,Jump Bank Shot,JUMP_SHOTS,,2004
+Amar'e Stoudemire,2405,Hook Shot,2,11,6,Jump Hook Shot,POST_MOVES,,2004
+Amar'e Stoudemire,2405,Jump Shot,2,372,118,Jump Shot,JUMP_SHOTS,,2004
+Amar'e Stoudemire,2405,Standard Layup,2,189,79,Layup Shot,LAYUPS,,2004
+Amar'e Stoudemire,2405,Reverse Dunk,2,7,6,Reverse Dunk Shot,DUNKS,,2004
+Amar'e Stoudemire,2405,Reverse Layup,2,7,2,Reverse Layup Shot,LAYUPS,,2004
+Amar'e Stoudemire,2405,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2004
+Amar'e Stoudemire,2405,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2004
+Amar'e Stoudemire,2405,Running Jump Shot,2,13,6,Running Jump Shot,JUMP_SHOTS,,2004
+Amar'e Stoudemire,2405,Standard Dunk,2,38,38,Slam Dunk Shot,DUNKS,,2004
+Amar'e Stoudemire,2405,Tip Shot,2,24,13,Tip Shot,TIP_SHOTS,,2004
+Amar'e Stoudemire,2405,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2004
+Amar'e Stoudemire,2405,Turnaround Jump Shot,2,57,28,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Amar'e Stoudemire,2405,Alley Oop Dunk,2,15,13,Alley Oop Dunk Shot,DUNKS,,2005
+Amar'e Stoudemire,2405,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2005
+Amar'e Stoudemire,2405,Driving Dunk,2,15,14,Driving Dunk Shot,DUNKS,,2005
+Amar'e Stoudemire,2405,Finger Roll,2,2,0,Driving Finger Roll Shot,LAYUPS,,2005
+Amar'e Stoudemire,2405,Driving Hook Shot,2,2,2,Driving Hook Shot,POST_MOVES,,2005
+Amar'e Stoudemire,2405,Driving Layup,2,43,37,Driving Layup Shot,LAYUPS,,2005
+Amar'e Stoudemire,2405,Standard Dunk,2,119,101,Dunk Shot,DUNKS,,2005
+Amar'e Stoudemire,2405,Fadeaway Jump Shot,2,11,7,Fadeaway Jump Shot,JUMP_SHOTS,,2005
+Amar'e Stoudemire,2405,Finger Roll,2,5,1,Finger Roll Shot,LAYUPS,,2005
+Amar'e Stoudemire,2405,Specialty Dunk,2,15,15,Follow Up Dunk Shot,DUNKS,,2005
+Amar'e Stoudemire,2405,Hook Shot,2,15,8,Hook Shot,POST_MOVES,,2005
+Amar'e Stoudemire,2405,Jump Shot,2,15,11,Jump Bank Shot,JUMP_SHOTS,,2005
+Amar'e Stoudemire,2405,Hook Shot,2,7,4,Jump Hook Shot,POST_MOVES,,2005
+Amar'e Stoudemire,2405,Jump Shot,2,614,237,Jump Shot,JUMP_SHOTS,,2005
+Amar'e Stoudemire,2405,Standard Layup,2,267,144,Layup Shot,LAYUPS,,2005
+Amar'e Stoudemire,2405,Reverse Dunk,2,8,7,Reverse Dunk Shot,DUNKS,,2005
+Amar'e Stoudemire,2405,Reverse Layup,2,13,5,Reverse Layup Shot,LAYUPS,,2005
+Amar'e Stoudemire,2405,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2005
+Amar'e Stoudemire,2405,Running Hook Shot,2,2,2,Running Hook Shot,POST_MOVES,,2005
+Amar'e Stoudemire,2405,Running Jump Shot,2,7,6,Running Jump Shot,JUMP_SHOTS,,2005
+Amar'e Stoudemire,2405,Standard Layup,2,2,0,Running Layup Shot,LAYUPS,,2005
+Amar'e Stoudemire,2405,Standard Dunk,2,87,86,Slam Dunk Shot,DUNKS,,2005
+Amar'e Stoudemire,2405,Tip Shot,2,21,9,Tip Shot,TIP_SHOTS,,2005
+Amar'e Stoudemire,2405,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2005
+Amar'e Stoudemire,2405,Turnaround Jump Shot,2,47,34,Turnaround Jump Shot,JUMP_SHOTS,,2005
+Amar'e Stoudemire,2405,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2006
+Amar'e Stoudemire,2405,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2006
+Amar'e Stoudemire,2405,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2006
+Amar'e Stoudemire,2405,Jump Shot,2,16,3,Jump Shot,JUMP_SHOTS,,2006
+Amar'e Stoudemire,2405,Standard Layup,2,6,4,Layup Shot,LAYUPS,,2006
+Amar'e Stoudemire,2405,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2006
+Amar'e Stoudemire,2405,Alley Oop Dunk,2,18,14,Alley Oop Dunk Shot,DUNKS,,2007
+Amar'e Stoudemire,2405,Alley Oop Layup,2,8,6,Alley Oop Layup shot,LAYUPS,,2007
+Amar'e Stoudemire,2405,Driving Dunk,2,13,13,Driving Dunk Shot,DUNKS,,2007
+Amar'e Stoudemire,2405,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2007
+Amar'e Stoudemire,2405,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2007
+Amar'e Stoudemire,2405,Driving Layup,2,25,23,Driving Layup Shot,LAYUPS,,2007
+Amar'e Stoudemire,2405,Standard Dunk,2,86,72,Dunk Shot,DUNKS,,2007
+Amar'e Stoudemire,2405,Fadeaway Jump Shot,2,8,5,Fadeaway Jump Shot,JUMP_SHOTS,,2007
+Amar'e Stoudemire,2405,Finger Roll,2,4,4,Finger Roll Shot,LAYUPS,,2007
+Amar'e Stoudemire,2405,Specialty Dunk,2,12,10,Follow Up Dunk Shot,DUNKS,,2007
+Amar'e Stoudemire,2405,Hook Shot,2,14,9,Hook Shot,POST_MOVES,,2007
+Amar'e Stoudemire,2405,Jump Shot,2,37,20,Jump Bank Shot,JUMP_SHOTS,,2007
+Amar'e Stoudemire,2405,Hook Shot,2,6,5,Jump Hook Shot,POST_MOVES,,2007
+Amar'e Stoudemire,2405,Jump Shot,2,396,166,Jump Shot,JUMP_SHOTS,,2007
+Amar'e Stoudemire,2405,Standard Layup,2,266,142,Layup Shot,LAYUPS,,2007
+Amar'e Stoudemire,2405,Reverse Dunk,2,7,6,Reverse Dunk Shot,DUNKS,,2007
+Amar'e Stoudemire,2405,Reverse Layup,2,23,11,Reverse Layup Shot,LAYUPS,,2007
+Amar'e Stoudemire,2405,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2007
+Amar'e Stoudemire,2405,Finger Roll,2,2,2,Running Finger Roll Shot,LAYUPS,,2007
+Amar'e Stoudemire,2405,Running Jump Shot,2,11,6,Running Jump Shot,JUMP_SHOTS,,2007
+Amar'e Stoudemire,2405,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2007
+Amar'e Stoudemire,2405,Standard Dunk,2,62,62,Slam Dunk Shot,DUNKS,,2007
+Amar'e Stoudemire,2405,Tip Shot,2,25,14,Tip Shot,TIP_SHOTS,,2007
+Amar'e Stoudemire,2405,Turnaround Jump Shot,2,25,11,Turnaround Jump Shot,JUMP_SHOTS,,2007
+Amar'e Stoudemire,2405,Alley Oop Dunk,2,14,13,Alley Oop Dunk Shot,DUNKS,,2008
+Amar'e Stoudemire,2405,Alley Oop Layup,2,12,8,Alley Oop Layup shot,LAYUPS,,2008
+Amar'e Stoudemire,2405,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2008
+Amar'e Stoudemire,2405,Driving Dunk,2,25,25,Driving Dunk Shot,DUNKS,,2008
+Amar'e Stoudemire,2405,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2008
+Amar'e Stoudemire,2405,Driving Layup,2,28,24,Driving Layup Shot,LAYUPS,,2008
+Amar'e Stoudemire,2405,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2008
+Amar'e Stoudemire,2405,Driving Dunk,2,9,9,Driving Slam Dunk Shot,DUNKS,,2008
+Amar'e Stoudemire,2405,Standard Dunk,2,91,83,Dunk Shot,DUNKS,,2008
+Amar'e Stoudemire,2405,Fadeaway Jump Shot,2,13,5,Fadeaway Jump Shot,JUMP_SHOTS,,2008
+Amar'e Stoudemire,2405,Finger Roll,2,9,8,Finger Roll Layup Shot,LAYUPS,,2008
+Amar'e Stoudemire,2405,Floating Jump Shot,2,3,3,Floating Jump shot,FLOATING_SHOTS,,2008
+Amar'e Stoudemire,2405,Hook Shot,2,10,6,Hook Shot,POST_MOVES,,2008
+Amar'e Stoudemire,2405,Hook Shot,2,2,2,Jump Bank Hook Shot,POST_MOVES,,2008
+Amar'e Stoudemire,2405,Jump Shot,2,30,20,Jump Bank Shot,JUMP_SHOTS,,2008
+Amar'e Stoudemire,2405,Hook Shot,2,12,11,Jump Hook Shot,POST_MOVES,,2008
+Amar'e Stoudemire,2405,Jump Shot,2,521,221,Jump Shot,JUMP_SHOTS,,2008
+Amar'e Stoudemire,2405,Jump Shot,3,5,0,Jump Shot,JUMP_SHOTS,,2008
+Amar'e Stoudemire,2405,Standard Layup,2,233,129,Layup Shot,LAYUPS,,2008
+Amar'e Stoudemire,2405,Pullup Jump Shot,2,3,2,Pullup Jump shot,JUMP_SHOTS,,2008
+Amar'e Stoudemire,2405,Putback Dunk,2,7,7,Putback Dunk Shot,DUNKS,,2008
+Amar'e Stoudemire,2405,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2008
+Amar'e Stoudemire,2405,Putback Dunk,2,2,2,Putback Slam Dunk Shot,DUNKS,,2008
+Amar'e Stoudemire,2405,Reverse Dunk,2,5,4,Reverse Dunk Shot,DUNKS,,2008
+Amar'e Stoudemire,2405,Reverse Layup,2,8,7,Reverse Layup Shot,LAYUPS,,2008
+Amar'e Stoudemire,2405,Reverse Dunk,2,1,1,Reverse Slam Dunk Shot,DUNKS,,2008
+Amar'e Stoudemire,2405,Running Jump Shot,2,6,4,Running Bank shot,JUMP_SHOTS,,2008
+Amar'e Stoudemire,2405,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2008
+Amar'e Stoudemire,2405,Running Jump Shot,2,17,12,Running Jump Shot,JUMP_SHOTS,,2008
+Amar'e Stoudemire,2405,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2008
+Amar'e Stoudemire,2405,Standard Dunk,2,2,2,Running Slam Dunk Shot,DUNKS,,2008
+Amar'e Stoudemire,2405,Standard Dunk,2,64,64,Slam Dunk Shot,DUNKS,,2008
+Amar'e Stoudemire,2405,Tip Shot,2,32,13,Tip Shot,TIP_SHOTS,,2008
+Amar'e Stoudemire,2405,Turnaround Jump Shot,2,3,2,Turnaround Bank shot,JUMP_SHOTS,,2008
+Amar'e Stoudemire,2405,Turnaround Jump Shot,2,5,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2008
+Amar'e Stoudemire,2405,Turnaround Jump Shot,2,31,19,Turnaround Jump Shot,JUMP_SHOTS,,2008
+Amar'e Stoudemire,2405,Alley Oop Dunk,2,4,4,Alley Oop Dunk Shot,DUNKS,,2009
+Amar'e Stoudemire,2405,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2009
+Amar'e Stoudemire,2405,Driving Dunk,2,10,9,Driving Dunk Shot,DUNKS,,2009
+Amar'e Stoudemire,2405,Finger Roll,2,4,4,Driving Finger Roll Layup Shot,LAYUPS,,2009
+Amar'e Stoudemire,2405,Driving Hook Shot,2,2,2,Driving Hook Shot,POST_MOVES,,2009
+Amar'e Stoudemire,2405,Driving Jump Shot,2,3,3,Driving Jump shot,JUMP_SHOTS,,2009
+Amar'e Stoudemire,2405,Driving Layup,2,22,15,Driving Layup Shot,LAYUPS,,2009
+Amar'e Stoudemire,2405,Driving Dunk,2,4,4,Driving Slam Dunk Shot,DUNKS,,2009
+Amar'e Stoudemire,2405,Standard Dunk,2,59,53,Dunk Shot,DUNKS,,2009
+Amar'e Stoudemire,2405,Fadeaway Jump Shot,2,3,1,Fadeaway Jump Shot,JUMP_SHOTS,,2009
+Amar'e Stoudemire,2405,Hook Shot,2,9,7,Hook Shot,POST_MOVES,,2009
+Amar'e Stoudemire,2405,Jump Shot,2,20,11,Jump Bank Shot,JUMP_SHOTS,,2009
+Amar'e Stoudemire,2405,Hook Shot,2,5,4,Jump Hook Shot,POST_MOVES,,2009
+Amar'e Stoudemire,2405,Jump Shot,2,348,147,Jump Shot,JUMP_SHOTS,,2009
+Amar'e Stoudemire,2405,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2009
+Amar'e Stoudemire,2405,Standard Layup,2,148,64,Layup Shot,LAYUPS,,2009
+Amar'e Stoudemire,2405,Putback Dunk,2,3,2,Putback Dunk Shot,DUNKS,,2009
+Amar'e Stoudemire,2405,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2009
+Amar'e Stoudemire,2405,Reverse Dunk,2,2,2,Reverse Dunk Shot,DUNKS,,2009
+Amar'e Stoudemire,2405,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2009
+Amar'e Stoudemire,2405,Running Jump Shot,2,4,3,Running Bank shot,JUMP_SHOTS,,2009
+Amar'e Stoudemire,2405,Standard Dunk,2,2,1,Running Dunk Shot,DUNKS,,2009
+Amar'e Stoudemire,2405,Running Hook Shot,2,2,2,Running Hook Shot,POST_MOVES,,2009
+Amar'e Stoudemire,2405,Running Jump Shot,2,13,9,Running Jump Shot,JUMP_SHOTS,,2009
+Amar'e Stoudemire,2405,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2009
+Amar'e Stoudemire,2405,Standard Layup,2,4,3,Running Layup Shot,LAYUPS,,2009
+Amar'e Stoudemire,2405,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2009
+Amar'e Stoudemire,2405,Standard Dunk,2,34,33,Slam Dunk Shot,DUNKS,,2009
+Amar'e Stoudemire,2405,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2009
+Amar'e Stoudemire,2405,Tip Shot,2,19,9,Tip Shot,TIP_SHOTS,,2009
+Amar'e Stoudemire,2405,Turnaround Jump Shot,2,1,0,Turnaround Bank shot,JUMP_SHOTS,,2009
+Amar'e Stoudemire,2405,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2009
+Amar'e Stoudemire,2405,Turnaround Jump Shot,2,14,6,Turnaround Jump Shot,JUMP_SHOTS,,2009
+Amar'e Stoudemire,2405,Alley Oop Dunk,2,7,7,Alley Oop Dunk Shot,DUNKS,,2010
+Amar'e Stoudemire,2405,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2010
+Amar'e Stoudemire,2405,Driving Dunk,2,14,12,Driving Dunk Shot,DUNKS,,2010
+Amar'e Stoudemire,2405,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2010
+Amar'e Stoudemire,2405,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2010
+Amar'e Stoudemire,2405,Driving Jump Shot,2,3,1,Driving Jump shot,JUMP_SHOTS,,2010
+Amar'e Stoudemire,2405,Driving Layup,2,47,39,Driving Layup Shot,LAYUPS,,2010
+Amar'e Stoudemire,2405,Driving Layup,2,5,3,Driving Reverse Layup Shot,LAYUPS,,2010
+Amar'e Stoudemire,2405,Driving Dunk,2,8,8,Driving Slam Dunk Shot,DUNKS,,2010
+Amar'e Stoudemire,2405,Standard Dunk,2,123,110,Dunk Shot,DUNKS,,2010
+Amar'e Stoudemire,2405,Fadeaway Jump Shot,2,12,5,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+Amar'e Stoudemire,2405,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2010
+Amar'e Stoudemire,2405,Floating Jump Shot,2,2,2,Floating Jump shot,FLOATING_SHOTS,,2010
+Amar'e Stoudemire,2405,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2010
+Amar'e Stoudemire,2405,Hook Shot,2,40,24,Hook Shot,POST_MOVES,,2010
+Amar'e Stoudemire,2405,Jump Shot,2,32,16,Jump Bank Shot,JUMP_SHOTS,,2010
+Amar'e Stoudemire,2405,Hook Shot,2,22,15,Jump Hook Shot,POST_MOVES,,2010
+Amar'e Stoudemire,2405,Jump Shot,2,544,232,Jump Shot,JUMP_SHOTS,,2010
+Amar'e Stoudemire,2405,Standard Layup,2,228,107,Layup Shot,LAYUPS,,2010
+Amar'e Stoudemire,2405,Pullup Jump Shot,2,3,2,Pullup Jump shot,JUMP_SHOTS,,2010
+Amar'e Stoudemire,2405,Putback Dunk,2,10,7,Putback Dunk Shot,DUNKS,,2010
+Amar'e Stoudemire,2405,Putback Layup,2,8,6,Putback Layup Shot,LAYUPS,,2010
+Amar'e Stoudemire,2405,Putback Dunk,2,2,2,Putback Slam Dunk Shot,DUNKS,,2010
+Amar'e Stoudemire,2405,Reverse Dunk,2,5,4,Reverse Dunk Shot,DUNKS,,2010
+Amar'e Stoudemire,2405,Reverse Layup,2,10,6,Reverse Layup Shot,LAYUPS,,2010
+Amar'e Stoudemire,2405,Reverse Dunk,2,1,1,Reverse Slam Dunk Shot,DUNKS,,2010
+Amar'e Stoudemire,2405,Running Jump Shot,2,10,9,Running Bank shot,JUMP_SHOTS,,2010
+Amar'e Stoudemire,2405,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2010
+Amar'e Stoudemire,2405,Running Hook Shot,2,4,3,Running Hook Shot,POST_MOVES,,2010
+Amar'e Stoudemire,2405,Running Jump Shot,2,21,16,Running Jump Shot,JUMP_SHOTS,,2010
+Amar'e Stoudemire,2405,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2010
+Amar'e Stoudemire,2405,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2010
+Amar'e Stoudemire,2405,Standard Dunk,2,35,34,Slam Dunk Shot,DUNKS,,2010
+Amar'e Stoudemire,2405,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2010
+Amar'e Stoudemire,2405,Tip Shot,2,32,14,Tip Shot,TIP_SHOTS,,2010
+Amar'e Stoudemire,2405,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2010
+Amar'e Stoudemire,2405,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2010
+Amar'e Stoudemire,2405,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2010
+Amar'e Stoudemire,2405,Turnaround Jump Shot,2,18,7,Turnaround Jump Shot,JUMP_SHOTS,,2010
+Amar'e Stoudemire,2405,Alley Oop Dunk,2,5,5,Alley Oop Dunk Shot,DUNKS,,2011
+Amar'e Stoudemire,2405,Alley Oop Layup,2,3,3,Alley Oop Layup shot,LAYUPS,,2011
+Amar'e Stoudemire,2405,Driving Jump Shot,2,3,3,Driving Bank shot,JUMP_SHOTS,,2011
+Amar'e Stoudemire,2405,Driving Dunk,2,21,20,Driving Dunk Shot,DUNKS,,2011
+Amar'e Stoudemire,2405,Finger Roll,2,9,8,Driving Finger Roll Layup Shot,LAYUPS,,2011
+Amar'e Stoudemire,2405,Driving Hook Shot,2,3,0,Driving Hook Shot,POST_MOVES,,2011
+Amar'e Stoudemire,2405,Driving Jump Shot,2,31,17,Driving Jump shot,JUMP_SHOTS,,2011
+Amar'e Stoudemire,2405,Driving Layup,2,77,55,Driving Layup Shot,LAYUPS,,2011
+Amar'e Stoudemire,2405,Driving Layup,2,6,2,Driving Reverse Layup Shot,LAYUPS,,2011
+Amar'e Stoudemire,2405,Driving Dunk,2,18,18,Driving Slam Dunk Shot,DUNKS,,2011
+Amar'e Stoudemire,2405,Standard Dunk,2,32,26,Dunk Shot,DUNKS,,2011
+Amar'e Stoudemire,2405,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2011
+Amar'e Stoudemire,2405,Fadeaway Jump Shot,2,19,10,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Amar'e Stoudemire,2405,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2011
+Amar'e Stoudemire,2405,Floating Jump Shot,2,7,4,Floating Jump shot,FLOATING_SHOTS,,2011
+Amar'e Stoudemire,2405,Hook Shot,2,2,2,Hook Bank Shot,POST_MOVES,,2011
+Amar'e Stoudemire,2405,Hook Shot,2,26,19,Hook Shot,POST_MOVES,,2011
+Amar'e Stoudemire,2405,Jump Shot,2,34,22,Jump Bank Shot,JUMP_SHOTS,,2011
+Amar'e Stoudemire,2405,Hook Shot,2,12,10,Jump Hook Shot,POST_MOVES,,2011
+Amar'e Stoudemire,2405,Jump Shot,2,770,282,Jump Shot,JUMP_SHOTS,,2011
+Amar'e Stoudemire,2405,Standard Layup,2,195,86,Layup Shot,LAYUPS,,2011
+Amar'e Stoudemire,2405,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2011
+Amar'e Stoudemire,2405,Pullup Jump Shot,2,9,5,Pullup Jump shot,JUMP_SHOTS,,2011
+Amar'e Stoudemire,2405,Putback Dunk,2,6,4,Putback Dunk Shot,DUNKS,,2011
+Amar'e Stoudemire,2405,Putback Layup,2,9,9,Putback Layup Shot,LAYUPS,,2011
+Amar'e Stoudemire,2405,Putback Dunk,2,1,1,Putback Slam Dunk Shot,DUNKS,,2011
+Amar'e Stoudemire,2405,Reverse Dunk,2,2,2,Reverse Dunk Shot,DUNKS,,2011
+Amar'e Stoudemire,2405,Reverse Layup,2,7,6,Reverse Layup Shot,LAYUPS,,2011
+Amar'e Stoudemire,2405,Reverse Dunk,2,1,1,Reverse Slam Dunk Shot,DUNKS,,2011
+Amar'e Stoudemire,2405,Running Jump Shot,2,7,6,Running Bank shot,JUMP_SHOTS,,2011
+Amar'e Stoudemire,2405,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2011
+Amar'e Stoudemire,2405,Running Hook Shot,2,6,5,Running Hook Shot,POST_MOVES,,2011
+Amar'e Stoudemire,2405,Running Jump Shot,2,30,21,Running Jump Shot,JUMP_SHOTS,,2011
+Amar'e Stoudemire,2405,Standard Layup,2,4,3,Running Layup Shot,LAYUPS,,2011
+Amar'e Stoudemire,2405,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2011
+Amar'e Stoudemire,2405,Standard Dunk,2,40,40,Slam Dunk Shot,DUNKS,,2011
+Amar'e Stoudemire,2405,Step Back Jump Shot,2,5,3,Step Back Jump shot,JUMP_SHOTS,,2011
+Amar'e Stoudemire,2405,Tip Shot,2,40,15,Tip Shot,TIP_SHOTS,,2011
+Amar'e Stoudemire,2405,Turnaround Jump Shot,2,4,4,Turnaround Bank shot,JUMP_SHOTS,,2011
+Amar'e Stoudemire,2405,Turnaround Jump Shot,2,3,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2011
+Amar'e Stoudemire,2405,Turnaround Hook Shot,2,5,4,Turnaround Hook Shot,POST_MOVES,,2011
+Amar'e Stoudemire,2405,Turnaround Jump Shot,2,25,18,Turnaround Jump Shot,JUMP_SHOTS,,2011
+Amar'e Stoudemire,2405,Alley Oop Dunk,2,3,1,Alley Oop Dunk Shot,DUNKS,,2012
+Amar'e Stoudemire,2405,Driving Dunk,2,9,5,Driving Dunk Shot,DUNKS,,2012
+Amar'e Stoudemire,2405,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2012
+Amar'e Stoudemire,2405,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,,2012
+Amar'e Stoudemire,2405,Driving Jump Shot,2,4,2,Driving Jump shot,JUMP_SHOTS,,2012
+Amar'e Stoudemire,2405,Driving Layup,2,26,18,Driving Layup Shot,LAYUPS,,2012
+Amar'e Stoudemire,2405,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2012
+Amar'e Stoudemire,2405,Driving Dunk,2,9,9,Driving Slam Dunk Shot,DUNKS,,2012
+Amar'e Stoudemire,2405,Standard Dunk,2,30,28,Dunk Shot,DUNKS,,2012
+Amar'e Stoudemire,2405,Fadeaway Jump Shot,2,11,7,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Amar'e Stoudemire,2405,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2012
+Amar'e Stoudemire,2405,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2012
+Amar'e Stoudemire,2405,Hook Shot,2,11,7,Hook Shot,POST_MOVES,,2012
+Amar'e Stoudemire,2405,Jump Shot,2,5,4,Jump Bank Shot,JUMP_SHOTS,,2012
+Amar'e Stoudemire,2405,Hook Shot,2,7,5,Jump Hook Shot,POST_MOVES,,2012
+Amar'e Stoudemire,2405,Jump Shot,2,325,93,Jump Shot,JUMP_SHOTS,,2012
+Amar'e Stoudemire,2405,Standard Layup,2,106,58,Layup Shot,LAYUPS,,2012
+Amar'e Stoudemire,2405,Pullup Jump Shot,2,4,1,Pullup Jump shot,JUMP_SHOTS,,2012
+Amar'e Stoudemire,2405,Putback Dunk,2,3,3,Putback Dunk Shot,DUNKS,,2012
+Amar'e Stoudemire,2405,Putback Layup,2,6,6,Putback Layup Shot,LAYUPS,,2012
+Amar'e Stoudemire,2405,Putback Dunk,2,4,2,Putback Slam Dunk Shot,DUNKS,,2012
+Amar'e Stoudemire,2405,Reverse Layup,2,7,5,Reverse Layup Shot,LAYUPS,,2012
+Amar'e Stoudemire,2405,Reverse Dunk,2,3,3,Reverse Slam Dunk Shot,DUNKS,,2012
+Amar'e Stoudemire,2405,Running Jump Shot,2,2,1,Running Bank shot,JUMP_SHOTS,,2012
+Amar'e Stoudemire,2405,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2012
+Amar'e Stoudemire,2405,Running Hook Shot,2,3,2,Running Hook Shot,POST_MOVES,,2012
+Amar'e Stoudemire,2405,Running Jump Shot,2,6,3,Running Jump Shot,JUMP_SHOTS,,2012
+Amar'e Stoudemire,2405,Standard Layup,2,5,5,Running Layup Shot,LAYUPS,,2012
+Amar'e Stoudemire,2405,Standard Dunk,2,2,2,Running Slam Dunk Shot,DUNKS,,2012
+Amar'e Stoudemire,2405,Standard Dunk,2,29,29,Slam Dunk Shot,DUNKS,,2012
+Amar'e Stoudemire,2405,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2012
+Amar'e Stoudemire,2405,Tip Shot,2,11,3,Tip Shot,TIP_SHOTS,,2012
+Amar'e Stoudemire,2405,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2012
+Amar'e Stoudemire,2405,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2012
+Amar'e Stoudemire,2405,Turnaround Jump Shot,2,9,4,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Amar'e Stoudemire,2405,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2013
+Amar'e Stoudemire,2405,Driving Dunk,2,7,6,Driving Dunk Shot,DUNKS,,2013
+Amar'e Stoudemire,2405,Driving Hook Shot,2,3,3,Driving Hook Shot,POST_MOVES,,2013
+Amar'e Stoudemire,2405,Driving Jump Shot,2,1,1,Driving Jump shot,JUMP_SHOTS,,2013
+Amar'e Stoudemire,2405,Driving Layup,2,12,8,Driving Layup Shot,LAYUPS,,2013
+Amar'e Stoudemire,2405,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2013
+Amar'e Stoudemire,2405,Driving Dunk,2,9,9,Driving Slam Dunk Shot,DUNKS,,2013
+Amar'e Stoudemire,2405,Standard Dunk,2,20,19,Dunk Shot,DUNKS,,2013
+Amar'e Stoudemire,2405,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Amar'e Stoudemire,2405,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2013
+Amar'e Stoudemire,2405,Hook Shot,2,21,14,Hook Shot,POST_MOVES,,2013
+Amar'e Stoudemire,2405,Jump Shot,2,5,4,Jump Bank Shot,JUMP_SHOTS,,2013
+Amar'e Stoudemire,2405,Hook Shot,2,3,3,Jump Hook Shot,POST_MOVES,,2013
+Amar'e Stoudemire,2405,Jump Shot,2,63,18,Jump Shot,JUMP_SHOTS,,2013
+Amar'e Stoudemire,2405,Standard Layup,2,75,33,Layup Shot,LAYUPS,,2013
+Amar'e Stoudemire,2405,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2013
+Amar'e Stoudemire,2405,Reverse Dunk,2,4,4,Reverse Dunk Shot,DUNKS,,2013
+Amar'e Stoudemire,2405,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2013
+Amar'e Stoudemire,2405,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2013
+Amar'e Stoudemire,2405,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2013
+Amar'e Stoudemire,2405,Standard Dunk,2,8,8,Slam Dunk Shot,DUNKS,,2013
+Amar'e Stoudemire,2405,Tip Shot,2,11,7,Tip Shot,TIP_SHOTS,,2013
+Amar'e Stoudemire,2405,Turnaround Jump Shot,2,2,2,Turnaround Bank shot,JUMP_SHOTS,,2013
+Amar'e Stoudemire,2405,Turnaround Jump Shot,2,3,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2013
+Amar'e Stoudemire,2405,Turnaround Hook Shot,2,4,2,Turnaround Hook Shot,POST_MOVES,,2013
+Amar'e Stoudemire,2405,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Amar'e Stoudemire,2405,Alley Oop Dunk,2,2,1,Alley Oop Dunk Shot,DUNKS,,2014
+Amar'e Stoudemire,2405,Driving Jump Shot,2,3,2,Driving Bank shot,JUMP_SHOTS,,2014
+Amar'e Stoudemire,2405,Driving Dunk,2,5,5,Driving Dunk Shot,DUNKS,,2014
+Amar'e Stoudemire,2405,Finger Roll,2,2,0,Driving Finger Roll Layup Shot,LAYUPS,,2014
+Amar'e Stoudemire,2405,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2014
+Amar'e Stoudemire,2405,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2014
+Amar'e Stoudemire,2405,Driving Layup,2,21,16,Driving Layup Shot,LAYUPS,,2014
+Amar'e Stoudemire,2405,Driving Dunk,2,7,7,Driving Slam Dunk Shot,DUNKS,,2014
+Amar'e Stoudemire,2405,Standard Dunk,2,25,24,Dunk Shot,DUNKS,,2014
+Amar'e Stoudemire,2405,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2014
+Amar'e Stoudemire,2405,Finger Roll,2,3,2,Finger Roll Layup Shot,LAYUPS,,2014
+Amar'e Stoudemire,2405,Hook Shot,2,2,2,Hook Bank Shot,POST_MOVES,,2014
+Amar'e Stoudemire,2405,Hook Shot,2,37,20,Hook Shot,POST_MOVES,,2014
+Amar'e Stoudemire,2405,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2014
+Amar'e Stoudemire,2405,Hook Shot,2,15,11,Jump Hook Shot,POST_MOVES,,2014
+Amar'e Stoudemire,2405,Jump Shot,2,222,93,Jump Shot,JUMP_SHOTS,,2014
+Amar'e Stoudemire,2405,Standard Layup,2,103,53,Layup Shot,LAYUPS,,2014
+Amar'e Stoudemire,2405,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2014
+Amar'e Stoudemire,2405,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2014
+Amar'e Stoudemire,2405,Putback Dunk,2,4,1,Putback Dunk Shot,DUNKS,,2014
+Amar'e Stoudemire,2405,Putback Layup,2,6,6,Putback Layup Shot,LAYUPS,,2014
+Amar'e Stoudemire,2405,Putback Dunk,2,3,3,Putback Slam Dunk Shot,DUNKS,,2014
+Amar'e Stoudemire,2405,Reverse Dunk,2,2,2,Reverse Dunk Shot,DUNKS,,2014
+Amar'e Stoudemire,2405,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2014
+Amar'e Stoudemire,2405,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2014
+Amar'e Stoudemire,2405,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2014
+Amar'e Stoudemire,2405,Running Jump Shot,2,4,4,Running Jump Shot,JUMP_SHOTS,,2014
+Amar'e Stoudemire,2405,Standard Dunk,2,4,4,Running Slam Dunk Shot,DUNKS,,2014
+Amar'e Stoudemire,2405,Standard Dunk,2,29,28,Slam Dunk Shot,DUNKS,,2014
+Amar'e Stoudemire,2405,Tip Shot,2,17,6,Tip Shot,TIP_SHOTS,,2014
+Amar'e Stoudemire,2405,Turnaround Hook Shot,2,1,1,Turnaround Bank Hook Shot,POST_MOVES,,2014
+Amar'e Stoudemire,2405,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2014
+Amar'e Stoudemire,2405,Turnaround Jump Shot,2,3,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2014
+Amar'e Stoudemire,2405,Turnaround Hook Shot,2,15,8,Turnaround Hook Shot,POST_MOVES,,2014
+Amar'e Stoudemire,2405,Turnaround Jump Shot,2,10,3,Turnaround Jump Shot,JUMP_SHOTS,,2014
+Amar'e Stoudemire,2405,Alley Oop Dunk,2,4,4,Alley Oop Dunk Shot,DUNKS,,2015
+Amar'e Stoudemire,2405,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2015
+Amar'e Stoudemire,2405,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2015
+Amar'e Stoudemire,2405,Finger Roll,2,3,3,Driving Finger Roll Layup Shot,LAYUPS,,2015
+Amar'e Stoudemire,2405,Driving Hook Shot,2,3,2,Driving Hook Shot,POST_MOVES,,2015
+Amar'e Stoudemire,2405,Driving Jump Shot,2,5,3,Driving Jump shot,JUMP_SHOTS,,2015
+Amar'e Stoudemire,2405,Driving Layup,2,22,16,Driving Layup Shot,LAYUPS,,2015
+Amar'e Stoudemire,2405,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2015
+Amar'e Stoudemire,2405,Standard Dunk,2,22,19,Dunk Shot,DUNKS,,2015
+Amar'e Stoudemire,2405,Fadeaway Jump Shot,2,2,2,Fadeaway Bank shot,JUMP_SHOTS,,2015
+Amar'e Stoudemire,2405,Fadeaway Jump Shot,2,5,3,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+Amar'e Stoudemire,2405,Finger Roll,2,3,3,Finger Roll Layup Shot,LAYUPS,,2015
+Amar'e Stoudemire,2405,Hook Shot,2,29,16,Hook Shot,POST_MOVES,,2015
+Amar'e Stoudemire,2405,Hook Shot,2,1,1,Jump Bank Hook Shot,POST_MOVES,,2015
+Amar'e Stoudemire,2405,Jump Shot,2,3,1,Jump Bank Shot,JUMP_SHOTS,,2015
+Amar'e Stoudemire,2405,Hook Shot,2,19,14,Jump Hook Shot,POST_MOVES,,2015
+Amar'e Stoudemire,2405,Jump Shot,2,142,48,Jump Shot,JUMP_SHOTS,,2015
+Amar'e Stoudemire,2405,Standard Layup,2,116,62,Layup Shot,LAYUPS,,2015
+Amar'e Stoudemire,2405,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2015
+Amar'e Stoudemire,2405,Putback Dunk,2,5,4,Putback Dunk Shot,DUNKS,,2015
+Amar'e Stoudemire,2405,Putback Layup,2,8,8,Putback Layup Shot,LAYUPS,,2015
+Amar'e Stoudemire,2405,Reverse Dunk,2,1,0,Reverse Dunk Shot,DUNKS,,2015
+Amar'e Stoudemire,2405,Reverse Layup,2,5,4,Reverse Layup Shot,LAYUPS,,2015
+Amar'e Stoudemire,2405,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2015
+Amar'e Stoudemire,2405,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2015
+Amar'e Stoudemire,2405,Standard Layup,2,5,2,Running Layup Shot,LAYUPS,,2015
+Amar'e Stoudemire,2405,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2015
+Amar'e Stoudemire,2405,Standard Dunk,2,2,2,Running Slam Dunk Shot,DUNKS,,2015
+Amar'e Stoudemire,2405,Tip Shot,2,1,0,Running Tip Shot,TIP_SHOTS,,2015
+Amar'e Stoudemire,2405,Standard Dunk,2,22,22,Slam Dunk Shot,DUNKS,,2015
+Amar'e Stoudemire,2405,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2015
+Amar'e Stoudemire,2405,Tip Shot,2,21,10,Tip Shot,TIP_SHOTS,,2015
+Amar'e Stoudemire,2405,Turnaround Jump Shot,2,7,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2015
+Amar'e Stoudemire,2405,Turnaround Hook Shot,2,9,7,Turnaround Hook Shot,POST_MOVES,,2015
+Amar'e Stoudemire,2405,Turnaround Jump Shot,2,12,6,Turnaround Jump Shot,JUMP_SHOTS,,2015
+Amar'e Stoudemire,2405,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2016
+Amar'e Stoudemire,2405,Specialty Dunk,2,7,7,Cutting Dunk Shot,DUNKS,,2016
+Amar'e Stoudemire,2405,Finger Roll,2,2,2,Cutting Finger Roll Layup Shot,LAYUPS,,2016
+Amar'e Stoudemire,2405,Standard Layup,2,8,6,Cutting Layup Shot,LAYUPS,,2016
+Amar'e Stoudemire,2405,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2016
+Amar'e Stoudemire,2405,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2016
+Amar'e Stoudemire,2405,Driving Layup,2,4,2,Driving Layup Shot,LAYUPS,,2016
+Amar'e Stoudemire,2405,Standard Dunk,2,23,22,Dunk Shot,DUNKS,,2016
+Amar'e Stoudemire,2405,Fadeaway Jump Shot,2,1,0,Fadeaway Bank shot,JUMP_SHOTS,,2016
+Amar'e Stoudemire,2405,Fadeaway Jump Shot,2,3,2,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Amar'e Stoudemire,2405,Hook Shot,2,12,8,Hook Shot,POST_MOVES,,2016
+Amar'e Stoudemire,2405,Jump Shot,2,5,2,Jump Bank Shot,JUMP_SHOTS,,2016
+Amar'e Stoudemire,2405,Jump Shot,2,54,22,Jump Shot,JUMP_SHOTS,,2016
+Amar'e Stoudemire,2405,Standard Layup,2,66,25,Layup Shot,LAYUPS,,2016
+Amar'e Stoudemire,2405,Pullup Jump Shot,2,2,1,Pullup Jump shot,JUMP_SHOTS,,2016
+Amar'e Stoudemire,2405,Putback Layup,2,7,4,Putback Layup Shot,LAYUPS,,2016
+Amar'e Stoudemire,2405,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2016
+Amar'e Stoudemire,2405,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2016
+Amar'e Stoudemire,2405,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2016
+Amar'e Stoudemire,2405,Putback Layup,2,9,8,Tip Layup Shot,LAYUPS,,2016
+Amar'e Stoudemire,2405,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2016
+Amar'e Stoudemire,2405,Turnaround Hook Shot,2,4,3,Turnaround Hook Shot,POST_MOVES,,2016
+Amar'e Stoudemire,2405,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2016

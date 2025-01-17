@@ -1,40 +1,187 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-201975,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2010
-201975,Driving Layup,2PT Field Goal,3,2,Driving Layup Shot,LAYUPS,0.6666666666666666,2013
-201975,Driving Layup,2PT Field Goal,2,1,Driving Reverse Layup Shot,LAYUPS,0.5,2013
-201975,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2013
-201975,Jump Shot,2PT Field Goal,4,0,Jump Shot,JUMP_SHOTS,0.0,2013
-201975,Jump Shot,3PT Field Goal,22,4,Jump Shot,JUMP_SHOTS,0.2727272727272727,2013
-201975,Standard Layup,2PT Field Goal,13,5,Layup Shot,LAYUPS,0.3846153846153846,2013
-201975,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2013
-201975,Driving Dunk,2PT Field Goal,2,2,Driving Dunk Shot,DUNKS,1.0,2014
-201975,Driving Layup,2PT Field Goal,21,14,Driving Layup Shot,LAYUPS,0.6666666666666666,2014
-201975,Driving Layup,2PT Field Goal,2,2,Driving Reverse Layup Shot,LAYUPS,1.0,2014
-201975,Driving Dunk,2PT Field Goal,2,2,Driving Slam Dunk Shot,DUNKS,1.0,2014
-201975,Finger Roll,2PT Field Goal,1,1,Finger Roll Layup Shot,LAYUPS,1.0,2014
-201975,Floating Jump Shot,2PT Field Goal,6,5,Floating Jump shot,FLOATING_SHOTS,0.8333333333333334,2014
-201975,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2014
-201975,Jump Shot,3PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.5,2014
-201975,Jump Shot,2PT Field Goal,25,8,Jump Shot,JUMP_SHOTS,0.32,2014
-201975,Jump Shot,3PT Field Goal,68,25,Jump Shot,JUMP_SHOTS,0.5514705882352942,2014
-201975,Standard Layup,2PT Field Goal,20,10,Layup Shot,LAYUPS,0.5,2014
-201975,Pullup Jump Shot,2PT Field Goal,3,2,Pullup Jump shot,JUMP_SHOTS,0.6666666666666666,2014
-201975,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2014
-201975,Reverse Layup,2PT Field Goal,4,3,Reverse Layup Shot,LAYUPS,0.75,2014
-201975,Running Jump Shot,2PT Field Goal,4,3,Running Jump Shot,JUMP_SHOTS,0.75,2014
-201975,Standard Layup,2PT Field Goal,2,1,Running Layup Shot,LAYUPS,0.5,2014
-201975,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2014
-201975,Driving Layup,2PT Field Goal,2,2,Driving Layup Shot,LAYUPS,1.0,2015
-201975,Jump Shot,2PT Field Goal,9,4,Jump Shot,JUMP_SHOTS,0.4444444444444444,2015
-201975,Jump Shot,3PT Field Goal,16,6,Jump Shot,JUMP_SHOTS,0.5625,2015
-201975,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2015
-201975,Standard Layup,2PT Field Goal,1,0,Cutting Layup Shot,LAYUPS,0.0,2017
-201975,Jump Shot,3PT Field Goal,11,4,Jump Shot,JUMP_SHOTS,0.5454545454545454,2017
-201975,Pullup Jump Shot,2PT Field Goal,2,0,Pullup Jump shot,JUMP_SHOTS,0.0,2017
-201975,Pullup Jump Shot,3PT Field Goal,3,1,Pullup Jump shot,JUMP_SHOTS,0.5,2017
-201975,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2017
-201975,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2017
-201975,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2017
-201975,Running Jump Shot,3PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2017
-201975,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2018
-201975,Jump Shot,3PT Field Goal,4,1,Jump Shot,JUMP_SHOTS,0.375,2018
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Jodie Meeks,201975,Driving Layup,2,20,17,Driving Layup Shot,LAYUPS,,2010
+Jodie Meeks,201975,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2010
+Jodie Meeks,201975,Floating Jump Shot,2,2,0,Floating Jump shot,FLOATING_SHOTS,,2010
+Jodie Meeks,201975,Jump Shot,2,193,60,Jump Shot,JUMP_SHOTS,,2010
+Jodie Meeks,201975,Standard Layup,2,34,15,Layup Shot,LAYUPS,,2010
+Jodie Meeks,201975,Pullup Jump Shot,2,8,6,Pullup Jump shot,JUMP_SHOTS,,2010
+Jodie Meeks,201975,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2010
+Jodie Meeks,201975,Reverse Layup,2,2,0,Reverse Layup Shot,LAYUPS,,2010
+Jodie Meeks,201975,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2010
+Jodie Meeks,201975,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2010
+Jodie Meeks,201975,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2010
+Jodie Meeks,201975,Step Back Jump Shot,2,2,0,Step Back Jump shot,JUMP_SHOTS,,2010
+Jodie Meeks,201975,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2011
+Jodie Meeks,201975,Driving Jump Shot,2,2,1,Driving Jump shot,JUMP_SHOTS,,2011
+Jodie Meeks,201975,Driving Layup,2,33,26,Driving Layup Shot,LAYUPS,,2011
+Jodie Meeks,201975,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2011
+Jodie Meeks,201975,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2011
+Jodie Meeks,201975,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2011
+Jodie Meeks,201975,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Jodie Meeks,201975,Floating Jump Shot,2,4,2,Floating Jump shot,FLOATING_SHOTS,,2011
+Jodie Meeks,201975,Jump Shot,2,435,155,Jump Shot,JUMP_SHOTS,,2011
+Jodie Meeks,201975,Standard Layup,2,52,21,Layup Shot,LAYUPS,,2011
+Jodie Meeks,201975,Pullup Jump Shot,2,22,19,Pullup Jump shot,JUMP_SHOTS,,2011
+Jodie Meeks,201975,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2011
+Jodie Meeks,201975,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2011
+Jodie Meeks,201975,Running Jump Shot,2,4,3,Running Jump Shot,JUMP_SHOTS,,2011
+Jodie Meeks,201975,Standard Layup,2,3,3,Running Layup Shot,LAYUPS,,2011
+Jodie Meeks,201975,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2011
+Jodie Meeks,201975,Step Back Jump Shot,2,2,2,Step Back Jump shot,JUMP_SHOTS,,2011
+Jodie Meeks,201975,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2011
+Jodie Meeks,201975,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2011
+Jodie Meeks,201975,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2012
+Jodie Meeks,201975,Driving Jump Shot,2,1,1,Driving Jump shot,JUMP_SHOTS,,2012
+Jodie Meeks,201975,Driving Layup,2,17,14,Driving Layup Shot,LAYUPS,,2012
+Jodie Meeks,201975,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2012
+Jodie Meeks,201975,Standard Dunk,2,4,3,Dunk Shot,DUNKS,,2012
+Jodie Meeks,201975,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Jodie Meeks,201975,Floating Jump Shot,2,3,2,Floating Jump shot,FLOATING_SHOTS,,2012
+Jodie Meeks,201975,Jump Shot,2,2,0,Jump Bank Shot,JUMP_SHOTS,,2012
+Jodie Meeks,201975,Jump Shot,2,346,110,Jump Shot,JUMP_SHOTS,,2012
+Jodie Meeks,201975,Jump Shot,3,3,0,Jump Shot,JUMP_SHOTS,,2012
+Jodie Meeks,201975,Standard Layup,2,49,25,Layup Shot,LAYUPS,,2012
+Jodie Meeks,201975,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2012
+Jodie Meeks,201975,Pullup Jump Shot,2,24,23,Pullup Jump shot,JUMP_SHOTS,,2012
+Jodie Meeks,201975,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2012
+Jodie Meeks,201975,Running Jump Shot,2,4,3,Running Jump Shot,JUMP_SHOTS,,2012
+Jodie Meeks,201975,Standard Layup,2,5,5,Running Layup Shot,LAYUPS,,2012
+Jodie Meeks,201975,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2012
+Jodie Meeks,201975,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2012
+Jodie Meeks,201975,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2013
+Jodie Meeks,201975,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2013
+Jodie Meeks,201975,Driving Jump Shot,2,2,1,Driving Jump shot,JUMP_SHOTS,,2013
+Jodie Meeks,201975,Driving Layup,2,29,16,Driving Layup Shot,LAYUPS,,2013
+Jodie Meeks,201975,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2013
+Jodie Meeks,201975,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2013
+Jodie Meeks,201975,Standard Dunk,2,6,3,Dunk Shot,DUNKS,,2013
+Jodie Meeks,201975,Fadeaway Jump Shot,2,4,3,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Jodie Meeks,201975,Floating Jump Shot,2,2,2,Floating Jump shot,FLOATING_SHOTS,,2013
+Jodie Meeks,201975,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2013
+Jodie Meeks,201975,Jump Shot,2,359,125,Jump Shot,JUMP_SHOTS,,2013
+Jodie Meeks,201975,Jump Shot,3,33,8,Jump Shot,JUMP_SHOTS,,2013
+Jodie Meeks,201975,Standard Layup,2,51,19,Layup Shot,LAYUPS,,2013
+Jodie Meeks,201975,Pullup Jump Shot,2,9,3,Pullup Jump shot,JUMP_SHOTS,,2013
+Jodie Meeks,201975,Pullup Jump Shot,3,3,2,Pullup Jump shot,JUMP_SHOTS,,2013
+Jodie Meeks,201975,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2013
+Jodie Meeks,201975,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2013
+Jodie Meeks,201975,Reverse Layup,2,4,2,Reverse Layup Shot,LAYUPS,,2013
+Jodie Meeks,201975,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2013
+Jodie Meeks,201975,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2013
+Jodie Meeks,201975,Standard Layup,2,6,6,Running Layup Shot,LAYUPS,,2013
+Jodie Meeks,201975,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2013
+Jodie Meeks,201975,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2013
+Jodie Meeks,201975,Step Back Jump Shot,3,1,1,Step Back Jump shot,JUMP_SHOTS,,2013
+Jodie Meeks,201975,Tip Shot,2,3,0,Tip Shot,TIP_SHOTS,,2013
+Jodie Meeks,201975,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2013
+Jodie Meeks,201975,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2014
+Jodie Meeks,201975,Driving Dunk,2,11,10,Driving Dunk Shot,DUNKS,,2014
+Jodie Meeks,201975,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2014
+Jodie Meeks,201975,Driving Jump Shot,2,2,0,Driving Jump shot,JUMP_SHOTS,,2014
+Jodie Meeks,201975,Driving Layup,2,79,60,Driving Layup Shot,LAYUPS,,2014
+Jodie Meeks,201975,Driving Layup,2,9,9,Driving Reverse Layup Shot,LAYUPS,,2014
+Jodie Meeks,201975,Driving Dunk,2,5,5,Driving Slam Dunk Shot,DUNKS,,2014
+Jodie Meeks,201975,Standard Dunk,2,10,9,Dunk Shot,DUNKS,,2014
+Jodie Meeks,201975,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2014
+Jodie Meeks,201975,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2014
+Jodie Meeks,201975,Floating Jump Shot,2,27,13,Floating Jump shot,FLOATING_SHOTS,,2014
+Jodie Meeks,201975,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2014
+Jodie Meeks,201975,Jump Shot,3,1,1,Jump Bank Shot,JUMP_SHOTS,,2014
+Jodie Meeks,201975,Jump Shot,2,427,151,Jump Shot,JUMP_SHOTS,,2014
+Jodie Meeks,201975,Jump Shot,3,104,37,Jump Shot,JUMP_SHOTS,,2014
+Jodie Meeks,201975,Standard Layup,2,117,57,Layup Shot,LAYUPS,,2014
+Jodie Meeks,201975,Pullup Jump Shot,2,16,9,Pullup Jump shot,JUMP_SHOTS,,2014
+Jodie Meeks,201975,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2014
+Jodie Meeks,201975,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2014
+Jodie Meeks,201975,Reverse Layup,2,29,22,Reverse Layup Shot,LAYUPS,,2014
+Jodie Meeks,201975,Running Jump Shot,2,9,4,Running Bank shot,JUMP_SHOTS,,2014
+Jodie Meeks,201975,Running Hook Shot,2,2,1,Running Hook Shot,POST_MOVES,,2014
+Jodie Meeks,201975,Running Jump Shot,2,15,8,Running Jump Shot,JUMP_SHOTS,,2014
+Jodie Meeks,201975,Standard Layup,2,9,5,Running Layup Shot,LAYUPS,,2014
+Jodie Meeks,201975,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2014
+Jodie Meeks,201975,Step Back Jump Shot,2,5,1,Step Back Jump shot,JUMP_SHOTS,,2014
+Jodie Meeks,201975,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2014
+Jodie Meeks,201975,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2014
+Jodie Meeks,201975,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2015
+Jodie Meeks,201975,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2015
+Jodie Meeks,201975,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2015
+Jodie Meeks,201975,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2015
+Jodie Meeks,201975,Driving Jump Shot,2,3,0,Driving Jump shot,JUMP_SHOTS,,2015
+Jodie Meeks,201975,Driving Layup,2,32,19,Driving Layup Shot,LAYUPS,,2015
+Jodie Meeks,201975,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2015
+Jodie Meeks,201975,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2015
+Jodie Meeks,201975,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+Jodie Meeks,201975,Floating Jump Shot,2,20,12,Floating Jump shot,FLOATING_SHOTS,,2015
+Jodie Meeks,201975,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2015
+Jodie Meeks,201975,Jump Shot,2,6,1,Jump Bank Shot,JUMP_SHOTS,,2015
+Jodie Meeks,201975,Jump Shot,2,360,126,Jump Shot,JUMP_SHOTS,,2015
+Jodie Meeks,201975,Jump Shot,3,16,6,Jump Shot,JUMP_SHOTS,,2015
+Jodie Meeks,201975,Standard Layup,2,58,31,Layup Shot,LAYUPS,,2015
+Jodie Meeks,201975,Pullup Jump Shot,2,8,6,Pullup Jump shot,JUMP_SHOTS,,2015
+Jodie Meeks,201975,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2015
+Jodie Meeks,201975,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2015
+Jodie Meeks,201975,Running Jump Shot,2,11,5,Running Jump Shot,JUMP_SHOTS,,2015
+Jodie Meeks,201975,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2015
+Jodie Meeks,201975,Step Back Jump Shot,2,2,0,Step Back Jump shot,JUMP_SHOTS,,2015
+Jodie Meeks,201975,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2015
+Jodie Meeks,201975,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Jodie Meeks,201975,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2016
+Jodie Meeks,201975,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2016
+Jodie Meeks,201975,Jump Shot,2,14,5,Jump Shot,JUMP_SHOTS,,2016
+Jodie Meeks,201975,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2016
+Jodie Meeks,201975,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2016
+Jodie Meeks,201975,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2017
+Jodie Meeks,201975,Standard Layup,2,7,4,Cutting Layup Shot,LAYUPS,,2017
+Jodie Meeks,201975,Driving Jump Shot,2,2,2,Driving Bank shot,JUMP_SHOTS,,2017
+Jodie Meeks,201975,Floating Jump Shot,2,6,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Jodie Meeks,201975,Driving Layup,2,8,4,Driving Layup Shot,LAYUPS,,2017
+Jodie Meeks,201975,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2017
+Jodie Meeks,201975,Floating Jump Shot,2,16,6,Floating Jump shot,FLOATING_SHOTS,,2017
+Jodie Meeks,201975,Jump Shot,2,3,0,Jump Bank Shot,JUMP_SHOTS,,2017
+Jodie Meeks,201975,Jump Shot,2,145,56,Jump Shot,JUMP_SHOTS,,2017
+Jodie Meeks,201975,Jump Shot,3,11,4,Jump Shot,JUMP_SHOTS,,2017
+Jodie Meeks,201975,Standard Layup,2,12,4,Layup Shot,LAYUPS,,2017
+Jodie Meeks,201975,Pullup Jump Shot,2,20,7,Pullup Jump shot,JUMP_SHOTS,,2017
+Jodie Meeks,201975,Pullup Jump Shot,3,3,1,Pullup Jump shot,JUMP_SHOTS,,2017
+Jodie Meeks,201975,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2017
+Jodie Meeks,201975,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2017
+Jodie Meeks,201975,Running Jump Shot,2,4,1,Running Jump Shot,JUMP_SHOTS,,2017
+Jodie Meeks,201975,Standard Layup,2,9,5,Running Layup Shot,LAYUPS,,2017
+Jodie Meeks,201975,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2017
+Jodie Meeks,201975,Running Jump Shot,3,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2017
+Jodie Meeks,201975,Step Back Jump Shot,2,3,1,Step Back Jump shot,JUMP_SHOTS,,2017
+Jodie Meeks,201975,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Jodie Meeks,201975,Standard Layup,2,10,5,Cutting Layup Shot,LAYUPS,,2018
+Jodie Meeks,201975,Driving Dunk,2,1,0,Driving Dunk Shot,DUNKS,,2018
+Jodie Meeks,201975,Finger Roll,2,3,3,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Jodie Meeks,201975,Floating Jump Shot,2,13,7,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Jodie Meeks,201975,Floating Jump Shot,2,18,9,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Jodie Meeks,201975,Driving Layup,2,18,12,Driving Layup Shot,LAYUPS,,2018
+Jodie Meeks,201975,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+Jodie Meeks,201975,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2018
+Jodie Meeks,201975,Floating Jump Shot,2,20,10,Floating Jump shot,FLOATING_SHOTS,,2018
+Jodie Meeks,201975,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2018
+Jodie Meeks,201975,Jump Shot,2,198,60,Jump Shot,JUMP_SHOTS,,2018
+Jodie Meeks,201975,Jump Shot,3,5,1,Jump Shot,JUMP_SHOTS,,2018
+Jodie Meeks,201975,Standard Layup,2,17,10,Layup Shot,LAYUPS,,2018
+Jodie Meeks,201975,Pullup Jump Shot,2,61,27,Pullup Jump shot,JUMP_SHOTS,,2018
+Jodie Meeks,201975,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2018
+Jodie Meeks,201975,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2018
+Jodie Meeks,201975,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2018
+Jodie Meeks,201975,Running Jump Shot,2,6,2,Running Jump Shot,JUMP_SHOTS,,2018
+Jodie Meeks,201975,Standard Layup,2,6,4,Running Layup Shot,LAYUPS,,2018
+Jodie Meeks,201975,Running Jump Shot,2,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2018
+Jodie Meeks,201975,Step Back Jump Shot,2,5,2,Step Back Jump shot,JUMP_SHOTS,,2018
+Jodie Meeks,201975,Putback Layup,2,1,1,Tip Layup Shot,LAYUPS,,2018
+Jodie Meeks,201975,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2018
+Jodie Meeks,201975,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2019
+Jodie Meeks,201975,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Jodie Meeks,201975,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Jodie Meeks,201975,Floating Jump Shot,2,1,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Jodie Meeks,201975,Driving Hook Shot,2,2,0,Driving Hook Shot,POST_MOVES,,2019
+Jodie Meeks,201975,Driving Layup,2,5,4,Driving Layup Shot,LAYUPS,,2019
+Jodie Meeks,201975,Floating Jump Shot,2,2,2,Floating Jump shot,FLOATING_SHOTS,,2019
+Jodie Meeks,201975,Jump Shot,2,20,9,Jump Shot,JUMP_SHOTS,,2019
+Jodie Meeks,201975,Standard Layup,2,1,1,Layup Shot,LAYUPS,,2019
+Jodie Meeks,201975,Pullup Jump Shot,2,4,1,Pullup Jump shot,JUMP_SHOTS,,2019
+Jodie Meeks,201975,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2019

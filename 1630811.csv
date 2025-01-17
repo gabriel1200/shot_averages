@@ -1,9 +1,18 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1630811,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2025
-1630811,Floating Jump Shot,2PT Field Goal,10,5,Driving Floating Jump Shot,FLOATING_SHOTS,0.5,2025
-1630811,Driving Layup,2PT Field Goal,3,1,Driving Layup Shot,LAYUPS,0.3333333333333333,2025
-1630811,Jump Shot,3PT Field Goal,11,2,Jump Shot,JUMP_SHOTS,0.2727272727272727,2025
-1630811,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2025
-1630811,Pullup Jump Shot,3PT Field Goal,5,1,Pullup Jump shot,JUMP_SHOTS,0.3,2025
-1630811,Running Jump Shot,3PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.75,2025
-1630811,Standard Layup,2PT Field Goal,3,1,Running Layup Shot,LAYUPS,0.3333333333333333,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Keaton Wallace,1630811,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2025
+Keaton Wallace,1630811,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2025
+Keaton Wallace,1630811,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Keaton Wallace,1630811,Floating Jump Shot,2,24,11,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Keaton Wallace,1630811,Driving Layup,2,4,1,Driving Layup Shot,LAYUPS,,2025
+Keaton Wallace,1630811,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2025
+Keaton Wallace,1630811,Jump Shot,3,1,0,Jump Bank Shot,JUMP_SHOTS,,2025
+Keaton Wallace,1630811,Jump Shot,3,29,13,Jump Shot,JUMP_SHOTS,,2025
+Keaton Wallace,1630811,Pullup Jump Shot,2,3,0,Pullup Jump shot,JUMP_SHOTS,,2025
+Keaton Wallace,1630811,Pullup Jump Shot,3,7,2,Pullup Jump shot,JUMP_SHOTS,,2025
+Keaton Wallace,1630811,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2025
+Keaton Wallace,1630811,Running Jump Shot,3,2,1,Running Jump Shot,JUMP_SHOTS,,2025
+Keaton Wallace,1630811,Standard Layup,2,4,2,Running Layup Shot,LAYUPS,,2025
+Keaton Wallace,1630811,Running Jump Shot,3,2,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025
+Keaton Wallace,1630811,Step Back Jump Shot,2,3,2,Step Back Jump shot,JUMP_SHOTS,,2025
+Keaton Wallace,1630811,Step Back Jump Shot,3,3,1,Step Back Jump shot,JUMP_SHOTS,,2025
+Keaton Wallace,1630811,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2025

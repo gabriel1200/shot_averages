@@ -1,14 +1,50 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-182,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,1997
-182,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,1997
-182,Standard Dunk,2PT Field Goal,1,0,Dunk Shot,DUNKS,0.0,1997
-182,Hook Shot,2PT Field Goal,3,1,Hook Shot,POST_MOVES,0.3333333333333333,1997
-182,Jump Shot,2PT Field Goal,9,3,Jump Shot,JUMP_SHOTS,0.3333333333333333,1997
-182,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,1997
-182,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,1997
-182,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,1997
-182,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1999
-182,Jump Shot,2PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,2001
-182,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2001
-182,Standard Layup,2PT Field Goal,3,0,Layup Shot,LAYUPS,0.0,2001
-182,Tip Shot,2PT Field Goal,3,2,Tip Shot,TIP_SHOTS,0.6666666666666666,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Billy Owens,182,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,1997
+Billy Owens,182,Driving Layup,2,24,18,Driving Layup Shot,LAYUPS,,1997
+Billy Owens,182,Standard Dunk,2,11,9,Dunk Shot,DUNKS,,1997
+Billy Owens,182,Hook Shot,2,53,35,Hook Shot,POST_MOVES,,1997
+Billy Owens,182,Jump Shot,2,317,115,Jump Shot,JUMP_SHOTS,,1997
+Billy Owens,182,Jump Shot,3,12,4,Jump Shot,JUMP_SHOTS,,1997
+Billy Owens,182,Standard Layup,2,180,94,Layup Shot,LAYUPS,,1997
+Billy Owens,182,Running Jump Shot,2,8,5,Running Jump Shot,JUMP_SHOTS,,1997
+Billy Owens,182,Standard Dunk,2,6,5,Slam Dunk Shot,DUNKS,,1997
+Billy Owens,182,Tip Shot,2,27,12,Tip Shot,TIP_SHOTS,,1997
+Billy Owens,182,Driving Dunk,2,6,5,Driving Dunk Shot,DUNKS,,1998
+Billy Owens,182,Driving Layup,2,37,22,Driving Layup Shot,LAYUPS,,1998
+Billy Owens,182,Standard Dunk,2,11,8,Dunk Shot,DUNKS,,1998
+Billy Owens,182,Hook Shot,2,41,24,Hook Shot,POST_MOVES,,1998
+Billy Owens,182,Jump Shot,2,417,148,Jump Shot,JUMP_SHOTS,,1998
+Billy Owens,182,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,1998
+Billy Owens,182,Standard Layup,2,173,112,Layup Shot,LAYUPS,,1998
+Billy Owens,182,Running Jump Shot,2,8,3,Running Jump Shot,JUMP_SHOTS,,1998
+Billy Owens,182,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,1998
+Billy Owens,182,Tip Shot,2,31,13,Tip Shot,TIP_SHOTS,,1998
+Billy Owens,182,Driving Layup,2,10,6,Driving Layup Shot,LAYUPS,,1999
+Billy Owens,182,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,1999
+Billy Owens,182,Hook Shot,2,6,2,Hook Shot,POST_MOVES,,1999
+Billy Owens,182,Jump Shot,2,97,27,Jump Shot,JUMP_SHOTS,,1999
+Billy Owens,182,Standard Layup,2,46,26,Layup Shot,LAYUPS,,1999
+Billy Owens,182,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,1999
+Billy Owens,182,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,1999
+Billy Owens,182,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,1999
+Billy Owens,182,Driving Layup,2,19,14,Driving Layup Shot,LAYUPS,,2000
+Billy Owens,182,Hook Shot,2,9,7,Hook Shot,POST_MOVES,,2000
+Billy Owens,182,Jump Shot,2,209,59,Jump Shot,JUMP_SHOTS,,2000
+Billy Owens,182,Jump Shot,3,11,5,Jump Shot,JUMP_SHOTS,,2000
+Billy Owens,182,Standard Layup,2,87,55,Layup Shot,LAYUPS,,2000
+Billy Owens,182,Running Jump Shot,2,3,1,Running Jump Shot,JUMP_SHOTS,,2000
+Billy Owens,182,Tip Shot,2,20,9,Tip Shot,TIP_SHOTS,,2000
+Billy Owens,182,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2001
+Billy Owens,182,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2001
+Billy Owens,182,Driving Layup,2,5,4,Driving Layup Shot,LAYUPS,,2001
+Billy Owens,182,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2001
+Billy Owens,182,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2001
+Billy Owens,182,Hook Shot,2,10,7,Hook Shot,POST_MOVES,,2001
+Billy Owens,182,Jump Shot,2,116,30,Jump Shot,JUMP_SHOTS,,2001
+Billy Owens,182,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,2001
+Billy Owens,182,Standard Layup,2,59,26,Layup Shot,LAYUPS,,2001
+Billy Owens,182,Reverse Layup,2,5,5,Reverse Layup Shot,LAYUPS,,2001
+Billy Owens,182,Running Hook Shot,2,2,2,Running Hook Shot,POST_MOVES,,2001
+Billy Owens,182,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2001
+Billy Owens,182,Tip Shot,2,25,9,Tip Shot,TIP_SHOTS,,2001
+Billy Owens,182,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2001

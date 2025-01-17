@@ -1,25 +1,56 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1627738,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2017
-1627738,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2017
-1627738,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2017
-1627738,Putback Dunk,2PT Field Goal,1,1,Putback Dunk Shot,DUNKS,1.0,2017
-1627738,Putback Layup,2PT Field Goal,1,1,Tip Layup Shot,LAYUPS,1.0,2017
-1627738,Alley Oop Dunk,2PT Field Goal,6,6,Alley Oop Dunk Shot,DUNKS,1.0,2018
-1627738,Alley Oop Layup,2PT Field Goal,3,0,Alley Oop Layup shot,LAYUPS,0.0,2018
-1627738,Standard Layup,2PT Field Goal,5,3,Cutting Layup Shot,LAYUPS,0.6,2018
-1627738,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,1.0,2018
-1627738,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2018
-1627738,Floating Jump Shot,2PT Field Goal,3,2,Floating Jump shot,FLOATING_SHOTS,0.6666666666666666,2018
-1627738,Jump Shot,2PT Field Goal,8,3,Jump Shot,JUMP_SHOTS,0.375,2018
-1627738,Standard Layup,2PT Field Goal,3,2,Layup Shot,LAYUPS,0.6666666666666666,2018
-1627738,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2018
-1627738,Reverse Dunk,2PT Field Goal,1,1,Reverse Dunk Shot,DUNKS,1.0,2018
-1627738,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2018
-1627738,Specialty Dunk,2PT Field Goal,1,1,Tip Dunk Shot,DUNKS,1.0,2018
-1627738,Putback Layup,2PT Field Goal,7,6,Tip Layup Shot,LAYUPS,0.8571428571428571,2018
-1627738,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2019
-1627738,Standard Dunk,2PT Field Goal,3,3,Dunk Shot,DUNKS,1.0,2019
-1627738,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2019
-1627738,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2019
-1627738,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2019
-1627738,Putback Layup,2PT Field Goal,1,0,Tip Layup Shot,LAYUPS,0.0,2019
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Deyonta Davis,1627738,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2017
+Deyonta Davis,1627738,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2017
+Deyonta Davis,1627738,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2017
+Deyonta Davis,1627738,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2017
+Deyonta Davis,1627738,Standard Dunk,2,5,5,Dunk Shot,DUNKS,,2017
+Deyonta Davis,1627738,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Deyonta Davis,1627738,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2017
+Deyonta Davis,1627738,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2017
+Deyonta Davis,1627738,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2017
+Deyonta Davis,1627738,Jump Shot,2,13,3,Jump Shot,JUMP_SHOTS,,2017
+Deyonta Davis,1627738,Standard Layup,2,5,2,Layup Shot,LAYUPS,,2017
+Deyonta Davis,1627738,Putback Dunk,2,4,3,Putback Dunk Shot,DUNKS,,2017
+Deyonta Davis,1627738,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2017
+Deyonta Davis,1627738,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2017
+Deyonta Davis,1627738,Putback Layup,2,9,3,Tip Layup Shot,LAYUPS,,2017
+Deyonta Davis,1627738,Alley Oop Dunk,2,31,30,Alley Oop Dunk Shot,DUNKS,,2018
+Deyonta Davis,1627738,Alley Oop Layup,2,24,12,Alley Oop Layup shot,LAYUPS,,2018
+Deyonta Davis,1627738,Specialty Dunk,2,11,11,Cutting Dunk Shot,DUNKS,,2018
+Deyonta Davis,1627738,Standard Layup,2,20,13,Cutting Layup Shot,LAYUPS,,2018
+Deyonta Davis,1627738,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2018
+Deyonta Davis,1627738,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Deyonta Davis,1627738,Driving Layup,2,2,0,Driving Layup Shot,LAYUPS,,2018
+Deyonta Davis,1627738,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2018
+Deyonta Davis,1627738,Floating Jump Shot,2,11,5,Floating Jump shot,FLOATING_SHOTS,,2018
+Deyonta Davis,1627738,Hook Shot,2,5,2,Hook Shot,POST_MOVES,,2018
+Deyonta Davis,1627738,Jump Shot,2,3,2,Jump Bank Shot,JUMP_SHOTS,,2018
+Deyonta Davis,1627738,Jump Shot,2,67,24,Jump Shot,JUMP_SHOTS,,2018
+Deyonta Davis,1627738,Standard Layup,2,19,13,Layup Shot,LAYUPS,,2018
+Deyonta Davis,1627738,Pullup Jump Shot,2,4,2,Pullup Jump shot,JUMP_SHOTS,,2018
+Deyonta Davis,1627738,Putback Layup,2,9,9,Putback Layup Shot,LAYUPS,,2018
+Deyonta Davis,1627738,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2018
+Deyonta Davis,1627738,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2018
+Deyonta Davis,1627738,Alley Oop Dunk,2,2,2,Running Alley Oop Dunk Shot,DUNKS,,2018
+Deyonta Davis,1627738,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2018
+Deyonta Davis,1627738,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2018
+Deyonta Davis,1627738,Standard Layup,2,4,3,Running Layup Shot,LAYUPS,,2018
+Deyonta Davis,1627738,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2018
+Deyonta Davis,1627738,Specialty Dunk,2,2,2,Tip Dunk Shot,DUNKS,,2018
+Deyonta Davis,1627738,Putback Layup,2,28,16,Tip Layup Shot,LAYUPS,,2018
+Deyonta Davis,1627738,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2018
+Deyonta Davis,1627738,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2018
+Deyonta Davis,1627738,Turnaround Hook Shot,2,6,2,Turnaround Hook Shot,POST_MOVES,,2018
+Deyonta Davis,1627738,Turnaround Jump Shot,2,4,2,Turnaround Jump Shot,JUMP_SHOTS,,2018
+Deyonta Davis,1627738,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2019
+Deyonta Davis,1627738,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2019
+Deyonta Davis,1627738,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2019
+Deyonta Davis,1627738,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2019
+Deyonta Davis,1627738,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2019
+Deyonta Davis,1627738,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2019
+Deyonta Davis,1627738,Floating Jump Shot,2,2,0,Floating Jump shot,FLOATING_SHOTS,,2019
+Deyonta Davis,1627738,Jump Shot,2,4,1,Jump Shot,JUMP_SHOTS,,2019
+Deyonta Davis,1627738,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2019
+Deyonta Davis,1627738,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2019
+Deyonta Davis,1627738,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2019
+Deyonta Davis,1627738,Putback Layup,2,3,2,Tip Layup Shot,LAYUPS,,2019

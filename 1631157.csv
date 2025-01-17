@@ -1,29 +1,43 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1631157,Finger Roll,2PT Field Goal,2,1,Driving Finger Roll Layup Shot,LAYUPS,0.5,2024
-1631157,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2024
-1631157,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2024
-1631157,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,2024
-1631157,Pullup Jump Shot,2PT Field Goal,2,0,Pullup Jump shot,JUMP_SHOTS,0.0,2024
-1631157,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2024
-1631157,Running Jump Shot,3PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.5,2024
-1631157,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2024
-1631157,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2024
-1631157,Specialty Dunk,2PT Field Goal,2,2,Cutting Dunk Shot,DUNKS,1.0,2025
-1631157,Finger Roll,2PT Field Goal,1,1,Cutting Finger Roll Layup Shot,LAYUPS,1.0,2025
-1631157,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2025
-1631157,Finger Roll,2PT Field Goal,4,3,Driving Finger Roll Layup Shot,LAYUPS,0.75,2025
-1631157,Floating Jump Shot,2PT Field Goal,4,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.25,2025
-1631157,Floating Jump Shot,2PT Field Goal,4,2,Driving Floating Jump Shot,FLOATING_SHOTS,0.5,2025
-1631157,Driving Layup,2PT Field Goal,13,7,Driving Layup Shot,LAYUPS,0.5384615384615384,2025
-1631157,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2025
-1631157,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2025
-1631157,Jump Shot,3PT Field Goal,24,10,Jump Shot,JUMP_SHOTS,0.625,2025
-1631157,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2025
-1631157,Pullup Jump Shot,2PT Field Goal,4,1,Pullup Jump shot,JUMP_SHOTS,0.25,2025
-1631157,Pullup Jump Shot,3PT Field Goal,4,2,Pullup Jump shot,JUMP_SHOTS,0.75,2025
-1631157,Running Jump Shot,3PT Field Goal,2,0,Running Jump Shot,JUMP_SHOTS,0.0,2025
-1631157,Standard Layup,2PT Field Goal,4,2,Running Layup Shot,LAYUPS,0.5,2025
-1631157,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2025
-1631157,Step Back Jump Shot,3PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2025
-1631157,Putback Layup,2PT Field Goal,2,2,Tip Layup Shot,LAYUPS,1.0,2025
-1631157,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,1.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Ryan Rollins,1631157,Floating Jump Shot,2,2,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Ryan Rollins,1631157,Driving Layup,2,2,1,Driving Layup Shot,LAYUPS,,2023
+Ryan Rollins,1631157,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2023
+Ryan Rollins,1631157,Jump Shot,2,8,3,Jump Shot,JUMP_SHOTS,,2023
+Ryan Rollins,1631157,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2023
+Ryan Rollins,1631157,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2023
+Ryan Rollins,1631157,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2023
+Ryan Rollins,1631157,Standard Layup,2,3,1,Running Layup Shot,LAYUPS,,2023
+Ryan Rollins,1631157,Putback Layup,2,1,1,Tip Layup Shot,LAYUPS,,2023
+Ryan Rollins,1631157,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Ryan Rollins,1631157,Driving Layup,2,7,4,Driving Layup Shot,LAYUPS,,2024
+Ryan Rollins,1631157,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2024
+Ryan Rollins,1631157,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2024
+Ryan Rollins,1631157,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2024
+Ryan Rollins,1631157,Jump Shot,3,3,2,Jump Shot,JUMP_SHOTS,,2024
+Ryan Rollins,1631157,Pullup Jump Shot,2,4,2,Pullup Jump shot,JUMP_SHOTS,,2024
+Ryan Rollins,1631157,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2024
+Ryan Rollins,1631157,Running Jump Shot,3,1,1,Running Jump Shot,JUMP_SHOTS,,2024
+Ryan Rollins,1631157,Standard Layup,2,2,0,Running Layup Shot,LAYUPS,,2024
+Ryan Rollins,1631157,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2024
+Ryan Rollins,1631157,Step Back Jump Shot,2,2,0,Step Back Jump shot,JUMP_SHOTS,,2024
+Ryan Rollins,1631157,Turnaround Jump Shot,2,1,0,Turnaround Bank shot,JUMP_SHOTS,,2024
+Ryan Rollins,1631157,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2025
+Ryan Rollins,1631157,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2025
+Ryan Rollins,1631157,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2025
+Ryan Rollins,1631157,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2025
+Ryan Rollins,1631157,Finger Roll,2,4,3,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Ryan Rollins,1631157,Floating Jump Shot,2,4,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2025
+Ryan Rollins,1631157,Floating Jump Shot,2,5,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Ryan Rollins,1631157,Driving Layup,2,13,7,Driving Layup Shot,LAYUPS,,2025
+Ryan Rollins,1631157,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2025
+Ryan Rollins,1631157,Jump Shot,2,2,1,Jump Shot,JUMP_SHOTS,,2025
+Ryan Rollins,1631157,Jump Shot,3,28,12,Jump Shot,JUMP_SHOTS,,2025
+Ryan Rollins,1631157,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2025
+Ryan Rollins,1631157,Pullup Jump Shot,2,6,2,Pullup Jump shot,JUMP_SHOTS,,2025
+Ryan Rollins,1631157,Pullup Jump Shot,3,5,2,Pullup Jump shot,JUMP_SHOTS,,2025
+Ryan Rollins,1631157,Running Jump Shot,3,2,0,Running Jump Shot,JUMP_SHOTS,,2025
+Ryan Rollins,1631157,Standard Layup,2,6,4,Running Layup Shot,LAYUPS,,2025
+Ryan Rollins,1631157,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2025
+Ryan Rollins,1631157,Step Back Jump Shot,3,2,0,Step Back Jump shot,JUMP_SHOTS,,2025
+Ryan Rollins,1631157,Putback Layup,2,2,2,Tip Layup Shot,LAYUPS,,2025
+Ryan Rollins,1631157,Turnaround Jump Shot,2,2,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2025

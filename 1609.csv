@@ -1,10 +1,33 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1609,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2002
-1609,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2002
-1609,Hook Shot,2PT Field Goal,8,2,Hook Shot,POST_MOVES,0.25,2002
-1609,Jump Shot,2PT Field Goal,15,3,Jump Shot,JUMP_SHOTS,0.2,2002
-1609,Standard Layup,2PT Field Goal,6,2,Layup Shot,LAYUPS,0.3333333333333333,2002
-1609,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2002
-1609,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2002
-1609,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2002
-1609,Tip Shot,2PT Field Goal,5,2,Tip Shot,TIP_SHOTS,0.4,2002
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Art Long,1609,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2001
+Art Long,1609,Jump Shot,2,3,0,Jump Shot,JUMP_SHOTS,,2001
+Art Long,1609,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2002
+Art Long,1609,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2002
+Art Long,1609,Driving Layup,2,6,6,Driving Layup Shot,LAYUPS,,2002
+Art Long,1609,Standard Dunk,2,15,9,Dunk Shot,DUNKS,,2002
+Art Long,1609,Specialty Dunk,2,8,7,Follow Up Dunk Shot,DUNKS,,2002
+Art Long,1609,Hook Shot,2,22,11,Hook Shot,POST_MOVES,,2002
+Art Long,1609,Jump Shot,2,92,30,Jump Shot,JUMP_SHOTS,,2002
+Art Long,1609,Standard Layup,2,58,28,Layup Shot,LAYUPS,,2002
+Art Long,1609,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2002
+Art Long,1609,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2002
+Art Long,1609,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2002
+Art Long,1609,Standard Dunk,2,12,12,Slam Dunk Shot,DUNKS,,2002
+Art Long,1609,Tip Shot,2,21,9,Tip Shot,TIP_SHOTS,,2002
+Art Long,1609,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2002
+Art Long,1609,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Art Long,1609,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2003
+Art Long,1609,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2003
+Art Long,1609,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2003
+Art Long,1609,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Art Long,1609,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2003
+Art Long,1609,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2003
+Art Long,1609,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2003
+Art Long,1609,Jump Shot,2,33,7,Jump Shot,JUMP_SHOTS,,2003
+Art Long,1609,Jump Shot,3,3,2,Jump Shot,JUMP_SHOTS,,2003
+Art Long,1609,Standard Layup,2,20,6,Layup Shot,LAYUPS,,2003
+Art Long,1609,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2003
+Art Long,1609,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2003
+Art Long,1609,Tip Shot,2,5,4,Tip Shot,TIP_SHOTS,,2003
+Art Long,1609,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2003
+Art Long,1609,Turnaround Jump Shot,2,3,2,Turnaround Jump Shot,JUMP_SHOTS,,2003

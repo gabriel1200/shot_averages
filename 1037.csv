@@ -1,13 +1,19 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1037,Standard Dunk,2PT Field Goal,1,0,Dunk Shot,DUNKS,0.0,1997
-1037,Hook Shot,2PT Field Goal,7,3,Hook Shot,POST_MOVES,0.4285714285714285,1997
-1037,Jump Shot,2PT Field Goal,7,2,Jump Shot,JUMP_SHOTS,0.2857142857142857,1997
-1037,Standard Layup,2PT Field Goal,10,5,Layup Shot,LAYUPS,0.5,1997
-1037,Standard Dunk,2PT Field Goal,2,2,Slam Dunk Shot,DUNKS,1.0,1997
-1037,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,1997
-1037,Standard Dunk,2PT Field Goal,4,4,Dunk Shot,DUNKS,1.0,1998
-1037,Hook Shot,2PT Field Goal,19,10,Hook Shot,POST_MOVES,0.5263157894736842,1998
-1037,Jump Shot,2PT Field Goal,17,6,Jump Shot,JUMP_SHOTS,0.3529411764705882,1998
-1037,Standard Layup,2PT Field Goal,12,7,Layup Shot,LAYUPS,0.5833333333333334,1998
-1037,Standard Dunk,2PT Field Goal,3,3,Slam Dunk Shot,DUNKS,1.0,1998
-1037,Tip Shot,2PT Field Goal,6,2,Tip Shot,TIP_SHOTS,0.3333333333333333,1998
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Stojko Vrankovic,1037,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,1997
+Stojko Vrankovic,1037,Standard Dunk,2,10,8,Dunk Shot,DUNKS,,1997
+Stojko Vrankovic,1037,Hook Shot,2,40,20,Hook Shot,POST_MOVES,,1997
+Stojko Vrankovic,1037,Jump Shot,2,22,6,Jump Shot,JUMP_SHOTS,,1997
+Stojko Vrankovic,1037,Standard Layup,2,38,20,Layup Shot,LAYUPS,,1997
+Stojko Vrankovic,1037,Standard Dunk,2,15,15,Slam Dunk Shot,DUNKS,,1997
+Stojko Vrankovic,1037,Tip Shot,2,13,8,Tip Shot,TIP_SHOTS,,1997
+Stojko Vrankovic,1037,Driving Layup,2,4,3,Driving Layup Shot,LAYUPS,,1998
+Stojko Vrankovic,1037,Standard Dunk,2,6,6,Dunk Shot,DUNKS,,1998
+Stojko Vrankovic,1037,Hook Shot,2,60,25,Hook Shot,POST_MOVES,,1998
+Stojko Vrankovic,1037,Jump Shot,2,52,10,Jump Shot,JUMP_SHOTS,,1998
+Stojko Vrankovic,1037,Standard Layup,2,27,15,Layup Shot,LAYUPS,,1998
+Stojko Vrankovic,1037,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,1998
+Stojko Vrankovic,1037,Standard Dunk,2,10,9,Slam Dunk Shot,DUNKS,,1998
+Stojko Vrankovic,1037,Tip Shot,2,25,10,Tip Shot,TIP_SHOTS,,1998
+Stojko Vrankovic,1037,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,1999
+Stojko Vrankovic,1037,Standard Layup,2,1,0,Layup Shot,LAYUPS,,1999
+Stojko Vrankovic,1037,Tip Shot,2,2,0,Tip Shot,TIP_SHOTS,,1999

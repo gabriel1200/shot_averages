@@ -1,47 +1,75 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1751,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,1999
-1751,Standard Dunk,2PT Field Goal,3,3,Dunk Shot,DUNKS,1.0,2000
-1751,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,2000
-1751,Jump Shot,2PT Field Goal,6,0,Jump Shot,JUMP_SHOTS,0.0,2000
-1751,Standard Layup,2PT Field Goal,17,8,Layup Shot,LAYUPS,0.4705882352941176,2000
-1751,Standard Dunk,2PT Field Goal,7,7,Slam Dunk Shot,DUNKS,1.0,2000
-1751,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2001
-1751,Standard Dunk,2PT Field Goal,4,4,Dunk Shot,DUNKS,1.0,2001
-1751,Hook Shot,2PT Field Goal,2,2,Hook Shot,POST_MOVES,1.0,2001
-1751,Jump Shot,2PT Field Goal,23,4,Jump Shot,JUMP_SHOTS,0.1739130434782608,2001
-1751,Standard Layup,2PT Field Goal,40,15,Layup Shot,LAYUPS,0.375,2001
-1751,Standard Dunk,2PT Field Goal,13,12,Slam Dunk Shot,DUNKS,0.9230769230769232,2001
-1751,Tip Shot,2PT Field Goal,3,2,Tip Shot,TIP_SHOTS,0.6666666666666666,2001
-1751,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2001
-1751,Driving Dunk,2PT Field Goal,2,2,Driving Dunk Shot,DUNKS,1.0,2002
-1751,Standard Dunk,2PT Field Goal,13,12,Dunk Shot,DUNKS,0.9230769230769232,2002
-1751,Specialty Dunk,2PT Field Goal,2,2,Follow Up Dunk Shot,DUNKS,1.0,2002
-1751,Hook Shot,2PT Field Goal,5,3,Hook Shot,POST_MOVES,0.6,2002
-1751,Hook Shot,2PT Field Goal,1,1,Jump Hook Shot,POST_MOVES,1.0,2002
-1751,Jump Shot,2PT Field Goal,9,1,Jump Shot,JUMP_SHOTS,0.1111111111111111,2002
-1751,Standard Layup,2PT Field Goal,33,13,Layup Shot,LAYUPS,0.3939393939393939,2002
-1751,Reverse Dunk,2PT Field Goal,1,1,Reverse Dunk Shot,DUNKS,1.0,2002
-1751,Reverse Layup,2PT Field Goal,3,3,Reverse Layup Shot,LAYUPS,1.0,2002
-1751,Standard Dunk,2PT Field Goal,19,19,Slam Dunk Shot,DUNKS,1.0,2002
-1751,Tip Shot,2PT Field Goal,3,1,Tip Shot,TIP_SHOTS,0.3333333333333333,2002
-1751,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2002
-1751,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2003
-1751,Standard Layup,2PT Field Goal,3,3,Layup Shot,LAYUPS,1.0,2003
-1751,Driving Dunk,2PT Field Goal,2,2,Driving Dunk Shot,DUNKS,1.0,2004
-1751,Driving Layup,2PT Field Goal,3,3,Driving Layup Shot,LAYUPS,1.0,2004
-1751,Standard Dunk,2PT Field Goal,22,17,Dunk Shot,DUNKS,0.7727272727272727,2004
-1751,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2004
-1751,Specialty Dunk,2PT Field Goal,4,4,Follow Up Dunk Shot,DUNKS,1.0,2004
-1751,Hook Shot,2PT Field Goal,5,4,Hook Shot,POST_MOVES,0.8,2004
-1751,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2004
-1751,Jump Shot,2PT Field Goal,27,6,Jump Shot,JUMP_SHOTS,0.2222222222222222,2004
-1751,Standard Layup,2PT Field Goal,86,43,Layup Shot,LAYUPS,0.5,2004
-1751,Reverse Layup,2PT Field Goal,4,4,Reverse Layup Shot,LAYUPS,1.0,2004
-1751,Standard Dunk,2PT Field Goal,4,4,Slam Dunk Shot,DUNKS,1.0,2004
-1751,Tip Shot,2PT Field Goal,26,9,Tip Shot,TIP_SHOTS,0.3461538461538461,2004
-1751,Turnaround Hook Shot,2PT Field Goal,2,0,Turnaround Hook Shot,POST_MOVES,0.0,2004
-1751,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2004
-1751,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,2005
-1751,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2005
-1751,Standard Layup,2PT Field Goal,10,5,Layup Shot,LAYUPS,0.5,2005
-1751,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2005
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Jahidi White,1751,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,1999
+Jahidi White,1751,Jump Shot,2,9,1,Jump Shot,JUMP_SHOTS,,1999
+Jahidi White,1751,Standard Layup,2,14,11,Layup Shot,LAYUPS,,1999
+Jahidi White,1751,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,1999
+Jahidi White,1751,Tip Shot,2,6,2,Tip Shot,TIP_SHOTS,,1999
+Jahidi White,1751,Driving Dunk,2,5,5,Driving Dunk Shot,DUNKS,,2000
+Jahidi White,1751,Driving Layup,2,3,1,Driving Layup Shot,LAYUPS,,2000
+Jahidi White,1751,Standard Dunk,2,38,33,Dunk Shot,DUNKS,,2000
+Jahidi White,1751,Hook Shot,2,34,22,Hook Shot,POST_MOVES,,2000
+Jahidi White,1751,Jump Shot,2,87,12,Jump Shot,JUMP_SHOTS,,2000
+Jahidi White,1751,Standard Layup,2,189,80,Layup Shot,LAYUPS,,2000
+Jahidi White,1751,Standard Dunk,2,66,64,Slam Dunk Shot,DUNKS,,2000
+Jahidi White,1751,Tip Shot,2,28,11,Tip Shot,TIP_SHOTS,,2000
+Jahidi White,1751,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2001
+Jahidi White,1751,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2001
+Jahidi White,1751,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2001
+Jahidi White,1751,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,2001
+Jahidi White,1751,Standard Dunk,2,26,21,Dunk Shot,DUNKS,,2001
+Jahidi White,1751,Hook Shot,2,13,11,Hook Shot,POST_MOVES,,2001
+Jahidi White,1751,Jump Shot,2,102,22,Jump Shot,JUMP_SHOTS,,2001
+Jahidi White,1751,Standard Layup,2,180,73,Layup Shot,LAYUPS,,2001
+Jahidi White,1751,Reverse Dunk,2,3,3,Reverse Dunk Shot,DUNKS,,2001
+Jahidi White,1751,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2001
+Jahidi White,1751,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2001
+Jahidi White,1751,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2001
+Jahidi White,1751,Standard Dunk,2,48,47,Slam Dunk Shot,DUNKS,,2001
+Jahidi White,1751,Tip Shot,2,21,12,Tip Shot,TIP_SHOTS,,2001
+Jahidi White,1751,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2001
+Jahidi White,1751,Turnaround Jump Shot,2,3,3,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Jahidi White,1751,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2002
+Jahidi White,1751,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2002
+Jahidi White,1751,Standard Dunk,2,42,40,Dunk Shot,DUNKS,,2002
+Jahidi White,1751,Specialty Dunk,2,4,4,Follow Up Dunk Shot,DUNKS,,2002
+Jahidi White,1751,Hook Shot,2,10,5,Hook Shot,POST_MOVES,,2002
+Jahidi White,1751,Hook Shot,2,2,1,Jump Hook Shot,POST_MOVES,,2002
+Jahidi White,1751,Jump Shot,2,51,5,Jump Shot,JUMP_SHOTS,,2002
+Jahidi White,1751,Standard Layup,2,96,36,Layup Shot,LAYUPS,,2002
+Jahidi White,1751,Reverse Dunk,2,2,2,Reverse Dunk Shot,DUNKS,,2002
+Jahidi White,1751,Reverse Layup,2,7,7,Reverse Layup Shot,LAYUPS,,2002
+Jahidi White,1751,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2002
+Jahidi White,1751,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2002
+Jahidi White,1751,Standard Dunk,2,37,37,Slam Dunk Shot,DUNKS,,2002
+Jahidi White,1751,Tip Shot,2,21,8,Tip Shot,TIP_SHOTS,,2002
+Jahidi White,1751,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Jahidi White,1751,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2003
+Jahidi White,1751,Standard Dunk,2,5,5,Dunk Shot,DUNKS,,2003
+Jahidi White,1751,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2003
+Jahidi White,1751,Hook Shot,2,3,1,Hook Shot,POST_MOVES,,2003
+Jahidi White,1751,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2003
+Jahidi White,1751,Jump Shot,2,5,1,Jump Shot,JUMP_SHOTS,,2003
+Jahidi White,1751,Standard Layup,2,30,12,Layup Shot,LAYUPS,,2003
+Jahidi White,1751,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2003
+Jahidi White,1751,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2003
+Jahidi White,1751,Tip Shot,2,2,0,Tip Shot,TIP_SHOTS,,2003
+Jahidi White,1751,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Jahidi White,1751,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2004
+Jahidi White,1751,Driving Layup,2,3,3,Driving Layup Shot,LAYUPS,,2004
+Jahidi White,1751,Standard Dunk,2,22,17,Dunk Shot,DUNKS,,2004
+Jahidi White,1751,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Jahidi White,1751,Specialty Dunk,2,4,4,Follow Up Dunk Shot,DUNKS,,2004
+Jahidi White,1751,Hook Shot,2,5,4,Hook Shot,POST_MOVES,,2004
+Jahidi White,1751,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2004
+Jahidi White,1751,Jump Shot,2,27,6,Jump Shot,JUMP_SHOTS,,2004
+Jahidi White,1751,Standard Layup,2,88,43,Layup Shot,LAYUPS,,2004
+Jahidi White,1751,Reverse Layup,2,4,4,Reverse Layup Shot,LAYUPS,,2004
+Jahidi White,1751,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2004
+Jahidi White,1751,Tip Shot,2,26,9,Tip Shot,TIP_SHOTS,,2004
+Jahidi White,1751,Turnaround Hook Shot,2,2,0,Turnaround Hook Shot,POST_MOVES,,2004
+Jahidi White,1751,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Jahidi White,1751,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2005
+Jahidi White,1751,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2005
+Jahidi White,1751,Standard Layup,2,22,10,Layup Shot,LAYUPS,,2005
+Jahidi White,1751,Reverse Layup,2,2,0,Reverse Layup Shot,LAYUPS,,2005
+Jahidi White,1751,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,,2005

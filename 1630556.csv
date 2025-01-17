@@ -1,16 +1,71 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1630556,Specialty Dunk,2PT Field Goal,2,1,Cutting Dunk Shot,DUNKS,0.5,2022
-1630556,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2022
-1630556,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2022
-1630556,Jump Shot,3PT Field Goal,5,1,Jump Shot,JUMP_SHOTS,0.3,2022
-1630556,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2022
-1630556,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2022
-1630556,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2024
-1630556,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2024
-1630556,Jump Shot,3PT Field Goal,5,1,Jump Shot,JUMP_SHOTS,0.3,2024
-1630556,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2024
-1630556,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2024
-1630556,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2025
-1630556,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2025
-1630556,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2025
-1630556,Step Back Jump Shot,3PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Kessler Edwards,1630556,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2022
+Kessler Edwards,1630556,Specialty Dunk,2,9,6,Cutting Dunk Shot,DUNKS,,2022
+Kessler Edwards,1630556,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2022
+Kessler Edwards,1630556,Standard Layup,2,6,2,Cutting Layup Shot,LAYUPS,,2022
+Kessler Edwards,1630556,Driving Dunk,2,6,4,Driving Dunk Shot,DUNKS,,2022
+Kessler Edwards,1630556,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Kessler Edwards,1630556,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Kessler Edwards,1630556,Floating Jump Shot,2,7,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Kessler Edwards,1630556,Driving Layup,2,10,2,Driving Layup Shot,LAYUPS,,2022
+Kessler Edwards,1630556,Standard Dunk,2,3,2,Dunk Shot,DUNKS,,2022
+Kessler Edwards,1630556,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Kessler Edwards,1630556,Floating Jump Shot,2,6,4,Floating Jump shot,FLOATING_SHOTS,,2022
+Kessler Edwards,1630556,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2022
+Kessler Edwards,1630556,Jump Shot,2,109,40,Jump Shot,JUMP_SHOTS,,2022
+Kessler Edwards,1630556,Jump Shot,3,24,6,Jump Shot,JUMP_SHOTS,,2022
+Kessler Edwards,1630556,Standard Layup,2,10,2,Layup Shot,LAYUPS,,2022
+Kessler Edwards,1630556,Pullup Jump Shot,2,23,13,Pullup Jump shot,JUMP_SHOTS,,2022
+Kessler Edwards,1630556,Putback Layup,2,3,2,Putback Layup Shot,LAYUPS,,2022
+Kessler Edwards,1630556,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2022
+Kessler Edwards,1630556,Standard Dunk,2,3,2,Running Dunk Shot,DUNKS,,2022
+Kessler Edwards,1630556,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2022
+Kessler Edwards,1630556,Running Jump Shot,2,6,3,Running Jump Shot,JUMP_SHOTS,,2022
+Kessler Edwards,1630556,Standard Layup,2,12,5,Running Layup Shot,LAYUPS,,2022
+Kessler Edwards,1630556,Running Jump Shot,2,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
+Kessler Edwards,1630556,Specialty Dunk,2,2,2,Tip Dunk Shot,DUNKS,,2022
+Kessler Edwards,1630556,Putback Layup,2,14,5,Tip Layup Shot,LAYUPS,,2022
+Kessler Edwards,1630556,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2022
+Kessler Edwards,1630556,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2022
+Kessler Edwards,1630556,Specialty Dunk,2,3,3,Cutting Dunk Shot,DUNKS,,2023
+Kessler Edwards,1630556,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2023
+Kessler Edwards,1630556,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2023
+Kessler Edwards,1630556,Finger Roll,2,2,0,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Kessler Edwards,1630556,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Kessler Edwards,1630556,Driving Layup,2,3,1,Driving Layup Shot,LAYUPS,,2023
+Kessler Edwards,1630556,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2023
+Kessler Edwards,1630556,Jump Shot,2,53,17,Jump Shot,JUMP_SHOTS,,2023
+Kessler Edwards,1630556,Standard Layup,2,1,1,Layup Shot,LAYUPS,,2023
+Kessler Edwards,1630556,Pullup Jump Shot,2,5,1,Pullup Jump shot,JUMP_SHOTS,,2023
+Kessler Edwards,1630556,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2023
+Kessler Edwards,1630556,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2023
+Kessler Edwards,1630556,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2023
+Kessler Edwards,1630556,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2023
+Kessler Edwards,1630556,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2023
+Kessler Edwards,1630556,Standard Layup,2,4,2,Running Layup Shot,LAYUPS,,2023
+Kessler Edwards,1630556,Running Jump Shot,2,2,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2023
+Kessler Edwards,1630556,Putback Layup,2,5,2,Tip Layup Shot,LAYUPS,,2023
+Kessler Edwards,1630556,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2023
+Kessler Edwards,1630556,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2023
+Kessler Edwards,1630556,Specialty Dunk,2,1,0,Cutting Dunk Shot,DUNKS,,2024
+Kessler Edwards,1630556,Standard Layup,2,5,3,Cutting Layup Shot,LAYUPS,,2024
+Kessler Edwards,1630556,Floating Jump Shot,2,2,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Kessler Edwards,1630556,Driving Layup,2,3,0,Driving Layup Shot,LAYUPS,,2024
+Kessler Edwards,1630556,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2024
+Kessler Edwards,1630556,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2024
+Kessler Edwards,1630556,Jump Shot,2,4,2,Jump Shot,JUMP_SHOTS,,2024
+Kessler Edwards,1630556,Jump Shot,3,48,20,Jump Shot,JUMP_SHOTS,,2024
+Kessler Edwards,1630556,Standard Layup,2,2,0,Layup Shot,LAYUPS,,2024
+Kessler Edwards,1630556,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2024
+Kessler Edwards,1630556,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2024
+Kessler Edwards,1630556,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2024
+Kessler Edwards,1630556,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2024
+Kessler Edwards,1630556,Running Jump Shot,3,3,0,Running Jump Shot,JUMP_SHOTS,,2024
+Kessler Edwards,1630556,Standard Layup,2,4,3,Running Layup Shot,LAYUPS,,2024
+Kessler Edwards,1630556,Running Jump Shot,3,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Kessler Edwards,1630556,Putback Layup,2,1,0,Tip Layup Shot,LAYUPS,,2024
+Kessler Edwards,1630556,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Kessler Edwards,1630556,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,2025
+Kessler Edwards,1630556,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2025
+Kessler Edwards,1630556,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2025
+Kessler Edwards,1630556,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2025

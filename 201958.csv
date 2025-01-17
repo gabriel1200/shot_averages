@@ -1,8 +1,102 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-201958,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2010
-201958,Jump Shot,2PT Field Goal,2,2,Jump Shot,JUMP_SHOTS,1.0,2010
-201958,Jump Shot,3PT Field Goal,2,2,Jump Shot,JUMP_SHOTS,1.5,2010
-201958,Running Jump Shot,2PT Field Goal,1,1,Running Bank shot,JUMP_SHOTS,1.0,2010
-201958,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2010
-201958,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2013
-201958,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2013
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Rodrigue Beaubois,201958,Alley Oop Dunk,2,9,9,Alley Oop Dunk Shot,DUNKS,,2010
+Rodrigue Beaubois,201958,Alley Oop Layup,2,4,3,Alley Oop Layup shot,LAYUPS,,2010
+Rodrigue Beaubois,201958,Driving Jump Shot,2,1,0,Driving Bank shot,JUMP_SHOTS,,2010
+Rodrigue Beaubois,201958,Finger Roll,2,3,3,Driving Finger Roll Layup Shot,LAYUPS,,2010
+Rodrigue Beaubois,201958,Driving Jump Shot,2,5,2,Driving Jump shot,JUMP_SHOTS,,2010
+Rodrigue Beaubois,201958,Driving Layup,2,45,32,Driving Layup Shot,LAYUPS,,2010
+Rodrigue Beaubois,201958,Driving Layup,2,4,3,Driving Reverse Layup Shot,LAYUPS,,2010
+Rodrigue Beaubois,201958,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2010
+Rodrigue Beaubois,201958,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+Rodrigue Beaubois,201958,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2010
+Rodrigue Beaubois,201958,Floating Jump Shot,2,6,3,Floating Jump shot,FLOATING_SHOTS,,2010
+Rodrigue Beaubois,201958,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2010
+Rodrigue Beaubois,201958,Jump Shot,2,143,54,Jump Shot,JUMP_SHOTS,,2010
+Rodrigue Beaubois,201958,Jump Shot,3,2,2,Jump Shot,JUMP_SHOTS,,2010
+Rodrigue Beaubois,201958,Standard Layup,2,29,15,Layup Shot,LAYUPS,,2010
+Rodrigue Beaubois,201958,Pullup Jump Shot,2,13,9,Pullup Jump shot,JUMP_SHOTS,,2010
+Rodrigue Beaubois,201958,Putback Dunk,2,1,1,Putback Slam Dunk Shot,DUNKS,,2010
+Rodrigue Beaubois,201958,Reverse Layup,2,4,2,Reverse Layup Shot,LAYUPS,,2010
+Rodrigue Beaubois,201958,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2010
+Rodrigue Beaubois,201958,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2010
+Rodrigue Beaubois,201958,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2010
+Rodrigue Beaubois,201958,Running Jump Shot,2,13,5,Running Jump Shot,JUMP_SHOTS,,2010
+Rodrigue Beaubois,201958,Standard Layup,2,4,2,Running Layup Shot,LAYUPS,,2010
+Rodrigue Beaubois,201958,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2010
+Rodrigue Beaubois,201958,Step Back Jump Shot,2,3,1,Step Back Jump shot,JUMP_SHOTS,,2010
+Rodrigue Beaubois,201958,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2010
+Rodrigue Beaubois,201958,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2010
+Rodrigue Beaubois,201958,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2011
+Rodrigue Beaubois,201958,Driving Jump Shot,2,2,2,Driving Bank shot,JUMP_SHOTS,,2011
+Rodrigue Beaubois,201958,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2011
+Rodrigue Beaubois,201958,Driving Jump Shot,2,6,0,Driving Jump shot,JUMP_SHOTS,,2011
+Rodrigue Beaubois,201958,Driving Layup,2,26,16,Driving Layup Shot,LAYUPS,,2011
+Rodrigue Beaubois,201958,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2011
+Rodrigue Beaubois,201958,Fadeaway Jump Shot,2,3,0,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Rodrigue Beaubois,201958,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2011
+Rodrigue Beaubois,201958,Floating Jump Shot,2,5,3,Floating Jump shot,FLOATING_SHOTS,,2011
+Rodrigue Beaubois,201958,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2011
+Rodrigue Beaubois,201958,Jump Shot,2,114,32,Jump Shot,JUMP_SHOTS,,2011
+Rodrigue Beaubois,201958,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2011
+Rodrigue Beaubois,201958,Standard Layup,2,24,13,Layup Shot,LAYUPS,,2011
+Rodrigue Beaubois,201958,Pullup Jump Shot,2,13,6,Pullup Jump shot,JUMP_SHOTS,,2011
+Rodrigue Beaubois,201958,Reverse Layup,2,4,4,Reverse Layup Shot,LAYUPS,,2011
+Rodrigue Beaubois,201958,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2011
+Rodrigue Beaubois,201958,Running Jump Shot,2,8,4,Running Jump Shot,JUMP_SHOTS,,2011
+Rodrigue Beaubois,201958,Standard Layup,2,5,5,Running Layup Shot,LAYUPS,,2011
+Rodrigue Beaubois,201958,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2011
+Rodrigue Beaubois,201958,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2011
+Rodrigue Beaubois,201958,Alley Oop Dunk,2,5,4,Alley Oop Dunk Shot,DUNKS,,2012
+Rodrigue Beaubois,201958,Driving Jump Shot,2,2,0,Driving Bank shot,JUMP_SHOTS,,2012
+Rodrigue Beaubois,201958,Finger Roll,2,5,4,Driving Finger Roll Layup Shot,LAYUPS,,2012
+Rodrigue Beaubois,201958,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2012
+Rodrigue Beaubois,201958,Driving Jump Shot,2,7,5,Driving Jump shot,JUMP_SHOTS,,2012
+Rodrigue Beaubois,201958,Driving Layup,2,45,27,Driving Layup Shot,LAYUPS,,2012
+Rodrigue Beaubois,201958,Driving Layup,2,4,2,Driving Reverse Layup Shot,LAYUPS,,2012
+Rodrigue Beaubois,201958,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2012
+Rodrigue Beaubois,201958,Fadeaway Jump Shot,2,4,1,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Rodrigue Beaubois,201958,Finger Roll,2,3,1,Finger Roll Layup Shot,LAYUPS,,2012
+Rodrigue Beaubois,201958,Floating Jump Shot,2,14,7,Floating Jump shot,FLOATING_SHOTS,,2012
+Rodrigue Beaubois,201958,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2012
+Rodrigue Beaubois,201958,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2012
+Rodrigue Beaubois,201958,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2012
+Rodrigue Beaubois,201958,Jump Shot,2,222,66,Jump Shot,JUMP_SHOTS,,2012
+Rodrigue Beaubois,201958,Standard Layup,2,35,18,Layup Shot,LAYUPS,,2012
+Rodrigue Beaubois,201958,Pullup Jump Shot,2,1,0,Pullup Bank shot,JUMP_SHOTS,,2012
+Rodrigue Beaubois,201958,Pullup Jump Shot,2,26,12,Pullup Jump shot,JUMP_SHOTS,,2012
+Rodrigue Beaubois,201958,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2012
+Rodrigue Beaubois,201958,Putback Dunk,2,1,1,Putback Slam Dunk Shot,DUNKS,,2012
+Rodrigue Beaubois,201958,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2012
+Rodrigue Beaubois,201958,Reverse Dunk,2,2,2,Reverse Slam Dunk Shot,DUNKS,,2012
+Rodrigue Beaubois,201958,Running Hook Shot,2,1,1,Running Bank Hook Shot,POST_MOVES,,2012
+Rodrigue Beaubois,201958,Running Jump Shot,2,4,3,Running Bank shot,JUMP_SHOTS,,2012
+Rodrigue Beaubois,201958,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2012
+Rodrigue Beaubois,201958,Finger Roll,2,2,2,Running Finger Roll Layup Shot,LAYUPS,,2012
+Rodrigue Beaubois,201958,Running Jump Shot,2,27,12,Running Jump Shot,JUMP_SHOTS,,2012
+Rodrigue Beaubois,201958,Standard Layup,2,8,6,Running Layup Shot,LAYUPS,,2012
+Rodrigue Beaubois,201958,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2012
+Rodrigue Beaubois,201958,Standard Dunk,2,2,1,Running Slam Dunk Shot,DUNKS,,2012
+Rodrigue Beaubois,201958,Tip Shot,2,1,0,Running Tip Shot,TIP_SHOTS,,2012
+Rodrigue Beaubois,201958,Standard Dunk,2,1,0,Slam Dunk Shot,DUNKS,,2012
+Rodrigue Beaubois,201958,Step Back Jump Shot,2,5,2,Step Back Jump shot,JUMP_SHOTS,,2012
+Rodrigue Beaubois,201958,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2012
+Rodrigue Beaubois,201958,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Rodrigue Beaubois,201958,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2013
+Rodrigue Beaubois,201958,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2013
+Rodrigue Beaubois,201958,Driving Jump Shot,2,5,2,Driving Jump shot,JUMP_SHOTS,,2013
+Rodrigue Beaubois,201958,Driving Layup,2,14,9,Driving Layup Shot,LAYUPS,,2013
+Rodrigue Beaubois,201958,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2013
+Rodrigue Beaubois,201958,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2013
+Rodrigue Beaubois,201958,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Rodrigue Beaubois,201958,Floating Jump Shot,2,8,3,Floating Jump shot,FLOATING_SHOTS,,2013
+Rodrigue Beaubois,201958,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2013
+Rodrigue Beaubois,201958,Jump Shot,2,100,29,Jump Shot,JUMP_SHOTS,,2013
+Rodrigue Beaubois,201958,Standard Layup,2,7,4,Layup Shot,LAYUPS,,2013
+Rodrigue Beaubois,201958,Pullup Jump Shot,2,15,4,Pullup Jump shot,JUMP_SHOTS,,2013
+Rodrigue Beaubois,201958,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2013
+Rodrigue Beaubois,201958,Running Jump Shot,2,4,2,Running Jump Shot,JUMP_SHOTS,,2013
+Rodrigue Beaubois,201958,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2013
+Rodrigue Beaubois,201958,Standard Layup,2,7,4,Running Layup Shot,LAYUPS,,2013
+Rodrigue Beaubois,201958,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2013
+Rodrigue Beaubois,201958,Step Back Jump Shot,2,5,2,Step Back Jump shot,JUMP_SHOTS,,2013
+Rodrigue Beaubois,201958,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2013

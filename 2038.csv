@@ -1,38 +1,154 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-2038,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Shot,LAYUPS,1.0,2001
-2038,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2001
-2038,Standard Dunk,2PT Field Goal,3,2,Dunk Shot,DUNKS,0.6666666666666666,2001
-2038,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2001
-2038,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2001
-2038,Standard Layup,2PT Field Goal,3,2,Layup Shot,LAYUPS,0.6666666666666666,2001
-2038,Tip Shot,2PT Field Goal,3,0,Tip Shot,TIP_SHOTS,0.0,2001
-2038,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2002
-2038,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2003
-2038,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2003
-2038,Standard Layup,2PT Field Goal,8,3,Layup Shot,LAYUPS,0.375,2003
-2038,Standard Dunk,2PT Field Goal,13,12,Dunk Shot,DUNKS,0.9230769230769232,2005
-2038,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2005
-2038,Specialty Dunk,2PT Field Goal,1,1,Follow Up Dunk Shot,DUNKS,1.0,2005
-2038,Hook Shot,2PT Field Goal,1,0,Hook Bank Shot,POST_MOVES,0.0,2005
-2038,Hook Shot,2PT Field Goal,5,2,Hook Shot,POST_MOVES,0.4,2005
-2038,Jump Shot,2PT Field Goal,14,2,Jump Shot,JUMP_SHOTS,0.1428571428571428,2005
-2038,Standard Layup,2PT Field Goal,21,10,Layup Shot,LAYUPS,0.4761904761904761,2005
-2038,Reverse Layup,2PT Field Goal,2,0,Reverse Layup Shot,LAYUPS,0.0,2005
-2038,Running Hook Shot,2PT Field Goal,1,1,Running Hook Shot,POST_MOVES,1.0,2005
-2038,Standard Dunk,2PT Field Goal,2,2,Slam Dunk Shot,DUNKS,1.0,2005
-2038,Tip Shot,2PT Field Goal,3,1,Tip Shot,TIP_SHOTS,0.3333333333333333,2005
-2038,Turnaround Jump Shot,2PT Field Goal,2,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2005
-2038,Driving Dunk,2PT Field Goal,2,2,Driving Dunk Shot,DUNKS,1.0,2006
-2038,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2006
-2038,Standard Dunk,2PT Field Goal,15,12,Dunk Shot,DUNKS,0.8,2006
-2038,Specialty Dunk,2PT Field Goal,1,1,Follow Up Dunk Shot,DUNKS,1.0,2006
-2038,Hook Shot,2PT Field Goal,1,1,Hook Bank Shot,POST_MOVES,1.0,2006
-2038,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,2006
-2038,Hook Shot,2PT Field Goal,3,1,Jump Hook Shot,POST_MOVES,0.3333333333333333,2006
-2038,Jump Shot,2PT Field Goal,9,1,Jump Shot,JUMP_SHOTS,0.1111111111111111,2006
-2038,Standard Layup,2PT Field Goal,23,14,Layup Shot,LAYUPS,0.6086956521739131,2006
-2038,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2006
-2038,Standard Dunk,2PT Field Goal,4,4,Slam Dunk Shot,DUNKS,1.0,2006
-2038,Tip Shot,2PT Field Goal,2,0,Tip Shot,TIP_SHOTS,0.0,2006
-2038,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2006
-2038,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2006
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Joel Przybilla,2038,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2001
+Joel Przybilla,2038,Driving Layup,2,2,1,Driving Layup Shot,LAYUPS,,2001
+Joel Przybilla,2038,Standard Dunk,2,4,3,Dunk Shot,DUNKS,,2001
+Joel Przybilla,2038,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2001
+Joel Przybilla,2038,Jump Shot,2,5,0,Jump Shot,JUMP_SHOTS,,2001
+Joel Przybilla,2038,Standard Layup,2,16,5,Layup Shot,LAYUPS,,2001
+Joel Przybilla,2038,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2001
+Joel Przybilla,2038,Tip Shot,2,4,1,Tip Shot,TIP_SHOTS,,2001
+Joel Przybilla,2038,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2002
+Joel Przybilla,2038,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2002
+Joel Przybilla,2038,Standard Dunk,2,37,31,Dunk Shot,DUNKS,,2002
+Joel Przybilla,2038,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2002
+Joel Przybilla,2038,Hook Shot,2,4,2,Hook Shot,POST_MOVES,,2002
+Joel Przybilla,2038,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2002
+Joel Przybilla,2038,Jump Shot,2,25,5,Jump Shot,JUMP_SHOTS,,2002
+Joel Przybilla,2038,Standard Layup,2,51,28,Layup Shot,LAYUPS,,2002
+Joel Przybilla,2038,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2002
+Joel Przybilla,2038,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2002
+Joel Przybilla,2038,Tip Shot,2,15,3,Tip Shot,TIP_SHOTS,,2002
+Joel Przybilla,2038,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Joel Przybilla,2038,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2003
+Joel Przybilla,2038,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2003
+Joel Przybilla,2038,Jump Shot,2,12,3,Jump Shot,JUMP_SHOTS,,2003
+Joel Przybilla,2038,Standard Layup,2,24,8,Layup Shot,LAYUPS,,2003
+Joel Przybilla,2038,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2003
+Joel Przybilla,2038,Tip Shot,2,5,3,Tip Shot,TIP_SHOTS,,2003
+Joel Przybilla,2038,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2004
+Joel Przybilla,2038,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2004
+Joel Przybilla,2038,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2004
+Joel Przybilla,2038,Hook Shot,2,5,0,Hook Shot,POST_MOVES,,2004
+Joel Przybilla,2038,Jump Shot,2,15,6,Jump Shot,JUMP_SHOTS,,2004
+Joel Przybilla,2038,Standard Layup,2,17,7,Layup Shot,LAYUPS,,2004
+Joel Przybilla,2038,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2004
+Joel Przybilla,2038,Tip Shot,2,6,1,Tip Shot,TIP_SHOTS,,2004
+Joel Przybilla,2038,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Joel Przybilla,2038,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2005
+Joel Przybilla,2038,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2005
+Joel Przybilla,2038,Driving Dunk,2,4,3,Driving Dunk Shot,DUNKS,,2005
+Joel Przybilla,2038,Driving Layup,2,5,1,Driving Layup Shot,LAYUPS,,2005
+Joel Przybilla,2038,Standard Dunk,2,86,76,Dunk Shot,DUNKS,,2005
+Joel Przybilla,2038,Fadeaway Jump Shot,2,4,1,Fadeaway Jump Shot,JUMP_SHOTS,,2005
+Joel Przybilla,2038,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2005
+Joel Przybilla,2038,Specialty Dunk,2,6,6,Follow Up Dunk Shot,DUNKS,,2005
+Joel Przybilla,2038,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2005
+Joel Przybilla,2038,Hook Shot,2,12,8,Hook Shot,POST_MOVES,,2005
+Joel Przybilla,2038,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2005
+Joel Przybilla,2038,Jump Shot,2,60,14,Jump Shot,JUMP_SHOTS,,2005
+Joel Przybilla,2038,Standard Layup,2,104,53,Layup Shot,LAYUPS,,2005
+Joel Przybilla,2038,Reverse Dunk,2,2,1,Reverse Dunk Shot,DUNKS,,2005
+Joel Przybilla,2038,Reverse Layup,2,7,5,Reverse Layup Shot,LAYUPS,,2005
+Joel Przybilla,2038,Running Hook Shot,2,2,2,Running Hook Shot,POST_MOVES,,2005
+Joel Przybilla,2038,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2005
+Joel Przybilla,2038,Standard Dunk,2,8,8,Slam Dunk Shot,DUNKS,,2005
+Joel Przybilla,2038,Tip Shot,2,16,11,Tip Shot,TIP_SHOTS,,2005
+Joel Przybilla,2038,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2005
+Joel Przybilla,2038,Turnaround Jump Shot,2,7,2,Turnaround Jump Shot,JUMP_SHOTS,,2005
+Joel Przybilla,2038,Alley Oop Dunk,2,4,4,Alley Oop Dunk Shot,DUNKS,,2006
+Joel Przybilla,2038,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2006
+Joel Przybilla,2038,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,2006
+Joel Przybilla,2038,Standard Dunk,2,46,38,Dunk Shot,DUNKS,,2006
+Joel Przybilla,2038,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2006
+Joel Przybilla,2038,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2006
+Joel Przybilla,2038,Specialty Dunk,2,5,4,Follow Up Dunk Shot,DUNKS,,2006
+Joel Przybilla,2038,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2006
+Joel Przybilla,2038,Hook Shot,2,12,5,Hook Shot,POST_MOVES,,2006
+Joel Przybilla,2038,Hook Shot,2,6,2,Jump Hook Shot,POST_MOVES,,2006
+Joel Przybilla,2038,Jump Shot,2,39,7,Jump Shot,JUMP_SHOTS,,2006
+Joel Przybilla,2038,Standard Layup,2,83,44,Layup Shot,LAYUPS,,2006
+Joel Przybilla,2038,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2006
+Joel Przybilla,2038,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2006
+Joel Przybilla,2038,Standard Dunk,2,7,7,Slam Dunk Shot,DUNKS,,2006
+Joel Przybilla,2038,Tip Shot,2,16,7,Tip Shot,TIP_SHOTS,,2006
+Joel Przybilla,2038,Turnaround Hook Shot,2,2,0,Turnaround Hook Shot,POST_MOVES,,2006
+Joel Przybilla,2038,Turnaround Jump Shot,2,8,3,Turnaround Jump Shot,JUMP_SHOTS,,2006
+Joel Przybilla,2038,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2007
+Joel Przybilla,2038,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2007
+Joel Przybilla,2038,Standard Dunk,2,12,11,Dunk Shot,DUNKS,,2007
+Joel Przybilla,2038,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2007
+Joel Przybilla,2038,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2007
+Joel Przybilla,2038,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2007
+Joel Przybilla,2038,Jump Shot,2,25,9,Jump Shot,JUMP_SHOTS,,2007
+Joel Przybilla,2038,Standard Layup,2,22,8,Layup Shot,LAYUPS,,2007
+Joel Przybilla,2038,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2007
+Joel Przybilla,2038,Tip Shot,2,7,2,Tip Shot,TIP_SHOTS,,2007
+Joel Przybilla,2038,Turnaround Jump Shot,2,4,1,Turnaround Jump Shot,JUMP_SHOTS,,2007
+Joel Przybilla,2038,Alley Oop Dunk,2,3,3,Alley Oop Dunk Shot,DUNKS,,2008
+Joel Przybilla,2038,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2008
+Joel Przybilla,2038,Driving Dunk,2,6,6,Driving Dunk Shot,DUNKS,,2008
+Joel Przybilla,2038,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2008
+Joel Przybilla,2038,Driving Layup,2,2,1,Driving Layup Shot,LAYUPS,,2008
+Joel Przybilla,2038,Standard Dunk,2,42,38,Dunk Shot,DUNKS,,2008
+Joel Przybilla,2038,Hook Shot,2,13,7,Hook Shot,POST_MOVES,,2008
+Joel Przybilla,2038,Hook Shot,2,5,3,Jump Hook Shot,POST_MOVES,,2008
+Joel Przybilla,2038,Jump Shot,2,21,2,Jump Shot,JUMP_SHOTS,,2008
+Joel Przybilla,2038,Standard Layup,2,90,34,Layup Shot,LAYUPS,,2008
+Joel Przybilla,2038,Putback Dunk,2,12,12,Putback Dunk Shot,DUNKS,,2008
+Joel Przybilla,2038,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2008
+Joel Przybilla,2038,Putback Dunk,2,2,2,Putback Slam Dunk Shot,DUNKS,,2008
+Joel Przybilla,2038,Reverse Layup,2,7,4,Reverse Layup Shot,LAYUPS,,2008
+Joel Przybilla,2038,Standard Dunk,2,3,2,Running Dunk Shot,DUNKS,,2008
+Joel Przybilla,2038,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2008
+Joel Przybilla,2038,Standard Dunk,2,10,10,Slam Dunk Shot,DUNKS,,2008
+Joel Przybilla,2038,Tip Shot,2,27,13,Tip Shot,TIP_SHOTS,,2008
+Joel Przybilla,2038,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2008
+Joel Przybilla,2038,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2009
+Joel Przybilla,2038,Driving Dunk,2,4,3,Driving Dunk Shot,DUNKS,,2009
+Joel Przybilla,2038,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2009
+Joel Przybilla,2038,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2009
+Joel Przybilla,2038,Driving Layup,2,2,1,Driving Layup Shot,LAYUPS,,2009
+Joel Przybilla,2038,Standard Dunk,2,47,44,Dunk Shot,DUNKS,,2009
+Joel Przybilla,2038,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2009
+Joel Przybilla,2038,Hook Shot,2,7,2,Hook Shot,POST_MOVES,,2009
+Joel Przybilla,2038,Jump Shot,2,4,3,Jump Bank Shot,JUMP_SHOTS,,2009
+Joel Przybilla,2038,Hook Shot,2,6,6,Jump Hook Shot,POST_MOVES,,2009
+Joel Przybilla,2038,Jump Shot,2,15,2,Jump Shot,JUMP_SHOTS,,2009
+Joel Przybilla,2038,Standard Layup,2,101,54,Layup Shot,LAYUPS,,2009
+Joel Przybilla,2038,Putback Dunk,2,8,8,Putback Dunk Shot,DUNKS,,2009
+Joel Przybilla,2038,Putback Layup,2,5,4,Putback Layup Shot,LAYUPS,,2009
+Joel Przybilla,2038,Reverse Layup,2,3,0,Reverse Layup Shot,LAYUPS,,2009
+Joel Przybilla,2038,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2009
+Joel Przybilla,2038,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,2009
+Joel Przybilla,2038,Tip Shot,2,53,28,Tip Shot,TIP_SHOTS,,2009
+Joel Przybilla,2038,Turnaround Hook Shot,2,2,2,Turnaround Hook Shot,POST_MOVES,,2009
+Joel Przybilla,2038,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2010
+Joel Przybilla,2038,Alley Oop Layup,2,5,4,Alley Oop Layup shot,LAYUPS,,2010
+Joel Przybilla,2038,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2010
+Joel Przybilla,2038,Standard Dunk,2,9,9,Dunk Shot,DUNKS,,2010
+Joel Przybilla,2038,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2010
+Joel Przybilla,2038,Jump Shot,2,4,0,Jump Shot,JUMP_SHOTS,,2010
+Joel Przybilla,2038,Standard Layup,2,42,21,Layup Shot,LAYUPS,,2010
+Joel Przybilla,2038,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2010
+Joel Przybilla,2038,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2010
+Joel Przybilla,2038,Tip Shot,2,18,5,Tip Shot,TIP_SHOTS,,2010
+Joel Przybilla,2038,Alley Oop Dunk,2,1,0,Alley Oop Dunk Shot,DUNKS,,2011
+Joel Przybilla,2038,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2011
+Joel Przybilla,2038,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2011
+Joel Przybilla,2038,Standard Dunk,2,4,3,Dunk Shot,DUNKS,,2011
+Joel Przybilla,2038,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2011
+Joel Przybilla,2038,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2011
+Joel Przybilla,2038,Jump Shot,2,1,0,Jump Shot,JUMP_SHOTS,,2011
+Joel Przybilla,2038,Standard Layup,2,24,14,Layup Shot,LAYUPS,,2011
+Joel Przybilla,2038,Putback Layup,2,3,3,Putback Layup Shot,LAYUPS,,2011
+Joel Przybilla,2038,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2011
+Joel Przybilla,2038,Tip Shot,2,6,4,Tip Shot,TIP_SHOTS,,2011
+Joel Przybilla,2038,Alley Oop Dunk,2,1,0,Alley Oop Dunk Shot,DUNKS,,2012
+Joel Przybilla,2038,Standard Dunk,2,6,5,Dunk Shot,DUNKS,,2012
+Joel Przybilla,2038,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2012
+Joel Przybilla,2038,Jump Shot,2,13,1,Jump Shot,JUMP_SHOTS,,2012
+Joel Przybilla,2038,Standard Layup,2,16,9,Layup Shot,LAYUPS,,2012
+Joel Przybilla,2038,Putback Layup,2,3,2,Putback Layup Shot,LAYUPS,,2012
+Joel Przybilla,2038,Tip Shot,2,8,5,Tip Shot,TIP_SHOTS,,2012
+Joel Przybilla,2038,Standard Layup,2,3,0,Layup Shot,LAYUPS,,2013
+Joel Przybilla,2038,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2013

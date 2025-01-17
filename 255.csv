@@ -1,45 +1,269 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-255,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,1997
-255,Driving Layup,2PT Field Goal,17,17,Driving Layup Shot,LAYUPS,1.0,1997
-255,Standard Dunk,2PT Field Goal,7,5,Dunk Shot,DUNKS,0.7142857142857143,1997
-255,Jump Shot,2PT Field Goal,73,29,Jump Shot,JUMP_SHOTS,0.3972602739726027,1997
-255,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,1997
-255,Standard Layup,2PT Field Goal,27,7,Layup Shot,LAYUPS,0.2592592592592592,1997
-255,Running Jump Shot,2PT Field Goal,5,4,Running Jump Shot,JUMP_SHOTS,0.8,1997
-255,Standard Dunk,2PT Field Goal,2,2,Slam Dunk Shot,DUNKS,1.0,1997
-255,Tip Shot,2PT Field Goal,2,2,Tip Shot,TIP_SHOTS,1.0,1997
-255,Driving Layup,2PT Field Goal,26,21,Driving Layup Shot,LAYUPS,0.8076923076923077,1998
-255,Standard Dunk,2PT Field Goal,7,5,Dunk Shot,DUNKS,0.7142857142857143,1998
-255,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,1998
-255,Jump Shot,2PT Field Goal,69,23,Jump Shot,JUMP_SHOTS,0.3333333333333333,1998
-255,Jump Shot,3PT Field Goal,4,2,Jump Shot,JUMP_SHOTS,0.75,1998
-255,Standard Layup,2PT Field Goal,17,5,Layup Shot,LAYUPS,0.2941176470588235,1998
-255,Running Jump Shot,2PT Field Goal,3,1,Running Jump Shot,JUMP_SHOTS,0.3333333333333333,1998
-255,Standard Dunk,2PT Field Goal,3,3,Slam Dunk Shot,DUNKS,1.0,1998
-255,Tip Shot,2PT Field Goal,3,2,Tip Shot,TIP_SHOTS,0.6666666666666666,1998
-255,Driving Layup,2PT Field Goal,10,10,Driving Layup Shot,LAYUPS,1.0,1999
-255,Standard Dunk,2PT Field Goal,7,6,Dunk Shot,DUNKS,0.8571428571428571,1999
-255,Jump Shot,2PT Field Goal,48,21,Jump Shot,JUMP_SHOTS,0.4375,1999
-255,Standard Layup,2PT Field Goal,8,4,Layup Shot,LAYUPS,0.5,1999
-255,Running Jump Shot,2PT Field Goal,3,3,Running Jump Shot,JUMP_SHOTS,1.0,1999
-255,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,1999
-255,Driving Dunk,2PT Field Goal,15,15,Driving Dunk Shot,DUNKS,1.0,2000
-255,Driving Layup,2PT Field Goal,130,105,Driving Layup Shot,LAYUPS,0.8076923076923077,2000
-255,Standard Dunk,2PT Field Goal,29,25,Dunk Shot,DUNKS,0.8620689655172413,2000
-255,Hook Shot,2PT Field Goal,9,6,Hook Shot,POST_MOVES,0.6666666666666666,2000
-255,Jump Shot,2PT Field Goal,485,184,Jump Shot,JUMP_SHOTS,0.379381443298969,2000
-255,Jump Shot,3PT Field Goal,67,24,Jump Shot,JUMP_SHOTS,0.5373134328358209,2000
-255,Standard Layup,2PT Field Goal,149,68,Layup Shot,LAYUPS,0.4563758389261745,2000
-255,Running Jump Shot,2PT Field Goal,21,10,Running Jump Shot,JUMP_SHOTS,0.4761904761904761,2000
-255,Standard Dunk,2PT Field Goal,11,10,Slam Dunk Shot,DUNKS,0.9090909090909092,2000
-255,Tip Shot,2PT Field Goal,14,8,Tip Shot,TIP_SHOTS,0.5714285714285714,2000
-255,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2002
-255,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2002
-255,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2002
-255,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2007
-255,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2007
-255,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2007
-255,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2008
-255,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2008
-255,Standard Layup,2PT Field Goal,4,2,Layup Shot,LAYUPS,0.5,2008
-255,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2009
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Grant Hill,255,Driving Dunk,2,24,24,Driving Dunk Shot,DUNKS,,1997
+Grant Hill,255,Driving Layup,2,158,140,Driving Layup Shot,LAYUPS,,1997
+Grant Hill,255,Standard Dunk,2,30,25,Dunk Shot,DUNKS,,1997
+Grant Hill,255,Hook Shot,2,3,1,Hook Shot,POST_MOVES,,1997
+Grant Hill,255,Jump Shot,2,735,297,Jump Shot,JUMP_SHOTS,,1997
+Grant Hill,255,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,1997
+Grant Hill,255,Standard Layup,2,215,69,Layup Shot,LAYUPS,,1997
+Grant Hill,255,Running Jump Shot,2,59,42,Running Jump Shot,JUMP_SHOTS,,1997
+Grant Hill,255,Standard Dunk,2,21,20,Slam Dunk Shot,DUNKS,,1997
+Grant Hill,255,Tip Shot,2,12,7,Tip Shot,TIP_SHOTS,,1997
+Grant Hill,255,Driving Dunk,2,16,16,Driving Dunk Shot,DUNKS,,1998
+Grant Hill,255,Driving Layup,2,187,157,Driving Layup Shot,LAYUPS,,1998
+Grant Hill,255,Standard Dunk,2,46,41,Dunk Shot,DUNKS,,1998
+Grant Hill,255,Hook Shot,2,6,2,Hook Shot,POST_MOVES,,1998
+Grant Hill,255,Jump Shot,2,806,259,Jump Shot,JUMP_SHOTS,,1998
+Grant Hill,255,Jump Shot,3,4,2,Jump Shot,JUMP_SHOTS,,1998
+Grant Hill,255,Standard Layup,2,188,63,Layup Shot,LAYUPS,,1998
+Grant Hill,255,Running Jump Shot,2,61,41,Running Jump Shot,JUMP_SHOTS,,1998
+Grant Hill,255,Standard Dunk,2,22,22,Slam Dunk Shot,DUNKS,,1998
+Grant Hill,255,Tip Shot,2,25,12,Tip Shot,TIP_SHOTS,,1998
+Grant Hill,255,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,1999
+Grant Hill,255,Driving Layup,2,97,84,Driving Layup Shot,LAYUPS,,1999
+Grant Hill,255,Standard Dunk,2,25,23,Dunk Shot,DUNKS,,1999
+Grant Hill,255,Hook Shot,2,4,0,Hook Shot,POST_MOVES,,1999
+Grant Hill,255,Jump Shot,2,490,189,Jump Shot,JUMP_SHOTS,,1999
+Grant Hill,255,Standard Layup,2,124,43,Layup Shot,LAYUPS,,1999
+Grant Hill,255,Running Jump Shot,2,30,21,Running Jump Shot,JUMP_SHOTS,,1999
+Grant Hill,255,Standard Dunk,2,11,11,Slam Dunk Shot,DUNKS,,1999
+Grant Hill,255,Tip Shot,2,17,9,Tip Shot,TIP_SHOTS,,1999
+Grant Hill,255,Driving Dunk,2,27,25,Driving Dunk Shot,DUNKS,,2000
+Grant Hill,255,Driving Layup,2,193,160,Driving Layup Shot,LAYUPS,,2000
+Grant Hill,255,Standard Dunk,2,39,33,Dunk Shot,DUNKS,,2000
+Grant Hill,255,Hook Shot,2,11,8,Hook Shot,POST_MOVES,,2000
+Grant Hill,255,Jump Shot,2,790,306,Jump Shot,JUMP_SHOTS,,2000
+Grant Hill,255,Jump Shot,3,68,24,Jump Shot,JUMP_SHOTS,,2000
+Grant Hill,255,Standard Layup,2,231,102,Layup Shot,LAYUPS,,2000
+Grant Hill,255,Running Jump Shot,2,33,18,Running Jump Shot,JUMP_SHOTS,,2000
+Grant Hill,255,Standard Dunk,2,13,12,Slam Dunk Shot,DUNKS,,2000
+Grant Hill,255,Tip Shot,2,17,8,Tip Shot,TIP_SHOTS,,2000
+Grant Hill,255,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2001
+Grant Hill,255,Driving Layup,2,6,4,Driving Layup Shot,LAYUPS,,2001
+Grant Hill,255,Jump Shot,2,24,9,Jump Shot,JUMP_SHOTS,,2001
+Grant Hill,255,Standard Layup,2,6,2,Layup Shot,LAYUPS,,2001
+Grant Hill,255,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2001
+Grant Hill,255,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2001
+Grant Hill,255,Turnaround Jump Shot,2,4,1,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Grant Hill,255,Driving Layup,2,17,11,Driving Layup Shot,LAYUPS,,2002
+Grant Hill,255,Standard Dunk,2,4,2,Dunk Shot,DUNKS,,2002
+Grant Hill,255,Fadeaway Jump Shot,2,4,2,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Grant Hill,255,Jump Shot,2,106,29,Jump Shot,JUMP_SHOTS,,2002
+Grant Hill,255,Standard Layup,2,34,17,Layup Shot,LAYUPS,,2002
+Grant Hill,255,Reverse Layup,2,4,4,Reverse Layup Shot,LAYUPS,,2002
+Grant Hill,255,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2002
+Grant Hill,255,Finger Roll,2,2,1,Running Finger Roll Shot,LAYUPS,,2002
+Grant Hill,255,Running Hook Shot,2,2,2,Running Hook Shot,POST_MOVES,,2002
+Grant Hill,255,Running Jump Shot,2,7,5,Running Jump Shot,JUMP_SHOTS,,2002
+Grant Hill,255,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2002
+Grant Hill,255,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2002
+Grant Hill,255,Tip Shot,2,4,3,Tip Shot,TIP_SHOTS,,2002
+Grant Hill,255,Turnaround Jump Shot,2,8,5,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Grant Hill,255,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2003
+Grant Hill,255,Finger Roll,2,4,4,Driving Finger Roll Shot,LAYUPS,,2003
+Grant Hill,255,Driving Layup,2,35,26,Driving Layup Shot,LAYUPS,,2003
+Grant Hill,255,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2003
+Grant Hill,255,Fadeaway Jump Shot,2,7,4,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Grant Hill,255,Finger Roll,2,2,2,Finger Roll Shot,LAYUPS,,2003
+Grant Hill,255,Hook Shot,2,2,2,Hook Shot,POST_MOVES,,2003
+Grant Hill,255,Jump Shot,2,175,64,Jump Shot,JUMP_SHOTS,,2003
+Grant Hill,255,Standard Layup,2,47,24,Layup Shot,LAYUPS,,2003
+Grant Hill,255,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2003
+Grant Hill,255,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2003
+Grant Hill,255,Running Jump Shot,2,4,3,Running Jump Shot,JUMP_SHOTS,,2003
+Grant Hill,255,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2003
+Grant Hill,255,Tip Shot,2,7,4,Tip Shot,TIP_SHOTS,,2003
+Grant Hill,255,Turnaround Jump Shot,2,12,6,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Grant Hill,255,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2005
+Grant Hill,255,Driving Dunk,2,8,8,Driving Dunk Shot,DUNKS,,2005
+Grant Hill,255,Finger Roll,2,2,2,Driving Finger Roll Shot,LAYUPS,,2005
+Grant Hill,255,Driving Layup,2,74,58,Driving Layup Shot,LAYUPS,,2005
+Grant Hill,255,Standard Dunk,2,12,11,Dunk Shot,DUNKS,,2005
+Grant Hill,255,Fadeaway Jump Shot,2,15,6,Fadeaway Jump Shot,JUMP_SHOTS,,2005
+Grant Hill,255,Finger Roll,2,2,2,Finger Roll Shot,LAYUPS,,2005
+Grant Hill,255,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2005
+Grant Hill,255,Jump Shot,2,11,7,Jump Bank Shot,JUMP_SHOTS,,2005
+Grant Hill,255,Jump Shot,2,663,291,Jump Shot,JUMP_SHOTS,,2005
+Grant Hill,255,Standard Layup,2,140,80,Layup Shot,LAYUPS,,2005
+Grant Hill,255,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2005
+Grant Hill,255,Reverse Layup,2,15,11,Reverse Layup Shot,LAYUPS,,2005
+Grant Hill,255,Running Jump Shot,2,27,14,Running Jump Shot,JUMP_SHOTS,,2005
+Grant Hill,255,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2005
+Grant Hill,255,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2005
+Grant Hill,255,Tip Shot,2,15,9,Tip Shot,TIP_SHOTS,,2005
+Grant Hill,255,Turnaround Jump Shot,2,24,12,Turnaround Jump Shot,JUMP_SHOTS,,2005
+Grant Hill,255,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2006
+Grant Hill,255,Driving Layup,2,37,28,Driving Layup Shot,LAYUPS,,2006
+Grant Hill,255,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2006
+Grant Hill,255,Fadeaway Jump Shot,2,3,3,Fadeaway Jump Shot,JUMP_SHOTS,,2006
+Grant Hill,255,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2006
+Grant Hill,255,Jump Shot,2,143,57,Jump Shot,JUMP_SHOTS,,2006
+Grant Hill,255,Standard Layup,2,29,13,Layup Shot,LAYUPS,,2006
+Grant Hill,255,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2006
+Grant Hill,255,Running Jump Shot,2,3,2,Running Jump Shot,JUMP_SHOTS,,2006
+Grant Hill,255,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2006
+Grant Hill,255,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,,2006
+Grant Hill,255,Turnaround Jump Shot,2,11,2,Turnaround Jump Shot,JUMP_SHOTS,,2006
+Grant Hill,255,Alley Oop Layup,2,4,4,Alley Oop Layup shot,LAYUPS,,2007
+Grant Hill,255,Driving Dunk,2,6,6,Driving Dunk Shot,DUNKS,,2007
+Grant Hill,255,Finger Roll,2,2,2,Driving Finger Roll Shot,LAYUPS,,2007
+Grant Hill,255,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2007
+Grant Hill,255,Driving Layup,2,72,59,Driving Layup Shot,LAYUPS,,2007
+Grant Hill,255,Standard Dunk,2,6,5,Dunk Shot,DUNKS,,2007
+Grant Hill,255,Fadeaway Jump Shot,2,4,2,Fadeaway Jump Shot,JUMP_SHOTS,,2007
+Grant Hill,255,Finger Roll,2,1,0,Finger Roll Shot,LAYUPS,,2007
+Grant Hill,255,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2007
+Grant Hill,255,Jump Shot,2,12,8,Jump Bank Shot,JUMP_SHOTS,,2007
+Grant Hill,255,Jump Shot,2,358,136,Jump Shot,JUMP_SHOTS,,2007
+Grant Hill,255,Standard Layup,2,137,86,Layup Shot,LAYUPS,,2007
+Grant Hill,255,Reverse Layup,2,14,11,Reverse Layup Shot,LAYUPS,,2007
+Grant Hill,255,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2007
+Grant Hill,255,Running Jump Shot,2,8,3,Running Jump Shot,JUMP_SHOTS,,2007
+Grant Hill,255,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2007
+Grant Hill,255,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2007
+Grant Hill,255,Tip Shot,2,5,3,Tip Shot,TIP_SHOTS,,2007
+Grant Hill,255,Turnaround Jump Shot,2,24,14,Turnaround Jump Shot,JUMP_SHOTS,,2007
+Grant Hill,255,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2008
+Grant Hill,255,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2008
+Grant Hill,255,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2008
+Grant Hill,255,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2008
+Grant Hill,255,Finger Roll,2,4,3,Driving Finger Roll Layup Shot,LAYUPS,,2008
+Grant Hill,255,Driving Layup,2,47,43,Driving Layup Shot,LAYUPS,,2008
+Grant Hill,255,Driving Layup,2,4,4,Driving Reverse Layup Shot,LAYUPS,,2008
+Grant Hill,255,Standard Dunk,2,11,9,Dunk Shot,DUNKS,,2008
+Grant Hill,255,Fadeaway Jump Shot,2,3,2,Fadeaway Jump Shot,JUMP_SHOTS,,2008
+Grant Hill,255,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2008
+Grant Hill,255,Floating Jump Shot,2,2,2,Floating Jump shot,FLOATING_SHOTS,,2008
+Grant Hill,255,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2008
+Grant Hill,255,Jump Shot,2,9,3,Jump Bank Shot,JUMP_SHOTS,,2008
+Grant Hill,255,Jump Shot,2,424,167,Jump Shot,JUMP_SHOTS,,2008
+Grant Hill,255,Standard Layup,2,130,69,Layup Shot,LAYUPS,,2008
+Grant Hill,255,Pullup Jump Shot,2,5,3,Pullup Jump shot,JUMP_SHOTS,,2008
+Grant Hill,255,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2008
+Grant Hill,255,Reverse Layup,2,25,21,Reverse Layup Shot,LAYUPS,,2008
+Grant Hill,255,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2008
+Grant Hill,255,Running Jump Shot,2,8,5,Running Jump Shot,JUMP_SHOTS,,2008
+Grant Hill,255,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2008
+Grant Hill,255,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2008
+Grant Hill,255,Tip Shot,2,10,6,Tip Shot,TIP_SHOTS,,2008
+Grant Hill,255,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2008
+Grant Hill,255,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2008
+Grant Hill,255,Turnaround Jump Shot,2,10,3,Turnaround Jump Shot,JUMP_SHOTS,,2008
+Grant Hill,255,Alley Oop Dunk,2,3,3,Alley Oop Dunk Shot,DUNKS,,2009
+Grant Hill,255,Alley Oop Layup,2,4,4,Alley Oop Layup shot,LAYUPS,,2009
+Grant Hill,255,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2009
+Grant Hill,255,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2009
+Grant Hill,255,Driving Jump Shot,2,2,1,Driving Jump shot,JUMP_SHOTS,,2009
+Grant Hill,255,Driving Layup,2,44,37,Driving Layup Shot,LAYUPS,,2009
+Grant Hill,255,Driving Layup,2,5,4,Driving Reverse Layup Shot,LAYUPS,,2009
+Grant Hill,255,Driving Dunk,2,2,2,Driving Slam Dunk Shot,DUNKS,,2009
+Grant Hill,255,Standard Dunk,2,17,14,Dunk Shot,DUNKS,,2009
+Grant Hill,255,Fadeaway Jump Shot,2,2,2,Fadeaway Jump Shot,JUMP_SHOTS,,2009
+Grant Hill,255,Finger Roll,2,2,1,Finger Roll Layup Shot,LAYUPS,,2009
+Grant Hill,255,Floating Jump Shot,2,3,3,Floating Jump shot,FLOATING_SHOTS,,2009
+Grant Hill,255,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2009
+Grant Hill,255,Jump Shot,2,21,12,Jump Bank Shot,JUMP_SHOTS,,2009
+Grant Hill,255,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2009
+Grant Hill,255,Jump Shot,2,382,150,Jump Shot,JUMP_SHOTS,,2009
+Grant Hill,255,Standard Layup,2,166,96,Layup Shot,LAYUPS,,2009
+Grant Hill,255,Pullup Jump Shot,2,13,10,Pullup Jump shot,JUMP_SHOTS,,2009
+Grant Hill,255,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2009
+Grant Hill,255,Reverse Layup,2,22,14,Reverse Layup Shot,LAYUPS,,2009
+Grant Hill,255,Running Jump Shot,2,5,5,Running Bank shot,JUMP_SHOTS,,2009
+Grant Hill,255,Running Jump Shot,2,12,6,Running Jump Shot,JUMP_SHOTS,,2009
+Grant Hill,255,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2009
+Grant Hill,255,Step Back Jump Shot,2,2,2,Step Back Jump shot,JUMP_SHOTS,,2009
+Grant Hill,255,Tip Shot,2,13,6,Tip Shot,TIP_SHOTS,,2009
+Grant Hill,255,Turnaround Jump Shot,2,4,4,Turnaround Bank shot,JUMP_SHOTS,,2009
+Grant Hill,255,Turnaround Jump Shot,2,10,5,Turnaround Jump Shot,JUMP_SHOTS,,2009
+Grant Hill,255,Alley Oop Dunk,2,2,0,Alley Oop Dunk Shot,DUNKS,,2010
+Grant Hill,255,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2010
+Grant Hill,255,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2010
+Grant Hill,255,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2010
+Grant Hill,255,Driving Layup,2,39,30,Driving Layup Shot,LAYUPS,,2010
+Grant Hill,255,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2010
+Grant Hill,255,Standard Dunk,2,18,15,Dunk Shot,DUNKS,,2010
+Grant Hill,255,Fadeaway Jump Shot,2,7,5,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+Grant Hill,255,Floating Jump Shot,2,3,2,Floating Jump shot,FLOATING_SHOTS,,2010
+Grant Hill,255,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2010
+Grant Hill,255,Jump Shot,2,20,12,Jump Bank Shot,JUMP_SHOTS,,2010
+Grant Hill,255,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2010
+Grant Hill,255,Jump Shot,2,387,146,Jump Shot,JUMP_SHOTS,,2010
+Grant Hill,255,Standard Layup,2,124,63,Layup Shot,LAYUPS,,2010
+Grant Hill,255,Pullup Jump Shot,2,2,2,Pullup Bank shot,JUMP_SHOTS,,2010
+Grant Hill,255,Pullup Jump Shot,2,22,17,Pullup Jump shot,JUMP_SHOTS,,2010
+Grant Hill,255,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2010
+Grant Hill,255,Reverse Layup,2,8,5,Reverse Layup Shot,LAYUPS,,2010
+Grant Hill,255,Running Jump Shot,2,4,3,Running Bank shot,JUMP_SHOTS,,2010
+Grant Hill,255,Running Jump Shot,2,7,2,Running Jump Shot,JUMP_SHOTS,,2010
+Grant Hill,255,Standard Layup,2,6,6,Running Layup Shot,LAYUPS,,2010
+Grant Hill,255,Tip Shot,2,1,0,Running Tip Shot,TIP_SHOTS,,2010
+Grant Hill,255,Step Back Jump Shot,2,3,3,Step Back Jump shot,JUMP_SHOTS,,2010
+Grant Hill,255,Tip Shot,2,11,3,Tip Shot,TIP_SHOTS,,2010
+Grant Hill,255,Turnaround Jump Shot,2,2,0,Turnaround Bank shot,JUMP_SHOTS,,2010
+Grant Hill,255,Turnaround Jump Shot,2,2,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2010
+Grant Hill,255,Turnaround Jump Shot,2,25,15,Turnaround Jump Shot,JUMP_SHOTS,,2010
+Grant Hill,255,Alley Oop Layup,2,4,3,Alley Oop Layup shot,LAYUPS,,2011
+Grant Hill,255,Driving Jump Shot,2,1,0,Driving Bank shot,JUMP_SHOTS,,2011
+Grant Hill,255,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2011
+Grant Hill,255,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2011
+Grant Hill,255,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2011
+Grant Hill,255,Driving Layup,2,45,33,Driving Layup Shot,LAYUPS,,2011
+Grant Hill,255,Driving Layup,2,4,3,Driving Reverse Layup Shot,LAYUPS,,2011
+Grant Hill,255,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2011
+Grant Hill,255,Standard Dunk,2,13,8,Dunk Shot,DUNKS,,2011
+Grant Hill,255,Fadeaway Jump Shot,2,5,2,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Grant Hill,255,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2011
+Grant Hill,255,Floating Jump Shot,2,4,3,Floating Jump shot,FLOATING_SHOTS,,2011
+Grant Hill,255,Hook Shot,2,3,3,Hook Shot,POST_MOVES,,2011
+Grant Hill,255,Jump Shot,2,18,8,Jump Bank Shot,JUMP_SHOTS,,2011
+Grant Hill,255,Jump Shot,2,507,184,Jump Shot,JUMP_SHOTS,,2011
+Grant Hill,255,Standard Layup,2,114,80,Layup Shot,LAYUPS,,2011
+Grant Hill,255,Pullup Jump Shot,2,1,0,Pullup Bank shot,JUMP_SHOTS,,2011
+Grant Hill,255,Pullup Jump Shot,2,30,21,Pullup Jump shot,JUMP_SHOTS,,2011
+Grant Hill,255,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2011
+Grant Hill,255,Reverse Layup,2,5,4,Reverse Layup Shot,LAYUPS,,2011
+Grant Hill,255,Running Jump Shot,2,3,2,Running Bank shot,JUMP_SHOTS,,2011
+Grant Hill,255,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2011
+Grant Hill,255,Running Jump Shot,2,12,10,Running Jump Shot,JUMP_SHOTS,,2011
+Grant Hill,255,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2011
+Grant Hill,255,Step Back Jump Shot,2,2,2,Step Back Jump shot,JUMP_SHOTS,,2011
+Grant Hill,255,Tip Shot,2,7,4,Tip Shot,TIP_SHOTS,,2011
+Grant Hill,255,Turnaround Jump Shot,2,3,0,Turnaround Bank shot,JUMP_SHOTS,,2011
+Grant Hill,255,Turnaround Jump Shot,2,3,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2011
+Grant Hill,255,Turnaround Jump Shot,2,29,18,Turnaround Jump Shot,JUMP_SHOTS,,2011
+Grant Hill,255,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2012
+Grant Hill,255,Driving Jump Shot,2,1,1,Driving Jump shot,JUMP_SHOTS,,2012
+Grant Hill,255,Driving Layup,2,18,11,Driving Layup Shot,LAYUPS,,2012
+Grant Hill,255,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2012
+Grant Hill,255,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2012
+Grant Hill,255,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Grant Hill,255,Finger Roll,2,2,1,Finger Roll Layup Shot,LAYUPS,,2012
+Grant Hill,255,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2012
+Grant Hill,255,Jump Shot,2,10,5,Jump Bank Shot,JUMP_SHOTS,,2012
+Grant Hill,255,Jump Shot,2,302,110,Jump Shot,JUMP_SHOTS,,2012
+Grant Hill,255,Standard Layup,2,53,36,Layup Shot,LAYUPS,,2012
+Grant Hill,255,Pullup Jump Shot,2,23,16,Pullup Jump shot,JUMP_SHOTS,,2012
+Grant Hill,255,Reverse Layup,2,10,5,Reverse Layup Shot,LAYUPS,,2012
+Grant Hill,255,Running Jump Shot,2,1,0,Running Bank shot,JUMP_SHOTS,,2012
+Grant Hill,255,Running Jump Shot,2,4,1,Running Jump Shot,JUMP_SHOTS,,2012
+Grant Hill,255,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2012
+Grant Hill,255,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2012
+Grant Hill,255,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2012
+Grant Hill,255,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2012
+Grant Hill,255,Tip Shot,2,4,1,Tip Shot,TIP_SHOTS,,2012
+Grant Hill,255,Turnaround Jump Shot,2,4,3,Turnaround Bank shot,JUMP_SHOTS,,2012
+Grant Hill,255,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2012
+Grant Hill,255,Turnaround Jump Shot,2,9,3,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Grant Hill,255,Driving Jump Shot,2,2,0,Driving Jump shot,JUMP_SHOTS,,2013
+Grant Hill,255,Driving Layup,2,4,3,Driving Layup Shot,LAYUPS,,2013
+Grant Hill,255,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Grant Hill,255,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2013
+Grant Hill,255,Jump Shot,2,64,16,Jump Shot,JUMP_SHOTS,,2013
+Grant Hill,255,Standard Layup,2,16,11,Layup Shot,LAYUPS,,2013
+Grant Hill,255,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2013
+Grant Hill,255,Pullup Jump Shot,2,3,1,Pullup Jump shot,JUMP_SHOTS,,2013
+Grant Hill,255,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2013
+Grant Hill,255,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2013
+Grant Hill,255,Turnaround Jump Shot,2,2,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2013
+Grant Hill,255,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2013

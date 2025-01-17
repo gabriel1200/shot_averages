@@ -1,34 +1,49 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1023,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,1997
-1023,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1997
-1023,Jump Shot,3PT Field Goal,7,5,Jump Shot,JUMP_SHOTS,1.0714285714285714,1997
-1023,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,1997
-1023,Driving Layup,2PT Field Goal,5,4,Driving Layup Shot,LAYUPS,0.8,1998
-1023,Jump Shot,2PT Field Goal,4,1,Jump Shot,JUMP_SHOTS,0.25,1998
-1023,Jump Shot,3PT Field Goal,8,1,Jump Shot,JUMP_SHOTS,0.1875,1998
-1023,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,1998
-1023,Driving Layup,2PT Field Goal,3,2,Driving Layup Shot,LAYUPS,0.6666666666666666,2000
-1023,Jump Shot,2PT Field Goal,23,7,Jump Shot,JUMP_SHOTS,0.3043478260869565,2000
-1023,Jump Shot,3PT Field Goal,25,6,Jump Shot,JUMP_SHOTS,0.36,2000
-1023,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2000
-1023,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2000
-1023,Driving Layup,2PT Field Goal,5,3,Driving Layup Shot,LAYUPS,0.6,2001
-1023,Jump Shot,2PT Field Goal,25,3,Jump Shot,JUMP_SHOTS,0.12,2001
-1023,Jump Shot,3PT Field Goal,33,12,Jump Shot,JUMP_SHOTS,0.5454545454545454,2001
-1023,Standard Layup,2PT Field Goal,7,4,Layup Shot,LAYUPS,0.5714285714285714,2001
-1023,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2001
-1023,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2001
-1023,Driving Layup,2PT Field Goal,3,3,Driving Layup Shot,LAYUPS,1.0,2002
-1023,Jump Shot,2PT Field Goal,42,12,Jump Shot,JUMP_SHOTS,0.2857142857142857,2002
-1023,Jump Shot,3PT Field Goal,42,13,Jump Shot,JUMP_SHOTS,0.4642857142857143,2002
-1023,Standard Layup,2PT Field Goal,14,4,Layup Shot,LAYUPS,0.2857142857142857,2002
-1023,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2002
-1023,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2002
-1023,Standard Dunk,2PT Field Goal,1,0,Slam Dunk Shot,DUNKS,0.0,2002
-1023,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2002
-1023,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2003
-1023,Hook Shot,2PT Field Goal,1,1,Jump Hook Shot,POST_MOVES,1.0,2003
-1023,Jump Shot,2PT Field Goal,9,3,Jump Shot,JUMP_SHOTS,0.3333333333333333,2003
-1023,Jump Shot,3PT Field Goal,8,3,Jump Shot,JUMP_SHOTS,0.5625,2003
-1023,Standard Layup,2PT Field Goal,6,4,Layup Shot,LAYUPS,0.6666666666666666,2003
-1023,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2003
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Emanual Davis,1023,Driving Layup,2,8,4,Driving Layup Shot,LAYUPS,,1997
+Emanual Davis,1023,Jump Shot,2,8,2,Jump Shot,JUMP_SHOTS,,1997
+Emanual Davis,1023,Jump Shot,3,27,12,Jump Shot,JUMP_SHOTS,,1997
+Emanual Davis,1023,Standard Layup,2,11,6,Layup Shot,LAYUPS,,1997
+Emanual Davis,1023,Driving Layup,2,17,13,Driving Layup Shot,LAYUPS,,1998
+Emanual Davis,1023,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,1998
+Emanual Davis,1023,Jump Shot,2,29,13,Jump Shot,JUMP_SHOTS,,1998
+Emanual Davis,1023,Jump Shot,3,72,27,Jump Shot,JUMP_SHOTS,,1998
+Emanual Davis,1023,Standard Layup,2,20,8,Layup Shot,LAYUPS,,1998
+Emanual Davis,1023,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,1998
+Emanual Davis,1023,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,1998
+Emanual Davis,1023,Driving Dunk,2,2,0,Driving Dunk Shot,DUNKS,,2000
+Emanual Davis,1023,Driving Layup,2,13,5,Driving Layup Shot,LAYUPS,,2000
+Emanual Davis,1023,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2000
+Emanual Davis,1023,Hook Shot,2,3,2,Hook Shot,POST_MOVES,,2000
+Emanual Davis,1023,Jump Shot,2,80,30,Jump Shot,JUMP_SHOTS,,2000
+Emanual Davis,1023,Jump Shot,3,103,31,Jump Shot,JUMP_SHOTS,,2000
+Emanual Davis,1023,Standard Layup,2,12,7,Layup Shot,LAYUPS,,2000
+Emanual Davis,1023,Running Jump Shot,2,5,5,Running Jump Shot,JUMP_SHOTS,,2000
+Emanual Davis,1023,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2000
+Emanual Davis,1023,Driving Dunk,2,1,0,Driving Dunk Shot,DUNKS,,2001
+Emanual Davis,1023,Driving Layup,2,15,12,Driving Layup Shot,LAYUPS,,2001
+Emanual Davis,1023,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2001
+Emanual Davis,1023,Jump Shot,2,117,35,Jump Shot,JUMP_SHOTS,,2001
+Emanual Davis,1023,Jump Shot,3,127,50,Jump Shot,JUMP_SHOTS,,2001
+Emanual Davis,1023,Standard Layup,2,37,18,Layup Shot,LAYUPS,,2001
+Emanual Davis,1023,Running Jump Shot,2,16,13,Running Jump Shot,JUMP_SHOTS,,2001
+Emanual Davis,1023,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2001
+Emanual Davis,1023,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,,2001
+Emanual Davis,1023,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Emanual Davis,1023,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2002
+Emanual Davis,1023,Driving Layup,2,6,4,Driving Layup Shot,LAYUPS,,2002
+Emanual Davis,1023,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2002
+Emanual Davis,1023,Jump Shot,2,75,21,Jump Shot,JUMP_SHOTS,,2002
+Emanual Davis,1023,Jump Shot,3,85,29,Jump Shot,JUMP_SHOTS,,2002
+Emanual Davis,1023,Standard Layup,2,19,8,Layup Shot,LAYUPS,,2002
+Emanual Davis,1023,Running Jump Shot,2,5,2,Running Jump Shot,JUMP_SHOTS,,2002
+Emanual Davis,1023,Standard Layup,2,4,4,Running Layup Shot,LAYUPS,,2002
+Emanual Davis,1023,Standard Dunk,2,1,0,Slam Dunk Shot,DUNKS,,2002
+Emanual Davis,1023,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2002
+Emanual Davis,1023,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2003
+Emanual Davis,1023,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2003
+Emanual Davis,1023,Jump Shot,2,38,14,Jump Shot,JUMP_SHOTS,,2003
+Emanual Davis,1023,Jump Shot,3,29,7,Jump Shot,JUMP_SHOTS,,2003
+Emanual Davis,1023,Standard Layup,2,14,6,Layup Shot,LAYUPS,,2003
+Emanual Davis,1023,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2003
+Emanual Davis,1023,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2003
+Emanual Davis,1023,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2003

@@ -1,27 +1,230 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-203967,Standard Layup,2PT Field Goal,6,5,Cutting Layup Shot,LAYUPS,0.8333333333333334,2024
-203967,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.0,2024
-203967,Floating Jump Shot,2PT Field Goal,2,1,Driving Floating Jump Shot,FLOATING_SHOTS,0.5,2024
-203967,Driving Layup,2PT Field Goal,5,1,Driving Layup Shot,LAYUPS,0.2,2024
-203967,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2024
-203967,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2024
-203967,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2024
-203967,Jump Shot,2PT Field Goal,2,2,Jump Shot,JUMP_SHOTS,1.0,2024
-203967,Jump Shot,3PT Field Goal,19,6,Jump Shot,JUMP_SHOTS,0.4736842105263157,2024
-203967,Standard Layup,2PT Field Goal,4,1,Layup Shot,LAYUPS,0.25,2024
-203967,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2024
-203967,Running Jump Shot,3PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2024
-203967,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2024
-203967,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2024
-203967,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2025
-203967,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2025
-203967,Driving Layup,2PT Field Goal,2,0,Driving Layup Shot,LAYUPS,0.0,2025
-203967,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2025
-203967,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2025
-203967,Jump Shot,3PT Field Goal,16,5,Jump Shot,JUMP_SHOTS,0.46875,2025
-203967,Standard Layup,2PT Field Goal,4,0,Layup Shot,LAYUPS,0.0,2025
-203967,Pullup Jump Shot,3PT Field Goal,2,0,Pullup Jump shot,JUMP_SHOTS,0.0,2025
-203967,Putback Layup,2PT Field Goal,2,2,Putback Layup Shot,LAYUPS,1.0,2025
-203967,Reverse Layup,2PT Field Goal,2,0,Reverse Layup Shot,LAYUPS,0.0,2025
-203967,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2025
-203967,Turnaround Hook Shot,2PT Field Goal,5,1,Turnaround Hook Shot,POST_MOVES,0.2,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Dario Saric,203967,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2017
+Dario Saric,203967,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2017
+Dario Saric,203967,Standard Layup,2,20,18,Cutting Layup Shot,LAYUPS,,2017
+Dario Saric,203967,Driving Jump Shot,2,2,2,Driving Bank shot,JUMP_SHOTS,,2017
+Dario Saric,203967,Driving Dunk,2,2,1,Driving Dunk Shot,DUNKS,,2017
+Dario Saric,203967,Finger Roll,2,11,8,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Dario Saric,203967,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2017
+Dario Saric,203967,Floating Jump Shot,2,5,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Dario Saric,203967,Driving Hook Shot,2,18,10,Driving Hook Shot,POST_MOVES,,2017
+Dario Saric,203967,Driving Layup,2,64,39,Driving Layup Shot,LAYUPS,,2017
+Dario Saric,203967,Driving Layup,2,6,4,Driving Reverse Layup Shot,LAYUPS,,2017
+Dario Saric,203967,Standard Dunk,2,3,2,Dunk Shot,DUNKS,,2017
+Dario Saric,203967,Fadeaway Jump Shot,2,9,3,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Dario Saric,203967,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2017
+Dario Saric,203967,Floating Jump Shot,2,16,13,Floating Jump shot,FLOATING_SHOTS,,2017
+Dario Saric,203967,Hook Shot,2,27,12,Hook Shot,POST_MOVES,,2017
+Dario Saric,203967,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2017
+Dario Saric,203967,Jump Shot,2,499,143,Jump Shot,JUMP_SHOTS,,2017
+Dario Saric,203967,Standard Layup,2,86,33,Layup Shot,LAYUPS,,2017
+Dario Saric,203967,Pullup Jump Shot,2,2,2,Pullup Bank shot,JUMP_SHOTS,,2017
+Dario Saric,203967,Pullup Jump Shot,2,31,11,Pullup Jump shot,JUMP_SHOTS,,2017
+Dario Saric,203967,Putback Layup,2,16,13,Putback Layup Shot,LAYUPS,,2017
+Dario Saric,203967,Reverse Layup,2,15,10,Reverse Layup Shot,LAYUPS,,2017
+Dario Saric,203967,Standard Dunk,2,7,7,Running Dunk Shot,DUNKS,,2017
+Dario Saric,203967,Finger Roll,2,2,2,Running Finger Roll Layup Shot,LAYUPS,,2017
+Dario Saric,203967,Running Jump Shot,2,5,3,Running Jump Shot,JUMP_SHOTS,,2017
+Dario Saric,203967,Standard Layup,2,11,6,Running Layup Shot,LAYUPS,,2017
+Dario Saric,203967,Running Jump Shot,2,4,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2017
+Dario Saric,203967,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2017
+Dario Saric,203967,Step Back Jump Shot,2,20,8,Step Back Jump shot,JUMP_SHOTS,,2017
+Dario Saric,203967,Putback Layup,2,13,9,Tip Layup Shot,LAYUPS,,2017
+Dario Saric,203967,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2017
+Dario Saric,203967,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2017
+Dario Saric,203967,Turnaround Hook Shot,2,8,7,Turnaround Hook Shot,POST_MOVES,,2017
+Dario Saric,203967,Turnaround Jump Shot,2,14,4,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Dario Saric,203967,Alley Oop Layup,2,5,3,Alley Oop Layup shot,LAYUPS,,2018
+Dario Saric,203967,Specialty Dunk,2,6,6,Cutting Dunk Shot,DUNKS,,2018
+Dario Saric,203967,Finger Roll,2,2,2,Cutting Finger Roll Layup Shot,LAYUPS,,2018
+Dario Saric,203967,Standard Layup,2,42,29,Cutting Layup Shot,LAYUPS,,2018
+Dario Saric,203967,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2018
+Dario Saric,203967,Finger Roll,2,7,5,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Dario Saric,203967,Floating Jump Shot,2,9,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Dario Saric,203967,Driving Hook Shot,2,11,5,Driving Hook Shot,POST_MOVES,,2018
+Dario Saric,203967,Driving Layup,2,50,23,Driving Layup Shot,LAYUPS,,2018
+Dario Saric,203967,Driving Layup,2,11,10,Driving Reverse Layup Shot,LAYUPS,,2018
+Dario Saric,203967,Standard Dunk,2,5,5,Dunk Shot,DUNKS,,2018
+Dario Saric,203967,Fadeaway Jump Shot,2,9,1,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+Dario Saric,203967,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2018
+Dario Saric,203967,Floating Jump Shot,2,8,5,Floating Jump shot,FLOATING_SHOTS,,2018
+Dario Saric,203967,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2018
+Dario Saric,203967,Hook Shot,2,24,8,Hook Shot,POST_MOVES,,2018
+Dario Saric,203967,Jump Shot,2,492,190,Jump Shot,JUMP_SHOTS,,2018
+Dario Saric,203967,Standard Layup,2,66,32,Layup Shot,LAYUPS,,2018
+Dario Saric,203967,Pullup Jump Shot,2,25,8,Pullup Jump shot,JUMP_SHOTS,,2018
+Dario Saric,203967,Putback Layup,2,14,10,Putback Layup Shot,LAYUPS,,2018
+Dario Saric,203967,Reverse Layup,2,21,13,Reverse Layup Shot,LAYUPS,,2018
+Dario Saric,203967,Alley Oop Layup,2,1,0,Running Alley Oop Layup Shot,LAYUPS,,2018
+Dario Saric,203967,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2018
+Dario Saric,203967,Finger Roll,2,5,3,Running Finger Roll Layup Shot,LAYUPS,,2018
+Dario Saric,203967,Running Jump Shot,2,4,3,Running Jump Shot,JUMP_SHOTS,,2018
+Dario Saric,203967,Standard Layup,2,13,9,Running Layup Shot,LAYUPS,,2018
+Dario Saric,203967,Running Jump Shot,2,2,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2018
+Dario Saric,203967,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2018
+Dario Saric,203967,Step Back Jump Shot,2,12,6,Step Back Jump shot,JUMP_SHOTS,,2018
+Dario Saric,203967,Putback Layup,2,11,6,Tip Layup Shot,LAYUPS,,2018
+Dario Saric,203967,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2018
+Dario Saric,203967,Turnaround Jump Shot,2,3,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2018
+Dario Saric,203967,Turnaround Hook Shot,2,13,5,Turnaround Hook Shot,POST_MOVES,,2018
+Dario Saric,203967,Turnaround Jump Shot,2,6,1,Turnaround Jump Shot,JUMP_SHOTS,,2018
+Dario Saric,203967,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2019
+Dario Saric,203967,Specialty Dunk,2,5,5,Cutting Dunk Shot,DUNKS,,2019
+Dario Saric,203967,Standard Layup,2,43,35,Cutting Layup Shot,LAYUPS,,2019
+Dario Saric,203967,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2019
+Dario Saric,203967,Finger Roll,2,5,3,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Dario Saric,203967,Floating Jump Shot,2,4,3,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Dario Saric,203967,Floating Jump Shot,2,4,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Dario Saric,203967,Driving Hook Shot,2,5,0,Driving Hook Shot,POST_MOVES,,2019
+Dario Saric,203967,Driving Layup,2,49,28,Driving Layup Shot,LAYUPS,,2019
+Dario Saric,203967,Driving Layup,2,9,5,Driving Reverse Layup Shot,LAYUPS,,2019
+Dario Saric,203967,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2019
+Dario Saric,203967,Fadeaway Jump Shot,2,3,1,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+Dario Saric,203967,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2019
+Dario Saric,203967,Floating Jump Shot,2,7,1,Floating Jump shot,FLOATING_SHOTS,,2019
+Dario Saric,203967,Hook Shot,2,15,3,Hook Shot,POST_MOVES,,2019
+Dario Saric,203967,Jump Shot,2,4,2,Jump Bank Shot,JUMP_SHOTS,,2019
+Dario Saric,203967,Jump Shot,2,349,123,Jump Shot,JUMP_SHOTS,,2019
+Dario Saric,203967,Standard Layup,2,57,28,Layup Shot,LAYUPS,,2019
+Dario Saric,203967,Pullup Jump Shot,2,36,18,Pullup Jump shot,JUMP_SHOTS,,2019
+Dario Saric,203967,Putback Layup,2,18,12,Putback Layup Shot,LAYUPS,,2019
+Dario Saric,203967,Reverse Layup,2,14,8,Reverse Layup Shot,LAYUPS,,2019
+Dario Saric,203967,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2019
+Dario Saric,203967,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2019
+Dario Saric,203967,Running Jump Shot,2,7,1,Running Jump Shot,JUMP_SHOTS,,2019
+Dario Saric,203967,Standard Layup,2,7,7,Running Layup Shot,LAYUPS,,2019
+Dario Saric,203967,Running Jump Shot,2,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2019
+Dario Saric,203967,Step Back Jump Shot,2,17,4,Step Back Jump shot,JUMP_SHOTS,,2019
+Dario Saric,203967,Putback Layup,2,8,5,Tip Layup Shot,LAYUPS,,2019
+Dario Saric,203967,Turnaround Hook Shot,2,1,0,Turnaround Bank Hook Shot,POST_MOVES,,2019
+Dario Saric,203967,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2019
+Dario Saric,203967,Turnaround Hook Shot,2,12,5,Turnaround Hook Shot,POST_MOVES,,2019
+Dario Saric,203967,Turnaround Jump Shot,2,7,0,Turnaround Jump Shot,JUMP_SHOTS,,2019
+Dario Saric,203967,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2020
+Dario Saric,203967,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2020
+Dario Saric,203967,Finger Roll,2,2,1,Cutting Finger Roll Layup Shot,LAYUPS,,2020
+Dario Saric,203967,Standard Layup,2,42,28,Cutting Layup Shot,LAYUPS,,2020
+Dario Saric,203967,Driving Hook Shot,2,1,0,Driving Bank Hook Shot,POST_MOVES,,2020
+Dario Saric,203967,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2020
+Dario Saric,203967,Finger Roll,2,6,5,Driving Finger Roll Layup Shot,LAYUPS,,2020
+Dario Saric,203967,Floating Jump Shot,2,2,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2020
+Dario Saric,203967,Floating Jump Shot,2,16,8,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Dario Saric,203967,Driving Hook Shot,2,3,2,Driving Hook Shot,POST_MOVES,,2020
+Dario Saric,203967,Driving Layup,2,35,22,Driving Layup Shot,LAYUPS,,2020
+Dario Saric,203967,Driving Layup,2,6,5,Driving Reverse Layup Shot,LAYUPS,,2020
+Dario Saric,203967,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2020
+Dario Saric,203967,Fadeaway Jump Shot,2,4,0,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+Dario Saric,203967,Floating Jump Shot,2,10,5,Floating Jump shot,FLOATING_SHOTS,,2020
+Dario Saric,203967,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2020
+Dario Saric,203967,Hook Shot,2,16,8,Hook Shot,POST_MOVES,,2020
+Dario Saric,203967,Jump Shot,2,254,93,Jump Shot,JUMP_SHOTS,,2020
+Dario Saric,203967,Standard Layup,2,39,15,Layup Shot,LAYUPS,,2020
+Dario Saric,203967,Pullup Jump Shot,2,7,2,Pullup Jump shot,JUMP_SHOTS,,2020
+Dario Saric,203967,Putback Layup,2,21,16,Putback Layup Shot,LAYUPS,,2020
+Dario Saric,203967,Reverse Layup,2,11,8,Reverse Layup Shot,LAYUPS,,2020
+Dario Saric,203967,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2020
+Dario Saric,203967,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2020
+Dario Saric,203967,Running Jump Shot,2,8,5,Running Jump Shot,JUMP_SHOTS,,2020
+Dario Saric,203967,Standard Layup,2,9,7,Running Layup Shot,LAYUPS,,2020
+Dario Saric,203967,Step Back Jump Shot,2,9,4,Step Back Jump shot,JUMP_SHOTS,,2020
+Dario Saric,203967,Putback Layup,2,9,6,Tip Layup Shot,LAYUPS,,2020
+Dario Saric,203967,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2020
+Dario Saric,203967,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2020
+Dario Saric,203967,Turnaround Hook Shot,2,9,5,Turnaround Hook Shot,POST_MOVES,,2020
+Dario Saric,203967,Turnaround Jump Shot,2,7,1,Turnaround Jump Shot,JUMP_SHOTS,,2020
+Dario Saric,203967,Finger Roll,2,3,1,Cutting Finger Roll Layup Shot,LAYUPS,,2021
+Dario Saric,203967,Standard Layup,2,31,20,Cutting Layup Shot,LAYUPS,,2021
+Dario Saric,203967,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2021
+Dario Saric,203967,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Dario Saric,203967,Floating Jump Shot,2,4,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Dario Saric,203967,Driving Hook Shot,2,3,1,Driving Hook Shot,POST_MOVES,,2021
+Dario Saric,203967,Driving Layup,2,20,8,Driving Layup Shot,LAYUPS,,2021
+Dario Saric,203967,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2021
+Dario Saric,203967,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2021
+Dario Saric,203967,Floating Jump Shot,2,15,11,Floating Jump shot,FLOATING_SHOTS,,2021
+Dario Saric,203967,Hook Shot,2,21,9,Hook Shot,POST_MOVES,,2021
+Dario Saric,203967,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2021
+Dario Saric,203967,Jump Shot,2,149,51,Jump Shot,JUMP_SHOTS,,2021
+Dario Saric,203967,Standard Layup,2,25,13,Layup Shot,LAYUPS,,2021
+Dario Saric,203967,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2021
+Dario Saric,203967,Putback Layup,2,11,6,Putback Layup Shot,LAYUPS,,2021
+Dario Saric,203967,Reverse Layup,2,15,13,Reverse Layup Shot,LAYUPS,,2021
+Dario Saric,203967,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2021
+Dario Saric,203967,Standard Layup,2,3,3,Running Layup Shot,LAYUPS,,2021
+Dario Saric,203967,Step Back Jump Shot,2,5,2,Step Back Jump shot,JUMP_SHOTS,,2021
+Dario Saric,203967,Putback Layup,2,6,3,Tip Layup Shot,LAYUPS,,2021
+Dario Saric,203967,Turnaround Hook Shot,2,1,0,Turnaround Bank Hook Shot,POST_MOVES,,2021
+Dario Saric,203967,Turnaround Jump Shot,2,5,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2021
+Dario Saric,203967,Turnaround Hook Shot,2,12,3,Turnaround Hook Shot,POST_MOVES,,2021
+Dario Saric,203967,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2021
+Dario Saric,203967,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2023
+Dario Saric,203967,Specialty Dunk,2,1,0,Cutting Dunk Shot,DUNKS,,2023
+Dario Saric,203967,Finger Roll,2,2,2,Cutting Finger Roll Layup Shot,LAYUPS,,2023
+Dario Saric,203967,Standard Layup,2,13,11,Cutting Layup Shot,LAYUPS,,2023
+Dario Saric,203967,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Dario Saric,203967,Floating Jump Shot,2,2,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+Dario Saric,203967,Floating Jump Shot,2,16,4,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Dario Saric,203967,Driving Hook Shot,2,6,2,Driving Hook Shot,POST_MOVES,,2023
+Dario Saric,203967,Driving Layup,2,17,7,Driving Layup Shot,LAYUPS,,2023
+Dario Saric,203967,Floating Jump Shot,2,12,8,Floating Jump shot,FLOATING_SHOTS,,2023
+Dario Saric,203967,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2023
+Dario Saric,203967,Hook Shot,2,6,2,Hook Shot,POST_MOVES,,2023
+Dario Saric,203967,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2023
+Dario Saric,203967,Jump Shot,2,120,47,Jump Shot,JUMP_SHOTS,,2023
+Dario Saric,203967,Standard Layup,2,14,8,Layup Shot,LAYUPS,,2023
+Dario Saric,203967,Pullup Jump Shot,2,9,2,Pullup Jump shot,JUMP_SHOTS,,2023
+Dario Saric,203967,Putback Layup,2,8,5,Putback Layup Shot,LAYUPS,,2023
+Dario Saric,203967,Reverse Layup,2,7,7,Reverse Layup Shot,LAYUPS,,2023
+Dario Saric,203967,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2023
+Dario Saric,203967,Running Jump Shot,2,5,1,Running Jump Shot,JUMP_SHOTS,,2023
+Dario Saric,203967,Standard Layup,2,5,5,Running Layup Shot,LAYUPS,,2023
+Dario Saric,203967,Step Back Jump Shot,2,4,1,Step Back Jump shot,JUMP_SHOTS,,2023
+Dario Saric,203967,Putback Layup,2,9,5,Tip Layup Shot,LAYUPS,,2023
+Dario Saric,203967,Turnaround Hook Shot,2,1,0,Turnaround Bank Hook Shot,POST_MOVES,,2023
+Dario Saric,203967,Turnaround Jump Shot,2,3,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2023
+Dario Saric,203967,Turnaround Hook Shot,2,10,4,Turnaround Hook Shot,POST_MOVES,,2023
+Dario Saric,203967,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2023
+Dario Saric,203967,Standard Layup,2,21,20,Cutting Layup Shot,LAYUPS,,2024
+Dario Saric,203967,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Dario Saric,203967,Floating Jump Shot,2,3,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Dario Saric,203967,Floating Jump Shot,2,7,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Dario Saric,203967,Driving Hook Shot,2,4,2,Driving Hook Shot,POST_MOVES,,2024
+Dario Saric,203967,Driving Layup,2,38,24,Driving Layup Shot,LAYUPS,,2024
+Dario Saric,203967,Driving Layup,2,6,5,Driving Reverse Layup Shot,LAYUPS,,2024
+Dario Saric,203967,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2024
+Dario Saric,203967,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Dario Saric,203967,Floating Jump Shot,2,4,2,Floating Jump shot,FLOATING_SHOTS,,2024
+Dario Saric,203967,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2024
+Dario Saric,203967,Hook Shot,2,12,5,Hook Shot,POST_MOVES,,2024
+Dario Saric,203967,Jump Shot,2,24,11,Jump Shot,JUMP_SHOTS,,2024
+Dario Saric,203967,Jump Shot,3,182,68,Jump Shot,JUMP_SHOTS,,2024
+Dario Saric,203967,Standard Layup,2,29,10,Layup Shot,LAYUPS,,2024
+Dario Saric,203967,Pullup Jump Shot,2,2,0,Pullup Jump shot,JUMP_SHOTS,,2024
+Dario Saric,203967,Pullup Jump Shot,3,3,2,Pullup Jump shot,JUMP_SHOTS,,2024
+Dario Saric,203967,Putback Layup,2,10,9,Putback Layup Shot,LAYUPS,,2024
+Dario Saric,203967,Reverse Layup,2,5,4,Reverse Layup Shot,LAYUPS,,2024
+Dario Saric,203967,Running Jump Shot,3,8,4,Running Jump Shot,JUMP_SHOTS,,2024
+Dario Saric,203967,Standard Layup,2,7,4,Running Layup Shot,LAYUPS,,2024
+Dario Saric,203967,Running Jump Shot,3,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Dario Saric,203967,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2024
+Dario Saric,203967,Step Back Jump Shot,3,3,0,Step Back Jump shot,JUMP_SHOTS,,2024
+Dario Saric,203967,Turnaround Hook Shot,2,1,1,Turnaround Bank Hook Shot,POST_MOVES,,2024
+Dario Saric,203967,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2024
+Dario Saric,203967,Turnaround Hook Shot,2,5,2,Turnaround Hook Shot,POST_MOVES,,2024
+Dario Saric,203967,Turnaround Jump Shot,2,4,1,Turnaround Jump Shot,JUMP_SHOTS,,2024
+Dario Šarić,203967,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2025
+Dario Šarić,203967,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Dario Šarić,203967,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2025
+Dario Šarić,203967,Driving Layup,2,2,0,Driving Layup Shot,LAYUPS,,2025
+Dario Šarić,203967,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2025
+Dario Šarić,203967,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2025
+Dario Šarić,203967,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2025
+Dario Šarić,203967,Jump Shot,2,3,1,Jump Shot,JUMP_SHOTS,,2025
+Dario Šarić,203967,Jump Shot,3,22,6,Jump Shot,JUMP_SHOTS,,2025
+Dario Šarić,203967,Standard Layup,2,8,4,Layup Shot,LAYUPS,,2025
+Dario Šarić,203967,Pullup Jump Shot,3,2,0,Pullup Jump shot,JUMP_SHOTS,,2025
+Dario Šarić,203967,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2025
+Dario Šarić,203967,Reverse Layup,2,2,0,Reverse Layup Shot,LAYUPS,,2025
+Dario Šarić,203967,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2025
+Dario Šarić,203967,Turnaround Hook Shot,2,5,1,Turnaround Hook Shot,POST_MOVES,,2025
+Dario Šarić,203967,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2025

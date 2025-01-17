@@ -1,37 +1,253 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-202355,Alley Oop Dunk,2PT Field Goal,2,2,Alley Oop Dunk Shot,DUNKS,1.0,2015
-202355,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2015
-202355,Hook Shot,2PT Field Goal,2,2,Hook Shot,POST_MOVES,1.0,2015
-202355,Hook Shot,2PT Field Goal,1,0,Jump Hook Shot,POST_MOVES,0.0,2015
-202355,Jump Shot,2PT Field Goal,6,1,Jump Shot,JUMP_SHOTS,0.1666666666666666,2015
-202355,Standard Layup,2PT Field Goal,8,3,Layup Shot,LAYUPS,0.375,2015
-202355,Standard Dunk,2PT Field Goal,2,2,Slam Dunk Shot,DUNKS,1.0,2015
-202355,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Bank shot,JUMP_SHOTS,1.0,2015
-202355,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2016
-202355,Standard Dunk,2PT Field Goal,3,3,Dunk Shot,DUNKS,1.0,2016
-202355,Standard Layup,2PT Field Goal,2,0,Layup Shot,LAYUPS,0.0,2016
-202355,Putback Layup,2PT Field Goal,1,1,Tip Layup Shot,LAYUPS,1.0,2016
-202355,Alley Oop Dunk,2PT Field Goal,4,4,Alley Oop Dunk Shot,DUNKS,1.0,2020
-202355,Alley Oop Layup,2PT Field Goal,1,0,Alley Oop Layup shot,LAYUPS,0.0,2020
-202355,Specialty Dunk,2PT Field Goal,20,20,Cutting Dunk Shot,DUNKS,1.0,2020
-202355,Standard Layup,2PT Field Goal,13,9,Cutting Layup Shot,LAYUPS,0.6923076923076923,2020
-202355,Driving Dunk,2PT Field Goal,3,3,Driving Dunk Shot,DUNKS,1.0,2020
-202355,Floating Jump Shot,2PT Field Goal,2,1,Driving Floating Jump Shot,FLOATING_SHOTS,0.5,2020
-202355,Driving Hook Shot,2PT Field Goal,4,3,Driving Hook Shot,POST_MOVES,0.75,2020
-202355,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2020
-202355,Standard Dunk,2PT Field Goal,9,9,Dunk Shot,DUNKS,1.0,2020
-202355,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2020
-202355,Floating Jump Shot,2PT Field Goal,18,11,Floating Jump shot,FLOATING_SHOTS,0.6111111111111112,2020
-202355,Hook Shot,2PT Field Goal,1,1,Hook Bank Shot,POST_MOVES,1.0,2020
-202355,Hook Shot,2PT Field Goal,12,5,Hook Shot,POST_MOVES,0.4166666666666667,2020
-202355,Jump Shot,2PT Field Goal,10,4,Jump Shot,JUMP_SHOTS,0.4,2020
-202355,Jump Shot,3PT Field Goal,4,2,Jump Shot,JUMP_SHOTS,0.75,2020
-202355,Standard Layup,2PT Field Goal,11,4,Layup Shot,LAYUPS,0.3636363636363636,2020
-202355,Putback Dunk,2PT Field Goal,2,2,Putback Dunk Shot,DUNKS,1.0,2020
-202355,Putback Layup,2PT Field Goal,5,4,Putback Layup Shot,LAYUPS,0.8,2020
-202355,Reverse Layup,2PT Field Goal,3,2,Reverse Layup Shot,LAYUPS,0.6666666666666666,2020
-202355,Specialty Dunk,2PT Field Goal,5,5,Tip Dunk Shot,DUNKS,1.0,2020
-202355,Putback Layup,2PT Field Goal,24,11,Tip Layup Shot,LAYUPS,0.4583333333333333,2020
-202355,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2020
-202355,Turnaround Hook Shot,2PT Field Goal,17,9,Turnaround Hook Shot,POST_MOVES,0.5294117647058824,2020
-202355,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2020
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Hassan Whiteside,202355,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2012
+Hassan Whiteside,202355,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2012
+Hassan Whiteside,202355,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2012
+Hassan Whiteside,202355,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2012
+Hassan Whiteside,202355,Hook Shot,2,4,3,Jump Hook Shot,POST_MOVES,,2012
+Hassan Whiteside,202355,Jump Shot,2,8,1,Jump Shot,JUMP_SHOTS,,2012
+Hassan Whiteside,202355,Standard Layup,2,7,1,Layup Shot,LAYUPS,,2012
+Hassan Whiteside,202355,Standard Dunk,2,2,1,Slam Dunk Shot,DUNKS,,2012
+Hassan Whiteside,202355,Alley Oop Dunk,2,29,26,Alley Oop Dunk Shot,DUNKS,,2015
+Hassan Whiteside,202355,Alley Oop Layup,2,6,4,Alley Oop Layup shot,LAYUPS,,2015
+Hassan Whiteside,202355,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2015
+Hassan Whiteside,202355,Driving Hook Shot,2,2,2,Driving Hook Shot,POST_MOVES,,2015
+Hassan Whiteside,202355,Driving Jump Shot,2,1,1,Driving Jump shot,JUMP_SHOTS,,2015
+Hassan Whiteside,202355,Driving Layup,2,9,6,Driving Layup Shot,LAYUPS,,2015
+Hassan Whiteside,202355,Standard Dunk,2,42,40,Dunk Shot,DUNKS,,2015
+Hassan Whiteside,202355,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+Hassan Whiteside,202355,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2015
+Hassan Whiteside,202355,Floating Jump Shot,2,2,2,Floating Jump shot,FLOATING_SHOTS,,2015
+Hassan Whiteside,202355,Hook Shot,2,56,34,Hook Shot,POST_MOVES,,2015
+Hassan Whiteside,202355,Jump Shot,2,3,3,Jump Bank Shot,JUMP_SHOTS,,2015
+Hassan Whiteside,202355,Hook Shot,2,9,2,Jump Hook Shot,POST_MOVES,,2015
+Hassan Whiteside,202355,Jump Shot,2,80,33,Jump Shot,JUMP_SHOTS,,2015
+Hassan Whiteside,202355,Standard Layup,2,72,42,Layup Shot,LAYUPS,,2015
+Hassan Whiteside,202355,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2015
+Hassan Whiteside,202355,Putback Dunk,2,10,10,Putback Dunk Shot,DUNKS,,2015
+Hassan Whiteside,202355,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2015
+Hassan Whiteside,202355,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2015
+Hassan Whiteside,202355,Standard Dunk,2,8,8,Slam Dunk Shot,DUNKS,,2015
+Hassan Whiteside,202355,Tip Shot,2,25,13,Tip Shot,TIP_SHOTS,,2015
+Hassan Whiteside,202355,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2015
+Hassan Whiteside,202355,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2015
+Hassan Whiteside,202355,Turnaround Hook Shot,2,16,7,Turnaround Hook Shot,POST_MOVES,,2015
+Hassan Whiteside,202355,Turnaround Jump Shot,2,8,2,Turnaround Jump Shot,JUMP_SHOTS,,2015
+Hassan Whiteside,202355,Alley Oop Dunk,2,66,61,Alley Oop Dunk Shot,DUNKS,,2016
+Hassan Whiteside,202355,Alley Oop Layup,2,11,6,Alley Oop Layup shot,LAYUPS,,2016
+Hassan Whiteside,202355,Specialty Dunk,2,4,4,Cutting Dunk Shot,DUNKS,,2016
+Hassan Whiteside,202355,Standard Layup,2,5,5,Cutting Layup Shot,LAYUPS,,2016
+Hassan Whiteside,202355,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2016
+Hassan Whiteside,202355,Driving Dunk,2,5,5,Driving Dunk Shot,DUNKS,,2016
+Hassan Whiteside,202355,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Hassan Whiteside,202355,Floating Jump Shot,2,1,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Hassan Whiteside,202355,Driving Hook Shot,2,5,4,Driving Hook Shot,POST_MOVES,,2016
+Hassan Whiteside,202355,Driving Layup,2,3,2,Driving Layup Shot,LAYUPS,,2016
+Hassan Whiteside,202355,Standard Dunk,2,62,62,Dunk Shot,DUNKS,,2016
+Hassan Whiteside,202355,Fadeaway Jump Shot,2,5,2,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Hassan Whiteside,202355,Floating Jump Shot,2,6,4,Floating Jump shot,FLOATING_SHOTS,,2016
+Hassan Whiteside,202355,Hook Shot,2,6,5,Hook Bank Shot,POST_MOVES,,2016
+Hassan Whiteside,202355,Hook Shot,2,93,43,Hook Shot,POST_MOVES,,2016
+Hassan Whiteside,202355,Jump Shot,2,15,10,Jump Bank Shot,JUMP_SHOTS,,2016
+Hassan Whiteside,202355,Jump Shot,2,164,65,Jump Shot,JUMP_SHOTS,,2016
+Hassan Whiteside,202355,Standard Layup,2,104,64,Layup Shot,LAYUPS,,2016
+Hassan Whiteside,202355,Putback Dunk,2,14,14,Putback Dunk Shot,DUNKS,,2016
+Hassan Whiteside,202355,Putback Layup,2,13,9,Putback Layup Shot,LAYUPS,,2016
+Hassan Whiteside,202355,Reverse Layup,2,5,3,Reverse Layup Shot,LAYUPS,,2016
+Hassan Whiteside,202355,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2016
+Hassan Whiteside,202355,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2016
+Hassan Whiteside,202355,Step Back Jump Shot,2,4,1,Step Back Jump shot,JUMP_SHOTS,,2016
+Hassan Whiteside,202355,Specialty Dunk,2,2,2,Tip Dunk Shot,DUNKS,,2016
+Hassan Whiteside,202355,Putback Layup,2,37,20,Tip Layup Shot,LAYUPS,,2016
+Hassan Whiteside,202355,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2016
+Hassan Whiteside,202355,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2016
+Hassan Whiteside,202355,Turnaround Hook Shot,2,28,8,Turnaround Hook Shot,POST_MOVES,,2016
+Hassan Whiteside,202355,Turnaround Jump Shot,2,17,6,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Hassan Whiteside,202355,Alley Oop Dunk,2,58,54,Alley Oop Dunk Shot,DUNKS,,2017
+Hassan Whiteside,202355,Alley Oop Layup,2,8,5,Alley Oop Layup shot,LAYUPS,,2017
+Hassan Whiteside,202355,Specialty Dunk,2,8,8,Cutting Dunk Shot,DUNKS,,2017
+Hassan Whiteside,202355,Standard Layup,2,9,8,Cutting Layup Shot,LAYUPS,,2017
+Hassan Whiteside,202355,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2017
+Hassan Whiteside,202355,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2017
+Hassan Whiteside,202355,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Hassan Whiteside,202355,Floating Jump Shot,2,2,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Hassan Whiteside,202355,Driving Hook Shot,2,14,5,Driving Hook Shot,POST_MOVES,,2017
+Hassan Whiteside,202355,Driving Layup,2,23,17,Driving Layup Shot,LAYUPS,,2017
+Hassan Whiteside,202355,Driving Layup,2,4,4,Driving Reverse Layup Shot,LAYUPS,,2017
+Hassan Whiteside,202355,Standard Dunk,2,73,67,Dunk Shot,DUNKS,,2017
+Hassan Whiteside,202355,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Hassan Whiteside,202355,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2017
+Hassan Whiteside,202355,Floating Jump Shot,2,9,6,Floating Jump shot,FLOATING_SHOTS,,2017
+Hassan Whiteside,202355,Hook Shot,2,3,3,Hook Bank Shot,POST_MOVES,,2017
+Hassan Whiteside,202355,Hook Shot,2,167,83,Hook Shot,POST_MOVES,,2017
+Hassan Whiteside,202355,Jump Shot,2,11,8,Jump Bank Shot,JUMP_SHOTS,,2017
+Hassan Whiteside,202355,Jump Shot,2,259,87,Jump Shot,JUMP_SHOTS,,2017
+Hassan Whiteside,202355,Standard Layup,2,113,52,Layup Shot,LAYUPS,,2017
+Hassan Whiteside,202355,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2017
+Hassan Whiteside,202355,Putback Dunk,2,18,17,Putback Dunk Shot,DUNKS,,2017
+Hassan Whiteside,202355,Putback Layup,2,25,23,Putback Layup Shot,LAYUPS,,2017
+Hassan Whiteside,202355,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2017
+Hassan Whiteside,202355,Reverse Layup,2,8,6,Reverse Layup Shot,LAYUPS,,2017
+Hassan Whiteside,202355,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2017
+Hassan Whiteside,202355,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2017
+Hassan Whiteside,202355,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2017
+Hassan Whiteside,202355,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2017
+Hassan Whiteside,202355,Reverse Dunk,2,1,1,Running Reverse Dunk Shot,DUNKS,,2017
+Hassan Whiteside,202355,Step Back Jump Shot,2,3,2,Step Back Jump shot,JUMP_SHOTS,,2017
+Hassan Whiteside,202355,Specialty Dunk,2,9,9,Tip Dunk Shot,DUNKS,,2017
+Hassan Whiteside,202355,Putback Layup,2,42,21,Tip Layup Shot,LAYUPS,,2017
+Hassan Whiteside,202355,Turnaround Jump Shot,2,1,0,Turnaround Bank shot,JUMP_SHOTS,,2017
+Hassan Whiteside,202355,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2017
+Hassan Whiteside,202355,Turnaround Jump Shot,2,5,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2017
+Hassan Whiteside,202355,Turnaround Hook Shot,2,54,24,Turnaround Hook Shot,POST_MOVES,,2017
+Hassan Whiteside,202355,Turnaround Jump Shot,2,29,15,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Hassan Whiteside,202355,Alley Oop Dunk,2,30,24,Alley Oop Dunk Shot,DUNKS,,2018
+Hassan Whiteside,202355,Alley Oop Layup,2,8,4,Alley Oop Layup shot,LAYUPS,,2018
+Hassan Whiteside,202355,Specialty Dunk,2,16,15,Cutting Dunk Shot,DUNKS,,2018
+Hassan Whiteside,202355,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2018
+Hassan Whiteside,202355,Standard Layup,2,7,3,Cutting Layup Shot,LAYUPS,,2018
+Hassan Whiteside,202355,Driving Dunk,2,7,7,Driving Dunk Shot,DUNKS,,2018
+Hassan Whiteside,202355,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Hassan Whiteside,202355,Driving Hook Shot,2,6,4,Driving Hook Shot,POST_MOVES,,2018
+Hassan Whiteside,202355,Driving Layup,2,7,4,Driving Layup Shot,LAYUPS,,2018
+Hassan Whiteside,202355,Driving Layup,2,2,0,Driving Reverse Layup Shot,LAYUPS,,2018
+Hassan Whiteside,202355,Standard Dunk,2,33,32,Dunk Shot,DUNKS,,2018
+Hassan Whiteside,202355,Fadeaway Jump Shot,2,6,1,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+Hassan Whiteside,202355,Floating Jump Shot,2,21,7,Floating Jump shot,FLOATING_SHOTS,,2018
+Hassan Whiteside,202355,Hook Shot,2,58,25,Hook Shot,POST_MOVES,,2018
+Hassan Whiteside,202355,Jump Shot,2,11,6,Jump Bank Shot,JUMP_SHOTS,,2018
+Hassan Whiteside,202355,Jump Shot,2,138,52,Jump Shot,JUMP_SHOTS,,2018
+Hassan Whiteside,202355,Standard Layup,2,77,39,Layup Shot,LAYUPS,,2018
+Hassan Whiteside,202355,Pullup Jump Shot,2,2,2,Pullup Jump shot,JUMP_SHOTS,,2018
+Hassan Whiteside,202355,Putback Dunk,2,7,7,Putback Dunk Shot,DUNKS,,2018
+Hassan Whiteside,202355,Putback Layup,2,26,17,Putback Layup Shot,LAYUPS,,2018
+Hassan Whiteside,202355,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2018
+Hassan Whiteside,202355,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2018
+Hassan Whiteside,202355,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2018
+Hassan Whiteside,202355,Specialty Dunk,2,4,4,Tip Dunk Shot,DUNKS,,2018
+Hassan Whiteside,202355,Putback Layup,2,36,24,Tip Layup Shot,LAYUPS,,2018
+Hassan Whiteside,202355,Turnaround Jump Shot,2,5,3,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2018
+Hassan Whiteside,202355,Turnaround Jump Shot,2,5,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2018
+Hassan Whiteside,202355,Turnaround Hook Shot,2,36,16,Turnaround Hook Shot,POST_MOVES,,2018
+Hassan Whiteside,202355,Turnaround Jump Shot,2,21,10,Turnaround Jump Shot,JUMP_SHOTS,,2018
+Hassan Whiteside,202355,Alley Oop Dunk,2,50,48,Alley Oop Dunk Shot,DUNKS,,2019
+Hassan Whiteside,202355,Alley Oop Layup,2,24,13,Alley Oop Layup shot,LAYUPS,,2019
+Hassan Whiteside,202355,Specialty Dunk,2,23,23,Cutting Dunk Shot,DUNKS,,2019
+Hassan Whiteside,202355,Standard Layup,2,11,9,Cutting Layup Shot,LAYUPS,,2019
+Hassan Whiteside,202355,Driving Dunk,2,10,10,Driving Dunk Shot,DUNKS,,2019
+Hassan Whiteside,202355,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Hassan Whiteside,202355,Floating Jump Shot,2,12,6,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Hassan Whiteside,202355,Driving Hook Shot,2,3,1,Driving Hook Shot,POST_MOVES,,2019
+Hassan Whiteside,202355,Driving Layup,2,12,5,Driving Layup Shot,LAYUPS,,2019
+Hassan Whiteside,202355,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2019
+Hassan Whiteside,202355,Standard Dunk,2,42,39,Dunk Shot,DUNKS,,2019
+Hassan Whiteside,202355,Fadeaway Jump Shot,2,3,1,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+Hassan Whiteside,202355,Floating Jump Shot,2,15,5,Floating Jump shot,FLOATING_SHOTS,,2019
+Hassan Whiteside,202355,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2019
+Hassan Whiteside,202355,Hook Shot,2,65,27,Hook Shot,POST_MOVES,,2019
+Hassan Whiteside,202355,Jump Shot,2,7,3,Jump Bank Shot,JUMP_SHOTS,,2019
+Hassan Whiteside,202355,Jump Shot,2,91,31,Jump Shot,JUMP_SHOTS,,2019
+Hassan Whiteside,202355,Standard Layup,2,77,41,Layup Shot,LAYUPS,,2019
+Hassan Whiteside,202355,Pullup Jump Shot,2,3,1,Pullup Jump shot,JUMP_SHOTS,,2019
+Hassan Whiteside,202355,Putback Dunk,2,17,17,Putback Dunk Shot,DUNKS,,2019
+Hassan Whiteside,202355,Putback Layup,2,28,21,Putback Layup Shot,LAYUPS,,2019
+Hassan Whiteside,202355,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2019
+Hassan Whiteside,202355,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2019
+Hassan Whiteside,202355,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2019
+Hassan Whiteside,202355,Standard Layup,2,6,4,Running Layup Shot,LAYUPS,,2019
+Hassan Whiteside,202355,Specialty Dunk,2,13,12,Tip Dunk Shot,DUNKS,,2019
+Hassan Whiteside,202355,Putback Layup,2,90,40,Tip Layup Shot,LAYUPS,,2019
+Hassan Whiteside,202355,Turnaround Hook Shot,2,1,1,Turnaround Bank Hook Shot,POST_MOVES,,2019
+Hassan Whiteside,202355,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2019
+Hassan Whiteside,202355,Turnaround Jump Shot,2,6,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2019
+Hassan Whiteside,202355,Turnaround Hook Shot,2,58,23,Turnaround Hook Shot,POST_MOVES,,2019
+Hassan Whiteside,202355,Turnaround Jump Shot,2,5,2,Turnaround Jump Shot,JUMP_SHOTS,,2019
+Hassan Whiteside,202355,Alley Oop Dunk,2,13,11,Alley Oop Dunk Shot,DUNKS,,2020
+Hassan Whiteside,202355,Alley Oop Layup,2,4,3,Alley Oop Layup shot,LAYUPS,,2020
+Hassan Whiteside,202355,Specialty Dunk,2,43,43,Cutting Dunk Shot,DUNKS,,2020
+Hassan Whiteside,202355,Finger Roll,2,3,3,Cutting Finger Roll Layup Shot,LAYUPS,,2020
+Hassan Whiteside,202355,Standard Layup,2,42,29,Cutting Layup Shot,LAYUPS,,2020
+Hassan Whiteside,202355,Driving Hook Shot,2,1,0,Driving Bank Hook Shot,POST_MOVES,,2020
+Hassan Whiteside,202355,Driving Dunk,2,7,7,Driving Dunk Shot,DUNKS,,2020
+Hassan Whiteside,202355,Floating Jump Shot,2,12,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Hassan Whiteside,202355,Driving Hook Shot,2,16,12,Driving Hook Shot,POST_MOVES,,2020
+Hassan Whiteside,202355,Driving Layup,2,15,6,Driving Layup Shot,LAYUPS,,2020
+Hassan Whiteside,202355,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2020
+Hassan Whiteside,202355,Standard Dunk,2,39,38,Dunk Shot,DUNKS,,2020
+Hassan Whiteside,202355,Fadeaway Jump Shot,2,4,3,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+Hassan Whiteside,202355,Floating Jump Shot,2,74,38,Floating Jump shot,FLOATING_SHOTS,,2020
+Hassan Whiteside,202355,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2020
+Hassan Whiteside,202355,Hook Shot,2,53,27,Hook Shot,POST_MOVES,,2020
+Hassan Whiteside,202355,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2020
+Hassan Whiteside,202355,Jump Shot,2,57,23,Jump Shot,JUMP_SHOTS,,2020
+Hassan Whiteside,202355,Jump Shot,3,4,2,Jump Shot,JUMP_SHOTS,,2020
+Hassan Whiteside,202355,Standard Layup,2,61,33,Layup Shot,LAYUPS,,2020
+Hassan Whiteside,202355,Pullup Jump Shot,2,4,2,Pullup Jump shot,JUMP_SHOTS,,2020
+Hassan Whiteside,202355,Putback Dunk,2,14,13,Putback Dunk Shot,DUNKS,,2020
+Hassan Whiteside,202355,Putback Layup,2,36,30,Putback Layup Shot,LAYUPS,,2020
+Hassan Whiteside,202355,Reverse Layup,2,4,3,Reverse Layup Shot,LAYUPS,,2020
+Hassan Whiteside,202355,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2020
+Hassan Whiteside,202355,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2020
+Hassan Whiteside,202355,Step Back Jump Shot,2,2,0,Step Back Jump shot,JUMP_SHOTS,,2020
+Hassan Whiteside,202355,Specialty Dunk,2,16,16,Tip Dunk Shot,DUNKS,,2020
+Hassan Whiteside,202355,Putback Layup,2,84,46,Tip Layup Shot,LAYUPS,,2020
+Hassan Whiteside,202355,Turnaround Hook Shot,2,1,0,Turnaround Bank Hook Shot,POST_MOVES,,2020
+Hassan Whiteside,202355,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2020
+Hassan Whiteside,202355,Turnaround Jump Shot,2,6,3,Turnaround Fadeaway shot,JUMP_SHOTS,,2020
+Hassan Whiteside,202355,Turnaround Hook Shot,2,66,31,Turnaround Hook Shot,POST_MOVES,,2020
+Hassan Whiteside,202355,Turnaround Jump Shot,2,15,6,Turnaround Jump Shot,JUMP_SHOTS,,2020
+Hassan Whiteside,202355,Alley Oop Dunk,2,8,8,Alley Oop Dunk Shot,DUNKS,,2021
+Hassan Whiteside,202355,Alley Oop Layup,2,3,1,Alley Oop Layup shot,LAYUPS,,2021
+Hassan Whiteside,202355,Specialty Dunk,2,7,6,Cutting Dunk Shot,DUNKS,,2021
+Hassan Whiteside,202355,Standard Layup,2,9,4,Cutting Layup Shot,LAYUPS,,2021
+Hassan Whiteside,202355,Driving Dunk,2,1,0,Driving Dunk Shot,DUNKS,,2021
+Hassan Whiteside,202355,Driving Hook Shot,2,3,1,Driving Hook Shot,POST_MOVES,,2021
+Hassan Whiteside,202355,Driving Layup,2,5,2,Driving Layup Shot,LAYUPS,,2021
+Hassan Whiteside,202355,Standard Dunk,2,9,8,Dunk Shot,DUNKS,,2021
+Hassan Whiteside,202355,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2021
+Hassan Whiteside,202355,Floating Jump Shot,2,25,17,Floating Jump shot,FLOATING_SHOTS,,2021
+Hassan Whiteside,202355,Hook Shot,2,2,2,Hook Bank Shot,POST_MOVES,,2021
+Hassan Whiteside,202355,Hook Shot,2,39,22,Hook Shot,POST_MOVES,,2021
+Hassan Whiteside,202355,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2021
+Hassan Whiteside,202355,Jump Shot,2,28,11,Jump Shot,JUMP_SHOTS,,2021
+Hassan Whiteside,202355,Standard Layup,2,21,11,Layup Shot,LAYUPS,,2021
+Hassan Whiteside,202355,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2021
+Hassan Whiteside,202355,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2021
+Hassan Whiteside,202355,Putback Layup,2,14,8,Putback Layup Shot,LAYUPS,,2021
+Hassan Whiteside,202355,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2021
+Hassan Whiteside,202355,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2021
+Hassan Whiteside,202355,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2021
+Hassan Whiteside,202355,Specialty Dunk,2,3,3,Tip Dunk Shot,DUNKS,,2021
+Hassan Whiteside,202355,Putback Layup,2,19,9,Tip Layup Shot,LAYUPS,,2021
+Hassan Whiteside,202355,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2021
+Hassan Whiteside,202355,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2021
+Hassan Whiteside,202355,Turnaround Hook Shot,2,15,4,Turnaround Hook Shot,POST_MOVES,,2021
+Hassan Whiteside,202355,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2021
+Hassan Whiteside,202355,Alley Oop Dunk,2,19,18,Alley Oop Dunk Shot,DUNKS,,2022
+Hassan Whiteside,202355,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2022
+Hassan Whiteside,202355,Specialty Dunk,2,19,19,Cutting Dunk Shot,DUNKS,,2022
+Hassan Whiteside,202355,Standard Layup,2,14,11,Cutting Layup Shot,LAYUPS,,2022
+Hassan Whiteside,202355,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2022
+Hassan Whiteside,202355,Floating Jump Shot,2,2,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Hassan Whiteside,202355,Floating Jump Shot,2,2,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Hassan Whiteside,202355,Driving Hook Shot,2,2,2,Driving Hook Shot,POST_MOVES,,2022
+Hassan Whiteside,202355,Driving Layup,2,2,0,Driving Layup Shot,LAYUPS,,2022
+Hassan Whiteside,202355,Standard Dunk,2,31,29,Dunk Shot,DUNKS,,2022
+Hassan Whiteside,202355,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Hassan Whiteside,202355,Floating Jump Shot,2,41,17,Floating Jump shot,FLOATING_SHOTS,,2022
+Hassan Whiteside,202355,Hook Shot,2,25,16,Hook Shot,POST_MOVES,,2022
+Hassan Whiteside,202355,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2022
+Hassan Whiteside,202355,Jump Shot,2,5,0,Jump Shot,JUMP_SHOTS,,2022
+Hassan Whiteside,202355,Standard Layup,2,54,26,Layup Shot,LAYUPS,,2022
+Hassan Whiteside,202355,Pullup Jump Shot,2,2,0,Pullup Jump shot,JUMP_SHOTS,,2022
+Hassan Whiteside,202355,Putback Dunk,2,11,9,Putback Dunk Shot,DUNKS,,2022
+Hassan Whiteside,202355,Putback Layup,2,20,17,Putback Layup Shot,LAYUPS,,2022
+Hassan Whiteside,202355,Reverse Layup,2,4,2,Reverse Layup Shot,LAYUPS,,2022
+Hassan Whiteside,202355,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2022
+Hassan Whiteside,202355,Alley Oop Layup,2,1,1,Running Alley Oop Layup Shot,LAYUPS,,2022
+Hassan Whiteside,202355,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2022
+Hassan Whiteside,202355,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2022
+Hassan Whiteside,202355,Specialty Dunk,2,7,5,Tip Dunk Shot,DUNKS,,2022
+Hassan Whiteside,202355,Putback Layup,2,29,17,Tip Layup Shot,LAYUPS,,2022
+Hassan Whiteside,202355,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2022
+Hassan Whiteside,202355,Turnaround Hook Shot,2,18,11,Turnaround Hook Shot,POST_MOVES,,2022
+Hassan Whiteside,202355,Turnaround Jump Shot,2,6,0,Turnaround Jump Shot,JUMP_SHOTS,,2022

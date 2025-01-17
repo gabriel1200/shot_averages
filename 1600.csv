@@ -1,15 +1,30 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1600,Driving Layup,2PT Field Goal,5,4,Driving Layup Shot,LAYUPS,0.8,1999
-1600,Standard Dunk,2PT Field Goal,4,3,Dunk Shot,DUNKS,0.75,1999
-1600,Jump Shot,2PT Field Goal,32,15,Jump Shot,JUMP_SHOTS,0.46875,1999
-1600,Standard Layup,2PT Field Goal,15,7,Layup Shot,LAYUPS,0.4666666666666667,1999
-1600,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,1999
-1600,Tip Shot,2PT Field Goal,2,0,Tip Shot,TIP_SHOTS,0.0,1999
-1600,Driving Layup,2PT Field Goal,3,1,Driving Layup Shot,LAYUPS,0.3333333333333333,2000
-1600,Jump Shot,2PT Field Goal,13,5,Jump Shot,JUMP_SHOTS,0.3846153846153846,2000
-1600,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2000
-1600,Standard Layup,2PT Field Goal,5,2,Layup Shot,LAYUPS,0.4,2000
-1600,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2001
-1600,Jump Shot,2PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,2001
-1600,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2001
-1600,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Kornel David,1600,Driving Layup,2,15,12,Driving Layup Shot,LAYUPS,,1999
+Kornel David,1600,Standard Dunk,2,12,9,Dunk Shot,DUNKS,,1999
+Kornel David,1600,Hook Shot,2,6,4,Hook Shot,POST_MOVES,,1999
+Kornel David,1600,Jump Shot,2,127,44,Jump Shot,JUMP_SHOTS,,1999
+Kornel David,1600,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,1999
+Kornel David,1600,Standard Layup,2,65,29,Layup Shot,LAYUPS,,1999
+Kornel David,1600,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,1999
+Kornel David,1600,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,1999
+Kornel David,1600,Tip Shot,2,11,6,Tip Shot,TIP_SHOTS,,1999
+Kornel David,1600,Driving Layup,2,12,7,Driving Layup Shot,LAYUPS,,2000
+Kornel David,1600,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2000
+Kornel David,1600,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2000
+Kornel David,1600,Jump Shot,2,101,40,Jump Shot,JUMP_SHOTS,,2000
+Kornel David,1600,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,2000
+Kornel David,1600,Standard Layup,2,33,17,Layup Shot,LAYUPS,,2000
+Kornel David,1600,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2000
+Kornel David,1600,Tip Shot,2,5,2,Tip Shot,TIP_SHOTS,,2000
+Kornel David,1600,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2001
+Kornel David,1600,Standard Dunk,2,3,2,Dunk Shot,DUNKS,,2001
+Kornel David,1600,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2001
+Kornel David,1600,Jump Shot,2,18,2,Jump Shot,JUMP_SHOTS,,2001
+Kornel David,1600,Standard Layup,2,20,13,Layup Shot,LAYUPS,,2001
+Kornel David,1600,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2001
+Kornel David,1600,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2001
+Kornel David,1600,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2001
+Kornel David,1600,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2001
+Kornel David,1600,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2001
+Kornel David,1600,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,,2001
+Kornel David,1600,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2001

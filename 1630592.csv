@@ -1,21 +1,52 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1630592,Standard Layup,2PT Field Goal,2,1,Cutting Layup Shot,LAYUPS,0.5,2024
-1630592,Finger Roll,2PT Field Goal,1,0,Driving Finger Roll Layup Shot,LAYUPS,0.0,2024
-1630592,Floating Jump Shot,2PT Field Goal,8,3,Driving Floating Jump Shot,FLOATING_SHOTS,0.375,2024
-1630592,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2024
-1630592,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2024
-1630592,Jump Shot,3PT Field Goal,8,6,Jump Shot,JUMP_SHOTS,1.125,2024
-1630592,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2024
-1630592,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2024
-1630592,Standard Layup,2PT Field Goal,5,4,Cutting Layup Shot,LAYUPS,0.8,2025
-1630592,Floating Jump Shot,2PT Field Goal,2,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.0,2025
-1630592,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2025
-1630592,Driving Layup,2PT Field Goal,6,1,Driving Layup Shot,LAYUPS,0.1666666666666666,2025
-1630592,Jump Shot,3PT Field Goal,15,6,Jump Shot,JUMP_SHOTS,0.6,2025
-1630592,Pullup Jump Shot,3PT Field Goal,3,0,Pullup Jump shot,JUMP_SHOTS,0.0,2025
-1630592,Putback Layup,2PT Field Goal,4,4,Putback Layup Shot,LAYUPS,1.0,2025
-1630592,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2025
-1630592,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2025
-1630592,Running Jump Shot,3PT Field Goal,3,1,Running Jump Shot,JUMP_SHOTS,0.5,2025
-1630592,Standard Layup,2PT Field Goal,4,3,Running Layup Shot,LAYUPS,0.75,2025
-1630592,Putback Layup,2PT Field Goal,2,2,Tip Layup Shot,LAYUPS,1.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Jalen Wilson,1630592,Standard Layup,2,7,3,Cutting Layup Shot,LAYUPS,,2024
+Jalen Wilson,1630592,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Jalen Wilson,1630592,Floating Jump Shot,2,9,3,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Jalen Wilson,1630592,Floating Jump Shot,2,19,5,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Jalen Wilson,1630592,Driving Hook Shot,2,3,1,Driving Hook Shot,POST_MOVES,,2024
+Jalen Wilson,1630592,Driving Layup,2,9,5,Driving Layup Shot,LAYUPS,,2024
+Jalen Wilson,1630592,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2024
+Jalen Wilson,1630592,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Jalen Wilson,1630592,Floating Jump Shot,2,4,2,Floating Jump shot,FLOATING_SHOTS,,2024
+Jalen Wilson,1630592,Floating Jump Shot,3,1,0,Floating Jump shot,FLOATING_SHOTS,,2024
+Jalen Wilson,1630592,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2024
+Jalen Wilson,1630592,Jump Shot,2,3,1,Jump Shot,JUMP_SHOTS,,2024
+Jalen Wilson,1630592,Jump Shot,3,67,23,Jump Shot,JUMP_SHOTS,,2024
+Jalen Wilson,1630592,Standard Layup,2,2,2,Layup Shot,LAYUPS,,2024
+Jalen Wilson,1630592,Pullup Jump Shot,2,4,2,Pullup Jump shot,JUMP_SHOTS,,2024
+Jalen Wilson,1630592,Pullup Jump Shot,3,2,0,Pullup Jump shot,JUMP_SHOTS,,2024
+Jalen Wilson,1630592,Putback Layup,2,11,7,Putback Layup Shot,LAYUPS,,2024
+Jalen Wilson,1630592,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2024
+Jalen Wilson,1630592,Running Jump Shot,3,4,1,Running Jump Shot,JUMP_SHOTS,,2024
+Jalen Wilson,1630592,Standard Layup,2,8,4,Running Layup Shot,LAYUPS,,2024
+Jalen Wilson,1630592,Reverse Layup,2,3,3,Running Reverse Layup Shot,LAYUPS,,2024
+Jalen Wilson,1630592,Putback Layup,2,9,5,Tip Layup Shot,LAYUPS,,2024
+Jalen Wilson,1630592,Turnaround Hook Shot,2,2,0,Turnaround Hook Shot,POST_MOVES,,2024
+Jalen Wilson,1630592,Turnaround Jump Shot,2,3,2,Turnaround Jump Shot,JUMP_SHOTS,,2024
+Jalen Wilson,1630592,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2025
+Jalen Wilson,1630592,Standard Layup,2,9,8,Cutting Layup Shot,LAYUPS,,2025
+Jalen Wilson,1630592,Finger Roll,2,6,1,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Jalen Wilson,1630592,Floating Jump Shot,2,9,5,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2025
+Jalen Wilson,1630592,Floating Jump Shot,2,16,6,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Jalen Wilson,1630592,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2025
+Jalen Wilson,1630592,Driving Layup,2,41,13,Driving Layup Shot,LAYUPS,,2025
+Jalen Wilson,1630592,Driving Layup,2,3,3,Driving Reverse Layup Shot,LAYUPS,,2025
+Jalen Wilson,1630592,Fadeaway Jump Shot,2,3,1,Fadeaway Jump Shot,JUMP_SHOTS,,2025
+Jalen Wilson,1630592,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2025
+Jalen Wilson,1630592,Floating Jump Shot,2,4,2,Floating Jump shot,FLOATING_SHOTS,,2025
+Jalen Wilson,1630592,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2025
+Jalen Wilson,1630592,Jump Shot,2,1,1,Jump Shot,JUMP_SHOTS,,2025
+Jalen Wilson,1630592,Jump Shot,3,143,45,Jump Shot,JUMP_SHOTS,,2025
+Jalen Wilson,1630592,Standard Layup,2,8,3,Layup Shot,LAYUPS,,2025
+Jalen Wilson,1630592,Pullup Jump Shot,2,4,0,Pullup Jump shot,JUMP_SHOTS,,2025
+Jalen Wilson,1630592,Pullup Jump Shot,3,9,1,Pullup Jump shot,JUMP_SHOTS,,2025
+Jalen Wilson,1630592,Putback Layup,2,10,9,Putback Layup Shot,LAYUPS,,2025
+Jalen Wilson,1630592,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2025
+Jalen Wilson,1630592,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2025
+Jalen Wilson,1630592,Running Jump Shot,3,23,8,Running Jump Shot,JUMP_SHOTS,,2025
+Jalen Wilson,1630592,Standard Layup,2,10,8,Running Layup Shot,LAYUPS,,2025
+Jalen Wilson,1630592,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2025
+Jalen Wilson,1630592,Step Back Jump Shot,3,1,1,Step Back Jump shot,JUMP_SHOTS,,2025
+Jalen Wilson,1630592,Putback Layup,2,5,4,Tip Layup Shot,LAYUPS,,2025
+Jalen Wilson,1630592,Turnaround Hook Shot,2,2,0,Turnaround Hook Shot,POST_MOVES,,2025
+Jalen Wilson,1630592,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2025

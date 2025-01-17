@@ -1,52 +1,226 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1629001,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2019
-1629001,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2019
-1629001,Putback Layup,2PT Field Goal,1,0,Tip Layup Shot,LAYUPS,0.0,2019
-1629001,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.0,2020
-1629001,Jump Shot,3PT Field Goal,5,2,Jump Shot,JUMP_SHOTS,0.6,2020
-1629001,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2020
-1629001,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2020
-1629001,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2020
-1629001,Floating Jump Shot,2PT Field Goal,2,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,1.0,2021
-1629001,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2021
-1629001,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2021
-1629001,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2021
-1629001,Jump Shot,3PT Field Goal,5,2,Jump Shot,JUMP_SHOTS,0.6,2021
-1629001,Standard Layup,2PT Field Goal,2,1,Running Layup Shot,LAYUPS,0.5,2021
-1629001,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.0,2021
-1629001,Specialty Dunk,2PT Field Goal,1,0,Cutting Dunk Shot,DUNKS,0.0,2022
-1629001,Floating Jump Shot,2PT Field Goal,2,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.5,2022
-1629001,Floating Jump Shot,2PT Field Goal,4,1,Driving Floating Jump Shot,FLOATING_SHOTS,0.25,2022
-1629001,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2022
-1629001,Fadeaway Jump Shot,2PT Field Goal,2,1,Fadeaway Jump Shot,JUMP_SHOTS,0.5,2022
-1629001,Jump Shot,3PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2022
-1629001,Jump Shot,2PT Field Goal,4,2,Jump Shot,JUMP_SHOTS,0.5,2022
-1629001,Jump Shot,3PT Field Goal,34,12,Jump Shot,JUMP_SHOTS,0.5294117647058824,2022
-1629001,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2022
-1629001,Pullup Jump Shot,2PT Field Goal,3,0,Pullup Jump shot,JUMP_SHOTS,0.0,2022
-1629001,Pullup Jump Shot,3PT Field Goal,7,1,Pullup Jump shot,JUMP_SHOTS,0.2142857142857142,2022
-1629001,Putback Layup,2PT Field Goal,2,1,Putback Layup Shot,LAYUPS,0.5,2022
-1629001,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2022
-1629001,Alley Oop Dunk,2PT Field Goal,1,1,Running Alley Oop Dunk Shot,DUNKS,1.0,2022
-1629001,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2022
-1629001,Finger Roll,2PT Field Goal,2,2,Running Finger Roll Layup Shot,LAYUPS,1.0,2022
-1629001,Running Jump Shot,3PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.75,2022
-1629001,Standard Layup,2PT Field Goal,4,2,Running Layup Shot,LAYUPS,0.5,2022
-1629001,Running Jump Shot,2PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2022
-1629001,Running Jump Shot,3PT Field Goal,4,1,Running Pull-Up Jump Shot,JUMP_SHOTS,0.375,2022
-1629001,Step Back Jump Shot,2PT Field Goal,2,1,Step Back Jump shot,JUMP_SHOTS,0.5,2022
-1629001,Step Back Jump Shot,3PT Field Goal,2,0,Step Back Jump shot,JUMP_SHOTS,0.0,2022
-1629001,Putback Layup,2PT Field Goal,2,2,Tip Layup Shot,LAYUPS,1.0,2022
-1629001,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2022
-1629001,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2025
-1629001,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,1.0,2025
-1629001,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2025
-1629001,Jump Shot,3PT Field Goal,9,2,Jump Shot,JUMP_SHOTS,0.3333333333333333,2025
-1629001,Pullup Jump Shot,3PT Field Goal,3,1,Pullup Jump shot,JUMP_SHOTS,0.5,2025
-1629001,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2025
-1629001,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2025
-1629001,Running Jump Shot,3PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2025
-1629001,Step Back Jump Shot,3PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.5,2025
-1629001,Putback Layup,2PT Field Goal,1,0,Tip Layup Shot,LAYUPS,0.0,2025
-1629001,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Bank shot,JUMP_SHOTS,1.0,2025
-1629001,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+De'Anthony Melton,1629001,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2019
+De'Anthony Melton,1629001,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2019
+De'Anthony Melton,1629001,Standard Layup,2,3,2,Cutting Layup Shot,LAYUPS,,2019
+De'Anthony Melton,1629001,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2019
+De'Anthony Melton,1629001,Finger Roll,2,6,5,Driving Finger Roll Layup Shot,LAYUPS,,2019
+De'Anthony Melton,1629001,Floating Jump Shot,2,8,3,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+De'Anthony Melton,1629001,Floating Jump Shot,2,10,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+De'Anthony Melton,1629001,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2019
+De'Anthony Melton,1629001,Driving Layup,2,23,11,Driving Layup Shot,LAYUPS,,2019
+De'Anthony Melton,1629001,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2019
+De'Anthony Melton,1629001,Floating Jump Shot,2,7,1,Floating Jump shot,FLOATING_SHOTS,,2019
+De'Anthony Melton,1629001,Hook Shot,2,3,1,Hook Shot,POST_MOVES,,2019
+De'Anthony Melton,1629001,Jump Shot,2,5,3,Jump Bank Shot,JUMP_SHOTS,,2019
+De'Anthony Melton,1629001,Jump Shot,2,83,28,Jump Shot,JUMP_SHOTS,,2019
+De'Anthony Melton,1629001,Standard Layup,2,5,3,Layup Shot,LAYUPS,,2019
+De'Anthony Melton,1629001,Pullup Jump Shot,2,35,7,Pullup Jump shot,JUMP_SHOTS,,2019
+De'Anthony Melton,1629001,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2019
+De'Anthony Melton,1629001,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2019
+De'Anthony Melton,1629001,Standard Dunk,2,5,5,Running Dunk Shot,DUNKS,,2019
+De'Anthony Melton,1629001,Finger Roll,2,5,4,Running Finger Roll Layup Shot,LAYUPS,,2019
+De'Anthony Melton,1629001,Running Jump Shot,2,3,1,Running Jump Shot,JUMP_SHOTS,,2019
+De'Anthony Melton,1629001,Standard Layup,2,15,4,Running Layup Shot,LAYUPS,,2019
+De'Anthony Melton,1629001,Running Jump Shot,2,4,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2019
+De'Anthony Melton,1629001,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2019
+De'Anthony Melton,1629001,Step Back Jump Shot,2,7,2,Step Back Jump shot,JUMP_SHOTS,,2019
+De'Anthony Melton,1629001,Putback Layup,2,8,4,Tip Layup Shot,LAYUPS,,2019
+De'Anthony Melton,1629001,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2019
+De'Anthony Melton,1629001,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2019
+De'Anthony Melton,1629001,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2019
+De'Anthony Melton,1629001,Turnaround Jump Shot,2,5,1,Turnaround Jump Shot,JUMP_SHOTS,,2019
+De'Anthony Melton,1629001,Alley Oop Layup,2,4,2,Alley Oop Layup shot,LAYUPS,,2020
+De'Anthony Melton,1629001,Specialty Dunk,2,4,3,Cutting Dunk Shot,DUNKS,,2020
+De'Anthony Melton,1629001,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2020
+De'Anthony Melton,1629001,Standard Layup,2,4,3,Cutting Layup Shot,LAYUPS,,2020
+De'Anthony Melton,1629001,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2020
+De'Anthony Melton,1629001,Finger Roll,2,6,3,Driving Finger Roll Layup Shot,LAYUPS,,2020
+De'Anthony Melton,1629001,Floating Jump Shot,2,7,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2020
+De'Anthony Melton,1629001,Floating Jump Shot,2,26,11,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+De'Anthony Melton,1629001,Driving Layup,2,28,12,Driving Layup Shot,LAYUPS,,2020
+De'Anthony Melton,1629001,Driving Layup,2,5,3,Driving Reverse Layup Shot,LAYUPS,,2020
+De'Anthony Melton,1629001,Fadeaway Jump Shot,2,5,3,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+De'Anthony Melton,1629001,Floating Jump Shot,2,14,3,Floating Jump shot,FLOATING_SHOTS,,2020
+De'Anthony Melton,1629001,Hook Shot,2,2,2,Hook Shot,POST_MOVES,,2020
+De'Anthony Melton,1629001,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2020
+De'Anthony Melton,1629001,Jump Shot,2,119,32,Jump Shot,JUMP_SHOTS,,2020
+De'Anthony Melton,1629001,Jump Shot,3,11,4,Jump Shot,JUMP_SHOTS,,2020
+De'Anthony Melton,1629001,Standard Layup,2,13,5,Layup Shot,LAYUPS,,2020
+De'Anthony Melton,1629001,Pullup Jump Shot,2,51,14,Pullup Jump shot,JUMP_SHOTS,,2020
+De'Anthony Melton,1629001,Pullup Jump Shot,3,2,2,Pullup Jump shot,JUMP_SHOTS,,2020
+De'Anthony Melton,1629001,Putback Layup,2,6,5,Putback Layup Shot,LAYUPS,,2020
+De'Anthony Melton,1629001,Reverse Layup,2,4,3,Reverse Layup Shot,LAYUPS,,2020
+De'Anthony Melton,1629001,Alley Oop Dunk,2,2,2,Running Alley Oop Dunk Shot,DUNKS,,2020
+De'Anthony Melton,1629001,Standard Dunk,2,15,14,Running Dunk Shot,DUNKS,,2020
+De'Anthony Melton,1629001,Finger Roll,2,9,5,Running Finger Roll Layup Shot,LAYUPS,,2020
+De'Anthony Melton,1629001,Running Jump Shot,2,10,5,Running Jump Shot,JUMP_SHOTS,,2020
+De'Anthony Melton,1629001,Running Jump Shot,3,3,1,Running Jump Shot,JUMP_SHOTS,,2020
+De'Anthony Melton,1629001,Standard Layup,2,17,10,Running Layup Shot,LAYUPS,,2020
+De'Anthony Melton,1629001,Running Jump Shot,2,5,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2020
+De'Anthony Melton,1629001,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2020
+De'Anthony Melton,1629001,Step Back Jump Shot,2,5,1,Step Back Jump shot,JUMP_SHOTS,,2020
+De'Anthony Melton,1629001,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2020
+De'Anthony Melton,1629001,Putback Layup,2,10,6,Tip Layup Shot,LAYUPS,,2020
+De'Anthony Melton,1629001,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2020
+De'Anthony Melton,1629001,Turnaround Jump Shot,2,3,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2020
+De'Anthony Melton,1629001,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2020
+De'Anthony Melton,1629001,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2020
+De'Anthony Melton,1629001,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2021
+De'Anthony Melton,1629001,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2021
+De'Anthony Melton,1629001,Specialty Dunk,2,1,0,Cutting Dunk Shot,DUNKS,,2021
+De'Anthony Melton,1629001,Standard Layup,2,8,3,Cutting Layup Shot,LAYUPS,,2021
+De'Anthony Melton,1629001,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2021
+De'Anthony Melton,1629001,Finger Roll,2,9,4,Driving Finger Roll Layup Shot,LAYUPS,,2021
+De'Anthony Melton,1629001,Floating Jump Shot,2,12,7,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2021
+De'Anthony Melton,1629001,Floating Jump Shot,2,21,6,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+De'Anthony Melton,1629001,Driving Layup,2,21,7,Driving Layup Shot,LAYUPS,,2021
+De'Anthony Melton,1629001,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2021
+De'Anthony Melton,1629001,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2021
+De'Anthony Melton,1629001,Floating Jump Shot,2,19,7,Floating Jump shot,FLOATING_SHOTS,,2021
+De'Anthony Melton,1629001,Hook Shot,2,2,2,Hook Shot,POST_MOVES,,2021
+De'Anthony Melton,1629001,Jump Shot,2,146,60,Jump Shot,JUMP_SHOTS,,2021
+De'Anthony Melton,1629001,Jump Shot,3,14,6,Jump Shot,JUMP_SHOTS,,2021
+De'Anthony Melton,1629001,Standard Layup,2,9,2,Layup Shot,LAYUPS,,2021
+De'Anthony Melton,1629001,Pullup Jump Shot,2,47,26,Pullup Jump shot,JUMP_SHOTS,,2021
+De'Anthony Melton,1629001,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2021
+De'Anthony Melton,1629001,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2021
+De'Anthony Melton,1629001,Alley Oop Layup,2,1,1,Running Alley Oop Layup Shot,LAYUPS,,2021
+De'Anthony Melton,1629001,Standard Dunk,2,9,9,Running Dunk Shot,DUNKS,,2021
+De'Anthony Melton,1629001,Finger Roll,2,3,2,Running Finger Roll Layup Shot,LAYUPS,,2021
+De'Anthony Melton,1629001,Running Jump Shot,2,9,4,Running Jump Shot,JUMP_SHOTS,,2021
+De'Anthony Melton,1629001,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2021
+De'Anthony Melton,1629001,Standard Layup,2,11,5,Running Layup Shot,LAYUPS,,2021
+De'Anthony Melton,1629001,Running Jump Shot,2,9,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2021
+De'Anthony Melton,1629001,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2021
+De'Anthony Melton,1629001,Step Back Jump Shot,2,20,8,Step Back Jump shot,JUMP_SHOTS,,2021
+De'Anthony Melton,1629001,Putback Layup,2,6,3,Tip Layup Shot,LAYUPS,,2021
+De'Anthony Melton,1629001,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2021
+De'Anthony Melton,1629001,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2021
+De'Anthony Melton,1629001,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2021
+De'Anthony Melton,1629001,Specialty Dunk,2,4,3,Cutting Dunk Shot,DUNKS,,2022
+De'Anthony Melton,1629001,Standard Layup,2,8,6,Cutting Layup Shot,LAYUPS,,2022
+De'Anthony Melton,1629001,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2022
+De'Anthony Melton,1629001,Driving Dunk,2,7,6,Driving Dunk Shot,DUNKS,,2022
+De'Anthony Melton,1629001,Finger Roll,2,15,7,Driving Finger Roll Layup Shot,LAYUPS,,2022
+De'Anthony Melton,1629001,Floating Jump Shot,2,15,4,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+De'Anthony Melton,1629001,Floating Jump Shot,2,49,19,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+De'Anthony Melton,1629001,Driving Layup,2,30,7,Driving Layup Shot,LAYUPS,,2022
+De'Anthony Melton,1629001,Driving Layup,2,5,2,Driving Reverse Layup Shot,LAYUPS,,2022
+De'Anthony Melton,1629001,Fadeaway Jump Shot,2,5,2,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+De'Anthony Melton,1629001,Floating Jump Shot,2,16,8,Floating Jump shot,FLOATING_SHOTS,,2022
+De'Anthony Melton,1629001,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2022
+De'Anthony Melton,1629001,Hook Shot,2,4,1,Hook Shot,POST_MOVES,,2022
+De'Anthony Melton,1629001,Jump Shot,3,1,0,Jump Bank Shot,JUMP_SHOTS,,2022
+De'Anthony Melton,1629001,Jump Shot,2,190,76,Jump Shot,JUMP_SHOTS,,2022
+De'Anthony Melton,1629001,Jump Shot,3,92,32,Jump Shot,JUMP_SHOTS,,2022
+De'Anthony Melton,1629001,Standard Layup,2,7,3,Layup Shot,LAYUPS,,2022
+De'Anthony Melton,1629001,Pullup Jump Shot,2,62,25,Pullup Jump shot,JUMP_SHOTS,,2022
+De'Anthony Melton,1629001,Pullup Jump Shot,3,16,3,Pullup Jump shot,JUMP_SHOTS,,2022
+De'Anthony Melton,1629001,Putback Layup,2,6,4,Putback Layup Shot,LAYUPS,,2022
+De'Anthony Melton,1629001,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2022
+De'Anthony Melton,1629001,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2022
+De'Anthony Melton,1629001,Alley Oop Layup,2,2,1,Running Alley Oop Layup Shot,LAYUPS,,2022
+De'Anthony Melton,1629001,Standard Dunk,2,12,9,Running Dunk Shot,DUNKS,,2022
+De'Anthony Melton,1629001,Finger Roll,2,13,8,Running Finger Roll Layup Shot,LAYUPS,,2022
+De'Anthony Melton,1629001,Running Jump Shot,2,15,5,Running Jump Shot,JUMP_SHOTS,,2022
+De'Anthony Melton,1629001,Running Jump Shot,3,4,2,Running Jump Shot,JUMP_SHOTS,,2022
+De'Anthony Melton,1629001,Standard Layup,2,34,17,Running Layup Shot,LAYUPS,,2022
+De'Anthony Melton,1629001,Running Jump Shot,2,11,4,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
+De'Anthony Melton,1629001,Running Jump Shot,3,7,3,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
+De'Anthony Melton,1629001,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2022
+De'Anthony Melton,1629001,Step Back Jump Shot,2,33,9,Step Back Jump shot,JUMP_SHOTS,,2022
+De'Anthony Melton,1629001,Step Back Jump Shot,3,6,1,Step Back Jump shot,JUMP_SHOTS,,2022
+De'Anthony Melton,1629001,Specialty Dunk,2,2,2,Tip Dunk Shot,DUNKS,,2022
+De'Anthony Melton,1629001,Putback Layup,2,9,5,Tip Layup Shot,LAYUPS,,2022
+De'Anthony Melton,1629001,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2022
+De'Anthony Melton,1629001,Turnaround Jump Shot,2,3,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2022
+De'Anthony Melton,1629001,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2022
+De'Anthony Melton,1629001,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2022
+De'Anthony Melton,1629001,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2023
+De'Anthony Melton,1629001,Standard Layup,2,4,3,Cutting Layup Shot,LAYUPS,,2023
+De'Anthony Melton,1629001,Driving Hook Shot,2,3,1,Driving Bank Hook Shot,POST_MOVES,,2023
+De'Anthony Melton,1629001,Driving Dunk,2,2,1,Driving Dunk Shot,DUNKS,,2023
+De'Anthony Melton,1629001,Finger Roll,2,24,14,Driving Finger Roll Layup Shot,LAYUPS,,2023
+De'Anthony Melton,1629001,Floating Jump Shot,2,10,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+De'Anthony Melton,1629001,Floating Jump Shot,2,23,9,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+De'Anthony Melton,1629001,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2023
+De'Anthony Melton,1629001,Driving Layup,2,41,20,Driving Layup Shot,LAYUPS,,2023
+De'Anthony Melton,1629001,Driving Layup,2,11,6,Driving Reverse Layup Shot,LAYUPS,,2023
+De'Anthony Melton,1629001,Fadeaway Jump Shot,2,5,1,Fadeaway Jump Shot,JUMP_SHOTS,,2023
+De'Anthony Melton,1629001,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2023
+De'Anthony Melton,1629001,Floating Jump Shot,2,15,7,Floating Jump shot,FLOATING_SHOTS,,2023
+De'Anthony Melton,1629001,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2023
+De'Anthony Melton,1629001,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2023
+De'Anthony Melton,1629001,Jump Shot,3,1,1,Jump Bank Shot,JUMP_SHOTS,,2023
+De'Anthony Melton,1629001,Jump Shot,2,131,46,Jump Shot,JUMP_SHOTS,,2023
+De'Anthony Melton,1629001,Jump Shot,3,152,65,Jump Shot,JUMP_SHOTS,,2023
+De'Anthony Melton,1629001,Standard Layup,2,13,4,Layup Shot,LAYUPS,,2023
+De'Anthony Melton,1629001,Pullup Jump Shot,2,55,18,Pullup Jump shot,JUMP_SHOTS,,2023
+De'Anthony Melton,1629001,Pullup Jump Shot,3,19,5,Pullup Jump shot,JUMP_SHOTS,,2023
+De'Anthony Melton,1629001,Putback Layup,2,4,4,Putback Layup Shot,LAYUPS,,2023
+De'Anthony Melton,1629001,Standard Dunk,2,4,4,Running Dunk Shot,DUNKS,,2023
+De'Anthony Melton,1629001,Finger Roll,2,6,3,Running Finger Roll Layup Shot,LAYUPS,,2023
+De'Anthony Melton,1629001,Running Jump Shot,2,10,5,Running Jump Shot,JUMP_SHOTS,,2023
+De'Anthony Melton,1629001,Running Jump Shot,3,16,9,Running Jump Shot,JUMP_SHOTS,,2023
+De'Anthony Melton,1629001,Standard Layup,2,36,23,Running Layup Shot,LAYUPS,,2023
+De'Anthony Melton,1629001,Running Jump Shot,2,3,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2023
+De'Anthony Melton,1629001,Running Jump Shot,3,8,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2023
+De'Anthony Melton,1629001,Reverse Layup,2,3,2,Running Reverse Layup Shot,LAYUPS,,2023
+De'Anthony Melton,1629001,Step Back Jump Shot,2,18,8,Step Back Jump shot,JUMP_SHOTS,,2023
+De'Anthony Melton,1629001,Step Back Jump Shot,3,16,7,Step Back Jump shot,JUMP_SHOTS,,2023
+De'Anthony Melton,1629001,Putback Layup,2,8,3,Tip Layup Shot,LAYUPS,,2023
+De'Anthony Melton,1629001,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2023
+De'Anthony Melton,1629001,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2023
+De'Anthony Melton,1629001,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2023
+De'Anthony Melton,1629001,Standard Layup,2,3,3,Cutting Layup Shot,LAYUPS,,2024
+De'Anthony Melton,1629001,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2024
+De'Anthony Melton,1629001,Finger Roll,2,8,4,Driving Finger Roll Layup Shot,LAYUPS,,2024
+De'Anthony Melton,1629001,Floating Jump Shot,2,8,6,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+De'Anthony Melton,1629001,Floating Jump Shot,2,11,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+De'Anthony Melton,1629001,Driving Layup,2,37,9,Driving Layup Shot,LAYUPS,,2024
+De'Anthony Melton,1629001,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2024
+De'Anthony Melton,1629001,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+De'Anthony Melton,1629001,Floating Jump Shot,2,2,0,Floating Jump shot,FLOATING_SHOTS,,2024
+De'Anthony Melton,1629001,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2024
+De'Anthony Melton,1629001,Jump Shot,2,3,3,Jump Shot,JUMP_SHOTS,,2024
+De'Anthony Melton,1629001,Jump Shot,3,126,45,Jump Shot,JUMP_SHOTS,,2024
+De'Anthony Melton,1629001,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2024
+De'Anthony Melton,1629001,Pullup Jump Shot,2,17,6,Pullup Jump shot,JUMP_SHOTS,,2024
+De'Anthony Melton,1629001,Pullup Jump Shot,3,37,13,Pullup Jump shot,JUMP_SHOTS,,2024
+De'Anthony Melton,1629001,Putback Layup,2,3,2,Putback Layup Shot,LAYUPS,,2024
+De'Anthony Melton,1629001,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2024
+De'Anthony Melton,1629001,Standard Dunk,2,6,6,Running Dunk Shot,DUNKS,,2024
+De'Anthony Melton,1629001,Finger Roll,2,3,2,Running Finger Roll Layup Shot,LAYUPS,,2024
+De'Anthony Melton,1629001,Running Jump Shot,3,24,10,Running Jump Shot,JUMP_SHOTS,,2024
+De'Anthony Melton,1629001,Standard Layup,2,22,10,Running Layup Shot,LAYUPS,,2024
+De'Anthony Melton,1629001,Running Jump Shot,3,4,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+De'Anthony Melton,1629001,Step Back Jump Shot,2,2,0,Step Back Jump shot,JUMP_SHOTS,,2024
+De'Anthony Melton,1629001,Step Back Jump Shot,3,22,6,Step Back Jump shot,JUMP_SHOTS,,2024
+De'Anthony Melton,1629001,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2024
+De'Anthony Melton,1629001,Putback Layup,2,4,2,Tip Layup Shot,LAYUPS,,2024
+De'Anthony Melton,1629001,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2024
+De'Anthony Melton,1629001,Turnaround Jump Shot,3,1,1,Turnaround Bank shot,JUMP_SHOTS,,2024
+De'Anthony Melton,1629001,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2024
+De'Anthony Melton,1629001,Turnaround Hook Shot,2,3,0,Turnaround Hook Shot,POST_MOVES,,2024
+De'Anthony Melton,1629001,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2024
+De'Anthony Melton,1629001,Standard Layup,2,2,0,Cutting Layup Shot,LAYUPS,,2025
+De'Anthony Melton,1629001,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2025
+De'Anthony Melton,1629001,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2025
+De'Anthony Melton,1629001,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2025
+De'Anthony Melton,1629001,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+De'Anthony Melton,1629001,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2025
+De'Anthony Melton,1629001,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2025
+De'Anthony Melton,1629001,Jump Shot,3,21,7,Jump Shot,JUMP_SHOTS,,2025
+De'Anthony Melton,1629001,Standard Layup,2,1,1,Layup Shot,LAYUPS,,2025
+De'Anthony Melton,1629001,Pullup Jump Shot,3,8,2,Pullup Jump shot,JUMP_SHOTS,,2025
+De'Anthony Melton,1629001,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2025
+De'Anthony Melton,1629001,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2025
+De'Anthony Melton,1629001,Finger Roll,2,2,1,Running Finger Roll Layup Shot,LAYUPS,,2025
+De'Anthony Melton,1629001,Running Jump Shot,3,4,3,Running Jump Shot,JUMP_SHOTS,,2025
+De'Anthony Melton,1629001,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2025
+De'Anthony Melton,1629001,Running Jump Shot,3,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025
+De'Anthony Melton,1629001,Step Back Jump Shot,3,1,1,Step Back Jump shot,JUMP_SHOTS,,2025
+De'Anthony Melton,1629001,Putback Layup,2,1,0,Tip Layup Shot,LAYUPS,,2025
+De'Anthony Melton,1629001,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2025
+De'Anthony Melton,1629001,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2025
+De'Anthony Melton,1629001,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2025

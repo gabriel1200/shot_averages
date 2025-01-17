@@ -1,47 +1,79 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1631108,Alley Oop Dunk,2PT Field Goal,1,0,Alley Oop Dunk Shot,DUNKS,0.0,2023
-1631108,Specialty Dunk,2PT Field Goal,5,5,Cutting Dunk Shot,DUNKS,1.0,2024
-1631108,Standard Layup,2PT Field Goal,1,0,Cutting Layup Shot,LAYUPS,0.0,2024
-1631108,Driving Dunk,2PT Field Goal,5,5,Driving Dunk Shot,DUNKS,1.0,2024
-1631108,Finger Roll,2PT Field Goal,3,2,Driving Finger Roll Layup Shot,LAYUPS,0.6666666666666666,2024
-1631108,Floating Jump Shot,2PT Field Goal,6,1,Driving Floating Jump Shot,FLOATING_SHOTS,0.1666666666666666,2024
-1631108,Driving Layup,2PT Field Goal,12,5,Driving Layup Shot,LAYUPS,0.4166666666666667,2024
-1631108,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2024
-1631108,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2024
-1631108,Fadeaway Jump Shot,2PT Field Goal,3,2,Fadeaway Jump Shot,JUMP_SHOTS,0.6666666666666666,2024
-1631108,Jump Shot,3PT Field Goal,54,20,Jump Shot,JUMP_SHOTS,0.5555555555555556,2024
-1631108,Pullup Jump Shot,2PT Field Goal,17,8,Pullup Jump shot,JUMP_SHOTS,0.4705882352941176,2024
-1631108,Pullup Jump Shot,3PT Field Goal,7,1,Pullup Jump shot,JUMP_SHOTS,0.2142857142857142,2024
-1631108,Standard Dunk,2PT Field Goal,2,1,Running Dunk Shot,DUNKS,0.5,2024
-1631108,Finger Roll,2PT Field Goal,1,0,Running Finger Roll Layup Shot,LAYUPS,0.0,2024
-1631108,Running Jump Shot,3PT Field Goal,5,2,Running Jump Shot,JUMP_SHOTS,0.6,2024
-1631108,Standard Layup,2PT Field Goal,4,3,Running Layup Shot,LAYUPS,0.75,2024
-1631108,Running Jump Shot,2PT Field Goal,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,1.0,2024
-1631108,Step Back Jump Shot,3PT Field Goal,2,1,Step Back Jump shot,JUMP_SHOTS,0.75,2024
-1631108,Putback Layup,2PT Field Goal,1,1,Tip Layup Shot,LAYUPS,1.0,2024
-1631108,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2024
-1631108,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2024
-1631108,Specialty Dunk,2PT Field Goal,8,8,Cutting Dunk Shot,DUNKS,1.0,2025
-1631108,Standard Layup,2PT Field Goal,6,3,Cutting Layup Shot,LAYUPS,0.5,2025
-1631108,Driving Dunk,2PT Field Goal,2,1,Driving Dunk Shot,DUNKS,0.5,2025
-1631108,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2025
-1631108,Floating Jump Shot,2PT Field Goal,9,3,Driving Floating Jump Shot,FLOATING_SHOTS,0.3333333333333333,2025
-1631108,Floating Jump Shot,3PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2025
-1631108,Driving Layup,2PT Field Goal,16,8,Driving Layup Shot,LAYUPS,0.5,2025
-1631108,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2025
-1631108,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2025
-1631108,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2025
-1631108,Floating Jump Shot,3PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2025
-1631108,Jump Shot,3PT Field Goal,60,26,Jump Shot,JUMP_SHOTS,0.65,2025
-1631108,Standard Layup,2PT Field Goal,4,4,Layup Shot,LAYUPS,1.0,2025
-1631108,Pullup Jump Shot,2PT Field Goal,10,1,Pullup Jump shot,JUMP_SHOTS,0.1,2025
-1631108,Pullup Jump Shot,3PT Field Goal,5,1,Pullup Jump shot,JUMP_SHOTS,0.3,2025
-1631108,Standard Dunk,2PT Field Goal,3,3,Running Dunk Shot,DUNKS,1.0,2025
-1631108,Finger Roll,2PT Field Goal,1,1,Running Finger Roll Layup Shot,LAYUPS,1.0,2025
-1631108,Running Jump Shot,3PT Field Goal,11,5,Running Jump Shot,JUMP_SHOTS,0.6818181818181818,2025
-1631108,Standard Layup,2PT Field Goal,3,2,Running Layup Shot,LAYUPS,0.6666666666666666,2025
-1631108,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2025
-1631108,Step Back Jump Shot,3PT Field Goal,2,0,Step Back Jump shot,JUMP_SHOTS,0.0,2025
-1631108,Putback Layup,2PT Field Goal,3,1,Tip Layup Shot,LAYUPS,0.3333333333333333,2025
-1631108,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2025
-1631108,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Max Christie,1631108,Alley Oop Dunk,2,1,0,Alley Oop Dunk Shot,DUNKS,,2023
+Max Christie,1631108,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2023
+Max Christie,1631108,Standard Layup,2,2,1,Cutting Layup Shot,LAYUPS,,2023
+Max Christie,1631108,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2023
+Max Christie,1631108,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+Max Christie,1631108,Floating Jump Shot,2,5,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Max Christie,1631108,Driving Layup,2,2,0,Driving Layup Shot,LAYUPS,,2023
+Max Christie,1631108,Fadeaway Jump Shot,2,3,0,Fadeaway Jump Shot,JUMP_SHOTS,,2023
+Max Christie,1631108,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2023
+Max Christie,1631108,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2023
+Max Christie,1631108,Jump Shot,2,53,18,Jump Shot,JUMP_SHOTS,,2023
+Max Christie,1631108,Pullup Jump Shot,2,9,4,Pullup Jump shot,JUMP_SHOTS,,2023
+Max Christie,1631108,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2023
+Max Christie,1631108,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2023
+Max Christie,1631108,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2023
+Max Christie,1631108,Running Jump Shot,2,7,5,Running Jump Shot,JUMP_SHOTS,,2023
+Max Christie,1631108,Standard Layup,2,6,1,Running Layup Shot,LAYUPS,,2023
+Max Christie,1631108,Running Jump Shot,2,2,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2023
+Max Christie,1631108,Reverse Layup,2,2,1,Running Reverse Layup Shot,LAYUPS,,2023
+Max Christie,1631108,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2023
+Max Christie,1631108,Putback Layup,2,1,0,Tip Layup Shot,LAYUPS,,2023
+Max Christie,1631108,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2023
+Max Christie,1631108,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2023
+Max Christie,1631108,Specialty Dunk,2,7,7,Cutting Dunk Shot,DUNKS,,2024
+Max Christie,1631108,Standard Layup,2,4,1,Cutting Layup Shot,LAYUPS,,2024
+Max Christie,1631108,Driving Dunk,2,8,7,Driving Dunk Shot,DUNKS,,2024
+Max Christie,1631108,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Max Christie,1631108,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Max Christie,1631108,Floating Jump Shot,2,13,5,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Max Christie,1631108,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2024
+Max Christie,1631108,Driving Layup,2,23,8,Driving Layup Shot,LAYUPS,,2024
+Max Christie,1631108,Driving Layup,2,2,0,Driving Reverse Layup Shot,LAYUPS,,2024
+Max Christie,1631108,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2024
+Max Christie,1631108,Fadeaway Jump Shot,2,3,2,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Max Christie,1631108,Floating Jump Shot,2,2,0,Floating Jump shot,FLOATING_SHOTS,,2024
+Max Christie,1631108,Jump Shot,2,1,1,Jump Shot,JUMP_SHOTS,,2024
+Max Christie,1631108,Jump Shot,3,97,37,Jump Shot,JUMP_SHOTS,,2024
+Max Christie,1631108,Standard Layup,2,2,0,Layup Shot,LAYUPS,,2024
+Max Christie,1631108,Pullup Jump Shot,2,28,14,Pullup Jump shot,JUMP_SHOTS,,2024
+Max Christie,1631108,Pullup Jump Shot,3,12,2,Pullup Jump shot,JUMP_SHOTS,,2024
+Max Christie,1631108,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2024
+Max Christie,1631108,Standard Dunk,2,2,1,Running Dunk Shot,DUNKS,,2024
+Max Christie,1631108,Finger Roll,2,1,0,Running Finger Roll Layup Shot,LAYUPS,,2024
+Max Christie,1631108,Running Jump Shot,3,5,2,Running Jump Shot,JUMP_SHOTS,,2024
+Max Christie,1631108,Standard Layup,2,8,5,Running Layup Shot,LAYUPS,,2024
+Max Christie,1631108,Running Jump Shot,2,3,3,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Max Christie,1631108,Step Back Jump Shot,3,4,1,Step Back Jump shot,JUMP_SHOTS,,2024
+Max Christie,1631108,Putback Layup,2,2,1,Tip Layup Shot,LAYUPS,,2024
+Max Christie,1631108,Turnaround Jump Shot,2,5,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2024
+Max Christie,1631108,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2024
+Max Christie,1631108,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2024
+Max Christie,1631108,Specialty Dunk,2,12,12,Cutting Dunk Shot,DUNKS,,2025
+Max Christie,1631108,Standard Layup,2,10,7,Cutting Layup Shot,LAYUPS,,2025
+Max Christie,1631108,Driving Dunk,2,4,1,Driving Dunk Shot,DUNKS,,2025
+Max Christie,1631108,Finger Roll,2,3,3,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Max Christie,1631108,Floating Jump Shot,2,10,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Max Christie,1631108,Floating Jump Shot,3,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Max Christie,1631108,Driving Layup,2,21,10,Driving Layup Shot,LAYUPS,,2025
+Max Christie,1631108,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2025
+Max Christie,1631108,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2025
+Max Christie,1631108,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2025
+Max Christie,1631108,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2025
+Max Christie,1631108,Floating Jump Shot,3,1,0,Floating Jump shot,FLOATING_SHOTS,,2025
+Max Christie,1631108,Jump Shot,3,88,35,Jump Shot,JUMP_SHOTS,,2025
+Max Christie,1631108,Standard Layup,2,4,4,Layup Shot,LAYUPS,,2025
+Max Christie,1631108,Pullup Jump Shot,2,14,2,Pullup Jump shot,JUMP_SHOTS,,2025
+Max Christie,1631108,Pullup Jump Shot,3,8,1,Pullup Jump shot,JUMP_SHOTS,,2025
+Max Christie,1631108,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2025
+Max Christie,1631108,Standard Dunk,2,4,4,Running Dunk Shot,DUNKS,,2025
+Max Christie,1631108,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2025
+Max Christie,1631108,Running Jump Shot,3,15,6,Running Jump Shot,JUMP_SHOTS,,2025
+Max Christie,1631108,Standard Layup,2,4,3,Running Layup Shot,LAYUPS,,2025
+Max Christie,1631108,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2025
+Max Christie,1631108,Step Back Jump Shot,3,2,0,Step Back Jump shot,JUMP_SHOTS,,2025
+Max Christie,1631108,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2025
+Max Christie,1631108,Putback Layup,2,3,1,Tip Layup Shot,LAYUPS,,2025
+Max Christie,1631108,Turnaround Jump Shot,2,3,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2025
+Max Christie,1631108,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2025

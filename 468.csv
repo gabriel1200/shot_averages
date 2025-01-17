@@ -1,6 +1,91 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-468,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1997
-468,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,1998
-468,Jump Shot,3PT Field Goal,5,0,Jump Shot,JUMP_SHOTS,0.0,1998
-468,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,1998
-468,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,1998
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Jon Barry,468,Driving Dunk,2,1,0,Driving Dunk Shot,DUNKS,,1997
+Jon Barry,468,Driving Layup,2,13,10,Driving Layup Shot,LAYUPS,,1997
+Jon Barry,468,Jump Shot,2,186,76,Jump Shot,JUMP_SHOTS,,1997
+Jon Barry,468,Jump Shot,3,4,1,Jump Shot,JUMP_SHOTS,,1997
+Jon Barry,468,Standard Layup,2,35,10,Layup Shot,LAYUPS,,1997
+Jon Barry,468,Running Jump Shot,2,7,3,Running Jump Shot,JUMP_SHOTS,,1997
+Jon Barry,468,Driving Layup,2,9,6,Driving Layup Shot,LAYUPS,,1998
+Jon Barry,468,Jump Shot,2,83,28,Jump Shot,JUMP_SHOTS,,1998
+Jon Barry,468,Jump Shot,3,7,0,Jump Shot,JUMP_SHOTS,,1998
+Jon Barry,468,Standard Layup,2,3,2,Layup Shot,LAYUPS,,1998
+Jon Barry,468,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,1998
+Jon Barry,468,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,1999
+Jon Barry,468,Driving Layup,2,16,12,Driving Layup Shot,LAYUPS,,1999
+Jon Barry,468,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,1999
+Jon Barry,468,Jump Shot,2,110,37,Jump Shot,JUMP_SHOTS,,1999
+Jon Barry,468,Standard Layup,2,7,6,Layup Shot,LAYUPS,,1999
+Jon Barry,468,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,1999
+Jon Barry,468,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,1999
+Jon Barry,468,Driving Layup,2,47,28,Driving Layup Shot,LAYUPS,,2000
+Jon Barry,468,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2000
+Jon Barry,468,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2000
+Jon Barry,468,Jump Shot,2,261,107,Jump Shot,JUMP_SHOTS,,2000
+Jon Barry,468,Standard Layup,2,28,19,Layup Shot,LAYUPS,,2000
+Jon Barry,468,Running Jump Shot,2,5,4,Running Jump Shot,JUMP_SHOTS,,2000
+Jon Barry,468,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2000
+Jon Barry,468,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2000
+Jon Barry,468,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2001
+Jon Barry,468,Driving Layup,2,19,12,Driving Layup Shot,LAYUPS,,2001
+Jon Barry,468,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2001
+Jon Barry,468,Jump Shot,2,204,70,Jump Shot,JUMP_SHOTS,,2001
+Jon Barry,468,Standard Layup,2,16,7,Layup Shot,LAYUPS,,2001
+Jon Barry,468,Reverse Layup,2,4,3,Reverse Layup Shot,LAYUPS,,2001
+Jon Barry,468,Finger Roll,2,1,1,Running Finger Roll Shot,LAYUPS,,2001
+Jon Barry,468,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2001
+Jon Barry,468,Running Jump Shot,2,6,6,Running Jump Shot,JUMP_SHOTS,,2001
+Jon Barry,468,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2001
+Jon Barry,468,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Jon Barry,468,Finger Roll,2,2,2,Driving Finger Roll Shot,LAYUPS,,2002
+Jon Barry,468,Driving Layup,2,22,20,Driving Layup Shot,LAYUPS,,2002
+Jon Barry,468,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2002
+Jon Barry,468,Fadeaway Jump Shot,2,5,4,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Jon Barry,468,Jump Shot,2,390,174,Jump Shot,JUMP_SHOTS,,2002
+Jon Barry,468,Standard Layup,2,59,29,Layup Shot,LAYUPS,,2002
+Jon Barry,468,Reverse Layup,2,13,9,Reverse Layup Shot,LAYUPS,,2002
+Jon Barry,468,Running Hook Shot,2,2,2,Running Hook Shot,POST_MOVES,,2002
+Jon Barry,468,Running Jump Shot,2,26,11,Running Jump Shot,JUMP_SHOTS,,2002
+Jon Barry,468,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2002
+Jon Barry,468,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Jon Barry,468,Finger Roll,2,4,2,Driving Finger Roll Shot,LAYUPS,,2003
+Jon Barry,468,Driving Layup,2,16,14,Driving Layup Shot,LAYUPS,,2003
+Jon Barry,468,Fadeaway Jump Shot,2,5,3,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Jon Barry,468,Finger Roll,2,2,1,Finger Roll Shot,LAYUPS,,2003
+Jon Barry,468,Jump Shot,2,334,145,Jump Shot,JUMP_SHOTS,,2003
+Jon Barry,468,Standard Layup,2,42,11,Layup Shot,LAYUPS,,2003
+Jon Barry,468,Reverse Layup,2,7,7,Reverse Layup Shot,LAYUPS,,2003
+Jon Barry,468,Running Jump Shot,2,12,6,Running Jump Shot,JUMP_SHOTS,,2003
+Jon Barry,468,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2003
+Jon Barry,468,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2003
+Jon Barry,468,Driving Layup,2,17,13,Driving Layup Shot,LAYUPS,,2004
+Jon Barry,468,Fadeaway Jump Shot,2,5,0,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Jon Barry,468,Finger Roll,2,1,0,Finger Roll Shot,LAYUPS,,2004
+Jon Barry,468,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2004
+Jon Barry,468,Jump Shot,2,4,3,Jump Bank Shot,JUMP_SHOTS,,2004
+Jon Barry,468,Jump Shot,2,231,82,Jump Shot,JUMP_SHOTS,,2004
+Jon Barry,468,Standard Layup,2,24,15,Layup Shot,LAYUPS,,2004
+Jon Barry,468,Reverse Layup,2,4,3,Reverse Layup Shot,LAYUPS,,2004
+Jon Barry,468,Finger Roll,2,1,1,Running Finger Roll Shot,LAYUPS,,2004
+Jon Barry,468,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2004
+Jon Barry,468,Running Jump Shot,2,8,2,Running Jump Shot,JUMP_SHOTS,,2004
+Jon Barry,468,Finger Roll,2,2,1,Driving Finger Roll Shot,LAYUPS,,2005
+Jon Barry,468,Driving Layup,2,13,8,Driving Layup Shot,LAYUPS,,2005
+Jon Barry,468,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2005
+Jon Barry,468,Fadeaway Jump Shot,2,7,2,Fadeaway Jump Shot,JUMP_SHOTS,,2005
+Jon Barry,468,Finger Roll,2,2,1,Finger Roll Shot,LAYUPS,,2005
+Jon Barry,468,Jump Shot,2,3,2,Jump Bank Shot,JUMP_SHOTS,,2005
+Jon Barry,468,Jump Shot,2,291,122,Jump Shot,JUMP_SHOTS,,2005
+Jon Barry,468,Standard Layup,2,25,11,Layup Shot,LAYUPS,,2005
+Jon Barry,468,Reverse Layup,2,9,8,Reverse Layup Shot,LAYUPS,,2005
+Jon Barry,468,Finger Roll,2,1,0,Running Finger Roll Shot,LAYUPS,,2005
+Jon Barry,468,Running Hook Shot,2,3,0,Running Hook Shot,POST_MOVES,,2005
+Jon Barry,468,Running Jump Shot,2,10,4,Running Jump Shot,JUMP_SHOTS,,2005
+Jon Barry,468,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2005
+Jon Barry,468,Finger Roll,2,1,0,Driving Finger Roll Shot,LAYUPS,,2006
+Jon Barry,468,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2006
+Jon Barry,468,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2006
+Jon Barry,468,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2006
+Jon Barry,468,Jump Shot,2,50,17,Jump Shot,JUMP_SHOTS,,2006
+Jon Barry,468,Standard Layup,2,7,4,Layup Shot,LAYUPS,,2006
+Jon Barry,468,Reverse Layup,2,2,0,Reverse Layup Shot,LAYUPS,,2006
+Jon Barry,468,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2006

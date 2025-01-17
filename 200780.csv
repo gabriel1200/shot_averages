@@ -1,39 +1,87 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-200780,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2007
-200780,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2007
-200780,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2008
-200780,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2008
-200780,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2008
-200780,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,2009
-200780,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2009
-200780,Jump Shot,2PT Field Goal,6,4,Jump Shot,JUMP_SHOTS,0.6666666666666666,2009
-200780,Standard Layup,2PT Field Goal,4,1,Layup Shot,LAYUPS,0.25,2009
-200780,Putback Dunk,2PT Field Goal,1,1,Putback Dunk Shot,DUNKS,1.0,2009
-200780,Putback Layup,2PT Field Goal,2,1,Putback Layup Shot,LAYUPS,0.5,2009
-200780,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2009
-200780,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2009
-200780,Turnaround Jump Shot,2PT Field Goal,2,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2009
-200780,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2010
-200780,Standard Dunk,2PT Field Goal,5,4,Dunk Shot,DUNKS,0.8,2010
-200780,Jump Shot,2PT Field Goal,16,4,Jump Shot,JUMP_SHOTS,0.25,2010
-200780,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2010
-200780,Standard Layup,2PT Field Goal,7,4,Layup Shot,LAYUPS,0.5714285714285714,2010
-200780,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2010
-200780,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2010
-200780,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2010
-200780,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2011
-200780,Jump Shot,2PT Field Goal,14,1,Jump Shot,JUMP_SHOTS,0.0714285714285714,2011
-200780,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2011
-200780,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2011
-200780,Tip Shot,2PT Field Goal,2,0,Tip Shot,TIP_SHOTS,0.0,2011
-200780,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2011
-200780,Driving Jump Shot,2PT Field Goal,1,1,Driving Jump shot,JUMP_SHOTS,1.0,2012
-200780,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2012
-200780,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2012
-200780,Jump Shot,2PT Field Goal,12,4,Jump Shot,JUMP_SHOTS,0.3333333333333333,2012
-200780,Standard Layup,2PT Field Goal,3,2,Layup Shot,LAYUPS,0.6666666666666666,2012
-200780,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2012
-200780,Tip Shot,2PT Field Goal,2,1,Tip Shot,TIP_SHOTS,0.5,2012
-200780,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2014
-200780,Jump Shot,2PT Field Goal,3,2,Jump Shot,JUMP_SHOTS,0.6666666666666666,2014
-200780,Tip Shot,2PT Field Goal,2,0,Tip Shot,TIP_SHOTS,0.0,2014
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Solomon Jones,200780,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2007
+Solomon Jones,200780,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2007
+Solomon Jones,200780,Standard Dunk,2,24,22,Dunk Shot,DUNKS,,2007
+Solomon Jones,200780,Specialty Dunk,2,2,2,Follow Up Dunk Shot,DUNKS,,2007
+Solomon Jones,200780,Hook Shot,2,3,0,Hook Shot,POST_MOVES,,2007
+Solomon Jones,200780,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2007
+Solomon Jones,200780,Jump Shot,2,29,9,Jump Shot,JUMP_SHOTS,,2007
+Solomon Jones,200780,Standard Layup,2,48,20,Layup Shot,LAYUPS,,2007
+Solomon Jones,200780,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2007
+Solomon Jones,200780,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2007
+Solomon Jones,200780,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,2007
+Solomon Jones,200780,Tip Shot,2,9,4,Tip Shot,TIP_SHOTS,,2007
+Solomon Jones,200780,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2007
+Solomon Jones,200780,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2008
+Solomon Jones,200780,Standard Dunk,2,4,2,Dunk Shot,DUNKS,,2008
+Solomon Jones,200780,Jump Shot,2,8,1,Jump Shot,JUMP_SHOTS,,2008
+Solomon Jones,200780,Standard Layup,2,8,3,Layup Shot,LAYUPS,,2008
+Solomon Jones,200780,Putback Layup,2,5,3,Putback Layup Shot,LAYUPS,,2008
+Solomon Jones,200780,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2008
+Solomon Jones,200780,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2008
+Solomon Jones,200780,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2008
+Solomon Jones,200780,Standard Dunk,2,14,12,Dunk Shot,DUNKS,,2009
+Solomon Jones,200780,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2009
+Solomon Jones,200780,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2009
+Solomon Jones,200780,Hook Shot,2,1,1,Jump Bank Hook Shot,POST_MOVES,,2009
+Solomon Jones,200780,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2009
+Solomon Jones,200780,Hook Shot,2,2,1,Jump Hook Shot,POST_MOVES,,2009
+Solomon Jones,200780,Jump Shot,2,30,13,Jump Shot,JUMP_SHOTS,,2009
+Solomon Jones,200780,Standard Layup,2,28,13,Layup Shot,LAYUPS,,2009
+Solomon Jones,200780,Putback Dunk,2,3,3,Putback Dunk Shot,DUNKS,,2009
+Solomon Jones,200780,Putback Layup,2,10,6,Putback Layup Shot,LAYUPS,,2009
+Solomon Jones,200780,Putback Dunk,2,1,1,Putback Slam Dunk Shot,DUNKS,,2009
+Solomon Jones,200780,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2009
+Solomon Jones,200780,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2009
+Solomon Jones,200780,Standard Layup,2,3,3,Running Layup Shot,LAYUPS,,2009
+Solomon Jones,200780,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2009
+Solomon Jones,200780,Standard Dunk,2,5,4,Slam Dunk Shot,DUNKS,,2009
+Solomon Jones,200780,Tip Shot,2,4,4,Tip Shot,TIP_SHOTS,,2009
+Solomon Jones,200780,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2009
+Solomon Jones,200780,Turnaround Jump Shot,2,3,0,Turnaround Jump Shot,JUMP_SHOTS,,2009
+Solomon Jones,200780,Driving Dunk,2,2,1,Driving Dunk Shot,DUNKS,,2010
+Solomon Jones,200780,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2010
+Solomon Jones,200780,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2010
+Solomon Jones,200780,Standard Dunk,2,13,11,Dunk Shot,DUNKS,,2010
+Solomon Jones,200780,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+Solomon Jones,200780,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2010
+Solomon Jones,200780,Hook Shot,2,3,2,Hook Shot,POST_MOVES,,2010
+Solomon Jones,200780,Hook Shot,2,3,1,Jump Hook Shot,POST_MOVES,,2010
+Solomon Jones,200780,Jump Shot,2,103,38,Jump Shot,JUMP_SHOTS,,2010
+Solomon Jones,200780,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2010
+Solomon Jones,200780,Standard Layup,2,24,8,Layup Shot,LAYUPS,,2010
+Solomon Jones,200780,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2010
+Solomon Jones,200780,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2010
+Solomon Jones,200780,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2010
+Solomon Jones,200780,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2010
+Solomon Jones,200780,Tip Shot,2,11,5,Tip Shot,TIP_SHOTS,,2010
+Solomon Jones,200780,Turnaround Jump Shot,2,4,2,Turnaround Jump Shot,JUMP_SHOTS,,2010
+Solomon Jones,200780,Alley Oop Dunk,2,4,3,Alley Oop Dunk Shot,DUNKS,,2011
+Solomon Jones,200780,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2011
+Solomon Jones,200780,Standard Dunk,2,8,6,Dunk Shot,DUNKS,,2011
+Solomon Jones,200780,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Solomon Jones,200780,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2011
+Solomon Jones,200780,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2011
+Solomon Jones,200780,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2011
+Solomon Jones,200780,Hook Shot,2,4,2,Jump Hook Shot,POST_MOVES,,2011
+Solomon Jones,200780,Jump Shot,2,65,19,Jump Shot,JUMP_SHOTS,,2011
+Solomon Jones,200780,Standard Layup,2,17,6,Layup Shot,LAYUPS,,2011
+Solomon Jones,200780,Standard Dunk,2,5,4,Slam Dunk Shot,DUNKS,,2011
+Solomon Jones,200780,Tip Shot,2,11,5,Tip Shot,TIP_SHOTS,,2011
+Solomon Jones,200780,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2011
+Solomon Jones,200780,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2011
+Solomon Jones,200780,Driving Jump Shot,2,1,1,Driving Jump shot,JUMP_SHOTS,,2012
+Solomon Jones,200780,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2012
+Solomon Jones,200780,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2012
+Solomon Jones,200780,Hook Shot,2,2,1,Jump Hook Shot,POST_MOVES,,2012
+Solomon Jones,200780,Jump Shot,2,32,10,Jump Shot,JUMP_SHOTS,,2012
+Solomon Jones,200780,Standard Layup,2,12,7,Layup Shot,LAYUPS,,2012
+Solomon Jones,200780,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2012
+Solomon Jones,200780,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2012
+Solomon Jones,200780,Tip Shot,2,8,1,Tip Shot,TIP_SHOTS,,2012
+Solomon Jones,200780,Jump Shot,2,1,0,Jump Shot,JUMP_SHOTS,,2013
+Solomon Jones,200780,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2014
+Solomon Jones,200780,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2014
+Solomon Jones,200780,Jump Shot,2,11,4,Jump Shot,JUMP_SHOTS,,2014
+Solomon Jones,200780,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2014
+Solomon Jones,200780,Tip Shot,2,3,0,Tip Shot,TIP_SHOTS,,2014

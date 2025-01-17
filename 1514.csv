@@ -1,3 +1,11 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1514,Jump Shot,2PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,1999
-1514,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,1999
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Paul Grant,1514,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,1999
+Paul Grant,1514,Jump Shot,2,4,0,Jump Shot,JUMP_SHOTS,,1999
+Paul Grant,1514,Standard Layup,2,1,1,Layup Shot,LAYUPS,,1999
+Paul Grant,1514,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2004
+Paul Grant,1514,Specialty Dunk,2,1,0,Follow Up Dunk Shot,DUNKS,,2004
+Paul Grant,1514,Hook Shot,2,3,2,Hook Shot,POST_MOVES,,2004
+Paul Grant,1514,Jump Shot,2,11,5,Jump Shot,JUMP_SHOTS,,2004
+Paul Grant,1514,Standard Layup,2,5,2,Layup Shot,LAYUPS,,2004
+Paul Grant,1514,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2004
+Paul Grant,1514,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2004

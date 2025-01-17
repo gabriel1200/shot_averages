@@ -1,21 +1,257 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-202362,Driving Jump Shot,2PT Field Goal,1,1,Driving Bank shot,JUMP_SHOTS,1.0,2015
-202362,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2015
-202362,Driving Jump Shot,2PT Field Goal,1,1,Driving Jump shot,JUMP_SHOTS,1.0,2015
-202362,Driving Layup,2PT Field Goal,5,4,Driving Layup Shot,LAYUPS,0.8,2015
-202362,Jump Shot,2PT Field Goal,11,2,Jump Shot,JUMP_SHOTS,0.1818181818181818,2015
-202362,Jump Shot,3PT Field Goal,9,2,Jump Shot,JUMP_SHOTS,0.3333333333333333,2015
-202362,Standard Layup,2PT Field Goal,4,1,Layup Shot,LAYUPS,0.25,2015
-202362,Pullup Jump Shot,2PT Field Goal,2,2,Pullup Jump shot,JUMP_SHOTS,1.0,2015
-202362,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2015
-202362,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2015
-202362,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.0,2015
-202362,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2015
-202362,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2016
-202362,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2016
-202362,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2016
-202362,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2016
-202362,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2017
-202362,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2017
-202362,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2017
-202362,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2017
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Lance Stephenson,202362,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2011
+Lance Stephenson,202362,Driving Layup,2,4,4,Driving Layup Shot,LAYUPS,,2011
+Lance Stephenson,202362,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2011
+Lance Stephenson,202362,Jump Shot,2,18,2,Jump Shot,JUMP_SHOTS,,2011
+Lance Stephenson,202362,Standard Layup,2,9,1,Layup Shot,LAYUPS,,2011
+Lance Stephenson,202362,Pullup Jump Shot,2,2,2,Pullup Jump shot,JUMP_SHOTS,,2011
+Lance Stephenson,202362,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2011
+Lance Stephenson,202362,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2011
+Lance Stephenson,202362,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2011
+Lance Stephenson,202362,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2012
+Lance Stephenson,202362,Driving Layup,2,8,4,Driving Layup Shot,LAYUPS,,2012
+Lance Stephenson,202362,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2012
+Lance Stephenson,202362,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2012
+Lance Stephenson,202362,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2012
+Lance Stephenson,202362,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2012
+Lance Stephenson,202362,Jump Shot,2,66,11,Jump Shot,JUMP_SHOTS,,2012
+Lance Stephenson,202362,Standard Layup,2,26,12,Layup Shot,LAYUPS,,2012
+Lance Stephenson,202362,Pullup Jump Shot,2,7,5,Pullup Jump shot,JUMP_SHOTS,,2012
+Lance Stephenson,202362,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2012
+Lance Stephenson,202362,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2012
+Lance Stephenson,202362,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2012
+Lance Stephenson,202362,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2012
+Lance Stephenson,202362,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2012
+Lance Stephenson,202362,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2012
+Lance Stephenson,202362,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2012
+Lance Stephenson,202362,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Lance Stephenson,202362,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2013
+Lance Stephenson,202362,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2013
+Lance Stephenson,202362,Driving Dunk,2,2,0,Driving Dunk Shot,DUNKS,,2013
+Lance Stephenson,202362,Finger Roll,2,9,9,Driving Finger Roll Layup Shot,LAYUPS,,2013
+Lance Stephenson,202362,Driving Jump Shot,2,3,1,Driving Jump shot,JUMP_SHOTS,,2013
+Lance Stephenson,202362,Driving Layup,2,48,39,Driving Layup Shot,LAYUPS,,2013
+Lance Stephenson,202362,Driving Layup,2,7,6,Driving Reverse Layup Shot,LAYUPS,,2013
+Lance Stephenson,202362,Driving Dunk,2,4,4,Driving Slam Dunk Shot,DUNKS,,2013
+Lance Stephenson,202362,Standard Dunk,2,8,8,Dunk Shot,DUNKS,,2013
+Lance Stephenson,202362,Fadeaway Jump Shot,2,6,5,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Lance Stephenson,202362,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2013
+Lance Stephenson,202362,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2013
+Lance Stephenson,202362,Hook Shot,2,3,3,Hook Shot,POST_MOVES,,2013
+Lance Stephenson,202362,Hook Shot,2,1,1,Jump Bank Hook Shot,POST_MOVES,,2013
+Lance Stephenson,202362,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2013
+Lance Stephenson,202362,Jump Shot,2,302,83,Jump Shot,JUMP_SHOTS,,2013
+Lance Stephenson,202362,Standard Layup,2,126,71,Layup Shot,LAYUPS,,2013
+Lance Stephenson,202362,Pullup Jump Shot,2,1,0,Pullup Bank shot,JUMP_SHOTS,,2013
+Lance Stephenson,202362,Pullup Jump Shot,2,11,6,Pullup Jump shot,JUMP_SHOTS,,2013
+Lance Stephenson,202362,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2013
+Lance Stephenson,202362,Putback Layup,2,6,5,Putback Layup Shot,LAYUPS,,2013
+Lance Stephenson,202362,Reverse Layup,2,6,4,Reverse Layup Shot,LAYUPS,,2013
+Lance Stephenson,202362,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2013
+Lance Stephenson,202362,Running Jump Shot,2,4,1,Running Jump Shot,JUMP_SHOTS,,2013
+Lance Stephenson,202362,Standard Layup,2,4,3,Running Layup Shot,LAYUPS,,2013
+Lance Stephenson,202362,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2013
+Lance Stephenson,202362,Standard Dunk,2,7,6,Slam Dunk Shot,DUNKS,,2013
+Lance Stephenson,202362,Step Back Jump Shot,2,14,5,Step Back Jump shot,JUMP_SHOTS,,2013
+Lance Stephenson,202362,Tip Shot,2,8,3,Tip Shot,TIP_SHOTS,,2013
+Lance Stephenson,202362,Turnaround Jump Shot,2,3,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2013
+Lance Stephenson,202362,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Lance Stephenson,202362,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2014
+Lance Stephenson,202362,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2014
+Lance Stephenson,202362,Finger Roll,2,27,27,Driving Finger Roll Layup Shot,LAYUPS,,2014
+Lance Stephenson,202362,Driving Jump Shot,2,3,1,Driving Jump shot,JUMP_SHOTS,,2014
+Lance Stephenson,202362,Driving Layup,2,73,55,Driving Layup Shot,LAYUPS,,2014
+Lance Stephenson,202362,Driving Layup,2,10,8,Driving Reverse Layup Shot,LAYUPS,,2014
+Lance Stephenson,202362,Driving Dunk,2,3,3,Driving Slam Dunk Shot,DUNKS,,2014
+Lance Stephenson,202362,Standard Dunk,2,8,8,Dunk Shot,DUNKS,,2014
+Lance Stephenson,202362,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2014
+Lance Stephenson,202362,Fadeaway Jump Shot,2,11,4,Fadeaway Jump Shot,JUMP_SHOTS,,2014
+Lance Stephenson,202362,Finger Roll,2,9,8,Finger Roll Layup Shot,LAYUPS,,2014
+Lance Stephenson,202362,Floating Jump Shot,2,9,5,Floating Jump shot,FLOATING_SHOTS,,2014
+Lance Stephenson,202362,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2014
+Lance Stephenson,202362,Jump Shot,2,7,5,Jump Bank Shot,JUMP_SHOTS,,2014
+Lance Stephenson,202362,Hook Shot,2,5,3,Jump Hook Shot,POST_MOVES,,2014
+Lance Stephenson,202362,Jump Shot,2,408,118,Jump Shot,JUMP_SHOTS,,2014
+Lance Stephenson,202362,Standard Layup,2,179,100,Layup Shot,LAYUPS,,2014
+Lance Stephenson,202362,Pullup Jump Shot,2,20,15,Pullup Jump shot,JUMP_SHOTS,,2014
+Lance Stephenson,202362,Putback Dunk,2,1,0,Putback Dunk Shot,DUNKS,,2014
+Lance Stephenson,202362,Putback Layup,2,6,5,Putback Layup Shot,LAYUPS,,2014
+Lance Stephenson,202362,Reverse Layup,2,10,7,Reverse Layup Shot,LAYUPS,,2014
+Lance Stephenson,202362,Running Jump Shot,2,4,2,Running Bank shot,JUMP_SHOTS,,2014
+Lance Stephenson,202362,Running Jump Shot,2,10,4,Running Jump Shot,JUMP_SHOTS,,2014
+Lance Stephenson,202362,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2014
+Lance Stephenson,202362,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2014
+Lance Stephenson,202362,Standard Dunk,2,8,8,Slam Dunk Shot,DUNKS,,2014
+Lance Stephenson,202362,Step Back Jump Shot,2,19,13,Step Back Jump shot,JUMP_SHOTS,,2014
+Lance Stephenson,202362,Tip Shot,2,16,11,Tip Shot,TIP_SHOTS,,2014
+Lance Stephenson,202362,Turnaround Jump Shot,2,2,2,Turnaround Bank shot,JUMP_SHOTS,,2014
+Lance Stephenson,202362,Turnaround Jump Shot,2,5,4,Turnaround Fadeaway shot,JUMP_SHOTS,,2014
+Lance Stephenson,202362,Turnaround Jump Shot,2,9,6,Turnaround Jump Shot,JUMP_SHOTS,,2014
+Lance Stephenson,202362,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2015
+Lance Stephenson,202362,Driving Jump Shot,2,2,2,Driving Bank shot,JUMP_SHOTS,,2015
+Lance Stephenson,202362,Finger Roll,2,4,2,Driving Finger Roll Layup Shot,LAYUPS,,2015
+Lance Stephenson,202362,Driving Jump Shot,2,14,10,Driving Jump shot,JUMP_SHOTS,,2015
+Lance Stephenson,202362,Driving Layup,2,66,49,Driving Layup Shot,LAYUPS,,2015
+Lance Stephenson,202362,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2015
+Lance Stephenson,202362,Driving Dunk,2,1,0,Driving Slam Dunk Shot,DUNKS,,2015
+Lance Stephenson,202362,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2015
+Lance Stephenson,202362,Fadeaway Jump Shot,2,7,5,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+Lance Stephenson,202362,Finger Roll,2,2,1,Finger Roll Layup Shot,LAYUPS,,2015
+Lance Stephenson,202362,Floating Jump Shot,2,11,7,Floating Jump shot,FLOATING_SHOTS,,2015
+Lance Stephenson,202362,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2015
+Lance Stephenson,202362,Jump Shot,2,290,61,Jump Shot,JUMP_SHOTS,,2015
+Lance Stephenson,202362,Jump Shot,3,13,2,Jump Shot,JUMP_SHOTS,,2015
+Lance Stephenson,202362,Standard Layup,2,68,26,Layup Shot,LAYUPS,,2015
+Lance Stephenson,202362,Pullup Jump Shot,2,18,11,Pullup Jump shot,JUMP_SHOTS,,2015
+Lance Stephenson,202362,Pullup Jump Shot,3,1,1,Pullup Jump shot,JUMP_SHOTS,,2015
+Lance Stephenson,202362,Putback Layup,2,6,5,Putback Layup Shot,LAYUPS,,2015
+Lance Stephenson,202362,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2015
+Lance Stephenson,202362,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2015
+Lance Stephenson,202362,Running Hook Shot,2,2,0,Running Hook Shot,POST_MOVES,,2015
+Lance Stephenson,202362,Running Jump Shot,2,3,2,Running Jump Shot,JUMP_SHOTS,,2015
+Lance Stephenson,202362,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2015
+Lance Stephenson,202362,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2015
+Lance Stephenson,202362,Step Back Jump Shot,2,14,8,Step Back Jump shot,JUMP_SHOTS,,2015
+Lance Stephenson,202362,Tip Shot,2,8,5,Tip Shot,TIP_SHOTS,,2015
+Lance Stephenson,202362,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2015
+Lance Stephenson,202362,Turnaround Jump Shot,2,6,1,Turnaround Jump Shot,JUMP_SHOTS,,2015
+Lance Stephenson,202362,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2016
+Lance Stephenson,202362,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2016
+Lance Stephenson,202362,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2016
+Lance Stephenson,202362,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2016
+Lance Stephenson,202362,Standard Layup,2,12,11,Cutting Layup Shot,LAYUPS,,2016
+Lance Stephenson,202362,Driving Jump Shot,2,4,1,Driving Bank shot,JUMP_SHOTS,,2016
+Lance Stephenson,202362,Driving Dunk,2,5,4,Driving Dunk Shot,DUNKS,,2016
+Lance Stephenson,202362,Finger Roll,2,12,9,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Lance Stephenson,202362,Floating Jump Shot,2,4,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2016
+Lance Stephenson,202362,Floating Jump Shot,2,3,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Lance Stephenson,202362,Driving Layup,2,68,50,Driving Layup Shot,LAYUPS,,2016
+Lance Stephenson,202362,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2016
+Lance Stephenson,202362,Fadeaway Jump Shot,2,7,2,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Lance Stephenson,202362,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2016
+Lance Stephenson,202362,Floating Jump Shot,2,12,6,Floating Jump shot,FLOATING_SHOTS,,2016
+Lance Stephenson,202362,Hook Shot,2,3,3,Hook Shot,POST_MOVES,,2016
+Lance Stephenson,202362,Jump Shot,2,2,0,Jump Bank Shot,JUMP_SHOTS,,2016
+Lance Stephenson,202362,Jump Shot,2,151,49,Jump Shot,JUMP_SHOTS,,2016
+Lance Stephenson,202362,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,2016
+Lance Stephenson,202362,Standard Layup,2,43,18,Layup Shot,LAYUPS,,2016
+Lance Stephenson,202362,Pullup Jump Shot,2,2,1,Pullup Bank shot,JUMP_SHOTS,,2016
+Lance Stephenson,202362,Pullup Jump Shot,2,46,19,Pullup Jump shot,JUMP_SHOTS,,2016
+Lance Stephenson,202362,Putback Dunk,2,2,1,Putback Dunk Shot,DUNKS,,2016
+Lance Stephenson,202362,Putback Layup,2,6,5,Putback Layup Shot,LAYUPS,,2016
+Lance Stephenson,202362,Reverse Layup,2,11,3,Reverse Layup Shot,LAYUPS,,2016
+Lance Stephenson,202362,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2016
+Lance Stephenson,202362,Finger Roll,2,4,3,Running Finger Roll Layup Shot,LAYUPS,,2016
+Lance Stephenson,202362,Running Jump Shot,2,4,2,Running Jump Shot,JUMP_SHOTS,,2016
+Lance Stephenson,202362,Standard Layup,2,13,9,Running Layup Shot,LAYUPS,,2016
+Lance Stephenson,202362,Running Jump Shot,2,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2016
+Lance Stephenson,202362,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2016
+Lance Stephenson,202362,Step Back Jump Shot,2,19,6,Step Back Jump shot,JUMP_SHOTS,,2016
+Lance Stephenson,202362,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2016
+Lance Stephenson,202362,Putback Layup,2,4,3,Tip Layup Shot,LAYUPS,,2016
+Lance Stephenson,202362,Turnaround Jump Shot,2,1,0,Turnaround Bank shot,JUMP_SHOTS,,2016
+Lance Stephenson,202362,Turnaround Jump Shot,2,5,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2016
+Lance Stephenson,202362,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2016
+Lance Stephenson,202362,Turnaround Jump Shot,2,14,6,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Lance Stephenson,202362,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2017
+Lance Stephenson,202362,Standard Layup,2,3,3,Cutting Layup Shot,LAYUPS,,2017
+Lance Stephenson,202362,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2017
+Lance Stephenson,202362,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Lance Stephenson,202362,Floating Jump Shot,2,3,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Lance Stephenson,202362,Driving Layup,2,9,8,Driving Layup Shot,LAYUPS,,2017
+Lance Stephenson,202362,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2017
+Lance Stephenson,202362,Fadeaway Jump Shot,2,3,2,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Lance Stephenson,202362,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2017
+Lance Stephenson,202362,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2017
+Lance Stephenson,202362,Jump Shot,2,51,13,Jump Shot,JUMP_SHOTS,,2017
+Lance Stephenson,202362,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2017
+Lance Stephenson,202362,Standard Layup,2,6,3,Layup Shot,LAYUPS,,2017
+Lance Stephenson,202362,Pullup Jump Shot,2,17,10,Pullup Jump shot,JUMP_SHOTS,,2017
+Lance Stephenson,202362,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2017
+Lance Stephenson,202362,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2017
+Lance Stephenson,202362,Standard Layup,2,5,2,Running Layup Shot,LAYUPS,,2017
+Lance Stephenson,202362,Step Back Jump Shot,2,6,2,Step Back Jump shot,JUMP_SHOTS,,2017
+Lance Stephenson,202362,Putback Layup,2,2,1,Tip Layup Shot,LAYUPS,,2017
+Lance Stephenson,202362,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2017
+Lance Stephenson,202362,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2017
+Lance Stephenson,202362,Turnaround Jump Shot,2,3,0,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Lance Stephenson,202362,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2018
+Lance Stephenson,202362,Standard Layup,2,10,5,Cutting Layup Shot,LAYUPS,,2018
+Lance Stephenson,202362,Driving Dunk,2,9,7,Driving Dunk Shot,DUNKS,,2018
+Lance Stephenson,202362,Finger Roll,2,36,25,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Lance Stephenson,202362,Floating Jump Shot,2,4,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Lance Stephenson,202362,Floating Jump Shot,2,7,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Lance Stephenson,202362,Driving Layup,2,89,44,Driving Layup Shot,LAYUPS,,2018
+Lance Stephenson,202362,Driving Layup,2,5,3,Driving Reverse Layup Shot,LAYUPS,,2018
+Lance Stephenson,202362,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,2018
+Lance Stephenson,202362,Fadeaway Jump Shot,2,7,4,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+Lance Stephenson,202362,Finger Roll,2,4,4,Finger Roll Layup Shot,LAYUPS,,2018
+Lance Stephenson,202362,Floating Jump Shot,2,12,4,Floating Jump shot,FLOATING_SHOTS,,2018
+Lance Stephenson,202362,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2018
+Lance Stephenson,202362,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2018
+Lance Stephenson,202362,Jump Shot,2,242,68,Jump Shot,JUMP_SHOTS,,2018
+Lance Stephenson,202362,Standard Layup,2,41,16,Layup Shot,LAYUPS,,2018
+Lance Stephenson,202362,Pullup Jump Shot,2,142,56,Pullup Jump shot,JUMP_SHOTS,,2018
+Lance Stephenson,202362,Putback Layup,2,11,10,Putback Layup Shot,LAYUPS,,2018
+Lance Stephenson,202362,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2018
+Lance Stephenson,202362,Standard Dunk,2,4,4,Running Dunk Shot,DUNKS,,2018
+Lance Stephenson,202362,Finger Roll,2,3,3,Running Finger Roll Layup Shot,LAYUPS,,2018
+Lance Stephenson,202362,Running Jump Shot,2,4,3,Running Jump Shot,JUMP_SHOTS,,2018
+Lance Stephenson,202362,Standard Layup,2,12,8,Running Layup Shot,LAYUPS,,2018
+Lance Stephenson,202362,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2018
+Lance Stephenson,202362,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2018
+Lance Stephenson,202362,Step Back Jump Shot,2,37,21,Step Back Jump shot,JUMP_SHOTS,,2018
+Lance Stephenson,202362,Specialty Dunk,2,1,0,Tip Dunk Shot,DUNKS,,2018
+Lance Stephenson,202362,Putback Layup,2,7,3,Tip Layup Shot,LAYUPS,,2018
+Lance Stephenson,202362,Turnaround Jump Shot,2,4,3,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2018
+Lance Stephenson,202362,Turnaround Jump Shot,2,2,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2018
+Lance Stephenson,202362,Turnaround Jump Shot,2,7,1,Turnaround Jump Shot,JUMP_SHOTS,,2018
+Lance Stephenson,202362,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2019
+Lance Stephenson,202362,Standard Layup,2,10,7,Cutting Layup Shot,LAYUPS,,2019
+Lance Stephenson,202362,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2019
+Lance Stephenson,202362,Finger Roll,2,7,7,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Lance Stephenson,202362,Floating Jump Shot,2,3,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Lance Stephenson,202362,Floating Jump Shot,2,4,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Lance Stephenson,202362,Driving Layup,2,49,26,Driving Layup Shot,LAYUPS,,2019
+Lance Stephenson,202362,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2019
+Lance Stephenson,202362,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,2019
+Lance Stephenson,202362,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+Lance Stephenson,202362,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2019
+Lance Stephenson,202362,Floating Jump Shot,2,5,2,Floating Jump shot,FLOATING_SHOTS,,2019
+Lance Stephenson,202362,Jump Shot,2,173,58,Jump Shot,JUMP_SHOTS,,2019
+Lance Stephenson,202362,Standard Layup,2,20,5,Layup Shot,LAYUPS,,2019
+Lance Stephenson,202362,Pullup Jump Shot,2,69,31,Pullup Jump shot,JUMP_SHOTS,,2019
+Lance Stephenson,202362,Putback Layup,2,4,3,Putback Layup Shot,LAYUPS,,2019
+Lance Stephenson,202362,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2019
+Lance Stephenson,202362,Alley Oop Layup,2,1,0,Running Alley Oop Layup Shot,LAYUPS,,2019
+Lance Stephenson,202362,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2019
+Lance Stephenson,202362,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2019
+Lance Stephenson,202362,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2019
+Lance Stephenson,202362,Standard Layup,2,11,8,Running Layup Shot,LAYUPS,,2019
+Lance Stephenson,202362,Running Jump Shot,2,6,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2019
+Lance Stephenson,202362,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2019
+Lance Stephenson,202362,Step Back Jump Shot,2,34,15,Step Back Jump shot,JUMP_SHOTS,,2019
+Lance Stephenson,202362,Putback Layup,2,8,4,Tip Layup Shot,LAYUPS,,2019
+Lance Stephenson,202362,Turnaround Jump Shot,2,6,3,Turnaround Fadeaway shot,JUMP_SHOTS,,2019
+Lance Stephenson,202362,Turnaround Jump Shot,2,7,1,Turnaround Jump Shot,JUMP_SHOTS,,2019
+Lance Stephenson,202362,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2022
+Lance Stephenson,202362,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2022
+Lance Stephenson,202362,Finger Roll,2,25,22,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Lance Stephenson,202362,Floating Jump Shot,2,11,5,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Lance Stephenson,202362,Floating Jump Shot,2,13,7,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Lance Stephenson,202362,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2022
+Lance Stephenson,202362,Driving Layup,2,49,29,Driving Layup Shot,LAYUPS,,2022
+Lance Stephenson,202362,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2022
+Lance Stephenson,202362,Fadeaway Jump Shot,2,13,4,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Lance Stephenson,202362,Jump Shot,2,63,15,Jump Shot,JUMP_SHOTS,,2022
+Lance Stephenson,202362,Standard Layup,2,3,1,Layup Shot,LAYUPS,,2022
+Lance Stephenson,202362,Pullup Jump Shot,2,88,33,Pullup Jump shot,JUMP_SHOTS,,2022
+Lance Stephenson,202362,Putback Layup,2,3,1,Putback Layup Shot,LAYUPS,,2022
+Lance Stephenson,202362,Finger Roll,2,9,8,Running Finger Roll Layup Shot,LAYUPS,,2022
+Lance Stephenson,202362,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,2022
+Lance Stephenson,202362,Standard Layup,2,8,2,Running Layup Shot,LAYUPS,,2022
+Lance Stephenson,202362,Running Jump Shot,2,2,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
+Lance Stephenson,202362,Step Back Jump Shot,2,1,1,Step Back Bank Jump Shot,JUMP_SHOTS,,2022
+Lance Stephenson,202362,Step Back Jump Shot,2,23,12,Step Back Jump shot,JUMP_SHOTS,,2022
+Lance Stephenson,202362,Turnaround Jump Shot,2,3,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2022
+Lance Stephenson,202362,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2022

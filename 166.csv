@@ -1,43 +1,52 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-166,Driving Layup,2PT Field Goal,2,2,Driving Layup Shot,LAYUPS,1.0,1997
-166,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,1997
-166,Jump Shot,2PT Field Goal,31,9,Jump Shot,JUMP_SHOTS,0.2903225806451613,1997
-166,Jump Shot,3PT Field Goal,44,22,Jump Shot,JUMP_SHOTS,0.75,1997
-166,Standard Layup,2PT Field Goal,27,16,Layup Shot,LAYUPS,0.5925925925925926,1997
-166,Running Jump Shot,2PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.5,1997
-166,Tip Shot,2PT Field Goal,2,0,Tip Shot,TIP_SHOTS,0.0,1997
-166,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,1998
-166,Driving Layup,2PT Field Goal,10,8,Driving Layup Shot,LAYUPS,0.8,1998
-166,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,1998
-166,Jump Shot,2PT Field Goal,49,12,Jump Shot,JUMP_SHOTS,0.2448979591836734,1998
-166,Jump Shot,3PT Field Goal,13,1,Jump Shot,JUMP_SHOTS,0.1153846153846153,1998
-166,Standard Layup,2PT Field Goal,29,17,Layup Shot,LAYUPS,0.5862068965517241,1998
-166,Running Jump Shot,2PT Field Goal,2,2,Running Jump Shot,JUMP_SHOTS,1.0,1998
-166,Tip Shot,2PT Field Goal,2,1,Tip Shot,TIP_SHOTS,0.5,1998
-166,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,1999
-166,Jump Shot,2PT Field Goal,28,8,Jump Shot,JUMP_SHOTS,0.2857142857142857,1999
-166,Jump Shot,3PT Field Goal,8,3,Jump Shot,JUMP_SHOTS,0.5625,1999
-166,Standard Layup,2PT Field Goal,8,3,Layup Shot,LAYUPS,0.375,1999
-166,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,1999
-166,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,1999
-166,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2000
-166,Driving Layup,2PT Field Goal,60,37,Driving Layup Shot,LAYUPS,0.6166666666666667,2000
-166,Standard Dunk,2PT Field Goal,3,1,Dunk Shot,DUNKS,0.3333333333333333,2000
-166,Hook Shot,2PT Field Goal,4,1,Hook Shot,POST_MOVES,0.25,2000
-166,Jump Shot,2PT Field Goal,98,23,Jump Shot,JUMP_SHOTS,0.2346938775510204,2000
-166,Jump Shot,3PT Field Goal,54,18,Jump Shot,JUMP_SHOTS,0.5,2000
-166,Standard Layup,2PT Field Goal,43,27,Layup Shot,LAYUPS,0.627906976744186,2000
-166,Running Jump Shot,2PT Field Goal,8,4,Running Jump Shot,JUMP_SHOTS,0.5,2000
-166,Standard Dunk,2PT Field Goal,3,3,Slam Dunk Shot,DUNKS,1.0,2000
-166,Tip Shot,2PT Field Goal,9,2,Tip Shot,TIP_SHOTS,0.2222222222222222,2000
-166,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2001
-166,Driving Layup,2PT Field Goal,22,13,Driving Layup Shot,LAYUPS,0.5909090909090909,2001
-166,Jump Shot,2PT Field Goal,37,12,Jump Shot,JUMP_SHOTS,0.3243243243243243,2001
-166,Jump Shot,3PT Field Goal,46,14,Jump Shot,JUMP_SHOTS,0.4565217391304347,2001
-166,Standard Layup,2PT Field Goal,17,11,Layup Shot,LAYUPS,0.6470588235294118,2001
-166,Reverse Layup,2PT Field Goal,2,1,Reverse Layup Shot,LAYUPS,0.5,2001
-166,Running Hook Shot,2PT Field Goal,1,1,Running Hook Shot,POST_MOVES,1.0,2001
-166,Running Jump Shot,2PT Field Goal,5,3,Running Jump Shot,JUMP_SHOTS,0.6,2001
-166,Standard Dunk,2PT Field Goal,5,5,Slam Dunk Shot,DUNKS,1.0,2001
-166,Tip Shot,2PT Field Goal,3,2,Tip Shot,TIP_SHOTS,0.6666666666666666,2001
-166,Turnaround Jump Shot,2PT Field Goal,4,3,Turnaround Jump Shot,JUMP_SHOTS,0.75,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Ron Harper,166,Driving Layup,2,13,11,Driving Layup Shot,LAYUPS,,1997
+Ron Harper,166,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,1997
+Ron Harper,166,Hook Shot,2,3,2,Hook Shot,POST_MOVES,,1997
+Ron Harper,166,Jump Shot,2,115,42,Jump Shot,JUMP_SHOTS,,1997
+Ron Harper,166,Jump Shot,3,178,64,Jump Shot,JUMP_SHOTS,,1997
+Ron Harper,166,Standard Layup,2,79,43,Layup Shot,LAYUPS,,1997
+Ron Harper,166,Running Jump Shot,2,6,5,Running Jump Shot,JUMP_SHOTS,,1997
+Ron Harper,166,Tip Shot,2,9,7,Tip Shot,TIP_SHOTS,,1997
+Ron Harper,166,Driving Dunk,2,4,3,Driving Dunk Shot,DUNKS,,1998
+Ron Harper,166,Driving Layup,2,50,37,Driving Layup Shot,LAYUPS,,1998
+Ron Harper,166,Standard Dunk,2,13,9,Dunk Shot,DUNKS,,1998
+Ron Harper,166,Hook Shot,2,6,5,Hook Shot,POST_MOVES,,1998
+Ron Harper,166,Jump Shot,2,274,79,Jump Shot,JUMP_SHOTS,,1998
+Ron Harper,166,Jump Shot,3,72,12,Jump Shot,JUMP_SHOTS,,1998
+Ron Harper,166,Standard Layup,2,212,127,Layup Shot,LAYUPS,,1998
+Ron Harper,166,Running Jump Shot,2,8,6,Running Jump Shot,JUMP_SHOTS,,1998
+Ron Harper,166,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,1998
+Ron Harper,166,Tip Shot,2,24,13,Tip Shot,TIP_SHOTS,,1998
+Ron Harper,166,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,1999
+Ron Harper,166,Driving Layup,2,26,13,Driving Layup Shot,LAYUPS,,1999
+Ron Harper,166,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,1999
+Ron Harper,166,Hook Shot,2,3,2,Hook Shot,POST_MOVES,,1999
+Ron Harper,166,Jump Shot,2,212,73,Jump Shot,JUMP_SHOTS,,1999
+Ron Harper,166,Jump Shot,3,45,12,Jump Shot,JUMP_SHOTS,,1999
+Ron Harper,166,Standard Layup,2,87,35,Layup Shot,LAYUPS,,1999
+Ron Harper,166,Running Jump Shot,2,8,5,Running Jump Shot,JUMP_SHOTS,,1999
+Ron Harper,166,Tip Shot,2,4,2,Tip Shot,TIP_SHOTS,,1999
+Ron Harper,166,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2000
+Ron Harper,166,Driving Layup,2,104,65,Driving Layup Shot,LAYUPS,,2000
+Ron Harper,166,Standard Dunk,2,5,1,Dunk Shot,DUNKS,,2000
+Ron Harper,166,Hook Shot,2,8,1,Hook Shot,POST_MOVES,,2000
+Ron Harper,166,Jump Shot,2,203,48,Jump Shot,JUMP_SHOTS,,2000
+Ron Harper,166,Jump Shot,3,87,27,Jump Shot,JUMP_SHOTS,,2000
+Ron Harper,166,Standard Layup,2,85,49,Layup Shot,LAYUPS,,2000
+Ron Harper,166,Running Jump Shot,2,15,8,Running Jump Shot,JUMP_SHOTS,,2000
+Ron Harper,166,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,2000
+Ron Harper,166,Tip Shot,2,16,5,Tip Shot,TIP_SHOTS,,2000
+Ron Harper,166,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2001
+Ron Harper,166,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2001
+Ron Harper,166,Driving Layup,2,36,25,Driving Layup Shot,LAYUPS,,2001
+Ron Harper,166,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2001
+Ron Harper,166,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2001
+Ron Harper,166,Jump Shot,2,95,29,Jump Shot,JUMP_SHOTS,,2001
+Ron Harper,166,Jump Shot,3,63,19,Jump Shot,JUMP_SHOTS,,2001
+Ron Harper,166,Standard Layup,2,36,23,Layup Shot,LAYUPS,,2001
+Ron Harper,166,Reverse Layup,2,5,3,Reverse Layup Shot,LAYUPS,,2001
+Ron Harper,166,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2001
+Ron Harper,166,Running Jump Shot,2,9,7,Running Jump Shot,JUMP_SHOTS,,2001
+Ron Harper,166,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,2001
+Ron Harper,166,Tip Shot,2,10,6,Tip Shot,TIP_SHOTS,,2001
+Ron Harper,166,Turnaround Jump Shot,2,5,4,Turnaround Jump Shot,JUMP_SHOTS,,2001

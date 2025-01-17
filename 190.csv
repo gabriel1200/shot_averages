@@ -1,19 +1,38 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-190,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,1997
-190,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,1997
-190,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,1997
-190,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,1998
-190,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,1998
-190,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,1998
-190,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,1998
-190,Tip Shot,2PT Field Goal,2,1,Tip Shot,TIP_SHOTS,0.5,1998
-190,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,1999
-190,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1999
-190,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,1999
-190,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,1999
-190,Standard Dunk,2PT Field Goal,1,0,Dunk Shot,DUNKS,0.0,2001
-190,Hook Shot,2PT Field Goal,3,2,Hook Shot,POST_MOVES,0.6666666666666666,2001
-190,Jump Shot,2PT Field Goal,4,1,Jump Shot,JUMP_SHOTS,0.25,2001
-190,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2001
-190,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2001
-190,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Duane Causwell,190,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,1997
+Duane Causwell,190,Standard Dunk,2,10,10,Dunk Shot,DUNKS,,1997
+Duane Causwell,190,Hook Shot,2,8,2,Hook Shot,POST_MOVES,,1997
+Duane Causwell,190,Jump Shot,2,40,19,Jump Shot,JUMP_SHOTS,,1997
+Duane Causwell,190,Standard Layup,2,20,7,Layup Shot,LAYUPS,,1997
+Duane Causwell,190,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,1997
+Duane Causwell,190,Standard Dunk,2,9,8,Slam Dunk Shot,DUNKS,,1997
+Duane Causwell,190,Tip Shot,2,5,1,Tip Shot,TIP_SHOTS,,1997
+Duane Causwell,190,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,1998
+Duane Causwell,190,Standard Dunk,2,17,14,Dunk Shot,DUNKS,,1998
+Duane Causwell,190,Hook Shot,2,12,7,Hook Shot,POST_MOVES,,1998
+Duane Causwell,190,Jump Shot,2,33,9,Jump Shot,JUMP_SHOTS,,1998
+Duane Causwell,190,Standard Layup,2,16,3,Layup Shot,LAYUPS,,1998
+Duane Causwell,190,Standard Dunk,2,3,2,Slam Dunk Shot,DUNKS,,1998
+Duane Causwell,190,Tip Shot,2,7,1,Tip Shot,TIP_SHOTS,,1998
+Duane Causwell,190,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,1999
+Duane Causwell,190,Hook Shot,2,7,5,Hook Shot,POST_MOVES,,1999
+Duane Causwell,190,Jump Shot,2,13,5,Jump Shot,JUMP_SHOTS,,1999
+Duane Causwell,190,Standard Layup,2,6,2,Layup Shot,LAYUPS,,1999
+Duane Causwell,190,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,1999
+Duane Causwell,190,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,1999
+Duane Causwell,190,Standard Dunk,2,5,5,Dunk Shot,DUNKS,,2000
+Duane Causwell,190,Hook Shot,2,8,5,Hook Shot,POST_MOVES,,2000
+Duane Causwell,190,Jump Shot,2,14,5,Jump Shot,JUMP_SHOTS,,2000
+Duane Causwell,190,Standard Layup,2,7,4,Layup Shot,LAYUPS,,2000
+Duane Causwell,190,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2000
+Duane Causwell,190,Tip Shot,2,2,0,Tip Shot,TIP_SHOTS,,2000
+Duane Causwell,190,Driving Layup,2,2,0,Driving Layup Shot,LAYUPS,,2001
+Duane Causwell,190,Standard Dunk,2,6,4,Dunk Shot,DUNKS,,2001
+Duane Causwell,190,Hook Shot,2,14,5,Hook Shot,POST_MOVES,,2001
+Duane Causwell,190,Jump Shot,2,39,8,Jump Shot,JUMP_SHOTS,,2001
+Duane Causwell,190,Standard Layup,2,13,9,Layup Shot,LAYUPS,,2001
+Duane Causwell,190,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2001
+Duane Causwell,190,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2001
+Duane Causwell,190,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2001
+Duane Causwell,190,Tip Shot,2,5,2,Tip Shot,TIP_SHOTS,,2001
+Duane Causwell,190,Turnaround Jump Shot,2,3,2,Turnaround Jump Shot,JUMP_SHOTS,,2001

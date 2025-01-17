@@ -1,14 +1,101 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-2416,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2003
-2416,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2003
-2416,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2003
-2416,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2003
-2416,Driving Layup,2PT Field Goal,5,4,Driving Layup Shot,LAYUPS,0.8,2004
-2416,Standard Dunk,2PT Field Goal,1,0,Dunk Shot,DUNKS,0.0,2004
-2416,Jump Shot,2PT Field Goal,46,19,Jump Shot,JUMP_SHOTS,0.4130434782608695,2004
-2416,Jump Shot,3PT Field Goal,36,11,Jump Shot,JUMP_SHOTS,0.4583333333333333,2004
-2416,Standard Layup,2PT Field Goal,15,5,Layup Shot,LAYUPS,0.3333333333333333,2004
-2416,Reverse Layup,2PT Field Goal,3,1,Reverse Layup Shot,LAYUPS,0.3333333333333333,2004
-2416,Running Jump Shot,2PT Field Goal,4,3,Running Jump Shot,JUMP_SHOTS,0.75,2004
-2416,Running Jump Shot,3PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2004
-2416,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,2005
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Kareem Rush,2416,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2003
+Kareem Rush,2416,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2003
+Kareem Rush,2416,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2003
+Kareem Rush,2416,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2003
+Kareem Rush,2416,Driving Layup,2,15,10,Driving Layup Shot,LAYUPS,,2003
+Kareem Rush,2416,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2003
+Kareem Rush,2416,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Kareem Rush,2416,Specialty Dunk,2,1,0,Follow Up Dunk Shot,DUNKS,,2003
+Kareem Rush,2416,Jump Shot,2,181,54,Jump Shot,JUMP_SHOTS,,2003
+Kareem Rush,2416,Standard Layup,2,22,11,Layup Shot,LAYUPS,,2003
+Kareem Rush,2416,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2003
+Kareem Rush,2416,Running Jump Shot,2,5,5,Running Jump Shot,JUMP_SHOTS,,2003
+Kareem Rush,2416,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2003
+Kareem Rush,2416,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2003
+Kareem Rush,2416,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,,2003
+Kareem Rush,2416,Turnaround Jump Shot,2,3,2,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Kareem Rush,2416,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2004
+Kareem Rush,2416,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2004
+Kareem Rush,2416,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2004
+Kareem Rush,2416,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2004
+Kareem Rush,2416,Driving Layup,2,19,16,Driving Layup Shot,LAYUPS,,2004
+Kareem Rush,2416,Standard Dunk,2,2,0,Dunk Shot,DUNKS,,2004
+Kareem Rush,2416,Fadeaway Jump Shot,2,10,8,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Kareem Rush,2416,Jump Shot,2,7,5,Jump Bank Shot,JUMP_SHOTS,,2004
+Kareem Rush,2416,Jump Shot,2,267,101,Jump Shot,JUMP_SHOTS,,2004
+Kareem Rush,2416,Jump Shot,3,54,20,Jump Shot,JUMP_SHOTS,,2004
+Kareem Rush,2416,Standard Layup,2,42,19,Layup Shot,LAYUPS,,2004
+Kareem Rush,2416,Reverse Layup,2,4,2,Reverse Layup Shot,LAYUPS,,2004
+Kareem Rush,2416,Running Jump Shot,2,9,7,Running Jump Shot,JUMP_SHOTS,,2004
+Kareem Rush,2416,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2004
+Kareem Rush,2416,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2004
+Kareem Rush,2416,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2004
+Kareem Rush,2416,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2004
+Kareem Rush,2416,Turnaround Jump Shot,2,7,3,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Kareem Rush,2416,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2005
+Kareem Rush,2416,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2005
+Kareem Rush,2416,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2005
+Kareem Rush,2416,Driving Layup,2,14,13,Driving Layup Shot,LAYUPS,,2005
+Kareem Rush,2416,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2005
+Kareem Rush,2416,Fadeaway Jump Shot,2,9,7,Fadeaway Jump Shot,JUMP_SHOTS,,2005
+Kareem Rush,2416,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2005
+Kareem Rush,2416,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2005
+Kareem Rush,2416,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2005
+Kareem Rush,2416,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2005
+Kareem Rush,2416,Jump Shot,2,315,110,Jump Shot,JUMP_SHOTS,,2005
+Kareem Rush,2416,Jump Shot,3,3,1,Jump Shot,JUMP_SHOTS,,2005
+Kareem Rush,2416,Standard Layup,2,33,8,Layup Shot,LAYUPS,,2005
+Kareem Rush,2416,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2005
+Kareem Rush,2416,Running Jump Shot,2,7,5,Running Jump Shot,JUMP_SHOTS,,2005
+Kareem Rush,2416,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2005
+Kareem Rush,2416,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2005
+Kareem Rush,2416,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2005
+Kareem Rush,2416,Turnaround Jump Shot,2,7,2,Turnaround Jump Shot,JUMP_SHOTS,,2005
+Kareem Rush,2416,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2006
+Kareem Rush,2416,Finger Roll,2,3,3,Driving Finger Roll Shot,LAYUPS,,2006
+Kareem Rush,2416,Driving Layup,2,20,17,Driving Layup Shot,LAYUPS,,2006
+Kareem Rush,2416,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2006
+Kareem Rush,2416,Fadeaway Jump Shot,2,8,5,Fadeaway Jump Shot,JUMP_SHOTS,,2006
+Kareem Rush,2416,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2006
+Kareem Rush,2416,Jump Shot,2,3,3,Jump Bank Shot,JUMP_SHOTS,,2006
+Kareem Rush,2416,Jump Shot,2,350,101,Jump Shot,JUMP_SHOTS,,2006
+Kareem Rush,2416,Standard Layup,2,44,22,Layup Shot,LAYUPS,,2006
+Kareem Rush,2416,Reverse Layup,2,9,6,Reverse Layup Shot,LAYUPS,,2006
+Kareem Rush,2416,Running Jump Shot,2,10,7,Running Jump Shot,JUMP_SHOTS,,2006
+Kareem Rush,2416,Standard Layup,2,3,1,Running Layup Shot,LAYUPS,,2006
+Kareem Rush,2416,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2006
+Kareem Rush,2416,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2006
+Kareem Rush,2416,Turnaround Jump Shot,2,9,6,Turnaround Jump Shot,JUMP_SHOTS,,2006
+Kareem Rush,2416,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2008
+Kareem Rush,2416,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2008
+Kareem Rush,2416,Driving Layup,2,27,22,Driving Layup Shot,LAYUPS,,2008
+Kareem Rush,2416,Driving Layup,2,2,0,Driving Reverse Layup Shot,LAYUPS,,2008
+Kareem Rush,2416,Standard Dunk,2,3,2,Dunk Shot,DUNKS,,2008
+Kareem Rush,2416,Fadeaway Jump Shot,2,9,5,Fadeaway Jump Shot,JUMP_SHOTS,,2008
+Kareem Rush,2416,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2008
+Kareem Rush,2416,Floating Jump Shot,2,3,2,Floating Jump shot,FLOATING_SHOTS,,2008
+Kareem Rush,2416,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2008
+Kareem Rush,2416,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2008
+Kareem Rush,2416,Jump Shot,2,413,138,Jump Shot,JUMP_SHOTS,,2008
+Kareem Rush,2416,Standard Layup,2,48,22,Layup Shot,LAYUPS,,2008
+Kareem Rush,2416,Pullup Jump Shot,2,14,10,Pullup Jump shot,JUMP_SHOTS,,2008
+Kareem Rush,2416,Reverse Layup,2,4,3,Reverse Layup Shot,LAYUPS,,2008
+Kareem Rush,2416,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2008
+Kareem Rush,2416,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2008
+Kareem Rush,2416,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2008
+Kareem Rush,2416,Running Jump Shot,2,10,4,Running Jump Shot,JUMP_SHOTS,,2008
+Kareem Rush,2416,Step Back Jump Shot,2,8,5,Step Back Jump shot,JUMP_SHOTS,,2008
+Kareem Rush,2416,Turnaround Jump Shot,2,1,0,Turnaround Bank shot,JUMP_SHOTS,,2008
+Kareem Rush,2416,Turnaround Jump Shot,2,7,3,Turnaround Fadeaway shot,JUMP_SHOTS,,2008
+Kareem Rush,2416,Turnaround Jump Shot,2,11,5,Turnaround Jump Shot,JUMP_SHOTS,,2008
+Kareem Rush,2416,Driving Layup,2,2,1,Driving Layup Shot,LAYUPS,,2009
+Kareem Rush,2416,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2009
+Kareem Rush,2416,Jump Shot,2,49,14,Jump Shot,JUMP_SHOTS,,2009
+Kareem Rush,2416,Standard Layup,2,3,1,Layup Shot,LAYUPS,,2009
+Kareem Rush,2416,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2009
+Kareem Rush,2416,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2009
+Kareem Rush,2416,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+Kareem Rush,2416,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2010
+Kareem Rush,2416,Jump Shot,2,7,1,Jump Shot,JUMP_SHOTS,,2010
+Kareem Rush,2416,Standard Layup,2,2,1,Layup Shot,LAYUPS,,2010

@@ -1,200 +1,596 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-201572,Alley Oop Layup,2PT Field Goal,1,0,Alley Oop Layup shot,LAYUPS,0.0,2009
-201572,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2009
-201572,Standard Dunk,2PT Field Goal,5,5,Dunk Shot,DUNKS,1.0,2009
-201572,Fadeaway Jump Shot,2PT Field Goal,2,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2009
-201572,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,2009
-201572,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2009
-201572,Jump Shot,2PT Field Goal,11,4,Jump Shot,JUMP_SHOTS,0.3636363636363636,2009
-201572,Standard Layup,2PT Field Goal,10,6,Layup Shot,LAYUPS,0.6,2009
-201572,Putback Dunk,2PT Field Goal,1,1,Putback Dunk Shot,DUNKS,1.0,2009
-201572,Putback Layup,2PT Field Goal,3,3,Putback Layup Shot,LAYUPS,1.0,2009
-201572,Standard Dunk,2PT Field Goal,2,2,Slam Dunk Shot,DUNKS,1.0,2009
-201572,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2009
-201572,Turnaround Jump Shot,2PT Field Goal,2,1,Turnaround Jump Shot,JUMP_SHOTS,0.5,2009
-201572,Alley Oop Dunk,2PT Field Goal,2,2,Alley Oop Dunk Shot,DUNKS,1.0,2010
-201572,Alley Oop Layup,2PT Field Goal,1,1,Alley Oop Layup shot,LAYUPS,1.0,2010
-201572,Driving Dunk,2PT Field Goal,1,0,Driving Dunk Shot,DUNKS,0.0,2010
-201572,Driving Layup,2PT Field Goal,3,2,Driving Layup Shot,LAYUPS,0.6666666666666666,2010
-201572,Standard Dunk,2PT Field Goal,4,4,Dunk Shot,DUNKS,1.0,2010
-201572,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2010
-201572,Hook Shot,2PT Field Goal,2,2,Jump Hook Shot,POST_MOVES,1.0,2010
-201572,Jump Shot,2PT Field Goal,15,4,Jump Shot,JUMP_SHOTS,0.2666666666666666,2010
-201572,Standard Layup,2PT Field Goal,7,3,Layup Shot,LAYUPS,0.4285714285714285,2010
-201572,Running Jump Shot,2PT Field Goal,1,1,Running Bank shot,JUMP_SHOTS,1.0,2010
-201572,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2010
-201572,Tip Shot,2PT Field Goal,6,3,Tip Shot,TIP_SHOTS,0.5,2010
-201572,Turnaround Jump Shot,2PT Field Goal,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,0.5,2010
-201572,Turnaround Jump Shot,2PT Field Goal,2,1,Turnaround Jump Shot,JUMP_SHOTS,0.5,2010
-201572,Driving Jump Shot,2PT Field Goal,1,1,Driving Jump shot,JUMP_SHOTS,1.0,2011
-201572,Driving Layup,2PT Field Goal,5,1,Driving Layup Shot,LAYUPS,0.2,2011
-201572,Standard Dunk,2PT Field Goal,4,3,Dunk Shot,DUNKS,0.75,2011
-201572,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2011
-201572,Hook Shot,2PT Field Goal,9,3,Hook Shot,POST_MOVES,0.3333333333333333,2011
-201572,Jump Shot,2PT Field Goal,2,2,Jump Bank Shot,JUMP_SHOTS,1.0,2011
-201572,Hook Shot,2PT Field Goal,3,2,Jump Hook Shot,POST_MOVES,0.6666666666666666,2011
-201572,Jump Shot,2PT Field Goal,42,16,Jump Shot,JUMP_SHOTS,0.3809523809523809,2011
-201572,Standard Layup,2PT Field Goal,6,4,Layup Shot,LAYUPS,0.6666666666666666,2011
-201572,Putback Dunk,2PT Field Goal,1,1,Putback Dunk Shot,DUNKS,1.0,2011
-201572,Putback Layup,2PT Field Goal,2,1,Putback Layup Shot,LAYUPS,0.5,2011
-201572,Running Hook Shot,2PT Field Goal,1,0,Running Hook Shot,POST_MOVES,0.0,2011
-201572,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2011
-201572,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2011
-201572,Tip Shot,2PT Field Goal,3,2,Tip Shot,TIP_SHOTS,0.6666666666666666,2011
-201572,Turnaround Hook Shot,2PT Field Goal,2,1,Turnaround Hook Shot,POST_MOVES,0.5,2011
-201572,Turnaround Jump Shot,2PT Field Goal,8,5,Turnaround Jump Shot,JUMP_SHOTS,0.625,2011
-201572,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2015
-201572,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2015
-201572,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2015
-201572,Driving Hook Shot,2PT Field Goal,2,2,Driving Hook Shot,POST_MOVES,1.0,2016
-201572,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,2016
-201572,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2016
-201572,Finger Roll,2PT Field Goal,1,1,Finger Roll Layup Shot,LAYUPS,1.0,2016
-201572,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2016
-201572,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,2016
-201572,Jump Shot,2PT Field Goal,9,1,Jump Shot,JUMP_SHOTS,0.1111111111111111,2016
-201572,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2016
-201572,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2016
-201572,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2016
-201572,Turnaround Hook Shot,2PT Field Goal,2,1,Turnaround Hook Shot,POST_MOVES,0.5,2016
-201572,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2016
-201572,Driving Jump Shot,2PT Field Goal,1,1,Driving Bank shot,JUMP_SHOTS,1.0,2017
-201572,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2017
-201572,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2017
-201572,Jump Shot,2PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2017
-201572,Jump Shot,2PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,2017
-201572,Jump Shot,3PT Field Goal,5,1,Jump Shot,JUMP_SHOTS,0.3,2017
-201572,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2017
-201572,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2017
-201572,Putback Layup,2PT Field Goal,1,0,Tip Layup Shot,LAYUPS,0.0,2017
-201572,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2019
-201572,Alley Oop Layup,2PT Field Goal,1,1,Alley Oop Layup shot,LAYUPS,1.0,2019
-201572,Finger Roll,2PT Field Goal,1,0,Driving Finger Roll Layup Shot,LAYUPS,0.0,2019
-201572,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2019
-201572,Driving Layup,2PT Field Goal,2,0,Driving Layup Shot,LAYUPS,0.0,2019
-201572,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2019
-201572,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2019
-201572,Floating Jump Shot,2PT Field Goal,2,0,Floating Jump shot,FLOATING_SHOTS,0.0,2019
-201572,Jump Shot,2PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2019
-201572,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2019
-201572,Jump Shot,3PT Field Goal,39,17,Jump Shot,JUMP_SHOTS,0.6538461538461539,2019
-201572,Pullup Jump Shot,3PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.5,2019
-201572,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2019
-201572,Step Back Jump Shot,3PT Field Goal,2,1,Step Back Jump shot,JUMP_SHOTS,0.75,2019
-201572,Alley Oop Dunk,2PT Field Goal,2,2,Alley Oop Dunk Shot,DUNKS,1.0,2020
-201572,Alley Oop Layup,2PT Field Goal,2,1,Alley Oop Layup shot,LAYUPS,0.5,2020
-201572,Specialty Dunk,2PT Field Goal,3,2,Cutting Dunk Shot,DUNKS,0.6666666666666666,2020
-201572,Standard Layup,2PT Field Goal,4,1,Cutting Layup Shot,LAYUPS,0.25,2020
-201572,Driving Dunk,2PT Field Goal,2,2,Driving Dunk Shot,DUNKS,1.0,2020
-201572,Floating Jump Shot,2PT Field Goal,2,2,Driving Floating Jump Shot,FLOATING_SHOTS,1.0,2020
-201572,Driving Hook Shot,2PT Field Goal,2,2,Driving Hook Shot,POST_MOVES,1.0,2020
-201572,Driving Layup,2PT Field Goal,6,1,Driving Layup Shot,LAYUPS,0.1666666666666666,2020
-201572,Standard Dunk,2PT Field Goal,2,1,Dunk Shot,DUNKS,0.5,2020
-201572,Fadeaway Jump Shot,2PT Field Goal,4,3,Fadeaway Jump Shot,JUMP_SHOTS,0.75,2020
-201572,Floating Jump Shot,2PT Field Goal,2,0,Floating Jump shot,FLOATING_SHOTS,0.0,2020
-201572,Hook Shot,2PT Field Goal,7,3,Hook Shot,POST_MOVES,0.4285714285714285,2020
-201572,Jump Shot,2PT Field Goal,4,0,Jump Shot,JUMP_SHOTS,0.0,2020
-201572,Jump Shot,3PT Field Goal,90,25,Jump Shot,JUMP_SHOTS,0.4166666666666667,2020
-201572,Standard Layup,2PT Field Goal,4,1,Layup Shot,LAYUPS,0.25,2020
-201572,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2020
-201572,Putback Layup,2PT Field Goal,2,0,Putback Layup Shot,LAYUPS,0.0,2020
-201572,Running Jump Shot,3PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.75,2020
-201572,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.0,2020
-201572,Putback Layup,2PT Field Goal,2,1,Tip Layup Shot,LAYUPS,0.5,2020
-201572,Turnaround Jump Shot,2PT Field Goal,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,0.5,2020
-201572,Turnaround Hook Shot,2PT Field Goal,4,2,Turnaround Hook Shot,POST_MOVES,0.5,2020
-201572,Turnaround Jump Shot,2PT Field Goal,3,1,Turnaround Jump Shot,JUMP_SHOTS,0.3333333333333333,2020
-201572,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2022
-201572,Standard Layup,2PT Field Goal,2,0,Cutting Layup Shot,LAYUPS,0.0,2022
-201572,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2022
-201572,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2022
-201572,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2022
-201572,Standard Dunk,2PT Field Goal,4,4,Dunk Shot,DUNKS,1.0,2022
-201572,Fadeaway Jump Shot,3PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2022
-201572,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2022
-201572,Jump Shot,3PT Field Goal,17,8,Jump Shot,JUMP_SHOTS,0.7058823529411765,2022
-201572,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2022
-201572,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2022
-201572,Reverse Dunk,2PT Field Goal,1,1,Reverse Dunk Shot,DUNKS,1.0,2022
-201572,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2022
-201572,Step Back Jump Shot,3PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2022
-201572,Putback Layup,2PT Field Goal,1,1,Tip Layup Shot,LAYUPS,1.0,2022
-201572,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2022
-201572,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2022
-201572,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2023
-201572,Standard Layup,2PT Field Goal,2,2,Cutting Layup Shot,LAYUPS,1.0,2023
-201572,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2023
-201572,Floating Jump Shot,2PT Field Goal,3,2,Floating Jump shot,FLOATING_SHOTS,0.6666666666666666,2023
-201572,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2023
-201572,Jump Shot,3PT Field Goal,5,0,Jump Shot,JUMP_SHOTS,0.0,2023
-201572,Specialty Dunk,2PT Field Goal,1,1,Tip Dunk Shot,DUNKS,1.0,2023
-201572,Alley Oop Dunk,2PT Field Goal,5,5,Alley Oop Dunk Shot,DUNKS,1.0,2024
-201572,Alley Oop Layup,2PT Field Goal,7,7,Alley Oop Layup shot,LAYUPS,1.0,2024
-201572,Specialty Dunk,2PT Field Goal,11,9,Cutting Dunk Shot,DUNKS,0.8181818181818182,2024
-201572,Finger Roll,2PT Field Goal,4,4,Cutting Finger Roll Layup Shot,LAYUPS,1.0,2024
-201572,Standard Layup,2PT Field Goal,33,22,Cutting Layup Shot,LAYUPS,0.6666666666666666,2024
-201572,Driving Hook Shot,2PT Field Goal,1,0,Driving Bank Hook Shot,POST_MOVES,0.0,2024
-201572,Driving Dunk,2PT Field Goal,5,5,Driving Dunk Shot,DUNKS,1.0,2024
-201572,Finger Roll,2PT Field Goal,8,7,Driving Finger Roll Layup Shot,LAYUPS,0.875,2024
-201572,Floating Jump Shot,2PT Field Goal,5,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.4,2024
-201572,Floating Jump Shot,2PT Field Goal,13,6,Driving Floating Jump Shot,FLOATING_SHOTS,0.4615384615384615,2024
-201572,Driving Hook Shot,2PT Field Goal,5,4,Driving Hook Shot,POST_MOVES,0.8,2024
-201572,Driving Layup,2PT Field Goal,29,15,Driving Layup Shot,LAYUPS,0.5172413793103449,2024
-201572,Driving Layup,2PT Field Goal,5,3,Driving Reverse Layup Shot,LAYUPS,0.6,2024
-201572,Standard Dunk,2PT Field Goal,8,8,Dunk Shot,DUNKS,1.0,2024
-201572,Fadeaway Jump Shot,2PT Field Goal,5,3,Fadeaway Jump Shot,JUMP_SHOTS,0.6,2024
-201572,Fadeaway Jump Shot,3PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2024
-201572,Floating Jump Shot,2PT Field Goal,21,11,Floating Jump shot,FLOATING_SHOTS,0.5238095238095238,2024
-201572,Hook Shot,2PT Field Goal,12,4,Hook Shot,POST_MOVES,0.3333333333333333,2024
-201572,Jump Shot,2PT Field Goal,17,8,Jump Shot,JUMP_SHOTS,0.4705882352941176,2024
-201572,Jump Shot,3PT Field Goal,310,117,Jump Shot,JUMP_SHOTS,0.5661290322580645,2024
-201572,Standard Layup,2PT Field Goal,25,15,Layup Shot,LAYUPS,0.6,2024
-201572,Pullup Jump Shot,2PT Field Goal,4,0,Pullup Jump shot,JUMP_SHOTS,0.0,2024
-201572,Pullup Jump Shot,3PT Field Goal,8,1,Pullup Jump shot,JUMP_SHOTS,0.1875,2024
-201572,Putback Dunk,2PT Field Goal,2,2,Putback Dunk Shot,DUNKS,1.0,2024
-201572,Putback Layup,2PT Field Goal,14,12,Putback Layup Shot,LAYUPS,0.8571428571428571,2024
-201572,Reverse Layup,2PT Field Goal,4,2,Reverse Layup Shot,LAYUPS,0.5,2024
-201572,Running Jump Shot,3PT Field Goal,4,3,Running Jump Shot,JUMP_SHOTS,1.125,2024
-201572,Standard Layup,2PT Field Goal,3,1,Running Layup Shot,LAYUPS,0.3333333333333333,2024
-201572,Running Jump Shot,3PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2024
-201572,Step Back Jump Shot,3PT Field Goal,1,1,Step Back Bank Jump Shot,JUMP_SHOTS,1.5,2024
-201572,Step Back Jump Shot,2PT Field Goal,2,0,Step Back Jump shot,JUMP_SHOTS,0.0,2024
-201572,Step Back Jump Shot,3PT Field Goal,7,2,Step Back Jump shot,JUMP_SHOTS,0.4285714285714285,2024
-201572,Specialty Dunk,2PT Field Goal,1,1,Tip Dunk Shot,DUNKS,1.0,2024
-201572,Putback Layup,2PT Field Goal,15,6,Tip Layup Shot,LAYUPS,0.4,2024
-201572,Turnaround Jump Shot,2PT Field Goal,9,1,Turnaround Fadeaway shot,JUMP_SHOTS,0.1111111111111111,2024
-201572,Turnaround Hook Shot,2PT Field Goal,5,4,Turnaround Hook Shot,POST_MOVES,0.8,2024
-201572,Turnaround Jump Shot,2PT Field Goal,6,4,Turnaround Jump Shot,JUMP_SHOTS,0.6666666666666666,2024
-201572,Alley Oop Dunk,2PT Field Goal,5,5,Alley Oop Dunk Shot,DUNKS,1.0,2025
-201572,Alley Oop Layup,2PT Field Goal,5,4,Alley Oop Layup shot,LAYUPS,0.8,2025
-201572,Specialty Dunk,2PT Field Goal,5,5,Cutting Dunk Shot,DUNKS,1.0,2025
-201572,Standard Layup,2PT Field Goal,11,8,Cutting Layup Shot,LAYUPS,0.7272727272727273,2025
-201572,Driving Dunk,2PT Field Goal,3,3,Driving Dunk Shot,DUNKS,1.0,2025
-201572,Floating Jump Shot,2PT Field Goal,2,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,1.0,2025
-201572,Floating Jump Shot,2PT Field Goal,6,3,Driving Floating Jump Shot,FLOATING_SHOTS,0.5,2025
-201572,Driving Hook Shot,2PT Field Goal,4,4,Driving Hook Shot,POST_MOVES,1.0,2025
-201572,Driving Layup,2PT Field Goal,19,10,Driving Layup Shot,LAYUPS,0.5263157894736842,2025
-201572,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2025
-201572,Fadeaway Jump Shot,2PT Field Goal,4,1,Fadeaway Jump Shot,JUMP_SHOTS,0.25,2025
-201572,Floating Jump Shot,2PT Field Goal,15,10,Floating Jump shot,FLOATING_SHOTS,0.6666666666666666,2025
-201572,Hook Shot,2PT Field Goal,4,3,Hook Shot,POST_MOVES,0.75,2025
-201572,Jump Shot,3PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2025
-201572,Jump Shot,2PT Field Goal,10,2,Jump Shot,JUMP_SHOTS,0.2,2025
-201572,Jump Shot,3PT Field Goal,151,56,Jump Shot,JUMP_SHOTS,0.5562913907284768,2025
-201572,Standard Layup,2PT Field Goal,8,7,Layup Shot,LAYUPS,0.875,2025
-201572,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2025
-201572,Pullup Jump Shot,3PT Field Goal,3,0,Pullup Jump shot,JUMP_SHOTS,0.0,2025
-201572,Putback Dunk,2PT Field Goal,4,4,Putback Dunk Shot,DUNKS,1.0,2025
-201572,Putback Layup,2PT Field Goal,5,2,Putback Layup Shot,LAYUPS,0.4,2025
-201572,Reverse Dunk,2PT Field Goal,1,1,Reverse Dunk Shot,DUNKS,1.0,2025
-201572,Reverse Layup,2PT Field Goal,3,3,Reverse Layup Shot,LAYUPS,1.0,2025
-201572,Running Jump Shot,3PT Field Goal,9,2,Running Jump Shot,JUMP_SHOTS,0.3333333333333333,2025
-201572,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2025
-201572,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2025
-201572,Step Back Jump Shot,3PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2025
-201572,Specialty Dunk,2PT Field Goal,1,1,Tip Dunk Shot,DUNKS,1.0,2025
-201572,Putback Layup,2PT Field Goal,7,2,Tip Layup Shot,LAYUPS,0.2857142857142857,2025
-201572,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,1.0,2025
-201572,Turnaround Jump Shot,2PT Field Goal,8,4,Turnaround Fadeaway shot,JUMP_SHOTS,0.5,2025
-201572,Turnaround Hook Shot,2PT Field Goal,9,5,Turnaround Hook Shot,POST_MOVES,0.5555555555555556,2025
-201572,Turnaround Jump Shot,2PT Field Goal,3,2,Turnaround Jump Shot,JUMP_SHOTS,0.6666666666666666,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Brook Lopez,201572,Alley Oop Dunk,2,18,16,Alley Oop Dunk Shot,DUNKS,,2009
+Brook Lopez,201572,Alley Oop Layup,2,15,11,Alley Oop Layup shot,LAYUPS,,2009
+Brook Lopez,201572,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2009
+Brook Lopez,201572,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2009
+Brook Lopez,201572,Driving Hook Shot,2,2,2,Driving Hook Shot,POST_MOVES,,2009
+Brook Lopez,201572,Driving Layup,2,9,5,Driving Layup Shot,LAYUPS,,2009
+Brook Lopez,201572,Standard Dunk,2,78,73,Dunk Shot,DUNKS,,2009
+Brook Lopez,201572,Fadeaway Jump Shot,2,11,5,Fadeaway Jump Shot,JUMP_SHOTS,,2009
+Brook Lopez,201572,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2009
+Brook Lopez,201572,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2009
+Brook Lopez,201572,Hook Shot,2,50,16,Hook Shot,POST_MOVES,,2009
+Brook Lopez,201572,Hook Shot,2,1,1,Jump Bank Hook Shot,POST_MOVES,,2009
+Brook Lopez,201572,Jump Shot,2,10,7,Jump Bank Shot,JUMP_SHOTS,,2009
+Brook Lopez,201572,Hook Shot,2,15,6,Jump Hook Shot,POST_MOVES,,2009
+Brook Lopez,201572,Jump Shot,2,259,93,Jump Shot,JUMP_SHOTS,,2009
+Brook Lopez,201572,Standard Layup,2,191,99,Layup Shot,LAYUPS,,2009
+Brook Lopez,201572,Putback Dunk,2,16,15,Putback Dunk Shot,DUNKS,,2009
+Brook Lopez,201572,Putback Layup,2,30,21,Putback Layup Shot,LAYUPS,,2009
+Brook Lopez,201572,Putback Dunk,2,3,3,Putback Slam Dunk Shot,DUNKS,,2009
+Brook Lopez,201572,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2009
+Brook Lopez,201572,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2009
+Brook Lopez,201572,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2009
+Brook Lopez,201572,Running Jump Shot,2,5,2,Running Jump Shot,JUMP_SHOTS,,2009
+Brook Lopez,201572,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2009
+Brook Lopez,201572,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2009
+Brook Lopez,201572,Standard Dunk,2,17,17,Slam Dunk Shot,DUNKS,,2009
+Brook Lopez,201572,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2009
+Brook Lopez,201572,Tip Shot,2,49,20,Tip Shot,TIP_SHOTS,,2009
+Brook Lopez,201572,Turnaround Jump Shot,2,4,2,Turnaround Bank shot,JUMP_SHOTS,,2009
+Brook Lopez,201572,Turnaround Jump Shot,2,7,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2009
+Brook Lopez,201572,Turnaround Hook Shot,2,4,2,Turnaround Hook Shot,POST_MOVES,,2009
+Brook Lopez,201572,Turnaround Jump Shot,2,34,19,Turnaround Jump Shot,JUMP_SHOTS,,2009
+Brook Lopez,201572,Alley Oop Dunk,2,57,49,Alley Oop Dunk Shot,DUNKS,,2010
+Brook Lopez,201572,Alley Oop Layup,2,20,13,Alley Oop Layup shot,LAYUPS,,2010
+Brook Lopez,201572,Driving Dunk,2,8,7,Driving Dunk Shot,DUNKS,,2010
+Brook Lopez,201572,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2010
+Brook Lopez,201572,Driving Hook Shot,2,3,2,Driving Hook Shot,POST_MOVES,,2010
+Brook Lopez,201572,Driving Jump Shot,2,1,1,Driving Jump shot,JUMP_SHOTS,,2010
+Brook Lopez,201572,Driving Layup,2,48,32,Driving Layup Shot,LAYUPS,,2010
+Brook Lopez,201572,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2010
+Brook Lopez,201572,Standard Dunk,2,57,51,Dunk Shot,DUNKS,,2010
+Brook Lopez,201572,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2010
+Brook Lopez,201572,Fadeaway Jump Shot,2,15,6,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+Brook Lopez,201572,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2010
+Brook Lopez,201572,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2010
+Brook Lopez,201572,Hook Shot,2,69,30,Hook Shot,POST_MOVES,,2010
+Brook Lopez,201572,Jump Shot,2,20,14,Jump Bank Shot,JUMP_SHOTS,,2010
+Brook Lopez,201572,Hook Shot,2,28,16,Jump Hook Shot,POST_MOVES,,2010
+Brook Lopez,201572,Jump Shot,2,381,126,Jump Shot,JUMP_SHOTS,,2010
+Brook Lopez,201572,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,2010
+Brook Lopez,201572,Standard Layup,2,216,96,Layup Shot,LAYUPS,,2010
+Brook Lopez,201572,Putback Dunk,2,11,11,Putback Dunk Shot,DUNKS,,2010
+Brook Lopez,201572,Putback Layup,2,23,20,Putback Layup Shot,LAYUPS,,2010
+Brook Lopez,201572,Reverse Layup,2,5,4,Reverse Layup Shot,LAYUPS,,2010
+Brook Lopez,201572,Running Jump Shot,2,3,2,Running Bank shot,JUMP_SHOTS,,2010
+Brook Lopez,201572,Running Hook Shot,2,9,5,Running Hook Shot,POST_MOVES,,2010
+Brook Lopez,201572,Running Jump Shot,2,9,4,Running Jump Shot,JUMP_SHOTS,,2010
+Brook Lopez,201572,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2010
+Brook Lopez,201572,Tip Shot,2,1,1,Running Tip Shot,TIP_SHOTS,,2010
+Brook Lopez,201572,Standard Dunk,2,8,8,Slam Dunk Shot,DUNKS,,2010
+Brook Lopez,201572,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2010
+Brook Lopez,201572,Tip Shot,2,79,35,Tip Shot,TIP_SHOTS,,2010
+Brook Lopez,201572,Turnaround Jump Shot,2,1,0,Turnaround Bank shot,JUMP_SHOTS,,2010
+Brook Lopez,201572,Turnaround Jump Shot,2,6,3,Turnaround Fadeaway shot,JUMP_SHOTS,,2010
+Brook Lopez,201572,Turnaround Hook Shot,2,4,3,Turnaround Hook Shot,POST_MOVES,,2010
+Brook Lopez,201572,Turnaround Jump Shot,2,35,19,Turnaround Jump Shot,JUMP_SHOTS,,2010
+Brook Lopez,201572,Alley Oop Dunk,2,20,18,Alley Oop Dunk Shot,DUNKS,,2011
+Brook Lopez,201572,Alley Oop Layup,2,10,5,Alley Oop Layup shot,LAYUPS,,2011
+Brook Lopez,201572,Driving Jump Shot,2,3,3,Driving Bank shot,JUMP_SHOTS,,2011
+Brook Lopez,201572,Driving Dunk,2,10,10,Driving Dunk Shot,DUNKS,,2011
+Brook Lopez,201572,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2011
+Brook Lopez,201572,Driving Hook Shot,2,9,5,Driving Hook Shot,POST_MOVES,,2011
+Brook Lopez,201572,Driving Jump Shot,2,10,8,Driving Jump shot,JUMP_SHOTS,,2011
+Brook Lopez,201572,Driving Layup,2,56,32,Driving Layup Shot,LAYUPS,,2011
+Brook Lopez,201572,Driving Layup,2,4,2,Driving Reverse Layup Shot,LAYUPS,,2011
+Brook Lopez,201572,Driving Dunk,2,6,6,Driving Slam Dunk Shot,DUNKS,,2011
+Brook Lopez,201572,Standard Dunk,2,43,38,Dunk Shot,DUNKS,,2011
+Brook Lopez,201572,Fadeaway Jump Shot,2,1,0,Fadeaway Bank shot,JUMP_SHOTS,,2011
+Brook Lopez,201572,Fadeaway Jump Shot,2,7,2,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Brook Lopez,201572,Floating Jump Shot,2,12,8,Floating Jump shot,FLOATING_SHOTS,,2011
+Brook Lopez,201572,Hook Shot,2,5,4,Hook Bank Shot,POST_MOVES,,2011
+Brook Lopez,201572,Hook Shot,2,136,66,Hook Shot,POST_MOVES,,2011
+Brook Lopez,201572,Hook Shot,2,1,1,Jump Bank Hook Shot,POST_MOVES,,2011
+Brook Lopez,201572,Jump Shot,2,24,18,Jump Bank Shot,JUMP_SHOTS,,2011
+Brook Lopez,201572,Hook Shot,2,46,25,Jump Hook Shot,POST_MOVES,,2011
+Brook Lopez,201572,Jump Shot,2,582,222,Jump Shot,JUMP_SHOTS,,2011
+Brook Lopez,201572,Standard Layup,2,131,65,Layup Shot,LAYUPS,,2011
+Brook Lopez,201572,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2011
+Brook Lopez,201572,Putback Dunk,2,8,8,Putback Dunk Shot,DUNKS,,2011
+Brook Lopez,201572,Putback Layup,2,16,13,Putback Layup Shot,LAYUPS,,2011
+Brook Lopez,201572,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2011
+Brook Lopez,201572,Reverse Layup,2,5,3,Reverse Layup Shot,LAYUPS,,2011
+Brook Lopez,201572,Running Jump Shot,2,2,1,Running Bank shot,JUMP_SHOTS,,2011
+Brook Lopez,201572,Running Hook Shot,2,7,3,Running Hook Shot,POST_MOVES,,2011
+Brook Lopez,201572,Running Jump Shot,2,19,11,Running Jump Shot,JUMP_SHOTS,,2011
+Brook Lopez,201572,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2011
+Brook Lopez,201572,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,2011
+Brook Lopez,201572,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2011
+Brook Lopez,201572,Tip Shot,2,50,17,Tip Shot,TIP_SHOTS,,2011
+Brook Lopez,201572,Turnaround Jump Shot,2,3,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2011
+Brook Lopez,201572,Turnaround Hook Shot,2,19,11,Turnaround Hook Shot,POST_MOVES,,2011
+Brook Lopez,201572,Turnaround Jump Shot,2,49,28,Turnaround Jump Shot,JUMP_SHOTS,,2011
+Brook Lopez,201572,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2012
+Brook Lopez,201572,Driving Dunk,2,1,0,Driving Dunk Shot,DUNKS,,2012
+Brook Lopez,201572,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2012
+Brook Lopez,201572,Driving Jump Shot,2,1,1,Driving Jump shot,JUMP_SHOTS,,2012
+Brook Lopez,201572,Driving Layup,2,4,4,Driving Layup Shot,LAYUPS,,2012
+Brook Lopez,201572,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2012
+Brook Lopez,201572,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2012
+Brook Lopez,201572,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Brook Lopez,201572,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2012
+Brook Lopez,201572,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2012
+Brook Lopez,201572,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2012
+Brook Lopez,201572,Jump Shot,2,38,14,Jump Shot,JUMP_SHOTS,,2012
+Brook Lopez,201572,Standard Layup,2,13,6,Layup Shot,LAYUPS,,2012
+Brook Lopez,201572,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2012
+Brook Lopez,201572,Running Jump Shot,2,3,2,Running Jump Shot,JUMP_SHOTS,,2012
+Brook Lopez,201572,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2012
+Brook Lopez,201572,Turnaround Jump Shot,2,4,3,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Brook Lopez,201572,Alley Oop Dunk,2,4,4,Alley Oop Dunk Shot,DUNKS,,2013
+Brook Lopez,201572,Alley Oop Layup,2,8,5,Alley Oop Layup shot,LAYUPS,,2013
+Brook Lopez,201572,Driving Jump Shot,2,3,2,Driving Bank shot,JUMP_SHOTS,,2013
+Brook Lopez,201572,Driving Dunk,2,13,13,Driving Dunk Shot,DUNKS,,2013
+Brook Lopez,201572,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2013
+Brook Lopez,201572,Driving Hook Shot,2,10,6,Driving Hook Shot,POST_MOVES,,2013
+Brook Lopez,201572,Driving Jump Shot,2,6,2,Driving Jump shot,JUMP_SHOTS,,2013
+Brook Lopez,201572,Driving Layup,2,35,24,Driving Layup Shot,LAYUPS,,2013
+Brook Lopez,201572,Driving Layup,2,8,4,Driving Reverse Layup Shot,LAYUPS,,2013
+Brook Lopez,201572,Driving Dunk,2,3,3,Driving Slam Dunk Shot,DUNKS,,2013
+Brook Lopez,201572,Standard Dunk,2,50,47,Dunk Shot,DUNKS,,2013
+Brook Lopez,201572,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2013
+Brook Lopez,201572,Fadeaway Jump Shot,2,21,9,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Brook Lopez,201572,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2013
+Brook Lopez,201572,Floating Jump Shot,2,11,8,Floating Jump shot,FLOATING_SHOTS,,2013
+Brook Lopez,201572,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2013
+Brook Lopez,201572,Hook Shot,2,95,41,Hook Shot,POST_MOVES,,2013
+Brook Lopez,201572,Hook Shot,2,1,0,Jump Bank Hook Shot,POST_MOVES,,2013
+Brook Lopez,201572,Jump Shot,2,66,41,Jump Bank Shot,JUMP_SHOTS,,2013
+Brook Lopez,201572,Hook Shot,2,19,11,Jump Hook Shot,POST_MOVES,,2013
+Brook Lopez,201572,Jump Shot,2,340,110,Jump Shot,JUMP_SHOTS,,2013
+Brook Lopez,201572,Standard Layup,2,190,113,Layup Shot,LAYUPS,,2013
+Brook Lopez,201572,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2013
+Brook Lopez,201572,Putback Dunk,2,5,5,Putback Dunk Shot,DUNKS,,2013
+Brook Lopez,201572,Putback Layup,2,19,16,Putback Layup Shot,LAYUPS,,2013
+Brook Lopez,201572,Putback Dunk,2,1,1,Putback Slam Dunk Shot,DUNKS,,2013
+Brook Lopez,201572,Reverse Dunk,2,4,4,Reverse Dunk Shot,DUNKS,,2013
+Brook Lopez,201572,Reverse Layup,2,10,7,Reverse Layup Shot,LAYUPS,,2013
+Brook Lopez,201572,Running Jump Shot,2,1,0,Running Bank shot,JUMP_SHOTS,,2013
+Brook Lopez,201572,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2013
+Brook Lopez,201572,Running Hook Shot,2,8,3,Running Hook Shot,POST_MOVES,,2013
+Brook Lopez,201572,Running Jump Shot,2,14,5,Running Jump Shot,JUMP_SHOTS,,2013
+Brook Lopez,201572,Standard Layup,2,7,5,Running Layup Shot,LAYUPS,,2013
+Brook Lopez,201572,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2013
+Brook Lopez,201572,Standard Dunk,2,18,18,Slam Dunk Shot,DUNKS,,2013
+Brook Lopez,201572,Step Back Jump Shot,2,3,2,Step Back Jump shot,JUMP_SHOTS,,2013
+Brook Lopez,201572,Tip Shot,2,55,21,Tip Shot,TIP_SHOTS,,2013
+Brook Lopez,201572,Turnaround Jump Shot,2,2,1,Turnaround Bank shot,JUMP_SHOTS,,2013
+Brook Lopez,201572,Turnaround Jump Shot,2,23,13,Turnaround Fadeaway shot,JUMP_SHOTS,,2013
+Brook Lopez,201572,Turnaround Hook Shot,2,16,11,Turnaround Hook Shot,POST_MOVES,,2013
+Brook Lopez,201572,Turnaround Jump Shot,2,16,6,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Brook Lopez,201572,Alley Oop Layup,2,4,4,Alley Oop Layup shot,LAYUPS,,2014
+Brook Lopez,201572,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2014
+Brook Lopez,201572,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2014
+Brook Lopez,201572,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,,2014
+Brook Lopez,201572,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2014
+Brook Lopez,201572,Driving Layup,2,3,3,Driving Layup Shot,LAYUPS,,2014
+Brook Lopez,201572,Standard Dunk,2,7,6,Dunk Shot,DUNKS,,2014
+Brook Lopez,201572,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2014
+Brook Lopez,201572,Fadeaway Jump Shot,2,3,0,Fadeaway Jump Shot,JUMP_SHOTS,,2014
+Brook Lopez,201572,Floating Jump Shot,2,5,4,Floating Jump shot,FLOATING_SHOTS,,2014
+Brook Lopez,201572,Hook Shot,2,25,15,Hook Shot,POST_MOVES,,2014
+Brook Lopez,201572,Jump Shot,2,18,12,Jump Bank Shot,JUMP_SHOTS,,2014
+Brook Lopez,201572,Hook Shot,2,2,2,Jump Hook Shot,POST_MOVES,,2014
+Brook Lopez,201572,Jump Shot,2,74,29,Jump Shot,JUMP_SHOTS,,2014
+Brook Lopez,201572,Standard Layup,2,50,33,Layup Shot,LAYUPS,,2014
+Brook Lopez,201572,Putback Layup,2,3,2,Putback Layup Shot,LAYUPS,,2014
+Brook Lopez,201572,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2014
+Brook Lopez,201572,Reverse Layup,2,2,0,Reverse Layup Shot,LAYUPS,,2014
+Brook Lopez,201572,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2014
+Brook Lopez,201572,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2014
+Brook Lopez,201572,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2014
+Brook Lopez,201572,Tip Shot,2,11,2,Tip Shot,TIP_SHOTS,,2014
+Brook Lopez,201572,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2014
+Brook Lopez,201572,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2014
+Brook Lopez,201572,Turnaround Hook Shot,2,3,2,Turnaround Hook Shot,POST_MOVES,,2014
+Brook Lopez,201572,Turnaround Jump Shot,2,4,3,Turnaround Jump Shot,JUMP_SHOTS,,2014
+Brook Lopez,201572,Alley Oop Dunk,2,5,5,Alley Oop Dunk Shot,DUNKS,,2015
+Brook Lopez,201572,Alley Oop Layup,2,10,6,Alley Oop Layup shot,LAYUPS,,2015
+Brook Lopez,201572,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2015
+Brook Lopez,201572,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2015
+Brook Lopez,201572,Driving Hook Shot,2,6,3,Driving Hook Shot,POST_MOVES,,2015
+Brook Lopez,201572,Driving Jump Shot,2,3,1,Driving Jump shot,JUMP_SHOTS,,2015
+Brook Lopez,201572,Driving Layup,2,25,18,Driving Layup Shot,LAYUPS,,2015
+Brook Lopez,201572,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2015
+Brook Lopez,201572,Driving Dunk,2,4,4,Driving Slam Dunk Shot,DUNKS,,2015
+Brook Lopez,201572,Standard Dunk,2,17,15,Dunk Shot,DUNKS,,2015
+Brook Lopez,201572,Fadeaway Jump Shot,2,1,0,Fadeaway Bank shot,JUMP_SHOTS,,2015
+Brook Lopez,201572,Fadeaway Jump Shot,2,14,8,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+Brook Lopez,201572,Floating Jump Shot,2,24,13,Floating Jump shot,FLOATING_SHOTS,,2015
+Brook Lopez,201572,Hook Shot,2,2,0,Hook Bank Shot,POST_MOVES,,2015
+Brook Lopez,201572,Hook Shot,2,147,71,Hook Shot,POST_MOVES,,2015
+Brook Lopez,201572,Hook Shot,2,1,1,Jump Bank Hook Shot,POST_MOVES,,2015
+Brook Lopez,201572,Jump Shot,2,27,15,Jump Bank Shot,JUMP_SHOTS,,2015
+Brook Lopez,201572,Hook Shot,2,17,8,Jump Hook Shot,POST_MOVES,,2015
+Brook Lopez,201572,Jump Shot,2,350,140,Jump Shot,JUMP_SHOTS,,2015
+Brook Lopez,201572,Standard Layup,2,150,96,Layup Shot,LAYUPS,,2015
+Brook Lopez,201572,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2015
+Brook Lopez,201572,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2015
+Brook Lopez,201572,Putback Dunk,2,3,3,Putback Dunk Shot,DUNKS,,2015
+Brook Lopez,201572,Putback Layup,2,32,24,Putback Layup Shot,LAYUPS,,2015
+Brook Lopez,201572,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2015
+Brook Lopez,201572,Reverse Layup,2,9,7,Reverse Layup Shot,LAYUPS,,2015
+Brook Lopez,201572,Running Jump Shot,2,1,0,Running Bank shot,JUMP_SHOTS,,2015
+Brook Lopez,201572,Running Hook Shot,2,12,7,Running Hook Shot,POST_MOVES,,2015
+Brook Lopez,201572,Running Jump Shot,2,7,2,Running Jump Shot,JUMP_SHOTS,,2015
+Brook Lopez,201572,Standard Dunk,2,8,8,Slam Dunk Shot,DUNKS,,2015
+Brook Lopez,201572,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2015
+Brook Lopez,201572,Tip Shot,2,56,20,Tip Shot,TIP_SHOTS,,2015
+Brook Lopez,201572,Turnaround Jump Shot,2,2,0,Turnaround Bank shot,JUMP_SHOTS,,2015
+Brook Lopez,201572,Turnaround Jump Shot,2,17,8,Turnaround Fadeaway shot,JUMP_SHOTS,,2015
+Brook Lopez,201572,Turnaround Hook Shot,2,10,6,Turnaround Hook Shot,POST_MOVES,,2015
+Brook Lopez,201572,Turnaround Jump Shot,2,18,9,Turnaround Jump Shot,JUMP_SHOTS,,2015
+Brook Lopez,201572,Alley Oop Dunk,2,5,5,Alley Oop Dunk Shot,DUNKS,,2016
+Brook Lopez,201572,Alley Oop Layup,2,11,7,Alley Oop Layup shot,LAYUPS,,2016
+Brook Lopez,201572,Specialty Dunk,2,5,5,Cutting Dunk Shot,DUNKS,,2016
+Brook Lopez,201572,Finger Roll,2,4,4,Cutting Finger Roll Layup Shot,LAYUPS,,2016
+Brook Lopez,201572,Standard Layup,2,16,13,Cutting Layup Shot,LAYUPS,,2016
+Brook Lopez,201572,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2016
+Brook Lopez,201572,Driving Jump Shot,2,6,3,Driving Bank shot,JUMP_SHOTS,,2016
+Brook Lopez,201572,Driving Dunk,2,9,8,Driving Dunk Shot,DUNKS,,2016
+Brook Lopez,201572,Finger Roll,2,5,3,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Brook Lopez,201572,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2016
+Brook Lopez,201572,Floating Jump Shot,2,9,5,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Brook Lopez,201572,Driving Hook Shot,2,20,13,Driving Hook Shot,POST_MOVES,,2016
+Brook Lopez,201572,Driving Layup,2,51,31,Driving Layup Shot,LAYUPS,,2016
+Brook Lopez,201572,Reverse Dunk,2,1,1,Driving Reverse Dunk Shot,DUNKS,,2016
+Brook Lopez,201572,Driving Layup,2,12,7,Driving Reverse Layup Shot,LAYUPS,,2016
+Brook Lopez,201572,Standard Dunk,2,26,23,Dunk Shot,DUNKS,,2016
+Brook Lopez,201572,Fadeaway Jump Shot,2,1,0,Fadeaway Bank shot,JUMP_SHOTS,,2016
+Brook Lopez,201572,Fadeaway Jump Shot,2,27,15,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Brook Lopez,201572,Finger Roll,2,4,3,Finger Roll Layup Shot,LAYUPS,,2016
+Brook Lopez,201572,Floating Jump Shot,2,55,26,Floating Jump shot,FLOATING_SHOTS,,2016
+Brook Lopez,201572,Hook Shot,2,3,3,Hook Bank Shot,POST_MOVES,,2016
+Brook Lopez,201572,Hook Shot,2,119,59,Hook Shot,POST_MOVES,,2016
+Brook Lopez,201572,Jump Shot,2,25,13,Jump Bank Shot,JUMP_SHOTS,,2016
+Brook Lopez,201572,Jump Shot,2,360,142,Jump Shot,JUMP_SHOTS,,2016
+Brook Lopez,201572,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2016
+Brook Lopez,201572,Standard Layup,2,128,74,Layup Shot,LAYUPS,,2016
+Brook Lopez,201572,Pullup Jump Shot,2,1,0,Pullup Bank shot,JUMP_SHOTS,,2016
+Brook Lopez,201572,Pullup Jump Shot,2,4,1,Pullup Jump shot,JUMP_SHOTS,,2016
+Brook Lopez,201572,Putback Dunk,2,5,5,Putback Dunk Shot,DUNKS,,2016
+Brook Lopez,201572,Putback Layup,2,22,16,Putback Layup Shot,LAYUPS,,2016
+Brook Lopez,201572,Reverse Dunk,2,4,3,Reverse Dunk Shot,DUNKS,,2016
+Brook Lopez,201572,Reverse Layup,2,18,13,Reverse Layup Shot,LAYUPS,,2016
+Brook Lopez,201572,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2016
+Brook Lopez,201572,Running Jump Shot,2,4,2,Running Jump Shot,JUMP_SHOTS,,2016
+Brook Lopez,201572,Standard Layup,2,3,3,Running Layup Shot,LAYUPS,,2016
+Brook Lopez,201572,Running Jump Shot,2,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2016
+Brook Lopez,201572,Step Back Jump Shot,2,12,4,Step Back Jump shot,JUMP_SHOTS,,2016
+Brook Lopez,201572,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2016
+Brook Lopez,201572,Putback Layup,2,54,17,Tip Layup Shot,LAYUPS,,2016
+Brook Lopez,201572,Turnaround Jump Shot,2,4,3,Turnaround Bank shot,JUMP_SHOTS,,2016
+Brook Lopez,201572,Turnaround Jump Shot,2,38,17,Turnaround Fadeaway shot,JUMP_SHOTS,,2016
+Brook Lopez,201572,Turnaround Hook Shot,2,27,16,Turnaround Hook Shot,POST_MOVES,,2016
+Brook Lopez,201572,Turnaround Jump Shot,2,51,22,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Brook Lopez,201572,Alley Oop Dunk,2,8,7,Alley Oop Dunk Shot,DUNKS,,2017
+Brook Lopez,201572,Alley Oop Layup,2,8,6,Alley Oop Layup shot,LAYUPS,,2017
+Brook Lopez,201572,Specialty Dunk,2,6,6,Cutting Dunk Shot,DUNKS,,2017
+Brook Lopez,201572,Standard Layup,2,7,7,Cutting Layup Shot,LAYUPS,,2017
+Brook Lopez,201572,Driving Jump Shot,2,7,3,Driving Bank shot,JUMP_SHOTS,,2017
+Brook Lopez,201572,Driving Dunk,2,13,13,Driving Dunk Shot,DUNKS,,2017
+Brook Lopez,201572,Finger Roll,2,3,0,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Brook Lopez,201572,Floating Jump Shot,2,2,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2017
+Brook Lopez,201572,Floating Jump Shot,2,9,5,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Brook Lopez,201572,Driving Hook Shot,2,22,14,Driving Hook Shot,POST_MOVES,,2017
+Brook Lopez,201572,Driving Layup,2,43,27,Driving Layup Shot,LAYUPS,,2017
+Brook Lopez,201572,Reverse Dunk,2,1,1,Driving Reverse Dunk Shot,DUNKS,,2017
+Brook Lopez,201572,Driving Layup,2,10,8,Driving Reverse Layup Shot,LAYUPS,,2017
+Brook Lopez,201572,Standard Dunk,2,23,21,Dunk Shot,DUNKS,,2017
+Brook Lopez,201572,Fadeaway Jump Shot,2,2,1,Fadeaway Bank shot,JUMP_SHOTS,,2017
+Brook Lopez,201572,Fadeaway Jump Shot,2,14,5,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Brook Lopez,201572,Fadeaway Jump Shot,3,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Brook Lopez,201572,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2017
+Brook Lopez,201572,Floating Jump Shot,2,35,19,Floating Jump shot,FLOATING_SHOTS,,2017
+Brook Lopez,201572,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2017
+Brook Lopez,201572,Hook Shot,2,113,50,Hook Shot,POST_MOVES,,2017
+Brook Lopez,201572,Jump Shot,2,15,10,Jump Bank Shot,JUMP_SHOTS,,2017
+Brook Lopez,201572,Jump Shot,2,522,194,Jump Shot,JUMP_SHOTS,,2017
+Brook Lopez,201572,Jump Shot,3,30,7,Jump Shot,JUMP_SHOTS,,2017
+Brook Lopez,201572,Standard Layup,2,119,70,Layup Shot,LAYUPS,,2017
+Brook Lopez,201572,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2017
+Brook Lopez,201572,Pullup Jump Shot,2,5,1,Pullup Jump shot,JUMP_SHOTS,,2017
+Brook Lopez,201572,Putback Dunk,2,3,3,Putback Dunk Shot,DUNKS,,2017
+Brook Lopez,201572,Putback Layup,2,5,4,Putback Layup Shot,LAYUPS,,2017
+Brook Lopez,201572,Reverse Dunk,2,3,3,Reverse Dunk Shot,DUNKS,,2017
+Brook Lopez,201572,Reverse Layup,2,11,5,Reverse Layup Shot,LAYUPS,,2017
+Brook Lopez,201572,Running Jump Shot,2,8,4,Running Jump Shot,JUMP_SHOTS,,2017
+Brook Lopez,201572,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2017
+Brook Lopez,201572,Step Back Jump Shot,2,13,5,Step Back Jump shot,JUMP_SHOTS,,2017
+Brook Lopez,201572,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2017
+Brook Lopez,201572,Putback Layup,2,28,9,Tip Layup Shot,LAYUPS,,2017
+Brook Lopez,201572,Turnaround Jump Shot,2,2,0,Turnaround Bank shot,JUMP_SHOTS,,2017
+Brook Lopez,201572,Turnaround Jump Shot,2,17,7,Turnaround Fadeaway shot,JUMP_SHOTS,,2017
+Brook Lopez,201572,Turnaround Hook Shot,2,37,19,Turnaround Hook Shot,POST_MOVES,,2017
+Brook Lopez,201572,Turnaround Jump Shot,2,21,13,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Brook Lopez,201572,Alley Oop Dunk,2,6,5,Alley Oop Dunk Shot,DUNKS,,2018
+Brook Lopez,201572,Alley Oop Layup,2,6,2,Alley Oop Layup shot,LAYUPS,,2018
+Brook Lopez,201572,Specialty Dunk,2,10,10,Cutting Dunk Shot,DUNKS,,2018
+Brook Lopez,201572,Standard Layup,2,9,7,Cutting Layup Shot,LAYUPS,,2018
+Brook Lopez,201572,Driving Hook Shot,2,1,0,Driving Bank Hook Shot,POST_MOVES,,2018
+Brook Lopez,201572,Driving Dunk,2,11,10,Driving Dunk Shot,DUNKS,,2018
+Brook Lopez,201572,Finger Roll,2,4,4,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Brook Lopez,201572,Floating Jump Shot,2,7,4,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Brook Lopez,201572,Floating Jump Shot,2,13,4,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Brook Lopez,201572,Driving Hook Shot,2,15,8,Driving Hook Shot,POST_MOVES,,2018
+Brook Lopez,201572,Driving Layup,2,19,18,Driving Layup Shot,LAYUPS,,2018
+Brook Lopez,201572,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2018
+Brook Lopez,201572,Standard Dunk,2,7,7,Dunk Shot,DUNKS,,2018
+Brook Lopez,201572,Fadeaway Jump Shot,2,22,7,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+Brook Lopez,201572,Finger Roll,2,2,1,Finger Roll Layup Shot,LAYUPS,,2018
+Brook Lopez,201572,Floating Jump Shot,2,26,13,Floating Jump shot,FLOATING_SHOTS,,2018
+Brook Lopez,201572,Hook Shot,2,2,1,Hook Bank Shot,POST_MOVES,,2018
+Brook Lopez,201572,Hook Shot,2,54,29,Hook Shot,POST_MOVES,,2018
+Brook Lopez,201572,Jump Shot,2,12,7,Jump Bank Shot,JUMP_SHOTS,,2018
+Brook Lopez,201572,Jump Shot,2,369,127,Jump Shot,JUMP_SHOTS,,2018
+Brook Lopez,201572,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2018
+Brook Lopez,201572,Standard Layup,2,36,20,Layup Shot,LAYUPS,,2018
+Brook Lopez,201572,Pullup Jump Shot,2,14,5,Pullup Jump shot,JUMP_SHOTS,,2018
+Brook Lopez,201572,Putback Dunk,2,6,6,Putback Dunk Shot,DUNKS,,2018
+Brook Lopez,201572,Putback Layup,2,6,6,Putback Layup Shot,LAYUPS,,2018
+Brook Lopez,201572,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2018
+Brook Lopez,201572,Reverse Layup,2,8,3,Reverse Layup Shot,LAYUPS,,2018
+Brook Lopez,201572,Standard Dunk,2,4,4,Running Dunk Shot,DUNKS,,2018
+Brook Lopez,201572,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,2018
+Brook Lopez,201572,Standard Layup,2,6,6,Running Layup Shot,LAYUPS,,2018
+Brook Lopez,201572,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2018
+Brook Lopez,201572,Step Back Jump Shot,2,9,3,Step Back Jump shot,JUMP_SHOTS,,2018
+Brook Lopez,201572,Specialty Dunk,2,2,1,Tip Dunk Shot,DUNKS,,2018
+Brook Lopez,201572,Putback Layup,2,16,8,Tip Layup Shot,LAYUPS,,2018
+Brook Lopez,201572,Turnaround Hook Shot,2,1,1,Turnaround Bank Hook Shot,POST_MOVES,,2018
+Brook Lopez,201572,Turnaround Jump Shot,2,5,3,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2018
+Brook Lopez,201572,Turnaround Jump Shot,2,17,8,Turnaround Fadeaway shot,JUMP_SHOTS,,2018
+Brook Lopez,201572,Turnaround Hook Shot,2,37,17,Turnaround Hook Shot,POST_MOVES,,2018
+Brook Lopez,201572,Turnaround Jump Shot,2,25,10,Turnaround Jump Shot,JUMP_SHOTS,,2018
+Brook Lopez,201572,Alley Oop Dunk,2,4,4,Alley Oop Dunk Shot,DUNKS,,2019
+Brook Lopez,201572,Alley Oop Layup,2,5,4,Alley Oop Layup shot,LAYUPS,,2019
+Brook Lopez,201572,Specialty Dunk,2,9,9,Cutting Dunk Shot,DUNKS,,2019
+Brook Lopez,201572,Standard Layup,2,13,10,Cutting Layup Shot,LAYUPS,,2019
+Brook Lopez,201572,Driving Dunk,2,20,17,Driving Dunk Shot,DUNKS,,2019
+Brook Lopez,201572,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Brook Lopez,201572,Floating Jump Shot,2,3,3,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Brook Lopez,201572,Floating Jump Shot,2,12,7,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Brook Lopez,201572,Driving Hook Shot,2,10,8,Driving Hook Shot,POST_MOVES,,2019
+Brook Lopez,201572,Driving Layup,2,20,13,Driving Layup Shot,LAYUPS,,2019
+Brook Lopez,201572,Reverse Dunk,2,1,1,Driving Reverse Dunk Shot,DUNKS,,2019
+Brook Lopez,201572,Driving Layup,2,5,4,Driving Reverse Layup Shot,LAYUPS,,2019
+Brook Lopez,201572,Standard Dunk,2,8,6,Dunk Shot,DUNKS,,2019
+Brook Lopez,201572,Fadeaway Jump Shot,2,13,3,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+Brook Lopez,201572,Finger Roll,2,2,1,Finger Roll Layup Shot,LAYUPS,,2019
+Brook Lopez,201572,Floating Jump Shot,2,9,6,Floating Jump shot,FLOATING_SHOTS,,2019
+Brook Lopez,201572,Hook Shot,2,22,10,Hook Shot,POST_MOVES,,2019
+Brook Lopez,201572,Jump Shot,2,4,3,Jump Bank Shot,JUMP_SHOTS,,2019
+Brook Lopez,201572,Jump Shot,2,462,160,Jump Shot,JUMP_SHOTS,,2019
+Brook Lopez,201572,Jump Shot,3,40,17,Jump Shot,JUMP_SHOTS,,2019
+Brook Lopez,201572,Standard Layup,2,27,17,Layup Shot,LAYUPS,,2019
+Brook Lopez,201572,Pullup Jump Shot,2,13,8,Pullup Jump shot,JUMP_SHOTS,,2019
+Brook Lopez,201572,Pullup Jump Shot,3,1,1,Pullup Jump shot,JUMP_SHOTS,,2019
+Brook Lopez,201572,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2019
+Brook Lopez,201572,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2019
+Brook Lopez,201572,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2019
+Brook Lopez,201572,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2019
+Brook Lopez,201572,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2019
+Brook Lopez,201572,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2019
+Brook Lopez,201572,Step Back Jump Shot,2,17,10,Step Back Jump shot,JUMP_SHOTS,,2019
+Brook Lopez,201572,Step Back Jump Shot,3,2,1,Step Back Jump shot,JUMP_SHOTS,,2019
+Brook Lopez,201572,Putback Layup,2,13,4,Tip Layup Shot,LAYUPS,,2019
+Brook Lopez,201572,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2019
+Brook Lopez,201572,Turnaround Jump Shot,2,10,5,Turnaround Fadeaway shot,JUMP_SHOTS,,2019
+Brook Lopez,201572,Turnaround Hook Shot,2,13,7,Turnaround Hook Shot,POST_MOVES,,2019
+Brook Lopez,201572,Turnaround Jump Shot,2,16,8,Turnaround Jump Shot,JUMP_SHOTS,,2019
+Brook Lopez,201572,Alley Oop Dunk,2,11,11,Alley Oop Dunk Shot,DUNKS,,2020
+Brook Lopez,201572,Alley Oop Layup,2,11,3,Alley Oop Layup shot,LAYUPS,,2020
+Brook Lopez,201572,Specialty Dunk,2,10,9,Cutting Dunk Shot,DUNKS,,2020
+Brook Lopez,201572,Standard Layup,2,35,22,Cutting Layup Shot,LAYUPS,,2020
+Brook Lopez,201572,Driving Dunk,2,10,9,Driving Dunk Shot,DUNKS,,2020
+Brook Lopez,201572,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2020
+Brook Lopez,201572,Floating Jump Shot,2,8,4,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Brook Lopez,201572,Driving Hook Shot,2,6,5,Driving Hook Shot,POST_MOVES,,2020
+Brook Lopez,201572,Driving Layup,2,32,11,Driving Layup Shot,LAYUPS,,2020
+Brook Lopez,201572,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2020
+Brook Lopez,201572,Standard Dunk,2,7,6,Dunk Shot,DUNKS,,2020
+Brook Lopez,201572,Fadeaway Jump Shot,2,14,6,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+Brook Lopez,201572,Finger Roll,2,3,1,Finger Roll Layup Shot,LAYUPS,,2020
+Brook Lopez,201572,Floating Jump Shot,2,9,4,Floating Jump shot,FLOATING_SHOTS,,2020
+Brook Lopez,201572,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2020
+Brook Lopez,201572,Hook Shot,2,33,13,Hook Shot,POST_MOVES,,2020
+Brook Lopez,201572,Jump Shot,2,3,3,Jump Bank Shot,JUMP_SHOTS,,2020
+Brook Lopez,201572,Jump Shot,2,223,71,Jump Shot,JUMP_SHOTS,,2020
+Brook Lopez,201572,Jump Shot,3,110,32,Jump Shot,JUMP_SHOTS,,2020
+Brook Lopez,201572,Standard Layup,2,26,15,Layup Shot,LAYUPS,,2020
+Brook Lopez,201572,Pullup Jump Shot,2,4,2,Pullup Jump shot,JUMP_SHOTS,,2020
+Brook Lopez,201572,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2020
+Brook Lopez,201572,Putback Layup,2,4,2,Putback Layup Shot,LAYUPS,,2020
+Brook Lopez,201572,Reverse Dunk,2,2,2,Reverse Dunk Shot,DUNKS,,2020
+Brook Lopez,201572,Reverse Layup,2,6,4,Reverse Layup Shot,LAYUPS,,2020
+Brook Lopez,201572,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2020
+Brook Lopez,201572,Running Jump Shot,2,5,2,Running Jump Shot,JUMP_SHOTS,,2020
+Brook Lopez,201572,Running Jump Shot,3,3,1,Running Jump Shot,JUMP_SHOTS,,2020
+Brook Lopez,201572,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2020
+Brook Lopez,201572,Step Back Jump Shot,2,6,4,Step Back Jump shot,JUMP_SHOTS,,2020
+Brook Lopez,201572,Specialty Dunk,2,3,3,Tip Dunk Shot,DUNKS,,2020
+Brook Lopez,201572,Putback Layup,2,10,7,Tip Layup Shot,LAYUPS,,2020
+Brook Lopez,201572,Turnaround Hook Shot,2,1,1,Turnaround Bank Hook Shot,POST_MOVES,,2020
+Brook Lopez,201572,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2020
+Brook Lopez,201572,Turnaround Jump Shot,2,16,7,Turnaround Fadeaway shot,JUMP_SHOTS,,2020
+Brook Lopez,201572,Turnaround Hook Shot,2,34,20,Turnaround Hook Shot,POST_MOVES,,2020
+Brook Lopez,201572,Turnaround Jump Shot,2,17,6,Turnaround Jump Shot,JUMP_SHOTS,,2020
+Brook Lopez,201572,Alley Oop Dunk,2,21,20,Alley Oop Dunk Shot,DUNKS,,2021
+Brook Lopez,201572,Alley Oop Layup,2,13,8,Alley Oop Layup shot,LAYUPS,,2021
+Brook Lopez,201572,Specialty Dunk,2,22,21,Cutting Dunk Shot,DUNKS,,2021
+Brook Lopez,201572,Finger Roll,2,1,0,Cutting Finger Roll Layup Shot,LAYUPS,,2021
+Brook Lopez,201572,Standard Layup,2,27,17,Cutting Layup Shot,LAYUPS,,2021
+Brook Lopez,201572,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2021
+Brook Lopez,201572,Driving Dunk,2,5,4,Driving Dunk Shot,DUNKS,,2021
+Brook Lopez,201572,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Brook Lopez,201572,Floating Jump Shot,2,3,3,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2021
+Brook Lopez,201572,Floating Jump Shot,2,14,9,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Brook Lopez,201572,Driving Hook Shot,2,8,7,Driving Hook Shot,POST_MOVES,,2021
+Brook Lopez,201572,Driving Layup,2,24,11,Driving Layup Shot,LAYUPS,,2021
+Brook Lopez,201572,Driving Layup,2,6,2,Driving Reverse Layup Shot,LAYUPS,,2021
+Brook Lopez,201572,Standard Dunk,2,9,9,Dunk Shot,DUNKS,,2021
+Brook Lopez,201572,Fadeaway Jump Shot,2,8,6,Fadeaway Jump Shot,JUMP_SHOTS,,2021
+Brook Lopez,201572,Floating Jump Shot,2,20,10,Floating Jump shot,FLOATING_SHOTS,,2021
+Brook Lopez,201572,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2021
+Brook Lopez,201572,Hook Shot,2,19,6,Hook Shot,POST_MOVES,,2021
+Brook Lopez,201572,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2021
+Brook Lopez,201572,Jump Shot,2,280,96,Jump Shot,JUMP_SHOTS,,2021
+Brook Lopez,201572,Standard Layup,2,34,21,Layup Shot,LAYUPS,,2021
+Brook Lopez,201572,Pullup Jump Shot,2,4,2,Pullup Jump shot,JUMP_SHOTS,,2021
+Brook Lopez,201572,Putback Dunk,2,3,3,Putback Dunk Shot,DUNKS,,2021
+Brook Lopez,201572,Putback Layup,2,7,5,Putback Layup Shot,LAYUPS,,2021
+Brook Lopez,201572,Reverse Dunk,2,3,2,Reverse Dunk Shot,DUNKS,,2021
+Brook Lopez,201572,Reverse Layup,2,9,8,Reverse Layup Shot,LAYUPS,,2021
+Brook Lopez,201572,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2021
+Brook Lopez,201572,Running Jump Shot,2,6,2,Running Jump Shot,JUMP_SHOTS,,2021
+Brook Lopez,201572,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2021
+Brook Lopez,201572,Step Back Jump Shot,2,13,7,Step Back Jump shot,JUMP_SHOTS,,2021
+Brook Lopez,201572,Specialty Dunk,2,6,5,Tip Dunk Shot,DUNKS,,2021
+Brook Lopez,201572,Putback Layup,2,23,13,Tip Layup Shot,LAYUPS,,2021
+Brook Lopez,201572,Turnaround Jump Shot,2,3,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2021
+Brook Lopez,201572,Turnaround Jump Shot,2,16,7,Turnaround Fadeaway shot,JUMP_SHOTS,,2021
+Brook Lopez,201572,Turnaround Hook Shot,2,12,4,Turnaround Hook Shot,POST_MOVES,,2021
+Brook Lopez,201572,Turnaround Jump Shot,2,14,8,Turnaround Jump Shot,JUMP_SHOTS,,2021
+Brook Lopez,201572,Alley Oop Dunk,2,3,3,Alley Oop Dunk Shot,DUNKS,,2022
+Brook Lopez,201572,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2022
+Brook Lopez,201572,Specialty Dunk,2,3,3,Cutting Dunk Shot,DUNKS,,2022
+Brook Lopez,201572,Standard Layup,2,12,6,Cutting Layup Shot,LAYUPS,,2022
+Brook Lopez,201572,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2022
+Brook Lopez,201572,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Brook Lopez,201572,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2022
+Brook Lopez,201572,Driving Layup,2,3,1,Driving Layup Shot,LAYUPS,,2022
+Brook Lopez,201572,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2022
+Brook Lopez,201572,Standard Dunk,2,5,4,Dunk Shot,DUNKS,,2022
+Brook Lopez,201572,Fadeaway Jump Shot,2,5,1,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Brook Lopez,201572,Fadeaway Jump Shot,3,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Brook Lopez,201572,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2022
+Brook Lopez,201572,Hook Shot,2,8,4,Hook Shot,POST_MOVES,,2022
+Brook Lopez,201572,Jump Shot,2,36,11,Jump Shot,JUMP_SHOTS,,2022
+Brook Lopez,201572,Jump Shot,3,17,8,Jump Shot,JUMP_SHOTS,,2022
+Brook Lopez,201572,Standard Layup,2,4,2,Layup Shot,LAYUPS,,2022
+Brook Lopez,201572,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2022
+Brook Lopez,201572,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2022
+Brook Lopez,201572,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2022
+Brook Lopez,201572,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2022
+Brook Lopez,201572,Alley Oop Layup,2,1,1,Running Alley Oop Layup Shot,LAYUPS,,2022
+Brook Lopez,201572,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2022
+Brook Lopez,201572,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2022
+Brook Lopez,201572,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2022
+Brook Lopez,201572,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2022
+Brook Lopez,201572,Putback Layup,2,4,3,Tip Layup Shot,LAYUPS,,2022
+Brook Lopez,201572,Turnaround Jump Shot,2,3,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2022
+Brook Lopez,201572,Turnaround Hook Shot,2,3,0,Turnaround Hook Shot,POST_MOVES,,2022
+Brook Lopez,201572,Turnaround Jump Shot,2,3,2,Turnaround Jump Shot,JUMP_SHOTS,,2022
+Brook Lopez,201572,Alley Oop Dunk,2,25,24,Alley Oop Dunk Shot,DUNKS,,2023
+Brook Lopez,201572,Alley Oop Layup,2,21,13,Alley Oop Layup shot,LAYUPS,,2023
+Brook Lopez,201572,Specialty Dunk,2,21,19,Cutting Dunk Shot,DUNKS,,2023
+Brook Lopez,201572,Finger Roll,2,2,2,Cutting Finger Roll Layup Shot,LAYUPS,,2023
+Brook Lopez,201572,Standard Layup,2,49,40,Cutting Layup Shot,LAYUPS,,2023
+Brook Lopez,201572,Driving Dunk,2,2,1,Driving Dunk Shot,DUNKS,,2023
+Brook Lopez,201572,Finger Roll,2,7,6,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Brook Lopez,201572,Floating Jump Shot,2,4,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+Brook Lopez,201572,Floating Jump Shot,2,23,13,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Brook Lopez,201572,Driving Hook Shot,2,6,4,Driving Hook Shot,POST_MOVES,,2023
+Brook Lopez,201572,Driving Layup,2,26,14,Driving Layup Shot,LAYUPS,,2023
+Brook Lopez,201572,Reverse Dunk,2,2,2,Driving Reverse Dunk Shot,DUNKS,,2023
+Brook Lopez,201572,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2023
+Brook Lopez,201572,Standard Dunk,2,11,10,Dunk Shot,DUNKS,,2023
+Brook Lopez,201572,Fadeaway Jump Shot,2,19,4,Fadeaway Jump Shot,JUMP_SHOTS,,2023
+Brook Lopez,201572,Floating Jump Shot,2,43,25,Floating Jump shot,FLOATING_SHOTS,,2023
+Brook Lopez,201572,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2023
+Brook Lopez,201572,Hook Shot,2,24,15,Hook Shot,POST_MOVES,,2023
+Brook Lopez,201572,Jump Shot,2,3,1,Jump Bank Shot,JUMP_SHOTS,,2023
+Brook Lopez,201572,Jump Shot,2,357,141,Jump Shot,JUMP_SHOTS,,2023
+Brook Lopez,201572,Jump Shot,3,8,0,Jump Shot,JUMP_SHOTS,,2023
+Brook Lopez,201572,Standard Layup,2,45,29,Layup Shot,LAYUPS,,2023
+Brook Lopez,201572,Pullup Jump Shot,2,14,6,Pullup Jump shot,JUMP_SHOTS,,2023
+Brook Lopez,201572,Putback Dunk,2,8,6,Putback Dunk Shot,DUNKS,,2023
+Brook Lopez,201572,Putback Layup,2,16,12,Putback Layup Shot,LAYUPS,,2023
+Brook Lopez,201572,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2023
+Brook Lopez,201572,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2023
+Brook Lopez,201572,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2023
+Brook Lopez,201572,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2023
+Brook Lopez,201572,Running Jump Shot,2,17,6,Running Jump Shot,JUMP_SHOTS,,2023
+Brook Lopez,201572,Standard Layup,2,3,3,Running Layup Shot,LAYUPS,,2023
+Brook Lopez,201572,Running Jump Shot,2,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2023
+Brook Lopez,201572,Step Back Jump Shot,2,1,0,Step Back Bank Jump Shot,JUMP_SHOTS,,2023
+Brook Lopez,201572,Step Back Jump Shot,2,10,6,Step Back Jump shot,JUMP_SHOTS,,2023
+Brook Lopez,201572,Step Back Jump Shot,3,2,2,Step Back Jump shot,JUMP_SHOTS,,2023
+Brook Lopez,201572,Specialty Dunk,2,6,6,Tip Dunk Shot,DUNKS,,2023
+Brook Lopez,201572,Putback Layup,2,50,27,Tip Layup Shot,LAYUPS,,2023
+Brook Lopez,201572,Turnaround Jump Shot,2,26,10,Turnaround Fadeaway shot,JUMP_SHOTS,,2023
+Brook Lopez,201572,Turnaround Hook Shot,2,22,14,Turnaround Hook Shot,POST_MOVES,,2023
+Brook Lopez,201572,Turnaround Jump Shot,2,16,8,Turnaround Jump Shot,JUMP_SHOTS,,2023
+Brook Lopez,201572,Alley Oop Dunk,2,8,8,Alley Oop Dunk Shot,DUNKS,,2024
+Brook Lopez,201572,Alley Oop Layup,2,7,7,Alley Oop Layup shot,LAYUPS,,2024
+Brook Lopez,201572,Specialty Dunk,2,17,15,Cutting Dunk Shot,DUNKS,,2024
+Brook Lopez,201572,Finger Roll,2,7,7,Cutting Finger Roll Layup Shot,LAYUPS,,2024
+Brook Lopez,201572,Standard Layup,2,39,26,Cutting Layup Shot,LAYUPS,,2024
+Brook Lopez,201572,Driving Hook Shot,2,1,0,Driving Bank Hook Shot,POST_MOVES,,2024
+Brook Lopez,201572,Driving Dunk,2,6,6,Driving Dunk Shot,DUNKS,,2024
+Brook Lopez,201572,Finger Roll,2,9,8,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Brook Lopez,201572,Floating Jump Shot,2,7,3,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Brook Lopez,201572,Floating Jump Shot,2,13,6,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Brook Lopez,201572,Driving Hook Shot,2,5,4,Driving Hook Shot,POST_MOVES,,2024
+Brook Lopez,201572,Driving Layup,2,35,19,Driving Layup Shot,LAYUPS,,2024
+Brook Lopez,201572,Driving Layup,2,5,3,Driving Reverse Layup Shot,LAYUPS,,2024
+Brook Lopez,201572,Standard Dunk,2,9,9,Dunk Shot,DUNKS,,2024
+Brook Lopez,201572,Fadeaway Jump Shot,2,8,3,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Brook Lopez,201572,Fadeaway Jump Shot,3,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Brook Lopez,201572,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2024
+Brook Lopez,201572,Floating Jump Shot,2,23,12,Floating Jump shot,FLOATING_SHOTS,,2024
+Brook Lopez,201572,Hook Shot,2,16,8,Hook Shot,POST_MOVES,,2024
+Brook Lopez,201572,Jump Shot,2,19,9,Jump Shot,JUMP_SHOTS,,2024
+Brook Lopez,201572,Jump Shot,3,374,140,Jump Shot,JUMP_SHOTS,,2024
+Brook Lopez,201572,Standard Layup,2,33,20,Layup Shot,LAYUPS,,2024
+Brook Lopez,201572,Pullup Jump Shot,2,5,0,Pullup Jump shot,JUMP_SHOTS,,2024
+Brook Lopez,201572,Pullup Jump Shot,3,10,1,Pullup Jump shot,JUMP_SHOTS,,2024
+Brook Lopez,201572,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2024
+Brook Lopez,201572,Putback Layup,2,19,15,Putback Layup Shot,LAYUPS,,2024
+Brook Lopez,201572,Reverse Layup,2,6,4,Reverse Layup Shot,LAYUPS,,2024
+Brook Lopez,201572,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2024
+Brook Lopez,201572,Running Jump Shot,3,6,3,Running Jump Shot,JUMP_SHOTS,,2024
+Brook Lopez,201572,Standard Layup,2,5,3,Running Layup Shot,LAYUPS,,2024
+Brook Lopez,201572,Running Jump Shot,3,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Brook Lopez,201572,Step Back Jump Shot,3,1,1,Step Back Bank Jump Shot,JUMP_SHOTS,,2024
+Brook Lopez,201572,Step Back Jump Shot,2,2,0,Step Back Jump shot,JUMP_SHOTS,,2024
+Brook Lopez,201572,Step Back Jump Shot,3,10,3,Step Back Jump shot,JUMP_SHOTS,,2024
+Brook Lopez,201572,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2024
+Brook Lopez,201572,Putback Layup,2,17,8,Tip Layup Shot,LAYUPS,,2024
+Brook Lopez,201572,Turnaround Jump Shot,2,12,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2024
+Brook Lopez,201572,Turnaround Hook Shot,2,6,4,Turnaround Hook Shot,POST_MOVES,,2024
+Brook Lopez,201572,Turnaround Jump Shot,2,7,4,Turnaround Jump Shot,JUMP_SHOTS,,2024
+Brook Lopez,201572,Alley Oop Dunk,2,6,6,Alley Oop Dunk Shot,DUNKS,,2025
+Brook Lopez,201572,Alley Oop Layup,2,5,4,Alley Oop Layup shot,LAYUPS,,2025
+Brook Lopez,201572,Specialty Dunk,2,7,7,Cutting Dunk Shot,DUNKS,,2025
+Brook Lopez,201572,Standard Layup,2,16,11,Cutting Layup Shot,LAYUPS,,2025
+Brook Lopez,201572,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2025
+Brook Lopez,201572,Floating Jump Shot,2,2,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2025
+Brook Lopez,201572,Floating Jump Shot,2,6,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Brook Lopez,201572,Driving Hook Shot,2,7,5,Driving Hook Shot,POST_MOVES,,2025
+Brook Lopez,201572,Driving Layup,2,19,10,Driving Layup Shot,LAYUPS,,2025
+Brook Lopez,201572,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2025
+Brook Lopez,201572,Fadeaway Jump Shot,2,5,1,Fadeaway Jump Shot,JUMP_SHOTS,,2025
+Brook Lopez,201572,Floating Jump Shot,2,19,12,Floating Jump shot,FLOATING_SHOTS,,2025
+Brook Lopez,201572,Hook Shot,2,4,3,Hook Shot,POST_MOVES,,2025
+Brook Lopez,201572,Jump Shot,3,1,0,Jump Bank Shot,JUMP_SHOTS,,2025
+Brook Lopez,201572,Jump Shot,2,11,3,Jump Shot,JUMP_SHOTS,,2025
+Brook Lopez,201572,Jump Shot,3,186,71,Jump Shot,JUMP_SHOTS,,2025
+Brook Lopez,201572,Standard Layup,2,9,8,Layup Shot,LAYUPS,,2025
+Brook Lopez,201572,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2025
+Brook Lopez,201572,Pullup Jump Shot,3,4,1,Pullup Jump shot,JUMP_SHOTS,,2025
+Brook Lopez,201572,Putback Dunk,2,4,4,Putback Dunk Shot,DUNKS,,2025
+Brook Lopez,201572,Putback Layup,2,6,3,Putback Layup Shot,LAYUPS,,2025
+Brook Lopez,201572,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2025
+Brook Lopez,201572,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2025
+Brook Lopez,201572,Running Jump Shot,3,9,2,Running Jump Shot,JUMP_SHOTS,,2025
+Brook Lopez,201572,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2025
+Brook Lopez,201572,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2025
+Brook Lopez,201572,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2025
+Brook Lopez,201572,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2025
+Brook Lopez,201572,Putback Layup,2,8,3,Tip Layup Shot,LAYUPS,,2025
+Brook Lopez,201572,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2025
+Brook Lopez,201572,Turnaround Jump Shot,2,10,4,Turnaround Fadeaway shot,JUMP_SHOTS,,2025
+Brook Lopez,201572,Turnaround Hook Shot,2,10,6,Turnaround Hook Shot,POST_MOVES,,2025
+Brook Lopez,201572,Turnaround Jump Shot,2,4,2,Turnaround Jump Shot,JUMP_SHOTS,,2025

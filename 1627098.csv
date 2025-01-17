@@ -1,45 +1,57 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1627098,Standard Layup,2PT Field Goal,1,0,Cutting Layup Shot,LAYUPS,0.0,2017
-1627098,Driving Jump Shot,2PT Field Goal,1,0,Driving Bank shot,JUMP_SHOTS,0.0,2017
-1627098,Finger Roll,2PT Field Goal,2,0,Driving Finger Roll Layup Shot,LAYUPS,0.0,2017
-1627098,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.0,2017
-1627098,Floating Jump Shot,2PT Field Goal,3,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2017
-1627098,Driving Layup,2PT Field Goal,11,3,Driving Layup Shot,LAYUPS,0.2727272727272727,2017
-1627098,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2017
-1627098,Fadeaway Jump Shot,2PT Field Goal,2,1,Fadeaway Jump Shot,JUMP_SHOTS,0.5,2017
-1627098,Floating Jump Shot,2PT Field Goal,2,0,Floating Jump shot,FLOATING_SHOTS,0.0,2017
-1627098,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2017
-1627098,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2017
-1627098,Jump Shot,2PT Field Goal,21,5,Jump Shot,JUMP_SHOTS,0.238095238095238,2017
-1627098,Jump Shot,3PT Field Goal,33,9,Jump Shot,JUMP_SHOTS,0.4090909090909091,2017
-1627098,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2017
-1627098,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Bank shot,JUMP_SHOTS,0.0,2017
-1627098,Pullup Jump Shot,2PT Field Goal,54,32,Pullup Jump shot,JUMP_SHOTS,0.5925925925925926,2017
-1627098,Pullup Jump Shot,3PT Field Goal,10,3,Pullup Jump shot,JUMP_SHOTS,0.45,2017
-1627098,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2017
-1627098,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2017
-1627098,Standard Layup,2PT Field Goal,2,1,Running Layup Shot,LAYUPS,0.5,2017
-1627098,Running Jump Shot,2PT Field Goal,3,3,Running Pull-Up Jump Shot,JUMP_SHOTS,1.0,2017
-1627098,Step Back Jump Shot,2PT Field Goal,2,1,Step Back Jump shot,JUMP_SHOTS,0.5,2017
-1627098,Putback Layup,2PT Field Goal,1,0,Tip Layup Shot,LAYUPS,0.0,2017
-1627098,Turnaround Jump Shot,2PT Field Goal,2,2,Turnaround Jump Shot,JUMP_SHOTS,1.0,2017
-1627098,Standard Layup,2PT Field Goal,5,4,Cutting Layup Shot,LAYUPS,0.8,2018
-1627098,Finger Roll,2PT Field Goal,1,0,Driving Finger Roll Layup Shot,LAYUPS,0.0,2018
-1627098,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,1.0,2018
-1627098,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2018
-1627098,Driving Layup,2PT Field Goal,12,4,Driving Layup Shot,LAYUPS,0.3333333333333333,2018
-1627098,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2018
-1627098,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2018
-1627098,Floating Jump Shot,2PT Field Goal,2,0,Floating Jump shot,FLOATING_SHOTS,0.0,2018
-1627098,Jump Shot,2PT Field Goal,5,2,Jump Shot,JUMP_SHOTS,0.4,2018
-1627098,Jump Shot,3PT Field Goal,30,13,Jump Shot,JUMP_SHOTS,0.65,2018
-1627098,Standard Layup,2PT Field Goal,3,0,Layup Shot,LAYUPS,0.0,2018
-1627098,Pullup Jump Shot,2PT Field Goal,16,5,Pullup Jump shot,JUMP_SHOTS,0.3125,2018
-1627098,Pullup Jump Shot,3PT Field Goal,4,2,Pullup Jump shot,JUMP_SHOTS,0.75,2018
-1627098,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2018
-1627098,Running Jump Shot,3PT Field Goal,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,1.5,2018
-1627098,Reverse Layup,2PT Field Goal,1,0,Running Reverse Layup Shot,LAYUPS,0.0,2018
-1627098,Step Back Jump Shot,2PT Field Goal,2,1,Step Back Jump shot,JUMP_SHOTS,0.5,2018
-1627098,Step Back Jump Shot,3PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2018
-1627098,Putback Layup,2PT Field Goal,1,0,Tip Layup Shot,LAYUPS,0.0,2018
-1627098,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2018
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Malcolm Delaney,1627098,Standard Layup,2,1,0,Cutting Layup Shot,LAYUPS,,2017
+Malcolm Delaney,1627098,Driving Jump Shot,2,1,0,Driving Bank shot,JUMP_SHOTS,,2017
+Malcolm Delaney,1627098,Finger Roll,2,3,1,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Malcolm Delaney,1627098,Floating Jump Shot,2,2,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2017
+Malcolm Delaney,1627098,Floating Jump Shot,2,6,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Malcolm Delaney,1627098,Driving Layup,2,29,12,Driving Layup Shot,LAYUPS,,2017
+Malcolm Delaney,1627098,Driving Layup,2,2,0,Driving Reverse Layup Shot,LAYUPS,,2017
+Malcolm Delaney,1627098,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2017
+Malcolm Delaney,1627098,Fadeaway Jump Shot,2,3,1,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Malcolm Delaney,1627098,Floating Jump Shot,2,5,2,Floating Jump shot,FLOATING_SHOTS,,2017
+Malcolm Delaney,1627098,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2017
+Malcolm Delaney,1627098,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2017
+Malcolm Delaney,1627098,Jump Shot,2,65,15,Jump Shot,JUMP_SHOTS,,2017
+Malcolm Delaney,1627098,Jump Shot,3,80,20,Jump Shot,JUMP_SHOTS,,2017
+Malcolm Delaney,1627098,Standard Layup,2,5,1,Layup Shot,LAYUPS,,2017
+Malcolm Delaney,1627098,Pullup Jump Shot,2,1,0,Pullup Bank shot,JUMP_SHOTS,,2017
+Malcolm Delaney,1627098,Pullup Jump Shot,3,2,0,Pullup Bank shot,JUMP_SHOTS,,2017
+Malcolm Delaney,1627098,Pullup Jump Shot,2,135,69,Pullup Jump shot,JUMP_SHOTS,,2017
+Malcolm Delaney,1627098,Pullup Jump Shot,3,14,4,Pullup Jump shot,JUMP_SHOTS,,2017
+Malcolm Delaney,1627098,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2017
+Malcolm Delaney,1627098,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2017
+Malcolm Delaney,1627098,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2017
+Malcolm Delaney,1627098,Running Jump Shot,2,3,1,Running Jump Shot,JUMP_SHOTS,,2017
+Malcolm Delaney,1627098,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2017
+Malcolm Delaney,1627098,Standard Layup,2,4,2,Running Layup Shot,LAYUPS,,2017
+Malcolm Delaney,1627098,Running Jump Shot,2,7,6,Running Pull-Up Jump Shot,JUMP_SHOTS,,2017
+Malcolm Delaney,1627098,Running Jump Shot,3,3,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2017
+Malcolm Delaney,1627098,Step Back Jump Shot,2,5,2,Step Back Jump shot,JUMP_SHOTS,,2017
+Malcolm Delaney,1627098,Putback Layup,2,1,0,Tip Layup Shot,LAYUPS,,2017
+Malcolm Delaney,1627098,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2017
+Malcolm Delaney,1627098,Turnaround Jump Shot,2,2,2,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Malcolm Delaney,1627098,Standard Layup,2,5,4,Cutting Layup Shot,LAYUPS,,2018
+Malcolm Delaney,1627098,Finger Roll,2,4,2,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Malcolm Delaney,1627098,Floating Jump Shot,2,2,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Malcolm Delaney,1627098,Floating Jump Shot,2,6,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Malcolm Delaney,1627098,Driving Layup,2,36,15,Driving Layup Shot,LAYUPS,,2018
+Malcolm Delaney,1627098,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2018
+Malcolm Delaney,1627098,Fadeaway Jump Shot,2,4,1,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+Malcolm Delaney,1627098,Floating Jump Shot,2,4,0,Floating Jump shot,FLOATING_SHOTS,,2018
+Malcolm Delaney,1627098,Jump Shot,2,38,15,Jump Shot,JUMP_SHOTS,,2018
+Malcolm Delaney,1627098,Jump Shot,3,79,28,Jump Shot,JUMP_SHOTS,,2018
+Malcolm Delaney,1627098,Standard Layup,2,7,0,Layup Shot,LAYUPS,,2018
+Malcolm Delaney,1627098,Pullup Jump Shot,2,62,23,Pullup Jump shot,JUMP_SHOTS,,2018
+Malcolm Delaney,1627098,Pullup Jump Shot,3,17,6,Pullup Jump shot,JUMP_SHOTS,,2018
+Malcolm Delaney,1627098,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2018
+Malcolm Delaney,1627098,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2018
+Malcolm Delaney,1627098,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2018
+Malcolm Delaney,1627098,Running Jump Shot,3,1,1,Running Jump Shot,JUMP_SHOTS,,2018
+Malcolm Delaney,1627098,Standard Layup,2,3,3,Running Layup Shot,LAYUPS,,2018
+Malcolm Delaney,1627098,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2018
+Malcolm Delaney,1627098,Running Jump Shot,3,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2018
+Malcolm Delaney,1627098,Reverse Layup,2,2,1,Running Reverse Layup Shot,LAYUPS,,2018
+Malcolm Delaney,1627098,Step Back Jump Shot,2,3,2,Step Back Jump shot,JUMP_SHOTS,,2018
+Malcolm Delaney,1627098,Step Back Jump Shot,3,2,1,Step Back Jump shot,JUMP_SHOTS,,2018
+Malcolm Delaney,1627098,Putback Layup,2,2,0,Tip Layup Shot,LAYUPS,,2018
+Malcolm Delaney,1627098,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2018

@@ -1,5 +1,23 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1629598,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2020
-1629598,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2020
-1629598,Jump Shot,3PT Field Goal,5,1,Jump Shot,JUMP_SHOTS,0.3,2020
-1629598,Pullup Jump Shot,3PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.5,2020
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Chris Clemons,1629598,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2020
+Chris Clemons,1629598,Alley Oop Layup,2,2,0,Alley Oop Layup shot,LAYUPS,,2020
+Chris Clemons,1629598,Standard Layup,2,3,2,Cutting Layup Shot,LAYUPS,,2020
+Chris Clemons,1629598,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2020
+Chris Clemons,1629598,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2020
+Chris Clemons,1629598,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2020
+Chris Clemons,1629598,Floating Jump Shot,2,3,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Chris Clemons,1629598,Driving Layup,2,8,3,Driving Layup Shot,LAYUPS,,2020
+Chris Clemons,1629598,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2020
+Chris Clemons,1629598,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2020
+Chris Clemons,1629598,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+Chris Clemons,1629598,Jump Shot,2,65,23,Jump Shot,JUMP_SHOTS,,2020
+Chris Clemons,1629598,Jump Shot,3,17,4,Jump Shot,JUMP_SHOTS,,2020
+Chris Clemons,1629598,Pullup Jump Shot,2,17,9,Pullup Jump shot,JUMP_SHOTS,,2020
+Chris Clemons,1629598,Pullup Jump Shot,3,5,1,Pullup Jump shot,JUMP_SHOTS,,2020
+Chris Clemons,1629598,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2020
+Chris Clemons,1629598,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2020
+Chris Clemons,1629598,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2020
+Chris Clemons,1629598,Standard Layup,2,4,2,Running Layup Shot,LAYUPS,,2020
+Chris Clemons,1629598,Step Back Jump Shot,2,5,3,Step Back Jump shot,JUMP_SHOTS,,2020
+Chris Clemons,1629598,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2020
+Chris Clemons,1629598,Putback Layup,2,1,1,Tip Layup Shot,LAYUPS,,2020

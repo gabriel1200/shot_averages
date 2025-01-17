@@ -1,15 +1,95 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-324,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,1997
-324,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,1997
-324,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,1997
-324,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,1997
-324,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,1998
-324,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,1998
-324,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,1998
-324,Jump Shot,2PT Field Goal,19,4,Jump Shot,JUMP_SHOTS,0.2105263157894736,1998
-324,Jump Shot,3PT Field Goal,11,3,Jump Shot,JUMP_SHOTS,0.4090909090909091,1998
-324,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,1998
-324,Running Jump Shot,2PT Field Goal,4,3,Running Jump Shot,JUMP_SHOTS,0.75,1998
-324,Jump Shot,3PT Field Goal,5,0,Jump Shot,JUMP_SHOTS,0.0,1999
-324,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2003
-324,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2003
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Anthony Peeler,324,Driving Dunk,2,10,8,Driving Dunk Shot,DUNKS,,1997
+Anthony Peeler,324,Driving Layup,2,53,36,Driving Layup Shot,LAYUPS,,1997
+Anthony Peeler,324,Standard Dunk,2,8,4,Dunk Shot,DUNKS,,1997
+Anthony Peeler,324,Hook Shot,2,6,3,Hook Shot,POST_MOVES,,1997
+Anthony Peeler,324,Jump Shot,2,784,295,Jump Shot,JUMP_SHOTS,,1997
+Anthony Peeler,324,Jump Shot,3,7,2,Jump Shot,JUMP_SHOTS,,1997
+Anthony Peeler,324,Standard Layup,2,93,25,Layup Shot,LAYUPS,,1997
+Anthony Peeler,324,Running Jump Shot,2,38,18,Running Jump Shot,JUMP_SHOTS,,1997
+Anthony Peeler,324,Standard Dunk,2,10,9,Slam Dunk Shot,DUNKS,,1997
+Anthony Peeler,324,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,,1997
+Anthony Peeler,324,Driving Layup,2,25,19,Driving Layup Shot,LAYUPS,,1998
+Anthony Peeler,324,Standard Dunk,2,6,5,Dunk Shot,DUNKS,,1998
+Anthony Peeler,324,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,1998
+Anthony Peeler,324,Jump Shot,2,233,87,Jump Shot,JUMP_SHOTS,,1998
+Anthony Peeler,324,Jump Shot,3,92,43,Jump Shot,JUMP_SHOTS,,1998
+Anthony Peeler,324,Standard Layup,2,30,15,Layup Shot,LAYUPS,,1998
+Anthony Peeler,324,Running Jump Shot,2,22,12,Running Jump Shot,JUMP_SHOTS,,1998
+Anthony Peeler,324,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,1998
+Anthony Peeler,324,Tip Shot,2,5,3,Tip Shot,TIP_SHOTS,,1998
+Anthony Peeler,324,Driving Layup,2,12,7,Driving Layup Shot,LAYUPS,,1999
+Anthony Peeler,324,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,1999
+Anthony Peeler,324,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,1999
+Anthony Peeler,324,Jump Shot,2,205,75,Jump Shot,JUMP_SHOTS,,1999
+Anthony Peeler,324,Jump Shot,3,22,4,Jump Shot,JUMP_SHOTS,,1999
+Anthony Peeler,324,Standard Layup,2,18,8,Layup Shot,LAYUPS,,1999
+Anthony Peeler,324,Running Jump Shot,2,8,5,Running Jump Shot,JUMP_SHOTS,,1999
+Anthony Peeler,324,Tip Shot,2,5,4,Tip Shot,TIP_SHOTS,,1999
+Anthony Peeler,324,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2000
+Anthony Peeler,324,Driving Layup,2,44,31,Driving Layup Shot,LAYUPS,,2000
+Anthony Peeler,324,Standard Dunk,2,3,2,Dunk Shot,DUNKS,,2000
+Anthony Peeler,324,Hook Shot,2,3,3,Hook Shot,POST_MOVES,,2000
+Anthony Peeler,324,Jump Shot,2,582,226,Jump Shot,JUMP_SHOTS,,2000
+Anthony Peeler,324,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2000
+Anthony Peeler,324,Standard Layup,2,59,29,Layup Shot,LAYUPS,,2000
+Anthony Peeler,324,Running Jump Shot,2,18,14,Running Jump Shot,JUMP_SHOTS,,2000
+Anthony Peeler,324,Standard Dunk,2,6,4,Slam Dunk Shot,DUNKS,,2000
+Anthony Peeler,324,Tip Shot,2,7,5,Tip Shot,TIP_SHOTS,,2000
+Anthony Peeler,324,Driving Dunk,2,4,3,Driving Dunk Shot,DUNKS,,2001
+Anthony Peeler,324,Driving Layup,2,23,14,Driving Layup Shot,LAYUPS,,2001
+Anthony Peeler,324,Standard Dunk,2,4,2,Dunk Shot,DUNKS,,2001
+Anthony Peeler,324,Jump Shot,2,622,239,Jump Shot,JUMP_SHOTS,,2001
+Anthony Peeler,324,Standard Layup,2,45,23,Layup Shot,LAYUPS,,2001
+Anthony Peeler,324,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2001
+Anthony Peeler,324,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2001
+Anthony Peeler,324,Running Jump Shot,2,21,18,Running Jump Shot,JUMP_SHOTS,,2001
+Anthony Peeler,324,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2001
+Anthony Peeler,324,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2001
+Anthony Peeler,324,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2001
+Anthony Peeler,324,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Anthony Peeler,324,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2002
+Anthony Peeler,324,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2002
+Anthony Peeler,324,Driving Layup,2,18,12,Driving Layup Shot,LAYUPS,,2002
+Anthony Peeler,324,Standard Dunk,2,3,2,Dunk Shot,DUNKS,,2002
+Anthony Peeler,324,Fadeaway Jump Shot,2,4,3,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Anthony Peeler,324,Specialty Dunk,2,1,0,Follow Up Dunk Shot,DUNKS,,2002
+Anthony Peeler,324,Jump Shot,2,585,228,Jump Shot,JUMP_SHOTS,,2002
+Anthony Peeler,324,Standard Layup,2,35,13,Layup Shot,LAYUPS,,2002
+Anthony Peeler,324,Reverse Layup,2,5,4,Reverse Layup Shot,LAYUPS,,2002
+Anthony Peeler,324,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2002
+Anthony Peeler,324,Running Jump Shot,2,20,15,Running Jump Shot,JUMP_SHOTS,,2002
+Anthony Peeler,324,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2002
+Anthony Peeler,324,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,,2002
+Anthony Peeler,324,Turnaround Jump Shot,2,2,2,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Anthony Peeler,324,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2003
+Anthony Peeler,324,Driving Layup,2,17,10,Driving Layup Shot,LAYUPS,,2003
+Anthony Peeler,324,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2003
+Anthony Peeler,324,Fadeaway Jump Shot,2,3,3,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Anthony Peeler,324,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2003
+Anthony Peeler,324,Jump Shot,2,501,191,Jump Shot,JUMP_SHOTS,,2003
+Anthony Peeler,324,Jump Shot,3,3,0,Jump Shot,JUMP_SHOTS,,2003
+Anthony Peeler,324,Standard Layup,2,45,20,Layup Shot,LAYUPS,,2003
+Anthony Peeler,324,Reverse Layup,2,4,2,Reverse Layup Shot,LAYUPS,,2003
+Anthony Peeler,324,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2003
+Anthony Peeler,324,Running Jump Shot,2,15,11,Running Jump Shot,JUMP_SHOTS,,2003
+Anthony Peeler,324,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2003
+Anthony Peeler,324,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2003
+Anthony Peeler,324,Tip Shot,2,7,5,Tip Shot,TIP_SHOTS,,2003
+Anthony Peeler,324,Turnaround Jump Shot,2,3,0,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Anthony Peeler,324,Driving Layup,2,14,4,Driving Layup Shot,LAYUPS,,2004
+Anthony Peeler,324,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Anthony Peeler,324,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2004
+Anthony Peeler,324,Jump Shot,2,292,129,Jump Shot,JUMP_SHOTS,,2004
+Anthony Peeler,324,Standard Layup,2,22,14,Layup Shot,LAYUPS,,2004
+Anthony Peeler,324,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2004
+Anthony Peeler,324,Running Hook Shot,2,3,2,Running Hook Shot,POST_MOVES,,2004
+Anthony Peeler,324,Running Jump Shot,2,11,4,Running Jump Shot,JUMP_SHOTS,,2004
+Anthony Peeler,324,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2004
+Anthony Peeler,324,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2004
+Anthony Peeler,324,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2005
+Anthony Peeler,324,Driving Layup,2,3,1,Driving Layup Shot,LAYUPS,,2005
+Anthony Peeler,324,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2005
+Anthony Peeler,324,Jump Shot,2,135,48,Jump Shot,JUMP_SHOTS,,2005
+Anthony Peeler,324,Standard Layup,2,9,4,Layup Shot,LAYUPS,,2005
+Anthony Peeler,324,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2005

@@ -1,49 +1,208 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-2039,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2003
-2039,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2003
-2039,Jump Shot,2PT Field Goal,6,2,Jump Shot,JUMP_SHOTS,0.3333333333333333,2004
-2039,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2004
-2039,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2004
-2039,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2005
-2039,Jump Shot,2PT Field Goal,13,7,Jump Shot,JUMP_SHOTS,0.5384615384615384,2005
-2039,Jump Shot,3PT Field Goal,10,3,Jump Shot,JUMP_SHOTS,0.45,2005
-2039,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2005
-2039,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2005
-2039,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2005
-2039,Driving Dunk,2PT Field Goal,2,1,Driving Dunk Shot,DUNKS,0.5,2006
-2039,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Shot,LAYUPS,1.0,2006
-2039,Driving Layup,2PT Field Goal,8,4,Driving Layup Shot,LAYUPS,0.5,2006
-2039,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2006
-2039,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2006
-2039,Specialty Dunk,2PT Field Goal,1,1,Follow Up Dunk Shot,DUNKS,1.0,2006
-2039,Jump Shot,2PT Field Goal,2,2,Jump Bank Shot,JUMP_SHOTS,1.0,2006
-2039,Jump Shot,2PT Field Goal,40,11,Jump Shot,JUMP_SHOTS,0.275,2006
-2039,Jump Shot,3PT Field Goal,13,7,Jump Shot,JUMP_SHOTS,0.8076923076923077,2006
-2039,Standard Layup,2PT Field Goal,13,6,Layup Shot,LAYUPS,0.4615384615384615,2006
-2039,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2006
-2039,Running Jump Shot,2PT Field Goal,6,6,Running Jump Shot,JUMP_SHOTS,1.0,2006
-2039,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2006
-2039,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2006
-2039,Driving Dunk,2PT Field Goal,1,0,Driving Dunk Shot,DUNKS,0.0,2007
-2039,Driving Layup,2PT Field Goal,16,10,Driving Layup Shot,LAYUPS,0.625,2007
-2039,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2007
-2039,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2007
-2039,Hook Shot,2PT Field Goal,1,0,Jump Hook Shot,POST_MOVES,0.0,2007
-2039,Jump Shot,2PT Field Goal,60,22,Jump Shot,JUMP_SHOTS,0.3666666666666666,2007
-2039,Jump Shot,3PT Field Goal,37,12,Jump Shot,JUMP_SHOTS,0.4864864864864865,2007
-2039,Standard Layup,2PT Field Goal,20,10,Layup Shot,LAYUPS,0.5,2007
-2039,Reverse Dunk,2PT Field Goal,1,1,Reverse Dunk Shot,DUNKS,1.0,2007
-2039,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2007
-2039,Running Jump Shot,2PT Field Goal,7,1,Running Jump Shot,JUMP_SHOTS,0.1428571428571428,2007
-2039,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2007
-2039,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2007
-2039,Driving Layup,2PT Field Goal,5,3,Driving Layup Shot,LAYUPS,0.6,2008
-2039,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2008
-2039,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2008
-2039,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2008
-2039,Jump Shot,2PT Field Goal,11,7,Jump Shot,JUMP_SHOTS,0.6363636363636364,2008
-2039,Jump Shot,3PT Field Goal,8,4,Jump Shot,JUMP_SHOTS,0.75,2008
-2039,Standard Layup,2PT Field Goal,2,2,Layup Shot,LAYUPS,1.0,2008
-2039,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2008
-2039,Running Jump Shot,2PT Field Goal,4,2,Running Jump Shot,JUMP_SHOTS,0.5,2008
-2039,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2012
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Keyon Dooling,2039,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2001
+Keyon Dooling,2039,Driving Dunk,2,13,11,Driving Dunk Shot,DUNKS,,2001
+Keyon Dooling,2039,Finger Roll,2,2,2,Driving Finger Roll Shot,LAYUPS,,2001
+Keyon Dooling,2039,Driving Layup,2,49,36,Driving Layup Shot,LAYUPS,,2001
+Keyon Dooling,2039,Standard Dunk,2,4,1,Dunk Shot,DUNKS,,2001
+Keyon Dooling,2039,Jump Shot,2,222,71,Jump Shot,JUMP_SHOTS,,2001
+Keyon Dooling,2039,Standard Layup,2,37,7,Layup Shot,LAYUPS,,2001
+Keyon Dooling,2039,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2001
+Keyon Dooling,2039,Running Jump Shot,2,26,14,Running Jump Shot,JUMP_SHOTS,,2001
+Keyon Dooling,2039,Standard Layup,2,2,0,Running Layup Shot,LAYUPS,,2001
+Keyon Dooling,2039,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2001
+Keyon Dooling,2039,Driving Dunk,2,1,0,Driving Dunk Shot,DUNKS,,2002
+Keyon Dooling,2039,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,2002
+Keyon Dooling,2039,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2002
+Keyon Dooling,2039,Jump Shot,2,42,14,Jump Shot,JUMP_SHOTS,,2002
+Keyon Dooling,2039,Standard Layup,2,5,1,Layup Shot,LAYUPS,,2002
+Keyon Dooling,2039,Running Jump Shot,2,6,4,Running Jump Shot,JUMP_SHOTS,,2002
+Keyon Dooling,2039,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2003
+Keyon Dooling,2039,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2003
+Keyon Dooling,2039,Finger Roll,2,2,1,Driving Finger Roll Shot,LAYUPS,,2003
+Keyon Dooling,2039,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2003
+Keyon Dooling,2039,Driving Layup,2,25,16,Driving Layup Shot,LAYUPS,,2003
+Keyon Dooling,2039,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2003
+Keyon Dooling,2039,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2003
+Keyon Dooling,2039,Jump Shot,2,247,88,Jump Shot,JUMP_SHOTS,,2003
+Keyon Dooling,2039,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,2003
+Keyon Dooling,2039,Standard Layup,2,21,4,Layup Shot,LAYUPS,,2003
+Keyon Dooling,2039,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2003
+Keyon Dooling,2039,Running Jump Shot,2,18,8,Running Jump Shot,JUMP_SHOTS,,2003
+Keyon Dooling,2039,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2003
+Keyon Dooling,2039,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2003
+Keyon Dooling,2039,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2003
+Keyon Dooling,2039,Turnaround Jump Shot,2,3,2,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Keyon Dooling,2039,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2004
+Keyon Dooling,2039,Driving Dunk,2,7,7,Driving Dunk Shot,DUNKS,,2004
+Keyon Dooling,2039,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2004
+Keyon Dooling,2039,Driving Layup,2,21,17,Driving Layup Shot,LAYUPS,,2004
+Keyon Dooling,2039,Standard Dunk,2,3,2,Dunk Shot,DUNKS,,2004
+Keyon Dooling,2039,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Keyon Dooling,2039,Jump Shot,2,7,5,Jump Bank Shot,JUMP_SHOTS,,2004
+Keyon Dooling,2039,Jump Shot,2,237,72,Jump Shot,JUMP_SHOTS,,2004
+Keyon Dooling,2039,Jump Shot,3,5,0,Jump Shot,JUMP_SHOTS,,2004
+Keyon Dooling,2039,Standard Layup,2,39,14,Layup Shot,LAYUPS,,2004
+Keyon Dooling,2039,Reverse Dunk,2,2,2,Reverse Dunk Shot,DUNKS,,2004
+Keyon Dooling,2039,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2004
+Keyon Dooling,2039,Running Jump Shot,2,18,11,Running Jump Shot,JUMP_SHOTS,,2004
+Keyon Dooling,2039,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2004
+Keyon Dooling,2039,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2004
+Keyon Dooling,2039,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,,2004
+Keyon Dooling,2039,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Keyon Dooling,2039,Alley Oop Dunk,2,1,0,Alley Oop Dunk Shot,DUNKS,,2005
+Keyon Dooling,2039,Driving Dunk,2,7,7,Driving Dunk Shot,DUNKS,,2005
+Keyon Dooling,2039,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2005
+Keyon Dooling,2039,Driving Layup,2,32,20,Driving Layup Shot,LAYUPS,,2005
+Keyon Dooling,2039,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2005
+Keyon Dooling,2039,Finger Roll,2,3,2,Finger Roll Shot,LAYUPS,,2005
+Keyon Dooling,2039,Jump Shot,2,8,5,Jump Bank Shot,JUMP_SHOTS,,2005
+Keyon Dooling,2039,Jump Shot,2,239,88,Jump Shot,JUMP_SHOTS,,2005
+Keyon Dooling,2039,Jump Shot,3,21,4,Jump Shot,JUMP_SHOTS,,2005
+Keyon Dooling,2039,Standard Layup,2,15,5,Layup Shot,LAYUPS,,2005
+Keyon Dooling,2039,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2005
+Keyon Dooling,2039,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2005
+Keyon Dooling,2039,Running Jump Shot,2,6,1,Running Jump Shot,JUMP_SHOTS,,2005
+Keyon Dooling,2039,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2005
+Keyon Dooling,2039,Standard Dunk,2,1,0,Slam Dunk Shot,DUNKS,,2005
+Keyon Dooling,2039,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2005
+Keyon Dooling,2039,Turnaround Jump Shot,2,2,2,Turnaround Jump Shot,JUMP_SHOTS,,2005
+Keyon Dooling,2039,Driving Dunk,2,3,1,Driving Dunk Shot,DUNKS,,2006
+Keyon Dooling,2039,Finger Roll,2,3,3,Driving Finger Roll Shot,LAYUPS,,2006
+Keyon Dooling,2039,Driving Layup,2,52,38,Driving Layup Shot,LAYUPS,,2006
+Keyon Dooling,2039,Standard Dunk,2,7,6,Dunk Shot,DUNKS,,2006
+Keyon Dooling,2039,Fadeaway Jump Shot,2,3,3,Fadeaway Jump Shot,JUMP_SHOTS,,2006
+Keyon Dooling,2039,Finger Roll,2,1,0,Finger Roll Shot,LAYUPS,,2006
+Keyon Dooling,2039,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2006
+Keyon Dooling,2039,Jump Shot,2,6,4,Jump Bank Shot,JUMP_SHOTS,,2006
+Keyon Dooling,2039,Jump Shot,2,237,79,Jump Shot,JUMP_SHOTS,,2006
+Keyon Dooling,2039,Jump Shot,3,14,7,Jump Shot,JUMP_SHOTS,,2006
+Keyon Dooling,2039,Standard Layup,2,55,19,Layup Shot,LAYUPS,,2006
+Keyon Dooling,2039,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2006
+Keyon Dooling,2039,Running Jump Shot,2,15,10,Running Jump Shot,JUMP_SHOTS,,2006
+Keyon Dooling,2039,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2006
+Keyon Dooling,2039,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2006
+Keyon Dooling,2039,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2007
+Keyon Dooling,2039,Driving Dunk,2,4,3,Driving Dunk Shot,DUNKS,,2007
+Keyon Dooling,2039,Driving Layup,2,32,22,Driving Layup Shot,LAYUPS,,2007
+Keyon Dooling,2039,Standard Dunk,2,5,3,Dunk Shot,DUNKS,,2007
+Keyon Dooling,2039,Fadeaway Jump Shot,2,4,2,Fadeaway Jump Shot,JUMP_SHOTS,,2007
+Keyon Dooling,2039,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2007
+Keyon Dooling,2039,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2007
+Keyon Dooling,2039,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2007
+Keyon Dooling,2039,Jump Shot,2,248,85,Jump Shot,JUMP_SHOTS,,2007
+Keyon Dooling,2039,Jump Shot,3,58,21,Jump Shot,JUMP_SHOTS,,2007
+Keyon Dooling,2039,Standard Layup,2,67,32,Layup Shot,LAYUPS,,2007
+Keyon Dooling,2039,Reverse Dunk,2,3,2,Reverse Dunk Shot,DUNKS,,2007
+Keyon Dooling,2039,Reverse Layup,2,7,3,Reverse Layup Shot,LAYUPS,,2007
+Keyon Dooling,2039,Running Jump Shot,2,19,8,Running Jump Shot,JUMP_SHOTS,,2007
+Keyon Dooling,2039,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2007
+Keyon Dooling,2039,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2007
+Keyon Dooling,2039,Turnaround Jump Shot,2,2,2,Turnaround Jump Shot,JUMP_SHOTS,,2007
+Keyon Dooling,2039,Alley Oop Dunk,2,1,0,Alley Oop Dunk Shot,DUNKS,,2008
+Keyon Dooling,2039,Driving Dunk,2,5,5,Driving Dunk Shot,DUNKS,,2008
+Keyon Dooling,2039,Driving Layup,2,50,40,Driving Layup Shot,LAYUPS,,2008
+Keyon Dooling,2039,Driving Layup,2,3,1,Driving Reverse Layup Shot,LAYUPS,,2008
+Keyon Dooling,2039,Driving Dunk,2,2,2,Driving Slam Dunk Shot,DUNKS,,2008
+Keyon Dooling,2039,Standard Dunk,2,5,3,Dunk Shot,DUNKS,,2008
+Keyon Dooling,2039,Fadeaway Jump Shot,2,11,9,Fadeaway Jump Shot,JUMP_SHOTS,,2008
+Keyon Dooling,2039,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2008
+Keyon Dooling,2039,Jump Shot,2,7,4,Jump Bank Shot,JUMP_SHOTS,,2008
+Keyon Dooling,2039,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2008
+Keyon Dooling,2039,Jump Shot,2,240,86,Jump Shot,JUMP_SHOTS,,2008
+Keyon Dooling,2039,Jump Shot,3,9,5,Jump Shot,JUMP_SHOTS,,2008
+Keyon Dooling,2039,Standard Layup,2,44,13,Layup Shot,LAYUPS,,2008
+Keyon Dooling,2039,Pullup Jump Shot,2,1,0,Pullup Bank shot,JUMP_SHOTS,,2008
+Keyon Dooling,2039,Pullup Jump Shot,2,6,5,Pullup Jump shot,JUMP_SHOTS,,2008
+Keyon Dooling,2039,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2008
+Keyon Dooling,2039,Running Jump Shot,2,4,3,Running Bank shot,JUMP_SHOTS,,2008
+Keyon Dooling,2039,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2008
+Keyon Dooling,2039,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2008
+Keyon Dooling,2039,Running Jump Shot,2,18,12,Running Jump Shot,JUMP_SHOTS,,2008
+Keyon Dooling,2039,Standard Layup,2,4,2,Running Layup Shot,LAYUPS,,2008
+Keyon Dooling,2039,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2008
+Keyon Dooling,2039,Tip Shot,2,2,0,Tip Shot,TIP_SHOTS,,2008
+Keyon Dooling,2039,Turnaround Jump Shot,2,2,2,Turnaround Jump Shot,JUMP_SHOTS,,2008
+Keyon Dooling,2039,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2009
+Keyon Dooling,2039,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2009
+Keyon Dooling,2039,Driving Dunk,2,11,10,Driving Dunk Shot,DUNKS,,2009
+Keyon Dooling,2039,Finger Roll,2,4,2,Driving Finger Roll Layup Shot,LAYUPS,,2009
+Keyon Dooling,2039,Driving Layup,2,58,36,Driving Layup Shot,LAYUPS,,2009
+Keyon Dooling,2039,Driving Layup,2,3,1,Driving Reverse Layup Shot,LAYUPS,,2009
+Keyon Dooling,2039,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2009
+Keyon Dooling,2039,Standard Dunk,2,6,6,Dunk Shot,DUNKS,,2009
+Keyon Dooling,2039,Fadeaway Jump Shot,2,12,7,Fadeaway Jump Shot,JUMP_SHOTS,,2009
+Keyon Dooling,2039,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2009
+Keyon Dooling,2039,Floating Jump Shot,2,4,2,Floating Jump shot,FLOATING_SHOTS,,2009
+Keyon Dooling,2039,Jump Shot,2,7,6,Jump Bank Shot,JUMP_SHOTS,,2009
+Keyon Dooling,2039,Jump Shot,2,399,143,Jump Shot,JUMP_SHOTS,,2009
+Keyon Dooling,2039,Standard Layup,2,51,24,Layup Shot,LAYUPS,,2009
+Keyon Dooling,2039,Pullup Jump Shot,2,12,9,Pullup Jump shot,JUMP_SHOTS,,2009
+Keyon Dooling,2039,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2009
+Keyon Dooling,2039,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2009
+Keyon Dooling,2039,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2009
+Keyon Dooling,2039,Running Jump Shot,2,14,4,Running Jump Shot,JUMP_SHOTS,,2009
+Keyon Dooling,2039,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2009
+Keyon Dooling,2039,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2009
+Keyon Dooling,2039,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2009
+Keyon Dooling,2039,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2009
+Keyon Dooling,2039,Turnaround Jump Shot,2,5,2,Turnaround Jump Shot,JUMP_SHOTS,,2009
+Keyon Dooling,2039,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2010
+Keyon Dooling,2039,Driving Layup,2,22,12,Driving Layup Shot,LAYUPS,,2010
+Keyon Dooling,2039,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2010
+Keyon Dooling,2039,Driving Dunk,2,2,2,Driving Slam Dunk Shot,DUNKS,,2010
+Keyon Dooling,2039,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2010
+Keyon Dooling,2039,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+Keyon Dooling,2039,Jump Shot,2,3,0,Jump Bank Shot,JUMP_SHOTS,,2010
+Keyon Dooling,2039,Jump Shot,2,249,92,Jump Shot,JUMP_SHOTS,,2010
+Keyon Dooling,2039,Standard Layup,2,16,10,Layup Shot,LAYUPS,,2010
+Keyon Dooling,2039,Pullup Jump Shot,2,4,3,Pullup Jump shot,JUMP_SHOTS,,2010
+Keyon Dooling,2039,Reverse Layup,2,2,0,Reverse Layup Shot,LAYUPS,,2010
+Keyon Dooling,2039,Running Jump Shot,2,1,0,Running Bank shot,JUMP_SHOTS,,2010
+Keyon Dooling,2039,Running Jump Shot,2,15,4,Running Jump Shot,JUMP_SHOTS,,2010
+Keyon Dooling,2039,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2010
+Keyon Dooling,2039,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2010
+Keyon Dooling,2039,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2010
+Keyon Dooling,2039,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2010
+Keyon Dooling,2039,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2011
+Keyon Dooling,2039,Driving Dunk,2,3,2,Driving Dunk Shot,DUNKS,,2011
+Keyon Dooling,2039,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2011
+Keyon Dooling,2039,Driving Jump Shot,2,1,1,Driving Jump shot,JUMP_SHOTS,,2011
+Keyon Dooling,2039,Driving Layup,2,17,14,Driving Layup Shot,LAYUPS,,2011
+Keyon Dooling,2039,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2011
+Keyon Dooling,2039,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2011
+Keyon Dooling,2039,Fadeaway Jump Shot,2,4,3,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Keyon Dooling,2039,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2011
+Keyon Dooling,2039,Jump Shot,2,3,1,Jump Bank Shot,JUMP_SHOTS,,2011
+Keyon Dooling,2039,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2011
+Keyon Dooling,2039,Jump Shot,2,406,135,Jump Shot,JUMP_SHOTS,,2011
+Keyon Dooling,2039,Standard Layup,2,41,21,Layup Shot,LAYUPS,,2011
+Keyon Dooling,2039,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2011
+Keyon Dooling,2039,Pullup Jump Shot,2,17,11,Pullup Jump shot,JUMP_SHOTS,,2011
+Keyon Dooling,2039,Running Jump Shot,2,2,1,Running Bank shot,JUMP_SHOTS,,2011
+Keyon Dooling,2039,Running Jump Shot,2,8,6,Running Jump Shot,JUMP_SHOTS,,2011
+Keyon Dooling,2039,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2011
+Keyon Dooling,2039,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2011
+Keyon Dooling,2039,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2011
+Keyon Dooling,2039,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2011
+Keyon Dooling,2039,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2011
+Keyon Dooling,2039,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2012
+Keyon Dooling,2039,Driving Layup,2,10,8,Driving Layup Shot,LAYUPS,,2012
+Keyon Dooling,2039,Fadeaway Jump Shot,2,3,2,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Keyon Dooling,2039,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2012
+Keyon Dooling,2039,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2012
+Keyon Dooling,2039,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2012
+Keyon Dooling,2039,Jump Shot,2,119,44,Jump Shot,JUMP_SHOTS,,2012
+Keyon Dooling,2039,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,2012
+Keyon Dooling,2039,Standard Layup,2,12,5,Layup Shot,LAYUPS,,2012
+Keyon Dooling,2039,Pullup Jump Shot,2,4,2,Pullup Jump shot,JUMP_SHOTS,,2012
+Keyon Dooling,2039,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2012
+Keyon Dooling,2039,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2012
+Keyon Dooling,2039,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2012
+Keyon Dooling,2039,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2012
+Keyon Dooling,2039,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2012
+Keyon Dooling,2039,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Keyon Dooling,2039,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2013
+Keyon Dooling,2039,Jump Shot,2,16,7,Jump Shot,JUMP_SHOTS,,2013
+Keyon Dooling,2039,Standard Layup,2,2,2,Layup Shot,LAYUPS,,2013
+Keyon Dooling,2039,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2013
+Keyon Dooling,2039,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2013

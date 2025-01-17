@@ -1,9 +1,18 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-101261,Driving Layup,2PT Field Goal,2,2,Driving Layup Shot,LAYUPS,1.0,2006
-101261,Jump Shot,2PT Field Goal,12,3,Jump Shot,JUMP_SHOTS,0.25,2006
-101261,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,2006
-101261,Standard Layup,2PT Field Goal,3,3,Layup Shot,LAYUPS,1.0,2006
-101261,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2008
-101261,Jump Shot,2PT Field Goal,11,1,Jump Shot,JUMP_SHOTS,0.0909090909090909,2008
-101261,Jump Shot,3PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.5,2008
-101261,Standard Layup,2PT Field Goal,3,1,Layup Shot,LAYUPS,0.3333333333333333,2008
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Andre Owens,101261,Driving Layup,2,7,3,Driving Layup Shot,LAYUPS,,2006
+Andre Owens,101261,Jump Shot,2,45,18,Jump Shot,JUMP_SHOTS,,2006
+Andre Owens,101261,Jump Shot,3,5,1,Jump Shot,JUMP_SHOTS,,2006
+Andre Owens,101261,Standard Layup,2,15,5,Layup Shot,LAYUPS,,2006
+Andre Owens,101261,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2006
+Andre Owens,101261,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2006
+Andre Owens,101261,Driving Layup,2,9,7,Driving Layup Shot,LAYUPS,,2008
+Andre Owens,101261,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2008
+Andre Owens,101261,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2008
+Andre Owens,101261,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2008
+Andre Owens,101261,Jump Shot,2,67,21,Jump Shot,JUMP_SHOTS,,2008
+Andre Owens,101261,Jump Shot,3,5,2,Jump Shot,JUMP_SHOTS,,2008
+Andre Owens,101261,Standard Layup,2,17,3,Layup Shot,LAYUPS,,2008
+Andre Owens,101261,Pullup Jump Shot,2,2,1,Pullup Jump shot,JUMP_SHOTS,,2008
+Andre Owens,101261,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2008
+Andre Owens,101261,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2008
+Andre Owens,101261,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2008

@@ -1,35 +1,263 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-201585,Hook Shot,2PT Field Goal,2,0,Hook Shot,POST_MOVES,0.0,2011
-201585,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2011
-201585,Hook Shot,2PT Field Goal,1,1,Jump Hook Shot,POST_MOVES,1.0,2013
-201585,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2013
-201585,Alley Oop Layup,2PT Field Goal,1,1,Alley Oop Layup shot,LAYUPS,1.0,2014
-201585,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2014
-201585,Hook Shot,2PT Field Goal,14,6,Hook Shot,POST_MOVES,0.4285714285714285,2014
-201585,Hook Shot,2PT Field Goal,1,1,Jump Hook Shot,POST_MOVES,1.0,2014
-201585,Jump Shot,2PT Field Goal,12,3,Jump Shot,JUMP_SHOTS,0.25,2014
-201585,Standard Layup,2PT Field Goal,11,6,Layup Shot,LAYUPS,0.5454545454545454,2014
-201585,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2014
-201585,Reverse Layup,2PT Field Goal,2,2,Reverse Layup Shot,LAYUPS,1.0,2014
-201585,Running Hook Shot,2PT Field Goal,1,1,Running Hook Shot,POST_MOVES,1.0,2014
-201585,Tip Shot,2PT Field Goal,3,3,Tip Shot,TIP_SHOTS,1.0,2014
-201585,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2014
-201585,Alley Oop Layup,2PT Field Goal,1,1,Alley Oop Layup shot,LAYUPS,1.0,2015
-201585,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2015
-201585,Floating Jump Shot,2PT Field Goal,2,1,Floating Jump shot,FLOATING_SHOTS,0.5,2015
-201585,Hook Shot,2PT Field Goal,3,2,Hook Shot,POST_MOVES,0.6666666666666666,2015
-201585,Hook Shot,2PT Field Goal,3,1,Jump Hook Shot,POST_MOVES,0.3333333333333333,2015
-201585,Jump Shot,2PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.3333333333333333,2015
-201585,Standard Layup,2PT Field Goal,8,4,Layup Shot,LAYUPS,0.5,2015
-201585,Tip Shot,2PT Field Goal,3,2,Tip Shot,TIP_SHOTS,0.6666666666666666,2015
-201585,Driving Hook Shot,2PT Field Goal,1,1,Driving Hook Shot,POST_MOVES,1.0,2016
-201585,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2016
-201585,Hook Shot,2PT Field Goal,3,2,Hook Shot,POST_MOVES,0.6666666666666666,2016
-201585,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2016
-201585,Putback Layup,2PT Field Goal,1,1,Tip Layup Shot,LAYUPS,1.0,2016
-201585,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2016
-201585,Hook Shot,2PT Field Goal,2,2,Hook Shot,POST_MOVES,1.0,2017
-201585,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2017
-201585,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2017
-201585,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2017
-201585,Reverse Layup,2PT Field Goal,2,1,Reverse Layup Shot,LAYUPS,0.5,2017
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Kosta Koufos,201585,Alley Oop Dunk,2,3,3,Alley Oop Dunk Shot,DUNKS,,2009
+Kosta Koufos,201585,Alley Oop Layup,2,3,2,Alley Oop Layup shot,LAYUPS,,2009
+Kosta Koufos,201585,Driving Jump Shot,2,1,1,Driving Jump shot,JUMP_SHOTS,,2009
+Kosta Koufos,201585,Driving Layup,2,4,4,Driving Layup Shot,LAYUPS,,2009
+Kosta Koufos,201585,Standard Dunk,2,6,4,Dunk Shot,DUNKS,,2009
+Kosta Koufos,201585,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2009
+Kosta Koufos,201585,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2009
+Kosta Koufos,201585,Hook Shot,2,7,4,Hook Shot,POST_MOVES,,2009
+Kosta Koufos,201585,Jump Shot,2,6,4,Jump Bank Shot,JUMP_SHOTS,,2009
+Kosta Koufos,201585,Hook Shot,2,9,4,Jump Hook Shot,POST_MOVES,,2009
+Kosta Koufos,201585,Jump Shot,2,53,13,Jump Shot,JUMP_SHOTS,,2009
+Kosta Koufos,201585,Standard Layup,2,53,29,Layup Shot,LAYUPS,,2009
+Kosta Koufos,201585,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2009
+Kosta Koufos,201585,Putback Layup,2,5,4,Putback Layup Shot,LAYUPS,,2009
+Kosta Koufos,201585,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2009
+Kosta Koufos,201585,Running Hook Shot,2,4,2,Running Hook Shot,POST_MOVES,,2009
+Kosta Koufos,201585,Running Jump Shot,2,3,1,Running Jump Shot,JUMP_SHOTS,,2009
+Kosta Koufos,201585,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2009
+Kosta Koufos,201585,Standard Dunk,2,7,7,Slam Dunk Shot,DUNKS,,2009
+Kosta Koufos,201585,Tip Shot,2,13,6,Tip Shot,TIP_SHOTS,,2009
+Kosta Koufos,201585,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2009
+Kosta Koufos,201585,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2009
+Kosta Koufos,201585,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2010
+Kosta Koufos,201585,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2010
+Kosta Koufos,201585,Driving Layup,2,2,1,Driving Layup Shot,LAYUPS,,2010
+Kosta Koufos,201585,Standard Dunk,2,7,4,Dunk Shot,DUNKS,,2010
+Kosta Koufos,201585,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2010
+Kosta Koufos,201585,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2010
+Kosta Koufos,201585,Hook Shot,2,2,0,Jump Hook Shot,POST_MOVES,,2010
+Kosta Koufos,201585,Jump Shot,2,10,2,Jump Shot,JUMP_SHOTS,,2010
+Kosta Koufos,201585,Standard Layup,2,16,9,Layup Shot,LAYUPS,,2010
+Kosta Koufos,201585,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2010
+Kosta Koufos,201585,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2010
+Kosta Koufos,201585,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2010
+Kosta Koufos,201585,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2010
+Kosta Koufos,201585,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2010
+Kosta Koufos,201585,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2011
+Kosta Koufos,201585,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2011
+Kosta Koufos,201585,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2011
+Kosta Koufos,201585,Standard Dunk,2,8,6,Dunk Shot,DUNKS,,2011
+Kosta Koufos,201585,Hook Shot,2,19,6,Hook Shot,POST_MOVES,,2011
+Kosta Koufos,201585,Hook Shot,2,1,1,Jump Bank Hook Shot,POST_MOVES,,2011
+Kosta Koufos,201585,Jump Shot,2,4,3,Jump Bank Shot,JUMP_SHOTS,,2011
+Kosta Koufos,201585,Hook Shot,2,16,5,Jump Hook Shot,POST_MOVES,,2011
+Kosta Koufos,201585,Jump Shot,2,44,10,Jump Shot,JUMP_SHOTS,,2011
+Kosta Koufos,201585,Standard Layup,2,27,16,Layup Shot,LAYUPS,,2011
+Kosta Koufos,201585,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2011
+Kosta Koufos,201585,Putback Layup,2,3,3,Putback Layup Shot,LAYUPS,,2011
+Kosta Koufos,201585,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2011
+Kosta Koufos,201585,Running Hook Shot,2,3,2,Running Hook Shot,POST_MOVES,,2011
+Kosta Koufos,201585,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2011
+Kosta Koufos,201585,Tip Shot,2,11,6,Tip Shot,TIP_SHOTS,,2011
+Kosta Koufos,201585,Turnaround Hook Shot,2,2,0,Turnaround Hook Shot,POST_MOVES,,2011
+Kosta Koufos,201585,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2011
+Kosta Koufos,201585,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2012
+Kosta Koufos,201585,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2012
+Kosta Koufos,201585,Standard Dunk,2,17,15,Dunk Shot,DUNKS,,2012
+Kosta Koufos,201585,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2012
+Kosta Koufos,201585,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2012
+Kosta Koufos,201585,Hook Shot,2,4,2,Hook Shot,POST_MOVES,,2012
+Kosta Koufos,201585,Hook Shot,2,2,1,Jump Bank Hook Shot,POST_MOVES,,2012
+Kosta Koufos,201585,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2012
+Kosta Koufos,201585,Hook Shot,2,25,13,Jump Hook Shot,POST_MOVES,,2012
+Kosta Koufos,201585,Jump Shot,2,15,3,Jump Shot,JUMP_SHOTS,,2012
+Kosta Koufos,201585,Standard Layup,2,69,40,Layup Shot,LAYUPS,,2012
+Kosta Koufos,201585,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2012
+Kosta Koufos,201585,Putback Layup,2,13,12,Putback Layup Shot,LAYUPS,,2012
+Kosta Koufos,201585,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2012
+Kosta Koufos,201585,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2012
+Kosta Koufos,201585,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,2012
+Kosta Koufos,201585,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,2012
+Kosta Koufos,201585,Tip Shot,2,25,13,Tip Shot,TIP_SHOTS,,2012
+Kosta Koufos,201585,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2012
+Kosta Koufos,201585,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Kosta Koufos,201585,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2013
+Kosta Koufos,201585,Alley Oop Layup,2,4,2,Alley Oop Layup shot,LAYUPS,,2013
+Kosta Koufos,201585,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2013
+Kosta Koufos,201585,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2013
+Kosta Koufos,201585,Driving Layup,2,3,3,Driving Layup Shot,LAYUPS,,2013
+Kosta Koufos,201585,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2013
+Kosta Koufos,201585,Standard Dunk,2,30,28,Dunk Shot,DUNKS,,2013
+Kosta Koufos,201585,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Kosta Koufos,201585,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2013
+Kosta Koufos,201585,Floating Jump Shot,2,10,6,Floating Jump shot,FLOATING_SHOTS,,2013
+Kosta Koufos,201585,Hook Shot,2,2,1,Hook Bank Shot,POST_MOVES,,2013
+Kosta Koufos,201585,Hook Shot,2,43,21,Hook Shot,POST_MOVES,,2013
+Kosta Koufos,201585,Hook Shot,2,3,1,Jump Bank Hook Shot,POST_MOVES,,2013
+Kosta Koufos,201585,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2013
+Kosta Koufos,201585,Hook Shot,2,50,29,Jump Hook Shot,POST_MOVES,,2013
+Kosta Koufos,201585,Jump Shot,2,67,16,Jump Shot,JUMP_SHOTS,,2013
+Kosta Koufos,201585,Standard Layup,2,172,107,Layup Shot,LAYUPS,,2013
+Kosta Koufos,201585,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2013
+Kosta Koufos,201585,Putback Layup,2,21,19,Putback Layup Shot,LAYUPS,,2013
+Kosta Koufos,201585,Reverse Layup,2,27,18,Reverse Layup Shot,LAYUPS,,2013
+Kosta Koufos,201585,Running Hook Shot,2,10,6,Running Hook Shot,POST_MOVES,,2013
+Kosta Koufos,201585,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2013
+Kosta Koufos,201585,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2013
+Kosta Koufos,201585,Tip Shot,2,46,23,Tip Shot,TIP_SHOTS,,2013
+Kosta Koufos,201585,Turnaround Hook Shot,2,2,2,Turnaround Bank Hook Shot,POST_MOVES,,2013
+Kosta Koufos,201585,Turnaround Hook Shot,2,3,0,Turnaround Hook Shot,POST_MOVES,,2013
+Kosta Koufos,201585,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Kosta Koufos,201585,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2014
+Kosta Koufos,201585,Alley Oop Layup,2,8,5,Alley Oop Layup shot,LAYUPS,,2014
+Kosta Koufos,201585,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2014
+Kosta Koufos,201585,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2014
+Kosta Koufos,201585,Driving Layup,2,2,1,Driving Layup Shot,LAYUPS,,2014
+Kosta Koufos,201585,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2014
+Kosta Koufos,201585,Driving Dunk,2,2,2,Driving Slam Dunk Shot,DUNKS,,2014
+Kosta Koufos,201585,Standard Dunk,2,20,16,Dunk Shot,DUNKS,,2014
+Kosta Koufos,201585,Finger Roll,2,6,5,Finger Roll Layup Shot,LAYUPS,,2014
+Kosta Koufos,201585,Floating Jump Shot,2,6,4,Floating Jump shot,FLOATING_SHOTS,,2014
+Kosta Koufos,201585,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2014
+Kosta Koufos,201585,Hook Shot,2,100,48,Hook Shot,POST_MOVES,,2014
+Kosta Koufos,201585,Jump Shot,2,4,2,Jump Bank Shot,JUMP_SHOTS,,2014
+Kosta Koufos,201585,Hook Shot,2,13,10,Jump Hook Shot,POST_MOVES,,2014
+Kosta Koufos,201585,Jump Shot,2,92,29,Jump Shot,JUMP_SHOTS,,2014
+Kosta Koufos,201585,Standard Layup,2,96,45,Layup Shot,LAYUPS,,2014
+Kosta Koufos,201585,Pullup Jump Shot,2,1,0,Pullup Bank shot,JUMP_SHOTS,,2014
+Kosta Koufos,201585,Pullup Jump Shot,2,2,1,Pullup Jump shot,JUMP_SHOTS,,2014
+Kosta Koufos,201585,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2014
+Kosta Koufos,201585,Putback Layup,2,14,10,Putback Layup Shot,LAYUPS,,2014
+Kosta Koufos,201585,Putback Dunk,2,1,1,Putback Slam Dunk Shot,DUNKS,,2014
+Kosta Koufos,201585,Reverse Layup,2,13,8,Reverse Layup Shot,LAYUPS,,2014
+Kosta Koufos,201585,Running Hook Shot,2,8,5,Running Hook Shot,POST_MOVES,,2014
+Kosta Koufos,201585,Running Jump Shot,2,3,1,Running Jump Shot,JUMP_SHOTS,,2014
+Kosta Koufos,201585,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2014
+Kosta Koufos,201585,Standard Dunk,2,11,11,Slam Dunk Shot,DUNKS,,2014
+Kosta Koufos,201585,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2014
+Kosta Koufos,201585,Tip Shot,2,31,12,Tip Shot,TIP_SHOTS,,2014
+Kosta Koufos,201585,Turnaround Jump Shot,2,2,1,Turnaround Bank shot,JUMP_SHOTS,,2014
+Kosta Koufos,201585,Turnaround Hook Shot,2,9,3,Turnaround Hook Shot,POST_MOVES,,2014
+Kosta Koufos,201585,Turnaround Jump Shot,2,5,1,Turnaround Jump Shot,JUMP_SHOTS,,2014
+Kosta Koufos,201585,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2015
+Kosta Koufos,201585,Alley Oop Layup,2,6,4,Alley Oop Layup shot,LAYUPS,,2015
+Kosta Koufos,201585,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2015
+Kosta Koufos,201585,Driving Dunk,2,1,0,Driving Slam Dunk Shot,DUNKS,,2015
+Kosta Koufos,201585,Standard Dunk,2,11,9,Dunk Shot,DUNKS,,2015
+Kosta Koufos,201585,Finger Roll,2,7,7,Finger Roll Layup Shot,LAYUPS,,2015
+Kosta Koufos,201585,Floating Jump Shot,2,7,5,Floating Jump shot,FLOATING_SHOTS,,2015
+Kosta Koufos,201585,Hook Shot,2,3,3,Hook Bank Shot,POST_MOVES,,2015
+Kosta Koufos,201585,Hook Shot,2,74,29,Hook Shot,POST_MOVES,,2015
+Kosta Koufos,201585,Jump Shot,2,4,2,Jump Bank Shot,JUMP_SHOTS,,2015
+Kosta Koufos,201585,Hook Shot,2,19,6,Jump Hook Shot,POST_MOVES,,2015
+Kosta Koufos,201585,Jump Shot,2,78,31,Jump Shot,JUMP_SHOTS,,2015
+Kosta Koufos,201585,Standard Layup,2,75,46,Layup Shot,LAYUPS,,2015
+Kosta Koufos,201585,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2015
+Kosta Koufos,201585,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2015
+Kosta Koufos,201585,Reverse Layup,2,7,3,Reverse Layup Shot,LAYUPS,,2015
+Kosta Koufos,201585,Running Hook Shot,2,8,5,Running Hook Shot,POST_MOVES,,2015
+Kosta Koufos,201585,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2015
+Kosta Koufos,201585,Standard Layup,2,3,3,Running Layup Shot,LAYUPS,,2015
+Kosta Koufos,201585,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,2015
+Kosta Koufos,201585,Tip Shot,2,37,14,Tip Shot,TIP_SHOTS,,2015
+Kosta Koufos,201585,Turnaround Hook Shot,2,5,2,Turnaround Hook Shot,POST_MOVES,,2015
+Kosta Koufos,201585,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2016
+Kosta Koufos,201585,Alley Oop Layup,2,4,3,Alley Oop Layup shot,LAYUPS,,2016
+Kosta Koufos,201585,Specialty Dunk,2,9,9,Cutting Dunk Shot,DUNKS,,2016
+Kosta Koufos,201585,Finger Roll,2,2,2,Cutting Finger Roll Layup Shot,LAYUPS,,2016
+Kosta Koufos,201585,Standard Layup,2,12,10,Cutting Layup Shot,LAYUPS,,2016
+Kosta Koufos,201585,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2016
+Kosta Koufos,201585,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Kosta Koufos,201585,Driving Hook Shot,2,12,7,Driving Hook Shot,POST_MOVES,,2016
+Kosta Koufos,201585,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2016
+Kosta Koufos,201585,Driving Layup,2,3,1,Driving Reverse Layup Shot,LAYUPS,,2016
+Kosta Koufos,201585,Standard Dunk,2,14,13,Dunk Shot,DUNKS,,2016
+Kosta Koufos,201585,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2016
+Kosta Koufos,201585,Floating Jump Shot,2,28,18,Floating Jump shot,FLOATING_SHOTS,,2016
+Kosta Koufos,201585,Hook Shot,2,3,2,Hook Bank Shot,POST_MOVES,,2016
+Kosta Koufos,201585,Hook Shot,2,114,59,Hook Shot,POST_MOVES,,2016
+Kosta Koufos,201585,Jump Shot,2,5,3,Jump Bank Shot,JUMP_SHOTS,,2016
+Kosta Koufos,201585,Jump Shot,2,90,17,Jump Shot,JUMP_SHOTS,,2016
+Kosta Koufos,201585,Standard Layup,2,75,41,Layup Shot,LAYUPS,,2016
+Kosta Koufos,201585,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2016
+Kosta Koufos,201585,Putback Layup,2,11,10,Putback Layup Shot,LAYUPS,,2016
+Kosta Koufos,201585,Reverse Layup,2,6,6,Reverse Layup Shot,LAYUPS,,2016
+Kosta Koufos,201585,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2016
+Kosta Koufos,201585,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2016
+Kosta Koufos,201585,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2016
+Kosta Koufos,201585,Putback Layup,2,32,21,Tip Layup Shot,LAYUPS,,2016
+Kosta Koufos,201585,Turnaround Hook Shot,2,10,6,Turnaround Hook Shot,POST_MOVES,,2016
+Kosta Koufos,201585,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Kosta Koufos,201585,Alley Oop Dunk,2,4,4,Alley Oop Dunk Shot,DUNKS,,2017
+Kosta Koufos,201585,Alley Oop Layup,2,4,3,Alley Oop Layup shot,LAYUPS,,2017
+Kosta Koufos,201585,Specialty Dunk,2,17,17,Cutting Dunk Shot,DUNKS,,2017
+Kosta Koufos,201585,Finger Roll,2,2,1,Cutting Finger Roll Layup Shot,LAYUPS,,2017
+Kosta Koufos,201585,Standard Layup,2,13,12,Cutting Layup Shot,LAYUPS,,2017
+Kosta Koufos,201585,Driving Hook Shot,2,2,2,Driving Bank Hook Shot,POST_MOVES,,2017
+Kosta Koufos,201585,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Kosta Koufos,201585,Driving Hook Shot,2,2,2,Driving Hook Shot,POST_MOVES,,2017
+Kosta Koufos,201585,Driving Layup,2,4,2,Driving Layup Shot,LAYUPS,,2017
+Kosta Koufos,201585,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2017
+Kosta Koufos,201585,Standard Dunk,2,17,15,Dunk Shot,DUNKS,,2017
+Kosta Koufos,201585,Floating Jump Shot,2,19,11,Floating Jump shot,FLOATING_SHOTS,,2017
+Kosta Koufos,201585,Hook Shot,2,2,1,Hook Bank Shot,POST_MOVES,,2017
+Kosta Koufos,201585,Hook Shot,2,99,56,Hook Shot,POST_MOVES,,2017
+Kosta Koufos,201585,Jump Shot,2,3,3,Jump Bank Shot,JUMP_SHOTS,,2017
+Kosta Koufos,201585,Jump Shot,2,72,14,Jump Shot,JUMP_SHOTS,,2017
+Kosta Koufos,201585,Standard Layup,2,51,23,Layup Shot,LAYUPS,,2017
+Kosta Koufos,201585,Putback Layup,2,4,4,Putback Layup Shot,LAYUPS,,2017
+Kosta Koufos,201585,Reverse Layup,2,13,11,Reverse Layup Shot,LAYUPS,,2017
+Kosta Koufos,201585,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,2017
+Kosta Koufos,201585,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2017
+Kosta Koufos,201585,Putback Layup,2,43,24,Tip Layup Shot,LAYUPS,,2017
+Kosta Koufos,201585,Turnaround Hook Shot,2,2,1,Turnaround Bank Hook Shot,POST_MOVES,,2017
+Kosta Koufos,201585,Turnaround Hook Shot,2,12,6,Turnaround Hook Shot,POST_MOVES,,2017
+Kosta Koufos,201585,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Kosta Koufos,201585,Alley Oop Dunk,2,7,7,Alley Oop Dunk Shot,DUNKS,,2018
+Kosta Koufos,201585,Alley Oop Layup,2,12,10,Alley Oop Layup shot,LAYUPS,,2018
+Kosta Koufos,201585,Specialty Dunk,2,10,9,Cutting Dunk Shot,DUNKS,,2018
+Kosta Koufos,201585,Finger Roll,2,4,4,Cutting Finger Roll Layup Shot,LAYUPS,,2018
+Kosta Koufos,201585,Standard Layup,2,20,14,Cutting Layup Shot,LAYUPS,,2018
+Kosta Koufos,201585,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2018
+Kosta Koufos,201585,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2018
+Kosta Koufos,201585,Floating Jump Shot,2,4,4,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Kosta Koufos,201585,Floating Jump Shot,2,2,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Kosta Koufos,201585,Driving Hook Shot,2,9,3,Driving Hook Shot,POST_MOVES,,2018
+Kosta Koufos,201585,Driving Layup,2,3,0,Driving Layup Shot,LAYUPS,,2018
+Kosta Koufos,201585,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2018
+Kosta Koufos,201585,Standard Dunk,2,5,5,Dunk Shot,DUNKS,,2018
+Kosta Koufos,201585,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2018
+Kosta Koufos,201585,Floating Jump Shot,2,40,25,Floating Jump shot,FLOATING_SHOTS,,2018
+Kosta Koufos,201585,Hook Shot,2,8,3,Hook Bank Shot,POST_MOVES,,2018
+Kosta Koufos,201585,Hook Shot,2,127,60,Hook Shot,POST_MOVES,,2018
+Kosta Koufos,201585,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2018
+Kosta Koufos,201585,Jump Shot,2,12,3,Jump Shot,JUMP_SHOTS,,2018
+Kosta Koufos,201585,Standard Layup,2,44,25,Layup Shot,LAYUPS,,2018
+Kosta Koufos,201585,Pullup Jump Shot,2,2,1,Pullup Jump shot,JUMP_SHOTS,,2018
+Kosta Koufos,201585,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2018
+Kosta Koufos,201585,Putback Layup,2,10,9,Putback Layup Shot,LAYUPS,,2018
+Kosta Koufos,201585,Reverse Layup,2,6,4,Reverse Layup Shot,LAYUPS,,2018
+Kosta Koufos,201585,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2018
+Kosta Koufos,201585,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2018
+Kosta Koufos,201585,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2018
+Kosta Koufos,201585,Putback Layup,2,37,19,Tip Layup Shot,LAYUPS,,2018
+Kosta Koufos,201585,Turnaround Hook Shot,2,2,2,Turnaround Bank Hook Shot,POST_MOVES,,2018
+Kosta Koufos,201585,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2018
+Kosta Koufos,201585,Turnaround Hook Shot,2,11,7,Turnaround Hook Shot,POST_MOVES,,2018
+Kosta Koufos,201585,Turnaround Jump Shot,2,4,0,Turnaround Jump Shot,JUMP_SHOTS,,2018
+Kosta Koufos,201585,Alley Oop Dunk,2,1,0,Alley Oop Dunk Shot,DUNKS,,2019
+Kosta Koufos,201585,Alley Oop Layup,2,3,2,Alley Oop Layup shot,LAYUPS,,2019
+Kosta Koufos,201585,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2019
+Kosta Koufos,201585,Standard Layup,2,5,4,Cutting Layup Shot,LAYUPS,,2019
+Kosta Koufos,201585,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2019
+Kosta Koufos,201585,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Kosta Koufos,201585,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Kosta Koufos,201585,Driving Hook Shot,2,6,1,Driving Hook Shot,POST_MOVES,,2019
+Kosta Koufos,201585,Driving Layup,2,2,0,Driving Layup Shot,LAYUPS,,2019
+Kosta Koufos,201585,Standard Dunk,2,5,4,Dunk Shot,DUNKS,,2019
+Kosta Koufos,201585,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+Kosta Koufos,201585,Floating Jump Shot,2,17,9,Floating Jump shot,FLOATING_SHOTS,,2019
+Kosta Koufos,201585,Hook Shot,2,57,21,Hook Shot,POST_MOVES,,2019
+Kosta Koufos,201585,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2019
+Kosta Koufos,201585,Jump Shot,2,8,3,Jump Shot,JUMP_SHOTS,,2019
+Kosta Koufos,201585,Standard Layup,2,11,4,Layup Shot,LAYUPS,,2019
+Kosta Koufos,201585,Putback Layup,2,4,4,Putback Layup Shot,LAYUPS,,2019
+Kosta Koufos,201585,Reverse Layup,2,6,5,Reverse Layup Shot,LAYUPS,,2019
+Kosta Koufos,201585,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2019
+Kosta Koufos,201585,Finger Roll,2,1,0,Running Finger Roll Layup Shot,LAYUPS,,2019
+Kosta Koufos,201585,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2019
+Kosta Koufos,201585,Putback Layup,2,11,6,Tip Layup Shot,LAYUPS,,2019
+Kosta Koufos,201585,Turnaround Hook Shot,2,6,4,Turnaround Hook Shot,POST_MOVES,,2019
+Kosta Koufos,201585,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2019

@@ -1,47 +1,146 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-2032,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2002
-2032,Driving Layup,2PT Field Goal,2,2,Driving Layup Shot,LAYUPS,1.0,2004
-2032,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2004
-2032,Finger Roll,2PT Field Goal,1,1,Finger Roll Shot,LAYUPS,1.0,2004
-2032,Specialty Dunk,2PT Field Goal,1,1,Follow Up Dunk Shot,DUNKS,1.0,2004
-2032,Jump Shot,2PT Field Goal,16,5,Jump Shot,JUMP_SHOTS,0.3125,2004
-2032,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,2004
-2032,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2004
-2032,Reverse Dunk,2PT Field Goal,1,1,Reverse Dunk Shot,DUNKS,1.0,2004
-2032,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2004
-2032,Alley Oop Dunk,2PT Field Goal,8,6,Alley Oop Dunk Shot,DUNKS,0.75,2005
-2032,Driving Dunk,2PT Field Goal,8,8,Driving Dunk Shot,DUNKS,1.0,2005
-2032,Finger Roll,2PT Field Goal,4,2,Driving Finger Roll Shot,LAYUPS,0.5,2005
-2032,Driving Layup,2PT Field Goal,10,6,Driving Layup Shot,LAYUPS,0.6,2005
-2032,Standard Dunk,2PT Field Goal,9,8,Dunk Shot,DUNKS,0.8888888888888888,2005
-2032,Finger Roll,2PT Field Goal,1,1,Finger Roll Shot,LAYUPS,1.0,2005
-2032,Specialty Dunk,2PT Field Goal,2,2,Follow Up Dunk Shot,DUNKS,1.0,2005
-2032,Jump Shot,2PT Field Goal,3,3,Jump Bank Shot,JUMP_SHOTS,1.0,2005
-2032,Hook Shot,2PT Field Goal,1,0,Jump Hook Shot,POST_MOVES,0.0,2005
-2032,Jump Shot,2PT Field Goal,102,38,Jump Shot,JUMP_SHOTS,0.3725490196078431,2005
-2032,Jump Shot,3PT Field Goal,7,2,Jump Shot,JUMP_SHOTS,0.4285714285714285,2005
-2032,Standard Layup,2PT Field Goal,20,14,Layup Shot,LAYUPS,0.7,2005
-2032,Reverse Layup,2PT Field Goal,5,3,Reverse Layup Shot,LAYUPS,0.6,2005
-2032,Running Hook Shot,2PT Field Goal,1,1,Running Hook Shot,POST_MOVES,1.0,2005
-2032,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2005
-2032,Running Jump Shot,3PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2005
-2032,Standard Dunk,2PT Field Goal,6,6,Slam Dunk Shot,DUNKS,1.0,2005
-2032,Tip Shot,2PT Field Goal,5,2,Tip Shot,TIP_SHOTS,0.4,2005
-2032,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2005
-2032,Turnaround Jump Shot,2PT Field Goal,10,3,Turnaround Jump Shot,JUMP_SHOTS,0.3,2005
-2032,Alley Oop Dunk,2PT Field Goal,5,4,Alley Oop Dunk Shot,DUNKS,0.8,2006
-2032,Driving Dunk,2PT Field Goal,4,3,Driving Dunk Shot,DUNKS,0.75,2006
-2032,Finger Roll,2PT Field Goal,2,2,Driving Finger Roll Shot,LAYUPS,1.0,2006
-2032,Driving Hook Shot,2PT Field Goal,1,1,Driving Hook Shot,POST_MOVES,1.0,2006
-2032,Driving Layup,2PT Field Goal,9,6,Driving Layup Shot,LAYUPS,0.6666666666666666,2006
-2032,Standard Dunk,2PT Field Goal,12,7,Dunk Shot,DUNKS,0.5833333333333334,2006
-2032,Finger Roll,2PT Field Goal,1,1,Finger Roll Shot,LAYUPS,1.0,2006
-2032,Hook Shot,2PT Field Goal,2,0,Hook Shot,POST_MOVES,0.0,2006
-2032,Hook Shot,2PT Field Goal,1,1,Jump Hook Shot,POST_MOVES,1.0,2006
-2032,Jump Shot,2PT Field Goal,93,28,Jump Shot,JUMP_SHOTS,0.3010752688172043,2006
-2032,Jump Shot,3PT Field Goal,5,2,Jump Shot,JUMP_SHOTS,0.6,2006
-2032,Standard Layup,2PT Field Goal,16,6,Layup Shot,LAYUPS,0.375,2006
-2032,Reverse Layup,2PT Field Goal,2,1,Reverse Layup Shot,LAYUPS,0.5,2006
-2032,Running Jump Shot,2PT Field Goal,4,4,Running Jump Shot,JUMP_SHOTS,1.0,2006
-2032,Standard Dunk,2PT Field Goal,4,4,Slam Dunk Shot,DUNKS,1.0,2006
-2032,Turnaround Jump Shot,2PT Field Goal,5,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2006
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Darius Miles,2032,Alley Oop Dunk,2,29,28,Alley Oop Dunk Shot,DUNKS,,2001
+Darius Miles,2032,Alley Oop Layup,2,5,4,Alley Oop Layup shot,LAYUPS,,2001
+Darius Miles,2032,Driving Dunk,2,17,16,Driving Dunk Shot,DUNKS,,2001
+Darius Miles,2032,Finger Roll,2,2,1,Driving Finger Roll Shot,LAYUPS,,2001
+Darius Miles,2032,Driving Layup,2,37,29,Driving Layup Shot,LAYUPS,,2001
+Darius Miles,2032,Standard Dunk,2,45,29,Dunk Shot,DUNKS,,2001
+Darius Miles,2032,Finger Roll,2,1,0,Finger Roll Shot,LAYUPS,,2001
+Darius Miles,2032,Hook Shot,2,10,8,Hook Shot,POST_MOVES,,2001
+Darius Miles,2032,Jump Shot,2,258,66,Jump Shot,JUMP_SHOTS,,2001
+Darius Miles,2032,Standard Layup,2,104,47,Layup Shot,LAYUPS,,2001
+Darius Miles,2032,Reverse Dunk,2,9,7,Reverse Dunk Shot,DUNKS,,2001
+Darius Miles,2032,Reverse Layup,2,15,9,Reverse Layup Shot,LAYUPS,,2001
+Darius Miles,2032,Standard Dunk,2,5,5,Running Dunk Shot,DUNKS,,2001
+Darius Miles,2032,Running Jump Shot,2,15,10,Running Jump Shot,JUMP_SHOTS,,2001
+Darius Miles,2032,Standard Dunk,2,49,46,Slam Dunk Shot,DUNKS,,2001
+Darius Miles,2032,Tip Shot,2,25,10,Tip Shot,TIP_SHOTS,,2001
+Darius Miles,2032,Turnaround Jump Shot,2,4,3,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Darius Miles,2032,Alley Oop Dunk,2,37,36,Alley Oop Dunk Shot,DUNKS,,2002
+Darius Miles,2032,Alley Oop Layup,2,4,3,Alley Oop Layup shot,LAYUPS,,2002
+Darius Miles,2032,Driving Dunk,2,24,23,Driving Dunk Shot,DUNKS,,2002
+Darius Miles,2032,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2002
+Darius Miles,2032,Driving Hook Shot,2,3,2,Driving Hook Shot,POST_MOVES,,2002
+Darius Miles,2032,Driving Layup,2,34,26,Driving Layup Shot,LAYUPS,,2002
+Darius Miles,2032,Standard Dunk,2,28,18,Dunk Shot,DUNKS,,2002
+Darius Miles,2032,Fadeaway Jump Shot,2,2,2,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Darius Miles,2032,Finger Roll,2,2,1,Finger Roll Shot,LAYUPS,,2002
+Darius Miles,2032,Specialty Dunk,2,5,5,Follow Up Dunk Shot,DUNKS,,2002
+Darius Miles,2032,Hook Shot,2,8,4,Hook Shot,POST_MOVES,,2002
+Darius Miles,2032,Hook Shot,2,5,5,Jump Hook Shot,POST_MOVES,,2002
+Darius Miles,2032,Jump Shot,2,318,93,Jump Shot,JUMP_SHOTS,,2002
+Darius Miles,2032,Standard Layup,2,97,32,Layup Shot,LAYUPS,,2002
+Darius Miles,2032,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2002
+Darius Miles,2032,Reverse Layup,2,4,3,Reverse Layup Shot,LAYUPS,,2002
+Darius Miles,2032,Running Hook Shot,2,2,2,Running Hook Shot,POST_MOVES,,2002
+Darius Miles,2032,Running Jump Shot,2,7,4,Running Jump Shot,JUMP_SHOTS,,2002
+Darius Miles,2032,Standard Dunk,2,31,30,Slam Dunk Shot,DUNKS,,2002
+Darius Miles,2032,Tip Shot,2,17,8,Tip Shot,TIP_SHOTS,,2002
+Darius Miles,2032,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2002
+Darius Miles,2032,Turnaround Jump Shot,2,10,8,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Darius Miles,2032,Alley Oop Dunk,2,14,13,Alley Oop Dunk Shot,DUNKS,,2003
+Darius Miles,2032,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2003
+Darius Miles,2032,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2003
+Darius Miles,2032,Finger Roll,2,5,4,Driving Finger Roll Shot,LAYUPS,,2003
+Darius Miles,2032,Driving Layup,2,30,20,Driving Layup Shot,LAYUPS,,2003
+Darius Miles,2032,Standard Dunk,2,17,15,Dunk Shot,DUNKS,,2003
+Darius Miles,2032,Fadeaway Jump Shot,2,12,4,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Darius Miles,2032,Finger Roll,2,8,7,Finger Roll Shot,LAYUPS,,2003
+Darius Miles,2032,Specialty Dunk,2,12,11,Follow Up Dunk Shot,DUNKS,,2003
+Darius Miles,2032,Hook Shot,2,4,2,Hook Shot,POST_MOVES,,2003
+Darius Miles,2032,Hook Shot,2,5,3,Jump Hook Shot,POST_MOVES,,2003
+Darius Miles,2032,Jump Shot,2,323,79,Jump Shot,JUMP_SHOTS,,2003
+Darius Miles,2032,Standard Layup,2,105,45,Layup Shot,LAYUPS,,2003
+Darius Miles,2032,Reverse Dunk,2,2,2,Reverse Dunk Shot,DUNKS,,2003
+Darius Miles,2032,Reverse Layup,2,9,4,Reverse Layup Shot,LAYUPS,,2003
+Darius Miles,2032,Finger Roll,2,1,1,Running Finger Roll Shot,LAYUPS,,2003
+Darius Miles,2032,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2003
+Darius Miles,2032,Running Jump Shot,2,18,5,Running Jump Shot,JUMP_SHOTS,,2003
+Darius Miles,2032,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2003
+Darius Miles,2032,Standard Dunk,2,28,27,Slam Dunk Shot,DUNKS,,2003
+Darius Miles,2032,Tip Shot,2,21,8,Tip Shot,TIP_SHOTS,,2003
+Darius Miles,2032,Turnaround Jump Shot,2,20,7,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Darius Miles,2032,Alley Oop Dunk,2,21,19,Alley Oop Dunk Shot,DUNKS,,2004
+Darius Miles,2032,Alley Oop Layup,2,10,5,Alley Oop Layup shot,LAYUPS,,2004
+Darius Miles,2032,Driving Dunk,2,13,13,Driving Dunk Shot,DUNKS,,2004
+Darius Miles,2032,Finger Roll,2,5,4,Driving Finger Roll Shot,LAYUPS,,2004
+Darius Miles,2032,Driving Layup,2,43,25,Driving Layup Shot,LAYUPS,,2004
+Darius Miles,2032,Standard Dunk,2,35,32,Dunk Shot,DUNKS,,2004
+Darius Miles,2032,Fadeaway Jump Shot,2,9,3,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Darius Miles,2032,Finger Roll,2,4,3,Finger Roll Shot,LAYUPS,,2004
+Darius Miles,2032,Specialty Dunk,2,8,8,Follow Up Dunk Shot,DUNKS,,2004
+Darius Miles,2032,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2004
+Darius Miles,2032,Jump Shot,2,5,2,Jump Bank Shot,JUMP_SHOTS,,2004
+Darius Miles,2032,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2004
+Darius Miles,2032,Jump Shot,2,341,121,Jump Shot,JUMP_SHOTS,,2004
+Darius Miles,2032,Jump Shot,3,7,1,Jump Shot,JUMP_SHOTS,,2004
+Darius Miles,2032,Standard Layup,2,131,50,Layup Shot,LAYUPS,,2004
+Darius Miles,2032,Reverse Dunk,2,4,3,Reverse Dunk Shot,DUNKS,,2004
+Darius Miles,2032,Reverse Layup,2,11,6,Reverse Layup Shot,LAYUPS,,2004
+Darius Miles,2032,Running Jump Shot,2,28,15,Running Jump Shot,JUMP_SHOTS,,2004
+Darius Miles,2032,Standard Dunk,2,27,27,Slam Dunk Shot,DUNKS,,2004
+Darius Miles,2032,Tip Shot,2,26,11,Tip Shot,TIP_SHOTS,,2004
+Darius Miles,2032,Turnaround Jump Shot,2,22,16,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Darius Miles,2032,Alley Oop Dunk,2,23,20,Alley Oop Dunk Shot,DUNKS,,2005
+Darius Miles,2032,Alley Oop Layup,2,4,0,Alley Oop Layup shot,LAYUPS,,2005
+Darius Miles,2032,Driving Dunk,2,13,13,Driving Dunk Shot,DUNKS,,2005
+Darius Miles,2032,Finger Roll,2,7,3,Driving Finger Roll Shot,LAYUPS,,2005
+Darius Miles,2032,Driving Layup,2,35,22,Driving Layup Shot,LAYUPS,,2005
+Darius Miles,2032,Standard Dunk,2,39,34,Dunk Shot,DUNKS,,2005
+Darius Miles,2032,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2005
+Darius Miles,2032,Finger Roll,2,2,1,Finger Roll Shot,LAYUPS,,2005
+Darius Miles,2032,Specialty Dunk,2,6,5,Follow Up Dunk Shot,DUNKS,,2005
+Darius Miles,2032,Hook Shot,2,4,2,Hook Shot,POST_MOVES,,2005
+Darius Miles,2032,Jump Shot,2,13,11,Jump Bank Shot,JUMP_SHOTS,,2005
+Darius Miles,2032,Hook Shot,2,4,1,Jump Hook Shot,POST_MOVES,,2005
+Darius Miles,2032,Jump Shot,2,349,116,Jump Shot,JUMP_SHOTS,,2005
+Darius Miles,2032,Jump Shot,3,9,3,Jump Shot,JUMP_SHOTS,,2005
+Darius Miles,2032,Standard Layup,2,97,49,Layup Shot,LAYUPS,,2005
+Darius Miles,2032,Reverse Dunk,2,2,2,Reverse Dunk Shot,DUNKS,,2005
+Darius Miles,2032,Reverse Layup,2,20,10,Reverse Layup Shot,LAYUPS,,2005
+Darius Miles,2032,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2005
+Darius Miles,2032,Running Jump Shot,2,7,4,Running Jump Shot,JUMP_SHOTS,,2005
+Darius Miles,2032,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2005
+Darius Miles,2032,Standard Dunk,2,25,23,Slam Dunk Shot,DUNKS,,2005
+Darius Miles,2032,Tip Shot,2,12,7,Tip Shot,TIP_SHOTS,,2005
+Darius Miles,2032,Turnaround Hook Shot,2,3,1,Turnaround Hook Shot,POST_MOVES,,2005
+Darius Miles,2032,Turnaround Jump Shot,2,20,7,Turnaround Jump Shot,JUMP_SHOTS,,2005
+Darius Miles,2032,Alley Oop Dunk,2,6,5,Alley Oop Dunk Shot,DUNKS,,2006
+Darius Miles,2032,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2006
+Darius Miles,2032,Driving Dunk,2,11,10,Driving Dunk Shot,DUNKS,,2006
+Darius Miles,2032,Finger Roll,2,2,2,Driving Finger Roll Shot,LAYUPS,,2006
+Darius Miles,2032,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2006
+Darius Miles,2032,Driving Layup,2,25,20,Driving Layup Shot,LAYUPS,,2006
+Darius Miles,2032,Standard Dunk,2,26,19,Dunk Shot,DUNKS,,2006
+Darius Miles,2032,Fadeaway Jump Shot,2,3,1,Fadeaway Jump Shot,JUMP_SHOTS,,2006
+Darius Miles,2032,Finger Roll,2,3,1,Finger Roll Shot,LAYUPS,,2006
+Darius Miles,2032,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2006
+Darius Miles,2032,Hook Shot,2,5,2,Hook Shot,POST_MOVES,,2006
+Darius Miles,2032,Jump Shot,2,4,3,Jump Bank Shot,JUMP_SHOTS,,2006
+Darius Miles,2032,Hook Shot,2,3,3,Jump Hook Shot,POST_MOVES,,2006
+Darius Miles,2032,Jump Shot,2,295,100,Jump Shot,JUMP_SHOTS,,2006
+Darius Miles,2032,Jump Shot,3,5,2,Jump Shot,JUMP_SHOTS,,2006
+Darius Miles,2032,Standard Layup,2,77,34,Layup Shot,LAYUPS,,2006
+Darius Miles,2032,Reverse Layup,2,6,3,Reverse Layup Shot,LAYUPS,,2006
+Darius Miles,2032,Running Jump Shot,2,7,7,Running Jump Shot,JUMP_SHOTS,,2006
+Darius Miles,2032,Standard Dunk,2,9,9,Slam Dunk Shot,DUNKS,,2006
+Darius Miles,2032,Tip Shot,2,6,6,Tip Shot,TIP_SHOTS,,2006
+Darius Miles,2032,Turnaround Jump Shot,2,14,6,Turnaround Jump Shot,JUMP_SHOTS,,2006
+Darius Miles,2032,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2009
+Darius Miles,2032,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2009
+Darius Miles,2032,Driving Layup,2,3,2,Driving Layup Shot,LAYUPS,,2009
+Darius Miles,2032,Standard Dunk,2,5,4,Dunk Shot,DUNKS,,2009
+Darius Miles,2032,Finger Roll,2,2,1,Finger Roll Layup Shot,LAYUPS,,2009
+Darius Miles,2032,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2009
+Darius Miles,2032,Jump Shot,2,48,16,Jump Shot,JUMP_SHOTS,,2009
+Darius Miles,2032,Standard Layup,2,23,13,Layup Shot,LAYUPS,,2009
+Darius Miles,2032,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2009
+Darius Miles,2032,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2009
+Darius Miles,2032,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2009
+Darius Miles,2032,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2009
+Darius Miles,2032,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2009
+Darius Miles,2032,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2009
+Darius Miles,2032,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2009
+Darius Miles,2032,Step Back Jump Shot,2,3,2,Step Back Jump shot,JUMP_SHOTS,,2009
+Darius Miles,2032,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2009
+Darius Miles,2032,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2009

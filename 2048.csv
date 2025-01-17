@@ -1,25 +1,198 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-2048,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2001
-2048,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2001
-2048,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2003
-2048,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,2004
-2048,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2004
-2048,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2004
-2048,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2005
-2048,Hook Shot,2PT Field Goal,8,0,Hook Shot,POST_MOVES,0.0,2005
-2048,Jump Shot,2PT Field Goal,8,2,Jump Shot,JUMP_SHOTS,0.25,2005
-2048,Standard Layup,2PT Field Goal,6,4,Layup Shot,LAYUPS,0.6666666666666666,2005
-2048,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2006
-2048,Standard Dunk,2PT Field Goal,13,12,Dunk Shot,DUNKS,0.9230769230769232,2006
-2048,Hook Shot,2PT Field Goal,34,17,Hook Shot,POST_MOVES,0.5,2006
-2048,Hook Shot,2PT Field Goal,7,6,Jump Hook Shot,POST_MOVES,0.8571428571428571,2006
-2048,Jump Shot,2PT Field Goal,16,1,Jump Shot,JUMP_SHOTS,0.0625,2006
-2048,Standard Layup,2PT Field Goal,37,17,Layup Shot,LAYUPS,0.4594594594594595,2006
-2048,Reverse Dunk,2PT Field Goal,1,1,Reverse Dunk Shot,DUNKS,1.0,2006
-2048,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2006
-2048,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2006
-2048,Tip Shot,2PT Field Goal,5,2,Tip Shot,TIP_SHOTS,0.4,2006
-2048,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2006
-2048,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2007
-2048,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2011
-2048,Hook Shot,2PT Field Goal,1,0,Jump Hook Shot,POST_MOVES,0.0,2011
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Jamaal Magloire,2048,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2001
+Jamaal Magloire,2048,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2001
+Jamaal Magloire,2048,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2001
+Jamaal Magloire,2048,Driving Layup,2,3,2,Driving Layup Shot,LAYUPS,,2001
+Jamaal Magloire,2048,Standard Dunk,2,35,27,Dunk Shot,DUNKS,,2001
+Jamaal Magloire,2048,Hook Shot,2,28,15,Hook Shot,POST_MOVES,,2001
+Jamaal Magloire,2048,Jump Shot,2,102,21,Jump Shot,JUMP_SHOTS,,2001
+Jamaal Magloire,2048,Standard Layup,2,57,25,Layup Shot,LAYUPS,,2001
+Jamaal Magloire,2048,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2001
+Jamaal Magloire,2048,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2001
+Jamaal Magloire,2048,Standard Dunk,2,15,15,Slam Dunk Shot,DUNKS,,2001
+Jamaal Magloire,2048,Tip Shot,2,24,11,Tip Shot,TIP_SHOTS,,2001
+Jamaal Magloire,2048,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2001
+Jamaal Magloire,2048,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Jamaal Magloire,2048,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2002
+Jamaal Magloire,2048,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2002
+Jamaal Magloire,2048,Driving Dunk,2,5,5,Driving Dunk Shot,DUNKS,,2002
+Jamaal Magloire,2048,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2002
+Jamaal Magloire,2048,Driving Layup,2,3,3,Driving Layup Shot,LAYUPS,,2002
+Jamaal Magloire,2048,Standard Dunk,2,55,46,Dunk Shot,DUNKS,,2002
+Jamaal Magloire,2048,Specialty Dunk,2,5,4,Follow Up Dunk Shot,DUNKS,,2002
+Jamaal Magloire,2048,Hook Shot,2,26,18,Hook Shot,POST_MOVES,,2002
+Jamaal Magloire,2048,Hook Shot,2,3,2,Jump Hook Shot,POST_MOVES,,2002
+Jamaal Magloire,2048,Jump Shot,2,88,18,Jump Shot,JUMP_SHOTS,,2002
+Jamaal Magloire,2048,Standard Layup,2,144,66,Layup Shot,LAYUPS,,2002
+Jamaal Magloire,2048,Reverse Dunk,2,2,2,Reverse Dunk Shot,DUNKS,,2002
+Jamaal Magloire,2048,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2002
+Jamaal Magloire,2048,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2002
+Jamaal Magloire,2048,Running Hook Shot,2,2,1,Running Hook Shot,POST_MOVES,,2002
+Jamaal Magloire,2048,Standard Dunk,2,30,30,Slam Dunk Shot,DUNKS,,2002
+Jamaal Magloire,2048,Tip Shot,2,35,18,Tip Shot,TIP_SHOTS,,2002
+Jamaal Magloire,2048,Turnaround Hook Shot,2,3,2,Turnaround Hook Shot,POST_MOVES,,2002
+Jamaal Magloire,2048,Turnaround Jump Shot,2,3,3,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Jamaal Magloire,2048,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2003
+Jamaal Magloire,2048,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2003
+Jamaal Magloire,2048,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2003
+Jamaal Magloire,2048,Driving Hook Shot,2,6,2,Driving Hook Shot,POST_MOVES,,2003
+Jamaal Magloire,2048,Driving Layup,2,8,7,Driving Layup Shot,LAYUPS,,2003
+Jamaal Magloire,2048,Standard Dunk,2,87,73,Dunk Shot,DUNKS,,2003
+Jamaal Magloire,2048,Finger Roll,2,3,2,Finger Roll Shot,LAYUPS,,2003
+Jamaal Magloire,2048,Specialty Dunk,2,4,4,Follow Up Dunk Shot,DUNKS,,2003
+Jamaal Magloire,2048,Hook Shot,2,128,62,Hook Shot,POST_MOVES,,2003
+Jamaal Magloire,2048,Hook Shot,2,13,7,Jump Hook Shot,POST_MOVES,,2003
+Jamaal Magloire,2048,Jump Shot,2,146,24,Jump Shot,JUMP_SHOTS,,2003
+Jamaal Magloire,2048,Standard Layup,2,182,79,Layup Shot,LAYUPS,,2003
+Jamaal Magloire,2048,Reverse Dunk,2,6,6,Reverse Dunk Shot,DUNKS,,2003
+Jamaal Magloire,2048,Reverse Layup,2,2,0,Reverse Layup Shot,LAYUPS,,2003
+Jamaal Magloire,2048,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2003
+Jamaal Magloire,2048,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2003
+Jamaal Magloire,2048,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2003
+Jamaal Magloire,2048,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2003
+Jamaal Magloire,2048,Standard Dunk,2,12,12,Slam Dunk Shot,DUNKS,,2003
+Jamaal Magloire,2048,Tip Shot,2,17,12,Tip Shot,TIP_SHOTS,,2003
+Jamaal Magloire,2048,Turnaround Hook Shot,2,6,5,Turnaround Hook Shot,POST_MOVES,,2003
+Jamaal Magloire,2048,Turnaround Jump Shot,2,5,3,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Jamaal Magloire,2048,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2004
+Jamaal Magloire,2048,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2004
+Jamaal Magloire,2048,Driving Dunk,2,11,11,Driving Dunk Shot,DUNKS,,2004
+Jamaal Magloire,2048,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2004
+Jamaal Magloire,2048,Driving Hook Shot,2,7,7,Driving Hook Shot,POST_MOVES,,2004
+Jamaal Magloire,2048,Driving Layup,2,9,5,Driving Layup Shot,LAYUPS,,2004
+Jamaal Magloire,2048,Standard Dunk,2,98,80,Dunk Shot,DUNKS,,2004
+Jamaal Magloire,2048,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2004
+Jamaal Magloire,2048,Specialty Dunk,2,2,2,Follow Up Dunk Shot,DUNKS,,2004
+Jamaal Magloire,2048,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2004
+Jamaal Magloire,2048,Hook Shot,2,182,66,Hook Shot,POST_MOVES,,2004
+Jamaal Magloire,2048,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2004
+Jamaal Magloire,2048,Hook Shot,2,19,7,Jump Hook Shot,POST_MOVES,,2004
+Jamaal Magloire,2048,Jump Shot,2,186,45,Jump Shot,JUMP_SHOTS,,2004
+Jamaal Magloire,2048,Standard Layup,2,217,99,Layup Shot,LAYUPS,,2004
+Jamaal Magloire,2048,Reverse Dunk,2,3,3,Reverse Dunk Shot,DUNKS,,2004
+Jamaal Magloire,2048,Reverse Layup,2,7,3,Reverse Layup Shot,LAYUPS,,2004
+Jamaal Magloire,2048,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2004
+Jamaal Magloire,2048,Running Hook Shot,2,12,11,Running Hook Shot,POST_MOVES,,2004
+Jamaal Magloire,2048,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,2004
+Jamaal Magloire,2048,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2004
+Jamaal Magloire,2048,Standard Dunk,2,12,12,Slam Dunk Shot,DUNKS,,2004
+Jamaal Magloire,2048,Tip Shot,2,26,18,Tip Shot,TIP_SHOTS,,2004
+Jamaal Magloire,2048,Turnaround Hook Shot,2,3,3,Turnaround Hook Shot,POST_MOVES,,2004
+Jamaal Magloire,2048,Turnaround Jump Shot,2,4,3,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Jamaal Magloire,2048,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2005
+Jamaal Magloire,2048,Driving Hook Shot,2,2,2,Driving Hook Shot,POST_MOVES,,2005
+Jamaal Magloire,2048,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,2005
+Jamaal Magloire,2048,Standard Dunk,2,17,15,Dunk Shot,DUNKS,,2005
+Jamaal Magloire,2048,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2005
+Jamaal Magloire,2048,Hook Shot,2,53,18,Hook Shot,POST_MOVES,,2005
+Jamaal Magloire,2048,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2005
+Jamaal Magloire,2048,Hook Shot,2,2,1,Jump Hook Shot,POST_MOVES,,2005
+Jamaal Magloire,2048,Jump Shot,2,58,9,Jump Shot,JUMP_SHOTS,,2005
+Jamaal Magloire,2048,Standard Layup,2,61,27,Layup Shot,LAYUPS,,2005
+Jamaal Magloire,2048,Reverse Dunk,2,4,4,Reverse Dunk Shot,DUNKS,,2005
+Jamaal Magloire,2048,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2005
+Jamaal Magloire,2048,Running Hook Shot,2,4,3,Running Hook Shot,POST_MOVES,,2005
+Jamaal Magloire,2048,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2005
+Jamaal Magloire,2048,Tip Shot,2,9,4,Tip Shot,TIP_SHOTS,,2005
+Jamaal Magloire,2048,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2005
+Jamaal Magloire,2048,Turnaround Jump Shot,2,6,5,Turnaround Jump Shot,JUMP_SHOTS,,2005
+Jamaal Magloire,2048,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2006
+Jamaal Magloire,2048,Finger Roll,2,1,0,Driving Finger Roll Shot,LAYUPS,,2006
+Jamaal Magloire,2048,Driving Hook Shot,2,3,2,Driving Hook Shot,POST_MOVES,,2006
+Jamaal Magloire,2048,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,2006
+Jamaal Magloire,2048,Standard Dunk,2,45,43,Dunk Shot,DUNKS,,2006
+Jamaal Magloire,2048,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2006
+Jamaal Magloire,2048,Hook Shot,2,2,2,Hook Bank Shot,POST_MOVES,,2006
+Jamaal Magloire,2048,Hook Shot,2,197,81,Hook Shot,POST_MOVES,,2006
+Jamaal Magloire,2048,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2006
+Jamaal Magloire,2048,Hook Shot,2,21,15,Jump Hook Shot,POST_MOVES,,2006
+Jamaal Magloire,2048,Jump Shot,2,114,18,Jump Shot,JUMP_SHOTS,,2006
+Jamaal Magloire,2048,Standard Layup,2,164,79,Layup Shot,LAYUPS,,2006
+Jamaal Magloire,2048,Reverse Dunk,2,5,5,Reverse Dunk Shot,DUNKS,,2006
+Jamaal Magloire,2048,Reverse Layup,2,11,9,Reverse Layup Shot,LAYUPS,,2006
+Jamaal Magloire,2048,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2006
+Jamaal Magloire,2048,Running Hook Shot,2,6,3,Running Hook Shot,POST_MOVES,,2006
+Jamaal Magloire,2048,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2006
+Jamaal Magloire,2048,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2006
+Jamaal Magloire,2048,Standard Dunk,2,10,10,Slam Dunk Shot,DUNKS,,2006
+Jamaal Magloire,2048,Tip Shot,2,18,7,Tip Shot,TIP_SHOTS,,2006
+Jamaal Magloire,2048,Turnaround Hook Shot,2,4,1,Turnaround Hook Shot,POST_MOVES,,2006
+Jamaal Magloire,2048,Turnaround Jump Shot,2,3,2,Turnaround Jump Shot,JUMP_SHOTS,,2006
+Jamaal Magloire,2048,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2007
+Jamaal Magloire,2048,Driving Dunk,2,5,5,Driving Dunk Shot,DUNKS,,2007
+Jamaal Magloire,2048,Driving Hook Shot,2,11,6,Driving Hook Shot,POST_MOVES,,2007
+Jamaal Magloire,2048,Driving Layup,2,8,7,Driving Layup Shot,LAYUPS,,2007
+Jamaal Magloire,2048,Standard Dunk,2,42,37,Dunk Shot,DUNKS,,2007
+Jamaal Magloire,2048,Hook Shot,2,2,2,Hook Bank Shot,POST_MOVES,,2007
+Jamaal Magloire,2048,Hook Shot,2,71,22,Hook Shot,POST_MOVES,,2007
+Jamaal Magloire,2048,Hook Shot,2,13,8,Jump Hook Shot,POST_MOVES,,2007
+Jamaal Magloire,2048,Jump Shot,2,67,16,Jump Shot,JUMP_SHOTS,,2007
+Jamaal Magloire,2048,Standard Layup,2,115,56,Layup Shot,LAYUPS,,2007
+Jamaal Magloire,2048,Reverse Dunk,2,3,3,Reverse Dunk Shot,DUNKS,,2007
+Jamaal Magloire,2048,Reverse Layup,2,5,3,Reverse Layup Shot,LAYUPS,,2007
+Jamaal Magloire,2048,Running Hook Shot,2,4,4,Running Hook Shot,POST_MOVES,,2007
+Jamaal Magloire,2048,Standard Dunk,2,8,8,Slam Dunk Shot,DUNKS,,2007
+Jamaal Magloire,2048,Tip Shot,2,13,6,Tip Shot,TIP_SHOTS,,2007
+Jamaal Magloire,2048,Turnaround Hook Shot,2,18,7,Turnaround Hook Shot,POST_MOVES,,2007
+Jamaal Magloire,2048,Turnaround Jump Shot,2,9,8,Turnaround Jump Shot,JUMP_SHOTS,,2007
+Jamaal Magloire,2048,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2008
+Jamaal Magloire,2048,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2008
+Jamaal Magloire,2048,Driving Layup,2,3,0,Driving Layup Shot,LAYUPS,,2008
+Jamaal Magloire,2048,Standard Dunk,2,6,5,Dunk Shot,DUNKS,,2008
+Jamaal Magloire,2048,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2008
+Jamaal Magloire,2048,Hook Shot,2,7,0,Hook Shot,POST_MOVES,,2008
+Jamaal Magloire,2048,Hook Shot,2,5,2,Jump Hook Shot,POST_MOVES,,2008
+Jamaal Magloire,2048,Jump Shot,2,9,3,Jump Shot,JUMP_SHOTS,,2008
+Jamaal Magloire,2048,Standard Layup,2,15,3,Layup Shot,LAYUPS,,2008
+Jamaal Magloire,2048,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2008
+Jamaal Magloire,2048,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2008
+Jamaal Magloire,2048,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2008
+Jamaal Magloire,2048,Running Hook Shot,2,2,0,Running Hook Shot,POST_MOVES,,2008
+Jamaal Magloire,2048,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2008
+Jamaal Magloire,2048,Standard Dunk,2,22,20,Dunk Shot,DUNKS,,2009
+Jamaal Magloire,2048,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2009
+Jamaal Magloire,2048,Hook Shot,2,24,5,Hook Shot,POST_MOVES,,2009
+Jamaal Magloire,2048,Hook Shot,2,6,0,Jump Hook Shot,POST_MOVES,,2009
+Jamaal Magloire,2048,Jump Shot,2,10,3,Jump Shot,JUMP_SHOTS,,2009
+Jamaal Magloire,2048,Standard Layup,2,39,20,Layup Shot,LAYUPS,,2009
+Jamaal Magloire,2048,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2009
+Jamaal Magloire,2048,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2009
+Jamaal Magloire,2048,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2009
+Jamaal Magloire,2048,Running Hook Shot,2,3,0,Running Hook Shot,POST_MOVES,,2009
+Jamaal Magloire,2048,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2009
+Jamaal Magloire,2048,Tip Shot,2,12,6,Tip Shot,TIP_SHOTS,,2009
+Jamaal Magloire,2048,Turnaround Hook Shot,2,4,3,Turnaround Hook Shot,POST_MOVES,,2009
+Jamaal Magloire,2048,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2009
+Jamaal Magloire,2048,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2010
+Jamaal Magloire,2048,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2010
+Jamaal Magloire,2048,Standard Dunk,2,7,6,Dunk Shot,DUNKS,,2010
+Jamaal Magloire,2048,Hook Shot,2,5,2,Hook Shot,POST_MOVES,,2010
+Jamaal Magloire,2048,Hook Shot,2,3,0,Jump Hook Shot,POST_MOVES,,2010
+Jamaal Magloire,2048,Jump Shot,2,11,3,Jump Shot,JUMP_SHOTS,,2010
+Jamaal Magloire,2048,Standard Layup,2,18,10,Layup Shot,LAYUPS,,2010
+Jamaal Magloire,2048,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2010
+Jamaal Magloire,2048,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2010
+Jamaal Magloire,2048,Tip Shot,2,7,2,Tip Shot,TIP_SHOTS,,2010
+Jamaal Magloire,2048,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2011
+Jamaal Magloire,2048,Hook Shot,2,3,0,Hook Shot,POST_MOVES,,2011
+Jamaal Magloire,2048,Hook Shot,2,3,0,Jump Hook Shot,POST_MOVES,,2011
+Jamaal Magloire,2048,Jump Shot,2,2,1,Jump Shot,JUMP_SHOTS,,2011
+Jamaal Magloire,2048,Standard Layup,2,7,5,Layup Shot,LAYUPS,,2011
+Jamaal Magloire,2048,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2011
+Jamaal Magloire,2048,Tip Shot,2,4,4,Tip Shot,TIP_SHOTS,,2011
+Jamaal Magloire,2048,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2012
+Jamaal Magloire,2048,Driving Layup,2,2,1,Driving Layup Shot,LAYUPS,,2012
+Jamaal Magloire,2048,Standard Dunk,2,6,4,Dunk Shot,DUNKS,,2012
+Jamaal Magloire,2048,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2012
+Jamaal Magloire,2048,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2012
+Jamaal Magloire,2048,Hook Shot,2,4,0,Hook Shot,POST_MOVES,,2012
+Jamaal Magloire,2048,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2012
+Jamaal Magloire,2048,Jump Shot,2,4,0,Jump Shot,JUMP_SHOTS,,2012
+Jamaal Magloire,2048,Standard Layup,2,11,5,Layup Shot,LAYUPS,,2012
+Jamaal Magloire,2048,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2012
+Jamaal Magloire,2048,Reverse Layup,2,4,2,Reverse Layup Shot,LAYUPS,,2012
+Jamaal Magloire,2048,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2012
+Jamaal Magloire,2048,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2012
+Jamaal Magloire,2048,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2012
+Jamaal Magloire,2048,Tip Shot,2,4,0,Tip Shot,TIP_SHOTS,,2012
+Jamaal Magloire,2048,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2012

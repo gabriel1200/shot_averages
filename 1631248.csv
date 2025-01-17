@@ -1,6 +1,7 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1631248,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2025
-1631248,Jump Shot,3PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,2025
-1631248,Putback Layup,2PT Field Goal,1,0,Putback Layup Shot,LAYUPS,0.0,2025
-1631248,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2025
-1631248,Running Jump Shot,3PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Baylor Scheierman,1631248,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2025
+Baylor Scheierman,1631248,Jump Shot,3,1,0,Jump Bank Shot,JUMP_SHOTS,,2025
+Baylor Scheierman,1631248,Jump Shot,3,4,0,Jump Shot,JUMP_SHOTS,,2025
+Baylor Scheierman,1631248,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2025
+Baylor Scheierman,1631248,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2025
+Baylor Scheierman,1631248,Running Jump Shot,3,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025

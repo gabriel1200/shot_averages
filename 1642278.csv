@@ -1,6 +1,16 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1642278,Finger Roll,2PT Field Goal,1,0,Driving Finger Roll Layup Shot,LAYUPS,0.0,2025
-1642278,Jump Shot,3PT Field Goal,3,2,Jump Shot,JUMP_SHOTS,1.0,2025
-1642278,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2025
-1642278,Running Jump Shot,3PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.5,2025
-1642278,Reverse Layup,2PT Field Goal,1,1,Running Reverse Layup Shot,LAYUPS,1.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Tyler Kolek,1642278,Finger Roll,2,2,0,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Tyler Kolek,1642278,Floating Jump Shot,2,2,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2025
+Tyler Kolek,1642278,Floating Jump Shot,2,2,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Tyler Kolek,1642278,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2025
+Tyler Kolek,1642278,Driving Layup,2,4,1,Driving Layup Shot,LAYUPS,,2025
+Tyler Kolek,1642278,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2025
+Tyler Kolek,1642278,Jump Shot,3,15,8,Jump Shot,JUMP_SHOTS,,2025
+Tyler Kolek,1642278,Pullup Jump Shot,2,3,3,Pullup Jump shot,JUMP_SHOTS,,2025
+Tyler Kolek,1642278,Pullup Jump Shot,3,5,0,Pullup Jump shot,JUMP_SHOTS,,2025
+Tyler Kolek,1642278,Running Jump Shot,3,4,2,Running Jump Shot,JUMP_SHOTS,,2025
+Tyler Kolek,1642278,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2025
+Tyler Kolek,1642278,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2025
+Tyler Kolek,1642278,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2025
+Tyler Kolek,1642278,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2025
+Tyler Kolek,1642278,Turnaround Jump Shot,3,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2025

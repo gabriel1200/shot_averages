@@ -1,13 +1,23 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1642349,Standard Layup,2PT Field Goal,1,0,Cutting Layup Shot,LAYUPS,0.0,2025
-1642349,Finger Roll,2PT Field Goal,1,0,Driving Finger Roll Layup Shot,LAYUPS,0.0,2025
-1642349,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2025
-1642349,Driving Layup,2PT Field Goal,4,3,Driving Layup Shot,LAYUPS,0.75,2025
-1642349,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2025
-1642349,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2025
-1642349,Jump Shot,3PT Field Goal,9,4,Jump Shot,JUMP_SHOTS,0.6666666666666666,2025
-1642349,Pullup Jump Shot,2PT Field Goal,3,1,Pullup Jump shot,JUMP_SHOTS,0.3333333333333333,2025
-1642349,Running Jump Shot,3PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.5,2025
-1642349,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2025
-1642349,Putback Layup,2PT Field Goal,1,0,Tip Layup Shot,LAYUPS,0.0,2025
-1642349,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Ajay Mitchell,1642349,Standard Layup,2,4,2,Cutting Layup Shot,LAYUPS,,2025
+Ajay Mitchell,1642349,Finger Roll,2,14,13,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Ajay Mitchell,1642349,Floating Jump Shot,2,6,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2025
+Ajay Mitchell,1642349,Floating Jump Shot,2,9,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Ajay Mitchell,1642349,Driving Layup,2,30,18,Driving Layup Shot,LAYUPS,,2025
+Ajay Mitchell,1642349,Driving Layup,2,6,1,Driving Reverse Layup Shot,LAYUPS,,2025
+Ajay Mitchell,1642349,Floating Jump Shot,2,8,6,Floating Jump shot,FLOATING_SHOTS,,2025
+Ajay Mitchell,1642349,Jump Shot,3,40,16,Jump Shot,JUMP_SHOTS,,2025
+Ajay Mitchell,1642349,Standard Layup,2,6,5,Layup Shot,LAYUPS,,2025
+Ajay Mitchell,1642349,Pullup Jump Shot,2,14,7,Pullup Jump shot,JUMP_SHOTS,,2025
+Ajay Mitchell,1642349,Pullup Jump Shot,3,3,1,Pullup Jump shot,JUMP_SHOTS,,2025
+Ajay Mitchell,1642349,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2025
+Ajay Mitchell,1642349,Standard Dunk,2,1,0,Running Dunk Shot,DUNKS,,2025
+Ajay Mitchell,1642349,Finger Roll,2,1,0,Running Finger Roll Layup Shot,LAYUPS,,2025
+Ajay Mitchell,1642349,Running Jump Shot,3,5,4,Running Jump Shot,JUMP_SHOTS,,2025
+Ajay Mitchell,1642349,Standard Layup,2,9,4,Running Layup Shot,LAYUPS,,2025
+Ajay Mitchell,1642349,Running Jump Shot,3,3,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025
+Ajay Mitchell,1642349,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2025
+Ajay Mitchell,1642349,Putback Layup,2,1,0,Tip Layup Shot,LAYUPS,,2025
+Ajay Mitchell,1642349,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2025
+Ajay Mitchell,1642349,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2025
+Ajay Mitchell,1642349,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2025

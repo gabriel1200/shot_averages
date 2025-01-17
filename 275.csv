@@ -1,51 +1,105 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-275,Driving Layup,2PT Field Goal,2,2,Driving Layup Shot,LAYUPS,1.0,1997
-275,Jump Shot,2PT Field Goal,14,5,Jump Shot,JUMP_SHOTS,0.3571428571428571,1997
-275,Jump Shot,3PT Field Goal,14,6,Jump Shot,JUMP_SHOTS,0.6428571428571429,1997
-275,Standard Layup,2PT Field Goal,4,0,Layup Shot,LAYUPS,0.0,1997
-275,Running Jump Shot,2PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.5,1997
-275,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,1997
-275,Driving Layup,2PT Field Goal,2,2,Driving Layup Shot,LAYUPS,1.0,1998
-275,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,1998
-275,Jump Shot,2PT Field Goal,17,4,Jump Shot,JUMP_SHOTS,0.2352941176470588,1998
-275,Jump Shot,3PT Field Goal,10,6,Jump Shot,JUMP_SHOTS,0.9,1998
-275,Standard Layup,2PT Field Goal,5,1,Layup Shot,LAYUPS,0.2,1998
-275,Driving Layup,2PT Field Goal,2,0,Driving Layup Shot,LAYUPS,0.0,1999
-275,Jump Shot,2PT Field Goal,3,2,Jump Shot,JUMP_SHOTS,0.6666666666666666,1999
-275,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1999
-275,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,1999
-275,Driving Dunk,2PT Field Goal,1,0,Driving Dunk Shot,DUNKS,0.0,2000
-275,Driving Layup,2PT Field Goal,3,1,Driving Layup Shot,LAYUPS,0.3333333333333333,2000
-275,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2000
-275,Jump Shot,2PT Field Goal,56,25,Jump Shot,JUMP_SHOTS,0.4464285714285714,2000
-275,Jump Shot,3PT Field Goal,14,8,Jump Shot,JUMP_SHOTS,0.8571428571428571,2000
-275,Standard Layup,2PT Field Goal,6,4,Layup Shot,LAYUPS,0.6666666666666666,2000
-275,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2000
-275,Standard Dunk,2PT Field Goal,1,0,Slam Dunk Shot,DUNKS,0.0,2000
-275,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2000
-275,Driving Layup,2PT Field Goal,14,11,Driving Layup Shot,LAYUPS,0.7857142857142857,2001
-275,Jump Shot,2PT Field Goal,142,66,Jump Shot,JUMP_SHOTS,0.4647887323943662,2001
-275,Jump Shot,3PT Field Goal,58,22,Jump Shot,JUMP_SHOTS,0.5689655172413793,2001
-275,Standard Layup,2PT Field Goal,17,6,Layup Shot,LAYUPS,0.3529411764705882,2001
-275,Running Jump Shot,2PT Field Goal,6,6,Running Jump Shot,JUMP_SHOTS,1.0,2001
-275,Standard Dunk,2PT Field Goal,2,2,Slam Dunk Shot,DUNKS,1.0,2001
-275,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2001
-275,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2001
-275,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2002
-275,Fadeaway Jump Shot,2PT Field Goal,2,2,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2002
-275,Jump Shot,2PT Field Goal,94,36,Jump Shot,JUMP_SHOTS,0.3829787234042553,2002
-275,Jump Shot,3PT Field Goal,49,22,Jump Shot,JUMP_SHOTS,0.673469387755102,2002
-275,Standard Layup,2PT Field Goal,7,1,Layup Shot,LAYUPS,0.1428571428571428,2002
-275,Running Jump Shot,2PT Field Goal,3,2,Running Jump Shot,JUMP_SHOTS,0.6666666666666666,2002
-275,Turnaround Jump Shot,2PT Field Goal,3,3,Turnaround Jump Shot,JUMP_SHOTS,1.0,2002
-275,Driving Hook Shot,2PT Field Goal,1,1,Driving Hook Shot,POST_MOVES,1.0,2003
-275,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2003
-275,Jump Shot,2PT Field Goal,64,26,Jump Shot,JUMP_SHOTS,0.40625,2003
-275,Jump Shot,3PT Field Goal,51,21,Jump Shot,JUMP_SHOTS,0.6176470588235294,2003
-275,Standard Layup,2PT Field Goal,4,2,Layup Shot,LAYUPS,0.5,2003
-275,Running Jump Shot,2PT Field Goal,2,2,Running Jump Shot,JUMP_SHOTS,1.0,2003
-275,Turnaround Jump Shot,2PT Field Goal,4,4,Turnaround Jump Shot,JUMP_SHOTS,1.0,2003
-275,Jump Shot,2PT Field Goal,10,1,Jump Shot,JUMP_SHOTS,0.1,2004
-275,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,2004
-275,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2005
-275,Jump Shot,3PT Field Goal,5,2,Jump Shot,JUMP_SHOTS,0.6,2005
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Allan Houston,275,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,1997
+Allan Houston,275,Driving Layup,2,44,37,Driving Layup Shot,LAYUPS,,1997
+Allan Houston,275,Standard Dunk,2,8,8,Dunk Shot,DUNKS,,1997
+Allan Houston,275,Jump Shot,2,787,312,Jump Shot,JUMP_SHOTS,,1997
+Allan Houston,275,Jump Shot,3,41,17,Jump Shot,JUMP_SHOTS,,1997
+Allan Houston,275,Standard Layup,2,114,30,Layup Shot,LAYUPS,,1997
+Allan Houston,275,Running Jump Shot,2,23,20,Running Jump Shot,JUMP_SHOTS,,1997
+Allan Houston,275,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,1997
+Allan Houston,275,Tip Shot,2,5,3,Tip Shot,TIP_SHOTS,,1997
+Allan Houston,275,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,1998
+Allan Houston,275,Driving Layup,2,102,77,Driving Layup Shot,LAYUPS,,1998
+Allan Houston,275,Standard Dunk,2,13,12,Dunk Shot,DUNKS,,1998
+Allan Houston,275,Hook Shot,2,4,3,Hook Shot,POST_MOVES,,1998
+Allan Houston,275,Jump Shot,2,940,372,Jump Shot,JUMP_SHOTS,,1998
+Allan Houston,275,Jump Shot,3,34,15,Jump Shot,JUMP_SHOTS,,1998
+Allan Houston,275,Standard Layup,2,115,37,Layup Shot,LAYUPS,,1998
+Allan Houston,275,Running Jump Shot,2,51,40,Running Jump Shot,JUMP_SHOTS,,1998
+Allan Houston,275,Standard Dunk,2,9,9,Slam Dunk Shot,DUNKS,,1998
+Allan Houston,275,Tip Shot,2,6,3,Tip Shot,TIP_SHOTS,,1998
+Allan Houston,275,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,1999
+Allan Houston,275,Driving Layup,2,62,37,Driving Layup Shot,LAYUPS,,1999
+Allan Houston,275,Standard Dunk,2,7,7,Dunk Shot,DUNKS,,1999
+Allan Houston,275,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,1999
+Allan Houston,275,Jump Shot,2,565,217,Jump Shot,JUMP_SHOTS,,1999
+Allan Houston,275,Jump Shot,3,3,1,Jump Shot,JUMP_SHOTS,,1999
+Allan Houston,275,Standard Layup,2,40,17,Layup Shot,LAYUPS,,1999
+Allan Houston,275,Running Jump Shot,2,16,9,Running Jump Shot,JUMP_SHOTS,,1999
+Allan Houston,275,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,1999
+Allan Houston,275,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,,1999
+Allan Houston,275,Driving Dunk,2,2,1,Driving Dunk Shot,DUNKS,,2000
+Allan Houston,275,Driving Layup,2,92,47,Driving Layup Shot,LAYUPS,,2000
+Allan Houston,275,Standard Dunk,2,4,3,Dunk Shot,DUNKS,,2000
+Allan Houston,275,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2000
+Allan Houston,275,Jump Shot,2,1011,471,Jump Shot,JUMP_SHOTS,,2000
+Allan Houston,275,Jump Shot,3,39,24,Jump Shot,JUMP_SHOTS,,2000
+Allan Houston,275,Standard Layup,2,64,26,Layup Shot,LAYUPS,,2000
+Allan Houston,275,Standard Layup,3,1,0,Layup Shot,LAYUPS,,2000
+Allan Houston,275,Running Jump Shot,2,45,36,Running Jump Shot,JUMP_SHOTS,,2000
+Allan Houston,275,Standard Dunk,2,5,3,Slam Dunk Shot,DUNKS,,2000
+Allan Houston,275,Tip Shot,2,7,3,Tip Shot,TIP_SHOTS,,2000
+Allan Houston,275,Driving Dunk,2,3,1,Driving Dunk Shot,DUNKS,,2001
+Allan Houston,275,Driving Layup,2,49,35,Driving Layup Shot,LAYUPS,,2001
+Allan Houston,275,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2001
+Allan Houston,275,Finger Roll,2,1,0,Finger Roll Shot,LAYUPS,,2001
+Allan Houston,275,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2001
+Allan Houston,275,Jump Shot,2,864,385,Jump Shot,JUMP_SHOTS,,2001
+Allan Houston,275,Jump Shot,3,160,59,Jump Shot,JUMP_SHOTS,,2001
+Allan Houston,275,Standard Layup,2,62,12,Layup Shot,LAYUPS,,2001
+Allan Houston,275,Reverse Layup,2,8,5,Reverse Layup Shot,LAYUPS,,2001
+Allan Houston,275,Running Jump Shot,2,37,30,Running Jump Shot,JUMP_SHOTS,,2001
+Allan Houston,275,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2001
+Allan Houston,275,Tip Shot,2,4,1,Tip Shot,TIP_SHOTS,,2001
+Allan Houston,275,Turnaround Jump Shot,2,15,10,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Allan Houston,275,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2002
+Allan Houston,275,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2002
+Allan Houston,275,Driving Layup,2,32,20,Driving Layup Shot,LAYUPS,,2002
+Allan Houston,275,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,2002
+Allan Houston,275,Fadeaway Jump Shot,2,3,2,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Allan Houston,275,Finger Roll,2,4,4,Finger Roll Shot,LAYUPS,,2002
+Allan Houston,275,Jump Shot,2,1002,422,Jump Shot,JUMP_SHOTS,,2002
+Allan Houston,275,Jump Shot,3,122,49,Jump Shot,JUMP_SHOTS,,2002
+Allan Houston,275,Standard Layup,2,76,21,Layup Shot,LAYUPS,,2002
+Allan Houston,275,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2002
+Allan Houston,275,Running Jump Shot,2,30,27,Running Jump Shot,JUMP_SHOTS,,2002
+Allan Houston,275,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2002
+Allan Houston,275,Tip Shot,2,5,2,Tip Shot,TIP_SHOTS,,2002
+Allan Houston,275,Turnaround Jump Shot,2,21,17,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Allan Houston,275,Driving Dunk,2,2,1,Driving Dunk Shot,DUNKS,,2003
+Allan Houston,275,Finger Roll,2,8,7,Driving Finger Roll Shot,LAYUPS,,2003
+Allan Houston,275,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2003
+Allan Houston,275,Driving Layup,2,18,14,Driving Layup Shot,LAYUPS,,2003
+Allan Houston,275,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,2003
+Allan Houston,275,Fadeaway Jump Shot,2,14,12,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Allan Houston,275,Finger Roll,2,2,1,Finger Roll Shot,LAYUPS,,2003
+Allan Houston,275,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2003
+Allan Houston,275,Jump Shot,2,1123,463,Jump Shot,JUMP_SHOTS,,2003
+Allan Houston,275,Jump Shot,3,144,65,Jump Shot,JUMP_SHOTS,,2003
+Allan Houston,275,Standard Layup,2,65,13,Layup Shot,LAYUPS,,2003
+Allan Houston,275,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2003
+Allan Houston,275,Running Jump Shot,2,38,33,Running Jump Shot,JUMP_SHOTS,,2003
+Allan Houston,275,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2003
+Allan Houston,275,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2003
+Allan Houston,275,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2003
+Allan Houston,275,Turnaround Jump Shot,2,43,39,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Allan Houston,275,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2004
+Allan Houston,275,Driving Layup,2,7,5,Driving Layup Shot,LAYUPS,,2004
+Allan Houston,275,Fadeaway Jump Shot,2,12,10,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Allan Houston,275,Finger Roll,2,1,0,Finger Roll Shot,LAYUPS,,2004
+Allan Houston,275,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2004
+Allan Houston,275,Jump Shot,2,668,274,Jump Shot,JUMP_SHOTS,,2004
+Allan Houston,275,Jump Shot,3,21,10,Jump Shot,JUMP_SHOTS,,2004
+Allan Houston,275,Standard Layup,2,19,1,Layup Shot,LAYUPS,,2004
+Allan Houston,275,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2004
+Allan Houston,275,Running Jump Shot,2,24,18,Running Jump Shot,JUMP_SHOTS,,2004
+Allan Houston,275,Tip Shot,2,2,0,Tip Shot,TIP_SHOTS,,2004
+Allan Houston,275,Turnaround Jump Shot,2,23,18,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Allan Houston,275,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,2005
+Allan Houston,275,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2005
+Allan Houston,275,Jump Shot,2,3,3,Jump Bank Shot,JUMP_SHOTS,,2005
+Allan Houston,275,Jump Shot,2,180,71,Jump Shot,JUMP_SHOTS,,2005
+Allan Houston,275,Jump Shot,3,11,4,Jump Shot,JUMP_SHOTS,,2005
+Allan Houston,275,Standard Layup,2,2,0,Layup Shot,LAYUPS,,2005
+Allan Houston,275,Running Jump Shot,2,3,2,Running Jump Shot,JUMP_SHOTS,,2005
+Allan Houston,275,Turnaround Jump Shot,2,2,2,Turnaround Jump Shot,JUMP_SHOTS,,2005

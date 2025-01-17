@@ -1,7 +1,37 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-694,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,1997
-694,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,1997
-694,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1998
-694,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,1998
-694,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,1999
-694,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,1999
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Sam Mack,694,Driving Layup,2,26,19,Driving Layup Shot,LAYUPS,,1997
+Sam Mack,694,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,1997
+Sam Mack,694,Jump Shot,2,174,53,Jump Shot,JUMP_SHOTS,,1997
+Sam Mack,694,Jump Shot,3,11,6,Jump Shot,JUMP_SHOTS,,1997
+Sam Mack,694,Standard Layup,2,38,17,Layup Shot,LAYUPS,,1997
+Sam Mack,694,Running Jump Shot,2,6,3,Running Jump Shot,JUMP_SHOTS,,1997
+Sam Mack,694,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,1997
+Sam Mack,694,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,,1997
+Sam Mack,694,Driving Layup,2,37,24,Driving Layup Shot,LAYUPS,,1998
+Sam Mack,694,Standard Dunk,2,5,5,Dunk Shot,DUNKS,,1998
+Sam Mack,694,Hook Shot,2,3,2,Hook Shot,POST_MOVES,,1998
+Sam Mack,694,Jump Shot,2,454,158,Jump Shot,JUMP_SHOTS,,1998
+Sam Mack,694,Jump Shot,3,2,1,Jump Shot,JUMP_SHOTS,,1998
+Sam Mack,694,Standard Layup,2,45,25,Layup Shot,LAYUPS,,1998
+Sam Mack,694,Running Jump Shot,2,9,5,Running Jump Shot,JUMP_SHOTS,,1998
+Sam Mack,694,Tip Shot,2,4,2,Tip Shot,TIP_SHOTS,,1998
+Sam Mack,694,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,1999
+Sam Mack,694,Driving Layup,2,18,13,Driving Layup Shot,LAYUPS,,1999
+Sam Mack,694,Standard Dunk,2,3,2,Dunk Shot,DUNKS,,1999
+Sam Mack,694,Jump Shot,2,321,126,Jump Shot,JUMP_SHOTS,,1999
+Sam Mack,694,Jump Shot,3,6,3,Jump Shot,JUMP_SHOTS,,1999
+Sam Mack,694,Standard Layup,2,25,14,Layup Shot,LAYUPS,,1999
+Sam Mack,694,Running Jump Shot,2,8,6,Running Jump Shot,JUMP_SHOTS,,1999
+Sam Mack,694,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,1999
+Sam Mack,694,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,1999
+Sam Mack,694,Driving Layup,2,9,4,Driving Layup Shot,LAYUPS,,2000
+Sam Mack,694,Jump Shot,2,104,30,Jump Shot,JUMP_SHOTS,,2000
+Sam Mack,694,Standard Layup,2,7,2,Layup Shot,LAYUPS,,2000
+Sam Mack,694,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2000
+Sam Mack,694,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2000
+Sam Mack,694,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,2002
+Sam Mack,694,Jump Shot,2,42,9,Jump Shot,JUMP_SHOTS,,2002
+Sam Mack,694,Standard Layup,2,2,1,Layup Shot,LAYUPS,,2002
+Sam Mack,694,Finger Roll,2,1,1,Running Finger Roll Shot,LAYUPS,,2002
+Sam Mack,694,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2002
+Sam Mack,694,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2002

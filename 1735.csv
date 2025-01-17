@@ -1,42 +1,76 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1735,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,1999
-1735,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,1999
-1735,Jump Shot,2PT Field Goal,8,3,Jump Shot,JUMP_SHOTS,0.375,1999
-1735,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,1999
-1735,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2001
-1735,Jump Shot,2PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,2001
-1735,Alley Oop Layup,2PT Field Goal,1,1,Alley Oop Layup shot,LAYUPS,1.0,2002
-1735,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2002
-1735,Standard Dunk,2PT Field Goal,3,2,Dunk Shot,DUNKS,0.6666666666666666,2002
-1735,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2002
-1735,Hook Shot,2PT Field Goal,5,3,Hook Shot,POST_MOVES,0.6,2002
-1735,Hook Shot,2PT Field Goal,1,1,Jump Hook Shot,POST_MOVES,1.0,2002
-1735,Jump Shot,2PT Field Goal,20,4,Jump Shot,JUMP_SHOTS,0.2,2002
-1735,Standard Layup,2PT Field Goal,10,5,Layup Shot,LAYUPS,0.5,2002
-1735,Running Hook Shot,2PT Field Goal,2,1,Running Hook Shot,POST_MOVES,0.5,2002
-1735,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2002
-1735,Tip Shot,2PT Field Goal,3,2,Tip Shot,TIP_SHOTS,0.6666666666666666,2002
-1735,Driving Dunk,2PT Field Goal,2,2,Driving Dunk Shot,DUNKS,1.0,2003
-1735,Driving Layup,2PT Field Goal,4,1,Driving Layup Shot,LAYUPS,0.25,2003
-1735,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,2003
-1735,Finger Roll,2PT Field Goal,1,1,Finger Roll Shot,LAYUPS,1.0,2003
-1735,Hook Shot,2PT Field Goal,19,10,Hook Shot,POST_MOVES,0.5263157894736842,2003
-1735,Hook Shot,2PT Field Goal,1,0,Jump Hook Shot,POST_MOVES,0.0,2003
-1735,Jump Shot,2PT Field Goal,55,18,Jump Shot,JUMP_SHOTS,0.3272727272727272,2003
-1735,Standard Layup,2PT Field Goal,50,22,Layup Shot,LAYUPS,0.44,2003
-1735,Reverse Layup,2PT Field Goal,3,3,Reverse Layup Shot,LAYUPS,1.0,2003
-1735,Running Hook Shot,2PT Field Goal,1,0,Running Hook Shot,POST_MOVES,0.0,2003
-1735,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2003
-1735,Standard Dunk,2PT Field Goal,4,4,Slam Dunk Shot,DUNKS,1.0,2003
-1735,Tip Shot,2PT Field Goal,11,5,Tip Shot,TIP_SHOTS,0.4545454545454545,2003
-1735,Turnaround Jump Shot,2PT Field Goal,2,2,Turnaround Jump Shot,JUMP_SHOTS,1.0,2003
-1735,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2004
-1735,Standard Dunk,2PT Field Goal,1,0,Dunk Shot,DUNKS,0.0,2004
-1735,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2004
-1735,Hook Shot,2PT Field Goal,1,1,Hook Bank Shot,POST_MOVES,1.0,2004
-1735,Hook Shot,2PT Field Goal,5,1,Hook Shot,POST_MOVES,0.2,2004
-1735,Jump Shot,2PT Field Goal,26,4,Jump Shot,JUMP_SHOTS,0.1538461538461538,2004
-1735,Standard Layup,2PT Field Goal,29,17,Layup Shot,LAYUPS,0.5862068965517241,2004
-1735,Running Hook Shot,2PT Field Goal,1,1,Running Hook Shot,POST_MOVES,1.0,2004
-1735,Tip Shot,2PT Field Goal,3,2,Tip Shot,TIP_SHOTS,0.6666666666666666,2004
-1735,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2004
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Vladimir Stepania,1735,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,1999
+Vladimir Stepania,1735,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,1999
+Vladimir Stepania,1735,Standard Dunk,2,5,4,Dunk Shot,DUNKS,,1999
+Vladimir Stepania,1735,Hook Shot,2,8,3,Hook Shot,POST_MOVES,,1999
+Vladimir Stepania,1735,Jump Shot,2,76,22,Jump Shot,JUMP_SHOTS,,1999
+Vladimir Stepania,1735,Standard Layup,2,18,11,Layup Shot,LAYUPS,,1999
+Vladimir Stepania,1735,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,1999
+Vladimir Stepania,1735,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,1999
+Vladimir Stepania,1735,Tip Shot,2,8,4,Tip Shot,TIP_SHOTS,,1999
+Vladimir Stepania,1735,Driving Layup,2,3,2,Driving Layup Shot,LAYUPS,,2000
+Vladimir Stepania,1735,Hook Shot,2,8,4,Hook Shot,POST_MOVES,,2000
+Vladimir Stepania,1735,Jump Shot,2,46,10,Jump Shot,JUMP_SHOTS,,2000
+Vladimir Stepania,1735,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,2000
+Vladimir Stepania,1735,Standard Layup,2,14,8,Layup Shot,LAYUPS,,2000
+Vladimir Stepania,1735,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2000
+Vladimir Stepania,1735,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2000
+Vladimir Stepania,1735,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2001
+Vladimir Stepania,1735,Finger Roll,2,1,0,Driving Finger Roll Shot,LAYUPS,,2001
+Vladimir Stepania,1735,Driving Layup,2,5,3,Driving Layup Shot,LAYUPS,,2001
+Vladimir Stepania,1735,Standard Dunk,2,3,2,Dunk Shot,DUNKS,,2001
+Vladimir Stepania,1735,Hook Shot,2,9,3,Hook Shot,POST_MOVES,,2001
+Vladimir Stepania,1735,Jump Shot,2,39,9,Jump Shot,JUMP_SHOTS,,2001
+Vladimir Stepania,1735,Standard Layup,2,25,9,Layup Shot,LAYUPS,,2001
+Vladimir Stepania,1735,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,,2001
+Vladimir Stepania,1735,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Vladimir Stepania,1735,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2002
+Vladimir Stepania,1735,Driving Dunk,2,3,2,Driving Dunk Shot,DUNKS,,2002
+Vladimir Stepania,1735,Driving Layup,2,9,7,Driving Layup Shot,LAYUPS,,2002
+Vladimir Stepania,1735,Standard Dunk,2,10,9,Dunk Shot,DUNKS,,2002
+Vladimir Stepania,1735,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Vladimir Stepania,1735,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2002
+Vladimir Stepania,1735,Hook Shot,2,33,13,Hook Shot,POST_MOVES,,2002
+Vladimir Stepania,1735,Hook Shot,2,2,1,Jump Hook Shot,POST_MOVES,,2002
+Vladimir Stepania,1735,Jump Shot,2,96,27,Jump Shot,JUMP_SHOTS,,2002
+Vladimir Stepania,1735,Jump Shot,3,1,1,Jump Shot,JUMP_SHOTS,,2002
+Vladimir Stepania,1735,Standard Layup,2,60,32,Layup Shot,LAYUPS,,2002
+Vladimir Stepania,1735,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2002
+Vladimir Stepania,1735,Running Hook Shot,2,7,6,Running Hook Shot,POST_MOVES,,2002
+Vladimir Stepania,1735,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2002
+Vladimir Stepania,1735,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2002
+Vladimir Stepania,1735,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2002
+Vladimir Stepania,1735,Tip Shot,2,13,10,Tip Shot,TIP_SHOTS,,2002
+Vladimir Stepania,1735,Turnaround Hook Shot,2,2,2,Turnaround Hook Shot,POST_MOVES,,2002
+Vladimir Stepania,1735,Turnaround Jump Shot,2,5,2,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Vladimir Stepania,1735,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2003
+Vladimir Stepania,1735,Driving Layup,2,9,3,Driving Layup Shot,LAYUPS,,2003
+Vladimir Stepania,1735,Standard Dunk,2,15,12,Dunk Shot,DUNKS,,2003
+Vladimir Stepania,1735,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2003
+Vladimir Stepania,1735,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2003
+Vladimir Stepania,1735,Hook Shot,2,58,25,Hook Shot,POST_MOVES,,2003
+Vladimir Stepania,1735,Hook Shot,2,4,2,Jump Hook Shot,POST_MOVES,,2003
+Vladimir Stepania,1735,Jump Shot,2,150,40,Jump Shot,JUMP_SHOTS,,2003
+Vladimir Stepania,1735,Standard Layup,2,128,64,Layup Shot,LAYUPS,,2003
+Vladimir Stepania,1735,Reverse Dunk,2,2,2,Reverse Dunk Shot,DUNKS,,2003
+Vladimir Stepania,1735,Reverse Layup,2,6,5,Reverse Layup Shot,LAYUPS,,2003
+Vladimir Stepania,1735,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2003
+Vladimir Stepania,1735,Finger Roll,2,1,1,Running Finger Roll Shot,LAYUPS,,2003
+Vladimir Stepania,1735,Running Hook Shot,2,2,0,Running Hook Shot,POST_MOVES,,2003
+Vladimir Stepania,1735,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2003
+Vladimir Stepania,1735,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2003
+Vladimir Stepania,1735,Tip Shot,2,34,18,Tip Shot,TIP_SHOTS,,2003
+Vladimir Stepania,1735,Turnaround Jump Shot,2,6,3,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Vladimir Stepania,1735,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2004
+Vladimir Stepania,1735,Driving Layup,2,3,2,Driving Layup Shot,LAYUPS,,2004
+Vladimir Stepania,1735,Standard Dunk,2,3,2,Dunk Shot,DUNKS,,2004
+Vladimir Stepania,1735,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Vladimir Stepania,1735,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2004
+Vladimir Stepania,1735,Hook Shot,2,10,2,Hook Shot,POST_MOVES,,2004
+Vladimir Stepania,1735,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2004
+Vladimir Stepania,1735,Jump Shot,2,32,7,Jump Shot,JUMP_SHOTS,,2004
+Vladimir Stepania,1735,Standard Layup,2,37,21,Layup Shot,LAYUPS,,2004
+Vladimir Stepania,1735,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2004
+Vladimir Stepania,1735,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2004
+Vladimir Stepania,1735,Tip Shot,2,8,4,Tip Shot,TIP_SHOTS,,2004
+Vladimir Stepania,1735,Turnaround Jump Shot,2,3,0,Turnaround Jump Shot,JUMP_SHOTS,,2004

@@ -1,50 +1,383 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-202692,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2017
-202692,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2017
-202692,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2017
-202692,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2017
-202692,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2017
-202692,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2017
-202692,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.0,2019
-202692,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2019
-202692,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2019
-202692,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2021
-202692,Standard Layup,2PT Field Goal,2,1,Cutting Layup Shot,LAYUPS,0.5,2024
-202692,Finger Roll,2PT Field Goal,7,2,Driving Finger Roll Layup Shot,LAYUPS,0.2857142857142857,2024
-202692,Floating Jump Shot,2PT Field Goal,8,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.125,2024
-202692,Floating Jump Shot,2PT Field Goal,19,1,Driving Floating Jump Shot,FLOATING_SHOTS,0.0526315789473684,2024
-202692,Driving Layup,2PT Field Goal,24,10,Driving Layup Shot,LAYUPS,0.4166666666666667,2024
-202692,Driving Layup,2PT Field Goal,4,2,Driving Reverse Layup Shot,LAYUPS,0.5,2024
-202692,Fadeaway Jump Shot,2PT Field Goal,3,3,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2024
-202692,Fadeaway Jump Shot,3PT Field Goal,5,1,Fadeaway Jump Shot,JUMP_SHOTS,0.3,2024
-202692,Floating Jump Shot,2PT Field Goal,5,2,Floating Jump shot,FLOATING_SHOTS,0.4,2024
-202692,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2024
-202692,Jump Shot,2PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.3333333333333333,2024
-202692,Jump Shot,3PT Field Goal,165,66,Jump Shot,JUMP_SHOTS,0.6,2024
-202692,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2024
-202692,Pullup Jump Shot,2PT Field Goal,55,23,Pullup Jump shot,JUMP_SHOTS,0.4181818181818181,2024
-202692,Pullup Jump Shot,3PT Field Goal,53,19,Pullup Jump shot,JUMP_SHOTS,0.5377358490566038,2024
-202692,Putback Layup,2PT Field Goal,2,2,Putback Layup Shot,LAYUPS,1.0,2024
-202692,Reverse Layup,2PT Field Goal,4,2,Reverse Layup Shot,LAYUPS,0.5,2024
-202692,Finger Roll,2PT Field Goal,1,0,Running Finger Roll Layup Shot,LAYUPS,0.0,2024
-202692,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2024
-202692,Running Jump Shot,3PT Field Goal,17,7,Running Jump Shot,JUMP_SHOTS,0.6176470588235294,2024
-202692,Standard Layup,2PT Field Goal,4,1,Running Layup Shot,LAYUPS,0.25,2024
-202692,Running Jump Shot,3PT Field Goal,7,2,Running Pull-Up Jump Shot,JUMP_SHOTS,0.4285714285714285,2024
-202692,Reverse Layup,2PT Field Goal,1,1,Running Reverse Layup Shot,LAYUPS,1.0,2024
-202692,Step Back Jump Shot,2PT Field Goal,4,1,Step Back Jump shot,JUMP_SHOTS,0.25,2024
-202692,Step Back Jump Shot,3PT Field Goal,12,5,Step Back Jump shot,JUMP_SHOTS,0.625,2024
-202692,Putback Layup,2PT Field Goal,3,2,Tip Layup Shot,LAYUPS,0.6666666666666666,2024
-202692,Turnaround Jump Shot,2PT Field Goal,2,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2024
-202692,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2024
-202692,Turnaround Jump Shot,2PT Field Goal,7,4,Turnaround Jump Shot,JUMP_SHOTS,0.5714285714285714,2024
-202692,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2025
-202692,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.0,2025
-202692,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2025
-202692,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2025
-202692,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2025
-202692,Jump Shot,3PT Field Goal,11,4,Jump Shot,JUMP_SHOTS,0.5454545454545454,2025
-202692,Pullup Jump Shot,2PT Field Goal,4,2,Pullup Jump shot,JUMP_SHOTS,0.5,2025
-202692,Pullup Jump Shot,3PT Field Goal,2,1,Pullup Jump shot,JUMP_SHOTS,0.75,2025
-202692,Step Back Jump Shot,2PT Field Goal,2,1,Step Back Jump shot,JUMP_SHOTS,0.5,2025
-202692,Step Back Jump Shot,3PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.5,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Alec Burks,202692,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2012
+Alec Burks,202692,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2012
+Alec Burks,202692,Driving Jump Shot,2,3,1,Driving Jump shot,JUMP_SHOTS,,2012
+Alec Burks,202692,Driving Layup,2,20,18,Driving Layup Shot,LAYUPS,,2012
+Alec Burks,202692,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2012
+Alec Burks,202692,Standard Dunk,2,5,5,Dunk Shot,DUNKS,,2012
+Alec Burks,202692,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Alec Burks,202692,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2012
+Alec Burks,202692,Floating Jump Shot,2,2,0,Floating Jump shot,FLOATING_SHOTS,,2012
+Alec Burks,202692,Jump Shot,2,3,1,Jump Bank Shot,JUMP_SHOTS,,2012
+Alec Burks,202692,Jump Shot,2,184,51,Jump Shot,JUMP_SHOTS,,2012
+Alec Burks,202692,Standard Layup,2,63,30,Layup Shot,LAYUPS,,2012
+Alec Burks,202692,Pullup Jump Shot,2,4,1,Pullup Jump shot,JUMP_SHOTS,,2012
+Alec Burks,202692,Putback Dunk,2,4,3,Putback Dunk Shot,DUNKS,,2012
+Alec Burks,202692,Putback Layup,2,3,3,Putback Layup Shot,LAYUPS,,2012
+Alec Burks,202692,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2012
+Alec Burks,202692,Reverse Layup,2,11,5,Reverse Layup Shot,LAYUPS,,2012
+Alec Burks,202692,Running Jump Shot,2,20,9,Running Jump Shot,JUMP_SHOTS,,2012
+Alec Burks,202692,Standard Layup,2,3,1,Running Layup Shot,LAYUPS,,2012
+Alec Burks,202692,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2012
+Alec Burks,202692,Standard Dunk,2,7,7,Slam Dunk Shot,DUNKS,,2012
+Alec Burks,202692,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2012
+Alec Burks,202692,Tip Shot,2,11,7,Tip Shot,TIP_SHOTS,,2012
+Alec Burks,202692,Turnaround Jump Shot,2,3,2,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Alec Burks,202692,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2013
+Alec Burks,202692,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2013
+Alec Burks,202692,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2013
+Alec Burks,202692,Finger Roll,2,4,2,Driving Finger Roll Layup Shot,LAYUPS,,2013
+Alec Burks,202692,Driving Jump Shot,2,2,1,Driving Jump shot,JUMP_SHOTS,,2013
+Alec Burks,202692,Driving Layup,2,30,23,Driving Layup Shot,LAYUPS,,2013
+Alec Burks,202692,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2013
+Alec Burks,202692,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2013
+Alec Burks,202692,Standard Dunk,2,8,8,Dunk Shot,DUNKS,,2013
+Alec Burks,202692,Finger Roll,2,2,1,Finger Roll Layup Shot,LAYUPS,,2013
+Alec Burks,202692,Floating Jump Shot,2,2,0,Floating Jump shot,FLOATING_SHOTS,,2013
+Alec Burks,202692,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2013
+Alec Burks,202692,Jump Shot,2,230,73,Jump Shot,JUMP_SHOTS,,2013
+Alec Burks,202692,Standard Layup,2,47,17,Layup Shot,LAYUPS,,2013
+Alec Burks,202692,Pullup Jump Shot,2,11,5,Pullup Jump shot,JUMP_SHOTS,,2013
+Alec Burks,202692,Reverse Layup,2,5,4,Reverse Layup Shot,LAYUPS,,2013
+Alec Burks,202692,Reverse Dunk,2,1,1,Reverse Slam Dunk Shot,DUNKS,,2013
+Alec Burks,202692,Running Hook Shot,2,1,1,Running Bank Hook Shot,POST_MOVES,,2013
+Alec Burks,202692,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2013
+Alec Burks,202692,Running Jump Shot,2,17,8,Running Jump Shot,JUMP_SHOTS,,2013
+Alec Burks,202692,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2013
+Alec Burks,202692,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2013
+Alec Burks,202692,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,2013
+Alec Burks,202692,Tip Shot,2,9,3,Tip Shot,TIP_SHOTS,,2013
+Alec Burks,202692,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Alec Burks,202692,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2014
+Alec Burks,202692,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2014
+Alec Burks,202692,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2014
+Alec Burks,202692,Driving Dunk,2,3,2,Driving Dunk Shot,DUNKS,,2014
+Alec Burks,202692,Finger Roll,2,5,4,Driving Finger Roll Layup Shot,LAYUPS,,2014
+Alec Burks,202692,Driving Jump Shot,2,17,5,Driving Jump shot,JUMP_SHOTS,,2014
+Alec Burks,202692,Driving Layup,2,93,69,Driving Layup Shot,LAYUPS,,2014
+Alec Burks,202692,Driving Layup,2,7,4,Driving Reverse Layup Shot,LAYUPS,,2014
+Alec Burks,202692,Driving Dunk,2,2,1,Driving Slam Dunk Shot,DUNKS,,2014
+Alec Burks,202692,Standard Dunk,2,10,9,Dunk Shot,DUNKS,,2014
+Alec Burks,202692,Fadeaway Jump Shot,2,9,5,Fadeaway Jump Shot,JUMP_SHOTS,,2014
+Alec Burks,202692,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2014
+Alec Burks,202692,Floating Jump Shot,2,12,6,Floating Jump shot,FLOATING_SHOTS,,2014
+Alec Burks,202692,Jump Shot,2,10,8,Jump Bank Shot,JUMP_SHOTS,,2014
+Alec Burks,202692,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2014
+Alec Burks,202692,Jump Shot,2,396,118,Jump Shot,JUMP_SHOTS,,2014
+Alec Burks,202692,Standard Layup,2,103,47,Layup Shot,LAYUPS,,2014
+Alec Burks,202692,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2014
+Alec Burks,202692,Pullup Jump Shot,2,19,13,Pullup Jump shot,JUMP_SHOTS,,2014
+Alec Burks,202692,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2014
+Alec Burks,202692,Reverse Layup,2,29,19,Reverse Layup Shot,LAYUPS,,2014
+Alec Burks,202692,Running Jump Shot,2,12,9,Running Bank shot,JUMP_SHOTS,,2014
+Alec Burks,202692,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2014
+Alec Burks,202692,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2014
+Alec Burks,202692,Running Jump Shot,2,47,18,Running Jump Shot,JUMP_SHOTS,,2014
+Alec Burks,202692,Standard Layup,2,11,8,Running Layup Shot,LAYUPS,,2014
+Alec Burks,202692,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2014
+Alec Burks,202692,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2014
+Alec Burks,202692,Standard Dunk,2,13,13,Slam Dunk Shot,DUNKS,,2014
+Alec Burks,202692,Step Back Jump Shot,2,7,4,Step Back Jump shot,JUMP_SHOTS,,2014
+Alec Burks,202692,Tip Shot,2,8,3,Tip Shot,TIP_SHOTS,,2014
+Alec Burks,202692,Turnaround Jump Shot,2,1,0,Turnaround Bank shot,JUMP_SHOTS,,2014
+Alec Burks,202692,Turnaround Jump Shot,2,4,3,Turnaround Jump Shot,JUMP_SHOTS,,2014
+Alec Burks,202692,Driving Jump Shot,2,2,2,Driving Bank shot,JUMP_SHOTS,,2015
+Alec Burks,202692,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2015
+Alec Burks,202692,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2015
+Alec Burks,202692,Driving Jump Shot,2,3,1,Driving Jump shot,JUMP_SHOTS,,2015
+Alec Burks,202692,Driving Layup,2,32,19,Driving Layup Shot,LAYUPS,,2015
+Alec Burks,202692,Driving Layup,2,6,5,Driving Reverse Layup Shot,LAYUPS,,2015
+Alec Burks,202692,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2015
+Alec Burks,202692,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,2015
+Alec Burks,202692,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2015
+Alec Burks,202692,Fadeaway Jump Shot,2,3,1,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+Alec Burks,202692,Floating Jump Shot,2,4,0,Floating Jump shot,FLOATING_SHOTS,,2015
+Alec Burks,202692,Jump Shot,2,3,3,Jump Bank Shot,JUMP_SHOTS,,2015
+Alec Burks,202692,Jump Shot,2,161,49,Jump Shot,JUMP_SHOTS,,2015
+Alec Burks,202692,Standard Layup,2,32,6,Layup Shot,LAYUPS,,2015
+Alec Burks,202692,Pullup Jump Shot,2,12,5,Pullup Jump shot,JUMP_SHOTS,,2015
+Alec Burks,202692,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2015
+Alec Burks,202692,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2015
+Alec Burks,202692,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2015
+Alec Burks,202692,Running Hook Shot,2,1,1,Running Bank Hook Shot,POST_MOVES,,2015
+Alec Burks,202692,Running Jump Shot,2,6,6,Running Bank shot,JUMP_SHOTS,,2015
+Alec Burks,202692,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2015
+Alec Burks,202692,Running Jump Shot,2,14,5,Running Jump Shot,JUMP_SHOTS,,2015
+Alec Burks,202692,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2015
+Alec Burks,202692,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2015
+Alec Burks,202692,Step Back Jump Shot,2,2,2,Step Back Jump shot,JUMP_SHOTS,,2015
+Alec Burks,202692,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,,2015
+Alec Burks,202692,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2015
+Alec Burks,202692,Driving Jump Shot,2,8,6,Driving Bank shot,JUMP_SHOTS,,2016
+Alec Burks,202692,Driving Dunk,2,5,5,Driving Dunk Shot,DUNKS,,2016
+Alec Burks,202692,Finger Roll,2,3,3,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Alec Burks,202692,Floating Jump Shot,2,1,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Alec Burks,202692,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2016
+Alec Burks,202692,Driving Layup,2,38,22,Driving Layup Shot,LAYUPS,,2016
+Alec Burks,202692,Driving Layup,2,8,6,Driving Reverse Layup Shot,LAYUPS,,2016
+Alec Burks,202692,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2016
+Alec Burks,202692,Fadeaway Jump Shot,2,5,1,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Alec Burks,202692,Floating Jump Shot,2,10,5,Floating Jump shot,FLOATING_SHOTS,,2016
+Alec Burks,202692,Jump Shot,2,10,4,Jump Bank Shot,JUMP_SHOTS,,2016
+Alec Burks,202692,Jump Shot,2,158,43,Jump Shot,JUMP_SHOTS,,2016
+Alec Burks,202692,Standard Layup,2,16,3,Layup Shot,LAYUPS,,2016
+Alec Burks,202692,Pullup Jump Shot,2,27,14,Pullup Jump shot,JUMP_SHOTS,,2016
+Alec Burks,202692,Reverse Layup,2,7,5,Reverse Layup Shot,LAYUPS,,2016
+Alec Burks,202692,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2016
+Alec Burks,202692,Running Jump Shot,2,6,0,Running Jump Shot,JUMP_SHOTS,,2016
+Alec Burks,202692,Standard Layup,2,11,7,Running Layup Shot,LAYUPS,,2016
+Alec Burks,202692,Running Jump Shot,2,2,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2016
+Alec Burks,202692,Step Back Jump Shot,2,8,6,Step Back Jump shot,JUMP_SHOTS,,2016
+Alec Burks,202692,Putback Layup,2,2,0,Tip Layup Shot,LAYUPS,,2016
+Alec Burks,202692,Turnaround Jump Shot,2,4,1,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Alec Burks,202692,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2017
+Alec Burks,202692,Specialty Dunk,2,1,0,Cutting Dunk Shot,DUNKS,,2017
+Alec Burks,202692,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2017
+Alec Burks,202692,Driving Jump Shot,2,1,0,Driving Bank shot,JUMP_SHOTS,,2017
+Alec Burks,202692,Driving Dunk,2,1,0,Driving Dunk Shot,DUNKS,,2017
+Alec Burks,202692,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Alec Burks,202692,Floating Jump Shot,2,13,8,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2017
+Alec Burks,202692,Floating Jump Shot,2,6,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Alec Burks,202692,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2017
+Alec Burks,202692,Driving Layup,2,24,9,Driving Layup Shot,LAYUPS,,2017
+Alec Burks,202692,Driving Layup,2,5,1,Driving Reverse Layup Shot,LAYUPS,,2017
+Alec Burks,202692,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2017
+Alec Burks,202692,Fadeaway Jump Shot,2,4,3,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Alec Burks,202692,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2017
+Alec Burks,202692,Floating Jump Shot,2,8,4,Floating Jump shot,FLOATING_SHOTS,,2017
+Alec Burks,202692,Jump Shot,2,3,1,Jump Bank Shot,JUMP_SHOTS,,2017
+Alec Burks,202692,Jump Shot,2,96,28,Jump Shot,JUMP_SHOTS,,2017
+Alec Burks,202692,Jump Shot,3,7,2,Jump Shot,JUMP_SHOTS,,2017
+Alec Burks,202692,Standard Layup,2,15,5,Layup Shot,LAYUPS,,2017
+Alec Burks,202692,Pullup Jump Shot,2,32,18,Pullup Jump shot,JUMP_SHOTS,,2017
+Alec Burks,202692,Putback Dunk,2,1,0,Putback Dunk Shot,DUNKS,,2017
+Alec Burks,202692,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2017
+Alec Burks,202692,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2017
+Alec Burks,202692,Finger Roll,2,1,0,Running Finger Roll Layup Shot,LAYUPS,,2017
+Alec Burks,202692,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2017
+Alec Burks,202692,Standard Layup,2,10,6,Running Layup Shot,LAYUPS,,2017
+Alec Burks,202692,Running Jump Shot,2,2,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2017
+Alec Burks,202692,Step Back Jump Shot,2,2,0,Step Back Jump shot,JUMP_SHOTS,,2017
+Alec Burks,202692,Putback Layup,2,2,0,Tip Layup Shot,LAYUPS,,2017
+Alec Burks,202692,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Alec Burks,202692,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2018
+Alec Burks,202692,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2018
+Alec Burks,202692,Specialty Dunk,2,3,3,Cutting Dunk Shot,DUNKS,,2018
+Alec Burks,202692,Standard Layup,2,6,4,Cutting Layup Shot,LAYUPS,,2018
+Alec Burks,202692,Driving Dunk,2,6,5,Driving Dunk Shot,DUNKS,,2018
+Alec Burks,202692,Finger Roll,2,5,3,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Alec Burks,202692,Floating Jump Shot,2,13,6,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Alec Burks,202692,Floating Jump Shot,2,18,8,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Alec Burks,202692,Driving Layup,2,53,18,Driving Layup Shot,LAYUPS,,2018
+Alec Burks,202692,Driving Layup,2,13,9,Driving Reverse Layup Shot,LAYUPS,,2018
+Alec Burks,202692,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2018
+Alec Burks,202692,Fadeaway Jump Shot,2,6,1,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+Alec Burks,202692,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2018
+Alec Burks,202692,Floating Jump Shot,2,17,8,Floating Jump shot,FLOATING_SHOTS,,2018
+Alec Burks,202692,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2018
+Alec Burks,202692,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2018
+Alec Burks,202692,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2018
+Alec Burks,202692,Jump Shot,2,130,42,Jump Shot,JUMP_SHOTS,,2018
+Alec Burks,202692,Standard Layup,2,16,6,Layup Shot,LAYUPS,,2018
+Alec Burks,202692,Pullup Jump Shot,2,77,30,Pullup Jump shot,JUMP_SHOTS,,2018
+Alec Burks,202692,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2018
+Alec Burks,202692,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2018
+Alec Burks,202692,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2018
+Alec Burks,202692,Standard Dunk,2,4,4,Running Dunk Shot,DUNKS,,2018
+Alec Burks,202692,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2018
+Alec Burks,202692,Standard Layup,2,10,7,Running Layup Shot,LAYUPS,,2018
+Alec Burks,202692,Running Jump Shot,2,3,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2018
+Alec Burks,202692,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2018
+Alec Burks,202692,Step Back Jump Shot,2,9,2,Step Back Jump shot,JUMP_SHOTS,,2018
+Alec Burks,202692,Putback Layup,2,2,1,Tip Layup Shot,LAYUPS,,2018
+Alec Burks,202692,Turnaround Jump Shot,2,3,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2018
+Alec Burks,202692,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2018
+Alec Burks,202692,Turnaround Jump Shot,2,3,0,Turnaround Jump Shot,JUMP_SHOTS,,2018
+Alec Burks,202692,Specialty Dunk,2,4,4,Cutting Dunk Shot,DUNKS,,2019
+Alec Burks,202692,Standard Layup,2,12,10,Cutting Layup Shot,LAYUPS,,2019
+Alec Burks,202692,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2019
+Alec Burks,202692,Finger Roll,2,15,10,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Alec Burks,202692,Floating Jump Shot,2,8,3,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Alec Burks,202692,Floating Jump Shot,2,20,7,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Alec Burks,202692,Driving Layup,2,62,30,Driving Layup Shot,LAYUPS,,2019
+Alec Burks,202692,Driving Layup,2,12,7,Driving Reverse Layup Shot,LAYUPS,,2019
+Alec Burks,202692,Fadeaway Jump Shot,2,8,3,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+Alec Burks,202692,Finger Roll,2,4,2,Finger Roll Layup Shot,LAYUPS,,2019
+Alec Burks,202692,Floating Jump Shot,2,16,5,Floating Jump shot,FLOATING_SHOTS,,2019
+Alec Burks,202692,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2019
+Alec Burks,202692,Jump Shot,2,169,58,Jump Shot,JUMP_SHOTS,,2019
+Alec Burks,202692,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,2019
+Alec Burks,202692,Standard Layup,2,23,7,Layup Shot,LAYUPS,,2019
+Alec Burks,202692,Pullup Jump Shot,2,48,15,Pullup Jump shot,JUMP_SHOTS,,2019
+Alec Burks,202692,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2019
+Alec Burks,202692,Reverse Layup,2,6,2,Reverse Layup Shot,LAYUPS,,2019
+Alec Burks,202692,Standard Dunk,2,4,4,Running Dunk Shot,DUNKS,,2019
+Alec Burks,202692,Finger Roll,2,2,1,Running Finger Roll Layup Shot,LAYUPS,,2019
+Alec Burks,202692,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2019
+Alec Burks,202692,Standard Layup,2,6,3,Running Layup Shot,LAYUPS,,2019
+Alec Burks,202692,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2019
+Alec Burks,202692,Step Back Jump Shot,2,17,5,Step Back Jump shot,JUMP_SHOTS,,2019
+Alec Burks,202692,Specialty Dunk,2,1,0,Tip Dunk Shot,DUNKS,,2019
+Alec Burks,202692,Putback Layup,2,6,4,Tip Layup Shot,LAYUPS,,2019
+Alec Burks,202692,Turnaround Jump Shot,2,2,2,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2019
+Alec Burks,202692,Turnaround Jump Shot,2,6,3,Turnaround Fadeaway shot,JUMP_SHOTS,,2019
+Alec Burks,202692,Turnaround Jump Shot,2,11,0,Turnaround Jump Shot,JUMP_SHOTS,,2019
+Alec Burks,202692,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2020
+Alec Burks,202692,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2020
+Alec Burks,202692,Finger Roll,2,2,1,Cutting Finger Roll Layup Shot,LAYUPS,,2020
+Alec Burks,202692,Standard Layup,2,9,5,Cutting Layup Shot,LAYUPS,,2020
+Alec Burks,202692,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2020
+Alec Burks,202692,Finger Roll,2,20,10,Driving Finger Roll Layup Shot,LAYUPS,,2020
+Alec Burks,202692,Floating Jump Shot,2,11,7,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2020
+Alec Burks,202692,Floating Jump Shot,2,45,18,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Alec Burks,202692,Driving Hook Shot,2,3,0,Driving Hook Shot,POST_MOVES,,2020
+Alec Burks,202692,Driving Layup,2,90,32,Driving Layup Shot,LAYUPS,,2020
+Alec Burks,202692,Driving Layup,2,15,7,Driving Reverse Layup Shot,LAYUPS,,2020
+Alec Burks,202692,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2020
+Alec Burks,202692,Fadeaway Jump Shot,2,16,10,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+Alec Burks,202692,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2020
+Alec Burks,202692,Floating Jump Shot,2,16,6,Floating Jump shot,FLOATING_SHOTS,,2020
+Alec Burks,202692,Jump Shot,2,2,0,Jump Bank Shot,JUMP_SHOTS,,2020
+Alec Burks,202692,Jump Shot,2,236,73,Jump Shot,JUMP_SHOTS,,2020
+Alec Burks,202692,Standard Layup,2,36,16,Layup Shot,LAYUPS,,2020
+Alec Burks,202692,Pullup Jump Shot,2,142,74,Pullup Jump shot,JUMP_SHOTS,,2020
+Alec Burks,202692,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2020
+Alec Burks,202692,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2020
+Alec Burks,202692,Reverse Layup,2,5,1,Reverse Layup Shot,LAYUPS,,2020
+Alec Burks,202692,Standard Dunk,2,5,5,Running Dunk Shot,DUNKS,,2020
+Alec Burks,202692,Finger Roll,2,4,3,Running Finger Roll Layup Shot,LAYUPS,,2020
+Alec Burks,202692,Running Jump Shot,2,9,4,Running Jump Shot,JUMP_SHOTS,,2020
+Alec Burks,202692,Standard Layup,2,18,10,Running Layup Shot,LAYUPS,,2020
+Alec Burks,202692,Running Jump Shot,2,7,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2020
+Alec Burks,202692,Step Back Jump Shot,2,26,9,Step Back Jump shot,JUMP_SHOTS,,2020
+Alec Burks,202692,Putback Layup,2,5,2,Tip Layup Shot,LAYUPS,,2020
+Alec Burks,202692,Turnaround Jump Shot,2,6,4,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2020
+Alec Burks,202692,Turnaround Jump Shot,2,17,7,Turnaround Fadeaway shot,JUMP_SHOTS,,2020
+Alec Burks,202692,Turnaround Jump Shot,2,13,6,Turnaround Jump Shot,JUMP_SHOTS,,2020
+Alec Burks,202692,Standard Layup,2,7,5,Cutting Layup Shot,LAYUPS,,2021
+Alec Burks,202692,Finger Roll,2,11,7,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Alec Burks,202692,Floating Jump Shot,2,6,4,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2021
+Alec Burks,202692,Floating Jump Shot,2,25,7,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Alec Burks,202692,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2021
+Alec Burks,202692,Driving Layup,2,50,20,Driving Layup Shot,LAYUPS,,2021
+Alec Burks,202692,Driving Layup,2,5,2,Driving Reverse Layup Shot,LAYUPS,,2021
+Alec Burks,202692,Fadeaway Jump Shot,2,4,2,Fadeaway Jump Shot,JUMP_SHOTS,,2021
+Alec Burks,202692,Floating Jump Shot,2,13,6,Floating Jump shot,FLOATING_SHOTS,,2021
+Alec Burks,202692,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2021
+Alec Burks,202692,Jump Shot,2,214,83,Jump Shot,JUMP_SHOTS,,2021
+Alec Burks,202692,Jump Shot,3,2,1,Jump Shot,JUMP_SHOTS,,2021
+Alec Burks,202692,Standard Layup,2,11,4,Layup Shot,LAYUPS,,2021
+Alec Burks,202692,Pullup Jump Shot,2,96,40,Pullup Jump shot,JUMP_SHOTS,,2021
+Alec Burks,202692,Putback Layup,2,4,4,Putback Layup Shot,LAYUPS,,2021
+Alec Burks,202692,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2021
+Alec Burks,202692,Running Jump Shot,2,4,1,Running Jump Shot,JUMP_SHOTS,,2021
+Alec Burks,202692,Standard Layup,2,8,2,Running Layup Shot,LAYUPS,,2021
+Alec Burks,202692,Running Jump Shot,2,2,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2021
+Alec Burks,202692,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2021
+Alec Burks,202692,Step Back Jump Shot,2,16,10,Step Back Jump shot,JUMP_SHOTS,,2021
+Alec Burks,202692,Putback Layup,2,3,1,Tip Layup Shot,LAYUPS,,2021
+Alec Burks,202692,Turnaround Jump Shot,2,8,4,Turnaround Fadeaway shot,JUMP_SHOTS,,2021
+Alec Burks,202692,Turnaround Jump Shot,2,6,2,Turnaround Jump Shot,JUMP_SHOTS,,2021
+Alec Burks,202692,Finger Roll,2,2,2,Cutting Finger Roll Layup Shot,LAYUPS,,2022
+Alec Burks,202692,Standard Layup,2,4,1,Cutting Layup Shot,LAYUPS,,2022
+Alec Burks,202692,Finger Roll,2,21,9,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Alec Burks,202692,Floating Jump Shot,2,16,8,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Alec Burks,202692,Floating Jump Shot,2,40,17,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Alec Burks,202692,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2022
+Alec Burks,202692,Driving Layup,2,61,19,Driving Layup Shot,LAYUPS,,2022
+Alec Burks,202692,Driving Layup,2,13,7,Driving Reverse Layup Shot,LAYUPS,,2022
+Alec Burks,202692,Fadeaway Jump Shot,2,16,2,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Alec Burks,202692,Floating Jump Shot,2,13,4,Floating Jump shot,FLOATING_SHOTS,,2022
+Alec Burks,202692,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2022
+Alec Burks,202692,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2022
+Alec Burks,202692,Jump Shot,2,313,119,Jump Shot,JUMP_SHOTS,,2022
+Alec Burks,202692,Standard Layup,2,9,0,Layup Shot,LAYUPS,,2022
+Alec Burks,202692,Pullup Jump Shot,2,119,46,Pullup Jump shot,JUMP_SHOTS,,2022
+Alec Burks,202692,Putback Layup,2,4,3,Putback Layup Shot,LAYUPS,,2022
+Alec Burks,202692,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2022
+Alec Burks,202692,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2022
+Alec Burks,202692,Finger Roll,2,1,0,Running Finger Roll Layup Shot,LAYUPS,,2022
+Alec Burks,202692,Running Jump Shot,2,11,7,Running Jump Shot,JUMP_SHOTS,,2022
+Alec Burks,202692,Standard Layup,2,11,4,Running Layup Shot,LAYUPS,,2022
+Alec Burks,202692,Running Jump Shot,2,2,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
+Alec Burks,202692,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2022
+Alec Burks,202692,Step Back Jump Shot,2,24,10,Step Back Jump shot,JUMP_SHOTS,,2022
+Alec Burks,202692,Putback Layup,2,2,1,Tip Layup Shot,LAYUPS,,2022
+Alec Burks,202692,Turnaround Jump Shot,2,3,2,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2022
+Alec Burks,202692,Turnaround Jump Shot,2,13,5,Turnaround Fadeaway shot,JUMP_SHOTS,,2022
+Alec Burks,202692,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2022
+Alec Burks,202692,Turnaround Jump Shot,2,17,7,Turnaround Jump Shot,JUMP_SHOTS,,2022
+Alec Burks,202692,Standard Layup,2,3,2,Cutting Layup Shot,LAYUPS,,2023
+Alec Burks,202692,Finger Roll,2,10,3,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Alec Burks,202692,Floating Jump Shot,2,8,4,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+Alec Burks,202692,Floating Jump Shot,2,16,7,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Alec Burks,202692,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2023
+Alec Burks,202692,Driving Layup,2,25,14,Driving Layup Shot,LAYUPS,,2023
+Alec Burks,202692,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2023
+Alec Burks,202692,Fadeaway Jump Shot,2,14,3,Fadeaway Jump Shot,JUMP_SHOTS,,2023
+Alec Burks,202692,Floating Jump Shot,2,8,3,Floating Jump shot,FLOATING_SHOTS,,2023
+Alec Burks,202692,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2023
+Alec Burks,202692,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2023
+Alec Burks,202692,Jump Shot,2,149,59,Jump Shot,JUMP_SHOTS,,2023
+Alec Burks,202692,Standard Layup,2,5,2,Layup Shot,LAYUPS,,2023
+Alec Burks,202692,Pullup Jump Shot,2,151,67,Pullup Jump shot,JUMP_SHOTS,,2023
+Alec Burks,202692,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2023
+Alec Burks,202692,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2023
+Alec Burks,202692,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2023
+Alec Burks,202692,Running Jump Shot,2,5,3,Running Jump Shot,JUMP_SHOTS,,2023
+Alec Burks,202692,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2023
+Alec Burks,202692,Running Jump Shot,2,8,4,Running Pull-Up Jump Shot,JUMP_SHOTS,,2023
+Alec Burks,202692,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2023
+Alec Burks,202692,Step Back Jump Shot,2,12,7,Step Back Jump shot,JUMP_SHOTS,,2023
+Alec Burks,202692,Putback Layup,2,5,2,Tip Layup Shot,LAYUPS,,2023
+Alec Burks,202692,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2023
+Alec Burks,202692,Turnaround Jump Shot,2,21,10,Turnaround Fadeaway shot,JUMP_SHOTS,,2023
+Alec Burks,202692,Turnaround Jump Shot,2,4,1,Turnaround Jump Shot,JUMP_SHOTS,,2023
+Alec Burks,202692,Standard Layup,2,2,1,Cutting Layup Shot,LAYUPS,,2024
+Alec Burks,202692,Finger Roll,2,9,3,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Alec Burks,202692,Floating Jump Shot,2,15,6,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Alec Burks,202692,Floating Jump Shot,2,30,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Alec Burks,202692,Driving Layup,2,37,14,Driving Layup Shot,LAYUPS,,2024
+Alec Burks,202692,Driving Layup,2,4,2,Driving Reverse Layup Shot,LAYUPS,,2024
+Alec Burks,202692,Fadeaway Jump Shot,2,1,0,Fadeaway Bank shot,JUMP_SHOTS,,2024
+Alec Burks,202692,Fadeaway Jump Shot,2,7,5,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Alec Burks,202692,Fadeaway Jump Shot,3,6,1,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Alec Burks,202692,Floating Jump Shot,2,7,3,Floating Jump shot,FLOATING_SHOTS,,2024
+Alec Burks,202692,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2024
+Alec Burks,202692,Jump Shot,2,5,2,Jump Shot,JUMP_SHOTS,,2024
+Alec Burks,202692,Jump Shot,3,205,82,Jump Shot,JUMP_SHOTS,,2024
+Alec Burks,202692,Standard Layup,2,4,1,Layup Shot,LAYUPS,,2024
+Alec Burks,202692,Pullup Jump Shot,2,76,27,Pullup Jump shot,JUMP_SHOTS,,2024
+Alec Burks,202692,Pullup Jump Shot,3,72,24,Pullup Jump shot,JUMP_SHOTS,,2024
+Alec Burks,202692,Putback Layup,2,4,3,Putback Layup Shot,LAYUPS,,2024
+Alec Burks,202692,Reverse Layup,2,5,3,Reverse Layup Shot,LAYUPS,,2024
+Alec Burks,202692,Finger Roll,2,2,1,Running Finger Roll Layup Shot,LAYUPS,,2024
+Alec Burks,202692,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2024
+Alec Burks,202692,Running Jump Shot,3,21,8,Running Jump Shot,JUMP_SHOTS,,2024
+Alec Burks,202692,Standard Layup,2,6,1,Running Layup Shot,LAYUPS,,2024
+Alec Burks,202692,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Alec Burks,202692,Running Jump Shot,3,7,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Alec Burks,202692,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2024
+Alec Burks,202692,Step Back Jump Shot,2,4,1,Step Back Jump shot,JUMP_SHOTS,,2024
+Alec Burks,202692,Step Back Jump Shot,3,19,7,Step Back Jump shot,JUMP_SHOTS,,2024
+Alec Burks,202692,Putback Layup,2,3,2,Tip Layup Shot,LAYUPS,,2024
+Alec Burks,202692,Turnaround Jump Shot,2,4,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2024
+Alec Burks,202692,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2024
+Alec Burks,202692,Turnaround Jump Shot,2,9,5,Turnaround Jump Shot,JUMP_SHOTS,,2024
+Alec Burks,202692,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2025
+Alec Burks,202692,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Alec Burks,202692,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2025
+Alec Burks,202692,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Alec Burks,202692,Driving Layup,2,7,2,Driving Layup Shot,LAYUPS,,2025
+Alec Burks,202692,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2025
+Alec Burks,202692,Fadeaway Jump Shot,3,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2025
+Alec Burks,202692,Jump Shot,2,1,0,Jump Shot,JUMP_SHOTS,,2025
+Alec Burks,202692,Jump Shot,3,51,21,Jump Shot,JUMP_SHOTS,,2025
+Alec Burks,202692,Pullup Jump Shot,2,5,3,Pullup Jump shot,JUMP_SHOTS,,2025
+Alec Burks,202692,Pullup Jump Shot,3,7,3,Pullup Jump shot,JUMP_SHOTS,,2025
+Alec Burks,202692,Running Jump Shot,3,12,7,Running Jump Shot,JUMP_SHOTS,,2025
+Alec Burks,202692,Standard Layup,2,2,0,Running Layup Shot,LAYUPS,,2025
+Alec Burks,202692,Running Jump Shot,3,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025
+Alec Burks,202692,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2025
+Alec Burks,202692,Step Back Jump Shot,3,2,1,Step Back Jump shot,JUMP_SHOTS,,2025
+Alec Burks,202692,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2025

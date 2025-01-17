@@ -1,5 +1,200 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-2407,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2004
-2407,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2004
-2407,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2004
-2407,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2005
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Jared Jeffries,2407,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2003
+Jared Jeffries,2407,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,2003
+Jared Jeffries,2407,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2003
+Jared Jeffries,2407,Fadeaway Jump Shot,2,3,1,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Jared Jeffries,2407,Hook Shot,2,3,2,Hook Shot,POST_MOVES,,2003
+Jared Jeffries,2407,Jump Shot,2,19,6,Jump Shot,JUMP_SHOTS,,2003
+Jared Jeffries,2407,Standard Layup,2,18,5,Layup Shot,LAYUPS,,2003
+Jared Jeffries,2407,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2003
+Jared Jeffries,2407,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2003
+Jared Jeffries,2407,Tip Shot,2,5,3,Tip Shot,TIP_SHOTS,,2003
+Jared Jeffries,2407,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2003
+Jared Jeffries,2407,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Jared Jeffries,2407,Alley Oop Dunk,2,4,4,Alley Oop Dunk Shot,DUNKS,,2004
+Jared Jeffries,2407,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2004
+Jared Jeffries,2407,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2004
+Jared Jeffries,2407,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2004
+Jared Jeffries,2407,Driving Layup,2,17,16,Driving Layup Shot,LAYUPS,,2004
+Jared Jeffries,2407,Standard Dunk,2,17,15,Dunk Shot,DUNKS,,2004
+Jared Jeffries,2407,Fadeaway Jump Shot,2,4,3,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Jared Jeffries,2407,Specialty Dunk,2,2,2,Follow Up Dunk Shot,DUNKS,,2004
+Jared Jeffries,2407,Hook Shot,2,12,7,Hook Shot,POST_MOVES,,2004
+Jared Jeffries,2407,Jump Shot,2,7,5,Jump Bank Shot,JUMP_SHOTS,,2004
+Jared Jeffries,2407,Hook Shot,2,3,3,Jump Hook Shot,POST_MOVES,,2004
+Jared Jeffries,2407,Jump Shot,2,237,39,Jump Shot,JUMP_SHOTS,,2004
+Jared Jeffries,2407,Jump Shot,3,3,1,Jump Shot,JUMP_SHOTS,,2004
+Jared Jeffries,2407,Standard Layup,2,114,48,Layup Shot,LAYUPS,,2004
+Jared Jeffries,2407,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2004
+Jared Jeffries,2407,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2004
+Jared Jeffries,2407,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2004
+Jared Jeffries,2407,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,2004
+Jared Jeffries,2407,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2004
+Jared Jeffries,2407,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,2004
+Jared Jeffries,2407,Tip Shot,2,21,10,Tip Shot,TIP_SHOTS,,2004
+Jared Jeffries,2407,Turnaround Hook Shot,2,2,2,Turnaround Hook Shot,POST_MOVES,,2004
+Jared Jeffries,2407,Turnaround Jump Shot,2,8,6,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Jared Jeffries,2407,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2005
+Jared Jeffries,2407,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2005
+Jared Jeffries,2407,Driving Dunk,2,9,9,Driving Dunk Shot,DUNKS,,2005
+Jared Jeffries,2407,Finger Roll,2,2,1,Driving Finger Roll Shot,LAYUPS,,2005
+Jared Jeffries,2407,Driving Layup,2,18,15,Driving Layup Shot,LAYUPS,,2005
+Jared Jeffries,2407,Standard Dunk,2,25,23,Dunk Shot,DUNKS,,2005
+Jared Jeffries,2407,Finger Roll,2,2,2,Finger Roll Shot,LAYUPS,,2005
+Jared Jeffries,2407,Specialty Dunk,2,3,3,Follow Up Dunk Shot,DUNKS,,2005
+Jared Jeffries,2407,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2005
+Jared Jeffries,2407,Hook Shot,2,11,8,Hook Shot,POST_MOVES,,2005
+Jared Jeffries,2407,Jump Shot,2,8,7,Jump Bank Shot,JUMP_SHOTS,,2005
+Jared Jeffries,2407,Hook Shot,2,8,7,Jump Hook Shot,POST_MOVES,,2005
+Jared Jeffries,2407,Jump Shot,2,162,25,Jump Shot,JUMP_SHOTS,,2005
+Jared Jeffries,2407,Standard Layup,2,134,61,Layup Shot,LAYUPS,,2005
+Jared Jeffries,2407,Reverse Layup,2,5,4,Reverse Layup Shot,LAYUPS,,2005
+Jared Jeffries,2407,Finger Roll,2,1,1,Running Finger Roll Shot,LAYUPS,,2005
+Jared Jeffries,2407,Running Hook Shot,2,3,3,Running Hook Shot,POST_MOVES,,2005
+Jared Jeffries,2407,Running Jump Shot,2,5,3,Running Jump Shot,JUMP_SHOTS,,2005
+Jared Jeffries,2407,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2005
+Jared Jeffries,2407,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,2005
+Jared Jeffries,2407,Tip Shot,2,18,14,Tip Shot,TIP_SHOTS,,2005
+Jared Jeffries,2407,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2005
+Jared Jeffries,2407,Turnaround Jump Shot,2,7,5,Turnaround Jump Shot,JUMP_SHOTS,,2005
+Jared Jeffries,2407,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2006
+Jared Jeffries,2407,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2006
+Jared Jeffries,2407,Driving Dunk,2,8,8,Driving Dunk Shot,DUNKS,,2006
+Jared Jeffries,2407,Finger Roll,2,1,0,Driving Finger Roll Shot,LAYUPS,,2006
+Jared Jeffries,2407,Driving Layup,2,19,19,Driving Layup Shot,LAYUPS,,2006
+Jared Jeffries,2407,Standard Dunk,2,22,20,Dunk Shot,DUNKS,,2006
+Jared Jeffries,2407,Fadeaway Jump Shot,2,3,2,Fadeaway Jump Shot,JUMP_SHOTS,,2006
+Jared Jeffries,2407,Specialty Dunk,2,9,9,Follow Up Dunk Shot,DUNKS,,2006
+Jared Jeffries,2407,Hook Shot,2,11,4,Hook Shot,POST_MOVES,,2006
+Jared Jeffries,2407,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2006
+Jared Jeffries,2407,Hook Shot,2,2,2,Jump Hook Shot,POST_MOVES,,2006
+Jared Jeffries,2407,Jump Shot,2,188,46,Jump Shot,JUMP_SHOTS,,2006
+Jared Jeffries,2407,Standard Layup,2,103,40,Layup Shot,LAYUPS,,2006
+Jared Jeffries,2407,Reverse Layup,2,6,4,Reverse Layup Shot,LAYUPS,,2006
+Jared Jeffries,2407,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2006
+Jared Jeffries,2407,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2006
+Jared Jeffries,2407,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,2006
+Jared Jeffries,2407,Standard Dunk,2,8,8,Slam Dunk Shot,DUNKS,,2006
+Jared Jeffries,2407,Tip Shot,2,18,11,Tip Shot,TIP_SHOTS,,2006
+Jared Jeffries,2407,Turnaround Hook Shot,2,3,3,Turnaround Hook Shot,POST_MOVES,,2006
+Jared Jeffries,2407,Turnaround Jump Shot,2,4,3,Turnaround Jump Shot,JUMP_SHOTS,,2006
+Jared Jeffries,2407,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2007
+Jared Jeffries,2407,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2007
+Jared Jeffries,2407,Driving Layup,2,7,7,Driving Layup Shot,LAYUPS,,2007
+Jared Jeffries,2407,Standard Dunk,2,6,4,Dunk Shot,DUNKS,,2007
+Jared Jeffries,2407,Fadeaway Jump Shot,2,2,2,Fadeaway Jump Shot,JUMP_SHOTS,,2007
+Jared Jeffries,2407,Specialty Dunk,2,5,5,Follow Up Dunk Shot,DUNKS,,2007
+Jared Jeffries,2407,Hook Shot,2,8,4,Hook Shot,POST_MOVES,,2007
+Jared Jeffries,2407,Jump Shot,2,86,21,Jump Shot,JUMP_SHOTS,,2007
+Jared Jeffries,2407,Standard Layup,2,52,26,Layup Shot,LAYUPS,,2007
+Jared Jeffries,2407,Reverse Layup,2,5,4,Reverse Layup Shot,LAYUPS,,2007
+Jared Jeffries,2407,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2007
+Jared Jeffries,2407,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2007
+Jared Jeffries,2407,Standard Dunk,2,7,7,Slam Dunk Shot,DUNKS,,2007
+Jared Jeffries,2407,Tip Shot,2,18,9,Tip Shot,TIP_SHOTS,,2007
+Jared Jeffries,2407,Turnaround Jump Shot,2,4,1,Turnaround Jump Shot,JUMP_SHOTS,,2007
+Jared Jeffries,2407,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2008
+Jared Jeffries,2407,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2008
+Jared Jeffries,2407,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2008
+Jared Jeffries,2407,Finger Roll,2,3,3,Driving Finger Roll Layup Shot,LAYUPS,,2008
+Jared Jeffries,2407,Driving Jump Shot,2,2,0,Driving Jump shot,JUMP_SHOTS,,2008
+Jared Jeffries,2407,Driving Layup,2,12,8,Driving Layup Shot,LAYUPS,,2008
+Jared Jeffries,2407,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2008
+Jared Jeffries,2407,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2008
+Jared Jeffries,2407,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2008
+Jared Jeffries,2407,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2008
+Jared Jeffries,2407,Hook Shot,2,4,2,Hook Shot,POST_MOVES,,2008
+Jared Jeffries,2407,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2008
+Jared Jeffries,2407,Jump Shot,2,106,26,Jump Shot,JUMP_SHOTS,,2008
+Jared Jeffries,2407,Standard Layup,2,76,25,Layup Shot,LAYUPS,,2008
+Jared Jeffries,2407,Putback Dunk,2,2,1,Putback Dunk Shot,DUNKS,,2008
+Jared Jeffries,2407,Putback Layup,2,3,2,Putback Layup Shot,LAYUPS,,2008
+Jared Jeffries,2407,Putback Dunk,2,2,2,Putback Slam Dunk Shot,DUNKS,,2008
+Jared Jeffries,2407,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2008
+Jared Jeffries,2407,Reverse Layup,2,9,6,Reverse Layup Shot,LAYUPS,,2008
+Jared Jeffries,2407,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2008
+Jared Jeffries,2407,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2008
+Jared Jeffries,2407,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2008
+Jared Jeffries,2407,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2008
+Jared Jeffries,2407,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,2008
+Jared Jeffries,2407,Tip Shot,2,21,9,Tip Shot,TIP_SHOTS,,2008
+Jared Jeffries,2407,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2008
+Jared Jeffries,2407,Turnaround Jump Shot,2,4,2,Turnaround Jump Shot,JUMP_SHOTS,,2008
+Jared Jeffries,2407,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2009
+Jared Jeffries,2407,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2009
+Jared Jeffries,2407,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2009
+Jared Jeffries,2407,Driving Layup,2,18,13,Driving Layup Shot,LAYUPS,,2009
+Jared Jeffries,2407,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2009
+Jared Jeffries,2407,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2009
+Jared Jeffries,2407,Standard Dunk,2,12,8,Dunk Shot,DUNKS,,2009
+Jared Jeffries,2407,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2009
+Jared Jeffries,2407,Finger Roll,2,5,4,Finger Roll Layup Shot,LAYUPS,,2009
+Jared Jeffries,2407,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2009
+Jared Jeffries,2407,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2009
+Jared Jeffries,2407,Hook Shot,2,3,1,Jump Hook Shot,POST_MOVES,,2009
+Jared Jeffries,2407,Jump Shot,2,100,27,Jump Shot,JUMP_SHOTS,,2009
+Jared Jeffries,2407,Standard Layup,2,80,38,Layup Shot,LAYUPS,,2009
+Jared Jeffries,2407,Putback Dunk,2,3,3,Putback Dunk Shot,DUNKS,,2009
+Jared Jeffries,2407,Putback Layup,2,5,4,Putback Layup Shot,LAYUPS,,2009
+Jared Jeffries,2407,Reverse Layup,2,4,3,Reverse Layup Shot,LAYUPS,,2009
+Jared Jeffries,2407,Running Jump Shot,2,3,0,Running Jump Shot,JUMP_SHOTS,,2009
+Jared Jeffries,2407,Standard Layup,2,4,3,Running Layup Shot,LAYUPS,,2009
+Jared Jeffries,2407,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2009
+Jared Jeffries,2407,Tip Shot,2,22,7,Tip Shot,TIP_SHOTS,,2009
+Jared Jeffries,2407,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2009
+Jared Jeffries,2407,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2010
+Jared Jeffries,2407,Driving Layup,2,13,10,Driving Layup Shot,LAYUPS,,2010
+Jared Jeffries,2407,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2010
+Jared Jeffries,2407,Driving Dunk,2,2,2,Driving Slam Dunk Shot,DUNKS,,2010
+Jared Jeffries,2407,Standard Dunk,2,6,6,Dunk Shot,DUNKS,,2010
+Jared Jeffries,2407,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2010
+Jared Jeffries,2407,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2010
+Jared Jeffries,2407,Hook Shot,2,2,0,Jump Hook Shot,POST_MOVES,,2010
+Jared Jeffries,2407,Jump Shot,2,127,42,Jump Shot,JUMP_SHOTS,,2010
+Jared Jeffries,2407,Standard Layup,2,104,42,Layup Shot,LAYUPS,,2010
+Jared Jeffries,2407,Putback Layup,2,7,6,Putback Layup Shot,LAYUPS,,2010
+Jared Jeffries,2407,Putback Dunk,2,1,1,Putback Slam Dunk Shot,DUNKS,,2010
+Jared Jeffries,2407,Reverse Layup,2,5,4,Reverse Layup Shot,LAYUPS,,2010
+Jared Jeffries,2407,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2010
+Jared Jeffries,2407,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2010
+Jared Jeffries,2407,Tip Shot,2,35,17,Tip Shot,TIP_SHOTS,,2010
+Jared Jeffries,2407,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2010
+Jared Jeffries,2407,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2011
+Jared Jeffries,2407,Driving Layup,2,3,3,Driving Layup Shot,LAYUPS,,2011
+Jared Jeffries,2407,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2011
+Jared Jeffries,2407,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2011
+Jared Jeffries,2407,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2011
+Jared Jeffries,2407,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2011
+Jared Jeffries,2407,Jump Shot,2,30,3,Jump Shot,JUMP_SHOTS,,2011
+Jared Jeffries,2407,Standard Layup,2,24,9,Layup Shot,LAYUPS,,2011
+Jared Jeffries,2407,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2011
+Jared Jeffries,2407,Putback Layup,2,6,4,Putback Layup Shot,LAYUPS,,2011
+Jared Jeffries,2407,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2011
+Jared Jeffries,2407,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2011
+Jared Jeffries,2407,Tip Shot,2,11,4,Tip Shot,TIP_SHOTS,,2011
+Jared Jeffries,2407,Alley Oop Layup,2,2,0,Alley Oop Layup shot,LAYUPS,,2012
+Jared Jeffries,2407,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2012
+Jared Jeffries,2407,Driving Layup,2,12,9,Driving Layup Shot,LAYUPS,,2012
+Jared Jeffries,2407,Standard Dunk,2,5,4,Dunk Shot,DUNKS,,2012
+Jared Jeffries,2407,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2012
+Jared Jeffries,2407,Jump Shot,2,54,13,Jump Shot,JUMP_SHOTS,,2012
+Jared Jeffries,2407,Standard Layup,2,42,18,Layup Shot,LAYUPS,,2012
+Jared Jeffries,2407,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2012
+Jared Jeffries,2407,Putback Layup,2,3,2,Putback Layup Shot,LAYUPS,,2012
+Jared Jeffries,2407,Reverse Layup,2,4,3,Reverse Layup Shot,LAYUPS,,2012
+Jared Jeffries,2407,Tip Shot,2,2,0,Running Tip Shot,TIP_SHOTS,,2012
+Jared Jeffries,2407,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2012
+Jared Jeffries,2407,Tip Shot,2,13,7,Tip Shot,TIP_SHOTS,,2012
+Jared Jeffries,2407,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Jared Jeffries,2407,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2013
+Jared Jeffries,2407,Driving Layup,2,5,1,Driving Layup Shot,LAYUPS,,2013
+Jared Jeffries,2407,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2013
+Jared Jeffries,2407,Hook Shot,2,1,1,Jump Bank Hook Shot,POST_MOVES,,2013
+Jared Jeffries,2407,Jump Shot,2,23,3,Jump Shot,JUMP_SHOTS,,2013
+Jared Jeffries,2407,Standard Layup,2,10,3,Layup Shot,LAYUPS,,2013
+Jared Jeffries,2407,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2013
+Jared Jeffries,2407,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2013
+Jared Jeffries,2407,Reverse Layup,2,2,0,Reverse Layup Shot,LAYUPS,,2013
+Jared Jeffries,2407,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2013
+Jared Jeffries,2407,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2013
+Jared Jeffries,2407,Tip Shot,2,5,3,Tip Shot,TIP_SHOTS,,2013

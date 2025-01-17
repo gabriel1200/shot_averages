@@ -1,5 +1,9 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-305,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,1997
-305,Jump Shot,2PT Field Goal,4,2,Jump Shot,JUMP_SHOTS,0.5,1997
-305,Standard Layup,2PT Field Goal,3,1,Layup Shot,LAYUPS,0.3333333333333333,1997
-305,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,1997
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Robert Parish,305,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,1997
+Robert Parish,305,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,1997
+Robert Parish,305,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,1997
+Robert Parish,305,Hook Shot,2,5,3,Hook Shot,POST_MOVES,,1997
+Robert Parish,305,Jump Shot,2,78,32,Jump Shot,JUMP_SHOTS,,1997
+Robert Parish,305,Standard Layup,2,44,22,Layup Shot,LAYUPS,,1997
+Robert Parish,305,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,1997
+Robert Parish,305,Tip Shot,2,7,4,Tip Shot,TIP_SHOTS,,1997

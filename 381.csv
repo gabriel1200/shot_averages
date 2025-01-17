@@ -1,12 +1,26 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-381,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,1997
-381,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1997
-381,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,1997
-381,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,1997
-381,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,1998
-381,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,1998
-381,Jump Shot,2PT Field Goal,10,2,Jump Shot,JUMP_SHOTS,0.2,1998
-381,Jump Shot,3PT Field Goal,9,5,Jump Shot,JUMP_SHOTS,0.8333333333333334,1998
-381,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,1998
-381,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,1999
-381,Jump Shot,3PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,1999
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+James Robinson,381,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,1997
+James Robinson,381,Driving Layup,2,38,30,Driving Layup Shot,LAYUPS,,1997
+James Robinson,381,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,1997
+James Robinson,381,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,1997
+James Robinson,381,Jump Shot,2,347,127,Jump Shot,JUMP_SHOTS,,1997
+James Robinson,381,Jump Shot,3,21,7,Jump Shot,JUMP_SHOTS,,1997
+James Robinson,381,Standard Layup,2,55,13,Layup Shot,LAYUPS,,1997
+James Robinson,381,Running Jump Shot,2,12,11,Running Jump Shot,JUMP_SHOTS,,1997
+James Robinson,381,Standard Dunk,2,3,2,Slam Dunk Shot,DUNKS,,1997
+James Robinson,381,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,1998
+James Robinson,381,Driving Layup,2,47,34,Driving Layup Shot,LAYUPS,,1998
+James Robinson,381,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,1998
+James Robinson,381,Jump Shot,2,372,118,Jump Shot,JUMP_SHOTS,,1998
+James Robinson,381,Jump Shot,3,21,8,Jump Shot,JUMP_SHOTS,,1998
+James Robinson,381,Standard Layup,2,40,21,Layup Shot,LAYUPS,,1998
+James Robinson,381,Running Jump Shot,2,11,4,Running Jump Shot,JUMP_SHOTS,,1998
+James Robinson,381,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,1998
+James Robinson,381,Driving Layup,2,37,19,Driving Layup Shot,LAYUPS,,1999
+James Robinson,381,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,1999
+James Robinson,381,Jump Shot,2,126,38,Jump Shot,JUMP_SHOTS,,1999
+James Robinson,381,Jump Shot,3,5,0,Jump Shot,JUMP_SHOTS,,1999
+James Robinson,381,Standard Layup,2,14,8,Layup Shot,LAYUPS,,1999
+James Robinson,381,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,1999
+James Robinson,381,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2001
+James Robinson,381,Jump Shot,2,10,3,Jump Shot,JUMP_SHOTS,,2001

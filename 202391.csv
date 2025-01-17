@@ -1,20 +1,200 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-202391,Jump Shot,2PT Field Goal,4,1,Jump Shot,JUMP_SHOTS,0.25,2011
-202391,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2011
-202391,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2011
-202391,Driving Jump Shot,2PT Field Goal,1,1,Driving Bank shot,JUMP_SHOTS,1.0,2012
-202391,Driving Layup,2PT Field Goal,7,5,Driving Layup Shot,LAYUPS,0.7142857142857143,2012
-202391,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2012
-202391,Floating Jump Shot,2PT Field Goal,3,1,Floating Jump shot,FLOATING_SHOTS,0.3333333333333333,2012
-202391,Jump Shot,2PT Field Goal,7,1,Jump Shot,JUMP_SHOTS,0.1428571428571428,2012
-202391,Jump Shot,3PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,2012
-202391,Standard Layup,2PT Field Goal,6,0,Layup Shot,LAYUPS,0.0,2012
-202391,Running Jump Shot,2PT Field Goal,1,1,Running Bank shot,JUMP_SHOTS,1.0,2012
-202391,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,1.0,2012
-202391,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2014
-202391,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2014
-202391,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2014
-202391,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.0,2014
-202391,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2015
-202391,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2017
-202391,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2017
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Jeremy Lin,202391,Driving Layup,2,13,12,Driving Layup Shot,LAYUPS,,2011
+Jeremy Lin,202391,Driving Layup,2,5,3,Driving Reverse Layup Shot,LAYUPS,,2011
+Jeremy Lin,202391,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2011
+Jeremy Lin,202391,Jump Shot,2,3,1,Jump Bank Shot,JUMP_SHOTS,,2011
+Jeremy Lin,202391,Jump Shot,2,26,3,Jump Shot,JUMP_SHOTS,,2011
+Jeremy Lin,202391,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2011
+Jeremy Lin,202391,Standard Layup,2,10,1,Layup Shot,LAYUPS,,2011
+Jeremy Lin,202391,Pullup Jump Shot,2,2,1,Pullup Bank shot,JUMP_SHOTS,,2011
+Jeremy Lin,202391,Pullup Jump Shot,2,3,3,Pullup Jump shot,JUMP_SHOTS,,2011
+Jeremy Lin,202391,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2011
+Jeremy Lin,202391,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2011
+Jeremy Lin,202391,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2011
+Jeremy Lin,202391,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2011
+Jeremy Lin,202391,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2011
+Jeremy Lin,202391,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2011
+Jeremy Lin,202391,Driving Jump Shot,2,2,2,Driving Bank shot,JUMP_SHOTS,,2012
+Jeremy Lin,202391,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2012
+Jeremy Lin,202391,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2012
+Jeremy Lin,202391,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2012
+Jeremy Lin,202391,Driving Jump Shot,2,8,4,Driving Jump shot,JUMP_SHOTS,,2012
+Jeremy Lin,202391,Driving Layup,2,73,46,Driving Layup Shot,LAYUPS,,2012
+Jeremy Lin,202391,Driving Layup,2,12,10,Driving Reverse Layup Shot,LAYUPS,,2012
+Jeremy Lin,202391,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2012
+Jeremy Lin,202391,Fadeaway Jump Shot,2,11,7,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Jeremy Lin,202391,Floating Jump Shot,2,13,7,Floating Jump shot,FLOATING_SHOTS,,2012
+Jeremy Lin,202391,Jump Shot,2,7,5,Jump Bank Shot,JUMP_SHOTS,,2012
+Jeremy Lin,202391,Jump Shot,2,162,55,Jump Shot,JUMP_SHOTS,,2012
+Jeremy Lin,202391,Jump Shot,3,10,2,Jump Shot,JUMP_SHOTS,,2012
+Jeremy Lin,202391,Standard Layup,2,46,12,Layup Shot,LAYUPS,,2012
+Jeremy Lin,202391,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2012
+Jeremy Lin,202391,Pullup Jump Shot,2,10,6,Pullup Jump shot,JUMP_SHOTS,,2012
+Jeremy Lin,202391,Running Jump Shot,2,3,2,Running Bank shot,JUMP_SHOTS,,2012
+Jeremy Lin,202391,Running Jump Shot,2,10,3,Running Jump Shot,JUMP_SHOTS,,2012
+Jeremy Lin,202391,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2012
+Jeremy Lin,202391,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2012
+Jeremy Lin,202391,Step Back Jump Shot,2,2,2,Step Back Jump shot,JUMP_SHOTS,,2012
+Jeremy Lin,202391,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2012
+Jeremy Lin,202391,Turnaround Jump Shot,2,5,1,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Jeremy Lin,202391,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2013
+Jeremy Lin,202391,Driving Jump Shot,2,3,3,Driving Bank shot,JUMP_SHOTS,,2013
+Jeremy Lin,202391,Finger Roll,2,8,5,Driving Finger Roll Layup Shot,LAYUPS,,2013
+Jeremy Lin,202391,Driving Jump Shot,2,8,1,Driving Jump shot,JUMP_SHOTS,,2013
+Jeremy Lin,202391,Driving Layup,2,149,108,Driving Layup Shot,LAYUPS,,2013
+Jeremy Lin,202391,Driving Layup,2,17,11,Driving Reverse Layup Shot,LAYUPS,,2013
+Jeremy Lin,202391,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2013
+Jeremy Lin,202391,Fadeaway Jump Shot,2,2,1,Fadeaway Bank shot,JUMP_SHOTS,,2013
+Jeremy Lin,202391,Fadeaway Jump Shot,2,12,5,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Jeremy Lin,202391,Finger Roll,2,4,4,Finger Roll Layup Shot,LAYUPS,,2013
+Jeremy Lin,202391,Floating Jump Shot,2,13,9,Floating Jump shot,FLOATING_SHOTS,,2013
+Jeremy Lin,202391,Jump Shot,2,7,5,Jump Bank Shot,JUMP_SHOTS,,2013
+Jeremy Lin,202391,Jump Shot,2,424,135,Jump Shot,JUMP_SHOTS,,2013
+Jeremy Lin,202391,Standard Layup,2,132,64,Layup Shot,LAYUPS,,2013
+Jeremy Lin,202391,Pullup Jump Shot,2,40,20,Pullup Jump shot,JUMP_SHOTS,,2013
+Jeremy Lin,202391,Reverse Layup,2,18,7,Reverse Layup Shot,LAYUPS,,2013
+Jeremy Lin,202391,Running Jump Shot,2,8,4,Running Bank shot,JUMP_SHOTS,,2013
+Jeremy Lin,202391,Running Jump Shot,2,27,5,Running Jump Shot,JUMP_SHOTS,,2013
+Jeremy Lin,202391,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2013
+Jeremy Lin,202391,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2013
+Jeremy Lin,202391,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2013
+Jeremy Lin,202391,Step Back Jump Shot,2,4,1,Step Back Jump shot,JUMP_SHOTS,,2013
+Jeremy Lin,202391,Turnaround Jump Shot,2,6,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2013
+Jeremy Lin,202391,Turnaround Jump Shot,2,8,3,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Jeremy Lin,202391,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2014
+Jeremy Lin,202391,Finger Roll,2,16,12,Driving Finger Roll Layup Shot,LAYUPS,,2014
+Jeremy Lin,202391,Driving Jump Shot,2,7,0,Driving Jump shot,JUMP_SHOTS,,2014
+Jeremy Lin,202391,Driving Layup,2,113,73,Driving Layup Shot,LAYUPS,,2014
+Jeremy Lin,202391,Driving Layup,2,23,14,Driving Reverse Layup Shot,LAYUPS,,2014
+Jeremy Lin,202391,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2014
+Jeremy Lin,202391,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2014
+Jeremy Lin,202391,Fadeaway Jump Shot,2,4,2,Fadeaway Bank shot,JUMP_SHOTS,,2014
+Jeremy Lin,202391,Fadeaway Jump Shot,2,8,2,Fadeaway Jump Shot,JUMP_SHOTS,,2014
+Jeremy Lin,202391,Finger Roll,2,5,3,Finger Roll Layup Shot,LAYUPS,,2014
+Jeremy Lin,202391,Floating Jump Shot,2,10,5,Floating Jump shot,FLOATING_SHOTS,,2014
+Jeremy Lin,202391,Jump Shot,2,7,5,Jump Bank Shot,JUMP_SHOTS,,2014
+Jeremy Lin,202391,Jump Shot,2,320,109,Jump Shot,JUMP_SHOTS,,2014
+Jeremy Lin,202391,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,2014
+Jeremy Lin,202391,Standard Layup,2,47,23,Layup Shot,LAYUPS,,2014
+Jeremy Lin,202391,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2014
+Jeremy Lin,202391,Pullup Jump Shot,2,37,15,Pullup Jump shot,JUMP_SHOTS,,2014
+Jeremy Lin,202391,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2014
+Jeremy Lin,202391,Reverse Layup,2,5,3,Reverse Layup Shot,LAYUPS,,2014
+Jeremy Lin,202391,Running Jump Shot,2,2,1,Running Bank shot,JUMP_SHOTS,,2014
+Jeremy Lin,202391,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2014
+Jeremy Lin,202391,Running Jump Shot,2,13,4,Running Jump Shot,JUMP_SHOTS,,2014
+Jeremy Lin,202391,Standard Layup,2,6,4,Running Layup Shot,LAYUPS,,2014
+Jeremy Lin,202391,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2014
+Jeremy Lin,202391,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2014
+Jeremy Lin,202391,Step Back Jump Shot,2,9,6,Step Back Jump shot,JUMP_SHOTS,,2014
+Jeremy Lin,202391,Turnaround Jump Shot,2,10,4,Turnaround Fadeaway shot,JUMP_SHOTS,,2014
+Jeremy Lin,202391,Turnaround Jump Shot,2,10,3,Turnaround Jump Shot,JUMP_SHOTS,,2014
+Jeremy Lin,202391,Finger Roll,2,10,8,Driving Finger Roll Layup Shot,LAYUPS,,2015
+Jeremy Lin,202391,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2015
+Jeremy Lin,202391,Driving Jump Shot,2,4,3,Driving Jump shot,JUMP_SHOTS,,2015
+Jeremy Lin,202391,Driving Layup,2,80,66,Driving Layup Shot,LAYUPS,,2015
+Jeremy Lin,202391,Driving Layup,2,10,9,Driving Reverse Layup Shot,LAYUPS,,2015
+Jeremy Lin,202391,Fadeaway Jump Shot,2,2,1,Fadeaway Bank shot,JUMP_SHOTS,,2015
+Jeremy Lin,202391,Fadeaway Jump Shot,2,17,8,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+Jeremy Lin,202391,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2015
+Jeremy Lin,202391,Floating Jump Shot,2,4,2,Floating Jump shot,FLOATING_SHOTS,,2015
+Jeremy Lin,202391,Jump Shot,2,8,4,Jump Bank Shot,JUMP_SHOTS,,2015
+Jeremy Lin,202391,Jump Shot,2,359,109,Jump Shot,JUMP_SHOTS,,2015
+Jeremy Lin,202391,Jump Shot,3,2,1,Jump Shot,JUMP_SHOTS,,2015
+Jeremy Lin,202391,Standard Layup,2,75,17,Layup Shot,LAYUPS,,2015
+Jeremy Lin,202391,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2015
+Jeremy Lin,202391,Pullup Jump Shot,2,19,9,Pullup Jump shot,JUMP_SHOTS,,2015
+Jeremy Lin,202391,Reverse Layup,2,5,3,Reverse Layup Shot,LAYUPS,,2015
+Jeremy Lin,202391,Running Jump Shot,2,2,1,Running Bank shot,JUMP_SHOTS,,2015
+Jeremy Lin,202391,Running Jump Shot,2,8,5,Running Jump Shot,JUMP_SHOTS,,2015
+Jeremy Lin,202391,Standard Layup,2,12,11,Running Layup Shot,LAYUPS,,2015
+Jeremy Lin,202391,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2015
+Jeremy Lin,202391,Step Back Jump Shot,2,23,12,Step Back Jump shot,JUMP_SHOTS,,2015
+Jeremy Lin,202391,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2015
+Jeremy Lin,202391,Turnaround Jump Shot,2,3,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2015
+Jeremy Lin,202391,Turnaround Jump Shot,2,6,2,Turnaround Jump Shot,JUMP_SHOTS,,2015
+Jeremy Lin,202391,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2016
+Jeremy Lin,202391,Finger Roll,2,2,2,Cutting Finger Roll Layup Shot,LAYUPS,,2016
+Jeremy Lin,202391,Standard Layup,2,14,13,Cutting Layup Shot,LAYUPS,,2016
+Jeremy Lin,202391,Driving Hook Shot,2,1,0,Driving Bank Hook Shot,POST_MOVES,,2016
+Jeremy Lin,202391,Driving Jump Shot,2,5,5,Driving Bank shot,JUMP_SHOTS,,2016
+Jeremy Lin,202391,Finger Roll,2,7,6,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Jeremy Lin,202391,Floating Jump Shot,2,5,4,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Jeremy Lin,202391,Driving Layup,2,84,54,Driving Layup Shot,LAYUPS,,2016
+Jeremy Lin,202391,Driving Layup,2,17,12,Driving Reverse Layup Shot,LAYUPS,,2016
+Jeremy Lin,202391,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2016
+Jeremy Lin,202391,Fadeaway Jump Shot,2,2,1,Fadeaway Bank shot,JUMP_SHOTS,,2016
+Jeremy Lin,202391,Fadeaway Jump Shot,2,16,5,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Jeremy Lin,202391,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2016
+Jeremy Lin,202391,Floating Jump Shot,2,7,4,Floating Jump shot,FLOATING_SHOTS,,2016
+Jeremy Lin,202391,Jump Shot,2,10,4,Jump Bank Shot,JUMP_SHOTS,,2016
+Jeremy Lin,202391,Jump Shot,2,368,100,Jump Shot,JUMP_SHOTS,,2016
+Jeremy Lin,202391,Standard Layup,2,72,17,Layup Shot,LAYUPS,,2016
+Jeremy Lin,202391,Pullup Jump Shot,2,3,1,Pullup Bank shot,JUMP_SHOTS,,2016
+Jeremy Lin,202391,Pullup Jump Shot,2,33,19,Pullup Jump shot,JUMP_SHOTS,,2016
+Jeremy Lin,202391,Reverse Layup,2,8,6,Reverse Layup Shot,LAYUPS,,2016
+Jeremy Lin,202391,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2016
+Jeremy Lin,202391,Running Jump Shot,2,6,4,Running Jump Shot,JUMP_SHOTS,,2016
+Jeremy Lin,202391,Standard Layup,2,20,15,Running Layup Shot,LAYUPS,,2016
+Jeremy Lin,202391,Running Jump Shot,2,4,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2016
+Jeremy Lin,202391,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2016
+Jeremy Lin,202391,Step Back Jump Shot,2,22,13,Step Back Jump shot,JUMP_SHOTS,,2016
+Jeremy Lin,202391,Turnaround Jump Shot,2,1,0,Turnaround Bank shot,JUMP_SHOTS,,2016
+Jeremy Lin,202391,Turnaround Jump Shot,2,7,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2016
+Jeremy Lin,202391,Turnaround Jump Shot,2,8,5,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Jeremy Lin,202391,Standard Layup,2,7,6,Cutting Layup Shot,LAYUPS,,2017
+Jeremy Lin,202391,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2017
+Jeremy Lin,202391,Finger Roll,2,4,3,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Jeremy Lin,202391,Floating Jump Shot,2,2,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2017
+Jeremy Lin,202391,Floating Jump Shot,2,6,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Jeremy Lin,202391,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2017
+Jeremy Lin,202391,Driving Layup,2,52,31,Driving Layup Shot,LAYUPS,,2017
+Jeremy Lin,202391,Driving Layup,2,5,3,Driving Reverse Layup Shot,LAYUPS,,2017
+Jeremy Lin,202391,Fadeaway Jump Shot,2,6,2,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Jeremy Lin,202391,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2017
+Jeremy Lin,202391,Floating Jump Shot,2,3,2,Floating Jump shot,FLOATING_SHOTS,,2017
+Jeremy Lin,202391,Jump Shot,2,3,1,Jump Bank Shot,JUMP_SHOTS,,2017
+Jeremy Lin,202391,Jump Shot,2,181,59,Jump Shot,JUMP_SHOTS,,2017
+Jeremy Lin,202391,Standard Layup,2,24,6,Layup Shot,LAYUPS,,2017
+Jeremy Lin,202391,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2017
+Jeremy Lin,202391,Pullup Jump Shot,2,49,24,Pullup Jump shot,JUMP_SHOTS,,2017
+Jeremy Lin,202391,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2017
+Jeremy Lin,202391,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2017
+Jeremy Lin,202391,Running Jump Shot,2,7,4,Running Jump Shot,JUMP_SHOTS,,2017
+Jeremy Lin,202391,Standard Layup,2,9,4,Running Layup Shot,LAYUPS,,2017
+Jeremy Lin,202391,Running Jump Shot,2,3,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2017
+Jeremy Lin,202391,Step Back Jump Shot,2,1,1,Step Back Bank Jump Shot,JUMP_SHOTS,,2017
+Jeremy Lin,202391,Step Back Jump Shot,2,19,8,Step Back Jump shot,JUMP_SHOTS,,2017
+Jeremy Lin,202391,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2017
+Jeremy Lin,202391,Turnaround Jump Shot,2,5,3,Turnaround Fadeaway shot,JUMP_SHOTS,,2017
+Jeremy Lin,202391,Turnaround Jump Shot,2,7,6,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Jeremy Lin,202391,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2018
+Jeremy Lin,202391,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Jeremy Lin,202391,Driving Layup,2,3,2,Driving Layup Shot,LAYUPS,,2018
+Jeremy Lin,202391,Jump Shot,2,2,0,Jump Shot,JUMP_SHOTS,,2018
+Jeremy Lin,202391,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2018
+Jeremy Lin,202391,Pullup Jump Shot,2,3,2,Pullup Jump shot,JUMP_SHOTS,,2018
+Jeremy Lin,202391,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2018
+Jeremy Lin,202391,Standard Layup,2,5,3,Cutting Layup Shot,LAYUPS,,2019
+Jeremy Lin,202391,Driving Hook Shot,2,3,2,Driving Bank Hook Shot,POST_MOVES,,2019
+Jeremy Lin,202391,Finger Roll,2,20,15,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Jeremy Lin,202391,Floating Jump Shot,2,10,8,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Jeremy Lin,202391,Floating Jump Shot,2,24,8,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Jeremy Lin,202391,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2019
+Jeremy Lin,202391,Driving Layup,2,94,45,Driving Layup Shot,LAYUPS,,2019
+Jeremy Lin,202391,Driving Layup,2,8,5,Driving Reverse Layup Shot,LAYUPS,,2019
+Jeremy Lin,202391,Fadeaway Jump Shot,2,10,6,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+Jeremy Lin,202391,Finger Roll,2,4,2,Finger Roll Layup Shot,LAYUPS,,2019
+Jeremy Lin,202391,Floating Jump Shot,2,9,2,Floating Jump shot,FLOATING_SHOTS,,2019
+Jeremy Lin,202391,Jump Shot,2,4,2,Jump Bank Shot,JUMP_SHOTS,,2019
+Jeremy Lin,202391,Jump Shot,2,156,44,Jump Shot,JUMP_SHOTS,,2019
+Jeremy Lin,202391,Standard Layup,2,17,7,Layup Shot,LAYUPS,,2019
+Jeremy Lin,202391,Pullup Jump Shot,2,104,44,Pullup Jump shot,JUMP_SHOTS,,2019
+Jeremy Lin,202391,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2019
+Jeremy Lin,202391,Finger Roll,2,4,3,Running Finger Roll Layup Shot,LAYUPS,,2019
+Jeremy Lin,202391,Running Jump Shot,2,7,1,Running Jump Shot,JUMP_SHOTS,,2019
+Jeremy Lin,202391,Standard Layup,2,26,23,Running Layup Shot,LAYUPS,,2019
+Jeremy Lin,202391,Running Jump Shot,2,7,4,Running Pull-Up Jump Shot,JUMP_SHOTS,,2019
+Jeremy Lin,202391,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2019
+Jeremy Lin,202391,Step Back Jump Shot,2,24,13,Step Back Jump shot,JUMP_SHOTS,,2019
+Jeremy Lin,202391,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2019

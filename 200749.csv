@@ -1,34 +1,100 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-200749,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2007
-200749,Jump Shot,2PT Field Goal,21,5,Jump Shot,JUMP_SHOTS,0.238095238095238,2007
-200749,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2007
-200749,Standard Layup,2PT Field Goal,18,6,Layup Shot,LAYUPS,0.3333333333333333,2007
-200749,Tip Shot,2PT Field Goal,3,0,Tip Shot,TIP_SHOTS,0.0,2007
-200749,Hook Shot,2PT Field Goal,1,1,Jump Hook Shot,POST_MOVES,1.0,2008
-200749,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2009
-200749,Jump Shot,2PT Field Goal,4,2,Jump Shot,JUMP_SHOTS,0.5,2009
-200749,Standard Layup,2PT Field Goal,2,2,Layup Shot,LAYUPS,1.0,2009
-200749,Running Hook Shot,2PT Field Goal,1,0,Running Hook Shot,POST_MOVES,0.0,2009
-200749,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2009
-200749,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2010
-200749,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2010
-200749,Standard Dunk,2PT Field Goal,3,2,Dunk Shot,DUNKS,0.6666666666666666,2010
-200749,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2010
-200749,Hook Shot,2PT Field Goal,2,0,Hook Shot,POST_MOVES,0.0,2010
-200749,Hook Shot,2PT Field Goal,1,1,Jump Hook Shot,POST_MOVES,1.0,2010
-200749,Jump Shot,2PT Field Goal,13,3,Jump Shot,JUMP_SHOTS,0.2307692307692307,2010
-200749,Standard Layup,2PT Field Goal,13,6,Layup Shot,LAYUPS,0.4615384615384615,2010
-200749,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2010
-200749,Reverse Layup,2PT Field Goal,3,3,Reverse Layup Shot,LAYUPS,1.0,2010
-200749,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2010
-200749,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2010
-200749,Turnaround Jump Shot,2PT Field Goal,2,2,Turnaround Jump Shot,JUMP_SHOTS,1.0,2010
-200749,Jump Shot,2PT Field Goal,16,5,Jump Shot,JUMP_SHOTS,0.3125,2011
-200749,Standard Layup,2PT Field Goal,6,2,Layup Shot,LAYUPS,0.3333333333333333,2011
-200749,Putback Layup,2PT Field Goal,2,2,Putback Layup Shot,LAYUPS,1.0,2011
-200749,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2011
-200749,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2011
-200749,Tip Shot,2PT Field Goal,3,0,Tip Shot,TIP_SHOTS,0.0,2011
-200749,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,2012
-200749,Jump Shot,2PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.3333333333333333,2012
-200749,Standard Layup,2PT Field Goal,3,1,Layup Shot,LAYUPS,0.3333333333333333,2012
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Shelden Williams,200749,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2007
+Shelden Williams,200749,Driving Layup,2,8,6,Driving Layup Shot,LAYUPS,,2007
+Shelden Williams,200749,Standard Dunk,2,24,23,Dunk Shot,DUNKS,,2007
+Shelden Williams,200749,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2007
+Shelden Williams,200749,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2007
+Shelden Williams,200749,Hook Shot,2,11,2,Hook Shot,POST_MOVES,,2007
+Shelden Williams,200749,Jump Shot,2,176,57,Jump Shot,JUMP_SHOTS,,2007
+Shelden Williams,200749,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2007
+Shelden Williams,200749,Standard Layup,2,100,50,Layup Shot,LAYUPS,,2007
+Shelden Williams,200749,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2007
+Shelden Williams,200749,Running Hook Shot,2,4,3,Running Hook Shot,POST_MOVES,,2007
+Shelden Williams,200749,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,2007
+Shelden Williams,200749,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2007
+Shelden Williams,200749,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2007
+Shelden Williams,200749,Tip Shot,2,22,9,Tip Shot,TIP_SHOTS,,2007
+Shelden Williams,200749,Turnaround Jump Shot,2,6,4,Turnaround Jump Shot,JUMP_SHOTS,,2007
+Shelden Williams,200749,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2008
+Shelden Williams,200749,Driving Layup,2,4,1,Driving Layup Shot,LAYUPS,,2008
+Shelden Williams,200749,Standard Dunk,2,10,8,Dunk Shot,DUNKS,,2008
+Shelden Williams,200749,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2008
+Shelden Williams,200749,Hook Shot,2,9,6,Hook Shot,POST_MOVES,,2008
+Shelden Williams,200749,Hook Shot,2,6,4,Jump Hook Shot,POST_MOVES,,2008
+Shelden Williams,200749,Jump Shot,2,86,29,Jump Shot,JUMP_SHOTS,,2008
+Shelden Williams,200749,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2008
+Shelden Williams,200749,Standard Layup,2,60,26,Layup Shot,LAYUPS,,2008
+Shelden Williams,200749,Putback Layup,2,4,3,Putback Layup Shot,LAYUPS,,2008
+Shelden Williams,200749,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2008
+Shelden Williams,200749,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2008
+Shelden Williams,200749,Running Jump Shot,2,3,0,Running Jump Shot,JUMP_SHOTS,,2008
+Shelden Williams,200749,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2008
+Shelden Williams,200749,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2008
+Shelden Williams,200749,Tip Shot,2,16,6,Tip Shot,TIP_SHOTS,,2008
+Shelden Williams,200749,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2008
+Shelden Williams,200749,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2008
+Shelden Williams,200749,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2009
+Shelden Williams,200749,Driving Layup,2,5,4,Driving Layup Shot,LAYUPS,,2009
+Shelden Williams,200749,Standard Dunk,2,18,15,Dunk Shot,DUNKS,,2009
+Shelden Williams,200749,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2009
+Shelden Williams,200749,Hook Shot,2,2,0,Jump Hook Shot,POST_MOVES,,2009
+Shelden Williams,200749,Jump Shot,2,59,16,Jump Shot,JUMP_SHOTS,,2009
+Shelden Williams,200749,Standard Layup,2,48,23,Layup Shot,LAYUPS,,2009
+Shelden Williams,200749,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2009
+Shelden Williams,200749,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2009
+Shelden Williams,200749,Running Hook Shot,2,4,1,Running Hook Shot,POST_MOVES,,2009
+Shelden Williams,200749,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2009
+Shelden Williams,200749,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2009
+Shelden Williams,200749,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2009
+Shelden Williams,200749,Tip Shot,2,11,6,Tip Shot,TIP_SHOTS,,2009
+Shelden Williams,200749,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2009
+Shelden Williams,200749,Alley Oop Dunk,2,2,1,Alley Oop Dunk Shot,DUNKS,,2010
+Shelden Williams,200749,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2010
+Shelden Williams,200749,Driving Layup,2,3,2,Driving Layup Shot,LAYUPS,,2010
+Shelden Williams,200749,Standard Dunk,2,9,7,Dunk Shot,DUNKS,,2010
+Shelden Williams,200749,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+Shelden Williams,200749,Hook Shot,2,7,3,Hook Shot,POST_MOVES,,2010
+Shelden Williams,200749,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2010
+Shelden Williams,200749,Jump Shot,2,32,8,Jump Shot,JUMP_SHOTS,,2010
+Shelden Williams,200749,Standard Layup,2,43,20,Layup Shot,LAYUPS,,2010
+Shelden Williams,200749,Putback Layup,2,3,3,Putback Layup Shot,LAYUPS,,2010
+Shelden Williams,200749,Reverse Layup,2,5,5,Reverse Layup Shot,LAYUPS,,2010
+Shelden Williams,200749,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2010
+Shelden Williams,200749,Tip Shot,2,4,3,Tip Shot,TIP_SHOTS,,2010
+Shelden Williams,200749,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2010
+Shelden Williams,200749,Turnaround Jump Shot,2,6,5,Turnaround Jump Shot,JUMP_SHOTS,,2010
+Shelden Williams,200749,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2011
+Shelden Williams,200749,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2011
+Shelden Williams,200749,Standard Dunk,2,10,9,Dunk Shot,DUNKS,,2011
+Shelden Williams,200749,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Shelden Williams,200749,Hook Shot,2,3,3,Hook Shot,POST_MOVES,,2011
+Shelden Williams,200749,Hook Shot,2,5,1,Jump Hook Shot,POST_MOVES,,2011
+Shelden Williams,200749,Jump Shot,2,89,36,Jump Shot,JUMP_SHOTS,,2011
+Shelden Williams,200749,Standard Layup,2,67,27,Layup Shot,LAYUPS,,2011
+Shelden Williams,200749,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2011
+Shelden Williams,200749,Putback Layup,2,5,4,Putback Layup Shot,LAYUPS,,2011
+Shelden Williams,200749,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2011
+Shelden Williams,200749,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2011
+Shelden Williams,200749,Running Hook Shot,2,3,2,Running Hook Shot,POST_MOVES,,2011
+Shelden Williams,200749,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2011
+Shelden Williams,200749,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2011
+Shelden Williams,200749,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,2011
+Shelden Williams,200749,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2011
+Shelden Williams,200749,Tip Shot,2,20,7,Tip Shot,TIP_SHOTS,,2011
+Shelden Williams,200749,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2011
+Shelden Williams,200749,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2012
+Shelden Williams,200749,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2012
+Shelden Williams,200749,Driving Layup,2,3,3,Driving Layup Shot,LAYUPS,,2012
+Shelden Williams,200749,Standard Dunk,2,16,14,Dunk Shot,DUNKS,,2012
+Shelden Williams,200749,Hook Shot,2,9,4,Hook Shot,POST_MOVES,,2012
+Shelden Williams,200749,Jump Shot,2,3,3,Jump Bank Shot,JUMP_SHOTS,,2012
+Shelden Williams,200749,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2012
+Shelden Williams,200749,Jump Shot,2,40,5,Jump Shot,JUMP_SHOTS,,2012
+Shelden Williams,200749,Standard Layup,2,80,41,Layup Shot,LAYUPS,,2012
+Shelden Williams,200749,Putback Dunk,2,2,1,Putback Dunk Shot,DUNKS,,2012
+Shelden Williams,200749,Putback Layup,2,12,8,Putback Layup Shot,LAYUPS,,2012
+Shelden Williams,200749,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2012
+Shelden Williams,200749,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2012
+Shelden Williams,200749,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2012
+Shelden Williams,200749,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2012
+Shelden Williams,200749,Tip Shot,2,25,7,Tip Shot,TIP_SHOTS,,2012

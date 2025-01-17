@@ -1,47 +1,297 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-201936,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2011
-201936,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2011
-201936,Driving Jump Shot,2PT Field Goal,3,1,Driving Jump shot,JUMP_SHOTS,0.3333333333333333,2013
-201936,Driving Layup,2PT Field Goal,5,4,Driving Layup Shot,LAYUPS,0.8,2013
-201936,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2013
-201936,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,2013
-201936,Standard Layup,2PT Field Goal,6,4,Layup Shot,LAYUPS,0.6666666666666666,2013
-201936,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2013
-201936,Driving Layup,2PT Field Goal,7,5,Driving Layup Shot,LAYUPS,0.7142857142857143,2014
-201936,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2014
-201936,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2014
-201936,Finger Roll,2PT Field Goal,2,2,Finger Roll Layup Shot,LAYUPS,1.0,2014
-201936,Jump Shot,2PT Field Goal,6,1,Jump Shot,JUMP_SHOTS,0.1666666666666666,2014
-201936,Jump Shot,3PT Field Goal,3,2,Jump Shot,JUMP_SHOTS,1.0,2014
-201936,Standard Layup,2PT Field Goal,10,3,Layup Shot,LAYUPS,0.3,2014
-201936,Reverse Layup,2PT Field Goal,2,1,Reverse Layup Shot,LAYUPS,0.5,2014
-201936,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2014
-201936,Driving Layup,2PT Field Goal,2,2,Driving Layup Shot,LAYUPS,1.0,2015
-201936,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2015
-201936,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2015
-201936,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2015
-201936,Jump Shot,2PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2016
-201936,Standard Layup,2PT Field Goal,2,1,Cutting Layup Shot,LAYUPS,0.5,2017
-201936,Finger Roll,2PT Field Goal,2,1,Driving Finger Roll Layup Shot,LAYUPS,0.5,2017
-201936,Driving Layup,2PT Field Goal,19,15,Driving Layup Shot,LAYUPS,0.7894736842105263,2017
-201936,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2017
-201936,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2017
-201936,Jump Shot,2PT Field Goal,18,5,Jump Shot,JUMP_SHOTS,0.2777777777777778,2017
-201936,Jump Shot,3PT Field Goal,37,13,Jump Shot,JUMP_SHOTS,0.527027027027027,2017
-201936,Standard Layup,2PT Field Goal,21,8,Layup Shot,LAYUPS,0.3809523809523809,2017
-201936,Pullup Jump Shot,2PT Field Goal,2,1,Pullup Jump shot,JUMP_SHOTS,0.5,2017
-201936,Pullup Jump Shot,3PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.5,2017
-201936,Putback Layup,2PT Field Goal,1,0,Putback Layup Shot,LAYUPS,0.0,2017
-201936,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2017
-201936,Finger Roll,2PT Field Goal,1,1,Running Finger Roll Layup Shot,LAYUPS,1.0,2017
-201936,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2017
-201936,Standard Layup,2PT Field Goal,2,2,Running Layup Shot,LAYUPS,1.0,2017
-201936,Reverse Layup,2PT Field Goal,1,1,Running Reverse Layup Shot,LAYUPS,1.0,2017
-201936,Step Back Jump Shot,3PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2017
-201936,Turnaround Jump Shot,3PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2017
-201936,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2019
-201936,Finger Roll,2PT Field Goal,1,0,Driving Finger Roll Layup Shot,LAYUPS,0.0,2019
-201936,Driving Layup,2PT Field Goal,2,0,Driving Layup Shot,LAYUPS,0.0,2019
-201936,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2019
-201936,Pullup Jump Shot,2PT Field Goal,2,0,Pullup Jump shot,JUMP_SHOTS,0.0,2019
-201936,Finger Roll,2PT Field Goal,3,3,Running Finger Roll Layup Shot,LAYUPS,1.0,2019
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Tyreke Evans,201936,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2010
+Tyreke Evans,201936,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2010
+Tyreke Evans,201936,Finger Roll,2,7,5,Driving Finger Roll Layup Shot,LAYUPS,,2010
+Tyreke Evans,201936,Driving Jump Shot,2,4,4,Driving Jump shot,JUMP_SHOTS,,2010
+Tyreke Evans,201936,Driving Layup,2,264,196,Driving Layup Shot,LAYUPS,,2010
+Tyreke Evans,201936,Driving Layup,2,16,14,Driving Reverse Layup Shot,LAYUPS,,2010
+Tyreke Evans,201936,Standard Dunk,2,10,10,Dunk Shot,DUNKS,,2010
+Tyreke Evans,201936,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2010
+Tyreke Evans,201936,Fadeaway Jump Shot,2,20,8,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+Tyreke Evans,201936,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2010
+Tyreke Evans,201936,Floating Jump Shot,2,3,2,Floating Jump shot,FLOATING_SHOTS,,2010
+Tyreke Evans,201936,Hook Shot,2,4,2,Hook Shot,POST_MOVES,,2010
+Tyreke Evans,201936,Jump Shot,2,5,5,Jump Bank Shot,JUMP_SHOTS,,2010
+Tyreke Evans,201936,Hook Shot,2,5,4,Jump Hook Shot,POST_MOVES,,2010
+Tyreke Evans,201936,Jump Shot,2,460,114,Jump Shot,JUMP_SHOTS,,2010
+Tyreke Evans,201936,Standard Layup,2,244,90,Layup Shot,LAYUPS,,2010
+Tyreke Evans,201936,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2010
+Tyreke Evans,201936,Pullup Jump Shot,2,25,15,Pullup Jump shot,JUMP_SHOTS,,2010
+Tyreke Evans,201936,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2010
+Tyreke Evans,201936,Reverse Layup,2,29,14,Reverse Layup Shot,LAYUPS,,2010
+Tyreke Evans,201936,Running Jump Shot,2,3,2,Running Bank shot,JUMP_SHOTS,,2010
+Tyreke Evans,201936,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2010
+Tyreke Evans,201936,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2010
+Tyreke Evans,201936,Running Hook Shot,2,7,3,Running Hook Shot,POST_MOVES,,2010
+Tyreke Evans,201936,Running Jump Shot,2,17,9,Running Jump Shot,JUMP_SHOTS,,2010
+Tyreke Evans,201936,Standard Layup,2,10,6,Running Layup Shot,LAYUPS,,2010
+Tyreke Evans,201936,Standard Dunk,2,7,7,Slam Dunk Shot,DUNKS,,2010
+Tyreke Evans,201936,Step Back Jump Shot,2,3,3,Step Back Jump shot,JUMP_SHOTS,,2010
+Tyreke Evans,201936,Tip Shot,2,3,3,Tip Shot,TIP_SHOTS,,2010
+Tyreke Evans,201936,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2010
+Tyreke Evans,201936,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2010
+Tyreke Evans,201936,Turnaround Jump Shot,2,6,5,Turnaround Jump Shot,JUMP_SHOTS,,2010
+Tyreke Evans,201936,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2011
+Tyreke Evans,201936,Driving Dunk,2,5,5,Driving Dunk Shot,DUNKS,,2011
+Tyreke Evans,201936,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2011
+Tyreke Evans,201936,Driving Jump Shot,2,7,3,Driving Jump shot,JUMP_SHOTS,,2011
+Tyreke Evans,201936,Driving Layup,2,157,110,Driving Layup Shot,LAYUPS,,2011
+Tyreke Evans,201936,Driving Layup,2,18,14,Driving Reverse Layup Shot,LAYUPS,,2011
+Tyreke Evans,201936,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2011
+Tyreke Evans,201936,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2011
+Tyreke Evans,201936,Fadeaway Jump Shot,2,31,18,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Tyreke Evans,201936,Hook Shot,2,3,0,Hook Shot,POST_MOVES,,2011
+Tyreke Evans,201936,Jump Shot,2,8,6,Jump Bank Shot,JUMP_SHOTS,,2011
+Tyreke Evans,201936,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2011
+Tyreke Evans,201936,Jump Shot,2,463,111,Jump Shot,JUMP_SHOTS,,2011
+Tyreke Evans,201936,Jump Shot,3,4,2,Jump Shot,JUMP_SHOTS,,2011
+Tyreke Evans,201936,Standard Layup,2,137,58,Layup Shot,LAYUPS,,2011
+Tyreke Evans,201936,Pullup Jump Shot,2,18,10,Pullup Jump shot,JUMP_SHOTS,,2011
+Tyreke Evans,201936,Reverse Layup,2,16,8,Reverse Layup Shot,LAYUPS,,2011
+Tyreke Evans,201936,Running Jump Shot,2,3,2,Running Bank shot,JUMP_SHOTS,,2011
+Tyreke Evans,201936,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2011
+Tyreke Evans,201936,Running Hook Shot,2,4,2,Running Hook Shot,POST_MOVES,,2011
+Tyreke Evans,201936,Running Jump Shot,2,25,9,Running Jump Shot,JUMP_SHOTS,,2011
+Tyreke Evans,201936,Standard Layup,2,4,3,Running Layup Shot,LAYUPS,,2011
+Tyreke Evans,201936,Tip Shot,2,1,0,Running Tip Shot,TIP_SHOTS,,2011
+Tyreke Evans,201936,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2011
+Tyreke Evans,201936,Step Back Jump Shot,2,6,4,Step Back Jump shot,JUMP_SHOTS,,2011
+Tyreke Evans,201936,Step Back Jump Shot,3,1,1,Step Back Jump shot,JUMP_SHOTS,,2011
+Tyreke Evans,201936,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,,2011
+Tyreke Evans,201936,Turnaround Jump Shot,2,2,2,Turnaround Bank shot,JUMP_SHOTS,,2011
+Tyreke Evans,201936,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2011
+Tyreke Evans,201936,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2011
+Tyreke Evans,201936,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2011
+Tyreke Evans,201936,Driving Jump Shot,2,2,1,Driving Bank shot,JUMP_SHOTS,,2012
+Tyreke Evans,201936,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2012
+Tyreke Evans,201936,Finger Roll,2,6,6,Driving Finger Roll Layup Shot,LAYUPS,,2012
+Tyreke Evans,201936,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2012
+Tyreke Evans,201936,Driving Jump Shot,2,10,7,Driving Jump shot,JUMP_SHOTS,,2012
+Tyreke Evans,201936,Driving Layup,2,196,139,Driving Layup Shot,LAYUPS,,2012
+Tyreke Evans,201936,Driving Layup,2,17,14,Driving Reverse Layup Shot,LAYUPS,,2012
+Tyreke Evans,201936,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2012
+Tyreke Evans,201936,Standard Dunk,2,5,5,Dunk Shot,DUNKS,,2012
+Tyreke Evans,201936,Fadeaway Jump Shot,2,24,11,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Tyreke Evans,201936,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2012
+Tyreke Evans,201936,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2012
+Tyreke Evans,201936,Hook Shot,2,3,0,Hook Shot,POST_MOVES,,2012
+Tyreke Evans,201936,Jump Shot,2,5,3,Jump Bank Shot,JUMP_SHOTS,,2012
+Tyreke Evans,201936,Hook Shot,2,2,1,Jump Hook Shot,POST_MOVES,,2012
+Tyreke Evans,201936,Jump Shot,2,355,74,Jump Shot,JUMP_SHOTS,,2012
+Tyreke Evans,201936,Jump Shot,3,4,0,Jump Shot,JUMP_SHOTS,,2012
+Tyreke Evans,201936,Standard Layup,2,165,82,Layup Shot,LAYUPS,,2012
+Tyreke Evans,201936,Pullup Jump Shot,2,7,5,Pullup Jump shot,JUMP_SHOTS,,2012
+Tyreke Evans,201936,Reverse Layup,2,31,23,Reverse Layup Shot,LAYUPS,,2012
+Tyreke Evans,201936,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2012
+Tyreke Evans,201936,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2012
+Tyreke Evans,201936,Running Hook Shot,2,4,1,Running Hook Shot,POST_MOVES,,2012
+Tyreke Evans,201936,Running Jump Shot,2,12,4,Running Jump Shot,JUMP_SHOTS,,2012
+Tyreke Evans,201936,Standard Layup,2,8,3,Running Layup Shot,LAYUPS,,2012
+Tyreke Evans,201936,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2012
+Tyreke Evans,201936,Standard Dunk,2,2,2,Running Slam Dunk Shot,DUNKS,,2012
+Tyreke Evans,201936,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2012
+Tyreke Evans,201936,Step Back Jump Shot,2,13,5,Step Back Jump shot,JUMP_SHOTS,,2012
+Tyreke Evans,201936,Tip Shot,2,5,3,Tip Shot,TIP_SHOTS,,2012
+Tyreke Evans,201936,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2012
+Tyreke Evans,201936,Turnaround Jump Shot,2,3,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2012
+Tyreke Evans,201936,Turnaround Jump Shot,2,5,4,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Tyreke Evans,201936,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2013
+Tyreke Evans,201936,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2013
+Tyreke Evans,201936,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2013
+Tyreke Evans,201936,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2013
+Tyreke Evans,201936,Driving Jump Shot,2,10,3,Driving Jump shot,JUMP_SHOTS,,2013
+Tyreke Evans,201936,Driving Layup,2,156,126,Driving Layup Shot,LAYUPS,,2013
+Tyreke Evans,201936,Driving Layup,2,11,6,Driving Reverse Layup Shot,LAYUPS,,2013
+Tyreke Evans,201936,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2013
+Tyreke Evans,201936,Standard Dunk,2,7,7,Dunk Shot,DUNKS,,2013
+Tyreke Evans,201936,Fadeaway Jump Shot,2,14,8,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Tyreke Evans,201936,Finger Roll,2,3,3,Finger Roll Layup Shot,LAYUPS,,2013
+Tyreke Evans,201936,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2013
+Tyreke Evans,201936,Jump Shot,2,3,2,Jump Bank Shot,JUMP_SHOTS,,2013
+Tyreke Evans,201936,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2013
+Tyreke Evans,201936,Jump Shot,2,274,69,Jump Shot,JUMP_SHOTS,,2013
+Tyreke Evans,201936,Jump Shot,3,20,8,Jump Shot,JUMP_SHOTS,,2013
+Tyreke Evans,201936,Standard Layup,2,158,71,Layup Shot,LAYUPS,,2013
+Tyreke Evans,201936,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2013
+Tyreke Evans,201936,Pullup Jump Shot,2,8,5,Pullup Jump shot,JUMP_SHOTS,,2013
+Tyreke Evans,201936,Putback Dunk,2,1,0,Putback Dunk Shot,DUNKS,,2013
+Tyreke Evans,201936,Reverse Layup,2,33,14,Reverse Layup Shot,LAYUPS,,2013
+Tyreke Evans,201936,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2013
+Tyreke Evans,201936,Running Hook Shot,2,9,4,Running Hook Shot,POST_MOVES,,2013
+Tyreke Evans,201936,Running Jump Shot,2,17,7,Running Jump Shot,JUMP_SHOTS,,2013
+Tyreke Evans,201936,Running Jump Shot,3,1,1,Running Jump Shot,JUMP_SHOTS,,2013
+Tyreke Evans,201936,Standard Layup,2,8,7,Running Layup Shot,LAYUPS,,2013
+Tyreke Evans,201936,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2013
+Tyreke Evans,201936,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2013
+Tyreke Evans,201936,Step Back Jump Shot,2,7,4,Step Back Jump shot,JUMP_SHOTS,,2013
+Tyreke Evans,201936,Tip Shot,2,6,3,Tip Shot,TIP_SHOTS,,2013
+Tyreke Evans,201936,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2013
+Tyreke Evans,201936,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Tyreke Evans,201936,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2014
+Tyreke Evans,201936,Driving Jump Shot,2,2,0,Driving Bank shot,JUMP_SHOTS,,2014
+Tyreke Evans,201936,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2014
+Tyreke Evans,201936,Finger Roll,2,15,11,Driving Finger Roll Layup Shot,LAYUPS,,2014
+Tyreke Evans,201936,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2014
+Tyreke Evans,201936,Driving Jump Shot,2,18,8,Driving Jump shot,JUMP_SHOTS,,2014
+Tyreke Evans,201936,Driving Layup,2,186,142,Driving Layup Shot,LAYUPS,,2014
+Tyreke Evans,201936,Driving Layup,2,11,7,Driving Reverse Layup Shot,LAYUPS,,2014
+Tyreke Evans,201936,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2014
+Tyreke Evans,201936,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2014
+Tyreke Evans,201936,Fadeaway Jump Shot,2,7,3,Fadeaway Jump Shot,JUMP_SHOTS,,2014
+Tyreke Evans,201936,Finger Roll,2,6,5,Finger Roll Layup Shot,LAYUPS,,2014
+Tyreke Evans,201936,Floating Jump Shot,2,5,3,Floating Jump shot,FLOATING_SHOTS,,2014
+Tyreke Evans,201936,Hook Shot,2,3,0,Hook Shot,POST_MOVES,,2014
+Tyreke Evans,201936,Jump Shot,2,4,3,Jump Bank Shot,JUMP_SHOTS,,2014
+Tyreke Evans,201936,Hook Shot,2,2,1,Jump Hook Shot,POST_MOVES,,2014
+Tyreke Evans,201936,Jump Shot,2,256,44,Jump Shot,JUMP_SHOTS,,2014
+Tyreke Evans,201936,Jump Shot,3,4,2,Jump Shot,JUMP_SHOTS,,2014
+Tyreke Evans,201936,Standard Layup,2,284,101,Layup Shot,LAYUPS,,2014
+Tyreke Evans,201936,Pullup Jump Shot,2,2,1,Pullup Jump shot,JUMP_SHOTS,,2014
+Tyreke Evans,201936,Putback Layup,2,6,6,Putback Layup Shot,LAYUPS,,2014
+Tyreke Evans,201936,Reverse Layup,2,19,13,Reverse Layup Shot,LAYUPS,,2014
+Tyreke Evans,201936,Running Jump Shot,2,4,4,Running Bank shot,JUMP_SHOTS,,2014
+Tyreke Evans,201936,Running Hook Shot,2,7,4,Running Hook Shot,POST_MOVES,,2014
+Tyreke Evans,201936,Running Jump Shot,2,16,8,Running Jump Shot,JUMP_SHOTS,,2014
+Tyreke Evans,201936,Standard Layup,2,16,12,Running Layup Shot,LAYUPS,,2014
+Tyreke Evans,201936,Step Back Jump Shot,2,7,3,Step Back Jump shot,JUMP_SHOTS,,2014
+Tyreke Evans,201936,Tip Shot,2,7,2,Tip Shot,TIP_SHOTS,,2014
+Tyreke Evans,201936,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2014
+Tyreke Evans,201936,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2014
+Tyreke Evans,201936,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2015
+Tyreke Evans,201936,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2015
+Tyreke Evans,201936,Driving Jump Shot,2,5,3,Driving Bank shot,JUMP_SHOTS,,2015
+Tyreke Evans,201936,Finger Roll,2,17,16,Driving Finger Roll Layup Shot,LAYUPS,,2015
+Tyreke Evans,201936,Driving Hook Shot,2,3,1,Driving Hook Shot,POST_MOVES,,2015
+Tyreke Evans,201936,Driving Jump Shot,2,15,3,Driving Jump shot,JUMP_SHOTS,,2015
+Tyreke Evans,201936,Driving Layup,2,254,197,Driving Layup Shot,LAYUPS,,2015
+Tyreke Evans,201936,Driving Layup,2,8,6,Driving Reverse Layup Shot,LAYUPS,,2015
+Tyreke Evans,201936,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2015
+Tyreke Evans,201936,Standard Dunk,2,5,5,Dunk Shot,DUNKS,,2015
+Tyreke Evans,201936,Fadeaway Jump Shot,2,5,3,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+Tyreke Evans,201936,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2015
+Tyreke Evans,201936,Floating Jump Shot,2,3,3,Floating Jump shot,FLOATING_SHOTS,,2015
+Tyreke Evans,201936,Hook Shot,2,3,1,Hook Shot,POST_MOVES,,2015
+Tyreke Evans,201936,Jump Shot,2,4,2,Jump Bank Shot,JUMP_SHOTS,,2015
+Tyreke Evans,201936,Jump Shot,2,403,109,Jump Shot,JUMP_SHOTS,,2015
+Tyreke Evans,201936,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,2015
+Tyreke Evans,201936,Standard Layup,2,330,113,Layup Shot,LAYUPS,,2015
+Tyreke Evans,201936,Pullup Jump Shot,2,20,15,Pullup Jump shot,JUMP_SHOTS,,2015
+Tyreke Evans,201936,Putback Layup,2,7,6,Putback Layup Shot,LAYUPS,,2015
+Tyreke Evans,201936,Reverse Layup,2,18,12,Reverse Layup Shot,LAYUPS,,2015
+Tyreke Evans,201936,Running Jump Shot,2,2,1,Running Bank shot,JUMP_SHOTS,,2015
+Tyreke Evans,201936,Running Hook Shot,2,3,1,Running Hook Shot,POST_MOVES,,2015
+Tyreke Evans,201936,Running Jump Shot,2,17,3,Running Jump Shot,JUMP_SHOTS,,2015
+Tyreke Evans,201936,Standard Layup,2,7,2,Running Layup Shot,LAYUPS,,2015
+Tyreke Evans,201936,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2015
+Tyreke Evans,201936,Step Back Jump Shot,2,20,9,Step Back Jump shot,JUMP_SHOTS,,2015
+Tyreke Evans,201936,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,,2015
+Tyreke Evans,201936,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2015
+Tyreke Evans,201936,Turnaround Jump Shot,2,4,2,Turnaround Jump Shot,JUMP_SHOTS,,2015
+Tyreke Evans,201936,Standard Layup,2,6,6,Cutting Layup Shot,LAYUPS,,2016
+Tyreke Evans,201936,Finger Roll,2,9,8,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Tyreke Evans,201936,Floating Jump Shot,2,2,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Tyreke Evans,201936,Driving Layup,2,73,46,Driving Layup Shot,LAYUPS,,2016
+Tyreke Evans,201936,Driving Layup,2,4,2,Driving Reverse Layup Shot,LAYUPS,,2016
+Tyreke Evans,201936,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Tyreke Evans,201936,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2016
+Tyreke Evans,201936,Jump Shot,2,3,1,Jump Bank Shot,JUMP_SHOTS,,2016
+Tyreke Evans,201936,Jump Shot,2,121,37,Jump Shot,JUMP_SHOTS,,2016
+Tyreke Evans,201936,Jump Shot,3,3,3,Jump Shot,JUMP_SHOTS,,2016
+Tyreke Evans,201936,Standard Layup,2,48,6,Layup Shot,LAYUPS,,2016
+Tyreke Evans,201936,Pullup Jump Shot,2,6,5,Pullup Jump shot,JUMP_SHOTS,,2016
+Tyreke Evans,201936,Putback Layup,2,5,3,Putback Layup Shot,LAYUPS,,2016
+Tyreke Evans,201936,Reverse Layup,2,3,0,Reverse Layup Shot,LAYUPS,,2016
+Tyreke Evans,201936,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2016
+Tyreke Evans,201936,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2016
+Tyreke Evans,201936,Running Jump Shot,2,5,1,Running Jump Shot,JUMP_SHOTS,,2016
+Tyreke Evans,201936,Standard Layup,2,11,9,Running Layup Shot,LAYUPS,,2016
+Tyreke Evans,201936,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2016
+Tyreke Evans,201936,Step Back Jump Shot,2,7,4,Step Back Jump shot,JUMP_SHOTS,,2016
+Tyreke Evans,201936,Putback Layup,2,2,1,Tip Layup Shot,LAYUPS,,2016
+Tyreke Evans,201936,Standard Layup,2,5,4,Cutting Layup Shot,LAYUPS,,2017
+Tyreke Evans,201936,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2017
+Tyreke Evans,201936,Finger Roll,2,7,5,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Tyreke Evans,201936,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Tyreke Evans,201936,Driving Hook Shot,2,2,2,Driving Hook Shot,POST_MOVES,,2017
+Tyreke Evans,201936,Driving Layup,2,62,39,Driving Layup Shot,LAYUPS,,2017
+Tyreke Evans,201936,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2017
+Tyreke Evans,201936,Fadeaway Jump Shot,2,3,0,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Tyreke Evans,201936,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2017
+Tyreke Evans,201936,Floating Jump Shot,2,2,2,Floating Jump shot,FLOATING_SHOTS,,2017
+Tyreke Evans,201936,Hook Shot,2,3,1,Hook Shot,POST_MOVES,,2017
+Tyreke Evans,201936,Jump Shot,2,116,31,Jump Shot,JUMP_SHOTS,,2017
+Tyreke Evans,201936,Jump Shot,3,55,17,Jump Shot,JUMP_SHOTS,,2017
+Tyreke Evans,201936,Standard Layup,2,69,23,Layup Shot,LAYUPS,,2017
+Tyreke Evans,201936,Pullup Jump Shot,2,8,5,Pullup Jump shot,JUMP_SHOTS,,2017
+Tyreke Evans,201936,Pullup Jump Shot,3,1,1,Pullup Jump shot,JUMP_SHOTS,,2017
+Tyreke Evans,201936,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2017
+Tyreke Evans,201936,Reverse Layup,2,6,4,Reverse Layup Shot,LAYUPS,,2017
+Tyreke Evans,201936,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2017
+Tyreke Evans,201936,Finger Roll,2,2,2,Running Finger Roll Layup Shot,LAYUPS,,2017
+Tyreke Evans,201936,Running Jump Shot,2,4,0,Running Jump Shot,JUMP_SHOTS,,2017
+Tyreke Evans,201936,Standard Layup,2,6,4,Running Layup Shot,LAYUPS,,2017
+Tyreke Evans,201936,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2017
+Tyreke Evans,201936,Step Back Jump Shot,2,7,4,Step Back Jump shot,JUMP_SHOTS,,2017
+Tyreke Evans,201936,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2017
+Tyreke Evans,201936,Putback Layup,2,2,1,Tip Layup Shot,LAYUPS,,2017
+Tyreke Evans,201936,Turnaround Jump Shot,3,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Tyreke Evans,201936,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2018
+Tyreke Evans,201936,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2018
+Tyreke Evans,201936,Standard Layup,2,11,8,Cutting Layup Shot,LAYUPS,,2018
+Tyreke Evans,201936,Finger Roll,2,36,24,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Tyreke Evans,201936,Floating Jump Shot,2,10,6,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Tyreke Evans,201936,Floating Jump Shot,2,22,5,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Tyreke Evans,201936,Driving Layup,2,174,88,Driving Layup Shot,LAYUPS,,2018
+Tyreke Evans,201936,Driving Layup,2,25,11,Driving Reverse Layup Shot,LAYUPS,,2018
+Tyreke Evans,201936,Fadeaway Jump Shot,2,4,1,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+Tyreke Evans,201936,Finger Roll,2,3,2,Finger Roll Layup Shot,LAYUPS,,2018
+Tyreke Evans,201936,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2018
+Tyreke Evans,201936,Hook Shot,2,4,0,Hook Shot,POST_MOVES,,2018
+Tyreke Evans,201936,Jump Shot,2,3,3,Jump Bank Shot,JUMP_SHOTS,,2018
+Tyreke Evans,201936,Jump Shot,2,232,90,Jump Shot,JUMP_SHOTS,,2018
+Tyreke Evans,201936,Standard Layup,2,29,6,Layup Shot,LAYUPS,,2018
+Tyreke Evans,201936,Pullup Jump Shot,2,77,33,Pullup Jump shot,JUMP_SHOTS,,2018
+Tyreke Evans,201936,Putback Layup,2,10,2,Putback Layup Shot,LAYUPS,,2018
+Tyreke Evans,201936,Reverse Layup,2,4,0,Reverse Layup Shot,LAYUPS,,2018
+Tyreke Evans,201936,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2018
+Tyreke Evans,201936,Finger Roll,2,18,16,Running Finger Roll Layup Shot,LAYUPS,,2018
+Tyreke Evans,201936,Running Jump Shot,2,5,0,Running Jump Shot,JUMP_SHOTS,,2018
+Tyreke Evans,201936,Standard Layup,2,61,37,Running Layup Shot,LAYUPS,,2018
+Tyreke Evans,201936,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2018
+Tyreke Evans,201936,Reverse Layup,2,2,0,Running Reverse Layup Shot,LAYUPS,,2018
+Tyreke Evans,201936,Step Back Jump Shot,2,1,1,Step Back Bank Jump Shot,JUMP_SHOTS,,2018
+Tyreke Evans,201936,Step Back Jump Shot,2,61,24,Step Back Jump shot,JUMP_SHOTS,,2018
+Tyreke Evans,201936,Putback Layup,2,5,2,Tip Layup Shot,LAYUPS,,2018
+Tyreke Evans,201936,Turnaround Jump Shot,2,2,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2018
+Tyreke Evans,201936,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2018
+Tyreke Evans,201936,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2018
+Tyreke Evans,201936,Finger Roll,2,2,2,Cutting Finger Roll Layup Shot,LAYUPS,,2019
+Tyreke Evans,201936,Standard Layup,2,9,6,Cutting Layup Shot,LAYUPS,,2019
+Tyreke Evans,201936,Driving Dunk,2,1,0,Driving Dunk Shot,DUNKS,,2019
+Tyreke Evans,201936,Finger Roll,2,57,33,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Tyreke Evans,201936,Floating Jump Shot,2,3,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Tyreke Evans,201936,Floating Jump Shot,2,8,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Tyreke Evans,201936,Driving Hook Shot,2,3,0,Driving Hook Shot,POST_MOVES,,2019
+Tyreke Evans,201936,Driving Layup,2,128,39,Driving Layup Shot,LAYUPS,,2019
+Tyreke Evans,201936,Driving Layup,2,16,7,Driving Reverse Layup Shot,LAYUPS,,2019
+Tyreke Evans,201936,Fadeaway Jump Shot,2,6,4,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+Tyreke Evans,201936,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2019
+Tyreke Evans,201936,Jump Shot,2,2,0,Jump Bank Shot,JUMP_SHOTS,,2019
+Tyreke Evans,201936,Jump Shot,2,174,58,Jump Shot,JUMP_SHOTS,,2019
+Tyreke Evans,201936,Jump Shot,3,3,0,Jump Shot,JUMP_SHOTS,,2019
+Tyreke Evans,201936,Standard Layup,2,38,8,Layup Shot,LAYUPS,,2019
+Tyreke Evans,201936,Pullup Jump Shot,2,71,25,Pullup Jump shot,JUMP_SHOTS,,2019
+Tyreke Evans,201936,Pullup Jump Shot,3,2,0,Pullup Jump shot,JUMP_SHOTS,,2019
+Tyreke Evans,201936,Putback Layup,2,5,3,Putback Layup Shot,LAYUPS,,2019
+Tyreke Evans,201936,Reverse Layup,2,5,2,Reverse Layup Shot,LAYUPS,,2019
+Tyreke Evans,201936,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2019
+Tyreke Evans,201936,Finger Roll,2,10,10,Running Finger Roll Layup Shot,LAYUPS,,2019
+Tyreke Evans,201936,Running Jump Shot,2,3,2,Running Jump Shot,JUMP_SHOTS,,2019
+Tyreke Evans,201936,Standard Layup,2,35,23,Running Layup Shot,LAYUPS,,2019
+Tyreke Evans,201936,Reverse Layup,2,2,1,Running Reverse Layup Shot,LAYUPS,,2019
+Tyreke Evans,201936,Step Back Jump Shot,2,68,27,Step Back Jump shot,JUMP_SHOTS,,2019
+Tyreke Evans,201936,Putback Layup,2,1,0,Tip Layup Shot,LAYUPS,,2019
+Tyreke Evans,201936,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2019
+Tyreke Evans,201936,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2019
+Tyreke Evans,201936,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2019
+Tyreke Evans,201936,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2019

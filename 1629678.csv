@@ -1,26 +1,67 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1629678,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2022
-1629678,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Jump Shot,FLOATING_SHOTS,1.0,2022
-1629678,Driving Hook Shot,2PT Field Goal,1,1,Driving Hook Shot,POST_MOVES,1.0,2022
-1629678,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2022
-1629678,Jump Shot,3PT Field Goal,4,0,Jump Shot,JUMP_SHOTS,0.0,2022
-1629678,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2022
-1629678,Finger Roll,2PT Field Goal,1,1,Cutting Finger Roll Layup Shot,LAYUPS,1.0,2023
-1629678,Standard Layup,2PT Field Goal,2,1,Cutting Layup Shot,LAYUPS,0.5,2023
-1629678,Driving Hook Shot,2PT Field Goal,1,0,Driving Bank Hook Shot,POST_MOVES,0.0,2023
-1629678,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2023
-1629678,Driving Layup,2PT Field Goal,3,2,Driving Layup Shot,LAYUPS,0.6666666666666666,2023
-1629678,Jump Shot,3PT Field Goal,5,1,Jump Shot,JUMP_SHOTS,0.3,2023
-1629678,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2023
-1629678,Reverse Layup,2PT Field Goal,1,1,Running Reverse Layup Shot,LAYUPS,1.0,2023
-1629678,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2024
-1629678,Standard Layup,2PT Field Goal,1,0,Cutting Layup Shot,LAYUPS,0.0,2024
-1629678,Driving Dunk,2PT Field Goal,1,0,Driving Dunk Shot,DUNKS,0.0,2024
-1629678,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2024
-1629678,Standard Dunk,2PT Field Goal,1,0,Dunk Shot,DUNKS,0.0,2024
-1629678,Jump Shot,3PT Field Goal,10,4,Jump Shot,JUMP_SHOTS,0.6,2024
-1629678,Pullup Jump Shot,2PT Field Goal,2,1,Pullup Jump shot,JUMP_SHOTS,0.5,2024
-1629678,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2024
-1629678,Running Jump Shot,3PT Field Goal,2,0,Running Jump Shot,JUMP_SHOTS,0.0,2024
-1629678,Step Back Jump Shot,3PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.5,2024
-1629678,Putback Layup,2PT Field Goal,1,1,Tip Layup Shot,LAYUPS,1.0,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Admiral Schofield,1629678,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2020
+Admiral Schofield,1629678,Standard Layup,2,3,1,Cutting Layup Shot,LAYUPS,,2020
+Admiral Schofield,1629678,Driving Layup,2,6,2,Driving Layup Shot,LAYUPS,,2020
+Admiral Schofield,1629678,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2020
+Admiral Schofield,1629678,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+Admiral Schofield,1629678,Jump Shot,2,60,21,Jump Shot,JUMP_SHOTS,,2020
+Admiral Schofield,1629678,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,2020
+Admiral Schofield,1629678,Standard Layup,2,5,3,Layup Shot,LAYUPS,,2020
+Admiral Schofield,1629678,Pullup Jump Shot,2,2,1,Pullup Jump shot,JUMP_SHOTS,,2020
+Admiral Schofield,1629678,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2020
+Admiral Schofield,1629678,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2020
+Admiral Schofield,1629678,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2020
+Admiral Schofield,1629678,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2020
+Admiral Schofield,1629678,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2020
+Admiral Schofield,1629678,Putback Layup,2,1,0,Tip Layup Shot,LAYUPS,,2020
+Admiral Schofield,1629678,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2020
+Admiral Schofield,1629678,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2020
+Admiral Schofield,1629678,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2022
+Admiral Schofield,1629678,Standard Layup,2,8,4,Cutting Layup Shot,LAYUPS,,2022
+Admiral Schofield,1629678,Driving Dunk,2,1,0,Driving Dunk Shot,DUNKS,,2022
+Admiral Schofield,1629678,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Admiral Schofield,1629678,Floating Jump Shot,2,8,6,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Admiral Schofield,1629678,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2022
+Admiral Schofield,1629678,Driving Layup,2,11,4,Driving Layup Shot,LAYUPS,,2022
+Admiral Schofield,1629678,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2022
+Admiral Schofield,1629678,Jump Shot,2,67,21,Jump Shot,JUMP_SHOTS,,2022
+Admiral Schofield,1629678,Jump Shot,3,8,3,Jump Shot,JUMP_SHOTS,,2022
+Admiral Schofield,1629678,Standard Layup,2,6,3,Layup Shot,LAYUPS,,2022
+Admiral Schofield,1629678,Pullup Jump Shot,2,5,4,Pullup Jump shot,JUMP_SHOTS,,2022
+Admiral Schofield,1629678,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2022
+Admiral Schofield,1629678,Standard Dunk,2,1,0,Running Dunk Shot,DUNKS,,2022
+Admiral Schofield,1629678,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2022
+Admiral Schofield,1629678,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2022
+Admiral Schofield,1629678,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2022
+Admiral Schofield,1629678,Putback Layup,2,3,0,Tip Layup Shot,LAYUPS,,2022
+Admiral Schofield,1629678,Finger Roll,2,3,3,Cutting Finger Roll Layup Shot,LAYUPS,,2023
+Admiral Schofield,1629678,Standard Layup,2,7,5,Cutting Layup Shot,LAYUPS,,2023
+Admiral Schofield,1629678,Driving Hook Shot,2,1,0,Driving Bank Hook Shot,POST_MOVES,,2023
+Admiral Schofield,1629678,Driving Dunk,2,1,0,Driving Dunk Shot,DUNKS,,2023
+Admiral Schofield,1629678,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Admiral Schofield,1629678,Floating Jump Shot,2,2,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Admiral Schofield,1629678,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2023
+Admiral Schofield,1629678,Driving Layup,2,14,9,Driving Layup Shot,LAYUPS,,2023
+Admiral Schofield,1629678,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2023
+Admiral Schofield,1629678,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2023
+Admiral Schofield,1629678,Jump Shot,2,62,21,Jump Shot,JUMP_SHOTS,,2023
+Admiral Schofield,1629678,Jump Shot,3,5,1,Jump Shot,JUMP_SHOTS,,2023
+Admiral Schofield,1629678,Standard Layup,2,4,2,Layup Shot,LAYUPS,,2023
+Admiral Schofield,1629678,Pullup Jump Shot,2,5,1,Pullup Jump shot,JUMP_SHOTS,,2023
+Admiral Schofield,1629678,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2023
+Admiral Schofield,1629678,Running Jump Shot,2,3,1,Running Jump Shot,JUMP_SHOTS,,2023
+Admiral Schofield,1629678,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2023
+Admiral Schofield,1629678,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2023
+Admiral Schofield,1629678,Putback Layup,2,5,3,Tip Layup Shot,LAYUPS,,2023
+Admiral Schofield,1629678,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2024
+Admiral Schofield,1629678,Standard Layup,2,1,0,Cutting Layup Shot,LAYUPS,,2024
+Admiral Schofield,1629678,Driving Dunk,2,2,1,Driving Dunk Shot,DUNKS,,2024
+Admiral Schofield,1629678,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Admiral Schofield,1629678,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2024
+Admiral Schofield,1629678,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2024
+Admiral Schofield,1629678,Jump Shot,3,12,5,Jump Shot,JUMP_SHOTS,,2024
+Admiral Schofield,1629678,Pullup Jump Shot,2,2,1,Pullup Jump shot,JUMP_SHOTS,,2024
+Admiral Schofield,1629678,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2024
+Admiral Schofield,1629678,Running Jump Shot,3,2,0,Running Jump Shot,JUMP_SHOTS,,2024
+Admiral Schofield,1629678,Step Back Jump Shot,3,1,1,Step Back Jump shot,JUMP_SHOTS,,2024
+Admiral Schofield,1629678,Putback Layup,2,1,1,Tip Layup Shot,LAYUPS,,2024

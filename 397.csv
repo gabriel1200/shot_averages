@@ -1,8 +1,98 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-397,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,1997
-397,Jump Shot,3PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.5,1997
-397,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,1997
-397,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,1999
-397,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1999
-397,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2000
-397,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2000
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Reggie Miller,397,Driving Layup,2,36,32,Driving Layup Shot,LAYUPS,,1997
+Reggie Miller,397,Standard Dunk,2,7,7,Dunk Shot,DUNKS,,1997
+Reggie Miller,397,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,1997
+Reggie Miller,397,Jump Shot,2,992,402,Jump Shot,JUMP_SHOTS,,1997
+Reggie Miller,397,Jump Shot,3,6,2,Jump Shot,JUMP_SHOTS,,1997
+Reggie Miller,397,Standard Layup,2,141,62,Layup Shot,LAYUPS,,1997
+Reggie Miller,397,Running Jump Shot,2,50,38,Running Jump Shot,JUMP_SHOTS,,1997
+Reggie Miller,397,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,1997
+Reggie Miller,397,Tip Shot,2,10,7,Tip Shot,TIP_SHOTS,,1997
+Reggie Miller,397,Driving Layup,2,41,36,Driving Layup Shot,LAYUPS,,1998
+Reggie Miller,397,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,1998
+Reggie Miller,397,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,1998
+Reggie Miller,397,Jump Shot,2,893,369,Jump Shot,JUMP_SHOTS,,1998
+Reggie Miller,397,Standard Layup,2,101,73,Layup Shot,LAYUPS,,1998
+Reggie Miller,397,Running Jump Shot,2,32,26,Running Jump Shot,JUMP_SHOTS,,1998
+Reggie Miller,397,Tip Shot,2,9,8,Tip Shot,TIP_SHOTS,,1998
+Reggie Miller,397,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,1999
+Reggie Miller,397,Driving Layup,2,23,19,Driving Layup Shot,LAYUPS,,1999
+Reggie Miller,397,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,1999
+Reggie Miller,397,Jump Shot,2,565,221,Jump Shot,JUMP_SHOTS,,1999
+Reggie Miller,397,Standard Layup,2,48,30,Layup Shot,LAYUPS,,1999
+Reggie Miller,397,Running Jump Shot,2,29,19,Running Jump Shot,JUMP_SHOTS,,1999
+Reggie Miller,397,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,,1999
+Reggie Miller,397,Driving Layup,2,40,33,Driving Layup Shot,LAYUPS,,2000
+Reggie Miller,397,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2000
+Reggie Miller,397,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2000
+Reggie Miller,397,Jump Shot,2,852,334,Jump Shot,JUMP_SHOTS,,2000
+Reggie Miller,397,Jump Shot,3,2,1,Jump Shot,JUMP_SHOTS,,2000
+Reggie Miller,397,Standard Layup,2,87,57,Layup Shot,LAYUPS,,2000
+Reggie Miller,397,Running Jump Shot,2,44,33,Running Jump Shot,JUMP_SHOTS,,2000
+Reggie Miller,397,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2000
+Reggie Miller,397,Tip Shot,2,11,4,Tip Shot,TIP_SHOTS,,2000
+Reggie Miller,397,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2001
+Reggie Miller,397,Finger Roll,2,4,2,Driving Finger Roll Shot,LAYUPS,,2001
+Reggie Miller,397,Driving Layup,2,17,14,Driving Layup Shot,LAYUPS,,2001
+Reggie Miller,397,Standard Dunk,2,6,6,Dunk Shot,DUNKS,,2001
+Reggie Miller,397,Finger Roll,2,4,3,Finger Roll Shot,LAYUPS,,2001
+Reggie Miller,397,Jump Shot,2,993,385,Jump Shot,JUMP_SHOTS,,2001
+Reggie Miller,397,Standard Layup,2,93,64,Layup Shot,LAYUPS,,2001
+Reggie Miller,397,Reverse Layup,2,12,10,Reverse Layup Shot,LAYUPS,,2001
+Reggie Miller,397,Finger Roll,2,2,2,Running Finger Roll Shot,LAYUPS,,2001
+Reggie Miller,397,Running Jump Shot,2,31,21,Running Jump Shot,JUMP_SHOTS,,2001
+Reggie Miller,397,Tip Shot,2,5,4,Tip Shot,TIP_SHOTS,,2001
+Reggie Miller,397,Turnaround Jump Shot,2,7,4,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Reggie Miller,397,Alley Oop Layup,2,4,4,Alley Oop Layup shot,LAYUPS,,2002
+Reggie Miller,397,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2002
+Reggie Miller,397,Driving Layup,2,6,5,Driving Layup Shot,LAYUPS,,2002
+Reggie Miller,397,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2002
+Reggie Miller,397,Fadeaway Jump Shot,2,12,9,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Reggie Miller,397,Finger Roll,2,6,6,Finger Roll Shot,LAYUPS,,2002
+Reggie Miller,397,Jump Shot,2,768,300,Jump Shot,JUMP_SHOTS,,2002
+Reggie Miller,397,Standard Layup,2,63,43,Layup Shot,LAYUPS,,2002
+Reggie Miller,397,Reverse Layup,2,14,14,Reverse Layup Shot,LAYUPS,,2002
+Reggie Miller,397,Running Jump Shot,2,24,19,Running Jump Shot,JUMP_SHOTS,,2002
+Reggie Miller,397,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2002
+Reggie Miller,397,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2002
+Reggie Miller,397,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,,2002
+Reggie Miller,397,Turnaround Jump Shot,2,4,3,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Reggie Miller,397,Alley Oop Layup,2,4,4,Alley Oop Layup shot,LAYUPS,,2003
+Reggie Miller,397,Driving Layup,2,8,7,Driving Layup Shot,LAYUPS,,2003
+Reggie Miller,397,Fadeaway Jump Shot,2,2,2,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Reggie Miller,397,Finger Roll,2,3,3,Finger Roll Shot,LAYUPS,,2003
+Reggie Miller,397,Jump Shot,2,510,190,Jump Shot,JUMP_SHOTS,,2003
+Reggie Miller,397,Standard Layup,2,68,48,Layup Shot,LAYUPS,,2003
+Reggie Miller,397,Reverse Layup,2,12,11,Reverse Layup Shot,LAYUPS,,2003
+Reggie Miller,397,Running Jump Shot,2,19,10,Running Jump Shot,JUMP_SHOTS,,2003
+Reggie Miller,397,Standard Layup,2,4,3,Running Layup Shot,LAYUPS,,2003
+Reggie Miller,397,Tip Shot,2,6,2,Tip Shot,TIP_SHOTS,,2003
+Reggie Miller,397,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Reggie Miller,397,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2004
+Reggie Miller,397,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2004
+Reggie Miller,397,Finger Roll,2,2,2,Driving Finger Roll Shot,LAYUPS,,2004
+Reggie Miller,397,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2004
+Reggie Miller,397,Driving Layup,2,5,3,Driving Layup Shot,LAYUPS,,2004
+Reggie Miller,397,Fadeaway Jump Shot,2,3,2,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Reggie Miller,397,Finger Roll,2,11,10,Finger Roll Shot,LAYUPS,,2004
+Reggie Miller,397,Jump Shot,2,3,2,Jump Bank Shot,JUMP_SHOTS,,2004
+Reggie Miller,397,Jump Shot,2,507,199,Jump Shot,JUMP_SHOTS,,2004
+Reggie Miller,397,Standard Layup,2,32,19,Layup Shot,LAYUPS,,2004
+Reggie Miller,397,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2004
+Reggie Miller,397,Running Jump Shot,2,21,15,Running Jump Shot,JUMP_SHOTS,,2004
+Reggie Miller,397,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2004
+Reggie Miller,397,Tip Shot,2,3,3,Tip Shot,TIP_SHOTS,,2004
+Reggie Miller,397,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Reggie Miller,397,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2005
+Reggie Miller,397,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2005
+Reggie Miller,397,Finger Roll,2,2,2,Driving Finger Roll Shot,LAYUPS,,2005
+Reggie Miller,397,Driving Layup,2,4,3,Driving Layup Shot,LAYUPS,,2005
+Reggie Miller,397,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2005
+Reggie Miller,397,Fadeaway Jump Shot,2,17,14,Fadeaway Jump Shot,JUMP_SHOTS,,2005
+Reggie Miller,397,Jump Shot,2,3,3,Jump Bank Shot,JUMP_SHOTS,,2005
+Reggie Miller,397,Jump Shot,2,608,228,Jump Shot,JUMP_SHOTS,,2005
+Reggie Miller,397,Standard Layup,2,24,16,Layup Shot,LAYUPS,,2005
+Reggie Miller,397,Reverse Layup,2,5,4,Reverse Layup Shot,LAYUPS,,2005
+Reggie Miller,397,Running Jump Shot,2,39,29,Running Jump Shot,JUMP_SHOTS,,2005
+Reggie Miller,397,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,,2005
+Reggie Miller,397,Turnaround Jump Shot,2,8,7,Turnaround Jump Shot,JUMP_SHOTS,,2005

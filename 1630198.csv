@@ -1,38 +1,101 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1630198,Jump Shot,3PT Field Goal,10,4,Jump Shot,JUMP_SHOTS,0.6,2023
-1630198,Pullup Jump Shot,2PT Field Goal,2,2,Pullup Jump shot,JUMP_SHOTS,1.0,2023
-1630198,Running Jump Shot,3PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.5,2023
-1630198,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2023
-1630198,Step Back Jump Shot,3PT Field Goal,2,0,Step Back Jump shot,JUMP_SHOTS,0.0,2023
-1630198,Specialty Dunk,2PT Field Goal,2,2,Cutting Dunk Shot,DUNKS,1.0,2024
-1630198,Finger Roll,2PT Field Goal,1,1,Cutting Finger Roll Layup Shot,LAYUPS,1.0,2024
-1630198,Standard Layup,2PT Field Goal,1,0,Cutting Layup Shot,LAYUPS,0.0,2024
-1630198,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2024
-1630198,Driving Layup,2PT Field Goal,2,2,Driving Reverse Layup Shot,LAYUPS,1.0,2024
-1630198,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2024
-1630198,Fadeaway Jump Shot,2PT Field Goal,2,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2024
-1630198,Finger Roll,2PT Field Goal,1,0,Finger Roll Layup Shot,LAYUPS,0.0,2024
-1630198,Jump Shot,2PT Field Goal,2,2,Jump Shot,JUMP_SHOTS,1.0,2024
-1630198,Jump Shot,3PT Field Goal,69,22,Jump Shot,JUMP_SHOTS,0.4782608695652174,2024
-1630198,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2024
-1630198,Pullup Jump Shot,2PT Field Goal,12,6,Pullup Jump shot,JUMP_SHOTS,0.5,2024
-1630198,Pullup Jump Shot,3PT Field Goal,7,2,Pullup Jump shot,JUMP_SHOTS,0.4285714285714285,2024
-1630198,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2024
-1630198,Finger Roll,2PT Field Goal,2,1,Running Finger Roll Layup Shot,LAYUPS,0.5,2024
-1630198,Running Jump Shot,3PT Field Goal,10,4,Running Jump Shot,JUMP_SHOTS,0.6,2024
-1630198,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2024
-1630198,Step Back Jump Shot,2PT Field Goal,4,0,Step Back Jump shot,JUMP_SHOTS,0.0,2024
-1630198,Step Back Jump Shot,3PT Field Goal,11,6,Step Back Jump shot,JUMP_SHOTS,0.8181818181818182,2024
-1630198,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2025
-1630198,Standard Layup,2PT Field Goal,2,2,Cutting Layup Shot,LAYUPS,1.0,2025
-1630198,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2025
-1630198,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2025
-1630198,Jump Shot,3PT Field Goal,38,15,Jump Shot,JUMP_SHOTS,0.5921052631578947,2025
-1630198,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2025
-1630198,Pullup Jump Shot,3PT Field Goal,2,1,Pullup Jump shot,JUMP_SHOTS,0.75,2025
-1630198,Standard Dunk,2PT Field Goal,2,2,Running Dunk Shot,DUNKS,1.0,2025
-1630198,Running Jump Shot,3PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.75,2025
-1630198,Standard Layup,2PT Field Goal,4,2,Running Layup Shot,LAYUPS,0.5,2025
-1630198,Running Jump Shot,3PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2025
-1630198,Step Back Jump Shot,2PT Field Goal,2,0,Step Back Jump shot,JUMP_SHOTS,0.0,2025
-1630198,Step Back Jump Shot,3PT Field Goal,9,3,Step Back Jump shot,JUMP_SHOTS,0.5,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Isaiah Joe,1630198,Finger Roll,2,4,1,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Isaiah Joe,1630198,Floating Jump Shot,2,6,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Isaiah Joe,1630198,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2021
+Isaiah Joe,1630198,Jump Shot,2,94,31,Jump Shot,JUMP_SHOTS,,2021
+Isaiah Joe,1630198,Pullup Jump Shot,2,20,11,Pullup Jump shot,JUMP_SHOTS,,2021
+Isaiah Joe,1630198,Running Jump Shot,2,3,2,Running Jump Shot,JUMP_SHOTS,,2021
+Isaiah Joe,1630198,Step Back Jump Shot,2,5,2,Step Back Jump shot,JUMP_SHOTS,,2021
+Isaiah Joe,1630198,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2022
+Isaiah Joe,1630198,Standard Layup,2,5,2,Cutting Layup Shot,LAYUPS,,2022
+Isaiah Joe,1630198,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2022
+Isaiah Joe,1630198,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Isaiah Joe,1630198,Driving Layup,2,4,1,Driving Layup Shot,LAYUPS,,2022
+Isaiah Joe,1630198,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2022
+Isaiah Joe,1630198,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2022
+Isaiah Joe,1630198,Jump Shot,2,113,41,Jump Shot,JUMP_SHOTS,,2022
+Isaiah Joe,1630198,Jump Shot,3,1,1,Jump Shot,JUMP_SHOTS,,2022
+Isaiah Joe,1630198,Pullup Jump Shot,2,24,5,Pullup Jump shot,JUMP_SHOTS,,2022
+Isaiah Joe,1630198,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2022
+Isaiah Joe,1630198,Finger Roll,2,1,0,Running Finger Roll Layup Shot,LAYUPS,,2022
+Isaiah Joe,1630198,Running Jump Shot,2,3,1,Running Jump Shot,JUMP_SHOTS,,2022
+Isaiah Joe,1630198,Running Jump Shot,3,2,0,Running Jump Shot,JUMP_SHOTS,,2022
+Isaiah Joe,1630198,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2022
+Isaiah Joe,1630198,Step Back Jump Shot,2,14,3,Step Back Jump shot,JUMP_SHOTS,,2022
+Isaiah Joe,1630198,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2022
+Isaiah Joe,1630198,Specialty Dunk,2,4,4,Cutting Dunk Shot,DUNKS,,2023
+Isaiah Joe,1630198,Standard Layup,2,8,4,Cutting Layup Shot,LAYUPS,,2023
+Isaiah Joe,1630198,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2023
+Isaiah Joe,1630198,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Isaiah Joe,1630198,Floating Jump Shot,2,5,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Isaiah Joe,1630198,Driving Layup,2,9,3,Driving Layup Shot,LAYUPS,,2023
+Isaiah Joe,1630198,Driving Layup,2,3,1,Driving Reverse Layup Shot,LAYUPS,,2023
+Isaiah Joe,1630198,Fadeaway Jump Shot,2,7,2,Fadeaway Jump Shot,JUMP_SHOTS,,2023
+Isaiah Joe,1630198,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2023
+Isaiah Joe,1630198,Jump Shot,2,256,108,Jump Shot,JUMP_SHOTS,,2023
+Isaiah Joe,1630198,Jump Shot,3,36,15,Jump Shot,JUMP_SHOTS,,2023
+Isaiah Joe,1630198,Standard Layup,2,1,1,Layup Shot,LAYUPS,,2023
+Isaiah Joe,1630198,Pullup Jump Shot,2,57,30,Pullup Jump shot,JUMP_SHOTS,,2023
+Isaiah Joe,1630198,Pullup Jump Shot,3,4,3,Pullup Jump shot,JUMP_SHOTS,,2023
+Isaiah Joe,1630198,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2023
+Isaiah Joe,1630198,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2023
+Isaiah Joe,1630198,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2023
+Isaiah Joe,1630198,Running Jump Shot,2,26,11,Running Jump Shot,JUMP_SHOTS,,2023
+Isaiah Joe,1630198,Running Jump Shot,3,4,1,Running Jump Shot,JUMP_SHOTS,,2023
+Isaiah Joe,1630198,Standard Layup,2,5,4,Running Layup Shot,LAYUPS,,2023
+Isaiah Joe,1630198,Running Jump Shot,2,10,5,Running Pull-Up Jump Shot,JUMP_SHOTS,,2023
+Isaiah Joe,1630198,Step Back Jump Shot,2,47,17,Step Back Jump shot,JUMP_SHOTS,,2023
+Isaiah Joe,1630198,Step Back Jump Shot,3,9,1,Step Back Jump shot,JUMP_SHOTS,,2023
+Isaiah Joe,1630198,Putback Layup,2,3,2,Tip Layup Shot,LAYUPS,,2023
+Isaiah Joe,1630198,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2023
+Isaiah Joe,1630198,Turnaround Jump Shot,2,2,2,Turnaround Jump Shot,JUMP_SHOTS,,2023
+Isaiah Joe,1630198,Specialty Dunk,2,9,7,Cutting Dunk Shot,DUNKS,,2024
+Isaiah Joe,1630198,Finger Roll,2,2,2,Cutting Finger Roll Layup Shot,LAYUPS,,2024
+Isaiah Joe,1630198,Standard Layup,2,7,4,Cutting Layup Shot,LAYUPS,,2024
+Isaiah Joe,1630198,Driving Dunk,2,2,1,Driving Dunk Shot,DUNKS,,2024
+Isaiah Joe,1630198,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Isaiah Joe,1630198,Floating Jump Shot,2,2,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Isaiah Joe,1630198,Driving Layup,2,7,6,Driving Layup Shot,LAYUPS,,2024
+Isaiah Joe,1630198,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2024
+Isaiah Joe,1630198,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2024
+Isaiah Joe,1630198,Fadeaway Jump Shot,2,9,1,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Isaiah Joe,1630198,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2024
+Isaiah Joe,1630198,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2024
+Isaiah Joe,1630198,Jump Shot,2,10,8,Jump Shot,JUMP_SHOTS,,2024
+Isaiah Joe,1630198,Jump Shot,3,261,110,Jump Shot,JUMP_SHOTS,,2024
+Isaiah Joe,1630198,Standard Layup,2,4,2,Layup Shot,LAYUPS,,2024
+Isaiah Joe,1630198,Pullup Jump Shot,2,40,20,Pullup Jump shot,JUMP_SHOTS,,2024
+Isaiah Joe,1630198,Pullup Jump Shot,3,23,5,Pullup Jump shot,JUMP_SHOTS,,2024
+Isaiah Joe,1630198,Standard Dunk,2,7,6,Running Dunk Shot,DUNKS,,2024
+Isaiah Joe,1630198,Finger Roll,2,3,2,Running Finger Roll Layup Shot,LAYUPS,,2024
+Isaiah Joe,1630198,Running Jump Shot,3,33,16,Running Jump Shot,JUMP_SHOTS,,2024
+Isaiah Joe,1630198,Standard Layup,2,8,5,Running Layup Shot,LAYUPS,,2024
+Isaiah Joe,1630198,Running Jump Shot,2,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Isaiah Joe,1630198,Running Jump Shot,3,6,3,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Isaiah Joe,1630198,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2024
+Isaiah Joe,1630198,Step Back Jump Shot,2,11,4,Step Back Jump shot,JUMP_SHOTS,,2024
+Isaiah Joe,1630198,Step Back Jump Shot,3,30,13,Step Back Jump shot,JUMP_SHOTS,,2024
+Isaiah Joe,1630198,Putback Layup,2,3,2,Tip Layup Shot,LAYUPS,,2024
+Isaiah Joe,1630198,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2025
+Isaiah Joe,1630198,Standard Layup,2,5,4,Cutting Layup Shot,LAYUPS,,2025
+Isaiah Joe,1630198,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2025
+Isaiah Joe,1630198,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Isaiah Joe,1630198,Floating Jump Shot,2,3,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Isaiah Joe,1630198,Driving Layup,2,6,2,Driving Layup Shot,LAYUPS,,2025
+Isaiah Joe,1630198,Driving Layup,2,3,3,Driving Reverse Layup Shot,LAYUPS,,2025
+Isaiah Joe,1630198,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2025
+Isaiah Joe,1630198,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2025
+Isaiah Joe,1630198,Jump Shot,3,1,1,Jump Bank Shot,JUMP_SHOTS,,2025
+Isaiah Joe,1630198,Jump Shot,2,4,2,Jump Shot,JUMP_SHOTS,,2025
+Isaiah Joe,1630198,Jump Shot,3,141,56,Jump Shot,JUMP_SHOTS,,2025
+Isaiah Joe,1630198,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2025
+Isaiah Joe,1630198,Pullup Jump Shot,2,6,1,Pullup Jump shot,JUMP_SHOTS,,2025
+Isaiah Joe,1630198,Pullup Jump Shot,3,15,5,Pullup Jump shot,JUMP_SHOTS,,2025
+Isaiah Joe,1630198,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2025
+Isaiah Joe,1630198,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2025
+Isaiah Joe,1630198,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2025
+Isaiah Joe,1630198,Running Jump Shot,3,18,5,Running Jump Shot,JUMP_SHOTS,,2025
+Isaiah Joe,1630198,Standard Layup,2,7,5,Running Layup Shot,LAYUPS,,2025
+Isaiah Joe,1630198,Running Jump Shot,3,9,4,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025
+Isaiah Joe,1630198,Step Back Jump Shot,2,13,6,Step Back Jump shot,JUMP_SHOTS,,2025
+Isaiah Joe,1630198,Step Back Jump Shot,3,35,9,Step Back Jump shot,JUMP_SHOTS,,2025

@@ -1,14 +1,164 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1629667,Finger Roll,2PT Field Goal,1,1,Cutting Finger Roll Layup Shot,LAYUPS,1.0,2023
-1629667,Driving Layup,2PT Field Goal,6,2,Driving Layup Shot,LAYUPS,0.3333333333333333,2023
-1629667,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2023
-1629667,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2023
-1629667,Floating Jump Shot,3PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.5,2023
-1629667,Jump Shot,3PT Field Goal,6,5,Jump Shot,JUMP_SHOTS,1.25,2023
-1629667,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2023
-1629667,Putback Layup,2PT Field Goal,1,0,Putback Layup Shot,LAYUPS,0.0,2023
-1629667,Running Jump Shot,3PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2023
-1629667,Standard Layup,2PT Field Goal,3,1,Running Layup Shot,LAYUPS,0.3333333333333333,2023
-1629667,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.0,2023
-1629667,Turnaround Jump Shot,2PT Field Goal,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,0.5,2023
-1629667,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2023
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Jalen McDaniels,1629667,Alley Oop Layup,2,2,0,Alley Oop Layup shot,LAYUPS,,2020
+Jalen McDaniels,1629667,Specialty Dunk,2,3,3,Cutting Dunk Shot,DUNKS,,2020
+Jalen McDaniels,1629667,Standard Layup,2,3,2,Cutting Layup Shot,LAYUPS,,2020
+Jalen McDaniels,1629667,Floating Jump Shot,2,3,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Jalen McDaniels,1629667,Driving Hook Shot,2,4,2,Driving Hook Shot,POST_MOVES,,2020
+Jalen McDaniels,1629667,Driving Layup,2,5,2,Driving Layup Shot,LAYUPS,,2020
+Jalen McDaniels,1629667,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+Jalen McDaniels,1629667,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2020
+Jalen McDaniels,1629667,Jump Shot,2,26,10,Jump Shot,JUMP_SHOTS,,2020
+Jalen McDaniels,1629667,Standard Layup,2,7,2,Layup Shot,LAYUPS,,2020
+Jalen McDaniels,1629667,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2020
+Jalen McDaniels,1629667,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2020
+Jalen McDaniels,1629667,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2020
+Jalen McDaniels,1629667,Putback Layup,2,4,3,Tip Layup Shot,LAYUPS,,2020
+Jalen McDaniels,1629667,Turnaround Jump Shot,2,2,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2020
+Jalen McDaniels,1629667,Turnaround Jump Shot,2,3,3,Turnaround Jump Shot,JUMP_SHOTS,,2020
+Jalen McDaniels,1629667,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2021
+Jalen McDaniels,1629667,Alley Oop Layup,2,4,2,Alley Oop Layup shot,LAYUPS,,2021
+Jalen McDaniels,1629667,Specialty Dunk,2,10,9,Cutting Dunk Shot,DUNKS,,2021
+Jalen McDaniels,1629667,Standard Layup,2,10,6,Cutting Layup Shot,LAYUPS,,2021
+Jalen McDaniels,1629667,Driving Dunk,2,5,3,Driving Dunk Shot,DUNKS,,2021
+Jalen McDaniels,1629667,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Jalen McDaniels,1629667,Floating Jump Shot,2,4,4,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2021
+Jalen McDaniels,1629667,Floating Jump Shot,2,13,4,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Jalen McDaniels,1629667,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2021
+Jalen McDaniels,1629667,Driving Layup,2,31,11,Driving Layup Shot,LAYUPS,,2021
+Jalen McDaniels,1629667,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2021
+Jalen McDaniels,1629667,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2021
+Jalen McDaniels,1629667,Fadeaway Jump Shot,2,13,5,Fadeaway Jump Shot,JUMP_SHOTS,,2021
+Jalen McDaniels,1629667,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2021
+Jalen McDaniels,1629667,Floating Jump Shot,2,8,2,Floating Jump shot,FLOATING_SHOTS,,2021
+Jalen McDaniels,1629667,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2021
+Jalen McDaniels,1629667,Jump Shot,2,103,36,Jump Shot,JUMP_SHOTS,,2021
+Jalen McDaniels,1629667,Standard Layup,2,20,8,Layup Shot,LAYUPS,,2021
+Jalen McDaniels,1629667,Pullup Jump Shot,2,7,2,Pullup Jump shot,JUMP_SHOTS,,2021
+Jalen McDaniels,1629667,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2021
+Jalen McDaniels,1629667,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2021
+Jalen McDaniels,1629667,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2021
+Jalen McDaniels,1629667,Alley Oop Dunk,2,2,2,Running Alley Oop Dunk Shot,DUNKS,,2021
+Jalen McDaniels,1629667,Alley Oop Layup,2,1,1,Running Alley Oop Layup Shot,LAYUPS,,2021
+Jalen McDaniels,1629667,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2021
+Jalen McDaniels,1629667,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2021
+Jalen McDaniels,1629667,Standard Layup,2,8,7,Running Layup Shot,LAYUPS,,2021
+Jalen McDaniels,1629667,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2021
+Jalen McDaniels,1629667,Specialty Dunk,2,4,3,Tip Dunk Shot,DUNKS,,2021
+Jalen McDaniels,1629667,Putback Layup,2,10,7,Tip Layup Shot,LAYUPS,,2021
+Jalen McDaniels,1629667,Turnaround Jump Shot,2,6,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2021
+Jalen McDaniels,1629667,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2021
+Jalen McDaniels,1629667,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2021
+Jalen McDaniels,1629667,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2022
+Jalen McDaniels,1629667,Alley Oop Layup,2,2,0,Alley Oop Layup shot,LAYUPS,,2022
+Jalen McDaniels,1629667,Specialty Dunk,2,7,7,Cutting Dunk Shot,DUNKS,,2022
+Jalen McDaniels,1629667,Finger Roll,2,2,1,Cutting Finger Roll Layup Shot,LAYUPS,,2022
+Jalen McDaniels,1629667,Standard Layup,2,4,3,Cutting Layup Shot,LAYUPS,,2022
+Jalen McDaniels,1629667,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2022
+Jalen McDaniels,1629667,Finger Roll,2,8,4,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Jalen McDaniels,1629667,Floating Jump Shot,2,2,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Jalen McDaniels,1629667,Floating Jump Shot,2,8,4,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Jalen McDaniels,1629667,Driving Hook Shot,2,3,0,Driving Hook Shot,POST_MOVES,,2022
+Jalen McDaniels,1629667,Driving Layup,2,26,17,Driving Layup Shot,LAYUPS,,2022
+Jalen McDaniels,1629667,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2022
+Jalen McDaniels,1629667,Fadeaway Jump Shot,2,6,0,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Jalen McDaniels,1629667,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2022
+Jalen McDaniels,1629667,Floating Jump Shot,2,4,2,Floating Jump shot,FLOATING_SHOTS,,2022
+Jalen McDaniels,1629667,Hook Shot,2,2,0,Hook Bank Shot,POST_MOVES,,2022
+Jalen McDaniels,1629667,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2022
+Jalen McDaniels,1629667,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2022
+Jalen McDaniels,1629667,Jump Shot,2,107,41,Jump Shot,JUMP_SHOTS,,2022
+Jalen McDaniels,1629667,Standard Layup,2,5,3,Layup Shot,LAYUPS,,2022
+Jalen McDaniels,1629667,Pullup Jump Shot,2,7,4,Pullup Jump shot,JUMP_SHOTS,,2022
+Jalen McDaniels,1629667,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2022
+Jalen McDaniels,1629667,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2022
+Jalen McDaniels,1629667,Alley Oop Layup,2,1,1,Running Alley Oop Layup Shot,LAYUPS,,2022
+Jalen McDaniels,1629667,Standard Dunk,2,5,5,Running Dunk Shot,DUNKS,,2022
+Jalen McDaniels,1629667,Finger Roll,2,3,3,Running Finger Roll Layup Shot,LAYUPS,,2022
+Jalen McDaniels,1629667,Running Jump Shot,2,3,1,Running Jump Shot,JUMP_SHOTS,,2022
+Jalen McDaniels,1629667,Standard Layup,2,14,11,Running Layup Shot,LAYUPS,,2022
+Jalen McDaniels,1629667,Running Jump Shot,2,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
+Jalen McDaniels,1629667,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2022
+Jalen McDaniels,1629667,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2022
+Jalen McDaniels,1629667,Specialty Dunk,2,3,1,Tip Dunk Shot,DUNKS,,2022
+Jalen McDaniels,1629667,Putback Layup,2,4,1,Tip Layup Shot,LAYUPS,,2022
+Jalen McDaniels,1629667,Turnaround Jump Shot,2,2,2,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2022
+Jalen McDaniels,1629667,Turnaround Jump Shot,2,7,3,Turnaround Fadeaway shot,JUMP_SHOTS,,2022
+Jalen McDaniels,1629667,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2022
+Jalen McDaniels,1629667,Turnaround Jump Shot,2,5,0,Turnaround Jump Shot,JUMP_SHOTS,,2022
+Jalen McDaniels,1629667,Alley Oop Dunk,2,5,4,Alley Oop Dunk Shot,DUNKS,,2023
+Jalen McDaniels,1629667,Alley Oop Layup,2,9,6,Alley Oop Layup shot,LAYUPS,,2023
+Jalen McDaniels,1629667,Specialty Dunk,2,4,2,Cutting Dunk Shot,DUNKS,,2023
+Jalen McDaniels,1629667,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2023
+Jalen McDaniels,1629667,Standard Layup,2,14,7,Cutting Layup Shot,LAYUPS,,2023
+Jalen McDaniels,1629667,Driving Dunk,2,4,2,Driving Dunk Shot,DUNKS,,2023
+Jalen McDaniels,1629667,Finger Roll,2,10,4,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Jalen McDaniels,1629667,Floating Jump Shot,2,5,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+Jalen McDaniels,1629667,Floating Jump Shot,2,31,14,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Jalen McDaniels,1629667,Driving Hook Shot,2,4,0,Driving Hook Shot,POST_MOVES,,2023
+Jalen McDaniels,1629667,Driving Layup,2,56,17,Driving Layup Shot,LAYUPS,,2023
+Jalen McDaniels,1629667,Driving Layup,2,5,2,Driving Reverse Layup Shot,LAYUPS,,2023
+Jalen McDaniels,1629667,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2023
+Jalen McDaniels,1629667,Fadeaway Jump Shot,2,25,11,Fadeaway Jump Shot,JUMP_SHOTS,,2023
+Jalen McDaniels,1629667,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2023
+Jalen McDaniels,1629667,Floating Jump Shot,2,17,7,Floating Jump shot,FLOATING_SHOTS,,2023
+Jalen McDaniels,1629667,Floating Jump Shot,3,1,1,Floating Jump shot,FLOATING_SHOTS,,2023
+Jalen McDaniels,1629667,Hook Shot,2,4,3,Hook Shot,POST_MOVES,,2023
+Jalen McDaniels,1629667,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2023
+Jalen McDaniels,1629667,Jump Shot,2,205,65,Jump Shot,JUMP_SHOTS,,2023
+Jalen McDaniels,1629667,Jump Shot,3,11,9,Jump Shot,JUMP_SHOTS,,2023
+Jalen McDaniels,1629667,Standard Layup,2,18,10,Layup Shot,LAYUPS,,2023
+Jalen McDaniels,1629667,Pullup Jump Shot,2,16,5,Pullup Jump shot,JUMP_SHOTS,,2023
+Jalen McDaniels,1629667,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2023
+Jalen McDaniels,1629667,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2023
+Jalen McDaniels,1629667,Putback Layup,2,15,9,Putback Layup Shot,LAYUPS,,2023
+Jalen McDaniels,1629667,Reverse Dunk,2,1,0,Reverse Dunk Shot,DUNKS,,2023
+Jalen McDaniels,1629667,Reverse Layup,2,5,4,Reverse Layup Shot,LAYUPS,,2023
+Jalen McDaniels,1629667,Alley Oop Dunk,2,6,6,Running Alley Oop Dunk Shot,DUNKS,,2023
+Jalen McDaniels,1629667,Alley Oop Layup,2,3,2,Running Alley Oop Layup Shot,LAYUPS,,2023
+Jalen McDaniels,1629667,Standard Dunk,2,21,18,Running Dunk Shot,DUNKS,,2023
+Jalen McDaniels,1629667,Finger Roll,2,4,3,Running Finger Roll Layup Shot,LAYUPS,,2023
+Jalen McDaniels,1629667,Running Jump Shot,2,14,5,Running Jump Shot,JUMP_SHOTS,,2023
+Jalen McDaniels,1629667,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2023
+Jalen McDaniels,1629667,Standard Layup,2,45,28,Running Layup Shot,LAYUPS,,2023
+Jalen McDaniels,1629667,Running Jump Shot,2,2,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2023
+Jalen McDaniels,1629667,Reverse Layup,2,4,3,Running Reverse Layup Shot,LAYUPS,,2023
+Jalen McDaniels,1629667,Step Back Jump Shot,2,6,3,Step Back Jump shot,JUMP_SHOTS,,2023
+Jalen McDaniels,1629667,Specialty Dunk,2,3,2,Tip Dunk Shot,DUNKS,,2023
+Jalen McDaniels,1629667,Putback Layup,2,19,11,Tip Layup Shot,LAYUPS,,2023
+Jalen McDaniels,1629667,Turnaround Jump Shot,2,7,4,Turnaround Fadeaway shot,JUMP_SHOTS,,2023
+Jalen McDaniels,1629667,Turnaround Hook Shot,2,2,2,Turnaround Hook Shot,POST_MOVES,,2023
+Jalen McDaniels,1629667,Turnaround Jump Shot,2,8,4,Turnaround Jump Shot,JUMP_SHOTS,,2023
+Jalen McDaniels,1629667,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2024
+Jalen McDaniels,1629667,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2024
+Jalen McDaniels,1629667,Finger Roll,2,1,0,Cutting Finger Roll Layup Shot,LAYUPS,,2024
+Jalen McDaniels,1629667,Standard Layup,2,6,4,Cutting Layup Shot,LAYUPS,,2024
+Jalen McDaniels,1629667,Driving Hook Shot,2,5,3,Driving Bank Hook Shot,POST_MOVES,,2024
+Jalen McDaniels,1629667,Finger Roll,2,5,2,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Jalen McDaniels,1629667,Floating Jump Shot,2,4,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Jalen McDaniels,1629667,Floating Jump Shot,2,20,7,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Jalen McDaniels,1629667,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2024
+Jalen McDaniels,1629667,Driving Layup,2,18,4,Driving Layup Shot,LAYUPS,,2024
+Jalen McDaniels,1629667,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2024
+Jalen McDaniels,1629667,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2024
+Jalen McDaniels,1629667,Fadeaway Jump Shot,2,2,1,Fadeaway Bank shot,JUMP_SHOTS,,2024
+Jalen McDaniels,1629667,Fadeaway Jump Shot,2,4,2,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Jalen McDaniels,1629667,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2024
+Jalen McDaniels,1629667,Floating Jump Shot,2,5,3,Floating Jump shot,FLOATING_SHOTS,,2024
+Jalen McDaniels,1629667,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2024
+Jalen McDaniels,1629667,Hook Shot,2,2,2,Hook Shot,POST_MOVES,,2024
+Jalen McDaniels,1629667,Jump Shot,3,1,0,Jump Bank Shot,JUMP_SHOTS,,2024
+Jalen McDaniels,1629667,Jump Shot,3,57,10,Jump Shot,JUMP_SHOTS,,2024
+Jalen McDaniels,1629667,Standard Layup,2,4,2,Layup Shot,LAYUPS,,2024
+Jalen McDaniels,1629667,Pullup Jump Shot,2,10,2,Pullup Jump shot,JUMP_SHOTS,,2024
+Jalen McDaniels,1629667,Pullup Jump Shot,3,3,1,Pullup Jump shot,JUMP_SHOTS,,2024
+Jalen McDaniels,1629667,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2024
+Jalen McDaniels,1629667,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2024
+Jalen McDaniels,1629667,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2024
+Jalen McDaniels,1629667,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2024
+Jalen McDaniels,1629667,Running Jump Shot,3,8,1,Running Jump Shot,JUMP_SHOTS,,2024
+Jalen McDaniels,1629667,Standard Layup,2,6,4,Running Layup Shot,LAYUPS,,2024
+Jalen McDaniels,1629667,Running Jump Shot,3,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Jalen McDaniels,1629667,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2024
+Jalen McDaniels,1629667,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2024
+Jalen McDaniels,1629667,Putback Layup,2,4,1,Tip Layup Shot,LAYUPS,,2024
+Jalen McDaniels,1629667,Turnaround Jump Shot,2,4,1,Turnaround Jump Shot,JUMP_SHOTS,,2024

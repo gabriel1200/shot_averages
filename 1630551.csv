@@ -1,34 +1,73 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1630551,Standard Layup,2PT Field Goal,2,2,Cutting Layup Shot,LAYUPS,1.0,2024
-1630551,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2024
-1630551,Driving Layup,2PT Field Goal,4,1,Driving Layup Shot,LAYUPS,0.25,2024
-1630551,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2024
-1630551,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2024
-1630551,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2024
-1630551,Jump Shot,3PT Field Goal,10,3,Jump Shot,JUMP_SHOTS,0.45,2024
-1630551,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2024
-1630551,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2024
-1630551,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2024
-1630551,Running Jump Shot,3PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.75,2024
-1630551,Standard Layup,2PT Field Goal,4,2,Running Layup Shot,LAYUPS,0.5,2024
-1630551,Running Jump Shot,3PT Field Goal,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,1.5,2024
-1630551,Putback Layup,2PT Field Goal,3,2,Tip Layup Shot,LAYUPS,0.6666666666666666,2024
-1630551,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2025
-1630551,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2025
-1630551,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2025
-1630551,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2025
-1630551,Driving Layup,2PT Field Goal,5,1,Driving Layup Shot,LAYUPS,0.2,2025
-1630551,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2025
-1630551,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2025
-1630551,Jump Shot,3PT Field Goal,25,12,Jump Shot,JUMP_SHOTS,0.72,2025
-1630551,Standard Layup,2PT Field Goal,3,2,Layup Shot,LAYUPS,0.6666666666666666,2025
-1630551,Putback Layup,2PT Field Goal,3,2,Putback Layup Shot,LAYUPS,0.6666666666666666,2025
-1630551,Standard Dunk,2PT Field Goal,3,3,Running Dunk Shot,DUNKS,1.0,2025
-1630551,Finger Roll,2PT Field Goal,1,1,Running Finger Roll Layup Shot,LAYUPS,1.0,2025
-1630551,Running Jump Shot,3PT Field Goal,5,1,Running Jump Shot,JUMP_SHOTS,0.3,2025
-1630551,Standard Layup,2PT Field Goal,5,3,Running Layup Shot,LAYUPS,0.6,2025
-1630551,Running Jump Shot,3PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2025
-1630551,Step Back Jump Shot,3PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2025
-1630551,Specialty Dunk,2PT Field Goal,1,1,Tip Dunk Shot,DUNKS,1.0,2025
-1630551,Putback Layup,2PT Field Goal,5,4,Tip Layup Shot,LAYUPS,0.8,2025
-1630551,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Justin Champagnie,1630551,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2022
+Justin Champagnie,1630551,Standard Layup,2,3,3,Cutting Layup Shot,LAYUPS,,2022
+Justin Champagnie,1630551,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Justin Champagnie,1630551,Floating Jump Shot,2,1,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Justin Champagnie,1630551,Driving Layup,2,2,0,Driving Layup Shot,LAYUPS,,2022
+Justin Champagnie,1630551,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2022
+Justin Champagnie,1630551,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2022
+Justin Champagnie,1630551,Jump Shot,2,28,11,Jump Shot,JUMP_SHOTS,,2022
+Justin Champagnie,1630551,Standard Layup,2,3,2,Layup Shot,LAYUPS,,2022
+Justin Champagnie,1630551,Putback Layup,2,8,3,Putback Layup Shot,LAYUPS,,2022
+Justin Champagnie,1630551,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2022
+Justin Champagnie,1630551,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2022
+Justin Champagnie,1630551,Finger Roll,2,1,0,Running Finger Roll Layup Shot,LAYUPS,,2022
+Justin Champagnie,1630551,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2022
+Justin Champagnie,1630551,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2022
+Justin Champagnie,1630551,Specialty Dunk,2,2,1,Tip Dunk Shot,DUNKS,,2022
+Justin Champagnie,1630551,Putback Layup,2,8,4,Tip Layup Shot,LAYUPS,,2022
+Justin Champagnie,1630551,Standard Layup,2,3,1,Cutting Layup Shot,LAYUPS,,2023
+Justin Champagnie,1630551,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2023
+Justin Champagnie,1630551,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2023
+Justin Champagnie,1630551,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2023
+Justin Champagnie,1630551,Jump Shot,2,4,0,Jump Shot,JUMP_SHOTS,,2023
+Justin Champagnie,1630551,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2023
+Justin Champagnie,1630551,Standard Layup,2,2,0,Running Layup Shot,LAYUPS,,2023
+Justin Champagnie,1630551,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2023
+Justin Champagnie,1630551,Standard Layup,2,3,3,Cutting Layup Shot,LAYUPS,,2024
+Justin Champagnie,1630551,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Justin Champagnie,1630551,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Justin Champagnie,1630551,Driving Layup,2,5,2,Driving Layup Shot,LAYUPS,,2024
+Justin Champagnie,1630551,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2024
+Justin Champagnie,1630551,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2024
+Justin Champagnie,1630551,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2024
+Justin Champagnie,1630551,Jump Shot,3,1,0,Jump Bank Shot,JUMP_SHOTS,,2024
+Justin Champagnie,1630551,Jump Shot,3,37,10,Jump Shot,JUMP_SHOTS,,2024
+Justin Champagnie,1630551,Standard Layup,2,1,1,Layup Shot,LAYUPS,,2024
+Justin Champagnie,1630551,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2024
+Justin Champagnie,1630551,Pullup Jump Shot,3,3,1,Pullup Jump shot,JUMP_SHOTS,,2024
+Justin Champagnie,1630551,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2024
+Justin Champagnie,1630551,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2024
+Justin Champagnie,1630551,Running Jump Shot,3,2,1,Running Jump Shot,JUMP_SHOTS,,2024
+Justin Champagnie,1630551,Standard Layup,2,7,4,Running Layup Shot,LAYUPS,,2024
+Justin Champagnie,1630551,Running Jump Shot,3,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Justin Champagnie,1630551,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2024
+Justin Champagnie,1630551,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2024
+Justin Champagnie,1630551,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2024
+Justin Champagnie,1630551,Putback Layup,2,6,2,Tip Layup Shot,LAYUPS,,2024
+Justin Champagnie,1630551,Specialty Dunk,2,5,5,Cutting Dunk Shot,DUNKS,,2025
+Justin Champagnie,1630551,Standard Layup,2,5,5,Cutting Layup Shot,LAYUPS,,2025
+Justin Champagnie,1630551,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2025
+Justin Champagnie,1630551,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Justin Champagnie,1630551,Floating Jump Shot,2,4,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Justin Champagnie,1630551,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2025
+Justin Champagnie,1630551,Driving Layup,2,8,1,Driving Layup Shot,LAYUPS,,2025
+Justin Champagnie,1630551,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2025
+Justin Champagnie,1630551,Jump Shot,3,1,0,Jump Bank Shot,JUMP_SHOTS,,2025
+Justin Champagnie,1630551,Jump Shot,2,1,1,Jump Shot,JUMP_SHOTS,,2025
+Justin Champagnie,1630551,Jump Shot,3,55,27,Jump Shot,JUMP_SHOTS,,2025
+Justin Champagnie,1630551,Standard Layup,2,3,2,Layup Shot,LAYUPS,,2025
+Justin Champagnie,1630551,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2025
+Justin Champagnie,1630551,Pullup Jump Shot,3,3,0,Pullup Jump shot,JUMP_SHOTS,,2025
+Justin Champagnie,1630551,Putback Layup,2,4,2,Putback Layup Shot,LAYUPS,,2025
+Justin Champagnie,1630551,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2025
+Justin Champagnie,1630551,Standard Dunk,2,5,5,Running Dunk Shot,DUNKS,,2025
+Justin Champagnie,1630551,Finger Roll,2,3,2,Running Finger Roll Layup Shot,LAYUPS,,2025
+Justin Champagnie,1630551,Running Jump Shot,3,7,1,Running Jump Shot,JUMP_SHOTS,,2025
+Justin Champagnie,1630551,Standard Layup,2,13,9,Running Layup Shot,LAYUPS,,2025
+Justin Champagnie,1630551,Running Jump Shot,3,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025
+Justin Champagnie,1630551,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2025
+Justin Champagnie,1630551,Specialty Dunk,2,2,2,Tip Dunk Shot,DUNKS,,2025
+Justin Champagnie,1630551,Putback Layup,2,12,7,Tip Layup Shot,LAYUPS,,2025
+Justin Champagnie,1630551,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2025
+Justin Champagnie,1630551,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2025

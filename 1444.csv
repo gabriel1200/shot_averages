@@ -1,38 +1,78 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1444,Driving Dunk,2PT Field Goal,2,2,Driving Dunk Shot,DUNKS,1.0,1998
-1444,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,1998
-1444,Standard Dunk,2PT Field Goal,3,3,Dunk Shot,DUNKS,1.0,1998
-1444,Jump Shot,2PT Field Goal,16,6,Jump Shot,JUMP_SHOTS,0.375,1998
-1444,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1998
-1444,Standard Layup,2PT Field Goal,3,1,Layup Shot,LAYUPS,0.3333333333333333,1998
-1444,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,1998
-1444,Jump Shot,2PT Field Goal,6,2,Jump Shot,JUMP_SHOTS,0.3333333333333333,1999
-1444,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,1999
-1444,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2000
-1444,Standard Dunk,2PT Field Goal,5,5,Dunk Shot,DUNKS,1.0,2000
-1444,Hook Shot,2PT Field Goal,4,3,Hook Shot,POST_MOVES,0.75,2000
-1444,Jump Shot,2PT Field Goal,15,5,Jump Shot,JUMP_SHOTS,0.3333333333333333,2000
-1444,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2000
-1444,Standard Layup,2PT Field Goal,3,2,Layup Shot,LAYUPS,0.6666666666666666,2000
-1444,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2000
-1444,Tip Shot,2PT Field Goal,3,0,Tip Shot,TIP_SHOTS,0.0,2000
-1444,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2001
-1444,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,2001
-1444,Hook Shot,2PT Field Goal,2,0,Hook Shot,POST_MOVES,0.0,2001
-1444,Jump Shot,2PT Field Goal,8,3,Jump Shot,JUMP_SHOTS,0.375,2001
-1444,Standard Layup,2PT Field Goal,5,3,Layup Shot,LAYUPS,0.6,2001
-1444,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2001
-1444,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2001
-1444,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2002
-1444,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2002
-1444,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2002
-1444,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2002
-1444,Jump Shot,2PT Field Goal,7,1,Jump Shot,JUMP_SHOTS,0.1428571428571428,2002
-1444,Standard Layup,2PT Field Goal,3,2,Layup Shot,LAYUPS,0.6666666666666666,2002
-1444,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2002
-1444,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2002
-1444,Alley Oop Dunk,2PT Field Goal,1,0,Alley Oop Dunk Shot,DUNKS,0.0,2003
-1444,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2003
-1444,Jump Shot,2PT Field Goal,5,1,Jump Shot,JUMP_SHOTS,0.2,2003
-1444,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2003
-1444,Tip Shot,2PT Field Goal,2,2,Tip Shot,TIP_SHOTS,1.0,2003
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Lawrence Funderburke,1444,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,1998
+Lawrence Funderburke,1444,Driving Layup,2,16,8,Driving Layup Shot,LAYUPS,,1998
+Lawrence Funderburke,1444,Standard Dunk,2,40,37,Dunk Shot,DUNKS,,1998
+Lawrence Funderburke,1444,Hook Shot,2,22,14,Hook Shot,POST_MOVES,,1998
+Lawrence Funderburke,1444,Jump Shot,2,206,75,Jump Shot,JUMP_SHOTS,,1998
+Lawrence Funderburke,1444,Jump Shot,3,5,1,Jump Shot,JUMP_SHOTS,,1998
+Lawrence Funderburke,1444,Standard Layup,2,69,33,Layup Shot,LAYUPS,,1998
+Lawrence Funderburke,1444,Standard Dunk,2,11,11,Slam Dunk Shot,DUNKS,,1998
+Lawrence Funderburke,1444,Tip Shot,2,18,9,Tip Shot,TIP_SHOTS,,1998
+Lawrence Funderburke,1444,Driving Dunk,2,6,5,Driving Dunk Shot,DUNKS,,1999
+Lawrence Funderburke,1444,Driving Layup,2,11,7,Driving Layup Shot,LAYUPS,,1999
+Lawrence Funderburke,1444,Standard Dunk,2,27,25,Dunk Shot,DUNKS,,1999
+Lawrence Funderburke,1444,Hook Shot,2,9,6,Hook Shot,POST_MOVES,,1999
+Lawrence Funderburke,1444,Jump Shot,2,125,44,Jump Shot,JUMP_SHOTS,,1999
+Lawrence Funderburke,1444,Jump Shot,3,1,1,Jump Shot,JUMP_SHOTS,,1999
+Lawrence Funderburke,1444,Standard Layup,2,72,45,Layup Shot,LAYUPS,,1999
+Lawrence Funderburke,1444,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,1999
+Lawrence Funderburke,1444,Standard Dunk,2,20,20,Slam Dunk Shot,DUNKS,,1999
+Lawrence Funderburke,1444,Tip Shot,2,26,12,Tip Shot,TIP_SHOTS,,1999
+Lawrence Funderburke,1444,Driving Dunk,2,7,7,Driving Dunk Shot,DUNKS,,2000
+Lawrence Funderburke,1444,Driving Layup,2,9,7,Driving Layup Shot,LAYUPS,,2000
+Lawrence Funderburke,1444,Standard Dunk,2,37,36,Dunk Shot,DUNKS,,2000
+Lawrence Funderburke,1444,Hook Shot,2,22,13,Hook Shot,POST_MOVES,,2000
+Lawrence Funderburke,1444,Jump Shot,2,151,56,Jump Shot,JUMP_SHOTS,,2000
+Lawrence Funderburke,1444,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,2000
+Lawrence Funderburke,1444,Standard Layup,2,89,43,Layup Shot,LAYUPS,,2000
+Lawrence Funderburke,1444,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2000
+Lawrence Funderburke,1444,Standard Dunk,2,10,10,Slam Dunk Shot,DUNKS,,2000
+Lawrence Funderburke,1444,Tip Shot,2,24,11,Tip Shot,TIP_SHOTS,,2000
+Lawrence Funderburke,1444,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2001
+Lawrence Funderburke,1444,Driving Dunk,2,8,7,Driving Dunk Shot,DUNKS,,2001
+Lawrence Funderburke,1444,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2001
+Lawrence Funderburke,1444,Driving Layup,2,9,6,Driving Layup Shot,LAYUPS,,2001
+Lawrence Funderburke,1444,Standard Dunk,2,13,11,Dunk Shot,DUNKS,,2001
+Lawrence Funderburke,1444,Hook Shot,2,16,3,Hook Shot,POST_MOVES,,2001
+Lawrence Funderburke,1444,Jump Shot,2,102,33,Jump Shot,JUMP_SHOTS,,2001
+Lawrence Funderburke,1444,Standard Layup,2,42,25,Layup Shot,LAYUPS,,2001
+Lawrence Funderburke,1444,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2001
+Lawrence Funderburke,1444,Reverse Layup,2,5,3,Reverse Layup Shot,LAYUPS,,2001
+Lawrence Funderburke,1444,Running Hook Shot,2,4,3,Running Hook Shot,POST_MOVES,,2001
+Lawrence Funderburke,1444,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2001
+Lawrence Funderburke,1444,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2001
+Lawrence Funderburke,1444,Standard Dunk,2,13,13,Slam Dunk Shot,DUNKS,,2001
+Lawrence Funderburke,1444,Tip Shot,2,21,8,Tip Shot,TIP_SHOTS,,2001
+Lawrence Funderburke,1444,Turnaround Jump Shot,2,3,2,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Lawrence Funderburke,1444,Alley Oop Dunk,2,3,3,Alley Oop Dunk Shot,DUNKS,,2002
+Lawrence Funderburke,1444,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2002
+Lawrence Funderburke,1444,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2002
+Lawrence Funderburke,1444,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,,2002
+Lawrence Funderburke,1444,Driving Layup,2,5,4,Driving Layup Shot,LAYUPS,,2002
+Lawrence Funderburke,1444,Standard Dunk,2,13,12,Dunk Shot,DUNKS,,2002
+Lawrence Funderburke,1444,Fadeaway Jump Shot,2,5,5,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Lawrence Funderburke,1444,Hook Shot,2,4,0,Hook Shot,POST_MOVES,,2002
+Lawrence Funderburke,1444,Hook Shot,2,8,3,Jump Hook Shot,POST_MOVES,,2002
+Lawrence Funderburke,1444,Jump Shot,2,114,31,Jump Shot,JUMP_SHOTS,,2002
+Lawrence Funderburke,1444,Jump Shot,3,3,0,Jump Shot,JUMP_SHOTS,,2002
+Lawrence Funderburke,1444,Standard Layup,2,40,27,Layup Shot,LAYUPS,,2002
+Lawrence Funderburke,1444,Reverse Dunk,2,2,2,Reverse Dunk Shot,DUNKS,,2002
+Lawrence Funderburke,1444,Reverse Layup,2,6,5,Reverse Layup Shot,LAYUPS,,2002
+Lawrence Funderburke,1444,Running Hook Shot,2,5,4,Running Hook Shot,POST_MOVES,,2002
+Lawrence Funderburke,1444,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2002
+Lawrence Funderburke,1444,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2002
+Lawrence Funderburke,1444,Tip Shot,2,24,10,Tip Shot,TIP_SHOTS,,2002
+Lawrence Funderburke,1444,Alley Oop Dunk,2,1,0,Alley Oop Dunk Shot,DUNKS,,2003
+Lawrence Funderburke,1444,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2003
+Lawrence Funderburke,1444,Standard Dunk,2,5,3,Dunk Shot,DUNKS,,2003
+Lawrence Funderburke,1444,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Lawrence Funderburke,1444,Hook Shot,2,2,1,Jump Hook Shot,POST_MOVES,,2003
+Lawrence Funderburke,1444,Jump Shot,2,39,12,Jump Shot,JUMP_SHOTS,,2003
+Lawrence Funderburke,1444,Standard Layup,2,14,9,Layup Shot,LAYUPS,,2003
+Lawrence Funderburke,1444,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2003
+Lawrence Funderburke,1444,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2003
+Lawrence Funderburke,1444,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2003
+Lawrence Funderburke,1444,Tip Shot,2,5,3,Tip Shot,TIP_SHOTS,,2003
+Lawrence Funderburke,1444,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,2005
+Lawrence Funderburke,1444,Jump Shot,2,3,0,Jump Shot,JUMP_SHOTS,,2005
+Lawrence Funderburke,1444,Standard Layup,2,1,1,Layup Shot,LAYUPS,,2005

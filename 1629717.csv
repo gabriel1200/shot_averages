@@ -1,10 +1,53 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1629717,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2021
-1629717,Jump Shot,3PT Field Goal,4,2,Jump Shot,JUMP_SHOTS,0.75,2021
-1629717,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2022
-1629717,Jump Shot,3PT Field Goal,9,5,Jump Shot,JUMP_SHOTS,0.8333333333333334,2022
-1629717,Pullup Jump Shot,3PT Field Goal,2,2,Pullup Jump shot,JUMP_SHOTS,1.5,2022
-1629717,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2024
-1629717,Jump Shot,3PT Field Goal,11,5,Jump Shot,JUMP_SHOTS,0.6818181818181818,2024
-1629717,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2024
-1629717,Putback Layup,2PT Field Goal,1,0,Tip Layup Shot,LAYUPS,0.0,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Armoni Brooks,1629717,Standard Layup,2,1,0,Cutting Layup Shot,LAYUPS,,2021
+Armoni Brooks,1629717,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2021
+Armoni Brooks,1629717,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Armoni Brooks,1629717,Floating Jump Shot,2,2,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2021
+Armoni Brooks,1629717,Floating Jump Shot,2,2,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Armoni Brooks,1629717,Driving Layup,2,10,4,Driving Layup Shot,LAYUPS,,2021
+Armoni Brooks,1629717,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2021
+Armoni Brooks,1629717,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2021
+Armoni Brooks,1629717,Jump Shot,2,116,45,Jump Shot,JUMP_SHOTS,,2021
+Armoni Brooks,1629717,Jump Shot,3,7,4,Jump Shot,JUMP_SHOTS,,2021
+Armoni Brooks,1629717,Standard Layup,2,2,1,Layup Shot,LAYUPS,,2021
+Armoni Brooks,1629717,Pullup Jump Shot,2,27,8,Pullup Jump shot,JUMP_SHOTS,,2021
+Armoni Brooks,1629717,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2021
+Armoni Brooks,1629717,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2021
+Armoni Brooks,1629717,Running Jump Shot,2,3,1,Running Jump Shot,JUMP_SHOTS,,2021
+Armoni Brooks,1629717,Standard Layup,2,5,3,Running Layup Shot,LAYUPS,,2021
+Armoni Brooks,1629717,Running Jump Shot,2,2,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2021
+Armoni Brooks,1629717,Step Back Jump Shot,2,6,3,Step Back Jump shot,JUMP_SHOTS,,2021
+Armoni Brooks,1629717,Standard Layup,2,4,4,Cutting Layup Shot,LAYUPS,,2022
+Armoni Brooks,1629717,Driving Dunk,2,2,1,Driving Dunk Shot,DUNKS,,2022
+Armoni Brooks,1629717,Finger Roll,2,4,1,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Armoni Brooks,1629717,Floating Jump Shot,2,7,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Armoni Brooks,1629717,Driving Layup,2,12,9,Driving Layup Shot,LAYUPS,,2022
+Armoni Brooks,1629717,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2022
+Armoni Brooks,1629717,Fadeaway Jump Shot,2,3,0,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Armoni Brooks,1629717,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2022
+Armoni Brooks,1629717,Jump Shot,2,142,45,Jump Shot,JUMP_SHOTS,,2022
+Armoni Brooks,1629717,Jump Shot,3,30,9,Jump Shot,JUMP_SHOTS,,2022
+Armoni Brooks,1629717,Pullup Jump Shot,2,39,10,Pullup Jump shot,JUMP_SHOTS,,2022
+Armoni Brooks,1629717,Pullup Jump Shot,3,13,5,Pullup Jump shot,JUMP_SHOTS,,2022
+Armoni Brooks,1629717,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2022
+Armoni Brooks,1629717,Running Jump Shot,2,9,1,Running Jump Shot,JUMP_SHOTS,,2022
+Armoni Brooks,1629717,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2022
+Armoni Brooks,1629717,Running Jump Shot,2,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
+Armoni Brooks,1629717,Running Jump Shot,3,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
+Armoni Brooks,1629717,Step Back Jump Shot,2,9,3,Step Back Jump shot,JUMP_SHOTS,,2022
+Armoni Brooks,1629717,Step Back Jump Shot,3,5,2,Step Back Jump shot,JUMP_SHOTS,,2022
+Armoni Brooks,1629717,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2022
+Armoni Brooks,1629717,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Armoni Brooks,1629717,Floating Jump Shot,2,3,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Armoni Brooks,1629717,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2024
+Armoni Brooks,1629717,Driving Layup,2,3,1,Driving Layup Shot,LAYUPS,,2024
+Armoni Brooks,1629717,Fadeaway Jump Shot,3,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Armoni Brooks,1629717,Floating Jump Shot,3,1,1,Floating Jump shot,FLOATING_SHOTS,,2024
+Armoni Brooks,1629717,Jump Shot,3,25,9,Jump Shot,JUMP_SHOTS,,2024
+Armoni Brooks,1629717,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2024
+Armoni Brooks,1629717,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2024
+Armoni Brooks,1629717,Pullup Jump Shot,3,4,1,Pullup Jump shot,JUMP_SHOTS,,2024
+Armoni Brooks,1629717,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2024
+Armoni Brooks,1629717,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2024
+Armoni Brooks,1629717,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2024
+Armoni Brooks,1629717,Putback Layup,2,2,0,Tip Layup Shot,LAYUPS,,2024

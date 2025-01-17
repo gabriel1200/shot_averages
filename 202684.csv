@@ -1,30 +1,370 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-202684,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2014
-202684,Alley Oop Dunk,2PT Field Goal,4,4,Alley Oop Dunk Shot,DUNKS,1.0,2015
-202684,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2015
-202684,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2015
-202684,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2015
-202684,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2015
-202684,Alley Oop Dunk,2PT Field Goal,3,3,Alley Oop Dunk Shot,DUNKS,1.0,2016
-202684,Standard Layup,2PT Field Goal,2,1,Cutting Layup Shot,LAYUPS,0.5,2016
-202684,Driving Hook Shot,2PT Field Goal,1,1,Driving Hook Shot,POST_MOVES,1.0,2016
-202684,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2016
-202684,Standard Layup,2PT Field Goal,4,2,Layup Shot,LAYUPS,0.5,2016
-202684,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2016
-202684,Specialty Dunk,2PT Field Goal,1,0,Tip Dunk Shot,DUNKS,0.0,2016
-202684,Putback Layup,2PT Field Goal,1,1,Tip Layup Shot,LAYUPS,1.0,2016
-202684,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2016
-202684,Alley Oop Layup,2PT Field Goal,2,1,Alley Oop Layup shot,LAYUPS,0.5,2018
-202684,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2018
-202684,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2018
-202684,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2018
-202684,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2024
-202684,Specialty Dunk,2PT Field Goal,2,2,Cutting Dunk Shot,DUNKS,1.0,2024
-202684,Hook Shot,2PT Field Goal,1,1,Hook Bank Shot,POST_MOVES,1.0,2024
-202684,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2024
-202684,Standard Layup,2PT Field Goal,2,0,Layup Shot,LAYUPS,0.0,2024
-202684,Specialty Dunk,2PT Field Goal,1,1,Tip Dunk Shot,DUNKS,1.0,2024
-202684,Putback Layup,2PT Field Goal,4,3,Tip Layup Shot,LAYUPS,0.75,2024
-202684,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2024
-202684,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2025
-202684,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Tristan Thompson,202684,Alley Oop Dunk,2,4,4,Alley Oop Dunk Shot,DUNKS,,2012
+Tristan Thompson,202684,Driving Jump Shot,2,1,0,Driving Bank shot,JUMP_SHOTS,,2012
+Tristan Thompson,202684,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2012
+Tristan Thompson,202684,Driving Hook Shot,2,4,2,Driving Hook Shot,POST_MOVES,,2012
+Tristan Thompson,202684,Driving Layup,2,16,11,Driving Layup Shot,LAYUPS,,2012
+Tristan Thompson,202684,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2012
+Tristan Thompson,202684,Standard Dunk,2,51,45,Dunk Shot,DUNKS,,2012
+Tristan Thompson,202684,Fadeaway Jump Shot,2,3,2,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Tristan Thompson,202684,Floating Jump Shot,2,5,2,Floating Jump shot,FLOATING_SHOTS,,2012
+Tristan Thompson,202684,Hook Shot,2,19,6,Hook Shot,POST_MOVES,,2012
+Tristan Thompson,202684,Jump Shot,2,4,3,Jump Bank Shot,JUMP_SHOTS,,2012
+Tristan Thompson,202684,Hook Shot,2,13,6,Jump Hook Shot,POST_MOVES,,2012
+Tristan Thompson,202684,Jump Shot,2,139,28,Jump Shot,JUMP_SHOTS,,2012
+Tristan Thompson,202684,Standard Layup,2,101,37,Layup Shot,LAYUPS,,2012
+Tristan Thompson,202684,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2012
+Tristan Thompson,202684,Putback Dunk,2,6,5,Putback Dunk Shot,DUNKS,,2012
+Tristan Thompson,202684,Putback Layup,2,10,9,Putback Layup Shot,LAYUPS,,2012
+Tristan Thompson,202684,Putback Dunk,2,1,0,Putback Slam Dunk Shot,DUNKS,,2012
+Tristan Thompson,202684,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2012
+Tristan Thompson,202684,Running Jump Shot,2,1,0,Running Bank shot,JUMP_SHOTS,,2012
+Tristan Thompson,202684,Running Hook Shot,2,3,2,Running Hook Shot,POST_MOVES,,2012
+Tristan Thompson,202684,Running Jump Shot,2,6,3,Running Jump Shot,JUMP_SHOTS,,2012
+Tristan Thompson,202684,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2012
+Tristan Thompson,202684,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2012
+Tristan Thompson,202684,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2012
+Tristan Thompson,202684,Standard Dunk,2,7,7,Slam Dunk Shot,DUNKS,,2012
+Tristan Thompson,202684,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2012
+Tristan Thompson,202684,Tip Shot,2,30,8,Tip Shot,TIP_SHOTS,,2012
+Tristan Thompson,202684,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2012
+Tristan Thompson,202684,Turnaround Jump Shot,2,3,2,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Tristan Thompson,202684,Alley Oop Dunk,2,3,2,Alley Oop Dunk Shot,DUNKS,,2013
+Tristan Thompson,202684,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2013
+Tristan Thompson,202684,Driving Dunk,2,7,7,Driving Dunk Shot,DUNKS,,2013
+Tristan Thompson,202684,Driving Hook Shot,2,5,2,Driving Hook Shot,POST_MOVES,,2013
+Tristan Thompson,202684,Driving Jump Shot,2,9,5,Driving Jump shot,JUMP_SHOTS,,2013
+Tristan Thompson,202684,Driving Layup,2,16,15,Driving Layup Shot,LAYUPS,,2013
+Tristan Thompson,202684,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2013
+Tristan Thompson,202684,Standard Dunk,2,77,60,Dunk Shot,DUNKS,,2013
+Tristan Thompson,202684,Fadeaway Jump Shot,2,8,1,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Tristan Thompson,202684,Floating Jump Shot,2,50,20,Floating Jump shot,FLOATING_SHOTS,,2013
+Tristan Thompson,202684,Hook Shot,2,20,8,Hook Shot,POST_MOVES,,2013
+Tristan Thompson,202684,Hook Shot,2,1,1,Jump Bank Hook Shot,POST_MOVES,,2013
+Tristan Thompson,202684,Jump Shot,2,9,3,Jump Bank Shot,JUMP_SHOTS,,2013
+Tristan Thompson,202684,Hook Shot,2,29,18,Jump Hook Shot,POST_MOVES,,2013
+Tristan Thompson,202684,Jump Shot,2,247,80,Jump Shot,JUMP_SHOTS,,2013
+Tristan Thompson,202684,Standard Layup,2,161,64,Layup Shot,LAYUPS,,2013
+Tristan Thompson,202684,Putback Dunk,2,21,20,Putback Dunk Shot,DUNKS,,2013
+Tristan Thompson,202684,Putback Layup,2,14,12,Putback Layup Shot,LAYUPS,,2013
+Tristan Thompson,202684,Putback Dunk,2,1,1,Putback Slam Dunk Shot,DUNKS,,2013
+Tristan Thompson,202684,Reverse Dunk,2,3,3,Reverse Dunk Shot,DUNKS,,2013
+Tristan Thompson,202684,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2013
+Tristan Thompson,202684,Reverse Dunk,2,1,1,Reverse Slam Dunk Shot,DUNKS,,2013
+Tristan Thompson,202684,Running Jump Shot,2,2,2,Running Bank shot,JUMP_SHOTS,,2013
+Tristan Thompson,202684,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2013
+Tristan Thompson,202684,Running Hook Shot,2,6,5,Running Hook Shot,POST_MOVES,,2013
+Tristan Thompson,202684,Running Jump Shot,2,24,11,Running Jump Shot,JUMP_SHOTS,,2013
+Tristan Thompson,202684,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2013
+Tristan Thompson,202684,Tip Shot,2,1,1,Running Tip Shot,TIP_SHOTS,,2013
+Tristan Thompson,202684,Standard Dunk,2,16,15,Slam Dunk Shot,DUNKS,,2013
+Tristan Thompson,202684,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2013
+Tristan Thompson,202684,Tip Shot,2,40,16,Tip Shot,TIP_SHOTS,,2013
+Tristan Thompson,202684,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2013
+Tristan Thompson,202684,Turnaround Hook Shot,2,5,2,Turnaround Hook Shot,POST_MOVES,,2013
+Tristan Thompson,202684,Turnaround Jump Shot,2,13,8,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Tristan Thompson,202684,Alley Oop Dunk,2,13,12,Alley Oop Dunk Shot,DUNKS,,2014
+Tristan Thompson,202684,Alley Oop Layup,2,4,2,Alley Oop Layup shot,LAYUPS,,2014
+Tristan Thompson,202684,Driving Jump Shot,2,3,3,Driving Bank shot,JUMP_SHOTS,,2014
+Tristan Thompson,202684,Driving Dunk,2,3,2,Driving Dunk Shot,DUNKS,,2014
+Tristan Thompson,202684,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2014
+Tristan Thompson,202684,Driving Jump Shot,2,6,1,Driving Jump shot,JUMP_SHOTS,,2014
+Tristan Thompson,202684,Driving Layup,2,20,14,Driving Layup Shot,LAYUPS,,2014
+Tristan Thompson,202684,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2014
+Tristan Thompson,202684,Driving Dunk,2,2,2,Driving Slam Dunk Shot,DUNKS,,2014
+Tristan Thompson,202684,Standard Dunk,2,74,62,Dunk Shot,DUNKS,,2014
+Tristan Thompson,202684,Fadeaway Jump Shot,2,5,1,Fadeaway Jump Shot,JUMP_SHOTS,,2014
+Tristan Thompson,202684,Finger Roll,2,2,1,Finger Roll Layup Shot,LAYUPS,,2014
+Tristan Thompson,202684,Floating Jump Shot,2,32,20,Floating Jump shot,FLOATING_SHOTS,,2014
+Tristan Thompson,202684,Hook Shot,2,22,8,Hook Shot,POST_MOVES,,2014
+Tristan Thompson,202684,Hook Shot,2,1,1,Jump Bank Hook Shot,POST_MOVES,,2014
+Tristan Thompson,202684,Jump Shot,2,7,6,Jump Bank Shot,JUMP_SHOTS,,2014
+Tristan Thompson,202684,Hook Shot,2,28,13,Jump Hook Shot,POST_MOVES,,2014
+Tristan Thompson,202684,Jump Shot,2,273,82,Jump Shot,JUMP_SHOTS,,2014
+Tristan Thompson,202684,Standard Layup,2,140,57,Layup Shot,LAYUPS,,2014
+Tristan Thompson,202684,Putback Dunk,2,6,6,Putback Dunk Shot,DUNKS,,2014
+Tristan Thompson,202684,Putback Layup,2,6,3,Putback Layup Shot,LAYUPS,,2014
+Tristan Thompson,202684,Putback Dunk,2,1,1,Putback Slam Dunk Shot,DUNKS,,2014
+Tristan Thompson,202684,Reverse Layup,2,12,7,Reverse Layup Shot,LAYUPS,,2014
+Tristan Thompson,202684,Running Hook Shot,2,1,1,Running Bank Hook Shot,POST_MOVES,,2014
+Tristan Thompson,202684,Running Jump Shot,2,3,3,Running Bank shot,JUMP_SHOTS,,2014
+Tristan Thompson,202684,Running Hook Shot,2,5,4,Running Hook Shot,POST_MOVES,,2014
+Tristan Thompson,202684,Running Jump Shot,2,13,11,Running Jump Shot,JUMP_SHOTS,,2014
+Tristan Thompson,202684,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2014
+Tristan Thompson,202684,Standard Dunk,2,15,15,Slam Dunk Shot,DUNKS,,2014
+Tristan Thompson,202684,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2014
+Tristan Thompson,202684,Tip Shot,2,32,7,Tip Shot,TIP_SHOTS,,2014
+Tristan Thompson,202684,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2014
+Tristan Thompson,202684,Turnaround Hook Shot,2,5,2,Turnaround Hook Shot,POST_MOVES,,2014
+Tristan Thompson,202684,Turnaround Jump Shot,2,22,12,Turnaround Jump Shot,JUMP_SHOTS,,2014
+Tristan Thompson,202684,Alley Oop Dunk,2,51,46,Alley Oop Dunk Shot,DUNKS,,2015
+Tristan Thompson,202684,Alley Oop Layup,2,8,6,Alley Oop Layup shot,LAYUPS,,2015
+Tristan Thompson,202684,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2015
+Tristan Thompson,202684,Driving Layup,2,5,4,Driving Layup Shot,LAYUPS,,2015
+Tristan Thompson,202684,Standard Dunk,2,56,51,Dunk Shot,DUNKS,,2015
+Tristan Thompson,202684,Floating Jump Shot,2,2,2,Floating Jump shot,FLOATING_SHOTS,,2015
+Tristan Thompson,202684,Hook Shot,2,18,7,Hook Shot,POST_MOVES,,2015
+Tristan Thompson,202684,Jump Shot,2,3,3,Jump Bank Shot,JUMP_SHOTS,,2015
+Tristan Thompson,202684,Hook Shot,2,13,7,Jump Hook Shot,POST_MOVES,,2015
+Tristan Thompson,202684,Jump Shot,2,100,25,Jump Shot,JUMP_SHOTS,,2015
+Tristan Thompson,202684,Standard Layup,2,115,54,Layup Shot,LAYUPS,,2015
+Tristan Thompson,202684,Pullup Jump Shot,2,2,1,Pullup Jump shot,JUMP_SHOTS,,2015
+Tristan Thompson,202684,Putback Dunk,2,8,8,Putback Dunk Shot,DUNKS,,2015
+Tristan Thompson,202684,Putback Layup,2,8,7,Putback Layup Shot,LAYUPS,,2015
+Tristan Thompson,202684,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2015
+Tristan Thompson,202684,Running Jump Shot,2,2,2,Running Bank shot,JUMP_SHOTS,,2015
+Tristan Thompson,202684,Running Hook Shot,2,3,2,Running Hook Shot,POST_MOVES,,2015
+Tristan Thompson,202684,Running Jump Shot,2,5,2,Running Jump Shot,JUMP_SHOTS,,2015
+Tristan Thompson,202684,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2015
+Tristan Thompson,202684,Standard Dunk,2,10,10,Slam Dunk Shot,DUNKS,,2015
+Tristan Thompson,202684,Tip Shot,2,56,18,Tip Shot,TIP_SHOTS,,2015
+Tristan Thompson,202684,Turnaround Jump Shot,2,1,0,Turnaround Bank shot,JUMP_SHOTS,,2015
+Tristan Thompson,202684,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2015
+Tristan Thompson,202684,Turnaround Hook Shot,2,5,2,Turnaround Hook Shot,POST_MOVES,,2015
+Tristan Thompson,202684,Turnaround Jump Shot,2,10,5,Turnaround Jump Shot,JUMP_SHOTS,,2015
+Tristan Thompson,202684,Alley Oop Dunk,2,43,40,Alley Oop Dunk Shot,DUNKS,,2016
+Tristan Thompson,202684,Alley Oop Layup,2,14,8,Alley Oop Layup shot,LAYUPS,,2016
+Tristan Thompson,202684,Specialty Dunk,2,13,13,Cutting Dunk Shot,DUNKS,,2016
+Tristan Thompson,202684,Standard Layup,2,14,9,Cutting Layup Shot,LAYUPS,,2016
+Tristan Thompson,202684,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2016
+Tristan Thompson,202684,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2016
+Tristan Thompson,202684,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Tristan Thompson,202684,Driving Hook Shot,2,3,3,Driving Hook Shot,POST_MOVES,,2016
+Tristan Thompson,202684,Driving Layup,2,6,5,Driving Layup Shot,LAYUPS,,2016
+Tristan Thompson,202684,Standard Dunk,2,32,28,Dunk Shot,DUNKS,,2016
+Tristan Thompson,202684,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Tristan Thompson,202684,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2016
+Tristan Thompson,202684,Floating Jump Shot,2,5,3,Floating Jump shot,FLOATING_SHOTS,,2016
+Tristan Thompson,202684,Hook Shot,2,24,13,Hook Shot,POST_MOVES,,2016
+Tristan Thompson,202684,Jump Shot,2,3,2,Jump Bank Shot,JUMP_SHOTS,,2016
+Tristan Thompson,202684,Jump Shot,2,63,16,Jump Shot,JUMP_SHOTS,,2016
+Tristan Thompson,202684,Standard Layup,2,72,35,Layup Shot,LAYUPS,,2016
+Tristan Thompson,202684,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2016
+Tristan Thompson,202684,Putback Dunk,2,3,3,Putback Dunk Shot,DUNKS,,2016
+Tristan Thompson,202684,Putback Layup,2,15,10,Putback Layup Shot,LAYUPS,,2016
+Tristan Thompson,202684,Reverse Dunk,2,2,2,Reverse Dunk Shot,DUNKS,,2016
+Tristan Thompson,202684,Reverse Layup,2,6,3,Reverse Layup Shot,LAYUPS,,2016
+Tristan Thompson,202684,Standard Dunk,2,4,4,Running Dunk Shot,DUNKS,,2016
+Tristan Thompson,202684,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2016
+Tristan Thompson,202684,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,2016
+Tristan Thompson,202684,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2016
+Tristan Thompson,202684,Specialty Dunk,2,8,6,Tip Dunk Shot,DUNKS,,2016
+Tristan Thompson,202684,Putback Layup,2,57,27,Tip Layup Shot,LAYUPS,,2016
+Tristan Thompson,202684,Turnaround Jump Shot,2,1,0,Turnaround Bank shot,JUMP_SHOTS,,2016
+Tristan Thompson,202684,Turnaround Hook Shot,2,9,5,Turnaround Hook Shot,POST_MOVES,,2016
+Tristan Thompson,202684,Turnaround Jump Shot,2,12,4,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Tristan Thompson,202684,Alley Oop Dunk,2,37,36,Alley Oop Dunk Shot,DUNKS,,2017
+Tristan Thompson,202684,Alley Oop Layup,2,9,5,Alley Oop Layup shot,LAYUPS,,2017
+Tristan Thompson,202684,Specialty Dunk,2,34,34,Cutting Dunk Shot,DUNKS,,2017
+Tristan Thompson,202684,Standard Layup,2,24,19,Cutting Layup Shot,LAYUPS,,2017
+Tristan Thompson,202684,Driving Hook Shot,2,1,0,Driving Bank Hook Shot,POST_MOVES,,2017
+Tristan Thompson,202684,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2017
+Tristan Thompson,202684,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Tristan Thompson,202684,Driving Hook Shot,2,5,4,Driving Hook Shot,POST_MOVES,,2017
+Tristan Thompson,202684,Driving Layup,2,6,1,Driving Layup Shot,LAYUPS,,2017
+Tristan Thompson,202684,Standard Dunk,2,28,25,Dunk Shot,DUNKS,,2017
+Tristan Thompson,202684,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Tristan Thompson,202684,Floating Jump Shot,2,24,11,Floating Jump shot,FLOATING_SHOTS,,2017
+Tristan Thompson,202684,Hook Shot,2,22,10,Hook Shot,POST_MOVES,,2017
+Tristan Thompson,202684,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2017
+Tristan Thompson,202684,Jump Shot,2,62,22,Jump Shot,JUMP_SHOTS,,2017
+Tristan Thompson,202684,Standard Layup,2,59,19,Layup Shot,LAYUPS,,2017
+Tristan Thompson,202684,Pullup Jump Shot,2,1,0,Pullup Bank shot,JUMP_SHOTS,,2017
+Tristan Thompson,202684,Pullup Jump Shot,2,5,2,Pullup Jump shot,JUMP_SHOTS,,2017
+Tristan Thompson,202684,Putback Dunk,2,12,12,Putback Dunk Shot,DUNKS,,2017
+Tristan Thompson,202684,Putback Layup,2,10,4,Putback Layup Shot,LAYUPS,,2017
+Tristan Thompson,202684,Reverse Layup,2,13,11,Reverse Layup Shot,LAYUPS,,2017
+Tristan Thompson,202684,Alley Oop Layup,2,1,1,Running Alley Oop Layup Shot,LAYUPS,,2017
+Tristan Thompson,202684,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2017
+Tristan Thompson,202684,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2017
+Tristan Thompson,202684,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2017
+Tristan Thompson,202684,Specialty Dunk,2,11,9,Tip Dunk Shot,DUNKS,,2017
+Tristan Thompson,202684,Putback Layup,2,46,20,Tip Layup Shot,LAYUPS,,2017
+Tristan Thompson,202684,Turnaround Hook Shot,2,10,5,Turnaround Hook Shot,POST_MOVES,,2017
+Tristan Thompson,202684,Turnaround Jump Shot,2,4,2,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Tristan Thompson,202684,Alley Oop Dunk,2,18,14,Alley Oop Dunk Shot,DUNKS,,2018
+Tristan Thompson,202684,Alley Oop Layup,2,12,6,Alley Oop Layup shot,LAYUPS,,2018
+Tristan Thompson,202684,Specialty Dunk,2,10,9,Cutting Dunk Shot,DUNKS,,2018
+Tristan Thompson,202684,Standard Layup,2,12,10,Cutting Layup Shot,LAYUPS,,2018
+Tristan Thompson,202684,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2018
+Tristan Thompson,202684,Floating Jump Shot,2,7,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Tristan Thompson,202684,Driving Hook Shot,2,3,2,Driving Hook Shot,POST_MOVES,,2018
+Tristan Thompson,202684,Driving Layup,2,8,5,Driving Layup Shot,LAYUPS,,2018
+Tristan Thompson,202684,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2018
+Tristan Thompson,202684,Standard Dunk,2,8,7,Dunk Shot,DUNKS,,2018
+Tristan Thompson,202684,Floating Jump Shot,2,12,8,Floating Jump shot,FLOATING_SHOTS,,2018
+Tristan Thompson,202684,Hook Shot,2,19,8,Hook Shot,POST_MOVES,,2018
+Tristan Thompson,202684,Jump Shot,2,15,4,Jump Shot,JUMP_SHOTS,,2018
+Tristan Thompson,202684,Standard Layup,2,32,14,Layup Shot,LAYUPS,,2018
+Tristan Thompson,202684,Pullup Jump Shot,2,2,2,Pullup Jump shot,JUMP_SHOTS,,2018
+Tristan Thompson,202684,Putback Dunk,2,3,3,Putback Dunk Shot,DUNKS,,2018
+Tristan Thompson,202684,Putback Layup,2,9,8,Putback Layup Shot,LAYUPS,,2018
+Tristan Thompson,202684,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2018
+Tristan Thompson,202684,Alley Oop Dunk,2,3,3,Running Alley Oop Dunk Shot,DUNKS,,2018
+Tristan Thompson,202684,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2018
+Tristan Thompson,202684,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2018
+Tristan Thompson,202684,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2018
+Tristan Thompson,202684,Putback Layup,2,40,14,Tip Layup Shot,LAYUPS,,2018
+Tristan Thompson,202684,Turnaround Hook Shot,2,1,0,Turnaround Bank Hook Shot,POST_MOVES,,2018
+Tristan Thompson,202684,Turnaround Hook Shot,2,6,4,Turnaround Hook Shot,POST_MOVES,,2018
+Tristan Thompson,202684,Turnaround Jump Shot,2,5,1,Turnaround Jump Shot,JUMP_SHOTS,,2018
+Tristan Thompson,202684,Alley Oop Dunk,2,5,4,Alley Oop Dunk Shot,DUNKS,,2019
+Tristan Thompson,202684,Alley Oop Layup,2,8,4,Alley Oop Layup shot,LAYUPS,,2019
+Tristan Thompson,202684,Specialty Dunk,2,5,4,Cutting Dunk Shot,DUNKS,,2019
+Tristan Thompson,202684,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2019
+Tristan Thompson,202684,Standard Layup,2,11,9,Cutting Layup Shot,LAYUPS,,2019
+Tristan Thompson,202684,Driving Dunk,2,5,4,Driving Dunk Shot,DUNKS,,2019
+Tristan Thompson,202684,Floating Jump Shot,2,4,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Tristan Thompson,202684,Driving Hook Shot,2,20,12,Driving Hook Shot,POST_MOVES,,2019
+Tristan Thompson,202684,Driving Layup,2,9,8,Driving Layup Shot,LAYUPS,,2019
+Tristan Thompson,202684,Standard Dunk,2,7,5,Dunk Shot,DUNKS,,2019
+Tristan Thompson,202684,Fadeaway Jump Shot,2,4,2,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+Tristan Thompson,202684,Floating Jump Shot,2,15,7,Floating Jump shot,FLOATING_SHOTS,,2019
+Tristan Thompson,202684,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2019
+Tristan Thompson,202684,Hook Shot,2,80,43,Hook Shot,POST_MOVES,,2019
+Tristan Thompson,202684,Jump Shot,2,16,4,Jump Shot,JUMP_SHOTS,,2019
+Tristan Thompson,202684,Standard Layup,2,40,16,Layup Shot,LAYUPS,,2019
+Tristan Thompson,202684,Pullup Jump Shot,2,10,2,Pullup Jump shot,JUMP_SHOTS,,2019
+Tristan Thompson,202684,Putback Dunk,2,4,2,Putback Dunk Shot,DUNKS,,2019
+Tristan Thompson,202684,Putback Layup,2,15,8,Putback Layup Shot,LAYUPS,,2019
+Tristan Thompson,202684,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2019
+Tristan Thompson,202684,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2019
+Tristan Thompson,202684,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2019
+Tristan Thompson,202684,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2019
+Tristan Thompson,202684,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2019
+Tristan Thompson,202684,Specialty Dunk,2,11,10,Tip Dunk Shot,DUNKS,,2019
+Tristan Thompson,202684,Putback Layup,2,56,29,Tip Layup Shot,LAYUPS,,2019
+Tristan Thompson,202684,Turnaround Hook Shot,2,2,0,Turnaround Bank Hook Shot,POST_MOVES,,2019
+Tristan Thompson,202684,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2019
+Tristan Thompson,202684,Turnaround Hook Shot,2,39,20,Turnaround Hook Shot,POST_MOVES,,2019
+Tristan Thompson,202684,Turnaround Jump Shot,2,4,1,Turnaround Jump Shot,JUMP_SHOTS,,2019
+Tristan Thompson,202684,Alley Oop Dunk,2,27,25,Alley Oop Dunk Shot,DUNKS,,2020
+Tristan Thompson,202684,Alley Oop Layup,2,5,2,Alley Oop Layup shot,LAYUPS,,2020
+Tristan Thompson,202684,Specialty Dunk,2,23,21,Cutting Dunk Shot,DUNKS,,2020
+Tristan Thompson,202684,Standard Layup,2,20,8,Cutting Layup Shot,LAYUPS,,2020
+Tristan Thompson,202684,Driving Hook Shot,2,1,0,Driving Bank Hook Shot,POST_MOVES,,2020
+Tristan Thompson,202684,Driving Dunk,2,7,7,Driving Dunk Shot,DUNKS,,2020
+Tristan Thompson,202684,Floating Jump Shot,2,7,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Tristan Thompson,202684,Driving Hook Shot,2,40,18,Driving Hook Shot,POST_MOVES,,2020
+Tristan Thompson,202684,Driving Layup,2,17,8,Driving Layup Shot,LAYUPS,,2020
+Tristan Thompson,202684,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2020
+Tristan Thompson,202684,Standard Dunk,2,22,18,Dunk Shot,DUNKS,,2020
+Tristan Thompson,202684,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+Tristan Thompson,202684,Floating Jump Shot,2,18,5,Floating Jump shot,FLOATING_SHOTS,,2020
+Tristan Thompson,202684,Hook Shot,2,83,39,Hook Shot,POST_MOVES,,2020
+Tristan Thompson,202684,Jump Shot,2,4,3,Jump Bank Shot,JUMP_SHOTS,,2020
+Tristan Thompson,202684,Jump Shot,2,42,13,Jump Shot,JUMP_SHOTS,,2020
+Tristan Thompson,202684,Standard Layup,2,61,26,Layup Shot,LAYUPS,,2020
+Tristan Thompson,202684,Pullup Jump Shot,2,5,2,Pullup Jump shot,JUMP_SHOTS,,2020
+Tristan Thompson,202684,Putback Dunk,2,5,5,Putback Dunk Shot,DUNKS,,2020
+Tristan Thompson,202684,Putback Layup,2,15,9,Putback Layup Shot,LAYUPS,,2020
+Tristan Thompson,202684,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2020
+Tristan Thompson,202684,Reverse Layup,2,8,3,Reverse Layup Shot,LAYUPS,,2020
+Tristan Thompson,202684,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2020
+Tristan Thompson,202684,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2020
+Tristan Thompson,202684,Standard Layup,2,3,3,Running Layup Shot,LAYUPS,,2020
+Tristan Thompson,202684,Step Back Jump Shot,2,2,0,Step Back Jump shot,JUMP_SHOTS,,2020
+Tristan Thompson,202684,Specialty Dunk,2,16,15,Tip Dunk Shot,DUNKS,,2020
+Tristan Thompson,202684,Putback Layup,2,53,19,Tip Layup Shot,LAYUPS,,2020
+Tristan Thompson,202684,Turnaround Hook Shot,2,1,0,Turnaround Bank Hook Shot,POST_MOVES,,2020
+Tristan Thompson,202684,Turnaround Hook Shot,2,55,25,Turnaround Hook Shot,POST_MOVES,,2020
+Tristan Thompson,202684,Turnaround Jump Shot,2,13,5,Turnaround Jump Shot,JUMP_SHOTS,,2020
+Tristan Thompson,202684,Alley Oop Dunk,2,8,6,Alley Oop Dunk Shot,DUNKS,,2021
+Tristan Thompson,202684,Alley Oop Layup,2,3,2,Alley Oop Layup shot,LAYUPS,,2021
+Tristan Thompson,202684,Specialty Dunk,2,13,11,Cutting Dunk Shot,DUNKS,,2021
+Tristan Thompson,202684,Standard Layup,2,8,5,Cutting Layup Shot,LAYUPS,,2021
+Tristan Thompson,202684,Driving Hook Shot,2,3,2,Driving Bank Hook Shot,POST_MOVES,,2021
+Tristan Thompson,202684,Floating Jump Shot,2,6,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Tristan Thompson,202684,Driving Hook Shot,2,18,10,Driving Hook Shot,POST_MOVES,,2021
+Tristan Thompson,202684,Driving Layup,2,12,5,Driving Layup Shot,LAYUPS,,2021
+Tristan Thompson,202684,Driving Layup,2,4,2,Driving Reverse Layup Shot,LAYUPS,,2021
+Tristan Thompson,202684,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2021
+Tristan Thompson,202684,Floating Jump Shot,2,18,12,Floating Jump shot,FLOATING_SHOTS,,2021
+Tristan Thompson,202684,Hook Shot,2,3,2,Hook Bank Shot,POST_MOVES,,2021
+Tristan Thompson,202684,Hook Shot,2,50,21,Hook Shot,POST_MOVES,,2021
+Tristan Thompson,202684,Jump Shot,2,10,5,Jump Shot,JUMP_SHOTS,,2021
+Tristan Thompson,202684,Standard Layup,2,43,23,Layup Shot,LAYUPS,,2021
+Tristan Thompson,202684,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2021
+Tristan Thompson,202684,Putback Dunk,2,3,3,Putback Dunk Shot,DUNKS,,2021
+Tristan Thompson,202684,Putback Layup,2,14,10,Putback Layup Shot,LAYUPS,,2021
+Tristan Thompson,202684,Reverse Layup,2,5,3,Reverse Layup Shot,LAYUPS,,2021
+Tristan Thompson,202684,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2021
+Tristan Thompson,202684,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2021
+Tristan Thompson,202684,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2021
+Tristan Thompson,202684,Specialty Dunk,2,2,1,Tip Dunk Shot,DUNKS,,2021
+Tristan Thompson,202684,Putback Layup,2,55,21,Tip Layup Shot,LAYUPS,,2021
+Tristan Thompson,202684,Turnaround Hook Shot,2,1,1,Turnaround Bank Hook Shot,POST_MOVES,,2021
+Tristan Thompson,202684,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2021
+Tristan Thompson,202684,Turnaround Hook Shot,2,34,15,Turnaround Hook Shot,POST_MOVES,,2021
+Tristan Thompson,202684,Turnaround Jump Shot,2,4,1,Turnaround Jump Shot,JUMP_SHOTS,,2021
+Tristan Thompson,202684,Alley Oop Dunk,2,6,5,Alley Oop Dunk Shot,DUNKS,,2022
+Tristan Thompson,202684,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2022
+Tristan Thompson,202684,Specialty Dunk,2,11,9,Cutting Dunk Shot,DUNKS,,2022
+Tristan Thompson,202684,Standard Layup,2,6,5,Cutting Layup Shot,LAYUPS,,2022
+Tristan Thompson,202684,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2022
+Tristan Thompson,202684,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Tristan Thompson,202684,Floating Jump Shot,2,4,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Tristan Thompson,202684,Driving Hook Shot,2,14,6,Driving Hook Shot,POST_MOVES,,2022
+Tristan Thompson,202684,Driving Layup,2,14,6,Driving Layup Shot,LAYUPS,,2022
+Tristan Thompson,202684,Standard Dunk,2,10,7,Dunk Shot,DUNKS,,2022
+Tristan Thompson,202684,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Tristan Thompson,202684,Floating Jump Shot,2,23,10,Floating Jump shot,FLOATING_SHOTS,,2022
+Tristan Thompson,202684,Hook Shot,2,47,26,Hook Shot,POST_MOVES,,2022
+Tristan Thompson,202684,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2022
+Tristan Thompson,202684,Jump Shot,2,1,1,Jump Shot,JUMP_SHOTS,,2022
+Tristan Thompson,202684,Standard Layup,2,39,19,Layup Shot,LAYUPS,,2022
+Tristan Thompson,202684,Pullup Jump Shot,2,3,0,Pullup Jump shot,JUMP_SHOTS,,2022
+Tristan Thompson,202684,Putback Dunk,2,3,3,Putback Dunk Shot,DUNKS,,2022
+Tristan Thompson,202684,Putback Layup,2,12,6,Putback Layup Shot,LAYUPS,,2022
+Tristan Thompson,202684,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2022
+Tristan Thompson,202684,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2022
+Tristan Thompson,202684,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2022
+Tristan Thompson,202684,Standard Layup,2,6,4,Running Layup Shot,LAYUPS,,2022
+Tristan Thompson,202684,Specialty Dunk,2,7,4,Tip Dunk Shot,DUNKS,,2022
+Tristan Thompson,202684,Putback Layup,2,27,9,Tip Layup Shot,LAYUPS,,2022
+Tristan Thompson,202684,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2022
+Tristan Thompson,202684,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2022
+Tristan Thompson,202684,Turnaround Hook Shot,2,19,8,Turnaround Hook Shot,POST_MOVES,,2022
+Tristan Thompson,202684,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2022
+Tristan Thompson,202684,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2024
+Tristan Thompson,202684,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2024
+Tristan Thompson,202684,Specialty Dunk,2,11,8,Cutting Dunk Shot,DUNKS,,2024
+Tristan Thompson,202684,Standard Layup,2,7,4,Cutting Layup Shot,LAYUPS,,2024
+Tristan Thompson,202684,Driving Dunk,2,3,2,Driving Dunk Shot,DUNKS,,2024
+Tristan Thompson,202684,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Tristan Thompson,202684,Floating Jump Shot,2,3,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Tristan Thompson,202684,Driving Hook Shot,2,3,2,Driving Hook Shot,POST_MOVES,,2024
+Tristan Thompson,202684,Driving Layup,2,9,6,Driving Layup Shot,LAYUPS,,2024
+Tristan Thompson,202684,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2024
+Tristan Thompson,202684,Floating Jump Shot,2,9,5,Floating Jump shot,FLOATING_SHOTS,,2024
+Tristan Thompson,202684,Hook Shot,2,2,2,Hook Bank Shot,POST_MOVES,,2024
+Tristan Thompson,202684,Hook Shot,2,9,6,Hook Shot,POST_MOVES,,2024
+Tristan Thompson,202684,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2024
+Tristan Thompson,202684,Jump Shot,2,1,0,Jump Shot,JUMP_SHOTS,,2024
+Tristan Thompson,202684,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2024
+Tristan Thompson,202684,Standard Layup,2,9,2,Layup Shot,LAYUPS,,2024
+Tristan Thompson,202684,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2024
+Tristan Thompson,202684,Putback Layup,2,4,3,Putback Layup Shot,LAYUPS,,2024
+Tristan Thompson,202684,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2024
+Tristan Thompson,202684,Specialty Dunk,2,6,6,Tip Dunk Shot,DUNKS,,2024
+Tristan Thompson,202684,Putback Layup,2,24,14,Tip Layup Shot,LAYUPS,,2024
+Tristan Thompson,202684,Turnaround Hook Shot,2,6,4,Turnaround Hook Shot,POST_MOVES,,2024
+Tristan Thompson,202684,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2024
+Tristan Thompson,202684,Standard Layup,2,3,1,Cutting Layup Shot,LAYUPS,,2025
+Tristan Thompson,202684,Driving Hook Shot,2,1,0,Driving Bank Hook Shot,POST_MOVES,,2025
+Tristan Thompson,202684,Floating Jump Shot,2,2,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Tristan Thompson,202684,Driving Hook Shot,2,4,2,Driving Hook Shot,POST_MOVES,,2025
+Tristan Thompson,202684,Driving Layup,2,2,0,Driving Layup Shot,LAYUPS,,2025
+Tristan Thompson,202684,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2025
+Tristan Thompson,202684,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2025
+Tristan Thompson,202684,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2025
+Tristan Thompson,202684,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2025
+Tristan Thompson,202684,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2025
+Tristan Thompson,202684,Standard Layup,2,2,2,Layup Shot,LAYUPS,,2025
+Tristan Thompson,202684,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2025
+Tristan Thompson,202684,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2025
+Tristan Thompson,202684,Specialty Dunk,2,1,0,Tip Dunk Shot,DUNKS,,2025
+Tristan Thompson,202684,Putback Layup,2,3,1,Tip Layup Shot,LAYUPS,,2025
+Tristan Thompson,202684,Turnaround Hook Shot,2,2,2,Turnaround Bank Hook Shot,POST_MOVES,,2025
+Tristan Thompson,202684,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2025
+Tristan Thompson,202684,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2025

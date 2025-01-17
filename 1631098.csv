@@ -1,41 +1,81 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1631098,Alley Oop Layup,2PT Field Goal,1,0,Alley Oop Layup shot,LAYUPS,0.0,2024
-1631098,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2024
-1631098,Standard Layup,2PT Field Goal,7,4,Cutting Layup Shot,LAYUPS,0.5714285714285714,2024
-1631098,Driving Dunk,2PT Field Goal,2,2,Driving Dunk Shot,DUNKS,1.0,2024
-1631098,Finger Roll,2PT Field Goal,4,2,Driving Finger Roll Layup Shot,LAYUPS,0.5,2024
-1631098,Floating Jump Shot,2PT Field Goal,2,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.0,2024
-1631098,Floating Jump Shot,2PT Field Goal,11,6,Driving Floating Jump Shot,FLOATING_SHOTS,0.5454545454545454,2024
-1631098,Driving Layup,2PT Field Goal,4,3,Driving Layup Shot,LAYUPS,0.75,2024
-1631098,Driving Layup,2PT Field Goal,3,1,Driving Reverse Layup Shot,LAYUPS,0.3333333333333333,2024
-1631098,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2024
-1631098,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2024
-1631098,Jump Shot,3PT Field Goal,15,5,Jump Shot,JUMP_SHOTS,0.5,2024
-1631098,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2024
-1631098,Pullup Jump Shot,2PT Field Goal,7,0,Pullup Jump shot,JUMP_SHOTS,0.0,2024
-1631098,Putback Layup,2PT Field Goal,2,1,Putback Layup Shot,LAYUPS,0.5,2024
-1631098,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2024
-1631098,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2024
-1631098,Finger Roll,2PT Field Goal,1,1,Running Finger Roll Layup Shot,LAYUPS,1.0,2024
-1631098,Standard Layup,2PT Field Goal,5,2,Running Layup Shot,LAYUPS,0.4,2024
-1631098,Reverse Layup,2PT Field Goal,1,0,Running Reverse Layup Shot,LAYUPS,0.0,2024
-1631098,Putback Layup,2PT Field Goal,4,2,Tip Layup Shot,LAYUPS,0.5,2024
-1631098,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Bank shot,JUMP_SHOTS,1.0,2024
-1631098,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2024
-1631098,Specialty Dunk,2PT Field Goal,2,2,Cutting Dunk Shot,DUNKS,1.0,2025
-1631098,Driving Hook Shot,2PT Field Goal,1,1,Driving Bank Hook Shot,POST_MOVES,1.0,2025
-1631098,Finger Roll,2PT Field Goal,1,0,Driving Finger Roll Layup Shot,LAYUPS,0.0,2025
-1631098,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.0,2025
-1631098,Floating Jump Shot,2PT Field Goal,9,4,Driving Floating Jump Shot,FLOATING_SHOTS,0.4444444444444444,2025
-1631098,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2025
-1631098,Jump Shot,3PT Field Goal,11,2,Jump Shot,JUMP_SHOTS,0.2727272727272727,2025
-1631098,Pullup Jump Shot,2PT Field Goal,2,1,Pullup Jump shot,JUMP_SHOTS,0.5,2025
-1631098,Pullup Jump Shot,3PT Field Goal,3,1,Pullup Jump shot,JUMP_SHOTS,0.5,2025
-1631098,Reverse Layup,2PT Field Goal,2,2,Reverse Layup Shot,LAYUPS,1.0,2025
-1631098,Standard Dunk,2PT Field Goal,3,2,Running Dunk Shot,DUNKS,0.6666666666666666,2025
-1631098,Standard Layup,2PT Field Goal,2,1,Running Layup Shot,LAYUPS,0.5,2025
-1631098,Step Back Jump Shot,3PT Field Goal,3,1,Step Back Jump shot,JUMP_SHOTS,0.5,2025
-1631098,Specialty Dunk,2PT Field Goal,1,0,Tip Dunk Shot,DUNKS,0.0,2025
-1631098,Putback Layup,2PT Field Goal,1,0,Tip Layup Shot,LAYUPS,0.0,2025
-1631098,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2025
-1631098,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Johnny Davis,1631098,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2023
+Johnny Davis,1631098,Standard Layup,2,6,4,Cutting Layup Shot,LAYUPS,,2023
+Johnny Davis,1631098,Finger Roll,2,3,1,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Johnny Davis,1631098,Floating Jump Shot,2,5,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+Johnny Davis,1631098,Floating Jump Shot,2,19,11,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Johnny Davis,1631098,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2023
+Johnny Davis,1631098,Driving Layup,2,7,3,Driving Layup Shot,LAYUPS,,2023
+Johnny Davis,1631098,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2023
+Johnny Davis,1631098,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2023
+Johnny Davis,1631098,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2023
+Johnny Davis,1631098,Floating Jump Shot,2,5,1,Floating Jump shot,FLOATING_SHOTS,,2023
+Johnny Davis,1631098,Jump Shot,2,61,16,Jump Shot,JUMP_SHOTS,,2023
+Johnny Davis,1631098,Standard Layup,2,6,3,Layup Shot,LAYUPS,,2023
+Johnny Davis,1631098,Pullup Jump Shot,2,26,9,Pullup Jump shot,JUMP_SHOTS,,2023
+Johnny Davis,1631098,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2023
+Johnny Davis,1631098,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2023
+Johnny Davis,1631098,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2023
+Johnny Davis,1631098,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2023
+Johnny Davis,1631098,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,2023
+Johnny Davis,1631098,Standard Layup,2,5,3,Running Layup Shot,LAYUPS,,2023
+Johnny Davis,1631098,Running Jump Shot,2,3,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2023
+Johnny Davis,1631098,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2023
+Johnny Davis,1631098,Step Back Jump Shot,2,7,0,Step Back Jump shot,JUMP_SHOTS,,2023
+Johnny Davis,1631098,Putback Layup,2,1,1,Tip Layup Shot,LAYUPS,,2023
+Johnny Davis,1631098,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2023
+Johnny Davis,1631098,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2023
+Johnny Davis,1631098,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2024
+Johnny Davis,1631098,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2024
+Johnny Davis,1631098,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2024
+Johnny Davis,1631098,Standard Layup,2,11,7,Cutting Layup Shot,LAYUPS,,2024
+Johnny Davis,1631098,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2024
+Johnny Davis,1631098,Finger Roll,2,4,2,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Johnny Davis,1631098,Floating Jump Shot,2,2,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Johnny Davis,1631098,Floating Jump Shot,2,18,8,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Johnny Davis,1631098,Driving Layup,2,12,4,Driving Layup Shot,LAYUPS,,2024
+Johnny Davis,1631098,Driving Layup,2,4,1,Driving Reverse Layup Shot,LAYUPS,,2024
+Johnny Davis,1631098,Fadeaway Jump Shot,2,3,1,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Johnny Davis,1631098,Floating Jump Shot,2,2,0,Floating Jump shot,FLOATING_SHOTS,,2024
+Johnny Davis,1631098,Floating Jump Shot,3,1,0,Floating Jump shot,FLOATING_SHOTS,,2024
+Johnny Davis,1631098,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2024
+Johnny Davis,1631098,Jump Shot,2,1,0,Jump Shot,JUMP_SHOTS,,2024
+Johnny Davis,1631098,Jump Shot,3,36,12,Jump Shot,JUMP_SHOTS,,2024
+Johnny Davis,1631098,Standard Layup,2,3,2,Layup Shot,LAYUPS,,2024
+Johnny Davis,1631098,Pullup Jump Shot,2,11,1,Pullup Jump shot,JUMP_SHOTS,,2024
+Johnny Davis,1631098,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2024
+Johnny Davis,1631098,Putback Layup,2,3,1,Putback Layup Shot,LAYUPS,,2024
+Johnny Davis,1631098,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2024
+Johnny Davis,1631098,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2024
+Johnny Davis,1631098,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2024
+Johnny Davis,1631098,Running Jump Shot,3,1,1,Running Jump Shot,JUMP_SHOTS,,2024
+Johnny Davis,1631098,Standard Layup,2,16,7,Running Layup Shot,LAYUPS,,2024
+Johnny Davis,1631098,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Johnny Davis,1631098,Reverse Layup,2,2,0,Running Reverse Layup Shot,LAYUPS,,2024
+Johnny Davis,1631098,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2024
+Johnny Davis,1631098,Step Back Jump Shot,3,1,1,Step Back Jump shot,JUMP_SHOTS,,2024
+Johnny Davis,1631098,Putback Layup,2,4,2,Tip Layup Shot,LAYUPS,,2024
+Johnny Davis,1631098,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2024
+Johnny Davis,1631098,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2024
+Johnny Davis,1631098,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2024
+Johnny Davis,1631098,Specialty Dunk,2,3,3,Cutting Dunk Shot,DUNKS,,2025
+Johnny Davis,1631098,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2025
+Johnny Davis,1631098,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Johnny Davis,1631098,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2025
+Johnny Davis,1631098,Floating Jump Shot,2,9,4,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Johnny Davis,1631098,Driving Layup,2,4,1,Driving Layup Shot,LAYUPS,,2025
+Johnny Davis,1631098,Fadeaway Jump Shot,3,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2025
+Johnny Davis,1631098,Jump Shot,3,17,5,Jump Shot,JUMP_SHOTS,,2025
+Johnny Davis,1631098,Pullup Jump Shot,2,3,2,Pullup Jump shot,JUMP_SHOTS,,2025
+Johnny Davis,1631098,Pullup Jump Shot,3,5,1,Pullup Jump shot,JUMP_SHOTS,,2025
+Johnny Davis,1631098,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2025
+Johnny Davis,1631098,Standard Dunk,2,4,3,Running Dunk Shot,DUNKS,,2025
+Johnny Davis,1631098,Standard Layup,2,5,3,Running Layup Shot,LAYUPS,,2025
+Johnny Davis,1631098,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2025
+Johnny Davis,1631098,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2025
+Johnny Davis,1631098,Step Back Jump Shot,3,3,1,Step Back Jump shot,JUMP_SHOTS,,2025
+Johnny Davis,1631098,Specialty Dunk,2,1,0,Tip Dunk Shot,DUNKS,,2025
+Johnny Davis,1631098,Putback Layup,2,1,0,Tip Layup Shot,LAYUPS,,2025
+Johnny Davis,1631098,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2025
+Johnny Davis,1631098,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2025
+Johnny Davis,1631098,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2025

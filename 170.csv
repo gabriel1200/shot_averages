@@ -1,15 +1,19 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-170,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,1997
-170,Jump Shot,2PT Field Goal,20,7,Jump Shot,JUMP_SHOTS,0.35,1997
-170,Standard Layup,2PT Field Goal,5,2,Layup Shot,LAYUPS,0.4,1997
-170,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,1998
-170,Jump Shot,2PT Field Goal,8,3,Jump Shot,JUMP_SHOTS,0.375,1998
-170,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,1998
-170,Tip Shot,2PT Field Goal,2,1,Tip Shot,TIP_SHOTS,0.5,1998
-170,Hook Shot,2PT Field Goal,4,2,Hook Shot,POST_MOVES,0.5,1999
-170,Jump Shot,2PT Field Goal,45,20,Jump Shot,JUMP_SHOTS,0.4444444444444444,1999
-170,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,1999
-170,Standard Layup,2PT Field Goal,6,2,Layup Shot,LAYUPS,0.3333333333333333,1999
-170,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,1999
-170,Jump Shot,2PT Field Goal,8,2,Jump Shot,JUMP_SHOTS,0.25,2000
-170,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2000
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Joe Kleine,170,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,1997
+Joe Kleine,170,Hook Shot,2,10,7,Hook Shot,POST_MOVES,,1997
+Joe Kleine,170,Jump Shot,2,106,35,Jump Shot,JUMP_SHOTS,,1997
+Joe Kleine,170,Jump Shot,3,2,1,Jump Shot,JUMP_SHOTS,,1997
+Joe Kleine,170,Standard Layup,2,46,23,Layup Shot,LAYUPS,,1997
+Joe Kleine,170,Tip Shot,2,4,1,Tip Shot,TIP_SHOTS,,1997
+Joe Kleine,170,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,1998
+Joe Kleine,170,Hook Shot,2,14,4,Hook Shot,POST_MOVES,,1998
+Joe Kleine,170,Jump Shot,2,79,29,Jump Shot,JUMP_SHOTS,,1998
+Joe Kleine,170,Standard Layup,2,6,2,Layup Shot,LAYUPS,,1998
+Joe Kleine,170,Tip Shot,2,6,3,Tip Shot,TIP_SHOTS,,1998
+Joe Kleine,170,Hook Shot,2,5,3,Hook Shot,POST_MOVES,,1999
+Joe Kleine,170,Jump Shot,2,56,23,Jump Shot,JUMP_SHOTS,,1999
+Joe Kleine,170,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,1999
+Joe Kleine,170,Standard Layup,2,8,3,Layup Shot,LAYUPS,,1999
+Joe Kleine,170,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,,1999
+Joe Kleine,170,Jump Shot,2,10,3,Jump Shot,JUMP_SHOTS,,2000
+Joe Kleine,170,Standard Layup,2,1,1,Layup Shot,LAYUPS,,2000

@@ -1,35 +1,152 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1627789,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2019
-1627789,Jump Shot,3PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,2019
-1627789,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2019
-1627789,Finger Roll,2PT Field Goal,1,0,Driving Finger Roll Layup Shot,LAYUPS,0.0,2020
-1627789,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2020
-1627789,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2020
-1627789,Jump Shot,3PT Field Goal,7,3,Jump Shot,JUMP_SHOTS,0.6428571428571429,2020
-1627789,Running Jump Shot,3PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.5,2020
-1627789,Putback Layup,2PT Field Goal,1,1,Tip Layup Shot,LAYUPS,1.0,2020
-1627789,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,1.0,2020
-1627789,Standard Layup,2PT Field Goal,2,2,Cutting Layup Shot,LAYUPS,1.0,2021
-1627789,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2021
-1627789,Driving Layup,2PT Field Goal,3,3,Driving Layup Shot,LAYUPS,1.0,2021
-1627789,Fadeaway Jump Shot,2PT Field Goal,2,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2021
-1627789,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2021
-1627789,Jump Shot,3PT Field Goal,38,15,Jump Shot,JUMP_SHOTS,0.5921052631578947,2021
-1627789,Standard Layup,2PT Field Goal,2,0,Layup Shot,LAYUPS,0.0,2021
-1627789,Pullup Jump Shot,3PT Field Goal,3,0,Pullup Jump shot,JUMP_SHOTS,0.0,2021
-1627789,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2021
-1627789,Standard Dunk,2PT Field Goal,2,1,Running Dunk Shot,DUNKS,0.5,2021
-1627789,Running Jump Shot,3PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.5,2021
-1627789,Standard Layup,2PT Field Goal,5,4,Running Layup Shot,LAYUPS,0.8,2021
-1627789,Reverse Layup,2PT Field Goal,1,1,Running Reverse Layup Shot,LAYUPS,1.0,2021
-1627789,Putback Layup,2PT Field Goal,1,0,Tip Layup Shot,LAYUPS,0.0,2021
-1627789,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2021
-1627789,Standard Layup,2PT Field Goal,2,1,Cutting Layup Shot,LAYUPS,0.5,2022
-1627789,Jump Shot,3PT Field Goal,28,11,Jump Shot,JUMP_SHOTS,0.5892857142857143,2022
-1627789,Pullup Jump Shot,2PT Field Goal,5,1,Pullup Jump shot,JUMP_SHOTS,0.2,2022
-1627789,Pullup Jump Shot,3PT Field Goal,2,1,Pullup Jump shot,JUMP_SHOTS,0.75,2022
-1627789,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2022
-1627789,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2022
-1627789,Running Jump Shot,3PT Field Goal,2,0,Running Jump Shot,JUMP_SHOTS,0.0,2022
-1627789,Standard Layup,2PT Field Goal,2,1,Running Layup Shot,LAYUPS,0.5,2022
-1627789,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2022
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Timothe Luwawu-Cabarrot,1627789,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2017
+Timothe Luwawu-Cabarrot,1627789,Specialty Dunk,2,3,3,Cutting Dunk Shot,DUNKS,,2017
+Timothe Luwawu-Cabarrot,1627789,Standard Layup,2,11,9,Cutting Layup Shot,LAYUPS,,2017
+Timothe Luwawu-Cabarrot,1627789,Driving Jump Shot,2,4,3,Driving Bank shot,JUMP_SHOTS,,2017
+Timothe Luwawu-Cabarrot,1627789,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2017
+Timothe Luwawu-Cabarrot,1627789,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Timothe Luwawu-Cabarrot,1627789,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2017
+Timothe Luwawu-Cabarrot,1627789,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Timothe Luwawu-Cabarrot,1627789,Driving Layup,2,45,28,Driving Layup Shot,LAYUPS,,2017
+Timothe Luwawu-Cabarrot,1627789,Driving Layup,2,7,6,Driving Reverse Layup Shot,LAYUPS,,2017
+Timothe Luwawu-Cabarrot,1627789,Standard Dunk,2,3,0,Dunk Shot,DUNKS,,2017
+Timothe Luwawu-Cabarrot,1627789,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Timothe Luwawu-Cabarrot,1627789,Jump Shot,2,3,2,Jump Bank Shot,JUMP_SHOTS,,2017
+Timothe Luwawu-Cabarrot,1627789,Jump Shot,2,157,38,Jump Shot,JUMP_SHOTS,,2017
+Timothe Luwawu-Cabarrot,1627789,Jump Shot,3,24,10,Jump Shot,JUMP_SHOTS,,2017
+Timothe Luwawu-Cabarrot,1627789,Standard Layup,2,50,16,Layup Shot,LAYUPS,,2017
+Timothe Luwawu-Cabarrot,1627789,Pullup Jump Shot,2,8,3,Pullup Jump shot,JUMP_SHOTS,,2017
+Timothe Luwawu-Cabarrot,1627789,Reverse Layup,2,7,5,Reverse Layup Shot,LAYUPS,,2017
+Timothe Luwawu-Cabarrot,1627789,Finger Roll,2,2,2,Running Finger Roll Layup Shot,LAYUPS,,2017
+Timothe Luwawu-Cabarrot,1627789,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2017
+Timothe Luwawu-Cabarrot,1627789,Standard Layup,2,14,13,Running Layup Shot,LAYUPS,,2017
+Timothe Luwawu-Cabarrot,1627789,Running Jump Shot,2,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2017
+Timothe Luwawu-Cabarrot,1627789,Step Back Jump Shot,2,4,1,Step Back Jump shot,JUMP_SHOTS,,2017
+Timothe Luwawu-Cabarrot,1627789,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2017
+Timothe Luwawu-Cabarrot,1627789,Turnaround Jump Shot,2,1,0,Turnaround Bank shot,JUMP_SHOTS,,2017
+Timothe Luwawu-Cabarrot,1627789,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2017
+Timothe Luwawu-Cabarrot,1627789,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Timothe Luwawu-Cabarrot,1627789,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2018
+Timothe Luwawu-Cabarrot,1627789,Standard Layup,2,8,6,Cutting Layup Shot,LAYUPS,,2018
+Timothe Luwawu-Cabarrot,1627789,Driving Dunk,2,1,0,Driving Dunk Shot,DUNKS,,2018
+Timothe Luwawu-Cabarrot,1627789,Finger Roll,2,4,2,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Timothe Luwawu-Cabarrot,1627789,Floating Jump Shot,2,2,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Timothe Luwawu-Cabarrot,1627789,Driving Layup,2,34,12,Driving Layup Shot,LAYUPS,,2018
+Timothe Luwawu-Cabarrot,1627789,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2018
+Timothe Luwawu-Cabarrot,1627789,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2018
+Timothe Luwawu-Cabarrot,1627789,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+Timothe Luwawu-Cabarrot,1627789,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2018
+Timothe Luwawu-Cabarrot,1627789,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2018
+Timothe Luwawu-Cabarrot,1627789,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2018
+Timothe Luwawu-Cabarrot,1627789,Jump Shot,2,132,39,Jump Shot,JUMP_SHOTS,,2018
+Timothe Luwawu-Cabarrot,1627789,Jump Shot,3,28,10,Jump Shot,JUMP_SHOTS,,2018
+Timothe Luwawu-Cabarrot,1627789,Standard Layup,2,22,9,Layup Shot,LAYUPS,,2018
+Timothe Luwawu-Cabarrot,1627789,Pullup Jump Shot,2,6,5,Pullup Jump shot,JUMP_SHOTS,,2018
+Timothe Luwawu-Cabarrot,1627789,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2018
+Timothe Luwawu-Cabarrot,1627789,Reverse Layup,2,9,5,Reverse Layup Shot,LAYUPS,,2018
+Timothe Luwawu-Cabarrot,1627789,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2018
+Timothe Luwawu-Cabarrot,1627789,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2018
+Timothe Luwawu-Cabarrot,1627789,Standard Layup,2,5,4,Running Layup Shot,LAYUPS,,2018
+Timothe Luwawu-Cabarrot,1627789,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2018
+Timothe Luwawu-Cabarrot,1627789,Putback Layup,2,1,0,Tip Layup Shot,LAYUPS,,2018
+Timothe Luwawu-Cabarrot,1627789,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2018
+Timothe Luwawu-Cabarrot,1627789,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2019
+Timothe Luwawu-Cabarrot,1627789,Standard Layup,2,6,4,Cutting Layup Shot,LAYUPS,,2019
+Timothe Luwawu-Cabarrot,1627789,Driving Dunk,2,3,1,Driving Dunk Shot,DUNKS,,2019
+Timothe Luwawu-Cabarrot,1627789,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Timothe Luwawu-Cabarrot,1627789,Driving Layup,2,31,14,Driving Layup Shot,LAYUPS,,2019
+Timothe Luwawu-Cabarrot,1627789,Driving Layup,2,5,4,Driving Reverse Layup Shot,LAYUPS,,2019
+Timothe Luwawu-Cabarrot,1627789,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,2019
+Timothe Luwawu-Cabarrot,1627789,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+Timothe Luwawu-Cabarrot,1627789,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2019
+Timothe Luwawu-Cabarrot,1627789,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2019
+Timothe Luwawu-Cabarrot,1627789,Jump Shot,2,99,33,Jump Shot,JUMP_SHOTS,,2019
+Timothe Luwawu-Cabarrot,1627789,Jump Shot,3,22,2,Jump Shot,JUMP_SHOTS,,2019
+Timothe Luwawu-Cabarrot,1627789,Standard Layup,2,9,2,Layup Shot,LAYUPS,,2019
+Timothe Luwawu-Cabarrot,1627789,Pullup Jump Shot,2,12,4,Pullup Jump shot,JUMP_SHOTS,,2019
+Timothe Luwawu-Cabarrot,1627789,Pullup Jump Shot,3,2,1,Pullup Jump shot,JUMP_SHOTS,,2019
+Timothe Luwawu-Cabarrot,1627789,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2019
+Timothe Luwawu-Cabarrot,1627789,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2019
+Timothe Luwawu-Cabarrot,1627789,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2019
+Timothe Luwawu-Cabarrot,1627789,Running Jump Shot,3,1,1,Running Jump Shot,JUMP_SHOTS,,2019
+Timothe Luwawu-Cabarrot,1627789,Standard Layup,2,6,4,Running Layup Shot,LAYUPS,,2019
+Timothe Luwawu-Cabarrot,1627789,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2019
+Timothe Luwawu-Cabarrot,1627789,Putback Layup,2,1,0,Tip Layup Shot,LAYUPS,,2019
+Timothe Luwawu-Cabarrot,1627789,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2019
+Timothe Luwawu-Cabarrot,1627789,Turnaround Jump Shot,2,3,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2019
+Timothe Luwawu-Cabarrot,1627789,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2020
+Timothe Luwawu-Cabarrot,1627789,Finger Roll,2,2,1,Cutting Finger Roll Layup Shot,LAYUPS,,2020
+Timothe Luwawu-Cabarrot,1627789,Standard Layup,2,12,8,Cutting Layup Shot,LAYUPS,,2020
+Timothe Luwawu-Cabarrot,1627789,Finger Roll,2,10,4,Driving Finger Roll Layup Shot,LAYUPS,,2020
+Timothe Luwawu-Cabarrot,1627789,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Timothe Luwawu-Cabarrot,1627789,Driving Layup,2,30,11,Driving Layup Shot,LAYUPS,,2020
+Timothe Luwawu-Cabarrot,1627789,Driving Layup,2,5,3,Driving Reverse Layup Shot,LAYUPS,,2020
+Timothe Luwawu-Cabarrot,1627789,Fadeaway Jump Shot,2,3,1,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+Timothe Luwawu-Cabarrot,1627789,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2020
+Timothe Luwawu-Cabarrot,1627789,Jump Shot,2,97,31,Jump Shot,JUMP_SHOTS,,2020
+Timothe Luwawu-Cabarrot,1627789,Jump Shot,3,51,25,Jump Shot,JUMP_SHOTS,,2020
+Timothe Luwawu-Cabarrot,1627789,Standard Layup,2,5,2,Layup Shot,LAYUPS,,2020
+Timothe Luwawu-Cabarrot,1627789,Pullup Jump Shot,2,10,5,Pullup Jump shot,JUMP_SHOTS,,2020
+Timothe Luwawu-Cabarrot,1627789,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2020
+Timothe Luwawu-Cabarrot,1627789,Putback Layup,2,3,3,Putback Layup Shot,LAYUPS,,2020
+Timothe Luwawu-Cabarrot,1627789,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2020
+Timothe Luwawu-Cabarrot,1627789,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2020
+Timothe Luwawu-Cabarrot,1627789,Finger Roll,2,2,1,Running Finger Roll Layup Shot,LAYUPS,,2020
+Timothe Luwawu-Cabarrot,1627789,Running Jump Shot,2,7,4,Running Jump Shot,JUMP_SHOTS,,2020
+Timothe Luwawu-Cabarrot,1627789,Running Jump Shot,3,2,1,Running Jump Shot,JUMP_SHOTS,,2020
+Timothe Luwawu-Cabarrot,1627789,Standard Layup,2,12,8,Running Layup Shot,LAYUPS,,2020
+Timothe Luwawu-Cabarrot,1627789,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2020
+Timothe Luwawu-Cabarrot,1627789,Step Back Jump Shot,2,4,0,Step Back Jump shot,JUMP_SHOTS,,2020
+Timothe Luwawu-Cabarrot,1627789,Putback Layup,2,3,2,Tip Layup Shot,LAYUPS,,2020
+Timothe Luwawu-Cabarrot,1627789,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2020
+Timothe Luwawu-Cabarrot,1627789,Specialty Dunk,2,1,0,Cutting Dunk Shot,DUNKS,,2021
+Timothe Luwawu-Cabarrot,1627789,Standard Layup,2,12,8,Cutting Layup Shot,LAYUPS,,2021
+Timothe Luwawu-Cabarrot,1627789,Finger Roll,2,4,2,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Timothe Luwawu-Cabarrot,1627789,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2021
+Timothe Luwawu-Cabarrot,1627789,Driving Layup,2,28,13,Driving Layup Shot,LAYUPS,,2021
+Timothe Luwawu-Cabarrot,1627789,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2021
+Timothe Luwawu-Cabarrot,1627789,Fadeaway Jump Shot,2,5,1,Fadeaway Jump Shot,JUMP_SHOTS,,2021
+Timothe Luwawu-Cabarrot,1627789,Jump Shot,2,33,15,Jump Shot,JUMP_SHOTS,,2021
+Timothe Luwawu-Cabarrot,1627789,Jump Shot,3,193,57,Jump Shot,JUMP_SHOTS,,2021
+Timothe Luwawu-Cabarrot,1627789,Standard Layup,2,10,5,Layup Shot,LAYUPS,,2021
+Timothe Luwawu-Cabarrot,1627789,Pullup Jump Shot,2,16,4,Pullup Jump shot,JUMP_SHOTS,,2021
+Timothe Luwawu-Cabarrot,1627789,Pullup Jump Shot,3,10,0,Pullup Jump shot,JUMP_SHOTS,,2021
+Timothe Luwawu-Cabarrot,1627789,Putback Layup,2,2,0,Putback Layup Shot,LAYUPS,,2021
+Timothe Luwawu-Cabarrot,1627789,Reverse Layup,2,8,5,Reverse Layup Shot,LAYUPS,,2021
+Timothe Luwawu-Cabarrot,1627789,Standard Dunk,2,4,3,Running Dunk Shot,DUNKS,,2021
+Timothe Luwawu-Cabarrot,1627789,Finger Roll,2,2,2,Running Finger Roll Layup Shot,LAYUPS,,2021
+Timothe Luwawu-Cabarrot,1627789,Running Jump Shot,3,5,3,Running Jump Shot,JUMP_SHOTS,,2021
+Timothe Luwawu-Cabarrot,1627789,Standard Layup,2,11,8,Running Layup Shot,LAYUPS,,2021
+Timothe Luwawu-Cabarrot,1627789,Running Jump Shot,3,2,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2021
+Timothe Luwawu-Cabarrot,1627789,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2021
+Timothe Luwawu-Cabarrot,1627789,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2021
+Timothe Luwawu-Cabarrot,1627789,Step Back Jump Shot,3,2,1,Step Back Jump shot,JUMP_SHOTS,,2021
+Timothe Luwawu-Cabarrot,1627789,Putback Layup,2,1,0,Tip Layup Shot,LAYUPS,,2021
+Timothe Luwawu-Cabarrot,1627789,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2021
+Timothe Luwawu-Cabarrot,1627789,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2021
+Timothe Luwawu-Cabarrot,1627789,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2022
+Timothe Luwawu-Cabarrot,1627789,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2022
+Timothe Luwawu-Cabarrot,1627789,Specialty Dunk,2,3,3,Cutting Dunk Shot,DUNKS,,2022
+Timothe Luwawu-Cabarrot,1627789,Standard Layup,2,5,4,Cutting Layup Shot,LAYUPS,,2022
+Timothe Luwawu-Cabarrot,1627789,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Timothe Luwawu-Cabarrot,1627789,Driving Layup,2,16,1,Driving Layup Shot,LAYUPS,,2022
+Timothe Luwawu-Cabarrot,1627789,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2022
+Timothe Luwawu-Cabarrot,1627789,Fadeaway Jump Shot,3,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Timothe Luwawu-Cabarrot,1627789,Jump Shot,2,47,18,Jump Shot,JUMP_SHOTS,,2022
+Timothe Luwawu-Cabarrot,1627789,Jump Shot,3,62,21,Jump Shot,JUMP_SHOTS,,2022
+Timothe Luwawu-Cabarrot,1627789,Standard Layup,2,3,0,Layup Shot,LAYUPS,,2022
+Timothe Luwawu-Cabarrot,1627789,Pullup Jump Shot,2,10,4,Pullup Jump shot,JUMP_SHOTS,,2022
+Timothe Luwawu-Cabarrot,1627789,Pullup Jump Shot,3,3,2,Pullup Jump shot,JUMP_SHOTS,,2022
+Timothe Luwawu-Cabarrot,1627789,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2022
+Timothe Luwawu-Cabarrot,1627789,Reverse Layup,2,5,2,Reverse Layup Shot,LAYUPS,,2022
+Timothe Luwawu-Cabarrot,1627789,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2022
+Timothe Luwawu-Cabarrot,1627789,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2022
+Timothe Luwawu-Cabarrot,1627789,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2022
+Timothe Luwawu-Cabarrot,1627789,Running Jump Shot,3,4,0,Running Jump Shot,JUMP_SHOTS,,2022
+Timothe Luwawu-Cabarrot,1627789,Standard Layup,2,8,6,Running Layup Shot,LAYUPS,,2022
+Timothe Luwawu-Cabarrot,1627789,Running Jump Shot,3,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
+Timothe Luwawu-Cabarrot,1627789,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2022
+Timothe Luwawu-Cabarrot,1627789,Step Back Jump Shot,2,2,0,Step Back Jump shot,JUMP_SHOTS,,2022
+Timothe Luwawu-Cabarrot,1627789,Putback Layup,2,2,0,Tip Layup Shot,LAYUPS,,2022
+Timothe Luwawu-Cabarrot,1627789,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2022
+Timothe Luwawu-Cabarrot,1627789,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2022

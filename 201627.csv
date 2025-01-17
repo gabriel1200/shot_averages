@@ -1,36 +1,187 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-201627,Jump Shot,3PT Field Goal,4,3,Jump Shot,JUMP_SHOTS,1.125,2011
-201627,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2011
-201627,Jump Shot,2PT Field Goal,7,2,Jump Shot,JUMP_SHOTS,0.2857142857142857,2012
-201627,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,2012
-201627,Turnaround Jump Shot,2PT Field Goal,2,1,Turnaround Jump Shot,JUMP_SHOTS,0.5,2012
-201627,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2013
-201627,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2013
-201627,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2013
-201627,Running Jump Shot,2PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.5,2013
-201627,Driving Jump Shot,2PT Field Goal,2,1,Driving Jump shot,JUMP_SHOTS,0.5,2014
-201627,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2014
-201627,Floating Jump Shot,2PT Field Goal,4,4,Floating Jump shot,FLOATING_SHOTS,1.0,2014
-201627,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2014
-201627,Hook Shot,2PT Field Goal,2,2,Jump Hook Shot,POST_MOVES,1.0,2014
-201627,Jump Shot,2PT Field Goal,82,29,Jump Shot,JUMP_SHOTS,0.3536585365853658,2014
-201627,Jump Shot,3PT Field Goal,60,25,Jump Shot,JUMP_SHOTS,0.625,2014
-201627,Standard Layup,2PT Field Goal,11,4,Layup Shot,LAYUPS,0.3636363636363636,2014
-201627,Pullup Jump Shot,2PT Field Goal,2,0,Pullup Jump shot,JUMP_SHOTS,0.0,2014
-201627,Putback Layup,2PT Field Goal,2,2,Putback Layup Shot,LAYUPS,1.0,2014
-201627,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2014
-201627,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2014
-201627,Turnaround Jump Shot,2PT Field Goal,5,3,Turnaround Jump Shot,JUMP_SHOTS,0.6,2014
-201627,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2015
-201627,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2015
-201627,Jump Shot,2PT Field Goal,17,12,Jump Shot,JUMP_SHOTS,0.7058823529411765,2015
-201627,Jump Shot,3PT Field Goal,22,11,Jump Shot,JUMP_SHOTS,0.75,2015
-201627,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2015
-201627,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2015
-201627,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2015
-201627,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2017
-201627,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2017
-201627,Jump Shot,2PT Field Goal,4,2,Jump Shot,JUMP_SHOTS,0.5,2017
-201627,Jump Shot,3PT Field Goal,7,4,Jump Shot,JUMP_SHOTS,0.8571428571428571,2017
-201627,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2017
-201627,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2017
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Anthony Morrow,201627,Finger Roll,2,4,2,Driving Finger Roll Layup Shot,LAYUPS,,2009
+Anthony Morrow,201627,Driving Layup,2,14,12,Driving Layup Shot,LAYUPS,,2009
+Anthony Morrow,201627,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2009
+Anthony Morrow,201627,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2009
+Anthony Morrow,201627,Fadeaway Jump Shot,2,9,6,Fadeaway Jump Shot,JUMP_SHOTS,,2009
+Anthony Morrow,201627,Floating Jump Shot,2,3,2,Floating Jump shot,FLOATING_SHOTS,,2009
+Anthony Morrow,201627,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2009
+Anthony Morrow,201627,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2009
+Anthony Morrow,201627,Jump Shot,2,369,146,Jump Shot,JUMP_SHOTS,,2009
+Anthony Morrow,201627,Standard Layup,2,34,16,Layup Shot,LAYUPS,,2009
+Anthony Morrow,201627,Pullup Jump Shot,2,44,36,Pullup Jump shot,JUMP_SHOTS,,2009
+Anthony Morrow,201627,Putback Layup,2,4,2,Putback Layup Shot,LAYUPS,,2009
+Anthony Morrow,201627,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2009
+Anthony Morrow,201627,Running Jump Shot,2,2,2,Running Bank shot,JUMP_SHOTS,,2009
+Anthony Morrow,201627,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2009
+Anthony Morrow,201627,Running Jump Shot,2,10,7,Running Jump Shot,JUMP_SHOTS,,2009
+Anthony Morrow,201627,Step Back Jump Shot,2,7,7,Step Back Jump shot,JUMP_SHOTS,,2009
+Anthony Morrow,201627,Tip Shot,2,15,6,Tip Shot,TIP_SHOTS,,2009
+Anthony Morrow,201627,Turnaround Jump Shot,2,6,3,Turnaround Fadeaway shot,JUMP_SHOTS,,2009
+Anthony Morrow,201627,Turnaround Jump Shot,2,5,3,Turnaround Jump Shot,JUMP_SHOTS,,2009
+Anthony Morrow,201627,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2010
+Anthony Morrow,201627,Finger Roll,2,8,8,Driving Finger Roll Layup Shot,LAYUPS,,2010
+Anthony Morrow,201627,Driving Hook Shot,2,2,2,Driving Hook Shot,POST_MOVES,,2010
+Anthony Morrow,201627,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2010
+Anthony Morrow,201627,Driving Layup,2,18,12,Driving Layup Shot,LAYUPS,,2010
+Anthony Morrow,201627,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2010
+Anthony Morrow,201627,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,2010
+Anthony Morrow,201627,Fadeaway Jump Shot,2,13,11,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+Anthony Morrow,201627,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2010
+Anthony Morrow,201627,Floating Jump Shot,2,23,14,Floating Jump shot,FLOATING_SHOTS,,2010
+Anthony Morrow,201627,Hook Shot,2,3,1,Hook Shot,POST_MOVES,,2010
+Anthony Morrow,201627,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2010
+Anthony Morrow,201627,Hook Shot,2,3,2,Jump Hook Shot,POST_MOVES,,2010
+Anthony Morrow,201627,Jump Shot,2,413,142,Jump Shot,JUMP_SHOTS,,2010
+Anthony Morrow,201627,Standard Layup,2,45,16,Layup Shot,LAYUPS,,2010
+Anthony Morrow,201627,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2010
+Anthony Morrow,201627,Pullup Jump Shot,2,83,58,Pullup Jump shot,JUMP_SHOTS,,2010
+Anthony Morrow,201627,Putback Layup,2,3,2,Putback Layup Shot,LAYUPS,,2010
+Anthony Morrow,201627,Reverse Layup,2,6,2,Reverse Layup Shot,LAYUPS,,2010
+Anthony Morrow,201627,Finger Roll,2,1,0,Running Finger Roll Layup Shot,LAYUPS,,2010
+Anthony Morrow,201627,Running Jump Shot,2,23,13,Running Jump Shot,JUMP_SHOTS,,2010
+Anthony Morrow,201627,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2010
+Anthony Morrow,201627,Step Back Jump Shot,2,20,17,Step Back Jump shot,JUMP_SHOTS,,2010
+Anthony Morrow,201627,Tip Shot,2,9,5,Tip Shot,TIP_SHOTS,,2010
+Anthony Morrow,201627,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2010
+Anthony Morrow,201627,Turnaround Jump Shot,2,5,4,Turnaround Fadeaway shot,JUMP_SHOTS,,2010
+Anthony Morrow,201627,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2010
+Anthony Morrow,201627,Turnaround Jump Shot,2,13,11,Turnaround Jump Shot,JUMP_SHOTS,,2010
+Anthony Morrow,201627,Finger Roll,2,2,0,Driving Finger Roll Layup Shot,LAYUPS,,2011
+Anthony Morrow,201627,Driving Jump Shot,2,6,2,Driving Jump shot,JUMP_SHOTS,,2011
+Anthony Morrow,201627,Driving Layup,2,19,9,Driving Layup Shot,LAYUPS,,2011
+Anthony Morrow,201627,Driving Layup,2,3,1,Driving Reverse Layup Shot,LAYUPS,,2011
+Anthony Morrow,201627,Fadeaway Jump Shot,2,4,1,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Anthony Morrow,201627,Floating Jump Shot,2,20,8,Floating Jump shot,FLOATING_SHOTS,,2011
+Anthony Morrow,201627,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2011
+Anthony Morrow,201627,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2011
+Anthony Morrow,201627,Jump Shot,2,484,213,Jump Shot,JUMP_SHOTS,,2011
+Anthony Morrow,201627,Jump Shot,3,5,4,Jump Shot,JUMP_SHOTS,,2011
+Anthony Morrow,201627,Standard Layup,2,23,12,Layup Shot,LAYUPS,,2011
+Anthony Morrow,201627,Pullup Jump Shot,2,8,5,Pullup Jump shot,JUMP_SHOTS,,2011
+Anthony Morrow,201627,Reverse Layup,2,6,3,Reverse Layup Shot,LAYUPS,,2011
+Anthony Morrow,201627,Running Jump Shot,2,2,1,Running Bank shot,JUMP_SHOTS,,2011
+Anthony Morrow,201627,Running Jump Shot,2,23,11,Running Jump Shot,JUMP_SHOTS,,2011
+Anthony Morrow,201627,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2011
+Anthony Morrow,201627,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,,2011
+Anthony Morrow,201627,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2011
+Anthony Morrow,201627,Turnaround Jump Shot,2,6,5,Turnaround Jump Shot,JUMP_SHOTS,,2011
+Anthony Morrow,201627,Driving Jump Shot,2,2,0,Driving Jump shot,JUMP_SHOTS,,2012
+Anthony Morrow,201627,Driving Layup,2,6,3,Driving Layup Shot,LAYUPS,,2012
+Anthony Morrow,201627,Driving Layup,2,5,4,Driving Reverse Layup Shot,LAYUPS,,2012
+Anthony Morrow,201627,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2012
+Anthony Morrow,201627,Fadeaway Jump Shot,2,7,1,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Anthony Morrow,201627,Floating Jump Shot,2,13,7,Floating Jump shot,FLOATING_SHOTS,,2012
+Anthony Morrow,201627,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2012
+Anthony Morrow,201627,Hook Shot,2,2,1,Jump Hook Shot,POST_MOVES,,2012
+Anthony Morrow,201627,Jump Shot,2,542,215,Jump Shot,JUMP_SHOTS,,2012
+Anthony Morrow,201627,Jump Shot,3,6,2,Jump Shot,JUMP_SHOTS,,2012
+Anthony Morrow,201627,Standard Layup,2,15,8,Layup Shot,LAYUPS,,2012
+Anthony Morrow,201627,Pullup Jump Shot,2,2,2,Pullup Jump shot,JUMP_SHOTS,,2012
+Anthony Morrow,201627,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2012
+Anthony Morrow,201627,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2012
+Anthony Morrow,201627,Running Jump Shot,2,13,5,Running Jump Shot,JUMP_SHOTS,,2012
+Anthony Morrow,201627,Step Back Jump Shot,2,2,2,Step Back Jump shot,JUMP_SHOTS,,2012
+Anthony Morrow,201627,Tip Shot,2,8,3,Tip Shot,TIP_SHOTS,,2012
+Anthony Morrow,201627,Turnaround Jump Shot,2,6,3,Turnaround Fadeaway shot,JUMP_SHOTS,,2012
+Anthony Morrow,201627,Turnaround Jump Shot,2,24,11,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Anthony Morrow,201627,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2013
+Anthony Morrow,201627,Driving Jump Shot,2,9,6,Driving Jump shot,JUMP_SHOTS,,2013
+Anthony Morrow,201627,Driving Layup,2,5,3,Driving Layup Shot,LAYUPS,,2013
+Anthony Morrow,201627,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2013
+Anthony Morrow,201627,Floating Jump Shot,2,5,3,Floating Jump shot,FLOATING_SHOTS,,2013
+Anthony Morrow,201627,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2013
+Anthony Morrow,201627,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2013
+Anthony Morrow,201627,Jump Shot,2,88,36,Jump Shot,JUMP_SHOTS,,2013
+Anthony Morrow,201627,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,2013
+Anthony Morrow,201627,Standard Layup,2,7,5,Layup Shot,LAYUPS,,2013
+Anthony Morrow,201627,Pullup Jump Shot,2,4,2,Pullup Jump shot,JUMP_SHOTS,,2013
+Anthony Morrow,201627,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2013
+Anthony Morrow,201627,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2013
+Anthony Morrow,201627,Running Jump Shot,2,10,4,Running Jump Shot,JUMP_SHOTS,,2013
+Anthony Morrow,201627,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2013
+Anthony Morrow,201627,Turnaround Jump Shot,2,7,1,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Anthony Morrow,201627,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2014
+Anthony Morrow,201627,Driving Jump Shot,2,2,1,Driving Jump shot,JUMP_SHOTS,,2014
+Anthony Morrow,201627,Driving Layup,2,7,7,Driving Layup Shot,LAYUPS,,2014
+Anthony Morrow,201627,Fadeaway Jump Shot,2,1,0,Fadeaway Bank shot,JUMP_SHOTS,,2014
+Anthony Morrow,201627,Fadeaway Jump Shot,2,5,4,Fadeaway Jump Shot,JUMP_SHOTS,,2014
+Anthony Morrow,201627,Floating Jump Shot,2,21,18,Floating Jump shot,FLOATING_SHOTS,,2014
+Anthony Morrow,201627,Jump Shot,2,4,3,Jump Bank Shot,JUMP_SHOTS,,2014
+Anthony Morrow,201627,Hook Shot,2,2,2,Jump Hook Shot,POST_MOVES,,2014
+Anthony Morrow,201627,Jump Shot,2,313,120,Jump Shot,JUMP_SHOTS,,2014
+Anthony Morrow,201627,Jump Shot,3,87,38,Jump Shot,JUMP_SHOTS,,2014
+Anthony Morrow,201627,Standard Layup,2,31,14,Layup Shot,LAYUPS,,2014
+Anthony Morrow,201627,Pullup Jump Shot,2,18,12,Pullup Jump shot,JUMP_SHOTS,,2014
+Anthony Morrow,201627,Pullup Jump Shot,3,1,1,Pullup Jump shot,JUMP_SHOTS,,2014
+Anthony Morrow,201627,Putback Layup,2,3,3,Putback Layup Shot,LAYUPS,,2014
+Anthony Morrow,201627,Running Jump Shot,2,1,0,Running Bank shot,JUMP_SHOTS,,2014
+Anthony Morrow,201627,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2014
+Anthony Morrow,201627,Running Jump Shot,2,9,6,Running Jump Shot,JUMP_SHOTS,,2014
+Anthony Morrow,201627,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2014
+Anthony Morrow,201627,Turnaround Jump Shot,2,11,7,Turnaround Jump Shot,JUMP_SHOTS,,2014
+Anthony Morrow,201627,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2015
+Anthony Morrow,201627,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2015
+Anthony Morrow,201627,Finger Roll,2,3,3,Driving Finger Roll Layup Shot,LAYUPS,,2015
+Anthony Morrow,201627,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2015
+Anthony Morrow,201627,Driving Jump Shot,2,3,1,Driving Jump shot,JUMP_SHOTS,,2015
+Anthony Morrow,201627,Driving Layup,2,8,5,Driving Layup Shot,LAYUPS,,2015
+Anthony Morrow,201627,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2015
+Anthony Morrow,201627,Fadeaway Jump Shot,2,4,2,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+Anthony Morrow,201627,Floating Jump Shot,2,23,12,Floating Jump shot,FLOATING_SHOTS,,2015
+Anthony Morrow,201627,Hook Shot,2,3,1,Hook Shot,POST_MOVES,,2015
+Anthony Morrow,201627,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2015
+Anthony Morrow,201627,Jump Shot,2,403,171,Jump Shot,JUMP_SHOTS,,2015
+Anthony Morrow,201627,Jump Shot,3,62,28,Jump Shot,JUMP_SHOTS,,2015
+Anthony Morrow,201627,Standard Layup,2,24,15,Layup Shot,LAYUPS,,2015
+Anthony Morrow,201627,Pullup Jump Shot,2,28,18,Pullup Jump shot,JUMP_SHOTS,,2015
+Anthony Morrow,201627,Pullup Jump Shot,3,2,0,Pullup Jump shot,JUMP_SHOTS,,2015
+Anthony Morrow,201627,Putback Layup,2,4,2,Putback Layup Shot,LAYUPS,,2015
+Anthony Morrow,201627,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2015
+Anthony Morrow,201627,Running Jump Shot,2,3,1,Running Bank shot,JUMP_SHOTS,,2015
+Anthony Morrow,201627,Running Jump Shot,2,17,7,Running Jump Shot,JUMP_SHOTS,,2015
+Anthony Morrow,201627,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2015
+Anthony Morrow,201627,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2015
+Anthony Morrow,201627,Tip Shot,2,6,4,Tip Shot,TIP_SHOTS,,2015
+Anthony Morrow,201627,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2015
+Anthony Morrow,201627,Turnaround Jump Shot,2,9,7,Turnaround Jump Shot,JUMP_SHOTS,,2015
+Anthony Morrow,201627,Standard Layup,2,2,2,Cutting Layup Shot,LAYUPS,,2016
+Anthony Morrow,201627,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2016
+Anthony Morrow,201627,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Anthony Morrow,201627,Floating Jump Shot,2,5,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Anthony Morrow,201627,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2016
+Anthony Morrow,201627,Driving Layup,2,5,3,Driving Layup Shot,LAYUPS,,2016
+Anthony Morrow,201627,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2016
+Anthony Morrow,201627,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Anthony Morrow,201627,Floating Jump Shot,2,16,8,Floating Jump shot,FLOATING_SHOTS,,2016
+Anthony Morrow,201627,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2016
+Anthony Morrow,201627,Jump Shot,2,252,98,Jump Shot,JUMP_SHOTS,,2016
+Anthony Morrow,201627,Standard Layup,2,8,3,Layup Shot,LAYUPS,,2016
+Anthony Morrow,201627,Pullup Jump Shot,2,1,0,Pullup Bank shot,JUMP_SHOTS,,2016
+Anthony Morrow,201627,Pullup Jump Shot,2,24,12,Pullup Jump shot,JUMP_SHOTS,,2016
+Anthony Morrow,201627,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2016
+Anthony Morrow,201627,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2016
+Anthony Morrow,201627,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2016
+Anthony Morrow,201627,Running Jump Shot,2,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2016
+Anthony Morrow,201627,Step Back Jump Shot,2,2,2,Step Back Jump shot,JUMP_SHOTS,,2016
+Anthony Morrow,201627,Putback Layup,2,1,0,Tip Layup Shot,LAYUPS,,2016
+Anthony Morrow,201627,Turnaround Jump Shot,2,4,2,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Anthony Morrow,201627,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2017
+Anthony Morrow,201627,Floating Jump Shot,2,12,6,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Anthony Morrow,201627,Driving Layup,2,4,2,Driving Layup Shot,LAYUPS,,2017
+Anthony Morrow,201627,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2017
+Anthony Morrow,201627,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Anthony Morrow,201627,Floating Jump Shot,2,9,6,Floating Jump shot,FLOATING_SHOTS,,2017
+Anthony Morrow,201627,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2017
+Anthony Morrow,201627,Jump Shot,2,156,49,Jump Shot,JUMP_SHOTS,,2017
+Anthony Morrow,201627,Jump Shot,3,20,11,Jump Shot,JUMP_SHOTS,,2017
+Anthony Morrow,201627,Standard Layup,2,5,3,Layup Shot,LAYUPS,,2017
+Anthony Morrow,201627,Pullup Jump Shot,2,2,1,Pullup Bank shot,JUMP_SHOTS,,2017
+Anthony Morrow,201627,Pullup Jump Shot,2,22,10,Pullup Jump shot,JUMP_SHOTS,,2017
+Anthony Morrow,201627,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2017
+Anthony Morrow,201627,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2017
+Anthony Morrow,201627,Standard Layup,2,4,2,Running Layup Shot,LAYUPS,,2017
+Anthony Morrow,201627,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2017
+Anthony Morrow,201627,Step Back Jump Shot,2,3,1,Step Back Jump shot,JUMP_SHOTS,,2017
+Anthony Morrow,201627,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2017
+Anthony Morrow,201627,Turnaround Jump Shot,2,4,0,Turnaround Jump Shot,JUMP_SHOTS,,2017

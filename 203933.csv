@@ -1,9 +1,253 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-203933,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Jump Shot,FLOATING_SHOTS,1.0,2024
-203933,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2024
-203933,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2024
-203933,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2024
-203933,Pullup Jump Shot,2PT Field Goal,2,2,Pullup Jump shot,JUMP_SHOTS,1.0,2024
-203933,Putback Layup,2PT Field Goal,1,0,Putback Layup Shot,LAYUPS,0.0,2024
-203933,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2024
-203933,Putback Layup,2PT Field Goal,1,1,Tip Layup Shot,LAYUPS,1.0,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+T.J. Warren,203933,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2015
+T.J. Warren,203933,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2015
+T.J. Warren,203933,Driving Jump Shot,2,4,0,Driving Jump shot,JUMP_SHOTS,,2015
+T.J. Warren,203933,Driving Layup,2,10,6,Driving Layup Shot,LAYUPS,,2015
+T.J. Warren,203933,Driving Layup,2,3,1,Driving Reverse Layup Shot,LAYUPS,,2015
+T.J. Warren,203933,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2015
+T.J. Warren,203933,Standard Dunk,2,7,7,Dunk Shot,DUNKS,,2015
+T.J. Warren,203933,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+T.J. Warren,203933,Floating Jump Shot,2,4,3,Floating Jump shot,FLOATING_SHOTS,,2015
+T.J. Warren,203933,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2015
+T.J. Warren,203933,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2015
+T.J. Warren,203933,Jump Shot,2,84,28,Jump Shot,JUMP_SHOTS,,2015
+T.J. Warren,203933,Standard Layup,2,41,26,Layup Shot,LAYUPS,,2015
+T.J. Warren,203933,Pullup Jump Shot,2,4,3,Pullup Jump shot,JUMP_SHOTS,,2015
+T.J. Warren,203933,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2015
+T.J. Warren,203933,Putback Layup,2,5,4,Putback Layup Shot,LAYUPS,,2015
+T.J. Warren,203933,Reverse Layup,2,12,10,Reverse Layup Shot,LAYUPS,,2015
+T.J. Warren,203933,Running Jump Shot,2,2,1,Running Bank shot,JUMP_SHOTS,,2015
+T.J. Warren,203933,Running Jump Shot,2,14,8,Running Jump Shot,JUMP_SHOTS,,2015
+T.J. Warren,203933,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2015
+T.J. Warren,203933,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2015
+T.J. Warren,203933,Step Back Jump Shot,2,2,0,Step Back Jump shot,JUMP_SHOTS,,2015
+T.J. Warren,203933,Tip Shot,2,10,6,Tip Shot,TIP_SHOTS,,2015
+T.J. Warren,203933,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2015
+T.J. Warren,203933,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2015
+T.J. Warren,203933,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2016
+T.J. Warren,203933,Specialty Dunk,2,4,4,Cutting Dunk Shot,DUNKS,,2016
+T.J. Warren,203933,Standard Layup,2,14,13,Cutting Layup Shot,LAYUPS,,2016
+T.J. Warren,203933,Driving Jump Shot,2,1,0,Driving Bank shot,JUMP_SHOTS,,2016
+T.J. Warren,203933,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2016
+T.J. Warren,203933,Floating Jump Shot,2,7,5,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+T.J. Warren,203933,Driving Layup,2,4,4,Driving Layup Shot,LAYUPS,,2016
+T.J. Warren,203933,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2016
+T.J. Warren,203933,Fadeaway Jump Shot,2,2,2,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+T.J. Warren,203933,Floating Jump Shot,2,42,22,Floating Jump shot,FLOATING_SHOTS,,2016
+T.J. Warren,203933,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2016
+T.J. Warren,203933,Jump Shot,2,6,4,Jump Bank Shot,JUMP_SHOTS,,2016
+T.J. Warren,203933,Jump Shot,2,202,72,Jump Shot,JUMP_SHOTS,,2016
+T.J. Warren,203933,Standard Layup,2,46,22,Layup Shot,LAYUPS,,2016
+T.J. Warren,203933,Pullup Jump Shot,2,34,19,Pullup Jump shot,JUMP_SHOTS,,2016
+T.J. Warren,203933,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2016
+T.J. Warren,203933,Putback Layup,2,7,5,Putback Layup Shot,LAYUPS,,2016
+T.J. Warren,203933,Reverse Layup,2,7,5,Reverse Layup Shot,LAYUPS,,2016
+T.J. Warren,203933,Standard Dunk,2,6,6,Running Dunk Shot,DUNKS,,2016
+T.J. Warren,203933,Running Jump Shot,2,10,6,Running Jump Shot,JUMP_SHOTS,,2016
+T.J. Warren,203933,Standard Layup,2,12,8,Running Layup Shot,LAYUPS,,2016
+T.J. Warren,203933,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2016
+T.J. Warren,203933,Step Back Jump Shot,2,6,1,Step Back Jump shot,JUMP_SHOTS,,2016
+T.J. Warren,203933,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2016
+T.J. Warren,203933,Putback Layup,2,13,6,Tip Layup Shot,LAYUPS,,2016
+T.J. Warren,203933,Turnaround Jump Shot,2,7,6,Turnaround Jump Shot,JUMP_SHOTS,,2016
+T.J. Warren,203933,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2017
+T.J. Warren,203933,Alley Oop Layup,2,3,3,Alley Oop Layup shot,LAYUPS,,2017
+T.J. Warren,203933,Specialty Dunk,2,5,5,Cutting Dunk Shot,DUNKS,,2017
+T.J. Warren,203933,Standard Layup,2,31,25,Cutting Layup Shot,LAYUPS,,2017
+T.J. Warren,203933,Driving Jump Shot,2,2,2,Driving Bank shot,JUMP_SHOTS,,2017
+T.J. Warren,203933,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2017
+T.J. Warren,203933,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2017
+T.J. Warren,203933,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2017
+T.J. Warren,203933,Floating Jump Shot,2,21,15,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+T.J. Warren,203933,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2017
+T.J. Warren,203933,Driving Layup,2,36,24,Driving Layup Shot,LAYUPS,,2017
+T.J. Warren,203933,Driving Layup,2,3,3,Driving Reverse Layup Shot,LAYUPS,,2017
+T.J. Warren,203933,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2017
+T.J. Warren,203933,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2017
+T.J. Warren,203933,Fadeaway Jump Shot,2,10,5,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+T.J. Warren,203933,Floating Jump Shot,2,70,30,Floating Jump shot,FLOATING_SHOTS,,2017
+T.J. Warren,203933,Hook Shot,2,6,0,Hook Shot,POST_MOVES,,2017
+T.J. Warren,203933,Jump Shot,2,6,3,Jump Bank Shot,JUMP_SHOTS,,2017
+T.J. Warren,203933,Jump Shot,2,314,95,Jump Shot,JUMP_SHOTS,,2017
+T.J. Warren,203933,Standard Layup,2,54,29,Layup Shot,LAYUPS,,2017
+T.J. Warren,203933,No Shot,2,5,3,No Shot,NO_SHOT,,2017
+T.J. Warren,203933,Pullup Jump Shot,2,2,1,Pullup Bank shot,JUMP_SHOTS,,2017
+T.J. Warren,203933,Pullup Jump Shot,2,85,41,Pullup Jump shot,JUMP_SHOTS,,2017
+T.J. Warren,203933,Putback Dunk,2,1,0,Putback Dunk Shot,DUNKS,,2017
+T.J. Warren,203933,Putback Layup,2,18,14,Putback Layup Shot,LAYUPS,,2017
+T.J. Warren,203933,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2017
+T.J. Warren,203933,Reverse Layup,2,8,4,Reverse Layup Shot,LAYUPS,,2017
+T.J. Warren,203933,Alley Oop Layup,2,1,1,Running Alley Oop Layup Shot,LAYUPS,,2017
+T.J. Warren,203933,Standard Dunk,2,9,9,Running Dunk Shot,DUNKS,,2017
+T.J. Warren,203933,Running Jump Shot,2,13,8,Running Jump Shot,JUMP_SHOTS,,2017
+T.J. Warren,203933,Standard Layup,2,39,35,Running Layup Shot,LAYUPS,,2017
+T.J. Warren,203933,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2017
+T.J. Warren,203933,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2017
+T.J. Warren,203933,Step Back Jump Shot,2,19,10,Step Back Jump shot,JUMP_SHOTS,,2017
+T.J. Warren,203933,Specialty Dunk,2,5,4,Tip Dunk Shot,DUNKS,,2017
+T.J. Warren,203933,Putback Layup,2,24,16,Tip Layup Shot,LAYUPS,,2017
+T.J. Warren,203933,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2017
+T.J. Warren,203933,Turnaround Jump Shot,2,9,6,Turnaround Jump Shot,JUMP_SHOTS,,2017
+T.J. Warren,203933,Alley Oop Layup,2,3,3,Alley Oop Layup shot,LAYUPS,,2018
+T.J. Warren,203933,Specialty Dunk,2,12,12,Cutting Dunk Shot,DUNKS,,2018
+T.J. Warren,203933,Finger Roll,2,3,1,Cutting Finger Roll Layup Shot,LAYUPS,,2018
+T.J. Warren,203933,Standard Layup,2,78,56,Cutting Layup Shot,LAYUPS,,2018
+T.J. Warren,203933,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2018
+T.J. Warren,203933,Finger Roll,2,5,3,Driving Finger Roll Layup Shot,LAYUPS,,2018
+T.J. Warren,203933,Floating Jump Shot,2,24,17,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+T.J. Warren,203933,Floating Jump Shot,2,53,27,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+T.J. Warren,203933,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2018
+T.J. Warren,203933,Driving Layup,2,65,28,Driving Layup Shot,LAYUPS,,2018
+T.J. Warren,203933,Driving Layup,2,6,2,Driving Reverse Layup Shot,LAYUPS,,2018
+T.J. Warren,203933,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2018
+T.J. Warren,203933,Fadeaway Jump Shot,2,18,6,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+T.J. Warren,203933,Floating Jump Shot,2,58,22,Floating Jump shot,FLOATING_SHOTS,,2018
+T.J. Warren,203933,Hook Shot,2,11,6,Hook Shot,POST_MOVES,,2018
+T.J. Warren,203933,Jump Shot,2,3,1,Jump Bank Shot,JUMP_SHOTS,,2018
+T.J. Warren,203933,Jump Shot,2,262,90,Jump Shot,JUMP_SHOTS,,2018
+T.J. Warren,203933,Standard Layup,2,53,23,Layup Shot,LAYUPS,,2018
+T.J. Warren,203933,Pullup Jump Shot,2,89,28,Pullup Jump shot,JUMP_SHOTS,,2018
+T.J. Warren,203933,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2018
+T.J. Warren,203933,Putback Layup,2,33,21,Putback Layup Shot,LAYUPS,,2018
+T.J. Warren,203933,Reverse Layup,2,11,9,Reverse Layup Shot,LAYUPS,,2018
+T.J. Warren,203933,Alley Oop Dunk,2,3,3,Running Alley Oop Dunk Shot,DUNKS,,2018
+T.J. Warren,203933,Standard Dunk,2,22,22,Running Dunk Shot,DUNKS,,2018
+T.J. Warren,203933,Finger Roll,2,5,5,Running Finger Roll Layup Shot,LAYUPS,,2018
+T.J. Warren,203933,Running Jump Shot,2,13,7,Running Jump Shot,JUMP_SHOTS,,2018
+T.J. Warren,203933,Standard Layup,2,98,74,Running Layup Shot,LAYUPS,,2018
+T.J. Warren,203933,Running Jump Shot,2,5,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2018
+T.J. Warren,203933,Reverse Layup,2,5,2,Running Reverse Layup Shot,LAYUPS,,2018
+T.J. Warren,203933,Step Back Jump Shot,2,18,10,Step Back Jump shot,JUMP_SHOTS,,2018
+T.J. Warren,203933,Putback Layup,2,45,21,Tip Layup Shot,LAYUPS,,2018
+T.J. Warren,203933,Turnaround Jump Shot,2,7,5,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2018
+T.J. Warren,203933,Turnaround Jump Shot,2,6,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2018
+T.J. Warren,203933,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2018
+T.J. Warren,203933,Turnaround Jump Shot,2,39,16,Turnaround Jump Shot,JUMP_SHOTS,,2018
+T.J. Warren,203933,Alley Oop Layup,2,4,1,Alley Oop Layup shot,LAYUPS,,2019
+T.J. Warren,203933,Specialty Dunk,2,3,3,Cutting Dunk Shot,DUNKS,,2019
+T.J. Warren,203933,Finger Roll,2,1,0,Cutting Finger Roll Layup Shot,LAYUPS,,2019
+T.J. Warren,203933,Standard Layup,2,11,7,Cutting Layup Shot,LAYUPS,,2019
+T.J. Warren,203933,Driving Dunk,2,4,3,Driving Dunk Shot,DUNKS,,2019
+T.J. Warren,203933,Finger Roll,2,11,7,Driving Finger Roll Layup Shot,LAYUPS,,2019
+T.J. Warren,203933,Floating Jump Shot,2,29,14,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+T.J. Warren,203933,Floating Jump Shot,2,60,28,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+T.J. Warren,203933,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2019
+T.J. Warren,203933,Driving Layup,2,66,33,Driving Layup Shot,LAYUPS,,2019
+T.J. Warren,203933,Driving Layup,2,9,5,Driving Reverse Layup Shot,LAYUPS,,2019
+T.J. Warren,203933,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2019
+T.J. Warren,203933,Fadeaway Jump Shot,2,8,1,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+T.J. Warren,203933,Floating Jump Shot,2,23,13,Floating Jump shot,FLOATING_SHOTS,,2019
+T.J. Warren,203933,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2019
+T.J. Warren,203933,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2019
+T.J. Warren,203933,Jump Shot,2,182,76,Jump Shot,JUMP_SHOTS,,2019
+T.J. Warren,203933,Standard Layup,2,17,7,Layup Shot,LAYUPS,,2019
+T.J. Warren,203933,Pullup Jump Shot,2,66,23,Pullup Jump shot,JUMP_SHOTS,,2019
+T.J. Warren,203933,Putback Layup,2,8,4,Putback Layup Shot,LAYUPS,,2019
+T.J. Warren,203933,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2019
+T.J. Warren,203933,Alley Oop Layup,2,1,1,Running Alley Oop Layup Shot,LAYUPS,,2019
+T.J. Warren,203933,Standard Dunk,2,11,11,Running Dunk Shot,DUNKS,,2019
+T.J. Warren,203933,Finger Roll,2,4,2,Running Finger Roll Layup Shot,LAYUPS,,2019
+T.J. Warren,203933,Running Jump Shot,2,14,6,Running Jump Shot,JUMP_SHOTS,,2019
+T.J. Warren,203933,Standard Layup,2,33,27,Running Layup Shot,LAYUPS,,2019
+T.J. Warren,203933,Running Jump Shot,2,3,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2019
+T.J. Warren,203933,Reverse Layup,2,3,2,Running Reverse Layup Shot,LAYUPS,,2019
+T.J. Warren,203933,Step Back Jump Shot,2,5,2,Step Back Jump shot,JUMP_SHOTS,,2019
+T.J. Warren,203933,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2019
+T.J. Warren,203933,Putback Layup,2,6,4,Tip Layup Shot,LAYUPS,,2019
+T.J. Warren,203933,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2019
+T.J. Warren,203933,Turnaround Jump Shot,2,4,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2019
+T.J. Warren,203933,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2019
+T.J. Warren,203933,Turnaround Jump Shot,2,13,5,Turnaround Jump Shot,JUMP_SHOTS,,2019
+T.J. Warren,203933,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2020
+T.J. Warren,203933,Alley Oop Layup,2,3,2,Alley Oop Layup shot,LAYUPS,,2020
+T.J. Warren,203933,Specialty Dunk,2,11,11,Cutting Dunk Shot,DUNKS,,2020
+T.J. Warren,203933,Finger Roll,2,7,6,Cutting Finger Roll Layup Shot,LAYUPS,,2020
+T.J. Warren,203933,Standard Layup,2,33,29,Cutting Layup Shot,LAYUPS,,2020
+T.J. Warren,203933,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2020
+T.J. Warren,203933,Finger Roll,2,18,15,Driving Finger Roll Layup Shot,LAYUPS,,2020
+T.J. Warren,203933,Floating Jump Shot,2,12,7,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2020
+T.J. Warren,203933,Floating Jump Shot,2,79,37,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+T.J. Warren,203933,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,,2020
+T.J. Warren,203933,Driving Layup,2,78,33,Driving Layup Shot,LAYUPS,,2020
+T.J. Warren,203933,Driving Layup,2,5,2,Driving Reverse Layup Shot,LAYUPS,,2020
+T.J. Warren,203933,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2020
+T.J. Warren,203933,Fadeaway Jump Shot,2,39,16,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+T.J. Warren,203933,Finger Roll,2,3,2,Finger Roll Layup Shot,LAYUPS,,2020
+T.J. Warren,203933,Floating Jump Shot,2,49,32,Floating Jump shot,FLOATING_SHOTS,,2020
+T.J. Warren,203933,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2020
+T.J. Warren,203933,Jump Shot,2,4,3,Jump Bank Shot,JUMP_SHOTS,,2020
+T.J. Warren,203933,Jump Shot,2,270,118,Jump Shot,JUMP_SHOTS,,2020
+T.J. Warren,203933,Standard Layup,2,38,18,Layup Shot,LAYUPS,,2020
+T.J. Warren,203933,Pullup Jump Shot,2,158,66,Pullup Jump shot,JUMP_SHOTS,,2020
+T.J. Warren,203933,Putback Layup,2,15,12,Putback Layup Shot,LAYUPS,,2020
+T.J. Warren,203933,Reverse Layup,2,22,21,Reverse Layup Shot,LAYUPS,,2020
+T.J. Warren,203933,Standard Dunk,2,16,16,Running Dunk Shot,DUNKS,,2020
+T.J. Warren,203933,Finger Roll,2,9,9,Running Finger Roll Layup Shot,LAYUPS,,2020
+T.J. Warren,203933,Running Jump Shot,2,4,3,Running Jump Shot,JUMP_SHOTS,,2020
+T.J. Warren,203933,Standard Layup,2,29,21,Running Layup Shot,LAYUPS,,2020
+T.J. Warren,203933,Running Jump Shot,2,3,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2020
+T.J. Warren,203933,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2020
+T.J. Warren,203933,Step Back Jump Shot,2,21,12,Step Back Jump shot,JUMP_SHOTS,,2020
+T.J. Warren,203933,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2020
+T.J. Warren,203933,Putback Layup,2,20,14,Tip Layup Shot,LAYUPS,,2020
+T.J. Warren,203933,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2020
+T.J. Warren,203933,Turnaround Jump Shot,2,15,4,Turnaround Fadeaway shot,JUMP_SHOTS,,2020
+T.J. Warren,203933,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2020
+T.J. Warren,203933,Turnaround Jump Shot,2,19,10,Turnaround Jump Shot,JUMP_SHOTS,,2020
+T.J. Warren,203933,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2021
+T.J. Warren,203933,Standard Layup,2,3,3,Cutting Layup Shot,LAYUPS,,2021
+T.J. Warren,203933,Floating Jump Shot,2,5,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+T.J. Warren,203933,Driving Layup,2,3,3,Driving Layup Shot,LAYUPS,,2021
+T.J. Warren,203933,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2021
+T.J. Warren,203933,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2021
+T.J. Warren,203933,Floating Jump Shot,2,4,2,Floating Jump shot,FLOATING_SHOTS,,2021
+T.J. Warren,203933,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2021
+T.J. Warren,203933,Jump Shot,2,8,0,Jump Shot,JUMP_SHOTS,,2021
+T.J. Warren,203933,Standard Layup,2,3,2,Layup Shot,LAYUPS,,2021
+T.J. Warren,203933,Pullup Jump Shot,2,14,6,Pullup Jump shot,JUMP_SHOTS,,2021
+T.J. Warren,203933,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2021
+T.J. Warren,203933,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2021
+T.J. Warren,203933,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2021
+T.J. Warren,203933,Finger Roll,2,2,2,Running Finger Roll Layup Shot,LAYUPS,,2021
+T.J. Warren,203933,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2023
+T.J. Warren,203933,Standard Layup,2,3,3,Cutting Layup Shot,LAYUPS,,2023
+T.J. Warren,203933,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2023
+T.J. Warren,203933,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2023
+T.J. Warren,203933,Floating Jump Shot,2,5,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+T.J. Warren,203933,Floating Jump Shot,2,30,14,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+T.J. Warren,203933,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2023
+T.J. Warren,203933,Driving Layup,2,13,7,Driving Layup Shot,LAYUPS,,2023
+T.J. Warren,203933,Fadeaway Jump Shot,2,1,0,Fadeaway Bank shot,JUMP_SHOTS,,2023
+T.J. Warren,203933,Fadeaway Jump Shot,2,6,4,Fadeaway Jump Shot,JUMP_SHOTS,,2023
+T.J. Warren,203933,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2023
+T.J. Warren,203933,Floating Jump Shot,2,9,4,Floating Jump shot,FLOATING_SHOTS,,2023
+T.J. Warren,203933,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2023
+T.J. Warren,203933,Jump Shot,2,72,28,Jump Shot,JUMP_SHOTS,,2023
+T.J. Warren,203933,Standard Layup,2,3,1,Layup Shot,LAYUPS,,2023
+T.J. Warren,203933,Pullup Jump Shot,2,54,28,Pullup Jump shot,JUMP_SHOTS,,2023
+T.J. Warren,203933,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2023
+T.J. Warren,203933,Reverse Layup,2,5,3,Reverse Layup Shot,LAYUPS,,2023
+T.J. Warren,203933,Standard Dunk,2,4,4,Running Dunk Shot,DUNKS,,2023
+T.J. Warren,203933,Finger Roll,2,2,1,Running Finger Roll Layup Shot,LAYUPS,,2023
+T.J. Warren,203933,Running Jump Shot,2,3,3,Running Jump Shot,JUMP_SHOTS,,2023
+T.J. Warren,203933,Standard Layup,2,11,8,Running Layup Shot,LAYUPS,,2023
+T.J. Warren,203933,Running Jump Shot,2,5,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2023
+T.J. Warren,203933,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2023
+T.J. Warren,203933,Step Back Jump Shot,2,4,2,Step Back Jump shot,JUMP_SHOTS,,2023
+T.J. Warren,203933,Putback Layup,2,11,5,Tip Layup Shot,LAYUPS,,2023
+T.J. Warren,203933,Turnaround Jump Shot,2,11,5,Turnaround Fadeaway shot,JUMP_SHOTS,,2023
+T.J. Warren,203933,Turnaround Jump Shot,2,8,3,Turnaround Jump Shot,JUMP_SHOTS,,2023
+T.J. Warren,203933,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+T.J. Warren,203933,Floating Jump Shot,2,4,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+T.J. Warren,203933,Driving Layup,2,3,3,Driving Layup Shot,LAYUPS,,2024
+T.J. Warren,203933,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+T.J. Warren,203933,Floating Jump Shot,2,3,0,Floating Jump shot,FLOATING_SHOTS,,2024
+T.J. Warren,203933,Jump Shot,2,2,2,Jump Shot,JUMP_SHOTS,,2024
+T.J. Warren,203933,Jump Shot,3,10,2,Jump Shot,JUMP_SHOTS,,2024
+T.J. Warren,203933,Pullup Jump Shot,2,4,3,Pullup Jump shot,JUMP_SHOTS,,2024
+T.J. Warren,203933,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2024
+T.J. Warren,203933,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2024
+T.J. Warren,203933,Running Jump Shot,3,3,0,Running Jump Shot,JUMP_SHOTS,,2024
+T.J. Warren,203933,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2024
+T.J. Warren,203933,Step Back Jump Shot,2,2,0,Step Back Jump shot,JUMP_SHOTS,,2024
+T.J. Warren,203933,Putback Layup,2,2,2,Tip Layup Shot,LAYUPS,,2024

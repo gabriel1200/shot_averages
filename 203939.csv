@@ -1,31 +1,323 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-203939,Alley Oop Dunk,2PT Field Goal,4,3,Alley Oop Dunk Shot,DUNKS,0.75,2024
-203939,Specialty Dunk,2PT Field Goal,4,4,Cutting Dunk Shot,DUNKS,1.0,2024
-203939,Finger Roll,2PT Field Goal,1,1,Cutting Finger Roll Layup Shot,LAYUPS,1.0,2024
-203939,Standard Layup,2PT Field Goal,12,10,Cutting Layup Shot,LAYUPS,0.8333333333333334,2024
-203939,Driving Dunk,2PT Field Goal,1,0,Driving Dunk Shot,DUNKS,0.0,2024
-203939,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Jump Shot,FLOATING_SHOTS,1.0,2024
-203939,Driving Layup,2PT Field Goal,4,2,Driving Layup Shot,LAYUPS,0.5,2024
-203939,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2024
-203939,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2024
-203939,Jump Shot,3PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.5,2024
-203939,Standard Layup,2PT Field Goal,9,2,Layup Shot,LAYUPS,0.2222222222222222,2024
-203939,Putback Dunk,2PT Field Goal,1,0,Putback Dunk Shot,DUNKS,0.0,2024
-203939,Putback Layup,2PT Field Goal,7,6,Putback Layup Shot,LAYUPS,0.8571428571428571,2024
-203939,Reverse Layup,2PT Field Goal,2,2,Reverse Layup Shot,LAYUPS,1.0,2024
-203939,Standard Dunk,2PT Field Goal,2,2,Running Dunk Shot,DUNKS,1.0,2024
-203939,Finger Roll,2PT Field Goal,1,0,Running Finger Roll Layup Shot,LAYUPS,0.0,2024
-203939,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2024
-203939,Specialty Dunk,2PT Field Goal,3,1,Tip Dunk Shot,DUNKS,0.3333333333333333,2024
-203939,Putback Layup,2PT Field Goal,11,8,Tip Layup Shot,LAYUPS,0.7272727272727273,2024
-203939,Turnaround Hook Shot,2PT Field Goal,2,1,Turnaround Hook Shot,POST_MOVES,0.5,2024
-203939,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2025
-203939,Alley Oop Layup,2PT Field Goal,1,1,Alley Oop Layup shot,LAYUPS,1.0,2025
-203939,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2025
-203939,Standard Layup,2PT Field Goal,3,3,Cutting Layup Shot,LAYUPS,1.0,2025
-203939,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2025
-203939,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2025
-203939,Jump Shot,3PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.5,2025
-203939,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2025
-203939,Finger Roll,2PT Field Goal,1,1,Running Finger Roll Layup Shot,LAYUPS,1.0,2025
-203939,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Dwight Powell,203939,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2015
+Dwight Powell,203939,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2015
+Dwight Powell,203939,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2015
+Dwight Powell,203939,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2015
+Dwight Powell,203939,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2015
+Dwight Powell,203939,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2015
+Dwight Powell,203939,Driving Layup,2,2,0,Driving Layup Shot,LAYUPS,,2015
+Dwight Powell,203939,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2015
+Dwight Powell,203939,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,2015
+Dwight Powell,203939,Jump Shot,2,35,13,Jump Shot,JUMP_SHOTS,,2015
+Dwight Powell,203939,Standard Layup,2,10,7,Layup Shot,LAYUPS,,2015
+Dwight Powell,203939,Pullup Jump Shot,2,4,0,Pullup Jump shot,JUMP_SHOTS,,2015
+Dwight Powell,203939,Putback Dunk,2,2,1,Putback Dunk Shot,DUNKS,,2015
+Dwight Powell,203939,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2015
+Dwight Powell,203939,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2015
+Dwight Powell,203939,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2015
+Dwight Powell,203939,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2015
+Dwight Powell,203939,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2015
+Dwight Powell,203939,Alley Oop Dunk,2,10,9,Alley Oop Dunk Shot,DUNKS,,2016
+Dwight Powell,203939,Alley Oop Layup,2,9,8,Alley Oop Layup shot,LAYUPS,,2016
+Dwight Powell,203939,Specialty Dunk,2,9,8,Cutting Dunk Shot,DUNKS,,2016
+Dwight Powell,203939,Finger Roll,2,4,4,Cutting Finger Roll Layup Shot,LAYUPS,,2016
+Dwight Powell,203939,Standard Layup,2,18,16,Cutting Layup Shot,LAYUPS,,2016
+Dwight Powell,203939,Driving Jump Shot,2,3,0,Driving Bank shot,JUMP_SHOTS,,2016
+Dwight Powell,203939,Floating Jump Shot,2,4,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Dwight Powell,203939,Driving Layup,2,14,6,Driving Layup Shot,LAYUPS,,2016
+Dwight Powell,203939,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2016
+Dwight Powell,203939,Standard Dunk,2,11,8,Dunk Shot,DUNKS,,2016
+Dwight Powell,203939,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Dwight Powell,203939,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2016
+Dwight Powell,203939,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2016
+Dwight Powell,203939,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2016
+Dwight Powell,203939,Hook Shot,2,4,2,Hook Shot,POST_MOVES,,2016
+Dwight Powell,203939,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2016
+Dwight Powell,203939,Jump Shot,2,127,35,Jump Shot,JUMP_SHOTS,,2016
+Dwight Powell,203939,Standard Layup,2,21,12,Layup Shot,LAYUPS,,2016
+Dwight Powell,203939,Pullup Jump Shot,2,2,1,Pullup Jump shot,JUMP_SHOTS,,2016
+Dwight Powell,203939,Putback Dunk,2,4,3,Putback Dunk Shot,DUNKS,,2016
+Dwight Powell,203939,Putback Layup,2,6,3,Putback Layup Shot,LAYUPS,,2016
+Dwight Powell,203939,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2016
+Dwight Powell,203939,Reverse Layup,2,6,5,Reverse Layup Shot,LAYUPS,,2016
+Dwight Powell,203939,Alley Oop Dunk,2,5,5,Running Alley Oop Dunk Shot,DUNKS,,2016
+Dwight Powell,203939,Standard Dunk,2,4,4,Running Dunk Shot,DUNKS,,2016
+Dwight Powell,203939,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2016
+Dwight Powell,203939,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2016
+Dwight Powell,203939,Standard Layup,2,3,3,Running Layup Shot,LAYUPS,,2016
+Dwight Powell,203939,Reverse Layup,2,3,2,Running Reverse Layup Shot,LAYUPS,,2016
+Dwight Powell,203939,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2016
+Dwight Powell,203939,Putback Layup,2,10,2,Tip Layup Shot,LAYUPS,,2016
+Dwight Powell,203939,Turnaround Jump Shot,2,2,0,Turnaround Bank shot,JUMP_SHOTS,,2016
+Dwight Powell,203939,Turnaround Hook Shot,2,2,0,Turnaround Hook Shot,POST_MOVES,,2016
+Dwight Powell,203939,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Dwight Powell,203939,Alley Oop Dunk,2,12,11,Alley Oop Dunk Shot,DUNKS,,2017
+Dwight Powell,203939,Alley Oop Layup,2,11,5,Alley Oop Layup shot,LAYUPS,,2017
+Dwight Powell,203939,Specialty Dunk,2,11,11,Cutting Dunk Shot,DUNKS,,2017
+Dwight Powell,203939,Finger Roll,2,6,5,Cutting Finger Roll Layup Shot,LAYUPS,,2017
+Dwight Powell,203939,Standard Layup,2,25,20,Cutting Layup Shot,LAYUPS,,2017
+Dwight Powell,203939,Driving Jump Shot,2,2,1,Driving Bank shot,JUMP_SHOTS,,2017
+Dwight Powell,203939,Driving Dunk,2,7,7,Driving Dunk Shot,DUNKS,,2017
+Dwight Powell,203939,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Dwight Powell,203939,Floating Jump Shot,2,2,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2017
+Dwight Powell,203939,Floating Jump Shot,2,4,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Dwight Powell,203939,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2017
+Dwight Powell,203939,Driving Layup,2,10,7,Driving Layup Shot,LAYUPS,,2017
+Dwight Powell,203939,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2017
+Dwight Powell,203939,Standard Dunk,2,6,6,Dunk Shot,DUNKS,,2017
+Dwight Powell,203939,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Dwight Powell,203939,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2017
+Dwight Powell,203939,Hook Shot,2,4,2,Hook Shot,POST_MOVES,,2017
+Dwight Powell,203939,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2017
+Dwight Powell,203939,Jump Shot,2,172,49,Jump Shot,JUMP_SHOTS,,2017
+Dwight Powell,203939,Standard Layup,2,29,13,Layup Shot,LAYUPS,,2017
+Dwight Powell,203939,Pullup Jump Shot,2,5,1,Pullup Jump shot,JUMP_SHOTS,,2017
+Dwight Powell,203939,Putback Dunk,2,4,4,Putback Dunk Shot,DUNKS,,2017
+Dwight Powell,203939,Putback Layup,2,7,6,Putback Layup Shot,LAYUPS,,2017
+Dwight Powell,203939,Reverse Dunk,2,2,2,Reverse Dunk Shot,DUNKS,,2017
+Dwight Powell,203939,Reverse Layup,2,11,7,Reverse Layup Shot,LAYUPS,,2017
+Dwight Powell,203939,Alley Oop Dunk,2,7,7,Running Alley Oop Dunk Shot,DUNKS,,2017
+Dwight Powell,203939,Alley Oop Layup,2,2,2,Running Alley Oop Layup Shot,LAYUPS,,2017
+Dwight Powell,203939,Standard Dunk,2,5,5,Running Dunk Shot,DUNKS,,2017
+Dwight Powell,203939,Finger Roll,2,1,0,Running Finger Roll Layup Shot,LAYUPS,,2017
+Dwight Powell,203939,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2017
+Dwight Powell,203939,Standard Layup,2,3,3,Running Layup Shot,LAYUPS,,2017
+Dwight Powell,203939,Reverse Dunk,2,1,1,Running Reverse Dunk Shot,DUNKS,,2017
+Dwight Powell,203939,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2017
+Dwight Powell,203939,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2017
+Dwight Powell,203939,Putback Layup,2,5,3,Tip Layup Shot,LAYUPS,,2017
+Dwight Powell,203939,Turnaround Hook Shot,2,1,0,Turnaround Bank Hook Shot,POST_MOVES,,2017
+Dwight Powell,203939,Turnaround Jump Shot,2,2,2,Turnaround Bank shot,JUMP_SHOTS,,2017
+Dwight Powell,203939,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2017
+Dwight Powell,203939,Turnaround Hook Shot,2,4,3,Turnaround Hook Shot,POST_MOVES,,2017
+Dwight Powell,203939,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Dwight Powell,203939,Alley Oop Dunk,2,59,54,Alley Oop Dunk Shot,DUNKS,,2018
+Dwight Powell,203939,Alley Oop Layup,2,29,20,Alley Oop Layup shot,LAYUPS,,2018
+Dwight Powell,203939,Specialty Dunk,2,23,21,Cutting Dunk Shot,DUNKS,,2018
+Dwight Powell,203939,Finger Roll,2,6,6,Cutting Finger Roll Layup Shot,LAYUPS,,2018
+Dwight Powell,203939,Standard Layup,2,37,23,Cutting Layup Shot,LAYUPS,,2018
+Dwight Powell,203939,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2018
+Dwight Powell,203939,Driving Dunk,2,5,3,Driving Dunk Shot,DUNKS,,2018
+Dwight Powell,203939,Finger Roll,2,6,4,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Dwight Powell,203939,Floating Jump Shot,2,2,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Dwight Powell,203939,Floating Jump Shot,2,4,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Dwight Powell,203939,Driving Hook Shot,2,4,2,Driving Hook Shot,POST_MOVES,,2018
+Dwight Powell,203939,Driving Layup,2,16,7,Driving Layup Shot,LAYUPS,,2018
+Dwight Powell,203939,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2018
+Dwight Powell,203939,Standard Dunk,2,7,6,Dunk Shot,DUNKS,,2018
+Dwight Powell,203939,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+Dwight Powell,203939,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2018
+Dwight Powell,203939,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2018
+Dwight Powell,203939,Hook Shot,2,10,4,Hook Shot,POST_MOVES,,2018
+Dwight Powell,203939,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2018
+Dwight Powell,203939,Jump Shot,2,123,40,Jump Shot,JUMP_SHOTS,,2018
+Dwight Powell,203939,Standard Layup,2,22,12,Layup Shot,LAYUPS,,2018
+Dwight Powell,203939,Pullup Jump Shot,2,7,3,Pullup Jump shot,JUMP_SHOTS,,2018
+Dwight Powell,203939,Putback Dunk,2,3,2,Putback Dunk Shot,DUNKS,,2018
+Dwight Powell,203939,Putback Layup,2,11,9,Putback Layup Shot,LAYUPS,,2018
+Dwight Powell,203939,Reverse Layup,2,7,4,Reverse Layup Shot,LAYUPS,,2018
+Dwight Powell,203939,Alley Oop Dunk,2,5,5,Running Alley Oop Dunk Shot,DUNKS,,2018
+Dwight Powell,203939,Alley Oop Layup,2,2,2,Running Alley Oop Layup Shot,LAYUPS,,2018
+Dwight Powell,203939,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2018
+Dwight Powell,203939,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2018
+Dwight Powell,203939,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2018
+Dwight Powell,203939,Reverse Dunk,2,1,1,Running Reverse Dunk Shot,DUNKS,,2018
+Dwight Powell,203939,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2018
+Dwight Powell,203939,Step Back Jump Shot,2,7,2,Step Back Jump shot,JUMP_SHOTS,,2018
+Dwight Powell,203939,Specialty Dunk,2,3,2,Tip Dunk Shot,DUNKS,,2018
+Dwight Powell,203939,Putback Layup,2,9,6,Tip Layup Shot,LAYUPS,,2018
+Dwight Powell,203939,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2018
+Dwight Powell,203939,Turnaround Hook Shot,2,7,3,Turnaround Hook Shot,POST_MOVES,,2018
+Dwight Powell,203939,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2018
+Dwight Powell,203939,Alley Oop Dunk,2,58,54,Alley Oop Dunk Shot,DUNKS,,2019
+Dwight Powell,203939,Alley Oop Layup,2,28,19,Alley Oop Layup shot,LAYUPS,,2019
+Dwight Powell,203939,Specialty Dunk,2,28,28,Cutting Dunk Shot,DUNKS,,2019
+Dwight Powell,203939,Finger Roll,2,7,7,Cutting Finger Roll Layup Shot,LAYUPS,,2019
+Dwight Powell,203939,Standard Layup,2,52,36,Cutting Layup Shot,LAYUPS,,2019
+Dwight Powell,203939,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2019
+Dwight Powell,203939,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2019
+Dwight Powell,203939,Finger Roll,2,5,3,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Dwight Powell,203939,Floating Jump Shot,2,5,5,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Dwight Powell,203939,Floating Jump Shot,2,2,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Dwight Powell,203939,Driving Hook Shot,2,3,1,Driving Hook Shot,POST_MOVES,,2019
+Dwight Powell,203939,Driving Layup,2,33,18,Driving Layup Shot,LAYUPS,,2019
+Dwight Powell,203939,Standard Dunk,2,6,6,Dunk Shot,DUNKS,,2019
+Dwight Powell,203939,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2019
+Dwight Powell,203939,Floating Jump Shot,2,4,3,Floating Jump shot,FLOATING_SHOTS,,2019
+Dwight Powell,203939,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2019
+Dwight Powell,203939,Hook Shot,2,4,2,Hook Shot,POST_MOVES,,2019
+Dwight Powell,203939,Jump Shot,2,3,3,Jump Bank Shot,JUMP_SHOTS,,2019
+Dwight Powell,203939,Jump Shot,2,140,36,Jump Shot,JUMP_SHOTS,,2019
+Dwight Powell,203939,Standard Layup,2,37,15,Layup Shot,LAYUPS,,2019
+Dwight Powell,203939,Pullup Jump Shot,2,10,4,Pullup Jump shot,JUMP_SHOTS,,2019
+Dwight Powell,203939,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2019
+Dwight Powell,203939,Putback Layup,2,12,7,Putback Layup Shot,LAYUPS,,2019
+Dwight Powell,203939,Reverse Dunk,2,1,0,Reverse Dunk Shot,DUNKS,,2019
+Dwight Powell,203939,Reverse Layup,2,9,9,Reverse Layup Shot,LAYUPS,,2019
+Dwight Powell,203939,Alley Oop Dunk,2,2,1,Running Alley Oop Dunk Shot,DUNKS,,2019
+Dwight Powell,203939,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2019
+Dwight Powell,203939,Standard Layup,2,4,4,Running Layup Shot,LAYUPS,,2019
+Dwight Powell,203939,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2019
+Dwight Powell,203939,Specialty Dunk,2,5,5,Tip Dunk Shot,DUNKS,,2019
+Dwight Powell,203939,Putback Layup,2,10,7,Tip Layup Shot,LAYUPS,,2019
+Dwight Powell,203939,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2019
+Dwight Powell,203939,Turnaround Hook Shot,2,6,4,Turnaround Hook Shot,POST_MOVES,,2019
+Dwight Powell,203939,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2019
+Dwight Powell,203939,Alley Oop Dunk,2,33,30,Alley Oop Dunk Shot,DUNKS,,2020
+Dwight Powell,203939,Alley Oop Layup,2,6,5,Alley Oop Layup shot,LAYUPS,,2020
+Dwight Powell,203939,Specialty Dunk,2,18,16,Cutting Dunk Shot,DUNKS,,2020
+Dwight Powell,203939,Finger Roll,2,10,8,Cutting Finger Roll Layup Shot,LAYUPS,,2020
+Dwight Powell,203939,Standard Layup,2,18,11,Cutting Layup Shot,LAYUPS,,2020
+Dwight Powell,203939,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2020
+Dwight Powell,203939,Driving Dunk,2,5,4,Driving Dunk Shot,DUNKS,,2020
+Dwight Powell,203939,Finger Roll,2,10,10,Driving Finger Roll Layup Shot,LAYUPS,,2020
+Dwight Powell,203939,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2020
+Dwight Powell,203939,Driving Hook Shot,2,3,0,Driving Hook Shot,POST_MOVES,,2020
+Dwight Powell,203939,Driving Layup,2,16,6,Driving Layup Shot,LAYUPS,,2020
+Dwight Powell,203939,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2020
+Dwight Powell,203939,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2020
+Dwight Powell,203939,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2020
+Dwight Powell,203939,Jump Shot,2,41,10,Jump Shot,JUMP_SHOTS,,2020
+Dwight Powell,203939,Standard Layup,2,23,15,Layup Shot,LAYUPS,,2020
+Dwight Powell,203939,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2020
+Dwight Powell,203939,Putback Layup,2,8,6,Putback Layup Shot,LAYUPS,,2020
+Dwight Powell,203939,Reverse Layup,2,4,3,Reverse Layup Shot,LAYUPS,,2020
+Dwight Powell,203939,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2020
+Dwight Powell,203939,Finger Roll,2,2,2,Running Finger Roll Layup Shot,LAYUPS,,2020
+Dwight Powell,203939,Standard Layup,2,3,3,Running Layup Shot,LAYUPS,,2020
+Dwight Powell,203939,Step Back Jump Shot,2,2,0,Step Back Jump shot,JUMP_SHOTS,,2020
+Dwight Powell,203939,Specialty Dunk,2,3,2,Tip Dunk Shot,DUNKS,,2020
+Dwight Powell,203939,Putback Layup,2,8,6,Tip Layup Shot,LAYUPS,,2020
+Dwight Powell,203939,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2020
+Dwight Powell,203939,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2020
+Dwight Powell,203939,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2020
+Dwight Powell,203939,Alley Oop Dunk,2,36,31,Alley Oop Dunk Shot,DUNKS,,2021
+Dwight Powell,203939,Alley Oop Layup,2,10,5,Alley Oop Layup shot,LAYUPS,,2021
+Dwight Powell,203939,Specialty Dunk,2,15,14,Cutting Dunk Shot,DUNKS,,2021
+Dwight Powell,203939,Finger Roll,2,2,2,Cutting Finger Roll Layup Shot,LAYUPS,,2021
+Dwight Powell,203939,Standard Layup,2,23,15,Cutting Layup Shot,LAYUPS,,2021
+Dwight Powell,203939,Driving Dunk,2,5,4,Driving Dunk Shot,DUNKS,,2021
+Dwight Powell,203939,Finger Roll,2,4,2,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Dwight Powell,203939,Floating Jump Shot,2,2,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Dwight Powell,203939,Driving Layup,2,15,6,Driving Layup Shot,LAYUPS,,2021
+Dwight Powell,203939,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2021
+Dwight Powell,203939,Standard Dunk,2,5,4,Dunk Shot,DUNKS,,2021
+Dwight Powell,203939,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2021
+Dwight Powell,203939,Hook Shot,2,2,2,Hook Bank Shot,POST_MOVES,,2021
+Dwight Powell,203939,Hook Shot,2,3,1,Hook Shot,POST_MOVES,,2021
+Dwight Powell,203939,Jump Shot,2,21,4,Jump Shot,JUMP_SHOTS,,2021
+Dwight Powell,203939,Standard Layup,2,20,8,Layup Shot,LAYUPS,,2021
+Dwight Powell,203939,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2021
+Dwight Powell,203939,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2021
+Dwight Powell,203939,Putback Layup,2,3,3,Putback Layup Shot,LAYUPS,,2021
+Dwight Powell,203939,Reverse Layup,2,8,6,Reverse Layup Shot,LAYUPS,,2021
+Dwight Powell,203939,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2021
+Dwight Powell,203939,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2021
+Dwight Powell,203939,Specialty Dunk,2,3,3,Tip Dunk Shot,DUNKS,,2021
+Dwight Powell,203939,Putback Layup,2,7,3,Tip Layup Shot,LAYUPS,,2021
+Dwight Powell,203939,Turnaround Hook Shot,2,1,1,Turnaround Bank Hook Shot,POST_MOVES,,2021
+Dwight Powell,203939,Turnaround Hook Shot,2,2,0,Turnaround Hook Shot,POST_MOVES,,2021
+Dwight Powell,203939,Alley Oop Dunk,2,68,63,Alley Oop Dunk Shot,DUNKS,,2022
+Dwight Powell,203939,Alley Oop Layup,2,30,19,Alley Oop Layup shot,LAYUPS,,2022
+Dwight Powell,203939,Specialty Dunk,2,22,20,Cutting Dunk Shot,DUNKS,,2022
+Dwight Powell,203939,Finger Roll,2,5,4,Cutting Finger Roll Layup Shot,LAYUPS,,2022
+Dwight Powell,203939,Standard Layup,2,53,36,Cutting Layup Shot,LAYUPS,,2022
+Dwight Powell,203939,Driving Dunk,2,4,2,Driving Dunk Shot,DUNKS,,2022
+Dwight Powell,203939,Finger Roll,2,3,3,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Dwight Powell,203939,Floating Jump Shot,2,4,3,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Dwight Powell,203939,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Dwight Powell,203939,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2022
+Dwight Powell,203939,Driving Layup,2,9,4,Driving Layup Shot,LAYUPS,,2022
+Dwight Powell,203939,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2022
+Dwight Powell,203939,Standard Dunk,2,9,7,Dunk Shot,DUNKS,,2022
+Dwight Powell,203939,Floating Jump Shot,2,4,1,Floating Jump shot,FLOATING_SHOTS,,2022
+Dwight Powell,203939,Hook Shot,2,8,4,Hook Shot,POST_MOVES,,2022
+Dwight Powell,203939,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2022
+Dwight Powell,203939,Jump Shot,2,48,15,Jump Shot,JUMP_SHOTS,,2022
+Dwight Powell,203939,Standard Layup,2,42,25,Layup Shot,LAYUPS,,2022
+Dwight Powell,203939,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2022
+Dwight Powell,203939,Putback Dunk,2,1,0,Putback Dunk Shot,DUNKS,,2022
+Dwight Powell,203939,Putback Layup,2,21,15,Putback Layup Shot,LAYUPS,,2022
+Dwight Powell,203939,Reverse Layup,2,13,11,Reverse Layup Shot,LAYUPS,,2022
+Dwight Powell,203939,Alley Oop Dunk,2,3,3,Running Alley Oop Dunk Shot,DUNKS,,2022
+Dwight Powell,203939,Alley Oop Layup,2,1,1,Running Alley Oop Layup Shot,LAYUPS,,2022
+Dwight Powell,203939,Standard Dunk,2,6,6,Running Dunk Shot,DUNKS,,2022
+Dwight Powell,203939,Finger Roll,2,2,2,Running Finger Roll Layup Shot,LAYUPS,,2022
+Dwight Powell,203939,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2022
+Dwight Powell,203939,Standard Layup,2,3,3,Running Layup Shot,LAYUPS,,2022
+Dwight Powell,203939,Step Back Jump Shot,2,2,0,Step Back Jump shot,JUMP_SHOTS,,2022
+Dwight Powell,203939,Specialty Dunk,2,8,7,Tip Dunk Shot,DUNKS,,2022
+Dwight Powell,203939,Putback Layup,2,14,7,Tip Layup Shot,LAYUPS,,2022
+Dwight Powell,203939,Turnaround Jump Shot,2,2,2,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2022
+Dwight Powell,203939,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2022
+Dwight Powell,203939,Turnaround Hook Shot,2,5,2,Turnaround Hook Shot,POST_MOVES,,2022
+Dwight Powell,203939,Turnaround Jump Shot,2,4,1,Turnaround Jump Shot,JUMP_SHOTS,,2022
+Dwight Powell,203939,Alley Oop Dunk,2,38,30,Alley Oop Dunk Shot,DUNKS,,2023
+Dwight Powell,203939,Alley Oop Layup,2,21,14,Alley Oop Layup shot,LAYUPS,,2023
+Dwight Powell,203939,Specialty Dunk,2,21,21,Cutting Dunk Shot,DUNKS,,2023
+Dwight Powell,203939,Finger Roll,2,8,8,Cutting Finger Roll Layup Shot,LAYUPS,,2023
+Dwight Powell,203939,Standard Layup,2,41,28,Cutting Layup Shot,LAYUPS,,2023
+Dwight Powell,203939,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2023
+Dwight Powell,203939,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Dwight Powell,203939,Floating Jump Shot,2,2,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Dwight Powell,203939,Driving Layup,2,9,2,Driving Layup Shot,LAYUPS,,2023
+Dwight Powell,203939,Standard Dunk,2,8,7,Dunk Shot,DUNKS,,2023
+Dwight Powell,203939,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2023
+Dwight Powell,203939,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2023
+Dwight Powell,203939,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2023
+Dwight Powell,203939,Jump Shot,2,6,1,Jump Shot,JUMP_SHOTS,,2023
+Dwight Powell,203939,Standard Layup,2,28,18,Layup Shot,LAYUPS,,2023
+Dwight Powell,203939,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2023
+Dwight Powell,203939,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2023
+Dwight Powell,203939,Putback Layup,2,24,15,Putback Layup Shot,LAYUPS,,2023
+Dwight Powell,203939,Reverse Layup,2,11,9,Reverse Layup Shot,LAYUPS,,2023
+Dwight Powell,203939,Alley Oop Dunk,2,4,4,Running Alley Oop Dunk Shot,DUNKS,,2023
+Dwight Powell,203939,Standard Dunk,2,4,4,Running Dunk Shot,DUNKS,,2023
+Dwight Powell,203939,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2023
+Dwight Powell,203939,Standard Layup,2,5,4,Running Layup Shot,LAYUPS,,2023
+Dwight Powell,203939,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2023
+Dwight Powell,203939,Specialty Dunk,2,7,7,Tip Dunk Shot,DUNKS,,2023
+Dwight Powell,203939,Putback Layup,2,13,11,Tip Layup Shot,LAYUPS,,2023
+Dwight Powell,203939,Turnaround Hook Shot,2,1,0,Turnaround Bank Hook Shot,POST_MOVES,,2023
+Dwight Powell,203939,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2023
+Dwight Powell,203939,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2023
+Dwight Powell,203939,Turnaround Hook Shot,2,4,3,Turnaround Hook Shot,POST_MOVES,,2023
+Dwight Powell,203939,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2023
+Dwight Powell,203939,Alley Oop Dunk,2,5,4,Alley Oop Dunk Shot,DUNKS,,2024
+Dwight Powell,203939,Alley Oop Layup,2,6,6,Alley Oop Layup shot,LAYUPS,,2024
+Dwight Powell,203939,Specialty Dunk,2,6,6,Cutting Dunk Shot,DUNKS,,2024
+Dwight Powell,203939,Finger Roll,2,3,2,Cutting Finger Roll Layup Shot,LAYUPS,,2024
+Dwight Powell,203939,Standard Layup,2,18,12,Cutting Layup Shot,LAYUPS,,2024
+Dwight Powell,203939,Driving Dunk,2,1,0,Driving Dunk Shot,DUNKS,,2024
+Dwight Powell,203939,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Dwight Powell,203939,Floating Jump Shot,2,1,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Dwight Powell,203939,Driving Layup,2,4,2,Driving Layup Shot,LAYUPS,,2024
+Dwight Powell,203939,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2024
+Dwight Powell,203939,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2024
+Dwight Powell,203939,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2024
+Dwight Powell,203939,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2024
+Dwight Powell,203939,Jump Shot,3,3,1,Jump Shot,JUMP_SHOTS,,2024
+Dwight Powell,203939,Standard Layup,2,12,4,Layup Shot,LAYUPS,,2024
+Dwight Powell,203939,Putback Dunk,2,1,0,Putback Dunk Shot,DUNKS,,2024
+Dwight Powell,203939,Putback Layup,2,10,8,Putback Layup Shot,LAYUPS,,2024
+Dwight Powell,203939,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2024
+Dwight Powell,203939,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2024
+Dwight Powell,203939,Finger Roll,2,1,0,Running Finger Roll Layup Shot,LAYUPS,,2024
+Dwight Powell,203939,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2024
+Dwight Powell,203939,Specialty Dunk,2,6,4,Tip Dunk Shot,DUNKS,,2024
+Dwight Powell,203939,Putback Layup,2,15,11,Tip Layup Shot,LAYUPS,,2024
+Dwight Powell,203939,Turnaround Hook Shot,2,3,1,Turnaround Hook Shot,POST_MOVES,,2024
+Dwight Powell,203939,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2025
+Dwight Powell,203939,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2025
+Dwight Powell,203939,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2025
+Dwight Powell,203939,Standard Layup,2,3,3,Cutting Layup Shot,LAYUPS,,2025
+Dwight Powell,203939,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Dwight Powell,203939,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2025
+Dwight Powell,203939,Jump Shot,3,1,1,Jump Shot,JUMP_SHOTS,,2025
+Dwight Powell,203939,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2025
+Dwight Powell,203939,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2025
+Dwight Powell,203939,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2025
+Dwight Powell,203939,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2025
+Dwight Powell,203939,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2025
+Dwight Powell,203939,Putback Layup,2,1,1,Tip Layup Shot,LAYUPS,,2025
+Dwight Powell,203939,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2025

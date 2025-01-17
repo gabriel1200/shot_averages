@@ -1,32 +1,261 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-202344,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2012
-202344,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2015
-202344,Driving Layup,2PT Field Goal,3,2,Driving Layup Shot,LAYUPS,0.6666666666666666,2015
-202344,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2015
-202344,Hook Shot,2PT Field Goal,2,1,Jump Hook Shot,POST_MOVES,0.5,2015
-202344,Jump Shot,2PT Field Goal,16,4,Jump Shot,JUMP_SHOTS,0.25,2015
-202344,Jump Shot,3PT Field Goal,8,5,Jump Shot,JUMP_SHOTS,0.9375,2015
-202344,Standard Layup,2PT Field Goal,8,4,Layup Shot,LAYUPS,0.5,2015
-202344,Putback Dunk,2PT Field Goal,1,1,Putback Dunk Shot,DUNKS,1.0,2015
-202344,Standard Dunk,2PT Field Goal,1,1,Running Slam Dunk Shot,DUNKS,1.0,2015
-202344,Tip Shot,2PT Field Goal,3,0,Tip Shot,TIP_SHOTS,0.0,2015
-202344,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,1.0,2015
-202344,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2016
-202344,Alley Oop Layup,2PT Field Goal,1,0,Alley Oop Layup shot,LAYUPS,0.0,2016
-202344,Specialty Dunk,2PT Field Goal,1,0,Cutting Dunk Shot,DUNKS,0.0,2016
-202344,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2016
-202344,Driving Jump Shot,2PT Field Goal,1,1,Driving Bank shot,JUMP_SHOTS,1.0,2016
-202344,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2016
-202344,Finger Roll,2PT Field Goal,1,0,Driving Finger Roll Layup Shot,LAYUPS,0.0,2016
-202344,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,1.0,2016
-202344,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2016
-202344,Standard Layup,2PT Field Goal,4,0,Layup Shot,LAYUPS,0.0,2016
-202344,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2016
-202344,Putback Layup,2PT Field Goal,2,0,Tip Layup Shot,LAYUPS,0.0,2016
-202344,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2016
-202344,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2016
-202344,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2017
-202344,Standard Layup,2PT Field Goal,2,1,Cutting Layup Shot,LAYUPS,0.5,2018
-202344,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2018
-202344,Standard Layup,2PT Field Goal,3,2,Layup Shot,LAYUPS,0.6666666666666666,2018
-202344,Putback Layup,2PT Field Goal,1,1,Tip Layup Shot,LAYUPS,1.0,2018
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Trevor Booker,202344,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2011
+Trevor Booker,202344,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2011
+Trevor Booker,202344,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2011
+Trevor Booker,202344,Driving Layup,2,10,7,Driving Layup Shot,LAYUPS,,2011
+Trevor Booker,202344,Driving Dunk,2,3,3,Driving Slam Dunk Shot,DUNKS,,2011
+Trevor Booker,202344,Standard Dunk,2,24,21,Dunk Shot,DUNKS,,2011
+Trevor Booker,202344,Fadeaway Jump Shot,2,4,2,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Trevor Booker,202344,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2011
+Trevor Booker,202344,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2011
+Trevor Booker,202344,Hook Shot,2,7,5,Hook Shot,POST_MOVES,,2011
+Trevor Booker,202344,Jump Shot,2,3,2,Jump Bank Shot,JUMP_SHOTS,,2011
+Trevor Booker,202344,Hook Shot,2,7,7,Jump Hook Shot,POST_MOVES,,2011
+Trevor Booker,202344,Jump Shot,2,72,12,Jump Shot,JUMP_SHOTS,,2011
+Trevor Booker,202344,Standard Layup,2,66,34,Layup Shot,LAYUPS,,2011
+Trevor Booker,202344,Putback Dunk,2,3,2,Putback Dunk Shot,DUNKS,,2011
+Trevor Booker,202344,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2011
+Trevor Booker,202344,Putback Dunk,2,5,4,Putback Slam Dunk Shot,DUNKS,,2011
+Trevor Booker,202344,Reverse Layup,2,5,4,Reverse Layup Shot,LAYUPS,,2011
+Trevor Booker,202344,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2011
+Trevor Booker,202344,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2011
+Trevor Booker,202344,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2011
+Trevor Booker,202344,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2011
+Trevor Booker,202344,Standard Dunk,2,12,11,Slam Dunk Shot,DUNKS,,2011
+Trevor Booker,202344,Tip Shot,2,11,9,Tip Shot,TIP_SHOTS,,2011
+Trevor Booker,202344,Turnaround Hook Shot,2,1,1,Turnaround Bank Hook Shot,POST_MOVES,,2011
+Trevor Booker,202344,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2011
+Trevor Booker,202344,Turnaround Jump Shot,2,5,2,Turnaround Jump Shot,JUMP_SHOTS,,2011
+Trevor Booker,202344,Alley Oop Dunk,2,4,4,Alley Oop Dunk Shot,DUNKS,,2012
+Trevor Booker,202344,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2012
+Trevor Booker,202344,Driving Dunk,2,2,1,Driving Dunk Shot,DUNKS,,2012
+Trevor Booker,202344,Driving Jump Shot,2,4,3,Driving Jump shot,JUMP_SHOTS,,2012
+Trevor Booker,202344,Driving Layup,2,8,7,Driving Layup Shot,LAYUPS,,2012
+Trevor Booker,202344,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2012
+Trevor Booker,202344,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2012
+Trevor Booker,202344,Standard Dunk,2,18,17,Dunk Shot,DUNKS,,2012
+Trevor Booker,202344,Fadeaway Jump Shot,2,4,2,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Trevor Booker,202344,Finger Roll,2,3,3,Finger Roll Layup Shot,LAYUPS,,2012
+Trevor Booker,202344,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2012
+Trevor Booker,202344,Hook Shot,2,16,9,Hook Shot,POST_MOVES,,2012
+Trevor Booker,202344,Jump Shot,2,3,3,Jump Bank Shot,JUMP_SHOTS,,2012
+Trevor Booker,202344,Hook Shot,2,6,4,Jump Hook Shot,POST_MOVES,,2012
+Trevor Booker,202344,Jump Shot,2,133,38,Jump Shot,JUMP_SHOTS,,2012
+Trevor Booker,202344,Standard Layup,2,75,40,Layup Shot,LAYUPS,,2012
+Trevor Booker,202344,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2012
+Trevor Booker,202344,Putback Dunk,2,6,6,Putback Dunk Shot,DUNKS,,2012
+Trevor Booker,202344,Putback Layup,2,5,5,Putback Layup Shot,LAYUPS,,2012
+Trevor Booker,202344,Putback Dunk,2,3,3,Putback Slam Dunk Shot,DUNKS,,2012
+Trevor Booker,202344,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2012
+Trevor Booker,202344,Running Jump Shot,2,2,1,Running Bank shot,JUMP_SHOTS,,2012
+Trevor Booker,202344,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2012
+Trevor Booker,202344,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2012
+Trevor Booker,202344,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2012
+Trevor Booker,202344,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2012
+Trevor Booker,202344,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2012
+Trevor Booker,202344,Standard Dunk,2,8,8,Slam Dunk Shot,DUNKS,,2012
+Trevor Booker,202344,Tip Shot,2,12,8,Tip Shot,TIP_SHOTS,,2012
+Trevor Booker,202344,Turnaround Jump Shot,2,4,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2012
+Trevor Booker,202344,Turnaround Hook Shot,2,3,3,Turnaround Hook Shot,POST_MOVES,,2012
+Trevor Booker,202344,Turnaround Jump Shot,2,5,2,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Trevor Booker,202344,Alley Oop Dunk,2,3,3,Alley Oop Dunk Shot,DUNKS,,2013
+Trevor Booker,202344,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2013
+Trevor Booker,202344,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2013
+Trevor Booker,202344,Driving Layup,2,9,9,Driving Layup Shot,LAYUPS,,2013
+Trevor Booker,202344,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2013
+Trevor Booker,202344,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2013
+Trevor Booker,202344,Standard Dunk,2,10,9,Dunk Shot,DUNKS,,2013
+Trevor Booker,202344,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2013
+Trevor Booker,202344,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2013
+Trevor Booker,202344,Hook Shot,2,11,6,Hook Shot,POST_MOVES,,2013
+Trevor Booker,202344,Jump Shot,2,3,1,Jump Bank Shot,JUMP_SHOTS,,2013
+Trevor Booker,202344,Hook Shot,2,5,3,Jump Hook Shot,POST_MOVES,,2013
+Trevor Booker,202344,Jump Shot,2,79,17,Jump Shot,JUMP_SHOTS,,2013
+Trevor Booker,202344,Standard Layup,2,53,27,Layup Shot,LAYUPS,,2013
+Trevor Booker,202344,Putback Dunk,2,3,3,Putback Dunk Shot,DUNKS,,2013
+Trevor Booker,202344,Putback Layup,2,6,4,Putback Layup Shot,LAYUPS,,2013
+Trevor Booker,202344,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2013
+Trevor Booker,202344,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2013
+Trevor Booker,202344,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2013
+Trevor Booker,202344,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2013
+Trevor Booker,202344,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2013
+Trevor Booker,202344,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2013
+Trevor Booker,202344,Tip Shot,2,10,5,Tip Shot,TIP_SHOTS,,2013
+Trevor Booker,202344,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2013
+Trevor Booker,202344,Turnaround Hook Shot,2,6,3,Turnaround Hook Shot,POST_MOVES,,2013
+Trevor Booker,202344,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Trevor Booker,202344,Alley Oop Dunk,2,3,3,Alley Oop Dunk Shot,DUNKS,,2014
+Trevor Booker,202344,Alley Oop Layup,2,3,3,Alley Oop Layup shot,LAYUPS,,2014
+Trevor Booker,202344,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2014
+Trevor Booker,202344,Driving Jump Shot,2,4,2,Driving Jump shot,JUMP_SHOTS,,2014
+Trevor Booker,202344,Driving Layup,2,12,11,Driving Layup Shot,LAYUPS,,2014
+Trevor Booker,202344,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2014
+Trevor Booker,202344,Driving Dunk,2,2,2,Driving Slam Dunk Shot,DUNKS,,2014
+Trevor Booker,202344,Standard Dunk,2,11,11,Dunk Shot,DUNKS,,2014
+Trevor Booker,202344,Fadeaway Jump Shot,2,4,3,Fadeaway Jump Shot,JUMP_SHOTS,,2014
+Trevor Booker,202344,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2014
+Trevor Booker,202344,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2014
+Trevor Booker,202344,Hook Shot,2,16,11,Hook Shot,POST_MOVES,,2014
+Trevor Booker,202344,Jump Shot,2,5,5,Jump Bank Shot,JUMP_SHOTS,,2014
+Trevor Booker,202344,Hook Shot,2,7,5,Jump Hook Shot,POST_MOVES,,2014
+Trevor Booker,202344,Jump Shot,2,169,54,Jump Shot,JUMP_SHOTS,,2014
+Trevor Booker,202344,Standard Layup,2,98,60,Layup Shot,LAYUPS,,2014
+Trevor Booker,202344,Putback Layup,2,5,5,Putback Layup Shot,LAYUPS,,2014
+Trevor Booker,202344,Putback Dunk,2,1,1,Putback Slam Dunk Shot,DUNKS,,2014
+Trevor Booker,202344,Reverse Layup,2,9,7,Reverse Layup Shot,LAYUPS,,2014
+Trevor Booker,202344,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2014
+Trevor Booker,202344,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,2014
+Trevor Booker,202344,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2014
+Trevor Booker,202344,Tip Shot,2,3,3,Running Tip Shot,TIP_SHOTS,,2014
+Trevor Booker,202344,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2014
+Trevor Booker,202344,Tip Shot,2,14,8,Tip Shot,TIP_SHOTS,,2014
+Trevor Booker,202344,Turnaround Hook Shot,2,2,1,Turnaround Bank Hook Shot,POST_MOVES,,2014
+Trevor Booker,202344,Turnaround Jump Shot,2,4,4,Turnaround Bank shot,JUMP_SHOTS,,2014
+Trevor Booker,202344,Turnaround Hook Shot,2,13,10,Turnaround Hook Shot,POST_MOVES,,2014
+Trevor Booker,202344,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2014
+Trevor Booker,202344,Alley Oop Dunk,2,4,3,Alley Oop Dunk Shot,DUNKS,,2015
+Trevor Booker,202344,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2015
+Trevor Booker,202344,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2015
+Trevor Booker,202344,Driving Jump Shot,2,3,2,Driving Jump shot,JUMP_SHOTS,,2015
+Trevor Booker,202344,Driving Layup,2,14,11,Driving Layup Shot,LAYUPS,,2015
+Trevor Booker,202344,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2015
+Trevor Booker,202344,Standard Dunk,2,16,14,Dunk Shot,DUNKS,,2015
+Trevor Booker,202344,Fadeaway Jump Shot,2,3,1,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+Trevor Booker,202344,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2015
+Trevor Booker,202344,Hook Shot,2,4,3,Hook Shot,POST_MOVES,,2015
+Trevor Booker,202344,Hook Shot,2,1,0,Jump Bank Hook Shot,POST_MOVES,,2015
+Trevor Booker,202344,Jump Shot,2,11,6,Jump Bank Shot,JUMP_SHOTS,,2015
+Trevor Booker,202344,Hook Shot,2,19,11,Jump Hook Shot,POST_MOVES,,2015
+Trevor Booker,202344,Jump Shot,2,193,58,Jump Shot,JUMP_SHOTS,,2015
+Trevor Booker,202344,Jump Shot,3,25,7,Jump Shot,JUMP_SHOTS,,2015
+Trevor Booker,202344,Standard Layup,2,89,52,Layup Shot,LAYUPS,,2015
+Trevor Booker,202344,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2015
+Trevor Booker,202344,Putback Dunk,2,3,3,Putback Dunk Shot,DUNKS,,2015
+Trevor Booker,202344,Putback Layup,2,6,6,Putback Layup Shot,LAYUPS,,2015
+Trevor Booker,202344,Putback Dunk,2,4,4,Putback Slam Dunk Shot,DUNKS,,2015
+Trevor Booker,202344,Reverse Layup,2,10,6,Reverse Layup Shot,LAYUPS,,2015
+Trevor Booker,202344,Running Jump Shot,2,3,1,Running Bank shot,JUMP_SHOTS,,2015
+Trevor Booker,202344,Running Jump Shot,2,6,2,Running Jump Shot,JUMP_SHOTS,,2015
+Trevor Booker,202344,Standard Layup,2,4,2,Running Layup Shot,LAYUPS,,2015
+Trevor Booker,202344,Standard Dunk,2,2,2,Running Slam Dunk Shot,DUNKS,,2015
+Trevor Booker,202344,Standard Dunk,2,12,11,Slam Dunk Shot,DUNKS,,2015
+Trevor Booker,202344,Tip Shot,2,16,10,Tip Shot,TIP_SHOTS,,2015
+Trevor Booker,202344,Turnaround Jump Shot,2,2,2,Turnaround Bank shot,JUMP_SHOTS,,2015
+Trevor Booker,202344,Turnaround Jump Shot,2,3,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2015
+Trevor Booker,202344,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2015
+Trevor Booker,202344,Turnaround Jump Shot,2,4,2,Turnaround Jump Shot,JUMP_SHOTS,,2015
+Trevor Booker,202344,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2016
+Trevor Booker,202344,Alley Oop Layup,2,3,1,Alley Oop Layup shot,LAYUPS,,2016
+Trevor Booker,202344,Specialty Dunk,2,10,8,Cutting Dunk Shot,DUNKS,,2016
+Trevor Booker,202344,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2016
+Trevor Booker,202344,Standard Layup,2,10,9,Cutting Layup Shot,LAYUPS,,2016
+Trevor Booker,202344,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2016
+Trevor Booker,202344,Driving Dunk,2,7,7,Driving Dunk Shot,DUNKS,,2016
+Trevor Booker,202344,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Trevor Booker,202344,Floating Jump Shot,2,2,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2016
+Trevor Booker,202344,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Trevor Booker,202344,Driving Hook Shot,2,5,2,Driving Hook Shot,POST_MOVES,,2016
+Trevor Booker,202344,Driving Layup,2,6,3,Driving Layup Shot,LAYUPS,,2016
+Trevor Booker,202344,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2016
+Trevor Booker,202344,Standard Dunk,2,25,24,Dunk Shot,DUNKS,,2016
+Trevor Booker,202344,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Trevor Booker,202344,Finger Roll,2,4,2,Finger Roll Layup Shot,LAYUPS,,2016
+Trevor Booker,202344,Floating Jump Shot,2,5,2,Floating Jump shot,FLOATING_SHOTS,,2016
+Trevor Booker,202344,Hook Shot,2,2,1,Hook Bank Shot,POST_MOVES,,2016
+Trevor Booker,202344,Hook Shot,2,12,2,Hook Shot,POST_MOVES,,2016
+Trevor Booker,202344,Jump Shot,2,5,1,Jump Bank Shot,JUMP_SHOTS,,2016
+Trevor Booker,202344,Jump Shot,2,85,19,Jump Shot,JUMP_SHOTS,,2016
+Trevor Booker,202344,Jump Shot,3,5,0,Jump Shot,JUMP_SHOTS,,2016
+Trevor Booker,202344,Standard Layup,2,69,29,Layup Shot,LAYUPS,,2016
+Trevor Booker,202344,Pullup Jump Shot,2,2,0,Pullup Jump shot,JUMP_SHOTS,,2016
+Trevor Booker,202344,Putback Dunk,2,6,5,Putback Dunk Shot,DUNKS,,2016
+Trevor Booker,202344,Putback Layup,2,6,5,Putback Layup Shot,LAYUPS,,2016
+Trevor Booker,202344,Reverse Dunk,2,2,2,Reverse Dunk Shot,DUNKS,,2016
+Trevor Booker,202344,Reverse Layup,2,16,13,Reverse Layup Shot,LAYUPS,,2016
+Trevor Booker,202344,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2016
+Trevor Booker,202344,Alley Oop Layup,2,1,0,Running Alley Oop Layup Shot,LAYUPS,,2016
+Trevor Booker,202344,Standard Dunk,2,12,12,Running Dunk Shot,DUNKS,,2016
+Trevor Booker,202344,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2016
+Trevor Booker,202344,Standard Layup,2,11,5,Running Layup Shot,LAYUPS,,2016
+Trevor Booker,202344,Step Back Jump Shot,2,6,1,Step Back Jump shot,JUMP_SHOTS,,2016
+Trevor Booker,202344,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2016
+Trevor Booker,202344,Putback Layup,2,34,15,Tip Layup Shot,LAYUPS,,2016
+Trevor Booker,202344,Turnaround Jump Shot,2,2,1,Turnaround Bank shot,JUMP_SHOTS,,2016
+Trevor Booker,202344,Turnaround Jump Shot,2,3,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2016
+Trevor Booker,202344,Turnaround Hook Shot,2,11,7,Turnaround Hook Shot,POST_MOVES,,2016
+Trevor Booker,202344,Turnaround Jump Shot,2,5,2,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Trevor Booker,202344,Alley Oop Dunk,2,1,0,Alley Oop Dunk Shot,DUNKS,,2017
+Trevor Booker,202344,Alley Oop Layup,2,4,0,Alley Oop Layup shot,LAYUPS,,2017
+Trevor Booker,202344,Specialty Dunk,2,7,7,Cutting Dunk Shot,DUNKS,,2017
+Trevor Booker,202344,Finger Roll,2,4,4,Cutting Finger Roll Layup Shot,LAYUPS,,2017
+Trevor Booker,202344,Standard Layup,2,16,14,Cutting Layup Shot,LAYUPS,,2017
+Trevor Booker,202344,Driving Hook Shot,2,2,1,Driving Bank Hook Shot,POST_MOVES,,2017
+Trevor Booker,202344,Driving Jump Shot,2,10,8,Driving Bank shot,JUMP_SHOTS,,2017
+Trevor Booker,202344,Driving Dunk,2,10,10,Driving Dunk Shot,DUNKS,,2017
+Trevor Booker,202344,Finger Roll,2,5,2,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Trevor Booker,202344,Floating Jump Shot,2,3,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2017
+Trevor Booker,202344,Floating Jump Shot,2,3,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Trevor Booker,202344,Driving Hook Shot,2,13,6,Driving Hook Shot,POST_MOVES,,2017
+Trevor Booker,202344,Driving Layup,2,51,31,Driving Layup Shot,LAYUPS,,2017
+Trevor Booker,202344,Driving Layup,2,9,6,Driving Reverse Layup Shot,LAYUPS,,2017
+Trevor Booker,202344,Standard Dunk,2,15,13,Dunk Shot,DUNKS,,2017
+Trevor Booker,202344,Fadeaway Jump Shot,2,3,2,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Trevor Booker,202344,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2017
+Trevor Booker,202344,Floating Jump Shot,2,8,1,Floating Jump shot,FLOATING_SHOTS,,2017
+Trevor Booker,202344,Hook Shot,2,10,7,Hook Bank Shot,POST_MOVES,,2017
+Trevor Booker,202344,Hook Shot,2,38,17,Hook Shot,POST_MOVES,,2017
+Trevor Booker,202344,Jump Shot,2,12,6,Jump Bank Shot,JUMP_SHOTS,,2017
+Trevor Booker,202344,Jump Shot,2,143,50,Jump Shot,JUMP_SHOTS,,2017
+Trevor Booker,202344,Jump Shot,3,7,3,Jump Shot,JUMP_SHOTS,,2017
+Trevor Booker,202344,Standard Layup,2,102,53,Layup Shot,LAYUPS,,2017
+Trevor Booker,202344,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2017
+Trevor Booker,202344,Pullup Jump Shot,2,4,1,Pullup Jump shot,JUMP_SHOTS,,2017
+Trevor Booker,202344,Putback Dunk,2,1,0,Putback Dunk Shot,DUNKS,,2017
+Trevor Booker,202344,Putback Layup,2,9,7,Putback Layup Shot,LAYUPS,,2017
+Trevor Booker,202344,Reverse Layup,2,10,6,Reverse Layup Shot,LAYUPS,,2017
+Trevor Booker,202344,Standard Dunk,2,4,4,Running Dunk Shot,DUNKS,,2017
+Trevor Booker,202344,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2017
+Trevor Booker,202344,Running Jump Shot,2,4,1,Running Jump Shot,JUMP_SHOTS,,2017
+Trevor Booker,202344,Standard Layup,2,24,18,Running Layup Shot,LAYUPS,,2017
+Trevor Booker,202344,Step Back Jump Shot,2,11,3,Step Back Jump shot,JUMP_SHOTS,,2017
+Trevor Booker,202344,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2017
+Trevor Booker,202344,Putback Layup,2,8,2,Tip Layup Shot,LAYUPS,,2017
+Trevor Booker,202344,Turnaround Hook Shot,2,1,0,Turnaround Bank Hook Shot,POST_MOVES,,2017
+Trevor Booker,202344,Turnaround Jump Shot,2,6,3,Turnaround Bank shot,JUMP_SHOTS,,2017
+Trevor Booker,202344,Turnaround Jump Shot,2,5,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2017
+Trevor Booker,202344,Turnaround Hook Shot,2,15,5,Turnaround Hook Shot,POST_MOVES,,2017
+Trevor Booker,202344,Turnaround Jump Shot,2,8,3,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Trevor Booker,202344,Alley Oop Layup,2,3,3,Alley Oop Layup shot,LAYUPS,,2018
+Trevor Booker,202344,Specialty Dunk,2,5,5,Cutting Dunk Shot,DUNKS,,2018
+Trevor Booker,202344,Finger Roll,2,4,3,Cutting Finger Roll Layup Shot,LAYUPS,,2018
+Trevor Booker,202344,Standard Layup,2,25,21,Cutting Layup Shot,LAYUPS,,2018
+Trevor Booker,202344,Finger Roll,2,4,3,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Trevor Booker,202344,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Trevor Booker,202344,Floating Jump Shot,2,8,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Trevor Booker,202344,Driving Hook Shot,2,4,1,Driving Hook Shot,POST_MOVES,,2018
+Trevor Booker,202344,Driving Layup,2,17,11,Driving Layup Shot,LAYUPS,,2018
+Trevor Booker,202344,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2018
+Trevor Booker,202344,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+Trevor Booker,202344,Finger Roll,2,5,3,Finger Roll Layup Shot,LAYUPS,,2018
+Trevor Booker,202344,Floating Jump Shot,2,6,3,Floating Jump shot,FLOATING_SHOTS,,2018
+Trevor Booker,202344,Hook Shot,2,3,2,Hook Bank Shot,POST_MOVES,,2018
+Trevor Booker,202344,Hook Shot,2,18,8,Hook Shot,POST_MOVES,,2018
+Trevor Booker,202344,Jump Shot,2,2,0,Jump Bank Shot,JUMP_SHOTS,,2018
+Trevor Booker,202344,Jump Shot,2,45,13,Jump Shot,JUMP_SHOTS,,2018
+Trevor Booker,202344,Jump Shot,3,1,1,Jump Shot,JUMP_SHOTS,,2018
+Trevor Booker,202344,Standard Layup,2,53,22,Layup Shot,LAYUPS,,2018
+Trevor Booker,202344,Pullup Jump Shot,2,9,3,Pullup Jump shot,JUMP_SHOTS,,2018
+Trevor Booker,202344,Putback Layup,2,14,10,Putback Layup Shot,LAYUPS,,2018
+Trevor Booker,202344,Reverse Layup,2,4,2,Reverse Layup Shot,LAYUPS,,2018
+Trevor Booker,202344,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2018
+Trevor Booker,202344,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2018
+Trevor Booker,202344,Standard Layup,2,12,10,Running Layup Shot,LAYUPS,,2018
+Trevor Booker,202344,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2018
+Trevor Booker,202344,Step Back Jump Shot,2,4,1,Step Back Jump shot,JUMP_SHOTS,,2018
+Trevor Booker,202344,Specialty Dunk,2,2,2,Tip Dunk Shot,DUNKS,,2018
+Trevor Booker,202344,Putback Layup,2,21,12,Tip Layup Shot,LAYUPS,,2018
+Trevor Booker,202344,Turnaround Hook Shot,2,4,1,Turnaround Bank Hook Shot,POST_MOVES,,2018
+Trevor Booker,202344,Turnaround Jump Shot,2,7,6,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2018
+Trevor Booker,202344,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2018
+Trevor Booker,202344,Turnaround Hook Shot,2,32,12,Turnaround Hook Shot,POST_MOVES,,2018
+Trevor Booker,202344,Turnaround Jump Shot,2,19,9,Turnaround Jump Shot,JUMP_SHOTS,,2018

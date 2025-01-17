@@ -1,72 +1,187 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1629006,Floating Jump Shot,2PT Field Goal,2,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2019
-1629006,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2019
-1629006,Jump Shot,3PT Field Goal,4,1,Jump Shot,JUMP_SHOTS,0.375,2019
-1629006,Standard Layup,2PT Field Goal,2,0,Running Layup Shot,LAYUPS,0.0,2019
-1629006,Floating Jump Shot,2PT Field Goal,2,1,Driving Floating Jump Shot,FLOATING_SHOTS,0.5,2020
-1629006,Driving Layup,2PT Field Goal,2,0,Driving Layup Shot,LAYUPS,0.0,2020
-1629006,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2020
-1629006,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2020
-1629006,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2020
-1629006,Finger Roll,2PT Field Goal,1,1,Running Finger Roll Layup Shot,LAYUPS,1.0,2020
-1629006,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2020
-1629006,Finger Roll,2PT Field Goal,1,0,Driving Finger Roll Layup Shot,LAYUPS,0.0,2021
-1629006,Jump Shot,3PT Field Goal,2,2,Jump Shot,JUMP_SHOTS,1.5,2021
-1629006,Driving Dunk,2PT Field Goal,1,0,Driving Dunk Shot,DUNKS,0.0,2023
-1629006,Floating Jump Shot,2PT Field Goal,2,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2023
-1629006,Driving Layup,2PT Field Goal,2,0,Driving Layup Shot,LAYUPS,0.0,2023
-1629006,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2023
-1629006,Jump Shot,3PT Field Goal,6,3,Jump Shot,JUMP_SHOTS,0.75,2023
-1629006,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2023
-1629006,Pullup Jump Shot,2PT Field Goal,4,2,Pullup Jump shot,JUMP_SHOTS,0.5,2023
-1629006,Pullup Jump Shot,3PT Field Goal,2,1,Pullup Jump shot,JUMP_SHOTS,0.75,2023
-1629006,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2023
-1629006,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2023
-1629006,Step Back Jump Shot,3PT Field Goal,2,2,Step Back Jump shot,JUMP_SHOTS,1.5,2023
-1629006,Specialty Dunk,2PT Field Goal,2,0,Tip Dunk Shot,DUNKS,0.0,2023
-1629006,Putback Layup,2PT Field Goal,1,1,Tip Layup Shot,LAYUPS,1.0,2023
-1629006,Specialty Dunk,2PT Field Goal,4,4,Cutting Dunk Shot,DUNKS,1.0,2024
-1629006,Finger Roll,2PT Field Goal,1,1,Cutting Finger Roll Layup Shot,LAYUPS,1.0,2024
-1629006,Standard Layup,2PT Field Goal,6,4,Cutting Layup Shot,LAYUPS,0.6666666666666666,2024
-1629006,Driving Dunk,2PT Field Goal,3,2,Driving Dunk Shot,DUNKS,0.6666666666666666,2024
-1629006,Finger Roll,2PT Field Goal,5,3,Driving Finger Roll Layup Shot,LAYUPS,0.6,2024
-1629006,Floating Jump Shot,2PT Field Goal,2,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.5,2024
-1629006,Floating Jump Shot,2PT Field Goal,5,2,Driving Floating Jump Shot,FLOATING_SHOTS,0.4,2024
-1629006,Driving Layup,2PT Field Goal,15,3,Driving Layup Shot,LAYUPS,0.2,2024
-1629006,Driving Layup,2PT Field Goal,4,2,Driving Reverse Layup Shot,LAYUPS,0.5,2024
-1629006,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2024
-1629006,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Bank shot,JUMP_SHOTS,1.0,2024
-1629006,Fadeaway Jump Shot,2PT Field Goal,2,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2024
-1629006,Finger Roll,2PT Field Goal,1,0,Finger Roll Layup Shot,LAYUPS,0.0,2024
-1629006,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2024
-1629006,Jump Shot,3PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.5,2024
-1629006,Jump Shot,3PT Field Goal,84,25,Jump Shot,JUMP_SHOTS,0.4464285714285714,2024
-1629006,Standard Layup,2PT Field Goal,6,1,Layup Shot,LAYUPS,0.1666666666666666,2024
-1629006,Pullup Jump Shot,2PT Field Goal,5,2,Pullup Jump shot,JUMP_SHOTS,0.4,2024
-1629006,Pullup Jump Shot,3PT Field Goal,3,2,Pullup Jump shot,JUMP_SHOTS,1.0,2024
-1629006,Putback Layup,2PT Field Goal,3,3,Putback Layup Shot,LAYUPS,1.0,2024
-1629006,Reverse Layup,2PT Field Goal,4,2,Reverse Layup Shot,LAYUPS,0.5,2024
-1629006,Standard Dunk,2PT Field Goal,3,3,Running Dunk Shot,DUNKS,1.0,2024
-1629006,Standard Layup,2PT Field Goal,15,7,Running Layup Shot,LAYUPS,0.4666666666666667,2024
-1629006,Running Jump Shot,3PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2024
-1629006,Specialty Dunk,2PT Field Goal,3,3,Tip Dunk Shot,DUNKS,1.0,2024
-1629006,Putback Layup,2PT Field Goal,16,7,Tip Layup Shot,LAYUPS,0.4375,2024
-1629006,Specialty Dunk,2PT Field Goal,1,0,Cutting Dunk Shot,DUNKS,0.0,2025
-1629006,Standard Layup,2PT Field Goal,3,2,Cutting Layup Shot,LAYUPS,0.6666666666666666,2025
-1629006,Driving Dunk,2PT Field Goal,4,4,Driving Dunk Shot,DUNKS,1.0,2025
-1629006,Finger Roll,2PT Field Goal,5,2,Driving Finger Roll Layup Shot,LAYUPS,0.4,2025
-1629006,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,1.0,2025
-1629006,Floating Jump Shot,2PT Field Goal,5,4,Driving Floating Jump Shot,FLOATING_SHOTS,0.8,2025
-1629006,Driving Layup,2PT Field Goal,20,6,Driving Layup Shot,LAYUPS,0.3,2025
-1629006,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2025
-1629006,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2025
-1629006,Fadeaway Jump Shot,2PT Field Goal,2,2,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2025
-1629006,Jump Shot,3PT Field Goal,35,13,Jump Shot,JUMP_SHOTS,0.5571428571428572,2025
-1629006,Pullup Jump Shot,2PT Field Goal,2,1,Pullup Jump shot,JUMP_SHOTS,0.5,2025
-1629006,Pullup Jump Shot,3PT Field Goal,3,2,Pullup Jump shot,JUMP_SHOTS,1.0,2025
-1629006,Putback Layup,2PT Field Goal,5,3,Putback Layup Shot,LAYUPS,0.6,2025
-1629006,Standard Dunk,2PT Field Goal,5,5,Running Dunk Shot,DUNKS,1.0,2025
-1629006,Running Jump Shot,3PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.75,2025
-1629006,Standard Layup,2PT Field Goal,7,2,Running Layup Shot,LAYUPS,0.2857142857142857,2025
-1629006,Specialty Dunk,2PT Field Goal,3,2,Tip Dunk Shot,DUNKS,0.6666666666666666,2025
-1629006,Putback Layup,2PT Field Goal,3,3,Tip Layup Shot,LAYUPS,1.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Josh Okogie,1629006,Alley Oop Dunk,2,4,4,Alley Oop Dunk Shot,DUNKS,,2019
+Josh Okogie,1629006,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2019
+Josh Okogie,1629006,Specialty Dunk,2,10,9,Cutting Dunk Shot,DUNKS,,2019
+Josh Okogie,1629006,Finger Roll,2,2,2,Cutting Finger Roll Layup Shot,LAYUPS,,2019
+Josh Okogie,1629006,Standard Layup,2,5,4,Cutting Layup Shot,LAYUPS,,2019
+Josh Okogie,1629006,Driving Dunk,2,15,13,Driving Dunk Shot,DUNKS,,2019
+Josh Okogie,1629006,Finger Roll,2,7,3,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Josh Okogie,1629006,Floating Jump Shot,2,8,5,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Josh Okogie,1629006,Floating Jump Shot,2,11,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Josh Okogie,1629006,Driving Layup,2,57,27,Driving Layup Shot,LAYUPS,,2019
+Josh Okogie,1629006,Driving Layup,2,5,3,Driving Reverse Layup Shot,LAYUPS,,2019
+Josh Okogie,1629006,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2019
+Josh Okogie,1629006,Fadeaway Jump Shot,2,6,1,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+Josh Okogie,1629006,Floating Jump Shot,2,5,2,Floating Jump shot,FLOATING_SHOTS,,2019
+Josh Okogie,1629006,Jump Shot,2,3,2,Jump Bank Shot,JUMP_SHOTS,,2019
+Josh Okogie,1629006,Jump Shot,2,201,54,Jump Shot,JUMP_SHOTS,,2019
+Josh Okogie,1629006,Jump Shot,3,25,7,Jump Shot,JUMP_SHOTS,,2019
+Josh Okogie,1629006,Standard Layup,2,25,6,Layup Shot,LAYUPS,,2019
+Josh Okogie,1629006,Pullup Jump Shot,2,49,18,Pullup Jump shot,JUMP_SHOTS,,2019
+Josh Okogie,1629006,Pullup Jump Shot,3,4,0,Pullup Jump shot,JUMP_SHOTS,,2019
+Josh Okogie,1629006,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2019
+Josh Okogie,1629006,Putback Layup,2,3,1,Putback Layup Shot,LAYUPS,,2019
+Josh Okogie,1629006,Reverse Layup,2,10,5,Reverse Layup Shot,LAYUPS,,2019
+Josh Okogie,1629006,Standard Dunk,2,7,7,Running Dunk Shot,DUNKS,,2019
+Josh Okogie,1629006,Finger Roll,2,2,1,Running Finger Roll Layup Shot,LAYUPS,,2019
+Josh Okogie,1629006,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2019
+Josh Okogie,1629006,Standard Layup,2,17,8,Running Layup Shot,LAYUPS,,2019
+Josh Okogie,1629006,Step Back Jump Shot,2,4,1,Step Back Jump shot,JUMP_SHOTS,,2019
+Josh Okogie,1629006,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2019
+Josh Okogie,1629006,Specialty Dunk,2,2,2,Tip Dunk Shot,DUNKS,,2019
+Josh Okogie,1629006,Putback Layup,2,11,3,Tip Layup Shot,LAYUPS,,2019
+Josh Okogie,1629006,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2019
+Josh Okogie,1629006,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2019
+Josh Okogie,1629006,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2020
+Josh Okogie,1629006,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2020
+Josh Okogie,1629006,Specialty Dunk,2,11,8,Cutting Dunk Shot,DUNKS,,2020
+Josh Okogie,1629006,Standard Layup,2,14,9,Cutting Layup Shot,LAYUPS,,2020
+Josh Okogie,1629006,Driving Dunk,2,9,8,Driving Dunk Shot,DUNKS,,2020
+Josh Okogie,1629006,Finger Roll,2,9,5,Driving Finger Roll Layup Shot,LAYUPS,,2020
+Josh Okogie,1629006,Floating Jump Shot,2,5,3,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2020
+Josh Okogie,1629006,Floating Jump Shot,2,16,8,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Josh Okogie,1629006,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2020
+Josh Okogie,1629006,Driving Layup,2,51,21,Driving Layup Shot,LAYUPS,,2020
+Josh Okogie,1629006,Driving Layup,2,15,9,Driving Reverse Layup Shot,LAYUPS,,2020
+Josh Okogie,1629006,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2020
+Josh Okogie,1629006,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+Josh Okogie,1629006,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2020
+Josh Okogie,1629006,Floating Jump Shot,2,4,0,Floating Jump shot,FLOATING_SHOTS,,2020
+Josh Okogie,1629006,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2020
+Josh Okogie,1629006,Jump Shot,2,127,36,Jump Shot,JUMP_SHOTS,,2020
+Josh Okogie,1629006,Jump Shot,3,21,2,Jump Shot,JUMP_SHOTS,,2020
+Josh Okogie,1629006,Standard Layup,2,25,13,Layup Shot,LAYUPS,,2020
+Josh Okogie,1629006,Pullup Jump Shot,2,13,5,Pullup Jump shot,JUMP_SHOTS,,2020
+Josh Okogie,1629006,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2020
+Josh Okogie,1629006,Putback Layup,2,6,5,Putback Layup Shot,LAYUPS,,2020
+Josh Okogie,1629006,Reverse Layup,2,7,4,Reverse Layup Shot,LAYUPS,,2020
+Josh Okogie,1629006,Standard Dunk,2,9,9,Running Dunk Shot,DUNKS,,2020
+Josh Okogie,1629006,Finger Roll,2,5,2,Running Finger Roll Layup Shot,LAYUPS,,2020
+Josh Okogie,1629006,Running Jump Shot,2,3,0,Running Jump Shot,JUMP_SHOTS,,2020
+Josh Okogie,1629006,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2020
+Josh Okogie,1629006,Standard Layup,2,10,6,Running Layup Shot,LAYUPS,,2020
+Josh Okogie,1629006,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2020
+Josh Okogie,1629006,Step Back Jump Shot,2,7,1,Step Back Jump shot,JUMP_SHOTS,,2020
+Josh Okogie,1629006,Specialty Dunk,2,2,2,Tip Dunk Shot,DUNKS,,2020
+Josh Okogie,1629006,Putback Layup,2,18,8,Tip Layup Shot,LAYUPS,,2020
+Josh Okogie,1629006,Specialty Dunk,2,9,7,Cutting Dunk Shot,DUNKS,,2021
+Josh Okogie,1629006,Finger Roll,2,2,2,Cutting Finger Roll Layup Shot,LAYUPS,,2021
+Josh Okogie,1629006,Standard Layup,2,8,5,Cutting Layup Shot,LAYUPS,,2021
+Josh Okogie,1629006,Driving Dunk,2,3,2,Driving Dunk Shot,DUNKS,,2021
+Josh Okogie,1629006,Finger Roll,2,5,3,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Josh Okogie,1629006,Floating Jump Shot,2,1,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Josh Okogie,1629006,Driving Layup,2,31,9,Driving Layup Shot,LAYUPS,,2021
+Josh Okogie,1629006,Driving Layup,2,5,2,Driving Reverse Layup Shot,LAYUPS,,2021
+Josh Okogie,1629006,Finger Roll,2,2,0,Finger Roll Layup Shot,LAYUPS,,2021
+Josh Okogie,1629006,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2021
+Josh Okogie,1629006,Jump Shot,2,92,22,Jump Shot,JUMP_SHOTS,,2021
+Josh Okogie,1629006,Jump Shot,3,10,4,Jump Shot,JUMP_SHOTS,,2021
+Josh Okogie,1629006,Standard Layup,2,13,3,Layup Shot,LAYUPS,,2021
+Josh Okogie,1629006,Pullup Jump Shot,2,6,2,Pullup Jump shot,JUMP_SHOTS,,2021
+Josh Okogie,1629006,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2021
+Josh Okogie,1629006,Putback Layup,2,4,3,Putback Layup Shot,LAYUPS,,2021
+Josh Okogie,1629006,Reverse Layup,2,8,5,Reverse Layup Shot,LAYUPS,,2021
+Josh Okogie,1629006,Standard Dunk,2,6,5,Running Dunk Shot,DUNKS,,2021
+Josh Okogie,1629006,Finger Roll,2,3,2,Running Finger Roll Layup Shot,LAYUPS,,2021
+Josh Okogie,1629006,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2021
+Josh Okogie,1629006,Standard Layup,2,12,9,Running Layup Shot,LAYUPS,,2021
+Josh Okogie,1629006,Step Back Jump Shot,2,9,1,Step Back Jump shot,JUMP_SHOTS,,2021
+Josh Okogie,1629006,Specialty Dunk,2,3,1,Tip Dunk Shot,DUNKS,,2021
+Josh Okogie,1629006,Putback Layup,2,15,12,Tip Layup Shot,LAYUPS,,2021
+Josh Okogie,1629006,Turnaround Jump Shot,2,3,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2021
+Josh Okogie,1629006,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2021
+Josh Okogie,1629006,Specialty Dunk,2,6,5,Cutting Dunk Shot,DUNKS,,2022
+Josh Okogie,1629006,Driving Dunk,2,4,2,Driving Dunk Shot,DUNKS,,2022
+Josh Okogie,1629006,Finger Roll,2,3,1,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Josh Okogie,1629006,Floating Jump Shot,2,2,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Josh Okogie,1629006,Driving Layup,2,12,3,Driving Layup Shot,LAYUPS,,2022
+Josh Okogie,1629006,Driving Layup,2,5,1,Driving Reverse Layup Shot,LAYUPS,,2022
+Josh Okogie,1629006,Jump Shot,2,46,11,Jump Shot,JUMP_SHOTS,,2022
+Josh Okogie,1629006,Jump Shot,3,1,1,Jump Shot,JUMP_SHOTS,,2022
+Josh Okogie,1629006,Standard Layup,2,3,1,Layup Shot,LAYUPS,,2022
+Josh Okogie,1629006,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2022
+Josh Okogie,1629006,Putback Layup,2,4,2,Putback Layup Shot,LAYUPS,,2022
+Josh Okogie,1629006,Reverse Layup,2,4,2,Reverse Layup Shot,LAYUPS,,2022
+Josh Okogie,1629006,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2022
+Josh Okogie,1629006,Finger Roll,2,2,2,Running Finger Roll Layup Shot,LAYUPS,,2022
+Josh Okogie,1629006,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2022
+Josh Okogie,1629006,Standard Layup,2,3,3,Running Layup Shot,LAYUPS,,2022
+Josh Okogie,1629006,Step Back Jump Shot,2,1,1,Step Back Bank Jump Shot,JUMP_SHOTS,,2022
+Josh Okogie,1629006,Putback Layup,2,3,1,Tip Layup Shot,LAYUPS,,2022
+Josh Okogie,1629006,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2022
+Josh Okogie,1629006,Specialty Dunk,2,3,3,Cutting Dunk Shot,DUNKS,,2023
+Josh Okogie,1629006,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2023
+Josh Okogie,1629006,Standard Layup,2,4,2,Cutting Layup Shot,LAYUPS,,2023
+Josh Okogie,1629006,Driving Dunk,2,7,4,Driving Dunk Shot,DUNKS,,2023
+Josh Okogie,1629006,Finger Roll,2,9,4,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Josh Okogie,1629006,Floating Jump Shot,2,6,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+Josh Okogie,1629006,Floating Jump Shot,2,17,6,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Josh Okogie,1629006,Driving Layup,2,28,6,Driving Layup Shot,LAYUPS,,2023
+Josh Okogie,1629006,Driving Layup,2,7,4,Driving Reverse Layup Shot,LAYUPS,,2023
+Josh Okogie,1629006,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,2023
+Josh Okogie,1629006,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2023
+Josh Okogie,1629006,Fadeaway Jump Shot,2,6,1,Fadeaway Jump Shot,JUMP_SHOTS,,2023
+Josh Okogie,1629006,Floating Jump Shot,2,4,1,Floating Jump shot,FLOATING_SHOTS,,2023
+Josh Okogie,1629006,Jump Shot,2,165,56,Jump Shot,JUMP_SHOTS,,2023
+Josh Okogie,1629006,Jump Shot,3,6,3,Jump Shot,JUMP_SHOTS,,2023
+Josh Okogie,1629006,Standard Layup,2,6,4,Layup Shot,LAYUPS,,2023
+Josh Okogie,1629006,Pullup Jump Shot,2,33,11,Pullup Jump shot,JUMP_SHOTS,,2023
+Josh Okogie,1629006,Pullup Jump Shot,3,2,1,Pullup Jump shot,JUMP_SHOTS,,2023
+Josh Okogie,1629006,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2023
+Josh Okogie,1629006,Putback Layup,2,7,3,Putback Layup Shot,LAYUPS,,2023
+Josh Okogie,1629006,Standard Dunk,2,16,13,Running Dunk Shot,DUNKS,,2023
+Josh Okogie,1629006,Finger Roll,2,5,4,Running Finger Roll Layup Shot,LAYUPS,,2023
+Josh Okogie,1629006,Running Jump Shot,2,5,2,Running Jump Shot,JUMP_SHOTS,,2023
+Josh Okogie,1629006,Standard Layup,2,20,5,Running Layup Shot,LAYUPS,,2023
+Josh Okogie,1629006,Running Jump Shot,2,2,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2023
+Josh Okogie,1629006,Step Back Jump Shot,2,14,3,Step Back Jump shot,JUMP_SHOTS,,2023
+Josh Okogie,1629006,Step Back Jump Shot,3,2,2,Step Back Jump shot,JUMP_SHOTS,,2023
+Josh Okogie,1629006,Specialty Dunk,2,7,3,Tip Dunk Shot,DUNKS,,2023
+Josh Okogie,1629006,Putback Layup,2,26,14,Tip Layup Shot,LAYUPS,,2023
+Josh Okogie,1629006,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2023
+Josh Okogie,1629006,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2023
+Josh Okogie,1629006,Specialty Dunk,2,4,4,Cutting Dunk Shot,DUNKS,,2024
+Josh Okogie,1629006,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2024
+Josh Okogie,1629006,Standard Layup,2,6,4,Cutting Layup Shot,LAYUPS,,2024
+Josh Okogie,1629006,Driving Dunk,2,3,2,Driving Dunk Shot,DUNKS,,2024
+Josh Okogie,1629006,Finger Roll,2,5,3,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Josh Okogie,1629006,Floating Jump Shot,2,2,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Josh Okogie,1629006,Floating Jump Shot,2,6,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Josh Okogie,1629006,Driving Layup,2,17,4,Driving Layup Shot,LAYUPS,,2024
+Josh Okogie,1629006,Driving Layup,2,4,2,Driving Reverse Layup Shot,LAYUPS,,2024
+Josh Okogie,1629006,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2024
+Josh Okogie,1629006,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2024
+Josh Okogie,1629006,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Josh Okogie,1629006,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2024
+Josh Okogie,1629006,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2024
+Josh Okogie,1629006,Jump Shot,3,1,1,Jump Bank Shot,JUMP_SHOTS,,2024
+Josh Okogie,1629006,Jump Shot,3,89,26,Jump Shot,JUMP_SHOTS,,2024
+Josh Okogie,1629006,Standard Layup,2,7,2,Layup Shot,LAYUPS,,2024
+Josh Okogie,1629006,Pullup Jump Shot,2,5,2,Pullup Jump shot,JUMP_SHOTS,,2024
+Josh Okogie,1629006,Pullup Jump Shot,3,3,2,Pullup Jump shot,JUMP_SHOTS,,2024
+Josh Okogie,1629006,Putback Layup,2,4,4,Putback Layup Shot,LAYUPS,,2024
+Josh Okogie,1629006,Reverse Layup,2,4,2,Reverse Layup Shot,LAYUPS,,2024
+Josh Okogie,1629006,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2024
+Josh Okogie,1629006,Standard Layup,2,16,8,Running Layup Shot,LAYUPS,,2024
+Josh Okogie,1629006,Running Jump Shot,3,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Josh Okogie,1629006,Specialty Dunk,2,3,3,Tip Dunk Shot,DUNKS,,2024
+Josh Okogie,1629006,Putback Layup,2,16,7,Tip Layup Shot,LAYUPS,,2024
+Josh Okogie,1629006,Specialty Dunk,2,1,0,Cutting Dunk Shot,DUNKS,,2025
+Josh Okogie,1629006,Standard Layup,2,4,3,Cutting Layup Shot,LAYUPS,,2025
+Josh Okogie,1629006,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2025
+Josh Okogie,1629006,Finger Roll,2,5,2,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Josh Okogie,1629006,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2025
+Josh Okogie,1629006,Floating Jump Shot,2,5,4,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Josh Okogie,1629006,Driving Layup,2,22,7,Driving Layup Shot,LAYUPS,,2025
+Josh Okogie,1629006,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2025
+Josh Okogie,1629006,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2025
+Josh Okogie,1629006,Fadeaway Jump Shot,2,2,2,Fadeaway Jump Shot,JUMP_SHOTS,,2025
+Josh Okogie,1629006,Jump Shot,3,37,13,Jump Shot,JUMP_SHOTS,,2025
+Josh Okogie,1629006,Pullup Jump Shot,2,2,1,Pullup Jump shot,JUMP_SHOTS,,2025
+Josh Okogie,1629006,Pullup Jump Shot,3,3,2,Pullup Jump shot,JUMP_SHOTS,,2025
+Josh Okogie,1629006,Putback Layup,2,5,3,Putback Layup Shot,LAYUPS,,2025
+Josh Okogie,1629006,Standard Dunk,2,5,5,Running Dunk Shot,DUNKS,,2025
+Josh Okogie,1629006,Running Jump Shot,3,2,1,Running Jump Shot,JUMP_SHOTS,,2025
+Josh Okogie,1629006,Standard Layup,2,7,2,Running Layup Shot,LAYUPS,,2025
+Josh Okogie,1629006,Specialty Dunk,2,4,2,Tip Dunk Shot,DUNKS,,2025
+Josh Okogie,1629006,Putback Layup,2,3,3,Tip Layup Shot,LAYUPS,,2025

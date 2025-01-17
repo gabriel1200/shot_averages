@@ -1,8 +1,49 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1627835,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2017
-1627835,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2017
-1627835,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2017
-1627835,Jump Shot,2PT Field Goal,4,0,Jump Shot,JUMP_SHOTS,0.0,2017
-1627835,Jump Shot,3PT Field Goal,7,3,Jump Shot,JUMP_SHOTS,0.6428571428571429,2017
-1627835,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2017
-1627835,Pullup Jump Shot,2PT Field Goal,2,2,Pullup Jump shot,JUMP_SHOTS,1.0,2017
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Paul Zipser,1627835,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2017
+Paul Zipser,1627835,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2017
+Paul Zipser,1627835,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2017
+Paul Zipser,1627835,Standard Layup,2,7,5,Cutting Layup Shot,LAYUPS,,2017
+Paul Zipser,1627835,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2017
+Paul Zipser,1627835,Finger Roll,2,4,3,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Paul Zipser,1627835,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2017
+Paul Zipser,1627835,Floating Jump Shot,2,6,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Paul Zipser,1627835,Driving Layup,2,17,11,Driving Layup Shot,LAYUPS,,2017
+Paul Zipser,1627835,Driving Layup,2,2,0,Driving Reverse Layup Shot,LAYUPS,,2017
+Paul Zipser,1627835,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2017
+Paul Zipser,1627835,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2017
+Paul Zipser,1627835,Floating Jump Shot,2,2,0,Floating Jump shot,FLOATING_SHOTS,,2017
+Paul Zipser,1627835,Jump Shot,2,105,32,Jump Shot,JUMP_SHOTS,,2017
+Paul Zipser,1627835,Jump Shot,3,33,11,Jump Shot,JUMP_SHOTS,,2017
+Paul Zipser,1627835,Standard Layup,2,13,3,Layup Shot,LAYUPS,,2017
+Paul Zipser,1627835,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2017
+Paul Zipser,1627835,Pullup Jump Shot,2,15,8,Pullup Jump shot,JUMP_SHOTS,,2017
+Paul Zipser,1627835,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2017
+Paul Zipser,1627835,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2017
+Paul Zipser,1627835,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2017
+Paul Zipser,1627835,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2017
+Paul Zipser,1627835,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Paul Zipser,1627835,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2018
+Paul Zipser,1627835,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2018
+Paul Zipser,1627835,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2018
+Paul Zipser,1627835,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2018
+Paul Zipser,1627835,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2018
+Paul Zipser,1627835,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Paul Zipser,1627835,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Paul Zipser,1627835,Floating Jump Shot,2,8,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Paul Zipser,1627835,Driving Layup,2,7,3,Driving Layup Shot,LAYUPS,,2018
+Paul Zipser,1627835,Driving Layup,2,4,3,Driving Reverse Layup Shot,LAYUPS,,2018
+Paul Zipser,1627835,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2018
+Paul Zipser,1627835,Fadeaway Jump Shot,2,3,1,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+Paul Zipser,1627835,Floating Jump Shot,2,5,2,Floating Jump shot,FLOATING_SHOTS,,2018
+Paul Zipser,1627835,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2018
+Paul Zipser,1627835,Jump Shot,2,151,46,Jump Shot,JUMP_SHOTS,,2018
+Paul Zipser,1627835,Standard Layup,2,12,4,Layup Shot,LAYUPS,,2018
+Paul Zipser,1627835,Pullup Jump Shot,2,19,5,Pullup Jump shot,JUMP_SHOTS,,2018
+Paul Zipser,1627835,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2018
+Paul Zipser,1627835,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2018
+Paul Zipser,1627835,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2018
+Paul Zipser,1627835,Finger Roll,2,1,0,Running Finger Roll Layup Shot,LAYUPS,,2018
+Paul Zipser,1627835,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2018
+Paul Zipser,1627835,Step Back Jump Shot,2,3,0,Step Back Jump shot,JUMP_SHOTS,,2018
+Paul Zipser,1627835,Putback Layup,2,1,1,Tip Layup Shot,LAYUPS,,2018
+Paul Zipser,1627835,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2018

@@ -1,9 +1,208 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-2732,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2005
-2732,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2006
-2732,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2006
-2732,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2006
-2732,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2006
-2732,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2006
-2732,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2006
-2732,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2008
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Ben Gordon,2732,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2005
+Ben Gordon,2732,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2005
+Ben Gordon,2732,Finger Roll,2,4,4,Driving Finger Roll Shot,LAYUPS,,2005
+Ben Gordon,2732,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2005
+Ben Gordon,2732,Driving Layup,2,36,28,Driving Layup Shot,LAYUPS,,2005
+Ben Gordon,2732,Standard Dunk,2,4,2,Dunk Shot,DUNKS,,2005
+Ben Gordon,2732,Fadeaway Jump Shot,2,6,6,Fadeaway Jump Shot,JUMP_SHOTS,,2005
+Ben Gordon,2732,Finger Roll,2,2,2,Finger Roll Shot,LAYUPS,,2005
+Ben Gordon,2732,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2005
+Ben Gordon,2732,Jump Shot,2,6,5,Jump Bank Shot,JUMP_SHOTS,,2005
+Ben Gordon,2732,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2005
+Ben Gordon,2732,Jump Shot,2,784,295,Jump Shot,JUMP_SHOTS,,2005
+Ben Gordon,2732,Jump Shot,3,3,2,Jump Shot,JUMP_SHOTS,,2005
+Ben Gordon,2732,Standard Layup,2,119,25,Layup Shot,LAYUPS,,2005
+Ben Gordon,2732,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2005
+Ben Gordon,2732,Finger Roll,2,4,3,Running Finger Roll Shot,LAYUPS,,2005
+Ben Gordon,2732,Running Hook Shot,2,4,3,Running Hook Shot,POST_MOVES,,2005
+Ben Gordon,2732,Running Jump Shot,2,60,39,Running Jump Shot,JUMP_SHOTS,,2005
+Ben Gordon,2732,Standard Layup,2,7,6,Running Layup Shot,LAYUPS,,2005
+Ben Gordon,2732,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,,2005
+Ben Gordon,2732,Turnaround Jump Shot,2,6,6,Turnaround Jump Shot,JUMP_SHOTS,,2005
+Ben Gordon,2732,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2006
+Ben Gordon,2732,Driving Layup,2,46,39,Driving Layup Shot,LAYUPS,,2006
+Ben Gordon,2732,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2006
+Ben Gordon,2732,Fadeaway Jump Shot,2,7,4,Fadeaway Jump Shot,JUMP_SHOTS,,2006
+Ben Gordon,2732,Jump Shot,2,11,9,Jump Bank Shot,JUMP_SHOTS,,2006
+Ben Gordon,2732,Jump Shot,2,887,353,Jump Shot,JUMP_SHOTS,,2006
+Ben Gordon,2732,Jump Shot,3,3,0,Jump Shot,JUMP_SHOTS,,2006
+Ben Gordon,2732,Standard Layup,2,118,22,Layup Shot,LAYUPS,,2006
+Ben Gordon,2732,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2006
+Ben Gordon,2732,Reverse Layup,2,16,12,Reverse Layup Shot,LAYUPS,,2006
+Ben Gordon,2732,Finger Roll,2,3,3,Running Finger Roll Shot,LAYUPS,,2006
+Ben Gordon,2732,Running Hook Shot,2,2,2,Running Hook Shot,POST_MOVES,,2006
+Ben Gordon,2732,Running Jump Shot,2,42,26,Running Jump Shot,JUMP_SHOTS,,2006
+Ben Gordon,2732,Standard Layup,2,10,10,Running Layup Shot,LAYUPS,,2006
+Ben Gordon,2732,Turnaround Jump Shot,2,3,2,Turnaround Jump Shot,JUMP_SHOTS,,2006
+Ben Gordon,2732,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2007
+Ben Gordon,2732,Finger Roll,2,2,2,Driving Finger Roll Shot,LAYUPS,,2007
+Ben Gordon,2732,Driving Layup,2,60,42,Driving Layup Shot,LAYUPS,,2007
+Ben Gordon,2732,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2007
+Ben Gordon,2732,Fadeaway Jump Shot,2,26,19,Fadeaway Jump Shot,JUMP_SHOTS,,2007
+Ben Gordon,2732,Jump Shot,2,11,9,Jump Bank Shot,JUMP_SHOTS,,2007
+Ben Gordon,2732,Jump Shot,2,1053,444,Jump Shot,JUMP_SHOTS,,2007
+Ben Gordon,2732,Standard Layup,2,114,39,Layup Shot,LAYUPS,,2007
+Ben Gordon,2732,Reverse Layup,2,14,12,Reverse Layup Shot,LAYUPS,,2007
+Ben Gordon,2732,Running Jump Shot,2,39,30,Running Jump Shot,JUMP_SHOTS,,2007
+Ben Gordon,2732,Standard Layup,2,5,3,Running Layup Shot,LAYUPS,,2007
+Ben Gordon,2732,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2007
+Ben Gordon,2732,Turnaround Jump Shot,2,9,5,Turnaround Jump Shot,JUMP_SHOTS,,2007
+Ben Gordon,2732,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2008
+Ben Gordon,2732,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2008
+Ben Gordon,2732,Driving Jump Shot,2,1,1,Driving Jump shot,JUMP_SHOTS,,2008
+Ben Gordon,2732,Driving Layup,2,49,29,Driving Layup Shot,LAYUPS,,2008
+Ben Gordon,2732,Driving Layup,2,3,3,Driving Reverse Layup Shot,LAYUPS,,2008
+Ben Gordon,2732,Standard Dunk,2,3,2,Dunk Shot,DUNKS,,2008
+Ben Gordon,2732,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2008
+Ben Gordon,2732,Fadeaway Jump Shot,2,20,14,Fadeaway Jump Shot,JUMP_SHOTS,,2008
+Ben Gordon,2732,Floating Jump Shot,2,15,12,Floating Jump shot,FLOATING_SHOTS,,2008
+Ben Gordon,2732,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2008
+Ben Gordon,2732,Jump Shot,2,8,6,Jump Bank Shot,JUMP_SHOTS,,2008
+Ben Gordon,2732,Jump Shot,2,804,309,Jump Shot,JUMP_SHOTS,,2008
+Ben Gordon,2732,Jump Shot,3,1,1,Jump Shot,JUMP_SHOTS,,2008
+Ben Gordon,2732,Standard Layup,2,82,25,Layup Shot,LAYUPS,,2008
+Ben Gordon,2732,Pullup Jump Shot,2,19,16,Pullup Jump shot,JUMP_SHOTS,,2008
+Ben Gordon,2732,Reverse Layup,2,10,7,Reverse Layup Shot,LAYUPS,,2008
+Ben Gordon,2732,Running Jump Shot,2,3,3,Running Bank shot,JUMP_SHOTS,,2008
+Ben Gordon,2732,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2008
+Ben Gordon,2732,Running Jump Shot,2,26,17,Running Jump Shot,JUMP_SHOTS,,2008
+Ben Gordon,2732,Standard Layup,2,9,7,Running Layup Shot,LAYUPS,,2008
+Ben Gordon,2732,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2008
+Ben Gordon,2732,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2008
+Ben Gordon,2732,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2008
+Ben Gordon,2732,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2008
+Ben Gordon,2732,Turnaround Jump Shot,2,7,6,Turnaround Jump Shot,JUMP_SHOTS,,2008
+Ben Gordon,2732,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2009
+Ben Gordon,2732,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2009
+Ben Gordon,2732,Finger Roll,2,5,4,Driving Finger Roll Layup Shot,LAYUPS,,2009
+Ben Gordon,2732,Driving Jump Shot,2,4,0,Driving Jump shot,JUMP_SHOTS,,2009
+Ben Gordon,2732,Driving Layup,2,83,57,Driving Layup Shot,LAYUPS,,2009
+Ben Gordon,2732,Driving Layup,2,4,3,Driving Reverse Layup Shot,LAYUPS,,2009
+Ben Gordon,2732,Standard Dunk,2,6,6,Dunk Shot,DUNKS,,2009
+Ben Gordon,2732,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2009
+Ben Gordon,2732,Fadeaway Jump Shot,2,17,9,Fadeaway Jump Shot,JUMP_SHOTS,,2009
+Ben Gordon,2732,Finger Roll,2,3,1,Finger Roll Layup Shot,LAYUPS,,2009
+Ben Gordon,2732,Floating Jump Shot,2,16,12,Floating Jump shot,FLOATING_SHOTS,,2009
+Ben Gordon,2732,Jump Shot,2,16,10,Jump Bank Shot,JUMP_SHOTS,,2009
+Ben Gordon,2732,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2009
+Ben Gordon,2732,Jump Shot,2,901,361,Jump Shot,JUMP_SHOTS,,2009
+Ben Gordon,2732,Standard Layup,2,128,43,Layup Shot,LAYUPS,,2009
+Ben Gordon,2732,Pullup Jump Shot,2,2,1,Pullup Bank shot,JUMP_SHOTS,,2009
+Ben Gordon,2732,Pullup Jump Shot,2,34,25,Pullup Jump shot,JUMP_SHOTS,,2009
+Ben Gordon,2732,Reverse Layup,2,12,10,Reverse Layup Shot,LAYUPS,,2009
+Ben Gordon,2732,Running Jump Shot,2,11,10,Running Bank shot,JUMP_SHOTS,,2009
+Ben Gordon,2732,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2009
+Ben Gordon,2732,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2009
+Ben Gordon,2732,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2009
+Ben Gordon,2732,Running Jump Shot,2,38,24,Running Jump Shot,JUMP_SHOTS,,2009
+Ben Gordon,2732,Standard Layup,2,17,11,Running Layup Shot,LAYUPS,,2009
+Ben Gordon,2732,Tip Shot,2,1,1,Running Tip Shot,TIP_SHOTS,,2009
+Ben Gordon,2732,Step Back Jump Shot,2,4,1,Step Back Jump shot,JUMP_SHOTS,,2009
+Ben Gordon,2732,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2009
+Ben Gordon,2732,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2009
+Ben Gordon,2732,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2010
+Ben Gordon,2732,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2010
+Ben Gordon,2732,Driving Jump Shot,2,2,0,Driving Jump shot,JUMP_SHOTS,,2010
+Ben Gordon,2732,Driving Layup,2,49,35,Driving Layup Shot,LAYUPS,,2010
+Ben Gordon,2732,Driving Layup,2,4,4,Driving Reverse Layup Shot,LAYUPS,,2010
+Ben Gordon,2732,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,2010
+Ben Gordon,2732,Fadeaway Jump Shot,2,19,7,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+Ben Gordon,2732,Finger Roll,2,2,1,Finger Roll Layup Shot,LAYUPS,,2010
+Ben Gordon,2732,Floating Jump Shot,2,20,15,Floating Jump shot,FLOATING_SHOTS,,2010
+Ben Gordon,2732,Jump Shot,2,8,1,Jump Bank Shot,JUMP_SHOTS,,2010
+Ben Gordon,2732,Jump Shot,2,454,158,Jump Shot,JUMP_SHOTS,,2010
+Ben Gordon,2732,Standard Layup,2,52,13,Layup Shot,LAYUPS,,2010
+Ben Gordon,2732,Pullup Jump Shot,2,4,4,Pullup Bank shot,JUMP_SHOTS,,2010
+Ben Gordon,2732,Pullup Jump Shot,2,23,17,Pullup Jump shot,JUMP_SHOTS,,2010
+Ben Gordon,2732,Reverse Layup,2,4,1,Reverse Layup Shot,LAYUPS,,2010
+Ben Gordon,2732,Running Jump Shot,2,12,9,Running Bank shot,JUMP_SHOTS,,2010
+Ben Gordon,2732,Running Jump Shot,2,34,18,Running Jump Shot,JUMP_SHOTS,,2010
+Ben Gordon,2732,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2010
+Ben Gordon,2732,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2010
+Ben Gordon,2732,Step Back Jump Shot,2,3,2,Step Back Jump shot,JUMP_SHOTS,,2010
+Ben Gordon,2732,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2010
+Ben Gordon,2732,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2011
+Ben Gordon,2732,Driving Layup,2,35,28,Driving Layup Shot,LAYUPS,,2011
+Ben Gordon,2732,Driving Layup,2,6,6,Driving Reverse Layup Shot,LAYUPS,,2011
+Ben Gordon,2732,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2011
+Ben Gordon,2732,Fadeaway Jump Shot,2,13,7,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Ben Gordon,2732,Finger Roll,2,3,1,Finger Roll Layup Shot,LAYUPS,,2011
+Ben Gordon,2732,Floating Jump Shot,2,18,13,Floating Jump shot,FLOATING_SHOTS,,2011
+Ben Gordon,2732,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2011
+Ben Gordon,2732,Jump Shot,2,6,4,Jump Bank Shot,JUMP_SHOTS,,2011
+Ben Gordon,2732,Jump Shot,2,558,210,Jump Shot,JUMP_SHOTS,,2011
+Ben Gordon,2732,Standard Layup,2,52,15,Layup Shot,LAYUPS,,2011
+Ben Gordon,2732,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2011
+Ben Gordon,2732,Pullup Jump Shot,2,29,20,Pullup Jump shot,JUMP_SHOTS,,2011
+Ben Gordon,2732,Reverse Layup,2,12,9,Reverse Layup Shot,LAYUPS,,2011
+Ben Gordon,2732,Running Jump Shot,2,3,3,Running Bank shot,JUMP_SHOTS,,2011
+Ben Gordon,2732,Running Jump Shot,2,10,5,Running Jump Shot,JUMP_SHOTS,,2011
+Ben Gordon,2732,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2011
+Ben Gordon,2732,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2011
+Ben Gordon,2732,Step Back Jump Shot,2,9,7,Step Back Jump shot,JUMP_SHOTS,,2011
+Ben Gordon,2732,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,,2011
+Ben Gordon,2732,Turnaround Jump Shot,2,4,2,Turnaround Jump Shot,JUMP_SHOTS,,2011
+Ben Gordon,2732,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2012
+Ben Gordon,2732,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2012
+Ben Gordon,2732,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2012
+Ben Gordon,2732,Driving Layup,2,18,15,Driving Layup Shot,LAYUPS,,2012
+Ben Gordon,2732,Driving Layup,2,6,6,Driving Reverse Layup Shot,LAYUPS,,2012
+Ben Gordon,2732,Fadeaway Jump Shot,2,8,4,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Ben Gordon,2732,Floating Jump Shot,2,12,5,Floating Jump shot,FLOATING_SHOTS,,2012
+Ben Gordon,2732,Jump Shot,2,3,1,Jump Bank Shot,JUMP_SHOTS,,2012
+Ben Gordon,2732,Jump Shot,2,378,150,Jump Shot,JUMP_SHOTS,,2012
+Ben Gordon,2732,Standard Layup,2,37,10,Layup Shot,LAYUPS,,2012
+Ben Gordon,2732,Pullup Jump Shot,2,31,26,Pullup Jump shot,JUMP_SHOTS,,2012
+Ben Gordon,2732,Reverse Layup,2,5,0,Reverse Layup Shot,LAYUPS,,2012
+Ben Gordon,2732,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2012
+Ben Gordon,2732,Running Jump Shot,2,24,11,Running Jump Shot,JUMP_SHOTS,,2012
+Ben Gordon,2732,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2012
+Ben Gordon,2732,Step Back Jump Shot,2,2,2,Step Back Jump shot,JUMP_SHOTS,,2012
+Ben Gordon,2732,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2013
+Ben Gordon,2732,Driving Jump Shot,2,15,5,Driving Jump shot,JUMP_SHOTS,,2013
+Ben Gordon,2732,Driving Layup,2,61,39,Driving Layup Shot,LAYUPS,,2013
+Ben Gordon,2732,Driving Layup,2,7,1,Driving Reverse Layup Shot,LAYUPS,,2013
+Ben Gordon,2732,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2013
+Ben Gordon,2732,Fadeaway Jump Shot,2,6,2,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Ben Gordon,2732,Floating Jump Shot,2,19,11,Floating Jump shot,FLOATING_SHOTS,,2013
+Ben Gordon,2732,Jump Shot,2,6,6,Jump Bank Shot,JUMP_SHOTS,,2013
+Ben Gordon,2732,Jump Shot,2,521,186,Jump Shot,JUMP_SHOTS,,2013
+Ben Gordon,2732,Standard Layup,2,54,24,Layup Shot,LAYUPS,,2013
+Ben Gordon,2732,Pullup Jump Shot,2,24,9,Pullup Jump shot,JUMP_SHOTS,,2013
+Ben Gordon,2732,Reverse Layup,2,6,6,Reverse Layup Shot,LAYUPS,,2013
+Ben Gordon,2732,Running Jump Shot,2,3,2,Running Bank shot,JUMP_SHOTS,,2013
+Ben Gordon,2732,Running Jump Shot,2,12,6,Running Jump Shot,JUMP_SHOTS,,2013
+Ben Gordon,2732,Standard Layup,2,6,4,Running Layup Shot,LAYUPS,,2013
+Ben Gordon,2732,Step Back Jump Shot,2,13,4,Step Back Jump shot,JUMP_SHOTS,,2013
+Ben Gordon,2732,Turnaround Jump Shot,2,5,4,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Ben Gordon,2732,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2014
+Ben Gordon,2732,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2014
+Ben Gordon,2732,Driving Jump Shot,2,2,2,Driving Jump shot,JUMP_SHOTS,,2014
+Ben Gordon,2732,Driving Layup,2,3,2,Driving Layup Shot,LAYUPS,,2014
+Ben Gordon,2732,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2014
+Ben Gordon,2732,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2014
+Ben Gordon,2732,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2014
+Ben Gordon,2732,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2014
+Ben Gordon,2732,Jump Shot,2,75,18,Jump Shot,JUMP_SHOTS,,2014
+Ben Gordon,2732,Standard Layup,2,11,4,Layup Shot,LAYUPS,,2014
+Ben Gordon,2732,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2014
+Ben Gordon,2732,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2014
+Ben Gordon,2732,Running Jump Shot,2,3,0,Running Jump Shot,JUMP_SHOTS,,2014
+Ben Gordon,2732,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2014
+Ben Gordon,2732,Driving Jump Shot,2,2,1,Driving Jump shot,JUMP_SHOTS,,2015
+Ben Gordon,2732,Driving Layup,2,15,10,Driving Layup Shot,LAYUPS,,2015
+Ben Gordon,2732,Driving Layup,2,4,2,Driving Reverse Layup Shot,LAYUPS,,2015
+Ben Gordon,2732,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2015
+Ben Gordon,2732,Fadeaway Jump Shot,2,3,1,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+Ben Gordon,2732,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2015
+Ben Gordon,2732,Floating Jump Shot,2,17,10,Floating Jump shot,FLOATING_SHOTS,,2015
+Ben Gordon,2732,Jump Shot,2,4,2,Jump Bank Shot,JUMP_SHOTS,,2015
+Ben Gordon,2732,Jump Shot,2,178,61,Jump Shot,JUMP_SHOTS,,2015
+Ben Gordon,2732,Standard Layup,2,11,3,Layup Shot,LAYUPS,,2015
+Ben Gordon,2732,Pullup Jump Shot,2,26,19,Pullup Jump shot,JUMP_SHOTS,,2015
+Ben Gordon,2732,Running Jump Shot,2,7,6,Running Bank shot,JUMP_SHOTS,,2015
+Ben Gordon,2732,Running Jump Shot,2,10,4,Running Jump Shot,JUMP_SHOTS,,2015
+Ben Gordon,2732,Step Back Jump Shot,2,13,7,Step Back Jump shot,JUMP_SHOTS,,2015
+Ben Gordon,2732,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2015
+Ben Gordon,2732,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2015

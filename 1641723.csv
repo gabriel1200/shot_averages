@@ -1,18 +1,33 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1641723,Floating Jump Shot,2PT Field Goal,4,2,Driving Floating Jump Shot,FLOATING_SHOTS,0.5,2024
-1641723,Driving Layup,2PT Field Goal,3,1,Driving Layup Shot,LAYUPS,0.3333333333333333,2024
-1641723,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2024
-1641723,Jump Shot,3PT Field Goal,4,0,Jump Shot,JUMP_SHOTS,0.0,2024
-1641723,Pullup Jump Shot,2PT Field Goal,4,1,Pullup Jump shot,JUMP_SHOTS,0.25,2024
-1641723,Pullup Jump Shot,3PT Field Goal,3,0,Pullup Jump shot,JUMP_SHOTS,0.0,2024
-1641723,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2024
-1641723,Running Jump Shot,3PT Field Goal,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,1.5,2024
-1641723,Putback Layup,2PT Field Goal,1,1,Tip Layup Shot,LAYUPS,1.0,2024
-1641723,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2025
-1641723,Driving Hook Shot,2PT Field Goal,1,1,Driving Hook Shot,POST_MOVES,1.0,2025
-1641723,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2025
-1641723,Jump Shot,3PT Field Goal,4,2,Jump Shot,JUMP_SHOTS,0.75,2025
-1641723,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2025
-1641723,Standard Layup,2PT Field Goal,2,0,Running Layup Shot,LAYUPS,0.0,2025
-1641723,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2025
-1641723,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Kobe Bufkin,1641723,Finger Roll,2,3,1,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Kobe Bufkin,1641723,Floating Jump Shot,2,2,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Kobe Bufkin,1641723,Floating Jump Shot,2,10,5,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Kobe Bufkin,1641723,Driving Layup,2,9,3,Driving Layup Shot,LAYUPS,,2024
+Kobe Bufkin,1641723,Floating Jump Shot,2,3,2,Floating Jump shot,FLOATING_SHOTS,,2024
+Kobe Bufkin,1641723,Jump Shot,3,24,4,Jump Shot,JUMP_SHOTS,,2024
+Kobe Bufkin,1641723,Pullup Jump Shot,2,19,9,Pullup Jump shot,JUMP_SHOTS,,2024
+Kobe Bufkin,1641723,Pullup Jump Shot,3,10,4,Pullup Jump shot,JUMP_SHOTS,,2024
+Kobe Bufkin,1641723,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2024
+Kobe Bufkin,1641723,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2024
+Kobe Bufkin,1641723,Running Jump Shot,3,3,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Kobe Bufkin,1641723,Step Back Jump Shot,2,4,2,Step Back Jump shot,JUMP_SHOTS,,2024
+Kobe Bufkin,1641723,Step Back Jump Shot,3,2,0,Step Back Jump shot,JUMP_SHOTS,,2024
+Kobe Bufkin,1641723,Putback Layup,2,1,1,Tip Layup Shot,LAYUPS,,2024
+Kobe Bufkin,1641723,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2025
+Kobe Bufkin,1641723,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2025
+Kobe Bufkin,1641723,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Kobe Bufkin,1641723,Floating Jump Shot,2,6,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Kobe Bufkin,1641723,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2025
+Kobe Bufkin,1641723,Driving Layup,2,5,2,Driving Layup Shot,LAYUPS,,2025
+Kobe Bufkin,1641723,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2025
+Kobe Bufkin,1641723,Jump Shot,3,13,3,Jump Shot,JUMP_SHOTS,,2025
+Kobe Bufkin,1641723,Pullup Jump Shot,2,3,3,Pullup Jump shot,JUMP_SHOTS,,2025
+Kobe Bufkin,1641723,Pullup Jump Shot,3,3,1,Pullup Jump shot,JUMP_SHOTS,,2025
+Kobe Bufkin,1641723,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2025
+Kobe Bufkin,1641723,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2025
+Kobe Bufkin,1641723,Running Jump Shot,3,2,0,Running Jump Shot,JUMP_SHOTS,,2025
+Kobe Bufkin,1641723,Standard Layup,2,3,1,Running Layup Shot,LAYUPS,,2025
+Kobe Bufkin,1641723,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2025
+Kobe Bufkin,1641723,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2025
+Kobe Bufkin,1641723,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2025
+Kobe Bufkin,1641723,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2025

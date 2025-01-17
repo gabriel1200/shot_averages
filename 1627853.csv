@@ -1,37 +1,96 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1627853,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2019
-1627853,Finger Roll,2PT Field Goal,2,1,Driving Finger Roll Layup Shot,LAYUPS,0.5,2019
-1627853,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2019
-1627853,Driving Layup,2PT Field Goal,6,5,Driving Layup Shot,LAYUPS,0.8333333333333334,2019
-1627853,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2019
-1627853,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2019
-1627853,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2019
-1627853,Jump Shot,3PT Field Goal,16,7,Jump Shot,JUMP_SHOTS,0.65625,2019
-1627853,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2019
-1627853,Pullup Jump Shot,2PT Field Goal,3,0,Pullup Jump shot,JUMP_SHOTS,0.0,2019
-1627853,Pullup Jump Shot,3PT Field Goal,2,2,Pullup Jump shot,JUMP_SHOTS,1.5,2019
-1627853,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2019
-1627853,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2020
-1627853,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Jump Shot,FLOATING_SHOTS,1.0,2020
-1627853,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2020
-1627853,Jump Shot,3PT Field Goal,9,4,Jump Shot,JUMP_SHOTS,0.6666666666666666,2020
-1627853,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2020
-1627853,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2020
-1627853,Finger Roll,2PT Field Goal,1,1,Running Finger Roll Layup Shot,LAYUPS,1.0,2020
-1627853,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2020
-1627853,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2021
-1627853,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2021
-1627853,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2021
-1627853,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2021
-1627853,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2022
-1627853,Jump Shot,3PT Field Goal,3,2,Jump Shot,JUMP_SHOTS,1.0,2022
-1627853,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2023
-1627853,Driving Layup,2PT Field Goal,2,0,Driving Layup Shot,LAYUPS,0.0,2023
-1627853,Floating Jump Shot,2PT Field Goal,2,0,Floating Jump shot,FLOATING_SHOTS,0.0,2023
-1627853,Jump Shot,3PT Field Goal,13,6,Jump Shot,JUMP_SHOTS,0.6923076923076923,2023
-1627853,Pullup Jump Shot,2PT Field Goal,6,0,Pullup Jump shot,JUMP_SHOTS,0.0,2023
-1627853,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2023
-1627853,Running Jump Shot,3PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2023
-1627853,Step Back Jump Shot,3PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2023
-1627853,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2024
-1627853,Running Jump Shot,3PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Ryan Arcidiacono,1627853,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2018
+Ryan Arcidiacono,1627853,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Ryan Arcidiacono,1627853,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Ryan Arcidiacono,1627853,Floating Jump Shot,2,2,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Ryan Arcidiacono,1627853,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2018
+Ryan Arcidiacono,1627853,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2018
+Ryan Arcidiacono,1627853,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2018
+Ryan Arcidiacono,1627853,Jump Shot,2,28,7,Jump Shot,JUMP_SHOTS,,2018
+Ryan Arcidiacono,1627853,Jump Shot,3,1,1,Jump Shot,JUMP_SHOTS,,2018
+Ryan Arcidiacono,1627853,Pullup Jump Shot,2,3,3,Pullup Jump shot,JUMP_SHOTS,,2018
+Ryan Arcidiacono,1627853,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2018
+Ryan Arcidiacono,1627853,Standard Layup,2,9,6,Cutting Layup Shot,LAYUPS,,2019
+Ryan Arcidiacono,1627853,Finger Roll,2,7,3,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Ryan Arcidiacono,1627853,Floating Jump Shot,2,6,4,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Ryan Arcidiacono,1627853,Floating Jump Shot,2,35,15,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Ryan Arcidiacono,1627853,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2019
+Ryan Arcidiacono,1627853,Driving Layup,2,42,21,Driving Layup Shot,LAYUPS,,2019
+Ryan Arcidiacono,1627853,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2019
+Ryan Arcidiacono,1627853,Fadeaway Jump Shot,2,3,2,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+Ryan Arcidiacono,1627853,Floating Jump Shot,2,12,10,Floating Jump shot,FLOATING_SHOTS,,2019
+Ryan Arcidiacono,1627853,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2019
+Ryan Arcidiacono,1627853,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2019
+Ryan Arcidiacono,1627853,Jump Shot,2,130,50,Jump Shot,JUMP_SHOTS,,2019
+Ryan Arcidiacono,1627853,Jump Shot,3,89,31,Jump Shot,JUMP_SHOTS,,2019
+Ryan Arcidiacono,1627853,Standard Layup,2,10,8,Layup Shot,LAYUPS,,2019
+Ryan Arcidiacono,1627853,Pullup Jump Shot,2,45,20,Pullup Jump shot,JUMP_SHOTS,,2019
+Ryan Arcidiacono,1627853,Pullup Jump Shot,3,6,3,Pullup Jump shot,JUMP_SHOTS,,2019
+Ryan Arcidiacono,1627853,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2019
+Ryan Arcidiacono,1627853,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2019
+Ryan Arcidiacono,1627853,Standard Layup,2,7,5,Running Layup Shot,LAYUPS,,2019
+Ryan Arcidiacono,1627853,Running Jump Shot,3,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2019
+Ryan Arcidiacono,1627853,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2019
+Ryan Arcidiacono,1627853,Turnaround Jump Shot,2,3,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2019
+Ryan Arcidiacono,1627853,Turnaround Jump Shot,2,2,2,Turnaround Jump Shot,JUMP_SHOTS,,2019
+Ryan Arcidiacono,1627853,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2020
+Ryan Arcidiacono,1627853,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2020
+Ryan Arcidiacono,1627853,Standard Layup,2,4,4,Cutting Layup Shot,LAYUPS,,2020
+Ryan Arcidiacono,1627853,Finger Roll,2,4,2,Driving Finger Roll Layup Shot,LAYUPS,,2020
+Ryan Arcidiacono,1627853,Floating Jump Shot,2,2,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2020
+Ryan Arcidiacono,1627853,Floating Jump Shot,2,11,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Ryan Arcidiacono,1627853,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2020
+Ryan Arcidiacono,1627853,Driving Layup,2,9,3,Driving Layup Shot,LAYUPS,,2020
+Ryan Arcidiacono,1627853,Fadeaway Jump Shot,2,3,0,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+Ryan Arcidiacono,1627853,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2020
+Ryan Arcidiacono,1627853,Floating Jump Shot,2,9,4,Floating Jump shot,FLOATING_SHOTS,,2020
+Ryan Arcidiacono,1627853,Jump Shot,2,88,34,Jump Shot,JUMP_SHOTS,,2020
+Ryan Arcidiacono,1627853,Jump Shot,3,44,18,Jump Shot,JUMP_SHOTS,,2020
+Ryan Arcidiacono,1627853,Standard Layup,2,10,4,Layup Shot,LAYUPS,,2020
+Ryan Arcidiacono,1627853,Pullup Jump Shot,2,11,4,Pullup Jump shot,JUMP_SHOTS,,2020
+Ryan Arcidiacono,1627853,Pullup Jump Shot,3,4,1,Pullup Jump shot,JUMP_SHOTS,,2020
+Ryan Arcidiacono,1627853,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2020
+Ryan Arcidiacono,1627853,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2020
+Ryan Arcidiacono,1627853,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2020
+Ryan Arcidiacono,1627853,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2020
+Ryan Arcidiacono,1627853,Standard Layup,2,5,3,Running Layup Shot,LAYUPS,,2020
+Ryan Arcidiacono,1627853,Running Jump Shot,2,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2020
+Ryan Arcidiacono,1627853,Step Back Jump Shot,2,3,2,Step Back Jump shot,JUMP_SHOTS,,2020
+Ryan Arcidiacono,1627853,Step Back Jump Shot,3,1,1,Step Back Jump shot,JUMP_SHOTS,,2020
+Ryan Arcidiacono,1627853,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2020
+Ryan Arcidiacono,1627853,Finger Roll,2,1,0,Cutting Finger Roll Layup Shot,LAYUPS,,2021
+Ryan Arcidiacono,1627853,Standard Layup,2,5,5,Cutting Layup Shot,LAYUPS,,2021
+Ryan Arcidiacono,1627853,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Ryan Arcidiacono,1627853,Floating Jump Shot,2,2,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2021
+Ryan Arcidiacono,1627853,Floating Jump Shot,2,6,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Ryan Arcidiacono,1627853,Driving Layup,2,6,1,Driving Layup Shot,LAYUPS,,2021
+Ryan Arcidiacono,1627853,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2021
+Ryan Arcidiacono,1627853,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2021
+Ryan Arcidiacono,1627853,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2021
+Ryan Arcidiacono,1627853,Jump Shot,2,49,20,Jump Shot,JUMP_SHOTS,,2021
+Ryan Arcidiacono,1627853,Jump Shot,3,14,3,Jump Shot,JUMP_SHOTS,,2021
+Ryan Arcidiacono,1627853,Standard Layup,2,2,2,Layup Shot,LAYUPS,,2021
+Ryan Arcidiacono,1627853,Pullup Jump Shot,2,10,6,Pullup Jump shot,JUMP_SHOTS,,2021
+Ryan Arcidiacono,1627853,Pullup Jump Shot,3,3,0,Pullup Jump shot,JUMP_SHOTS,,2021
+Ryan Arcidiacono,1627853,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2021
+Ryan Arcidiacono,1627853,Reverse Layup,2,4,1,Reverse Layup Shot,LAYUPS,,2021
+Ryan Arcidiacono,1627853,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,2021
+Ryan Arcidiacono,1627853,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2021
+Ryan Arcidiacono,1627853,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2021
+Ryan Arcidiacono,1627853,Step Back Jump Shot,2,2,0,Step Back Jump shot,JUMP_SHOTS,,2021
+Ryan Arcidiacono,1627853,Putback Layup,2,1,0,Tip Layup Shot,LAYUPS,,2021
+Ryan Arcidiacono,1627853,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Ryan Arcidiacono,1627853,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2022
+Ryan Arcidiacono,1627853,Jump Shot,3,9,4,Jump Shot,JUMP_SHOTS,,2022
+Ryan Arcidiacono,1627853,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2022
+Ryan Arcidiacono,1627853,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2023
+Ryan Arcidiacono,1627853,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Ryan Arcidiacono,1627853,Driving Layup,2,3,0,Driving Layup Shot,LAYUPS,,2023
+Ryan Arcidiacono,1627853,Floating Jump Shot,2,3,0,Floating Jump shot,FLOATING_SHOTS,,2023
+Ryan Arcidiacono,1627853,Jump Shot,3,17,7,Jump Shot,JUMP_SHOTS,,2023
+Ryan Arcidiacono,1627853,Pullup Jump Shot,2,6,0,Pullup Jump shot,JUMP_SHOTS,,2023
+Ryan Arcidiacono,1627853,Pullup Jump Shot,3,4,1,Pullup Jump shot,JUMP_SHOTS,,2023
+Ryan Arcidiacono,1627853,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2023
+Ryan Arcidiacono,1627853,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2023
+Ryan Arcidiacono,1627853,Jump Shot,3,4,0,Jump Shot,JUMP_SHOTS,,2024
+Ryan Arcidiacono,1627853,Running Jump Shot,3,2,0,Running Jump Shot,JUMP_SHOTS,,2024

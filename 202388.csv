@@ -1,14 +1,90 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-202388,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2013
-202388,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2013
-202388,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2014
-202388,Jump Shot,2PT Field Goal,4,1,Jump Shot,JUMP_SHOTS,0.25,2014
-202388,Jump Shot,3PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.5,2014
-202388,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2014
-202388,Putback Layup,2PT Field Goal,1,0,Putback Layup Shot,LAYUPS,0.0,2014
-202388,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.0,2014
-202388,Jump Shot,2PT Field Goal,4,0,Jump Shot,JUMP_SHOTS,0.0,2015
-202388,Jump Shot,3PT Field Goal,8,0,Jump Shot,JUMP_SHOTS,0.0,2015
-202388,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2015
-202388,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2015
-202388,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2016
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Donald Sloan,202388,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2012
+Donald Sloan,202388,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2012
+Donald Sloan,202388,Driving Jump Shot,2,2,1,Driving Jump shot,JUMP_SHOTS,,2012
+Donald Sloan,202388,Driving Layup,2,19,14,Driving Layup Shot,LAYUPS,,2012
+Donald Sloan,202388,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2012
+Donald Sloan,202388,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Donald Sloan,202388,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2012
+Donald Sloan,202388,Floating Jump Shot,2,11,6,Floating Jump shot,FLOATING_SHOTS,,2012
+Donald Sloan,202388,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2012
+Donald Sloan,202388,Jump Shot,2,113,29,Jump Shot,JUMP_SHOTS,,2012
+Donald Sloan,202388,Standard Layup,2,32,16,Layup Shot,LAYUPS,,2012
+Donald Sloan,202388,Pullup Jump Shot,2,4,2,Pullup Jump shot,JUMP_SHOTS,,2012
+Donald Sloan,202388,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2012
+Donald Sloan,202388,Running Jump Shot,2,3,2,Running Jump Shot,JUMP_SHOTS,,2012
+Donald Sloan,202388,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2012
+Donald Sloan,202388,Tip Shot,2,2,0,Tip Shot,TIP_SHOTS,,2012
+Donald Sloan,202388,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2012
+Donald Sloan,202388,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Donald Sloan,202388,Driving Layup,2,8,5,Driving Layup Shot,LAYUPS,,2013
+Donald Sloan,202388,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2013
+Donald Sloan,202388,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Donald Sloan,202388,Floating Jump Shot,2,2,2,Floating Jump shot,FLOATING_SHOTS,,2013
+Donald Sloan,202388,Jump Shot,2,50,14,Jump Shot,JUMP_SHOTS,,2013
+Donald Sloan,202388,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2013
+Donald Sloan,202388,Standard Layup,2,10,1,Layup Shot,LAYUPS,,2013
+Donald Sloan,202388,Pullup Jump Shot,2,2,1,Pullup Jump shot,JUMP_SHOTS,,2013
+Donald Sloan,202388,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2013
+Donald Sloan,202388,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2013
+Donald Sloan,202388,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2013
+Donald Sloan,202388,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2014
+Donald Sloan,202388,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2014
+Donald Sloan,202388,Driving Jump Shot,2,3,1,Driving Jump shot,JUMP_SHOTS,,2014
+Donald Sloan,202388,Driving Layup,2,10,7,Driving Layup Shot,LAYUPS,,2014
+Donald Sloan,202388,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2014
+Donald Sloan,202388,Floating Jump Shot,2,2,0,Floating Jump shot,FLOATING_SHOTS,,2014
+Donald Sloan,202388,Jump Shot,2,62,16,Jump Shot,JUMP_SHOTS,,2014
+Donald Sloan,202388,Jump Shot,3,5,1,Jump Shot,JUMP_SHOTS,,2014
+Donald Sloan,202388,Standard Layup,2,17,6,Layup Shot,LAYUPS,,2014
+Donald Sloan,202388,Pullup Jump Shot,2,4,4,Pullup Jump shot,JUMP_SHOTS,,2014
+Donald Sloan,202388,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2014
+Donald Sloan,202388,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2014
+Donald Sloan,202388,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2014
+Donald Sloan,202388,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2014
+Donald Sloan,202388,Step Back Jump Shot,2,4,3,Step Back Jump shot,JUMP_SHOTS,,2014
+Donald Sloan,202388,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2015
+Donald Sloan,202388,Finger Roll,2,6,6,Driving Finger Roll Layup Shot,LAYUPS,,2015
+Donald Sloan,202388,Driving Jump Shot,2,5,2,Driving Jump shot,JUMP_SHOTS,,2015
+Donald Sloan,202388,Driving Layup,2,47,37,Driving Layup Shot,LAYUPS,,2015
+Donald Sloan,202388,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2015
+Donald Sloan,202388,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,2015
+Donald Sloan,202388,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+Donald Sloan,202388,Finger Roll,2,6,6,Finger Roll Layup Shot,LAYUPS,,2015
+Donald Sloan,202388,Floating Jump Shot,2,5,5,Floating Jump shot,FLOATING_SHOTS,,2015
+Donald Sloan,202388,Jump Shot,2,5,3,Jump Bank Shot,JUMP_SHOTS,,2015
+Donald Sloan,202388,Jump Shot,2,176,38,Jump Shot,JUMP_SHOTS,,2015
+Donald Sloan,202388,Jump Shot,3,11,1,Jump Shot,JUMP_SHOTS,,2015
+Donald Sloan,202388,Standard Layup,2,45,13,Layup Shot,LAYUPS,,2015
+Donald Sloan,202388,Pullup Jump Shot,2,1,0,Pullup Bank shot,JUMP_SHOTS,,2015
+Donald Sloan,202388,Pullup Jump Shot,2,16,11,Pullup Jump shot,JUMP_SHOTS,,2015
+Donald Sloan,202388,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2015
+Donald Sloan,202388,Running Jump Shot,2,3,3,Running Bank shot,JUMP_SHOTS,,2015
+Donald Sloan,202388,Running Jump Shot,2,8,4,Running Jump Shot,JUMP_SHOTS,,2015
+Donald Sloan,202388,Standard Layup,2,4,4,Running Layup Shot,LAYUPS,,2015
+Donald Sloan,202388,Step Back Jump Shot,2,7,5,Step Back Jump shot,JUMP_SHOTS,,2015
+Donald Sloan,202388,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2015
+Donald Sloan,202388,Finger Roll,2,2,2,Cutting Finger Roll Layup Shot,LAYUPS,,2016
+Donald Sloan,202388,Standard Layup,2,15,11,Cutting Layup Shot,LAYUPS,,2016
+Donald Sloan,202388,Driving Jump Shot,2,4,3,Driving Bank shot,JUMP_SHOTS,,2016
+Donald Sloan,202388,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2016
+Donald Sloan,202388,Finger Roll,2,7,5,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Donald Sloan,202388,Floating Jump Shot,2,3,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Donald Sloan,202388,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2016
+Donald Sloan,202388,Driving Layup,2,65,35,Driving Layup Shot,LAYUPS,,2016
+Donald Sloan,202388,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2016
+Donald Sloan,202388,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Donald Sloan,202388,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2016
+Donald Sloan,202388,Floating Jump Shot,2,11,5,Floating Jump shot,FLOATING_SHOTS,,2016
+Donald Sloan,202388,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2016
+Donald Sloan,202388,Jump Shot,2,3,2,Jump Bank Shot,JUMP_SHOTS,,2016
+Donald Sloan,202388,Jump Shot,2,154,49,Jump Shot,JUMP_SHOTS,,2016
+Donald Sloan,202388,Jump Shot,3,3,1,Jump Shot,JUMP_SHOTS,,2016
+Donald Sloan,202388,Standard Layup,2,25,3,Layup Shot,LAYUPS,,2016
+Donald Sloan,202388,Pullup Jump Shot,2,15,8,Pullup Jump shot,JUMP_SHOTS,,2016
+Donald Sloan,202388,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2016
+Donald Sloan,202388,Finger Roll,2,2,2,Running Finger Roll Layup Shot,LAYUPS,,2016
+Donald Sloan,202388,Running Jump Shot,2,4,0,Running Jump Shot,JUMP_SHOTS,,2016
+Donald Sloan,202388,Standard Layup,2,23,17,Running Layup Shot,LAYUPS,,2016
+Donald Sloan,202388,Step Back Jump Shot,2,5,2,Step Back Jump shot,JUMP_SHOTS,,2016
+Donald Sloan,202388,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2016

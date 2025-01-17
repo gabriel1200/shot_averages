@@ -1,34 +1,63 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1629674,Alley Oop Dunk,2PT Field Goal,7,6,Alley Oop Dunk Shot,DUNKS,0.8571428571428571,2024
-1629674,Alley Oop Layup,2PT Field Goal,2,1,Alley Oop Layup shot,LAYUPS,0.5,2024
-1629674,Specialty Dunk,2PT Field Goal,8,8,Cutting Dunk Shot,DUNKS,1.0,2024
-1629674,Standard Layup,2PT Field Goal,5,3,Cutting Layup Shot,LAYUPS,0.6,2024
-1629674,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2024
-1629674,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,2024
-1629674,Hook Shot,2PT Field Goal,9,2,Hook Shot,POST_MOVES,0.2222222222222222,2024
-1629674,Jump Shot,2PT Field Goal,2,2,Jump Shot,JUMP_SHOTS,1.0,2024
-1629674,Standard Layup,2PT Field Goal,3,1,Layup Shot,LAYUPS,0.3333333333333333,2024
-1629674,Putback Dunk,2PT Field Goal,3,3,Putback Dunk Shot,DUNKS,1.0,2024
-1629674,Putback Layup,2PT Field Goal,7,4,Putback Layup Shot,LAYUPS,0.5714285714285714,2024
-1629674,Putback Layup,2PT Field Goal,8,5,Tip Layup Shot,LAYUPS,0.625,2024
-1629674,Turnaround Hook Shot,2PT Field Goal,6,3,Turnaround Hook Shot,POST_MOVES,0.5,2024
-1629674,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2024
-1629674,Alley Oop Dunk,2PT Field Goal,10,9,Alley Oop Dunk Shot,DUNKS,0.9,2025
-1629674,Alley Oop Layup,2PT Field Goal,2,1,Alley Oop Layup shot,LAYUPS,0.5,2025
-1629674,Specialty Dunk,2PT Field Goal,11,10,Cutting Dunk Shot,DUNKS,0.9090909090909092,2025
-1629674,Standard Layup,2PT Field Goal,8,6,Cutting Layup Shot,LAYUPS,0.75,2025
-1629674,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2025
-1629674,Driving Layup,2PT Field Goal,2,0,Driving Layup Shot,LAYUPS,0.0,2025
-1629674,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,2025
-1629674,Floating Jump Shot,2PT Field Goal,7,3,Floating Jump shot,FLOATING_SHOTS,0.4285714285714285,2025
-1629674,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,2025
-1629674,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2025
-1629674,Standard Layup,2PT Field Goal,5,3,Layup Shot,LAYUPS,0.6,2025
-1629674,Putback Dunk,2PT Field Goal,1,1,Putback Dunk Shot,DUNKS,1.0,2025
-1629674,Putback Layup,2PT Field Goal,3,3,Putback Layup Shot,LAYUPS,1.0,2025
-1629674,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2025
-1629674,Alley Oop Dunk,2PT Field Goal,1,1,Running Alley Oop Dunk Shot,DUNKS,1.0,2025
-1629674,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2025
-1629674,Specialty Dunk,2PT Field Goal,2,2,Tip Dunk Shot,DUNKS,1.0,2025
-1629674,Putback Layup,2PT Field Goal,6,1,Tip Layup Shot,LAYUPS,0.1666666666666666,2025
-1629674,Turnaround Hook Shot,2PT Field Goal,7,5,Turnaround Hook Shot,POST_MOVES,0.7142857142857143,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Neemias Queta,1629674,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2022
+Neemias Queta,1629674,Specialty Dunk,2,2,1,Cutting Dunk Shot,DUNKS,,2022
+Neemias Queta,1629674,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2022
+Neemias Queta,1629674,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2022
+Neemias Queta,1629674,Hook Shot,2,2,1,Hook Bank Shot,POST_MOVES,,2022
+Neemias Queta,1629674,Hook Shot,2,6,3,Hook Shot,POST_MOVES,,2022
+Neemias Queta,1629674,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2022
+Neemias Queta,1629674,Jump Shot,2,7,0,Jump Shot,JUMP_SHOTS,,2022
+Neemias Queta,1629674,Standard Layup,2,3,2,Layup Shot,LAYUPS,,2022
+Neemias Queta,1629674,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2022
+Neemias Queta,1629674,Putback Layup,2,2,0,Putback Layup Shot,LAYUPS,,2022
+Neemias Queta,1629674,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2022
+Neemias Queta,1629674,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2022
+Neemias Queta,1629674,Putback Layup,2,6,1,Tip Layup Shot,LAYUPS,,2022
+Neemias Queta,1629674,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2022
+Neemias Queta,1629674,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2023
+Neemias Queta,1629674,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2023
+Neemias Queta,1629674,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2023
+Neemias Queta,1629674,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2023
+Neemias Queta,1629674,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2023
+Neemias Queta,1629674,Putback Layup,2,2,0,Putback Layup Shot,LAYUPS,,2023
+Neemias Queta,1629674,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2023
+Neemias Queta,1629674,Alley Oop Dunk,2,7,6,Alley Oop Dunk Shot,DUNKS,,2024
+Neemias Queta,1629674,Alley Oop Layup,2,3,2,Alley Oop Layup shot,LAYUPS,,2024
+Neemias Queta,1629674,Specialty Dunk,2,12,12,Cutting Dunk Shot,DUNKS,,2024
+Neemias Queta,1629674,Standard Layup,2,11,7,Cutting Layup Shot,LAYUPS,,2024
+Neemias Queta,1629674,Driving Dunk,2,2,1,Driving Dunk Shot,DUNKS,,2024
+Neemias Queta,1629674,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2024
+Neemias Queta,1629674,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2024
+Neemias Queta,1629674,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2024
+Neemias Queta,1629674,Floating Jump Shot,2,2,0,Floating Jump shot,FLOATING_SHOTS,,2024
+Neemias Queta,1629674,Hook Shot,2,9,2,Hook Shot,POST_MOVES,,2024
+Neemias Queta,1629674,Jump Shot,2,3,3,Jump Shot,JUMP_SHOTS,,2024
+Neemias Queta,1629674,Standard Layup,2,7,4,Layup Shot,LAYUPS,,2024
+Neemias Queta,1629674,Putback Dunk,2,4,4,Putback Dunk Shot,DUNKS,,2024
+Neemias Queta,1629674,Putback Layup,2,11,7,Putback Layup Shot,LAYUPS,,2024
+Neemias Queta,1629674,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2024
+Neemias Queta,1629674,Reverse Layup,2,2,0,Reverse Layup Shot,LAYUPS,,2024
+Neemias Queta,1629674,Reverse Layup,2,2,0,Running Reverse Layup Shot,LAYUPS,,2024
+Neemias Queta,1629674,Putback Layup,2,12,8,Tip Layup Shot,LAYUPS,,2024
+Neemias Queta,1629674,Turnaround Hook Shot,2,8,4,Turnaround Hook Shot,POST_MOVES,,2024
+Neemias Queta,1629674,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2024
+Neemias Queta,1629674,Alley Oop Dunk,2,15,13,Alley Oop Dunk Shot,DUNKS,,2025
+Neemias Queta,1629674,Alley Oop Layup,2,6,4,Alley Oop Layup shot,LAYUPS,,2025
+Neemias Queta,1629674,Specialty Dunk,2,16,14,Cutting Dunk Shot,DUNKS,,2025
+Neemias Queta,1629674,Standard Layup,2,11,7,Cutting Layup Shot,LAYUPS,,2025
+Neemias Queta,1629674,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2025
+Neemias Queta,1629674,Driving Layup,2,3,0,Driving Layup Shot,LAYUPS,,2025
+Neemias Queta,1629674,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2025
+Neemias Queta,1629674,Floating Jump Shot,2,8,3,Floating Jump shot,FLOATING_SHOTS,,2025
+Neemias Queta,1629674,Hook Shot,2,4,2,Hook Shot,POST_MOVES,,2025
+Neemias Queta,1629674,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,2025
+Neemias Queta,1629674,Standard Layup,2,8,5,Layup Shot,LAYUPS,,2025
+Neemias Queta,1629674,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2025
+Neemias Queta,1629674,Putback Layup,2,6,5,Putback Layup Shot,LAYUPS,,2025
+Neemias Queta,1629674,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2025
+Neemias Queta,1629674,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2025
+Neemias Queta,1629674,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2025
+Neemias Queta,1629674,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2025
+Neemias Queta,1629674,Specialty Dunk,2,3,3,Tip Dunk Shot,DUNKS,,2025
+Neemias Queta,1629674,Putback Layup,2,9,3,Tip Layup Shot,LAYUPS,,2025
+Neemias Queta,1629674,Turnaround Hook Shot,2,8,5,Turnaround Hook Shot,POST_MOVES,,2025

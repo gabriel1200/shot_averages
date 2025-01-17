@@ -1,29 +1,55 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-101118,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,2006
-101118,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2006
-101118,Jump Shot,2PT Field Goal,20,8,Jump Shot,JUMP_SHOTS,0.4,2006
-101118,Standard Layup,2PT Field Goal,5,3,Layup Shot,LAYUPS,0.6,2006
-101118,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2006
-101118,Tip Shot,2PT Field Goal,2,1,Tip Shot,TIP_SHOTS,0.5,2006
-101118,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2006
-101118,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2007
-101118,Standard Dunk,2PT Field Goal,3,3,Dunk Shot,DUNKS,1.0,2007
-101118,Hook Shot,2PT Field Goal,2,0,Hook Shot,POST_MOVES,0.0,2007
-101118,Jump Shot,2PT Field Goal,35,14,Jump Shot,JUMP_SHOTS,0.4,2007
-101118,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2007
-101118,Standard Layup,2PT Field Goal,26,6,Layup Shot,LAYUPS,0.2307692307692307,2007
-101118,Reverse Layup,2PT Field Goal,2,0,Reverse Layup Shot,LAYUPS,0.0,2007
-101118,Finger Roll,2PT Field Goal,1,1,Running Finger Roll Shot,LAYUPS,1.0,2007
-101118,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2007
-101118,Tip Shot,2PT Field Goal,3,2,Tip Shot,TIP_SHOTS,0.6666666666666666,2007
-101118,Turnaround Jump Shot,2PT Field Goal,2,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2007
-101118,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2009
-101118,Jump Shot,2PT Field Goal,10,3,Jump Shot,JUMP_SHOTS,0.3,2009
-101118,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2009
-101118,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2009
-101118,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2009
-101118,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2009
-101118,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2010
-101118,Hook Shot,2PT Field Goal,3,2,Jump Hook Shot,POST_MOVES,0.6666666666666666,2010
-101118,Jump Shot,2PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.3333333333333333,2010
-101118,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2010
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Sean May,101118,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,2006
+Sean May,101118,Standard Dunk,2,5,5,Dunk Shot,DUNKS,,2006
+Sean May,101118,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2006
+Sean May,101118,Hook Shot,2,7,2,Hook Shot,POST_MOVES,,2006
+Sean May,101118,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2006
+Sean May,101118,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2006
+Sean May,101118,Jump Shot,2,94,27,Jump Shot,JUMP_SHOTS,,2006
+Sean May,101118,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2006
+Sean May,101118,Standard Layup,2,34,17,Layup Shot,LAYUPS,,2006
+Sean May,101118,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2006
+Sean May,101118,Running Jump Shot,2,3,2,Running Jump Shot,JUMP_SHOTS,,2006
+Sean May,101118,Tip Shot,2,12,6,Tip Shot,TIP_SHOTS,,2006
+Sean May,101118,Turnaround Jump Shot,2,7,4,Turnaround Jump Shot,JUMP_SHOTS,,2006
+Sean May,101118,Driving Layup,2,3,3,Driving Layup Shot,LAYUPS,,2007
+Sean May,101118,Standard Dunk,2,6,6,Dunk Shot,DUNKS,,2007
+Sean May,101118,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2007
+Sean May,101118,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2007
+Sean May,101118,Hook Shot,2,19,7,Hook Shot,POST_MOVES,,2007
+Sean May,101118,Jump Shot,2,4,3,Jump Bank Shot,JUMP_SHOTS,,2007
+Sean May,101118,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2007
+Sean May,101118,Jump Shot,2,163,74,Jump Shot,JUMP_SHOTS,,2007
+Sean May,101118,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2007
+Sean May,101118,Standard Layup,2,93,48,Layup Shot,LAYUPS,,2007
+Sean May,101118,Reverse Layup,2,7,5,Reverse Layup Shot,LAYUPS,,2007
+Sean May,101118,Finger Roll,2,1,1,Running Finger Roll Shot,LAYUPS,,2007
+Sean May,101118,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2007
+Sean May,101118,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2007
+Sean May,101118,Tip Shot,2,18,10,Tip Shot,TIP_SHOTS,,2007
+Sean May,101118,Turnaround Jump Shot,2,7,3,Turnaround Jump Shot,JUMP_SHOTS,,2007
+Sean May,101118,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2009
+Sean May,101118,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2009
+Sean May,101118,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2009
+Sean May,101118,Jump Shot,2,65,25,Jump Shot,JUMP_SHOTS,,2009
+Sean May,101118,Jump Shot,3,1,1,Jump Shot,JUMP_SHOTS,,2009
+Sean May,101118,Standard Layup,2,16,6,Layup Shot,LAYUPS,,2009
+Sean May,101118,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2009
+Sean May,101118,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2009
+Sean May,101118,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2009
+Sean May,101118,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,,2009
+Sean May,101118,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2009
+Sean May,101118,Turnaround Hook Shot,2,3,2,Turnaround Hook Shot,POST_MOVES,,2009
+Sean May,101118,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2009
+Sean May,101118,Driving Layup,2,2,1,Driving Layup Shot,LAYUPS,,2010
+Sean May,101118,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2010
+Sean May,101118,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+Sean May,101118,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2010
+Sean May,101118,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2010
+Sean May,101118,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2010
+Sean May,101118,Hook Shot,2,3,2,Jump Hook Shot,POST_MOVES,,2010
+Sean May,101118,Jump Shot,2,81,39,Jump Shot,JUMP_SHOTS,,2010
+Sean May,101118,Jump Shot,3,4,0,Jump Shot,JUMP_SHOTS,,2010
+Sean May,101118,Standard Layup,2,11,2,Layup Shot,LAYUPS,,2010
+Sean May,101118,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2010
+Sean May,101118,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,,2010

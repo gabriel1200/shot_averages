@@ -1,5 +1,9 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-101207,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2006
-101207,Jump Shot,2PT Field Goal,6,1,Jump Shot,JUMP_SHOTS,0.1666666666666666,2006
-101207,Jump Shot,3PT Field Goal,16,4,Jump Shot,JUMP_SHOTS,0.375,2006
-101207,Standard Layup,2PT Field Goal,5,1,Layup Shot,LAYUPS,0.2,2006
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Kevin Burleson,101207,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,2006
+Kevin Burleson,101207,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2006
+Kevin Burleson,101207,Jump Shot,2,44,7,Jump Shot,JUMP_SHOTS,,2006
+Kevin Burleson,101207,Jump Shot,3,27,7,Jump Shot,JUMP_SHOTS,,2006
+Kevin Burleson,101207,Standard Layup,2,10,4,Layup Shot,LAYUPS,,2006
+Kevin Burleson,101207,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2006
+Kevin Burleson,101207,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2006
+Kevin Burleson,101207,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2006

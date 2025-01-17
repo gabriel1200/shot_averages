@@ -1,10 +1,71 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-422,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,1998
-422,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,1998
-422,Driving Layup,2PT Field Goal,3,3,Driving Layup Shot,LAYUPS,1.0,1999
-422,Jump Shot,2PT Field Goal,5,1,Jump Shot,JUMP_SHOTS,0.2,1999
-422,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,1999
-422,Driving Layup,2PT Field Goal,4,3,Driving Layup Shot,LAYUPS,0.75,2000
-422,Jump Shot,2PT Field Goal,11,7,Jump Shot,JUMP_SHOTS,0.6363636363636364,2000
-422,Standard Layup,2PT Field Goal,5,2,Layup Shot,LAYUPS,0.4,2000
-422,Running Jump Shot,2PT Field Goal,2,2,Running Jump Shot,JUMP_SHOTS,1.0,2000
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Avery Johnson,422,Driving Layup,2,88,70,Driving Layup Shot,LAYUPS,,1997
+Avery Johnson,422,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,1997
+Avery Johnson,422,Hook Shot,2,13,11,Hook Shot,POST_MOVES,,1997
+Avery Johnson,422,Jump Shot,2,321,127,Jump Shot,JUMP_SHOTS,,1997
+Avery Johnson,422,Standard Layup,2,243,106,Layup Shot,LAYUPS,,1997
+Avery Johnson,422,Running Jump Shot,2,19,12,Running Jump Shot,JUMP_SHOTS,,1997
+Avery Johnson,422,Driving Layup,2,134,100,Driving Layup Shot,LAYUPS,,1998
+Avery Johnson,422,Hook Shot,2,23,11,Hook Shot,POST_MOVES,,1998
+Avery Johnson,422,Jump Shot,2,290,96,Jump Shot,JUMP_SHOTS,,1998
+Avery Johnson,422,Standard Layup,2,200,100,Layup Shot,LAYUPS,,1998
+Avery Johnson,422,Running Jump Shot,2,24,14,Running Jump Shot,JUMP_SHOTS,,1998
+Avery Johnson,422,Driving Layup,2,93,62,Driving Layup Shot,LAYUPS,,1999
+Avery Johnson,422,Hook Shot,2,3,2,Hook Shot,POST_MOVES,,1999
+Avery Johnson,422,Jump Shot,2,242,92,Jump Shot,JUMP_SHOTS,,1999
+Avery Johnson,422,Standard Layup,2,97,48,Layup Shot,LAYUPS,,1999
+Avery Johnson,422,Running Jump Shot,2,26,14,Running Jump Shot,JUMP_SHOTS,,1999
+Avery Johnson,422,Driving Layup,2,147,98,Driving Layup Shot,LAYUPS,,2000
+Avery Johnson,422,Hook Shot,2,7,3,Hook Shot,POST_MOVES,,2000
+Avery Johnson,422,Jump Shot,2,486,181,Jump Shot,JUMP_SHOTS,,2000
+Avery Johnson,422,Standard Layup,2,185,101,Layup Shot,LAYUPS,,2000
+Avery Johnson,422,Running Jump Shot,2,23,18,Running Jump Shot,JUMP_SHOTS,,2000
+Avery Johnson,422,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2000
+Avery Johnson,422,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2000
+Avery Johnson,422,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2001
+Avery Johnson,422,Driving Layup,2,37,30,Driving Layup Shot,LAYUPS,,2001
+Avery Johnson,422,Finger Roll,2,2,1,Finger Roll Shot,LAYUPS,,2001
+Avery Johnson,422,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2001
+Avery Johnson,422,Jump Shot,2,181,63,Jump Shot,JUMP_SHOTS,,2001
+Avery Johnson,422,Standard Layup,2,57,25,Layup Shot,LAYUPS,,2001
+Avery Johnson,422,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2001
+Avery Johnson,422,Running Hook Shot,2,3,1,Running Hook Shot,POST_MOVES,,2001
+Avery Johnson,422,Running Jump Shot,2,10,6,Running Jump Shot,JUMP_SHOTS,,2001
+Avery Johnson,422,Standard Layup,2,4,4,Running Layup Shot,LAYUPS,,2001
+Avery Johnson,422,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Avery Johnson,422,Finger Roll,2,2,2,Driving Finger Roll Shot,LAYUPS,,2002
+Avery Johnson,422,Driving Layup,2,116,76,Driving Layup Shot,LAYUPS,,2002
+Avery Johnson,422,Fadeaway Jump Shot,2,3,2,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Avery Johnson,422,Finger Roll,2,1,0,Finger Roll Shot,LAYUPS,,2002
+Avery Johnson,422,Hook Shot,2,3,2,Hook Shot,POST_MOVES,,2002
+Avery Johnson,422,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2002
+Avery Johnson,422,Jump Shot,2,168,61,Jump Shot,JUMP_SHOTS,,2002
+Avery Johnson,422,Standard Layup,2,66,29,Layup Shot,LAYUPS,,2002
+Avery Johnson,422,Reverse Layup,2,13,8,Reverse Layup Shot,LAYUPS,,2002
+Avery Johnson,422,Running Hook Shot,2,15,7,Running Hook Shot,POST_MOVES,,2002
+Avery Johnson,422,Running Jump Shot,2,37,15,Running Jump Shot,JUMP_SHOTS,,2002
+Avery Johnson,422,Standard Layup,2,5,2,Running Layup Shot,LAYUPS,,2002
+Avery Johnson,422,Turnaround Jump Shot,2,2,2,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Avery Johnson,422,Driving Layup,2,39,27,Driving Layup Shot,LAYUPS,,2003
+Avery Johnson,422,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Avery Johnson,422,Hook Shot,2,4,3,Hook Shot,POST_MOVES,,2003
+Avery Johnson,422,Jump Shot,2,61,20,Jump Shot,JUMP_SHOTS,,2003
+Avery Johnson,422,Standard Layup,2,31,8,Layup Shot,LAYUPS,,2003
+Avery Johnson,422,Reverse Layup,2,4,0,Reverse Layup Shot,LAYUPS,,2003
+Avery Johnson,422,Finger Roll,2,3,1,Running Finger Roll Shot,LAYUPS,,2003
+Avery Johnson,422,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2003
+Avery Johnson,422,Running Jump Shot,2,4,2,Running Jump Shot,JUMP_SHOTS,,2003
+Avery Johnson,422,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2003
+Avery Johnson,422,Finger Roll,2,2,2,Driving Finger Roll Shot,LAYUPS,,2004
+Avery Johnson,422,Driving Hook Shot,2,5,2,Driving Hook Shot,POST_MOVES,,2004
+Avery Johnson,422,Driving Layup,2,58,47,Driving Layup Shot,LAYUPS,,2004
+Avery Johnson,422,Fadeaway Jump Shot,2,3,2,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Avery Johnson,422,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2004
+Avery Johnson,422,Hook Shot,2,3,1,Hook Shot,POST_MOVES,,2004
+Avery Johnson,422,Jump Shot,2,62,11,Jump Shot,JUMP_SHOTS,,2004
+Avery Johnson,422,Standard Layup,2,37,2,Layup Shot,LAYUPS,,2004
+Avery Johnson,422,Reverse Layup,2,3,0,Reverse Layup Shot,LAYUPS,,2004
+Avery Johnson,422,Finger Roll,2,2,2,Running Finger Roll Shot,LAYUPS,,2004
+Avery Johnson,422,Running Hook Shot,2,7,4,Running Hook Shot,POST_MOVES,,2004
+Avery Johnson,422,Running Jump Shot,2,13,5,Running Jump Shot,JUMP_SHOTS,,2004
+Avery Johnson,422,Standard Layup,2,3,1,Running Layup Shot,LAYUPS,,2004

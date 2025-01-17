@@ -1,20 +1,55 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1628539,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2021
-1628539,Finger Roll,2PT Field Goal,1,0,Driving Finger Roll Layup Shot,LAYUPS,0.0,2021
-1628539,Jump Shot,3PT Field Goal,10,3,Jump Shot,JUMP_SHOTS,0.45,2021
-1628539,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2022
-1628539,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2022
-1628539,Finger Roll,2PT Field Goal,2,1,Driving Finger Roll Layup Shot,LAYUPS,0.5,2022
-1628539,Floating Jump Shot,2PT Field Goal,2,1,Driving Floating Jump Shot,FLOATING_SHOTS,0.5,2022
-1628539,Driving Layup,2PT Field Goal,7,0,Driving Layup Shot,LAYUPS,0.0,2022
-1628539,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2022
-1628539,Standard Dunk,2PT Field Goal,1,0,Dunk Shot,DUNKS,0.0,2022
-1628539,Jump Shot,3PT Field Goal,37,12,Jump Shot,JUMP_SHOTS,0.4864864864864865,2022
-1628539,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2022
-1628539,Pullup Jump Shot,2PT Field Goal,3,1,Pullup Jump shot,JUMP_SHOTS,0.3333333333333333,2022
-1628539,Pullup Jump Shot,3PT Field Goal,3,0,Pullup Jump shot,JUMP_SHOTS,0.0,2022
-1628539,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2022
-1628539,Running Jump Shot,3PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2022
-1628539,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2022
-1628539,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2022
-1628539,Step Back Jump Shot,3PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.5,2022
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Mychal Mulder,1628539,Standard Layup,2,1,0,Cutting Layup Shot,LAYUPS,,2020
+Mychal Mulder,1628539,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2020
+Mychal Mulder,1628539,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2020
+Mychal Mulder,1628539,Floating Jump Shot,2,1,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Mychal Mulder,1628539,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2020
+Mychal Mulder,1628539,Driving Layup,2,3,1,Driving Layup Shot,LAYUPS,,2020
+Mychal Mulder,1628539,Driving Layup,2,3,3,Driving Reverse Layup Shot,LAYUPS,,2020
+Mychal Mulder,1628539,Jump Shot,2,42,12,Jump Shot,JUMP_SHOTS,,2020
+Mychal Mulder,1628539,Pullup Jump Shot,2,10,4,Pullup Jump shot,JUMP_SHOTS,,2020
+Mychal Mulder,1628539,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,2020
+Mychal Mulder,1628539,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2020
+Mychal Mulder,1628539,Running Jump Shot,2,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2020
+Mychal Mulder,1628539,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2021
+Mychal Mulder,1628539,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2021
+Mychal Mulder,1628539,Specialty Dunk,2,4,4,Cutting Dunk Shot,DUNKS,,2021
+Mychal Mulder,1628539,Standard Layup,2,3,3,Cutting Layup Shot,LAYUPS,,2021
+Mychal Mulder,1628539,Driving Dunk,2,6,5,Driving Dunk Shot,DUNKS,,2021
+Mychal Mulder,1628539,Finger Roll,2,5,4,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Mychal Mulder,1628539,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Mychal Mulder,1628539,Driving Layup,2,9,3,Driving Layup Shot,LAYUPS,,2021
+Mychal Mulder,1628539,Driving Layup,2,6,5,Driving Reverse Layup Shot,LAYUPS,,2021
+Mychal Mulder,1628539,Fadeaway Jump Shot,3,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2021
+Mychal Mulder,1628539,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2021
+Mychal Mulder,1628539,Jump Shot,2,128,44,Jump Shot,JUMP_SHOTS,,2021
+Mychal Mulder,1628539,Jump Shot,3,59,22,Jump Shot,JUMP_SHOTS,,2021
+Mychal Mulder,1628539,Standard Layup,2,2,2,Layup Shot,LAYUPS,,2021
+Mychal Mulder,1628539,Pullup Jump Shot,2,9,6,Pullup Jump shot,JUMP_SHOTS,,2021
+Mychal Mulder,1628539,Pullup Jump Shot,3,6,5,Pullup Jump shot,JUMP_SHOTS,,2021
+Mychal Mulder,1628539,Reverse Layup,2,2,0,Reverse Layup Shot,LAYUPS,,2021
+Mychal Mulder,1628539,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2021
+Mychal Mulder,1628539,Running Jump Shot,2,3,2,Running Jump Shot,JUMP_SHOTS,,2021
+Mychal Mulder,1628539,Running Jump Shot,3,2,0,Running Jump Shot,JUMP_SHOTS,,2021
+Mychal Mulder,1628539,Standard Layup,2,4,2,Running Layup Shot,LAYUPS,,2021
+Mychal Mulder,1628539,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2021
+Mychal Mulder,1628539,Running Jump Shot,3,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2021
+Mychal Mulder,1628539,Step Back Jump Shot,2,4,3,Step Back Jump shot,JUMP_SHOTS,,2021
+Mychal Mulder,1628539,Step Back Jump Shot,3,1,1,Step Back Jump shot,JUMP_SHOTS,,2021
+Mychal Mulder,1628539,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2021
+Mychal Mulder,1628539,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2022
+Mychal Mulder,1628539,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2022
+Mychal Mulder,1628539,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Mychal Mulder,1628539,Floating Jump Shot,2,2,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Mychal Mulder,1628539,Driving Layup,2,7,0,Driving Layup Shot,LAYUPS,,2022
+Mychal Mulder,1628539,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2022
+Mychal Mulder,1628539,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2022
+Mychal Mulder,1628539,Jump Shot,3,48,15,Jump Shot,JUMP_SHOTS,,2022
+Mychal Mulder,1628539,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2022
+Mychal Mulder,1628539,Pullup Jump Shot,2,3,1,Pullup Jump shot,JUMP_SHOTS,,2022
+Mychal Mulder,1628539,Pullup Jump Shot,3,3,0,Pullup Jump shot,JUMP_SHOTS,,2022
+Mychal Mulder,1628539,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2022
+Mychal Mulder,1628539,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2022
+Mychal Mulder,1628539,Standard Layup,2,2,0,Running Layup Shot,LAYUPS,,2022
+Mychal Mulder,1628539,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2022
+Mychal Mulder,1628539,Step Back Jump Shot,3,2,2,Step Back Jump shot,JUMP_SHOTS,,2022

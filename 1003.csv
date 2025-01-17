@@ -1,10 +1,13 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1003,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,1998
-1003,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1998
-1003,Jump Shot,3PT Field Goal,12,4,Jump Shot,JUMP_SHOTS,0.5,1998
-1003,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,1998
-1003,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,1999
-1003,Jump Shot,3PT Field Goal,4,2,Jump Shot,JUMP_SHOTS,0.75,1999
-1003,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2000
-1003,Jump Shot,3PT Field Goal,7,2,Jump Shot,JUMP_SHOTS,0.4285714285714285,2000
-1003,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2000
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Drew Barry,1003,Driving Layup,2,4,4,Driving Layup Shot,LAYUPS,,1998
+Drew Barry,1003,Jump Shot,2,7,4,Jump Shot,JUMP_SHOTS,,1998
+Drew Barry,1003,Jump Shot,3,21,9,Jump Shot,JUMP_SHOTS,,1998
+Drew Barry,1003,Standard Layup,2,6,1,Layup Shot,LAYUPS,,1998
+Drew Barry,1003,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,1999
+Drew Barry,1003,Jump Shot,2,7,2,Jump Shot,JUMP_SHOTS,,1999
+Drew Barry,1003,Jump Shot,3,24,8,Jump Shot,JUMP_SHOTS,,1999
+Drew Barry,1003,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2000
+Drew Barry,1003,Jump Shot,2,11,4,Jump Shot,JUMP_SHOTS,,2000
+Drew Barry,1003,Jump Shot,3,18,7,Jump Shot,JUMP_SHOTS,,2000
+Drew Barry,1003,Standard Layup,2,2,2,Layup Shot,LAYUPS,,2000
+Drew Barry,1003,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2000

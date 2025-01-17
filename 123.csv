@@ -1,40 +1,57 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-123,Driving Layup,2PT Field Goal,30,16,Driving Layup Shot,LAYUPS,0.5333333333333333,1997
-123,Jump Shot,2PT Field Goal,52,16,Jump Shot,JUMP_SHOTS,0.3076923076923077,1997
-123,Jump Shot,3PT Field Goal,26,8,Jump Shot,JUMP_SHOTS,0.4615384615384615,1997
-123,Standard Layup,2PT Field Goal,19,3,Layup Shot,LAYUPS,0.1578947368421052,1997
-123,Running Jump Shot,2PT Field Goal,11,7,Running Jump Shot,JUMP_SHOTS,0.6363636363636364,1997
-123,Standard Dunk,2PT Field Goal,4,4,Slam Dunk Shot,DUNKS,1.0,1997
-123,Driving Layup,2PT Field Goal,12,4,Driving Layup Shot,LAYUPS,0.3333333333333333,1998
-123,Jump Shot,2PT Field Goal,19,6,Jump Shot,JUMP_SHOTS,0.3157894736842105,1998
-123,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1998
-123,Standard Layup,2PT Field Goal,7,1,Layup Shot,LAYUPS,0.1428571428571428,1998
-123,Running Jump Shot,2PT Field Goal,2,0,Running Jump Shot,JUMP_SHOTS,0.0,1998
-123,Standard Dunk,2PT Field Goal,2,2,Slam Dunk Shot,DUNKS,1.0,1998
-123,Driving Layup,2PT Field Goal,31,11,Driving Layup Shot,LAYUPS,0.3548387096774194,1999
-123,Jump Shot,2PT Field Goal,26,10,Jump Shot,JUMP_SHOTS,0.3846153846153846,1999
-123,Jump Shot,3PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,1999
-123,Standard Layup,2PT Field Goal,2,0,Layup Shot,LAYUPS,0.0,1999
-123,Running Jump Shot,2PT Field Goal,7,5,Running Jump Shot,JUMP_SHOTS,0.7142857142857143,1999
-123,Standard Dunk,2PT Field Goal,2,2,Slam Dunk Shot,DUNKS,1.0,1999
-123,Driving Layup,2PT Field Goal,10,9,Driving Layup Shot,LAYUPS,0.9,2000
-123,Jump Shot,2PT Field Goal,17,3,Jump Shot,JUMP_SHOTS,0.1764705882352941,2000
-123,Standard Layup,2PT Field Goal,3,0,Layup Shot,LAYUPS,0.0,2000
-123,Driving Layup,2PT Field Goal,50,29,Driving Layup Shot,LAYUPS,0.58,2001
-123,Jump Shot,2PT Field Goal,84,26,Jump Shot,JUMP_SHOTS,0.3095238095238095,2001
-123,Jump Shot,3PT Field Goal,18,8,Jump Shot,JUMP_SHOTS,0.6666666666666666,2001
-123,Standard Layup,2PT Field Goal,24,14,Layup Shot,LAYUPS,0.5833333333333334,2001
-123,Running Jump Shot,2PT Field Goal,12,4,Running Jump Shot,JUMP_SHOTS,0.3333333333333333,2001
-123,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2001
-123,Driving Layup,2PT Field Goal,3,3,Driving Layup Shot,LAYUPS,1.0,2002
-123,Jump Shot,2PT Field Goal,10,2,Jump Shot,JUMP_SHOTS,0.2,2002
-123,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,2002
-123,Driving Layup,2PT Field Goal,17,10,Driving Layup Shot,LAYUPS,0.5882352941176471,2003
-123,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2003
-123,Jump Shot,2PT Field Goal,61,22,Jump Shot,JUMP_SHOTS,0.360655737704918,2003
-123,Jump Shot,3PT Field Goal,5,0,Jump Shot,JUMP_SHOTS,0.0,2003
-123,Standard Layup,2PT Field Goal,17,7,Layup Shot,LAYUPS,0.4117647058823529,2003
-123,Running Jump Shot,2PT Field Goal,2,2,Running Jump Shot,JUMP_SHOTS,1.0,2003
-123,Standard Layup,2PT Field Goal,2,2,Running Layup Shot,LAYUPS,1.0,2003
-123,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2004
-123,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2004
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Robert Pack,123,Driving Dunk,2,6,6,Driving Dunk Shot,DUNKS,,1997
+Robert Pack,123,Driving Layup,2,146,92,Driving Layup Shot,LAYUPS,,1997
+Robert Pack,123,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,1997
+Robert Pack,123,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,1997
+Robert Pack,123,Jump Shot,2,287,88,Jump Shot,JUMP_SHOTS,,1997
+Robert Pack,123,Jump Shot,3,95,27,Jump Shot,JUMP_SHOTS,,1997
+Robert Pack,123,Standard Layup,2,103,21,Layup Shot,LAYUPS,,1997
+Robert Pack,123,Running Jump Shot,2,44,27,Running Jump Shot,JUMP_SHOTS,,1997
+Robert Pack,123,Standard Dunk,2,7,7,Slam Dunk Shot,DUNKS,,1997
+Robert Pack,123,Driving Layup,2,24,12,Driving Layup Shot,LAYUPS,,1998
+Robert Pack,123,Jump Shot,2,44,10,Jump Shot,JUMP_SHOTS,,1998
+Robert Pack,123,Jump Shot,3,6,3,Jump Shot,JUMP_SHOTS,,1998
+Robert Pack,123,Standard Layup,2,18,5,Layup Shot,LAYUPS,,1998
+Robert Pack,123,Running Jump Shot,2,3,0,Running Jump Shot,JUMP_SHOTS,,1998
+Robert Pack,123,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,1998
+Robert Pack,123,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,1998
+Robert Pack,123,Driving Layup,2,57,27,Driving Layup Shot,LAYUPS,,1999
+Robert Pack,123,Jump Shot,2,82,29,Jump Shot,JUMP_SHOTS,,1999
+Robert Pack,123,Jump Shot,3,3,0,Jump Shot,JUMP_SHOTS,,1999
+Robert Pack,123,Standard Layup,2,20,12,Layup Shot,LAYUPS,,1999
+Robert Pack,123,Running Jump Shot,2,10,5,Running Jump Shot,JUMP_SHOTS,,1999
+Robert Pack,123,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,1999
+Robert Pack,123,Driving Layup,2,66,51,Driving Layup Shot,LAYUPS,,2000
+Robert Pack,123,Jump Shot,2,126,34,Jump Shot,JUMP_SHOTS,,2000
+Robert Pack,123,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,2000
+Robert Pack,123,Standard Layup,2,32,9,Layup Shot,LAYUPS,,2000
+Robert Pack,123,Running Jump Shot,2,3,1,Running Jump Shot,JUMP_SHOTS,,2000
+Robert Pack,123,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2000
+Robert Pack,123,Driving Layup,2,95,54,Driving Layup Shot,LAYUPS,,2001
+Robert Pack,123,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2001
+Robert Pack,123,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2001
+Robert Pack,123,Jump Shot,2,211,75,Jump Shot,JUMP_SHOTS,,2001
+Robert Pack,123,Jump Shot,3,27,11,Jump Shot,JUMP_SHOTS,,2001
+Robert Pack,123,Standard Layup,2,65,31,Layup Shot,LAYUPS,,2001
+Robert Pack,123,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2001
+Robert Pack,123,Running Jump Shot,2,20,7,Running Jump Shot,JUMP_SHOTS,,2001
+Robert Pack,123,Running Jump Shot,3,3,0,Running Jump Shot,JUMP_SHOTS,,2001
+Robert Pack,123,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2001
+Robert Pack,123,Driving Layup,2,14,12,Driving Layup Shot,LAYUPS,,2002
+Robert Pack,123,Jump Shot,2,35,6,Jump Shot,JUMP_SHOTS,,2002
+Robert Pack,123,Jump Shot,3,4,1,Jump Shot,JUMP_SHOTS,,2002
+Robert Pack,123,Standard Layup,2,11,3,Layup Shot,LAYUPS,,2002
+Robert Pack,123,Running Jump Shot,2,4,3,Running Jump Shot,JUMP_SHOTS,,2002
+Robert Pack,123,Driving Layup,2,19,11,Driving Layup Shot,LAYUPS,,2003
+Robert Pack,123,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Robert Pack,123,Jump Shot,2,73,28,Jump Shot,JUMP_SHOTS,,2003
+Robert Pack,123,Jump Shot,3,5,0,Jump Shot,JUMP_SHOTS,,2003
+Robert Pack,123,Standard Layup,2,27,8,Layup Shot,LAYUPS,,2003
+Robert Pack,123,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,2003
+Robert Pack,123,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2003
+Robert Pack,123,Driving Layup,2,9,8,Driving Layup Shot,LAYUPS,,2004
+Robert Pack,123,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Robert Pack,123,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2004
+Robert Pack,123,Jump Shot,2,29,7,Jump Shot,JUMP_SHOTS,,2004
+Robert Pack,123,Standard Layup,2,9,4,Layup Shot,LAYUPS,,2004
+Robert Pack,123,Running Jump Shot,2,3,2,Running Jump Shot,JUMP_SHOTS,,2004

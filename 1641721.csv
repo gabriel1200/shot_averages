@@ -1,13 +1,18 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1641721,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.0,2024
-1641721,Driving Layup,2PT Field Goal,5,2,Driving Layup Shot,LAYUPS,0.4,2024
-1641721,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2024
-1641721,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2024
-1641721,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2024
-1641721,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.0,2024
-1641721,Step Back Jump Shot,3PT Field Goal,2,0,Step Back Jump shot,JUMP_SHOTS,0.0,2024
-1641721,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2025
-1641721,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2025
-1641721,Running Jump Shot,2PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2025
-1641721,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2025
-1641721,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Maxwell Lewis,1641721,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Maxwell Lewis,1641721,Driving Layup,2,6,2,Driving Layup Shot,LAYUPS,,2024
+Maxwell Lewis,1641721,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2024
+Maxwell Lewis,1641721,Jump Shot,3,5,1,Jump Shot,JUMP_SHOTS,,2024
+Maxwell Lewis,1641721,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2024
+Maxwell Lewis,1641721,Pullup Jump Shot,3,2,0,Pullup Jump shot,JUMP_SHOTS,,2024
+Maxwell Lewis,1641721,Alley Oop Layup,2,1,0,Running Alley Oop Layup Shot,LAYUPS,,2024
+Maxwell Lewis,1641721,Standard Dunk,2,1,0,Running Dunk Shot,DUNKS,,2024
+Maxwell Lewis,1641721,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2024
+Maxwell Lewis,1641721,Step Back Jump Shot,3,2,0,Step Back Jump shot,JUMP_SHOTS,,2024
+Maxwell Lewis,1641721,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2025
+Maxwell Lewis,1641721,Jump Shot,3,1,1,Jump Shot,JUMP_SHOTS,,2025
+Maxwell Lewis,1641721,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2025
+Maxwell Lewis,1641721,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2025
+Maxwell Lewis,1641721,Running Jump Shot,2,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025
+Maxwell Lewis,1641721,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2025
+Maxwell Lewis,1641721,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2025

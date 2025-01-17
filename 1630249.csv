@@ -1,29 +1,82 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1630249,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2024
-1630249,Finger Roll,2PT Field Goal,5,3,Driving Finger Roll Layup Shot,LAYUPS,0.6,2024
-1630249,Floating Jump Shot,2PT Field Goal,2,1,Driving Floating Jump Shot,FLOATING_SHOTS,0.5,2024
-1630249,Driving Layup,2PT Field Goal,3,1,Driving Layup Shot,LAYUPS,0.3333333333333333,2024
-1630249,Jump Shot,3PT Field Goal,24,9,Jump Shot,JUMP_SHOTS,0.5625,2024
-1630249,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2024
-1630249,Pullup Jump Shot,3PT Field Goal,4,1,Pullup Jump shot,JUMP_SHOTS,0.375,2024
-1630249,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2024
-1630249,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2024
-1630249,Standard Dunk,2PT Field Goal,2,2,Running Dunk Shot,DUNKS,1.0,2024
-1630249,Running Jump Shot,3PT Field Goal,2,2,Running Jump Shot,JUMP_SHOTS,1.5,2024
-1630249,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2024
-1630249,Running Jump Shot,3PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2024
-1630249,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2024
-1630249,Step Back Jump Shot,3PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2024
-1630249,Turnaround Jump Shot,2PT Field Goal,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,0.5,2024
-1630249,Specialty Dunk,2PT Field Goal,1,0,Cutting Dunk Shot,DUNKS,0.0,2025
-1630249,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2025
-1630249,Finger Roll,2PT Field Goal,2,1,Driving Finger Roll Layup Shot,LAYUPS,0.5,2025
-1630249,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,1.0,2025
-1630249,Floating Jump Shot,2PT Field Goal,3,2,Driving Floating Jump Shot,FLOATING_SHOTS,0.6666666666666666,2025
-1630249,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2025
-1630249,Jump Shot,3PT Field Goal,14,6,Jump Shot,JUMP_SHOTS,0.6428571428571429,2025
-1630249,Pullup Jump Shot,3PT Field Goal,2,1,Pullup Jump shot,JUMP_SHOTS,0.75,2025
-1630249,Putback Layup,2PT Field Goal,2,0,Putback Layup Shot,LAYUPS,0.0,2025
-1630249,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2025
-1630249,Running Jump Shot,3PT Field Goal,2,0,Running Jump Shot,JUMP_SHOTS,0.0,2025
-1630249,Running Jump Shot,3PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Vit Krejci,1630249,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2022
+Vit Krejci,1630249,Standard Layup,2,7,6,Cutting Layup Shot,LAYUPS,,2022
+Vit Krejci,1630249,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2022
+Vit Krejci,1630249,Finger Roll,2,4,1,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Vit Krejci,1630249,Floating Jump Shot,2,2,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Vit Krejci,1630249,Floating Jump Shot,2,1,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Vit Krejci,1630249,Driving Layup,2,12,7,Driving Layup Shot,LAYUPS,,2022
+Vit Krejci,1630249,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2022
+Vit Krejci,1630249,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Vit Krejci,1630249,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2022
+Vit Krejci,1630249,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2022
+Vit Krejci,1630249,Jump Shot,2,78,26,Jump Shot,JUMP_SHOTS,,2022
+Vit Krejci,1630249,Standard Layup,2,6,2,Layup Shot,LAYUPS,,2022
+Vit Krejci,1630249,Pullup Jump Shot,2,12,4,Pullup Jump shot,JUMP_SHOTS,,2022
+Vit Krejci,1630249,Putback Layup,2,3,2,Putback Layup Shot,LAYUPS,,2022
+Vit Krejci,1630249,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2022
+Vit Krejci,1630249,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2022
+Vit Krejci,1630249,Running Jump Shot,2,3,0,Running Jump Shot,JUMP_SHOTS,,2022
+Vit Krejci,1630249,Standard Layup,2,8,3,Running Layup Shot,LAYUPS,,2022
+Vit Krejci,1630249,Running Jump Shot,2,3,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
+Vit Krejci,1630249,Step Back Jump Shot,2,12,5,Step Back Jump shot,JUMP_SHOTS,,2022
+Vit Krejci,1630249,Putback Layup,2,2,1,Tip Layup Shot,LAYUPS,,2022
+Vit Krejci,1630249,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2022
+Vit Krejci,1630249,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2022
+Vit Krejci,1630249,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2022
+Vit Krejci,1630249,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2023
+Vit Krejci,1630249,Standard Layup,2,2,1,Cutting Layup Shot,LAYUPS,,2023
+Vit Krejci,1630249,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Vit Krejci,1630249,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+Vit Krejci,1630249,Floating Jump Shot,2,1,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Vit Krejci,1630249,Driving Layup,2,2,1,Driving Layup Shot,LAYUPS,,2023
+Vit Krejci,1630249,Jump Shot,2,15,3,Jump Shot,JUMP_SHOTS,,2023
+Vit Krejci,1630249,Pullup Jump Shot,2,5,2,Pullup Jump shot,JUMP_SHOTS,,2023
+Vit Krejci,1630249,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2023
+Vit Krejci,1630249,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2023
+Vit Krejci,1630249,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2023
+Vit Krejci,1630249,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2023
+Vit Krejci,1630249,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2023
+Vit Krejci,1630249,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2023
+Vit Krejci,1630249,Putback Layup,2,1,1,Tip Layup Shot,LAYUPS,,2023
+Vit Krejci,1630249,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2024
+Vit Krejci,1630249,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2024
+Vit Krejci,1630249,Finger Roll,2,6,4,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Vit Krejci,1630249,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Vit Krejci,1630249,Floating Jump Shot,2,4,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Vit Krejci,1630249,Driving Layup,2,6,3,Driving Layup Shot,LAYUPS,,2024
+Vit Krejci,1630249,Jump Shot,3,51,23,Jump Shot,JUMP_SHOTS,,2024
+Vit Krejci,1630249,Pullup Jump Shot,2,2,1,Pullup Jump shot,JUMP_SHOTS,,2024
+Vit Krejci,1630249,Pullup Jump Shot,3,7,2,Pullup Jump shot,JUMP_SHOTS,,2024
+Vit Krejci,1630249,Putback Layup,2,3,2,Putback Layup Shot,LAYUPS,,2024
+Vit Krejci,1630249,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2024
+Vit Krejci,1630249,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2024
+Vit Krejci,1630249,Running Jump Shot,3,5,2,Running Jump Shot,JUMP_SHOTS,,2024
+Vit Krejci,1630249,Standard Layup,2,4,3,Running Layup Shot,LAYUPS,,2024
+Vit Krejci,1630249,Running Jump Shot,3,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Vit Krejci,1630249,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2024
+Vit Krejci,1630249,Step Back Jump Shot,3,4,1,Step Back Jump shot,JUMP_SHOTS,,2024
+Vit Krejci,1630249,Turnaround Jump Shot,2,3,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2024
+Vít Krejčí,1630249,Specialty Dunk,2,2,1,Cutting Dunk Shot,DUNKS,,2025
+Vít Krejčí,1630249,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2025
+Vít Krejčí,1630249,Standard Layup,2,4,1,Cutting Layup Shot,LAYUPS,,2025
+Vít Krejčí,1630249,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2025
+Vít Krejčí,1630249,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Vít Krejčí,1630249,Floating Jump Shot,2,4,3,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2025
+Vít Krejčí,1630249,Floating Jump Shot,2,6,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Vít Krejčí,1630249,Driving Layup,2,9,5,Driving Layup Shot,LAYUPS,,2025
+Vít Krejčí,1630249,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2025
+Vít Krejčí,1630249,Fadeaway Jump Shot,3,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2025
+Vít Krejčí,1630249,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2025
+Vít Krejčí,1630249,Jump Shot,3,45,17,Jump Shot,JUMP_SHOTS,,2025
+Vít Krejčí,1630249,Standard Layup,2,1,1,Layup Shot,LAYUPS,,2025
+Vít Krejčí,1630249,Pullup Jump Shot,3,9,4,Pullup Jump shot,JUMP_SHOTS,,2025
+Vít Krejčí,1630249,Putback Layup,2,3,1,Putback Layup Shot,LAYUPS,,2025
+Vít Krejčí,1630249,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2025
+Vít Krejčí,1630249,Finger Roll,2,1,0,Running Finger Roll Layup Shot,LAYUPS,,2025
+Vít Krejčí,1630249,Running Jump Shot,3,4,0,Running Jump Shot,JUMP_SHOTS,,2025
+Vít Krejčí,1630249,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2025
+Vít Krejčí,1630249,Running Jump Shot,3,4,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025
+Vít Krejčí,1630249,Step Back Jump Shot,3,7,2,Step Back Jump shot,JUMP_SHOTS,,2025
+Vít Krejčí,1630249,Putback Layup,2,2,2,Tip Layup Shot,LAYUPS,,2025
+Vít Krejčí,1630249,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2025

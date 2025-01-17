@@ -1,20 +1,71 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-165,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,1997
-165,Hook Shot,2PT Field Goal,6,4,Hook Shot,POST_MOVES,0.6666666666666666,1997
-165,Jump Shot,2PT Field Goal,36,17,Jump Shot,JUMP_SHOTS,0.4722222222222222,1997
-165,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1997
-165,Standard Layup,2PT Field Goal,14,8,Layup Shot,LAYUPS,0.5714285714285714,1997
-165,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,1997
-165,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,1998
-165,Jump Shot,2PT Field Goal,6,2,Jump Shot,JUMP_SHOTS,0.3333333333333333,1998
-165,Standard Layup,2PT Field Goal,2,2,Layup Shot,LAYUPS,1.0,1998
-165,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,1999
-165,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,1999
-165,Hook Shot,2PT Field Goal,5,3,Hook Shot,POST_MOVES,0.6,1999
-165,Jump Shot,2PT Field Goal,57,24,Jump Shot,JUMP_SHOTS,0.4210526315789473,1999
-165,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,1999
-165,Standard Layup,2PT Field Goal,14,11,Layup Shot,LAYUPS,0.7857142857142857,1999
-165,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,1999
-165,Tip Shot,2PT Field Goal,4,3,Tip Shot,TIP_SHOTS,0.75,1999
-165,Jump Shot,2PT Field Goal,5,2,Jump Shot,JUMP_SHOTS,0.4,2000
-165,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Hakeem Olajuwon,165,Driving Dunk,2,8,7,Driving Dunk Shot,DUNKS,,1997
+Hakeem Olajuwon,165,Driving Layup,2,43,38,Driving Layup Shot,LAYUPS,,1997
+Hakeem Olajuwon,165,Standard Dunk,2,38,31,Dunk Shot,DUNKS,,1997
+Hakeem Olajuwon,165,Hook Shot,2,197,128,Hook Shot,POST_MOVES,,1997
+Hakeem Olajuwon,165,Jump Shot,2,811,352,Jump Shot,JUMP_SHOTS,,1997
+Hakeem Olajuwon,165,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,1997
+Hakeem Olajuwon,165,Standard Layup,2,298,152,Layup Shot,LAYUPS,,1997
+Hakeem Olajuwon,165,Running Jump Shot,2,6,3,Running Jump Shot,JUMP_SHOTS,,1997
+Hakeem Olajuwon,165,Standard Dunk,2,12,12,Slam Dunk Shot,DUNKS,,1997
+Hakeem Olajuwon,165,Tip Shot,2,12,4,Tip Shot,TIP_SHOTS,,1997
+Hakeem Olajuwon,165,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,1998
+Hakeem Olajuwon,165,Driving Layup,2,11,10,Driving Layup Shot,LAYUPS,,1998
+Hakeem Olajuwon,165,Standard Dunk,2,22,20,Dunk Shot,DUNKS,,1998
+Hakeem Olajuwon,165,Hook Shot,2,66,31,Hook Shot,POST_MOVES,,1998
+Hakeem Olajuwon,165,Jump Shot,2,383,162,Jump Shot,JUMP_SHOTS,,1998
+Hakeem Olajuwon,165,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,1998
+Hakeem Olajuwon,165,Standard Layup,2,129,66,Layup Shot,LAYUPS,,1998
+Hakeem Olajuwon,165,Running Jump Shot,2,6,5,Running Jump Shot,JUMP_SHOTS,,1998
+Hakeem Olajuwon,165,Standard Dunk,2,7,7,Slam Dunk Shot,DUNKS,,1998
+Hakeem Olajuwon,165,Tip Shot,2,7,4,Tip Shot,TIP_SHOTS,,1998
+Hakeem Olajuwon,165,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,1999
+Hakeem Olajuwon,165,Driving Layup,2,13,12,Driving Layup Shot,LAYUPS,,1999
+Hakeem Olajuwon,165,Standard Dunk,2,25,20,Dunk Shot,DUNKS,,1999
+Hakeem Olajuwon,165,Hook Shot,2,97,55,Hook Shot,POST_MOVES,,1999
+Hakeem Olajuwon,165,Jump Shot,2,430,181,Jump Shot,JUMP_SHOTS,,1999
+Hakeem Olajuwon,165,Jump Shot,3,12,4,Jump Shot,JUMP_SHOTS,,1999
+Hakeem Olajuwon,165,Standard Layup,2,123,83,Layup Shot,LAYUPS,,1999
+Hakeem Olajuwon,165,Running Jump Shot,2,6,3,Running Jump Shot,JUMP_SHOTS,,1999
+Hakeem Olajuwon,165,Standard Dunk,2,8,6,Slam Dunk Shot,DUNKS,,1999
+Hakeem Olajuwon,165,Tip Shot,2,9,7,Tip Shot,TIP_SHOTS,,1999
+Hakeem Olajuwon,165,Driving Layup,2,6,6,Driving Layup Shot,LAYUPS,,2000
+Hakeem Olajuwon,165,Standard Dunk,2,16,15,Dunk Shot,DUNKS,,2000
+Hakeem Olajuwon,165,Hook Shot,2,59,29,Hook Shot,POST_MOVES,,2000
+Hakeem Olajuwon,165,Jump Shot,2,246,81,Jump Shot,JUMP_SHOTS,,2000
+Hakeem Olajuwon,165,Standard Layup,2,79,53,Layup Shot,LAYUPS,,2000
+Hakeem Olajuwon,165,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2000
+Hakeem Olajuwon,165,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2000
+Hakeem Olajuwon,165,Tip Shot,2,10,5,Tip Shot,TIP_SHOTS,,2000
+Hakeem Olajuwon,165,Alley Oop Dunk,2,6,6,Alley Oop Dunk Shot,DUNKS,,2001
+Hakeem Olajuwon,165,Alley Oop Layup,2,4,2,Alley Oop Layup shot,LAYUPS,,2001
+Hakeem Olajuwon,165,Driving Layup,2,6,5,Driving Layup Shot,LAYUPS,,2001
+Hakeem Olajuwon,165,Standard Dunk,2,13,8,Dunk Shot,DUNKS,,2001
+Hakeem Olajuwon,165,Finger Roll,2,2,1,Finger Roll Shot,LAYUPS,,2001
+Hakeem Olajuwon,165,Hook Shot,2,21,10,Hook Shot,POST_MOVES,,2001
+Hakeem Olajuwon,165,Jump Shot,2,328,128,Jump Shot,JUMP_SHOTS,,2001
+Hakeem Olajuwon,165,Standard Layup,2,127,85,Layup Shot,LAYUPS,,2001
+Hakeem Olajuwon,165,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2001
+Hakeem Olajuwon,165,Standard Dunk,2,6,5,Slam Dunk Shot,DUNKS,,2001
+Hakeem Olajuwon,165,Tip Shot,2,11,7,Tip Shot,TIP_SHOTS,,2001
+Hakeem Olajuwon,165,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2001
+Hakeem Olajuwon,165,Turnaround Jump Shot,2,42,24,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Hakeem Olajuwon,165,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2002
+Hakeem Olajuwon,165,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2002
+Hakeem Olajuwon,165,Driving Hook Shot,2,4,2,Driving Hook Shot,POST_MOVES,,2002
+Hakeem Olajuwon,165,Driving Layup,2,12,9,Driving Layup Shot,LAYUPS,,2002
+Hakeem Olajuwon,165,Standard Dunk,2,4,3,Dunk Shot,DUNKS,,2002
+Hakeem Olajuwon,165,Fadeaway Jump Shot,2,34,22,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Hakeem Olajuwon,165,Finger Roll,2,2,2,Finger Roll Shot,LAYUPS,,2002
+Hakeem Olajuwon,165,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2002
+Hakeem Olajuwon,165,Hook Shot,2,7,3,Hook Shot,POST_MOVES,,2002
+Hakeem Olajuwon,165,Hook Shot,2,2,1,Jump Hook Shot,POST_MOVES,,2002
+Hakeem Olajuwon,165,Jump Shot,2,207,71,Jump Shot,JUMP_SHOTS,,2002
+Hakeem Olajuwon,165,Standard Layup,2,63,38,Layup Shot,LAYUPS,,2002
+Hakeem Olajuwon,165,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2002
+Hakeem Olajuwon,165,Finger Roll,2,1,1,Running Finger Roll Shot,LAYUPS,,2002
+Hakeem Olajuwon,165,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2002
+Hakeem Olajuwon,165,Standard Dunk,2,3,2,Slam Dunk Shot,DUNKS,,2002
+Hakeem Olajuwon,165,Tip Shot,2,13,7,Tip Shot,TIP_SHOTS,,2002
+Hakeem Olajuwon,165,Turnaround Hook Shot,2,7,4,Turnaround Hook Shot,POST_MOVES,,2002
+Hakeem Olajuwon,165,Turnaround Jump Shot,2,52,22,Turnaround Jump Shot,JUMP_SHOTS,,2002

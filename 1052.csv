@@ -1,12 +1,15 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1052,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2004
-1052,Standard Dunk,2PT Field Goal,2,1,Dunk Shot,DUNKS,0.5,2004
-1052,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2004
-1052,Standard Layup,2PT Field Goal,10,5,Layup Shot,LAYUPS,0.5,2004
-1052,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2004
-1052,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2005
-1052,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2005
-1052,Jump Shot,2PT Field Goal,10,3,Jump Shot,JUMP_SHOTS,0.3,2005
-1052,Standard Layup,2PT Field Goal,12,9,Layup Shot,LAYUPS,0.75,2005
-1052,Tip Shot,2PT Field Goal,4,0,Tip Shot,TIP_SHOTS,0.0,2005
-1052,Turnaround Jump Shot,2PT Field Goal,2,2,Turnaround Jump Shot,JUMP_SHOTS,1.0,2005
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Ben Handlogten,1052,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,2004
+Ben Handlogten,1052,Standard Dunk,2,4,3,Dunk Shot,DUNKS,,2004
+Ben Handlogten,1052,Jump Shot,2,8,4,Jump Shot,JUMP_SHOTS,,2004
+Ben Handlogten,1052,Standard Layup,2,26,14,Layup Shot,LAYUPS,,2004
+Ben Handlogten,1052,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2004
+Ben Handlogten,1052,Tip Shot,2,6,1,Tip Shot,TIP_SHOTS,,2004
+Ben Handlogten,1052,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2005
+Ben Handlogten,1052,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2005
+Ben Handlogten,1052,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2005
+Ben Handlogten,1052,Jump Shot,2,25,6,Jump Shot,JUMP_SHOTS,,2005
+Ben Handlogten,1052,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2005
+Ben Handlogten,1052,Standard Layup,2,41,29,Layup Shot,LAYUPS,,2005
+Ben Handlogten,1052,Tip Shot,2,7,2,Tip Shot,TIP_SHOTS,,2005
+Ben Handlogten,1052,Turnaround Jump Shot,2,3,2,Turnaround Jump Shot,JUMP_SHOTS,,2005

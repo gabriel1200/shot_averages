@@ -1,229 +1,361 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1740,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,1999
-1740,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,1999
-1740,Driving Layup,2PT Field Goal,3,3,Driving Layup Shot,LAYUPS,1.0,2000
-1740,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,2000
-1740,Jump Shot,2PT Field Goal,17,2,Jump Shot,JUMP_SHOTS,0.1176470588235294,2000
-1740,Jump Shot,3PT Field Goal,10,3,Jump Shot,JUMP_SHOTS,0.45,2000
-1740,Standard Layup,2PT Field Goal,4,3,Layup Shot,LAYUPS,0.75,2000
-1740,Standard Dunk,2PT Field Goal,2,2,Slam Dunk Shot,DUNKS,1.0,2000
-1740,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2001
-1740,Jump Shot,2PT Field Goal,10,5,Jump Shot,JUMP_SHOTS,0.5,2001
-1740,Jump Shot,3PT Field Goal,10,6,Jump Shot,JUMP_SHOTS,0.9,2001
-1740,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2001
-1740,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2001
-1740,Driving Dunk,2PT Field Goal,2,2,Driving Dunk Shot,DUNKS,1.0,2002
-1740,Driving Layup,2PT Field Goal,5,5,Driving Layup Shot,LAYUPS,1.0,2002
-1740,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,2002
-1740,Hook Shot,2PT Field Goal,3,2,Hook Shot,POST_MOVES,0.6666666666666666,2002
-1740,Jump Shot,2PT Field Goal,59,18,Jump Shot,JUMP_SHOTS,0.3050847457627119,2002
-1740,Jump Shot,3PT Field Goal,56,21,Jump Shot,JUMP_SHOTS,0.5625,2002
-1740,Standard Layup,2PT Field Goal,9,7,Layup Shot,LAYUPS,0.7777777777777778,2002
-1740,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2002
-1740,Running Jump Shot,2PT Field Goal,6,4,Running Jump Shot,JUMP_SHOTS,0.6666666666666666,2002
-1740,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2002
-1740,Standard Dunk,2PT Field Goal,3,3,Slam Dunk Shot,DUNKS,1.0,2002
-1740,Tip Shot,2PT Field Goal,3,2,Tip Shot,TIP_SHOTS,0.6666666666666666,2002
-1740,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2002
-1740,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2003
-1740,Driving Dunk,2PT Field Goal,2,2,Driving Dunk Shot,DUNKS,1.0,2003
-1740,Driving Layup,2PT Field Goal,2,2,Driving Layup Shot,LAYUPS,1.0,2003
-1740,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2003
-1740,Fadeaway Jump Shot,2PT Field Goal,2,1,Fadeaway Jump Shot,JUMP_SHOTS,0.5,2003
-1740,Hook Shot,2PT Field Goal,1,1,Jump Hook Shot,POST_MOVES,1.0,2003
-1740,Jump Shot,2PT Field Goal,52,19,Jump Shot,JUMP_SHOTS,0.3653846153846153,2003
-1740,Jump Shot,3PT Field Goal,16,4,Jump Shot,JUMP_SHOTS,0.375,2003
-1740,Standard Layup,2PT Field Goal,6,2,Layup Shot,LAYUPS,0.3333333333333333,2003
-1740,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2003
-1740,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2003
-1740,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2003
-1740,Tip Shot,2PT Field Goal,1,1,Running Tip Shot,TIP_SHOTS,1.0,2003
-1740,Standard Dunk,2PT Field Goal,4,4,Slam Dunk Shot,DUNKS,1.0,2003
-1740,Tip Shot,2PT Field Goal,2,1,Tip Shot,TIP_SHOTS,0.5,2003
-1740,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2003
-1740,Alley Oop Dunk,2PT Field Goal,3,3,Alley Oop Dunk Shot,DUNKS,1.0,2004
-1740,Alley Oop Layup,2PT Field Goal,3,3,Alley Oop Layup shot,LAYUPS,1.0,2004
-1740,Driving Dunk,2PT Field Goal,2,2,Driving Dunk Shot,DUNKS,1.0,2004
-1740,Driving Layup,2PT Field Goal,3,1,Driving Layup Shot,LAYUPS,0.3333333333333333,2004
-1740,Standard Dunk,2PT Field Goal,2,1,Dunk Shot,DUNKS,0.5,2004
-1740,Fadeaway Jump Shot,2PT Field Goal,4,2,Fadeaway Jump Shot,JUMP_SHOTS,0.5,2004
-1740,Specialty Dunk,2PT Field Goal,1,0,Follow Up Dunk Shot,DUNKS,0.0,2004
-1740,Hook Shot,2PT Field Goal,7,6,Hook Shot,POST_MOVES,0.8571428571428571,2004
-1740,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2004
-1740,Hook Shot,2PT Field Goal,1,0,Jump Hook Shot,POST_MOVES,0.0,2004
-1740,Jump Shot,2PT Field Goal,73,23,Jump Shot,JUMP_SHOTS,0.3150684931506849,2004
-1740,Jump Shot,3PT Field Goal,56,21,Jump Shot,JUMP_SHOTS,0.5625,2004
-1740,Standard Layup,2PT Field Goal,23,10,Layup Shot,LAYUPS,0.4347826086956521,2004
-1740,Reverse Layup,2PT Field Goal,2,1,Reverse Layup Shot,LAYUPS,0.5,2004
-1740,Running Hook Shot,2PT Field Goal,4,3,Running Hook Shot,POST_MOVES,0.75,2004
-1740,Running Jump Shot,2PT Field Goal,7,7,Running Jump Shot,JUMP_SHOTS,1.0,2004
-1740,Standard Dunk,2PT Field Goal,2,2,Slam Dunk Shot,DUNKS,1.0,2004
-1740,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2004
-1740,Turnaround Jump Shot,2PT Field Goal,2,2,Turnaround Jump Shot,JUMP_SHOTS,1.0,2004
-1740,Alley Oop Dunk,2PT Field Goal,3,3,Alley Oop Dunk Shot,DUNKS,1.0,2005
-1740,Alley Oop Layup,2PT Field Goal,1,1,Alley Oop Layup shot,LAYUPS,1.0,2005
-1740,Driving Dunk,2PT Field Goal,3,3,Driving Dunk Shot,DUNKS,1.0,2005
-1740,Driving Layup,2PT Field Goal,3,3,Driving Layup Shot,LAYUPS,1.0,2005
-1740,Specialty Dunk,2PT Field Goal,1,1,Follow Up Dunk Shot,DUNKS,1.0,2005
-1740,Hook Shot,2PT Field Goal,4,1,Hook Shot,POST_MOVES,0.25,2005
-1740,Jump Shot,2PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2005
-1740,Jump Shot,3PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.5,2005
-1740,Hook Shot,2PT Field Goal,1,1,Jump Hook Shot,POST_MOVES,1.0,2005
-1740,Jump Shot,2PT Field Goal,47,18,Jump Shot,JUMP_SHOTS,0.3829787234042553,2005
-1740,Jump Shot,3PT Field Goal,41,18,Jump Shot,JUMP_SHOTS,0.6585365853658537,2005
-1740,Standard Layup,2PT Field Goal,12,3,Layup Shot,LAYUPS,0.25,2005
-1740,Reverse Dunk,2PT Field Goal,1,1,Reverse Dunk Shot,DUNKS,1.0,2005
-1740,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2005
-1740,Running Hook Shot,2PT Field Goal,1,1,Running Hook Shot,POST_MOVES,1.0,2005
-1740,Running Jump Shot,2PT Field Goal,6,3,Running Jump Shot,JUMP_SHOTS,0.5,2005
-1740,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2005
-1740,Tip Shot,2PT Field Goal,2,0,Tip Shot,TIP_SHOTS,0.0,2005
-1740,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2005
-1740,Turnaround Jump Shot,2PT Field Goal,6,5,Turnaround Jump Shot,JUMP_SHOTS,0.8333333333333334,2005
-1740,Alley Oop Layup,2PT Field Goal,2,2,Alley Oop Layup shot,LAYUPS,1.0,2006
-1740,Driving Dunk,2PT Field Goal,6,6,Driving Dunk Shot,DUNKS,1.0,2006
-1740,Driving Layup,2PT Field Goal,5,5,Driving Layup Shot,LAYUPS,1.0,2006
-1740,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2006
-1740,Fadeaway Jump Shot,2PT Field Goal,4,3,Fadeaway Jump Shot,JUMP_SHOTS,0.75,2006
-1740,Specialty Dunk,2PT Field Goal,1,1,Follow Up Dunk Shot,DUNKS,1.0,2006
-1740,Hook Shot,2PT Field Goal,4,4,Hook Shot,POST_MOVES,1.0,2006
-1740,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2006
-1740,Hook Shot,2PT Field Goal,1,0,Jump Hook Shot,POST_MOVES,0.0,2006
-1740,Jump Shot,2PT Field Goal,43,14,Jump Shot,JUMP_SHOTS,0.3255813953488372,2006
-1740,Jump Shot,3PT Field Goal,60,26,Jump Shot,JUMP_SHOTS,0.65,2006
-1740,Standard Layup,2PT Field Goal,5,1,Layup Shot,LAYUPS,0.2,2006
-1740,Reverse Layup,2PT Field Goal,2,1,Reverse Layup Shot,LAYUPS,0.5,2006
-1740,Running Hook Shot,2PT Field Goal,1,0,Running Hook Shot,POST_MOVES,0.0,2006
-1740,Running Jump Shot,2PT Field Goal,5,4,Running Jump Shot,JUMP_SHOTS,0.8,2006
-1740,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2006
-1740,Turnaround Jump Shot,2PT Field Goal,3,2,Turnaround Jump Shot,JUMP_SHOTS,0.6666666666666666,2006
-1740,Alley Oop Dunk,2PT Field Goal,3,3,Alley Oop Dunk Shot,DUNKS,1.0,2007
-1740,Alley Oop Layup,2PT Field Goal,2,1,Alley Oop Layup shot,LAYUPS,0.5,2007
-1740,Driving Layup,2PT Field Goal,2,2,Driving Layup Shot,LAYUPS,1.0,2007
-1740,Standard Dunk,2PT Field Goal,1,0,Dunk Shot,DUNKS,0.0,2007
-1740,Fadeaway Jump Shot,2PT Field Goal,3,2,Fadeaway Jump Shot,JUMP_SHOTS,0.6666666666666666,2007
-1740,Specialty Dunk,2PT Field Goal,1,1,Follow Up Dunk Shot,DUNKS,1.0,2007
-1740,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2007
-1740,Jump Shot,2PT Field Goal,41,14,Jump Shot,JUMP_SHOTS,0.3414634146341463,2007
-1740,Jump Shot,3PT Field Goal,56,24,Jump Shot,JUMP_SHOTS,0.6428571428571429,2007
-1740,Standard Layup,2PT Field Goal,15,5,Layup Shot,LAYUPS,0.3333333333333333,2007
-1740,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2007
-1740,Running Jump Shot,2PT Field Goal,3,3,Running Jump Shot,JUMP_SHOTS,1.0,2007
-1740,Tip Shot,2PT Field Goal,2,1,Tip Shot,TIP_SHOTS,0.5,2007
-1740,Turnaround Jump Shot,2PT Field Goal,4,3,Turnaround Jump Shot,JUMP_SHOTS,0.75,2007
-1740,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2008
-1740,Alley Oop Layup,2PT Field Goal,1,1,Alley Oop Layup shot,LAYUPS,1.0,2008
-1740,Driving Dunk,2PT Field Goal,3,3,Driving Dunk Shot,DUNKS,1.0,2008
-1740,Finger Roll,2PT Field Goal,2,1,Driving Finger Roll Layup Shot,LAYUPS,0.5,2008
-1740,Driving Layup,2PT Field Goal,28,26,Driving Layup Shot,LAYUPS,0.9285714285714286,2008
-1740,Driving Layup,2PT Field Goal,3,3,Driving Reverse Layup Shot,LAYUPS,1.0,2008
-1740,Driving Dunk,2PT Field Goal,2,2,Driving Slam Dunk Shot,DUNKS,1.0,2008
-1740,Standard Dunk,2PT Field Goal,7,7,Dunk Shot,DUNKS,1.0,2008
-1740,Fadeaway Jump Shot,2PT Field Goal,9,4,Fadeaway Jump Shot,JUMP_SHOTS,0.4444444444444444,2008
-1740,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2008
-1740,Hook Shot,2PT Field Goal,12,6,Hook Shot,POST_MOVES,0.5,2008
-1740,Jump Shot,2PT Field Goal,11,6,Jump Bank Shot,JUMP_SHOTS,0.5454545454545454,2008
-1740,Hook Shot,2PT Field Goal,2,2,Jump Hook Shot,POST_MOVES,1.0,2008
-1740,Jump Shot,2PT Field Goal,111,42,Jump Shot,JUMP_SHOTS,0.3783783783783784,2008
-1740,Jump Shot,3PT Field Goal,337,141,Jump Shot,JUMP_SHOTS,0.6275964391691394,2008
-1740,Standard Layup,2PT Field Goal,55,28,Layup Shot,LAYUPS,0.509090909090909,2008
-1740,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Bank shot,JUMP_SHOTS,1.0,2008
-1740,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2008
-1740,Putback Dunk,2PT Field Goal,1,0,Putback Dunk Shot,DUNKS,0.0,2008
-1740,Putback Layup,2PT Field Goal,3,2,Putback Layup Shot,LAYUPS,0.6666666666666666,2008
-1740,Reverse Dunk,2PT Field Goal,1,1,Reverse Dunk Shot,DUNKS,1.0,2008
-1740,Reverse Layup,2PT Field Goal,4,1,Reverse Layup Shot,LAYUPS,0.25,2008
-1740,Running Jump Shot,2PT Field Goal,4,2,Running Bank shot,JUMP_SHOTS,0.5,2008
-1740,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2008
-1740,Running Hook Shot,2PT Field Goal,4,2,Running Hook Shot,POST_MOVES,0.5,2008
-1740,Running Jump Shot,2PT Field Goal,31,16,Running Jump Shot,JUMP_SHOTS,0.5161290322580645,2008
-1740,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2008
-1740,Standard Dunk,2PT Field Goal,4,4,Slam Dunk Shot,DUNKS,1.0,2008
-1740,Tip Shot,2PT Field Goal,6,2,Tip Shot,TIP_SHOTS,0.3333333333333333,2008
-1740,Turnaround Jump Shot,2PT Field Goal,4,2,Turnaround Fadeaway shot,JUMP_SHOTS,0.5,2008
-1740,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2008
-1740,Turnaround Jump Shot,2PT Field Goal,15,8,Turnaround Jump Shot,JUMP_SHOTS,0.5333333333333333,2008
-1740,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2009
-1740,Driving Dunk,2PT Field Goal,2,2,Driving Dunk Shot,DUNKS,1.0,2009
-1740,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2009
-1740,Driving Hook Shot,2PT Field Goal,2,1,Driving Hook Shot,POST_MOVES,0.5,2009
-1740,Driving Layup,2PT Field Goal,21,15,Driving Layup Shot,LAYUPS,0.7142857142857143,2009
-1740,Driving Layup,2PT Field Goal,2,1,Driving Reverse Layup Shot,LAYUPS,0.5,2009
-1740,Standard Dunk,2PT Field Goal,5,4,Dunk Shot,DUNKS,0.8,2009
-1740,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Bank shot,JUMP_SHOTS,1.0,2009
-1740,Fadeaway Jump Shot,2PT Field Goal,4,4,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2009
-1740,Hook Shot,2PT Field Goal,4,4,Hook Shot,POST_MOVES,1.0,2009
-1740,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2009
-1740,Jump Shot,2PT Field Goal,66,25,Jump Shot,JUMP_SHOTS,0.3787878787878788,2009
-1740,Jump Shot,3PT Field Goal,242,107,Jump Shot,JUMP_SHOTS,0.6632231404958677,2009
-1740,Standard Layup,2PT Field Goal,26,13,Layup Shot,LAYUPS,0.5,2009
-1740,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2009
-1740,Putback Layup,2PT Field Goal,2,2,Putback Layup Shot,LAYUPS,1.0,2009
-1740,Reverse Layup,2PT Field Goal,5,2,Reverse Layup Shot,LAYUPS,0.4,2009
-1740,Running Jump Shot,2PT Field Goal,2,1,Running Bank shot,JUMP_SHOTS,0.5,2009
-1740,Running Hook Shot,2PT Field Goal,1,0,Running Hook Shot,POST_MOVES,0.0,2009
-1740,Running Jump Shot,2PT Field Goal,10,4,Running Jump Shot,JUMP_SHOTS,0.4,2009
-1740,Step Back Jump Shot,3PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.5,2009
-1740,Tip Shot,2PT Field Goal,4,3,Tip Shot,TIP_SHOTS,0.75,2009
-1740,Turnaround Jump Shot,2PT Field Goal,5,4,Turnaround Jump Shot,JUMP_SHOTS,0.8,2009
-1740,Driving Hook Shot,2PT Field Goal,1,1,Driving Hook Shot,POST_MOVES,1.0,2010
-1740,Driving Layup,2PT Field Goal,3,1,Driving Layup Shot,LAYUPS,0.3333333333333333,2010
-1740,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2010
-1740,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2010
-1740,Hook Shot,2PT Field Goal,1,1,Jump Hook Shot,POST_MOVES,1.0,2010
-1740,Jump Shot,2PT Field Goal,6,2,Jump Shot,JUMP_SHOTS,0.3333333333333333,2010
-1740,Jump Shot,3PT Field Goal,18,5,Jump Shot,JUMP_SHOTS,0.4166666666666667,2010
-1740,Standard Layup,2PT Field Goal,6,4,Layup Shot,LAYUPS,0.6666666666666666,2010
-1740,Putback Layup,2PT Field Goal,1,0,Putback Layup Shot,LAYUPS,0.0,2010
-1740,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2010
-1740,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2010
-1740,Finger Roll,2PT Field Goal,2,2,Driving Finger Roll Layup Shot,LAYUPS,1.0,2011
-1740,Driving Hook Shot,2PT Field Goal,1,1,Driving Hook Shot,POST_MOVES,1.0,2011
-1740,Driving Layup,2PT Field Goal,4,2,Driving Layup Shot,LAYUPS,0.5,2011
-1740,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2011
-1740,Jump Shot,2PT Field Goal,20,5,Jump Shot,JUMP_SHOTS,0.25,2011
-1740,Jump Shot,3PT Field Goal,24,8,Jump Shot,JUMP_SHOTS,0.5,2011
-1740,Standard Layup,2PT Field Goal,3,2,Layup Shot,LAYUPS,0.6666666666666666,2011
-1740,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2011
-1740,Reverse Layup,2PT Field Goal,2,1,Reverse Layup Shot,LAYUPS,0.5,2011
-1740,Running Jump Shot,2PT Field Goal,3,3,Running Jump Shot,JUMP_SHOTS,1.0,2011
-1740,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.0,2011
-1740,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2011
-1740,Driving Jump Shot,2PT Field Goal,1,1,Driving Bank shot,JUMP_SHOTS,1.0,2012
-1740,Driving Hook Shot,2PT Field Goal,1,1,Driving Hook Shot,POST_MOVES,1.0,2012
-1740,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2012
-1740,Standard Dunk,2PT Field Goal,3,3,Dunk Shot,DUNKS,1.0,2012
-1740,Fadeaway Jump Shot,2PT Field Goal,3,1,Fadeaway Jump Shot,JUMP_SHOTS,0.3333333333333333,2012
-1740,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2012
-1740,Jump Shot,2PT Field Goal,22,8,Jump Shot,JUMP_SHOTS,0.3636363636363636,2012
-1740,Jump Shot,3PT Field Goal,17,4,Jump Shot,JUMP_SHOTS,0.3529411764705882,2012
-1740,Standard Layup,2PT Field Goal,6,2,Layup Shot,LAYUPS,0.3333333333333333,2012
-1740,Pullup Jump Shot,2PT Field Goal,2,1,Pullup Jump shot,JUMP_SHOTS,0.5,2012
-1740,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2012
-1740,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2012
-1740,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2012
-1740,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2012
-1740,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2013
-1740,Driving Layup,2PT Field Goal,5,3,Driving Layup Shot,LAYUPS,0.6,2013
-1740,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2013
-1740,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2013
-1740,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,2013
-1740,Jump Shot,2PT Field Goal,30,11,Jump Shot,JUMP_SHOTS,0.3666666666666666,2013
-1740,Jump Shot,3PT Field Goal,53,24,Jump Shot,JUMP_SHOTS,0.6792452830188679,2013
-1740,Standard Layup,2PT Field Goal,10,6,Layup Shot,LAYUPS,0.6,2013
-1740,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2013
-1740,Alley Oop Layup,2PT Field Goal,1,0,Alley Oop Layup shot,LAYUPS,0.0,2014
-1740,Driving Jump Shot,2PT Field Goal,1,1,Driving Bank shot,JUMP_SHOTS,1.0,2014
-1740,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2014
-1740,Driving Jump Shot,2PT Field Goal,1,1,Driving Jump shot,JUMP_SHOTS,1.0,2014
-1740,Driving Layup,2PT Field Goal,3,3,Driving Layup Shot,LAYUPS,1.0,2014
-1740,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2014
-1740,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2014
-1740,Hook Shot,2PT Field Goal,2,0,Hook Shot,POST_MOVES,0.0,2014
-1740,Jump Shot,2PT Field Goal,3,3,Jump Bank Shot,JUMP_SHOTS,1.0,2014
-1740,Jump Shot,2PT Field Goal,17,6,Jump Shot,JUMP_SHOTS,0.3529411764705882,2014
-1740,Jump Shot,3PT Field Goal,63,25,Jump Shot,JUMP_SHOTS,0.5952380952380952,2014
-1740,Standard Layup,2PT Field Goal,11,7,Layup Shot,LAYUPS,0.6363636363636364,2014
-1740,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Bank shot,JUMP_SHOTS,1.0,2014
-1740,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2014
-1740,Running Jump Shot,2PT Field Goal,4,0,Running Jump Shot,JUMP_SHOTS,0.0,2014
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Rashard Lewis,1740,Driving Layup,2,3,2,Driving Layup Shot,LAYUPS,,1999
+Rashard Lewis,1740,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,1999
+Rashard Lewis,1740,Jump Shot,2,28,5,Jump Shot,JUMP_SHOTS,,1999
+Rashard Lewis,1740,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,1999
+Rashard Lewis,1740,Standard Layup,2,7,2,Layup Shot,LAYUPS,,1999
+Rashard Lewis,1740,Standard Dunk,2,7,7,Slam Dunk Shot,DUNKS,,1999
+Rashard Lewis,1740,Tip Shot,2,4,2,Tip Shot,TIP_SHOTS,,1999
+Rashard Lewis,1740,Driving Dunk,2,3,2,Driving Dunk Shot,DUNKS,,2000
+Rashard Lewis,1740,Driving Layup,2,30,25,Driving Layup Shot,LAYUPS,,2000
+Rashard Lewis,1740,Standard Dunk,2,10,8,Dunk Shot,DUNKS,,2000
+Rashard Lewis,1740,Hook Shot,2,7,4,Hook Shot,POST_MOVES,,2000
+Rashard Lewis,1740,Jump Shot,2,313,102,Jump Shot,JUMP_SHOTS,,2000
+Rashard Lewis,1740,Jump Shot,3,55,20,Jump Shot,JUMP_SHOTS,,2000
+Rashard Lewis,1740,Standard Layup,2,79,59,Layup Shot,LAYUPS,,2000
+Rashard Lewis,1740,Running Jump Shot,2,12,8,Running Jump Shot,JUMP_SHOTS,,2000
+Rashard Lewis,1740,Standard Dunk,2,36,35,Slam Dunk Shot,DUNKS,,2000
+Rashard Lewis,1740,Tip Shot,2,21,12,Tip Shot,TIP_SHOTS,,2000
+Rashard Lewis,1740,Alley Oop Dunk,2,3,3,Alley Oop Dunk Shot,DUNKS,,2001
+Rashard Lewis,1740,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2001
+Rashard Lewis,1740,Driving Layup,2,27,22,Driving Layup Shot,LAYUPS,,2001
+Rashard Lewis,1740,Standard Dunk,2,17,13,Dunk Shot,DUNKS,,2001
+Rashard Lewis,1740,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2001
+Rashard Lewis,1740,Hook Shot,2,6,5,Hook Shot,POST_MOVES,,2001
+Rashard Lewis,1740,Jump Shot,2,604,230,Jump Shot,JUMP_SHOTS,,2001
+Rashard Lewis,1740,Jump Shot,3,38,20,Jump Shot,JUMP_SHOTS,,2001
+Rashard Lewis,1740,Standard Layup,2,96,56,Layup Shot,LAYUPS,,2001
+Rashard Lewis,1740,Reverse Layup,2,4,4,Reverse Layup Shot,LAYUPS,,2001
+Rashard Lewis,1740,Standard Dunk,2,5,5,Running Dunk Shot,DUNKS,,2001
+Rashard Lewis,1740,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2001
+Rashard Lewis,1740,Running Jump Shot,2,18,13,Running Jump Shot,JUMP_SHOTS,,2001
+Rashard Lewis,1740,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2001
+Rashard Lewis,1740,Standard Dunk,2,42,42,Slam Dunk Shot,DUNKS,,2001
+Rashard Lewis,1740,Tip Shot,2,17,6,Tip Shot,TIP_SHOTS,,2001
+Rashard Lewis,1740,Turnaround Jump Shot,2,4,1,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Rashard Lewis,1740,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2002
+Rashard Lewis,1740,Alley Oop Layup,2,3,1,Alley Oop Layup shot,LAYUPS,,2002
+Rashard Lewis,1740,Driving Dunk,2,12,12,Driving Dunk Shot,DUNKS,,2002
+Rashard Lewis,1740,Driving Layup,2,28,24,Driving Layup Shot,LAYUPS,,2002
+Rashard Lewis,1740,Standard Dunk,2,10,7,Dunk Shot,DUNKS,,2002
+Rashard Lewis,1740,Fadeaway Jump Shot,2,11,8,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Rashard Lewis,1740,Specialty Dunk,2,7,5,Follow Up Dunk Shot,DUNKS,,2002
+Rashard Lewis,1740,Hook Shot,2,17,9,Hook Shot,POST_MOVES,,2002
+Rashard Lewis,1740,Hook Shot,2,2,2,Jump Hook Shot,POST_MOVES,,2002
+Rashard Lewis,1740,Jump Shot,2,522,200,Jump Shot,JUMP_SHOTS,,2002
+Rashard Lewis,1740,Jump Shot,3,200,81,Jump Shot,JUMP_SHOTS,,2002
+Rashard Lewis,1740,Standard Layup,2,74,41,Layup Shot,LAYUPS,,2002
+Rashard Lewis,1740,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2002
+Rashard Lewis,1740,Reverse Layup,2,8,8,Reverse Layup Shot,LAYUPS,,2002
+Rashard Lewis,1740,Running Hook Shot,2,3,1,Running Hook Shot,POST_MOVES,,2002
+Rashard Lewis,1740,Running Jump Shot,2,32,24,Running Jump Shot,JUMP_SHOTS,,2002
+Rashard Lewis,1740,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2002
+Rashard Lewis,1740,Standard Dunk,2,18,18,Slam Dunk Shot,DUNKS,,2002
+Rashard Lewis,1740,Tip Shot,2,13,4,Tip Shot,TIP_SHOTS,,2002
+Rashard Lewis,1740,Turnaround Jump Shot,2,9,7,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Rashard Lewis,1740,Alley Oop Dunk,2,6,5,Alley Oop Dunk Shot,DUNKS,,2003
+Rashard Lewis,1740,Alley Oop Layup,2,6,5,Alley Oop Layup shot,LAYUPS,,2003
+Rashard Lewis,1740,Driving Dunk,2,11,11,Driving Dunk Shot,DUNKS,,2003
+Rashard Lewis,1740,Driving Layup,2,24,24,Driving Layup Shot,LAYUPS,,2003
+Rashard Lewis,1740,Standard Dunk,2,16,13,Dunk Shot,DUNKS,,2003
+Rashard Lewis,1740,Fadeaway Jump Shot,2,21,16,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Rashard Lewis,1740,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2003
+Rashard Lewis,1740,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2003
+Rashard Lewis,1740,Hook Shot,2,19,13,Hook Shot,POST_MOVES,,2003
+Rashard Lewis,1740,Hook Shot,2,3,2,Jump Hook Shot,POST_MOVES,,2003
+Rashard Lewis,1740,Jump Shot,2,726,265,Jump Shot,JUMP_SHOTS,,2003
+Rashard Lewis,1740,Jump Shot,3,70,22,Jump Shot,JUMP_SHOTS,,2003
+Rashard Lewis,1740,Standard Layup,2,119,57,Layup Shot,LAYUPS,,2003
+Rashard Lewis,1740,Reverse Layup,2,11,5,Reverse Layup Shot,LAYUPS,,2003
+Rashard Lewis,1740,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2003
+Rashard Lewis,1740,Running Hook Shot,2,3,2,Running Hook Shot,POST_MOVES,,2003
+Rashard Lewis,1740,Running Jump Shot,2,42,26,Running Jump Shot,JUMP_SHOTS,,2003
+Rashard Lewis,1740,Standard Layup,2,3,1,Running Layup Shot,LAYUPS,,2003
+Rashard Lewis,1740,Tip Shot,2,2,2,Running Tip Shot,TIP_SHOTS,,2003
+Rashard Lewis,1740,Standard Dunk,2,26,25,Slam Dunk Shot,DUNKS,,2003
+Rashard Lewis,1740,Tip Shot,2,12,4,Tip Shot,TIP_SHOTS,,2003
+Rashard Lewis,1740,Turnaround Jump Shot,2,24,17,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Rashard Lewis,1740,Turnaround Jump Shot,3,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Rashard Lewis,1740,Alley Oop Dunk,2,16,16,Alley Oop Dunk Shot,DUNKS,,2004
+Rashard Lewis,1740,Alley Oop Layup,2,11,9,Alley Oop Layup shot,LAYUPS,,2004
+Rashard Lewis,1740,Driving Dunk,2,8,8,Driving Dunk Shot,DUNKS,,2004
+Rashard Lewis,1740,Finger Roll,2,2,2,Driving Finger Roll Shot,LAYUPS,,2004
+Rashard Lewis,1740,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,,2004
+Rashard Lewis,1740,Driving Layup,2,23,15,Driving Layup Shot,LAYUPS,,2004
+Rashard Lewis,1740,Standard Dunk,2,10,8,Dunk Shot,DUNKS,,2004
+Rashard Lewis,1740,Fadeaway Jump Shot,2,14,8,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Rashard Lewis,1740,Specialty Dunk,2,2,0,Follow Up Dunk Shot,DUNKS,,2004
+Rashard Lewis,1740,Hook Shot,2,39,27,Hook Shot,POST_MOVES,,2004
+Rashard Lewis,1740,Jump Shot,2,8,5,Jump Bank Shot,JUMP_SHOTS,,2004
+Rashard Lewis,1740,Hook Shot,2,11,5,Jump Hook Shot,POST_MOVES,,2004
+Rashard Lewis,1740,Jump Shot,2,641,217,Jump Shot,JUMP_SHOTS,,2004
+Rashard Lewis,1740,Jump Shot,3,212,79,Jump Shot,JUMP_SHOTS,,2004
+Rashard Lewis,1740,Standard Layup,2,95,51,Layup Shot,LAYUPS,,2004
+Rashard Lewis,1740,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2004
+Rashard Lewis,1740,Reverse Layup,2,9,6,Reverse Layup Shot,LAYUPS,,2004
+Rashard Lewis,1740,Running Hook Shot,2,10,6,Running Hook Shot,POST_MOVES,,2004
+Rashard Lewis,1740,Running Jump Shot,2,37,23,Running Jump Shot,JUMP_SHOTS,,2004
+Rashard Lewis,1740,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2004
+Rashard Lewis,1740,Standard Dunk,2,21,20,Slam Dunk Shot,DUNKS,,2004
+Rashard Lewis,1740,Tip Shot,2,13,7,Tip Shot,TIP_SHOTS,,2004
+Rashard Lewis,1740,Turnaround Jump Shot,2,43,21,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Rashard Lewis,1740,Alley Oop Dunk,2,14,13,Alley Oop Dunk Shot,DUNKS,,2005
+Rashard Lewis,1740,Alley Oop Layup,2,7,6,Alley Oop Layup shot,LAYUPS,,2005
+Rashard Lewis,1740,Driving Dunk,2,12,12,Driving Dunk Shot,DUNKS,,2005
+Rashard Lewis,1740,Finger Roll,2,2,2,Driving Finger Roll Shot,LAYUPS,,2005
+Rashard Lewis,1740,Driving Layup,2,34,29,Driving Layup Shot,LAYUPS,,2005
+Rashard Lewis,1740,Standard Dunk,2,8,8,Dunk Shot,DUNKS,,2005
+Rashard Lewis,1740,Fadeaway Jump Shot,2,10,6,Fadeaway Jump Shot,JUMP_SHOTS,,2005
+Rashard Lewis,1740,Finger Roll,2,1,0,Finger Roll Shot,LAYUPS,,2005
+Rashard Lewis,1740,Specialty Dunk,2,5,5,Follow Up Dunk Shot,DUNKS,,2005
+Rashard Lewis,1740,Hook Shot,2,39,18,Hook Shot,POST_MOVES,,2005
+Rashard Lewis,1740,Jump Shot,2,14,12,Jump Bank Shot,JUMP_SHOTS,,2005
+Rashard Lewis,1740,Jump Shot,3,1,1,Jump Bank Shot,JUMP_SHOTS,,2005
+Rashard Lewis,1740,Hook Shot,2,10,9,Jump Hook Shot,POST_MOVES,,2005
+Rashard Lewis,1740,Jump Shot,2,577,208,Jump Shot,JUMP_SHOTS,,2005
+Rashard Lewis,1740,Jump Shot,3,207,90,Jump Shot,JUMP_SHOTS,,2005
+Rashard Lewis,1740,Standard Layup,2,88,38,Layup Shot,LAYUPS,,2005
+Rashard Lewis,1740,Reverse Dunk,2,3,3,Reverse Dunk Shot,DUNKS,,2005
+Rashard Lewis,1740,Reverse Layup,2,14,10,Reverse Layup Shot,LAYUPS,,2005
+Rashard Lewis,1740,Running Hook Shot,2,10,8,Running Hook Shot,POST_MOVES,,2005
+Rashard Lewis,1740,Running Jump Shot,2,38,21,Running Jump Shot,JUMP_SHOTS,,2005
+Rashard Lewis,1740,Standard Layup,2,2,0,Running Layup Shot,LAYUPS,,2005
+Rashard Lewis,1740,Standard Dunk,2,9,9,Slam Dunk Shot,DUNKS,,2005
+Rashard Lewis,1740,Tip Shot,2,13,3,Tip Shot,TIP_SHOTS,,2005
+Rashard Lewis,1740,Turnaround Hook Shot,2,3,0,Turnaround Hook Shot,POST_MOVES,,2005
+Rashard Lewis,1740,Turnaround Jump Shot,2,30,21,Turnaround Jump Shot,JUMP_SHOTS,,2005
+Rashard Lewis,1740,Alley Oop Dunk,2,5,4,Alley Oop Dunk Shot,DUNKS,,2006
+Rashard Lewis,1740,Alley Oop Layup,2,5,3,Alley Oop Layup shot,LAYUPS,,2006
+Rashard Lewis,1740,Driving Dunk,2,20,20,Driving Dunk Shot,DUNKS,,2006
+Rashard Lewis,1740,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2006
+Rashard Lewis,1740,Driving Layup,2,31,26,Driving Layup Shot,LAYUPS,,2006
+Rashard Lewis,1740,Standard Dunk,2,16,15,Dunk Shot,DUNKS,,2006
+Rashard Lewis,1740,Fadeaway Jump Shot,2,21,11,Fadeaway Jump Shot,JUMP_SHOTS,,2006
+Rashard Lewis,1740,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2006
+Rashard Lewis,1740,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2006
+Rashard Lewis,1740,Hook Shot,2,34,20,Hook Shot,POST_MOVES,,2006
+Rashard Lewis,1740,Jump Shot,2,15,14,Jump Bank Shot,JUMP_SHOTS,,2006
+Rashard Lewis,1740,Hook Shot,2,10,6,Jump Hook Shot,POST_MOVES,,2006
+Rashard Lewis,1740,Jump Shot,2,533,183,Jump Shot,JUMP_SHOTS,,2006
+Rashard Lewis,1740,Jump Shot,3,214,86,Jump Shot,JUMP_SHOTS,,2006
+Rashard Lewis,1740,Standard Layup,2,106,48,Layup Shot,LAYUPS,,2006
+Rashard Lewis,1740,Reverse Layup,2,12,9,Reverse Layup Shot,LAYUPS,,2006
+Rashard Lewis,1740,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2006
+Rashard Lewis,1740,Running Hook Shot,2,5,3,Running Hook Shot,POST_MOVES,,2006
+Rashard Lewis,1740,Running Jump Shot,2,50,36,Running Jump Shot,JUMP_SHOTS,,2006
+Rashard Lewis,1740,Standard Layup,2,5,1,Running Layup Shot,LAYUPS,,2006
+Rashard Lewis,1740,Standard Dunk,2,11,11,Slam Dunk Shot,DUNKS,,2006
+Rashard Lewis,1740,Tip Shot,2,10,7,Tip Shot,TIP_SHOTS,,2006
+Rashard Lewis,1740,Turnaround Hook Shot,2,3,2,Turnaround Hook Shot,POST_MOVES,,2006
+Rashard Lewis,1740,Turnaround Jump Shot,2,41,29,Turnaround Jump Shot,JUMP_SHOTS,,2006
+Rashard Lewis,1740,Alley Oop Dunk,2,11,11,Alley Oop Dunk Shot,DUNKS,,2007
+Rashard Lewis,1740,Alley Oop Layup,2,4,2,Alley Oop Layup shot,LAYUPS,,2007
+Rashard Lewis,1740,Driving Dunk,2,8,8,Driving Dunk Shot,DUNKS,,2007
+Rashard Lewis,1740,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2007
+Rashard Lewis,1740,Driving Layup,2,30,22,Driving Layup Shot,LAYUPS,,2007
+Rashard Lewis,1740,Standard Dunk,2,7,5,Dunk Shot,DUNKS,,2007
+Rashard Lewis,1740,Fadeaway Jump Shot,2,20,13,Fadeaway Jump Shot,JUMP_SHOTS,,2007
+Rashard Lewis,1740,Specialty Dunk,2,5,5,Follow Up Dunk Shot,DUNKS,,2007
+Rashard Lewis,1740,Hook Shot,2,14,4,Hook Shot,POST_MOVES,,2007
+Rashard Lewis,1740,Jump Shot,2,20,17,Jump Bank Shot,JUMP_SHOTS,,2007
+Rashard Lewis,1740,Hook Shot,2,3,3,Jump Hook Shot,POST_MOVES,,2007
+Rashard Lewis,1740,Jump Shot,2,494,181,Jump Shot,JUMP_SHOTS,,2007
+Rashard Lewis,1740,Jump Shot,3,199,80,Jump Shot,JUMP_SHOTS,,2007
+Rashard Lewis,1740,Standard Layup,2,78,36,Layup Shot,LAYUPS,,2007
+Rashard Lewis,1740,Reverse Layup,2,11,6,Reverse Layup Shot,LAYUPS,,2007
+Rashard Lewis,1740,Running Hook Shot,2,3,3,Running Hook Shot,POST_MOVES,,2007
+Rashard Lewis,1740,Running Jump Shot,2,46,32,Running Jump Shot,JUMP_SHOTS,,2007
+Rashard Lewis,1740,Standard Layup,2,6,2,Running Layup Shot,LAYUPS,,2007
+Rashard Lewis,1740,Standard Dunk,2,12,12,Slam Dunk Shot,DUNKS,,2007
+Rashard Lewis,1740,Tip Shot,2,7,5,Tip Shot,TIP_SHOTS,,2007
+Rashard Lewis,1740,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2007
+Rashard Lewis,1740,Turnaround Jump Shot,2,25,16,Turnaround Jump Shot,JUMP_SHOTS,,2007
+Rashard Lewis,1740,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2008
+Rashard Lewis,1740,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2008
+Rashard Lewis,1740,Driving Dunk,2,6,5,Driving Dunk Shot,DUNKS,,2008
+Rashard Lewis,1740,Finger Roll,2,4,3,Driving Finger Roll Layup Shot,LAYUPS,,2008
+Rashard Lewis,1740,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2008
+Rashard Lewis,1740,Driving Layup,2,43,37,Driving Layup Shot,LAYUPS,,2008
+Rashard Lewis,1740,Driving Layup,2,4,4,Driving Reverse Layup Shot,LAYUPS,,2008
+Rashard Lewis,1740,Driving Dunk,2,2,2,Driving Slam Dunk Shot,DUNKS,,2008
+Rashard Lewis,1740,Standard Dunk,2,11,10,Dunk Shot,DUNKS,,2008
+Rashard Lewis,1740,Fadeaway Jump Shot,2,15,5,Fadeaway Jump Shot,JUMP_SHOTS,,2008
+Rashard Lewis,1740,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2008
+Rashard Lewis,1740,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2008
+Rashard Lewis,1740,Hook Shot,2,22,9,Hook Shot,POST_MOVES,,2008
+Rashard Lewis,1740,Hook Shot,2,1,1,Jump Bank Hook Shot,POST_MOVES,,2008
+Rashard Lewis,1740,Jump Shot,2,19,12,Jump Bank Shot,JUMP_SHOTS,,2008
+Rashard Lewis,1740,Hook Shot,2,6,4,Jump Hook Shot,POST_MOVES,,2008
+Rashard Lewis,1740,Jump Shot,2,303,112,Jump Shot,JUMP_SHOTS,,2008
+Rashard Lewis,1740,Jump Shot,3,461,186,Jump Shot,JUMP_SHOTS,,2008
+Rashard Lewis,1740,Standard Layup,2,100,47,Layup Shot,LAYUPS,,2008
+Rashard Lewis,1740,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2008
+Rashard Lewis,1740,Pullup Jump Shot,2,2,2,Pullup Jump shot,JUMP_SHOTS,,2008
+Rashard Lewis,1740,Putback Dunk,2,2,1,Putback Dunk Shot,DUNKS,,2008
+Rashard Lewis,1740,Putback Layup,2,3,2,Putback Layup Shot,LAYUPS,,2008
+Rashard Lewis,1740,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2008
+Rashard Lewis,1740,Reverse Layup,2,5,1,Reverse Layup Shot,LAYUPS,,2008
+Rashard Lewis,1740,Running Jump Shot,2,8,6,Running Bank shot,JUMP_SHOTS,,2008
+Rashard Lewis,1740,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2008
+Rashard Lewis,1740,Running Hook Shot,2,7,3,Running Hook Shot,POST_MOVES,,2008
+Rashard Lewis,1740,Running Jump Shot,2,50,29,Running Jump Shot,JUMP_SHOTS,,2008
+Rashard Lewis,1740,Standard Layup,2,3,0,Running Layup Shot,LAYUPS,,2008
+Rashard Lewis,1740,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,2008
+Rashard Lewis,1740,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2008
+Rashard Lewis,1740,Tip Shot,2,11,4,Tip Shot,TIP_SHOTS,,2008
+Rashard Lewis,1740,Turnaround Jump Shot,2,7,4,Turnaround Fadeaway shot,JUMP_SHOTS,,2008
+Rashard Lewis,1740,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2008
+Rashard Lewis,1740,Turnaround Jump Shot,2,23,11,Turnaround Jump Shot,JUMP_SHOTS,,2008
+Rashard Lewis,1740,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2009
+Rashard Lewis,1740,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2009
+Rashard Lewis,1740,Driving Dunk,2,5,4,Driving Dunk Shot,DUNKS,,2009
+Rashard Lewis,1740,Finger Roll,2,3,3,Driving Finger Roll Layup Shot,LAYUPS,,2009
+Rashard Lewis,1740,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,,2009
+Rashard Lewis,1740,Driving Jump Shot,2,2,2,Driving Jump shot,JUMP_SHOTS,,2009
+Rashard Lewis,1740,Driving Layup,2,47,33,Driving Layup Shot,LAYUPS,,2009
+Rashard Lewis,1740,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2009
+Rashard Lewis,1740,Standard Dunk,2,10,9,Dunk Shot,DUNKS,,2009
+Rashard Lewis,1740,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2009
+Rashard Lewis,1740,Fadeaway Jump Shot,2,21,11,Fadeaway Jump Shot,JUMP_SHOTS,,2009
+Rashard Lewis,1740,Floating Jump Shot,2,9,6,Floating Jump shot,FLOATING_SHOTS,,2009
+Rashard Lewis,1740,Hook Shot,2,16,10,Hook Shot,POST_MOVES,,2009
+Rashard Lewis,1740,Jump Shot,2,9,7,Jump Bank Shot,JUMP_SHOTS,,2009
+Rashard Lewis,1740,Hook Shot,2,4,2,Jump Hook Shot,POST_MOVES,,2009
+Rashard Lewis,1740,Jump Shot,2,443,150,Jump Shot,JUMP_SHOTS,,2009
+Rashard Lewis,1740,Jump Shot,3,309,128,Jump Shot,JUMP_SHOTS,,2009
+Rashard Lewis,1740,Standard Layup,2,93,43,Layup Shot,LAYUPS,,2009
+Rashard Lewis,1740,Pullup Jump Shot,2,4,2,Pullup Jump shot,JUMP_SHOTS,,2009
+Rashard Lewis,1740,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2009
+Rashard Lewis,1740,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2009
+Rashard Lewis,1740,Putback Dunk,2,1,1,Putback Slam Dunk Shot,DUNKS,,2009
+Rashard Lewis,1740,Reverse Layup,2,8,4,Reverse Layup Shot,LAYUPS,,2009
+Rashard Lewis,1740,Running Jump Shot,2,6,2,Running Bank shot,JUMP_SHOTS,,2009
+Rashard Lewis,1740,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2009
+Rashard Lewis,1740,Running Jump Shot,2,21,8,Running Jump Shot,JUMP_SHOTS,,2009
+Rashard Lewis,1740,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2009
+Rashard Lewis,1740,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2009
+Rashard Lewis,1740,Step Back Jump Shot,2,2,2,Step Back Jump shot,JUMP_SHOTS,,2009
+Rashard Lewis,1740,Step Back Jump Shot,3,1,1,Step Back Jump shot,JUMP_SHOTS,,2009
+Rashard Lewis,1740,Tip Shot,2,9,7,Tip Shot,TIP_SHOTS,,2009
+Rashard Lewis,1740,Turnaround Jump Shot,2,1,0,Turnaround Bank shot,JUMP_SHOTS,,2009
+Rashard Lewis,1740,Turnaround Jump Shot,2,19,14,Turnaround Fadeaway shot,JUMP_SHOTS,,2009
+Rashard Lewis,1740,Turnaround Jump Shot,2,30,17,Turnaround Jump Shot,JUMP_SHOTS,,2009
+Rashard Lewis,1740,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2010
+Rashard Lewis,1740,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2010
+Rashard Lewis,1740,Finger Roll,2,4,2,Driving Finger Roll Layup Shot,LAYUPS,,2010
+Rashard Lewis,1740,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2010
+Rashard Lewis,1740,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2010
+Rashard Lewis,1740,Driving Layup,2,40,23,Driving Layup Shot,LAYUPS,,2010
+Rashard Lewis,1740,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2010
+Rashard Lewis,1740,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2010
+Rashard Lewis,1740,Fadeaway Jump Shot,2,9,5,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+Rashard Lewis,1740,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2010
+Rashard Lewis,1740,Floating Jump Shot,2,9,8,Floating Jump shot,FLOATING_SHOTS,,2010
+Rashard Lewis,1740,Hook Shot,2,5,4,Hook Shot,POST_MOVES,,2010
+Rashard Lewis,1740,Jump Shot,2,6,2,Jump Bank Shot,JUMP_SHOTS,,2010
+Rashard Lewis,1740,Hook Shot,2,4,2,Jump Hook Shot,POST_MOVES,,2010
+Rashard Lewis,1740,Jump Shot,2,557,218,Jump Shot,JUMP_SHOTS,,2010
+Rashard Lewis,1740,Jump Shot,3,24,7,Jump Shot,JUMP_SHOTS,,2010
+Rashard Lewis,1740,Standard Layup,2,59,31,Layup Shot,LAYUPS,,2010
+Rashard Lewis,1740,Pullup Jump Shot,2,9,7,Pullup Jump shot,JUMP_SHOTS,,2010
+Rashard Lewis,1740,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2010
+Rashard Lewis,1740,Putback Layup,2,2,0,Putback Layup Shot,LAYUPS,,2010
+Rashard Lewis,1740,Reverse Layup,2,2,0,Reverse Layup Shot,LAYUPS,,2010
+Rashard Lewis,1740,Running Jump Shot,2,5,5,Running Bank shot,JUMP_SHOTS,,2010
+Rashard Lewis,1740,Running Hook Shot,2,3,2,Running Hook Shot,POST_MOVES,,2010
+Rashard Lewis,1740,Running Jump Shot,2,17,8,Running Jump Shot,JUMP_SHOTS,,2010
+Rashard Lewis,1740,Standard Layup,2,4,2,Running Layup Shot,LAYUPS,,2010
+Rashard Lewis,1740,Tip Shot,2,4,1,Tip Shot,TIP_SHOTS,,2010
+Rashard Lewis,1740,Turnaround Jump Shot,2,14,8,Turnaround Fadeaway shot,JUMP_SHOTS,,2010
+Rashard Lewis,1740,Turnaround Jump Shot,2,18,8,Turnaround Jump Shot,JUMP_SHOTS,,2010
+Rashard Lewis,1740,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2011
+Rashard Lewis,1740,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2011
+Rashard Lewis,1740,Driving Hook Shot,2,4,3,Driving Hook Shot,POST_MOVES,,2011
+Rashard Lewis,1740,Driving Jump Shot,2,1,1,Driving Jump shot,JUMP_SHOTS,,2011
+Rashard Lewis,1740,Driving Layup,2,14,10,Driving Layup Shot,LAYUPS,,2011
+Rashard Lewis,1740,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2011
+Rashard Lewis,1740,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2011
+Rashard Lewis,1740,Fadeaway Jump Shot,2,11,7,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Rashard Lewis,1740,Floating Jump Shot,2,6,3,Floating Jump shot,FLOATING_SHOTS,,2011
+Rashard Lewis,1740,Hook Shot,2,7,3,Hook Shot,POST_MOVES,,2011
+Rashard Lewis,1740,Jump Shot,2,3,1,Jump Bank Shot,JUMP_SHOTS,,2011
+Rashard Lewis,1740,Jump Shot,2,365,128,Jump Shot,JUMP_SHOTS,,2011
+Rashard Lewis,1740,Jump Shot,3,60,23,Jump Shot,JUMP_SHOTS,,2011
+Rashard Lewis,1740,Standard Layup,2,34,20,Layup Shot,LAYUPS,,2011
+Rashard Lewis,1740,Pullup Jump Shot,2,10,6,Pullup Jump shot,JUMP_SHOTS,,2011
+Rashard Lewis,1740,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2011
+Rashard Lewis,1740,Putback Layup,2,3,3,Putback Layup Shot,LAYUPS,,2011
+Rashard Lewis,1740,Reverse Layup,2,5,4,Reverse Layup Shot,LAYUPS,,2011
+Rashard Lewis,1740,Running Jump Shot,2,1,0,Running Bank shot,JUMP_SHOTS,,2011
+Rashard Lewis,1740,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2011
+Rashard Lewis,1740,Running Hook Shot,2,3,2,Running Hook Shot,POST_MOVES,,2011
+Rashard Lewis,1740,Running Jump Shot,2,6,5,Running Jump Shot,JUMP_SHOTS,,2011
+Rashard Lewis,1740,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2011
+Rashard Lewis,1740,Step Back Jump Shot,2,8,5,Step Back Jump shot,JUMP_SHOTS,,2011
+Rashard Lewis,1740,Tip Shot,2,9,4,Tip Shot,TIP_SHOTS,,2011
+Rashard Lewis,1740,Turnaround Jump Shot,2,4,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2011
+Rashard Lewis,1740,Turnaround Jump Shot,2,17,11,Turnaround Jump Shot,JUMP_SHOTS,,2011
+Rashard Lewis,1740,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2012
+Rashard Lewis,1740,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2012
+Rashard Lewis,1740,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,,2012
+Rashard Lewis,1740,Driving Jump Shot,2,2,1,Driving Jump shot,JUMP_SHOTS,,2012
+Rashard Lewis,1740,Driving Layup,2,4,3,Driving Layup Shot,LAYUPS,,2012
+Rashard Lewis,1740,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2012
+Rashard Lewis,1740,Fadeaway Jump Shot,2,5,2,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Rashard Lewis,1740,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2012
+Rashard Lewis,1740,Hook Shot,2,4,1,Hook Shot,POST_MOVES,,2012
+Rashard Lewis,1740,Jump Shot,2,100,26,Jump Shot,JUMP_SHOTS,,2012
+Rashard Lewis,1740,Jump Shot,3,43,10,Jump Shot,JUMP_SHOTS,,2012
+Rashard Lewis,1740,Standard Layup,2,30,15,Layup Shot,LAYUPS,,2012
+Rashard Lewis,1740,Pullup Jump Shot,2,2,1,Pullup Jump shot,JUMP_SHOTS,,2012
+Rashard Lewis,1740,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2012
+Rashard Lewis,1740,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2012
+Rashard Lewis,1740,Running Jump Shot,2,4,3,Running Jump Shot,JUMP_SHOTS,,2012
+Rashard Lewis,1740,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2012
+Rashard Lewis,1740,Tip Shot,2,3,3,Tip Shot,TIP_SHOTS,,2012
+Rashard Lewis,1740,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2012
+Rashard Lewis,1740,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2012
+Rashard Lewis,1740,Turnaround Jump Shot,2,8,7,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Rashard Lewis,1740,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2013
+Rashard Lewis,1740,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2013
+Rashard Lewis,1740,Driving Layup,2,9,6,Driving Layup Shot,LAYUPS,,2013
+Rashard Lewis,1740,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2013
+Rashard Lewis,1740,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2013
+Rashard Lewis,1740,Fadeaway Jump Shot,2,4,3,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Rashard Lewis,1740,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2013
+Rashard Lewis,1740,Floating Jump Shot,2,3,0,Floating Jump shot,FLOATING_SHOTS,,2013
+Rashard Lewis,1740,Hook Shot,2,4,2,Hook Shot,POST_MOVES,,2013
+Rashard Lewis,1740,Jump Shot,2,64,21,Jump Shot,JUMP_SHOTS,,2013
+Rashard Lewis,1740,Jump Shot,3,130,51,Jump Shot,JUMP_SHOTS,,2013
+Rashard Lewis,1740,Standard Layup,2,16,11,Layup Shot,LAYUPS,,2013
+Rashard Lewis,1740,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2013
+Rashard Lewis,1740,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2013
+Rashard Lewis,1740,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2013
+Rashard Lewis,1740,Running Jump Shot,2,5,2,Running Jump Shot,JUMP_SHOTS,,2013
+Rashard Lewis,1740,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2013
+Rashard Lewis,1740,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2013
+Rashard Lewis,1740,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Rashard Lewis,1740,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2014
+Rashard Lewis,1740,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2014
+Rashard Lewis,1740,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2014
+Rashard Lewis,1740,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,,2014
+Rashard Lewis,1740,Driving Jump Shot,2,2,1,Driving Jump shot,JUMP_SHOTS,,2014
+Rashard Lewis,1740,Driving Layup,2,6,4,Driving Layup Shot,LAYUPS,,2014
+Rashard Lewis,1740,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2014
+Rashard Lewis,1740,Floating Jump Shot,2,3,3,Floating Jump shot,FLOATING_SHOTS,,2014
+Rashard Lewis,1740,Hook Shot,2,3,0,Hook Shot,POST_MOVES,,2014
+Rashard Lewis,1740,Jump Shot,2,5,4,Jump Bank Shot,JUMP_SHOTS,,2014
+Rashard Lewis,1740,Hook Shot,2,4,3,Jump Hook Shot,POST_MOVES,,2014
+Rashard Lewis,1740,Jump Shot,2,36,11,Jump Shot,JUMP_SHOTS,,2014
+Rashard Lewis,1740,Jump Shot,3,134,46,Jump Shot,JUMP_SHOTS,,2014
+Rashard Lewis,1740,Standard Layup,2,18,13,Layup Shot,LAYUPS,,2014
+Rashard Lewis,1740,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2014
+Rashard Lewis,1740,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2014
+Rashard Lewis,1740,Running Jump Shot,2,1,0,Running Bank shot,JUMP_SHOTS,,2014
+Rashard Lewis,1740,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2014
+Rashard Lewis,1740,Running Jump Shot,2,5,0,Running Jump Shot,JUMP_SHOTS,,2014
+Rashard Lewis,1740,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2014
+Rashard Lewis,1740,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2014
+Rashard Lewis,1740,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2014
+Rashard Lewis,1740,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2014
+Rashard Lewis,1740,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2014

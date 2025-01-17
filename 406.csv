@@ -1,23 +1,289 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-406,Driving Layup,2PT Field Goal,2,2,Driving Layup Shot,LAYUPS,1.0,1997
-406,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,1997
-406,Hook Shot,2PT Field Goal,5,4,Hook Shot,POST_MOVES,0.8,1997
-406,Jump Shot,2PT Field Goal,3,2,Jump Shot,JUMP_SHOTS,0.6666666666666666,1997
-406,Standard Layup,2PT Field Goal,4,0,Layup Shot,LAYUPS,0.0,1997
-406,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,1997
-406,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,1997
-406,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,1998
-406,Jump Shot,2PT Field Goal,4,1,Jump Shot,JUMP_SHOTS,0.25,1998
-406,Standard Layup,2PT Field Goal,3,0,Layup Shot,LAYUPS,0.0,1998
-406,Standard Dunk,2PT Field Goal,3,3,Slam Dunk Shot,DUNKS,1.0,1998
-406,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,1999
-406,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,1999
-406,Hook Shot,2PT Field Goal,6,2,Hook Shot,POST_MOVES,0.3333333333333333,1999
-406,Jump Shot,2PT Field Goal,12,5,Jump Shot,JUMP_SHOTS,0.4166666666666667,1999
-406,Standard Layup,2PT Field Goal,13,9,Layup Shot,LAYUPS,0.6923076923076923,1999
-406,Standard Dunk,2PT Field Goal,11,10,Slam Dunk Shot,DUNKS,0.9090909090909092,1999
-406,Tip Shot,2PT Field Goal,2,1,Tip Shot,TIP_SHOTS,0.5,1999
-406,Hook Shot,2PT Field Goal,4,1,Hook Shot,POST_MOVES,0.25,2000
-406,Jump Shot,2PT Field Goal,12,4,Jump Shot,JUMP_SHOTS,0.3333333333333333,2000
-406,Standard Layup,2PT Field Goal,12,10,Layup Shot,LAYUPS,0.8333333333333334,2000
-406,Standard Dunk,2PT Field Goal,6,6,Slam Dunk Shot,DUNKS,1.0,2000
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Shaquille O'Neal,406,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,1997
+Shaquille O'Neal,406,Driving Layup,2,37,36,Driving Layup Shot,LAYUPS,,1997
+Shaquille O'Neal,406,Standard Dunk,2,34,30,Dunk Shot,DUNKS,,1997
+Shaquille O'Neal,406,Hook Shot,2,157,88,Hook Shot,POST_MOVES,,1997
+Shaquille O'Neal,406,Jump Shot,2,304,106,Jump Shot,JUMP_SHOTS,,1997
+Shaquille O'Neal,406,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,1997
+Shaquille O'Neal,406,Standard Layup,2,320,160,Layup Shot,LAYUPS,,1997
+Shaquille O'Neal,406,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,1997
+Shaquille O'Neal,406,Standard Dunk,2,125,125,Slam Dunk Shot,DUNKS,,1997
+Shaquille O'Neal,406,Tip Shot,2,9,3,Tip Shot,TIP_SHOTS,,1997
+Shaquille O'Neal,406,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,1998
+Shaquille O'Neal,406,Driving Layup,2,37,33,Driving Layup Shot,LAYUPS,,1998
+Shaquille O'Neal,406,Standard Dunk,2,53,46,Dunk Shot,DUNKS,,1998
+Shaquille O'Neal,406,Hook Shot,2,150,82,Hook Shot,POST_MOVES,,1998
+Shaquille O'Neal,406,Jump Shot,2,390,146,Jump Shot,JUMP_SHOTS,,1998
+Shaquille O'Neal,406,Standard Layup,2,298,165,Layup Shot,LAYUPS,,1998
+Shaquille O'Neal,406,Running Jump Shot,2,6,5,Running Jump Shot,JUMP_SHOTS,,1998
+Shaquille O'Neal,406,Standard Dunk,2,187,182,Slam Dunk Shot,DUNKS,,1998
+Shaquille O'Neal,406,Tip Shot,2,22,7,Tip Shot,TIP_SHOTS,,1998
+Shaquille O'Neal,406,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,1999
+Shaquille O'Neal,406,Driving Layup,2,10,9,Driving Layup Shot,LAYUPS,,1999
+Shaquille O'Neal,406,Standard Dunk,2,23,19,Dunk Shot,DUNKS,,1999
+Shaquille O'Neal,406,Hook Shot,2,175,101,Hook Shot,POST_MOVES,,1999
+Shaquille O'Neal,406,Jump Shot,2,294,102,Jump Shot,JUMP_SHOTS,,1999
+Shaquille O'Neal,406,Standard Layup,2,235,157,Layup Shot,LAYUPS,,1999
+Shaquille O'Neal,406,Running Jump Shot,2,8,7,Running Jump Shot,JUMP_SHOTS,,1999
+Shaquille O'Neal,406,Standard Dunk,2,112,104,Slam Dunk Shot,DUNKS,,1999
+Shaquille O'Neal,406,Tip Shot,2,24,7,Tip Shot,TIP_SHOTS,,1999
+Shaquille O'Neal,406,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2000
+Shaquille O'Neal,406,Driving Layup,2,28,23,Driving Layup Shot,LAYUPS,,2000
+Shaquille O'Neal,406,Standard Dunk,2,56,48,Dunk Shot,DUNKS,,2000
+Shaquille O'Neal,406,Hook Shot,2,343,195,Hook Shot,POST_MOVES,,2000
+Shaquille O'Neal,406,Jump Shot,2,609,215,Jump Shot,JUMP_SHOTS,,2000
+Shaquille O'Neal,406,Standard Layup,2,400,267,Layup Shot,LAYUPS,,2000
+Shaquille O'Neal,406,Running Jump Shot,2,4,3,Running Jump Shot,JUMP_SHOTS,,2000
+Shaquille O'Neal,406,Standard Dunk,2,188,187,Slam Dunk Shot,DUNKS,,2000
+Shaquille O'Neal,406,Tip Shot,2,36,17,Tip Shot,TIP_SHOTS,,2000
+Shaquille O'Neal,406,Alley Oop Dunk,2,31,29,Alley Oop Dunk Shot,DUNKS,,2001
+Shaquille O'Neal,406,Alley Oop Layup,2,3,3,Alley Oop Layup shot,LAYUPS,,2001
+Shaquille O'Neal,406,Driving Dunk,2,8,8,Driving Dunk Shot,DUNKS,,2001
+Shaquille O'Neal,406,Driving Layup,2,25,23,Driving Layup Shot,LAYUPS,,2001
+Shaquille O'Neal,406,Standard Dunk,2,69,60,Dunk Shot,DUNKS,,2001
+Shaquille O'Neal,406,Finger Roll,2,6,5,Finger Roll Shot,LAYUPS,,2001
+Shaquille O'Neal,406,Hook Shot,2,208,112,Hook Shot,POST_MOVES,,2001
+Shaquille O'Neal,406,Jump Shot,2,535,168,Jump Shot,JUMP_SHOTS,,2001
+Shaquille O'Neal,406,Standard Layup,2,281,182,Layup Shot,LAYUPS,,2001
+Shaquille O'Neal,406,Reverse Layup,2,6,4,Reverse Layup Shot,LAYUPS,,2001
+Shaquille O'Neal,406,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2001
+Shaquille O'Neal,406,Running Hook Shot,2,7,7,Running Hook Shot,POST_MOVES,,2001
+Shaquille O'Neal,406,Running Jump Shot,2,3,3,Running Jump Shot,JUMP_SHOTS,,2001
+Shaquille O'Neal,406,Standard Dunk,2,160,160,Slam Dunk Shot,DUNKS,,2001
+Shaquille O'Neal,406,Tip Shot,2,13,4,Tip Shot,TIP_SHOTS,,2001
+Shaquille O'Neal,406,Turnaround Hook Shot,2,12,10,Turnaround Hook Shot,POST_MOVES,,2001
+Shaquille O'Neal,406,Turnaround Jump Shot,2,54,34,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Shaquille O'Neal,406,Alley Oop Dunk,2,23,22,Alley Oop Dunk Shot,DUNKS,,2002
+Shaquille O'Neal,406,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2002
+Shaquille O'Neal,406,Driving Dunk,2,8,8,Driving Dunk Shot,DUNKS,,2002
+Shaquille O'Neal,406,Finger Roll,2,2,2,Driving Finger Roll Shot,LAYUPS,,2002
+Shaquille O'Neal,406,Driving Hook Shot,2,4,0,Driving Hook Shot,POST_MOVES,,2002
+Shaquille O'Neal,406,Driving Layup,2,27,20,Driving Layup Shot,LAYUPS,,2002
+Shaquille O'Neal,406,Standard Dunk,2,67,57,Dunk Shot,DUNKS,,2002
+Shaquille O'Neal,406,Fadeaway Jump Shot,2,8,5,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Shaquille O'Neal,406,Finger Roll,2,6,4,Finger Roll Shot,LAYUPS,,2002
+Shaquille O'Neal,406,Specialty Dunk,2,6,5,Follow Up Dunk Shot,DUNKS,,2002
+Shaquille O'Neal,406,Hook Shot,2,158,78,Hook Shot,POST_MOVES,,2002
+Shaquille O'Neal,406,Hook Shot,2,34,21,Jump Hook Shot,POST_MOVES,,2002
+Shaquille O'Neal,406,Jump Shot,2,300,83,Jump Shot,JUMP_SHOTS,,2002
+Shaquille O'Neal,406,Standard Layup,2,305,186,Layup Shot,LAYUPS,,2002
+Shaquille O'Neal,406,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2002
+Shaquille O'Neal,406,Reverse Layup,2,6,1,Reverse Layup Shot,LAYUPS,,2002
+Shaquille O'Neal,406,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2002
+Shaquille O'Neal,406,Running Hook Shot,2,7,5,Running Hook Shot,POST_MOVES,,2002
+Shaquille O'Neal,406,Running Jump Shot,2,8,8,Running Jump Shot,JUMP_SHOTS,,2002
+Shaquille O'Neal,406,Standard Dunk,2,159,158,Slam Dunk Shot,DUNKS,,2002
+Shaquille O'Neal,406,Tip Shot,2,16,3,Tip Shot,TIP_SHOTS,,2002
+Shaquille O'Neal,406,Turnaround Hook Shot,2,3,3,Turnaround Hook Shot,POST_MOVES,,2002
+Shaquille O'Neal,406,Turnaround Jump Shot,2,78,40,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Shaquille O'Neal,406,Alley Oop Dunk,2,22,21,Alley Oop Dunk Shot,DUNKS,,2003
+Shaquille O'Neal,406,Alley Oop Layup,2,5,2,Alley Oop Layup shot,LAYUPS,,2003
+Shaquille O'Neal,406,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2003
+Shaquille O'Neal,406,Finger Roll,2,2,2,Driving Finger Roll Shot,LAYUPS,,2003
+Shaquille O'Neal,406,Driving Hook Shot,2,4,4,Driving Hook Shot,POST_MOVES,,2003
+Shaquille O'Neal,406,Driving Layup,2,17,15,Driving Layup Shot,LAYUPS,,2003
+Shaquille O'Neal,406,Standard Dunk,2,72,58,Dunk Shot,DUNKS,,2003
+Shaquille O'Neal,406,Fadeaway Jump Shot,2,8,4,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Shaquille O'Neal,406,Finger Roll,2,9,7,Finger Roll Shot,LAYUPS,,2003
+Shaquille O'Neal,406,Specialty Dunk,2,18,17,Follow Up Dunk Shot,DUNKS,,2003
+Shaquille O'Neal,406,Hook Shot,2,133,52,Hook Shot,POST_MOVES,,2003
+Shaquille O'Neal,406,Hook Shot,2,29,18,Jump Hook Shot,POST_MOVES,,2003
+Shaquille O'Neal,406,Jump Shot,2,285,66,Jump Shot,JUMP_SHOTS,,2003
+Shaquille O'Neal,406,Standard Layup,2,312,181,Layup Shot,LAYUPS,,2003
+Shaquille O'Neal,406,Reverse Dunk,2,6,6,Reverse Dunk Shot,DUNKS,,2003
+Shaquille O'Neal,406,Reverse Layup,2,18,15,Reverse Layup Shot,LAYUPS,,2003
+Shaquille O'Neal,406,Running Hook Shot,2,6,5,Running Hook Shot,POST_MOVES,,2003
+Shaquille O'Neal,406,Running Jump Shot,2,7,6,Running Jump Shot,JUMP_SHOTS,,2003
+Shaquille O'Neal,406,Standard Dunk,2,148,147,Slam Dunk Shot,DUNKS,,2003
+Shaquille O'Neal,406,Tip Shot,2,14,5,Tip Shot,TIP_SHOTS,,2003
+Shaquille O'Neal,406,Turnaround Hook Shot,2,15,12,Turnaround Hook Shot,POST_MOVES,,2003
+Shaquille O'Neal,406,Turnaround Jump Shot,2,79,50,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Shaquille O'Neal,406,Alley Oop Dunk,2,29,27,Alley Oop Dunk Shot,DUNKS,,2004
+Shaquille O'Neal,406,Alley Oop Layup,2,3,3,Alley Oop Layup shot,LAYUPS,,2004
+Shaquille O'Neal,406,Driving Dunk,2,5,5,Driving Dunk Shot,DUNKS,,2004
+Shaquille O'Neal,406,Finger Roll,2,2,1,Driving Finger Roll Shot,LAYUPS,,2004
+Shaquille O'Neal,406,Driving Hook Shot,2,5,4,Driving Hook Shot,POST_MOVES,,2004
+Shaquille O'Neal,406,Driving Layup,2,12,12,Driving Layup Shot,LAYUPS,,2004
+Shaquille O'Neal,406,Standard Dunk,2,47,40,Dunk Shot,DUNKS,,2004
+Shaquille O'Neal,406,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Shaquille O'Neal,406,Finger Roll,2,3,3,Finger Roll Shot,LAYUPS,,2004
+Shaquille O'Neal,406,Specialty Dunk,2,14,12,Follow Up Dunk Shot,DUNKS,,2004
+Shaquille O'Neal,406,Hook Shot,2,11,6,Hook Bank Shot,POST_MOVES,,2004
+Shaquille O'Neal,406,Hook Shot,2,84,30,Hook Shot,POST_MOVES,,2004
+Shaquille O'Neal,406,Jump Shot,2,23,21,Jump Bank Shot,JUMP_SHOTS,,2004
+Shaquille O'Neal,406,Hook Shot,2,30,21,Jump Hook Shot,POST_MOVES,,2004
+Shaquille O'Neal,406,Jump Shot,2,186,42,Jump Shot,JUMP_SHOTS,,2004
+Shaquille O'Neal,406,Standard Layup,2,264,149,Layup Shot,LAYUPS,,2004
+Shaquille O'Neal,406,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2004
+Shaquille O'Neal,406,Reverse Layup,2,9,4,Reverse Layup Shot,LAYUPS,,2004
+Shaquille O'Neal,406,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2004
+Shaquille O'Neal,406,Running Hook Shot,2,5,4,Running Hook Shot,POST_MOVES,,2004
+Shaquille O'Neal,406,Running Jump Shot,2,3,2,Running Jump Shot,JUMP_SHOTS,,2004
+Shaquille O'Neal,406,Standard Dunk,2,127,127,Slam Dunk Shot,DUNKS,,2004
+Shaquille O'Neal,406,Tip Shot,2,23,7,Tip Shot,TIP_SHOTS,,2004
+Shaquille O'Neal,406,Turnaround Hook Shot,2,13,7,Turnaround Hook Shot,POST_MOVES,,2004
+Shaquille O'Neal,406,Turnaround Jump Shot,2,46,24,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Shaquille O'Neal,406,Alley Oop Dunk,2,30,27,Alley Oop Dunk Shot,DUNKS,,2005
+Shaquille O'Neal,406,Alley Oop Layup,2,3,2,Alley Oop Layup shot,LAYUPS,,2005
+Shaquille O'Neal,406,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2005
+Shaquille O'Neal,406,Driving Layup,2,22,16,Driving Layup Shot,LAYUPS,,2005
+Shaquille O'Neal,406,Standard Dunk,2,172,163,Dunk Shot,DUNKS,,2005
+Shaquille O'Neal,406,Fadeaway Jump Shot,2,4,2,Fadeaway Jump Shot,JUMP_SHOTS,,2005
+Shaquille O'Neal,406,Finger Roll,2,4,2,Finger Roll Shot,LAYUPS,,2005
+Shaquille O'Neal,406,Specialty Dunk,2,9,9,Follow Up Dunk Shot,DUNKS,,2005
+Shaquille O'Neal,406,Hook Shot,2,3,3,Hook Bank Shot,POST_MOVES,,2005
+Shaquille O'Neal,406,Hook Shot,2,158,71,Hook Shot,POST_MOVES,,2005
+Shaquille O'Neal,406,Jump Shot,2,19,16,Jump Bank Shot,JUMP_SHOTS,,2005
+Shaquille O'Neal,406,Hook Shot,2,18,12,Jump Hook Shot,POST_MOVES,,2005
+Shaquille O'Neal,406,Jump Shot,2,165,41,Jump Shot,JUMP_SHOTS,,2005
+Shaquille O'Neal,406,Standard Layup,2,286,173,Layup Shot,LAYUPS,,2005
+Shaquille O'Neal,406,Reverse Dunk,2,2,2,Reverse Dunk Shot,DUNKS,,2005
+Shaquille O'Neal,406,Reverse Layup,2,15,6,Reverse Layup Shot,LAYUPS,,2005
+Shaquille O'Neal,406,Running Hook Shot,2,9,4,Running Hook Shot,POST_MOVES,,2005
+Shaquille O'Neal,406,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2005
+Shaquille O'Neal,406,Standard Dunk,2,51,51,Slam Dunk Shot,DUNKS,,2005
+Shaquille O'Neal,406,Tip Shot,2,21,7,Tip Shot,TIP_SHOTS,,2005
+Shaquille O'Neal,406,Finger Roll,2,1,1,Turnaround Finger Roll Shot,LAYUPS,,2005
+Shaquille O'Neal,406,Turnaround Hook Shot,2,9,7,Turnaround Hook Shot,POST_MOVES,,2005
+Shaquille O'Neal,406,Turnaround Jump Shot,2,89,39,Turnaround Jump Shot,JUMP_SHOTS,,2005
+Shaquille O'Neal,406,Alley Oop Dunk,2,43,41,Alley Oop Dunk Shot,DUNKS,,2006
+Shaquille O'Neal,406,Alley Oop Layup,2,4,4,Alley Oop Layup shot,LAYUPS,,2006
+Shaquille O'Neal,406,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2006
+Shaquille O'Neal,406,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2006
+Shaquille O'Neal,406,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,2006
+Shaquille O'Neal,406,Standard Dunk,2,110,100,Dunk Shot,DUNKS,,2006
+Shaquille O'Neal,406,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2006
+Shaquille O'Neal,406,Specialty Dunk,2,8,8,Follow Up Dunk Shot,DUNKS,,2006
+Shaquille O'Neal,406,Hook Shot,2,140,57,Hook Shot,POST_MOVES,,2006
+Shaquille O'Neal,406,Jump Shot,2,19,12,Jump Bank Shot,JUMP_SHOTS,,2006
+Shaquille O'Neal,406,Hook Shot,2,12,6,Jump Hook Shot,POST_MOVES,,2006
+Shaquille O'Neal,406,Jump Shot,2,123,32,Jump Shot,JUMP_SHOTS,,2006
+Shaquille O'Neal,406,Standard Layup,2,204,126,Layup Shot,LAYUPS,,2006
+Shaquille O'Neal,406,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2006
+Shaquille O'Neal,406,Reverse Layup,2,5,3,Reverse Layup Shot,LAYUPS,,2006
+Shaquille O'Neal,406,Running Hook Shot,2,3,3,Running Hook Shot,POST_MOVES,,2006
+Shaquille O'Neal,406,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2006
+Shaquille O'Neal,406,Standard Dunk,2,52,52,Slam Dunk Shot,DUNKS,,2006
+Shaquille O'Neal,406,Tip Shot,2,13,7,Tip Shot,TIP_SHOTS,,2006
+Shaquille O'Neal,406,Turnaround Hook Shot,2,7,4,Turnaround Hook Shot,POST_MOVES,,2006
+Shaquille O'Neal,406,Turnaround Jump Shot,2,48,19,Turnaround Jump Shot,JUMP_SHOTS,,2006
+Shaquille O'Neal,406,Alley Oop Dunk,2,20,16,Alley Oop Dunk Shot,DUNKS,,2007
+Shaquille O'Neal,406,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2007
+Shaquille O'Neal,406,Driving Hook Shot,2,4,2,Driving Hook Shot,POST_MOVES,,2007
+Shaquille O'Neal,406,Driving Layup,2,4,3,Driving Layup Shot,LAYUPS,,2007
+Shaquille O'Neal,406,Standard Dunk,2,38,36,Dunk Shot,DUNKS,,2007
+Shaquille O'Neal,406,Finger Roll,2,2,2,Finger Roll Shot,LAYUPS,,2007
+Shaquille O'Neal,406,Specialty Dunk,2,5,5,Follow Up Dunk Shot,DUNKS,,2007
+Shaquille O'Neal,406,Hook Shot,2,114,49,Hook Shot,POST_MOVES,,2007
+Shaquille O'Neal,406,Jump Shot,2,8,5,Jump Bank Shot,JUMP_SHOTS,,2007
+Shaquille O'Neal,406,Hook Shot,2,25,16,Jump Hook Shot,POST_MOVES,,2007
+Shaquille O'Neal,406,Jump Shot,2,67,21,Jump Shot,JUMP_SHOTS,,2007
+Shaquille O'Neal,406,Standard Layup,2,117,75,Layup Shot,LAYUPS,,2007
+Shaquille O'Neal,406,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2007
+Shaquille O'Neal,406,Reverse Layup,2,9,7,Reverse Layup Shot,LAYUPS,,2007
+Shaquille O'Neal,406,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2007
+Shaquille O'Neal,406,Running Hook Shot,2,9,4,Running Hook Shot,POST_MOVES,,2007
+Shaquille O'Neal,406,Standard Dunk,2,24,24,Slam Dunk Shot,DUNKS,,2007
+Shaquille O'Neal,406,Tip Shot,2,5,3,Tip Shot,TIP_SHOTS,,2007
+Shaquille O'Neal,406,Turnaround Hook Shot,2,5,4,Turnaround Hook Shot,POST_MOVES,,2007
+Shaquille O'Neal,406,Turnaround Jump Shot,2,20,8,Turnaround Jump Shot,JUMP_SHOTS,,2007
+Shaquille O'Neal,406,Alley Oop Dunk,2,17,15,Alley Oop Dunk Shot,DUNKS,,2008
+Shaquille O'Neal,406,Alley Oop Layup,2,4,2,Alley Oop Layup shot,LAYUPS,,2008
+Shaquille O'Neal,406,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2008
+Shaquille O'Neal,406,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2008
+Shaquille O'Neal,406,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2008
+Shaquille O'Neal,406,Standard Dunk,2,59,57,Dunk Shot,DUNKS,,2008
+Shaquille O'Neal,406,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2008
+Shaquille O'Neal,406,Hook Shot,2,3,3,Hook Bank Shot,POST_MOVES,,2008
+Shaquille O'Neal,406,Hook Shot,2,110,41,Hook Shot,POST_MOVES,,2008
+Shaquille O'Neal,406,Jump Shot,2,12,8,Jump Bank Shot,JUMP_SHOTS,,2008
+Shaquille O'Neal,406,Hook Shot,2,15,8,Jump Hook Shot,POST_MOVES,,2008
+Shaquille O'Neal,406,Jump Shot,2,97,35,Jump Shot,JUMP_SHOTS,,2008
+Shaquille O'Neal,406,Standard Layup,2,171,108,Layup Shot,LAYUPS,,2008
+Shaquille O'Neal,406,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2008
+Shaquille O'Neal,406,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2008
+Shaquille O'Neal,406,Putback Dunk,2,2,2,Putback Slam Dunk Shot,DUNKS,,2008
+Shaquille O'Neal,406,Reverse Layup,2,7,3,Reverse Layup Shot,LAYUPS,,2008
+Shaquille O'Neal,406,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2008
+Shaquille O'Neal,406,Running Hook Shot,2,3,2,Running Hook Shot,POST_MOVES,,2008
+Shaquille O'Neal,406,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,2008
+Shaquille O'Neal,406,Standard Dunk,2,22,21,Slam Dunk Shot,DUNKS,,2008
+Shaquille O'Neal,406,Tip Shot,2,6,3,Tip Shot,TIP_SHOTS,,2008
+Shaquille O'Neal,406,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2008
+Shaquille O'Neal,406,Turnaround Hook Shot,2,6,4,Turnaround Hook Shot,POST_MOVES,,2008
+Shaquille O'Neal,406,Turnaround Jump Shot,2,13,9,Turnaround Jump Shot,JUMP_SHOTS,,2008
+Shaquille O'Neal,406,Alley Oop Dunk,2,18,14,Alley Oop Dunk Shot,DUNKS,,2009
+Shaquille O'Neal,406,Alley Oop Layup,2,5,5,Alley Oop Layup shot,LAYUPS,,2009
+Shaquille O'Neal,406,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2009
+Shaquille O'Neal,406,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2009
+Shaquille O'Neal,406,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2009
+Shaquille O'Neal,406,Driving Layup,2,6,6,Driving Layup Shot,LAYUPS,,2009
+Shaquille O'Neal,406,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2009
+Shaquille O'Neal,406,Driving Dunk,2,3,3,Driving Slam Dunk Shot,DUNKS,,2009
+Shaquille O'Neal,406,Standard Dunk,2,119,109,Dunk Shot,DUNKS,,2009
+Shaquille O'Neal,406,Hook Shot,2,3,2,Hook Bank Shot,POST_MOVES,,2009
+Shaquille O'Neal,406,Hook Shot,2,79,34,Hook Shot,POST_MOVES,,2009
+Shaquille O'Neal,406,Hook Shot,2,3,3,Jump Bank Hook Shot,POST_MOVES,,2009
+Shaquille O'Neal,406,Jump Shot,2,38,19,Jump Bank Shot,JUMP_SHOTS,,2009
+Shaquille O'Neal,406,Hook Shot,2,26,16,Jump Hook Shot,POST_MOVES,,2009
+Shaquille O'Neal,406,Jump Shot,2,150,43,Jump Shot,JUMP_SHOTS,,2009
+Shaquille O'Neal,406,Standard Layup,2,229,135,Layup Shot,LAYUPS,,2009
+Shaquille O'Neal,406,Putback Dunk,2,7,6,Putback Dunk Shot,DUNKS,,2009
+Shaquille O'Neal,406,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2009
+Shaquille O'Neal,406,Putback Dunk,2,1,0,Putback Slam Dunk Shot,DUNKS,,2009
+Shaquille O'Neal,406,Reverse Dunk,2,4,4,Reverse Dunk Shot,DUNKS,,2009
+Shaquille O'Neal,406,Reverse Layup,2,32,25,Reverse Layup Shot,LAYUPS,,2009
+Shaquille O'Neal,406,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2009
+Shaquille O'Neal,406,Running Hook Shot,2,5,4,Running Hook Shot,POST_MOVES,,2009
+Shaquille O'Neal,406,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2009
+Shaquille O'Neal,406,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2009
+Shaquille O'Neal,406,Standard Dunk,2,42,42,Slam Dunk Shot,DUNKS,,2009
+Shaquille O'Neal,406,Tip Shot,2,10,4,Tip Shot,TIP_SHOTS,,2009
+Shaquille O'Neal,406,Turnaround Hook Shot,2,1,1,Turnaround Bank Hook Shot,POST_MOVES,,2009
+Shaquille O'Neal,406,Turnaround Jump Shot,2,15,14,Turnaround Bank shot,JUMP_SHOTS,,2009
+Shaquille O'Neal,406,Turnaround Hook Shot,2,7,4,Turnaround Hook Shot,POST_MOVES,,2009
+Shaquille O'Neal,406,Turnaround Jump Shot,2,28,11,Turnaround Jump Shot,JUMP_SHOTS,,2009
+Shaquille O'Neal,406,Alley Oop Dunk,2,12,10,Alley Oop Dunk Shot,DUNKS,,2010
+Shaquille O'Neal,406,Alley Oop Layup,2,5,0,Alley Oop Layup shot,LAYUPS,,2010
+Shaquille O'Neal,406,Driving Dunk,2,5,5,Driving Dunk Shot,DUNKS,,2010
+Shaquille O'Neal,406,Driving Hook Shot,2,2,2,Driving Hook Shot,POST_MOVES,,2010
+Shaquille O'Neal,406,Driving Layup,2,7,4,Driving Layup Shot,LAYUPS,,2010
+Shaquille O'Neal,406,Standard Dunk,2,38,35,Dunk Shot,DUNKS,,2010
+Shaquille O'Neal,406,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+Shaquille O'Neal,406,Finger Roll,2,5,4,Finger Roll Layup Shot,LAYUPS,,2010
+Shaquille O'Neal,406,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2010
+Shaquille O'Neal,406,Hook Shot,2,39,12,Hook Shot,POST_MOVES,,2010
+Shaquille O'Neal,406,Hook Shot,2,2,2,Jump Bank Hook Shot,POST_MOVES,,2010
+Shaquille O'Neal,406,Jump Shot,2,11,6,Jump Bank Shot,JUMP_SHOTS,,2010
+Shaquille O'Neal,406,Hook Shot,2,47,29,Jump Hook Shot,POST_MOVES,,2010
+Shaquille O'Neal,406,Jump Shot,2,62,16,Jump Shot,JUMP_SHOTS,,2010
+Shaquille O'Neal,406,Standard Layup,2,136,80,Layup Shot,LAYUPS,,2010
+Shaquille O'Neal,406,Putback Dunk,2,3,3,Putback Dunk Shot,DUNKS,,2010
+Shaquille O'Neal,406,Reverse Layup,2,11,9,Reverse Layup Shot,LAYUPS,,2010
+Shaquille O'Neal,406,Reverse Dunk,2,1,1,Reverse Slam Dunk Shot,DUNKS,,2010
+Shaquille O'Neal,406,Running Hook Shot,2,1,1,Running Bank Hook Shot,POST_MOVES,,2010
+Shaquille O'Neal,406,Running Hook Shot,2,8,3,Running Hook Shot,POST_MOVES,,2010
+Shaquille O'Neal,406,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2010
+Shaquille O'Neal,406,Standard Dunk,2,23,22,Slam Dunk Shot,DUNKS,,2010
+Shaquille O'Neal,406,Tip Shot,2,20,5,Tip Shot,TIP_SHOTS,,2010
+Shaquille O'Neal,406,Turnaround Jump Shot,2,9,6,Turnaround Bank shot,JUMP_SHOTS,,2010
+Shaquille O'Neal,406,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2010
+Shaquille O'Neal,406,Turnaround Jump Shot,2,12,5,Turnaround Jump Shot,JUMP_SHOTS,,2010
+Shaquille O'Neal,406,Alley Oop Dunk,2,16,14,Alley Oop Dunk Shot,DUNKS,,2011
+Shaquille O'Neal,406,Alley Oop Layup,2,4,3,Alley Oop Layup shot,LAYUPS,,2011
+Shaquille O'Neal,406,Driving Layup,2,2,1,Driving Layup Shot,LAYUPS,,2011
+Shaquille O'Neal,406,Standard Dunk,2,17,17,Dunk Shot,DUNKS,,2011
+Shaquille O'Neal,406,Hook Shot,2,10,4,Hook Shot,POST_MOVES,,2011
+Shaquille O'Neal,406,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2011
+Shaquille O'Neal,406,Hook Shot,2,4,3,Jump Hook Shot,POST_MOVES,,2011
+Shaquille O'Neal,406,Jump Shot,2,16,4,Jump Shot,JUMP_SHOTS,,2011
+Shaquille O'Neal,406,Standard Layup,2,91,59,Layup Shot,LAYUPS,,2011
+Shaquille O'Neal,406,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2011
+Shaquille O'Neal,406,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2011
+Shaquille O'Neal,406,Putback Dunk,2,1,1,Putback Slam Dunk Shot,DUNKS,,2011
+Shaquille O'Neal,406,Reverse Layup,2,11,9,Reverse Layup Shot,LAYUPS,,2011
+Shaquille O'Neal,406,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2011
+Shaquille O'Neal,406,Standard Dunk,2,10,10,Slam Dunk Shot,DUNKS,,2011
+Shaquille O'Neal,406,Tip Shot,2,9,3,Tip Shot,TIP_SHOTS,,2011
+Shaquille O'Neal,406,Turnaround Hook Shot,2,3,2,Turnaround Bank Hook Shot,POST_MOVES,,2011
+Shaquille O'Neal,406,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2011

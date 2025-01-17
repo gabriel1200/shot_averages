@@ -1,79 +1,248 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-201229,Jump Shot,3PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.5,2009
-201229,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2009
-201229,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2011
-201229,Jump Shot,2PT Field Goal,9,3,Jump Shot,JUMP_SHOTS,0.3333333333333333,2011
-201229,Jump Shot,3PT Field Goal,5,1,Jump Shot,JUMP_SHOTS,0.3,2011
-201229,Standard Layup,2PT Field Goal,4,4,Layup Shot,LAYUPS,1.0,2011
-201229,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2011
-201229,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2011
-201229,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2011
-201229,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2011
-201229,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2012
-201229,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2012
-201229,Jump Shot,2PT Field Goal,4,1,Jump Shot,JUMP_SHOTS,0.25,2012
-201229,Jump Shot,3PT Field Goal,10,1,Jump Shot,JUMP_SHOTS,0.15,2012
-201229,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2012
-201229,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2012
-201229,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2012
-201229,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2013
-201229,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2013
-201229,Jump Shot,2PT Field Goal,4,1,Jump Shot,JUMP_SHOTS,0.25,2013
-201229,Jump Shot,3PT Field Goal,22,9,Jump Shot,JUMP_SHOTS,0.6136363636363636,2013
-201229,Standard Layup,2PT Field Goal,2,0,Layup Shot,LAYUPS,0.0,2013
-201229,Putback Dunk,2PT Field Goal,1,1,Putback Dunk Shot,DUNKS,1.0,2013
-201229,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2014
-201229,Jump Shot,2PT Field Goal,7,2,Jump Shot,JUMP_SHOTS,0.2857142857142857,2014
-201229,Jump Shot,3PT Field Goal,73,36,Jump Shot,JUMP_SHOTS,0.7397260273972602,2014
-201229,Standard Layup,2PT Field Goal,4,2,Layup Shot,LAYUPS,0.5,2014
-201229,Reverse Layup,2PT Field Goal,2,2,Reverse Layup Shot,LAYUPS,1.0,2014
-201229,Driving Layup,2PT Field Goal,3,3,Driving Layup Shot,LAYUPS,1.0,2015
-201229,Standard Dunk,2PT Field Goal,4,4,Dunk Shot,DUNKS,1.0,2015
-201229,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2015
-201229,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,2015
-201229,Jump Shot,2PT Field Goal,17,7,Jump Shot,JUMP_SHOTS,0.4117647058823529,2015
-201229,Jump Shot,3PT Field Goal,175,64,Jump Shot,JUMP_SHOTS,0.5485714285714286,2015
-201229,Standard Layup,2PT Field Goal,23,14,Layup Shot,LAYUPS,0.6086956521739131,2015
-201229,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2015
-201229,Putback Dunk,2PT Field Goal,1,1,Putback Dunk Shot,DUNKS,1.0,2015
-201229,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2015
-201229,Reverse Layup,2PT Field Goal,3,3,Reverse Layup Shot,LAYUPS,1.0,2015
-201229,Running Jump Shot,2PT Field Goal,2,2,Running Jump Shot,JUMP_SHOTS,1.0,2015
-201229,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2015
-201229,Tip Shot,2PT Field Goal,6,3,Tip Shot,TIP_SHOTS,0.5,2015
-201229,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2016
-201229,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2016
-201229,Finger Roll,2PT Field Goal,1,0,Finger Roll Layup Shot,LAYUPS,0.0,2016
-201229,Jump Shot,2PT Field Goal,5,1,Jump Shot,JUMP_SHOTS,0.2,2016
-201229,Jump Shot,3PT Field Goal,70,22,Jump Shot,JUMP_SHOTS,0.4714285714285714,2016
-201229,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2016
-201229,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2016
-201229,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2016
-201229,Putback Layup,2PT Field Goal,1,0,Tip Layup Shot,LAYUPS,0.0,2016
-201229,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2017
-201229,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2017
-201229,Jump Shot,3PT Field Goal,8,4,Jump Shot,JUMP_SHOTS,0.75,2017
-201229,Finger Roll,2PT Field Goal,1,0,Driving Finger Roll Layup Shot,LAYUPS,0.0,2018
-201229,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2018
-201229,Driving Layup,2PT Field Goal,2,2,Driving Reverse Layup Shot,LAYUPS,1.0,2018
-201229,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2018
-201229,Finger Roll,2PT Field Goal,1,1,Finger Roll Layup Shot,LAYUPS,1.0,2018
-201229,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2018
-201229,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2018
-201229,Jump Shot,3PT Field Goal,77,31,Jump Shot,JUMP_SHOTS,0.6038961038961039,2018
-201229,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2018
-201229,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2018
-201229,Running Jump Shot,3PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2018
-201229,Reverse Layup,2PT Field Goal,1,1,Running Reverse Layup Shot,LAYUPS,1.0,2018
-201229,Step Back Jump Shot,3PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2018
-201229,Putback Layup,2PT Field Goal,2,1,Tip Layup Shot,LAYUPS,0.5,2018
-201229,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,1.0,2018
-201229,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2018
-201229,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,2019
-201229,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2020
-201229,Driving Layup,2PT Field Goal,2,0,Driving Layup Shot,LAYUPS,0.0,2020
-201229,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2020
-201229,Jump Shot,3PT Field Goal,27,9,Jump Shot,JUMP_SHOTS,0.5,2020
-201229,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2020
-201229,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2020
-201229,Putback Layup,2PT Field Goal,3,0,Tip Layup Shot,LAYUPS,0.0,2020
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Anthony Tolliver,201229,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2009
+Anthony Tolliver,201229,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2009
+Anthony Tolliver,201229,Jump Shot,2,2,0,Jump Bank Shot,JUMP_SHOTS,,2009
+Anthony Tolliver,201229,Jump Shot,2,43,9,Jump Shot,JUMP_SHOTS,,2009
+Anthony Tolliver,201229,Jump Shot,3,9,3,Jump Shot,JUMP_SHOTS,,2009
+Anthony Tolliver,201229,Standard Layup,2,3,1,Layup Shot,LAYUPS,,2009
+Anthony Tolliver,201229,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2009
+Anthony Tolliver,201229,Tip Shot,2,4,3,Tip Shot,TIP_SHOTS,,2009
+Anthony Tolliver,201229,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2010
+Anthony Tolliver,201229,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2010
+Anthony Tolliver,201229,Driving Layup,2,9,8,Driving Layup Shot,LAYUPS,,2010
+Anthony Tolliver,201229,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2010
+Anthony Tolliver,201229,Driving Dunk,2,5,4,Driving Slam Dunk Shot,DUNKS,,2010
+Anthony Tolliver,201229,Standard Dunk,2,6,6,Dunk Shot,DUNKS,,2010
+Anthony Tolliver,201229,Fadeaway Jump Shot,2,3,1,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+Anthony Tolliver,201229,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2010
+Anthony Tolliver,201229,Floating Jump Shot,2,2,2,Floating Jump shot,FLOATING_SHOTS,,2010
+Anthony Tolliver,201229,Hook Shot,2,4,1,Hook Shot,POST_MOVES,,2010
+Anthony Tolliver,201229,Jump Shot,2,4,3,Jump Bank Shot,JUMP_SHOTS,,2010
+Anthony Tolliver,201229,Hook Shot,2,3,1,Jump Hook Shot,POST_MOVES,,2010
+Anthony Tolliver,201229,Jump Shot,2,254,68,Jump Shot,JUMP_SHOTS,,2010
+Anthony Tolliver,201229,Standard Layup,2,57,28,Layup Shot,LAYUPS,,2010
+Anthony Tolliver,201229,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2010
+Anthony Tolliver,201229,Pullup Jump Shot,2,34,24,Pullup Jump shot,JUMP_SHOTS,,2010
+Anthony Tolliver,201229,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2010
+Anthony Tolliver,201229,Putback Layup,2,4,4,Putback Layup Shot,LAYUPS,,2010
+Anthony Tolliver,201229,Reverse Layup,2,7,6,Reverse Layup Shot,LAYUPS,,2010
+Anthony Tolliver,201229,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2010
+Anthony Tolliver,201229,Running Hook Shot,2,2,1,Running Hook Shot,POST_MOVES,,2010
+Anthony Tolliver,201229,Running Jump Shot,2,8,4,Running Jump Shot,JUMP_SHOTS,,2010
+Anthony Tolliver,201229,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2010
+Anthony Tolliver,201229,Standard Dunk,2,13,13,Slam Dunk Shot,DUNKS,,2010
+Anthony Tolliver,201229,Step Back Jump Shot,2,9,8,Step Back Jump shot,JUMP_SHOTS,,2010
+Anthony Tolliver,201229,Tip Shot,2,5,0,Tip Shot,TIP_SHOTS,,2010
+Anthony Tolliver,201229,Turnaround Hook Shot,2,6,2,Turnaround Hook Shot,POST_MOVES,,2010
+Anthony Tolliver,201229,Turnaround Jump Shot,2,4,1,Turnaround Jump Shot,JUMP_SHOTS,,2010
+Anthony Tolliver,201229,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2011
+Anthony Tolliver,201229,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2011
+Anthony Tolliver,201229,Driving Jump Shot,2,1,0,Driving Bank shot,JUMP_SHOTS,,2011
+Anthony Tolliver,201229,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2011
+Anthony Tolliver,201229,Driving Layup,2,10,7,Driving Layup Shot,LAYUPS,,2011
+Anthony Tolliver,201229,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2011
+Anthony Tolliver,201229,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2011
+Anthony Tolliver,201229,Fadeaway Jump Shot,2,5,2,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Anthony Tolliver,201229,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2011
+Anthony Tolliver,201229,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2011
+Anthony Tolliver,201229,Jump Shot,2,177,65,Jump Shot,JUMP_SHOTS,,2011
+Anthony Tolliver,201229,Jump Shot,3,45,18,Jump Shot,JUMP_SHOTS,,2011
+Anthony Tolliver,201229,Standard Layup,2,35,23,Layup Shot,LAYUPS,,2011
+Anthony Tolliver,201229,Putback Dunk,2,2,0,Putback Dunk Shot,DUNKS,,2011
+Anthony Tolliver,201229,Putback Layup,2,3,3,Putback Layup Shot,LAYUPS,,2011
+Anthony Tolliver,201229,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2011
+Anthony Tolliver,201229,Standard Dunk,2,1,0,Running Dunk Shot,DUNKS,,2011
+Anthony Tolliver,201229,Running Hook Shot,2,2,1,Running Hook Shot,POST_MOVES,,2011
+Anthony Tolliver,201229,Running Jump Shot,2,5,3,Running Jump Shot,JUMP_SHOTS,,2011
+Anthony Tolliver,201229,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2011
+Anthony Tolliver,201229,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2011
+Anthony Tolliver,201229,Tip Shot,2,7,3,Tip Shot,TIP_SHOTS,,2011
+Anthony Tolliver,201229,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2011
+Anthony Tolliver,201229,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2011
+Anthony Tolliver,201229,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2012
+Anthony Tolliver,201229,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2012
+Anthony Tolliver,201229,Driving Layup,2,3,2,Driving Layup Shot,LAYUPS,,2012
+Anthony Tolliver,201229,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2012
+Anthony Tolliver,201229,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2012
+Anthony Tolliver,201229,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Anthony Tolliver,201229,Jump Shot,2,69,15,Jump Shot,JUMP_SHOTS,,2012
+Anthony Tolliver,201229,Jump Shot,3,55,15,Jump Shot,JUMP_SHOTS,,2012
+Anthony Tolliver,201229,Standard Layup,2,25,16,Layup Shot,LAYUPS,,2012
+Anthony Tolliver,201229,Pullup Jump Shot,2,3,1,Pullup Jump shot,JUMP_SHOTS,,2012
+Anthony Tolliver,201229,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2012
+Anthony Tolliver,201229,Putback Layup,2,3,2,Putback Layup Shot,LAYUPS,,2012
+Anthony Tolliver,201229,Putback Dunk,2,1,1,Putback Slam Dunk Shot,DUNKS,,2012
+Anthony Tolliver,201229,Running Jump Shot,2,1,0,Running Bank shot,JUMP_SHOTS,,2012
+Anthony Tolliver,201229,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2012
+Anthony Tolliver,201229,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2012
+Anthony Tolliver,201229,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2012
+Anthony Tolliver,201229,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2012
+Anthony Tolliver,201229,Tip Shot,2,5,3,Tip Shot,TIP_SHOTS,,2012
+Anthony Tolliver,201229,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2013
+Anthony Tolliver,201229,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2013
+Anthony Tolliver,201229,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2013
+Anthony Tolliver,201229,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2013
+Anthony Tolliver,201229,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2013
+Anthony Tolliver,201229,Jump Shot,2,145,51,Jump Shot,JUMP_SHOTS,,2013
+Anthony Tolliver,201229,Jump Shot,3,34,11,Jump Shot,JUMP_SHOTS,,2013
+Anthony Tolliver,201229,Standard Layup,2,19,8,Layup Shot,LAYUPS,,2013
+Anthony Tolliver,201229,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2013
+Anthony Tolliver,201229,Putback Dunk,2,2,1,Putback Dunk Shot,DUNKS,,2013
+Anthony Tolliver,201229,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2013
+Anthony Tolliver,201229,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2013
+Anthony Tolliver,201229,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2013
+Anthony Tolliver,201229,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2013
+Anthony Tolliver,201229,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2013
+Anthony Tolliver,201229,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2013
+Anthony Tolliver,201229,Turnaround Jump Shot,2,2,2,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Anthony Tolliver,201229,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2014
+Anthony Tolliver,201229,Driving Jump Shot,2,1,1,Driving Jump shot,JUMP_SHOTS,,2014
+Anthony Tolliver,201229,Driving Layup,2,5,4,Driving Layup Shot,LAYUPS,,2014
+Anthony Tolliver,201229,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2014
+Anthony Tolliver,201229,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2014
+Anthony Tolliver,201229,Jump Shot,2,176,64,Jump Shot,JUMP_SHOTS,,2014
+Anthony Tolliver,201229,Jump Shot,3,97,42,Jump Shot,JUMP_SHOTS,,2014
+Anthony Tolliver,201229,Standard Layup,2,13,5,Layup Shot,LAYUPS,,2014
+Anthony Tolliver,201229,Pullup Jump Shot,2,5,4,Pullup Jump shot,JUMP_SHOTS,,2014
+Anthony Tolliver,201229,Putback Dunk,2,1,1,Putback Slam Dunk Shot,DUNKS,,2014
+Anthony Tolliver,201229,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2014
+Anthony Tolliver,201229,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2014
+Anthony Tolliver,201229,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2014
+Anthony Tolliver,201229,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2015
+Anthony Tolliver,201229,Driving Layup,2,4,4,Driving Layup Shot,LAYUPS,,2015
+Anthony Tolliver,201229,Standard Dunk,2,5,5,Dunk Shot,DUNKS,,2015
+Anthony Tolliver,201229,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+Anthony Tolliver,201229,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2015
+Anthony Tolliver,201229,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2015
+Anthony Tolliver,201229,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2015
+Anthony Tolliver,201229,Jump Shot,2,142,52,Jump Shot,JUMP_SHOTS,,2015
+Anthony Tolliver,201229,Jump Shot,3,179,65,Jump Shot,JUMP_SHOTS,,2015
+Anthony Tolliver,201229,Standard Layup,2,37,21,Layup Shot,LAYUPS,,2015
+Anthony Tolliver,201229,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2015
+Anthony Tolliver,201229,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2015
+Anthony Tolliver,201229,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2015
+Anthony Tolliver,201229,Reverse Layup,2,5,3,Reverse Layup Shot,LAYUPS,,2015
+Anthony Tolliver,201229,Running Jump Shot,2,4,2,Running Jump Shot,JUMP_SHOTS,,2015
+Anthony Tolliver,201229,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2015
+Anthony Tolliver,201229,Tip Shot,2,6,3,Tip Shot,TIP_SHOTS,,2015
+Anthony Tolliver,201229,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2016
+Anthony Tolliver,201229,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2016
+Anthony Tolliver,201229,Finger Roll,2,3,3,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Anthony Tolliver,201229,Driving Layup,2,3,3,Driving Layup Shot,LAYUPS,,2016
+Anthony Tolliver,201229,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2016
+Anthony Tolliver,201229,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2016
+Anthony Tolliver,201229,Floating Jump Shot,2,4,1,Floating Jump shot,FLOATING_SHOTS,,2016
+Anthony Tolliver,201229,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2016
+Anthony Tolliver,201229,Jump Shot,2,218,81,Jump Shot,JUMP_SHOTS,,2016
+Anthony Tolliver,201229,Jump Shot,3,74,23,Jump Shot,JUMP_SHOTS,,2016
+Anthony Tolliver,201229,Standard Layup,2,13,6,Layup Shot,LAYUPS,,2016
+Anthony Tolliver,201229,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2016
+Anthony Tolliver,201229,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2016
+Anthony Tolliver,201229,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2016
+Anthony Tolliver,201229,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2016
+Anthony Tolliver,201229,Putback Layup,2,2,0,Tip Layup Shot,LAYUPS,,2016
+Anthony Tolliver,201229,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Anthony Tolliver,201229,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2017
+Anthony Tolliver,201229,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2017
+Anthony Tolliver,201229,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2017
+Anthony Tolliver,201229,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2017
+Anthony Tolliver,201229,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2017
+Anthony Tolliver,201229,Floating Jump Shot,2,2,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Anthony Tolliver,201229,Driving Hook Shot,2,3,3,Driving Hook Shot,POST_MOVES,,2017
+Anthony Tolliver,201229,Driving Layup,2,7,6,Driving Layup Shot,LAYUPS,,2017
+Anthony Tolliver,201229,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2017
+Anthony Tolliver,201229,Standard Dunk,2,7,6,Dunk Shot,DUNKS,,2017
+Anthony Tolliver,201229,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Anthony Tolliver,201229,Floating Jump Shot,2,3,2,Floating Jump shot,FLOATING_SHOTS,,2017
+Anthony Tolliver,201229,Hook Shot,2,5,2,Hook Shot,POST_MOVES,,2017
+Anthony Tolliver,201229,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2017
+Anthony Tolliver,201229,Jump Shot,2,221,82,Jump Shot,JUMP_SHOTS,,2017
+Anthony Tolliver,201229,Jump Shot,3,45,17,Jump Shot,JUMP_SHOTS,,2017
+Anthony Tolliver,201229,Standard Layup,2,23,12,Layup Shot,LAYUPS,,2017
+Anthony Tolliver,201229,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2017
+Anthony Tolliver,201229,Reverse Layup,2,5,3,Reverse Layup Shot,LAYUPS,,2017
+Anthony Tolliver,201229,Running Jump Shot,2,3,1,Running Jump Shot,JUMP_SHOTS,,2017
+Anthony Tolliver,201229,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2017
+Anthony Tolliver,201229,Putback Layup,2,8,5,Tip Layup Shot,LAYUPS,,2017
+Anthony Tolliver,201229,Turnaround Hook Shot,2,3,2,Turnaround Hook Shot,POST_MOVES,,2017
+Anthony Tolliver,201229,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2018
+Anthony Tolliver,201229,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2018
+Anthony Tolliver,201229,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2018
+Anthony Tolliver,201229,Standard Layup,2,3,2,Cutting Layup Shot,LAYUPS,,2018
+Anthony Tolliver,201229,Driving Dunk,2,5,5,Driving Dunk Shot,DUNKS,,2018
+Anthony Tolliver,201229,Finger Roll,2,5,4,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Anthony Tolliver,201229,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Anthony Tolliver,201229,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Anthony Tolliver,201229,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2018
+Anthony Tolliver,201229,Driving Layup,2,13,6,Driving Layup Shot,LAYUPS,,2018
+Anthony Tolliver,201229,Driving Layup,2,10,8,Driving Reverse Layup Shot,LAYUPS,,2018
+Anthony Tolliver,201229,Standard Dunk,2,8,6,Dunk Shot,DUNKS,,2018
+Anthony Tolliver,201229,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+Anthony Tolliver,201229,Finger Roll,2,2,1,Finger Roll Layup Shot,LAYUPS,,2018
+Anthony Tolliver,201229,Floating Jump Shot,2,2,0,Floating Jump shot,FLOATING_SHOTS,,2018
+Anthony Tolliver,201229,Hook Shot,2,3,0,Hook Shot,POST_MOVES,,2018
+Anthony Tolliver,201229,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2018
+Anthony Tolliver,201229,Jump Shot,2,284,125,Jump Shot,JUMP_SHOTS,,2018
+Anthony Tolliver,201229,Jump Shot,3,78,31,Jump Shot,JUMP_SHOTS,,2018
+Anthony Tolliver,201229,Standard Layup,2,19,8,Layup Shot,LAYUPS,,2018
+Anthony Tolliver,201229,Pullup Jump Shot,2,5,4,Pullup Jump shot,JUMP_SHOTS,,2018
+Anthony Tolliver,201229,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2018
+Anthony Tolliver,201229,Reverse Layup,2,5,2,Reverse Layup Shot,LAYUPS,,2018
+Anthony Tolliver,201229,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2018
+Anthony Tolliver,201229,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,2018
+Anthony Tolliver,201229,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2018
+Anthony Tolliver,201229,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2018
+Anthony Tolliver,201229,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2018
+Anthony Tolliver,201229,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2018
+Anthony Tolliver,201229,Step Back Jump Shot,2,2,0,Step Back Jump shot,JUMP_SHOTS,,2018
+Anthony Tolliver,201229,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2018
+Anthony Tolliver,201229,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2018
+Anthony Tolliver,201229,Putback Layup,2,5,3,Tip Layup Shot,LAYUPS,,2018
+Anthony Tolliver,201229,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2018
+Anthony Tolliver,201229,Turnaround Hook Shot,2,3,1,Turnaround Hook Shot,POST_MOVES,,2018
+Anthony Tolliver,201229,Standard Layup,2,2,1,Cutting Layup Shot,LAYUPS,,2019
+Anthony Tolliver,201229,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2019
+Anthony Tolliver,201229,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Anthony Tolliver,201229,Floating Jump Shot,2,2,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Anthony Tolliver,201229,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Anthony Tolliver,201229,Driving Layup,2,9,4,Driving Layup Shot,LAYUPS,,2019
+Anthony Tolliver,201229,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2019
+Anthony Tolliver,201229,Standard Dunk,2,3,2,Dunk Shot,DUNKS,,2019
+Anthony Tolliver,201229,Hook Shot,2,3,0,Hook Shot,POST_MOVES,,2019
+Anthony Tolliver,201229,Jump Shot,2,199,75,Jump Shot,JUMP_SHOTS,,2019
+Anthony Tolliver,201229,Jump Shot,3,14,4,Jump Shot,JUMP_SHOTS,,2019
+Anthony Tolliver,201229,Standard Layup,2,3,0,Layup Shot,LAYUPS,,2019
+Anthony Tolliver,201229,Pullup Jump Shot,2,5,3,Pullup Jump shot,JUMP_SHOTS,,2019
+Anthony Tolliver,201229,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2019
+Anthony Tolliver,201229,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2019
+Anthony Tolliver,201229,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2019
+Anthony Tolliver,201229,Step Back Jump Shot,2,3,1,Step Back Jump shot,JUMP_SHOTS,,2019
+Anthony Tolliver,201229,Putback Layup,2,4,3,Tip Layup Shot,LAYUPS,,2019
+Anthony Tolliver,201229,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2019
+Anthony Tolliver,201229,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2019
+Anthony Tolliver,201229,Turnaround Jump Shot,2,2,2,Turnaround Jump Shot,JUMP_SHOTS,,2019
+Anthony Tolliver,201229,Turnaround Jump Shot,3,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2019
+Anthony Tolliver,201229,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2020
+Anthony Tolliver,201229,Standard Layup,2,3,1,Cutting Layup Shot,LAYUPS,,2020
+Anthony Tolliver,201229,Floating Jump Shot,2,3,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Anthony Tolliver,201229,Driving Layup,2,6,1,Driving Layup Shot,LAYUPS,,2020
+Anthony Tolliver,201229,Driving Layup,2,3,1,Driving Reverse Layup Shot,LAYUPS,,2020
+Anthony Tolliver,201229,Jump Shot,2,114,39,Jump Shot,JUMP_SHOTS,,2020
+Anthony Tolliver,201229,Jump Shot,3,27,9,Jump Shot,JUMP_SHOTS,,2020
+Anthony Tolliver,201229,Standard Layup,2,2,1,Layup Shot,LAYUPS,,2020
+Anthony Tolliver,201229,Pullup Jump Shot,2,2,1,Pullup Jump shot,JUMP_SHOTS,,2020
+Anthony Tolliver,201229,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2020
+Anthony Tolliver,201229,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2020
+Anthony Tolliver,201229,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2020
+Anthony Tolliver,201229,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2020
+Anthony Tolliver,201229,Running Jump Shot,3,1,1,Running Jump Shot,JUMP_SHOTS,,2020
+Anthony Tolliver,201229,Running Jump Shot,2,3,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2020
+Anthony Tolliver,201229,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2020
+Anthony Tolliver,201229,Putback Layup,2,5,1,Tip Layup Shot,LAYUPS,,2020
+Anthony Tolliver,201229,Turnaround Jump Shot,2,2,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2020
+Anthony Tolliver,201229,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2020
+Anthony Tolliver,201229,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2020
+Anthony Tolliver,201229,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Anthony Tolliver,201229,Jump Shot,2,14,4,Jump Shot,JUMP_SHOTS,,2021
+Anthony Tolliver,201229,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2021
+Anthony Tolliver,201229,Putback Layup,2,1,0,Tip Layup Shot,LAYUPS,,2021

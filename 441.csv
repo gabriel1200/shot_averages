@@ -1,11 +1,130 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-441,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,1997
-441,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,1997
-441,Jump Shot,2PT Field Goal,12,1,Jump Shot,JUMP_SHOTS,0.0833333333333333,1997
-441,Jump Shot,3PT Field Goal,7,2,Jump Shot,JUMP_SHOTS,0.4285714285714285,1997
-441,Standard Layup,2PT Field Goal,9,4,Layup Shot,LAYUPS,0.4444444444444444,1997
-441,Standard Dunk,2PT Field Goal,2,2,Slam Dunk Shot,DUNKS,1.0,1997
-441,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,1998
-441,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,1998
-441,Jump Shot,2PT Field Goal,7,2,Jump Shot,JUMP_SHOTS,0.2857142857142857,1998
-441,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,1998
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Lamond Murray,441,Driving Dunk,2,7,7,Driving Dunk Shot,DUNKS,,1997
+Lamond Murray,441,Driving Layup,2,28,24,Driving Layup Shot,LAYUPS,,1997
+Lamond Murray,441,Standard Dunk,2,16,14,Dunk Shot,DUNKS,,1997
+Lamond Murray,441,Hook Shot,2,6,1,Hook Shot,POST_MOVES,,1997
+Lamond Murray,441,Jump Shot,2,228,76,Jump Shot,JUMP_SHOTS,,1997
+Lamond Murray,441,Jump Shot,3,19,3,Jump Shot,JUMP_SHOTS,,1997
+Lamond Murray,441,Standard Layup,2,93,27,Layup Shot,LAYUPS,,1997
+Lamond Murray,441,Running Jump Shot,2,3,2,Running Jump Shot,JUMP_SHOTS,,1997
+Lamond Murray,441,Standard Dunk,2,23,23,Slam Dunk Shot,DUNKS,,1997
+Lamond Murray,441,Tip Shot,2,12,4,Tip Shot,TIP_SHOTS,,1997
+Lamond Murray,441,Driving Dunk,2,27,27,Driving Dunk Shot,DUNKS,,1998
+Lamond Murray,441,Driving Layup,2,65,46,Driving Layup Shot,LAYUPS,,1998
+Lamond Murray,441,Standard Dunk,2,37,34,Dunk Shot,DUNKS,,1998
+Lamond Murray,441,Hook Shot,2,30,8,Hook Shot,POST_MOVES,,1998
+Lamond Murray,441,Jump Shot,2,600,207,Jump Shot,JUMP_SHOTS,,1998
+Lamond Murray,441,Jump Shot,3,3,0,Jump Shot,JUMP_SHOTS,,1998
+Lamond Murray,441,Standard Layup,2,125,72,Layup Shot,LAYUPS,,1998
+Lamond Murray,441,Running Jump Shot,2,9,5,Running Jump Shot,JUMP_SHOTS,,1998
+Lamond Murray,441,Standard Dunk,2,61,61,Slam Dunk Shot,DUNKS,,1998
+Lamond Murray,441,Tip Shot,2,27,13,Tip Shot,TIP_SHOTS,,1998
+Lamond Murray,441,Driving Dunk,2,4,3,Driving Dunk Shot,DUNKS,,1999
+Lamond Murray,441,Driving Layup,2,43,21,Driving Layup Shot,LAYUPS,,1999
+Lamond Murray,441,Standard Dunk,2,5,3,Dunk Shot,DUNKS,,1999
+Lamond Murray,441,Hook Shot,2,14,4,Hook Shot,POST_MOVES,,1999
+Lamond Murray,441,Jump Shot,2,419,137,Jump Shot,JUMP_SHOTS,,1999
+Lamond Murray,441,Standard Layup,2,51,27,Layup Shot,LAYUPS,,1999
+Lamond Murray,441,Running Jump Shot,2,9,4,Running Jump Shot,JUMP_SHOTS,,1999
+Lamond Murray,441,Standard Dunk,2,22,22,Slam Dunk Shot,DUNKS,,1999
+Lamond Murray,441,Tip Shot,2,11,5,Tip Shot,TIP_SHOTS,,1999
+Lamond Murray,441,Driving Dunk,2,11,10,Driving Dunk Shot,DUNKS,,2000
+Lamond Murray,441,Driving Layup,2,76,41,Driving Layup Shot,LAYUPS,,2000
+Lamond Murray,441,Standard Dunk,2,24,22,Dunk Shot,DUNKS,,2000
+Lamond Murray,441,Hook Shot,2,38,17,Hook Shot,POST_MOVES,,2000
+Lamond Murray,441,Jump Shot,2,667,248,Jump Shot,JUMP_SHOTS,,2000
+Lamond Murray,441,Standard Layup,2,101,44,Layup Shot,LAYUPS,,2000
+Lamond Murray,441,Running Jump Shot,2,11,6,Running Jump Shot,JUMP_SHOTS,,2000
+Lamond Murray,441,Standard Dunk,2,62,54,Slam Dunk Shot,DUNKS,,2000
+Lamond Murray,441,Tip Shot,2,29,18,Tip Shot,TIP_SHOTS,,2000
+Lamond Murray,441,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2001
+Lamond Murray,441,Driving Dunk,2,9,8,Driving Dunk Shot,DUNKS,,2001
+Lamond Murray,441,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2001
+Lamond Murray,441,Driving Hook Shot,2,2,2,Driving Hook Shot,POST_MOVES,,2001
+Lamond Murray,441,Driving Layup,2,30,17,Driving Layup Shot,LAYUPS,,2001
+Lamond Murray,441,Standard Dunk,2,12,11,Dunk Shot,DUNKS,,2001
+Lamond Murray,441,Finger Roll,2,2,1,Finger Roll Shot,LAYUPS,,2001
+Lamond Murray,441,Hook Shot,2,28,9,Hook Shot,POST_MOVES,,2001
+Lamond Murray,441,Jump Shot,2,644,226,Jump Shot,JUMP_SHOTS,,2001
+Lamond Murray,441,Standard Layup,2,80,34,Layup Shot,LAYUPS,,2001
+Lamond Murray,441,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2001
+Lamond Murray,441,Reverse Layup,2,7,3,Reverse Layup Shot,LAYUPS,,2001
+Lamond Murray,441,Finger Roll,2,1,1,Running Finger Roll Shot,LAYUPS,,2001
+Lamond Murray,441,Running Hook Shot,2,6,6,Running Hook Shot,POST_MOVES,,2001
+Lamond Murray,441,Running Jump Shot,2,15,7,Running Jump Shot,JUMP_SHOTS,,2001
+Lamond Murray,441,Standard Layup,2,14,11,Running Layup Shot,LAYUPS,,2001
+Lamond Murray,441,Standard Dunk,2,24,23,Slam Dunk Shot,DUNKS,,2001
+Lamond Murray,441,Tip Shot,2,23,13,Tip Shot,TIP_SHOTS,,2001
+Lamond Murray,441,Turnaround Jump Shot,2,25,17,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Lamond Murray,441,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2002
+Lamond Murray,441,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2002
+Lamond Murray,441,Driving Dunk,2,5,4,Driving Dunk Shot,DUNKS,,2002
+Lamond Murray,441,Finger Roll,2,2,2,Driving Finger Roll Shot,LAYUPS,,2002
+Lamond Murray,441,Driving Layup,2,29,24,Driving Layup Shot,LAYUPS,,2002
+Lamond Murray,441,Standard Dunk,2,10,6,Dunk Shot,DUNKS,,2002
+Lamond Murray,441,Fadeaway Jump Shot,2,45,24,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Lamond Murray,441,Finger Roll,2,1,0,Finger Roll Shot,LAYUPS,,2002
+Lamond Murray,441,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2002
+Lamond Murray,441,Hook Shot,2,16,4,Hook Shot,POST_MOVES,,2002
+Lamond Murray,441,Hook Shot,2,5,4,Jump Hook Shot,POST_MOVES,,2002
+Lamond Murray,441,Jump Shot,2,681,269,Jump Shot,JUMP_SHOTS,,2002
+Lamond Murray,441,Standard Layup,2,104,34,Layup Shot,LAYUPS,,2002
+Lamond Murray,441,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2002
+Lamond Murray,441,Reverse Layup,2,4,3,Reverse Layup Shot,LAYUPS,,2002
+Lamond Murray,441,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2002
+Lamond Murray,441,Running Hook Shot,2,3,2,Running Hook Shot,POST_MOVES,,2002
+Lamond Murray,441,Running Jump Shot,2,18,8,Running Jump Shot,JUMP_SHOTS,,2002
+Lamond Murray,441,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2002
+Lamond Murray,441,Standard Dunk,2,23,20,Slam Dunk Shot,DUNKS,,2002
+Lamond Murray,441,Tip Shot,2,9,6,Tip Shot,TIP_SHOTS,,2002
+Lamond Murray,441,Turnaround Jump Shot,2,21,12,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Lamond Murray,441,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2004
+Lamond Murray,441,Driving Dunk,2,3,2,Driving Dunk Shot,DUNKS,,2004
+Lamond Murray,441,Finger Roll,2,4,3,Driving Finger Roll Shot,LAYUPS,,2004
+Lamond Murray,441,Driving Layup,2,3,1,Driving Layup Shot,LAYUPS,,2004
+Lamond Murray,441,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,2004
+Lamond Murray,441,Fadeaway Jump Shot,2,4,2,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Lamond Murray,441,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2004
+Lamond Murray,441,Jump Shot,2,167,50,Jump Shot,JUMP_SHOTS,,2004
+Lamond Murray,441,Standard Layup,2,16,8,Layup Shot,LAYUPS,,2004
+Lamond Murray,441,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2004
+Lamond Murray,441,Finger Roll,2,1,1,Running Finger Roll Shot,LAYUPS,,2004
+Lamond Murray,441,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2004
+Lamond Murray,441,Running Jump Shot,2,3,2,Running Jump Shot,JUMP_SHOTS,,2004
+Lamond Murray,441,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,,2004
+Lamond Murray,441,Turnaround Jump Shot,2,5,2,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Lamond Murray,441,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2005
+Lamond Murray,441,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2005
+Lamond Murray,441,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2005
+Lamond Murray,441,Finger Roll,2,5,3,Driving Finger Roll Shot,LAYUPS,,2005
+Lamond Murray,441,Driving Hook Shot,2,3,2,Driving Hook Shot,POST_MOVES,,2005
+Lamond Murray,441,Driving Layup,2,10,5,Driving Layup Shot,LAYUPS,,2005
+Lamond Murray,441,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2005
+Lamond Murray,441,Fadeaway Jump Shot,2,9,5,Fadeaway Jump Shot,JUMP_SHOTS,,2005
+Lamond Murray,441,Finger Roll,2,2,1,Finger Roll Shot,LAYUPS,,2005
+Lamond Murray,441,Specialty Dunk,2,2,2,Follow Up Dunk Shot,DUNKS,,2005
+Lamond Murray,441,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2005
+Lamond Murray,441,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2005
+Lamond Murray,441,Hook Shot,2,3,2,Jump Hook Shot,POST_MOVES,,2005
+Lamond Murray,441,Jump Shot,2,207,83,Jump Shot,JUMP_SHOTS,,2005
+Lamond Murray,441,Standard Layup,2,22,5,Layup Shot,LAYUPS,,2005
+Lamond Murray,441,Reverse Layup,2,2,0,Reverse Layup Shot,LAYUPS,,2005
+Lamond Murray,441,Running Hook Shot,2,3,0,Running Hook Shot,POST_MOVES,,2005
+Lamond Murray,441,Running Jump Shot,2,6,2,Running Jump Shot,JUMP_SHOTS,,2005
+Lamond Murray,441,Standard Dunk,2,7,7,Slam Dunk Shot,DUNKS,,2005
+Lamond Murray,441,Tip Shot,2,6,0,Tip Shot,TIP_SHOTS,,2005
+Lamond Murray,441,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2005
+Lamond Murray,441,Turnaround Jump Shot,2,11,6,Turnaround Jump Shot,JUMP_SHOTS,,2005
+Lamond Murray,441,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2006
+Lamond Murray,441,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2006
+Lamond Murray,441,Driving Layup,2,5,0,Driving Layup Shot,LAYUPS,,2006
+Lamond Murray,441,Standard Dunk,2,5,5,Dunk Shot,DUNKS,,2006
+Lamond Murray,441,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2006
+Lamond Murray,441,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2006
+Lamond Murray,441,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2006
+Lamond Murray,441,Jump Shot,2,138,45,Jump Shot,JUMP_SHOTS,,2006
+Lamond Murray,441,Standard Layup,2,18,11,Layup Shot,LAYUPS,,2006
+Lamond Murray,441,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,2006
+Lamond Murray,441,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2006
+Lamond Murray,441,Tip Shot,2,4,1,Tip Shot,TIP_SHOTS,,2006
+Lamond Murray,441,Turnaround Jump Shot,2,3,2,Turnaround Jump Shot,JUMP_SHOTS,,2006

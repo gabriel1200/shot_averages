@@ -1,37 +1,107 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1631095,Specialty Dunk,2PT Field Goal,1,0,Cutting Dunk Shot,DUNKS,0.0,2024
-1631095,Standard Layup,2PT Field Goal,3,3,Cutting Layup Shot,LAYUPS,1.0,2024
-1631095,Finger Roll,2PT Field Goal,2,2,Driving Finger Roll Layup Shot,LAYUPS,1.0,2024
-1631095,Floating Jump Shot,2PT Field Goal,3,3,Driving Floating Jump Shot,FLOATING_SHOTS,1.0,2024
-1631095,Driving Layup,2PT Field Goal,3,1,Driving Layup Shot,LAYUPS,0.3333333333333333,2024
-1631095,Fadeaway Jump Shot,2PT Field Goal,2,2,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2024
-1631095,Floating Jump Shot,2PT Field Goal,2,1,Floating Jump shot,FLOATING_SHOTS,0.5,2024
-1631095,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2024
-1631095,Jump Shot,2PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2024
-1631095,Jump Shot,2PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.3333333333333333,2024
-1631095,Jump Shot,3PT Field Goal,41,15,Jump Shot,JUMP_SHOTS,0.5487804878048781,2024
-1631095,Standard Layup,2PT Field Goal,3,2,Layup Shot,LAYUPS,0.6666666666666666,2024
-1631095,Pullup Jump Shot,2PT Field Goal,8,3,Pullup Jump shot,JUMP_SHOTS,0.375,2024
-1631095,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2024
-1631095,Putback Layup,2PT Field Goal,4,3,Putback Layup Shot,LAYUPS,0.75,2024
-1631095,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2024
-1631095,Standard Dunk,2PT Field Goal,4,4,Running Dunk Shot,DUNKS,1.0,2024
-1631095,Running Jump Shot,3PT Field Goal,6,1,Running Jump Shot,JUMP_SHOTS,0.25,2024
-1631095,Standard Layup,2PT Field Goal,2,0,Running Layup Shot,LAYUPS,0.0,2024
-1631095,Running Jump Shot,2PT Field Goal,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,1.0,2024
-1631095,Running Jump Shot,3PT Field Goal,2,1,Running Pull-Up Jump Shot,JUMP_SHOTS,0.75,2024
-1631095,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.0,2024
-1631095,Step Back Jump Shot,3PT Field Goal,4,1,Step Back Jump shot,JUMP_SHOTS,0.375,2024
-1631095,Specialty Dunk,2PT Field Goal,1,1,Tip Dunk Shot,DUNKS,1.0,2024
-1631095,Putback Layup,2PT Field Goal,1,1,Tip Layup Shot,LAYUPS,1.0,2024
-1631095,Turnaround Jump Shot,2PT Field Goal,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,0.5,2024
-1631095,Turnaround Hook Shot,2PT Field Goal,2,0,Turnaround Hook Shot,POST_MOVES,0.0,2024
-1631095,Turnaround Jump Shot,2PT Field Goal,5,2,Turnaround Jump Shot,JUMP_SHOTS,0.4,2024
-1631095,Driving Layup,2PT Field Goal,2,0,Driving Layup Shot,LAYUPS,0.0,2025
-1631095,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2025
-1631095,Jump Shot,3PT Field Goal,13,6,Jump Shot,JUMP_SHOTS,0.6923076923076923,2025
-1631095,Pullup Jump Shot,2PT Field Goal,2,0,Pullup Jump shot,JUMP_SHOTS,0.0,2025
-1631095,Running Jump Shot,3PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2025
-1631095,Standard Layup,2PT Field Goal,2,1,Running Layup Shot,LAYUPS,0.5,2025
-1631095,Running Jump Shot,3PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2025
-1631095,Turnaround Jump Shot,2PT Field Goal,2,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Jabari Smith Jr.,1631095,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2023
+Jabari Smith Jr.,1631095,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2023
+Jabari Smith Jr.,1631095,Specialty Dunk,2,11,11,Cutting Dunk Shot,DUNKS,,2023
+Jabari Smith Jr.,1631095,Finger Roll,2,3,3,Cutting Finger Roll Layup Shot,LAYUPS,,2023
+Jabari Smith Jr.,1631095,Standard Layup,2,14,10,Cutting Layup Shot,LAYUPS,,2023
+Jabari Smith Jr.,1631095,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2023
+Jabari Smith Jr.,1631095,Driving Dunk,2,5,2,Driving Dunk Shot,DUNKS,,2023
+Jabari Smith Jr.,1631095,Finger Roll,2,23,16,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Jabari Smith Jr.,1631095,Floating Jump Shot,2,6,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+Jabari Smith Jr.,1631095,Floating Jump Shot,2,21,12,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Jabari Smith Jr.,1631095,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2023
+Jabari Smith Jr.,1631095,Driving Layup,2,45,13,Driving Layup Shot,LAYUPS,,2023
+Jabari Smith Jr.,1631095,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2023
+Jabari Smith Jr.,1631095,Standard Dunk,2,6,5,Dunk Shot,DUNKS,,2023
+Jabari Smith Jr.,1631095,Fadeaway Jump Shot,2,29,10,Fadeaway Jump Shot,JUMP_SHOTS,,2023
+Jabari Smith Jr.,1631095,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2023
+Jabari Smith Jr.,1631095,Floating Jump Shot,2,7,4,Floating Jump shot,FLOATING_SHOTS,,2023
+Jabari Smith Jr.,1631095,Hook Shot,2,4,3,Hook Shot,POST_MOVES,,2023
+Jabari Smith Jr.,1631095,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2023
+Jabari Smith Jr.,1631095,Jump Shot,2,349,103,Jump Shot,JUMP_SHOTS,,2023
+Jabari Smith Jr.,1631095,Standard Layup,2,21,7,Layup Shot,LAYUPS,,2023
+Jabari Smith Jr.,1631095,Pullup Jump Shot,2,140,54,Pullup Jump shot,JUMP_SHOTS,,2023
+Jabari Smith Jr.,1631095,Putback Dunk,2,10,9,Putback Dunk Shot,DUNKS,,2023
+Jabari Smith Jr.,1631095,Putback Layup,2,32,19,Putback Layup Shot,LAYUPS,,2023
+Jabari Smith Jr.,1631095,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2023
+Jabari Smith Jr.,1631095,Alley Oop Dunk,2,2,2,Running Alley Oop Dunk Shot,DUNKS,,2023
+Jabari Smith Jr.,1631095,Standard Dunk,2,12,11,Running Dunk Shot,DUNKS,,2023
+Jabari Smith Jr.,1631095,Finger Roll,2,3,1,Running Finger Roll Layup Shot,LAYUPS,,2023
+Jabari Smith Jr.,1631095,Running Jump Shot,2,15,2,Running Jump Shot,JUMP_SHOTS,,2023
+Jabari Smith Jr.,1631095,Standard Layup,2,12,10,Running Layup Shot,LAYUPS,,2023
+Jabari Smith Jr.,1631095,Running Jump Shot,2,28,14,Running Pull-Up Jump Shot,JUMP_SHOTS,,2023
+Jabari Smith Jr.,1631095,Step Back Jump Shot,2,14,5,Step Back Jump shot,JUMP_SHOTS,,2023
+Jabari Smith Jr.,1631095,Putback Layup,2,13,6,Tip Layup Shot,LAYUPS,,2023
+Jabari Smith Jr.,1631095,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2023
+Jabari Smith Jr.,1631095,Turnaround Jump Shot,2,30,13,Turnaround Fadeaway shot,JUMP_SHOTS,,2023
+Jabari Smith Jr.,1631095,Turnaround Hook Shot,2,5,2,Turnaround Hook Shot,POST_MOVES,,2023
+Jabari Smith Jr.,1631095,Turnaround Jump Shot,2,18,5,Turnaround Jump Shot,JUMP_SHOTS,,2023
+Jabari Smith Jr.,1631095,Specialty Dunk,2,22,19,Cutting Dunk Shot,DUNKS,,2024
+Jabari Smith Jr.,1631095,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2024
+Jabari Smith Jr.,1631095,Standard Layup,2,22,17,Cutting Layup Shot,LAYUPS,,2024
+Jabari Smith Jr.,1631095,Driving Dunk,2,4,3,Driving Dunk Shot,DUNKS,,2024
+Jabari Smith Jr.,1631095,Finger Roll,2,9,6,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Jabari Smith Jr.,1631095,Floating Jump Shot,2,5,4,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Jabari Smith Jr.,1631095,Floating Jump Shot,2,10,6,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Jabari Smith Jr.,1631095,Driving Layup,2,30,8,Driving Layup Shot,LAYUPS,,2024
+Jabari Smith Jr.,1631095,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2024
+Jabari Smith Jr.,1631095,Standard Dunk,2,6,4,Dunk Shot,DUNKS,,2024
+Jabari Smith Jr.,1631095,Fadeaway Jump Shot,2,21,7,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Jabari Smith Jr.,1631095,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2024
+Jabari Smith Jr.,1631095,Floating Jump Shot,2,4,2,Floating Jump shot,FLOATING_SHOTS,,2024
+Jabari Smith Jr.,1631095,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2024
+Jabari Smith Jr.,1631095,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2024
+Jabari Smith Jr.,1631095,Jump Shot,3,1,0,Jump Bank Shot,JUMP_SHOTS,,2024
+Jabari Smith Jr.,1631095,Jump Shot,2,37,12,Jump Shot,JUMP_SHOTS,,2024
+Jabari Smith Jr.,1631095,Jump Shot,3,304,116,Jump Shot,JUMP_SHOTS,,2024
+Jabari Smith Jr.,1631095,Standard Layup,2,21,8,Layup Shot,LAYUPS,,2024
+Jabari Smith Jr.,1631095,Pullup Jump Shot,2,87,40,Pullup Jump shot,JUMP_SHOTS,,2024
+Jabari Smith Jr.,1631095,Pullup Jump Shot,3,27,7,Pullup Jump shot,JUMP_SHOTS,,2024
+Jabari Smith Jr.,1631095,Putback Dunk,2,8,7,Putback Dunk Shot,DUNKS,,2024
+Jabari Smith Jr.,1631095,Putback Layup,2,36,24,Putback Layup Shot,LAYUPS,,2024
+Jabari Smith Jr.,1631095,Reverse Layup,2,6,4,Reverse Layup Shot,LAYUPS,,2024
+Jabari Smith Jr.,1631095,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2024
+Jabari Smith Jr.,1631095,Standard Dunk,2,11,10,Running Dunk Shot,DUNKS,,2024
+Jabari Smith Jr.,1631095,Finger Roll,2,5,3,Running Finger Roll Layup Shot,LAYUPS,,2024
+Jabari Smith Jr.,1631095,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2024
+Jabari Smith Jr.,1631095,Running Jump Shot,3,24,8,Running Jump Shot,JUMP_SHOTS,,2024
+Jabari Smith Jr.,1631095,Standard Layup,2,20,10,Running Layup Shot,LAYUPS,,2024
+Jabari Smith Jr.,1631095,Running Jump Shot,2,5,5,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Jabari Smith Jr.,1631095,Running Jump Shot,3,10,3,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Jabari Smith Jr.,1631095,Step Back Jump Shot,2,7,3,Step Back Jump shot,JUMP_SHOTS,,2024
+Jabari Smith Jr.,1631095,Step Back Jump Shot,3,13,4,Step Back Jump shot,JUMP_SHOTS,,2024
+Jabari Smith Jr.,1631095,Specialty Dunk,2,3,2,Tip Dunk Shot,DUNKS,,2024
+Jabari Smith Jr.,1631095,Putback Layup,2,14,9,Tip Layup Shot,LAYUPS,,2024
+Jabari Smith Jr.,1631095,Turnaround Jump Shot,2,29,11,Turnaround Fadeaway shot,JUMP_SHOTS,,2024
+Jabari Smith Jr.,1631095,Turnaround Hook Shot,2,4,1,Turnaround Hook Shot,POST_MOVES,,2024
+Jabari Smith Jr.,1631095,Turnaround Jump Shot,2,18,10,Turnaround Jump Shot,JUMP_SHOTS,,2024
+Jabari Smith Jr.,1631095,Turnaround Jump Shot,3,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2024
+Jabari Smith Jr.,1631095,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2025
+Jabari Smith Jr.,1631095,Finger Roll,2,1,0,Cutting Finger Roll Layup Shot,LAYUPS,,2025
+Jabari Smith Jr.,1631095,Standard Layup,2,3,1,Cutting Layup Shot,LAYUPS,,2025
+Jabari Smith Jr.,1631095,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2025
+Jabari Smith Jr.,1631095,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Jabari Smith Jr.,1631095,Floating Jump Shot,2,3,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2025
+Jabari Smith Jr.,1631095,Floating Jump Shot,2,2,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Jabari Smith Jr.,1631095,Driving Layup,2,10,5,Driving Layup Shot,LAYUPS,,2025
+Jabari Smith Jr.,1631095,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2025
+Jabari Smith Jr.,1631095,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,2025
+Jabari Smith Jr.,1631095,Fadeaway Jump Shot,2,8,6,Fadeaway Jump Shot,JUMP_SHOTS,,2025
+Jabari Smith Jr.,1631095,Jump Shot,2,12,5,Jump Shot,JUMP_SHOTS,,2025
+Jabari Smith Jr.,1631095,Jump Shot,3,125,47,Jump Shot,JUMP_SHOTS,,2025
+Jabari Smith Jr.,1631095,Standard Layup,2,8,4,Layup Shot,LAYUPS,,2025
+Jabari Smith Jr.,1631095,Pullup Jump Shot,2,26,9,Pullup Jump shot,JUMP_SHOTS,,2025
+Jabari Smith Jr.,1631095,Pullup Jump Shot,3,6,2,Pullup Jump shot,JUMP_SHOTS,,2025
+Jabari Smith Jr.,1631095,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2025
+Jabari Smith Jr.,1631095,Putback Layup,2,16,9,Putback Layup Shot,LAYUPS,,2025
+Jabari Smith Jr.,1631095,Standard Dunk,2,7,7,Running Dunk Shot,DUNKS,,2025
+Jabari Smith Jr.,1631095,Running Jump Shot,3,18,6,Running Jump Shot,JUMP_SHOTS,,2025
+Jabari Smith Jr.,1631095,Standard Layup,2,18,9,Running Layup Shot,LAYUPS,,2025
+Jabari Smith Jr.,1631095,Running Jump Shot,2,3,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025
+Jabari Smith Jr.,1631095,Running Jump Shot,3,6,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025
+Jabari Smith Jr.,1631095,Step Back Jump Shot,2,2,2,Step Back Jump shot,JUMP_SHOTS,,2025
+Jabari Smith Jr.,1631095,Step Back Jump Shot,3,3,0,Step Back Jump shot,JUMP_SHOTS,,2025
+Jabari Smith Jr.,1631095,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2025
+Jabari Smith Jr.,1631095,Putback Layup,2,7,4,Tip Layup Shot,LAYUPS,,2025
+Jabari Smith Jr.,1631095,Turnaround Jump Shot,2,13,6,Turnaround Fadeaway shot,JUMP_SHOTS,,2025
+Jabari Smith Jr.,1631095,Turnaround Jump Shot,2,6,3,Turnaround Jump Shot,JUMP_SHOTS,,2025

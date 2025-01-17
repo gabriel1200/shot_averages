@@ -1,40 +1,149 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1629622,Jump Shot,3PT Field Goal,6,3,Jump Shot,JUMP_SHOTS,0.75,2021
-1629622,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2021
-1629622,Putback Layup,2PT Field Goal,1,1,Tip Layup Shot,LAYUPS,1.0,2021
-1629622,Standard Layup,2PT Field Goal,1,0,Cutting Layup Shot,LAYUPS,0.0,2022
-1629622,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2022
-1629622,Jump Shot,3PT Field Goal,20,6,Jump Shot,JUMP_SHOTS,0.45,2022
-1629622,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2022
-1629622,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2022
-1629622,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2022
-1629622,Running Jump Shot,3PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2022
-1629622,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2022
-1629622,Step Back Jump Shot,3PT Field Goal,2,1,Step Back Jump shot,JUMP_SHOTS,0.75,2022
-1629622,Floating Jump Shot,2PT Field Goal,2,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.0,2023
-1629622,Jump Shot,3PT Field Goal,7,4,Jump Shot,JUMP_SHOTS,0.8571428571428571,2023
-1629622,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2023
-1629622,Standard Layup,2PT Field Goal,2,2,Cutting Layup Shot,LAYUPS,1.0,2024
-1629622,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2024
-1629622,Finger Roll,2PT Field Goal,4,1,Driving Finger Roll Layup Shot,LAYUPS,0.25,2024
-1629622,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,1.0,2024
-1629622,Floating Jump Shot,2PT Field Goal,2,1,Driving Floating Jump Shot,FLOATING_SHOTS,0.5,2024
-1629622,Driving Layup,2PT Field Goal,5,1,Driving Layup Shot,LAYUPS,0.2,2024
-1629622,Driving Layup,2PT Field Goal,3,2,Driving Reverse Layup Shot,LAYUPS,0.6666666666666666,2024
-1629622,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2024
-1629622,Jump Shot,3PT Field Goal,47,15,Jump Shot,JUMP_SHOTS,0.4787234042553192,2024
-1629622,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2024
-1629622,Pullup Jump Shot,2PT Field Goal,2,0,Pullup Jump shot,JUMP_SHOTS,0.0,2024
-1629622,Pullup Jump Shot,3PT Field Goal,5,1,Pullup Jump shot,JUMP_SHOTS,0.3,2024
-1629622,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2024
-1629622,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2024
-1629622,Running Jump Shot,3PT Field Goal,2,0,Running Jump Shot,JUMP_SHOTS,0.0,2024
-1629622,Standard Layup,2PT Field Goal,2,0,Running Layup Shot,LAYUPS,0.0,2024
-1629622,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.0,2024
-1629622,Step Back Jump Shot,3PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2024
-1629622,Putback Layup,2PT Field Goal,1,0,Tip Layup Shot,LAYUPS,0.0,2024
-1629622,Turnaround Jump Shot,2PT Field Goal,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,0.5,2024
-1629622,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2025
-1629622,Jump Shot,3PT Field Goal,4,2,Jump Shot,JUMP_SHOTS,0.75,2025
-1629622,Running Jump Shot,3PT Field Goal,2,2,Running Jump Shot,JUMP_SHOTS,1.5,2025
-1629622,Step Back Jump Shot,3PT Field Goal,2,0,Step Back Jump shot,JUMP_SHOTS,0.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Max Strus,1629622,Jump Shot,2,1,0,Jump Shot,JUMP_SHOTS,,2020
+Max Strus,1629622,Standard Layup,2,1,1,Layup Shot,LAYUPS,,2020
+Max Strus,1629622,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2020
+Max Strus,1629622,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2021
+Max Strus,1629622,Standard Layup,2,9,9,Cutting Layup Shot,LAYUPS,,2021
+Max Strus,1629622,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2021
+Max Strus,1629622,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Max Strus,1629622,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2021
+Max Strus,1629622,Floating Jump Shot,2,1,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Max Strus,1629622,Driving Layup,2,5,4,Driving Layup Shot,LAYUPS,,2021
+Max Strus,1629622,Jump Shot,2,124,41,Jump Shot,JUMP_SHOTS,,2021
+Max Strus,1629622,Jump Shot,3,15,7,Jump Shot,JUMP_SHOTS,,2021
+Max Strus,1629622,Standard Layup,2,3,2,Layup Shot,LAYUPS,,2021
+Max Strus,1629622,Pullup Jump Shot,2,5,1,Pullup Jump shot,JUMP_SHOTS,,2021
+Max Strus,1629622,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2021
+Max Strus,1629622,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2021
+Max Strus,1629622,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2021
+Max Strus,1629622,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2021
+Max Strus,1629622,Finger Roll,2,3,3,Running Finger Roll Layup Shot,LAYUPS,,2021
+Max Strus,1629622,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2021
+Max Strus,1629622,Standard Layup,2,6,6,Running Layup Shot,LAYUPS,,2021
+Max Strus,1629622,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2021
+Max Strus,1629622,Putback Layup,2,1,1,Tip Layup Shot,LAYUPS,,2021
+Max Strus,1629622,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2021
+Max Strus,1629622,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2022
+Max Strus,1629622,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2022
+Max Strus,1629622,Specialty Dunk,2,2,0,Cutting Dunk Shot,DUNKS,,2022
+Max Strus,1629622,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2022
+Max Strus,1629622,Standard Layup,2,24,18,Cutting Layup Shot,LAYUPS,,2022
+Max Strus,1629622,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2022
+Max Strus,1629622,Finger Roll,2,6,6,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Max Strus,1629622,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Max Strus,1629622,Floating Jump Shot,2,4,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Max Strus,1629622,Driving Hook Shot,2,3,0,Driving Hook Shot,POST_MOVES,,2022
+Max Strus,1629622,Driving Layup,2,23,6,Driving Layup Shot,LAYUPS,,2022
+Max Strus,1629622,Driving Layup,2,5,4,Driving Reverse Layup Shot,LAYUPS,,2022
+Max Strus,1629622,Fadeaway Jump Shot,2,4,1,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Max Strus,1629622,Floating Jump Shot,2,4,1,Floating Jump shot,FLOATING_SHOTS,,2022
+Max Strus,1629622,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2022
+Max Strus,1629622,Jump Shot,2,330,136,Jump Shot,JUMP_SHOTS,,2022
+Max Strus,1629622,Jump Shot,3,34,16,Jump Shot,JUMP_SHOTS,,2022
+Max Strus,1629622,Standard Layup,2,4,3,Layup Shot,LAYUPS,,2022
+Max Strus,1629622,Pullup Jump Shot,2,45,18,Pullup Jump shot,JUMP_SHOTS,,2022
+Max Strus,1629622,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2022
+Max Strus,1629622,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2022
+Max Strus,1629622,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2022
+Max Strus,1629622,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2022
+Max Strus,1629622,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2022
+Max Strus,1629622,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2022
+Max Strus,1629622,Finger Roll,2,3,3,Running Finger Roll Layup Shot,LAYUPS,,2022
+Max Strus,1629622,Running Jump Shot,2,14,3,Running Jump Shot,JUMP_SHOTS,,2022
+Max Strus,1629622,Running Jump Shot,3,2,0,Running Jump Shot,JUMP_SHOTS,,2022
+Max Strus,1629622,Standard Layup,2,9,6,Running Layup Shot,LAYUPS,,2022
+Max Strus,1629622,Running Jump Shot,2,2,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
+Max Strus,1629622,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2022
+Max Strus,1629622,Step Back Jump Shot,2,20,9,Step Back Jump shot,JUMP_SHOTS,,2022
+Max Strus,1629622,Step Back Jump Shot,3,3,1,Step Back Jump shot,JUMP_SHOTS,,2022
+Max Strus,1629622,Putback Layup,2,4,3,Tip Layup Shot,LAYUPS,,2022
+Max Strus,1629622,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2022
+Max Strus,1629622,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2022
+Max Strus,1629622,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2023
+Max Strus,1629622,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2023
+Max Strus,1629622,Specialty Dunk,2,8,8,Cutting Dunk Shot,DUNKS,,2023
+Max Strus,1629622,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2023
+Max Strus,1629622,Standard Layup,2,22,18,Cutting Layup Shot,LAYUPS,,2023
+Max Strus,1629622,Driving Dunk,2,3,1,Driving Dunk Shot,DUNKS,,2023
+Max Strus,1629622,Finger Roll,2,20,13,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Max Strus,1629622,Floating Jump Shot,2,13,6,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+Max Strus,1629622,Floating Jump Shot,2,23,8,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Max Strus,1629622,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,,2023
+Max Strus,1629622,Driving Layup,2,39,12,Driving Layup Shot,LAYUPS,,2023
+Max Strus,1629622,Driving Layup,2,5,3,Driving Reverse Layup Shot,LAYUPS,,2023
+Max Strus,1629622,Fadeaway Jump Shot,2,4,0,Fadeaway Jump Shot,JUMP_SHOTS,,2023
+Max Strus,1629622,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2023
+Max Strus,1629622,Floating Jump Shot,2,13,7,Floating Jump shot,FLOATING_SHOTS,,2023
+Max Strus,1629622,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2023
+Max Strus,1629622,Jump Shot,2,438,159,Jump Shot,JUMP_SHOTS,,2023
+Max Strus,1629622,Jump Shot,3,13,5,Jump Shot,JUMP_SHOTS,,2023
+Max Strus,1629622,Standard Layup,2,10,7,Layup Shot,LAYUPS,,2023
+Max Strus,1629622,Pullup Jump Shot,2,68,21,Pullup Jump shot,JUMP_SHOTS,,2023
+Max Strus,1629622,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2023
+Max Strus,1629622,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2023
+Max Strus,1629622,Reverse Layup,2,9,8,Reverse Layup Shot,LAYUPS,,2023
+Max Strus,1629622,Alley Oop Layup,2,1,1,Running Alley Oop Layup Shot,LAYUPS,,2023
+Max Strus,1629622,Standard Dunk,2,7,6,Running Dunk Shot,DUNKS,,2023
+Max Strus,1629622,Finger Roll,2,5,4,Running Finger Roll Layup Shot,LAYUPS,,2023
+Max Strus,1629622,Running Jump Shot,2,25,11,Running Jump Shot,JUMP_SHOTS,,2023
+Max Strus,1629622,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2023
+Max Strus,1629622,Standard Layup,2,14,11,Running Layup Shot,LAYUPS,,2023
+Max Strus,1629622,Running Jump Shot,2,7,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2023
+Max Strus,1629622,Running Jump Shot,3,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2023
+Max Strus,1629622,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2023
+Max Strus,1629622,Step Back Jump Shot,2,17,4,Step Back Jump shot,JUMP_SHOTS,,2023
+Max Strus,1629622,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2023
+Max Strus,1629622,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2023
+Max Strus,1629622,Putback Layup,2,7,1,Tip Layup Shot,LAYUPS,,2023
+Max Strus,1629622,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2023
+Max Strus,1629622,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2023
+Max Strus,1629622,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2024
+Max Strus,1629622,Specialty Dunk,2,7,6,Cutting Dunk Shot,DUNKS,,2024
+Max Strus,1629622,Standard Layup,2,32,19,Cutting Layup Shot,LAYUPS,,2024
+Max Strus,1629622,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2024
+Max Strus,1629622,Driving Dunk,2,4,2,Driving Dunk Shot,DUNKS,,2024
+Max Strus,1629622,Finger Roll,2,18,4,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Max Strus,1629622,Floating Jump Shot,2,4,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Max Strus,1629622,Floating Jump Shot,2,14,6,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Max Strus,1629622,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2024
+Max Strus,1629622,Driving Layup,2,52,17,Driving Layup Shot,LAYUPS,,2024
+Max Strus,1629622,Driving Layup,2,6,4,Driving Reverse Layup Shot,LAYUPS,,2024
+Max Strus,1629622,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Max Strus,1629622,Fadeaway Jump Shot,3,4,0,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Max Strus,1629622,Floating Jump Shot,2,4,2,Floating Jump shot,FLOATING_SHOTS,,2024
+Max Strus,1629622,Floating Jump Shot,3,1,0,Floating Jump shot,FLOATING_SHOTS,,2024
+Max Strus,1629622,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2024
+Max Strus,1629622,Jump Shot,2,3,2,Jump Shot,JUMP_SHOTS,,2024
+Max Strus,1629622,Jump Shot,3,385,143,Jump Shot,JUMP_SHOTS,,2024
+Max Strus,1629622,Standard Layup,2,11,6,Layup Shot,LAYUPS,,2024
+Max Strus,1629622,Pullup Jump Shot,2,11,7,Pullup Jump shot,JUMP_SHOTS,,2024
+Max Strus,1629622,Pullup Jump Shot,3,33,9,Pullup Jump shot,JUMP_SHOTS,,2024
+Max Strus,1629622,Putback Layup,2,5,5,Putback Layup Shot,LAYUPS,,2024
+Max Strus,1629622,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2024
+Max Strus,1629622,Reverse Layup,2,6,5,Reverse Layup Shot,LAYUPS,,2024
+Max Strus,1629622,Alley Oop Dunk,2,2,2,Running Alley Oop Dunk Shot,DUNKS,,2024
+Max Strus,1629622,Standard Dunk,2,12,11,Running Dunk Shot,DUNKS,,2024
+Max Strus,1629622,Finger Roll,2,8,3,Running Finger Roll Layup Shot,LAYUPS,,2024
+Max Strus,1629622,Running Jump Shot,3,38,12,Running Jump Shot,JUMP_SHOTS,,2024
+Max Strus,1629622,Standard Layup,2,23,17,Running Layup Shot,LAYUPS,,2024
+Max Strus,1629622,Running Jump Shot,3,7,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Max Strus,1629622,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2024
+Max Strus,1629622,Step Back Jump Shot,3,9,2,Step Back Jump shot,JUMP_SHOTS,,2024
+Max Strus,1629622,Putback Layup,2,16,9,Tip Layup Shot,LAYUPS,,2024
+Max Strus,1629622,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2024
+Max Strus,1629622,Turnaround Jump Shot,3,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2024
+Max Strus,1629622,Standard Layup,2,3,3,Cutting Layup Shot,LAYUPS,,2025
+Max Strus,1629622,Driving Dunk,2,1,0,Driving Dunk Shot,DUNKS,,2025
+Max Strus,1629622,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Max Strus,1629622,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2025
+Max Strus,1629622,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2025
+Max Strus,1629622,Fadeaway Jump Shot,3,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2025
+Max Strus,1629622,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2025
+Max Strus,1629622,Jump Shot,3,1,0,Jump Bank Shot,JUMP_SHOTS,,2025
+Max Strus,1629622,Jump Shot,3,46,20,Jump Shot,JUMP_SHOTS,,2025
+Max Strus,1629622,Standard Dunk,2,1,0,Running Dunk Shot,DUNKS,,2025
+Max Strus,1629622,Running Jump Shot,3,9,3,Running Jump Shot,JUMP_SHOTS,,2025
+Max Strus,1629622,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2025
+Max Strus,1629622,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2025
+Max Strus,1629622,Step Back Jump Shot,3,4,0,Step Back Jump shot,JUMP_SHOTS,,2025
+Max Strus,1629622,Putback Layup,2,1,0,Tip Layup Shot,LAYUPS,,2025

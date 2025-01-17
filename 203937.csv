@@ -1,37 +1,353 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-203937,Standard Layup,2PT Field Goal,2,2,Cutting Layup Shot,LAYUPS,1.0,2024
-203937,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2024
-203937,Finger Roll,2PT Field Goal,4,2,Driving Finger Roll Layup Shot,LAYUPS,0.5,2024
-203937,Floating Jump Shot,2PT Field Goal,2,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.0,2024
-203937,Floating Jump Shot,2PT Field Goal,13,9,Driving Floating Jump Shot,FLOATING_SHOTS,0.6923076923076923,2024
-203937,Driving Hook Shot,2PT Field Goal,7,3,Driving Hook Shot,POST_MOVES,0.4285714285714285,2024
-203937,Driving Layup,2PT Field Goal,4,1,Driving Layup Shot,LAYUPS,0.25,2024
-203937,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2024
-203937,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Bank shot,JUMP_SHOTS,0.0,2024
-203937,Fadeaway Jump Shot,2PT Field Goal,3,2,Fadeaway Jump Shot,JUMP_SHOTS,0.6666666666666666,2024
-203937,Floating Jump Shot,2PT Field Goal,8,2,Floating Jump shot,FLOATING_SHOTS,0.25,2024
-203937,Hook Shot,2PT Field Goal,3,0,Hook Shot,POST_MOVES,0.0,2024
-203937,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2024
-203937,Jump Shot,3PT Field Goal,9,1,Jump Shot,JUMP_SHOTS,0.1666666666666666,2024
-203937,Standard Layup,2PT Field Goal,2,0,Layup Shot,LAYUPS,0.0,2024
-203937,Pullup Jump Shot,2PT Field Goal,8,5,Pullup Jump shot,JUMP_SHOTS,0.625,2024
-203937,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2024
-203937,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2024
-203937,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2024
-203937,Standard Dunk,2PT Field Goal,2,2,Running Dunk Shot,DUNKS,1.0,2024
-203937,Finger Roll,2PT Field Goal,2,2,Running Finger Roll Layup Shot,LAYUPS,1.0,2024
-203937,Standard Layup,2PT Field Goal,3,1,Running Layup Shot,LAYUPS,0.3333333333333333,2024
-203937,Reverse Layup,2PT Field Goal,1,1,Running Reverse Layup Shot,LAYUPS,1.0,2024
-203937,Putback Layup,2PT Field Goal,2,2,Tip Layup Shot,LAYUPS,1.0,2024
-203937,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Bank Hook Shot,POST_MOVES,0.0,2024
-203937,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2024
-203937,Turnaround Hook Shot,2PT Field Goal,7,3,Turnaround Hook Shot,POST_MOVES,0.4285714285714285,2024
-203937,Turnaround Jump Shot,2PT Field Goal,4,3,Turnaround Jump Shot,JUMP_SHOTS,0.75,2024
-203937,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2025
-203937,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2025
-203937,Floating Jump Shot,2PT Field Goal,2,0,Floating Jump shot,FLOATING_SHOTS,0.0,2025
-203937,Jump Shot,3PT Field Goal,5,1,Jump Shot,JUMP_SHOTS,0.3,2025
-203937,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2025
-203937,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2025
-203937,Putback Dunk,2PT Field Goal,1,1,Putback Dunk Shot,DUNKS,1.0,2025
-203937,Putback Layup,2PT Field Goal,2,1,Putback Layup Shot,LAYUPS,0.5,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Kyle Anderson,203937,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2015
+Kyle Anderson,203937,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2015
+Kyle Anderson,203937,Driving Layup,2,3,3,Driving Layup Shot,LAYUPS,,2015
+Kyle Anderson,203937,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2015
+Kyle Anderson,203937,Fadeaway Jump Shot,2,4,1,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+Kyle Anderson,203937,Floating Jump Shot,2,3,1,Floating Jump shot,FLOATING_SHOTS,,2015
+Kyle Anderson,203937,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2015
+Kyle Anderson,203937,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2015
+Kyle Anderson,203937,Jump Shot,2,44,9,Jump Shot,JUMP_SHOTS,,2015
+Kyle Anderson,203937,Standard Layup,2,12,3,Layup Shot,LAYUPS,,2015
+Kyle Anderson,203937,Pullup Jump Shot,2,3,2,Pullup Jump shot,JUMP_SHOTS,,2015
+Kyle Anderson,203937,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2015
+Kyle Anderson,203937,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2015
+Kyle Anderson,203937,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2015
+Kyle Anderson,203937,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2015
+Kyle Anderson,203937,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2015
+Kyle Anderson,203937,Turnaround Jump Shot,2,6,4,Turnaround Jump Shot,JUMP_SHOTS,,2015
+Kyle Anderson,203937,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2016
+Kyle Anderson,203937,Standard Layup,2,3,2,Cutting Layup Shot,LAYUPS,,2016
+Kyle Anderson,203937,Driving Jump Shot,2,2,2,Driving Bank shot,JUMP_SHOTS,,2016
+Kyle Anderson,203937,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2016
+Kyle Anderson,203937,Finger Roll,2,7,6,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Kyle Anderson,203937,Floating Jump Shot,2,1,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Kyle Anderson,203937,Driving Hook Shot,2,3,2,Driving Hook Shot,POST_MOVES,,2016
+Kyle Anderson,203937,Driving Layup,2,14,8,Driving Layup Shot,LAYUPS,,2016
+Kyle Anderson,203937,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2016
+Kyle Anderson,203937,Standard Dunk,2,6,5,Dunk Shot,DUNKS,,2016
+Kyle Anderson,203937,Fadeaway Jump Shot,2,11,5,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Kyle Anderson,203937,Finger Roll,2,2,0,Finger Roll Layup Shot,LAYUPS,,2016
+Kyle Anderson,203937,Floating Jump Shot,2,14,9,Floating Jump shot,FLOATING_SHOTS,,2016
+Kyle Anderson,203937,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2016
+Kyle Anderson,203937,Hook Shot,2,3,0,Hook Shot,POST_MOVES,,2016
+Kyle Anderson,203937,Jump Shot,2,3,1,Jump Bank Shot,JUMP_SHOTS,,2016
+Kyle Anderson,203937,Jump Shot,2,111,35,Jump Shot,JUMP_SHOTS,,2016
+Kyle Anderson,203937,Standard Layup,2,17,6,Layup Shot,LAYUPS,,2016
+Kyle Anderson,203937,Pullup Jump Shot,2,29,18,Pullup Jump shot,JUMP_SHOTS,,2016
+Kyle Anderson,203937,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2016
+Kyle Anderson,203937,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2016
+Kyle Anderson,203937,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2016
+Kyle Anderson,203937,Finger Roll,2,1,0,Running Finger Roll Layup Shot,LAYUPS,,2016
+Kyle Anderson,203937,Running Jump Shot,2,9,4,Running Jump Shot,JUMP_SHOTS,,2016
+Kyle Anderson,203937,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2016
+Kyle Anderson,203937,Step Back Jump Shot,2,16,9,Step Back Jump shot,JUMP_SHOTS,,2016
+Kyle Anderson,203937,Putback Layup,2,1,0,Tip Layup Shot,LAYUPS,,2016
+Kyle Anderson,203937,Turnaround Jump Shot,2,2,0,Turnaround Bank shot,JUMP_SHOTS,,2016
+Kyle Anderson,203937,Turnaround Jump Shot,2,7,3,Turnaround Fadeaway shot,JUMP_SHOTS,,2016
+Kyle Anderson,203937,Turnaround Hook Shot,2,10,6,Turnaround Hook Shot,POST_MOVES,,2016
+Kyle Anderson,203937,Turnaround Jump Shot,2,9,5,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Kyle Anderson,203937,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2017
+Kyle Anderson,203937,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2017
+Kyle Anderson,203937,Standard Layup,2,5,5,Cutting Layup Shot,LAYUPS,,2017
+Kyle Anderson,203937,Driving Jump Shot,2,3,3,Driving Bank shot,JUMP_SHOTS,,2017
+Kyle Anderson,203937,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2017
+Kyle Anderson,203937,Finger Roll,2,6,3,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Kyle Anderson,203937,Floating Jump Shot,2,4,3,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2017
+Kyle Anderson,203937,Floating Jump Shot,2,4,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Kyle Anderson,203937,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2017
+Kyle Anderson,203937,Driving Layup,2,9,7,Driving Layup Shot,LAYUPS,,2017
+Kyle Anderson,203937,Driving Layup,2,3,1,Driving Reverse Layup Shot,LAYUPS,,2017
+Kyle Anderson,203937,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2017
+Kyle Anderson,203937,Fadeaway Jump Shot,2,1,0,Fadeaway Bank shot,JUMP_SHOTS,,2017
+Kyle Anderson,203937,Fadeaway Jump Shot,2,3,1,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Kyle Anderson,203937,Finger Roll,2,6,3,Finger Roll Layup Shot,LAYUPS,,2017
+Kyle Anderson,203937,Hook Shot,2,4,1,Hook Shot,POST_MOVES,,2017
+Kyle Anderson,203937,Jump Shot,2,4,0,Jump Bank Shot,JUMP_SHOTS,,2017
+Kyle Anderson,203937,Jump Shot,2,93,30,Jump Shot,JUMP_SHOTS,,2017
+Kyle Anderson,203937,Standard Layup,2,16,7,Layup Shot,LAYUPS,,2017
+Kyle Anderson,203937,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2017
+Kyle Anderson,203937,Pullup Jump Shot,2,14,5,Pullup Jump shot,JUMP_SHOTS,,2017
+Kyle Anderson,203937,Putback Layup,2,5,3,Putback Layup Shot,LAYUPS,,2017
+Kyle Anderson,203937,Reverse Layup,2,4,3,Reverse Layup Shot,LAYUPS,,2017
+Kyle Anderson,203937,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2017
+Kyle Anderson,203937,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2017
+Kyle Anderson,203937,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2017
+Kyle Anderson,203937,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2017
+Kyle Anderson,203937,Putback Layup,2,7,4,Tip Layup Shot,LAYUPS,,2017
+Kyle Anderson,203937,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2017
+Kyle Anderson,203937,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Kyle Anderson,203937,Alley Oop Dunk,2,1,0,Alley Oop Dunk Shot,DUNKS,,2018
+Kyle Anderson,203937,Alley Oop Layup,2,4,1,Alley Oop Layup shot,LAYUPS,,2018
+Kyle Anderson,203937,Specialty Dunk,2,3,3,Cutting Dunk Shot,DUNKS,,2018
+Kyle Anderson,203937,Finger Roll,2,2,2,Cutting Finger Roll Layup Shot,LAYUPS,,2018
+Kyle Anderson,203937,Standard Layup,2,14,12,Cutting Layup Shot,LAYUPS,,2018
+Kyle Anderson,203937,Driving Hook Shot,2,1,0,Driving Bank Hook Shot,POST_MOVES,,2018
+Kyle Anderson,203937,Driving Dunk,2,3,2,Driving Dunk Shot,DUNKS,,2018
+Kyle Anderson,203937,Finger Roll,2,18,12,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Kyle Anderson,203937,Floating Jump Shot,2,10,6,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Kyle Anderson,203937,Floating Jump Shot,2,14,6,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Kyle Anderson,203937,Driving Hook Shot,2,4,2,Driving Hook Shot,POST_MOVES,,2018
+Kyle Anderson,203937,Driving Layup,2,30,17,Driving Layup Shot,LAYUPS,,2018
+Kyle Anderson,203937,Driving Layup,2,8,7,Driving Reverse Layup Shot,LAYUPS,,2018
+Kyle Anderson,203937,Standard Dunk,2,6,6,Dunk Shot,DUNKS,,2018
+Kyle Anderson,203937,Fadeaway Jump Shot,2,8,3,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+Kyle Anderson,203937,Finger Roll,2,7,3,Finger Roll Layup Shot,LAYUPS,,2018
+Kyle Anderson,203937,Floating Jump Shot,2,19,9,Floating Jump shot,FLOATING_SHOTS,,2018
+Kyle Anderson,203937,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2018
+Kyle Anderson,203937,Hook Shot,2,6,4,Hook Shot,POST_MOVES,,2018
+Kyle Anderson,203937,Jump Shot,2,7,6,Jump Bank Shot,JUMP_SHOTS,,2018
+Kyle Anderson,203937,Jump Shot,2,115,44,Jump Shot,JUMP_SHOTS,,2018
+Kyle Anderson,203937,Standard Layup,2,44,23,Layup Shot,LAYUPS,,2018
+Kyle Anderson,203937,Pullup Jump Shot,2,31,13,Pullup Jump shot,JUMP_SHOTS,,2018
+Kyle Anderson,203937,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2018
+Kyle Anderson,203937,Putback Layup,2,8,5,Putback Layup Shot,LAYUPS,,2018
+Kyle Anderson,203937,Reverse Layup,2,9,9,Reverse Layup Shot,LAYUPS,,2018
+Kyle Anderson,203937,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2018
+Kyle Anderson,203937,Finger Roll,2,4,3,Running Finger Roll Layup Shot,LAYUPS,,2018
+Kyle Anderson,203937,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2018
+Kyle Anderson,203937,Standard Layup,2,5,4,Running Layup Shot,LAYUPS,,2018
+Kyle Anderson,203937,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2018
+Kyle Anderson,203937,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2018
+Kyle Anderson,203937,Step Back Jump Shot,2,4,1,Step Back Jump shot,JUMP_SHOTS,,2018
+Kyle Anderson,203937,Putback Layup,2,25,16,Tip Layup Shot,LAYUPS,,2018
+Kyle Anderson,203937,Turnaround Jump Shot,2,5,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2018
+Kyle Anderson,203937,Turnaround Jump Shot,2,3,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2018
+Kyle Anderson,203937,Turnaround Hook Shot,2,4,1,Turnaround Hook Shot,POST_MOVES,,2018
+Kyle Anderson,203937,Turnaround Jump Shot,2,7,3,Turnaround Jump Shot,JUMP_SHOTS,,2018
+Kyle Anderson,203937,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2019
+Kyle Anderson,203937,Standard Layup,2,18,13,Cutting Layup Shot,LAYUPS,,2019
+Kyle Anderson,203937,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2019
+Kyle Anderson,203937,Finger Roll,2,5,2,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Kyle Anderson,203937,Floating Jump Shot,2,13,7,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Kyle Anderson,203937,Floating Jump Shot,2,6,4,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Kyle Anderson,203937,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2019
+Kyle Anderson,203937,Driving Layup,2,20,12,Driving Layup Shot,LAYUPS,,2019
+Kyle Anderson,203937,Driving Layup,2,6,3,Driving Reverse Layup Shot,LAYUPS,,2019
+Kyle Anderson,203937,Fadeaway Jump Shot,2,8,5,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+Kyle Anderson,203937,Finger Roll,2,6,6,Finger Roll Layup Shot,LAYUPS,,2019
+Kyle Anderson,203937,Floating Jump Shot,2,14,7,Floating Jump shot,FLOATING_SHOTS,,2019
+Kyle Anderson,203937,Hook Shot,2,7,4,Hook Shot,POST_MOVES,,2019
+Kyle Anderson,203937,Jump Shot,2,4,0,Jump Bank Shot,JUMP_SHOTS,,2019
+Kyle Anderson,203937,Jump Shot,2,47,14,Jump Shot,JUMP_SHOTS,,2019
+Kyle Anderson,203937,Standard Layup,2,21,14,Layup Shot,LAYUPS,,2019
+Kyle Anderson,203937,Pullup Jump Shot,2,24,13,Pullup Jump shot,JUMP_SHOTS,,2019
+Kyle Anderson,203937,Putback Layup,2,9,6,Putback Layup Shot,LAYUPS,,2019
+Kyle Anderson,203937,Reverse Layup,2,12,7,Reverse Layup Shot,LAYUPS,,2019
+Kyle Anderson,203937,Standard Dunk,2,1,0,Running Dunk Shot,DUNKS,,2019
+Kyle Anderson,203937,Finger Roll,2,6,6,Running Finger Roll Layup Shot,LAYUPS,,2019
+Kyle Anderson,203937,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2019
+Kyle Anderson,203937,Standard Layup,2,15,11,Running Layup Shot,LAYUPS,,2019
+Kyle Anderson,203937,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2019
+Kyle Anderson,203937,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2019
+Kyle Anderson,203937,Putback Layup,2,12,6,Tip Layup Shot,LAYUPS,,2019
+Kyle Anderson,203937,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2019
+Kyle Anderson,203937,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2019
+Kyle Anderson,203937,Turnaround Hook Shot,2,3,1,Turnaround Hook Shot,POST_MOVES,,2019
+Kyle Anderson,203937,Turnaround Jump Shot,2,10,4,Turnaround Jump Shot,JUMP_SHOTS,,2019
+Kyle Anderson,203937,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2020
+Kyle Anderson,203937,Specialty Dunk,2,4,4,Cutting Dunk Shot,DUNKS,,2020
+Kyle Anderson,203937,Finger Roll,2,2,2,Cutting Finger Roll Layup Shot,LAYUPS,,2020
+Kyle Anderson,203937,Standard Layup,2,6,5,Cutting Layup Shot,LAYUPS,,2020
+Kyle Anderson,203937,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2020
+Kyle Anderson,203937,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2020
+Kyle Anderson,203937,Floating Jump Shot,2,7,5,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2020
+Kyle Anderson,203937,Floating Jump Shot,2,54,21,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Kyle Anderson,203937,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,,2020
+Kyle Anderson,203937,Driving Layup,2,13,7,Driving Layup Shot,LAYUPS,,2020
+Kyle Anderson,203937,Driving Layup,2,3,1,Driving Reverse Layup Shot,LAYUPS,,2020
+Kyle Anderson,203937,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2020
+Kyle Anderson,203937,Fadeaway Jump Shot,2,9,4,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+Kyle Anderson,203937,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2020
+Kyle Anderson,203937,Floating Jump Shot,2,18,11,Floating Jump shot,FLOATING_SHOTS,,2020
+Kyle Anderson,203937,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2020
+Kyle Anderson,203937,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2020
+Kyle Anderson,203937,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2020
+Kyle Anderson,203937,Jump Shot,2,94,32,Jump Shot,JUMP_SHOTS,,2020
+Kyle Anderson,203937,Standard Layup,2,19,11,Layup Shot,LAYUPS,,2020
+Kyle Anderson,203937,Pullup Jump Shot,2,35,18,Pullup Jump shot,JUMP_SHOTS,,2020
+Kyle Anderson,203937,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2020
+Kyle Anderson,203937,Putback Layup,2,9,6,Putback Layup Shot,LAYUPS,,2020
+Kyle Anderson,203937,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2020
+Kyle Anderson,203937,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2020
+Kyle Anderson,203937,Finger Roll,2,4,4,Running Finger Roll Layup Shot,LAYUPS,,2020
+Kyle Anderson,203937,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2020
+Kyle Anderson,203937,Standard Layup,2,8,5,Running Layup Shot,LAYUPS,,2020
+Kyle Anderson,203937,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2020
+Kyle Anderson,203937,Reverse Layup,2,4,3,Running Reverse Layup Shot,LAYUPS,,2020
+Kyle Anderson,203937,Step Back Jump Shot,2,4,0,Step Back Jump shot,JUMP_SHOTS,,2020
+Kyle Anderson,203937,Putback Layup,2,10,3,Tip Layup Shot,LAYUPS,,2020
+Kyle Anderson,203937,Turnaround Jump Shot,2,5,2,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2020
+Kyle Anderson,203937,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2020
+Kyle Anderson,203937,Turnaround Jump Shot,2,3,2,Turnaround Jump Shot,JUMP_SHOTS,,2020
+Kyle Anderson,203937,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2021
+Kyle Anderson,203937,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2021
+Kyle Anderson,203937,Finger Roll,2,2,1,Cutting Finger Roll Layup Shot,LAYUPS,,2021
+Kyle Anderson,203937,Standard Layup,2,1,0,Cutting Layup Shot,LAYUPS,,2021
+Kyle Anderson,203937,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2021
+Kyle Anderson,203937,Driving Dunk,2,3,2,Driving Dunk Shot,DUNKS,,2021
+Kyle Anderson,203937,Finger Roll,2,18,12,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Kyle Anderson,203937,Floating Jump Shot,2,20,10,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2021
+Kyle Anderson,203937,Floating Jump Shot,2,70,33,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Kyle Anderson,203937,Driving Hook Shot,2,6,5,Driving Hook Shot,POST_MOVES,,2021
+Kyle Anderson,203937,Driving Layup,2,34,15,Driving Layup Shot,LAYUPS,,2021
+Kyle Anderson,203937,Driving Layup,2,9,6,Driving Reverse Layup Shot,LAYUPS,,2021
+Kyle Anderson,203937,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2021
+Kyle Anderson,203937,Fadeaway Jump Shot,2,11,5,Fadeaway Jump Shot,JUMP_SHOTS,,2021
+Kyle Anderson,203937,Finger Roll,2,2,0,Finger Roll Layup Shot,LAYUPS,,2021
+Kyle Anderson,203937,Floating Jump Shot,2,28,15,Floating Jump shot,FLOATING_SHOTS,,2021
+Kyle Anderson,203937,Hook Shot,2,2,2,Hook Shot,POST_MOVES,,2021
+Kyle Anderson,203937,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2021
+Kyle Anderson,203937,Jump Shot,2,239,84,Jump Shot,JUMP_SHOTS,,2021
+Kyle Anderson,203937,Standard Layup,2,13,6,Layup Shot,LAYUPS,,2021
+Kyle Anderson,203937,Pullup Jump Shot,2,77,37,Pullup Jump shot,JUMP_SHOTS,,2021
+Kyle Anderson,203937,Putback Layup,2,12,11,Putback Layup Shot,LAYUPS,,2021
+Kyle Anderson,203937,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2021
+Kyle Anderson,203937,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2021
+Kyle Anderson,203937,Alley Oop Layup,2,1,1,Running Alley Oop Layup Shot,LAYUPS,,2021
+Kyle Anderson,203937,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2021
+Kyle Anderson,203937,Finger Roll,2,9,7,Running Finger Roll Layup Shot,LAYUPS,,2021
+Kyle Anderson,203937,Running Jump Shot,2,15,9,Running Jump Shot,JUMP_SHOTS,,2021
+Kyle Anderson,203937,Standard Layup,2,19,12,Running Layup Shot,LAYUPS,,2021
+Kyle Anderson,203937,Running Jump Shot,2,6,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2021
+Kyle Anderson,203937,Reverse Layup,2,2,1,Running Reverse Layup Shot,LAYUPS,,2021
+Kyle Anderson,203937,Step Back Jump Shot,2,14,7,Step Back Jump shot,JUMP_SHOTS,,2021
+Kyle Anderson,203937,Putback Layup,2,11,5,Tip Layup Shot,LAYUPS,,2021
+Kyle Anderson,203937,Turnaround Jump Shot,2,4,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2021
+Kyle Anderson,203937,Turnaround Hook Shot,2,7,3,Turnaround Hook Shot,POST_MOVES,,2021
+Kyle Anderson,203937,Turnaround Jump Shot,2,13,7,Turnaround Jump Shot,JUMP_SHOTS,,2021
+Kyle Anderson,203937,Specialty Dunk,2,5,5,Cutting Dunk Shot,DUNKS,,2022
+Kyle Anderson,203937,Finger Roll,2,3,3,Cutting Finger Roll Layup Shot,LAYUPS,,2022
+Kyle Anderson,203937,Standard Layup,2,10,7,Cutting Layup Shot,LAYUPS,,2022
+Kyle Anderson,203937,Driving Hook Shot,2,2,0,Driving Bank Hook Shot,POST_MOVES,,2022
+Kyle Anderson,203937,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2022
+Kyle Anderson,203937,Finger Roll,2,14,8,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Kyle Anderson,203937,Floating Jump Shot,2,12,8,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Kyle Anderson,203937,Floating Jump Shot,2,56,26,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Kyle Anderson,203937,Driving Hook Shot,2,6,5,Driving Hook Shot,POST_MOVES,,2022
+Kyle Anderson,203937,Driving Layup,2,25,11,Driving Layup Shot,LAYUPS,,2022
+Kyle Anderson,203937,Driving Layup,2,8,3,Driving Reverse Layup Shot,LAYUPS,,2022
+Kyle Anderson,203937,Standard Dunk,2,4,3,Dunk Shot,DUNKS,,2022
+Kyle Anderson,203937,Fadeaway Jump Shot,2,4,3,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Kyle Anderson,203937,Floating Jump Shot,2,30,16,Floating Jump shot,FLOATING_SHOTS,,2022
+Kyle Anderson,203937,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2022
+Kyle Anderson,203937,Jump Shot,2,2,0,Jump Bank Shot,JUMP_SHOTS,,2022
+Kyle Anderson,203937,Jump Shot,2,107,35,Jump Shot,JUMP_SHOTS,,2022
+Kyle Anderson,203937,Standard Layup,2,12,5,Layup Shot,LAYUPS,,2022
+Kyle Anderson,203937,Pullup Jump Shot,2,44,16,Pullup Jump shot,JUMP_SHOTS,,2022
+Kyle Anderson,203937,Putback Layup,2,13,5,Putback Layup Shot,LAYUPS,,2022
+Kyle Anderson,203937,Reverse Layup,2,5,2,Reverse Layup Shot,LAYUPS,,2022
+Kyle Anderson,203937,Standard Dunk,2,8,8,Running Dunk Shot,DUNKS,,2022
+Kyle Anderson,203937,Finger Roll,2,6,3,Running Finger Roll Layup Shot,LAYUPS,,2022
+Kyle Anderson,203937,Running Jump Shot,2,6,1,Running Jump Shot,JUMP_SHOTS,,2022
+Kyle Anderson,203937,Standard Layup,2,17,8,Running Layup Shot,LAYUPS,,2022
+Kyle Anderson,203937,Running Jump Shot,2,3,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
+Kyle Anderson,203937,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2022
+Kyle Anderson,203937,Step Back Jump Shot,2,9,2,Step Back Jump shot,JUMP_SHOTS,,2022
+Kyle Anderson,203937,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2022
+Kyle Anderson,203937,Putback Layup,2,21,10,Tip Layup Shot,LAYUPS,,2022
+Kyle Anderson,203937,Turnaround Jump Shot,2,3,2,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2022
+Kyle Anderson,203937,Turnaround Jump Shot,2,7,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2022
+Kyle Anderson,203937,Turnaround Hook Shot,2,15,6,Turnaround Hook Shot,POST_MOVES,,2022
+Kyle Anderson,203937,Turnaround Jump Shot,2,6,3,Turnaround Jump Shot,JUMP_SHOTS,,2022
+Kyle Anderson,203937,Specialty Dunk,2,5,5,Cutting Dunk Shot,DUNKS,,2023
+Kyle Anderson,203937,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2023
+Kyle Anderson,203937,Standard Layup,2,5,3,Cutting Layup Shot,LAYUPS,,2023
+Kyle Anderson,203937,Driving Hook Shot,2,3,3,Driving Bank Hook Shot,POST_MOVES,,2023
+Kyle Anderson,203937,Finger Roll,2,15,9,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Kyle Anderson,203937,Floating Jump Shot,2,35,18,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+Kyle Anderson,203937,Floating Jump Shot,2,62,32,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Kyle Anderson,203937,Driving Hook Shot,2,11,8,Driving Hook Shot,POST_MOVES,,2023
+Kyle Anderson,203937,Driving Layup,2,43,20,Driving Layup Shot,LAYUPS,,2023
+Kyle Anderson,203937,Driving Layup,2,11,8,Driving Reverse Layup Shot,LAYUPS,,2023
+Kyle Anderson,203937,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2023
+Kyle Anderson,203937,Fadeaway Jump Shot,2,1,0,Fadeaway Bank shot,JUMP_SHOTS,,2023
+Kyle Anderson,203937,Fadeaway Jump Shot,2,11,2,Fadeaway Jump Shot,JUMP_SHOTS,,2023
+Kyle Anderson,203937,Floating Jump Shot,2,35,23,Floating Jump shot,FLOATING_SHOTS,,2023
+Kyle Anderson,203937,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2023
+Kyle Anderson,203937,Hook Shot,2,5,2,Hook Shot,POST_MOVES,,2023
+Kyle Anderson,203937,Jump Shot,2,103,41,Jump Shot,JUMP_SHOTS,,2023
+Kyle Anderson,203937,Standard Layup,2,8,5,Layup Shot,LAYUPS,,2023
+Kyle Anderson,203937,Pullup Jump Shot,2,37,14,Pullup Jump shot,JUMP_SHOTS,,2023
+Kyle Anderson,203937,Putback Layup,2,16,10,Putback Layup Shot,LAYUPS,,2023
+Kyle Anderson,203937,Reverse Layup,2,5,3,Reverse Layup Shot,LAYUPS,,2023
+Kyle Anderson,203937,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2023
+Kyle Anderson,203937,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2023
+Kyle Anderson,203937,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2023
+Kyle Anderson,203937,Standard Layup,2,18,8,Running Layup Shot,LAYUPS,,2023
+Kyle Anderson,203937,Running Jump Shot,2,4,3,Running Pull-Up Jump Shot,JUMP_SHOTS,,2023
+Kyle Anderson,203937,Reverse Layup,2,5,4,Running Reverse Layup Shot,LAYUPS,,2023
+Kyle Anderson,203937,Step Back Jump Shot,2,3,0,Step Back Jump shot,JUMP_SHOTS,,2023
+Kyle Anderson,203937,Putback Layup,2,9,3,Tip Layup Shot,LAYUPS,,2023
+Kyle Anderson,203937,Turnaround Hook Shot,2,1,0,Turnaround Bank Hook Shot,POST_MOVES,,2023
+Kyle Anderson,203937,Turnaround Jump Shot,2,3,1,Turnaround Bank shot,JUMP_SHOTS,,2023
+Kyle Anderson,203937,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2023
+Kyle Anderson,203937,Turnaround Jump Shot,2,4,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2023
+Kyle Anderson,203937,Turnaround Hook Shot,2,16,11,Turnaround Hook Shot,POST_MOVES,,2023
+Kyle Anderson,203937,Turnaround Jump Shot,2,10,4,Turnaround Jump Shot,JUMP_SHOTS,,2023
+Kyle Anderson,203937,Specialty Dunk,2,4,4,Cutting Dunk Shot,DUNKS,,2024
+Kyle Anderson,203937,Standard Layup,2,7,5,Cutting Layup Shot,LAYUPS,,2024
+Kyle Anderson,203937,Driving Hook Shot,2,6,2,Driving Bank Hook Shot,POST_MOVES,,2024
+Kyle Anderson,203937,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2024
+Kyle Anderson,203937,Finger Roll,2,12,7,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Kyle Anderson,203937,Floating Jump Shot,2,27,8,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Kyle Anderson,203937,Floating Jump Shot,2,56,26,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Kyle Anderson,203937,Driving Hook Shot,2,11,5,Driving Hook Shot,POST_MOVES,,2024
+Kyle Anderson,203937,Driving Layup,2,31,16,Driving Layup Shot,LAYUPS,,2024
+Kyle Anderson,203937,Driving Layup,2,5,2,Driving Reverse Layup Shot,LAYUPS,,2024
+Kyle Anderson,203937,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2024
+Kyle Anderson,203937,Fadeaway Jump Shot,2,4,2,Fadeaway Bank shot,JUMP_SHOTS,,2024
+Kyle Anderson,203937,Fadeaway Jump Shot,2,4,2,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Kyle Anderson,203937,Floating Jump Shot,2,42,19,Floating Jump shot,FLOATING_SHOTS,,2024
+Kyle Anderson,203937,Hook Shot,2,9,1,Hook Shot,POST_MOVES,,2024
+Kyle Anderson,203937,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2024
+Kyle Anderson,203937,Jump Shot,2,12,7,Jump Shot,JUMP_SHOTS,,2024
+Kyle Anderson,203937,Jump Shot,3,43,11,Jump Shot,JUMP_SHOTS,,2024
+Kyle Anderson,203937,Standard Layup,2,8,5,Layup Shot,LAYUPS,,2024
+Kyle Anderson,203937,Pullup Jump Shot,2,45,21,Pullup Jump shot,JUMP_SHOTS,,2024
+Kyle Anderson,203937,Pullup Jump Shot,3,4,0,Pullup Jump shot,JUMP_SHOTS,,2024
+Kyle Anderson,203937,Putback Layup,2,9,6,Putback Layup Shot,LAYUPS,,2024
+Kyle Anderson,203937,Reverse Layup,2,4,2,Reverse Layup Shot,LAYUPS,,2024
+Kyle Anderson,203937,Standard Dunk,2,4,4,Running Dunk Shot,DUNKS,,2024
+Kyle Anderson,203937,Finger Roll,2,2,2,Running Finger Roll Layup Shot,LAYUPS,,2024
+Kyle Anderson,203937,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2024
+Kyle Anderson,203937,Standard Layup,2,15,8,Running Layup Shot,LAYUPS,,2024
+Kyle Anderson,203937,Running Jump Shot,2,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Kyle Anderson,203937,Reverse Layup,2,4,2,Running Reverse Layup Shot,LAYUPS,,2024
+Kyle Anderson,203937,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2024
+Kyle Anderson,203937,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2024
+Kyle Anderson,203937,Putback Layup,2,9,6,Tip Layup Shot,LAYUPS,,2024
+Kyle Anderson,203937,Turnaround Hook Shot,2,1,0,Turnaround Bank Hook Shot,POST_MOVES,,2024
+Kyle Anderson,203937,Turnaround Jump Shot,2,2,1,Turnaround Bank shot,JUMP_SHOTS,,2024
+Kyle Anderson,203937,Turnaround Jump Shot,2,4,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2024
+Kyle Anderson,203937,Turnaround Hook Shot,2,21,8,Turnaround Hook Shot,POST_MOVES,,2024
+Kyle Anderson,203937,Turnaround Jump Shot,2,21,12,Turnaround Jump Shot,JUMP_SHOTS,,2024
+Kyle Anderson,203937,Specialty Dunk,2,4,4,Cutting Dunk Shot,DUNKS,,2025
+Kyle Anderson,203937,Standard Layup,2,2,1,Cutting Layup Shot,LAYUPS,,2025
+Kyle Anderson,203937,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2025
+Kyle Anderson,203937,Driving Dunk,2,2,1,Driving Dunk Shot,DUNKS,,2025
+Kyle Anderson,203937,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Kyle Anderson,203937,Floating Jump Shot,2,7,3,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2025
+Kyle Anderson,203937,Floating Jump Shot,2,19,4,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Kyle Anderson,203937,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2025
+Kyle Anderson,203937,Driving Layup,2,11,8,Driving Layup Shot,LAYUPS,,2025
+Kyle Anderson,203937,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2025
+Kyle Anderson,203937,Fadeaway Jump Shot,2,4,2,Fadeaway Jump Shot,JUMP_SHOTS,,2025
+Kyle Anderson,203937,Floating Jump Shot,2,12,5,Floating Jump shot,FLOATING_SHOTS,,2025
+Kyle Anderson,203937,Hook Shot,2,4,1,Hook Shot,POST_MOVES,,2025
+Kyle Anderson,203937,Jump Shot,2,1,0,Jump Shot,JUMP_SHOTS,,2025
+Kyle Anderson,203937,Jump Shot,3,41,15,Jump Shot,JUMP_SHOTS,,2025
+Kyle Anderson,203937,Standard Layup,2,3,2,Layup Shot,LAYUPS,,2025
+Kyle Anderson,203937,Pullup Jump Shot,2,11,4,Pullup Jump shot,JUMP_SHOTS,,2025
+Kyle Anderson,203937,Pullup Jump Shot,3,5,2,Pullup Jump shot,JUMP_SHOTS,,2025
+Kyle Anderson,203937,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2025
+Kyle Anderson,203937,Putback Layup,2,4,3,Putback Layup Shot,LAYUPS,,2025
+Kyle Anderson,203937,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2025
+Kyle Anderson,203937,Running Jump Shot,3,2,0,Running Jump Shot,JUMP_SHOTS,,2025
+Kyle Anderson,203937,Standard Layup,2,5,3,Running Layup Shot,LAYUPS,,2025
+Kyle Anderson,203937,Running Jump Shot,3,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025
+Kyle Anderson,203937,Step Back Jump Shot,3,2,1,Step Back Jump shot,JUMP_SHOTS,,2025
+Kyle Anderson,203937,Putback Layup,2,2,0,Tip Layup Shot,LAYUPS,,2025
+Kyle Anderson,203937,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2025
+Kyle Anderson,203937,Turnaround Hook Shot,2,5,3,Turnaround Hook Shot,POST_MOVES,,2025
+Kyle Anderson,203937,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2025

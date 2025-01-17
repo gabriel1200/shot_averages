@@ -1,33 +1,157 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1630256,Alley Oop Layup,2PT Field Goal,1,1,Alley Oop Layup shot,LAYUPS,1.0,2021
-1630256,Standard Layup,2PT Field Goal,3,3,Cutting Layup Shot,LAYUPS,1.0,2021
-1630256,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2021
-1630256,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2021
-1630256,Specialty Dunk,2PT Field Goal,1,1,Tip Dunk Shot,DUNKS,1.0,2021
-1630256,Putback Layup,2PT Field Goal,1,0,Tip Layup Shot,LAYUPS,0.0,2021
-1630256,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2021
-1630256,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2023
-1630256,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2023
-1630256,Putback Layup,2PT Field Goal,1,0,Tip Layup Shot,LAYUPS,0.0,2023
-1630256,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2024
-1630256,Finger Roll,2PT Field Goal,6,4,Driving Finger Roll Layup Shot,LAYUPS,0.6666666666666666,2024
-1630256,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.0,2024
-1630256,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2024
-1630256,Driving Layup,2PT Field Goal,3,3,Driving Layup Shot,LAYUPS,1.0,2024
-1630256,Driving Layup,2PT Field Goal,2,2,Driving Reverse Layup Shot,LAYUPS,1.0,2024
-1630256,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2024
-1630256,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2024
-1630256,Hook Shot,2PT Field Goal,1,1,Hook Bank Shot,POST_MOVES,1.0,2024
-1630256,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2024
-1630256,Jump Shot,3PT Field Goal,16,5,Jump Shot,JUMP_SHOTS,0.46875,2024
-1630256,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2024
-1630256,Putback Layup,2PT Field Goal,1,0,Putback Layup Shot,LAYUPS,0.0,2024
-1630256,Standard Dunk,2PT Field Goal,2,2,Running Dunk Shot,DUNKS,1.0,2024
-1630256,Standard Layup,2PT Field Goal,2,2,Running Layup Shot,LAYUPS,1.0,2024
-1630256,Reverse Layup,2PT Field Goal,1,1,Running Reverse Layup Shot,LAYUPS,1.0,2024
-1630256,Putback Layup,2PT Field Goal,1,1,Tip Layup Shot,LAYUPS,1.0,2024
-1630256,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Bank Hook Shot,POST_MOVES,0.0,2024
-1630256,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2024
-1630256,Turnaround Jump Shot,3PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2024
-1630256,Turnaround Hook Shot,2PT Field Goal,4,1,Turnaround Hook Shot,POST_MOVES,0.25,2024
-1630256,Jump Shot,3PT Field Goal,4,2,Jump Shot,JUMP_SHOTS,0.75,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Jae'Sean Tate,1630256,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2021
+Jae'Sean Tate,1630256,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2021
+Jae'Sean Tate,1630256,Specialty Dunk,2,12,11,Cutting Dunk Shot,DUNKS,,2021
+Jae'Sean Tate,1630256,Finger Roll,2,2,2,Cutting Finger Roll Layup Shot,LAYUPS,,2021
+Jae'Sean Tate,1630256,Standard Layup,2,50,39,Cutting Layup Shot,LAYUPS,,2021
+Jae'Sean Tate,1630256,Driving Hook Shot,2,4,1,Driving Bank Hook Shot,POST_MOVES,,2021
+Jae'Sean Tate,1630256,Driving Dunk,2,6,3,Driving Dunk Shot,DUNKS,,2021
+Jae'Sean Tate,1630256,Finger Roll,2,15,9,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Jae'Sean Tate,1630256,Floating Jump Shot,2,2,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2021
+Jae'Sean Tate,1630256,Floating Jump Shot,2,12,4,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Jae'Sean Tate,1630256,Driving Hook Shot,2,11,6,Driving Hook Shot,POST_MOVES,,2021
+Jae'Sean Tate,1630256,Driving Layup,2,86,39,Driving Layup Shot,LAYUPS,,2021
+Jae'Sean Tate,1630256,Reverse Dunk,2,1,1,Driving Reverse Dunk Shot,DUNKS,,2021
+Jae'Sean Tate,1630256,Driving Layup,2,5,4,Driving Reverse Layup Shot,LAYUPS,,2021
+Jae'Sean Tate,1630256,Fadeaway Jump Shot,2,4,1,Fadeaway Jump Shot,JUMP_SHOTS,,2021
+Jae'Sean Tate,1630256,Finger Roll,2,3,3,Finger Roll Layup Shot,LAYUPS,,2021
+Jae'Sean Tate,1630256,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2021
+Jae'Sean Tate,1630256,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2021
+Jae'Sean Tate,1630256,Hook Shot,2,11,7,Hook Shot,POST_MOVES,,2021
+Jae'Sean Tate,1630256,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2021
+Jae'Sean Tate,1630256,Jump Shot,2,183,58,Jump Shot,JUMP_SHOTS,,2021
+Jae'Sean Tate,1630256,Jump Shot,3,11,2,Jump Shot,JUMP_SHOTS,,2021
+Jae'Sean Tate,1630256,Standard Layup,2,59,37,Layup Shot,LAYUPS,,2021
+Jae'Sean Tate,1630256,Pullup Jump Shot,2,9,1,Pullup Jump shot,JUMP_SHOTS,,2021
+Jae'Sean Tate,1630256,Putback Layup,2,21,15,Putback Layup Shot,LAYUPS,,2021
+Jae'Sean Tate,1630256,Reverse Layup,2,15,12,Reverse Layup Shot,LAYUPS,,2021
+Jae'Sean Tate,1630256,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2021
+Jae'Sean Tate,1630256,Standard Dunk,2,5,5,Running Dunk Shot,DUNKS,,2021
+Jae'Sean Tate,1630256,Finger Roll,2,2,2,Running Finger Roll Layup Shot,LAYUPS,,2021
+Jae'Sean Tate,1630256,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2021
+Jae'Sean Tate,1630256,Standard Layup,2,26,18,Running Layup Shot,LAYUPS,,2021
+Jae'Sean Tate,1630256,Reverse Layup,2,3,2,Running Reverse Layup Shot,LAYUPS,,2021
+Jae'Sean Tate,1630256,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2021
+Jae'Sean Tate,1630256,Specialty Dunk,2,5,5,Tip Dunk Shot,DUNKS,,2021
+Jae'Sean Tate,1630256,Putback Layup,2,11,4,Tip Layup Shot,LAYUPS,,2021
+Jae'Sean Tate,1630256,Turnaround Hook Shot,2,4,2,Turnaround Bank Hook Shot,POST_MOVES,,2021
+Jae'Sean Tate,1630256,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2021
+Jae'Sean Tate,1630256,Turnaround Jump Shot,2,8,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2021
+Jae'Sean Tate,1630256,Turnaround Hook Shot,2,24,12,Turnaround Hook Shot,POST_MOVES,,2021
+Jae'Sean Tate,1630256,Turnaround Jump Shot,2,4,0,Turnaround Jump Shot,JUMP_SHOTS,,2021
+Jae'Sean Tate,1630256,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2022
+Jae'Sean Tate,1630256,Specialty Dunk,2,18,18,Cutting Dunk Shot,DUNKS,,2022
+Jae'Sean Tate,1630256,Finger Roll,2,2,2,Cutting Finger Roll Layup Shot,LAYUPS,,2022
+Jae'Sean Tate,1630256,Standard Layup,2,42,24,Cutting Layup Shot,LAYUPS,,2022
+Jae'Sean Tate,1630256,Driving Hook Shot,2,4,2,Driving Bank Hook Shot,POST_MOVES,,2022
+Jae'Sean Tate,1630256,Driving Dunk,2,11,8,Driving Dunk Shot,DUNKS,,2022
+Jae'Sean Tate,1630256,Finger Roll,2,16,8,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Jae'Sean Tate,1630256,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Jae'Sean Tate,1630256,Floating Jump Shot,2,9,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Jae'Sean Tate,1630256,Driving Hook Shot,2,26,11,Driving Hook Shot,POST_MOVES,,2022
+Jae'Sean Tate,1630256,Driving Layup,2,108,61,Driving Layup Shot,LAYUPS,,2022
+Jae'Sean Tate,1630256,Driving Layup,2,5,2,Driving Reverse Layup Shot,LAYUPS,,2022
+Jae'Sean Tate,1630256,Standard Dunk,2,6,5,Dunk Shot,DUNKS,,2022
+Jae'Sean Tate,1630256,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Jae'Sean Tate,1630256,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2022
+Jae'Sean Tate,1630256,Hook Shot,2,3,2,Hook Bank Shot,POST_MOVES,,2022
+Jae'Sean Tate,1630256,Hook Shot,2,30,9,Hook Shot,POST_MOVES,,2022
+Jae'Sean Tate,1630256,Jump Shot,2,196,60,Jump Shot,JUMP_SHOTS,,2022
+Jae'Sean Tate,1630256,Standard Layup,2,69,39,Layup Shot,LAYUPS,,2022
+Jae'Sean Tate,1630256,Pullup Jump Shot,2,9,3,Pullup Jump shot,JUMP_SHOTS,,2022
+Jae'Sean Tate,1630256,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2022
+Jae'Sean Tate,1630256,Putback Layup,2,36,27,Putback Layup Shot,LAYUPS,,2022
+Jae'Sean Tate,1630256,Reverse Layup,2,16,13,Reverse Layup Shot,LAYUPS,,2022
+Jae'Sean Tate,1630256,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2022
+Jae'Sean Tate,1630256,Standard Dunk,2,4,4,Running Dunk Shot,DUNKS,,2022
+Jae'Sean Tate,1630256,Finger Roll,2,7,5,Running Finger Roll Layup Shot,LAYUPS,,2022
+Jae'Sean Tate,1630256,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2022
+Jae'Sean Tate,1630256,Standard Layup,2,23,15,Running Layup Shot,LAYUPS,,2022
+Jae'Sean Tate,1630256,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
+Jae'Sean Tate,1630256,Reverse Dunk,2,1,1,Running Reverse Dunk Shot,DUNKS,,2022
+Jae'Sean Tate,1630256,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2022
+Jae'Sean Tate,1630256,Step Back Jump Shot,2,4,2,Step Back Jump shot,JUMP_SHOTS,,2022
+Jae'Sean Tate,1630256,Specialty Dunk,2,3,3,Tip Dunk Shot,DUNKS,,2022
+Jae'Sean Tate,1630256,Putback Layup,2,16,4,Tip Layup Shot,LAYUPS,,2022
+Jae'Sean Tate,1630256,Turnaround Hook Shot,2,10,6,Turnaround Bank Hook Shot,POST_MOVES,,2022
+Jae'Sean Tate,1630256,Turnaround Jump Shot,2,7,7,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2022
+Jae'Sean Tate,1630256,Turnaround Jump Shot,2,4,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2022
+Jae'Sean Tate,1630256,Turnaround Hook Shot,2,27,10,Turnaround Hook Shot,POST_MOVES,,2022
+Jae'Sean Tate,1630256,Turnaround Jump Shot,2,6,0,Turnaround Jump Shot,JUMP_SHOTS,,2022
+Jae'Sean Tate,1630256,Specialty Dunk,2,1,0,Cutting Dunk Shot,DUNKS,,2023
+Jae'Sean Tate,1630256,Standard Layup,2,11,4,Cutting Layup Shot,LAYUPS,,2023
+Jae'Sean Tate,1630256,Finger Roll,2,10,5,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Jae'Sean Tate,1630256,Floating Jump Shot,2,6,4,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+Jae'Sean Tate,1630256,Floating Jump Shot,2,12,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Jae'Sean Tate,1630256,Driving Hook Shot,2,5,3,Driving Hook Shot,POST_MOVES,,2023
+Jae'Sean Tate,1630256,Driving Layup,2,57,34,Driving Layup Shot,LAYUPS,,2023
+Jae'Sean Tate,1630256,Driving Layup,2,4,2,Driving Reverse Layup Shot,LAYUPS,,2023
+Jae'Sean Tate,1630256,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2023
+Jae'Sean Tate,1630256,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2023
+Jae'Sean Tate,1630256,Jump Shot,2,39,13,Jump Shot,JUMP_SHOTS,,2023
+Jae'Sean Tate,1630256,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,2023
+Jae'Sean Tate,1630256,Standard Layup,2,16,5,Layup Shot,LAYUPS,,2023
+Jae'Sean Tate,1630256,Pullup Jump Shot,2,5,0,Pullup Jump shot,JUMP_SHOTS,,2023
+Jae'Sean Tate,1630256,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2023
+Jae'Sean Tate,1630256,Putback Layup,2,10,7,Putback Layup Shot,LAYUPS,,2023
+Jae'Sean Tate,1630256,Reverse Layup,2,8,5,Reverse Layup Shot,LAYUPS,,2023
+Jae'Sean Tate,1630256,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2023
+Jae'Sean Tate,1630256,Finger Roll,2,2,1,Running Finger Roll Layup Shot,LAYUPS,,2023
+Jae'Sean Tate,1630256,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2023
+Jae'Sean Tate,1630256,Standard Layup,2,13,11,Running Layup Shot,LAYUPS,,2023
+Jae'Sean Tate,1630256,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2023
+Jae'Sean Tate,1630256,Putback Layup,2,7,3,Tip Layup Shot,LAYUPS,,2023
+Jae'Sean Tate,1630256,Turnaround Hook Shot,2,2,1,Turnaround Bank Hook Shot,POST_MOVES,,2023
+Jae'Sean Tate,1630256,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2023
+Jae'Sean Tate,1630256,Turnaround Jump Shot,2,5,3,Turnaround Fadeaway shot,JUMP_SHOTS,,2023
+Jae'Sean Tate,1630256,Turnaround Hook Shot,2,6,3,Turnaround Hook Shot,POST_MOVES,,2023
+Jae'Sean Tate,1630256,Standard Layup,2,11,7,Cutting Layup Shot,LAYUPS,,2024
+Jae'Sean Tate,1630256,Driving Dunk,2,3,2,Driving Dunk Shot,DUNKS,,2024
+Jae'Sean Tate,1630256,Finger Roll,2,12,9,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Jae'Sean Tate,1630256,Floating Jump Shot,2,3,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Jae'Sean Tate,1630256,Floating Jump Shot,2,6,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Jae'Sean Tate,1630256,Driving Hook Shot,2,7,3,Driving Hook Shot,POST_MOVES,,2024
+Jae'Sean Tate,1630256,Driving Layup,2,26,17,Driving Layup Shot,LAYUPS,,2024
+Jae'Sean Tate,1630256,Driving Layup,2,5,4,Driving Reverse Layup Shot,LAYUPS,,2024
+Jae'Sean Tate,1630256,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Jae'Sean Tate,1630256,Floating Jump Shot,2,2,0,Floating Jump shot,FLOATING_SHOTS,,2024
+Jae'Sean Tate,1630256,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2024
+Jae'Sean Tate,1630256,Hook Shot,2,3,1,Hook Shot,POST_MOVES,,2024
+Jae'Sean Tate,1630256,Jump Shot,2,2,0,Jump Shot,JUMP_SHOTS,,2024
+Jae'Sean Tate,1630256,Jump Shot,3,75,23,Jump Shot,JUMP_SHOTS,,2024
+Jae'Sean Tate,1630256,Standard Layup,2,11,8,Layup Shot,LAYUPS,,2024
+Jae'Sean Tate,1630256,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2024
+Jae'Sean Tate,1630256,Putback Layup,2,9,5,Putback Layup Shot,LAYUPS,,2024
+Jae'Sean Tate,1630256,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2024
+Jae'Sean Tate,1630256,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2024
+Jae'Sean Tate,1630256,Finger Roll,2,2,2,Running Finger Roll Layup Shot,LAYUPS,,2024
+Jae'Sean Tate,1630256,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2024
+Jae'Sean Tate,1630256,Standard Layup,2,15,8,Running Layup Shot,LAYUPS,,2024
+Jae'Sean Tate,1630256,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2024
+Jae'Sean Tate,1630256,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2024
+Jae'Sean Tate,1630256,Specialty Dunk,2,1,0,Tip Dunk Shot,DUNKS,,2024
+Jae'Sean Tate,1630256,Putback Layup,2,10,4,Tip Layup Shot,LAYUPS,,2024
+Jae'Sean Tate,1630256,Turnaround Hook Shot,2,2,1,Turnaround Bank Hook Shot,POST_MOVES,,2024
+Jae'Sean Tate,1630256,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2024
+Jae'Sean Tate,1630256,Turnaround Jump Shot,3,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2024
+Jae'Sean Tate,1630256,Turnaround Hook Shot,2,8,2,Turnaround Hook Shot,POST_MOVES,,2024
+Jae'Sean Tate,1630256,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2024
+Jae'Sean Tate,1630256,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2025
+Jae'Sean Tate,1630256,Standard Layup,2,4,3,Cutting Layup Shot,LAYUPS,,2025
+Jae'Sean Tate,1630256,Driving Hook Shot,2,2,1,Driving Bank Hook Shot,POST_MOVES,,2025
+Jae'Sean Tate,1630256,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Jae'Sean Tate,1630256,Floating Jump Shot,2,8,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Jae'Sean Tate,1630256,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2025
+Jae'Sean Tate,1630256,Driving Layup,2,10,4,Driving Layup Shot,LAYUPS,,2025
+Jae'Sean Tate,1630256,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2025
+Jae'Sean Tate,1630256,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2025
+Jae'Sean Tate,1630256,Jump Shot,3,14,6,Jump Shot,JUMP_SHOTS,,2025
+Jae'Sean Tate,1630256,Standard Layup,2,2,0,Layup Shot,LAYUPS,,2025
+Jae'Sean Tate,1630256,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2025
+Jae'Sean Tate,1630256,Pullup Jump Shot,3,2,0,Pullup Jump shot,JUMP_SHOTS,,2025
+Jae'Sean Tate,1630256,Putback Layup,2,4,3,Putback Layup Shot,LAYUPS,,2025
+Jae'Sean Tate,1630256,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2025
+Jae'Sean Tate,1630256,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2025
+Jae'Sean Tate,1630256,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2025
+Jae'Sean Tate,1630256,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2025
+Jae'Sean Tate,1630256,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2025

@@ -1,26 +1,118 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-358,Driving Layup,2PT Field Goal,3,2,Driving Layup Shot,LAYUPS,0.6666666666666666,1997
-358,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,1997
-358,Jump Shot,2PT Field Goal,19,7,Jump Shot,JUMP_SHOTS,0.3684210526315789,1997
-358,Jump Shot,3PT Field Goal,8,3,Jump Shot,JUMP_SHOTS,0.5625,1997
-358,Standard Layup,2PT Field Goal,5,3,Layup Shot,LAYUPS,0.6,1997
-358,Running Jump Shot,2PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.5,1997
-358,Driving Layup,2PT Field Goal,4,4,Driving Layup Shot,LAYUPS,1.0,1998
-358,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,1998
-358,Hook Shot,2PT Field Goal,2,0,Hook Shot,POST_MOVES,0.0,1998
-358,Jump Shot,2PT Field Goal,30,9,Jump Shot,JUMP_SHOTS,0.3,1998
-358,Jump Shot,3PT Field Goal,11,2,Jump Shot,JUMP_SHOTS,0.2727272727272727,1998
-358,Standard Layup,2PT Field Goal,10,6,Layup Shot,LAYUPS,0.6,1998
-358,Running Jump Shot,2PT Field Goal,6,4,Running Jump Shot,JUMP_SHOTS,0.6666666666666666,1998
-358,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1999
-358,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2000
-358,Driving Layup,2PT Field Goal,5,3,Driving Layup Shot,LAYUPS,0.6,2000
-358,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2000
-358,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2000
-358,Jump Shot,2PT Field Goal,37,12,Jump Shot,JUMP_SHOTS,0.3243243243243243,2000
-358,Jump Shot,3PT Field Goal,10,2,Jump Shot,JUMP_SHOTS,0.3,2000
-358,Standard Layup,2PT Field Goal,14,9,Layup Shot,LAYUPS,0.6428571428571429,2000
-358,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2000
-358,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2000
-358,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2002
-358,Jump Shot,2PT Field Goal,4,2,Jump Shot,JUMP_SHOTS,0.5,2002
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Anfernee Hardaway,358,Driving Dunk,2,12,12,Driving Dunk Shot,DUNKS,,1997
+Anfernee Hardaway,358,Driving Layup,2,83,61,Driving Layup Shot,LAYUPS,,1997
+Anfernee Hardaway,358,Standard Dunk,2,33,30,Dunk Shot,DUNKS,,1997
+Anfernee Hardaway,358,Hook Shot,2,15,12,Hook Shot,POST_MOVES,,1997
+Anfernee Hardaway,358,Jump Shot,2,557,185,Jump Shot,JUMP_SHOTS,,1997
+Anfernee Hardaway,358,Jump Shot,3,8,3,Jump Shot,JUMP_SHOTS,,1997
+Anfernee Hardaway,358,Standard Layup,2,174,73,Layup Shot,LAYUPS,,1997
+Anfernee Hardaway,358,Running Jump Shot,2,33,25,Running Jump Shot,JUMP_SHOTS,,1997
+Anfernee Hardaway,358,Standard Dunk,2,17,16,Slam Dunk Shot,DUNKS,,1997
+Anfernee Hardaway,358,Tip Shot,2,9,4,Tip Shot,TIP_SHOTS,,1997
+Anfernee Hardaway,358,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,1998
+Anfernee Hardaway,358,Driving Layup,2,30,17,Driving Layup Shot,LAYUPS,,1998
+Anfernee Hardaway,358,Standard Dunk,2,6,6,Dunk Shot,DUNKS,,1998
+Anfernee Hardaway,358,Hook Shot,2,3,0,Hook Shot,POST_MOVES,,1998
+Anfernee Hardaway,358,Jump Shot,2,169,48,Jump Shot,JUMP_SHOTS,,1998
+Anfernee Hardaway,358,Jump Shot,3,12,2,Jump Shot,JUMP_SHOTS,,1998
+Anfernee Hardaway,358,Standard Layup,2,36,20,Layup Shot,LAYUPS,,1998
+Anfernee Hardaway,358,Running Jump Shot,2,14,7,Running Jump Shot,JUMP_SHOTS,,1998
+Anfernee Hardaway,358,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,1998
+Anfernee Hardaway,358,Driving Dunk,2,5,4,Driving Dunk Shot,DUNKS,,1999
+Anfernee Hardaway,358,Driving Layup,2,100,62,Driving Layup Shot,LAYUPS,,1999
+Anfernee Hardaway,358,Standard Dunk,2,15,14,Dunk Shot,DUNKS,,1999
+Anfernee Hardaway,358,Hook Shot,2,5,3,Hook Shot,POST_MOVES,,1999
+Anfernee Hardaway,358,Jump Shot,2,448,138,Jump Shot,JUMP_SHOTS,,1999
+Anfernee Hardaway,358,Standard Layup,2,92,54,Layup Shot,LAYUPS,,1999
+Anfernee Hardaway,358,Running Jump Shot,2,42,19,Running Jump Shot,JUMP_SHOTS,,1999
+Anfernee Hardaway,358,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,1999
+Anfernee Hardaway,358,Tip Shot,2,5,2,Tip Shot,TIP_SHOTS,,1999
+Anfernee Hardaway,358,Driving Dunk,2,7,7,Driving Dunk Shot,DUNKS,,2000
+Anfernee Hardaway,358,Driving Layup,2,50,39,Driving Layup Shot,LAYUPS,,2000
+Anfernee Hardaway,358,Standard Dunk,2,19,18,Dunk Shot,DUNKS,,2000
+Anfernee Hardaway,358,Hook Shot,2,3,3,Hook Shot,POST_MOVES,,2000
+Anfernee Hardaway,358,Jump Shot,2,522,206,Jump Shot,JUMP_SHOTS,,2000
+Anfernee Hardaway,358,Jump Shot,3,13,4,Jump Shot,JUMP_SHOTS,,2000
+Anfernee Hardaway,358,Standard Layup,2,160,87,Layup Shot,LAYUPS,,2000
+Anfernee Hardaway,358,Running Jump Shot,2,16,7,Running Jump Shot,JUMP_SHOTS,,2000
+Anfernee Hardaway,358,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2000
+Anfernee Hardaway,358,Tip Shot,2,4,3,Tip Shot,TIP_SHOTS,,2000
+Anfernee Hardaway,358,Jump Shot,2,29,10,Jump Shot,JUMP_SHOTS,,2001
+Anfernee Hardaway,358,Standard Layup,2,5,4,Layup Shot,LAYUPS,,2001
+Anfernee Hardaway,358,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2001
+Anfernee Hardaway,358,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Anfernee Hardaway,358,Alley Oop Dunk,2,3,3,Alley Oop Dunk Shot,DUNKS,,2002
+Anfernee Hardaway,358,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2002
+Anfernee Hardaway,358,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2002
+Anfernee Hardaway,358,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2002
+Anfernee Hardaway,358,Driving Layup,2,59,49,Driving Layup Shot,LAYUPS,,2002
+Anfernee Hardaway,358,Standard Dunk,2,14,11,Dunk Shot,DUNKS,,2002
+Anfernee Hardaway,358,Fadeaway Jump Shot,2,5,4,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Anfernee Hardaway,358,Hook Shot,2,6,5,Hook Shot,POST_MOVES,,2002
+Anfernee Hardaway,358,Hook Shot,2,5,4,Jump Hook Shot,POST_MOVES,,2002
+Anfernee Hardaway,358,Jump Shot,2,619,211,Jump Shot,JUMP_SHOTS,,2002
+Anfernee Hardaway,358,Standard Layup,2,147,52,Layup Shot,LAYUPS,,2002
+Anfernee Hardaway,358,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2002
+Anfernee Hardaway,358,Reverse Layup,2,24,17,Reverse Layup Shot,LAYUPS,,2002
+Anfernee Hardaway,358,Running Jump Shot,2,25,17,Running Jump Shot,JUMP_SHOTS,,2002
+Anfernee Hardaway,358,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2002
+Anfernee Hardaway,358,Tip Shot,2,7,4,Tip Shot,TIP_SHOTS,,2002
+Anfernee Hardaway,358,Turnaround Jump Shot,2,12,7,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Anfernee Hardaway,358,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2003
+Anfernee Hardaway,358,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2003
+Anfernee Hardaway,358,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2003
+Anfernee Hardaway,358,Driving Layup,2,29,24,Driving Layup Shot,LAYUPS,,2003
+Anfernee Hardaway,358,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2003
+Anfernee Hardaway,358,Fadeaway Jump Shot,2,4,3,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Anfernee Hardaway,358,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2003
+Anfernee Hardaway,358,Specialty Dunk,2,1,0,Follow Up Dunk Shot,DUNKS,,2003
+Anfernee Hardaway,358,Hook Shot,2,5,4,Hook Shot,POST_MOVES,,2003
+Anfernee Hardaway,358,Jump Shot,2,420,164,Jump Shot,JUMP_SHOTS,,2003
+Anfernee Hardaway,358,Standard Layup,2,76,34,Layup Shot,LAYUPS,,2003
+Anfernee Hardaway,358,Reverse Layup,2,9,7,Reverse Layup Shot,LAYUPS,,2003
+Anfernee Hardaway,358,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2003
+Anfernee Hardaway,358,Running Jump Shot,2,3,2,Running Jump Shot,JUMP_SHOTS,,2003
+Anfernee Hardaway,358,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2003
+Anfernee Hardaway,358,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,,2003
+Anfernee Hardaway,358,Turnaround Jump Shot,2,14,8,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Anfernee Hardaway,358,Finger Roll,2,3,3,Driving Finger Roll Shot,LAYUPS,,2004
+Anfernee Hardaway,358,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2004
+Anfernee Hardaway,358,Driving Layup,2,29,23,Driving Layup Shot,LAYUPS,,2004
+Anfernee Hardaway,358,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,2004
+Anfernee Hardaway,358,Fadeaway Jump Shot,2,3,1,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Anfernee Hardaway,358,Finger Roll,2,4,3,Finger Roll Shot,LAYUPS,,2004
+Anfernee Hardaway,358,Hook Shot,2,4,2,Hook Shot,POST_MOVES,,2004
+Anfernee Hardaway,358,Jump Shot,2,10,9,Jump Bank Shot,JUMP_SHOTS,,2004
+Anfernee Hardaway,358,Hook Shot,2,3,3,Jump Hook Shot,POST_MOVES,,2004
+Anfernee Hardaway,358,Jump Shot,2,501,185,Jump Shot,JUMP_SHOTS,,2004
+Anfernee Hardaway,358,Standard Layup,2,68,18,Layup Shot,LAYUPS,,2004
+Anfernee Hardaway,358,Reverse Layup,2,12,8,Reverse Layup Shot,LAYUPS,,2004
+Anfernee Hardaway,358,Running Hook Shot,2,2,1,Running Hook Shot,POST_MOVES,,2004
+Anfernee Hardaway,358,Running Jump Shot,2,18,10,Running Jump Shot,JUMP_SHOTS,,2004
+Anfernee Hardaway,358,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2004
+Anfernee Hardaway,358,Tip Shot,2,5,3,Tip Shot,TIP_SHOTS,,2004
+Anfernee Hardaway,358,Turnaround Jump Shot,2,13,8,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Anfernee Hardaway,358,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2005
+Anfernee Hardaway,358,Driving Layup,2,10,9,Driving Layup Shot,LAYUPS,,2005
+Anfernee Hardaway,358,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2005
+Anfernee Hardaway,358,Hook Shot,2,3,1,Hook Shot,POST_MOVES,,2005
+Anfernee Hardaway,358,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2005
+Anfernee Hardaway,358,Hook Shot,2,3,2,Jump Hook Shot,POST_MOVES,,2005
+Anfernee Hardaway,358,Jump Shot,2,199,70,Jump Shot,JUMP_SHOTS,,2005
+Anfernee Hardaway,358,Standard Layup,2,23,8,Layup Shot,LAYUPS,,2005
+Anfernee Hardaway,358,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2005
+Anfernee Hardaway,358,Running Jump Shot,2,7,7,Running Jump Shot,JUMP_SHOTS,,2005
+Anfernee Hardaway,358,Tip Shot,2,3,3,Tip Shot,TIP_SHOTS,,2005
+Anfernee Hardaway,358,Turnaround Jump Shot,2,7,5,Turnaround Jump Shot,JUMP_SHOTS,,2005
+Anfernee Hardaway,358,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2006
+Anfernee Hardaway,358,Jump Shot,2,11,2,Jump Shot,JUMP_SHOTS,,2006
+Anfernee Hardaway,358,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2006
+Anfernee Hardaway,358,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2006
+Anfernee Hardaway,358,Driving Layup,2,4,2,Driving Layup Shot,LAYUPS,,2008
+Anfernee Hardaway,358,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2008
+Anfernee Hardaway,358,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2008
+Anfernee Hardaway,358,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2008
+Anfernee Hardaway,358,Jump Shot,2,47,18,Jump Shot,JUMP_SHOTS,,2008
+Anfernee Hardaway,358,Standard Layup,2,4,0,Layup Shot,LAYUPS,,2008
+Anfernee Hardaway,358,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2008
+Anfernee Hardaway,358,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2008

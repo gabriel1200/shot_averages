@@ -1,79 +1,211 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-201596,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2009
-201596,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2009
-201596,Jump Shot,3PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.5,2009
-201596,Driving Layup,2PT Field Goal,8,3,Driving Layup Shot,LAYUPS,0.375,2010
-201596,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2010
-201596,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2010
-201596,Jump Shot,2PT Field Goal,7,1,Jump Shot,JUMP_SHOTS,0.1428571428571428,2010
-201596,Jump Shot,3PT Field Goal,32,11,Jump Shot,JUMP_SHOTS,0.515625,2010
-201596,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2010
-201596,Finger Roll,2PT Field Goal,1,0,Driving Finger Roll Layup Shot,LAYUPS,0.0,2011
-201596,Driving Layup,2PT Field Goal,3,1,Driving Layup Shot,LAYUPS,0.3333333333333333,2011
-201596,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2011
-201596,Jump Shot,2PT Field Goal,17,5,Jump Shot,JUMP_SHOTS,0.2941176470588235,2011
-201596,Jump Shot,3PT Field Goal,61,24,Jump Shot,JUMP_SHOTS,0.5901639344262295,2011
-201596,Standard Layup,2PT Field Goal,8,4,Layup Shot,LAYUPS,0.5,2011
-201596,Reverse Layup,2PT Field Goal,2,1,Reverse Layup Shot,LAYUPS,0.5,2011
-201596,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2011
-201596,Reverse Layup,2PT Field Goal,1,1,Running Reverse Layup Shot,LAYUPS,1.0,2011
-201596,Finger Roll,2PT Field Goal,1,0,Driving Finger Roll Layup Shot,LAYUPS,0.0,2012
-201596,Driving Layup,2PT Field Goal,5,2,Driving Layup Shot,LAYUPS,0.4,2012
-201596,Floating Jump Shot,2PT Field Goal,7,3,Floating Jump shot,FLOATING_SHOTS,0.4285714285714285,2012
-201596,Jump Shot,2PT Field Goal,9,3,Jump Shot,JUMP_SHOTS,0.3333333333333333,2012
-201596,Jump Shot,3PT Field Goal,34,9,Jump Shot,JUMP_SHOTS,0.3970588235294117,2012
-201596,Standard Layup,2PT Field Goal,5,2,Layup Shot,LAYUPS,0.4,2012
-201596,Running Jump Shot,2PT Field Goal,1,1,Running Bank shot,JUMP_SHOTS,1.0,2012
-201596,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2012
-201596,Finger Roll,2PT Field Goal,3,1,Driving Finger Roll Layup Shot,LAYUPS,0.3333333333333333,2013
-201596,Driving Jump Shot,2PT Field Goal,1,1,Driving Jump shot,JUMP_SHOTS,1.0,2013
-201596,Driving Layup,2PT Field Goal,11,6,Driving Layup Shot,LAYUPS,0.5454545454545454,2013
-201596,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Bank shot,JUMP_SHOTS,0.0,2013
-201596,Finger Roll,2PT Field Goal,1,0,Finger Roll Layup Shot,LAYUPS,0.0,2013
-201596,Floating Jump Shot,2PT Field Goal,5,2,Floating Jump shot,FLOATING_SHOTS,0.4,2013
-201596,Jump Shot,2PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2013
-201596,Jump Shot,2PT Field Goal,16,6,Jump Shot,JUMP_SHOTS,0.375,2013
-201596,Jump Shot,3PT Field Goal,95,39,Jump Shot,JUMP_SHOTS,0.6157894736842106,2013
-201596,Standard Layup,2PT Field Goal,11,7,Layup Shot,LAYUPS,0.6363636363636364,2013
-201596,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2013
-201596,Reverse Layup,2PT Field Goal,3,2,Reverse Layup Shot,LAYUPS,0.6666666666666666,2013
-201596,Running Jump Shot,2PT Field Goal,1,1,Running Bank shot,JUMP_SHOTS,1.0,2013
-201596,Running Jump Shot,2PT Field Goal,3,0,Running Jump Shot,JUMP_SHOTS,0.0,2013
-201596,Standard Layup,2PT Field Goal,5,4,Running Layup Shot,LAYUPS,0.8,2013
-201596,Driving Jump Shot,2PT Field Goal,1,1,Driving Bank shot,JUMP_SHOTS,1.0,2014
-201596,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2014
-201596,Driving Jump Shot,2PT Field Goal,1,1,Driving Jump shot,JUMP_SHOTS,1.0,2014
-201596,Driving Layup,2PT Field Goal,30,20,Driving Layup Shot,LAYUPS,0.6666666666666666,2014
-201596,Driving Layup,2PT Field Goal,3,3,Driving Reverse Layup Shot,LAYUPS,1.0,2014
-201596,Floating Jump Shot,2PT Field Goal,4,2,Floating Jump shot,FLOATING_SHOTS,0.5,2014
-201596,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2014
-201596,Jump Shot,2PT Field Goal,12,2,Jump Shot,JUMP_SHOTS,0.1666666666666666,2014
-201596,Jump Shot,3PT Field Goal,48,23,Jump Shot,JUMP_SHOTS,0.71875,2014
-201596,Standard Layup,2PT Field Goal,13,5,Layup Shot,LAYUPS,0.3846153846153846,2014
-201596,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2014
-201596,Reverse Layup,2PT Field Goal,4,4,Reverse Layup Shot,LAYUPS,1.0,2014
-201596,Running Jump Shot,2PT Field Goal,3,2,Running Bank shot,JUMP_SHOTS,0.6666666666666666,2014
-201596,Running Hook Shot,2PT Field Goal,1,1,Running Hook Shot,POST_MOVES,1.0,2014
-201596,Running Jump Shot,2PT Field Goal,4,1,Running Jump Shot,JUMP_SHOTS,0.25,2014
-201596,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2014
-201596,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2014
-201596,Driving Jump Shot,2PT Field Goal,2,1,Driving Bank shot,JUMP_SHOTS,0.5,2015
-201596,Finger Roll,2PT Field Goal,4,4,Driving Finger Roll Layup Shot,LAYUPS,1.0,2015
-201596,Driving Jump Shot,2PT Field Goal,3,0,Driving Jump shot,JUMP_SHOTS,0.0,2015
-201596,Driving Layup,2PT Field Goal,15,10,Driving Layup Shot,LAYUPS,0.6666666666666666,2015
-201596,Driving Layup,2PT Field Goal,2,1,Driving Reverse Layup Shot,LAYUPS,0.5,2015
-201596,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Bank shot,JUMP_SHOTS,1.0,2015
-201596,Fadeaway Jump Shot,2PT Field Goal,2,2,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2015
-201596,Finger Roll,2PT Field Goal,2,1,Finger Roll Layup Shot,LAYUPS,0.5,2015
-201596,Floating Jump Shot,2PT Field Goal,4,2,Floating Jump shot,FLOATING_SHOTS,0.5,2015
-201596,Jump Shot,2PT Field Goal,26,4,Jump Shot,JUMP_SHOTS,0.1538461538461538,2015
-201596,Jump Shot,3PT Field Goal,39,10,Jump Shot,JUMP_SHOTS,0.3846153846153846,2015
-201596,Standard Layup,2PT Field Goal,17,4,Layup Shot,LAYUPS,0.2352941176470588,2015
-201596,Pullup Jump Shot,2PT Field Goal,2,2,Pullup Jump shot,JUMP_SHOTS,1.0,2015
-201596,Running Jump Shot,2PT Field Goal,1,0,Running Bank shot,JUMP_SHOTS,0.0,2015
-201596,Finger Roll,2PT Field Goal,1,1,Running Finger Roll Layup Shot,LAYUPS,1.0,2015
-201596,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2015
-201596,Running Jump Shot,3PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2015
-201596,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2015
-201596,Reverse Layup,2PT Field Goal,1,1,Running Reverse Layup Shot,LAYUPS,1.0,2015
-201596,Step Back Jump Shot,2PT Field Goal,2,2,Step Back Jump shot,JUMP_SHOTS,1.0,2015
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Mario Chalmers,201596,Driving Dunk,2,4,3,Driving Dunk Shot,DUNKS,,2009
+Mario Chalmers,201596,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2009
+Mario Chalmers,201596,Driving Jump Shot,2,2,2,Driving Jump shot,JUMP_SHOTS,,2009
+Mario Chalmers,201596,Driving Layup,2,80,39,Driving Layup Shot,LAYUPS,,2009
+Mario Chalmers,201596,Driving Layup,2,4,4,Driving Reverse Layup Shot,LAYUPS,,2009
+Mario Chalmers,201596,Standard Dunk,2,4,3,Dunk Shot,DUNKS,,2009
+Mario Chalmers,201596,Fadeaway Jump Shot,2,3,1,Fadeaway Jump Shot,JUMP_SHOTS,,2009
+Mario Chalmers,201596,Finger Roll,2,2,1,Finger Roll Layup Shot,LAYUPS,,2009
+Mario Chalmers,201596,Floating Jump Shot,2,17,8,Floating Jump shot,FLOATING_SHOTS,,2009
+Mario Chalmers,201596,Jump Shot,2,6,5,Jump Bank Shot,JUMP_SHOTS,,2009
+Mario Chalmers,201596,Jump Shot,2,432,165,Jump Shot,JUMP_SHOTS,,2009
+Mario Chalmers,201596,Jump Shot,3,5,1,Jump Shot,JUMP_SHOTS,,2009
+Mario Chalmers,201596,Standard Layup,2,52,19,Layup Shot,LAYUPS,,2009
+Mario Chalmers,201596,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2009
+Mario Chalmers,201596,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2009
+Mario Chalmers,201596,Reverse Layup,2,7,2,Reverse Layup Shot,LAYUPS,,2009
+Mario Chalmers,201596,Running Jump Shot,2,5,3,Running Bank shot,JUMP_SHOTS,,2009
+Mario Chalmers,201596,Standard Dunk,2,4,3,Running Dunk Shot,DUNKS,,2009
+Mario Chalmers,201596,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2009
+Mario Chalmers,201596,Running Jump Shot,2,24,13,Running Jump Shot,JUMP_SHOTS,,2009
+Mario Chalmers,201596,Standard Layup,2,4,2,Running Layup Shot,LAYUPS,,2009
+Mario Chalmers,201596,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2009
+Mario Chalmers,201596,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2009
+Mario Chalmers,201596,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2010
+Mario Chalmers,201596,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2010
+Mario Chalmers,201596,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2010
+Mario Chalmers,201596,Driving Layup,2,57,34,Driving Layup Shot,LAYUPS,,2010
+Mario Chalmers,201596,Driving Layup,2,4,4,Driving Reverse Layup Shot,LAYUPS,,2010
+Mario Chalmers,201596,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2010
+Mario Chalmers,201596,Fadeaway Jump Shot,2,3,1,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+Mario Chalmers,201596,Floating Jump Shot,2,14,10,Floating Jump shot,FLOATING_SHOTS,,2010
+Mario Chalmers,201596,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2010
+Mario Chalmers,201596,Jump Shot,2,261,81,Jump Shot,JUMP_SHOTS,,2010
+Mario Chalmers,201596,Jump Shot,3,61,21,Jump Shot,JUMP_SHOTS,,2010
+Mario Chalmers,201596,Standard Layup,2,19,5,Layup Shot,LAYUPS,,2010
+Mario Chalmers,201596,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2010
+Mario Chalmers,201596,Pullup Jump Shot,2,3,2,Pullup Jump shot,JUMP_SHOTS,,2010
+Mario Chalmers,201596,Reverse Layup,2,3,0,Reverse Layup Shot,LAYUPS,,2010
+Mario Chalmers,201596,Running Jump Shot,2,2,2,Running Bank shot,JUMP_SHOTS,,2010
+Mario Chalmers,201596,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2010
+Mario Chalmers,201596,Running Jump Shot,2,12,9,Running Jump Shot,JUMP_SHOTS,,2010
+Mario Chalmers,201596,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2010
+Mario Chalmers,201596,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2010
+Mario Chalmers,201596,Step Back Jump Shot,2,2,2,Step Back Jump shot,JUMP_SHOTS,,2010
+Mario Chalmers,201596,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2010
+Mario Chalmers,201596,Driving Jump Shot,2,1,0,Driving Bank shot,JUMP_SHOTS,,2011
+Mario Chalmers,201596,Finger Roll,2,3,1,Driving Finger Roll Layup Shot,LAYUPS,,2011
+Mario Chalmers,201596,Driving Layup,2,14,8,Driving Layup Shot,LAYUPS,,2011
+Mario Chalmers,201596,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2011
+Mario Chalmers,201596,Floating Jump Shot,2,6,1,Floating Jump shot,FLOATING_SHOTS,,2011
+Mario Chalmers,201596,Jump Shot,2,3,1,Jump Bank Shot,JUMP_SHOTS,,2011
+Mario Chalmers,201596,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2011
+Mario Chalmers,201596,Jump Shot,2,182,66,Jump Shot,JUMP_SHOTS,,2011
+Mario Chalmers,201596,Jump Shot,3,131,47,Jump Shot,JUMP_SHOTS,,2011
+Mario Chalmers,201596,Standard Layup,2,26,16,Layup Shot,LAYUPS,,2011
+Mario Chalmers,201596,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2011
+Mario Chalmers,201596,Reverse Layup,2,6,3,Reverse Layup Shot,LAYUPS,,2011
+Mario Chalmers,201596,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2011
+Mario Chalmers,201596,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2011
+Mario Chalmers,201596,Running Jump Shot,2,7,4,Running Jump Shot,JUMP_SHOTS,,2011
+Mario Chalmers,201596,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2011
+Mario Chalmers,201596,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2011
+Mario Chalmers,201596,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2011
+Mario Chalmers,201596,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2012
+Mario Chalmers,201596,Finger Roll,2,7,4,Driving Finger Roll Layup Shot,LAYUPS,,2012
+Mario Chalmers,201596,Driving Jump Shot,2,4,2,Driving Jump shot,JUMP_SHOTS,,2012
+Mario Chalmers,201596,Driving Layup,2,41,25,Driving Layup Shot,LAYUPS,,2012
+Mario Chalmers,201596,Driving Layup,2,4,3,Driving Reverse Layup Shot,LAYUPS,,2012
+Mario Chalmers,201596,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Mario Chalmers,201596,Fadeaway Jump Shot,3,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Mario Chalmers,201596,Finger Roll,2,2,1,Finger Roll Layup Shot,LAYUPS,,2012
+Mario Chalmers,201596,Floating Jump Shot,2,33,16,Floating Jump shot,FLOATING_SHOTS,,2012
+Mario Chalmers,201596,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2012
+Mario Chalmers,201596,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2012
+Mario Chalmers,201596,Jump Shot,2,259,110,Jump Shot,JUMP_SHOTS,,2012
+Mario Chalmers,201596,Jump Shot,3,80,21,Jump Shot,JUMP_SHOTS,,2012
+Mario Chalmers,201596,Standard Layup,2,34,17,Layup Shot,LAYUPS,,2012
+Mario Chalmers,201596,Pullup Jump Shot,2,4,3,Pullup Jump shot,JUMP_SHOTS,,2012
+Mario Chalmers,201596,Pullup Jump Shot,3,1,1,Pullup Jump shot,JUMP_SHOTS,,2012
+Mario Chalmers,201596,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2012
+Mario Chalmers,201596,Reverse Layup,2,4,2,Reverse Layup Shot,LAYUPS,,2012
+Mario Chalmers,201596,Running Jump Shot,2,2,2,Running Bank shot,JUMP_SHOTS,,2012
+Mario Chalmers,201596,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2012
+Mario Chalmers,201596,Running Jump Shot,2,10,6,Running Jump Shot,JUMP_SHOTS,,2012
+Mario Chalmers,201596,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2012
+Mario Chalmers,201596,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2012
+Mario Chalmers,201596,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Mario Chalmers,201596,Finger Roll,2,6,2,Driving Finger Roll Layup Shot,LAYUPS,,2013
+Mario Chalmers,201596,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2013
+Mario Chalmers,201596,Driving Jump Shot,2,7,4,Driving Jump shot,JUMP_SHOTS,,2013
+Mario Chalmers,201596,Driving Layup,2,46,27,Driving Layup Shot,LAYUPS,,2013
+Mario Chalmers,201596,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2013
+Mario Chalmers,201596,Fadeaway Jump Shot,2,1,0,Fadeaway Bank shot,JUMP_SHOTS,,2013
+Mario Chalmers,201596,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Mario Chalmers,201596,Finger Roll,2,3,1,Finger Roll Layup Shot,LAYUPS,,2013
+Mario Chalmers,201596,Floating Jump Shot,2,22,11,Floating Jump shot,FLOATING_SHOTS,,2013
+Mario Chalmers,201596,Jump Shot,2,4,3,Jump Bank Shot,JUMP_SHOTS,,2013
+Mario Chalmers,201596,Jump Shot,2,119,38,Jump Shot,JUMP_SHOTS,,2013
+Mario Chalmers,201596,Jump Shot,3,243,97,Jump Shot,JUMP_SHOTS,,2013
+Mario Chalmers,201596,Standard Layup,2,30,17,Layup Shot,LAYUPS,,2013
+Mario Chalmers,201596,Pullup Jump Shot,2,3,3,Pullup Jump shot,JUMP_SHOTS,,2013
+Mario Chalmers,201596,Pullup Jump Shot,3,5,4,Pullup Jump shot,JUMP_SHOTS,,2013
+Mario Chalmers,201596,Reverse Layup,2,7,5,Reverse Layup Shot,LAYUPS,,2013
+Mario Chalmers,201596,Running Jump Shot,2,3,2,Running Bank shot,JUMP_SHOTS,,2013
+Mario Chalmers,201596,Running Jump Shot,2,14,3,Running Jump Shot,JUMP_SHOTS,,2013
+Mario Chalmers,201596,Standard Layup,2,10,8,Running Layup Shot,LAYUPS,,2013
+Mario Chalmers,201596,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2013
+Mario Chalmers,201596,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2013
+Mario Chalmers,201596,Driving Jump Shot,2,4,3,Driving Bank shot,JUMP_SHOTS,,2014
+Mario Chalmers,201596,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2014
+Mario Chalmers,201596,Finger Roll,2,11,9,Driving Finger Roll Layup Shot,LAYUPS,,2014
+Mario Chalmers,201596,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2014
+Mario Chalmers,201596,Driving Jump Shot,2,13,7,Driving Jump shot,JUMP_SHOTS,,2014
+Mario Chalmers,201596,Driving Layup,2,104,60,Driving Layup Shot,LAYUPS,,2014
+Mario Chalmers,201596,Driving Layup,2,10,5,Driving Reverse Layup Shot,LAYUPS,,2014
+Mario Chalmers,201596,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2014
+Mario Chalmers,201596,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2014
+Mario Chalmers,201596,Finger Roll,2,3,3,Finger Roll Layup Shot,LAYUPS,,2014
+Mario Chalmers,201596,Floating Jump Shot,2,15,5,Floating Jump shot,FLOATING_SHOTS,,2014
+Mario Chalmers,201596,Jump Shot,2,5,3,Jump Bank Shot,JUMP_SHOTS,,2014
+Mario Chalmers,201596,Jump Shot,2,119,35,Jump Shot,JUMP_SHOTS,,2014
+Mario Chalmers,201596,Jump Shot,3,161,61,Jump Shot,JUMP_SHOTS,,2014
+Mario Chalmers,201596,Standard Layup,2,50,21,Layup Shot,LAYUPS,,2014
+Mario Chalmers,201596,Pullup Jump Shot,2,3,3,Pullup Jump shot,JUMP_SHOTS,,2014
+Mario Chalmers,201596,Pullup Jump Shot,3,2,1,Pullup Jump shot,JUMP_SHOTS,,2014
+Mario Chalmers,201596,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2014
+Mario Chalmers,201596,Reverse Layup,2,12,9,Reverse Layup Shot,LAYUPS,,2014
+Mario Chalmers,201596,Running Jump Shot,2,8,6,Running Bank shot,JUMP_SHOTS,,2014
+Mario Chalmers,201596,Running Hook Shot,2,2,1,Running Hook Shot,POST_MOVES,,2014
+Mario Chalmers,201596,Running Jump Shot,2,17,9,Running Jump Shot,JUMP_SHOTS,,2014
+Mario Chalmers,201596,Standard Layup,2,7,6,Running Layup Shot,LAYUPS,,2014
+Mario Chalmers,201596,Reverse Layup,2,2,1,Running Reverse Layup Shot,LAYUPS,,2014
+Mario Chalmers,201596,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2014
+Mario Chalmers,201596,Tip Shot,2,4,0,Tip Shot,TIP_SHOTS,,2014
+Mario Chalmers,201596,Driving Jump Shot,2,4,2,Driving Bank shot,JUMP_SHOTS,,2015
+Mario Chalmers,201596,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2015
+Mario Chalmers,201596,Finger Roll,2,12,8,Driving Finger Roll Layup Shot,LAYUPS,,2015
+Mario Chalmers,201596,Driving Jump Shot,2,15,4,Driving Jump shot,JUMP_SHOTS,,2015
+Mario Chalmers,201596,Driving Layup,2,104,62,Driving Layup Shot,LAYUPS,,2015
+Mario Chalmers,201596,Driving Layup,2,11,4,Driving Reverse Layup Shot,LAYUPS,,2015
+Mario Chalmers,201596,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2015
+Mario Chalmers,201596,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2015
+Mario Chalmers,201596,Fadeaway Jump Shot,2,6,5,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+Mario Chalmers,201596,Fadeaway Jump Shot,3,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+Mario Chalmers,201596,Finger Roll,2,3,2,Finger Roll Layup Shot,LAYUPS,,2015
+Mario Chalmers,201596,Floating Jump Shot,2,27,19,Floating Jump shot,FLOATING_SHOTS,,2015
+Mario Chalmers,201596,Jump Shot,2,8,5,Jump Bank Shot,JUMP_SHOTS,,2015
+Mario Chalmers,201596,Jump Shot,3,1,0,Jump Bank Shot,JUMP_SHOTS,,2015
+Mario Chalmers,201596,Jump Shot,2,254,75,Jump Shot,JUMP_SHOTS,,2015
+Mario Chalmers,201596,Jump Shot,3,101,28,Jump Shot,JUMP_SHOTS,,2015
+Mario Chalmers,201596,Standard Layup,2,65,26,Layup Shot,LAYUPS,,2015
+Mario Chalmers,201596,Pullup Jump Shot,2,11,7,Pullup Jump shot,JUMP_SHOTS,,2015
+Mario Chalmers,201596,Reverse Layup,2,4,1,Reverse Layup Shot,LAYUPS,,2015
+Mario Chalmers,201596,Running Jump Shot,2,1,0,Running Bank shot,JUMP_SHOTS,,2015
+Mario Chalmers,201596,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2015
+Mario Chalmers,201596,Running Jump Shot,2,12,3,Running Jump Shot,JUMP_SHOTS,,2015
+Mario Chalmers,201596,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2015
+Mario Chalmers,201596,Standard Layup,2,5,3,Running Layup Shot,LAYUPS,,2015
+Mario Chalmers,201596,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2015
+Mario Chalmers,201596,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2015
+Mario Chalmers,201596,Step Back Jump Shot,2,6,3,Step Back Jump shot,JUMP_SHOTS,,2015
+Mario Chalmers,201596,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2015
+Mario Chalmers,201596,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2015
+Mario Chalmers,201596,Standard Layup,2,6,6,Cutting Layup Shot,LAYUPS,,2016
+Mario Chalmers,201596,Driving Jump Shot,2,6,3,Driving Bank shot,JUMP_SHOTS,,2016
+Mario Chalmers,201596,Finger Roll,2,8,5,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Mario Chalmers,201596,Floating Jump Shot,2,3,3,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2016
+Mario Chalmers,201596,Floating Jump Shot,2,13,4,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Mario Chalmers,201596,Driving Layup,2,67,33,Driving Layup Shot,LAYUPS,,2016
+Mario Chalmers,201596,Driving Layup,2,5,3,Driving Reverse Layup Shot,LAYUPS,,2016
+Mario Chalmers,201596,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Mario Chalmers,201596,Finger Roll,2,3,1,Finger Roll Layup Shot,LAYUPS,,2016
+Mario Chalmers,201596,Floating Jump Shot,2,25,9,Floating Jump shot,FLOATING_SHOTS,,2016
+Mario Chalmers,201596,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2016
+Mario Chalmers,201596,Jump Shot,2,4,1,Jump Bank Shot,JUMP_SHOTS,,2016
+Mario Chalmers,201596,Jump Shot,2,191,61,Jump Shot,JUMP_SHOTS,,2016
+Mario Chalmers,201596,Jump Shot,3,5,1,Jump Shot,JUMP_SHOTS,,2016
+Mario Chalmers,201596,Standard Layup,2,33,11,Layup Shot,LAYUPS,,2016
+Mario Chalmers,201596,Pullup Jump Shot,2,19,9,Pullup Jump shot,JUMP_SHOTS,,2016
+Mario Chalmers,201596,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2016
+Mario Chalmers,201596,Standard Dunk,2,1,0,Running Dunk Shot,DUNKS,,2016
+Mario Chalmers,201596,Finger Roll,2,3,3,Running Finger Roll Layup Shot,LAYUPS,,2016
+Mario Chalmers,201596,Running Jump Shot,2,13,8,Running Jump Shot,JUMP_SHOTS,,2016
+Mario Chalmers,201596,Standard Layup,2,12,9,Running Layup Shot,LAYUPS,,2016
+Mario Chalmers,201596,Running Jump Shot,2,3,3,Running Pull-Up Jump Shot,JUMP_SHOTS,,2016
+Mario Chalmers,201596,Step Back Jump Shot,2,12,2,Step Back Jump shot,JUMP_SHOTS,,2016
+Mario Chalmers,201596,Putback Layup,2,6,3,Tip Layup Shot,LAYUPS,,2016
+Mario Chalmers,201596,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Mario Chalmers,201596,Finger Roll,2,2,1,Cutting Finger Roll Layup Shot,LAYUPS,,2018
+Mario Chalmers,201596,Standard Layup,2,5,4,Cutting Layup Shot,LAYUPS,,2018
+Mario Chalmers,201596,Finger Roll,2,13,10,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Mario Chalmers,201596,Floating Jump Shot,2,8,4,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Mario Chalmers,201596,Floating Jump Shot,2,28,11,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Mario Chalmers,201596,Driving Hook Shot,2,2,2,Driving Hook Shot,POST_MOVES,,2018
+Mario Chalmers,201596,Driving Layup,2,55,25,Driving Layup Shot,LAYUPS,,2018
+Mario Chalmers,201596,Driving Layup,2,16,5,Driving Reverse Layup Shot,LAYUPS,,2018
+Mario Chalmers,201596,Fadeaway Jump Shot,2,4,2,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+Mario Chalmers,201596,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2018
+Mario Chalmers,201596,Floating Jump Shot,2,20,9,Floating Jump shot,FLOATING_SHOTS,,2018
+Mario Chalmers,201596,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2018
+Mario Chalmers,201596,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2018
+Mario Chalmers,201596,Jump Shot,2,184,60,Jump Shot,JUMP_SHOTS,,2018
+Mario Chalmers,201596,Standard Layup,2,16,6,Layup Shot,LAYUPS,,2018
+Mario Chalmers,201596,Pullup Jump Shot,2,36,12,Pullup Jump shot,JUMP_SHOTS,,2018
+Mario Chalmers,201596,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2018
+Mario Chalmers,201596,Running Jump Shot,2,14,0,Running Jump Shot,JUMP_SHOTS,,2018
+Mario Chalmers,201596,Standard Layup,2,12,6,Running Layup Shot,LAYUPS,,2018
+Mario Chalmers,201596,Running Jump Shot,2,3,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2018
+Mario Chalmers,201596,Reverse Layup,2,3,3,Running Reverse Layup Shot,LAYUPS,,2018
+Mario Chalmers,201596,Step Back Jump Shot,2,16,6,Step Back Jump shot,JUMP_SHOTS,,2018

@@ -1,114 +1,438 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-202681,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2013
-202681,Jump Shot,2PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,2013
-202681,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2013
-202681,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2013
-202681,Reverse Layup,2PT Field Goal,2,2,Reverse Layup Shot,LAYUPS,1.0,2013
-202681,Driving Layup,2PT Field Goal,5,5,Driving Layup Shot,LAYUPS,1.0,2014
-202681,Jump Shot,2PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2014
-202681,Jump Shot,2PT Field Goal,6,1,Jump Shot,JUMP_SHOTS,0.1666666666666666,2014
-202681,Jump Shot,3PT Field Goal,9,1,Jump Shot,JUMP_SHOTS,0.1666666666666666,2014
-202681,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2014
-202681,Pullup Jump Shot,2PT Field Goal,2,1,Pullup Jump shot,JUMP_SHOTS,0.5,2014
-202681,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2014
-202681,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.0,2014
-202681,Driving Layup,2PT Field Goal,2,2,Driving Layup Shot,LAYUPS,1.0,2015
-202681,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2015
-202681,Jump Shot,2PT Field Goal,5,1,Jump Shot,JUMP_SHOTS,0.2,2015
-202681,Jump Shot,3PT Field Goal,9,3,Jump Shot,JUMP_SHOTS,0.5,2015
-202681,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2015
-202681,Pullup Jump Shot,3PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.5,2015
-202681,Running Jump Shot,2PT Field Goal,1,0,Running Bank shot,JUMP_SHOTS,0.0,2015
-202681,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2015
-202681,Step Back Jump Shot,3PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2015
-202681,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2015
-202681,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2016
-202681,Driving Jump Shot,2PT Field Goal,1,1,Driving Bank shot,JUMP_SHOTS,1.0,2016
-202681,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2016
-202681,Jump Shot,2PT Field Goal,8,2,Jump Shot,JUMP_SHOTS,0.25,2016
-202681,Jump Shot,3PT Field Goal,7,3,Jump Shot,JUMP_SHOTS,0.6428571428571429,2016
-202681,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2016
-202681,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2016
-202681,Step Back Jump Shot,2PT Field Goal,2,1,Step Back Jump shot,JUMP_SHOTS,0.5,2016
-202681,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2016
-202681,Finger Roll,2PT Field Goal,1,0,Driving Finger Roll Layup Shot,LAYUPS,0.0,2017
-202681,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,1.0,2017
-202681,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Jump Shot,FLOATING_SHOTS,1.0,2017
-202681,Driving Layup,2PT Field Goal,5,4,Driving Layup Shot,LAYUPS,0.8,2017
-202681,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2017
-202681,Jump Shot,2PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.3333333333333333,2017
-202681,Jump Shot,3PT Field Goal,13,5,Jump Shot,JUMP_SHOTS,0.5769230769230769,2017
-202681,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2017
-202681,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2017
-202681,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2024
-202681,Alley Oop Layup,2PT Field Goal,1,0,Alley Oop Layup shot,LAYUPS,0.0,2024
-202681,Finger Roll,2PT Field Goal,4,4,Cutting Finger Roll Layup Shot,LAYUPS,1.0,2024
-202681,Standard Layup,2PT Field Goal,4,3,Cutting Layup Shot,LAYUPS,0.75,2024
-202681,Driving Hook Shot,2PT Field Goal,1,0,Driving Bank Hook Shot,POST_MOVES,0.0,2024
-202681,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2024
-202681,Finger Roll,2PT Field Goal,21,17,Driving Finger Roll Layup Shot,LAYUPS,0.8095238095238095,2024
-202681,Floating Jump Shot,2PT Field Goal,18,12,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.6666666666666666,2024
-202681,Floating Jump Shot,2PT Field Goal,44,20,Driving Floating Jump Shot,FLOATING_SHOTS,0.4545454545454545,2024
-202681,Driving Hook Shot,2PT Field Goal,9,4,Driving Hook Shot,POST_MOVES,0.4444444444444444,2024
-202681,Driving Layup,2PT Field Goal,49,19,Driving Layup Shot,LAYUPS,0.3877551020408163,2024
-202681,Driving Layup,2PT Field Goal,8,3,Driving Reverse Layup Shot,LAYUPS,0.375,2024
-202681,Fadeaway Jump Shot,2PT Field Goal,6,4,Fadeaway Bank shot,JUMP_SHOTS,0.6666666666666666,2024
-202681,Fadeaway Jump Shot,2PT Field Goal,27,11,Fadeaway Jump Shot,JUMP_SHOTS,0.4074074074074074,2024
-202681,Fadeaway Jump Shot,3PT Field Goal,4,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2024
-202681,Finger Roll,2PT Field Goal,1,1,Finger Roll Layup Shot,LAYUPS,1.0,2024
-202681,Floating Jump Shot,2PT Field Goal,7,4,Floating Jump shot,FLOATING_SHOTS,0.5714285714285714,2024
-202681,Hook Shot,2PT Field Goal,1,1,Hook Bank Shot,POST_MOVES,1.0,2024
-202681,Jump Shot,2PT Field Goal,18,7,Jump Shot,JUMP_SHOTS,0.3888888888888889,2024
-202681,Jump Shot,3PT Field Goal,113,52,Jump Shot,JUMP_SHOTS,0.6902654867256637,2024
-202681,Standard Layup,2PT Field Goal,6,4,Layup Shot,LAYUPS,0.6666666666666666,2024
-202681,Pullup Jump Shot,2PT Field Goal,93,47,Pullup Jump shot,JUMP_SHOTS,0.5053763440860215,2024
-202681,Pullup Jump Shot,3PT Field Goal,54,24,Pullup Jump shot,JUMP_SHOTS,0.6666666666666666,2024
-202681,Putback Layup,2PT Field Goal,4,3,Putback Layup Shot,LAYUPS,0.75,2024
-202681,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2024
-202681,Finger Roll,2PT Field Goal,6,5,Running Finger Roll Layup Shot,LAYUPS,0.8333333333333334,2024
-202681,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2024
-202681,Running Jump Shot,3PT Field Goal,11,5,Running Jump Shot,JUMP_SHOTS,0.6818181818181818,2024
-202681,Standard Layup,2PT Field Goal,18,10,Running Layup Shot,LAYUPS,0.5555555555555556,2024
-202681,Running Jump Shot,2PT Field Goal,5,3,Running Pull-Up Jump Shot,JUMP_SHOTS,0.6,2024
-202681,Running Jump Shot,3PT Field Goal,29,12,Running Pull-Up Jump Shot,JUMP_SHOTS,0.6206896551724138,2024
-202681,Reverse Layup,2PT Field Goal,3,1,Running Reverse Layup Shot,LAYUPS,0.3333333333333333,2024
-202681,Step Back Jump Shot,2PT Field Goal,19,12,Step Back Jump shot,JUMP_SHOTS,0.631578947368421,2024
-202681,Step Back Jump Shot,3PT Field Goal,12,4,Step Back Jump shot,JUMP_SHOTS,0.5,2024
-202681,Putback Layup,2PT Field Goal,2,0,Tip Layup Shot,LAYUPS,0.0,2024
-202681,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,1.0,2024
-202681,Turnaround Jump Shot,2PT Field Goal,21,10,Turnaround Fadeaway shot,JUMP_SHOTS,0.4761904761904761,2024
-202681,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2024
-202681,Turnaround Jump Shot,2PT Field Goal,3,1,Turnaround Jump Shot,JUMP_SHOTS,0.3333333333333333,2024
-202681,Alley Oop Layup,2PT Field Goal,1,0,Alley Oop Layup shot,LAYUPS,0.0,2025
-202681,Finger Roll,2PT Field Goal,1,0,Cutting Finger Roll Layup Shot,LAYUPS,0.0,2025
-202681,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2025
-202681,Finger Roll,2PT Field Goal,8,7,Driving Finger Roll Layup Shot,LAYUPS,0.875,2025
-202681,Floating Jump Shot,2PT Field Goal,5,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.4,2025
-202681,Floating Jump Shot,2PT Field Goal,23,9,Driving Floating Jump Shot,FLOATING_SHOTS,0.391304347826087,2025
-202681,Driving Layup,2PT Field Goal,28,17,Driving Layup Shot,LAYUPS,0.6071428571428571,2025
-202681,Driving Layup,2PT Field Goal,4,3,Driving Reverse Layup Shot,LAYUPS,0.75,2025
-202681,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Bank shot,JUMP_SHOTS,0.0,2025
-202681,Fadeaway Jump Shot,2PT Field Goal,9,1,Fadeaway Jump Shot,JUMP_SHOTS,0.1111111111111111,2025
-202681,Fadeaway Jump Shot,3PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2025
-202681,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2025
-202681,Jump Shot,3PT Field Goal,2,1,Jump Bank Shot,JUMP_SHOTS,0.75,2025
-202681,Jump Shot,2PT Field Goal,5,2,Jump Shot,JUMP_SHOTS,0.4,2025
-202681,Jump Shot,3PT Field Goal,49,20,Jump Shot,JUMP_SHOTS,0.6122448979591837,2025
-202681,Standard Layup,2PT Field Goal,3,2,Layup Shot,LAYUPS,0.6666666666666666,2025
-202681,Pullup Jump Shot,2PT Field Goal,40,24,Pullup Jump shot,JUMP_SHOTS,0.6,2025
-202681,Pullup Jump Shot,3PT Field Goal,26,12,Pullup Jump shot,JUMP_SHOTS,0.6923076923076923,2025
-202681,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2025
-202681,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2025
-202681,Finger Roll,2PT Field Goal,2,1,Running Finger Roll Layup Shot,LAYUPS,0.5,2025
-202681,Running Jump Shot,3PT Field Goal,8,5,Running Jump Shot,JUMP_SHOTS,0.9375,2025
-202681,Standard Layup,2PT Field Goal,10,3,Running Layup Shot,LAYUPS,0.3,2025
-202681,Running Jump Shot,3PT Field Goal,14,2,Running Pull-Up Jump Shot,JUMP_SHOTS,0.2142857142857142,2025
-202681,Reverse Layup,2PT Field Goal,1,1,Running Reverse Layup Shot,LAYUPS,1.0,2025
-202681,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Bank Jump Shot,JUMP_SHOTS,1.0,2025
-202681,Step Back Jump Shot,2PT Field Goal,10,2,Step Back Jump shot,JUMP_SHOTS,0.2,2025
-202681,Step Back Jump Shot,3PT Field Goal,15,6,Step Back Jump shot,JUMP_SHOTS,0.6,2025
-202681,Putback Layup,2PT Field Goal,3,2,Tip Layup Shot,LAYUPS,0.6666666666666666,2025
-202681,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,1.0,2025
-202681,Turnaround Jump Shot,2PT Field Goal,4,2,Turnaround Fadeaway shot,JUMP_SHOTS,0.5,2025
-202681,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2025
-202681,Turnaround Jump Shot,2PT Field Goal,3,1,Turnaround Jump Shot,JUMP_SHOTS,0.3333333333333333,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Kyrie Irving,202681,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2012
+Kyrie Irving,202681,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2012
+Kyrie Irving,202681,Driving Jump Shot,2,3,2,Driving Jump shot,JUMP_SHOTS,,2012
+Kyrie Irving,202681,Driving Layup,2,124,89,Driving Layup Shot,LAYUPS,,2012
+Kyrie Irving,202681,Driving Layup,2,13,10,Driving Reverse Layup Shot,LAYUPS,,2012
+Kyrie Irving,202681,Standard Dunk,2,4,3,Dunk Shot,DUNKS,,2012
+Kyrie Irving,202681,Floating Jump Shot,2,19,10,Floating Jump shot,FLOATING_SHOTS,,2012
+Kyrie Irving,202681,Jump Shot,2,14,6,Jump Bank Shot,JUMP_SHOTS,,2012
+Kyrie Irving,202681,Jump Shot,2,372,134,Jump Shot,JUMP_SHOTS,,2012
+Kyrie Irving,202681,Standard Layup,2,115,54,Layup Shot,LAYUPS,,2012
+Kyrie Irving,202681,Pullup Jump Shot,2,2,2,Pullup Bank shot,JUMP_SHOTS,,2012
+Kyrie Irving,202681,Pullup Jump Shot,2,17,11,Pullup Jump shot,JUMP_SHOTS,,2012
+Kyrie Irving,202681,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2012
+Kyrie Irving,202681,Reverse Layup,2,12,7,Reverse Layup Shot,LAYUPS,,2012
+Kyrie Irving,202681,Running Jump Shot,2,6,4,Running Bank shot,JUMP_SHOTS,,2012
+Kyrie Irving,202681,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2012
+Kyrie Irving,202681,Running Jump Shot,2,14,4,Running Jump Shot,JUMP_SHOTS,,2012
+Kyrie Irving,202681,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2012
+Kyrie Irving,202681,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2012
+Kyrie Irving,202681,Step Back Jump Shot,2,11,4,Step Back Jump shot,JUMP_SHOTS,,2012
+Kyrie Irving,202681,Tip Shot,2,5,1,Tip Shot,TIP_SHOTS,,2012
+Kyrie Irving,202681,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2012
+Kyrie Irving,202681,Turnaround Jump Shot,2,7,3,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Kyrie Irving,202681,Alley Oop Layup,2,3,3,Alley Oop Layup shot,LAYUPS,,2013
+Kyrie Irving,202681,Driving Jump Shot,2,3,3,Driving Bank shot,JUMP_SHOTS,,2013
+Kyrie Irving,202681,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2013
+Kyrie Irving,202681,Finger Roll,2,4,4,Driving Finger Roll Layup Shot,LAYUPS,,2013
+Kyrie Irving,202681,Driving Jump Shot,2,4,4,Driving Jump shot,JUMP_SHOTS,,2013
+Kyrie Irving,202681,Driving Layup,2,123,91,Driving Layup Shot,LAYUPS,,2013
+Kyrie Irving,202681,Driving Layup,2,4,4,Driving Reverse Layup Shot,LAYUPS,,2013
+Kyrie Irving,202681,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2013
+Kyrie Irving,202681,Fadeaway Jump Shot,2,3,3,Fadeaway Bank shot,JUMP_SHOTS,,2013
+Kyrie Irving,202681,Fadeaway Jump Shot,2,20,7,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Kyrie Irving,202681,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2013
+Kyrie Irving,202681,Floating Jump Shot,2,25,14,Floating Jump shot,FLOATING_SHOTS,,2013
+Kyrie Irving,202681,Jump Shot,2,26,13,Jump Bank Shot,JUMP_SHOTS,,2013
+Kyrie Irving,202681,Jump Shot,2,587,211,Jump Shot,JUMP_SHOTS,,2013
+Kyrie Irving,202681,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,2013
+Kyrie Irving,202681,Standard Layup,2,103,33,Layup Shot,LAYUPS,,2013
+Kyrie Irving,202681,Pullup Jump Shot,2,4,2,Pullup Bank shot,JUMP_SHOTS,,2013
+Kyrie Irving,202681,Pullup Jump Shot,2,40,28,Pullup Jump shot,JUMP_SHOTS,,2013
+Kyrie Irving,202681,Reverse Layup,2,10,5,Reverse Layup Shot,LAYUPS,,2013
+Kyrie Irving,202681,Running Jump Shot,2,14,10,Running Bank shot,JUMP_SHOTS,,2013
+Kyrie Irving,202681,Running Jump Shot,2,32,10,Running Jump Shot,JUMP_SHOTS,,2013
+Kyrie Irving,202681,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2013
+Kyrie Irving,202681,Step Back Jump Shot,2,21,12,Step Back Jump shot,JUMP_SHOTS,,2013
+Kyrie Irving,202681,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2013
+Kyrie Irving,202681,Turnaround Jump Shot,2,3,3,Turnaround Bank shot,JUMP_SHOTS,,2013
+Kyrie Irving,202681,Turnaround Jump Shot,2,6,6,Turnaround Fadeaway shot,JUMP_SHOTS,,2013
+Kyrie Irving,202681,Turnaround Jump Shot,2,24,11,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Kyrie Irving,202681,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2014
+Kyrie Irving,202681,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2014
+Kyrie Irving,202681,Finger Roll,2,8,6,Driving Finger Roll Layup Shot,LAYUPS,,2014
+Kyrie Irving,202681,Driving Jump Shot,2,7,2,Driving Jump shot,JUMP_SHOTS,,2014
+Kyrie Irving,202681,Driving Layup,2,136,87,Driving Layup Shot,LAYUPS,,2014
+Kyrie Irving,202681,Driving Layup,2,12,8,Driving Reverse Layup Shot,LAYUPS,,2014
+Kyrie Irving,202681,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2014
+Kyrie Irving,202681,Fadeaway Jump Shot,2,2,1,Fadeaway Bank shot,JUMP_SHOTS,,2014
+Kyrie Irving,202681,Fadeaway Jump Shot,2,38,18,Fadeaway Jump Shot,JUMP_SHOTS,,2014
+Kyrie Irving,202681,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2014
+Kyrie Irving,202681,Floating Jump Shot,2,24,13,Floating Jump shot,FLOATING_SHOTS,,2014
+Kyrie Irving,202681,Jump Shot,2,11,2,Jump Bank Shot,JUMP_SHOTS,,2014
+Kyrie Irving,202681,Jump Shot,2,676,225,Jump Shot,JUMP_SHOTS,,2014
+Kyrie Irving,202681,Jump Shot,3,26,9,Jump Shot,JUMP_SHOTS,,2014
+Kyrie Irving,202681,Standard Layup,2,109,48,Layup Shot,LAYUPS,,2014
+Kyrie Irving,202681,Pullup Jump Shot,2,62,38,Pullup Jump shot,JUMP_SHOTS,,2014
+Kyrie Irving,202681,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2014
+Kyrie Irving,202681,Reverse Layup,2,21,16,Reverse Layup Shot,LAYUPS,,2014
+Kyrie Irving,202681,Running Jump Shot,2,10,8,Running Bank shot,JUMP_SHOTS,,2014
+Kyrie Irving,202681,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2014
+Kyrie Irving,202681,Running Jump Shot,2,21,10,Running Jump Shot,JUMP_SHOTS,,2014
+Kyrie Irving,202681,Standard Layup,2,4,1,Running Layup Shot,LAYUPS,,2014
+Kyrie Irving,202681,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2014
+Kyrie Irving,202681,Step Back Jump Shot,2,37,20,Step Back Jump shot,JUMP_SHOTS,,2014
+Kyrie Irving,202681,Tip Shot,2,4,2,Tip Shot,TIP_SHOTS,,2014
+Kyrie Irving,202681,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2014
+Kyrie Irving,202681,Turnaround Jump Shot,2,17,10,Turnaround Jump Shot,JUMP_SHOTS,,2014
+Kyrie Irving,202681,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2015
+Kyrie Irving,202681,Driving Jump Shot,2,8,7,Driving Bank shot,JUMP_SHOTS,,2015
+Kyrie Irving,202681,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2015
+Kyrie Irving,202681,Finger Roll,2,8,6,Driving Finger Roll Layup Shot,LAYUPS,,2015
+Kyrie Irving,202681,Driving Jump Shot,2,12,4,Driving Jump shot,JUMP_SHOTS,,2015
+Kyrie Irving,202681,Driving Layup,2,167,113,Driving Layup Shot,LAYUPS,,2015
+Kyrie Irving,202681,Driving Layup,2,20,14,Driving Reverse Layup Shot,LAYUPS,,2015
+Kyrie Irving,202681,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2015
+Kyrie Irving,202681,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2015
+Kyrie Irving,202681,Fadeaway Jump Shot,2,14,7,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+Kyrie Irving,202681,Finger Roll,2,3,1,Finger Roll Layup Shot,LAYUPS,,2015
+Kyrie Irving,202681,Floating Jump Shot,2,24,14,Floating Jump shot,FLOATING_SHOTS,,2015
+Kyrie Irving,202681,Jump Shot,2,11,9,Jump Bank Shot,JUMP_SHOTS,,2015
+Kyrie Irving,202681,Jump Shot,2,597,221,Jump Shot,JUMP_SHOTS,,2015
+Kyrie Irving,202681,Jump Shot,3,47,16,Jump Shot,JUMP_SHOTS,,2015
+Kyrie Irving,202681,Standard Layup,2,108,48,Layup Shot,LAYUPS,,2015
+Kyrie Irving,202681,Pullup Jump Shot,2,2,2,Pullup Bank shot,JUMP_SHOTS,,2015
+Kyrie Irving,202681,Pullup Jump Shot,2,62,36,Pullup Jump shot,JUMP_SHOTS,,2015
+Kyrie Irving,202681,Pullup Jump Shot,3,2,2,Pullup Jump shot,JUMP_SHOTS,,2015
+Kyrie Irving,202681,Putback Layup,2,3,3,Putback Layup Shot,LAYUPS,,2015
+Kyrie Irving,202681,Reverse Layup,2,12,6,Reverse Layup Shot,LAYUPS,,2015
+Kyrie Irving,202681,Running Jump Shot,2,11,7,Running Bank shot,JUMP_SHOTS,,2015
+Kyrie Irving,202681,Running Jump Shot,2,33,11,Running Jump Shot,JUMP_SHOTS,,2015
+Kyrie Irving,202681,Standard Layup,2,21,13,Running Layup Shot,LAYUPS,,2015
+Kyrie Irving,202681,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2015
+Kyrie Irving,202681,Step Back Jump Shot,2,39,20,Step Back Jump shot,JUMP_SHOTS,,2015
+Kyrie Irving,202681,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2015
+Kyrie Irving,202681,Tip Shot,2,4,3,Tip Shot,TIP_SHOTS,,2015
+Kyrie Irving,202681,Turnaround Jump Shot,2,2,2,Turnaround Bank shot,JUMP_SHOTS,,2015
+Kyrie Irving,202681,Turnaround Jump Shot,2,16,5,Turnaround Jump Shot,JUMP_SHOTS,,2015
+Kyrie Irving,202681,Standard Layup,2,5,5,Cutting Layup Shot,LAYUPS,,2016
+Kyrie Irving,202681,Driving Jump Shot,2,19,12,Driving Bank shot,JUMP_SHOTS,,2016
+Kyrie Irving,202681,Finger Roll,2,18,13,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Kyrie Irving,202681,Floating Jump Shot,2,2,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2016
+Kyrie Irving,202681,Floating Jump Shot,2,18,9,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Kyrie Irving,202681,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2016
+Kyrie Irving,202681,Driving Layup,2,115,66,Driving Layup Shot,LAYUPS,,2016
+Kyrie Irving,202681,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2016
+Kyrie Irving,202681,Fadeaway Jump Shot,2,2,1,Fadeaway Bank shot,JUMP_SHOTS,,2016
+Kyrie Irving,202681,Fadeaway Jump Shot,2,19,11,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Kyrie Irving,202681,Finger Roll,2,3,2,Finger Roll Layup Shot,LAYUPS,,2016
+Kyrie Irving,202681,Floating Jump Shot,2,33,17,Floating Jump shot,FLOATING_SHOTS,,2016
+Kyrie Irving,202681,Hook Shot,2,2,2,Hook Shot,POST_MOVES,,2016
+Kyrie Irving,202681,Jump Shot,2,7,6,Jump Bank Shot,JUMP_SHOTS,,2016
+Kyrie Irving,202681,Jump Shot,2,365,117,Jump Shot,JUMP_SHOTS,,2016
+Kyrie Irving,202681,Jump Shot,3,33,10,Jump Shot,JUMP_SHOTS,,2016
+Kyrie Irving,202681,Standard Layup,2,41,9,Layup Shot,LAYUPS,,2016
+Kyrie Irving,202681,Pullup Jump Shot,2,6,4,Pullup Bank shot,JUMP_SHOTS,,2016
+Kyrie Irving,202681,Pullup Jump Shot,2,95,50,Pullup Jump shot,JUMP_SHOTS,,2016
+Kyrie Irving,202681,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2016
+Kyrie Irving,202681,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2016
+Kyrie Irving,202681,Finger Roll,2,4,3,Running Finger Roll Layup Shot,LAYUPS,,2016
+Kyrie Irving,202681,Running Jump Shot,2,8,2,Running Jump Shot,JUMP_SHOTS,,2016
+Kyrie Irving,202681,Standard Layup,2,29,25,Running Layup Shot,LAYUPS,,2016
+Kyrie Irving,202681,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2016
+Kyrie Irving,202681,Reverse Layup,2,4,2,Running Reverse Layup Shot,LAYUPS,,2016
+Kyrie Irving,202681,Step Back Jump Shot,2,2,1,Step Back Bank Jump Shot,JUMP_SHOTS,,2016
+Kyrie Irving,202681,Step Back Jump Shot,2,28,15,Step Back Jump shot,JUMP_SHOTS,,2016
+Kyrie Irving,202681,Putback Layup,2,1,0,Tip Layup Shot,LAYUPS,,2016
+Kyrie Irving,202681,Turnaround Jump Shot,2,1,0,Turnaround Bank shot,JUMP_SHOTS,,2016
+Kyrie Irving,202681,Turnaround Jump Shot,2,8,3,Turnaround Fadeaway shot,JUMP_SHOTS,,2016
+Kyrie Irving,202681,Turnaround Jump Shot,2,5,2,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Kyrie Irving,202681,Alley Oop Layup,2,4,4,Alley Oop Layup shot,LAYUPS,,2017
+Kyrie Irving,202681,Finger Roll,2,3,2,Cutting Finger Roll Layup Shot,LAYUPS,,2017
+Kyrie Irving,202681,Standard Layup,2,21,19,Cutting Layup Shot,LAYUPS,,2017
+Kyrie Irving,202681,Driving Jump Shot,2,18,12,Driving Bank shot,JUMP_SHOTS,,2017
+Kyrie Irving,202681,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2017
+Kyrie Irving,202681,Finger Roll,2,20,17,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Kyrie Irving,202681,Floating Jump Shot,2,14,8,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2017
+Kyrie Irving,202681,Floating Jump Shot,2,33,13,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Kyrie Irving,202681,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,,2017
+Kyrie Irving,202681,Driving Layup,2,192,114,Driving Layup Shot,LAYUPS,,2017
+Kyrie Irving,202681,Driving Layup,2,18,12,Driving Reverse Layup Shot,LAYUPS,,2017
+Kyrie Irving,202681,Fadeaway Jump Shot,2,5,1,Fadeaway Bank shot,JUMP_SHOTS,,2017
+Kyrie Irving,202681,Fadeaway Jump Shot,2,18,7,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Kyrie Irving,202681,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2017
+Kyrie Irving,202681,Floating Jump Shot,2,28,16,Floating Jump shot,FLOATING_SHOTS,,2017
+Kyrie Irving,202681,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2017
+Kyrie Irving,202681,Jump Shot,2,18,10,Jump Bank Shot,JUMP_SHOTS,,2017
+Kyrie Irving,202681,Jump Shot,2,518,187,Jump Shot,JUMP_SHOTS,,2017
+Kyrie Irving,202681,Jump Shot,3,80,33,Jump Shot,JUMP_SHOTS,,2017
+Kyrie Irving,202681,Standard Layup,2,59,20,Layup Shot,LAYUPS,,2017
+Kyrie Irving,202681,Pullup Jump Shot,2,14,8,Pullup Bank shot,JUMP_SHOTS,,2017
+Kyrie Irving,202681,Pullup Jump Shot,2,146,82,Pullup Jump shot,JUMP_SHOTS,,2017
+Kyrie Irving,202681,Pullup Jump Shot,3,4,2,Pullup Jump shot,JUMP_SHOTS,,2017
+Kyrie Irving,202681,Putback Layup,2,4,3,Putback Layup Shot,LAYUPS,,2017
+Kyrie Irving,202681,Reverse Layup,2,14,7,Reverse Layup Shot,LAYUPS,,2017
+Kyrie Irving,202681,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2017
+Kyrie Irving,202681,Finger Roll,2,4,2,Running Finger Roll Layup Shot,LAYUPS,,2017
+Kyrie Irving,202681,Running Jump Shot,2,11,3,Running Jump Shot,JUMP_SHOTS,,2017
+Kyrie Irving,202681,Standard Layup,2,35,21,Running Layup Shot,LAYUPS,,2017
+Kyrie Irving,202681,Running Jump Shot,2,5,3,Running Pull-Up Jump Shot,JUMP_SHOTS,,2017
+Kyrie Irving,202681,Reverse Layup,2,6,2,Running Reverse Layup Shot,LAYUPS,,2017
+Kyrie Irving,202681,Step Back Jump Shot,2,2,0,Step Back Bank Jump Shot,JUMP_SHOTS,,2017
+Kyrie Irving,202681,Step Back Jump Shot,2,68,35,Step Back Jump shot,JUMP_SHOTS,,2017
+Kyrie Irving,202681,Step Back Jump Shot,3,2,1,Step Back Jump shot,JUMP_SHOTS,,2017
+Kyrie Irving,202681,Putback Layup,2,5,2,Tip Layup Shot,LAYUPS,,2017
+Kyrie Irving,202681,Turnaround Jump Shot,2,6,2,Turnaround Bank shot,JUMP_SHOTS,,2017
+Kyrie Irving,202681,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2017
+Kyrie Irving,202681,Turnaround Jump Shot,2,15,9,Turnaround Fadeaway shot,JUMP_SHOTS,,2017
+Kyrie Irving,202681,Turnaround Jump Shot,3,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2017
+Kyrie Irving,202681,Turnaround Jump Shot,2,20,8,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Kyrie Irving,202681,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2018
+Kyrie Irving,202681,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2018
+Kyrie Irving,202681,Finger Roll,2,3,3,Cutting Finger Roll Layup Shot,LAYUPS,,2018
+Kyrie Irving,202681,Standard Layup,2,24,20,Cutting Layup Shot,LAYUPS,,2018
+Kyrie Irving,202681,Finger Roll,2,67,48,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Kyrie Irving,202681,Floating Jump Shot,2,22,14,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Kyrie Irving,202681,Floating Jump Shot,2,61,34,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Kyrie Irving,202681,Driving Hook Shot,2,6,5,Driving Hook Shot,POST_MOVES,,2018
+Kyrie Irving,202681,Driving Layup,2,129,57,Driving Layup Shot,LAYUPS,,2018
+Kyrie Irving,202681,Driving Layup,2,16,12,Driving Reverse Layup Shot,LAYUPS,,2018
+Kyrie Irving,202681,Fadeaway Jump Shot,2,20,8,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+Kyrie Irving,202681,Finger Roll,2,4,3,Finger Roll Layup Shot,LAYUPS,,2018
+Kyrie Irving,202681,Floating Jump Shot,2,19,7,Floating Jump shot,FLOATING_SHOTS,,2018
+Kyrie Irving,202681,Jump Shot,2,5,5,Jump Bank Shot,JUMP_SHOTS,,2018
+Kyrie Irving,202681,Jump Shot,2,324,125,Jump Shot,JUMP_SHOTS,,2018
+Kyrie Irving,202681,Standard Layup,2,22,6,Layup Shot,LAYUPS,,2018
+Kyrie Irving,202681,Pullup Jump Shot,2,218,111,Pullup Jump shot,JUMP_SHOTS,,2018
+Kyrie Irving,202681,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2018
+Kyrie Irving,202681,Reverse Layup,2,4,2,Reverse Layup Shot,LAYUPS,,2018
+Kyrie Irving,202681,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2018
+Kyrie Irving,202681,Finger Roll,2,8,5,Running Finger Roll Layup Shot,LAYUPS,,2018
+Kyrie Irving,202681,Running Jump Shot,2,4,2,Running Jump Shot,JUMP_SHOTS,,2018
+Kyrie Irving,202681,Standard Layup,2,16,7,Running Layup Shot,LAYUPS,,2018
+Kyrie Irving,202681,Running Jump Shot,2,3,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2018
+Kyrie Irving,202681,Step Back Jump Shot,2,1,1,Step Back Bank Jump Shot,JUMP_SHOTS,,2018
+Kyrie Irving,202681,Step Back Jump Shot,2,52,29,Step Back Jump shot,JUMP_SHOTS,,2018
+Kyrie Irving,202681,Putback Layup,2,5,3,Tip Layup Shot,LAYUPS,,2018
+Kyrie Irving,202681,Turnaround Jump Shot,2,8,7,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2018
+Kyrie Irving,202681,Turnaround Jump Shot,2,24,6,Turnaround Fadeaway shot,JUMP_SHOTS,,2018
+Kyrie Irving,202681,Turnaround Hook Shot,2,3,2,Turnaround Hook Shot,POST_MOVES,,2018
+Kyrie Irving,202681,Turnaround Jump Shot,2,14,6,Turnaround Jump Shot,JUMP_SHOTS,,2018
+Kyrie Irving,202681,Alley Oop Dunk,2,1,0,Alley Oop Dunk Shot,DUNKS,,2019
+Kyrie Irving,202681,Alley Oop Layup,2,5,4,Alley Oop Layup shot,LAYUPS,,2019
+Kyrie Irving,202681,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2019
+Kyrie Irving,202681,Finger Roll,2,2,1,Cutting Finger Roll Layup Shot,LAYUPS,,2019
+Kyrie Irving,202681,Standard Layup,2,17,9,Cutting Layup Shot,LAYUPS,,2019
+Kyrie Irving,202681,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2019
+Kyrie Irving,202681,Finger Roll,2,77,52,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Kyrie Irving,202681,Floating Jump Shot,2,23,19,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Kyrie Irving,202681,Floating Jump Shot,2,57,26,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Kyrie Irving,202681,Driving Hook Shot,2,8,4,Driving Hook Shot,POST_MOVES,,2019
+Kyrie Irving,202681,Driving Layup,2,126,64,Driving Layup Shot,LAYUPS,,2019
+Kyrie Irving,202681,Driving Layup,2,17,11,Driving Reverse Layup Shot,LAYUPS,,2019
+Kyrie Irving,202681,Fadeaway Jump Shot,2,79,43,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+Kyrie Irving,202681,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2019
+Kyrie Irving,202681,Floating Jump Shot,2,28,14,Floating Jump shot,FLOATING_SHOTS,,2019
+Kyrie Irving,202681,Jump Shot,2,3,2,Jump Bank Shot,JUMP_SHOTS,,2019
+Kyrie Irving,202681,Jump Shot,2,341,140,Jump Shot,JUMP_SHOTS,,2019
+Kyrie Irving,202681,Standard Layup,2,18,5,Layup Shot,LAYUPS,,2019
+Kyrie Irving,202681,Pullup Jump Shot,2,225,94,Pullup Jump shot,JUMP_SHOTS,,2019
+Kyrie Irving,202681,Putback Layup,2,5,5,Putback Layup Shot,LAYUPS,,2019
+Kyrie Irving,202681,Reverse Layup,2,9,3,Reverse Layup Shot,LAYUPS,,2019
+Kyrie Irving,202681,Finger Roll,2,16,11,Running Finger Roll Layup Shot,LAYUPS,,2019
+Kyrie Irving,202681,Running Jump Shot,2,4,0,Running Jump Shot,JUMP_SHOTS,,2019
+Kyrie Irving,202681,Standard Layup,2,29,15,Running Layup Shot,LAYUPS,,2019
+Kyrie Irving,202681,Running Jump Shot,2,15,9,Running Pull-Up Jump Shot,JUMP_SHOTS,,2019
+Kyrie Irving,202681,Reverse Layup,2,10,9,Running Reverse Layup Shot,LAYUPS,,2019
+Kyrie Irving,202681,Step Back Jump Shot,2,3,2,Step Back Bank Jump Shot,JUMP_SHOTS,,2019
+Kyrie Irving,202681,Step Back Jump Shot,2,39,20,Step Back Jump shot,JUMP_SHOTS,,2019
+Kyrie Irving,202681,Putback Layup,2,15,7,Tip Layup Shot,LAYUPS,,2019
+Kyrie Irving,202681,Turnaround Hook Shot,2,2,1,Turnaround Bank Hook Shot,POST_MOVES,,2019
+Kyrie Irving,202681,Turnaround Jump Shot,2,10,6,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2019
+Kyrie Irving,202681,Turnaround Jump Shot,2,37,19,Turnaround Fadeaway shot,JUMP_SHOTS,,2019
+Kyrie Irving,202681,Turnaround Jump Shot,2,17,6,Turnaround Jump Shot,JUMP_SHOTS,,2019
+Kyrie Irving,202681,Finger Roll,2,2,2,Cutting Finger Roll Layup Shot,LAYUPS,,2020
+Kyrie Irving,202681,Standard Layup,2,4,4,Cutting Layup Shot,LAYUPS,,2020
+Kyrie Irving,202681,Finger Roll,2,11,8,Driving Finger Roll Layup Shot,LAYUPS,,2020
+Kyrie Irving,202681,Floating Jump Shot,2,11,8,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2020
+Kyrie Irving,202681,Floating Jump Shot,2,21,8,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Kyrie Irving,202681,Driving Layup,2,61,29,Driving Layup Shot,LAYUPS,,2020
+Kyrie Irving,202681,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2020
+Kyrie Irving,202681,Fadeaway Jump Shot,2,18,9,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+Kyrie Irving,202681,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2020
+Kyrie Irving,202681,Floating Jump Shot,2,10,8,Floating Jump shot,FLOATING_SHOTS,,2020
+Kyrie Irving,202681,Jump Shot,2,78,27,Jump Shot,JUMP_SHOTS,,2020
+Kyrie Irving,202681,Standard Layup,2,4,2,Layup Shot,LAYUPS,,2020
+Kyrie Irving,202681,Pullup Jump Shot,2,117,48,Pullup Jump shot,JUMP_SHOTS,,2020
+Kyrie Irving,202681,Finger Roll,2,1,0,Running Finger Roll Layup Shot,LAYUPS,,2020
+Kyrie Irving,202681,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2020
+Kyrie Irving,202681,Standard Layup,2,16,11,Running Layup Shot,LAYUPS,,2020
+Kyrie Irving,202681,Running Jump Shot,2,9,6,Running Pull-Up Jump Shot,JUMP_SHOTS,,2020
+Kyrie Irving,202681,Step Back Jump Shot,2,29,17,Step Back Jump shot,JUMP_SHOTS,,2020
+Kyrie Irving,202681,Putback Layup,2,2,2,Tip Layup Shot,LAYUPS,,2020
+Kyrie Irving,202681,Turnaround Jump Shot,2,3,2,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2020
+Kyrie Irving,202681,Turnaround Jump Shot,2,11,4,Turnaround Fadeaway shot,JUMP_SHOTS,,2020
+Kyrie Irving,202681,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2020
+Kyrie Irving,202681,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2021
+Kyrie Irving,202681,Finger Roll,2,3,3,Cutting Finger Roll Layup Shot,LAYUPS,,2021
+Kyrie Irving,202681,Standard Layup,2,15,10,Cutting Layup Shot,LAYUPS,,2021
+Kyrie Irving,202681,Driving Dunk,2,3,1,Driving Dunk Shot,DUNKS,,2021
+Kyrie Irving,202681,Finger Roll,2,27,20,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Kyrie Irving,202681,Floating Jump Shot,2,10,10,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2021
+Kyrie Irving,202681,Floating Jump Shot,2,49,19,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Kyrie Irving,202681,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2021
+Kyrie Irving,202681,Driving Layup,2,148,70,Driving Layup Shot,LAYUPS,,2021
+Kyrie Irving,202681,Driving Layup,2,17,14,Driving Reverse Layup Shot,LAYUPS,,2021
+Kyrie Irving,202681,Fadeaway Jump Shot,2,42,20,Fadeaway Jump Shot,JUMP_SHOTS,,2021
+Kyrie Irving,202681,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2021
+Kyrie Irving,202681,Floating Jump Shot,2,10,4,Floating Jump shot,FLOATING_SHOTS,,2021
+Kyrie Irving,202681,Jump Shot,2,4,4,Jump Bank Shot,JUMP_SHOTS,,2021
+Kyrie Irving,202681,Jump Shot,2,244,101,Jump Shot,JUMP_SHOTS,,2021
+Kyrie Irving,202681,Standard Layup,2,15,7,Layup Shot,LAYUPS,,2021
+Kyrie Irving,202681,Pullup Jump Shot,2,319,163,Pullup Jump shot,JUMP_SHOTS,,2021
+Kyrie Irving,202681,Putback Layup,2,4,3,Putback Layup Shot,LAYUPS,,2021
+Kyrie Irving,202681,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2021
+Kyrie Irving,202681,Alley Oop Layup,2,1,0,Running Alley Oop Layup Shot,LAYUPS,,2021
+Kyrie Irving,202681,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2021
+Kyrie Irving,202681,Finger Roll,2,4,4,Running Finger Roll Layup Shot,LAYUPS,,2021
+Kyrie Irving,202681,Running Jump Shot,2,6,4,Running Jump Shot,JUMP_SHOTS,,2021
+Kyrie Irving,202681,Standard Layup,2,31,21,Running Layup Shot,LAYUPS,,2021
+Kyrie Irving,202681,Running Jump Shot,2,11,4,Running Pull-Up Jump Shot,JUMP_SHOTS,,2021
+Kyrie Irving,202681,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2021
+Kyrie Irving,202681,Step Back Jump Shot,2,53,25,Step Back Jump shot,JUMP_SHOTS,,2021
+Kyrie Irving,202681,Putback Layup,2,8,4,Tip Layup Shot,LAYUPS,,2021
+Kyrie Irving,202681,Turnaround Jump Shot,2,10,8,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2021
+Kyrie Irving,202681,Turnaround Jump Shot,2,28,12,Turnaround Fadeaway shot,JUMP_SHOTS,,2021
+Kyrie Irving,202681,Turnaround Jump Shot,2,17,12,Turnaround Jump Shot,JUMP_SHOTS,,2021
+Kyrie Irving,202681,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2022
+Kyrie Irving,202681,Standard Layup,2,2,2,Cutting Layup Shot,LAYUPS,,2022
+Kyrie Irving,202681,Finger Roll,2,12,9,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Kyrie Irving,202681,Floating Jump Shot,2,11,8,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Kyrie Irving,202681,Floating Jump Shot,2,22,8,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Kyrie Irving,202681,Driving Hook Shot,2,3,3,Driving Hook Shot,POST_MOVES,,2022
+Kyrie Irving,202681,Driving Layup,2,55,37,Driving Layup Shot,LAYUPS,,2022
+Kyrie Irving,202681,Reverse Dunk,2,1,1,Driving Reverse Dunk Shot,DUNKS,,2022
+Kyrie Irving,202681,Driving Layup,2,7,1,Driving Reverse Layup Shot,LAYUPS,,2022
+Kyrie Irving,202681,Fadeaway Jump Shot,2,38,14,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Kyrie Irving,202681,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2022
+Kyrie Irving,202681,Jump Shot,2,152,56,Jump Shot,JUMP_SHOTS,,2022
+Kyrie Irving,202681,Standard Layup,2,4,2,Layup Shot,LAYUPS,,2022
+Kyrie Irving,202681,Pullup Jump Shot,2,191,89,Pullup Jump shot,JUMP_SHOTS,,2022
+Kyrie Irving,202681,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2022
+Kyrie Irving,202681,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2022
+Kyrie Irving,202681,Finger Roll,2,3,2,Running Finger Roll Layup Shot,LAYUPS,,2022
+Kyrie Irving,202681,Running Jump Shot,2,9,6,Running Jump Shot,JUMP_SHOTS,,2022
+Kyrie Irving,202681,Standard Layup,2,8,3,Running Layup Shot,LAYUPS,,2022
+Kyrie Irving,202681,Running Jump Shot,2,20,13,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
+Kyrie Irving,202681,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2022
+Kyrie Irving,202681,Step Back Jump Shot,2,27,12,Step Back Jump shot,JUMP_SHOTS,,2022
+Kyrie Irving,202681,Turnaround Jump Shot,2,4,3,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2022
+Kyrie Irving,202681,Turnaround Jump Shot,2,26,10,Turnaround Fadeaway shot,JUMP_SHOTS,,2022
+Kyrie Irving,202681,Turnaround Jump Shot,2,13,6,Turnaround Jump Shot,JUMP_SHOTS,,2022
+Kyrie Irving,202681,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2023
+Kyrie Irving,202681,Finger Roll,2,4,4,Cutting Finger Roll Layup Shot,LAYUPS,,2023
+Kyrie Irving,202681,Standard Layup,2,16,13,Cutting Layup Shot,LAYUPS,,2023
+Kyrie Irving,202681,Driving Dunk,2,1,0,Driving Dunk Shot,DUNKS,,2023
+Kyrie Irving,202681,Finger Roll,2,32,24,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Kyrie Irving,202681,Floating Jump Shot,2,16,11,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+Kyrie Irving,202681,Floating Jump Shot,2,63,30,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Kyrie Irving,202681,Driving Hook Shot,2,3,1,Driving Hook Shot,POST_MOVES,,2023
+Kyrie Irving,202681,Driving Layup,2,113,68,Driving Layup Shot,LAYUPS,,2023
+Kyrie Irving,202681,Driving Layup,2,7,6,Driving Reverse Layup Shot,LAYUPS,,2023
+Kyrie Irving,202681,Fadeaway Jump Shot,2,4,2,Fadeaway Bank shot,JUMP_SHOTS,,2023
+Kyrie Irving,202681,Fadeaway Jump Shot,2,63,37,Fadeaway Jump Shot,JUMP_SHOTS,,2023
+Kyrie Irving,202681,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2023
+Kyrie Irving,202681,Floating Jump Shot,2,7,2,Floating Jump shot,FLOATING_SHOTS,,2023
+Kyrie Irving,202681,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2023
+Kyrie Irving,202681,Jump Shot,2,236,85,Jump Shot,JUMP_SHOTS,,2023
+Kyrie Irving,202681,Standard Layup,2,12,6,Layup Shot,LAYUPS,,2023
+Kyrie Irving,202681,Pullup Jump Shot,2,307,134,Pullup Jump shot,JUMP_SHOTS,,2023
+Kyrie Irving,202681,Putback Layup,2,3,3,Putback Layup Shot,LAYUPS,,2023
+Kyrie Irving,202681,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2023
+Kyrie Irving,202681,Alley Oop Layup,2,1,1,Running Alley Oop Layup Shot,LAYUPS,,2023
+Kyrie Irving,202681,Finger Roll,2,9,7,Running Finger Roll Layup Shot,LAYUPS,,2023
+Kyrie Irving,202681,Running Jump Shot,2,27,17,Running Jump Shot,JUMP_SHOTS,,2023
+Kyrie Irving,202681,Standard Layup,2,46,25,Running Layup Shot,LAYUPS,,2023
+Kyrie Irving,202681,Running Jump Shot,2,56,24,Running Pull-Up Jump Shot,JUMP_SHOTS,,2023
+Kyrie Irving,202681,Reverse Layup,2,4,2,Running Reverse Layup Shot,LAYUPS,,2023
+Kyrie Irving,202681,Step Back Jump Shot,2,105,53,Step Back Jump shot,JUMP_SHOTS,,2023
+Kyrie Irving,202681,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2023
+Kyrie Irving,202681,Putback Layup,2,13,8,Tip Layup Shot,LAYUPS,,2023
+Kyrie Irving,202681,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2023
+Kyrie Irving,202681,Turnaround Jump Shot,2,3,2,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2023
+Kyrie Irving,202681,Turnaround Jump Shot,2,34,18,Turnaround Fadeaway shot,JUMP_SHOTS,,2023
+Kyrie Irving,202681,Turnaround Jump Shot,2,12,5,Turnaround Jump Shot,JUMP_SHOTS,,2023
+Kyrie Irving,202681,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2024
+Kyrie Irving,202681,Alley Oop Layup,2,4,1,Alley Oop Layup shot,LAYUPS,,2024
+Kyrie Irving,202681,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2024
+Kyrie Irving,202681,Finger Roll,2,5,5,Cutting Finger Roll Layup Shot,LAYUPS,,2024
+Kyrie Irving,202681,Standard Layup,2,14,11,Cutting Layup Shot,LAYUPS,,2024
+Kyrie Irving,202681,Driving Hook Shot,2,2,1,Driving Bank Hook Shot,POST_MOVES,,2024
+Kyrie Irving,202681,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2024
+Kyrie Irving,202681,Finger Roll,2,36,28,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Kyrie Irving,202681,Floating Jump Shot,2,26,19,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Kyrie Irving,202681,Floating Jump Shot,2,72,36,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Kyrie Irving,202681,Driving Hook Shot,2,9,4,Driving Hook Shot,POST_MOVES,,2024
+Kyrie Irving,202681,Driving Layup,2,94,49,Driving Layup Shot,LAYUPS,,2024
+Kyrie Irving,202681,Driving Layup,2,13,7,Driving Reverse Layup Shot,LAYUPS,,2024
+Kyrie Irving,202681,Fadeaway Jump Shot,2,7,4,Fadeaway Bank shot,JUMP_SHOTS,,2024
+Kyrie Irving,202681,Fadeaway Jump Shot,2,57,21,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Kyrie Irving,202681,Fadeaway Jump Shot,3,5,0,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Kyrie Irving,202681,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2024
+Kyrie Irving,202681,Floating Jump Shot,2,9,6,Floating Jump shot,FLOATING_SHOTS,,2024
+Kyrie Irving,202681,Floating Jump Shot,3,1,0,Floating Jump shot,FLOATING_SHOTS,,2024
+Kyrie Irving,202681,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2024
+Kyrie Irving,202681,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2024
+Kyrie Irving,202681,Jump Shot,3,1,1,Jump Bank Shot,JUMP_SHOTS,,2024
+Kyrie Irving,202681,Jump Shot,2,23,11,Jump Shot,JUMP_SHOTS,,2024
+Kyrie Irving,202681,Jump Shot,3,212,94,Jump Shot,JUMP_SHOTS,,2024
+Kyrie Irving,202681,Standard Layup,2,8,5,Layup Shot,LAYUPS,,2024
+Kyrie Irving,202681,Pullup Jump Shot,2,182,96,Pullup Jump shot,JUMP_SHOTS,,2024
+Kyrie Irving,202681,Pullup Jump Shot,3,104,39,Pullup Jump shot,JUMP_SHOTS,,2024
+Kyrie Irving,202681,Putback Layup,2,4,3,Putback Layup Shot,LAYUPS,,2024
+Kyrie Irving,202681,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2024
+Kyrie Irving,202681,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2024
+Kyrie Irving,202681,Standard Dunk,2,2,1,Running Dunk Shot,DUNKS,,2024
+Kyrie Irving,202681,Finger Roll,2,10,9,Running Finger Roll Layup Shot,LAYUPS,,2024
+Kyrie Irving,202681,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2024
+Kyrie Irving,202681,Running Jump Shot,3,17,7,Running Jump Shot,JUMP_SHOTS,,2024
+Kyrie Irving,202681,Standard Layup,2,37,21,Running Layup Shot,LAYUPS,,2024
+Kyrie Irving,202681,Running Jump Shot,2,8,4,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Kyrie Irving,202681,Running Jump Shot,3,53,23,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Kyrie Irving,202681,Reverse Layup,2,4,1,Running Reverse Layup Shot,LAYUPS,,2024
+Kyrie Irving,202681,Step Back Jump Shot,2,24,14,Step Back Jump shot,JUMP_SHOTS,,2024
+Kyrie Irving,202681,Step Back Jump Shot,3,27,9,Step Back Jump shot,JUMP_SHOTS,,2024
+Kyrie Irving,202681,Putback Layup,2,4,1,Tip Layup Shot,LAYUPS,,2024
+Kyrie Irving,202681,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2024
+Kyrie Irving,202681,Turnaround Jump Shot,2,2,2,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2024
+Kyrie Irving,202681,Turnaround Jump Shot,2,30,15,Turnaround Fadeaway shot,JUMP_SHOTS,,2024
+Kyrie Irving,202681,Turnaround Jump Shot,3,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2024
+Kyrie Irving,202681,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2024
+Kyrie Irving,202681,Turnaround Jump Shot,2,9,2,Turnaround Jump Shot,JUMP_SHOTS,,2024
+Kyrie Irving,202681,Alley Oop Layup,2,4,2,Alley Oop Layup shot,LAYUPS,,2025
+Kyrie Irving,202681,Finger Roll,2,3,2,Cutting Finger Roll Layup Shot,LAYUPS,,2025
+Kyrie Irving,202681,Standard Layup,2,8,7,Cutting Layup Shot,LAYUPS,,2025
+Kyrie Irving,202681,Finger Roll,2,24,20,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Kyrie Irving,202681,Floating Jump Shot,2,12,5,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2025
+Kyrie Irving,202681,Floating Jump Shot,2,44,18,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Kyrie Irving,202681,Driving Layup,2,56,31,Driving Layup Shot,LAYUPS,,2025
+Kyrie Irving,202681,Driving Layup,2,5,3,Driving Reverse Layup Shot,LAYUPS,,2025
+Kyrie Irving,202681,Fadeaway Jump Shot,2,3,1,Fadeaway Bank shot,JUMP_SHOTS,,2025
+Kyrie Irving,202681,Fadeaway Jump Shot,2,11,1,Fadeaway Jump Shot,JUMP_SHOTS,,2025
+Kyrie Irving,202681,Fadeaway Jump Shot,3,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2025
+Kyrie Irving,202681,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2025
+Kyrie Irving,202681,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2025
+Kyrie Irving,202681,Jump Shot,3,2,1,Jump Bank Shot,JUMP_SHOTS,,2025
+Kyrie Irving,202681,Jump Shot,2,13,6,Jump Shot,JUMP_SHOTS,,2025
+Kyrie Irving,202681,Jump Shot,3,98,44,Jump Shot,JUMP_SHOTS,,2025
+Kyrie Irving,202681,Standard Layup,2,5,2,Layup Shot,LAYUPS,,2025
+Kyrie Irving,202681,Pullup Jump Shot,2,78,38,Pullup Jump shot,JUMP_SHOTS,,2025
+Kyrie Irving,202681,Pullup Jump Shot,3,46,22,Pullup Jump shot,JUMP_SHOTS,,2025
+Kyrie Irving,202681,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2025
+Kyrie Irving,202681,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2025
+Kyrie Irving,202681,Finger Roll,2,7,5,Running Finger Roll Layup Shot,LAYUPS,,2025
+Kyrie Irving,202681,Running Jump Shot,3,15,9,Running Jump Shot,JUMP_SHOTS,,2025
+Kyrie Irving,202681,Standard Layup,2,19,6,Running Layup Shot,LAYUPS,,2025
+Kyrie Irving,202681,Running Jump Shot,2,5,3,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025
+Kyrie Irving,202681,Running Jump Shot,3,19,3,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025
+Kyrie Irving,202681,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2025
+Kyrie Irving,202681,Step Back Jump Shot,2,1,1,Step Back Bank Jump Shot,JUMP_SHOTS,,2025
+Kyrie Irving,202681,Step Back Jump Shot,2,18,3,Step Back Jump shot,JUMP_SHOTS,,2025
+Kyrie Irving,202681,Step Back Jump Shot,3,33,14,Step Back Jump shot,JUMP_SHOTS,,2025
+Kyrie Irving,202681,Putback Layup,2,5,4,Tip Layup Shot,LAYUPS,,2025
+Kyrie Irving,202681,Turnaround Jump Shot,2,2,2,Turnaround Bank shot,JUMP_SHOTS,,2025
+Kyrie Irving,202681,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2025
+Kyrie Irving,202681,Turnaround Jump Shot,2,10,6,Turnaround Fadeaway shot,JUMP_SHOTS,,2025
+Kyrie Irving,202681,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2025
+Kyrie Irving,202681,Turnaround Jump Shot,2,10,6,Turnaround Jump Shot,JUMP_SHOTS,,2025

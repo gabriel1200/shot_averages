@@ -1,58 +1,407 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-202704,Driving Dunk,2PT Field Goal,1,0,Driving Dunk Shot,DUNKS,0.0,2014
-202704,Driving Jump Shot,2PT Field Goal,1,0,Driving Jump shot,JUMP_SHOTS,0.0,2014
-202704,Driving Layup,2PT Field Goal,5,1,Driving Layup Shot,LAYUPS,0.2,2014
-202704,Driving Dunk,2PT Field Goal,1,1,Driving Slam Dunk Shot,DUNKS,1.0,2014
-202704,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2014
-202704,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2014
-202704,Floating Jump Shot,2PT Field Goal,7,3,Floating Jump shot,FLOATING_SHOTS,0.4285714285714285,2014
-202704,Jump Shot,2PT Field Goal,12,5,Jump Shot,JUMP_SHOTS,0.4166666666666667,2014
-202704,Jump Shot,3PT Field Goal,5,2,Jump Shot,JUMP_SHOTS,0.6,2014
-202704,Standard Layup,2PT Field Goal,3,0,Layup Shot,LAYUPS,0.0,2014
-202704,Pullup Jump Shot,2PT Field Goal,2,1,Pullup Jump shot,JUMP_SHOTS,0.5,2014
-202704,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2014
-202704,Running Jump Shot,2PT Field Goal,4,2,Running Jump Shot,JUMP_SHOTS,0.5,2014
-202704,Step Back Jump Shot,2PT Field Goal,3,1,Step Back Jump shot,JUMP_SHOTS,0.3333333333333333,2014
-202704,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2015
-202704,Jump Shot,3PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.5,2015
-202704,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2015
-202704,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2019
-202704,Alley Oop Layup,2PT Field Goal,1,1,Alley Oop Layup shot,LAYUPS,1.0,2024
-202704,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2024
-202704,Finger Roll,2PT Field Goal,2,2,Cutting Finger Roll Layup Shot,LAYUPS,1.0,2024
-202704,Standard Layup,2PT Field Goal,7,6,Cutting Layup Shot,LAYUPS,0.8571428571428571,2024
-202704,Driving Dunk,2PT Field Goal,1,0,Driving Dunk Shot,DUNKS,0.0,2024
-202704,Finger Roll,2PT Field Goal,29,16,Driving Finger Roll Layup Shot,LAYUPS,0.5517241379310345,2024
-202704,Floating Jump Shot,2PT Field Goal,10,6,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.6,2024
-202704,Floating Jump Shot,2PT Field Goal,44,19,Driving Floating Jump Shot,FLOATING_SHOTS,0.4318181818181818,2024
-202704,Driving Hook Shot,2PT Field Goal,7,3,Driving Hook Shot,POST_MOVES,0.4285714285714285,2024
-202704,Driving Layup,2PT Field Goal,56,21,Driving Layup Shot,LAYUPS,0.375,2024
-202704,Driving Layup,2PT Field Goal,10,6,Driving Reverse Layup Shot,LAYUPS,0.6,2024
-202704,Fadeaway Jump Shot,3PT Field Goal,1,0,Fadeaway Bank shot,JUMP_SHOTS,0.0,2024
-202704,Fadeaway Jump Shot,2PT Field Goal,7,3,Fadeaway Jump Shot,JUMP_SHOTS,0.4285714285714285,2024
-202704,Fadeaway Jump Shot,3PT Field Goal,2,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2024
-202704,Floating Jump Shot,2PT Field Goal,11,6,Floating Jump shot,FLOATING_SHOTS,0.5454545454545454,2024
-202704,Floating Jump Shot,3PT Field Goal,2,0,Floating Jump shot,FLOATING_SHOTS,0.0,2024
-202704,Jump Shot,2PT Field Goal,3,2,Jump Shot,JUMP_SHOTS,0.6666666666666666,2024
-202704,Jump Shot,3PT Field Goal,88,35,Jump Shot,JUMP_SHOTS,0.5965909090909091,2024
-202704,Standard Layup,2PT Field Goal,6,3,Layup Shot,LAYUPS,0.5,2024
-202704,Pullup Jump Shot,2PT Field Goal,47,22,Pullup Jump shot,JUMP_SHOTS,0.4680851063829787,2024
-202704,Pullup Jump Shot,3PT Field Goal,32,11,Pullup Jump shot,JUMP_SHOTS,0.515625,2024
-202704,Putback Layup,2PT Field Goal,2,1,Putback Layup Shot,LAYUPS,0.5,2024
-202704,Reverse Layup,2PT Field Goal,2,1,Reverse Layup Shot,LAYUPS,0.5,2024
-202704,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2024
-202704,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2024
-202704,Running Jump Shot,3PT Field Goal,8,2,Running Jump Shot,JUMP_SHOTS,0.375,2024
-202704,Standard Layup,2PT Field Goal,10,6,Running Layup Shot,LAYUPS,0.6,2024
-202704,Running Jump Shot,2PT Field Goal,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,1.0,2024
-202704,Running Jump Shot,3PT Field Goal,2,1,Running Pull-Up Jump Shot,JUMP_SHOTS,0.75,2024
-202704,Reverse Layup,2PT Field Goal,2,1,Running Reverse Layup Shot,LAYUPS,0.5,2024
-202704,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Bank Jump Shot,JUMP_SHOTS,0.0,2024
-202704,Step Back Jump Shot,3PT Field Goal,1,0,Step Back Bank Jump Shot,JUMP_SHOTS,0.0,2024
-202704,Step Back Jump Shot,2PT Field Goal,12,5,Step Back Jump shot,JUMP_SHOTS,0.4166666666666667,2024
-202704,Step Back Jump Shot,3PT Field Goal,17,7,Step Back Jump shot,JUMP_SHOTS,0.6176470588235294,2024
-202704,Specialty Dunk,2PT Field Goal,1,1,Tip Dunk Shot,DUNKS,1.0,2024
-202704,Putback Layup,2PT Field Goal,3,0,Tip Layup Shot,LAYUPS,0.0,2024
-202704,Turnaround Jump Shot,2PT Field Goal,8,5,Turnaround Fadeaway shot,JUMP_SHOTS,0.625,2024
-202704,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2024
-202704,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Reggie Jackson,202704,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2012
+Reggie Jackson,202704,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2012
+Reggie Jackson,202704,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2012
+Reggie Jackson,202704,Driving Layup,2,20,10,Driving Layup Shot,LAYUPS,,2012
+Reggie Jackson,202704,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2012
+Reggie Jackson,202704,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2012
+Reggie Jackson,202704,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2012
+Reggie Jackson,202704,Floating Jump Shot,2,8,4,Floating Jump shot,FLOATING_SHOTS,,2012
+Reggie Jackson,202704,Jump Shot,2,89,20,Jump Shot,JUMP_SHOTS,,2012
+Reggie Jackson,202704,Standard Layup,2,12,1,Layup Shot,LAYUPS,,2012
+Reggie Jackson,202704,Pullup Jump Shot,2,11,6,Pullup Jump shot,JUMP_SHOTS,,2012
+Reggie Jackson,202704,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2012
+Reggie Jackson,202704,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2012
+Reggie Jackson,202704,Running Jump Shot,2,1,0,Running Bank shot,JUMP_SHOTS,,2012
+Reggie Jackson,202704,Standard Dunk,2,1,0,Running Dunk Shot,DUNKS,,2012
+Reggie Jackson,202704,Running Jump Shot,2,5,2,Running Jump Shot,JUMP_SHOTS,,2012
+Reggie Jackson,202704,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2012
+Reggie Jackson,202704,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Reggie Jackson,202704,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2013
+Reggie Jackson,202704,Driving Dunk,2,5,4,Driving Dunk Shot,DUNKS,,2013
+Reggie Jackson,202704,Finger Roll,2,7,7,Driving Finger Roll Layup Shot,LAYUPS,,2013
+Reggie Jackson,202704,Driving Hook Shot,2,3,2,Driving Hook Shot,POST_MOVES,,2013
+Reggie Jackson,202704,Driving Jump Shot,2,5,2,Driving Jump shot,JUMP_SHOTS,,2013
+Reggie Jackson,202704,Driving Layup,2,49,38,Driving Layup Shot,LAYUPS,,2013
+Reggie Jackson,202704,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2013
+Reggie Jackson,202704,Driving Dunk,2,2,2,Driving Slam Dunk Shot,DUNKS,,2013
+Reggie Jackson,202704,Standard Dunk,2,5,5,Dunk Shot,DUNKS,,2013
+Reggie Jackson,202704,Fadeaway Jump Shot,2,4,1,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Reggie Jackson,202704,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2013
+Reggie Jackson,202704,Floating Jump Shot,2,11,9,Floating Jump shot,FLOATING_SHOTS,,2013
+Reggie Jackson,202704,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2013
+Reggie Jackson,202704,Jump Shot,2,151,39,Jump Shot,JUMP_SHOTS,,2013
+Reggie Jackson,202704,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2013
+Reggie Jackson,202704,Standard Layup,2,14,7,Layup Shot,LAYUPS,,2013
+Reggie Jackson,202704,Pullup Jump Shot,2,20,8,Pullup Jump shot,JUMP_SHOTS,,2013
+Reggie Jackson,202704,Pullup Jump Shot,3,1,1,Pullup Jump shot,JUMP_SHOTS,,2013
+Reggie Jackson,202704,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2013
+Reggie Jackson,202704,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2013
+Reggie Jackson,202704,Running Jump Shot,2,22,9,Running Jump Shot,JUMP_SHOTS,,2013
+Reggie Jackson,202704,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2013
+Reggie Jackson,202704,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2013
+Reggie Jackson,202704,Step Back Jump Shot,2,7,3,Step Back Jump shot,JUMP_SHOTS,,2013
+Reggie Jackson,202704,Tip Shot,2,3,0,Tip Shot,TIP_SHOTS,,2013
+Reggie Jackson,202704,Turnaround Jump Shot,2,4,2,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Reggie Jackson,202704,Driving Jump Shot,2,3,2,Driving Bank shot,JUMP_SHOTS,,2014
+Reggie Jackson,202704,Driving Dunk,2,11,9,Driving Dunk Shot,DUNKS,,2014
+Reggie Jackson,202704,Finger Roll,2,9,6,Driving Finger Roll Layup Shot,LAYUPS,,2014
+Reggie Jackson,202704,Driving Jump Shot,2,13,7,Driving Jump shot,JUMP_SHOTS,,2014
+Reggie Jackson,202704,Driving Layup,2,105,67,Driving Layup Shot,LAYUPS,,2014
+Reggie Jackson,202704,Driving Layup,2,14,8,Driving Reverse Layup Shot,LAYUPS,,2014
+Reggie Jackson,202704,Driving Dunk,2,4,4,Driving Slam Dunk Shot,DUNKS,,2014
+Reggie Jackson,202704,Standard Dunk,2,10,10,Dunk Shot,DUNKS,,2014
+Reggie Jackson,202704,Fadeaway Jump Shot,2,8,3,Fadeaway Jump Shot,JUMP_SHOTS,,2014
+Reggie Jackson,202704,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2014
+Reggie Jackson,202704,Floating Jump Shot,2,53,29,Floating Jump shot,FLOATING_SHOTS,,2014
+Reggie Jackson,202704,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2014
+Reggie Jackson,202704,Jump Shot,2,4,3,Jump Bank Shot,JUMP_SHOTS,,2014
+Reggie Jackson,202704,Jump Shot,2,361,99,Jump Shot,JUMP_SHOTS,,2014
+Reggie Jackson,202704,Jump Shot,3,27,9,Jump Shot,JUMP_SHOTS,,2014
+Reggie Jackson,202704,Standard Layup,2,82,34,Layup Shot,LAYUPS,,2014
+Reggie Jackson,202704,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2014
+Reggie Jackson,202704,Pullup Jump Shot,3,1,0,Pullup Bank shot,JUMP_SHOTS,,2014
+Reggie Jackson,202704,Pullup Jump Shot,2,66,41,Pullup Jump shot,JUMP_SHOTS,,2014
+Reggie Jackson,202704,Pullup Jump Shot,3,2,0,Pullup Jump shot,JUMP_SHOTS,,2014
+Reggie Jackson,202704,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2014
+Reggie Jackson,202704,Reverse Layup,2,13,5,Reverse Layup Shot,LAYUPS,,2014
+Reggie Jackson,202704,Running Jump Shot,2,3,2,Running Bank shot,JUMP_SHOTS,,2014
+Reggie Jackson,202704,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2014
+Reggie Jackson,202704,Running Jump Shot,2,62,29,Running Jump Shot,JUMP_SHOTS,,2014
+Reggie Jackson,202704,Standard Layup,2,5,4,Running Layup Shot,LAYUPS,,2014
+Reggie Jackson,202704,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2014
+Reggie Jackson,202704,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2014
+Reggie Jackson,202704,Step Back Jump Shot,2,35,15,Step Back Jump shot,JUMP_SHOTS,,2014
+Reggie Jackson,202704,Step Back Jump Shot,3,1,1,Step Back Jump shot,JUMP_SHOTS,,2014
+Reggie Jackson,202704,Tip Shot,2,6,3,Tip Shot,TIP_SHOTS,,2014
+Reggie Jackson,202704,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2014
+Reggie Jackson,202704,Turnaround Jump Shot,2,4,1,Turnaround Jump Shot,JUMP_SHOTS,,2014
+Reggie Jackson,202704,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2015
+Reggie Jackson,202704,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2015
+Reggie Jackson,202704,Driving Jump Shot,2,4,2,Driving Bank shot,JUMP_SHOTS,,2015
+Reggie Jackson,202704,Driving Dunk,2,8,7,Driving Dunk Shot,DUNKS,,2015
+Reggie Jackson,202704,Finger Roll,2,20,13,Driving Finger Roll Layup Shot,LAYUPS,,2015
+Reggie Jackson,202704,Driving Jump Shot,2,8,3,Driving Jump shot,JUMP_SHOTS,,2015
+Reggie Jackson,202704,Driving Layup,2,107,83,Driving Layup Shot,LAYUPS,,2015
+Reggie Jackson,202704,Driving Layup,2,16,11,Driving Reverse Layup Shot,LAYUPS,,2015
+Reggie Jackson,202704,Driving Dunk,2,4,4,Driving Slam Dunk Shot,DUNKS,,2015
+Reggie Jackson,202704,Standard Dunk,2,6,5,Dunk Shot,DUNKS,,2015
+Reggie Jackson,202704,Fadeaway Jump Shot,2,16,7,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+Reggie Jackson,202704,Finger Roll,2,5,2,Finger Roll Layup Shot,LAYUPS,,2015
+Reggie Jackson,202704,Floating Jump Shot,2,73,42,Floating Jump shot,FLOATING_SHOTS,,2015
+Reggie Jackson,202704,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2015
+Reggie Jackson,202704,Jump Shot,2,4,3,Jump Bank Shot,JUMP_SHOTS,,2015
+Reggie Jackson,202704,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2015
+Reggie Jackson,202704,Jump Shot,2,480,131,Jump Shot,JUMP_SHOTS,,2015
+Reggie Jackson,202704,Jump Shot,3,4,2,Jump Shot,JUMP_SHOTS,,2015
+Reggie Jackson,202704,Standard Layup,2,78,23,Layup Shot,LAYUPS,,2015
+Reggie Jackson,202704,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2015
+Reggie Jackson,202704,Pullup Jump Shot,2,47,32,Pullup Jump shot,JUMP_SHOTS,,2015
+Reggie Jackson,202704,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2015
+Reggie Jackson,202704,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2015
+Reggie Jackson,202704,Reverse Layup,2,12,6,Reverse Layup Shot,LAYUPS,,2015
+Reggie Jackson,202704,Running Jump Shot,2,2,2,Running Bank shot,JUMP_SHOTS,,2015
+Reggie Jackson,202704,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2015
+Reggie Jackson,202704,Running Jump Shot,2,42,20,Running Jump Shot,JUMP_SHOTS,,2015
+Reggie Jackson,202704,Standard Layup,2,7,5,Running Layup Shot,LAYUPS,,2015
+Reggie Jackson,202704,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2015
+Reggie Jackson,202704,Step Back Jump Shot,2,32,15,Step Back Jump shot,JUMP_SHOTS,,2015
+Reggie Jackson,202704,Turnaround Jump Shot,2,2,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2015
+Reggie Jackson,202704,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2015
+Reggie Jackson,202704,Turnaround Jump Shot,2,6,2,Turnaround Jump Shot,JUMP_SHOTS,,2015
+Reggie Jackson,202704,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2016
+Reggie Jackson,202704,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2016
+Reggie Jackson,202704,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2016
+Reggie Jackson,202704,Driving Jump Shot,2,5,5,Driving Bank shot,JUMP_SHOTS,,2016
+Reggie Jackson,202704,Driving Dunk,2,10,10,Driving Dunk Shot,DUNKS,,2016
+Reggie Jackson,202704,Finger Roll,2,22,18,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Reggie Jackson,202704,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2016
+Reggie Jackson,202704,Floating Jump Shot,2,21,15,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Reggie Jackson,202704,Driving Hook Shot,2,6,4,Driving Hook Shot,POST_MOVES,,2016
+Reggie Jackson,202704,Driving Layup,2,144,106,Driving Layup Shot,LAYUPS,,2016
+Reggie Jackson,202704,Driving Layup,2,27,18,Driving Reverse Layup Shot,LAYUPS,,2016
+Reggie Jackson,202704,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,2016
+Reggie Jackson,202704,Fadeaway Jump Shot,2,10,6,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Reggie Jackson,202704,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2016
+Reggie Jackson,202704,Floating Jump Shot,2,102,65,Floating Jump shot,FLOATING_SHOTS,,2016
+Reggie Jackson,202704,Hook Shot,2,5,2,Hook Shot,POST_MOVES,,2016
+Reggie Jackson,202704,Jump Shot,2,6,2,Jump Bank Shot,JUMP_SHOTS,,2016
+Reggie Jackson,202704,Jump Shot,2,625,181,Jump Shot,JUMP_SHOTS,,2016
+Reggie Jackson,202704,Standard Layup,2,99,17,Layup Shot,LAYUPS,,2016
+Reggie Jackson,202704,No Shot,2,1,1,No Shot,NO_SHOT,,2016
+Reggie Jackson,202704,Pullup Jump Shot,2,53,32,Pullup Jump shot,JUMP_SHOTS,,2016
+Reggie Jackson,202704,Putback Layup,2,3,2,Putback Layup Shot,LAYUPS,,2016
+Reggie Jackson,202704,Reverse Layup,2,13,6,Reverse Layup Shot,LAYUPS,,2016
+Reggie Jackson,202704,Finger Roll,2,3,3,Running Finger Roll Layup Shot,LAYUPS,,2016
+Reggie Jackson,202704,Running Jump Shot,2,17,9,Running Jump Shot,JUMP_SHOTS,,2016
+Reggie Jackson,202704,Standard Layup,2,16,12,Running Layup Shot,LAYUPS,,2016
+Reggie Jackson,202704,Running Jump Shot,2,3,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2016
+Reggie Jackson,202704,Step Back Jump Shot,2,30,12,Step Back Jump shot,JUMP_SHOTS,,2016
+Reggie Jackson,202704,Putback Layup,2,5,1,Tip Layup Shot,LAYUPS,,2016
+Reggie Jackson,202704,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2016
+Reggie Jackson,202704,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2016
+Reggie Jackson,202704,Turnaround Jump Shot,2,6,3,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Reggie Jackson,202704,Driving Jump Shot,2,1,0,Driving Bank shot,JUMP_SHOTS,,2017
+Reggie Jackson,202704,Driving Dunk,2,5,5,Driving Dunk Shot,DUNKS,,2017
+Reggie Jackson,202704,Finger Roll,2,6,3,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Reggie Jackson,202704,Floating Jump Shot,2,2,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2017
+Reggie Jackson,202704,Floating Jump Shot,2,31,21,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Reggie Jackson,202704,Driving Hook Shot,2,3,3,Driving Hook Shot,POST_MOVES,,2017
+Reggie Jackson,202704,Driving Layup,2,67,44,Driving Layup Shot,LAYUPS,,2017
+Reggie Jackson,202704,Driving Layup,2,15,9,Driving Reverse Layup Shot,LAYUPS,,2017
+Reggie Jackson,202704,Standard Dunk,2,3,1,Dunk Shot,DUNKS,,2017
+Reggie Jackson,202704,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2017
+Reggie Jackson,202704,Fadeaway Jump Shot,2,8,2,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Reggie Jackson,202704,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2017
+Reggie Jackson,202704,Floating Jump Shot,2,40,19,Floating Jump shot,FLOATING_SHOTS,,2017
+Reggie Jackson,202704,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2017
+Reggie Jackson,202704,Hook Shot,2,5,1,Hook Shot,POST_MOVES,,2017
+Reggie Jackson,202704,Jump Shot,2,5,2,Jump Bank Shot,JUMP_SHOTS,,2017
+Reggie Jackson,202704,Jump Shot,2,313,93,Jump Shot,JUMP_SHOTS,,2017
+Reggie Jackson,202704,Standard Layup,2,53,11,Layup Shot,LAYUPS,,2017
+Reggie Jackson,202704,Pullup Jump Shot,2,54,35,Pullup Jump shot,JUMP_SHOTS,,2017
+Reggie Jackson,202704,Reverse Layup,2,8,2,Reverse Layup Shot,LAYUPS,,2017
+Reggie Jackson,202704,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2017
+Reggie Jackson,202704,Running Jump Shot,2,9,3,Running Jump Shot,JUMP_SHOTS,,2017
+Reggie Jackson,202704,Standard Layup,2,3,1,Running Layup Shot,LAYUPS,,2017
+Reggie Jackson,202704,Running Jump Shot,2,7,3,Running Pull-Up Jump Shot,JUMP_SHOTS,,2017
+Reggie Jackson,202704,Step Back Jump Shot,2,27,17,Step Back Jump shot,JUMP_SHOTS,,2017
+Reggie Jackson,202704,Putback Layup,2,4,2,Tip Layup Shot,LAYUPS,,2017
+Reggie Jackson,202704,Turnaround Jump Shot,2,3,2,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Reggie Jackson,202704,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2018
+Reggie Jackson,202704,Standard Layup,2,1,0,Cutting Layup Shot,LAYUPS,,2018
+Reggie Jackson,202704,Driving Dunk,2,1,0,Driving Dunk Shot,DUNKS,,2018
+Reggie Jackson,202704,Finger Roll,2,9,8,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Reggie Jackson,202704,Floating Jump Shot,2,9,8,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Reggie Jackson,202704,Floating Jump Shot,2,50,31,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Reggie Jackson,202704,Driving Hook Shot,2,4,2,Driving Hook Shot,POST_MOVES,,2018
+Reggie Jackson,202704,Driving Layup,2,56,27,Driving Layup Shot,LAYUPS,,2018
+Reggie Jackson,202704,Driving Layup,2,4,3,Driving Reverse Layup Shot,LAYUPS,,2018
+Reggie Jackson,202704,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2018
+Reggie Jackson,202704,Fadeaway Jump Shot,2,4,0,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+Reggie Jackson,202704,Floating Jump Shot,2,62,26,Floating Jump shot,FLOATING_SHOTS,,2018
+Reggie Jackson,202704,Hook Shot,2,6,3,Hook Shot,POST_MOVES,,2018
+Reggie Jackson,202704,Jump Shot,2,3,2,Jump Bank Shot,JUMP_SHOTS,,2018
+Reggie Jackson,202704,Jump Shot,2,183,60,Jump Shot,JUMP_SHOTS,,2018
+Reggie Jackson,202704,Standard Layup,2,47,15,Layup Shot,LAYUPS,,2018
+Reggie Jackson,202704,Pullup Jump Shot,2,74,32,Pullup Jump shot,JUMP_SHOTS,,2018
+Reggie Jackson,202704,Putback Dunk,2,1,0,Putback Dunk Shot,DUNKS,,2018
+Reggie Jackson,202704,Reverse Layup,2,4,3,Reverse Layup Shot,LAYUPS,,2018
+Reggie Jackson,202704,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2018
+Reggie Jackson,202704,Finger Roll,2,2,2,Running Finger Roll Layup Shot,LAYUPS,,2018
+Reggie Jackson,202704,Running Jump Shot,2,9,6,Running Jump Shot,JUMP_SHOTS,,2018
+Reggie Jackson,202704,Standard Layup,2,6,1,Running Layup Shot,LAYUPS,,2018
+Reggie Jackson,202704,Running Jump Shot,2,2,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2018
+Reggie Jackson,202704,Reverse Layup,2,2,1,Running Reverse Layup Shot,LAYUPS,,2018
+Reggie Jackson,202704,Step Back Jump Shot,2,31,9,Step Back Jump shot,JUMP_SHOTS,,2018
+Reggie Jackson,202704,Turnaround Hook Shot,2,1,1,Turnaround Bank Hook Shot,POST_MOVES,,2018
+Reggie Jackson,202704,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2018
+Reggie Jackson,202704,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2018
+Reggie Jackson,202704,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2018
+Reggie Jackson,202704,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2019
+Reggie Jackson,202704,Standard Layup,2,4,3,Cutting Layup Shot,LAYUPS,,2019
+Reggie Jackson,202704,Driving Dunk,2,9,6,Driving Dunk Shot,DUNKS,,2019
+Reggie Jackson,202704,Finger Roll,2,16,7,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Reggie Jackson,202704,Floating Jump Shot,2,19,11,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Reggie Jackson,202704,Floating Jump Shot,2,82,46,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Reggie Jackson,202704,Driving Hook Shot,2,5,3,Driving Hook Shot,POST_MOVES,,2019
+Reggie Jackson,202704,Driving Layup,2,109,45,Driving Layup Shot,LAYUPS,,2019
+Reggie Jackson,202704,Driving Layup,2,19,9,Driving Reverse Layup Shot,LAYUPS,,2019
+Reggie Jackson,202704,Fadeaway Jump Shot,2,11,3,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+Reggie Jackson,202704,Floating Jump Shot,2,58,30,Floating Jump shot,FLOATING_SHOTS,,2019
+Reggie Jackson,202704,Hook Shot,2,9,3,Hook Shot,POST_MOVES,,2019
+Reggie Jackson,202704,Jump Shot,2,5,2,Jump Bank Shot,JUMP_SHOTS,,2019
+Reggie Jackson,202704,Jump Shot,2,415,151,Jump Shot,JUMP_SHOTS,,2019
+Reggie Jackson,202704,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2019
+Reggie Jackson,202704,Standard Layup,2,36,11,Layup Shot,LAYUPS,,2019
+Reggie Jackson,202704,Pullup Jump Shot,2,146,58,Pullup Jump shot,JUMP_SHOTS,,2019
+Reggie Jackson,202704,Reverse Layup,2,7,3,Reverse Layup Shot,LAYUPS,,2019
+Reggie Jackson,202704,Standard Dunk,2,5,5,Running Dunk Shot,DUNKS,,2019
+Reggie Jackson,202704,Finger Roll,2,3,3,Running Finger Roll Layup Shot,LAYUPS,,2019
+Reggie Jackson,202704,Running Jump Shot,2,4,3,Running Jump Shot,JUMP_SHOTS,,2019
+Reggie Jackson,202704,Standard Layup,2,9,6,Running Layup Shot,LAYUPS,,2019
+Reggie Jackson,202704,Running Jump Shot,2,8,5,Running Pull-Up Jump Shot,JUMP_SHOTS,,2019
+Reggie Jackson,202704,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2019
+Reggie Jackson,202704,Step Back Jump Shot,2,1,0,Step Back Bank Jump Shot,JUMP_SHOTS,,2019
+Reggie Jackson,202704,Step Back Jump Shot,2,50,20,Step Back Jump shot,JUMP_SHOTS,,2019
+Reggie Jackson,202704,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2019
+Reggie Jackson,202704,Putback Layup,2,2,1,Tip Layup Shot,LAYUPS,,2019
+Reggie Jackson,202704,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2019
+Reggie Jackson,202704,Turnaround Jump Shot,2,5,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2019
+Reggie Jackson,202704,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2019
+Reggie Jackson,202704,Turnaround Jump Shot,2,2,2,Turnaround Jump Shot,JUMP_SHOTS,,2019
+Reggie Jackson,202704,Standard Layup,2,2,2,Cutting Layup Shot,LAYUPS,,2020
+Reggie Jackson,202704,Driving Hook Shot,2,1,0,Driving Bank Hook Shot,POST_MOVES,,2020
+Reggie Jackson,202704,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2020
+Reggie Jackson,202704,Finger Roll,2,5,3,Driving Finger Roll Layup Shot,LAYUPS,,2020
+Reggie Jackson,202704,Floating Jump Shot,2,6,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2020
+Reggie Jackson,202704,Floating Jump Shot,2,43,20,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Reggie Jackson,202704,Driving Hook Shot,2,4,2,Driving Hook Shot,POST_MOVES,,2020
+Reggie Jackson,202704,Driving Layup,2,40,16,Driving Layup Shot,LAYUPS,,2020
+Reggie Jackson,202704,Driving Layup,2,7,2,Driving Reverse Layup Shot,LAYUPS,,2020
+Reggie Jackson,202704,Fadeaway Jump Shot,2,3,2,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+Reggie Jackson,202704,Floating Jump Shot,2,17,7,Floating Jump shot,FLOATING_SHOTS,,2020
+Reggie Jackson,202704,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2020
+Reggie Jackson,202704,Jump Shot,2,107,42,Jump Shot,JUMP_SHOTS,,2020
+Reggie Jackson,202704,Standard Layup,2,6,2,Layup Shot,LAYUPS,,2020
+Reggie Jackson,202704,Pullup Jump Shot,2,37,15,Pullup Jump shot,JUMP_SHOTS,,2020
+Reggie Jackson,202704,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2020
+Reggie Jackson,202704,Finger Roll,2,2,2,Running Finger Roll Layup Shot,LAYUPS,,2020
+Reggie Jackson,202704,Running Jump Shot,2,3,1,Running Jump Shot,JUMP_SHOTS,,2020
+Reggie Jackson,202704,Standard Layup,2,12,5,Running Layup Shot,LAYUPS,,2020
+Reggie Jackson,202704,Running Jump Shot,2,5,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2020
+Reggie Jackson,202704,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2020
+Reggie Jackson,202704,Step Back Jump Shot,2,11,5,Step Back Jump shot,JUMP_SHOTS,,2020
+Reggie Jackson,202704,Putback Layup,2,1,1,Tip Layup Shot,LAYUPS,,2020
+Reggie Jackson,202704,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2020
+Reggie Jackson,202704,Turnaround Jump Shot,2,4,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2020
+Reggie Jackson,202704,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2020
+Reggie Jackson,202704,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2020
+Reggie Jackson,202704,Standard Layup,2,2,2,Cutting Layup Shot,LAYUPS,,2021
+Reggie Jackson,202704,Driving Hook Shot,2,2,1,Driving Bank Hook Shot,POST_MOVES,,2021
+Reggie Jackson,202704,Driving Dunk,2,2,1,Driving Dunk Shot,DUNKS,,2021
+Reggie Jackson,202704,Finger Roll,2,12,8,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Reggie Jackson,202704,Floating Jump Shot,2,8,5,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2021
+Reggie Jackson,202704,Floating Jump Shot,2,55,21,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Reggie Jackson,202704,Driving Layup,2,64,34,Driving Layup Shot,LAYUPS,,2021
+Reggie Jackson,202704,Driving Layup,2,11,4,Driving Reverse Layup Shot,LAYUPS,,2021
+Reggie Jackson,202704,Fadeaway Jump Shot,2,4,2,Fadeaway Jump Shot,JUMP_SHOTS,,2021
+Reggie Jackson,202704,Floating Jump Shot,2,17,4,Floating Jump shot,FLOATING_SHOTS,,2021
+Reggie Jackson,202704,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2021
+Reggie Jackson,202704,Jump Shot,2,235,105,Jump Shot,JUMP_SHOTS,,2021
+Reggie Jackson,202704,Standard Layup,2,4,0,Layup Shot,LAYUPS,,2021
+Reggie Jackson,202704,Pullup Jump Shot,2,65,26,Pullup Jump shot,JUMP_SHOTS,,2021
+Reggie Jackson,202704,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2021
+Reggie Jackson,202704,Reverse Layup,2,7,4,Reverse Layup Shot,LAYUPS,,2021
+Reggie Jackson,202704,Standard Dunk,2,7,7,Running Dunk Shot,DUNKS,,2021
+Reggie Jackson,202704,Finger Roll,2,1,0,Running Finger Roll Layup Shot,LAYUPS,,2021
+Reggie Jackson,202704,Running Jump Shot,2,3,2,Running Jump Shot,JUMP_SHOTS,,2021
+Reggie Jackson,202704,Standard Layup,2,23,14,Running Layup Shot,LAYUPS,,2021
+Reggie Jackson,202704,Running Jump Shot,2,4,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2021
+Reggie Jackson,202704,Reverse Layup,2,2,1,Running Reverse Layup Shot,LAYUPS,,2021
+Reggie Jackson,202704,Step Back Jump Shot,2,1,0,Step Back Bank Jump Shot,JUMP_SHOTS,,2021
+Reggie Jackson,202704,Step Back Jump Shot,2,40,13,Step Back Jump shot,JUMP_SHOTS,,2021
+Reggie Jackson,202704,Putback Layup,2,6,2,Tip Layup Shot,LAYUPS,,2021
+Reggie Jackson,202704,Turnaround Jump Shot,2,3,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2021
+Reggie Jackson,202704,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2021
+Reggie Jackson,202704,Turnaround Jump Shot,2,4,2,Turnaround Jump Shot,JUMP_SHOTS,,2021
+Reggie Jackson,202704,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2022
+Reggie Jackson,202704,Finger Roll,2,3,3,Cutting Finger Roll Layup Shot,LAYUPS,,2022
+Reggie Jackson,202704,Standard Layup,2,10,8,Cutting Layup Shot,LAYUPS,,2022
+Reggie Jackson,202704,Driving Dunk,2,8,7,Driving Dunk Shot,DUNKS,,2022
+Reggie Jackson,202704,Finger Roll,2,32,21,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Reggie Jackson,202704,Floating Jump Shot,2,16,8,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Reggie Jackson,202704,Floating Jump Shot,2,139,61,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Reggie Jackson,202704,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,,2022
+Reggie Jackson,202704,Driving Layup,2,110,46,Driving Layup Shot,LAYUPS,,2022
+Reggie Jackson,202704,Driving Layup,2,21,12,Driving Reverse Layup Shot,LAYUPS,,2022
+Reggie Jackson,202704,Fadeaway Jump Shot,2,21,6,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Reggie Jackson,202704,Floating Jump Shot,2,29,18,Floating Jump shot,FLOATING_SHOTS,,2022
+Reggie Jackson,202704,Hook Shot,2,3,2,Hook Shot,POST_MOVES,,2022
+Reggie Jackson,202704,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2022
+Reggie Jackson,202704,Jump Shot,2,317,95,Jump Shot,JUMP_SHOTS,,2022
+Reggie Jackson,202704,Standard Layup,2,10,4,Layup Shot,LAYUPS,,2022
+Reggie Jackson,202704,Pullup Jump Shot,2,292,98,Pullup Jump shot,JUMP_SHOTS,,2022
+Reggie Jackson,202704,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2022
+Reggie Jackson,202704,Reverse Layup,2,7,5,Reverse Layup Shot,LAYUPS,,2022
+Reggie Jackson,202704,Alley Oop Layup,2,1,1,Running Alley Oop Layup Shot,LAYUPS,,2022
+Reggie Jackson,202704,Standard Dunk,2,3,1,Running Dunk Shot,DUNKS,,2022
+Reggie Jackson,202704,Finger Roll,2,5,3,Running Finger Roll Layup Shot,LAYUPS,,2022
+Reggie Jackson,202704,Running Jump Shot,2,20,5,Running Jump Shot,JUMP_SHOTS,,2022
+Reggie Jackson,202704,Standard Layup,2,26,17,Running Layup Shot,LAYUPS,,2022
+Reggie Jackson,202704,Running Jump Shot,2,20,6,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
+Reggie Jackson,202704,Reverse Layup,2,3,2,Running Reverse Layup Shot,LAYUPS,,2022
+Reggie Jackson,202704,Step Back Jump Shot,2,1,0,Step Back Bank Jump Shot,JUMP_SHOTS,,2022
+Reggie Jackson,202704,Step Back Jump Shot,2,93,40,Step Back Jump shot,JUMP_SHOTS,,2022
+Reggie Jackson,202704,Putback Layup,2,5,1,Tip Layup Shot,LAYUPS,,2022
+Reggie Jackson,202704,Turnaround Jump Shot,2,12,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2022
+Reggie Jackson,202704,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2022
+Reggie Jackson,202704,Turnaround Jump Shot,2,7,2,Turnaround Jump Shot,JUMP_SHOTS,,2022
+Reggie Jackson,202704,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2023
+Reggie Jackson,202704,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2023
+Reggie Jackson,202704,Driving Hook Shot,2,1,0,Driving Bank Hook Shot,POST_MOVES,,2023
+Reggie Jackson,202704,Finger Roll,2,15,12,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Reggie Jackson,202704,Floating Jump Shot,2,7,3,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+Reggie Jackson,202704,Floating Jump Shot,2,71,28,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Reggie Jackson,202704,Driving Hook Shot,2,11,5,Driving Hook Shot,POST_MOVES,,2023
+Reggie Jackson,202704,Driving Layup,2,61,29,Driving Layup Shot,LAYUPS,,2023
+Reggie Jackson,202704,Driving Layup,2,14,7,Driving Reverse Layup Shot,LAYUPS,,2023
+Reggie Jackson,202704,Fadeaway Jump Shot,2,1,0,Fadeaway Bank shot,JUMP_SHOTS,,2023
+Reggie Jackson,202704,Fadeaway Jump Shot,2,9,6,Fadeaway Jump Shot,JUMP_SHOTS,,2023
+Reggie Jackson,202704,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2023
+Reggie Jackson,202704,Floating Jump Shot,2,31,18,Floating Jump shot,FLOATING_SHOTS,,2023
+Reggie Jackson,202704,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2023
+Reggie Jackson,202704,Jump Shot,2,2,0,Jump Bank Shot,JUMP_SHOTS,,2023
+Reggie Jackson,202704,Jump Shot,2,205,82,Jump Shot,JUMP_SHOTS,,2023
+Reggie Jackson,202704,Standard Layup,2,4,0,Layup Shot,LAYUPS,,2023
+Reggie Jackson,202704,Pullup Jump Shot,2,102,32,Pullup Jump shot,JUMP_SHOTS,,2023
+Reggie Jackson,202704,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2023
+Reggie Jackson,202704,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2023
+Reggie Jackson,202704,Standard Dunk,2,4,4,Running Dunk Shot,DUNKS,,2023
+Reggie Jackson,202704,Running Jump Shot,2,18,6,Running Jump Shot,JUMP_SHOTS,,2023
+Reggie Jackson,202704,Standard Layup,2,16,11,Running Layup Shot,LAYUPS,,2023
+Reggie Jackson,202704,Running Jump Shot,2,8,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2023
+Reggie Jackson,202704,Reverse Layup,2,3,2,Running Reverse Layup Shot,LAYUPS,,2023
+Reggie Jackson,202704,Step Back Jump Shot,2,36,8,Step Back Jump shot,JUMP_SHOTS,,2023
+Reggie Jackson,202704,Putback Layup,2,6,2,Tip Layup Shot,LAYUPS,,2023
+Reggie Jackson,202704,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2023
+Reggie Jackson,202704,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2023
+Reggie Jackson,202704,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2023
+Reggie Jackson,202704,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2024
+Reggie Jackson,202704,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2024
+Reggie Jackson,202704,Finger Roll,2,3,2,Cutting Finger Roll Layup Shot,LAYUPS,,2024
+Reggie Jackson,202704,Standard Layup,2,15,13,Cutting Layup Shot,LAYUPS,,2024
+Reggie Jackson,202704,Driving Dunk,2,3,1,Driving Dunk Shot,DUNKS,,2024
+Reggie Jackson,202704,Finger Roll,2,50,29,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Reggie Jackson,202704,Floating Jump Shot,2,13,7,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Reggie Jackson,202704,Floating Jump Shot,2,82,35,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Reggie Jackson,202704,Driving Hook Shot,2,12,4,Driving Hook Shot,POST_MOVES,,2024
+Reggie Jackson,202704,Driving Layup,2,79,29,Driving Layup Shot,LAYUPS,,2024
+Reggie Jackson,202704,Driving Layup,2,23,14,Driving Reverse Layup Shot,LAYUPS,,2024
+Reggie Jackson,202704,Fadeaway Jump Shot,3,1,0,Fadeaway Bank shot,JUMP_SHOTS,,2024
+Reggie Jackson,202704,Fadeaway Jump Shot,2,14,4,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Reggie Jackson,202704,Fadeaway Jump Shot,3,4,0,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Reggie Jackson,202704,Floating Jump Shot,2,15,8,Floating Jump shot,FLOATING_SHOTS,,2024
+Reggie Jackson,202704,Floating Jump Shot,3,3,0,Floating Jump shot,FLOATING_SHOTS,,2024
+Reggie Jackson,202704,Jump Shot,2,6,3,Jump Shot,JUMP_SHOTS,,2024
+Reggie Jackson,202704,Jump Shot,3,162,65,Jump Shot,JUMP_SHOTS,,2024
+Reggie Jackson,202704,Standard Layup,2,9,4,Layup Shot,LAYUPS,,2024
+Reggie Jackson,202704,Pullup Jump Shot,2,75,34,Pullup Jump shot,JUMP_SHOTS,,2024
+Reggie Jackson,202704,Pullup Jump Shot,3,61,20,Pullup Jump shot,JUMP_SHOTS,,2024
+Reggie Jackson,202704,Putback Layup,2,3,2,Putback Layup Shot,LAYUPS,,2024
+Reggie Jackson,202704,Reverse Layup,2,4,1,Reverse Layup Shot,LAYUPS,,2024
+Reggie Jackson,202704,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2024
+Reggie Jackson,202704,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2024
+Reggie Jackson,202704,Running Jump Shot,3,18,6,Running Jump Shot,JUMP_SHOTS,,2024
+Reggie Jackson,202704,Standard Layup,2,15,8,Running Layup Shot,LAYUPS,,2024
+Reggie Jackson,202704,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Reggie Jackson,202704,Running Jump Shot,3,3,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Reggie Jackson,202704,Reverse Layup,2,4,3,Running Reverse Layup Shot,LAYUPS,,2024
+Reggie Jackson,202704,Step Back Jump Shot,2,1,0,Step Back Bank Jump Shot,JUMP_SHOTS,,2024
+Reggie Jackson,202704,Step Back Jump Shot,3,1,0,Step Back Bank Jump Shot,JUMP_SHOTS,,2024
+Reggie Jackson,202704,Step Back Jump Shot,2,18,6,Step Back Jump shot,JUMP_SHOTS,,2024
+Reggie Jackson,202704,Step Back Jump Shot,3,31,9,Step Back Jump shot,JUMP_SHOTS,,2024
+Reggie Jackson,202704,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2024
+Reggie Jackson,202704,Putback Layup,2,4,0,Tip Layup Shot,LAYUPS,,2024
+Reggie Jackson,202704,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2024
+Reggie Jackson,202704,Turnaround Jump Shot,2,9,5,Turnaround Fadeaway shot,JUMP_SHOTS,,2024
+Reggie Jackson,202704,Turnaround Hook Shot,2,3,2,Turnaround Hook Shot,POST_MOVES,,2024
+Reggie Jackson,202704,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2024
+Reggie Jackson,202704,Finger Roll,2,2,1,Cutting Finger Roll Layup Shot,LAYUPS,,2025
+Reggie Jackson,202704,Finger Roll,2,5,3,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Reggie Jackson,202704,Floating Jump Shot,2,3,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2025
+Reggie Jackson,202704,Floating Jump Shot,2,6,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Reggie Jackson,202704,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2025
+Reggie Jackson,202704,Driving Layup,2,3,2,Driving Layup Shot,LAYUPS,,2025
+Reggie Jackson,202704,Fadeaway Jump Shot,2,1,0,Fadeaway Bank shot,JUMP_SHOTS,,2025
+Reggie Jackson,202704,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2025
+Reggie Jackson,202704,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2025
+Reggie Jackson,202704,Jump Shot,3,38,13,Jump Shot,JUMP_SHOTS,,2025
+Reggie Jackson,202704,Pullup Jump Shot,2,6,2,Pullup Jump shot,JUMP_SHOTS,,2025
+Reggie Jackson,202704,Pullup Jump Shot,3,8,3,Pullup Jump shot,JUMP_SHOTS,,2025
+Reggie Jackson,202704,Running Jump Shot,3,4,2,Running Jump Shot,JUMP_SHOTS,,2025
+Reggie Jackson,202704,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2025
+Reggie Jackson,202704,Running Jump Shot,3,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025
+Reggie Jackson,202704,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2025
+Reggie Jackson,202704,Step Back Jump Shot,3,3,1,Step Back Jump shot,JUMP_SHOTS,,2025
+Reggie Jackson,202704,Putback Layup,2,2,1,Tip Layup Shot,LAYUPS,,2025

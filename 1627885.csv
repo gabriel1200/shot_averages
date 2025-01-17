@@ -1,47 +1,130 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1627885,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2018
-1627885,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2018
-1627885,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2019
-1627885,Floating Jump Shot,2PT Field Goal,2,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2019
-1627885,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2019
-1627885,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2019
-1627885,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2019
-1627885,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2019
-1627885,Finger Roll,2PT Field Goal,1,1,Running Finger Roll Layup Shot,LAYUPS,1.0,2019
-1627885,Standard Layup,2PT Field Goal,2,2,Running Layup Shot,LAYUPS,1.0,2019
-1627885,Driving Layup,2PT Field Goal,2,0,Driving Layup Shot,LAYUPS,0.0,2020
-1627885,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2020
-1627885,Jump Shot,3PT Field Goal,5,1,Jump Shot,JUMP_SHOTS,0.3,2020
-1627885,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2020
-1627885,Putback Layup,2PT Field Goal,1,1,Tip Layup Shot,LAYUPS,1.0,2020
-1627885,Standard Layup,2PT Field Goal,3,1,Cutting Layup Shot,LAYUPS,0.3333333333333333,2021
-1627885,Finger Roll,2PT Field Goal,2,1,Driving Finger Roll Layup Shot,LAYUPS,0.5,2021
-1627885,Floating Jump Shot,2PT Field Goal,5,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2021
-1627885,Driving Layup,2PT Field Goal,5,1,Driving Layup Shot,LAYUPS,0.2,2021
-1627885,Driving Layup,2PT Field Goal,2,1,Driving Reverse Layup Shot,LAYUPS,0.5,2021
-1627885,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2021
-1627885,Jump Shot,2PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,2021
-1627885,Jump Shot,3PT Field Goal,11,3,Jump Shot,JUMP_SHOTS,0.4090909090909091,2021
-1627885,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2021
-1627885,Pullup Jump Shot,2PT Field Goal,3,2,Pullup Jump shot,JUMP_SHOTS,0.6666666666666666,2021
-1627885,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2021
-1627885,Standard Layup,2PT Field Goal,3,2,Running Layup Shot,LAYUPS,0.6666666666666666,2021
-1627885,Reverse Layup,2PT Field Goal,1,1,Running Reverse Layup Shot,LAYUPS,1.0,2021
-1627885,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2023
-1627885,Finger Roll,2PT Field Goal,2,1,Driving Finger Roll Layup Shot,LAYUPS,0.5,2023
-1627885,Floating Jump Shot,2PT Field Goal,2,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.5,2023
-1627885,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2023
-1627885,Driving Layup,2PT Field Goal,6,3,Driving Layup Shot,LAYUPS,0.5,2023
-1627885,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2023
-1627885,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2023
-1627885,Finger Roll,2PT Field Goal,1,0,Finger Roll Layup Shot,LAYUPS,0.0,2023
-1627885,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2023
-1627885,Jump Shot,3PT Field Goal,4,1,Jump Shot,JUMP_SHOTS,0.375,2023
-1627885,Pullup Jump Shot,3PT Field Goal,4,1,Pullup Jump shot,JUMP_SHOTS,0.375,2023
-1627885,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2023
-1627885,Running Jump Shot,3PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.5,2023
-1627885,Standard Layup,2PT Field Goal,4,2,Running Layup Shot,LAYUPS,0.5,2023
-1627885,Step Back Jump Shot,2PT Field Goal,5,1,Step Back Jump shot,JUMP_SHOTS,0.2,2023
-1627885,Step Back Jump Shot,3PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2023
-1627885,Standard Layup,2PT Field Goal,1,0,Cutting Layup Shot,LAYUPS,0.0,2024
-1627885,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Shaquille Harrison,1627885,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2018
+Shaquille Harrison,1627885,Standard Layup,2,6,4,Cutting Layup Shot,LAYUPS,,2018
+Shaquille Harrison,1627885,Driving Dunk,2,3,2,Driving Dunk Shot,DUNKS,,2018
+Shaquille Harrison,1627885,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Shaquille Harrison,1627885,Floating Jump Shot,2,3,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Shaquille Harrison,1627885,Floating Jump Shot,2,3,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Shaquille Harrison,1627885,Driving Layup,2,30,13,Driving Layup Shot,LAYUPS,,2018
+Shaquille Harrison,1627885,Driving Layup,2,7,4,Driving Reverse Layup Shot,LAYUPS,,2018
+Shaquille Harrison,1627885,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2018
+Shaquille Harrison,1627885,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+Shaquille Harrison,1627885,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2018
+Shaquille Harrison,1627885,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2018
+Shaquille Harrison,1627885,Jump Shot,2,20,4,Jump Shot,JUMP_SHOTS,,2018
+Shaquille Harrison,1627885,Standard Layup,2,7,2,Layup Shot,LAYUPS,,2018
+Shaquille Harrison,1627885,Pullup Jump Shot,2,2,0,Pullup Jump shot,JUMP_SHOTS,,2018
+Shaquille Harrison,1627885,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2018
+Shaquille Harrison,1627885,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2018
+Shaquille Harrison,1627885,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2018
+Shaquille Harrison,1627885,Finger Roll,2,2,2,Running Finger Roll Layup Shot,LAYUPS,,2018
+Shaquille Harrison,1627885,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2018
+Shaquille Harrison,1627885,Standard Layup,2,18,10,Running Layup Shot,LAYUPS,,2018
+Shaquille Harrison,1627885,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2018
+Shaquille Harrison,1627885,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2018
+Shaquille Harrison,1627885,Putback Layup,2,2,0,Tip Layup Shot,LAYUPS,,2018
+Shaquille Harrison,1627885,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2018
+Shaquille Harrison,1627885,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2019
+Shaquille Harrison,1627885,Specialty Dunk,2,3,2,Cutting Dunk Shot,DUNKS,,2019
+Shaquille Harrison,1627885,Finger Roll,2,2,2,Cutting Finger Roll Layup Shot,LAYUPS,,2019
+Shaquille Harrison,1627885,Standard Layup,2,8,5,Cutting Layup Shot,LAYUPS,,2019
+Shaquille Harrison,1627885,Driving Hook Shot,2,1,0,Driving Bank Hook Shot,POST_MOVES,,2019
+Shaquille Harrison,1627885,Driving Dunk,2,5,4,Driving Dunk Shot,DUNKS,,2019
+Shaquille Harrison,1627885,Finger Roll,2,11,9,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Shaquille Harrison,1627885,Floating Jump Shot,2,7,3,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Shaquille Harrison,1627885,Floating Jump Shot,2,15,4,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Shaquille Harrison,1627885,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2019
+Shaquille Harrison,1627885,Driving Layup,2,128,60,Driving Layup Shot,LAYUPS,,2019
+Shaquille Harrison,1627885,Driving Layup,2,23,11,Driving Reverse Layup Shot,LAYUPS,,2019
+Shaquille Harrison,1627885,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+Shaquille Harrison,1627885,Floating Jump Shot,2,6,2,Floating Jump shot,FLOATING_SHOTS,,2019
+Shaquille Harrison,1627885,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2019
+Shaquille Harrison,1627885,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2019
+Shaquille Harrison,1627885,Jump Shot,3,1,1,Jump Bank Shot,JUMP_SHOTS,,2019
+Shaquille Harrison,1627885,Jump Shot,2,93,26,Jump Shot,JUMP_SHOTS,,2019
+Shaquille Harrison,1627885,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,2019
+Shaquille Harrison,1627885,Standard Layup,2,30,9,Layup Shot,LAYUPS,,2019
+Shaquille Harrison,1627885,Pullup Jump Shot,2,18,4,Pullup Jump shot,JUMP_SHOTS,,2019
+Shaquille Harrison,1627885,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2019
+Shaquille Harrison,1627885,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2019
+Shaquille Harrison,1627885,Reverse Layup,2,8,4,Reverse Layup Shot,LAYUPS,,2019
+Shaquille Harrison,1627885,Standard Dunk,2,5,5,Running Dunk Shot,DUNKS,,2019
+Shaquille Harrison,1627885,Finger Roll,2,3,3,Running Finger Roll Layup Shot,LAYUPS,,2019
+Shaquille Harrison,1627885,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2019
+Shaquille Harrison,1627885,Standard Layup,2,26,17,Running Layup Shot,LAYUPS,,2019
+Shaquille Harrison,1627885,Reverse Dunk,2,1,1,Running Reverse Dunk Shot,DUNKS,,2019
+Shaquille Harrison,1627885,Reverse Layup,2,3,3,Running Reverse Layup Shot,LAYUPS,,2019
+Shaquille Harrison,1627885,Step Back Jump Shot,2,3,0,Step Back Jump shot,JUMP_SHOTS,,2019
+Shaquille Harrison,1627885,Putback Layup,2,7,2,Tip Layup Shot,LAYUPS,,2019
+Shaquille Harrison,1627885,Turnaround Jump Shot,2,6,3,Turnaround Jump Shot,JUMP_SHOTS,,2019
+Shaquille Harrison,1627885,Standard Layup,2,3,3,Cutting Layup Shot,LAYUPS,,2020
+Shaquille Harrison,1627885,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2020
+Shaquille Harrison,1627885,Finger Roll,2,6,5,Driving Finger Roll Layup Shot,LAYUPS,,2020
+Shaquille Harrison,1627885,Floating Jump Shot,2,2,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2020
+Shaquille Harrison,1627885,Floating Jump Shot,2,8,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Shaquille Harrison,1627885,Driving Layup,2,42,17,Driving Layup Shot,LAYUPS,,2020
+Shaquille Harrison,1627885,Driving Layup,2,6,2,Driving Reverse Layup Shot,LAYUPS,,2020
+Shaquille Harrison,1627885,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+Shaquille Harrison,1627885,Floating Jump Shot,2,5,3,Floating Jump shot,FLOATING_SHOTS,,2020
+Shaquille Harrison,1627885,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2020
+Shaquille Harrison,1627885,Jump Shot,2,20,5,Jump Shot,JUMP_SHOTS,,2020
+Shaquille Harrison,1627885,Jump Shot,3,18,9,Jump Shot,JUMP_SHOTS,,2020
+Shaquille Harrison,1627885,Standard Layup,2,16,7,Layup Shot,LAYUPS,,2020
+Shaquille Harrison,1627885,Pullup Jump Shot,2,6,2,Pullup Jump shot,JUMP_SHOTS,,2020
+Shaquille Harrison,1627885,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2020
+Shaquille Harrison,1627885,Putback Layup,2,3,3,Putback Layup Shot,LAYUPS,,2020
+Shaquille Harrison,1627885,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2020
+Shaquille Harrison,1627885,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2020
+Shaquille Harrison,1627885,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2020
+Shaquille Harrison,1627885,Finger Roll,2,2,1,Running Finger Roll Layup Shot,LAYUPS,,2020
+Shaquille Harrison,1627885,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2020
+Shaquille Harrison,1627885,Standard Layup,2,8,3,Running Layup Shot,LAYUPS,,2020
+Shaquille Harrison,1627885,Reverse Dunk,2,1,1,Running Reverse Dunk Shot,DUNKS,,2020
+Shaquille Harrison,1627885,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2020
+Shaquille Harrison,1627885,Step Back Jump Shot,3,1,1,Step Back Jump shot,JUMP_SHOTS,,2020
+Shaquille Harrison,1627885,Putback Layup,2,4,2,Tip Layup Shot,LAYUPS,,2020
+Shaquille Harrison,1627885,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2020
+Shaquille Harrison,1627885,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2020
+Shaquille Harrison,1627885,Standard Layup,2,5,2,Cutting Layup Shot,LAYUPS,,2021
+Shaquille Harrison,1627885,Finger Roll,2,4,3,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Shaquille Harrison,1627885,Floating Jump Shot,2,9,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Shaquille Harrison,1627885,Driving Layup,2,12,2,Driving Layup Shot,LAYUPS,,2021
+Shaquille Harrison,1627885,Driving Layup,2,3,1,Driving Reverse Layup Shot,LAYUPS,,2021
+Shaquille Harrison,1627885,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2021
+Shaquille Harrison,1627885,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2021
+Shaquille Harrison,1627885,Jump Shot,2,6,0,Jump Shot,JUMP_SHOTS,,2021
+Shaquille Harrison,1627885,Jump Shot,3,13,3,Jump Shot,JUMP_SHOTS,,2021
+Shaquille Harrison,1627885,Standard Layup,2,4,2,Layup Shot,LAYUPS,,2021
+Shaquille Harrison,1627885,Pullup Jump Shot,2,5,3,Pullup Jump shot,JUMP_SHOTS,,2021
+Shaquille Harrison,1627885,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2021
+Shaquille Harrison,1627885,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2021
+Shaquille Harrison,1627885,Finger Roll,2,2,2,Running Finger Roll Layup Shot,LAYUPS,,2021
+Shaquille Harrison,1627885,Standard Layup,2,6,4,Running Layup Shot,LAYUPS,,2021
+Shaquille Harrison,1627885,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2021
+Shaquille Harrison,1627885,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2021
+Shaquille Harrison,1627885,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2021
+Shaquille Harrison,1627885,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2021
+Shaquille Harrison,1627885,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2021
+Shaquille Harrison,1627885,Standard Layup,2,1,0,Cutting Layup Shot,LAYUPS,,2022
+Shaquille Harrison,1627885,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Shaquille Harrison,1627885,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2022
+Shaquille Harrison,1627885,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,2022
+Shaquille Harrison,1627885,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2022
+Shaquille Harrison,1627885,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2023
+Shaquille Harrison,1627885,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Shaquille Harrison,1627885,Floating Jump Shot,2,2,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+Shaquille Harrison,1627885,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2023
+Shaquille Harrison,1627885,Driving Layup,2,6,3,Driving Layup Shot,LAYUPS,,2023
+Shaquille Harrison,1627885,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2023
+Shaquille Harrison,1627885,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2023
+Shaquille Harrison,1627885,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2023
+Shaquille Harrison,1627885,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2023
+Shaquille Harrison,1627885,Jump Shot,3,4,1,Jump Shot,JUMP_SHOTS,,2023
+Shaquille Harrison,1627885,Pullup Jump Shot,3,4,1,Pullup Jump shot,JUMP_SHOTS,,2023
+Shaquille Harrison,1627885,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2023
+Shaquille Harrison,1627885,Running Jump Shot,3,1,1,Running Jump Shot,JUMP_SHOTS,,2023
+Shaquille Harrison,1627885,Standard Layup,2,4,2,Running Layup Shot,LAYUPS,,2023
+Shaquille Harrison,1627885,Step Back Jump Shot,2,5,1,Step Back Jump shot,JUMP_SHOTS,,2023
+Shaquille Harrison,1627885,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2023
+Shaquille Harrison,1627885,Standard Layup,2,1,0,Cutting Layup Shot,LAYUPS,,2024
+Shaquille Harrison,1627885,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2024

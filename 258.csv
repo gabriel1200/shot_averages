@@ -1,23 +1,122 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-258,Jump Shot,2PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,1997
-258,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,1997
-258,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,1998
-258,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,1998
-258,Standard Dunk,2PT Field Goal,11,11,Dunk Shot,DUNKS,1.0,1998
-258,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,1998
-258,Jump Shot,2PT Field Goal,77,37,Jump Shot,JUMP_SHOTS,0.4805194805194805,1998
-258,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1998
-258,Standard Layup,2PT Field Goal,70,29,Layup Shot,LAYUPS,0.4142857142857143,1998
-258,Standard Dunk,2PT Field Goal,5,5,Slam Dunk Shot,DUNKS,1.0,1998
-258,Tip Shot,2PT Field Goal,8,3,Tip Shot,TIP_SHOTS,0.375,1998
-258,Driving Layup,2PT Field Goal,4,2,Driving Layup Shot,LAYUPS,0.5,1999
-258,Standard Dunk,2PT Field Goal,8,6,Dunk Shot,DUNKS,0.75,1999
-258,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,1999
-258,Jump Shot,2PT Field Goal,78,30,Jump Shot,JUMP_SHOTS,0.3846153846153846,1999
-258,Standard Layup,2PT Field Goal,47,25,Layup Shot,LAYUPS,0.5319148936170213,1999
-258,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,1999
-258,Standard Dunk,2PT Field Goal,5,5,Slam Dunk Shot,DUNKS,1.0,1999
-258,Tip Shot,2PT Field Goal,5,1,Tip Shot,TIP_SHOTS,0.2,1999
-258,Jump Shot,2PT Field Goal,6,1,Jump Shot,JUMP_SHOTS,0.1666666666666666,2000
-258,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2000
-258,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2002
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Brian Grant,258,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,1997
+Brian Grant,258,Driving Layup,2,4,3,Driving Layup Shot,LAYUPS,,1997
+Brian Grant,258,Standard Dunk,2,10,9,Dunk Shot,DUNKS,,1997
+Brian Grant,258,Hook Shot,2,7,4,Hook Shot,POST_MOVES,,1997
+Brian Grant,258,Jump Shot,2,113,41,Jump Shot,JUMP_SHOTS,,1997
+Brian Grant,258,Standard Layup,2,60,24,Layup Shot,LAYUPS,,1997
+Brian Grant,258,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,1997
+Brian Grant,258,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,1997
+Brian Grant,258,Tip Shot,2,5,3,Tip Shot,TIP_SHOTS,,1997
+Brian Grant,258,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,1998
+Brian Grant,258,Driving Layup,2,9,6,Driving Layup Shot,LAYUPS,,1998
+Brian Grant,258,Standard Dunk,2,34,34,Dunk Shot,DUNKS,,1998
+Brian Grant,258,Hook Shot,2,5,3,Hook Shot,POST_MOVES,,1998
+Brian Grant,258,Jump Shot,2,280,122,Jump Shot,JUMP_SHOTS,,1998
+Brian Grant,258,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,1998
+Brian Grant,258,Standard Layup,2,187,93,Layup Shot,LAYUPS,,1998
+Brian Grant,258,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,1998
+Brian Grant,258,Standard Dunk,2,15,15,Slam Dunk Shot,DUNKS,,1998
+Brian Grant,258,Tip Shot,2,23,7,Tip Shot,TIP_SHOTS,,1998
+Brian Grant,258,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,1999
+Brian Grant,258,Driving Layup,2,7,5,Driving Layup Shot,LAYUPS,,1999
+Brian Grant,258,Standard Dunk,2,29,26,Dunk Shot,DUNKS,,1999
+Brian Grant,258,Hook Shot,2,4,1,Hook Shot,POST_MOVES,,1999
+Brian Grant,258,Jump Shot,2,174,55,Jump Shot,JUMP_SHOTS,,1999
+Brian Grant,258,Standard Layup,2,131,76,Layup Shot,LAYUPS,,1999
+Brian Grant,258,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,1999
+Brian Grant,258,Standard Dunk,2,15,14,Slam Dunk Shot,DUNKS,,1999
+Brian Grant,258,Tip Shot,2,20,4,Tip Shot,TIP_SHOTS,,1999
+Brian Grant,258,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2000
+Brian Grant,258,Driving Layup,2,2,1,Driving Layup Shot,LAYUPS,,2000
+Brian Grant,258,Standard Dunk,2,17,15,Dunk Shot,DUNKS,,2000
+Brian Grant,258,Hook Shot,2,12,6,Hook Shot,POST_MOVES,,2000
+Brian Grant,258,Jump Shot,2,179,66,Jump Shot,JUMP_SHOTS,,2000
+Brian Grant,258,Standard Layup,2,118,67,Layup Shot,LAYUPS,,2000
+Brian Grant,258,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,2000
+Brian Grant,258,Standard Dunk,2,10,10,Slam Dunk Shot,DUNKS,,2000
+Brian Grant,258,Tip Shot,2,11,5,Tip Shot,TIP_SHOTS,,2000
+Brian Grant,258,Alley Oop Dunk,2,5,5,Alley Oop Dunk Shot,DUNKS,,2001
+Brian Grant,258,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2001
+Brian Grant,258,Driving Dunk,2,7,7,Driving Dunk Shot,DUNKS,,2001
+Brian Grant,258,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2001
+Brian Grant,258,Driving Layup,2,37,20,Driving Layup Shot,LAYUPS,,2001
+Brian Grant,258,Standard Dunk,2,61,44,Dunk Shot,DUNKS,,2001
+Brian Grant,258,Finger Roll,2,3,2,Finger Roll Shot,LAYUPS,,2001
+Brian Grant,258,Hook Shot,2,44,18,Hook Shot,POST_MOVES,,2001
+Brian Grant,258,Jump Shot,2,582,237,Jump Shot,JUMP_SHOTS,,2001
+Brian Grant,258,Standard Layup,2,209,113,Layup Shot,LAYUPS,,2001
+Brian Grant,258,Reverse Dunk,2,1,0,Reverse Dunk Shot,DUNKS,,2001
+Brian Grant,258,Reverse Layup,2,8,4,Reverse Layup Shot,LAYUPS,,2001
+Brian Grant,258,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2001
+Brian Grant,258,Running Jump Shot,2,3,0,Running Jump Shot,JUMP_SHOTS,,2001
+Brian Grant,258,Standard Layup,2,4,3,Running Layup Shot,LAYUPS,,2001
+Brian Grant,258,Standard Dunk,2,15,15,Slam Dunk Shot,DUNKS,,2001
+Brian Grant,258,Tip Shot,2,20,9,Tip Shot,TIP_SHOTS,,2001
+Brian Grant,258,Turnaround Jump Shot,2,8,4,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Brian Grant,258,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2002
+Brian Grant,258,Driving Layup,2,14,5,Driving Layup Shot,LAYUPS,,2002
+Brian Grant,258,Standard Dunk,2,29,25,Dunk Shot,DUNKS,,2002
+Brian Grant,258,Fadeaway Jump Shot,2,3,2,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Brian Grant,258,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2002
+Brian Grant,258,Hook Shot,2,28,9,Hook Shot,POST_MOVES,,2002
+Brian Grant,258,Hook Shot,2,5,2,Jump Hook Shot,POST_MOVES,,2002
+Brian Grant,258,Jump Shot,2,393,170,Jump Shot,JUMP_SHOTS,,2002
+Brian Grant,258,Standard Layup,2,102,53,Layup Shot,LAYUPS,,2002
+Brian Grant,258,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2002
+Brian Grant,258,Reverse Layup,2,4,1,Reverse Layup Shot,LAYUPS,,2002
+Brian Grant,258,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2002
+Brian Grant,258,Running Jump Shot,2,3,2,Running Jump Shot,JUMP_SHOTS,,2002
+Brian Grant,258,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2002
+Brian Grant,258,Tip Shot,2,13,6,Tip Shot,TIP_SHOTS,,2002
+Brian Grant,258,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2002
+Brian Grant,258,Turnaround Jump Shot,2,8,3,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Brian Grant,258,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2003
+Brian Grant,258,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2003
+Brian Grant,258,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2003
+Brian Grant,258,Driving Layup,2,11,7,Driving Layup Shot,LAYUPS,,2003
+Brian Grant,258,Standard Dunk,2,36,28,Dunk Shot,DUNKS,,2003
+Brian Grant,258,Fadeaway Jump Shot,2,4,3,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Brian Grant,258,Hook Shot,2,12,4,Hook Shot,POST_MOVES,,2003
+Brian Grant,258,Jump Shot,2,391,161,Jump Shot,JUMP_SHOTS,,2003
+Brian Grant,258,Standard Layup,2,162,105,Layup Shot,LAYUPS,,2003
+Brian Grant,258,Reverse Layup,2,13,6,Reverse Layup Shot,LAYUPS,,2003
+Brian Grant,258,Finger Roll,2,1,1,Running Finger Roll Shot,LAYUPS,,2003
+Brian Grant,258,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2003
+Brian Grant,258,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2003
+Brian Grant,258,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2003
+Brian Grant,258,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,2003
+Brian Grant,258,Tip Shot,2,12,6,Tip Shot,TIP_SHOTS,,2003
+Brian Grant,258,Turnaround Jump Shot,2,22,13,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Brian Grant,258,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2004
+Brian Grant,258,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2004
+Brian Grant,258,Driving Layup,2,7,7,Driving Layup Shot,LAYUPS,,2004
+Brian Grant,258,Standard Dunk,2,29,24,Dunk Shot,DUNKS,,2004
+Brian Grant,258,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Brian Grant,258,Hook Shot,2,8,2,Hook Shot,POST_MOVES,,2004
+Brian Grant,258,Jump Shot,2,4,3,Jump Bank Shot,JUMP_SHOTS,,2004
+Brian Grant,258,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2004
+Brian Grant,258,Jump Shot,2,411,175,Jump Shot,JUMP_SHOTS,,2004
+Brian Grant,258,Standard Layup,2,108,55,Layup Shot,LAYUPS,,2004
+Brian Grant,258,Reverse Layup,2,6,1,Reverse Layup Shot,LAYUPS,,2004
+Brian Grant,258,Standard Dunk,2,1,0,Running Dunk Shot,DUNKS,,2004
+Brian Grant,258,Running Jump Shot,2,3,1,Running Jump Shot,JUMP_SHOTS,,2004
+Brian Grant,258,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2004
+Brian Grant,258,Tip Shot,2,23,13,Tip Shot,TIP_SHOTS,,2004
+Brian Grant,258,Turnaround Jump Shot,2,6,2,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Brian Grant,258,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,2005
+Brian Grant,258,Standard Dunk,2,6,4,Dunk Shot,DUNKS,,2005
+Brian Grant,258,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2005
+Brian Grant,258,Jump Shot,2,113,51,Jump Shot,JUMP_SHOTS,,2005
+Brian Grant,258,Standard Layup,2,66,32,Layup Shot,LAYUPS,,2005
+Brian Grant,258,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2005
+Brian Grant,258,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2005
+Brian Grant,258,Tip Shot,2,12,7,Tip Shot,TIP_SHOTS,,2005
+Brian Grant,258,Turnaround Jump Shot,2,3,2,Turnaround Jump Shot,JUMP_SHOTS,,2005
+Brian Grant,258,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2006
+Brian Grant,258,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2006
+Brian Grant,258,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2006
+Brian Grant,258,Jump Shot,2,50,18,Jump Shot,JUMP_SHOTS,,2006
+Brian Grant,258,Standard Layup,2,9,5,Layup Shot,LAYUPS,,2006
+Brian Grant,258,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2006
+Brian Grant,258,Tip Shot,2,2,0,Tip Shot,TIP_SHOTS,,2006

@@ -1,8 +1,12 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1061,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,1998
-1061,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1998
-1061,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,1998
-1061,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,1999
-1061,Jump Shot,2PT Field Goal,4,0,Jump Shot,JUMP_SHOTS,0.0,1999
-1061,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,1999
-1061,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,1999
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+William Cunningham,1061,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,1998
+William Cunningham,1061,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,1998
+William Cunningham,1061,Jump Shot,2,3,0,Jump Shot,JUMP_SHOTS,,1998
+William Cunningham,1061,Standard Layup,2,1,0,Layup Shot,LAYUPS,,1998
+William Cunningham,1061,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,1998
+William Cunningham,1061,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,1999
+William Cunningham,1061,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,1999
+William Cunningham,1061,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,1999
+William Cunningham,1061,Jump Shot,2,9,1,Jump Shot,JUMP_SHOTS,,1999
+William Cunningham,1061,Standard Layup,2,4,1,Layup Shot,LAYUPS,,1999
+William Cunningham,1061,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,1999

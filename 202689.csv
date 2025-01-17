@@ -1,12 +1,277 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-202689,Driving Jump Shot,2PT Field Goal,1,1,Driving Jump shot,JUMP_SHOTS,1.0,2013
-202689,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2014
-202689,Finger Roll,2PT Field Goal,1,0,Driving Finger Roll Layup Shot,LAYUPS,0.0,2022
-202689,Driving Layup,2PT Field Goal,2,2,Driving Layup Shot,LAYUPS,1.0,2022
-202689,Jump Shot,3PT Field Goal,2,2,Jump Shot,JUMP_SHOTS,1.5,2022
-202689,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2022
-202689,Pullup Jump Shot,3PT Field Goal,4,1,Pullup Jump shot,JUMP_SHOTS,0.375,2022
-202689,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Jump Shot,FLOATING_SHOTS,1.0,2023
-202689,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2023
-202689,Pullup Jump Shot,2PT Field Goal,2,1,Pullup Jump shot,JUMP_SHOTS,0.5,2023
-202689,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2023
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Kemba Walker,202689,Driving Jump Shot,2,1,0,Driving Bank shot,JUMP_SHOTS,,2012
+Kemba Walker,202689,Finger Roll,2,3,3,Driving Finger Roll Layup Shot,LAYUPS,,2012
+Kemba Walker,202689,Driving Jump Shot,2,7,3,Driving Jump shot,JUMP_SHOTS,,2012
+Kemba Walker,202689,Driving Layup,2,63,36,Driving Layup Shot,LAYUPS,,2012
+Kemba Walker,202689,Driving Layup,2,12,7,Driving Reverse Layup Shot,LAYUPS,,2012
+Kemba Walker,202689,Fadeaway Jump Shot,2,5,1,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Kemba Walker,202689,Floating Jump Shot,2,8,4,Floating Jump shot,FLOATING_SHOTS,,2012
+Kemba Walker,202689,Jump Shot,2,5,4,Jump Bank Shot,JUMP_SHOTS,,2012
+Kemba Walker,202689,Jump Shot,2,523,159,Jump Shot,JUMP_SHOTS,,2012
+Kemba Walker,202689,Standard Layup,2,76,28,Layup Shot,LAYUPS,,2012
+Kemba Walker,202689,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2012
+Kemba Walker,202689,Pullup Jump Shot,2,29,18,Pullup Jump shot,JUMP_SHOTS,,2012
+Kemba Walker,202689,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2012
+Kemba Walker,202689,Reverse Layup,2,8,4,Reverse Layup Shot,LAYUPS,,2012
+Kemba Walker,202689,Running Jump Shot,2,3,2,Running Bank shot,JUMP_SHOTS,,2012
+Kemba Walker,202689,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2012
+Kemba Walker,202689,Running Jump Shot,2,7,2,Running Jump Shot,JUMP_SHOTS,,2012
+Kemba Walker,202689,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2012
+Kemba Walker,202689,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2012
+Kemba Walker,202689,Step Back Jump Shot,2,3,1,Step Back Jump shot,JUMP_SHOTS,,2012
+Kemba Walker,202689,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2012
+Kemba Walker,202689,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2012
+Kemba Walker,202689,Turnaround Jump Shot,2,6,3,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Kemba Walker,202689,Finger Roll,2,9,9,Driving Finger Roll Layup Shot,LAYUPS,,2013
+Kemba Walker,202689,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2013
+Kemba Walker,202689,Driving Jump Shot,2,15,7,Driving Jump shot,JUMP_SHOTS,,2013
+Kemba Walker,202689,Driving Layup,2,159,116,Driving Layup Shot,LAYUPS,,2013
+Kemba Walker,202689,Driving Layup,2,3,1,Driving Reverse Layup Shot,LAYUPS,,2013
+Kemba Walker,202689,Standard Dunk,2,5,5,Dunk Shot,DUNKS,,2013
+Kemba Walker,202689,Fadeaway Jump Shot,2,12,5,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Kemba Walker,202689,Finger Roll,2,3,3,Finger Roll Layup Shot,LAYUPS,,2013
+Kemba Walker,202689,Floating Jump Shot,2,33,16,Floating Jump shot,FLOATING_SHOTS,,2013
+Kemba Walker,202689,Jump Shot,2,5,3,Jump Bank Shot,JUMP_SHOTS,,2013
+Kemba Walker,202689,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2013
+Kemba Walker,202689,Jump Shot,2,660,210,Jump Shot,JUMP_SHOTS,,2013
+Kemba Walker,202689,Standard Layup,2,183,67,Layup Shot,LAYUPS,,2013
+Kemba Walker,202689,Pullup Jump Shot,2,4,2,Pullup Bank shot,JUMP_SHOTS,,2013
+Kemba Walker,202689,Pullup Jump Shot,2,88,55,Pullup Jump shot,JUMP_SHOTS,,2013
+Kemba Walker,202689,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2013
+Kemba Walker,202689,Reverse Layup,2,7,2,Reverse Layup Shot,LAYUPS,,2013
+Kemba Walker,202689,Running Jump Shot,2,2,1,Running Bank shot,JUMP_SHOTS,,2013
+Kemba Walker,202689,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2013
+Kemba Walker,202689,Running Jump Shot,2,19,5,Running Jump Shot,JUMP_SHOTS,,2013
+Kemba Walker,202689,Standard Layup,2,6,3,Running Layup Shot,LAYUPS,,2013
+Kemba Walker,202689,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2013
+Kemba Walker,202689,Step Back Jump Shot,2,19,11,Step Back Jump shot,JUMP_SHOTS,,2013
+Kemba Walker,202689,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,,2013
+Kemba Walker,202689,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2013
+Kemba Walker,202689,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Kemba Walker,202689,Finger Roll,2,11,9,Driving Finger Roll Layup Shot,LAYUPS,,2014
+Kemba Walker,202689,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2014
+Kemba Walker,202689,Driving Jump Shot,2,17,8,Driving Jump shot,JUMP_SHOTS,,2014
+Kemba Walker,202689,Driving Layup,2,98,68,Driving Layup Shot,LAYUPS,,2014
+Kemba Walker,202689,Driving Layup,2,6,4,Driving Reverse Layup Shot,LAYUPS,,2014
+Kemba Walker,202689,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2014
+Kemba Walker,202689,Fadeaway Jump Shot,2,21,12,Fadeaway Jump Shot,JUMP_SHOTS,,2014
+Kemba Walker,202689,Floating Jump Shot,2,14,7,Floating Jump shot,FLOATING_SHOTS,,2014
+Kemba Walker,202689,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2014
+Kemba Walker,202689,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2014
+Kemba Walker,202689,Jump Shot,2,695,203,Jump Shot,JUMP_SHOTS,,2014
+Kemba Walker,202689,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,2014
+Kemba Walker,202689,Standard Layup,2,134,45,Layup Shot,LAYUPS,,2014
+Kemba Walker,202689,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2014
+Kemba Walker,202689,Pullup Jump Shot,2,82,53,Pullup Jump shot,JUMP_SHOTS,,2014
+Kemba Walker,202689,Reverse Layup,2,9,6,Reverse Layup Shot,LAYUPS,,2014
+Kemba Walker,202689,Running Jump Shot,2,13,5,Running Jump Shot,JUMP_SHOTS,,2014
+Kemba Walker,202689,Step Back Jump Shot,2,31,22,Step Back Jump shot,JUMP_SHOTS,,2014
+Kemba Walker,202689,Turnaround Jump Shot,2,4,4,Turnaround Jump Shot,JUMP_SHOTS,,2014
+Kemba Walker,202689,Driving Jump Shot,2,4,4,Driving Bank shot,JUMP_SHOTS,,2015
+Kemba Walker,202689,Finger Roll,2,7,6,Driving Finger Roll Layup Shot,LAYUPS,,2015
+Kemba Walker,202689,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2015
+Kemba Walker,202689,Driving Jump Shot,2,15,7,Driving Jump shot,JUMP_SHOTS,,2015
+Kemba Walker,202689,Driving Layup,2,103,67,Driving Layup Shot,LAYUPS,,2015
+Kemba Walker,202689,Driving Layup,2,17,14,Driving Reverse Layup Shot,LAYUPS,,2015
+Kemba Walker,202689,Fadeaway Jump Shot,2,11,4,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+Kemba Walker,202689,Finger Roll,2,2,1,Finger Roll Layup Shot,LAYUPS,,2015
+Kemba Walker,202689,Floating Jump Shot,2,12,8,Floating Jump shot,FLOATING_SHOTS,,2015
+Kemba Walker,202689,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2015
+Kemba Walker,202689,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2015
+Kemba Walker,202689,Jump Shot,2,555,159,Jump Shot,JUMP_SHOTS,,2015
+Kemba Walker,202689,Standard Layup,2,118,33,Layup Shot,LAYUPS,,2015
+Kemba Walker,202689,Pullup Jump Shot,2,1,0,Pullup Bank shot,JUMP_SHOTS,,2015
+Kemba Walker,202689,Pullup Jump Shot,2,50,26,Pullup Jump shot,JUMP_SHOTS,,2015
+Kemba Walker,202689,Reverse Layup,2,9,7,Reverse Layup Shot,LAYUPS,,2015
+Kemba Walker,202689,Running Jump Shot,2,2,1,Running Bank shot,JUMP_SHOTS,,2015
+Kemba Walker,202689,Running Jump Shot,2,19,10,Running Jump Shot,JUMP_SHOTS,,2015
+Kemba Walker,202689,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2015
+Kemba Walker,202689,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2015
+Kemba Walker,202689,Step Back Jump Shot,2,45,26,Step Back Jump shot,JUMP_SHOTS,,2015
+Kemba Walker,202689,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2015
+Kemba Walker,202689,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2015
+Kemba Walker,202689,Standard Layup,2,14,12,Cutting Layup Shot,LAYUPS,,2016
+Kemba Walker,202689,Driving Jump Shot,2,3,3,Driving Bank shot,JUMP_SHOTS,,2016
+Kemba Walker,202689,Finger Roll,2,18,11,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Kemba Walker,202689,Floating Jump Shot,2,2,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2016
+Kemba Walker,202689,Floating Jump Shot,2,21,11,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Kemba Walker,202689,Driving Layup,2,136,98,Driving Layup Shot,LAYUPS,,2016
+Kemba Walker,202689,Driving Layup,2,17,12,Driving Reverse Layup Shot,LAYUPS,,2016
+Kemba Walker,202689,Fadeaway Jump Shot,2,28,15,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Kemba Walker,202689,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2016
+Kemba Walker,202689,Floating Jump Shot,2,21,11,Floating Jump shot,FLOATING_SHOTS,,2016
+Kemba Walker,202689,Jump Shot,2,8,4,Jump Bank Shot,JUMP_SHOTS,,2016
+Kemba Walker,202689,Jump Shot,2,646,200,Jump Shot,JUMP_SHOTS,,2016
+Kemba Walker,202689,Standard Layup,2,98,23,Layup Shot,LAYUPS,,2016
+Kemba Walker,202689,Pullup Jump Shot,2,3,2,Pullup Bank shot,JUMP_SHOTS,,2016
+Kemba Walker,202689,Pullup Jump Shot,2,145,77,Pullup Jump shot,JUMP_SHOTS,,2016
+Kemba Walker,202689,Putback Layup,2,6,5,Putback Layup Shot,LAYUPS,,2016
+Kemba Walker,202689,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2016
+Kemba Walker,202689,Finger Roll,2,4,3,Running Finger Roll Layup Shot,LAYUPS,,2016
+Kemba Walker,202689,Running Jump Shot,2,13,4,Running Jump Shot,JUMP_SHOTS,,2016
+Kemba Walker,202689,Standard Layup,2,42,31,Running Layup Shot,LAYUPS,,2016
+Kemba Walker,202689,Running Jump Shot,2,4,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2016
+Kemba Walker,202689,Reverse Layup,2,4,2,Running Reverse Layup Shot,LAYUPS,,2016
+Kemba Walker,202689,Step Back Jump Shot,2,1,0,Step Back Bank Jump Shot,JUMP_SHOTS,,2016
+Kemba Walker,202689,Step Back Jump Shot,2,86,35,Step Back Jump shot,JUMP_SHOTS,,2016
+Kemba Walker,202689,Putback Layup,2,2,2,Tip Layup Shot,LAYUPS,,2016
+Kemba Walker,202689,Turnaround Jump Shot,2,2,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2016
+Kemba Walker,202689,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Kemba Walker,202689,Standard Layup,2,21,16,Cutting Layup Shot,LAYUPS,,2017
+Kemba Walker,202689,Finger Roll,2,13,8,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Kemba Walker,202689,Floating Jump Shot,2,6,3,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2017
+Kemba Walker,202689,Floating Jump Shot,2,18,6,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Kemba Walker,202689,Driving Hook Shot,2,3,1,Driving Hook Shot,POST_MOVES,,2017
+Kemba Walker,202689,Driving Layup,2,220,155,Driving Layup Shot,LAYUPS,,2017
+Kemba Walker,202689,Driving Layup,2,22,13,Driving Reverse Layup Shot,LAYUPS,,2017
+Kemba Walker,202689,Fadeaway Jump Shot,2,12,3,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Kemba Walker,202689,Finger Roll,2,3,0,Finger Roll Layup Shot,LAYUPS,,2017
+Kemba Walker,202689,Floating Jump Shot,2,13,7,Floating Jump shot,FLOATING_SHOTS,,2017
+Kemba Walker,202689,Jump Shot,2,11,5,Jump Bank Shot,JUMP_SHOTS,,2017
+Kemba Walker,202689,Jump Shot,2,639,203,Jump Shot,JUMP_SHOTS,,2017
+Kemba Walker,202689,Standard Layup,2,120,18,Layup Shot,LAYUPS,,2017
+Kemba Walker,202689,Pullup Jump Shot,2,4,3,Pullup Bank shot,JUMP_SHOTS,,2017
+Kemba Walker,202689,Pullup Jump Shot,2,176,106,Pullup Jump shot,JUMP_SHOTS,,2017
+Kemba Walker,202689,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2017
+Kemba Walker,202689,Finger Roll,2,3,2,Running Finger Roll Layup Shot,LAYUPS,,2017
+Kemba Walker,202689,Running Jump Shot,2,7,5,Running Jump Shot,JUMP_SHOTS,,2017
+Kemba Walker,202689,Standard Layup,2,42,33,Running Layup Shot,LAYUPS,,2017
+Kemba Walker,202689,Running Jump Shot,2,2,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2017
+Kemba Walker,202689,Reverse Layup,2,2,0,Running Reverse Layup Shot,LAYUPS,,2017
+Kemba Walker,202689,Step Back Jump Shot,2,105,49,Step Back Jump shot,JUMP_SHOTS,,2017
+Kemba Walker,202689,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2017
+Kemba Walker,202689,Turnaround Jump Shot,2,2,2,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Kemba Walker,202689,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2018
+Kemba Walker,202689,Standard Layup,2,3,3,Cutting Layup Shot,LAYUPS,,2018
+Kemba Walker,202689,Finger Roll,2,18,11,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Kemba Walker,202689,Floating Jump Shot,2,4,4,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Kemba Walker,202689,Floating Jump Shot,2,23,13,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Kemba Walker,202689,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2018
+Kemba Walker,202689,Driving Layup,2,181,104,Driving Layup Shot,LAYUPS,,2018
+Kemba Walker,202689,Driving Layup,2,19,14,Driving Reverse Layup Shot,LAYUPS,,2018
+Kemba Walker,202689,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2018
+Kemba Walker,202689,Fadeaway Jump Shot,2,11,7,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+Kemba Walker,202689,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2018
+Kemba Walker,202689,Floating Jump Shot,2,31,11,Floating Jump shot,FLOATING_SHOTS,,2018
+Kemba Walker,202689,Jump Shot,2,4,3,Jump Bank Shot,JUMP_SHOTS,,2018
+Kemba Walker,202689,Jump Shot,2,549,200,Jump Shot,JUMP_SHOTS,,2018
+Kemba Walker,202689,Standard Layup,2,97,27,Layup Shot,LAYUPS,,2018
+Kemba Walker,202689,Pullup Jump Shot,2,234,102,Pullup Jump shot,JUMP_SHOTS,,2018
+Kemba Walker,202689,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2018
+Kemba Walker,202689,Reverse Layup,2,8,2,Reverse Layup Shot,LAYUPS,,2018
+Kemba Walker,202689,Finger Roll,2,4,4,Running Finger Roll Layup Shot,LAYUPS,,2018
+Kemba Walker,202689,Running Jump Shot,2,6,3,Running Jump Shot,JUMP_SHOTS,,2018
+Kemba Walker,202689,Standard Layup,2,26,18,Running Layup Shot,LAYUPS,,2018
+Kemba Walker,202689,Running Jump Shot,2,5,3,Running Pull-Up Jump Shot,JUMP_SHOTS,,2018
+Kemba Walker,202689,Reverse Layup,2,2,1,Running Reverse Layup Shot,LAYUPS,,2018
+Kemba Walker,202689,Step Back Jump Shot,2,122,51,Step Back Jump shot,JUMP_SHOTS,,2018
+Kemba Walker,202689,Putback Layup,2,5,1,Tip Layup Shot,LAYUPS,,2018
+Kemba Walker,202689,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2018
+Kemba Walker,202689,Turnaround Jump Shot,2,5,3,Turnaround Jump Shot,JUMP_SHOTS,,2018
+Kemba Walker,202689,Standard Layup,2,8,5,Cutting Layup Shot,LAYUPS,,2019
+Kemba Walker,202689,Finger Roll,2,33,21,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Kemba Walker,202689,Floating Jump Shot,2,11,7,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Kemba Walker,202689,Floating Jump Shot,2,46,20,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Kemba Walker,202689,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2019
+Kemba Walker,202689,Driving Layup,2,300,152,Driving Layup Shot,LAYUPS,,2019
+Kemba Walker,202689,Driving Layup,2,35,20,Driving Reverse Layup Shot,LAYUPS,,2019
+Kemba Walker,202689,Fadeaway Jump Shot,2,20,7,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+Kemba Walker,202689,Floating Jump Shot,2,45,12,Floating Jump shot,FLOATING_SHOTS,,2019
+Kemba Walker,202689,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2019
+Kemba Walker,202689,Jump Shot,2,11,4,Jump Bank Shot,JUMP_SHOTS,,2019
+Kemba Walker,202689,Jump Shot,2,501,170,Jump Shot,JUMP_SHOTS,,2019
+Kemba Walker,202689,Jump Shot,3,1,1,Jump Shot,JUMP_SHOTS,,2019
+Kemba Walker,202689,Standard Layup,2,51,15,Layup Shot,LAYUPS,,2019
+Kemba Walker,202689,Pullup Jump Shot,2,372,164,Pullup Jump shot,JUMP_SHOTS,,2019
+Kemba Walker,202689,Putback Layup,2,4,2,Putback Layup Shot,LAYUPS,,2019
+Kemba Walker,202689,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2019
+Kemba Walker,202689,Running Jump Shot,2,7,3,Running Jump Shot,JUMP_SHOTS,,2019
+Kemba Walker,202689,Standard Layup,2,55,41,Running Layup Shot,LAYUPS,,2019
+Kemba Walker,202689,Running Jump Shot,2,3,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2019
+Kemba Walker,202689,Reverse Layup,2,4,1,Running Reverse Layup Shot,LAYUPS,,2019
+Kemba Walker,202689,Step Back Jump Shot,2,152,74,Step Back Jump shot,JUMP_SHOTS,,2019
+Kemba Walker,202689,Putback Layup,2,2,2,Tip Layup Shot,LAYUPS,,2019
+Kemba Walker,202689,Turnaround Jump Shot,2,5,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2019
+Kemba Walker,202689,Turnaround Jump Shot,2,3,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2019
+Kemba Walker,202689,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2019
+Kemba Walker,202689,Turnaround Jump Shot,2,9,5,Turnaround Jump Shot,JUMP_SHOTS,,2019
+Kemba Walker,202689,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2020
+Kemba Walker,202689,Finger Roll,2,2,2,Cutting Finger Roll Layup Shot,LAYUPS,,2020
+Kemba Walker,202689,Standard Layup,2,5,5,Cutting Layup Shot,LAYUPS,,2020
+Kemba Walker,202689,Finger Roll,2,47,34,Driving Finger Roll Layup Shot,LAYUPS,,2020
+Kemba Walker,202689,Floating Jump Shot,2,5,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2020
+Kemba Walker,202689,Floating Jump Shot,2,31,8,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Kemba Walker,202689,Driving Layup,2,125,54,Driving Layup Shot,LAYUPS,,2020
+Kemba Walker,202689,Driving Layup,2,19,8,Driving Reverse Layup Shot,LAYUPS,,2020
+Kemba Walker,202689,Fadeaway Jump Shot,2,20,9,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+Kemba Walker,202689,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2020
+Kemba Walker,202689,Floating Jump Shot,2,4,1,Floating Jump shot,FLOATING_SHOTS,,2020
+Kemba Walker,202689,Jump Shot,2,254,94,Jump Shot,JUMP_SHOTS,,2020
+Kemba Walker,202689,Standard Layup,2,8,1,Layup Shot,LAYUPS,,2020
+Kemba Walker,202689,Pullup Jump Shot,2,251,105,Pullup Jump shot,JUMP_SHOTS,,2020
+Kemba Walker,202689,Putback Layup,2,3,2,Putback Layup Shot,LAYUPS,,2020
+Kemba Walker,202689,Finger Roll,2,5,4,Running Finger Roll Layup Shot,LAYUPS,,2020
+Kemba Walker,202689,Running Jump Shot,2,5,2,Running Jump Shot,JUMP_SHOTS,,2020
+Kemba Walker,202689,Standard Layup,2,19,7,Running Layup Shot,LAYUPS,,2020
+Kemba Walker,202689,Running Jump Shot,2,14,3,Running Pull-Up Jump Shot,JUMP_SHOTS,,2020
+Kemba Walker,202689,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2020
+Kemba Walker,202689,Step Back Jump Shot,2,63,33,Step Back Jump shot,JUMP_SHOTS,,2020
+Kemba Walker,202689,Putback Layup,2,2,1,Tip Layup Shot,LAYUPS,,2020
+Kemba Walker,202689,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2020
+Kemba Walker,202689,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2020
+Kemba Walker,202689,Finger Roll,2,1,0,Cutting Finger Roll Layup Shot,LAYUPS,,2021
+Kemba Walker,202689,Standard Layup,2,6,4,Cutting Layup Shot,LAYUPS,,2021
+Kemba Walker,202689,Finger Roll,2,18,9,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Kemba Walker,202689,Floating Jump Shot,2,6,4,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2021
+Kemba Walker,202689,Floating Jump Shot,2,24,10,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Kemba Walker,202689,Driving Layup,2,85,47,Driving Layup Shot,LAYUPS,,2021
+Kemba Walker,202689,Driving Layup,2,14,8,Driving Reverse Layup Shot,LAYUPS,,2021
+Kemba Walker,202689,Fadeaway Jump Shot,2,14,5,Fadeaway Jump Shot,JUMP_SHOTS,,2021
+Kemba Walker,202689,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2021
+Kemba Walker,202689,Jump Shot,2,189,69,Jump Shot,JUMP_SHOTS,,2021
+Kemba Walker,202689,Standard Layup,2,13,3,Layup Shot,LAYUPS,,2021
+Kemba Walker,202689,Pullup Jump Shot,2,198,77,Pullup Jump shot,JUMP_SHOTS,,2021
+Kemba Walker,202689,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2021
+Kemba Walker,202689,Finger Roll,2,5,5,Running Finger Roll Layup Shot,LAYUPS,,2021
+Kemba Walker,202689,Running Jump Shot,2,4,2,Running Jump Shot,JUMP_SHOTS,,2021
+Kemba Walker,202689,Standard Layup,2,16,11,Running Layup Shot,LAYUPS,,2021
+Kemba Walker,202689,Running Jump Shot,2,12,8,Running Pull-Up Jump Shot,JUMP_SHOTS,,2021
+Kemba Walker,202689,Reverse Layup,2,3,3,Running Reverse Layup Shot,LAYUPS,,2021
+Kemba Walker,202689,Step Back Jump Shot,2,1,1,Step Back Bank Jump Shot,JUMP_SHOTS,,2021
+Kemba Walker,202689,Step Back Jump Shot,2,60,14,Step Back Jump shot,JUMP_SHOTS,,2021
+Kemba Walker,202689,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2021
+Kemba Walker,202689,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2021
+Kemba Walker,202689,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2021
+Kemba Walker,202689,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2022
+Kemba Walker,202689,Finger Roll,2,10,6,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Kemba Walker,202689,Floating Jump Shot,2,8,4,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Kemba Walker,202689,Floating Jump Shot,2,25,12,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Kemba Walker,202689,Driving Layup,2,42,19,Driving Layup Shot,LAYUPS,,2022
+Kemba Walker,202689,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2022
+Kemba Walker,202689,Fadeaway Jump Shot,2,4,1,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Kemba Walker,202689,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2022
+Kemba Walker,202689,Jump Shot,2,101,32,Jump Shot,JUMP_SHOTS,,2022
+Kemba Walker,202689,Jump Shot,3,4,3,Jump Shot,JUMP_SHOTS,,2022
+Kemba Walker,202689,Standard Layup,2,4,1,Layup Shot,LAYUPS,,2022
+Kemba Walker,202689,Pullup Jump Shot,2,123,49,Pullup Jump shot,JUMP_SHOTS,,2022
+Kemba Walker,202689,Pullup Jump Shot,3,5,1,Pullup Jump shot,JUMP_SHOTS,,2022
+Kemba Walker,202689,Finger Roll,2,2,0,Running Finger Roll Layup Shot,LAYUPS,,2022
+Kemba Walker,202689,Running Jump Shot,2,3,2,Running Jump Shot,JUMP_SHOTS,,2022
+Kemba Walker,202689,Standard Layup,2,3,3,Running Layup Shot,LAYUPS,,2022
+Kemba Walker,202689,Running Jump Shot,2,2,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
+Kemba Walker,202689,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2022
+Kemba Walker,202689,Step Back Jump Shot,2,26,9,Step Back Jump shot,JUMP_SHOTS,,2022
+Kemba Walker,202689,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2022
+Kemba Walker,202689,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Kemba Walker,202689,Floating Jump Shot,2,5,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Kemba Walker,202689,Driving Layup,2,6,4,Driving Layup Shot,LAYUPS,,2023
+Kemba Walker,202689,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2023
+Kemba Walker,202689,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2023
+Kemba Walker,202689,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2023
+Kemba Walker,202689,Jump Shot,2,11,3,Jump Shot,JUMP_SHOTS,,2023
+Kemba Walker,202689,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2023
+Kemba Walker,202689,Pullup Jump Shot,2,16,5,Pullup Jump shot,JUMP_SHOTS,,2023
+Kemba Walker,202689,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2023
+Kemba Walker,202689,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2023
+Kemba Walker,202689,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2023
+Kemba Walker,202689,Step Back Jump Shot,2,7,4,Step Back Jump shot,JUMP_SHOTS,,2023

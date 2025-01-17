@@ -1,28 +1,297 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-201976,Driving Layup,2PT Field Goal,2,2,Driving Layup Shot,LAYUPS,1.0,2013
-201976,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2013
-201976,Running Jump Shot,3PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2014
-201976,Jump Shot,3PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.5,2015
-201976,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2020
-201976,Jump Shot,3PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.5,2020
-201976,Standard Layup,2PT Field Goal,3,2,Cutting Layup Shot,LAYUPS,0.6666666666666666,2024
-201976,Finger Roll,2PT Field Goal,3,2,Driving Finger Roll Layup Shot,LAYUPS,0.6666666666666666,2024
-201976,Floating Jump Shot,2PT Field Goal,2,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.0,2024
-201976,Floating Jump Shot,2PT Field Goal,13,5,Driving Floating Jump Shot,FLOATING_SHOTS,0.3846153846153846,2024
-201976,Driving Hook Shot,2PT Field Goal,4,2,Driving Hook Shot,POST_MOVES,0.5,2024
-201976,Driving Layup,2PT Field Goal,11,4,Driving Layup Shot,LAYUPS,0.3636363636363636,2024
-201976,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2024
-201976,Floating Jump Shot,2PT Field Goal,2,2,Floating Jump shot,FLOATING_SHOTS,1.0,2024
-201976,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2024
-201976,Jump Shot,3PT Field Goal,54,23,Jump Shot,JUMP_SHOTS,0.6388888888888888,2024
-201976,Pullup Jump Shot,3PT Field Goal,4,0,Pullup Jump shot,JUMP_SHOTS,0.0,2024
-201976,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2024
-201976,Finger Roll,2PT Field Goal,1,1,Running Finger Roll Layup Shot,LAYUPS,1.0,2024
-201976,Running Jump Shot,3PT Field Goal,3,0,Running Jump Shot,JUMP_SHOTS,0.0,2024
-201976,Standard Layup,2PT Field Goal,2,1,Running Layup Shot,LAYUPS,0.5,2024
-201976,Step Back Jump Shot,3PT Field Goal,3,2,Step Back Jump shot,JUMP_SHOTS,1.0,2024
-201976,Putback Layup,2PT Field Goal,2,1,Tip Layup Shot,LAYUPS,0.5,2024
-201976,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,0.0,2024
-201976,Turnaround Jump Shot,2PT Field Goal,7,4,Turnaround Fadeaway shot,JUMP_SHOTS,0.5714285714285714,2024
-201976,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2024
-201976,Turnaround Jump Shot,2PT Field Goal,2,1,Turnaround Jump Shot,JUMP_SHOTS,0.5,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Patrick Beverley,201976,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2013
+Patrick Beverley,201976,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2013
+Patrick Beverley,201976,Driving Jump Shot,2,1,1,Driving Jump shot,JUMP_SHOTS,,2013
+Patrick Beverley,201976,Driving Layup,2,18,11,Driving Layup Shot,LAYUPS,,2013
+Patrick Beverley,201976,Standard Dunk,2,3,2,Dunk Shot,DUNKS,,2013
+Patrick Beverley,201976,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Patrick Beverley,201976,Floating Jump Shot,2,7,6,Floating Jump shot,FLOATING_SHOTS,,2013
+Patrick Beverley,201976,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2013
+Patrick Beverley,201976,Jump Shot,2,84,27,Jump Shot,JUMP_SHOTS,,2013
+Patrick Beverley,201976,Jump Shot,3,21,10,Jump Shot,JUMP_SHOTS,,2013
+Patrick Beverley,201976,Standard Layup,2,9,5,Layup Shot,LAYUPS,,2013
+Patrick Beverley,201976,Pullup Jump Shot,2,2,1,Pullup Jump shot,JUMP_SHOTS,,2013
+Patrick Beverley,201976,Pullup Jump Shot,3,1,1,Pullup Jump shot,JUMP_SHOTS,,2013
+Patrick Beverley,201976,Running Jump Shot,2,4,3,Running Bank shot,JUMP_SHOTS,,2013
+Patrick Beverley,201976,Running Hook Shot,2,2,1,Running Hook Shot,POST_MOVES,,2013
+Patrick Beverley,201976,Running Jump Shot,2,14,4,Running Jump Shot,JUMP_SHOTS,,2013
+Patrick Beverley,201976,Step Back Jump Shot,2,12,2,Step Back Jump shot,JUMP_SHOTS,,2013
+Patrick Beverley,201976,Tip Shot,2,4,2,Tip Shot,TIP_SHOTS,,2013
+Patrick Beverley,201976,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2013
+Patrick Beverley,201976,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Patrick Beverley,201976,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2014
+Patrick Beverley,201976,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2014
+Patrick Beverley,201976,Driving Jump Shot,2,5,2,Driving Jump shot,JUMP_SHOTS,,2014
+Patrick Beverley,201976,Driving Layup,2,44,29,Driving Layup Shot,LAYUPS,,2014
+Patrick Beverley,201976,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2014
+Patrick Beverley,201976,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2014
+Patrick Beverley,201976,Floating Jump Shot,2,26,17,Floating Jump shot,FLOATING_SHOTS,,2014
+Patrick Beverley,201976,Hook Shot,2,2,2,Jump Hook Shot,POST_MOVES,,2014
+Patrick Beverley,201976,Jump Shot,2,265,89,Jump Shot,JUMP_SHOTS,,2014
+Patrick Beverley,201976,Jump Shot,3,23,9,Jump Shot,JUMP_SHOTS,,2014
+Patrick Beverley,201976,Standard Layup,2,45,21,Layup Shot,LAYUPS,,2014
+Patrick Beverley,201976,Pullup Jump Shot,2,6,3,Pullup Jump shot,JUMP_SHOTS,,2014
+Patrick Beverley,201976,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2014
+Patrick Beverley,201976,Reverse Layup,2,5,3,Reverse Layup Shot,LAYUPS,,2014
+Patrick Beverley,201976,Running Jump Shot,2,2,0,Running Bank shot,JUMP_SHOTS,,2014
+Patrick Beverley,201976,Running Hook Shot,2,8,4,Running Hook Shot,POST_MOVES,,2014
+Patrick Beverley,201976,Running Jump Shot,2,20,6,Running Jump Shot,JUMP_SHOTS,,2014
+Patrick Beverley,201976,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2014
+Patrick Beverley,201976,Standard Layup,2,2,0,Running Layup Shot,LAYUPS,,2014
+Patrick Beverley,201976,Step Back Jump Shot,2,8,2,Step Back Jump shot,JUMP_SHOTS,,2014
+Patrick Beverley,201976,Tip Shot,2,4,3,Tip Shot,TIP_SHOTS,,2014
+Patrick Beverley,201976,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2014
+Patrick Beverley,201976,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2014
+Patrick Beverley,201976,Turnaround Jump Shot,2,5,2,Turnaround Jump Shot,JUMP_SHOTS,,2014
+Patrick Beverley,201976,Driving Dunk,2,1,0,Driving Dunk Shot,DUNKS,,2015
+Patrick Beverley,201976,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2015
+Patrick Beverley,201976,Driving Jump Shot,2,4,2,Driving Jump shot,JUMP_SHOTS,,2015
+Patrick Beverley,201976,Driving Layup,2,31,16,Driving Layup Shot,LAYUPS,,2015
+Patrick Beverley,201976,Fadeaway Jump Shot,2,5,1,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+Patrick Beverley,201976,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2015
+Patrick Beverley,201976,Floating Jump Shot,2,20,14,Floating Jump shot,FLOATING_SHOTS,,2015
+Patrick Beverley,201976,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2015
+Patrick Beverley,201976,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2015
+Patrick Beverley,201976,Jump Shot,2,345,115,Jump Shot,JUMP_SHOTS,,2015
+Patrick Beverley,201976,Jump Shot,3,4,1,Jump Shot,JUMP_SHOTS,,2015
+Patrick Beverley,201976,Standard Layup,2,51,21,Layup Shot,LAYUPS,,2015
+Patrick Beverley,201976,Pullup Jump Shot,2,8,3,Pullup Jump shot,JUMP_SHOTS,,2015
+Patrick Beverley,201976,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2015
+Patrick Beverley,201976,Running Jump Shot,2,5,3,Running Bank shot,JUMP_SHOTS,,2015
+Patrick Beverley,201976,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2015
+Patrick Beverley,201976,Running Jump Shot,2,23,7,Running Jump Shot,JUMP_SHOTS,,2015
+Patrick Beverley,201976,Standard Layup,2,4,4,Running Layup Shot,LAYUPS,,2015
+Patrick Beverley,201976,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2015
+Patrick Beverley,201976,Step Back Jump Shot,2,11,5,Step Back Jump shot,JUMP_SHOTS,,2015
+Patrick Beverley,201976,Tip Shot,2,3,2,Tip Shot,TIP_SHOTS,,2015
+Patrick Beverley,201976,Turnaround Jump Shot,2,3,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2015
+Patrick Beverley,201976,Turnaround Jump Shot,2,5,3,Turnaround Jump Shot,JUMP_SHOTS,,2015
+Patrick Beverley,201976,Standard Layup,2,5,5,Cutting Layup Shot,LAYUPS,,2016
+Patrick Beverley,201976,Driving Jump Shot,2,3,2,Driving Bank shot,JUMP_SHOTS,,2016
+Patrick Beverley,201976,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2016
+Patrick Beverley,201976,Finger Roll,2,6,4,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Patrick Beverley,201976,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2016
+Patrick Beverley,201976,Floating Jump Shot,2,16,10,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Patrick Beverley,201976,Driving Hook Shot,2,2,0,Driving Hook Shot,POST_MOVES,,2016
+Patrick Beverley,201976,Driving Layup,2,48,22,Driving Layup Shot,LAYUPS,,2016
+Patrick Beverley,201976,Driving Layup,2,4,3,Driving Reverse Layup Shot,LAYUPS,,2016
+Patrick Beverley,201976,Fadeaway Jump Shot,2,9,5,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Patrick Beverley,201976,Floating Jump Shot,2,48,22,Floating Jump shot,FLOATING_SHOTS,,2016
+Patrick Beverley,201976,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2016
+Patrick Beverley,201976,Jump Shot,2,329,118,Jump Shot,JUMP_SHOTS,,2016
+Patrick Beverley,201976,Standard Layup,2,38,17,Layup Shot,LAYUPS,,2016
+Patrick Beverley,201976,Pullup Jump Shot,2,15,8,Pullup Jump shot,JUMP_SHOTS,,2016
+Patrick Beverley,201976,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2016
+Patrick Beverley,201976,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2016
+Patrick Beverley,201976,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2016
+Patrick Beverley,201976,Running Jump Shot,2,6,2,Running Jump Shot,JUMP_SHOTS,,2016
+Patrick Beverley,201976,Standard Layup,2,18,15,Running Layup Shot,LAYUPS,,2016
+Patrick Beverley,201976,Step Back Jump Shot,2,28,14,Step Back Jump shot,JUMP_SHOTS,,2016
+Patrick Beverley,201976,Putback Layup,2,4,3,Tip Layup Shot,LAYUPS,,2016
+Patrick Beverley,201976,Turnaround Jump Shot,2,4,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2016
+Patrick Beverley,201976,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Patrick Beverley,201976,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2017
+Patrick Beverley,201976,Standard Layup,2,7,3,Cutting Layup Shot,LAYUPS,,2017
+Patrick Beverley,201976,Driving Jump Shot,2,1,0,Driving Bank shot,JUMP_SHOTS,,2017
+Patrick Beverley,201976,Driving Dunk,2,1,0,Driving Dunk Shot,DUNKS,,2017
+Patrick Beverley,201976,Finger Roll,2,5,3,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Patrick Beverley,201976,Floating Jump Shot,2,5,3,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2017
+Patrick Beverley,201976,Floating Jump Shot,2,21,12,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Patrick Beverley,201976,Driving Hook Shot,2,4,2,Driving Hook Shot,POST_MOVES,,2017
+Patrick Beverley,201976,Driving Layup,2,54,33,Driving Layup Shot,LAYUPS,,2017
+Patrick Beverley,201976,Driving Layup,2,7,4,Driving Reverse Layup Shot,LAYUPS,,2017
+Patrick Beverley,201976,Fadeaway Jump Shot,2,4,0,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Patrick Beverley,201976,Floating Jump Shot,2,26,13,Floating Jump shot,FLOATING_SHOTS,,2017
+Patrick Beverley,201976,Hook Shot,2,4,2,Hook Shot,POST_MOVES,,2017
+Patrick Beverley,201976,Jump Shot,2,4,2,Jump Bank Shot,JUMP_SHOTS,,2017
+Patrick Beverley,201976,Jump Shot,2,296,104,Jump Shot,JUMP_SHOTS,,2017
+Patrick Beverley,201976,Standard Layup,2,21,6,Layup Shot,LAYUPS,,2017
+Patrick Beverley,201976,No Shot,2,1,0,No Shot,NO_SHOT,,2017
+Patrick Beverley,201976,Pullup Jump Shot,2,8,5,Pullup Jump shot,JUMP_SHOTS,,2017
+Patrick Beverley,201976,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2017
+Patrick Beverley,201976,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2017
+Patrick Beverley,201976,Running Jump Shot,2,5,1,Running Jump Shot,JUMP_SHOTS,,2017
+Patrick Beverley,201976,Standard Layup,2,22,14,Running Layup Shot,LAYUPS,,2017
+Patrick Beverley,201976,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2017
+Patrick Beverley,201976,Step Back Jump Shot,2,23,7,Step Back Jump shot,JUMP_SHOTS,,2017
+Patrick Beverley,201976,Putback Layup,2,4,2,Tip Layup Shot,LAYUPS,,2017
+Patrick Beverley,201976,Turnaround Jump Shot,2,4,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2017
+Patrick Beverley,201976,Turnaround Hook Shot,2,4,3,Turnaround Hook Shot,POST_MOVES,,2017
+Patrick Beverley,201976,Turnaround Jump Shot,2,4,2,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Patrick Beverley,201976,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2018
+Patrick Beverley,201976,Standard Layup,2,1,0,Cutting Layup Shot,LAYUPS,,2018
+Patrick Beverley,201976,Driving Hook Shot,2,1,0,Driving Bank Hook Shot,POST_MOVES,,2018
+Patrick Beverley,201976,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Patrick Beverley,201976,Floating Jump Shot,2,5,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Patrick Beverley,201976,Driving Layup,2,14,7,Driving Layup Shot,LAYUPS,,2018
+Patrick Beverley,201976,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2018
+Patrick Beverley,201976,Floating Jump Shot,2,8,4,Floating Jump shot,FLOATING_SHOTS,,2018
+Patrick Beverley,201976,Hook Shot,2,4,2,Hook Shot,POST_MOVES,,2018
+Patrick Beverley,201976,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2018
+Patrick Beverley,201976,Jump Shot,2,59,21,Jump Shot,JUMP_SHOTS,,2018
+Patrick Beverley,201976,Standard Layup,2,5,1,Layup Shot,LAYUPS,,2018
+Patrick Beverley,201976,Pullup Jump Shot,2,3,0,Pullup Jump shot,JUMP_SHOTS,,2018
+Patrick Beverley,201976,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2018
+Patrick Beverley,201976,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2018
+Patrick Beverley,201976,Standard Layup,2,4,3,Running Layup Shot,LAYUPS,,2018
+Patrick Beverley,201976,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2018
+Patrick Beverley,201976,Step Back Jump Shot,2,4,1,Step Back Jump shot,JUMP_SHOTS,,2018
+Patrick Beverley,201976,Putback Layup,2,2,2,Tip Layup Shot,LAYUPS,,2018
+Patrick Beverley,201976,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2018
+Patrick Beverley,201976,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2018
+Patrick Beverley,201976,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2019
+Patrick Beverley,201976,Standard Layup,2,8,5,Cutting Layup Shot,LAYUPS,,2019
+Patrick Beverley,201976,Driving Hook Shot,2,2,0,Driving Bank Hook Shot,POST_MOVES,,2019
+Patrick Beverley,201976,Driving Dunk,2,1,0,Driving Dunk Shot,DUNKS,,2019
+Patrick Beverley,201976,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Patrick Beverley,201976,Floating Jump Shot,2,9,5,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Patrick Beverley,201976,Floating Jump Shot,2,35,17,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Patrick Beverley,201976,Driving Hook Shot,2,3,1,Driving Hook Shot,POST_MOVES,,2019
+Patrick Beverley,201976,Driving Layup,2,41,20,Driving Layup Shot,LAYUPS,,2019
+Patrick Beverley,201976,Driving Layup,2,14,4,Driving Reverse Layup Shot,LAYUPS,,2019
+Patrick Beverley,201976,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+Patrick Beverley,201976,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2019
+Patrick Beverley,201976,Floating Jump Shot,2,22,6,Floating Jump shot,FLOATING_SHOTS,,2019
+Patrick Beverley,201976,Hook Shot,2,3,1,Hook Shot,POST_MOVES,,2019
+Patrick Beverley,201976,Jump Shot,2,241,96,Jump Shot,JUMP_SHOTS,,2019
+Patrick Beverley,201976,Standard Layup,2,9,1,Layup Shot,LAYUPS,,2019
+Patrick Beverley,201976,Pullup Jump Shot,2,23,7,Pullup Jump shot,JUMP_SHOTS,,2019
+Patrick Beverley,201976,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2019
+Patrick Beverley,201976,Reverse Layup,2,2,0,Reverse Layup Shot,LAYUPS,,2019
+Patrick Beverley,201976,Standard Dunk,2,1,0,Running Dunk Shot,DUNKS,,2019
+Patrick Beverley,201976,Running Jump Shot,2,6,3,Running Jump Shot,JUMP_SHOTS,,2019
+Patrick Beverley,201976,Standard Layup,2,12,8,Running Layup Shot,LAYUPS,,2019
+Patrick Beverley,201976,Running Jump Shot,2,4,3,Running Pull-Up Jump Shot,JUMP_SHOTS,,2019
+Patrick Beverley,201976,Reverse Layup,2,3,2,Running Reverse Layup Shot,LAYUPS,,2019
+Patrick Beverley,201976,Step Back Jump Shot,2,18,6,Step Back Jump shot,JUMP_SHOTS,,2019
+Patrick Beverley,201976,Putback Layup,2,5,1,Tip Layup Shot,LAYUPS,,2019
+Patrick Beverley,201976,Turnaround Jump Shot,2,4,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2019
+Patrick Beverley,201976,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2019
+Patrick Beverley,201976,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2019
+Patrick Beverley,201976,Standard Layup,2,2,2,Cutting Layup Shot,LAYUPS,,2020
+Patrick Beverley,201976,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2020
+Patrick Beverley,201976,Finger Roll,2,8,5,Driving Finger Roll Layup Shot,LAYUPS,,2020
+Patrick Beverley,201976,Floating Jump Shot,2,10,7,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2020
+Patrick Beverley,201976,Floating Jump Shot,2,24,12,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Patrick Beverley,201976,Driving Hook Shot,2,3,0,Driving Hook Shot,POST_MOVES,,2020
+Patrick Beverley,201976,Driving Layup,2,32,15,Driving Layup Shot,LAYUPS,,2020
+Patrick Beverley,201976,Driving Layup,2,4,3,Driving Reverse Layup Shot,LAYUPS,,2020
+Patrick Beverley,201976,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+Patrick Beverley,201976,Floating Jump Shot,2,17,6,Floating Jump shot,FLOATING_SHOTS,,2020
+Patrick Beverley,201976,Jump Shot,2,2,0,Jump Bank Shot,JUMP_SHOTS,,2020
+Patrick Beverley,201976,Jump Shot,2,182,70,Jump Shot,JUMP_SHOTS,,2020
+Patrick Beverley,201976,Jump Shot,3,1,1,Jump Shot,JUMP_SHOTS,,2020
+Patrick Beverley,201976,Standard Layup,2,4,2,Layup Shot,LAYUPS,,2020
+Patrick Beverley,201976,Pullup Jump Shot,2,9,4,Pullup Jump shot,JUMP_SHOTS,,2020
+Patrick Beverley,201976,Pullup Jump Shot,3,1,1,Pullup Jump shot,JUMP_SHOTS,,2020
+Patrick Beverley,201976,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2020
+Patrick Beverley,201976,Running Jump Shot,2,4,1,Running Jump Shot,JUMP_SHOTS,,2020
+Patrick Beverley,201976,Standard Layup,2,8,5,Running Layup Shot,LAYUPS,,2020
+Patrick Beverley,201976,Running Jump Shot,2,6,3,Running Pull-Up Jump Shot,JUMP_SHOTS,,2020
+Patrick Beverley,201976,Step Back Jump Shot,2,6,1,Step Back Jump shot,JUMP_SHOTS,,2020
+Patrick Beverley,201976,Specialty Dunk,2,1,0,Tip Dunk Shot,DUNKS,,2020
+Patrick Beverley,201976,Putback Layup,2,4,3,Tip Layup Shot,LAYUPS,,2020
+Patrick Beverley,201976,Turnaround Jump Shot,2,2,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2020
+Patrick Beverley,201976,Turnaround Hook Shot,2,4,3,Turnaround Hook Shot,POST_MOVES,,2020
+Patrick Beverley,201976,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2020
+Patrick Beverley,201976,Standard Layup,2,2,1,Cutting Layup Shot,LAYUPS,,2021
+Patrick Beverley,201976,Finger Roll,2,3,3,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Patrick Beverley,201976,Floating Jump Shot,2,2,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2021
+Patrick Beverley,201976,Floating Jump Shot,2,16,5,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Patrick Beverley,201976,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,,2021
+Patrick Beverley,201976,Driving Layup,2,18,7,Driving Layup Shot,LAYUPS,,2021
+Patrick Beverley,201976,Driving Layup,2,2,0,Driving Reverse Layup Shot,LAYUPS,,2021
+Patrick Beverley,201976,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2021
+Patrick Beverley,201976,Floating Jump Shot,2,4,3,Floating Jump shot,FLOATING_SHOTS,,2021
+Patrick Beverley,201976,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2021
+Patrick Beverley,201976,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2021
+Patrick Beverley,201976,Jump Shot,2,120,50,Jump Shot,JUMP_SHOTS,,2021
+Patrick Beverley,201976,Standard Layup,2,6,3,Layup Shot,LAYUPS,,2021
+Patrick Beverley,201976,Pullup Jump Shot,2,12,3,Pullup Jump shot,JUMP_SHOTS,,2021
+Patrick Beverley,201976,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2021
+Patrick Beverley,201976,Running Jump Shot,2,4,2,Running Jump Shot,JUMP_SHOTS,,2021
+Patrick Beverley,201976,Standard Layup,2,9,6,Running Layup Shot,LAYUPS,,2021
+Patrick Beverley,201976,Running Jump Shot,2,2,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2021
+Patrick Beverley,201976,Step Back Jump Shot,2,9,3,Step Back Jump shot,JUMP_SHOTS,,2021
+Patrick Beverley,201976,Putback Layup,2,3,2,Tip Layup Shot,LAYUPS,,2021
+Patrick Beverley,201976,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2021
+Patrick Beverley,201976,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2021
+Patrick Beverley,201976,Standard Layup,2,5,2,Cutting Layup Shot,LAYUPS,,2022
+Patrick Beverley,201976,Finger Roll,2,12,12,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Patrick Beverley,201976,Floating Jump Shot,2,6,4,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Patrick Beverley,201976,Floating Jump Shot,2,43,17,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Patrick Beverley,201976,Driving Hook Shot,2,8,5,Driving Hook Shot,POST_MOVES,,2022
+Patrick Beverley,201976,Driving Layup,2,50,21,Driving Layup Shot,LAYUPS,,2022
+Patrick Beverley,201976,Driving Layup,2,4,3,Driving Reverse Layup Shot,LAYUPS,,2022
+Patrick Beverley,201976,Fadeaway Jump Shot,2,3,1,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Patrick Beverley,201976,Floating Jump Shot,2,9,4,Floating Jump shot,FLOATING_SHOTS,,2022
+Patrick Beverley,201976,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2022
+Patrick Beverley,201976,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2022
+Patrick Beverley,201976,Jump Shot,2,187,69,Jump Shot,JUMP_SHOTS,,2022
+Patrick Beverley,201976,Standard Layup,2,7,4,Layup Shot,LAYUPS,,2022
+Patrick Beverley,201976,Pullup Jump Shot,2,17,5,Pullup Jump shot,JUMP_SHOTS,,2022
+Patrick Beverley,201976,Putback Layup,2,8,5,Putback Layup Shot,LAYUPS,,2022
+Patrick Beverley,201976,Finger Roll,2,1,0,Running Finger Roll Layup Shot,LAYUPS,,2022
+Patrick Beverley,201976,Running Jump Shot,2,8,4,Running Jump Shot,JUMP_SHOTS,,2022
+Patrick Beverley,201976,Standard Layup,2,6,3,Running Layup Shot,LAYUPS,,2022
+Patrick Beverley,201976,Running Jump Shot,2,8,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
+Patrick Beverley,201976,Step Back Jump Shot,2,33,4,Step Back Jump shot,JUMP_SHOTS,,2022
+Patrick Beverley,201976,Putback Layup,2,2,0,Tip Layup Shot,LAYUPS,,2022
+Patrick Beverley,201976,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2022
+Patrick Beverley,201976,Turnaround Hook Shot,2,9,5,Turnaround Hook Shot,POST_MOVES,,2022
+Patrick Beverley,201976,Turnaround Jump Shot,2,7,4,Turnaround Jump Shot,JUMP_SHOTS,,2022
+Patrick Beverley,201976,Standard Layup,2,4,3,Cutting Layup Shot,LAYUPS,,2023
+Patrick Beverley,201976,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2023
+Patrick Beverley,201976,Finger Roll,2,4,4,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Patrick Beverley,201976,Floating Jump Shot,2,3,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+Patrick Beverley,201976,Floating Jump Shot,2,27,13,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Patrick Beverley,201976,Driving Hook Shot,2,7,4,Driving Hook Shot,POST_MOVES,,2023
+Patrick Beverley,201976,Driving Layup,2,25,10,Driving Layup Shot,LAYUPS,,2023
+Patrick Beverley,201976,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2023
+Patrick Beverley,201976,Fadeaway Jump Shot,2,3,1,Fadeaway Jump Shot,JUMP_SHOTS,,2023
+Patrick Beverley,201976,Floating Jump Shot,2,7,1,Floating Jump shot,FLOATING_SHOTS,,2023
+Patrick Beverley,201976,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2023
+Patrick Beverley,201976,Jump Shot,2,199,65,Jump Shot,JUMP_SHOTS,,2023
+Patrick Beverley,201976,Standard Layup,2,5,4,Layup Shot,LAYUPS,,2023
+Patrick Beverley,201976,Pullup Jump Shot,2,14,6,Pullup Jump shot,JUMP_SHOTS,,2023
+Patrick Beverley,201976,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2023
+Patrick Beverley,201976,Finger Roll,2,3,3,Running Finger Roll Layup Shot,LAYUPS,,2023
+Patrick Beverley,201976,Running Jump Shot,2,12,4,Running Jump Shot,JUMP_SHOTS,,2023
+Patrick Beverley,201976,Standard Layup,2,11,6,Running Layup Shot,LAYUPS,,2023
+Patrick Beverley,201976,Running Jump Shot,2,2,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2023
+Patrick Beverley,201976,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2023
+Patrick Beverley,201976,Step Back Jump Shot,2,16,6,Step Back Jump shot,JUMP_SHOTS,,2023
+Patrick Beverley,201976,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2023
+Patrick Beverley,201976,Putback Layup,2,1,0,Tip Layup Shot,LAYUPS,,2023
+Patrick Beverley,201976,Turnaround Jump Shot,2,3,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2023
+Patrick Beverley,201976,Turnaround Hook Shot,2,5,4,Turnaround Hook Shot,POST_MOVES,,2023
+Patrick Beverley,201976,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2023
+Patrick Beverley,201976,Standard Layup,2,4,2,Cutting Layup Shot,LAYUPS,,2024
+Patrick Beverley,201976,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2024
+Patrick Beverley,201976,Finger Roll,2,12,7,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Patrick Beverley,201976,Floating Jump Shot,2,5,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Patrick Beverley,201976,Floating Jump Shot,2,67,28,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Patrick Beverley,201976,Driving Hook Shot,2,14,8,Driving Hook Shot,POST_MOVES,,2024
+Patrick Beverley,201976,Driving Layup,2,29,13,Driving Layup Shot,LAYUPS,,2024
+Patrick Beverley,201976,Driving Layup,2,6,4,Driving Reverse Layup Shot,LAYUPS,,2024
+Patrick Beverley,201976,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Patrick Beverley,201976,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2024
+Patrick Beverley,201976,Floating Jump Shot,2,11,5,Floating Jump shot,FLOATING_SHOTS,,2024
+Patrick Beverley,201976,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2024
+Patrick Beverley,201976,Jump Shot,2,2,0,Jump Shot,JUMP_SHOTS,,2024
+Patrick Beverley,201976,Jump Shot,3,132,48,Jump Shot,JUMP_SHOTS,,2024
+Patrick Beverley,201976,Pullup Jump Shot,3,19,3,Pullup Jump shot,JUMP_SHOTS,,2024
+Patrick Beverley,201976,Putback Layup,2,3,2,Putback Layup Shot,LAYUPS,,2024
+Patrick Beverley,201976,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2024
+Patrick Beverley,201976,Finger Roll,2,5,4,Running Finger Roll Layup Shot,LAYUPS,,2024
+Patrick Beverley,201976,Running Jump Shot,3,6,1,Running Jump Shot,JUMP_SHOTS,,2024
+Patrick Beverley,201976,Standard Layup,2,6,4,Running Layup Shot,LAYUPS,,2024
+Patrick Beverley,201976,Running Jump Shot,3,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Patrick Beverley,201976,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2024
+Patrick Beverley,201976,Step Back Jump Shot,3,22,8,Step Back Jump shot,JUMP_SHOTS,,2024
+Patrick Beverley,201976,Putback Layup,2,3,2,Tip Layup Shot,LAYUPS,,2024
+Patrick Beverley,201976,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2024
+Patrick Beverley,201976,Turnaround Jump Shot,2,10,5,Turnaround Fadeaway shot,JUMP_SHOTS,,2024
+Patrick Beverley,201976,Turnaround Hook Shot,2,10,7,Turnaround Hook Shot,POST_MOVES,,2024
+Patrick Beverley,201976,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2024
+Patrick Beverley,201976,Turnaround Jump Shot,3,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2024

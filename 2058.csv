@@ -1,43 +1,107 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-2058,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2001
-2058,Driving Layup,2PT Field Goal,2,0,Driving Layup Shot,LAYUPS,0.0,2001
-2058,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,2001
-2058,Hook Shot,2PT Field Goal,3,1,Hook Shot,POST_MOVES,0.3333333333333333,2001
-2058,Jump Shot,2PT Field Goal,5,2,Jump Shot,JUMP_SHOTS,0.4,2001
-2058,Jump Shot,3PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.5,2001
-2058,Standard Layup,2PT Field Goal,9,2,Layup Shot,LAYUPS,0.2222222222222222,2001
-2058,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2001
-2058,Running Hook Shot,2PT Field Goal,1,1,Running Hook Shot,POST_MOVES,1.0,2001
-2058,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2001
-2058,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2002
-2058,Hook Shot,2PT Field Goal,4,1,Hook Shot,POST_MOVES,0.25,2002
-2058,Jump Shot,2PT Field Goal,4,1,Jump Shot,JUMP_SHOTS,0.25,2002
-2058,Standard Layup,2PT Field Goal,13,5,Layup Shot,LAYUPS,0.3846153846153846,2002
-2058,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2002
-2058,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2002
-2058,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2002
-2058,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2002
-2058,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2003
-2058,Standard Dunk,2PT Field Goal,4,3,Dunk Shot,DUNKS,0.75,2003
-2058,Specialty Dunk,2PT Field Goal,1,0,Follow Up Dunk Shot,DUNKS,0.0,2003
-2058,Hook Shot,2PT Field Goal,3,1,Hook Shot,POST_MOVES,0.3333333333333333,2003
-2058,Hook Shot,2PT Field Goal,3,2,Jump Hook Shot,POST_MOVES,0.6666666666666666,2003
-2058,Jump Shot,2PT Field Goal,19,4,Jump Shot,JUMP_SHOTS,0.2105263157894736,2003
-2058,Standard Layup,2PT Field Goal,26,10,Layup Shot,LAYUPS,0.3846153846153846,2003
-2058,Reverse Dunk,2PT Field Goal,1,1,Reverse Dunk Shot,DUNKS,1.0,2003
-2058,Reverse Layup,2PT Field Goal,4,3,Reverse Layup Shot,LAYUPS,0.75,2003
-2058,Running Hook Shot,2PT Field Goal,1,1,Running Hook Shot,POST_MOVES,1.0,2003
-2058,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2003
-2058,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2003
-2058,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2003
-2058,Tip Shot,2PT Field Goal,4,3,Tip Shot,TIP_SHOTS,0.75,2003
-2058,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2003
-2058,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2003
-2058,Standard Dunk,2PT Field Goal,2,1,Dunk Shot,DUNKS,0.5,2004
-2058,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2004
-2058,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2004
-2058,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2004
-2058,Standard Layup,2PT Field Goal,11,7,Layup Shot,LAYUPS,0.6363636363636364,2004
-2058,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2004
-2058,Tip Shot,2PT Field Goal,4,2,Tip Shot,TIP_SHOTS,0.5,2004
-2058,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2004
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Mark Madsen,2058,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2001
+Mark Madsen,2058,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2001
+Mark Madsen,2058,Driving Layup,2,5,2,Driving Layup Shot,LAYUPS,,2001
+Mark Madsen,2058,Standard Dunk,2,9,7,Dunk Shot,DUNKS,,2001
+Mark Madsen,2058,Hook Shot,2,8,4,Hook Shot,POST_MOVES,,2001
+Mark Madsen,2058,Jump Shot,2,25,5,Jump Shot,JUMP_SHOTS,,2001
+Mark Madsen,2058,Jump Shot,3,1,1,Jump Shot,JUMP_SHOTS,,2001
+Mark Madsen,2058,Standard Layup,2,36,14,Layup Shot,LAYUPS,,2001
+Mark Madsen,2058,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2001
+Mark Madsen,2058,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2001
+Mark Madsen,2058,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2001
+Mark Madsen,2058,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2001
+Mark Madsen,2058,Standard Dunk,2,9,9,Slam Dunk Shot,DUNKS,,2001
+Mark Madsen,2058,Tip Shot,2,12,6,Tip Shot,TIP_SHOTS,,2001
+Mark Madsen,2058,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2002
+Mark Madsen,2058,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2002
+Mark Madsen,2058,Driving Layup,2,5,3,Driving Layup Shot,LAYUPS,,2002
+Mark Madsen,2058,Standard Dunk,2,6,4,Dunk Shot,DUNKS,,2002
+Mark Madsen,2058,Hook Shot,2,22,8,Hook Shot,POST_MOVES,,2002
+Mark Madsen,2058,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2002
+Mark Madsen,2058,Jump Shot,2,26,3,Jump Shot,JUMP_SHOTS,,2002
+Mark Madsen,2058,Standard Layup,2,56,25,Layup Shot,LAYUPS,,2002
+Mark Madsen,2058,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2002
+Mark Madsen,2058,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2002
+Mark Madsen,2058,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2002
+Mark Madsen,2058,Standard Dunk,2,8,8,Slam Dunk Shot,DUNKS,,2002
+Mark Madsen,2058,Tip Shot,2,9,6,Tip Shot,TIP_SHOTS,,2002
+Mark Madsen,2058,Turnaround Jump Shot,2,5,3,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Mark Madsen,2058,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2003
+Mark Madsen,2058,Driving Layup,2,2,1,Driving Layup Shot,LAYUPS,,2003
+Mark Madsen,2058,Standard Dunk,2,8,7,Dunk Shot,DUNKS,,2003
+Mark Madsen,2058,Specialty Dunk,2,5,4,Follow Up Dunk Shot,DUNKS,,2003
+Mark Madsen,2058,Hook Shot,2,14,4,Hook Shot,POST_MOVES,,2003
+Mark Madsen,2058,Hook Shot,2,6,3,Jump Hook Shot,POST_MOVES,,2003
+Mark Madsen,2058,Jump Shot,2,40,7,Jump Shot,JUMP_SHOTS,,2003
+Mark Madsen,2058,Standard Layup,2,57,23,Layup Shot,LAYUPS,,2003
+Mark Madsen,2058,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2003
+Mark Madsen,2058,Reverse Layup,2,5,3,Reverse Layup Shot,LAYUPS,,2003
+Mark Madsen,2058,Running Hook Shot,2,2,2,Running Hook Shot,POST_MOVES,,2003
+Mark Madsen,2058,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2003
+Mark Madsen,2058,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2003
+Mark Madsen,2058,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,2003
+Mark Madsen,2058,Tip Shot,2,10,4,Tip Shot,TIP_SHOTS,,2003
+Mark Madsen,2058,Turnaround Hook Shot,2,3,3,Turnaround Hook Shot,POST_MOVES,,2003
+Mark Madsen,2058,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Mark Madsen,2058,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2004
+Mark Madsen,2058,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2004
+Mark Madsen,2058,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2004
+Mark Madsen,2058,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2004
+Mark Madsen,2058,Standard Dunk,2,16,14,Dunk Shot,DUNKS,,2004
+Mark Madsen,2058,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2004
+Mark Madsen,2058,Specialty Dunk,2,2,2,Follow Up Dunk Shot,DUNKS,,2004
+Mark Madsen,2058,Hook Shot,2,10,4,Hook Shot,POST_MOVES,,2004
+Mark Madsen,2058,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2004
+Mark Madsen,2058,Hook Shot,2,4,2,Jump Hook Shot,POST_MOVES,,2004
+Mark Madsen,2058,Jump Shot,2,48,7,Jump Shot,JUMP_SHOTS,,2004
+Mark Madsen,2058,Jump Shot,3,4,0,Jump Shot,JUMP_SHOTS,,2004
+Mark Madsen,2058,Standard Layup,2,75,43,Layup Shot,LAYUPS,,2004
+Mark Madsen,2058,Reverse Layup,2,6,4,Reverse Layup Shot,LAYUPS,,2004
+Mark Madsen,2058,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2004
+Mark Madsen,2058,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,2004
+Mark Madsen,2058,Tip Shot,2,21,10,Tip Shot,TIP_SHOTS,,2004
+Mark Madsen,2058,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2004
+Mark Madsen,2058,Turnaround Jump Shot,2,2,2,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Mark Madsen,2058,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,2005
+Mark Madsen,2058,Standard Dunk,2,4,2,Dunk Shot,DUNKS,,2005
+Mark Madsen,2058,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2005
+Mark Madsen,2058,Hook Shot,2,4,3,Hook Shot,POST_MOVES,,2005
+Mark Madsen,2058,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2005
+Mark Madsen,2058,Hook Shot,2,2,1,Jump Hook Shot,POST_MOVES,,2005
+Mark Madsen,2058,Jump Shot,2,6,0,Jump Shot,JUMP_SHOTS,,2005
+Mark Madsen,2058,Standard Layup,2,32,17,Layup Shot,LAYUPS,,2005
+Mark Madsen,2058,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2005
+Mark Madsen,2058,Tip Shot,2,10,3,Tip Shot,TIP_SHOTS,,2005
+Mark Madsen,2058,Turnaround Hook Shot,2,2,2,Turnaround Hook Shot,POST_MOVES,,2005
+Mark Madsen,2058,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2006
+Mark Madsen,2058,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2006
+Mark Madsen,2058,Standard Dunk,2,5,4,Dunk Shot,DUNKS,,2006
+Mark Madsen,2058,Hook Shot,2,8,4,Hook Shot,POST_MOVES,,2006
+Mark Madsen,2058,Hook Shot,2,2,1,Jump Hook Shot,POST_MOVES,,2006
+Mark Madsen,2058,Jump Shot,2,15,0,Jump Shot,JUMP_SHOTS,,2006
+Mark Madsen,2058,Standard Layup,2,22,8,Layup Shot,LAYUPS,,2006
+Mark Madsen,2058,Reverse Layup,2,7,4,Reverse Layup Shot,LAYUPS,,2006
+Mark Madsen,2058,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2006
+Mark Madsen,2058,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2006
+Mark Madsen,2058,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,2007
+Mark Madsen,2058,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2007
+Mark Madsen,2058,Specialty Dunk,2,1,0,Follow Up Dunk Shot,DUNKS,,2007
+Mark Madsen,2058,Hook Shot,2,4,2,Hook Shot,POST_MOVES,,2007
+Mark Madsen,2058,Jump Shot,2,12,3,Jump Shot,JUMP_SHOTS,,2007
+Mark Madsen,2058,Standard Layup,2,18,12,Layup Shot,LAYUPS,,2007
+Mark Madsen,2058,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2007
+Mark Madsen,2058,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,,2007
+Mark Madsen,2058,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2008
+Mark Madsen,2058,Hook Shot,2,2,0,Jump Hook Shot,POST_MOVES,,2008
+Mark Madsen,2058,Jump Shot,2,5,1,Jump Shot,JUMP_SHOTS,,2008
+Mark Madsen,2058,Standard Layup,2,8,0,Layup Shot,LAYUPS,,2008
+Mark Madsen,2058,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2008
+Mark Madsen,2058,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2008
+Mark Madsen,2058,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2009
+Mark Madsen,2058,Hook Shot,2,2,2,Hook Shot,POST_MOVES,,2009
+Mark Madsen,2058,Hook Shot,2,4,0,Jump Hook Shot,POST_MOVES,,2009
+Mark Madsen,2058,Jump Shot,2,3,0,Jump Shot,JUMP_SHOTS,,2009
+Mark Madsen,2058,Standard Layup,2,2,0,Layup Shot,LAYUPS,,2009
+Mark Madsen,2058,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2009
+Mark Madsen,2058,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2009

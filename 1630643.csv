@@ -1,24 +1,49 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1630643,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2023
-1630643,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2024
-1630643,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2024
-1630643,Jump Shot,3PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2024
-1630643,Jump Shot,3PT Field Goal,6,3,Jump Shot,JUMP_SHOTS,0.75,2024
-1630643,Alley Oop Dunk,2PT Field Goal,3,3,Alley Oop Dunk Shot,DUNKS,1.0,2025
-1630643,Specialty Dunk,2PT Field Goal,2,2,Cutting Dunk Shot,DUNKS,1.0,2025
-1630643,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2025
-1630643,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2025
-1630643,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2025
-1630643,Driving Layup,2PT Field Goal,2,2,Driving Layup Shot,LAYUPS,1.0,2025
-1630643,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2025
-1630643,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2025
-1630643,Jump Shot,3PT Field Goal,43,15,Jump Shot,JUMP_SHOTS,0.5232558139534884,2025
-1630643,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2025
-1630643,Reverse Dunk,2PT Field Goal,1,0,Reverse Dunk Shot,DUNKS,0.0,2025
-1630643,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2025
-1630643,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2025
-1630643,Running Jump Shot,3PT Field Goal,4,4,Running Jump Shot,JUMP_SHOTS,1.5,2025
-1630643,Step Back Jump Shot,3PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.5,2025
-1630643,Specialty Dunk,2PT Field Goal,3,2,Tip Dunk Shot,DUNKS,0.6666666666666666,2025
-1630643,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2025
-1630643,Turnaround Hook Shot,2PT Field Goal,2,2,Turnaround Hook Shot,POST_MOVES,1.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Jay Huff,1630643,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2022
+Jay Huff,1630643,Jump Shot,2,2,0,Jump Shot,JUMP_SHOTS,,2022
+Jay Huff,1630643,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Jay Huff,1630643,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2023
+Jay Huff,1630643,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2023
+Jay Huff,1630643,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2023
+Jay Huff,1630643,Jump Shot,2,10,6,Jump Shot,JUMP_SHOTS,,2023
+Jay Huff,1630643,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,2023
+Jay Huff,1630643,Standard Layup,2,1,1,Layup Shot,LAYUPS,,2023
+Jay Huff,1630643,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2023
+Jay Huff,1630643,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2023
+Jay Huff,1630643,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2023
+Jay Huff,1630643,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2023
+Jay Huff,1630643,Putback Layup,2,1,0,Tip Layup Shot,LAYUPS,,2023
+Jay Huff,1630643,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2023
+Jay Huff,1630643,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2024
+Jay Huff,1630643,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Jay Huff,1630643,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,2024
+Jay Huff,1630643,Jump Shot,3,1,0,Jump Bank Shot,JUMP_SHOTS,,2024
+Jay Huff,1630643,Jump Shot,3,8,3,Jump Shot,JUMP_SHOTS,,2024
+Jay Huff,1630643,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2024
+Jay Huff,1630643,Alley Oop Dunk,2,10,9,Alley Oop Dunk Shot,DUNKS,,2025
+Jay Huff,1630643,Specialty Dunk,2,7,7,Cutting Dunk Shot,DUNKS,,2025
+Jay Huff,1630643,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2025
+Jay Huff,1630643,Driving Dunk,2,5,4,Driving Dunk Shot,DUNKS,,2025
+Jay Huff,1630643,Finger Roll,2,8,6,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Jay Huff,1630643,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Jay Huff,1630643,Driving Layup,2,4,3,Driving Layup Shot,LAYUPS,,2025
+Jay Huff,1630643,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2025
+Jay Huff,1630643,Standard Dunk,2,4,3,Dunk Shot,DUNKS,,2025
+Jay Huff,1630643,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2025
+Jay Huff,1630643,Jump Shot,3,1,0,Jump Bank Shot,JUMP_SHOTS,,2025
+Jay Huff,1630643,Jump Shot,2,3,0,Jump Shot,JUMP_SHOTS,,2025
+Jay Huff,1630643,Jump Shot,3,120,46,Jump Shot,JUMP_SHOTS,,2025
+Jay Huff,1630643,Standard Layup,2,2,1,Layup Shot,LAYUPS,,2025
+Jay Huff,1630643,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2025
+Jay Huff,1630643,Reverse Dunk,2,3,2,Reverse Dunk Shot,DUNKS,,2025
+Jay Huff,1630643,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2025
+Jay Huff,1630643,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2025
+Jay Huff,1630643,Running Jump Shot,3,16,11,Running Jump Shot,JUMP_SHOTS,,2025
+Jay Huff,1630643,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2025
+Jay Huff,1630643,Running Jump Shot,3,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025
+Jay Huff,1630643,Step Back Jump Shot,3,2,1,Step Back Jump shot,JUMP_SHOTS,,2025
+Jay Huff,1630643,Specialty Dunk,2,3,2,Tip Dunk Shot,DUNKS,,2025
+Jay Huff,1630643,Putback Layup,2,5,3,Tip Layup Shot,LAYUPS,,2025
+Jay Huff,1630643,Turnaround Jump Shot,2,2,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2025
+Jay Huff,1630643,Turnaround Hook Shot,2,3,3,Turnaround Hook Shot,POST_MOVES,,2025
+Jay Huff,1630643,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2025

@@ -1,31 +1,61 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1742,Driving Layup,2PT Field Goal,3,3,Driving Layup Shot,LAYUPS,1.0,2000
-1742,Jump Shot,2PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,2000
-1742,Jump Shot,3PT Field Goal,9,5,Jump Shot,JUMP_SHOTS,0.8333333333333334,2000
-1742,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2000
-1742,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2001
-1742,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2001
-1742,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2002
-1742,Jump Shot,2PT Field Goal,6,2,Jump Shot,JUMP_SHOTS,0.3333333333333333,2002
-1742,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2002
-1742,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2003
-1742,Driving Layup,2PT Field Goal,11,7,Driving Layup Shot,LAYUPS,0.6363636363636364,2003
-1742,Fadeaway Jump Shot,2PT Field Goal,2,1,Fadeaway Jump Shot,JUMP_SHOTS,0.5,2003
-1742,Jump Shot,2PT Field Goal,72,27,Jump Shot,JUMP_SHOTS,0.375,2003
-1742,Jump Shot,3PT Field Goal,87,28,Jump Shot,JUMP_SHOTS,0.4827586206896552,2003
-1742,Standard Layup,2PT Field Goal,12,6,Layup Shot,LAYUPS,0.5,2003
-1742,Reverse Layup,2PT Field Goal,6,2,Reverse Layup Shot,LAYUPS,0.3333333333333333,2003
-1742,Running Jump Shot,2PT Field Goal,6,2,Running Jump Shot,JUMP_SHOTS,0.3333333333333333,2003
-1742,Standard Layup,2PT Field Goal,2,1,Running Layup Shot,LAYUPS,0.5,2003
-1742,Standard Dunk,2PT Field Goal,3,3,Slam Dunk Shot,DUNKS,1.0,2003
-1742,Driving Layup,2PT Field Goal,2,2,Driving Layup Shot,LAYUPS,1.0,2004
-1742,Jump Shot,2PT Field Goal,19,6,Jump Shot,JUMP_SHOTS,0.3157894736842105,2004
-1742,Jump Shot,3PT Field Goal,17,7,Jump Shot,JUMP_SHOTS,0.6176470588235294,2004
-1742,Standard Layup,2PT Field Goal,6,5,Layup Shot,LAYUPS,0.8333333333333334,2004
-1742,Reverse Dunk,2PT Field Goal,1,1,Reverse Dunk Shot,DUNKS,1.0,2004
-1742,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2004
-1742,Running Jump Shot,2PT Field Goal,4,1,Running Jump Shot,JUMP_SHOTS,0.25,2004
-1742,Jump Shot,2PT Field Goal,4,2,Jump Shot,JUMP_SHOTS,0.5,2007
-1742,Jump Shot,3PT Field Goal,15,9,Jump Shot,JUMP_SHOTS,0.9,2007
-1742,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2007
-1742,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2007
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Shammond Williams,1742,Jump Shot,2,1,0,Jump Shot,JUMP_SHOTS,,1999
+Shammond Williams,1742,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2000
+Shammond Williams,1742,Driving Layup,2,17,12,Driving Layup Shot,LAYUPS,,2000
+Shammond Williams,1742,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2000
+Shammond Williams,1742,Jump Shot,2,167,47,Jump Shot,JUMP_SHOTS,,2000
+Shammond Williams,1742,Jump Shot,3,14,7,Jump Shot,JUMP_SHOTS,,2000
+Shammond Williams,1742,Standard Layup,2,15,7,Layup Shot,LAYUPS,,2000
+Shammond Williams,1742,Running Jump Shot,2,7,7,Running Jump Shot,JUMP_SHOTS,,2000
+Shammond Williams,1742,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2000
+Shammond Williams,1742,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,,2000
+Shammond Williams,1742,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2001
+Shammond Williams,1742,Driving Layup,2,27,18,Driving Layup Shot,LAYUPS,,2001
+Shammond Williams,1742,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2001
+Shammond Williams,1742,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2001
+Shammond Williams,1742,Jump Shot,2,279,109,Jump Shot,JUMP_SHOTS,,2001
+Shammond Williams,1742,Jump Shot,3,3,2,Jump Shot,JUMP_SHOTS,,2001
+Shammond Williams,1742,Standard Layup,2,36,17,Layup Shot,LAYUPS,,2001
+Shammond Williams,1742,Running Jump Shot,2,14,8,Running Jump Shot,JUMP_SHOTS,,2001
+Shammond Williams,1742,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2001
+Shammond Williams,1742,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2001
+Shammond Williams,1742,Turnaround Jump Shot,2,2,2,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Shammond Williams,1742,Driving Dunk,2,5,5,Driving Dunk Shot,DUNKS,,2002
+Shammond Williams,1742,Driving Layup,2,6,5,Driving Layup Shot,LAYUPS,,2002
+Shammond Williams,1742,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2002
+Shammond Williams,1742,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Shammond Williams,1742,Jump Shot,2,154,58,Jump Shot,JUMP_SHOTS,,2002
+Shammond Williams,1742,Jump Shot,3,7,2,Jump Shot,JUMP_SHOTS,,2002
+Shammond Williams,1742,Standard Layup,2,11,5,Layup Shot,LAYUPS,,2002
+Shammond Williams,1742,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2002
+Shammond Williams,1742,Running Jump Shot,2,7,5,Running Jump Shot,JUMP_SHOTS,,2002
+Shammond Williams,1742,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2003
+Shammond Williams,1742,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2003
+Shammond Williams,1742,Finger Roll,2,2,1,Driving Finger Roll Shot,LAYUPS,,2003
+Shammond Williams,1742,Driving Layup,2,31,21,Driving Layup Shot,LAYUPS,,2003
+Shammond Williams,1742,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2003
+Shammond Williams,1742,Fadeaway Jump Shot,2,4,2,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Shammond Williams,1742,Jump Shot,2,314,111,Jump Shot,JUMP_SHOTS,,2003
+Shammond Williams,1742,Jump Shot,3,135,49,Jump Shot,JUMP_SHOTS,,2003
+Shammond Williams,1742,Standard Layup,2,49,20,Layup Shot,LAYUPS,,2003
+Shammond Williams,1742,Reverse Layup,2,10,5,Reverse Layup Shot,LAYUPS,,2003
+Shammond Williams,1742,Running Jump Shot,2,16,5,Running Jump Shot,JUMP_SHOTS,,2003
+Shammond Williams,1742,Standard Layup,2,3,1,Running Layup Shot,LAYUPS,,2003
+Shammond Williams,1742,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2003
+Shammond Williams,1742,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Shammond Williams,1742,Driving Layup,2,15,12,Driving Layup Shot,LAYUPS,,2004
+Shammond Williams,1742,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2004
+Shammond Williams,1742,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Shammond Williams,1742,Jump Shot,2,152,46,Jump Shot,JUMP_SHOTS,,2004
+Shammond Williams,1742,Jump Shot,3,22,8,Jump Shot,JUMP_SHOTS,,2004
+Shammond Williams,1742,Standard Layup,2,29,14,Layup Shot,LAYUPS,,2004
+Shammond Williams,1742,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2004
+Shammond Williams,1742,Reverse Layup,2,2,0,Reverse Layup Shot,LAYUPS,,2004
+Shammond Williams,1742,Running Jump Shot,2,8,3,Running Jump Shot,JUMP_SHOTS,,2004
+Shammond Williams,1742,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2004
+Shammond Williams,1742,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2007
+Shammond Williams,1742,Jump Shot,2,57,20,Jump Shot,JUMP_SHOTS,,2007
+Shammond Williams,1742,Jump Shot,3,19,10,Jump Shot,JUMP_SHOTS,,2007
+Shammond Williams,1742,Standard Layup,2,6,3,Layup Shot,LAYUPS,,2007
+Shammond Williams,1742,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2007
+Shammond Williams,1742,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2007

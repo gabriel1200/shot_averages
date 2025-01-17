@@ -1,47 +1,432 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-2207,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2002
-2207,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2002
-2207,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2002
-2207,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2002
-2207,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2002
-2207,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2002
-2207,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2002
-2207,Driving Layup,2PT Field Goal,2,2,Driving Layup Shot,LAYUPS,1.0,2003
-2207,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2003
-2207,Jump Shot,2PT Field Goal,25,3,Jump Shot,JUMP_SHOTS,0.12,2003
-2207,Jump Shot,3PT Field Goal,12,4,Jump Shot,JUMP_SHOTS,0.5,2003
-2207,Standard Layup,2PT Field Goal,3,1,Layup Shot,LAYUPS,0.3333333333333333,2003
-2207,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2003
-2207,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2004
-2207,Driving Layup,2PT Field Goal,5,4,Driving Layup Shot,LAYUPS,0.8,2004
-2207,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2004
-2207,Jump Shot,2PT Field Goal,43,17,Jump Shot,JUMP_SHOTS,0.3953488372093023,2004
-2207,Jump Shot,3PT Field Goal,24,10,Jump Shot,JUMP_SHOTS,0.625,2004
-2207,Standard Layup,2PT Field Goal,6,3,Layup Shot,LAYUPS,0.5,2004
-2207,Reverse Layup,2PT Field Goal,2,2,Reverse Layup Shot,LAYUPS,1.0,2004
-2207,Running Jump Shot,2PT Field Goal,2,2,Running Jump Shot,JUMP_SHOTS,1.0,2004
-2207,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2004
-2207,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2005
-2207,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2005
-2207,Finger Roll,2PT Field Goal,1,0,Finger Roll Shot,LAYUPS,0.0,2005
-2207,Jump Shot,2PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2005
-2207,Jump Shot,3PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2005
-2207,Jump Shot,2PT Field Goal,28,10,Jump Shot,JUMP_SHOTS,0.3571428571428571,2005
-2207,Jump Shot,3PT Field Goal,32,13,Jump Shot,JUMP_SHOTS,0.609375,2005
-2207,Standard Layup,2PT Field Goal,7,2,Layup Shot,LAYUPS,0.2857142857142857,2005
-2207,Running Jump Shot,2PT Field Goal,6,6,Running Jump Shot,JUMP_SHOTS,1.0,2005
-2207,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2006
-2207,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2007
-2207,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2007
-2207,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2009
-2207,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2009
-2207,Fadeaway Jump Shot,2PT Field Goal,2,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2009
-2207,Jump Shot,2PT Field Goal,5,2,Jump Shot,JUMP_SHOTS,0.4,2009
-2207,Jump Shot,3PT Field Goal,8,4,Jump Shot,JUMP_SHOTS,0.75,2009
-2207,Standard Layup,2PT Field Goal,2,2,Layup Shot,LAYUPS,1.0,2009
-2207,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2009
-2207,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2009
-2207,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2012
-2207,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2012
-2207,Jump Shot,2PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,2012
-2207,Jump Shot,3PT Field Goal,4,1,Jump Shot,JUMP_SHOTS,0.375,2012
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Joe Johnson,2207,Alley Oop Layup,2,4,3,Alley Oop Layup shot,LAYUPS,,2002
+Joe Johnson,2207,Driving Layup,2,14,11,Driving Layup Shot,LAYUPS,,2002
+Joe Johnson,2207,Standard Dunk,2,9,9,Dunk Shot,DUNKS,,2002
+Joe Johnson,2207,Fadeaway Jump Shot,2,5,3,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Joe Johnson,2207,Hook Shot,2,3,3,Hook Shot,POST_MOVES,,2002
+Joe Johnson,2207,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2002
+Joe Johnson,2207,Jump Shot,2,418,152,Jump Shot,JUMP_SHOTS,,2002
+Joe Johnson,2207,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2002
+Joe Johnson,2207,Standard Layup,2,83,38,Layup Shot,LAYUPS,,2002
+Joe Johnson,2207,Reverse Layup,2,7,5,Reverse Layup Shot,LAYUPS,,2002
+Joe Johnson,2207,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2002
+Joe Johnson,2207,Running Jump Shot,2,14,8,Running Jump Shot,JUMP_SHOTS,,2002
+Joe Johnson,2207,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2002
+Joe Johnson,2207,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,2002
+Joe Johnson,2207,Tip Shot,2,9,4,Tip Shot,TIP_SHOTS,,2002
+Joe Johnson,2207,Finger Roll,2,1,1,Turnaround Finger Roll Shot,LAYUPS,,2002
+Joe Johnson,2207,Turnaround Jump Shot,2,8,7,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Joe Johnson,2207,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2003
+Joe Johnson,2207,Finger Roll,2,3,2,Driving Finger Roll Shot,LAYUPS,,2003
+Joe Johnson,2207,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2003
+Joe Johnson,2207,Driving Layup,2,32,22,Driving Layup Shot,LAYUPS,,2003
+Joe Johnson,2207,Standard Dunk,2,5,3,Dunk Shot,DUNKS,,2003
+Joe Johnson,2207,Fadeaway Jump Shot,2,3,1,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Joe Johnson,2207,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2003
+Joe Johnson,2207,Jump Shot,2,603,221,Jump Shot,JUMP_SHOTS,,2003
+Joe Johnson,2207,Jump Shot,3,13,4,Jump Shot,JUMP_SHOTS,,2003
+Joe Johnson,2207,Standard Layup,2,92,37,Layup Shot,LAYUPS,,2003
+Joe Johnson,2207,Reverse Layup,2,4,1,Reverse Layup Shot,LAYUPS,,2003
+Joe Johnson,2207,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2003
+Joe Johnson,2207,Running Hook Shot,2,2,2,Running Hook Shot,POST_MOVES,,2003
+Joe Johnson,2207,Running Jump Shot,2,18,14,Running Jump Shot,JUMP_SHOTS,,2003
+Joe Johnson,2207,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2003
+Joe Johnson,2207,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2003
+Joe Johnson,2207,Tip Shot,2,2,0,Tip Shot,TIP_SHOTS,,2003
+Joe Johnson,2207,Turnaround Jump Shot,2,12,4,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Joe Johnson,2207,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2004
+Joe Johnson,2207,Driving Dunk,2,6,6,Driving Dunk Shot,DUNKS,,2004
+Joe Johnson,2207,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2004
+Joe Johnson,2207,Driving Layup,2,71,62,Driving Layup Shot,LAYUPS,,2004
+Joe Johnson,2207,Standard Dunk,2,16,13,Dunk Shot,DUNKS,,2004
+Joe Johnson,2207,Fadeaway Jump Shot,2,5,4,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Joe Johnson,2207,Specialty Dunk,2,2,2,Follow Up Dunk Shot,DUNKS,,2004
+Joe Johnson,2207,Hook Shot,2,4,3,Hook Shot,POST_MOVES,,2004
+Joe Johnson,2207,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2004
+Joe Johnson,2207,Hook Shot,2,4,2,Jump Hook Shot,POST_MOVES,,2004
+Joe Johnson,2207,Jump Shot,2,855,290,Jump Shot,JUMP_SHOTS,,2004
+Joe Johnson,2207,Jump Shot,3,24,10,Jump Shot,JUMP_SHOTS,,2004
+Joe Johnson,2207,Standard Layup,2,166,61,Layup Shot,LAYUPS,,2004
+Joe Johnson,2207,Reverse Dunk,2,3,3,Reverse Dunk Shot,DUNKS,,2004
+Joe Johnson,2207,Reverse Layup,2,22,14,Reverse Layup Shot,LAYUPS,,2004
+Joe Johnson,2207,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2004
+Joe Johnson,2207,Finger Roll,2,1,1,Running Finger Roll Shot,LAYUPS,,2004
+Joe Johnson,2207,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2004
+Joe Johnson,2207,Running Jump Shot,2,73,56,Running Jump Shot,JUMP_SHOTS,,2004
+Joe Johnson,2207,Standard Layup,2,4,4,Running Layup Shot,LAYUPS,,2004
+Joe Johnson,2207,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,2004
+Joe Johnson,2207,Tip Shot,2,10,4,Tip Shot,TIP_SHOTS,,2004
+Joe Johnson,2207,Turnaround Jump Shot,2,13,8,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Joe Johnson,2207,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2005
+Joe Johnson,2207,Finger Roll,2,2,2,Driving Finger Roll Shot,LAYUPS,,2005
+Joe Johnson,2207,Driving Layup,2,32,31,Driving Layup Shot,LAYUPS,,2005
+Joe Johnson,2207,Standard Dunk,2,11,10,Dunk Shot,DUNKS,,2005
+Joe Johnson,2207,Fadeaway Jump Shot,2,4,3,Fadeaway Jump Shot,JUMP_SHOTS,,2005
+Joe Johnson,2207,Finger Roll,2,2,1,Finger Roll Shot,LAYUPS,,2005
+Joe Johnson,2207,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2005
+Joe Johnson,2207,Jump Shot,2,5,3,Jump Bank Shot,JUMP_SHOTS,,2005
+Joe Johnson,2207,Jump Shot,3,1,0,Jump Bank Shot,JUMP_SHOTS,,2005
+Joe Johnson,2207,Hook Shot,2,4,3,Jump Hook Shot,POST_MOVES,,2005
+Joe Johnson,2207,Jump Shot,2,842,344,Jump Shot,JUMP_SHOTS,,2005
+Joe Johnson,2207,Jump Shot,3,32,13,Jump Shot,JUMP_SHOTS,,2005
+Joe Johnson,2207,Standard Layup,2,141,61,Layup Shot,LAYUPS,,2005
+Joe Johnson,2207,Reverse Layup,2,5,2,Reverse Layup Shot,LAYUPS,,2005
+Joe Johnson,2207,Running Jump Shot,2,58,50,Running Jump Shot,JUMP_SHOTS,,2005
+Joe Johnson,2207,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2005
+Joe Johnson,2207,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2005
+Joe Johnson,2207,Tip Shot,2,13,6,Tip Shot,TIP_SHOTS,,2005
+Joe Johnson,2207,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2005
+Joe Johnson,2207,Turnaround Jump Shot,2,17,8,Turnaround Jump Shot,JUMP_SHOTS,,2005
+Joe Johnson,2207,Alley Oop Layup,2,4,4,Alley Oop Layup shot,LAYUPS,,2006
+Joe Johnson,2207,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2006
+Joe Johnson,2207,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2006
+Joe Johnson,2207,Driving Layup,2,55,50,Driving Layup Shot,LAYUPS,,2006
+Joe Johnson,2207,Standard Dunk,2,7,7,Dunk Shot,DUNKS,,2006
+Joe Johnson,2207,Fadeaway Jump Shot,2,4,3,Fadeaway Jump Shot,JUMP_SHOTS,,2006
+Joe Johnson,2207,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2006
+Joe Johnson,2207,Hook Shot,2,5,4,Hook Shot,POST_MOVES,,2006
+Joe Johnson,2207,Jump Shot,2,6,5,Jump Bank Shot,JUMP_SHOTS,,2006
+Joe Johnson,2207,Hook Shot,2,3,3,Jump Hook Shot,POST_MOVES,,2006
+Joe Johnson,2207,Jump Shot,2,1009,366,Jump Shot,JUMP_SHOTS,,2006
+Joe Johnson,2207,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2006
+Joe Johnson,2207,Standard Layup,2,164,79,Layup Shot,LAYUPS,,2006
+Joe Johnson,2207,Reverse Layup,2,13,11,Reverse Layup Shot,LAYUPS,,2006
+Joe Johnson,2207,Running Hook Shot,2,3,2,Running Hook Shot,POST_MOVES,,2006
+Joe Johnson,2207,Running Jump Shot,2,84,70,Running Jump Shot,JUMP_SHOTS,,2006
+Joe Johnson,2207,Standard Layup,2,6,4,Running Layup Shot,LAYUPS,,2006
+Joe Johnson,2207,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2006
+Joe Johnson,2207,Tip Shot,2,9,4,Tip Shot,TIP_SHOTS,,2006
+Joe Johnson,2207,Turnaround Jump Shot,2,17,15,Turnaround Jump Shot,JUMP_SHOTS,,2006
+Joe Johnson,2207,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2007
+Joe Johnson,2207,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2007
+Joe Johnson,2207,Finger Roll,2,2,2,Driving Finger Roll Shot,LAYUPS,,2007
+Joe Johnson,2207,Driving Layup,2,70,47,Driving Layup Shot,LAYUPS,,2007
+Joe Johnson,2207,Standard Dunk,2,5,5,Dunk Shot,DUNKS,,2007
+Joe Johnson,2207,Fadeaway Jump Shot,2,26,19,Fadeaway Jump Shot,JUMP_SHOTS,,2007
+Joe Johnson,2207,Hook Shot,2,4,4,Hook Shot,POST_MOVES,,2007
+Joe Johnson,2207,Jump Shot,2,6,4,Jump Bank Shot,JUMP_SHOTS,,2007
+Joe Johnson,2207,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2007
+Joe Johnson,2207,Jump Shot,2,784,313,Jump Shot,JUMP_SHOTS,,2007
+Joe Johnson,2207,Standard Layup,2,148,75,Layup Shot,LAYUPS,,2007
+Joe Johnson,2207,Reverse Layup,2,13,10,Reverse Layup Shot,LAYUPS,,2007
+Joe Johnson,2207,Running Jump Shot,2,52,35,Running Jump Shot,JUMP_SHOTS,,2007
+Joe Johnson,2207,Standard Layup,2,7,7,Running Layup Shot,LAYUPS,,2007
+Joe Johnson,2207,Tip Shot,2,1,1,Running Tip Shot,TIP_SHOTS,,2007
+Joe Johnson,2207,Tip Shot,2,5,3,Tip Shot,TIP_SHOTS,,2007
+Joe Johnson,2207,Turnaround Jump Shot,2,13,8,Turnaround Jump Shot,JUMP_SHOTS,,2007
+Joe Johnson,2207,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2008
+Joe Johnson,2207,Driving Dunk,2,4,3,Driving Dunk Shot,DUNKS,,2008
+Joe Johnson,2207,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2008
+Joe Johnson,2207,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2008
+Joe Johnson,2207,Driving Jump Shot,2,3,3,Driving Jump shot,JUMP_SHOTS,,2008
+Joe Johnson,2207,Driving Layup,2,86,56,Driving Layup Shot,LAYUPS,,2008
+Joe Johnson,2207,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2008
+Joe Johnson,2207,Standard Dunk,2,8,7,Dunk Shot,DUNKS,,2008
+Joe Johnson,2207,Fadeaway Jump Shot,2,100,52,Fadeaway Jump Shot,JUMP_SHOTS,,2008
+Joe Johnson,2207,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2008
+Joe Johnson,2207,Floating Jump Shot,2,7,6,Floating Jump shot,FLOATING_SHOTS,,2008
+Joe Johnson,2207,Hook Shot,2,13,4,Hook Shot,POST_MOVES,,2008
+Joe Johnson,2207,Jump Shot,2,5,5,Jump Bank Shot,JUMP_SHOTS,,2008
+Joe Johnson,2207,Hook Shot,2,7,5,Jump Hook Shot,POST_MOVES,,2008
+Joe Johnson,2207,Jump Shot,2,908,311,Jump Shot,JUMP_SHOTS,,2008
+Joe Johnson,2207,Standard Layup,2,133,58,Layup Shot,LAYUPS,,2008
+Joe Johnson,2207,Pullup Jump Shot,2,8,6,Pullup Jump shot,JUMP_SHOTS,,2008
+Joe Johnson,2207,Putback Layup,2,7,7,Putback Layup Shot,LAYUPS,,2008
+Joe Johnson,2207,Reverse Layup,2,7,3,Reverse Layup Shot,LAYUPS,,2008
+Joe Johnson,2207,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2008
+Joe Johnson,2207,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2008
+Joe Johnson,2207,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2008
+Joe Johnson,2207,Running Jump Shot,2,105,69,Running Jump Shot,JUMP_SHOTS,,2008
+Joe Johnson,2207,Standard Layup,2,13,10,Running Layup Shot,LAYUPS,,2008
+Joe Johnson,2207,Step Back Jump Shot,2,3,1,Step Back Jump shot,JUMP_SHOTS,,2008
+Joe Johnson,2207,Tip Shot,2,15,4,Tip Shot,TIP_SHOTS,,2008
+Joe Johnson,2207,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2008
+Joe Johnson,2207,Turnaround Jump Shot,2,7,3,Turnaround Fadeaway shot,JUMP_SHOTS,,2008
+Joe Johnson,2207,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2008
+Joe Johnson,2207,Turnaround Jump Shot,2,46,24,Turnaround Jump Shot,JUMP_SHOTS,,2008
+Joe Johnson,2207,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2009
+Joe Johnson,2207,Driving Dunk,2,5,1,Driving Dunk Shot,DUNKS,,2009
+Joe Johnson,2207,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2009
+Joe Johnson,2207,Driving Jump Shot,2,7,5,Driving Jump shot,JUMP_SHOTS,,2009
+Joe Johnson,2207,Driving Layup,2,81,55,Driving Layup Shot,LAYUPS,,2009
+Joe Johnson,2207,Driving Layup,2,18,9,Driving Reverse Layup Shot,LAYUPS,,2009
+Joe Johnson,2207,Standard Dunk,2,5,5,Dunk Shot,DUNKS,,2009
+Joe Johnson,2207,Fadeaway Jump Shot,2,2,1,Fadeaway Bank shot,JUMP_SHOTS,,2009
+Joe Johnson,2207,Fadeaway Jump Shot,2,116,59,Fadeaway Jump Shot,JUMP_SHOTS,,2009
+Joe Johnson,2207,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2009
+Joe Johnson,2207,Floating Jump Shot,2,12,8,Floating Jump shot,FLOATING_SHOTS,,2009
+Joe Johnson,2207,Hook Shot,2,5,4,Hook Shot,POST_MOVES,,2009
+Joe Johnson,2207,Jump Shot,2,11,10,Jump Bank Shot,JUMP_SHOTS,,2009
+Joe Johnson,2207,Hook Shot,2,9,8,Jump Hook Shot,POST_MOVES,,2009
+Joe Johnson,2207,Jump Shot,2,790,264,Jump Shot,JUMP_SHOTS,,2009
+Joe Johnson,2207,Jump Shot,3,16,8,Jump Shot,JUMP_SHOTS,,2009
+Joe Johnson,2207,Standard Layup,2,105,53,Layup Shot,LAYUPS,,2009
+Joe Johnson,2207,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2009
+Joe Johnson,2207,Pullup Jump Shot,2,13,6,Pullup Jump shot,JUMP_SHOTS,,2009
+Joe Johnson,2207,Putback Layup,2,12,5,Putback Layup Shot,LAYUPS,,2009
+Joe Johnson,2207,Reverse Layup,2,7,4,Reverse Layup Shot,LAYUPS,,2009
+Joe Johnson,2207,Running Jump Shot,2,2,2,Running Bank shot,JUMP_SHOTS,,2009
+Joe Johnson,2207,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2009
+Joe Johnson,2207,Running Hook Shot,2,13,10,Running Hook Shot,POST_MOVES,,2009
+Joe Johnson,2207,Running Jump Shot,2,113,57,Running Jump Shot,JUMP_SHOTS,,2009
+Joe Johnson,2207,Standard Layup,2,13,9,Running Layup Shot,LAYUPS,,2009
+Joe Johnson,2207,Step Back Jump Shot,2,6,1,Step Back Jump shot,JUMP_SHOTS,,2009
+Joe Johnson,2207,Tip Shot,2,7,6,Tip Shot,TIP_SHOTS,,2009
+Joe Johnson,2207,Turnaround Jump Shot,2,1,0,Turnaround Bank shot,JUMP_SHOTS,,2009
+Joe Johnson,2207,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2009
+Joe Johnson,2207,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2009
+Joe Johnson,2207,Turnaround Jump Shot,2,43,24,Turnaround Jump Shot,JUMP_SHOTS,,2009
+Joe Johnson,2207,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2010
+Joe Johnson,2207,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2010
+Joe Johnson,2207,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2010
+Joe Johnson,2207,Driving Jump Shot,2,32,19,Driving Jump shot,JUMP_SHOTS,,2010
+Joe Johnson,2207,Driving Layup,2,99,54,Driving Layup Shot,LAYUPS,,2010
+Joe Johnson,2207,Driving Layup,2,10,5,Driving Reverse Layup Shot,LAYUPS,,2010
+Joe Johnson,2207,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2010
+Joe Johnson,2207,Fadeaway Jump Shot,2,116,63,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+Joe Johnson,2207,Floating Jump Shot,2,14,7,Floating Jump shot,FLOATING_SHOTS,,2010
+Joe Johnson,2207,Hook Shot,2,5,5,Hook Shot,POST_MOVES,,2010
+Joe Johnson,2207,Jump Shot,2,6,5,Jump Bank Shot,JUMP_SHOTS,,2010
+Joe Johnson,2207,Hook Shot,2,5,5,Jump Hook Shot,POST_MOVES,,2010
+Joe Johnson,2207,Jump Shot,2,740,266,Jump Shot,JUMP_SHOTS,,2010
+Joe Johnson,2207,Standard Layup,2,86,41,Layup Shot,LAYUPS,,2010
+Joe Johnson,2207,Pullup Jump Shot,2,2,2,Pullup Bank shot,JUMP_SHOTS,,2010
+Joe Johnson,2207,Pullup Jump Shot,2,18,16,Pullup Jump shot,JUMP_SHOTS,,2010
+Joe Johnson,2207,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2010
+Joe Johnson,2207,Putback Layup,2,5,3,Putback Layup Shot,LAYUPS,,2010
+Joe Johnson,2207,Reverse Layup,2,8,6,Reverse Layup Shot,LAYUPS,,2010
+Joe Johnson,2207,Running Jump Shot,2,1,0,Running Bank shot,JUMP_SHOTS,,2010
+Joe Johnson,2207,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2010
+Joe Johnson,2207,Running Hook Shot,2,4,2,Running Hook Shot,POST_MOVES,,2010
+Joe Johnson,2207,Running Jump Shot,2,95,55,Running Jump Shot,JUMP_SHOTS,,2010
+Joe Johnson,2207,Standard Layup,2,26,21,Running Layup Shot,LAYUPS,,2010
+Joe Johnson,2207,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2010
+Joe Johnson,2207,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2010
+Joe Johnson,2207,Step Back Jump Shot,2,15,11,Step Back Jump shot,JUMP_SHOTS,,2010
+Joe Johnson,2207,Tip Shot,2,22,12,Tip Shot,TIP_SHOTS,,2010
+Joe Johnson,2207,Turnaround Jump Shot,2,5,4,Turnaround Fadeaway shot,JUMP_SHOTS,,2010
+Joe Johnson,2207,Turnaround Jump Shot,2,57,18,Turnaround Jump Shot,JUMP_SHOTS,,2010
+Joe Johnson,2207,Alley Oop Layup,2,7,5,Alley Oop Layup shot,LAYUPS,,2011
+Joe Johnson,2207,Driving Jump Shot,2,1,0,Driving Bank shot,JUMP_SHOTS,,2011
+Joe Johnson,2207,Driving Dunk,2,2,1,Driving Dunk Shot,DUNKS,,2011
+Joe Johnson,2207,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2011
+Joe Johnson,2207,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2011
+Joe Johnson,2207,Driving Jump Shot,2,53,28,Driving Jump shot,JUMP_SHOTS,,2011
+Joe Johnson,2207,Driving Layup,2,60,35,Driving Layup Shot,LAYUPS,,2011
+Joe Johnson,2207,Driving Layup,2,5,3,Driving Reverse Layup Shot,LAYUPS,,2011
+Joe Johnson,2207,Standard Dunk,2,12,11,Dunk Shot,DUNKS,,2011
+Joe Johnson,2207,Fadeaway Jump Shot,2,83,34,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Joe Johnson,2207,Floating Jump Shot,2,24,14,Floating Jump shot,FLOATING_SHOTS,,2011
+Joe Johnson,2207,Hook Shot,2,10,5,Hook Shot,POST_MOVES,,2011
+Joe Johnson,2207,Jump Shot,2,8,6,Jump Bank Shot,JUMP_SHOTS,,2011
+Joe Johnson,2207,Hook Shot,2,3,3,Jump Hook Shot,POST_MOVES,,2011
+Joe Johnson,2207,Jump Shot,2,605,196,Jump Shot,JUMP_SHOTS,,2011
+Joe Johnson,2207,Standard Layup,2,59,40,Layup Shot,LAYUPS,,2011
+Joe Johnson,2207,Pullup Jump Shot,2,18,12,Pullup Jump shot,JUMP_SHOTS,,2011
+Joe Johnson,2207,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2011
+Joe Johnson,2207,Putback Layup,2,8,3,Putback Layup Shot,LAYUPS,,2011
+Joe Johnson,2207,Reverse Layup,2,13,11,Reverse Layup Shot,LAYUPS,,2011
+Joe Johnson,2207,Running Jump Shot,2,3,2,Running Bank shot,JUMP_SHOTS,,2011
+Joe Johnson,2207,Standard Dunk,2,2,1,Running Dunk Shot,DUNKS,,2011
+Joe Johnson,2207,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2011
+Joe Johnson,2207,Running Jump Shot,2,46,26,Running Jump Shot,JUMP_SHOTS,,2011
+Joe Johnson,2207,Standard Layup,2,27,21,Running Layup Shot,LAYUPS,,2011
+Joe Johnson,2207,Reverse Layup,2,4,4,Running Reverse Layup Shot,LAYUPS,,2011
+Joe Johnson,2207,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2011
+Joe Johnson,2207,Step Back Jump Shot,2,6,5,Step Back Jump shot,JUMP_SHOTS,,2011
+Joe Johnson,2207,Tip Shot,2,13,4,Tip Shot,TIP_SHOTS,,2011
+Joe Johnson,2207,Turnaround Jump Shot,2,4,4,Turnaround Fadeaway shot,JUMP_SHOTS,,2011
+Joe Johnson,2207,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2011
+Joe Johnson,2207,Turnaround Jump Shot,2,74,31,Turnaround Jump Shot,JUMP_SHOTS,,2011
+Joe Johnson,2207,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2012
+Joe Johnson,2207,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2012
+Joe Johnson,2207,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2012
+Joe Johnson,2207,Driving Jump Shot,2,32,15,Driving Jump shot,JUMP_SHOTS,,2012
+Joe Johnson,2207,Driving Layup,2,33,21,Driving Layup Shot,LAYUPS,,2012
+Joe Johnson,2207,Driving Layup,2,5,4,Driving Reverse Layup Shot,LAYUPS,,2012
+Joe Johnson,2207,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2012
+Joe Johnson,2207,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2012
+Joe Johnson,2207,Fadeaway Jump Shot,2,88,41,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Joe Johnson,2207,Floating Jump Shot,2,23,14,Floating Jump shot,FLOATING_SHOTS,,2012
+Joe Johnson,2207,Hook Shot,2,3,1,Hook Shot,POST_MOVES,,2012
+Joe Johnson,2207,Jump Shot,2,3,3,Jump Bank Shot,JUMP_SHOTS,,2012
+Joe Johnson,2207,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2012
+Joe Johnson,2207,Jump Shot,2,551,205,Jump Shot,JUMP_SHOTS,,2012
+Joe Johnson,2207,Jump Shot,3,7,1,Jump Shot,JUMP_SHOTS,,2012
+Joe Johnson,2207,Standard Layup,2,40,29,Layup Shot,LAYUPS,,2012
+Joe Johnson,2207,Pullup Jump Shot,2,9,7,Pullup Jump shot,JUMP_SHOTS,,2012
+Joe Johnson,2207,Putback Layup,2,8,6,Putback Layup Shot,LAYUPS,,2012
+Joe Johnson,2207,Reverse Layup,2,6,5,Reverse Layup Shot,LAYUPS,,2012
+Joe Johnson,2207,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2012
+Joe Johnson,2207,Running Jump Shot,2,33,19,Running Jump Shot,JUMP_SHOTS,,2012
+Joe Johnson,2207,Standard Layup,2,9,5,Running Layup Shot,LAYUPS,,2012
+Joe Johnson,2207,Step Back Jump Shot,2,9,8,Step Back Jump shot,JUMP_SHOTS,,2012
+Joe Johnson,2207,Tip Shot,2,9,5,Tip Shot,TIP_SHOTS,,2012
+Joe Johnson,2207,Turnaround Jump Shot,2,10,4,Turnaround Fadeaway shot,JUMP_SHOTS,,2012
+Joe Johnson,2207,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2012
+Joe Johnson,2207,Turnaround Jump Shot,2,42,22,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Joe Johnson,2207,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2013
+Joe Johnson,2207,Driving Jump Shot,2,2,2,Driving Bank shot,JUMP_SHOTS,,2013
+Joe Johnson,2207,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2013
+Joe Johnson,2207,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2013
+Joe Johnson,2207,Driving Jump Shot,2,16,8,Driving Jump shot,JUMP_SHOTS,,2013
+Joe Johnson,2207,Driving Layup,2,24,16,Driving Layup Shot,LAYUPS,,2013
+Joe Johnson,2207,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2013
+Joe Johnson,2207,Fadeaway Jump Shot,2,51,25,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Joe Johnson,2207,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2013
+Joe Johnson,2207,Floating Jump Shot,2,52,34,Floating Jump shot,FLOATING_SHOTS,,2013
+Joe Johnson,2207,Hook Shot,2,5,2,Hook Shot,POST_MOVES,,2013
+Joe Johnson,2207,Jump Shot,2,15,7,Jump Bank Shot,JUMP_SHOTS,,2013
+Joe Johnson,2207,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2013
+Joe Johnson,2207,Jump Shot,2,692,247,Jump Shot,JUMP_SHOTS,,2013
+Joe Johnson,2207,Standard Layup,2,52,16,Layup Shot,LAYUPS,,2013
+Joe Johnson,2207,Pullup Jump Shot,2,22,18,Pullup Jump shot,JUMP_SHOTS,,2013
+Joe Johnson,2207,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2013
+Joe Johnson,2207,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2013
+Joe Johnson,2207,Running Jump Shot,2,7,6,Running Bank shot,JUMP_SHOTS,,2013
+Joe Johnson,2207,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2013
+Joe Johnson,2207,Running Jump Shot,2,23,13,Running Jump Shot,JUMP_SHOTS,,2013
+Joe Johnson,2207,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2013
+Joe Johnson,2207,Step Back Jump Shot,2,32,18,Step Back Jump shot,JUMP_SHOTS,,2013
+Joe Johnson,2207,Tip Shot,2,5,3,Tip Shot,TIP_SHOTS,,2013
+Joe Johnson,2207,Turnaround Jump Shot,2,14,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2013
+Joe Johnson,2207,Turnaround Hook Shot,2,3,2,Turnaround Hook Shot,POST_MOVES,,2013
+Joe Johnson,2207,Turnaround Jump Shot,2,26,18,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Joe Johnson,2207,Driving Jump Shot,2,2,1,Driving Bank shot,JUMP_SHOTS,,2014
+Joe Johnson,2207,Driving Dunk,2,1,0,Driving Dunk Shot,DUNKS,,2014
+Joe Johnson,2207,Finger Roll,2,5,4,Driving Finger Roll Layup Shot,LAYUPS,,2014
+Joe Johnson,2207,Driving Hook Shot,2,4,1,Driving Hook Shot,POST_MOVES,,2014
+Joe Johnson,2207,Driving Jump Shot,2,16,7,Driving Jump shot,JUMP_SHOTS,,2014
+Joe Johnson,2207,Driving Layup,2,27,21,Driving Layup Shot,LAYUPS,,2014
+Joe Johnson,2207,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2014
+Joe Johnson,2207,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2014
+Joe Johnson,2207,Fadeaway Jump Shot,2,34,19,Fadeaway Jump Shot,JUMP_SHOTS,,2014
+Joe Johnson,2207,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2014
+Joe Johnson,2207,Floating Jump Shot,2,54,33,Floating Jump shot,FLOATING_SHOTS,,2014
+Joe Johnson,2207,Hook Shot,2,13,4,Hook Shot,POST_MOVES,,2014
+Joe Johnson,2207,Jump Shot,2,12,7,Jump Bank Shot,JUMP_SHOTS,,2014
+Joe Johnson,2207,Hook Shot,2,12,8,Jump Hook Shot,POST_MOVES,,2014
+Joe Johnson,2207,Jump Shot,2,653,253,Jump Shot,JUMP_SHOTS,,2014
+Joe Johnson,2207,Standard Layup,2,33,24,Layup Shot,LAYUPS,,2014
+Joe Johnson,2207,Pullup Jump Shot,2,16,11,Pullup Jump shot,JUMP_SHOTS,,2014
+Joe Johnson,2207,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2014
+Joe Johnson,2207,Reverse Layup,2,4,2,Reverse Layup Shot,LAYUPS,,2014
+Joe Johnson,2207,Running Jump Shot,2,6,5,Running Bank shot,JUMP_SHOTS,,2014
+Joe Johnson,2207,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2014
+Joe Johnson,2207,Running Jump Shot,2,27,10,Running Jump Shot,JUMP_SHOTS,,2014
+Joe Johnson,2207,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2014
+Joe Johnson,2207,Step Back Jump Shot,2,28,8,Step Back Jump shot,JUMP_SHOTS,,2014
+Joe Johnson,2207,Tip Shot,2,9,3,Tip Shot,TIP_SHOTS,,2014
+Joe Johnson,2207,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2014
+Joe Johnson,2207,Turnaround Jump Shot,2,14,10,Turnaround Fadeaway shot,JUMP_SHOTS,,2014
+Joe Johnson,2207,Turnaround Hook Shot,2,6,6,Turnaround Hook Shot,POST_MOVES,,2014
+Joe Johnson,2207,Turnaround Jump Shot,2,33,17,Turnaround Jump Shot,JUMP_SHOTS,,2014
+Joe Johnson,2207,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2015
+Joe Johnson,2207,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2015
+Joe Johnson,2207,Finger Roll,2,3,3,Driving Finger Roll Layup Shot,LAYUPS,,2015
+Joe Johnson,2207,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2015
+Joe Johnson,2207,Driving Jump Shot,2,25,17,Driving Jump shot,JUMP_SHOTS,,2015
+Joe Johnson,2207,Driving Layup,2,27,21,Driving Layup Shot,LAYUPS,,2015
+Joe Johnson,2207,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2015
+Joe Johnson,2207,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2015
+Joe Johnson,2207,Fadeaway Jump Shot,2,32,15,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+Joe Johnson,2207,Finger Roll,2,3,1,Finger Roll Layup Shot,LAYUPS,,2015
+Joe Johnson,2207,Floating Jump Shot,2,67,43,Floating Jump shot,FLOATING_SHOTS,,2015
+Joe Johnson,2207,Hook Shot,2,10,1,Hook Shot,POST_MOVES,,2015
+Joe Johnson,2207,Jump Shot,2,14,10,Jump Bank Shot,JUMP_SHOTS,,2015
+Joe Johnson,2207,Hook Shot,2,3,3,Jump Hook Shot,POST_MOVES,,2015
+Joe Johnson,2207,Jump Shot,2,633,224,Jump Shot,JUMP_SHOTS,,2015
+Joe Johnson,2207,Standard Layup,2,59,27,Layup Shot,LAYUPS,,2015
+Joe Johnson,2207,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2015
+Joe Johnson,2207,Pullup Jump Shot,2,17,8,Pullup Jump shot,JUMP_SHOTS,,2015
+Joe Johnson,2207,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2015
+Joe Johnson,2207,Reverse Layup,2,4,2,Reverse Layup Shot,LAYUPS,,2015
+Joe Johnson,2207,Running Jump Shot,2,2,2,Running Bank shot,JUMP_SHOTS,,2015
+Joe Johnson,2207,Running Hook Shot,2,2,2,Running Hook Shot,POST_MOVES,,2015
+Joe Johnson,2207,Running Jump Shot,2,41,23,Running Jump Shot,JUMP_SHOTS,,2015
+Joe Johnson,2207,Standard Layup,2,3,1,Running Layup Shot,LAYUPS,,2015
+Joe Johnson,2207,Step Back Jump Shot,2,34,19,Step Back Jump shot,JUMP_SHOTS,,2015
+Joe Johnson,2207,Tip Shot,2,8,4,Tip Shot,TIP_SHOTS,,2015
+Joe Johnson,2207,Turnaround Jump Shot,2,2,0,Turnaround Bank shot,JUMP_SHOTS,,2015
+Joe Johnson,2207,Turnaround Jump Shot,2,10,4,Turnaround Fadeaway shot,JUMP_SHOTS,,2015
+Joe Johnson,2207,Turnaround Jump Shot,2,19,10,Turnaround Jump Shot,JUMP_SHOTS,,2015
+Joe Johnson,2207,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2016
+Joe Johnson,2207,Standard Layup,2,3,2,Cutting Layup Shot,LAYUPS,,2016
+Joe Johnson,2207,Driving Jump Shot,2,8,2,Driving Bank shot,JUMP_SHOTS,,2016
+Joe Johnson,2207,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Joe Johnson,2207,Floating Jump Shot,2,2,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2016
+Joe Johnson,2207,Floating Jump Shot,2,26,19,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Joe Johnson,2207,Driving Hook Shot,2,8,6,Driving Hook Shot,POST_MOVES,,2016
+Joe Johnson,2207,Driving Layup,2,16,10,Driving Layup Shot,LAYUPS,,2016
+Joe Johnson,2207,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2016
+Joe Johnson,2207,Fadeaway Jump Shot,2,18,8,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Joe Johnson,2207,Floating Jump Shot,2,64,33,Floating Jump shot,FLOATING_SHOTS,,2016
+Joe Johnson,2207,Hook Shot,2,7,5,Hook Shot,POST_MOVES,,2016
+Joe Johnson,2207,Jump Shot,2,10,6,Jump Bank Shot,JUMP_SHOTS,,2016
+Joe Johnson,2207,Jump Shot,2,501,177,Jump Shot,JUMP_SHOTS,,2016
+Joe Johnson,2207,Standard Layup,2,25,13,Layup Shot,LAYUPS,,2016
+Joe Johnson,2207,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2016
+Joe Johnson,2207,Pullup Jump Shot,2,42,27,Pullup Jump shot,JUMP_SHOTS,,2016
+Joe Johnson,2207,Putback Layup,2,3,2,Putback Layup Shot,LAYUPS,,2016
+Joe Johnson,2207,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2016
+Joe Johnson,2207,Running Jump Shot,2,14,5,Running Jump Shot,JUMP_SHOTS,,2016
+Joe Johnson,2207,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2016
+Joe Johnson,2207,Running Jump Shot,2,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2016
+Joe Johnson,2207,Step Back Jump Shot,2,49,26,Step Back Jump shot,JUMP_SHOTS,,2016
+Joe Johnson,2207,Putback Layup,2,10,7,Tip Layup Shot,LAYUPS,,2016
+Joe Johnson,2207,Turnaround Jump Shot,2,2,1,Turnaround Bank shot,JUMP_SHOTS,,2016
+Joe Johnson,2207,Turnaround Jump Shot,2,16,7,Turnaround Fadeaway shot,JUMP_SHOTS,,2016
+Joe Johnson,2207,Turnaround Jump Shot,2,26,14,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Joe Johnson,2207,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2017
+Joe Johnson,2207,Driving Jump Shot,2,2,1,Driving Bank shot,JUMP_SHOTS,,2017
+Joe Johnson,2207,Finger Roll,2,4,3,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Joe Johnson,2207,Floating Jump Shot,2,6,3,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2017
+Joe Johnson,2207,Floating Jump Shot,2,23,11,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Joe Johnson,2207,Driving Hook Shot,2,3,3,Driving Hook Shot,POST_MOVES,,2017
+Joe Johnson,2207,Driving Layup,2,6,5,Driving Layup Shot,LAYUPS,,2017
+Joe Johnson,2207,Driving Layup,2,3,3,Driving Reverse Layup Shot,LAYUPS,,2017
+Joe Johnson,2207,Fadeaway Jump Shot,2,2,0,Fadeaway Bank shot,JUMP_SHOTS,,2017
+Joe Johnson,2207,Fadeaway Jump Shot,2,40,17,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Joe Johnson,2207,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2017
+Joe Johnson,2207,Floating Jump Shot,2,38,18,Floating Jump shot,FLOATING_SHOTS,,2017
+Joe Johnson,2207,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2017
+Joe Johnson,2207,Hook Shot,2,4,1,Hook Shot,POST_MOVES,,2017
+Joe Johnson,2207,Jump Shot,2,3,2,Jump Bank Shot,JUMP_SHOTS,,2017
+Joe Johnson,2207,Jump Shot,2,352,125,Jump Shot,JUMP_SHOTS,,2017
+Joe Johnson,2207,Standard Layup,2,24,15,Layup Shot,LAYUPS,,2017
+Joe Johnson,2207,Pullup Jump Shot,2,38,23,Pullup Jump shot,JUMP_SHOTS,,2017
+Joe Johnson,2207,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2017
+Joe Johnson,2207,Running Jump Shot,2,3,2,Running Jump Shot,JUMP_SHOTS,,2017
+Joe Johnson,2207,Running Jump Shot,2,2,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2017
+Joe Johnson,2207,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2017
+Joe Johnson,2207,Step Back Jump Shot,2,24,12,Step Back Jump shot,JUMP_SHOTS,,2017
+Joe Johnson,2207,Putback Layup,2,3,3,Tip Layup Shot,LAYUPS,,2017
+Joe Johnson,2207,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2017
+Joe Johnson,2207,Turnaround Jump Shot,2,15,5,Turnaround Fadeaway shot,JUMP_SHOTS,,2017
+Joe Johnson,2207,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2017
+Joe Johnson,2207,Turnaround Jump Shot,2,21,11,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Joe Johnson,2207,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Joe Johnson,2207,Floating Jump Shot,2,2,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Joe Johnson,2207,Floating Jump Shot,2,12,7,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Joe Johnson,2207,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2018
+Joe Johnson,2207,Driving Layup,2,7,2,Driving Layup Shot,LAYUPS,,2018
+Joe Johnson,2207,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2018
+Joe Johnson,2207,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2018
+Joe Johnson,2207,Fadeaway Jump Shot,2,20,10,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+Joe Johnson,2207,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2018
+Joe Johnson,2207,Floating Jump Shot,2,28,15,Floating Jump shot,FLOATING_SHOTS,,2018
+Joe Johnson,2207,Hook Shot,2,12,3,Hook Shot,POST_MOVES,,2018
+Joe Johnson,2207,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2018
+Joe Johnson,2207,Jump Shot,2,177,48,Jump Shot,JUMP_SHOTS,,2018
+Joe Johnson,2207,Standard Layup,2,3,3,Layup Shot,LAYUPS,,2018
+Joe Johnson,2207,Pullup Jump Shot,2,23,13,Pullup Jump shot,JUMP_SHOTS,,2018
+Joe Johnson,2207,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2018
+Joe Johnson,2207,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2018
+Joe Johnson,2207,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2018
+Joe Johnson,2207,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2018
+Joe Johnson,2207,Step Back Jump Shot,2,1,1,Step Back Bank Jump Shot,JUMP_SHOTS,,2018
+Joe Johnson,2207,Step Back Jump Shot,2,21,10,Step Back Jump shot,JUMP_SHOTS,,2018
+Joe Johnson,2207,Turnaround Jump Shot,2,16,11,Turnaround Fadeaway shot,JUMP_SHOTS,,2018
+Joe Johnson,2207,Turnaround Hook Shot,2,8,3,Turnaround Hook Shot,POST_MOVES,,2018
+Joe Johnson,2207,Turnaround Jump Shot,2,19,9,Turnaround Jump Shot,JUMP_SHOTS,,2018
+Joe Johnson,2207,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2022

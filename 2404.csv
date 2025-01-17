@@ -1,8 +1,277 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-2404,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2006
-2404,Jump Shot,2PT Field Goal,4,1,Jump Shot,JUMP_SHOTS,0.25,2006
-2404,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2006
-2404,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2006
-2404,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2007
-2404,Hook Shot,2PT Field Goal,1,1,Jump Hook Shot,POST_MOVES,1.0,2007
-2404,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2007
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Chris Wilcox,2404,Alley Oop Dunk,2,9,8,Alley Oop Dunk Shot,DUNKS,,2003
+Chris Wilcox,2404,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2003
+Chris Wilcox,2404,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2003
+Chris Wilcox,2404,Driving Layup,2,4,2,Driving Layup Shot,LAYUPS,,2003
+Chris Wilcox,2404,Standard Dunk,2,8,6,Dunk Shot,DUNKS,,2003
+Chris Wilcox,2404,Specialty Dunk,2,5,5,Follow Up Dunk Shot,DUNKS,,2003
+Chris Wilcox,2404,Hook Shot,2,13,8,Hook Shot,POST_MOVES,,2003
+Chris Wilcox,2404,Hook Shot,2,4,4,Jump Hook Shot,POST_MOVES,,2003
+Chris Wilcox,2404,Jump Shot,2,44,11,Jump Shot,JUMP_SHOTS,,2003
+Chris Wilcox,2404,Standard Layup,2,23,8,Layup Shot,LAYUPS,,2003
+Chris Wilcox,2404,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2003
+Chris Wilcox,2404,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2003
+Chris Wilcox,2404,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2003
+Chris Wilcox,2404,Standard Dunk,2,6,5,Slam Dunk Shot,DUNKS,,2003
+Chris Wilcox,2404,Tip Shot,2,9,6,Tip Shot,TIP_SHOTS,,2003
+Chris Wilcox,2404,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2003
+Chris Wilcox,2404,Turnaround Jump Shot,2,6,2,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Chris Wilcox,2404,Alley Oop Dunk,2,6,6,Alley Oop Dunk Shot,DUNKS,,2004
+Chris Wilcox,2404,Alley Oop Layup,2,7,5,Alley Oop Layup shot,LAYUPS,,2004
+Chris Wilcox,2404,Driving Dunk,2,8,7,Driving Dunk Shot,DUNKS,,2004
+Chris Wilcox,2404,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2004
+Chris Wilcox,2404,Driving Layup,2,11,11,Driving Layup Shot,LAYUPS,,2004
+Chris Wilcox,2404,Standard Dunk,2,19,15,Dunk Shot,DUNKS,,2004
+Chris Wilcox,2404,Fadeaway Jump Shot,2,2,2,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Chris Wilcox,2404,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2004
+Chris Wilcox,2404,Specialty Dunk,2,3,3,Follow Up Dunk Shot,DUNKS,,2004
+Chris Wilcox,2404,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2004
+Chris Wilcox,2404,Hook Shot,2,31,15,Hook Shot,POST_MOVES,,2004
+Chris Wilcox,2404,Jump Shot,2,6,5,Jump Bank Shot,JUMP_SHOTS,,2004
+Chris Wilcox,2404,Hook Shot,2,12,8,Jump Hook Shot,POST_MOVES,,2004
+Chris Wilcox,2404,Jump Shot,2,117,24,Jump Shot,JUMP_SHOTS,,2004
+Chris Wilcox,2404,Standard Layup,2,111,50,Layup Shot,LAYUPS,,2004
+Chris Wilcox,2404,Reverse Dunk,2,5,5,Reverse Dunk Shot,DUNKS,,2004
+Chris Wilcox,2404,Reverse Layup,2,4,3,Reverse Layup Shot,LAYUPS,,2004
+Chris Wilcox,2404,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2004
+Chris Wilcox,2404,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2004
+Chris Wilcox,2404,Running Jump Shot,2,3,3,Running Jump Shot,JUMP_SHOTS,,2004
+Chris Wilcox,2404,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2004
+Chris Wilcox,2404,Standard Dunk,2,23,23,Slam Dunk Shot,DUNKS,,2004
+Chris Wilcox,2404,Tip Shot,2,33,21,Tip Shot,TIP_SHOTS,,2004
+Chris Wilcox,2404,Turnaround Hook Shot,2,7,2,Turnaround Hook Shot,POST_MOVES,,2004
+Chris Wilcox,2404,Turnaround Jump Shot,2,22,13,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Chris Wilcox,2404,Alley Oop Dunk,2,9,9,Alley Oop Dunk Shot,DUNKS,,2005
+Chris Wilcox,2404,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2005
+Chris Wilcox,2404,Driving Dunk,2,9,9,Driving Dunk Shot,DUNKS,,2005
+Chris Wilcox,2404,Finger Roll,2,2,1,Driving Finger Roll Shot,LAYUPS,,2005
+Chris Wilcox,2404,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2005
+Chris Wilcox,2404,Driving Layup,2,13,10,Driving Layup Shot,LAYUPS,,2005
+Chris Wilcox,2404,Standard Dunk,2,16,13,Dunk Shot,DUNKS,,2005
+Chris Wilcox,2404,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2005
+Chris Wilcox,2404,Specialty Dunk,2,9,9,Follow Up Dunk Shot,DUNKS,,2005
+Chris Wilcox,2404,Hook Shot,2,23,6,Hook Shot,POST_MOVES,,2005
+Chris Wilcox,2404,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2005
+Chris Wilcox,2404,Hook Shot,2,6,3,Jump Hook Shot,POST_MOVES,,2005
+Chris Wilcox,2404,Jump Shot,2,96,28,Jump Shot,JUMP_SHOTS,,2005
+Chris Wilcox,2404,Standard Layup,2,73,26,Layup Shot,LAYUPS,,2005
+Chris Wilcox,2404,Reverse Dunk,2,2,2,Reverse Dunk Shot,DUNKS,,2005
+Chris Wilcox,2404,Reverse Layup,2,5,2,Reverse Layup Shot,LAYUPS,,2005
+Chris Wilcox,2404,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2005
+Chris Wilcox,2404,Running Hook Shot,2,3,3,Running Hook Shot,POST_MOVES,,2005
+Chris Wilcox,2404,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2005
+Chris Wilcox,2404,Standard Dunk,2,24,24,Slam Dunk Shot,DUNKS,,2005
+Chris Wilcox,2404,Tip Shot,2,9,3,Tip Shot,TIP_SHOTS,,2005
+Chris Wilcox,2404,Turnaround Hook Shot,2,6,4,Turnaround Hook Shot,POST_MOVES,,2005
+Chris Wilcox,2404,Turnaround Jump Shot,2,15,9,Turnaround Jump Shot,JUMP_SHOTS,,2005
+Chris Wilcox,2404,Alley Oop Dunk,2,30,30,Alley Oop Dunk Shot,DUNKS,,2006
+Chris Wilcox,2404,Alley Oop Layup,2,12,10,Alley Oop Layup shot,LAYUPS,,2006
+Chris Wilcox,2404,Driving Dunk,2,7,7,Driving Dunk Shot,DUNKS,,2006
+Chris Wilcox,2404,Driving Layup,2,10,9,Driving Layup Shot,LAYUPS,,2006
+Chris Wilcox,2404,Standard Dunk,2,16,12,Dunk Shot,DUNKS,,2006
+Chris Wilcox,2404,Fadeaway Jump Shot,2,8,6,Fadeaway Jump Shot,JUMP_SHOTS,,2006
+Chris Wilcox,2404,Finger Roll,2,5,3,Finger Roll Shot,LAYUPS,,2006
+Chris Wilcox,2404,Specialty Dunk,2,12,12,Follow Up Dunk Shot,DUNKS,,2006
+Chris Wilcox,2404,Hook Shot,2,30,11,Hook Shot,POST_MOVES,,2006
+Chris Wilcox,2404,Jump Shot,2,3,3,Jump Bank Shot,JUMP_SHOTS,,2006
+Chris Wilcox,2404,Hook Shot,2,15,9,Jump Hook Shot,POST_MOVES,,2006
+Chris Wilcox,2404,Jump Shot,2,151,46,Jump Shot,JUMP_SHOTS,,2006
+Chris Wilcox,2404,Standard Layup,2,70,37,Layup Shot,LAYUPS,,2006
+Chris Wilcox,2404,Reverse Dunk,2,1,0,Reverse Dunk Shot,DUNKS,,2006
+Chris Wilcox,2404,Reverse Layup,2,4,3,Reverse Layup Shot,LAYUPS,,2006
+Chris Wilcox,2404,Standard Dunk,2,1,0,Running Dunk Shot,DUNKS,,2006
+Chris Wilcox,2404,Running Hook Shot,2,2,0,Running Hook Shot,POST_MOVES,,2006
+Chris Wilcox,2404,Running Jump Shot,2,5,5,Running Jump Shot,JUMP_SHOTS,,2006
+Chris Wilcox,2404,Tip Shot,2,1,1,Running Tip Shot,TIP_SHOTS,,2006
+Chris Wilcox,2404,Standard Dunk,2,37,36,Slam Dunk Shot,DUNKS,,2006
+Chris Wilcox,2404,Tip Shot,2,13,7,Tip Shot,TIP_SHOTS,,2006
+Chris Wilcox,2404,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2006
+Chris Wilcox,2404,Turnaround Jump Shot,2,16,9,Turnaround Jump Shot,JUMP_SHOTS,,2006
+Chris Wilcox,2404,Alley Oop Dunk,2,32,28,Alley Oop Dunk Shot,DUNKS,,2007
+Chris Wilcox,2404,Alley Oop Layup,2,10,9,Alley Oop Layup shot,LAYUPS,,2007
+Chris Wilcox,2404,Driving Dunk,2,15,15,Driving Dunk Shot,DUNKS,,2007
+Chris Wilcox,2404,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2007
+Chris Wilcox,2404,Driving Hook Shot,2,3,2,Driving Hook Shot,POST_MOVES,,2007
+Chris Wilcox,2404,Driving Layup,2,17,13,Driving Layup Shot,LAYUPS,,2007
+Chris Wilcox,2404,Standard Dunk,2,35,24,Dunk Shot,DUNKS,,2007
+Chris Wilcox,2404,Fadeaway Jump Shot,2,7,5,Fadeaway Jump Shot,JUMP_SHOTS,,2007
+Chris Wilcox,2404,Finger Roll,2,1,0,Finger Roll Shot,LAYUPS,,2007
+Chris Wilcox,2404,Specialty Dunk,2,26,24,Follow Up Dunk Shot,DUNKS,,2007
+Chris Wilcox,2404,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2007
+Chris Wilcox,2404,Hook Shot,2,57,29,Hook Shot,POST_MOVES,,2007
+Chris Wilcox,2404,Jump Shot,2,4,4,Jump Bank Shot,JUMP_SHOTS,,2007
+Chris Wilcox,2404,Hook Shot,2,30,20,Jump Hook Shot,POST_MOVES,,2007
+Chris Wilcox,2404,Jump Shot,2,291,77,Jump Shot,JUMP_SHOTS,,2007
+Chris Wilcox,2404,Standard Layup,2,126,62,Layup Shot,LAYUPS,,2007
+Chris Wilcox,2404,Reverse Dunk,2,6,5,Reverse Dunk Shot,DUNKS,,2007
+Chris Wilcox,2404,Reverse Layup,2,13,9,Reverse Layup Shot,LAYUPS,,2007
+Chris Wilcox,2404,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2007
+Chris Wilcox,2404,Finger Roll,2,1,1,Running Finger Roll Shot,LAYUPS,,2007
+Chris Wilcox,2404,Running Hook Shot,2,5,3,Running Hook Shot,POST_MOVES,,2007
+Chris Wilcox,2404,Running Jump Shot,2,10,4,Running Jump Shot,JUMP_SHOTS,,2007
+Chris Wilcox,2404,Standard Layup,2,6,2,Running Layup Shot,LAYUPS,,2007
+Chris Wilcox,2404,Standard Dunk,2,66,63,Slam Dunk Shot,DUNKS,,2007
+Chris Wilcox,2404,Tip Shot,2,19,8,Tip Shot,TIP_SHOTS,,2007
+Chris Wilcox,2404,Turnaround Hook Shot,2,7,6,Turnaround Hook Shot,POST_MOVES,,2007
+Chris Wilcox,2404,Turnaround Jump Shot,2,28,16,Turnaround Jump Shot,JUMP_SHOTS,,2007
+Chris Wilcox,2404,Alley Oop Dunk,2,18,15,Alley Oop Dunk Shot,DUNKS,,2008
+Chris Wilcox,2404,Alley Oop Layup,2,12,10,Alley Oop Layup shot,LAYUPS,,2008
+Chris Wilcox,2404,Driving Dunk,2,18,17,Driving Dunk Shot,DUNKS,,2008
+Chris Wilcox,2404,Driving Layup,2,8,8,Driving Layup Shot,LAYUPS,,2008
+Chris Wilcox,2404,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2008
+Chris Wilcox,2404,Driving Dunk,2,6,5,Driving Slam Dunk Shot,DUNKS,,2008
+Chris Wilcox,2404,Standard Dunk,2,23,18,Dunk Shot,DUNKS,,2008
+Chris Wilcox,2404,Fadeaway Jump Shot,2,10,4,Fadeaway Jump Shot,JUMP_SHOTS,,2008
+Chris Wilcox,2404,Finger Roll,2,8,6,Finger Roll Layup Shot,LAYUPS,,2008
+Chris Wilcox,2404,Hook Shot,2,20,7,Hook Shot,POST_MOVES,,2008
+Chris Wilcox,2404,Jump Shot,2,4,4,Jump Bank Shot,JUMP_SHOTS,,2008
+Chris Wilcox,2404,Hook Shot,2,9,6,Jump Hook Shot,POST_MOVES,,2008
+Chris Wilcox,2404,Jump Shot,2,208,61,Jump Shot,JUMP_SHOTS,,2008
+Chris Wilcox,2404,Standard Layup,2,135,71,Layup Shot,LAYUPS,,2008
+Chris Wilcox,2404,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2008
+Chris Wilcox,2404,Putback Dunk,2,10,8,Putback Dunk Shot,DUNKS,,2008
+Chris Wilcox,2404,Putback Dunk,2,1,1,Putback Slam Dunk Shot,DUNKS,,2008
+Chris Wilcox,2404,Reverse Dunk,2,4,4,Reverse Dunk Shot,DUNKS,,2008
+Chris Wilcox,2404,Reverse Layup,2,15,8,Reverse Layup Shot,LAYUPS,,2008
+Chris Wilcox,2404,Running Hook Shot,2,5,2,Running Hook Shot,POST_MOVES,,2008
+Chris Wilcox,2404,Running Jump Shot,2,3,1,Running Jump Shot,JUMP_SHOTS,,2008
+Chris Wilcox,2404,Standard Layup,2,8,6,Running Layup Shot,LAYUPS,,2008
+Chris Wilcox,2404,Standard Dunk,2,2,2,Running Slam Dunk Shot,DUNKS,,2008
+Chris Wilcox,2404,Standard Dunk,2,34,33,Slam Dunk Shot,DUNKS,,2008
+Chris Wilcox,2404,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2008
+Chris Wilcox,2404,Tip Shot,2,23,12,Tip Shot,TIP_SHOTS,,2008
+Chris Wilcox,2404,Turnaround Jump Shot,2,3,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2008
+Chris Wilcox,2404,Turnaround Hook Shot,2,3,1,Turnaround Hook Shot,POST_MOVES,,2008
+Chris Wilcox,2404,Turnaround Jump Shot,2,45,22,Turnaround Jump Shot,JUMP_SHOTS,,2008
+Chris Wilcox,2404,Alley Oop Dunk,2,21,19,Alley Oop Dunk Shot,DUNKS,,2009
+Chris Wilcox,2404,Alley Oop Layup,2,6,4,Alley Oop Layup shot,LAYUPS,,2009
+Chris Wilcox,2404,Driving Dunk,2,3,2,Driving Dunk Shot,DUNKS,,2009
+Chris Wilcox,2404,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2009
+Chris Wilcox,2404,Driving Jump Shot,2,1,1,Driving Jump shot,JUMP_SHOTS,,2009
+Chris Wilcox,2404,Driving Layup,2,10,9,Driving Layup Shot,LAYUPS,,2009
+Chris Wilcox,2404,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2009
+Chris Wilcox,2404,Driving Dunk,2,5,4,Driving Slam Dunk Shot,DUNKS,,2009
+Chris Wilcox,2404,Standard Dunk,2,17,15,Dunk Shot,DUNKS,,2009
+Chris Wilcox,2404,Fadeaway Jump Shot,2,23,12,Fadeaway Jump Shot,JUMP_SHOTS,,2009
+Chris Wilcox,2404,Finger Roll,2,2,1,Finger Roll Layup Shot,LAYUPS,,2009
+Chris Wilcox,2404,Hook Shot,2,8,2,Hook Shot,POST_MOVES,,2009
+Chris Wilcox,2404,Jump Shot,2,3,1,Jump Bank Shot,JUMP_SHOTS,,2009
+Chris Wilcox,2404,Hook Shot,2,7,3,Jump Hook Shot,POST_MOVES,,2009
+Chris Wilcox,2404,Jump Shot,2,91,18,Jump Shot,JUMP_SHOTS,,2009
+Chris Wilcox,2404,Standard Layup,2,79,31,Layup Shot,LAYUPS,,2009
+Chris Wilcox,2404,Putback Dunk,2,9,8,Putback Dunk Shot,DUNKS,,2009
+Chris Wilcox,2404,Putback Layup,2,3,3,Putback Layup Shot,LAYUPS,,2009
+Chris Wilcox,2404,Putback Dunk,2,3,3,Putback Slam Dunk Shot,DUNKS,,2009
+Chris Wilcox,2404,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2009
+Chris Wilcox,2404,Reverse Layup,2,7,6,Reverse Layup Shot,LAYUPS,,2009
+Chris Wilcox,2404,Reverse Dunk,2,1,1,Reverse Slam Dunk Shot,DUNKS,,2009
+Chris Wilcox,2404,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2009
+Chris Wilcox,2404,Running Hook Shot,2,3,1,Running Hook Shot,POST_MOVES,,2009
+Chris Wilcox,2404,Running Jump Shot,2,9,5,Running Jump Shot,JUMP_SHOTS,,2009
+Chris Wilcox,2404,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2009
+Chris Wilcox,2404,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2009
+Chris Wilcox,2404,Standard Dunk,2,11,10,Slam Dunk Shot,DUNKS,,2009
+Chris Wilcox,2404,Tip Shot,2,21,9,Tip Shot,TIP_SHOTS,,2009
+Chris Wilcox,2404,Turnaround Jump Shot,2,4,3,Turnaround Fadeaway shot,JUMP_SHOTS,,2009
+Chris Wilcox,2404,Turnaround Jump Shot,2,16,6,Turnaround Jump Shot,JUMP_SHOTS,,2009
+Chris Wilcox,2404,Alley Oop Dunk,2,7,6,Alley Oop Dunk Shot,DUNKS,,2010
+Chris Wilcox,2404,Alley Oop Layup,2,5,5,Alley Oop Layup shot,LAYUPS,,2010
+Chris Wilcox,2404,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2010
+Chris Wilcox,2404,Driving Layup,2,2,1,Driving Layup Shot,LAYUPS,,2010
+Chris Wilcox,2404,Standard Dunk,2,10,8,Dunk Shot,DUNKS,,2010
+Chris Wilcox,2404,Fadeaway Jump Shot,2,4,0,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+Chris Wilcox,2404,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2010
+Chris Wilcox,2404,Hook Shot,2,5,1,Hook Shot,POST_MOVES,,2010
+Chris Wilcox,2404,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2010
+Chris Wilcox,2404,Hook Shot,2,2,1,Jump Hook Shot,POST_MOVES,,2010
+Chris Wilcox,2404,Jump Shot,2,31,10,Jump Shot,JUMP_SHOTS,,2010
+Chris Wilcox,2404,Standard Layup,2,24,9,Layup Shot,LAYUPS,,2010
+Chris Wilcox,2404,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2010
+Chris Wilcox,2404,Putback Layup,2,3,3,Putback Layup Shot,LAYUPS,,2010
+Chris Wilcox,2404,Reverse Dunk,2,2,2,Reverse Dunk Shot,DUNKS,,2010
+Chris Wilcox,2404,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2010
+Chris Wilcox,2404,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2010
+Chris Wilcox,2404,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2010
+Chris Wilcox,2404,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2010
+Chris Wilcox,2404,Tip Shot,2,9,6,Tip Shot,TIP_SHOTS,,2010
+Chris Wilcox,2404,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2010
+Chris Wilcox,2404,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2010
+Chris Wilcox,2404,Turnaround Jump Shot,2,3,0,Turnaround Jump Shot,JUMP_SHOTS,,2010
+Chris Wilcox,2404,Alley Oop Dunk,2,18,15,Alley Oop Dunk Shot,DUNKS,,2011
+Chris Wilcox,2404,Alley Oop Layup,2,5,3,Alley Oop Layup shot,LAYUPS,,2011
+Chris Wilcox,2404,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2011
+Chris Wilcox,2404,Driving Layup,2,8,7,Driving Layup Shot,LAYUPS,,2011
+Chris Wilcox,2404,Standard Dunk,2,34,27,Dunk Shot,DUNKS,,2011
+Chris Wilcox,2404,Fadeaway Jump Shot,2,13,2,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Chris Wilcox,2404,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2011
+Chris Wilcox,2404,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2011
+Chris Wilcox,2404,Hook Shot,2,15,7,Hook Shot,POST_MOVES,,2011
+Chris Wilcox,2404,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2011
+Chris Wilcox,2404,Hook Shot,2,4,2,Jump Hook Shot,POST_MOVES,,2011
+Chris Wilcox,2404,Jump Shot,2,68,23,Jump Shot,JUMP_SHOTS,,2011
+Chris Wilcox,2404,Standard Layup,2,72,37,Layup Shot,LAYUPS,,2011
+Chris Wilcox,2404,Putback Dunk,2,8,7,Putback Dunk Shot,DUNKS,,2011
+Chris Wilcox,2404,Putback Layup,2,6,6,Putback Layup Shot,LAYUPS,,2011
+Chris Wilcox,2404,Reverse Dunk,2,6,6,Reverse Dunk Shot,DUNKS,,2011
+Chris Wilcox,2404,Reverse Layup,2,5,3,Reverse Layup Shot,LAYUPS,,2011
+Chris Wilcox,2404,Running Hook Shot,2,2,2,Running Hook Shot,POST_MOVES,,2011
+Chris Wilcox,2404,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2011
+Chris Wilcox,2404,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2011
+Chris Wilcox,2404,Tip Shot,2,1,1,Running Tip Shot,TIP_SHOTS,,2011
+Chris Wilcox,2404,Standard Dunk,2,10,10,Slam Dunk Shot,DUNKS,,2011
+Chris Wilcox,2404,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2011
+Chris Wilcox,2404,Tip Shot,2,23,13,Tip Shot,TIP_SHOTS,,2011
+Chris Wilcox,2404,Turnaround Hook Shot,2,1,1,Turnaround Bank Hook Shot,POST_MOVES,,2011
+Chris Wilcox,2404,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2011
+Chris Wilcox,2404,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2011
+Chris Wilcox,2404,Turnaround Jump Shot,2,11,6,Turnaround Jump Shot,JUMP_SHOTS,,2011
+Chris Wilcox,2404,Alley Oop Dunk,2,5,5,Alley Oop Dunk Shot,DUNKS,,2012
+Chris Wilcox,2404,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2012
+Chris Wilcox,2404,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2012
+Chris Wilcox,2404,Standard Dunk,2,14,13,Dunk Shot,DUNKS,,2012
+Chris Wilcox,2404,Fadeaway Jump Shot,2,2,2,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Chris Wilcox,2404,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2012
+Chris Wilcox,2404,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2012
+Chris Wilcox,2404,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2012
+Chris Wilcox,2404,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2012
+Chris Wilcox,2404,Jump Shot,2,24,9,Jump Shot,JUMP_SHOTS,,2012
+Chris Wilcox,2404,Standard Layup,2,22,10,Layup Shot,LAYUPS,,2012
+Chris Wilcox,2404,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2012
+Chris Wilcox,2404,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2012
+Chris Wilcox,2404,Putback Layup,2,4,3,Putback Layup Shot,LAYUPS,,2012
+Chris Wilcox,2404,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2012
+Chris Wilcox,2404,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2012
+Chris Wilcox,2404,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2012
+Chris Wilcox,2404,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2012
+Chris Wilcox,2404,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2012
+Chris Wilcox,2404,Tip Shot,2,5,1,Tip Shot,TIP_SHOTS,,2012
+Chris Wilcox,2404,Turnaround Hook Shot,2,1,0,Turnaround Bank Hook Shot,POST_MOVES,,2012
+Chris Wilcox,2404,Turnaround Jump Shot,2,2,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2012
+Chris Wilcox,2404,Turnaround Jump Shot,2,7,3,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Chris Wilcox,2404,Alley Oop Dunk,2,16,15,Alley Oop Dunk Shot,DUNKS,,2013
+Chris Wilcox,2404,Alley Oop Layup,2,13,8,Alley Oop Layup shot,LAYUPS,,2013
+Chris Wilcox,2404,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2013
+Chris Wilcox,2404,Driving Layup,2,3,2,Driving Layup Shot,LAYUPS,,2013
+Chris Wilcox,2404,Driving Dunk,2,2,2,Driving Slam Dunk Shot,DUNKS,,2013
+Chris Wilcox,2404,Standard Dunk,2,15,12,Dunk Shot,DUNKS,,2013
+Chris Wilcox,2404,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2013
+Chris Wilcox,2404,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2013
+Chris Wilcox,2404,Hook Shot,2,4,1,Hook Shot,POST_MOVES,,2013
+Chris Wilcox,2404,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2013
+Chris Wilcox,2404,Jump Shot,2,16,3,Jump Shot,JUMP_SHOTS,,2013
+Chris Wilcox,2404,Standard Layup,2,31,21,Layup Shot,LAYUPS,,2013
+Chris Wilcox,2404,Putback Dunk,2,4,4,Putback Dunk Shot,DUNKS,,2013
+Chris Wilcox,2404,Putback Layup,2,6,6,Putback Layup Shot,LAYUPS,,2013
+Chris Wilcox,2404,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2013
+Chris Wilcox,2404,Reverse Layup,2,5,4,Reverse Layup Shot,LAYUPS,,2013
+Chris Wilcox,2404,Reverse Dunk,2,1,1,Reverse Slam Dunk Shot,DUNKS,,2013
+Chris Wilcox,2404,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2013
+Chris Wilcox,2404,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2013
+Chris Wilcox,2404,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2013
+Chris Wilcox,2404,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2013
+Chris Wilcox,2404,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2013
+Chris Wilcox,2404,Tip Shot,2,1,1,Running Tip Shot,TIP_SHOTS,,2013
+Chris Wilcox,2404,Standard Dunk,2,11,11,Slam Dunk Shot,DUNKS,,2013
+Chris Wilcox,2404,Tip Shot,2,11,7,Tip Shot,TIP_SHOTS,,2013
+Chris Wilcox,2404,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2013
+Chris Wilcox,2404,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2013

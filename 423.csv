@@ -1,9 +1,75 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-423,Driving Layup,2PT Field Goal,4,4,Driving Layup Shot,LAYUPS,1.0,1997
-423,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,1997
-423,Hook Shot,2PT Field Goal,4,2,Hook Shot,POST_MOVES,0.5,1997
-423,Jump Shot,2PT Field Goal,19,10,Jump Shot,JUMP_SHOTS,0.5263157894736842,1997
-423,Standard Layup,2PT Field Goal,15,6,Layup Shot,LAYUPS,0.4,1997
-423,Standard Dunk,2PT Field Goal,2,2,Slam Dunk Shot,DUNKS,1.0,1997
-423,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,1997
-423,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1999
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Chris Gatling,423,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,1997
+Chris Gatling,423,Driving Layup,2,51,45,Driving Layup Shot,LAYUPS,,1997
+Chris Gatling,423,Standard Dunk,2,7,7,Dunk Shot,DUNKS,,1997
+Chris Gatling,423,Hook Shot,2,93,41,Hook Shot,POST_MOVES,,1997
+Chris Gatling,423,Jump Shot,2,262,103,Jump Shot,JUMP_SHOTS,,1997
+Chris Gatling,423,Standard Layup,2,156,82,Layup Shot,LAYUPS,,1997
+Chris Gatling,423,Running Jump Shot,2,8,7,Running Jump Shot,JUMP_SHOTS,,1997
+Chris Gatling,423,Standard Dunk,2,32,30,Slam Dunk Shot,DUNKS,,1997
+Chris Gatling,423,Tip Shot,2,12,10,Tip Shot,TIP_SHOTS,,1997
+Chris Gatling,423,Driving Dunk,2,5,5,Driving Dunk Shot,DUNKS,,1998
+Chris Gatling,423,Driving Layup,2,42,26,Driving Layup Shot,LAYUPS,,1998
+Chris Gatling,423,Standard Dunk,2,16,15,Dunk Shot,DUNKS,,1998
+Chris Gatling,423,Hook Shot,2,69,24,Hook Shot,POST_MOVES,,1998
+Chris Gatling,423,Jump Shot,2,265,103,Jump Shot,JUMP_SHOTS,,1998
+Chris Gatling,423,Standard Layup,2,117,62,Layup Shot,LAYUPS,,1998
+Chris Gatling,423,Running Jump Shot,2,9,4,Running Jump Shot,JUMP_SHOTS,,1998
+Chris Gatling,423,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,1998
+Chris Gatling,423,Tip Shot,2,18,5,Tip Shot,TIP_SHOTS,,1998
+Chris Gatling,423,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,1999
+Chris Gatling,423,Driving Layup,2,9,4,Driving Layup Shot,LAYUPS,,1999
+Chris Gatling,423,Standard Dunk,2,12,10,Dunk Shot,DUNKS,,1999
+Chris Gatling,423,Hook Shot,2,50,27,Hook Shot,POST_MOVES,,1999
+Chris Gatling,423,Jump Shot,2,135,38,Jump Shot,JUMP_SHOTS,,1999
+Chris Gatling,423,Standard Layup,2,43,29,Layup Shot,LAYUPS,,1999
+Chris Gatling,423,Running Jump Shot,2,5,3,Running Jump Shot,JUMP_SHOTS,,1999
+Chris Gatling,423,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,1999
+Chris Gatling,423,Tip Shot,2,5,0,Tip Shot,TIP_SHOTS,,1999
+Chris Gatling,423,Driving Dunk,2,9,9,Driving Dunk Shot,DUNKS,,2000
+Chris Gatling,423,Driving Layup,2,78,49,Driving Layup Shot,LAYUPS,,2000
+Chris Gatling,423,Standard Dunk,2,18,17,Dunk Shot,DUNKS,,2000
+Chris Gatling,423,Hook Shot,2,100,47,Hook Shot,POST_MOVES,,2000
+Chris Gatling,423,Jump Shot,2,385,119,Jump Shot,JUMP_SHOTS,,2000
+Chris Gatling,423,Standard Layup,2,155,91,Layup Shot,LAYUPS,,2000
+Chris Gatling,423,Running Jump Shot,2,29,12,Running Jump Shot,JUMP_SHOTS,,2000
+Chris Gatling,423,Standard Dunk,2,11,10,Slam Dunk Shot,DUNKS,,2000
+Chris Gatling,423,Tip Shot,2,17,11,Tip Shot,TIP_SHOTS,,2000
+Chris Gatling,423,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2001
+Chris Gatling,423,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2001
+Chris Gatling,423,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2001
+Chris Gatling,423,Driving Layup,2,25,19,Driving Layup Shot,LAYUPS,,2001
+Chris Gatling,423,Standard Dunk,2,9,7,Dunk Shot,DUNKS,,2001
+Chris Gatling,423,Hook Shot,2,56,27,Hook Shot,POST_MOVES,,2001
+Chris Gatling,423,Jump Shot,2,436,148,Jump Shot,JUMP_SHOTS,,2001
+Chris Gatling,423,Standard Layup,2,124,67,Layup Shot,LAYUPS,,2001
+Chris Gatling,423,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2001
+Chris Gatling,423,Finger Roll,2,1,1,Running Finger Roll Shot,LAYUPS,,2001
+Chris Gatling,423,Running Hook Shot,2,13,10,Running Hook Shot,POST_MOVES,,2001
+Chris Gatling,423,Running Jump Shot,2,14,4,Running Jump Shot,JUMP_SHOTS,,2001
+Chris Gatling,423,Standard Layup,2,12,11,Running Layup Shot,LAYUPS,,2001
+Chris Gatling,423,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,2001
+Chris Gatling,423,Tip Shot,2,8,4,Tip Shot,TIP_SHOTS,,2001
+Chris Gatling,423,Turnaround Hook Shot,2,2,2,Turnaround Hook Shot,POST_MOVES,,2001
+Chris Gatling,423,Turnaround Jump Shot,2,20,17,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Chris Gatling,423,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2002
+Chris Gatling,423,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2002
+Chris Gatling,423,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2002
+Chris Gatling,423,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2002
+Chris Gatling,423,Driving Layup,2,13,13,Driving Layup Shot,LAYUPS,,2002
+Chris Gatling,423,Standard Dunk,2,8,5,Dunk Shot,DUNKS,,2002
+Chris Gatling,423,Fadeaway Jump Shot,2,7,5,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Chris Gatling,423,Finger Roll,2,2,0,Finger Roll Shot,LAYUPS,,2002
+Chris Gatling,423,Hook Shot,2,27,9,Hook Shot,POST_MOVES,,2002
+Chris Gatling,423,Hook Shot,2,2,0,Jump Hook Shot,POST_MOVES,,2002
+Chris Gatling,423,Jump Shot,2,144,44,Jump Shot,JUMP_SHOTS,,2002
+Chris Gatling,423,Standard Layup,2,54,31,Layup Shot,LAYUPS,,2002
+Chris Gatling,423,Reverse Layup,2,5,4,Reverse Layup Shot,LAYUPS,,2002
+Chris Gatling,423,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2002
+Chris Gatling,423,Running Hook Shot,2,4,4,Running Hook Shot,POST_MOVES,,2002
+Chris Gatling,423,Running Jump Shot,2,4,0,Running Jump Shot,JUMP_SHOTS,,2002
+Chris Gatling,423,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2002
+Chris Gatling,423,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2002
+Chris Gatling,423,Tip Shot,2,7,2,Tip Shot,TIP_SHOTS,,2002
+Chris Gatling,423,Turnaround Hook Shot,2,2,0,Turnaround Hook Shot,POST_MOVES,,2002
+Chris Gatling,423,Turnaround Jump Shot,2,5,5,Turnaround Jump Shot,JUMP_SHOTS,,2002

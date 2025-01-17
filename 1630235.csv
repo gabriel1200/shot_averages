@@ -1,20 +1,74 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1630235,Floating Jump Shot,2PT Field Goal,2,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2022
-1630235,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2022
-1630235,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2022
-1630235,Finger Roll,2PT Field Goal,3,3,Driving Finger Roll Layup Shot,LAYUPS,1.0,2024
-1630235,Floating Jump Shot,2PT Field Goal,5,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.4,2024
-1630235,Floating Jump Shot,2PT Field Goal,11,4,Driving Floating Jump Shot,FLOATING_SHOTS,0.3636363636363636,2024
-1630235,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2024
-1630235,Driving Layup,2PT Field Goal,4,1,Driving Layup Shot,LAYUPS,0.25,2024
-1630235,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2024
-1630235,Floating Jump Shot,2PT Field Goal,4,0,Floating Jump shot,FLOATING_SHOTS,0.0,2024
-1630235,Floating Jump Shot,3PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2024
-1630235,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,2024
-1630235,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2024
-1630235,Pullup Jump Shot,2PT Field Goal,3,2,Pullup Jump shot,JUMP_SHOTS,0.6666666666666666,2024
-1630235,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2024
-1630235,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2024
-1630235,Standard Layup,2PT Field Goal,3,3,Running Layup Shot,LAYUPS,1.0,2024
-1630235,Putback Layup,2PT Field Goal,1,1,Tip Layup Shot,LAYUPS,1.0,2024
-1630235,Turnaround Jump Shot,2PT Field Goal,2,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Trent Forrest,1630235,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2021
+Trent Forrest,1630235,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Trent Forrest,1630235,Floating Jump Shot,2,3,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2021
+Trent Forrest,1630235,Floating Jump Shot,2,7,5,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Trent Forrest,1630235,Driving Layup,2,10,7,Driving Layup Shot,LAYUPS,,2021
+Trent Forrest,1630235,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2021
+Trent Forrest,1630235,Floating Jump Shot,2,9,5,Floating Jump shot,FLOATING_SHOTS,,2021
+Trent Forrest,1630235,Jump Shot,2,28,6,Jump Shot,JUMP_SHOTS,,2021
+Trent Forrest,1630235,Standard Layup,2,2,0,Layup Shot,LAYUPS,,2021
+Trent Forrest,1630235,Pullup Jump Shot,2,3,1,Pullup Jump shot,JUMP_SHOTS,,2021
+Trent Forrest,1630235,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2021
+Trent Forrest,1630235,Putback Layup,2,1,0,Tip Layup Shot,LAYUPS,,2021
+Trent Forrest,1630235,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2022
+Trent Forrest,1630235,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2022
+Trent Forrest,1630235,Finger Roll,2,5,5,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Trent Forrest,1630235,Floating Jump Shot,2,8,8,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Trent Forrest,1630235,Floating Jump Shot,2,20,9,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Trent Forrest,1630235,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2022
+Trent Forrest,1630235,Driving Layup,2,43,24,Driving Layup Shot,LAYUPS,,2022
+Trent Forrest,1630235,Driving Layup,2,5,2,Driving Reverse Layup Shot,LAYUPS,,2022
+Trent Forrest,1630235,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2022
+Trent Forrest,1630235,Floating Jump Shot,2,11,5,Floating Jump shot,FLOATING_SHOTS,,2022
+Trent Forrest,1630235,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2022
+Trent Forrest,1630235,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2022
+Trent Forrest,1630235,Jump Shot,2,27,5,Jump Shot,JUMP_SHOTS,,2022
+Trent Forrest,1630235,Standard Layup,2,6,1,Layup Shot,LAYUPS,,2022
+Trent Forrest,1630235,Pullup Jump Shot,2,4,3,Pullup Jump shot,JUMP_SHOTS,,2022
+Trent Forrest,1630235,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2022
+Trent Forrest,1630235,Standard Dunk,2,1,0,Running Dunk Shot,DUNKS,,2022
+Trent Forrest,1630235,Finger Roll,2,3,1,Running Finger Roll Layup Shot,LAYUPS,,2022
+Trent Forrest,1630235,Standard Layup,2,7,5,Running Layup Shot,LAYUPS,,2022
+Trent Forrest,1630235,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2022
+Trent Forrest,1630235,Putback Layup,2,3,2,Tip Layup Shot,LAYUPS,,2022
+Trent Forrest,1630235,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2022
+Trent Forrest,1630235,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2022
+Trent Forrest,1630235,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2023
+Trent Forrest,1630235,Driving Hook Shot,2,1,0,Driving Bank Hook Shot,POST_MOVES,,2023
+Trent Forrest,1630235,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2023
+Trent Forrest,1630235,Finger Roll,2,2,0,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Trent Forrest,1630235,Floating Jump Shot,2,4,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+Trent Forrest,1630235,Floating Jump Shot,2,23,11,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Trent Forrest,1630235,Driving Hook Shot,2,2,0,Driving Hook Shot,POST_MOVES,,2023
+Trent Forrest,1630235,Driving Layup,2,7,3,Driving Layup Shot,LAYUPS,,2023
+Trent Forrest,1630235,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2023
+Trent Forrest,1630235,Floating Jump Shot,2,5,3,Floating Jump shot,FLOATING_SHOTS,,2023
+Trent Forrest,1630235,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2023
+Trent Forrest,1630235,Jump Shot,2,2,0,Jump Shot,JUMP_SHOTS,,2023
+Trent Forrest,1630235,Pullup Jump Shot,2,2,2,Pullup Jump shot,JUMP_SHOTS,,2023
+Trent Forrest,1630235,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2023
+Trent Forrest,1630235,Standard Layup,2,5,2,Running Layup Shot,LAYUPS,,2023
+Trent Forrest,1630235,Putback Layup,2,1,1,Tip Layup Shot,LAYUPS,,2023
+Trent Forrest,1630235,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2023
+Trent Forrest,1630235,Standard Layup,2,2,1,Cutting Layup Shot,LAYUPS,,2024
+Trent Forrest,1630235,Finger Roll,2,4,3,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Trent Forrest,1630235,Floating Jump Shot,2,7,4,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Trent Forrest,1630235,Floating Jump Shot,2,21,8,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Trent Forrest,1630235,Driving Hook Shot,2,3,0,Driving Hook Shot,POST_MOVES,,2024
+Trent Forrest,1630235,Driving Layup,2,12,3,Driving Layup Shot,LAYUPS,,2024
+Trent Forrest,1630235,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2024
+Trent Forrest,1630235,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Trent Forrest,1630235,Floating Jump Shot,2,10,2,Floating Jump shot,FLOATING_SHOTS,,2024
+Trent Forrest,1630235,Floating Jump Shot,3,1,0,Floating Jump shot,FLOATING_SHOTS,,2024
+Trent Forrest,1630235,Jump Shot,2,1,0,Jump Shot,JUMP_SHOTS,,2024
+Trent Forrest,1630235,Jump Shot,3,8,2,Jump Shot,JUMP_SHOTS,,2024
+Trent Forrest,1630235,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2024
+Trent Forrest,1630235,Pullup Jump Shot,2,3,2,Pullup Jump shot,JUMP_SHOTS,,2024
+Trent Forrest,1630235,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2024
+Trent Forrest,1630235,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2024
+Trent Forrest,1630235,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2024
+Trent Forrest,1630235,Standard Layup,2,5,4,Running Layup Shot,LAYUPS,,2024
+Trent Forrest,1630235,Putback Layup,2,2,1,Tip Layup Shot,LAYUPS,,2024
+Trent Forrest,1630235,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2024
+Trent Forrest,1630235,Turnaround Jump Shot,2,4,1,Turnaround Jump Shot,JUMP_SHOTS,,2024

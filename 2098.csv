@@ -1,46 +1,81 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-2098,Jump Shot,2PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,2001
-2098,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2001
-2098,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2001
-2098,Driving Dunk,2PT Field Goal,3,3,Driving Dunk Shot,DUNKS,1.0,2002
-2098,Driving Layup,2PT Field Goal,4,3,Driving Layup Shot,LAYUPS,0.75,2002
-2098,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2002
-2098,Jump Shot,2PT Field Goal,25,9,Jump Shot,JUMP_SHOTS,0.36,2002
-2098,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2002
-2098,Standard Layup,2PT Field Goal,13,10,Layup Shot,LAYUPS,0.7692307692307693,2002
-2098,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2002
-2098,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2002
-2098,Tip Shot,2PT Field Goal,6,2,Tip Shot,TIP_SHOTS,0.3333333333333333,2002
-2098,Turnaround Jump Shot,2PT Field Goal,3,2,Turnaround Jump Shot,JUMP_SHOTS,0.6666666666666666,2002
-2098,Alley Oop Layup,2PT Field Goal,1,1,Alley Oop Layup shot,LAYUPS,1.0,2003
-2098,Driving Layup,2PT Field Goal,4,2,Driving Layup Shot,LAYUPS,0.5,2003
-2098,Hook Shot,2PT Field Goal,2,0,Hook Shot,POST_MOVES,0.0,2003
-2098,Jump Shot,2PT Field Goal,44,17,Jump Shot,JUMP_SHOTS,0.3863636363636363,2003
-2098,Standard Layup,2PT Field Goal,18,7,Layup Shot,LAYUPS,0.3888888888888889,2003
-2098,Reverse Layup,2PT Field Goal,2,1,Reverse Layup Shot,LAYUPS,0.5,2003
-2098,Running Jump Shot,2PT Field Goal,2,0,Running Jump Shot,JUMP_SHOTS,0.0,2003
-2098,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2003
-2098,Tip Shot,2PT Field Goal,3,1,Tip Shot,TIP_SHOTS,0.3333333333333333,2003
-2098,Turnaround Jump Shot,2PT Field Goal,3,2,Turnaround Jump Shot,JUMP_SHOTS,0.6666666666666666,2003
-2098,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2004
-2098,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Shot,LAYUPS,1.0,2004
-2098,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2004
-2098,Driving Layup,2PT Field Goal,4,1,Driving Layup Shot,LAYUPS,0.25,2004
-2098,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2004
-2098,Finger Roll,2PT Field Goal,1,1,Finger Roll Shot,LAYUPS,1.0,2004
-2098,Specialty Dunk,2PT Field Goal,1,1,Follow Up Dunk Shot,DUNKS,1.0,2004
-2098,Hook Shot,2PT Field Goal,4,1,Hook Shot,POST_MOVES,0.25,2004
-2098,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2004
-2098,Jump Shot,2PT Field Goal,125,52,Jump Shot,JUMP_SHOTS,0.416,2004
-2098,Standard Layup,2PT Field Goal,28,11,Layup Shot,LAYUPS,0.3928571428571428,2004
-2098,Reverse Layup,2PT Field Goal,6,5,Reverse Layup Shot,LAYUPS,0.8333333333333334,2004
-2098,Running Hook Shot,2PT Field Goal,2,2,Running Hook Shot,POST_MOVES,1.0,2004
-2098,Running Jump Shot,2PT Field Goal,2,2,Running Jump Shot,JUMP_SHOTS,1.0,2004
-2098,Tip Shot,2PT Field Goal,12,2,Tip Shot,TIP_SHOTS,0.1666666666666666,2004
-2098,Turnaround Jump Shot,2PT Field Goal,6,2,Turnaround Jump Shot,JUMP_SHOTS,0.3333333333333333,2004
-2098,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2005
-2098,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2005
-2098,Jump Shot,2PT Field Goal,8,2,Jump Shot,JUMP_SHOTS,0.25,2005
-2098,Standard Layup,2PT Field Goal,4,2,Layup Shot,LAYUPS,0.5,2005
-2098,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2005
-2098,Tip Shot,2PT Field Goal,3,1,Tip Shot,TIP_SHOTS,0.3333333333333333,2005
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Slava Medvedenko,2098,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2001
+Slava Medvedenko,2098,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,2001
+Slava Medvedenko,2098,Jump Shot,2,15,5,Jump Shot,JUMP_SHOTS,,2001
+Slava Medvedenko,2098,Standard Layup,2,5,3,Layup Shot,LAYUPS,,2001
+Slava Medvedenko,2098,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2001
+Slava Medvedenko,2098,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2001
+Slava Medvedenko,2098,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2002
+Slava Medvedenko,2098,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2002
+Slava Medvedenko,2098,Driving Layup,2,17,12,Driving Layup Shot,LAYUPS,,2002
+Slava Medvedenko,2098,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2002
+Slava Medvedenko,2098,Fadeaway Jump Shot,2,6,5,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Slava Medvedenko,2098,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2002
+Slava Medvedenko,2098,Hook Shot,2,8,7,Hook Shot,POST_MOVES,,2002
+Slava Medvedenko,2098,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2002
+Slava Medvedenko,2098,Jump Shot,2,149,53,Jump Shot,JUMP_SHOTS,,2002
+Slava Medvedenko,2098,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,2002
+Slava Medvedenko,2098,Standard Layup,2,54,24,Layup Shot,LAYUPS,,2002
+Slava Medvedenko,2098,Reverse Layup,2,7,5,Reverse Layup Shot,LAYUPS,,2002
+Slava Medvedenko,2098,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2002
+Slava Medvedenko,2098,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,2002
+Slava Medvedenko,2098,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,2002
+Slava Medvedenko,2098,Tip Shot,2,28,14,Tip Shot,TIP_SHOTS,,2002
+Slava Medvedenko,2098,Turnaround Jump Shot,2,16,8,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Slava Medvedenko,2098,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2003
+Slava Medvedenko,2098,Driving Layup,2,6,3,Driving Layup Shot,LAYUPS,,2003
+Slava Medvedenko,2098,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2003
+Slava Medvedenko,2098,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2003
+Slava Medvedenko,2098,Hook Shot,2,11,5,Hook Shot,POST_MOVES,,2003
+Slava Medvedenko,2098,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2003
+Slava Medvedenko,2098,Jump Shot,2,142,48,Jump Shot,JUMP_SHOTS,,2003
+Slava Medvedenko,2098,Standard Layup,2,60,29,Layup Shot,LAYUPS,,2003
+Slava Medvedenko,2098,Reverse Layup,2,5,4,Reverse Layup Shot,LAYUPS,,2003
+Slava Medvedenko,2098,Running Hook Shot,2,2,2,Running Hook Shot,POST_MOVES,,2003
+Slava Medvedenko,2098,Running Jump Shot,2,5,2,Running Jump Shot,JUMP_SHOTS,,2003
+Slava Medvedenko,2098,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2003
+Slava Medvedenko,2098,Tip Shot,2,12,8,Tip Shot,TIP_SHOTS,,2003
+Slava Medvedenko,2098,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2003
+Slava Medvedenko,2098,Turnaround Jump Shot,2,8,6,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Slava Medvedenko,2098,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2004
+Slava Medvedenko,2098,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2004
+Slava Medvedenko,2098,Finger Roll,2,2,2,Driving Finger Roll Shot,LAYUPS,,2004
+Slava Medvedenko,2098,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2004
+Slava Medvedenko,2098,Driving Layup,2,16,10,Driving Layup Shot,LAYUPS,,2004
+Slava Medvedenko,2098,Fadeaway Jump Shot,2,4,2,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Slava Medvedenko,2098,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2004
+Slava Medvedenko,2098,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2004
+Slava Medvedenko,2098,Hook Shot,2,11,4,Hook Shot,POST_MOVES,,2004
+Slava Medvedenko,2098,Jump Shot,2,8,6,Jump Bank Shot,JUMP_SHOTS,,2004
+Slava Medvedenko,2098,Hook Shot,2,2,2,Jump Hook Shot,POST_MOVES,,2004
+Slava Medvedenko,2098,Jump Shot,2,326,120,Jump Shot,JUMP_SHOTS,,2004
+Slava Medvedenko,2098,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2004
+Slava Medvedenko,2098,Standard Layup,2,87,45,Layup Shot,LAYUPS,,2004
+Slava Medvedenko,2098,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2004
+Slava Medvedenko,2098,Reverse Layup,2,13,9,Reverse Layup Shot,LAYUPS,,2004
+Slava Medvedenko,2098,Running Hook Shot,2,4,3,Running Hook Shot,POST_MOVES,,2004
+Slava Medvedenko,2098,Running Jump Shot,2,4,2,Running Jump Shot,JUMP_SHOTS,,2004
+Slava Medvedenko,2098,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2004
+Slava Medvedenko,2098,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,2004
+Slava Medvedenko,2098,Tip Shot,2,31,11,Tip Shot,TIP_SHOTS,,2004
+Slava Medvedenko,2098,Turnaround Jump Shot,2,13,7,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Slava Medvedenko,2098,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2005
+Slava Medvedenko,2098,Driving Layup,2,7,4,Driving Layup Shot,LAYUPS,,2005
+Slava Medvedenko,2098,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2005
+Slava Medvedenko,2098,Hook Shot,2,2,2,Hook Shot,POST_MOVES,,2005
+Slava Medvedenko,2098,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2005
+Slava Medvedenko,2098,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2005
+Slava Medvedenko,2098,Jump Shot,2,103,38,Jump Shot,JUMP_SHOTS,,2005
+Slava Medvedenko,2098,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2005
+Slava Medvedenko,2098,Standard Layup,2,21,14,Layup Shot,LAYUPS,,2005
+Slava Medvedenko,2098,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2005
+Slava Medvedenko,2098,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2005
+Slava Medvedenko,2098,Tip Shot,2,13,7,Tip Shot,TIP_SHOTS,,2005
+Slava Medvedenko,2098,Turnaround Hook Shot,2,2,0,Turnaround Hook Shot,POST_MOVES,,2005
+Slava Medvedenko,2098,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2006
+Slava Medvedenko,2098,Standard Layup,2,1,1,Layup Shot,LAYUPS,,2006
+Slava Medvedenko,2098,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2007
+Slava Medvedenko,2098,Hook Shot,2,2,2,Hook Shot,POST_MOVES,,2007
+Slava Medvedenko,2098,Jump Shot,2,22,8,Jump Shot,JUMP_SHOTS,,2007
+Slava Medvedenko,2098,Standard Layup,2,3,1,Layup Shot,LAYUPS,,2007
+Slava Medvedenko,2098,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2007

@@ -1,50 +1,130 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-202708,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2012
-202708,Driving Layup,2PT Field Goal,14,6,Driving Layup Shot,LAYUPS,0.4285714285714285,2012
-202708,Floating Jump Shot,2PT Field Goal,7,2,Floating Jump shot,FLOATING_SHOTS,0.2857142857142857,2012
-202708,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2012
-202708,Jump Shot,2PT Field Goal,46,15,Jump Shot,JUMP_SHOTS,0.3260869565217391,2012
-202708,Jump Shot,3PT Field Goal,21,6,Jump Shot,JUMP_SHOTS,0.4285714285714285,2012
-202708,Standard Layup,2PT Field Goal,13,1,Layup Shot,LAYUPS,0.0769230769230769,2012
-202708,Pullup Jump Shot,2PT Field Goal,3,2,Pullup Jump shot,JUMP_SHOTS,0.6666666666666666,2012
-202708,Reverse Layup,2PT Field Goal,3,2,Reverse Layup Shot,LAYUPS,0.6666666666666666,2012
-202708,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2012
-202708,Running Hook Shot,2PT Field Goal,2,0,Running Hook Shot,POST_MOVES,0.0,2012
-202708,Running Jump Shot,2PT Field Goal,3,2,Running Jump Shot,JUMP_SHOTS,0.6666666666666666,2012
-202708,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2012
-202708,Step Back Jump Shot,3PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.5,2012
-202708,Turnaround Jump Shot,2PT Field Goal,2,1,Turnaround Jump Shot,JUMP_SHOTS,0.5,2012
-202708,Finger Roll,2PT Field Goal,1,0,Driving Finger Roll Layup Shot,LAYUPS,0.0,2013
-202708,Driving Layup,2PT Field Goal,8,5,Driving Layup Shot,LAYUPS,0.625,2013
-202708,Driving Layup,2PT Field Goal,4,2,Driving Reverse Layup Shot,LAYUPS,0.5,2013
-202708,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2013
-202708,Jump Shot,2PT Field Goal,16,4,Jump Shot,JUMP_SHOTS,0.25,2013
-202708,Jump Shot,3PT Field Goal,20,8,Jump Shot,JUMP_SHOTS,0.6,2013
-202708,Standard Layup,2PT Field Goal,6,1,Layup Shot,LAYUPS,0.1666666666666666,2013
-202708,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2013
-202708,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2013
-202708,Running Jump Shot,2PT Field Goal,1,1,Running Bank shot,JUMP_SHOTS,1.0,2013
-202708,Running Hook Shot,2PT Field Goal,2,0,Running Hook Shot,POST_MOVES,0.0,2013
-202708,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2013
-202708,Standard Layup,2PT Field Goal,2,1,Running Layup Shot,LAYUPS,0.5,2013
-202708,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2013
-202708,Driving Jump Shot,2PT Field Goal,1,1,Driving Bank shot,JUMP_SHOTS,1.0,2014
-202708,Finger Roll,2PT Field Goal,4,2,Driving Finger Roll Layup Shot,LAYUPS,0.5,2014
-202708,Driving Layup,2PT Field Goal,9,6,Driving Layup Shot,LAYUPS,0.6666666666666666,2014
-202708,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2014
-202708,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2014
-202708,Jump Shot,2PT Field Goal,9,2,Jump Shot,JUMP_SHOTS,0.2222222222222222,2014
-202708,Jump Shot,3PT Field Goal,13,3,Jump Shot,JUMP_SHOTS,0.3461538461538461,2014
-202708,Standard Layup,2PT Field Goal,4,2,Layup Shot,LAYUPS,0.5,2014
-202708,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2014
-202708,Running Jump Shot,2PT Field Goal,1,1,Running Bank shot,JUMP_SHOTS,1.0,2014
-202708,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2014
-202708,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2014
-202708,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2014
-202708,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2015
-202708,Jump Shot,2PT Field Goal,4,3,Jump Shot,JUMP_SHOTS,0.75,2015
-202708,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,2015
-202708,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2015
-202708,Jump Shot,2PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,2017
-202708,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2017
-202708,Pullup Jump Shot,2PT Field Goal,2,1,Pullup Jump shot,JUMP_SHOTS,0.5,2017
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Norris Cole,202708,Finger Roll,2,9,6,Driving Finger Roll Layup Shot,LAYUPS,,2012
+Norris Cole,202708,Driving Jump Shot,2,2,0,Driving Jump shot,JUMP_SHOTS,,2012
+Norris Cole,202708,Driving Layup,2,72,39,Driving Layup Shot,LAYUPS,,2012
+Norris Cole,202708,Driving Layup,2,7,5,Driving Reverse Layup Shot,LAYUPS,,2012
+Norris Cole,202708,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Norris Cole,202708,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2012
+Norris Cole,202708,Floating Jump Shot,2,20,6,Floating Jump shot,FLOATING_SHOTS,,2012
+Norris Cole,202708,Jump Shot,2,3,3,Jump Bank Shot,JUMP_SHOTS,,2012
+Norris Cole,202708,Jump Shot,2,202,60,Jump Shot,JUMP_SHOTS,,2012
+Norris Cole,202708,Jump Shot,3,36,10,Jump Shot,JUMP_SHOTS,,2012
+Norris Cole,202708,Standard Layup,2,56,19,Layup Shot,LAYUPS,,2012
+Norris Cole,202708,Pullup Jump Shot,2,5,4,Pullup Jump shot,JUMP_SHOTS,,2012
+Norris Cole,202708,Reverse Layup,2,7,5,Reverse Layup Shot,LAYUPS,,2012
+Norris Cole,202708,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2012
+Norris Cole,202708,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2012
+Norris Cole,202708,Running Hook Shot,2,3,0,Running Hook Shot,POST_MOVES,,2012
+Norris Cole,202708,Running Jump Shot,2,12,9,Running Jump Shot,JUMP_SHOTS,,2012
+Norris Cole,202708,Standard Layup,2,8,6,Running Layup Shot,LAYUPS,,2012
+Norris Cole,202708,Step Back Jump Shot,3,1,1,Step Back Jump shot,JUMP_SHOTS,,2012
+Norris Cole,202708,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2012
+Norris Cole,202708,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Norris Cole,202708,Driving Dunk,2,2,1,Driving Dunk Shot,DUNKS,,2013
+Norris Cole,202708,Finger Roll,2,6,5,Driving Finger Roll Layup Shot,LAYUPS,,2013
+Norris Cole,202708,Driving Jump Shot,2,5,1,Driving Jump shot,JUMP_SHOTS,,2013
+Norris Cole,202708,Driving Layup,2,64,34,Driving Layup Shot,LAYUPS,,2013
+Norris Cole,202708,Driving Layup,2,12,6,Driving Reverse Layup Shot,LAYUPS,,2013
+Norris Cole,202708,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2013
+Norris Cole,202708,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Norris Cole,202708,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2013
+Norris Cole,202708,Floating Jump Shot,2,10,3,Floating Jump shot,FLOATING_SHOTS,,2013
+Norris Cole,202708,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2013
+Norris Cole,202708,Jump Shot,2,191,64,Jump Shot,JUMP_SHOTS,,2013
+Norris Cole,202708,Jump Shot,3,42,18,Jump Shot,JUMP_SHOTS,,2013
+Norris Cole,202708,Standard Layup,2,48,22,Layup Shot,LAYUPS,,2013
+Norris Cole,202708,Pullup Jump Shot,2,6,4,Pullup Jump shot,JUMP_SHOTS,,2013
+Norris Cole,202708,Reverse Layup,2,6,2,Reverse Layup Shot,LAYUPS,,2013
+Norris Cole,202708,Running Jump Shot,2,2,2,Running Bank shot,JUMP_SHOTS,,2013
+Norris Cole,202708,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2013
+Norris Cole,202708,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2013
+Norris Cole,202708,Running Hook Shot,2,2,0,Running Hook Shot,POST_MOVES,,2013
+Norris Cole,202708,Running Jump Shot,2,8,3,Running Jump Shot,JUMP_SHOTS,,2013
+Norris Cole,202708,Standard Layup,2,7,4,Running Layup Shot,LAYUPS,,2013
+Norris Cole,202708,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2013
+Norris Cole,202708,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2013
+Norris Cole,202708,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2013
+Norris Cole,202708,Turnaround Hook Shot,2,1,1,Turnaround Bank Hook Shot,POST_MOVES,,2013
+Norris Cole,202708,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2013
+Norris Cole,202708,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Norris Cole,202708,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2014
+Norris Cole,202708,Finger Roll,2,16,7,Driving Finger Roll Layup Shot,LAYUPS,,2014
+Norris Cole,202708,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2014
+Norris Cole,202708,Driving Jump Shot,2,6,1,Driving Jump shot,JUMP_SHOTS,,2014
+Norris Cole,202708,Driving Layup,2,76,48,Driving Layup Shot,LAYUPS,,2014
+Norris Cole,202708,Driving Layup,2,6,3,Driving Reverse Layup Shot,LAYUPS,,2014
+Norris Cole,202708,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2014
+Norris Cole,202708,Fadeaway Jump Shot,2,2,2,Fadeaway Jump Shot,JUMP_SHOTS,,2014
+Norris Cole,202708,Floating Jump Shot,2,11,2,Floating Jump shot,FLOATING_SHOTS,,2014
+Norris Cole,202708,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2014
+Norris Cole,202708,Jump Shot,2,224,73,Jump Shot,JUMP_SHOTS,,2014
+Norris Cole,202708,Jump Shot,3,46,14,Jump Shot,JUMP_SHOTS,,2014
+Norris Cole,202708,Standard Layup,2,55,19,Layup Shot,LAYUPS,,2014
+Norris Cole,202708,Pullup Jump Shot,2,22,18,Pullup Jump shot,JUMP_SHOTS,,2014
+Norris Cole,202708,Pullup Jump Shot,3,1,1,Pullup Jump shot,JUMP_SHOTS,,2014
+Norris Cole,202708,Reverse Layup,2,6,6,Reverse Layup Shot,LAYUPS,,2014
+Norris Cole,202708,Running Jump Shot,2,3,3,Running Bank shot,JUMP_SHOTS,,2014
+Norris Cole,202708,Running Hook Shot,2,2,0,Running Hook Shot,POST_MOVES,,2014
+Norris Cole,202708,Running Jump Shot,2,9,2,Running Jump Shot,JUMP_SHOTS,,2014
+Norris Cole,202708,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2014
+Norris Cole,202708,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2014
+Norris Cole,202708,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2014
+Norris Cole,202708,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2014
+Norris Cole,202708,Turnaround Jump Shot,2,3,0,Turnaround Jump Shot,JUMP_SHOTS,,2014
+Norris Cole,202708,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2015
+Norris Cole,202708,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2015
+Norris Cole,202708,Driving Jump Shot,2,10,3,Driving Jump shot,JUMP_SHOTS,,2015
+Norris Cole,202708,Driving Layup,2,73,45,Driving Layup Shot,LAYUPS,,2015
+Norris Cole,202708,Driving Layup,2,11,6,Driving Reverse Layup Shot,LAYUPS,,2015
+Norris Cole,202708,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2015
+Norris Cole,202708,Floating Jump Shot,2,21,14,Floating Jump shot,FLOATING_SHOTS,,2015
+Norris Cole,202708,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2015
+Norris Cole,202708,Jump Shot,2,316,103,Jump Shot,JUMP_SHOTS,,2015
+Norris Cole,202708,Jump Shot,3,9,2,Jump Shot,JUMP_SHOTS,,2015
+Norris Cole,202708,Standard Layup,2,39,13,Layup Shot,LAYUPS,,2015
+Norris Cole,202708,Pullup Jump Shot,2,33,19,Pullup Jump shot,JUMP_SHOTS,,2015
+Norris Cole,202708,Reverse Layup,2,6,3,Reverse Layup Shot,LAYUPS,,2015
+Norris Cole,202708,Running Jump Shot,2,2,2,Running Bank shot,JUMP_SHOTS,,2015
+Norris Cole,202708,Running Hook Shot,2,4,1,Running Hook Shot,POST_MOVES,,2015
+Norris Cole,202708,Running Jump Shot,2,11,6,Running Jump Shot,JUMP_SHOTS,,2015
+Norris Cole,202708,Standard Layup,2,5,4,Running Layup Shot,LAYUPS,,2015
+Norris Cole,202708,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2015
+Norris Cole,202708,Step Back Jump Shot,2,7,1,Step Back Jump shot,JUMP_SHOTS,,2015
+Norris Cole,202708,Turnaround Jump Shot,2,1,0,Turnaround Bank shot,JUMP_SHOTS,,2015
+Norris Cole,202708,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2015
+Norris Cole,202708,Standard Layup,2,2,2,Cutting Layup Shot,LAYUPS,,2016
+Norris Cole,202708,Driving Jump Shot,2,5,2,Driving Bank shot,JUMP_SHOTS,,2016
+Norris Cole,202708,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2016
+Norris Cole,202708,Finger Roll,2,4,2,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Norris Cole,202708,Floating Jump Shot,2,6,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Norris Cole,202708,Driving Hook Shot,2,2,0,Driving Hook Shot,POST_MOVES,,2016
+Norris Cole,202708,Driving Layup,2,40,23,Driving Layup Shot,LAYUPS,,2016
+Norris Cole,202708,Driving Layup,2,7,5,Driving Reverse Layup Shot,LAYUPS,,2016
+Norris Cole,202708,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2016
+Norris Cole,202708,Fadeaway Jump Shot,2,3,2,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Norris Cole,202708,Floating Jump Shot,2,32,21,Floating Jump shot,FLOATING_SHOTS,,2016
+Norris Cole,202708,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2016
+Norris Cole,202708,Jump Shot,2,2,0,Jump Bank Shot,JUMP_SHOTS,,2016
+Norris Cole,202708,Jump Shot,2,247,64,Jump Shot,JUMP_SHOTS,,2016
+Norris Cole,202708,Standard Layup,2,34,5,Layup Shot,LAYUPS,,2016
+Norris Cole,202708,Pullup Jump Shot,2,1,0,Pullup Bank shot,JUMP_SHOTS,,2016
+Norris Cole,202708,Pullup Jump Shot,2,58,39,Pullup Jump shot,JUMP_SHOTS,,2016
+Norris Cole,202708,Reverse Layup,2,2,0,Reverse Layup Shot,LAYUPS,,2016
+Norris Cole,202708,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2016
+Norris Cole,202708,Finger Roll,2,1,0,Running Finger Roll Layup Shot,LAYUPS,,2016
+Norris Cole,202708,Running Jump Shot,2,5,4,Running Jump Shot,JUMP_SHOTS,,2016
+Norris Cole,202708,Standard Layup,2,18,14,Running Layup Shot,LAYUPS,,2016
+Norris Cole,202708,Step Back Jump Shot,2,7,6,Step Back Jump shot,JUMP_SHOTS,,2016
+Norris Cole,202708,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Norris Cole,202708,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2017
+Norris Cole,202708,Floating Jump Shot,2,4,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Norris Cole,202708,Driving Layup,2,5,1,Driving Layup Shot,LAYUPS,,2017
+Norris Cole,202708,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2017
+Norris Cole,202708,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Norris Cole,202708,Floating Jump Shot,2,2,0,Floating Jump shot,FLOATING_SHOTS,,2017
+Norris Cole,202708,Jump Shot,2,18,5,Jump Shot,JUMP_SHOTS,,2017
+Norris Cole,202708,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,2017
+Norris Cole,202708,Pullup Jump Shot,2,13,5,Pullup Jump shot,JUMP_SHOTS,,2017
+Norris Cole,202708,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2017
+Norris Cole,202708,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2017
+Norris Cole,202708,Running Jump Shot,2,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2017

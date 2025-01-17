@@ -1,19 +1,289 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-203469,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2024
-203469,Finger Roll,2PT Field Goal,2,2,Cutting Finger Roll Layup Shot,LAYUPS,1.0,2024
-203469,Standard Layup,2PT Field Goal,3,0,Cutting Layup Shot,LAYUPS,0.0,2024
-203469,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2024
-203469,Floating Jump Shot,2PT Field Goal,2,1,Driving Floating Jump Shot,FLOATING_SHOTS,0.5,2024
-203469,Driving Layup,2PT Field Goal,3,0,Driving Layup Shot,LAYUPS,0.0,2024
-203469,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2024
-203469,Floating Jump Shot,2PT Field Goal,2,0,Floating Jump shot,FLOATING_SHOTS,0.0,2024
-203469,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2024
-203469,Jump Shot,3PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.5,2024
-203469,Standard Layup,2PT Field Goal,5,0,Layup Shot,LAYUPS,0.0,2024
-203469,Putback Dunk,2PT Field Goal,1,1,Putback Dunk Shot,DUNKS,1.0,2024
-203469,Putback Layup,2PT Field Goal,4,2,Putback Layup Shot,LAYUPS,0.5,2024
-203469,Alley Oop Layup,2PT Field Goal,1,0,Running Alley Oop Layup Shot,LAYUPS,0.0,2024
-203469,Standard Layup,2PT Field Goal,2,2,Running Layup Shot,LAYUPS,1.0,2024
-203469,Specialty Dunk,2PT Field Goal,1,1,Tip Dunk Shot,DUNKS,1.0,2024
-203469,Putback Layup,2PT Field Goal,9,3,Tip Layup Shot,LAYUPS,0.3333333333333333,2024
-203469,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Cody Zeller,203469,Alley Oop Dunk,2,4,3,Alley Oop Dunk Shot,DUNKS,,2014
+Cody Zeller,203469,Driving Dunk,2,7,7,Driving Dunk Shot,DUNKS,,2014
+Cody Zeller,203469,Driving Jump Shot,2,2,0,Driving Jump shot,JUMP_SHOTS,,2014
+Cody Zeller,203469,Driving Layup,2,26,16,Driving Layup Shot,LAYUPS,,2014
+Cody Zeller,203469,Driving Layup,2,4,3,Driving Reverse Layup Shot,LAYUPS,,2014
+Cody Zeller,203469,Standard Dunk,2,24,21,Dunk Shot,DUNKS,,2014
+Cody Zeller,203469,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2014
+Cody Zeller,203469,Floating Jump Shot,2,2,2,Floating Jump shot,FLOATING_SHOTS,,2014
+Cody Zeller,203469,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2014
+Cody Zeller,203469,Jump Shot,2,183,48,Jump Shot,JUMP_SHOTS,,2014
+Cody Zeller,203469,Standard Layup,2,97,36,Layup Shot,LAYUPS,,2014
+Cody Zeller,203469,Pullup Jump Shot,2,2,1,Pullup Jump shot,JUMP_SHOTS,,2014
+Cody Zeller,203469,Putback Dunk,2,9,8,Putback Dunk Shot,DUNKS,,2014
+Cody Zeller,203469,Putback Layup,2,8,6,Putback Layup Shot,LAYUPS,,2014
+Cody Zeller,203469,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2014
+Cody Zeller,203469,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2014
+Cody Zeller,203469,Running Jump Shot,2,4,1,Running Jump Shot,JUMP_SHOTS,,2014
+Cody Zeller,203469,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2014
+Cody Zeller,203469,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2014
+Cody Zeller,203469,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2014
+Cody Zeller,203469,Tip Shot,2,19,12,Tip Shot,TIP_SHOTS,,2014
+Cody Zeller,203469,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2014
+Cody Zeller,203469,Turnaround Jump Shot,2,2,2,Turnaround Jump Shot,JUMP_SHOTS,,2014
+Cody Zeller,203469,Alley Oop Dunk,2,1,0,Alley Oop Dunk Shot,DUNKS,,2015
+Cody Zeller,203469,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2015
+Cody Zeller,203469,Driving Dunk,2,10,8,Driving Dunk Shot,DUNKS,,2015
+Cody Zeller,203469,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2015
+Cody Zeller,203469,Driving Layup,2,16,11,Driving Layup Shot,LAYUPS,,2015
+Cody Zeller,203469,Driving Dunk,2,2,2,Driving Slam Dunk Shot,DUNKS,,2015
+Cody Zeller,203469,Standard Dunk,2,31,30,Dunk Shot,DUNKS,,2015
+Cody Zeller,203469,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+Cody Zeller,203469,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2015
+Cody Zeller,203469,Hook Shot,2,5,3,Hook Shot,POST_MOVES,,2015
+Cody Zeller,203469,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2015
+Cody Zeller,203469,Jump Shot,2,166,56,Jump Shot,JUMP_SHOTS,,2015
+Cody Zeller,203469,Standard Layup,2,95,36,Layup Shot,LAYUPS,,2015
+Cody Zeller,203469,Putback Dunk,2,3,2,Putback Dunk Shot,DUNKS,,2015
+Cody Zeller,203469,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2015
+Cody Zeller,203469,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2015
+Cody Zeller,203469,Reverse Layup,2,6,3,Reverse Layup Shot,LAYUPS,,2015
+Cody Zeller,203469,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2015
+Cody Zeller,203469,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2015
+Cody Zeller,203469,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2015
+Cody Zeller,203469,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,2015
+Cody Zeller,203469,Tip Shot,2,16,9,Tip Shot,TIP_SHOTS,,2015
+Cody Zeller,203469,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2015
+Cody Zeller,203469,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2015
+Cody Zeller,203469,Alley Oop Dunk,2,6,6,Alley Oop Dunk Shot,DUNKS,,2016
+Cody Zeller,203469,Alley Oop Layup,2,4,3,Alley Oop Layup shot,LAYUPS,,2016
+Cody Zeller,203469,Specialty Dunk,2,22,22,Cutting Dunk Shot,DUNKS,,2016
+Cody Zeller,203469,Finger Roll,2,2,2,Cutting Finger Roll Layup Shot,LAYUPS,,2016
+Cody Zeller,203469,Standard Layup,2,15,9,Cutting Layup Shot,LAYUPS,,2016
+Cody Zeller,203469,Driving Jump Shot,2,1,0,Driving Bank shot,JUMP_SHOTS,,2016
+Cody Zeller,203469,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Cody Zeller,203469,Floating Jump Shot,2,2,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Cody Zeller,203469,Driving Layup,2,22,12,Driving Layup Shot,LAYUPS,,2016
+Cody Zeller,203469,Driving Layup,2,3,3,Driving Reverse Layup Shot,LAYUPS,,2016
+Cody Zeller,203469,Standard Dunk,2,44,38,Dunk Shot,DUNKS,,2016
+Cody Zeller,203469,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Cody Zeller,203469,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2016
+Cody Zeller,203469,Floating Jump Shot,2,7,6,Floating Jump shot,FLOATING_SHOTS,,2016
+Cody Zeller,203469,Hook Shot,2,7,4,Hook Shot,POST_MOVES,,2016
+Cody Zeller,203469,Jump Shot,2,3,1,Jump Bank Shot,JUMP_SHOTS,,2016
+Cody Zeller,203469,Jump Shot,2,114,32,Jump Shot,JUMP_SHOTS,,2016
+Cody Zeller,203469,Standard Layup,2,97,38,Layup Shot,LAYUPS,,2016
+Cody Zeller,203469,Putback Dunk,2,6,5,Putback Dunk Shot,DUNKS,,2016
+Cody Zeller,203469,Putback Layup,2,13,8,Putback Layup Shot,LAYUPS,,2016
+Cody Zeller,203469,Reverse Layup,2,15,8,Reverse Layup Shot,LAYUPS,,2016
+Cody Zeller,203469,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2016
+Cody Zeller,203469,Alley Oop Layup,2,2,1,Running Alley Oop Layup Shot,LAYUPS,,2016
+Cody Zeller,203469,Standard Dunk,2,5,5,Running Dunk Shot,DUNKS,,2016
+Cody Zeller,203469,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2016
+Cody Zeller,203469,Standard Layup,2,8,7,Running Layup Shot,LAYUPS,,2016
+Cody Zeller,203469,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2016
+Cody Zeller,203469,Step Back Jump Shot,2,2,0,Step Back Jump shot,JUMP_SHOTS,,2016
+Cody Zeller,203469,Specialty Dunk,2,2,2,Tip Dunk Shot,DUNKS,,2016
+Cody Zeller,203469,Putback Layup,2,17,11,Tip Layup Shot,LAYUPS,,2016
+Cody Zeller,203469,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2016
+Cody Zeller,203469,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2016
+Cody Zeller,203469,Turnaround Hook Shot,2,5,3,Turnaround Hook Shot,POST_MOVES,,2016
+Cody Zeller,203469,Turnaround Jump Shot,2,3,0,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Cody Zeller,203469,Specialty Dunk,2,36,35,Cutting Dunk Shot,DUNKS,,2017
+Cody Zeller,203469,Finger Roll,2,5,4,Cutting Finger Roll Layup Shot,LAYUPS,,2017
+Cody Zeller,203469,Standard Layup,2,34,26,Cutting Layup Shot,LAYUPS,,2017
+Cody Zeller,203469,Driving Hook Shot,2,2,2,Driving Bank Hook Shot,POST_MOVES,,2017
+Cody Zeller,203469,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2017
+Cody Zeller,203469,Driving Dunk,2,15,13,Driving Dunk Shot,DUNKS,,2017
+Cody Zeller,203469,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Cody Zeller,203469,Floating Jump Shot,2,3,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Cody Zeller,203469,Driving Hook Shot,2,3,1,Driving Hook Shot,POST_MOVES,,2017
+Cody Zeller,203469,Driving Layup,2,23,10,Driving Layup Shot,LAYUPS,,2017
+Cody Zeller,203469,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2017
+Cody Zeller,203469,Standard Dunk,2,30,26,Dunk Shot,DUNKS,,2017
+Cody Zeller,203469,Fadeaway Jump Shot,2,3,2,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Cody Zeller,203469,Finger Roll,2,3,2,Finger Roll Layup Shot,LAYUPS,,2017
+Cody Zeller,203469,Floating Jump Shot,2,34,23,Floating Jump shot,FLOATING_SHOTS,,2017
+Cody Zeller,203469,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2017
+Cody Zeller,203469,Hook Shot,2,10,4,Hook Shot,POST_MOVES,,2017
+Cody Zeller,203469,Jump Shot,2,2,0,Jump Bank Shot,JUMP_SHOTS,,2017
+Cody Zeller,203469,Jump Shot,2,85,25,Jump Shot,JUMP_SHOTS,,2017
+Cody Zeller,203469,Standard Layup,2,89,32,Layup Shot,LAYUPS,,2017
+Cody Zeller,203469,Pullup Jump Shot,2,3,1,Pullup Jump shot,JUMP_SHOTS,,2017
+Cody Zeller,203469,Putback Dunk,2,3,3,Putback Dunk Shot,DUNKS,,2017
+Cody Zeller,203469,Putback Layup,2,11,10,Putback Layup Shot,LAYUPS,,2017
+Cody Zeller,203469,Reverse Dunk,2,1,0,Reverse Dunk Shot,DUNKS,,2017
+Cody Zeller,203469,Reverse Layup,2,5,3,Reverse Layup Shot,LAYUPS,,2017
+Cody Zeller,203469,Standard Dunk,2,6,6,Running Dunk Shot,DUNKS,,2017
+Cody Zeller,203469,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2017
+Cody Zeller,203469,Standard Layup,2,7,5,Running Layup Shot,LAYUPS,,2017
+Cody Zeller,203469,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2017
+Cody Zeller,203469,Putback Layup,2,20,13,Tip Layup Shot,LAYUPS,,2017
+Cody Zeller,203469,Turnaround Jump Shot,2,1,0,Turnaround Bank shot,JUMP_SHOTS,,2017
+Cody Zeller,203469,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Cody Zeller,203469,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2018
+Cody Zeller,203469,Specialty Dunk,2,6,6,Cutting Dunk Shot,DUNKS,,2018
+Cody Zeller,203469,Standard Layup,2,11,7,Cutting Layup Shot,LAYUPS,,2018
+Cody Zeller,203469,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2018
+Cody Zeller,203469,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Cody Zeller,203469,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2018
+Cody Zeller,203469,Driving Layup,2,4,1,Driving Layup Shot,LAYUPS,,2018
+Cody Zeller,203469,Standard Dunk,2,6,6,Dunk Shot,DUNKS,,2018
+Cody Zeller,203469,Floating Jump Shot,2,8,5,Floating Jump shot,FLOATING_SHOTS,,2018
+Cody Zeller,203469,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2018
+Cody Zeller,203469,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2018
+Cody Zeller,203469,Jump Shot,2,28,13,Jump Shot,JUMP_SHOTS,,2018
+Cody Zeller,203469,Standard Layup,2,48,21,Layup Shot,LAYUPS,,2018
+Cody Zeller,203469,Pullup Jump Shot,2,2,1,Pullup Jump shot,JUMP_SHOTS,,2018
+Cody Zeller,203469,Putback Dunk,2,2,1,Putback Dunk Shot,DUNKS,,2018
+Cody Zeller,203469,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2018
+Cody Zeller,203469,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2018
+Cody Zeller,203469,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2018
+Cody Zeller,203469,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2018
+Cody Zeller,203469,Putback Layup,2,22,12,Tip Layup Shot,LAYUPS,,2018
+Cody Zeller,203469,Turnaround Hook Shot,2,1,1,Turnaround Bank Hook Shot,POST_MOVES,,2018
+Cody Zeller,203469,Turnaround Hook Shot,2,2,0,Turnaround Hook Shot,POST_MOVES,,2018
+Cody Zeller,203469,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2018
+Cody Zeller,203469,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2019
+Cody Zeller,203469,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2019
+Cody Zeller,203469,Specialty Dunk,2,15,15,Cutting Dunk Shot,DUNKS,,2019
+Cody Zeller,203469,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2019
+Cody Zeller,203469,Standard Layup,2,22,12,Cutting Layup Shot,LAYUPS,,2019
+Cody Zeller,203469,Driving Dunk,2,8,7,Driving Dunk Shot,DUNKS,,2019
+Cody Zeller,203469,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Cody Zeller,203469,Floating Jump Shot,2,3,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Cody Zeller,203469,Floating Jump Shot,2,9,4,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Cody Zeller,203469,Driving Layup,2,31,17,Driving Layup Shot,LAYUPS,,2019
+Cody Zeller,203469,Standard Dunk,2,17,13,Dunk Shot,DUNKS,,2019
+Cody Zeller,203469,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+Cody Zeller,203469,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2019
+Cody Zeller,203469,Floating Jump Shot,2,31,18,Floating Jump shot,FLOATING_SHOTS,,2019
+Cody Zeller,203469,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2019
+Cody Zeller,203469,Hook Shot,2,11,6,Hook Shot,POST_MOVES,,2019
+Cody Zeller,203469,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2019
+Cody Zeller,203469,Jump Shot,2,32,9,Jump Shot,JUMP_SHOTS,,2019
+Cody Zeller,203469,Standard Layup,2,80,35,Layup Shot,LAYUPS,,2019
+Cody Zeller,203469,Pullup Jump Shot,2,5,3,Pullup Jump shot,JUMP_SHOTS,,2019
+Cody Zeller,203469,Putback Dunk,2,3,3,Putback Dunk Shot,DUNKS,,2019
+Cody Zeller,203469,Putback Layup,2,5,5,Putback Layup Shot,LAYUPS,,2019
+Cody Zeller,203469,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2019
+Cody Zeller,203469,Standard Dunk,2,4,4,Running Dunk Shot,DUNKS,,2019
+Cody Zeller,203469,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2019
+Cody Zeller,203469,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2019
+Cody Zeller,203469,Standard Layup,2,5,5,Running Layup Shot,LAYUPS,,2019
+Cody Zeller,203469,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2019
+Cody Zeller,203469,Putback Layup,2,35,16,Tip Layup Shot,LAYUPS,,2019
+Cody Zeller,203469,Turnaround Jump Shot,2,3,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2019
+Cody Zeller,203469,Turnaround Hook Shot,2,5,1,Turnaround Hook Shot,POST_MOVES,,2019
+Cody Zeller,203469,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2019
+Cody Zeller,203469,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2020
+Cody Zeller,203469,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2020
+Cody Zeller,203469,Specialty Dunk,2,21,21,Cutting Dunk Shot,DUNKS,,2020
+Cody Zeller,203469,Finger Roll,2,3,3,Cutting Finger Roll Layup Shot,LAYUPS,,2020
+Cody Zeller,203469,Standard Layup,2,31,17,Cutting Layup Shot,LAYUPS,,2020
+Cody Zeller,203469,Driving Dunk,2,8,7,Driving Dunk Shot,DUNKS,,2020
+Cody Zeller,203469,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2020
+Cody Zeller,203469,Floating Jump Shot,2,3,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2020
+Cody Zeller,203469,Floating Jump Shot,2,8,5,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Cody Zeller,203469,Driving Hook Shot,2,2,0,Driving Hook Shot,POST_MOVES,,2020
+Cody Zeller,203469,Driving Layup,2,53,22,Driving Layup Shot,LAYUPS,,2020
+Cody Zeller,203469,Standard Dunk,2,27,25,Dunk Shot,DUNKS,,2020
+Cody Zeller,203469,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+Cody Zeller,203469,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2020
+Cody Zeller,203469,Floating Jump Shot,2,26,12,Floating Jump shot,FLOATING_SHOTS,,2020
+Cody Zeller,203469,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2020
+Cody Zeller,203469,Hook Shot,2,15,5,Hook Shot,POST_MOVES,,2020
+Cody Zeller,203469,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2020
+Cody Zeller,203469,Jump Shot,2,79,18,Jump Shot,JUMP_SHOTS,,2020
+Cody Zeller,203469,Standard Layup,2,72,39,Layup Shot,LAYUPS,,2020
+Cody Zeller,203469,Pullup Jump Shot,2,2,2,Pullup Jump shot,JUMP_SHOTS,,2020
+Cody Zeller,203469,Putback Layup,2,16,12,Putback Layup Shot,LAYUPS,,2020
+Cody Zeller,203469,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2020
+Cody Zeller,203469,Reverse Layup,2,5,3,Reverse Layup Shot,LAYUPS,,2020
+Cody Zeller,203469,Standard Dunk,2,7,7,Running Dunk Shot,DUNKS,,2020
+Cody Zeller,203469,Standard Layup,2,4,3,Running Layup Shot,LAYUPS,,2020
+Cody Zeller,203469,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2020
+Cody Zeller,203469,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2020
+Cody Zeller,203469,Specialty Dunk,2,1,0,Tip Dunk Shot,DUNKS,,2020
+Cody Zeller,203469,Putback Layup,2,56,30,Tip Layup Shot,LAYUPS,,2020
+Cody Zeller,203469,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2020
+Cody Zeller,203469,Turnaround Jump Shot,2,3,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2020
+Cody Zeller,203469,Turnaround Hook Shot,2,12,2,Turnaround Hook Shot,POST_MOVES,,2020
+Cody Zeller,203469,Turnaround Jump Shot,2,9,4,Turnaround Jump Shot,JUMP_SHOTS,,2020
+Cody Zeller,203469,Alley Oop Dunk,2,1,0,Alley Oop Dunk Shot,DUNKS,,2021
+Cody Zeller,203469,Specialty Dunk,2,20,18,Cutting Dunk Shot,DUNKS,,2021
+Cody Zeller,203469,Finger Roll,2,3,2,Cutting Finger Roll Layup Shot,LAYUPS,,2021
+Cody Zeller,203469,Standard Layup,2,18,13,Cutting Layup Shot,LAYUPS,,2021
+Cody Zeller,203469,Driving Dunk,2,9,9,Driving Dunk Shot,DUNKS,,2021
+Cody Zeller,203469,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Cody Zeller,203469,Floating Jump Shot,2,2,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2021
+Cody Zeller,203469,Floating Jump Shot,2,11,6,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Cody Zeller,203469,Driving Layup,2,31,15,Driving Layup Shot,LAYUPS,,2021
+Cody Zeller,203469,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2021
+Cody Zeller,203469,Standard Dunk,2,15,14,Dunk Shot,DUNKS,,2021
+Cody Zeller,203469,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2021
+Cody Zeller,203469,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2021
+Cody Zeller,203469,Floating Jump Shot,2,28,10,Floating Jump shot,FLOATING_SHOTS,,2021
+Cody Zeller,203469,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2021
+Cody Zeller,203469,Hook Shot,2,5,2,Hook Shot,POST_MOVES,,2021
+Cody Zeller,203469,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2021
+Cody Zeller,203469,Jump Shot,2,32,5,Jump Shot,JUMP_SHOTS,,2021
+Cody Zeller,203469,Standard Layup,2,65,35,Layup Shot,LAYUPS,,2021
+Cody Zeller,203469,Pullup Jump Shot,2,2,1,Pullup Jump shot,JUMP_SHOTS,,2021
+Cody Zeller,203469,Putback Layup,2,12,9,Putback Layup Shot,LAYUPS,,2021
+Cody Zeller,203469,Reverse Layup,2,4,1,Reverse Layup Shot,LAYUPS,,2021
+Cody Zeller,203469,Standard Dunk,2,9,9,Running Dunk Shot,DUNKS,,2021
+Cody Zeller,203469,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2021
+Cody Zeller,203469,Standard Layup,2,4,4,Running Layup Shot,LAYUPS,,2021
+Cody Zeller,203469,Specialty Dunk,2,2,2,Tip Dunk Shot,DUNKS,,2021
+Cody Zeller,203469,Putback Layup,2,38,17,Tip Layup Shot,LAYUPS,,2021
+Cody Zeller,203469,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2021
+Cody Zeller,203469,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2021
+Cody Zeller,203469,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2021
+Cody Zeller,203469,Specialty Dunk,2,5,4,Cutting Dunk Shot,DUNKS,,2022
+Cody Zeller,203469,Standard Layup,2,10,7,Cutting Layup Shot,LAYUPS,,2022
+Cody Zeller,203469,Driving Dunk,2,3,2,Driving Dunk Shot,DUNKS,,2022
+Cody Zeller,203469,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Cody Zeller,203469,Floating Jump Shot,2,3,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Cody Zeller,203469,Driving Layup,2,11,5,Driving Layup Shot,LAYUPS,,2022
+Cody Zeller,203469,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2022
+Cody Zeller,203469,Standard Dunk,2,6,5,Dunk Shot,DUNKS,,2022
+Cody Zeller,203469,Floating Jump Shot,2,7,5,Floating Jump shot,FLOATING_SHOTS,,2022
+Cody Zeller,203469,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2022
+Cody Zeller,203469,Jump Shot,2,4,1,Jump Shot,JUMP_SHOTS,,2022
+Cody Zeller,203469,Standard Layup,2,6,3,Layup Shot,LAYUPS,,2022
+Cody Zeller,203469,Pullup Jump Shot,2,2,0,Pullup Jump shot,JUMP_SHOTS,,2022
+Cody Zeller,203469,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2022
+Cody Zeller,203469,Putback Layup,2,3,1,Putback Layup Shot,LAYUPS,,2022
+Cody Zeller,203469,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2022
+Cody Zeller,203469,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2022
+Cody Zeller,203469,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2022
+Cody Zeller,203469,Specialty Dunk,2,3,3,Tip Dunk Shot,DUNKS,,2022
+Cody Zeller,203469,Putback Layup,2,15,6,Tip Layup Shot,LAYUPS,,2022
+Cody Zeller,203469,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2022
+Cody Zeller,203469,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2022
+Cody Zeller,203469,Specialty Dunk,2,5,4,Cutting Dunk Shot,DUNKS,,2023
+Cody Zeller,203469,Finger Roll,2,2,1,Cutting Finger Roll Layup Shot,LAYUPS,,2023
+Cody Zeller,203469,Standard Layup,2,11,9,Cutting Layup Shot,LAYUPS,,2023
+Cody Zeller,203469,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Cody Zeller,203469,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+Cody Zeller,203469,Floating Jump Shot,2,4,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Cody Zeller,203469,Driving Layup,2,3,0,Driving Layup Shot,LAYUPS,,2023
+Cody Zeller,203469,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2023
+Cody Zeller,203469,Floating Jump Shot,2,8,4,Floating Jump shot,FLOATING_SHOTS,,2023
+Cody Zeller,203469,Jump Shot,2,4,0,Jump Shot,JUMP_SHOTS,,2023
+Cody Zeller,203469,Standard Layup,2,4,3,Layup Shot,LAYUPS,,2023
+Cody Zeller,203469,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2023
+Cody Zeller,203469,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2023
+Cody Zeller,203469,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2023
+Cody Zeller,203469,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2023
+Cody Zeller,203469,Putback Layup,2,7,4,Tip Layup Shot,LAYUPS,,2023
+Cody Zeller,203469,Specialty Dunk,2,4,4,Cutting Dunk Shot,DUNKS,,2024
+Cody Zeller,203469,Finger Roll,2,2,2,Cutting Finger Roll Layup Shot,LAYUPS,,2024
+Cody Zeller,203469,Standard Layup,2,4,1,Cutting Layup Shot,LAYUPS,,2024
+Cody Zeller,203469,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Cody Zeller,203469,Floating Jump Shot,2,2,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Cody Zeller,203469,Driving Layup,2,6,0,Driving Layup Shot,LAYUPS,,2024
+Cody Zeller,203469,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2024
+Cody Zeller,203469,Floating Jump Shot,2,3,1,Floating Jump shot,FLOATING_SHOTS,,2024
+Cody Zeller,203469,Jump Shot,2,2,0,Jump Shot,JUMP_SHOTS,,2024
+Cody Zeller,203469,Jump Shot,3,3,1,Jump Shot,JUMP_SHOTS,,2024
+Cody Zeller,203469,Standard Layup,2,6,1,Layup Shot,LAYUPS,,2024
+Cody Zeller,203469,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2024
+Cody Zeller,203469,Putback Layup,2,4,2,Putback Layup Shot,LAYUPS,,2024
+Cody Zeller,203469,Alley Oop Layup,2,1,0,Running Alley Oop Layup Shot,LAYUPS,,2024
+Cody Zeller,203469,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2024
+Cody Zeller,203469,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2024
+Cody Zeller,203469,Putback Layup,2,15,5,Tip Layup Shot,LAYUPS,,2024
+Cody Zeller,203469,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2024

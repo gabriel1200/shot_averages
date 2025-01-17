@@ -1,28 +1,88 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-2049,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Shot,LAYUPS,1.0,2004
-2049,Driving Layup,2PT Field Goal,15,12,Driving Layup Shot,LAYUPS,0.8,2004
-2049,Fadeaway Jump Shot,2PT Field Goal,2,2,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2004
-2049,Jump Shot,2PT Field Goal,43,14,Jump Shot,JUMP_SHOTS,0.3255813953488372,2004
-2049,Jump Shot,3PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,2004
-2049,Standard Layup,2PT Field Goal,10,4,Layup Shot,LAYUPS,0.4,2004
-2049,Reverse Layup,2PT Field Goal,3,3,Reverse Layup Shot,LAYUPS,1.0,2004
-2049,Running Hook Shot,2PT Field Goal,1,0,Running Hook Shot,POST_MOVES,0.0,2004
-2049,Running Jump Shot,2PT Field Goal,6,4,Running Jump Shot,JUMP_SHOTS,0.6666666666666666,2004
-2049,Driving Layup,2PT Field Goal,4,2,Driving Layup Shot,LAYUPS,0.5,2005
-2049,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2005
-2049,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2005
-2049,Jump Shot,2PT Field Goal,24,11,Jump Shot,JUMP_SHOTS,0.4583333333333333,2005
-2049,Jump Shot,3PT Field Goal,10,2,Jump Shot,JUMP_SHOTS,0.3,2005
-2049,Standard Layup,2PT Field Goal,9,5,Layup Shot,LAYUPS,0.5555555555555556,2005
-2049,Reverse Layup,2PT Field Goal,2,2,Reverse Layup Shot,LAYUPS,1.0,2005
-2049,Running Jump Shot,2PT Field Goal,4,0,Running Jump Shot,JUMP_SHOTS,0.0,2005
-2049,Driving Layup,2PT Field Goal,5,5,Driving Layup Shot,LAYUPS,1.0,2006
-2049,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2006
-2049,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2006
-2049,Jump Shot,2PT Field Goal,16,6,Jump Shot,JUMP_SHOTS,0.375,2006
-2049,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2006
-2049,Standard Layup,2PT Field Goal,7,2,Layup Shot,LAYUPS,0.2857142857142857,2006
-2049,Running Jump Shot,2PT Field Goal,4,2,Running Jump Shot,JUMP_SHOTS,0.5,2006
-2049,Jump Shot,2PT Field Goal,5,2,Jump Shot,JUMP_SHOTS,0.4,2007
-2049,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2007
-2049,Standard Layup,2PT Field Goal,4,1,Layup Shot,LAYUPS,0.25,2007
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Speedy Claxton,2049,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2002
+Speedy Claxton,2049,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2002
+Speedy Claxton,2049,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2002
+Speedy Claxton,2049,Driving Layup,2,46,39,Driving Layup Shot,LAYUPS,,2002
+Speedy Claxton,2049,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2002
+Speedy Claxton,2049,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Speedy Claxton,2049,Jump Shot,2,258,81,Jump Shot,JUMP_SHOTS,,2002
+Speedy Claxton,2049,Jump Shot,3,7,0,Jump Shot,JUMP_SHOTS,,2002
+Speedy Claxton,2049,Standard Layup,2,112,42,Layup Shot,LAYUPS,,2002
+Speedy Claxton,2049,Reverse Layup,2,5,4,Reverse Layup Shot,LAYUPS,,2002
+Speedy Claxton,2049,Running Jump Shot,2,14,8,Running Jump Shot,JUMP_SHOTS,,2002
+Speedy Claxton,2049,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2002
+Speedy Claxton,2049,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2002
+Speedy Claxton,2049,Tip Shot,2,2,0,Tip Shot,TIP_SHOTS,,2002
+Speedy Claxton,2049,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Speedy Claxton,2049,Finger Roll,2,2,1,Driving Finger Roll Shot,LAYUPS,,2003
+Speedy Claxton,2049,Driving Layup,2,16,13,Driving Layup Shot,LAYUPS,,2003
+Speedy Claxton,2049,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2003
+Speedy Claxton,2049,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Speedy Claxton,2049,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2003
+Speedy Claxton,2049,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2003
+Speedy Claxton,2049,Jump Shot,2,89,34,Jump Shot,JUMP_SHOTS,,2003
+Speedy Claxton,2049,Standard Layup,2,21,10,Layup Shot,LAYUPS,,2003
+Speedy Claxton,2049,Reverse Layup,2,4,2,Reverse Layup Shot,LAYUPS,,2003
+Speedy Claxton,2049,Running Jump Shot,2,6,2,Running Jump Shot,JUMP_SHOTS,,2003
+Speedy Claxton,2049,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2003
+Speedy Claxton,2049,Finger Roll,2,5,4,Driving Finger Roll Shot,LAYUPS,,2004
+Speedy Claxton,2049,Driving Layup,2,91,67,Driving Layup Shot,LAYUPS,,2004
+Speedy Claxton,2049,Fadeaway Jump Shot,2,9,8,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Speedy Claxton,2049,Finger Roll,2,1,0,Finger Roll Shot,LAYUPS,,2004
+Speedy Claxton,2049,Jump Shot,2,7,5,Jump Bank Shot,JUMP_SHOTS,,2004
+Speedy Claxton,2049,Jump Shot,2,276,84,Jump Shot,JUMP_SHOTS,,2004
+Speedy Claxton,2049,Jump Shot,3,20,4,Jump Shot,JUMP_SHOTS,,2004
+Speedy Claxton,2049,Standard Layup,2,62,24,Layup Shot,LAYUPS,,2004
+Speedy Claxton,2049,Reverse Layup,2,7,6,Reverse Layup Shot,LAYUPS,,2004
+Speedy Claxton,2049,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2004
+Speedy Claxton,2049,Running Jump Shot,2,40,20,Running Jump Shot,JUMP_SHOTS,,2004
+Speedy Claxton,2049,Standard Layup,2,3,1,Running Layup Shot,LAYUPS,,2004
+Speedy Claxton,2049,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2004
+Speedy Claxton,2049,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Speedy Claxton,2049,Finger Roll,2,4,2,Driving Finger Roll Shot,LAYUPS,,2005
+Speedy Claxton,2049,Driving Layup,2,70,60,Driving Layup Shot,LAYUPS,,2005
+Speedy Claxton,2049,Fadeaway Jump Shot,2,20,12,Fadeaway Jump Shot,JUMP_SHOTS,,2005
+Speedy Claxton,2049,Finger Roll,2,2,1,Finger Roll Shot,LAYUPS,,2005
+Speedy Claxton,2049,Jump Shot,2,11,6,Jump Bank Shot,JUMP_SHOTS,,2005
+Speedy Claxton,2049,Jump Shot,2,321,104,Jump Shot,JUMP_SHOTS,,2005
+Speedy Claxton,2049,Jump Shot,3,39,9,Jump Shot,JUMP_SHOTS,,2005
+Speedy Claxton,2049,Standard Layup,2,85,30,Layup Shot,LAYUPS,,2005
+Speedy Claxton,2049,Reverse Layup,2,12,10,Reverse Layup Shot,LAYUPS,,2005
+Speedy Claxton,2049,Running Jump Shot,2,37,20,Running Jump Shot,JUMP_SHOTS,,2005
+Speedy Claxton,2049,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2005
+Speedy Claxton,2049,Standard Layup,2,4,2,Running Layup Shot,LAYUPS,,2005
+Speedy Claxton,2049,Tip Shot,2,4,0,Tip Shot,TIP_SHOTS,,2005
+Speedy Claxton,2049,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2005
+Speedy Claxton,2049,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2006
+Speedy Claxton,2049,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2006
+Speedy Claxton,2049,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2006
+Speedy Claxton,2049,Driving Layup,2,70,54,Driving Layup Shot,LAYUPS,,2006
+Speedy Claxton,2049,Standard Dunk,2,3,2,Dunk Shot,DUNKS,,2006
+Speedy Claxton,2049,Fadeaway Jump Shot,2,23,18,Fadeaway Jump Shot,JUMP_SHOTS,,2006
+Speedy Claxton,2049,Jump Shot,2,14,9,Jump Bank Shot,JUMP_SHOTS,,2006
+Speedy Claxton,2049,Jump Shot,2,445,137,Jump Shot,JUMP_SHOTS,,2006
+Speedy Claxton,2049,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2006
+Speedy Claxton,2049,Standard Layup,2,143,56,Layup Shot,LAYUPS,,2006
+Speedy Claxton,2049,Reverse Layup,2,5,4,Reverse Layup Shot,LAYUPS,,2006
+Speedy Claxton,2049,Finger Roll,2,1,1,Running Finger Roll Shot,LAYUPS,,2006
+Speedy Claxton,2049,Running Jump Shot,2,24,17,Running Jump Shot,JUMP_SHOTS,,2006
+Speedy Claxton,2049,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2006
+Speedy Claxton,2049,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2006
+Speedy Claxton,2049,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2006
+Speedy Claxton,2049,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2007
+Speedy Claxton,2049,Driving Layup,2,19,14,Driving Layup Shot,LAYUPS,,2007
+Speedy Claxton,2049,Fadeaway Jump Shot,2,7,6,Fadeaway Jump Shot,JUMP_SHOTS,,2007
+Speedy Claxton,2049,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2007
+Speedy Claxton,2049,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2007
+Speedy Claxton,2049,Jump Shot,2,190,51,Jump Shot,JUMP_SHOTS,,2007
+Speedy Claxton,2049,Jump Shot,3,5,1,Jump Shot,JUMP_SHOTS,,2007
+Speedy Claxton,2049,Standard Layup,2,38,5,Layup Shot,LAYUPS,,2007
+Speedy Claxton,2049,Reverse Layup,2,4,1,Reverse Layup Shot,LAYUPS,,2007
+Speedy Claxton,2049,Running Jump Shot,2,6,5,Running Jump Shot,JUMP_SHOTS,,2007
+Speedy Claxton,2049,Standard Layup,2,3,3,Running Layup Shot,LAYUPS,,2007
+Speedy Claxton,2049,Turnaround Jump Shot,2,2,2,Turnaround Jump Shot,JUMP_SHOTS,,2007
+Speedy Claxton,2049,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2009
+Speedy Claxton,2049,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2009
+Speedy Claxton,2049,Jump Shot,2,3,1,Jump Shot,JUMP_SHOTS,,2009
+Speedy Claxton,2049,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2009
+Speedy Claxton,2049,Running Jump Shot,2,1,0,Running Bank shot,JUMP_SHOTS,,2009

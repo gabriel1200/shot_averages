@@ -1,24 +1,200 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-202722,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2017
-202722,Jump Shot,3PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.5,2017
-202722,Finger Roll,2PT Field Goal,1,0,Cutting Finger Roll Layup Shot,LAYUPS,0.0,2024
-202722,Standard Layup,2PT Field Goal,1,0,Cutting Layup Shot,LAYUPS,0.0,2024
-202722,Driving Layup,2PT Field Goal,5,2,Driving Layup Shot,LAYUPS,0.4,2024
-202722,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2024
-202722,Fadeaway Jump Shot,2PT Field Goal,3,2,Fadeaway Jump Shot,JUMP_SHOTS,0.6666666666666666,2024
-202722,Fadeaway Jump Shot,3PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2024
-202722,Jump Shot,3PT Field Goal,2,1,Jump Bank Shot,JUMP_SHOTS,0.75,2024
-202722,Jump Shot,2PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,2024
-202722,Jump Shot,3PT Field Goal,104,38,Jump Shot,JUMP_SHOTS,0.5480769230769231,2024
-202722,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2024
-202722,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2024
-202722,Pullup Jump Shot,3PT Field Goal,14,3,Pullup Jump shot,JUMP_SHOTS,0.3214285714285714,2024
-202722,Reverse Dunk,2PT Field Goal,1,1,Reverse Dunk Shot,DUNKS,1.0,2024
-202722,Reverse Layup,2PT Field Goal,2,2,Reverse Layup Shot,LAYUPS,1.0,2024
-202722,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2024
-202722,Running Jump Shot,3PT Field Goal,10,5,Running Jump Shot,JUMP_SHOTS,0.75,2024
-202722,Running Jump Shot,3PT Field Goal,2,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2024
-202722,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2024
-202722,Step Back Jump Shot,3PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.5,2024
-202722,Putback Layup,2PT Field Goal,1,0,Tip Layup Shot,LAYUPS,0.0,2024
-202722,Turnaround Jump Shot,3PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Davis Bertans,202722,Specialty Dunk,2,4,4,Cutting Dunk Shot,DUNKS,,2017
+Davis Bertans,202722,Standard Layup,2,2,2,Cutting Layup Shot,LAYUPS,,2017
+Davis Bertans,202722,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2017
+Davis Bertans,202722,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Davis Bertans,202722,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2017
+Davis Bertans,202722,Driving Layup,2,4,2,Driving Layup Shot,LAYUPS,,2017
+Davis Bertans,202722,Standard Dunk,2,4,3,Dunk Shot,DUNKS,,2017
+Davis Bertans,202722,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Davis Bertans,202722,Hook Shot,2,3,0,Hook Shot,POST_MOVES,,2017
+Davis Bertans,202722,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2017
+Davis Bertans,202722,Jump Shot,2,172,66,Jump Shot,JUMP_SHOTS,,2017
+Davis Bertans,202722,Jump Shot,3,3,1,Jump Shot,JUMP_SHOTS,,2017
+Davis Bertans,202722,Standard Layup,2,7,2,Layup Shot,LAYUPS,,2017
+Davis Bertans,202722,Pullup Jump Shot,2,9,5,Pullup Jump shot,JUMP_SHOTS,,2017
+Davis Bertans,202722,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2017
+Davis Bertans,202722,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2017
+Davis Bertans,202722,Reverse Dunk,2,2,2,Reverse Dunk Shot,DUNKS,,2017
+Davis Bertans,202722,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2017
+Davis Bertans,202722,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2017
+Davis Bertans,202722,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2017
+Davis Bertans,202722,Step Back Jump Shot,2,3,1,Step Back Jump shot,JUMP_SHOTS,,2017
+Davis Bertans,202722,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2017
+Davis Bertans,202722,Turnaround Jump Shot,2,3,2,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Davis Bertans,202722,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2018
+Davis Bertans,202722,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2018
+Davis Bertans,202722,Finger Roll,2,4,4,Cutting Finger Roll Layup Shot,LAYUPS,,2018
+Davis Bertans,202722,Standard Layup,2,8,7,Cutting Layup Shot,LAYUPS,,2018
+Davis Bertans,202722,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2018
+Davis Bertans,202722,Finger Roll,2,5,4,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Davis Bertans,202722,Floating Jump Shot,2,4,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Davis Bertans,202722,Floating Jump Shot,2,4,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Davis Bertans,202722,Driving Layup,2,10,5,Driving Layup Shot,LAYUPS,,2018
+Davis Bertans,202722,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2018
+Davis Bertans,202722,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2018
+Davis Bertans,202722,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2018
+Davis Bertans,202722,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2018
+Davis Bertans,202722,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2018
+Davis Bertans,202722,Jump Shot,2,242,95,Jump Shot,JUMP_SHOTS,,2018
+Davis Bertans,202722,Standard Layup,2,9,3,Layup Shot,LAYUPS,,2018
+Davis Bertans,202722,Pullup Jump Shot,2,38,8,Pullup Jump shot,JUMP_SHOTS,,2018
+Davis Bertans,202722,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2018
+Davis Bertans,202722,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2018
+Davis Bertans,202722,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2018
+Davis Bertans,202722,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2018
+Davis Bertans,202722,Running Jump Shot,2,6,4,Running Jump Shot,JUMP_SHOTS,,2018
+Davis Bertans,202722,Standard Layup,2,3,3,Running Layup Shot,LAYUPS,,2018
+Davis Bertans,202722,Running Jump Shot,2,2,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2018
+Davis Bertans,202722,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2018
+Davis Bertans,202722,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2018
+Davis Bertans,202722,Putback Layup,2,3,3,Tip Layup Shot,LAYUPS,,2018
+Davis Bertans,202722,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2018
+Davis Bertans,202722,Turnaround Jump Shot,2,5,3,Turnaround Jump Shot,JUMP_SHOTS,,2018
+Davis Bertans,202722,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2019
+Davis Bertans,202722,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2019
+Davis Bertans,202722,Specialty Dunk,2,4,3,Cutting Dunk Shot,DUNKS,,2019
+Davis Bertans,202722,Standard Layup,2,11,8,Cutting Layup Shot,LAYUPS,,2019
+Davis Bertans,202722,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2019
+Davis Bertans,202722,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Davis Bertans,202722,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Davis Bertans,202722,Floating Jump Shot,2,11,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Davis Bertans,202722,Driving Hook Shot,2,2,0,Driving Hook Shot,POST_MOVES,,2019
+Davis Bertans,202722,Driving Layup,2,6,2,Driving Layup Shot,LAYUPS,,2019
+Davis Bertans,202722,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2019
+Davis Bertans,202722,Fadeaway Jump Shot,2,3,0,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+Davis Bertans,202722,Floating Jump Shot,2,7,5,Floating Jump shot,FLOATING_SHOTS,,2019
+Davis Bertans,202722,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2019
+Davis Bertans,202722,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2019
+Davis Bertans,202722,Jump Shot,2,313,134,Jump Shot,JUMP_SHOTS,,2019
+Davis Bertans,202722,Standard Layup,2,5,2,Layup Shot,LAYUPS,,2019
+Davis Bertans,202722,Pullup Jump Shot,2,47,21,Pullup Jump shot,JUMP_SHOTS,,2019
+Davis Bertans,202722,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2019
+Davis Bertans,202722,Reverse Layup,2,3,0,Reverse Layup Shot,LAYUPS,,2019
+Davis Bertans,202722,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2019
+Davis Bertans,202722,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2019
+Davis Bertans,202722,Running Jump Shot,2,4,3,Running Jump Shot,JUMP_SHOTS,,2019
+Davis Bertans,202722,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2019
+Davis Bertans,202722,Running Jump Shot,2,2,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2019
+Davis Bertans,202722,Step Back Jump Shot,2,12,7,Step Back Jump shot,JUMP_SHOTS,,2019
+Davis Bertans,202722,Putback Layup,2,4,2,Tip Layup Shot,LAYUPS,,2019
+Davis Bertans,202722,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2019
+Davis Bertans,202722,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2019
+Davis Bertans,202722,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2019
+Davis Bertans,202722,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2020
+Davis Bertans,202722,Specialty Dunk,2,8,8,Cutting Dunk Shot,DUNKS,,2020
+Davis Bertans,202722,Finger Roll,2,1,0,Cutting Finger Roll Layup Shot,LAYUPS,,2020
+Davis Bertans,202722,Standard Layup,2,8,5,Cutting Layup Shot,LAYUPS,,2020
+Davis Bertans,202722,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2020
+Davis Bertans,202722,Finger Roll,2,9,6,Driving Finger Roll Layup Shot,LAYUPS,,2020
+Davis Bertans,202722,Floating Jump Shot,2,2,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2020
+Davis Bertans,202722,Floating Jump Shot,2,5,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Davis Bertans,202722,Driving Layup,2,21,7,Driving Layup Shot,LAYUPS,,2020
+Davis Bertans,202722,Driving Layup,2,4,2,Driving Reverse Layup Shot,LAYUPS,,2020
+Davis Bertans,202722,Fadeaway Jump Shot,2,6,3,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+Davis Bertans,202722,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2020
+Davis Bertans,202722,Floating Jump Shot,2,6,4,Floating Jump shot,FLOATING_SHOTS,,2020
+Davis Bertans,202722,Hook Shot,2,2,2,Hook Shot,POST_MOVES,,2020
+Davis Bertans,202722,Jump Shot,2,3,2,Jump Bank Shot,JUMP_SHOTS,,2020
+Davis Bertans,202722,Jump Shot,2,402,165,Jump Shot,JUMP_SHOTS,,2020
+Davis Bertans,202722,Standard Layup,2,7,4,Layup Shot,LAYUPS,,2020
+Davis Bertans,202722,Pullup Jump Shot,2,47,22,Pullup Jump shot,JUMP_SHOTS,,2020
+Davis Bertans,202722,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2020
+Davis Bertans,202722,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2020
+Davis Bertans,202722,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2020
+Davis Bertans,202722,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2020
+Davis Bertans,202722,Standard Dunk,2,2,1,Running Dunk Shot,DUNKS,,2020
+Davis Bertans,202722,Running Jump Shot,2,22,7,Running Jump Shot,JUMP_SHOTS,,2020
+Davis Bertans,202722,Standard Layup,2,4,2,Running Layup Shot,LAYUPS,,2020
+Davis Bertans,202722,Running Jump Shot,2,14,9,Running Pull-Up Jump Shot,JUMP_SHOTS,,2020
+Davis Bertans,202722,Step Back Jump Shot,2,8,3,Step Back Jump shot,JUMP_SHOTS,,2020
+Davis Bertans,202722,Putback Layup,2,7,2,Tip Layup Shot,LAYUPS,,2020
+Davis Bertans,202722,Turnaround Jump Shot,2,3,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2020
+Davis Bertans,202722,Turnaround Jump Shot,2,3,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2020
+Davis Bertans,202722,Turnaround Jump Shot,2,6,2,Turnaround Jump Shot,JUMP_SHOTS,,2020
+Davis Bertans,202722,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2021
+Davis Bertans,202722,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2021
+Davis Bertans,202722,Standard Layup,2,9,6,Cutting Layup Shot,LAYUPS,,2021
+Davis Bertans,202722,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2021
+Davis Bertans,202722,Finger Roll,2,2,0,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Davis Bertans,202722,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Davis Bertans,202722,Driving Layup,2,5,2,Driving Layup Shot,LAYUPS,,2021
+Davis Bertans,202722,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2021
+Davis Bertans,202722,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2021
+Davis Bertans,202722,Jump Shot,2,393,157,Jump Shot,JUMP_SHOTS,,2021
+Davis Bertans,202722,Standard Layup,2,5,2,Layup Shot,LAYUPS,,2021
+Davis Bertans,202722,Pullup Jump Shot,2,29,5,Pullup Jump shot,JUMP_SHOTS,,2021
+Davis Bertans,202722,Putback Dunk,2,2,1,Putback Dunk Shot,DUNKS,,2021
+Davis Bertans,202722,Running Jump Shot,2,7,5,Running Jump Shot,JUMP_SHOTS,,2021
+Davis Bertans,202722,Standard Layup,2,4,3,Running Layup Shot,LAYUPS,,2021
+Davis Bertans,202722,Running Jump Shot,2,5,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2021
+Davis Bertans,202722,Reverse Layup,2,2,1,Running Reverse Layup Shot,LAYUPS,,2021
+Davis Bertans,202722,Step Back Jump Shot,2,4,1,Step Back Jump shot,JUMP_SHOTS,,2021
+Davis Bertans,202722,Putback Layup,2,2,2,Tip Layup Shot,LAYUPS,,2021
+Davis Bertans,202722,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2021
+Davis Bertans,202722,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2021
+Davis Bertans,202722,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2022
+Davis Bertans,202722,Specialty Dunk,2,3,3,Cutting Dunk Shot,DUNKS,,2022
+Davis Bertans,202722,Standard Layup,2,7,4,Cutting Layup Shot,LAYUPS,,2022
+Davis Bertans,202722,Driving Dunk,2,2,1,Driving Dunk Shot,DUNKS,,2022
+Davis Bertans,202722,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Davis Bertans,202722,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Davis Bertans,202722,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Davis Bertans,202722,Driving Layup,2,4,0,Driving Layup Shot,LAYUPS,,2022
+Davis Bertans,202722,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2022
+Davis Bertans,202722,Fadeaway Jump Shot,2,6,2,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Davis Bertans,202722,Floating Jump Shot,2,3,2,Floating Jump shot,FLOATING_SHOTS,,2022
+Davis Bertans,202722,Jump Shot,2,190,63,Jump Shot,JUMP_SHOTS,,2022
+Davis Bertans,202722,Standard Layup,2,4,1,Layup Shot,LAYUPS,,2022
+Davis Bertans,202722,Pullup Jump Shot,2,16,7,Pullup Jump shot,JUMP_SHOTS,,2022
+Davis Bertans,202722,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2022
+Davis Bertans,202722,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2022
+Davis Bertans,202722,Running Jump Shot,2,15,5,Running Jump Shot,JUMP_SHOTS,,2022
+Davis Bertans,202722,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2022
+Davis Bertans,202722,Running Jump Shot,2,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
+Davis Bertans,202722,Step Back Jump Shot,2,5,2,Step Back Jump shot,JUMP_SHOTS,,2022
+Davis Bertans,202722,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2022
+Davis Bertans,202722,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2022
+Davis Bertans,202722,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2023
+Davis Bertans,202722,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2023
+Davis Bertans,202722,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2023
+Davis Bertans,202722,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2023
+Davis Bertans,202722,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2023
+Davis Bertans,202722,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2023
+Davis Bertans,202722,Jump Shot,2,121,51,Jump Shot,JUMP_SHOTS,,2023
+Davis Bertans,202722,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2023
+Davis Bertans,202722,Standard Layup,2,3,1,Layup Shot,LAYUPS,,2023
+Davis Bertans,202722,Pullup Jump Shot,2,4,2,Pullup Jump shot,JUMP_SHOTS,,2023
+Davis Bertans,202722,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2023
+Davis Bertans,202722,Reverse Dunk,2,1,0,Reverse Dunk Shot,DUNKS,,2023
+Davis Bertans,202722,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2023
+Davis Bertans,202722,Running Jump Shot,2,11,2,Running Jump Shot,JUMP_SHOTS,,2023
+Davis Bertans,202722,Standard Layup,2,3,3,Running Layup Shot,LAYUPS,,2023
+Davis Bertans,202722,Running Jump Shot,2,2,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2023
+Davis Bertans,202722,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2023
+Davis Bertans,202722,Step Back Jump Shot,2,4,3,Step Back Jump shot,JUMP_SHOTS,,2023
+Davis Bertans,202722,Finger Roll,2,1,0,Cutting Finger Roll Layup Shot,LAYUPS,,2024
+Davis Bertans,202722,Standard Layup,2,1,0,Cutting Layup Shot,LAYUPS,,2024
+Davis Bertans,202722,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Davis Bertans,202722,Driving Layup,2,5,2,Driving Layup Shot,LAYUPS,,2024
+Davis Bertans,202722,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2024
+Davis Bertans,202722,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2024
+Davis Bertans,202722,Fadeaway Jump Shot,2,4,3,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Davis Bertans,202722,Fadeaway Jump Shot,3,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Davis Bertans,202722,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2024
+Davis Bertans,202722,Jump Shot,3,2,1,Jump Bank Shot,JUMP_SHOTS,,2024
+Davis Bertans,202722,Jump Shot,2,7,1,Jump Shot,JUMP_SHOTS,,2024
+Davis Bertans,202722,Jump Shot,3,153,60,Jump Shot,JUMP_SHOTS,,2024
+Davis Bertans,202722,Standard Layup,2,2,1,Layup Shot,LAYUPS,,2024
+Davis Bertans,202722,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2024
+Davis Bertans,202722,Pullup Jump Shot,3,18,4,Pullup Jump shot,JUMP_SHOTS,,2024
+Davis Bertans,202722,Reverse Dunk,2,2,2,Reverse Dunk Shot,DUNKS,,2024
+Davis Bertans,202722,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2024
+Davis Bertans,202722,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2024
+Davis Bertans,202722,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2024
+Davis Bertans,202722,Running Jump Shot,3,17,9,Running Jump Shot,JUMP_SHOTS,,2024
+Davis Bertans,202722,Running Jump Shot,3,2,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Davis Bertans,202722,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2024
+Davis Bertans,202722,Step Back Jump Shot,3,5,2,Step Back Jump shot,JUMP_SHOTS,,2024
+Davis Bertans,202722,Putback Layup,2,1,0,Tip Layup Shot,LAYUPS,,2024
+Davis Bertans,202722,Turnaround Jump Shot,3,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2024

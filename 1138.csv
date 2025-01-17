@@ -1,10 +1,18 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1138,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1997
-1138,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,1997
-1138,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,1999
-1138,Jump Shot,3PT Field Goal,4,0,Jump Shot,JUMP_SHOTS,0.0,1999
-1138,Standard Layup,2PT Field Goal,3,2,Layup Shot,LAYUPS,0.6666666666666666,1999
-1138,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2000
-1138,Jump Shot,2PT Field Goal,5,1,Jump Shot,JUMP_SHOTS,0.2,2000
-1138,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2000
-1138,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Michael Hawkins,1138,Driving Layup,2,12,11,Driving Layup Shot,LAYUPS,,1997
+Michael Hawkins,1138,Jump Shot,2,39,13,Jump Shot,JUMP_SHOTS,,1997
+Michael Hawkins,1138,Jump Shot,3,2,1,Jump Shot,JUMP_SHOTS,,1997
+Michael Hawkins,1138,Standard Layup,2,14,3,Layup Shot,LAYUPS,,1997
+Michael Hawkins,1138,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,1997
+Michael Hawkins,1138,Driving Layup,2,4,3,Driving Layup Shot,LAYUPS,,1999
+Michael Hawkins,1138,Jump Shot,2,12,3,Jump Shot,JUMP_SHOTS,,1999
+Michael Hawkins,1138,Jump Shot,3,19,5,Jump Shot,JUMP_SHOTS,,1999
+Michael Hawkins,1138,Standard Layup,2,4,3,Layup Shot,LAYUPS,,1999
+Michael Hawkins,1138,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,1999
+Michael Hawkins,1138,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2000
+Michael Hawkins,1138,Jump Shot,2,6,2,Jump Shot,JUMP_SHOTS,,2000
+Michael Hawkins,1138,Jump Shot,3,5,1,Jump Shot,JUMP_SHOTS,,2000
+Michael Hawkins,1138,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2000
+Michael Hawkins,1138,Jump Shot,2,4,0,Jump Shot,JUMP_SHOTS,,2001
+Michael Hawkins,1138,Jump Shot,3,4,2,Jump Shot,JUMP_SHOTS,,2001
+Michael Hawkins,1138,Standard Layup,2,1,1,Layup Shot,LAYUPS,,2001

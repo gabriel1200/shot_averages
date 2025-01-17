@@ -1,11 +1,27 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1630285,Driving Hook Shot,2PT Field Goal,1,1,Driving Bank Hook Shot,POST_MOVES,1.0,2024
-1630285,Finger Roll,2PT Field Goal,5,2,Driving Finger Roll Layup Shot,LAYUPS,0.4,2024
-1630285,Floating Jump Shot,2PT Field Goal,2,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2024
-1630285,Driving Hook Shot,2PT Field Goal,4,0,Driving Hook Shot,POST_MOVES,0.0,2024
-1630285,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2024
-1630285,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2024
-1630285,Jump Shot,3PT Field Goal,3,2,Jump Shot,JUMP_SHOTS,1.0,2024
-1630285,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2024
-1630285,Pullup Jump Shot,3PT Field Goal,3,1,Pullup Jump shot,JUMP_SHOTS,0.5,2024
-1630285,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Zavier Simpson,1630285,Driving Hook Shot,2,1,0,Driving Bank Hook Shot,POST_MOVES,,2022
+Zavier Simpson,1630285,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Zavier Simpson,1630285,Floating Jump Shot,2,2,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Zavier Simpson,1630285,Driving Hook Shot,2,14,7,Driving Hook Shot,POST_MOVES,,2022
+Zavier Simpson,1630285,Driving Layup,2,15,6,Driving Layup Shot,LAYUPS,,2022
+Zavier Simpson,1630285,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2022
+Zavier Simpson,1630285,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2022
+Zavier Simpson,1630285,Jump Shot,2,5,1,Jump Shot,JUMP_SHOTS,,2022
+Zavier Simpson,1630285,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2022
+Zavier Simpson,1630285,Pullup Jump Shot,2,3,0,Pullup Jump shot,JUMP_SHOTS,,2022
+Zavier Simpson,1630285,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2022
+Zavier Simpson,1630285,Standard Layup,2,2,0,Running Layup Shot,LAYUPS,,2022
+Zavier Simpson,1630285,Step Back Jump Shot,2,2,0,Step Back Jump shot,JUMP_SHOTS,,2022
+Zavier Simpson,1630285,Driving Hook Shot,2,4,3,Driving Bank Hook Shot,POST_MOVES,,2024
+Zavier Simpson,1630285,Finger Roll,2,12,5,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Zavier Simpson,1630285,Floating Jump Shot,2,3,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Zavier Simpson,1630285,Driving Hook Shot,2,7,0,Driving Hook Shot,POST_MOVES,,2024
+Zavier Simpson,1630285,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2024
+Zavier Simpson,1630285,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2024
+Zavier Simpson,1630285,Jump Shot,3,12,4,Jump Shot,JUMP_SHOTS,,2024
+Zavier Simpson,1630285,Pullup Jump Shot,2,4,2,Pullup Jump shot,JUMP_SHOTS,,2024
+Zavier Simpson,1630285,Pullup Jump Shot,3,5,1,Pullup Jump shot,JUMP_SHOTS,,2024
+Zavier Simpson,1630285,Standard Dunk,2,1,0,Running Dunk Shot,DUNKS,,2024
+Zavier Simpson,1630285,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2024
+Zavier Simpson,1630285,Step Back Jump Shot,2,2,0,Step Back Jump shot,JUMP_SHOTS,,2024
+Zavier Simpson,1630285,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2024

@@ -1,49 +1,112 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1630192,Standard Layup,2PT Field Goal,4,1,Cutting Layup Shot,LAYUPS,0.25,2022
-1630192,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2022
-1630192,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2022
-1630192,Standard Dunk,2PT Field Goal,1,0,Dunk Shot,DUNKS,0.0,2022
-1630192,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2022
-1630192,Jump Shot,3PT Field Goal,9,6,Jump Shot,JUMP_SHOTS,1.0,2022
-1630192,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2022
-1630192,Putback Dunk,2PT Field Goal,1,1,Putback Dunk Shot,DUNKS,1.0,2022
-1630192,Putback Layup,2PT Field Goal,1,0,Putback Layup Shot,LAYUPS,0.0,2022
-1630192,Standard Dunk,2PT Field Goal,2,2,Running Dunk Shot,DUNKS,1.0,2022
-1630192,Putback Layup,2PT Field Goal,2,2,Tip Layup Shot,LAYUPS,1.0,2022
-1630192,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2023
-1630192,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2023
-1630192,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2023
-1630192,Alley Oop Layup,2PT Field Goal,1,0,Alley Oop Layup shot,LAYUPS,0.0,2024
-1630192,Specialty Dunk,2PT Field Goal,3,2,Cutting Dunk Shot,DUNKS,0.6666666666666666,2024
-1630192,Finger Roll,2PT Field Goal,1,1,Cutting Finger Roll Layup Shot,LAYUPS,1.0,2024
-1630192,Standard Layup,2PT Field Goal,14,10,Cutting Layup Shot,LAYUPS,0.7142857142857143,2024
-1630192,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2024
-1630192,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2024
-1630192,Driving Layup,2PT Field Goal,8,1,Driving Layup Shot,LAYUPS,0.125,2024
-1630192,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2024
-1630192,Standard Dunk,2PT Field Goal,4,4,Dunk Shot,DUNKS,1.0,2024
-1630192,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2024
-1630192,Jump Shot,3PT Field Goal,17,5,Jump Shot,JUMP_SHOTS,0.4411764705882353,2024
-1630192,Standard Layup,2PT Field Goal,14,8,Layup Shot,LAYUPS,0.5714285714285714,2024
-1630192,Putback Dunk,2PT Field Goal,2,2,Putback Dunk Shot,DUNKS,1.0,2024
-1630192,Putback Layup,2PT Field Goal,8,5,Putback Layup Shot,LAYUPS,0.625,2024
-1630192,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2024
-1630192,Standard Dunk,2PT Field Goal,3,3,Running Dunk Shot,DUNKS,1.0,2024
-1630192,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2024
-1630192,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2024
-1630192,Specialty Dunk,2PT Field Goal,3,3,Tip Dunk Shot,DUNKS,1.0,2024
-1630192,Putback Layup,2PT Field Goal,13,3,Tip Layup Shot,LAYUPS,0.2307692307692307,2024
-1630192,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2024
-1630192,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2024
-1630192,Specialty Dunk,2PT Field Goal,2,2,Cutting Dunk Shot,DUNKS,1.0,2025
-1630192,Standard Layup,2PT Field Goal,2,1,Cutting Layup Shot,LAYUPS,0.5,2025
-1630192,Driving Dunk,2PT Field Goal,1,0,Driving Dunk Shot,DUNKS,0.0,2025
-1630192,Driving Layup,2PT Field Goal,3,0,Driving Layup Shot,LAYUPS,0.0,2025
-1630192,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2025
-1630192,Jump Shot,3PT Field Goal,4,0,Jump Shot,JUMP_SHOTS,0.0,2025
-1630192,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2025
-1630192,Alley Oop Dunk,2PT Field Goal,1,1,Running Alley Oop Dunk Shot,DUNKS,1.0,2025
-1630192,Standard Dunk,2PT Field Goal,2,1,Running Dunk Shot,DUNKS,0.5,2025
-1630192,Running Jump Shot,3PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2025
-1630192,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2025
-1630192,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Zeke Nnaji,1630192,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2021
+Zeke Nnaji,1630192,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2021
+Zeke Nnaji,1630192,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2021
+Zeke Nnaji,1630192,Finger Roll,2,2,2,Cutting Finger Roll Layup Shot,LAYUPS,,2021
+Zeke Nnaji,1630192,Standard Layup,2,4,3,Cutting Layup Shot,LAYUPS,,2021
+Zeke Nnaji,1630192,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Zeke Nnaji,1630192,Driving Layup,2,3,0,Driving Layup Shot,LAYUPS,,2021
+Zeke Nnaji,1630192,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2021
+Zeke Nnaji,1630192,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2021
+Zeke Nnaji,1630192,Jump Shot,2,62,23,Jump Shot,JUMP_SHOTS,,2021
+Zeke Nnaji,1630192,Standard Layup,2,8,2,Layup Shot,LAYUPS,,2021
+Zeke Nnaji,1630192,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2021
+Zeke Nnaji,1630192,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2021
+Zeke Nnaji,1630192,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2021
+Zeke Nnaji,1630192,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2021
+Zeke Nnaji,1630192,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2021
+Zeke Nnaji,1630192,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2021
+Zeke Nnaji,1630192,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2021
+Zeke Nnaji,1630192,Step Back Jump Shot,2,3,2,Step Back Jump shot,JUMP_SHOTS,,2021
+Zeke Nnaji,1630192,Putback Layup,2,4,4,Tip Layup Shot,LAYUPS,,2021
+Zeke Nnaji,1630192,Turnaround Jump Shot,2,3,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2021
+Zeke Nnaji,1630192,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2021
+Zeke Nnaji,1630192,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2022
+Zeke Nnaji,1630192,Specialty Dunk,2,5,3,Cutting Dunk Shot,DUNKS,,2022
+Zeke Nnaji,1630192,Standard Layup,2,12,4,Cutting Layup Shot,LAYUPS,,2022
+Zeke Nnaji,1630192,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2022
+Zeke Nnaji,1630192,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2022
+Zeke Nnaji,1630192,Driving Layup,2,9,1,Driving Layup Shot,LAYUPS,,2022
+Zeke Nnaji,1630192,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2022
+Zeke Nnaji,1630192,Standard Dunk,2,6,5,Dunk Shot,DUNKS,,2022
+Zeke Nnaji,1630192,Jump Shot,2,78,35,Jump Shot,JUMP_SHOTS,,2022
+Zeke Nnaji,1630192,Jump Shot,3,13,6,Jump Shot,JUMP_SHOTS,,2022
+Zeke Nnaji,1630192,Standard Layup,2,12,8,Layup Shot,LAYUPS,,2022
+Zeke Nnaji,1630192,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2022
+Zeke Nnaji,1630192,Putback Layup,2,11,6,Putback Layup Shot,LAYUPS,,2022
+Zeke Nnaji,1630192,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2022
+Zeke Nnaji,1630192,Standard Dunk,2,6,6,Running Dunk Shot,DUNKS,,2022
+Zeke Nnaji,1630192,Standard Layup,2,4,2,Running Layup Shot,LAYUPS,,2022
+Zeke Nnaji,1630192,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2022
+Zeke Nnaji,1630192,Specialty Dunk,2,3,3,Tip Dunk Shot,DUNKS,,2022
+Zeke Nnaji,1630192,Putback Layup,2,12,7,Tip Layup Shot,LAYUPS,,2022
+Zeke Nnaji,1630192,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2022
+Zeke Nnaji,1630192,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2022
+Zeke Nnaji,1630192,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2022
+Zeke Nnaji,1630192,Alley Oop Dunk,2,6,6,Alley Oop Dunk Shot,DUNKS,,2023
+Zeke Nnaji,1630192,Specialty Dunk,2,11,11,Cutting Dunk Shot,DUNKS,,2023
+Zeke Nnaji,1630192,Standard Layup,2,18,14,Cutting Layup Shot,LAYUPS,,2023
+Zeke Nnaji,1630192,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2023
+Zeke Nnaji,1630192,Driving Layup,2,3,1,Driving Layup Shot,LAYUPS,,2023
+Zeke Nnaji,1630192,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2023
+Zeke Nnaji,1630192,Standard Dunk,2,6,6,Dunk Shot,DUNKS,,2023
+Zeke Nnaji,1630192,Finger Roll,2,2,1,Finger Roll Layup Shot,LAYUPS,,2023
+Zeke Nnaji,1630192,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2023
+Zeke Nnaji,1630192,Jump Shot,2,64,18,Jump Shot,JUMP_SHOTS,,2023
+Zeke Nnaji,1630192,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2023
+Zeke Nnaji,1630192,Standard Layup,2,23,14,Layup Shot,LAYUPS,,2023
+Zeke Nnaji,1630192,Putback Dunk,2,3,3,Putback Dunk Shot,DUNKS,,2023
+Zeke Nnaji,1630192,Putback Layup,2,10,5,Putback Layup Shot,LAYUPS,,2023
+Zeke Nnaji,1630192,Reverse Layup,2,6,5,Reverse Layup Shot,LAYUPS,,2023
+Zeke Nnaji,1630192,Alley Oop Dunk,2,2,1,Running Alley Oop Dunk Shot,DUNKS,,2023
+Zeke Nnaji,1630192,Alley Oop Layup,2,1,1,Running Alley Oop Layup Shot,LAYUPS,,2023
+Zeke Nnaji,1630192,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2023
+Zeke Nnaji,1630192,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2023
+Zeke Nnaji,1630192,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2023
+Zeke Nnaji,1630192,Standard Layup,2,6,6,Running Layup Shot,LAYUPS,,2023
+Zeke Nnaji,1630192,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2023
+Zeke Nnaji,1630192,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2023
+Zeke Nnaji,1630192,Putback Layup,2,20,12,Tip Layup Shot,LAYUPS,,2023
+Zeke Nnaji,1630192,Turnaround Jump Shot,2,1,0,Turnaround Bank shot,JUMP_SHOTS,,2023
+Zeke Nnaji,1630192,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2023
+Zeke Nnaji,1630192,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2023
+Zeke Nnaji,1630192,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2024
+Zeke Nnaji,1630192,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2024
+Zeke Nnaji,1630192,Specialty Dunk,2,5,4,Cutting Dunk Shot,DUNKS,,2024
+Zeke Nnaji,1630192,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2024
+Zeke Nnaji,1630192,Standard Layup,2,22,12,Cutting Layup Shot,LAYUPS,,2024
+Zeke Nnaji,1630192,Driving Dunk,2,2,1,Driving Dunk Shot,DUNKS,,2024
+Zeke Nnaji,1630192,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Zeke Nnaji,1630192,Floating Jump Shot,2,2,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Zeke Nnaji,1630192,Driving Layup,2,8,1,Driving Layup Shot,LAYUPS,,2024
+Zeke Nnaji,1630192,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2024
+Zeke Nnaji,1630192,Standard Dunk,2,5,4,Dunk Shot,DUNKS,,2024
+Zeke Nnaji,1630192,Jump Shot,2,3,0,Jump Shot,JUMP_SHOTS,,2024
+Zeke Nnaji,1630192,Jump Shot,3,22,6,Jump Shot,JUMP_SHOTS,,2024
+Zeke Nnaji,1630192,Standard Layup,2,16,8,Layup Shot,LAYUPS,,2024
+Zeke Nnaji,1630192,Putback Dunk,2,3,3,Putback Dunk Shot,DUNKS,,2024
+Zeke Nnaji,1630192,Putback Layup,2,15,8,Putback Layup Shot,LAYUPS,,2024
+Zeke Nnaji,1630192,Reverse Layup,2,4,2,Reverse Layup Shot,LAYUPS,,2024
+Zeke Nnaji,1630192,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2024
+Zeke Nnaji,1630192,Standard Dunk,2,6,6,Running Dunk Shot,DUNKS,,2024
+Zeke Nnaji,1630192,Standard Layup,2,2,0,Running Layup Shot,LAYUPS,,2024
+Zeke Nnaji,1630192,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2024
+Zeke Nnaji,1630192,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2024
+Zeke Nnaji,1630192,Specialty Dunk,2,4,4,Tip Dunk Shot,DUNKS,,2024
+Zeke Nnaji,1630192,Putback Layup,2,18,4,Tip Layup Shot,LAYUPS,,2024
+Zeke Nnaji,1630192,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2024
+Zeke Nnaji,1630192,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2024
+Zeke Nnaji,1630192,Specialty Dunk,2,3,2,Cutting Dunk Shot,DUNKS,,2025
+Zeke Nnaji,1630192,Standard Layup,2,3,2,Cutting Layup Shot,LAYUPS,,2025
+Zeke Nnaji,1630192,Driving Dunk,2,1,0,Driving Dunk Shot,DUNKS,,2025
+Zeke Nnaji,1630192,Driving Layup,2,4,1,Driving Layup Shot,LAYUPS,,2025
+Zeke Nnaji,1630192,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2025
+Zeke Nnaji,1630192,Jump Shot,2,1,1,Jump Shot,JUMP_SHOTS,,2025
+Zeke Nnaji,1630192,Jump Shot,3,8,0,Jump Shot,JUMP_SHOTS,,2025
+Zeke Nnaji,1630192,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2025
+Zeke Nnaji,1630192,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2025
+Zeke Nnaji,1630192,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2025
+Zeke Nnaji,1630192,Standard Dunk,2,3,2,Running Dunk Shot,DUNKS,,2025
+Zeke Nnaji,1630192,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2025
+Zeke Nnaji,1630192,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2025
+Zeke Nnaji,1630192,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2025

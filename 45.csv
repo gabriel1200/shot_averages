@@ -1,13 +1,61 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-45,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,1997
-45,Jump Shot,2PT Field Goal,13,6,Jump Shot,JUMP_SHOTS,0.4615384615384615,1997
-45,Jump Shot,3PT Field Goal,12,4,Jump Shot,JUMP_SHOTS,0.5,1997
-45,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,1997
-45,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,1997
-45,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,1998
-45,Jump Shot,2PT Field Goal,11,2,Jump Shot,JUMP_SHOTS,0.1818181818181818,1998
-45,Jump Shot,3PT Field Goal,9,1,Jump Shot,JUMP_SHOTS,0.1666666666666666,1998
-45,Standard Layup,2PT Field Goal,4,0,Layup Shot,LAYUPS,0.0,1998
-45,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2001
-45,Jump Shot,2PT Field Goal,4,1,Jump Shot,JUMP_SHOTS,0.25,2001
-45,Jump Shot,3PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+George McCloud,45,Driving Layup,2,38,25,Driving Layup Shot,LAYUPS,,1997
+George McCloud,45,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,1997
+George McCloud,45,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,1997
+George McCloud,45,Jump Shot,2,444,169,Jump Shot,JUMP_SHOTS,,1997
+George McCloud,45,Jump Shot,3,16,7,Jump Shot,JUMP_SHOTS,,1997
+George McCloud,45,Standard Layup,2,61,22,Layup Shot,LAYUPS,,1997
+George McCloud,45,Running Jump Shot,2,10,6,Running Jump Shot,JUMP_SHOTS,,1997
+George McCloud,45,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,1997
+George McCloud,45,Driving Layup,2,20,12,Driving Layup Shot,LAYUPS,,1998
+George McCloud,45,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,1998
+George McCloud,45,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,1998
+George McCloud,45,Jump Shot,2,343,125,Jump Shot,JUMP_SHOTS,,1998
+George McCloud,45,Jump Shot,3,9,1,Jump Shot,JUMP_SHOTS,,1998
+George McCloud,45,Standard Layup,2,46,27,Layup Shot,LAYUPS,,1998
+George McCloud,45,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,1998
+George McCloud,45,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,1998
+George McCloud,45,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,,1998
+George McCloud,45,Driving Layup,2,6,5,Driving Layup Shot,LAYUPS,,1999
+George McCloud,45,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,1999
+George McCloud,45,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,1999
+George McCloud,45,Jump Shot,2,273,108,Jump Shot,JUMP_SHOTS,,1999
+George McCloud,45,Standard Layup,2,35,25,Layup Shot,LAYUPS,,1999
+George McCloud,45,Running Jump Shot,2,3,1,Running Jump Shot,JUMP_SHOTS,,1999
+George McCloud,45,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,1999
+George McCloud,45,Tip Shot,2,3,0,Tip Shot,TIP_SHOTS,,1999
+George McCloud,45,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2000
+George McCloud,45,Driving Layup,2,45,25,Driving Layup Shot,LAYUPS,,2000
+George McCloud,45,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2000
+George McCloud,45,Jump Shot,2,501,190,Jump Shot,JUMP_SHOTS,,2000
+George McCloud,45,Standard Layup,2,58,33,Layup Shot,LAYUPS,,2000
+George McCloud,45,Running Jump Shot,2,29,14,Running Jump Shot,JUMP_SHOTS,,2000
+George McCloud,45,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2000
+George McCloud,45,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2000
+George McCloud,45,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2001
+George McCloud,45,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2001
+George McCloud,45,Driving Layup,2,30,17,Driving Layup Shot,LAYUPS,,2001
+George McCloud,45,Standard Dunk,2,3,2,Dunk Shot,DUNKS,,2001
+George McCloud,45,Finger Roll,2,1,0,Finger Roll Shot,LAYUPS,,2001
+George McCloud,45,Jump Shot,2,509,178,Jump Shot,JUMP_SHOTS,,2001
+George McCloud,45,Jump Shot,3,7,0,Jump Shot,JUMP_SHOTS,,2001
+George McCloud,45,Standard Layup,2,62,36,Layup Shot,LAYUPS,,2001
+George McCloud,45,Reverse Layup,2,5,2,Reverse Layup Shot,LAYUPS,,2001
+George McCloud,45,Running Jump Shot,2,24,8,Running Jump Shot,JUMP_SHOTS,,2001
+George McCloud,45,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2001
+George McCloud,45,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2001
+George McCloud,45,Tip Shot,2,5,0,Tip Shot,TIP_SHOTS,,2001
+George McCloud,45,Turnaround Jump Shot,2,4,2,Turnaround Jump Shot,JUMP_SHOTS,,2001
+George McCloud,45,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2002
+George McCloud,45,Driving Layup,2,23,11,Driving Layup Shot,LAYUPS,,2002
+George McCloud,45,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2002
+George McCloud,45,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2002
+George McCloud,45,Hook Shot,2,2,2,Jump Hook Shot,POST_MOVES,,2002
+George McCloud,45,Jump Shot,2,447,140,Jump Shot,JUMP_SHOTS,,2002
+George McCloud,45,Standard Layup,2,52,23,Layup Shot,LAYUPS,,2002
+George McCloud,45,Reverse Layup,2,13,7,Reverse Layup Shot,LAYUPS,,2002
+George McCloud,45,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2002
+George McCloud,45,Running Jump Shot,2,15,7,Running Jump Shot,JUMP_SHOTS,,2002
+George McCloud,45,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2002
+George McCloud,45,Tip Shot,2,2,0,Tip Shot,TIP_SHOTS,,2002
+George McCloud,45,Turnaround Jump Shot,2,15,9,Turnaround Jump Shot,JUMP_SHOTS,,2002

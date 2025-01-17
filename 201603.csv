@@ -1,15 +1,101 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-201603,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2016
-201603,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2016
-201603,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Jump Shot,FLOATING_SHOTS,1.0,2016
-201603,Driving Hook Shot,2PT Field Goal,1,1,Driving Hook Shot,POST_MOVES,1.0,2016
-201603,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2016
-201603,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2016
-201603,Jump Shot,2PT Field Goal,5,1,Jump Shot,JUMP_SHOTS,0.2,2016
-201603,Jump Shot,3PT Field Goal,10,5,Jump Shot,JUMP_SHOTS,0.75,2016
-201603,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2016
-201603,Pullup Jump Shot,2PT Field Goal,2,1,Pullup Jump shot,JUMP_SHOTS,0.5,2016
-201603,Standard Layup,2PT Field Goal,2,0,Running Layup Shot,LAYUPS,0.0,2016
-201603,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.0,2016
-201603,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2016
-201603,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2016
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Sonny Weems,201603,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2009
+Sonny Weems,201603,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2009
+Sonny Weems,201603,Jump Shot,2,17,4,Jump Shot,JUMP_SHOTS,,2009
+Sonny Weems,201603,Standard Layup,2,1,1,Layup Shot,LAYUPS,,2009
+Sonny Weems,201603,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2009
+Sonny Weems,201603,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2009
+Sonny Weems,201603,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2009
+Sonny Weems,201603,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2009
+Sonny Weems,201603,Alley Oop Dunk,2,12,11,Alley Oop Dunk Shot,DUNKS,,2010
+Sonny Weems,201603,Alley Oop Layup,2,4,1,Alley Oop Layup shot,LAYUPS,,2010
+Sonny Weems,201603,Driving Dunk,2,4,3,Driving Dunk Shot,DUNKS,,2010
+Sonny Weems,201603,Finger Roll,2,7,7,Driving Finger Roll Layup Shot,LAYUPS,,2010
+Sonny Weems,201603,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2010
+Sonny Weems,201603,Driving Jump Shot,2,2,2,Driving Jump shot,JUMP_SHOTS,,2010
+Sonny Weems,201603,Driving Layup,2,31,16,Driving Layup Shot,LAYUPS,,2010
+Sonny Weems,201603,Driving Dunk,2,6,5,Driving Slam Dunk Shot,DUNKS,,2010
+Sonny Weems,201603,Standard Dunk,2,9,7,Dunk Shot,DUNKS,,2010
+Sonny Weems,201603,Fadeaway Jump Shot,2,5,4,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+Sonny Weems,201603,Floating Jump Shot,2,4,4,Floating Jump shot,FLOATING_SHOTS,,2010
+Sonny Weems,201603,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2010
+Sonny Weems,201603,Jump Shot,2,7,3,Jump Bank Shot,JUMP_SHOTS,,2010
+Sonny Weems,201603,Hook Shot,2,4,4,Jump Hook Shot,POST_MOVES,,2010
+Sonny Weems,201603,Jump Shot,2,221,89,Jump Shot,JUMP_SHOTS,,2010
+Sonny Weems,201603,Standard Layup,2,29,13,Layup Shot,LAYUPS,,2010
+Sonny Weems,201603,Pullup Jump Shot,2,1,0,Pullup Bank shot,JUMP_SHOTS,,2010
+Sonny Weems,201603,Pullup Jump Shot,2,38,22,Pullup Jump shot,JUMP_SHOTS,,2010
+Sonny Weems,201603,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2010
+Sonny Weems,201603,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2010
+Sonny Weems,201603,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2010
+Sonny Weems,201603,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2010
+Sonny Weems,201603,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2010
+Sonny Weems,201603,Finger Roll,2,1,0,Running Finger Roll Layup Shot,LAYUPS,,2010
+Sonny Weems,201603,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2010
+Sonny Weems,201603,Running Jump Shot,2,20,6,Running Jump Shot,JUMP_SHOTS,,2010
+Sonny Weems,201603,Standard Layup,2,4,3,Running Layup Shot,LAYUPS,,2010
+Sonny Weems,201603,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2010
+Sonny Weems,201603,Standard Dunk,2,7,7,Running Slam Dunk Shot,DUNKS,,2010
+Sonny Weems,201603,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2010
+Sonny Weems,201603,Step Back Jump Shot,2,2,2,Step Back Jump shot,JUMP_SHOTS,,2010
+Sonny Weems,201603,Tip Shot,2,9,4,Tip Shot,TIP_SHOTS,,2010
+Sonny Weems,201603,Turnaround Hook Shot,2,1,0,Turnaround Bank Hook Shot,POST_MOVES,,2010
+Sonny Weems,201603,Turnaround Jump Shot,2,6,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2010
+Sonny Weems,201603,Turnaround Hook Shot,2,4,4,Turnaround Hook Shot,POST_MOVES,,2010
+Sonny Weems,201603,Turnaround Jump Shot,2,6,3,Turnaround Jump Shot,JUMP_SHOTS,,2010
+Sonny Weems,201603,Alley Oop Dunk,2,5,5,Alley Oop Dunk Shot,DUNKS,,2011
+Sonny Weems,201603,Alley Oop Layup,2,4,2,Alley Oop Layup shot,LAYUPS,,2011
+Sonny Weems,201603,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2011
+Sonny Weems,201603,Finger Roll,2,4,3,Driving Finger Roll Layup Shot,LAYUPS,,2011
+Sonny Weems,201603,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2011
+Sonny Weems,201603,Driving Jump Shot,2,3,0,Driving Jump shot,JUMP_SHOTS,,2011
+Sonny Weems,201603,Driving Layup,2,35,18,Driving Layup Shot,LAYUPS,,2011
+Sonny Weems,201603,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2011
+Sonny Weems,201603,Driving Dunk,2,14,14,Driving Slam Dunk Shot,DUNKS,,2011
+Sonny Weems,201603,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2011
+Sonny Weems,201603,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2011
+Sonny Weems,201603,Fadeaway Jump Shot,2,10,6,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Sonny Weems,201603,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2011
+Sonny Weems,201603,Floating Jump Shot,2,10,10,Floating Jump shot,FLOATING_SHOTS,,2011
+Sonny Weems,201603,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2011
+Sonny Weems,201603,Hook Shot,2,2,1,Jump Hook Shot,POST_MOVES,,2011
+Sonny Weems,201603,Jump Shot,2,275,87,Jump Shot,JUMP_SHOTS,,2011
+Sonny Weems,201603,Standard Layup,2,39,20,Layup Shot,LAYUPS,,2011
+Sonny Weems,201603,Pullup Jump Shot,2,1,0,Pullup Bank shot,JUMP_SHOTS,,2011
+Sonny Weems,201603,Pullup Jump Shot,2,43,24,Pullup Jump shot,JUMP_SHOTS,,2011
+Sonny Weems,201603,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2011
+Sonny Weems,201603,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2011
+Sonny Weems,201603,Running Jump Shot,2,7,6,Running Bank shot,JUMP_SHOTS,,2011
+Sonny Weems,201603,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2011
+Sonny Weems,201603,Running Hook Shot,2,3,2,Running Hook Shot,POST_MOVES,,2011
+Sonny Weems,201603,Running Jump Shot,2,18,6,Running Jump Shot,JUMP_SHOTS,,2011
+Sonny Weems,201603,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2011
+Sonny Weems,201603,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2011
+Sonny Weems,201603,Standard Dunk,2,3,2,Running Slam Dunk Shot,DUNKS,,2011
+Sonny Weems,201603,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2011
+Sonny Weems,201603,Tip Shot,2,5,3,Tip Shot,TIP_SHOTS,,2011
+Sonny Weems,201603,Turnaround Jump Shot,2,2,2,Turnaround Bank shot,JUMP_SHOTS,,2011
+Sonny Weems,201603,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2011
+Sonny Weems,201603,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2011
+Sonny Weems,201603,Turnaround Jump Shot,2,6,2,Turnaround Jump Shot,JUMP_SHOTS,,2011
+Sonny Weems,201603,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2016
+Sonny Weems,201603,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2016
+Sonny Weems,201603,Standard Layup,2,6,2,Cutting Layup Shot,LAYUPS,,2016
+Sonny Weems,201603,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2016
+Sonny Weems,201603,Floating Jump Shot,2,2,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Sonny Weems,201603,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2016
+Sonny Weems,201603,Driving Layup,2,5,3,Driving Layup Shot,LAYUPS,,2016
+Sonny Weems,201603,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2016
+Sonny Weems,201603,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Sonny Weems,201603,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2016
+Sonny Weems,201603,Jump Shot,2,52,16,Jump Shot,JUMP_SHOTS,,2016
+Sonny Weems,201603,Jump Shot,3,12,5,Jump Shot,JUMP_SHOTS,,2016
+Sonny Weems,201603,Standard Layup,2,6,1,Layup Shot,LAYUPS,,2016
+Sonny Weems,201603,Pullup Jump Shot,2,6,2,Pullup Jump shot,JUMP_SHOTS,,2016
+Sonny Weems,201603,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2016
+Sonny Weems,201603,Alley Oop Layup,2,1,1,Running Alley Oop Layup Shot,LAYUPS,,2016
+Sonny Weems,201603,Standard Layup,2,3,0,Running Layup Shot,LAYUPS,,2016
+Sonny Weems,201603,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2016
+Sonny Weems,201603,Step Back Jump Shot,2,4,3,Step Back Jump shot,JUMP_SHOTS,,2016
+Sonny Weems,201603,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2016
+Sonny Weems,201603,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2016

@@ -1,28 +1,118 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-202336,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2011
-202336,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2012
-202336,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2012
-202336,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2012
-202336,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2012
-202336,Jump Shot,2PT Field Goal,4,1,Jump Shot,JUMP_SHOTS,0.25,2012
-202336,Standard Layup,2PT Field Goal,7,3,Layup Shot,LAYUPS,0.4285714285714285,2012
-202336,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2012
-202336,Tip Shot,2PT Field Goal,3,2,Tip Shot,TIP_SHOTS,0.6666666666666666,2012
-202336,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2012
-202336,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2013
-202336,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2014
-202336,Hook Shot,2PT Field Goal,1,1,Jump Hook Shot,POST_MOVES,1.0,2014
-202336,Jump Shot,2PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.3333333333333333,2014
-202336,Standard Layup,2PT Field Goal,6,3,Layup Shot,LAYUPS,0.5,2014
-202336,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2014
-202336,Tip Shot,2PT Field Goal,2,0,Tip Shot,TIP_SHOTS,0.0,2014
-202336,Driving Hook Shot,2PT Field Goal,2,2,Driving Hook Shot,POST_MOVES,1.0,2015
-202336,Driving Layup,2PT Field Goal,2,0,Driving Layup Shot,LAYUPS,0.0,2015
-202336,Standard Dunk,2PT Field Goal,2,1,Dunk Shot,DUNKS,0.5,2015
-202336,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2015
-202336,Hook Shot,2PT Field Goal,2,0,Jump Hook Shot,POST_MOVES,0.0,2015
-202336,Jump Shot,2PT Field Goal,4,2,Jump Shot,JUMP_SHOTS,0.5,2015
-202336,Standard Layup,2PT Field Goal,2,0,Layup Shot,LAYUPS,0.0,2015
-202336,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2015
-202336,Tip Shot,2PT Field Goal,2,1,Tip Shot,TIP_SHOTS,0.5,2015
-202336,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2017
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Larry Sanders,202336,Alley Oop Dunk,2,3,3,Alley Oop Dunk Shot,DUNKS,,2011
+Larry Sanders,202336,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2011
+Larry Sanders,202336,Driving Dunk,2,2,2,Driving Slam Dunk Shot,DUNKS,,2011
+Larry Sanders,202336,Standard Dunk,2,16,15,Dunk Shot,DUNKS,,2011
+Larry Sanders,202336,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Larry Sanders,202336,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2011
+Larry Sanders,202336,Hook Shot,2,10,3,Hook Shot,POST_MOVES,,2011
+Larry Sanders,202336,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2011
+Larry Sanders,202336,Hook Shot,2,3,2,Jump Hook Shot,POST_MOVES,,2011
+Larry Sanders,202336,Jump Shot,2,144,43,Jump Shot,JUMP_SHOTS,,2011
+Larry Sanders,202336,Standard Layup,2,37,15,Layup Shot,LAYUPS,,2011
+Larry Sanders,202336,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2011
+Larry Sanders,202336,Putback Layup,2,3,3,Putback Layup Shot,LAYUPS,,2011
+Larry Sanders,202336,Reverse Dunk,2,4,4,Reverse Dunk Shot,DUNKS,,2011
+Larry Sanders,202336,Reverse Layup,2,5,3,Reverse Layup Shot,LAYUPS,,2011
+Larry Sanders,202336,Running Hook Shot,2,1,1,Running Bank Hook Shot,POST_MOVES,,2011
+Larry Sanders,202336,Running Hook Shot,2,6,2,Running Hook Shot,POST_MOVES,,2011
+Larry Sanders,202336,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2011
+Larry Sanders,202336,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2011
+Larry Sanders,202336,Tip Shot,2,13,7,Tip Shot,TIP_SHOTS,,2011
+Larry Sanders,202336,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2011
+Larry Sanders,202336,Turnaround Jump Shot,2,11,4,Turnaround Jump Shot,JUMP_SHOTS,,2011
+Larry Sanders,202336,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2012
+Larry Sanders,202336,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2012
+Larry Sanders,202336,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2012
+Larry Sanders,202336,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,2012
+Larry Sanders,202336,Standard Dunk,2,23,20,Dunk Shot,DUNKS,,2012
+Larry Sanders,202336,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Larry Sanders,202336,Hook Shot,2,10,5,Hook Shot,POST_MOVES,,2012
+Larry Sanders,202336,Jump Shot,2,49,12,Jump Shot,JUMP_SHOTS,,2012
+Larry Sanders,202336,Standard Layup,2,59,28,Layup Shot,LAYUPS,,2012
+Larry Sanders,202336,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2012
+Larry Sanders,202336,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2012
+Larry Sanders,202336,Reverse Dunk,2,2,2,Reverse Dunk Shot,DUNKS,,2012
+Larry Sanders,202336,Reverse Layup,2,7,5,Reverse Layup Shot,LAYUPS,,2012
+Larry Sanders,202336,Running Jump Shot,2,1,0,Running Bank shot,JUMP_SHOTS,,2012
+Larry Sanders,202336,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2012
+Larry Sanders,202336,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2012
+Larry Sanders,202336,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2012
+Larry Sanders,202336,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2012
+Larry Sanders,202336,Tip Shot,2,14,5,Tip Shot,TIP_SHOTS,,2012
+Larry Sanders,202336,Turnaround Jump Shot,2,2,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2012
+Larry Sanders,202336,Turnaround Jump Shot,2,5,1,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Larry Sanders,202336,Alley Oop Dunk,2,12,10,Alley Oop Dunk Shot,DUNKS,,2013
+Larry Sanders,202336,Alley Oop Layup,2,3,2,Alley Oop Layup shot,LAYUPS,,2013
+Larry Sanders,202336,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2013
+Larry Sanders,202336,Driving Dunk,2,5,4,Driving Dunk Shot,DUNKS,,2013
+Larry Sanders,202336,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,,2013
+Larry Sanders,202336,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2013
+Larry Sanders,202336,Driving Layup,2,10,5,Driving Layup Shot,LAYUPS,,2013
+Larry Sanders,202336,Driving Dunk,2,2,2,Driving Slam Dunk Shot,DUNKS,,2013
+Larry Sanders,202336,Standard Dunk,2,83,76,Dunk Shot,DUNKS,,2013
+Larry Sanders,202336,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2013
+Larry Sanders,202336,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2013
+Larry Sanders,202336,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2013
+Larry Sanders,202336,Hook Shot,2,49,17,Hook Shot,POST_MOVES,,2013
+Larry Sanders,202336,Jump Shot,2,3,2,Jump Bank Shot,JUMP_SHOTS,,2013
+Larry Sanders,202336,Hook Shot,2,6,4,Jump Hook Shot,POST_MOVES,,2013
+Larry Sanders,202336,Jump Shot,2,161,42,Jump Shot,JUMP_SHOTS,,2013
+Larry Sanders,202336,Standard Layup,2,142,67,Layup Shot,LAYUPS,,2013
+Larry Sanders,202336,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2013
+Larry Sanders,202336,Putback Dunk,2,5,5,Putback Dunk Shot,DUNKS,,2013
+Larry Sanders,202336,Putback Layup,2,7,6,Putback Layup Shot,LAYUPS,,2013
+Larry Sanders,202336,Reverse Layup,2,11,4,Reverse Layup Shot,LAYUPS,,2013
+Larry Sanders,202336,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2013
+Larry Sanders,202336,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2013
+Larry Sanders,202336,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2013
+Larry Sanders,202336,Standard Layup,2,3,3,Running Layup Shot,LAYUPS,,2013
+Larry Sanders,202336,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2013
+Larry Sanders,202336,Standard Dunk,2,14,14,Slam Dunk Shot,DUNKS,,2013
+Larry Sanders,202336,Tip Shot,2,65,29,Tip Shot,TIP_SHOTS,,2013
+Larry Sanders,202336,Turnaround Hook Shot,2,2,0,Turnaround Hook Shot,POST_MOVES,,2013
+Larry Sanders,202336,Turnaround Jump Shot,2,8,3,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Larry Sanders,202336,Alley Oop Dunk,2,8,8,Alley Oop Dunk Shot,DUNKS,,2014
+Larry Sanders,202336,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2014
+Larry Sanders,202336,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,2014
+Larry Sanders,202336,Standard Dunk,2,13,10,Dunk Shot,DUNKS,,2014
+Larry Sanders,202336,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2014
+Larry Sanders,202336,Hook Shot,2,10,3,Hook Shot,POST_MOVES,,2014
+Larry Sanders,202336,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2014
+Larry Sanders,202336,Hook Shot,2,3,3,Jump Hook Shot,POST_MOVES,,2014
+Larry Sanders,202336,Jump Shot,2,26,4,Jump Shot,JUMP_SHOTS,,2014
+Larry Sanders,202336,Standard Layup,2,57,26,Layup Shot,LAYUPS,,2014
+Larry Sanders,202336,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2014
+Larry Sanders,202336,Putback Layup,2,3,3,Putback Layup Shot,LAYUPS,,2014
+Larry Sanders,202336,Reverse Layup,2,4,1,Reverse Layup Shot,LAYUPS,,2014
+Larry Sanders,202336,Running Hook Shot,2,1,1,Running Bank Hook Shot,POST_MOVES,,2014
+Larry Sanders,202336,Running Hook Shot,2,4,2,Running Hook Shot,POST_MOVES,,2014
+Larry Sanders,202336,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2014
+Larry Sanders,202336,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2014
+Larry Sanders,202336,Tip Shot,2,16,6,Tip Shot,TIP_SHOTS,,2014
+Larry Sanders,202336,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2014
+Larry Sanders,202336,Turnaround Jump Shot,2,3,0,Turnaround Jump Shot,JUMP_SHOTS,,2014
+Larry Sanders,202336,Alley Oop Dunk,2,1,0,Alley Oop Dunk Shot,DUNKS,,2015
+Larry Sanders,202336,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2015
+Larry Sanders,202336,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2015
+Larry Sanders,202336,Driving Hook Shot,2,2,2,Driving Hook Shot,POST_MOVES,,2015
+Larry Sanders,202336,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2015
+Larry Sanders,202336,Driving Layup,2,3,1,Driving Layup Shot,LAYUPS,,2015
+Larry Sanders,202336,Driving Dunk,2,2,1,Driving Slam Dunk Shot,DUNKS,,2015
+Larry Sanders,202336,Standard Dunk,2,20,15,Dunk Shot,DUNKS,,2015
+Larry Sanders,202336,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2015
+Larry Sanders,202336,Hook Shot,2,13,5,Hook Shot,POST_MOVES,,2015
+Larry Sanders,202336,Hook Shot,2,2,0,Jump Hook Shot,POST_MOVES,,2015
+Larry Sanders,202336,Jump Shot,2,31,8,Jump Shot,JUMP_SHOTS,,2015
+Larry Sanders,202336,Standard Layup,2,51,24,Layup Shot,LAYUPS,,2015
+Larry Sanders,202336,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2015
+Larry Sanders,202336,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2015
+Larry Sanders,202336,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2015
+Larry Sanders,202336,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2015
+Larry Sanders,202336,Standard Dunk,2,2,2,Running Slam Dunk Shot,DUNKS,,2015
+Larry Sanders,202336,Standard Dunk,2,8,8,Slam Dunk Shot,DUNKS,,2015
+Larry Sanders,202336,Tip Shot,2,26,11,Tip Shot,TIP_SHOTS,,2015
+Larry Sanders,202336,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2015
+Larry Sanders,202336,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2017
+Larry Sanders,202336,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2017
+Larry Sanders,202336,Putback Layup,2,2,1,Tip Layup Shot,LAYUPS,,2017

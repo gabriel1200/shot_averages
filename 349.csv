@@ -1,20 +1,82 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-349,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,1997
-349,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1997
-349,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1997
-349,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,1998
-349,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,1998
-349,Jump Shot,2PT Field Goal,7,1,Jump Shot,JUMP_SHOTS,0.1428571428571428,1998
-349,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,1998
-349,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,1998
-349,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,1998
-349,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1999
-349,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,1999
-349,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2000
-349,Hook Shot,2PT Field Goal,2,2,Hook Shot,POST_MOVES,1.0,2000
-349,Jump Shot,2PT Field Goal,3,2,Jump Shot,JUMP_SHOTS,0.6666666666666666,2000
-349,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2000
-349,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2001
-349,Jump Shot,2PT Field Goal,5,0,Jump Shot,JUMP_SHOTS,0.0,2001
-349,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2001
-349,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Mark Jackson,349,Driving Layup,2,71,57,Driving Layup Shot,LAYUPS,,1997
+Mark Jackson,349,Hook Shot,2,10,10,Hook Shot,POST_MOVES,,1997
+Mark Jackson,349,Jump Shot,2,360,117,Jump Shot,JUMP_SHOTS,,1997
+Mark Jackson,349,Jump Shot,3,2,0,Jump Shot,JUMP_SHOTS,,1997
+Mark Jackson,349,Standard Layup,2,179,69,Layup Shot,LAYUPS,,1997
+Mark Jackson,349,Running Jump Shot,2,53,33,Running Jump Shot,JUMP_SHOTS,,1997
+Mark Jackson,349,Tip Shot,2,4,3,Tip Shot,TIP_SHOTS,,1997
+Mark Jackson,349,Driving Layup,2,41,32,Driving Layup Shot,LAYUPS,,1998
+Mark Jackson,349,Hook Shot,2,35,26,Hook Shot,POST_MOVES,,1998
+Mark Jackson,349,Jump Shot,2,363,99,Jump Shot,JUMP_SHOTS,,1998
+Mark Jackson,349,Jump Shot,3,2,1,Jump Shot,JUMP_SHOTS,,1998
+Mark Jackson,349,Standard Layup,2,105,48,Layup Shot,LAYUPS,,1998
+Mark Jackson,349,Running Jump Shot,2,46,41,Running Jump Shot,JUMP_SHOTS,,1998
+Mark Jackson,349,Tip Shot,2,6,2,Tip Shot,TIP_SHOTS,,1998
+Mark Jackson,349,Driving Layup,2,18,18,Driving Layup Shot,LAYUPS,,1999
+Mark Jackson,349,Hook Shot,2,26,16,Hook Shot,POST_MOVES,,1999
+Mark Jackson,349,Jump Shot,2,226,68,Jump Shot,JUMP_SHOTS,,1999
+Mark Jackson,349,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,1999
+Mark Jackson,349,Standard Layup,2,38,22,Layup Shot,LAYUPS,,1999
+Mark Jackson,349,Running Jump Shot,2,20,14,Running Jump Shot,JUMP_SHOTS,,1999
+Mark Jackson,349,Driving Layup,2,41,32,Driving Layup Shot,LAYUPS,,2000
+Mark Jackson,349,Hook Shot,2,27,20,Hook Shot,POST_MOVES,,2000
+Mark Jackson,349,Jump Shot,2,406,135,Jump Shot,JUMP_SHOTS,,2000
+Mark Jackson,349,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2000
+Mark Jackson,349,Standard Layup,2,64,36,Layup Shot,LAYUPS,,2000
+Mark Jackson,349,Running Jump Shot,2,25,20,Running Jump Shot,JUMP_SHOTS,,2000
+Mark Jackson,349,Tip Shot,2,6,3,Tip Shot,TIP_SHOTS,,2000
+Mark Jackson,349,Finger Roll,2,4,4,Driving Finger Roll Shot,LAYUPS,,2001
+Mark Jackson,349,Driving Hook Shot,2,2,2,Driving Hook Shot,POST_MOVES,,2001
+Mark Jackson,349,Driving Layup,2,44,37,Driving Layup Shot,LAYUPS,,2001
+Mark Jackson,349,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2001
+Mark Jackson,349,Hook Shot,2,18,9,Hook Shot,POST_MOVES,,2001
+Mark Jackson,349,Hook Shot,3,1,0,Hook Shot,POST_MOVES,,2001
+Mark Jackson,349,Jump Shot,2,357,121,Jump Shot,JUMP_SHOTS,,2001
+Mark Jackson,349,Jump Shot,3,12,3,Jump Shot,JUMP_SHOTS,,2001
+Mark Jackson,349,Standard Layup,2,64,26,Layup Shot,LAYUPS,,2001
+Mark Jackson,349,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2001
+Mark Jackson,349,Running Hook Shot,2,3,2,Running Hook Shot,POST_MOVES,,2001
+Mark Jackson,349,Running Jump Shot,2,46,21,Running Jump Shot,JUMP_SHOTS,,2001
+Mark Jackson,349,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2001
+Mark Jackson,349,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2001
+Mark Jackson,349,Turnaround Hook Shot,2,11,5,Turnaround Hook Shot,POST_MOVES,,2001
+Mark Jackson,349,Turnaround Jump Shot,2,12,7,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Mark Jackson,349,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2002
+Mark Jackson,349,Driving Layup,2,40,39,Driving Layup Shot,LAYUPS,,2002
+Mark Jackson,349,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Mark Jackson,349,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2002
+Mark Jackson,349,Hook Shot,2,12,6,Hook Shot,POST_MOVES,,2002
+Mark Jackson,349,Hook Shot,2,5,4,Jump Hook Shot,POST_MOVES,,2002
+Mark Jackson,349,Jump Shot,2,403,147,Jump Shot,JUMP_SHOTS,,2002
+Mark Jackson,349,Standard Layup,2,84,27,Layup Shot,LAYUPS,,2002
+Mark Jackson,349,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2002
+Mark Jackson,349,Running Hook Shot,2,2,0,Running Hook Shot,POST_MOVES,,2002
+Mark Jackson,349,Running Jump Shot,2,27,20,Running Jump Shot,JUMP_SHOTS,,2002
+Mark Jackson,349,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2002
+Mark Jackson,349,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2002
+Mark Jackson,349,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2002
+Mark Jackson,349,Turnaround Jump Shot,2,10,9,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Mark Jackson,349,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2003
+Mark Jackson,349,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2003
+Mark Jackson,349,Driving Layup,2,20,13,Driving Layup Shot,LAYUPS,,2003
+Mark Jackson,349,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2003
+Mark Jackson,349,Hook Shot,2,2,1,Jump Hook Shot,POST_MOVES,,2003
+Mark Jackson,349,Jump Shot,2,245,74,Jump Shot,JUMP_SHOTS,,2003
+Mark Jackson,349,Standard Layup,2,54,29,Layup Shot,LAYUPS,,2003
+Mark Jackson,349,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2003
+Mark Jackson,349,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2003
+Mark Jackson,349,Running Jump Shot,2,31,19,Running Jump Shot,JUMP_SHOTS,,2003
+Mark Jackson,349,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2003
+Mark Jackson,349,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2003
+Mark Jackson,349,Turnaround Jump Shot,2,8,4,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Mark Jackson,349,Driving Layup,2,7,5,Driving Layup Shot,LAYUPS,,2004
+Mark Jackson,349,Finger Roll,2,1,0,Finger Roll Shot,LAYUPS,,2004
+Mark Jackson,349,Hook Shot,2,2,2,Hook Shot,POST_MOVES,,2004
+Mark Jackson,349,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2004
+Mark Jackson,349,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2004
+Mark Jackson,349,Jump Shot,2,60,13,Jump Shot,JUMP_SHOTS,,2004
+Mark Jackson,349,Standard Layup,2,15,7,Layup Shot,LAYUPS,,2004
+Mark Jackson,349,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2004
+Mark Jackson,349,Running Jump Shot,2,6,2,Running Jump Shot,JUMP_SHOTS,,2004
+Mark Jackson,349,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2004

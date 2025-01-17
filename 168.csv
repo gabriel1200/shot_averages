@@ -1,36 +1,68 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-168,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,1997
-168,Driving Layup,2PT Field Goal,8,8,Driving Layup Shot,LAYUPS,1.0,1997
-168,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,1997
-168,Hook Shot,2PT Field Goal,2,2,Hook Shot,POST_MOVES,1.0,1997
-168,Jump Shot,2PT Field Goal,40,21,Jump Shot,JUMP_SHOTS,0.525,1997
-168,Jump Shot,3PT Field Goal,20,8,Jump Shot,JUMP_SHOTS,0.6,1997
-168,Standard Layup,2PT Field Goal,24,5,Layup Shot,LAYUPS,0.2083333333333333,1997
-168,Standard Dunk,2PT Field Goal,2,2,Slam Dunk Shot,DUNKS,1.0,1997
-168,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,1997
-168,Driving Layup,2PT Field Goal,8,7,Driving Layup Shot,LAYUPS,0.875,1998
-168,Jump Shot,2PT Field Goal,37,14,Jump Shot,JUMP_SHOTS,0.3783783783783784,1998
-168,Jump Shot,3PT Field Goal,26,10,Jump Shot,JUMP_SHOTS,0.5769230769230769,1998
-168,Standard Layup,2PT Field Goal,17,10,Layup Shot,LAYUPS,0.5882352941176471,1998
-168,Running Jump Shot,2PT Field Goal,2,2,Running Jump Shot,JUMP_SHOTS,1.0,1998
-168,Tip Shot,2PT Field Goal,4,0,Tip Shot,TIP_SHOTS,0.0,1998
-168,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,1999
-168,Jump Shot,2PT Field Goal,26,9,Jump Shot,JUMP_SHOTS,0.3461538461538461,1999
-168,Jump Shot,3PT Field Goal,13,5,Jump Shot,JUMP_SHOTS,0.5769230769230769,1999
-168,Standard Layup,2PT Field Goal,5,3,Layup Shot,LAYUPS,0.6,1999
-168,Running Jump Shot,2PT Field Goal,3,1,Running Jump Shot,JUMP_SHOTS,0.3333333333333333,1999
-168,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,1999
-168,Jump Shot,2PT Field Goal,8,2,Jump Shot,JUMP_SHOTS,0.25,2000
-168,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2000
-168,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2001
-168,Jump Shot,2PT Field Goal,6,3,Jump Shot,JUMP_SHOTS,0.5,2001
-168,Standard Layup,2PT Field Goal,2,0,Layup Shot,LAYUPS,0.0,2001
-168,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2002
-168,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2002
-168,Jump Shot,2PT Field Goal,13,6,Jump Shot,JUMP_SHOTS,0.4615384615384615,2002
-168,Jump Shot,3PT Field Goal,10,3,Jump Shot,JUMP_SHOTS,0.45,2002
-168,Standard Layup,2PT Field Goal,3,2,Layup Shot,LAYUPS,0.6666666666666666,2002
-168,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2002
-168,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2002
-168,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2002
-168,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2003
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Chris Mills,168,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,1997
+Chris Mills,168,Driving Layup,2,71,49,Driving Layup Shot,LAYUPS,,1997
+Chris Mills,168,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,1997
+Chris Mills,168,Hook Shot,2,17,13,Hook Shot,POST_MOVES,,1997
+Chris Mills,168,Jump Shot,2,408,168,Jump Shot,JUMP_SHOTS,,1997
+Chris Mills,168,Jump Shot,3,206,80,Jump Shot,JUMP_SHOTS,,1997
+Chris Mills,168,Standard Layup,2,133,55,Layup Shot,LAYUPS,,1997
+Chris Mills,168,Running Jump Shot,2,17,10,Running Jump Shot,JUMP_SHOTS,,1997
+Chris Mills,168,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,1997
+Chris Mills,168,Standard Dunk,2,15,15,Slam Dunk Shot,DUNKS,,1997
+Chris Mills,168,Tip Shot,2,19,8,Tip Shot,TIP_SHOTS,,1997
+Chris Mills,168,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,1998
+Chris Mills,168,Driving Layup,2,46,40,Driving Layup Shot,LAYUPS,,1998
+Chris Mills,168,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,1998
+Chris Mills,168,Hook Shot,2,5,3,Hook Shot,POST_MOVES,,1998
+Chris Mills,168,Jump Shot,2,360,124,Jump Shot,JUMP_SHOTS,,1998
+Chris Mills,168,Jump Shot,3,62,20,Jump Shot,JUMP_SHOTS,,1998
+Chris Mills,168,Standard Layup,2,149,76,Layup Shot,LAYUPS,,1998
+Chris Mills,168,Running Jump Shot,2,10,7,Running Jump Shot,JUMP_SHOTS,,1998
+Chris Mills,168,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,1998
+Chris Mills,168,Tip Shot,2,35,14,Tip Shot,TIP_SHOTS,,1998
+Chris Mills,168,Driving Layup,2,21,20,Driving Layup Shot,LAYUPS,,1999
+Chris Mills,168,Hook Shot,2,5,4,Hook Shot,POST_MOVES,,1999
+Chris Mills,168,Jump Shot,2,279,106,Jump Shot,JUMP_SHOTS,,1999
+Chris Mills,168,Jump Shot,3,84,26,Jump Shot,JUMP_SHOTS,,1999
+Chris Mills,168,Standard Layup,2,50,24,Layup Shot,LAYUPS,,1999
+Chris Mills,168,Running Jump Shot,2,7,3,Running Jump Shot,JUMP_SHOTS,,1999
+Chris Mills,168,Tip Shot,2,7,3,Tip Shot,TIP_SHOTS,,1999
+Chris Mills,168,Driving Layup,2,10,6,Driving Layup Shot,LAYUPS,,2000
+Chris Mills,168,Hook Shot,2,12,7,Hook Shot,POST_MOVES,,2000
+Chris Mills,168,Jump Shot,2,214,78,Jump Shot,JUMP_SHOTS,,2000
+Chris Mills,168,Jump Shot,3,11,3,Jump Shot,JUMP_SHOTS,,2000
+Chris Mills,168,Standard Layup,2,32,22,Layup Shot,LAYUPS,,2000
+Chris Mills,168,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2000
+Chris Mills,168,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2000
+Chris Mills,168,Tip Shot,2,11,5,Tip Shot,TIP_SHOTS,,2000
+Chris Mills,168,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2001
+Chris Mills,168,Hook Shot,2,6,4,Hook Shot,POST_MOVES,,2001
+Chris Mills,168,Jump Shot,2,154,49,Jump Shot,JUMP_SHOTS,,2001
+Chris Mills,168,Jump Shot,3,8,3,Jump Shot,JUMP_SHOTS,,2001
+Chris Mills,168,Standard Layup,2,14,9,Layup Shot,LAYUPS,,2001
+Chris Mills,168,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2001
+Chris Mills,168,Running Jump Shot,2,3,2,Running Jump Shot,JUMP_SHOTS,,2001
+Chris Mills,168,Tip Shot,2,4,3,Tip Shot,TIP_SHOTS,,2001
+Chris Mills,168,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2002
+Chris Mills,168,Driving Layup,2,5,4,Driving Layup Shot,LAYUPS,,2002
+Chris Mills,168,Fadeaway Jump Shot,2,5,3,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Chris Mills,168,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2002
+Chris Mills,168,Hook Shot,2,7,6,Hook Shot,POST_MOVES,,2002
+Chris Mills,168,Hook Shot,2,4,2,Jump Hook Shot,POST_MOVES,,2002
+Chris Mills,168,Jump Shot,2,274,93,Jump Shot,JUMP_SHOTS,,2002
+Chris Mills,168,Jump Shot,3,61,27,Jump Shot,JUMP_SHOTS,,2002
+Chris Mills,168,Standard Layup,2,39,23,Layup Shot,LAYUPS,,2002
+Chris Mills,168,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2002
+Chris Mills,168,Running Jump Shot,2,4,3,Running Jump Shot,JUMP_SHOTS,,2002
+Chris Mills,168,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2002
+Chris Mills,168,Tip Shot,2,12,5,Tip Shot,TIP_SHOTS,,2002
+Chris Mills,168,Turnaround Jump Shot,2,9,5,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Chris Mills,168,Driving Layup,2,5,3,Driving Layup Shot,LAYUPS,,2003
+Chris Mills,168,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Chris Mills,168,Jump Shot,2,75,26,Jump Shot,JUMP_SHOTS,,2003
+Chris Mills,168,Jump Shot,3,6,2,Jump Shot,JUMP_SHOTS,,2003
+Chris Mills,168,Standard Layup,2,8,4,Layup Shot,LAYUPS,,2003
+Chris Mills,168,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2003
+Chris Mills,168,Running Hook Shot,2,2,1,Running Hook Shot,POST_MOVES,,2003
+Chris Mills,168,Running Jump Shot,2,5,1,Running Jump Shot,JUMP_SHOTS,,2003
+Chris Mills,168,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,,2003

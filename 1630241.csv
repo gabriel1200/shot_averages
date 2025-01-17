@@ -1,12 +1,62 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1630241,Jump Shot,3PT Field Goal,25,10,Jump Shot,JUMP_SHOTS,0.6,2024
-1630241,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2024
-1630241,Pullup Jump Shot,3PT Field Goal,5,2,Pullup Jump shot,JUMP_SHOTS,0.6,2024
-1630241,Running Jump Shot,3PT Field Goal,2,0,Running Jump Shot,JUMP_SHOTS,0.0,2024
-1630241,Running Jump Shot,3PT Field Goal,2,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2024
-1630241,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2024
-1630241,Step Back Jump Shot,3PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2024
-1630241,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2025
-1630241,Jump Shot,3PT Field Goal,15,5,Jump Shot,JUMP_SHOTS,0.5,2025
-1630241,Running Jump Shot,3PT Field Goal,2,0,Running Jump Shot,JUMP_SHOTS,0.0,2025
-1630241,Running Jump Shot,3PT Field Goal,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,1.5,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Sam Merrill,1630241,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2021
+Sam Merrill,1630241,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Sam Merrill,1630241,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2021
+Sam Merrill,1630241,Floating Jump Shot,2,2,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Sam Merrill,1630241,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2021
+Sam Merrill,1630241,Driving Layup,2,4,0,Driving Layup Shot,LAYUPS,,2021
+Sam Merrill,1630241,Floating Jump Shot,2,3,2,Floating Jump shot,FLOATING_SHOTS,,2021
+Sam Merrill,1630241,Jump Shot,2,35,14,Jump Shot,JUMP_SHOTS,,2021
+Sam Merrill,1630241,Pullup Jump Shot,2,11,5,Pullup Jump shot,JUMP_SHOTS,,2021
+Sam Merrill,1630241,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2021
+Sam Merrill,1630241,Running Jump Shot,2,4,3,Running Jump Shot,JUMP_SHOTS,,2021
+Sam Merrill,1630241,Standard Layup,2,4,2,Running Layup Shot,LAYUPS,,2021
+Sam Merrill,1630241,Running Jump Shot,2,2,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2021
+Sam Merrill,1630241,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2021
+Sam Merrill,1630241,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2021
+Sam Merrill,1630241,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2022
+Sam Merrill,1630241,Jump Shot,2,15,4,Jump Shot,JUMP_SHOTS,,2022
+Sam Merrill,1630241,Pullup Jump Shot,2,6,2,Pullup Jump shot,JUMP_SHOTS,,2022
+Sam Merrill,1630241,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2022
+Sam Merrill,1630241,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2023
+Sam Merrill,1630241,Standard Layup,2,2,2,Cutting Layup Shot,LAYUPS,,2023
+Sam Merrill,1630241,Jump Shot,2,9,0,Jump Shot,JUMP_SHOTS,,2023
+Sam Merrill,1630241,Pullup Jump Shot,2,7,4,Pullup Jump shot,JUMP_SHOTS,,2023
+Sam Merrill,1630241,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2023
+Sam Merrill,1630241,Running Jump Shot,3,1,1,Running Jump Shot,JUMP_SHOTS,,2023
+Sam Merrill,1630241,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2023
+Sam Merrill,1630241,Standard Layup,2,6,4,Cutting Layup Shot,LAYUPS,,2024
+Sam Merrill,1630241,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2024
+Sam Merrill,1630241,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Sam Merrill,1630241,Floating Jump Shot,2,4,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Sam Merrill,1630241,Floating Jump Shot,2,6,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Sam Merrill,1630241,Driving Layup,2,8,2,Driving Layup Shot,LAYUPS,,2024
+Sam Merrill,1630241,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2024
+Sam Merrill,1630241,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Sam Merrill,1630241,Jump Shot,2,2,0,Jump Shot,JUMP_SHOTS,,2024
+Sam Merrill,1630241,Jump Shot,3,234,103,Jump Shot,JUMP_SHOTS,,2024
+Sam Merrill,1630241,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2024
+Sam Merrill,1630241,Pullup Jump Shot,2,2,0,Pullup Jump shot,JUMP_SHOTS,,2024
+Sam Merrill,1630241,Pullup Jump Shot,3,63,19,Pullup Jump shot,JUMP_SHOTS,,2024
+Sam Merrill,1630241,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2024
+Sam Merrill,1630241,Running Jump Shot,3,38,15,Running Jump Shot,JUMP_SHOTS,,2024
+Sam Merrill,1630241,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2024
+Sam Merrill,1630241,Running Jump Shot,3,9,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Sam Merrill,1630241,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2024
+Sam Merrill,1630241,Step Back Jump Shot,3,8,4,Step Back Jump shot,JUMP_SHOTS,,2024
+Sam Merrill,1630241,Turnaround Jump Shot,3,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2024
+Sam Merrill,1630241,Turnaround Jump Shot,3,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2024
+Sam Merrill,1630241,Standard Layup,2,9,6,Cutting Layup Shot,LAYUPS,,2025
+Sam Merrill,1630241,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Sam Merrill,1630241,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Sam Merrill,1630241,Driving Layup,2,4,2,Driving Layup Shot,LAYUPS,,2025
+Sam Merrill,1630241,Jump Shot,3,1,0,Jump Bank Shot,JUMP_SHOTS,,2025
+Sam Merrill,1630241,Jump Shot,2,1,1,Jump Shot,JUMP_SHOTS,,2025
+Sam Merrill,1630241,Jump Shot,3,127,43,Jump Shot,JUMP_SHOTS,,2025
+Sam Merrill,1630241,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2025
+Sam Merrill,1630241,Pullup Jump Shot,3,11,1,Pullup Jump shot,JUMP_SHOTS,,2025
+Sam Merrill,1630241,Running Jump Shot,3,18,7,Running Jump Shot,JUMP_SHOTS,,2025
+Sam Merrill,1630241,Standard Layup,2,5,4,Running Layup Shot,LAYUPS,,2025
+Sam Merrill,1630241,Running Jump Shot,3,3,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025
+Sam Merrill,1630241,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2025
+Sam Merrill,1630241,Step Back Jump Shot,3,3,2,Step Back Jump shot,JUMP_SHOTS,,2025

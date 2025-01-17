@@ -1,24 +1,51 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1538,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,1998
-1538,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,1998
-1538,Jump Shot,2PT Field Goal,9,3,Jump Shot,JUMP_SHOTS,0.3333333333333333,1998
-1538,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,1998
-1538,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,1998
-1538,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,1999
-1538,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,1999
-1538,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,1999
-1538,Jump Shot,2PT Field Goal,6,2,Jump Shot,JUMP_SHOTS,0.3333333333333333,1999
-1538,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1999
-1538,Standard Layup,2PT Field Goal,3,2,Layup Shot,LAYUPS,0.6666666666666666,1999
-1538,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,1999
-1538,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,1999
-1538,Driving Layup,2PT Field Goal,4,2,Driving Layup Shot,LAYUPS,0.5,2000
-1538,Jump Shot,2PT Field Goal,13,4,Jump Shot,JUMP_SHOTS,0.3076923076923077,2000
-1538,Standard Layup,2PT Field Goal,3,2,Layup Shot,LAYUPS,0.6666666666666666,2000
-1538,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2001
-1538,Jump Shot,2PT Field Goal,19,10,Jump Shot,JUMP_SHOTS,0.5263157894736842,2001
-1538,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2001
-1538,Standard Layup,2PT Field Goal,4,1,Layup Shot,LAYUPS,0.25,2001
-1538,Reverse Layup,2PT Field Goal,4,3,Reverse Layup Shot,LAYUPS,0.75,2001
-1538,Running Jump Shot,2PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.5,2001
-1538,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Cedric Henderson,1538,Driving Dunk,2,14,14,Driving Dunk Shot,DUNKS,,1998
+Cedric Henderson,1538,Driving Layup,2,73,50,Driving Layup Shot,LAYUPS,,1998
+Cedric Henderson,1538,Standard Dunk,2,14,10,Dunk Shot,DUNKS,,1998
+Cedric Henderson,1538,Hook Shot,2,4,1,Hook Shot,POST_MOVES,,1998
+Cedric Henderson,1538,Jump Shot,2,424,151,Jump Shot,JUMP_SHOTS,,1998
+Cedric Henderson,1538,Standard Layup,2,130,66,Layup Shot,LAYUPS,,1998
+Cedric Henderson,1538,Running Jump Shot,2,8,4,Running Jump Shot,JUMP_SHOTS,,1998
+Cedric Henderson,1538,Standard Dunk,2,50,49,Slam Dunk Shot,DUNKS,,1998
+Cedric Henderson,1538,Tip Shot,2,8,3,Tip Shot,TIP_SHOTS,,1998
+Cedric Henderson,1538,Driving Dunk,2,5,5,Driving Dunk Shot,DUNKS,,1999
+Cedric Henderson,1538,Driving Layup,2,37,24,Driving Layup Shot,LAYUPS,,1999
+Cedric Henderson,1538,Standard Dunk,2,11,9,Dunk Shot,DUNKS,,1999
+Cedric Henderson,1538,Hook Shot,2,6,3,Hook Shot,POST_MOVES,,1999
+Cedric Henderson,1538,Jump Shot,2,280,86,Jump Shot,JUMP_SHOTS,,1999
+Cedric Henderson,1538,Jump Shot,3,4,0,Jump Shot,JUMP_SHOTS,,1999
+Cedric Henderson,1538,Standard Layup,2,83,42,Layup Shot,LAYUPS,,1999
+Cedric Henderson,1538,Running Jump Shot,2,7,2,Running Jump Shot,JUMP_SHOTS,,1999
+Cedric Henderson,1538,Standard Dunk,2,14,13,Slam Dunk Shot,DUNKS,,1999
+Cedric Henderson,1538,Tip Shot,2,6,5,Tip Shot,TIP_SHOTS,,1999
+Cedric Henderson,1538,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2000
+Cedric Henderson,1538,Driving Layup,2,28,14,Driving Layup Shot,LAYUPS,,2000
+Cedric Henderson,1538,Standard Dunk,2,10,9,Dunk Shot,DUNKS,,2000
+Cedric Henderson,1538,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2000
+Cedric Henderson,1538,Jump Shot,2,203,55,Jump Shot,JUMP_SHOTS,,2000
+Cedric Henderson,1538,Jump Shot,3,8,0,Jump Shot,JUMP_SHOTS,,2000
+Cedric Henderson,1538,Standard Layup,2,53,33,Layup Shot,LAYUPS,,2000
+Cedric Henderson,1538,Running Jump Shot,2,3,0,Running Jump Shot,JUMP_SHOTS,,2000
+Cedric Henderson,1538,Standard Dunk,2,13,13,Slam Dunk Shot,DUNKS,,2000
+Cedric Henderson,1538,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2000
+Cedric Henderson,1538,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2001
+Cedric Henderson,1538,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2001
+Cedric Henderson,1538,Driving Layup,2,11,6,Driving Layup Shot,LAYUPS,,2001
+Cedric Henderson,1538,Standard Dunk,2,7,7,Dunk Shot,DUNKS,,2001
+Cedric Henderson,1538,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2001
+Cedric Henderson,1538,Jump Shot,2,159,45,Jump Shot,JUMP_SHOTS,,2001
+Cedric Henderson,1538,Jump Shot,3,6,0,Jump Shot,JUMP_SHOTS,,2001
+Cedric Henderson,1538,Standard Layup,2,42,18,Layup Shot,LAYUPS,,2001
+Cedric Henderson,1538,Reverse Layup,2,10,6,Reverse Layup Shot,LAYUPS,,2001
+Cedric Henderson,1538,Running Jump Shot,2,3,2,Running Jump Shot,JUMP_SHOTS,,2001
+Cedric Henderson,1538,Standard Layup,2,9,5,Running Layup Shot,LAYUPS,,2001
+Cedric Henderson,1538,Standard Dunk,2,7,7,Slam Dunk Shot,DUNKS,,2001
+Cedric Henderson,1538,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2001
+Cedric Henderson,1538,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Cedric Henderson,1538,Driving Layup,2,3,3,Driving Layup Shot,LAYUPS,,2002
+Cedric Henderson,1538,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2002
+Cedric Henderson,1538,Jump Shot,2,18,5,Jump Shot,JUMP_SHOTS,,2002
+Cedric Henderson,1538,Standard Layup,2,4,2,Layup Shot,LAYUPS,,2002
+Cedric Henderson,1538,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2002
+Cedric Henderson,1538,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2002
+Cedric Henderson,1538,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2002

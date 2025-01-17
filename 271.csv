@@ -1,17 +1,64 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-271,Driving Dunk,2PT Field Goal,4,4,Driving Dunk Shot,DUNKS,1.0,1997
-271,Driving Layup,2PT Field Goal,21,12,Driving Layup Shot,LAYUPS,0.5714285714285714,1997
-271,Standard Dunk,2PT Field Goal,17,16,Dunk Shot,DUNKS,0.9411764705882352,1997
-271,Jump Shot,2PT Field Goal,122,41,Jump Shot,JUMP_SHOTS,0.3360655737704918,1997
-271,Jump Shot,3PT Field Goal,71,26,Jump Shot,JUMP_SHOTS,0.5492957746478874,1997
-271,Standard Layup,2PT Field Goal,143,63,Layup Shot,LAYUPS,0.4405594405594406,1997
-271,Running Jump Shot,2PT Field Goal,3,2,Running Jump Shot,JUMP_SHOTS,0.6666666666666666,1997
-271,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,1997
-271,Tip Shot,2PT Field Goal,14,6,Tip Shot,TIP_SHOTS,0.4285714285714285,1997
-271,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1999
-271,Jump Shot,3PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.5,1999
-271,Driving Layup,2PT Field Goal,3,2,Driving Layup Shot,LAYUPS,0.6666666666666666,2000
-271,Jump Shot,2PT Field Goal,7,2,Jump Shot,JUMP_SHOTS,0.2857142857142857,2000
-271,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2000
-271,Standard Layup,2PT Field Goal,3,2,Layup Shot,LAYUPS,0.6666666666666666,2000
-271,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2002
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Johnny Newman,271,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,1997
+Johnny Newman,271,Driving Layup,2,24,14,Driving Layup Shot,LAYUPS,,1997
+Johnny Newman,271,Standard Dunk,2,26,24,Dunk Shot,DUNKS,,1997
+Johnny Newman,271,Hook Shot,2,2,2,Hook Shot,POST_MOVES,,1997
+Johnny Newman,271,Jump Shot,2,191,69,Jump Shot,JUMP_SHOTS,,1997
+Johnny Newman,271,Jump Shot,3,86,31,Jump Shot,JUMP_SHOTS,,1997
+Johnny Newman,271,Standard Layup,2,187,90,Layup Shot,LAYUPS,,1997
+Johnny Newman,271,Running Jump Shot,2,7,3,Running Jump Shot,JUMP_SHOTS,,1997
+Johnny Newman,271,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,1997
+Johnny Newman,271,Tip Shot,2,18,7,Tip Shot,TIP_SHOTS,,1997
+Johnny Newman,271,Driving Dunk,2,12,12,Driving Dunk Shot,DUNKS,,1998
+Johnny Newman,271,Driving Layup,2,93,57,Driving Layup Shot,LAYUPS,,1998
+Johnny Newman,271,Standard Dunk,2,10,8,Dunk Shot,DUNKS,,1998
+Johnny Newman,271,Hook Shot,2,5,0,Hook Shot,POST_MOVES,,1998
+Johnny Newman,271,Jump Shot,2,487,159,Jump Shot,JUMP_SHOTS,,1998
+Johnny Newman,271,Standard Layup,2,130,66,Layup Shot,LAYUPS,,1998
+Johnny Newman,271,Running Jump Shot,2,23,12,Running Jump Shot,JUMP_SHOTS,,1998
+Johnny Newman,271,Standard Dunk,2,23,22,Slam Dunk Shot,DUNKS,,1998
+Johnny Newman,271,Tip Shot,2,16,8,Tip Shot,TIP_SHOTS,,1998
+Johnny Newman,271,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,1999
+Johnny Newman,271,Driving Layup,2,30,22,Driving Layup Shot,LAYUPS,,1999
+Johnny Newman,271,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,1999
+Johnny Newman,271,Hook Shot,2,4,2,Hook Shot,POST_MOVES,,1999
+Johnny Newman,271,Jump Shot,2,173,62,Jump Shot,JUMP_SHOTS,,1999
+Johnny Newman,271,Jump Shot,3,2,1,Jump Shot,JUMP_SHOTS,,1999
+Johnny Newman,271,Standard Layup,2,25,7,Layup Shot,LAYUPS,,1999
+Johnny Newman,271,Running Jump Shot,2,9,4,Running Jump Shot,JUMP_SHOTS,,1999
+Johnny Newman,271,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,1999
+Johnny Newman,271,Tip Shot,2,3,3,Tip Shot,TIP_SHOTS,,1999
+Johnny Newman,271,Driving Dunk,2,5,4,Driving Dunk Shot,DUNKS,,2000
+Johnny Newman,271,Driving Layup,2,99,60,Driving Layup Shot,LAYUPS,,2000
+Johnny Newman,271,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2000
+Johnny Newman,271,Jump Shot,2,390,144,Jump Shot,JUMP_SHOTS,,2000
+Johnny Newman,271,Jump Shot,3,11,4,Jump Shot,JUMP_SHOTS,,2000
+Johnny Newman,271,Standard Layup,2,74,43,Layup Shot,LAYUPS,,2000
+Johnny Newman,271,Running Jump Shot,2,35,17,Running Jump Shot,JUMP_SHOTS,,2000
+Johnny Newman,271,Tip Shot,2,6,3,Tip Shot,TIP_SHOTS,,2000
+Johnny Newman,271,Driving Dunk,2,4,2,Driving Dunk Shot,DUNKS,,2001
+Johnny Newman,271,Finger Roll,2,3,3,Driving Finger Roll Shot,LAYUPS,,2001
+Johnny Newman,271,Driving Layup,2,73,41,Driving Layup Shot,LAYUPS,,2001
+Johnny Newman,271,Standard Dunk,2,7,6,Dunk Shot,DUNKS,,2001
+Johnny Newman,271,Finger Roll,2,5,4,Finger Roll Shot,LAYUPS,,2001
+Johnny Newman,271,Hook Shot,2,3,2,Hook Shot,POST_MOVES,,2001
+Johnny Newman,271,Jump Shot,2,447,160,Jump Shot,JUMP_SHOTS,,2001
+Johnny Newman,271,Standard Layup,2,82,42,Layup Shot,LAYUPS,,2001
+Johnny Newman,271,Reverse Layup,2,18,9,Reverse Layup Shot,LAYUPS,,2001
+Johnny Newman,271,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2001
+Johnny Newman,271,Finger Roll,2,1,0,Running Finger Roll Shot,LAYUPS,,2001
+Johnny Newman,271,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2001
+Johnny Newman,271,Running Jump Shot,2,27,10,Running Jump Shot,JUMP_SHOTS,,2001
+Johnny Newman,271,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2001
+Johnny Newman,271,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2001
+Johnny Newman,271,Tip Shot,2,6,2,Tip Shot,TIP_SHOTS,,2001
+Johnny Newman,271,Turnaround Jump Shot,2,14,6,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Johnny Newman,271,Driving Layup,2,12,9,Driving Layup Shot,LAYUPS,,2002
+Johnny Newman,271,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2002
+Johnny Newman,271,Jump Shot,2,105,42,Jump Shot,JUMP_SHOTS,,2002
+Johnny Newman,271,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2002
+Johnny Newman,271,Standard Layup,2,23,12,Layup Shot,LAYUPS,,2002
+Johnny Newman,271,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2002
+Johnny Newman,271,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2002
+Johnny Newman,271,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2002
+Johnny Newman,271,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2002

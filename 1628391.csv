@@ -1,40 +1,107 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1628391,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2018
-1628391,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2018
-1628391,Alley Oop Dunk,2PT Field Goal,2,1,Alley Oop Dunk Shot,DUNKS,0.5,2019
-1628391,Alley Oop Layup,2PT Field Goal,1,1,Alley Oop Layup shot,LAYUPS,1.0,2019
-1628391,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2019
-1628391,Standard Layup,2PT Field Goal,2,0,Cutting Layup Shot,LAYUPS,0.0,2019
-1628391,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2019
-1628391,Driving Layup,2PT Field Goal,3,1,Driving Layup Shot,LAYUPS,0.3333333333333333,2019
-1628391,Floating Jump Shot,2PT Field Goal,2,0,Floating Jump shot,FLOATING_SHOTS,0.0,2019
-1628391,Hook Shot,2PT Field Goal,3,2,Hook Shot,POST_MOVES,0.6666666666666666,2019
-1628391,Jump Shot,2PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2019
-1628391,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2019
-1628391,Jump Shot,3PT Field Goal,25,13,Jump Shot,JUMP_SHOTS,0.78,2019
-1628391,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2019
-1628391,Pullup Jump Shot,2PT Field Goal,6,4,Pullup Jump shot,JUMP_SHOTS,0.6666666666666666,2019
-1628391,Pullup Jump Shot,3PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.5,2019
-1628391,Putback Dunk,2PT Field Goal,1,0,Putback Dunk Shot,DUNKS,0.0,2019
-1628391,Standard Dunk,2PT Field Goal,2,2,Running Dunk Shot,DUNKS,1.0,2019
-1628391,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2019
-1628391,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2019
-1628391,Step Back Jump Shot,3PT Field Goal,2,2,Step Back Jump shot,JUMP_SHOTS,1.5,2019
-1628391,Specialty Dunk,2PT Field Goal,1,1,Tip Dunk Shot,DUNKS,1.0,2019
-1628391,Putback Layup,2PT Field Goal,3,2,Tip Layup Shot,LAYUPS,0.6666666666666666,2019
-1628391,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,1.0,2019
-1628391,Specialty Dunk,2PT Field Goal,3,3,Cutting Dunk Shot,DUNKS,1.0,2020
-1628391,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Jump Shot,FLOATING_SHOTS,1.0,2020
-1628391,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2020
-1628391,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2020
-1628391,Jump Shot,2PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.3333333333333333,2020
-1628391,Jump Shot,3PT Field Goal,18,7,Jump Shot,JUMP_SHOTS,0.5833333333333334,2020
-1628391,Standard Layup,2PT Field Goal,2,2,Layup Shot,LAYUPS,1.0,2020
-1628391,Pullup Jump Shot,2PT Field Goal,2,2,Pullup Jump shot,JUMP_SHOTS,1.0,2020
-1628391,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2020
-1628391,Reverse Layup,2PT Field Goal,1,0,Running Reverse Layup Shot,LAYUPS,0.0,2020
-1628391,Putback Layup,2PT Field Goal,2,1,Tip Layup Shot,LAYUPS,0.5,2020
-1628391,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2020
-1628391,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2021
-1628391,Jump Shot,3PT Field Goal,5,2,Jump Shot,JUMP_SHOTS,0.6,2021
-1628391,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2021
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+D.J. Wilson,1628391,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2018
+D.J. Wilson,1628391,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2018
+D.J. Wilson,1628391,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2018
+D.J. Wilson,1628391,Jump Shot,2,7,3,Jump Shot,JUMP_SHOTS,,2018
+D.J. Wilson,1628391,Standard Layup,2,1,1,Layup Shot,LAYUPS,,2018
+D.J. Wilson,1628391,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2018
+D.J. Wilson,1628391,Step Back Jump Shot,2,2,0,Step Back Jump shot,JUMP_SHOTS,,2018
+D.J. Wilson,1628391,Putback Layup,2,2,1,Tip Layup Shot,LAYUPS,,2018
+D.J. Wilson,1628391,Alley Oop Dunk,2,5,3,Alley Oop Dunk Shot,DUNKS,,2019
+D.J. Wilson,1628391,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2019
+D.J. Wilson,1628391,Specialty Dunk,2,4,4,Cutting Dunk Shot,DUNKS,,2019
+D.J. Wilson,1628391,Standard Layup,2,9,6,Cutting Layup Shot,LAYUPS,,2019
+D.J. Wilson,1628391,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2019
+D.J. Wilson,1628391,Floating Jump Shot,2,2,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+D.J. Wilson,1628391,Driving Layup,2,9,3,Driving Layup Shot,LAYUPS,,2019
+D.J. Wilson,1628391,Standard Dunk,2,5,3,Dunk Shot,DUNKS,,2019
+D.J. Wilson,1628391,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+D.J. Wilson,1628391,Floating Jump Shot,2,6,2,Floating Jump shot,FLOATING_SHOTS,,2019
+D.J. Wilson,1628391,Hook Shot,2,9,4,Hook Shot,POST_MOVES,,2019
+D.J. Wilson,1628391,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2019
+D.J. Wilson,1628391,Jump Shot,2,109,31,Jump Shot,JUMP_SHOTS,,2019
+D.J. Wilson,1628391,Jump Shot,3,29,15,Jump Shot,JUMP_SHOTS,,2019
+D.J. Wilson,1628391,Standard Layup,2,10,4,Layup Shot,LAYUPS,,2019
+D.J. Wilson,1628391,Pullup Jump Shot,2,10,6,Pullup Jump shot,JUMP_SHOTS,,2019
+D.J. Wilson,1628391,Pullup Jump Shot,3,1,1,Pullup Jump shot,JUMP_SHOTS,,2019
+D.J. Wilson,1628391,Putback Dunk,2,1,0,Putback Dunk Shot,DUNKS,,2019
+D.J. Wilson,1628391,Putback Layup,2,3,2,Putback Layup Shot,LAYUPS,,2019
+D.J. Wilson,1628391,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2019
+D.J. Wilson,1628391,Standard Dunk,2,4,4,Running Dunk Shot,DUNKS,,2019
+D.J. Wilson,1628391,Standard Layup,2,2,0,Running Layup Shot,LAYUPS,,2019
+D.J. Wilson,1628391,Step Back Jump Shot,2,2,0,Step Back Jump shot,JUMP_SHOTS,,2019
+D.J. Wilson,1628391,Step Back Jump Shot,3,2,2,Step Back Jump shot,JUMP_SHOTS,,2019
+D.J. Wilson,1628391,Specialty Dunk,2,4,2,Tip Dunk Shot,DUNKS,,2019
+D.J. Wilson,1628391,Putback Layup,2,8,4,Tip Layup Shot,LAYUPS,,2019
+D.J. Wilson,1628391,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2019
+D.J. Wilson,1628391,Turnaround Jump Shot,2,4,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2019
+D.J. Wilson,1628391,Turnaround Jump Shot,2,4,1,Turnaround Jump Shot,JUMP_SHOTS,,2019
+D.J. Wilson,1628391,Alley Oop Layup,2,2,0,Alley Oop Layup shot,LAYUPS,,2020
+D.J. Wilson,1628391,Specialty Dunk,2,10,8,Cutting Dunk Shot,DUNKS,,2020
+D.J. Wilson,1628391,Standard Layup,2,4,3,Cutting Layup Shot,LAYUPS,,2020
+D.J. Wilson,1628391,Driving Dunk,2,3,2,Driving Dunk Shot,DUNKS,,2020
+D.J. Wilson,1628391,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2020
+D.J. Wilson,1628391,Floating Jump Shot,2,4,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+D.J. Wilson,1628391,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2020
+D.J. Wilson,1628391,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2020
+D.J. Wilson,1628391,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2020
+D.J. Wilson,1628391,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+D.J. Wilson,1628391,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2020
+D.J. Wilson,1628391,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2020
+D.J. Wilson,1628391,Jump Shot,2,49,11,Jump Shot,JUMP_SHOTS,,2020
+D.J. Wilson,1628391,Jump Shot,3,24,7,Jump Shot,JUMP_SHOTS,,2020
+D.J. Wilson,1628391,Standard Layup,2,3,2,Layup Shot,LAYUPS,,2020
+D.J. Wilson,1628391,Pullup Jump Shot,2,5,2,Pullup Jump shot,JUMP_SHOTS,,2020
+D.J. Wilson,1628391,Pullup Jump Shot,3,2,0,Pullup Jump shot,JUMP_SHOTS,,2020
+D.J. Wilson,1628391,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2020
+D.J. Wilson,1628391,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2020
+D.J. Wilson,1628391,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2020
+D.J. Wilson,1628391,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2020
+D.J. Wilson,1628391,Step Back Jump Shot,2,5,4,Step Back Jump shot,JUMP_SHOTS,,2020
+D.J. Wilson,1628391,Putback Layup,2,4,3,Tip Layup Shot,LAYUPS,,2020
+D.J. Wilson,1628391,Turnaround Hook Shot,2,2,0,Turnaround Hook Shot,POST_MOVES,,2020
+D.J. Wilson,1628391,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2020
+D.J. Wilson,1628391,Alley Oop Dunk,2,1,0,Alley Oop Dunk Shot,DUNKS,,2021
+D.J. Wilson,1628391,Specialty Dunk,2,5,4,Cutting Dunk Shot,DUNKS,,2021
+D.J. Wilson,1628391,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2021
+D.J. Wilson,1628391,Standard Layup,2,3,2,Cutting Layup Shot,LAYUPS,,2021
+D.J. Wilson,1628391,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2021
+D.J. Wilson,1628391,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2021
+D.J. Wilson,1628391,Floating Jump Shot,2,5,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+D.J. Wilson,1628391,Driving Layup,2,4,3,Driving Layup Shot,LAYUPS,,2021
+D.J. Wilson,1628391,Fadeaway Jump Shot,2,2,2,Fadeaway Jump Shot,JUMP_SHOTS,,2021
+D.J. Wilson,1628391,Floating Jump Shot,2,2,2,Floating Jump shot,FLOATING_SHOTS,,2021
+D.J. Wilson,1628391,Jump Shot,3,1,0,Jump Bank Shot,JUMP_SHOTS,,2021
+D.J. Wilson,1628391,Jump Shot,2,42,13,Jump Shot,JUMP_SHOTS,,2021
+D.J. Wilson,1628391,Jump Shot,3,45,15,Jump Shot,JUMP_SHOTS,,2021
+D.J. Wilson,1628391,Standard Layup,2,7,1,Layup Shot,LAYUPS,,2021
+D.J. Wilson,1628391,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2021
+D.J. Wilson,1628391,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2021
+D.J. Wilson,1628391,Putback Layup,2,3,2,Putback Layup Shot,LAYUPS,,2021
+D.J. Wilson,1628391,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2021
+D.J. Wilson,1628391,Alley Oop Layup,2,1,0,Running Alley Oop Layup Shot,LAYUPS,,2021
+D.J. Wilson,1628391,Standard Dunk,2,1,0,Running Dunk Shot,DUNKS,,2021
+D.J. Wilson,1628391,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2021
+D.J. Wilson,1628391,Running Jump Shot,3,2,0,Running Jump Shot,JUMP_SHOTS,,2021
+D.J. Wilson,1628391,Step Back Jump Shot,2,10,3,Step Back Jump shot,JUMP_SHOTS,,2021
+D.J. Wilson,1628391,Step Back Jump Shot,3,6,4,Step Back Jump shot,JUMP_SHOTS,,2021
+D.J. Wilson,1628391,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2021
+D.J. Wilson,1628391,Putback Layup,2,5,1,Tip Layup Shot,LAYUPS,,2021
+D.J. Wilson,1628391,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2021
+D.J. Wilson,1628391,Turnaround Hook Shot,2,8,3,Turnaround Hook Shot,POST_MOVES,,2021
+D.J. Wilson,1628391,Turnaround Jump Shot,2,5,2,Turnaround Jump Shot,JUMP_SHOTS,,2021
+D.J. Wilson,1628391,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2022
+D.J. Wilson,1628391,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2022
+D.J. Wilson,1628391,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+D.J. Wilson,1628391,Jump Shot,2,2,1,Jump Shot,JUMP_SHOTS,,2022
+D.J. Wilson,1628391,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2022
+D.J. Wilson,1628391,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2022
+D.J. Wilson,1628391,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2022
+D.J. Wilson,1628391,Step Back Jump Shot,2,3,2,Step Back Jump shot,JUMP_SHOTS,,2022
+D.J. Wilson,1628391,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2022
+D.J. Wilson,1628391,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2022
+D.J. Wilson,1628391,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2024
+D.J. Wilson,1628391,Standard Layup,2,1,0,Cutting Layup Shot,LAYUPS,,2024
+D.J. Wilson,1628391,Jump Shot,3,2,2,Jump Shot,JUMP_SHOTS,,2024
+D.J. Wilson,1628391,Standard Layup,2,1,1,Layup Shot,LAYUPS,,2024
+D.J. Wilson,1628391,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2024

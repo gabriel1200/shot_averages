@@ -1,78 +1,382 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1627783,Alley Oop Layup,2PT Field Goal,1,0,Alley Oop Layup shot,LAYUPS,0.0,2024
-1627783,Specialty Dunk,2PT Field Goal,5,5,Cutting Dunk Shot,DUNKS,1.0,2024
-1627783,Finger Roll,2PT Field Goal,2,2,Cutting Finger Roll Layup Shot,LAYUPS,1.0,2024
-1627783,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2024
-1627783,Driving Dunk,2PT Field Goal,2,2,Driving Dunk Shot,DUNKS,1.0,2024
-1627783,Finger Roll,2PT Field Goal,31,13,Driving Finger Roll Layup Shot,LAYUPS,0.4193548387096774,2024
-1627783,Floating Jump Shot,2PT Field Goal,9,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.1111111111111111,2024
-1627783,Floating Jump Shot,2PT Field Goal,17,6,Driving Floating Jump Shot,FLOATING_SHOTS,0.3529411764705882,2024
-1627783,Driving Hook Shot,2PT Field Goal,6,2,Driving Hook Shot,POST_MOVES,0.3333333333333333,2024
-1627783,Driving Layup,2PT Field Goal,53,31,Driving Layup Shot,LAYUPS,0.5849056603773585,2024
-1627783,Driving Layup,2PT Field Goal,4,2,Driving Reverse Layup Shot,LAYUPS,0.5,2024
-1627783,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2024
-1627783,Fadeaway Jump Shot,2PT Field Goal,13,5,Fadeaway Jump Shot,JUMP_SHOTS,0.3846153846153846,2024
-1627783,Finger Roll,2PT Field Goal,3,2,Finger Roll Layup Shot,LAYUPS,0.6666666666666666,2024
-1627783,Floating Jump Shot,2PT Field Goal,4,1,Floating Jump shot,FLOATING_SHOTS,0.25,2024
-1627783,Hook Shot,2PT Field Goal,3,2,Hook Shot,POST_MOVES,0.6666666666666666,2024
-1627783,Jump Shot,3PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2024
-1627783,Jump Shot,2PT Field Goal,9,6,Jump Shot,JUMP_SHOTS,0.6666666666666666,2024
-1627783,Jump Shot,3PT Field Goal,40,16,Jump Shot,JUMP_SHOTS,0.6,2024
-1627783,Standard Layup,2PT Field Goal,16,12,Layup Shot,LAYUPS,0.75,2024
-1627783,Pullup Jump Shot,2PT Field Goal,31,12,Pullup Jump shot,JUMP_SHOTS,0.3870967741935484,2024
-1627783,Pullup Jump Shot,3PT Field Goal,2,0,Pullup Jump shot,JUMP_SHOTS,0.0,2024
-1627783,Putback Layup,2PT Field Goal,16,12,Putback Layup Shot,LAYUPS,0.75,2024
-1627783,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2024
-1627783,Standard Dunk,2PT Field Goal,2,2,Running Dunk Shot,DUNKS,1.0,2024
-1627783,Finger Roll,2PT Field Goal,11,11,Running Finger Roll Layup Shot,LAYUPS,1.0,2024
-1627783,Running Jump Shot,3PT Field Goal,6,2,Running Jump Shot,JUMP_SHOTS,0.5,2024
-1627783,Standard Layup,2PT Field Goal,26,15,Running Layup Shot,LAYUPS,0.5769230769230769,2024
-1627783,Step Back Jump Shot,2PT Field Goal,17,11,Step Back Jump shot,JUMP_SHOTS,0.6470588235294118,2024
-1627783,Specialty Dunk,2PT Field Goal,1,1,Tip Dunk Shot,DUNKS,1.0,2024
-1627783,Putback Layup,2PT Field Goal,13,8,Tip Layup Shot,LAYUPS,0.6153846153846154,2024
-1627783,Turnaround Hook Shot,2PT Field Goal,2,0,Turnaround Bank Hook Shot,POST_MOVES,0.0,2024
-1627783,Turnaround Jump Shot,2PT Field Goal,7,4,Turnaround Bank shot,JUMP_SHOTS,0.5714285714285714,2024
-1627783,Turnaround Jump Shot,2PT Field Goal,14,8,Turnaround Fadeaway shot,JUMP_SHOTS,0.5714285714285714,2024
-1627783,Turnaround Hook Shot,2PT Field Goal,6,3,Turnaround Hook Shot,POST_MOVES,0.5,2024
-1627783,Turnaround Jump Shot,2PT Field Goal,10,4,Turnaround Jump Shot,JUMP_SHOTS,0.4,2024
-1627783,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2025
-1627783,Alley Oop Layup,2PT Field Goal,1,1,Alley Oop Layup shot,LAYUPS,1.0,2025
-1627783,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2025
-1627783,Finger Roll,2PT Field Goal,1,1,Cutting Finger Roll Layup Shot,LAYUPS,1.0,2025
-1627783,Standard Layup,2PT Field Goal,7,7,Cutting Layup Shot,LAYUPS,1.0,2025
-1627783,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2025
-1627783,Finger Roll,2PT Field Goal,4,2,Driving Finger Roll Layup Shot,LAYUPS,0.5,2025
-1627783,Floating Jump Shot,2PT Field Goal,6,5,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.8333333333333334,2025
-1627783,Floating Jump Shot,2PT Field Goal,11,7,Driving Floating Jump Shot,FLOATING_SHOTS,0.6363636363636364,2025
-1627783,Driving Hook Shot,2PT Field Goal,2,1,Driving Hook Shot,POST_MOVES,0.5,2025
-1627783,Driving Layup,2PT Field Goal,21,11,Driving Layup Shot,LAYUPS,0.5238095238095238,2025
-1627783,Driving Layup,2PT Field Goal,2,2,Driving Reverse Layup Shot,LAYUPS,1.0,2025
-1627783,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2025
-1627783,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Bank shot,JUMP_SHOTS,0.0,2025
-1627783,Fadeaway Jump Shot,2PT Field Goal,16,7,Fadeaway Jump Shot,JUMP_SHOTS,0.4375,2025
-1627783,Finger Roll,2PT Field Goal,3,3,Finger Roll Layup Shot,LAYUPS,1.0,2025
-1627783,Floating Jump Shot,2PT Field Goal,2,1,Floating Jump shot,FLOATING_SHOTS,0.5,2025
-1627783,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2025
-1627783,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2025
-1627783,Jump Shot,3PT Field Goal,2,0,Jump Bank Shot,JUMP_SHOTS,0.0,2025
-1627783,Jump Shot,2PT Field Goal,20,9,Jump Shot,JUMP_SHOTS,0.45,2025
-1627783,Jump Shot,3PT Field Goal,90,35,Jump Shot,JUMP_SHOTS,0.5833333333333334,2025
-1627783,Standard Layup,2PT Field Goal,19,13,Layup Shot,LAYUPS,0.6842105263157895,2025
-1627783,Pullup Jump Shot,2PT Field Goal,23,9,Pullup Jump shot,JUMP_SHOTS,0.391304347826087,2025
-1627783,Pullup Jump Shot,3PT Field Goal,4,2,Pullup Jump shot,JUMP_SHOTS,0.75,2025
-1627783,Putback Layup,2PT Field Goal,7,3,Putback Layup Shot,LAYUPS,0.4285714285714285,2025
-1627783,Standard Dunk,2PT Field Goal,5,5,Running Dunk Shot,DUNKS,1.0,2025
-1627783,Finger Roll,2PT Field Goal,6,5,Running Finger Roll Layup Shot,LAYUPS,0.8333333333333334,2025
-1627783,Running Jump Shot,2PT Field Goal,3,1,Running Jump Shot,JUMP_SHOTS,0.3333333333333333,2025
-1627783,Running Jump Shot,3PT Field Goal,4,2,Running Jump Shot,JUMP_SHOTS,0.75,2025
-1627783,Standard Layup,2PT Field Goal,16,12,Running Layup Shot,LAYUPS,0.75,2025
-1627783,Running Jump Shot,2PT Field Goal,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,1.0,2025
-1627783,Running Jump Shot,3PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2025
-1627783,Reverse Layup,2PT Field Goal,1,1,Running Reverse Layup Shot,LAYUPS,1.0,2025
-1627783,Step Back Jump Shot,2PT Field Goal,5,2,Step Back Jump shot,JUMP_SHOTS,0.4,2025
-1627783,Putback Layup,2PT Field Goal,7,3,Tip Layup Shot,LAYUPS,0.4285714285714285,2025
-1627783,Turnaround Jump Shot,2PT Field Goal,4,3,Turnaround Bank shot,JUMP_SHOTS,0.75,2025
-1627783,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,0.0,2025
-1627783,Turnaround Jump Shot,2PT Field Goal,26,16,Turnaround Fadeaway shot,JUMP_SHOTS,0.6153846153846154,2025
-1627783,Turnaround Hook Shot,2PT Field Goal,4,3,Turnaround Hook Shot,POST_MOVES,0.75,2025
-1627783,Turnaround Jump Shot,2PT Field Goal,14,7,Turnaround Jump Shot,JUMP_SHOTS,0.5,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Pascal Siakam,1627783,Alley Oop Dunk,2,3,3,Alley Oop Dunk Shot,DUNKS,,2017
+Pascal Siakam,1627783,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2017
+Pascal Siakam,1627783,Specialty Dunk,2,5,4,Cutting Dunk Shot,DUNKS,,2017
+Pascal Siakam,1627783,Standard Layup,2,5,3,Cutting Layup Shot,LAYUPS,,2017
+Pascal Siakam,1627783,Driving Dunk,2,2,1,Driving Dunk Shot,DUNKS,,2017
+Pascal Siakam,1627783,Floating Jump Shot,2,3,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Pascal Siakam,1627783,Driving Hook Shot,2,4,3,Driving Hook Shot,POST_MOVES,,2017
+Pascal Siakam,1627783,Driving Layup,2,4,3,Driving Layup Shot,LAYUPS,,2017
+Pascal Siakam,1627783,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2017
+Pascal Siakam,1627783,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Pascal Siakam,1627783,Finger Roll,2,3,2,Finger Roll Layup Shot,LAYUPS,,2017
+Pascal Siakam,1627783,Floating Jump Shot,2,6,3,Floating Jump shot,FLOATING_SHOTS,,2017
+Pascal Siakam,1627783,Hook Shot,2,14,8,Hook Shot,POST_MOVES,,2017
+Pascal Siakam,1627783,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2017
+Pascal Siakam,1627783,Jump Shot,2,58,23,Jump Shot,JUMP_SHOTS,,2017
+Pascal Siakam,1627783,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2017
+Pascal Siakam,1627783,Standard Layup,2,24,4,Layup Shot,LAYUPS,,2017
+Pascal Siakam,1627783,Pullup Jump Shot,2,3,0,Pullup Jump shot,JUMP_SHOTS,,2017
+Pascal Siakam,1627783,Putback Layup,2,11,10,Putback Layup Shot,LAYUPS,,2017
+Pascal Siakam,1627783,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2017
+Pascal Siakam,1627783,Alley Oop Dunk,2,2,2,Running Alley Oop Dunk Shot,DUNKS,,2017
+Pascal Siakam,1627783,Alley Oop Layup,2,5,3,Running Alley Oop Layup Shot,LAYUPS,,2017
+Pascal Siakam,1627783,Standard Dunk,2,4,4,Running Dunk Shot,DUNKS,,2017
+Pascal Siakam,1627783,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2017
+Pascal Siakam,1627783,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2017
+Pascal Siakam,1627783,Standard Layup,2,5,4,Running Layup Shot,LAYUPS,,2017
+Pascal Siakam,1627783,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2017
+Pascal Siakam,1627783,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2017
+Pascal Siakam,1627783,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2017
+Pascal Siakam,1627783,Putback Layup,2,9,3,Tip Layup Shot,LAYUPS,,2017
+Pascal Siakam,1627783,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2017
+Pascal Siakam,1627783,Turnaround Hook Shot,2,12,5,Turnaround Hook Shot,POST_MOVES,,2017
+Pascal Siakam,1627783,Turnaround Jump Shot,2,5,3,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Pascal Siakam,1627783,Alley Oop Dunk,2,6,6,Alley Oop Dunk Shot,DUNKS,,2018
+Pascal Siakam,1627783,Alley Oop Layup,2,9,7,Alley Oop Layup shot,LAYUPS,,2018
+Pascal Siakam,1627783,Specialty Dunk,2,8,8,Cutting Dunk Shot,DUNKS,,2018
+Pascal Siakam,1627783,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2018
+Pascal Siakam,1627783,Standard Layup,2,20,16,Cutting Layup Shot,LAYUPS,,2018
+Pascal Siakam,1627783,Driving Hook Shot,2,1,0,Driving Bank Hook Shot,POST_MOVES,,2018
+Pascal Siakam,1627783,Driving Dunk,2,8,7,Driving Dunk Shot,DUNKS,,2018
+Pascal Siakam,1627783,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Pascal Siakam,1627783,Floating Jump Shot,2,4,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Pascal Siakam,1627783,Floating Jump Shot,2,21,10,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Pascal Siakam,1627783,Driving Hook Shot,2,10,5,Driving Hook Shot,POST_MOVES,,2018
+Pascal Siakam,1627783,Driving Layup,2,57,29,Driving Layup Shot,LAYUPS,,2018
+Pascal Siakam,1627783,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2018
+Pascal Siakam,1627783,Standard Dunk,2,10,9,Dunk Shot,DUNKS,,2018
+Pascal Siakam,1627783,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2018
+Pascal Siakam,1627783,Floating Jump Shot,2,16,8,Floating Jump shot,FLOATING_SHOTS,,2018
+Pascal Siakam,1627783,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2018
+Pascal Siakam,1627783,Hook Shot,2,12,5,Hook Shot,POST_MOVES,,2018
+Pascal Siakam,1627783,Jump Shot,2,3,0,Jump Bank Shot,JUMP_SHOTS,,2018
+Pascal Siakam,1627783,Jump Shot,2,128,29,Jump Shot,JUMP_SHOTS,,2018
+Pascal Siakam,1627783,Jump Shot,3,11,3,Jump Shot,JUMP_SHOTS,,2018
+Pascal Siakam,1627783,Standard Layup,2,41,25,Layup Shot,LAYUPS,,2018
+Pascal Siakam,1627783,Pullup Jump Shot,2,3,1,Pullup Jump shot,JUMP_SHOTS,,2018
+Pascal Siakam,1627783,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2018
+Pascal Siakam,1627783,Putback Layup,2,10,7,Putback Layup Shot,LAYUPS,,2018
+Pascal Siakam,1627783,Reverse Layup,2,9,5,Reverse Layup Shot,LAYUPS,,2018
+Pascal Siakam,1627783,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2018
+Pascal Siakam,1627783,Alley Oop Layup,2,5,2,Running Alley Oop Layup Shot,LAYUPS,,2018
+Pascal Siakam,1627783,Standard Dunk,2,11,11,Running Dunk Shot,DUNKS,,2018
+Pascal Siakam,1627783,Finger Roll,2,3,1,Running Finger Roll Layup Shot,LAYUPS,,2018
+Pascal Siakam,1627783,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2018
+Pascal Siakam,1627783,Standard Layup,2,29,22,Running Layup Shot,LAYUPS,,2018
+Pascal Siakam,1627783,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2018
+Pascal Siakam,1627783,Specialty Dunk,2,1,0,Tip Dunk Shot,DUNKS,,2018
+Pascal Siakam,1627783,Putback Layup,2,14,9,Tip Layup Shot,LAYUPS,,2018
+Pascal Siakam,1627783,Turnaround Jump Shot,2,4,3,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2018
+Pascal Siakam,1627783,Turnaround Hook Shot,2,19,14,Turnaround Hook Shot,POST_MOVES,,2018
+Pascal Siakam,1627783,Turnaround Jump Shot,2,13,1,Turnaround Jump Shot,JUMP_SHOTS,,2018
+Pascal Siakam,1627783,Alley Oop Dunk,2,3,3,Alley Oop Dunk Shot,DUNKS,,2019
+Pascal Siakam,1627783,Alley Oop Layup,2,6,4,Alley Oop Layup shot,LAYUPS,,2019
+Pascal Siakam,1627783,Specialty Dunk,2,12,11,Cutting Dunk Shot,DUNKS,,2019
+Pascal Siakam,1627783,Finger Roll,2,6,4,Cutting Finger Roll Layup Shot,LAYUPS,,2019
+Pascal Siakam,1627783,Standard Layup,2,27,21,Cutting Layup Shot,LAYUPS,,2019
+Pascal Siakam,1627783,Driving Hook Shot,2,5,4,Driving Bank Hook Shot,POST_MOVES,,2019
+Pascal Siakam,1627783,Driving Dunk,2,6,5,Driving Dunk Shot,DUNKS,,2019
+Pascal Siakam,1627783,Finger Roll,2,43,25,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Pascal Siakam,1627783,Floating Jump Shot,2,23,15,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Pascal Siakam,1627783,Floating Jump Shot,2,43,22,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Pascal Siakam,1627783,Driving Hook Shot,2,26,7,Driving Hook Shot,POST_MOVES,,2019
+Pascal Siakam,1627783,Driving Layup,2,142,77,Driving Layup Shot,LAYUPS,,2019
+Pascal Siakam,1627783,Driving Layup,2,5,2,Driving Reverse Layup Shot,LAYUPS,,2019
+Pascal Siakam,1627783,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2019
+Pascal Siakam,1627783,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+Pascal Siakam,1627783,Finger Roll,2,3,2,Finger Roll Layup Shot,LAYUPS,,2019
+Pascal Siakam,1627783,Floating Jump Shot,2,26,12,Floating Jump shot,FLOATING_SHOTS,,2019
+Pascal Siakam,1627783,Hook Shot,2,3,1,Hook Bank Shot,POST_MOVES,,2019
+Pascal Siakam,1627783,Hook Shot,2,16,8,Hook Shot,POST_MOVES,,2019
+Pascal Siakam,1627783,Jump Shot,2,6,4,Jump Bank Shot,JUMP_SHOTS,,2019
+Pascal Siakam,1627783,Jump Shot,3,2,2,Jump Bank Shot,JUMP_SHOTS,,2019
+Pascal Siakam,1627783,Jump Shot,2,87,32,Jump Shot,JUMP_SHOTS,,2019
+Pascal Siakam,1627783,Jump Shot,3,137,49,Jump Shot,JUMP_SHOTS,,2019
+Pascal Siakam,1627783,Standard Layup,2,54,32,Layup Shot,LAYUPS,,2019
+Pascal Siakam,1627783,Pullup Jump Shot,2,8,2,Pullup Jump shot,JUMP_SHOTS,,2019
+Pascal Siakam,1627783,Pullup Jump Shot,3,2,0,Pullup Jump shot,JUMP_SHOTS,,2019
+Pascal Siakam,1627783,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2019
+Pascal Siakam,1627783,Putback Layup,2,12,8,Putback Layup Shot,LAYUPS,,2019
+Pascal Siakam,1627783,Reverse Layup,2,5,2,Reverse Layup Shot,LAYUPS,,2019
+Pascal Siakam,1627783,Alley Oop Layup,2,4,3,Running Alley Oop Layup Shot,LAYUPS,,2019
+Pascal Siakam,1627783,Standard Dunk,2,35,35,Running Dunk Shot,DUNKS,,2019
+Pascal Siakam,1627783,Finger Roll,2,13,11,Running Finger Roll Layup Shot,LAYUPS,,2019
+Pascal Siakam,1627783,Running Jump Shot,2,9,2,Running Jump Shot,JUMP_SHOTS,,2019
+Pascal Siakam,1627783,Running Jump Shot,3,4,3,Running Jump Shot,JUMP_SHOTS,,2019
+Pascal Siakam,1627783,Standard Layup,2,50,42,Running Layup Shot,LAYUPS,,2019
+Pascal Siakam,1627783,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2019
+Pascal Siakam,1627783,Step Back Jump Shot,2,4,1,Step Back Jump shot,JUMP_SHOTS,,2019
+Pascal Siakam,1627783,Putback Layup,2,22,13,Tip Layup Shot,LAYUPS,,2019
+Pascal Siakam,1627783,Turnaround Hook Shot,2,6,4,Turnaround Bank Hook Shot,POST_MOVES,,2019
+Pascal Siakam,1627783,Turnaround Jump Shot,2,13,5,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2019
+Pascal Siakam,1627783,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2019
+Pascal Siakam,1627783,Turnaround Hook Shot,2,35,22,Turnaround Hook Shot,POST_MOVES,,2019
+Pascal Siakam,1627783,Turnaround Jump Shot,2,34,17,Turnaround Jump Shot,JUMP_SHOTS,,2019
+Pascal Siakam,1627783,Alley Oop Dunk,2,3,3,Alley Oop Dunk Shot,DUNKS,,2020
+Pascal Siakam,1627783,Alley Oop Layup,2,8,7,Alley Oop Layup shot,LAYUPS,,2020
+Pascal Siakam,1627783,Specialty Dunk,2,11,11,Cutting Dunk Shot,DUNKS,,2020
+Pascal Siakam,1627783,Finger Roll,2,8,7,Cutting Finger Roll Layup Shot,LAYUPS,,2020
+Pascal Siakam,1627783,Standard Layup,2,15,9,Cutting Layup Shot,LAYUPS,,2020
+Pascal Siakam,1627783,Driving Hook Shot,2,3,1,Driving Bank Hook Shot,POST_MOVES,,2020
+Pascal Siakam,1627783,Driving Dunk,2,6,5,Driving Dunk Shot,DUNKS,,2020
+Pascal Siakam,1627783,Finger Roll,2,59,37,Driving Finger Roll Layup Shot,LAYUPS,,2020
+Pascal Siakam,1627783,Floating Jump Shot,2,16,8,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2020
+Pascal Siakam,1627783,Floating Jump Shot,2,39,14,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Pascal Siakam,1627783,Driving Hook Shot,2,15,5,Driving Hook Shot,POST_MOVES,,2020
+Pascal Siakam,1627783,Driving Layup,2,102,50,Driving Layup Shot,LAYUPS,,2020
+Pascal Siakam,1627783,Driving Layup,2,5,1,Driving Reverse Layup Shot,LAYUPS,,2020
+Pascal Siakam,1627783,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2020
+Pascal Siakam,1627783,Fadeaway Jump Shot,2,23,3,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+Pascal Siakam,1627783,Finger Roll,2,7,7,Finger Roll Layup Shot,LAYUPS,,2020
+Pascal Siakam,1627783,Floating Jump Shot,2,24,10,Floating Jump shot,FLOATING_SHOTS,,2020
+Pascal Siakam,1627783,Hook Shot,2,3,1,Hook Bank Shot,POST_MOVES,,2020
+Pascal Siakam,1627783,Hook Shot,2,13,4,Hook Shot,POST_MOVES,,2020
+Pascal Siakam,1627783,Jump Shot,2,3,1,Jump Bank Shot,JUMP_SHOTS,,2020
+Pascal Siakam,1627783,Jump Shot,2,197,76,Jump Shot,JUMP_SHOTS,,2020
+Pascal Siakam,1627783,Jump Shot,3,77,21,Jump Shot,JUMP_SHOTS,,2020
+Pascal Siakam,1627783,Standard Layup,2,45,27,Layup Shot,LAYUPS,,2020
+Pascal Siakam,1627783,Pullup Jump Shot,2,97,34,Pullup Jump shot,JUMP_SHOTS,,2020
+Pascal Siakam,1627783,Pullup Jump Shot,3,27,8,Pullup Jump shot,JUMP_SHOTS,,2020
+Pascal Siakam,1627783,Putback Layup,2,11,4,Putback Layup Shot,LAYUPS,,2020
+Pascal Siakam,1627783,Reverse Layup,2,5,3,Reverse Layup Shot,LAYUPS,,2020
+Pascal Siakam,1627783,Alley Oop Dunk,2,6,5,Running Alley Oop Dunk Shot,DUNKS,,2020
+Pascal Siakam,1627783,Alley Oop Layup,2,1,1,Running Alley Oop Layup Shot,LAYUPS,,2020
+Pascal Siakam,1627783,Standard Dunk,2,15,15,Running Dunk Shot,DUNKS,,2020
+Pascal Siakam,1627783,Finger Roll,2,14,11,Running Finger Roll Layup Shot,LAYUPS,,2020
+Pascal Siakam,1627783,Running Jump Shot,2,11,7,Running Jump Shot,JUMP_SHOTS,,2020
+Pascal Siakam,1627783,Running Jump Shot,3,5,2,Running Jump Shot,JUMP_SHOTS,,2020
+Pascal Siakam,1627783,Standard Layup,2,35,18,Running Layup Shot,LAYUPS,,2020
+Pascal Siakam,1627783,Running Jump Shot,2,6,3,Running Pull-Up Jump Shot,JUMP_SHOTS,,2020
+Pascal Siakam,1627783,Running Jump Shot,3,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2020
+Pascal Siakam,1627783,Step Back Jump Shot,2,47,14,Step Back Jump shot,JUMP_SHOTS,,2020
+Pascal Siakam,1627783,Step Back Jump Shot,3,6,4,Step Back Jump shot,JUMP_SHOTS,,2020
+Pascal Siakam,1627783,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2020
+Pascal Siakam,1627783,Putback Layup,2,12,7,Tip Layup Shot,LAYUPS,,2020
+Pascal Siakam,1627783,Turnaround Hook Shot,2,9,6,Turnaround Bank Hook Shot,POST_MOVES,,2020
+Pascal Siakam,1627783,Turnaround Jump Shot,2,7,5,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2020
+Pascal Siakam,1627783,Turnaround Jump Shot,2,33,13,Turnaround Fadeaway shot,JUMP_SHOTS,,2020
+Pascal Siakam,1627783,Turnaround Hook Shot,2,35,17,Turnaround Hook Shot,POST_MOVES,,2020
+Pascal Siakam,1627783,Turnaround Jump Shot,2,37,12,Turnaround Jump Shot,JUMP_SHOTS,,2020
+Pascal Siakam,1627783,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2021
+Pascal Siakam,1627783,Specialty Dunk,2,12,11,Cutting Dunk Shot,DUNKS,,2021
+Pascal Siakam,1627783,Standard Layup,2,15,10,Cutting Layup Shot,LAYUPS,,2021
+Pascal Siakam,1627783,Driving Dunk,2,7,6,Driving Dunk Shot,DUNKS,,2021
+Pascal Siakam,1627783,Finger Roll,2,39,25,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Pascal Siakam,1627783,Floating Jump Shot,2,10,7,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2021
+Pascal Siakam,1627783,Floating Jump Shot,2,36,13,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Pascal Siakam,1627783,Driving Hook Shot,2,17,12,Driving Hook Shot,POST_MOVES,,2021
+Pascal Siakam,1627783,Driving Layup,2,168,83,Driving Layup Shot,LAYUPS,,2021
+Pascal Siakam,1627783,Driving Layup,2,3,3,Driving Reverse Layup Shot,LAYUPS,,2021
+Pascal Siakam,1627783,Standard Dunk,2,5,5,Dunk Shot,DUNKS,,2021
+Pascal Siakam,1627783,Fadeaway Jump Shot,2,17,6,Fadeaway Jump Shot,JUMP_SHOTS,,2021
+Pascal Siakam,1627783,Finger Roll,2,3,3,Finger Roll Layup Shot,LAYUPS,,2021
+Pascal Siakam,1627783,Floating Jump Shot,2,32,15,Floating Jump shot,FLOATING_SHOTS,,2021
+Pascal Siakam,1627783,Hook Shot,2,18,10,Hook Shot,POST_MOVES,,2021
+Pascal Siakam,1627783,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2021
+Pascal Siakam,1627783,Jump Shot,2,160,49,Jump Shot,JUMP_SHOTS,,2021
+Pascal Siakam,1627783,Jump Shot,3,98,30,Jump Shot,JUMP_SHOTS,,2021
+Pascal Siakam,1627783,Standard Layup,2,39,15,Layup Shot,LAYUPS,,2021
+Pascal Siakam,1627783,Pullup Jump Shot,2,51,16,Pullup Jump shot,JUMP_SHOTS,,2021
+Pascal Siakam,1627783,Pullup Jump Shot,3,7,2,Pullup Jump shot,JUMP_SHOTS,,2021
+Pascal Siakam,1627783,Putback Layup,2,10,9,Putback Layup Shot,LAYUPS,,2021
+Pascal Siakam,1627783,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2021
+Pascal Siakam,1627783,Reverse Layup,2,5,2,Reverse Layup Shot,LAYUPS,,2021
+Pascal Siakam,1627783,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2021
+Pascal Siakam,1627783,Alley Oop Layup,2,1,0,Running Alley Oop Layup Shot,LAYUPS,,2021
+Pascal Siakam,1627783,Standard Dunk,2,8,7,Running Dunk Shot,DUNKS,,2021
+Pascal Siakam,1627783,Finger Roll,2,3,2,Running Finger Roll Layup Shot,LAYUPS,,2021
+Pascal Siakam,1627783,Running Jump Shot,2,4,2,Running Jump Shot,JUMP_SHOTS,,2021
+Pascal Siakam,1627783,Running Jump Shot,3,2,1,Running Jump Shot,JUMP_SHOTS,,2021
+Pascal Siakam,1627783,Standard Layup,2,36,22,Running Layup Shot,LAYUPS,,2021
+Pascal Siakam,1627783,Running Jump Shot,2,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2021
+Pascal Siakam,1627783,Step Back Jump Shot,2,38,18,Step Back Jump shot,JUMP_SHOTS,,2021
+Pascal Siakam,1627783,Step Back Jump Shot,3,2,1,Step Back Jump shot,JUMP_SHOTS,,2021
+Pascal Siakam,1627783,Specialty Dunk,2,4,4,Tip Dunk Shot,DUNKS,,2021
+Pascal Siakam,1627783,Putback Layup,2,15,9,Tip Layup Shot,LAYUPS,,2021
+Pascal Siakam,1627783,Turnaround Jump Shot,2,6,3,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2021
+Pascal Siakam,1627783,Turnaround Jump Shot,2,26,5,Turnaround Fadeaway shot,JUMP_SHOTS,,2021
+Pascal Siakam,1627783,Turnaround Hook Shot,2,29,19,Turnaround Hook Shot,POST_MOVES,,2021
+Pascal Siakam,1627783,Turnaround Jump Shot,2,30,9,Turnaround Jump Shot,JUMP_SHOTS,,2021
+Pascal Siakam,1627783,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2022
+Pascal Siakam,1627783,Alley Oop Layup,2,2,0,Alley Oop Layup shot,LAYUPS,,2022
+Pascal Siakam,1627783,Specialty Dunk,2,10,10,Cutting Dunk Shot,DUNKS,,2022
+Pascal Siakam,1627783,Finger Roll,2,4,1,Cutting Finger Roll Layup Shot,LAYUPS,,2022
+Pascal Siakam,1627783,Standard Layup,2,15,11,Cutting Layup Shot,LAYUPS,,2022
+Pascal Siakam,1627783,Driving Hook Shot,2,8,5,Driving Bank Hook Shot,POST_MOVES,,2022
+Pascal Siakam,1627783,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2022
+Pascal Siakam,1627783,Finger Roll,2,43,32,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Pascal Siakam,1627783,Floating Jump Shot,2,23,13,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Pascal Siakam,1627783,Floating Jump Shot,2,84,34,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Pascal Siakam,1627783,Driving Hook Shot,2,24,11,Driving Hook Shot,POST_MOVES,,2022
+Pascal Siakam,1627783,Driving Layup,2,122,68,Driving Layup Shot,LAYUPS,,2022
+Pascal Siakam,1627783,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2022
+Pascal Siakam,1627783,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2022
+Pascal Siakam,1627783,Fadeaway Jump Shot,2,37,16,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Pascal Siakam,1627783,Finger Roll,2,13,9,Finger Roll Layup Shot,LAYUPS,,2022
+Pascal Siakam,1627783,Floating Jump Shot,2,28,15,Floating Jump shot,FLOATING_SHOTS,,2022
+Pascal Siakam,1627783,Hook Shot,2,4,3,Hook Bank Shot,POST_MOVES,,2022
+Pascal Siakam,1627783,Hook Shot,2,17,9,Hook Shot,POST_MOVES,,2022
+Pascal Siakam,1627783,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2022
+Pascal Siakam,1627783,Jump Shot,2,50,20,Jump Shot,JUMP_SHOTS,,2022
+Pascal Siakam,1627783,Jump Shot,3,179,62,Jump Shot,JUMP_SHOTS,,2022
+Pascal Siakam,1627783,Standard Layup,2,53,25,Layup Shot,LAYUPS,,2022
+Pascal Siakam,1627783,Pullup Jump Shot,2,81,32,Pullup Jump shot,JUMP_SHOTS,,2022
+Pascal Siakam,1627783,Pullup Jump Shot,3,23,7,Pullup Jump shot,JUMP_SHOTS,,2022
+Pascal Siakam,1627783,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2022
+Pascal Siakam,1627783,Putback Layup,2,15,10,Putback Layup Shot,LAYUPS,,2022
+Pascal Siakam,1627783,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2022
+Pascal Siakam,1627783,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2022
+Pascal Siakam,1627783,Alley Oop Layup,2,4,3,Running Alley Oop Layup Shot,LAYUPS,,2022
+Pascal Siakam,1627783,Standard Dunk,2,13,13,Running Dunk Shot,DUNKS,,2022
+Pascal Siakam,1627783,Finger Roll,2,14,12,Running Finger Roll Layup Shot,LAYUPS,,2022
+Pascal Siakam,1627783,Running Jump Shot,2,6,4,Running Jump Shot,JUMP_SHOTS,,2022
+Pascal Siakam,1627783,Running Jump Shot,3,8,3,Running Jump Shot,JUMP_SHOTS,,2022
+Pascal Siakam,1627783,Standard Layup,2,44,30,Running Layup Shot,LAYUPS,,2022
+Pascal Siakam,1627783,Running Jump Shot,2,3,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
+Pascal Siakam,1627783,Running Jump Shot,3,3,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
+Pascal Siakam,1627783,Step Back Jump Shot,2,82,36,Step Back Jump shot,JUMP_SHOTS,,2022
+Pascal Siakam,1627783,Step Back Jump Shot,3,5,1,Step Back Jump shot,JUMP_SHOTS,,2022
+Pascal Siakam,1627783,Putback Layup,2,29,13,Tip Layup Shot,LAYUPS,,2022
+Pascal Siakam,1627783,Turnaround Hook Shot,2,6,4,Turnaround Bank Hook Shot,POST_MOVES,,2022
+Pascal Siakam,1627783,Turnaround Jump Shot,2,7,5,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2022
+Pascal Siakam,1627783,Turnaround Jump Shot,2,52,23,Turnaround Fadeaway shot,JUMP_SHOTS,,2022
+Pascal Siakam,1627783,Turnaround Hook Shot,2,44,27,Turnaround Hook Shot,POST_MOVES,,2022
+Pascal Siakam,1627783,Turnaround Jump Shot,2,38,16,Turnaround Jump Shot,JUMP_SHOTS,,2022
+Pascal Siakam,1627783,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2023
+Pascal Siakam,1627783,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2023
+Pascal Siakam,1627783,Specialty Dunk,2,9,9,Cutting Dunk Shot,DUNKS,,2023
+Pascal Siakam,1627783,Finger Roll,2,6,5,Cutting Finger Roll Layup Shot,LAYUPS,,2023
+Pascal Siakam,1627783,Standard Layup,2,18,13,Cutting Layup Shot,LAYUPS,,2023
+Pascal Siakam,1627783,Driving Hook Shot,2,12,5,Driving Bank Hook Shot,POST_MOVES,,2023
+Pascal Siakam,1627783,Driving Dunk,2,7,6,Driving Dunk Shot,DUNKS,,2023
+Pascal Siakam,1627783,Finger Roll,2,58,36,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Pascal Siakam,1627783,Floating Jump Shot,2,24,11,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+Pascal Siakam,1627783,Floating Jump Shot,2,75,31,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Pascal Siakam,1627783,Driving Hook Shot,2,29,11,Driving Hook Shot,POST_MOVES,,2023
+Pascal Siakam,1627783,Driving Layup,2,85,45,Driving Layup Shot,LAYUPS,,2023
+Pascal Siakam,1627783,Driving Layup,2,4,3,Driving Reverse Layup Shot,LAYUPS,,2023
+Pascal Siakam,1627783,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2023
+Pascal Siakam,1627783,Fadeaway Jump Shot,2,2,0,Fadeaway Bank shot,JUMP_SHOTS,,2023
+Pascal Siakam,1627783,Fadeaway Jump Shot,2,62,25,Fadeaway Jump Shot,JUMP_SHOTS,,2023
+Pascal Siakam,1627783,Finger Roll,2,5,3,Finger Roll Layup Shot,LAYUPS,,2023
+Pascal Siakam,1627783,Floating Jump Shot,2,22,8,Floating Jump shot,FLOATING_SHOTS,,2023
+Pascal Siakam,1627783,Hook Shot,2,22,9,Hook Shot,POST_MOVES,,2023
+Pascal Siakam,1627783,Jump Shot,2,2,0,Jump Bank Shot,JUMP_SHOTS,,2023
+Pascal Siakam,1627783,Jump Shot,2,94,26,Jump Shot,JUMP_SHOTS,,2023
+Pascal Siakam,1627783,Jump Shot,3,148,53,Jump Shot,JUMP_SHOTS,,2023
+Pascal Siakam,1627783,Standard Layup,2,35,26,Layup Shot,LAYUPS,,2023
+Pascal Siakam,1627783,Pullup Jump Shot,2,109,47,Pullup Jump shot,JUMP_SHOTS,,2023
+Pascal Siakam,1627783,Pullup Jump Shot,3,40,14,Pullup Jump shot,JUMP_SHOTS,,2023
+Pascal Siakam,1627783,Putback Layup,2,27,23,Putback Layup Shot,LAYUPS,,2023
+Pascal Siakam,1627783,Reverse Layup,2,3,0,Reverse Layup Shot,LAYUPS,,2023
+Pascal Siakam,1627783,Standard Dunk,2,15,15,Running Dunk Shot,DUNKS,,2023
+Pascal Siakam,1627783,Finger Roll,2,16,12,Running Finger Roll Layup Shot,LAYUPS,,2023
+Pascal Siakam,1627783,Running Jump Shot,2,11,7,Running Jump Shot,JUMP_SHOTS,,2023
+Pascal Siakam,1627783,Running Jump Shot,3,10,2,Running Jump Shot,JUMP_SHOTS,,2023
+Pascal Siakam,1627783,Standard Layup,2,58,42,Running Layup Shot,LAYUPS,,2023
+Pascal Siakam,1627783,Running Jump Shot,2,6,3,Running Pull-Up Jump Shot,JUMP_SHOTS,,2023
+Pascal Siakam,1627783,Running Jump Shot,3,3,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2023
+Pascal Siakam,1627783,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2023
+Pascal Siakam,1627783,Step Back Jump Shot,2,108,53,Step Back Jump shot,JUMP_SHOTS,,2023
+Pascal Siakam,1627783,Step Back Jump Shot,3,7,2,Step Back Jump shot,JUMP_SHOTS,,2023
+Pascal Siakam,1627783,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2023
+Pascal Siakam,1627783,Putback Layup,2,35,17,Tip Layup Shot,LAYUPS,,2023
+Pascal Siakam,1627783,Turnaround Hook Shot,2,7,4,Turnaround Bank Hook Shot,POST_MOVES,,2023
+Pascal Siakam,1627783,Turnaround Jump Shot,2,11,7,Turnaround Bank shot,JUMP_SHOTS,,2023
+Pascal Siakam,1627783,Turnaround Jump Shot,2,4,3,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2023
+Pascal Siakam,1627783,Turnaround Jump Shot,2,45,16,Turnaround Fadeaway shot,JUMP_SHOTS,,2023
+Pascal Siakam,1627783,Turnaround Hook Shot,2,34,15,Turnaround Hook Shot,POST_MOVES,,2023
+Pascal Siakam,1627783,Turnaround Jump Shot,2,40,18,Turnaround Jump Shot,JUMP_SHOTS,,2023
+Pascal Siakam,1627783,Alley Oop Dunk,2,5,5,Alley Oop Dunk Shot,DUNKS,,2024
+Pascal Siakam,1627783,Alley Oop Layup,2,4,3,Alley Oop Layup shot,LAYUPS,,2024
+Pascal Siakam,1627783,Specialty Dunk,2,9,9,Cutting Dunk Shot,DUNKS,,2024
+Pascal Siakam,1627783,Finger Roll,2,9,6,Cutting Finger Roll Layup Shot,LAYUPS,,2024
+Pascal Siakam,1627783,Standard Layup,2,18,14,Cutting Layup Shot,LAYUPS,,2024
+Pascal Siakam,1627783,Driving Hook Shot,2,2,2,Driving Bank Hook Shot,POST_MOVES,,2024
+Pascal Siakam,1627783,Driving Dunk,2,5,3,Driving Dunk Shot,DUNKS,,2024
+Pascal Siakam,1627783,Finger Roll,2,97,52,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Pascal Siakam,1627783,Floating Jump Shot,2,27,12,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Pascal Siakam,1627783,Floating Jump Shot,2,48,14,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Pascal Siakam,1627783,Driving Hook Shot,2,15,9,Driving Hook Shot,POST_MOVES,,2024
+Pascal Siakam,1627783,Driving Layup,2,150,90,Driving Layup Shot,LAYUPS,,2024
+Pascal Siakam,1627783,Driving Layup,2,6,3,Driving Reverse Layup Shot,LAYUPS,,2024
+Pascal Siakam,1627783,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2024
+Pascal Siakam,1627783,Fadeaway Jump Shot,2,2,1,Fadeaway Bank shot,JUMP_SHOTS,,2024
+Pascal Siakam,1627783,Fadeaway Jump Shot,2,40,19,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Pascal Siakam,1627783,Fadeaway Jump Shot,3,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Pascal Siakam,1627783,Finger Roll,2,14,10,Finger Roll Layup Shot,LAYUPS,,2024
+Pascal Siakam,1627783,Floating Jump Shot,2,11,6,Floating Jump shot,FLOATING_SHOTS,,2024
+Pascal Siakam,1627783,Hook Shot,2,9,6,Hook Shot,POST_MOVES,,2024
+Pascal Siakam,1627783,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2024
+Pascal Siakam,1627783,Jump Shot,3,2,0,Jump Bank Shot,JUMP_SHOTS,,2024
+Pascal Siakam,1627783,Jump Shot,2,23,11,Jump Shot,JUMP_SHOTS,,2024
+Pascal Siakam,1627783,Jump Shot,3,212,76,Jump Shot,JUMP_SHOTS,,2024
+Pascal Siakam,1627783,Standard Layup,2,54,39,Layup Shot,LAYUPS,,2024
+Pascal Siakam,1627783,Pullup Jump Shot,2,73,29,Pullup Jump shot,JUMP_SHOTS,,2024
+Pascal Siakam,1627783,Pullup Jump Shot,3,12,2,Pullup Jump shot,JUMP_SHOTS,,2024
+Pascal Siakam,1627783,Putback Layup,2,42,36,Putback Layup Shot,LAYUPS,,2024
+Pascal Siakam,1627783,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2024
+Pascal Siakam,1627783,Alley Oop Dunk,2,2,2,Running Alley Oop Dunk Shot,DUNKS,,2024
+Pascal Siakam,1627783,Alley Oop Layup,2,1,1,Running Alley Oop Layup Shot,LAYUPS,,2024
+Pascal Siakam,1627783,Standard Dunk,2,17,17,Running Dunk Shot,DUNKS,,2024
+Pascal Siakam,1627783,Finger Roll,2,29,26,Running Finger Roll Layup Shot,LAYUPS,,2024
+Pascal Siakam,1627783,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,2024
+Pascal Siakam,1627783,Running Jump Shot,3,16,6,Running Jump Shot,JUMP_SHOTS,,2024
+Pascal Siakam,1627783,Standard Layup,2,64,39,Running Layup Shot,LAYUPS,,2024
+Pascal Siakam,1627783,Running Jump Shot,2,3,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Pascal Siakam,1627783,Running Jump Shot,3,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Pascal Siakam,1627783,Step Back Jump Shot,2,47,28,Step Back Jump shot,JUMP_SHOTS,,2024
+Pascal Siakam,1627783,Step Back Jump Shot,3,2,1,Step Back Jump shot,JUMP_SHOTS,,2024
+Pascal Siakam,1627783,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2024
+Pascal Siakam,1627783,Putback Layup,2,36,17,Tip Layup Shot,LAYUPS,,2024
+Pascal Siakam,1627783,Turnaround Hook Shot,2,7,4,Turnaround Bank Hook Shot,POST_MOVES,,2024
+Pascal Siakam,1627783,Turnaround Jump Shot,2,16,7,Turnaround Bank shot,JUMP_SHOTS,,2024
+Pascal Siakam,1627783,Turnaround Jump Shot,2,3,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2024
+Pascal Siakam,1627783,Turnaround Jump Shot,2,59,31,Turnaround Fadeaway shot,JUMP_SHOTS,,2024
+Pascal Siakam,1627783,Turnaround Hook Shot,2,20,10,Turnaround Hook Shot,POST_MOVES,,2024
+Pascal Siakam,1627783,Turnaround Jump Shot,2,48,24,Turnaround Jump Shot,JUMP_SHOTS,,2024
+Pascal Siakam,1627783,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2025
+Pascal Siakam,1627783,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2025
+Pascal Siakam,1627783,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2025
+Pascal Siakam,1627783,Finger Roll,2,2,2,Cutting Finger Roll Layup Shot,LAYUPS,,2025
+Pascal Siakam,1627783,Standard Layup,2,14,12,Cutting Layup Shot,LAYUPS,,2025
+Pascal Siakam,1627783,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2025
+Pascal Siakam,1627783,Finger Roll,2,13,6,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Pascal Siakam,1627783,Floating Jump Shot,2,7,6,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2025
+Pascal Siakam,1627783,Floating Jump Shot,2,23,10,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Pascal Siakam,1627783,Driving Hook Shot,2,4,2,Driving Hook Shot,POST_MOVES,,2025
+Pascal Siakam,1627783,Driving Layup,2,35,18,Driving Layup Shot,LAYUPS,,2025
+Pascal Siakam,1627783,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2025
+Pascal Siakam,1627783,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2025
+Pascal Siakam,1627783,Fadeaway Jump Shot,2,1,0,Fadeaway Bank shot,JUMP_SHOTS,,2025
+Pascal Siakam,1627783,Fadeaway Jump Shot,2,22,9,Fadeaway Jump Shot,JUMP_SHOTS,,2025
+Pascal Siakam,1627783,Finger Roll,2,6,6,Finger Roll Layup Shot,LAYUPS,,2025
+Pascal Siakam,1627783,Floating Jump Shot,2,5,2,Floating Jump shot,FLOATING_SHOTS,,2025
+Pascal Siakam,1627783,Hook Shot,2,3,3,Hook Shot,POST_MOVES,,2025
+Pascal Siakam,1627783,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2025
+Pascal Siakam,1627783,Jump Shot,3,3,1,Jump Bank Shot,JUMP_SHOTS,,2025
+Pascal Siakam,1627783,Jump Shot,2,38,20,Jump Shot,JUMP_SHOTS,,2025
+Pascal Siakam,1627783,Jump Shot,3,161,68,Jump Shot,JUMP_SHOTS,,2025
+Pascal Siakam,1627783,Standard Layup,2,30,18,Layup Shot,LAYUPS,,2025
+Pascal Siakam,1627783,Pullup Jump Shot,2,34,12,Pullup Jump shot,JUMP_SHOTS,,2025
+Pascal Siakam,1627783,Pullup Jump Shot,3,7,4,Pullup Jump shot,JUMP_SHOTS,,2025
+Pascal Siakam,1627783,Putback Layup,2,11,6,Putback Layup Shot,LAYUPS,,2025
+Pascal Siakam,1627783,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2025
+Pascal Siakam,1627783,Standard Dunk,2,10,10,Running Dunk Shot,DUNKS,,2025
+Pascal Siakam,1627783,Finger Roll,2,10,7,Running Finger Roll Layup Shot,LAYUPS,,2025
+Pascal Siakam,1627783,Running Jump Shot,2,3,1,Running Jump Shot,JUMP_SHOTS,,2025
+Pascal Siakam,1627783,Running Jump Shot,3,9,2,Running Jump Shot,JUMP_SHOTS,,2025
+Pascal Siakam,1627783,Standard Layup,2,28,20,Running Layup Shot,LAYUPS,,2025
+Pascal Siakam,1627783,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025
+Pascal Siakam,1627783,Running Jump Shot,3,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025
+Pascal Siakam,1627783,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2025
+Pascal Siakam,1627783,Step Back Jump Shot,2,13,5,Step Back Jump shot,JUMP_SHOTS,,2025
+Pascal Siakam,1627783,Specialty Dunk,2,1,0,Tip Dunk Shot,DUNKS,,2025
+Pascal Siakam,1627783,Putback Layup,2,16,10,Tip Layup Shot,LAYUPS,,2025
+Pascal Siakam,1627783,Turnaround Hook Shot,2,1,1,Turnaround Bank Hook Shot,POST_MOVES,,2025
+Pascal Siakam,1627783,Turnaround Jump Shot,2,4,3,Turnaround Bank shot,JUMP_SHOTS,,2025
+Pascal Siakam,1627783,Turnaround Jump Shot,2,3,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2025
+Pascal Siakam,1627783,Turnaround Jump Shot,2,38,22,Turnaround Fadeaway shot,JUMP_SHOTS,,2025
+Pascal Siakam,1627783,Turnaround Hook Shot,2,7,4,Turnaround Hook Shot,POST_MOVES,,2025
+Pascal Siakam,1627783,Turnaround Jump Shot,2,30,14,Turnaround Jump Shot,JUMP_SHOTS,,2025

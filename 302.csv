@@ -1,17 +1,42 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-302,Driving Layup,2PT Field Goal,8,7,Driving Layup Shot,LAYUPS,0.875,1997
-302,Jump Shot,2PT Field Goal,17,5,Jump Shot,JUMP_SHOTS,0.2941176470588235,1997
-302,Jump Shot,3PT Field Goal,52,18,Jump Shot,JUMP_SHOTS,0.5192307692307693,1997
-302,Standard Layup,2PT Field Goal,15,7,Layup Shot,LAYUPS,0.4666666666666667,1997
-302,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,1997
-302,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,1997
-302,Driving Layup,2PT Field Goal,10,6,Driving Layup Shot,LAYUPS,0.6,1998
-302,Jump Shot,2PT Field Goal,24,9,Jump Shot,JUMP_SHOTS,0.375,1998
-302,Jump Shot,3PT Field Goal,18,5,Jump Shot,JUMP_SHOTS,0.4166666666666667,1998
-302,Standard Layup,2PT Field Goal,7,2,Layup Shot,LAYUPS,0.2857142857142857,1998
-302,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,1998
-302,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1999
-302,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1999
-302,Jump Shot,2PT Field Goal,8,3,Jump Shot,JUMP_SHOTS,0.375,2000
-302,Jump Shot,3PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.5,2000
-302,Standard Layup,2PT Field Goal,2,0,Layup Shot,LAYUPS,0.0,2000
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Mookie Blaylock,302,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,1997
+Mookie Blaylock,302,Driving Layup,2,76,64,Driving Layup Shot,LAYUPS,,1997
+Mookie Blaylock,302,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,1997
+Mookie Blaylock,302,Jump Shot,2,802,304,Jump Shot,JUMP_SHOTS,,1997
+Mookie Blaylock,302,Jump Shot,3,82,35,Jump Shot,JUMP_SHOTS,,1997
+Mookie Blaylock,302,Standard Layup,2,174,84,Layup Shot,LAYUPS,,1997
+Mookie Blaylock,302,Running Jump Shot,2,11,8,Running Jump Shot,JUMP_SHOTS,,1997
+Mookie Blaylock,302,Tip Shot,2,11,4,Tip Shot,TIP_SHOTS,,1997
+Mookie Blaylock,302,Driving Layup,2,110,86,Driving Layup Shot,LAYUPS,,1998
+Mookie Blaylock,302,Jump Shot,2,662,208,Jump Shot,JUMP_SHOTS,,1998
+Mookie Blaylock,302,Jump Shot,3,47,15,Jump Shot,JUMP_SHOTS,,1998
+Mookie Blaylock,302,Standard Layup,2,99,48,Layup Shot,LAYUPS,,1998
+Mookie Blaylock,302,Running Jump Shot,2,13,6,Running Jump Shot,JUMP_SHOTS,,1998
+Mookie Blaylock,302,Tip Shot,2,7,5,Tip Shot,TIP_SHOTS,,1998
+Mookie Blaylock,302,Driving Layup,2,47,28,Driving Layup Shot,LAYUPS,,1999
+Mookie Blaylock,302,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,1999
+Mookie Blaylock,302,Jump Shot,2,527,174,Jump Shot,JUMP_SHOTS,,1999
+Mookie Blaylock,302,Jump Shot,3,4,3,Jump Shot,JUMP_SHOTS,,1999
+Mookie Blaylock,302,Standard Layup,2,57,32,Layup Shot,LAYUPS,,1999
+Mookie Blaylock,302,Running Jump Shot,2,12,6,Running Jump Shot,JUMP_SHOTS,,1999
+Mookie Blaylock,302,Tip Shot,2,3,3,Tip Shot,TIP_SHOTS,,1999
+Mookie Blaylock,302,Driving Layup,2,48,34,Driving Layup Shot,LAYUPS,,2000
+Mookie Blaylock,302,Jump Shot,2,704,245,Jump Shot,JUMP_SHOTS,,2000
+Mookie Blaylock,302,Jump Shot,3,4,1,Jump Shot,JUMP_SHOTS,,2000
+Mookie Blaylock,302,Standard Layup,2,52,32,Layup Shot,LAYUPS,,2000
+Mookie Blaylock,302,Running Jump Shot,2,28,15,Running Jump Shot,JUMP_SHOTS,,2000
+Mookie Blaylock,302,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2000
+Mookie Blaylock,302,Driving Layup,2,60,40,Driving Layup Shot,LAYUPS,,2001
+Mookie Blaylock,302,Finger Roll,2,1,0,Finger Roll Shot,LAYUPS,,2001
+Mookie Blaylock,302,Jump Shot,2,650,229,Jump Shot,JUMP_SHOTS,,2001
+Mookie Blaylock,302,Standard Layup,2,56,32,Layup Shot,LAYUPS,,2001
+Mookie Blaylock,302,Reverse Layup,2,6,4,Reverse Layup Shot,LAYUPS,,2001
+Mookie Blaylock,302,Running Jump Shot,2,19,8,Running Jump Shot,JUMP_SHOTS,,2001
+Mookie Blaylock,302,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2001
+Mookie Blaylock,302,Tip Shot,2,5,0,Tip Shot,TIP_SHOTS,,2001
+Mookie Blaylock,302,Turnaround Jump Shot,2,3,3,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Mookie Blaylock,302,Driving Layup,2,9,5,Driving Layup Shot,LAYUPS,,2002
+Mookie Blaylock,302,Finger Roll,2,1,0,Finger Roll Shot,LAYUPS,,2002
+Mookie Blaylock,302,Jump Shot,2,125,38,Jump Shot,JUMP_SHOTS,,2002
+Mookie Blaylock,302,Standard Layup,2,10,6,Layup Shot,LAYUPS,,2002
+Mookie Blaylock,302,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2002

@@ -1,15 +1,128 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1629162,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2023
-1629162,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2023
-1629162,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2024
-1629162,Driving Layup,2PT Field Goal,2,0,Driving Layup Shot,LAYUPS,0.0,2024
-1629162,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2024
-1629162,Jump Shot,3PT Field Goal,19,11,Jump Shot,JUMP_SHOTS,0.868421052631579,2024
-1629162,Pullup Jump Shot,3PT Field Goal,2,2,Pullup Jump shot,JUMP_SHOTS,1.5,2024
-1629162,Running Jump Shot,3PT Field Goal,2,0,Running Jump Shot,JUMP_SHOTS,0.0,2024
-1629162,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2024
-1629162,Reverse Layup,2PT Field Goal,1,1,Running Reverse Layup Shot,LAYUPS,1.0,2024
-1629162,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2025
-1629162,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2025
-1629162,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2025
-1629162,Running Jump Shot,3PT Field Goal,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,1.5,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Jordan McLaughlin,1629162,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2020
+Jordan McLaughlin,1629162,Driving Dunk,2,6,5,Driving Dunk Shot,DUNKS,,2020
+Jordan McLaughlin,1629162,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2020
+Jordan McLaughlin,1629162,Floating Jump Shot,2,3,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2020
+Jordan McLaughlin,1629162,Floating Jump Shot,2,6,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Jordan McLaughlin,1629162,Driving Layup,2,55,33,Driving Layup Shot,LAYUPS,,2020
+Jordan McLaughlin,1629162,Reverse Dunk,2,1,1,Driving Reverse Dunk Shot,DUNKS,,2020
+Jordan McLaughlin,1629162,Driving Layup,2,7,2,Driving Reverse Layup Shot,LAYUPS,,2020
+Jordan McLaughlin,1629162,Floating Jump Shot,2,6,2,Floating Jump shot,FLOATING_SHOTS,,2020
+Jordan McLaughlin,1629162,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2020
+Jordan McLaughlin,1629162,Jump Shot,2,3,0,Jump Bank Shot,JUMP_SHOTS,,2020
+Jordan McLaughlin,1629162,Jump Shot,2,51,23,Jump Shot,JUMP_SHOTS,,2020
+Jordan McLaughlin,1629162,Jump Shot,3,3,1,Jump Shot,JUMP_SHOTS,,2020
+Jordan McLaughlin,1629162,Standard Layup,2,4,1,Layup Shot,LAYUPS,,2020
+Jordan McLaughlin,1629162,Pullup Jump Shot,2,9,3,Pullup Jump shot,JUMP_SHOTS,,2020
+Jordan McLaughlin,1629162,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2020
+Jordan McLaughlin,1629162,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2020
+Jordan McLaughlin,1629162,Running Jump Shot,2,4,1,Running Jump Shot,JUMP_SHOTS,,2020
+Jordan McLaughlin,1629162,Standard Layup,2,5,3,Running Layup Shot,LAYUPS,,2020
+Jordan McLaughlin,1629162,Running Jump Shot,2,3,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2020
+Jordan McLaughlin,1629162,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2020
+Jordan McLaughlin,1629162,Step Back Jump Shot,2,4,2,Step Back Jump shot,JUMP_SHOTS,,2020
+Jordan McLaughlin,1629162,Putback Layup,2,1,1,Tip Layup Shot,LAYUPS,,2020
+Jordan McLaughlin,1629162,Specialty Dunk,2,3,2,Cutting Dunk Shot,DUNKS,,2021
+Jordan McLaughlin,1629162,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2021
+Jordan McLaughlin,1629162,Standard Layup,2,6,4,Cutting Layup Shot,LAYUPS,,2021
+Jordan McLaughlin,1629162,Driving Hook Shot,2,1,0,Driving Bank Hook Shot,POST_MOVES,,2021
+Jordan McLaughlin,1629162,Driving Dunk,2,2,1,Driving Dunk Shot,DUNKS,,2021
+Jordan McLaughlin,1629162,Finger Roll,2,8,3,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Jordan McLaughlin,1629162,Floating Jump Shot,2,16,7,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2021
+Jordan McLaughlin,1629162,Floating Jump Shot,2,20,9,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Jordan McLaughlin,1629162,Driving Layup,2,46,14,Driving Layup Shot,LAYUPS,,2021
+Jordan McLaughlin,1629162,Driving Layup,2,8,7,Driving Reverse Layup Shot,LAYUPS,,2021
+Jordan McLaughlin,1629162,Floating Jump Shot,2,5,0,Floating Jump shot,FLOATING_SHOTS,,2021
+Jordan McLaughlin,1629162,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2021
+Jordan McLaughlin,1629162,Jump Shot,2,69,24,Jump Shot,JUMP_SHOTS,,2021
+Jordan McLaughlin,1629162,Jump Shot,3,3,1,Jump Shot,JUMP_SHOTS,,2021
+Jordan McLaughlin,1629162,Standard Layup,2,5,0,Layup Shot,LAYUPS,,2021
+Jordan McLaughlin,1629162,Pullup Jump Shot,2,11,4,Pullup Jump shot,JUMP_SHOTS,,2021
+Jordan McLaughlin,1629162,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2021
+Jordan McLaughlin,1629162,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2021
+Jordan McLaughlin,1629162,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2021
+Jordan McLaughlin,1629162,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2021
+Jordan McLaughlin,1629162,Finger Roll,2,3,2,Running Finger Roll Layup Shot,LAYUPS,,2021
+Jordan McLaughlin,1629162,Running Jump Shot,2,4,3,Running Jump Shot,JUMP_SHOTS,,2021
+Jordan McLaughlin,1629162,Standard Layup,2,16,12,Running Layup Shot,LAYUPS,,2021
+Jordan McLaughlin,1629162,Running Jump Shot,2,2,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2021
+Jordan McLaughlin,1629162,Running Jump Shot,3,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2021
+Jordan McLaughlin,1629162,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2021
+Jordan McLaughlin,1629162,Step Back Jump Shot,2,3,0,Step Back Jump shot,JUMP_SHOTS,,2021
+Jordan McLaughlin,1629162,Step Back Jump Shot,3,1,1,Step Back Jump shot,JUMP_SHOTS,,2021
+Jordan McLaughlin,1629162,Putback Layup,2,2,1,Tip Layup Shot,LAYUPS,,2021
+Jordan McLaughlin,1629162,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2022
+Jordan McLaughlin,1629162,Finger Roll,2,3,2,Cutting Finger Roll Layup Shot,LAYUPS,,2022
+Jordan McLaughlin,1629162,Standard Layup,2,9,7,Cutting Layup Shot,LAYUPS,,2022
+Jordan McLaughlin,1629162,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2022
+Jordan McLaughlin,1629162,Finger Roll,2,7,3,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Jordan McLaughlin,1629162,Floating Jump Shot,2,9,6,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Jordan McLaughlin,1629162,Floating Jump Shot,2,18,6,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Jordan McLaughlin,1629162,Driving Layup,2,17,6,Driving Layup Shot,LAYUPS,,2022
+Jordan McLaughlin,1629162,Driving Layup,2,8,6,Driving Reverse Layup Shot,LAYUPS,,2022
+Jordan McLaughlin,1629162,Floating Jump Shot,2,7,0,Floating Jump shot,FLOATING_SHOTS,,2022
+Jordan McLaughlin,1629162,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2022
+Jordan McLaughlin,1629162,Jump Shot,2,65,20,Jump Shot,JUMP_SHOTS,,2022
+Jordan McLaughlin,1629162,Standard Layup,2,6,3,Layup Shot,LAYUPS,,2022
+Jordan McLaughlin,1629162,Pullup Jump Shot,2,13,5,Pullup Jump shot,JUMP_SHOTS,,2022
+Jordan McLaughlin,1629162,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2022
+Jordan McLaughlin,1629162,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2022
+Jordan McLaughlin,1629162,Running Jump Shot,2,6,3,Running Jump Shot,JUMP_SHOTS,,2022
+Jordan McLaughlin,1629162,Standard Layup,2,18,13,Running Layup Shot,LAYUPS,,2022
+Jordan McLaughlin,1629162,Running Jump Shot,2,4,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
+Jordan McLaughlin,1629162,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2022
+Jordan McLaughlin,1629162,Putback Layup,2,1,1,Tip Layup Shot,LAYUPS,,2022
+Jordan McLaughlin,1629162,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2022
+Jordan McLaughlin,1629162,Standard Layup,2,3,3,Cutting Layup Shot,LAYUPS,,2023
+Jordan McLaughlin,1629162,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2023
+Jordan McLaughlin,1629162,Finger Roll,2,3,1,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Jordan McLaughlin,1629162,Floating Jump Shot,2,7,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+Jordan McLaughlin,1629162,Floating Jump Shot,2,14,9,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Jordan McLaughlin,1629162,Driving Layup,2,14,5,Driving Layup Shot,LAYUPS,,2023
+Jordan McLaughlin,1629162,Driving Layup,2,6,3,Driving Reverse Layup Shot,LAYUPS,,2023
+Jordan McLaughlin,1629162,Floating Jump Shot,2,3,2,Floating Jump shot,FLOATING_SHOTS,,2023
+Jordan McLaughlin,1629162,Jump Shot,2,37,11,Jump Shot,JUMP_SHOTS,,2023
+Jordan McLaughlin,1629162,Jump Shot,3,16,4,Jump Shot,JUMP_SHOTS,,2023
+Jordan McLaughlin,1629162,Standard Layup,2,3,3,Layup Shot,LAYUPS,,2023
+Jordan McLaughlin,1629162,Pullup Jump Shot,2,10,3,Pullup Jump shot,JUMP_SHOTS,,2023
+Jordan McLaughlin,1629162,Pullup Jump Shot,3,5,1,Pullup Jump shot,JUMP_SHOTS,,2023
+Jordan McLaughlin,1629162,Running Jump Shot,2,4,1,Running Jump Shot,JUMP_SHOTS,,2023
+Jordan McLaughlin,1629162,Running Jump Shot,3,2,1,Running Jump Shot,JUMP_SHOTS,,2023
+Jordan McLaughlin,1629162,Standard Layup,2,9,6,Running Layup Shot,LAYUPS,,2023
+Jordan McLaughlin,1629162,Running Jump Shot,2,2,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2023
+Jordan McLaughlin,1629162,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2023
+Jordan McLaughlin,1629162,Step Back Jump Shot,2,2,2,Step Back Jump shot,JUMP_SHOTS,,2023
+Jordan McLaughlin,1629162,Step Back Jump Shot,3,2,0,Step Back Jump shot,JUMP_SHOTS,,2023
+Jordan McLaughlin,1629162,Standard Layup,2,7,4,Cutting Layup Shot,LAYUPS,,2024
+Jordan McLaughlin,1629162,Finger Roll,2,4,4,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Jordan McLaughlin,1629162,Floating Jump Shot,2,2,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Jordan McLaughlin,1629162,Floating Jump Shot,2,8,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Jordan McLaughlin,1629162,Driving Layup,2,9,5,Driving Layup Shot,LAYUPS,,2024
+Jordan McLaughlin,1629162,Driving Layup,2,3,1,Driving Reverse Layup Shot,LAYUPS,,2024
+Jordan McLaughlin,1629162,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2024
+Jordan McLaughlin,1629162,Floating Jump Shot,2,2,0,Floating Jump shot,FLOATING_SHOTS,,2024
+Jordan McLaughlin,1629162,Jump Shot,2,1,1,Jump Shot,JUMP_SHOTS,,2024
+Jordan McLaughlin,1629162,Jump Shot,3,66,34,Jump Shot,JUMP_SHOTS,,2024
+Jordan McLaughlin,1629162,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2024
+Jordan McLaughlin,1629162,Pullup Jump Shot,2,3,2,Pullup Jump shot,JUMP_SHOTS,,2024
+Jordan McLaughlin,1629162,Pullup Jump Shot,3,10,5,Pullup Jump shot,JUMP_SHOTS,,2024
+Jordan McLaughlin,1629162,Putback Layup,2,3,0,Putback Layup Shot,LAYUPS,,2024
+Jordan McLaughlin,1629162,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2024
+Jordan McLaughlin,1629162,Running Jump Shot,3,7,1,Running Jump Shot,JUMP_SHOTS,,2024
+Jordan McLaughlin,1629162,Standard Layup,2,5,3,Running Layup Shot,LAYUPS,,2024
+Jordan McLaughlin,1629162,Running Jump Shot,3,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Jordan McLaughlin,1629162,Reverse Layup,2,4,3,Running Reverse Layup Shot,LAYUPS,,2024
+Jordan McLaughlin,1629162,Step Back Jump Shot,3,5,2,Step Back Jump shot,JUMP_SHOTS,,2024
+Jordan McLaughlin,1629162,Putback Layup,2,2,2,Tip Layup Shot,LAYUPS,,2024
+Jordan McLaughlin,1629162,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Jordan McLaughlin,1629162,Floating Jump Shot,2,5,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2025
+Jordan McLaughlin,1629162,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Jordan McLaughlin,1629162,Driving Layup,2,3,1,Driving Layup Shot,LAYUPS,,2025
+Jordan McLaughlin,1629162,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2025
+Jordan McLaughlin,1629162,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2025
+Jordan McLaughlin,1629162,Jump Shot,3,13,3,Jump Shot,JUMP_SHOTS,,2025
+Jordan McLaughlin,1629162,Pullup Jump Shot,2,3,1,Pullup Jump shot,JUMP_SHOTS,,2025
+Jordan McLaughlin,1629162,Pullup Jump Shot,3,10,5,Pullup Jump shot,JUMP_SHOTS,,2025
+Jordan McLaughlin,1629162,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2025
+Jordan McLaughlin,1629162,Running Jump Shot,3,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025
+Jordan McLaughlin,1629162,Step Back Jump Shot,3,1,1,Step Back Jump shot,JUMP_SHOTS,,2025

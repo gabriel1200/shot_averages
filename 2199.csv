@@ -1,32 +1,373 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-2199,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2003
-2199,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2004
-2199,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2005
-2199,Driving Layup,2PT Field Goal,3,2,Driving Layup Shot,LAYUPS,0.6666666666666666,2005
-2199,Standard Dunk,2PT Field Goal,2,1,Dunk Shot,DUNKS,0.5,2005
-2199,Specialty Dunk,2PT Field Goal,2,1,Follow Up Dunk Shot,DUNKS,0.5,2005
-2199,Jump Shot,2PT Field Goal,11,4,Jump Shot,JUMP_SHOTS,0.3636363636363636,2005
-2199,Standard Layup,2PT Field Goal,12,7,Layup Shot,LAYUPS,0.5833333333333334,2005
-2199,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2005
-2199,Tip Shot,2PT Field Goal,6,4,Tip Shot,TIP_SHOTS,0.6666666666666666,2005
-2199,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2005
-2199,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2006
-2199,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2006
-2199,Driving Layup,2PT Field Goal,3,3,Driving Layup Shot,LAYUPS,1.0,2006
-2199,Standard Dunk,2PT Field Goal,6,4,Dunk Shot,DUNKS,0.6666666666666666,2006
-2199,Specialty Dunk,2PT Field Goal,4,4,Follow Up Dunk Shot,DUNKS,1.0,2006
-2199,Hook Shot,2PT Field Goal,2,0,Hook Shot,POST_MOVES,0.0,2006
-2199,Jump Shot,2PT Field Goal,10,1,Jump Shot,JUMP_SHOTS,0.1,2006
-2199,Standard Layup,2PT Field Goal,15,6,Layup Shot,LAYUPS,0.4,2006
-2199,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2006
-2199,Standard Dunk,2PT Field Goal,3,3,Slam Dunk Shot,DUNKS,1.0,2006
-2199,Tip Shot,2PT Field Goal,12,4,Tip Shot,TIP_SHOTS,0.3333333333333333,2006
-2199,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2006
-2199,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2007
-2199,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2007
-2199,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,2007
-2199,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2007
-2199,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2007
-2199,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2013
-2199,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2013
-2199,Tip Shot,2PT Field Goal,2,1,Tip Shot,TIP_SHOTS,0.5,2013
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Tyson Chandler,2199,Alley Oop Dunk,2,18,16,Alley Oop Dunk Shot,DUNKS,,2002
+Tyson Chandler,2199,Alley Oop Layup,2,3,1,Alley Oop Layup shot,LAYUPS,,2002
+Tyson Chandler,2199,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2002
+Tyson Chandler,2199,Driving Layup,2,4,4,Driving Layup Shot,LAYUPS,,2002
+Tyson Chandler,2199,Standard Dunk,2,33,30,Dunk Shot,DUNKS,,2002
+Tyson Chandler,2199,Specialty Dunk,2,8,8,Follow Up Dunk Shot,DUNKS,,2002
+Tyson Chandler,2199,Hook Shot,2,5,4,Hook Shot,POST_MOVES,,2002
+Tyson Chandler,2199,Jump Shot,2,92,30,Jump Shot,JUMP_SHOTS,,2002
+Tyson Chandler,2199,Standard Layup,2,100,33,Layup Shot,LAYUPS,,2002
+Tyson Chandler,2199,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2002
+Tyson Chandler,2199,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2002
+Tyson Chandler,2199,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2002
+Tyson Chandler,2199,Standard Dunk,2,11,11,Slam Dunk Shot,DUNKS,,2002
+Tyson Chandler,2199,Tip Shot,2,19,7,Tip Shot,TIP_SHOTS,,2002
+Tyson Chandler,2199,Turnaround Jump Shot,2,5,1,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Tyson Chandler,2199,Alley Oop Dunk,2,17,16,Alley Oop Dunk Shot,DUNKS,,2003
+Tyson Chandler,2199,Alley Oop Layup,2,5,4,Alley Oop Layup shot,LAYUPS,,2003
+Tyson Chandler,2199,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2003
+Tyson Chandler,2199,Driving Layup,2,6,5,Driving Layup Shot,LAYUPS,,2003
+Tyson Chandler,2199,Standard Dunk,2,37,33,Dunk Shot,DUNKS,,2003
+Tyson Chandler,2199,Fadeaway Jump Shot,2,2,2,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Tyson Chandler,2199,Specialty Dunk,2,13,12,Follow Up Dunk Shot,DUNKS,,2003
+Tyson Chandler,2199,Hook Shot,2,11,5,Hook Shot,POST_MOVES,,2003
+Tyson Chandler,2199,Hook Shot,2,5,3,Jump Hook Shot,POST_MOVES,,2003
+Tyson Chandler,2199,Jump Shot,2,162,49,Jump Shot,JUMP_SHOTS,,2003
+Tyson Chandler,2199,Standard Layup,2,142,66,Layup Shot,LAYUPS,,2003
+Tyson Chandler,2199,Reverse Dunk,2,2,2,Reverse Dunk Shot,DUNKS,,2003
+Tyson Chandler,2199,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2003
+Tyson Chandler,2199,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2003
+Tyson Chandler,2199,Running Hook Shot,2,2,2,Running Hook Shot,POST_MOVES,,2003
+Tyson Chandler,2199,Running Jump Shot,2,4,3,Running Jump Shot,JUMP_SHOTS,,2003
+Tyson Chandler,2199,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2003
+Tyson Chandler,2199,Standard Dunk,2,24,24,Slam Dunk Shot,DUNKS,,2003
+Tyson Chandler,2199,Tip Shot,2,33,17,Tip Shot,TIP_SHOTS,,2003
+Tyson Chandler,2199,Turnaround Jump Shot,2,11,6,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Tyson Chandler,2199,Alley Oop Dunk,2,1,0,Alley Oop Dunk Shot,DUNKS,,2004
+Tyson Chandler,2199,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2004
+Tyson Chandler,2199,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2004
+Tyson Chandler,2199,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2004
+Tyson Chandler,2199,Standard Dunk,2,8,7,Dunk Shot,DUNKS,,2004
+Tyson Chandler,2199,Specialty Dunk,2,3,3,Follow Up Dunk Shot,DUNKS,,2004
+Tyson Chandler,2199,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2004
+Tyson Chandler,2199,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2004
+Tyson Chandler,2199,Jump Shot,2,68,19,Jump Shot,JUMP_SHOTS,,2004
+Tyson Chandler,2199,Standard Layup,2,39,14,Layup Shot,LAYUPS,,2004
+Tyson Chandler,2199,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2004
+Tyson Chandler,2199,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2004
+Tyson Chandler,2199,Standard Dunk,2,6,5,Slam Dunk Shot,DUNKS,,2004
+Tyson Chandler,2199,Tip Shot,2,18,8,Tip Shot,TIP_SHOTS,,2004
+Tyson Chandler,2199,Turnaround Jump Shot,2,7,5,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Tyson Chandler,2199,Alley Oop Dunk,2,7,7,Alley Oop Dunk Shot,DUNKS,,2005
+Tyson Chandler,2199,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2005
+Tyson Chandler,2199,Driving Layup,2,8,7,Driving Layup Shot,LAYUPS,,2005
+Tyson Chandler,2199,Standard Dunk,2,28,26,Dunk Shot,DUNKS,,2005
+Tyson Chandler,2199,Finger Roll,2,1,0,Finger Roll Shot,LAYUPS,,2005
+Tyson Chandler,2199,Specialty Dunk,2,10,8,Follow Up Dunk Shot,DUNKS,,2005
+Tyson Chandler,2199,Hook Shot,2,5,4,Hook Shot,POST_MOVES,,2005
+Tyson Chandler,2199,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2005
+Tyson Chandler,2199,Hook Shot,2,2,0,Jump Hook Shot,POST_MOVES,,2005
+Tyson Chandler,2199,Jump Shot,2,127,30,Jump Shot,JUMP_SHOTS,,2005
+Tyson Chandler,2199,Standard Layup,2,141,64,Layup Shot,LAYUPS,,2005
+Tyson Chandler,2199,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2005
+Tyson Chandler,2199,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2005
+Tyson Chandler,2199,Running Hook Shot,2,5,4,Running Hook Shot,POST_MOVES,,2005
+Tyson Chandler,2199,Running Jump Shot,2,4,2,Running Jump Shot,JUMP_SHOTS,,2005
+Tyson Chandler,2199,Standard Dunk,2,8,8,Slam Dunk Shot,DUNKS,,2005
+Tyson Chandler,2199,Tip Shot,2,61,36,Tip Shot,TIP_SHOTS,,2005
+Tyson Chandler,2199,Turnaround Jump Shot,2,4,4,Turnaround Jump Shot,JUMP_SHOTS,,2005
+Tyson Chandler,2199,Alley Oop Dunk,2,6,6,Alley Oop Dunk Shot,DUNKS,,2006
+Tyson Chandler,2199,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2006
+Tyson Chandler,2199,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2006
+Tyson Chandler,2199,Driving Layup,2,7,7,Driving Layup Shot,LAYUPS,,2006
+Tyson Chandler,2199,Standard Dunk,2,28,24,Dunk Shot,DUNKS,,2006
+Tyson Chandler,2199,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2006
+Tyson Chandler,2199,Specialty Dunk,2,12,12,Follow Up Dunk Shot,DUNKS,,2006
+Tyson Chandler,2199,Hook Shot,2,8,3,Hook Shot,POST_MOVES,,2006
+Tyson Chandler,2199,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2006
+Tyson Chandler,2199,Jump Shot,2,43,12,Jump Shot,JUMP_SHOTS,,2006
+Tyson Chandler,2199,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2006
+Tyson Chandler,2199,Standard Layup,2,76,34,Layup Shot,LAYUPS,,2006
+Tyson Chandler,2199,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2006
+Tyson Chandler,2199,Running Jump Shot,2,2,2,Running Jump Shot,JUMP_SHOTS,,2006
+Tyson Chandler,2199,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2006
+Tyson Chandler,2199,Standard Dunk,2,18,18,Slam Dunk Shot,DUNKS,,2006
+Tyson Chandler,2199,Tip Shot,2,69,32,Tip Shot,TIP_SHOTS,,2006
+Tyson Chandler,2199,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2006
+Tyson Chandler,2199,Alley Oop Dunk,2,50,47,Alley Oop Dunk Shot,DUNKS,,2007
+Tyson Chandler,2199,Alley Oop Layup,2,9,7,Alley Oop Layup shot,LAYUPS,,2007
+Tyson Chandler,2199,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2007
+Tyson Chandler,2199,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,,2007
+Tyson Chandler,2199,Driving Layup,2,3,3,Driving Layup Shot,LAYUPS,,2007
+Tyson Chandler,2199,Standard Dunk,2,42,35,Dunk Shot,DUNKS,,2007
+Tyson Chandler,2199,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2007
+Tyson Chandler,2199,Specialty Dunk,2,26,24,Follow Up Dunk Shot,DUNKS,,2007
+Tyson Chandler,2199,Hook Shot,2,26,15,Hook Shot,POST_MOVES,,2007
+Tyson Chandler,2199,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2007
+Tyson Chandler,2199,Hook Shot,2,16,12,Jump Hook Shot,POST_MOVES,,2007
+Tyson Chandler,2199,Jump Shot,2,76,20,Jump Shot,JUMP_SHOTS,,2007
+Tyson Chandler,2199,Standard Layup,2,99,53,Layup Shot,LAYUPS,,2007
+Tyson Chandler,2199,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2007
+Tyson Chandler,2199,Running Hook Shot,2,8,5,Running Hook Shot,POST_MOVES,,2007
+Tyson Chandler,2199,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2007
+Tyson Chandler,2199,Standard Dunk,2,18,17,Slam Dunk Shot,DUNKS,,2007
+Tyson Chandler,2199,Tip Shot,2,72,40,Tip Shot,TIP_SHOTS,,2007
+Tyson Chandler,2199,Turnaround Hook Shot,2,4,2,Turnaround Hook Shot,POST_MOVES,,2007
+Tyson Chandler,2199,Turnaround Jump Shot,2,9,5,Turnaround Jump Shot,JUMP_SHOTS,,2007
+Tyson Chandler,2199,Alley Oop Dunk,2,123,119,Alley Oop Dunk Shot,DUNKS,,2008
+Tyson Chandler,2199,Alley Oop Layup,2,20,16,Alley Oop Layup shot,LAYUPS,,2008
+Tyson Chandler,2199,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2008
+Tyson Chandler,2199,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2008
+Tyson Chandler,2199,Driving Layup,2,2,1,Driving Layup Shot,LAYUPS,,2008
+Tyson Chandler,2199,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2008
+Tyson Chandler,2199,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2008
+Tyson Chandler,2199,Standard Dunk,2,38,36,Dunk Shot,DUNKS,,2008
+Tyson Chandler,2199,Fadeaway Jump Shot,2,5,3,Fadeaway Jump Shot,JUMP_SHOTS,,2008
+Tyson Chandler,2199,Hook Shot,2,41,17,Hook Shot,POST_MOVES,,2008
+Tyson Chandler,2199,Jump Shot,2,2,0,Jump Bank Shot,JUMP_SHOTS,,2008
+Tyson Chandler,2199,Hook Shot,2,13,6,Jump Hook Shot,POST_MOVES,,2008
+Tyson Chandler,2199,Jump Shot,2,72,13,Jump Shot,JUMP_SHOTS,,2008
+Tyson Chandler,2199,Standard Layup,2,136,68,Layup Shot,LAYUPS,,2008
+Tyson Chandler,2199,Putback Dunk,2,12,12,Putback Dunk Shot,DUNKS,,2008
+Tyson Chandler,2199,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2008
+Tyson Chandler,2199,Putback Dunk,2,8,8,Putback Slam Dunk Shot,DUNKS,,2008
+Tyson Chandler,2199,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2008
+Tyson Chandler,2199,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2008
+Tyson Chandler,2199,Running Hook Shot,2,4,3,Running Hook Shot,POST_MOVES,,2008
+Tyson Chandler,2199,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2008
+Tyson Chandler,2199,Standard Layup,2,3,2,Running Layup Shot,LAYUPS,,2008
+Tyson Chandler,2199,Standard Dunk,2,17,16,Slam Dunk Shot,DUNKS,,2008
+Tyson Chandler,2199,Tip Shot,2,83,38,Tip Shot,TIP_SHOTS,,2008
+Tyson Chandler,2199,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2008
+Tyson Chandler,2199,Turnaround Jump Shot,2,2,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2008
+Tyson Chandler,2199,Turnaround Jump Shot,2,12,6,Turnaround Jump Shot,JUMP_SHOTS,,2008
+Tyson Chandler,2199,Alley Oop Dunk,2,66,64,Alley Oop Dunk Shot,DUNKS,,2009
+Tyson Chandler,2199,Alley Oop Layup,2,19,12,Alley Oop Layup shot,LAYUPS,,2009
+Tyson Chandler,2199,Standard Dunk,2,17,13,Dunk Shot,DUNKS,,2009
+Tyson Chandler,2199,Fadeaway Jump Shot,2,4,0,Fadeaway Jump Shot,JUMP_SHOTS,,2009
+Tyson Chandler,2199,Hook Shot,2,24,8,Hook Shot,POST_MOVES,,2009
+Tyson Chandler,2199,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2009
+Tyson Chandler,2199,Hook Shot,2,4,1,Jump Hook Shot,POST_MOVES,,2009
+Tyson Chandler,2199,Jump Shot,2,19,2,Jump Shot,JUMP_SHOTS,,2009
+Tyson Chandler,2199,Standard Layup,2,52,25,Layup Shot,LAYUPS,,2009
+Tyson Chandler,2199,Putback Dunk,2,5,5,Putback Dunk Shot,DUNKS,,2009
+Tyson Chandler,2199,Putback Layup,2,4,4,Putback Layup Shot,LAYUPS,,2009
+Tyson Chandler,2199,Putback Dunk,2,3,3,Putback Slam Dunk Shot,DUNKS,,2009
+Tyson Chandler,2199,Running Hook Shot,2,2,1,Running Hook Shot,POST_MOVES,,2009
+Tyson Chandler,2199,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2009
+Tyson Chandler,2199,Tip Shot,2,58,16,Tip Shot,TIP_SHOTS,,2009
+Tyson Chandler,2199,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2009
+Tyson Chandler,2199,Alley Oop Dunk,2,18,16,Alley Oop Dunk Shot,DUNKS,,2010
+Tyson Chandler,2199,Alley Oop Layup,2,5,2,Alley Oop Layup shot,LAYUPS,,2010
+Tyson Chandler,2199,Standard Dunk,2,37,30,Dunk Shot,DUNKS,,2010
+Tyson Chandler,2199,Hook Shot,2,7,1,Hook Shot,POST_MOVES,,2010
+Tyson Chandler,2199,Hook Shot,2,1,1,Jump Bank Hook Shot,POST_MOVES,,2010
+Tyson Chandler,2199,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2010
+Tyson Chandler,2199,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2010
+Tyson Chandler,2199,Jump Shot,2,24,4,Jump Shot,JUMP_SHOTS,,2010
+Tyson Chandler,2199,Standard Layup,2,48,19,Layup Shot,LAYUPS,,2010
+Tyson Chandler,2199,Putback Dunk,2,6,5,Putback Dunk Shot,DUNKS,,2010
+Tyson Chandler,2199,Putback Layup,2,5,5,Putback Layup Shot,LAYUPS,,2010
+Tyson Chandler,2199,Putback Dunk,2,2,2,Putback Slam Dunk Shot,DUNKS,,2010
+Tyson Chandler,2199,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2010
+Tyson Chandler,2199,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2010
+Tyson Chandler,2199,Tip Shot,2,30,19,Tip Shot,TIP_SHOTS,,2010
+Tyson Chandler,2199,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2010
+Tyson Chandler,2199,Alley Oop Dunk,2,61,57,Alley Oop Dunk Shot,DUNKS,,2011
+Tyson Chandler,2199,Alley Oop Layup,2,22,10,Alley Oop Layup shot,LAYUPS,,2011
+Tyson Chandler,2199,Driving Dunk,2,2,1,Driving Dunk Shot,DUNKS,,2011
+Tyson Chandler,2199,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2011
+Tyson Chandler,2199,Driving Jump Shot,2,4,1,Driving Jump shot,JUMP_SHOTS,,2011
+Tyson Chandler,2199,Driving Layup,2,6,2,Driving Layup Shot,LAYUPS,,2011
+Tyson Chandler,2199,Standard Dunk,2,29,26,Dunk Shot,DUNKS,,2011
+Tyson Chandler,2199,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Tyson Chandler,2199,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2011
+Tyson Chandler,2199,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2011
+Tyson Chandler,2199,Hook Shot,2,6,1,Hook Shot,POST_MOVES,,2011
+Tyson Chandler,2199,Jump Shot,2,6,6,Jump Bank Shot,JUMP_SHOTS,,2011
+Tyson Chandler,2199,Hook Shot,2,4,1,Jump Hook Shot,POST_MOVES,,2011
+Tyson Chandler,2199,Jump Shot,2,75,33,Jump Shot,JUMP_SHOTS,,2011
+Tyson Chandler,2199,Standard Layup,2,86,50,Layup Shot,LAYUPS,,2011
+Tyson Chandler,2199,Putback Dunk,2,11,11,Putback Dunk Shot,DUNKS,,2011
+Tyson Chandler,2199,Putback Layup,2,8,7,Putback Layup Shot,LAYUPS,,2011
+Tyson Chandler,2199,Putback Dunk,2,1,1,Putback Slam Dunk Shot,DUNKS,,2011
+Tyson Chandler,2199,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2011
+Tyson Chandler,2199,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2011
+Tyson Chandler,2199,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2011
+Tyson Chandler,2199,Tip Shot,2,1,1,Running Tip Shot,TIP_SHOTS,,2011
+Tyson Chandler,2199,Standard Dunk,2,31,31,Slam Dunk Shot,DUNKS,,2011
+Tyson Chandler,2199,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2011
+Tyson Chandler,2199,Tip Shot,2,38,18,Tip Shot,TIP_SHOTS,,2011
+Tyson Chandler,2199,Turnaround Hook Shot,2,4,0,Turnaround Hook Shot,POST_MOVES,,2011
+Tyson Chandler,2199,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2011
+Tyson Chandler,2199,Alley Oop Dunk,2,42,39,Alley Oop Dunk Shot,DUNKS,,2012
+Tyson Chandler,2199,Alley Oop Layup,2,14,7,Alley Oop Layup shot,LAYUPS,,2012
+Tyson Chandler,2199,Driving Dunk,2,5,5,Driving Dunk Shot,DUNKS,,2012
+Tyson Chandler,2199,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2012
+Tyson Chandler,2199,Driving Jump Shot,2,2,1,Driving Jump shot,JUMP_SHOTS,,2012
+Tyson Chandler,2199,Driving Layup,2,9,6,Driving Layup Shot,LAYUPS,,2012
+Tyson Chandler,2199,Driving Dunk,2,4,4,Driving Slam Dunk Shot,DUNKS,,2012
+Tyson Chandler,2199,Standard Dunk,2,36,33,Dunk Shot,DUNKS,,2012
+Tyson Chandler,2199,Hook Shot,2,11,6,Hook Shot,POST_MOVES,,2012
+Tyson Chandler,2199,Jump Shot,2,5,4,Jump Bank Shot,JUMP_SHOTS,,2012
+Tyson Chandler,2199,Jump Shot,2,37,7,Jump Shot,JUMP_SHOTS,,2012
+Tyson Chandler,2199,Standard Layup,2,87,51,Layup Shot,LAYUPS,,2012
+Tyson Chandler,2199,Putback Dunk,2,10,8,Putback Dunk Shot,DUNKS,,2012
+Tyson Chandler,2199,Putback Layup,2,4,4,Putback Layup Shot,LAYUPS,,2012
+Tyson Chandler,2199,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2012
+Tyson Chandler,2199,Running Jump Shot,2,4,2,Running Jump Shot,JUMP_SHOTS,,2012
+Tyson Chandler,2199,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2012
+Tyson Chandler,2199,Standard Dunk,2,45,44,Slam Dunk Shot,DUNKS,,2012
+Tyson Chandler,2199,Tip Shot,2,36,17,Tip Shot,TIP_SHOTS,,2012
+Tyson Chandler,2199,Alley Oop Dunk,2,67,58,Alley Oop Dunk Shot,DUNKS,,2013
+Tyson Chandler,2199,Alley Oop Layup,2,24,10,Alley Oop Layup shot,LAYUPS,,2013
+Tyson Chandler,2199,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2013
+Tyson Chandler,2199,Driving Layup,2,6,2,Driving Layup Shot,LAYUPS,,2013
+Tyson Chandler,2199,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2013
+Tyson Chandler,2199,Driving Dunk,2,6,6,Driving Slam Dunk Shot,DUNKS,,2013
+Tyson Chandler,2199,Standard Dunk,2,23,23,Dunk Shot,DUNKS,,2013
+Tyson Chandler,2199,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2013
+Tyson Chandler,2199,Hook Shot,2,7,5,Hook Shot,POST_MOVES,,2013
+Tyson Chandler,2199,Jump Shot,2,3,2,Jump Bank Shot,JUMP_SHOTS,,2013
+Tyson Chandler,2199,Hook Shot,2,2,1,Jump Hook Shot,POST_MOVES,,2013
+Tyson Chandler,2199,Jump Shot,2,36,10,Jump Shot,JUMP_SHOTS,,2013
+Tyson Chandler,2199,Standard Layup,2,96,42,Layup Shot,LAYUPS,,2013
+Tyson Chandler,2199,Putback Dunk,2,17,17,Putback Dunk Shot,DUNKS,,2013
+Tyson Chandler,2199,Putback Layup,2,12,10,Putback Layup Shot,LAYUPS,,2013
+Tyson Chandler,2199,Putback Dunk,2,5,5,Putback Slam Dunk Shot,DUNKS,,2013
+Tyson Chandler,2199,Reverse Layup,2,4,4,Reverse Layup Shot,LAYUPS,,2013
+Tyson Chandler,2199,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2013
+Tyson Chandler,2199,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2013
+Tyson Chandler,2199,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2013
+Tyson Chandler,2199,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2013
+Tyson Chandler,2199,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2013
+Tyson Chandler,2199,Standard Dunk,2,28,28,Slam Dunk Shot,DUNKS,,2013
+Tyson Chandler,2199,Tip Shot,2,52,23,Tip Shot,TIP_SHOTS,,2013
+Tyson Chandler,2199,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2013
+Tyson Chandler,2199,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2013
+Tyson Chandler,2199,Alley Oop Dunk,2,53,51,Alley Oop Dunk Shot,DUNKS,,2014
+Tyson Chandler,2199,Alley Oop Layup,2,19,13,Alley Oop Layup shot,LAYUPS,,2014
+Tyson Chandler,2199,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2014
+Tyson Chandler,2199,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2014
+Tyson Chandler,2199,Driving Layup,2,7,5,Driving Layup Shot,LAYUPS,,2014
+Tyson Chandler,2199,Driving Dunk,2,2,2,Driving Slam Dunk Shot,DUNKS,,2014
+Tyson Chandler,2199,Standard Dunk,2,32,28,Dunk Shot,DUNKS,,2014
+Tyson Chandler,2199,Hook Shot,2,12,2,Hook Shot,POST_MOVES,,2014
+Tyson Chandler,2199,Hook Shot,2,2,1,Jump Hook Shot,POST_MOVES,,2014
+Tyson Chandler,2199,Jump Shot,2,60,19,Jump Shot,JUMP_SHOTS,,2014
+Tyson Chandler,2199,Standard Layup,2,62,27,Layup Shot,LAYUPS,,2014
+Tyson Chandler,2199,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2014
+Tyson Chandler,2199,Putback Dunk,2,8,7,Putback Dunk Shot,DUNKS,,2014
+Tyson Chandler,2199,Putback Layup,2,4,2,Putback Layup Shot,LAYUPS,,2014
+Tyson Chandler,2199,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2014
+Tyson Chandler,2199,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2014
+Tyson Chandler,2199,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2014
+Tyson Chandler,2199,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2014
+Tyson Chandler,2199,Standard Dunk,2,14,14,Slam Dunk Shot,DUNKS,,2014
+Tyson Chandler,2199,Tip Shot,2,38,13,Tip Shot,TIP_SHOTS,,2014
+Tyson Chandler,2199,Alley Oop Dunk,2,80,75,Alley Oop Dunk Shot,DUNKS,,2015
+Tyson Chandler,2199,Alley Oop Layup,2,22,9,Alley Oop Layup shot,LAYUPS,,2015
+Tyson Chandler,2199,Driving Dunk,2,2,1,Driving Dunk Shot,DUNKS,,2015
+Tyson Chandler,2199,Driving Jump Shot,2,2,1,Driving Jump shot,JUMP_SHOTS,,2015
+Tyson Chandler,2199,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2015
+Tyson Chandler,2199,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2015
+Tyson Chandler,2199,Driving Dunk,2,2,2,Driving Slam Dunk Shot,DUNKS,,2015
+Tyson Chandler,2199,Standard Dunk,2,33,29,Dunk Shot,DUNKS,,2015
+Tyson Chandler,2199,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2015
+Tyson Chandler,2199,Hook Shot,2,5,3,Hook Shot,POST_MOVES,,2015
+Tyson Chandler,2199,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2015
+Tyson Chandler,2199,Hook Shot,2,7,1,Jump Hook Shot,POST_MOVES,,2015
+Tyson Chandler,2199,Jump Shot,2,66,24,Jump Shot,JUMP_SHOTS,,2015
+Tyson Chandler,2199,Standard Layup,2,72,36,Layup Shot,LAYUPS,,2015
+Tyson Chandler,2199,Putback Dunk,2,21,20,Putback Dunk Shot,DUNKS,,2015
+Tyson Chandler,2199,Putback Layup,2,15,13,Putback Layup Shot,LAYUPS,,2015
+Tyson Chandler,2199,Putback Dunk,2,7,7,Putback Slam Dunk Shot,DUNKS,,2015
+Tyson Chandler,2199,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2015
+Tyson Chandler,2199,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2015
+Tyson Chandler,2199,Standard Dunk,2,4,4,Running Dunk Shot,DUNKS,,2015
+Tyson Chandler,2199,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2015
+Tyson Chandler,2199,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2015
+Tyson Chandler,2199,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2015
+Tyson Chandler,2199,Standard Dunk,2,9,9,Running Slam Dunk Shot,DUNKS,,2015
+Tyson Chandler,2199,Tip Shot,2,1,0,Running Tip Shot,TIP_SHOTS,,2015
+Tyson Chandler,2199,Standard Dunk,2,32,32,Slam Dunk Shot,DUNKS,,2015
+Tyson Chandler,2199,Tip Shot,2,50,22,Tip Shot,TIP_SHOTS,,2015
+Tyson Chandler,2199,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2015
+Tyson Chandler,2199,Alley Oop Dunk,2,58,50,Alley Oop Dunk Shot,DUNKS,,2016
+Tyson Chandler,2199,Alley Oop Layup,2,15,6,Alley Oop Layup shot,LAYUPS,,2016
+Tyson Chandler,2199,Specialty Dunk,2,8,7,Cutting Dunk Shot,DUNKS,,2016
+Tyson Chandler,2199,Standard Layup,2,8,5,Cutting Layup Shot,LAYUPS,,2016
+Tyson Chandler,2199,Driving Jump Shot,2,2,2,Driving Bank shot,JUMP_SHOTS,,2016
+Tyson Chandler,2199,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Tyson Chandler,2199,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2016
+Tyson Chandler,2199,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2016
+Tyson Chandler,2199,Driving Layup,2,4,0,Driving Layup Shot,LAYUPS,,2016
+Tyson Chandler,2199,Standard Dunk,2,27,23,Dunk Shot,DUNKS,,2016
+Tyson Chandler,2199,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Tyson Chandler,2199,Hook Shot,2,16,7,Hook Shot,POST_MOVES,,2016
+Tyson Chandler,2199,Jump Shot,2,48,8,Jump Shot,JUMP_SHOTS,,2016
+Tyson Chandler,2199,Standard Layup,2,44,27,Layup Shot,LAYUPS,,2016
+Tyson Chandler,2199,Putback Dunk,2,11,10,Putback Dunk Shot,DUNKS,,2016
+Tyson Chandler,2199,Putback Layup,2,12,7,Putback Layup Shot,LAYUPS,,2016
+Tyson Chandler,2199,Reverse Layup,2,2,0,Reverse Layup Shot,LAYUPS,,2016
+Tyson Chandler,2199,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2016
+Tyson Chandler,2199,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2016
+Tyson Chandler,2199,Specialty Dunk,2,13,13,Tip Dunk Shot,DUNKS,,2016
+Tyson Chandler,2199,Putback Layup,2,37,15,Tip Layup Shot,LAYUPS,,2016
+Tyson Chandler,2199,Turnaround Hook Shot,2,3,1,Turnaround Hook Shot,POST_MOVES,,2016
+Tyson Chandler,2199,Alley Oop Dunk,2,31,25,Alley Oop Dunk Shot,DUNKS,,2017
+Tyson Chandler,2199,Alley Oop Layup,2,15,4,Alley Oop Layup shot,LAYUPS,,2017
+Tyson Chandler,2199,Specialty Dunk,2,20,20,Cutting Dunk Shot,DUNKS,,2017
+Tyson Chandler,2199,Standard Layup,2,12,9,Cutting Layup Shot,LAYUPS,,2017
+Tyson Chandler,2199,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2017
+Tyson Chandler,2199,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2017
+Tyson Chandler,2199,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2017
+Tyson Chandler,2199,Standard Dunk,2,15,12,Dunk Shot,DUNKS,,2017
+Tyson Chandler,2199,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2017
+Tyson Chandler,2199,Hook Shot,2,8,3,Hook Shot,POST_MOVES,,2017
+Tyson Chandler,2199,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2017
+Tyson Chandler,2199,Jump Shot,2,8,0,Jump Shot,JUMP_SHOTS,,2017
+Tyson Chandler,2199,Standard Layup,2,38,23,Layup Shot,LAYUPS,,2017
+Tyson Chandler,2199,Putback Dunk,2,7,6,Putback Dunk Shot,DUNKS,,2017
+Tyson Chandler,2199,Putback Layup,2,5,4,Putback Layup Shot,LAYUPS,,2017
+Tyson Chandler,2199,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2017
+Tyson Chandler,2199,Alley Oop Dunk,2,2,2,Running Alley Oop Dunk Shot,DUNKS,,2017
+Tyson Chandler,2199,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2017
+Tyson Chandler,2199,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2017
+Tyson Chandler,2199,Specialty Dunk,2,7,7,Tip Dunk Shot,DUNKS,,2017
+Tyson Chandler,2199,Putback Layup,2,50,31,Tip Layup Shot,LAYUPS,,2017
+Tyson Chandler,2199,Alley Oop Dunk,2,43,35,Alley Oop Dunk Shot,DUNKS,,2018
+Tyson Chandler,2199,Alley Oop Layup,2,19,11,Alley Oop Layup shot,LAYUPS,,2018
+Tyson Chandler,2199,Specialty Dunk,2,10,9,Cutting Dunk Shot,DUNKS,,2018
+Tyson Chandler,2199,Standard Layup,2,8,2,Cutting Layup Shot,LAYUPS,,2018
+Tyson Chandler,2199,Driving Dunk,2,2,1,Driving Dunk Shot,DUNKS,,2018
+Tyson Chandler,2199,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Tyson Chandler,2199,Driving Layup,2,3,0,Driving Layup Shot,LAYUPS,,2018
+Tyson Chandler,2199,Standard Dunk,2,9,9,Dunk Shot,DUNKS,,2018
+Tyson Chandler,2199,Hook Shot,2,3,1,Hook Shot,POST_MOVES,,2018
+Tyson Chandler,2199,Jump Shot,2,3,2,Jump Shot,JUMP_SHOTS,,2018
+Tyson Chandler,2199,Standard Layup,2,15,8,Layup Shot,LAYUPS,,2018
+Tyson Chandler,2199,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2018
+Tyson Chandler,2199,Putback Layup,2,9,8,Putback Layup Shot,LAYUPS,,2018
+Tyson Chandler,2199,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2018
+Tyson Chandler,2199,Alley Oop Dunk,2,2,2,Running Alley Oop Dunk Shot,DUNKS,,2018
+Tyson Chandler,2199,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2018
+Tyson Chandler,2199,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2018
+Tyson Chandler,2199,Specialty Dunk,2,6,4,Tip Dunk Shot,DUNKS,,2018
+Tyson Chandler,2199,Putback Layup,2,46,22,Tip Layup Shot,LAYUPS,,2018
+Tyson Chandler,2199,Alley Oop Dunk,2,13,12,Alley Oop Dunk Shot,DUNKS,,2019
+Tyson Chandler,2199,Alley Oop Layup,2,3,3,Alley Oop Layup shot,LAYUPS,,2019
+Tyson Chandler,2199,Specialty Dunk,2,9,9,Cutting Dunk Shot,DUNKS,,2019
+Tyson Chandler,2199,Standard Layup,2,4,4,Cutting Layup Shot,LAYUPS,,2019
+Tyson Chandler,2199,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Tyson Chandler,2199,Standard Dunk,2,8,6,Dunk Shot,DUNKS,,2019
+Tyson Chandler,2199,Hook Shot,2,3,2,Hook Shot,POST_MOVES,,2019
+Tyson Chandler,2199,Jump Shot,2,3,0,Jump Shot,JUMP_SHOTS,,2019
+Tyson Chandler,2199,Standard Layup,2,11,3,Layup Shot,LAYUPS,,2019
+Tyson Chandler,2199,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2019
+Tyson Chandler,2199,Putback Layup,2,10,4,Putback Layup Shot,LAYUPS,,2019
+Tyson Chandler,2199,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2019
+Tyson Chandler,2199,Reverse Layup,2,3,0,Reverse Layup Shot,LAYUPS,,2019
+Tyson Chandler,2199,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2019
+Tyson Chandler,2199,Specialty Dunk,2,8,6,Tip Dunk Shot,DUNKS,,2019
+Tyson Chandler,2199,Putback Layup,2,18,7,Tip Layup Shot,LAYUPS,,2019
+Tyson Chandler,2199,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2019
+Tyson Chandler,2199,Alley Oop Dunk,2,5,5,Alley Oop Dunk Shot,DUNKS,,2020
+Tyson Chandler,2199,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2020
+Tyson Chandler,2199,Specialty Dunk,2,3,3,Cutting Dunk Shot,DUNKS,,2020
+Tyson Chandler,2199,Standard Layup,2,3,1,Cutting Layup Shot,LAYUPS,,2020
+Tyson Chandler,2199,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2020
+Tyson Chandler,2199,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2020
+Tyson Chandler,2199,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2020
+Tyson Chandler,2199,Putback Layup,2,2,1,Tip Layup Shot,LAYUPS,,2020

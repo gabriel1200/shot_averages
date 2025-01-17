@@ -1,159 +1,233 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1626169,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2016
-1626169,Driving Jump Shot,2PT Field Goal,5,5,Driving Bank shot,JUMP_SHOTS,1.0,2016
-1626169,Driving Dunk,2PT Field Goal,6,6,Driving Dunk Shot,DUNKS,1.0,2016
-1626169,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2016
-1626169,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,1.0,2016
-1626169,Floating Jump Shot,2PT Field Goal,2,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2016
-1626169,Floating Jump Shot,3PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2016
-1626169,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2016
-1626169,Driving Layup,2PT Field Goal,38,24,Driving Layup Shot,LAYUPS,0.631578947368421,2016
-1626169,Driving Layup,2PT Field Goal,2,2,Driving Reverse Layup Shot,LAYUPS,1.0,2016
-1626169,Standard Dunk,2PT Field Goal,2,1,Dunk Shot,DUNKS,0.5,2016
-1626169,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Bank shot,JUMP_SHOTS,1.0,2016
-1626169,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2016
-1626169,Floating Jump Shot,2PT Field Goal,9,8,Floating Jump shot,FLOATING_SHOTS,0.8888888888888888,2016
-1626169,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2016
-1626169,Jump Shot,2PT Field Goal,9,4,Jump Bank Shot,JUMP_SHOTS,0.4444444444444444,2016
-1626169,Jump Shot,2PT Field Goal,128,21,Jump Shot,JUMP_SHOTS,0.1640625,2016
-1626169,Jump Shot,3PT Field Goal,145,43,Jump Shot,JUMP_SHOTS,0.4448275862068965,2016
-1626169,Standard Layup,2PT Field Goal,60,24,Layup Shot,LAYUPS,0.4,2016
-1626169,Pullup Jump Shot,2PT Field Goal,16,9,Pullup Jump shot,JUMP_SHOTS,0.5625,2016
-1626169,Pullup Jump Shot,3PT Field Goal,4,2,Pullup Jump shot,JUMP_SHOTS,0.75,2016
-1626169,Putback Dunk,2PT Field Goal,1,1,Putback Dunk Shot,DUNKS,1.0,2016
-1626169,Putback Layup,2PT Field Goal,1,0,Putback Layup Shot,LAYUPS,0.0,2016
-1626169,Reverse Layup,2PT Field Goal,3,1,Reverse Layup Shot,LAYUPS,0.3333333333333333,2016
-1626169,Alley Oop Layup,2PT Field Goal,1,1,Running Alley Oop Layup Shot,LAYUPS,1.0,2016
-1626169,Standard Dunk,2PT Field Goal,2,2,Running Dunk Shot,DUNKS,1.0,2016
-1626169,Finger Roll,2PT Field Goal,2,1,Running Finger Roll Layup Shot,LAYUPS,0.5,2016
-1626169,Running Jump Shot,2PT Field Goal,6,2,Running Jump Shot,JUMP_SHOTS,0.3333333333333333,2016
-1626169,Standard Layup,2PT Field Goal,7,5,Running Layup Shot,LAYUPS,0.7142857142857143,2016
-1626169,Running Jump Shot,2PT Field Goal,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,1.0,2016
-1626169,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2016
-1626169,Step Back Jump Shot,3PT Field Goal,2,1,Step Back Jump shot,JUMP_SHOTS,0.75,2016
-1626169,Putback Layup,2PT Field Goal,5,2,Tip Layup Shot,LAYUPS,0.4,2016
-1626169,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2016
-1626169,Turnaround Jump Shot,2PT Field Goal,6,2,Turnaround Jump Shot,JUMP_SHOTS,0.3333333333333333,2016
-1626169,Driving Jump Shot,2PT Field Goal,1,0,Driving Bank shot,JUMP_SHOTS,0.0,2017
-1626169,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2017
-1626169,Floating Jump Shot,2PT Field Goal,3,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.0,2017
-1626169,Floating Jump Shot,2PT Field Goal,6,4,Driving Floating Jump Shot,FLOATING_SHOTS,0.6666666666666666,2017
-1626169,Driving Hook Shot,2PT Field Goal,2,0,Driving Hook Shot,POST_MOVES,0.0,2017
-1626169,Driving Layup,2PT Field Goal,19,15,Driving Layup Shot,LAYUPS,0.7894736842105263,2017
-1626169,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2017
-1626169,Finger Roll,2PT Field Goal,1,0,Finger Roll Layup Shot,LAYUPS,0.0,2017
-1626169,Floating Jump Shot,2PT Field Goal,2,2,Floating Jump shot,FLOATING_SHOTS,1.0,2017
-1626169,Jump Shot,3PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2017
-1626169,Jump Shot,2PT Field Goal,95,21,Jump Shot,JUMP_SHOTS,0.2210526315789473,2017
-1626169,Jump Shot,3PT Field Goal,142,39,Jump Shot,JUMP_SHOTS,0.4119718309859155,2017
-1626169,Standard Layup,2PT Field Goal,18,6,Layup Shot,LAYUPS,0.3333333333333333,2017
-1626169,Pullup Jump Shot,2PT Field Goal,3,3,Pullup Bank shot,JUMP_SHOTS,1.0,2017
-1626169,Pullup Jump Shot,2PT Field Goal,28,13,Pullup Jump shot,JUMP_SHOTS,0.4642857142857143,2017
-1626169,Pullup Jump Shot,3PT Field Goal,3,3,Pullup Jump shot,JUMP_SHOTS,1.5,2017
-1626169,Putback Layup,2PT Field Goal,2,2,Putback Layup Shot,LAYUPS,1.0,2017
-1626169,Running Jump Shot,2PT Field Goal,3,0,Running Jump Shot,JUMP_SHOTS,0.0,2017
-1626169,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2017
-1626169,Running Jump Shot,2PT Field Goal,5,4,Running Pull-Up Jump Shot,JUMP_SHOTS,0.8,2017
-1626169,Step Back Jump Shot,2PT Field Goal,5,1,Step Back Jump shot,JUMP_SHOTS,0.2,2017
-1626169,Putback Layup,2PT Field Goal,4,2,Tip Layup Shot,LAYUPS,0.5,2017
-1626169,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2017
-1626169,Turnaround Jump Shot,2PT Field Goal,3,2,Turnaround Jump Shot,JUMP_SHOTS,0.6666666666666666,2017
-1626169,Alley Oop Layup,2PT Field Goal,1,1,Alley Oop Layup shot,LAYUPS,1.0,2018
-1626169,Standard Layup,2PT Field Goal,5,3,Cutting Layup Shot,LAYUPS,0.6,2018
-1626169,Driving Dunk,2PT Field Goal,2,2,Driving Dunk Shot,DUNKS,1.0,2018
-1626169,Finger Roll,2PT Field Goal,5,2,Driving Finger Roll Layup Shot,LAYUPS,0.4,2018
-1626169,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,1.0,2018
-1626169,Floating Jump Shot,2PT Field Goal,4,2,Driving Floating Jump Shot,FLOATING_SHOTS,0.5,2018
-1626169,Driving Hook Shot,2PT Field Goal,4,2,Driving Hook Shot,POST_MOVES,0.5,2018
-1626169,Driving Layup,2PT Field Goal,64,30,Driving Layup Shot,LAYUPS,0.46875,2018
-1626169,Driving Layup,2PT Field Goal,3,3,Driving Reverse Layup Shot,LAYUPS,1.0,2018
-1626169,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,2018
-1626169,Fadeaway Jump Shot,2PT Field Goal,9,3,Fadeaway Jump Shot,JUMP_SHOTS,0.3333333333333333,2018
-1626169,Floating Jump Shot,2PT Field Goal,6,1,Floating Jump shot,FLOATING_SHOTS,0.1666666666666666,2018
-1626169,Hook Shot,2PT Field Goal,8,4,Hook Shot,POST_MOVES,0.5,2018
-1626169,Jump Shot,2PT Field Goal,5,4,Jump Bank Shot,JUMP_SHOTS,0.8,2018
-1626169,Jump Shot,3PT Field Goal,2,1,Jump Bank Shot,JUMP_SHOTS,0.75,2018
-1626169,Jump Shot,2PT Field Goal,35,8,Jump Shot,JUMP_SHOTS,0.2285714285714285,2018
-1626169,Jump Shot,3PT Field Goal,207,59,Jump Shot,JUMP_SHOTS,0.427536231884058,2018
-1626169,Standard Layup,2PT Field Goal,36,13,Layup Shot,LAYUPS,0.3611111111111111,2018
-1626169,Pullup Jump Shot,2PT Field Goal,59,21,Pullup Jump shot,JUMP_SHOTS,0.3559322033898305,2018
-1626169,Pullup Jump Shot,3PT Field Goal,8,4,Pullup Jump shot,JUMP_SHOTS,0.75,2018
-1626169,Putback Dunk,2PT Field Goal,1,0,Putback Dunk Shot,DUNKS,0.0,2018
-1626169,Reverse Layup,2PT Field Goal,6,5,Reverse Layup Shot,LAYUPS,0.8333333333333334,2018
-1626169,Standard Dunk,2PT Field Goal,4,4,Running Dunk Shot,DUNKS,1.0,2018
-1626169,Finger Roll,2PT Field Goal,3,2,Running Finger Roll Layup Shot,LAYUPS,0.6666666666666666,2018
-1626169,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2018
-1626169,Running Jump Shot,3PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.5,2018
-1626169,Standard Layup,2PT Field Goal,15,9,Running Layup Shot,LAYUPS,0.6,2018
-1626169,Running Jump Shot,2PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2018
-1626169,Reverse Layup,2PT Field Goal,1,1,Running Reverse Layup Shot,LAYUPS,1.0,2018
-1626169,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Bank Jump Shot,JUMP_SHOTS,1.0,2018
-1626169,Step Back Jump Shot,2PT Field Goal,7,5,Step Back Jump shot,JUMP_SHOTS,0.7142857142857143,2018
-1626169,Step Back Jump Shot,3PT Field Goal,2,0,Step Back Jump shot,JUMP_SHOTS,0.0,2018
-1626169,Putback Layup,2PT Field Goal,4,3,Tip Layup Shot,LAYUPS,0.75,2018
-1626169,Turnaround Jump Shot,2PT Field Goal,2,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,0.5,2018
-1626169,Turnaround Jump Shot,2PT Field Goal,5,1,Turnaround Fadeaway shot,JUMP_SHOTS,0.2,2018
-1626169,Turnaround Jump Shot,2PT Field Goal,4,2,Turnaround Jump Shot,JUMP_SHOTS,0.5,2018
-1626169,Standard Layup,2PT Field Goal,1,0,Cutting Layup Shot,LAYUPS,0.0,2019
-1626169,Finger Roll,2PT Field Goal,4,3,Driving Finger Roll Layup Shot,LAYUPS,0.75,2019
-1626169,Floating Jump Shot,2PT Field Goal,2,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.5,2019
-1626169,Floating Jump Shot,2PT Field Goal,7,6,Driving Floating Jump Shot,FLOATING_SHOTS,0.8571428571428571,2019
-1626169,Driving Layup,2PT Field Goal,37,21,Driving Layup Shot,LAYUPS,0.5675675675675675,2019
-1626169,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2019
-1626169,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2019
-1626169,Fadeaway Jump Shot,2PT Field Goal,4,2,Fadeaway Jump Shot,JUMP_SHOTS,0.5,2019
-1626169,Floating Jump Shot,2PT Field Goal,2,1,Floating Jump shot,FLOATING_SHOTS,0.5,2019
-1626169,Jump Shot,2PT Field Goal,7,3,Jump Shot,JUMP_SHOTS,0.4285714285714285,2019
-1626169,Jump Shot,3PT Field Goal,110,32,Jump Shot,JUMP_SHOTS,0.4363636363636363,2019
-1626169,Standard Layup,2PT Field Goal,18,4,Layup Shot,LAYUPS,0.2222222222222222,2019
-1626169,Pullup Jump Shot,2PT Field Goal,6,3,Pullup Jump shot,JUMP_SHOTS,0.5,2019
-1626169,Pullup Jump Shot,3PT Field Goal,7,1,Pullup Jump shot,JUMP_SHOTS,0.2142857142857142,2019
-1626169,Putback Layup,2PT Field Goal,3,3,Putback Layup Shot,LAYUPS,1.0,2019
-1626169,Standard Dunk,2PT Field Goal,2,2,Running Dunk Shot,DUNKS,1.0,2019
-1626169,Running Jump Shot,3PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2019
-1626169,Standard Layup,2PT Field Goal,6,2,Running Layup Shot,LAYUPS,0.3333333333333333,2019
-1626169,Step Back Jump Shot,2PT Field Goal,2,1,Step Back Jump shot,JUMP_SHOTS,0.5,2019
-1626169,Step Back Jump Shot,3PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2019
-1626169,Putback Layup,2PT Field Goal,4,2,Tip Layup Shot,LAYUPS,0.5,2019
-1626169,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Bank Hook Shot,POST_MOVES,1.0,2019
-1626169,Turnaround Jump Shot,2PT Field Goal,2,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2019
-1626169,Turnaround Jump Shot,2PT Field Goal,6,2,Turnaround Jump Shot,JUMP_SHOTS,0.3333333333333333,2019
-1626169,Finger Roll,2PT Field Goal,1,1,Cutting Finger Roll Layup Shot,LAYUPS,1.0,2022
-1626169,Standard Layup,2PT Field Goal,7,4,Cutting Layup Shot,LAYUPS,0.5714285714285714,2022
-1626169,Finger Roll,2PT Field Goal,4,2,Driving Finger Roll Layup Shot,LAYUPS,0.5,2022
-1626169,Floating Jump Shot,2PT Field Goal,9,6,Driving Floating Jump Shot,FLOATING_SHOTS,0.6666666666666666,2022
-1626169,Driving Layup,2PT Field Goal,12,6,Driving Layup Shot,LAYUPS,0.5,2022
-1626169,Driving Layup,2PT Field Goal,3,2,Driving Reverse Layup Shot,LAYUPS,0.6666666666666666,2022
-1626169,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2022
-1626169,Hook Shot,2PT Field Goal,1,0,Hook Bank Shot,POST_MOVES,0.0,2022
-1626169,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,2022
-1626169,Jump Shot,2PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2022
-1626169,Jump Shot,2PT Field Goal,4,3,Jump Shot,JUMP_SHOTS,0.75,2022
-1626169,Jump Shot,3PT Field Goal,62,22,Jump Shot,JUMP_SHOTS,0.532258064516129,2022
-1626169,Standard Layup,2PT Field Goal,8,5,Layup Shot,LAYUPS,0.625,2022
-1626169,Pullup Jump Shot,2PT Field Goal,6,3,Pullup Jump shot,JUMP_SHOTS,0.5,2022
-1626169,Pullup Jump Shot,3PT Field Goal,4,3,Pullup Jump shot,JUMP_SHOTS,1.125,2022
-1626169,Running Jump Shot,3PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.75,2022
-1626169,Standard Layup,2PT Field Goal,11,8,Running Layup Shot,LAYUPS,0.7272727272727273,2022
-1626169,Step Back Jump Shot,2PT Field Goal,3,2,Step Back Jump shot,JUMP_SHOTS,0.6666666666666666,2022
-1626169,Step Back Jump Shot,3PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.5,2022
-1626169,Putback Layup,2PT Field Goal,5,4,Tip Layup Shot,LAYUPS,0.8,2022
-1626169,Turnaround Jump Shot,2PT Field Goal,2,1,Turnaround Jump Shot,JUMP_SHOTS,0.5,2022
-1626169,Finger Roll,2PT Field Goal,1,1,Cutting Finger Roll Layup Shot,LAYUPS,1.0,2023
-1626169,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2023
-1626169,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,1.0,2023
-1626169,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2023
-1626169,Driving Layup,2PT Field Goal,7,5,Driving Layup Shot,LAYUPS,0.7142857142857143,2023
-1626169,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2023
-1626169,Floating Jump Shot,2PT Field Goal,5,2,Floating Jump shot,FLOATING_SHOTS,0.4,2023
-1626169,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2023
-1626169,Jump Shot,3PT Field Goal,20,8,Jump Shot,JUMP_SHOTS,0.6,2023
-1626169,Standard Layup,2PT Field Goal,2,0,Layup Shot,LAYUPS,0.0,2023
-1626169,Pullup Jump Shot,2PT Field Goal,4,2,Pullup Jump shot,JUMP_SHOTS,0.5,2023
-1626169,Pullup Jump Shot,3PT Field Goal,3,2,Pullup Jump shot,JUMP_SHOTS,1.0,2023
-1626169,Putback Layup,2PT Field Goal,1,0,Putback Layup Shot,LAYUPS,0.0,2023
-1626169,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2023
-1626169,Finger Roll,2PT Field Goal,2,1,Running Finger Roll Layup Shot,LAYUPS,0.5,2023
-1626169,Standard Layup,2PT Field Goal,2,2,Running Layup Shot,LAYUPS,1.0,2023
-1626169,Putback Layup,2PT Field Goal,2,1,Tip Layup Shot,LAYUPS,0.5,2023
-1626169,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,1.0,2023
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Stanley Johnson,1626169,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2016
+Stanley Johnson,1626169,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2016
+Stanley Johnson,1626169,Driving Jump Shot,2,6,6,Driving Bank shot,JUMP_SHOTS,,2016
+Stanley Johnson,1626169,Driving Dunk,2,7,6,Driving Dunk Shot,DUNKS,,2016
+Stanley Johnson,1626169,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Stanley Johnson,1626169,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2016
+Stanley Johnson,1626169,Floating Jump Shot,2,2,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Stanley Johnson,1626169,Floating Jump Shot,3,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Stanley Johnson,1626169,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2016
+Stanley Johnson,1626169,Driving Layup,2,44,30,Driving Layup Shot,LAYUPS,,2016
+Stanley Johnson,1626169,Driving Layup,2,3,3,Driving Reverse Layup Shot,LAYUPS,,2016
+Stanley Johnson,1626169,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,2016
+Stanley Johnson,1626169,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2016
+Stanley Johnson,1626169,Fadeaway Jump Shot,2,2,2,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Stanley Johnson,1626169,Floating Jump Shot,2,10,9,Floating Jump shot,FLOATING_SHOTS,,2016
+Stanley Johnson,1626169,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2016
+Stanley Johnson,1626169,Hook Shot,2,3,3,Hook Shot,POST_MOVES,,2016
+Stanley Johnson,1626169,Jump Shot,2,10,4,Jump Bank Shot,JUMP_SHOTS,,2016
+Stanley Johnson,1626169,Jump Shot,2,199,40,Jump Shot,JUMP_SHOTS,,2016
+Stanley Johnson,1626169,Jump Shot,3,155,47,Jump Shot,JUMP_SHOTS,,2016
+Stanley Johnson,1626169,Standard Layup,2,70,28,Layup Shot,LAYUPS,,2016
+Stanley Johnson,1626169,Pullup Jump Shot,2,21,12,Pullup Jump shot,JUMP_SHOTS,,2016
+Stanley Johnson,1626169,Pullup Jump Shot,3,4,2,Pullup Jump shot,JUMP_SHOTS,,2016
+Stanley Johnson,1626169,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2016
+Stanley Johnson,1626169,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2016
+Stanley Johnson,1626169,Reverse Layup,2,4,1,Reverse Layup Shot,LAYUPS,,2016
+Stanley Johnson,1626169,Alley Oop Layup,2,1,1,Running Alley Oop Layup Shot,LAYUPS,,2016
+Stanley Johnson,1626169,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2016
+Stanley Johnson,1626169,Finger Roll,2,2,1,Running Finger Roll Layup Shot,LAYUPS,,2016
+Stanley Johnson,1626169,Running Jump Shot,2,10,3,Running Jump Shot,JUMP_SHOTS,,2016
+Stanley Johnson,1626169,Standard Layup,2,12,9,Running Layup Shot,LAYUPS,,2016
+Stanley Johnson,1626169,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2016
+Stanley Johnson,1626169,Step Back Jump Shot,2,3,0,Step Back Jump shot,JUMP_SHOTS,,2016
+Stanley Johnson,1626169,Step Back Jump Shot,3,2,1,Step Back Jump shot,JUMP_SHOTS,,2016
+Stanley Johnson,1626169,Putback Layup,2,5,2,Tip Layup Shot,LAYUPS,,2016
+Stanley Johnson,1626169,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2016
+Stanley Johnson,1626169,Turnaround Jump Shot,2,6,2,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Stanley Johnson,1626169,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2017
+Stanley Johnson,1626169,Driving Jump Shot,2,1,0,Driving Bank shot,JUMP_SHOTS,,2017
+Stanley Johnson,1626169,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2017
+Stanley Johnson,1626169,Floating Jump Shot,2,3,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2017
+Stanley Johnson,1626169,Floating Jump Shot,2,6,4,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Stanley Johnson,1626169,Driving Hook Shot,2,2,0,Driving Hook Shot,POST_MOVES,,2017
+Stanley Johnson,1626169,Driving Layup,2,19,15,Driving Layup Shot,LAYUPS,,2017
+Stanley Johnson,1626169,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2017
+Stanley Johnson,1626169,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2017
+Stanley Johnson,1626169,Floating Jump Shot,2,2,2,Floating Jump shot,FLOATING_SHOTS,,2017
+Stanley Johnson,1626169,Jump Shot,3,1,0,Jump Bank Shot,JUMP_SHOTS,,2017
+Stanley Johnson,1626169,Jump Shot,2,97,22,Jump Shot,JUMP_SHOTS,,2017
+Stanley Johnson,1626169,Jump Shot,3,149,41,Jump Shot,JUMP_SHOTS,,2017
+Stanley Johnson,1626169,Standard Layup,2,18,6,Layup Shot,LAYUPS,,2017
+Stanley Johnson,1626169,Pullup Jump Shot,2,3,3,Pullup Bank shot,JUMP_SHOTS,,2017
+Stanley Johnson,1626169,Pullup Jump Shot,2,29,14,Pullup Jump shot,JUMP_SHOTS,,2017
+Stanley Johnson,1626169,Pullup Jump Shot,3,3,3,Pullup Jump shot,JUMP_SHOTS,,2017
+Stanley Johnson,1626169,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2017
+Stanley Johnson,1626169,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2017
+Stanley Johnson,1626169,Running Jump Shot,2,4,1,Running Jump Shot,JUMP_SHOTS,,2017
+Stanley Johnson,1626169,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2017
+Stanley Johnson,1626169,Running Jump Shot,2,5,4,Running Pull-Up Jump Shot,JUMP_SHOTS,,2017
+Stanley Johnson,1626169,Step Back Jump Shot,2,5,1,Step Back Jump shot,JUMP_SHOTS,,2017
+Stanley Johnson,1626169,Putback Layup,2,4,2,Tip Layup Shot,LAYUPS,,2017
+Stanley Johnson,1626169,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2017
+Stanley Johnson,1626169,Turnaround Jump Shot,2,4,2,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Stanley Johnson,1626169,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2018
+Stanley Johnson,1626169,Standard Layup,2,5,3,Cutting Layup Shot,LAYUPS,,2018
+Stanley Johnson,1626169,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2018
+Stanley Johnson,1626169,Finger Roll,2,5,2,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Stanley Johnson,1626169,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Stanley Johnson,1626169,Floating Jump Shot,2,5,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Stanley Johnson,1626169,Driving Hook Shot,2,4,2,Driving Hook Shot,POST_MOVES,,2018
+Stanley Johnson,1626169,Driving Layup,2,67,32,Driving Layup Shot,LAYUPS,,2018
+Stanley Johnson,1626169,Driving Layup,2,3,3,Driving Reverse Layup Shot,LAYUPS,,2018
+Stanley Johnson,1626169,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2018
+Stanley Johnson,1626169,Fadeaway Jump Shot,2,11,3,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+Stanley Johnson,1626169,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2018
+Stanley Johnson,1626169,Floating Jump Shot,2,6,1,Floating Jump shot,FLOATING_SHOTS,,2018
+Stanley Johnson,1626169,Hook Shot,2,9,4,Hook Shot,POST_MOVES,,2018
+Stanley Johnson,1626169,Jump Shot,2,5,4,Jump Bank Shot,JUMP_SHOTS,,2018
+Stanley Johnson,1626169,Jump Shot,3,2,1,Jump Bank Shot,JUMP_SHOTS,,2018
+Stanley Johnson,1626169,Jump Shot,2,36,8,Jump Shot,JUMP_SHOTS,,2018
+Stanley Johnson,1626169,Jump Shot,3,219,61,Jump Shot,JUMP_SHOTS,,2018
+Stanley Johnson,1626169,Standard Layup,2,40,13,Layup Shot,LAYUPS,,2018
+Stanley Johnson,1626169,Pullup Jump Shot,2,61,22,Pullup Jump shot,JUMP_SHOTS,,2018
+Stanley Johnson,1626169,Pullup Jump Shot,3,9,4,Pullup Jump shot,JUMP_SHOTS,,2018
+Stanley Johnson,1626169,Putback Dunk,2,1,0,Putback Dunk Shot,DUNKS,,2018
+Stanley Johnson,1626169,Reverse Layup,2,6,5,Reverse Layup Shot,LAYUPS,,2018
+Stanley Johnson,1626169,Alley Oop Dunk,2,1,0,Running Alley Oop Dunk Shot,DUNKS,,2018
+Stanley Johnson,1626169,Standard Dunk,2,5,4,Running Dunk Shot,DUNKS,,2018
+Stanley Johnson,1626169,Finger Roll,2,3,2,Running Finger Roll Layup Shot,LAYUPS,,2018
+Stanley Johnson,1626169,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2018
+Stanley Johnson,1626169,Running Jump Shot,3,1,1,Running Jump Shot,JUMP_SHOTS,,2018
+Stanley Johnson,1626169,Standard Layup,2,16,9,Running Layup Shot,LAYUPS,,2018
+Stanley Johnson,1626169,Running Jump Shot,2,2,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2018
+Stanley Johnson,1626169,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2018
+Stanley Johnson,1626169,Step Back Jump Shot,2,1,1,Step Back Bank Jump Shot,JUMP_SHOTS,,2018
+Stanley Johnson,1626169,Step Back Jump Shot,2,8,6,Step Back Jump shot,JUMP_SHOTS,,2018
+Stanley Johnson,1626169,Step Back Jump Shot,3,3,0,Step Back Jump shot,JUMP_SHOTS,,2018
+Stanley Johnson,1626169,Putback Layup,2,4,3,Tip Layup Shot,LAYUPS,,2018
+Stanley Johnson,1626169,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2018
+Stanley Johnson,1626169,Turnaround Jump Shot,2,5,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2018
+Stanley Johnson,1626169,Turnaround Jump Shot,2,4,2,Turnaround Jump Shot,JUMP_SHOTS,,2018
+Stanley Johnson,1626169,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2019
+Stanley Johnson,1626169,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2019
+Stanley Johnson,1626169,Standard Layup,2,1,0,Cutting Layup Shot,LAYUPS,,2019
+Stanley Johnson,1626169,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2019
+Stanley Johnson,1626169,Finger Roll,2,7,4,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Stanley Johnson,1626169,Floating Jump Shot,2,8,5,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Stanley Johnson,1626169,Floating Jump Shot,2,13,8,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Stanley Johnson,1626169,Driving Layup,2,63,34,Driving Layup Shot,LAYUPS,,2019
+Stanley Johnson,1626169,Driving Layup,2,4,1,Driving Reverse Layup Shot,LAYUPS,,2019
+Stanley Johnson,1626169,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2019
+Stanley Johnson,1626169,Fadeaway Jump Shot,2,9,6,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+Stanley Johnson,1626169,Floating Jump Shot,2,6,2,Floating Jump shot,FLOATING_SHOTS,,2019
+Stanley Johnson,1626169,Jump Shot,2,3,1,Jump Bank Shot,JUMP_SHOTS,,2019
+Stanley Johnson,1626169,Jump Shot,2,87,23,Jump Shot,JUMP_SHOTS,,2019
+Stanley Johnson,1626169,Jump Shot,3,120,38,Jump Shot,JUMP_SHOTS,,2019
+Stanley Johnson,1626169,Standard Layup,2,36,12,Layup Shot,LAYUPS,,2019
+Stanley Johnson,1626169,Pullup Jump Shot,2,14,4,Pullup Jump shot,JUMP_SHOTS,,2019
+Stanley Johnson,1626169,Pullup Jump Shot,3,9,2,Pullup Jump shot,JUMP_SHOTS,,2019
+Stanley Johnson,1626169,Putback Layup,2,3,3,Putback Layup Shot,LAYUPS,,2019
+Stanley Johnson,1626169,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2019
+Stanley Johnson,1626169,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2019
+Stanley Johnson,1626169,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2019
+Stanley Johnson,1626169,Standard Layup,2,14,8,Running Layup Shot,LAYUPS,,2019
+Stanley Johnson,1626169,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2019
+Stanley Johnson,1626169,Step Back Jump Shot,2,12,4,Step Back Jump shot,JUMP_SHOTS,,2019
+Stanley Johnson,1626169,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2019
+Stanley Johnson,1626169,Putback Layup,2,8,3,Tip Layup Shot,LAYUPS,,2019
+Stanley Johnson,1626169,Turnaround Hook Shot,2,1,1,Turnaround Bank Hook Shot,POST_MOVES,,2019
+Stanley Johnson,1626169,Turnaround Jump Shot,2,3,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2019
+Stanley Johnson,1626169,Turnaround Jump Shot,2,6,2,Turnaround Jump Shot,JUMP_SHOTS,,2019
+Stanley Johnson,1626169,Standard Layup,2,1,0,Cutting Layup Shot,LAYUPS,,2020
+Stanley Johnson,1626169,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2020
+Stanley Johnson,1626169,Floating Jump Shot,2,3,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2020
+Stanley Johnson,1626169,Floating Jump Shot,2,2,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Stanley Johnson,1626169,Driving Layup,2,7,4,Driving Layup Shot,LAYUPS,,2020
+Stanley Johnson,1626169,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+Stanley Johnson,1626169,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2020
+Stanley Johnson,1626169,Jump Shot,2,3,2,Jump Shot,JUMP_SHOTS,,2020
+Stanley Johnson,1626169,Jump Shot,3,15,3,Jump Shot,JUMP_SHOTS,,2020
+Stanley Johnson,1626169,Pullup Jump Shot,2,3,0,Pullup Jump shot,JUMP_SHOTS,,2020
+Stanley Johnson,1626169,Pullup Jump Shot,3,7,3,Pullup Jump shot,JUMP_SHOTS,,2020
+Stanley Johnson,1626169,Finger Roll,2,2,2,Running Finger Roll Layup Shot,LAYUPS,,2020
+Stanley Johnson,1626169,Standard Layup,2,5,2,Running Layup Shot,LAYUPS,,2020
+Stanley Johnson,1626169,Step Back Jump Shot,3,2,1,Step Back Jump shot,JUMP_SHOTS,,2020
+Stanley Johnson,1626169,Putback Layup,2,2,1,Tip Layup Shot,LAYUPS,,2020
+Stanley Johnson,1626169,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2020
+Stanley Johnson,1626169,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2020
+Stanley Johnson,1626169,Standard Layup,2,4,3,Cutting Layup Shot,LAYUPS,,2021
+Stanley Johnson,1626169,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Stanley Johnson,1626169,Floating Jump Shot,2,5,3,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2021
+Stanley Johnson,1626169,Floating Jump Shot,2,4,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Stanley Johnson,1626169,Driving Layup,2,28,11,Driving Layup Shot,LAYUPS,,2021
+Stanley Johnson,1626169,Driving Layup,2,4,3,Driving Reverse Layup Shot,LAYUPS,,2021
+Stanley Johnson,1626169,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2021
+Stanley Johnson,1626169,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2021
+Stanley Johnson,1626169,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2021
+Stanley Johnson,1626169,Hook Shot,2,4,0,Hook Shot,POST_MOVES,,2021
+Stanley Johnson,1626169,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2021
+Stanley Johnson,1626169,Jump Shot,2,2,1,Jump Shot,JUMP_SHOTS,,2021
+Stanley Johnson,1626169,Jump Shot,3,126,42,Jump Shot,JUMP_SHOTS,,2021
+Stanley Johnson,1626169,Standard Layup,2,6,1,Layup Shot,LAYUPS,,2021
+Stanley Johnson,1626169,Pullup Jump Shot,2,4,1,Pullup Jump shot,JUMP_SHOTS,,2021
+Stanley Johnson,1626169,Pullup Jump Shot,3,7,1,Pullup Jump shot,JUMP_SHOTS,,2021
+Stanley Johnson,1626169,Putback Layup,2,4,2,Putback Layup Shot,LAYUPS,,2021
+Stanley Johnson,1626169,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2021
+Stanley Johnson,1626169,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2021
+Stanley Johnson,1626169,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2021
+Stanley Johnson,1626169,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2021
+Stanley Johnson,1626169,Standard Layup,2,8,6,Running Layup Shot,LAYUPS,,2021
+Stanley Johnson,1626169,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2021
+Stanley Johnson,1626169,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2021
+Stanley Johnson,1626169,Step Back Jump Shot,3,3,2,Step Back Jump shot,JUMP_SHOTS,,2021
+Stanley Johnson,1626169,Putback Layup,2,2,0,Tip Layup Shot,LAYUPS,,2021
+Stanley Johnson,1626169,Turnaround Jump Shot,2,3,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2021
+Stanley Johnson,1626169,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2021
+Stanley Johnson,1626169,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2022
+Stanley Johnson,1626169,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2022
+Stanley Johnson,1626169,Standard Layup,2,17,13,Cutting Layup Shot,LAYUPS,,2022
+Stanley Johnson,1626169,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2022
+Stanley Johnson,1626169,Finger Roll,2,5,3,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Stanley Johnson,1626169,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Stanley Johnson,1626169,Floating Jump Shot,2,14,8,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Stanley Johnson,1626169,Driving Layup,2,24,12,Driving Layup Shot,LAYUPS,,2022
+Stanley Johnson,1626169,Driving Layup,2,4,3,Driving Reverse Layup Shot,LAYUPS,,2022
+Stanley Johnson,1626169,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Stanley Johnson,1626169,Floating Jump Shot,2,3,0,Floating Jump shot,FLOATING_SHOTS,,2022
+Stanley Johnson,1626169,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2022
+Stanley Johnson,1626169,Hook Shot,2,3,2,Hook Shot,POST_MOVES,,2022
+Stanley Johnson,1626169,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2022
+Stanley Johnson,1626169,Jump Shot,2,8,5,Jump Shot,JUMP_SHOTS,,2022
+Stanley Johnson,1626169,Jump Shot,3,98,28,Jump Shot,JUMP_SHOTS,,2022
+Stanley Johnson,1626169,Standard Layup,2,14,8,Layup Shot,LAYUPS,,2022
+Stanley Johnson,1626169,Pullup Jump Shot,2,10,6,Pullup Jump shot,JUMP_SHOTS,,2022
+Stanley Johnson,1626169,Pullup Jump Shot,3,4,3,Pullup Jump shot,JUMP_SHOTS,,2022
+Stanley Johnson,1626169,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2022
+Stanley Johnson,1626169,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2022
+Stanley Johnson,1626169,Running Jump Shot,3,2,1,Running Jump Shot,JUMP_SHOTS,,2022
+Stanley Johnson,1626169,Standard Layup,2,14,9,Running Layup Shot,LAYUPS,,2022
+Stanley Johnson,1626169,Step Back Jump Shot,2,4,3,Step Back Jump shot,JUMP_SHOTS,,2022
+Stanley Johnson,1626169,Step Back Jump Shot,3,1,1,Step Back Jump shot,JUMP_SHOTS,,2022
+Stanley Johnson,1626169,Putback Layup,2,8,5,Tip Layup Shot,LAYUPS,,2022
+Stanley Johnson,1626169,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2022
+Stanley Johnson,1626169,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2022
+Stanley Johnson,1626169,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2022
+Stanley Johnson,1626169,Turnaround Jump Shot,2,4,1,Turnaround Jump Shot,JUMP_SHOTS,,2022
+Stanley Johnson,1626169,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2023
+Stanley Johnson,1626169,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2023
+Stanley Johnson,1626169,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2023
+Stanley Johnson,1626169,Finger Roll,2,4,3,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Stanley Johnson,1626169,Floating Jump Shot,2,2,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+Stanley Johnson,1626169,Floating Jump Shot,2,3,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Stanley Johnson,1626169,Driving Hook Shot,2,2,2,Driving Hook Shot,POST_MOVES,,2023
+Stanley Johnson,1626169,Driving Layup,2,13,9,Driving Layup Shot,LAYUPS,,2023
+Stanley Johnson,1626169,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2023
+Stanley Johnson,1626169,Fadeaway Jump Shot,2,3,1,Fadeaway Jump Shot,JUMP_SHOTS,,2023
+Stanley Johnson,1626169,Floating Jump Shot,2,6,3,Floating Jump shot,FLOATING_SHOTS,,2023
+Stanley Johnson,1626169,Jump Shot,2,4,3,Jump Shot,JUMP_SHOTS,,2023
+Stanley Johnson,1626169,Jump Shot,3,36,16,Jump Shot,JUMP_SHOTS,,2023
+Stanley Johnson,1626169,Standard Layup,2,6,1,Layup Shot,LAYUPS,,2023
+Stanley Johnson,1626169,Pullup Jump Shot,2,9,3,Pullup Jump shot,JUMP_SHOTS,,2023
+Stanley Johnson,1626169,Pullup Jump Shot,3,4,2,Pullup Jump shot,JUMP_SHOTS,,2023
+Stanley Johnson,1626169,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2023
+Stanley Johnson,1626169,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2023
+Stanley Johnson,1626169,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2023
+Stanley Johnson,1626169,Finger Roll,2,2,1,Running Finger Roll Layup Shot,LAYUPS,,2023
+Stanley Johnson,1626169,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2023
+Stanley Johnson,1626169,Standard Layup,2,11,8,Running Layup Shot,LAYUPS,,2023
+Stanley Johnson,1626169,Putback Layup,2,4,2,Tip Layup Shot,LAYUPS,,2023
+Stanley Johnson,1626169,Turnaround Jump Shot,2,2,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2023
+Stanley Johnson,1626169,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2023
+Stanley Johnson,1626169,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2023

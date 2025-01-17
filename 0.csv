@@ -1,127 +1,1142 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-0,Alley Oop Dunk,2PT Field Goal,920,825,Alley Oop Dunk Shot,DUNKS,0.8967391304347826,2024
-0,Alley Oop Layup,2PT Field Goal,444,277,Alley Oop Layup shot,LAYUPS,0.6238738738738738,2024
-0,Specialty Dunk,2PT Field Goal,1709,1556,Cutting Dunk Shot,DUNKS,0.9104739613809244,2024
-0,Finger Roll,2PT Field Goal,422,333,Cutting Finger Roll Layup Shot,LAYUPS,0.7890995260663507,2024
-0,Standard Layup,2PT Field Goal,3010,2080,Cutting Layup Shot,LAYUPS,0.6910299003322259,2024
-0,Driving Hook Shot,2PT Field Goal,174,91,Driving Bank Hook Shot,POST_MOVES,0.5229885057471264,2024
-0,Driving Dunk,2PT Field Goal,1148,915,Driving Dunk Shot,DUNKS,0.7970383275261324,2024
-0,Finger Roll,2PT Field Goal,3610,2239,Driving Finger Roll Layup Shot,LAYUPS,0.6202216066481995,2024
-0,Floating Jump Shot,2PT Field Goal,1930,995,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.5155440414507773,2024
-0,Floating Jump Shot,3PT Field Goal,5,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.6,2024
-0,Floating Jump Shot,2PT Field Goal,6142,2648,Driving Floating Jump Shot,FLOATING_SHOTS,0.4311299251058287,2024
-0,Floating Jump Shot,3PT Field Goal,13,1,Driving Floating Jump Shot,FLOATING_SHOTS,0.1153846153846153,2024
-0,Driving Hook Shot,2PT Field Goal,884,385,Driving Hook Shot,POST_MOVES,0.4355203619909502,2024
-0,Driving Layup,2PT Field Goal,10994,5367,Driving Layup Shot,LAYUPS,0.4881753683827542,2024
-0,Reverse Dunk,2PT Field Goal,22,15,Driving Reverse Dunk Shot,DUNKS,0.6818181818181818,2024
-0,Driving Layup,2PT Field Goal,1335,774,Driving Reverse Layup Shot,LAYUPS,0.5797752808988764,2024
-0,Standard Dunk,2PT Field Goal,883,766,Dunk Shot,DUNKS,0.8674971687429218,2024
-0,Fadeaway Jump Shot,2PT Field Goal,112,60,Fadeaway Bank shot,JUMP_SHOTS,0.5357142857142857,2024
-0,Fadeaway Jump Shot,3PT Field Goal,4,0,Fadeaway Bank shot,JUMP_SHOTS,0.0,2024
-0,Fadeaway Jump Shot,2PT Field Goal,2262,870,Fadeaway Jump Shot,JUMP_SHOTS,0.3846153846153846,2024
-0,Fadeaway Jump Shot,3PT Field Goal,102,19,Fadeaway Jump Shot,JUMP_SHOTS,0.2794117647058823,2024
-0,Finger Roll,2PT Field Goal,251,156,Finger Roll Layup Shot,LAYUPS,0.6215139442231076,2024
-0,Floating Jump Shot,2PT Field Goal,2401,1127,Floating Jump shot,FLOATING_SHOTS,0.4693877551020408,2024
-0,Floating Jump Shot,3PT Field Goal,46,5,Floating Jump shot,FLOATING_SHOTS,0.1630434782608695,2024
-0,Hook Shot,2PT Field Goal,74,41,Hook Bank Shot,POST_MOVES,0.5540540540540541,2024
-0,Hook Shot,2PT Field Goal,1091,509,Hook Shot,POST_MOVES,0.4665444546287809,2024
-0,Jump Shot,2PT Field Goal,159,106,Jump Bank Shot,JUMP_SHOTS,0.6666666666666666,2024
-0,Jump Shot,3PT Field Goal,79,29,Jump Bank Shot,JUMP_SHOTS,0.5506329113924051,2024
-0,Jump Shot,2PT Field Goal,2548,1078,Jump Shot,JUMP_SHOTS,0.4230769230769231,2024
-0,Jump Shot,3PT Field Goal,33721,12509,Jump Shot,JUMP_SHOTS,0.5564336763441179,2024
-0,Standard Layup,2PT Field Goal,3260,1641,Layup Shot,LAYUPS,0.5033742331288343,2024
-0,Pullup Jump Shot,2PT Field Goal,7435,3294,Pullup Jump shot,JUMP_SHOTS,0.443039677202421,2024
-0,Pullup Jump Shot,3PT Field Goal,6686,2267,Pullup Jump shot,JUMP_SHOTS,0.5086000598265031,2024
-0,Putback Dunk,2PT Field Goal,280,251,Putback Dunk Shot,DUNKS,0.8964285714285715,2024
-0,Putback Layup,2PT Field Goal,2189,1470,Putback Layup Shot,LAYUPS,0.6715395157606213,2024
-0,Reverse Dunk,2PT Field Goal,81,74,Reverse Dunk Shot,DUNKS,0.9135802469135802,2024
-0,Reverse Layup,2PT Field Goal,751,506,Reverse Layup Shot,LAYUPS,0.6737683089214381,2024
-0,Alley Oop Dunk,2PT Field Goal,290,264,Running Alley Oop Dunk Shot,DUNKS,0.9103448275862068,2024
-0,Alley Oop Layup,2PT Field Goal,100,66,Running Alley Oop Layup Shot,LAYUPS,0.66,2024
-0,Standard Dunk,2PT Field Goal,1506,1412,Running Dunk Shot,DUNKS,0.9375830013280212,2024
-0,Finger Roll,2PT Field Goal,989,721,Running Finger Roll Layup Shot,LAYUPS,0.7290192113245703,2024
-0,Running Jump Shot,2PT Field Goal,143,58,Running Jump Shot,JUMP_SHOTS,0.4055944055944055,2024
-0,Running Jump Shot,3PT Field Goal,3130,1240,Running Jump Shot,JUMP_SHOTS,0.5942492012779552,2024
-0,Standard Layup,2PT Field Goal,4074,2426,Running Layup Shot,LAYUPS,0.5954835542464408,2024
-0,Running Jump Shot,2PT Field Goal,292,151,Running Pull-Up Jump Shot,JUMP_SHOTS,0.5171232876712328,2024
-0,Running Jump Shot,3PT Field Goal,1315,489,Running Pull-Up Jump Shot,JUMP_SHOTS,0.5577946768060836,2024
-0,Reverse Dunk,2PT Field Goal,19,18,Running Reverse Dunk Shot,DUNKS,0.9473684210526316,2024
-0,Reverse Layup,2PT Field Goal,367,249,Running Reverse Layup Shot,LAYUPS,0.6784741144414169,2024
-0,Step Back Jump Shot,2PT Field Goal,30,17,Step Back Bank Jump Shot,JUMP_SHOTS,0.5666666666666667,2024
-0,Step Back Jump Shot,3PT Field Goal,19,11,Step Back Bank Jump Shot,JUMP_SHOTS,0.868421052631579,2024
-0,Step Back Jump Shot,2PT Field Goal,2182,940,Step Back Jump shot,JUMP_SHOTS,0.4307974335472044,2024
-0,Step Back Jump Shot,3PT Field Goal,4017,1406,Step Back Jump shot,JUMP_SHOTS,0.5250186706497386,2024
-0,Specialty Dunk,2PT Field Goal,491,430,Tip Dunk Shot,DUNKS,0.8757637474541752,2024
-0,Putback Layup,2PT Field Goal,2706,1304,Tip Layup Shot,LAYUPS,0.4818920916481892,2024
-0,Turnaround Hook Shot,2PT Field Goal,127,67,Turnaround Bank Hook Shot,POST_MOVES,0.5275590551181102,2024
-0,Turnaround Jump Shot,2PT Field Goal,209,113,Turnaround Bank shot,JUMP_SHOTS,0.5406698564593302,2024
-0,Turnaround Jump Shot,3PT Field Goal,1,1,Turnaround Bank shot,JUMP_SHOTS,1.5,2024
-0,Turnaround Jump Shot,2PT Field Goal,61,32,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,0.5245901639344263,2024
-0,Turnaround Jump Shot,3PT Field Goal,2,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,0.75,2024
-0,Turnaround Jump Shot,2PT Field Goal,1867,814,Turnaround Fadeaway shot,JUMP_SHOTS,0.4359935725763256,2024
-0,Turnaround Jump Shot,3PT Field Goal,14,2,Turnaround Fadeaway shot,JUMP_SHOTS,0.2142857142857142,2024
-0,Turnaround Hook Shot,2PT Field Goal,1373,665,Turnaround Hook Shot,POST_MOVES,0.4843408594319009,2024
-0,Turnaround Jump Shot,2PT Field Goal,1640,666,Turnaround Jump Shot,JUMP_SHOTS,0.4060975609756098,2024
-0,Turnaround Jump Shot,3PT Field Goal,52,9,Turnaround Jump Shot,JUMP_SHOTS,0.2596153846153846,2024
-0,Alley Oop Dunk,2PT Field Goal,495,449,Alley Oop Dunk Shot,DUNKS,0.907070707070707,2025
-0,Alley Oop Layup,2PT Field Goal,222,135,Alley Oop Layup shot,LAYUPS,0.6081081081081081,2025
-0,Specialty Dunk,2PT Field Goal,885,798,Cutting Dunk Shot,DUNKS,0.9016949152542372,2025
-0,Finger Roll,2PT Field Goal,221,169,Cutting Finger Roll Layup Shot,LAYUPS,0.7647058823529411,2025
-0,Standard Layup,2PT Field Goal,1640,1118,Cutting Layup Shot,LAYUPS,0.6817073170731708,2025
-0,Driving Hook Shot,2PT Field Goal,94,46,Driving Bank Hook Shot,POST_MOVES,0.4893617021276595,2025
-0,Driving Dunk,2PT Field Goal,498,376,Driving Dunk Shot,DUNKS,0.7550200803212851,2025
-0,Finger Roll,2PT Field Goal,1717,1073,Driving Finger Roll Layup Shot,LAYUPS,0.6249271986022131,2025
-0,Floating Jump Shot,2PT Field Goal,1003,522,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.5204386839481555,2025
-0,Floating Jump Shot,3PT Field Goal,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.0,2025
-0,Floating Jump Shot,2PT Field Goal,3320,1485,Driving Floating Jump Shot,FLOATING_SHOTS,0.447289156626506,2025
-0,Floating Jump Shot,3PT Field Goal,18,1,Driving Floating Jump Shot,FLOATING_SHOTS,0.0833333333333333,2025
-0,Driving Hook Shot,2PT Field Goal,443,212,Driving Hook Shot,POST_MOVES,0.4785553047404063,2025
-0,Driving Layup,2PT Field Goal,5224,2456,Driving Layup Shot,LAYUPS,0.4701378254211332,2025
-0,Reverse Dunk,2PT Field Goal,17,14,Driving Reverse Dunk Shot,DUNKS,0.8235294117647058,2025
-0,Driving Layup,2PT Field Goal,615,350,Driving Reverse Layup Shot,LAYUPS,0.5691056910569106,2025
-0,Standard Dunk,2PT Field Goal,312,262,Dunk Shot,DUNKS,0.8397435897435898,2025
-0,Fadeaway Jump Shot,2PT Field Goal,43,24,Fadeaway Bank shot,JUMP_SHOTS,0.5581395348837209,2025
-0,Fadeaway Jump Shot,3PT Field Goal,3,0,Fadeaway Bank shot,JUMP_SHOTS,0.0,2025
-0,Fadeaway Jump Shot,2PT Field Goal,950,359,Fadeaway Jump Shot,JUMP_SHOTS,0.3778947368421053,2025
-0,Fadeaway Jump Shot,3PT Field Goal,76,15,Fadeaway Jump Shot,JUMP_SHOTS,0.2960526315789473,2025
-0,Finger Roll,2PT Field Goal,97,63,Finger Roll Layup Shot,LAYUPS,0.6494845360824743,2025
-0,Floating Jump Shot,2PT Field Goal,1041,510,Floating Jump shot,FLOATING_SHOTS,0.4899135446685879,2025
-0,Floating Jump Shot,3PT Field Goal,19,4,Floating Jump shot,FLOATING_SHOTS,0.3157894736842105,2025
-0,Hook Shot,2PT Field Goal,40,20,Hook Bank Shot,POST_MOVES,0.5,2025
-0,Hook Shot,2PT Field Goal,405,192,Hook Shot,POST_MOVES,0.4740740740740741,2025
-0,Jump Shot,2PT Field Goal,61,31,Jump Bank Shot,JUMP_SHOTS,0.5081967213114754,2025
-0,Jump Shot,3PT Field Goal,60,18,Jump Bank Shot,JUMP_SHOTS,0.45,2025
-0,Jump Shot,2PT Field Goal,945,382,Jump Shot,JUMP_SHOTS,0.4042328042328042,2025
-0,Jump Shot,3PT Field Goal,16761,6159,Jump Shot,JUMP_SHOTS,0.5511902631107929,2025
-0,Standard Layup,2PT Field Goal,1130,601,Layup Shot,LAYUPS,0.531858407079646,2025
-0,Pullup Jump Shot,2PT Field Goal,2987,1238,Pullup Jump shot,JUMP_SHOTS,0.4144626715768329,2025
-0,Pullup Jump Shot,3PT Field Goal,3806,1240,Pullup Jump shot,JUMP_SHOTS,0.488702049395691,2025
-0,Putback Dunk,2PT Field Goal,131,117,Putback Dunk Shot,DUNKS,0.8931297709923665,2025
-0,Putback Layup,2PT Field Goal,1014,634,Putback Layup Shot,LAYUPS,0.6252465483234714,2025
-0,Reverse Dunk,2PT Field Goal,30,27,Reverse Dunk Shot,DUNKS,0.9,2025
-0,Reverse Layup,2PT Field Goal,300,191,Reverse Layup Shot,LAYUPS,0.6366666666666667,2025
-0,Alley Oop Dunk,2PT Field Goal,179,164,Running Alley Oop Dunk Shot,DUNKS,0.9162011173184358,2025
-0,Alley Oop Layup,2PT Field Goal,66,44,Running Alley Oop Layup Shot,LAYUPS,0.6666666666666666,2025
-0,Standard Dunk,2PT Field Goal,861,800,Running Dunk Shot,DUNKS,0.9291521486643438,2025
-0,Finger Roll,2PT Field Goal,491,349,Running Finger Roll Layup Shot,LAYUPS,0.7107942973523421,2025
-0,Running Jump Shot,2PT Field Goal,50,21,Running Jump Shot,JUMP_SHOTS,0.42,2025
-0,Running Jump Shot,3PT Field Goal,1888,704,Running Jump Shot,JUMP_SHOTS,0.559322033898305,2025
-0,Standard Layup,2PT Field Goal,2082,1180,Running Layup Shot,LAYUPS,0.5667627281460135,2025
-0,Running Jump Shot,2PT Field Goal,128,62,Running Pull-Up Jump Shot,JUMP_SHOTS,0.484375,2025
-0,Running Jump Shot,3PT Field Goal,817,314,Running Pull-Up Jump Shot,JUMP_SHOTS,0.576499388004896,2025
-0,Reverse Dunk,2PT Field Goal,15,13,Running Reverse Dunk Shot,DUNKS,0.8666666666666667,2025
-0,Reverse Layup,2PT Field Goal,174,123,Running Reverse Layup Shot,LAYUPS,0.7068965517241379,2025
-0,Step Back Jump Shot,2PT Field Goal,6,3,Step Back Bank Jump Shot,JUMP_SHOTS,0.5,2025
-0,Step Back Jump Shot,3PT Field Goal,19,9,Step Back Bank Jump Shot,JUMP_SHOTS,0.7105263157894737,2025
-0,Step Back Jump Shot,2PT Field Goal,1103,477,Step Back Jump shot,JUMP_SHOTS,0.4324569356300997,2025
-0,Step Back Jump Shot,3PT Field Goal,2367,813,Step Back Jump shot,JUMP_SHOTS,0.5152091254752852,2025
-0,Specialty Dunk,2PT Field Goal,185,153,Tip Dunk Shot,DUNKS,0.827027027027027,2025
-0,Putback Layup,2PT Field Goal,1331,634,Tip Layup Shot,LAYUPS,0.4763335837716003,2025
-0,Turnaround Hook Shot,2PT Field Goal,66,40,Turnaround Bank Hook Shot,POST_MOVES,0.6060606060606061,2025
-0,Turnaround Jump Shot,2PT Field Goal,67,42,Turnaround Bank shot,JUMP_SHOTS,0.6268656716417911,2025
-0,Turnaround Jump Shot,2PT Field Goal,24,12,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,0.5,2025
-0,Turnaround Jump Shot,2PT Field Goal,900,391,Turnaround Fadeaway shot,JUMP_SHOTS,0.4344444444444444,2025
-0,Turnaround Jump Shot,3PT Field Goal,8,1,Turnaround Fadeaway shot,JUMP_SHOTS,0.1875,2025
-0,Turnaround Hook Shot,2PT Field Goal,707,342,Turnaround Hook Shot,POST_MOVES,0.4837340876944837,2025
-0,Turnaround Jump Shot,2PT Field Goal,648,278,Turnaround Jump Shot,JUMP_SHOTS,0.4290123456790123,2025
-0,Turnaround Jump Shot,3PT Field Goal,16,3,Turnaround Jump Shot,JUMP_SHOTS,0.28125,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Opponent,0,Driving Dunk,2,1041,1014,Driving Dunk Shot,DUNKS,,1997
+Opponent,0,Driving Layup,2,11912,9356,Driving Layup Shot,LAYUPS,,1997
+Opponent,0,Standard Dunk,2,3991,3627,Dunk Shot,DUNKS,,1997
+Opponent,0,Hook Shot,2,5941,3518,Hook Shot,POST_MOVES,,1997
+Opponent,0,Jump Shot,2,111104,42281,Jump Shot,JUMP_SHOTS,,1997
+Opponent,0,Standard Layup,2,43006,17579,Layup Shot,LAYUPS,,1997
+Opponent,0,Running Jump Shot,2,3663,2449,Running Jump Shot,JUMP_SHOTS,,1997
+Opponent,0,Standard Dunk,2,4014,3896,Slam Dunk Shot,DUNKS,,1997
+Opponent,0,Tip Shot,2,3917,2054,Tip Shot,TIP_SHOTS,,1997
+Opponent,0,Driving Dunk,2,1040,1004,Driving Dunk Shot,DUNKS,,1998
+Opponent,0,Driving Layup,2,13246,9218,Driving Layup Shot,LAYUPS,,1998
+Opponent,0,Standard Dunk,2,4798,4261,Dunk Shot,DUNKS,,1998
+Opponent,0,Hook Shot,2,6123,3214,Hook Shot,POST_MOVES,,1998
+Opponent,0,Jump Shot,2,119169,42523,Jump Shot,JUMP_SHOTS,,1998
+Opponent,0,Standard Layup,2,31729,16146,Layup Shot,LAYUPS,,1998
+Opponent,0,No Shot,2,26,6,No Shot,NO_SHOT,,1998
+Opponent,0,Running Jump Shot,2,4422,2701,Running Jump Shot,JUMP_SHOTS,,1998
+Opponent,0,Standard Dunk,2,4185,4062,Slam Dunk Shot,DUNKS,,1998
+Opponent,0,Tip Shot,2,4798,2248,Tip Shot,TIP_SHOTS,,1998
+Opponent,0,Driving Dunk,2,487,453,Driving Dunk Shot,DUNKS,,1999
+Opponent,0,Driving Layup,2,8110,5244,Driving Layup Shot,LAYUPS,,1999
+Opponent,0,Standard Dunk,2,2469,2179,Dunk Shot,DUNKS,,1999
+Opponent,0,Hook Shot,2,3780,2055,Hook Shot,POST_MOVES,,1999
+Opponent,0,Jump Shot,2,73418,25571,Jump Shot,JUMP_SHOTS,,1999
+Opponent,0,Standard Layup,2,17630,9228,Layup Shot,LAYUPS,,1999
+Opponent,0,No Shot,2,2,0,No Shot,NO_SHOT,,1999
+Opponent,0,Running Jump Shot,2,2795,1621,Running Jump Shot,JUMP_SHOTS,,1999
+Opponent,0,Standard Dunk,2,2118,2051,Slam Dunk Shot,DUNKS,,1999
+Opponent,0,Tip Shot,2,2568,1147,Tip Shot,TIP_SHOTS,,1999
+Opponent,0,Driving Dunk,2,962,892,Driving Dunk Shot,DUNKS,,2000
+Opponent,0,Driving Layup,2,13706,9172,Driving Layup Shot,LAYUPS,,2000
+Opponent,0,Standard Dunk,2,4448,3876,Dunk Shot,DUNKS,,2000
+Opponent,0,Hook Shot,2,6206,3346,Hook Shot,POST_MOVES,,2000
+Opponent,0,Jump Shot,2,128186,46436,Jump Shot,JUMP_SHOTS,,2000
+Opponent,0,Standard Layup,2,28831,15359,Layup Shot,LAYUPS,,2000
+Opponent,0,No Shot,2,2,0,No Shot,NO_SHOT,,2000
+Opponent,0,Running Jump Shot,2,4908,2915,Running Jump Shot,JUMP_SHOTS,,2000
+Opponent,0,Standard Dunk,2,3678,3557,Slam Dunk Shot,DUNKS,,2000
+Opponent,0,Tip Shot,2,4293,2038,Tip Shot,TIP_SHOTS,,2000
+Opponent,0,Alley Oop Dunk,2,660,609,Alley Oop Dunk Shot,DUNKS,,2001
+Opponent,0,Alley Oop Layup,2,246,183,Alley Oop Layup shot,LAYUPS,,2001
+Opponent,0,Driving Dunk,2,921,871,Driving Dunk Shot,DUNKS,,2001
+Opponent,0,Finger Roll,2,263,184,Driving Finger Roll Shot,LAYUPS,,2001
+Opponent,0,Driving Hook Shot,2,105,83,Driving Hook Shot,POST_MOVES,,2001
+Opponent,0,Driving Layup,2,9637,6850,Driving Layup Shot,LAYUPS,,2001
+Opponent,0,Standard Dunk,2,3981,3336,Dunk Shot,DUNKS,,2001
+Opponent,0,Finger Roll,2,321,210,Finger Roll Shot,LAYUPS,,2001
+Opponent,0,Hook Shot,2,4876,2490,Hook Shot,POST_MOVES,,2001
+Opponent,0,Jump Shot,2,124866,44244,Jump Shot,JUMP_SHOTS,,2001
+Opponent,0,Standard Layup,2,27702,13883,Layup Shot,LAYUPS,,2001
+Opponent,0,No Shot,2,3,1,No Shot,NO_SHOT,,2001
+Opponent,0,Reverse Dunk,2,158,151,Reverse Dunk Shot,DUNKS,,2001
+Opponent,0,Reverse Layup,2,1667,1126,Reverse Layup Shot,LAYUPS,,2001
+Opponent,0,Standard Dunk,2,144,134,Running Dunk Shot,DUNKS,,2001
+Opponent,0,Finger Roll,2,40,33,Running Finger Roll Shot,LAYUPS,,2001
+Opponent,0,Running Hook Shot,2,445,296,Running Hook Shot,POST_MOVES,,2001
+Opponent,0,Running Jump Shot,2,4659,2868,Running Jump Shot,JUMP_SHOTS,,2001
+Opponent,0,Standard Layup,2,688,555,Running Layup Shot,LAYUPS,,2001
+Opponent,0,Tip Shot,2,7,1,Running Tip Shot,TIP_SHOTS,,2001
+Opponent,0,Standard Dunk,2,2913,2831,Slam Dunk Shot,DUNKS,,2001
+Opponent,0,Tip Shot,2,4048,1907,Tip Shot,TIP_SHOTS,,2001
+Opponent,0,Finger Roll,2,8,7,Turnaround Finger Roll Shot,LAYUPS,,2001
+Opponent,0,Turnaround Hook Shot,2,470,301,Turnaround Hook Shot,POST_MOVES,,2001
+Opponent,0,Turnaround Jump Shot,2,2834,1710,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Opponent,0,Alley Oop Dunk,2,745,682,Alley Oop Dunk Shot,DUNKS,,2002
+Opponent,0,Alley Oop Layup,2,390,277,Alley Oop Layup shot,LAYUPS,,2002
+Opponent,0,Driving Dunk,2,962,901,Driving Dunk Shot,DUNKS,,2002
+Opponent,0,Finger Roll,2,336,253,Driving Finger Roll Shot,LAYUPS,,2002
+Opponent,0,Driving Hook Shot,2,106,69,Driving Hook Shot,POST_MOVES,,2002
+Opponent,0,Driving Layup,2,9360,6842,Driving Layup Shot,LAYUPS,,2002
+Opponent,0,Standard Dunk,2,4297,3638,Dunk Shot,DUNKS,,2002
+Opponent,0,Fadeaway Jump Shot,2,2105,1282,Fadeaway Jump Shot,JUMP_SHOTS,,2002
+Opponent,0,Finger Roll,2,460,317,Finger Roll Shot,LAYUPS,,2002
+Opponent,0,Specialty Dunk,2,371,345,Follow Up Dunk Shot,DUNKS,,2002
+Opponent,0,Hook Shot,2,3888,1916,Hook Shot,POST_MOVES,,2002
+Opponent,0,Hook Shot,2,832,513,Jump Hook Shot,POST_MOVES,,2002
+Opponent,0,Jump Shot,2,121406,42851,Jump Shot,JUMP_SHOTS,,2002
+Opponent,0,Standard Layup,2,29092,13766,Layup Shot,LAYUPS,,2002
+Opponent,0,Reverse Dunk,2,201,193,Reverse Dunk Shot,DUNKS,,2002
+Opponent,0,Reverse Layup,2,2192,1518,Reverse Layup Shot,LAYUPS,,2002
+Opponent,0,Standard Dunk,2,118,116,Running Dunk Shot,DUNKS,,2002
+Opponent,0,Finger Roll,2,42,32,Running Finger Roll Shot,LAYUPS,,2002
+Opponent,0,Running Hook Shot,2,500,328,Running Hook Shot,POST_MOVES,,2002
+Opponent,0,Running Jump Shot,2,4290,2709,Running Jump Shot,JUMP_SHOTS,,2002
+Opponent,0,Standard Layup,2,480,344,Running Layup Shot,LAYUPS,,2002
+Opponent,0,Tip Shot,2,3,2,Running Tip Shot,TIP_SHOTS,,2002
+Opponent,0,Standard Dunk,2,2629,2576,Slam Dunk Shot,DUNKS,,2002
+Opponent,0,Tip Shot,2,4088,1954,Tip Shot,TIP_SHOTS,,2002
+Opponent,0,Finger Roll,2,13,12,Turnaround Finger Roll Shot,LAYUPS,,2002
+Opponent,0,Turnaround Hook Shot,2,392,281,Turnaround Hook Shot,POST_MOVES,,2002
+Opponent,0,Turnaround Jump Shot,2,3953,2287,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Opponent,0,Alley Oop Dunk,2,830,759,Alley Oop Dunk Shot,DUNKS,,2003
+Opponent,0,Alley Oop Layup,2,385,260,Alley Oop Layup shot,LAYUPS,,2003
+Opponent,0,Driving Dunk,2,974,912,Driving Dunk Shot,DUNKS,,2003
+Opponent,0,Finger Roll,2,567,428,Driving Finger Roll Shot,LAYUPS,,2003
+Opponent,0,Driving Hook Shot,2,184,103,Driving Hook Shot,POST_MOVES,,2003
+Opponent,0,Driving Layup,2,9083,6664,Driving Layup Shot,LAYUPS,,2003
+Opponent,0,Standard Dunk,2,3820,3273,Dunk Shot,DUNKS,,2003
+Opponent,0,Fadeaway Jump Shot,2,2482,1403,Fadeaway Jump Shot,JUMP_SHOTS,,2003
+Opponent,0,Finger Roll,2,502,350,Finger Roll Shot,LAYUPS,,2003
+Opponent,0,Specialty Dunk,2,475,427,Follow Up Dunk Shot,DUNKS,,2003
+Opponent,0,Hook Shot,2,3542,1802,Hook Shot,POST_MOVES,,2003
+Opponent,0,Hook Shot,2,1050,595,Jump Hook Shot,POST_MOVES,,2003
+Opponent,0,Jump Shot,2,118894,41405,Jump Shot,JUMP_SHOTS,,2003
+Opponent,0,Standard Layup,2,29388,13639,Layup Shot,LAYUPS,,2003
+Opponent,0,Reverse Dunk,2,210,204,Reverse Dunk Shot,DUNKS,,2003
+Opponent,0,Reverse Layup,2,2382,1611,Reverse Layup Shot,LAYUPS,,2003
+Opponent,0,Standard Dunk,2,132,129,Running Dunk Shot,DUNKS,,2003
+Opponent,0,Finger Roll,2,110,63,Running Finger Roll Shot,LAYUPS,,2003
+Opponent,0,Running Hook Shot,2,478,283,Running Hook Shot,POST_MOVES,,2003
+Opponent,0,Running Jump Shot,2,4659,2796,Running Jump Shot,JUMP_SHOTS,,2003
+Opponent,0,Standard Layup,2,557,405,Running Layup Shot,LAYUPS,,2003
+Opponent,0,Tip Shot,2,14,11,Running Tip Shot,TIP_SHOTS,,2003
+Opponent,0,Standard Dunk,2,2605,2551,Slam Dunk Shot,DUNKS,,2003
+Opponent,0,Tip Shot,2,3797,1871,Tip Shot,TIP_SHOTS,,2003
+Opponent,0,Finger Roll,2,13,10,Turnaround Finger Roll Shot,LAYUPS,,2003
+Opponent,0,Turnaround Hook Shot,2,442,297,Turnaround Hook Shot,POST_MOVES,,2003
+Opponent,0,Turnaround Jump Shot,2,4534,2686,Turnaround Jump Shot,JUMP_SHOTS,,2003
+Opponent,0,Alley Oop Dunk,2,784,714,Alley Oop Dunk Shot,DUNKS,,2004
+Opponent,0,Alley Oop Layup,2,392,278,Alley Oop Layup shot,LAYUPS,,2004
+Opponent,0,Driving Dunk,2,1008,963,Driving Dunk Shot,DUNKS,,2004
+Opponent,0,Finger Roll,2,648,496,Driving Finger Roll Shot,LAYUPS,,2004
+Opponent,0,Driving Hook Shot,2,210,130,Driving Hook Shot,POST_MOVES,,2004
+Opponent,0,Driving Layup,2,9164,6728,Driving Layup Shot,LAYUPS,,2004
+Opponent,0,Standard Dunk,2,4029,3449,Dunk Shot,DUNKS,,2004
+Opponent,0,Fadeaway Jump Shot,2,2596,1434,Fadeaway Jump Shot,JUMP_SHOTS,,2004
+Opponent,0,Finger Roll,2,560,382,Finger Roll Shot,LAYUPS,,2004
+Opponent,0,Specialty Dunk,2,442,411,Follow Up Dunk Shot,DUNKS,,2004
+Opponent,0,Hook Shot,2,76,59,Hook Bank Shot,POST_MOVES,,2004
+Opponent,0,Hook Shot,2,3472,1606,Hook Shot,POST_MOVES,,2004
+Opponent,0,Jump Shot,2,1544,1190,Jump Bank Shot,JUMP_SHOTS,,2004
+Opponent,0,Hook Shot,2,1033,595,Jump Hook Shot,POST_MOVES,,2004
+Opponent,0,Jump Shot,2,114236,39100,Jump Shot,JUMP_SHOTS,,2004
+Opponent,0,Standard Layup,2,30541,13766,Layup Shot,LAYUPS,,2004
+Opponent,0,Reverse Dunk,2,205,192,Reverse Dunk Shot,DUNKS,,2004
+Opponent,0,Reverse Layup,2,2369,1599,Reverse Layup Shot,LAYUPS,,2004
+Opponent,0,Standard Dunk,2,121,113,Running Dunk Shot,DUNKS,,2004
+Opponent,0,Finger Roll,2,75,56,Running Finger Roll Shot,LAYUPS,,2004
+Opponent,0,Running Hook Shot,2,506,324,Running Hook Shot,POST_MOVES,,2004
+Opponent,0,Running Jump Shot,2,4314,2465,Running Jump Shot,JUMP_SHOTS,,2004
+Opponent,0,Standard Layup,2,499,316,Running Layup Shot,LAYUPS,,2004
+Opponent,0,Tip Shot,2,11,11,Running Tip Shot,TIP_SHOTS,,2004
+Opponent,0,Standard Dunk,2,2326,2289,Slam Dunk Shot,DUNKS,,2004
+Opponent,0,Tip Shot,2,3936,1918,Tip Shot,TIP_SHOTS,,2004
+Opponent,0,Finger Roll,2,17,14,Turnaround Finger Roll Shot,LAYUPS,,2004
+Opponent,0,Turnaround Hook Shot,2,362,220,Turnaround Hook Shot,POST_MOVES,,2004
+Opponent,0,Turnaround Jump Shot,2,4327,2437,Turnaround Jump Shot,JUMP_SHOTS,,2004
+Opponent,0,Alley Oop Dunk,2,941,859,Alley Oop Dunk Shot,DUNKS,,2005
+Opponent,0,Alley Oop Layup,2,410,268,Alley Oop Layup shot,LAYUPS,,2005
+Opponent,0,Driving Dunk,2,1144,1071,Driving Dunk Shot,DUNKS,,2005
+Opponent,0,Finger Roll,2,677,507,Driving Finger Roll Shot,LAYUPS,,2005
+Opponent,0,Driving Hook Shot,2,144,92,Driving Hook Shot,POST_MOVES,,2005
+Opponent,0,Driving Layup,2,9686,7379,Driving Layup Shot,LAYUPS,,2005
+Opponent,0,Standard Dunk,2,4512,3902,Dunk Shot,DUNKS,,2005
+Opponent,0,Fadeaway Jump Shot,2,2423,1397,Fadeaway Jump Shot,JUMP_SHOTS,,2005
+Opponent,0,Finger Roll,2,456,308,Finger Roll Shot,LAYUPS,,2005
+Opponent,0,Specialty Dunk,2,671,625,Follow Up Dunk Shot,DUNKS,,2005
+Opponent,0,Hook Shot,2,75,63,Hook Bank Shot,POST_MOVES,,2005
+Opponent,0,Hook Shot,2,3323,1486,Hook Shot,POST_MOVES,,2005
+Opponent,0,Jump Shot,2,1950,1412,Jump Bank Shot,JUMP_SHOTS,,2005
+Opponent,0,Hook Shot,2,1308,778,Jump Hook Shot,POST_MOVES,,2005
+Opponent,0,Jump Shot,2,117841,41518,Jump Shot,JUMP_SHOTS,,2005
+Opponent,0,Standard Layup,2,32551,14557,Layup Shot,LAYUPS,,2005
+Opponent,0,Reverse Dunk,2,241,227,Reverse Dunk Shot,DUNKS,,2005
+Opponent,0,Reverse Layup,2,2425,1601,Reverse Layup Shot,LAYUPS,,2005
+Opponent,0,Standard Dunk,2,117,108,Running Dunk Shot,DUNKS,,2005
+Opponent,0,Finger Roll,2,102,77,Running Finger Roll Shot,LAYUPS,,2005
+Opponent,0,Running Hook Shot,2,545,350,Running Hook Shot,POST_MOVES,,2005
+Opponent,0,Running Jump Shot,2,4241,2489,Running Jump Shot,JUMP_SHOTS,,2005
+Opponent,0,Standard Layup,2,622,383,Running Layup Shot,LAYUPS,,2005
+Opponent,0,Tip Shot,2,5,3,Running Tip Shot,TIP_SHOTS,,2005
+Opponent,0,Standard Dunk,2,2395,2360,Slam Dunk Shot,DUNKS,,2005
+Opponent,0,Tip Shot,2,4020,1928,Tip Shot,TIP_SHOTS,,2005
+Opponent,0,Finger Roll,2,11,10,Turnaround Finger Roll Shot,LAYUPS,,2005
+Opponent,0,Turnaround Hook Shot,2,378,231,Turnaround Hook Shot,POST_MOVES,,2005
+Opponent,0,Turnaround Jump Shot,2,4412,2446,Turnaround Jump Shot,JUMP_SHOTS,,2005
+Opponent,0,Alley Oop Dunk,2,1036,961,Alley Oop Dunk Shot,DUNKS,,2006
+Opponent,0,Alley Oop Layup,2,475,328,Alley Oop Layup shot,LAYUPS,,2006
+Opponent,0,Driving Dunk,2,1230,1167,Driving Dunk Shot,DUNKS,,2006
+Opponent,0,Finger Roll,2,764,604,Driving Finger Roll Shot,LAYUPS,,2006
+Opponent,0,Driving Hook Shot,2,203,141,Driving Hook Shot,POST_MOVES,,2006
+Opponent,0,Driving Layup,2,11123,8337,Driving Layup Shot,LAYUPS,,2006
+Opponent,0,Standard Dunk,2,3970,3432,Dunk Shot,DUNKS,,2006
+Opponent,0,Fadeaway Jump Shot,2,2801,1689,Fadeaway Jump Shot,JUMP_SHOTS,,2006
+Opponent,0,Finger Roll,2,354,249,Finger Roll Shot,LAYUPS,,2006
+Opponent,0,Specialty Dunk,2,581,528,Follow Up Dunk Shot,DUNKS,,2006
+Opponent,0,Hook Shot,2,72,64,Hook Bank Shot,POST_MOVES,,2006
+Opponent,0,Hook Shot,2,3688,1645,Hook Shot,POST_MOVES,,2006
+Opponent,0,Jump Shot,2,1683,1229,Jump Bank Shot,JUMP_SHOTS,,2006
+Opponent,0,Hook Shot,2,1317,804,Jump Hook Shot,POST_MOVES,,2006
+Opponent,0,Jump Shot,2,114303,40592,Jump Shot,JUMP_SHOTS,,2006
+Opponent,0,Standard Layup,2,31525,14183,Layup Shot,LAYUPS,,2006
+Opponent,0,Reverse Dunk,2,199,181,Reverse Dunk Shot,DUNKS,,2006
+Opponent,0,Reverse Layup,2,2671,1827,Reverse Layup Shot,LAYUPS,,2006
+Opponent,0,Standard Dunk,2,138,124,Running Dunk Shot,DUNKS,,2006
+Opponent,0,Finger Roll,2,97,65,Running Finger Roll Shot,LAYUPS,,2006
+Opponent,0,Running Hook Shot,2,594,356,Running Hook Shot,POST_MOVES,,2006
+Opponent,0,Running Jump Shot,2,4269,2532,Running Jump Shot,JUMP_SHOTS,,2006
+Opponent,0,Standard Layup,2,652,415,Running Layup Shot,LAYUPS,,2006
+Opponent,0,Tip Shot,2,10,8,Running Tip Shot,TIP_SHOTS,,2006
+Opponent,0,Standard Dunk,2,2283,2240,Slam Dunk Shot,DUNKS,,2006
+Opponent,0,Tip Shot,2,3556,1754,Tip Shot,TIP_SHOTS,,2006
+Opponent,0,Finger Roll,2,31,27,Turnaround Finger Roll Shot,LAYUPS,,2006
+Opponent,0,Turnaround Hook Shot,2,515,315,Turnaround Hook Shot,POST_MOVES,,2006
+Opponent,0,Turnaround Jump Shot,2,4174,2369,Turnaround Jump Shot,JUMP_SHOTS,,2006
+Opponent,0,Alley Oop Dunk,2,918,832,Alley Oop Dunk Shot,DUNKS,,2007
+Opponent,0,Alley Oop Layup,2,548,397,Alley Oop Layup shot,LAYUPS,,2007
+Opponent,0,Driving Dunk,2,977,924,Driving Dunk Shot,DUNKS,,2007
+Opponent,0,Finger Roll,2,838,643,Driving Finger Roll Shot,LAYUPS,,2007
+Opponent,0,Driving Hook Shot,2,218,129,Driving Hook Shot,POST_MOVES,,2007
+Opponent,0,Driving Layup,2,10722,8072,Driving Layup Shot,LAYUPS,,2007
+Opponent,0,Standard Dunk,2,3955,3451,Dunk Shot,DUNKS,,2007
+Opponent,0,Fadeaway Jump Shot,2,2665,1619,Fadeaway Jump Shot,JUMP_SHOTS,,2007
+Opponent,0,Finger Roll,2,413,282,Finger Roll Shot,LAYUPS,,2007
+Opponent,0,Specialty Dunk,2,561,508,Follow Up Dunk Shot,DUNKS,,2007
+Opponent,0,Hook Shot,2,83,73,Hook Bank Shot,POST_MOVES,,2007
+Opponent,0,Hook Shot,2,3915,1807,Hook Shot,POST_MOVES,,2007
+Opponent,0,Jump Shot,2,2164,1522,Jump Bank Shot,JUMP_SHOTS,,2007
+Opponent,0,Hook Shot,2,1400,851,Jump Hook Shot,POST_MOVES,,2007
+Opponent,0,Jump Shot,2,114516,40938,Jump Shot,JUMP_SHOTS,,2007
+Opponent,0,Standard Layup,2,32998,15662,Layup Shot,LAYUPS,,2007
+Opponent,0,Reverse Dunk,2,203,190,Reverse Dunk Shot,DUNKS,,2007
+Opponent,0,Reverse Layup,2,2830,1936,Reverse Layup Shot,LAYUPS,,2007
+Opponent,0,Standard Dunk,2,156,151,Running Dunk Shot,DUNKS,,2007
+Opponent,0,Finger Roll,2,105,79,Running Finger Roll Shot,LAYUPS,,2007
+Opponent,0,Running Hook Shot,2,521,312,Running Hook Shot,POST_MOVES,,2007
+Opponent,0,Running Jump Shot,2,4331,2513,Running Jump Shot,JUMP_SHOTS,,2007
+Opponent,0,Standard Layup,2,812,516,Running Layup Shot,LAYUPS,,2007
+Opponent,0,Tip Shot,2,12,12,Running Tip Shot,TIP_SHOTS,,2007
+Opponent,0,Standard Dunk,2,2307,2265,Slam Dunk Shot,DUNKS,,2007
+Opponent,0,Tip Shot,2,3574,1792,Tip Shot,TIP_SHOTS,,2007
+Opponent,0,Finger Roll,2,26,22,Turnaround Finger Roll Shot,LAYUPS,,2007
+Opponent,0,Turnaround Hook Shot,2,512,297,Turnaround Hook Shot,POST_MOVES,,2007
+Opponent,0,Turnaround Jump Shot,2,3792,2065,Turnaround Jump Shot,JUMP_SHOTS,,2007
+Opponent,0,Alley Oop Dunk,2,1175,1069,Alley Oop Dunk Shot,DUNKS,,2008
+Opponent,0,Alley Oop Layup,2,562,418,Alley Oop Layup shot,LAYUPS,,2008
+Opponent,0,Driving Hook Shot,2,15,11,Driving Bank Hook Shot,POST_MOVES,,2008
+Opponent,0,Driving Jump Shot,2,73,61,Driving Bank shot,JUMP_SHOTS,,2008
+Opponent,0,Driving Dunk,2,1147,1062,Driving Dunk Shot,DUNKS,,2008
+Opponent,0,Finger Roll,2,979,762,Driving Finger Roll Layup Shot,LAYUPS,,2008
+Opponent,0,Driving Hook Shot,2,182,95,Driving Hook Shot,POST_MOVES,,2008
+Opponent,0,Driving Jump Shot,2,206,122,Driving Jump shot,JUMP_SHOTS,,2008
+Opponent,0,Driving Layup,2,10645,7908,Driving Layup Shot,LAYUPS,,2008
+Opponent,0,Driving Layup,2,628,473,Driving Reverse Layup Shot,LAYUPS,,2008
+Opponent,0,Driving Dunk,2,327,322,Driving Slam Dunk Shot,DUNKS,,2008
+Opponent,0,Standard Dunk,2,4235,3685,Dunk Shot,DUNKS,,2008
+Opponent,0,Fadeaway Jump Shot,2,75,63,Fadeaway Bank shot,JUMP_SHOTS,,2008
+Opponent,0,Fadeaway Jump Shot,2,2751,1542,Fadeaway Jump Shot,JUMP_SHOTS,,2008
+Opponent,0,Finger Roll,2,596,458,Finger Roll Layup Shot,LAYUPS,,2008
+Opponent,0,Floating Jump Shot,2,905,623,Floating Jump shot,FLOATING_SHOTS,,2008
+Opponent,0,Hook Shot,2,78,61,Hook Bank Shot,POST_MOVES,,2008
+Opponent,0,Hook Shot,2,3213,1401,Hook Shot,POST_MOVES,,2008
+Opponent,0,Hook Shot,2,35,32,Jump Bank Hook Shot,POST_MOVES,,2008
+Opponent,0,Jump Shot,2,1502,980,Jump Bank Shot,JUMP_SHOTS,,2008
+Opponent,0,Hook Shot,2,1387,827,Jump Hook Shot,POST_MOVES,,2008
+Opponent,0,Jump Shot,2,115060,40736,Jump Shot,JUMP_SHOTS,,2008
+Opponent,0,Standard Layup,2,30450,13566,Layup Shot,LAYUPS,,2008
+Opponent,0,Pullup Jump Shot,2,66,59,Pullup Bank shot,JUMP_SHOTS,,2008
+Opponent,0,Pullup Jump Shot,2,1669,1125,Pullup Jump shot,JUMP_SHOTS,,2008
+Opponent,0,Putback Dunk,2,493,446,Putback Dunk Shot,DUNKS,,2008
+Opponent,0,Putback Layup,2,778,664,Putback Layup Shot,LAYUPS,,2008
+Opponent,0,Putback Dunk,2,4,3,Putback Reverse Dunk Shot,DUNKS,,2008
+Opponent,0,Putback Dunk,2,156,150,Putback Slam Dunk Shot,DUNKS,,2008
+Opponent,0,Reverse Dunk,2,172,154,Reverse Dunk Shot,DUNKS,,2008
+Opponent,0,Reverse Layup,2,2383,1600,Reverse Layup Shot,LAYUPS,,2008
+Opponent,0,Reverse Dunk,2,57,55,Reverse Slam Dunk Shot,DUNKS,,2008
+Opponent,0,Running Hook Shot,2,15,12,Running Bank Hook Shot,POST_MOVES,,2008
+Opponent,0,Running Jump Shot,2,472,376,Running Bank shot,JUMP_SHOTS,,2008
+Opponent,0,Standard Dunk,2,229,224,Running Dunk Shot,DUNKS,,2008
+Opponent,0,Finger Roll,2,85,71,Running Finger Roll Layup Shot,LAYUPS,,2008
+Opponent,0,Running Hook Shot,2,579,320,Running Hook Shot,POST_MOVES,,2008
+Opponent,0,Running Jump Shot,2,3986,2156,Running Jump Shot,JUMP_SHOTS,,2008
+Opponent,0,Standard Layup,2,1054,708,Running Layup Shot,LAYUPS,,2008
+Opponent,0,Reverse Layup,2,61,48,Running Reverse Layup Shot,LAYUPS,,2008
+Opponent,0,Standard Dunk,2,67,67,Running Slam Dunk Shot,DUNKS,,2008
+Opponent,0,Tip Shot,2,20,17,Running Tip Shot,TIP_SHOTS,,2008
+Opponent,0,Standard Dunk,2,2066,2024,Slam Dunk Shot,DUNKS,,2008
+Opponent,0,Step Back Jump Shot,2,713,441,Step Back Jump shot,JUMP_SHOTS,,2008
+Opponent,0,Tip Shot,2,3591,1672,Tip Shot,TIP_SHOTS,,2008
+Opponent,0,Turnaround Hook Shot,2,21,16,Turnaround Bank Hook Shot,POST_MOVES,,2008
+Opponent,0,Turnaround Jump Shot,2,247,202,Turnaround Bank shot,JUMP_SHOTS,,2008
+Opponent,0,Turnaround Jump Shot,2,762,425,Turnaround Fadeaway shot,JUMP_SHOTS,,2008
+Opponent,0,Turnaround Hook Shot,2,588,369,Turnaround Hook Shot,POST_MOVES,,2008
+Opponent,0,Turnaround Jump Shot,2,3941,1988,Turnaround Jump Shot,JUMP_SHOTS,,2008
+Opponent,0,Alley Oop Dunk,2,1090,997,Alley Oop Dunk Shot,DUNKS,,2009
+Opponent,0,Alley Oop Layup,2,611,423,Alley Oop Layup shot,LAYUPS,,2009
+Opponent,0,Driving Hook Shot,2,11,9,Driving Bank Hook Shot,POST_MOVES,,2009
+Opponent,0,Driving Jump Shot,2,89,80,Driving Bank shot,JUMP_SHOTS,,2009
+Opponent,0,Driving Dunk,2,933,850,Driving Dunk Shot,DUNKS,,2009
+Opponent,0,Finger Roll,2,1029,831,Driving Finger Roll Layup Shot,LAYUPS,,2009
+Opponent,0,Driving Hook Shot,2,204,114,Driving Hook Shot,POST_MOVES,,2009
+Opponent,0,Driving Jump Shot,2,322,182,Driving Jump shot,JUMP_SHOTS,,2009
+Opponent,0,Driving Layup,2,11534,8283,Driving Layup Shot,LAYUPS,,2009
+Opponent,0,Driving Layup,2,823,577,Driving Reverse Layup Shot,LAYUPS,,2009
+Opponent,0,Driving Dunk,2,454,440,Driving Slam Dunk Shot,DUNKS,,2009
+Opponent,0,Standard Dunk,2,4322,3764,Dunk Shot,DUNKS,,2009
+Opponent,0,Fadeaway Jump Shot,2,91,70,Fadeaway Bank shot,JUMP_SHOTS,,2009
+Opponent,0,Fadeaway Jump Shot,2,3160,1676,Fadeaway Jump Shot,JUMP_SHOTS,,2009
+Opponent,0,Finger Roll,2,552,413,Finger Roll Layup Shot,LAYUPS,,2009
+Opponent,0,Floating Jump Shot,2,1254,820,Floating Jump shot,FLOATING_SHOTS,,2009
+Opponent,0,Hook Shot,2,85,67,Hook Bank Shot,POST_MOVES,,2009
+Opponent,0,Hook Shot,2,2828,1277,Hook Shot,POST_MOVES,,2009
+Opponent,0,Hook Shot,2,31,25,Jump Bank Hook Shot,POST_MOVES,,2009
+Opponent,0,Jump Shot,2,1574,962,Jump Bank Shot,JUMP_SHOTS,,2009
+Opponent,0,Hook Shot,2,1337,742,Jump Hook Shot,POST_MOVES,,2009
+Opponent,0,Jump Shot,2,110046,38626,Jump Shot,JUMP_SHOTS,,2009
+Opponent,0,Standard Layup,2,30268,13304,Layup Shot,LAYUPS,,2009
+Opponent,0,Pullup Jump Shot,2,71,54,Pullup Bank shot,JUMP_SHOTS,,2009
+Opponent,0,Pullup Jump Shot,2,3386,2429,Pullup Jump shot,JUMP_SHOTS,,2009
+Opponent,0,Putback Dunk,2,676,632,Putback Dunk Shot,DUNKS,,2009
+Opponent,0,Putback Layup,2,1042,856,Putback Layup Shot,LAYUPS,,2009
+Opponent,0,Putback Dunk,2,135,132,Putback Slam Dunk Shot,DUNKS,,2009
+Opponent,0,Reverse Dunk,2,148,132,Reverse Dunk Shot,DUNKS,,2009
+Opponent,0,Reverse Layup,2,2201,1454,Reverse Layup Shot,LAYUPS,,2009
+Opponent,0,Reverse Dunk,2,71,68,Reverse Slam Dunk Shot,DUNKS,,2009
+Opponent,0,Running Hook Shot,2,15,12,Running Bank Hook Shot,POST_MOVES,,2009
+Opponent,0,Running Jump Shot,2,570,434,Running Bank shot,JUMP_SHOTS,,2009
+Opponent,0,Standard Dunk,2,223,213,Running Dunk Shot,DUNKS,,2009
+Opponent,0,Finger Roll,2,60,52,Running Finger Roll Layup Shot,LAYUPS,,2009
+Opponent,0,Running Hook Shot,2,677,394,Running Hook Shot,POST_MOVES,,2009
+Opponent,0,Running Jump Shot,2,3820,1880,Running Jump Shot,JUMP_SHOTS,,2009
+Opponent,0,Standard Layup,2,1005,710,Running Layup Shot,LAYUPS,,2009
+Opponent,0,Reverse Layup,2,65,48,Running Reverse Layup Shot,LAYUPS,,2009
+Opponent,0,Standard Dunk,2,113,109,Running Slam Dunk Shot,DUNKS,,2009
+Opponent,0,Tip Shot,2,15,13,Running Tip Shot,TIP_SHOTS,,2009
+Opponent,0,Standard Dunk,2,2077,2024,Slam Dunk Shot,DUNKS,,2009
+Opponent,0,Step Back Jump Shot,2,1022,647,Step Back Jump shot,JUMP_SHOTS,,2009
+Opponent,0,Tip Shot,2,3638,1700,Tip Shot,TIP_SHOTS,,2009
+Opponent,0,Turnaround Hook Shot,2,32,25,Turnaround Bank Hook Shot,POST_MOVES,,2009
+Opponent,0,Turnaround Jump Shot,2,273,201,Turnaround Bank shot,JUMP_SHOTS,,2009
+Opponent,0,Turnaround Jump Shot,2,978,534,Turnaround Fadeaway shot,JUMP_SHOTS,,2009
+Opponent,0,Turnaround Hook Shot,2,581,326,Turnaround Hook Shot,POST_MOVES,,2009
+Opponent,0,Turnaround Jump Shot,2,3488,1691,Turnaround Jump Shot,JUMP_SHOTS,,2009
+Opponent,0,Alley Oop Dunk,2,1098,994,Alley Oop Dunk Shot,DUNKS,,2010
+Opponent,0,Alley Oop Layup,2,695,491,Alley Oop Layup shot,LAYUPS,,2010
+Opponent,0,Driving Hook Shot,2,6,4,Driving Bank Hook Shot,POST_MOVES,,2010
+Opponent,0,Driving Jump Shot,2,100,81,Driving Bank shot,JUMP_SHOTS,,2010
+Opponent,0,Driving Dunk,2,971,900,Driving Dunk Shot,DUNKS,,2010
+Opponent,0,Finger Roll,2,1031,841,Driving Finger Roll Layup Shot,LAYUPS,,2010
+Opponent,0,Driving Hook Shot,2,223,127,Driving Hook Shot,POST_MOVES,,2010
+Opponent,0,Driving Jump Shot,2,484,228,Driving Jump shot,JUMP_SHOTS,,2010
+Opponent,0,Driving Layup,2,12472,8838,Driving Layup Shot,LAYUPS,,2010
+Opponent,0,Driving Layup,2,957,699,Driving Reverse Layup Shot,LAYUPS,,2010
+Opponent,0,Driving Dunk,2,404,385,Driving Slam Dunk Shot,DUNKS,,2010
+Opponent,0,Standard Dunk,2,4109,3623,Dunk Shot,DUNKS,,2010
+Opponent,0,Fadeaway Jump Shot,2,102,73,Fadeaway Bank shot,JUMP_SHOTS,,2010
+Opponent,0,Fadeaway Jump Shot,2,3174,1727,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+Opponent,0,Finger Roll,2,522,411,Finger Roll Layup Shot,LAYUPS,,2010
+Opponent,0,Floating Jump Shot,2,1644,1032,Floating Jump shot,FLOATING_SHOTS,,2010
+Opponent,0,Hook Shot,2,84,57,Hook Bank Shot,POST_MOVES,,2010
+Opponent,0,Hook Shot,2,3107,1437,Hook Shot,POST_MOVES,,2010
+Opponent,0,Hook Shot,2,44,35,Jump Bank Hook Shot,POST_MOVES,,2010
+Opponent,0,Jump Shot,2,1684,1041,Jump Bank Shot,JUMP_SHOTS,,2010
+Opponent,0,Hook Shot,2,1589,948,Jump Hook Shot,POST_MOVES,,2010
+Opponent,0,Jump Shot,2,107614,36868,Jump Shot,JUMP_SHOTS,,2010
+Opponent,0,Standard Layup,2,30440,14150,Layup Shot,LAYUPS,,2010
+Opponent,0,Pullup Jump Shot,2,90,72,Pullup Bank shot,JUMP_SHOTS,,2010
+Opponent,0,Pullup Jump Shot,2,4368,2954,Pullup Jump shot,JUMP_SHOTS,,2010
+Opponent,0,Putback Dunk,2,632,550,Putback Dunk Shot,DUNKS,,2010
+Opponent,0,Putback Layup,2,1238,1026,Putback Layup Shot,LAYUPS,,2010
+Opponent,0,Putback Dunk,2,139,130,Putback Slam Dunk Shot,DUNKS,,2010
+Opponent,0,Reverse Dunk,2,141,127,Reverse Dunk Shot,DUNKS,,2010
+Opponent,0,Reverse Layup,2,2376,1584,Reverse Layup Shot,LAYUPS,,2010
+Opponent,0,Reverse Dunk,2,54,54,Reverse Slam Dunk Shot,DUNKS,,2010
+Opponent,0,Running Hook Shot,2,16,13,Running Bank Hook Shot,POST_MOVES,,2010
+Opponent,0,Running Jump Shot,2,683,521,Running Bank shot,JUMP_SHOTS,,2010
+Opponent,0,Standard Dunk,2,219,210,Running Dunk Shot,DUNKS,,2010
+Opponent,0,Finger Roll,2,83,65,Running Finger Roll Layup Shot,LAYUPS,,2010
+Opponent,0,Running Hook Shot,2,687,382,Running Hook Shot,POST_MOVES,,2010
+Opponent,0,Running Jump Shot,2,3649,1730,Running Jump Shot,JUMP_SHOTS,,2010
+Opponent,0,Standard Layup,2,927,653,Running Layup Shot,LAYUPS,,2010
+Opponent,0,Reverse Layup,2,77,60,Running Reverse Layup Shot,LAYUPS,,2010
+Opponent,0,Standard Dunk,2,119,118,Running Slam Dunk Shot,DUNKS,,2010
+Opponent,0,Tip Shot,2,18,11,Running Tip Shot,TIP_SHOTS,,2010
+Opponent,0,Standard Dunk,2,1738,1694,Slam Dunk Shot,DUNKS,,2010
+Opponent,0,Step Back Jump Shot,2,1506,931,Step Back Jump shot,JUMP_SHOTS,,2010
+Opponent,0,Tip Shot,2,4291,2027,Tip Shot,TIP_SHOTS,,2010
+Opponent,0,Turnaround Hook Shot,2,46,34,Turnaround Bank Hook Shot,POST_MOVES,,2010
+Opponent,0,Turnaround Jump Shot,2,294,207,Turnaround Bank shot,JUMP_SHOTS,,2010
+Opponent,0,Turnaround Jump Shot,2,1026,554,Turnaround Fadeaway shot,JUMP_SHOTS,,2010
+Opponent,0,Turnaround Hook Shot,2,631,355,Turnaround Hook Shot,POST_MOVES,,2010
+Opponent,0,Turnaround Jump Shot,2,3364,1668,Turnaround Jump Shot,JUMP_SHOTS,,2010
+Opponent,0,Alley Oop Dunk,2,1251,1148,Alley Oop Dunk Shot,DUNKS,,2011
+Opponent,0,Alley Oop Layup,2,789,535,Alley Oop Layup shot,LAYUPS,,2011
+Opponent,0,Driving Hook Shot,2,9,6,Driving Bank Hook Shot,POST_MOVES,,2011
+Opponent,0,Driving Jump Shot,2,168,144,Driving Bank shot,JUMP_SHOTS,,2011
+Opponent,0,Driving Dunk,2,880,790,Driving Dunk Shot,DUNKS,,2011
+Opponent,0,Finger Roll,2,913,738,Driving Finger Roll Layup Shot,LAYUPS,,2011
+Opponent,0,Driving Hook Shot,2,261,147,Driving Hook Shot,POST_MOVES,,2011
+Opponent,0,Driving Jump Shot,2,1192,523,Driving Jump shot,JUMP_SHOTS,,2011
+Opponent,0,Driving Layup,2,11055,7848,Driving Layup Shot,LAYUPS,,2011
+Opponent,0,Driving Layup,2,1019,686,Driving Reverse Layup Shot,LAYUPS,,2011
+Opponent,0,Driving Dunk,2,472,459,Driving Slam Dunk Shot,DUNKS,,2011
+Opponent,0,Standard Dunk,2,3997,3490,Dunk Shot,DUNKS,,2011
+Opponent,0,Fadeaway Jump Shot,2,92,79,Fadeaway Bank shot,JUMP_SHOTS,,2011
+Opponent,0,Fadeaway Jump Shot,2,3136,1570,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Opponent,0,Finger Roll,2,561,423,Finger Roll Layup Shot,LAYUPS,,2011
+Opponent,0,Floating Jump Shot,2,2074,1181,Floating Jump shot,FLOATING_SHOTS,,2011
+Opponent,0,Hook Shot,2,103,86,Hook Bank Shot,POST_MOVES,,2011
+Opponent,0,Hook Shot,2,3157,1392,Hook Shot,POST_MOVES,,2011
+Opponent,0,Hook Shot,2,26,23,Jump Bank Hook Shot,POST_MOVES,,2011
+Opponent,0,Jump Shot,2,1921,1189,Jump Bank Shot,JUMP_SHOTS,,2011
+Opponent,0,Hook Shot,2,1367,727,Jump Hook Shot,POST_MOVES,,2011
+Opponent,0,Jump Shot,2,111189,37728,Jump Shot,JUMP_SHOTS,,2011
+Opponent,0,Standard Layup,2,25150,12834,Layup Shot,LAYUPS,,2011
+Opponent,0,Pullup Jump Shot,2,102,68,Pullup Bank shot,JUMP_SHOTS,,2011
+Opponent,0,Pullup Jump Shot,2,4702,3016,Pullup Jump shot,JUMP_SHOTS,,2011
+Opponent,0,Putback Dunk,2,656,600,Putback Dunk Shot,DUNKS,,2011
+Opponent,0,Putback Layup,2,1310,1082,Putback Layup Shot,LAYUPS,,2011
+Opponent,0,Putback Dunk,2,1,0,Putback Reverse Dunk Shot,DUNKS,,2011
+Opponent,0,Putback Dunk,2,145,135,Putback Slam Dunk Shot,DUNKS,,2011
+Opponent,0,Reverse Dunk,2,127,122,Reverse Dunk Shot,DUNKS,,2011
+Opponent,0,Reverse Layup,2,2390,1588,Reverse Layup Shot,LAYUPS,,2011
+Opponent,0,Reverse Dunk,2,64,62,Reverse Slam Dunk Shot,DUNKS,,2011
+Opponent,0,Running Hook Shot,2,29,29,Running Bank Hook Shot,POST_MOVES,,2011
+Opponent,0,Running Jump Shot,2,699,526,Running Bank shot,JUMP_SHOTS,,2011
+Opponent,0,Standard Dunk,2,192,181,Running Dunk Shot,DUNKS,,2011
+Opponent,0,Finger Roll,2,72,62,Running Finger Roll Layup Shot,LAYUPS,,2011
+Opponent,0,Running Hook Shot,2,689,388,Running Hook Shot,POST_MOVES,,2011
+Opponent,0,Running Jump Shot,2,3546,1606,Running Jump Shot,JUMP_SHOTS,,2011
+Opponent,0,Standard Layup,2,898,626,Running Layup Shot,LAYUPS,,2011
+Opponent,0,Reverse Layup,2,114,79,Running Reverse Layup Shot,LAYUPS,,2011
+Opponent,0,Standard Dunk,2,106,104,Running Slam Dunk Shot,DUNKS,,2011
+Opponent,0,Tip Shot,2,23,16,Running Tip Shot,TIP_SHOTS,,2011
+Opponent,0,Standard Dunk,2,1857,1816,Slam Dunk Shot,DUNKS,,2011
+Opponent,0,Step Back Jump Shot,2,1575,919,Step Back Jump shot,JUMP_SHOTS,,2011
+Opponent,0,Tip Shot,2,4194,2007,Tip Shot,TIP_SHOTS,,2011
+Opponent,0,Turnaround Hook Shot,2,54,42,Turnaround Bank Hook Shot,POST_MOVES,,2011
+Opponent,0,Turnaround Jump Shot,2,282,203,Turnaround Bank shot,JUMP_SHOTS,,2011
+Opponent,0,Turnaround Jump Shot,2,940,472,Turnaround Fadeaway shot,JUMP_SHOTS,,2011
+Opponent,0,Turnaround Hook Shot,2,821,462,Turnaround Hook Shot,POST_MOVES,,2011
+Opponent,0,Turnaround Jump Shot,2,3391,1656,Turnaround Jump Shot,JUMP_SHOTS,,2011
+Opponent,0,Alley Oop Dunk,2,1041,954,Alley Oop Dunk Shot,DUNKS,,2012
+Opponent,0,Alley Oop Layup,2,512,362,Alley Oop Layup shot,LAYUPS,,2012
+Opponent,0,Driving Hook Shot,2,13,9,Driving Bank Hook Shot,POST_MOVES,,2012
+Opponent,0,Driving Jump Shot,2,169,119,Driving Bank shot,JUMP_SHOTS,,2012
+Opponent,0,Driving Dunk,2,756,660,Driving Dunk Shot,DUNKS,,2012
+Opponent,0,Finger Roll,2,826,618,Driving Finger Roll Layup Shot,LAYUPS,,2012
+Opponent,0,Driving Hook Shot,2,223,113,Driving Hook Shot,POST_MOVES,,2012
+Opponent,0,Driving Jump Shot,2,861,335,Driving Jump shot,JUMP_SHOTS,,2012
+Opponent,0,Driving Layup,2,8717,5932,Driving Layup Shot,LAYUPS,,2012
+Opponent,0,Driving Layup,2,733,499,Driving Reverse Layup Shot,LAYUPS,,2012
+Opponent,0,Driving Dunk,2,357,349,Driving Slam Dunk Shot,DUNKS,,2012
+Opponent,0,Standard Dunk,2,3336,2887,Dunk Shot,DUNKS,,2012
+Opponent,0,Fadeaway Jump Shot,2,98,73,Fadeaway Bank shot,JUMP_SHOTS,,2012
+Opponent,0,Fadeaway Jump Shot,2,2595,1252,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Opponent,0,Finger Roll,2,490,370,Finger Roll Layup Shot,LAYUPS,,2012
+Opponent,0,Floating Jump Shot,2,1856,1052,Floating Jump shot,FLOATING_SHOTS,,2012
+Opponent,0,Hook Shot,2,101,72,Hook Bank Shot,POST_MOVES,,2012
+Opponent,0,Hook Shot,2,2376,1046,Hook Shot,POST_MOVES,,2012
+Opponent,0,Hook Shot,2,25,22,Jump Bank Hook Shot,POST_MOVES,,2012
+Opponent,0,Jump Shot,2,1434,831,Jump Bank Shot,JUMP_SHOTS,,2012
+Opponent,0,Hook Shot,2,1099,631,Jump Hook Shot,POST_MOVES,,2012
+Opponent,0,Jump Shot,2,88408,29006,Jump Shot,JUMP_SHOTS,,2012
+Opponent,0,Standard Layup,2,21204,10707,Layup Shot,LAYUPS,,2012
+Opponent,0,Pullup Jump Shot,2,83,61,Pullup Bank shot,JUMP_SHOTS,,2012
+Opponent,0,Pullup Jump Shot,2,3906,2425,Pullup Jump shot,JUMP_SHOTS,,2012
+Opponent,0,Putback Dunk,2,528,461,Putback Dunk Shot,DUNKS,,2012
+Opponent,0,Putback Layup,2,1103,855,Putback Layup Shot,LAYUPS,,2012
+Opponent,0,Putback Dunk,2,1,1,Putback Reverse Dunk Shot,DUNKS,,2012
+Opponent,0,Putback Dunk,2,142,132,Putback Slam Dunk Shot,DUNKS,,2012
+Opponent,0,Reverse Dunk,2,107,94,Reverse Dunk Shot,DUNKS,,2012
+Opponent,0,Reverse Layup,2,1930,1289,Reverse Layup Shot,LAYUPS,,2012
+Opponent,0,Reverse Dunk,2,33,33,Reverse Slam Dunk Shot,DUNKS,,2012
+Opponent,0,Running Hook Shot,2,16,14,Running Bank Hook Shot,POST_MOVES,,2012
+Opponent,0,Running Jump Shot,2,580,395,Running Bank shot,JUMP_SHOTS,,2012
+Opponent,0,Standard Dunk,2,186,172,Running Dunk Shot,DUNKS,,2012
+Opponent,0,Finger Roll,2,46,37,Running Finger Roll Layup Shot,LAYUPS,,2012
+Opponent,0,Running Hook Shot,2,573,304,Running Hook Shot,POST_MOVES,,2012
+Opponent,0,Running Jump Shot,2,2893,1290,Running Jump Shot,JUMP_SHOTS,,2012
+Opponent,0,Standard Layup,2,843,603,Running Layup Shot,LAYUPS,,2012
+Opponent,0,Reverse Layup,2,73,56,Running Reverse Layup Shot,LAYUPS,,2012
+Opponent,0,Standard Dunk,2,134,128,Running Slam Dunk Shot,DUNKS,,2012
+Opponent,0,Tip Shot,2,21,13,Running Tip Shot,TIP_SHOTS,,2012
+Opponent,0,Standard Dunk,2,1490,1453,Slam Dunk Shot,DUNKS,,2012
+Opponent,0,Step Back Jump Shot,2,1347,759,Step Back Jump shot,JUMP_SHOTS,,2012
+Opponent,0,Tip Shot,2,3391,1537,Tip Shot,TIP_SHOTS,,2012
+Opponent,0,Turnaround Hook Shot,2,40,25,Turnaround Bank Hook Shot,POST_MOVES,,2012
+Opponent,0,Turnaround Jump Shot,2,236,164,Turnaround Bank shot,JUMP_SHOTS,,2012
+Opponent,0,Turnaround Jump Shot,2,900,437,Turnaround Fadeaway shot,JUMP_SHOTS,,2012
+Opponent,0,Turnaround Hook Shot,2,713,367,Turnaround Hook Shot,POST_MOVES,,2012
+Opponent,0,Turnaround Jump Shot,2,2660,1203,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Opponent,0,Alley Oop Dunk,2,1323,1208,Alley Oop Dunk Shot,DUNKS,,2013
+Opponent,0,Alley Oop Layup,2,670,457,Alley Oop Layup shot,LAYUPS,,2013
+Opponent,0,Driving Hook Shot,2,16,11,Driving Bank Hook Shot,POST_MOVES,,2013
+Opponent,0,Driving Jump Shot,2,264,195,Driving Bank shot,JUMP_SHOTS,,2013
+Opponent,0,Driving Dunk,2,972,889,Driving Dunk Shot,DUNKS,,2013
+Opponent,0,Finger Roll,2,1072,844,Driving Finger Roll Layup Shot,LAYUPS,,2013
+Opponent,0,Driving Hook Shot,2,401,217,Driving Hook Shot,POST_MOVES,,2013
+Opponent,0,Driving Jump Shot,2,1385,533,Driving Jump shot,JUMP_SHOTS,,2013
+Opponent,0,Driving Layup,2,11255,7645,Driving Layup Shot,LAYUPS,,2013
+Opponent,0,Driving Layup,2,936,618,Driving Reverse Layup Shot,LAYUPS,,2013
+Opponent,0,Driving Dunk,2,493,482,Driving Slam Dunk Shot,DUNKS,,2013
+Opponent,0,Standard Dunk,2,4488,3938,Dunk Shot,DUNKS,,2013
+Opponent,0,Fadeaway Jump Shot,2,112,89,Fadeaway Bank shot,JUMP_SHOTS,,2013
+Opponent,0,Fadeaway Jump Shot,2,2825,1419,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Opponent,0,Finger Roll,2,519,387,Finger Roll Layup Shot,LAYUPS,,2013
+Opponent,0,Floating Jump Shot,2,2633,1481,Floating Jump shot,FLOATING_SHOTS,,2013
+Opponent,0,Hook Shot,2,93,65,Hook Bank Shot,POST_MOVES,,2013
+Opponent,0,Hook Shot,2,3024,1340,Hook Shot,POST_MOVES,,2013
+Opponent,0,Hook Shot,2,47,37,Jump Bank Hook Shot,POST_MOVES,,2013
+Opponent,0,Jump Shot,2,1613,997,Jump Bank Shot,JUMP_SHOTS,,2013
+Opponent,0,Hook Shot,2,1427,864,Jump Hook Shot,POST_MOVES,,2013
+Opponent,0,Jump Shot,2,107878,35698,Jump Shot,JUMP_SHOTS,,2013
+Opponent,0,Standard Layup,2,26657,13085,Layup Shot,LAYUPS,,2013
+Opponent,0,Pullup Jump Shot,2,94,58,Pullup Bank shot,JUMP_SHOTS,,2013
+Opponent,0,Pullup Jump Shot,2,5815,3616,Pullup Jump shot,JUMP_SHOTS,,2013
+Opponent,0,Putback Dunk,2,661,594,Putback Dunk Shot,DUNKS,,2013
+Opponent,0,Putback Layup,2,1466,1166,Putback Layup Shot,LAYUPS,,2013
+Opponent,0,Putback Dunk,2,1,1,Putback Reverse Dunk Shot,DUNKS,,2013
+Opponent,0,Putback Dunk,2,141,131,Putback Slam Dunk Shot,DUNKS,,2013
+Opponent,0,Reverse Dunk,2,145,127,Reverse Dunk Shot,DUNKS,,2013
+Opponent,0,Reverse Layup,2,2300,1491,Reverse Layup Shot,LAYUPS,,2013
+Opponent,0,Reverse Dunk,2,51,47,Reverse Slam Dunk Shot,DUNKS,,2013
+Opponent,0,Running Hook Shot,2,31,21,Running Bank Hook Shot,POST_MOVES,,2013
+Opponent,0,Running Jump Shot,2,718,489,Running Bank shot,JUMP_SHOTS,,2013
+Opponent,0,Standard Dunk,2,246,232,Running Dunk Shot,DUNKS,,2013
+Opponent,0,Finger Roll,2,105,80,Running Finger Roll Layup Shot,LAYUPS,,2013
+Opponent,0,Running Hook Shot,2,762,412,Running Hook Shot,POST_MOVES,,2013
+Opponent,0,Running Jump Shot,2,3351,1480,Running Jump Shot,JUMP_SHOTS,,2013
+Opponent,0,Standard Layup,2,1351,890,Running Layup Shot,LAYUPS,,2013
+Opponent,0,Reverse Layup,2,101,73,Running Reverse Layup Shot,LAYUPS,,2013
+Opponent,0,Standard Dunk,2,190,187,Running Slam Dunk Shot,DUNKS,,2013
+Opponent,0,Tip Shot,2,40,27,Running Tip Shot,TIP_SHOTS,,2013
+Opponent,0,Standard Dunk,2,1737,1691,Slam Dunk Shot,DUNKS,,2013
+Opponent,0,Step Back Jump Shot,2,2188,1196,Step Back Jump shot,JUMP_SHOTS,,2013
+Opponent,0,Tip Shot,2,4125,1935,Tip Shot,TIP_SHOTS,,2013
+Opponent,0,Turnaround Hook Shot,2,75,58,Turnaround Bank Hook Shot,POST_MOVES,,2013
+Opponent,0,Turnaround Jump Shot,2,302,205,Turnaround Bank shot,JUMP_SHOTS,,2013
+Opponent,0,Turnaround Jump Shot,2,1261,606,Turnaround Fadeaway shot,JUMP_SHOTS,,2013
+Opponent,0,Turnaround Hook Shot,2,892,464,Turnaround Hook Shot,POST_MOVES,,2013
+Opponent,0,Turnaround Jump Shot,2,3327,1499,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Opponent,0,Alley Oop Dunk,2,1329,1226,Alley Oop Dunk Shot,DUNKS,,2014
+Opponent,0,Alley Oop Layup,2,634,423,Alley Oop Layup shot,LAYUPS,,2014
+Opponent,0,Driving Hook Shot,2,23,18,Driving Bank Hook Shot,POST_MOVES,,2014
+Opponent,0,Driving Jump Shot,2,272,218,Driving Bank shot,JUMP_SHOTS,,2014
+Opponent,0,Driving Dunk,2,1062,973,Driving Dunk Shot,DUNKS,,2014
+Opponent,0,Finger Roll,2,1134,918,Driving Finger Roll Layup Shot,LAYUPS,,2014
+Opponent,0,Driving Hook Shot,2,337,198,Driving Hook Shot,POST_MOVES,,2014
+Opponent,0,Driving Jump Shot,2,1631,642,Driving Jump shot,JUMP_SHOTS,,2014
+Opponent,0,Driving Layup,2,12070,8280,Driving Layup Shot,LAYUPS,,2014
+Opponent,0,Driving Layup,2,1061,702,Driving Reverse Layup Shot,LAYUPS,,2014
+Opponent,0,Driving Dunk,2,572,555,Driving Slam Dunk Shot,DUNKS,,2014
+Opponent,0,Standard Dunk,2,3926,3449,Dunk Shot,DUNKS,,2014
+Opponent,0,Fadeaway Jump Shot,2,92,62,Fadeaway Bank shot,JUMP_SHOTS,,2014
+Opponent,0,Fadeaway Jump Shot,2,2665,1257,Fadeaway Jump Shot,JUMP_SHOTS,,2014
+Opponent,0,Finger Roll,2,568,426,Finger Roll Layup Shot,LAYUPS,,2014
+Opponent,0,Floating Jump Shot,2,2716,1518,Floating Jump shot,FLOATING_SHOTS,,2014
+Opponent,0,Hook Shot,2,87,76,Hook Bank Shot,POST_MOVES,,2014
+Opponent,0,Hook Shot,2,3448,1510,Hook Shot,POST_MOVES,,2014
+Opponent,0,Hook Shot,2,44,39,Jump Bank Hook Shot,POST_MOVES,,2014
+Opponent,0,Jump Shot,2,1592,1017,Jump Bank Shot,JUMP_SHOTS,,2014
+Opponent,0,Hook Shot,2,1476,872,Jump Hook Shot,POST_MOVES,,2014
+Opponent,0,Jump Shot,2,108642,36299,Jump Shot,JUMP_SHOTS,,2014
+Opponent,0,Standard Layup,2,26236,12955,Layup Shot,LAYUPS,,2014
+Opponent,0,Pullup Jump Shot,2,111,87,Pullup Bank shot,JUMP_SHOTS,,2014
+Opponent,0,Pullup Jump Shot,2,6635,3886,Pullup Jump shot,JUMP_SHOTS,,2014
+Opponent,0,Putback Dunk,2,616,553,Putback Dunk Shot,DUNKS,,2014
+Opponent,0,Putback Layup,2,1338,1055,Putback Layup Shot,LAYUPS,,2014
+Opponent,0,Putback Dunk,2,3,3,Putback Reverse Dunk Shot,DUNKS,,2014
+Opponent,0,Putback Dunk,2,130,125,Putback Slam Dunk Shot,DUNKS,,2014
+Opponent,0,Reverse Dunk,2,120,108,Reverse Dunk Shot,DUNKS,,2014
+Opponent,0,Reverse Layup,2,2210,1483,Reverse Layup Shot,LAYUPS,,2014
+Opponent,0,Reverse Dunk,2,61,57,Reverse Slam Dunk Shot,DUNKS,,2014
+Opponent,0,Running Hook Shot,2,27,24,Running Bank Hook Shot,POST_MOVES,,2014
+Opponent,0,Running Jump Shot,2,860,580,Running Bank shot,JUMP_SHOTS,,2014
+Opponent,0,Standard Dunk,2,190,183,Running Dunk Shot,DUNKS,,2014
+Opponent,0,Finger Roll,2,89,79,Running Finger Roll Layup Shot,LAYUPS,,2014
+Opponent,0,Running Hook Shot,2,739,396,Running Hook Shot,POST_MOVES,,2014
+Opponent,0,Running Jump Shot,2,3609,1559,Running Jump Shot,JUMP_SHOTS,,2014
+Opponent,0,Standard Layup,2,1260,851,Running Layup Shot,LAYUPS,,2014
+Opponent,0,Reverse Layup,2,117,85,Running Reverse Layup Shot,LAYUPS,,2014
+Opponent,0,Standard Dunk,2,176,176,Running Slam Dunk Shot,DUNKS,,2014
+Opponent,0,Tip Shot,2,54,39,Running Tip Shot,TIP_SHOTS,,2014
+Opponent,0,Standard Dunk,2,1659,1630,Slam Dunk Shot,DUNKS,,2014
+Opponent,0,Step Back Jump Shot,2,2716,1418,Step Back Jump shot,JUMP_SHOTS,,2014
+Opponent,0,Tip Shot,2,4188,1947,Tip Shot,TIP_SHOTS,,2014
+Opponent,0,Turnaround Hook Shot,2,89,67,Turnaround Bank Hook Shot,POST_MOVES,,2014
+Opponent,0,Turnaround Jump Shot,2,319,226,Turnaround Bank shot,JUMP_SHOTS,,2014
+Opponent,0,Turnaround Jump Shot,2,1106,544,Turnaround Fadeaway shot,JUMP_SHOTS,,2014
+Opponent,0,Turnaround Hook Shot,2,998,547,Turnaround Hook Shot,POST_MOVES,,2014
+Opponent,0,Turnaround Jump Shot,2,3089,1425,Turnaround Jump Shot,JUMP_SHOTS,,2014
+Opponent,0,Alley Oop Dunk,2,1386,1251,Alley Oop Dunk Shot,DUNKS,,2015
+Opponent,0,Alley Oop Layup,2,701,480,Alley Oop Layup shot,LAYUPS,,2015
+Opponent,0,Driving Hook Shot,2,29,22,Driving Bank Hook Shot,POST_MOVES,,2015
+Opponent,0,Driving Jump Shot,2,390,289,Driving Bank shot,JUMP_SHOTS,,2015
+Opponent,0,Driving Dunk,2,972,876,Driving Dunk Shot,DUNKS,,2015
+Opponent,0,Finger Roll,2,1239,992,Driving Finger Roll Layup Shot,LAYUPS,,2015
+Opponent,0,Driving Hook Shot,2,356,183,Driving Hook Shot,POST_MOVES,,2015
+Opponent,0,Driving Jump Shot,2,1668,688,Driving Jump shot,JUMP_SHOTS,,2015
+Opponent,0,Driving Layup,2,11997,8284,Driving Layup Shot,LAYUPS,,2015
+Opponent,0,Driving Layup,2,1099,741,Driving Reverse Layup Shot,LAYUPS,,2015
+Opponent,0,Driving Dunk,2,601,576,Driving Slam Dunk Shot,DUNKS,,2015
+Opponent,0,Standard Dunk,2,3750,3296,Dunk Shot,DUNKS,,2015
+Opponent,0,Fadeaway Jump Shot,2,105,80,Fadeaway Bank shot,JUMP_SHOTS,,2015
+Opponent,0,Fadeaway Jump Shot,2,2566,1247,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+Opponent,0,Finger Roll,2,561,409,Finger Roll Layup Shot,LAYUPS,,2015
+Opponent,0,Floating Jump Shot,2,3023,1673,Floating Jump shot,FLOATING_SHOTS,,2015
+Opponent,0,Hook Shot,2,110,83,Hook Bank Shot,POST_MOVES,,2015
+Opponent,0,Hook Shot,2,3869,1661,Hook Shot,POST_MOVES,,2015
+Opponent,0,Hook Shot,2,29,23,Jump Bank Hook Shot,POST_MOVES,,2015
+Opponent,0,Jump Shot,2,1608,1017,Jump Bank Shot,JUMP_SHOTS,,2015
+Opponent,0,Hook Shot,2,1433,836,Jump Hook Shot,POST_MOVES,,2015
+Opponent,0,Jump Shot,2,108439,35716,Jump Shot,JUMP_SHOTS,,2015
+Opponent,0,Standard Layup,2,26035,12560,Layup Shot,LAYUPS,,2015
+Opponent,0,Pullup Jump Shot,2,120,76,Pullup Bank shot,JUMP_SHOTS,,2015
+Opponent,0,Pullup Jump Shot,2,7058,4020,Pullup Jump shot,JUMP_SHOTS,,2015
+Opponent,0,Putback Dunk,2,593,510,Putback Dunk Shot,DUNKS,,2015
+Opponent,0,Putback Layup,2,1353,1069,Putback Layup Shot,LAYUPS,,2015
+Opponent,0,Putback Dunk,2,159,149,Putback Slam Dunk Shot,DUNKS,,2015
+Opponent,0,Reverse Dunk,2,123,110,Reverse Dunk Shot,DUNKS,,2015
+Opponent,0,Reverse Layup,2,2178,1419,Reverse Layup Shot,LAYUPS,,2015
+Opponent,0,Reverse Dunk,2,38,36,Reverse Slam Dunk Shot,DUNKS,,2015
+Opponent,0,Running Hook Shot,2,30,25,Running Bank Hook Shot,POST_MOVES,,2015
+Opponent,0,Running Jump Shot,2,908,610,Running Bank shot,JUMP_SHOTS,,2015
+Opponent,0,Standard Dunk,2,228,216,Running Dunk Shot,DUNKS,,2015
+Opponent,0,Finger Roll,2,144,116,Running Finger Roll Layup Shot,LAYUPS,,2015
+Opponent,0,Running Hook Shot,2,760,404,Running Hook Shot,POST_MOVES,,2015
+Opponent,0,Running Jump Shot,2,3427,1429,Running Jump Shot,JUMP_SHOTS,,2015
+Opponent,0,Standard Layup,2,1409,897,Running Layup Shot,LAYUPS,,2015
+Opponent,0,Reverse Layup,2,143,104,Running Reverse Layup Shot,LAYUPS,,2015
+Opponent,0,Standard Dunk,2,204,201,Running Slam Dunk Shot,DUNKS,,2015
+Opponent,0,Tip Shot,2,70,51,Running Tip Shot,TIP_SHOTS,,2015
+Opponent,0,Standard Dunk,2,1627,1581,Slam Dunk Shot,DUNKS,,2015
+Opponent,0,Step Back Jump Shot,2,3005,1490,Step Back Jump shot,JUMP_SHOTS,,2015
+Opponent,0,Tip Shot,2,4224,1909,Tip Shot,TIP_SHOTS,,2015
+Opponent,0,Turnaround Hook Shot,2,82,70,Turnaround Bank Hook Shot,POST_MOVES,,2015
+Opponent,0,Turnaround Jump Shot,2,301,205,Turnaround Bank shot,JUMP_SHOTS,,2015
+Opponent,0,Turnaround Jump Shot,2,1193,593,Turnaround Fadeaway shot,JUMP_SHOTS,,2015
+Opponent,0,Turnaround Hook Shot,2,1161,643,Turnaround Hook Shot,POST_MOVES,,2015
+Opponent,0,Turnaround Jump Shot,2,3046,1363,Turnaround Jump Shot,JUMP_SHOTS,,2015
+Opponent,0,Alley Oop Dunk,2,1488,1328,Alley Oop Dunk Shot,DUNKS,,2016
+Opponent,0,Alley Oop Layup,2,854,557,Alley Oop Layup shot,LAYUPS,,2016
+Opponent,0,Specialty Dunk,2,1507,1461,Cutting Dunk Shot,DUNKS,,2016
+Opponent,0,Finger Roll,2,385,339,Cutting Finger Roll Layup Shot,LAYUPS,,2016
+Opponent,0,Standard Layup,2,3262,2604,Cutting Layup Shot,LAYUPS,,2016
+Opponent,0,Driving Hook Shot,2,79,52,Driving Bank Hook Shot,POST_MOVES,,2016
+Opponent,0,Driving Jump Shot,2,980,626,Driving Bank shot,JUMP_SHOTS,,2016
+Opponent,0,Driving Dunk,2,1408,1262,Driving Dunk Shot,DUNKS,,2016
+Opponent,0,Finger Roll,2,2221,1651,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Opponent,0,Floating Jump Shot,2,514,308,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2016
+Opponent,0,Floating Jump Shot,2,2213,1119,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Opponent,0,Driving Hook Shot,2,992,552,Driving Hook Shot,POST_MOVES,,2016
+Opponent,0,Driving Jump Shot,2,10,5,Driving Jump shot,JUMP_SHOTS,,2016
+Opponent,0,Driving Layup,2,13066,7950,Driving Layup Shot,LAYUPS,,2016
+Opponent,0,Reverse Dunk,2,30,26,Driving Reverse Dunk Shot,DUNKS,,2016
+Opponent,0,Driving Layup,2,1435,882,Driving Reverse Layup Shot,LAYUPS,,2016
+Opponent,0,Standard Dunk,2,3269,2835,Dunk Shot,DUNKS,,2016
+Opponent,0,Fadeaway Jump Shot,2,128,85,Fadeaway Bank shot,JUMP_SHOTS,,2016
+Opponent,0,Fadeaway Jump Shot,2,2950,1323,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Opponent,0,Finger Roll,2,662,431,Finger Roll Layup Shot,LAYUPS,,2016
+Opponent,0,Floating Jump Shot,2,5247,2567,Floating Jump shot,FLOATING_SHOTS,,2016
+Opponent,0,Hook Shot,2,183,121,Hook Bank Shot,POST_MOVES,,2016
+Opponent,0,Hook Shot,2,4655,2096,Hook Shot,POST_MOVES,,2016
+Opponent,0,Jump Shot,2,1783,975,Jump Bank Shot,JUMP_SHOTS,,2016
+Opponent,0,Jump Shot,2,98669,31738,Jump Shot,JUMP_SHOTS,,2016
+Opponent,0,Standard Layup,2,18143,7311,Layup Shot,LAYUPS,,2016
+Opponent,0,No Shot,2,21,14,No Shot,NO_SHOT,,2016
+Opponent,0,Pullup Jump Shot,2,278,175,Pullup Bank shot,JUMP_SHOTS,,2016
+Opponent,0,Pullup Jump Shot,2,12254,6586,Pullup Jump shot,JUMP_SHOTS,,2016
+Opponent,0,Putback Dunk,2,633,579,Putback Dunk Shot,DUNKS,,2016
+Opponent,0,Putback Layup,2,1967,1474,Putback Layup Shot,LAYUPS,,2016
+Opponent,0,Reverse Dunk,2,121,111,Reverse Dunk Shot,DUNKS,,2016
+Opponent,0,Reverse Layup,2,1924,1191,Reverse Layup Shot,LAYUPS,,2016
+Opponent,0,Alley Oop Dunk,2,131,130,Running Alley Oop Dunk Shot,DUNKS,,2016
+Opponent,0,Alley Oop Layup,2,34,26,Running Alley Oop Layup Shot,LAYUPS,,2016
+Opponent,0,Standard Dunk,2,1285,1250,Running Dunk Shot,DUNKS,,2016
+Opponent,0,Finger Roll,2,483,411,Running Finger Roll Layup Shot,LAYUPS,,2016
+Opponent,0,Running Hook Shot,2,2,1,Running Hook Shot,POST_MOVES,,2016
+Opponent,0,Running Jump Shot,2,1861,804,Running Jump Shot,JUMP_SHOTS,,2016
+Opponent,0,Standard Layup,2,3617,2653,Running Layup Shot,LAYUPS,,2016
+Opponent,0,Running Jump Shot,2,342,193,Running Pull-Up Jump Shot,JUMP_SHOTS,,2016
+Opponent,0,Reverse Dunk,2,15,15,Running Reverse Dunk Shot,DUNKS,,2016
+Opponent,0,Reverse Layup,2,288,208,Running Reverse Layup Shot,LAYUPS,,2016
+Opponent,0,Step Back Jump Shot,2,42,31,Step Back Bank Jump Shot,JUMP_SHOTS,,2016
+Opponent,0,Step Back Jump Shot,2,4456,2171,Step Back Jump shot,JUMP_SHOTS,,2016
+Opponent,0,Specialty Dunk,2,264,230,Tip Dunk Shot,DUNKS,,2016
+Opponent,0,Putback Layup,2,4214,1976,Tip Layup Shot,LAYUPS,,2016
+Opponent,0,Turnaround Hook Shot,2,110,68,Turnaround Bank Hook Shot,POST_MOVES,,2016
+Opponent,0,Turnaround Jump Shot,2,387,234,Turnaround Bank shot,JUMP_SHOTS,,2016
+Opponent,0,Turnaround Jump Shot,2,61,31,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2016
+Opponent,0,Turnaround Jump Shot,2,1638,756,Turnaround Fadeaway shot,JUMP_SHOTS,,2016
+Opponent,0,Turnaround Hook Shot,2,1765,978,Turnaround Hook Shot,POST_MOVES,,2016
+Opponent,0,Turnaround Jump Shot,2,3567,1517,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Opponent,0,Alley Oop Dunk,2,1503,1353,Alley Oop Dunk Shot,DUNKS,,2017
+Opponent,0,Alley Oop Layup,2,871,540,Alley Oop Layup shot,LAYUPS,,2017
+Opponent,0,Specialty Dunk,2,2174,2078,Cutting Dunk Shot,DUNKS,,2017
+Opponent,0,Finger Roll,2,443,396,Cutting Finger Roll Layup Shot,LAYUPS,,2017
+Opponent,0,Standard Layup,2,3894,3059,Cutting Layup Shot,LAYUPS,,2017
+Opponent,0,Driving Hook Shot,2,122,84,Driving Bank Hook Shot,POST_MOVES,,2017
+Opponent,0,Driving Jump Shot,2,835,553,Driving Bank shot,JUMP_SHOTS,,2017
+Opponent,0,Driving Dunk,2,1458,1287,Driving Dunk Shot,DUNKS,,2017
+Opponent,0,Finger Roll,2,2291,1641,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Opponent,0,Floating Jump Shot,2,789,446,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2017
+Opponent,0,Floating Jump Shot,2,3231,1558,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Opponent,0,Driving Hook Shot,2,1311,724,Driving Hook Shot,POST_MOVES,,2017
+Opponent,0,Driving Jump Shot,2,5,3,Driving Jump shot,JUMP_SHOTS,,2017
+Opponent,0,Driving Layup,2,13721,8098,Driving Layup Shot,LAYUPS,,2017
+Opponent,0,Reverse Dunk,2,48,43,Driving Reverse Dunk Shot,DUNKS,,2017
+Opponent,0,Driving Layup,2,1721,1087,Driving Reverse Layup Shot,LAYUPS,,2017
+Opponent,0,Standard Dunk,2,2832,2475,Dunk Shot,DUNKS,,2017
+Opponent,0,Fadeaway Jump Shot,2,130,82,Fadeaway Bank shot,JUMP_SHOTS,,2017
+Opponent,0,Fadeaway Jump Shot,2,2855,1295,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Opponent,0,Finger Roll,2,601,418,Finger Roll Layup Shot,LAYUPS,,2017
+Opponent,0,Floating Jump Shot,2,4612,2134,Floating Jump shot,FLOATING_SHOTS,,2017
+Opponent,0,Hook Shot,2,158,112,Hook Bank Shot,POST_MOVES,,2017
+Opponent,0,Hook Shot,2,4322,1911,Hook Shot,POST_MOVES,,2017
+Opponent,0,Jump Shot,2,1485,803,Jump Bank Shot,JUMP_SHOTS,,2017
+Opponent,0,Jump Shot,2,96869,31723,Jump Shot,JUMP_SHOTS,,2017
+Opponent,0,Standard Layup,2,16191,6589,Layup Shot,LAYUPS,,2017
+Opponent,0,No Shot,2,60,34,No Shot,NO_SHOT,,2017
+Opponent,0,Pullup Jump Shot,2,352,224,Pullup Bank shot,JUMP_SHOTS,,2017
+Opponent,0,Pullup Jump Shot,2,15048,7840,Pullup Jump shot,JUMP_SHOTS,,2017
+Opponent,0,Putback Dunk,2,663,597,Putback Dunk Shot,DUNKS,,2017
+Opponent,0,Putback Layup,2,2330,1742,Putback Layup Shot,LAYUPS,,2017
+Opponent,0,Reverse Dunk,2,120,104,Reverse Dunk Shot,DUNKS,,2017
+Opponent,0,Reverse Layup,2,1917,1165,Reverse Layup Shot,LAYUPS,,2017
+Opponent,0,Alley Oop Dunk,2,140,133,Running Alley Oop Dunk Shot,DUNKS,,2017
+Opponent,0,Alley Oop Layup,2,52,40,Running Alley Oop Layup Shot,LAYUPS,,2017
+Opponent,0,Standard Dunk,2,1333,1288,Running Dunk Shot,DUNKS,,2017
+Opponent,0,Finger Roll,2,485,420,Running Finger Roll Layup Shot,LAYUPS,,2017
+Opponent,0,Running Hook Shot,2,3,3,Running Hook Shot,POST_MOVES,,2017
+Opponent,0,Running Jump Shot,2,1865,825,Running Jump Shot,JUMP_SHOTS,,2017
+Opponent,0,Standard Layup,2,3695,2532,Running Layup Shot,LAYUPS,,2017
+Opponent,0,Running Jump Shot,2,617,311,Running Pull-Up Jump Shot,JUMP_SHOTS,,2017
+Opponent,0,Reverse Dunk,2,20,20,Running Reverse Dunk Shot,DUNKS,,2017
+Opponent,0,Reverse Layup,2,283,196,Running Reverse Layup Shot,LAYUPS,,2017
+Opponent,0,Step Back Jump Shot,2,38,24,Step Back Bank Jump Shot,JUMP_SHOTS,,2017
+Opponent,0,Step Back Jump Shot,2,4536,2157,Step Back Jump shot,JUMP_SHOTS,,2017
+Opponent,0,Specialty Dunk,2,319,265,Tip Dunk Shot,DUNKS,,2017
+Opponent,0,Putback Layup,2,4063,1894,Tip Layup Shot,LAYUPS,,2017
+Opponent,0,Turnaround Hook Shot,2,88,55,Turnaround Bank Hook Shot,POST_MOVES,,2017
+Opponent,0,Turnaround Jump Shot,2,394,245,Turnaround Bank shot,JUMP_SHOTS,,2017
+Opponent,0,Turnaround Jump Shot,2,43,30,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2017
+Opponent,0,Turnaround Jump Shot,2,1817,892,Turnaround Fadeaway shot,JUMP_SHOTS,,2017
+Opponent,0,Turnaround Hook Shot,2,1844,959,Turnaround Hook Shot,POST_MOVES,,2017
+Opponent,0,Turnaround Jump Shot,2,3332,1503,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Opponent,0,Alley Oop Dunk,2,1718,1504,Alley Oop Dunk Shot,DUNKS,,2018
+Opponent,0,Alley Oop Layup,2,1050,667,Alley Oop Layup shot,LAYUPS,,2018
+Opponent,0,Specialty Dunk,2,2540,2406,Cutting Dunk Shot,DUNKS,,2018
+Opponent,0,Finger Roll,2,486,414,Cutting Finger Roll Layup Shot,LAYUPS,,2018
+Opponent,0,Standard Layup,2,5003,3648,Cutting Layup Shot,LAYUPS,,2018
+Opponent,0,Driving Hook Shot,2,119,82,Driving Bank Hook Shot,POST_MOVES,,2018
+Opponent,0,Driving Dunk,2,1649,1400,Driving Dunk Shot,DUNKS,,2018
+Opponent,0,Finger Roll,2,3334,2210,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Opponent,0,Floating Jump Shot,2,1837,1064,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Opponent,0,Floating Jump Shot,2,5125,2177,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Opponent,0,Driving Hook Shot,2,1250,595,Driving Hook Shot,POST_MOVES,,2018
+Opponent,0,Driving Layup,2,17853,8892,Driving Layup Shot,LAYUPS,,2018
+Opponent,0,Reverse Dunk,2,40,34,Driving Reverse Dunk Shot,DUNKS,,2018
+Opponent,0,Driving Layup,2,1905,1131,Driving Reverse Layup Shot,LAYUPS,,2018
+Opponent,0,Standard Dunk,2,2533,2187,Dunk Shot,DUNKS,,2018
+Opponent,0,Fadeaway Jump Shot,2,3242,1259,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+Opponent,0,Finger Roll,2,641,395,Finger Roll Layup Shot,LAYUPS,,2018
+Opponent,0,Floating Jump Shot,2,4995,2084,Floating Jump shot,FLOATING_SHOTS,,2018
+Opponent,0,Hook Shot,2,136,88,Hook Bank Shot,POST_MOVES,,2018
+Opponent,0,Hook Shot,2,4082,1762,Hook Shot,POST_MOVES,,2018
+Opponent,0,Jump Shot,2,1029,530,Jump Bank Shot,JUMP_SHOTS,,2018
+Opponent,0,Jump Shot,2,83555,29651,Jump Shot,JUMP_SHOTS,,2018
+Opponent,0,Standard Layup,2,13563,6091,Layup Shot,LAYUPS,,2018
+Opponent,0,Pullup Jump Shot,2,20564,8841,Pullup Jump shot,JUMP_SHOTS,,2018
+Opponent,0,Putback Dunk,2,640,561,Putback Dunk Shot,DUNKS,,2018
+Opponent,0,Putback Layup,2,2391,1673,Putback Layup Shot,LAYUPS,,2018
+Opponent,0,Reverse Dunk,2,91,84,Reverse Dunk Shot,DUNKS,,2018
+Opponent,0,Reverse Layup,2,1965,1198,Reverse Layup Shot,LAYUPS,,2018
+Opponent,0,Alley Oop Dunk,2,133,117,Running Alley Oop Dunk Shot,DUNKS,,2018
+Opponent,0,Alley Oop Layup,2,58,43,Running Alley Oop Layup Shot,LAYUPS,,2018
+Opponent,0,Standard Dunk,2,1407,1340,Running Dunk Shot,DUNKS,,2018
+Opponent,0,Finger Roll,2,651,514,Running Finger Roll Layup Shot,LAYUPS,,2018
+Opponent,0,Running Jump Shot,2,1481,611,Running Jump Shot,JUMP_SHOTS,,2018
+Opponent,0,Standard Layup,2,4269,2756,Running Layup Shot,LAYUPS,,2018
+Opponent,0,Running Jump Shot,2,751,359,Running Pull-Up Jump Shot,JUMP_SHOTS,,2018
+Opponent,0,Reverse Dunk,2,17,17,Running Reverse Dunk Shot,DUNKS,,2018
+Opponent,0,Reverse Layup,2,328,229,Running Reverse Layup Shot,LAYUPS,,2018
+Opponent,0,Step Back Jump Shot,2,64,36,Step Back Bank Jump Shot,JUMP_SHOTS,,2018
+Opponent,0,Step Back Jump Shot,2,5987,2542,Step Back Jump shot,JUMP_SHOTS,,2018
+Opponent,0,Specialty Dunk,2,364,280,Tip Dunk Shot,DUNKS,,2018
+Opponent,0,Putback Layup,2,4283,2074,Tip Layup Shot,LAYUPS,,2018
+Opponent,0,Turnaround Hook Shot,2,143,94,Turnaround Bank Hook Shot,POST_MOVES,,2018
+Opponent,0,Turnaround Jump Shot,2,592,356,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2018
+Opponent,0,Turnaround Jump Shot,2,2264,1025,Turnaround Fadeaway shot,JUMP_SHOTS,,2018
+Opponent,0,Turnaround Hook Shot,2,2128,1005,Turnaround Hook Shot,POST_MOVES,,2018
+Opponent,0,Turnaround Jump Shot,2,3451,1409,Turnaround Jump Shot,JUMP_SHOTS,,2018
+Opponent,0,Alley Oop Dunk,2,1863,1656,Alley Oop Dunk Shot,DUNKS,,2019
+Opponent,0,Alley Oop Layup,2,1090,683,Alley Oop Layup shot,LAYUPS,,2019
+Opponent,0,Specialty Dunk,2,3227,3033,Cutting Dunk Shot,DUNKS,,2019
+Opponent,0,Finger Roll,2,640,519,Cutting Finger Roll Layup Shot,LAYUPS,,2019
+Opponent,0,Standard Layup,2,5286,3783,Cutting Layup Shot,LAYUPS,,2019
+Opponent,0,Driving Hook Shot,2,165,104,Driving Bank Hook Shot,POST_MOVES,,2019
+Opponent,0,Driving Dunk,2,1950,1616,Driving Dunk Shot,DUNKS,,2019
+Opponent,0,Finger Roll,2,4168,2709,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Opponent,0,Floating Jump Shot,2,2343,1283,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Opponent,0,Floating Jump Shot,2,7327,3135,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Opponent,0,Driving Hook Shot,2,1447,654,Driving Hook Shot,POST_MOVES,,2019
+Opponent,0,Driving Layup,2,20340,9707,Driving Layup Shot,LAYUPS,,2019
+Opponent,0,Reverse Dunk,2,49,43,Driving Reverse Dunk Shot,DUNKS,,2019
+Opponent,0,Driving Layup,2,2203,1269,Driving Reverse Layup Shot,LAYUPS,,2019
+Opponent,0,Standard Dunk,2,2362,2046,Dunk Shot,DUNKS,,2019
+Opponent,0,Fadeaway Jump Shot,2,3611,1443,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+Opponent,0,Finger Roll,2,519,358,Finger Roll Layup Shot,LAYUPS,,2019
+Opponent,0,Floating Jump Shot,2,4880,2082,Floating Jump shot,FLOATING_SHOTS,,2019
+Opponent,0,Hook Shot,2,195,127,Hook Bank Shot,POST_MOVES,,2019
+Opponent,0,Hook Shot,2,3664,1642,Hook Shot,POST_MOVES,,2019
+Opponent,0,Jump Shot,2,943,476,Jump Bank Shot,JUMP_SHOTS,,2019
+Opponent,0,Jump Shot,2,77517,27037,Jump Shot,JUMP_SHOTS,,2019
+Opponent,0,Standard Layup,2,11404,5207,Layup Shot,LAYUPS,,2019
+Opponent,0,Pullup Jump Shot,2,23959,9806,Pullup Jump shot,JUMP_SHOTS,,2019
+Opponent,0,Putback Dunk,2,525,471,Putback Dunk Shot,DUNKS,,2019
+Opponent,0,Putback Layup,2,2745,1854,Putback Layup Shot,LAYUPS,,2019
+Opponent,0,Reverse Dunk,2,120,107,Reverse Dunk Shot,DUNKS,,2019
+Opponent,0,Reverse Layup,2,1758,1047,Reverse Layup Shot,LAYUPS,,2019
+Opponent,0,Alley Oop Dunk,2,135,129,Running Alley Oop Dunk Shot,DUNKS,,2019
+Opponent,0,Alley Oop Layup,2,69,50,Running Alley Oop Layup Shot,LAYUPS,,2019
+Opponent,0,Standard Dunk,2,1722,1651,Running Dunk Shot,DUNKS,,2019
+Opponent,0,Finger Roll,2,819,633,Running Finger Roll Layup Shot,LAYUPS,,2019
+Opponent,0,Running Jump Shot,2,1398,563,Running Jump Shot,JUMP_SHOTS,,2019
+Opponent,0,Standard Layup,2,4668,3011,Running Layup Shot,LAYUPS,,2019
+Opponent,0,Running Jump Shot,2,1016,443,Running Pull-Up Jump Shot,JUMP_SHOTS,,2019
+Opponent,0,Reverse Dunk,2,20,18,Running Reverse Dunk Shot,DUNKS,,2019
+Opponent,0,Reverse Layup,2,339,245,Running Reverse Layup Shot,LAYUPS,,2019
+Opponent,0,Step Back Jump Shot,2,53,20,Step Back Bank Jump Shot,JUMP_SHOTS,,2019
+Opponent,0,Step Back Jump Shot,2,7878,3232,Step Back Jump shot,JUMP_SHOTS,,2019
+Opponent,0,Specialty Dunk,2,762,624,Tip Dunk Shot,DUNKS,,2019
+Opponent,0,Putback Layup,2,4884,2318,Tip Layup Shot,LAYUPS,,2019
+Opponent,0,Turnaround Hook Shot,2,229,150,Turnaround Bank Hook Shot,POST_MOVES,,2019
+Opponent,0,Turnaround Jump Shot,2,581,307,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2019
+Opponent,0,Turnaround Jump Shot,2,2546,1125,Turnaround Fadeaway shot,JUMP_SHOTS,,2019
+Opponent,0,Turnaround Hook Shot,2,2752,1345,Turnaround Hook Shot,POST_MOVES,,2019
+Opponent,0,Turnaround Jump Shot,2,3287,1301,Turnaround Jump Shot,JUMP_SHOTS,,2019
+Opponent,0,Alley Oop Dunk,2,1684,1493,Alley Oop Dunk Shot,DUNKS,,2020
+Opponent,0,Alley Oop Layup,2,885,532,Alley Oop Layup shot,LAYUPS,,2020
+Opponent,0,Specialty Dunk,2,2931,2746,Cutting Dunk Shot,DUNKS,,2020
+Opponent,0,Finger Roll,2,584,485,Cutting Finger Roll Layup Shot,LAYUPS,,2020
+Opponent,0,Standard Layup,2,4752,3290,Cutting Layup Shot,LAYUPS,,2020
+Opponent,0,Driving Hook Shot,2,138,75,Driving Bank Hook Shot,POST_MOVES,,2020
+Opponent,0,Driving Dunk,2,1659,1364,Driving Dunk Shot,DUNKS,,2020
+Opponent,0,Finger Roll,2,4393,2754,Driving Finger Roll Layup Shot,LAYUPS,,2020
+Opponent,0,Floating Jump Shot,2,2228,1180,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2020
+Opponent,0,Floating Jump Shot,2,7855,3257,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Opponent,0,Driving Hook Shot,2,1021,466,Driving Hook Shot,POST_MOVES,,2020
+Opponent,0,Driving Layup,2,17764,8148,Driving Layup Shot,LAYUPS,,2020
+Opponent,0,Reverse Dunk,2,45,42,Driving Reverse Dunk Shot,DUNKS,,2020
+Opponent,0,Driving Layup,2,2093,1172,Driving Reverse Layup Shot,LAYUPS,,2020
+Opponent,0,Standard Dunk,2,1789,1572,Dunk Shot,DUNKS,,2020
+Opponent,0,Fadeaway Jump Shot,2,3032,1172,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+Opponent,0,Finger Roll,2,404,259,Finger Roll Layup Shot,LAYUPS,,2020
+Opponent,0,Floating Jump Shot,2,4384,1848,Floating Jump shot,FLOATING_SHOTS,,2020
+Opponent,0,Hook Shot,2,116,78,Hook Bank Shot,POST_MOVES,,2020
+Opponent,0,Hook Shot,2,2266,1007,Hook Shot,POST_MOVES,,2020
+Opponent,0,Jump Shot,2,713,364,Jump Bank Shot,JUMP_SHOTS,,2020
+Opponent,0,Jump Shot,2,64462,22911,Jump Shot,JUMP_SHOTS,,2020
+Opponent,0,Standard Layup,2,7565,3519,Layup Shot,LAYUPS,,2020
+Opponent,0,Pullup Jump Shot,2,20766,8406,Pullup Jump shot,JUMP_SHOTS,,2020
+Opponent,0,Putback Dunk,2,446,411,Putback Dunk Shot,DUNKS,,2020
+Opponent,0,Putback Layup,2,2597,1722,Putback Layup Shot,LAYUPS,,2020
+Opponent,0,Reverse Dunk,2,88,81,Reverse Dunk Shot,DUNKS,,2020
+Opponent,0,Reverse Layup,2,1320,848,Reverse Layup Shot,LAYUPS,,2020
+Opponent,0,Alley Oop Dunk,2,164,149,Running Alley Oop Dunk Shot,DUNKS,,2020
+Opponent,0,Alley Oop Layup,2,46,23,Running Alley Oop Layup Shot,LAYUPS,,2020
+Opponent,0,Standard Dunk,2,1516,1432,Running Dunk Shot,DUNKS,,2020
+Opponent,0,Finger Roll,2,954,724,Running Finger Roll Layup Shot,LAYUPS,,2020
+Opponent,0,Running Jump Shot,2,1686,667,Running Jump Shot,JUMP_SHOTS,,2020
+Opponent,0,Standard Layup,2,4197,2567,Running Layup Shot,LAYUPS,,2020
+Opponent,0,Running Jump Shot,2,1237,521,Running Pull-Up Jump Shot,JUMP_SHOTS,,2020
+Opponent,0,Reverse Dunk,2,26,24,Running Reverse Dunk Shot,DUNKS,,2020
+Opponent,0,Reverse Layup,2,309,217,Running Reverse Layup Shot,LAYUPS,,2020
+Opponent,0,Step Back Jump Shot,2,61,37,Step Back Bank Jump Shot,JUMP_SHOTS,,2020
+Opponent,0,Step Back Jump Shot,2,7934,3163,Step Back Jump shot,JUMP_SHOTS,,2020
+Opponent,0,Specialty Dunk,2,693,582,Tip Dunk Shot,DUNKS,,2020
+Opponent,0,Putback Layup,2,4012,2019,Tip Layup Shot,LAYUPS,,2020
+Opponent,0,Turnaround Hook Shot,2,130,87,Turnaround Bank Hook Shot,POST_MOVES,,2020
+Opponent,0,Turnaround Jump Shot,2,466,240,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2020
+Opponent,0,Turnaround Jump Shot,2,2121,887,Turnaround Fadeaway shot,JUMP_SHOTS,,2020
+Opponent,0,Turnaround Hook Shot,2,1880,916,Turnaround Hook Shot,POST_MOVES,,2020
+Opponent,0,Turnaround Jump Shot,2,2704,1093,Turnaround Jump Shot,JUMP_SHOTS,,2020
+Opponent,0,Alley Oop Dunk,2,1551,1383,Alley Oop Dunk Shot,DUNKS,,2021
+Opponent,0,Alley Oop Layup,2,815,533,Alley Oop Layup shot,LAYUPS,,2021
+Opponent,0,Specialty Dunk,2,2626,2415,Cutting Dunk Shot,DUNKS,,2021
+Opponent,0,Finger Roll,2,545,449,Cutting Finger Roll Layup Shot,LAYUPS,,2021
+Opponent,0,Standard Layup,2,4740,3307,Cutting Layup Shot,LAYUPS,,2021
+Opponent,0,Driving Hook Shot,2,161,90,Driving Bank Hook Shot,POST_MOVES,,2021
+Opponent,0,Driving Dunk,2,1566,1260,Driving Dunk Shot,DUNKS,,2021
+Opponent,0,Finger Roll,2,4117,2603,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Opponent,0,Floating Jump Shot,2,2123,1121,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2021
+Opponent,0,Floating Jump Shot,2,8306,3526,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Opponent,0,Driving Hook Shot,2,950,451,Driving Hook Shot,POST_MOVES,,2021
+Opponent,0,Driving Layup,2,17871,8382,Driving Layup Shot,LAYUPS,,2021
+Opponent,0,Reverse Dunk,2,24,19,Driving Reverse Dunk Shot,DUNKS,,2021
+Opponent,0,Driving Layup,2,1998,1136,Driving Reverse Layup Shot,LAYUPS,,2021
+Opponent,0,Standard Dunk,2,1535,1315,Dunk Shot,DUNKS,,2021
+Opponent,0,Fadeaway Jump Shot,2,2984,1241,Fadeaway Jump Shot,JUMP_SHOTS,,2021
+Opponent,0,Finger Roll,2,354,224,Finger Roll Layup Shot,LAYUPS,,2021
+Opponent,0,Floating Jump Shot,2,4718,2125,Floating Jump shot,FLOATING_SHOTS,,2021
+Opponent,0,Hook Shot,2,105,73,Hook Bank Shot,POST_MOVES,,2021
+Opponent,0,Hook Shot,2,2017,961,Hook Shot,POST_MOVES,,2021
+Opponent,0,Jump Shot,2,591,330,Jump Bank Shot,JUMP_SHOTS,,2021
+Opponent,0,Jump Shot,2,65207,23777,Jump Shot,JUMP_SHOTS,,2021
+Opponent,0,Standard Layup,2,7709,3583,Layup Shot,LAYUPS,,2021
+Opponent,0,Pullup Jump Shot,2,22441,9222,Pullup Jump shot,JUMP_SHOTS,,2021
+Opponent,0,Putback Dunk,2,437,402,Putback Dunk Shot,DUNKS,,2021
+Opponent,0,Putback Layup,2,2831,1895,Putback Layup Shot,LAYUPS,,2021
+Opponent,0,Reverse Dunk,2,75,70,Reverse Dunk Shot,DUNKS,,2021
+Opponent,0,Reverse Layup,2,1360,872,Reverse Layup Shot,LAYUPS,,2021
+Opponent,0,Alley Oop Dunk,2,191,182,Running Alley Oop Dunk Shot,DUNKS,,2021
+Opponent,0,Alley Oop Layup,2,87,72,Running Alley Oop Layup Shot,LAYUPS,,2021
+Opponent,0,Standard Dunk,2,1643,1556,Running Dunk Shot,DUNKS,,2021
+Opponent,0,Finger Roll,2,881,684,Running Finger Roll Layup Shot,LAYUPS,,2021
+Opponent,0,Running Jump Shot,2,1793,828,Running Jump Shot,JUMP_SHOTS,,2021
+Opponent,0,Standard Layup,2,4378,2834,Running Layup Shot,LAYUPS,,2021
+Opponent,0,Running Jump Shot,2,1271,519,Running Pull-Up Jump Shot,JUMP_SHOTS,,2021
+Opponent,0,Reverse Dunk,2,10,10,Running Reverse Dunk Shot,DUNKS,,2021
+Opponent,0,Reverse Layup,2,367,263,Running Reverse Layup Shot,LAYUPS,,2021
+Opponent,0,Step Back Jump Shot,2,72,40,Step Back Bank Jump Shot,JUMP_SHOTS,,2021
+Opponent,0,Step Back Jump Shot,2,8390,3306,Step Back Jump shot,JUMP_SHOTS,,2021
+Opponent,0,Specialty Dunk,2,568,477,Tip Dunk Shot,DUNKS,,2021
+Opponent,0,Putback Layup,2,3888,1956,Tip Layup Shot,LAYUPS,,2021
+Opponent,0,Turnaround Hook Shot,2,145,94,Turnaround Bank Hook Shot,POST_MOVES,,2021
+Opponent,0,Turnaround Jump Shot,2,427,254,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2021
+Opponent,0,Turnaround Jump Shot,2,2329,1023,Turnaround Fadeaway shot,JUMP_SHOTS,,2021
+Opponent,0,Turnaround Hook Shot,2,2087,1034,Turnaround Hook Shot,POST_MOVES,,2021
+Opponent,0,Turnaround Jump Shot,2,2699,1123,Turnaround Jump Shot,JUMP_SHOTS,,2021
+Opponent,0,Alley Oop Dunk,2,1845,1632,Alley Oop Dunk Shot,DUNKS,,2022
+Opponent,0,Alley Oop Layup,2,924,588,Alley Oop Layup shot,LAYUPS,,2022
+Opponent,0,Specialty Dunk,2,3121,2873,Cutting Dunk Shot,DUNKS,,2022
+Opponent,0,Finger Roll,2,672,550,Cutting Finger Roll Layup Shot,LAYUPS,,2022
+Opponent,0,Standard Layup,2,5282,3633,Cutting Layup Shot,LAYUPS,,2022
+Opponent,0,Driving Hook Shot,2,232,128,Driving Bank Hook Shot,POST_MOVES,,2022
+Opponent,0,Driving Dunk,2,1760,1417,Driving Dunk Shot,DUNKS,,2022
+Opponent,0,Finger Roll,2,5048,3172,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Opponent,0,Floating Jump Shot,2,2596,1352,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Opponent,0,Floating Jump Shot,2,9586,4070,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Opponent,0,Driving Hook Shot,2,1245,529,Driving Hook Shot,POST_MOVES,,2022
+Opponent,0,Driving Layup,2,18944,8916,Driving Layup Shot,LAYUPS,,2022
+Opponent,0,Reverse Dunk,2,43,34,Driving Reverse Dunk Shot,DUNKS,,2022
+Opponent,0,Driving Layup,2,1986,1138,Driving Reverse Layup Shot,LAYUPS,,2022
+Opponent,0,Standard Dunk,2,1796,1545,Dunk Shot,DUNKS,,2022
+Opponent,0,Fadeaway Jump Shot,2,4031,1499,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Opponent,0,Finger Roll,2,429,280,Finger Roll Layup Shot,LAYUPS,,2022
+Opponent,0,Floating Jump Shot,2,4836,2204,Floating Jump shot,FLOATING_SHOTS,,2022
+Opponent,0,Hook Shot,2,149,90,Hook Bank Shot,POST_MOVES,,2022
+Opponent,0,Hook Shot,2,2135,1016,Hook Shot,POST_MOVES,,2022
+Opponent,0,Jump Shot,2,546,288,Jump Bank Shot,JUMP_SHOTS,,2022
+Opponent,0,Jump Shot,2,70930,25190,Jump Shot,JUMP_SHOTS,,2022
+Opponent,0,Standard Layup,2,7977,3905,Layup Shot,LAYUPS,,2022
+Opponent,0,Pullup Jump Shot,2,26249,10397,Pullup Jump shot,JUMP_SHOTS,,2022
+Opponent,0,Putback Dunk,2,518,460,Putback Dunk Shot,DUNKS,,2022
+Opponent,0,Putback Layup,2,3314,2238,Putback Layup Shot,LAYUPS,,2022
+Opponent,0,Reverse Dunk,2,125,120,Reverse Dunk Shot,DUNKS,,2022
+Opponent,0,Reverse Layup,2,1419,933,Reverse Layup Shot,LAYUPS,,2022
+Opponent,0,Alley Oop Dunk,2,376,344,Running Alley Oop Dunk Shot,DUNKS,,2022
+Opponent,0,Alley Oop Layup,2,127,103,Running Alley Oop Layup Shot,LAYUPS,,2022
+Opponent,0,Standard Dunk,2,2192,2059,Running Dunk Shot,DUNKS,,2022
+Opponent,0,Finger Roll,2,1207,899,Running Finger Roll Layup Shot,LAYUPS,,2022
+Opponent,0,Running Jump Shot,2,2944,1214,Running Jump Shot,JUMP_SHOTS,,2022
+Opponent,0,Standard Layup,2,5152,3206,Running Layup Shot,LAYUPS,,2022
+Opponent,0,Running Jump Shot,2,1806,727,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
+Opponent,0,Reverse Dunk,2,32,30,Running Reverse Dunk Shot,DUNKS,,2022
+Opponent,0,Reverse Layup,2,472,335,Running Reverse Layup Shot,LAYUPS,,2022
+Opponent,0,Step Back Jump Shot,2,77,31,Step Back Bank Jump Shot,JUMP_SHOTS,,2022
+Opponent,0,Step Back Jump Shot,2,10310,3926,Step Back Jump shot,JUMP_SHOTS,,2022
+Opponent,0,Specialty Dunk,2,720,600,Tip Dunk Shot,DUNKS,,2022
+Opponent,0,Putback Layup,2,4459,2164,Tip Layup Shot,LAYUPS,,2022
+Opponent,0,Turnaround Hook Shot,2,161,96,Turnaround Bank Hook Shot,POST_MOVES,,2022
+Opponent,0,Turnaround Jump Shot,2,563,300,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2022
+Opponent,0,Turnaround Jump Shot,2,2976,1277,Turnaround Fadeaway shot,JUMP_SHOTS,,2022
+Opponent,0,Turnaround Hook Shot,2,2330,1174,Turnaround Hook Shot,POST_MOVES,,2022
+Opponent,0,Turnaround Jump Shot,2,3080,1248,Turnaround Jump Shot,JUMP_SHOTS,,2022
+Opponent,0,Alley Oop Dunk,2,1558,1421,Alley Oop Dunk Shot,DUNKS,,2023
+Opponent,0,Alley Oop Layup,2,795,534,Alley Oop Layup shot,LAYUPS,,2023
+Opponent,0,Specialty Dunk,2,3340,3077,Cutting Dunk Shot,DUNKS,,2023
+Opponent,0,Finger Roll,2,678,554,Cutting Finger Roll Layup Shot,LAYUPS,,2023
+Opponent,0,Standard Layup,2,5518,3852,Cutting Layup Shot,LAYUPS,,2023
+Opponent,0,Driving Hook Shot,2,393,207,Driving Bank Hook Shot,POST_MOVES,,2023
+Opponent,0,Driving Dunk,2,1940,1545,Driving Dunk Shot,DUNKS,,2023
+Opponent,0,Finger Roll,2,5516,3522,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Opponent,0,Floating Jump Shot,2,3356,1767,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+Opponent,0,Floating Jump Shot,2,11246,4934,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Opponent,0,Driving Hook Shot,2,1500,630,Driving Hook Shot,POST_MOVES,,2023
+Opponent,0,Driving Layup,2,19169,9393,Driving Layup Shot,LAYUPS,,2023
+Opponent,0,Reverse Dunk,2,41,33,Driving Reverse Dunk Shot,DUNKS,,2023
+Opponent,0,Driving Layup,2,2218,1245,Driving Reverse Layup Shot,LAYUPS,,2023
+Opponent,0,Standard Dunk,2,1637,1416,Dunk Shot,DUNKS,,2023
+Opponent,0,Fadeaway Jump Shot,2,182,100,Fadeaway Bank shot,JUMP_SHOTS,,2023
+Opponent,0,Fadeaway Jump Shot,2,3923,1594,Fadeaway Jump Shot,JUMP_SHOTS,,2023
+Opponent,0,Finger Roll,2,405,269,Finger Roll Layup Shot,LAYUPS,,2023
+Opponent,0,Floating Jump Shot,2,4331,1964,Floating Jump shot,FLOATING_SHOTS,,2023
+Opponent,0,Hook Shot,2,142,87,Hook Bank Shot,POST_MOVES,,2023
+Opponent,0,Hook Shot,2,1874,940,Hook Shot,POST_MOVES,,2023
+Opponent,0,Jump Shot,2,451,223,Jump Bank Shot,JUMP_SHOTS,,2023
+Opponent,0,Jump Shot,2,63981,23470,Jump Shot,JUMP_SHOTS,,2023
+Opponent,0,Standard Layup,2,5824,2935,Layup Shot,LAYUPS,,2023
+Opponent,0,Pullup Jump Shot,2,27214,10824,Pullup Jump shot,JUMP_SHOTS,,2023
+Opponent,0,Putback Dunk,2,560,515,Putback Dunk Shot,DUNKS,,2023
+Opponent,0,Putback Layup,2,3525,2358,Putback Layup Shot,LAYUPS,,2023
+Opponent,0,Reverse Dunk,2,119,100,Reverse Dunk Shot,DUNKS,,2023
+Opponent,0,Reverse Layup,2,1400,941,Reverse Layup Shot,LAYUPS,,2023
+Opponent,0,Alley Oop Dunk,2,468,428,Running Alley Oop Dunk Shot,DUNKS,,2023
+Opponent,0,Alley Oop Layup,2,161,115,Running Alley Oop Layup Shot,LAYUPS,,2023
+Opponent,0,Standard Dunk,2,2569,2392,Running Dunk Shot,DUNKS,,2023
+Opponent,0,Finger Roll,2,1500,1148,Running Finger Roll Layup Shot,LAYUPS,,2023
+Opponent,0,Running Jump Shot,2,4398,1753,Running Jump Shot,JUMP_SHOTS,,2023
+Opponent,0,Standard Layup,2,6766,4121,Running Layup Shot,LAYUPS,,2023
+Opponent,0,Running Jump Shot,2,2601,1024,Running Pull-Up Jump Shot,JUMP_SHOTS,,2023
+Opponent,0,Reverse Dunk,2,24,22,Running Reverse Dunk Shot,DUNKS,,2023
+Opponent,0,Reverse Layup,2,624,422,Running Reverse Layup Shot,LAYUPS,,2023
+Opponent,0,Step Back Jump Shot,2,74,41,Step Back Bank Jump Shot,JUMP_SHOTS,,2023
+Opponent,0,Step Back Jump Shot,2,10457,4065,Step Back Jump shot,JUMP_SHOTS,,2023
+Opponent,0,Specialty Dunk,2,822,713,Tip Dunk Shot,DUNKS,,2023
+Opponent,0,Putback Layup,2,4685,2299,Tip Layup Shot,LAYUPS,,2023
+Opponent,0,Turnaround Hook Shot,2,201,120,Turnaround Bank Hook Shot,POST_MOVES,,2023
+Opponent,0,Turnaround Jump Shot,2,306,195,Turnaround Bank shot,JUMP_SHOTS,,2023
+Opponent,0,Turnaround Jump Shot,2,100,58,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2023
+Opponent,0,Turnaround Jump Shot,2,3214,1371,Turnaround Fadeaway shot,JUMP_SHOTS,,2023
+Opponent,0,Turnaround Hook Shot,2,2546,1293,Turnaround Hook Shot,POST_MOVES,,2023
+Opponent,0,Turnaround Jump Shot,2,2868,1230,Turnaround Jump Shot,JUMP_SHOTS,,2023
+Opponent,0,Alley Oop Dunk,2,1648,1469,Alley Oop Dunk Shot,DUNKS,,2024
+Opponent,0,Alley Oop Layup,2,774,490,Alley Oop Layup shot,LAYUPS,,2024
+Opponent,0,Specialty Dunk,2,3053,2791,Cutting Dunk Shot,DUNKS,,2024
+Opponent,0,Finger Roll,2,712,561,Cutting Finger Roll Layup Shot,LAYUPS,,2024
+Opponent,0,Standard Layup,2,5271,3652,Cutting Layup Shot,LAYUPS,,2024
+Opponent,0,Driving Hook Shot,2,308,158,Driving Bank Hook Shot,POST_MOVES,,2024
+Opponent,0,Driving Dunk,2,2121,1711,Driving Dunk Shot,DUNKS,,2024
+Opponent,0,Finger Roll,2,6188,3910,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Opponent,0,Floating Jump Shot,2,3332,1696,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Opponent,0,Floating Jump Shot,3,6,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Opponent,0,Floating Jump Shot,2,11133,4779,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Opponent,0,Floating Jump Shot,3,20,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Opponent,0,Driving Hook Shot,2,1602,689,Driving Hook Shot,POST_MOVES,,2024
+Opponent,0,Driving Layup,2,19861,9686,Driving Layup Shot,LAYUPS,,2024
+Opponent,0,Reverse Dunk,2,39,31,Driving Reverse Dunk Shot,DUNKS,,2024
+Opponent,0,Driving Layup,2,2365,1374,Driving Reverse Layup Shot,LAYUPS,,2024
+Opponent,0,Standard Dunk,2,1474,1290,Dunk Shot,DUNKS,,2024
+Opponent,0,Fadeaway Jump Shot,2,216,114,Fadeaway Bank shot,JUMP_SHOTS,,2024
+Opponent,0,Fadeaway Jump Shot,3,6,0,Fadeaway Bank shot,JUMP_SHOTS,,2024
+Opponent,0,Fadeaway Jump Shot,2,4129,1654,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Opponent,0,Fadeaway Jump Shot,3,199,47,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Opponent,0,Finger Roll,2,395,253,Finger Roll Layup Shot,LAYUPS,,2024
+Opponent,0,Floating Jump Shot,2,4022,1849,Floating Jump shot,FLOATING_SHOTS,,2024
+Opponent,0,Floating Jump Shot,3,89,8,Floating Jump shot,FLOATING_SHOTS,,2024
+Opponent,0,Hook Shot,2,138,78,Hook Bank Shot,POST_MOVES,,2024
+Opponent,0,Hook Shot,2,1931,893,Hook Shot,POST_MOVES,,2024
+Opponent,0,Jump Shot,2,259,166,Jump Bank Shot,JUMP_SHOTS,,2024
+Opponent,0,Jump Shot,3,160,71,Jump Bank Shot,JUMP_SHOTS,,2024
+Opponent,0,Jump Shot,2,5594,2364,Jump Shot,JUMP_SHOTS,,2024
+Opponent,0,Jump Shot,3,58648,21810,Jump Shot,JUMP_SHOTS,,2024
+Opponent,0,Standard Layup,2,5477,2777,Layup Shot,LAYUPS,,2024
+Opponent,0,Pullup Jump Shot,2,14328,6387,Pullup Jump shot,JUMP_SHOTS,,2024
+Opponent,0,Pullup Jump Shot,3,11983,4004,Pullup Jump shot,JUMP_SHOTS,,2024
+Opponent,0,Putback Dunk,2,499,448,Putback Dunk Shot,DUNKS,,2024
+Opponent,0,Putback Layup,2,3838,2508,Putback Layup Shot,LAYUPS,,2024
+Opponent,0,Reverse Dunk,2,128,116,Reverse Dunk Shot,DUNKS,,2024
+Opponent,0,Reverse Layup,2,1273,855,Reverse Layup Shot,LAYUPS,,2024
+Opponent,0,Alley Oop Dunk,2,561,513,Running Alley Oop Dunk Shot,DUNKS,,2024
+Opponent,0,Alley Oop Layup,2,188,119,Running Alley Oop Layup Shot,LAYUPS,,2024
+Opponent,0,Standard Dunk,2,2769,2588,Running Dunk Shot,DUNKS,,2024
+Opponent,0,Finger Roll,2,1721,1287,Running Finger Roll Layup Shot,LAYUPS,,2024
+Opponent,0,Running Jump Shot,2,314,134,Running Jump Shot,JUMP_SHOTS,,2024
+Opponent,0,Running Jump Shot,3,5522,2182,Running Jump Shot,JUMP_SHOTS,,2024
+Opponent,0,Standard Layup,2,7323,4326,Running Layup Shot,LAYUPS,,2024
+Opponent,0,Running Jump Shot,2,610,312,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Opponent,0,Running Jump Shot,3,2375,881,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Opponent,0,Reverse Dunk,2,35,34,Running Reverse Dunk Shot,DUNKS,,2024
+Opponent,0,Reverse Layup,2,606,402,Running Reverse Layup Shot,LAYUPS,,2024
+Opponent,0,Step Back Jump Shot,2,53,31,Step Back Bank Jump Shot,JUMP_SHOTS,,2024
+Opponent,0,Step Back Jump Shot,3,29,17,Step Back Bank Jump Shot,JUMP_SHOTS,,2024
+Opponent,0,Step Back Jump Shot,2,3973,1717,Step Back Jump shot,JUMP_SHOTS,,2024
+Opponent,0,Step Back Jump Shot,3,7181,2526,Step Back Jump shot,JUMP_SHOTS,,2024
+Opponent,0,Specialty Dunk,2,860,749,Tip Dunk Shot,DUNKS,,2024
+Opponent,0,Putback Layup,2,4765,2306,Tip Layup Shot,LAYUPS,,2024
+Opponent,0,Turnaround Hook Shot,2,219,125,Turnaround Bank Hook Shot,POST_MOVES,,2024
+Opponent,0,Turnaround Jump Shot,2,359,210,Turnaround Bank shot,JUMP_SHOTS,,2024
+Opponent,0,Turnaround Jump Shot,3,4,4,Turnaround Bank shot,JUMP_SHOTS,,2024
+Opponent,0,Turnaround Jump Shot,2,109,63,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2024
+Opponent,0,Turnaround Jump Shot,3,2,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2024
+Opponent,0,Turnaround Jump Shot,2,3507,1518,Turnaround Fadeaway shot,JUMP_SHOTS,,2024
+Opponent,0,Turnaround Jump Shot,3,33,8,Turnaround Fadeaway shot,JUMP_SHOTS,,2024
+Opponent,0,Turnaround Hook Shot,2,2428,1187,Turnaround Hook Shot,POST_MOVES,,2024
+Opponent,0,Turnaround Jump Shot,2,2856,1168,Turnaround Jump Shot,JUMP_SHOTS,,2024
+Opponent,0,Turnaround Jump Shot,3,98,16,Turnaround Jump Shot,JUMP_SHOTS,,2024
+Opponent,0,Alley Oop Dunk,2,878,794,Alley Oop Dunk Shot,DUNKS,,2025
+Opponent,0,Alley Oop Layup,2,399,250,Alley Oop Layup shot,LAYUPS,,2025
+Opponent,0,Specialty Dunk,2,1540,1393,Cutting Dunk Shot,DUNKS,,2025
+Opponent,0,Finger Roll,2,366,282,Cutting Finger Roll Layup Shot,LAYUPS,,2025
+Opponent,0,Standard Layup,2,2759,1870,Cutting Layup Shot,LAYUPS,,2025
+Opponent,0,Driving Hook Shot,2,156,80,Driving Bank Hook Shot,POST_MOVES,,2025
+Opponent,0,Driving Dunk,2,929,723,Driving Dunk Shot,DUNKS,,2025
+Opponent,0,Finger Roll,2,2864,1823,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Opponent,0,Floating Jump Shot,2,1753,860,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2025
+Opponent,0,Floating Jump Shot,3,4,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2025
+Opponent,0,Floating Jump Shot,2,5996,2606,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Opponent,0,Floating Jump Shot,3,31,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Opponent,0,Driving Hook Shot,2,793,375,Driving Hook Shot,POST_MOVES,,2025
+Opponent,0,Driving Layup,2,9046,4255,Driving Layup Shot,LAYUPS,,2025
+Opponent,0,Reverse Dunk,2,26,21,Driving Reverse Dunk Shot,DUNKS,,2025
+Opponent,0,Driving Layup,2,1024,590,Driving Reverse Layup Shot,LAYUPS,,2025
+Opponent,0,Standard Dunk,2,516,439,Dunk Shot,DUNKS,,2025
+Opponent,0,Fadeaway Jump Shot,2,88,38,Fadeaway Bank shot,JUMP_SHOTS,,2025
+Opponent,0,Fadeaway Jump Shot,3,6,1,Fadeaway Bank shot,JUMP_SHOTS,,2025
+Opponent,0,Fadeaway Jump Shot,2,1758,693,Fadeaway Jump Shot,JUMP_SHOTS,,2025
+Opponent,0,Fadeaway Jump Shot,3,121,27,Fadeaway Jump Shot,JUMP_SHOTS,,2025
+Opponent,0,Finger Roll,2,162,105,Finger Roll Layup Shot,LAYUPS,,2025
+Opponent,0,Floating Jump Shot,2,1720,812,Floating Jump shot,FLOATING_SHOTS,,2025
+Opponent,0,Floating Jump Shot,3,37,6,Floating Jump shot,FLOATING_SHOTS,,2025
+Opponent,0,Hook Shot,2,71,33,Hook Bank Shot,POST_MOVES,,2025
+Opponent,0,Hook Shot,2,659,310,Hook Shot,POST_MOVES,,2025
+Opponent,0,Jump Shot,2,115,61,Jump Bank Shot,JUMP_SHOTS,,2025
+Opponent,0,Jump Shot,3,101,34,Jump Bank Shot,JUMP_SHOTS,,2025
+Opponent,0,Jump Shot,2,1801,756,Jump Shot,JUMP_SHOTS,,2025
+Opponent,0,Jump Shot,3,28840,10625,Jump Shot,JUMP_SHOTS,,2025
+Opponent,0,Standard Layup,2,1853,998,Layup Shot,LAYUPS,,2025
+Opponent,0,Pullup Jump Shot,2,5564,2372,Pullup Jump shot,JUMP_SHOTS,,2025
+Opponent,0,Pullup Jump Shot,3,6913,2287,Pullup Jump shot,JUMP_SHOTS,,2025
+Opponent,0,Putback Dunk,2,237,218,Putback Dunk Shot,DUNKS,,2025
+Opponent,0,Putback Layup,2,1742,1068,Putback Layup Shot,LAYUPS,,2025
+Opponent,0,Reverse Dunk,2,57,51,Reverse Dunk Shot,DUNKS,,2025
+Opponent,0,Reverse Layup,2,496,317,Reverse Layup Shot,LAYUPS,,2025
+Opponent,0,Alley Oop Dunk,2,305,284,Running Alley Oop Dunk Shot,DUNKS,,2025
+Opponent,0,Alley Oop Layup,2,105,75,Running Alley Oop Layup Shot,LAYUPS,,2025
+Opponent,0,Standard Dunk,2,1492,1388,Running Dunk Shot,DUNKS,,2025
+Opponent,0,Finger Roll,2,850,619,Running Finger Roll Layup Shot,LAYUPS,,2025
+Opponent,0,Running Jump Shot,2,98,41,Running Jump Shot,JUMP_SHOTS,,2025
+Opponent,0,Running Jump Shot,3,3267,1219,Running Jump Shot,JUMP_SHOTS,,2025
+Opponent,0,Standard Layup,2,3679,2089,Running Layup Shot,LAYUPS,,2025
+Opponent,0,Running Jump Shot,2,236,121,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025
+Opponent,0,Running Jump Shot,3,1432,513,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025
+Opponent,0,Reverse Dunk,2,20,17,Running Reverse Dunk Shot,DUNKS,,2025
+Opponent,0,Reverse Layup,2,311,216,Running Reverse Layup Shot,LAYUPS,,2025
+Opponent,0,Step Back Jump Shot,2,12,8,Step Back Bank Jump Shot,JUMP_SHOTS,,2025
+Opponent,0,Step Back Jump Shot,3,25,10,Step Back Bank Jump Shot,JUMP_SHOTS,,2025
+Opponent,0,Step Back Jump Shot,2,1919,811,Step Back Jump shot,JUMP_SHOTS,,2025
+Opponent,0,Step Back Jump Shot,3,4047,1398,Step Back Jump shot,JUMP_SHOTS,,2025
+Opponent,0,Specialty Dunk,2,362,302,Tip Dunk Shot,DUNKS,,2025
+Opponent,0,Putback Layup,2,2261,1082,Tip Layup Shot,LAYUPS,,2025
+Opponent,0,Turnaround Hook Shot,2,119,64,Turnaround Bank Hook Shot,POST_MOVES,,2025
+Opponent,0,Turnaround Jump Shot,2,125,82,Turnaround Bank shot,JUMP_SHOTS,,2025
+Opponent,0,Turnaround Jump Shot,2,54,26,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2025
+Opponent,0,Turnaround Jump Shot,2,1599,687,Turnaround Fadeaway shot,JUMP_SHOTS,,2025
+Opponent,0,Turnaround Jump Shot,3,15,4,Turnaround Fadeaway shot,JUMP_SHOTS,,2025
+Opponent,0,Turnaround Hook Shot,2,1150,561,Turnaround Hook Shot,POST_MOVES,,2025
+Opponent,0,Turnaround Jump Shot,2,1136,482,Turnaround Jump Shot,JUMP_SHOTS,,2025
+Opponent,0,Turnaround Jump Shot,3,40,11,Turnaround Jump Shot,JUMP_SHOTS,,2025

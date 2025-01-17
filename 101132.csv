@@ -1,81 +1,196 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-101132,Driving Dunk,2PT Field Goal,2,1,Driving Dunk Shot,DUNKS,0.5,2006
-101132,Driving Layup,2PT Field Goal,6,4,Driving Layup Shot,LAYUPS,0.6666666666666666,2006
-101132,Standard Dunk,2PT Field Goal,4,4,Dunk Shot,DUNKS,1.0,2006
-101132,Fadeaway Jump Shot,3PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2006
-101132,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,2006
-101132,Hook Shot,2PT Field Goal,1,1,Jump Hook Shot,POST_MOVES,1.0,2006
-101132,Jump Shot,2PT Field Goal,25,8,Jump Shot,JUMP_SHOTS,0.32,2006
-101132,Jump Shot,3PT Field Goal,6,1,Jump Shot,JUMP_SHOTS,0.25,2006
-101132,Standard Layup,2PT Field Goal,18,10,Layup Shot,LAYUPS,0.5555555555555556,2006
-101132,Running Hook Shot,2PT Field Goal,2,0,Running Hook Shot,POST_MOVES,0.0,2006
-101132,Tip Shot,2PT Field Goal,4,4,Tip Shot,TIP_SHOTS,1.0,2006
-101132,Alley Oop Layup,2PT Field Goal,1,1,Alley Oop Layup shot,LAYUPS,1.0,2007
-101132,Driving Dunk,2PT Field Goal,4,4,Driving Dunk Shot,DUNKS,1.0,2007
-101132,Driving Layup,2PT Field Goal,9,6,Driving Layup Shot,LAYUPS,0.6666666666666666,2007
-101132,Standard Dunk,2PT Field Goal,11,11,Dunk Shot,DUNKS,1.0,2007
-101132,Fadeaway Jump Shot,2PT Field Goal,5,3,Fadeaway Jump Shot,JUMP_SHOTS,0.6,2007
-101132,Finger Roll,2PT Field Goal,1,0,Finger Roll Shot,LAYUPS,0.0,2007
-101132,Hook Shot,2PT Field Goal,5,3,Jump Hook Shot,POST_MOVES,0.6,2007
-101132,Jump Shot,2PT Field Goal,49,17,Jump Shot,JUMP_SHOTS,0.3469387755102041,2007
-101132,Jump Shot,3PT Field Goal,117,49,Jump Shot,JUMP_SHOTS,0.6282051282051282,2007
-101132,Standard Layup,2PT Field Goal,35,14,Layup Shot,LAYUPS,0.4,2007
-101132,Reverse Dunk,2PT Field Goal,1,1,Reverse Dunk Shot,DUNKS,1.0,2007
-101132,Reverse Layup,2PT Field Goal,6,4,Reverse Layup Shot,LAYUPS,0.6666666666666666,2007
-101132,Running Hook Shot,2PT Field Goal,1,1,Running Hook Shot,POST_MOVES,1.0,2007
-101132,Running Jump Shot,2PT Field Goal,6,4,Running Jump Shot,JUMP_SHOTS,0.6666666666666666,2007
-101132,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2007
-101132,Standard Dunk,2PT Field Goal,2,2,Slam Dunk Shot,DUNKS,1.0,2007
-101132,Tip Shot,2PT Field Goal,9,3,Tip Shot,TIP_SHOTS,0.3333333333333333,2007
-101132,Turnaround Jump Shot,2PT Field Goal,5,2,Turnaround Jump Shot,JUMP_SHOTS,0.4,2007
-101132,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2008
-101132,Alley Oop Layup,2PT Field Goal,3,2,Alley Oop Layup shot,LAYUPS,0.6666666666666666,2008
-101132,Driving Dunk,2PT Field Goal,7,7,Driving Dunk Shot,DUNKS,1.0,2008
-101132,Finger Roll,2PT Field Goal,2,1,Driving Finger Roll Layup Shot,LAYUPS,0.5,2008
-101132,Driving Layup,2PT Field Goal,33,21,Driving Layup Shot,LAYUPS,0.6363636363636364,2008
-101132,Driving Layup,2PT Field Goal,2,2,Driving Reverse Layup Shot,LAYUPS,1.0,2008
-101132,Driving Dunk,2PT Field Goal,1,1,Driving Slam Dunk Shot,DUNKS,1.0,2008
-101132,Standard Dunk,2PT Field Goal,15,14,Dunk Shot,DUNKS,0.9333333333333332,2008
-101132,Fadeaway Jump Shot,2PT Field Goal,2,2,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2008
-101132,Finger Roll,2PT Field Goal,1,1,Finger Roll Layup Shot,LAYUPS,1.0,2008
-101132,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2008
-101132,Hook Shot,2PT Field Goal,6,4,Jump Hook Shot,POST_MOVES,0.6666666666666666,2008
-101132,Jump Shot,2PT Field Goal,56,18,Jump Shot,JUMP_SHOTS,0.3214285714285714,2008
-101132,Jump Shot,3PT Field Goal,165,56,Jump Shot,JUMP_SHOTS,0.509090909090909,2008
-101132,Standard Layup,2PT Field Goal,39,21,Layup Shot,LAYUPS,0.5384615384615384,2008
-101132,Putback Dunk,2PT Field Goal,4,3,Putback Dunk Shot,DUNKS,0.75,2008
-101132,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2008
-101132,Reverse Dunk,2PT Field Goal,1,1,Reverse Dunk Shot,DUNKS,1.0,2008
-101132,Reverse Layup,2PT Field Goal,5,5,Reverse Layup Shot,LAYUPS,1.0,2008
-101132,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2008
-101132,Running Hook Shot,2PT Field Goal,3,1,Running Hook Shot,POST_MOVES,0.3333333333333333,2008
-101132,Running Jump Shot,2PT Field Goal,13,7,Running Jump Shot,JUMP_SHOTS,0.5384615384615384,2008
-101132,Standard Layup,2PT Field Goal,2,0,Running Layup Shot,LAYUPS,0.0,2008
-101132,Standard Dunk,2PT Field Goal,3,3,Slam Dunk Shot,DUNKS,1.0,2008
-101132,Tip Shot,2PT Field Goal,12,6,Tip Shot,TIP_SHOTS,0.5,2008
-101132,Turnaround Jump Shot,2PT Field Goal,5,4,Turnaround Fadeaway shot,JUMP_SHOTS,0.8,2008
-101132,Turnaround Jump Shot,2PT Field Goal,7,2,Turnaround Jump Shot,JUMP_SHOTS,0.2857142857142857,2008
-101132,Alley Oop Layup,2PT Field Goal,3,3,Alley Oop Layup shot,LAYUPS,1.0,2009
-101132,Driving Dunk,2PT Field Goal,6,6,Driving Dunk Shot,DUNKS,1.0,2009
-101132,Finger Roll,2PT Field Goal,2,1,Driving Finger Roll Layup Shot,LAYUPS,0.5,2009
-101132,Driving Jump Shot,2PT Field Goal,1,0,Driving Jump shot,JUMP_SHOTS,0.0,2009
-101132,Driving Layup,2PT Field Goal,32,19,Driving Layup Shot,LAYUPS,0.59375,2009
-101132,Driving Layup,2PT Field Goal,4,3,Driving Reverse Layup Shot,LAYUPS,0.75,2009
-101132,Standard Dunk,2PT Field Goal,16,14,Dunk Shot,DUNKS,0.875,2009
-101132,Fadeaway Jump Shot,2PT Field Goal,2,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2009
-101132,Fadeaway Jump Shot,3PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2009
-101132,Finger Roll,2PT Field Goal,4,3,Finger Roll Layup Shot,LAYUPS,0.75,2009
-101132,Hook Shot,2PT Field Goal,4,2,Hook Shot,POST_MOVES,0.5,2009
-101132,Hook Shot,2PT Field Goal,3,2,Jump Hook Shot,POST_MOVES,0.6666666666666666,2009
-101132,Jump Shot,2PT Field Goal,46,7,Jump Shot,JUMP_SHOTS,0.1521739130434782,2009
-101132,Jump Shot,3PT Field Goal,159,52,Jump Shot,JUMP_SHOTS,0.490566037735849,2009
-101132,Standard Layup,2PT Field Goal,50,26,Layup Shot,LAYUPS,0.52,2009
-101132,Putback Dunk,2PT Field Goal,2,2,Putback Dunk Shot,DUNKS,1.0,2009
-101132,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2009
-101132,Reverse Layup,2PT Field Goal,6,4,Reverse Layup Shot,LAYUPS,0.6666666666666666,2009
-101132,Running Hook Shot,2PT Field Goal,3,1,Running Hook Shot,POST_MOVES,0.3333333333333333,2009
-101132,Running Jump Shot,2PT Field Goal,10,7,Running Jump Shot,JUMP_SHOTS,0.7,2009
-101132,Standard Layup,2PT Field Goal,2,2,Running Layup Shot,LAYUPS,1.0,2009
-101132,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2009
-101132,Tip Shot,2PT Field Goal,5,4,Tip Shot,TIP_SHOTS,0.8,2009
-101132,Turnaround Jump Shot,2PT Field Goal,7,1,Turnaround Jump Shot,JUMP_SHOTS,0.1428571428571428,2009
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Linas Kleiza,101132,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2006
+Linas Kleiza,101132,Driving Dunk,2,4,3,Driving Dunk Shot,DUNKS,,2006
+Linas Kleiza,101132,Driving Layup,2,11,8,Driving Layup Shot,LAYUPS,,2006
+Linas Kleiza,101132,Standard Dunk,2,7,7,Dunk Shot,DUNKS,,2006
+Linas Kleiza,101132,Fadeaway Jump Shot,2,3,0,Fadeaway Jump Shot,JUMP_SHOTS,,2006
+Linas Kleiza,101132,Fadeaway Jump Shot,3,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2006
+Linas Kleiza,101132,Finger Roll,2,1,0,Finger Roll Shot,LAYUPS,,2006
+Linas Kleiza,101132,Hook Shot,2,3,1,Hook Shot,POST_MOVES,,2006
+Linas Kleiza,101132,Hook Shot,2,3,1,Jump Hook Shot,POST_MOVES,,2006
+Linas Kleiza,101132,Jump Shot,2,64,20,Jump Shot,JUMP_SHOTS,,2006
+Linas Kleiza,101132,Jump Shot,3,11,2,Jump Shot,JUMP_SHOTS,,2006
+Linas Kleiza,101132,Standard Layup,2,48,25,Layup Shot,LAYUPS,,2006
+Linas Kleiza,101132,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2006
+Linas Kleiza,101132,Running Hook Shot,2,3,1,Running Hook Shot,POST_MOVES,,2006
+Linas Kleiza,101132,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2006
+Linas Kleiza,101132,Tip Shot,2,8,5,Tip Shot,TIP_SHOTS,,2006
+Linas Kleiza,101132,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2006
+Linas Kleiza,101132,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2007
+Linas Kleiza,101132,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2007
+Linas Kleiza,101132,Driving Dunk,2,7,7,Driving Dunk Shot,DUNKS,,2007
+Linas Kleiza,101132,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2007
+Linas Kleiza,101132,Driving Layup,2,11,7,Driving Layup Shot,LAYUPS,,2007
+Linas Kleiza,101132,Standard Dunk,2,17,16,Dunk Shot,DUNKS,,2007
+Linas Kleiza,101132,Fadeaway Jump Shot,2,7,3,Fadeaway Jump Shot,JUMP_SHOTS,,2007
+Linas Kleiza,101132,Finger Roll,2,1,0,Finger Roll Shot,LAYUPS,,2007
+Linas Kleiza,101132,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2007
+Linas Kleiza,101132,Hook Shot,2,7,4,Jump Hook Shot,POST_MOVES,,2007
+Linas Kleiza,101132,Jump Shot,2,95,30,Jump Shot,JUMP_SHOTS,,2007
+Linas Kleiza,101132,Jump Shot,3,217,82,Jump Shot,JUMP_SHOTS,,2007
+Linas Kleiza,101132,Standard Layup,2,60,22,Layup Shot,LAYUPS,,2007
+Linas Kleiza,101132,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2007
+Linas Kleiza,101132,Reverse Layup,2,9,6,Reverse Layup Shot,LAYUPS,,2007
+Linas Kleiza,101132,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2007
+Linas Kleiza,101132,Running Jump Shot,2,8,4,Running Jump Shot,JUMP_SHOTS,,2007
+Linas Kleiza,101132,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2007
+Linas Kleiza,101132,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2007
+Linas Kleiza,101132,Tip Shot,2,15,5,Tip Shot,TIP_SHOTS,,2007
+Linas Kleiza,101132,Turnaround Jump Shot,2,9,4,Turnaround Jump Shot,JUMP_SHOTS,,2007
+Linas Kleiza,101132,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2008
+Linas Kleiza,101132,Alley Oop Layup,2,5,3,Alley Oop Layup shot,LAYUPS,,2008
+Linas Kleiza,101132,Driving Dunk,2,13,12,Driving Dunk Shot,DUNKS,,2008
+Linas Kleiza,101132,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2008
+Linas Kleiza,101132,Driving Layup,2,43,30,Driving Layup Shot,LAYUPS,,2008
+Linas Kleiza,101132,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2008
+Linas Kleiza,101132,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2008
+Linas Kleiza,101132,Standard Dunk,2,35,32,Dunk Shot,DUNKS,,2008
+Linas Kleiza,101132,Fadeaway Jump Shot,2,5,4,Fadeaway Jump Shot,JUMP_SHOTS,,2008
+Linas Kleiza,101132,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2008
+Linas Kleiza,101132,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2008
+Linas Kleiza,101132,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2008
+Linas Kleiza,101132,Hook Shot,2,7,4,Jump Hook Shot,POST_MOVES,,2008
+Linas Kleiza,101132,Jump Shot,2,99,31,Jump Shot,JUMP_SHOTS,,2008
+Linas Kleiza,101132,Jump Shot,3,277,94,Jump Shot,JUMP_SHOTS,,2008
+Linas Kleiza,101132,Standard Layup,2,77,41,Layup Shot,LAYUPS,,2008
+Linas Kleiza,101132,Putback Dunk,2,4,3,Putback Dunk Shot,DUNKS,,2008
+Linas Kleiza,101132,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2008
+Linas Kleiza,101132,Reverse Dunk,2,2,2,Reverse Dunk Shot,DUNKS,,2008
+Linas Kleiza,101132,Reverse Layup,2,8,7,Reverse Layup Shot,LAYUPS,,2008
+Linas Kleiza,101132,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2008
+Linas Kleiza,101132,Running Hook Shot,2,4,1,Running Hook Shot,POST_MOVES,,2008
+Linas Kleiza,101132,Running Jump Shot,2,23,10,Running Jump Shot,JUMP_SHOTS,,2008
+Linas Kleiza,101132,Standard Layup,2,4,2,Running Layup Shot,LAYUPS,,2008
+Linas Kleiza,101132,Standard Dunk,2,10,10,Slam Dunk Shot,DUNKS,,2008
+Linas Kleiza,101132,Tip Shot,2,17,7,Tip Shot,TIP_SHOTS,,2008
+Linas Kleiza,101132,Turnaround Jump Shot,2,6,5,Turnaround Fadeaway shot,JUMP_SHOTS,,2008
+Linas Kleiza,101132,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2008
+Linas Kleiza,101132,Turnaround Jump Shot,2,8,2,Turnaround Jump Shot,JUMP_SHOTS,,2008
+Linas Kleiza,101132,Alley Oop Layup,2,4,4,Alley Oop Layup shot,LAYUPS,,2009
+Linas Kleiza,101132,Driving Dunk,2,7,7,Driving Dunk Shot,DUNKS,,2009
+Linas Kleiza,101132,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2009
+Linas Kleiza,101132,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2009
+Linas Kleiza,101132,Driving Layup,2,51,28,Driving Layup Shot,LAYUPS,,2009
+Linas Kleiza,101132,Driving Layup,2,8,7,Driving Reverse Layup Shot,LAYUPS,,2009
+Linas Kleiza,101132,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2009
+Linas Kleiza,101132,Standard Dunk,2,31,29,Dunk Shot,DUNKS,,2009
+Linas Kleiza,101132,Fadeaway Jump Shot,2,4,0,Fadeaway Jump Shot,JUMP_SHOTS,,2009
+Linas Kleiza,101132,Fadeaway Jump Shot,3,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2009
+Linas Kleiza,101132,Finger Roll,2,6,5,Finger Roll Layup Shot,LAYUPS,,2009
+Linas Kleiza,101132,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2009
+Linas Kleiza,101132,Hook Shot,2,4,2,Hook Shot,POST_MOVES,,2009
+Linas Kleiza,101132,Hook Shot,3,1,0,Hook Shot,POST_MOVES,,2009
+Linas Kleiza,101132,Jump Shot,3,1,1,Jump Bank Shot,JUMP_SHOTS,,2009
+Linas Kleiza,101132,Hook Shot,2,7,6,Jump Hook Shot,POST_MOVES,,2009
+Linas Kleiza,101132,Jump Shot,2,90,18,Jump Shot,JUMP_SHOTS,,2009
+Linas Kleiza,101132,Jump Shot,3,257,84,Jump Shot,JUMP_SHOTS,,2009
+Linas Kleiza,101132,Standard Layup,2,90,46,Layup Shot,LAYUPS,,2009
+Linas Kleiza,101132,Putback Dunk,2,3,2,Putback Dunk Shot,DUNKS,,2009
+Linas Kleiza,101132,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2009
+Linas Kleiza,101132,Reverse Dunk,2,2,1,Reverse Dunk Shot,DUNKS,,2009
+Linas Kleiza,101132,Reverse Layup,2,12,9,Reverse Layup Shot,LAYUPS,,2009
+Linas Kleiza,101132,Reverse Dunk,2,1,1,Reverse Slam Dunk Shot,DUNKS,,2009
+Linas Kleiza,101132,Running Hook Shot,3,1,1,Running Bank Hook Shot,POST_MOVES,,2009
+Linas Kleiza,101132,Running Hook Shot,2,4,2,Running Hook Shot,POST_MOVES,,2009
+Linas Kleiza,101132,Running Jump Shot,2,21,13,Running Jump Shot,JUMP_SHOTS,,2009
+Linas Kleiza,101132,Standard Layup,2,4,3,Running Layup Shot,LAYUPS,,2009
+Linas Kleiza,101132,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2009
+Linas Kleiza,101132,Tip Shot,2,10,8,Tip Shot,TIP_SHOTS,,2009
+Linas Kleiza,101132,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2009
+Linas Kleiza,101132,Turnaround Jump Shot,2,11,1,Turnaround Jump Shot,JUMP_SHOTS,,2009
+Linas Kleiza,101132,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2011
+Linas Kleiza,101132,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2011
+Linas Kleiza,101132,Driving Hook Shot,2,3,0,Driving Hook Shot,POST_MOVES,,2011
+Linas Kleiza,101132,Driving Jump Shot,2,4,1,Driving Jump shot,JUMP_SHOTS,,2011
+Linas Kleiza,101132,Driving Layup,2,24,16,Driving Layup Shot,LAYUPS,,2011
+Linas Kleiza,101132,Driving Layup,2,5,2,Driving Reverse Layup Shot,LAYUPS,,2011
+Linas Kleiza,101132,Driving Dunk,2,3,3,Driving Slam Dunk Shot,DUNKS,,2011
+Linas Kleiza,101132,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2011
+Linas Kleiza,101132,Fadeaway Jump Shot,2,6,3,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Linas Kleiza,101132,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2011
+Linas Kleiza,101132,Floating Jump Shot,2,2,2,Floating Jump shot,FLOATING_SHOTS,,2011
+Linas Kleiza,101132,Hook Shot,2,4,1,Hook Shot,POST_MOVES,,2011
+Linas Kleiza,101132,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2011
+Linas Kleiza,101132,Hook Shot,2,10,3,Jump Hook Shot,POST_MOVES,,2011
+Linas Kleiza,101132,Jump Shot,2,119,37,Jump Shot,JUMP_SHOTS,,2011
+Linas Kleiza,101132,Jump Shot,3,106,33,Jump Shot,JUMP_SHOTS,,2011
+Linas Kleiza,101132,Standard Layup,2,35,21,Layup Shot,LAYUPS,,2011
+Linas Kleiza,101132,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2011
+Linas Kleiza,101132,Pullup Jump Shot,2,10,5,Pullup Jump shot,JUMP_SHOTS,,2011
+Linas Kleiza,101132,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2011
+Linas Kleiza,101132,Reverse Layup,2,5,2,Reverse Layup Shot,LAYUPS,,2011
+Linas Kleiza,101132,Running Jump Shot,3,1,0,Running Bank shot,JUMP_SHOTS,,2011
+Linas Kleiza,101132,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2011
+Linas Kleiza,101132,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2011
+Linas Kleiza,101132,Running Hook Shot,2,3,3,Running Hook Shot,POST_MOVES,,2011
+Linas Kleiza,101132,Running Jump Shot,2,8,6,Running Jump Shot,JUMP_SHOTS,,2011
+Linas Kleiza,101132,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2011
+Linas Kleiza,101132,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2011
+Linas Kleiza,101132,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2011
+Linas Kleiza,101132,Standard Dunk,2,3,3,Running Slam Dunk Shot,DUNKS,,2011
+Linas Kleiza,101132,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2011
+Linas Kleiza,101132,Step Back Jump Shot,2,5,4,Step Back Jump shot,JUMP_SHOTS,,2011
+Linas Kleiza,101132,Tip Shot,2,6,3,Tip Shot,TIP_SHOTS,,2011
+Linas Kleiza,101132,Turnaround Jump Shot,2,3,3,Turnaround Bank shot,JUMP_SHOTS,,2011
+Linas Kleiza,101132,Turnaround Jump Shot,2,8,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2011
+Linas Kleiza,101132,Turnaround Hook Shot,2,9,6,Turnaround Hook Shot,POST_MOVES,,2011
+Linas Kleiza,101132,Turnaround Jump Shot,2,6,3,Turnaround Jump Shot,JUMP_SHOTS,,2011
+Linas Kleiza,101132,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2012
+Linas Kleiza,101132,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2012
+Linas Kleiza,101132,Driving Hook Shot,2,6,1,Driving Hook Shot,POST_MOVES,,2012
+Linas Kleiza,101132,Driving Jump Shot,2,3,2,Driving Jump shot,JUMP_SHOTS,,2012
+Linas Kleiza,101132,Driving Layup,2,18,11,Driving Layup Shot,LAYUPS,,2012
+Linas Kleiza,101132,Driving Layup,2,2,0,Driving Reverse Layup Shot,LAYUPS,,2012
+Linas Kleiza,101132,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2012
+Linas Kleiza,101132,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2012
+Linas Kleiza,101132,Fadeaway Jump Shot,2,7,5,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Linas Kleiza,101132,Finger Roll,2,2,1,Finger Roll Layup Shot,LAYUPS,,2012
+Linas Kleiza,101132,Floating Jump Shot,2,3,0,Floating Jump shot,FLOATING_SHOTS,,2012
+Linas Kleiza,101132,Hook Shot,2,6,2,Hook Shot,POST_MOVES,,2012
+Linas Kleiza,101132,Jump Shot,2,3,1,Jump Bank Shot,JUMP_SHOTS,,2012
+Linas Kleiza,101132,Jump Shot,3,2,0,Jump Bank Shot,JUMP_SHOTS,,2012
+Linas Kleiza,101132,Hook Shot,2,11,6,Jump Hook Shot,POST_MOVES,,2012
+Linas Kleiza,101132,Jump Shot,2,91,32,Jump Shot,JUMP_SHOTS,,2012
+Linas Kleiza,101132,Jump Shot,3,170,59,Jump Shot,JUMP_SHOTS,,2012
+Linas Kleiza,101132,Standard Layup,2,23,12,Layup Shot,LAYUPS,,2012
+Linas Kleiza,101132,Pullup Jump Shot,2,3,1,Pullup Jump shot,JUMP_SHOTS,,2012
+Linas Kleiza,101132,Pullup Jump Shot,3,3,1,Pullup Jump shot,JUMP_SHOTS,,2012
+Linas Kleiza,101132,Putback Layup,2,4,3,Putback Layup Shot,LAYUPS,,2012
+Linas Kleiza,101132,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2012
+Linas Kleiza,101132,Running Hook Shot,2,1,1,Running Bank Hook Shot,POST_MOVES,,2012
+Linas Kleiza,101132,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2012
+Linas Kleiza,101132,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2012
+Linas Kleiza,101132,Running Jump Shot,2,7,3,Running Jump Shot,JUMP_SHOTS,,2012
+Linas Kleiza,101132,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2012
+Linas Kleiza,101132,Standard Layup,2,6,4,Running Layup Shot,LAYUPS,,2012
+Linas Kleiza,101132,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2012
+Linas Kleiza,101132,Step Back Jump Shot,2,5,2,Step Back Jump shot,JUMP_SHOTS,,2012
+Linas Kleiza,101132,Step Back Jump Shot,3,3,2,Step Back Jump shot,JUMP_SHOTS,,2012
+Linas Kleiza,101132,Tip Shot,2,7,1,Tip Shot,TIP_SHOTS,,2012
+Linas Kleiza,101132,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2012
+Linas Kleiza,101132,Turnaround Jump Shot,2,4,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2012
+Linas Kleiza,101132,Turnaround Hook Shot,2,4,1,Turnaround Hook Shot,POST_MOVES,,2012
+Linas Kleiza,101132,Turnaround Jump Shot,2,3,0,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Linas Kleiza,101132,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2013
+Linas Kleiza,101132,Driving Dunk,2,2,1,Driving Dunk Shot,DUNKS,,2013
+Linas Kleiza,101132,Driving Hook Shot,2,5,2,Driving Hook Shot,POST_MOVES,,2013
+Linas Kleiza,101132,Driving Layup,2,3,1,Driving Layup Shot,LAYUPS,,2013
+Linas Kleiza,101132,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2013
+Linas Kleiza,101132,Fadeaway Jump Shot,2,3,2,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Linas Kleiza,101132,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2013
+Linas Kleiza,101132,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2013
+Linas Kleiza,101132,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2013
+Linas Kleiza,101132,Jump Shot,3,1,0,Jump Bank Shot,JUMP_SHOTS,,2013
+Linas Kleiza,101132,Hook Shot,2,2,2,Jump Hook Shot,POST_MOVES,,2013
+Linas Kleiza,101132,Jump Shot,2,30,4,Jump Shot,JUMP_SHOTS,,2013
+Linas Kleiza,101132,Jump Shot,3,65,20,Jump Shot,JUMP_SHOTS,,2013
+Linas Kleiza,101132,Standard Layup,2,6,3,Layup Shot,LAYUPS,,2013
+Linas Kleiza,101132,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2013
+Linas Kleiza,101132,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2013
+Linas Kleiza,101132,Reverse Layup,2,4,3,Reverse Layup Shot,LAYUPS,,2013
+Linas Kleiza,101132,Reverse Layup,2,3,2,Running Reverse Layup Shot,LAYUPS,,2013
+Linas Kleiza,101132,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2013
+Linas Kleiza,101132,Step Back Jump Shot,2,3,1,Step Back Jump shot,JUMP_SHOTS,,2013
+Linas Kleiza,101132,Turnaround Jump Shot,2,4,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2013
+Linas Kleiza,101132,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2013
+Linas Kleiza,101132,Turnaround Jump Shot,2,4,0,Turnaround Jump Shot,JUMP_SHOTS,,2013

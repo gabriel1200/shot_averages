@@ -1,55 +1,74 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1110,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,1997
-1110,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,1997
-1110,Jump Shot,2PT Field Goal,4,1,Jump Shot,JUMP_SHOTS,0.25,1997
-1110,Standard Layup,2PT Field Goal,14,4,Layup Shot,LAYUPS,0.2857142857142857,1997
-1110,Standard Dunk,2PT Field Goal,2,2,Slam Dunk Shot,DUNKS,1.0,1997
-1110,Tip Shot,2PT Field Goal,2,1,Tip Shot,TIP_SHOTS,0.5,1997
-1110,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,1998
-1110,Standard Dunk,2PT Field Goal,4,4,Dunk Shot,DUNKS,1.0,1998
-1110,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,1998
-1110,Jump Shot,2PT Field Goal,16,5,Jump Shot,JUMP_SHOTS,0.3125,1998
-1110,Standard Layup,2PT Field Goal,6,4,Layup Shot,LAYUPS,0.6666666666666666,1998
-1110,Standard Dunk,2PT Field Goal,5,5,Slam Dunk Shot,DUNKS,1.0,1998
-1110,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,1998
-1110,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,1999
-1110,Standard Dunk,2PT Field Goal,3,2,Dunk Shot,DUNKS,0.6666666666666666,1999
-1110,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,1999
-1110,Jump Shot,2PT Field Goal,6,2,Jump Shot,JUMP_SHOTS,0.3333333333333333,1999
-1110,Standard Layup,2PT Field Goal,5,3,Layup Shot,LAYUPS,0.6,1999
-1110,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,1999
-1110,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,1999
-1110,Driving Layup,2PT Field Goal,2,0,Driving Layup Shot,LAYUPS,0.0,2000
-1110,Standard Dunk,2PT Field Goal,12,12,Dunk Shot,DUNKS,1.0,2000
-1110,Hook Shot,2PT Field Goal,3,1,Hook Shot,POST_MOVES,0.3333333333333333,2000
-1110,Jump Shot,2PT Field Goal,31,11,Jump Shot,JUMP_SHOTS,0.3548387096774194,2000
-1110,Standard Layup,2PT Field Goal,12,6,Layup Shot,LAYUPS,0.5,2000
-1110,Standard Dunk,2PT Field Goal,4,4,Slam Dunk Shot,DUNKS,1.0,2000
-1110,Tip Shot,2PT Field Goal,3,0,Tip Shot,TIP_SHOTS,0.0,2000
-1110,Finger Roll,2PT Field Goal,1,0,Driving Finger Roll Shot,LAYUPS,0.0,2001
-1110,Driving Layup,2PT Field Goal,3,2,Driving Layup Shot,LAYUPS,0.6666666666666666,2001
-1110,Standard Dunk,2PT Field Goal,5,4,Dunk Shot,DUNKS,0.8,2001
-1110,Finger Roll,2PT Field Goal,1,0,Finger Roll Shot,LAYUPS,0.0,2001
-1110,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2001
-1110,Jump Shot,2PT Field Goal,61,19,Jump Shot,JUMP_SHOTS,0.3114754098360656,2001
-1110,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,2001
-1110,Standard Layup,2PT Field Goal,22,10,Layup Shot,LAYUPS,0.4545454545454545,2001
-1110,Reverse Layup,2PT Field Goal,3,0,Reverse Layup Shot,LAYUPS,0.0,2001
-1110,Standard Dunk,2PT Field Goal,8,8,Slam Dunk Shot,DUNKS,1.0,2001
-1110,Tip Shot,2PT Field Goal,5,3,Tip Shot,TIP_SHOTS,0.6,2001
-1110,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2001
-1110,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2002
-1110,Standard Dunk,2PT Field Goal,6,6,Dunk Shot,DUNKS,1.0,2002
-1110,Finger Roll,2PT Field Goal,2,0,Finger Roll Shot,LAYUPS,0.0,2002
-1110,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,2002
-1110,Jump Shot,2PT Field Goal,55,20,Jump Shot,JUMP_SHOTS,0.3636363636363636,2002
-1110,Jump Shot,3PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.5,2002
-1110,Standard Layup,2PT Field Goal,15,9,Layup Shot,LAYUPS,0.6,2002
-1110,Reverse Layup,2PT Field Goal,2,2,Reverse Layup Shot,LAYUPS,1.0,2002
-1110,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2002
-1110,Standard Dunk,2PT Field Goal,5,5,Slam Dunk Shot,DUNKS,1.0,2002
-1110,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2002
-1110,Turnaround Jump Shot,2PT Field Goal,7,2,Turnaround Jump Shot,JUMP_SHOTS,0.2857142857142857,2002
-1110,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2003
-1110,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2003
-1110,Standard Layup,2PT Field Goal,3,1,Layup Shot,LAYUPS,0.3333333333333333,2003
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Mark Strickland,1110,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,1997
+Mark Strickland,1110,Standard Dunk,2,6,5,Dunk Shot,DUNKS,,1997
+Mark Strickland,1110,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,1997
+Mark Strickland,1110,Jump Shot,2,14,3,Jump Shot,JUMP_SHOTS,,1997
+Mark Strickland,1110,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,1997
+Mark Strickland,1110,Standard Layup,2,28,10,Layup Shot,LAYUPS,,1997
+Mark Strickland,1110,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,1997
+Mark Strickland,1110,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,1997
+Mark Strickland,1110,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,,1997
+Mark Strickland,1110,Driving Layup,2,6,6,Driving Layup Shot,LAYUPS,,1998
+Mark Strickland,1110,Standard Dunk,2,59,57,Dunk Shot,DUNKS,,1998
+Mark Strickland,1110,Hook Shot,2,14,7,Hook Shot,POST_MOVES,,1998
+Mark Strickland,1110,Jump Shot,2,103,26,Jump Shot,JUMP_SHOTS,,1998
+Mark Strickland,1110,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,1998
+Mark Strickland,1110,Standard Layup,2,66,34,Layup Shot,LAYUPS,,1998
+Mark Strickland,1110,Standard Dunk,2,11,10,Slam Dunk Shot,DUNKS,,1998
+Mark Strickland,1110,Tip Shot,2,8,4,Tip Shot,TIP_SHOTS,,1998
+Mark Strickland,1110,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,1999
+Mark Strickland,1110,Driving Layup,2,6,3,Driving Layup Shot,LAYUPS,,1999
+Mark Strickland,1110,Standard Dunk,2,23,20,Dunk Shot,DUNKS,,1999
+Mark Strickland,1110,Hook Shot,2,6,2,Hook Shot,POST_MOVES,,1999
+Mark Strickland,1110,Jump Shot,2,30,6,Jump Shot,JUMP_SHOTS,,1999
+Mark Strickland,1110,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,1999
+Mark Strickland,1110,Standard Layup,2,25,15,Layup Shot,LAYUPS,,1999
+Mark Strickland,1110,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,1999
+Mark Strickland,1110,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,1999
+Mark Strickland,1110,Tip Shot,2,6,1,Tip Shot,TIP_SHOTS,,1999
+Mark Strickland,1110,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2000
+Mark Strickland,1110,Driving Layup,2,10,6,Driving Layup Shot,LAYUPS,,2000
+Mark Strickland,1110,Standard Dunk,2,45,41,Dunk Shot,DUNKS,,2000
+Mark Strickland,1110,Hook Shot,2,9,4,Hook Shot,POST_MOVES,,2000
+Mark Strickland,1110,Jump Shot,2,102,35,Jump Shot,JUMP_SHOTS,,2000
+Mark Strickland,1110,Standard Layup,2,42,27,Layup Shot,LAYUPS,,2000
+Mark Strickland,1110,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2000
+Mark Strickland,1110,Standard Dunk,2,7,7,Slam Dunk Shot,DUNKS,,2000
+Mark Strickland,1110,Tip Shot,2,7,0,Tip Shot,TIP_SHOTS,,2000
+Mark Strickland,1110,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2001
+Mark Strickland,1110,Finger Roll,2,1,0,Driving Finger Roll Shot,LAYUPS,,2001
+Mark Strickland,1110,Driving Layup,2,5,4,Driving Layup Shot,LAYUPS,,2001
+Mark Strickland,1110,Standard Dunk,2,11,8,Dunk Shot,DUNKS,,2001
+Mark Strickland,1110,Finger Roll,2,2,0,Finger Roll Shot,LAYUPS,,2001
+Mark Strickland,1110,Hook Shot,2,3,1,Hook Shot,POST_MOVES,,2001
+Mark Strickland,1110,Jump Shot,2,138,48,Jump Shot,JUMP_SHOTS,,2001
+Mark Strickland,1110,Jump Shot,3,2,1,Jump Shot,JUMP_SHOTS,,2001
+Mark Strickland,1110,Standard Layup,2,40,19,Layup Shot,LAYUPS,,2001
+Mark Strickland,1110,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2001
+Mark Strickland,1110,Reverse Layup,2,4,1,Reverse Layup Shot,LAYUPS,,2001
+Mark Strickland,1110,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2001
+Mark Strickland,1110,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2001
+Mark Strickland,1110,Tip Shot,2,1,0,Running Tip Shot,TIP_SHOTS,,2001
+Mark Strickland,1110,Standard Dunk,2,13,13,Slam Dunk Shot,DUNKS,,2001
+Mark Strickland,1110,Tip Shot,2,9,4,Tip Shot,TIP_SHOTS,,2001
+Mark Strickland,1110,Turnaround Jump Shot,2,4,0,Turnaround Jump Shot,JUMP_SHOTS,,2001
+Mark Strickland,1110,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2002
+Mark Strickland,1110,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2002
+Mark Strickland,1110,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2002
+Mark Strickland,1110,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2002
+Mark Strickland,1110,Standard Dunk,2,17,14,Dunk Shot,DUNKS,,2002
+Mark Strickland,1110,Finger Roll,2,2,0,Finger Roll Shot,LAYUPS,,2002
+Mark Strickland,1110,Hook Shot,2,4,3,Hook Shot,POST_MOVES,,2002
+Mark Strickland,1110,Jump Shot,2,104,32,Jump Shot,JUMP_SHOTS,,2002
+Mark Strickland,1110,Jump Shot,3,4,1,Jump Shot,JUMP_SHOTS,,2002
+Mark Strickland,1110,Standard Layup,2,36,17,Layup Shot,LAYUPS,,2002
+Mark Strickland,1110,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2002
+Mark Strickland,1110,Reverse Layup,2,6,4,Reverse Layup Shot,LAYUPS,,2002
+Mark Strickland,1110,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2002
+Mark Strickland,1110,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2002
+Mark Strickland,1110,Standard Dunk,2,10,10,Slam Dunk Shot,DUNKS,,2002
+Mark Strickland,1110,Tip Shot,2,4,0,Tip Shot,TIP_SHOTS,,2002
+Mark Strickland,1110,Turnaround Jump Shot,2,9,4,Turnaround Jump Shot,JUMP_SHOTS,,2002
+Mark Strickland,1110,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2003
+Mark Strickland,1110,Jump Shot,2,1,0,Jump Shot,JUMP_SHOTS,,2003
+Mark Strickland,1110,Standard Layup,2,3,1,Layup Shot,LAYUPS,,2003

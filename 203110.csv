@@ -1,28 +1,395 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-203110,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2017
-203110,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2017
-203110,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2017
-203110,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2017
-203110,Standard Layup,2PT Field Goal,2,1,Cutting Layup Shot,LAYUPS,0.5,2024
-203110,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2024
-203110,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.0,2024
-203110,Floating Jump Shot,2PT Field Goal,2,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2024
-203110,Driving Layup,2PT Field Goal,7,4,Driving Layup Shot,LAYUPS,0.5714285714285714,2024
-203110,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2024
-203110,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2024
-203110,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2024
-203110,Jump Shot,3PT Field Goal,24,11,Jump Shot,JUMP_SHOTS,0.6875,2024
-203110,Standard Layup,2PT Field Goal,3,3,Layup Shot,LAYUPS,1.0,2024
-203110,Standard Layup,2PT Field Goal,4,3,Running Layup Shot,LAYUPS,0.75,2024
-203110,Putback Layup,2PT Field Goal,4,3,Tip Layup Shot,LAYUPS,0.75,2024
-203110,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2024
-203110,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2024
-203110,Standard Layup,2PT Field Goal,6,2,Cutting Layup Shot,LAYUPS,0.3333333333333333,2025
-203110,Floating Jump Shot,2PT Field Goal,2,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2025
-203110,Driving Layup,2PT Field Goal,2,0,Driving Layup Shot,LAYUPS,0.0,2025
-203110,Floating Jump Shot,2PT Field Goal,2,1,Floating Jump shot,FLOATING_SHOTS,0.5,2025
-203110,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2025
-203110,Jump Shot,3PT Field Goal,16,4,Jump Shot,JUMP_SHOTS,0.375,2025
-203110,Standard Layup,2PT Field Goal,2,2,Layup Shot,LAYUPS,1.0,2025
-203110,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2025
-203110,Putback Layup,2PT Field Goal,3,0,Tip Layup Shot,LAYUPS,0.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Draymond Green,203110,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2013
+Draymond Green,203110,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2013
+Draymond Green,203110,Driving Layup,2,12,7,Driving Layup Shot,LAYUPS,,2013
+Draymond Green,203110,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2013
+Draymond Green,203110,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2013
+Draymond Green,203110,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Draymond Green,203110,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2013
+Draymond Green,203110,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2013
+Draymond Green,203110,Hook Shot,2,3,0,Jump Hook Shot,POST_MOVES,,2013
+Draymond Green,203110,Jump Shot,2,143,25,Jump Shot,JUMP_SHOTS,,2013
+Draymond Green,203110,Standard Layup,2,34,16,Layup Shot,LAYUPS,,2013
+Draymond Green,203110,Pullup Jump Shot,2,16,9,Pullup Jump shot,JUMP_SHOTS,,2013
+Draymond Green,203110,Putback Layup,2,3,3,Putback Layup Shot,LAYUPS,,2013
+Draymond Green,203110,Reverse Layup,2,4,4,Reverse Layup Shot,LAYUPS,,2013
+Draymond Green,203110,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2013
+Draymond Green,203110,Running Jump Shot,2,4,0,Running Jump Shot,JUMP_SHOTS,,2013
+Draymond Green,203110,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2013
+Draymond Green,203110,Step Back Jump Shot,2,3,2,Step Back Jump shot,JUMP_SHOTS,,2013
+Draymond Green,203110,Tip Shot,2,13,5,Tip Shot,TIP_SHOTS,,2013
+Draymond Green,203110,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2013
+Draymond Green,203110,Turnaround Hook Shot,2,4,1,Turnaround Hook Shot,POST_MOVES,,2013
+Draymond Green,203110,Turnaround Jump Shot,2,5,3,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Draymond Green,203110,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2014
+Draymond Green,203110,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2014
+Draymond Green,203110,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2014
+Draymond Green,203110,Finger Roll,2,7,6,Driving Finger Roll Layup Shot,LAYUPS,,2014
+Draymond Green,203110,Driving Jump Shot,2,3,0,Driving Jump shot,JUMP_SHOTS,,2014
+Draymond Green,203110,Driving Layup,2,29,19,Driving Layup Shot,LAYUPS,,2014
+Draymond Green,203110,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2014
+Draymond Green,203110,Driving Dunk,2,8,7,Driving Slam Dunk Shot,DUNKS,,2014
+Draymond Green,203110,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2014
+Draymond Green,203110,Fadeaway Jump Shot,2,5,0,Fadeaway Jump Shot,JUMP_SHOTS,,2014
+Draymond Green,203110,Floating Jump Shot,2,8,1,Floating Jump shot,FLOATING_SHOTS,,2014
+Draymond Green,203110,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2014
+Draymond Green,203110,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2014
+Draymond Green,203110,Hook Shot,2,2,0,Jump Hook Shot,POST_MOVES,,2014
+Draymond Green,203110,Jump Shot,2,181,39,Jump Shot,JUMP_SHOTS,,2014
+Draymond Green,203110,Standard Layup,2,44,16,Layup Shot,LAYUPS,,2014
+Draymond Green,203110,Pullup Jump Shot,2,74,39,Pullup Jump shot,JUMP_SHOTS,,2014
+Draymond Green,203110,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2014
+Draymond Green,203110,Putback Layup,2,5,4,Putback Layup Shot,LAYUPS,,2014
+Draymond Green,203110,Putback Dunk,2,1,1,Putback Slam Dunk Shot,DUNKS,,2014
+Draymond Green,203110,Reverse Layup,2,5,3,Reverse Layup Shot,LAYUPS,,2014
+Draymond Green,203110,Running Jump Shot,2,2,2,Running Bank shot,JUMP_SHOTS,,2014
+Draymond Green,203110,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2014
+Draymond Green,203110,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2014
+Draymond Green,203110,Running Jump Shot,2,7,3,Running Jump Shot,JUMP_SHOTS,,2014
+Draymond Green,203110,Standard Dunk,2,8,8,Slam Dunk Shot,DUNKS,,2014
+Draymond Green,203110,Step Back Jump Shot,2,12,7,Step Back Jump shot,JUMP_SHOTS,,2014
+Draymond Green,203110,Tip Shot,2,29,14,Tip Shot,TIP_SHOTS,,2014
+Draymond Green,203110,Turnaround Jump Shot,2,1,0,Turnaround Bank shot,JUMP_SHOTS,,2014
+Draymond Green,203110,Turnaround Jump Shot,2,3,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2014
+Draymond Green,203110,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2014
+Draymond Green,203110,Turnaround Jump Shot,2,9,1,Turnaround Jump Shot,JUMP_SHOTS,,2014
+Draymond Green,203110,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2015
+Draymond Green,203110,Driving Jump Shot,2,2,1,Driving Bank shot,JUMP_SHOTS,,2015
+Draymond Green,203110,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2015
+Draymond Green,203110,Finger Roll,2,7,6,Driving Finger Roll Layup Shot,LAYUPS,,2015
+Draymond Green,203110,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2015
+Draymond Green,203110,Driving Jump Shot,2,5,2,Driving Jump shot,JUMP_SHOTS,,2015
+Draymond Green,203110,Driving Layup,2,62,49,Driving Layup Shot,LAYUPS,,2015
+Draymond Green,203110,Driving Layup,2,5,4,Driving Reverse Layup Shot,LAYUPS,,2015
+Draymond Green,203110,Driving Dunk,2,19,18,Driving Slam Dunk Shot,DUNKS,,2015
+Draymond Green,203110,Standard Dunk,2,8,7,Dunk Shot,DUNKS,,2015
+Draymond Green,203110,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2015
+Draymond Green,203110,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+Draymond Green,203110,Floating Jump Shot,2,17,5,Floating Jump shot,FLOATING_SHOTS,,2015
+Draymond Green,203110,Jump Shot,2,7,3,Jump Bank Shot,JUMP_SHOTS,,2015
+Draymond Green,203110,Hook Shot,2,3,2,Jump Hook Shot,POST_MOVES,,2015
+Draymond Green,203110,Jump Shot,2,316,88,Jump Shot,JUMP_SHOTS,,2015
+Draymond Green,203110,Standard Layup,2,91,53,Layup Shot,LAYUPS,,2015
+Draymond Green,203110,Pullup Jump Shot,2,2,1,Pullup Bank shot,JUMP_SHOTS,,2015
+Draymond Green,203110,Pullup Jump Shot,2,112,45,Pullup Jump shot,JUMP_SHOTS,,2015
+Draymond Green,203110,Putback Layup,2,7,6,Putback Layup Shot,LAYUPS,,2015
+Draymond Green,203110,Reverse Layup,2,4,2,Reverse Layup Shot,LAYUPS,,2015
+Draymond Green,203110,Running Hook Shot,2,1,1,Running Bank Hook Shot,POST_MOVES,,2015
+Draymond Green,203110,Running Jump Shot,2,4,3,Running Bank shot,JUMP_SHOTS,,2015
+Draymond Green,203110,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2015
+Draymond Green,203110,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2015
+Draymond Green,203110,Running Jump Shot,2,16,3,Running Jump Shot,JUMP_SHOTS,,2015
+Draymond Green,203110,Standard Layup,2,9,7,Running Layup Shot,LAYUPS,,2015
+Draymond Green,203110,Standard Dunk,2,7,6,Slam Dunk Shot,DUNKS,,2015
+Draymond Green,203110,Step Back Jump Shot,2,10,3,Step Back Jump shot,JUMP_SHOTS,,2015
+Draymond Green,203110,Tip Shot,2,32,12,Tip Shot,TIP_SHOTS,,2015
+Draymond Green,203110,Turnaround Jump Shot,2,1,0,Turnaround Bank shot,JUMP_SHOTS,,2015
+Draymond Green,203110,Turnaround Jump Shot,2,3,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2015
+Draymond Green,203110,Turnaround Jump Shot,2,4,3,Turnaround Jump Shot,JUMP_SHOTS,,2015
+Draymond Green,203110,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2016
+Draymond Green,203110,Alley Oop Layup,2,3,1,Alley Oop Layup shot,LAYUPS,,2016
+Draymond Green,203110,Specialty Dunk,2,10,10,Cutting Dunk Shot,DUNKS,,2016
+Draymond Green,203110,Finger Roll,2,2,1,Cutting Finger Roll Layup Shot,LAYUPS,,2016
+Draymond Green,203110,Standard Layup,2,19,17,Cutting Layup Shot,LAYUPS,,2016
+Draymond Green,203110,Driving Jump Shot,2,7,6,Driving Bank shot,JUMP_SHOTS,,2016
+Draymond Green,203110,Driving Dunk,2,14,12,Driving Dunk Shot,DUNKS,,2016
+Draymond Green,203110,Finger Roll,2,11,9,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Draymond Green,203110,Floating Jump Shot,2,2,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2016
+Draymond Green,203110,Floating Jump Shot,2,7,4,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Draymond Green,203110,Driving Hook Shot,2,2,2,Driving Hook Shot,POST_MOVES,,2016
+Draymond Green,203110,Driving Jump Shot,2,2,2,Driving Jump shot,JUMP_SHOTS,,2016
+Draymond Green,203110,Driving Layup,2,82,55,Driving Layup Shot,LAYUPS,,2016
+Draymond Green,203110,Driving Layup,2,8,5,Driving Reverse Layup Shot,LAYUPS,,2016
+Draymond Green,203110,Standard Dunk,2,16,15,Dunk Shot,DUNKS,,2016
+Draymond Green,203110,Fadeaway Jump Shot,2,2,2,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Draymond Green,203110,Finger Roll,2,2,1,Finger Roll Layup Shot,LAYUPS,,2016
+Draymond Green,203110,Floating Jump Shot,2,21,7,Floating Jump shot,FLOATING_SHOTS,,2016
+Draymond Green,203110,Hook Shot,2,3,1,Hook Shot,POST_MOVES,,2016
+Draymond Green,203110,Jump Shot,2,10,5,Jump Bank Shot,JUMP_SHOTS,,2016
+Draymond Green,203110,Jump Shot,2,258,71,Jump Shot,JUMP_SHOTS,,2016
+Draymond Green,203110,Jump Shot,3,3,1,Jump Shot,JUMP_SHOTS,,2016
+Draymond Green,203110,Standard Layup,2,121,57,Layup Shot,LAYUPS,,2016
+Draymond Green,203110,No Shot,2,2,1,No Shot,NO_SHOT,,2016
+Draymond Green,203110,Pullup Jump Shot,2,64,35,Pullup Jump shot,JUMP_SHOTS,,2016
+Draymond Green,203110,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2016
+Draymond Green,203110,Putback Layup,2,8,6,Putback Layup Shot,LAYUPS,,2016
+Draymond Green,203110,Reverse Layup,2,11,8,Reverse Layup Shot,LAYUPS,,2016
+Draymond Green,203110,Standard Dunk,2,8,8,Running Dunk Shot,DUNKS,,2016
+Draymond Green,203110,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2016
+Draymond Green,203110,Running Jump Shot,2,16,3,Running Jump Shot,JUMP_SHOTS,,2016
+Draymond Green,203110,Standard Layup,2,21,15,Running Layup Shot,LAYUPS,,2016
+Draymond Green,203110,Reverse Layup,2,4,2,Running Reverse Layup Shot,LAYUPS,,2016
+Draymond Green,203110,Step Back Jump Shot,2,9,5,Step Back Jump shot,JUMP_SHOTS,,2016
+Draymond Green,203110,Putback Layup,2,54,22,Tip Layup Shot,LAYUPS,,2016
+Draymond Green,203110,Turnaround Jump Shot,2,2,1,Turnaround Bank shot,JUMP_SHOTS,,2016
+Draymond Green,203110,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2016
+Draymond Green,203110,Turnaround Jump Shot,2,11,5,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Draymond Green,203110,Alley Oop Layup,2,3,3,Alley Oop Layup shot,LAYUPS,,2017
+Draymond Green,203110,Specialty Dunk,2,25,24,Cutting Dunk Shot,DUNKS,,2017
+Draymond Green,203110,Standard Layup,2,19,16,Cutting Layup Shot,LAYUPS,,2017
+Draymond Green,203110,Driving Hook Shot,2,1,0,Driving Bank Hook Shot,POST_MOVES,,2017
+Draymond Green,203110,Driving Jump Shot,2,5,3,Driving Bank shot,JUMP_SHOTS,,2017
+Draymond Green,203110,Driving Dunk,2,20,15,Driving Dunk Shot,DUNKS,,2017
+Draymond Green,203110,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Draymond Green,203110,Floating Jump Shot,2,13,5,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Draymond Green,203110,Driving Hook Shot,2,4,1,Driving Hook Shot,POST_MOVES,,2017
+Draymond Green,203110,Driving Layup,2,39,19,Driving Layup Shot,LAYUPS,,2017
+Draymond Green,203110,Standard Dunk,2,8,8,Dunk Shot,DUNKS,,2017
+Draymond Green,203110,Fadeaway Jump Shot,2,1,0,Fadeaway Bank shot,JUMP_SHOTS,,2017
+Draymond Green,203110,Fadeaway Jump Shot,2,3,0,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Draymond Green,203110,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2017
+Draymond Green,203110,Floating Jump Shot,2,19,4,Floating Jump shot,FLOATING_SHOTS,,2017
+Draymond Green,203110,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2017
+Draymond Green,203110,Jump Shot,2,4,2,Jump Bank Shot,JUMP_SHOTS,,2017
+Draymond Green,203110,Jump Shot,2,263,60,Jump Shot,JUMP_SHOTS,,2017
+Draymond Green,203110,Jump Shot,3,5,1,Jump Shot,JUMP_SHOTS,,2017
+Draymond Green,203110,Standard Layup,2,65,25,Layup Shot,LAYUPS,,2017
+Draymond Green,203110,Pullup Jump Shot,2,51,25,Pullup Jump shot,JUMP_SHOTS,,2017
+Draymond Green,203110,Pullup Jump Shot,3,2,1,Pullup Jump shot,JUMP_SHOTS,,2017
+Draymond Green,203110,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2017
+Draymond Green,203110,Putback Layup,2,8,7,Putback Layup Shot,LAYUPS,,2017
+Draymond Green,203110,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2017
+Draymond Green,203110,Standard Dunk,2,17,17,Running Dunk Shot,DUNKS,,2017
+Draymond Green,203110,Finger Roll,2,3,1,Running Finger Roll Layup Shot,LAYUPS,,2017
+Draymond Green,203110,Running Jump Shot,2,4,1,Running Jump Shot,JUMP_SHOTS,,2017
+Draymond Green,203110,Standard Layup,2,20,15,Running Layup Shot,LAYUPS,,2017
+Draymond Green,203110,Step Back Jump Shot,2,2,0,Step Back Jump shot,JUMP_SHOTS,,2017
+Draymond Green,203110,Putback Layup,2,27,7,Tip Layup Shot,LAYUPS,,2017
+Draymond Green,203110,Turnaround Jump Shot,2,2,0,Turnaround Bank shot,JUMP_SHOTS,,2017
+Draymond Green,203110,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2017
+Draymond Green,203110,Turnaround Jump Shot,2,4,2,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Draymond Green,203110,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2018
+Draymond Green,203110,Specialty Dunk,2,14,13,Cutting Dunk Shot,DUNKS,,2018
+Draymond Green,203110,Finger Roll,2,3,3,Cutting Finger Roll Layup Shot,LAYUPS,,2018
+Draymond Green,203110,Standard Layup,2,35,32,Cutting Layup Shot,LAYUPS,,2018
+Draymond Green,203110,Driving Dunk,2,9,9,Driving Dunk Shot,DUNKS,,2018
+Draymond Green,203110,Finger Roll,2,10,6,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Draymond Green,203110,Floating Jump Shot,2,4,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Draymond Green,203110,Floating Jump Shot,2,8,5,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Draymond Green,203110,Driving Hook Shot,2,4,1,Driving Hook Shot,POST_MOVES,,2018
+Draymond Green,203110,Driving Layup,2,28,15,Driving Layup Shot,LAYUPS,,2018
+Draymond Green,203110,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2018
+Draymond Green,203110,Standard Dunk,2,14,9,Dunk Shot,DUNKS,,2018
+Draymond Green,203110,Fadeaway Jump Shot,2,3,2,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+Draymond Green,203110,Floating Jump Shot,2,30,10,Floating Jump shot,FLOATING_SHOTS,,2018
+Draymond Green,203110,Hook Shot,2,6,2,Hook Shot,POST_MOVES,,2018
+Draymond Green,203110,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2018
+Draymond Green,203110,Jump Shot,2,250,59,Jump Shot,JUMP_SHOTS,,2018
+Draymond Green,203110,Standard Layup,2,65,36,Layup Shot,LAYUPS,,2018
+Draymond Green,203110,Pullup Jump Shot,2,42,23,Pullup Jump shot,JUMP_SHOTS,,2018
+Draymond Green,203110,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2018
+Draymond Green,203110,Putback Layup,2,4,2,Putback Layup Shot,LAYUPS,,2018
+Draymond Green,203110,Reverse Layup,2,9,8,Reverse Layup Shot,LAYUPS,,2018
+Draymond Green,203110,Standard Dunk,2,7,7,Running Dunk Shot,DUNKS,,2018
+Draymond Green,203110,Finger Roll,2,2,1,Running Finger Roll Layup Shot,LAYUPS,,2018
+Draymond Green,203110,Running Jump Shot,2,7,5,Running Jump Shot,JUMP_SHOTS,,2018
+Draymond Green,203110,Standard Layup,2,13,10,Running Layup Shot,LAYUPS,,2018
+Draymond Green,203110,Running Jump Shot,2,2,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2018
+Draymond Green,203110,Step Back Jump Shot,2,4,0,Step Back Jump shot,JUMP_SHOTS,,2018
+Draymond Green,203110,Putback Layup,2,27,9,Tip Layup Shot,LAYUPS,,2018
+Draymond Green,203110,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2018
+Draymond Green,203110,Turnaround Jump Shot,2,4,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2018
+Draymond Green,203110,Turnaround Hook Shot,2,3,2,Turnaround Hook Shot,POST_MOVES,,2018
+Draymond Green,203110,Turnaround Jump Shot,2,6,4,Turnaround Jump Shot,JUMP_SHOTS,,2018
+Draymond Green,203110,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2019
+Draymond Green,203110,Specialty Dunk,2,10,9,Cutting Dunk Shot,DUNKS,,2019
+Draymond Green,203110,Finger Roll,2,3,2,Cutting Finger Roll Layup Shot,LAYUPS,,2019
+Draymond Green,203110,Standard Layup,2,22,14,Cutting Layup Shot,LAYUPS,,2019
+Draymond Green,203110,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2019
+Draymond Green,203110,Finger Roll,2,8,6,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Draymond Green,203110,Floating Jump Shot,2,2,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Draymond Green,203110,Floating Jump Shot,2,10,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Draymond Green,203110,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2019
+Draymond Green,203110,Driving Layup,2,25,13,Driving Layup Shot,LAYUPS,,2019
+Draymond Green,203110,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2019
+Draymond Green,203110,Standard Dunk,2,8,7,Dunk Shot,DUNKS,,2019
+Draymond Green,203110,Fadeaway Jump Shot,2,5,1,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+Draymond Green,203110,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2019
+Draymond Green,203110,Floating Jump Shot,2,11,5,Floating Jump shot,FLOATING_SHOTS,,2019
+Draymond Green,203110,Hook Shot,2,6,1,Hook Shot,POST_MOVES,,2019
+Draymond Green,203110,Jump Shot,2,3,1,Jump Bank Shot,JUMP_SHOTS,,2019
+Draymond Green,203110,Jump Shot,2,180,42,Jump Shot,JUMP_SHOTS,,2019
+Draymond Green,203110,Standard Layup,2,37,20,Layup Shot,LAYUPS,,2019
+Draymond Green,203110,Pullup Jump Shot,2,22,11,Pullup Jump shot,JUMP_SHOTS,,2019
+Draymond Green,203110,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2019
+Draymond Green,203110,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2019
+Draymond Green,203110,Standard Dunk,2,5,5,Running Dunk Shot,DUNKS,,2019
+Draymond Green,203110,Finger Roll,2,3,2,Running Finger Roll Layup Shot,LAYUPS,,2019
+Draymond Green,203110,Standard Layup,2,20,16,Running Layup Shot,LAYUPS,,2019
+Draymond Green,203110,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2019
+Draymond Green,203110,Reverse Layup,2,3,2,Running Reverse Layup Shot,LAYUPS,,2019
+Draymond Green,203110,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2019
+Draymond Green,203110,Putback Layup,2,15,8,Tip Layup Shot,LAYUPS,,2019
+Draymond Green,203110,Turnaround Jump Shot,2,2,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2019
+Draymond Green,203110,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2019
+Draymond Green,203110,Turnaround Jump Shot,2,5,4,Turnaround Jump Shot,JUMP_SHOTS,,2019
+Draymond Green,203110,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2020
+Draymond Green,203110,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2020
+Draymond Green,203110,Standard Layup,2,11,9,Cutting Layup Shot,LAYUPS,,2020
+Draymond Green,203110,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2020
+Draymond Green,203110,Finger Roll,2,7,4,Driving Finger Roll Layup Shot,LAYUPS,,2020
+Draymond Green,203110,Floating Jump Shot,2,3,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2020
+Draymond Green,203110,Floating Jump Shot,2,15,7,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Draymond Green,203110,Driving Hook Shot,2,4,0,Driving Hook Shot,POST_MOVES,,2020
+Draymond Green,203110,Driving Layup,2,27,13,Driving Layup Shot,LAYUPS,,2020
+Draymond Green,203110,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2020
+Draymond Green,203110,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2020
+Draymond Green,203110,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+Draymond Green,203110,Floating Jump Shot,2,5,3,Floating Jump shot,FLOATING_SHOTS,,2020
+Draymond Green,203110,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2020
+Draymond Green,203110,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2020
+Draymond Green,203110,Jump Shot,2,135,29,Jump Shot,JUMP_SHOTS,,2020
+Draymond Green,203110,Standard Layup,2,25,10,Layup Shot,LAYUPS,,2020
+Draymond Green,203110,Pullup Jump Shot,2,31,16,Pullup Jump shot,JUMP_SHOTS,,2020
+Draymond Green,203110,Reverse Layup,2,4,2,Reverse Layup Shot,LAYUPS,,2020
+Draymond Green,203110,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2020
+Draymond Green,203110,Standard Layup,2,5,4,Running Layup Shot,LAYUPS,,2020
+Draymond Green,203110,Running Jump Shot,2,3,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2020
+Draymond Green,203110,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2020
+Draymond Green,203110,Putback Layup,2,7,3,Tip Layup Shot,LAYUPS,,2020
+Draymond Green,203110,Turnaround Hook Shot,2,1,0,Turnaround Bank Hook Shot,POST_MOVES,,2020
+Draymond Green,203110,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2020
+Draymond Green,203110,Turnaround Hook Shot,2,7,4,Turnaround Hook Shot,POST_MOVES,,2020
+Draymond Green,203110,Turnaround Jump Shot,2,8,2,Turnaround Jump Shot,JUMP_SHOTS,,2020
+Draymond Green,203110,Specialty Dunk,2,8,8,Cutting Dunk Shot,DUNKS,,2021
+Draymond Green,203110,Finger Roll,2,4,4,Cutting Finger Roll Layup Shot,LAYUPS,,2021
+Draymond Green,203110,Standard Layup,2,22,16,Cutting Layup Shot,LAYUPS,,2021
+Draymond Green,203110,Driving Dunk,2,12,11,Driving Dunk Shot,DUNKS,,2021
+Draymond Green,203110,Finger Roll,2,18,11,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Draymond Green,203110,Floating Jump Shot,2,4,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2021
+Draymond Green,203110,Floating Jump Shot,2,15,4,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Draymond Green,203110,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2021
+Draymond Green,203110,Driving Layup,2,43,24,Driving Layup Shot,LAYUPS,,2021
+Draymond Green,203110,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2021
+Draymond Green,203110,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,2021
+Draymond Green,203110,Fadeaway Jump Shot,2,5,1,Fadeaway Jump Shot,JUMP_SHOTS,,2021
+Draymond Green,203110,Floating Jump Shot,2,10,3,Floating Jump shot,FLOATING_SHOTS,,2021
+Draymond Green,203110,Jump Shot,2,128,38,Jump Shot,JUMP_SHOTS,,2021
+Draymond Green,203110,Standard Layup,2,17,9,Layup Shot,LAYUPS,,2021
+Draymond Green,203110,Pullup Jump Shot,2,19,4,Pullup Jump shot,JUMP_SHOTS,,2021
+Draymond Green,203110,Putback Layup,2,4,3,Putback Layup Shot,LAYUPS,,2021
+Draymond Green,203110,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2021
+Draymond Green,203110,Standard Dunk,2,6,6,Running Dunk Shot,DUNKS,,2021
+Draymond Green,203110,Finger Roll,2,2,1,Running Finger Roll Layup Shot,LAYUPS,,2021
+Draymond Green,203110,Standard Layup,2,19,11,Running Layup Shot,LAYUPS,,2021
+Draymond Green,203110,Running Jump Shot,2,5,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2021
+Draymond Green,203110,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2021
+Draymond Green,203110,Step Back Jump Shot,2,2,0,Step Back Jump shot,JUMP_SHOTS,,2021
+Draymond Green,203110,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2021
+Draymond Green,203110,Putback Layup,2,19,6,Tip Layup Shot,LAYUPS,,2021
+Draymond Green,203110,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2021
+Draymond Green,203110,Turnaround Hook Shot,2,8,3,Turnaround Hook Shot,POST_MOVES,,2021
+Draymond Green,203110,Specialty Dunk,2,8,8,Cutting Dunk Shot,DUNKS,,2022
+Draymond Green,203110,Finger Roll,2,4,3,Cutting Finger Roll Layup Shot,LAYUPS,,2022
+Draymond Green,203110,Standard Layup,2,26,21,Cutting Layup Shot,LAYUPS,,2022
+Draymond Green,203110,Driving Dunk,2,5,4,Driving Dunk Shot,DUNKS,,2022
+Draymond Green,203110,Finger Roll,2,12,9,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Draymond Green,203110,Floating Jump Shot,2,3,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Draymond Green,203110,Floating Jump Shot,2,14,6,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Draymond Green,203110,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2022
+Draymond Green,203110,Driving Layup,2,29,14,Driving Layup Shot,LAYUPS,,2022
+Draymond Green,203110,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2022
+Draymond Green,203110,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2022
+Draymond Green,203110,Fadeaway Jump Shot,2,3,1,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Draymond Green,203110,Floating Jump Shot,2,7,2,Floating Jump shot,FLOATING_SHOTS,,2022
+Draymond Green,203110,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2022
+Draymond Green,203110,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2022
+Draymond Green,203110,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2022
+Draymond Green,203110,Jump Shot,2,62,20,Jump Shot,JUMP_SHOTS,,2022
+Draymond Green,203110,Standard Layup,2,28,15,Layup Shot,LAYUPS,,2022
+Draymond Green,203110,Pullup Jump Shot,2,4,0,Pullup Jump shot,JUMP_SHOTS,,2022
+Draymond Green,203110,Putback Layup,2,3,3,Putback Layup Shot,LAYUPS,,2022
+Draymond Green,203110,Standard Dunk,2,7,5,Running Dunk Shot,DUNKS,,2022
+Draymond Green,203110,Finger Roll,2,2,1,Running Finger Roll Layup Shot,LAYUPS,,2022
+Draymond Green,203110,Standard Layup,2,13,9,Running Layup Shot,LAYUPS,,2022
+Draymond Green,203110,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2022
+Draymond Green,203110,Putback Layup,2,9,3,Tip Layup Shot,LAYUPS,,2022
+Draymond Green,203110,Turnaround Hook Shot,2,3,0,Turnaround Hook Shot,POST_MOVES,,2022
+Draymond Green,203110,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2022
+Draymond Green,203110,Alley Oop Layup,2,3,1,Alley Oop Layup shot,LAYUPS,,2023
+Draymond Green,203110,Specialty Dunk,2,10,8,Cutting Dunk Shot,DUNKS,,2023
+Draymond Green,203110,Finger Roll,2,9,7,Cutting Finger Roll Layup Shot,LAYUPS,,2023
+Draymond Green,203110,Standard Layup,2,94,74,Cutting Layup Shot,LAYUPS,,2023
+Draymond Green,203110,Driving Dunk,2,8,7,Driving Dunk Shot,DUNKS,,2023
+Draymond Green,203110,Finger Roll,2,8,4,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Draymond Green,203110,Floating Jump Shot,2,4,3,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+Draymond Green,203110,Floating Jump Shot,2,10,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Draymond Green,203110,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2023
+Draymond Green,203110,Driving Layup,2,33,18,Driving Layup Shot,LAYUPS,,2023
+Draymond Green,203110,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2023
+Draymond Green,203110,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2023
+Draymond Green,203110,Floating Jump Shot,2,30,13,Floating Jump shot,FLOATING_SHOTS,,2023
+Draymond Green,203110,Hook Shot,2,4,0,Hook Shot,POST_MOVES,,2023
+Draymond Green,203110,Jump Shot,2,142,44,Jump Shot,JUMP_SHOTS,,2023
+Draymond Green,203110,Standard Layup,2,24,17,Layup Shot,LAYUPS,,2023
+Draymond Green,203110,Pullup Jump Shot,2,2,1,Pullup Jump shot,JUMP_SHOTS,,2023
+Draymond Green,203110,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2023
+Draymond Green,203110,Reverse Layup,2,5,2,Reverse Layup Shot,LAYUPS,,2023
+Draymond Green,203110,Standard Dunk,2,6,6,Running Dunk Shot,DUNKS,,2023
+Draymond Green,203110,Finger Roll,2,4,2,Running Finger Roll Layup Shot,LAYUPS,,2023
+Draymond Green,203110,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2023
+Draymond Green,203110,Standard Layup,2,41,25,Running Layup Shot,LAYUPS,,2023
+Draymond Green,203110,Reverse Layup,2,4,3,Running Reverse Layup Shot,LAYUPS,,2023
+Draymond Green,203110,Putback Layup,2,20,6,Tip Layup Shot,LAYUPS,,2023
+Draymond Green,203110,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2023
+Draymond Green,203110,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2023
+Draymond Green,203110,Turnaround Hook Shot,2,3,0,Turnaround Hook Shot,POST_MOVES,,2023
+Draymond Green,203110,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2023
+Draymond Green,203110,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2024
+Draymond Green,203110,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2024
+Draymond Green,203110,Finger Roll,2,3,3,Cutting Finger Roll Layup Shot,LAYUPS,,2024
+Draymond Green,203110,Standard Layup,2,40,26,Cutting Layup Shot,LAYUPS,,2024
+Draymond Green,203110,Driving Dunk,2,4,3,Driving Dunk Shot,DUNKS,,2024
+Draymond Green,203110,Finger Roll,2,7,5,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Draymond Green,203110,Floating Jump Shot,2,4,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Draymond Green,203110,Floating Jump Shot,2,12,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Draymond Green,203110,Driving Hook Shot,2,3,1,Driving Hook Shot,POST_MOVES,,2024
+Draymond Green,203110,Driving Layup,2,56,30,Driving Layup Shot,LAYUPS,,2024
+Draymond Green,203110,Driving Layup,2,4,4,Driving Reverse Layup Shot,LAYUPS,,2024
+Draymond Green,203110,Fadeaway Jump Shot,2,3,0,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Draymond Green,203110,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2024
+Draymond Green,203110,Floating Jump Shot,2,9,2,Floating Jump shot,FLOATING_SHOTS,,2024
+Draymond Green,203110,Hook Shot,2,3,2,Hook Shot,POST_MOVES,,2024
+Draymond Green,203110,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2024
+Draymond Green,203110,Jump Shot,2,9,3,Jump Shot,JUMP_SHOTS,,2024
+Draymond Green,203110,Jump Shot,3,127,50,Jump Shot,JUMP_SHOTS,,2024
+Draymond Green,203110,Standard Layup,2,27,19,Layup Shot,LAYUPS,,2024
+Draymond Green,203110,Pullup Jump Shot,3,1,1,Pullup Jump shot,JUMP_SHOTS,,2024
+Draymond Green,203110,Putback Layup,2,5,3,Putback Layup Shot,LAYUPS,,2024
+Draymond Green,203110,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2024
+Draymond Green,203110,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2024
+Draymond Green,203110,Finger Roll,2,2,1,Running Finger Roll Layup Shot,LAYUPS,,2024
+Draymond Green,203110,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2024
+Draymond Green,203110,Standard Layup,2,10,7,Running Layup Shot,LAYUPS,,2024
+Draymond Green,203110,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2024
+Draymond Green,203110,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2024
+Draymond Green,203110,Putback Layup,2,23,10,Tip Layup Shot,LAYUPS,,2024
+Draymond Green,203110,Turnaround Hook Shot,2,5,2,Turnaround Hook Shot,POST_MOVES,,2024
+Draymond Green,203110,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2024
+Draymond Green,203110,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2025
+Draymond Green,203110,Finger Roll,2,5,2,Cutting Finger Roll Layup Shot,LAYUPS,,2025
+Draymond Green,203110,Standard Layup,2,19,12,Cutting Layup Shot,LAYUPS,,2025
+Draymond Green,203110,Driving Dunk,2,4,3,Driving Dunk Shot,DUNKS,,2025
+Draymond Green,203110,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Draymond Green,203110,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2025
+Draymond Green,203110,Floating Jump Shot,2,6,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Draymond Green,203110,Driving Hook Shot,2,4,1,Driving Hook Shot,POST_MOVES,,2025
+Draymond Green,203110,Driving Layup,2,18,5,Driving Layup Shot,LAYUPS,,2025
+Draymond Green,203110,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2025
+Draymond Green,203110,Floating Jump Shot,2,7,1,Floating Jump shot,FLOATING_SHOTS,,2025
+Draymond Green,203110,Jump Shot,2,6,2,Jump Shot,JUMP_SHOTS,,2025
+Draymond Green,203110,Jump Shot,3,121,43,Jump Shot,JUMP_SHOTS,,2025
+Draymond Green,203110,Standard Layup,2,8,6,Layup Shot,LAYUPS,,2025
+Draymond Green,203110,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2025
+Draymond Green,203110,Pullup Jump Shot,3,2,1,Pullup Jump shot,JUMP_SHOTS,,2025
+Draymond Green,203110,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2025
+Draymond Green,203110,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2025
+Draymond Green,203110,Finger Roll,2,2,1,Running Finger Roll Layup Shot,LAYUPS,,2025
+Draymond Green,203110,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2025
+Draymond Green,203110,Running Jump Shot,3,2,2,Running Jump Shot,JUMP_SHOTS,,2025
+Draymond Green,203110,Standard Layup,2,11,8,Running Layup Shot,LAYUPS,,2025
+Draymond Green,203110,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2025
+Draymond Green,203110,Putback Layup,2,10,2,Tip Layup Shot,LAYUPS,,2025
+Draymond Green,203110,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2025
+Draymond Green,203110,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2025
+Draymond Green,203110,Turnaround Jump Shot,3,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2025

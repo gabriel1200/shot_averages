@@ -1,4 +1,9 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1630545,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2025
-1630545,Jump Shot,3PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.5,2025
-1630545,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Terrence Shannon Jr.,1630545,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Terrence Shannon Jr.,1630545,Floating Jump Shot,2,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Terrence Shannon Jr.,1630545,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2025
+Terrence Shannon Jr.,1630545,Driving Layup,2,2,0,Driving Layup Shot,LAYUPS,,2025
+Terrence Shannon Jr.,1630545,Jump Shot,3,3,1,Jump Shot,JUMP_SHOTS,,2025
+Terrence Shannon Jr.,1630545,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2025
+Terrence Shannon Jr.,1630545,Alley Oop Layup,2,1,1,Running Alley Oop Layup Shot,LAYUPS,,2025
+Terrence Shannon Jr.,1630545,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2025

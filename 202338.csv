@@ -1,11 +1,176 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-202338,Hook Shot,2PT Field Goal,4,3,Hook Shot,POST_MOVES,0.75,2012
-202338,Jump Shot,2PT Field Goal,9,3,Jump Shot,JUMP_SHOTS,0.3333333333333333,2012
-202338,Standard Layup,2PT Field Goal,5,2,Layup Shot,LAYUPS,0.4,2012
-202338,Putback Dunk,2PT Field Goal,1,1,Putback Dunk Shot,DUNKS,1.0,2012
-202338,Running Hook Shot,2PT Field Goal,1,1,Running Hook Shot,POST_MOVES,1.0,2012
-202338,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2013
-202338,Jump Shot,2PT Field Goal,5,1,Jump Shot,JUMP_SHOTS,0.2,2013
-202338,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2013
-202338,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2016
-202338,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2016
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Kevin Seraphin,202338,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2011
+Kevin Seraphin,202338,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2011
+Kevin Seraphin,202338,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2011
+Kevin Seraphin,202338,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2011
+Kevin Seraphin,202338,Standard Dunk,2,5,5,Dunk Shot,DUNKS,,2011
+Kevin Seraphin,202338,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Kevin Seraphin,202338,Hook Shot,2,18,13,Hook Shot,POST_MOVES,,2011
+Kevin Seraphin,202338,Hook Shot,2,7,5,Jump Hook Shot,POST_MOVES,,2011
+Kevin Seraphin,202338,Jump Shot,2,45,5,Jump Shot,JUMP_SHOTS,,2011
+Kevin Seraphin,202338,Standard Layup,2,37,11,Layup Shot,LAYUPS,,2011
+Kevin Seraphin,202338,Putback Dunk,2,4,4,Putback Dunk Shot,DUNKS,,2011
+Kevin Seraphin,202338,Putback Layup,2,6,6,Putback Layup Shot,LAYUPS,,2011
+Kevin Seraphin,202338,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2011
+Kevin Seraphin,202338,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2011
+Kevin Seraphin,202338,Running Hook Shot,2,3,2,Running Hook Shot,POST_MOVES,,2011
+Kevin Seraphin,202338,Standard Dunk,2,2,1,Slam Dunk Shot,DUNKS,,2011
+Kevin Seraphin,202338,Tip Shot,2,7,5,Tip Shot,TIP_SHOTS,,2011
+Kevin Seraphin,202338,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2011
+Kevin Seraphin,202338,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2011
+Kevin Seraphin,202338,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2011
+Kevin Seraphin,202338,Alley Oop Dunk,2,4,4,Alley Oop Dunk Shot,DUNKS,,2012
+Kevin Seraphin,202338,Alley Oop Layup,2,4,2,Alley Oop Layup shot,LAYUPS,,2012
+Kevin Seraphin,202338,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2012
+Kevin Seraphin,202338,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,2012
+Kevin Seraphin,202338,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2012
+Kevin Seraphin,202338,Standard Dunk,2,20,19,Dunk Shot,DUNKS,,2012
+Kevin Seraphin,202338,Fadeaway Jump Shot,2,3,3,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Kevin Seraphin,202338,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2012
+Kevin Seraphin,202338,Hook Shot,2,2,2,Hook Bank Shot,POST_MOVES,,2012
+Kevin Seraphin,202338,Hook Shot,2,51,32,Hook Shot,POST_MOVES,,2012
+Kevin Seraphin,202338,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2012
+Kevin Seraphin,202338,Hook Shot,2,21,16,Jump Hook Shot,POST_MOVES,,2012
+Kevin Seraphin,202338,Jump Shot,2,142,44,Jump Shot,JUMP_SHOTS,,2012
+Kevin Seraphin,202338,Standard Layup,2,61,25,Layup Shot,LAYUPS,,2012
+Kevin Seraphin,202338,Putback Dunk,2,7,7,Putback Dunk Shot,DUNKS,,2012
+Kevin Seraphin,202338,Putback Layup,2,7,7,Putback Layup Shot,LAYUPS,,2012
+Kevin Seraphin,202338,Putback Dunk,2,1,1,Putback Slam Dunk Shot,DUNKS,,2012
+Kevin Seraphin,202338,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2012
+Kevin Seraphin,202338,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2012
+Kevin Seraphin,202338,Reverse Dunk,2,1,1,Reverse Slam Dunk Shot,DUNKS,,2012
+Kevin Seraphin,202338,Running Hook Shot,2,2,2,Running Hook Shot,POST_MOVES,,2012
+Kevin Seraphin,202338,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2012
+Kevin Seraphin,202338,Standard Dunk,2,2,2,Running Slam Dunk Shot,DUNKS,,2012
+Kevin Seraphin,202338,Standard Dunk,2,11,11,Slam Dunk Shot,DUNKS,,2012
+Kevin Seraphin,202338,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2012
+Kevin Seraphin,202338,Tip Shot,2,8,4,Tip Shot,TIP_SHOTS,,2012
+Kevin Seraphin,202338,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2012
+Kevin Seraphin,202338,Turnaround Hook Shot,2,9,4,Turnaround Hook Shot,POST_MOVES,,2012
+Kevin Seraphin,202338,Turnaround Jump Shot,2,13,6,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Kevin Seraphin,202338,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2013
+Kevin Seraphin,202338,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2013
+Kevin Seraphin,202338,Driving Hook Shot,2,5,4,Driving Hook Shot,POST_MOVES,,2013
+Kevin Seraphin,202338,Driving Jump Shot,2,2,1,Driving Jump shot,JUMP_SHOTS,,2013
+Kevin Seraphin,202338,Driving Layup,2,2,1,Driving Layup Shot,LAYUPS,,2013
+Kevin Seraphin,202338,Driving Dunk,2,3,3,Driving Slam Dunk Shot,DUNKS,,2013
+Kevin Seraphin,202338,Standard Dunk,2,19,18,Dunk Shot,DUNKS,,2013
+Kevin Seraphin,202338,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Kevin Seraphin,202338,Floating Jump Shot,2,3,3,Floating Jump shot,FLOATING_SHOTS,,2013
+Kevin Seraphin,202338,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2013
+Kevin Seraphin,202338,Hook Shot,2,83,57,Hook Shot,POST_MOVES,,2013
+Kevin Seraphin,202338,Hook Shot,2,2,1,Jump Bank Hook Shot,POST_MOVES,,2013
+Kevin Seraphin,202338,Jump Shot,2,3,2,Jump Bank Shot,JUMP_SHOTS,,2013
+Kevin Seraphin,202338,Hook Shot,2,39,32,Jump Hook Shot,POST_MOVES,,2013
+Kevin Seraphin,202338,Jump Shot,2,373,98,Jump Shot,JUMP_SHOTS,,2013
+Kevin Seraphin,202338,Standard Layup,2,61,29,Layup Shot,LAYUPS,,2013
+Kevin Seraphin,202338,Pullup Jump Shot,2,3,3,Pullup Jump shot,JUMP_SHOTS,,2013
+Kevin Seraphin,202338,Putback Dunk,2,4,3,Putback Dunk Shot,DUNKS,,2013
+Kevin Seraphin,202338,Putback Layup,2,6,6,Putback Layup Shot,LAYUPS,,2013
+Kevin Seraphin,202338,Reverse Layup,2,5,3,Reverse Layup Shot,LAYUPS,,2013
+Kevin Seraphin,202338,Running Hook Shot,2,7,6,Running Hook Shot,POST_MOVES,,2013
+Kevin Seraphin,202338,Running Jump Shot,2,3,0,Running Jump Shot,JUMP_SHOTS,,2013
+Kevin Seraphin,202338,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2013
+Kevin Seraphin,202338,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2013
+Kevin Seraphin,202338,Standard Dunk,2,7,7,Slam Dunk Shot,DUNKS,,2013
+Kevin Seraphin,202338,Step Back Jump Shot,2,3,1,Step Back Jump shot,JUMP_SHOTS,,2013
+Kevin Seraphin,202338,Tip Shot,2,9,4,Tip Shot,TIP_SHOTS,,2013
+Kevin Seraphin,202338,Turnaround Jump Shot,2,2,2,Turnaround Bank shot,JUMP_SHOTS,,2013
+Kevin Seraphin,202338,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2013
+Kevin Seraphin,202338,Turnaround Hook Shot,2,33,23,Turnaround Hook Shot,POST_MOVES,,2013
+Kevin Seraphin,202338,Turnaround Jump Shot,2,31,16,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Kevin Seraphin,202338,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2014
+Kevin Seraphin,202338,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2014
+Kevin Seraphin,202338,Driving Hook Shot,2,4,3,Driving Hook Shot,POST_MOVES,,2014
+Kevin Seraphin,202338,Driving Jump Shot,2,1,1,Driving Jump shot,JUMP_SHOTS,,2014
+Kevin Seraphin,202338,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2014
+Kevin Seraphin,202338,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2014
+Kevin Seraphin,202338,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2014
+Kevin Seraphin,202338,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2014
+Kevin Seraphin,202338,Hook Shot,2,16,10,Hook Shot,POST_MOVES,,2014
+Kevin Seraphin,202338,Hook Shot,2,6,5,Jump Hook Shot,POST_MOVES,,2014
+Kevin Seraphin,202338,Jump Shot,2,94,23,Jump Shot,JUMP_SHOTS,,2014
+Kevin Seraphin,202338,Standard Layup,2,38,21,Layup Shot,LAYUPS,,2014
+Kevin Seraphin,202338,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2014
+Kevin Seraphin,202338,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2014
+Kevin Seraphin,202338,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2014
+Kevin Seraphin,202338,Running Hook Shot,2,5,4,Running Hook Shot,POST_MOVES,,2014
+Kevin Seraphin,202338,Running Jump Shot,2,4,2,Running Jump Shot,JUMP_SHOTS,,2014
+Kevin Seraphin,202338,Standard Dunk,2,7,7,Slam Dunk Shot,DUNKS,,2014
+Kevin Seraphin,202338,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2014
+Kevin Seraphin,202338,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,,2014
+Kevin Seraphin,202338,Turnaround Hook Shot,2,1,1,Turnaround Bank Hook Shot,POST_MOVES,,2014
+Kevin Seraphin,202338,Turnaround Jump Shot,2,6,5,Turnaround Fadeaway shot,JUMP_SHOTS,,2014
+Kevin Seraphin,202338,Turnaround Hook Shot,2,19,15,Turnaround Hook Shot,POST_MOVES,,2014
+Kevin Seraphin,202338,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2014
+Kevin Seraphin,202338,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2015
+Kevin Seraphin,202338,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2015
+Kevin Seraphin,202338,Driving Hook Shot,2,2,2,Driving Hook Shot,POST_MOVES,,2015
+Kevin Seraphin,202338,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2015
+Kevin Seraphin,202338,Driving Layup,2,2,2,Driving Layup Shot,LAYUPS,,2015
+Kevin Seraphin,202338,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2015
+Kevin Seraphin,202338,Driving Dunk,2,3,3,Driving Slam Dunk Shot,DUNKS,,2015
+Kevin Seraphin,202338,Standard Dunk,2,8,7,Dunk Shot,DUNKS,,2015
+Kevin Seraphin,202338,Fadeaway Jump Shot,2,3,3,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+Kevin Seraphin,202338,Hook Shot,2,51,29,Hook Shot,POST_MOVES,,2015
+Kevin Seraphin,202338,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2015
+Kevin Seraphin,202338,Hook Shot,2,24,15,Jump Hook Shot,POST_MOVES,,2015
+Kevin Seraphin,202338,Jump Shot,2,190,53,Jump Shot,JUMP_SHOTS,,2015
+Kevin Seraphin,202338,Standard Layup,2,54,28,Layup Shot,LAYUPS,,2015
+Kevin Seraphin,202338,Pullup Jump Shot,2,2,1,Pullup Jump shot,JUMP_SHOTS,,2015
+Kevin Seraphin,202338,Putback Dunk,2,3,2,Putback Dunk Shot,DUNKS,,2015
+Kevin Seraphin,202338,Putback Layup,2,4,3,Putback Layup Shot,LAYUPS,,2015
+Kevin Seraphin,202338,Putback Dunk,2,1,1,Putback Slam Dunk Shot,DUNKS,,2015
+Kevin Seraphin,202338,Reverse Layup,2,6,6,Reverse Layup Shot,LAYUPS,,2015
+Kevin Seraphin,202338,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2015
+Kevin Seraphin,202338,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2015
+Kevin Seraphin,202338,Standard Dunk,2,10,10,Slam Dunk Shot,DUNKS,,2015
+Kevin Seraphin,202338,Step Back Jump Shot,2,3,1,Step Back Jump shot,JUMP_SHOTS,,2015
+Kevin Seraphin,202338,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,,2015
+Kevin Seraphin,202338,Turnaround Hook Shot,2,4,4,Turnaround Bank Hook Shot,POST_MOVES,,2015
+Kevin Seraphin,202338,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2015
+Kevin Seraphin,202338,Turnaround Jump Shot,2,2,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2015
+Kevin Seraphin,202338,Turnaround Hook Shot,2,47,40,Turnaround Hook Shot,POST_MOVES,,2015
+Kevin Seraphin,202338,Turnaround Jump Shot,2,16,7,Turnaround Jump Shot,JUMP_SHOTS,,2015
+Kevin Seraphin,202338,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2016
+Kevin Seraphin,202338,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2016
+Kevin Seraphin,202338,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Kevin Seraphin,202338,Standard Dunk,2,6,4,Dunk Shot,DUNKS,,2016
+Kevin Seraphin,202338,Fadeaway Jump Shot,2,3,2,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Kevin Seraphin,202338,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2016
+Kevin Seraphin,202338,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2016
+Kevin Seraphin,202338,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2016
+Kevin Seraphin,202338,Hook Shot,2,38,15,Hook Shot,POST_MOVES,,2016
+Kevin Seraphin,202338,Jump Shot,2,85,30,Jump Shot,JUMP_SHOTS,,2016
+Kevin Seraphin,202338,Standard Layup,2,17,6,Layup Shot,LAYUPS,,2016
+Kevin Seraphin,202338,Pullup Jump Shot,2,2,0,Pullup Jump shot,JUMP_SHOTS,,2016
+Kevin Seraphin,202338,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2016
+Kevin Seraphin,202338,Step Back Jump Shot,2,2,2,Step Back Jump shot,JUMP_SHOTS,,2016
+Kevin Seraphin,202338,Putback Layup,2,3,0,Tip Layup Shot,LAYUPS,,2016
+Kevin Seraphin,202338,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2016
+Kevin Seraphin,202338,Turnaround Hook Shot,2,14,8,Turnaround Hook Shot,POST_MOVES,,2016
+Kevin Seraphin,202338,Turnaround Jump Shot,2,19,4,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Kevin Seraphin,202338,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2017
+Kevin Seraphin,202338,Standard Layup,2,2,1,Cutting Layup Shot,LAYUPS,,2017
+Kevin Seraphin,202338,Driving Hook Shot,2,1,0,Driving Bank Hook Shot,POST_MOVES,,2017
+Kevin Seraphin,202338,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2017
+Kevin Seraphin,202338,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2017
+Kevin Seraphin,202338,Driving Layup,2,1,1,Driving Layup Shot,LAYUPS,,2017
+Kevin Seraphin,202338,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2017
+Kevin Seraphin,202338,Standard Dunk,2,9,8,Dunk Shot,DUNKS,,2017
+Kevin Seraphin,202338,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2017
+Kevin Seraphin,202338,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2017
+Kevin Seraphin,202338,Hook Shot,2,23,8,Hook Shot,POST_MOVES,,2017
+Kevin Seraphin,202338,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2017
+Kevin Seraphin,202338,Jump Shot,2,80,36,Jump Shot,JUMP_SHOTS,,2017
+Kevin Seraphin,202338,Standard Layup,2,17,10,Layup Shot,LAYUPS,,2017
+Kevin Seraphin,202338,Pullup Jump Shot,2,2,1,Pullup Jump shot,JUMP_SHOTS,,2017
+Kevin Seraphin,202338,Putback Dunk,2,1,0,Putback Dunk Shot,DUNKS,,2017
+Kevin Seraphin,202338,Putback Layup,2,5,4,Putback Layup Shot,LAYUPS,,2017
+Kevin Seraphin,202338,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2017
+Kevin Seraphin,202338,Reverse Layup,2,5,5,Reverse Layup Shot,LAYUPS,,2017
+Kevin Seraphin,202338,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2017
+Kevin Seraphin,202338,Putback Layup,2,7,3,Tip Layup Shot,LAYUPS,,2017
+Kevin Seraphin,202338,Turnaround Jump Shot,2,1,0,Turnaround Bank shot,JUMP_SHOTS,,2017
+Kevin Seraphin,202338,Turnaround Hook Shot,2,21,17,Turnaround Hook Shot,POST_MOVES,,2017
+Kevin Seraphin,202338,Turnaround Jump Shot,2,13,9,Turnaround Jump Shot,JUMP_SHOTS,,2017

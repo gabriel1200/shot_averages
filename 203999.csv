@@ -1,80 +1,364 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-203999,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2024
-203999,Finger Roll,2PT Field Goal,13,11,Cutting Finger Roll Layup Shot,LAYUPS,0.8461538461538461,2024
-203999,Standard Layup,2PT Field Goal,26,19,Cutting Layup Shot,LAYUPS,0.7307692307692307,2024
-203999,Driving Hook Shot,2PT Field Goal,2,1,Driving Bank Hook Shot,POST_MOVES,0.5,2024
-203999,Driving Dunk,2PT Field Goal,2,1,Driving Dunk Shot,DUNKS,0.5,2024
-203999,Finger Roll,2PT Field Goal,7,6,Driving Finger Roll Layup Shot,LAYUPS,0.8571428571428571,2024
-203999,Floating Jump Shot,2PT Field Goal,7,5,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.7142857142857143,2024
-203999,Floating Jump Shot,2PT Field Goal,46,23,Driving Floating Jump Shot,FLOATING_SHOTS,0.5,2024
-203999,Driving Hook Shot,2PT Field Goal,29,18,Driving Hook Shot,POST_MOVES,0.6206896551724138,2024
-203999,Driving Layup,2PT Field Goal,57,43,Driving Layup Shot,LAYUPS,0.7543859649122807,2024
-203999,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Bank shot,JUMP_SHOTS,1.0,2024
-203999,Fadeaway Jump Shot,2PT Field Goal,14,4,Fadeaway Jump Shot,JUMP_SHOTS,0.2857142857142857,2024
-203999,Fadeaway Jump Shot,3PT Field Goal,3,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2024
-203999,Finger Roll,2PT Field Goal,10,9,Finger Roll Layup Shot,LAYUPS,0.9,2024
-203999,Floating Jump Shot,2PT Field Goal,64,41,Floating Jump shot,FLOATING_SHOTS,0.640625,2024
-203999,Hook Shot,2PT Field Goal,3,2,Hook Bank Shot,POST_MOVES,0.6666666666666666,2024
-203999,Hook Shot,2PT Field Goal,29,14,Hook Shot,POST_MOVES,0.4827586206896552,2024
-203999,Jump Shot,2PT Field Goal,4,3,Jump Bank Shot,JUMP_SHOTS,0.75,2024
-203999,Jump Shot,3PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2024
-203999,Jump Shot,2PT Field Goal,69,33,Jump Shot,JUMP_SHOTS,0.4782608695652174,2024
-203999,Jump Shot,3PT Field Goal,107,40,Jump Shot,JUMP_SHOTS,0.5607476635514018,2024
-203999,Standard Layup,2PT Field Goal,34,21,Layup Shot,LAYUPS,0.6176470588235294,2024
-203999,Pullup Jump Shot,2PT Field Goal,10,4,Pullup Jump shot,JUMP_SHOTS,0.4,2024
-203999,Pullup Jump Shot,3PT Field Goal,7,3,Pullup Jump shot,JUMP_SHOTS,0.6428571428571429,2024
-203999,Putback Layup,2PT Field Goal,32,19,Putback Layup Shot,LAYUPS,0.59375,2024
-203999,Reverse Layup,2PT Field Goal,4,3,Reverse Layup Shot,LAYUPS,0.75,2024
-203999,Standard Dunk,2PT Field Goal,3,3,Running Dunk Shot,DUNKS,1.0,2024
-203999,Finger Roll,2PT Field Goal,1,0,Running Finger Roll Layup Shot,LAYUPS,0.0,2024
-203999,Running Jump Shot,2PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.5,2024
-203999,Running Jump Shot,3PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2024
-203999,Standard Layup,2PT Field Goal,17,12,Running Layup Shot,LAYUPS,0.7058823529411765,2024
-203999,Reverse Layup,2PT Field Goal,1,0,Running Reverse Layup Shot,LAYUPS,0.0,2024
-203999,Step Back Jump Shot,2PT Field Goal,5,2,Step Back Jump shot,JUMP_SHOTS,0.4,2024
-203999,Step Back Jump Shot,3PT Field Goal,11,4,Step Back Jump shot,JUMP_SHOTS,0.5454545454545454,2024
-203999,Putback Layup,2PT Field Goal,32,19,Tip Layup Shot,LAYUPS,0.59375,2024
-203999,Turnaround Hook Shot,2PT Field Goal,10,9,Turnaround Bank Hook Shot,POST_MOVES,0.9,2024
-203999,Turnaround Jump Shot,2PT Field Goal,6,6,Turnaround Bank shot,JUMP_SHOTS,1.0,2024
-203999,Turnaround Jump Shot,2PT Field Goal,2,2,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,1.0,2024
-203999,Turnaround Jump Shot,2PT Field Goal,32,14,Turnaround Fadeaway shot,JUMP_SHOTS,0.4375,2024
-203999,Turnaround Hook Shot,2PT Field Goal,82,48,Turnaround Hook Shot,POST_MOVES,0.5853658536585366,2024
-203999,Turnaround Jump Shot,2PT Field Goal,32,17,Turnaround Jump Shot,JUMP_SHOTS,0.53125,2024
-203999,Turnaround Jump Shot,3PT Field Goal,3,1,Turnaround Jump Shot,JUMP_SHOTS,0.5,2024
-203999,Specialty Dunk,2PT Field Goal,4,4,Cutting Dunk Shot,DUNKS,1.0,2025
-203999,Finger Roll,2PT Field Goal,10,8,Cutting Finger Roll Layup Shot,LAYUPS,0.8,2025
-203999,Standard Layup,2PT Field Goal,26,20,Cutting Layup Shot,LAYUPS,0.7692307692307693,2025
-203999,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2025
-203999,Finger Roll,2PT Field Goal,8,7,Driving Finger Roll Layup Shot,LAYUPS,0.875,2025
-203999,Floating Jump Shot,2PT Field Goal,5,3,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.6,2025
-203999,Floating Jump Shot,2PT Field Goal,22,11,Driving Floating Jump Shot,FLOATING_SHOTS,0.5,2025
-203999,Driving Hook Shot,2PT Field Goal,14,7,Driving Hook Shot,POST_MOVES,0.5,2025
-203999,Driving Layup,2PT Field Goal,20,12,Driving Layup Shot,LAYUPS,0.6,2025
-203999,Driving Layup,2PT Field Goal,2,1,Driving Reverse Layup Shot,LAYUPS,0.5,2025
-203999,Fadeaway Jump Shot,2PT Field Goal,10,3,Fadeaway Jump Shot,JUMP_SHOTS,0.3,2025
-203999,Finger Roll,2PT Field Goal,4,4,Finger Roll Layup Shot,LAYUPS,1.0,2025
-203999,Floating Jump Shot,2PT Field Goal,25,17,Floating Jump shot,FLOATING_SHOTS,0.68,2025
-203999,Floating Jump Shot,3PT Field Goal,2,0,Floating Jump shot,FLOATING_SHOTS,0.0,2025
-203999,Hook Shot,2PT Field Goal,1,0,Hook Bank Shot,POST_MOVES,0.0,2025
-203999,Hook Shot,2PT Field Goal,6,4,Hook Shot,POST_MOVES,0.6666666666666666,2025
-203999,Jump Shot,2PT Field Goal,18,12,Jump Shot,JUMP_SHOTS,0.6666666666666666,2025
-203999,Jump Shot,3PT Field Goal,68,35,Jump Shot,JUMP_SHOTS,0.7720588235294118,2025
-203999,Standard Layup,2PT Field Goal,19,12,Layup Shot,LAYUPS,0.631578947368421,2025
-203999,Pullup Jump Shot,2PT Field Goal,5,2,Pullup Jump shot,JUMP_SHOTS,0.4,2025
-203999,Pullup Jump Shot,3PT Field Goal,11,4,Pullup Jump shot,JUMP_SHOTS,0.5454545454545454,2025
-203999,Putback Layup,2PT Field Goal,23,13,Putback Layup Shot,LAYUPS,0.5652173913043478,2025
-203999,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2025
-203999,Standard Dunk,2PT Field Goal,2,2,Running Dunk Shot,DUNKS,1.0,2025
-203999,Finger Roll,2PT Field Goal,8,7,Running Finger Roll Layup Shot,LAYUPS,0.875,2025
-203999,Running Jump Shot,3PT Field Goal,3,2,Running Jump Shot,JUMP_SHOTS,1.0,2025
-203999,Standard Layup,2PT Field Goal,13,8,Running Layup Shot,LAYUPS,0.6153846153846154,2025
-203999,Running Jump Shot,3PT Field Goal,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,1.5,2025
-203999,Step Back Jump Shot,2PT Field Goal,3,1,Step Back Jump shot,JUMP_SHOTS,0.3333333333333333,2025
-203999,Step Back Jump Shot,3PT Field Goal,4,1,Step Back Jump shot,JUMP_SHOTS,0.375,2025
-203999,Putback Layup,2PT Field Goal,19,9,Tip Layup Shot,LAYUPS,0.4736842105263157,2025
-203999,Turnaround Hook Shot,2PT Field Goal,4,1,Turnaround Bank Hook Shot,POST_MOVES,0.25,2025
-203999,Turnaround Jump Shot,2PT Field Goal,2,2,Turnaround Bank shot,JUMP_SHOTS,1.0,2025
-203999,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,1.0,2025
-203999,Turnaround Jump Shot,2PT Field Goal,10,2,Turnaround Fadeaway shot,JUMP_SHOTS,0.2,2025
-203999,Turnaround Hook Shot,2PT Field Goal,31,18,Turnaround Hook Shot,POST_MOVES,0.5806451612903226,2025
-203999,Turnaround Jump Shot,2PT Field Goal,15,5,Turnaround Jump Shot,JUMP_SHOTS,0.3333333333333333,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Nikola Jokic,203999,Alley Oop Layup,2,3,3,Alley Oop Layup shot,LAYUPS,,2016
+Nikola Jokic,203999,Specialty Dunk,2,6,6,Cutting Dunk Shot,DUNKS,,2016
+Nikola Jokic,203999,Finger Roll,2,5,4,Cutting Finger Roll Layup Shot,LAYUPS,,2016
+Nikola Jokic,203999,Standard Layup,2,28,20,Cutting Layup Shot,LAYUPS,,2016
+Nikola Jokic,203999,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2016
+Nikola Jokic,203999,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Nikola Jokic,203999,Floating Jump Shot,2,2,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Nikola Jokic,203999,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,,2016
+Nikola Jokic,203999,Driving Layup,2,15,8,Driving Layup Shot,LAYUPS,,2016
+Nikola Jokic,203999,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2016
+Nikola Jokic,203999,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2016
+Nikola Jokic,203999,Fadeaway Jump Shot,2,6,3,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Nikola Jokic,203999,Finger Roll,2,12,8,Finger Roll Layup Shot,LAYUPS,,2016
+Nikola Jokic,203999,Floating Jump Shot,2,28,14,Floating Jump shot,FLOATING_SHOTS,,2016
+Nikola Jokic,203999,Hook Shot,2,6,4,Hook Bank Shot,POST_MOVES,,2016
+Nikola Jokic,203999,Hook Shot,2,43,25,Hook Shot,POST_MOVES,,2016
+Nikola Jokic,203999,Jump Shot,2,11,9,Jump Bank Shot,JUMP_SHOTS,,2016
+Nikola Jokic,203999,Jump Shot,2,212,77,Jump Shot,JUMP_SHOTS,,2016
+Nikola Jokic,203999,Standard Layup,2,116,61,Layup Shot,LAYUPS,,2016
+Nikola Jokic,203999,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2016
+Nikola Jokic,203999,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2016
+Nikola Jokic,203999,Putback Layup,2,12,11,Putback Layup Shot,LAYUPS,,2016
+Nikola Jokic,203999,Reverse Layup,2,8,4,Reverse Layup Shot,LAYUPS,,2016
+Nikola Jokic,203999,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2016
+Nikola Jokic,203999,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2016
+Nikola Jokic,203999,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2016
+Nikola Jokic,203999,Step Back Jump Shot,2,2,0,Step Back Jump shot,JUMP_SHOTS,,2016
+Nikola Jokic,203999,Putback Layup,2,32,21,Tip Layup Shot,LAYUPS,,2016
+Nikola Jokic,203999,Turnaround Jump Shot,2,9,3,Turnaround Fadeaway shot,JUMP_SHOTS,,2016
+Nikola Jokic,203999,Turnaround Hook Shot,2,11,8,Turnaround Hook Shot,POST_MOVES,,2016
+Nikola Jokic,203999,Turnaround Jump Shot,2,18,6,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Nikola Jokic,203999,Alley Oop Dunk,2,1,0,Alley Oop Dunk Shot,DUNKS,,2017
+Nikola Jokic,203999,Alley Oop Layup,2,3,3,Alley Oop Layup shot,LAYUPS,,2017
+Nikola Jokic,203999,Specialty Dunk,2,5,5,Cutting Dunk Shot,DUNKS,,2017
+Nikola Jokic,203999,Finger Roll,2,6,6,Cutting Finger Roll Layup Shot,LAYUPS,,2017
+Nikola Jokic,203999,Standard Layup,2,19,16,Cutting Layup Shot,LAYUPS,,2017
+Nikola Jokic,203999,Driving Hook Shot,2,2,2,Driving Bank Hook Shot,POST_MOVES,,2017
+Nikola Jokic,203999,Driving Jump Shot,2,3,3,Driving Bank shot,JUMP_SHOTS,,2017
+Nikola Jokic,203999,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2017
+Nikola Jokic,203999,Finger Roll,2,4,3,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Nikola Jokic,203999,Floating Jump Shot,2,2,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Nikola Jokic,203999,Driving Hook Shot,2,11,8,Driving Hook Shot,POST_MOVES,,2017
+Nikola Jokic,203999,Driving Layup,2,24,15,Driving Layup Shot,LAYUPS,,2017
+Nikola Jokic,203999,Driving Layup,2,5,4,Driving Reverse Layup Shot,LAYUPS,,2017
+Nikola Jokic,203999,Standard Dunk,2,9,9,Dunk Shot,DUNKS,,2017
+Nikola Jokic,203999,Fadeaway Jump Shot,2,4,3,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Nikola Jokic,203999,Finger Roll,2,11,9,Finger Roll Layup Shot,LAYUPS,,2017
+Nikola Jokic,203999,Floating Jump Shot,2,21,15,Floating Jump shot,FLOATING_SHOTS,,2017
+Nikola Jokic,203999,Hook Shot,2,3,3,Hook Bank Shot,POST_MOVES,,2017
+Nikola Jokic,203999,Hook Shot,2,66,41,Hook Shot,POST_MOVES,,2017
+Nikola Jokic,203999,Jump Shot,2,22,15,Jump Bank Shot,JUMP_SHOTS,,2017
+Nikola Jokic,203999,Jump Shot,2,343,152,Jump Shot,JUMP_SHOTS,,2017
+Nikola Jokic,203999,Standard Layup,2,103,60,Layup Shot,LAYUPS,,2017
+Nikola Jokic,203999,Pullup Jump Shot,2,10,5,Pullup Jump shot,JUMP_SHOTS,,2017
+Nikola Jokic,203999,Putback Dunk,2,4,3,Putback Dunk Shot,DUNKS,,2017
+Nikola Jokic,203999,Putback Layup,2,36,30,Putback Layup Shot,LAYUPS,,2017
+Nikola Jokic,203999,Reverse Layup,2,5,5,Reverse Layup Shot,LAYUPS,,2017
+Nikola Jokic,203999,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2017
+Nikola Jokic,203999,Running Jump Shot,2,6,2,Running Jump Shot,JUMP_SHOTS,,2017
+Nikola Jokic,203999,Standard Layup,2,6,3,Running Layup Shot,LAYUPS,,2017
+Nikola Jokic,203999,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2017
+Nikola Jokic,203999,Putback Layup,2,53,29,Tip Layup Shot,LAYUPS,,2017
+Nikola Jokic,203999,Turnaround Jump Shot,2,11,7,Turnaround Bank shot,JUMP_SHOTS,,2017
+Nikola Jokic,203999,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2017
+Nikola Jokic,203999,Turnaround Jump Shot,2,4,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2017
+Nikola Jokic,203999,Turnaround Hook Shot,2,17,10,Turnaround Hook Shot,POST_MOVES,,2017
+Nikola Jokic,203999,Turnaround Jump Shot,2,26,18,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Nikola Jokic,203999,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2018
+Nikola Jokic,203999,Finger Roll,2,6,4,Cutting Finger Roll Layup Shot,LAYUPS,,2018
+Nikola Jokic,203999,Standard Layup,2,16,14,Cutting Layup Shot,LAYUPS,,2018
+Nikola Jokic,203999,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2018
+Nikola Jokic,203999,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2018
+Nikola Jokic,203999,Finger Roll,2,7,4,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Nikola Jokic,203999,Floating Jump Shot,2,3,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Nikola Jokic,203999,Floating Jump Shot,2,12,7,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Nikola Jokic,203999,Driving Hook Shot,2,6,2,Driving Hook Shot,POST_MOVES,,2018
+Nikola Jokic,203999,Driving Layup,2,25,12,Driving Layup Shot,LAYUPS,,2018
+Nikola Jokic,203999,Driving Layup,2,9,4,Driving Reverse Layup Shot,LAYUPS,,2018
+Nikola Jokic,203999,Standard Dunk,2,3,2,Dunk Shot,DUNKS,,2018
+Nikola Jokic,203999,Fadeaway Jump Shot,2,14,5,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+Nikola Jokic,203999,Finger Roll,2,12,5,Finger Roll Layup Shot,LAYUPS,,2018
+Nikola Jokic,203999,Floating Jump Shot,2,26,15,Floating Jump shot,FLOATING_SHOTS,,2018
+Nikola Jokic,203999,Hook Shot,2,2,1,Hook Bank Shot,POST_MOVES,,2018
+Nikola Jokic,203999,Hook Shot,2,65,28,Hook Shot,POST_MOVES,,2018
+Nikola Jokic,203999,Jump Shot,2,11,8,Jump Bank Shot,JUMP_SHOTS,,2018
+Nikola Jokic,203999,Jump Shot,2,449,196,Jump Shot,JUMP_SHOTS,,2018
+Nikola Jokic,203999,Standard Layup,2,118,59,Layup Shot,LAYUPS,,2018
+Nikola Jokic,203999,Pullup Jump Shot,2,20,7,Pullup Jump shot,JUMP_SHOTS,,2018
+Nikola Jokic,203999,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2018
+Nikola Jokic,203999,Putback Layup,2,18,13,Putback Layup Shot,LAYUPS,,2018
+Nikola Jokic,203999,Reverse Layup,2,13,12,Reverse Layup Shot,LAYUPS,,2018
+Nikola Jokic,203999,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2018
+Nikola Jokic,203999,Finger Roll,2,2,2,Running Finger Roll Layup Shot,LAYUPS,,2018
+Nikola Jokic,203999,Running Jump Shot,2,4,2,Running Jump Shot,JUMP_SHOTS,,2018
+Nikola Jokic,203999,Standard Layup,2,8,5,Running Layup Shot,LAYUPS,,2018
+Nikola Jokic,203999,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2018
+Nikola Jokic,203999,Step Back Jump Shot,2,13,8,Step Back Jump shot,JUMP_SHOTS,,2018
+Nikola Jokic,203999,Putback Layup,2,38,26,Tip Layup Shot,LAYUPS,,2018
+Nikola Jokic,203999,Turnaround Hook Shot,2,3,2,Turnaround Bank Hook Shot,POST_MOVES,,2018
+Nikola Jokic,203999,Turnaround Jump Shot,2,5,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2018
+Nikola Jokic,203999,Turnaround Jump Shot,2,9,4,Turnaround Fadeaway shot,JUMP_SHOTS,,2018
+Nikola Jokic,203999,Turnaround Hook Shot,2,51,29,Turnaround Hook Shot,POST_MOVES,,2018
+Nikola Jokic,203999,Turnaround Jump Shot,2,34,18,Turnaround Jump Shot,JUMP_SHOTS,,2018
+Nikola Jokic,203999,Specialty Dunk,2,3,3,Cutting Dunk Shot,DUNKS,,2019
+Nikola Jokic,203999,Finger Roll,2,9,7,Cutting Finger Roll Layup Shot,LAYUPS,,2019
+Nikola Jokic,203999,Standard Layup,2,30,24,Cutting Layup Shot,LAYUPS,,2019
+Nikola Jokic,203999,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2019
+Nikola Jokic,203999,Finger Roll,2,21,15,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Nikola Jokic,203999,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Nikola Jokic,203999,Floating Jump Shot,2,22,14,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Nikola Jokic,203999,Driving Hook Shot,2,12,9,Driving Hook Shot,POST_MOVES,,2019
+Nikola Jokic,203999,Driving Layup,2,57,37,Driving Layup Shot,LAYUPS,,2019
+Nikola Jokic,203999,Driving Layup,2,11,7,Driving Reverse Layup Shot,LAYUPS,,2019
+Nikola Jokic,203999,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2019
+Nikola Jokic,203999,Fadeaway Jump Shot,2,20,9,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+Nikola Jokic,203999,Finger Roll,2,25,14,Finger Roll Layup Shot,LAYUPS,,2019
+Nikola Jokic,203999,Floating Jump Shot,2,67,41,Floating Jump shot,FLOATING_SHOTS,,2019
+Nikola Jokic,203999,Hook Shot,2,5,4,Hook Bank Shot,POST_MOVES,,2019
+Nikola Jokic,203999,Hook Shot,2,59,29,Hook Shot,POST_MOVES,,2019
+Nikola Jokic,203999,Jump Shot,2,13,6,Jump Bank Shot,JUMP_SHOTS,,2019
+Nikola Jokic,203999,Jump Shot,2,401,140,Jump Shot,JUMP_SHOTS,,2019
+Nikola Jokic,203999,Standard Layup,2,138,77,Layup Shot,LAYUPS,,2019
+Nikola Jokic,203999,Pullup Jump Shot,2,21,9,Pullup Jump shot,JUMP_SHOTS,,2019
+Nikola Jokic,203999,Putback Layup,2,53,39,Putback Layup Shot,LAYUPS,,2019
+Nikola Jokic,203999,Reverse Layup,2,20,8,Reverse Layup Shot,LAYUPS,,2019
+Nikola Jokic,203999,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2019
+Nikola Jokic,203999,Finger Roll,2,4,3,Running Finger Roll Layup Shot,LAYUPS,,2019
+Nikola Jokic,203999,Running Jump Shot,2,6,2,Running Jump Shot,JUMP_SHOTS,,2019
+Nikola Jokic,203999,Standard Layup,2,5,4,Running Layup Shot,LAYUPS,,2019
+Nikola Jokic,203999,Step Back Jump Shot,2,12,2,Step Back Jump shot,JUMP_SHOTS,,2019
+Nikola Jokic,203999,Putback Layup,2,51,33,Tip Layup Shot,LAYUPS,,2019
+Nikola Jokic,203999,Turnaround Hook Shot,2,5,4,Turnaround Bank Hook Shot,POST_MOVES,,2019
+Nikola Jokic,203999,Turnaround Jump Shot,2,4,2,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2019
+Nikola Jokic,203999,Turnaround Jump Shot,2,19,11,Turnaround Fadeaway shot,JUMP_SHOTS,,2019
+Nikola Jokic,203999,Turnaround Hook Shot,2,73,42,Turnaround Hook Shot,POST_MOVES,,2019
+Nikola Jokic,203999,Turnaround Jump Shot,2,31,13,Turnaround Jump Shot,JUMP_SHOTS,,2019
+Nikola Jokic,203999,Specialty Dunk,2,7,7,Cutting Dunk Shot,DUNKS,,2020
+Nikola Jokic,203999,Finger Roll,2,7,5,Cutting Finger Roll Layup Shot,LAYUPS,,2020
+Nikola Jokic,203999,Standard Layup,2,21,17,Cutting Layup Shot,LAYUPS,,2020
+Nikola Jokic,203999,Driving Hook Shot,2,2,1,Driving Bank Hook Shot,POST_MOVES,,2020
+Nikola Jokic,203999,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2020
+Nikola Jokic,203999,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2020
+Nikola Jokic,203999,Floating Jump Shot,2,8,6,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2020
+Nikola Jokic,203999,Floating Jump Shot,2,23,13,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Nikola Jokic,203999,Driving Hook Shot,2,14,9,Driving Hook Shot,POST_MOVES,,2020
+Nikola Jokic,203999,Driving Layup,2,48,31,Driving Layup Shot,LAYUPS,,2020
+Nikola Jokic,203999,Driving Layup,2,9,7,Driving Reverse Layup Shot,LAYUPS,,2020
+Nikola Jokic,203999,Standard Dunk,2,6,6,Dunk Shot,DUNKS,,2020
+Nikola Jokic,203999,Fadeaway Jump Shot,2,31,13,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+Nikola Jokic,203999,Finger Roll,2,9,4,Finger Roll Layup Shot,LAYUPS,,2020
+Nikola Jokic,203999,Floating Jump Shot,2,71,46,Floating Jump shot,FLOATING_SHOTS,,2020
+Nikola Jokic,203999,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2020
+Nikola Jokic,203999,Hook Shot,2,28,13,Hook Shot,POST_MOVES,,2020
+Nikola Jokic,203999,Jump Shot,2,7,3,Jump Bank Shot,JUMP_SHOTS,,2020
+Nikola Jokic,203999,Jump Shot,2,401,151,Jump Shot,JUMP_SHOTS,,2020
+Nikola Jokic,203999,Standard Layup,2,74,44,Layup Shot,LAYUPS,,2020
+Nikola Jokic,203999,Pullup Jump Shot,2,11,3,Pullup Jump shot,JUMP_SHOTS,,2020
+Nikola Jokic,203999,Putback Layup,2,37,29,Putback Layup Shot,LAYUPS,,2020
+Nikola Jokic,203999,Reverse Layup,2,9,5,Reverse Layup Shot,LAYUPS,,2020
+Nikola Jokic,203999,Finger Roll,2,2,2,Running Finger Roll Layup Shot,LAYUPS,,2020
+Nikola Jokic,203999,Running Jump Shot,2,5,1,Running Jump Shot,JUMP_SHOTS,,2020
+Nikola Jokic,203999,Standard Layup,2,5,4,Running Layup Shot,LAYUPS,,2020
+Nikola Jokic,203999,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2020
+Nikola Jokic,203999,Step Back Jump Shot,2,17,7,Step Back Jump shot,JUMP_SHOTS,,2020
+Nikola Jokic,203999,Putback Layup,2,49,31,Tip Layup Shot,LAYUPS,,2020
+Nikola Jokic,203999,Turnaround Hook Shot,2,4,3,Turnaround Bank Hook Shot,POST_MOVES,,2020
+Nikola Jokic,203999,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2020
+Nikola Jokic,203999,Turnaround Jump Shot,2,36,22,Turnaround Fadeaway shot,JUMP_SHOTS,,2020
+Nikola Jokic,203999,Turnaround Hook Shot,2,76,51,Turnaround Hook Shot,POST_MOVES,,2020
+Nikola Jokic,203999,Turnaround Jump Shot,2,46,25,Turnaround Jump Shot,JUMP_SHOTS,,2020
+Nikola Jokic,203999,Specialty Dunk,2,16,16,Cutting Dunk Shot,DUNKS,,2021
+Nikola Jokic,203999,Finger Roll,2,8,6,Cutting Finger Roll Layup Shot,LAYUPS,,2021
+Nikola Jokic,203999,Standard Layup,2,26,18,Cutting Layup Shot,LAYUPS,,2021
+Nikola Jokic,203999,Driving Hook Shot,2,2,1,Driving Bank Hook Shot,POST_MOVES,,2021
+Nikola Jokic,203999,Driving Dunk,2,17,15,Driving Dunk Shot,DUNKS,,2021
+Nikola Jokic,203999,Finger Roll,2,18,15,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Nikola Jokic,203999,Floating Jump Shot,2,4,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2021
+Nikola Jokic,203999,Floating Jump Shot,2,48,22,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Nikola Jokic,203999,Driving Hook Shot,2,17,14,Driving Hook Shot,POST_MOVES,,2021
+Nikola Jokic,203999,Driving Layup,2,70,46,Driving Layup Shot,LAYUPS,,2021
+Nikola Jokic,203999,Reverse Dunk,2,2,2,Driving Reverse Dunk Shot,DUNKS,,2021
+Nikola Jokic,203999,Driving Layup,2,16,9,Driving Reverse Layup Shot,LAYUPS,,2021
+Nikola Jokic,203999,Standard Dunk,2,5,4,Dunk Shot,DUNKS,,2021
+Nikola Jokic,203999,Fadeaway Jump Shot,2,29,15,Fadeaway Jump Shot,JUMP_SHOTS,,2021
+Nikola Jokic,203999,Finger Roll,2,12,10,Finger Roll Layup Shot,LAYUPS,,2021
+Nikola Jokic,203999,Floating Jump Shot,2,83,44,Floating Jump shot,FLOATING_SHOTS,,2021
+Nikola Jokic,203999,Hook Shot,2,3,3,Hook Bank Shot,POST_MOVES,,2021
+Nikola Jokic,203999,Hook Shot,2,47,26,Hook Shot,POST_MOVES,,2021
+Nikola Jokic,203999,Jump Shot,2,9,4,Jump Bank Shot,JUMP_SHOTS,,2021
+Nikola Jokic,203999,Jump Shot,2,396,183,Jump Shot,JUMP_SHOTS,,2021
+Nikola Jokic,203999,Standard Layup,2,70,42,Layup Shot,LAYUPS,,2021
+Nikola Jokic,203999,Pullup Jump Shot,2,21,12,Pullup Jump shot,JUMP_SHOTS,,2021
+Nikola Jokic,203999,Putback Layup,2,48,32,Putback Layup Shot,LAYUPS,,2021
+Nikola Jokic,203999,Reverse Layup,2,8,4,Reverse Layup Shot,LAYUPS,,2021
+Nikola Jokic,203999,Standard Dunk,2,7,7,Running Dunk Shot,DUNKS,,2021
+Nikola Jokic,203999,Finger Roll,2,3,3,Running Finger Roll Layup Shot,LAYUPS,,2021
+Nikola Jokic,203999,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2021
+Nikola Jokic,203999,Standard Layup,2,2,2,Running Layup Shot,LAYUPS,,2021
+Nikola Jokic,203999,Step Back Jump Shot,2,13,8,Step Back Jump shot,JUMP_SHOTS,,2021
+Nikola Jokic,203999,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2021
+Nikola Jokic,203999,Putback Layup,2,77,47,Tip Layup Shot,LAYUPS,,2021
+Nikola Jokic,203999,Turnaround Hook Shot,2,13,10,Turnaround Bank Hook Shot,POST_MOVES,,2021
+Nikola Jokic,203999,Turnaround Jump Shot,2,4,3,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2021
+Nikola Jokic,203999,Turnaround Jump Shot,2,49,20,Turnaround Fadeaway shot,JUMP_SHOTS,,2021
+Nikola Jokic,203999,Turnaround Hook Shot,2,94,59,Turnaround Hook Shot,POST_MOVES,,2021
+Nikola Jokic,203999,Turnaround Jump Shot,2,53,28,Turnaround Jump Shot,JUMP_SHOTS,,2021
+Nikola Jokic,203999,Specialty Dunk,2,14,12,Cutting Dunk Shot,DUNKS,,2022
+Nikola Jokic,203999,Finger Roll,2,16,13,Cutting Finger Roll Layup Shot,LAYUPS,,2022
+Nikola Jokic,203999,Standard Layup,2,45,33,Cutting Layup Shot,LAYUPS,,2022
+Nikola Jokic,203999,Driving Dunk,2,5,5,Driving Dunk Shot,DUNKS,,2022
+Nikola Jokic,203999,Finger Roll,2,28,24,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Nikola Jokic,203999,Floating Jump Shot,2,7,4,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Nikola Jokic,203999,Floating Jump Shot,2,55,34,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Nikola Jokic,203999,Driving Hook Shot,2,23,16,Driving Hook Shot,POST_MOVES,,2022
+Nikola Jokic,203999,Driving Layup,2,68,37,Driving Layup Shot,LAYUPS,,2022
+Nikola Jokic,203999,Driving Layup,2,7,7,Driving Reverse Layup Shot,LAYUPS,,2022
+Nikola Jokic,203999,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2022
+Nikola Jokic,203999,Fadeaway Jump Shot,2,19,5,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Nikola Jokic,203999,Finger Roll,2,22,19,Finger Roll Layup Shot,LAYUPS,,2022
+Nikola Jokic,203999,Floating Jump Shot,2,79,59,Floating Jump shot,FLOATING_SHOTS,,2022
+Nikola Jokic,203999,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2022
+Nikola Jokic,203999,Hook Shot,2,41,27,Hook Shot,POST_MOVES,,2022
+Nikola Jokic,203999,Jump Shot,2,4,2,Jump Bank Shot,JUMP_SHOTS,,2022
+Nikola Jokic,203999,Jump Shot,2,371,153,Jump Shot,JUMP_SHOTS,,2022
+Nikola Jokic,203999,Standard Layup,2,121,81,Layup Shot,LAYUPS,,2022
+Nikola Jokic,203999,Pullup Jump Shot,2,12,6,Pullup Jump shot,JUMP_SHOTS,,2022
+Nikola Jokic,203999,Putback Layup,2,60,41,Putback Layup Shot,LAYUPS,,2022
+Nikola Jokic,203999,Reverse Layup,2,11,9,Reverse Layup Shot,LAYUPS,,2022
+Nikola Jokic,203999,Standard Dunk,2,10,10,Running Dunk Shot,DUNKS,,2022
+Nikola Jokic,203999,Finger Roll,2,9,8,Running Finger Roll Layup Shot,LAYUPS,,2022
+Nikola Jokic,203999,Running Jump Shot,2,6,4,Running Jump Shot,JUMP_SHOTS,,2022
+Nikola Jokic,203999,Standard Layup,2,10,7,Running Layup Shot,LAYUPS,,2022
+Nikola Jokic,203999,Running Jump Shot,2,4,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
+Nikola Jokic,203999,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2022
+Nikola Jokic,203999,Step Back Jump Shot,2,14,5,Step Back Jump shot,JUMP_SHOTS,,2022
+Nikola Jokic,203999,Putback Layup,2,60,32,Tip Layup Shot,LAYUPS,,2022
+Nikola Jokic,203999,Turnaround Hook Shot,2,6,4,Turnaround Bank Hook Shot,POST_MOVES,,2022
+Nikola Jokic,203999,Turnaround Jump Shot,2,4,2,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2022
+Nikola Jokic,203999,Turnaround Jump Shot,2,17,7,Turnaround Fadeaway shot,JUMP_SHOTS,,2022
+Nikola Jokic,203999,Turnaround Hook Shot,2,100,59,Turnaround Hook Shot,POST_MOVES,,2022
+Nikola Jokic,203999,Turnaround Jump Shot,2,57,34,Turnaround Jump Shot,JUMP_SHOTS,,2022
+Nikola Jokic,203999,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2023
+Nikola Jokic,203999,Specialty Dunk,2,8,8,Cutting Dunk Shot,DUNKS,,2023
+Nikola Jokic,203999,Finger Roll,2,12,10,Cutting Finger Roll Layup Shot,LAYUPS,,2023
+Nikola Jokic,203999,Standard Layup,2,38,30,Cutting Layup Shot,LAYUPS,,2023
+Nikola Jokic,203999,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2023
+Nikola Jokic,203999,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2023
+Nikola Jokic,203999,Finger Roll,2,20,18,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Nikola Jokic,203999,Floating Jump Shot,2,8,4,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+Nikola Jokic,203999,Floating Jump Shot,2,59,35,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Nikola Jokic,203999,Driving Hook Shot,2,13,9,Driving Hook Shot,POST_MOVES,,2023
+Nikola Jokic,203999,Driving Layup,2,67,45,Driving Layup Shot,LAYUPS,,2023
+Nikola Jokic,203999,Driving Layup,2,4,3,Driving Reverse Layup Shot,LAYUPS,,2023
+Nikola Jokic,203999,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2023
+Nikola Jokic,203999,Fadeaway Jump Shot,2,12,5,Fadeaway Jump Shot,JUMP_SHOTS,,2023
+Nikola Jokic,203999,Finger Roll,2,23,20,Finger Roll Layup Shot,LAYUPS,,2023
+Nikola Jokic,203999,Floating Jump Shot,2,94,69,Floating Jump shot,FLOATING_SHOTS,,2023
+Nikola Jokic,203999,Hook Shot,2,2,2,Hook Bank Shot,POST_MOVES,,2023
+Nikola Jokic,203999,Hook Shot,2,38,24,Hook Shot,POST_MOVES,,2023
+Nikola Jokic,203999,Jump Shot,2,4,4,Jump Bank Shot,JUMP_SHOTS,,2023
+Nikola Jokic,203999,Jump Shot,2,196,87,Jump Shot,JUMP_SHOTS,,2023
+Nikola Jokic,203999,Standard Layup,2,93,52,Layup Shot,LAYUPS,,2023
+Nikola Jokic,203999,Pullup Jump Shot,2,16,9,Pullup Jump shot,JUMP_SHOTS,,2023
+Nikola Jokic,203999,Putback Layup,2,44,36,Putback Layup Shot,LAYUPS,,2023
+Nikola Jokic,203999,Reverse Layup,2,5,4,Reverse Layup Shot,LAYUPS,,2023
+Nikola Jokic,203999,Standard Dunk,2,9,8,Running Dunk Shot,DUNKS,,2023
+Nikola Jokic,203999,Finger Roll,2,11,9,Running Finger Roll Layup Shot,LAYUPS,,2023
+Nikola Jokic,203999,Running Jump Shot,2,8,3,Running Jump Shot,JUMP_SHOTS,,2023
+Nikola Jokic,203999,Standard Layup,2,18,12,Running Layup Shot,LAYUPS,,2023
+Nikola Jokic,203999,Step Back Jump Shot,2,11,5,Step Back Jump shot,JUMP_SHOTS,,2023
+Nikola Jokic,203999,Putback Layup,2,51,26,Tip Layup Shot,LAYUPS,,2023
+Nikola Jokic,203999,Turnaround Hook Shot,2,3,3,Turnaround Bank Hook Shot,POST_MOVES,,2023
+Nikola Jokic,203999,Turnaround Jump Shot,2,6,5,Turnaround Bank shot,JUMP_SHOTS,,2023
+Nikola Jokic,203999,Turnaround Jump Shot,2,18,9,Turnaround Fadeaway shot,JUMP_SHOTS,,2023
+Nikola Jokic,203999,Turnaround Hook Shot,2,84,58,Turnaround Hook Shot,POST_MOVES,,2023
+Nikola Jokic,203999,Turnaround Jump Shot,2,40,28,Turnaround Jump Shot,JUMP_SHOTS,,2023
+Nikola Jokic,203999,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2024
+Nikola Jokic,203999,Specialty Dunk,2,6,6,Cutting Dunk Shot,DUNKS,,2024
+Nikola Jokic,203999,Finger Roll,2,15,13,Cutting Finger Roll Layup Shot,LAYUPS,,2024
+Nikola Jokic,203999,Standard Layup,2,48,36,Cutting Layup Shot,LAYUPS,,2024
+Nikola Jokic,203999,Driving Hook Shot,2,4,3,Driving Bank Hook Shot,POST_MOVES,,2024
+Nikola Jokic,203999,Driving Dunk,2,5,4,Driving Dunk Shot,DUNKS,,2024
+Nikola Jokic,203999,Finger Roll,2,18,15,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Nikola Jokic,203999,Floating Jump Shot,2,13,9,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Nikola Jokic,203999,Floating Jump Shot,2,77,45,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Nikola Jokic,203999,Driving Hook Shot,2,47,28,Driving Hook Shot,POST_MOVES,,2024
+Nikola Jokic,203999,Driving Layup,2,104,71,Driving Layup Shot,LAYUPS,,2024
+Nikola Jokic,203999,Driving Layup,2,10,8,Driving Reverse Layup Shot,LAYUPS,,2024
+Nikola Jokic,203999,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2024
+Nikola Jokic,203999,Fadeaway Jump Shot,2,18,5,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Nikola Jokic,203999,Fadeaway Jump Shot,3,3,0,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Nikola Jokic,203999,Finger Roll,2,16,13,Finger Roll Layup Shot,LAYUPS,,2024
+Nikola Jokic,203999,Floating Jump Shot,2,112,74,Floating Jump shot,FLOATING_SHOTS,,2024
+Nikola Jokic,203999,Hook Shot,2,5,4,Hook Bank Shot,POST_MOVES,,2024
+Nikola Jokic,203999,Hook Shot,2,44,22,Hook Shot,POST_MOVES,,2024
+Nikola Jokic,203999,Jump Shot,2,6,4,Jump Bank Shot,JUMP_SHOTS,,2024
+Nikola Jokic,203999,Jump Shot,3,1,0,Jump Bank Shot,JUMP_SHOTS,,2024
+Nikola Jokic,203999,Jump Shot,2,114,54,Jump Shot,JUMP_SHOTS,,2024
+Nikola Jokic,203999,Jump Shot,3,187,67,Jump Shot,JUMP_SHOTS,,2024
+Nikola Jokic,203999,Standard Layup,2,73,54,Layup Shot,LAYUPS,,2024
+Nikola Jokic,203999,Pullup Jump Shot,2,12,4,Pullup Jump shot,JUMP_SHOTS,,2024
+Nikola Jokic,203999,Pullup Jump Shot,3,17,8,Pullup Jump shot,JUMP_SHOTS,,2024
+Nikola Jokic,203999,Putback Layup,2,61,42,Putback Layup Shot,LAYUPS,,2024
+Nikola Jokic,203999,Reverse Layup,2,8,5,Reverse Layup Shot,LAYUPS,,2024
+Nikola Jokic,203999,Standard Dunk,2,7,7,Running Dunk Shot,DUNKS,,2024
+Nikola Jokic,203999,Finger Roll,2,4,3,Running Finger Roll Layup Shot,LAYUPS,,2024
+Nikola Jokic,203999,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2024
+Nikola Jokic,203999,Running Jump Shot,3,3,1,Running Jump Shot,JUMP_SHOTS,,2024
+Nikola Jokic,203999,Standard Layup,2,23,17,Running Layup Shot,LAYUPS,,2024
+Nikola Jokic,203999,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2024
+Nikola Jokic,203999,Step Back Jump Shot,2,12,5,Step Back Jump shot,JUMP_SHOTS,,2024
+Nikola Jokic,203999,Step Back Jump Shot,3,13,5,Step Back Jump shot,JUMP_SHOTS,,2024
+Nikola Jokic,203999,Putback Layup,2,61,36,Tip Layup Shot,LAYUPS,,2024
+Nikola Jokic,203999,Turnaround Hook Shot,2,14,9,Turnaround Bank Hook Shot,POST_MOVES,,2024
+Nikola Jokic,203999,Turnaround Jump Shot,2,8,7,Turnaround Bank shot,JUMP_SHOTS,,2024
+Nikola Jokic,203999,Turnaround Jump Shot,2,2,2,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2024
+Nikola Jokic,203999,Turnaround Jump Shot,2,46,20,Turnaround Fadeaway shot,JUMP_SHOTS,,2024
+Nikola Jokic,203999,Turnaround Jump Shot,3,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2024
+Nikola Jokic,203999,Turnaround Hook Shot,2,127,78,Turnaround Hook Shot,POST_MOVES,,2024
+Nikola Jokic,203999,Turnaround Jump Shot,2,55,33,Turnaround Jump Shot,JUMP_SHOTS,,2024
+Nikola Jokic,203999,Turnaround Jump Shot,3,5,1,Turnaround Jump Shot,JUMP_SHOTS,,2024
+Nikola Jokić,203999,Specialty Dunk,2,5,5,Cutting Dunk Shot,DUNKS,,2025
+Nikola Jokić,203999,Finger Roll,2,15,13,Cutting Finger Roll Layup Shot,LAYUPS,,2025
+Nikola Jokić,203999,Standard Layup,2,33,26,Cutting Layup Shot,LAYUPS,,2025
+Nikola Jokić,203999,Driving Hook Shot,2,1,0,Driving Bank Hook Shot,POST_MOVES,,2025
+Nikola Jokić,203999,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2025
+Nikola Jokić,203999,Finger Roll,2,15,11,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Nikola Jokić,203999,Floating Jump Shot,2,7,3,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2025
+Nikola Jokić,203999,Floating Jump Shot,2,39,17,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Nikola Jokić,203999,Floating Jump Shot,3,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Nikola Jokić,203999,Driving Hook Shot,2,22,13,Driving Hook Shot,POST_MOVES,,2025
+Nikola Jokić,203999,Driving Layup,2,37,23,Driving Layup Shot,LAYUPS,,2025
+Nikola Jokić,203999,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2025
+Nikola Jokić,203999,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,2025
+Nikola Jokić,203999,Fadeaway Jump Shot,2,15,4,Fadeaway Jump Shot,JUMP_SHOTS,,2025
+Nikola Jokić,203999,Finger Roll,2,4,4,Finger Roll Layup Shot,LAYUPS,,2025
+Nikola Jokić,203999,Floating Jump Shot,2,47,31,Floating Jump shot,FLOATING_SHOTS,,2025
+Nikola Jokić,203999,Floating Jump Shot,3,3,0,Floating Jump shot,FLOATING_SHOTS,,2025
+Nikola Jokić,203999,Hook Shot,2,3,1,Hook Bank Shot,POST_MOVES,,2025
+Nikola Jokić,203999,Hook Shot,2,13,7,Hook Shot,POST_MOVES,,2025
+Nikola Jokić,203999,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2025
+Nikola Jokić,203999,Jump Shot,3,1,0,Jump Bank Shot,JUMP_SHOTS,,2025
+Nikola Jokić,203999,Jump Shot,2,48,28,Jump Shot,JUMP_SHOTS,,2025
+Nikola Jokić,203999,Jump Shot,3,121,61,Jump Shot,JUMP_SHOTS,,2025
+Nikola Jokić,203999,Standard Layup,2,32,22,Layup Shot,LAYUPS,,2025
+Nikola Jokić,203999,Pullup Jump Shot,2,8,3,Pullup Jump shot,JUMP_SHOTS,,2025
+Nikola Jokić,203999,Pullup Jump Shot,3,20,8,Pullup Jump shot,JUMP_SHOTS,,2025
+Nikola Jokić,203999,Putback Layup,2,35,18,Putback Layup Shot,LAYUPS,,2025
+Nikola Jokić,203999,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2025
+Nikola Jokić,203999,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2025
+Nikola Jokić,203999,Finger Roll,2,13,11,Running Finger Roll Layup Shot,LAYUPS,,2025
+Nikola Jokić,203999,Running Jump Shot,3,3,2,Running Jump Shot,JUMP_SHOTS,,2025
+Nikola Jokić,203999,Standard Layup,2,21,14,Running Layup Shot,LAYUPS,,2025
+Nikola Jokić,203999,Running Jump Shot,3,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025
+Nikola Jokić,203999,Step Back Jump Shot,2,6,2,Step Back Jump shot,JUMP_SHOTS,,2025
+Nikola Jokić,203999,Step Back Jump Shot,3,5,1,Step Back Jump shot,JUMP_SHOTS,,2025
+Nikola Jokić,203999,Putback Layup,2,33,15,Tip Layup Shot,LAYUPS,,2025
+Nikola Jokić,203999,Turnaround Hook Shot,2,7,3,Turnaround Bank Hook Shot,POST_MOVES,,2025
+Nikola Jokić,203999,Turnaround Jump Shot,2,2,2,Turnaround Bank shot,JUMP_SHOTS,,2025
+Nikola Jokić,203999,Turnaround Jump Shot,2,3,2,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2025
+Nikola Jokić,203999,Turnaround Jump Shot,2,12,3,Turnaround Fadeaway shot,JUMP_SHOTS,,2025
+Nikola Jokić,203999,Turnaround Hook Shot,2,46,26,Turnaround Hook Shot,POST_MOVES,,2025
+Nikola Jokić,203999,Turnaround Jump Shot,2,24,7,Turnaround Jump Shot,JUMP_SHOTS,,2025

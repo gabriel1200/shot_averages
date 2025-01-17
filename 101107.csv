@@ -1,335 +1,443 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-101107,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2006
-101107,Driving Layup,2PT Field Goal,7,4,Driving Layup Shot,LAYUPS,0.5714285714285714,2006
-101107,Standard Dunk,2PT Field Goal,15,12,Dunk Shot,DUNKS,0.8,2006
-101107,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2006
-101107,Specialty Dunk,2PT Field Goal,1,1,Follow Up Dunk Shot,DUNKS,1.0,2006
-101107,Jump Shot,2PT Field Goal,114,40,Jump Shot,JUMP_SHOTS,0.3508771929824561,2006
-101107,Jump Shot,3PT Field Goal,24,6,Jump Shot,JUMP_SHOTS,0.375,2006
-101107,Standard Layup,2PT Field Goal,56,30,Layup Shot,LAYUPS,0.5357142857142857,2006
-101107,Reverse Layup,2PT Field Goal,2,2,Reverse Layup Shot,LAYUPS,1.0,2006
-101107,Running Jump Shot,2PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.5,2006
-101107,Standard Dunk,2PT Field Goal,2,2,Slam Dunk Shot,DUNKS,1.0,2006
-101107,Tip Shot,2PT Field Goal,8,5,Tip Shot,TIP_SHOTS,0.625,2006
-101107,Alley Oop Layup,2PT Field Goal,1,1,Alley Oop Layup shot,LAYUPS,1.0,2007
-101107,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2007
-101107,Driving Layup,2PT Field Goal,11,8,Driving Layup Shot,LAYUPS,0.7272727272727273,2007
-101107,Standard Dunk,2PT Field Goal,7,5,Dunk Shot,DUNKS,0.7142857142857143,2007
-101107,Hook Shot,2PT Field Goal,3,2,Hook Shot,POST_MOVES,0.6666666666666666,2007
-101107,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2007
-101107,Jump Shot,2PT Field Goal,160,58,Jump Shot,JUMP_SHOTS,0.3625,2007
-101107,Jump Shot,3PT Field Goal,16,5,Jump Shot,JUMP_SHOTS,0.46875,2007
-101107,Standard Layup,2PT Field Goal,54,19,Layup Shot,LAYUPS,0.3518518518518518,2007
-101107,Reverse Dunk,2PT Field Goal,1,0,Reverse Dunk Shot,DUNKS,0.0,2007
-101107,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2007
-101107,Running Hook Shot,2PT Field Goal,1,0,Running Hook Shot,POST_MOVES,0.0,2007
-101107,Running Jump Shot,2PT Field Goal,4,3,Running Jump Shot,JUMP_SHOTS,0.75,2007
-101107,Standard Layup,2PT Field Goal,2,1,Running Layup Shot,LAYUPS,0.5,2007
-101107,Standard Dunk,2PT Field Goal,3,3,Slam Dunk Shot,DUNKS,1.0,2007
-101107,Tip Shot,2PT Field Goal,2,1,Tip Shot,TIP_SHOTS,0.5,2007
-101107,Turnaround Jump Shot,2PT Field Goal,6,1,Turnaround Jump Shot,JUMP_SHOTS,0.1666666666666666,2007
-101107,Alley Oop Dunk,2PT Field Goal,7,7,Alley Oop Dunk Shot,DUNKS,1.0,2008
-101107,Alley Oop Layup,2PT Field Goal,1,1,Alley Oop Layup shot,LAYUPS,1.0,2008
-101107,Driving Dunk,2PT Field Goal,7,6,Driving Dunk Shot,DUNKS,0.8571428571428571,2008
-101107,Driving Layup,2PT Field Goal,16,8,Driving Layup Shot,LAYUPS,0.5,2008
-101107,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2008
-101107,Standard Dunk,2PT Field Goal,20,16,Dunk Shot,DUNKS,0.8,2008
-101107,Fadeaway Jump Shot,2PT Field Goal,3,2,Fadeaway Jump Shot,JUMP_SHOTS,0.6666666666666666,2008
-101107,Hook Shot,2PT Field Goal,4,1,Hook Shot,POST_MOVES,0.25,2008
-101107,Jump Shot,2PT Field Goal,239,94,Jump Shot,JUMP_SHOTS,0.3933054393305439,2008
-101107,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2008
-101107,Standard Layup,2PT Field Goal,39,12,Layup Shot,LAYUPS,0.3076923076923077,2008
-101107,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2008
-101107,Putback Dunk,2PT Field Goal,1,1,Putback Dunk Shot,DUNKS,1.0,2008
-101107,Putback Layup,2PT Field Goal,5,3,Putback Layup Shot,LAYUPS,0.6,2008
-101107,Reverse Dunk,2PT Field Goal,1,1,Reverse Dunk Shot,DUNKS,1.0,2008
-101107,Running Hook Shot,2PT Field Goal,2,2,Running Hook Shot,POST_MOVES,1.0,2008
-101107,Running Jump Shot,2PT Field Goal,11,5,Running Jump Shot,JUMP_SHOTS,0.4545454545454545,2008
-101107,Standard Layup,2PT Field Goal,5,5,Running Layup Shot,LAYUPS,1.0,2008
-101107,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2008
-101107,Tip Shot,2PT Field Goal,5,2,Tip Shot,TIP_SHOTS,0.4,2008
-101107,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2008
-101107,Turnaround Jump Shot,2PT Field Goal,14,7,Turnaround Jump Shot,JUMP_SHOTS,0.5,2008
-101107,Driving Hook Shot,2PT Field Goal,2,1,Driving Hook Shot,POST_MOVES,0.5,2009
-101107,Driving Jump Shot,2PT Field Goal,5,4,Driving Jump shot,JUMP_SHOTS,0.8,2009
-101107,Driving Layup,2PT Field Goal,13,10,Driving Layup Shot,LAYUPS,0.7692307692307693,2009
-101107,Standard Dunk,2PT Field Goal,5,5,Dunk Shot,DUNKS,1.0,2009
-101107,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2009
-101107,Hook Shot,2PT Field Goal,4,3,Hook Shot,POST_MOVES,0.75,2009
-101107,Jump Shot,2PT Field Goal,75,29,Jump Shot,JUMP_SHOTS,0.3866666666666666,2009
-101107,Jump Shot,3PT Field Goal,71,25,Jump Shot,JUMP_SHOTS,0.528169014084507,2009
-101107,Standard Layup,2PT Field Goal,29,16,Layup Shot,LAYUPS,0.5517241379310345,2009
-101107,Pullup Jump Shot,2PT Field Goal,2,1,Pullup Jump shot,JUMP_SHOTS,0.5,2009
-101107,Putback Dunk,2PT Field Goal,1,1,Putback Dunk Shot,DUNKS,1.0,2009
-101107,Putback Layup,2PT Field Goal,6,2,Putback Layup Shot,LAYUPS,0.3333333333333333,2009
-101107,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2009
-101107,Standard Dunk,2PT Field Goal,2,2,Running Dunk Shot,DUNKS,1.0,2009
-101107,Running Hook Shot,2PT Field Goal,4,2,Running Hook Shot,POST_MOVES,0.5,2009
-101107,Running Jump Shot,2PT Field Goal,13,6,Running Jump Shot,JUMP_SHOTS,0.4615384615384615,2009
-101107,Standard Layup,2PT Field Goal,5,3,Running Layup Shot,LAYUPS,0.6,2009
-101107,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2009
-101107,Tip Shot,2PT Field Goal,3,0,Tip Shot,TIP_SHOTS,0.0,2009
-101107,Turnaround Jump Shot,2PT Field Goal,9,3,Turnaround Jump Shot,JUMP_SHOTS,0.3333333333333333,2009
-101107,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2010
-101107,Alley Oop Layup,2PT Field Goal,1,1,Alley Oop Layup shot,LAYUPS,1.0,2010
-101107,Driving Dunk,2PT Field Goal,4,3,Driving Dunk Shot,DUNKS,0.75,2010
-101107,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2010
-101107,Driving Jump Shot,2PT Field Goal,5,2,Driving Jump shot,JUMP_SHOTS,0.4,2010
-101107,Driving Layup,2PT Field Goal,9,7,Driving Layup Shot,LAYUPS,0.7777777777777778,2010
-101107,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2010
-101107,Standard Dunk,2PT Field Goal,10,10,Dunk Shot,DUNKS,1.0,2010
-101107,Fadeaway Jump Shot,2PT Field Goal,4,3,Fadeaway Jump Shot,JUMP_SHOTS,0.75,2010
-101107,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2010
-101107,Hook Shot,2PT Field Goal,4,2,Hook Shot,POST_MOVES,0.5,2010
-101107,Jump Shot,2PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2010
-101107,Hook Shot,2PT Field Goal,2,2,Jump Hook Shot,POST_MOVES,1.0,2010
-101107,Jump Shot,2PT Field Goal,91,28,Jump Shot,JUMP_SHOTS,0.3076923076923077,2010
-101107,Jump Shot,3PT Field Goal,51,11,Jump Shot,JUMP_SHOTS,0.3235294117647059,2010
-101107,Standard Layup,2PT Field Goal,31,19,Layup Shot,LAYUPS,0.6129032258064516,2010
-101107,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2010
-101107,Putback Dunk,2PT Field Goal,2,2,Putback Dunk Shot,DUNKS,1.0,2010
-101107,Putback Layup,2PT Field Goal,7,4,Putback Layup Shot,LAYUPS,0.5714285714285714,2010
-101107,Putback Dunk,2PT Field Goal,1,0,Putback Slam Dunk Shot,DUNKS,0.0,2010
-101107,Reverse Dunk,2PT Field Goal,1,1,Reverse Slam Dunk Shot,DUNKS,1.0,2010
-101107,Running Jump Shot,2PT Field Goal,1,1,Running Bank shot,JUMP_SHOTS,1.0,2010
-101107,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2010
-101107,Running Hook Shot,2PT Field Goal,5,3,Running Hook Shot,POST_MOVES,0.6,2010
-101107,Running Jump Shot,2PT Field Goal,4,2,Running Jump Shot,JUMP_SHOTS,0.5,2010
-101107,Standard Layup,2PT Field Goal,4,3,Running Layup Shot,LAYUPS,0.75,2010
-101107,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.0,2010
-101107,Tip Shot,2PT Field Goal,8,3,Tip Shot,TIP_SHOTS,0.375,2010
-101107,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,1.0,2010
-101107,Turnaround Hook Shot,2PT Field Goal,2,1,Turnaround Hook Shot,POST_MOVES,0.5,2010
-101107,Turnaround Jump Shot,2PT Field Goal,8,3,Turnaround Jump Shot,JUMP_SHOTS,0.375,2010
-101107,Alley Oop Layup,2PT Field Goal,1,1,Alley Oop Layup shot,LAYUPS,1.0,2011
-101107,Driving Dunk,2PT Field Goal,3,3,Driving Dunk Shot,DUNKS,1.0,2011
-101107,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2011
-101107,Driving Jump Shot,2PT Field Goal,5,2,Driving Jump shot,JUMP_SHOTS,0.4,2011
-101107,Driving Layup,2PT Field Goal,17,12,Driving Layup Shot,LAYUPS,0.7058823529411765,2011
-101107,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2011
-101107,Standard Dunk,2PT Field Goal,6,6,Dunk Shot,DUNKS,1.0,2011
-101107,Fadeaway Jump Shot,2PT Field Goal,3,2,Fadeaway Jump Shot,JUMP_SHOTS,0.6666666666666666,2011
-101107,Hook Shot,2PT Field Goal,3,0,Hook Shot,POST_MOVES,0.0,2011
-101107,Hook Shot,2PT Field Goal,2,1,Jump Hook Shot,POST_MOVES,0.5,2011
-101107,Jump Shot,2PT Field Goal,102,45,Jump Shot,JUMP_SHOTS,0.4411764705882353,2011
-101107,Jump Shot,3PT Field Goal,60,20,Jump Shot,JUMP_SHOTS,0.5,2011
-101107,Standard Layup,2PT Field Goal,35,23,Layup Shot,LAYUPS,0.6571428571428571,2011
-101107,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2011
-101107,Putback Layup,2PT Field Goal,4,2,Putback Layup Shot,LAYUPS,0.5,2011
-101107,Reverse Layup,2PT Field Goal,2,0,Reverse Layup Shot,LAYUPS,0.0,2011
-101107,Running Hook Shot,2PT Field Goal,1,1,Running Hook Shot,POST_MOVES,1.0,2011
-101107,Running Jump Shot,2PT Field Goal,3,2,Running Jump Shot,JUMP_SHOTS,0.6666666666666666,2011
-101107,Running Jump Shot,3PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2011
-101107,Standard Layup,2PT Field Goal,5,3,Running Layup Shot,LAYUPS,0.6,2011
-101107,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.0,2011
-101107,Tip Shot,2PT Field Goal,7,6,Tip Shot,TIP_SHOTS,0.8571428571428571,2011
-101107,Turnaround Jump Shot,2PT Field Goal,2,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2011
-101107,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2011
-101107,Turnaround Jump Shot,2PT Field Goal,10,6,Turnaround Jump Shot,JUMP_SHOTS,0.6,2011
-101107,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2012
-101107,Driving Jump Shot,2PT Field Goal,2,1,Driving Jump shot,JUMP_SHOTS,0.5,2012
-101107,Driving Layup,2PT Field Goal,8,2,Driving Layup Shot,LAYUPS,0.25,2012
-101107,Standard Dunk,2PT Field Goal,4,4,Dunk Shot,DUNKS,1.0,2012
-101107,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2012
-101107,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,2012
-101107,Hook Shot,2PT Field Goal,1,1,Jump Hook Shot,POST_MOVES,1.0,2012
-101107,Jump Shot,2PT Field Goal,57,18,Jump Shot,JUMP_SHOTS,0.3157894736842105,2012
-101107,Jump Shot,3PT Field Goal,63,22,Jump Shot,JUMP_SHOTS,0.5238095238095238,2012
-101107,Standard Layup,2PT Field Goal,23,10,Layup Shot,LAYUPS,0.4347826086956521,2012
-101107,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2012
-101107,Putback Dunk,2PT Field Goal,1,0,Putback Dunk Shot,DUNKS,0.0,2012
-101107,Putback Layup,2PT Field Goal,6,3,Putback Layup Shot,LAYUPS,0.5,2012
-101107,Reverse Layup,2PT Field Goal,4,3,Reverse Layup Shot,LAYUPS,0.75,2012
-101107,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2012
-101107,Running Hook Shot,2PT Field Goal,1,1,Running Hook Shot,POST_MOVES,1.0,2012
-101107,Running Jump Shot,2PT Field Goal,3,2,Running Jump Shot,JUMP_SHOTS,0.6666666666666666,2012
-101107,Standard Layup,2PT Field Goal,6,5,Running Layup Shot,LAYUPS,0.8333333333333334,2012
-101107,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2012
-101107,Tip Shot,2PT Field Goal,6,3,Tip Shot,TIP_SHOTS,0.5,2012
-101107,Turnaround Jump Shot,2PT Field Goal,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,0.5,2012
-101107,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2013
-101107,Alley Oop Layup,2PT Field Goal,1,1,Alley Oop Layup shot,LAYUPS,1.0,2013
-101107,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2013
-101107,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,2013
-101107,Jump Shot,3PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.5,2013
-101107,Hook Shot,2PT Field Goal,1,1,Jump Hook Shot,POST_MOVES,1.0,2013
-101107,Jump Shot,2PT Field Goal,29,10,Jump Shot,JUMP_SHOTS,0.3448275862068966,2013
-101107,Jump Shot,3PT Field Goal,39,12,Jump Shot,JUMP_SHOTS,0.4615384615384615,2013
-101107,Standard Layup,2PT Field Goal,17,9,Layup Shot,LAYUPS,0.5294117647058824,2013
-101107,Putback Dunk,2PT Field Goal,1,1,Putback Dunk Shot,DUNKS,1.0,2013
-101107,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2013
-101107,Running Hook Shot,2PT Field Goal,1,1,Running Bank Hook Shot,POST_MOVES,1.0,2013
-101107,Running Jump Shot,2PT Field Goal,7,1,Running Jump Shot,JUMP_SHOTS,0.1428571428571428,2013
-101107,Standard Layup,2PT Field Goal,2,2,Running Layup Shot,LAYUPS,1.0,2013
-101107,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2013
-101107,Tip Shot,2PT Field Goal,5,3,Tip Shot,TIP_SHOTS,0.6,2013
-101107,Turnaround Jump Shot,2PT Field Goal,2,1,Turnaround Jump Shot,JUMP_SHOTS,0.5,2013
-101107,Driving Dunk,2PT Field Goal,1,0,Driving Dunk Shot,DUNKS,0.0,2014
-101107,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2014
-101107,Driving Layup,2PT Field Goal,3,2,Driving Layup Shot,LAYUPS,0.6666666666666666,2014
-101107,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2014
-101107,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2014
-101107,Hook Shot,2PT Field Goal,2,1,Jump Hook Shot,POST_MOVES,0.5,2014
-101107,Jump Shot,2PT Field Goal,43,11,Jump Shot,JUMP_SHOTS,0.2558139534883721,2014
-101107,Jump Shot,3PT Field Goal,45,17,Jump Shot,JUMP_SHOTS,0.5666666666666667,2014
-101107,Standard Layup,2PT Field Goal,14,11,Layup Shot,LAYUPS,0.7857142857142857,2014
-101107,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2014
-101107,Putback Layup,2PT Field Goal,2,2,Putback Layup Shot,LAYUPS,1.0,2014
-101107,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2014
-101107,Running Jump Shot,2PT Field Goal,1,1,Running Bank shot,JUMP_SHOTS,1.0,2014
-101107,Running Jump Shot,2PT Field Goal,3,1,Running Jump Shot,JUMP_SHOTS,0.3333333333333333,2014
-101107,Running Jump Shot,3PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2014
-101107,Tip Shot,2PT Field Goal,6,4,Tip Shot,TIP_SHOTS,0.6666666666666666,2014
-101107,Driving Dunk,2PT Field Goal,2,2,Driving Dunk Shot,DUNKS,1.0,2015
-101107,Driving Jump Shot,2PT Field Goal,1,0,Driving Jump shot,JUMP_SHOTS,0.0,2015
-101107,Driving Layup,2PT Field Goal,10,9,Driving Layup Shot,LAYUPS,0.9,2015
-101107,Standard Dunk,2PT Field Goal,3,3,Dunk Shot,DUNKS,1.0,2015
-101107,Floating Jump Shot,2PT Field Goal,3,1,Floating Jump shot,FLOATING_SHOTS,0.3333333333333333,2015
-101107,Hook Shot,2PT Field Goal,3,0,Hook Shot,POST_MOVES,0.0,2015
-101107,Jump Shot,2PT Field Goal,80,37,Jump Shot,JUMP_SHOTS,0.4625,2015
-101107,Jump Shot,3PT Field Goal,151,53,Jump Shot,JUMP_SHOTS,0.5264900662251656,2015
-101107,Standard Layup,2PT Field Goal,28,16,Layup Shot,LAYUPS,0.5714285714285714,2015
-101107,Putback Layup,2PT Field Goal,2,2,Putback Layup Shot,LAYUPS,1.0,2015
-101107,Running Hook Shot,2PT Field Goal,1,0,Running Hook Shot,POST_MOVES,0.0,2015
-101107,Running Jump Shot,2PT Field Goal,4,2,Running Jump Shot,JUMP_SHOTS,0.5,2015
-101107,Tip Shot,2PT Field Goal,6,4,Tip Shot,TIP_SHOTS,0.6666666666666666,2015
-101107,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2015
-101107,Alley Oop Layup,2PT Field Goal,1,1,Alley Oop Layup shot,LAYUPS,1.0,2016
-101107,Specialty Dunk,2PT Field Goal,3,2,Cutting Dunk Shot,DUNKS,0.6666666666666666,2016
-101107,Standard Layup,2PT Field Goal,5,5,Cutting Layup Shot,LAYUPS,1.0,2016
-101107,Driving Jump Shot,2PT Field Goal,1,1,Driving Bank shot,JUMP_SHOTS,1.0,2016
-101107,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2016
-101107,Floating Jump Shot,2PT Field Goal,6,5,Driving Floating Jump Shot,FLOATING_SHOTS,0.8333333333333334,2016
-101107,Driving Layup,2PT Field Goal,15,7,Driving Layup Shot,LAYUPS,0.4666666666666667,2016
-101107,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,2016
-101107,Fadeaway Jump Shot,2PT Field Goal,2,2,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2016
-101107,Finger Roll,2PT Field Goal,1,0,Finger Roll Layup Shot,LAYUPS,0.0,2016
-101107,Floating Jump Shot,2PT Field Goal,12,5,Floating Jump shot,FLOATING_SHOTS,0.4166666666666667,2016
-101107,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2016
-101107,Jump Shot,2PT Field Goal,4,3,Jump Bank Shot,JUMP_SHOTS,0.75,2016
-101107,Jump Shot,3PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.5,2016
-101107,Jump Shot,2PT Field Goal,72,32,Jump Shot,JUMP_SHOTS,0.4444444444444444,2016
-101107,Jump Shot,3PT Field Goal,241,93,Jump Shot,JUMP_SHOTS,0.578838174273859,2016
-101107,Standard Layup,2PT Field Goal,39,11,Layup Shot,LAYUPS,0.282051282051282,2016
-101107,Pullup Jump Shot,2PT Field Goal,6,2,Pullup Jump shot,JUMP_SHOTS,0.3333333333333333,2016
-101107,Putback Dunk,2PT Field Goal,1,1,Putback Dunk Shot,DUNKS,1.0,2016
-101107,Putback Layup,2PT Field Goal,15,11,Putback Layup Shot,LAYUPS,0.7333333333333333,2016
-101107,Reverse Layup,2PT Field Goal,2,1,Reverse Layup Shot,LAYUPS,0.5,2016
-101107,Running Jump Shot,2PT Field Goal,2,2,Running Jump Shot,JUMP_SHOTS,1.0,2016
-101107,Standard Layup,2PT Field Goal,3,3,Running Layup Shot,LAYUPS,1.0,2016
-101107,Step Back Jump Shot,3PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2016
-101107,Putback Layup,2PT Field Goal,15,8,Tip Layup Shot,LAYUPS,0.5333333333333333,2016
-101107,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Bank shot,JUMP_SHOTS,1.0,2016
-101107,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,1.0,2016
-101107,Turnaround Jump Shot,2PT Field Goal,6,4,Turnaround Jump Shot,JUMP_SHOTS,0.6666666666666666,2016
-101107,Specialty Dunk,2PT Field Goal,5,5,Cutting Dunk Shot,DUNKS,1.0,2017
-101107,Finger Roll,2PT Field Goal,1,1,Cutting Finger Roll Layup Shot,LAYUPS,1.0,2017
-101107,Standard Layup,2PT Field Goal,12,10,Cutting Layup Shot,LAYUPS,0.8333333333333334,2017
-101107,Driving Dunk,2PT Field Goal,3,3,Driving Dunk Shot,DUNKS,1.0,2017
-101107,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,1.0,2017
-101107,Floating Jump Shot,2PT Field Goal,9,7,Driving Floating Jump Shot,FLOATING_SHOTS,0.7777777777777778,2017
-101107,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2017
-101107,Driving Layup,2PT Field Goal,17,12,Driving Layup Shot,LAYUPS,0.7058823529411765,2017
-101107,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2017
-101107,Floating Jump Shot,2PT Field Goal,12,5,Floating Jump shot,FLOATING_SHOTS,0.4166666666666667,2017
-101107,Hook Shot,2PT Field Goal,4,3,Hook Shot,POST_MOVES,0.75,2017
-101107,Jump Shot,2PT Field Goal,3,3,Jump Bank Shot,JUMP_SHOTS,1.0,2017
-101107,Jump Shot,2PT Field Goal,68,18,Jump Shot,JUMP_SHOTS,0.2647058823529412,2017
-101107,Jump Shot,3PT Field Goal,196,69,Jump Shot,JUMP_SHOTS,0.5280612244897959,2017
-101107,Standard Layup,2PT Field Goal,26,14,Layup Shot,LAYUPS,0.5384615384615384,2017
-101107,Pullup Jump Shot,2PT Field Goal,2,0,Pullup Jump shot,JUMP_SHOTS,0.0,2017
-101107,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2017
-101107,Putback Layup,2PT Field Goal,8,4,Putback Layup Shot,LAYUPS,0.5,2017
-101107,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2017
-101107,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2017
-101107,Running Jump Shot,2PT Field Goal,4,0,Running Jump Shot,JUMP_SHOTS,0.0,2017
-101107,Standard Layup,2PT Field Goal,3,3,Running Layup Shot,LAYUPS,1.0,2017
-101107,Step Back Jump Shot,3PT Field Goal,2,0,Step Back Jump shot,JUMP_SHOTS,0.0,2017
-101107,Putback Layup,2PT Field Goal,11,3,Tip Layup Shot,LAYUPS,0.2727272727272727,2017
-101107,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,1.0,2017
-101107,Turnaround Hook Shot,2PT Field Goal,2,0,Turnaround Hook Shot,POST_MOVES,0.0,2017
-101107,Turnaround Jump Shot,2PT Field Goal,6,4,Turnaround Jump Shot,JUMP_SHOTS,0.6666666666666666,2017
-101107,Alley Oop Layup,2PT Field Goal,1,1,Alley Oop Layup shot,LAYUPS,1.0,2018
-101107,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2018
-101107,Standard Layup,2PT Field Goal,15,11,Cutting Layup Shot,LAYUPS,0.7333333333333333,2018
-101107,Driving Dunk,2PT Field Goal,2,2,Driving Dunk Shot,DUNKS,1.0,2018
-101107,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2018
-101107,Floating Jump Shot,2PT Field Goal,2,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,1.0,2018
-101107,Floating Jump Shot,2PT Field Goal,11,5,Driving Floating Jump Shot,FLOATING_SHOTS,0.4545454545454545,2018
-101107,Driving Layup,2PT Field Goal,9,3,Driving Layup Shot,LAYUPS,0.3333333333333333,2018
-101107,Floating Jump Shot,2PT Field Goal,15,10,Floating Jump shot,FLOATING_SHOTS,0.6666666666666666,2018
-101107,Hook Shot,2PT Field Goal,3,2,Hook Shot,POST_MOVES,0.6666666666666666,2018
-101107,Jump Shot,2PT Field Goal,2,1,Jump Bank Shot,JUMP_SHOTS,0.5,2018
-101107,Jump Shot,2PT Field Goal,24,5,Jump Shot,JUMP_SHOTS,0.2083333333333333,2018
-101107,Jump Shot,3PT Field Goal,170,64,Jump Shot,JUMP_SHOTS,0.5647058823529412,2018
-101107,Standard Layup,2PT Field Goal,30,12,Layup Shot,LAYUPS,0.4,2018
-101107,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2018
-101107,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2018
-101107,Putback Layup,2PT Field Goal,8,6,Putback Layup Shot,LAYUPS,0.75,2018
-101107,Reverse Layup,2PT Field Goal,6,5,Reverse Layup Shot,LAYUPS,0.8333333333333334,2018
-101107,Finger Roll,2PT Field Goal,1,1,Running Finger Roll Layup Shot,LAYUPS,1.0,2018
-101107,Running Jump Shot,2PT Field Goal,3,2,Running Jump Shot,JUMP_SHOTS,0.6666666666666666,2018
-101107,Running Jump Shot,3PT Field Goal,2,2,Running Jump Shot,JUMP_SHOTS,1.5,2018
-101107,Standard Layup,2PT Field Goal,2,2,Running Layup Shot,LAYUPS,1.0,2018
-101107,Putback Layup,2PT Field Goal,6,2,Tip Layup Shot,LAYUPS,0.3333333333333333,2018
-101107,Turnaround Hook Shot,2PT Field Goal,2,1,Turnaround Bank Hook Shot,POST_MOVES,0.5,2018
-101107,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,1.0,2018
-101107,Turnaround Jump Shot,2PT Field Goal,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,0.5,2018
-101107,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2018
-101107,Turnaround Jump Shot,2PT Field Goal,7,5,Turnaround Jump Shot,JUMP_SHOTS,0.7142857142857143,2018
-101107,Specialty Dunk,2PT Field Goal,2,2,Cutting Dunk Shot,DUNKS,1.0,2019
-101107,Standard Layup,2PT Field Goal,13,8,Cutting Layup Shot,LAYUPS,0.6153846153846154,2019
-101107,Driving Dunk,2PT Field Goal,2,2,Driving Dunk Shot,DUNKS,1.0,2019
-101107,Finger Roll,2PT Field Goal,3,2,Driving Finger Roll Layup Shot,LAYUPS,0.6666666666666666,2019
-101107,Floating Jump Shot,2PT Field Goal,3,3,Driving Floating Bank Jump Shot,FLOATING_SHOTS,1.0,2019
-101107,Floating Jump Shot,2PT Field Goal,15,5,Driving Floating Jump Shot,FLOATING_SHOTS,0.3333333333333333,2019
-101107,Driving Hook Shot,2PT Field Goal,2,0,Driving Hook Shot,POST_MOVES,0.0,2019
-101107,Driving Layup,2PT Field Goal,12,3,Driving Layup Shot,LAYUPS,0.25,2019
-101107,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2019
-101107,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2019
-101107,Fadeaway Jump Shot,2PT Field Goal,2,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2019
-101107,Floating Jump Shot,2PT Field Goal,18,8,Floating Jump shot,FLOATING_SHOTS,0.4444444444444444,2019
-101107,Hook Shot,2PT Field Goal,5,1,Hook Shot,POST_MOVES,0.2,2019
-101107,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2019
-101107,Jump Shot,2PT Field Goal,20,7,Jump Shot,JUMP_SHOTS,0.35,2019
-101107,Jump Shot,3PT Field Goal,242,92,Jump Shot,JUMP_SHOTS,0.5702479338842975,2019
-101107,Standard Layup,2PT Field Goal,22,12,Layup Shot,LAYUPS,0.5454545454545454,2019
-101107,Pullup Jump Shot,2PT Field Goal,3,1,Pullup Jump shot,JUMP_SHOTS,0.3333333333333333,2019
-101107,Pullup Jump Shot,3PT Field Goal,2,0,Pullup Jump shot,JUMP_SHOTS,0.0,2019
-101107,Putback Layup,2PT Field Goal,7,5,Putback Layup Shot,LAYUPS,0.7142857142857143,2019
-101107,Reverse Layup,2PT Field Goal,5,5,Reverse Layup Shot,LAYUPS,1.0,2019
-101107,Finger Roll,2PT Field Goal,1,1,Running Finger Roll Layup Shot,LAYUPS,1.0,2019
-101107,Running Jump Shot,2PT Field Goal,3,2,Running Jump Shot,JUMP_SHOTS,0.6666666666666666,2019
-101107,Running Jump Shot,3PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.75,2019
-101107,Standard Layup,2PT Field Goal,2,1,Running Layup Shot,LAYUPS,0.5,2019
-101107,Step Back Jump Shot,3PT Field Goal,4,2,Step Back Jump shot,JUMP_SHOTS,0.75,2019
-101107,Putback Layup,2PT Field Goal,4,1,Tip Layup Shot,LAYUPS,0.25,2019
-101107,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Bank Hook Shot,POST_MOVES,1.0,2019
-101107,Turnaround Jump Shot,2PT Field Goal,2,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,0.5,2019
-101107,Turnaround Jump Shot,2PT Field Goal,3,1,Turnaround Fadeaway shot,JUMP_SHOTS,0.3333333333333333,2019
-101107,Turnaround Hook Shot,2PT Field Goal,2,2,Turnaround Hook Shot,POST_MOVES,1.0,2019
-101107,Turnaround Jump Shot,2PT Field Goal,8,4,Turnaround Jump Shot,JUMP_SHOTS,0.5,2019
-101107,Alley Oop Layup,2PT Field Goal,1,1,Alley Oop Layup shot,LAYUPS,1.0,2020
-101107,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2020
-101107,Standard Layup,2PT Field Goal,2,2,Cutting Layup Shot,LAYUPS,1.0,2020
-101107,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2020
-101107,Floating Jump Shot,2PT Field Goal,12,3,Driving Floating Jump Shot,FLOATING_SHOTS,0.25,2020
-101107,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2020
-101107,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2020
-101107,Fadeaway Jump Shot,2PT Field Goal,2,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2020
-101107,Floating Jump Shot,2PT Field Goal,5,1,Floating Jump shot,FLOATING_SHOTS,0.2,2020
-101107,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2020
-101107,Jump Shot,2PT Field Goal,2,2,Jump Bank Shot,JUMP_SHOTS,1.0,2020
-101107,Jump Shot,2PT Field Goal,6,2,Jump Shot,JUMP_SHOTS,0.3333333333333333,2020
-101107,Jump Shot,3PT Field Goal,99,33,Jump Shot,JUMP_SHOTS,0.5,2020
-101107,Standard Layup,2PT Field Goal,6,3,Layup Shot,LAYUPS,0.5,2020
-101107,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2020
-101107,Pullup Jump Shot,3PT Field Goal,2,0,Pullup Jump shot,JUMP_SHOTS,0.0,2020
-101107,Putback Layup,2PT Field Goal,3,2,Putback Layup Shot,LAYUPS,0.6666666666666666,2020
-101107,Reverse Layup,2PT Field Goal,4,4,Reverse Layup Shot,LAYUPS,1.0,2020
-101107,Running Jump Shot,3PT Field Goal,2,0,Running Jump Shot,JUMP_SHOTS,0.0,2020
-101107,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2020
-101107,Putback Layup,2PT Field Goal,3,3,Tip Layup Shot,LAYUPS,1.0,2020
-101107,Turnaround Jump Shot,2PT Field Goal,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,0.5,2020
-101107,Turnaround Hook Shot,2PT Field Goal,4,1,Turnaround Hook Shot,POST_MOVES,0.25,2020
-101107,Turnaround Jump Shot,2PT Field Goal,5,2,Turnaround Jump Shot,JUMP_SHOTS,0.4,2020
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Marvin Williams,101107,Driving Dunk,2,5,5,Driving Dunk Shot,DUNKS,,2006
+Marvin Williams,101107,Driving Layup,2,9,6,Driving Layup Shot,LAYUPS,,2006
+Marvin Williams,101107,Standard Dunk,2,39,33,Dunk Shot,DUNKS,,2006
+Marvin Williams,101107,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2006
+Marvin Williams,101107,Specialty Dunk,2,3,3,Follow Up Dunk Shot,DUNKS,,2006
+Marvin Williams,101107,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2006
+Marvin Williams,101107,Jump Shot,2,264,93,Jump Shot,JUMP_SHOTS,,2006
+Marvin Williams,101107,Jump Shot,3,53,13,Jump Shot,JUMP_SHOTS,,2006
+Marvin Williams,101107,Standard Layup,2,124,62,Layup Shot,LAYUPS,,2006
+Marvin Williams,101107,Reverse Layup,2,2,2,Reverse Layup Shot,LAYUPS,,2006
+Marvin Williams,101107,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2006
+Marvin Williams,101107,Running Jump Shot,2,5,3,Running Jump Shot,JUMP_SHOTS,,2006
+Marvin Williams,101107,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,2006
+Marvin Williams,101107,Tip Shot,2,19,8,Tip Shot,TIP_SHOTS,,2006
+Marvin Williams,101107,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2007
+Marvin Williams,101107,Driving Dunk,2,3,2,Driving Dunk Shot,DUNKS,,2007
+Marvin Williams,101107,Finger Roll,2,1,1,Driving Finger Roll Shot,LAYUPS,,2007
+Marvin Williams,101107,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2007
+Marvin Williams,101107,Driving Layup,2,25,16,Driving Layup Shot,LAYUPS,,2007
+Marvin Williams,101107,Standard Dunk,2,20,16,Dunk Shot,DUNKS,,2007
+Marvin Williams,101107,Fadeaway Jump Shot,2,3,3,Fadeaway Jump Shot,JUMP_SHOTS,,2007
+Marvin Williams,101107,Specialty Dunk,2,1,1,Follow Up Dunk Shot,DUNKS,,2007
+Marvin Williams,101107,Hook Shot,2,8,6,Hook Shot,POST_MOVES,,2007
+Marvin Williams,101107,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2007
+Marvin Williams,101107,Jump Shot,2,418,173,Jump Shot,JUMP_SHOTS,,2007
+Marvin Williams,101107,Jump Shot,3,45,11,Jump Shot,JUMP_SHOTS,,2007
+Marvin Williams,101107,Standard Layup,2,130,50,Layup Shot,LAYUPS,,2007
+Marvin Williams,101107,Reverse Dunk,2,1,0,Reverse Dunk Shot,DUNKS,,2007
+Marvin Williams,101107,Reverse Layup,2,2,0,Reverse Layup Shot,LAYUPS,,2007
+Marvin Williams,101107,Running Hook Shot,2,2,1,Running Hook Shot,POST_MOVES,,2007
+Marvin Williams,101107,Running Jump Shot,2,7,5,Running Jump Shot,JUMP_SHOTS,,2007
+Marvin Williams,101107,Standard Layup,2,6,4,Running Layup Shot,LAYUPS,,2007
+Marvin Williams,101107,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,2007
+Marvin Williams,101107,Tip Shot,2,9,3,Tip Shot,TIP_SHOTS,,2007
+Marvin Williams,101107,Turnaround Hook Shot,2,2,2,Turnaround Hook Shot,POST_MOVES,,2007
+Marvin Williams,101107,Turnaround Jump Shot,2,13,2,Turnaround Jump Shot,JUMP_SHOTS,,2007
+Marvin Williams,101107,Alley Oop Dunk,2,12,11,Alley Oop Dunk Shot,DUNKS,,2008
+Marvin Williams,101107,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2008
+Marvin Williams,101107,Driving Dunk,2,10,9,Driving Dunk Shot,DUNKS,,2008
+Marvin Williams,101107,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2008
+Marvin Williams,101107,Driving Layup,2,34,17,Driving Layup Shot,LAYUPS,,2008
+Marvin Williams,101107,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2008
+Marvin Williams,101107,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2008
+Marvin Williams,101107,Standard Dunk,2,47,41,Dunk Shot,DUNKS,,2008
+Marvin Williams,101107,Fadeaway Jump Shot,2,6,3,Fadeaway Jump Shot,JUMP_SHOTS,,2008
+Marvin Williams,101107,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2008
+Marvin Williams,101107,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2008
+Marvin Williams,101107,Hook Shot,2,9,4,Hook Shot,POST_MOVES,,2008
+Marvin Williams,101107,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2008
+Marvin Williams,101107,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2008
+Marvin Williams,101107,Jump Shot,2,555,223,Jump Shot,JUMP_SHOTS,,2008
+Marvin Williams,101107,Jump Shot,3,10,1,Jump Shot,JUMP_SHOTS,,2008
+Marvin Williams,101107,Standard Layup,2,108,37,Layup Shot,LAYUPS,,2008
+Marvin Williams,101107,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2008
+Marvin Williams,101107,Putback Dunk,2,3,3,Putback Dunk Shot,DUNKS,,2008
+Marvin Williams,101107,Putback Layup,2,13,9,Putback Layup Shot,LAYUPS,,2008
+Marvin Williams,101107,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2008
+Marvin Williams,101107,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2008
+Marvin Williams,101107,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2008
+Marvin Williams,101107,Running Hook Shot,2,10,6,Running Hook Shot,POST_MOVES,,2008
+Marvin Williams,101107,Running Jump Shot,2,33,16,Running Jump Shot,JUMP_SHOTS,,2008
+Marvin Williams,101107,Standard Layup,2,13,11,Running Layup Shot,LAYUPS,,2008
+Marvin Williams,101107,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2008
+Marvin Williams,101107,Tip Shot,2,10,3,Tip Shot,TIP_SHOTS,,2008
+Marvin Williams,101107,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2008
+Marvin Williams,101107,Turnaround Jump Shot,2,26,12,Turnaround Jump Shot,JUMP_SHOTS,,2008
+Marvin Williams,101107,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2009
+Marvin Williams,101107,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2009
+Marvin Williams,101107,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2009
+Marvin Williams,101107,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,,2009
+Marvin Williams,101107,Driving Jump Shot,2,13,10,Driving Jump shot,JUMP_SHOTS,,2009
+Marvin Williams,101107,Driving Layup,2,35,23,Driving Layup Shot,LAYUPS,,2009
+Marvin Williams,101107,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2009
+Marvin Williams,101107,Standard Dunk,2,18,15,Dunk Shot,DUNKS,,2009
+Marvin Williams,101107,Fadeaway Jump Shot,2,3,1,Fadeaway Jump Shot,JUMP_SHOTS,,2009
+Marvin Williams,101107,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2009
+Marvin Williams,101107,Hook Shot,2,9,5,Hook Shot,POST_MOVES,,2009
+Marvin Williams,101107,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2009
+Marvin Williams,101107,Hook Shot,2,3,2,Jump Hook Shot,POST_MOVES,,2009
+Marvin Williams,101107,Jump Shot,2,182,64,Jump Shot,JUMP_SHOTS,,2009
+Marvin Williams,101107,Jump Shot,3,154,55,Jump Shot,JUMP_SHOTS,,2009
+Marvin Williams,101107,Standard Layup,2,66,32,Layup Shot,LAYUPS,,2009
+Marvin Williams,101107,Pullup Jump Shot,2,2,1,Pullup Jump shot,JUMP_SHOTS,,2009
+Marvin Williams,101107,Putback Dunk,2,4,4,Putback Dunk Shot,DUNKS,,2009
+Marvin Williams,101107,Putback Layup,2,11,5,Putback Layup Shot,LAYUPS,,2009
+Marvin Williams,101107,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2009
+Marvin Williams,101107,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2009
+Marvin Williams,101107,Standard Dunk,2,8,8,Running Dunk Shot,DUNKS,,2009
+Marvin Williams,101107,Running Hook Shot,2,11,6,Running Hook Shot,POST_MOVES,,2009
+Marvin Williams,101107,Running Jump Shot,2,32,13,Running Jump Shot,JUMP_SHOTS,,2009
+Marvin Williams,101107,Standard Layup,2,17,12,Running Layup Shot,LAYUPS,,2009
+Marvin Williams,101107,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2009
+Marvin Williams,101107,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2009
+Marvin Williams,101107,Tip Shot,2,15,5,Tip Shot,TIP_SHOTS,,2009
+Marvin Williams,101107,Turnaround Jump Shot,2,3,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2009
+Marvin Williams,101107,Turnaround Hook Shot,2,2,2,Turnaround Hook Shot,POST_MOVES,,2009
+Marvin Williams,101107,Turnaround Jump Shot,2,16,9,Turnaround Jump Shot,JUMP_SHOTS,,2009
+Marvin Williams,101107,Alley Oop Dunk,2,4,4,Alley Oop Dunk Shot,DUNKS,,2010
+Marvin Williams,101107,Alley Oop Layup,2,3,3,Alley Oop Layup shot,LAYUPS,,2010
+Marvin Williams,101107,Driving Dunk,2,7,4,Driving Dunk Shot,DUNKS,,2010
+Marvin Williams,101107,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2010
+Marvin Williams,101107,Driving Jump Shot,2,13,4,Driving Jump shot,JUMP_SHOTS,,2010
+Marvin Williams,101107,Driving Layup,2,28,17,Driving Layup Shot,LAYUPS,,2010
+Marvin Williams,101107,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2010
+Marvin Williams,101107,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2010
+Marvin Williams,101107,Standard Dunk,2,26,25,Dunk Shot,DUNKS,,2010
+Marvin Williams,101107,Fadeaway Jump Shot,2,11,7,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+Marvin Williams,101107,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2010
+Marvin Williams,101107,Hook Shot,2,12,2,Hook Shot,POST_MOVES,,2010
+Marvin Williams,101107,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2010
+Marvin Williams,101107,Hook Shot,2,3,3,Jump Hook Shot,POST_MOVES,,2010
+Marvin Williams,101107,Jump Shot,2,212,68,Jump Shot,JUMP_SHOTS,,2010
+Marvin Williams,101107,Jump Shot,3,132,40,Jump Shot,JUMP_SHOTS,,2010
+Marvin Williams,101107,Standard Layup,2,82,41,Layup Shot,LAYUPS,,2010
+Marvin Williams,101107,Pullup Jump Shot,2,5,4,Pullup Jump shot,JUMP_SHOTS,,2010
+Marvin Williams,101107,Putback Dunk,2,8,8,Putback Dunk Shot,DUNKS,,2010
+Marvin Williams,101107,Putback Layup,2,9,5,Putback Layup Shot,LAYUPS,,2010
+Marvin Williams,101107,Putback Dunk,2,1,0,Putback Slam Dunk Shot,DUNKS,,2010
+Marvin Williams,101107,Reverse Dunk,2,1,1,Reverse Dunk Shot,DUNKS,,2010
+Marvin Williams,101107,Reverse Layup,2,2,0,Reverse Layup Shot,LAYUPS,,2010
+Marvin Williams,101107,Reverse Dunk,2,1,1,Reverse Slam Dunk Shot,DUNKS,,2010
+Marvin Williams,101107,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2010
+Marvin Williams,101107,Standard Dunk,2,8,8,Running Dunk Shot,DUNKS,,2010
+Marvin Williams,101107,Running Hook Shot,2,9,5,Running Hook Shot,POST_MOVES,,2010
+Marvin Williams,101107,Running Jump Shot,2,10,4,Running Jump Shot,JUMP_SHOTS,,2010
+Marvin Williams,101107,Standard Layup,2,18,14,Running Layup Shot,LAYUPS,,2010
+Marvin Williams,101107,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2010
+Marvin Williams,101107,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2010
+Marvin Williams,101107,Tip Shot,2,26,16,Tip Shot,TIP_SHOTS,,2010
+Marvin Williams,101107,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2010
+Marvin Williams,101107,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2010
+Marvin Williams,101107,Turnaround Jump Shot,2,18,8,Turnaround Jump Shot,JUMP_SHOTS,,2010
+Marvin Williams,101107,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2011
+Marvin Williams,101107,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2011
+Marvin Williams,101107,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2011
+Marvin Williams,101107,Driving Jump Shot,2,10,2,Driving Jump shot,JUMP_SHOTS,,2011
+Marvin Williams,101107,Driving Layup,2,30,18,Driving Layup Shot,LAYUPS,,2011
+Marvin Williams,101107,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2011
+Marvin Williams,101107,Standard Dunk,2,10,10,Dunk Shot,DUNKS,,2011
+Marvin Williams,101107,Fadeaway Jump Shot,2,3,2,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Marvin Williams,101107,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2011
+Marvin Williams,101107,Hook Shot,2,9,4,Hook Shot,POST_MOVES,,2011
+Marvin Williams,101107,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2011
+Marvin Williams,101107,Hook Shot,2,3,2,Jump Hook Shot,POST_MOVES,,2011
+Marvin Williams,101107,Jump Shot,2,215,85,Jump Shot,JUMP_SHOTS,,2011
+Marvin Williams,101107,Jump Shot,3,107,37,Jump Shot,JUMP_SHOTS,,2011
+Marvin Williams,101107,Standard Layup,2,58,39,Layup Shot,LAYUPS,,2011
+Marvin Williams,101107,Pullup Jump Shot,2,4,3,Pullup Jump shot,JUMP_SHOTS,,2011
+Marvin Williams,101107,Pullup Jump Shot,3,2,0,Pullup Jump shot,JUMP_SHOTS,,2011
+Marvin Williams,101107,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2011
+Marvin Williams,101107,Putback Layup,2,10,5,Putback Layup Shot,LAYUPS,,2011
+Marvin Williams,101107,Reverse Layup,2,5,2,Reverse Layup Shot,LAYUPS,,2011
+Marvin Williams,101107,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2011
+Marvin Williams,101107,Running Hook Shot,2,2,1,Running Hook Shot,POST_MOVES,,2011
+Marvin Williams,101107,Running Jump Shot,2,7,2,Running Jump Shot,JUMP_SHOTS,,2011
+Marvin Williams,101107,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2011
+Marvin Williams,101107,Standard Layup,2,13,7,Running Layup Shot,LAYUPS,,2011
+Marvin Williams,101107,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2011
+Marvin Williams,101107,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2011
+Marvin Williams,101107,Tip Shot,2,9,7,Tip Shot,TIP_SHOTS,,2011
+Marvin Williams,101107,Turnaround Jump Shot,2,2,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2011
+Marvin Williams,101107,Turnaround Hook Shot,2,3,2,Turnaround Hook Shot,POST_MOVES,,2011
+Marvin Williams,101107,Turnaround Jump Shot,2,20,7,Turnaround Jump Shot,JUMP_SHOTS,,2011
+Marvin Williams,101107,Alley Oop Dunk,2,2,1,Alley Oop Dunk Shot,DUNKS,,2012
+Marvin Williams,101107,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2012
+Marvin Williams,101107,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2012
+Marvin Williams,101107,Driving Jump Shot,2,4,1,Driving Jump shot,JUMP_SHOTS,,2012
+Marvin Williams,101107,Driving Layup,2,14,4,Driving Layup Shot,LAYUPS,,2012
+Marvin Williams,101107,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2012
+Marvin Williams,101107,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2012
+Marvin Williams,101107,Standard Dunk,2,12,9,Dunk Shot,DUNKS,,2012
+Marvin Williams,101107,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2012
+Marvin Williams,101107,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2012
+Marvin Williams,101107,Hook Shot,2,3,1,Hook Shot,POST_MOVES,,2012
+Marvin Williams,101107,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2012
+Marvin Williams,101107,Hook Shot,2,2,1,Jump Hook Shot,POST_MOVES,,2012
+Marvin Williams,101107,Jump Shot,2,138,45,Jump Shot,JUMP_SHOTS,,2012
+Marvin Williams,101107,Jump Shot,3,149,58,Jump Shot,JUMP_SHOTS,,2012
+Marvin Williams,101107,Standard Layup,2,64,27,Layup Shot,LAYUPS,,2012
+Marvin Williams,101107,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2012
+Marvin Williams,101107,Putback Dunk,2,2,1,Putback Dunk Shot,DUNKS,,2012
+Marvin Williams,101107,Putback Layup,2,14,8,Putback Layup Shot,LAYUPS,,2012
+Marvin Williams,101107,Reverse Layup,2,6,4,Reverse Layup Shot,LAYUPS,,2012
+Marvin Williams,101107,Standard Dunk,2,5,5,Running Dunk Shot,DUNKS,,2012
+Marvin Williams,101107,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2012
+Marvin Williams,101107,Running Jump Shot,2,9,5,Running Jump Shot,JUMP_SHOTS,,2012
+Marvin Williams,101107,Standard Layup,2,12,10,Running Layup Shot,LAYUPS,,2012
+Marvin Williams,101107,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2012
+Marvin Williams,101107,Standard Dunk,2,2,2,Running Slam Dunk Shot,DUNKS,,2012
+Marvin Williams,101107,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2012
+Marvin Williams,101107,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2012
+Marvin Williams,101107,Tip Shot,2,14,6,Tip Shot,TIP_SHOTS,,2012
+Marvin Williams,101107,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2012
+Marvin Williams,101107,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Marvin Williams,101107,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2013
+Marvin Williams,101107,Alley Oop Layup,2,5,4,Alley Oop Layup shot,LAYUPS,,2013
+Marvin Williams,101107,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2013
+Marvin Williams,101107,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2013
+Marvin Williams,101107,Driving Layup,2,10,6,Driving Layup Shot,LAYUPS,,2013
+Marvin Williams,101107,Driving Dunk,2,2,2,Driving Slam Dunk Shot,DUNKS,,2013
+Marvin Williams,101107,Standard Dunk,2,10,9,Dunk Shot,DUNKS,,2013
+Marvin Williams,101107,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Marvin Williams,101107,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2013
+Marvin Williams,101107,Floating Jump Shot,2,5,3,Floating Jump shot,FLOATING_SHOTS,,2013
+Marvin Williams,101107,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2013
+Marvin Williams,101107,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2013
+Marvin Williams,101107,Jump Shot,3,1,1,Jump Bank Shot,JUMP_SHOTS,,2013
+Marvin Williams,101107,Hook Shot,2,2,1,Jump Hook Shot,POST_MOVES,,2013
+Marvin Williams,101107,Jump Shot,2,148,45,Jump Shot,JUMP_SHOTS,,2013
+Marvin Williams,101107,Jump Shot,3,164,52,Jump Shot,JUMP_SHOTS,,2013
+Marvin Williams,101107,Standard Layup,2,54,32,Layup Shot,LAYUPS,,2013
+Marvin Williams,101107,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2013
+Marvin Williams,101107,Pullup Jump Shot,3,1,1,Pullup Jump shot,JUMP_SHOTS,,2013
+Marvin Williams,101107,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2013
+Marvin Williams,101107,Putback Layup,2,3,3,Putback Layup Shot,LAYUPS,,2013
+Marvin Williams,101107,Reverse Layup,2,4,4,Reverse Layup Shot,LAYUPS,,2013
+Marvin Williams,101107,Running Hook Shot,2,1,1,Running Bank Hook Shot,POST_MOVES,,2013
+Marvin Williams,101107,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2013
+Marvin Williams,101107,Running Hook Shot,2,2,2,Running Hook Shot,POST_MOVES,,2013
+Marvin Williams,101107,Running Jump Shot,2,14,3,Running Jump Shot,JUMP_SHOTS,,2013
+Marvin Williams,101107,Standard Layup,2,3,3,Running Layup Shot,LAYUPS,,2013
+Marvin Williams,101107,Tip Shot,2,1,0,Running Tip Shot,TIP_SHOTS,,2013
+Marvin Williams,101107,Standard Dunk,2,6,6,Slam Dunk Shot,DUNKS,,2013
+Marvin Williams,101107,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2013
+Marvin Williams,101107,Tip Shot,2,12,8,Tip Shot,TIP_SHOTS,,2013
+Marvin Williams,101107,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2013
+Marvin Williams,101107,Turnaround Jump Shot,2,6,3,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Marvin Williams,101107,Driving Dunk,2,2,0,Driving Dunk Shot,DUNKS,,2014
+Marvin Williams,101107,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2014
+Marvin Williams,101107,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2014
+Marvin Williams,101107,Driving Jump Shot,2,3,0,Driving Jump shot,JUMP_SHOTS,,2014
+Marvin Williams,101107,Driving Layup,2,11,9,Driving Layup Shot,LAYUPS,,2014
+Marvin Williams,101107,Driving Dunk,2,3,3,Driving Slam Dunk Shot,DUNKS,,2014
+Marvin Williams,101107,Standard Dunk,2,7,7,Dunk Shot,DUNKS,,2014
+Marvin Williams,101107,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2014
+Marvin Williams,101107,Floating Jump Shot,2,5,4,Floating Jump shot,FLOATING_SHOTS,,2014
+Marvin Williams,101107,Hook Shot,2,2,2,Hook Shot,POST_MOVES,,2014
+Marvin Williams,101107,Jump Shot,2,3,3,Jump Bank Shot,JUMP_SHOTS,,2014
+Marvin Williams,101107,Hook Shot,2,5,2,Jump Hook Shot,POST_MOVES,,2014
+Marvin Williams,101107,Jump Shot,2,133,41,Jump Shot,JUMP_SHOTS,,2014
+Marvin Williams,101107,Jump Shot,3,226,80,Jump Shot,JUMP_SHOTS,,2014
+Marvin Williams,101107,Standard Layup,2,39,29,Layup Shot,LAYUPS,,2014
+Marvin Williams,101107,Pullup Jump Shot,2,2,2,Pullup Jump shot,JUMP_SHOTS,,2014
+Marvin Williams,101107,Pullup Jump Shot,3,5,4,Pullup Jump shot,JUMP_SHOTS,,2014
+Marvin Williams,101107,Putback Layup,2,4,4,Putback Layup Shot,LAYUPS,,2014
+Marvin Williams,101107,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2014
+Marvin Williams,101107,Running Jump Shot,2,6,3,Running Bank shot,JUMP_SHOTS,,2014
+Marvin Williams,101107,Running Hook Shot,2,2,2,Running Hook Shot,POST_MOVES,,2014
+Marvin Williams,101107,Running Jump Shot,2,18,5,Running Jump Shot,JUMP_SHOTS,,2014
+Marvin Williams,101107,Running Jump Shot,3,2,0,Running Jump Shot,JUMP_SHOTS,,2014
+Marvin Williams,101107,Standard Layup,2,6,4,Running Layup Shot,LAYUPS,,2014
+Marvin Williams,101107,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2014
+Marvin Williams,101107,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2014
+Marvin Williams,101107,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2014
+Marvin Williams,101107,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2014
+Marvin Williams,101107,Tip Shot,2,26,16,Tip Shot,TIP_SHOTS,,2014
+Marvin Williams,101107,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2014
+Marvin Williams,101107,Turnaround Jump Shot,2,3,3,Turnaround Jump Shot,JUMP_SHOTS,,2014
+Marvin Williams,101107,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2015
+Marvin Williams,101107,Driving Jump Shot,2,3,1,Driving Jump shot,JUMP_SHOTS,,2015
+Marvin Williams,101107,Driving Layup,2,16,14,Driving Layup Shot,LAYUPS,,2015
+Marvin Williams,101107,Driving Dunk,2,1,0,Driving Slam Dunk Shot,DUNKS,,2015
+Marvin Williams,101107,Standard Dunk,2,6,5,Dunk Shot,DUNKS,,2015
+Marvin Williams,101107,Floating Jump Shot,2,8,4,Floating Jump shot,FLOATING_SHOTS,,2015
+Marvin Williams,101107,Hook Shot,2,3,0,Hook Shot,POST_MOVES,,2015
+Marvin Williams,101107,Jump Shot,2,122,50,Jump Shot,JUMP_SHOTS,,2015
+Marvin Williams,101107,Jump Shot,3,263,95,Jump Shot,JUMP_SHOTS,,2015
+Marvin Williams,101107,Standard Layup,2,38,19,Layup Shot,LAYUPS,,2015
+Marvin Williams,101107,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2015
+Marvin Williams,101107,Pullup Jump Shot,3,2,0,Pullup Jump shot,JUMP_SHOTS,,2015
+Marvin Williams,101107,Putback Layup,2,5,5,Putback Layup Shot,LAYUPS,,2015
+Marvin Williams,101107,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2015
+Marvin Williams,101107,Running Hook Shot,2,2,1,Running Hook Shot,POST_MOVES,,2015
+Marvin Williams,101107,Running Jump Shot,2,9,3,Running Jump Shot,JUMP_SHOTS,,2015
+Marvin Williams,101107,Step Back Jump Shot,2,1,0,Step Back Jump shot,JUMP_SHOTS,,2015
+Marvin Williams,101107,Tip Shot,2,8,5,Tip Shot,TIP_SHOTS,,2015
+Marvin Williams,101107,Turnaround Jump Shot,2,2,2,Turnaround Jump Shot,JUMP_SHOTS,,2015
+Marvin Williams,101107,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2016
+Marvin Williams,101107,Specialty Dunk,2,4,3,Cutting Dunk Shot,DUNKS,,2016
+Marvin Williams,101107,Finger Roll,2,2,2,Cutting Finger Roll Layup Shot,LAYUPS,,2016
+Marvin Williams,101107,Standard Layup,2,10,8,Cutting Layup Shot,LAYUPS,,2016
+Marvin Williams,101107,Driving Jump Shot,2,2,1,Driving Bank shot,JUMP_SHOTS,,2016
+Marvin Williams,101107,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2016
+Marvin Williams,101107,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Marvin Williams,101107,Floating Jump Shot,2,10,8,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Marvin Williams,101107,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2016
+Marvin Williams,101107,Driving Layup,2,20,11,Driving Layup Shot,LAYUPS,,2016
+Marvin Williams,101107,Standard Dunk,2,9,7,Dunk Shot,DUNKS,,2016
+Marvin Williams,101107,Fadeaway Jump Shot,2,2,2,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Marvin Williams,101107,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2016
+Marvin Williams,101107,Floating Jump Shot,2,27,12,Floating Jump shot,FLOATING_SHOTS,,2016
+Marvin Williams,101107,Hook Shot,2,3,1,Hook Shot,POST_MOVES,,2016
+Marvin Williams,101107,Jump Shot,2,4,3,Jump Bank Shot,JUMP_SHOTS,,2016
+Marvin Williams,101107,Jump Shot,3,2,1,Jump Bank Shot,JUMP_SHOTS,,2016
+Marvin Williams,101107,Jump Shot,2,124,46,Jump Shot,JUMP_SHOTS,,2016
+Marvin Williams,101107,Jump Shot,3,372,149,Jump Shot,JUMP_SHOTS,,2016
+Marvin Williams,101107,Standard Layup,2,54,15,Layup Shot,LAYUPS,,2016
+Marvin Williams,101107,Pullup Jump Shot,2,10,5,Pullup Jump shot,JUMP_SHOTS,,2016
+Marvin Williams,101107,Pullup Jump Shot,3,2,2,Pullup Jump shot,JUMP_SHOTS,,2016
+Marvin Williams,101107,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2016
+Marvin Williams,101107,Putback Layup,2,19,14,Putback Layup Shot,LAYUPS,,2016
+Marvin Williams,101107,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2016
+Marvin Williams,101107,Running Jump Shot,2,5,5,Running Jump Shot,JUMP_SHOTS,,2016
+Marvin Williams,101107,Standard Layup,2,5,4,Running Layup Shot,LAYUPS,,2016
+Marvin Williams,101107,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2016
+Marvin Williams,101107,Putback Layup,2,27,17,Tip Layup Shot,LAYUPS,,2016
+Marvin Williams,101107,Turnaround Hook Shot,2,1,1,Turnaround Bank Hook Shot,POST_MOVES,,2016
+Marvin Williams,101107,Turnaround Jump Shot,2,3,3,Turnaround Bank shot,JUMP_SHOTS,,2016
+Marvin Williams,101107,Turnaround Jump Shot,2,3,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2016
+Marvin Williams,101107,Turnaround Hook Shot,2,4,3,Turnaround Hook Shot,POST_MOVES,,2016
+Marvin Williams,101107,Turnaround Jump Shot,2,11,8,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Marvin Williams,101107,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2017
+Marvin Williams,101107,Specialty Dunk,2,8,8,Cutting Dunk Shot,DUNKS,,2017
+Marvin Williams,101107,Finger Roll,2,3,1,Cutting Finger Roll Layup Shot,LAYUPS,,2017
+Marvin Williams,101107,Standard Layup,2,24,17,Cutting Layup Shot,LAYUPS,,2017
+Marvin Williams,101107,Driving Jump Shot,2,2,1,Driving Bank shot,JUMP_SHOTS,,2017
+Marvin Williams,101107,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2017
+Marvin Williams,101107,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Marvin Williams,101107,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2017
+Marvin Williams,101107,Floating Jump Shot,2,12,7,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Marvin Williams,101107,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2017
+Marvin Williams,101107,Driving Layup,2,27,17,Driving Layup Shot,LAYUPS,,2017
+Marvin Williams,101107,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2017
+Marvin Williams,101107,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2017
+Marvin Williams,101107,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Marvin Williams,101107,Floating Jump Shot,2,23,11,Floating Jump shot,FLOATING_SHOTS,,2017
+Marvin Williams,101107,Hook Shot,2,7,3,Hook Shot,POST_MOVES,,2017
+Marvin Williams,101107,Jump Shot,2,5,4,Jump Bank Shot,JUMP_SHOTS,,2017
+Marvin Williams,101107,Jump Shot,2,109,33,Jump Shot,JUMP_SHOTS,,2017
+Marvin Williams,101107,Jump Shot,3,349,124,Jump Shot,JUMP_SHOTS,,2017
+Marvin Williams,101107,Standard Layup,2,52,24,Layup Shot,LAYUPS,,2017
+Marvin Williams,101107,Pullup Jump Shot,2,4,1,Pullup Jump shot,JUMP_SHOTS,,2017
+Marvin Williams,101107,Pullup Jump Shot,3,3,0,Pullup Jump shot,JUMP_SHOTS,,2017
+Marvin Williams,101107,Putback Layup,2,12,7,Putback Layup Shot,LAYUPS,,2017
+Marvin Williams,101107,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2017
+Marvin Williams,101107,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2017
+Marvin Williams,101107,Running Jump Shot,2,6,2,Running Jump Shot,JUMP_SHOTS,,2017
+Marvin Williams,101107,Standard Layup,2,8,8,Running Layup Shot,LAYUPS,,2017
+Marvin Williams,101107,Step Back Jump Shot,3,2,0,Step Back Jump shot,JUMP_SHOTS,,2017
+Marvin Williams,101107,Putback Layup,2,20,10,Tip Layup Shot,LAYUPS,,2017
+Marvin Williams,101107,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2017
+Marvin Williams,101107,Turnaround Jump Shot,2,2,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2017
+Marvin Williams,101107,Turnaround Hook Shot,2,2,0,Turnaround Hook Shot,POST_MOVES,,2017
+Marvin Williams,101107,Turnaround Jump Shot,2,8,5,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Marvin Williams,101107,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2018
+Marvin Williams,101107,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2018
+Marvin Williams,101107,Standard Layup,2,27,18,Cutting Layup Shot,LAYUPS,,2018
+Marvin Williams,101107,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2018
+Marvin Williams,101107,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Marvin Williams,101107,Floating Jump Shot,2,4,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Marvin Williams,101107,Floating Jump Shot,2,18,8,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Marvin Williams,101107,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2018
+Marvin Williams,101107,Driving Layup,2,15,6,Driving Layup Shot,LAYUPS,,2018
+Marvin Williams,101107,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,2018
+Marvin Williams,101107,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+Marvin Williams,101107,Floating Jump Shot,2,25,18,Floating Jump shot,FLOATING_SHOTS,,2018
+Marvin Williams,101107,Hook Shot,2,4,3,Hook Shot,POST_MOVES,,2018
+Marvin Williams,101107,Jump Shot,2,3,1,Jump Bank Shot,JUMP_SHOTS,,2018
+Marvin Williams,101107,Jump Shot,2,35,8,Jump Shot,JUMP_SHOTS,,2018
+Marvin Williams,101107,Jump Shot,3,297,122,Jump Shot,JUMP_SHOTS,,2018
+Marvin Williams,101107,Standard Layup,2,50,20,Layup Shot,LAYUPS,,2018
+Marvin Williams,101107,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2018
+Marvin Williams,101107,Pullup Jump Shot,3,5,2,Pullup Jump shot,JUMP_SHOTS,,2018
+Marvin Williams,101107,Putback Layup,2,12,8,Putback Layup Shot,LAYUPS,,2018
+Marvin Williams,101107,Reverse Layup,2,8,6,Reverse Layup Shot,LAYUPS,,2018
+Marvin Williams,101107,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2018
+Marvin Williams,101107,Running Jump Shot,2,5,2,Running Jump Shot,JUMP_SHOTS,,2018
+Marvin Williams,101107,Running Jump Shot,3,3,2,Running Jump Shot,JUMP_SHOTS,,2018
+Marvin Williams,101107,Standard Layup,2,3,3,Running Layup Shot,LAYUPS,,2018
+Marvin Williams,101107,Putback Layup,2,13,5,Tip Layup Shot,LAYUPS,,2018
+Marvin Williams,101107,Turnaround Hook Shot,2,2,1,Turnaround Bank Hook Shot,POST_MOVES,,2018
+Marvin Williams,101107,Turnaround Jump Shot,2,2,2,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2018
+Marvin Williams,101107,Turnaround Jump Shot,2,3,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2018
+Marvin Williams,101107,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2018
+Marvin Williams,101107,Turnaround Jump Shot,2,13,7,Turnaround Jump Shot,JUMP_SHOTS,,2018
+Marvin Williams,101107,Specialty Dunk,2,3,3,Cutting Dunk Shot,DUNKS,,2019
+Marvin Williams,101107,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2019
+Marvin Williams,101107,Standard Layup,2,20,13,Cutting Layup Shot,LAYUPS,,2019
+Marvin Williams,101107,Driving Dunk,2,4,2,Driving Dunk Shot,DUNKS,,2019
+Marvin Williams,101107,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Marvin Williams,101107,Floating Jump Shot,2,3,3,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Marvin Williams,101107,Floating Jump Shot,2,23,7,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Marvin Williams,101107,Driving Hook Shot,2,2,0,Driving Hook Shot,POST_MOVES,,2019
+Marvin Williams,101107,Driving Layup,2,19,6,Driving Layup Shot,LAYUPS,,2019
+Marvin Williams,101107,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2019
+Marvin Williams,101107,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2019
+Marvin Williams,101107,Fadeaway Jump Shot,2,4,2,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+Marvin Williams,101107,Floating Jump Shot,2,31,16,Floating Jump shot,FLOATING_SHOTS,,2019
+Marvin Williams,101107,Hook Shot,2,13,6,Hook Shot,POST_MOVES,,2019
+Marvin Williams,101107,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2019
+Marvin Williams,101107,Jump Shot,3,1,0,Jump Bank Shot,JUMP_SHOTS,,2019
+Marvin Williams,101107,Jump Shot,2,27,9,Jump Shot,JUMP_SHOTS,,2019
+Marvin Williams,101107,Jump Shot,3,368,133,Jump Shot,JUMP_SHOTS,,2019
+Marvin Williams,101107,Standard Layup,2,39,24,Layup Shot,LAYUPS,,2019
+Marvin Williams,101107,Pullup Jump Shot,2,4,1,Pullup Jump shot,JUMP_SHOTS,,2019
+Marvin Williams,101107,Pullup Jump Shot,3,5,2,Pullup Jump shot,JUMP_SHOTS,,2019
+Marvin Williams,101107,Putback Layup,2,13,9,Putback Layup Shot,LAYUPS,,2019
+Marvin Williams,101107,Reverse Layup,2,5,5,Reverse Layup Shot,LAYUPS,,2019
+Marvin Williams,101107,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2019
+Marvin Williams,101107,Running Jump Shot,2,5,3,Running Jump Shot,JUMP_SHOTS,,2019
+Marvin Williams,101107,Running Jump Shot,3,4,3,Running Jump Shot,JUMP_SHOTS,,2019
+Marvin Williams,101107,Standard Layup,2,5,2,Running Layup Shot,LAYUPS,,2019
+Marvin Williams,101107,Step Back Jump Shot,3,4,2,Step Back Jump shot,JUMP_SHOTS,,2019
+Marvin Williams,101107,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2019
+Marvin Williams,101107,Putback Layup,2,13,2,Tip Layup Shot,LAYUPS,,2019
+Marvin Williams,101107,Turnaround Hook Shot,2,1,1,Turnaround Bank Hook Shot,POST_MOVES,,2019
+Marvin Williams,101107,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2019
+Marvin Williams,101107,Turnaround Jump Shot,2,5,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2019
+Marvin Williams,101107,Turnaround Hook Shot,2,6,4,Turnaround Hook Shot,POST_MOVES,,2019
+Marvin Williams,101107,Turnaround Jump Shot,2,12,6,Turnaround Jump Shot,JUMP_SHOTS,,2019
+Marvin Williams,101107,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2020
+Marvin Williams,101107,Specialty Dunk,2,1,1,Cutting Dunk Shot,DUNKS,,2020
+Marvin Williams,101107,Standard Layup,2,6,6,Cutting Layup Shot,LAYUPS,,2020
+Marvin Williams,101107,Driving Dunk,2,1,0,Driving Dunk Shot,DUNKS,,2020
+Marvin Williams,101107,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2020
+Marvin Williams,101107,Floating Jump Shot,2,16,6,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Marvin Williams,101107,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,,2020
+Marvin Williams,101107,Driving Layup,2,1,0,Driving Layup Shot,LAYUPS,,2020
+Marvin Williams,101107,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2020
+Marvin Williams,101107,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+Marvin Williams,101107,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2020
+Marvin Williams,101107,Floating Jump Shot,2,9,3,Floating Jump shot,FLOATING_SHOTS,,2020
+Marvin Williams,101107,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2020
+Marvin Williams,101107,Hook Shot,2,6,4,Hook Shot,POST_MOVES,,2020
+Marvin Williams,101107,Jump Shot,2,3,3,Jump Bank Shot,JUMP_SHOTS,,2020
+Marvin Williams,101107,Jump Shot,3,1,0,Jump Bank Shot,JUMP_SHOTS,,2020
+Marvin Williams,101107,Jump Shot,2,9,3,Jump Shot,JUMP_SHOTS,,2020
+Marvin Williams,101107,Jump Shot,3,149,56,Jump Shot,JUMP_SHOTS,,2020
+Marvin Williams,101107,Standard Layup,2,9,6,Layup Shot,LAYUPS,,2020
+Marvin Williams,101107,Pullup Jump Shot,2,2,2,Pullup Jump shot,JUMP_SHOTS,,2020
+Marvin Williams,101107,Pullup Jump Shot,3,3,0,Pullup Jump shot,JUMP_SHOTS,,2020
+Marvin Williams,101107,Putback Layup,2,4,3,Putback Layup Shot,LAYUPS,,2020
+Marvin Williams,101107,Reverse Layup,2,4,4,Reverse Layup Shot,LAYUPS,,2020
+Marvin Williams,101107,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2020
+Marvin Williams,101107,Running Jump Shot,3,3,0,Running Jump Shot,JUMP_SHOTS,,2020
+Marvin Williams,101107,Standard Layup,2,2,0,Running Layup Shot,LAYUPS,,2020
+Marvin Williams,101107,Putback Layup,2,5,5,Tip Layup Shot,LAYUPS,,2020
+Marvin Williams,101107,Turnaround Hook Shot,2,1,1,Turnaround Bank Hook Shot,POST_MOVES,,2020
+Marvin Williams,101107,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2020
+Marvin Williams,101107,Turnaround Jump Shot,2,4,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2020
+Marvin Williams,101107,Turnaround Hook Shot,2,7,1,Turnaround Hook Shot,POST_MOVES,,2020
+Marvin Williams,101107,Turnaround Jump Shot,2,10,5,Turnaround Jump Shot,JUMP_SHOTS,,2020

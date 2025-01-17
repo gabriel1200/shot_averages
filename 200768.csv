@@ -1,71 +1,514 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-200768,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2007
-200768,Driving Layup,2PT Field Goal,2,2,Driving Layup Shot,LAYUPS,1.0,2008
-200768,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2008
-200768,Finger Roll,2PT Field Goal,1,0,Finger Roll Layup Shot,LAYUPS,0.0,2008
-200768,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2008
-200768,Jump Shot,2PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,2008
-200768,Jump Shot,3PT Field Goal,9,1,Jump Shot,JUMP_SHOTS,0.1666666666666666,2008
-200768,Standard Layup,2PT Field Goal,7,3,Layup Shot,LAYUPS,0.4285714285714285,2008
-200768,Pullup Jump Shot,2PT Field Goal,2,0,Pullup Jump shot,JUMP_SHOTS,0.0,2008
-200768,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2008
-200768,Finger Roll,2PT Field Goal,1,1,Running Finger Roll Layup Shot,LAYUPS,1.0,2008
-200768,Running Jump Shot,2PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.5,2008
-200768,Reverse Layup,2PT Field Goal,1,1,Running Reverse Layup Shot,LAYUPS,1.0,2008
-200768,Step Back Jump Shot,2PT Field Goal,2,2,Step Back Jump shot,JUMP_SHOTS,1.0,2008
-200768,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2009
-200768,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2009
-200768,Driving Layup,2PT Field Goal,10,7,Driving Layup Shot,LAYUPS,0.7,2010
-200768,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2010
-200768,Floating Jump Shot,2PT Field Goal,2,1,Floating Jump shot,FLOATING_SHOTS,0.5,2010
-200768,Jump Shot,2PT Field Goal,6,1,Jump Shot,JUMP_SHOTS,0.1666666666666666,2010
-200768,Jump Shot,3PT Field Goal,20,3,Jump Shot,JUMP_SHOTS,0.225,2010
-200768,Standard Layup,2PT Field Goal,10,3,Layup Shot,LAYUPS,0.3,2010
-200768,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2010
-200768,Running Jump Shot,2PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.5,2010
-200768,Reverse Layup,2PT Field Goal,1,0,Running Reverse Layup Shot,LAYUPS,0.0,2010
-200768,Step Back Jump Shot,2PT Field Goal,2,0,Step Back Jump shot,JUMP_SHOTS,0.0,2010
-200768,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2011
-200768,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2011
-200768,Fadeaway Jump Shot,2PT Field Goal,2,1,Fadeaway Jump Shot,JUMP_SHOTS,0.5,2011
-200768,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2011
-200768,Jump Shot,2PT Field Goal,6,2,Jump Shot,JUMP_SHOTS,0.3333333333333333,2011
-200768,Jump Shot,3PT Field Goal,17,7,Jump Shot,JUMP_SHOTS,0.6176470588235294,2011
-200768,Standard Layup,2PT Field Goal,3,1,Layup Shot,LAYUPS,0.3333333333333333,2011
-200768,Pullup Jump Shot,3PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.5,2011
-200768,Running Jump Shot,2PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.5,2011
-200768,Driving Layup,2PT Field Goal,10,6,Driving Layup Shot,LAYUPS,0.6,2012
-200768,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2012
-200768,Floating Jump Shot,2PT Field Goal,5,1,Floating Jump shot,FLOATING_SHOTS,0.2,2012
-200768,Jump Shot,3PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2012
-200768,Jump Shot,2PT Field Goal,16,6,Jump Shot,JUMP_SHOTS,0.375,2012
-200768,Jump Shot,3PT Field Goal,24,10,Jump Shot,JUMP_SHOTS,0.625,2012
-200768,Standard Layup,2PT Field Goal,7,4,Layup Shot,LAYUPS,0.5714285714285714,2012
-200768,Pullup Jump Shot,2PT Field Goal,5,3,Pullup Jump shot,JUMP_SHOTS,0.6,2012
-200768,Pullup Jump Shot,3PT Field Goal,2,2,Pullup Jump shot,JUMP_SHOTS,1.5,2012
-200768,Running Jump Shot,2PT Field Goal,4,1,Running Jump Shot,JUMP_SHOTS,0.25,2012
-200768,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2012
-200768,Reverse Layup,2PT Field Goal,1,1,Running Reverse Layup Shot,LAYUPS,1.0,2012
-200768,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2012
-200768,Standard Layup,2PT Field Goal,4,3,Cutting Layup Shot,LAYUPS,0.75,2024
-200768,Floating Jump Shot,2PT Field Goal,2,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,1.0,2024
-200768,Floating Jump Shot,2PT Field Goal,5,3,Driving Floating Jump Shot,FLOATING_SHOTS,0.6,2024
-200768,Driving Hook Shot,2PT Field Goal,1,1,Driving Hook Shot,POST_MOVES,1.0,2024
-200768,Driving Layup,2PT Field Goal,5,3,Driving Layup Shot,LAYUPS,0.6,2024
-200768,Driving Layup,2PT Field Goal,3,1,Driving Reverse Layup Shot,LAYUPS,0.3333333333333333,2024
-200768,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2024
-200768,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2024
-200768,Jump Shot,2PT Field Goal,2,2,Jump Shot,JUMP_SHOTS,1.0,2024
-200768,Jump Shot,3PT Field Goal,49,21,Jump Shot,JUMP_SHOTS,0.6428571428571429,2024
-200768,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2024
-200768,Pullup Jump Shot,2PT Field Goal,8,5,Pullup Jump shot,JUMP_SHOTS,0.625,2024
-200768,Pullup Jump Shot,3PT Field Goal,12,4,Pullup Jump shot,JUMP_SHOTS,0.5,2024
-200768,Putback Layup,2PT Field Goal,1,0,Putback Layup Shot,LAYUPS,0.0,2024
-200768,Running Jump Shot,3PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.75,2024
-200768,Standard Layup,2PT Field Goal,2,2,Running Layup Shot,LAYUPS,1.0,2024
-200768,Running Jump Shot,3PT Field Goal,5,2,Running Pull-Up Jump Shot,JUMP_SHOTS,0.6,2024
-200768,Step Back Jump Shot,3PT Field Goal,4,2,Step Back Jump shot,JUMP_SHOTS,0.75,2024
-200768,Putback Layup,2PT Field Goal,1,0,Tip Layup Shot,LAYUPS,0.0,2024
-200768,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2024
-200768,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2024
-200768,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Kyle Lowry,200768,Driving Layup,2,8,4,Driving Layup Shot,LAYUPS,,2007
+Kyle Lowry,200768,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2007
+Kyle Lowry,200768,Jump Shot,2,15,2,Jump Shot,JUMP_SHOTS,,2007
+Kyle Lowry,200768,Jump Shot,3,3,2,Jump Shot,JUMP_SHOTS,,2007
+Kyle Lowry,200768,Standard Layup,2,9,4,Layup Shot,LAYUPS,,2007
+Kyle Lowry,200768,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2007
+Kyle Lowry,200768,Running Jump Shot,2,1,1,Running Jump Shot,JUMP_SHOTS,,2007
+Kyle Lowry,200768,Finger Roll,2,4,3,Driving Finger Roll Layup Shot,LAYUPS,,2008
+Kyle Lowry,200768,Driving Jump Shot,2,1,1,Driving Jump shot,JUMP_SHOTS,,2008
+Kyle Lowry,200768,Driving Layup,2,82,49,Driving Layup Shot,LAYUPS,,2008
+Kyle Lowry,200768,Driving Layup,2,8,5,Driving Reverse Layup Shot,LAYUPS,,2008
+Kyle Lowry,200768,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2008
+Kyle Lowry,200768,Fadeaway Jump Shot,2,11,4,Fadeaway Jump Shot,JUMP_SHOTS,,2008
+Kyle Lowry,200768,Finger Roll,2,3,2,Finger Roll Layup Shot,LAYUPS,,2008
+Kyle Lowry,200768,Floating Jump Shot,2,13,8,Floating Jump shot,FLOATING_SHOTS,,2008
+Kyle Lowry,200768,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2008
+Kyle Lowry,200768,Jump Shot,2,255,81,Jump Shot,JUMP_SHOTS,,2008
+Kyle Lowry,200768,Jump Shot,3,25,7,Jump Shot,JUMP_SHOTS,,2008
+Kyle Lowry,200768,Standard Layup,2,113,52,Layup Shot,LAYUPS,,2008
+Kyle Lowry,200768,Pullup Jump Shot,2,14,7,Pullup Jump shot,JUMP_SHOTS,,2008
+Kyle Lowry,200768,Pullup Jump Shot,3,1,1,Pullup Jump shot,JUMP_SHOTS,,2008
+Kyle Lowry,200768,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2008
+Kyle Lowry,200768,Reverse Layup,2,5,2,Reverse Layup Shot,LAYUPS,,2008
+Kyle Lowry,200768,Running Jump Shot,2,2,2,Running Bank shot,JUMP_SHOTS,,2008
+Kyle Lowry,200768,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2008
+Kyle Lowry,200768,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2008
+Kyle Lowry,200768,Running Jump Shot,2,18,10,Running Jump Shot,JUMP_SHOTS,,2008
+Kyle Lowry,200768,Standard Layup,2,15,4,Running Layup Shot,LAYUPS,,2008
+Kyle Lowry,200768,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2008
+Kyle Lowry,200768,Step Back Jump Shot,2,2,2,Step Back Jump shot,JUMP_SHOTS,,2008
+Kyle Lowry,200768,Tip Shot,2,6,5,Tip Shot,TIP_SHOTS,,2008
+Kyle Lowry,200768,Turnaround Jump Shot,2,2,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2008
+Kyle Lowry,200768,Turnaround Jump Shot,2,4,3,Turnaround Jump Shot,JUMP_SHOTS,,2008
+Kyle Lowry,200768,Finger Roll,2,2,0,Driving Finger Roll Layup Shot,LAYUPS,,2009
+Kyle Lowry,200768,Driving Jump Shot,2,2,2,Driving Jump shot,JUMP_SHOTS,,2009
+Kyle Lowry,200768,Driving Layup,2,69,47,Driving Layup Shot,LAYUPS,,2009
+Kyle Lowry,200768,Fadeaway Jump Shot,2,3,1,Fadeaway Jump Shot,JUMP_SHOTS,,2009
+Kyle Lowry,200768,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2009
+Kyle Lowry,200768,Floating Jump Shot,2,4,0,Floating Jump shot,FLOATING_SHOTS,,2009
+Kyle Lowry,200768,Jump Shot,2,3,2,Jump Bank Shot,JUMP_SHOTS,,2009
+Kyle Lowry,200768,Jump Shot,2,190,57,Jump Shot,JUMP_SHOTS,,2009
+Kyle Lowry,200768,Jump Shot,3,9,4,Jump Shot,JUMP_SHOTS,,2009
+Kyle Lowry,200768,Standard Layup,2,100,45,Layup Shot,LAYUPS,,2009
+Kyle Lowry,200768,Pullup Jump Shot,2,15,10,Pullup Jump shot,JUMP_SHOTS,,2009
+Kyle Lowry,200768,Reverse Layup,2,5,2,Reverse Layup Shot,LAYUPS,,2009
+Kyle Lowry,200768,Running Jump Shot,2,3,0,Running Bank shot,JUMP_SHOTS,,2009
+Kyle Lowry,200768,Running Jump Shot,2,15,9,Running Jump Shot,JUMP_SHOTS,,2009
+Kyle Lowry,200768,Standard Layup,2,5,3,Running Layup Shot,LAYUPS,,2009
+Kyle Lowry,200768,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2009
+Kyle Lowry,200768,Step Back Jump Shot,2,4,3,Step Back Jump shot,JUMP_SHOTS,,2009
+Kyle Lowry,200768,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2009
+Kyle Lowry,200768,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2009
+Kyle Lowry,200768,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2009
+Kyle Lowry,200768,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2010
+Kyle Lowry,200768,Driving Jump Shot,2,2,1,Driving Jump shot,JUMP_SHOTS,,2010
+Kyle Lowry,200768,Driving Layup,2,76,51,Driving Layup Shot,LAYUPS,,2010
+Kyle Lowry,200768,Driving Layup,2,4,3,Driving Reverse Layup Shot,LAYUPS,,2010
+Kyle Lowry,200768,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2010
+Kyle Lowry,200768,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+Kyle Lowry,200768,Floating Jump Shot,2,7,5,Floating Jump shot,FLOATING_SHOTS,,2010
+Kyle Lowry,200768,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2010
+Kyle Lowry,200768,Jump Shot,2,108,22,Jump Shot,JUMP_SHOTS,,2010
+Kyle Lowry,200768,Jump Shot,3,105,30,Jump Shot,JUMP_SHOTS,,2010
+Kyle Lowry,200768,Standard Layup,2,89,35,Layup Shot,LAYUPS,,2010
+Kyle Lowry,200768,Pullup Jump Shot,2,12,8,Pullup Jump shot,JUMP_SHOTS,,2010
+Kyle Lowry,200768,Pullup Jump Shot,3,4,0,Pullup Jump shot,JUMP_SHOTS,,2010
+Kyle Lowry,200768,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2010
+Kyle Lowry,200768,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2010
+Kyle Lowry,200768,Running Jump Shot,2,4,3,Running Bank shot,JUMP_SHOTS,,2010
+Kyle Lowry,200768,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2010
+Kyle Lowry,200768,Running Jump Shot,2,25,15,Running Jump Shot,JUMP_SHOTS,,2010
+Kyle Lowry,200768,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2010
+Kyle Lowry,200768,Standard Layup,2,3,0,Running Layup Shot,LAYUPS,,2010
+Kyle Lowry,200768,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2010
+Kyle Lowry,200768,Step Back Jump Shot,2,3,0,Step Back Jump shot,JUMP_SHOTS,,2010
+Kyle Lowry,200768,Step Back Jump Shot,3,1,1,Step Back Jump shot,JUMP_SHOTS,,2010
+Kyle Lowry,200768,Tip Shot,2,8,4,Tip Shot,TIP_SHOTS,,2010
+Kyle Lowry,200768,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2010
+Kyle Lowry,200768,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2011
+Kyle Lowry,200768,Driving Jump Shot,2,10,3,Driving Jump shot,JUMP_SHOTS,,2011
+Kyle Lowry,200768,Driving Layup,2,80,55,Driving Layup Shot,LAYUPS,,2011
+Kyle Lowry,200768,Driving Layup,2,9,7,Driving Reverse Layup Shot,LAYUPS,,2011
+Kyle Lowry,200768,Fadeaway Jump Shot,2,6,2,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Kyle Lowry,200768,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2011
+Kyle Lowry,200768,Floating Jump Shot,2,11,8,Floating Jump shot,FLOATING_SHOTS,,2011
+Kyle Lowry,200768,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2011
+Kyle Lowry,200768,Jump Shot,2,4,4,Jump Bank Shot,JUMP_SHOTS,,2011
+Kyle Lowry,200768,Jump Shot,2,390,127,Jump Shot,JUMP_SHOTS,,2011
+Kyle Lowry,200768,Jump Shot,3,77,24,Jump Shot,JUMP_SHOTS,,2011
+Kyle Lowry,200768,Standard Layup,2,101,60,Layup Shot,LAYUPS,,2011
+Kyle Lowry,200768,Pullup Jump Shot,2,1,0,Pullup Bank shot,JUMP_SHOTS,,2011
+Kyle Lowry,200768,Pullup Jump Shot,2,25,10,Pullup Jump shot,JUMP_SHOTS,,2011
+Kyle Lowry,200768,Pullup Jump Shot,3,4,1,Pullup Jump shot,JUMP_SHOTS,,2011
+Kyle Lowry,200768,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2011
+Kyle Lowry,200768,Reverse Layup,2,6,2,Reverse Layup Shot,LAYUPS,,2011
+Kyle Lowry,200768,Running Jump Shot,2,7,6,Running Bank shot,JUMP_SHOTS,,2011
+Kyle Lowry,200768,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2011
+Kyle Lowry,200768,Running Jump Shot,2,30,13,Running Jump Shot,JUMP_SHOTS,,2011
+Kyle Lowry,200768,Running Jump Shot,3,2,1,Running Jump Shot,JUMP_SHOTS,,2011
+Kyle Lowry,200768,Standard Layup,2,8,6,Running Layup Shot,LAYUPS,,2011
+Kyle Lowry,200768,Step Back Jump Shot,2,22,7,Step Back Jump shot,JUMP_SHOTS,,2011
+Kyle Lowry,200768,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2011
+Kyle Lowry,200768,Tip Shot,2,4,3,Tip Shot,TIP_SHOTS,,2011
+Kyle Lowry,200768,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2011
+Kyle Lowry,200768,Turnaround Jump Shot,2,4,2,Turnaround Jump Shot,JUMP_SHOTS,,2011
+Kyle Lowry,200768,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2012
+Kyle Lowry,200768,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2012
+Kyle Lowry,200768,Finger Roll,2,3,3,Driving Finger Roll Layup Shot,LAYUPS,,2012
+Kyle Lowry,200768,Driving Jump Shot,2,6,1,Driving Jump shot,JUMP_SHOTS,,2012
+Kyle Lowry,200768,Driving Layup,2,61,41,Driving Layup Shot,LAYUPS,,2012
+Kyle Lowry,200768,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2012
+Kyle Lowry,200768,Fadeaway Jump Shot,2,1,0,Fadeaway Bank shot,JUMP_SHOTS,,2012
+Kyle Lowry,200768,Fadeaway Jump Shot,2,8,3,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Kyle Lowry,200768,Fadeaway Jump Shot,3,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Kyle Lowry,200768,Floating Jump Shot,2,6,2,Floating Jump shot,FLOATING_SHOTS,,2012
+Kyle Lowry,200768,Jump Shot,2,3,2,Jump Bank Shot,JUMP_SHOTS,,2012
+Kyle Lowry,200768,Jump Shot,3,2,0,Jump Bank Shot,JUMP_SHOTS,,2012
+Kyle Lowry,200768,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2012
+Kyle Lowry,200768,Jump Shot,2,81,18,Jump Shot,JUMP_SHOTS,,2012
+Kyle Lowry,200768,Jump Shot,3,191,66,Jump Shot,JUMP_SHOTS,,2012
+Kyle Lowry,200768,Standard Layup,2,68,32,Layup Shot,LAYUPS,,2012
+Kyle Lowry,200768,Pullup Jump Shot,2,22,11,Pullup Jump shot,JUMP_SHOTS,,2012
+Kyle Lowry,200768,Pullup Jump Shot,3,12,11,Pullup Jump shot,JUMP_SHOTS,,2012
+Kyle Lowry,200768,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2012
+Kyle Lowry,200768,Running Jump Shot,2,2,1,Running Bank shot,JUMP_SHOTS,,2012
+Kyle Lowry,200768,Running Jump Shot,2,13,3,Running Jump Shot,JUMP_SHOTS,,2012
+Kyle Lowry,200768,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2012
+Kyle Lowry,200768,Standard Layup,2,3,0,Running Layup Shot,LAYUPS,,2012
+Kyle Lowry,200768,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2012
+Kyle Lowry,200768,Step Back Jump Shot,2,6,2,Step Back Jump shot,JUMP_SHOTS,,2012
+Kyle Lowry,200768,Step Back Jump Shot,3,4,1,Step Back Jump shot,JUMP_SHOTS,,2012
+Kyle Lowry,200768,Tip Shot,2,4,2,Tip Shot,TIP_SHOTS,,2012
+Kyle Lowry,200768,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2012
+Kyle Lowry,200768,Turnaround Jump Shot,2,3,2,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Kyle Lowry,200768,Driving Jump Shot,2,2,1,Driving Bank shot,JUMP_SHOTS,,2013
+Kyle Lowry,200768,Finger Roll,2,9,7,Driving Finger Roll Layup Shot,LAYUPS,,2013
+Kyle Lowry,200768,Driving Hook Shot,2,2,2,Driving Hook Shot,POST_MOVES,,2013
+Kyle Lowry,200768,Driving Jump Shot,2,20,5,Driving Jump shot,JUMP_SHOTS,,2013
+Kyle Lowry,200768,Driving Layup,2,84,56,Driving Layup Shot,LAYUPS,,2013
+Kyle Lowry,200768,Driving Layup,2,5,3,Driving Reverse Layup Shot,LAYUPS,,2013
+Kyle Lowry,200768,Fadeaway Jump Shot,2,5,1,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Kyle Lowry,200768,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2013
+Kyle Lowry,200768,Floating Jump Shot,2,10,7,Floating Jump shot,FLOATING_SHOTS,,2013
+Kyle Lowry,200768,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2013
+Kyle Lowry,200768,Jump Shot,2,4,3,Jump Bank Shot,JUMP_SHOTS,,2013
+Kyle Lowry,200768,Jump Shot,2,322,95,Jump Shot,JUMP_SHOTS,,2013
+Kyle Lowry,200768,Jump Shot,3,11,2,Jump Shot,JUMP_SHOTS,,2013
+Kyle Lowry,200768,Standard Layup,2,48,19,Layup Shot,LAYUPS,,2013
+Kyle Lowry,200768,Pullup Jump Shot,2,46,26,Pullup Jump shot,JUMP_SHOTS,,2013
+Kyle Lowry,200768,Pullup Jump Shot,3,1,1,Pullup Jump shot,JUMP_SHOTS,,2013
+Kyle Lowry,200768,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2013
+Kyle Lowry,200768,Running Jump Shot,2,2,1,Running Bank shot,JUMP_SHOTS,,2013
+Kyle Lowry,200768,Finger Roll,2,1,0,Running Finger Roll Layup Shot,LAYUPS,,2013
+Kyle Lowry,200768,Running Hook Shot,2,2,2,Running Hook Shot,POST_MOVES,,2013
+Kyle Lowry,200768,Running Jump Shot,2,14,5,Running Jump Shot,JUMP_SHOTS,,2013
+Kyle Lowry,200768,Standard Layup,2,10,5,Running Layup Shot,LAYUPS,,2013
+Kyle Lowry,200768,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2013
+Kyle Lowry,200768,Step Back Jump Shot,2,11,3,Step Back Jump shot,JUMP_SHOTS,,2013
+Kyle Lowry,200768,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2013
+Kyle Lowry,200768,Turnaround Jump Shot,2,4,3,Turnaround Fadeaway shot,JUMP_SHOTS,,2013
+Kyle Lowry,200768,Turnaround Jump Shot,2,4,1,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Kyle Lowry,200768,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2014
+Kyle Lowry,200768,Driving Jump Shot,2,2,2,Driving Bank shot,JUMP_SHOTS,,2014
+Kyle Lowry,200768,Finger Roll,2,8,7,Driving Finger Roll Layup Shot,LAYUPS,,2014
+Kyle Lowry,200768,Driving Hook Shot,2,8,4,Driving Hook Shot,POST_MOVES,,2014
+Kyle Lowry,200768,Driving Jump Shot,2,29,9,Driving Jump shot,JUMP_SHOTS,,2014
+Kyle Lowry,200768,Driving Layup,2,141,93,Driving Layup Shot,LAYUPS,,2014
+Kyle Lowry,200768,Driving Layup,2,10,6,Driving Reverse Layup Shot,LAYUPS,,2014
+Kyle Lowry,200768,Fadeaway Jump Shot,2,21,9,Fadeaway Jump Shot,JUMP_SHOTS,,2014
+Kyle Lowry,200768,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2014
+Kyle Lowry,200768,Floating Jump Shot,2,28,11,Floating Jump shot,FLOATING_SHOTS,,2014
+Kyle Lowry,200768,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2014
+Kyle Lowry,200768,Hook Shot,2,1,1,Jump Bank Hook Shot,POST_MOVES,,2014
+Kyle Lowry,200768,Jump Shot,2,4,1,Jump Bank Shot,JUMP_SHOTS,,2014
+Kyle Lowry,200768,Hook Shot,2,5,4,Jump Hook Shot,POST_MOVES,,2014
+Kyle Lowry,200768,Jump Shot,2,496,172,Jump Shot,JUMP_SHOTS,,2014
+Kyle Lowry,200768,Jump Shot,3,106,35,Jump Shot,JUMP_SHOTS,,2014
+Kyle Lowry,200768,Standard Layup,2,50,23,Layup Shot,LAYUPS,,2014
+Kyle Lowry,200768,Pullup Jump Shot,2,2,1,Pullup Bank shot,JUMP_SHOTS,,2014
+Kyle Lowry,200768,Pullup Jump Shot,2,64,28,Pullup Jump shot,JUMP_SHOTS,,2014
+Kyle Lowry,200768,Pullup Jump Shot,3,5,1,Pullup Jump shot,JUMP_SHOTS,,2014
+Kyle Lowry,200768,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2014
+Kyle Lowry,200768,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2014
+Kyle Lowry,200768,Running Jump Shot,2,5,2,Running Bank shot,JUMP_SHOTS,,2014
+Kyle Lowry,200768,Running Jump Shot,3,2,0,Running Bank shot,JUMP_SHOTS,,2014
+Kyle Lowry,200768,Running Jump Shot,2,17,7,Running Jump Shot,JUMP_SHOTS,,2014
+Kyle Lowry,200768,Standard Layup,2,12,10,Running Layup Shot,LAYUPS,,2014
+Kyle Lowry,200768,Tip Shot,2,1,1,Running Tip Shot,TIP_SHOTS,,2014
+Kyle Lowry,200768,Step Back Jump Shot,2,29,14,Step Back Jump shot,JUMP_SHOTS,,2014
+Kyle Lowry,200768,Step Back Jump Shot,3,4,1,Step Back Jump shot,JUMP_SHOTS,,2014
+Kyle Lowry,200768,Tip Shot,2,8,2,Tip Shot,TIP_SHOTS,,2014
+Kyle Lowry,200768,Turnaround Jump Shot,2,11,7,Turnaround Fadeaway shot,JUMP_SHOTS,,2014
+Kyle Lowry,200768,Turnaround Jump Shot,2,4,1,Turnaround Jump Shot,JUMP_SHOTS,,2014
+Kyle Lowry,200768,Driving Jump Shot,2,5,3,Driving Bank shot,JUMP_SHOTS,,2015
+Kyle Lowry,200768,Finger Roll,2,14,10,Driving Finger Roll Layup Shot,LAYUPS,,2015
+Kyle Lowry,200768,Driving Hook Shot,2,7,4,Driving Hook Shot,POST_MOVES,,2015
+Kyle Lowry,200768,Driving Jump Shot,2,19,5,Driving Jump shot,JUMP_SHOTS,,2015
+Kyle Lowry,200768,Driving Layup,2,112,74,Driving Layup Shot,LAYUPS,,2015
+Kyle Lowry,200768,Driving Layup,2,6,4,Driving Reverse Layup Shot,LAYUPS,,2015
+Kyle Lowry,200768,Fadeaway Jump Shot,2,2,0,Fadeaway Bank shot,JUMP_SHOTS,,2015
+Kyle Lowry,200768,Fadeaway Jump Shot,2,45,23,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+Kyle Lowry,200768,Finger Roll,2,3,3,Finger Roll Layup Shot,LAYUPS,,2015
+Kyle Lowry,200768,Floating Jump Shot,2,22,11,Floating Jump shot,FLOATING_SHOTS,,2015
+Kyle Lowry,200768,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2015
+Kyle Lowry,200768,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2015
+Kyle Lowry,200768,Jump Shot,2,8,4,Jump Bank Shot,JUMP_SHOTS,,2015
+Kyle Lowry,200768,Jump Shot,3,1,0,Jump Bank Shot,JUMP_SHOTS,,2015
+Kyle Lowry,200768,Hook Shot,2,2,0,Jump Hook Shot,POST_MOVES,,2015
+Kyle Lowry,200768,Jump Shot,2,448,144,Jump Shot,JUMP_SHOTS,,2015
+Kyle Lowry,200768,Jump Shot,3,53,15,Jump Shot,JUMP_SHOTS,,2015
+Kyle Lowry,200768,Standard Layup,2,68,32,Layup Shot,LAYUPS,,2015
+Kyle Lowry,200768,Pullup Jump Shot,2,96,40,Pullup Jump shot,JUMP_SHOTS,,2015
+Kyle Lowry,200768,Pullup Jump Shot,3,9,4,Pullup Jump shot,JUMP_SHOTS,,2015
+Kyle Lowry,200768,Putback Layup,2,6,5,Putback Layup Shot,LAYUPS,,2015
+Kyle Lowry,200768,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2015
+Kyle Lowry,200768,Running Jump Shot,2,3,2,Running Bank shot,JUMP_SHOTS,,2015
+Kyle Lowry,200768,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2015
+Kyle Lowry,200768,Running Jump Shot,2,19,5,Running Jump Shot,JUMP_SHOTS,,2015
+Kyle Lowry,200768,Standard Layup,2,7,5,Running Layup Shot,LAYUPS,,2015
+Kyle Lowry,200768,Reverse Layup,2,2,1,Running Reverse Layup Shot,LAYUPS,,2015
+Kyle Lowry,200768,Step Back Jump Shot,2,24,11,Step Back Jump shot,JUMP_SHOTS,,2015
+Kyle Lowry,200768,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2015
+Kyle Lowry,200768,Tip Shot,2,5,3,Tip Shot,TIP_SHOTS,,2015
+Kyle Lowry,200768,Turnaround Jump Shot,2,32,13,Turnaround Fadeaway shot,JUMP_SHOTS,,2015
+Kyle Lowry,200768,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2015
+Kyle Lowry,200768,Turnaround Jump Shot,2,17,5,Turnaround Jump Shot,JUMP_SHOTS,,2015
+Kyle Lowry,200768,Finger Roll,2,2,2,Cutting Finger Roll Layup Shot,LAYUPS,,2016
+Kyle Lowry,200768,Standard Layup,2,7,6,Cutting Layup Shot,LAYUPS,,2016
+Kyle Lowry,200768,Driving Hook Shot,2,3,1,Driving Bank Hook Shot,POST_MOVES,,2016
+Kyle Lowry,200768,Driving Jump Shot,2,6,4,Driving Bank shot,JUMP_SHOTS,,2016
+Kyle Lowry,200768,Finger Roll,2,14,11,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Kyle Lowry,200768,Floating Jump Shot,2,16,6,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2016
+Kyle Lowry,200768,Floating Jump Shot,2,32,13,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Kyle Lowry,200768,Floating Jump Shot,3,2,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Kyle Lowry,200768,Driving Hook Shot,2,12,5,Driving Hook Shot,POST_MOVES,,2016
+Kyle Lowry,200768,Driving Layup,2,134,80,Driving Layup Shot,LAYUPS,,2016
+Kyle Lowry,200768,Driving Layup,2,15,5,Driving Reverse Layup Shot,LAYUPS,,2016
+Kyle Lowry,200768,Fadeaway Jump Shot,2,21,8,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Kyle Lowry,200768,Fadeaway Jump Shot,3,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Kyle Lowry,200768,Finger Roll,2,6,4,Finger Roll Layup Shot,LAYUPS,,2016
+Kyle Lowry,200768,Floating Jump Shot,2,14,8,Floating Jump shot,FLOATING_SHOTS,,2016
+Kyle Lowry,200768,Floating Jump Shot,3,2,0,Floating Jump shot,FLOATING_SHOTS,,2016
+Kyle Lowry,200768,Hook Shot,2,3,1,Hook Shot,POST_MOVES,,2016
+Kyle Lowry,200768,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2016
+Kyle Lowry,200768,Jump Shot,3,3,1,Jump Bank Shot,JUMP_SHOTS,,2016
+Kyle Lowry,200768,Jump Shot,2,169,37,Jump Shot,JUMP_SHOTS,,2016
+Kyle Lowry,200768,Jump Shot,3,324,122,Jump Shot,JUMP_SHOTS,,2016
+Kyle Lowry,200768,Standard Layup,2,52,16,Layup Shot,LAYUPS,,2016
+Kyle Lowry,200768,Pullup Jump Shot,2,2,1,Pullup Bank shot,JUMP_SHOTS,,2016
+Kyle Lowry,200768,Pullup Jump Shot,3,1,0,Pullup Bank shot,JUMP_SHOTS,,2016
+Kyle Lowry,200768,Pullup Jump Shot,2,72,37,Pullup Jump shot,JUMP_SHOTS,,2016
+Kyle Lowry,200768,Pullup Jump Shot,3,91,39,Pullup Jump shot,JUMP_SHOTS,,2016
+Kyle Lowry,200768,Putback Layup,2,3,2,Putback Layup Shot,LAYUPS,,2016
+Kyle Lowry,200768,Reverse Layup,2,4,3,Reverse Layup Shot,LAYUPS,,2016
+Kyle Lowry,200768,Finger Roll,2,6,6,Running Finger Roll Layup Shot,LAYUPS,,2016
+Kyle Lowry,200768,Running Jump Shot,2,17,11,Running Jump Shot,JUMP_SHOTS,,2016
+Kyle Lowry,200768,Running Jump Shot,3,14,7,Running Jump Shot,JUMP_SHOTS,,2016
+Kyle Lowry,200768,Standard Layup,2,40,29,Running Layup Shot,LAYUPS,,2016
+Kyle Lowry,200768,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2016
+Kyle Lowry,200768,Running Jump Shot,3,11,5,Running Pull-Up Jump Shot,JUMP_SHOTS,,2016
+Kyle Lowry,200768,Reverse Layup,2,3,2,Running Reverse Layup Shot,LAYUPS,,2016
+Kyle Lowry,200768,Step Back Jump Shot,2,28,15,Step Back Jump shot,JUMP_SHOTS,,2016
+Kyle Lowry,200768,Step Back Jump Shot,3,13,3,Step Back Jump shot,JUMP_SHOTS,,2016
+Kyle Lowry,200768,Putback Layup,2,6,4,Tip Layup Shot,LAYUPS,,2016
+Kyle Lowry,200768,Turnaround Hook Shot,2,1,0,Turnaround Bank Hook Shot,POST_MOVES,,2016
+Kyle Lowry,200768,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2016
+Kyle Lowry,200768,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2016
+Kyle Lowry,200768,Turnaround Jump Shot,2,19,10,Turnaround Fadeaway shot,JUMP_SHOTS,,2016
+Kyle Lowry,200768,Turnaround Hook Shot,2,3,2,Turnaround Hook Shot,POST_MOVES,,2016
+Kyle Lowry,200768,Turnaround Jump Shot,2,16,1,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Kyle Lowry,200768,Turnaround Jump Shot,3,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Kyle Lowry,200768,Standard Layup,2,6,5,Cutting Layup Shot,LAYUPS,,2017
+Kyle Lowry,200768,Driving Hook Shot,2,2,2,Driving Bank Hook Shot,POST_MOVES,,2017
+Kyle Lowry,200768,Driving Jump Shot,2,5,4,Driving Bank shot,JUMP_SHOTS,,2017
+Kyle Lowry,200768,Finger Roll,2,9,5,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Kyle Lowry,200768,Floating Jump Shot,2,10,6,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2017
+Kyle Lowry,200768,Floating Jump Shot,2,28,16,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Kyle Lowry,200768,Driving Hook Shot,2,13,5,Driving Hook Shot,POST_MOVES,,2017
+Kyle Lowry,200768,Driving Layup,2,122,80,Driving Layup Shot,LAYUPS,,2017
+Kyle Lowry,200768,Driving Layup,2,12,7,Driving Reverse Layup Shot,LAYUPS,,2017
+Kyle Lowry,200768,Fadeaway Jump Shot,2,1,0,Fadeaway Bank shot,JUMP_SHOTS,,2017
+Kyle Lowry,200768,Fadeaway Jump Shot,2,19,9,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Kyle Lowry,200768,Fadeaway Jump Shot,3,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Kyle Lowry,200768,Floating Jump Shot,2,12,4,Floating Jump shot,FLOATING_SHOTS,,2017
+Kyle Lowry,200768,Floating Jump Shot,3,1,1,Floating Jump shot,FLOATING_SHOTS,,2017
+Kyle Lowry,200768,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2017
+Kyle Lowry,200768,Jump Shot,2,7,2,Jump Bank Shot,JUMP_SHOTS,,2017
+Kyle Lowry,200768,Jump Shot,3,1,0,Jump Bank Shot,JUMP_SHOTS,,2017
+Kyle Lowry,200768,Jump Shot,2,233,78,Jump Shot,JUMP_SHOTS,,2017
+Kyle Lowry,200768,Jump Shot,3,115,41,Jump Shot,JUMP_SHOTS,,2017
+Kyle Lowry,200768,Standard Layup,2,27,10,Layup Shot,LAYUPS,,2017
+Kyle Lowry,200768,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2017
+Kyle Lowry,200768,Pullup Jump Shot,2,95,46,Pullup Jump shot,JUMP_SHOTS,,2017
+Kyle Lowry,200768,Pullup Jump Shot,3,53,26,Pullup Jump shot,JUMP_SHOTS,,2017
+Kyle Lowry,200768,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2017
+Kyle Lowry,200768,Reverse Layup,2,2,0,Reverse Layup Shot,LAYUPS,,2017
+Kyle Lowry,200768,Finger Roll,2,1,0,Running Finger Roll Layup Shot,LAYUPS,,2017
+Kyle Lowry,200768,Running Jump Shot,2,13,4,Running Jump Shot,JUMP_SHOTS,,2017
+Kyle Lowry,200768,Running Jump Shot,3,2,2,Running Jump Shot,JUMP_SHOTS,,2017
+Kyle Lowry,200768,Standard Layup,2,32,27,Running Layup Shot,LAYUPS,,2017
+Kyle Lowry,200768,Running Jump Shot,2,14,9,Running Pull-Up Jump Shot,JUMP_SHOTS,,2017
+Kyle Lowry,200768,Running Jump Shot,3,6,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2017
+Kyle Lowry,200768,Reverse Layup,2,2,1,Running Reverse Layup Shot,LAYUPS,,2017
+Kyle Lowry,200768,Step Back Jump Shot,2,31,15,Step Back Jump shot,JUMP_SHOTS,,2017
+Kyle Lowry,200768,Step Back Jump Shot,3,5,2,Step Back Jump shot,JUMP_SHOTS,,2017
+Kyle Lowry,200768,Putback Layup,2,1,0,Tip Layup Shot,LAYUPS,,2017
+Kyle Lowry,200768,Turnaround Hook Shot,2,1,0,Turnaround Bank Hook Shot,POST_MOVES,,2017
+Kyle Lowry,200768,Turnaround Jump Shot,2,20,10,Turnaround Fadeaway shot,JUMP_SHOTS,,2017
+Kyle Lowry,200768,Turnaround Hook Shot,2,2,0,Turnaround Hook Shot,POST_MOVES,,2017
+Kyle Lowry,200768,Turnaround Jump Shot,2,8,3,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Kyle Lowry,200768,Turnaround Jump Shot,3,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Kyle Lowry,200768,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2018
+Kyle Lowry,200768,Standard Layup,2,11,9,Cutting Layup Shot,LAYUPS,,2018
+Kyle Lowry,200768,Finger Roll,2,10,6,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Kyle Lowry,200768,Floating Jump Shot,2,10,6,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Kyle Lowry,200768,Floating Jump Shot,2,30,7,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Kyle Lowry,200768,Driving Hook Shot,2,3,2,Driving Hook Shot,POST_MOVES,,2018
+Kyle Lowry,200768,Driving Layup,2,85,52,Driving Layup Shot,LAYUPS,,2018
+Kyle Lowry,200768,Driving Layup,2,9,4,Driving Reverse Layup Shot,LAYUPS,,2018
+Kyle Lowry,200768,Fadeaway Jump Shot,2,9,1,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+Kyle Lowry,200768,Finger Roll,2,2,0,Finger Roll Layup Shot,LAYUPS,,2018
+Kyle Lowry,200768,Floating Jump Shot,2,7,2,Floating Jump shot,FLOATING_SHOTS,,2018
+Kyle Lowry,200768,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2018
+Kyle Lowry,200768,Jump Shot,2,4,1,Jump Bank Shot,JUMP_SHOTS,,2018
+Kyle Lowry,200768,Jump Shot,2,425,160,Jump Shot,JUMP_SHOTS,,2018
+Kyle Lowry,200768,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2018
+Kyle Lowry,200768,Standard Layup,2,29,14,Layup Shot,LAYUPS,,2018
+Kyle Lowry,200768,Pullup Jump Shot,2,135,52,Pullup Jump shot,JUMP_SHOTS,,2018
+Kyle Lowry,200768,Putback Layup,2,3,2,Putback Layup Shot,LAYUPS,,2018
+Kyle Lowry,200768,Reverse Layup,2,4,1,Reverse Layup Shot,LAYUPS,,2018
+Kyle Lowry,200768,Finger Roll,2,3,1,Running Finger Roll Layup Shot,LAYUPS,,2018
+Kyle Lowry,200768,Running Jump Shot,2,18,13,Running Jump Shot,JUMP_SHOTS,,2018
+Kyle Lowry,200768,Standard Layup,2,33,22,Running Layup Shot,LAYUPS,,2018
+Kyle Lowry,200768,Running Jump Shot,2,39,16,Running Pull-Up Jump Shot,JUMP_SHOTS,,2018
+Kyle Lowry,200768,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2018
+Kyle Lowry,200768,Step Back Jump Shot,2,40,20,Step Back Jump shot,JUMP_SHOTS,,2018
+Kyle Lowry,200768,Putback Layup,2,4,2,Tip Layup Shot,LAYUPS,,2018
+Kyle Lowry,200768,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2018
+Kyle Lowry,200768,Turnaround Jump Shot,2,14,7,Turnaround Fadeaway shot,JUMP_SHOTS,,2018
+Kyle Lowry,200768,Turnaround Jump Shot,2,10,1,Turnaround Jump Shot,JUMP_SHOTS,,2018
+Kyle Lowry,200768,Finger Roll,2,3,2,Cutting Finger Roll Layup Shot,LAYUPS,,2019
+Kyle Lowry,200768,Standard Layup,2,17,13,Cutting Layup Shot,LAYUPS,,2019
+Kyle Lowry,200768,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2019
+Kyle Lowry,200768,Finger Roll,2,15,9,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Kyle Lowry,200768,Floating Jump Shot,2,4,4,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Kyle Lowry,200768,Floating Jump Shot,3,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Kyle Lowry,200768,Floating Jump Shot,2,23,8,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Kyle Lowry,200768,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2019
+Kyle Lowry,200768,Driving Layup,2,61,32,Driving Layup Shot,LAYUPS,,2019
+Kyle Lowry,200768,Driving Layup,2,6,4,Driving Reverse Layup Shot,LAYUPS,,2019
+Kyle Lowry,200768,Fadeaway Jump Shot,2,16,5,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+Kyle Lowry,200768,Floating Jump Shot,2,4,2,Floating Jump shot,FLOATING_SHOTS,,2019
+Kyle Lowry,200768,Jump Shot,2,3,1,Jump Bank Shot,JUMP_SHOTS,,2019
+Kyle Lowry,200768,Jump Shot,2,334,112,Jump Shot,JUMP_SHOTS,,2019
+Kyle Lowry,200768,Jump Shot,3,1,1,Jump Shot,JUMP_SHOTS,,2019
+Kyle Lowry,200768,Standard Layup,2,10,3,Layup Shot,LAYUPS,,2019
+Kyle Lowry,200768,Pullup Jump Shot,2,129,49,Pullup Jump shot,JUMP_SHOTS,,2019
+Kyle Lowry,200768,Putback Layup,2,2,0,Putback Layup Shot,LAYUPS,,2019
+Kyle Lowry,200768,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2019
+Kyle Lowry,200768,Finger Roll,2,3,2,Running Finger Roll Layup Shot,LAYUPS,,2019
+Kyle Lowry,200768,Running Jump Shot,2,16,8,Running Jump Shot,JUMP_SHOTS,,2019
+Kyle Lowry,200768,Standard Layup,2,23,20,Running Layup Shot,LAYUPS,,2019
+Kyle Lowry,200768,Running Jump Shot,2,16,6,Running Pull-Up Jump Shot,JUMP_SHOTS,,2019
+Kyle Lowry,200768,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2019
+Kyle Lowry,200768,Step Back Jump Shot,2,23,8,Step Back Jump shot,JUMP_SHOTS,,2019
+Kyle Lowry,200768,Putback Layup,2,3,2,Tip Layup Shot,LAYUPS,,2019
+Kyle Lowry,200768,Turnaround Jump Shot,2,7,3,Turnaround Fadeaway shot,JUMP_SHOTS,,2019
+Kyle Lowry,200768,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2019
+Kyle Lowry,200768,Turnaround Jump Shot,2,12,5,Turnaround Jump Shot,JUMP_SHOTS,,2019
+Kyle Lowry,200768,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2020
+Kyle Lowry,200768,Standard Layup,2,7,4,Cutting Layup Shot,LAYUPS,,2020
+Kyle Lowry,200768,Finger Roll,2,25,15,Driving Finger Roll Layup Shot,LAYUPS,,2020
+Kyle Lowry,200768,Floating Jump Shot,2,11,9,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2020
+Kyle Lowry,200768,Floating Jump Shot,2,20,8,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Kyle Lowry,200768,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2020
+Kyle Lowry,200768,Driving Layup,2,101,53,Driving Layup Shot,LAYUPS,,2020
+Kyle Lowry,200768,Driving Layup,2,14,10,Driving Reverse Layup Shot,LAYUPS,,2020
+Kyle Lowry,200768,Fadeaway Jump Shot,2,17,6,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+Kyle Lowry,200768,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2020
+Kyle Lowry,200768,Floating Jump Shot,2,8,3,Floating Jump shot,FLOATING_SHOTS,,2020
+Kyle Lowry,200768,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2020
+Kyle Lowry,200768,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2020
+Kyle Lowry,200768,Jump Shot,2,247,81,Jump Shot,JUMP_SHOTS,,2020
+Kyle Lowry,200768,Standard Layup,2,10,5,Layup Shot,LAYUPS,,2020
+Kyle Lowry,200768,Pullup Jump Shot,2,152,64,Pullup Jump shot,JUMP_SHOTS,,2020
+Kyle Lowry,200768,Putback Layup,2,3,2,Putback Layup Shot,LAYUPS,,2020
+Kyle Lowry,200768,Reverse Layup,2,4,2,Reverse Layup Shot,LAYUPS,,2020
+Kyle Lowry,200768,Finger Roll,2,9,8,Running Finger Roll Layup Shot,LAYUPS,,2020
+Kyle Lowry,200768,Running Jump Shot,2,21,3,Running Jump Shot,JUMP_SHOTS,,2020
+Kyle Lowry,200768,Standard Layup,2,28,15,Running Layup Shot,LAYUPS,,2020
+Kyle Lowry,200768,Running Jump Shot,2,45,18,Running Pull-Up Jump Shot,JUMP_SHOTS,,2020
+Kyle Lowry,200768,Reverse Layup,2,2,1,Running Reverse Layup Shot,LAYUPS,,2020
+Kyle Lowry,200768,Step Back Jump Shot,2,54,24,Step Back Jump shot,JUMP_SHOTS,,2020
+Kyle Lowry,200768,Turnaround Jump Shot,2,2,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2020
+Kyle Lowry,200768,Turnaround Jump Shot,2,10,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2020
+Kyle Lowry,200768,Turnaround Jump Shot,2,8,1,Turnaround Jump Shot,JUMP_SHOTS,,2020
+Kyle Lowry,200768,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2021
+Kyle Lowry,200768,Standard Layup,2,3,3,Cutting Layup Shot,LAYUPS,,2021
+Kyle Lowry,200768,Finger Roll,2,7,4,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Kyle Lowry,200768,Floating Jump Shot,2,3,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2021
+Kyle Lowry,200768,Floating Jump Shot,2,29,16,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Kyle Lowry,200768,Driving Layup,2,68,39,Driving Layup Shot,LAYUPS,,2021
+Kyle Lowry,200768,Driving Layup,2,6,2,Driving Reverse Layup Shot,LAYUPS,,2021
+Kyle Lowry,200768,Fadeaway Jump Shot,2,8,2,Fadeaway Jump Shot,JUMP_SHOTS,,2021
+Kyle Lowry,200768,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2021
+Kyle Lowry,200768,Floating Jump Shot,2,6,1,Floating Jump shot,FLOATING_SHOTS,,2021
+Kyle Lowry,200768,Jump Shot,2,3,2,Jump Bank Shot,JUMP_SHOTS,,2021
+Kyle Lowry,200768,Jump Shot,2,208,84,Jump Shot,JUMP_SHOTS,,2021
+Kyle Lowry,200768,Standard Layup,2,15,7,Layup Shot,LAYUPS,,2021
+Kyle Lowry,200768,Pullup Jump Shot,2,137,47,Pullup Jump shot,JUMP_SHOTS,,2021
+Kyle Lowry,200768,Putback Layup,2,3,2,Putback Layup Shot,LAYUPS,,2021
+Kyle Lowry,200768,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2021
+Kyle Lowry,200768,Finger Roll,2,2,2,Running Finger Roll Layup Shot,LAYUPS,,2021
+Kyle Lowry,200768,Running Jump Shot,2,7,3,Running Jump Shot,JUMP_SHOTS,,2021
+Kyle Lowry,200768,Standard Layup,2,22,14,Running Layup Shot,LAYUPS,,2021
+Kyle Lowry,200768,Running Jump Shot,2,18,8,Running Pull-Up Jump Shot,JUMP_SHOTS,,2021
+Kyle Lowry,200768,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2021
+Kyle Lowry,200768,Step Back Jump Shot,2,26,11,Step Back Jump shot,JUMP_SHOTS,,2021
+Kyle Lowry,200768,Putback Layup,2,1,1,Tip Layup Shot,LAYUPS,,2021
+Kyle Lowry,200768,Turnaround Jump Shot,2,9,5,Turnaround Fadeaway shot,JUMP_SHOTS,,2021
+Kyle Lowry,200768,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2021
+Kyle Lowry,200768,Turnaround Jump Shot,2,10,3,Turnaround Jump Shot,JUMP_SHOTS,,2021
+Kyle Lowry,200768,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2022
+Kyle Lowry,200768,Standard Layup,2,8,7,Cutting Layup Shot,LAYUPS,,2022
+Kyle Lowry,200768,Finger Roll,2,5,4,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Kyle Lowry,200768,Floating Jump Shot,2,5,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Kyle Lowry,200768,Floating Jump Shot,2,18,9,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Kyle Lowry,200768,Driving Layup,2,52,35,Driving Layup Shot,LAYUPS,,2022
+Kyle Lowry,200768,Driving Layup,2,4,3,Driving Reverse Layup Shot,LAYUPS,,2022
+Kyle Lowry,200768,Fadeaway Jump Shot,2,17,5,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Kyle Lowry,200768,Floating Jump Shot,2,7,2,Floating Jump shot,FLOATING_SHOTS,,2022
+Kyle Lowry,200768,Jump Shot,2,242,87,Jump Shot,JUMP_SHOTS,,2022
+Kyle Lowry,200768,Standard Layup,2,8,2,Layup Shot,LAYUPS,,2022
+Kyle Lowry,200768,Pullup Jump Shot,2,138,54,Pullup Jump shot,JUMP_SHOTS,,2022
+Kyle Lowry,200768,Putback Layup,2,3,1,Putback Layup Shot,LAYUPS,,2022
+Kyle Lowry,200768,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2022
+Kyle Lowry,200768,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2022
+Kyle Lowry,200768,Running Jump Shot,2,10,5,Running Jump Shot,JUMP_SHOTS,,2022
+Kyle Lowry,200768,Standard Layup,2,16,12,Running Layup Shot,LAYUPS,,2022
+Kyle Lowry,200768,Running Jump Shot,2,17,8,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
+Kyle Lowry,200768,Step Back Jump Shot,2,1,0,Step Back Bank Jump Shot,JUMP_SHOTS,,2022
+Kyle Lowry,200768,Step Back Jump Shot,2,38,18,Step Back Jump shot,JUMP_SHOTS,,2022
+Kyle Lowry,200768,Putback Layup,2,3,2,Tip Layup Shot,LAYUPS,,2022
+Kyle Lowry,200768,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2022
+Kyle Lowry,200768,Turnaround Jump Shot,2,24,14,Turnaround Fadeaway shot,JUMP_SHOTS,,2022
+Kyle Lowry,200768,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2022
+Kyle Lowry,200768,Turnaround Jump Shot,2,6,3,Turnaround Jump Shot,JUMP_SHOTS,,2022
+Kyle Lowry,200768,Standard Layup,2,6,4,Cutting Layup Shot,LAYUPS,,2023
+Kyle Lowry,200768,Driving Hook Shot,2,2,1,Driving Bank Hook Shot,POST_MOVES,,2023
+Kyle Lowry,200768,Finger Roll,2,4,3,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Kyle Lowry,200768,Floating Jump Shot,2,6,5,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+Kyle Lowry,200768,Floating Jump Shot,2,15,9,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Kyle Lowry,200768,Driving Hook Shot,2,2,0,Driving Hook Shot,POST_MOVES,,2023
+Kyle Lowry,200768,Driving Layup,2,37,18,Driving Layup Shot,LAYUPS,,2023
+Kyle Lowry,200768,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2023
+Kyle Lowry,200768,Fadeaway Jump Shot,2,11,5,Fadeaway Jump Shot,JUMP_SHOTS,,2023
+Kyle Lowry,200768,Floating Jump Shot,2,9,2,Floating Jump shot,FLOATING_SHOTS,,2023
+Kyle Lowry,200768,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2023
+Kyle Lowry,200768,Jump Shot,2,207,75,Jump Shot,JUMP_SHOTS,,2023
+Kyle Lowry,200768,Standard Layup,2,7,5,Layup Shot,LAYUPS,,2023
+Kyle Lowry,200768,Pullup Jump Shot,2,77,25,Pullup Jump shot,JUMP_SHOTS,,2023
+Kyle Lowry,200768,Putback Layup,2,6,4,Putback Layup Shot,LAYUPS,,2023
+Kyle Lowry,200768,Finger Roll,2,3,2,Running Finger Roll Layup Shot,LAYUPS,,2023
+Kyle Lowry,200768,Running Jump Shot,2,14,4,Running Jump Shot,JUMP_SHOTS,,2023
+Kyle Lowry,200768,Standard Layup,2,13,5,Running Layup Shot,LAYUPS,,2023
+Kyle Lowry,200768,Running Jump Shot,2,11,3,Running Pull-Up Jump Shot,JUMP_SHOTS,,2023
+Kyle Lowry,200768,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2023
+Kyle Lowry,200768,Step Back Jump Shot,2,28,12,Step Back Jump shot,JUMP_SHOTS,,2023
+Kyle Lowry,200768,Putback Layup,2,3,1,Tip Layup Shot,LAYUPS,,2023
+Kyle Lowry,200768,Turnaround Jump Shot,2,13,6,Turnaround Fadeaway shot,JUMP_SHOTS,,2023
+Kyle Lowry,200768,Turnaround Jump Shot,2,7,3,Turnaround Jump Shot,JUMP_SHOTS,,2023
+Kyle Lowry,200768,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2024
+Kyle Lowry,200768,Standard Layup,2,8,7,Cutting Layup Shot,LAYUPS,,2024
+Kyle Lowry,200768,Floating Jump Shot,2,4,4,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Kyle Lowry,200768,Floating Jump Shot,2,18,7,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Kyle Lowry,200768,Driving Hook Shot,2,3,1,Driving Hook Shot,POST_MOVES,,2024
+Kyle Lowry,200768,Driving Layup,2,24,9,Driving Layup Shot,LAYUPS,,2024
+Kyle Lowry,200768,Driving Layup,2,5,3,Driving Reverse Layup Shot,LAYUPS,,2024
+Kyle Lowry,200768,Fadeaway Jump Shot,2,8,2,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Kyle Lowry,200768,Fadeaway Jump Shot,3,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Kyle Lowry,200768,Floating Jump Shot,2,3,1,Floating Jump shot,FLOATING_SHOTS,,2024
+Kyle Lowry,200768,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2024
+Kyle Lowry,200768,Jump Shot,2,3,2,Jump Shot,JUMP_SHOTS,,2024
+Kyle Lowry,200768,Jump Shot,3,156,61,Jump Shot,JUMP_SHOTS,,2024
+Kyle Lowry,200768,Standard Layup,2,1,1,Layup Shot,LAYUPS,,2024
+Kyle Lowry,200768,Pullup Jump Shot,2,18,9,Pullup Jump shot,JUMP_SHOTS,,2024
+Kyle Lowry,200768,Pullup Jump Shot,3,54,23,Pullup Jump shot,JUMP_SHOTS,,2024
+Kyle Lowry,200768,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2024
+Kyle Lowry,200768,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2024
+Kyle Lowry,200768,Running Jump Shot,3,11,3,Running Jump Shot,JUMP_SHOTS,,2024
+Kyle Lowry,200768,Standard Layup,2,11,8,Running Layup Shot,LAYUPS,,2024
+Kyle Lowry,200768,Running Jump Shot,2,2,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Kyle Lowry,200768,Running Jump Shot,3,15,7,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Kyle Lowry,200768,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2024
+Kyle Lowry,200768,Step Back Jump Shot,3,13,4,Step Back Jump shot,JUMP_SHOTS,,2024
+Kyle Lowry,200768,Putback Layup,2,2,1,Tip Layup Shot,LAYUPS,,2024
+Kyle Lowry,200768,Turnaround Jump Shot,2,1,0,Turnaround Bank shot,JUMP_SHOTS,,2024
+Kyle Lowry,200768,Turnaround Jump Shot,2,8,3,Turnaround Fadeaway shot,JUMP_SHOTS,,2024
+Kyle Lowry,200768,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2024
+Kyle Lowry,200768,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2024
+Kyle Lowry,200768,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Kyle Lowry,200768,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2025
+Kyle Lowry,200768,Floating Jump Shot,2,5,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Kyle Lowry,200768,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2025
+Kyle Lowry,200768,Driving Layup,2,6,2,Driving Layup Shot,LAYUPS,,2025
+Kyle Lowry,200768,Fadeaway Jump Shot,3,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2025
+Kyle Lowry,200768,Jump Shot,3,40,15,Jump Shot,JUMP_SHOTS,,2025
+Kyle Lowry,200768,Pullup Jump Shot,2,5,1,Pullup Jump shot,JUMP_SHOTS,,2025
+Kyle Lowry,200768,Pullup Jump Shot,3,9,2,Pullup Jump shot,JUMP_SHOTS,,2025
+Kyle Lowry,200768,Running Jump Shot,3,8,1,Running Jump Shot,JUMP_SHOTS,,2025
+Kyle Lowry,200768,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2025
+Kyle Lowry,200768,Running Jump Shot,3,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025
+Kyle Lowry,200768,Step Back Jump Shot,3,6,4,Step Back Jump shot,JUMP_SHOTS,,2025

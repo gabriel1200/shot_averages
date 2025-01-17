@@ -1,69 +1,330 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-202340,Driving Layup,2PT Field Goal,2,2,Driving Layup Shot,LAYUPS,1.0,2012
-202340,Jump Shot,2PT Field Goal,17,4,Jump Shot,JUMP_SHOTS,0.2352941176470588,2012
-202340,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2012
-202340,Standard Layup,2PT Field Goal,5,1,Layup Shot,LAYUPS,0.2,2012
-202340,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2012
-202340,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2012
-202340,Running Hook Shot,2PT Field Goal,1,0,Running Hook Shot,POST_MOVES,0.0,2012
-202340,Driving Layup,2PT Field Goal,3,1,Driving Layup Shot,LAYUPS,0.3333333333333333,2014
-202340,Driving Layup,2PT Field Goal,2,1,Driving Reverse Layup Shot,LAYUPS,0.5,2014
-202340,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2014
-202340,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2014
-202340,Jump Shot,2PT Field Goal,9,5,Jump Shot,JUMP_SHOTS,0.5555555555555556,2014
-202340,Jump Shot,3PT Field Goal,7,4,Jump Shot,JUMP_SHOTS,0.8571428571428571,2014
-202340,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2014
-202340,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Bank shot,JUMP_SHOTS,0.0,2014
-202340,Pullup Jump Shot,2PT Field Goal,3,3,Pullup Jump shot,JUMP_SHOTS,1.0,2014
-202340,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2014
-202340,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2014
-202340,Driving Jump Shot,2PT Field Goal,1,1,Driving Jump shot,JUMP_SHOTS,1.0,2015
-202340,Driving Layup,2PT Field Goal,4,3,Driving Layup Shot,LAYUPS,0.75,2015
-202340,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2015
-202340,Finger Roll,2PT Field Goal,1,1,Finger Roll Layup Shot,LAYUPS,1.0,2015
-202340,Hook Shot,2PT Field Goal,1,0,Jump Hook Shot,POST_MOVES,0.0,2015
-202340,Jump Shot,2PT Field Goal,11,6,Jump Shot,JUMP_SHOTS,0.5454545454545454,2015
-202340,Jump Shot,3PT Field Goal,16,7,Jump Shot,JUMP_SHOTS,0.65625,2015
-202340,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2015
-202340,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2015
-202340,Running Jump Shot,2PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.5,2015
-202340,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2016
-202340,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2016
-202340,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2016
-202340,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2016
-202340,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2016
-202340,Jump Shot,2PT Field Goal,13,6,Jump Shot,JUMP_SHOTS,0.4615384615384615,2016
-202340,Jump Shot,3PT Field Goal,21,8,Jump Shot,JUMP_SHOTS,0.5714285714285714,2016
-202340,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2016
-202340,Pullup Jump Shot,2PT Field Goal,5,2,Pullup Jump shot,JUMP_SHOTS,0.4,2016
-202340,Pullup Jump Shot,3PT Field Goal,2,1,Pullup Jump shot,JUMP_SHOTS,0.75,2016
-202340,Finger Roll,2PT Field Goal,2,2,Running Finger Roll Layup Shot,LAYUPS,1.0,2016
-202340,Standard Layup,2PT Field Goal,6,3,Running Layup Shot,LAYUPS,0.5,2016
-202340,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2017
-202340,Finger Roll,2PT Field Goal,1,0,Finger Roll Layup Shot,LAYUPS,0.0,2017
-202340,Jump Shot,2PT Field Goal,5,2,Jump Shot,JUMP_SHOTS,0.4,2017
-202340,Jump Shot,3PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,2017
-202340,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2017
-202340,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2017
-202340,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2017
-202340,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2018
-202340,Standard Layup,2PT Field Goal,2,2,Cutting Layup Shot,LAYUPS,1.0,2018
-202340,Finger Roll,2PT Field Goal,4,3,Driving Finger Roll Layup Shot,LAYUPS,0.75,2018
-202340,Floating Jump Shot,2PT Field Goal,7,3,Driving Floating Jump Shot,FLOATING_SHOTS,0.4285714285714285,2018
-202340,Driving Layup,2PT Field Goal,12,7,Driving Layup Shot,LAYUPS,0.5833333333333334,2018
-202340,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2018
-202340,Floating Jump Shot,2PT Field Goal,9,3,Floating Jump shot,FLOATING_SHOTS,0.3333333333333333,2018
-202340,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2018
-202340,Jump Shot,2PT Field Goal,27,6,Jump Shot,JUMP_SHOTS,0.2222222222222222,2018
-202340,Jump Shot,3PT Field Goal,52,20,Jump Shot,JUMP_SHOTS,0.5769230769230769,2018
-202340,Standard Layup,2PT Field Goal,20,4,Layup Shot,LAYUPS,0.2,2018
-202340,Pullup Jump Shot,2PT Field Goal,12,5,Pullup Jump shot,JUMP_SHOTS,0.4166666666666667,2018
-202340,Pullup Jump Shot,3PT Field Goal,6,2,Pullup Jump shot,JUMP_SHOTS,0.5,2018
-202340,Reverse Layup,2PT Field Goal,2,0,Reverse Layup Shot,LAYUPS,0.0,2018
-202340,Running Jump Shot,3PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.5,2018
-202340,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2018
-202340,Running Jump Shot,3PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2018
-202340,Reverse Layup,2PT Field Goal,2,1,Running Reverse Layup Shot,LAYUPS,0.5,2018
-202340,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.0,2018
-202340,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2018
-202340,Jump Shot,3PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.5,2022
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Avery Bradley,202340,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2011
+Avery Bradley,202340,Driving Layup,2,8,6,Driving Layup Shot,LAYUPS,,2011
+Avery Bradley,202340,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2011
+Avery Bradley,202340,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Avery Bradley,202340,Floating Jump Shot,2,1,1,Floating Jump shot,FLOATING_SHOTS,,2011
+Avery Bradley,202340,Jump Shot,2,42,7,Jump Shot,JUMP_SHOTS,,2011
+Avery Bradley,202340,Standard Layup,2,8,3,Layup Shot,LAYUPS,,2011
+Avery Bradley,202340,Pullup Jump Shot,2,1,1,Pullup Jump shot,JUMP_SHOTS,,2011
+Avery Bradley,202340,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2011
+Avery Bradley,202340,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2011
+Avery Bradley,202340,Alley Oop Dunk,2,3,3,Alley Oop Dunk Shot,DUNKS,,2012
+Avery Bradley,202340,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2012
+Avery Bradley,202340,Driving Dunk,2,2,0,Driving Dunk Shot,DUNKS,,2012
+Avery Bradley,202340,Finger Roll,2,1,0,Driving Finger Roll Layup Shot,LAYUPS,,2012
+Avery Bradley,202340,Driving Jump Shot,2,4,2,Driving Jump shot,JUMP_SHOTS,,2012
+Avery Bradley,202340,Driving Layup,2,27,24,Driving Layup Shot,LAYUPS,,2012
+Avery Bradley,202340,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2012
+Avery Bradley,202340,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2012
+Avery Bradley,202340,Standard Dunk,2,7,5,Dunk Shot,DUNKS,,2012
+Avery Bradley,202340,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Avery Bradley,202340,Floating Jump Shot,2,3,0,Floating Jump shot,FLOATING_SHOTS,,2012
+Avery Bradley,202340,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2012
+Avery Bradley,202340,Jump Shot,2,200,74,Jump Shot,JUMP_SHOTS,,2012
+Avery Bradley,202340,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2012
+Avery Bradley,202340,Standard Layup,2,91,48,Layup Shot,LAYUPS,,2012
+Avery Bradley,202340,Pullup Jump Shot,2,18,10,Pullup Jump shot,JUMP_SHOTS,,2012
+Avery Bradley,202340,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2012
+Avery Bradley,202340,Reverse Layup,2,15,13,Reverse Layup Shot,LAYUPS,,2012
+Avery Bradley,202340,Running Jump Shot,2,1,0,Running Bank shot,JUMP_SHOTS,,2012
+Avery Bradley,202340,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2012
+Avery Bradley,202340,Running Hook Shot,2,1,0,Running Hook Shot,POST_MOVES,,2012
+Avery Bradley,202340,Running Jump Shot,2,2,1,Running Jump Shot,JUMP_SHOTS,,2012
+Avery Bradley,202340,Standard Layup,2,5,5,Running Layup Shot,LAYUPS,,2012
+Avery Bradley,202340,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2012
+Avery Bradley,202340,Tip Shot,2,5,3,Tip Shot,TIP_SHOTS,,2012
+Avery Bradley,202340,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2012
+Avery Bradley,202340,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Avery Bradley,202340,Driving Dunk,2,3,2,Driving Dunk Shot,DUNKS,,2013
+Avery Bradley,202340,Finger Roll,2,4,3,Driving Finger Roll Layup Shot,LAYUPS,,2013
+Avery Bradley,202340,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2013
+Avery Bradley,202340,Driving Layup,2,29,16,Driving Layup Shot,LAYUPS,,2013
+Avery Bradley,202340,Driving Layup,2,4,2,Driving Reverse Layup Shot,LAYUPS,,2013
+Avery Bradley,202340,Standard Dunk,2,4,4,Dunk Shot,DUNKS,,2013
+Avery Bradley,202340,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2013
+Avery Bradley,202340,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Avery Bradley,202340,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2013
+Avery Bradley,202340,Floating Jump Shot,2,5,0,Floating Jump shot,FLOATING_SHOTS,,2013
+Avery Bradley,202340,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2013
+Avery Bradley,202340,Jump Shot,2,281,96,Jump Shot,JUMP_SHOTS,,2013
+Avery Bradley,202340,Standard Layup,2,74,26,Layup Shot,LAYUPS,,2013
+Avery Bradley,202340,Pullup Jump Shot,2,27,17,Pullup Jump shot,JUMP_SHOTS,,2013
+Avery Bradley,202340,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2013
+Avery Bradley,202340,Putback Layup,2,4,3,Putback Layup Shot,LAYUPS,,2013
+Avery Bradley,202340,Reverse Layup,2,11,6,Reverse Layup Shot,LAYUPS,,2013
+Avery Bradley,202340,Running Jump Shot,2,3,1,Running Bank shot,JUMP_SHOTS,,2013
+Avery Bradley,202340,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2013
+Avery Bradley,202340,Running Hook Shot,2,2,1,Running Hook Shot,POST_MOVES,,2013
+Avery Bradley,202340,Running Jump Shot,2,10,4,Running Jump Shot,JUMP_SHOTS,,2013
+Avery Bradley,202340,Standard Layup,2,3,1,Running Layup Shot,LAYUPS,,2013
+Avery Bradley,202340,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2013
+Avery Bradley,202340,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2013
+Avery Bradley,202340,Tip Shot,2,4,2,Tip Shot,TIP_SHOTS,,2013
+Avery Bradley,202340,Alley Oop Dunk,2,2,1,Alley Oop Dunk Shot,DUNKS,,2014
+Avery Bradley,202340,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2014
+Avery Bradley,202340,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2014
+Avery Bradley,202340,Finger Roll,2,4,3,Driving Finger Roll Layup Shot,LAYUPS,,2014
+Avery Bradley,202340,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2014
+Avery Bradley,202340,Driving Jump Shot,2,8,3,Driving Jump shot,JUMP_SHOTS,,2014
+Avery Bradley,202340,Driving Layup,2,30,20,Driving Layup Shot,LAYUPS,,2014
+Avery Bradley,202340,Driving Layup,2,10,6,Driving Reverse Layup Shot,LAYUPS,,2014
+Avery Bradley,202340,Standard Dunk,2,9,6,Dunk Shot,DUNKS,,2014
+Avery Bradley,202340,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2014
+Avery Bradley,202340,Fadeaway Jump Shot,2,8,2,Fadeaway Jump Shot,JUMP_SHOTS,,2014
+Avery Bradley,202340,Floating Jump Shot,2,8,2,Floating Jump shot,FLOATING_SHOTS,,2014
+Avery Bradley,202340,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2014
+Avery Bradley,202340,Jump Shot,2,538,204,Jump Shot,JUMP_SHOTS,,2014
+Avery Bradley,202340,Jump Shot,3,13,7,Jump Shot,JUMP_SHOTS,,2014
+Avery Bradley,202340,Standard Layup,2,69,35,Layup Shot,LAYUPS,,2014
+Avery Bradley,202340,Pullup Jump Shot,2,3,1,Pullup Bank shot,JUMP_SHOTS,,2014
+Avery Bradley,202340,Pullup Jump Shot,2,59,34,Pullup Jump shot,JUMP_SHOTS,,2014
+Avery Bradley,202340,Putback Dunk,2,4,4,Putback Dunk Shot,DUNKS,,2014
+Avery Bradley,202340,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2014
+Avery Bradley,202340,Putback Dunk,2,2,1,Putback Slam Dunk Shot,DUNKS,,2014
+Avery Bradley,202340,Reverse Layup,2,6,2,Reverse Layup Shot,LAYUPS,,2014
+Avery Bradley,202340,Running Jump Shot,2,3,3,Running Bank shot,JUMP_SHOTS,,2014
+Avery Bradley,202340,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2014
+Avery Bradley,202340,Running Jump Shot,2,11,0,Running Jump Shot,JUMP_SHOTS,,2014
+Avery Bradley,202340,Standard Layup,2,8,7,Running Layup Shot,LAYUPS,,2014
+Avery Bradley,202340,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2014
+Avery Bradley,202340,Standard Dunk,2,4,4,Slam Dunk Shot,DUNKS,,2014
+Avery Bradley,202340,Step Back Jump Shot,2,6,3,Step Back Jump shot,JUMP_SHOTS,,2014
+Avery Bradley,202340,Tip Shot,2,7,4,Tip Shot,TIP_SHOTS,,2014
+Avery Bradley,202340,Turnaround Jump Shot,2,3,3,Turnaround Jump Shot,JUMP_SHOTS,,2014
+Avery Bradley,202340,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2015
+Avery Bradley,202340,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2015
+Avery Bradley,202340,Finger Roll,2,5,5,Driving Finger Roll Layup Shot,LAYUPS,,2015
+Avery Bradley,202340,Driving Jump Shot,2,4,2,Driving Jump shot,JUMP_SHOTS,,2015
+Avery Bradley,202340,Driving Layup,2,39,26,Driving Layup Shot,LAYUPS,,2015
+Avery Bradley,202340,Driving Layup,2,3,2,Driving Reverse Layup Shot,LAYUPS,,2015
+Avery Bradley,202340,Driving Dunk,2,1,0,Driving Slam Dunk Shot,DUNKS,,2015
+Avery Bradley,202340,Standard Dunk,2,8,7,Dunk Shot,DUNKS,,2015
+Avery Bradley,202340,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2015
+Avery Bradley,202340,Fadeaway Jump Shot,2,4,1,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+Avery Bradley,202340,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2015
+Avery Bradley,202340,Floating Jump Shot,2,8,4,Floating Jump shot,FLOATING_SHOTS,,2015
+Avery Bradley,202340,Jump Shot,2,2,0,Jump Bank Shot,JUMP_SHOTS,,2015
+Avery Bradley,202340,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2015
+Avery Bradley,202340,Jump Shot,2,721,267,Jump Shot,JUMP_SHOTS,,2015
+Avery Bradley,202340,Jump Shot,3,18,8,Jump Shot,JUMP_SHOTS,,2015
+Avery Bradley,202340,Standard Layup,2,82,41,Layup Shot,LAYUPS,,2015
+Avery Bradley,202340,Pullup Jump Shot,2,1,0,Pullup Bank shot,JUMP_SHOTS,,2015
+Avery Bradley,202340,Pullup Jump Shot,2,60,37,Pullup Jump shot,JUMP_SHOTS,,2015
+Avery Bradley,202340,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2015
+Avery Bradley,202340,Putback Layup,2,3,1,Putback Layup Shot,LAYUPS,,2015
+Avery Bradley,202340,Putback Dunk,2,1,1,Putback Slam Dunk Shot,DUNKS,,2015
+Avery Bradley,202340,Reverse Layup,2,9,7,Reverse Layup Shot,LAYUPS,,2015
+Avery Bradley,202340,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2015
+Avery Bradley,202340,Finger Roll,2,1,0,Running Finger Roll Layup Shot,LAYUPS,,2015
+Avery Bradley,202340,Running Jump Shot,2,7,2,Running Jump Shot,JUMP_SHOTS,,2015
+Avery Bradley,202340,Standard Layup,2,9,7,Running Layup Shot,LAYUPS,,2015
+Avery Bradley,202340,Reverse Layup,2,3,0,Running Reverse Layup Shot,LAYUPS,,2015
+Avery Bradley,202340,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2015
+Avery Bradley,202340,Step Back Jump Shot,2,8,5,Step Back Jump shot,JUMP_SHOTS,,2015
+Avery Bradley,202340,Tip Shot,2,2,1,Tip Shot,TIP_SHOTS,,2015
+Avery Bradley,202340,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2015
+Avery Bradley,202340,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2015
+Avery Bradley,202340,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2016
+Avery Bradley,202340,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2016
+Avery Bradley,202340,Specialty Dunk,2,3,3,Cutting Dunk Shot,DUNKS,,2016
+Avery Bradley,202340,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2016
+Avery Bradley,202340,Standard Layup,2,28,26,Cutting Layup Shot,LAYUPS,,2016
+Avery Bradley,202340,Driving Jump Shot,2,2,1,Driving Bank shot,JUMP_SHOTS,,2016
+Avery Bradley,202340,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2016
+Avery Bradley,202340,Finger Roll,2,14,12,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Avery Bradley,202340,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2016
+Avery Bradley,202340,Floating Jump Shot,2,8,4,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Avery Bradley,202340,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2016
+Avery Bradley,202340,Driving Layup,2,36,17,Driving Layup Shot,LAYUPS,,2016
+Avery Bradley,202340,Driving Layup,2,7,4,Driving Reverse Layup Shot,LAYUPS,,2016
+Avery Bradley,202340,Standard Dunk,2,6,6,Dunk Shot,DUNKS,,2016
+Avery Bradley,202340,Fadeaway Jump Shot,2,5,1,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Avery Bradley,202340,Floating Jump Shot,2,10,3,Floating Jump shot,FLOATING_SHOTS,,2016
+Avery Bradley,202340,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2016
+Avery Bradley,202340,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2016
+Avery Bradley,202340,Jump Shot,2,589,193,Jump Shot,JUMP_SHOTS,,2016
+Avery Bradley,202340,Jump Shot,3,28,10,Jump Shot,JUMP_SHOTS,,2016
+Avery Bradley,202340,Standard Layup,2,48,21,Layup Shot,LAYUPS,,2016
+Avery Bradley,202340,Pullup Jump Shot,2,123,72,Pullup Jump shot,JUMP_SHOTS,,2016
+Avery Bradley,202340,Pullup Jump Shot,3,2,1,Pullup Jump shot,JUMP_SHOTS,,2016
+Avery Bradley,202340,Putback Dunk,2,2,2,Putback Dunk Shot,DUNKS,,2016
+Avery Bradley,202340,Putback Layup,2,6,5,Putback Layup Shot,LAYUPS,,2016
+Avery Bradley,202340,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2016
+Avery Bradley,202340,Alley Oop Layup,2,2,1,Running Alley Oop Layup Shot,LAYUPS,,2016
+Avery Bradley,202340,Standard Dunk,2,10,10,Running Dunk Shot,DUNKS,,2016
+Avery Bradley,202340,Finger Roll,2,11,11,Running Finger Roll Layup Shot,LAYUPS,,2016
+Avery Bradley,202340,Running Jump Shot,2,4,2,Running Jump Shot,JUMP_SHOTS,,2016
+Avery Bradley,202340,Standard Layup,2,31,24,Running Layup Shot,LAYUPS,,2016
+Avery Bradley,202340,Running Jump Shot,2,2,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2016
+Avery Bradley,202340,Step Back Jump Shot,2,17,5,Step Back Jump shot,JUMP_SHOTS,,2016
+Avery Bradley,202340,Putback Layup,2,4,4,Tip Layup Shot,LAYUPS,,2016
+Avery Bradley,202340,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2016
+Avery Bradley,202340,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2016
+Avery Bradley,202340,Turnaround Jump Shot,2,4,3,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Avery Bradley,202340,Alley Oop Dunk,2,4,4,Alley Oop Dunk Shot,DUNKS,,2017
+Avery Bradley,202340,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2017
+Avery Bradley,202340,Specialty Dunk,2,6,6,Cutting Dunk Shot,DUNKS,,2017
+Avery Bradley,202340,Finger Roll,2,9,8,Cutting Finger Roll Layup Shot,LAYUPS,,2017
+Avery Bradley,202340,Standard Layup,2,29,23,Cutting Layup Shot,LAYUPS,,2017
+Avery Bradley,202340,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2017
+Avery Bradley,202340,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2017
+Avery Bradley,202340,Finger Roll,2,20,13,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Avery Bradley,202340,Floating Jump Shot,2,2,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2017
+Avery Bradley,202340,Floating Jump Shot,2,14,9,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Avery Bradley,202340,Driving Layup,2,41,19,Driving Layup Shot,LAYUPS,,2017
+Avery Bradley,202340,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2017
+Avery Bradley,202340,Standard Dunk,2,3,2,Dunk Shot,DUNKS,,2017
+Avery Bradley,202340,Fadeaway Jump Shot,2,5,2,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Avery Bradley,202340,Finger Roll,2,6,3,Finger Roll Layup Shot,LAYUPS,,2017
+Avery Bradley,202340,Floating Jump Shot,2,14,6,Floating Jump shot,FLOATING_SHOTS,,2017
+Avery Bradley,202340,Hook Shot,2,3,1,Hook Shot,POST_MOVES,,2017
+Avery Bradley,202340,Jump Shot,2,3,2,Jump Bank Shot,JUMP_SHOTS,,2017
+Avery Bradley,202340,Jump Shot,2,400,143,Jump Shot,JUMP_SHOTS,,2017
+Avery Bradley,202340,Jump Shot,3,6,1,Jump Shot,JUMP_SHOTS,,2017
+Avery Bradley,202340,Standard Layup,2,48,18,Layup Shot,LAYUPS,,2017
+Avery Bradley,202340,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2017
+Avery Bradley,202340,Pullup Jump Shot,2,91,51,Pullup Jump shot,JUMP_SHOTS,,2017
+Avery Bradley,202340,Putback Dunk,2,3,3,Putback Dunk Shot,DUNKS,,2017
+Avery Bradley,202340,Putback Layup,2,7,5,Putback Layup Shot,LAYUPS,,2017
+Avery Bradley,202340,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2017
+Avery Bradley,202340,Standard Dunk,2,7,7,Running Dunk Shot,DUNKS,,2017
+Avery Bradley,202340,Finger Roll,2,5,5,Running Finger Roll Layup Shot,LAYUPS,,2017
+Avery Bradley,202340,Running Jump Shot,2,5,1,Running Jump Shot,JUMP_SHOTS,,2017
+Avery Bradley,202340,Standard Layup,2,7,4,Running Layup Shot,LAYUPS,,2017
+Avery Bradley,202340,Running Jump Shot,2,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2017
+Avery Bradley,202340,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2017
+Avery Bradley,202340,Step Back Jump Shot,2,7,3,Step Back Jump shot,JUMP_SHOTS,,2017
+Avery Bradley,202340,Putback Layup,2,14,10,Tip Layup Shot,LAYUPS,,2017
+Avery Bradley,202340,Turnaround Jump Shot,2,3,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2017
+Avery Bradley,202340,Turnaround Jump Shot,2,3,2,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Avery Bradley,202340,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2018
+Avery Bradley,202340,Specialty Dunk,2,4,4,Cutting Dunk Shot,DUNKS,,2018
+Avery Bradley,202340,Standard Layup,2,15,12,Cutting Layup Shot,LAYUPS,,2018
+Avery Bradley,202340,Driving Dunk,2,1,0,Driving Dunk Shot,DUNKS,,2018
+Avery Bradley,202340,Finger Roll,2,13,8,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Avery Bradley,202340,Floating Jump Shot,2,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Avery Bradley,202340,Floating Jump Shot,2,24,9,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Avery Bradley,202340,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2018
+Avery Bradley,202340,Driving Layup,2,44,20,Driving Layup Shot,LAYUPS,,2018
+Avery Bradley,202340,Driving Layup,2,5,4,Driving Reverse Layup Shot,LAYUPS,,2018
+Avery Bradley,202340,Standard Dunk,2,5,4,Dunk Shot,DUNKS,,2018
+Avery Bradley,202340,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+Avery Bradley,202340,Floating Jump Shot,2,24,11,Floating Jump shot,FLOATING_SHOTS,,2018
+Avery Bradley,202340,Hook Shot,2,2,0,Hook Shot,POST_MOVES,,2018
+Avery Bradley,202340,Jump Shot,2,237,76,Jump Shot,JUMP_SHOTS,,2018
+Avery Bradley,202340,Jump Shot,3,52,20,Jump Shot,JUMP_SHOTS,,2018
+Avery Bradley,202340,Standard Layup,2,60,23,Layup Shot,LAYUPS,,2018
+Avery Bradley,202340,Pullup Jump Shot,2,80,36,Pullup Jump shot,JUMP_SHOTS,,2018
+Avery Bradley,202340,Pullup Jump Shot,3,6,2,Pullup Jump shot,JUMP_SHOTS,,2018
+Avery Bradley,202340,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2018
+Avery Bradley,202340,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2018
+Avery Bradley,202340,Reverse Layup,2,7,4,Reverse Layup Shot,LAYUPS,,2018
+Avery Bradley,202340,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2018
+Avery Bradley,202340,Standard Dunk,2,3,2,Running Dunk Shot,DUNKS,,2018
+Avery Bradley,202340,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2018
+Avery Bradley,202340,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2018
+Avery Bradley,202340,Running Jump Shot,3,1,1,Running Jump Shot,JUMP_SHOTS,,2018
+Avery Bradley,202340,Standard Layup,2,9,6,Running Layup Shot,LAYUPS,,2018
+Avery Bradley,202340,Running Jump Shot,2,3,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2018
+Avery Bradley,202340,Running Jump Shot,3,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2018
+Avery Bradley,202340,Reverse Layup,2,2,1,Running Reverse Layup Shot,LAYUPS,,2018
+Avery Bradley,202340,Step Back Jump Shot,2,8,2,Step Back Jump shot,JUMP_SHOTS,,2018
+Avery Bradley,202340,Putback Layup,2,6,5,Tip Layup Shot,LAYUPS,,2018
+Avery Bradley,202340,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2018
+Avery Bradley,202340,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2018
+Avery Bradley,202340,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2019
+Avery Bradley,202340,Standard Layup,2,18,12,Cutting Layup Shot,LAYUPS,,2019
+Avery Bradley,202340,Finger Roll,2,3,1,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Avery Bradley,202340,Floating Jump Shot,2,6,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Avery Bradley,202340,Floating Jump Shot,2,15,8,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Avery Bradley,202340,Driving Layup,2,39,11,Driving Layup Shot,LAYUPS,,2019
+Avery Bradley,202340,Driving Layup,2,3,0,Driving Reverse Layup Shot,LAYUPS,,2019
+Avery Bradley,202340,Fadeaway Jump Shot,2,8,4,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+Avery Bradley,202340,Floating Jump Shot,2,21,6,Floating Jump shot,FLOATING_SHOTS,,2019
+Avery Bradley,202340,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2019
+Avery Bradley,202340,Jump Shot,2,248,91,Jump Shot,JUMP_SHOTS,,2019
+Avery Bradley,202340,Standard Layup,2,6,2,Layup Shot,LAYUPS,,2019
+Avery Bradley,202340,Pullup Jump Shot,2,149,66,Pullup Jump shot,JUMP_SHOTS,,2019
+Avery Bradley,202340,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2019
+Avery Bradley,202340,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2019
+Avery Bradley,202340,Reverse Layup,2,13,10,Reverse Layup Shot,LAYUPS,,2019
+Avery Bradley,202340,Alley Oop Layup,2,1,0,Running Alley Oop Layup Shot,LAYUPS,,2019
+Avery Bradley,202340,Finger Roll,2,2,2,Running Finger Roll Layup Shot,LAYUPS,,2019
+Avery Bradley,202340,Running Jump Shot,2,20,8,Running Jump Shot,JUMP_SHOTS,,2019
+Avery Bradley,202340,Standard Layup,2,11,3,Running Layup Shot,LAYUPS,,2019
+Avery Bradley,202340,Running Jump Shot,2,6,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2019
+Avery Bradley,202340,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2019
+Avery Bradley,202340,Step Back Jump Shot,2,17,10,Step Back Jump shot,JUMP_SHOTS,,2019
+Avery Bradley,202340,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2019
+Avery Bradley,202340,Putback Layup,2,13,5,Tip Layup Shot,LAYUPS,,2019
+Avery Bradley,202340,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2019
+Avery Bradley,202340,Turnaround Jump Shot,2,2,2,Turnaround Jump Shot,JUMP_SHOTS,,2019
+Avery Bradley,202340,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2020
+Avery Bradley,202340,Finger Roll,2,4,3,Cutting Finger Roll Layup Shot,LAYUPS,,2020
+Avery Bradley,202340,Standard Layup,2,17,15,Cutting Layup Shot,LAYUPS,,2020
+Avery Bradley,202340,Finger Roll,2,4,2,Driving Finger Roll Layup Shot,LAYUPS,,2020
+Avery Bradley,202340,Floating Jump Shot,2,3,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2020
+Avery Bradley,202340,Floating Jump Shot,2,9,5,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Avery Bradley,202340,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2020
+Avery Bradley,202340,Driving Layup,2,14,6,Driving Layup Shot,LAYUPS,,2020
+Avery Bradley,202340,Driving Layup,2,4,1,Driving Reverse Layup Shot,LAYUPS,,2020
+Avery Bradley,202340,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+Avery Bradley,202340,Floating Jump Shot,2,10,4,Floating Jump shot,FLOATING_SHOTS,,2020
+Avery Bradley,202340,Jump Shot,2,175,61,Jump Shot,JUMP_SHOTS,,2020
+Avery Bradley,202340,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2020
+Avery Bradley,202340,Pullup Jump Shot,2,72,33,Pullup Jump shot,JUMP_SHOTS,,2020
+Avery Bradley,202340,Reverse Layup,2,9,5,Reverse Layup Shot,LAYUPS,,2020
+Avery Bradley,202340,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2020
+Avery Bradley,202340,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2020
+Avery Bradley,202340,Running Jump Shot,2,12,5,Running Jump Shot,JUMP_SHOTS,,2020
+Avery Bradley,202340,Standard Layup,2,15,10,Running Layup Shot,LAYUPS,,2020
+Avery Bradley,202340,Running Jump Shot,2,10,7,Running Pull-Up Jump Shot,JUMP_SHOTS,,2020
+Avery Bradley,202340,Step Back Jump Shot,2,9,4,Step Back Jump shot,JUMP_SHOTS,,2020
+Avery Bradley,202340,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2020
+Avery Bradley,202340,Putback Layup,2,3,1,Tip Layup Shot,LAYUPS,,2020
+Avery Bradley,202340,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2020
+Avery Bradley,202340,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2020
+Avery Bradley,202340,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2020
+Avery Bradley,202340,Turnaround Jump Shot,2,2,2,Turnaround Jump Shot,JUMP_SHOTS,,2020
+Avery Bradley,202340,Alley Oop Layup,2,3,2,Alley Oop Layup shot,LAYUPS,,2021
+Avery Bradley,202340,Standard Layup,2,15,13,Cutting Layup Shot,LAYUPS,,2021
+Avery Bradley,202340,Floating Jump Shot,2,2,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2021
+Avery Bradley,202340,Floating Jump Shot,2,4,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Avery Bradley,202340,Driving Layup,2,11,3,Driving Layup Shot,LAYUPS,,2021
+Avery Bradley,202340,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2021
+Avery Bradley,202340,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2021
+Avery Bradley,202340,Floating Jump Shot,2,1,0,Floating Jump shot,FLOATING_SHOTS,,2021
+Avery Bradley,202340,Jump Shot,2,90,25,Jump Shot,JUMP_SHOTS,,2021
+Avery Bradley,202340,Standard Layup,2,1,0,Layup Shot,LAYUPS,,2021
+Avery Bradley,202340,Pullup Jump Shot,2,24,5,Pullup Jump shot,JUMP_SHOTS,,2021
+Avery Bradley,202340,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2021
+Avery Bradley,202340,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2021
+Avery Bradley,202340,Running Jump Shot,2,4,3,Running Jump Shot,JUMP_SHOTS,,2021
+Avery Bradley,202340,Standard Layup,2,4,4,Running Layup Shot,LAYUPS,,2021
+Avery Bradley,202340,Running Jump Shot,2,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2021
+Avery Bradley,202340,Step Back Jump Shot,2,6,4,Step Back Jump shot,JUMP_SHOTS,,2021
+Avery Bradley,202340,Putback Layup,2,1,1,Tip Layup Shot,LAYUPS,,2021
+Avery Bradley,202340,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2022
+Avery Bradley,202340,Standard Layup,2,16,9,Cutting Layup Shot,LAYUPS,,2022
+Avery Bradley,202340,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Avery Bradley,202340,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Avery Bradley,202340,Floating Jump Shot,2,9,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Avery Bradley,202340,Driving Hook Shot,2,4,0,Driving Hook Shot,POST_MOVES,,2022
+Avery Bradley,202340,Driving Layup,2,12,3,Driving Layup Shot,LAYUPS,,2022
+Avery Bradley,202340,Driving Layup,2,4,0,Driving Reverse Layup Shot,LAYUPS,,2022
+Avery Bradley,202340,Fadeaway Jump Shot,2,2,2,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Avery Bradley,202340,Floating Jump Shot,2,5,2,Floating Jump shot,FLOATING_SHOTS,,2022
+Avery Bradley,202340,Jump Shot,2,187,79,Jump Shot,JUMP_SHOTS,,2022
+Avery Bradley,202340,Jump Shot,3,1,1,Jump Shot,JUMP_SHOTS,,2022
+Avery Bradley,202340,Standard Layup,2,8,4,Layup Shot,LAYUPS,,2022
+Avery Bradley,202340,Pullup Jump Shot,2,41,17,Pullup Jump shot,JUMP_SHOTS,,2022
+Avery Bradley,202340,Putback Layup,2,4,2,Putback Layup Shot,LAYUPS,,2022
+Avery Bradley,202340,Reverse Layup,2,7,7,Reverse Layup Shot,LAYUPS,,2022
+Avery Bradley,202340,Finger Roll,2,1,0,Running Finger Roll Layup Shot,LAYUPS,,2022
+Avery Bradley,202340,Running Jump Shot,2,18,5,Running Jump Shot,JUMP_SHOTS,,2022
+Avery Bradley,202340,Standard Layup,2,5,2,Running Layup Shot,LAYUPS,,2022
+Avery Bradley,202340,Running Jump Shot,2,6,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
+Avery Bradley,202340,Step Back Jump Shot,2,8,3,Step Back Jump shot,JUMP_SHOTS,,2022
+Avery Bradley,202340,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2022
+Avery Bradley,202340,Putback Layup,2,7,5,Tip Layup Shot,LAYUPS,,2022

@@ -1,106 +1,445 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-202330,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2012
-202330,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2012
-202330,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2012
-202330,Jump Shot,3PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.5,2012
-202330,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2014
-202330,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2014
-202330,Jump Shot,2PT Field Goal,26,10,Jump Shot,JUMP_SHOTS,0.3846153846153846,2014
-202330,Jump Shot,3PT Field Goal,19,5,Jump Shot,JUMP_SHOTS,0.3947368421052631,2014
-202330,Standard Layup,2PT Field Goal,4,1,Layup Shot,LAYUPS,0.25,2014
-202330,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2014
-202330,Running Hook Shot,2PT Field Goal,1,0,Running Hook Shot,POST_MOVES,0.0,2014
-202330,Running Jump Shot,2PT Field Goal,2,2,Running Jump Shot,JUMP_SHOTS,1.0,2014
-202330,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2014
-202330,Standard Dunk,2PT Field Goal,3,3,Slam Dunk Shot,DUNKS,1.0,2014
-202330,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.0,2014
-202330,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2014
-202330,Driving Layup,2PT Field Goal,4,3,Driving Layup Shot,LAYUPS,0.75,2015
-202330,Driving Dunk,2PT Field Goal,1,1,Driving Slam Dunk Shot,DUNKS,1.0,2015
-202330,Standard Dunk,2PT Field Goal,3,3,Dunk Shot,DUNKS,1.0,2015
-202330,Hook Shot,2PT Field Goal,1,0,Jump Hook Shot,POST_MOVES,0.0,2015
-202330,Jump Shot,2PT Field Goal,16,5,Jump Shot,JUMP_SHOTS,0.3125,2015
-202330,Jump Shot,3PT Field Goal,22,8,Jump Shot,JUMP_SHOTS,0.5454545454545454,2015
-202330,Standard Layup,2PT Field Goal,5,3,Layup Shot,LAYUPS,0.6,2015
-202330,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2015
-202330,Running Jump Shot,2PT Field Goal,1,0,Running Bank shot,JUMP_SHOTS,0.0,2015
-202330,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2015
-202330,Running Jump Shot,2PT Field Goal,4,1,Running Jump Shot,JUMP_SHOTS,0.25,2015
-202330,Standard Layup,2PT Field Goal,2,1,Running Layup Shot,LAYUPS,0.5,2015
-202330,Step Back Jump Shot,2PT Field Goal,4,4,Step Back Jump shot,JUMP_SHOTS,1.0,2015
-202330,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2015
-202330,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2015
-202330,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2016
-202330,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2016
-202330,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,1.0,2016
-202330,Driving Layup,2PT Field Goal,3,1,Driving Layup Shot,LAYUPS,0.3333333333333333,2016
-202330,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2016
-202330,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2016
-202330,Jump Shot,2PT Field Goal,2,0,Jump Bank Shot,JUMP_SHOTS,0.0,2016
-202330,Jump Shot,2PT Field Goal,13,4,Jump Shot,JUMP_SHOTS,0.3076923076923077,2016
-202330,Jump Shot,3PT Field Goal,22,5,Jump Shot,JUMP_SHOTS,0.3409090909090909,2016
-202330,Standard Layup,2PT Field Goal,5,0,Layup Shot,LAYUPS,0.0,2016
-202330,Pullup Jump Shot,2PT Field Goal,6,4,Pullup Jump shot,JUMP_SHOTS,0.6666666666666666,2016
-202330,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2016
-202330,Standard Dunk,2PT Field Goal,2,2,Running Dunk Shot,DUNKS,1.0,2016
-202330,Finger Roll,2PT Field Goal,1,1,Running Finger Roll Layup Shot,LAYUPS,1.0,2016
-202330,Step Back Jump Shot,2PT Field Goal,4,4,Step Back Jump shot,JUMP_SHOTS,1.0,2016
-202330,Step Back Jump Shot,3PT Field Goal,2,2,Step Back Jump shot,JUMP_SHOTS,1.5,2016
-202330,Putback Layup,2PT Field Goal,1,1,Tip Layup Shot,LAYUPS,1.0,2016
-202330,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2016
-202330,Alley Oop Dunk,2PT Field Goal,2,2,Alley Oop Dunk Shot,DUNKS,1.0,2017
-202330,Standard Layup,2PT Field Goal,3,3,Cutting Layup Shot,LAYUPS,1.0,2017
-202330,Driving Hook Shot,2PT Field Goal,1,1,Driving Bank Hook Shot,POST_MOVES,1.0,2017
-202330,Driving Dunk,2PT Field Goal,2,2,Driving Dunk Shot,DUNKS,1.0,2017
-202330,Driving Hook Shot,2PT Field Goal,1,1,Driving Hook Shot,POST_MOVES,1.0,2017
-202330,Driving Layup,2PT Field Goal,5,3,Driving Layup Shot,LAYUPS,0.6,2017
-202330,Fadeaway Jump Shot,2PT Field Goal,4,2,Fadeaway Jump Shot,JUMP_SHOTS,0.5,2017
-202330,Floating Jump Shot,2PT Field Goal,2,2,Floating Jump shot,FLOATING_SHOTS,1.0,2017
-202330,Jump Shot,2PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2017
-202330,Jump Shot,2PT Field Goal,16,2,Jump Shot,JUMP_SHOTS,0.125,2017
-202330,Jump Shot,3PT Field Goal,28,11,Jump Shot,JUMP_SHOTS,0.5892857142857143,2017
-202330,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2017
-202330,Pullup Jump Shot,2PT Field Goal,21,14,Pullup Jump shot,JUMP_SHOTS,0.6666666666666666,2017
-202330,Pullup Jump Shot,3PT Field Goal,6,6,Pullup Jump shot,JUMP_SHOTS,1.5,2017
-202330,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2017
-202330,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2017
-202330,Step Back Jump Shot,2PT Field Goal,2,1,Step Back Jump shot,JUMP_SHOTS,0.5,2017
-202330,Turnaround Jump Shot,2PT Field Goal,4,2,Turnaround Fadeaway shot,JUMP_SHOTS,0.5,2017
-202330,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2017
-202330,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2019
-202330,Jump Shot,2PT Field Goal,2,2,Jump Shot,JUMP_SHOTS,1.0,2019
-202330,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,2019
-202330,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2019
-202330,Alley Oop Layup,2PT Field Goal,1,0,Alley Oop Layup shot,LAYUPS,0.0,2024
-202330,Specialty Dunk,2PT Field Goal,3,2,Cutting Dunk Shot,DUNKS,0.6666666666666666,2024
-202330,Standard Layup,2PT Field Goal,4,2,Cutting Layup Shot,LAYUPS,0.5,2024
-202330,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2024
-202330,Finger Roll,2PT Field Goal,1,0,Driving Finger Roll Layup Shot,LAYUPS,0.0,2024
-202330,Floating Jump Shot,2PT Field Goal,7,7,Driving Floating Bank Jump Shot,FLOATING_SHOTS,1.0,2024
-202330,Floating Jump Shot,2PT Field Goal,18,7,Driving Floating Jump Shot,FLOATING_SHOTS,0.3888888888888889,2024
-202330,Driving Layup,2PT Field Goal,13,8,Driving Layup Shot,LAYUPS,0.6153846153846154,2024
-202330,Driving Layup,2PT Field Goal,2,0,Driving Reverse Layup Shot,LAYUPS,0.0,2024
-202330,Fadeaway Jump Shot,2PT Field Goal,6,2,Fadeaway Jump Shot,JUMP_SHOTS,0.3333333333333333,2024
-202330,Floating Jump Shot,2PT Field Goal,3,0,Floating Jump shot,FLOATING_SHOTS,0.0,2024
-202330,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2024
-202330,Jump Shot,2PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2024
-202330,Jump Shot,2PT Field Goal,15,7,Jump Shot,JUMP_SHOTS,0.4666666666666667,2024
-202330,Jump Shot,3PT Field Goal,29,11,Jump Shot,JUMP_SHOTS,0.5689655172413793,2024
-202330,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2024
-202330,Pullup Jump Shot,2PT Field Goal,27,9,Pullup Jump shot,JUMP_SHOTS,0.3333333333333333,2024
-202330,Pullup Jump Shot,3PT Field Goal,3,1,Pullup Jump shot,JUMP_SHOTS,0.5,2024
-202330,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2024
-202330,Alley Oop Dunk,2PT Field Goal,4,3,Running Alley Oop Dunk Shot,DUNKS,0.75,2024
-202330,Standard Dunk,2PT Field Goal,2,2,Running Dunk Shot,DUNKS,1.0,2024
-202330,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2024
-202330,Running Jump Shot,3PT Field Goal,7,3,Running Jump Shot,JUMP_SHOTS,0.6428571428571429,2024
-202330,Standard Layup,2PT Field Goal,5,3,Running Layup Shot,LAYUPS,0.6,2024
-202330,Running Jump Shot,2PT Field Goal,3,2,Running Pull-Up Jump Shot,JUMP_SHOTS,0.6666666666666666,2024
-202330,Running Jump Shot,3PT Field Goal,2,1,Running Pull-Up Jump Shot,JUMP_SHOTS,0.75,2024
-202330,Reverse Layup,2PT Field Goal,2,1,Running Reverse Layup Shot,LAYUPS,0.5,2024
-202330,Step Back Jump Shot,2PT Field Goal,10,2,Step Back Jump shot,JUMP_SHOTS,0.2,2024
-202330,Step Back Jump Shot,3PT Field Goal,3,0,Step Back Jump shot,JUMP_SHOTS,0.0,2024
-202330,Putback Layup,2PT Field Goal,1,1,Tip Layup Shot,LAYUPS,1.0,2024
-202330,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Bank shot,JUMP_SHOTS,0.0,2024
-202330,Turnaround Jump Shot,2PT Field Goal,7,4,Turnaround Fadeaway shot,JUMP_SHOTS,0.5714285714285714,2024
-202330,Turnaround Jump Shot,2PT Field Goal,2,1,Turnaround Jump Shot,JUMP_SHOTS,0.5,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Gordon Hayward,202330,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2011
+Gordon Hayward,202330,Alley Oop Layup,2,3,2,Alley Oop Layup shot,LAYUPS,,2011
+Gordon Hayward,202330,Driving Dunk,2,3,3,Driving Dunk Shot,DUNKS,,2011
+Gordon Hayward,202330,Driving Jump Shot,2,2,0,Driving Jump shot,JUMP_SHOTS,,2011
+Gordon Hayward,202330,Driving Layup,2,14,12,Driving Layup Shot,LAYUPS,,2011
+Gordon Hayward,202330,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2011
+Gordon Hayward,202330,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2011
+Gordon Hayward,202330,Standard Dunk,2,10,7,Dunk Shot,DUNKS,,2011
+Gordon Hayward,202330,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Gordon Hayward,202330,Jump Shot,2,2,0,Jump Bank Shot,JUMP_SHOTS,,2011
+Gordon Hayward,202330,Jump Shot,2,184,77,Jump Shot,JUMP_SHOTS,,2011
+Gordon Hayward,202330,Standard Layup,2,47,24,Layup Shot,LAYUPS,,2011
+Gordon Hayward,202330,Pullup Jump Shot,2,3,3,Pullup Jump shot,JUMP_SHOTS,,2011
+Gordon Hayward,202330,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2011
+Gordon Hayward,202330,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2011
+Gordon Hayward,202330,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2011
+Gordon Hayward,202330,Running Jump Shot,2,2,0,Running Jump Shot,JUMP_SHOTS,,2011
+Gordon Hayward,202330,Standard Dunk,2,3,3,Slam Dunk Shot,DUNKS,,2011
+Gordon Hayward,202330,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2011
+Gordon Hayward,202330,Tip Shot,2,3,1,Tip Shot,TIP_SHOTS,,2011
+Gordon Hayward,202330,Turnaround Jump Shot,2,4,1,Turnaround Jump Shot,JUMP_SHOTS,,2011
+Gordon Hayward,202330,Alley Oop Dunk,2,3,3,Alley Oop Dunk Shot,DUNKS,,2012
+Gordon Hayward,202330,Alley Oop Layup,2,6,4,Alley Oop Layup shot,LAYUPS,,2012
+Gordon Hayward,202330,Driving Dunk,2,3,2,Driving Dunk Shot,DUNKS,,2012
+Gordon Hayward,202330,Driving Jump Shot,2,6,2,Driving Jump shot,JUMP_SHOTS,,2012
+Gordon Hayward,202330,Driving Layup,2,28,18,Driving Layup Shot,LAYUPS,,2012
+Gordon Hayward,202330,Driving Dunk,2,3,3,Driving Slam Dunk Shot,DUNKS,,2012
+Gordon Hayward,202330,Standard Dunk,2,22,19,Dunk Shot,DUNKS,,2012
+Gordon Hayward,202330,Fadeaway Jump Shot,2,14,5,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Gordon Hayward,202330,Finger Roll,2,2,1,Finger Roll Layup Shot,LAYUPS,,2012
+Gordon Hayward,202330,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2012
+Gordon Hayward,202330,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2012
+Gordon Hayward,202330,Jump Shot,2,358,126,Jump Shot,JUMP_SHOTS,,2012
+Gordon Hayward,202330,Jump Shot,3,1,1,Jump Shot,JUMP_SHOTS,,2012
+Gordon Hayward,202330,Standard Layup,2,78,38,Layup Shot,LAYUPS,,2012
+Gordon Hayward,202330,Pullup Jump Shot,2,5,4,Pullup Jump shot,JUMP_SHOTS,,2012
+Gordon Hayward,202330,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2012
+Gordon Hayward,202330,Reverse Layup,2,6,5,Reverse Layup Shot,LAYUPS,,2012
+Gordon Hayward,202330,Running Jump Shot,2,4,4,Running Bank shot,JUMP_SHOTS,,2012
+Gordon Hayward,202330,Running Jump Shot,2,8,6,Running Jump Shot,JUMP_SHOTS,,2012
+Gordon Hayward,202330,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2012
+Gordon Hayward,202330,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2012
+Gordon Hayward,202330,Standard Dunk,2,11,11,Slam Dunk Shot,DUNKS,,2012
+Gordon Hayward,202330,Step Back Jump Shot,2,2,2,Step Back Jump shot,JUMP_SHOTS,,2012
+Gordon Hayward,202330,Tip Shot,2,11,6,Tip Shot,TIP_SHOTS,,2012
+Gordon Hayward,202330,Turnaround Jump Shot,2,3,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2012
+Gordon Hayward,202330,Turnaround Jump Shot,2,4,1,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Gordon Hayward,202330,Alley Oop Dunk,2,11,10,Alley Oop Dunk Shot,DUNKS,,2013
+Gordon Hayward,202330,Alley Oop Layup,2,4,2,Alley Oop Layup shot,LAYUPS,,2013
+Gordon Hayward,202330,Driving Dunk,2,3,2,Driving Dunk Shot,DUNKS,,2013
+Gordon Hayward,202330,Driving Jump Shot,2,1,1,Driving Jump shot,JUMP_SHOTS,,2013
+Gordon Hayward,202330,Driving Layup,2,22,16,Driving Layup Shot,LAYUPS,,2013
+Gordon Hayward,202330,Driving Layup,2,3,3,Driving Reverse Layup Shot,LAYUPS,,2013
+Gordon Hayward,202330,Standard Dunk,2,11,9,Dunk Shot,DUNKS,,2013
+Gordon Hayward,202330,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2013
+Gordon Hayward,202330,Fadeaway Jump Shot,2,10,5,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Gordon Hayward,202330,Floating Jump Shot,2,4,3,Floating Jump shot,FLOATING_SHOTS,,2013
+Gordon Hayward,202330,Hook Shot,2,2,2,Hook Bank Shot,POST_MOVES,,2013
+Gordon Hayward,202330,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2013
+Gordon Hayward,202330,Jump Shot,2,7,4,Jump Bank Shot,JUMP_SHOTS,,2013
+Gordon Hayward,202330,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2013
+Gordon Hayward,202330,Jump Shot,2,510,178,Jump Shot,JUMP_SHOTS,,2013
+Gordon Hayward,202330,Jump Shot,3,4,1,Jump Shot,JUMP_SHOTS,,2013
+Gordon Hayward,202330,Standard Layup,2,101,46,Layup Shot,LAYUPS,,2013
+Gordon Hayward,202330,Pullup Jump Shot,2,9,8,Pullup Jump shot,JUMP_SHOTS,,2013
+Gordon Hayward,202330,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2013
+Gordon Hayward,202330,Putback Layup,2,3,2,Putback Layup Shot,LAYUPS,,2013
+Gordon Hayward,202330,Reverse Layup,2,12,6,Reverse Layup Shot,LAYUPS,,2013
+Gordon Hayward,202330,Running Jump Shot,2,3,2,Running Bank shot,JUMP_SHOTS,,2013
+Gordon Hayward,202330,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2013
+Gordon Hayward,202330,Running Jump Shot,2,11,7,Running Jump Shot,JUMP_SHOTS,,2013
+Gordon Hayward,202330,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2013
+Gordon Hayward,202330,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2013
+Gordon Hayward,202330,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2013
+Gordon Hayward,202330,Standard Dunk,2,11,11,Slam Dunk Shot,DUNKS,,2013
+Gordon Hayward,202330,Step Back Jump Shot,2,5,3,Step Back Jump shot,JUMP_SHOTS,,2013
+Gordon Hayward,202330,Tip Shot,2,8,2,Tip Shot,TIP_SHOTS,,2013
+Gordon Hayward,202330,Turnaround Jump Shot,2,3,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2013
+Gordon Hayward,202330,Turnaround Jump Shot,2,6,3,Turnaround Jump Shot,JUMP_SHOTS,,2013
+Gordon Hayward,202330,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2014
+Gordon Hayward,202330,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2014
+Gordon Hayward,202330,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2014
+Gordon Hayward,202330,Driving Jump Shot,2,6,3,Driving Jump shot,JUMP_SHOTS,,2014
+Gordon Hayward,202330,Driving Layup,2,65,48,Driving Layup Shot,LAYUPS,,2014
+Gordon Hayward,202330,Driving Layup,2,6,4,Driving Reverse Layup Shot,LAYUPS,,2014
+Gordon Hayward,202330,Driving Dunk,2,6,6,Driving Slam Dunk Shot,DUNKS,,2014
+Gordon Hayward,202330,Standard Dunk,2,12,12,Dunk Shot,DUNKS,,2014
+Gordon Hayward,202330,Fadeaway Jump Shot,2,18,10,Fadeaway Jump Shot,JUMP_SHOTS,,2014
+Gordon Hayward,202330,Floating Jump Shot,2,10,7,Floating Jump shot,FLOATING_SHOTS,,2014
+Gordon Hayward,202330,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2014
+Gordon Hayward,202330,Jump Shot,2,9,3,Jump Bank Shot,JUMP_SHOTS,,2014
+Gordon Hayward,202330,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2014
+Gordon Hayward,202330,Jump Shot,2,614,194,Jump Shot,JUMP_SHOTS,,2014
+Gordon Hayward,202330,Jump Shot,3,51,13,Jump Shot,JUMP_SHOTS,,2014
+Gordon Hayward,202330,Standard Layup,2,91,39,Layup Shot,LAYUPS,,2014
+Gordon Hayward,202330,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2014
+Gordon Hayward,202330,Pullup Jump Shot,2,30,16,Pullup Jump shot,JUMP_SHOTS,,2014
+Gordon Hayward,202330,Putback Layup,2,3,3,Putback Layup Shot,LAYUPS,,2014
+Gordon Hayward,202330,Reverse Layup,2,4,2,Reverse Layup Shot,LAYUPS,,2014
+Gordon Hayward,202330,Running Jump Shot,2,8,5,Running Bank shot,JUMP_SHOTS,,2014
+Gordon Hayward,202330,Standard Dunk,2,2,1,Running Dunk Shot,DUNKS,,2014
+Gordon Hayward,202330,Running Hook Shot,2,2,0,Running Hook Shot,POST_MOVES,,2014
+Gordon Hayward,202330,Running Jump Shot,2,27,14,Running Jump Shot,JUMP_SHOTS,,2014
+Gordon Hayward,202330,Standard Layup,2,4,1,Running Layup Shot,LAYUPS,,2014
+Gordon Hayward,202330,Standard Dunk,2,2,2,Running Slam Dunk Shot,DUNKS,,2014
+Gordon Hayward,202330,Standard Dunk,2,12,12,Slam Dunk Shot,DUNKS,,2014
+Gordon Hayward,202330,Step Back Jump Shot,2,19,12,Step Back Jump shot,JUMP_SHOTS,,2014
+Gordon Hayward,202330,Tip Shot,2,7,2,Tip Shot,TIP_SHOTS,,2014
+Gordon Hayward,202330,Turnaround Jump Shot,2,8,5,Turnaround Fadeaway shot,JUMP_SHOTS,,2014
+Gordon Hayward,202330,Turnaround Jump Shot,2,7,4,Turnaround Jump Shot,JUMP_SHOTS,,2014
+Gordon Hayward,202330,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2015
+Gordon Hayward,202330,Alley Oop Layup,2,3,2,Alley Oop Layup shot,LAYUPS,,2015
+Gordon Hayward,202330,Driving Dunk,2,7,7,Driving Dunk Shot,DUNKS,,2015
+Gordon Hayward,202330,Driving Jump Shot,2,5,1,Driving Jump shot,JUMP_SHOTS,,2015
+Gordon Hayward,202330,Driving Layup,2,54,40,Driving Layup Shot,LAYUPS,,2015
+Gordon Hayward,202330,Driving Layup,2,6,4,Driving Reverse Layup Shot,LAYUPS,,2015
+Gordon Hayward,202330,Driving Dunk,2,7,7,Driving Slam Dunk Shot,DUNKS,,2015
+Gordon Hayward,202330,Standard Dunk,2,18,18,Dunk Shot,DUNKS,,2015
+Gordon Hayward,202330,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2015
+Gordon Hayward,202330,Fadeaway Jump Shot,2,23,11,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+Gordon Hayward,202330,Floating Jump Shot,2,9,5,Floating Jump shot,FLOATING_SHOTS,,2015
+Gordon Hayward,202330,Hook Shot,2,2,2,Hook Shot,POST_MOVES,,2015
+Gordon Hayward,202330,Jump Shot,2,9,6,Jump Bank Shot,JUMP_SHOTS,,2015
+Gordon Hayward,202330,Jump Shot,3,1,0,Jump Bank Shot,JUMP_SHOTS,,2015
+Gordon Hayward,202330,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2015
+Gordon Hayward,202330,Jump Shot,2,522,177,Jump Shot,JUMP_SHOTS,,2015
+Gordon Hayward,202330,Jump Shot,3,114,36,Jump Shot,JUMP_SHOTS,,2015
+Gordon Hayward,202330,Standard Layup,2,84,35,Layup Shot,LAYUPS,,2015
+Gordon Hayward,202330,Pullup Jump Shot,2,36,23,Pullup Jump shot,JUMP_SHOTS,,2015
+Gordon Hayward,202330,Pullup Jump Shot,3,1,1,Pullup Jump shot,JUMP_SHOTS,,2015
+Gordon Hayward,202330,Putback Dunk,2,1,1,Putback Slam Dunk Shot,DUNKS,,2015
+Gordon Hayward,202330,Reverse Layup,2,21,10,Reverse Layup Shot,LAYUPS,,2015
+Gordon Hayward,202330,Running Jump Shot,2,19,13,Running Bank shot,JUMP_SHOTS,,2015
+Gordon Hayward,202330,Standard Dunk,2,7,7,Running Dunk Shot,DUNKS,,2015
+Gordon Hayward,202330,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2015
+Gordon Hayward,202330,Running Jump Shot,2,54,28,Running Jump Shot,JUMP_SHOTS,,2015
+Gordon Hayward,202330,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2015
+Gordon Hayward,202330,Standard Layup,2,8,5,Running Layup Shot,LAYUPS,,2015
+Gordon Hayward,202330,Standard Dunk,2,1,1,Running Slam Dunk Shot,DUNKS,,2015
+Gordon Hayward,202330,Standard Dunk,2,7,7,Slam Dunk Shot,DUNKS,,2015
+Gordon Hayward,202330,Step Back Jump Shot,2,36,21,Step Back Jump shot,JUMP_SHOTS,,2015
+Gordon Hayward,202330,Tip Shot,2,7,2,Tip Shot,TIP_SHOTS,,2015
+Gordon Hayward,202330,Turnaround Jump Shot,2,8,4,Turnaround Fadeaway shot,JUMP_SHOTS,,2015
+Gordon Hayward,202330,Turnaround Jump Shot,2,11,6,Turnaround Jump Shot,JUMP_SHOTS,,2015
+Gordon Hayward,202330,Alley Oop Dunk,2,7,4,Alley Oop Dunk Shot,DUNKS,,2016
+Gordon Hayward,202330,Alley Oop Layup,2,3,2,Alley Oop Layup shot,LAYUPS,,2016
+Gordon Hayward,202330,Specialty Dunk,2,4,4,Cutting Dunk Shot,DUNKS,,2016
+Gordon Hayward,202330,Standard Layup,2,3,3,Cutting Layup Shot,LAYUPS,,2016
+Gordon Hayward,202330,Driving Jump Shot,2,7,4,Driving Bank shot,JUMP_SHOTS,,2016
+Gordon Hayward,202330,Driving Dunk,2,17,14,Driving Dunk Shot,DUNKS,,2016
+Gordon Hayward,202330,Finger Roll,2,3,1,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Gordon Hayward,202330,Floating Jump Shot,2,6,6,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2016
+Gordon Hayward,202330,Floating Jump Shot,2,18,10,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Gordon Hayward,202330,Driving Layup,2,65,42,Driving Layup Shot,LAYUPS,,2016
+Gordon Hayward,202330,Driving Layup,2,7,4,Driving Reverse Layup Shot,LAYUPS,,2016
+Gordon Hayward,202330,Standard Dunk,2,12,9,Dunk Shot,DUNKS,,2016
+Gordon Hayward,202330,Fadeaway Jump Shot,2,8,5,Fadeaway Bank shot,JUMP_SHOTS,,2016
+Gordon Hayward,202330,Fadeaway Jump Shot,2,38,16,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Gordon Hayward,202330,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2016
+Gordon Hayward,202330,Floating Jump Shot,2,42,19,Floating Jump shot,FLOATING_SHOTS,,2016
+Gordon Hayward,202330,Hook Shot,2,4,2,Hook Shot,POST_MOVES,,2016
+Gordon Hayward,202330,Jump Shot,2,20,11,Jump Bank Shot,JUMP_SHOTS,,2016
+Gordon Hayward,202330,Jump Shot,2,510,155,Jump Shot,JUMP_SHOTS,,2016
+Gordon Hayward,202330,Jump Shot,3,95,27,Jump Shot,JUMP_SHOTS,,2016
+Gordon Hayward,202330,Standard Layup,2,75,24,Layup Shot,LAYUPS,,2016
+Gordon Hayward,202330,Pullup Jump Shot,2,3,3,Pullup Bank shot,JUMP_SHOTS,,2016
+Gordon Hayward,202330,Pullup Jump Shot,2,88,51,Pullup Jump shot,JUMP_SHOTS,,2016
+Gordon Hayward,202330,Pullup Jump Shot,3,4,3,Pullup Jump shot,JUMP_SHOTS,,2016
+Gordon Hayward,202330,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2016
+Gordon Hayward,202330,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2016
+Gordon Hayward,202330,Reverse Layup,2,7,4,Reverse Layup Shot,LAYUPS,,2016
+Gordon Hayward,202330,Standard Dunk,2,20,20,Running Dunk Shot,DUNKS,,2016
+Gordon Hayward,202330,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2016
+Gordon Hayward,202330,Running Jump Shot,2,8,6,Running Jump Shot,JUMP_SHOTS,,2016
+Gordon Hayward,202330,Standard Layup,2,19,15,Running Layup Shot,LAYUPS,,2016
+Gordon Hayward,202330,Running Jump Shot,2,4,4,Running Pull-Up Jump Shot,JUMP_SHOTS,,2016
+Gordon Hayward,202330,Reverse Layup,2,4,4,Running Reverse Layup Shot,LAYUPS,,2016
+Gordon Hayward,202330,Step Back Jump Shot,2,2,1,Step Back Bank Jump Shot,JUMP_SHOTS,,2016
+Gordon Hayward,202330,Step Back Jump Shot,2,53,27,Step Back Jump shot,JUMP_SHOTS,,2016
+Gordon Hayward,202330,Step Back Jump Shot,3,3,2,Step Back Jump shot,JUMP_SHOTS,,2016
+Gordon Hayward,202330,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2016
+Gordon Hayward,202330,Putback Layup,2,6,3,Tip Layup Shot,LAYUPS,,2016
+Gordon Hayward,202330,Turnaround Jump Shot,2,1,0,Turnaround Bank shot,JUMP_SHOTS,,2016
+Gordon Hayward,202330,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2016
+Gordon Hayward,202330,Turnaround Jump Shot,2,17,6,Turnaround Fadeaway shot,JUMP_SHOTS,,2016
+Gordon Hayward,202330,Turnaround Jump Shot,2,12,4,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Gordon Hayward,202330,Alley Oop Dunk,2,17,16,Alley Oop Dunk Shot,DUNKS,,2017
+Gordon Hayward,202330,Alley Oop Layup,2,15,9,Alley Oop Layup shot,LAYUPS,,2017
+Gordon Hayward,202330,Specialty Dunk,2,6,6,Cutting Dunk Shot,DUNKS,,2017
+Gordon Hayward,202330,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2017
+Gordon Hayward,202330,Standard Layup,2,17,15,Cutting Layup Shot,LAYUPS,,2017
+Gordon Hayward,202330,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2017
+Gordon Hayward,202330,Driving Jump Shot,2,4,3,Driving Bank shot,JUMP_SHOTS,,2017
+Gordon Hayward,202330,Driving Dunk,2,20,18,Driving Dunk Shot,DUNKS,,2017
+Gordon Hayward,202330,Finger Roll,2,3,3,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Gordon Hayward,202330,Floating Jump Shot,2,8,5,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2017
+Gordon Hayward,202330,Floating Jump Shot,2,24,8,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Gordon Hayward,202330,Driving Hook Shot,2,3,3,Driving Hook Shot,POST_MOVES,,2017
+Gordon Hayward,202330,Driving Layup,2,57,32,Driving Layup Shot,LAYUPS,,2017
+Gordon Hayward,202330,Driving Layup,2,8,7,Driving Reverse Layup Shot,LAYUPS,,2017
+Gordon Hayward,202330,Standard Dunk,2,7,7,Dunk Shot,DUNKS,,2017
+Gordon Hayward,202330,Fadeaway Jump Shot,2,2,2,Fadeaway Bank shot,JUMP_SHOTS,,2017
+Gordon Hayward,202330,Fadeaway Jump Shot,2,43,17,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Gordon Hayward,202330,Floating Jump Shot,2,21,9,Floating Jump shot,FLOATING_SHOTS,,2017
+Gordon Hayward,202330,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2017
+Gordon Hayward,202330,Jump Shot,2,6,3,Jump Bank Shot,JUMP_SHOTS,,2017
+Gordon Hayward,202330,Jump Shot,2,428,135,Jump Shot,JUMP_SHOTS,,2017
+Gordon Hayward,202330,Jump Shot,3,118,43,Jump Shot,JUMP_SHOTS,,2017
+Gordon Hayward,202330,Standard Layup,2,55,27,Layup Shot,LAYUPS,,2017
+Gordon Hayward,202330,Pullup Jump Shot,2,2,1,Pullup Bank shot,JUMP_SHOTS,,2017
+Gordon Hayward,202330,Pullup Jump Shot,2,123,73,Pullup Jump shot,JUMP_SHOTS,,2017
+Gordon Hayward,202330,Pullup Jump Shot,3,18,12,Pullup Jump shot,JUMP_SHOTS,,2017
+Gordon Hayward,202330,Putback Dunk,2,1,1,Putback Dunk Shot,DUNKS,,2017
+Gordon Hayward,202330,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2017
+Gordon Hayward,202330,Reverse Layup,2,10,4,Reverse Layup Shot,LAYUPS,,2017
+Gordon Hayward,202330,Alley Oop Dunk,2,4,4,Running Alley Oop Dunk Shot,DUNKS,,2017
+Gordon Hayward,202330,Standard Dunk,2,17,16,Running Dunk Shot,DUNKS,,2017
+Gordon Hayward,202330,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2017
+Gordon Hayward,202330,Running Jump Shot,2,6,4,Running Jump Shot,JUMP_SHOTS,,2017
+Gordon Hayward,202330,Running Jump Shot,3,2,2,Running Jump Shot,JUMP_SHOTS,,2017
+Gordon Hayward,202330,Standard Layup,2,16,12,Running Layup Shot,LAYUPS,,2017
+Gordon Hayward,202330,Running Jump Shot,2,4,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2017
+Gordon Hayward,202330,Reverse Layup,2,3,3,Running Reverse Layup Shot,LAYUPS,,2017
+Gordon Hayward,202330,Step Back Jump Shot,2,24,13,Step Back Jump shot,JUMP_SHOTS,,2017
+Gordon Hayward,202330,Step Back Jump Shot,3,1,1,Step Back Jump shot,JUMP_SHOTS,,2017
+Gordon Hayward,202330,Putback Layup,2,8,3,Tip Layup Shot,LAYUPS,,2017
+Gordon Hayward,202330,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2017
+Gordon Hayward,202330,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2017
+Gordon Hayward,202330,Turnaround Jump Shot,2,30,15,Turnaround Fadeaway shot,JUMP_SHOTS,,2017
+Gordon Hayward,202330,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2017
+Gordon Hayward,202330,Turnaround Jump Shot,2,15,3,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Gordon Hayward,202330,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+Gordon Hayward,202330,Jump Shot,2,1,0,Jump Shot,JUMP_SHOTS,,2018
+Gordon Hayward,202330,Alley Oop Dunk,2,3,3,Alley Oop Dunk Shot,DUNKS,,2019
+Gordon Hayward,202330,Alley Oop Layup,2,4,3,Alley Oop Layup shot,LAYUPS,,2019
+Gordon Hayward,202330,Specialty Dunk,2,5,5,Cutting Dunk Shot,DUNKS,,2019
+Gordon Hayward,202330,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2019
+Gordon Hayward,202330,Standard Layup,2,14,8,Cutting Layup Shot,LAYUPS,,2019
+Gordon Hayward,202330,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2019
+Gordon Hayward,202330,Finger Roll,2,10,6,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Gordon Hayward,202330,Floating Jump Shot,2,8,7,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Gordon Hayward,202330,Floating Jump Shot,2,16,8,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Gordon Hayward,202330,Driving Layup,2,48,26,Driving Layup Shot,LAYUPS,,2019
+Gordon Hayward,202330,Driving Layup,2,6,4,Driving Reverse Layup Shot,LAYUPS,,2019
+Gordon Hayward,202330,Standard Dunk,2,2,1,Dunk Shot,DUNKS,,2019
+Gordon Hayward,202330,Fadeaway Jump Shot,2,23,10,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+Gordon Hayward,202330,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2019
+Gordon Hayward,202330,Floating Jump Shot,2,4,1,Floating Jump shot,FLOATING_SHOTS,,2019
+Gordon Hayward,202330,Hook Shot,2,1,1,Hook Bank Shot,POST_MOVES,,2019
+Gordon Hayward,202330,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2019
+Gordon Hayward,202330,Jump Shot,2,245,89,Jump Shot,JUMP_SHOTS,,2019
+Gordon Hayward,202330,Jump Shot,3,2,1,Jump Shot,JUMP_SHOTS,,2019
+Gordon Hayward,202330,Standard Layup,2,13,6,Layup Shot,LAYUPS,,2019
+Gordon Hayward,202330,Pullup Jump Shot,2,106,41,Pullup Jump shot,JUMP_SHOTS,,2019
+Gordon Hayward,202330,Putback Layup,2,6,3,Putback Layup Shot,LAYUPS,,2019
+Gordon Hayward,202330,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2019
+Gordon Hayward,202330,Standard Dunk,2,12,11,Running Dunk Shot,DUNKS,,2019
+Gordon Hayward,202330,Finger Roll,2,4,3,Running Finger Roll Layup Shot,LAYUPS,,2019
+Gordon Hayward,202330,Running Jump Shot,2,6,4,Running Jump Shot,JUMP_SHOTS,,2019
+Gordon Hayward,202330,Standard Layup,2,22,15,Running Layup Shot,LAYUPS,,2019
+Gordon Hayward,202330,Running Jump Shot,2,5,3,Running Pull-Up Jump Shot,JUMP_SHOTS,,2019
+Gordon Hayward,202330,Reverse Layup,2,4,3,Running Reverse Layup Shot,LAYUPS,,2019
+Gordon Hayward,202330,Step Back Jump Shot,2,22,11,Step Back Jump shot,JUMP_SHOTS,,2019
+Gordon Hayward,202330,Putback Layup,2,9,4,Tip Layup Shot,LAYUPS,,2019
+Gordon Hayward,202330,Turnaround Jump Shot,2,16,7,Turnaround Fadeaway shot,JUMP_SHOTS,,2019
+Gordon Hayward,202330,Turnaround Jump Shot,2,9,3,Turnaround Jump Shot,JUMP_SHOTS,,2019
+Gordon Hayward,202330,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2020
+Gordon Hayward,202330,Alley Oop Layup,2,7,4,Alley Oop Layup shot,LAYUPS,,2020
+Gordon Hayward,202330,Specialty Dunk,2,11,11,Cutting Dunk Shot,DUNKS,,2020
+Gordon Hayward,202330,Finger Roll,2,3,3,Cutting Finger Roll Layup Shot,LAYUPS,,2020
+Gordon Hayward,202330,Standard Layup,2,20,18,Cutting Layup Shot,LAYUPS,,2020
+Gordon Hayward,202330,Driving Dunk,2,9,9,Driving Dunk Shot,DUNKS,,2020
+Gordon Hayward,202330,Finger Roll,2,14,10,Driving Finger Roll Layup Shot,LAYUPS,,2020
+Gordon Hayward,202330,Floating Jump Shot,2,7,5,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2020
+Gordon Hayward,202330,Floating Jump Shot,2,25,15,Driving Floating Jump Shot,FLOATING_SHOTS,,2020
+Gordon Hayward,202330,Driving Hook Shot,2,2,0,Driving Hook Shot,POST_MOVES,,2020
+Gordon Hayward,202330,Driving Layup,2,72,31,Driving Layup Shot,LAYUPS,,2020
+Gordon Hayward,202330,Driving Layup,2,4,2,Driving Reverse Layup Shot,LAYUPS,,2020
+Gordon Hayward,202330,Standard Dunk,2,1,0,Dunk Shot,DUNKS,,2020
+Gordon Hayward,202330,Fadeaway Jump Shot,2,41,20,Fadeaway Jump Shot,JUMP_SHOTS,,2020
+Gordon Hayward,202330,Floating Jump Shot,2,3,1,Floating Jump shot,FLOATING_SHOTS,,2020
+Gordon Hayward,202330,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2020
+Gordon Hayward,202330,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2020
+Gordon Hayward,202330,Jump Shot,2,219,89,Jump Shot,JUMP_SHOTS,,2020
+Gordon Hayward,202330,Standard Layup,2,14,8,Layup Shot,LAYUPS,,2020
+Gordon Hayward,202330,Pullup Jump Shot,2,127,61,Pullup Jump shot,JUMP_SHOTS,,2020
+Gordon Hayward,202330,Putback Layup,2,7,5,Putback Layup Shot,LAYUPS,,2020
+Gordon Hayward,202330,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2020
+Gordon Hayward,202330,Alley Oop Layup,2,1,1,Running Alley Oop Layup Shot,LAYUPS,,2020
+Gordon Hayward,202330,Standard Dunk,2,5,5,Running Dunk Shot,DUNKS,,2020
+Gordon Hayward,202330,Finger Roll,2,4,3,Running Finger Roll Layup Shot,LAYUPS,,2020
+Gordon Hayward,202330,Running Jump Shot,2,3,1,Running Jump Shot,JUMP_SHOTS,,2020
+Gordon Hayward,202330,Standard Layup,2,19,10,Running Layup Shot,LAYUPS,,2020
+Gordon Hayward,202330,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2020
+Gordon Hayward,202330,Reverse Layup,2,3,3,Running Reverse Layup Shot,LAYUPS,,2020
+Gordon Hayward,202330,Step Back Jump Shot,2,22,8,Step Back Jump shot,JUMP_SHOTS,,2020
+Gordon Hayward,202330,Putback Layup,2,12,6,Tip Layup Shot,LAYUPS,,2020
+Gordon Hayward,202330,Turnaround Jump Shot,2,3,2,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2020
+Gordon Hayward,202330,Turnaround Jump Shot,2,24,12,Turnaround Fadeaway shot,JUMP_SHOTS,,2020
+Gordon Hayward,202330,Turnaround Jump Shot,2,10,2,Turnaround Jump Shot,JUMP_SHOTS,,2020
+Gordon Hayward,202330,Alley Oop Dunk,2,2,2,Alley Oop Dunk Shot,DUNKS,,2021
+Gordon Hayward,202330,Alley Oop Layup,2,3,2,Alley Oop Layup shot,LAYUPS,,2021
+Gordon Hayward,202330,Specialty Dunk,2,5,5,Cutting Dunk Shot,DUNKS,,2021
+Gordon Hayward,202330,Standard Layup,2,13,9,Cutting Layup Shot,LAYUPS,,2021
+Gordon Hayward,202330,Driving Dunk,2,2,2,Driving Dunk Shot,DUNKS,,2021
+Gordon Hayward,202330,Finger Roll,2,3,2,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Gordon Hayward,202330,Floating Jump Shot,2,2,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2021
+Gordon Hayward,202330,Floating Jump Shot,2,22,8,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Gordon Hayward,202330,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2021
+Gordon Hayward,202330,Driving Layup,2,56,24,Driving Layup Shot,LAYUPS,,2021
+Gordon Hayward,202330,Driving Layup,2,9,4,Driving Reverse Layup Shot,LAYUPS,,2021
+Gordon Hayward,202330,Standard Dunk,2,5,4,Dunk Shot,DUNKS,,2021
+Gordon Hayward,202330,Fadeaway Jump Shot,2,41,15,Fadeaway Jump Shot,JUMP_SHOTS,,2021
+Gordon Hayward,202330,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2021
+Gordon Hayward,202330,Floating Jump Shot,2,12,4,Floating Jump shot,FLOATING_SHOTS,,2021
+Gordon Hayward,202330,Hook Shot,2,3,1,Hook Shot,POST_MOVES,,2021
+Gordon Hayward,202330,Jump Shot,2,6,3,Jump Bank Shot,JUMP_SHOTS,,2021
+Gordon Hayward,202330,Jump Shot,2,219,93,Jump Shot,JUMP_SHOTS,,2021
+Gordon Hayward,202330,Standard Layup,2,38,25,Layup Shot,LAYUPS,,2021
+Gordon Hayward,202330,Pullup Jump Shot,2,102,45,Pullup Jump shot,JUMP_SHOTS,,2021
+Gordon Hayward,202330,Putback Layup,2,5,3,Putback Layup Shot,LAYUPS,,2021
+Gordon Hayward,202330,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2021
+Gordon Hayward,202330,Standard Dunk,2,8,8,Running Dunk Shot,DUNKS,,2021
+Gordon Hayward,202330,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2021
+Gordon Hayward,202330,Running Jump Shot,2,6,4,Running Jump Shot,JUMP_SHOTS,,2021
+Gordon Hayward,202330,Standard Layup,2,9,6,Running Layup Shot,LAYUPS,,2021
+Gordon Hayward,202330,Running Jump Shot,2,4,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2021
+Gordon Hayward,202330,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2021
+Gordon Hayward,202330,Step Back Jump Shot,2,33,14,Step Back Jump shot,JUMP_SHOTS,,2021
+Gordon Hayward,202330,Putback Layup,2,7,4,Tip Layup Shot,LAYUPS,,2021
+Gordon Hayward,202330,Turnaround Jump Shot,2,2,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2021
+Gordon Hayward,202330,Turnaround Jump Shot,2,19,10,Turnaround Fadeaway shot,JUMP_SHOTS,,2021
+Gordon Hayward,202330,Turnaround Hook Shot,2,2,2,Turnaround Hook Shot,POST_MOVES,,2021
+Gordon Hayward,202330,Turnaround Jump Shot,2,13,5,Turnaround Jump Shot,JUMP_SHOTS,,2021
+Gordon Hayward,202330,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2022
+Gordon Hayward,202330,Alley Oop Layup,2,4,2,Alley Oop Layup shot,LAYUPS,,2022
+Gordon Hayward,202330,Specialty Dunk,2,7,7,Cutting Dunk Shot,DUNKS,,2022
+Gordon Hayward,202330,Finger Roll,2,2,2,Cutting Finger Roll Layup Shot,LAYUPS,,2022
+Gordon Hayward,202330,Standard Layup,2,16,10,Cutting Layup Shot,LAYUPS,,2022
+Gordon Hayward,202330,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2022
+Gordon Hayward,202330,Floating Jump Shot,2,6,4,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Gordon Hayward,202330,Floating Jump Shot,2,22,8,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Gordon Hayward,202330,Driving Layup,2,42,18,Driving Layup Shot,LAYUPS,,2022
+Gordon Hayward,202330,Driving Layup,2,5,3,Driving Reverse Layup Shot,LAYUPS,,2022
+Gordon Hayward,202330,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2022
+Gordon Hayward,202330,Fadeaway Jump Shot,2,20,6,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Gordon Hayward,202330,Floating Jump Shot,2,13,3,Floating Jump shot,FLOATING_SHOTS,,2022
+Gordon Hayward,202330,Hook Shot,2,4,3,Hook Shot,POST_MOVES,,2022
+Gordon Hayward,202330,Jump Shot,2,3,1,Jump Bank Shot,JUMP_SHOTS,,2022
+Gordon Hayward,202330,Jump Shot,2,221,87,Jump Shot,JUMP_SHOTS,,2022
+Gordon Hayward,202330,Standard Layup,2,31,12,Layup Shot,LAYUPS,,2022
+Gordon Hayward,202330,Pullup Jump Shot,2,73,39,Pullup Jump shot,JUMP_SHOTS,,2022
+Gordon Hayward,202330,Putback Layup,2,6,4,Putback Layup Shot,LAYUPS,,2022
+Gordon Hayward,202330,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2022
+Gordon Hayward,202330,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2022
+Gordon Hayward,202330,Alley Oop Layup,2,2,0,Running Alley Oop Layup Shot,LAYUPS,,2022
+Gordon Hayward,202330,Standard Dunk,2,8,7,Running Dunk Shot,DUNKS,,2022
+Gordon Hayward,202330,Finger Roll,2,2,2,Running Finger Roll Layup Shot,LAYUPS,,2022
+Gordon Hayward,202330,Running Jump Shot,2,15,6,Running Jump Shot,JUMP_SHOTS,,2022
+Gordon Hayward,202330,Standard Layup,2,19,15,Running Layup Shot,LAYUPS,,2022
+Gordon Hayward,202330,Running Jump Shot,2,5,3,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
+Gordon Hayward,202330,Reverse Layup,2,3,2,Running Reverse Layup Shot,LAYUPS,,2022
+Gordon Hayward,202330,Step Back Jump Shot,2,28,14,Step Back Jump shot,JUMP_SHOTS,,2022
+Gordon Hayward,202330,Putback Layup,2,3,2,Tip Layup Shot,LAYUPS,,2022
+Gordon Hayward,202330,Turnaround Jump Shot,2,2,2,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2022
+Gordon Hayward,202330,Turnaround Jump Shot,2,35,9,Turnaround Fadeaway shot,JUMP_SHOTS,,2022
+Gordon Hayward,202330,Turnaround Hook Shot,2,2,1,Turnaround Hook Shot,POST_MOVES,,2022
+Gordon Hayward,202330,Turnaround Jump Shot,2,10,5,Turnaround Jump Shot,JUMP_SHOTS,,2022
+Gordon Hayward,202330,Alley Oop Dunk,2,1,1,Alley Oop Dunk Shot,DUNKS,,2023
+Gordon Hayward,202330,Specialty Dunk,2,4,4,Cutting Dunk Shot,DUNKS,,2023
+Gordon Hayward,202330,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2023
+Gordon Hayward,202330,Standard Layup,2,17,12,Cutting Layup Shot,LAYUPS,,2023
+Gordon Hayward,202330,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2023
+Gordon Hayward,202330,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2023
+Gordon Hayward,202330,Finger Roll,2,4,3,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Gordon Hayward,202330,Floating Jump Shot,2,7,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+Gordon Hayward,202330,Floating Jump Shot,2,31,15,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Gordon Hayward,202330,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2023
+Gordon Hayward,202330,Driving Layup,2,29,14,Driving Layup Shot,LAYUPS,,2023
+Gordon Hayward,202330,Driving Layup,2,7,6,Driving Reverse Layup Shot,LAYUPS,,2023
+Gordon Hayward,202330,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2023
+Gordon Hayward,202330,Fadeaway Jump Shot,2,37,16,Fadeaway Jump Shot,JUMP_SHOTS,,2023
+Gordon Hayward,202330,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2023
+Gordon Hayward,202330,Floating Jump Shot,2,9,6,Floating Jump shot,FLOATING_SHOTS,,2023
+Gordon Hayward,202330,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2023
+Gordon Hayward,202330,Jump Shot,2,4,2,Jump Bank Shot,JUMP_SHOTS,,2023
+Gordon Hayward,202330,Jump Shot,2,152,48,Jump Shot,JUMP_SHOTS,,2023
+Gordon Hayward,202330,Standard Layup,2,10,5,Layup Shot,LAYUPS,,2023
+Gordon Hayward,202330,Pullup Jump Shot,2,151,66,Pullup Jump shot,JUMP_SHOTS,,2023
+Gordon Hayward,202330,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2023
+Gordon Hayward,202330,Reverse Layup,2,6,3,Reverse Layup Shot,LAYUPS,,2023
+Gordon Hayward,202330,Alley Oop Layup,2,3,3,Running Alley Oop Layup Shot,LAYUPS,,2023
+Gordon Hayward,202330,Standard Dunk,2,9,9,Running Dunk Shot,DUNKS,,2023
+Gordon Hayward,202330,Running Jump Shot,2,10,6,Running Jump Shot,JUMP_SHOTS,,2023
+Gordon Hayward,202330,Standard Layup,2,16,12,Running Layup Shot,LAYUPS,,2023
+Gordon Hayward,202330,Running Jump Shot,2,5,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2023
+Gordon Hayward,202330,Reverse Layup,2,2,1,Running Reverse Layup Shot,LAYUPS,,2023
+Gordon Hayward,202330,Step Back Jump Shot,2,18,11,Step Back Jump shot,JUMP_SHOTS,,2023
+Gordon Hayward,202330,Putback Layup,2,3,2,Tip Layup Shot,LAYUPS,,2023
+Gordon Hayward,202330,Turnaround Jump Shot,2,22,10,Turnaround Fadeaway shot,JUMP_SHOTS,,2023
+Gordon Hayward,202330,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2023
+Gordon Hayward,202330,Turnaround Jump Shot,2,14,10,Turnaround Jump Shot,JUMP_SHOTS,,2023
+Gordon Hayward,202330,Alley Oop Layup,2,2,0,Alley Oop Layup shot,LAYUPS,,2024
+Gordon Hayward,202330,Specialty Dunk,2,5,4,Cutting Dunk Shot,DUNKS,,2024
+Gordon Hayward,202330,Finger Roll,2,2,1,Cutting Finger Roll Layup Shot,LAYUPS,,2024
+Gordon Hayward,202330,Standard Layup,2,11,7,Cutting Layup Shot,LAYUPS,,2024
+Gordon Hayward,202330,Driving Dunk,2,6,6,Driving Dunk Shot,DUNKS,,2024
+Gordon Hayward,202330,Finger Roll,2,7,6,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Gordon Hayward,202330,Floating Jump Shot,2,13,11,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Gordon Hayward,202330,Floating Jump Shot,2,34,14,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Gordon Hayward,202330,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2024
+Gordon Hayward,202330,Driving Layup,2,25,14,Driving Layup Shot,LAYUPS,,2024
+Gordon Hayward,202330,Driving Layup,2,7,3,Driving Reverse Layup Shot,LAYUPS,,2024
+Gordon Hayward,202330,Fadeaway Jump Shot,2,1,0,Fadeaway Bank shot,JUMP_SHOTS,,2024
+Gordon Hayward,202330,Fadeaway Jump Shot,2,14,2,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Gordon Hayward,202330,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2024
+Gordon Hayward,202330,Floating Jump Shot,2,8,3,Floating Jump shot,FLOATING_SHOTS,,2024
+Gordon Hayward,202330,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2024
+Gordon Hayward,202330,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2024
+Gordon Hayward,202330,Jump Shot,3,1,0,Jump Bank Shot,JUMP_SHOTS,,2024
+Gordon Hayward,202330,Jump Shot,2,27,14,Jump Shot,JUMP_SHOTS,,2024
+Gordon Hayward,202330,Jump Shot,3,65,27,Jump Shot,JUMP_SHOTS,,2024
+Gordon Hayward,202330,Standard Layup,2,6,2,Layup Shot,LAYUPS,,2024
+Gordon Hayward,202330,Pullup Jump Shot,2,46,18,Pullup Jump shot,JUMP_SHOTS,,2024
+Gordon Hayward,202330,Pullup Jump Shot,3,7,3,Pullup Jump shot,JUMP_SHOTS,,2024
+Gordon Hayward,202330,Putback Layup,2,4,4,Putback Layup Shot,LAYUPS,,2024
+Gordon Hayward,202330,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2024
+Gordon Hayward,202330,Alley Oop Dunk,2,6,5,Running Alley Oop Dunk Shot,DUNKS,,2024
+Gordon Hayward,202330,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2024
+Gordon Hayward,202330,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2024
+Gordon Hayward,202330,Running Jump Shot,3,11,6,Running Jump Shot,JUMP_SHOTS,,2024
+Gordon Hayward,202330,Standard Layup,2,13,6,Running Layup Shot,LAYUPS,,2024
+Gordon Hayward,202330,Running Jump Shot,2,10,5,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Gordon Hayward,202330,Running Jump Shot,3,2,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Gordon Hayward,202330,Reverse Layup,2,3,2,Running Reverse Layup Shot,LAYUPS,,2024
+Gordon Hayward,202330,Step Back Jump Shot,2,21,6,Step Back Jump shot,JUMP_SHOTS,,2024
+Gordon Hayward,202330,Step Back Jump Shot,3,4,0,Step Back Jump shot,JUMP_SHOTS,,2024
+Gordon Hayward,202330,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2024
+Gordon Hayward,202330,Putback Layup,2,3,2,Tip Layup Shot,LAYUPS,,2024
+Gordon Hayward,202330,Turnaround Jump Shot,2,2,0,Turnaround Bank shot,JUMP_SHOTS,,2024
+Gordon Hayward,202330,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2024
+Gordon Hayward,202330,Turnaround Jump Shot,2,17,7,Turnaround Fadeaway shot,JUMP_SHOTS,,2024
+Gordon Hayward,202330,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2024
+Gordon Hayward,202330,Turnaround Jump Shot,2,7,2,Turnaround Jump Shot,JUMP_SHOTS,,2024

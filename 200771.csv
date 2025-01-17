@@ -1,18 +1,91 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-200771,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2007
-200771,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2007
-200771,Jump Shot,2PT Field Goal,2,2,Jump Shot,JUMP_SHOTS,1.0,2007
-200771,Jump Shot,3PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.5,2007
-200771,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2008
-200771,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2008
-200771,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2008
-200771,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2009
-200771,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2009
-200771,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2009
-200771,Standard Layup,2PT Field Goal,2,0,Layup Shot,LAYUPS,0.0,2009
-200771,Driving Layup,2PT Field Goal,3,1,Driving Layup Shot,LAYUPS,0.3333333333333333,2010
-200771,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2010
-200771,Jump Shot,2PT Field Goal,4,0,Jump Shot,JUMP_SHOTS,0.0,2010
-200771,Jump Shot,3PT Field Goal,5,2,Jump Shot,JUMP_SHOTS,0.6,2010
-200771,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2010
-200771,Running Jump Shot,2PT Field Goal,2,0,Running Jump Shot,JUMP_SHOTS,0.0,2010
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Sergio Rodriguez,200771,Finger Roll,2,5,3,Driving Finger Roll Shot,LAYUPS,,2007
+Sergio Rodriguez,200771,Driving Layup,2,27,16,Driving Layup Shot,LAYUPS,,2007
+Sergio Rodriguez,200771,Finger Roll,2,1,1,Finger Roll Shot,LAYUPS,,2007
+Sergio Rodriguez,200771,Jump Shot,2,4,2,Jump Bank Shot,JUMP_SHOTS,,2007
+Sergio Rodriguez,200771,Jump Shot,2,162,68,Jump Shot,JUMP_SHOTS,,2007
+Sergio Rodriguez,200771,Jump Shot,3,6,2,Jump Shot,JUMP_SHOTS,,2007
+Sergio Rodriguez,200771,Standard Layup,2,16,4,Layup Shot,LAYUPS,,2007
+Sergio Rodriguez,200771,Reverse Layup,2,4,0,Reverse Layup Shot,LAYUPS,,2007
+Sergio Rodriguez,200771,Running Jump Shot,2,13,4,Running Jump Shot,JUMP_SHOTS,,2007
+Sergio Rodriguez,200771,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2007
+Sergio Rodriguez,200771,Driving Layup,2,38,24,Driving Layup Shot,LAYUPS,,2008
+Sergio Rodriguez,200771,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2008
+Sergio Rodriguez,200771,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2008
+Sergio Rodriguez,200771,Floating Jump Shot,2,3,3,Floating Jump shot,FLOATING_SHOTS,,2008
+Sergio Rodriguez,200771,Jump Shot,2,3,3,Jump Bank Shot,JUMP_SHOTS,,2008
+Sergio Rodriguez,200771,Jump Shot,2,115,30,Jump Shot,JUMP_SHOTS,,2008
+Sergio Rodriguez,200771,Standard Layup,2,22,5,Layup Shot,LAYUPS,,2008
+Sergio Rodriguez,200771,Pullup Jump Shot,2,1,0,Pullup Jump shot,JUMP_SHOTS,,2008
+Sergio Rodriguez,200771,Running Jump Shot,2,1,1,Running Bank shot,JUMP_SHOTS,,2008
+Sergio Rodriguez,200771,Running Jump Shot,2,9,2,Running Jump Shot,JUMP_SHOTS,,2008
+Sergio Rodriguez,200771,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2008
+Sergio Rodriguez,200771,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2008
+Sergio Rodriguez,200771,Finger Roll,2,4,3,Driving Finger Roll Layup Shot,LAYUPS,,2009
+Sergio Rodriguez,200771,Driving Layup,2,47,27,Driving Layup Shot,LAYUPS,,2009
+Sergio Rodriguez,200771,Driving Layup,2,4,4,Driving Reverse Layup Shot,LAYUPS,,2009
+Sergio Rodriguez,200771,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2009
+Sergio Rodriguez,200771,Fadeaway Jump Shot,2,9,5,Fadeaway Jump Shot,JUMP_SHOTS,,2009
+Sergio Rodriguez,200771,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2009
+Sergio Rodriguez,200771,Jump Shot,2,3,2,Jump Bank Shot,JUMP_SHOTS,,2009
+Sergio Rodriguez,200771,Jump Shot,2,180,53,Jump Shot,JUMP_SHOTS,,2009
+Sergio Rodriguez,200771,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2009
+Sergio Rodriguez,200771,Standard Layup,2,36,12,Layup Shot,LAYUPS,,2009
+Sergio Rodriguez,200771,Pullup Jump Shot,2,16,10,Pullup Jump shot,JUMP_SHOTS,,2009
+Sergio Rodriguez,200771,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2009
+Sergio Rodriguez,200771,Running Jump Shot,2,3,2,Running Bank shot,JUMP_SHOTS,,2009
+Sergio Rodriguez,200771,Running Jump Shot,2,13,3,Running Jump Shot,JUMP_SHOTS,,2009
+Sergio Rodriguez,200771,Standard Layup,2,5,4,Running Layup Shot,LAYUPS,,2009
+Sergio Rodriguez,200771,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2009
+Sergio Rodriguez,200771,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2009
+Sergio Rodriguez,200771,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2010
+Sergio Rodriguez,200771,Finger Roll,2,2,2,Driving Finger Roll Layup Shot,LAYUPS,,2010
+Sergio Rodriguez,200771,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2010
+Sergio Rodriguez,200771,Driving Jump Shot,2,3,3,Driving Jump shot,JUMP_SHOTS,,2010
+Sergio Rodriguez,200771,Driving Layup,2,71,51,Driving Layup Shot,LAYUPS,,2010
+Sergio Rodriguez,200771,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2010
+Sergio Rodriguez,200771,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2010
+Sergio Rodriguez,200771,Fadeaway Jump Shot,2,4,3,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+Sergio Rodriguez,200771,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2010
+Sergio Rodriguez,200771,Floating Jump Shot,2,2,2,Floating Jump shot,FLOATING_SHOTS,,2010
+Sergio Rodriguez,200771,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2010
+Sergio Rodriguez,200771,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2010
+Sergio Rodriguez,200771,Jump Shot,2,135,41,Jump Shot,JUMP_SHOTS,,2010
+Sergio Rodriguez,200771,Jump Shot,3,33,14,Jump Shot,JUMP_SHOTS,,2010
+Sergio Rodriguez,200771,Standard Layup,2,54,19,Layup Shot,LAYUPS,,2010
+Sergio Rodriguez,200771,Pullup Jump Shot,2,6,5,Pullup Jump shot,JUMP_SHOTS,,2010
+Sergio Rodriguez,200771,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2010
+Sergio Rodriguez,200771,Reverse Layup,2,7,6,Reverse Layup Shot,LAYUPS,,2010
+Sergio Rodriguez,200771,Running Jump Shot,2,3,2,Running Bank shot,JUMP_SHOTS,,2010
+Sergio Rodriguez,200771,Running Jump Shot,2,17,9,Running Jump Shot,JUMP_SHOTS,,2010
+Sergio Rodriguez,200771,Standard Layup,2,1,0,Running Layup Shot,LAYUPS,,2010
+Sergio Rodriguez,200771,Step Back Jump Shot,2,2,2,Step Back Jump shot,JUMP_SHOTS,,2010
+Sergio Rodriguez,200771,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2010
+Sergio Rodriguez,200771,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2017
+Sergio Rodriguez,200771,Standard Layup,2,2,2,Cutting Layup Shot,LAYUPS,,2017
+Sergio Rodriguez,200771,Driving Jump Shot,2,5,3,Driving Bank shot,JUMP_SHOTS,,2017
+Sergio Rodriguez,200771,Finger Roll,2,8,7,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Sergio Rodriguez,200771,Floating Jump Shot,2,3,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2017
+Sergio Rodriguez,200771,Floating Jump Shot,2,13,8,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Sergio Rodriguez,200771,Driving Layup,2,30,21,Driving Layup Shot,LAYUPS,,2017
+Sergio Rodriguez,200771,Driving Layup,2,5,2,Driving Reverse Layup Shot,LAYUPS,,2017
+Sergio Rodriguez,200771,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Sergio Rodriguez,200771,Finger Roll,2,2,2,Finger Roll Layup Shot,LAYUPS,,2017
+Sergio Rodriguez,200771,Floating Jump Shot,2,8,2,Floating Jump shot,FLOATING_SHOTS,,2017
+Sergio Rodriguez,200771,Jump Shot,2,6,1,Jump Bank Shot,JUMP_SHOTS,,2017
+Sergio Rodriguez,200771,Jump Shot,2,269,73,Jump Shot,JUMP_SHOTS,,2017
+Sergio Rodriguez,200771,Jump Shot,3,35,11,Jump Shot,JUMP_SHOTS,,2017
+Sergio Rodriguez,200771,Standard Layup,2,19,4,Layup Shot,LAYUPS,,2017
+Sergio Rodriguez,200771,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2017
+Sergio Rodriguez,200771,Pullup Jump Shot,2,74,44,Pullup Jump shot,JUMP_SHOTS,,2017
+Sergio Rodriguez,200771,Pullup Jump Shot,3,3,1,Pullup Jump shot,JUMP_SHOTS,,2017
+Sergio Rodriguez,200771,Reverse Layup,2,2,1,Reverse Layup Shot,LAYUPS,,2017
+Sergio Rodriguez,200771,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2017
+Sergio Rodriguez,200771,Running Jump Shot,2,5,2,Running Jump Shot,JUMP_SHOTS,,2017
+Sergio Rodriguez,200771,Running Jump Shot,3,2,0,Running Jump Shot,JUMP_SHOTS,,2017
+Sergio Rodriguez,200771,Standard Layup,2,9,7,Running Layup Shot,LAYUPS,,2017
+Sergio Rodriguez,200771,Running Jump Shot,2,3,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2017
+Sergio Rodriguez,200771,Step Back Jump Shot,2,22,9,Step Back Jump shot,JUMP_SHOTS,,2017
+Sergio Rodriguez,200771,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2017
+Sergio Rodriguez,200771,Putback Layup,2,2,1,Tip Layup Shot,LAYUPS,,2017
+Sergio Rodriguez,200771,Turnaround Jump Shot,2,2,2,Turnaround Jump Shot,JUMP_SHOTS,,2017

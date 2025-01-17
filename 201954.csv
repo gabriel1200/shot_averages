@@ -1,24 +1,255 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-201954,Driving Layup,2PT Field Goal,5,4,Driving Layup Shot,LAYUPS,0.8,2010
-201954,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,2010
-201954,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2010
-201954,Floating Jump Shot,2PT Field Goal,3,2,Floating Jump shot,FLOATING_SHOTS,0.6666666666666666,2010
-201954,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2010
-201954,Jump Shot,2PT Field Goal,52,19,Jump Shot,JUMP_SHOTS,0.3653846153846153,2010
-201954,Jump Shot,3PT Field Goal,19,7,Jump Shot,JUMP_SHOTS,0.5526315789473685,2010
-201954,Standard Layup,2PT Field Goal,35,17,Layup Shot,LAYUPS,0.4857142857142857,2010
-201954,Pullup Jump Shot,2PT Field Goal,10,8,Pullup Jump shot,JUMP_SHOTS,0.8,2010
-201954,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2010
-201954,Running Jump Shot,2PT Field Goal,5,4,Running Jump Shot,JUMP_SHOTS,0.8,2010
-201954,Running Jump Shot,3PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2010
-201954,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2010
-201954,Step Back Jump Shot,2PT Field Goal,2,0,Step Back Jump shot,JUMP_SHOTS,0.0,2010
-201954,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2013
-201954,Jump Shot,2PT Field Goal,5,0,Jump Shot,JUMP_SHOTS,0.0,2015
-201954,Jump Shot,3PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,2015
-201954,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2017
-201954,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2018
-201954,Jump Shot,2PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.3333333333333333,2018
-201954,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2018
-201954,Pullup Jump Shot,2PT Field Goal,5,1,Pullup Jump shot,JUMP_SHOTS,0.2,2018
-201954,Finger Roll,2PT Field Goal,1,1,Running Finger Roll Layup Shot,LAYUPS,1.0,2022
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Darren Collison,201954,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2010
+Darren Collison,201954,Finger Roll,2,3,3,Driving Finger Roll Layup Shot,LAYUPS,,2010
+Darren Collison,201954,Driving Jump Shot,2,3,3,Driving Jump shot,JUMP_SHOTS,,2010
+Darren Collison,201954,Driving Layup,2,77,62,Driving Layup Shot,LAYUPS,,2010
+Darren Collison,201954,Driving Layup,2,4,4,Driving Reverse Layup Shot,LAYUPS,,2010
+Darren Collison,201954,Standard Dunk,2,10,9,Dunk Shot,DUNKS,,2010
+Darren Collison,201954,Fadeaway Jump Shot,2,7,6,Fadeaway Jump Shot,JUMP_SHOTS,,2010
+Darren Collison,201954,Floating Jump Shot,2,18,13,Floating Jump shot,FLOATING_SHOTS,,2010
+Darren Collison,201954,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2010
+Darren Collison,201954,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2010
+Darren Collison,201954,Jump Shot,2,398,147,Jump Shot,JUMP_SHOTS,,2010
+Darren Collison,201954,Jump Shot,3,28,11,Jump Shot,JUMP_SHOTS,,2010
+Darren Collison,201954,Standard Layup,2,156,59,Layup Shot,LAYUPS,,2010
+Darren Collison,201954,Pullup Jump Shot,2,44,34,Pullup Jump shot,JUMP_SHOTS,,2010
+Darren Collison,201954,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2010
+Darren Collison,201954,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2010
+Darren Collison,201954,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2010
+Darren Collison,201954,Running Jump Shot,2,14,7,Running Jump Shot,JUMP_SHOTS,,2010
+Darren Collison,201954,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2010
+Darren Collison,201954,Standard Layup,2,3,1,Running Layup Shot,LAYUPS,,2010
+Darren Collison,201954,Standard Dunk,2,5,5,Slam Dunk Shot,DUNKS,,2010
+Darren Collison,201954,Step Back Jump Shot,2,5,3,Step Back Jump shot,JUMP_SHOTS,,2010
+Darren Collison,201954,Tip Shot,2,1,1,Tip Shot,TIP_SHOTS,,2010
+Darren Collison,201954,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2010
+Darren Collison,201954,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2011
+Darren Collison,201954,Finger Roll,2,13,12,Driving Finger Roll Layup Shot,LAYUPS,,2011
+Darren Collison,201954,Driving Jump Shot,2,5,2,Driving Jump shot,JUMP_SHOTS,,2011
+Darren Collison,201954,Driving Layup,2,75,55,Driving Layup Shot,LAYUPS,,2011
+Darren Collison,201954,Driving Dunk,2,1,1,Driving Slam Dunk Shot,DUNKS,,2011
+Darren Collison,201954,Standard Dunk,2,3,3,Dunk Shot,DUNKS,,2011
+Darren Collison,201954,Fadeaway Jump Shot,2,14,7,Fadeaway Jump Shot,JUMP_SHOTS,,2011
+Darren Collison,201954,Finger Roll,2,8,7,Finger Roll Layup Shot,LAYUPS,,2011
+Darren Collison,201954,Floating Jump Shot,2,29,20,Floating Jump shot,FLOATING_SHOTS,,2011
+Darren Collison,201954,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2011
+Darren Collison,201954,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2011
+Darren Collison,201954,Hook Shot,2,1,1,Jump Hook Shot,POST_MOVES,,2011
+Darren Collison,201954,Jump Shot,2,453,132,Jump Shot,JUMP_SHOTS,,2011
+Darren Collison,201954,Standard Layup,2,131,64,Layup Shot,LAYUPS,,2011
+Darren Collison,201954,Pullup Jump Shot,2,76,55,Pullup Jump shot,JUMP_SHOTS,,2011
+Darren Collison,201954,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2011
+Darren Collison,201954,Reverse Layup,2,9,9,Reverse Layup Shot,LAYUPS,,2011
+Darren Collison,201954,Running Jump Shot,2,2,1,Running Bank shot,JUMP_SHOTS,,2011
+Darren Collison,201954,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2011
+Darren Collison,201954,Running Jump Shot,2,24,10,Running Jump Shot,JUMP_SHOTS,,2011
+Darren Collison,201954,Standard Layup,2,5,5,Running Layup Shot,LAYUPS,,2011
+Darren Collison,201954,Standard Dunk,2,1,1,Slam Dunk Shot,DUNKS,,2011
+Darren Collison,201954,Step Back Jump Shot,2,11,7,Step Back Jump shot,JUMP_SHOTS,,2011
+Darren Collison,201954,Tip Shot,2,1,0,Tip Shot,TIP_SHOTS,,2011
+Darren Collison,201954,Turnaround Jump Shot,2,1,1,Turnaround Bank shot,JUMP_SHOTS,,2011
+Darren Collison,201954,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2011
+Darren Collison,201954,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2011
+Darren Collison,201954,Driving Jump Shot,2,1,0,Driving Bank shot,JUMP_SHOTS,,2012
+Darren Collison,201954,Driving Dunk,2,1,0,Driving Dunk Shot,DUNKS,,2012
+Darren Collison,201954,Finger Roll,2,8,7,Driving Finger Roll Layup Shot,LAYUPS,,2012
+Darren Collison,201954,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2012
+Darren Collison,201954,Driving Jump Shot,2,4,2,Driving Jump shot,JUMP_SHOTS,,2012
+Darren Collison,201954,Driving Layup,2,42,32,Driving Layup Shot,LAYUPS,,2012
+Darren Collison,201954,Standard Dunk,2,1,1,Dunk Shot,DUNKS,,2012
+Darren Collison,201954,Fadeaway Jump Shot,2,3,1,Fadeaway Jump Shot,JUMP_SHOTS,,2012
+Darren Collison,201954,Finger Roll,2,5,4,Finger Roll Layup Shot,LAYUPS,,2012
+Darren Collison,201954,Floating Jump Shot,2,20,11,Floating Jump shot,FLOATING_SHOTS,,2012
+Darren Collison,201954,Jump Shot,2,291,98,Jump Shot,JUMP_SHOTS,,2012
+Darren Collison,201954,Standard Layup,2,79,30,Layup Shot,LAYUPS,,2012
+Darren Collison,201954,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2012
+Darren Collison,201954,Pullup Jump Shot,2,40,28,Pullup Jump shot,JUMP_SHOTS,,2012
+Darren Collison,201954,Reverse Layup,2,4,1,Reverse Layup Shot,LAYUPS,,2012
+Darren Collison,201954,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2012
+Darren Collison,201954,Running Hook Shot,2,1,1,Running Hook Shot,POST_MOVES,,2012
+Darren Collison,201954,Running Jump Shot,2,10,5,Running Jump Shot,JUMP_SHOTS,,2012
+Darren Collison,201954,Standard Layup,2,6,3,Running Layup Shot,LAYUPS,,2012
+Darren Collison,201954,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2012
+Darren Collison,201954,Step Back Jump Shot,2,1,1,Step Back Jump shot,JUMP_SHOTS,,2012
+Darren Collison,201954,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2012
+Darren Collison,201954,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2013
+Darren Collison,201954,Driving Jump Shot,2,6,4,Driving Bank shot,JUMP_SHOTS,,2013
+Darren Collison,201954,Driving Dunk,2,1,0,Driving Dunk Shot,DUNKS,,2013
+Darren Collison,201954,Finger Roll,2,17,13,Driving Finger Roll Layup Shot,LAYUPS,,2013
+Darren Collison,201954,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2013
+Darren Collison,201954,Driving Jump Shot,2,21,5,Driving Jump shot,JUMP_SHOTS,,2013
+Darren Collison,201954,Driving Layup,2,104,77,Driving Layup Shot,LAYUPS,,2013
+Darren Collison,201954,Driving Layup,2,4,3,Driving Reverse Layup Shot,LAYUPS,,2013
+Darren Collison,201954,Fadeaway Jump Shot,2,5,0,Fadeaway Jump Shot,JUMP_SHOTS,,2013
+Darren Collison,201954,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2013
+Darren Collison,201954,Floating Jump Shot,2,15,10,Floating Jump shot,FLOATING_SHOTS,,2013
+Darren Collison,201954,Hook Shot,2,2,1,Hook Shot,POST_MOVES,,2013
+Darren Collison,201954,Jump Shot,2,5,4,Jump Bank Shot,JUMP_SHOTS,,2013
+Darren Collison,201954,Jump Shot,2,324,112,Jump Shot,JUMP_SHOTS,,2013
+Darren Collison,201954,Standard Layup,2,72,32,Layup Shot,LAYUPS,,2013
+Darren Collison,201954,Pullup Jump Shot,2,1,1,Pullup Bank shot,JUMP_SHOTS,,2013
+Darren Collison,201954,Pullup Jump Shot,2,55,33,Pullup Jump shot,JUMP_SHOTS,,2013
+Darren Collison,201954,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2013
+Darren Collison,201954,Reverse Layup,2,5,2,Reverse Layup Shot,LAYUPS,,2013
+Darren Collison,201954,Running Jump Shot,2,7,3,Running Bank shot,JUMP_SHOTS,,2013
+Darren Collison,201954,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2013
+Darren Collison,201954,Finger Roll,2,11,10,Running Finger Roll Layup Shot,LAYUPS,,2013
+Darren Collison,201954,Running Jump Shot,2,30,10,Running Jump Shot,JUMP_SHOTS,,2013
+Darren Collison,201954,Standard Layup,2,18,11,Running Layup Shot,LAYUPS,,2013
+Darren Collison,201954,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2013
+Darren Collison,201954,Standard Dunk,2,4,4,Running Slam Dunk Shot,DUNKS,,2013
+Darren Collison,201954,Step Back Jump Shot,2,7,2,Step Back Jump shot,JUMP_SHOTS,,2013
+Darren Collison,201954,Tip Shot,2,2,0,Tip Shot,TIP_SHOTS,,2013
+Darren Collison,201954,Driving Jump Shot,2,1,1,Driving Bank shot,JUMP_SHOTS,,2014
+Darren Collison,201954,Driving Dunk,2,4,4,Driving Dunk Shot,DUNKS,,2014
+Darren Collison,201954,Finger Roll,2,7,7,Driving Finger Roll Layup Shot,LAYUPS,,2014
+Darren Collison,201954,Driving Jump Shot,2,1,1,Driving Jump shot,JUMP_SHOTS,,2014
+Darren Collison,201954,Driving Layup,2,107,86,Driving Layup Shot,LAYUPS,,2014
+Darren Collison,201954,Driving Layup,2,1,1,Driving Reverse Layup Shot,LAYUPS,,2014
+Darren Collison,201954,Driving Dunk,2,3,3,Driving Slam Dunk Shot,DUNKS,,2014
+Darren Collison,201954,Fadeaway Jump Shot,2,4,1,Fadeaway Jump Shot,JUMP_SHOTS,,2014
+Darren Collison,201954,Floating Jump Shot,2,8,5,Floating Jump shot,FLOATING_SHOTS,,2014
+Darren Collison,201954,Jump Shot,2,4,4,Jump Bank Shot,JUMP_SHOTS,,2014
+Darren Collison,201954,Jump Shot,2,382,135,Jump Shot,JUMP_SHOTS,,2014
+Darren Collison,201954,Standard Layup,2,79,29,Layup Shot,LAYUPS,,2014
+Darren Collison,201954,Pullup Jump Shot,2,2,1,Pullup Bank shot,JUMP_SHOTS,,2014
+Darren Collison,201954,Pullup Jump Shot,2,52,28,Pullup Jump shot,JUMP_SHOTS,,2014
+Darren Collison,201954,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2014
+Darren Collison,201954,Reverse Layup,2,4,3,Reverse Layup Shot,LAYUPS,,2014
+Darren Collison,201954,Running Jump Shot,2,3,2,Running Bank shot,JUMP_SHOTS,,2014
+Darren Collison,201954,Running Jump Shot,2,13,5,Running Jump Shot,JUMP_SHOTS,,2014
+Darren Collison,201954,Standard Layup,2,2,1,Running Layup Shot,LAYUPS,,2014
+Darren Collison,201954,Step Back Jump Shot,2,12,6,Step Back Jump shot,JUMP_SHOTS,,2014
+Darren Collison,201954,Turnaround Jump Shot,2,2,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2014
+Darren Collison,201954,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2014
+Darren Collison,201954,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2015
+Darren Collison,201954,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2015
+Darren Collison,201954,Driving Jump Shot,2,1,0,Driving Jump shot,JUMP_SHOTS,,2015
+Darren Collison,201954,Driving Layup,2,82,66,Driving Layup Shot,LAYUPS,,2015
+Darren Collison,201954,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2015
+Darren Collison,201954,Standard Dunk,2,2,2,Dunk Shot,DUNKS,,2015
+Darren Collison,201954,Fadeaway Jump Shot,2,1,1,Fadeaway Jump Shot,JUMP_SHOTS,,2015
+Darren Collison,201954,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2015
+Darren Collison,201954,Floating Jump Shot,2,3,3,Floating Jump shot,FLOATING_SHOTS,,2015
+Darren Collison,201954,Jump Shot,2,8,7,Jump Bank Shot,JUMP_SHOTS,,2015
+Darren Collison,201954,Hook Shot,2,1,0,Jump Hook Shot,POST_MOVES,,2015
+Darren Collison,201954,Jump Shot,2,333,114,Jump Shot,JUMP_SHOTS,,2015
+Darren Collison,201954,Jump Shot,3,8,3,Jump Shot,JUMP_SHOTS,,2015
+Darren Collison,201954,Standard Layup,2,45,18,Layup Shot,LAYUPS,,2015
+Darren Collison,201954,Pullup Jump Shot,2,33,28,Pullup Jump shot,JUMP_SHOTS,,2015
+Darren Collison,201954,Reverse Layup,2,3,1,Reverse Layup Shot,LAYUPS,,2015
+Darren Collison,201954,Running Jump Shot,2,11,5,Running Jump Shot,JUMP_SHOTS,,2015
+Darren Collison,201954,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2015
+Darren Collison,201954,Standard Dunk,2,2,2,Slam Dunk Shot,DUNKS,,2015
+Darren Collison,201954,Step Back Jump Shot,2,6,3,Step Back Jump shot,JUMP_SHOTS,,2015
+Darren Collison,201954,Tip Shot,2,2,2,Tip Shot,TIP_SHOTS,,2015
+Darren Collison,201954,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2015
+Darren Collison,201954,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2015
+Darren Collison,201954,Standard Layup,2,13,11,Cutting Layup Shot,LAYUPS,,2016
+Darren Collison,201954,Driving Jump Shot,2,3,2,Driving Bank shot,JUMP_SHOTS,,2016
+Darren Collison,201954,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2016
+Darren Collison,201954,Finger Roll,2,11,9,Driving Finger Roll Layup Shot,LAYUPS,,2016
+Darren Collison,201954,Floating Jump Shot,2,2,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2016
+Darren Collison,201954,Floating Jump Shot,2,5,2,Driving Floating Jump Shot,FLOATING_SHOTS,,2016
+Darren Collison,201954,Driving Layup,2,76,56,Driving Layup Shot,LAYUPS,,2016
+Darren Collison,201954,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2016
+Darren Collison,201954,Fadeaway Jump Shot,2,2,1,Fadeaway Bank shot,JUMP_SHOTS,,2016
+Darren Collison,201954,Fadeaway Jump Shot,2,11,5,Fadeaway Jump Shot,JUMP_SHOTS,,2016
+Darren Collison,201954,Floating Jump Shot,2,17,9,Floating Jump shot,FLOATING_SHOTS,,2016
+Darren Collison,201954,Jump Shot,2,6,3,Jump Bank Shot,JUMP_SHOTS,,2016
+Darren Collison,201954,Jump Shot,2,365,122,Jump Shot,JUMP_SHOTS,,2016
+Darren Collison,201954,Jump Shot,3,1,1,Jump Shot,JUMP_SHOTS,,2016
+Darren Collison,201954,Standard Layup,2,80,30,Layup Shot,LAYUPS,,2016
+Darren Collison,201954,Pullup Jump Shot,2,2,2,Pullup Bank shot,JUMP_SHOTS,,2016
+Darren Collison,201954,Pullup Jump Shot,2,87,60,Pullup Jump shot,JUMP_SHOTS,,2016
+Darren Collison,201954,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2016
+Darren Collison,201954,Reverse Layup,2,4,2,Reverse Layup Shot,LAYUPS,,2016
+Darren Collison,201954,Standard Dunk,2,3,3,Running Dunk Shot,DUNKS,,2016
+Darren Collison,201954,Finger Roll,2,2,1,Running Finger Roll Layup Shot,LAYUPS,,2016
+Darren Collison,201954,Running Jump Shot,2,9,2,Running Jump Shot,JUMP_SHOTS,,2016
+Darren Collison,201954,Standard Layup,2,47,34,Running Layup Shot,LAYUPS,,2016
+Darren Collison,201954,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2016
+Darren Collison,201954,Step Back Jump Shot,2,20,12,Step Back Jump shot,JUMP_SHOTS,,2016
+Darren Collison,201954,Turnaround Jump Shot,2,1,0,Turnaround Bank shot,JUMP_SHOTS,,2016
+Darren Collison,201954,Turnaround Jump Shot,2,3,3,Turnaround Jump Shot,JUMP_SHOTS,,2016
+Darren Collison,201954,Standard Layup,2,14,13,Cutting Layup Shot,LAYUPS,,2017
+Darren Collison,201954,Finger Roll,2,5,5,Driving Finger Roll Layup Shot,LAYUPS,,2017
+Darren Collison,201954,Floating Jump Shot,2,4,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2017
+Darren Collison,201954,Floating Jump Shot,2,8,5,Driving Floating Jump Shot,FLOATING_SHOTS,,2017
+Darren Collison,201954,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2017
+Darren Collison,201954,Driving Layup,2,98,54,Driving Layup Shot,LAYUPS,,2017
+Darren Collison,201954,Driving Layup,2,8,4,Driving Reverse Layup Shot,LAYUPS,,2017
+Darren Collison,201954,Fadeaway Jump Shot,2,1,1,Fadeaway Bank shot,JUMP_SHOTS,,2017
+Darren Collison,201954,Fadeaway Jump Shot,2,9,3,Fadeaway Jump Shot,JUMP_SHOTS,,2017
+Darren Collison,201954,Finger Roll,2,3,1,Finger Roll Layup Shot,LAYUPS,,2017
+Darren Collison,201954,Floating Jump Shot,2,19,8,Floating Jump shot,FLOATING_SHOTS,,2017
+Darren Collison,201954,Hook Shot,2,1,1,Hook Shot,POST_MOVES,,2017
+Darren Collison,201954,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2017
+Darren Collison,201954,Jump Shot,2,294,98,Jump Shot,JUMP_SHOTS,,2017
+Darren Collison,201954,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2017
+Darren Collison,201954,Standard Layup,2,49,19,Layup Shot,LAYUPS,,2017
+Darren Collison,201954,Pullup Jump Shot,2,136,85,Pullup Jump shot,JUMP_SHOTS,,2017
+Darren Collison,201954,Putback Layup,2,2,1,Putback Layup Shot,LAYUPS,,2017
+Darren Collison,201954,Reverse Layup,2,3,3,Reverse Layup Shot,LAYUPS,,2017
+Darren Collison,201954,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2017
+Darren Collison,201954,Finger Roll,2,3,3,Running Finger Roll Layup Shot,LAYUPS,,2017
+Darren Collison,201954,Running Jump Shot,2,8,2,Running Jump Shot,JUMP_SHOTS,,2017
+Darren Collison,201954,Standard Layup,2,23,15,Running Layup Shot,LAYUPS,,2017
+Darren Collison,201954,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2017
+Darren Collison,201954,Step Back Jump Shot,2,18,12,Step Back Jump shot,JUMP_SHOTS,,2017
+Darren Collison,201954,Turnaround Jump Shot,2,2,1,Turnaround Jump Shot,JUMP_SHOTS,,2017
+Darren Collison,201954,Finger Roll,2,3,3,Cutting Finger Roll Layup Shot,LAYUPS,,2018
+Darren Collison,201954,Standard Layup,2,5,4,Cutting Layup Shot,LAYUPS,,2018
+Darren Collison,201954,Finger Roll,2,31,21,Driving Finger Roll Layup Shot,LAYUPS,,2018
+Darren Collison,201954,Floating Jump Shot,2,3,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2018
+Darren Collison,201954,Floating Jump Shot,2,4,3,Driving Floating Jump Shot,FLOATING_SHOTS,,2018
+Darren Collison,201954,Driving Layup,2,51,23,Driving Layup Shot,LAYUPS,,2018
+Darren Collison,201954,Driving Layup,2,6,3,Driving Reverse Layup Shot,LAYUPS,,2018
+Darren Collison,201954,Fadeaway Jump Shot,2,8,2,Fadeaway Jump Shot,JUMP_SHOTS,,2018
+Darren Collison,201954,Floating Jump Shot,2,7,2,Floating Jump shot,FLOATING_SHOTS,,2018
+Darren Collison,201954,Jump Shot,2,232,103,Jump Shot,JUMP_SHOTS,,2018
+Darren Collison,201954,Jump Shot,3,5,3,Jump Shot,JUMP_SHOTS,,2018
+Darren Collison,201954,Standard Layup,2,27,14,Layup Shot,LAYUPS,,2018
+Darren Collison,201954,Pullup Jump Shot,2,161,76,Pullup Jump shot,JUMP_SHOTS,,2018
+Darren Collison,201954,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2018
+Darren Collison,201954,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2018
+Darren Collison,201954,Reverse Layup,2,6,4,Reverse Layup Shot,LAYUPS,,2018
+Darren Collison,201954,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2018
+Darren Collison,201954,Finger Roll,2,13,9,Running Finger Roll Layup Shot,LAYUPS,,2018
+Darren Collison,201954,Running Jump Shot,2,3,0,Running Jump Shot,JUMP_SHOTS,,2018
+Darren Collison,201954,Standard Layup,2,26,16,Running Layup Shot,LAYUPS,,2018
+Darren Collison,201954,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2018
+Darren Collison,201954,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2018
+Darren Collison,201954,Step Back Jump Shot,2,34,17,Step Back Jump shot,JUMP_SHOTS,,2018
+Darren Collison,201954,Putback Layup,2,3,3,Tip Layup Shot,LAYUPS,,2018
+Darren Collison,201954,Turnaround Jump Shot,3,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,,2018
+Darren Collison,201954,Turnaround Jump Shot,2,3,2,Turnaround Jump Shot,JUMP_SHOTS,,2018
+Darren Collison,201954,Alley Oop Layup,2,2,1,Alley Oop Layup shot,LAYUPS,,2019
+Darren Collison,201954,Finger Roll,2,7,6,Cutting Finger Roll Layup Shot,LAYUPS,,2019
+Darren Collison,201954,Standard Layup,2,9,5,Cutting Layup Shot,LAYUPS,,2019
+Darren Collison,201954,Finger Roll,2,30,21,Driving Finger Roll Layup Shot,LAYUPS,,2019
+Darren Collison,201954,Floating Jump Shot,2,3,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2019
+Darren Collison,201954,Floating Jump Shot,2,7,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2019
+Darren Collison,201954,Driving Layup,2,60,27,Driving Layup Shot,LAYUPS,,2019
+Darren Collison,201954,Driving Layup,2,7,3,Driving Reverse Layup Shot,LAYUPS,,2019
+Darren Collison,201954,Fadeaway Jump Shot,2,7,3,Fadeaway Jump Shot,JUMP_SHOTS,,2019
+Darren Collison,201954,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2019
+Darren Collison,201954,Floating Jump Shot,2,6,0,Floating Jump shot,FLOATING_SHOTS,,2019
+Darren Collison,201954,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2019
+Darren Collison,201954,Jump Shot,2,195,78,Jump Shot,JUMP_SHOTS,,2019
+Darren Collison,201954,Standard Layup,2,22,8,Layup Shot,LAYUPS,,2019
+Darren Collison,201954,Pullup Jump Shot,2,204,96,Pullup Jump shot,JUMP_SHOTS,,2019
+Darren Collison,201954,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2019
+Darren Collison,201954,Reverse Layup,2,5,3,Reverse Layup Shot,LAYUPS,,2019
+Darren Collison,201954,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2019
+Darren Collison,201954,Finger Roll,2,17,11,Running Finger Roll Layup Shot,LAYUPS,,2019
+Darren Collison,201954,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2019
+Darren Collison,201954,Standard Layup,2,22,15,Running Layup Shot,LAYUPS,,2019
+Darren Collison,201954,Running Jump Shot,2,2,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2019
+Darren Collison,201954,Step Back Jump Shot,2,45,24,Step Back Jump shot,JUMP_SHOTS,,2019
+Darren Collison,201954,Putback Layup,2,2,1,Tip Layup Shot,LAYUPS,,2019
+Darren Collison,201954,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2019
+Darren Collison,201954,Finger Roll,2,1,1,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Darren Collison,201954,Jump Shot,2,3,0,Jump Shot,JUMP_SHOTS,,2022
+Darren Collison,201954,Pullup Jump Shot,2,2,0,Pullup Jump shot,JUMP_SHOTS,,2022
+Darren Collison,201954,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2022

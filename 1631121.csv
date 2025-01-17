@@ -1,30 +1,60 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1631121,Specialty Dunk,2PT Field Goal,2,2,Cutting Dunk Shot,DUNKS,1.0,2024
-1631121,Standard Layup,2PT Field Goal,4,2,Cutting Layup Shot,LAYUPS,0.5,2024
-1631121,Driving Hook Shot,2PT Field Goal,2,1,Driving Bank Hook Shot,POST_MOVES,0.5,2024
-1631121,Finger Roll,2PT Field Goal,5,2,Driving Finger Roll Layup Shot,LAYUPS,0.4,2024
-1631121,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.0,2024
-1631121,Floating Jump Shot,2PT Field Goal,4,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2024
-1631121,Driving Hook Shot,2PT Field Goal,1,1,Driving Hook Shot,POST_MOVES,1.0,2024
-1631121,Driving Layup,2PT Field Goal,25,11,Driving Layup Shot,LAYUPS,0.44,2024
-1631121,Driving Layup,2PT Field Goal,5,1,Driving Reverse Layup Shot,LAYUPS,0.2,2024
-1631121,Fadeaway Jump Shot,2PT Field Goal,4,3,Fadeaway Jump Shot,JUMP_SHOTS,0.75,2024
-1631121,Floating Jump Shot,2PT Field Goal,2,0,Floating Jump shot,FLOATING_SHOTS,0.0,2024
-1631121,Jump Shot,3PT Field Goal,47,16,Jump Shot,JUMP_SHOTS,0.5106382978723404,2024
-1631121,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2024
-1631121,Pullup Jump Shot,2PT Field Goal,5,1,Pullup Jump shot,JUMP_SHOTS,0.2,2024
-1631121,Pullup Jump Shot,3PT Field Goal,6,4,Pullup Jump shot,JUMP_SHOTS,1.0,2024
-1631121,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2024
-1631121,Reverse Layup,2PT Field Goal,3,3,Reverse Layup Shot,LAYUPS,1.0,2024
-1631121,Alley Oop Layup,2PT Field Goal,1,1,Running Alley Oop Layup Shot,LAYUPS,1.0,2024
-1631121,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2024
-1631121,Running Jump Shot,3PT Field Goal,4,2,Running Jump Shot,JUMP_SHOTS,0.75,2024
-1631121,Standard Layup,2PT Field Goal,6,1,Running Layup Shot,LAYUPS,0.1666666666666666,2024
-1631121,Running Jump Shot,2PT Field Goal,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,1.0,2024
-1631121,Reverse Layup,2PT Field Goal,1,1,Running Reverse Layup Shot,LAYUPS,1.0,2024
-1631121,Step Back Jump Shot,2PT Field Goal,2,1,Step Back Jump shot,JUMP_SHOTS,0.5,2024
-1631121,Step Back Jump Shot,3PT Field Goal,2,1,Step Back Jump shot,JUMP_SHOTS,0.75,2024
-1631121,Putback Layup,2PT Field Goal,3,2,Tip Layup Shot,LAYUPS,0.6666666666666666,2024
-1631121,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2025
-1631121,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2025
-1631121,Running Jump Shot,3PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Bryce McGowens,1631121,Alley Oop Layup,2,1,0,Alley Oop Layup shot,LAYUPS,,2023
+Bryce McGowens,1631121,Specialty Dunk,2,2,2,Cutting Dunk Shot,DUNKS,,2023
+Bryce McGowens,1631121,Standard Layup,2,6,5,Cutting Layup Shot,LAYUPS,,2023
+Bryce McGowens,1631121,Driving Hook Shot,2,1,1,Driving Bank Hook Shot,POST_MOVES,,2023
+Bryce McGowens,1631121,Driving Dunk,2,8,5,Driving Dunk Shot,DUNKS,,2023
+Bryce McGowens,1631121,Finger Roll,2,5,3,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Bryce McGowens,1631121,Floating Jump Shot,2,2,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+Bryce McGowens,1631121,Floating Jump Shot,2,19,4,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Bryce McGowens,1631121,Driving Layup,2,32,15,Driving Layup Shot,LAYUPS,,2023
+Bryce McGowens,1631121,Driving Layup,2,2,1,Driving Reverse Layup Shot,LAYUPS,,2023
+Bryce McGowens,1631121,Fadeaway Jump Shot,2,4,0,Fadeaway Jump Shot,JUMP_SHOTS,,2023
+Bryce McGowens,1631121,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2023
+Bryce McGowens,1631121,Floating Jump Shot,2,3,2,Floating Jump shot,FLOATING_SHOTS,,2023
+Bryce McGowens,1631121,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2023
+Bryce McGowens,1631121,Jump Shot,2,63,22,Jump Shot,JUMP_SHOTS,,2023
+Bryce McGowens,1631121,Standard Layup,2,2,1,Layup Shot,LAYUPS,,2023
+Bryce McGowens,1631121,Pullup Jump Shot,2,10,2,Pullup Jump shot,JUMP_SHOTS,,2023
+Bryce McGowens,1631121,Putback Layup,2,2,2,Putback Layup Shot,LAYUPS,,2023
+Bryce McGowens,1631121,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2023
+Bryce McGowens,1631121,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2023
+Bryce McGowens,1631121,Finger Roll,2,1,0,Running Finger Roll Layup Shot,LAYUPS,,2023
+Bryce McGowens,1631121,Running Jump Shot,2,6,0,Running Jump Shot,JUMP_SHOTS,,2023
+Bryce McGowens,1631121,Standard Layup,2,15,7,Running Layup Shot,LAYUPS,,2023
+Bryce McGowens,1631121,Step Back Jump Shot,2,8,3,Step Back Jump shot,JUMP_SHOTS,,2023
+Bryce McGowens,1631121,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2023
+Bryce McGowens,1631121,Putback Layup,2,5,3,Tip Layup Shot,LAYUPS,,2023
+Bryce McGowens,1631121,Specialty Dunk,2,3,3,Cutting Dunk Shot,DUNKS,,2024
+Bryce McGowens,1631121,Standard Layup,2,5,2,Cutting Layup Shot,LAYUPS,,2024
+Bryce McGowens,1631121,Driving Hook Shot,2,2,1,Driving Bank Hook Shot,POST_MOVES,,2024
+Bryce McGowens,1631121,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2024
+Bryce McGowens,1631121,Finger Roll,2,9,4,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Bryce McGowens,1631121,Floating Jump Shot,2,2,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Bryce McGowens,1631121,Floating Jump Shot,2,8,1,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Bryce McGowens,1631121,Driving Hook Shot,2,2,2,Driving Hook Shot,POST_MOVES,,2024
+Bryce McGowens,1631121,Driving Layup,2,34,16,Driving Layup Shot,LAYUPS,,2024
+Bryce McGowens,1631121,Driving Layup,2,6,2,Driving Reverse Layup Shot,LAYUPS,,2024
+Bryce McGowens,1631121,Fadeaway Jump Shot,2,4,3,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Bryce McGowens,1631121,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2024
+Bryce McGowens,1631121,Floating Jump Shot,2,2,0,Floating Jump shot,FLOATING_SHOTS,,2024
+Bryce McGowens,1631121,Jump Shot,3,86,26,Jump Shot,JUMP_SHOTS,,2024
+Bryce McGowens,1631121,Standard Layup,2,2,1,Layup Shot,LAYUPS,,2024
+Bryce McGowens,1631121,Pullup Jump Shot,2,10,3,Pullup Jump shot,JUMP_SHOTS,,2024
+Bryce McGowens,1631121,Pullup Jump Shot,3,9,4,Pullup Jump shot,JUMP_SHOTS,,2024
+Bryce McGowens,1631121,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2024
+Bryce McGowens,1631121,Reverse Layup,2,4,4,Reverse Layup Shot,LAYUPS,,2024
+Bryce McGowens,1631121,Alley Oop Layup,2,1,1,Running Alley Oop Layup Shot,LAYUPS,,2024
+Bryce McGowens,1631121,Standard Dunk,2,2,2,Running Dunk Shot,DUNKS,,2024
+Bryce McGowens,1631121,Finger Roll,2,4,3,Running Finger Roll Layup Shot,LAYUPS,,2024
+Bryce McGowens,1631121,Running Jump Shot,3,5,3,Running Jump Shot,JUMP_SHOTS,,2024
+Bryce McGowens,1631121,Standard Layup,2,14,8,Running Layup Shot,LAYUPS,,2024
+Bryce McGowens,1631121,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Bryce McGowens,1631121,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2024
+Bryce McGowens,1631121,Step Back Jump Shot,2,3,2,Step Back Jump shot,JUMP_SHOTS,,2024
+Bryce McGowens,1631121,Step Back Jump Shot,3,2,1,Step Back Jump shot,JUMP_SHOTS,,2024
+Bryce McGowens,1631121,Specialty Dunk,2,1,1,Tip Dunk Shot,DUNKS,,2024
+Bryce McGowens,1631121,Putback Layup,2,5,2,Tip Layup Shot,LAYUPS,,2024
+Bryce McGowens,1631121,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2025
+Bryce McGowens,1631121,Standard Layup,2,1,1,Running Layup Shot,LAYUPS,,2025
+Bryce McGowens,1631121,Running Jump Shot,3,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025

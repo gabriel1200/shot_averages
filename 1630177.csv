@@ -1,26 +1,105 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1630177,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2022
-1630177,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2022
-1630177,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2022
-1630177,Finger Roll,2PT Field Goal,3,2,Driving Finger Roll Layup Shot,LAYUPS,0.6666666666666666,2023
-1630177,Floating Jump Shot,2PT Field Goal,4,2,Driving Floating Jump Shot,FLOATING_SHOTS,0.5,2023
-1630177,Driving Layup,2PT Field Goal,3,1,Driving Layup Shot,LAYUPS,0.3333333333333333,2023
-1630177,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2023
-1630177,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,2023
-1630177,Pullup Jump Shot,2PT Field Goal,3,1,Pullup Jump shot,JUMP_SHOTS,0.3333333333333333,2023
-1630177,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2023
-1630177,Step Back Jump Shot,3PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2023
-1630177,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2023
-1630177,Floating Jump Shot,2PT Field Goal,2,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.0,2024
-1630177,Floating Jump Shot,2PT Field Goal,2,1,Driving Floating Jump Shot,FLOATING_SHOTS,0.5,2024
-1630177,Driving Layup,2PT Field Goal,6,0,Driving Layup Shot,LAYUPS,0.0,2024
-1630177,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2024
-1630177,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2024
-1630177,Jump Shot,3PT Field Goal,13,2,Jump Shot,JUMP_SHOTS,0.2307692307692307,2024
-1630177,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2024
-1630177,Pullup Jump Shot,2PT Field Goal,4,1,Pullup Jump shot,JUMP_SHOTS,0.25,2024
-1630177,Pullup Jump Shot,3PT Field Goal,2,0,Pullup Jump shot,JUMP_SHOTS,0.0,2024
-1630177,Finger Roll,2PT Field Goal,1,1,Running Finger Roll Layup Shot,LAYUPS,1.0,2024
-1630177,Standard Layup,2PT Field Goal,2,1,Running Layup Shot,LAYUPS,0.5,2024
-1630177,Running Jump Shot,3PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2024
-1630177,Step Back Jump Shot,3PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Theo Maledon,1630177,Standard Layup,2,3,2,Cutting Layup Shot,LAYUPS,,2021
+Theo Maledon,1630177,Finger Roll,2,16,7,Driving Finger Roll Layup Shot,LAYUPS,,2021
+Theo Maledon,1630177,Floating Jump Shot,2,9,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2021
+Theo Maledon,1630177,Floating Jump Shot,2,46,17,Driving Floating Jump Shot,FLOATING_SHOTS,,2021
+Theo Maledon,1630177,Driving Hook Shot,2,1,1,Driving Hook Shot,POST_MOVES,,2021
+Theo Maledon,1630177,Driving Layup,2,74,30,Driving Layup Shot,LAYUPS,,2021
+Theo Maledon,1630177,Driving Layup,2,2,2,Driving Reverse Layup Shot,LAYUPS,,2021
+Theo Maledon,1630177,Fadeaway Jump Shot,2,5,3,Fadeaway Jump Shot,JUMP_SHOTS,,2021
+Theo Maledon,1630177,Finger Roll,2,1,0,Finger Roll Layup Shot,LAYUPS,,2021
+Theo Maledon,1630177,Floating Jump Shot,2,26,7,Floating Jump shot,FLOATING_SHOTS,,2021
+Theo Maledon,1630177,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2021
+Theo Maledon,1630177,Jump Shot,2,2,2,Jump Bank Shot,JUMP_SHOTS,,2021
+Theo Maledon,1630177,Jump Shot,2,242,81,Jump Shot,JUMP_SHOTS,,2021
+Theo Maledon,1630177,Jump Shot,3,1,0,Jump Shot,JUMP_SHOTS,,2021
+Theo Maledon,1630177,Standard Layup,2,8,1,Layup Shot,LAYUPS,,2021
+Theo Maledon,1630177,Pullup Jump Shot,2,122,48,Pullup Jump shot,JUMP_SHOTS,,2021
+Theo Maledon,1630177,Putback Dunk,2,1,0,Putback Dunk Shot,DUNKS,,2021
+Theo Maledon,1630177,Putback Layup,2,1,0,Putback Layup Shot,LAYUPS,,2021
+Theo Maledon,1630177,Standard Dunk,2,1,1,Running Dunk Shot,DUNKS,,2021
+Theo Maledon,1630177,Finger Roll,2,3,1,Running Finger Roll Layup Shot,LAYUPS,,2021
+Theo Maledon,1630177,Running Jump Shot,2,3,0,Running Jump Shot,JUMP_SHOTS,,2021
+Theo Maledon,1630177,Standard Layup,2,21,10,Running Layup Shot,LAYUPS,,2021
+Theo Maledon,1630177,Running Jump Shot,2,3,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2021
+Theo Maledon,1630177,Reverse Layup,2,3,2,Running Reverse Layup Shot,LAYUPS,,2021
+Theo Maledon,1630177,Step Back Jump Shot,2,16,8,Step Back Jump shot,JUMP_SHOTS,,2021
+Theo Maledon,1630177,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2021
+Theo Maledon,1630177,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2021
+Theo Maledon,1630177,Standard Layup,2,6,3,Cutting Layup Shot,LAYUPS,,2022
+Theo Maledon,1630177,Driving Hook Shot,2,2,1,Driving Bank Hook Shot,POST_MOVES,,2022
+Theo Maledon,1630177,Driving Dunk,2,1,1,Driving Dunk Shot,DUNKS,,2022
+Theo Maledon,1630177,Finger Roll,2,11,6,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Theo Maledon,1630177,Floating Jump Shot,2,4,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Theo Maledon,1630177,Floating Jump Shot,2,22,10,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Theo Maledon,1630177,Driving Layup,2,42,20,Driving Layup Shot,LAYUPS,,2022
+Theo Maledon,1630177,Driving Layup,2,8,4,Driving Reverse Layup Shot,LAYUPS,,2022
+Theo Maledon,1630177,Fadeaway Jump Shot,2,3,1,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Theo Maledon,1630177,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2022
+Theo Maledon,1630177,Floating Jump Shot,2,9,4,Floating Jump shot,FLOATING_SHOTS,,2022
+Theo Maledon,1630177,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2022
+Theo Maledon,1630177,Jump Shot,2,108,25,Jump Shot,JUMP_SHOTS,,2022
+Theo Maledon,1630177,Jump Shot,3,14,7,Jump Shot,JUMP_SHOTS,,2022
+Theo Maledon,1630177,Standard Layup,2,15,5,Layup Shot,LAYUPS,,2022
+Theo Maledon,1630177,Pullup Jump Shot,2,27,9,Pullup Jump shot,JUMP_SHOTS,,2022
+Theo Maledon,1630177,Pullup Jump Shot,3,8,3,Pullup Jump shot,JUMP_SHOTS,,2022
+Theo Maledon,1630177,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2022
+Theo Maledon,1630177,Finger Roll,2,1,1,Running Finger Roll Layup Shot,LAYUPS,,2022
+Theo Maledon,1630177,Running Jump Shot,2,3,1,Running Jump Shot,JUMP_SHOTS,,2022
+Theo Maledon,1630177,Running Jump Shot,3,1,0,Running Jump Shot,JUMP_SHOTS,,2022
+Theo Maledon,1630177,Standard Layup,2,13,6,Running Layup Shot,LAYUPS,,2022
+Theo Maledon,1630177,Running Jump Shot,2,2,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
+Theo Maledon,1630177,Reverse Layup,2,2,2,Running Reverse Layup Shot,LAYUPS,,2022
+Theo Maledon,1630177,Step Back Jump Shot,2,5,4,Step Back Jump shot,JUMP_SHOTS,,2022
+Theo Maledon,1630177,Step Back Jump Shot,3,1,1,Step Back Jump shot,JUMP_SHOTS,,2022
+Theo Maledon,1630177,Putback Layup,2,3,0,Tip Layup Shot,LAYUPS,,2022
+Theo Maledon,1630177,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2022
+Theo Maledon,1630177,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2022
+Theo Maledon,1630177,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2022
+Theo Maledon,1630177,Alley Oop Layup,2,1,1,Alley Oop Layup shot,LAYUPS,,2023
+Theo Maledon,1630177,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2023
+Theo Maledon,1630177,Finger Roll,2,8,5,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Theo Maledon,1630177,Floating Jump Shot,2,5,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+Theo Maledon,1630177,Floating Jump Shot,2,31,14,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Theo Maledon,1630177,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2023
+Theo Maledon,1630177,Driving Layup,2,35,16,Driving Layup Shot,LAYUPS,,2023
+Theo Maledon,1630177,Driving Layup,2,7,3,Driving Reverse Layup Shot,LAYUPS,,2023
+Theo Maledon,1630177,Fadeaway Jump Shot,2,1,0,Fadeaway Bank shot,JUMP_SHOTS,,2023
+Theo Maledon,1630177,Fadeaway Jump Shot,2,8,3,Fadeaway Jump Shot,JUMP_SHOTS,,2023
+Theo Maledon,1630177,Floating Jump Shot,2,6,1,Floating Jump shot,FLOATING_SHOTS,,2023
+Theo Maledon,1630177,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2023
+Theo Maledon,1630177,Jump Shot,2,1,0,Jump Bank Shot,JUMP_SHOTS,,2023
+Theo Maledon,1630177,Jump Shot,2,44,20,Jump Shot,JUMP_SHOTS,,2023
+Theo Maledon,1630177,Jump Shot,3,7,1,Jump Shot,JUMP_SHOTS,,2023
+Theo Maledon,1630177,Standard Layup,2,4,1,Layup Shot,LAYUPS,,2023
+Theo Maledon,1630177,Pullup Jump Shot,2,44,15,Pullup Jump shot,JUMP_SHOTS,,2023
+Theo Maledon,1630177,Pullup Jump Shot,3,1,0,Pullup Jump shot,JUMP_SHOTS,,2023
+Theo Maledon,1630177,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2023
+Theo Maledon,1630177,Reverse Layup,2,3,2,Reverse Layup Shot,LAYUPS,,2023
+Theo Maledon,1630177,Finger Roll,2,3,2,Running Finger Roll Layup Shot,LAYUPS,,2023
+Theo Maledon,1630177,Running Jump Shot,2,6,1,Running Jump Shot,JUMP_SHOTS,,2023
+Theo Maledon,1630177,Standard Layup,2,10,7,Running Layup Shot,LAYUPS,,2023
+Theo Maledon,1630177,Running Jump Shot,2,4,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2023
+Theo Maledon,1630177,Step Back Jump Shot,2,14,3,Step Back Jump shot,JUMP_SHOTS,,2023
+Theo Maledon,1630177,Step Back Jump Shot,3,3,1,Step Back Jump shot,JUMP_SHOTS,,2023
+Theo Maledon,1630177,Putback Layup,2,1,1,Tip Layup Shot,LAYUPS,,2023
+Theo Maledon,1630177,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2023
+Theo Maledon,1630177,Turnaround Jump Shot,2,2,0,Turnaround Jump Shot,JUMP_SHOTS,,2023
+Theo Maledon,1630177,Standard Layup,2,2,2,Cutting Layup Shot,LAYUPS,,2024
+Theo Maledon,1630177,Finger Roll,2,2,1,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Theo Maledon,1630177,Floating Jump Shot,2,3,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Theo Maledon,1630177,Floating Jump Shot,2,8,4,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Theo Maledon,1630177,Driving Layup,2,7,0,Driving Layup Shot,LAYUPS,,2024
+Theo Maledon,1630177,Driving Layup,2,1,0,Driving Reverse Layup Shot,LAYUPS,,2024
+Theo Maledon,1630177,Floating Jump Shot,2,2,1,Floating Jump shot,FLOATING_SHOTS,,2024
+Theo Maledon,1630177,Floating Jump Shot,3,1,0,Floating Jump shot,FLOATING_SHOTS,,2024
+Theo Maledon,1630177,Jump Shot,2,1,0,Jump Shot,JUMP_SHOTS,,2024
+Theo Maledon,1630177,Jump Shot,3,22,4,Jump Shot,JUMP_SHOTS,,2024
+Theo Maledon,1630177,Standard Layup,2,3,2,Layup Shot,LAYUPS,,2024
+Theo Maledon,1630177,Pullup Jump Shot,2,6,2,Pullup Jump shot,JUMP_SHOTS,,2024
+Theo Maledon,1630177,Pullup Jump Shot,3,3,1,Pullup Jump shot,JUMP_SHOTS,,2024
+Theo Maledon,1630177,Finger Roll,2,2,2,Running Finger Roll Layup Shot,LAYUPS,,2024
+Theo Maledon,1630177,Running Jump Shot,3,2,0,Running Jump Shot,JUMP_SHOTS,,2024
+Theo Maledon,1630177,Standard Layup,2,3,1,Running Layup Shot,LAYUPS,,2024
+Theo Maledon,1630177,Running Jump Shot,3,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Theo Maledon,1630177,Step Back Jump Shot,3,1,0,Step Back Jump shot,JUMP_SHOTS,,2024

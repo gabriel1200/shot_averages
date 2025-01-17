@@ -1,44 +1,77 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1641708,Alley Oop Dunk,2PT Field Goal,2,2,Alley Oop Dunk Shot,DUNKS,1.0,2024
-1641708,Specialty Dunk,2PT Field Goal,6,5,Cutting Dunk Shot,DUNKS,0.8333333333333334,2024
-1641708,Standard Layup,2PT Field Goal,3,1,Cutting Layup Shot,LAYUPS,0.3333333333333333,2024
-1641708,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2024
-1641708,Finger Roll,2PT Field Goal,1,0,Driving Finger Roll Layup Shot,LAYUPS,0.0,2024
-1641708,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.0,2024
-1641708,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2024
-1641708,Driving Layup,2PT Field Goal,8,3,Driving Layup Shot,LAYUPS,0.375,2024
-1641708,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2024
-1641708,Standard Dunk,2PT Field Goal,4,4,Dunk Shot,DUNKS,1.0,2024
-1641708,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2024
-1641708,Jump Shot,3PT Field Goal,5,0,Jump Shot,JUMP_SHOTS,0.0,2024
-1641708,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2024
-1641708,Pullup Jump Shot,2PT Field Goal,7,2,Pullup Jump shot,JUMP_SHOTS,0.2857142857142857,2024
-1641708,Putback Dunk,2PT Field Goal,1,1,Putback Dunk Shot,DUNKS,1.0,2024
-1641708,Putback Layup,2PT Field Goal,6,4,Putback Layup Shot,LAYUPS,0.6666666666666666,2024
-1641708,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2024
-1641708,Standard Dunk,2PT Field Goal,7,6,Running Dunk Shot,DUNKS,0.8571428571428571,2024
-1641708,Finger Roll,2PT Field Goal,2,1,Running Finger Roll Layup Shot,LAYUPS,0.5,2024
-1641708,Standard Layup,2PT Field Goal,7,3,Running Layup Shot,LAYUPS,0.4285714285714285,2024
-1641708,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2024
-1641708,Putback Layup,2PT Field Goal,4,3,Tip Layup Shot,LAYUPS,0.75,2024
-1641708,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2024
-1641708,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2025
-1641708,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2025
-1641708,Finger Roll,2PT Field Goal,1,1,Cutting Finger Roll Layup Shot,LAYUPS,1.0,2025
-1641708,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2025
-1641708,Driving Dunk,2PT Field Goal,2,2,Driving Dunk Shot,DUNKS,1.0,2025
-1641708,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.0,2025
-1641708,Floating Jump Shot,2PT Field Goal,7,3,Driving Floating Jump Shot,FLOATING_SHOTS,0.4285714285714285,2025
-1641708,Driving Layup,2PT Field Goal,8,5,Driving Layup Shot,LAYUPS,0.625,2025
-1641708,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2025
-1641708,Jump Shot,3PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2025
-1641708,Jump Shot,3PT Field Goal,4,1,Jump Shot,JUMP_SHOTS,0.375,2025
-1641708,Putback Dunk,2PT Field Goal,1,1,Putback Dunk Shot,DUNKS,1.0,2025
-1641708,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2025
-1641708,Alley Oop Dunk,2PT Field Goal,1,1,Running Alley Oop Dunk Shot,DUNKS,1.0,2025
-1641708,Standard Dunk,2PT Field Goal,2,2,Running Dunk Shot,DUNKS,1.0,2025
-1641708,Finger Roll,2PT Field Goal,1,1,Running Finger Roll Layup Shot,LAYUPS,1.0,2025
-1641708,Standard Layup,2PT Field Goal,2,0,Running Layup Shot,LAYUPS,0.0,2025
-1641708,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2025
-1641708,Specialty Dunk,2PT Field Goal,1,1,Tip Dunk Shot,DUNKS,1.0,2025
-1641708,Putback Layup,2PT Field Goal,4,1,Tip Layup Shot,LAYUPS,0.25,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Amen Thompson,1641708,Alley Oop Dunk,2,5,5,Alley Oop Dunk Shot,DUNKS,,2024
+Amen Thompson,1641708,Alley Oop Layup,2,2,0,Alley Oop Layup shot,LAYUPS,,2024
+Amen Thompson,1641708,Specialty Dunk,2,25,21,Cutting Dunk Shot,DUNKS,,2024
+Amen Thompson,1641708,Finger Roll,2,2,1,Cutting Finger Roll Layup Shot,LAYUPS,,2024
+Amen Thompson,1641708,Standard Layup,2,16,9,Cutting Layup Shot,LAYUPS,,2024
+Amen Thompson,1641708,Driving Dunk,2,10,9,Driving Dunk Shot,DUNKS,,2024
+Amen Thompson,1641708,Finger Roll,2,13,4,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Amen Thompson,1641708,Floating Jump Shot,2,8,3,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Amen Thompson,1641708,Floating Jump Shot,2,12,6,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Amen Thompson,1641708,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2024
+Amen Thompson,1641708,Driving Layup,2,40,20,Driving Layup Shot,LAYUPS,,2024
+Amen Thompson,1641708,Driving Layup,2,5,1,Driving Reverse Layup Shot,LAYUPS,,2024
+Amen Thompson,1641708,Standard Dunk,2,13,12,Dunk Shot,DUNKS,,2024
+Amen Thompson,1641708,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2024
+Amen Thompson,1641708,Floating Jump Shot,2,3,2,Floating Jump shot,FLOATING_SHOTS,,2024
+Amen Thompson,1641708,Jump Shot,2,1,1,Jump Bank Shot,JUMP_SHOTS,,2024
+Amen Thompson,1641708,Jump Shot,2,6,2,Jump Shot,JUMP_SHOTS,,2024
+Amen Thompson,1641708,Jump Shot,3,50,7,Jump Shot,JUMP_SHOTS,,2024
+Amen Thompson,1641708,Standard Layup,2,23,11,Layup Shot,LAYUPS,,2024
+Amen Thompson,1641708,Pullup Jump Shot,2,25,10,Pullup Jump shot,JUMP_SHOTS,,2024
+Amen Thompson,1641708,Pullup Jump Shot,3,6,0,Pullup Jump shot,JUMP_SHOTS,,2024
+Amen Thompson,1641708,Putback Dunk,2,8,8,Putback Dunk Shot,DUNKS,,2024
+Amen Thompson,1641708,Putback Layup,2,22,15,Putback Layup Shot,LAYUPS,,2024
+Amen Thompson,1641708,Reverse Layup,2,4,2,Reverse Layup Shot,LAYUPS,,2024
+Amen Thompson,1641708,Alley Oop Dunk,2,2,2,Running Alley Oop Dunk Shot,DUNKS,,2024
+Amen Thompson,1641708,Standard Dunk,2,28,25,Running Dunk Shot,DUNKS,,2024
+Amen Thompson,1641708,Finger Roll,2,10,6,Running Finger Roll Layup Shot,LAYUPS,,2024
+Amen Thompson,1641708,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2024
+Amen Thompson,1641708,Standard Layup,2,46,24,Running Layup Shot,LAYUPS,,2024
+Amen Thompson,1641708,Running Jump Shot,2,2,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Amen Thompson,1641708,Reverse Layup,2,3,2,Running Reverse Layup Shot,LAYUPS,,2024
+Amen Thompson,1641708,Step Back Jump Shot,2,2,1,Step Back Jump shot,JUMP_SHOTS,,2024
+Amen Thompson,1641708,Step Back Jump Shot,3,2,1,Step Back Jump shot,JUMP_SHOTS,,2024
+Amen Thompson,1641708,Specialty Dunk,2,6,6,Tip Dunk Shot,DUNKS,,2024
+Amen Thompson,1641708,Putback Layup,2,31,19,Tip Layup Shot,LAYUPS,,2024
+Amen Thompson,1641708,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2024
+Amen Thompson,1641708,Turnaround Jump Shot,2,6,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2024
+Amen Thompson,1641708,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2024
+Amen Thompson,1641708,Turnaround Jump Shot,2,3,1,Turnaround Jump Shot,JUMP_SHOTS,,2024
+Amen Thompson,1641708,Alley Oop Dunk,2,10,9,Alley Oop Dunk Shot,DUNKS,,2025
+Amen Thompson,1641708,Alley Oop Layup,2,2,2,Alley Oop Layup shot,LAYUPS,,2025
+Amen Thompson,1641708,Specialty Dunk,2,14,13,Cutting Dunk Shot,DUNKS,,2025
+Amen Thompson,1641708,Finger Roll,2,2,2,Cutting Finger Roll Layup Shot,LAYUPS,,2025
+Amen Thompson,1641708,Standard Layup,2,13,9,Cutting Layup Shot,LAYUPS,,2025
+Amen Thompson,1641708,Driving Dunk,2,7,7,Driving Dunk Shot,DUNKS,,2025
+Amen Thompson,1641708,Finger Roll,2,5,3,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Amen Thompson,1641708,Floating Jump Shot,2,5,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2025
+Amen Thompson,1641708,Floating Jump Shot,2,20,10,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Amen Thompson,1641708,Driving Layup,2,35,17,Driving Layup Shot,LAYUPS,,2025
+Amen Thompson,1641708,Driving Layup,2,7,0,Driving Reverse Layup Shot,LAYUPS,,2025
+Amen Thompson,1641708,Standard Dunk,2,5,5,Dunk Shot,DUNKS,,2025
+Amen Thompson,1641708,Fadeaway Jump Shot,2,2,0,Fadeaway Jump Shot,JUMP_SHOTS,,2025
+Amen Thompson,1641708,Finger Roll,2,2,1,Finger Roll Layup Shot,LAYUPS,,2025
+Amen Thompson,1641708,Floating Jump Shot,2,7,3,Floating Jump shot,FLOATING_SHOTS,,2025
+Amen Thompson,1641708,Jump Shot,3,1,0,Jump Bank Shot,JUMP_SHOTS,,2025
+Amen Thompson,1641708,Jump Shot,2,8,3,Jump Shot,JUMP_SHOTS,,2025
+Amen Thompson,1641708,Jump Shot,3,44,12,Jump Shot,JUMP_SHOTS,,2025
+Amen Thompson,1641708,Standard Layup,2,11,6,Layup Shot,LAYUPS,,2025
+Amen Thompson,1641708,Pullup Jump Shot,2,17,9,Pullup Jump shot,JUMP_SHOTS,,2025
+Amen Thompson,1641708,Putback Dunk,2,3,2,Putback Dunk Shot,DUNKS,,2025
+Amen Thompson,1641708,Putback Layup,2,10,7,Putback Layup Shot,LAYUPS,,2025
+Amen Thompson,1641708,Reverse Layup,2,2,0,Reverse Layup Shot,LAYUPS,,2025
+Amen Thompson,1641708,Alley Oop Dunk,2,1,1,Running Alley Oop Dunk Shot,DUNKS,,2025
+Amen Thompson,1641708,Standard Dunk,2,18,18,Running Dunk Shot,DUNKS,,2025
+Amen Thompson,1641708,Finger Roll,2,4,3,Running Finger Roll Layup Shot,LAYUPS,,2025
+Amen Thompson,1641708,Running Jump Shot,2,1,0,Running Jump Shot,JUMP_SHOTS,,2025
+Amen Thompson,1641708,Standard Layup,2,24,15,Running Layup Shot,LAYUPS,,2025
+Amen Thompson,1641708,Running Jump Shot,2,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025
+Amen Thompson,1641708,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2025
+Amen Thompson,1641708,Step Back Jump Shot,2,7,1,Step Back Jump shot,JUMP_SHOTS,,2025
+Amen Thompson,1641708,Step Back Jump Shot,3,3,0,Step Back Jump shot,JUMP_SHOTS,,2025
+Amen Thompson,1641708,Specialty Dunk,2,6,6,Tip Dunk Shot,DUNKS,,2025
+Amen Thompson,1641708,Putback Layup,2,17,8,Tip Layup Shot,LAYUPS,,2025
+Amen Thompson,1641708,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2025
+Amen Thompson,1641708,Turnaround Jump Shot,2,5,2,Turnaround Fadeaway shot,JUMP_SHOTS,,2025
+Amen Thompson,1641708,Turnaround Jump Shot,2,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2025

@@ -1,45 +1,89 @@
-PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
-1630631,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2022
-1630631,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2022
-1630631,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2022
-1630631,Standard Layup,2PT Field Goal,4,2,Cutting Layup Shot,LAYUPS,0.5,2024
-1630631,Finger Roll,2PT Field Goal,2,1,Driving Finger Roll Layup Shot,LAYUPS,0.5,2024
-1630631,Floating Jump Shot,2PT Field Goal,7,3,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.4285714285714285,2024
-1630631,Floating Jump Shot,2PT Field Goal,27,10,Driving Floating Jump Shot,FLOATING_SHOTS,0.3703703703703703,2024
-1630631,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2024
-1630631,Driving Layup,2PT Field Goal,17,5,Driving Layup Shot,LAYUPS,0.2941176470588235,2024
-1630631,Driving Layup,2PT Field Goal,4,2,Driving Reverse Layup Shot,LAYUPS,0.5,2024
-1630631,Finger Roll,2PT Field Goal,1,1,Finger Roll Layup Shot,LAYUPS,1.0,2024
-1630631,Floating Jump Shot,2PT Field Goal,7,4,Floating Jump shot,FLOATING_SHOTS,0.5714285714285714,2024
-1630631,Hook Shot,2PT Field Goal,1,0,Hook Bank Shot,POST_MOVES,0.0,2024
-1630631,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2024
-1630631,Jump Shot,3PT Field Goal,100,37,Jump Shot,JUMP_SHOTS,0.555,2024
-1630631,Standard Layup,2PT Field Goal,3,2,Layup Shot,LAYUPS,0.6666666666666666,2024
-1630631,Pullup Jump Shot,2PT Field Goal,8,2,Pullup Jump shot,JUMP_SHOTS,0.25,2024
-1630631,Pullup Jump Shot,3PT Field Goal,8,3,Pullup Jump shot,JUMP_SHOTS,0.5625,2024
-1630631,Putback Layup,2PT Field Goal,5,4,Putback Layup Shot,LAYUPS,0.8,2024
-1630631,Finger Roll,2PT Field Goal,2,2,Running Finger Roll Layup Shot,LAYUPS,1.0,2024
-1630631,Running Jump Shot,3PT Field Goal,15,3,Running Jump Shot,JUMP_SHOTS,0.3,2024
-1630631,Standard Layup,2PT Field Goal,11,5,Running Layup Shot,LAYUPS,0.4545454545454545,2024
-1630631,Running Jump Shot,2PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2024
-1630631,Running Jump Shot,3PT Field Goal,5,4,Running Pull-Up Jump Shot,JUMP_SHOTS,1.2,2024
-1630631,Reverse Layup,2PT Field Goal,1,1,Running Reverse Layup Shot,LAYUPS,1.0,2024
-1630631,Step Back Jump Shot,3PT Field Goal,4,1,Step Back Jump shot,JUMP_SHOTS,0.375,2024
-1630631,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2024
-1630631,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2025
-1630631,Finger Roll,2PT Field Goal,2,1,Driving Finger Roll Layup Shot,LAYUPS,0.5,2025
-1630631,Floating Jump Shot,2PT Field Goal,3,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.0,2025
-1630631,Floating Jump Shot,2PT Field Goal,15,5,Driving Floating Jump Shot,FLOATING_SHOTS,0.3333333333333333,2025
-1630631,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2025
-1630631,Driving Layup,2PT Field Goal,9,4,Driving Layup Shot,LAYUPS,0.4444444444444444,2025
-1630631,Fadeaway Jump Shot,2PT Field Goal,2,1,Fadeaway Jump Shot,JUMP_SHOTS,0.5,2025
-1630631,Floating Jump Shot,2PT Field Goal,4,1,Floating Jump shot,FLOATING_SHOTS,0.25,2025
-1630631,Jump Shot,3PT Field Goal,40,12,Jump Shot,JUMP_SHOTS,0.45,2025
-1630631,Pullup Jump Shot,2PT Field Goal,6,2,Pullup Jump shot,JUMP_SHOTS,0.3333333333333333,2025
-1630631,Pullup Jump Shot,3PT Field Goal,16,8,Pullup Jump shot,JUMP_SHOTS,0.75,2025
-1630631,Running Jump Shot,3PT Field Goal,6,5,Running Jump Shot,JUMP_SHOTS,1.25,2025
-1630631,Standard Layup,2PT Field Goal,4,2,Running Layup Shot,LAYUPS,0.5,2025
-1630631,Running Jump Shot,3PT Field Goal,3,1,Running Pull-Up Jump Shot,JUMP_SHOTS,0.5,2025
-1630631,Step Back Jump Shot,3PT Field Goal,4,2,Step Back Jump shot,JUMP_SHOTS,0.75,2025
-1630631,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2025
-1630631,Turnaround Jump Shot,3PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.5,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Jose Alvarado,1630631,Finger Roll,2,1,1,Cutting Finger Roll Layup Shot,LAYUPS,,2022
+Jose Alvarado,1630631,Standard Layup,2,7,4,Cutting Layup Shot,LAYUPS,,2022
+Jose Alvarado,1630631,Finger Roll,2,15,10,Driving Finger Roll Layup Shot,LAYUPS,,2022
+Jose Alvarado,1630631,Floating Jump Shot,2,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2022
+Jose Alvarado,1630631,Floating Jump Shot,2,49,34,Driving Floating Jump Shot,FLOATING_SHOTS,,2022
+Jose Alvarado,1630631,Driving Layup,2,33,14,Driving Layup Shot,LAYUPS,,2022
+Jose Alvarado,1630631,Driving Layup,2,6,2,Driving Reverse Layup Shot,LAYUPS,,2022
+Jose Alvarado,1630631,Fadeaway Jump Shot,2,1,0,Fadeaway Jump Shot,JUMP_SHOTS,,2022
+Jose Alvarado,1630631,Floating Jump Shot,2,9,5,Floating Jump shot,FLOATING_SHOTS,,2022
+Jose Alvarado,1630631,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2022
+Jose Alvarado,1630631,Jump Shot,2,2,1,Jump Bank Shot,JUMP_SHOTS,,2022
+Jose Alvarado,1630631,Jump Shot,2,96,32,Jump Shot,JUMP_SHOTS,,2022
+Jose Alvarado,1630631,Standard Layup,2,11,5,Layup Shot,LAYUPS,,2022
+Jose Alvarado,1630631,Pullup Jump Shot,2,27,8,Pullup Jump shot,JUMP_SHOTS,,2022
+Jose Alvarado,1630631,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2022
+Jose Alvarado,1630631,Reverse Layup,2,1,0,Reverse Layup Shot,LAYUPS,,2022
+Jose Alvarado,1630631,Finger Roll,2,3,2,Running Finger Roll Layup Shot,LAYUPS,,2022
+Jose Alvarado,1630631,Running Jump Shot,2,6,1,Running Jump Shot,JUMP_SHOTS,,2022
+Jose Alvarado,1630631,Standard Layup,2,12,7,Running Layup Shot,LAYUPS,,2022
+Jose Alvarado,1630631,Running Jump Shot,2,2,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2022
+Jose Alvarado,1630631,Reverse Layup,2,1,0,Running Reverse Layup Shot,LAYUPS,,2022
+Jose Alvarado,1630631,Step Back Jump Shot,2,5,2,Step Back Jump shot,JUMP_SHOTS,,2022
+Jose Alvarado,1630631,Turnaround Jump Shot,2,1,1,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,,2022
+Jose Alvarado,1630631,Turnaround Jump Shot,2,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,,2022
+Jose Alvarado,1630631,Turnaround Hook Shot,2,1,1,Turnaround Hook Shot,POST_MOVES,,2022
+Jose Alvarado,1630631,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2022
+Jose Alvarado,1630631,Standard Layup,2,8,7,Cutting Layup Shot,LAYUPS,,2023
+Jose Alvarado,1630631,Finger Roll,2,20,14,Driving Finger Roll Layup Shot,LAYUPS,,2023
+Jose Alvarado,1630631,Floating Jump Shot,2,10,6,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2023
+Jose Alvarado,1630631,Floating Jump Shot,2,68,24,Driving Floating Jump Shot,FLOATING_SHOTS,,2023
+Jose Alvarado,1630631,Driving Hook Shot,2,2,1,Driving Hook Shot,POST_MOVES,,2023
+Jose Alvarado,1630631,Driving Layup,2,71,34,Driving Layup Shot,LAYUPS,,2023
+Jose Alvarado,1630631,Driving Layup,2,8,5,Driving Reverse Layup Shot,LAYUPS,,2023
+Jose Alvarado,1630631,Floating Jump Shot,2,11,7,Floating Jump shot,FLOATING_SHOTS,,2023
+Jose Alvarado,1630631,Jump Shot,2,204,63,Jump Shot,JUMP_SHOTS,,2023
+Jose Alvarado,1630631,Standard Layup,2,10,5,Layup Shot,LAYUPS,,2023
+Jose Alvarado,1630631,Pullup Jump Shot,2,19,7,Pullup Jump shot,JUMP_SHOTS,,2023
+Jose Alvarado,1630631,Putback Layup,2,1,1,Putback Layup Shot,LAYUPS,,2023
+Jose Alvarado,1630631,Reverse Layup,2,1,1,Reverse Layup Shot,LAYUPS,,2023
+Jose Alvarado,1630631,Finger Roll,2,8,6,Running Finger Roll Layup Shot,LAYUPS,,2023
+Jose Alvarado,1630631,Running Jump Shot,2,22,11,Running Jump Shot,JUMP_SHOTS,,2023
+Jose Alvarado,1630631,Standard Layup,2,11,6,Running Layup Shot,LAYUPS,,2023
+Jose Alvarado,1630631,Running Jump Shot,2,4,2,Running Pull-Up Jump Shot,JUMP_SHOTS,,2023
+Jose Alvarado,1630631,Step Back Jump Shot,2,8,1,Step Back Jump shot,JUMP_SHOTS,,2023
+Jose Alvarado,1630631,Putback Layup,2,1,0,Tip Layup Shot,LAYUPS,,2023
+Jose Alvarado,1630631,Turnaround Hook Shot,2,1,0,Turnaround Hook Shot,POST_MOVES,,2023
+Jose Alvarado,1630631,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2023
+Jose Alvarado,1630631,Standard Layup,2,8,6,Cutting Layup Shot,LAYUPS,,2024
+Jose Alvarado,1630631,Finger Roll,2,4,3,Driving Finger Roll Layup Shot,LAYUPS,,2024
+Jose Alvarado,1630631,Floating Jump Shot,2,7,3,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2024
+Jose Alvarado,1630631,Floating Jump Shot,2,38,17,Driving Floating Jump Shot,FLOATING_SHOTS,,2024
+Jose Alvarado,1630631,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2024
+Jose Alvarado,1630631,Driving Layup,2,25,7,Driving Layup Shot,LAYUPS,,2024
+Jose Alvarado,1630631,Driving Layup,2,5,2,Driving Reverse Layup Shot,LAYUPS,,2024
+Jose Alvarado,1630631,Finger Roll,2,1,1,Finger Roll Layup Shot,LAYUPS,,2024
+Jose Alvarado,1630631,Floating Jump Shot,2,10,6,Floating Jump shot,FLOATING_SHOTS,,2024
+Jose Alvarado,1630631,Hook Shot,2,1,0,Hook Bank Shot,POST_MOVES,,2024
+Jose Alvarado,1630631,Hook Shot,2,1,0,Hook Shot,POST_MOVES,,2024
+Jose Alvarado,1630631,Jump Shot,3,157,61,Jump Shot,JUMP_SHOTS,,2024
+Jose Alvarado,1630631,Standard Layup,2,5,2,Layup Shot,LAYUPS,,2024
+Jose Alvarado,1630631,Pullup Jump Shot,2,8,2,Pullup Jump shot,JUMP_SHOTS,,2024
+Jose Alvarado,1630631,Pullup Jump Shot,3,19,7,Pullup Jump shot,JUMP_SHOTS,,2024
+Jose Alvarado,1630631,Putback Layup,2,5,4,Putback Layup Shot,LAYUPS,,2024
+Jose Alvarado,1630631,Finger Roll,2,3,3,Running Finger Roll Layup Shot,LAYUPS,,2024
+Jose Alvarado,1630631,Running Jump Shot,3,20,4,Running Jump Shot,JUMP_SHOTS,,2024
+Jose Alvarado,1630631,Standard Layup,2,13,7,Running Layup Shot,LAYUPS,,2024
+Jose Alvarado,1630631,Running Jump Shot,2,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Jose Alvarado,1630631,Running Jump Shot,3,6,4,Running Pull-Up Jump Shot,JUMP_SHOTS,,2024
+Jose Alvarado,1630631,Reverse Layup,2,1,1,Running Reverse Layup Shot,LAYUPS,,2024
+Jose Alvarado,1630631,Step Back Jump Shot,3,5,2,Step Back Jump shot,JUMP_SHOTS,,2024
+Jose Alvarado,1630631,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2024
+Jose Alvarado,1630631,Standard Layup,2,1,1,Cutting Layup Shot,LAYUPS,,2025
+Jose Alvarado,1630631,Finger Roll,2,3,1,Driving Finger Roll Layup Shot,LAYUPS,,2025
+Jose Alvarado,1630631,Floating Jump Shot,2,5,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,,2025
+Jose Alvarado,1630631,Floating Jump Shot,2,17,7,Driving Floating Jump Shot,FLOATING_SHOTS,,2025
+Jose Alvarado,1630631,Driving Hook Shot,2,1,0,Driving Hook Shot,POST_MOVES,,2025
+Jose Alvarado,1630631,Driving Layup,2,12,5,Driving Layup Shot,LAYUPS,,2025
+Jose Alvarado,1630631,Fadeaway Jump Shot,2,2,1,Fadeaway Jump Shot,JUMP_SHOTS,,2025
+Jose Alvarado,1630631,Floating Jump Shot,2,4,1,Floating Jump shot,FLOATING_SHOTS,,2025
+Jose Alvarado,1630631,Jump Shot,3,60,22,Jump Shot,JUMP_SHOTS,,2025
+Jose Alvarado,1630631,Pullup Jump Shot,2,7,3,Pullup Jump shot,JUMP_SHOTS,,2025
+Jose Alvarado,1630631,Pullup Jump Shot,3,18,8,Pullup Jump shot,JUMP_SHOTS,,2025
+Jose Alvarado,1630631,Running Jump Shot,3,11,6,Running Jump Shot,JUMP_SHOTS,,2025
+Jose Alvarado,1630631,Standard Layup,2,4,2,Running Layup Shot,LAYUPS,,2025
+Jose Alvarado,1630631,Running Jump Shot,3,3,1,Running Pull-Up Jump Shot,JUMP_SHOTS,,2025
+Jose Alvarado,1630631,Step Back Jump Shot,3,6,2,Step Back Jump shot,JUMP_SHOTS,,2025
+Jose Alvarado,1630631,Turnaround Jump Shot,2,1,0,Turnaround Jump Shot,JUMP_SHOTS,,2025
+Jose Alvarado,1630631,Turnaround Jump Shot,3,1,1,Turnaround Jump Shot,JUMP_SHOTS,,2025
