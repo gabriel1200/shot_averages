@@ -1,10 +1,10 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Drew Peterson,1641809,Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2024
-Drew Peterson,1641809,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Drew Peterson,1641809,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2025
-Drew Peterson,1641809,Jump Shot,3PT Field Goal,11,4,JUMP_SHOTS,0.5454545454545454,2025
-Drew Peterson,1641809,Running Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,2025
-Drew Peterson,1641809,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2025
-Drew Peterson,1641809,Running Jump Shot,3PT Field Goal,2,2,JUMP_SHOTS,1.5,2025
-Drew Peterson,1641809,Step Back Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2025
-Drew Peterson,1641809,Step Back Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Drew Peterson,1641809,Jump Shot,3PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.5,2024
+Drew Peterson,1641809,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2025
+Drew Peterson,1641809,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2025
+Drew Peterson,1641809,Jump Shot,3PT Field Goal,11,4,Jump Shot,JUMP_SHOTS,0.5454545454545454,2025
+Drew Peterson,1641809,Running Jump Shot,3PT Field Goal,2,0,Running Jump Shot,JUMP_SHOTS,0.0,2025
+Drew Peterson,1641809,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2025
+Drew Peterson,1641809,Running Jump Shot,3PT Field Goal,2,2,Running Pull-Up Jump Shot,JUMP_SHOTS,1.5,2025
+Drew Peterson,1641809,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.0,2025
+Drew Peterson,1641809,Step Back Jump Shot,3PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2025

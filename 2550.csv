@@ -1,14 +1,14 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Kirk Hinrich,2550,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2004
-Kirk Hinrich,2550,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2005
-Kirk Hinrich,2550,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,2005
-Kirk Hinrich,2550,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2005
-Kirk Hinrich,2550,Driving Layup,2PT Field Goal,1,0,LAYUPS,0.0,2006
-Kirk Hinrich,2550,Jump Shot,2PT Field Goal,16,5,JUMP_SHOTS,0.3125,2006
-Kirk Hinrich,2550,Jump Shot,3PT Field Goal,9,3,JUMP_SHOTS,0.5,2006
-Kirk Hinrich,2550,Standard Layup,2PT Field Goal,2,0,LAYUPS,0.0,2006
-Kirk Hinrich,2550,Reverse Layup,2PT Field Goal,1,0,LAYUPS,0.0,2006
-Kirk Hinrich,2550,Running Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,2006
-Kirk Hinrich,2550,Jump Shot,3PT Field Goal,4,1,JUMP_SHOTS,0.375,2007
-Kirk Hinrich,2550,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2008
-Kirk Hinrich,2550,Driving Layup,2PT Field Goal,1,0,LAYUPS,0.0,2012
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Kirk Hinrich,2550,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2004
+Kirk Hinrich,2550,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2005
+Kirk Hinrich,2550,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2005
+Kirk Hinrich,2550,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2005
+Kirk Hinrich,2550,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2006
+Kirk Hinrich,2550,Jump Shot,2PT Field Goal,16,5,Jump Shot,JUMP_SHOTS,0.3125,2006
+Kirk Hinrich,2550,Jump Shot,3PT Field Goal,9,3,Jump Shot,JUMP_SHOTS,0.5,2006
+Kirk Hinrich,2550,Standard Layup,2PT Field Goal,2,0,Layup Shot,LAYUPS,0.0,2006
+Kirk Hinrich,2550,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2006
+Kirk Hinrich,2550,Running Jump Shot,2PT Field Goal,2,2,Running Jump Shot,JUMP_SHOTS,1.0,2006
+Kirk Hinrich,2550,Jump Shot,3PT Field Goal,4,1,Jump Shot,JUMP_SHOTS,0.375,2007
+Kirk Hinrich,2550,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2008
+Kirk Hinrich,2550,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2012

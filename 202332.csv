@@ -1,18 +1,18 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Cole Aldrich,202332,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2013
-Cole Aldrich,202332,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2013
-Cole Aldrich,202332,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2013
-Cole Aldrich,202332,Hook Shot,2PT Field Goal,2,0,POST_MOVES,0.0,2014
-Cole Aldrich,202332,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2014
-Cole Aldrich,202332,Standard Layup,2PT Field Goal,2,2,LAYUPS,1.0,2014
-Cole Aldrich,202332,Running Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2014
-Cole Aldrich,202332,Standard Dunk,2PT Field Goal,2,2,DUNKS,1.0,2015
-Cole Aldrich,202332,Hook Shot,2PT Field Goal,7,4,POST_MOVES,0.5714285714285714,2015
-Cole Aldrich,202332,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2015
-Cole Aldrich,202332,Standard Layup,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2015
-Cole Aldrich,202332,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2016
-Cole Aldrich,202332,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2016
-Cole Aldrich,202332,Hook Shot,2PT Field Goal,4,3,POST_MOVES,0.75,2016
-Cole Aldrich,202332,Standard Layup,2PT Field Goal,2,1,LAYUPS,0.5,2016
-Cole Aldrich,202332,Putback Layup,2PT Field Goal,1,0,LAYUPS,0.0,2016
-Cole Aldrich,202332,Turnaround Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2016
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Cole Aldrich,202332,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2013
+Cole Aldrich,202332,Hook Shot,2PT Field Goal,1,0,Jump Hook Shot,POST_MOVES,0.0,2013
+Cole Aldrich,202332,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2013
+Cole Aldrich,202332,Hook Shot,2PT Field Goal,2,0,Hook Shot,POST_MOVES,0.0,2014
+Cole Aldrich,202332,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2014
+Cole Aldrich,202332,Standard Layup,2PT Field Goal,2,2,Layup Shot,LAYUPS,1.0,2014
+Cole Aldrich,202332,Running Hook Shot,2PT Field Goal,1,1,Running Hook Shot,POST_MOVES,1.0,2014
+Cole Aldrich,202332,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,2015
+Cole Aldrich,202332,Hook Shot,2PT Field Goal,7,4,Hook Shot,POST_MOVES,0.5714285714285714,2015
+Cole Aldrich,202332,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2015
+Cole Aldrich,202332,Standard Layup,2PT Field Goal,3,2,Layup Shot,LAYUPS,0.6666666666666666,2015
+Cole Aldrich,202332,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2016
+Cole Aldrich,202332,Hook Shot,2PT Field Goal,1,1,Hook Bank Shot,POST_MOVES,1.0,2016
+Cole Aldrich,202332,Hook Shot,2PT Field Goal,4,3,Hook Shot,POST_MOVES,0.75,2016
+Cole Aldrich,202332,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2016
+Cole Aldrich,202332,Putback Layup,2PT Field Goal,1,0,Putback Layup Shot,LAYUPS,0.0,2016
+Cole Aldrich,202332,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2016

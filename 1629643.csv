@@ -1,50 +1,50 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Chuma Okeke,1629643,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2021
-Chuma Okeke,1629643,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2021
-Chuma Okeke,1629643,Jump Shot,3PT Field Goal,9,4,JUMP_SHOTS,0.6666666666666666,2021
-Chuma Okeke,1629643,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2021
-Chuma Okeke,1629643,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2021
-Chuma Okeke,1629643,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2021
-Chuma Okeke,1629643,Standard Layup,2PT Field Goal,2,2,LAYUPS,1.0,2022
-Chuma Okeke,1629643,Driving Dunk,2PT Field Goal,1,1,DUNKS,1.0,2022
-Chuma Okeke,1629643,Finger Roll,2PT Field Goal,1,0,LAYUPS,0.0,2022
-Chuma Okeke,1629643,Floating Jump Shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2022
-Chuma Okeke,1629643,Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2022
-Chuma Okeke,1629643,Driving Layup,2PT Field Goal,6,1,LAYUPS,0.1666666666666666,2022
-Chuma Okeke,1629643,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2022
-Chuma Okeke,1629643,Fadeaway Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2022
-Chuma Okeke,1629643,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2022
-Chuma Okeke,1629643,Jump Shot,3PT Field Goal,31,9,JUMP_SHOTS,0.4354838709677419,2022
-Chuma Okeke,1629643,Standard Layup,2PT Field Goal,2,1,LAYUPS,0.5,2022
-Chuma Okeke,1629643,Pullup Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2022
-Chuma Okeke,1629643,Pullup Jump Shot,3PT Field Goal,6,1,JUMP_SHOTS,0.25,2022
-Chuma Okeke,1629643,Reverse Layup,2PT Field Goal,1,0,LAYUPS,0.0,2022
-Chuma Okeke,1629643,Step Back Jump Shot,3PT Field Goal,4,2,JUMP_SHOTS,0.75,2022
-Chuma Okeke,1629643,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2022
-Chuma Okeke,1629643,Turnaround Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2022
-Chuma Okeke,1629643,Turnaround Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,0.3333333333333333,2022
-Chuma Okeke,1629643,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2023
-Chuma Okeke,1629643,Jump Shot,3PT Field Goal,5,2,JUMP_SHOTS,0.6,2023
-Chuma Okeke,1629643,Pullup Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2023
-Chuma Okeke,1629643,Step Back Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2023
-Chuma Okeke,1629643,Specialty Dunk,2PT Field Goal,3,3,DUNKS,1.0,2024
-Chuma Okeke,1629643,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Chuma Okeke,1629643,Floating Jump Shot,2PT Field Goal,2,1,FLOATING_SHOTS,0.5,2024
-Chuma Okeke,1629643,Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2024
-Chuma Okeke,1629643,Driving Layup,2PT Field Goal,8,4,LAYUPS,0.5,2024
-Chuma Okeke,1629643,Floating Jump Shot,3PT Field Goal,1,0,FLOATING_SHOTS,0.0,2024
-Chuma Okeke,1629643,Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2024
-Chuma Okeke,1629643,Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2024
-Chuma Okeke,1629643,Jump Shot,3PT Field Goal,55,15,JUMP_SHOTS,0.4090909090909091,2024
-Chuma Okeke,1629643,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Chuma Okeke,1629643,Pullup Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Chuma Okeke,1629643,Pullup Jump Shot,3PT Field Goal,3,1,JUMP_SHOTS,0.5,2024
-Chuma Okeke,1629643,Putback Layup,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Chuma Okeke,1629643,Reverse Dunk,2PT Field Goal,1,0,DUNKS,0.0,2024
-Chuma Okeke,1629643,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2024
-Chuma Okeke,1629643,Running Jump Shot,3PT Field Goal,4,2,JUMP_SHOTS,0.75,2024
-Chuma Okeke,1629643,Running Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2024
-Chuma Okeke,1629643,Step Back Jump Shot,3PT Field Goal,6,1,JUMP_SHOTS,0.25,2024
-Chuma Okeke,1629643,Putback Layup,2PT Field Goal,2,1,LAYUPS,0.5,2024
-Chuma Okeke,1629643,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Chuma Okeke,1629643,Turnaround Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Chuma Okeke,1629643,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2021
+Chuma Okeke,1629643,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2021
+Chuma Okeke,1629643,Jump Shot,3PT Field Goal,9,4,Jump Shot,JUMP_SHOTS,0.6666666666666666,2021
+Chuma Okeke,1629643,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2021
+Chuma Okeke,1629643,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2021
+Chuma Okeke,1629643,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2021
+Chuma Okeke,1629643,Standard Layup,2PT Field Goal,2,2,Cutting Layup Shot,LAYUPS,1.0,2022
+Chuma Okeke,1629643,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2022
+Chuma Okeke,1629643,Finger Roll,2PT Field Goal,1,0,Driving Finger Roll Layup Shot,LAYUPS,0.0,2022
+Chuma Okeke,1629643,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.0,2022
+Chuma Okeke,1629643,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Jump Shot,FLOATING_SHOTS,1.0,2022
+Chuma Okeke,1629643,Driving Layup,2PT Field Goal,6,1,Driving Layup Shot,LAYUPS,0.1666666666666666,2022
+Chuma Okeke,1629643,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2022
+Chuma Okeke,1629643,Fadeaway Jump Shot,2PT Field Goal,2,1,Fadeaway Jump Shot,JUMP_SHOTS,0.5,2022
+Chuma Okeke,1629643,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2022
+Chuma Okeke,1629643,Jump Shot,3PT Field Goal,31,9,Jump Shot,JUMP_SHOTS,0.4354838709677419,2022
+Chuma Okeke,1629643,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2022
+Chuma Okeke,1629643,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2022
+Chuma Okeke,1629643,Pullup Jump Shot,3PT Field Goal,6,1,Pullup Jump shot,JUMP_SHOTS,0.25,2022
+Chuma Okeke,1629643,Reverse Layup,2PT Field Goal,1,0,Running Reverse Layup Shot,LAYUPS,0.0,2022
+Chuma Okeke,1629643,Step Back Jump Shot,3PT Field Goal,4,2,Step Back Jump shot,JUMP_SHOTS,0.75,2022
+Chuma Okeke,1629643,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,1.0,2022
+Chuma Okeke,1629643,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2022
+Chuma Okeke,1629643,Turnaround Jump Shot,2PT Field Goal,3,1,Turnaround Jump Shot,JUMP_SHOTS,0.3333333333333333,2022
+Chuma Okeke,1629643,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2023
+Chuma Okeke,1629643,Jump Shot,3PT Field Goal,5,2,Jump Shot,JUMP_SHOTS,0.6,2023
+Chuma Okeke,1629643,Pullup Jump Shot,3PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.5,2023
+Chuma Okeke,1629643,Step Back Jump Shot,3PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2023
+Chuma Okeke,1629643,Specialty Dunk,2PT Field Goal,3,3,Cutting Dunk Shot,DUNKS,1.0,2024
+Chuma Okeke,1629643,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2024
+Chuma Okeke,1629643,Floating Jump Shot,2PT Field Goal,2,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.5,2024
+Chuma Okeke,1629643,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Jump Shot,FLOATING_SHOTS,1.0,2024
+Chuma Okeke,1629643,Driving Layup,2PT Field Goal,8,4,Driving Layup Shot,LAYUPS,0.5,2024
+Chuma Okeke,1629643,Floating Jump Shot,3PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2024
+Chuma Okeke,1629643,Jump Shot,3PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.5,2024
+Chuma Okeke,1629643,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2024
+Chuma Okeke,1629643,Jump Shot,3PT Field Goal,55,15,Jump Shot,JUMP_SHOTS,0.4090909090909091,2024
+Chuma Okeke,1629643,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2024
+Chuma Okeke,1629643,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2024
+Chuma Okeke,1629643,Pullup Jump Shot,3PT Field Goal,3,1,Pullup Jump shot,JUMP_SHOTS,0.5,2024
+Chuma Okeke,1629643,Putback Layup,2PT Field Goal,1,0,Putback Layup Shot,LAYUPS,0.0,2024
+Chuma Okeke,1629643,Reverse Dunk,2PT Field Goal,1,0,Reverse Dunk Shot,DUNKS,0.0,2024
+Chuma Okeke,1629643,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2024
+Chuma Okeke,1629643,Running Jump Shot,3PT Field Goal,4,2,Running Jump Shot,JUMP_SHOTS,0.75,2024
+Chuma Okeke,1629643,Running Jump Shot,3PT Field Goal,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,1.5,2024
+Chuma Okeke,1629643,Step Back Jump Shot,3PT Field Goal,6,1,Step Back Jump shot,JUMP_SHOTS,0.25,2024
+Chuma Okeke,1629643,Putback Layup,2PT Field Goal,2,1,Tip Layup Shot,LAYUPS,0.5,2024
+Chuma Okeke,1629643,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2024
+Chuma Okeke,1629643,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2024

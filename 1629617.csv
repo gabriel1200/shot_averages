@@ -1,18 +1,18 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Reggie Perry,1629617,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2021
-Reggie Perry,1629617,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2021
-Reggie Perry,1629617,Putback Layup,2PT Field Goal,1,0,LAYUPS,0.0,2021
-Reggie Perry,1629617,Alley Oop Layup,2PT Field Goal,2,1,LAYUPS,0.5,2022
-Reggie Perry,1629617,Specialty Dunk,2PT Field Goal,1,1,DUNKS,1.0,2022
-Reggie Perry,1629617,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2022
-Reggie Perry,1629617,Driving Hook Shot,2PT Field Goal,2,1,POST_MOVES,0.5,2022
-Reggie Perry,1629617,Floating Jump Shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2022
-Reggie Perry,1629617,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2022
-Reggie Perry,1629617,Jump Shot,3PT Field Goal,4,0,JUMP_SHOTS,0.0,2022
-Reggie Perry,1629617,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2022
-Reggie Perry,1629617,Putback Layup,2PT Field Goal,1,1,LAYUPS,1.0,2022
-Reggie Perry,1629617,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2022
-Reggie Perry,1629617,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2022
-Reggie Perry,1629617,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2022
-Reggie Perry,1629617,Specialty Dunk,2PT Field Goal,1,0,DUNKS,0.0,2022
-Reggie Perry,1629617,Turnaround Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2022
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Reggie Perry,1629617,Standard Layup,2PT Field Goal,1,0,Cutting Layup Shot,LAYUPS,0.0,2021
+Reggie Perry,1629617,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2021
+Reggie Perry,1629617,Putback Layup,2PT Field Goal,1,0,Putback Layup Shot,LAYUPS,0.0,2021
+Reggie Perry,1629617,Alley Oop Layup,2PT Field Goal,2,1,Alley Oop Layup shot,LAYUPS,0.5,2022
+Reggie Perry,1629617,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2022
+Reggie Perry,1629617,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2022
+Reggie Perry,1629617,Driving Hook Shot,2PT Field Goal,2,1,Driving Hook Shot,POST_MOVES,0.5,2022
+Reggie Perry,1629617,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2022
+Reggie Perry,1629617,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2022
+Reggie Perry,1629617,Jump Shot,3PT Field Goal,4,0,Jump Shot,JUMP_SHOTS,0.0,2022
+Reggie Perry,1629617,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2022
+Reggie Perry,1629617,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2022
+Reggie Perry,1629617,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2022
+Reggie Perry,1629617,Finger Roll,2PT Field Goal,1,1,Running Finger Roll Layup Shot,LAYUPS,1.0,2022
+Reggie Perry,1629617,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2022
+Reggie Perry,1629617,Specialty Dunk,2PT Field Goal,1,0,Tip Dunk Shot,DUNKS,0.0,2022
+Reggie Perry,1629617,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2022

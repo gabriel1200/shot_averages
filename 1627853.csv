@@ -1,37 +1,37 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Ryan Arcidiacono,1627853,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2019
-Ryan Arcidiacono,1627853,Finger Roll,2PT Field Goal,2,1,LAYUPS,0.5,2019
-Ryan Arcidiacono,1627853,Floating Jump Shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2019
-Ryan Arcidiacono,1627853,Driving Layup,2PT Field Goal,6,5,LAYUPS,0.8333333333333334,2019
-Ryan Arcidiacono,1627853,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2019
-Ryan Arcidiacono,1627853,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2019
-Ryan Arcidiacono,1627853,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2019
-Ryan Arcidiacono,1627853,Jump Shot,3PT Field Goal,16,7,JUMP_SHOTS,0.65625,2019
-Ryan Arcidiacono,1627853,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2019
-Ryan Arcidiacono,1627853,Pullup Jump Shot,2PT Field Goal,3,0,JUMP_SHOTS,0.0,2019
-Ryan Arcidiacono,1627853,Pullup Jump Shot,3PT Field Goal,2,2,JUMP_SHOTS,1.5,2019
-Ryan Arcidiacono,1627853,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2019
-Ryan Arcidiacono,1627853,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2020
-Ryan Arcidiacono,1627853,Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2020
-Ryan Arcidiacono,1627853,Driving Layup,2PT Field Goal,1,0,LAYUPS,0.0,2020
-Ryan Arcidiacono,1627853,Jump Shot,3PT Field Goal,9,4,JUMP_SHOTS,0.6666666666666666,2020
-Ryan Arcidiacono,1627853,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2020
-Ryan Arcidiacono,1627853,Pullup Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2020
-Ryan Arcidiacono,1627853,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2020
-Ryan Arcidiacono,1627853,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2020
-Ryan Arcidiacono,1627853,Floating Jump Shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2021
-Ryan Arcidiacono,1627853,Driving Layup,2PT Field Goal,1,0,LAYUPS,0.0,2021
-Ryan Arcidiacono,1627853,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,2021
-Ryan Arcidiacono,1627853,Pullup Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2021
-Ryan Arcidiacono,1627853,Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2022
-Ryan Arcidiacono,1627853,Jump Shot,3PT Field Goal,3,2,JUMP_SHOTS,1.0,2022
-Ryan Arcidiacono,1627853,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2023
-Ryan Arcidiacono,1627853,Driving Layup,2PT Field Goal,2,0,LAYUPS,0.0,2023
-Ryan Arcidiacono,1627853,Floating Jump Shot,2PT Field Goal,2,0,FLOATING_SHOTS,0.0,2023
-Ryan Arcidiacono,1627853,Jump Shot,3PT Field Goal,13,6,JUMP_SHOTS,0.6923076923076923,2023
-Ryan Arcidiacono,1627853,Pullup Jump Shot,2PT Field Goal,6,0,JUMP_SHOTS,0.0,2023
-Ryan Arcidiacono,1627853,Pullup Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2023
-Ryan Arcidiacono,1627853,Running Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2023
-Ryan Arcidiacono,1627853,Step Back Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2023
-Ryan Arcidiacono,1627853,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Ryan Arcidiacono,1627853,Running Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Ryan Arcidiacono,1627853,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2019
+Ryan Arcidiacono,1627853,Finger Roll,2PT Field Goal,2,1,Driving Finger Roll Layup Shot,LAYUPS,0.5,2019
+Ryan Arcidiacono,1627853,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2019
+Ryan Arcidiacono,1627853,Driving Layup,2PT Field Goal,6,5,Driving Layup Shot,LAYUPS,0.8333333333333334,2019
+Ryan Arcidiacono,1627853,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2019
+Ryan Arcidiacono,1627853,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2019
+Ryan Arcidiacono,1627853,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2019
+Ryan Arcidiacono,1627853,Jump Shot,3PT Field Goal,16,7,Jump Shot,JUMP_SHOTS,0.65625,2019
+Ryan Arcidiacono,1627853,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2019
+Ryan Arcidiacono,1627853,Pullup Jump Shot,2PT Field Goal,3,0,Pullup Jump shot,JUMP_SHOTS,0.0,2019
+Ryan Arcidiacono,1627853,Pullup Jump Shot,3PT Field Goal,2,2,Pullup Jump shot,JUMP_SHOTS,1.5,2019
+Ryan Arcidiacono,1627853,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2019
+Ryan Arcidiacono,1627853,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2020
+Ryan Arcidiacono,1627853,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Jump Shot,FLOATING_SHOTS,1.0,2020
+Ryan Arcidiacono,1627853,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2020
+Ryan Arcidiacono,1627853,Jump Shot,3PT Field Goal,9,4,Jump Shot,JUMP_SHOTS,0.6666666666666666,2020
+Ryan Arcidiacono,1627853,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2020
+Ryan Arcidiacono,1627853,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2020
+Ryan Arcidiacono,1627853,Finger Roll,2PT Field Goal,1,1,Running Finger Roll Layup Shot,LAYUPS,1.0,2020
+Ryan Arcidiacono,1627853,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2020
+Ryan Arcidiacono,1627853,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2021
+Ryan Arcidiacono,1627853,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2021
+Ryan Arcidiacono,1627853,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2021
+Ryan Arcidiacono,1627853,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2021
+Ryan Arcidiacono,1627853,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2022
+Ryan Arcidiacono,1627853,Jump Shot,3PT Field Goal,3,2,Jump Shot,JUMP_SHOTS,1.0,2022
+Ryan Arcidiacono,1627853,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2023
+Ryan Arcidiacono,1627853,Driving Layup,2PT Field Goal,2,0,Driving Layup Shot,LAYUPS,0.0,2023
+Ryan Arcidiacono,1627853,Floating Jump Shot,2PT Field Goal,2,0,Floating Jump shot,FLOATING_SHOTS,0.0,2023
+Ryan Arcidiacono,1627853,Jump Shot,3PT Field Goal,13,6,Jump Shot,JUMP_SHOTS,0.6923076923076923,2023
+Ryan Arcidiacono,1627853,Pullup Jump Shot,2PT Field Goal,6,0,Pullup Jump shot,JUMP_SHOTS,0.0,2023
+Ryan Arcidiacono,1627853,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2023
+Ryan Arcidiacono,1627853,Running Jump Shot,3PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2023
+Ryan Arcidiacono,1627853,Step Back Jump Shot,3PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2023
+Ryan Arcidiacono,1627853,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2024
+Ryan Arcidiacono,1627853,Running Jump Shot,3PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2024

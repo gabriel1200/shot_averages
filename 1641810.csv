@@ -1,20 +1,20 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Antonio Reeves,1641810,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2025
-Antonio Reeves,1641810,Finger Roll,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2025
-Antonio Reeves,1641810,Floating Jump Shot,2PT Field Goal,3,2,FLOATING_SHOTS,0.6666666666666666,2025
-Antonio Reeves,1641810,Floating Jump Shot,2PT Field Goal,5,2,FLOATING_SHOTS,0.4,2025
-Antonio Reeves,1641810,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2025
-Antonio Reeves,1641810,Driving Layup,2PT Field Goal,2,1,LAYUPS,0.5,2025
-Antonio Reeves,1641810,Jump Shot,3PT Field Goal,16,6,JUMP_SHOTS,0.5625,2025
-Antonio Reeves,1641810,Pullup Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2025
-Antonio Reeves,1641810,Pullup Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2025
-Antonio Reeves,1641810,Reverse Layup,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Antonio Reeves,1641810,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2025
-Antonio Reeves,1641810,Running Jump Shot,3PT Field Goal,3,1,JUMP_SHOTS,0.5,2025
-Antonio Reeves,1641810,Standard Layup,2PT Field Goal,4,3,LAYUPS,0.75,2025
-Antonio Reeves,1641810,Running Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2025
-Antonio Reeves,1641810,Reverse Layup,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Antonio Reeves,1641810,Step Back Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
-Antonio Reeves,1641810,Step Back Jump Shot,3PT Field Goal,5,1,JUMP_SHOTS,0.3,2025
-Antonio Reeves,1641810,Putback Layup,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Antonio Reeves,1641810,Turnaround Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Antonio Reeves,1641810,Standard Layup,2PT Field Goal,1,0,Cutting Layup Shot,LAYUPS,0.0,2025
+Antonio Reeves,1641810,Finger Roll,2PT Field Goal,3,2,Driving Finger Roll Layup Shot,LAYUPS,0.6666666666666666,2025
+Antonio Reeves,1641810,Floating Jump Shot,2PT Field Goal,3,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.6666666666666666,2025
+Antonio Reeves,1641810,Floating Jump Shot,2PT Field Goal,5,2,Driving Floating Jump Shot,FLOATING_SHOTS,0.4,2025
+Antonio Reeves,1641810,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2025
+Antonio Reeves,1641810,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2025
+Antonio Reeves,1641810,Jump Shot,3PT Field Goal,16,6,Jump Shot,JUMP_SHOTS,0.5625,2025
+Antonio Reeves,1641810,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2025
+Antonio Reeves,1641810,Pullup Jump Shot,3PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.5,2025
+Antonio Reeves,1641810,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2025
+Antonio Reeves,1641810,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2025
+Antonio Reeves,1641810,Running Jump Shot,3PT Field Goal,3,1,Running Jump Shot,JUMP_SHOTS,0.5,2025
+Antonio Reeves,1641810,Standard Layup,2PT Field Goal,4,3,Running Layup Shot,LAYUPS,0.75,2025
+Antonio Reeves,1641810,Running Jump Shot,3PT Field Goal,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,1.5,2025
+Antonio Reeves,1641810,Reverse Layup,2PT Field Goal,1,1,Running Reverse Layup Shot,LAYUPS,1.0,2025
+Antonio Reeves,1641810,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2025
+Antonio Reeves,1641810,Step Back Jump Shot,3PT Field Goal,5,1,Step Back Jump shot,JUMP_SHOTS,0.3,2025
+Antonio Reeves,1641810,Putback Layup,2PT Field Goal,1,1,Tip Layup Shot,LAYUPS,1.0,2025
+Antonio Reeves,1641810,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2025

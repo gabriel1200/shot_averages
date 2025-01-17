@@ -1,55 +1,55 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Walt Williams,1005,Driving Dunk,2PT Field Goal,1,1,DUNKS,1.0,1998
-Walt Williams,1005,Driving Layup,2PT Field Goal,9,6,LAYUPS,0.6666666666666666,1998
-Walt Williams,1005,Standard Dunk,2PT Field Goal,2,2,DUNKS,1.0,1998
-Walt Williams,1005,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,1998
-Walt Williams,1005,Jump Shot,2PT Field Goal,75,23,JUMP_SHOTS,0.3066666666666666,1998
-Walt Williams,1005,Jump Shot,3PT Field Goal,75,26,JUMP_SHOTS,0.52,1998
-Walt Williams,1005,Standard Layup,2PT Field Goal,19,9,LAYUPS,0.4736842105263157,1998
-Walt Williams,1005,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,1998
-Walt Williams,1005,Standard Dunk,2PT Field Goal,2,2,DUNKS,1.0,1998
-Walt Williams,1005,Tip Shot,2PT Field Goal,2,1,TIP_SHOTS,0.5,1998
-Walt Williams,1005,Driving Layup,2PT Field Goal,22,13,LAYUPS,0.5909090909090909,1999
-Walt Williams,1005,Standard Dunk,2PT Field Goal,4,3,DUNKS,0.75,1999
-Walt Williams,1005,Hook Shot,2PT Field Goal,2,0,POST_MOVES,0.0,1999
-Walt Williams,1005,Jump Shot,2PT Field Goal,119,45,JUMP_SHOTS,0.3781512605042016,1999
-Walt Williams,1005,Jump Shot,3PT Field Goal,124,58,JUMP_SHOTS,0.7016129032258065,1999
-Walt Williams,1005,Standard Layup,2PT Field Goal,22,10,LAYUPS,0.4545454545454545,1999
-Walt Williams,1005,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,1999
-Walt Williams,1005,Standard Dunk,2PT Field Goal,4,3,DUNKS,0.75,1999
-Walt Williams,1005,Tip Shot,2PT Field Goal,2,1,TIP_SHOTS,0.5,1999
-Walt Williams,1005,Driving Layup,2PT Field Goal,2,1,LAYUPS,0.5,2000
-Walt Williams,1005,Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,0.6666666666666666,2000
-Walt Williams,1005,Jump Shot,3PT Field Goal,10,4,JUMP_SHOTS,0.6,2000
-Walt Williams,1005,Standard Layup,2PT Field Goal,4,0,LAYUPS,0.0,2000
-Walt Williams,1005,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2000
-Walt Williams,1005,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2001
-Walt Williams,1005,Driving Layup,2PT Field Goal,1,0,LAYUPS,0.0,2001
-Walt Williams,1005,Jump Shot,2PT Field Goal,12,2,JUMP_SHOTS,0.1666666666666666,2001
-Walt Williams,1005,Jump Shot,3PT Field Goal,25,10,JUMP_SHOTS,0.6,2001
-Walt Williams,1005,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2001
-Walt Williams,1005,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2001
-Walt Williams,1005,Driving Dunk,2PT Field Goal,2,2,DUNKS,1.0,2002
-Walt Williams,1005,Driving Layup,2PT Field Goal,6,3,LAYUPS,0.5,2002
-Walt Williams,1005,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2002
-Walt Williams,1005,Finger Roll,2PT Field Goal,2,1,LAYUPS,0.5,2002
-Walt Williams,1005,Jump Shot,2PT Field Goal,9,3,JUMP_SHOTS,0.3333333333333333,2002
-Walt Williams,1005,Jump Shot,3PT Field Goal,35,17,JUMP_SHOTS,0.7285714285714285,2002
-Walt Williams,1005,Standard Layup,2PT Field Goal,8,3,LAYUPS,0.375,2002
-Walt Williams,1005,Running Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2002
-Walt Williams,1005,Tip Shot,2PT Field Goal,1,1,TIP_SHOTS,1.0,2002
-Walt Williams,1005,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2002
-Walt Williams,1005,Driving Dunk,2PT Field Goal,2,2,DUNKS,1.0,2003
-Walt Williams,1005,Driving Layup,2PT Field Goal,12,6,LAYUPS,0.5,2003
-Walt Williams,1005,Standard Dunk,2PT Field Goal,3,2,DUNKS,0.6666666666666666,2003
-Walt Williams,1005,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2003
-Walt Williams,1005,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2003
-Walt Williams,1005,Specialty Dunk,2PT Field Goal,1,1,DUNKS,1.0,2003
-Walt Williams,1005,Hook Shot,2PT Field Goal,2,0,POST_MOVES,0.0,2003
-Walt Williams,1005,Jump Shot,2PT Field Goal,59,21,JUMP_SHOTS,0.3559322033898305,2003
-Walt Williams,1005,Jump Shot,3PT Field Goal,112,44,JUMP_SHOTS,0.5892857142857143,2003
-Walt Williams,1005,Standard Layup,2PT Field Goal,31,12,LAYUPS,0.3870967741935484,2003
-Walt Williams,1005,Reverse Layup,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2003
-Walt Williams,1005,Running Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,0.3333333333333333,2003
-Walt Williams,1005,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2003
-Walt Williams,1005,Tip Shot,2PT Field Goal,3,2,TIP_SHOTS,0.6666666666666666,2003
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Walt Williams,1005,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,1998
+Walt Williams,1005,Driving Layup,2PT Field Goal,9,6,Driving Layup Shot,LAYUPS,0.6666666666666666,1998
+Walt Williams,1005,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,1998
+Walt Williams,1005,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,1998
+Walt Williams,1005,Jump Shot,2PT Field Goal,75,23,Jump Shot,JUMP_SHOTS,0.3066666666666666,1998
+Walt Williams,1005,Jump Shot,3PT Field Goal,75,26,Jump Shot,JUMP_SHOTS,0.52,1998
+Walt Williams,1005,Standard Layup,2PT Field Goal,19,9,Layup Shot,LAYUPS,0.4736842105263157,1998
+Walt Williams,1005,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,1998
+Walt Williams,1005,Standard Dunk,2PT Field Goal,2,2,Slam Dunk Shot,DUNKS,1.0,1998
+Walt Williams,1005,Tip Shot,2PT Field Goal,2,1,Tip Shot,TIP_SHOTS,0.5,1998
+Walt Williams,1005,Driving Layup,2PT Field Goal,22,13,Driving Layup Shot,LAYUPS,0.5909090909090909,1999
+Walt Williams,1005,Standard Dunk,2PT Field Goal,4,3,Dunk Shot,DUNKS,0.75,1999
+Walt Williams,1005,Hook Shot,2PT Field Goal,2,0,Hook Shot,POST_MOVES,0.0,1999
+Walt Williams,1005,Jump Shot,2PT Field Goal,119,45,Jump Shot,JUMP_SHOTS,0.3781512605042016,1999
+Walt Williams,1005,Jump Shot,3PT Field Goal,124,58,Jump Shot,JUMP_SHOTS,0.7016129032258065,1999
+Walt Williams,1005,Standard Layup,2PT Field Goal,22,10,Layup Shot,LAYUPS,0.4545454545454545,1999
+Walt Williams,1005,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,1999
+Walt Williams,1005,Standard Dunk,2PT Field Goal,4,3,Slam Dunk Shot,DUNKS,0.75,1999
+Walt Williams,1005,Tip Shot,2PT Field Goal,2,1,Tip Shot,TIP_SHOTS,0.5,1999
+Walt Williams,1005,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2000
+Walt Williams,1005,Jump Shot,2PT Field Goal,3,2,Jump Shot,JUMP_SHOTS,0.6666666666666666,2000
+Walt Williams,1005,Jump Shot,3PT Field Goal,10,4,Jump Shot,JUMP_SHOTS,0.6,2000
+Walt Williams,1005,Standard Layup,2PT Field Goal,4,0,Layup Shot,LAYUPS,0.0,2000
+Walt Williams,1005,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2000
+Walt Williams,1005,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Shot,LAYUPS,1.0,2001
+Walt Williams,1005,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2001
+Walt Williams,1005,Jump Shot,2PT Field Goal,12,2,Jump Shot,JUMP_SHOTS,0.1666666666666666,2001
+Walt Williams,1005,Jump Shot,3PT Field Goal,25,10,Jump Shot,JUMP_SHOTS,0.6,2001
+Walt Williams,1005,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2001
+Walt Williams,1005,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2001
+Walt Williams,1005,Driving Dunk,2PT Field Goal,2,2,Driving Dunk Shot,DUNKS,1.0,2002
+Walt Williams,1005,Driving Layup,2PT Field Goal,6,3,Driving Layup Shot,LAYUPS,0.5,2002
+Walt Williams,1005,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2002
+Walt Williams,1005,Finger Roll,2PT Field Goal,2,1,Finger Roll Shot,LAYUPS,0.5,2002
+Walt Williams,1005,Jump Shot,2PT Field Goal,9,3,Jump Shot,JUMP_SHOTS,0.3333333333333333,2002
+Walt Williams,1005,Jump Shot,3PT Field Goal,35,17,Jump Shot,JUMP_SHOTS,0.7285714285714285,2002
+Walt Williams,1005,Standard Layup,2PT Field Goal,8,3,Layup Shot,LAYUPS,0.375,2002
+Walt Williams,1005,Running Jump Shot,2PT Field Goal,2,0,Running Jump Shot,JUMP_SHOTS,0.0,2002
+Walt Williams,1005,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2002
+Walt Williams,1005,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2002
+Walt Williams,1005,Driving Dunk,2PT Field Goal,2,2,Driving Dunk Shot,DUNKS,1.0,2003
+Walt Williams,1005,Driving Layup,2PT Field Goal,12,6,Driving Layup Shot,LAYUPS,0.5,2003
+Walt Williams,1005,Standard Dunk,2PT Field Goal,3,2,Dunk Shot,DUNKS,0.6666666666666666,2003
+Walt Williams,1005,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2003
+Walt Williams,1005,Finger Roll,2PT Field Goal,1,1,Finger Roll Shot,LAYUPS,1.0,2003
+Walt Williams,1005,Specialty Dunk,2PT Field Goal,1,1,Follow Up Dunk Shot,DUNKS,1.0,2003
+Walt Williams,1005,Hook Shot,2PT Field Goal,2,0,Hook Shot,POST_MOVES,0.0,2003
+Walt Williams,1005,Jump Shot,2PT Field Goal,59,21,Jump Shot,JUMP_SHOTS,0.3559322033898305,2003
+Walt Williams,1005,Jump Shot,3PT Field Goal,112,44,Jump Shot,JUMP_SHOTS,0.5892857142857143,2003
+Walt Williams,1005,Standard Layup,2PT Field Goal,31,12,Layup Shot,LAYUPS,0.3870967741935484,2003
+Walt Williams,1005,Reverse Layup,2PT Field Goal,3,1,Reverse Layup Shot,LAYUPS,0.3333333333333333,2003
+Walt Williams,1005,Running Jump Shot,2PT Field Goal,3,1,Running Jump Shot,JUMP_SHOTS,0.3333333333333333,2003
+Walt Williams,1005,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2003
+Walt Williams,1005,Tip Shot,2PT Field Goal,3,2,Tip Shot,TIP_SHOTS,0.6666666666666666,2003

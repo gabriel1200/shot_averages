@@ -1,49 +1,49 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Ike Austin,1134,Driving Dunk,2PT Field Goal,1,1,DUNKS,1.0,1997
-Ike Austin,1134,Driving Layup,2PT Field Goal,2,2,LAYUPS,1.0,1997
-Ike Austin,1134,Standard Dunk,2PT Field Goal,24,21,DUNKS,0.875,1997
-Ike Austin,1134,Hook Shot,2PT Field Goal,5,4,POST_MOVES,0.8,1997
-Ike Austin,1134,Jump Shot,2PT Field Goal,114,41,JUMP_SHOTS,0.3596491228070175,1997
-Ike Austin,1134,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,1997
-Ike Austin,1134,Standard Layup,2PT Field Goal,58,32,LAYUPS,0.5517241379310345,1997
-Ike Austin,1134,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,1997
-Ike Austin,1134,Standard Dunk,2PT Field Goal,7,7,DUNKS,1.0,1997
-Ike Austin,1134,Tip Shot,2PT Field Goal,3,1,TIP_SHOTS,0.3333333333333333,1997
-Ike Austin,1134,Driving Dunk,2PT Field Goal,3,3,DUNKS,1.0,1998
-Ike Austin,1134,Driving Layup,2PT Field Goal,13,8,LAYUPS,0.6153846153846154,1998
-Ike Austin,1134,Standard Dunk,2PT Field Goal,21,19,DUNKS,0.9047619047619048,1998
-Ike Austin,1134,Hook Shot,2PT Field Goal,13,3,POST_MOVES,0.2307692307692307,1998
-Ike Austin,1134,Jump Shot,2PT Field Goal,140,48,JUMP_SHOTS,0.3428571428571428,1998
-Ike Austin,1134,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,1998
-Ike Austin,1134,Standard Layup,2PT Field Goal,62,31,LAYUPS,0.5,1998
-Ike Austin,1134,Running Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,1998
-Ike Austin,1134,Standard Dunk,2PT Field Goal,10,10,DUNKS,1.0,1998
-Ike Austin,1134,Tip Shot,2PT Field Goal,8,4,TIP_SHOTS,0.5,1998
-Ike Austin,1134,Driving Dunk,2PT Field Goal,2,2,DUNKS,1.0,1999
-Ike Austin,1134,Driving Layup,2PT Field Goal,13,8,LAYUPS,0.6153846153846154,1999
-Ike Austin,1134,Standard Dunk,2PT Field Goal,23,20,DUNKS,0.8695652173913043,1999
-Ike Austin,1134,Hook Shot,2PT Field Goal,14,6,POST_MOVES,0.4285714285714285,1999
-Ike Austin,1134,Jump Shot,2PT Field Goal,209,71,JUMP_SHOTS,0.3397129186602871,1999
-Ike Austin,1134,Jump Shot,3PT Field Goal,5,2,JUMP_SHOTS,0.6,1999
-Ike Austin,1134,Standard Layup,2PT Field Goal,62,26,LAYUPS,0.4193548387096774,1999
-Ike Austin,1134,Running Jump Shot,2PT Field Goal,7,3,JUMP_SHOTS,0.4285714285714285,1999
-Ike Austin,1134,Standard Dunk,2PT Field Goal,2,2,DUNKS,1.0,1999
-Ike Austin,1134,Tip Shot,2PT Field Goal,6,3,TIP_SHOTS,0.5,1999
-Ike Austin,1134,Driving Dunk,2PT Field Goal,2,2,DUNKS,1.0,2000
-Ike Austin,1134,Driving Layup,2PT Field Goal,5,4,LAYUPS,0.8,2000
-Ike Austin,1134,Standard Dunk,2PT Field Goal,5,4,DUNKS,0.8,2000
-Ike Austin,1134,Hook Shot,2PT Field Goal,7,3,POST_MOVES,0.4285714285714285,2000
-Ike Austin,1134,Jump Shot,2PT Field Goal,106,39,JUMP_SHOTS,0.3679245283018867,2000
-Ike Austin,1134,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2000
-Ike Austin,1134,Standard Layup,2PT Field Goal,21,9,LAYUPS,0.4285714285714285,2000
-Ike Austin,1134,Standard Dunk,2PT Field Goal,4,4,DUNKS,1.0,2000
-Ike Austin,1134,Driving Layup,2PT Field Goal,2,2,LAYUPS,1.0,2001
-Ike Austin,1134,Standard Dunk,2PT Field Goal,3,3,DUNKS,1.0,2001
-Ike Austin,1134,Jump Shot,2PT Field Goal,67,22,JUMP_SHOTS,0.3283582089552239,2001
-Ike Austin,1134,Jump Shot,3PT Field Goal,5,0,JUMP_SHOTS,0.0,2001
-Ike Austin,1134,Standard Layup,2PT Field Goal,8,5,LAYUPS,0.625,2001
-Ike Austin,1134,Tip Shot,2PT Field Goal,1,1,TIP_SHOTS,1.0,2001
-Ike Austin,1134,Driving Layup,2PT Field Goal,2,1,LAYUPS,0.5,2002
-Ike Austin,1134,Jump Shot,2PT Field Goal,36,19,JUMP_SHOTS,0.5277777777777778,2002
-Ike Austin,1134,Jump Shot,3PT Field Goal,3,0,JUMP_SHOTS,0.0,2002
-Ike Austin,1134,Standard Layup,2PT Field Goal,3,0,LAYUPS,0.0,2002
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Ike Austin,1134,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,1997
+Ike Austin,1134,Driving Layup,2PT Field Goal,2,2,Driving Layup Shot,LAYUPS,1.0,1997
+Ike Austin,1134,Standard Dunk,2PT Field Goal,24,21,Dunk Shot,DUNKS,0.875,1997
+Ike Austin,1134,Hook Shot,2PT Field Goal,5,4,Hook Shot,POST_MOVES,0.8,1997
+Ike Austin,1134,Jump Shot,2PT Field Goal,114,41,Jump Shot,JUMP_SHOTS,0.3596491228070175,1997
+Ike Austin,1134,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1997
+Ike Austin,1134,Standard Layup,2PT Field Goal,58,32,Layup Shot,LAYUPS,0.5517241379310345,1997
+Ike Austin,1134,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,1997
+Ike Austin,1134,Standard Dunk,2PT Field Goal,7,7,Slam Dunk Shot,DUNKS,1.0,1997
+Ike Austin,1134,Tip Shot,2PT Field Goal,3,1,Tip Shot,TIP_SHOTS,0.3333333333333333,1997
+Ike Austin,1134,Driving Dunk,2PT Field Goal,3,3,Driving Dunk Shot,DUNKS,1.0,1998
+Ike Austin,1134,Driving Layup,2PT Field Goal,13,8,Driving Layup Shot,LAYUPS,0.6153846153846154,1998
+Ike Austin,1134,Standard Dunk,2PT Field Goal,21,19,Dunk Shot,DUNKS,0.9047619047619048,1998
+Ike Austin,1134,Hook Shot,2PT Field Goal,13,3,Hook Shot,POST_MOVES,0.2307692307692307,1998
+Ike Austin,1134,Jump Shot,2PT Field Goal,140,48,Jump Shot,JUMP_SHOTS,0.3428571428571428,1998
+Ike Austin,1134,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,1998
+Ike Austin,1134,Standard Layup,2PT Field Goal,62,31,Layup Shot,LAYUPS,0.5,1998
+Ike Austin,1134,Running Jump Shot,2PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.5,1998
+Ike Austin,1134,Standard Dunk,2PT Field Goal,10,10,Slam Dunk Shot,DUNKS,1.0,1998
+Ike Austin,1134,Tip Shot,2PT Field Goal,8,4,Tip Shot,TIP_SHOTS,0.5,1998
+Ike Austin,1134,Driving Dunk,2PT Field Goal,2,2,Driving Dunk Shot,DUNKS,1.0,1999
+Ike Austin,1134,Driving Layup,2PT Field Goal,13,8,Driving Layup Shot,LAYUPS,0.6153846153846154,1999
+Ike Austin,1134,Standard Dunk,2PT Field Goal,23,20,Dunk Shot,DUNKS,0.8695652173913043,1999
+Ike Austin,1134,Hook Shot,2PT Field Goal,14,6,Hook Shot,POST_MOVES,0.4285714285714285,1999
+Ike Austin,1134,Jump Shot,2PT Field Goal,209,71,Jump Shot,JUMP_SHOTS,0.3397129186602871,1999
+Ike Austin,1134,Jump Shot,3PT Field Goal,5,2,Jump Shot,JUMP_SHOTS,0.6,1999
+Ike Austin,1134,Standard Layup,2PT Field Goal,62,26,Layup Shot,LAYUPS,0.4193548387096774,1999
+Ike Austin,1134,Running Jump Shot,2PT Field Goal,7,3,Running Jump Shot,JUMP_SHOTS,0.4285714285714285,1999
+Ike Austin,1134,Standard Dunk,2PT Field Goal,2,2,Slam Dunk Shot,DUNKS,1.0,1999
+Ike Austin,1134,Tip Shot,2PT Field Goal,6,3,Tip Shot,TIP_SHOTS,0.5,1999
+Ike Austin,1134,Driving Dunk,2PT Field Goal,2,2,Driving Dunk Shot,DUNKS,1.0,2000
+Ike Austin,1134,Driving Layup,2PT Field Goal,5,4,Driving Layup Shot,LAYUPS,0.8,2000
+Ike Austin,1134,Standard Dunk,2PT Field Goal,5,4,Dunk Shot,DUNKS,0.8,2000
+Ike Austin,1134,Hook Shot,2PT Field Goal,7,3,Hook Shot,POST_MOVES,0.4285714285714285,2000
+Ike Austin,1134,Jump Shot,2PT Field Goal,106,39,Jump Shot,JUMP_SHOTS,0.3679245283018867,2000
+Ike Austin,1134,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2000
+Ike Austin,1134,Standard Layup,2PT Field Goal,21,9,Layup Shot,LAYUPS,0.4285714285714285,2000
+Ike Austin,1134,Standard Dunk,2PT Field Goal,4,4,Slam Dunk Shot,DUNKS,1.0,2000
+Ike Austin,1134,Driving Layup,2PT Field Goal,2,2,Driving Layup Shot,LAYUPS,1.0,2001
+Ike Austin,1134,Standard Dunk,2PT Field Goal,3,3,Dunk Shot,DUNKS,1.0,2001
+Ike Austin,1134,Jump Shot,2PT Field Goal,67,22,Jump Shot,JUMP_SHOTS,0.3283582089552239,2001
+Ike Austin,1134,Jump Shot,3PT Field Goal,5,0,Jump Shot,JUMP_SHOTS,0.0,2001
+Ike Austin,1134,Standard Layup,2PT Field Goal,8,5,Layup Shot,LAYUPS,0.625,2001
+Ike Austin,1134,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2001
+Ike Austin,1134,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2002
+Ike Austin,1134,Jump Shot,2PT Field Goal,36,19,Jump Shot,JUMP_SHOTS,0.5277777777777778,2002
+Ike Austin,1134,Jump Shot,3PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,2002
+Ike Austin,1134,Standard Layup,2PT Field Goal,3,0,Layup Shot,LAYUPS,0.0,2002

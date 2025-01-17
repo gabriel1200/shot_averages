@@ -1,49 +1,49 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Zeke Nnaji,1630192,Standard Layup,2PT Field Goal,4,1,LAYUPS,0.25,2022
-Zeke Nnaji,1630192,Driving Dunk,2PT Field Goal,1,1,DUNKS,1.0,2022
-Zeke Nnaji,1630192,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2022
-Zeke Nnaji,1630192,Standard Dunk,2PT Field Goal,1,0,DUNKS,0.0,2022
-Zeke Nnaji,1630192,Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2022
-Zeke Nnaji,1630192,Jump Shot,3PT Field Goal,9,6,JUMP_SHOTS,1.0,2022
-Zeke Nnaji,1630192,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2022
-Zeke Nnaji,1630192,Putback Dunk,2PT Field Goal,1,1,DUNKS,1.0,2022
-Zeke Nnaji,1630192,Putback Layup,2PT Field Goal,1,0,LAYUPS,0.0,2022
-Zeke Nnaji,1630192,Standard Dunk,2PT Field Goal,2,2,DUNKS,1.0,2022
-Zeke Nnaji,1630192,Putback Layup,2PT Field Goal,2,2,LAYUPS,1.0,2022
-Zeke Nnaji,1630192,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2023
-Zeke Nnaji,1630192,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2023
-Zeke Nnaji,1630192,Reverse Layup,2PT Field Goal,1,1,LAYUPS,1.0,2023
-Zeke Nnaji,1630192,Alley Oop Layup,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Zeke Nnaji,1630192,Specialty Dunk,2PT Field Goal,3,2,DUNKS,0.6666666666666666,2024
-Zeke Nnaji,1630192,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Zeke Nnaji,1630192,Standard Layup,2PT Field Goal,14,10,LAYUPS,0.7142857142857143,2024
-Zeke Nnaji,1630192,Driving Dunk,2PT Field Goal,1,1,DUNKS,1.0,2024
-Zeke Nnaji,1630192,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Zeke Nnaji,1630192,Driving Layup,2PT Field Goal,8,1,LAYUPS,0.125,2024
-Zeke Nnaji,1630192,Driving Layup,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Zeke Nnaji,1630192,Standard Dunk,2PT Field Goal,4,4,DUNKS,1.0,2024
-Zeke Nnaji,1630192,Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2024
-Zeke Nnaji,1630192,Jump Shot,3PT Field Goal,17,5,JUMP_SHOTS,0.4411764705882353,2024
-Zeke Nnaji,1630192,Standard Layup,2PT Field Goal,14,8,LAYUPS,0.5714285714285714,2024
-Zeke Nnaji,1630192,Putback Dunk,2PT Field Goal,2,2,DUNKS,1.0,2024
-Zeke Nnaji,1630192,Putback Layup,2PT Field Goal,8,5,LAYUPS,0.625,2024
-Zeke Nnaji,1630192,Reverse Layup,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Zeke Nnaji,1630192,Standard Dunk,2PT Field Goal,3,3,DUNKS,1.0,2024
-Zeke Nnaji,1630192,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Zeke Nnaji,1630192,Step Back Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Zeke Nnaji,1630192,Specialty Dunk,2PT Field Goal,3,3,DUNKS,1.0,2024
-Zeke Nnaji,1630192,Putback Layup,2PT Field Goal,13,3,LAYUPS,0.2307692307692307,2024
-Zeke Nnaji,1630192,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Zeke Nnaji,1630192,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Zeke Nnaji,1630192,Specialty Dunk,2PT Field Goal,2,2,DUNKS,1.0,2025
-Zeke Nnaji,1630192,Standard Layup,2PT Field Goal,2,1,LAYUPS,0.5,2025
-Zeke Nnaji,1630192,Driving Dunk,2PT Field Goal,1,0,DUNKS,0.0,2025
-Zeke Nnaji,1630192,Driving Layup,2PT Field Goal,3,0,LAYUPS,0.0,2025
-Zeke Nnaji,1630192,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2025
-Zeke Nnaji,1630192,Jump Shot,3PT Field Goal,4,0,JUMP_SHOTS,0.0,2025
-Zeke Nnaji,1630192,Reverse Layup,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Zeke Nnaji,1630192,Alley Oop Dunk,2PT Field Goal,1,1,DUNKS,1.0,2025
-Zeke Nnaji,1630192,Standard Dunk,2PT Field Goal,2,1,DUNKS,0.5,2025
-Zeke Nnaji,1630192,Running Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
-Zeke Nnaji,1630192,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Zeke Nnaji,1630192,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Zeke Nnaji,1630192,Standard Layup,2PT Field Goal,4,1,Cutting Layup Shot,LAYUPS,0.25,2022
+Zeke Nnaji,1630192,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2022
+Zeke Nnaji,1630192,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2022
+Zeke Nnaji,1630192,Standard Dunk,2PT Field Goal,1,0,Dunk Shot,DUNKS,0.0,2022
+Zeke Nnaji,1630192,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2022
+Zeke Nnaji,1630192,Jump Shot,3PT Field Goal,9,6,Jump Shot,JUMP_SHOTS,1.0,2022
+Zeke Nnaji,1630192,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2022
+Zeke Nnaji,1630192,Putback Dunk,2PT Field Goal,1,1,Putback Dunk Shot,DUNKS,1.0,2022
+Zeke Nnaji,1630192,Putback Layup,2PT Field Goal,1,0,Putback Layup Shot,LAYUPS,0.0,2022
+Zeke Nnaji,1630192,Standard Dunk,2PT Field Goal,2,2,Running Dunk Shot,DUNKS,1.0,2022
+Zeke Nnaji,1630192,Putback Layup,2PT Field Goal,2,2,Tip Layup Shot,LAYUPS,1.0,2022
+Zeke Nnaji,1630192,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2023
+Zeke Nnaji,1630192,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2023
+Zeke Nnaji,1630192,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2023
+Zeke Nnaji,1630192,Alley Oop Layup,2PT Field Goal,1,0,Alley Oop Layup shot,LAYUPS,0.0,2024
+Zeke Nnaji,1630192,Specialty Dunk,2PT Field Goal,3,2,Cutting Dunk Shot,DUNKS,0.6666666666666666,2024
+Zeke Nnaji,1630192,Finger Roll,2PT Field Goal,1,1,Cutting Finger Roll Layup Shot,LAYUPS,1.0,2024
+Zeke Nnaji,1630192,Standard Layup,2PT Field Goal,14,10,Cutting Layup Shot,LAYUPS,0.7142857142857143,2024
+Zeke Nnaji,1630192,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2024
+Zeke Nnaji,1630192,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2024
+Zeke Nnaji,1630192,Driving Layup,2PT Field Goal,8,1,Driving Layup Shot,LAYUPS,0.125,2024
+Zeke Nnaji,1630192,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2024
+Zeke Nnaji,1630192,Standard Dunk,2PT Field Goal,4,4,Dunk Shot,DUNKS,1.0,2024
+Zeke Nnaji,1630192,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2024
+Zeke Nnaji,1630192,Jump Shot,3PT Field Goal,17,5,Jump Shot,JUMP_SHOTS,0.4411764705882353,2024
+Zeke Nnaji,1630192,Standard Layup,2PT Field Goal,14,8,Layup Shot,LAYUPS,0.5714285714285714,2024
+Zeke Nnaji,1630192,Putback Dunk,2PT Field Goal,2,2,Putback Dunk Shot,DUNKS,1.0,2024
+Zeke Nnaji,1630192,Putback Layup,2PT Field Goal,8,5,Putback Layup Shot,LAYUPS,0.625,2024
+Zeke Nnaji,1630192,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2024
+Zeke Nnaji,1630192,Standard Dunk,2PT Field Goal,3,3,Running Dunk Shot,DUNKS,1.0,2024
+Zeke Nnaji,1630192,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2024
+Zeke Nnaji,1630192,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2024
+Zeke Nnaji,1630192,Specialty Dunk,2PT Field Goal,3,3,Tip Dunk Shot,DUNKS,1.0,2024
+Zeke Nnaji,1630192,Putback Layup,2PT Field Goal,13,3,Tip Layup Shot,LAYUPS,0.2307692307692307,2024
+Zeke Nnaji,1630192,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2024
+Zeke Nnaji,1630192,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2024
+Zeke Nnaji,1630192,Specialty Dunk,2PT Field Goal,2,2,Cutting Dunk Shot,DUNKS,1.0,2025
+Zeke Nnaji,1630192,Standard Layup,2PT Field Goal,2,1,Cutting Layup Shot,LAYUPS,0.5,2025
+Zeke Nnaji,1630192,Driving Dunk,2PT Field Goal,1,0,Driving Dunk Shot,DUNKS,0.0,2025
+Zeke Nnaji,1630192,Driving Layup,2PT Field Goal,3,0,Driving Layup Shot,LAYUPS,0.0,2025
+Zeke Nnaji,1630192,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2025
+Zeke Nnaji,1630192,Jump Shot,3PT Field Goal,4,0,Jump Shot,JUMP_SHOTS,0.0,2025
+Zeke Nnaji,1630192,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2025
+Zeke Nnaji,1630192,Alley Oop Dunk,2PT Field Goal,1,1,Running Alley Oop Dunk Shot,DUNKS,1.0,2025
+Zeke Nnaji,1630192,Standard Dunk,2PT Field Goal,2,1,Running Dunk Shot,DUNKS,0.5,2025
+Zeke Nnaji,1630192,Running Jump Shot,3PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2025
+Zeke Nnaji,1630192,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2025
+Zeke Nnaji,1630192,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2025

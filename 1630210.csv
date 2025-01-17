@@ -1,5 +1,5 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Markus Howard,1630210,Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2021
-Markus Howard,1630210,Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2021
-Markus Howard,1630210,Pullup Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2021
-Markus Howard,1630210,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2021
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Markus Howard,1630210,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2021
+Markus Howard,1630210,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,2021
+Markus Howard,1630210,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2021
+Markus Howard,1630210,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2021

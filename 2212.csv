@@ -1,12 +1,12 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Steven Hunter,2212,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2003
-Steven Hunter,2212,Specialty Dunk,2PT Field Goal,1,1,DUNKS,1.0,2003
-Steven Hunter,2212,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2003
-Steven Hunter,2212,Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2003
-Steven Hunter,2212,Standard Layup,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2003
-Steven Hunter,2212,Reverse Layup,2PT Field Goal,1,1,LAYUPS,1.0,2003
-Steven Hunter,2212,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2003
-Steven Hunter,2212,Standard Layup,2PT Field Goal,2,1,LAYUPS,0.5,2004
-Steven Hunter,2212,Alley Oop Dunk,2PT Field Goal,1,1,DUNKS,1.0,2005
-Steven Hunter,2212,Standard Layup,2PT Field Goal,4,3,LAYUPS,0.75,2005
-Steven Hunter,2212,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2005
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Steven Hunter,2212,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2003
+Steven Hunter,2212,Specialty Dunk,2PT Field Goal,1,1,Follow Up Dunk Shot,DUNKS,1.0,2003
+Steven Hunter,2212,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2003
+Steven Hunter,2212,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2003
+Steven Hunter,2212,Standard Layup,2PT Field Goal,3,1,Layup Shot,LAYUPS,0.3333333333333333,2003
+Steven Hunter,2212,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2003
+Steven Hunter,2212,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2003
+Steven Hunter,2212,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2004
+Steven Hunter,2212,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2005
+Steven Hunter,2212,Standard Layup,2PT Field Goal,4,3,Layup Shot,LAYUPS,0.75,2005
+Steven Hunter,2212,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2005

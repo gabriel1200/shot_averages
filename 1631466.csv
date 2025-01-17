@@ -1,11 +1,11 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Nate Williams,1631466,Floating Jump Shot,2PT Field Goal,3,1,FLOATING_SHOTS,0.3333333333333333,2024
-Nate Williams,1631466,Driving Layup,2PT Field Goal,2,0,LAYUPS,0.0,2024
-Nate Williams,1631466,Driving Layup,2PT Field Goal,2,2,LAYUPS,1.0,2024
-Nate Williams,1631466,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Nate Williams,1631466,Jump Shot,3PT Field Goal,3,1,JUMP_SHOTS,0.5,2024
-Nate Williams,1631466,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Nate Williams,1631466,Putback Layup,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Nate Williams,1631466,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Nate Williams,1631466,Putback Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Nate Williams,1631466,Turnaround Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Nate Williams,1631466,Floating Jump Shot,2PT Field Goal,3,1,Driving Floating Jump Shot,FLOATING_SHOTS,0.3333333333333333,2024
+Nate Williams,1631466,Driving Layup,2PT Field Goal,2,0,Driving Layup Shot,LAYUPS,0.0,2024
+Nate Williams,1631466,Driving Layup,2PT Field Goal,2,2,Driving Reverse Layup Shot,LAYUPS,1.0,2024
+Nate Williams,1631466,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2024
+Nate Williams,1631466,Jump Shot,3PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.5,2024
+Nate Williams,1631466,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2024
+Nate Williams,1631466,Putback Layup,2PT Field Goal,1,0,Putback Layup Shot,LAYUPS,0.0,2024
+Nate Williams,1631466,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2024
+Nate Williams,1631466,Putback Layup,2PT Field Goal,1,1,Tip Layup Shot,LAYUPS,1.0,2024
+Nate Williams,1631466,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2024

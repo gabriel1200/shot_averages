@@ -1,12 +1,12 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Gerard King,1562,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2000
-Gerard King,1562,Hook Shot,2PT Field Goal,2,1,POST_MOVES,0.5,2000
-Gerard King,1562,Jump Shot,2PT Field Goal,58,25,JUMP_SHOTS,0.4310344827586206,2000
-Gerard King,1562,Standard Layup,2PT Field Goal,9,5,LAYUPS,0.5555555555555556,2000
-Gerard King,1562,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2001
-Gerard King,1562,Standard Dunk,2PT Field Goal,5,5,DUNKS,1.0,2001
-Gerard King,1562,Jump Shot,2PT Field Goal,57,25,JUMP_SHOTS,0.4385964912280701,2001
-Gerard King,1562,Standard Layup,2PT Field Goal,14,10,LAYUPS,0.7142857142857143,2001
-Gerard King,1562,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2001
-Gerard King,1562,Tip Shot,2PT Field Goal,1,1,TIP_SHOTS,1.0,2001
-Gerard King,1562,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2001
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Gerard King,1562,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2000
+Gerard King,1562,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,2000
+Gerard King,1562,Jump Shot,2PT Field Goal,58,25,Jump Shot,JUMP_SHOTS,0.4310344827586206,2000
+Gerard King,1562,Standard Layup,2PT Field Goal,9,5,Layup Shot,LAYUPS,0.5555555555555556,2000
+Gerard King,1562,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2001
+Gerard King,1562,Standard Dunk,2PT Field Goal,5,5,Dunk Shot,DUNKS,1.0,2001
+Gerard King,1562,Jump Shot,2PT Field Goal,57,25,Jump Shot,JUMP_SHOTS,0.4385964912280701,2001
+Gerard King,1562,Standard Layup,2PT Field Goal,14,10,Layup Shot,LAYUPS,0.7142857142857143,2001
+Gerard King,1562,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2001
+Gerard King,1562,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2001
+Gerard King,1562,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2001

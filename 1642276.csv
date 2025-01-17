@@ -1,19 +1,19 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Kel'el Ware,1642276,Alley Oop Dunk,2PT Field Goal,8,7,DUNKS,0.875,2025
-Kel'el Ware,1642276,Alley Oop Layup,2PT Field Goal,2,2,LAYUPS,1.0,2025
-Kel'el Ware,1642276,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2025
-Kel'el Ware,1642276,Floating Jump Shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2025
-Kel'el Ware,1642276,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2025
-Kel'el Ware,1642276,Jump Shot,3PT Field Goal,8,3,JUMP_SHOTS,0.5625,2025
-Kel'el Ware,1642276,Standard Layup,2PT Field Goal,2,1,LAYUPS,0.5,2025
-Kel'el Ware,1642276,Pullup Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2025
-Kel'el Ware,1642276,Putback Dunk,2PT Field Goal,1,1,DUNKS,1.0,2025
-Kel'el Ware,1642276,Putback Layup,2PT Field Goal,2,1,LAYUPS,0.5,2025
-Kel'el Ware,1642276,Reverse Dunk,2PT Field Goal,1,0,DUNKS,0.0,2025
-Kel'el Ware,1642276,Reverse Layup,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Kel'el Ware,1642276,Standard Dunk,2PT Field Goal,2,2,DUNKS,1.0,2025
-Kel'el Ware,1642276,Specialty Dunk,2PT Field Goal,1,0,DUNKS,0.0,2025
-Kel'el Ware,1642276,Putback Layup,2PT Field Goal,3,0,LAYUPS,0.0,2025
-Kel'el Ware,1642276,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2025
-Kel'el Ware,1642276,Turnaround Hook Shot,2PT Field Goal,2,0,POST_MOVES,0.0,2025
-Kel'el Ware,1642276,Turnaround Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Kel'el Ware,1642276,Alley Oop Dunk,2PT Field Goal,8,7,Alley Oop Dunk Shot,DUNKS,0.875,2025
+Kel'el Ware,1642276,Alley Oop Layup,2PT Field Goal,2,2,Alley Oop Layup shot,LAYUPS,1.0,2025
+Kel'el Ware,1642276,Standard Layup,2PT Field Goal,1,0,Cutting Layup Shot,LAYUPS,0.0,2025
+Kel'el Ware,1642276,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2025
+Kel'el Ware,1642276,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2025
+Kel'el Ware,1642276,Jump Shot,3PT Field Goal,8,3,Jump Shot,JUMP_SHOTS,0.5625,2025
+Kel'el Ware,1642276,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2025
+Kel'el Ware,1642276,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2025
+Kel'el Ware,1642276,Putback Dunk,2PT Field Goal,1,1,Putback Dunk Shot,DUNKS,1.0,2025
+Kel'el Ware,1642276,Putback Layup,2PT Field Goal,2,1,Putback Layup Shot,LAYUPS,0.5,2025
+Kel'el Ware,1642276,Reverse Dunk,2PT Field Goal,1,0,Reverse Dunk Shot,DUNKS,0.0,2025
+Kel'el Ware,1642276,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2025
+Kel'el Ware,1642276,Standard Dunk,2PT Field Goal,2,2,Running Dunk Shot,DUNKS,1.0,2025
+Kel'el Ware,1642276,Specialty Dunk,2PT Field Goal,1,0,Tip Dunk Shot,DUNKS,0.0,2025
+Kel'el Ware,1642276,Putback Layup,2PT Field Goal,3,0,Tip Layup Shot,LAYUPS,0.0,2025
+Kel'el Ware,1642276,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,1.0,2025
+Kel'el Ware,1642276,Turnaround Hook Shot,2PT Field Goal,2,0,Turnaround Hook Shot,POST_MOVES,0.0,2025
+Kel'el Ware,1642276,Turnaround Jump Shot,2PT Field Goal,2,1,Turnaround Jump Shot,JUMP_SHOTS,0.5,2025

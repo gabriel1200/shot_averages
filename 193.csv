@@ -1,38 +1,38 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Anthony Mason,193,Driving Dunk,2PT Field Goal,1,1,DUNKS,1.0,1997
-Anthony Mason,193,Driving Layup,2PT Field Goal,5,5,LAYUPS,1.0,1997
-Anthony Mason,193,Standard Dunk,2PT Field Goal,2,2,DUNKS,1.0,1997
-Anthony Mason,193,Hook Shot,2PT Field Goal,5,2,POST_MOVES,0.4,1997
-Anthony Mason,193,Jump Shot,2PT Field Goal,20,11,JUMP_SHOTS,0.55,1997
-Anthony Mason,193,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,1997
-Anthony Mason,193,Standard Layup,2PT Field Goal,47,24,LAYUPS,0.5106382978723404,1997
-Anthony Mason,193,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,1997
-Anthony Mason,193,Tip Shot,2PT Field Goal,2,2,TIP_SHOTS,1.0,1997
-Anthony Mason,193,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,1998
-Anthony Mason,193,Jump Shot,2PT Field Goal,5,2,JUMP_SHOTS,0.4,1998
-Anthony Mason,193,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2001
-Anthony Mason,193,Driving Layup,2PT Field Goal,8,5,LAYUPS,0.625,2002
-Anthony Mason,193,Standard Dunk,2PT Field Goal,2,2,DUNKS,1.0,2002
-Anthony Mason,193,Fadeaway Jump Shot,2PT Field Goal,6,4,JUMP_SHOTS,0.6666666666666666,2002
-Anthony Mason,193,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2002
-Anthony Mason,193,Hook Shot,2PT Field Goal,16,10,POST_MOVES,0.625,2002
-Anthony Mason,193,Hook Shot,2PT Field Goal,3,3,POST_MOVES,1.0,2002
-Anthony Mason,193,Jump Shot,2PT Field Goal,98,39,JUMP_SHOTS,0.3979591836734694,2002
-Anthony Mason,193,Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2002
-Anthony Mason,193,Standard Layup,2PT Field Goal,72,40,LAYUPS,0.5555555555555556,2002
-Anthony Mason,193,Reverse Layup,2PT Field Goal,4,3,LAYUPS,0.75,2002
-Anthony Mason,193,Running Hook Shot,2PT Field Goal,2,2,POST_MOVES,1.0,2002
-Anthony Mason,193,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2002
-Anthony Mason,193,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2002
-Anthony Mason,193,Tip Shot,2PT Field Goal,5,1,TIP_SHOTS,0.2,2002
-Anthony Mason,193,Turnaround Hook Shot,2PT Field Goal,2,1,POST_MOVES,0.5,2002
-Anthony Mason,193,Turnaround Jump Shot,2PT Field Goal,4,2,JUMP_SHOTS,0.5,2002
-Anthony Mason,193,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2003
-Anthony Mason,193,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2003
-Anthony Mason,193,Hook Shot,2PT Field Goal,6,2,POST_MOVES,0.3333333333333333,2003
-Anthony Mason,193,Jump Shot,2PT Field Goal,38,11,JUMP_SHOTS,0.2894736842105263,2003
-Anthony Mason,193,Standard Layup,2PT Field Goal,17,10,LAYUPS,0.5882352941176471,2003
-Anthony Mason,193,Reverse Layup,2PT Field Goal,2,2,LAYUPS,1.0,2003
-Anthony Mason,193,Running Hook Shot,2PT Field Goal,2,2,POST_MOVES,1.0,2003
-Anthony Mason,193,Tip Shot,2PT Field Goal,1,1,TIP_SHOTS,1.0,2003
-Anthony Mason,193,Turnaround Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2003
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Anthony Mason,193,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,1997
+Anthony Mason,193,Driving Layup,2PT Field Goal,5,5,Driving Layup Shot,LAYUPS,1.0,1997
+Anthony Mason,193,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,1997
+Anthony Mason,193,Hook Shot,2PT Field Goal,5,2,Hook Shot,POST_MOVES,0.4,1997
+Anthony Mason,193,Jump Shot,2PT Field Goal,20,11,Jump Shot,JUMP_SHOTS,0.55,1997
+Anthony Mason,193,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1997
+Anthony Mason,193,Standard Layup,2PT Field Goal,47,24,Layup Shot,LAYUPS,0.5106382978723404,1997
+Anthony Mason,193,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,1997
+Anthony Mason,193,Tip Shot,2PT Field Goal,2,2,Tip Shot,TIP_SHOTS,1.0,1997
+Anthony Mason,193,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,1998
+Anthony Mason,193,Jump Shot,2PT Field Goal,5,2,Jump Shot,JUMP_SHOTS,0.4,1998
+Anthony Mason,193,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2001
+Anthony Mason,193,Driving Layup,2PT Field Goal,8,5,Driving Layup Shot,LAYUPS,0.625,2002
+Anthony Mason,193,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,2002
+Anthony Mason,193,Fadeaway Jump Shot,2PT Field Goal,6,4,Fadeaway Jump Shot,JUMP_SHOTS,0.6666666666666666,2002
+Anthony Mason,193,Finger Roll,2PT Field Goal,1,1,Finger Roll Shot,LAYUPS,1.0,2002
+Anthony Mason,193,Hook Shot,2PT Field Goal,16,10,Hook Shot,POST_MOVES,0.625,2002
+Anthony Mason,193,Hook Shot,2PT Field Goal,3,3,Jump Hook Shot,POST_MOVES,1.0,2002
+Anthony Mason,193,Jump Shot,2PT Field Goal,98,39,Jump Shot,JUMP_SHOTS,0.3979591836734694,2002
+Anthony Mason,193,Jump Shot,3PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.5,2002
+Anthony Mason,193,Standard Layup,2PT Field Goal,72,40,Layup Shot,LAYUPS,0.5555555555555556,2002
+Anthony Mason,193,Reverse Layup,2PT Field Goal,4,3,Reverse Layup Shot,LAYUPS,0.75,2002
+Anthony Mason,193,Running Hook Shot,2PT Field Goal,2,2,Running Hook Shot,POST_MOVES,1.0,2002
+Anthony Mason,193,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2002
+Anthony Mason,193,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2002
+Anthony Mason,193,Tip Shot,2PT Field Goal,5,1,Tip Shot,TIP_SHOTS,0.2,2002
+Anthony Mason,193,Turnaround Hook Shot,2PT Field Goal,2,1,Turnaround Hook Shot,POST_MOVES,0.5,2002
+Anthony Mason,193,Turnaround Jump Shot,2PT Field Goal,4,2,Turnaround Jump Shot,JUMP_SHOTS,0.5,2002
+Anthony Mason,193,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2003
+Anthony Mason,193,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2003
+Anthony Mason,193,Hook Shot,2PT Field Goal,6,2,Hook Shot,POST_MOVES,0.3333333333333333,2003
+Anthony Mason,193,Jump Shot,2PT Field Goal,38,11,Jump Shot,JUMP_SHOTS,0.2894736842105263,2003
+Anthony Mason,193,Standard Layup,2PT Field Goal,17,10,Layup Shot,LAYUPS,0.5882352941176471,2003
+Anthony Mason,193,Reverse Layup,2PT Field Goal,2,2,Reverse Layup Shot,LAYUPS,1.0,2003
+Anthony Mason,193,Running Hook Shot,2PT Field Goal,2,2,Running Hook Shot,POST_MOVES,1.0,2003
+Anthony Mason,193,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2003
+Anthony Mason,193,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2003

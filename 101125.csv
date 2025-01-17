@@ -1,6 +1,6 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Julius Hodge,101125,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2006
-Julius Hodge,101125,Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2007
-Julius Hodge,101125,Standard Layup,2PT Field Goal,4,2,LAYUPS,0.5,2007
-Julius Hodge,101125,Reverse Layup,2PT Field Goal,1,1,LAYUPS,1.0,2007
-Julius Hodge,101125,Running Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2007
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Julius Hodge,101125,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2006
+Julius Hodge,101125,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2007
+Julius Hodge,101125,Standard Layup,2PT Field Goal,4,2,Layup Shot,LAYUPS,0.5,2007
+Julius Hodge,101125,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2007
+Julius Hodge,101125,Running Jump Shot,2PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.5,2007

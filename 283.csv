@@ -1,25 +1,25 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Lindsey Hunter,283,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,1997
-Lindsey Hunter,283,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,1997
-Lindsey Hunter,283,Jump Shot,3PT Field Goal,4,1,JUMP_SHOTS,0.375,1997
-Lindsey Hunter,283,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,1997
-Lindsey Hunter,283,Driving Layup,2PT Field Goal,2,2,LAYUPS,1.0,1998
-Lindsey Hunter,283,Jump Shot,2PT Field Goal,13,6,JUMP_SHOTS,0.4615384615384615,1998
-Lindsey Hunter,283,Jump Shot,3PT Field Goal,6,1,JUMP_SHOTS,0.25,1998
-Lindsey Hunter,283,Driving Dunk,2PT Field Goal,1,1,DUNKS,1.0,2000
-Lindsey Hunter,283,Driving Layup,2PT Field Goal,10,8,LAYUPS,0.8,2000
-Lindsey Hunter,283,Jump Shot,2PT Field Goal,57,22,JUMP_SHOTS,0.3859649122807017,2000
-Lindsey Hunter,283,Jump Shot,3PT Field Goal,42,11,JUMP_SHOTS,0.3928571428571428,2000
-Lindsey Hunter,283,Standard Layup,2PT Field Goal,16,6,LAYUPS,0.375,2000
-Lindsey Hunter,283,Running Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,0.6666666666666666,2000
-Lindsey Hunter,283,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2001
-Lindsey Hunter,283,Jump Shot,2PT Field Goal,9,1,JUMP_SHOTS,0.1111111111111111,2001
-Lindsey Hunter,283,Jump Shot,3PT Field Goal,17,8,JUMP_SHOTS,0.7058823529411765,2001
-Lindsey Hunter,283,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2001
-Lindsey Hunter,283,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2001
-Lindsey Hunter,283,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2002
-Lindsey Hunter,283,Jump Shot,2PT Field Goal,37,10,JUMP_SHOTS,0.2702702702702703,2002
-Lindsey Hunter,283,Jump Shot,3PT Field Goal,43,17,JUMP_SHOTS,0.5930232558139535,2002
-Lindsey Hunter,283,Standard Layup,2PT Field Goal,4,1,LAYUPS,0.25,2002
-Lindsey Hunter,283,Running Jump Shot,2PT Field Goal,3,3,JUMP_SHOTS,1.0,2002
-Lindsey Hunter,283,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2002
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Lindsey Hunter,283,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,1997
+Lindsey Hunter,283,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1997
+Lindsey Hunter,283,Jump Shot,3PT Field Goal,4,1,Jump Shot,JUMP_SHOTS,0.375,1997
+Lindsey Hunter,283,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,1997
+Lindsey Hunter,283,Driving Layup,2PT Field Goal,2,2,Driving Layup Shot,LAYUPS,1.0,1998
+Lindsey Hunter,283,Jump Shot,2PT Field Goal,13,6,Jump Shot,JUMP_SHOTS,0.4615384615384615,1998
+Lindsey Hunter,283,Jump Shot,3PT Field Goal,6,1,Jump Shot,JUMP_SHOTS,0.25,1998
+Lindsey Hunter,283,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2000
+Lindsey Hunter,283,Driving Layup,2PT Field Goal,10,8,Driving Layup Shot,LAYUPS,0.8,2000
+Lindsey Hunter,283,Jump Shot,2PT Field Goal,57,22,Jump Shot,JUMP_SHOTS,0.3859649122807017,2000
+Lindsey Hunter,283,Jump Shot,3PT Field Goal,42,11,Jump Shot,JUMP_SHOTS,0.3928571428571428,2000
+Lindsey Hunter,283,Standard Layup,2PT Field Goal,16,6,Layup Shot,LAYUPS,0.375,2000
+Lindsey Hunter,283,Running Jump Shot,2PT Field Goal,3,2,Running Jump Shot,JUMP_SHOTS,0.6666666666666666,2000
+Lindsey Hunter,283,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2001
+Lindsey Hunter,283,Jump Shot,2PT Field Goal,9,1,Jump Shot,JUMP_SHOTS,0.1111111111111111,2001
+Lindsey Hunter,283,Jump Shot,3PT Field Goal,17,8,Jump Shot,JUMP_SHOTS,0.7058823529411765,2001
+Lindsey Hunter,283,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2001
+Lindsey Hunter,283,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2001
+Lindsey Hunter,283,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2002
+Lindsey Hunter,283,Jump Shot,2PT Field Goal,37,10,Jump Shot,JUMP_SHOTS,0.2702702702702703,2002
+Lindsey Hunter,283,Jump Shot,3PT Field Goal,43,17,Jump Shot,JUMP_SHOTS,0.5930232558139535,2002
+Lindsey Hunter,283,Standard Layup,2PT Field Goal,4,1,Layup Shot,LAYUPS,0.25,2002
+Lindsey Hunter,283,Running Jump Shot,2PT Field Goal,3,3,Running Jump Shot,JUMP_SHOTS,1.0,2002
+Lindsey Hunter,283,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2002

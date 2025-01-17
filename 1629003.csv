@@ -1,25 +1,25 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Shake Milton,1629003,Standard Layup,2PT Field Goal,5,4,LAYUPS,0.8,2024
-Shake Milton,1629003,Floating Jump Shot,2PT Field Goal,9,2,FLOATING_SHOTS,0.2222222222222222,2024
-Shake Milton,1629003,Driving Layup,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Shake Milton,1629003,Driving Layup,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Shake Milton,1629003,Floating Jump Shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2024
-Shake Milton,1629003,Jump Shot,3PT Field Goal,6,1,JUMP_SHOTS,0.25,2024
-Shake Milton,1629003,Pullup Jump Shot,2PT Field Goal,5,3,JUMP_SHOTS,0.6,2024
-Shake Milton,1629003,Pullup Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Shake Milton,1629003,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Shake Milton,1629003,Standard Layup,2PT Field Goal,2,1,LAYUPS,0.5,2024
-Shake Milton,1629003,Reverse Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Shake Milton,1629003,Step Back Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,2024
-Shake Milton,1629003,Putback Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Shake Milton,1629003,Turnaround Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2024
-Shake Milton,1629003,Floating Jump Shot,2PT Field Goal,6,1,FLOATING_SHOTS,0.1666666666666666,2025
-Shake Milton,1629003,Driving Layup,2PT Field Goal,5,2,LAYUPS,0.4,2025
-Shake Milton,1629003,Finger Roll,2PT Field Goal,1,0,LAYUPS,0.0,2025
-Shake Milton,1629003,Floating Jump Shot,2PT Field Goal,2,0,FLOATING_SHOTS,0.0,2025
-Shake Milton,1629003,Jump Shot,3PT Field Goal,16,4,JUMP_SHOTS,0.375,2025
-Shake Milton,1629003,Pullup Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,0.3333333333333333,2025
-Shake Milton,1629003,Pullup Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2025
-Shake Milton,1629003,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Shake Milton,1629003,Step Back Jump Shot,3PT Field Goal,3,1,JUMP_SHOTS,0.5,2025
-Shake Milton,1629003,Putback Layup,2PT Field Goal,1,0,LAYUPS,0.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Shake Milton,1629003,Standard Layup,2PT Field Goal,5,4,Cutting Layup Shot,LAYUPS,0.8,2024
+Shake Milton,1629003,Floating Jump Shot,2PT Field Goal,9,2,Driving Floating Jump Shot,FLOATING_SHOTS,0.2222222222222222,2024
+Shake Milton,1629003,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2024
+Shake Milton,1629003,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2024
+Shake Milton,1629003,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2024
+Shake Milton,1629003,Jump Shot,3PT Field Goal,6,1,Jump Shot,JUMP_SHOTS,0.25,2024
+Shake Milton,1629003,Pullup Jump Shot,2PT Field Goal,5,3,Pullup Jump shot,JUMP_SHOTS,0.6,2024
+Shake Milton,1629003,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2024
+Shake Milton,1629003,Finger Roll,2PT Field Goal,1,1,Running Finger Roll Layup Shot,LAYUPS,1.0,2024
+Shake Milton,1629003,Standard Layup,2PT Field Goal,2,1,Running Layup Shot,LAYUPS,0.5,2024
+Shake Milton,1629003,Reverse Layup,2PT Field Goal,1,1,Running Reverse Layup Shot,LAYUPS,1.0,2024
+Shake Milton,1629003,Step Back Jump Shot,3PT Field Goal,2,0,Step Back Jump shot,JUMP_SHOTS,0.0,2024
+Shake Milton,1629003,Putback Layup,2PT Field Goal,1,1,Tip Layup Shot,LAYUPS,1.0,2024
+Shake Milton,1629003,Turnaround Jump Shot,2PT Field Goal,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,0.5,2024
+Shake Milton,1629003,Floating Jump Shot,2PT Field Goal,6,1,Driving Floating Jump Shot,FLOATING_SHOTS,0.1666666666666666,2025
+Shake Milton,1629003,Driving Layup,2PT Field Goal,5,2,Driving Layup Shot,LAYUPS,0.4,2025
+Shake Milton,1629003,Finger Roll,2PT Field Goal,1,0,Finger Roll Layup Shot,LAYUPS,0.0,2025
+Shake Milton,1629003,Floating Jump Shot,2PT Field Goal,2,0,Floating Jump shot,FLOATING_SHOTS,0.0,2025
+Shake Milton,1629003,Jump Shot,3PT Field Goal,16,4,Jump Shot,JUMP_SHOTS,0.375,2025
+Shake Milton,1629003,Pullup Jump Shot,2PT Field Goal,3,1,Pullup Jump shot,JUMP_SHOTS,0.3333333333333333,2025
+Shake Milton,1629003,Pullup Jump Shot,3PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.5,2025
+Shake Milton,1629003,Finger Roll,2PT Field Goal,1,1,Running Finger Roll Layup Shot,LAYUPS,1.0,2025
+Shake Milton,1629003,Step Back Jump Shot,3PT Field Goal,3,1,Step Back Jump shot,JUMP_SHOTS,0.5,2025
+Shake Milton,1629003,Putback Layup,2PT Field Goal,1,0,Tip Layup Shot,LAYUPS,0.0,2025

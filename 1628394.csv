@@ -1,19 +1,19 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Anzejs Pasecniks,1628394,Alley Oop Layup,2PT Field Goal,2,1,LAYUPS,0.5,2020
-Anzejs Pasecniks,1628394,Specialty Dunk,2PT Field Goal,2,2,DUNKS,1.0,2020
-Anzejs Pasecniks,1628394,Standard Layup,2PT Field Goal,2,1,LAYUPS,0.5,2020
-Anzejs Pasecniks,1628394,Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2020
-Anzejs Pasecniks,1628394,Driving Layup,2PT Field Goal,2,2,LAYUPS,1.0,2020
-Anzejs Pasecniks,1628394,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2020
-Anzejs Pasecniks,1628394,Floating Jump Shot,2PT Field Goal,4,1,FLOATING_SHOTS,0.25,2020
-Anzejs Pasecniks,1628394,Hook Shot,2PT Field Goal,3,1,POST_MOVES,0.3333333333333333,2020
-Anzejs Pasecniks,1628394,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2020
-Anzejs Pasecniks,1628394,Jump Shot,2PT Field Goal,6,1,JUMP_SHOTS,0.1666666666666666,2020
-Anzejs Pasecniks,1628394,Jump Shot,3PT Field Goal,3,0,JUMP_SHOTS,0.0,2020
-Anzejs Pasecniks,1628394,Standard Layup,2PT Field Goal,3,0,LAYUPS,0.0,2020
-Anzejs Pasecniks,1628394,Pullup Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2020
-Anzejs Pasecniks,1628394,Putback Layup,2PT Field Goal,3,3,LAYUPS,1.0,2020
-Anzejs Pasecniks,1628394,Reverse Layup,2PT Field Goal,1,1,LAYUPS,1.0,2020
-Anzejs Pasecniks,1628394,Putback Layup,2PT Field Goal,7,2,LAYUPS,0.2857142857142857,2020
-Anzejs Pasecniks,1628394,Turnaround Hook Shot,2PT Field Goal,2,1,POST_MOVES,0.5,2020
-Anzejs Pasecniks,1628394,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2021
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Anzejs Pasecniks,1628394,Alley Oop Layup,2PT Field Goal,2,1,Alley Oop Layup shot,LAYUPS,0.5,2020
+Anzejs Pasecniks,1628394,Specialty Dunk,2PT Field Goal,2,2,Cutting Dunk Shot,DUNKS,1.0,2020
+Anzejs Pasecniks,1628394,Standard Layup,2PT Field Goal,2,1,Cutting Layup Shot,LAYUPS,0.5,2020
+Anzejs Pasecniks,1628394,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Jump Shot,FLOATING_SHOTS,1.0,2020
+Anzejs Pasecniks,1628394,Driving Layup,2PT Field Goal,2,2,Driving Layup Shot,LAYUPS,1.0,2020
+Anzejs Pasecniks,1628394,Finger Roll,2PT Field Goal,1,1,Finger Roll Layup Shot,LAYUPS,1.0,2020
+Anzejs Pasecniks,1628394,Floating Jump Shot,2PT Field Goal,4,1,Floating Jump shot,FLOATING_SHOTS,0.25,2020
+Anzejs Pasecniks,1628394,Hook Shot,2PT Field Goal,3,1,Hook Shot,POST_MOVES,0.3333333333333333,2020
+Anzejs Pasecniks,1628394,Jump Shot,2PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2020
+Anzejs Pasecniks,1628394,Jump Shot,2PT Field Goal,6,1,Jump Shot,JUMP_SHOTS,0.1666666666666666,2020
+Anzejs Pasecniks,1628394,Jump Shot,3PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,2020
+Anzejs Pasecniks,1628394,Standard Layup,2PT Field Goal,3,0,Layup Shot,LAYUPS,0.0,2020
+Anzejs Pasecniks,1628394,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2020
+Anzejs Pasecniks,1628394,Putback Layup,2PT Field Goal,3,3,Putback Layup Shot,LAYUPS,1.0,2020
+Anzejs Pasecniks,1628394,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2020
+Anzejs Pasecniks,1628394,Putback Layup,2PT Field Goal,7,2,Tip Layup Shot,LAYUPS,0.2857142857142857,2020
+Anzejs Pasecniks,1628394,Turnaround Hook Shot,2PT Field Goal,2,1,Turnaround Hook Shot,POST_MOVES,0.5,2020
+Anzejs Pasecniks,1628394,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2021

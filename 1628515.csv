@@ -1,11 +1,11 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Isaiah Briscoe,1628515,Specialty Dunk,2PT Field Goal,1,1,DUNKS,1.0,2019
-Isaiah Briscoe,1628515,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2019
-Isaiah Briscoe,1628515,Floating Jump Shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2019
-Isaiah Briscoe,1628515,Driving Layup,2PT Field Goal,4,3,LAYUPS,0.75,2019
-Isaiah Briscoe,1628515,Finger Roll,2PT Field Goal,1,0,LAYUPS,0.0,2019
-Isaiah Briscoe,1628515,Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2019
-Isaiah Briscoe,1628515,Jump Shot,3PT Field Goal,5,1,JUMP_SHOTS,0.3,2019
-Isaiah Briscoe,1628515,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2019
-Isaiah Briscoe,1628515,Pullup Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2019
-Isaiah Briscoe,1628515,Step Back Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2019
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Isaiah Briscoe,1628515,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2019
+Isaiah Briscoe,1628515,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2019
+Isaiah Briscoe,1628515,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.0,2019
+Isaiah Briscoe,1628515,Driving Layup,2PT Field Goal,4,3,Driving Layup Shot,LAYUPS,0.75,2019
+Isaiah Briscoe,1628515,Finger Roll,2PT Field Goal,1,0,Finger Roll Layup Shot,LAYUPS,0.0,2019
+Isaiah Briscoe,1628515,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2019
+Isaiah Briscoe,1628515,Jump Shot,3PT Field Goal,5,1,Jump Shot,JUMP_SHOTS,0.3,2019
+Isaiah Briscoe,1628515,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2019
+Isaiah Briscoe,1628515,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2019
+Isaiah Briscoe,1628515,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.0,2019

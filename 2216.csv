@@ -1,41 +1,41 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Zach Randolph,2216,Alley Oop Layup,2PT Field Goal,1,1,LAYUPS,1.0,2003
-Zach Randolph,2216,Jump Shot,2PT Field Goal,8,3,JUMP_SHOTS,0.375,2003
-Zach Randolph,2216,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2003
-Zach Randolph,2216,Standard Layup,2PT Field Goal,7,4,LAYUPS,0.5714285714285714,2003
-Zach Randolph,2216,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2004
-Zach Randolph,2216,Driving Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2004
-Zach Randolph,2216,Driving Layup,2PT Field Goal,12,8,LAYUPS,0.6666666666666666,2004
-Zach Randolph,2216,Standard Dunk,2PT Field Goal,2,2,DUNKS,1.0,2004
-Zach Randolph,2216,Fadeaway Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2004
-Zach Randolph,2216,Hook Shot,2PT Field Goal,15,7,POST_MOVES,0.4666666666666667,2004
-Zach Randolph,2216,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2004
-Zach Randolph,2216,Hook Shot,2PT Field Goal,4,4,POST_MOVES,1.0,2004
-Zach Randolph,2216,Jump Shot,2PT Field Goal,140,49,JUMP_SHOTS,0.35,2004
-Zach Randolph,2216,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2004
-Zach Randolph,2216,Standard Layup,2PT Field Goal,60,36,LAYUPS,0.6,2004
-Zach Randolph,2216,Reverse Layup,2PT Field Goal,2,1,LAYUPS,0.5,2004
-Zach Randolph,2216,Running Jump Shot,2PT Field Goal,5,5,JUMP_SHOTS,1.0,2004
-Zach Randolph,2216,Tip Shot,2PT Field Goal,1,1,TIP_SHOTS,1.0,2004
-Zach Randolph,2216,Tip Shot,2PT Field Goal,6,6,TIP_SHOTS,1.0,2004
-Zach Randolph,2216,Turnaround Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2004
-Zach Randolph,2216,Turnaround Jump Shot,2PT Field Goal,16,8,JUMP_SHOTS,0.5,2004
-Zach Randolph,2216,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2005
-Zach Randolph,2216,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2005
-Zach Randolph,2216,Jump Shot,2PT Field Goal,5,2,JUMP_SHOTS,0.4,2005
-Zach Randolph,2216,Standard Layup,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2005
-Zach Randolph,2216,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2006
-Zach Randolph,2216,Driving Layup,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2006
-Zach Randolph,2216,Fadeaway Jump Shot,2PT Field Goal,5,1,JUMP_SHOTS,0.2,2006
-Zach Randolph,2216,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2006
-Zach Randolph,2216,Hook Shot,2PT Field Goal,5,2,POST_MOVES,0.4,2006
-Zach Randolph,2216,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2006
-Zach Randolph,2216,Hook Shot,2PT Field Goal,2,1,POST_MOVES,0.5,2006
-Zach Randolph,2216,Jump Shot,2PT Field Goal,43,15,JUMP_SHOTS,0.3488372093023256,2006
-Zach Randolph,2216,Jump Shot,3PT Field Goal,5,0,JUMP_SHOTS,0.0,2006
-Zach Randolph,2216,Standard Layup,2PT Field Goal,48,27,LAYUPS,0.5625,2006
-Zach Randolph,2216,Reverse Layup,2PT Field Goal,1,0,LAYUPS,0.0,2006
-Zach Randolph,2216,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2006
-Zach Randolph,2216,Tip Shot,2PT Field Goal,2,0,TIP_SHOTS,0.0,2006
-Zach Randolph,2216,Turnaround Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2006
-Zach Randolph,2216,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2006
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Zach Randolph,2216,Alley Oop Layup,2PT Field Goal,1,1,Alley Oop Layup shot,LAYUPS,1.0,2003
+Zach Randolph,2216,Jump Shot,2PT Field Goal,8,3,Jump Shot,JUMP_SHOTS,0.375,2003
+Zach Randolph,2216,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2003
+Zach Randolph,2216,Standard Layup,2PT Field Goal,7,4,Layup Shot,LAYUPS,0.5714285714285714,2003
+Zach Randolph,2216,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Shot,LAYUPS,1.0,2004
+Zach Randolph,2216,Driving Hook Shot,2PT Field Goal,1,1,Driving Hook Shot,POST_MOVES,1.0,2004
+Zach Randolph,2216,Driving Layup,2PT Field Goal,12,8,Driving Layup Shot,LAYUPS,0.6666666666666666,2004
+Zach Randolph,2216,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,2004
+Zach Randolph,2216,Fadeaway Jump Shot,2PT Field Goal,2,1,Fadeaway Jump Shot,JUMP_SHOTS,0.5,2004
+Zach Randolph,2216,Hook Shot,2PT Field Goal,15,7,Hook Shot,POST_MOVES,0.4666666666666667,2004
+Zach Randolph,2216,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2004
+Zach Randolph,2216,Hook Shot,2PT Field Goal,4,4,Jump Hook Shot,POST_MOVES,1.0,2004
+Zach Randolph,2216,Jump Shot,2PT Field Goal,140,49,Jump Shot,JUMP_SHOTS,0.35,2004
+Zach Randolph,2216,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2004
+Zach Randolph,2216,Standard Layup,2PT Field Goal,60,36,Layup Shot,LAYUPS,0.6,2004
+Zach Randolph,2216,Reverse Layup,2PT Field Goal,2,1,Reverse Layup Shot,LAYUPS,0.5,2004
+Zach Randolph,2216,Running Jump Shot,2PT Field Goal,5,5,Running Jump Shot,JUMP_SHOTS,1.0,2004
+Zach Randolph,2216,Tip Shot,2PT Field Goal,1,1,Running Tip Shot,TIP_SHOTS,1.0,2004
+Zach Randolph,2216,Tip Shot,2PT Field Goal,6,6,Tip Shot,TIP_SHOTS,1.0,2004
+Zach Randolph,2216,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2004
+Zach Randolph,2216,Turnaround Jump Shot,2PT Field Goal,16,8,Turnaround Jump Shot,JUMP_SHOTS,0.5,2004
+Zach Randolph,2216,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2005
+Zach Randolph,2216,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2005
+Zach Randolph,2216,Jump Shot,2PT Field Goal,5,2,Jump Shot,JUMP_SHOTS,0.4,2005
+Zach Randolph,2216,Standard Layup,2PT Field Goal,3,2,Layup Shot,LAYUPS,0.6666666666666666,2005
+Zach Randolph,2216,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2006
+Zach Randolph,2216,Driving Layup,2PT Field Goal,3,2,Driving Layup Shot,LAYUPS,0.6666666666666666,2006
+Zach Randolph,2216,Fadeaway Jump Shot,2PT Field Goal,5,1,Fadeaway Jump Shot,JUMP_SHOTS,0.2,2006
+Zach Randolph,2216,Finger Roll,2PT Field Goal,1,1,Finger Roll Shot,LAYUPS,1.0,2006
+Zach Randolph,2216,Hook Shot,2PT Field Goal,5,2,Hook Shot,POST_MOVES,0.4,2006
+Zach Randolph,2216,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2006
+Zach Randolph,2216,Hook Shot,2PT Field Goal,2,1,Jump Hook Shot,POST_MOVES,0.5,2006
+Zach Randolph,2216,Jump Shot,2PT Field Goal,43,15,Jump Shot,JUMP_SHOTS,0.3488372093023256,2006
+Zach Randolph,2216,Jump Shot,3PT Field Goal,5,0,Jump Shot,JUMP_SHOTS,0.0,2006
+Zach Randolph,2216,Standard Layup,2PT Field Goal,48,27,Layup Shot,LAYUPS,0.5625,2006
+Zach Randolph,2216,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2006
+Zach Randolph,2216,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2006
+Zach Randolph,2216,Tip Shot,2PT Field Goal,2,0,Tip Shot,TIP_SHOTS,0.0,2006
+Zach Randolph,2216,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2006
+Zach Randolph,2216,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2006

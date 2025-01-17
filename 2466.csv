@@ -1,4 +1,4 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Maurice Carter,2466,Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2004
-Maurice Carter,2466,Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2004
-Maurice Carter,2466,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2004
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Maurice Carter,2466,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2004
+Maurice Carter,2466,Jump Shot,3PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.5,2004
+Maurice Carter,2466,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2004

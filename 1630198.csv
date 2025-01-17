@@ -1,38 +1,38 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Isaiah Joe,1630198,Jump Shot,3PT Field Goal,10,4,JUMP_SHOTS,0.6,2023
-Isaiah Joe,1630198,Pullup Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,2023
-Isaiah Joe,1630198,Running Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2023
-Isaiah Joe,1630198,Step Back Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2023
-Isaiah Joe,1630198,Step Back Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,2023
-Isaiah Joe,1630198,Specialty Dunk,2PT Field Goal,2,2,DUNKS,1.0,2024
-Isaiah Joe,1630198,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Isaiah Joe,1630198,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Isaiah Joe,1630198,Driving Layup,2PT Field Goal,2,1,LAYUPS,0.5,2024
-Isaiah Joe,1630198,Driving Layup,2PT Field Goal,2,2,LAYUPS,1.0,2024
-Isaiah Joe,1630198,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2024
-Isaiah Joe,1630198,Fadeaway Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2024
-Isaiah Joe,1630198,Finger Roll,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Isaiah Joe,1630198,Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,2024
-Isaiah Joe,1630198,Jump Shot,3PT Field Goal,69,22,JUMP_SHOTS,0.4782608695652174,2024
-Isaiah Joe,1630198,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Isaiah Joe,1630198,Pullup Jump Shot,2PT Field Goal,12,6,JUMP_SHOTS,0.5,2024
-Isaiah Joe,1630198,Pullup Jump Shot,3PT Field Goal,7,2,JUMP_SHOTS,0.4285714285714285,2024
-Isaiah Joe,1630198,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2024
-Isaiah Joe,1630198,Finger Roll,2PT Field Goal,2,1,LAYUPS,0.5,2024
-Isaiah Joe,1630198,Running Jump Shot,3PT Field Goal,10,4,JUMP_SHOTS,0.6,2024
-Isaiah Joe,1630198,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Isaiah Joe,1630198,Step Back Jump Shot,2PT Field Goal,4,0,JUMP_SHOTS,0.0,2024
-Isaiah Joe,1630198,Step Back Jump Shot,3PT Field Goal,11,6,JUMP_SHOTS,0.8181818181818182,2024
-Isaiah Joe,1630198,Specialty Dunk,2PT Field Goal,1,1,DUNKS,1.0,2025
-Isaiah Joe,1630198,Standard Layup,2PT Field Goal,2,2,LAYUPS,1.0,2025
-Isaiah Joe,1630198,Driving Layup,2PT Field Goal,1,0,LAYUPS,0.0,2025
-Isaiah Joe,1630198,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2025
-Isaiah Joe,1630198,Jump Shot,3PT Field Goal,38,15,JUMP_SHOTS,0.5921052631578947,2025
-Isaiah Joe,1630198,Pullup Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
-Isaiah Joe,1630198,Pullup Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2025
-Isaiah Joe,1630198,Standard Dunk,2PT Field Goal,2,2,DUNKS,1.0,2025
-Isaiah Joe,1630198,Running Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2025
-Isaiah Joe,1630198,Standard Layup,2PT Field Goal,4,2,LAYUPS,0.5,2025
-Isaiah Joe,1630198,Running Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
-Isaiah Joe,1630198,Step Back Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2025
-Isaiah Joe,1630198,Step Back Jump Shot,3PT Field Goal,9,3,JUMP_SHOTS,0.5,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Isaiah Joe,1630198,Jump Shot,3PT Field Goal,10,4,Jump Shot,JUMP_SHOTS,0.6,2023
+Isaiah Joe,1630198,Pullup Jump Shot,2PT Field Goal,2,2,Pullup Jump shot,JUMP_SHOTS,1.0,2023
+Isaiah Joe,1630198,Running Jump Shot,3PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.5,2023
+Isaiah Joe,1630198,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2023
+Isaiah Joe,1630198,Step Back Jump Shot,3PT Field Goal,2,0,Step Back Jump shot,JUMP_SHOTS,0.0,2023
+Isaiah Joe,1630198,Specialty Dunk,2PT Field Goal,2,2,Cutting Dunk Shot,DUNKS,1.0,2024
+Isaiah Joe,1630198,Finger Roll,2PT Field Goal,1,1,Cutting Finger Roll Layup Shot,LAYUPS,1.0,2024
+Isaiah Joe,1630198,Standard Layup,2PT Field Goal,1,0,Cutting Layup Shot,LAYUPS,0.0,2024
+Isaiah Joe,1630198,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2024
+Isaiah Joe,1630198,Driving Layup,2PT Field Goal,2,2,Driving Reverse Layup Shot,LAYUPS,1.0,2024
+Isaiah Joe,1630198,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2024
+Isaiah Joe,1630198,Fadeaway Jump Shot,2PT Field Goal,2,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2024
+Isaiah Joe,1630198,Finger Roll,2PT Field Goal,1,0,Finger Roll Layup Shot,LAYUPS,0.0,2024
+Isaiah Joe,1630198,Jump Shot,2PT Field Goal,2,2,Jump Shot,JUMP_SHOTS,1.0,2024
+Isaiah Joe,1630198,Jump Shot,3PT Field Goal,69,22,Jump Shot,JUMP_SHOTS,0.4782608695652174,2024
+Isaiah Joe,1630198,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2024
+Isaiah Joe,1630198,Pullup Jump Shot,2PT Field Goal,12,6,Pullup Jump shot,JUMP_SHOTS,0.5,2024
+Isaiah Joe,1630198,Pullup Jump Shot,3PT Field Goal,7,2,Pullup Jump shot,JUMP_SHOTS,0.4285714285714285,2024
+Isaiah Joe,1630198,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2024
+Isaiah Joe,1630198,Finger Roll,2PT Field Goal,2,1,Running Finger Roll Layup Shot,LAYUPS,0.5,2024
+Isaiah Joe,1630198,Running Jump Shot,3PT Field Goal,10,4,Running Jump Shot,JUMP_SHOTS,0.6,2024
+Isaiah Joe,1630198,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2024
+Isaiah Joe,1630198,Step Back Jump Shot,2PT Field Goal,4,0,Step Back Jump shot,JUMP_SHOTS,0.0,2024
+Isaiah Joe,1630198,Step Back Jump Shot,3PT Field Goal,11,6,Step Back Jump shot,JUMP_SHOTS,0.8181818181818182,2024
+Isaiah Joe,1630198,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2025
+Isaiah Joe,1630198,Standard Layup,2PT Field Goal,2,2,Cutting Layup Shot,LAYUPS,1.0,2025
+Isaiah Joe,1630198,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2025
+Isaiah Joe,1630198,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2025
+Isaiah Joe,1630198,Jump Shot,3PT Field Goal,38,15,Jump Shot,JUMP_SHOTS,0.5921052631578947,2025
+Isaiah Joe,1630198,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2025
+Isaiah Joe,1630198,Pullup Jump Shot,3PT Field Goal,2,1,Pullup Jump shot,JUMP_SHOTS,0.75,2025
+Isaiah Joe,1630198,Standard Dunk,2PT Field Goal,2,2,Running Dunk Shot,DUNKS,1.0,2025
+Isaiah Joe,1630198,Running Jump Shot,3PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.75,2025
+Isaiah Joe,1630198,Standard Layup,2PT Field Goal,4,2,Running Layup Shot,LAYUPS,0.5,2025
+Isaiah Joe,1630198,Running Jump Shot,3PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2025
+Isaiah Joe,1630198,Step Back Jump Shot,2PT Field Goal,2,0,Step Back Jump shot,JUMP_SHOTS,0.0,2025
+Isaiah Joe,1630198,Step Back Jump Shot,3PT Field Goal,9,3,Step Back Jump shot,JUMP_SHOTS,0.5,2025

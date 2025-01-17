@@ -1,43 +1,43 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Isaiah Jackson,1630543,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2022
-Isaiah Jackson,1630543,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2023
-Isaiah Jackson,1630543,Alley Oop Dunk,2PT Field Goal,5,3,DUNKS,0.6,2024
-Isaiah Jackson,1630543,Specialty Dunk,2PT Field Goal,14,13,DUNKS,0.9285714285714286,2024
-Isaiah Jackson,1630543,Finger Roll,2PT Field Goal,3,3,LAYUPS,1.0,2024
-Isaiah Jackson,1630543,Standard Layup,2PT Field Goal,12,11,LAYUPS,0.9166666666666666,2024
-Isaiah Jackson,1630543,Driving Dunk,2PT Field Goal,1,1,DUNKS,1.0,2024
-Isaiah Jackson,1630543,Finger Roll,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Isaiah Jackson,1630543,Floating Jump Shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2024
-Isaiah Jackson,1630543,Floating Jump Shot,2PT Field Goal,3,1,FLOATING_SHOTS,0.3333333333333333,2024
-Isaiah Jackson,1630543,Driving Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2024
-Isaiah Jackson,1630543,Driving Layup,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Isaiah Jackson,1630543,Standard Dunk,2PT Field Goal,13,12,DUNKS,0.9230769230769232,2024
-Isaiah Jackson,1630543,Finger Roll,2PT Field Goal,2,2,LAYUPS,1.0,2024
-Isaiah Jackson,1630543,Floating Jump Shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2024
-Isaiah Jackson,1630543,Hook Shot,2PT Field Goal,2,2,POST_MOVES,1.0,2024
-Isaiah Jackson,1630543,Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,0.6666666666666666,2024
-Isaiah Jackson,1630543,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Isaiah Jackson,1630543,Standard Layup,2PT Field Goal,25,12,LAYUPS,0.48,2024
-Isaiah Jackson,1630543,Pullup Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Isaiah Jackson,1630543,Putback Dunk,2PT Field Goal,3,2,DUNKS,0.6666666666666666,2024
-Isaiah Jackson,1630543,Putback Layup,2PT Field Goal,11,6,LAYUPS,0.5454545454545454,2024
-Isaiah Jackson,1630543,Reverse Layup,2PT Field Goal,5,4,LAYUPS,0.8,2024
-Isaiah Jackson,1630543,Alley Oop Dunk,2PT Field Goal,1,1,DUNKS,1.0,2024
-Isaiah Jackson,1630543,Standard Dunk,2PT Field Goal,7,7,DUNKS,1.0,2024
-Isaiah Jackson,1630543,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Isaiah Jackson,1630543,Standard Layup,2PT Field Goal,6,3,LAYUPS,0.5,2024
-Isaiah Jackson,1630543,Specialty Dunk,2PT Field Goal,3,3,DUNKS,1.0,2024
-Isaiah Jackson,1630543,Putback Layup,2PT Field Goal,11,4,LAYUPS,0.3636363636363636,2024
-Isaiah Jackson,1630543,Turnaround Hook Shot,2PT Field Goal,7,5,POST_MOVES,0.7142857142857143,2024
-Isaiah Jackson,1630543,Turnaround Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,0.3333333333333333,2024
-Isaiah Jackson,1630543,Alley Oop Dunk,2PT Field Goal,1,1,DUNKS,1.0,2025
-Isaiah Jackson,1630543,Specialty Dunk,2PT Field Goal,1,1,DUNKS,1.0,2025
-Isaiah Jackson,1630543,Driving Layup,2PT Field Goal,1,0,LAYUPS,0.0,2025
-Isaiah Jackson,1630543,Standard Dunk,2PT Field Goal,2,1,DUNKS,0.5,2025
-Isaiah Jackson,1630543,Floating Jump Shot,2PT Field Goal,2,2,FLOATING_SHOTS,1.0,2025
-Isaiah Jackson,1630543,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2025
-Isaiah Jackson,1630543,Standard Layup,2PT Field Goal,4,2,LAYUPS,0.5,2025
-Isaiah Jackson,1630543,Reverse Layup,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Isaiah Jackson,1630543,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2025
-Isaiah Jackson,1630543,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Isaiah Jackson,1630543,Putback Layup,2PT Field Goal,5,1,LAYUPS,0.2,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Isaiah Jackson,1630543,Finger Roll,2PT Field Goal,1,1,Cutting Finger Roll Layup Shot,LAYUPS,1.0,2022
+Isaiah Jackson,1630543,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2023
+Isaiah Jackson,1630543,Alley Oop Dunk,2PT Field Goal,5,3,Alley Oop Dunk Shot,DUNKS,0.6,2024
+Isaiah Jackson,1630543,Specialty Dunk,2PT Field Goal,14,13,Cutting Dunk Shot,DUNKS,0.9285714285714286,2024
+Isaiah Jackson,1630543,Finger Roll,2PT Field Goal,3,3,Cutting Finger Roll Layup Shot,LAYUPS,1.0,2024
+Isaiah Jackson,1630543,Standard Layup,2PT Field Goal,12,11,Cutting Layup Shot,LAYUPS,0.9166666666666666,2024
+Isaiah Jackson,1630543,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2024
+Isaiah Jackson,1630543,Finger Roll,2PT Field Goal,1,0,Driving Finger Roll Layup Shot,LAYUPS,0.0,2024
+Isaiah Jackson,1630543,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.0,2024
+Isaiah Jackson,1630543,Floating Jump Shot,2PT Field Goal,3,1,Driving Floating Jump Shot,FLOATING_SHOTS,0.3333333333333333,2024
+Isaiah Jackson,1630543,Driving Hook Shot,2PT Field Goal,1,1,Driving Hook Shot,POST_MOVES,1.0,2024
+Isaiah Jackson,1630543,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2024
+Isaiah Jackson,1630543,Standard Dunk,2PT Field Goal,13,12,Dunk Shot,DUNKS,0.9230769230769232,2024
+Isaiah Jackson,1630543,Finger Roll,2PT Field Goal,2,2,Finger Roll Layup Shot,LAYUPS,1.0,2024
+Isaiah Jackson,1630543,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2024
+Isaiah Jackson,1630543,Hook Shot,2PT Field Goal,2,2,Hook Shot,POST_MOVES,1.0,2024
+Isaiah Jackson,1630543,Jump Shot,2PT Field Goal,3,2,Jump Shot,JUMP_SHOTS,0.6666666666666666,2024
+Isaiah Jackson,1630543,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2024
+Isaiah Jackson,1630543,Standard Layup,2PT Field Goal,25,12,Layup Shot,LAYUPS,0.48,2024
+Isaiah Jackson,1630543,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2024
+Isaiah Jackson,1630543,Putback Dunk,2PT Field Goal,3,2,Putback Dunk Shot,DUNKS,0.6666666666666666,2024
+Isaiah Jackson,1630543,Putback Layup,2PT Field Goal,11,6,Putback Layup Shot,LAYUPS,0.5454545454545454,2024
+Isaiah Jackson,1630543,Reverse Layup,2PT Field Goal,5,4,Reverse Layup Shot,LAYUPS,0.8,2024
+Isaiah Jackson,1630543,Alley Oop Dunk,2PT Field Goal,1,1,Running Alley Oop Dunk Shot,DUNKS,1.0,2024
+Isaiah Jackson,1630543,Standard Dunk,2PT Field Goal,7,7,Running Dunk Shot,DUNKS,1.0,2024
+Isaiah Jackson,1630543,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2024
+Isaiah Jackson,1630543,Standard Layup,2PT Field Goal,6,3,Running Layup Shot,LAYUPS,0.5,2024
+Isaiah Jackson,1630543,Specialty Dunk,2PT Field Goal,3,3,Tip Dunk Shot,DUNKS,1.0,2024
+Isaiah Jackson,1630543,Putback Layup,2PT Field Goal,11,4,Tip Layup Shot,LAYUPS,0.3636363636363636,2024
+Isaiah Jackson,1630543,Turnaround Hook Shot,2PT Field Goal,7,5,Turnaround Hook Shot,POST_MOVES,0.7142857142857143,2024
+Isaiah Jackson,1630543,Turnaround Jump Shot,2PT Field Goal,3,1,Turnaround Jump Shot,JUMP_SHOTS,0.3333333333333333,2024
+Isaiah Jackson,1630543,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2025
+Isaiah Jackson,1630543,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2025
+Isaiah Jackson,1630543,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2025
+Isaiah Jackson,1630543,Standard Dunk,2PT Field Goal,2,1,Dunk Shot,DUNKS,0.5,2025
+Isaiah Jackson,1630543,Floating Jump Shot,2PT Field Goal,2,2,Floating Jump shot,FLOATING_SHOTS,1.0,2025
+Isaiah Jackson,1630543,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2025
+Isaiah Jackson,1630543,Standard Layup,2PT Field Goal,4,2,Layup Shot,LAYUPS,0.5,2025
+Isaiah Jackson,1630543,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2025
+Isaiah Jackson,1630543,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2025
+Isaiah Jackson,1630543,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2025
+Isaiah Jackson,1630543,Putback Layup,2PT Field Goal,5,1,Tip Layup Shot,LAYUPS,0.2,2025

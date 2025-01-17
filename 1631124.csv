@@ -1,51 +1,51 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Julian Strawther,1631124,Alley Oop Layup,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Julian Strawther,1631124,Specialty Dunk,2PT Field Goal,1,1,DUNKS,1.0,2024
-Julian Strawther,1631124,Standard Layup,2PT Field Goal,2,1,LAYUPS,0.5,2024
-Julian Strawther,1631124,Finger Roll,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Julian Strawther,1631124,Floating Jump Shot,2PT Field Goal,4,2,FLOATING_SHOTS,0.5,2024
-Julian Strawther,1631124,Floating Jump Shot,2PT Field Goal,12,3,FLOATING_SHOTS,0.25,2024
-Julian Strawther,1631124,Driving Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2024
-Julian Strawther,1631124,Driving Layup,2PT Field Goal,8,4,LAYUPS,0.5,2024
-Julian Strawther,1631124,Driving Layup,2PT Field Goal,2,0,LAYUPS,0.0,2024
-Julian Strawther,1631124,Fadeaway Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2024
-Julian Strawther,1631124,Floating Jump Shot,2PT Field Goal,4,0,FLOATING_SHOTS,0.0,2024
-Julian Strawther,1631124,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2024
-Julian Strawther,1631124,Jump Shot,3PT Field Goal,59,13,JUMP_SHOTS,0.3305084745762712,2024
-Julian Strawther,1631124,Pullup Jump Shot,2PT Field Goal,4,1,JUMP_SHOTS,0.25,2024
-Julian Strawther,1631124,Pullup Jump Shot,3PT Field Goal,8,3,JUMP_SHOTS,0.5625,2024
-Julian Strawther,1631124,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2024
-Julian Strawther,1631124,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Julian Strawther,1631124,Running Jump Shot,3PT Field Goal,9,5,JUMP_SHOTS,0.8333333333333334,2024
-Julian Strawther,1631124,Standard Layup,2PT Field Goal,5,4,LAYUPS,0.8,2024
-Julian Strawther,1631124,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2024
-Julian Strawther,1631124,Running Jump Shot,3PT Field Goal,4,1,JUMP_SHOTS,0.375,2024
-Julian Strawther,1631124,Reverse Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Julian Strawther,1631124,Putback Layup,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Julian Strawther,1631124,Finger Roll,2PT Field Goal,1,0,LAYUPS,0.0,2025
-Julian Strawther,1631124,Standard Layup,2PT Field Goal,3,3,LAYUPS,1.0,2025
-Julian Strawther,1631124,Finger Roll,2PT Field Goal,7,4,LAYUPS,0.5714285714285714,2025
-Julian Strawther,1631124,Floating Jump Shot,2PT Field Goal,8,1,FLOATING_SHOTS,0.125,2025
-Julian Strawther,1631124,Floating Jump Shot,2PT Field Goal,30,13,FLOATING_SHOTS,0.4333333333333333,2025
-Julian Strawther,1631124,Driving Layup,2PT Field Goal,18,13,LAYUPS,0.7222222222222222,2025
-Julian Strawther,1631124,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Julian Strawther,1631124,Floating Jump Shot,2PT Field Goal,2,1,FLOATING_SHOTS,0.5,2025
-Julian Strawther,1631124,Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2025
-Julian Strawther,1631124,Jump Shot,3PT Field Goal,65,28,JUMP_SHOTS,0.6461538461538462,2025
-Julian Strawther,1631124,Pullup Jump Shot,3PT Field Goal,8,1,JUMP_SHOTS,0.1875,2025
-Julian Strawther,1631124,Putback Dunk,2PT Field Goal,1,1,DUNKS,1.0,2025
-Julian Strawther,1631124,Putback Layup,2PT Field Goal,2,2,LAYUPS,1.0,2025
-Julian Strawther,1631124,Reverse Layup,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Julian Strawther,1631124,Alley Oop Dunk,2PT Field Goal,1,1,DUNKS,1.0,2025
-Julian Strawther,1631124,Alley Oop Layup,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Julian Strawther,1631124,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2025
-Julian Strawther,1631124,Finger Roll,2PT Field Goal,2,1,LAYUPS,0.5,2025
-Julian Strawther,1631124,Running Jump Shot,3PT Field Goal,9,2,JUMP_SHOTS,0.3333333333333333,2025
-Julian Strawther,1631124,Standard Layup,2PT Field Goal,10,5,LAYUPS,0.5,2025
-Julian Strawther,1631124,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
-Julian Strawther,1631124,Running Jump Shot,3PT Field Goal,2,2,JUMP_SHOTS,1.5,2025
-Julian Strawther,1631124,Reverse Layup,2PT Field Goal,2,1,LAYUPS,0.5,2025
-Julian Strawther,1631124,Step Back Jump Shot,3PT Field Goal,6,3,JUMP_SHOTS,0.75,2025
-Julian Strawther,1631124,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
-Julian Strawther,1631124,Turnaround Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2025
-Julian Strawther,1631124,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Julian Strawther,1631124,Alley Oop Layup,2PT Field Goal,1,0,Alley Oop Layup shot,LAYUPS,0.0,2024
+Julian Strawther,1631124,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2024
+Julian Strawther,1631124,Standard Layup,2PT Field Goal,2,1,Cutting Layup Shot,LAYUPS,0.5,2024
+Julian Strawther,1631124,Finger Roll,2PT Field Goal,1,0,Driving Finger Roll Layup Shot,LAYUPS,0.0,2024
+Julian Strawther,1631124,Floating Jump Shot,2PT Field Goal,4,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.5,2024
+Julian Strawther,1631124,Floating Jump Shot,2PT Field Goal,12,3,Driving Floating Jump Shot,FLOATING_SHOTS,0.25,2024
+Julian Strawther,1631124,Driving Hook Shot,2PT Field Goal,1,1,Driving Hook Shot,POST_MOVES,1.0,2024
+Julian Strawther,1631124,Driving Layup,2PT Field Goal,8,4,Driving Layup Shot,LAYUPS,0.5,2024
+Julian Strawther,1631124,Driving Layup,2PT Field Goal,2,0,Driving Reverse Layup Shot,LAYUPS,0.0,2024
+Julian Strawther,1631124,Fadeaway Jump Shot,3PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.5,2024
+Julian Strawther,1631124,Floating Jump Shot,2PT Field Goal,4,0,Floating Jump shot,FLOATING_SHOTS,0.0,2024
+Julian Strawther,1631124,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2024
+Julian Strawther,1631124,Jump Shot,3PT Field Goal,59,13,Jump Shot,JUMP_SHOTS,0.3305084745762712,2024
+Julian Strawther,1631124,Pullup Jump Shot,2PT Field Goal,4,1,Pullup Jump shot,JUMP_SHOTS,0.25,2024
+Julian Strawther,1631124,Pullup Jump Shot,3PT Field Goal,8,3,Pullup Jump shot,JUMP_SHOTS,0.5625,2024
+Julian Strawther,1631124,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2024
+Julian Strawther,1631124,Finger Roll,2PT Field Goal,1,1,Running Finger Roll Layup Shot,LAYUPS,1.0,2024
+Julian Strawther,1631124,Running Jump Shot,3PT Field Goal,9,5,Running Jump Shot,JUMP_SHOTS,0.8333333333333334,2024
+Julian Strawther,1631124,Standard Layup,2PT Field Goal,5,4,Running Layup Shot,LAYUPS,0.8,2024
+Julian Strawther,1631124,Running Jump Shot,2PT Field Goal,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,1.0,2024
+Julian Strawther,1631124,Running Jump Shot,3PT Field Goal,4,1,Running Pull-Up Jump Shot,JUMP_SHOTS,0.375,2024
+Julian Strawther,1631124,Reverse Layup,2PT Field Goal,1,1,Running Reverse Layup Shot,LAYUPS,1.0,2024
+Julian Strawther,1631124,Putback Layup,2PT Field Goal,1,0,Tip Layup Shot,LAYUPS,0.0,2024
+Julian Strawther,1631124,Finger Roll,2PT Field Goal,1,0,Cutting Finger Roll Layup Shot,LAYUPS,0.0,2025
+Julian Strawther,1631124,Standard Layup,2PT Field Goal,3,3,Cutting Layup Shot,LAYUPS,1.0,2025
+Julian Strawther,1631124,Finger Roll,2PT Field Goal,7,4,Driving Finger Roll Layup Shot,LAYUPS,0.5714285714285714,2025
+Julian Strawther,1631124,Floating Jump Shot,2PT Field Goal,8,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.125,2025
+Julian Strawther,1631124,Floating Jump Shot,2PT Field Goal,30,13,Driving Floating Jump Shot,FLOATING_SHOTS,0.4333333333333333,2025
+Julian Strawther,1631124,Driving Layup,2PT Field Goal,18,13,Driving Layup Shot,LAYUPS,0.7222222222222222,2025
+Julian Strawther,1631124,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2025
+Julian Strawther,1631124,Floating Jump Shot,2PT Field Goal,2,1,Floating Jump shot,FLOATING_SHOTS,0.5,2025
+Julian Strawther,1631124,Jump Shot,3PT Field Goal,2,1,Jump Bank Shot,JUMP_SHOTS,0.75,2025
+Julian Strawther,1631124,Jump Shot,3PT Field Goal,65,28,Jump Shot,JUMP_SHOTS,0.6461538461538462,2025
+Julian Strawther,1631124,Pullup Jump Shot,3PT Field Goal,8,1,Pullup Jump shot,JUMP_SHOTS,0.1875,2025
+Julian Strawther,1631124,Putback Dunk,2PT Field Goal,1,1,Putback Dunk Shot,DUNKS,1.0,2025
+Julian Strawther,1631124,Putback Layup,2PT Field Goal,2,2,Putback Layup Shot,LAYUPS,1.0,2025
+Julian Strawther,1631124,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2025
+Julian Strawther,1631124,Alley Oop Dunk,2PT Field Goal,1,1,Running Alley Oop Dunk Shot,DUNKS,1.0,2025
+Julian Strawther,1631124,Alley Oop Layup,2PT Field Goal,1,1,Running Alley Oop Layup Shot,LAYUPS,1.0,2025
+Julian Strawther,1631124,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2025
+Julian Strawther,1631124,Finger Roll,2PT Field Goal,2,1,Running Finger Roll Layup Shot,LAYUPS,0.5,2025
+Julian Strawther,1631124,Running Jump Shot,3PT Field Goal,9,2,Running Jump Shot,JUMP_SHOTS,0.3333333333333333,2025
+Julian Strawther,1631124,Standard Layup,2PT Field Goal,10,5,Running Layup Shot,LAYUPS,0.5,2025
+Julian Strawther,1631124,Running Jump Shot,2PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2025
+Julian Strawther,1631124,Running Jump Shot,3PT Field Goal,2,2,Running Pull-Up Jump Shot,JUMP_SHOTS,1.5,2025
+Julian Strawther,1631124,Reverse Layup,2PT Field Goal,2,1,Running Reverse Layup Shot,LAYUPS,0.5,2025
+Julian Strawther,1631124,Step Back Jump Shot,3PT Field Goal,6,3,Step Back Jump shot,JUMP_SHOTS,0.75,2025
+Julian Strawther,1631124,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2025
+Julian Strawther,1631124,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2025
+Julian Strawther,1631124,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2025

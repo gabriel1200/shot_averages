@@ -1,23 +1,23 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Austin Daye,201948,Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2012
-Austin Daye,201948,Jump Shot,2PT Field Goal,5,1,JUMP_SHOTS,0.2,2012
-Austin Daye,201948,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,2012
-Austin Daye,201948,Standard Layup,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2012
-Austin Daye,201948,Pullup Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2012
-Austin Daye,201948,Reverse Layup,2PT Field Goal,1,1,LAYUPS,1.0,2012
-Austin Daye,201948,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2012
-Austin Daye,201948,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2012
-Austin Daye,201948,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2013
-Austin Daye,201948,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2013
-Austin Daye,201948,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2013
-Austin Daye,201948,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2013
-Austin Daye,201948,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2013
-Austin Daye,201948,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2013
-Austin Daye,201948,Jump Shot,2PT Field Goal,4,2,JUMP_SHOTS,0.5,2014
-Austin Daye,201948,Jump Shot,3PT Field Goal,8,3,JUMP_SHOTS,0.5625,2014
-Austin Daye,201948,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2014
-Austin Daye,201948,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2014
-Austin Daye,201948,Floating Jump Shot,2PT Field Goal,2,1,FLOATING_SHOTS,0.5,2015
-Austin Daye,201948,Jump Shot,2PT Field Goal,10,3,JUMP_SHOTS,0.3,2015
-Austin Daye,201948,Jump Shot,3PT Field Goal,13,5,JUMP_SHOTS,0.5769230769230769,2015
-Austin Daye,201948,Pullup Jump Shot,2PT Field Goal,4,3,JUMP_SHOTS,0.75,2015
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Austin Daye,201948,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2012
+Austin Daye,201948,Jump Shot,2PT Field Goal,5,1,Jump Shot,JUMP_SHOTS,0.2,2012
+Austin Daye,201948,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2012
+Austin Daye,201948,Standard Layup,2PT Field Goal,3,1,Layup Shot,LAYUPS,0.3333333333333333,2012
+Austin Daye,201948,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2012
+Austin Daye,201948,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2012
+Austin Daye,201948,Running Jump Shot,2PT Field Goal,1,0,Running Bank shot,JUMP_SHOTS,0.0,2012
+Austin Daye,201948,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,1.0,2012
+Austin Daye,201948,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2013
+Austin Daye,201948,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Bank shot,JUMP_SHOTS,1.0,2013
+Austin Daye,201948,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2013
+Austin Daye,201948,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2013
+Austin Daye,201948,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2013
+Austin Daye,201948,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2013
+Austin Daye,201948,Jump Shot,2PT Field Goal,4,2,Jump Shot,JUMP_SHOTS,0.5,2014
+Austin Daye,201948,Jump Shot,3PT Field Goal,8,3,Jump Shot,JUMP_SHOTS,0.5625,2014
+Austin Daye,201948,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Bank shot,JUMP_SHOTS,1.0,2014
+Austin Daye,201948,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2014
+Austin Daye,201948,Floating Jump Shot,2PT Field Goal,2,1,Floating Jump shot,FLOATING_SHOTS,0.5,2015
+Austin Daye,201948,Jump Shot,2PT Field Goal,10,3,Jump Shot,JUMP_SHOTS,0.3,2015
+Austin Daye,201948,Jump Shot,3PT Field Goal,13,5,Jump Shot,JUMP_SHOTS,0.5769230769230769,2015
+Austin Daye,201948,Pullup Jump Shot,2PT Field Goal,4,3,Pullup Jump shot,JUMP_SHOTS,0.75,2015

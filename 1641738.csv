@@ -1,15 +1,15 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Kobe Brown,1641738,Specialty Dunk,2PT Field Goal,1,1,DUNKS,1.0,2024
-Kobe Brown,1641738,Floating Jump Shot,2PT Field Goal,2,1,FLOATING_SHOTS,0.5,2024
-Kobe Brown,1641738,Driving Layup,2PT Field Goal,2,1,LAYUPS,0.5,2024
-Kobe Brown,1641738,Jump Shot,3PT Field Goal,16,6,JUMP_SHOTS,0.5625,2024
-Kobe Brown,1641738,Pullup Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2024
-Kobe Brown,1641738,Putback Layup,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Kobe Brown,1641738,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Kobe Brown,1641738,Putback Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Kobe Brown,1641738,Specialty Dunk,2PT Field Goal,1,1,DUNKS,1.0,2025
-Kobe Brown,1641738,Finger Roll,2PT Field Goal,2,2,LAYUPS,1.0,2025
-Kobe Brown,1641738,Driving Layup,2PT Field Goal,1,0,LAYUPS,0.0,2025
-Kobe Brown,1641738,Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2025
-Kobe Brown,1641738,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Kobe Brown,1641738,Putback Layup,2PT Field Goal,1,0,LAYUPS,0.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Kobe Brown,1641738,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2024
+Kobe Brown,1641738,Floating Jump Shot,2PT Field Goal,2,1,Driving Floating Jump Shot,FLOATING_SHOTS,0.5,2024
+Kobe Brown,1641738,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2024
+Kobe Brown,1641738,Jump Shot,3PT Field Goal,16,6,Jump Shot,JUMP_SHOTS,0.5625,2024
+Kobe Brown,1641738,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2024
+Kobe Brown,1641738,Putback Layup,2PT Field Goal,1,0,Putback Layup Shot,LAYUPS,0.0,2024
+Kobe Brown,1641738,Finger Roll,2PT Field Goal,1,1,Running Finger Roll Layup Shot,LAYUPS,1.0,2024
+Kobe Brown,1641738,Putback Layup,2PT Field Goal,1,1,Tip Layup Shot,LAYUPS,1.0,2024
+Kobe Brown,1641738,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2025
+Kobe Brown,1641738,Finger Roll,2PT Field Goal,2,2,Driving Finger Roll Layup Shot,LAYUPS,1.0,2025
+Kobe Brown,1641738,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2025
+Kobe Brown,1641738,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,2025
+Kobe Brown,1641738,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2025
+Kobe Brown,1641738,Putback Layup,2PT Field Goal,1,0,Putback Layup Shot,LAYUPS,0.0,2025

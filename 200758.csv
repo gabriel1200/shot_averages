@@ -1,39 +1,39 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Ronnie Brewer,200758,Jump Shot,2PT Field Goal,7,2,JUMP_SHOTS,0.2857142857142857,2010
-Ronnie Brewer,200758,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2010
-Ronnie Brewer,200758,Standard Layup,2PT Field Goal,2,1,LAYUPS,0.5,2010
-Ronnie Brewer,200758,Reverse Layup,2PT Field Goal,1,1,LAYUPS,1.0,2010
-Ronnie Brewer,200758,Driving Dunk,2PT Field Goal,1,1,DUNKS,1.0,2011
-Ronnie Brewer,200758,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2011
-Ronnie Brewer,200758,Driving Layup,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2011
-Ronnie Brewer,200758,Standard Dunk,2PT Field Goal,7,6,DUNKS,0.8571428571428571,2011
-Ronnie Brewer,200758,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2011
-Ronnie Brewer,200758,Jump Shot,2PT Field Goal,45,20,JUMP_SHOTS,0.4444444444444444,2011
-Ronnie Brewer,200758,Jump Shot,3PT Field Goal,3,1,JUMP_SHOTS,0.5,2011
-Ronnie Brewer,200758,Standard Layup,2PT Field Goal,12,7,LAYUPS,0.5833333333333334,2011
-Ronnie Brewer,200758,Pullup Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2011
-Ronnie Brewer,200758,Putback Dunk,2PT Field Goal,2,2,DUNKS,1.0,2011
-Ronnie Brewer,200758,Reverse Dunk,2PT Field Goal,2,2,DUNKS,1.0,2011
-Ronnie Brewer,200758,Reverse Layup,2PT Field Goal,5,3,LAYUPS,0.6,2011
-Ronnie Brewer,200758,Tip Shot,2PT Field Goal,2,1,TIP_SHOTS,0.5,2011
-Ronnie Brewer,200758,Driving Dunk,2PT Field Goal,1,1,DUNKS,1.0,2012
-Ronnie Brewer,200758,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2012
-Ronnie Brewer,200758,Standard Dunk,2PT Field Goal,3,3,DUNKS,1.0,2012
-Ronnie Brewer,200758,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2012
-Ronnie Brewer,200758,Jump Shot,2PT Field Goal,35,14,JUMP_SHOTS,0.4,2012
-Ronnie Brewer,200758,Jump Shot,3PT Field Goal,11,3,JUMP_SHOTS,0.4090909090909091,2012
-Ronnie Brewer,200758,Standard Layup,2PT Field Goal,12,6,LAYUPS,0.5,2012
-Ronnie Brewer,200758,Pullup Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,2012
-Ronnie Brewer,200758,Putback Layup,2PT Field Goal,2,2,LAYUPS,1.0,2012
-Ronnie Brewer,200758,Reverse Dunk,2PT Field Goal,1,1,DUNKS,1.0,2012
-Ronnie Brewer,200758,Reverse Layup,2PT Field Goal,2,2,LAYUPS,1.0,2012
-Ronnie Brewer,200758,Tip Shot,2PT Field Goal,2,1,TIP_SHOTS,0.5,2012
-Ronnie Brewer,200758,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2013
-Ronnie Brewer,200758,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2013
-Ronnie Brewer,200758,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2013
-Ronnie Brewer,200758,Jump Shot,2PT Field Goal,10,2,JUMP_SHOTS,0.2,2013
-Ronnie Brewer,200758,Jump Shot,3PT Field Goal,7,3,JUMP_SHOTS,0.6428571428571429,2013
-Ronnie Brewer,200758,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2013
-Ronnie Brewer,200758,Putback Dunk,2PT Field Goal,1,0,DUNKS,0.0,2013
-Ronnie Brewer,200758,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,2014
-Ronnie Brewer,200758,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2014
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Ronnie Brewer,200758,Jump Shot,2PT Field Goal,7,2,Jump Shot,JUMP_SHOTS,0.2857142857142857,2010
+Ronnie Brewer,200758,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2010
+Ronnie Brewer,200758,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2010
+Ronnie Brewer,200758,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2010
+Ronnie Brewer,200758,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2011
+Ronnie Brewer,200758,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2011
+Ronnie Brewer,200758,Driving Layup,2PT Field Goal,3,2,Driving Layup Shot,LAYUPS,0.6666666666666666,2011
+Ronnie Brewer,200758,Standard Dunk,2PT Field Goal,7,6,Dunk Shot,DUNKS,0.8571428571428571,2011
+Ronnie Brewer,200758,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2011
+Ronnie Brewer,200758,Jump Shot,2PT Field Goal,45,20,Jump Shot,JUMP_SHOTS,0.4444444444444444,2011
+Ronnie Brewer,200758,Jump Shot,3PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.5,2011
+Ronnie Brewer,200758,Standard Layup,2PT Field Goal,12,7,Layup Shot,LAYUPS,0.5833333333333334,2011
+Ronnie Brewer,200758,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2011
+Ronnie Brewer,200758,Putback Dunk,2PT Field Goal,2,2,Putback Dunk Shot,DUNKS,1.0,2011
+Ronnie Brewer,200758,Reverse Dunk,2PT Field Goal,2,2,Reverse Dunk Shot,DUNKS,1.0,2011
+Ronnie Brewer,200758,Reverse Layup,2PT Field Goal,5,3,Reverse Layup Shot,LAYUPS,0.6,2011
+Ronnie Brewer,200758,Tip Shot,2PT Field Goal,2,1,Tip Shot,TIP_SHOTS,0.5,2011
+Ronnie Brewer,200758,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2012
+Ronnie Brewer,200758,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2012
+Ronnie Brewer,200758,Standard Dunk,2PT Field Goal,3,3,Dunk Shot,DUNKS,1.0,2012
+Ronnie Brewer,200758,Jump Shot,2PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2012
+Ronnie Brewer,200758,Jump Shot,2PT Field Goal,35,14,Jump Shot,JUMP_SHOTS,0.4,2012
+Ronnie Brewer,200758,Jump Shot,3PT Field Goal,11,3,Jump Shot,JUMP_SHOTS,0.4090909090909091,2012
+Ronnie Brewer,200758,Standard Layup,2PT Field Goal,12,6,Layup Shot,LAYUPS,0.5,2012
+Ronnie Brewer,200758,Pullup Jump Shot,2PT Field Goal,2,2,Pullup Jump shot,JUMP_SHOTS,1.0,2012
+Ronnie Brewer,200758,Putback Layup,2PT Field Goal,2,2,Putback Layup Shot,LAYUPS,1.0,2012
+Ronnie Brewer,200758,Reverse Dunk,2PT Field Goal,1,1,Reverse Dunk Shot,DUNKS,1.0,2012
+Ronnie Brewer,200758,Reverse Layup,2PT Field Goal,2,2,Reverse Layup Shot,LAYUPS,1.0,2012
+Ronnie Brewer,200758,Tip Shot,2PT Field Goal,2,1,Tip Shot,TIP_SHOTS,0.5,2012
+Ronnie Brewer,200758,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2013
+Ronnie Brewer,200758,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2013
+Ronnie Brewer,200758,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2013
+Ronnie Brewer,200758,Jump Shot,2PT Field Goal,10,2,Jump Shot,JUMP_SHOTS,0.2,2013
+Ronnie Brewer,200758,Jump Shot,3PT Field Goal,7,3,Jump Shot,JUMP_SHOTS,0.6428571428571429,2013
+Ronnie Brewer,200758,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2013
+Ronnie Brewer,200758,Putback Dunk,2PT Field Goal,1,0,Putback Dunk Shot,DUNKS,0.0,2013
+Ronnie Brewer,200758,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2014
+Ronnie Brewer,200758,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2014

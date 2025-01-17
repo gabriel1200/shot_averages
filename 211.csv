@@ -1,6 +1,6 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Eric Mobley,211,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,1997
-Eric Mobley,211,Jump Shot,2PT Field Goal,8,0,JUMP_SHOTS,0.0,1997
-Eric Mobley,211,Standard Layup,2PT Field Goal,5,1,LAYUPS,0.2,1997
-Eric Mobley,211,Standard Dunk,2PT Field Goal,4,4,DUNKS,1.0,1997
-Eric Mobley,211,Tip Shot,2PT Field Goal,1,1,TIP_SHOTS,1.0,1997
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Eric Mobley,211,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,1997
+Eric Mobley,211,Jump Shot,2PT Field Goal,8,0,Jump Shot,JUMP_SHOTS,0.0,1997
+Eric Mobley,211,Standard Layup,2PT Field Goal,5,1,Layup Shot,LAYUPS,0.2,1997
+Eric Mobley,211,Standard Dunk,2PT Field Goal,4,4,Slam Dunk Shot,DUNKS,1.0,1997
+Eric Mobley,211,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,1997

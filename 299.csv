@@ -1,19 +1,19 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Glenn Robinson,299,Driving Dunk,2PT Field Goal,1,1,DUNKS,1.0,1997
-Glenn Robinson,299,Driving Layup,2PT Field Goal,8,7,LAYUPS,0.875,1997
-Glenn Robinson,299,Standard Dunk,2PT Field Goal,10,8,DUNKS,0.8,1997
-Glenn Robinson,299,Hook Shot,2PT Field Goal,3,2,POST_MOVES,0.6666666666666666,1997
-Glenn Robinson,299,Jump Shot,2PT Field Goal,234,107,JUMP_SHOTS,0.4572649572649572,1997
-Glenn Robinson,299,Jump Shot,3PT Field Goal,50,17,JUMP_SHOTS,0.51,1997
-Glenn Robinson,299,Standard Layup,2PT Field Goal,74,26,LAYUPS,0.3513513513513513,1997
-Glenn Robinson,299,Running Jump Shot,2PT Field Goal,3,3,JUMP_SHOTS,1.0,1997
-Glenn Robinson,299,Tip Shot,2PT Field Goal,6,4,TIP_SHOTS,0.6666666666666666,1997
-Glenn Robinson,299,Jump Shot,2PT Field Goal,10,7,JUMP_SHOTS,0.7,1998
-Glenn Robinson,299,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,1998
-Glenn Robinson,299,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,1998
-Glenn Robinson,299,Driving Layup,2PT Field Goal,1,0,LAYUPS,0.0,1999
-Glenn Robinson,299,Jump Shot,2PT Field Goal,23,8,JUMP_SHOTS,0.3478260869565217,1999
-Glenn Robinson,299,Jump Shot,3PT Field Goal,3,0,JUMP_SHOTS,0.0,1999
-Glenn Robinson,299,Standard Layup,2PT Field Goal,6,2,LAYUPS,0.3333333333333333,1999
-Glenn Robinson,299,Tip Shot,2PT Field Goal,1,1,TIP_SHOTS,1.0,1999
-Glenn Robinson,299,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2000
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Glenn Robinson,299,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,1997
+Glenn Robinson,299,Driving Layup,2PT Field Goal,8,7,Driving Layup Shot,LAYUPS,0.875,1997
+Glenn Robinson,299,Standard Dunk,2PT Field Goal,10,8,Dunk Shot,DUNKS,0.8,1997
+Glenn Robinson,299,Hook Shot,2PT Field Goal,3,2,Hook Shot,POST_MOVES,0.6666666666666666,1997
+Glenn Robinson,299,Jump Shot,2PT Field Goal,234,107,Jump Shot,JUMP_SHOTS,0.4572649572649572,1997
+Glenn Robinson,299,Jump Shot,3PT Field Goal,50,17,Jump Shot,JUMP_SHOTS,0.51,1997
+Glenn Robinson,299,Standard Layup,2PT Field Goal,74,26,Layup Shot,LAYUPS,0.3513513513513513,1997
+Glenn Robinson,299,Running Jump Shot,2PT Field Goal,3,3,Running Jump Shot,JUMP_SHOTS,1.0,1997
+Glenn Robinson,299,Tip Shot,2PT Field Goal,6,4,Tip Shot,TIP_SHOTS,0.6666666666666666,1997
+Glenn Robinson,299,Jump Shot,2PT Field Goal,10,7,Jump Shot,JUMP_SHOTS,0.7,1998
+Glenn Robinson,299,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1998
+Glenn Robinson,299,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,1998
+Glenn Robinson,299,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,1999
+Glenn Robinson,299,Jump Shot,2PT Field Goal,23,8,Jump Shot,JUMP_SHOTS,0.3478260869565217,1999
+Glenn Robinson,299,Jump Shot,3PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,1999
+Glenn Robinson,299,Standard Layup,2PT Field Goal,6,2,Layup Shot,LAYUPS,0.3333333333333333,1999
+Glenn Robinson,299,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,1999
+Glenn Robinson,299,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2000

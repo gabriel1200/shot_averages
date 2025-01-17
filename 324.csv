@@ -1,15 +1,15 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Anthony Peeler,324,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,1997
-Anthony Peeler,324,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,1997
-Anthony Peeler,324,Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,1997
-Anthony Peeler,324,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,1997
-Anthony Peeler,324,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,1998
-Anthony Peeler,324,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,1998
-Anthony Peeler,324,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,1998
-Anthony Peeler,324,Jump Shot,2PT Field Goal,19,4,JUMP_SHOTS,0.2105263157894736,1998
-Anthony Peeler,324,Jump Shot,3PT Field Goal,11,3,JUMP_SHOTS,0.4090909090909091,1998
-Anthony Peeler,324,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,1998
-Anthony Peeler,324,Running Jump Shot,2PT Field Goal,4,3,JUMP_SHOTS,0.75,1998
-Anthony Peeler,324,Jump Shot,3PT Field Goal,5,0,JUMP_SHOTS,0.0,1999
-Anthony Peeler,324,Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2003
-Anthony Peeler,324,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2003
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Anthony Peeler,324,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,1997
+Anthony Peeler,324,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,1997
+Anthony Peeler,324,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,1997
+Anthony Peeler,324,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,1997
+Anthony Peeler,324,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,1998
+Anthony Peeler,324,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,1998
+Anthony Peeler,324,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,1998
+Anthony Peeler,324,Jump Shot,2PT Field Goal,19,4,Jump Shot,JUMP_SHOTS,0.2105263157894736,1998
+Anthony Peeler,324,Jump Shot,3PT Field Goal,11,3,Jump Shot,JUMP_SHOTS,0.4090909090909091,1998
+Anthony Peeler,324,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,1998
+Anthony Peeler,324,Running Jump Shot,2PT Field Goal,4,3,Running Jump Shot,JUMP_SHOTS,0.75,1998
+Anthony Peeler,324,Jump Shot,3PT Field Goal,5,0,Jump Shot,JUMP_SHOTS,0.0,1999
+Anthony Peeler,324,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2003
+Anthony Peeler,324,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2003

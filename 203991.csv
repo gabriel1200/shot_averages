@@ -1,48 +1,48 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Clint Capela,203991,Alley Oop Dunk,2PT Field Goal,17,16,DUNKS,0.9411764705882352,2024
-Clint Capela,203991,Alley Oop Layup,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2024
-Clint Capela,203991,Specialty Dunk,2PT Field Goal,15,14,DUNKS,0.9333333333333332,2024
-Clint Capela,203991,Finger Roll,2PT Field Goal,4,4,LAYUPS,1.0,2024
-Clint Capela,203991,Standard Layup,2PT Field Goal,12,3,LAYUPS,0.25,2024
-Clint Capela,203991,Driving Dunk,2PT Field Goal,3,3,DUNKS,1.0,2024
-Clint Capela,203991,Floating Jump Shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2024
-Clint Capela,203991,Driving Hook Shot,2PT Field Goal,8,4,POST_MOVES,0.5,2024
-Clint Capela,203991,Driving Layup,2PT Field Goal,4,1,LAYUPS,0.25,2024
-Clint Capela,203991,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Clint Capela,203991,Standard Dunk,2PT Field Goal,12,11,DUNKS,0.9166666666666666,2024
-Clint Capela,203991,Floating Jump Shot,2PT Field Goal,6,2,FLOATING_SHOTS,0.3333333333333333,2024
-Clint Capela,203991,Hook Shot,2PT Field Goal,16,7,POST_MOVES,0.4375,2024
-Clint Capela,203991,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2024
-Clint Capela,203991,Standard Layup,2PT Field Goal,21,6,LAYUPS,0.2857142857142857,2024
-Clint Capela,203991,Putback Dunk,2PT Field Goal,3,3,DUNKS,1.0,2024
-Clint Capela,203991,Putback Layup,2PT Field Goal,27,14,LAYUPS,0.5185185185185185,2024
-Clint Capela,203991,Reverse Layup,2PT Field Goal,8,3,LAYUPS,0.375,2024
-Clint Capela,203991,Alley Oop Dunk,2PT Field Goal,2,2,DUNKS,1.0,2024
-Clint Capela,203991,Alley Oop Layup,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Clint Capela,203991,Standard Dunk,2PT Field Goal,6,5,DUNKS,0.8333333333333334,2024
-Clint Capela,203991,Standard Layup,2PT Field Goal,9,5,LAYUPS,0.5555555555555556,2024
-Clint Capela,203991,Reverse Layup,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Clint Capela,203991,Specialty Dunk,2PT Field Goal,2,1,DUNKS,0.5,2024
-Clint Capela,203991,Putback Layup,2PT Field Goal,49,20,LAYUPS,0.4081632653061224,2024
-Clint Capela,203991,Turnaround Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2024
-Clint Capela,203991,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2024
-Clint Capela,203991,Turnaround Hook Shot,2PT Field Goal,21,11,POST_MOVES,0.5238095238095238,2024
-Clint Capela,203991,Alley Oop Dunk,2PT Field Goal,10,8,DUNKS,0.8,2025
-Clint Capela,203991,Alley Oop Layup,2PT Field Goal,7,2,LAYUPS,0.2857142857142857,2025
-Clint Capela,203991,Specialty Dunk,2PT Field Goal,7,7,DUNKS,1.0,2025
-Clint Capela,203991,Finger Roll,2PT Field Goal,1,0,LAYUPS,0.0,2025
-Clint Capela,203991,Standard Layup,2PT Field Goal,8,4,LAYUPS,0.5,2025
-Clint Capela,203991,Driving Dunk,2PT Field Goal,1,1,DUNKS,1.0,2025
-Clint Capela,203991,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2025
-Clint Capela,203991,Standard Dunk,2PT Field Goal,3,0,DUNKS,0.0,2025
-Clint Capela,203991,Floating Jump Shot,2PT Field Goal,7,2,FLOATING_SHOTS,0.2857142857142857,2025
-Clint Capela,203991,Hook Shot,2PT Field Goal,18,6,POST_MOVES,0.3333333333333333,2025
-Clint Capela,203991,Standard Layup,2PT Field Goal,4,4,LAYUPS,1.0,2025
-Clint Capela,203991,Putback Layup,2PT Field Goal,11,7,LAYUPS,0.6363636363636364,2025
-Clint Capela,203991,Reverse Layup,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2025
-Clint Capela,203991,Alley Oop Dunk,2PT Field Goal,2,1,DUNKS,0.5,2025
-Clint Capela,203991,Standard Dunk,2PT Field Goal,4,4,DUNKS,1.0,2025
-Clint Capela,203991,Standard Layup,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2025
-Clint Capela,203991,Specialty Dunk,2PT Field Goal,1,1,DUNKS,1.0,2025
-Clint Capela,203991,Putback Layup,2PT Field Goal,10,3,LAYUPS,0.3,2025
-Clint Capela,203991,Turnaround Hook Shot,2PT Field Goal,6,2,POST_MOVES,0.3333333333333333,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Clint Capela,203991,Alley Oop Dunk,2PT Field Goal,17,16,Alley Oop Dunk Shot,DUNKS,0.9411764705882352,2024
+Clint Capela,203991,Alley Oop Layup,2PT Field Goal,3,1,Alley Oop Layup shot,LAYUPS,0.3333333333333333,2024
+Clint Capela,203991,Specialty Dunk,2PT Field Goal,15,14,Cutting Dunk Shot,DUNKS,0.9333333333333332,2024
+Clint Capela,203991,Finger Roll,2PT Field Goal,4,4,Cutting Finger Roll Layup Shot,LAYUPS,1.0,2024
+Clint Capela,203991,Standard Layup,2PT Field Goal,12,3,Cutting Layup Shot,LAYUPS,0.25,2024
+Clint Capela,203991,Driving Dunk,2PT Field Goal,3,3,Driving Dunk Shot,DUNKS,1.0,2024
+Clint Capela,203991,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2024
+Clint Capela,203991,Driving Hook Shot,2PT Field Goal,8,4,Driving Hook Shot,POST_MOVES,0.5,2024
+Clint Capela,203991,Driving Layup,2PT Field Goal,4,1,Driving Layup Shot,LAYUPS,0.25,2024
+Clint Capela,203991,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2024
+Clint Capela,203991,Standard Dunk,2PT Field Goal,12,11,Dunk Shot,DUNKS,0.9166666666666666,2024
+Clint Capela,203991,Floating Jump Shot,2PT Field Goal,6,2,Floating Jump shot,FLOATING_SHOTS,0.3333333333333333,2024
+Clint Capela,203991,Hook Shot,2PT Field Goal,16,7,Hook Shot,POST_MOVES,0.4375,2024
+Clint Capela,203991,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2024
+Clint Capela,203991,Standard Layup,2PT Field Goal,21,6,Layup Shot,LAYUPS,0.2857142857142857,2024
+Clint Capela,203991,Putback Dunk,2PT Field Goal,3,3,Putback Dunk Shot,DUNKS,1.0,2024
+Clint Capela,203991,Putback Layup,2PT Field Goal,27,14,Putback Layup Shot,LAYUPS,0.5185185185185185,2024
+Clint Capela,203991,Reverse Layup,2PT Field Goal,8,3,Reverse Layup Shot,LAYUPS,0.375,2024
+Clint Capela,203991,Alley Oop Dunk,2PT Field Goal,2,2,Running Alley Oop Dunk Shot,DUNKS,1.0,2024
+Clint Capela,203991,Alley Oop Layup,2PT Field Goal,1,0,Running Alley Oop Layup Shot,LAYUPS,0.0,2024
+Clint Capela,203991,Standard Dunk,2PT Field Goal,6,5,Running Dunk Shot,DUNKS,0.8333333333333334,2024
+Clint Capela,203991,Standard Layup,2PT Field Goal,9,5,Running Layup Shot,LAYUPS,0.5555555555555556,2024
+Clint Capela,203991,Reverse Layup,2PT Field Goal,1,0,Running Reverse Layup Shot,LAYUPS,0.0,2024
+Clint Capela,203991,Specialty Dunk,2PT Field Goal,2,1,Tip Dunk Shot,DUNKS,0.5,2024
+Clint Capela,203991,Putback Layup,2PT Field Goal,49,20,Tip Layup Shot,LAYUPS,0.4081632653061224,2024
+Clint Capela,203991,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Bank Hook Shot,POST_MOVES,1.0,2024
+Clint Capela,203991,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,1.0,2024
+Clint Capela,203991,Turnaround Hook Shot,2PT Field Goal,21,11,Turnaround Hook Shot,POST_MOVES,0.5238095238095238,2024
+Clint Capela,203991,Alley Oop Dunk,2PT Field Goal,10,8,Alley Oop Dunk Shot,DUNKS,0.8,2025
+Clint Capela,203991,Alley Oop Layup,2PT Field Goal,7,2,Alley Oop Layup shot,LAYUPS,0.2857142857142857,2025
+Clint Capela,203991,Specialty Dunk,2PT Field Goal,7,7,Cutting Dunk Shot,DUNKS,1.0,2025
+Clint Capela,203991,Finger Roll,2PT Field Goal,1,0,Cutting Finger Roll Layup Shot,LAYUPS,0.0,2025
+Clint Capela,203991,Standard Layup,2PT Field Goal,8,4,Cutting Layup Shot,LAYUPS,0.5,2025
+Clint Capela,203991,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2025
+Clint Capela,203991,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2025
+Clint Capela,203991,Standard Dunk,2PT Field Goal,3,0,Dunk Shot,DUNKS,0.0,2025
+Clint Capela,203991,Floating Jump Shot,2PT Field Goal,7,2,Floating Jump shot,FLOATING_SHOTS,0.2857142857142857,2025
+Clint Capela,203991,Hook Shot,2PT Field Goal,18,6,Hook Shot,POST_MOVES,0.3333333333333333,2025
+Clint Capela,203991,Standard Layup,2PT Field Goal,4,4,Layup Shot,LAYUPS,1.0,2025
+Clint Capela,203991,Putback Layup,2PT Field Goal,11,7,Putback Layup Shot,LAYUPS,0.6363636363636364,2025
+Clint Capela,203991,Reverse Layup,2PT Field Goal,3,2,Reverse Layup Shot,LAYUPS,0.6666666666666666,2025
+Clint Capela,203991,Alley Oop Dunk,2PT Field Goal,2,1,Running Alley Oop Dunk Shot,DUNKS,0.5,2025
+Clint Capela,203991,Standard Dunk,2PT Field Goal,4,4,Running Dunk Shot,DUNKS,1.0,2025
+Clint Capela,203991,Standard Layup,2PT Field Goal,3,2,Running Layup Shot,LAYUPS,0.6666666666666666,2025
+Clint Capela,203991,Specialty Dunk,2PT Field Goal,1,1,Tip Dunk Shot,DUNKS,1.0,2025
+Clint Capela,203991,Putback Layup,2PT Field Goal,10,3,Tip Layup Shot,LAYUPS,0.3,2025
+Clint Capela,203991,Turnaround Hook Shot,2PT Field Goal,6,2,Turnaround Hook Shot,POST_MOVES,0.3333333333333333,2025

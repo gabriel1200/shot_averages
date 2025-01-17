@@ -1,5 +1,5 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Xavier Moon,1629875,Floating Jump Shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2024
-Xavier Moon,1629875,Jump Shot,3PT Field Goal,3,0,JUMP_SHOTS,0.0,2024
-Xavier Moon,1629875,Pullup Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,0.6666666666666666,2024
-Xavier Moon,1629875,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Xavier Moon,1629875,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2024
+Xavier Moon,1629875,Jump Shot,3PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,2024
+Xavier Moon,1629875,Pullup Jump Shot,2PT Field Goal,3,2,Pullup Jump shot,JUMP_SHOTS,0.6666666666666666,2024
+Xavier Moon,1629875,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2024

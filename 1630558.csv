@@ -1,15 +1,15 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Davion Mitchell,1630558,Standard Layup,2PT Field Goal,2,2,LAYUPS,1.0,2024
-Davion Mitchell,1630558,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Davion Mitchell,1630558,Floating Jump Shot,2PT Field Goal,4,2,FLOATING_SHOTS,0.5,2024
-Davion Mitchell,1630558,Driving Layup,2PT Field Goal,6,2,LAYUPS,0.3333333333333333,2024
-Davion Mitchell,1630558,Driving Layup,2PT Field Goal,2,1,LAYUPS,0.5,2024
-Davion Mitchell,1630558,Floating Jump Shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2024
-Davion Mitchell,1630558,Jump Shot,3PT Field Goal,13,8,JUMP_SHOTS,0.9230769230769232,2024
-Davion Mitchell,1630558,Pullup Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,0.3333333333333333,2024
-Davion Mitchell,1630558,Pullup Jump Shot,3PT Field Goal,4,2,JUMP_SHOTS,0.75,2024
-Davion Mitchell,1630558,Running Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2024
-Davion Mitchell,1630558,Standard Layup,2PT Field Goal,2,2,LAYUPS,1.0,2024
-Davion Mitchell,1630558,Reverse Layup,2PT Field Goal,2,2,LAYUPS,1.0,2024
-Davion Mitchell,1630558,Step Back Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Davion Mitchell,1630558,Step Back Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Davion Mitchell,1630558,Standard Layup,2PT Field Goal,2,2,Cutting Layup Shot,LAYUPS,1.0,2024
+Davion Mitchell,1630558,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2024
+Davion Mitchell,1630558,Floating Jump Shot,2PT Field Goal,4,2,Driving Floating Jump Shot,FLOATING_SHOTS,0.5,2024
+Davion Mitchell,1630558,Driving Layup,2PT Field Goal,6,2,Driving Layup Shot,LAYUPS,0.3333333333333333,2024
+Davion Mitchell,1630558,Driving Layup,2PT Field Goal,2,1,Driving Reverse Layup Shot,LAYUPS,0.5,2024
+Davion Mitchell,1630558,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2024
+Davion Mitchell,1630558,Jump Shot,3PT Field Goal,13,8,Jump Shot,JUMP_SHOTS,0.9230769230769232,2024
+Davion Mitchell,1630558,Pullup Jump Shot,2PT Field Goal,3,1,Pullup Jump shot,JUMP_SHOTS,0.3333333333333333,2024
+Davion Mitchell,1630558,Pullup Jump Shot,3PT Field Goal,4,2,Pullup Jump shot,JUMP_SHOTS,0.75,2024
+Davion Mitchell,1630558,Running Jump Shot,3PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.75,2024
+Davion Mitchell,1630558,Standard Layup,2PT Field Goal,2,2,Running Layup Shot,LAYUPS,1.0,2024
+Davion Mitchell,1630558,Reverse Layup,2PT Field Goal,2,2,Running Reverse Layup Shot,LAYUPS,1.0,2024
+Davion Mitchell,1630558,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2024
+Davion Mitchell,1630558,Step Back Jump Shot,3PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2024

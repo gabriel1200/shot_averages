@@ -1,26 +1,26 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jarred Vanderbilt,1629020,Driving Layup,2PT Field Goal,1,0,LAYUPS,0.0,2021
-Jarred Vanderbilt,1629020,Standard Layup,2PT Field Goal,2,0,LAYUPS,0.0,2021
-Jarred Vanderbilt,1629020,Turnaround Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2021
-Jarred Vanderbilt,1629020,Specialty Dunk,2PT Field Goal,1,1,DUNKS,1.0,2023
-Jarred Vanderbilt,1629020,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2023
-Jarred Vanderbilt,1629020,Floating Jump Shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2023
-Jarred Vanderbilt,1629020,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2023
-Jarred Vanderbilt,1629020,Jump Shot,3PT Field Goal,2,2,JUMP_SHOTS,1.5,2023
-Jarred Vanderbilt,1629020,Putback Layup,2PT Field Goal,2,1,LAYUPS,0.5,2023
-Jarred Vanderbilt,1629020,Specialty Dunk,2PT Field Goal,8,7,DUNKS,0.875,2024
-Jarred Vanderbilt,1629020,Standard Layup,2PT Field Goal,10,7,LAYUPS,0.7,2024
-Jarred Vanderbilt,1629020,Floating Jump Shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2024
-Jarred Vanderbilt,1629020,Driving Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2024
-Jarred Vanderbilt,1629020,Driving Layup,2PT Field Goal,7,2,LAYUPS,0.2857142857142857,2024
-Jarred Vanderbilt,1629020,Standard Dunk,2PT Field Goal,3,3,DUNKS,1.0,2024
-Jarred Vanderbilt,1629020,Floating Jump Shot,2PT Field Goal,2,1,FLOATING_SHOTS,0.5,2024
-Jarred Vanderbilt,1629020,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2024
-Jarred Vanderbilt,1629020,Jump Shot,3PT Field Goal,14,5,JUMP_SHOTS,0.5357142857142857,2024
-Jarred Vanderbilt,1629020,Standard Layup,2PT Field Goal,8,4,LAYUPS,0.5,2024
-Jarred Vanderbilt,1629020,Putback Layup,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2024
-Jarred Vanderbilt,1629020,Standard Dunk,2PT Field Goal,5,5,DUNKS,1.0,2024
-Jarred Vanderbilt,1629020,Standard Layup,2PT Field Goal,4,1,LAYUPS,0.25,2024
-Jarred Vanderbilt,1629020,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Jarred Vanderbilt,1629020,Putback Layup,2PT Field Goal,2,1,LAYUPS,0.5,2024
-Jarred Vanderbilt,1629020,Turnaround Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Jarred Vanderbilt,1629020,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2021
+Jarred Vanderbilt,1629020,Standard Layup,2PT Field Goal,2,0,Layup Shot,LAYUPS,0.0,2021
+Jarred Vanderbilt,1629020,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Bank Hook Shot,POST_MOVES,0.0,2021
+Jarred Vanderbilt,1629020,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2023
+Jarred Vanderbilt,1629020,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2023
+Jarred Vanderbilt,1629020,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2023
+Jarred Vanderbilt,1629020,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2023
+Jarred Vanderbilt,1629020,Jump Shot,3PT Field Goal,2,2,Jump Shot,JUMP_SHOTS,1.5,2023
+Jarred Vanderbilt,1629020,Putback Layup,2PT Field Goal,2,1,Tip Layup Shot,LAYUPS,0.5,2023
+Jarred Vanderbilt,1629020,Specialty Dunk,2PT Field Goal,8,7,Cutting Dunk Shot,DUNKS,0.875,2024
+Jarred Vanderbilt,1629020,Standard Layup,2PT Field Goal,10,7,Cutting Layup Shot,LAYUPS,0.7,2024
+Jarred Vanderbilt,1629020,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2024
+Jarred Vanderbilt,1629020,Driving Hook Shot,2PT Field Goal,1,1,Driving Hook Shot,POST_MOVES,1.0,2024
+Jarred Vanderbilt,1629020,Driving Layup,2PT Field Goal,7,2,Driving Layup Shot,LAYUPS,0.2857142857142857,2024
+Jarred Vanderbilt,1629020,Standard Dunk,2PT Field Goal,3,3,Dunk Shot,DUNKS,1.0,2024
+Jarred Vanderbilt,1629020,Floating Jump Shot,2PT Field Goal,2,1,Floating Jump shot,FLOATING_SHOTS,0.5,2024
+Jarred Vanderbilt,1629020,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2024
+Jarred Vanderbilt,1629020,Jump Shot,3PT Field Goal,14,5,Jump Shot,JUMP_SHOTS,0.5357142857142857,2024
+Jarred Vanderbilt,1629020,Standard Layup,2PT Field Goal,8,4,Layup Shot,LAYUPS,0.5,2024
+Jarred Vanderbilt,1629020,Putback Layup,2PT Field Goal,3,2,Putback Layup Shot,LAYUPS,0.6666666666666666,2024
+Jarred Vanderbilt,1629020,Standard Dunk,2PT Field Goal,5,5,Running Dunk Shot,DUNKS,1.0,2024
+Jarred Vanderbilt,1629020,Standard Layup,2PT Field Goal,4,1,Running Layup Shot,LAYUPS,0.25,2024
+Jarred Vanderbilt,1629020,Running Jump Shot,2PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2024
+Jarred Vanderbilt,1629020,Putback Layup,2PT Field Goal,2,1,Tip Layup Shot,LAYUPS,0.5,2024
+Jarred Vanderbilt,1629020,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2024

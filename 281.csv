@@ -1,9 +1,9 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Scott Williams,281,Standard Dunk,2PT Field Goal,2,2,DUNKS,1.0,2000
-Scott Williams,281,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2000
-Scott Williams,281,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2000
-Scott Williams,281,Tip Shot,2PT Field Goal,1,0,TIP_SHOTS,0.0,2000
-Scott Williams,281,Jump Shot,2PT Field Goal,7,3,JUMP_SHOTS,0.4285714285714285,2001
-Scott Williams,281,Standard Layup,2PT Field Goal,2,0,LAYUPS,0.0,2001
-Scott Williams,281,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2002
-Scott Williams,281,Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,2002
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Scott Williams,281,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,2000
+Scott Williams,281,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2000
+Scott Williams,281,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2000
+Scott Williams,281,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2000
+Scott Williams,281,Jump Shot,2PT Field Goal,7,3,Jump Shot,JUMP_SHOTS,0.4285714285714285,2001
+Scott Williams,281,Standard Layup,2PT Field Goal,2,0,Layup Shot,LAYUPS,0.0,2001
+Scott Williams,281,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2002
+Scott Williams,281,Jump Shot,2PT Field Goal,2,2,Jump Shot,JUMP_SHOTS,1.0,2002

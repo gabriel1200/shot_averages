@@ -1,9 +1,9 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Isaac Jones,1642403,Alley Oop Dunk,2PT Field Goal,1,1,DUNKS,1.0,2025
-Isaac Jones,1642403,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Isaac Jones,1642403,Driving Layup,2PT Field Goal,1,0,LAYUPS,0.0,2025
-Isaac Jones,1642403,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2025
-Isaac Jones,1642403,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
-Isaac Jones,1642403,Alley Oop Dunk,2PT Field Goal,1,1,DUNKS,1.0,2025
-Isaac Jones,1642403,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2025
-Isaac Jones,1642403,Specialty Dunk,2PT Field Goal,1,1,DUNKS,1.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Isaac Jones,1642403,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2025
+Isaac Jones,1642403,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2025
+Isaac Jones,1642403,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2025
+Isaac Jones,1642403,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2025
+Isaac Jones,1642403,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2025
+Isaac Jones,1642403,Alley Oop Dunk,2PT Field Goal,1,1,Running Alley Oop Dunk Shot,DUNKS,1.0,2025
+Isaac Jones,1642403,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2025
+Isaac Jones,1642403,Specialty Dunk,2PT Field Goal,1,1,Tip Dunk Shot,DUNKS,1.0,2025

@@ -1,17 +1,17 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Mike Muscala,203488,Specialty Dunk,2PT Field Goal,1,1,DUNKS,1.0,2024
-Mike Muscala,203488,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Mike Muscala,203488,Standard Dunk,2PT Field Goal,1,0,DUNKS,0.0,2024
-Mike Muscala,203488,Floating Jump Shot,2PT Field Goal,3,2,FLOATING_SHOTS,0.6666666666666666,2024
-Mike Muscala,203488,Hook Shot,2PT Field Goal,2,1,POST_MOVES,0.5,2024
-Mike Muscala,203488,Jump Shot,2PT Field Goal,4,0,JUMP_SHOTS,0.0,2024
-Mike Muscala,203488,Jump Shot,3PT Field Goal,49,16,JUMP_SHOTS,0.4897959183673469,2024
-Mike Muscala,203488,Standard Layup,2PT Field Goal,4,3,LAYUPS,0.75,2024
-Mike Muscala,203488,Pullup Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2024
-Mike Muscala,203488,Pullup Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Mike Muscala,203488,Putback Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Mike Muscala,203488,Running Jump Shot,3PT Field Goal,4,1,JUMP_SHOTS,0.375,2024
-Mike Muscala,203488,Step Back Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Mike Muscala,203488,Step Back Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2024
-Mike Muscala,203488,Putback Layup,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2024
-Mike Muscala,203488,Turnaround Hook Shot,2PT Field Goal,2,0,POST_MOVES,0.0,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Mike Muscala,203488,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2024
+Mike Muscala,203488,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2024
+Mike Muscala,203488,Standard Dunk,2PT Field Goal,1,0,Dunk Shot,DUNKS,0.0,2024
+Mike Muscala,203488,Floating Jump Shot,2PT Field Goal,3,2,Floating Jump shot,FLOATING_SHOTS,0.6666666666666666,2024
+Mike Muscala,203488,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,2024
+Mike Muscala,203488,Jump Shot,2PT Field Goal,4,0,Jump Shot,JUMP_SHOTS,0.0,2024
+Mike Muscala,203488,Jump Shot,3PT Field Goal,49,16,Jump Shot,JUMP_SHOTS,0.4897959183673469,2024
+Mike Muscala,203488,Standard Layup,2PT Field Goal,4,3,Layup Shot,LAYUPS,0.75,2024
+Mike Muscala,203488,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2024
+Mike Muscala,203488,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2024
+Mike Muscala,203488,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2024
+Mike Muscala,203488,Running Jump Shot,3PT Field Goal,4,1,Running Jump Shot,JUMP_SHOTS,0.375,2024
+Mike Muscala,203488,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2024
+Mike Muscala,203488,Step Back Jump Shot,3PT Field Goal,2,1,Step Back Jump shot,JUMP_SHOTS,0.75,2024
+Mike Muscala,203488,Putback Layup,2PT Field Goal,3,1,Tip Layup Shot,LAYUPS,0.3333333333333333,2024
+Mike Muscala,203488,Turnaround Hook Shot,2PT Field Goal,2,0,Turnaround Hook Shot,POST_MOVES,0.0,2024

@@ -1,10 +1,10 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Terry Taylor,1630678,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Terry Taylor,1630678,Floating Jump Shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2024
-Terry Taylor,1630678,Driving Layup,2PT Field Goal,2,1,LAYUPS,0.5,2024
-Terry Taylor,1630678,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2024
-Terry Taylor,1630678,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,2024
-Terry Taylor,1630678,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Terry Taylor,1630678,Putback Layup,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Terry Taylor,1630678,Reverse Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Terry Taylor,1630678,Step Back Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Terry Taylor,1630678,Standard Layup,2PT Field Goal,1,0,Cutting Layup Shot,LAYUPS,0.0,2024
+Terry Taylor,1630678,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2024
+Terry Taylor,1630678,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2024
+Terry Taylor,1630678,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2024
+Terry Taylor,1630678,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2024
+Terry Taylor,1630678,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2024
+Terry Taylor,1630678,Putback Layup,2PT Field Goal,1,0,Putback Layup Shot,LAYUPS,0.0,2024
+Terry Taylor,1630678,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2024
+Terry Taylor,1630678,Step Back Jump Shot,3PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2024

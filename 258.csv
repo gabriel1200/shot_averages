@@ -1,23 +1,23 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Brian Grant,258,Jump Shot,2PT Field Goal,3,0,JUMP_SHOTS,0.0,1997
-Brian Grant,258,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,1997
-Brian Grant,258,Driving Dunk,2PT Field Goal,1,1,DUNKS,1.0,1998
-Brian Grant,258,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,1998
-Brian Grant,258,Standard Dunk,2PT Field Goal,11,11,DUNKS,1.0,1998
-Brian Grant,258,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,1998
-Brian Grant,258,Jump Shot,2PT Field Goal,77,37,JUMP_SHOTS,0.4805194805194805,1998
-Brian Grant,258,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,1998
-Brian Grant,258,Standard Layup,2PT Field Goal,70,29,LAYUPS,0.4142857142857143,1998
-Brian Grant,258,Standard Dunk,2PT Field Goal,5,5,DUNKS,1.0,1998
-Brian Grant,258,Tip Shot,2PT Field Goal,8,3,TIP_SHOTS,0.375,1998
-Brian Grant,258,Driving Layup,2PT Field Goal,4,2,LAYUPS,0.5,1999
-Brian Grant,258,Standard Dunk,2PT Field Goal,8,6,DUNKS,0.75,1999
-Brian Grant,258,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,1999
-Brian Grant,258,Jump Shot,2PT Field Goal,78,30,JUMP_SHOTS,0.3846153846153846,1999
-Brian Grant,258,Standard Layup,2PT Field Goal,47,25,LAYUPS,0.5319148936170213,1999
-Brian Grant,258,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,1999
-Brian Grant,258,Standard Dunk,2PT Field Goal,5,5,DUNKS,1.0,1999
-Brian Grant,258,Tip Shot,2PT Field Goal,5,1,TIP_SHOTS,0.2,1999
-Brian Grant,258,Jump Shot,2PT Field Goal,6,1,JUMP_SHOTS,0.1666666666666666,2000
-Brian Grant,258,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2000
-Brian Grant,258,Standard Layup,2PT Field Goal,2,1,LAYUPS,0.5,2002
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Brian Grant,258,Jump Shot,2PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,1997
+Brian Grant,258,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,1997
+Brian Grant,258,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,1998
+Brian Grant,258,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,1998
+Brian Grant,258,Standard Dunk,2PT Field Goal,11,11,Dunk Shot,DUNKS,1.0,1998
+Brian Grant,258,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,1998
+Brian Grant,258,Jump Shot,2PT Field Goal,77,37,Jump Shot,JUMP_SHOTS,0.4805194805194805,1998
+Brian Grant,258,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1998
+Brian Grant,258,Standard Layup,2PT Field Goal,70,29,Layup Shot,LAYUPS,0.4142857142857143,1998
+Brian Grant,258,Standard Dunk,2PT Field Goal,5,5,Slam Dunk Shot,DUNKS,1.0,1998
+Brian Grant,258,Tip Shot,2PT Field Goal,8,3,Tip Shot,TIP_SHOTS,0.375,1998
+Brian Grant,258,Driving Layup,2PT Field Goal,4,2,Driving Layup Shot,LAYUPS,0.5,1999
+Brian Grant,258,Standard Dunk,2PT Field Goal,8,6,Dunk Shot,DUNKS,0.75,1999
+Brian Grant,258,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,1999
+Brian Grant,258,Jump Shot,2PT Field Goal,78,30,Jump Shot,JUMP_SHOTS,0.3846153846153846,1999
+Brian Grant,258,Standard Layup,2PT Field Goal,47,25,Layup Shot,LAYUPS,0.5319148936170213,1999
+Brian Grant,258,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,1999
+Brian Grant,258,Standard Dunk,2PT Field Goal,5,5,Slam Dunk Shot,DUNKS,1.0,1999
+Brian Grant,258,Tip Shot,2PT Field Goal,5,1,Tip Shot,TIP_SHOTS,0.2,1999
+Brian Grant,258,Jump Shot,2PT Field Goal,6,1,Jump Shot,JUMP_SHOTS,0.1666666666666666,2000
+Brian Grant,258,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2000
+Brian Grant,258,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2002

@@ -1,37 +1,37 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Robert Williams III,1629057,Alley Oop Dunk,2PT Field Goal,2,2,DUNKS,1.0,2020
-Robert Williams III,1629057,Alley Oop Layup,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2020
-Robert Williams III,1629057,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2020
-Robert Williams III,1629057,Putback Layup,2PT Field Goal,1,0,LAYUPS,0.0,2020
-Robert Williams III,1629057,Alley Oop Dunk,2PT Field Goal,1,1,DUNKS,1.0,2021
-Robert Williams III,1629057,Alley Oop Layup,2PT Field Goal,1,0,LAYUPS,0.0,2021
-Robert Williams III,1629057,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2021
-Robert Williams III,1629057,Alley Oop Layup,2PT Field Goal,1,1,LAYUPS,1.0,2022
-Robert Williams III,1629057,Alley Oop Dunk,2PT Field Goal,2,2,DUNKS,1.0,2024
-Robert Williams III,1629057,Specialty Dunk,2PT Field Goal,3,2,DUNKS,0.6666666666666666,2024
-Robert Williams III,1629057,Standard Layup,2PT Field Goal,2,1,LAYUPS,0.5,2024
-Robert Williams III,1629057,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2024
-Robert Williams III,1629057,Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2024
-Robert Williams III,1629057,Jump Shot,2PT Field Goal,6,4,JUMP_SHOTS,0.6666666666666666,2024
-Robert Williams III,1629057,Standard Layup,2PT Field Goal,2,1,LAYUPS,0.5,2024
-Robert Williams III,1629057,Putback Layup,2PT Field Goal,3,3,LAYUPS,1.0,2024
-Robert Williams III,1629057,Alley Oop Dunk,2PT Field Goal,1,0,DUNKS,0.0,2024
-Robert Williams III,1629057,Specialty Dunk,2PT Field Goal,1,1,DUNKS,1.0,2024
-Robert Williams III,1629057,Putback Layup,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2024
-Robert Williams III,1629057,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Robert Williams III,1629057,Alley Oop Dunk,2PT Field Goal,8,7,DUNKS,0.875,2025
-Robert Williams III,1629057,Alley Oop Layup,2PT Field Goal,6,5,LAYUPS,0.8333333333333334,2025
-Robert Williams III,1629057,Specialty Dunk,2PT Field Goal,1,1,DUNKS,1.0,2025
-Robert Williams III,1629057,Standard Layup,2PT Field Goal,2,1,LAYUPS,0.5,2025
-Robert Williams III,1629057,Driving Layup,2PT Field Goal,1,0,LAYUPS,0.0,2025
-Robert Williams III,1629057,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2025
-Robert Williams III,1629057,Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2025
-Robert Williams III,1629057,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2025
-Robert Williams III,1629057,Jump Shot,3PT Field Goal,3,1,JUMP_SHOTS,0.5,2025
-Robert Williams III,1629057,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2025
-Robert Williams III,1629057,Putback Layup,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2025
-Robert Williams III,1629057,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2025
-Robert Williams III,1629057,Standard Layup,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2025
-Robert Williams III,1629057,Specialty Dunk,2PT Field Goal,1,1,DUNKS,1.0,2025
-Robert Williams III,1629057,Putback Layup,2PT Field Goal,7,5,LAYUPS,0.7142857142857143,2025
-Robert Williams III,1629057,Turnaround Hook Shot,2PT Field Goal,2,0,POST_MOVES,0.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Robert Williams III,1629057,Alley Oop Dunk,2PT Field Goal,2,2,Alley Oop Dunk Shot,DUNKS,1.0,2020
+Robert Williams III,1629057,Alley Oop Layup,2PT Field Goal,3,1,Alley Oop Layup shot,LAYUPS,0.3333333333333333,2020
+Robert Williams III,1629057,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2020
+Robert Williams III,1629057,Putback Layup,2PT Field Goal,1,0,Tip Layup Shot,LAYUPS,0.0,2020
+Robert Williams III,1629057,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2021
+Robert Williams III,1629057,Alley Oop Layup,2PT Field Goal,1,0,Alley Oop Layup shot,LAYUPS,0.0,2021
+Robert Williams III,1629057,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2021
+Robert Williams III,1629057,Alley Oop Layup,2PT Field Goal,1,1,Running Alley Oop Layup Shot,LAYUPS,1.0,2022
+Robert Williams III,1629057,Alley Oop Dunk,2PT Field Goal,2,2,Alley Oop Dunk Shot,DUNKS,1.0,2024
+Robert Williams III,1629057,Specialty Dunk,2PT Field Goal,3,2,Cutting Dunk Shot,DUNKS,0.6666666666666666,2024
+Robert Williams III,1629057,Standard Layup,2PT Field Goal,2,1,Cutting Layup Shot,LAYUPS,0.5,2024
+Robert Williams III,1629057,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2024
+Robert Williams III,1629057,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2024
+Robert Williams III,1629057,Jump Shot,2PT Field Goal,6,4,Jump Shot,JUMP_SHOTS,0.6666666666666666,2024
+Robert Williams III,1629057,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2024
+Robert Williams III,1629057,Putback Layup,2PT Field Goal,3,3,Putback Layup Shot,LAYUPS,1.0,2024
+Robert Williams III,1629057,Alley Oop Dunk,2PT Field Goal,1,0,Running Alley Oop Dunk Shot,DUNKS,0.0,2024
+Robert Williams III,1629057,Specialty Dunk,2PT Field Goal,1,1,Tip Dunk Shot,DUNKS,1.0,2024
+Robert Williams III,1629057,Putback Layup,2PT Field Goal,3,2,Tip Layup Shot,LAYUPS,0.6666666666666666,2024
+Robert Williams III,1629057,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2024
+Robert Williams III,1629057,Alley Oop Dunk,2PT Field Goal,8,7,Alley Oop Dunk Shot,DUNKS,0.875,2025
+Robert Williams III,1629057,Alley Oop Layup,2PT Field Goal,6,5,Alley Oop Layup shot,LAYUPS,0.8333333333333334,2025
+Robert Williams III,1629057,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2025
+Robert Williams III,1629057,Standard Layup,2PT Field Goal,2,1,Cutting Layup Shot,LAYUPS,0.5,2025
+Robert Williams III,1629057,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2025
+Robert Williams III,1629057,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2025
+Robert Williams III,1629057,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2025
+Robert Williams III,1629057,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2025
+Robert Williams III,1629057,Jump Shot,3PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.5,2025
+Robert Williams III,1629057,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2025
+Robert Williams III,1629057,Putback Layup,2PT Field Goal,3,2,Putback Layup Shot,LAYUPS,0.6666666666666666,2025
+Robert Williams III,1629057,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2025
+Robert Williams III,1629057,Standard Layup,2PT Field Goal,3,2,Running Layup Shot,LAYUPS,0.6666666666666666,2025
+Robert Williams III,1629057,Specialty Dunk,2PT Field Goal,1,1,Tip Dunk Shot,DUNKS,1.0,2025
+Robert Williams III,1629057,Putback Layup,2PT Field Goal,7,5,Tip Layup Shot,LAYUPS,0.7142857142857143,2025
+Robert Williams III,1629057,Turnaround Hook Shot,2PT Field Goal,2,0,Turnaround Hook Shot,POST_MOVES,0.0,2025

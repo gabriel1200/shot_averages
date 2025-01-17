@@ -1,43 +1,43 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Vasilije Micic,203995,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Vasilije Micic,203995,Finger Roll,2PT Field Goal,10,6,LAYUPS,0.6,2024
-Vasilije Micic,203995,Floating Jump Shot,2PT Field Goal,5,3,FLOATING_SHOTS,0.6,2024
-Vasilije Micic,203995,Floating Jump Shot,2PT Field Goal,4,0,FLOATING_SHOTS,0.0,2024
-Vasilije Micic,203995,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2024
-Vasilije Micic,203995,Driving Layup,2PT Field Goal,46,27,LAYUPS,0.5869565217391305,2024
-Vasilije Micic,203995,Driving Layup,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2024
-Vasilije Micic,203995,Fadeaway Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2024
-Vasilije Micic,203995,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Vasilije Micic,203995,Floating Jump Shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2024
-Vasilije Micic,203995,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2024
-Vasilije Micic,203995,Jump Shot,3PT Field Goal,36,14,JUMP_SHOTS,0.5833333333333334,2024
-Vasilije Micic,203995,Pullup Jump Shot,2PT Field Goal,26,16,JUMP_SHOTS,0.6153846153846154,2024
-Vasilije Micic,203995,Pullup Jump Shot,3PT Field Goal,30,11,JUMP_SHOTS,0.55,2024
-Vasilije Micic,203995,Reverse Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Vasilije Micic,203995,Finger Roll,2PT Field Goal,2,2,LAYUPS,1.0,2024
-Vasilije Micic,203995,Running Jump Shot,3PT Field Goal,4,2,JUMP_SHOTS,0.75,2024
-Vasilije Micic,203995,Standard Layup,2PT Field Goal,2,1,LAYUPS,0.5,2024
-Vasilije Micic,203995,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Vasilije Micic,203995,Running Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Vasilije Micic,203995,Reverse Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Vasilije Micic,203995,Step Back Jump Shot,2PT Field Goal,5,0,JUMP_SHOTS,0.0,2024
-Vasilije Micic,203995,Step Back Jump Shot,3PT Field Goal,11,2,JUMP_SHOTS,0.2727272727272727,2024
-Vasilije Micic,203995,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2024
-Vasilije Micic,203995,Turnaround Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2024
-Vasilije Micic,203995,Turnaround Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,2024
-Vasilije Micić,203995,Finger Roll,2PT Field Goal,5,2,LAYUPS,0.4,2025
-Vasilije Micić,203995,Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2025
-Vasilije Micić,203995,Floating Jump Shot,2PT Field Goal,4,1,FLOATING_SHOTS,0.25,2025
-Vasilije Micić,203995,Driving Layup,2PT Field Goal,11,5,LAYUPS,0.4545454545454545,2025
-Vasilije Micić,203995,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Vasilije Micić,203995,Fadeaway Jump Shot,2PT Field Goal,4,1,JUMP_SHOTS,0.25,2025
-Vasilije Micić,203995,Floating Jump Shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2025
-Vasilije Micić,203995,Jump Shot,3PT Field Goal,13,4,JUMP_SHOTS,0.4615384615384615,2025
-Vasilije Micić,203995,Pullup Jump Shot,2PT Field Goal,23,9,JUMP_SHOTS,0.391304347826087,2025
-Vasilije Micić,203995,Pullup Jump Shot,3PT Field Goal,25,8,JUMP_SHOTS,0.48,2025
-Vasilije Micić,203995,Running Jump Shot,3PT Field Goal,3,1,JUMP_SHOTS,0.5,2025
-Vasilije Micić,203995,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2025
-Vasilije Micić,203995,Reverse Layup,2PT Field Goal,1,0,LAYUPS,0.0,2025
-Vasilije Micić,203995,Step Back Jump Shot,2PT Field Goal,4,2,JUMP_SHOTS,0.5,2025
-Vasilije Micić,203995,Step Back Jump Shot,3PT Field Goal,7,2,JUMP_SHOTS,0.4285714285714285,2025
-Vasilije Micić,203995,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Vasilije Micic,203995,Standard Layup,2PT Field Goal,1,0,Cutting Layup Shot,LAYUPS,0.0,2024
+Vasilije Micic,203995,Finger Roll,2PT Field Goal,10,6,Driving Finger Roll Layup Shot,LAYUPS,0.6,2024
+Vasilije Micic,203995,Floating Jump Shot,2PT Field Goal,5,3,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.6,2024
+Vasilije Micic,203995,Floating Jump Shot,2PT Field Goal,4,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2024
+Vasilije Micic,203995,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2024
+Vasilije Micic,203995,Driving Layup,2PT Field Goal,46,27,Driving Layup Shot,LAYUPS,0.5869565217391305,2024
+Vasilije Micic,203995,Driving Layup,2PT Field Goal,3,1,Driving Reverse Layup Shot,LAYUPS,0.3333333333333333,2024
+Vasilije Micic,203995,Fadeaway Jump Shot,2PT Field Goal,2,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2024
+Vasilije Micic,203995,Finger Roll,2PT Field Goal,1,1,Finger Roll Layup Shot,LAYUPS,1.0,2024
+Vasilije Micic,203995,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2024
+Vasilije Micic,203995,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2024
+Vasilije Micic,203995,Jump Shot,3PT Field Goal,36,14,Jump Shot,JUMP_SHOTS,0.5833333333333334,2024
+Vasilije Micic,203995,Pullup Jump Shot,2PT Field Goal,26,16,Pullup Jump shot,JUMP_SHOTS,0.6153846153846154,2024
+Vasilije Micic,203995,Pullup Jump Shot,3PT Field Goal,30,11,Pullup Jump shot,JUMP_SHOTS,0.55,2024
+Vasilije Micic,203995,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2024
+Vasilije Micic,203995,Finger Roll,2PT Field Goal,2,2,Running Finger Roll Layup Shot,LAYUPS,1.0,2024
+Vasilije Micic,203995,Running Jump Shot,3PT Field Goal,4,2,Running Jump Shot,JUMP_SHOTS,0.75,2024
+Vasilije Micic,203995,Standard Layup,2PT Field Goal,2,1,Running Layup Shot,LAYUPS,0.5,2024
+Vasilije Micic,203995,Running Jump Shot,2PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2024
+Vasilije Micic,203995,Running Jump Shot,3PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2024
+Vasilije Micic,203995,Reverse Layup,2PT Field Goal,1,1,Running Reverse Layup Shot,LAYUPS,1.0,2024
+Vasilije Micic,203995,Step Back Jump Shot,2PT Field Goal,5,0,Step Back Jump shot,JUMP_SHOTS,0.0,2024
+Vasilije Micic,203995,Step Back Jump Shot,3PT Field Goal,11,2,Step Back Jump shot,JUMP_SHOTS,0.2727272727272727,2024
+Vasilije Micic,203995,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Bank shot,JUMP_SHOTS,1.0,2024
+Vasilije Micic,203995,Turnaround Jump Shot,2PT Field Goal,2,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2024
+Vasilije Micic,203995,Turnaround Jump Shot,2PT Field Goal,2,2,Turnaround Jump Shot,JUMP_SHOTS,1.0,2024
+Vasilije Micić,203995,Finger Roll,2PT Field Goal,5,2,Driving Finger Roll Layup Shot,LAYUPS,0.4,2025
+Vasilije Micić,203995,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,1.0,2025
+Vasilije Micić,203995,Floating Jump Shot,2PT Field Goal,4,1,Driving Floating Jump Shot,FLOATING_SHOTS,0.25,2025
+Vasilije Micić,203995,Driving Layup,2PT Field Goal,11,5,Driving Layup Shot,LAYUPS,0.4545454545454545,2025
+Vasilije Micić,203995,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2025
+Vasilije Micić,203995,Fadeaway Jump Shot,2PT Field Goal,4,1,Fadeaway Jump Shot,JUMP_SHOTS,0.25,2025
+Vasilije Micić,203995,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2025
+Vasilije Micić,203995,Jump Shot,3PT Field Goal,13,4,Jump Shot,JUMP_SHOTS,0.4615384615384615,2025
+Vasilije Micić,203995,Pullup Jump Shot,2PT Field Goal,23,9,Pullup Jump shot,JUMP_SHOTS,0.391304347826087,2025
+Vasilije Micić,203995,Pullup Jump Shot,3PT Field Goal,25,8,Pullup Jump shot,JUMP_SHOTS,0.48,2025
+Vasilije Micić,203995,Running Jump Shot,3PT Field Goal,3,1,Running Jump Shot,JUMP_SHOTS,0.5,2025
+Vasilije Micić,203995,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2025
+Vasilije Micić,203995,Reverse Layup,2PT Field Goal,1,0,Running Reverse Layup Shot,LAYUPS,0.0,2025
+Vasilije Micić,203995,Step Back Jump Shot,2PT Field Goal,4,2,Step Back Jump shot,JUMP_SHOTS,0.5,2025
+Vasilije Micić,203995,Step Back Jump Shot,3PT Field Goal,7,2,Step Back Jump shot,JUMP_SHOTS,0.4285714285714285,2025
+Vasilije Micić,203995,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2025

@@ -1,44 +1,44 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Bismack Biyombo,202687,Standard Dunk,2PT Field Goal,2,1,DUNKS,0.5,2013
-Bismack Biyombo,202687,Hook Shot,2PT Field Goal,2,1,POST_MOVES,0.5,2013
-Bismack Biyombo,202687,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2013
-Bismack Biyombo,202687,Standard Layup,2PT Field Goal,5,2,LAYUPS,0.4,2013
-Bismack Biyombo,202687,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2015
-Bismack Biyombo,202687,Hook Shot,2PT Field Goal,2,0,POST_MOVES,0.0,2015
-Bismack Biyombo,202687,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2015
-Bismack Biyombo,202687,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2015
-Bismack Biyombo,202687,Tip Shot,2PT Field Goal,1,1,TIP_SHOTS,1.0,2015
-Bismack Biyombo,202687,Alley Oop Dunk,2PT Field Goal,1,0,DUNKS,0.0,2017
-Bismack Biyombo,202687,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2017
-Bismack Biyombo,202687,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2017
-Bismack Biyombo,202687,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2017
-Bismack Biyombo,202687,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2017
-Bismack Biyombo,202687,Hook Shot,2PT Field Goal,5,1,POST_MOVES,0.2,2017
-Bismack Biyombo,202687,Jump Shot,2PT Field Goal,3,0,JUMP_SHOTS,0.0,2017
-Bismack Biyombo,202687,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2017
-Bismack Biyombo,202687,Putback Layup,2PT Field Goal,2,0,LAYUPS,0.0,2017
-Bismack Biyombo,202687,Specialty Dunk,2PT Field Goal,3,3,DUNKS,1.0,2018
-Bismack Biyombo,202687,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2018
-Bismack Biyombo,202687,Driving Dunk,2PT Field Goal,1,1,DUNKS,1.0,2018
-Bismack Biyombo,202687,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2018
-Bismack Biyombo,202687,Standard Dunk,2PT Field Goal,8,8,DUNKS,1.0,2018
-Bismack Biyombo,202687,Floating Jump Shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2018
-Bismack Biyombo,202687,Hook Shot,2PT Field Goal,5,3,POST_MOVES,0.6,2018
-Bismack Biyombo,202687,Jump Shot,2PT Field Goal,6,2,JUMP_SHOTS,0.3333333333333333,2018
-Bismack Biyombo,202687,Standard Layup,2PT Field Goal,5,1,LAYUPS,0.2,2018
-Bismack Biyombo,202687,Putback Layup,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2018
-Bismack Biyombo,202687,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2018
-Bismack Biyombo,202687,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2019
-Bismack Biyombo,202687,Pullup Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2019
-Bismack Biyombo,202687,Step Back Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2019
-Bismack Biyombo,202687,Specialty Dunk,2PT Field Goal,3,3,DUNKS,1.0,2024
-Bismack Biyombo,202687,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Bismack Biyombo,202687,Standard Dunk,2PT Field Goal,2,2,DUNKS,1.0,2024
-Bismack Biyombo,202687,Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2024
-Bismack Biyombo,202687,Hook Shot,2PT Field Goal,10,6,POST_MOVES,0.6,2024
-Bismack Biyombo,202687,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Bismack Biyombo,202687,Standard Layup,2PT Field Goal,6,4,LAYUPS,0.6666666666666666,2024
-Bismack Biyombo,202687,Putback Layup,2PT Field Goal,2,1,LAYUPS,0.5,2024
-Bismack Biyombo,202687,Putback Layup,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2024
-Bismack Biyombo,202687,Turnaround Hook Shot,2PT Field Goal,5,1,POST_MOVES,0.2,2024
-Bismack Biyombo,202687,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Bismack Biyombo,202687,Standard Dunk,2PT Field Goal,2,1,Dunk Shot,DUNKS,0.5,2013
+Bismack Biyombo,202687,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,2013
+Bismack Biyombo,202687,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2013
+Bismack Biyombo,202687,Standard Layup,2PT Field Goal,5,2,Layup Shot,LAYUPS,0.4,2013
+Bismack Biyombo,202687,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2015
+Bismack Biyombo,202687,Hook Shot,2PT Field Goal,2,0,Hook Shot,POST_MOVES,0.0,2015
+Bismack Biyombo,202687,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2015
+Bismack Biyombo,202687,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2015
+Bismack Biyombo,202687,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2015
+Bismack Biyombo,202687,Alley Oop Dunk,2PT Field Goal,1,0,Alley Oop Dunk Shot,DUNKS,0.0,2017
+Bismack Biyombo,202687,Finger Roll,2PT Field Goal,1,1,Cutting Finger Roll Layup Shot,LAYUPS,1.0,2017
+Bismack Biyombo,202687,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2017
+Bismack Biyombo,202687,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2017
+Bismack Biyombo,202687,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2017
+Bismack Biyombo,202687,Hook Shot,2PT Field Goal,5,1,Hook Shot,POST_MOVES,0.2,2017
+Bismack Biyombo,202687,Jump Shot,2PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,2017
+Bismack Biyombo,202687,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2017
+Bismack Biyombo,202687,Putback Layup,2PT Field Goal,2,0,Tip Layup Shot,LAYUPS,0.0,2017
+Bismack Biyombo,202687,Specialty Dunk,2PT Field Goal,3,3,Cutting Dunk Shot,DUNKS,1.0,2018
+Bismack Biyombo,202687,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2018
+Bismack Biyombo,202687,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2018
+Bismack Biyombo,202687,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2018
+Bismack Biyombo,202687,Standard Dunk,2PT Field Goal,8,8,Dunk Shot,DUNKS,1.0,2018
+Bismack Biyombo,202687,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2018
+Bismack Biyombo,202687,Hook Shot,2PT Field Goal,5,3,Hook Shot,POST_MOVES,0.6,2018
+Bismack Biyombo,202687,Jump Shot,2PT Field Goal,6,2,Jump Shot,JUMP_SHOTS,0.3333333333333333,2018
+Bismack Biyombo,202687,Standard Layup,2PT Field Goal,5,1,Layup Shot,LAYUPS,0.2,2018
+Bismack Biyombo,202687,Putback Layup,2PT Field Goal,3,1,Tip Layup Shot,LAYUPS,0.3333333333333333,2018
+Bismack Biyombo,202687,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2018
+Bismack Biyombo,202687,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2019
+Bismack Biyombo,202687,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2019
+Bismack Biyombo,202687,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2019
+Bismack Biyombo,202687,Specialty Dunk,2PT Field Goal,3,3,Cutting Dunk Shot,DUNKS,1.0,2024
+Bismack Biyombo,202687,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2024
+Bismack Biyombo,202687,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,2024
+Bismack Biyombo,202687,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2024
+Bismack Biyombo,202687,Hook Shot,2PT Field Goal,10,6,Hook Shot,POST_MOVES,0.6,2024
+Bismack Biyombo,202687,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2024
+Bismack Biyombo,202687,Standard Layup,2PT Field Goal,6,4,Layup Shot,LAYUPS,0.6666666666666666,2024
+Bismack Biyombo,202687,Putback Layup,2PT Field Goal,2,1,Putback Layup Shot,LAYUPS,0.5,2024
+Bismack Biyombo,202687,Putback Layup,2PT Field Goal,3,2,Tip Layup Shot,LAYUPS,0.6666666666666666,2024
+Bismack Biyombo,202687,Turnaround Hook Shot,2PT Field Goal,5,1,Turnaround Hook Shot,POST_MOVES,0.2,2024
+Bismack Biyombo,202687,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2024

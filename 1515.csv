@@ -1,29 +1,29 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Anthony Parker,1515,Driving Layup,2PT Field Goal,1,0,LAYUPS,0.0,2000
-Anthony Parker,1515,Jump Shot,2PT Field Goal,3,0,JUMP_SHOTS,0.0,2000
-Anthony Parker,1515,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,2000
-Anthony Parker,1515,Driving Dunk,2PT Field Goal,1,1,DUNKS,1.0,2010
-Anthony Parker,1515,Driving Layup,2PT Field Goal,2,1,LAYUPS,0.5,2010
-Anthony Parker,1515,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2010
-Anthony Parker,1515,Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2010
-Anthony Parker,1515,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2010
-Anthony Parker,1515,Jump Shot,2PT Field Goal,14,3,JUMP_SHOTS,0.2142857142857142,2010
-Anthony Parker,1515,Jump Shot,3PT Field Goal,28,11,JUMP_SHOTS,0.5892857142857143,2010
-Anthony Parker,1515,Standard Layup,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2010
-Anthony Parker,1515,Running Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,0.6666666666666666,2010
-Anthony Parker,1515,Step Back Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2010
-Anthony Parker,1515,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2011
-Anthony Parker,1515,Floating Jump Shot,2PT Field Goal,2,2,FLOATING_SHOTS,1.0,2011
-Anthony Parker,1515,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2011
-Anthony Parker,1515,Jump Shot,2PT Field Goal,27,12,JUMP_SHOTS,0.4444444444444444,2011
-Anthony Parker,1515,Jump Shot,3PT Field Goal,25,9,JUMP_SHOTS,0.54,2011
-Anthony Parker,1515,Standard Layup,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2011
-Anthony Parker,1515,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2011
-Anthony Parker,1515,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2011
-Anthony Parker,1515,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2011
-Anthony Parker,1515,Jump Shot,2PT Field Goal,6,1,JUMP_SHOTS,0.1666666666666666,2012
-Anthony Parker,1515,Jump Shot,3PT Field Goal,15,2,JUMP_SHOTS,0.2,2012
-Anthony Parker,1515,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2012
-Anthony Parker,1515,Pullup Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2012
-Anthony Parker,1515,Running Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2012
-Anthony Parker,1515,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2012
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Anthony Parker,1515,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2000
+Anthony Parker,1515,Jump Shot,2PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,2000
+Anthony Parker,1515,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2000
+Anthony Parker,1515,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2010
+Anthony Parker,1515,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2010
+Anthony Parker,1515,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Bank shot,JUMP_SHOTS,1.0,2010
+Anthony Parker,1515,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2010
+Anthony Parker,1515,Jump Shot,2PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2010
+Anthony Parker,1515,Jump Shot,2PT Field Goal,14,3,Jump Shot,JUMP_SHOTS,0.2142857142857142,2010
+Anthony Parker,1515,Jump Shot,3PT Field Goal,28,11,Jump Shot,JUMP_SHOTS,0.5892857142857143,2010
+Anthony Parker,1515,Standard Layup,2PT Field Goal,3,1,Layup Shot,LAYUPS,0.3333333333333333,2010
+Anthony Parker,1515,Running Jump Shot,2PT Field Goal,3,2,Running Jump Shot,JUMP_SHOTS,0.6666666666666666,2010
+Anthony Parker,1515,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2010
+Anthony Parker,1515,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2011
+Anthony Parker,1515,Floating Jump Shot,2PT Field Goal,2,2,Floating Jump shot,FLOATING_SHOTS,1.0,2011
+Anthony Parker,1515,Jump Shot,2PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2011
+Anthony Parker,1515,Jump Shot,2PT Field Goal,27,12,Jump Shot,JUMP_SHOTS,0.4444444444444444,2011
+Anthony Parker,1515,Jump Shot,3PT Field Goal,25,9,Jump Shot,JUMP_SHOTS,0.54,2011
+Anthony Parker,1515,Standard Layup,2PT Field Goal,3,2,Layup Shot,LAYUPS,0.6666666666666666,2011
+Anthony Parker,1515,Running Jump Shot,2PT Field Goal,1,0,Running Bank shot,JUMP_SHOTS,0.0,2011
+Anthony Parker,1515,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2011
+Anthony Parker,1515,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2011
+Anthony Parker,1515,Jump Shot,2PT Field Goal,6,1,Jump Shot,JUMP_SHOTS,0.1666666666666666,2012
+Anthony Parker,1515,Jump Shot,3PT Field Goal,15,2,Jump Shot,JUMP_SHOTS,0.2,2012
+Anthony Parker,1515,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2012
+Anthony Parker,1515,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2012
+Anthony Parker,1515,Running Hook Shot,2PT Field Goal,1,0,Running Hook Shot,POST_MOVES,0.0,2012
+Anthony Parker,1515,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Bank shot,JUMP_SHOTS,1.0,2012

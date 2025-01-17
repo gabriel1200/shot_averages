@@ -1,10 +1,10 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Donald Royal,140,Driving Dunk,2PT Field Goal,2,2,DUNKS,1.0,1997
-Donald Royal,140,Driving Layup,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,1997
-Donald Royal,140,Jump Shot,2PT Field Goal,7,4,JUMP_SHOTS,0.5714285714285714,1997
-Donald Royal,140,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,1997
-Donald Royal,140,Standard Layup,2PT Field Goal,7,3,LAYUPS,0.4285714285714285,1997
-Donald Royal,140,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,1997
-Donald Royal,140,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,1998
-Donald Royal,140,Jump Shot,2PT Field Goal,8,2,JUMP_SHOTS,0.25,1998
-Donald Royal,140,Standard Layup,2PT Field Goal,5,2,LAYUPS,0.4,1998
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Donald Royal,140,Driving Dunk,2PT Field Goal,2,2,Driving Dunk Shot,DUNKS,1.0,1997
+Donald Royal,140,Driving Layup,2PT Field Goal,3,1,Driving Layup Shot,LAYUPS,0.3333333333333333,1997
+Donald Royal,140,Jump Shot,2PT Field Goal,7,4,Jump Shot,JUMP_SHOTS,0.5714285714285714,1997
+Donald Royal,140,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1997
+Donald Royal,140,Standard Layup,2PT Field Goal,7,3,Layup Shot,LAYUPS,0.4285714285714285,1997
+Donald Royal,140,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,1997
+Donald Royal,140,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,1998
+Donald Royal,140,Jump Shot,2PT Field Goal,8,2,Jump Shot,JUMP_SHOTS,0.25,1998
+Donald Royal,140,Standard Layup,2PT Field Goal,5,2,Layup Shot,LAYUPS,0.4,1998

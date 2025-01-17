@@ -1,43 +1,43 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Mark Williams,1631109,Alley Oop Dunk,2PT Field Goal,7,6,DUNKS,0.8571428571428571,2024
-Mark Williams,1631109,Alley Oop Layup,2PT Field Goal,4,4,LAYUPS,1.0,2024
-Mark Williams,1631109,Specialty Dunk,2PT Field Goal,6,6,DUNKS,1.0,2024
-Mark Williams,1631109,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Mark Williams,1631109,Standard Layup,2PT Field Goal,4,1,LAYUPS,0.25,2024
-Mark Williams,1631109,Driving Layup,2PT Field Goal,2,1,LAYUPS,0.5,2024
-Mark Williams,1631109,Driving Layup,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Mark Williams,1631109,Standard Dunk,2PT Field Goal,7,6,DUNKS,0.8571428571428571,2024
-Mark Williams,1631109,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Mark Williams,1631109,Finger Roll,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Mark Williams,1631109,Floating Jump Shot,2PT Field Goal,5,3,FLOATING_SHOTS,0.6,2024
-Mark Williams,1631109,Hook Shot,2PT Field Goal,2,2,POST_MOVES,1.0,2024
-Mark Williams,1631109,Jump Shot,2PT Field Goal,5,2,JUMP_SHOTS,0.4,2024
-Mark Williams,1631109,Standard Layup,2PT Field Goal,7,4,LAYUPS,0.5714285714285714,2024
-Mark Williams,1631109,Putback Dunk,2PT Field Goal,5,5,DUNKS,1.0,2024
-Mark Williams,1631109,Putback Layup,2PT Field Goal,6,4,LAYUPS,0.6666666666666666,2024
-Mark Williams,1631109,Reverse Dunk,2PT Field Goal,1,1,DUNKS,1.0,2024
-Mark Williams,1631109,Reverse Layup,2PT Field Goal,2,1,LAYUPS,0.5,2024
-Mark Williams,1631109,Standard Dunk,2PT Field Goal,2,2,DUNKS,1.0,2024
-Mark Williams,1631109,Standard Layup,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2024
-Mark Williams,1631109,Specialty Dunk,2PT Field Goal,2,2,DUNKS,1.0,2024
-Mark Williams,1631109,Putback Layup,2PT Field Goal,11,5,LAYUPS,0.4545454545454545,2024
-Mark Williams,1631109,Turnaround Hook Shot,2PT Field Goal,2,0,POST_MOVES,0.0,2024
-Mark Williams,1631109,Alley Oop Dunk,2PT Field Goal,2,2,DUNKS,1.0,2025
-Mark Williams,1631109,Alley Oop Layup,2PT Field Goal,4,4,LAYUPS,1.0,2025
-Mark Williams,1631109,Specialty Dunk,2PT Field Goal,2,2,DUNKS,1.0,2025
-Mark Williams,1631109,Standard Layup,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2025
-Mark Williams,1631109,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2025
-Mark Williams,1631109,Driving Layup,2PT Field Goal,4,1,LAYUPS,0.25,2025
-Mark Williams,1631109,Standard Dunk,2PT Field Goal,3,3,DUNKS,1.0,2025
-Mark Williams,1631109,Floating Jump Shot,2PT Field Goal,2,1,FLOATING_SHOTS,0.5,2025
-Mark Williams,1631109,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
-Mark Williams,1631109,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
-Mark Williams,1631109,Standard Layup,2PT Field Goal,2,1,LAYUPS,0.5,2025
-Mark Williams,1631109,Putback Layup,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Mark Williams,1631109,Reverse Dunk,2PT Field Goal,1,1,DUNKS,1.0,2025
-Mark Williams,1631109,Alley Oop Layup,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Mark Williams,1631109,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2025
-Mark Williams,1631109,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2025
-Mark Williams,1631109,Putback Layup,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2025
-Mark Williams,1631109,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
-Mark Williams,1631109,Turnaround Hook Shot,2PT Field Goal,5,2,POST_MOVES,0.4,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Mark Williams,1631109,Alley Oop Dunk,2PT Field Goal,7,6,Alley Oop Dunk Shot,DUNKS,0.8571428571428571,2024
+Mark Williams,1631109,Alley Oop Layup,2PT Field Goal,4,4,Alley Oop Layup shot,LAYUPS,1.0,2024
+Mark Williams,1631109,Specialty Dunk,2PT Field Goal,6,6,Cutting Dunk Shot,DUNKS,1.0,2024
+Mark Williams,1631109,Finger Roll,2PT Field Goal,1,1,Cutting Finger Roll Layup Shot,LAYUPS,1.0,2024
+Mark Williams,1631109,Standard Layup,2PT Field Goal,4,1,Cutting Layup Shot,LAYUPS,0.25,2024
+Mark Williams,1631109,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2024
+Mark Williams,1631109,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2024
+Mark Williams,1631109,Standard Dunk,2PT Field Goal,7,6,Dunk Shot,DUNKS,0.8571428571428571,2024
+Mark Williams,1631109,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Bank shot,JUMP_SHOTS,0.0,2024
+Mark Williams,1631109,Finger Roll,2PT Field Goal,1,0,Finger Roll Layup Shot,LAYUPS,0.0,2024
+Mark Williams,1631109,Floating Jump Shot,2PT Field Goal,5,3,Floating Jump shot,FLOATING_SHOTS,0.6,2024
+Mark Williams,1631109,Hook Shot,2PT Field Goal,2,2,Hook Shot,POST_MOVES,1.0,2024
+Mark Williams,1631109,Jump Shot,2PT Field Goal,5,2,Jump Shot,JUMP_SHOTS,0.4,2024
+Mark Williams,1631109,Standard Layup,2PT Field Goal,7,4,Layup Shot,LAYUPS,0.5714285714285714,2024
+Mark Williams,1631109,Putback Dunk,2PT Field Goal,5,5,Putback Dunk Shot,DUNKS,1.0,2024
+Mark Williams,1631109,Putback Layup,2PT Field Goal,6,4,Putback Layup Shot,LAYUPS,0.6666666666666666,2024
+Mark Williams,1631109,Reverse Dunk,2PT Field Goal,1,1,Reverse Dunk Shot,DUNKS,1.0,2024
+Mark Williams,1631109,Reverse Layup,2PT Field Goal,2,1,Reverse Layup Shot,LAYUPS,0.5,2024
+Mark Williams,1631109,Standard Dunk,2PT Field Goal,2,2,Running Dunk Shot,DUNKS,1.0,2024
+Mark Williams,1631109,Standard Layup,2PT Field Goal,3,1,Running Layup Shot,LAYUPS,0.3333333333333333,2024
+Mark Williams,1631109,Specialty Dunk,2PT Field Goal,2,2,Tip Dunk Shot,DUNKS,1.0,2024
+Mark Williams,1631109,Putback Layup,2PT Field Goal,11,5,Tip Layup Shot,LAYUPS,0.4545454545454545,2024
+Mark Williams,1631109,Turnaround Hook Shot,2PT Field Goal,2,0,Turnaround Hook Shot,POST_MOVES,0.0,2024
+Mark Williams,1631109,Alley Oop Dunk,2PT Field Goal,2,2,Alley Oop Dunk Shot,DUNKS,1.0,2025
+Mark Williams,1631109,Alley Oop Layup,2PT Field Goal,4,4,Alley Oop Layup shot,LAYUPS,1.0,2025
+Mark Williams,1631109,Specialty Dunk,2PT Field Goal,2,2,Cutting Dunk Shot,DUNKS,1.0,2025
+Mark Williams,1631109,Standard Layup,2PT Field Goal,3,1,Cutting Layup Shot,LAYUPS,0.3333333333333333,2025
+Mark Williams,1631109,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2025
+Mark Williams,1631109,Driving Layup,2PT Field Goal,4,1,Driving Layup Shot,LAYUPS,0.25,2025
+Mark Williams,1631109,Standard Dunk,2PT Field Goal,3,3,Dunk Shot,DUNKS,1.0,2025
+Mark Williams,1631109,Floating Jump Shot,2PT Field Goal,2,1,Floating Jump shot,FLOATING_SHOTS,0.5,2025
+Mark Williams,1631109,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2025
+Mark Williams,1631109,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2025
+Mark Williams,1631109,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2025
+Mark Williams,1631109,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2025
+Mark Williams,1631109,Reverse Dunk,2PT Field Goal,1,1,Reverse Dunk Shot,DUNKS,1.0,2025
+Mark Williams,1631109,Alley Oop Layup,2PT Field Goal,1,1,Running Alley Oop Layup Shot,LAYUPS,1.0,2025
+Mark Williams,1631109,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2025
+Mark Williams,1631109,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2025
+Mark Williams,1631109,Putback Layup,2PT Field Goal,3,2,Tip Layup Shot,LAYUPS,0.6666666666666666,2025
+Mark Williams,1631109,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway Bank Jump Shot,JUMP_SHOTS,0.0,2025
+Mark Williams,1631109,Turnaround Hook Shot,2PT Field Goal,5,2,Turnaround Hook Shot,POST_MOVES,0.4,2025

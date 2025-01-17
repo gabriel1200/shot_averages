@@ -1,47 +1,47 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Tariq Abdul-Wahad,1505,Driving Layup,2PT Field Goal,4,2,LAYUPS,0.5,1998
-Tariq Abdul-Wahad,1505,Standard Dunk,2PT Field Goal,2,2,DUNKS,1.0,1998
-Tariq Abdul-Wahad,1505,Jump Shot,2PT Field Goal,18,3,JUMP_SHOTS,0.1666666666666666,1998
-Tariq Abdul-Wahad,1505,Standard Layup,2PT Field Goal,5,3,LAYUPS,0.6,1998
-Tariq Abdul-Wahad,1505,Standard Dunk,2PT Field Goal,2,2,DUNKS,1.0,1998
-Tariq Abdul-Wahad,1505,Tip Shot,2PT Field Goal,3,0,TIP_SHOTS,0.0,1998
-Tariq Abdul-Wahad,1505,Driving Dunk,2PT Field Goal,3,3,DUNKS,1.0,2000
-Tariq Abdul-Wahad,1505,Driving Layup,2PT Field Goal,17,10,LAYUPS,0.5882352941176471,2000
-Tariq Abdul-Wahad,1505,Standard Dunk,2PT Field Goal,7,6,DUNKS,0.8571428571428571,2000
-Tariq Abdul-Wahad,1505,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2000
-Tariq Abdul-Wahad,1505,Jump Shot,2PT Field Goal,90,23,JUMP_SHOTS,0.2555555555555555,2000
-Tariq Abdul-Wahad,1505,Jump Shot,3PT Field Goal,5,0,JUMP_SHOTS,0.0,2000
-Tariq Abdul-Wahad,1505,Standard Layup,2PT Field Goal,20,11,LAYUPS,0.55,2000
-Tariq Abdul-Wahad,1505,Running Jump Shot,2PT Field Goal,4,2,JUMP_SHOTS,0.5,2000
-Tariq Abdul-Wahad,1505,Standard Dunk,2PT Field Goal,9,9,DUNKS,1.0,2000
-Tariq Abdul-Wahad,1505,Tip Shot,2PT Field Goal,10,4,TIP_SHOTS,0.4,2000
-Tariq Abdul-Wahad,1505,Driving Layup,2PT Field Goal,6,3,LAYUPS,0.5,2001
-Tariq Abdul-Wahad,1505,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2001
-Tariq Abdul-Wahad,1505,Jump Shot,2PT Field Goal,20,4,JUMP_SHOTS,0.2,2001
-Tariq Abdul-Wahad,1505,Jump Shot,3PT Field Goal,3,2,JUMP_SHOTS,1.0,2001
-Tariq Abdul-Wahad,1505,Standard Layup,2PT Field Goal,7,4,LAYUPS,0.5714285714285714,2001
-Tariq Abdul-Wahad,1505,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2001
-Tariq Abdul-Wahad,1505,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2001
-Tariq Abdul-Wahad,1505,Tip Shot,2PT Field Goal,2,0,TIP_SHOTS,0.0,2001
-Tariq Abdul-Wahad,1505,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2001
-Tariq Abdul-Wahad,1505,Driving Dunk,2PT Field Goal,1,1,DUNKS,1.0,2002
-Tariq Abdul-Wahad,1505,Driving Layup,2PT Field Goal,5,5,LAYUPS,1.0,2002
-Tariq Abdul-Wahad,1505,Standard Dunk,2PT Field Goal,5,3,DUNKS,0.6,2002
-Tariq Abdul-Wahad,1505,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2002
-Tariq Abdul-Wahad,1505,Finger Roll,2PT Field Goal,2,0,LAYUPS,0.0,2002
-Tariq Abdul-Wahad,1505,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2002
-Tariq Abdul-Wahad,1505,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2002
-Tariq Abdul-Wahad,1505,Jump Shot,2PT Field Goal,47,9,JUMP_SHOTS,0.1914893617021276,2002
-Tariq Abdul-Wahad,1505,Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2002
-Tariq Abdul-Wahad,1505,Standard Layup,2PT Field Goal,18,9,LAYUPS,0.5,2002
-Tariq Abdul-Wahad,1505,Reverse Layup,2PT Field Goal,5,4,LAYUPS,0.8,2002
-Tariq Abdul-Wahad,1505,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2002
-Tariq Abdul-Wahad,1505,Tip Shot,2PT Field Goal,4,1,TIP_SHOTS,0.25,2002
-Tariq Abdul-Wahad,1505,Turnaround Jump Shot,2PT Field Goal,5,2,JUMP_SHOTS,0.4,2002
-Tariq Abdul-Wahad,1505,Jump Shot,2PT Field Goal,14,6,JUMP_SHOTS,0.4285714285714285,2003
-Tariq Abdul-Wahad,1505,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2003
-Tariq Abdul-Wahad,1505,Standard Layup,2PT Field Goal,7,4,LAYUPS,0.5714285714285714,2003
-Tariq Abdul-Wahad,1505,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2003
-Tariq Abdul-Wahad,1505,Standard Dunk,2PT Field Goal,3,3,DUNKS,1.0,2003
-Tariq Abdul-Wahad,1505,Tip Shot,2PT Field Goal,1,1,TIP_SHOTS,1.0,2003
-Tariq Abdul-Wahad,1505,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2003
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Tariq Abdul-Wahad,1505,Driving Layup,2PT Field Goal,4,2,Driving Layup Shot,LAYUPS,0.5,1998
+Tariq Abdul-Wahad,1505,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,1998
+Tariq Abdul-Wahad,1505,Jump Shot,2PT Field Goal,18,3,Jump Shot,JUMP_SHOTS,0.1666666666666666,1998
+Tariq Abdul-Wahad,1505,Standard Layup,2PT Field Goal,5,3,Layup Shot,LAYUPS,0.6,1998
+Tariq Abdul-Wahad,1505,Standard Dunk,2PT Field Goal,2,2,Slam Dunk Shot,DUNKS,1.0,1998
+Tariq Abdul-Wahad,1505,Tip Shot,2PT Field Goal,3,0,Tip Shot,TIP_SHOTS,0.0,1998
+Tariq Abdul-Wahad,1505,Driving Dunk,2PT Field Goal,3,3,Driving Dunk Shot,DUNKS,1.0,2000
+Tariq Abdul-Wahad,1505,Driving Layup,2PT Field Goal,17,10,Driving Layup Shot,LAYUPS,0.5882352941176471,2000
+Tariq Abdul-Wahad,1505,Standard Dunk,2PT Field Goal,7,6,Dunk Shot,DUNKS,0.8571428571428571,2000
+Tariq Abdul-Wahad,1505,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2000
+Tariq Abdul-Wahad,1505,Jump Shot,2PT Field Goal,90,23,Jump Shot,JUMP_SHOTS,0.2555555555555555,2000
+Tariq Abdul-Wahad,1505,Jump Shot,3PT Field Goal,5,0,Jump Shot,JUMP_SHOTS,0.0,2000
+Tariq Abdul-Wahad,1505,Standard Layup,2PT Field Goal,20,11,Layup Shot,LAYUPS,0.55,2000
+Tariq Abdul-Wahad,1505,Running Jump Shot,2PT Field Goal,4,2,Running Jump Shot,JUMP_SHOTS,0.5,2000
+Tariq Abdul-Wahad,1505,Standard Dunk,2PT Field Goal,9,9,Slam Dunk Shot,DUNKS,1.0,2000
+Tariq Abdul-Wahad,1505,Tip Shot,2PT Field Goal,10,4,Tip Shot,TIP_SHOTS,0.4,2000
+Tariq Abdul-Wahad,1505,Driving Layup,2PT Field Goal,6,3,Driving Layup Shot,LAYUPS,0.5,2001
+Tariq Abdul-Wahad,1505,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2001
+Tariq Abdul-Wahad,1505,Jump Shot,2PT Field Goal,20,4,Jump Shot,JUMP_SHOTS,0.2,2001
+Tariq Abdul-Wahad,1505,Jump Shot,3PT Field Goal,3,2,Jump Shot,JUMP_SHOTS,1.0,2001
+Tariq Abdul-Wahad,1505,Standard Layup,2PT Field Goal,7,4,Layup Shot,LAYUPS,0.5714285714285714,2001
+Tariq Abdul-Wahad,1505,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2001
+Tariq Abdul-Wahad,1505,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2001
+Tariq Abdul-Wahad,1505,Tip Shot,2PT Field Goal,2,0,Tip Shot,TIP_SHOTS,0.0,2001
+Tariq Abdul-Wahad,1505,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2001
+Tariq Abdul-Wahad,1505,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2002
+Tariq Abdul-Wahad,1505,Driving Layup,2PT Field Goal,5,5,Driving Layup Shot,LAYUPS,1.0,2002
+Tariq Abdul-Wahad,1505,Standard Dunk,2PT Field Goal,5,3,Dunk Shot,DUNKS,0.6,2002
+Tariq Abdul-Wahad,1505,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2002
+Tariq Abdul-Wahad,1505,Finger Roll,2PT Field Goal,2,0,Finger Roll Shot,LAYUPS,0.0,2002
+Tariq Abdul-Wahad,1505,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2002
+Tariq Abdul-Wahad,1505,Hook Shot,2PT Field Goal,1,0,Jump Hook Shot,POST_MOVES,0.0,2002
+Tariq Abdul-Wahad,1505,Jump Shot,2PT Field Goal,47,9,Jump Shot,JUMP_SHOTS,0.1914893617021276,2002
+Tariq Abdul-Wahad,1505,Jump Shot,3PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.5,2002
+Tariq Abdul-Wahad,1505,Standard Layup,2PT Field Goal,18,9,Layup Shot,LAYUPS,0.5,2002
+Tariq Abdul-Wahad,1505,Reverse Layup,2PT Field Goal,5,4,Reverse Layup Shot,LAYUPS,0.8,2002
+Tariq Abdul-Wahad,1505,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2002
+Tariq Abdul-Wahad,1505,Tip Shot,2PT Field Goal,4,1,Tip Shot,TIP_SHOTS,0.25,2002
+Tariq Abdul-Wahad,1505,Turnaround Jump Shot,2PT Field Goal,5,2,Turnaround Jump Shot,JUMP_SHOTS,0.4,2002
+Tariq Abdul-Wahad,1505,Jump Shot,2PT Field Goal,14,6,Jump Shot,JUMP_SHOTS,0.4285714285714285,2003
+Tariq Abdul-Wahad,1505,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2003
+Tariq Abdul-Wahad,1505,Standard Layup,2PT Field Goal,7,4,Layup Shot,LAYUPS,0.5714285714285714,2003
+Tariq Abdul-Wahad,1505,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2003
+Tariq Abdul-Wahad,1505,Standard Dunk,2PT Field Goal,3,3,Slam Dunk Shot,DUNKS,1.0,2003
+Tariq Abdul-Wahad,1505,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2003
+Tariq Abdul-Wahad,1505,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2003

@@ -1,40 +1,40 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Tom Gugliotta,339,Driving Layup,2PT Field Goal,2,2,LAYUPS,1.0,1997
-Tom Gugliotta,339,Jump Shot,2PT Field Goal,27,8,JUMP_SHOTS,0.2962962962962963,1997
-Tom Gugliotta,339,Jump Shot,3PT Field Goal,8,3,JUMP_SHOTS,0.5625,1997
-Tom Gugliotta,339,Standard Layup,2PT Field Goal,17,4,LAYUPS,0.2352941176470588,1997
-Tom Gugliotta,339,Standard Dunk,2PT Field Goal,2,2,DUNKS,1.0,1997
-Tom Gugliotta,339,Tip Shot,2PT Field Goal,2,0,TIP_SHOTS,0.0,1997
-Tom Gugliotta,339,Driving Dunk,2PT Field Goal,1,1,DUNKS,1.0,1998
-Tom Gugliotta,339,Driving Layup,2PT Field Goal,7,4,LAYUPS,0.5714285714285714,1998
-Tom Gugliotta,339,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,1998
-Tom Gugliotta,339,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,1998
-Tom Gugliotta,339,Jump Shot,2PT Field Goal,65,34,JUMP_SHOTS,0.5230769230769231,1998
-Tom Gugliotta,339,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,1998
-Tom Gugliotta,339,Standard Layup,2PT Field Goal,6,2,LAYUPS,0.3333333333333333,1998
-Tom Gugliotta,339,Running Jump Shot,2PT Field Goal,5,3,JUMP_SHOTS,0.6,1998
-Tom Gugliotta,339,Tip Shot,2PT Field Goal,1,1,TIP_SHOTS,1.0,1998
-Tom Gugliotta,339,Standard Dunk,2PT Field Goal,2,1,DUNKS,0.5,1999
-Tom Gugliotta,339,Jump Shot,2PT Field Goal,34,15,JUMP_SHOTS,0.4411764705882353,1999
-Tom Gugliotta,339,Standard Layup,2PT Field Goal,11,7,LAYUPS,0.6363636363636364,1999
-Tom Gugliotta,339,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,1999
-Tom Gugliotta,339,Tip Shot,2PT Field Goal,2,0,TIP_SHOTS,0.0,1999
-Tom Gugliotta,339,Driving Layup,2PT Field Goal,8,5,LAYUPS,0.625,2000
-Tom Gugliotta,339,Standard Dunk,2PT Field Goal,7,7,DUNKS,1.0,2000
-Tom Gugliotta,339,Hook Shot,2PT Field Goal,2,1,POST_MOVES,0.5,2000
-Tom Gugliotta,339,Jump Shot,2PT Field Goal,121,55,JUMP_SHOTS,0.4545454545454545,2000
-Tom Gugliotta,339,Jump Shot,3PT Field Goal,5,0,JUMP_SHOTS,0.0,2000
-Tom Gugliotta,339,Standard Layup,2PT Field Goal,47,32,LAYUPS,0.6808510638297872,2000
-Tom Gugliotta,339,Running Jump Shot,2PT Field Goal,4,2,JUMP_SHOTS,0.5,2000
-Tom Gugliotta,339,Running Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2000
-Tom Gugliotta,339,Standard Dunk,2PT Field Goal,5,5,DUNKS,1.0,2000
-Tom Gugliotta,339,Tip Shot,2PT Field Goal,8,4,TIP_SHOTS,0.5,2000
-Tom Gugliotta,339,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2001
-Tom Gugliotta,339,Jump Shot,2PT Field Goal,44,16,JUMP_SHOTS,0.3636363636363636,2001
-Tom Gugliotta,339,Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2001
-Tom Gugliotta,339,Standard Layup,2PT Field Goal,12,4,LAYUPS,0.3333333333333333,2001
-Tom Gugliotta,339,Reverse Layup,2PT Field Goal,3,3,LAYUPS,1.0,2001
-Tom Gugliotta,339,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2001
-Tom Gugliotta,339,Tip Shot,2PT Field Goal,5,1,TIP_SHOTS,0.2,2001
-Tom Gugliotta,339,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2001
-Tom Gugliotta,339,Jump Shot,2PT Field Goal,6,2,JUMP_SHOTS,0.3333333333333333,2002
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Tom Gugliotta,339,Driving Layup,2PT Field Goal,2,2,Driving Layup Shot,LAYUPS,1.0,1997
+Tom Gugliotta,339,Jump Shot,2PT Field Goal,27,8,Jump Shot,JUMP_SHOTS,0.2962962962962963,1997
+Tom Gugliotta,339,Jump Shot,3PT Field Goal,8,3,Jump Shot,JUMP_SHOTS,0.5625,1997
+Tom Gugliotta,339,Standard Layup,2PT Field Goal,17,4,Layup Shot,LAYUPS,0.2352941176470588,1997
+Tom Gugliotta,339,Standard Dunk,2PT Field Goal,2,2,Slam Dunk Shot,DUNKS,1.0,1997
+Tom Gugliotta,339,Tip Shot,2PT Field Goal,2,0,Tip Shot,TIP_SHOTS,0.0,1997
+Tom Gugliotta,339,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,1998
+Tom Gugliotta,339,Driving Layup,2PT Field Goal,7,4,Driving Layup Shot,LAYUPS,0.5714285714285714,1998
+Tom Gugliotta,339,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,1998
+Tom Gugliotta,339,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,1998
+Tom Gugliotta,339,Jump Shot,2PT Field Goal,65,34,Jump Shot,JUMP_SHOTS,0.5230769230769231,1998
+Tom Gugliotta,339,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1998
+Tom Gugliotta,339,Standard Layup,2PT Field Goal,6,2,Layup Shot,LAYUPS,0.3333333333333333,1998
+Tom Gugliotta,339,Running Jump Shot,2PT Field Goal,5,3,Running Jump Shot,JUMP_SHOTS,0.6,1998
+Tom Gugliotta,339,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,1998
+Tom Gugliotta,339,Standard Dunk,2PT Field Goal,2,1,Dunk Shot,DUNKS,0.5,1999
+Tom Gugliotta,339,Jump Shot,2PT Field Goal,34,15,Jump Shot,JUMP_SHOTS,0.4411764705882353,1999
+Tom Gugliotta,339,Standard Layup,2PT Field Goal,11,7,Layup Shot,LAYUPS,0.6363636363636364,1999
+Tom Gugliotta,339,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,1999
+Tom Gugliotta,339,Tip Shot,2PT Field Goal,2,0,Tip Shot,TIP_SHOTS,0.0,1999
+Tom Gugliotta,339,Driving Layup,2PT Field Goal,8,5,Driving Layup Shot,LAYUPS,0.625,2000
+Tom Gugliotta,339,Standard Dunk,2PT Field Goal,7,7,Dunk Shot,DUNKS,1.0,2000
+Tom Gugliotta,339,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,2000
+Tom Gugliotta,339,Jump Shot,2PT Field Goal,121,55,Jump Shot,JUMP_SHOTS,0.4545454545454545,2000
+Tom Gugliotta,339,Jump Shot,3PT Field Goal,5,0,Jump Shot,JUMP_SHOTS,0.0,2000
+Tom Gugliotta,339,Standard Layup,2PT Field Goal,47,32,Layup Shot,LAYUPS,0.6808510638297872,2000
+Tom Gugliotta,339,Running Jump Shot,2PT Field Goal,4,2,Running Jump Shot,JUMP_SHOTS,0.5,2000
+Tom Gugliotta,339,Running Jump Shot,3PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2000
+Tom Gugliotta,339,Standard Dunk,2PT Field Goal,5,5,Slam Dunk Shot,DUNKS,1.0,2000
+Tom Gugliotta,339,Tip Shot,2PT Field Goal,8,4,Tip Shot,TIP_SHOTS,0.5,2000
+Tom Gugliotta,339,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2001
+Tom Gugliotta,339,Jump Shot,2PT Field Goal,44,16,Jump Shot,JUMP_SHOTS,0.3636363636363636,2001
+Tom Gugliotta,339,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,2001
+Tom Gugliotta,339,Standard Layup,2PT Field Goal,12,4,Layup Shot,LAYUPS,0.3333333333333333,2001
+Tom Gugliotta,339,Reverse Layup,2PT Field Goal,3,3,Reverse Layup Shot,LAYUPS,1.0,2001
+Tom Gugliotta,339,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2001
+Tom Gugliotta,339,Tip Shot,2PT Field Goal,5,1,Tip Shot,TIP_SHOTS,0.2,2001
+Tom Gugliotta,339,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2001
+Tom Gugliotta,339,Jump Shot,2PT Field Goal,6,2,Jump Shot,JUMP_SHOTS,0.3333333333333333,2002

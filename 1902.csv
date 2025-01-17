@@ -1,51 +1,51 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jeff Foster,1902,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2001
-Jeff Foster,1902,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2001
-Jeff Foster,1902,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2004
-Jeff Foster,1902,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2005
-Jeff Foster,1902,Standard Dunk,2PT Field Goal,2,2,DUNKS,1.0,2005
-Jeff Foster,1902,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2005
-Jeff Foster,1902,Jump Shot,2PT Field Goal,10,5,JUMP_SHOTS,0.5,2005
-Jeff Foster,1902,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2005
-Jeff Foster,1902,Standard Layup,2PT Field Goal,15,11,LAYUPS,0.7333333333333333,2005
-Jeff Foster,1902,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2005
-Jeff Foster,1902,Tip Shot,2PT Field Goal,4,3,TIP_SHOTS,0.75,2005
-Jeff Foster,1902,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2006
-Jeff Foster,1902,Standard Layup,2PT Field Goal,2,1,LAYUPS,0.5,2006
-Jeff Foster,1902,Tip Shot,2PT Field Goal,1,1,TIP_SHOTS,1.0,2006
-Jeff Foster,1902,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2007
-Jeff Foster,1902,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2007
-Jeff Foster,1902,Standard Dunk,2PT Field Goal,2,1,DUNKS,0.5,2008
-Jeff Foster,1902,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2008
-Jeff Foster,1902,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2008
-Jeff Foster,1902,Jump Shot,2PT Field Goal,8,3,JUMP_SHOTS,0.375,2008
-Jeff Foster,1902,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2008
-Jeff Foster,1902,Standard Layup,2PT Field Goal,13,6,LAYUPS,0.4615384615384615,2008
-Jeff Foster,1902,Tip Shot,2PT Field Goal,1,1,TIP_SHOTS,1.0,2008
-Jeff Foster,1902,Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,0.3333333333333333,2009
-Jeff Foster,1902,Standard Layup,2PT Field Goal,2,2,LAYUPS,1.0,2009
-Jeff Foster,1902,Tip Shot,2PT Field Goal,1,1,TIP_SHOTS,1.0,2009
-Jeff Foster,1902,Driving Dunk,2PT Field Goal,1,1,DUNKS,1.0,2010
-Jeff Foster,1902,Driving Layup,2PT Field Goal,2,1,LAYUPS,0.5,2010
-Jeff Foster,1902,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2010
-Jeff Foster,1902,Jump Shot,2PT Field Goal,7,3,JUMP_SHOTS,0.4285714285714285,2010
-Jeff Foster,1902,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2010
-Jeff Foster,1902,Standard Layup,2PT Field Goal,4,2,LAYUPS,0.5,2010
-Jeff Foster,1902,Tip Shot,2PT Field Goal,4,1,TIP_SHOTS,0.25,2010
-Jeff Foster,1902,Driving Dunk,2PT Field Goal,1,1,DUNKS,1.0,2011
-Jeff Foster,1902,Driving Dunk,2PT Field Goal,1,1,DUNKS,1.0,2011
-Jeff Foster,1902,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2011
-Jeff Foster,1902,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2011
-Jeff Foster,1902,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2011
-Jeff Foster,1902,Jump Shot,2PT Field Goal,11,4,JUMP_SHOTS,0.3636363636363636,2011
-Jeff Foster,1902,Standard Layup,2PT Field Goal,8,4,LAYUPS,0.5,2011
-Jeff Foster,1902,Putback Layup,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2011
-Jeff Foster,1902,Reverse Layup,2PT Field Goal,2,2,LAYUPS,1.0,2011
-Jeff Foster,1902,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2011
-Jeff Foster,1902,Tip Shot,2PT Field Goal,9,4,TIP_SHOTS,0.4444444444444444,2011
-Jeff Foster,1902,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2012
-Jeff Foster,1902,Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2012
-Jeff Foster,1902,Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2012
-Jeff Foster,1902,Standard Layup,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2012
-Jeff Foster,1902,Putback Layup,2PT Field Goal,1,1,LAYUPS,1.0,2012
-Jeff Foster,1902,Reverse Layup,2PT Field Goal,1,1,LAYUPS,1.0,2012
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Jeff Foster,1902,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2001
+Jeff Foster,1902,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2001
+Jeff Foster,1902,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2004
+Jeff Foster,1902,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2005
+Jeff Foster,1902,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,2005
+Jeff Foster,1902,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2005
+Jeff Foster,1902,Jump Shot,2PT Field Goal,10,5,Jump Shot,JUMP_SHOTS,0.5,2005
+Jeff Foster,1902,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2005
+Jeff Foster,1902,Standard Layup,2PT Field Goal,15,11,Layup Shot,LAYUPS,0.7333333333333333,2005
+Jeff Foster,1902,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2005
+Jeff Foster,1902,Tip Shot,2PT Field Goal,4,3,Tip Shot,TIP_SHOTS,0.75,2005
+Jeff Foster,1902,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2006
+Jeff Foster,1902,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2006
+Jeff Foster,1902,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2006
+Jeff Foster,1902,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2007
+Jeff Foster,1902,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2007
+Jeff Foster,1902,Standard Dunk,2PT Field Goal,2,1,Dunk Shot,DUNKS,0.5,2008
+Jeff Foster,1902,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2008
+Jeff Foster,1902,Hook Shot,2PT Field Goal,1,0,Jump Hook Shot,POST_MOVES,0.0,2008
+Jeff Foster,1902,Jump Shot,2PT Field Goal,8,3,Jump Shot,JUMP_SHOTS,0.375,2008
+Jeff Foster,1902,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2008
+Jeff Foster,1902,Standard Layup,2PT Field Goal,13,6,Layup Shot,LAYUPS,0.4615384615384615,2008
+Jeff Foster,1902,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2008
+Jeff Foster,1902,Jump Shot,2PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.3333333333333333,2009
+Jeff Foster,1902,Standard Layup,2PT Field Goal,2,2,Layup Shot,LAYUPS,1.0,2009
+Jeff Foster,1902,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2009
+Jeff Foster,1902,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2010
+Jeff Foster,1902,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2010
+Jeff Foster,1902,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2010
+Jeff Foster,1902,Jump Shot,2PT Field Goal,7,3,Jump Shot,JUMP_SHOTS,0.4285714285714285,2010
+Jeff Foster,1902,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2010
+Jeff Foster,1902,Standard Layup,2PT Field Goal,4,2,Layup Shot,LAYUPS,0.5,2010
+Jeff Foster,1902,Tip Shot,2PT Field Goal,4,1,Tip Shot,TIP_SHOTS,0.25,2010
+Jeff Foster,1902,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2011
+Jeff Foster,1902,Driving Dunk,2PT Field Goal,1,1,Driving Slam Dunk Shot,DUNKS,1.0,2011
+Jeff Foster,1902,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2011
+Jeff Foster,1902,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2011
+Jeff Foster,1902,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2011
+Jeff Foster,1902,Jump Shot,2PT Field Goal,11,4,Jump Shot,JUMP_SHOTS,0.3636363636363636,2011
+Jeff Foster,1902,Standard Layup,2PT Field Goal,8,4,Layup Shot,LAYUPS,0.5,2011
+Jeff Foster,1902,Putback Layup,2PT Field Goal,3,1,Putback Layup Shot,LAYUPS,0.3333333333333333,2011
+Jeff Foster,1902,Reverse Layup,2PT Field Goal,2,2,Reverse Layup Shot,LAYUPS,1.0,2011
+Jeff Foster,1902,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2011
+Jeff Foster,1902,Tip Shot,2PT Field Goal,9,4,Tip Shot,TIP_SHOTS,0.4444444444444444,2011
+Jeff Foster,1902,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2012
+Jeff Foster,1902,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2012
+Jeff Foster,1902,Jump Shot,3PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.5,2012
+Jeff Foster,1902,Standard Layup,2PT Field Goal,3,2,Layup Shot,LAYUPS,0.6666666666666666,2012
+Jeff Foster,1902,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2012
+Jeff Foster,1902,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2012

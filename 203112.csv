@@ -1,5 +1,5 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Quincy Acy,203112,Jump Shot,2PT Field Goal,4,1,JUMP_SHOTS,0.25,2015
-Quincy Acy,203112,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2015
-Quincy Acy,203112,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2015
-Quincy Acy,203112,Turnaround Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2015
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Quincy Acy,203112,Jump Shot,2PT Field Goal,4,1,Jump Shot,JUMP_SHOTS,0.25,2015
+Quincy Acy,203112,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2015
+Quincy Acy,203112,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2015
+Quincy Acy,203112,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2015

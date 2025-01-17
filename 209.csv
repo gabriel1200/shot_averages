@@ -1,13 +1,13 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Dell Curry,209,Driving Layup,2PT Field Goal,1,0,LAYUPS,0.0,1997
-Dell Curry,209,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,1997
-Dell Curry,209,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,1997
-Dell Curry,209,Standard Layup,2PT Field Goal,3,0,LAYUPS,0.0,1997
-Dell Curry,209,Jump Shot,2PT Field Goal,4,2,JUMP_SHOTS,0.5,1998
-Dell Curry,209,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,1998
-Dell Curry,209,Driving Layup,2PT Field Goal,7,2,LAYUPS,0.2857142857142857,1999
-Dell Curry,209,Jump Shot,2PT Field Goal,118,57,JUMP_SHOTS,0.4830508474576271,1999
-Dell Curry,209,Jump Shot,3PT Field Goal,104,49,JUMP_SHOTS,0.7067307692307693,1999
-Dell Curry,209,Standard Layup,2PT Field Goal,12,7,LAYUPS,0.5833333333333334,1999
-Dell Curry,209,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,1999
-Dell Curry,209,Tip Shot,2PT Field Goal,2,2,TIP_SHOTS,1.0,1999
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Dell Curry,209,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,1997
+Dell Curry,209,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,1997
+Dell Curry,209,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1997
+Dell Curry,209,Standard Layup,2PT Field Goal,3,0,Layup Shot,LAYUPS,0.0,1997
+Dell Curry,209,Jump Shot,2PT Field Goal,4,2,Jump Shot,JUMP_SHOTS,0.5,1998
+Dell Curry,209,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,1998
+Dell Curry,209,Driving Layup,2PT Field Goal,7,2,Driving Layup Shot,LAYUPS,0.2857142857142857,1999
+Dell Curry,209,Jump Shot,2PT Field Goal,118,57,Jump Shot,JUMP_SHOTS,0.4830508474576271,1999
+Dell Curry,209,Jump Shot,3PT Field Goal,104,49,Jump Shot,JUMP_SHOTS,0.7067307692307693,1999
+Dell Curry,209,Standard Layup,2PT Field Goal,12,7,Layup Shot,LAYUPS,0.5833333333333334,1999
+Dell Curry,209,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,1999
+Dell Curry,209,Tip Shot,2PT Field Goal,2,2,Tip Shot,TIP_SHOTS,1.0,1999

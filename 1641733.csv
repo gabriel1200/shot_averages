@@ -1,38 +1,38 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Nick Smith Jr.,1641733,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Nick Smith Jr.,1641733,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Nick Smith Jr.,1641733,Floating Jump Shot,2PT Field Goal,11,5,FLOATING_SHOTS,0.4545454545454545,2024
-Nick Smith Jr.,1641733,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2024
-Nick Smith Jr.,1641733,Driving Layup,2PT Field Goal,6,2,LAYUPS,0.3333333333333333,2024
-Nick Smith Jr.,1641733,Fadeaway Jump Shot,2PT Field Goal,4,1,JUMP_SHOTS,0.25,2024
-Nick Smith Jr.,1641733,Floating Jump Shot,2PT Field Goal,4,2,FLOATING_SHOTS,0.5,2024
-Nick Smith Jr.,1641733,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Nick Smith Jr.,1641733,Jump Shot,3PT Field Goal,56,25,JUMP_SHOTS,0.6696428571428571,2024
-Nick Smith Jr.,1641733,Standard Layup,2PT Field Goal,2,0,LAYUPS,0.0,2024
-Nick Smith Jr.,1641733,Pullup Jump Shot,2PT Field Goal,25,6,JUMP_SHOTS,0.24,2024
-Nick Smith Jr.,1641733,Pullup Jump Shot,3PT Field Goal,13,5,JUMP_SHOTS,0.5769230769230769,2024
-Nick Smith Jr.,1641733,Putback Layup,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Nick Smith Jr.,1641733,Alley Oop Layup,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Nick Smith Jr.,1641733,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2024
-Nick Smith Jr.,1641733,Running Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2024
-Nick Smith Jr.,1641733,Standard Layup,2PT Field Goal,2,0,LAYUPS,0.0,2024
-Nick Smith Jr.,1641733,Running Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,0.3333333333333333,2024
-Nick Smith Jr.,1641733,Running Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,2024
-Nick Smith Jr.,1641733,Reverse Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Nick Smith Jr.,1641733,Step Back Jump Shot,2PT Field Goal,5,0,JUMP_SHOTS,0.0,2024
-Nick Smith Jr.,1641733,Step Back Jump Shot,3PT Field Goal,10,6,JUMP_SHOTS,0.9,2024
-Nick Smith Jr.,1641733,Specialty Dunk,2PT Field Goal,1,1,DUNKS,1.0,2024
-Nick Smith Jr.,1641733,Turnaround Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2024
-Nick Smith Jr.,1641733,Floating Jump Shot,2PT Field Goal,8,3,FLOATING_SHOTS,0.375,2025
-Nick Smith Jr.,1641733,Driving Layup,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2025
-Nick Smith Jr.,1641733,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2025
-Nick Smith Jr.,1641733,Fadeaway Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2025
-Nick Smith Jr.,1641733,Jump Shot,3PT Field Goal,18,8,JUMP_SHOTS,0.6666666666666666,2025
-Nick Smith Jr.,1641733,Pullup Jump Shot,2PT Field Goal,8,3,JUMP_SHOTS,0.375,2025
-Nick Smith Jr.,1641733,Pullup Jump Shot,3PT Field Goal,3,2,JUMP_SHOTS,1.0,2025
-Nick Smith Jr.,1641733,Running Jump Shot,3PT Field Goal,5,2,JUMP_SHOTS,0.6,2025
-Nick Smith Jr.,1641733,Standard Layup,2PT Field Goal,2,2,LAYUPS,1.0,2025
-Nick Smith Jr.,1641733,Running Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
-Nick Smith Jr.,1641733,Step Back Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2025
-Nick Smith Jr.,1641733,Step Back Jump Shot,3PT Field Goal,3,1,JUMP_SHOTS,0.5,2025
-Nick Smith Jr.,1641733,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Nick Smith Jr.,1641733,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2024
+Nick Smith Jr.,1641733,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2024
+Nick Smith Jr.,1641733,Floating Jump Shot,2PT Field Goal,11,5,Driving Floating Jump Shot,FLOATING_SHOTS,0.4545454545454545,2024
+Nick Smith Jr.,1641733,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2024
+Nick Smith Jr.,1641733,Driving Layup,2PT Field Goal,6,2,Driving Layup Shot,LAYUPS,0.3333333333333333,2024
+Nick Smith Jr.,1641733,Fadeaway Jump Shot,2PT Field Goal,4,1,Fadeaway Jump Shot,JUMP_SHOTS,0.25,2024
+Nick Smith Jr.,1641733,Floating Jump Shot,2PT Field Goal,4,2,Floating Jump shot,FLOATING_SHOTS,0.5,2024
+Nick Smith Jr.,1641733,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2024
+Nick Smith Jr.,1641733,Jump Shot,3PT Field Goal,56,25,Jump Shot,JUMP_SHOTS,0.6696428571428571,2024
+Nick Smith Jr.,1641733,Standard Layup,2PT Field Goal,2,0,Layup Shot,LAYUPS,0.0,2024
+Nick Smith Jr.,1641733,Pullup Jump Shot,2PT Field Goal,25,6,Pullup Jump shot,JUMP_SHOTS,0.24,2024
+Nick Smith Jr.,1641733,Pullup Jump Shot,3PT Field Goal,13,5,Pullup Jump shot,JUMP_SHOTS,0.5769230769230769,2024
+Nick Smith Jr.,1641733,Putback Layup,2PT Field Goal,1,0,Putback Layup Shot,LAYUPS,0.0,2024
+Nick Smith Jr.,1641733,Alley Oop Layup,2PT Field Goal,1,0,Running Alley Oop Layup Shot,LAYUPS,0.0,2024
+Nick Smith Jr.,1641733,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2024
+Nick Smith Jr.,1641733,Running Jump Shot,3PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.75,2024
+Nick Smith Jr.,1641733,Standard Layup,2PT Field Goal,2,0,Running Layup Shot,LAYUPS,0.0,2024
+Nick Smith Jr.,1641733,Running Jump Shot,2PT Field Goal,3,1,Running Pull-Up Jump Shot,JUMP_SHOTS,0.3333333333333333,2024
+Nick Smith Jr.,1641733,Running Jump Shot,3PT Field Goal,2,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2024
+Nick Smith Jr.,1641733,Reverse Layup,2PT Field Goal,1,1,Running Reverse Layup Shot,LAYUPS,1.0,2024
+Nick Smith Jr.,1641733,Step Back Jump Shot,2PT Field Goal,5,0,Step Back Jump shot,JUMP_SHOTS,0.0,2024
+Nick Smith Jr.,1641733,Step Back Jump Shot,3PT Field Goal,10,6,Step Back Jump shot,JUMP_SHOTS,0.9,2024
+Nick Smith Jr.,1641733,Specialty Dunk,2PT Field Goal,1,1,Tip Dunk Shot,DUNKS,1.0,2024
+Nick Smith Jr.,1641733,Turnaround Jump Shot,2PT Field Goal,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,0.5,2024
+Nick Smith Jr.,1641733,Floating Jump Shot,2PT Field Goal,8,3,Driving Floating Jump Shot,FLOATING_SHOTS,0.375,2025
+Nick Smith Jr.,1641733,Driving Layup,2PT Field Goal,3,1,Driving Layup Shot,LAYUPS,0.3333333333333333,2025
+Nick Smith Jr.,1641733,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Bank shot,JUMP_SHOTS,1.0,2025
+Nick Smith Jr.,1641733,Fadeaway Jump Shot,2PT Field Goal,2,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2025
+Nick Smith Jr.,1641733,Jump Shot,3PT Field Goal,18,8,Jump Shot,JUMP_SHOTS,0.6666666666666666,2025
+Nick Smith Jr.,1641733,Pullup Jump Shot,2PT Field Goal,8,3,Pullup Jump shot,JUMP_SHOTS,0.375,2025
+Nick Smith Jr.,1641733,Pullup Jump Shot,3PT Field Goal,3,2,Pullup Jump shot,JUMP_SHOTS,1.0,2025
+Nick Smith Jr.,1641733,Running Jump Shot,3PT Field Goal,5,2,Running Jump Shot,JUMP_SHOTS,0.6,2025
+Nick Smith Jr.,1641733,Standard Layup,2PT Field Goal,2,2,Running Layup Shot,LAYUPS,1.0,2025
+Nick Smith Jr.,1641733,Running Jump Shot,3PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2025
+Nick Smith Jr.,1641733,Step Back Jump Shot,2PT Field Goal,2,0,Step Back Jump shot,JUMP_SHOTS,0.0,2025
+Nick Smith Jr.,1641733,Step Back Jump Shot,3PT Field Goal,3,1,Step Back Jump shot,JUMP_SHOTS,0.5,2025
+Nick Smith Jr.,1641733,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2025

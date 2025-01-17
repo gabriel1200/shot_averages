@@ -1,54 +1,54 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Luther Head,101129,Driving Dunk,2PT Field Goal,1,1,DUNKS,1.0,2006
-Luther Head,101129,Driving Layup,2PT Field Goal,5,3,LAYUPS,0.6,2006
-Luther Head,101129,Jump Shot,2PT Field Goal,17,6,JUMP_SHOTS,0.3529411764705882,2006
-Luther Head,101129,Jump Shot,3PT Field Goal,43,15,JUMP_SHOTS,0.5232558139534884,2006
-Luther Head,101129,Standard Layup,2PT Field Goal,13,5,LAYUPS,0.3846153846153846,2006
-Luther Head,101129,Reverse Layup,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2006
-Luther Head,101129,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2006
-Luther Head,101129,Driving Dunk,2PT Field Goal,1,1,DUNKS,1.0,2007
-Luther Head,101129,Finger Roll,2PT Field Goal,1,0,LAYUPS,0.0,2007
-Luther Head,101129,Driving Layup,2PT Field Goal,6,4,LAYUPS,0.6666666666666666,2007
-Luther Head,101129,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2007
-Luther Head,101129,Jump Shot,2PT Field Goal,25,11,JUMP_SHOTS,0.44,2007
-Luther Head,101129,Jump Shot,3PT Field Goal,76,28,JUMP_SHOTS,0.5526315789473685,2007
-Luther Head,101129,Standard Layup,2PT Field Goal,8,3,LAYUPS,0.375,2007
-Luther Head,101129,Reverse Layup,2PT Field Goal,5,5,LAYUPS,1.0,2007
-Luther Head,101129,Running Jump Shot,2PT Field Goal,6,1,JUMP_SHOTS,0.1666666666666666,2007
-Luther Head,101129,Driving Layup,2PT Field Goal,5,5,LAYUPS,1.0,2008
-Luther Head,101129,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2008
-Luther Head,101129,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2008
-Luther Head,101129,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2008
-Luther Head,101129,Jump Shot,2PT Field Goal,8,3,JUMP_SHOTS,0.375,2008
-Luther Head,101129,Jump Shot,3PT Field Goal,23,5,JUMP_SHOTS,0.3260869565217391,2008
-Luther Head,101129,Standard Layup,2PT Field Goal,5,0,LAYUPS,0.0,2008
-Luther Head,101129,Reverse Layup,2PT Field Goal,2,1,LAYUPS,0.5,2008
-Luther Head,101129,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2009
-Luther Head,101129,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2009
-Luther Head,101129,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2009
-Luther Head,101129,Floating Jump Shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2009
-Luther Head,101129,Jump Shot,2PT Field Goal,8,0,JUMP_SHOTS,0.0,2009
-Luther Head,101129,Jump Shot,3PT Field Goal,8,2,JUMP_SHOTS,0.375,2009
-Luther Head,101129,Standard Layup,2PT Field Goal,2,1,LAYUPS,0.5,2009
-Luther Head,101129,Pullup Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2009
-Luther Head,101129,Running Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2009
-Luther Head,101129,Tip Shot,2PT Field Goal,1,0,TIP_SHOTS,0.0,2009
-Luther Head,101129,Finger Roll,2PT Field Goal,2,2,LAYUPS,1.0,2010
-Luther Head,101129,Driving Layup,2PT Field Goal,13,10,LAYUPS,0.7692307692307693,2010
-Luther Head,101129,Driving Layup,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2010
-Luther Head,101129,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2010
-Luther Head,101129,Fadeaway Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,2010
-Luther Head,101129,Floating Jump Shot,2PT Field Goal,5,4,FLOATING_SHOTS,0.8,2010
-Luther Head,101129,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2010
-Luther Head,101129,Jump Shot,2PT Field Goal,55,18,JUMP_SHOTS,0.3272727272727272,2010
-Luther Head,101129,Jump Shot,3PT Field Goal,48,14,JUMP_SHOTS,0.4375,2010
-Luther Head,101129,Standard Layup,2PT Field Goal,19,7,LAYUPS,0.3684210526315789,2010
-Luther Head,101129,Pullup Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,2010
-Luther Head,101129,Pullup Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2010
-Luther Head,101129,Reverse Layup,2PT Field Goal,7,7,LAYUPS,1.0,2010
-Luther Head,101129,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2010
-Luther Head,101129,Running Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,0.3333333333333333,2010
-Luther Head,101129,Driving Layup,2PT Field Goal,2,1,LAYUPS,0.5,2011
-Luther Head,101129,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2011
-Luther Head,101129,Jump Shot,3PT Field Goal,6,2,JUMP_SHOTS,0.5,2011
-Luther Head,101129,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2011
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Luther Head,101129,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2006
+Luther Head,101129,Driving Layup,2PT Field Goal,5,3,Driving Layup Shot,LAYUPS,0.6,2006
+Luther Head,101129,Jump Shot,2PT Field Goal,17,6,Jump Shot,JUMP_SHOTS,0.3529411764705882,2006
+Luther Head,101129,Jump Shot,3PT Field Goal,43,15,Jump Shot,JUMP_SHOTS,0.5232558139534884,2006
+Luther Head,101129,Standard Layup,2PT Field Goal,13,5,Layup Shot,LAYUPS,0.3846153846153846,2006
+Luther Head,101129,Reverse Layup,2PT Field Goal,3,2,Reverse Layup Shot,LAYUPS,0.6666666666666666,2006
+Luther Head,101129,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2006
+Luther Head,101129,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2007
+Luther Head,101129,Finger Roll,2PT Field Goal,1,0,Driving Finger Roll Shot,LAYUPS,0.0,2007
+Luther Head,101129,Driving Layup,2PT Field Goal,6,4,Driving Layup Shot,LAYUPS,0.6666666666666666,2007
+Luther Head,101129,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2007
+Luther Head,101129,Jump Shot,2PT Field Goal,25,11,Jump Shot,JUMP_SHOTS,0.44,2007
+Luther Head,101129,Jump Shot,3PT Field Goal,76,28,Jump Shot,JUMP_SHOTS,0.5526315789473685,2007
+Luther Head,101129,Standard Layup,2PT Field Goal,8,3,Layup Shot,LAYUPS,0.375,2007
+Luther Head,101129,Reverse Layup,2PT Field Goal,5,5,Reverse Layup Shot,LAYUPS,1.0,2007
+Luther Head,101129,Running Jump Shot,2PT Field Goal,6,1,Running Jump Shot,JUMP_SHOTS,0.1666666666666666,2007
+Luther Head,101129,Driving Layup,2PT Field Goal,5,5,Driving Layup Shot,LAYUPS,1.0,2008
+Luther Head,101129,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2008
+Luther Head,101129,Finger Roll,2PT Field Goal,1,1,Finger Roll Layup Shot,LAYUPS,1.0,2008
+Luther Head,101129,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2008
+Luther Head,101129,Jump Shot,2PT Field Goal,8,3,Jump Shot,JUMP_SHOTS,0.375,2008
+Luther Head,101129,Jump Shot,3PT Field Goal,23,5,Jump Shot,JUMP_SHOTS,0.3260869565217391,2008
+Luther Head,101129,Standard Layup,2PT Field Goal,5,0,Layup Shot,LAYUPS,0.0,2008
+Luther Head,101129,Reverse Layup,2PT Field Goal,2,1,Reverse Layup Shot,LAYUPS,0.5,2008
+Luther Head,101129,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2009
+Luther Head,101129,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2009
+Luther Head,101129,Finger Roll,2PT Field Goal,1,1,Finger Roll Layup Shot,LAYUPS,1.0,2009
+Luther Head,101129,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2009
+Luther Head,101129,Jump Shot,2PT Field Goal,8,0,Jump Shot,JUMP_SHOTS,0.0,2009
+Luther Head,101129,Jump Shot,3PT Field Goal,8,2,Jump Shot,JUMP_SHOTS,0.375,2009
+Luther Head,101129,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2009
+Luther Head,101129,Pullup Jump Shot,3PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.5,2009
+Luther Head,101129,Running Jump Shot,2PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.5,2009
+Luther Head,101129,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2009
+Luther Head,101129,Finger Roll,2PT Field Goal,2,2,Driving Finger Roll Layup Shot,LAYUPS,1.0,2010
+Luther Head,101129,Driving Layup,2PT Field Goal,13,10,Driving Layup Shot,LAYUPS,0.7692307692307693,2010
+Luther Head,101129,Driving Layup,2PT Field Goal,3,2,Driving Reverse Layup Shot,LAYUPS,0.6666666666666666,2010
+Luther Head,101129,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2010
+Luther Head,101129,Fadeaway Jump Shot,2PT Field Goal,2,2,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2010
+Luther Head,101129,Floating Jump Shot,2PT Field Goal,5,4,Floating Jump shot,FLOATING_SHOTS,0.8,2010
+Luther Head,101129,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2010
+Luther Head,101129,Jump Shot,2PT Field Goal,55,18,Jump Shot,JUMP_SHOTS,0.3272727272727272,2010
+Luther Head,101129,Jump Shot,3PT Field Goal,48,14,Jump Shot,JUMP_SHOTS,0.4375,2010
+Luther Head,101129,Standard Layup,2PT Field Goal,19,7,Layup Shot,LAYUPS,0.3684210526315789,2010
+Luther Head,101129,Pullup Jump Shot,2PT Field Goal,2,2,Pullup Jump shot,JUMP_SHOTS,1.0,2010
+Luther Head,101129,Pullup Jump Shot,3PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.5,2010
+Luther Head,101129,Reverse Layup,2PT Field Goal,7,7,Reverse Layup Shot,LAYUPS,1.0,2010
+Luther Head,101129,Running Jump Shot,2PT Field Goal,1,0,Running Bank shot,JUMP_SHOTS,0.0,2010
+Luther Head,101129,Running Jump Shot,2PT Field Goal,3,1,Running Jump Shot,JUMP_SHOTS,0.3333333333333333,2010
+Luther Head,101129,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2011
+Luther Head,101129,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2011
+Luther Head,101129,Jump Shot,3PT Field Goal,6,2,Jump Shot,JUMP_SHOTS,0.5,2011
+Luther Head,101129,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2011

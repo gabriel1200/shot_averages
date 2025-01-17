@@ -1,9 +1,9 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Dereon Seabron,1631220,Floating Jump Shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2024
-Dereon Seabron,1631220,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2024
-Dereon Seabron,1631220,Driving Layup,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2024
-Dereon Seabron,1631220,Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2024
-Dereon Seabron,1631220,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Dereon Seabron,1631220,Step Back Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2024
-Dereon Seabron,1631220,Putback Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Dereon Seabron,1631220,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Dereon Seabron,1631220,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2024
+Dereon Seabron,1631220,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2024
+Dereon Seabron,1631220,Driving Layup,2PT Field Goal,3,1,Driving Layup Shot,LAYUPS,0.3333333333333333,2024
+Dereon Seabron,1631220,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2024
+Dereon Seabron,1631220,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2024
+Dereon Seabron,1631220,Step Back Jump Shot,3PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.5,2024
+Dereon Seabron,1631220,Putback Layup,2PT Field Goal,1,1,Tip Layup Shot,LAYUPS,1.0,2024
+Dereon Seabron,1631220,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2024

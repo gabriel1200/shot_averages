@@ -1,41 +1,41 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Patty Mills,201988,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2011
-Patty Mills,201988,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2011
-Patty Mills,201988,Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,0.3333333333333333,2011
-Patty Mills,201988,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2011
-Patty Mills,201988,Pullup Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2011
-Patty Mills,201988,Jump Shot,3PT Field Goal,3,1,JUMP_SHOTS,0.5,2013
-Patty Mills,201988,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2015
-Patty Mills,201988,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2015
-Patty Mills,201988,Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2016
-Patty Mills,201988,Jump Shot,2PT Field Goal,8,2,JUMP_SHOTS,0.25,2016
-Patty Mills,201988,Jump Shot,3PT Field Goal,15,5,JUMP_SHOTS,0.5,2016
-Patty Mills,201988,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2016
-Patty Mills,201988,Pullup Jump Shot,2PT Field Goal,7,4,JUMP_SHOTS,0.5714285714285714,2016
-Patty Mills,201988,Pullup Jump Shot,3PT Field Goal,3,2,JUMP_SHOTS,1.0,2016
-Patty Mills,201988,Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2017
-Patty Mills,201988,Pullup Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2017
-Patty Mills,201988,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2018
-Patty Mills,201988,Pullup Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2018
-Patty Mills,201988,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Patty Mills,201988,Finger Roll,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Patty Mills,201988,Floating Jump Shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2024
-Patty Mills,201988,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Patty Mills,201988,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Patty Mills,201988,Jump Shot,3PT Field Goal,27,10,JUMP_SHOTS,0.5555555555555556,2024
-Patty Mills,201988,Pullup Jump Shot,2PT Field Goal,5,2,JUMP_SHOTS,0.4,2024
-Patty Mills,201988,Pullup Jump Shot,3PT Field Goal,8,3,JUMP_SHOTS,0.5625,2024
-Patty Mills,201988,Running Jump Shot,3PT Field Goal,3,0,JUMP_SHOTS,0.0,2024
-Patty Mills,201988,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Patty Mills,201988,Running Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2024
-Patty Mills,201988,Step Back Jump Shot,2PT Field Goal,3,3,JUMP_SHOTS,1.0,2024
-Patty Mills,201988,Step Back Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Patty Mills,201988,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Patty Mills,201988,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2025
-Patty Mills,201988,Jump Shot,3PT Field Goal,6,2,JUMP_SHOTS,0.5,2025
-Patty Mills,201988,Pullup Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,0.3333333333333333,2025
-Patty Mills,201988,Pullup Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2025
-Patty Mills,201988,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
-Patty Mills,201988,Running Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,2025
-Patty Mills,201988,Running Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
-Patty Mills,201988,Step Back Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Patty Mills,201988,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2011
+Patty Mills,201988,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2011
+Patty Mills,201988,Jump Shot,2PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.3333333333333333,2011
+Patty Mills,201988,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2011
+Patty Mills,201988,Pullup Jump Shot,3PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.5,2011
+Patty Mills,201988,Jump Shot,3PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.5,2013
+Patty Mills,201988,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2015
+Patty Mills,201988,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2015
+Patty Mills,201988,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2016
+Patty Mills,201988,Jump Shot,2PT Field Goal,8,2,Jump Shot,JUMP_SHOTS,0.25,2016
+Patty Mills,201988,Jump Shot,3PT Field Goal,15,5,Jump Shot,JUMP_SHOTS,0.5,2016
+Patty Mills,201988,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2016
+Patty Mills,201988,Pullup Jump Shot,2PT Field Goal,7,4,Pullup Jump shot,JUMP_SHOTS,0.5714285714285714,2016
+Patty Mills,201988,Pullup Jump Shot,3PT Field Goal,3,2,Pullup Jump shot,JUMP_SHOTS,1.0,2016
+Patty Mills,201988,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,2017
+Patty Mills,201988,Pullup Jump Shot,3PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.5,2017
+Patty Mills,201988,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2018
+Patty Mills,201988,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2018
+Patty Mills,201988,Finger Roll,2PT Field Goal,1,1,Cutting Finger Roll Layup Shot,LAYUPS,1.0,2024
+Patty Mills,201988,Finger Roll,2PT Field Goal,1,0,Driving Finger Roll Layup Shot,LAYUPS,0.0,2024
+Patty Mills,201988,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2024
+Patty Mills,201988,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2024
+Patty Mills,201988,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2024
+Patty Mills,201988,Jump Shot,3PT Field Goal,27,10,Jump Shot,JUMP_SHOTS,0.5555555555555556,2024
+Patty Mills,201988,Pullup Jump Shot,2PT Field Goal,5,2,Pullup Jump shot,JUMP_SHOTS,0.4,2024
+Patty Mills,201988,Pullup Jump Shot,3PT Field Goal,8,3,Pullup Jump shot,JUMP_SHOTS,0.5625,2024
+Patty Mills,201988,Running Jump Shot,3PT Field Goal,3,0,Running Jump Shot,JUMP_SHOTS,0.0,2024
+Patty Mills,201988,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2024
+Patty Mills,201988,Running Jump Shot,3PT Field Goal,1,1,Running Pull-Up Jump Shot,JUMP_SHOTS,1.5,2024
+Patty Mills,201988,Step Back Jump Shot,2PT Field Goal,3,3,Step Back Jump shot,JUMP_SHOTS,1.0,2024
+Patty Mills,201988,Step Back Jump Shot,3PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2024
+Patty Mills,201988,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2024
+Patty Mills,201988,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2025
+Patty Mills,201988,Jump Shot,3PT Field Goal,6,2,Jump Shot,JUMP_SHOTS,0.5,2025
+Patty Mills,201988,Pullup Jump Shot,2PT Field Goal,3,1,Pullup Jump shot,JUMP_SHOTS,0.3333333333333333,2025
+Patty Mills,201988,Pullup Jump Shot,3PT Field Goal,2,1,Pullup Jump shot,JUMP_SHOTS,0.75,2025
+Patty Mills,201988,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2025
+Patty Mills,201988,Running Jump Shot,3PT Field Goal,2,0,Running Jump Shot,JUMP_SHOTS,0.0,2025
+Patty Mills,201988,Running Jump Shot,3PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2025
+Patty Mills,201988,Step Back Jump Shot,3PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2025

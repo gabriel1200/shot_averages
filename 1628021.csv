@@ -1,29 +1,29 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-David Nwaba,1628021,Specialty Dunk,2PT Field Goal,1,1,DUNKS,1.0,2017
-David Nwaba,1628021,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2017
-David Nwaba,1628021,Putback Layup,2PT Field Goal,1,1,LAYUPS,1.0,2017
-David Nwaba,1628021,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2017
-David Nwaba,1628021,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2017
-David Nwaba,1628021,Driving Layup,2PT Field Goal,1,0,LAYUPS,0.0,2018
-David Nwaba,1628021,Driving Layup,2PT Field Goal,3,3,LAYUPS,1.0,2020
-David Nwaba,1628021,Jump Shot,3PT Field Goal,6,3,JUMP_SHOTS,0.75,2020
-David Nwaba,1628021,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2020
-David Nwaba,1628021,Running Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2020
-David Nwaba,1628021,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2020
-David Nwaba,1628021,Alley Oop Layup,2PT Field Goal,1,1,LAYUPS,1.0,2021
-David Nwaba,1628021,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2021
-David Nwaba,1628021,Floating Jump Shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2021
-David Nwaba,1628021,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,2021
-David Nwaba,1628021,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2021
-David Nwaba,1628021,Putback Layup,2PT Field Goal,1,1,LAYUPS,1.0,2021
-David Nwaba,1628021,Specialty Dunk,2PT Field Goal,1,1,DUNKS,1.0,2022
-David Nwaba,1628021,Standard Layup,2PT Field Goal,2,1,LAYUPS,0.5,2022
-David Nwaba,1628021,Floating Jump Shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2022
-David Nwaba,1628021,Driving Layup,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2022
-David Nwaba,1628021,Driving Layup,2PT Field Goal,1,0,LAYUPS,0.0,2022
-David Nwaba,1628021,Floating Jump Shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2022
-David Nwaba,1628021,Jump Shot,3PT Field Goal,4,0,JUMP_SHOTS,0.0,2022
-David Nwaba,1628021,Standard Layup,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2022
-David Nwaba,1628021,Putback Layup,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2022
-David Nwaba,1628021,Finger Roll,2PT Field Goal,1,0,LAYUPS,0.0,2022
-David Nwaba,1628021,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2022
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+David Nwaba,1628021,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2017
+David Nwaba,1628021,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2017
+David Nwaba,1628021,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2017
+David Nwaba,1628021,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2017
+David Nwaba,1628021,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2017
+David Nwaba,1628021,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2018
+David Nwaba,1628021,Driving Layup,2PT Field Goal,3,3,Driving Layup Shot,LAYUPS,1.0,2020
+David Nwaba,1628021,Jump Shot,3PT Field Goal,6,3,Jump Shot,JUMP_SHOTS,0.75,2020
+David Nwaba,1628021,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2020
+David Nwaba,1628021,Running Jump Shot,3PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2020
+David Nwaba,1628021,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2020
+David Nwaba,1628021,Alley Oop Layup,2PT Field Goal,1,1,Alley Oop Layup shot,LAYUPS,1.0,2021
+David Nwaba,1628021,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2021
+David Nwaba,1628021,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2021
+David Nwaba,1628021,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2021
+David Nwaba,1628021,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2021
+David Nwaba,1628021,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2021
+David Nwaba,1628021,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2022
+David Nwaba,1628021,Standard Layup,2PT Field Goal,2,1,Cutting Layup Shot,LAYUPS,0.5,2022
+David Nwaba,1628021,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2022
+David Nwaba,1628021,Driving Layup,2PT Field Goal,3,2,Driving Layup Shot,LAYUPS,0.6666666666666666,2022
+David Nwaba,1628021,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2022
+David Nwaba,1628021,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2022
+David Nwaba,1628021,Jump Shot,3PT Field Goal,4,0,Jump Shot,JUMP_SHOTS,0.0,2022
+David Nwaba,1628021,Standard Layup,2PT Field Goal,3,1,Layup Shot,LAYUPS,0.3333333333333333,2022
+David Nwaba,1628021,Putback Layup,2PT Field Goal,3,2,Putback Layup Shot,LAYUPS,0.6666666666666666,2022
+David Nwaba,1628021,Finger Roll,2PT Field Goal,1,0,Running Finger Roll Layup Shot,LAYUPS,0.0,2022
+David Nwaba,1628021,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2022

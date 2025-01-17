@@ -1,52 +1,52 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Antoine Wright,101120,Driving Layup,2PT Field Goal,1,0,LAYUPS,0.0,2006
-Antoine Wright,101120,Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2006
-Antoine Wright,101120,Jump Shot,3PT Field Goal,4,0,JUMP_SHOTS,0.0,2006
-Antoine Wright,101120,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2006
-Antoine Wright,101120,Tip Shot,2PT Field Goal,1,0,TIP_SHOTS,0.0,2006
-Antoine Wright,101120,Driving Layup,2PT Field Goal,5,4,LAYUPS,0.8,2007
-Antoine Wright,101120,Jump Shot,2PT Field Goal,11,2,JUMP_SHOTS,0.1818181818181818,2007
-Antoine Wright,101120,Jump Shot,3PT Field Goal,15,7,JUMP_SHOTS,0.7,2007
-Antoine Wright,101120,Standard Layup,2PT Field Goal,16,8,LAYUPS,0.5,2007
-Antoine Wright,101120,Reverse Layup,2PT Field Goal,1,0,LAYUPS,0.0,2007
-Antoine Wright,101120,Tip Shot,2PT Field Goal,1,1,TIP_SHOTS,1.0,2007
-Antoine Wright,101120,Driving Dunk,2PT Field Goal,1,1,DUNKS,1.0,2008
-Antoine Wright,101120,Finger Roll,2PT Field Goal,2,2,LAYUPS,1.0,2008
-Antoine Wright,101120,Driving Layup,2PT Field Goal,6,4,LAYUPS,0.6666666666666666,2008
-Antoine Wright,101120,Driving Layup,2PT Field Goal,3,3,LAYUPS,1.0,2008
-Antoine Wright,101120,Standard Dunk,2PT Field Goal,2,2,DUNKS,1.0,2008
-Antoine Wright,101120,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2008
-Antoine Wright,101120,Floating Jump Shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2008
-Antoine Wright,101120,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2008
-Antoine Wright,101120,Jump Shot,2PT Field Goal,16,6,JUMP_SHOTS,0.375,2008
-Antoine Wright,101120,Jump Shot,3PT Field Goal,37,10,JUMP_SHOTS,0.4054054054054054,2008
-Antoine Wright,101120,Standard Layup,2PT Field Goal,12,2,LAYUPS,0.1666666666666666,2008
-Antoine Wright,101120,Reverse Layup,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2008
-Antoine Wright,101120,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2008
-Antoine Wright,101120,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2008
-Antoine Wright,101120,Tip Shot,2PT Field Goal,3,1,TIP_SHOTS,0.3333333333333333,2008
-Antoine Wright,101120,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2008
-Antoine Wright,101120,Alley Oop Layup,2PT Field Goal,1,1,LAYUPS,1.0,2009
-Antoine Wright,101120,Driving Dunk,2PT Field Goal,1,0,DUNKS,0.0,2009
-Antoine Wright,101120,Finger Roll,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2009
-Antoine Wright,101120,Driving Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2009
-Antoine Wright,101120,Driving Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2009
-Antoine Wright,101120,Driving Layup,2PT Field Goal,36,19,LAYUPS,0.5277777777777778,2009
-Antoine Wright,101120,Driving Layup,2PT Field Goal,3,0,LAYUPS,0.0,2009
-Antoine Wright,101120,Standard Dunk,2PT Field Goal,3,2,DUNKS,0.6666666666666666,2009
-Antoine Wright,101120,Fadeaway Jump Shot,2PT Field Goal,5,3,JUMP_SHOTS,0.6,2009
-Antoine Wright,101120,Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2009
-Antoine Wright,101120,Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2009
-Antoine Wright,101120,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2009
-Antoine Wright,101120,Jump Shot,2PT Field Goal,49,17,JUMP_SHOTS,0.3469387755102041,2009
-Antoine Wright,101120,Jump Shot,3PT Field Goal,87,28,JUMP_SHOTS,0.4827586206896552,2009
-Antoine Wright,101120,Standard Layup,2PT Field Goal,28,11,LAYUPS,0.3928571428571428,2009
-Antoine Wright,101120,Pullup Jump Shot,2PT Field Goal,6,5,JUMP_SHOTS,0.8333333333333334,2009
-Antoine Wright,101120,Pullup Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2009
-Antoine Wright,101120,Reverse Layup,2PT Field Goal,7,4,LAYUPS,0.5714285714285714,2009
-Antoine Wright,101120,Running Jump Shot,2PT Field Goal,5,1,JUMP_SHOTS,0.2,2009
-Antoine Wright,101120,Running Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2009
-Antoine Wright,101120,Standard Layup,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2009
-Antoine Wright,101120,Reverse Layup,2PT Field Goal,1,1,LAYUPS,1.0,2009
-Antoine Wright,101120,Tip Shot,2PT Field Goal,1,0,TIP_SHOTS,0.0,2009
-Antoine Wright,101120,Turnaround Jump Shot,2PT Field Goal,4,1,JUMP_SHOTS,0.25,2009
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Antoine Wright,101120,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2006
+Antoine Wright,101120,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2006
+Antoine Wright,101120,Jump Shot,3PT Field Goal,4,0,Jump Shot,JUMP_SHOTS,0.0,2006
+Antoine Wright,101120,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2006
+Antoine Wright,101120,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2006
+Antoine Wright,101120,Driving Layup,2PT Field Goal,5,4,Driving Layup Shot,LAYUPS,0.8,2007
+Antoine Wright,101120,Jump Shot,2PT Field Goal,11,2,Jump Shot,JUMP_SHOTS,0.1818181818181818,2007
+Antoine Wright,101120,Jump Shot,3PT Field Goal,15,7,Jump Shot,JUMP_SHOTS,0.7,2007
+Antoine Wright,101120,Standard Layup,2PT Field Goal,16,8,Layup Shot,LAYUPS,0.5,2007
+Antoine Wright,101120,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2007
+Antoine Wright,101120,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2007
+Antoine Wright,101120,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2008
+Antoine Wright,101120,Finger Roll,2PT Field Goal,2,2,Driving Finger Roll Layup Shot,LAYUPS,1.0,2008
+Antoine Wright,101120,Driving Layup,2PT Field Goal,6,4,Driving Layup Shot,LAYUPS,0.6666666666666666,2008
+Antoine Wright,101120,Driving Layup,2PT Field Goal,3,3,Driving Reverse Layup Shot,LAYUPS,1.0,2008
+Antoine Wright,101120,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,2008
+Antoine Wright,101120,Finger Roll,2PT Field Goal,1,1,Finger Roll Layup Shot,LAYUPS,1.0,2008
+Antoine Wright,101120,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2008
+Antoine Wright,101120,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2008
+Antoine Wright,101120,Jump Shot,2PT Field Goal,16,6,Jump Shot,JUMP_SHOTS,0.375,2008
+Antoine Wright,101120,Jump Shot,3PT Field Goal,37,10,Jump Shot,JUMP_SHOTS,0.4054054054054054,2008
+Antoine Wright,101120,Standard Layup,2PT Field Goal,12,2,Layup Shot,LAYUPS,0.1666666666666666,2008
+Antoine Wright,101120,Reverse Layup,2PT Field Goal,3,2,Reverse Layup Shot,LAYUPS,0.6666666666666666,2008
+Antoine Wright,101120,Running Jump Shot,2PT Field Goal,1,0,Running Bank shot,JUMP_SHOTS,0.0,2008
+Antoine Wright,101120,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2008
+Antoine Wright,101120,Tip Shot,2PT Field Goal,3,1,Tip Shot,TIP_SHOTS,0.3333333333333333,2008
+Antoine Wright,101120,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2008
+Antoine Wright,101120,Alley Oop Layup,2PT Field Goal,1,1,Alley Oop Layup shot,LAYUPS,1.0,2009
+Antoine Wright,101120,Driving Dunk,2PT Field Goal,1,0,Driving Dunk Shot,DUNKS,0.0,2009
+Antoine Wright,101120,Finger Roll,2PT Field Goal,3,2,Driving Finger Roll Layup Shot,LAYUPS,0.6666666666666666,2009
+Antoine Wright,101120,Driving Hook Shot,2PT Field Goal,1,1,Driving Hook Shot,POST_MOVES,1.0,2009
+Antoine Wright,101120,Driving Jump Shot,2PT Field Goal,1,1,Driving Jump shot,JUMP_SHOTS,1.0,2009
+Antoine Wright,101120,Driving Layup,2PT Field Goal,36,19,Driving Layup Shot,LAYUPS,0.5277777777777778,2009
+Antoine Wright,101120,Driving Layup,2PT Field Goal,3,0,Driving Reverse Layup Shot,LAYUPS,0.0,2009
+Antoine Wright,101120,Standard Dunk,2PT Field Goal,3,2,Dunk Shot,DUNKS,0.6666666666666666,2009
+Antoine Wright,101120,Fadeaway Jump Shot,2PT Field Goal,5,3,Fadeaway Jump Shot,JUMP_SHOTS,0.6,2009
+Antoine Wright,101120,Jump Shot,2PT Field Goal,2,0,Jump Bank Shot,JUMP_SHOTS,0.0,2009
+Antoine Wright,101120,Jump Shot,3PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.5,2009
+Antoine Wright,101120,Hook Shot,2PT Field Goal,1,0,Jump Hook Shot,POST_MOVES,0.0,2009
+Antoine Wright,101120,Jump Shot,2PT Field Goal,49,17,Jump Shot,JUMP_SHOTS,0.3469387755102041,2009
+Antoine Wright,101120,Jump Shot,3PT Field Goal,87,28,Jump Shot,JUMP_SHOTS,0.4827586206896552,2009
+Antoine Wright,101120,Standard Layup,2PT Field Goal,28,11,Layup Shot,LAYUPS,0.3928571428571428,2009
+Antoine Wright,101120,Pullup Jump Shot,2PT Field Goal,6,5,Pullup Jump shot,JUMP_SHOTS,0.8333333333333334,2009
+Antoine Wright,101120,Pullup Jump Shot,3PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.5,2009
+Antoine Wright,101120,Reverse Layup,2PT Field Goal,7,4,Reverse Layup Shot,LAYUPS,0.5714285714285714,2009
+Antoine Wright,101120,Running Jump Shot,2PT Field Goal,5,1,Running Jump Shot,JUMP_SHOTS,0.2,2009
+Antoine Wright,101120,Running Jump Shot,3PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2009
+Antoine Wright,101120,Standard Layup,2PT Field Goal,3,1,Running Layup Shot,LAYUPS,0.3333333333333333,2009
+Antoine Wright,101120,Reverse Layup,2PT Field Goal,1,1,Running Reverse Layup Shot,LAYUPS,1.0,2009
+Antoine Wright,101120,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2009
+Antoine Wright,101120,Turnaround Jump Shot,2PT Field Goal,4,1,Turnaround Jump Shot,JUMP_SHOTS,0.25,2009

@@ -1,11 +1,11 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Dan Langhi,2061,Driving Layup,2PT Field Goal,2,1,LAYUPS,0.5,2003
-Dan Langhi,2061,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2003
-Dan Langhi,2061,Jump Shot,2PT Field Goal,62,26,JUMP_SHOTS,0.4193548387096774,2003
-Dan Langhi,2061,Jump Shot,3PT Field Goal,11,1,JUMP_SHOTS,0.1363636363636363,2003
-Dan Langhi,2061,Standard Layup,2PT Field Goal,11,2,LAYUPS,0.1818181818181818,2003
-Dan Langhi,2061,Reverse Layup,2PT Field Goal,2,2,LAYUPS,1.0,2003
-Dan Langhi,2061,Running Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2003
-Dan Langhi,2061,Tip Shot,2PT Field Goal,2,1,TIP_SHOTS,0.5,2003
-Dan Langhi,2061,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2003
-Dan Langhi,2061,Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2004
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Dan Langhi,2061,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2003
+Dan Langhi,2061,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2003
+Dan Langhi,2061,Jump Shot,2PT Field Goal,62,26,Jump Shot,JUMP_SHOTS,0.4193548387096774,2003
+Dan Langhi,2061,Jump Shot,3PT Field Goal,11,1,Jump Shot,JUMP_SHOTS,0.1363636363636363,2003
+Dan Langhi,2061,Standard Layup,2PT Field Goal,11,2,Layup Shot,LAYUPS,0.1818181818181818,2003
+Dan Langhi,2061,Reverse Layup,2PT Field Goal,2,2,Reverse Layup Shot,LAYUPS,1.0,2003
+Dan Langhi,2061,Running Jump Shot,2PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.5,2003
+Dan Langhi,2061,Tip Shot,2PT Field Goal,2,1,Tip Shot,TIP_SHOTS,0.5,2003
+Dan Langhi,2061,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2003
+Dan Langhi,2061,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2004

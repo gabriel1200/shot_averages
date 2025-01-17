@@ -1,11 +1,11 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Juan Toscano-Anderson,1629308,Alley Oop Layup,2PT Field Goal,1,1,LAYUPS,1.0,2020
-Juan Toscano-Anderson,1629308,Finger Roll,2PT Field Goal,1,0,LAYUPS,0.0,2020
-Juan Toscano-Anderson,1629308,Running Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2021
-Juan Toscano-Anderson,1629308,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2022
-Juan Toscano-Anderson,1629308,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2022
-Juan Toscano-Anderson,1629308,Jump Shot,3PT Field Goal,4,1,JUMP_SHOTS,0.375,2022
-Juan Toscano-Anderson,1629308,Standard Layup,2PT Field Goal,2,0,LAYUPS,0.0,2022
-Juan Toscano-Anderson,1629308,Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2023
-Juan Toscano-Anderson,1629308,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2023
-Juan Toscano-Anderson,1629308,Putback Layup,2PT Field Goal,1,1,LAYUPS,1.0,2023
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Juan Toscano-Anderson,1629308,Alley Oop Layup,2PT Field Goal,1,1,Alley Oop Layup shot,LAYUPS,1.0,2020
+Juan Toscano-Anderson,1629308,Finger Roll,2PT Field Goal,1,0,Driving Finger Roll Layup Shot,LAYUPS,0.0,2020
+Juan Toscano-Anderson,1629308,Running Jump Shot,3PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2021
+Juan Toscano-Anderson,1629308,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2022
+Juan Toscano-Anderson,1629308,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2022
+Juan Toscano-Anderson,1629308,Jump Shot,3PT Field Goal,4,1,Jump Shot,JUMP_SHOTS,0.375,2022
+Juan Toscano-Anderson,1629308,Standard Layup,2PT Field Goal,2,0,Layup Shot,LAYUPS,0.0,2022
+Juan Toscano-Anderson,1629308,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Jump Shot,FLOATING_SHOTS,1.0,2023
+Juan Toscano-Anderson,1629308,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2023
+Juan Toscano-Anderson,1629308,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2023

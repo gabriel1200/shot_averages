@@ -1,53 +1,53 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Anthony Gill,1630264,Standard Layup,2PT Field Goal,2,0,LAYUPS,0.0,2021
-Anthony Gill,1630264,Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2021
-Anthony Gill,1630264,Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2021
-Anthony Gill,1630264,Jump Shot,3PT Field Goal,5,2,JUMP_SHOTS,0.6,2021
-Anthony Gill,1630264,Alley Oop Layup,2PT Field Goal,1,1,LAYUPS,1.0,2021
-Anthony Gill,1630264,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2021
-Anthony Gill,1630264,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2022
-Anthony Gill,1630264,Floating Jump Shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2023
-Anthony Gill,1630264,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2023
-Anthony Gill,1630264,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2023
-Anthony Gill,1630264,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2023
-Anthony Gill,1630264,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2023
-Anthony Gill,1630264,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2023
-Anthony Gill,1630264,Standard Layup,2PT Field Goal,2,1,LAYUPS,0.5,2023
-Anthony Gill,1630264,Specialty Dunk,2PT Field Goal,1,1,DUNKS,1.0,2023
-Anthony Gill,1630264,Putback Layup,2PT Field Goal,1,1,LAYUPS,1.0,2023
-Anthony Gill,1630264,Turnaround Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2023
-Anthony Gill,1630264,Alley Oop Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Anthony Gill,1630264,Specialty Dunk,2PT Field Goal,5,4,DUNKS,0.8,2024
-Anthony Gill,1630264,Standard Layup,2PT Field Goal,4,3,LAYUPS,0.75,2024
-Anthony Gill,1630264,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Anthony Gill,1630264,Floating Jump Shot,2PT Field Goal,7,6,FLOATING_SHOTS,0.8571428571428571,2024
-Anthony Gill,1630264,Driving Hook Shot,2PT Field Goal,4,1,POST_MOVES,0.25,2024
-Anthony Gill,1630264,Driving Layup,2PT Field Goal,7,2,LAYUPS,0.2857142857142857,2024
-Anthony Gill,1630264,Floating Jump Shot,2PT Field Goal,5,3,FLOATING_SHOTS,0.6,2024
-Anthony Gill,1630264,Hook Shot,2PT Field Goal,2,1,POST_MOVES,0.5,2024
-Anthony Gill,1630264,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2024
-Anthony Gill,1630264,Jump Shot,3PT Field Goal,21,5,JUMP_SHOTS,0.3571428571428571,2024
-Anthony Gill,1630264,Standard Layup,2PT Field Goal,10,6,LAYUPS,0.6,2024
-Anthony Gill,1630264,Pullup Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Anthony Gill,1630264,Pullup Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2024
-Anthony Gill,1630264,Putback Layup,2PT Field Goal,5,4,LAYUPS,0.8,2024
-Anthony Gill,1630264,Reverse Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Anthony Gill,1630264,Alley Oop Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Anthony Gill,1630264,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Anthony Gill,1630264,Standard Layup,2PT Field Goal,5,3,LAYUPS,0.6,2024
-Anthony Gill,1630264,Putback Layup,2PT Field Goal,3,0,LAYUPS,0.0,2024
-Anthony Gill,1630264,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Anthony Gill,1630264,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Anthony Gill,1630264,Turnaround Hook Shot,2PT Field Goal,4,1,POST_MOVES,0.25,2024
-Anthony Gill,1630264,Turnaround Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2024
-Anthony Gill,1630264,Specialty Dunk,2PT Field Goal,1,1,DUNKS,1.0,2025
-Anthony Gill,1630264,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Anthony Gill,1630264,Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2025
-Anthony Gill,1630264,Floating Jump Shot,2PT Field Goal,3,0,FLOATING_SHOTS,0.0,2025
-Anthony Gill,1630264,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2025
-Anthony Gill,1630264,Driving Layup,2PT Field Goal,6,2,LAYUPS,0.3333333333333333,2025
-Anthony Gill,1630264,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2025
-Anthony Gill,1630264,Jump Shot,3PT Field Goal,9,2,JUMP_SHOTS,0.3333333333333333,2025
-Anthony Gill,1630264,Putback Layup,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Anthony Gill,1630264,Standard Layup,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2025
-Anthony Gill,1630264,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Anthony Gill,1630264,Standard Layup,2PT Field Goal,2,0,Cutting Layup Shot,LAYUPS,0.0,2021
+Anthony Gill,1630264,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,1.0,2021
+Anthony Gill,1630264,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2021
+Anthony Gill,1630264,Jump Shot,3PT Field Goal,5,2,Jump Shot,JUMP_SHOTS,0.6,2021
+Anthony Gill,1630264,Alley Oop Layup,2PT Field Goal,1,1,Running Alley Oop Layup Shot,LAYUPS,1.0,2021
+Anthony Gill,1630264,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2021
+Anthony Gill,1630264,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2022
+Anthony Gill,1630264,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2023
+Anthony Gill,1630264,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2023
+Anthony Gill,1630264,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2023
+Anthony Gill,1630264,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2023
+Anthony Gill,1630264,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2023
+Anthony Gill,1630264,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2023
+Anthony Gill,1630264,Standard Layup,2PT Field Goal,2,1,Running Layup Shot,LAYUPS,0.5,2023
+Anthony Gill,1630264,Specialty Dunk,2PT Field Goal,1,1,Tip Dunk Shot,DUNKS,1.0,2023
+Anthony Gill,1630264,Putback Layup,2PT Field Goal,1,1,Tip Layup Shot,LAYUPS,1.0,2023
+Anthony Gill,1630264,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2023
+Anthony Gill,1630264,Alley Oop Layup,2PT Field Goal,1,1,Alley Oop Layup shot,LAYUPS,1.0,2024
+Anthony Gill,1630264,Specialty Dunk,2PT Field Goal,5,4,Cutting Dunk Shot,DUNKS,0.8,2024
+Anthony Gill,1630264,Standard Layup,2PT Field Goal,4,3,Cutting Layup Shot,LAYUPS,0.75,2024
+Anthony Gill,1630264,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2024
+Anthony Gill,1630264,Floating Jump Shot,2PT Field Goal,7,6,Driving Floating Jump Shot,FLOATING_SHOTS,0.8571428571428571,2024
+Anthony Gill,1630264,Driving Hook Shot,2PT Field Goal,4,1,Driving Hook Shot,POST_MOVES,0.25,2024
+Anthony Gill,1630264,Driving Layup,2PT Field Goal,7,2,Driving Layup Shot,LAYUPS,0.2857142857142857,2024
+Anthony Gill,1630264,Floating Jump Shot,2PT Field Goal,5,3,Floating Jump shot,FLOATING_SHOTS,0.6,2024
+Anthony Gill,1630264,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,2024
+Anthony Gill,1630264,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2024
+Anthony Gill,1630264,Jump Shot,3PT Field Goal,21,5,Jump Shot,JUMP_SHOTS,0.3571428571428571,2024
+Anthony Gill,1630264,Standard Layup,2PT Field Goal,10,6,Layup Shot,LAYUPS,0.6,2024
+Anthony Gill,1630264,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2024
+Anthony Gill,1630264,Pullup Jump Shot,3PT Field Goal,2,1,Pullup Jump shot,JUMP_SHOTS,0.75,2024
+Anthony Gill,1630264,Putback Layup,2PT Field Goal,5,4,Putback Layup Shot,LAYUPS,0.8,2024
+Anthony Gill,1630264,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2024
+Anthony Gill,1630264,Alley Oop Layup,2PT Field Goal,1,1,Running Alley Oop Layup Shot,LAYUPS,1.0,2024
+Anthony Gill,1630264,Finger Roll,2PT Field Goal,1,1,Running Finger Roll Layup Shot,LAYUPS,1.0,2024
+Anthony Gill,1630264,Standard Layup,2PT Field Goal,5,3,Running Layup Shot,LAYUPS,0.6,2024
+Anthony Gill,1630264,Putback Layup,2PT Field Goal,3,0,Tip Layup Shot,LAYUPS,0.0,2024
+Anthony Gill,1630264,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Bank shot,JUMP_SHOTS,0.0,2024
+Anthony Gill,1630264,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2024
+Anthony Gill,1630264,Turnaround Hook Shot,2PT Field Goal,4,1,Turnaround Hook Shot,POST_MOVES,0.25,2024
+Anthony Gill,1630264,Turnaround Jump Shot,2PT Field Goal,2,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2024
+Anthony Gill,1630264,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2025
+Anthony Gill,1630264,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2025
+Anthony Gill,1630264,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,1.0,2025
+Anthony Gill,1630264,Floating Jump Shot,2PT Field Goal,3,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2025
+Anthony Gill,1630264,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2025
+Anthony Gill,1630264,Driving Layup,2PT Field Goal,6,2,Driving Layup Shot,LAYUPS,0.3333333333333333,2025
+Anthony Gill,1630264,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2025
+Anthony Gill,1630264,Jump Shot,3PT Field Goal,9,2,Jump Shot,JUMP_SHOTS,0.3333333333333333,2025
+Anthony Gill,1630264,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2025
+Anthony Gill,1630264,Standard Layup,2PT Field Goal,3,2,Running Layup Shot,LAYUPS,0.6666666666666666,2025
+Anthony Gill,1630264,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2025

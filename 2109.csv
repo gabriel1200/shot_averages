@@ -1,12 +1,12 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Eddie Gill,2109,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2002
-Eddie Gill,2109,Jump Shot,2PT Field Goal,8,3,JUMP_SHOTS,0.375,2002
-Eddie Gill,2109,Jump Shot,3PT Field Goal,3,2,JUMP_SHOTS,1.0,2002
-Eddie Gill,2109,Driving Layup,2PT Field Goal,2,1,LAYUPS,0.5,2004
-Eddie Gill,2109,Jump Shot,2PT Field Goal,5,1,JUMP_SHOTS,0.2,2004
-Eddie Gill,2109,Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2004
-Eddie Gill,2109,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2005
-Eddie Gill,2109,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2005
-Eddie Gill,2109,Jump Shot,2PT Field Goal,6,4,JUMP_SHOTS,0.6666666666666666,2005
-Eddie Gill,2109,Jump Shot,3PT Field Goal,6,4,JUMP_SHOTS,1.0,2005
-Eddie Gill,2109,Standard Layup,2PT Field Goal,2,0,LAYUPS,0.0,2005
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Eddie Gill,2109,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2002
+Eddie Gill,2109,Jump Shot,2PT Field Goal,8,3,Jump Shot,JUMP_SHOTS,0.375,2002
+Eddie Gill,2109,Jump Shot,3PT Field Goal,3,2,Jump Shot,JUMP_SHOTS,1.0,2002
+Eddie Gill,2109,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2004
+Eddie Gill,2109,Jump Shot,2PT Field Goal,5,1,Jump Shot,JUMP_SHOTS,0.2,2004
+Eddie Gill,2109,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,2004
+Eddie Gill,2109,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2005
+Eddie Gill,2109,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2005
+Eddie Gill,2109,Jump Shot,2PT Field Goal,6,4,Jump Shot,JUMP_SHOTS,0.6666666666666666,2005
+Eddie Gill,2109,Jump Shot,3PT Field Goal,6,4,Jump Shot,JUMP_SHOTS,1.0,2005
+Eddie Gill,2109,Standard Layup,2PT Field Goal,2,0,Layup Shot,LAYUPS,0.0,2005

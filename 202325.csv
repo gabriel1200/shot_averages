@@ -1,34 +1,34 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Wesley Johnson,202325,Alley Oop Dunk,2PT Field Goal,1,1,DUNKS,1.0,2013
-Wesley Johnson,202325,Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,0.3333333333333333,2013
-Wesley Johnson,202325,Jump Shot,3PT Field Goal,7,1,JUMP_SHOTS,0.2142857142857142,2013
-Wesley Johnson,202325,Putback Dunk,2PT Field Goal,1,1,DUNKS,1.0,2013
-Wesley Johnson,202325,Driving Dunk,2PT Field Goal,1,1,DUNKS,1.0,2014
-Wesley Johnson,202325,Jump Shot,2PT Field Goal,8,1,JUMP_SHOTS,0.125,2014
-Wesley Johnson,202325,Jump Shot,3PT Field Goal,8,3,JUMP_SHOTS,0.5625,2014
-Wesley Johnson,202325,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2014
-Wesley Johnson,202325,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2014
-Wesley Johnson,202325,Tip Shot,2PT Field Goal,1,0,TIP_SHOTS,0.0,2014
-Wesley Johnson,202325,Driving Dunk,2PT Field Goal,2,2,DUNKS,1.0,2015
-Wesley Johnson,202325,Driving Layup,2PT Field Goal,1,0,LAYUPS,0.0,2015
-Wesley Johnson,202325,Driving Dunk,2PT Field Goal,1,1,DUNKS,1.0,2015
-Wesley Johnson,202325,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2015
-Wesley Johnson,202325,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2015
-Wesley Johnson,202325,Jump Shot,2PT Field Goal,36,12,JUMP_SHOTS,0.3333333333333333,2015
-Wesley Johnson,202325,Jump Shot,3PT Field Goal,33,12,JUMP_SHOTS,0.5454545454545454,2015
-Wesley Johnson,202325,Standard Layup,2PT Field Goal,6,3,LAYUPS,0.5,2015
-Wesley Johnson,202325,Pullup Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,2015
-Wesley Johnson,202325,Putback Dunk,2PT Field Goal,1,1,DUNKS,1.0,2015
-Wesley Johnson,202325,Reverse Layup,2PT Field Goal,1,0,LAYUPS,0.0,2015
-Wesley Johnson,202325,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2015
-Wesley Johnson,202325,Step Back Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2015
-Wesley Johnson,202325,Turnaround Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2015
-Wesley Johnson,202325,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2015
-Wesley Johnson,202325,Jump Shot,2PT Field Goal,8,5,JUMP_SHOTS,0.625,2016
-Wesley Johnson,202325,Jump Shot,3PT Field Goal,16,6,JUMP_SHOTS,0.5625,2016
-Wesley Johnson,202325,Pullup Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2016
-Wesley Johnson,202325,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2016
-Wesley Johnson,202325,Step Back Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2016
-Wesley Johnson,202325,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2019
-Wesley Johnson,202325,Jump Shot,3PT Field Goal,7,5,JUMP_SHOTS,1.0714285714285714,2019
-Wesley Johnson,202325,Pullup Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2019
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Wesley Johnson,202325,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2013
+Wesley Johnson,202325,Jump Shot,2PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.3333333333333333,2013
+Wesley Johnson,202325,Jump Shot,3PT Field Goal,7,1,Jump Shot,JUMP_SHOTS,0.2142857142857142,2013
+Wesley Johnson,202325,Putback Dunk,2PT Field Goal,1,1,Putback Dunk Shot,DUNKS,1.0,2013
+Wesley Johnson,202325,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2014
+Wesley Johnson,202325,Jump Shot,2PT Field Goal,8,1,Jump Shot,JUMP_SHOTS,0.125,2014
+Wesley Johnson,202325,Jump Shot,3PT Field Goal,8,3,Jump Shot,JUMP_SHOTS,0.5625,2014
+Wesley Johnson,202325,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2014
+Wesley Johnson,202325,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2014
+Wesley Johnson,202325,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2014
+Wesley Johnson,202325,Driving Dunk,2PT Field Goal,2,2,Driving Dunk Shot,DUNKS,1.0,2015
+Wesley Johnson,202325,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2015
+Wesley Johnson,202325,Driving Dunk,2PT Field Goal,1,1,Driving Slam Dunk Shot,DUNKS,1.0,2015
+Wesley Johnson,202325,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2015
+Wesley Johnson,202325,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2015
+Wesley Johnson,202325,Jump Shot,2PT Field Goal,36,12,Jump Shot,JUMP_SHOTS,0.3333333333333333,2015
+Wesley Johnson,202325,Jump Shot,3PT Field Goal,33,12,Jump Shot,JUMP_SHOTS,0.5454545454545454,2015
+Wesley Johnson,202325,Standard Layup,2PT Field Goal,6,3,Layup Shot,LAYUPS,0.5,2015
+Wesley Johnson,202325,Pullup Jump Shot,2PT Field Goal,2,2,Pullup Jump shot,JUMP_SHOTS,1.0,2015
+Wesley Johnson,202325,Putback Dunk,2PT Field Goal,1,1,Putback Dunk Shot,DUNKS,1.0,2015
+Wesley Johnson,202325,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2015
+Wesley Johnson,202325,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2015
+Wesley Johnson,202325,Step Back Jump Shot,3PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2015
+Wesley Johnson,202325,Turnaround Jump Shot,2PT Field Goal,2,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2015
+Wesley Johnson,202325,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2015
+Wesley Johnson,202325,Jump Shot,2PT Field Goal,8,5,Jump Shot,JUMP_SHOTS,0.625,2016
+Wesley Johnson,202325,Jump Shot,3PT Field Goal,16,6,Jump Shot,JUMP_SHOTS,0.5625,2016
+Wesley Johnson,202325,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2016
+Wesley Johnson,202325,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2016
+Wesley Johnson,202325,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2016
+Wesley Johnson,202325,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2019
+Wesley Johnson,202325,Jump Shot,3PT Field Goal,7,5,Jump Shot,JUMP_SHOTS,1.0714285714285714,2019
+Wesley Johnson,202325,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2019

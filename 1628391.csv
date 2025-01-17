@@ -1,40 +1,40 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-D.J. Wilson,1628391,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2018
-D.J. Wilson,1628391,Step Back Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2018
-D.J. Wilson,1628391,Alley Oop Dunk,2PT Field Goal,2,1,DUNKS,0.5,2019
-D.J. Wilson,1628391,Alley Oop Layup,2PT Field Goal,1,1,LAYUPS,1.0,2019
-D.J. Wilson,1628391,Specialty Dunk,2PT Field Goal,1,1,DUNKS,1.0,2019
-D.J. Wilson,1628391,Standard Layup,2PT Field Goal,2,0,LAYUPS,0.0,2019
-D.J. Wilson,1628391,Floating Jump Shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2019
-D.J. Wilson,1628391,Driving Layup,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2019
-D.J. Wilson,1628391,Floating Jump Shot,2PT Field Goal,2,0,FLOATING_SHOTS,0.0,2019
-D.J. Wilson,1628391,Hook Shot,2PT Field Goal,3,2,POST_MOVES,0.6666666666666666,2019
-D.J. Wilson,1628391,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2019
-D.J. Wilson,1628391,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2019
-D.J. Wilson,1628391,Jump Shot,3PT Field Goal,25,13,JUMP_SHOTS,0.78,2019
-D.J. Wilson,1628391,Standard Layup,2PT Field Goal,2,1,LAYUPS,0.5,2019
-D.J. Wilson,1628391,Pullup Jump Shot,2PT Field Goal,6,4,JUMP_SHOTS,0.6666666666666666,2019
-D.J. Wilson,1628391,Pullup Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2019
-D.J. Wilson,1628391,Putback Dunk,2PT Field Goal,1,0,DUNKS,0.0,2019
-D.J. Wilson,1628391,Standard Dunk,2PT Field Goal,2,2,DUNKS,1.0,2019
-D.J. Wilson,1628391,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2019
-D.J. Wilson,1628391,Step Back Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2019
-D.J. Wilson,1628391,Step Back Jump Shot,3PT Field Goal,2,2,JUMP_SHOTS,1.5,2019
-D.J. Wilson,1628391,Specialty Dunk,2PT Field Goal,1,1,DUNKS,1.0,2019
-D.J. Wilson,1628391,Putback Layup,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2019
-D.J. Wilson,1628391,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2019
-D.J. Wilson,1628391,Specialty Dunk,2PT Field Goal,3,3,DUNKS,1.0,2020
-D.J. Wilson,1628391,Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2020
-D.J. Wilson,1628391,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2020
-D.J. Wilson,1628391,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2020
-D.J. Wilson,1628391,Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,0.3333333333333333,2020
-D.J. Wilson,1628391,Jump Shot,3PT Field Goal,18,7,JUMP_SHOTS,0.5833333333333334,2020
-D.J. Wilson,1628391,Standard Layup,2PT Field Goal,2,2,LAYUPS,1.0,2020
-D.J. Wilson,1628391,Pullup Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,2020
-D.J. Wilson,1628391,Pullup Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2020
-D.J. Wilson,1628391,Reverse Layup,2PT Field Goal,1,0,LAYUPS,0.0,2020
-D.J. Wilson,1628391,Putback Layup,2PT Field Goal,2,1,LAYUPS,0.5,2020
-D.J. Wilson,1628391,Turnaround Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2020
-D.J. Wilson,1628391,Specialty Dunk,2PT Field Goal,1,1,DUNKS,1.0,2021
-D.J. Wilson,1628391,Jump Shot,3PT Field Goal,5,2,JUMP_SHOTS,0.6,2021
-D.J. Wilson,1628391,Turnaround Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2021
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+D.J. Wilson,1628391,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2018
+D.J. Wilson,1628391,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2018
+D.J. Wilson,1628391,Alley Oop Dunk,2PT Field Goal,2,1,Alley Oop Dunk Shot,DUNKS,0.5,2019
+D.J. Wilson,1628391,Alley Oop Layup,2PT Field Goal,1,1,Alley Oop Layup shot,LAYUPS,1.0,2019
+D.J. Wilson,1628391,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2019
+D.J. Wilson,1628391,Standard Layup,2PT Field Goal,2,0,Cutting Layup Shot,LAYUPS,0.0,2019
+D.J. Wilson,1628391,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2019
+D.J. Wilson,1628391,Driving Layup,2PT Field Goal,3,1,Driving Layup Shot,LAYUPS,0.3333333333333333,2019
+D.J. Wilson,1628391,Floating Jump Shot,2PT Field Goal,2,0,Floating Jump shot,FLOATING_SHOTS,0.0,2019
+D.J. Wilson,1628391,Hook Shot,2PT Field Goal,3,2,Hook Shot,POST_MOVES,0.6666666666666666,2019
+D.J. Wilson,1628391,Jump Shot,2PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2019
+D.J. Wilson,1628391,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2019
+D.J. Wilson,1628391,Jump Shot,3PT Field Goal,25,13,Jump Shot,JUMP_SHOTS,0.78,2019
+D.J. Wilson,1628391,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2019
+D.J. Wilson,1628391,Pullup Jump Shot,2PT Field Goal,6,4,Pullup Jump shot,JUMP_SHOTS,0.6666666666666666,2019
+D.J. Wilson,1628391,Pullup Jump Shot,3PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.5,2019
+D.J. Wilson,1628391,Putback Dunk,2PT Field Goal,1,0,Putback Dunk Shot,DUNKS,0.0,2019
+D.J. Wilson,1628391,Standard Dunk,2PT Field Goal,2,2,Running Dunk Shot,DUNKS,1.0,2019
+D.J. Wilson,1628391,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2019
+D.J. Wilson,1628391,Step Back Jump Shot,2PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2019
+D.J. Wilson,1628391,Step Back Jump Shot,3PT Field Goal,2,2,Step Back Jump shot,JUMP_SHOTS,1.5,2019
+D.J. Wilson,1628391,Specialty Dunk,2PT Field Goal,1,1,Tip Dunk Shot,DUNKS,1.0,2019
+D.J. Wilson,1628391,Putback Layup,2PT Field Goal,3,2,Tip Layup Shot,LAYUPS,0.6666666666666666,2019
+D.J. Wilson,1628391,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,1.0,2019
+D.J. Wilson,1628391,Specialty Dunk,2PT Field Goal,3,3,Cutting Dunk Shot,DUNKS,1.0,2020
+D.J. Wilson,1628391,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Jump Shot,FLOATING_SHOTS,1.0,2020
+D.J. Wilson,1628391,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2020
+D.J. Wilson,1628391,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2020
+D.J. Wilson,1628391,Jump Shot,2PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.3333333333333333,2020
+D.J. Wilson,1628391,Jump Shot,3PT Field Goal,18,7,Jump Shot,JUMP_SHOTS,0.5833333333333334,2020
+D.J. Wilson,1628391,Standard Layup,2PT Field Goal,2,2,Layup Shot,LAYUPS,1.0,2020
+D.J. Wilson,1628391,Pullup Jump Shot,2PT Field Goal,2,2,Pullup Jump shot,JUMP_SHOTS,1.0,2020
+D.J. Wilson,1628391,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2020
+D.J. Wilson,1628391,Reverse Layup,2PT Field Goal,1,0,Running Reverse Layup Shot,LAYUPS,0.0,2020
+D.J. Wilson,1628391,Putback Layup,2PT Field Goal,2,1,Tip Layup Shot,LAYUPS,0.5,2020
+D.J. Wilson,1628391,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2020
+D.J. Wilson,1628391,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2021
+D.J. Wilson,1628391,Jump Shot,3PT Field Goal,5,2,Jump Shot,JUMP_SHOTS,0.6,2021
+D.J. Wilson,1628391,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2021

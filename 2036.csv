@@ -1,10 +1,10 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Chris Mihm,2036,Alley Oop Dunk,2PT Field Goal,1,1,DUNKS,1.0,2005
-Chris Mihm,2036,Specialty Dunk,2PT Field Goal,1,0,DUNKS,0.0,2005
-Chris Mihm,2036,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2005
-Chris Mihm,2036,Standard Layup,2PT Field Goal,6,3,LAYUPS,0.5,2005
-Chris Mihm,2036,Reverse Layup,2PT Field Goal,1,1,LAYUPS,1.0,2005
-Chris Mihm,2036,Tip Shot,2PT Field Goal,2,0,TIP_SHOTS,0.0,2005
-Chris Mihm,2036,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2006
-Chris Mihm,2036,Tip Shot,2PT Field Goal,1,1,TIP_SHOTS,1.0,2006
-Chris Mihm,2036,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2009
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Chris Mihm,2036,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2005
+Chris Mihm,2036,Specialty Dunk,2PT Field Goal,1,0,Follow Up Dunk Shot,DUNKS,0.0,2005
+Chris Mihm,2036,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2005
+Chris Mihm,2036,Standard Layup,2PT Field Goal,6,3,Layup Shot,LAYUPS,0.5,2005
+Chris Mihm,2036,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2005
+Chris Mihm,2036,Tip Shot,2PT Field Goal,2,0,Tip Shot,TIP_SHOTS,0.0,2005
+Chris Mihm,2036,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2006
+Chris Mihm,2036,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2006
+Chris Mihm,2036,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2009

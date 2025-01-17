@@ -1,7 +1,7 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Colin Castleton,1630658,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Colin Castleton,1630658,Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2024
-Colin Castleton,1630658,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Colin Castleton,1630658,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Colin Castleton,1630658,Turnaround Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2024
-Colin Castleton,1630658,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Colin Castleton,1630658,Standard Layup,2PT Field Goal,1,0,Cutting Layup Shot,LAYUPS,0.0,2024
+Colin Castleton,1630658,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Jump Shot,FLOATING_SHOTS,1.0,2024
+Colin Castleton,1630658,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2024
+Colin Castleton,1630658,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2024
+Colin Castleton,1630658,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2024
+Colin Castleton,1630658,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2025

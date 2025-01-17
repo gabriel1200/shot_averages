@@ -1,50 +1,50 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Marcus Sasser,1631204,Standard Layup,2PT Field Goal,2,2,LAYUPS,1.0,2024
-Marcus Sasser,1631204,Finger Roll,2PT Field Goal,5,3,LAYUPS,0.6,2024
-Marcus Sasser,1631204,Floating Jump Shot,2PT Field Goal,3,2,FLOATING_SHOTS,0.6666666666666666,2024
-Marcus Sasser,1631204,Floating Jump Shot,2PT Field Goal,65,30,FLOATING_SHOTS,0.4615384615384615,2024
-Marcus Sasser,1631204,Driving Layup,2PT Field Goal,21,10,LAYUPS,0.4761904761904761,2024
-Marcus Sasser,1631204,Driving Layup,2PT Field Goal,5,2,LAYUPS,0.4,2024
-Marcus Sasser,1631204,Fadeaway Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,0.6666666666666666,2024
-Marcus Sasser,1631204,Floating Jump Shot,2PT Field Goal,14,6,FLOATING_SHOTS,0.4285714285714285,2024
-Marcus Sasser,1631204,Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2024
-Marcus Sasser,1631204,Jump Shot,2PT Field Goal,8,4,JUMP_SHOTS,0.5,2024
-Marcus Sasser,1631204,Jump Shot,3PT Field Goal,89,32,JUMP_SHOTS,0.5393258426966292,2024
-Marcus Sasser,1631204,Standard Layup,2PT Field Goal,2,2,LAYUPS,1.0,2024
-Marcus Sasser,1631204,Pullup Jump Shot,2PT Field Goal,88,37,JUMP_SHOTS,0.4204545454545454,2024
-Marcus Sasser,1631204,Pullup Jump Shot,3PT Field Goal,44,17,JUMP_SHOTS,0.5795454545454546,2024
-Marcus Sasser,1631204,Putback Layup,2PT Field Goal,2,2,LAYUPS,1.0,2024
-Marcus Sasser,1631204,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2024
-Marcus Sasser,1631204,Finger Roll,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Marcus Sasser,1631204,Running Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,0.6666666666666666,2024
-Marcus Sasser,1631204,Running Jump Shot,3PT Field Goal,9,4,JUMP_SHOTS,0.6666666666666666,2024
-Marcus Sasser,1631204,Standard Layup,2PT Field Goal,11,8,LAYUPS,0.7272727272727273,2024
-Marcus Sasser,1631204,Running Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2024
-Marcus Sasser,1631204,Running Jump Shot,3PT Field Goal,3,1,JUMP_SHOTS,0.5,2024
-Marcus Sasser,1631204,Reverse Layup,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2024
-Marcus Sasser,1631204,Step Back Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2024
-Marcus Sasser,1631204,Step Back Jump Shot,2PT Field Goal,14,4,JUMP_SHOTS,0.2857142857142857,2024
-Marcus Sasser,1631204,Step Back Jump Shot,3PT Field Goal,79,29,JUMP_SHOTS,0.5506329113924051,2024
-Marcus Sasser,1631204,Putback Layup,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Marcus Sasser,1631204,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2024
-Marcus Sasser,1631204,Standard Layup,2PT Field Goal,2,2,LAYUPS,1.0,2025
-Marcus Sasser,1631204,Finger Roll,2PT Field Goal,4,2,LAYUPS,0.5,2025
-Marcus Sasser,1631204,Floating Jump Shot,2PT Field Goal,16,8,FLOATING_SHOTS,0.5,2025
-Marcus Sasser,1631204,Driving Layup,2PT Field Goal,6,3,LAYUPS,0.5,2025
-Marcus Sasser,1631204,Driving Layup,2PT Field Goal,4,4,LAYUPS,1.0,2025
-Marcus Sasser,1631204,Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2025
-Marcus Sasser,1631204,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
-Marcus Sasser,1631204,Jump Shot,2PT Field Goal,4,2,JUMP_SHOTS,0.5,2025
-Marcus Sasser,1631204,Jump Shot,3PT Field Goal,33,13,JUMP_SHOTS,0.5909090909090909,2025
-Marcus Sasser,1631204,Pullup Jump Shot,2PT Field Goal,11,5,JUMP_SHOTS,0.4545454545454545,2025
-Marcus Sasser,1631204,Pullup Jump Shot,3PT Field Goal,13,6,JUMP_SHOTS,0.6923076923076923,2025
-Marcus Sasser,1631204,Finger Roll,2PT Field Goal,1,0,LAYUPS,0.0,2025
-Marcus Sasser,1631204,Running Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2025
-Marcus Sasser,1631204,Running Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,2025
-Marcus Sasser,1631204,Standard Layup,2PT Field Goal,5,3,LAYUPS,0.6,2025
-Marcus Sasser,1631204,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
-Marcus Sasser,1631204,Running Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2025
-Marcus Sasser,1631204,Reverse Layup,2PT Field Goal,3,3,LAYUPS,1.0,2025
-Marcus Sasser,1631204,Step Back Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,2025
-Marcus Sasser,1631204,Step Back Jump Shot,3PT Field Goal,19,7,JUMP_SHOTS,0.5526315789473685,2025
-Marcus Sasser,1631204,Putback Layup,2PT Field Goal,1,1,LAYUPS,1.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Marcus Sasser,1631204,Standard Layup,2PT Field Goal,2,2,Cutting Layup Shot,LAYUPS,1.0,2024
+Marcus Sasser,1631204,Finger Roll,2PT Field Goal,5,3,Driving Finger Roll Layup Shot,LAYUPS,0.6,2024
+Marcus Sasser,1631204,Floating Jump Shot,2PT Field Goal,3,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.6666666666666666,2024
+Marcus Sasser,1631204,Floating Jump Shot,2PT Field Goal,65,30,Driving Floating Jump Shot,FLOATING_SHOTS,0.4615384615384615,2024
+Marcus Sasser,1631204,Driving Layup,2PT Field Goal,21,10,Driving Layup Shot,LAYUPS,0.4761904761904761,2024
+Marcus Sasser,1631204,Driving Layup,2PT Field Goal,5,2,Driving Reverse Layup Shot,LAYUPS,0.4,2024
+Marcus Sasser,1631204,Fadeaway Jump Shot,2PT Field Goal,3,2,Fadeaway Jump Shot,JUMP_SHOTS,0.6666666666666666,2024
+Marcus Sasser,1631204,Floating Jump Shot,2PT Field Goal,14,6,Floating Jump shot,FLOATING_SHOTS,0.4285714285714285,2024
+Marcus Sasser,1631204,Jump Shot,3PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.5,2024
+Marcus Sasser,1631204,Jump Shot,2PT Field Goal,8,4,Jump Shot,JUMP_SHOTS,0.5,2024
+Marcus Sasser,1631204,Jump Shot,3PT Field Goal,89,32,Jump Shot,JUMP_SHOTS,0.5393258426966292,2024
+Marcus Sasser,1631204,Standard Layup,2PT Field Goal,2,2,Layup Shot,LAYUPS,1.0,2024
+Marcus Sasser,1631204,Pullup Jump Shot,2PT Field Goal,88,37,Pullup Jump shot,JUMP_SHOTS,0.4204545454545454,2024
+Marcus Sasser,1631204,Pullup Jump Shot,3PT Field Goal,44,17,Pullup Jump shot,JUMP_SHOTS,0.5795454545454546,2024
+Marcus Sasser,1631204,Putback Layup,2PT Field Goal,2,2,Putback Layup Shot,LAYUPS,1.0,2024
+Marcus Sasser,1631204,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2024
+Marcus Sasser,1631204,Finger Roll,2PT Field Goal,1,0,Running Finger Roll Layup Shot,LAYUPS,0.0,2024
+Marcus Sasser,1631204,Running Jump Shot,2PT Field Goal,3,2,Running Jump Shot,JUMP_SHOTS,0.6666666666666666,2024
+Marcus Sasser,1631204,Running Jump Shot,3PT Field Goal,9,4,Running Jump Shot,JUMP_SHOTS,0.6666666666666666,2024
+Marcus Sasser,1631204,Standard Layup,2PT Field Goal,11,8,Running Layup Shot,LAYUPS,0.7272727272727273,2024
+Marcus Sasser,1631204,Running Jump Shot,2PT Field Goal,2,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2024
+Marcus Sasser,1631204,Running Jump Shot,3PT Field Goal,3,1,Running Pull-Up Jump Shot,JUMP_SHOTS,0.5,2024
+Marcus Sasser,1631204,Reverse Layup,2PT Field Goal,3,2,Running Reverse Layup Shot,LAYUPS,0.6666666666666666,2024
+Marcus Sasser,1631204,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Bank Jump Shot,JUMP_SHOTS,1.0,2024
+Marcus Sasser,1631204,Step Back Jump Shot,2PT Field Goal,14,4,Step Back Jump shot,JUMP_SHOTS,0.2857142857142857,2024
+Marcus Sasser,1631204,Step Back Jump Shot,3PT Field Goal,79,29,Step Back Jump shot,JUMP_SHOTS,0.5506329113924051,2024
+Marcus Sasser,1631204,Putback Layup,2PT Field Goal,1,0,Tip Layup Shot,LAYUPS,0.0,2024
+Marcus Sasser,1631204,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,1.0,2024
+Marcus Sasser,1631204,Standard Layup,2PT Field Goal,2,2,Cutting Layup Shot,LAYUPS,1.0,2025
+Marcus Sasser,1631204,Finger Roll,2PT Field Goal,4,2,Driving Finger Roll Layup Shot,LAYUPS,0.5,2025
+Marcus Sasser,1631204,Floating Jump Shot,2PT Field Goal,16,8,Driving Floating Jump Shot,FLOATING_SHOTS,0.5,2025
+Marcus Sasser,1631204,Driving Layup,2PT Field Goal,6,3,Driving Layup Shot,LAYUPS,0.5,2025
+Marcus Sasser,1631204,Driving Layup,2PT Field Goal,4,4,Driving Reverse Layup Shot,LAYUPS,1.0,2025
+Marcus Sasser,1631204,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2025
+Marcus Sasser,1631204,Jump Shot,2PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2025
+Marcus Sasser,1631204,Jump Shot,2PT Field Goal,4,2,Jump Shot,JUMP_SHOTS,0.5,2025
+Marcus Sasser,1631204,Jump Shot,3PT Field Goal,33,13,Jump Shot,JUMP_SHOTS,0.5909090909090909,2025
+Marcus Sasser,1631204,Pullup Jump Shot,2PT Field Goal,11,5,Pullup Jump shot,JUMP_SHOTS,0.4545454545454545,2025
+Marcus Sasser,1631204,Pullup Jump Shot,3PT Field Goal,13,6,Pullup Jump shot,JUMP_SHOTS,0.6923076923076923,2025
+Marcus Sasser,1631204,Finger Roll,2PT Field Goal,1,0,Running Finger Roll Layup Shot,LAYUPS,0.0,2025
+Marcus Sasser,1631204,Running Jump Shot,2PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.5,2025
+Marcus Sasser,1631204,Running Jump Shot,3PT Field Goal,2,0,Running Jump Shot,JUMP_SHOTS,0.0,2025
+Marcus Sasser,1631204,Standard Layup,2PT Field Goal,5,3,Running Layup Shot,LAYUPS,0.6,2025
+Marcus Sasser,1631204,Running Jump Shot,2PT Field Goal,1,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2025
+Marcus Sasser,1631204,Running Jump Shot,3PT Field Goal,2,1,Running Pull-Up Jump Shot,JUMP_SHOTS,0.75,2025
+Marcus Sasser,1631204,Reverse Layup,2PT Field Goal,3,3,Running Reverse Layup Shot,LAYUPS,1.0,2025
+Marcus Sasser,1631204,Step Back Jump Shot,2PT Field Goal,2,2,Step Back Jump shot,JUMP_SHOTS,1.0,2025
+Marcus Sasser,1631204,Step Back Jump Shot,3PT Field Goal,19,7,Step Back Jump shot,JUMP_SHOTS,0.5526315789473685,2025
+Marcus Sasser,1631204,Putback Layup,2PT Field Goal,1,1,Tip Layup Shot,LAYUPS,1.0,2025

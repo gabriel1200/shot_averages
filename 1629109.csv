@@ -1,23 +1,23 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Gary Clark,1629109,Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2019
-Gary Clark,1629109,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2019
-Gary Clark,1629109,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2020
-Gary Clark,1629109,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2020
-Gary Clark,1629109,Jump Shot,3PT Field Goal,10,1,JUMP_SHOTS,0.15,2020
-Gary Clark,1629109,Putback Layup,2PT Field Goal,1,1,LAYUPS,1.0,2020
-Gary Clark,1629109,Running Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2020
-Gary Clark,1629109,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2021
-Gary Clark,1629109,Driving Layup,2PT Field Goal,1,0,LAYUPS,0.0,2021
-Gary Clark,1629109,Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2021
-Gary Clark,1629109,Jump Shot,3PT Field Goal,23,4,JUMP_SHOTS,0.2608695652173913,2021
-Gary Clark,1629109,Standard Layup,2PT Field Goal,2,2,LAYUPS,1.0,2021
-Gary Clark,1629109,Pullup Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2021
-Gary Clark,1629109,Pullup Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2021
-Gary Clark,1629109,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2021
-Gary Clark,1629109,Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2022
-Gary Clark,1629109,Driving Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2022
-Gary Clark,1629109,Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2022
-Gary Clark,1629109,Jump Shot,3PT Field Goal,12,4,JUMP_SHOTS,0.5,2022
-Gary Clark,1629109,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2022
-Gary Clark,1629109,Pullup Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2022
-Gary Clark,1629109,Running Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2022
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Gary Clark,1629109,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,1.0,2019
+Gary Clark,1629109,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2019
+Gary Clark,1629109,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2020
+Gary Clark,1629109,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2020
+Gary Clark,1629109,Jump Shot,3PT Field Goal,10,1,Jump Shot,JUMP_SHOTS,0.15,2020
+Gary Clark,1629109,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2020
+Gary Clark,1629109,Running Jump Shot,3PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2020
+Gary Clark,1629109,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2021
+Gary Clark,1629109,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2021
+Gary Clark,1629109,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2021
+Gary Clark,1629109,Jump Shot,3PT Field Goal,23,4,Jump Shot,JUMP_SHOTS,0.2608695652173913,2021
+Gary Clark,1629109,Standard Layup,2PT Field Goal,2,2,Layup Shot,LAYUPS,1.0,2021
+Gary Clark,1629109,Pullup Jump Shot,2PT Field Goal,2,0,Pullup Jump shot,JUMP_SHOTS,0.0,2021
+Gary Clark,1629109,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2021
+Gary Clark,1629109,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2021
+Gary Clark,1629109,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,1.0,2022
+Gary Clark,1629109,Driving Hook Shot,2PT Field Goal,1,1,Driving Hook Shot,POST_MOVES,1.0,2022
+Gary Clark,1629109,Jump Shot,3PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.5,2022
+Gary Clark,1629109,Jump Shot,3PT Field Goal,12,4,Jump Shot,JUMP_SHOTS,0.5,2022
+Gary Clark,1629109,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2022
+Gary Clark,1629109,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2022
+Gary Clark,1629109,Running Jump Shot,3PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2022

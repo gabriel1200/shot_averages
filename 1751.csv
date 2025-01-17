@@ -1,47 +1,47 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jahidi White,1751,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,1999
-Jahidi White,1751,Standard Dunk,2PT Field Goal,3,3,DUNKS,1.0,2000
-Jahidi White,1751,Hook Shot,2PT Field Goal,2,1,POST_MOVES,0.5,2000
-Jahidi White,1751,Jump Shot,2PT Field Goal,6,0,JUMP_SHOTS,0.0,2000
-Jahidi White,1751,Standard Layup,2PT Field Goal,17,8,LAYUPS,0.4705882352941176,2000
-Jahidi White,1751,Standard Dunk,2PT Field Goal,7,7,DUNKS,1.0,2000
-Jahidi White,1751,Driving Dunk,2PT Field Goal,1,1,DUNKS,1.0,2001
-Jahidi White,1751,Standard Dunk,2PT Field Goal,4,4,DUNKS,1.0,2001
-Jahidi White,1751,Hook Shot,2PT Field Goal,2,2,POST_MOVES,1.0,2001
-Jahidi White,1751,Jump Shot,2PT Field Goal,23,4,JUMP_SHOTS,0.1739130434782608,2001
-Jahidi White,1751,Standard Layup,2PT Field Goal,40,15,LAYUPS,0.375,2001
-Jahidi White,1751,Standard Dunk,2PT Field Goal,13,12,DUNKS,0.9230769230769232,2001
-Jahidi White,1751,Tip Shot,2PT Field Goal,3,2,TIP_SHOTS,0.6666666666666666,2001
-Jahidi White,1751,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2001
-Jahidi White,1751,Driving Dunk,2PT Field Goal,2,2,DUNKS,1.0,2002
-Jahidi White,1751,Standard Dunk,2PT Field Goal,13,12,DUNKS,0.9230769230769232,2002
-Jahidi White,1751,Specialty Dunk,2PT Field Goal,2,2,DUNKS,1.0,2002
-Jahidi White,1751,Hook Shot,2PT Field Goal,5,3,POST_MOVES,0.6,2002
-Jahidi White,1751,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2002
-Jahidi White,1751,Jump Shot,2PT Field Goal,9,1,JUMP_SHOTS,0.1111111111111111,2002
-Jahidi White,1751,Standard Layup,2PT Field Goal,33,13,LAYUPS,0.3939393939393939,2002
-Jahidi White,1751,Reverse Dunk,2PT Field Goal,1,1,DUNKS,1.0,2002
-Jahidi White,1751,Reverse Layup,2PT Field Goal,3,3,LAYUPS,1.0,2002
-Jahidi White,1751,Standard Dunk,2PT Field Goal,19,19,DUNKS,1.0,2002
-Jahidi White,1751,Tip Shot,2PT Field Goal,3,1,TIP_SHOTS,0.3333333333333333,2002
-Jahidi White,1751,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2002
-Jahidi White,1751,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2003
-Jahidi White,1751,Standard Layup,2PT Field Goal,3,3,LAYUPS,1.0,2003
-Jahidi White,1751,Driving Dunk,2PT Field Goal,2,2,DUNKS,1.0,2004
-Jahidi White,1751,Driving Layup,2PT Field Goal,3,3,LAYUPS,1.0,2004
-Jahidi White,1751,Standard Dunk,2PT Field Goal,22,17,DUNKS,0.7727272727272727,2004
-Jahidi White,1751,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2004
-Jahidi White,1751,Specialty Dunk,2PT Field Goal,4,4,DUNKS,1.0,2004
-Jahidi White,1751,Hook Shot,2PT Field Goal,5,4,POST_MOVES,0.8,2004
-Jahidi White,1751,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2004
-Jahidi White,1751,Jump Shot,2PT Field Goal,27,6,JUMP_SHOTS,0.2222222222222222,2004
-Jahidi White,1751,Standard Layup,2PT Field Goal,86,43,LAYUPS,0.5,2004
-Jahidi White,1751,Reverse Layup,2PT Field Goal,4,4,LAYUPS,1.0,2004
-Jahidi White,1751,Standard Dunk,2PT Field Goal,4,4,DUNKS,1.0,2004
-Jahidi White,1751,Tip Shot,2PT Field Goal,26,9,TIP_SHOTS,0.3461538461538461,2004
-Jahidi White,1751,Turnaround Hook Shot,2PT Field Goal,2,0,POST_MOVES,0.0,2004
-Jahidi White,1751,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2004
-Jahidi White,1751,Standard Dunk,2PT Field Goal,2,2,DUNKS,1.0,2005
-Jahidi White,1751,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2005
-Jahidi White,1751,Standard Layup,2PT Field Goal,10,5,LAYUPS,0.5,2005
-Jahidi White,1751,Reverse Layup,2PT Field Goal,1,0,LAYUPS,0.0,2005
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Jahidi White,1751,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,1999
+Jahidi White,1751,Standard Dunk,2PT Field Goal,3,3,Dunk Shot,DUNKS,1.0,2000
+Jahidi White,1751,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,2000
+Jahidi White,1751,Jump Shot,2PT Field Goal,6,0,Jump Shot,JUMP_SHOTS,0.0,2000
+Jahidi White,1751,Standard Layup,2PT Field Goal,17,8,Layup Shot,LAYUPS,0.4705882352941176,2000
+Jahidi White,1751,Standard Dunk,2PT Field Goal,7,7,Slam Dunk Shot,DUNKS,1.0,2000
+Jahidi White,1751,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2001
+Jahidi White,1751,Standard Dunk,2PT Field Goal,4,4,Dunk Shot,DUNKS,1.0,2001
+Jahidi White,1751,Hook Shot,2PT Field Goal,2,2,Hook Shot,POST_MOVES,1.0,2001
+Jahidi White,1751,Jump Shot,2PT Field Goal,23,4,Jump Shot,JUMP_SHOTS,0.1739130434782608,2001
+Jahidi White,1751,Standard Layup,2PT Field Goal,40,15,Layup Shot,LAYUPS,0.375,2001
+Jahidi White,1751,Standard Dunk,2PT Field Goal,13,12,Slam Dunk Shot,DUNKS,0.9230769230769232,2001
+Jahidi White,1751,Tip Shot,2PT Field Goal,3,2,Tip Shot,TIP_SHOTS,0.6666666666666666,2001
+Jahidi White,1751,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2001
+Jahidi White,1751,Driving Dunk,2PT Field Goal,2,2,Driving Dunk Shot,DUNKS,1.0,2002
+Jahidi White,1751,Standard Dunk,2PT Field Goal,13,12,Dunk Shot,DUNKS,0.9230769230769232,2002
+Jahidi White,1751,Specialty Dunk,2PT Field Goal,2,2,Follow Up Dunk Shot,DUNKS,1.0,2002
+Jahidi White,1751,Hook Shot,2PT Field Goal,5,3,Hook Shot,POST_MOVES,0.6,2002
+Jahidi White,1751,Hook Shot,2PT Field Goal,1,1,Jump Hook Shot,POST_MOVES,1.0,2002
+Jahidi White,1751,Jump Shot,2PT Field Goal,9,1,Jump Shot,JUMP_SHOTS,0.1111111111111111,2002
+Jahidi White,1751,Standard Layup,2PT Field Goal,33,13,Layup Shot,LAYUPS,0.3939393939393939,2002
+Jahidi White,1751,Reverse Dunk,2PT Field Goal,1,1,Reverse Dunk Shot,DUNKS,1.0,2002
+Jahidi White,1751,Reverse Layup,2PT Field Goal,3,3,Reverse Layup Shot,LAYUPS,1.0,2002
+Jahidi White,1751,Standard Dunk,2PT Field Goal,19,19,Slam Dunk Shot,DUNKS,1.0,2002
+Jahidi White,1751,Tip Shot,2PT Field Goal,3,1,Tip Shot,TIP_SHOTS,0.3333333333333333,2002
+Jahidi White,1751,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2002
+Jahidi White,1751,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2003
+Jahidi White,1751,Standard Layup,2PT Field Goal,3,3,Layup Shot,LAYUPS,1.0,2003
+Jahidi White,1751,Driving Dunk,2PT Field Goal,2,2,Driving Dunk Shot,DUNKS,1.0,2004
+Jahidi White,1751,Driving Layup,2PT Field Goal,3,3,Driving Layup Shot,LAYUPS,1.0,2004
+Jahidi White,1751,Standard Dunk,2PT Field Goal,22,17,Dunk Shot,DUNKS,0.7727272727272727,2004
+Jahidi White,1751,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2004
+Jahidi White,1751,Specialty Dunk,2PT Field Goal,4,4,Follow Up Dunk Shot,DUNKS,1.0,2004
+Jahidi White,1751,Hook Shot,2PT Field Goal,5,4,Hook Shot,POST_MOVES,0.8,2004
+Jahidi White,1751,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2004
+Jahidi White,1751,Jump Shot,2PT Field Goal,27,6,Jump Shot,JUMP_SHOTS,0.2222222222222222,2004
+Jahidi White,1751,Standard Layup,2PT Field Goal,86,43,Layup Shot,LAYUPS,0.5,2004
+Jahidi White,1751,Reverse Layup,2PT Field Goal,4,4,Reverse Layup Shot,LAYUPS,1.0,2004
+Jahidi White,1751,Standard Dunk,2PT Field Goal,4,4,Slam Dunk Shot,DUNKS,1.0,2004
+Jahidi White,1751,Tip Shot,2PT Field Goal,26,9,Tip Shot,TIP_SHOTS,0.3461538461538461,2004
+Jahidi White,1751,Turnaround Hook Shot,2PT Field Goal,2,0,Turnaround Hook Shot,POST_MOVES,0.0,2004
+Jahidi White,1751,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2004
+Jahidi White,1751,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,2005
+Jahidi White,1751,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2005
+Jahidi White,1751,Standard Layup,2PT Field Goal,10,5,Layup Shot,LAYUPS,0.5,2005
+Jahidi White,1751,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2005

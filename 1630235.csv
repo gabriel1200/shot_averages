@@ -1,20 +1,20 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Trent Forrest,1630235,Floating Jump Shot,2PT Field Goal,2,0,FLOATING_SHOTS,0.0,2022
-Trent Forrest,1630235,Driving Layup,2PT Field Goal,2,1,LAYUPS,0.5,2022
-Trent Forrest,1630235,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2022
-Trent Forrest,1630235,Finger Roll,2PT Field Goal,3,3,LAYUPS,1.0,2024
-Trent Forrest,1630235,Floating Jump Shot,2PT Field Goal,5,2,FLOATING_SHOTS,0.4,2024
-Trent Forrest,1630235,Floating Jump Shot,2PT Field Goal,11,4,FLOATING_SHOTS,0.3636363636363636,2024
-Trent Forrest,1630235,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2024
-Trent Forrest,1630235,Driving Layup,2PT Field Goal,4,1,LAYUPS,0.25,2024
-Trent Forrest,1630235,Driving Layup,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Trent Forrest,1630235,Floating Jump Shot,2PT Field Goal,4,0,FLOATING_SHOTS,0.0,2024
-Trent Forrest,1630235,Floating Jump Shot,3PT Field Goal,1,0,FLOATING_SHOTS,0.0,2024
-Trent Forrest,1630235,Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2024
-Trent Forrest,1630235,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Trent Forrest,1630235,Pullup Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,0.6666666666666666,2024
-Trent Forrest,1630235,Pullup Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Trent Forrest,1630235,Putback Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Trent Forrest,1630235,Standard Layup,2PT Field Goal,3,3,LAYUPS,1.0,2024
-Trent Forrest,1630235,Putback Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Trent Forrest,1630235,Turnaround Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2024
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Trent Forrest,1630235,Floating Jump Shot,2PT Field Goal,2,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2022
+Trent Forrest,1630235,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2022
+Trent Forrest,1630235,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2022
+Trent Forrest,1630235,Finger Roll,2PT Field Goal,3,3,Driving Finger Roll Layup Shot,LAYUPS,1.0,2024
+Trent Forrest,1630235,Floating Jump Shot,2PT Field Goal,5,2,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.4,2024
+Trent Forrest,1630235,Floating Jump Shot,2PT Field Goal,11,4,Driving Floating Jump Shot,FLOATING_SHOTS,0.3636363636363636,2024
+Trent Forrest,1630235,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2024
+Trent Forrest,1630235,Driving Layup,2PT Field Goal,4,1,Driving Layup Shot,LAYUPS,0.25,2024
+Trent Forrest,1630235,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2024
+Trent Forrest,1630235,Floating Jump Shot,2PT Field Goal,4,0,Floating Jump shot,FLOATING_SHOTS,0.0,2024
+Trent Forrest,1630235,Floating Jump Shot,3PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2024
+Trent Forrest,1630235,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,2024
+Trent Forrest,1630235,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2024
+Trent Forrest,1630235,Pullup Jump Shot,2PT Field Goal,3,2,Pullup Jump shot,JUMP_SHOTS,0.6666666666666666,2024
+Trent Forrest,1630235,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2024
+Trent Forrest,1630235,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2024
+Trent Forrest,1630235,Standard Layup,2PT Field Goal,3,3,Running Layup Shot,LAYUPS,1.0,2024
+Trent Forrest,1630235,Putback Layup,2PT Field Goal,1,1,Tip Layup Shot,LAYUPS,1.0,2024
+Trent Forrest,1630235,Turnaround Jump Shot,2PT Field Goal,2,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2024

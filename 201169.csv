@@ -1,9 +1,9 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Alando Tucker,201169,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2009
-Alando Tucker,201169,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2009
-Alando Tucker,201169,Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2009
-Alando Tucker,201169,Jump Shot,3PT Field Goal,3,2,JUMP_SHOTS,1.0,2009
-Alando Tucker,201169,Standard Layup,2PT Field Goal,4,2,LAYUPS,0.5,2009
-Alando Tucker,201169,Tip Shot,2PT Field Goal,1,0,TIP_SHOTS,0.0,2009
-Alando Tucker,201169,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2010
-Alando Tucker,201169,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2010
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Alando Tucker,201169,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2009
+Alando Tucker,201169,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2009
+Alando Tucker,201169,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2009
+Alando Tucker,201169,Jump Shot,3PT Field Goal,3,2,Jump Shot,JUMP_SHOTS,1.0,2009
+Alando Tucker,201169,Standard Layup,2PT Field Goal,4,2,Layup Shot,LAYUPS,0.5,2009
+Alando Tucker,201169,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2009
+Alando Tucker,201169,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2010
+Alando Tucker,201169,Running Jump Shot,2PT Field Goal,1,1,Running Bank shot,JUMP_SHOTS,1.0,2010

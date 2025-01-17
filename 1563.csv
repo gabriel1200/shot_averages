@@ -1,29 +1,29 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Kevin Ollie,1563,Driving Layup,2PT Field Goal,9,5,LAYUPS,0.5555555555555556,1998
-Kevin Ollie,1563,Jump Shot,2PT Field Goal,22,5,JUMP_SHOTS,0.2272727272727272,1998
-Kevin Ollie,1563,Standard Layup,2PT Field Goal,7,1,LAYUPS,0.1428571428571428,1998
-Kevin Ollie,1563,No Shot,2PT Field Goal,1,1,NO_SHOT,1.0,1998
-Kevin Ollie,1563,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,1998
-Kevin Ollie,1563,Driving Layup,2PT Field Goal,10,6,LAYUPS,0.6,2002
-Kevin Ollie,1563,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2002
-Kevin Ollie,1563,Jump Shot,2PT Field Goal,45,15,JUMP_SHOTS,0.3333333333333333,2002
-Kevin Ollie,1563,Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2002
-Kevin Ollie,1563,Standard Layup,2PT Field Goal,21,11,LAYUPS,0.5238095238095238,2002
-Kevin Ollie,1563,Running Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,2002
-Kevin Ollie,1563,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2002
-Kevin Ollie,1563,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2003
-Kevin Ollie,1563,Driving Layup,2PT Field Goal,7,5,LAYUPS,0.7142857142857143,2003
-Kevin Ollie,1563,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2003
-Kevin Ollie,1563,Jump Shot,2PT Field Goal,100,41,JUMP_SHOTS,0.41,2003
-Kevin Ollie,1563,Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2003
-Kevin Ollie,1563,Standard Layup,2PT Field Goal,37,20,LAYUPS,0.5405405405405406,2003
-Kevin Ollie,1563,Driving Layup,2PT Field Goal,2,1,LAYUPS,0.5,2004
-Kevin Ollie,1563,Finger Roll,2PT Field Goal,1,0,LAYUPS,0.0,2004
-Kevin Ollie,1563,Jump Shot,2PT Field Goal,12,3,JUMP_SHOTS,0.25,2004
-Kevin Ollie,1563,Standard Layup,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2004
-Kevin Ollie,1563,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2004
-Kevin Ollie,1563,Driving Layup,2PT Field Goal,1,0,LAYUPS,0.0,2009
-Kevin Ollie,1563,Jump Shot,2PT Field Goal,4,1,JUMP_SHOTS,0.25,2009
-Kevin Ollie,1563,Jump Shot,2PT Field Goal,10,4,JUMP_SHOTS,0.4,2010
-Kevin Ollie,1563,Standard Layup,2PT Field Goal,2,0,LAYUPS,0.0,2010
-Kevin Ollie,1563,Reverse Layup,2PT Field Goal,1,0,LAYUPS,0.0,2010
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Kevin Ollie,1563,Driving Layup,2PT Field Goal,9,5,Driving Layup Shot,LAYUPS,0.5555555555555556,1998
+Kevin Ollie,1563,Jump Shot,2PT Field Goal,22,5,Jump Shot,JUMP_SHOTS,0.2272727272727272,1998
+Kevin Ollie,1563,Standard Layup,2PT Field Goal,7,1,Layup Shot,LAYUPS,0.1428571428571428,1998
+Kevin Ollie,1563,No Shot,2PT Field Goal,1,1,No Shot,NO_SHOT,1.0,1998
+Kevin Ollie,1563,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,1998
+Kevin Ollie,1563,Driving Layup,2PT Field Goal,10,6,Driving Layup Shot,LAYUPS,0.6,2002
+Kevin Ollie,1563,Finger Roll,2PT Field Goal,1,1,Finger Roll Shot,LAYUPS,1.0,2002
+Kevin Ollie,1563,Jump Shot,2PT Field Goal,45,15,Jump Shot,JUMP_SHOTS,0.3333333333333333,2002
+Kevin Ollie,1563,Jump Shot,3PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.5,2002
+Kevin Ollie,1563,Standard Layup,2PT Field Goal,21,11,Layup Shot,LAYUPS,0.5238095238095238,2002
+Kevin Ollie,1563,Running Jump Shot,2PT Field Goal,2,2,Running Jump Shot,JUMP_SHOTS,1.0,2002
+Kevin Ollie,1563,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2002
+Kevin Ollie,1563,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Shot,LAYUPS,1.0,2003
+Kevin Ollie,1563,Driving Layup,2PT Field Goal,7,5,Driving Layup Shot,LAYUPS,0.7142857142857143,2003
+Kevin Ollie,1563,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2003
+Kevin Ollie,1563,Jump Shot,2PT Field Goal,100,41,Jump Shot,JUMP_SHOTS,0.41,2003
+Kevin Ollie,1563,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,2003
+Kevin Ollie,1563,Standard Layup,2PT Field Goal,37,20,Layup Shot,LAYUPS,0.5405405405405406,2003
+Kevin Ollie,1563,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2004
+Kevin Ollie,1563,Finger Roll,2PT Field Goal,1,0,Finger Roll Shot,LAYUPS,0.0,2004
+Kevin Ollie,1563,Jump Shot,2PT Field Goal,12,3,Jump Shot,JUMP_SHOTS,0.25,2004
+Kevin Ollie,1563,Standard Layup,2PT Field Goal,3,1,Layup Shot,LAYUPS,0.3333333333333333,2004
+Kevin Ollie,1563,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2004
+Kevin Ollie,1563,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2009
+Kevin Ollie,1563,Jump Shot,2PT Field Goal,4,1,Jump Shot,JUMP_SHOTS,0.25,2009
+Kevin Ollie,1563,Jump Shot,2PT Field Goal,10,4,Jump Shot,JUMP_SHOTS,0.4,2010
+Kevin Ollie,1563,Standard Layup,2PT Field Goal,2,0,Layup Shot,LAYUPS,0.0,2010
+Kevin Ollie,1563,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2010

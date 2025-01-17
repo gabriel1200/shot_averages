@@ -1,36 +1,36 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Anthony Morrow,201627,Jump Shot,3PT Field Goal,4,3,JUMP_SHOTS,1.125,2011
-Anthony Morrow,201627,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2011
-Anthony Morrow,201627,Jump Shot,2PT Field Goal,7,2,JUMP_SHOTS,0.2857142857142857,2012
-Anthony Morrow,201627,Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2012
-Anthony Morrow,201627,Turnaround Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2012
-Anthony Morrow,201627,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2013
-Anthony Morrow,201627,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2013
-Anthony Morrow,201627,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2013
-Anthony Morrow,201627,Running Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2013
-Anthony Morrow,201627,Driving Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2014
-Anthony Morrow,201627,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2014
-Anthony Morrow,201627,Floating Jump Shot,2PT Field Goal,4,4,FLOATING_SHOTS,1.0,2014
-Anthony Morrow,201627,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2014
-Anthony Morrow,201627,Hook Shot,2PT Field Goal,2,2,POST_MOVES,1.0,2014
-Anthony Morrow,201627,Jump Shot,2PT Field Goal,82,29,JUMP_SHOTS,0.3536585365853658,2014
-Anthony Morrow,201627,Jump Shot,3PT Field Goal,60,25,JUMP_SHOTS,0.625,2014
-Anthony Morrow,201627,Standard Layup,2PT Field Goal,11,4,LAYUPS,0.3636363636363636,2014
-Anthony Morrow,201627,Pullup Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2014
-Anthony Morrow,201627,Putback Layup,2PT Field Goal,2,2,LAYUPS,1.0,2014
-Anthony Morrow,201627,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2014
-Anthony Morrow,201627,Tip Shot,2PT Field Goal,1,1,TIP_SHOTS,1.0,2014
-Anthony Morrow,201627,Turnaround Jump Shot,2PT Field Goal,5,3,JUMP_SHOTS,0.6,2014
-Anthony Morrow,201627,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2015
-Anthony Morrow,201627,Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2015
-Anthony Morrow,201627,Jump Shot,2PT Field Goal,17,12,JUMP_SHOTS,0.7058823529411765,2015
-Anthony Morrow,201627,Jump Shot,3PT Field Goal,22,11,JUMP_SHOTS,0.75,2015
-Anthony Morrow,201627,Standard Layup,2PT Field Goal,2,1,LAYUPS,0.5,2015
-Anthony Morrow,201627,Reverse Layup,2PT Field Goal,1,0,LAYUPS,0.0,2015
-Anthony Morrow,201627,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2015
-Anthony Morrow,201627,Floating Jump Shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2017
-Anthony Morrow,201627,Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2017
-Anthony Morrow,201627,Jump Shot,2PT Field Goal,4,2,JUMP_SHOTS,0.5,2017
-Anthony Morrow,201627,Jump Shot,3PT Field Goal,7,4,JUMP_SHOTS,0.8571428571428571,2017
-Anthony Morrow,201627,Pullup Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2017
-Anthony Morrow,201627,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2017
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Anthony Morrow,201627,Jump Shot,3PT Field Goal,4,3,Jump Shot,JUMP_SHOTS,1.125,2011
+Anthony Morrow,201627,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2011
+Anthony Morrow,201627,Jump Shot,2PT Field Goal,7,2,Jump Shot,JUMP_SHOTS,0.2857142857142857,2012
+Anthony Morrow,201627,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,2012
+Anthony Morrow,201627,Turnaround Jump Shot,2PT Field Goal,2,1,Turnaround Jump Shot,JUMP_SHOTS,0.5,2012
+Anthony Morrow,201627,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2013
+Anthony Morrow,201627,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2013
+Anthony Morrow,201627,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2013
+Anthony Morrow,201627,Running Jump Shot,2PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.5,2013
+Anthony Morrow,201627,Driving Jump Shot,2PT Field Goal,2,1,Driving Jump shot,JUMP_SHOTS,0.5,2014
+Anthony Morrow,201627,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2014
+Anthony Morrow,201627,Floating Jump Shot,2PT Field Goal,4,4,Floating Jump shot,FLOATING_SHOTS,1.0,2014
+Anthony Morrow,201627,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2014
+Anthony Morrow,201627,Hook Shot,2PT Field Goal,2,2,Jump Hook Shot,POST_MOVES,1.0,2014
+Anthony Morrow,201627,Jump Shot,2PT Field Goal,82,29,Jump Shot,JUMP_SHOTS,0.3536585365853658,2014
+Anthony Morrow,201627,Jump Shot,3PT Field Goal,60,25,Jump Shot,JUMP_SHOTS,0.625,2014
+Anthony Morrow,201627,Standard Layup,2PT Field Goal,11,4,Layup Shot,LAYUPS,0.3636363636363636,2014
+Anthony Morrow,201627,Pullup Jump Shot,2PT Field Goal,2,0,Pullup Jump shot,JUMP_SHOTS,0.0,2014
+Anthony Morrow,201627,Putback Layup,2PT Field Goal,2,2,Putback Layup Shot,LAYUPS,1.0,2014
+Anthony Morrow,201627,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2014
+Anthony Morrow,201627,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2014
+Anthony Morrow,201627,Turnaround Jump Shot,2PT Field Goal,5,3,Turnaround Jump Shot,JUMP_SHOTS,0.6,2014
+Anthony Morrow,201627,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2015
+Anthony Morrow,201627,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2015
+Anthony Morrow,201627,Jump Shot,2PT Field Goal,17,12,Jump Shot,JUMP_SHOTS,0.7058823529411765,2015
+Anthony Morrow,201627,Jump Shot,3PT Field Goal,22,11,Jump Shot,JUMP_SHOTS,0.75,2015
+Anthony Morrow,201627,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2015
+Anthony Morrow,201627,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2015
+Anthony Morrow,201627,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2015
+Anthony Morrow,201627,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2017
+Anthony Morrow,201627,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2017
+Anthony Morrow,201627,Jump Shot,2PT Field Goal,4,2,Jump Shot,JUMP_SHOTS,0.5,2017
+Anthony Morrow,201627,Jump Shot,3PT Field Goal,7,4,Jump Shot,JUMP_SHOTS,0.8571428571428571,2017
+Anthony Morrow,201627,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2017
+Anthony Morrow,201627,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2017

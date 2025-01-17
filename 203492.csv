@@ -1,4 +1,4 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Ray McCallum,203492,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2016
-Ray McCallum,203492,Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2016
-Ray McCallum,203492,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2016
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Ray McCallum,203492,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2016
+Ray McCallum,203492,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,2016
+Ray McCallum,203492,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2016

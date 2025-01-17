@@ -1,31 +1,31 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Ben Simmons,1627732,Reverse Layup,2PT Field Goal,2,2,LAYUPS,1.0,2023
-Ben Simmons,1627732,Turnaround Hook Shot,2PT Field Goal,5,2,POST_MOVES,0.4,2023
-Ben Simmons,1627732,Alley Oop Dunk,2PT Field Goal,1,1,DUNKS,1.0,2024
-Ben Simmons,1627732,Alley Oop Layup,2PT Field Goal,2,1,LAYUPS,0.5,2024
-Ben Simmons,1627732,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Ben Simmons,1627732,Driving Dunk,2PT Field Goal,1,1,DUNKS,1.0,2024
-Ben Simmons,1627732,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Ben Simmons,1627732,Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2024
-Ben Simmons,1627732,Floating Jump Shot,2PT Field Goal,2,0,FLOATING_SHOTS,0.0,2024
-Ben Simmons,1627732,Driving Hook Shot,2PT Field Goal,4,0,POST_MOVES,0.0,2024
-Ben Simmons,1627732,Driving Layup,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Ben Simmons,1627732,Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2024
-Ben Simmons,1627732,Hook Shot,2PT Field Goal,2,1,POST_MOVES,0.5,2024
-Ben Simmons,1627732,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2024
-Ben Simmons,1627732,Putback Layup,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Ben Simmons,1627732,Turnaround Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2024
-Ben Simmons,1627732,Standard Layup,2PT Field Goal,2,1,LAYUPS,0.5,2025
-Ben Simmons,1627732,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Ben Simmons,1627732,Floating Jump Shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2025
-Ben Simmons,1627732,Driving Hook Shot,2PT Field Goal,3,1,POST_MOVES,0.3333333333333333,2025
-Ben Simmons,1627732,Driving Layup,2PT Field Goal,4,1,LAYUPS,0.25,2025
-Ben Simmons,1627732,Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2025
-Ben Simmons,1627732,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2025
-Ben Simmons,1627732,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2025
-Ben Simmons,1627732,Finger Roll,2PT Field Goal,2,2,LAYUPS,1.0,2025
-Ben Simmons,1627732,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Ben Simmons,1627732,Putback Layup,2PT Field Goal,1,0,LAYUPS,0.0,2025
-Ben Simmons,1627732,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
-Ben Simmons,1627732,Turnaround Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2025
-Ben Simmons,1627732,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Ben Simmons,1627732,Reverse Layup,2PT Field Goal,2,2,Reverse Layup Shot,LAYUPS,1.0,2023
+Ben Simmons,1627732,Turnaround Hook Shot,2PT Field Goal,5,2,Turnaround Hook Shot,POST_MOVES,0.4,2023
+Ben Simmons,1627732,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2024
+Ben Simmons,1627732,Alley Oop Layup,2PT Field Goal,2,1,Alley Oop Layup shot,LAYUPS,0.5,2024
+Ben Simmons,1627732,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2024
+Ben Simmons,1627732,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2024
+Ben Simmons,1627732,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2024
+Ben Simmons,1627732,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,1.0,2024
+Ben Simmons,1627732,Floating Jump Shot,2PT Field Goal,2,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2024
+Ben Simmons,1627732,Driving Hook Shot,2PT Field Goal,4,0,Driving Hook Shot,POST_MOVES,0.0,2024
+Ben Simmons,1627732,Driving Layup,2PT Field Goal,1,0,Driving Reverse Layup Shot,LAYUPS,0.0,2024
+Ben Simmons,1627732,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2024
+Ben Simmons,1627732,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,2024
+Ben Simmons,1627732,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2024
+Ben Simmons,1627732,Putback Layup,2PT Field Goal,1,0,Tip Layup Shot,LAYUPS,0.0,2024
+Ben Simmons,1627732,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2024
+Ben Simmons,1627732,Standard Layup,2PT Field Goal,2,1,Cutting Layup Shot,LAYUPS,0.5,2025
+Ben Simmons,1627732,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2025
+Ben Simmons,1627732,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.0,2025
+Ben Simmons,1627732,Driving Hook Shot,2PT Field Goal,3,1,Driving Hook Shot,POST_MOVES,0.3333333333333333,2025
+Ben Simmons,1627732,Driving Layup,2PT Field Goal,4,1,Driving Layup Shot,LAYUPS,0.25,2025
+Ben Simmons,1627732,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2025
+Ben Simmons,1627732,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2025
+Ben Simmons,1627732,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2025
+Ben Simmons,1627732,Finger Roll,2PT Field Goal,2,2,Running Finger Roll Layup Shot,LAYUPS,1.0,2025
+Ben Simmons,1627732,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2025
+Ben Simmons,1627732,Putback Layup,2PT Field Goal,1,0,Tip Layup Shot,LAYUPS,0.0,2025
+Ben Simmons,1627732,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2025
+Ben Simmons,1627732,Turnaround Hook Shot,2PT Field Goal,1,1,Turnaround Hook Shot,POST_MOVES,1.0,2025
+Ben Simmons,1627732,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2025

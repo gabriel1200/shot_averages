@@ -1,10 +1,10 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Alex Acker,101165,Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2006
-Alex Acker,101165,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2006
-Alex Acker,101165,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2006
-Alex Acker,101165,Driving Dunk,2PT Field Goal,1,0,DUNKS,0.0,2009
-Alex Acker,101165,Finger Roll,2PT Field Goal,1,0,LAYUPS,0.0,2009
-Alex Acker,101165,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2009
-Alex Acker,101165,Jump Shot,2PT Field Goal,8,2,JUMP_SHOTS,0.25,2009
-Alex Acker,101165,Jump Shot,3PT Field Goal,3,0,JUMP_SHOTS,0.0,2009
-Alex Acker,101165,Tip Shot,2PT Field Goal,1,0,TIP_SHOTS,0.0,2009
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Alex Acker,101165,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2006
+Alex Acker,101165,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2006
+Alex Acker,101165,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2006
+Alex Acker,101165,Driving Dunk,2PT Field Goal,1,0,Driving Dunk Shot,DUNKS,0.0,2009
+Alex Acker,101165,Finger Roll,2PT Field Goal,1,0,Driving Finger Roll Layup Shot,LAYUPS,0.0,2009
+Alex Acker,101165,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2009
+Alex Acker,101165,Jump Shot,2PT Field Goal,8,2,Jump Shot,JUMP_SHOTS,0.25,2009
+Alex Acker,101165,Jump Shot,3PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,2009
+Alex Acker,101165,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2009

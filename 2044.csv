@@ -1,14 +1,14 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jason Collier,2044,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2001
-Jason Collier,2044,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2002
-Jason Collier,2044,Jump Shot,2PT Field Goal,8,5,JUMP_SHOTS,0.625,2002
-Jason Collier,2044,Standard Layup,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2002
-Jason Collier,2044,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2005
-Jason Collier,2044,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2005
-Jason Collier,2044,Jump Shot,2PT Field Goal,26,9,JUMP_SHOTS,0.3461538461538461,2005
-Jason Collier,2044,Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2005
-Jason Collier,2044,Standard Layup,2PT Field Goal,13,5,LAYUPS,0.3846153846153846,2005
-Jason Collier,2044,Reverse Layup,2PT Field Goal,1,1,LAYUPS,1.0,2005
-Jason Collier,2044,Running Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2005
-Jason Collier,2044,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2005
-Jason Collier,2044,Tip Shot,2PT Field Goal,2,2,TIP_SHOTS,1.0,2005
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Jason Collier,2044,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2001
+Jason Collier,2044,Hook Shot,2PT Field Goal,1,0,Jump Hook Shot,POST_MOVES,0.0,2002
+Jason Collier,2044,Jump Shot,2PT Field Goal,8,5,Jump Shot,JUMP_SHOTS,0.625,2002
+Jason Collier,2044,Standard Layup,2PT Field Goal,3,1,Layup Shot,LAYUPS,0.3333333333333333,2002
+Jason Collier,2044,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2005
+Jason Collier,2044,Hook Shot,2PT Field Goal,1,1,Jump Hook Shot,POST_MOVES,1.0,2005
+Jason Collier,2044,Jump Shot,2PT Field Goal,26,9,Jump Shot,JUMP_SHOTS,0.3461538461538461,2005
+Jason Collier,2044,Jump Shot,3PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.5,2005
+Jason Collier,2044,Standard Layup,2PT Field Goal,13,5,Layup Shot,LAYUPS,0.3846153846153846,2005
+Jason Collier,2044,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2005
+Jason Collier,2044,Running Hook Shot,2PT Field Goal,1,0,Running Hook Shot,POST_MOVES,0.0,2005
+Jason Collier,2044,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2005
+Jason Collier,2044,Tip Shot,2PT Field Goal,2,2,Tip Shot,TIP_SHOTS,1.0,2005

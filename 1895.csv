@@ -1,5 +1,5 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-William Avery,1895,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2000
-William Avery,1895,Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,0.3333333333333333,2000
-William Avery,1895,Jump Shot,3PT Field Goal,6,2,JUMP_SHOTS,0.5,2000
-William Avery,1895,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2000
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+William Avery,1895,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2000
+William Avery,1895,Jump Shot,2PT Field Goal,3,1,Jump Shot,JUMP_SHOTS,0.3333333333333333,2000
+William Avery,1895,Jump Shot,3PT Field Goal,6,2,Jump Shot,JUMP_SHOTS,0.5,2000
+William Avery,1895,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2000

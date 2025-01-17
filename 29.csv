@@ -1,16 +1,16 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jim McIlvaine,29,Driving Layup,2PT Field Goal,2,1,LAYUPS,0.5,1997
-Jim McIlvaine,29,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,1997
-Jim McIlvaine,29,Hook Shot,2PT Field Goal,4,0,POST_MOVES,0.0,1997
-Jim McIlvaine,29,Jump Shot,2PT Field Goal,13,3,JUMP_SHOTS,0.2307692307692307,1997
-Jim McIlvaine,29,Standard Layup,2PT Field Goal,15,5,LAYUPS,0.3333333333333333,1997
-Jim McIlvaine,29,Standard Dunk,2PT Field Goal,5,5,DUNKS,1.0,1997
-Jim McIlvaine,29,Tip Shot,2PT Field Goal,2,0,TIP_SHOTS,0.0,1997
-Jim McIlvaine,29,Driving Dunk,2PT Field Goal,1,1,DUNKS,1.0,1998
-Jim McIlvaine,29,Standard Dunk,2PT Field Goal,2,1,DUNKS,0.5,1998
-Jim McIlvaine,29,Hook Shot,2PT Field Goal,2,1,POST_MOVES,0.5,1998
-Jim McIlvaine,29,Jump Shot,2PT Field Goal,17,5,JUMP_SHOTS,0.2941176470588235,1998
-Jim McIlvaine,29,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,1998
-Jim McIlvaine,29,Standard Layup,2PT Field Goal,9,7,LAYUPS,0.7777777777777778,1998
-Jim McIlvaine,29,Standard Dunk,2PT Field Goal,4,4,DUNKS,1.0,1998
-Jim McIlvaine,29,Tip Shot,2PT Field Goal,3,1,TIP_SHOTS,0.3333333333333333,1998
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Jim McIlvaine,29,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,1997
+Jim McIlvaine,29,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,1997
+Jim McIlvaine,29,Hook Shot,2PT Field Goal,4,0,Hook Shot,POST_MOVES,0.0,1997
+Jim McIlvaine,29,Jump Shot,2PT Field Goal,13,3,Jump Shot,JUMP_SHOTS,0.2307692307692307,1997
+Jim McIlvaine,29,Standard Layup,2PT Field Goal,15,5,Layup Shot,LAYUPS,0.3333333333333333,1997
+Jim McIlvaine,29,Standard Dunk,2PT Field Goal,5,5,Slam Dunk Shot,DUNKS,1.0,1997
+Jim McIlvaine,29,Tip Shot,2PT Field Goal,2,0,Tip Shot,TIP_SHOTS,0.0,1997
+Jim McIlvaine,29,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,1998
+Jim McIlvaine,29,Standard Dunk,2PT Field Goal,2,1,Dunk Shot,DUNKS,0.5,1998
+Jim McIlvaine,29,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,1998
+Jim McIlvaine,29,Jump Shot,2PT Field Goal,17,5,Jump Shot,JUMP_SHOTS,0.2941176470588235,1998
+Jim McIlvaine,29,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,1998
+Jim McIlvaine,29,Standard Layup,2PT Field Goal,9,7,Layup Shot,LAYUPS,0.7777777777777778,1998
+Jim McIlvaine,29,Standard Dunk,2PT Field Goal,4,4,Slam Dunk Shot,DUNKS,1.0,1998
+Jim McIlvaine,29,Tip Shot,2PT Field Goal,3,1,Tip Shot,TIP_SHOTS,0.3333333333333333,1998

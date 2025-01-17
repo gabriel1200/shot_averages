@@ -1,8 +1,8 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Travis Williams,1576,Driving Layup,2PT Field Goal,2,2,LAYUPS,1.0,1998
-Travis Williams,1576,Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,1998
-Travis Williams,1576,Standard Layup,2PT Field Goal,2,1,LAYUPS,0.5,1998
-Travis Williams,1576,Tip Shot,2PT Field Goal,1,1,TIP_SHOTS,1.0,1998
-Travis Williams,1576,Jump Shot,2PT Field Goal,3,0,JUMP_SHOTS,0.0,1999
-Travis Williams,1576,Standard Layup,2PT Field Goal,4,3,LAYUPS,0.75,1999
-Travis Williams,1576,Tip Shot,2PT Field Goal,1,1,TIP_SHOTS,1.0,1999
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Travis Williams,1576,Driving Layup,2PT Field Goal,2,2,Driving Layup Shot,LAYUPS,1.0,1998
+Travis Williams,1576,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,1998
+Travis Williams,1576,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,1998
+Travis Williams,1576,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,1998
+Travis Williams,1576,Jump Shot,2PT Field Goal,3,0,Jump Shot,JUMP_SHOTS,0.0,1999
+Travis Williams,1576,Standard Layup,2PT Field Goal,4,3,Layup Shot,LAYUPS,0.75,1999
+Travis Williams,1576,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,1999

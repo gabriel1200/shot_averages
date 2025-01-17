@@ -1,18 +1,18 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Ekpe Udoh,202327,Jump Shot,2PT Field Goal,4,1,JUMP_SHOTS,0.25,2012
-Ekpe Udoh,202327,Standard Layup,2PT Field Goal,2,1,LAYUPS,0.5,2012
-Ekpe Udoh,202327,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2013
-Ekpe Udoh,202327,Hook Shot,2PT Field Goal,2,1,POST_MOVES,0.5,2013
-Ekpe Udoh,202327,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2013
-Ekpe Udoh,202327,Jump Shot,2PT Field Goal,5,1,JUMP_SHOTS,0.2,2013
-Ekpe Udoh,202327,Standard Layup,2PT Field Goal,3,0,LAYUPS,0.0,2013
-Ekpe Udoh,202327,Reverse Layup,2PT Field Goal,1,1,LAYUPS,1.0,2013
-Ekpe Udoh,202327,Tip Shot,2PT Field Goal,1,1,TIP_SHOTS,1.0,2013
-Ekpe Udoh,202327,Turnaround Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2013
-Ekpe Udoh,202327,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2013
-Ekpe Udoh,202327,Standard Dunk,2PT Field Goal,4,4,DUNKS,1.0,2014
-Ekpe Udoh,202327,Hook Shot,2PT Field Goal,5,1,POST_MOVES,0.2,2014
-Ekpe Udoh,202327,Jump Shot,2PT Field Goal,15,5,JUMP_SHOTS,0.3333333333333333,2014
-Ekpe Udoh,202327,Standard Layup,2PT Field Goal,7,2,LAYUPS,0.2857142857142857,2014
-Ekpe Udoh,202327,Running Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2014
-Ekpe Udoh,202327,Tip Shot,2PT Field Goal,4,0,TIP_SHOTS,0.0,2014
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Ekpe Udoh,202327,Jump Shot,2PT Field Goal,4,1,Jump Shot,JUMP_SHOTS,0.25,2012
+Ekpe Udoh,202327,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2012
+Ekpe Udoh,202327,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2013
+Ekpe Udoh,202327,Hook Shot,2PT Field Goal,2,1,Hook Shot,POST_MOVES,0.5,2013
+Ekpe Udoh,202327,Jump Shot,2PT Field Goal,1,1,Jump Bank Shot,JUMP_SHOTS,1.0,2013
+Ekpe Udoh,202327,Jump Shot,2PT Field Goal,5,1,Jump Shot,JUMP_SHOTS,0.2,2013
+Ekpe Udoh,202327,Standard Layup,2PT Field Goal,3,0,Layup Shot,LAYUPS,0.0,2013
+Ekpe Udoh,202327,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2013
+Ekpe Udoh,202327,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2013
+Ekpe Udoh,202327,Turnaround Hook Shot,2PT Field Goal,1,0,Turnaround Hook Shot,POST_MOVES,0.0,2013
+Ekpe Udoh,202327,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2013
+Ekpe Udoh,202327,Standard Dunk,2PT Field Goal,4,4,Dunk Shot,DUNKS,1.0,2014
+Ekpe Udoh,202327,Hook Shot,2PT Field Goal,5,1,Hook Shot,POST_MOVES,0.2,2014
+Ekpe Udoh,202327,Jump Shot,2PT Field Goal,15,5,Jump Shot,JUMP_SHOTS,0.3333333333333333,2014
+Ekpe Udoh,202327,Standard Layup,2PT Field Goal,7,2,Layup Shot,LAYUPS,0.2857142857142857,2014
+Ekpe Udoh,202327,Running Hook Shot,2PT Field Goal,1,1,Running Hook Shot,POST_MOVES,1.0,2014
+Ekpe Udoh,202327,Tip Shot,2PT Field Goal,4,0,Tip Shot,TIP_SHOTS,0.0,2014

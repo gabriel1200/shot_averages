@@ -1,13 +1,13 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Amal McCaskill,1043,Standard Dunk,2PT Field Goal,1,0,DUNKS,0.0,1997
-Amal McCaskill,1043,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,1997
-Amal McCaskill,1043,Jump Shot,2PT Field Goal,16,4,JUMP_SHOTS,0.25,1997
-Amal McCaskill,1043,Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,1997
-Amal McCaskill,1043,Standard Layup,2PT Field Goal,8,3,LAYUPS,0.375,1997
-Amal McCaskill,1043,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,1997
-Amal McCaskill,1043,Tip Shot,2PT Field Goal,1,1,TIP_SHOTS,1.0,1997
-Amal McCaskill,1043,Jump Shot,2PT Field Goal,6,3,JUMP_SHOTS,0.5,2002
-Amal McCaskill,1043,Standard Layup,2PT Field Goal,2,1,LAYUPS,0.5,2002
-Amal McCaskill,1043,Reverse Layup,2PT Field Goal,1,1,LAYUPS,1.0,2002
-Amal McCaskill,1043,Standard Dunk,2PT Field Goal,1,0,DUNKS,0.0,2003
-Amal McCaskill,1043,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2003
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Amal McCaskill,1043,Standard Dunk,2PT Field Goal,1,0,Dunk Shot,DUNKS,0.0,1997
+Amal McCaskill,1043,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,1997
+Amal McCaskill,1043,Jump Shot,2PT Field Goal,16,4,Jump Shot,JUMP_SHOTS,0.25,1997
+Amal McCaskill,1043,Jump Shot,3PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,1997
+Amal McCaskill,1043,Standard Layup,2PT Field Goal,8,3,Layup Shot,LAYUPS,0.375,1997
+Amal McCaskill,1043,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,1997
+Amal McCaskill,1043,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,1997
+Amal McCaskill,1043,Jump Shot,2PT Field Goal,6,3,Jump Shot,JUMP_SHOTS,0.5,2002
+Amal McCaskill,1043,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2002
+Amal McCaskill,1043,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2002
+Amal McCaskill,1043,Standard Dunk,2PT Field Goal,1,0,Dunk Shot,DUNKS,0.0,2003
+Amal McCaskill,1043,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2003

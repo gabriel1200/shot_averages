@@ -1,48 +1,48 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Tre Mann,1630544,Pullup Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2023
-Tre Mann,1630544,Step Back Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2023
-Tre Mann,1630544,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Tre Mann,1630544,Driving Dunk,2PT Field Goal,2,0,DUNKS,0.0,2024
-Tre Mann,1630544,Finger Roll,2PT Field Goal,5,4,LAYUPS,0.8,2024
-Tre Mann,1630544,Floating Jump Shot,2PT Field Goal,5,1,FLOATING_SHOTS,0.2,2024
-Tre Mann,1630544,Floating Jump Shot,2PT Field Goal,33,16,FLOATING_SHOTS,0.4848484848484848,2024
-Tre Mann,1630544,Driving Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2024
-Tre Mann,1630544,Driving Layup,2PT Field Goal,33,19,LAYUPS,0.5757575757575758,2024
-Tre Mann,1630544,Driving Layup,2PT Field Goal,4,3,LAYUPS,0.75,2024
-Tre Mann,1630544,Fadeaway Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2024
-Tre Mann,1630544,Floating Jump Shot,2PT Field Goal,8,2,FLOATING_SHOTS,0.25,2024
-Tre Mann,1630544,Jump Shot,3PT Field Goal,42,17,JUMP_SHOTS,0.6071428571428571,2024
-Tre Mann,1630544,Pullup Jump Shot,2PT Field Goal,8,5,JUMP_SHOTS,0.625,2024
-Tre Mann,1630544,Pullup Jump Shot,3PT Field Goal,22,6,JUMP_SHOTS,0.4090909090909091,2024
-Tre Mann,1630544,Putback Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Tre Mann,1630544,Standard Dunk,2PT Field Goal,2,2,DUNKS,1.0,2024
-Tre Mann,1630544,Finger Roll,2PT Field Goal,2,0,LAYUPS,0.0,2024
-Tre Mann,1630544,Running Jump Shot,3PT Field Goal,3,2,JUMP_SHOTS,1.0,2024
-Tre Mann,1630544,Standard Layup,2PT Field Goal,6,5,LAYUPS,0.8333333333333334,2024
-Tre Mann,1630544,Reverse Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Tre Mann,1630544,Step Back Jump Shot,2PT Field Goal,8,3,JUMP_SHOTS,0.375,2024
-Tre Mann,1630544,Step Back Jump Shot,3PT Field Goal,22,8,JUMP_SHOTS,0.5454545454545454,2024
-Tre Mann,1630544,Specialty Dunk,2PT Field Goal,1,1,DUNKS,1.0,2024
-Tre Mann,1630544,Putback Layup,2PT Field Goal,2,0,LAYUPS,0.0,2024
-Tre Mann,1630544,Turnaround Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2024
-Tre Mann,1630544,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2025
-Tre Mann,1630544,Driving Dunk,2PT Field Goal,1,1,DUNKS,1.0,2025
-Tre Mann,1630544,Finger Roll,2PT Field Goal,5,3,LAYUPS,0.6,2025
-Tre Mann,1630544,Floating Jump Shot,2PT Field Goal,5,3,FLOATING_SHOTS,0.6,2025
-Tre Mann,1630544,Floating Jump Shot,2PT Field Goal,11,4,FLOATING_SHOTS,0.3636363636363636,2025
-Tre Mann,1630544,Driving Layup,2PT Field Goal,26,10,LAYUPS,0.3846153846153846,2025
-Tre Mann,1630544,Driving Layup,2PT Field Goal,2,1,LAYUPS,0.5,2025
-Tre Mann,1630544,Fadeaway Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2025
-Tre Mann,1630544,Floating Jump Shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2025
-Tre Mann,1630544,Jump Shot,3PT Field Goal,14,6,JUMP_SHOTS,0.6428571428571429,2025
-Tre Mann,1630544,Pullup Jump Shot,2PT Field Goal,11,6,JUMP_SHOTS,0.5454545454545454,2025
-Tre Mann,1630544,Pullup Jump Shot,3PT Field Goal,9,2,JUMP_SHOTS,0.3333333333333333,2025
-Tre Mann,1630544,Putback Layup,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Tre Mann,1630544,Running Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
-Tre Mann,1630544,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2025
-Tre Mann,1630544,Running Jump Shot,3PT Field Goal,2,0,JUMP_SHOTS,0.0,2025
-Tre Mann,1630544,Step Back Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2025
-Tre Mann,1630544,Step Back Jump Shot,3PT Field Goal,13,6,JUMP_SHOTS,0.6923076923076923,2025
-Tre Mann,1630544,Putback Layup,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2025
-Tre Mann,1630544,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
-Tre Mann,1630544,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Tre Mann,1630544,Pullup Jump Shot,3PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2023
+Tre Mann,1630544,Step Back Jump Shot,3PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2023
+Tre Mann,1630544,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2024
+Tre Mann,1630544,Driving Dunk,2PT Field Goal,2,0,Driving Dunk Shot,DUNKS,0.0,2024
+Tre Mann,1630544,Finger Roll,2PT Field Goal,5,4,Driving Finger Roll Layup Shot,LAYUPS,0.8,2024
+Tre Mann,1630544,Floating Jump Shot,2PT Field Goal,5,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.2,2024
+Tre Mann,1630544,Floating Jump Shot,2PT Field Goal,33,16,Driving Floating Jump Shot,FLOATING_SHOTS,0.4848484848484848,2024
+Tre Mann,1630544,Driving Hook Shot,2PT Field Goal,1,0,Driving Hook Shot,POST_MOVES,0.0,2024
+Tre Mann,1630544,Driving Layup,2PT Field Goal,33,19,Driving Layup Shot,LAYUPS,0.5757575757575758,2024
+Tre Mann,1630544,Driving Layup,2PT Field Goal,4,3,Driving Reverse Layup Shot,LAYUPS,0.75,2024
+Tre Mann,1630544,Fadeaway Jump Shot,2PT Field Goal,2,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2024
+Tre Mann,1630544,Floating Jump Shot,2PT Field Goal,8,2,Floating Jump shot,FLOATING_SHOTS,0.25,2024
+Tre Mann,1630544,Jump Shot,3PT Field Goal,42,17,Jump Shot,JUMP_SHOTS,0.6071428571428571,2024
+Tre Mann,1630544,Pullup Jump Shot,2PT Field Goal,8,5,Pullup Jump shot,JUMP_SHOTS,0.625,2024
+Tre Mann,1630544,Pullup Jump Shot,3PT Field Goal,22,6,Pullup Jump shot,JUMP_SHOTS,0.4090909090909091,2024
+Tre Mann,1630544,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2024
+Tre Mann,1630544,Standard Dunk,2PT Field Goal,2,2,Running Dunk Shot,DUNKS,1.0,2024
+Tre Mann,1630544,Finger Roll,2PT Field Goal,2,0,Running Finger Roll Layup Shot,LAYUPS,0.0,2024
+Tre Mann,1630544,Running Jump Shot,3PT Field Goal,3,2,Running Jump Shot,JUMP_SHOTS,1.0,2024
+Tre Mann,1630544,Standard Layup,2PT Field Goal,6,5,Running Layup Shot,LAYUPS,0.8333333333333334,2024
+Tre Mann,1630544,Reverse Layup,2PT Field Goal,1,1,Running Reverse Layup Shot,LAYUPS,1.0,2024
+Tre Mann,1630544,Step Back Jump Shot,2PT Field Goal,8,3,Step Back Jump shot,JUMP_SHOTS,0.375,2024
+Tre Mann,1630544,Step Back Jump Shot,3PT Field Goal,22,8,Step Back Jump shot,JUMP_SHOTS,0.5454545454545454,2024
+Tre Mann,1630544,Specialty Dunk,2PT Field Goal,1,1,Tip Dunk Shot,DUNKS,1.0,2024
+Tre Mann,1630544,Putback Layup,2PT Field Goal,2,0,Tip Layup Shot,LAYUPS,0.0,2024
+Tre Mann,1630544,Turnaround Jump Shot,2PT Field Goal,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,0.5,2024
+Tre Mann,1630544,Standard Layup,2PT Field Goal,1,0,Cutting Layup Shot,LAYUPS,0.0,2025
+Tre Mann,1630544,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2025
+Tre Mann,1630544,Finger Roll,2PT Field Goal,5,3,Driving Finger Roll Layup Shot,LAYUPS,0.6,2025
+Tre Mann,1630544,Floating Jump Shot,2PT Field Goal,5,3,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.6,2025
+Tre Mann,1630544,Floating Jump Shot,2PT Field Goal,11,4,Driving Floating Jump Shot,FLOATING_SHOTS,0.3636363636363636,2025
+Tre Mann,1630544,Driving Layup,2PT Field Goal,26,10,Driving Layup Shot,LAYUPS,0.3846153846153846,2025
+Tre Mann,1630544,Driving Layup,2PT Field Goal,2,1,Driving Reverse Layup Shot,LAYUPS,0.5,2025
+Tre Mann,1630544,Fadeaway Jump Shot,2PT Field Goal,2,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2025
+Tre Mann,1630544,Floating Jump Shot,2PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2025
+Tre Mann,1630544,Jump Shot,3PT Field Goal,14,6,Jump Shot,JUMP_SHOTS,0.6428571428571429,2025
+Tre Mann,1630544,Pullup Jump Shot,2PT Field Goal,11,6,Pullup Jump shot,JUMP_SHOTS,0.5454545454545454,2025
+Tre Mann,1630544,Pullup Jump Shot,3PT Field Goal,9,2,Pullup Jump shot,JUMP_SHOTS,0.3333333333333333,2025
+Tre Mann,1630544,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2025
+Tre Mann,1630544,Running Jump Shot,3PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2025
+Tre Mann,1630544,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2025
+Tre Mann,1630544,Running Jump Shot,3PT Field Goal,2,0,Running Pull-Up Jump Shot,JUMP_SHOTS,0.0,2025
+Tre Mann,1630544,Step Back Jump Shot,2PT Field Goal,2,0,Step Back Jump shot,JUMP_SHOTS,0.0,2025
+Tre Mann,1630544,Step Back Jump Shot,3PT Field Goal,13,6,Step Back Jump shot,JUMP_SHOTS,0.6923076923076923,2025
+Tre Mann,1630544,Putback Layup,2PT Field Goal,3,2,Tip Layup Shot,LAYUPS,0.6666666666666666,2025
+Tre Mann,1630544,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2025
+Tre Mann,1630544,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2025

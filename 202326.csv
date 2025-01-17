@@ -1,45 +1,45 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-DeMarcus Cousins,202326,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2014
-DeMarcus Cousins,202326,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2014
-DeMarcus Cousins,202326,Jump Shot,2PT Field Goal,12,3,JUMP_SHOTS,0.25,2014
-DeMarcus Cousins,202326,Standard Layup,2PT Field Goal,10,4,LAYUPS,0.4,2014
-DeMarcus Cousins,202326,Reverse Layup,2PT Field Goal,1,1,LAYUPS,1.0,2014
-DeMarcus Cousins,202326,Reverse Dunk,2PT Field Goal,1,1,DUNKS,1.0,2014
-DeMarcus Cousins,202326,Tip Shot,2PT Field Goal,1,0,TIP_SHOTS,0.0,2014
-DeMarcus Cousins,202326,Driving Dunk,2PT Field Goal,1,1,DUNKS,1.0,2015
-DeMarcus Cousins,202326,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2015
-DeMarcus Cousins,202326,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2015
-DeMarcus Cousins,202326,Jump Shot,2PT Field Goal,5,1,JUMP_SHOTS,0.2,2015
-DeMarcus Cousins,202326,Putback Dunk,2PT Field Goal,1,0,DUNKS,0.0,2015
-DeMarcus Cousins,202326,Reverse Layup,2PT Field Goal,1,0,LAYUPS,0.0,2015
-DeMarcus Cousins,202326,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2017
-DeMarcus Cousins,202326,Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2017
-DeMarcus Cousins,202326,Standard Layup,2PT Field Goal,2,0,LAYUPS,0.0,2017
-DeMarcus Cousins,202326,Specialty Dunk,2PT Field Goal,2,2,DUNKS,1.0,2018
-DeMarcus Cousins,202326,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2018
-DeMarcus Cousins,202326,Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2018
-DeMarcus Cousins,202326,Driving Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2018
-DeMarcus Cousins,202326,Driving Layup,2PT Field Goal,8,5,LAYUPS,0.625,2018
-DeMarcus Cousins,202326,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2018
-DeMarcus Cousins,202326,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2018
-DeMarcus Cousins,202326,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2018
-DeMarcus Cousins,202326,Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2018
-DeMarcus Cousins,202326,Hook Shot,2PT Field Goal,3,1,POST_MOVES,0.3333333333333333,2018
-DeMarcus Cousins,202326,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2018
-DeMarcus Cousins,202326,Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2018
-DeMarcus Cousins,202326,Jump Shot,3PT Field Goal,18,5,JUMP_SHOTS,0.4166666666666667,2018
-DeMarcus Cousins,202326,Standard Layup,2PT Field Goal,4,1,LAYUPS,0.25,2018
-DeMarcus Cousins,202326,Putback Dunk,2PT Field Goal,1,1,DUNKS,1.0,2018
-DeMarcus Cousins,202326,Putback Layup,2PT Field Goal,1,1,LAYUPS,1.0,2018
-DeMarcus Cousins,202326,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2018
-DeMarcus Cousins,202326,Running Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2018
-DeMarcus Cousins,202326,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2018
-DeMarcus Cousins,202326,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2018
-DeMarcus Cousins,202326,Turnaround Hook Shot,2PT Field Goal,2,2,POST_MOVES,1.0,2018
-DeMarcus Cousins,202326,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2018
-DeMarcus Cousins,202326,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2019
-DeMarcus Cousins,202326,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2019
-DeMarcus Cousins,202326,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2019
-DeMarcus Cousins,202326,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2019
-DeMarcus Cousins,202326,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2019
-DeMarcus Cousins,202326,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2019
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+DeMarcus Cousins,202326,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2014
+DeMarcus Cousins,202326,Hook Shot,2PT Field Goal,1,1,Jump Hook Shot,POST_MOVES,1.0,2014
+DeMarcus Cousins,202326,Jump Shot,2PT Field Goal,12,3,Jump Shot,JUMP_SHOTS,0.25,2014
+DeMarcus Cousins,202326,Standard Layup,2PT Field Goal,10,4,Layup Shot,LAYUPS,0.4,2014
+DeMarcus Cousins,202326,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2014
+DeMarcus Cousins,202326,Reverse Dunk,2PT Field Goal,1,1,Reverse Slam Dunk Shot,DUNKS,1.0,2014
+DeMarcus Cousins,202326,Tip Shot,2PT Field Goal,1,0,Tip Shot,TIP_SHOTS,0.0,2014
+DeMarcus Cousins,202326,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2015
+DeMarcus Cousins,202326,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2015
+DeMarcus Cousins,202326,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2015
+DeMarcus Cousins,202326,Jump Shot,2PT Field Goal,5,1,Jump Shot,JUMP_SHOTS,0.2,2015
+DeMarcus Cousins,202326,Putback Dunk,2PT Field Goal,1,0,Putback Dunk Shot,DUNKS,0.0,2015
+DeMarcus Cousins,202326,Reverse Layup,2PT Field Goal,1,0,Reverse Layup Shot,LAYUPS,0.0,2015
+DeMarcus Cousins,202326,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2017
+DeMarcus Cousins,202326,Jump Shot,3PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.5,2017
+DeMarcus Cousins,202326,Standard Layup,2PT Field Goal,2,0,Layup Shot,LAYUPS,0.0,2017
+DeMarcus Cousins,202326,Specialty Dunk,2PT Field Goal,2,2,Cutting Dunk Shot,DUNKS,1.0,2018
+DeMarcus Cousins,202326,Standard Layup,2PT Field Goal,1,0,Cutting Layup Shot,LAYUPS,0.0,2018
+DeMarcus Cousins,202326,Floating Jump Shot,2PT Field Goal,1,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,1.0,2018
+DeMarcus Cousins,202326,Driving Hook Shot,2PT Field Goal,1,1,Driving Hook Shot,POST_MOVES,1.0,2018
+DeMarcus Cousins,202326,Driving Layup,2PT Field Goal,8,5,Driving Layup Shot,LAYUPS,0.625,2018
+DeMarcus Cousins,202326,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2018
+DeMarcus Cousins,202326,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2018
+DeMarcus Cousins,202326,Finger Roll,2PT Field Goal,1,1,Finger Roll Layup Shot,LAYUPS,1.0,2018
+DeMarcus Cousins,202326,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2018
+DeMarcus Cousins,202326,Hook Shot,2PT Field Goal,3,1,Hook Shot,POST_MOVES,0.3333333333333333,2018
+DeMarcus Cousins,202326,Jump Shot,3PT Field Goal,1,0,Jump Bank Shot,JUMP_SHOTS,0.0,2018
+DeMarcus Cousins,202326,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2018
+DeMarcus Cousins,202326,Jump Shot,3PT Field Goal,18,5,Jump Shot,JUMP_SHOTS,0.4166666666666667,2018
+DeMarcus Cousins,202326,Standard Layup,2PT Field Goal,4,1,Layup Shot,LAYUPS,0.25,2018
+DeMarcus Cousins,202326,Putback Dunk,2PT Field Goal,1,1,Putback Dunk Shot,DUNKS,1.0,2018
+DeMarcus Cousins,202326,Putback Layup,2PT Field Goal,1,1,Putback Layup Shot,LAYUPS,1.0,2018
+DeMarcus Cousins,202326,Finger Roll,2PT Field Goal,1,1,Running Finger Roll Layup Shot,LAYUPS,1.0,2018
+DeMarcus Cousins,202326,Running Jump Shot,2PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.0,2018
+DeMarcus Cousins,202326,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2018
+DeMarcus Cousins,202326,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Fadeaway shot,JUMP_SHOTS,1.0,2018
+DeMarcus Cousins,202326,Turnaround Hook Shot,2PT Field Goal,2,2,Turnaround Hook Shot,POST_MOVES,1.0,2018
+DeMarcus Cousins,202326,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2018
+DeMarcus Cousins,202326,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2019
+DeMarcus Cousins,202326,Hook Shot,2PT Field Goal,1,0,Hook Shot,POST_MOVES,0.0,2019
+DeMarcus Cousins,202326,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2019
+DeMarcus Cousins,202326,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2019
+DeMarcus Cousins,202326,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2019
+DeMarcus Cousins,202326,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2019

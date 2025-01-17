@@ -1,13 +1,13 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Kent Bazemore,203145,Alley Oop Dunk,2PT Field Goal,1,1,DUNKS,1.0,2017
-Kent Bazemore,203145,Alley Oop Layup,2PT Field Goal,1,1,LAYUPS,1.0,2017
-Kent Bazemore,203145,Specialty Dunk,2PT Field Goal,2,2,DUNKS,1.0,2017
-Kent Bazemore,203145,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2017
-Kent Bazemore,203145,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2017
-Kent Bazemore,203145,Floating Jump Shot,2PT Field Goal,1,0,FLOATING_SHOTS,0.0,2017
-Kent Bazemore,203145,Driving Layup,2PT Field Goal,3,0,LAYUPS,0.0,2017
-Kent Bazemore,203145,Jump Shot,2PT Field Goal,4,2,JUMP_SHOTS,0.5,2017
-Kent Bazemore,203145,Jump Shot,3PT Field Goal,2,2,JUMP_SHOTS,1.5,2017
-Kent Bazemore,203145,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2017
-Kent Bazemore,203145,Pullup Jump Shot,2PT Field Goal,5,3,JUMP_SHOTS,0.6,2017
-Kent Bazemore,203145,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2017
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Kent Bazemore,203145,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2017
+Kent Bazemore,203145,Alley Oop Layup,2PT Field Goal,1,1,Alley Oop Layup shot,LAYUPS,1.0,2017
+Kent Bazemore,203145,Specialty Dunk,2PT Field Goal,2,2,Cutting Dunk Shot,DUNKS,1.0,2017
+Kent Bazemore,203145,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2017
+Kent Bazemore,203145,Finger Roll,2PT Field Goal,1,1,Driving Finger Roll Layup Shot,LAYUPS,1.0,2017
+Kent Bazemore,203145,Floating Jump Shot,2PT Field Goal,1,0,Driving Floating Jump Shot,FLOATING_SHOTS,0.0,2017
+Kent Bazemore,203145,Driving Layup,2PT Field Goal,3,0,Driving Layup Shot,LAYUPS,0.0,2017
+Kent Bazemore,203145,Jump Shot,2PT Field Goal,4,2,Jump Shot,JUMP_SHOTS,0.5,2017
+Kent Bazemore,203145,Jump Shot,3PT Field Goal,2,2,Jump Shot,JUMP_SHOTS,1.5,2017
+Kent Bazemore,203145,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2017
+Kent Bazemore,203145,Pullup Jump Shot,2PT Field Goal,5,3,Pullup Jump shot,JUMP_SHOTS,0.6,2017
+Kent Bazemore,203145,Finger Roll,2PT Field Goal,1,1,Running Finger Roll Layup Shot,LAYUPS,1.0,2017

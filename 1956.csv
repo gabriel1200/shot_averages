@@ -1,30 +1,30 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Ira Newble,1956,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2001
-Ira Newble,1956,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2001
-Ira Newble,1956,Standard Dunk,2PT Field Goal,2,2,DUNKS,1.0,2003
-Ira Newble,1956,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2003
-Ira Newble,1956,Jump Shot,3PT Field Goal,4,1,JUMP_SHOTS,0.375,2003
-Ira Newble,1956,Standard Layup,2PT Field Goal,2,0,LAYUPS,0.0,2003
-Ira Newble,1956,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2004
-Ira Newble,1956,Jump Shot,2PT Field Goal,14,5,JUMP_SHOTS,0.3571428571428571,2004
-Ira Newble,1956,Standard Layup,2PT Field Goal,2,0,LAYUPS,0.0,2004
-Ira Newble,1956,Running Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2004
-Ira Newble,1956,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2004
-Ira Newble,1956,Tip Shot,2PT Field Goal,1,1,TIP_SHOTS,1.0,2004
-Ira Newble,1956,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2005
-Ira Newble,1956,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2005
-Ira Newble,1956,Jump Shot,2PT Field Goal,17,10,JUMP_SHOTS,0.5882352941176471,2005
-Ira Newble,1956,Jump Shot,3PT Field Goal,4,0,JUMP_SHOTS,0.0,2005
-Ira Newble,1956,Standard Layup,2PT Field Goal,6,3,LAYUPS,0.5,2005
-Ira Newble,1956,Reverse Layup,2PT Field Goal,1,1,LAYUPS,1.0,2005
-Ira Newble,1956,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2005
-Ira Newble,1956,Tip Shot,2PT Field Goal,4,2,TIP_SHOTS,0.5,2005
-Ira Newble,1956,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2005
-Ira Newble,1956,Finger Roll,2PT Field Goal,1,0,LAYUPS,0.0,2006
-Ira Newble,1956,Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2006
-Ira Newble,1956,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2006
-Ira Newble,1956,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2006
-Ira Newble,1956,Jump Shot,2PT Field Goal,4,0,JUMP_SHOTS,0.0,2008
-Ira Newble,1956,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2008
-Ira Newble,1956,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2008
-Ira Newble,1956,Tip Shot,2PT Field Goal,2,1,TIP_SHOTS,0.5,2008
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Ira Newble,1956,Standard Layup,2PT Field Goal,1,1,Layup Shot,LAYUPS,1.0,2001
+Ira Newble,1956,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2001
+Ira Newble,1956,Standard Dunk,2PT Field Goal,2,2,Dunk Shot,DUNKS,1.0,2003
+Ira Newble,1956,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2003
+Ira Newble,1956,Jump Shot,3PT Field Goal,4,1,Jump Shot,JUMP_SHOTS,0.375,2003
+Ira Newble,1956,Standard Layup,2PT Field Goal,2,0,Layup Shot,LAYUPS,0.0,2003
+Ira Newble,1956,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2004
+Ira Newble,1956,Jump Shot,2PT Field Goal,14,5,Jump Shot,JUMP_SHOTS,0.3571428571428571,2004
+Ira Newble,1956,Standard Layup,2PT Field Goal,2,0,Layup Shot,LAYUPS,0.0,2004
+Ira Newble,1956,Running Jump Shot,2PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2004
+Ira Newble,1956,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2004
+Ira Newble,1956,Tip Shot,2PT Field Goal,1,1,Tip Shot,TIP_SHOTS,1.0,2004
+Ira Newble,1956,Driving Layup,2PT Field Goal,1,1,Driving Layup Shot,LAYUPS,1.0,2005
+Ira Newble,1956,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2005
+Ira Newble,1956,Jump Shot,2PT Field Goal,17,10,Jump Shot,JUMP_SHOTS,0.5882352941176471,2005
+Ira Newble,1956,Jump Shot,3PT Field Goal,4,0,Jump Shot,JUMP_SHOTS,0.0,2005
+Ira Newble,1956,Standard Layup,2PT Field Goal,6,3,Layup Shot,LAYUPS,0.5,2005
+Ira Newble,1956,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2005
+Ira Newble,1956,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2005
+Ira Newble,1956,Tip Shot,2PT Field Goal,4,2,Tip Shot,TIP_SHOTS,0.5,2005
+Ira Newble,1956,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2005
+Ira Newble,1956,Finger Roll,2PT Field Goal,1,0,Driving Finger Roll Shot,LAYUPS,0.0,2006
+Ira Newble,1956,Jump Shot,2PT Field Goal,2,0,Jump Shot,JUMP_SHOTS,0.0,2006
+Ira Newble,1956,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2006
+Ira Newble,1956,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2006
+Ira Newble,1956,Jump Shot,2PT Field Goal,4,0,Jump Shot,JUMP_SHOTS,0.0,2008
+Ira Newble,1956,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2008
+Ira Newble,1956,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2008
+Ira Newble,1956,Tip Shot,2PT Field Goal,2,1,Tip Shot,TIP_SHOTS,0.5,2008

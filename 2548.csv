@@ -1,36 +1,36 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Dwyane Wade,2548,Alley Oop Dunk,2PT Field Goal,1,1,DUNKS,1.0,2006
-Dwyane Wade,2548,Driving Dunk,2PT Field Goal,1,1,DUNKS,1.0,2006
-Dwyane Wade,2548,Driving Layup,2PT Field Goal,7,5,LAYUPS,0.7142857142857143,2006
-Dwyane Wade,2548,Standard Dunk,2PT Field Goal,5,5,DUNKS,1.0,2006
-Dwyane Wade,2548,Fadeaway Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2006
-Dwyane Wade,2548,Jump Shot,2PT Field Goal,3,1,JUMP_SHOTS,0.3333333333333333,2006
-Dwyane Wade,2548,Jump Shot,2PT Field Goal,23,10,JUMP_SHOTS,0.4347826086956521,2006
-Dwyane Wade,2548,Jump Shot,3PT Field Goal,4,0,JUMP_SHOTS,0.0,2006
-Dwyane Wade,2548,Standard Layup,2PT Field Goal,12,3,LAYUPS,0.25,2006
-Dwyane Wade,2548,Reverse Dunk,2PT Field Goal,1,0,DUNKS,0.0,2006
-Dwyane Wade,2548,Reverse Layup,2PT Field Goal,2,1,LAYUPS,0.5,2006
-Dwyane Wade,2548,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2006
-Dwyane Wade,2548,Running Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,2006
-Dwyane Wade,2548,Standard Layup,2PT Field Goal,2,2,LAYUPS,1.0,2006
-Dwyane Wade,2548,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2006
-Dwyane Wade,2548,Turnaround Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2006
-Dwyane Wade,2548,Alley Oop Dunk,2PT Field Goal,1,1,DUNKS,1.0,2007
-Dwyane Wade,2548,Driving Dunk,2PT Field Goal,5,5,DUNKS,1.0,2007
-Dwyane Wade,2548,Driving Layup,2PT Field Goal,7,6,LAYUPS,0.8571428571428571,2007
-Dwyane Wade,2548,Standard Dunk,2PT Field Goal,3,3,DUNKS,1.0,2007
-Dwyane Wade,2548,Fadeaway Jump Shot,2PT Field Goal,3,2,JUMP_SHOTS,0.6666666666666666,2007
-Dwyane Wade,2548,Specialty Dunk,2PT Field Goal,1,1,DUNKS,1.0,2007
-Dwyane Wade,2548,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2007
-Dwyane Wade,2548,Jump Shot,2PT Field Goal,4,1,JUMP_SHOTS,0.25,2007
-Dwyane Wade,2548,Jump Shot,2PT Field Goal,36,14,JUMP_SHOTS,0.3888888888888889,2007
-Dwyane Wade,2548,Jump Shot,3PT Field Goal,5,1,JUMP_SHOTS,0.3,2007
-Dwyane Wade,2548,Standard Layup,2PT Field Goal,6,3,LAYUPS,0.5,2007
-Dwyane Wade,2548,Reverse Dunk,2PT Field Goal,1,0,DUNKS,0.0,2007
-Dwyane Wade,2548,Reverse Layup,2PT Field Goal,5,4,LAYUPS,0.8,2007
-Dwyane Wade,2548,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2007
-Dwyane Wade,2548,Running Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2007
-Dwyane Wade,2548,Standard Layup,2PT Field Goal,2,2,LAYUPS,1.0,2007
-Dwyane Wade,2548,Standard Dunk,2PT Field Goal,2,2,DUNKS,1.0,2007
-Dwyane Wade,2548,Turnaround Jump Shot,2PT Field Goal,4,3,JUMP_SHOTS,0.75,2007
-Dwyane Wade,2548,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2008
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Dwyane Wade,2548,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2006
+Dwyane Wade,2548,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2006
+Dwyane Wade,2548,Driving Layup,2PT Field Goal,7,5,Driving Layup Shot,LAYUPS,0.7142857142857143,2006
+Dwyane Wade,2548,Standard Dunk,2PT Field Goal,5,5,Dunk Shot,DUNKS,1.0,2006
+Dwyane Wade,2548,Fadeaway Jump Shot,2PT Field Goal,2,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2006
+Dwyane Wade,2548,Jump Shot,2PT Field Goal,3,1,Jump Bank Shot,JUMP_SHOTS,0.3333333333333333,2006
+Dwyane Wade,2548,Jump Shot,2PT Field Goal,23,10,Jump Shot,JUMP_SHOTS,0.4347826086956521,2006
+Dwyane Wade,2548,Jump Shot,3PT Field Goal,4,0,Jump Shot,JUMP_SHOTS,0.0,2006
+Dwyane Wade,2548,Standard Layup,2PT Field Goal,12,3,Layup Shot,LAYUPS,0.25,2006
+Dwyane Wade,2548,Reverse Dunk,2PT Field Goal,1,0,Reverse Dunk Shot,DUNKS,0.0,2006
+Dwyane Wade,2548,Reverse Layup,2PT Field Goal,2,1,Reverse Layup Shot,LAYUPS,0.5,2006
+Dwyane Wade,2548,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2006
+Dwyane Wade,2548,Running Jump Shot,2PT Field Goal,2,2,Running Jump Shot,JUMP_SHOTS,1.0,2006
+Dwyane Wade,2548,Standard Layup,2PT Field Goal,2,2,Running Layup Shot,LAYUPS,1.0,2006
+Dwyane Wade,2548,Standard Dunk,2PT Field Goal,1,1,Slam Dunk Shot,DUNKS,1.0,2006
+Dwyane Wade,2548,Turnaround Jump Shot,2PT Field Goal,2,1,Turnaround Jump Shot,JUMP_SHOTS,0.5,2006
+Dwyane Wade,2548,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2007
+Dwyane Wade,2548,Driving Dunk,2PT Field Goal,5,5,Driving Dunk Shot,DUNKS,1.0,2007
+Dwyane Wade,2548,Driving Layup,2PT Field Goal,7,6,Driving Layup Shot,LAYUPS,0.8571428571428571,2007
+Dwyane Wade,2548,Standard Dunk,2PT Field Goal,3,3,Dunk Shot,DUNKS,1.0,2007
+Dwyane Wade,2548,Fadeaway Jump Shot,2PT Field Goal,3,2,Fadeaway Jump Shot,JUMP_SHOTS,0.6666666666666666,2007
+Dwyane Wade,2548,Specialty Dunk,2PT Field Goal,1,1,Follow Up Dunk Shot,DUNKS,1.0,2007
+Dwyane Wade,2548,Hook Shot,2PT Field Goal,1,1,Hook Shot,POST_MOVES,1.0,2007
+Dwyane Wade,2548,Jump Shot,2PT Field Goal,4,1,Jump Bank Shot,JUMP_SHOTS,0.25,2007
+Dwyane Wade,2548,Jump Shot,2PT Field Goal,36,14,Jump Shot,JUMP_SHOTS,0.3888888888888889,2007
+Dwyane Wade,2548,Jump Shot,3PT Field Goal,5,1,Jump Shot,JUMP_SHOTS,0.3,2007
+Dwyane Wade,2548,Standard Layup,2PT Field Goal,6,3,Layup Shot,LAYUPS,0.5,2007
+Dwyane Wade,2548,Reverse Dunk,2PT Field Goal,1,0,Reverse Dunk Shot,DUNKS,0.0,2007
+Dwyane Wade,2548,Reverse Layup,2PT Field Goal,5,4,Reverse Layup Shot,LAYUPS,0.8,2007
+Dwyane Wade,2548,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2007
+Dwyane Wade,2548,Running Jump Shot,2PT Field Goal,2,1,Running Jump Shot,JUMP_SHOTS,0.5,2007
+Dwyane Wade,2548,Standard Layup,2PT Field Goal,2,2,Running Layup Shot,LAYUPS,1.0,2007
+Dwyane Wade,2548,Standard Dunk,2PT Field Goal,2,2,Slam Dunk Shot,DUNKS,1.0,2007
+Dwyane Wade,2548,Turnaround Jump Shot,2PT Field Goal,4,3,Turnaround Jump Shot,JUMP_SHOTS,0.75,2007
+Dwyane Wade,2548,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2008

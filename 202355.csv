@@ -1,37 +1,37 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Hassan Whiteside,202355,Alley Oop Dunk,2PT Field Goal,2,2,DUNKS,1.0,2015
-Hassan Whiteside,202355,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2015
-Hassan Whiteside,202355,Hook Shot,2PT Field Goal,2,2,POST_MOVES,1.0,2015
-Hassan Whiteside,202355,Hook Shot,2PT Field Goal,1,0,POST_MOVES,0.0,2015
-Hassan Whiteside,202355,Jump Shot,2PT Field Goal,6,1,JUMP_SHOTS,0.1666666666666666,2015
-Hassan Whiteside,202355,Standard Layup,2PT Field Goal,8,3,LAYUPS,0.375,2015
-Hassan Whiteside,202355,Standard Dunk,2PT Field Goal,2,2,DUNKS,1.0,2015
-Hassan Whiteside,202355,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2015
-Hassan Whiteside,202355,Alley Oop Dunk,2PT Field Goal,1,1,DUNKS,1.0,2016
-Hassan Whiteside,202355,Standard Dunk,2PT Field Goal,3,3,DUNKS,1.0,2016
-Hassan Whiteside,202355,Standard Layup,2PT Field Goal,2,0,LAYUPS,0.0,2016
-Hassan Whiteside,202355,Putback Layup,2PT Field Goal,1,1,LAYUPS,1.0,2016
-Hassan Whiteside,202355,Alley Oop Dunk,2PT Field Goal,4,4,DUNKS,1.0,2020
-Hassan Whiteside,202355,Alley Oop Layup,2PT Field Goal,1,0,LAYUPS,0.0,2020
-Hassan Whiteside,202355,Specialty Dunk,2PT Field Goal,20,20,DUNKS,1.0,2020
-Hassan Whiteside,202355,Standard Layup,2PT Field Goal,13,9,LAYUPS,0.6923076923076923,2020
-Hassan Whiteside,202355,Driving Dunk,2PT Field Goal,3,3,DUNKS,1.0,2020
-Hassan Whiteside,202355,Floating Jump Shot,2PT Field Goal,2,1,FLOATING_SHOTS,0.5,2020
-Hassan Whiteside,202355,Driving Hook Shot,2PT Field Goal,4,3,POST_MOVES,0.75,2020
-Hassan Whiteside,202355,Driving Layup,2PT Field Goal,2,1,LAYUPS,0.5,2020
-Hassan Whiteside,202355,Standard Dunk,2PT Field Goal,9,9,DUNKS,1.0,2020
-Hassan Whiteside,202355,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2020
-Hassan Whiteside,202355,Floating Jump Shot,2PT Field Goal,18,11,FLOATING_SHOTS,0.6111111111111112,2020
-Hassan Whiteside,202355,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2020
-Hassan Whiteside,202355,Hook Shot,2PT Field Goal,12,5,POST_MOVES,0.4166666666666667,2020
-Hassan Whiteside,202355,Jump Shot,2PT Field Goal,10,4,JUMP_SHOTS,0.4,2020
-Hassan Whiteside,202355,Jump Shot,3PT Field Goal,4,2,JUMP_SHOTS,0.75,2020
-Hassan Whiteside,202355,Standard Layup,2PT Field Goal,11,4,LAYUPS,0.3636363636363636,2020
-Hassan Whiteside,202355,Putback Dunk,2PT Field Goal,2,2,DUNKS,1.0,2020
-Hassan Whiteside,202355,Putback Layup,2PT Field Goal,5,4,LAYUPS,0.8,2020
-Hassan Whiteside,202355,Reverse Layup,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2020
-Hassan Whiteside,202355,Specialty Dunk,2PT Field Goal,5,5,DUNKS,1.0,2020
-Hassan Whiteside,202355,Putback Layup,2PT Field Goal,24,11,LAYUPS,0.4583333333333333,2020
-Hassan Whiteside,202355,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2020
-Hassan Whiteside,202355,Turnaround Hook Shot,2PT Field Goal,17,9,POST_MOVES,0.5294117647058824,2020
-Hassan Whiteside,202355,Turnaround Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2020
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Hassan Whiteside,202355,Alley Oop Dunk,2PT Field Goal,2,2,Alley Oop Dunk Shot,DUNKS,1.0,2015
+Hassan Whiteside,202355,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2015
+Hassan Whiteside,202355,Hook Shot,2PT Field Goal,2,2,Hook Shot,POST_MOVES,1.0,2015
+Hassan Whiteside,202355,Hook Shot,2PT Field Goal,1,0,Jump Hook Shot,POST_MOVES,0.0,2015
+Hassan Whiteside,202355,Jump Shot,2PT Field Goal,6,1,Jump Shot,JUMP_SHOTS,0.1666666666666666,2015
+Hassan Whiteside,202355,Standard Layup,2PT Field Goal,8,3,Layup Shot,LAYUPS,0.375,2015
+Hassan Whiteside,202355,Standard Dunk,2PT Field Goal,2,2,Slam Dunk Shot,DUNKS,1.0,2015
+Hassan Whiteside,202355,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Bank shot,JUMP_SHOTS,1.0,2015
+Hassan Whiteside,202355,Alley Oop Dunk,2PT Field Goal,1,1,Alley Oop Dunk Shot,DUNKS,1.0,2016
+Hassan Whiteside,202355,Standard Dunk,2PT Field Goal,3,3,Dunk Shot,DUNKS,1.0,2016
+Hassan Whiteside,202355,Standard Layup,2PT Field Goal,2,0,Layup Shot,LAYUPS,0.0,2016
+Hassan Whiteside,202355,Putback Layup,2PT Field Goal,1,1,Tip Layup Shot,LAYUPS,1.0,2016
+Hassan Whiteside,202355,Alley Oop Dunk,2PT Field Goal,4,4,Alley Oop Dunk Shot,DUNKS,1.0,2020
+Hassan Whiteside,202355,Alley Oop Layup,2PT Field Goal,1,0,Alley Oop Layup shot,LAYUPS,0.0,2020
+Hassan Whiteside,202355,Specialty Dunk,2PT Field Goal,20,20,Cutting Dunk Shot,DUNKS,1.0,2020
+Hassan Whiteside,202355,Standard Layup,2PT Field Goal,13,9,Cutting Layup Shot,LAYUPS,0.6923076923076923,2020
+Hassan Whiteside,202355,Driving Dunk,2PT Field Goal,3,3,Driving Dunk Shot,DUNKS,1.0,2020
+Hassan Whiteside,202355,Floating Jump Shot,2PT Field Goal,2,1,Driving Floating Jump Shot,FLOATING_SHOTS,0.5,2020
+Hassan Whiteside,202355,Driving Hook Shot,2PT Field Goal,4,3,Driving Hook Shot,POST_MOVES,0.75,2020
+Hassan Whiteside,202355,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2020
+Hassan Whiteside,202355,Standard Dunk,2PT Field Goal,9,9,Dunk Shot,DUNKS,1.0,2020
+Hassan Whiteside,202355,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2020
+Hassan Whiteside,202355,Floating Jump Shot,2PT Field Goal,18,11,Floating Jump shot,FLOATING_SHOTS,0.6111111111111112,2020
+Hassan Whiteside,202355,Hook Shot,2PT Field Goal,1,1,Hook Bank Shot,POST_MOVES,1.0,2020
+Hassan Whiteside,202355,Hook Shot,2PT Field Goal,12,5,Hook Shot,POST_MOVES,0.4166666666666667,2020
+Hassan Whiteside,202355,Jump Shot,2PT Field Goal,10,4,Jump Shot,JUMP_SHOTS,0.4,2020
+Hassan Whiteside,202355,Jump Shot,3PT Field Goal,4,2,Jump Shot,JUMP_SHOTS,0.75,2020
+Hassan Whiteside,202355,Standard Layup,2PT Field Goal,11,4,Layup Shot,LAYUPS,0.3636363636363636,2020
+Hassan Whiteside,202355,Putback Dunk,2PT Field Goal,2,2,Putback Dunk Shot,DUNKS,1.0,2020
+Hassan Whiteside,202355,Putback Layup,2PT Field Goal,5,4,Putback Layup Shot,LAYUPS,0.8,2020
+Hassan Whiteside,202355,Reverse Layup,2PT Field Goal,3,2,Reverse Layup Shot,LAYUPS,0.6666666666666666,2020
+Hassan Whiteside,202355,Specialty Dunk,2PT Field Goal,5,5,Tip Dunk Shot,DUNKS,1.0,2020
+Hassan Whiteside,202355,Putback Layup,2PT Field Goal,24,11,Tip Layup Shot,LAYUPS,0.4583333333333333,2020
+Hassan Whiteside,202355,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2020
+Hassan Whiteside,202355,Turnaround Hook Shot,2PT Field Goal,17,9,Turnaround Hook Shot,POST_MOVES,0.5294117647058824,2020
+Hassan Whiteside,202355,Turnaround Jump Shot,2PT Field Goal,1,1,Turnaround Jump Shot,JUMP_SHOTS,1.0,2020

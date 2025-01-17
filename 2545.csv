@@ -1,9 +1,9 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Darko Milicic,2545,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2005
-Darko Milicic,2545,Driving Dunk,2PT Field Goal,1,1,DUNKS,1.0,2007
-Darko Milicic,2545,Standard Dunk,2PT Field Goal,1,0,DUNKS,0.0,2007
-Darko Milicic,2545,Hook Shot,2PT Field Goal,3,2,POST_MOVES,0.6666666666666666,2007
-Darko Milicic,2545,Hook Shot,2PT Field Goal,1,1,POST_MOVES,1.0,2007
-Darko Milicic,2545,Jump Shot,2PT Field Goal,4,0,JUMP_SHOTS,0.0,2007
-Darko Milicic,2545,Standard Layup,2PT Field Goal,3,2,LAYUPS,0.6666666666666666,2007
-Darko Milicic,2545,Tip Shot,2PT Field Goal,2,0,TIP_SHOTS,0.0,2007
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Darko Milicic,2545,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2005
+Darko Milicic,2545,Driving Dunk,2PT Field Goal,1,1,Driving Dunk Shot,DUNKS,1.0,2007
+Darko Milicic,2545,Standard Dunk,2PT Field Goal,1,0,Dunk Shot,DUNKS,0.0,2007
+Darko Milicic,2545,Hook Shot,2PT Field Goal,3,2,Hook Shot,POST_MOVES,0.6666666666666666,2007
+Darko Milicic,2545,Hook Shot,2PT Field Goal,1,1,Jump Hook Shot,POST_MOVES,1.0,2007
+Darko Milicic,2545,Jump Shot,2PT Field Goal,4,0,Jump Shot,JUMP_SHOTS,0.0,2007
+Darko Milicic,2545,Standard Layup,2PT Field Goal,3,2,Layup Shot,LAYUPS,0.6666666666666666,2007
+Darko Milicic,2545,Tip Shot,2PT Field Goal,2,0,Tip Shot,TIP_SHOTS,0.0,2007

@@ -1,5 +1,5 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Robert Hite,200823,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2007
-Robert Hite,200823,Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2007
-Robert Hite,200823,Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2007
-Robert Hite,200823,Standard Layup,2PT Field Goal,2,1,LAYUPS,0.5,2007
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Robert Hite,200823,Standard Dunk,2PT Field Goal,1,1,Dunk Shot,DUNKS,1.0,2007
+Robert Hite,200823,Jump Shot,2PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2007
+Robert Hite,200823,Jump Shot,3PT Field Goal,1,0,Jump Shot,JUMP_SHOTS,0.0,2007
+Robert Hite,200823,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2007

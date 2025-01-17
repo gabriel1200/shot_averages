@@ -1,19 +1,19 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Hunter Tyson,1641816,Specialty Dunk,2PT Field Goal,1,1,DUNKS,1.0,2024
-Hunter Tyson,1641816,Driving Layup,2PT Field Goal,2,1,LAYUPS,0.5,2024
-Hunter Tyson,1641816,Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2024
-Hunter Tyson,1641816,Jump Shot,3PT Field Goal,11,3,JUMP_SHOTS,0.4090909090909091,2024
-Hunter Tyson,1641816,Pullup Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2024
-Hunter Tyson,1641816,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Hunter Tyson,1641816,Specialty Dunk,2PT Field Goal,2,1,DUNKS,0.5,2025
-Hunter Tyson,1641816,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Hunter Tyson,1641816,Driving Layup,2PT Field Goal,1,0,LAYUPS,0.0,2025
-Hunter Tyson,1641816,Fadeaway Jump Shot,2PT Field Goal,2,0,JUMP_SHOTS,0.0,2025
-Hunter Tyson,1641816,Floating Jump Shot,3PT Field Goal,1,0,FLOATING_SHOTS,0.0,2025
-Hunter Tyson,1641816,Jump Shot,3PT Field Goal,9,6,JUMP_SHOTS,1.0,2025
-Hunter Tyson,1641816,Standard Layup,2PT Field Goal,2,1,LAYUPS,0.5,2025
-Hunter Tyson,1641816,Pullup Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,2025
-Hunter Tyson,1641816,Reverse Layup,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Hunter Tyson,1641816,Standard Dunk,2PT Field Goal,1,0,DUNKS,0.0,2025
-Hunter Tyson,1641816,Standard Layup,2PT Field Goal,1,1,LAYUPS,1.0,2025
-Hunter Tyson,1641816,Step Back Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Hunter Tyson,1641816,Specialty Dunk,2PT Field Goal,1,1,Cutting Dunk Shot,DUNKS,1.0,2024
+Hunter Tyson,1641816,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2024
+Hunter Tyson,1641816,Jump Shot,2PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.0,2024
+Hunter Tyson,1641816,Jump Shot,3PT Field Goal,11,3,Jump Shot,JUMP_SHOTS,0.4090909090909091,2024
+Hunter Tyson,1641816,Pullup Jump Shot,2PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.0,2024
+Hunter Tyson,1641816,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2024
+Hunter Tyson,1641816,Specialty Dunk,2PT Field Goal,2,1,Cutting Dunk Shot,DUNKS,0.5,2025
+Hunter Tyson,1641816,Standard Layup,2PT Field Goal,1,1,Cutting Layup Shot,LAYUPS,1.0,2025
+Hunter Tyson,1641816,Driving Layup,2PT Field Goal,1,0,Driving Layup Shot,LAYUPS,0.0,2025
+Hunter Tyson,1641816,Fadeaway Jump Shot,2PT Field Goal,2,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2025
+Hunter Tyson,1641816,Floating Jump Shot,3PT Field Goal,1,0,Floating Jump shot,FLOATING_SHOTS,0.0,2025
+Hunter Tyson,1641816,Jump Shot,3PT Field Goal,9,6,Jump Shot,JUMP_SHOTS,1.0,2025
+Hunter Tyson,1641816,Standard Layup,2PT Field Goal,2,1,Layup Shot,LAYUPS,0.5,2025
+Hunter Tyson,1641816,Pullup Jump Shot,2PT Field Goal,2,2,Pullup Jump shot,JUMP_SHOTS,1.0,2025
+Hunter Tyson,1641816,Reverse Layup,2PT Field Goal,1,1,Reverse Layup Shot,LAYUPS,1.0,2025
+Hunter Tyson,1641816,Standard Dunk,2PT Field Goal,1,0,Running Dunk Shot,DUNKS,0.0,2025
+Hunter Tyson,1641816,Standard Layup,2PT Field Goal,1,1,Running Layup Shot,LAYUPS,1.0,2025
+Hunter Tyson,1641816,Step Back Jump Shot,3PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2025

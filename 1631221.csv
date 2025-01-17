@@ -1,16 +1,16 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Collin Gillespie,1631221,Standard Layup,2PT Field Goal,2,1,LAYUPS,0.5,2024
-Collin Gillespie,1631221,Floating Jump Shot,2PT Field Goal,2,1,FLOATING_SHOTS,0.5,2024
-Collin Gillespie,1631221,Floating Jump Shot,2PT Field Goal,3,2,FLOATING_SHOTS,0.6666666666666666,2024
-Collin Gillespie,1631221,Driving Layup,2PT Field Goal,2,1,LAYUPS,0.5,2024
-Collin Gillespie,1631221,Driving Layup,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Collin Gillespie,1631221,Jump Shot,3PT Field Goal,10,5,JUMP_SHOTS,0.75,2024
-Collin Gillespie,1631221,Pullup Jump Shot,2PT Field Goal,7,2,JUMP_SHOTS,0.2857142857142857,2024
-Collin Gillespie,1631221,Pullup Jump Shot,3PT Field Goal,6,2,JUMP_SHOTS,0.5,2024
-Collin Gillespie,1631221,Standard Dunk,2PT Field Goal,1,1,DUNKS,1.0,2024
-Collin Gillespie,1631221,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2024
-Collin Gillespie,1631221,Running Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2024
-Collin Gillespie,1631221,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2024
-Collin Gillespie,1631221,Step Back Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2024
-Collin Gillespie,1631221,Fadeaway Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2025
-Collin Gillespie,1631221,Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2025
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Collin Gillespie,1631221,Standard Layup,2PT Field Goal,2,1,Cutting Layup Shot,LAYUPS,0.5,2024
+Collin Gillespie,1631221,Floating Jump Shot,2PT Field Goal,2,1,Driving Floating Bank Jump Shot,FLOATING_SHOTS,0.5,2024
+Collin Gillespie,1631221,Floating Jump Shot,2PT Field Goal,3,2,Driving Floating Jump Shot,FLOATING_SHOTS,0.6666666666666666,2024
+Collin Gillespie,1631221,Driving Layup,2PT Field Goal,2,1,Driving Layup Shot,LAYUPS,0.5,2024
+Collin Gillespie,1631221,Driving Layup,2PT Field Goal,1,1,Driving Reverse Layup Shot,LAYUPS,1.0,2024
+Collin Gillespie,1631221,Jump Shot,3PT Field Goal,10,5,Jump Shot,JUMP_SHOTS,0.75,2024
+Collin Gillespie,1631221,Pullup Jump Shot,2PT Field Goal,7,2,Pullup Jump shot,JUMP_SHOTS,0.2857142857142857,2024
+Collin Gillespie,1631221,Pullup Jump Shot,3PT Field Goal,6,2,Pullup Jump shot,JUMP_SHOTS,0.5,2024
+Collin Gillespie,1631221,Standard Dunk,2PT Field Goal,1,1,Running Dunk Shot,DUNKS,1.0,2024
+Collin Gillespie,1631221,Finger Roll,2PT Field Goal,1,1,Running Finger Roll Layup Shot,LAYUPS,1.0,2024
+Collin Gillespie,1631221,Running Jump Shot,3PT Field Goal,1,1,Running Jump Shot,JUMP_SHOTS,1.5,2024
+Collin Gillespie,1631221,Standard Layup,2PT Field Goal,1,0,Running Layup Shot,LAYUPS,0.0,2024
+Collin Gillespie,1631221,Step Back Jump Shot,3PT Field Goal,2,1,Step Back Jump shot,JUMP_SHOTS,0.75,2024
+Collin Gillespie,1631221,Fadeaway Jump Shot,2PT Field Goal,1,0,Fadeaway Jump Shot,JUMP_SHOTS,0.0,2025
+Collin Gillespie,1631221,Jump Shot,3PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.5,2025

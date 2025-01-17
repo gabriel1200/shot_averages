@@ -1,14 +1,14 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Jalen McDaniels,1629667,Finger Roll,2PT Field Goal,1,1,LAYUPS,1.0,2023
-Jalen McDaniels,1629667,Driving Layup,2PT Field Goal,6,2,LAYUPS,0.3333333333333333,2023
-Jalen McDaniels,1629667,Fadeaway Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2023
-Jalen McDaniels,1629667,Floating Jump Shot,2PT Field Goal,1,1,FLOATING_SHOTS,1.0,2023
-Jalen McDaniels,1629667,Floating Jump Shot,3PT Field Goal,1,1,FLOATING_SHOTS,1.5,2023
-Jalen McDaniels,1629667,Jump Shot,3PT Field Goal,6,5,JUMP_SHOTS,1.25,2023
-Jalen McDaniels,1629667,Pullup Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2023
-Jalen McDaniels,1629667,Putback Layup,2PT Field Goal,1,0,LAYUPS,0.0,2023
-Jalen McDaniels,1629667,Running Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2023
-Jalen McDaniels,1629667,Standard Layup,2PT Field Goal,3,1,LAYUPS,0.3333333333333333,2023
-Jalen McDaniels,1629667,Step Back Jump Shot,2PT Field Goal,1,1,JUMP_SHOTS,1.0,2023
-Jalen McDaniels,1629667,Turnaround Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2023
-Jalen McDaniels,1629667,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2023
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Jalen McDaniels,1629667,Finger Roll,2PT Field Goal,1,1,Cutting Finger Roll Layup Shot,LAYUPS,1.0,2023
+Jalen McDaniels,1629667,Driving Layup,2PT Field Goal,6,2,Driving Layup Shot,LAYUPS,0.3333333333333333,2023
+Jalen McDaniels,1629667,Fadeaway Jump Shot,2PT Field Goal,1,1,Fadeaway Jump Shot,JUMP_SHOTS,1.0,2023
+Jalen McDaniels,1629667,Floating Jump Shot,2PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.0,2023
+Jalen McDaniels,1629667,Floating Jump Shot,3PT Field Goal,1,1,Floating Jump shot,FLOATING_SHOTS,1.5,2023
+Jalen McDaniels,1629667,Jump Shot,3PT Field Goal,6,5,Jump Shot,JUMP_SHOTS,1.25,2023
+Jalen McDaniels,1629667,Pullup Jump Shot,2PT Field Goal,1,0,Pullup Jump shot,JUMP_SHOTS,0.0,2023
+Jalen McDaniels,1629667,Putback Layup,2PT Field Goal,1,0,Putback Layup Shot,LAYUPS,0.0,2023
+Jalen McDaniels,1629667,Running Jump Shot,3PT Field Goal,1,0,Running Jump Shot,JUMP_SHOTS,0.0,2023
+Jalen McDaniels,1629667,Standard Layup,2PT Field Goal,3,1,Running Layup Shot,LAYUPS,0.3333333333333333,2023
+Jalen McDaniels,1629667,Step Back Jump Shot,2PT Field Goal,1,1,Step Back Jump shot,JUMP_SHOTS,1.0,2023
+Jalen McDaniels,1629667,Turnaround Jump Shot,2PT Field Goal,2,1,Turnaround Fadeaway shot,JUMP_SHOTS,0.5,2023
+Jalen McDaniels,1629667,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Jump Shot,JUMP_SHOTS,0.0,2023

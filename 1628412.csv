@@ -1,12 +1,12 @@
-PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,shot_group,efg%,year
-Frank Mason III,1628412,Jump Shot,2PT Field Goal,2,1,JUMP_SHOTS,0.5,2018
-Frank Mason III,1628412,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2018
-Frank Mason III,1628412,Jump Shot,3PT Field Goal,2,1,JUMP_SHOTS,0.75,2020
-Frank Mason III,1628412,Pullup Jump Shot,2PT Field Goal,2,2,JUMP_SHOTS,1.0,2020
-Frank Mason III,1628412,Pullup Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2020
-Frank Mason III,1628412,Driving Layup,2PT Field Goal,7,2,LAYUPS,0.2857142857142857,2021
-Frank Mason III,1628412,Jump Shot,3PT Field Goal,1,1,JUMP_SHOTS,1.5,2021
-Frank Mason III,1628412,Standard Layup,2PT Field Goal,1,0,LAYUPS,0.0,2021
-Frank Mason III,1628412,Standard Layup,2PT Field Goal,2,2,LAYUPS,1.0,2021
-Frank Mason III,1628412,Step Back Jump Shot,3PT Field Goal,1,0,JUMP_SHOTS,0.0,2021
-Frank Mason III,1628412,Turnaround Jump Shot,2PT Field Goal,1,0,JUMP_SHOTS,0.0,2021
+PLAYER_NAME,PLAYER_ID,shot_description,shot_type,shot_count,shot_makes,old_description,shot_group,efg%,year
+Frank Mason III,1628412,Jump Shot,2PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.5,2018
+Frank Mason III,1628412,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2018
+Frank Mason III,1628412,Jump Shot,3PT Field Goal,2,1,Jump Shot,JUMP_SHOTS,0.75,2020
+Frank Mason III,1628412,Pullup Jump Shot,2PT Field Goal,2,2,Pullup Jump shot,JUMP_SHOTS,1.0,2020
+Frank Mason III,1628412,Pullup Jump Shot,3PT Field Goal,1,1,Pullup Jump shot,JUMP_SHOTS,1.5,2020
+Frank Mason III,1628412,Driving Layup,2PT Field Goal,7,2,Driving Layup Shot,LAYUPS,0.2857142857142857,2021
+Frank Mason III,1628412,Jump Shot,3PT Field Goal,1,1,Jump Shot,JUMP_SHOTS,1.5,2021
+Frank Mason III,1628412,Standard Layup,2PT Field Goal,1,0,Layup Shot,LAYUPS,0.0,2021
+Frank Mason III,1628412,Standard Layup,2PT Field Goal,2,2,Running Layup Shot,LAYUPS,1.0,2021
+Frank Mason III,1628412,Step Back Jump Shot,3PT Field Goal,1,0,Step Back Jump shot,JUMP_SHOTS,0.0,2021
+Frank Mason III,1628412,Turnaround Jump Shot,2PT Field Goal,1,0,Turnaround Fadeaway shot,JUMP_SHOTS,0.0,2021
