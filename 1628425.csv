@@ -1,13 +1,13 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
 Sterling Brown,1628425,2PT Fadeaway Jump Shot,3,2,TWO_POINT_JUMPERS,2018
 Sterling Brown,1628425,2PT Floating Jump Shot,12,3,FLOATING_SHOTS,2018
-Sterling Brown,1628425,2PT Jump Shot,61,26,TWO_POINT_JUMPERS,2018
-Sterling Brown,1628425,2PT Pullup Jump Shot,12,4,TWO_POINT_JUMPERS,2018
-Sterling Brown,1628425,2PT Running Jump Shot,2,2,TWO_POINT_JUMPERS,2018
-Sterling Brown,1628425,2PT Step Back Jump Shot,1,1,TWO_POINT_JUMPERS,2018
+Sterling Brown,1628425,2PT Jump Shot,17,10,TWO_POINT_JUMPERS,2018
+Sterling Brown,1628425,2PT Pullup Jump Shot,11,3,TWO_POINT_JUMPERS,2018
 Sterling Brown,1628425,2PT Turnaround Jump Shot,1,1,TWO_POINT_JUMPERS,2018
-Sterling Brown,1628425,3PT Jump Shot,42,12,THREE_POINT_JUMPERS,2018
-Sterling Brown,1628425,3PT Running Jump Shot,1,0,THREE_POINT_JUMPERS,2018
+Sterling Brown,1628425,3PT Jump Shot,86,28,THREE_POINT_JUMPERS,2018
+Sterling Brown,1628425,3PT Pullup Jump Shot,1,1,THREE_POINT_JUMPERS,2018
+Sterling Brown,1628425,3PT Running Jump Shot,3,2,THREE_POINT_JUMPERS,2018
+Sterling Brown,1628425,3PT Step Back Jump Shot,1,1,THREE_POINT_JUMPERS,2018
 Sterling Brown,1628425,Alley Oop Dunk,1,1,DUNKS,2018
 Sterling Brown,1628425,Alley Oop Layup,1,0,LAYUPS,2018
 Sterling Brown,1628425,Driving Dunk,2,1,DUNKS,2018
@@ -22,12 +22,15 @@ Sterling Brown,1628425,Standard Layup,19,9,LAYUPS,2018
 Sterling Brown,1628425,Turnaround Hook Shot,1,0,POST_MOVES,2018
 Sterling Brown,1628425,2PT Fadeaway Jump Shot,2,2,TWO_POINT_JUMPERS,2019
 Sterling Brown,1628425,2PT Floating Jump Shot,7,2,FLOATING_SHOTS,2019
-Sterling Brown,1628425,2PT Jump Shot,113,41,TWO_POINT_JUMPERS,2019
-Sterling Brown,1628425,2PT Pullup Jump Shot,19,5,TWO_POINT_JUMPERS,2019
-Sterling Brown,1628425,2PT Running Jump Shot,3,2,TWO_POINT_JUMPERS,2019
-Sterling Brown,1628425,2PT Step Back Jump Shot,2,2,TWO_POINT_JUMPERS,2019
+Sterling Brown,1628425,2PT Jump Shot,5,1,TWO_POINT_JUMPERS,2019
+Sterling Brown,1628425,2PT Pullup Jump Shot,10,3,TWO_POINT_JUMPERS,2019
+Sterling Brown,1628425,2PT Running Jump Shot,1,1,TWO_POINT_JUMPERS,2019
+Sterling Brown,1628425,2PT Step Back Jump Shot,1,1,TWO_POINT_JUMPERS,2019
 Sterling Brown,1628425,2PT Turnaround Jump Shot,2,1,TWO_POINT_JUMPERS,2019
-Sterling Brown,1628425,3PT Jump Shot,26,9,THREE_POINT_JUMPERS,2019
+Sterling Brown,1628425,3PT Jump Shot,134,49,THREE_POINT_JUMPERS,2019
+Sterling Brown,1628425,3PT Pullup Jump Shot,9,2,THREE_POINT_JUMPERS,2019
+Sterling Brown,1628425,3PT Running Jump Shot,2,1,THREE_POINT_JUMPERS,2019
+Sterling Brown,1628425,3PT Step Back Jump Shot,1,1,THREE_POINT_JUMPERS,2019
 Sterling Brown,1628425,Alley Oop Dunk,1,1,DUNKS,2019
 Sterling Brown,1628425,Driving Dunk,4,3,DUNKS,2019
 Sterling Brown,1628425,Driving Layup,56,30,LAYUPS,2019
@@ -43,14 +46,15 @@ Sterling Brown,1628425,Standard Layup,45,23,LAYUPS,2019
 Sterling Brown,1628425,Turnaround Hook Shot,1,1,POST_MOVES,2019
 Sterling Brown,1628425,2PT Fadeaway Jump Shot,1,1,TWO_POINT_JUMPERS,2020
 Sterling Brown,1628425,2PT Floating Jump Shot,13,4,FLOATING_SHOTS,2020
-Sterling Brown,1628425,2PT Jump Shot,98,31,TWO_POINT_JUMPERS,2020
-Sterling Brown,1628425,2PT Pullup Jump Shot,32,10,TWO_POINT_JUMPERS,2020
-Sterling Brown,1628425,2PT Running Jump Shot,2,1,TWO_POINT_JUMPERS,2020
-Sterling Brown,1628425,2PT Step Back Jump Shot,7,3,TWO_POINT_JUMPERS,2020
+Sterling Brown,1628425,2PT Jump Shot,7,2,TWO_POINT_JUMPERS,2020
+Sterling Brown,1628425,2PT Pullup Jump Shot,14,6,TWO_POINT_JUMPERS,2020
+Sterling Brown,1628425,2PT Step Back Jump Shot,2,0,TWO_POINT_JUMPERS,2020
 Sterling Brown,1628425,2PT Turnaround Jump Shot,2,1,TWO_POINT_JUMPERS,2020
 Sterling Brown,1628425,3PT Floating Jump Shot,1,0,FLOATING_SHOTS,2020
-Sterling Brown,1628425,3PT Jump Shot,18,7,THREE_POINT_JUMPERS,2020
-Sterling Brown,1628425,3PT Step Back Jump Shot,1,0,THREE_POINT_JUMPERS,2020
+Sterling Brown,1628425,3PT Jump Shot,109,36,THREE_POINT_JUMPERS,2020
+Sterling Brown,1628425,3PT Pullup Jump Shot,18,4,THREE_POINT_JUMPERS,2020
+Sterling Brown,1628425,3PT Running Jump Shot,2,1,THREE_POINT_JUMPERS,2020
+Sterling Brown,1628425,3PT Step Back Jump Shot,6,3,THREE_POINT_JUMPERS,2020
 Sterling Brown,1628425,Driving Dunk,2,1,DUNKS,2020
 Sterling Brown,1628425,Driving Layup,38,11,LAYUPS,2020
 Sterling Brown,1628425,Finger Roll,4,3,LAYUPS,2020
@@ -60,15 +64,14 @@ Sterling Brown,1628425,Specialty Dunk,1,1,DUNKS,2020
 Sterling Brown,1628425,Standard Dunk,3,3,DUNKS,2020
 Sterling Brown,1628425,Standard Layup,20,7,LAYUPS,2020
 Sterling Brown,1628425,2PT Floating Jump Shot,11,4,FLOATING_SHOTS,2021
-Sterling Brown,1628425,2PT Jump Shot,146,62,TWO_POINT_JUMPERS,2021
-Sterling Brown,1628425,2PT Pullup Jump Shot,15,7,TWO_POINT_JUMPERS,2021
-Sterling Brown,1628425,2PT Running Jump Shot,7,3,TWO_POINT_JUMPERS,2021
-Sterling Brown,1628425,2PT Step Back Jump Shot,8,2,TWO_POINT_JUMPERS,2021
+Sterling Brown,1628425,2PT Jump Shot,5,0,TWO_POINT_JUMPERS,2021
+Sterling Brown,1628425,2PT Pullup Jump Shot,6,2,TWO_POINT_JUMPERS,2021
+Sterling Brown,1628425,2PT Step Back Jump Shot,2,0,TWO_POINT_JUMPERS,2021
 Sterling Brown,1628425,2PT Turnaround Jump Shot,3,1,TWO_POINT_JUMPERS,2021
-Sterling Brown,1628425,3PT Jump Shot,47,17,THREE_POINT_JUMPERS,2021
-Sterling Brown,1628425,3PT Pullup Jump Shot,1,1,THREE_POINT_JUMPERS,2021
-Sterling Brown,1628425,3PT Running Jump Shot,2,0,THREE_POINT_JUMPERS,2021
-Sterling Brown,1628425,3PT Step Back Jump Shot,2,1,THREE_POINT_JUMPERS,2021
+Sterling Brown,1628425,3PT Jump Shot,188,79,THREE_POINT_JUMPERS,2021
+Sterling Brown,1628425,3PT Pullup Jump Shot,10,6,THREE_POINT_JUMPERS,2021
+Sterling Brown,1628425,3PT Running Jump Shot,9,3,THREE_POINT_JUMPERS,2021
+Sterling Brown,1628425,3PT Step Back Jump Shot,8,3,THREE_POINT_JUMPERS,2021
 Sterling Brown,1628425,Alley Oop Dunk,2,2,DUNKS,2021
 Sterling Brown,1628425,Alley Oop Layup,2,1,LAYUPS,2021
 Sterling Brown,1628425,Driving Dunk,1,1,DUNKS,2021
@@ -83,14 +86,15 @@ Sterling Brown,1628425,Standard Layup,17,8,LAYUPS,2021
 Sterling Brown,1628425,Turnaround Hook Shot,2,2,POST_MOVES,2021
 Sterling Brown,1628425,2PT Fadeaway Jump Shot,1,0,TWO_POINT_JUMPERS,2022
 Sterling Brown,1628425,2PT Floating Jump Shot,9,3,FLOATING_SHOTS,2022
-Sterling Brown,1628425,2PT Jump Shot,59,18,TWO_POINT_JUMPERS,2022
-Sterling Brown,1628425,2PT Pullup Jump Shot,11,6,TWO_POINT_JUMPERS,2022
-Sterling Brown,1628425,2PT Running Jump Shot,3,2,TWO_POINT_JUMPERS,2022
-Sterling Brown,1628425,2PT Step Back Jump Shot,2,1,TWO_POINT_JUMPERS,2022
+Sterling Brown,1628425,2PT Jump Shot,1,0,TWO_POINT_JUMPERS,2022
+Sterling Brown,1628425,2PT Pullup Jump Shot,8,4,TWO_POINT_JUMPERS,2022
+Sterling Brown,1628425,2PT Running Jump Shot,1,0,TWO_POINT_JUMPERS,2022
+Sterling Brown,1628425,2PT Step Back Jump Shot,1,1,TWO_POINT_JUMPERS,2022
 Sterling Brown,1628425,2PT Turnaround Jump Shot,1,0,TWO_POINT_JUMPERS,2022
-Sterling Brown,1628425,3PT Jump Shot,25,6,THREE_POINT_JUMPERS,2022
-Sterling Brown,1628425,3PT Pullup Jump Shot,1,0,THREE_POINT_JUMPERS,2022
-Sterling Brown,1628425,3PT Running Jump Shot,1,0,THREE_POINT_JUMPERS,2022
+Sterling Brown,1628425,3PT Jump Shot,83,24,THREE_POINT_JUMPERS,2022
+Sterling Brown,1628425,3PT Pullup Jump Shot,4,2,THREE_POINT_JUMPERS,2022
+Sterling Brown,1628425,3PT Running Jump Shot,3,2,THREE_POINT_JUMPERS,2022
+Sterling Brown,1628425,3PT Step Back Jump Shot,1,0,THREE_POINT_JUMPERS,2022
 Sterling Brown,1628425,Driving Dunk,1,0,DUNKS,2022
 Sterling Brown,1628425,Driving Hook Shot,1,1,POST_MOVES,2022
 Sterling Brown,1628425,Driving Layup,11,6,LAYUPS,2022
@@ -99,7 +103,6 @@ Sterling Brown,1628425,Putback Layup,7,2,LAYUPS,2022
 Sterling Brown,1628425,Reverse Layup,3,3,LAYUPS,2022
 Sterling Brown,1628425,Standard Dunk,1,0,DUNKS,2022
 Sterling Brown,1628425,Standard Layup,14,8,LAYUPS,2022
-Sterling Brown,1628425,2PT Jump Shot,1,0,TWO_POINT_JUMPERS,2023
-Sterling Brown,1628425,3PT Jump Shot,1,0,THREE_POINT_JUMPERS,2023
+Sterling Brown,1628425,3PT Jump Shot,2,0,THREE_POINT_JUMPERS,2023
 Sterling Brown,1628425,Putback Layup,1,0,LAYUPS,2023
 Sterling Brown,1628425,Standard Layup,1,0,LAYUPS,2023
