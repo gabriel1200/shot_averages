@@ -1,223 +1,406 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
-Andre Iguodala,2738,2PT Jump Shot,15,5,TWO_POINT_JUMPERS,2005
-Andre Iguodala,2738,2PT Running Jump Shot,1,1,TWO_POINT_JUMPERS,2005
-Andre Iguodala,2738,3PT Jump Shot,9,3,THREE_POINT_JUMPERS,2005
-Andre Iguodala,2738,Alley Oop Dunk,1,1,DUNKS,2005
-Andre Iguodala,2738,Driving Layup,1,1,LAYUPS,2005
-Andre Iguodala,2738,Specialty Dunk,1,1,DUNKS,2005
-Andre Iguodala,2738,Standard Dunk,4,3,DUNKS,2005
-Andre Iguodala,2738,Standard Layup,10,4,LAYUPS,2005
-Andre Iguodala,2738,Tip Shot,1,1,TIP_SHOTS,2005
-Andre Iguodala,2738,2PT Fadeaway Jump Shot,3,2,TWO_POINT_JUMPERS,2008
-Andre Iguodala,2738,2PT Jump Shot,25,5,TWO_POINT_JUMPERS,2008
-Andre Iguodala,2738,2PT Running Jump Shot,2,1,TWO_POINT_JUMPERS,2008
-Andre Iguodala,2738,2PT Step Back Jump Shot,2,2,TWO_POINT_JUMPERS,2008
-Andre Iguodala,2738,2PT Turnaround Jump Shot,2,1,TWO_POINT_JUMPERS,2008
-Andre Iguodala,2738,3PT Jump Shot,14,2,THREE_POINT_JUMPERS,2008
-Andre Iguodala,2738,Alley Oop Dunk,2,2,DUNKS,2008
-Andre Iguodala,2738,Driving Dunk,1,1,DUNKS,2008
-Andre Iguodala,2738,Driving Layup,3,3,LAYUPS,2008
-Andre Iguodala,2738,Hook Shot,1,0,POST_MOVES,2008
-Andre Iguodala,2738,Standard Dunk,3,2,DUNKS,2008
-Andre Iguodala,2738,Standard Layup,11,2,LAYUPS,2008
-Andre Iguodala,2738,2PT Fadeaway Jump Shot,3,3,TWO_POINT_JUMPERS,2009
-Andre Iguodala,2738,2PT Floating Jump Shot,1,0,FLOATING_SHOTS,2009
-Andre Iguodala,2738,2PT Jump Shot,32,9,TWO_POINT_JUMPERS,2009
-Andre Iguodala,2738,2PT Pullup Jump Shot,1,1,TWO_POINT_JUMPERS,2009
-Andre Iguodala,2738,2PT Step Back Jump Shot,3,3,TWO_POINT_JUMPERS,2009
-Andre Iguodala,2738,3PT Jump Shot,28,11,THREE_POINT_JUMPERS,2009
-Andre Iguodala,2738,Driving Dunk,3,3,DUNKS,2009
-Andre Iguodala,2738,Driving Layup,4,4,LAYUPS,2009
-Andre Iguodala,2738,Finger Roll,1,1,LAYUPS,2009
-Andre Iguodala,2738,Putback Dunk,1,1,DUNKS,2009
-Andre Iguodala,2738,Reverse Dunk,1,1,DUNKS,2009
-Andre Iguodala,2738,Running Hook Shot,1,0,POST_MOVES,2009
-Andre Iguodala,2738,Standard Dunk,5,5,DUNKS,2009
-Andre Iguodala,2738,Standard Layup,14,2,LAYUPS,2009
-Andre Iguodala,2738,2PT Fadeaway Jump Shot,3,2,TWO_POINT_JUMPERS,2011
-Andre Iguodala,2738,2PT Jump Shot,19,6,TWO_POINT_JUMPERS,2011
-Andre Iguodala,2738,2PT Turnaround Jump Shot,1,0,TWO_POINT_JUMPERS,2011
-Andre Iguodala,2738,3PT Jump Shot,14,3,THREE_POINT_JUMPERS,2011
-Andre Iguodala,2738,Alley Oop Dunk,1,1,DUNKS,2011
-Andre Iguodala,2738,Driving Dunk,3,3,DUNKS,2011
-Andre Iguodala,2738,Driving Layup,1,0,LAYUPS,2011
-Andre Iguodala,2738,Finger Roll,1,0,LAYUPS,2011
-Andre Iguodala,2738,Putback Dunk,1,1,DUNKS,2011
+Andre Iguodala,2738,2PT Fadeaway Jump Shot,3,3,TWO_POINT_JUMPERS,2005
+Andre Iguodala,2738,2PT Jump Shot,137,34,TWO_POINT_JUMPERS,2005
+Andre Iguodala,2738,2PT Running Jump Shot,4,2,TWO_POINT_JUMPERS,2005
+Andre Iguodala,2738,2PT Turnaround Jump Shot,6,6,TWO_POINT_JUMPERS,2005
+Andre Iguodala,2738,3PT Jump Shot,142,47,THREE_POINT_JUMPERS,2005
+Andre Iguodala,2738,Alley Oop Dunk,33,33,DUNKS,2005
+Andre Iguodala,2738,Alley Oop Layup,1,1,LAYUPS,2005
+Andre Iguodala,2738,Driving Dunk,12,11,DUNKS,2005
+Andre Iguodala,2738,Driving Layup,16,16,LAYUPS,2005
+Andre Iguodala,2738,Finger Roll,2,1,LAYUPS,2005
+Andre Iguodala,2738,Hook Shot,2,1,POST_MOVES,2005
+Andre Iguodala,2738,Reverse Dunk,13,13,DUNKS,2005
+Andre Iguodala,2738,Reverse Layup,15,10,LAYUPS,2005
+Andre Iguodala,2738,Specialty Dunk,5,4,DUNKS,2005
+Andre Iguodala,2738,Standard Dunk,70,61,DUNKS,2005
+Andre Iguodala,2738,Standard Layup,81,24,LAYUPS,2005
+Andre Iguodala,2738,Tip Shot,4,2,TIP_SHOTS,2005
+Andre Iguodala,2738,2PT Fadeaway Jump Shot,6,5,TWO_POINT_JUMPERS,2006
+Andre Iguodala,2738,2PT Jump Shot,159,44,TWO_POINT_JUMPERS,2006
+Andre Iguodala,2738,2PT Running Jump Shot,4,4,TWO_POINT_JUMPERS,2006
+Andre Iguodala,2738,2PT Turnaround Jump Shot,16,10,TWO_POINT_JUMPERS,2006
+Andre Iguodala,2738,3PT Jump Shot,156,56,THREE_POINT_JUMPERS,2006
+Andre Iguodala,2738,3PT Running Jump Shot,1,0,THREE_POINT_JUMPERS,2006
+Andre Iguodala,2738,Alley Oop Dunk,39,38,DUNKS,2006
+Andre Iguodala,2738,Driving Dunk,18,18,DUNKS,2006
+Andre Iguodala,2738,Driving Layup,25,21,LAYUPS,2006
+Andre Iguodala,2738,Finger Roll,6,5,LAYUPS,2006
+Andre Iguodala,2738,Hook Shot,9,5,POST_MOVES,2006
+Andre Iguodala,2738,Reverse Dunk,7,6,DUNKS,2006
+Andre Iguodala,2738,Reverse Layup,18,13,LAYUPS,2006
+Andre Iguodala,2738,Running Hook Shot,2,2,POST_MOVES,2006
+Andre Iguodala,2738,Specialty Dunk,4,4,DUNKS,2006
+Andre Iguodala,2738,Standard Dunk,74,63,DUNKS,2006
+Andre Iguodala,2738,Standard Layup,135,48,LAYUPS,2006
+Andre Iguodala,2738,Tip Shot,9,2,TIP_SHOTS,2006
+Andre Iguodala,2738,2PT Fadeaway Jump Shot,18,16,TWO_POINT_JUMPERS,2007
+Andre Iguodala,2738,2PT Jump Shot,424,126,TWO_POINT_JUMPERS,2007
+Andre Iguodala,2738,2PT Running Jump Shot,11,6,TWO_POINT_JUMPERS,2007
+Andre Iguodala,2738,2PT Turnaround Jump Shot,15,11,TWO_POINT_JUMPERS,2007
+Andre Iguodala,2738,3PT Jump Shot,155,48,THREE_POINT_JUMPERS,2007
+Andre Iguodala,2738,Alley Oop Dunk,20,20,DUNKS,2007
+Andre Iguodala,2738,Alley Oop Layup,6,6,LAYUPS,2007
+Andre Iguodala,2738,Driving Dunk,20,19,DUNKS,2007
+Andre Iguodala,2738,Driving Layup,39,34,LAYUPS,2007
+Andre Iguodala,2738,Finger Roll,8,6,LAYUPS,2007
+Andre Iguodala,2738,Hook Shot,3,2,POST_MOVES,2007
+Andre Iguodala,2738,Reverse Dunk,7,7,DUNKS,2007
+Andre Iguodala,2738,Reverse Layup,22,18,LAYUPS,2007
+Andre Iguodala,2738,Specialty Dunk,3,3,DUNKS,2007
+Andre Iguodala,2738,Standard Dunk,75,71,DUNKS,2007
+Andre Iguodala,2738,Standard Layup,160,47,LAYUPS,2007
+Andre Iguodala,2738,Tip Shot,5,3,TIP_SHOTS,2007
+Andre Iguodala,2738,2PT Driving Jump Shot,3,2,TWO_POINT_JUMPERS,2008
+Andre Iguodala,2738,2PT Fadeaway Jump Shot,15,11,TWO_POINT_JUMPERS,2008
+Andre Iguodala,2738,2PT Floating Jump Shot,5,5,FLOATING_SHOTS,2008
+Andre Iguodala,2738,2PT Jump Shot,525,176,TWO_POINT_JUMPERS,2008
+Andre Iguodala,2738,2PT Pullup Jump Shot,7,6,TWO_POINT_JUMPERS,2008
+Andre Iguodala,2738,2PT Running Jump Shot,13,7,TWO_POINT_JUMPERS,2008
+Andre Iguodala,2738,2PT Step Back Jump Shot,12,11,TWO_POINT_JUMPERS,2008
+Andre Iguodala,2738,2PT Turnaround Jump Shot,29,14,TWO_POINT_JUMPERS,2008
+Andre Iguodala,2738,3PT Jump Shot,306,101,THREE_POINT_JUMPERS,2008
+Andre Iguodala,2738,3PT Running Jump Shot,1,0,THREE_POINT_JUMPERS,2008
+Andre Iguodala,2738,Alley Oop Dunk,22,21,DUNKS,2008
+Andre Iguodala,2738,Alley Oop Layup,1,1,LAYUPS,2008
+Andre Iguodala,2738,Driving Dunk,25,25,DUNKS,2008
+Andre Iguodala,2738,Driving Hook Shot,1,0,POST_MOVES,2008
+Andre Iguodala,2738,Driving Layup,42,37,LAYUPS,2008
+Andre Iguodala,2738,Finger Roll,15,14,LAYUPS,2008
+Andre Iguodala,2738,Hook Shot,5,3,POST_MOVES,2008
+Andre Iguodala,2738,Putback Dunk,5,5,DUNKS,2008
+Andre Iguodala,2738,Putback Layup,2,2,LAYUPS,2008
+Andre Iguodala,2738,Reverse Dunk,6,5,DUNKS,2008
+Andre Iguodala,2738,Reverse Layup,5,2,LAYUPS,2008
+Andre Iguodala,2738,Standard Dunk,88,85,DUNKS,2008
+Andre Iguodala,2738,Standard Layup,140,45,LAYUPS,2008
+Andre Iguodala,2738,Tip Shot,4,4,TIP_SHOTS,2008
+Andre Iguodala,2738,2PT Fadeaway Jump Shot,20,15,TWO_POINT_JUMPERS,2009
+Andre Iguodala,2738,2PT Floating Jump Shot,3,3,FLOATING_SHOTS,2009
+Andre Iguodala,2738,2PT Jump Shot,392,106,TWO_POINT_JUMPERS,2009
+Andre Iguodala,2738,2PT Pullup Jump Shot,13,11,TWO_POINT_JUMPERS,2009
+Andre Iguodala,2738,2PT Running Jump Shot,13,6,TWO_POINT_JUMPERS,2009
+Andre Iguodala,2738,2PT Step Back Jump Shot,13,10,TWO_POINT_JUMPERS,2009
+Andre Iguodala,2738,2PT Turnaround Jump Shot,17,12,TWO_POINT_JUMPERS,2009
+Andre Iguodala,2738,3PT Jump Shot,257,77,THREE_POINT_JUMPERS,2009
+Andre Iguodala,2738,3PT Pullup Jump Shot,3,2,THREE_POINT_JUMPERS,2009
+Andre Iguodala,2738,3PT Running Jump Shot,1,0,THREE_POINT_JUMPERS,2009
+Andre Iguodala,2738,3PT Step Back Jump Shot,1,1,THREE_POINT_JUMPERS,2009
+Andre Iguodala,2738,Alley Oop Dunk,25,25,DUNKS,2009
+Andre Iguodala,2738,Alley Oop Layup,4,4,LAYUPS,2009
+Andre Iguodala,2738,Driving Dunk,26,26,DUNKS,2009
+Andre Iguodala,2738,Driving Layup,65,51,LAYUPS,2009
+Andre Iguodala,2738,Finger Roll,17,15,LAYUPS,2009
+Andre Iguodala,2738,Hook Shot,4,1,POST_MOVES,2009
+Andre Iguodala,2738,Putback Dunk,4,4,DUNKS,2009
+Andre Iguodala,2738,Putback Layup,5,5,LAYUPS,2009
+Andre Iguodala,2738,Reverse Dunk,7,7,DUNKS,2009
+Andre Iguodala,2738,Reverse Layup,12,9,LAYUPS,2009
+Andre Iguodala,2738,Running Hook Shot,3,3,POST_MOVES,2009
+Andre Iguodala,2738,Standard Dunk,95,91,DUNKS,2009
+Andre Iguodala,2738,Standard Layup,143,55,LAYUPS,2009
+Andre Iguodala,2738,Tip Shot,3,2,TIP_SHOTS,2009
+Andre Iguodala,2738,Turnaround Hook Shot,1,1,POST_MOVES,2009
+Andre Iguodala,2738,2PT Fadeaway Jump Shot,19,12,TWO_POINT_JUMPERS,2010
+Andre Iguodala,2738,2PT Floating Jump Shot,3,3,FLOATING_SHOTS,2010
+Andre Iguodala,2738,2PT Jump Shot,378,93,TWO_POINT_JUMPERS,2010
+Andre Iguodala,2738,2PT Pullup Jump Shot,33,30,TWO_POINT_JUMPERS,2010
+Andre Iguodala,2738,2PT Running Jump Shot,7,5,TWO_POINT_JUMPERS,2010
+Andre Iguodala,2738,2PT Step Back Jump Shot,25,24,TWO_POINT_JUMPERS,2010
+Andre Iguodala,2738,2PT Turnaround Jump Shot,32,20,TWO_POINT_JUMPERS,2010
+Andre Iguodala,2738,3PT Jump Shot,297,91,THREE_POINT_JUMPERS,2010
+Andre Iguodala,2738,3PT Pullup Jump Shot,4,2,THREE_POINT_JUMPERS,2010
+Andre Iguodala,2738,3PT Step Back Jump Shot,2,1,THREE_POINT_JUMPERS,2010
+Andre Iguodala,2738,Alley Oop Dunk,16,16,DUNKS,2010
+Andre Iguodala,2738,Alley Oop Layup,2,1,LAYUPS,2010
+Andre Iguodala,2738,Driving Dunk,21,20,DUNKS,2010
+Andre Iguodala,2738,Driving Layup,29,25,LAYUPS,2010
+Andre Iguodala,2738,Finger Roll,13,12,LAYUPS,2010
+Andre Iguodala,2738,Hook Shot,9,3,POST_MOVES,2010
+Andre Iguodala,2738,Putback Dunk,4,4,DUNKS,2010
+Andre Iguodala,2738,Putback Layup,3,3,LAYUPS,2010
+Andre Iguodala,2738,Reverse Dunk,6,6,DUNKS,2010
+Andre Iguodala,2738,Reverse Layup,13,10,LAYUPS,2010
+Andre Iguodala,2738,Running Hook Shot,1,0,POST_MOVES,2010
+Andre Iguodala,2738,Standard Dunk,78,76,DUNKS,2010
+Andre Iguodala,2738,Standard Layup,117,36,LAYUPS,2010
+Andre Iguodala,2738,Tip Shot,7,2,TIP_SHOTS,2010
+Andre Iguodala,2738,Turnaround Hook Shot,1,1,POST_MOVES,2010
+Andre Iguodala,2738,2PT Driving Jump Shot,4,1,TWO_POINT_JUMPERS,2011
+Andre Iguodala,2738,2PT Fadeaway Jump Shot,30,18,TWO_POINT_JUMPERS,2011
+Andre Iguodala,2738,2PT Floating Jump Shot,1,0,FLOATING_SHOTS,2011
+Andre Iguodala,2738,2PT Jump Shot,268,51,TWO_POINT_JUMPERS,2011
+Andre Iguodala,2738,2PT Pullup Jump Shot,34,28,TWO_POINT_JUMPERS,2011
+Andre Iguodala,2738,2PT Running Jump Shot,4,3,TWO_POINT_JUMPERS,2011
+Andre Iguodala,2738,2PT Step Back Jump Shot,19,17,TWO_POINT_JUMPERS,2011
+Andre Iguodala,2738,2PT Turnaround Jump Shot,16,10,TWO_POINT_JUMPERS,2011
+Andre Iguodala,2738,3PT Jump Shot,175,55,THREE_POINT_JUMPERS,2011
+Andre Iguodala,2738,3PT Pullup Jump Shot,6,6,THREE_POINT_JUMPERS,2011
+Andre Iguodala,2738,Alley Oop Dunk,8,8,DUNKS,2011
+Andre Iguodala,2738,Alley Oop Layup,1,1,LAYUPS,2011
+Andre Iguodala,2738,Driving Dunk,29,29,DUNKS,2011
+Andre Iguodala,2738,Driving Layup,26,18,LAYUPS,2011
+Andre Iguodala,2738,Finger Roll,11,11,LAYUPS,2011
+Andre Iguodala,2738,Hook Shot,1,0,POST_MOVES,2011
+Andre Iguodala,2738,Putback Dunk,9,9,DUNKS,2011
+Andre Iguodala,2738,Reverse Dunk,4,4,DUNKS,2011
 Andre Iguodala,2738,Reverse Layup,1,1,LAYUPS,2011
-Andre Iguodala,2738,Standard Dunk,4,4,DUNKS,2011
-Andre Iguodala,2738,Standard Layup,1,0,LAYUPS,2011
-Andre Iguodala,2738,Tip Shot,2,1,TIP_SHOTS,2011
-Andre Iguodala,2738,2PT Fadeaway Jump Shot,5,1,TWO_POINT_JUMPERS,2012
-Andre Iguodala,2738,2PT Jump Shot,41,4,TWO_POINT_JUMPERS,2012
-Andre Iguodala,2738,2PT Pullup Jump Shot,5,4,TWO_POINT_JUMPERS,2012
-Andre Iguodala,2738,2PT Running Jump Shot,1,0,TWO_POINT_JUMPERS,2012
-Andre Iguodala,2738,2PT Step Back Jump Shot,7,6,TWO_POINT_JUMPERS,2012
-Andre Iguodala,2738,2PT Turnaround Jump Shot,5,1,TWO_POINT_JUMPERS,2012
-Andre Iguodala,2738,3PT Fadeaway Jump Shot,1,0,THREE_POINT_JUMPERS,2012
-Andre Iguodala,2738,3PT Jump Shot,47,18,THREE_POINT_JUMPERS,2012
-Andre Iguodala,2738,3PT Pullup Jump Shot,1,1,THREE_POINT_JUMPERS,2012
-Andre Iguodala,2738,Alley Oop Dunk,2,2,DUNKS,2012
-Andre Iguodala,2738,Driving Dunk,4,4,DUNKS,2012
-Andre Iguodala,2738,Driving Layup,3,1,LAYUPS,2012
-Andre Iguodala,2738,Putback Dunk,1,1,DUNKS,2012
-Andre Iguodala,2738,Putback Layup,1,1,LAYUPS,2012
-Andre Iguodala,2738,Reverse Layup,3,1,LAYUPS,2012
-Andre Iguodala,2738,Standard Dunk,14,12,DUNKS,2012
-Andre Iguodala,2738,Standard Layup,10,1,LAYUPS,2012
-Andre Iguodala,2738,2PT Driving Jump Shot,1,0,TWO_POINT_JUMPERS,2013
-Andre Iguodala,2738,2PT Fadeaway Jump Shot,2,0,TWO_POINT_JUMPERS,2013
-Andre Iguodala,2738,2PT Jump Shot,11,2,TWO_POINT_JUMPERS,2013
-Andre Iguodala,2738,2PT Pullup Jump Shot,5,4,TWO_POINT_JUMPERS,2013
-Andre Iguodala,2738,2PT Running Jump Shot,1,0,TWO_POINT_JUMPERS,2013
-Andre Iguodala,2738,2PT Turnaround Jump Shot,2,1,TWO_POINT_JUMPERS,2013
-Andre Iguodala,2738,3PT Jump Shot,19,6,THREE_POINT_JUMPERS,2013
-Andre Iguodala,2738,3PT Pullup Jump Shot,9,7,THREE_POINT_JUMPERS,2013
+Andre Iguodala,2738,Standard Dunk,56,52,DUNKS,2011
+Andre Iguodala,2738,Standard Layup,53,15,LAYUPS,2011
+Andre Iguodala,2738,Tip Shot,3,1,TIP_SHOTS,2011
+Andre Iguodala,2738,2PT Driving Jump Shot,2,1,TWO_POINT_JUMPERS,2012
+Andre Iguodala,2738,2PT Fadeaway Jump Shot,13,11,TWO_POINT_JUMPERS,2012
+Andre Iguodala,2738,2PT Floating Jump Shot,2,2,FLOATING_SHOTS,2012
+Andre Iguodala,2738,2PT Jump Shot,211,44,TWO_POINT_JUMPERS,2012
+Andre Iguodala,2738,2PT Pullup Jump Shot,17,13,TWO_POINT_JUMPERS,2012
+Andre Iguodala,2738,2PT Running Jump Shot,7,3,TWO_POINT_JUMPERS,2012
+Andre Iguodala,2738,2PT Step Back Jump Shot,16,12,TWO_POINT_JUMPERS,2012
+Andre Iguodala,2738,2PT Turnaround Jump Shot,18,11,TWO_POINT_JUMPERS,2012
+Andre Iguodala,2738,3PT Jump Shot,183,67,THREE_POINT_JUMPERS,2012
+Andre Iguodala,2738,3PT Pullup Jump Shot,9,8,THREE_POINT_JUMPERS,2012
+Andre Iguodala,2738,3PT Step Back Jump Shot,1,1,THREE_POINT_JUMPERS,2012
+Andre Iguodala,2738,Alley Oop Dunk,10,10,DUNKS,2012
+Andre Iguodala,2738,Driving Dunk,17,17,DUNKS,2012
+Andre Iguodala,2738,Driving Hook Shot,1,1,POST_MOVES,2012
+Andre Iguodala,2738,Driving Layup,19,11,LAYUPS,2012
+Andre Iguodala,2738,Finger Roll,8,8,LAYUPS,2012
+Andre Iguodala,2738,Putback Dunk,6,6,DUNKS,2012
+Andre Iguodala,2738,Reverse Dunk,2,2,DUNKS,2012
+Andre Iguodala,2738,Reverse Layup,3,2,LAYUPS,2012
+Andre Iguodala,2738,Standard Dunk,35,35,DUNKS,2012
+Andre Iguodala,2738,Standard Layup,45,18,LAYUPS,2012
+Andre Iguodala,2738,Tip Shot,5,3,TIP_SHOTS,2012
+Andre Iguodala,2738,Turnaround Hook Shot,2,1,POST_MOVES,2012
+Andre Iguodala,2738,2PT Driving Jump Shot,1,1,TWO_POINT_JUMPERS,2013
+Andre Iguodala,2738,2PT Fadeaway Jump Shot,31,14,TWO_POINT_JUMPERS,2013
+Andre Iguodala,2738,2PT Floating Jump Shot,4,2,FLOATING_SHOTS,2013
+Andre Iguodala,2738,2PT Jump Shot,191,48,TWO_POINT_JUMPERS,2013
+Andre Iguodala,2738,2PT Pullup Jump Shot,15,7,TWO_POINT_JUMPERS,2013
+Andre Iguodala,2738,2PT Running Jump Shot,15,4,TWO_POINT_JUMPERS,2013
+Andre Iguodala,2738,2PT Step Back Jump Shot,7,3,TWO_POINT_JUMPERS,2013
+Andre Iguodala,2738,2PT Turnaround Jump Shot,41,14,TWO_POINT_JUMPERS,2013
+Andre Iguodala,2738,3PT Fadeaway Jump Shot,1,0,THREE_POINT_JUMPERS,2013
+Andre Iguodala,2738,3PT Jump Shot,277,87,THREE_POINT_JUMPERS,2013
+Andre Iguodala,2738,3PT Pullup Jump Shot,6,3,THREE_POINT_JUMPERS,2013
+Andre Iguodala,2738,3PT Running Jump Shot,1,0,THREE_POINT_JUMPERS,2013
 Andre Iguodala,2738,3PT Step Back Jump Shot,1,1,THREE_POINT_JUMPERS,2013
-Andre Iguodala,2738,Alley Oop Dunk,1,1,DUNKS,2013
-Andre Iguodala,2738,Driving Dunk,5,5,DUNKS,2013
-Andre Iguodala,2738,Driving Layup,2,1,LAYUPS,2013
-Andre Iguodala,2738,Hook Shot,1,1,POST_MOVES,2013
-Andre Iguodala,2738,Putback Dunk,2,1,DUNKS,2013
+Andre Iguodala,2738,3PT Turnaround Jump Shot,1,0,THREE_POINT_JUMPERS,2013
+Andre Iguodala,2738,Alley Oop Dunk,30,28,DUNKS,2013
+Andre Iguodala,2738,Alley Oop Layup,2,2,LAYUPS,2013
+Andre Iguodala,2738,Driving Dunk,25,24,DUNKS,2013
+Andre Iguodala,2738,Driving Layup,47,23,LAYUPS,2013
+Andre Iguodala,2738,Finger Roll,12,10,LAYUPS,2013
+Andre Iguodala,2738,Hook Shot,2,1,POST_MOVES,2013
+Andre Iguodala,2738,Putback Dunk,6,5,DUNKS,2013
 Andre Iguodala,2738,Putback Layup,1,1,LAYUPS,2013
-Andre Iguodala,2738,Reverse Dunk,1,1,DUNKS,2013
-Andre Iguodala,2738,Reverse Layup,1,1,LAYUPS,2013
-Andre Iguodala,2738,Running Hook Shot,1,1,POST_MOVES,2013
-Andre Iguodala,2738,Standard Dunk,2,2,DUNKS,2013
-Andre Iguodala,2738,Standard Layup,4,2,LAYUPS,2013
-Andre Iguodala,2738,Tip Shot,2,0,TIP_SHOTS,2013
-Andre Iguodala,2738,Turnaround Hook Shot,2,0,POST_MOVES,2013
-Andre Iguodala,2738,2PT Floating Jump Shot,1,0,FLOATING_SHOTS,2014
-Andre Iguodala,2738,2PT Jump Shot,15,2,TWO_POINT_JUMPERS,2014
-Andre Iguodala,2738,2PT Pullup Jump Shot,2,2,TWO_POINT_JUMPERS,2014
-Andre Iguodala,2738,2PT Running Jump Shot,1,0,TWO_POINT_JUMPERS,2014
-Andre Iguodala,2738,2PT Step Back Jump Shot,1,0,TWO_POINT_JUMPERS,2014
-Andre Iguodala,2738,2PT Turnaround Jump Shot,4,2,TWO_POINT_JUMPERS,2014
-Andre Iguodala,2738,3PT Jump Shot,10,5,THREE_POINT_JUMPERS,2014
-Andre Iguodala,2738,3PT Pullup Jump Shot,4,3,THREE_POINT_JUMPERS,2014
-Andre Iguodala,2738,3PT Step Back Jump Shot,1,0,THREE_POINT_JUMPERS,2014
-Andre Iguodala,2738,Alley Oop Dunk,1,1,DUNKS,2014
-Andre Iguodala,2738,Driving Dunk,7,7,DUNKS,2014
-Andre Iguodala,2738,Driving Layup,4,2,LAYUPS,2014
-Andre Iguodala,2738,Hook Shot,3,2,POST_MOVES,2014
-Andre Iguodala,2738,Putback Dunk,1,1,DUNKS,2014
-Andre Iguodala,2738,Reverse Layup,1,1,LAYUPS,2014
-Andre Iguodala,2738,Standard Dunk,4,3,DUNKS,2014
-Andre Iguodala,2738,Standard Layup,2,1,LAYUPS,2014
-Andre Iguodala,2738,2PT Fadeaway Jump Shot,5,1,TWO_POINT_JUMPERS,2015
-Andre Iguodala,2738,2PT Jump Shot,23,6,TWO_POINT_JUMPERS,2015
-Andre Iguodala,2738,2PT Pullup Jump Shot,9,5,TWO_POINT_JUMPERS,2015
-Andre Iguodala,2738,2PT Turnaround Jump Shot,3,1,TWO_POINT_JUMPERS,2015
-Andre Iguodala,2738,3PT Jump Shot,62,18,THREE_POINT_JUMPERS,2015
-Andre Iguodala,2738,3PT Pullup Jump Shot,17,10,THREE_POINT_JUMPERS,2015
-Andre Iguodala,2738,3PT Running Jump Shot,1,0,THREE_POINT_JUMPERS,2015
-Andre Iguodala,2738,3PT Step Back Jump Shot,2,1,THREE_POINT_JUMPERS,2015
-Andre Iguodala,2738,Alley Oop Dunk,1,1,DUNKS,2015
-Andre Iguodala,2738,Alley Oop Layup,1,0,LAYUPS,2015
-Andre Iguodala,2738,Driving Dunk,12,12,DUNKS,2015
-Andre Iguodala,2738,Driving Layup,8,7,LAYUPS,2015
-Andre Iguodala,2738,Finger Roll,2,1,LAYUPS,2015
-Andre Iguodala,2738,Putback Dunk,2,1,DUNKS,2015
-Andre Iguodala,2738,Standard Dunk,13,13,DUNKS,2015
-Andre Iguodala,2738,Standard Layup,9,4,LAYUPS,2015
-Andre Iguodala,2738,Tip Shot,1,0,TIP_SHOTS,2015
-Andre Iguodala,2738,2PT Fadeaway Jump Shot,2,0,TWO_POINT_JUMPERS,2016
-Andre Iguodala,2738,2PT Floating Jump Shot,1,1,FLOATING_SHOTS,2016
-Andre Iguodala,2738,2PT Jump Shot,18,4,TWO_POINT_JUMPERS,2016
-Andre Iguodala,2738,2PT Pullup Jump Shot,9,5,TWO_POINT_JUMPERS,2016
-Andre Iguodala,2738,2PT Step Back Jump Shot,1,0,TWO_POINT_JUMPERS,2016
-Andre Iguodala,2738,2PT Turnaround Jump Shot,8,3,TWO_POINT_JUMPERS,2016
-Andre Iguodala,2738,3PT Jump Shot,43,14,THREE_POINT_JUMPERS,2016
-Andre Iguodala,2738,3PT Pullup Jump Shot,20,10,THREE_POINT_JUMPERS,2016
+Andre Iguodala,2738,Reverse Dunk,6,6,DUNKS,2013
+Andre Iguodala,2738,Reverse Layup,7,3,LAYUPS,2013
+Andre Iguodala,2738,Running Hook Shot,5,3,POST_MOVES,2013
+Andre Iguodala,2738,Standard Dunk,73,71,DUNKS,2013
+Andre Iguodala,2738,Standard Layup,63,32,LAYUPS,2013
+Andre Iguodala,2738,Tip Shot,7,3,TIP_SHOTS,2013
+Andre Iguodala,2738,Turnaround Hook Shot,1,0,POST_MOVES,2013
+Andre Iguodala,2738,2PT Driving Jump Shot,2,1,TWO_POINT_JUMPERS,2014
+Andre Iguodala,2738,2PT Fadeaway Jump Shot,8,4,TWO_POINT_JUMPERS,2014
+Andre Iguodala,2738,2PT Floating Jump Shot,1,1,FLOATING_SHOTS,2014
+Andre Iguodala,2738,2PT Jump Shot,70,15,TWO_POINT_JUMPERS,2014
+Andre Iguodala,2738,2PT Pullup Jump Shot,22,13,TWO_POINT_JUMPERS,2014
+Andre Iguodala,2738,2PT Running Jump Shot,6,4,TWO_POINT_JUMPERS,2014
+Andre Iguodala,2738,2PT Step Back Jump Shot,9,4,TWO_POINT_JUMPERS,2014
+Andre Iguodala,2738,2PT Turnaround Jump Shot,23,15,TWO_POINT_JUMPERS,2014
+Andre Iguodala,2738,3PT Fadeaway Jump Shot,1,1,THREE_POINT_JUMPERS,2014
+Andre Iguodala,2738,3PT Jump Shot,115,37,THREE_POINT_JUMPERS,2014
+Andre Iguodala,2738,3PT Pullup Jump Shot,58,23,THREE_POINT_JUMPERS,2014
+Andre Iguodala,2738,3PT Step Back Jump Shot,1,1,THREE_POINT_JUMPERS,2014
+Andre Iguodala,2738,Alley Oop Dunk,7,7,DUNKS,2014
+Andre Iguodala,2738,Alley Oop Layup,4,0,LAYUPS,2014
+Andre Iguodala,2738,Driving Dunk,22,22,DUNKS,2014
+Andre Iguodala,2738,Driving Hook Shot,1,0,POST_MOVES,2014
+Andre Iguodala,2738,Driving Layup,16,11,LAYUPS,2014
+Andre Iguodala,2738,Finger Roll,12,10,LAYUPS,2014
+Andre Iguodala,2738,Putback Dunk,3,3,DUNKS,2014
+Andre Iguodala,2738,Reverse Dunk,6,5,DUNKS,2014
+Andre Iguodala,2738,Reverse Layup,9,4,LAYUPS,2014
+Andre Iguodala,2738,Running Hook Shot,1,1,POST_MOVES,2014
+Andre Iguodala,2738,Standard Dunk,22,21,DUNKS,2014
+Andre Iguodala,2738,Standard Layup,34,16,LAYUPS,2014
+Andre Iguodala,2738,Tip Shot,4,1,TIP_SHOTS,2014
+Andre Iguodala,2738,Turnaround Hook Shot,1,0,POST_MOVES,2014
+Andre Iguodala,2738,2PT Driving Jump Shot,2,0,TWO_POINT_JUMPERS,2015
+Andre Iguodala,2738,2PT Fadeaway Jump Shot,7,2,TWO_POINT_JUMPERS,2015
+Andre Iguodala,2738,2PT Floating Jump Shot,5,4,FLOATING_SHOTS,2015
+Andre Iguodala,2738,2PT Jump Shot,66,12,TWO_POINT_JUMPERS,2015
+Andre Iguodala,2738,2PT Pullup Jump Shot,31,17,TWO_POINT_JUMPERS,2015
+Andre Iguodala,2738,2PT Running Jump Shot,6,2,TWO_POINT_JUMPERS,2015
+Andre Iguodala,2738,2PT Step Back Jump Shot,5,4,TWO_POINT_JUMPERS,2015
+Andre Iguodala,2738,2PT Turnaround Jump Shot,15,6,TWO_POINT_JUMPERS,2015
+Andre Iguodala,2738,3PT Jump Shot,146,43,THREE_POINT_JUMPERS,2015
+Andre Iguodala,2738,3PT Pullup Jump Shot,64,29,THREE_POINT_JUMPERS,2015
+Andre Iguodala,2738,3PT Step Back Jump Shot,1,1,THREE_POINT_JUMPERS,2015
+Andre Iguodala,2738,3PT Turnaround Jump Shot,1,1,THREE_POINT_JUMPERS,2015
+Andre Iguodala,2738,Alley Oop Dunk,5,4,DUNKS,2015
+Andre Iguodala,2738,Driving Dunk,30,30,DUNKS,2015
+Andre Iguodala,2738,Driving Layup,25,21,LAYUPS,2015
+Andre Iguodala,2738,Finger Roll,8,6,LAYUPS,2015
+Andre Iguodala,2738,Putback Dunk,1,1,DUNKS,2015
+Andre Iguodala,2738,Reverse Dunk,4,3,DUNKS,2015
+Andre Iguodala,2738,Reverse Layup,9,4,LAYUPS,2015
+Andre Iguodala,2738,Running Hook Shot,2,1,POST_MOVES,2015
+Andre Iguodala,2738,Standard Dunk,30,26,DUNKS,2015
+Andre Iguodala,2738,Standard Layup,29,12,LAYUPS,2015
+Andre Iguodala,2738,Tip Shot,3,2,TIP_SHOTS,2015
+Andre Iguodala,2738,Turnaround Hook Shot,1,0,POST_MOVES,2015
+Andre Iguodala,2738,2PT Driving Jump Shot,2,2,TWO_POINT_JUMPERS,2016
+Andre Iguodala,2738,2PT Fadeaway Jump Shot,4,3,TWO_POINT_JUMPERS,2016
+Andre Iguodala,2738,2PT Floating Jump Shot,3,1,FLOATING_SHOTS,2016
+Andre Iguodala,2738,2PT Jump Shot,57,21,TWO_POINT_JUMPERS,2016
+Andre Iguodala,2738,2PT Pullup Jump Shot,14,6,TWO_POINT_JUMPERS,2016
+Andre Iguodala,2738,2PT Running Jump Shot,1,0,TWO_POINT_JUMPERS,2016
+Andre Iguodala,2738,2PT Step Back Jump Shot,5,0,TWO_POINT_JUMPERS,2016
+Andre Iguodala,2738,2PT Turnaround Jump Shot,10,5,TWO_POINT_JUMPERS,2016
+Andre Iguodala,2738,3PT Jump Shot,129,38,THREE_POINT_JUMPERS,2016
+Andre Iguodala,2738,3PT Pullup Jump Shot,23,15,THREE_POINT_JUMPERS,2016
 Andre Iguodala,2738,3PT Step Back Jump Shot,2,1,THREE_POINT_JUMPERS,2016
-Andre Iguodala,2738,Driving Dunk,1,1,DUNKS,2016
-Andre Iguodala,2738,Driving Layup,10,4,LAYUPS,2016
-Andre Iguodala,2738,Finger Roll,4,3,LAYUPS,2016
-Andre Iguodala,2738,Hook Shot,1,0,POST_MOVES,2016
-Andre Iguodala,2738,Putback Dunk,5,5,DUNKS,2016
-Andre Iguodala,2738,Putback Layup,2,1,LAYUPS,2016
-Andre Iguodala,2738,Reverse Layup,2,1,LAYUPS,2016
-Andre Iguodala,2738,Specialty Dunk,5,5,DUNKS,2016
-Andre Iguodala,2738,Standard Dunk,8,8,DUNKS,2016
-Andre Iguodala,2738,Standard Layup,19,11,LAYUPS,2016
-Andre Iguodala,2738,Turnaround Hook Shot,3,1,POST_MOVES,2016
-Andre Iguodala,2738,2PT Jump Shot,11,3,TWO_POINT_JUMPERS,2017
-Andre Iguodala,2738,2PT Pullup Jump Shot,4,2,TWO_POINT_JUMPERS,2017
-Andre Iguodala,2738,2PT Turnaround Jump Shot,6,2,TWO_POINT_JUMPERS,2017
-Andre Iguodala,2738,3PT Fadeaway Jump Shot,1,1,THREE_POINT_JUMPERS,2017
-Andre Iguodala,2738,3PT Jump Shot,28,5,THREE_POINT_JUMPERS,2017
-Andre Iguodala,2738,3PT Pullup Jump Shot,13,2,THREE_POINT_JUMPERS,2017
-Andre Iguodala,2738,Alley Oop Dunk,3,3,DUNKS,2017
-Andre Iguodala,2738,Driving Dunk,5,5,DUNKS,2017
-Andre Iguodala,2738,Driving Layup,3,0,LAYUPS,2017
-Andre Iguodala,2738,Finger Roll,1,1,LAYUPS,2017
-Andre Iguodala,2738,No Shot,1,1,NO_SHOT,2017
-Andre Iguodala,2738,Putback Dunk,1,1,DUNKS,2017
-Andre Iguodala,2738,Putback Layup,1,1,LAYUPS,2017
-Andre Iguodala,2738,Specialty Dunk,8,7,DUNKS,2017
-Andre Iguodala,2738,Standard Dunk,8,8,DUNKS,2017
-Andre Iguodala,2738,Standard Layup,5,3,LAYUPS,2017
-Andre Iguodala,2738,Turnaround Hook Shot,2,1,POST_MOVES,2017
-Andre Iguodala,2738,2PT Jump Shot,3,0,TWO_POINT_JUMPERS,2018
-Andre Iguodala,2738,2PT Pullup Jump Shot,3,1,TWO_POINT_JUMPERS,2018
-Andre Iguodala,2738,2PT Step Back Jump Shot,2,0,TWO_POINT_JUMPERS,2018
-Andre Iguodala,2738,2PT Turnaround Jump Shot,2,1,TWO_POINT_JUMPERS,2018
-Andre Iguodala,2738,3PT Fadeaway Jump Shot,1,1,THREE_POINT_JUMPERS,2018
-Andre Iguodala,2738,3PT Jump Shot,24,7,THREE_POINT_JUMPERS,2018
-Andre Iguodala,2738,3PT Pullup Jump Shot,12,6,THREE_POINT_JUMPERS,2018
-Andre Iguodala,2738,Alley Oop Dunk,3,3,DUNKS,2018
-Andre Iguodala,2738,Driving Dunk,6,4,DUNKS,2018
-Andre Iguodala,2738,Driving Layup,3,0,LAYUPS,2018
-Andre Iguodala,2738,Finger Roll,3,2,LAYUPS,2018
-Andre Iguodala,2738,Putback Dunk,2,1,DUNKS,2018
-Andre Iguodala,2738,Putback Layup,2,1,LAYUPS,2018
-Andre Iguodala,2738,Reverse Layup,1,1,LAYUPS,2018
-Andre Iguodala,2738,Specialty Dunk,6,6,DUNKS,2018
-Andre Iguodala,2738,Standard Dunk,5,5,DUNKS,2018
-Andre Iguodala,2738,Standard Layup,6,3,LAYUPS,2018
-Andre Iguodala,2738,Turnaround Hook Shot,1,0,POST_MOVES,2018
-Andre Iguodala,2738,2PT Fadeaway Jump Shot,2,1,TWO_POINT_JUMPERS,2019
-Andre Iguodala,2738,2PT Floating Jump Shot,4,3,FLOATING_SHOTS,2019
-Andre Iguodala,2738,2PT Jump Shot,5,1,TWO_POINT_JUMPERS,2019
-Andre Iguodala,2738,2PT Pullup Jump Shot,7,1,TWO_POINT_JUMPERS,2019
-Andre Iguodala,2738,2PT Step Back Jump Shot,2,0,TWO_POINT_JUMPERS,2019
-Andre Iguodala,2738,2PT Turnaround Jump Shot,6,2,TWO_POINT_JUMPERS,2019
-Andre Iguodala,2738,3PT Jump Shot,73,22,THREE_POINT_JUMPERS,2019
-Andre Iguodala,2738,3PT Pullup Jump Shot,6,5,THREE_POINT_JUMPERS,2019
-Andre Iguodala,2738,3PT Running Jump Shot,1,1,THREE_POINT_JUMPERS,2019
-Andre Iguodala,2738,Alley Oop Dunk,10,10,DUNKS,2019
-Andre Iguodala,2738,Alley Oop Layup,2,2,LAYUPS,2019
-Andre Iguodala,2738,Driving Dunk,3,2,DUNKS,2019
-Andre Iguodala,2738,Driving Layup,2,1,LAYUPS,2019
-Andre Iguodala,2738,Hook Shot,2,1,POST_MOVES,2019
-Andre Iguodala,2738,Putback Layup,3,1,LAYUPS,2019
-Andre Iguodala,2738,Reverse Layup,1,1,LAYUPS,2019
-Andre Iguodala,2738,Specialty Dunk,12,12,DUNKS,2019
-Andre Iguodala,2738,Standard Dunk,12,11,DUNKS,2019
-Andre Iguodala,2738,Standard Layup,12,4,LAYUPS,2019
-Andre Iguodala,2738,Turnaround Hook Shot,1,1,POST_MOVES,2019
+Andre Iguodala,2738,Alley Oop Dunk,7,7,DUNKS,2016
+Andre Iguodala,2738,Alley Oop Layup,1,1,LAYUPS,2016
+Andre Iguodala,2738,Driving Dunk,8,8,DUNKS,2016
+Andre Iguodala,2738,Driving Hook Shot,1,1,POST_MOVES,2016
+Andre Iguodala,2738,Driving Layup,20,10,LAYUPS,2016
+Andre Iguodala,2738,Finger Roll,7,5,LAYUPS,2016
+Andre Iguodala,2738,Hook Shot,2,0,POST_MOVES,2016
+Andre Iguodala,2738,Putback Dunk,1,1,DUNKS,2016
+Andre Iguodala,2738,Putback Layup,5,4,LAYUPS,2016
+Andre Iguodala,2738,Reverse Dunk,2,2,DUNKS,2016
+Andre Iguodala,2738,Reverse Layup,4,2,LAYUPS,2016
+Andre Iguodala,2738,Specialty Dunk,4,2,DUNKS,2016
+Andre Iguodala,2738,Standard Dunk,30,29,DUNKS,2016
+Andre Iguodala,2738,Standard Layup,24,11,LAYUPS,2016
+Andre Iguodala,2738,Turnaround Hook Shot,2,1,POST_MOVES,2016
+Andre Iguodala,2738,2PT Fadeaway Jump Shot,3,3,TWO_POINT_JUMPERS,2017
+Andre Iguodala,2738,2PT Floating Jump Shot,3,2,FLOATING_SHOTS,2017
+Andre Iguodala,2738,2PT Jump Shot,43,11,TWO_POINT_JUMPERS,2017
+Andre Iguodala,2738,2PT Pullup Jump Shot,18,13,TWO_POINT_JUMPERS,2017
+Andre Iguodala,2738,2PT Running Jump Shot,2,2,TWO_POINT_JUMPERS,2017
+Andre Iguodala,2738,2PT Step Back Jump Shot,4,1,TWO_POINT_JUMPERS,2017
+Andre Iguodala,2738,2PT Turnaround Jump Shot,10,7,TWO_POINT_JUMPERS,2017
+Andre Iguodala,2738,3PT Jump Shot,153,46,THREE_POINT_JUMPERS,2017
+Andre Iguodala,2738,3PT Pullup Jump Shot,24,18,THREE_POINT_JUMPERS,2017
+Andre Iguodala,2738,Alley Oop Dunk,5,3,DUNKS,2017
+Andre Iguodala,2738,Alley Oop Layup,1,0,LAYUPS,2017
+Andre Iguodala,2738,Driving Dunk,11,11,DUNKS,2017
+Andre Iguodala,2738,Driving Layup,5,3,LAYUPS,2017
+Andre Iguodala,2738,Finger Roll,7,6,LAYUPS,2017
+Andre Iguodala,2738,Hook Shot,3,2,POST_MOVES,2017
+Andre Iguodala,2738,Putback Dunk,6,5,DUNKS,2017
+Andre Iguodala,2738,Putback Layup,5,5,LAYUPS,2017
+Andre Iguodala,2738,Reverse Dunk,6,6,DUNKS,2017
+Andre Iguodala,2738,Reverse Layup,10,6,LAYUPS,2017
+Andre Iguodala,2738,Specialty Dunk,22,21,DUNKS,2017
+Andre Iguodala,2738,Standard Dunk,32,31,DUNKS,2017
+Andre Iguodala,2738,Standard Layup,40,17,LAYUPS,2017
+Andre Iguodala,2738,Turnaround Hook Shot,2,0,POST_MOVES,2017
+Andre Iguodala,2738,2PT Fadeaway Jump Shot,2,1,TWO_POINT_JUMPERS,2018
+Andre Iguodala,2738,2PT Floating Jump Shot,5,4,FLOATING_SHOTS,2018
+Andre Iguodala,2738,2PT Jump Shot,34,10,TWO_POINT_JUMPERS,2018
+Andre Iguodala,2738,2PT Pullup Jump Shot,14,6,TWO_POINT_JUMPERS,2018
+Andre Iguodala,2738,2PT Running Jump Shot,2,1,TWO_POINT_JUMPERS,2018
+Andre Iguodala,2738,2PT Step Back Jump Shot,1,0,TWO_POINT_JUMPERS,2018
+Andre Iguodala,2738,2PT Turnaround Jump Shot,23,10,TWO_POINT_JUMPERS,2018
+Andre Iguodala,2738,3PT Jump Shot,84,16,THREE_POINT_JUMPERS,2018
+Andre Iguodala,2738,3PT Pullup Jump Shot,29,14,THREE_POINT_JUMPERS,2018
+Andre Iguodala,2738,3PT Running Jump Shot,3,2,THREE_POINT_JUMPERS,2018
+Andre Iguodala,2738,3PT Step Back Jump Shot,1,1,THREE_POINT_JUMPERS,2018
+Andre Iguodala,2738,Alley Oop Dunk,2,2,DUNKS,2018
+Andre Iguodala,2738,Alley Oop Layup,1,1,LAYUPS,2018
+Andre Iguodala,2738,Driving Dunk,8,8,DUNKS,2018
+Andre Iguodala,2738,Driving Layup,13,6,LAYUPS,2018
+Andre Iguodala,2738,Finger Roll,11,7,LAYUPS,2018
+Andre Iguodala,2738,Hook Shot,3,0,POST_MOVES,2018
+Andre Iguodala,2738,Putback Layup,7,3,LAYUPS,2018
+Andre Iguodala,2738,Reverse Dunk,2,2,DUNKS,2018
+Andre Iguodala,2738,Specialty Dunk,14,13,DUNKS,2018
+Andre Iguodala,2738,Standard Dunk,27,27,DUNKS,2018
+Andre Iguodala,2738,Standard Layup,32,13,LAYUPS,2018
+Andre Iguodala,2738,Turnaround Hook Shot,2,1,POST_MOVES,2018
+Andre Iguodala,2738,2PT Fadeaway Jump Shot,2,0,TWO_POINT_JUMPERS,2019
+Andre Iguodala,2738,2PT Floating Jump Shot,4,2,FLOATING_SHOTS,2019
+Andre Iguodala,2738,2PT Jump Shot,22,2,TWO_POINT_JUMPERS,2019
+Andre Iguodala,2738,2PT Pullup Jump Shot,10,6,TWO_POINT_JUMPERS,2019
+Andre Iguodala,2738,2PT Turnaround Jump Shot,8,2,TWO_POINT_JUMPERS,2019
+Andre Iguodala,2738,3PT Jump Shot,118,29,THREE_POINT_JUMPERS,2019
+Andre Iguodala,2738,3PT Pullup Jump Shot,22,16,THREE_POINT_JUMPERS,2019
+Andre Iguodala,2738,3PT Running Jump Shot,4,3,THREE_POINT_JUMPERS,2019
+Andre Iguodala,2738,Alley Oop Dunk,13,13,DUNKS,2019
+Andre Iguodala,2738,Driving Dunk,3,3,DUNKS,2019
+Andre Iguodala,2738,Driving Layup,8,4,LAYUPS,2019
+Andre Iguodala,2738,Finger Roll,12,9,LAYUPS,2019
+Andre Iguodala,2738,Hook Shot,2,0,POST_MOVES,2019
+Andre Iguodala,2738,Putback Dunk,2,2,DUNKS,2019
+Andre Iguodala,2738,Putback Layup,2,0,LAYUPS,2019
+Andre Iguodala,2738,Reverse Dunk,5,5,DUNKS,2019
+Andre Iguodala,2738,Reverse Layup,2,1,LAYUPS,2019
+Andre Iguodala,2738,Specialty Dunk,20,20,DUNKS,2019
+Andre Iguodala,2738,Standard Dunk,26,26,DUNKS,2019
+Andre Iguodala,2738,Standard Layup,17,8,LAYUPS,2019
 Andre Iguodala,2738,2PT Fadeaway Jump Shot,1,0,TWO_POINT_JUMPERS,2020
-Andre Iguodala,2738,2PT Floating Jump Shot,1,0,FLOATING_SHOTS,2020
-Andre Iguodala,2738,2PT Jump Shot,1,1,TWO_POINT_JUMPERS,2020
-Andre Iguodala,2738,2PT Pullup Jump Shot,3,1,TWO_POINT_JUMPERS,2020
-Andre Iguodala,2738,2PT Step Back Jump Shot,2,1,TWO_POINT_JUMPERS,2020
-Andre Iguodala,2738,2PT Turnaround Jump Shot,2,2,TWO_POINT_JUMPERS,2020
-Andre Iguodala,2738,3PT Jump Shot,35,14,THREE_POINT_JUMPERS,2020
-Andre Iguodala,2738,3PT Pullup Jump Shot,4,0,THREE_POINT_JUMPERS,2020
-Andre Iguodala,2738,Alley Oop Dunk,1,1,DUNKS,2020
-Andre Iguodala,2738,Driving Layup,1,1,LAYUPS,2020
-Andre Iguodala,2738,Finger Roll,1,1,LAYUPS,2020
-Andre Iguodala,2738,Specialty Dunk,6,5,DUNKS,2020
+Andre Iguodala,2738,2PT Jump Shot,2,1,TWO_POINT_JUMPERS,2020
+Andre Iguodala,2738,2PT Pullup Jump Shot,6,2,TWO_POINT_JUMPERS,2020
+Andre Iguodala,2738,2PT Step Back Jump Shot,1,1,TWO_POINT_JUMPERS,2020
+Andre Iguodala,2738,2PT Turnaround Jump Shot,3,2,TWO_POINT_JUMPERS,2020
+Andre Iguodala,2738,3PT Jump Shot,42,13,THREE_POINT_JUMPERS,2020
+Andre Iguodala,2738,3PT Pullup Jump Shot,4,1,THREE_POINT_JUMPERS,2020
+Andre Iguodala,2738,3PT Running Jump Shot,1,0,THREE_POINT_JUMPERS,2020
+Andre Iguodala,2738,Alley Oop Layup,2,2,LAYUPS,2020
+Andre Iguodala,2738,Driving Layup,6,3,LAYUPS,2020
+Andre Iguodala,2738,Finger Roll,2,1,LAYUPS,2020
+Andre Iguodala,2738,Reverse Layup,1,0,LAYUPS,2020
+Andre Iguodala,2738,Specialty Dunk,5,5,DUNKS,2020
 Andre Iguodala,2738,Standard Dunk,2,2,DUNKS,2020
-Andre Iguodala,2738,Standard Layup,4,1,LAYUPS,2020
-Andre Iguodala,2738,Turnaround Hook Shot,1,0,POST_MOVES,2020
-Andre Iguodala,2738,2PT Fadeaway Jump Shot,1,0,TWO_POINT_JUMPERS,2021
-Andre Iguodala,2738,2PT Turnaround Jump Shot,1,1,TWO_POINT_JUMPERS,2021
-Andre Iguodala,2738,3PT Jump Shot,6,3,THREE_POINT_JUMPERS,2021
-Andre Iguodala,2738,3PT Running Jump Shot,1,0,THREE_POINT_JUMPERS,2021
-Andre Iguodala,2738,Driving Layup,1,1,LAYUPS,2021
-Andre Iguodala,2738,Specialty Dunk,1,1,DUNKS,2021
-Andre Iguodala,2738,2PT Jump Shot,1,0,TWO_POINT_JUMPERS,2022
-Andre Iguodala,2738,2PT Pullup Jump Shot,1,1,TWO_POINT_JUMPERS,2022
+Andre Iguodala,2738,Standard Layup,8,5,LAYUPS,2020
+Andre Iguodala,2738,Turnaround Hook Shot,2,0,POST_MOVES,2020
+Andre Iguodala,2738,2PT Floating Jump Shot,2,0,FLOATING_SHOTS,2021
+Andre Iguodala,2738,2PT Jump Shot,9,3,TWO_POINT_JUMPERS,2021
+Andre Iguodala,2738,2PT Pullup Jump Shot,3,1,TWO_POINT_JUMPERS,2021
+Andre Iguodala,2738,2PT Step Back Jump Shot,2,0,TWO_POINT_JUMPERS,2021
+Andre Iguodala,2738,2PT Turnaround Jump Shot,3,1,TWO_POINT_JUMPERS,2021
+Andre Iguodala,2738,3PT Jump Shot,164,55,THREE_POINT_JUMPERS,2021
+Andre Iguodala,2738,3PT Pullup Jump Shot,12,4,THREE_POINT_JUMPERS,2021
+Andre Iguodala,2738,3PT Step Back Jump Shot,5,1,THREE_POINT_JUMPERS,2021
+Andre Iguodala,2738,3PT Turnaround Jump Shot,1,0,THREE_POINT_JUMPERS,2021
+Andre Iguodala,2738,Alley Oop Dunk,2,2,DUNKS,2021
+Andre Iguodala,2738,Driving Dunk,3,3,DUNKS,2021
+Andre Iguodala,2738,Driving Hook Shot,1,1,POST_MOVES,2021
+Andre Iguodala,2738,Driving Layup,5,2,LAYUPS,2021
+Andre Iguodala,2738,Finger Roll,5,3,LAYUPS,2021
+Andre Iguodala,2738,Hook Shot,2,1,POST_MOVES,2021
+Andre Iguodala,2738,Putback Dunk,1,0,DUNKS,2021
+Andre Iguodala,2738,Putback Layup,1,1,LAYUPS,2021
+Andre Iguodala,2738,Reverse Layup,2,0,LAYUPS,2021
+Andre Iguodala,2738,Specialty Dunk,4,4,DUNKS,2021
+Andre Iguodala,2738,Standard Dunk,9,8,DUNKS,2021
+Andre Iguodala,2738,Standard Layup,10,4,LAYUPS,2021
+Andre Iguodala,2738,Turnaround Hook Shot,2,1,POST_MOVES,2021
+Andre Iguodala,2738,2PT Jump Shot,4,1,TWO_POINT_JUMPERS,2022
+Andre Iguodala,2738,2PT Pullup Jump Shot,1,0,TWO_POINT_JUMPERS,2022
+Andre Iguodala,2738,2PT Step Back Jump Shot,3,1,TWO_POINT_JUMPERS,2022
 Andre Iguodala,2738,2PT Turnaround Jump Shot,2,0,TWO_POINT_JUMPERS,2022
-Andre Iguodala,2738,3PT Jump Shot,3,1,THREE_POINT_JUMPERS,2022
-Andre Iguodala,2738,Specialty Dunk,2,2,DUNKS,2022
+Andre Iguodala,2738,3PT Floating Jump Shot,1,0,FLOATING_SHOTS,2022
+Andre Iguodala,2738,3PT Jump Shot,63,16,THREE_POINT_JUMPERS,2022
+Andre Iguodala,2738,3PT Pullup Jump Shot,5,0,THREE_POINT_JUMPERS,2022
+Andre Iguodala,2738,3PT Running Jump Shot,1,1,THREE_POINT_JUMPERS,2022
+Andre Iguodala,2738,3PT Step Back Jump Shot,3,0,THREE_POINT_JUMPERS,2022
+Andre Iguodala,2738,Alley Oop Dunk,2,2,DUNKS,2022
+Andre Iguodala,2738,Driving Dunk,2,2,DUNKS,2022
+Andre Iguodala,2738,Driving Layup,7,4,LAYUPS,2022
+Andre Iguodala,2738,Hook Shot,1,1,POST_MOVES,2022
+Andre Iguodala,2738,Putback Layup,3,1,LAYUPS,2022
+Andre Iguodala,2738,Specialty Dunk,7,6,DUNKS,2022
+Andre Iguodala,2738,Standard Dunk,8,7,DUNKS,2022
+Andre Iguodala,2738,Standard Layup,8,4,LAYUPS,2022
+Andre Iguodala,2738,3PT Jump Shot,8,1,THREE_POINT_JUMPERS,2023
+Andre Iguodala,2738,3PT Pullup Jump Shot,1,0,THREE_POINT_JUMPERS,2023
+Andre Iguodala,2738,Finger Roll,1,1,LAYUPS,2023
+Andre Iguodala,2738,Putback Layup,1,1,LAYUPS,2023
+Andre Iguodala,2738,Reverse Dunk,1,1,DUNKS,2023
+Andre Iguodala,2738,Specialty Dunk,2,2,DUNKS,2023
+Andre Iguodala,2738,Standard Dunk,1,1,DUNKS,2023

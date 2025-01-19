@@ -1,59 +1,273 @@
 PLAYER_NAME,PLAYER_ID,shot_description,shot_count,shot_makes,shot_group,year
-Jordan Clarkson,203903,2PT Fadeaway Jump Shot,3,2,TWO_POINT_JUMPERS,2018
-Jordan Clarkson,203903,2PT Floating Jump Shot,12,5,FLOATING_SHOTS,2018
-Jordan Clarkson,203903,2PT Jump Shot,7,0,TWO_POINT_JUMPERS,2018
-Jordan Clarkson,203903,2PT Pullup Jump Shot,14,3,TWO_POINT_JUMPERS,2018
-Jordan Clarkson,203903,2PT Step Back Jump Shot,9,3,TWO_POINT_JUMPERS,2018
-Jordan Clarkson,203903,2PT Turnaround Jump Shot,3,1,TWO_POINT_JUMPERS,2018
-Jordan Clarkson,203903,3PT Jump Shot,29,5,THREE_POINT_JUMPERS,2018
-Jordan Clarkson,203903,3PT Pullup Jump Shot,11,4,THREE_POINT_JUMPERS,2018
-Jordan Clarkson,203903,3PT Step Back Jump Shot,6,2,THREE_POINT_JUMPERS,2018
-Jordan Clarkson,203903,Driving Layup,12,5,LAYUPS,2018
-Jordan Clarkson,203903,Finger Roll,6,4,LAYUPS,2018
-Jordan Clarkson,203903,Putback Layup,3,1,LAYUPS,2018
-Jordan Clarkson,203903,Standard Layup,8,2,LAYUPS,2018
-Jordan Clarkson,203903,2PT Fadeaway Jump Shot,5,2,TWO_POINT_JUMPERS,2020
-Jordan Clarkson,203903,2PT Floating Jump Shot,13,7,FLOATING_SHOTS,2020
-Jordan Clarkson,203903,2PT Pullup Jump Shot,3,2,TWO_POINT_JUMPERS,2020
-Jordan Clarkson,203903,2PT Step Back Jump Shot,2,1,TWO_POINT_JUMPERS,2020
-Jordan Clarkson,203903,2PT Turnaround Jump Shot,5,4,TWO_POINT_JUMPERS,2020
-Jordan Clarkson,203903,3PT Fadeaway Jump Shot,1,1,THREE_POINT_JUMPERS,2020
-Jordan Clarkson,203903,3PT Jump Shot,29,7,THREE_POINT_JUMPERS,2020
-Jordan Clarkson,203903,3PT Pullup Jump Shot,10,4,THREE_POINT_JUMPERS,2020
-Jordan Clarkson,203903,3PT Running Jump Shot,2,0,THREE_POINT_JUMPERS,2020
-Jordan Clarkson,203903,3PT Step Back Jump Shot,7,5,THREE_POINT_JUMPERS,2020
-Jordan Clarkson,203903,Driving Dunk,1,1,DUNKS,2020
-Jordan Clarkson,203903,Driving Layup,10,6,LAYUPS,2020
-Jordan Clarkson,203903,Finger Roll,4,2,LAYUPS,2020
-Jordan Clarkson,203903,Putback Layup,1,0,LAYUPS,2020
-Jordan Clarkson,203903,Standard Dunk,1,1,DUNKS,2020
-Jordan Clarkson,203903,Standard Layup,3,2,LAYUPS,2020
-Jordan Clarkson,203903,2PT Fadeaway Jump Shot,9,4,TWO_POINT_JUMPERS,2021
-Jordan Clarkson,203903,2PT Floating Jump Shot,26,14,FLOATING_SHOTS,2021
-Jordan Clarkson,203903,2PT Jump Shot,3,0,TWO_POINT_JUMPERS,2021
-Jordan Clarkson,203903,2PT Pullup Jump Shot,8,5,TWO_POINT_JUMPERS,2021
-Jordan Clarkson,203903,2PT Step Back Jump Shot,5,4,TWO_POINT_JUMPERS,2021
-Jordan Clarkson,203903,2PT Turnaround Jump Shot,2,1,TWO_POINT_JUMPERS,2021
-Jordan Clarkson,203903,3PT Fadeaway Jump Shot,1,0,THREE_POINT_JUMPERS,2021
-Jordan Clarkson,203903,3PT Jump Shot,43,12,THREE_POINT_JUMPERS,2021
-Jordan Clarkson,203903,3PT Pullup Jump Shot,36,15,THREE_POINT_JUMPERS,2021
-Jordan Clarkson,203903,3PT Running Jump Shot,3,1,THREE_POINT_JUMPERS,2021
-Jordan Clarkson,203903,3PT Step Back Jump Shot,14,6,THREE_POINT_JUMPERS,2021
-Jordan Clarkson,203903,Driving Dunk,1,1,DUNKS,2021
-Jordan Clarkson,203903,Driving Hook Shot,1,0,POST_MOVES,2021
-Jordan Clarkson,203903,Driving Layup,9,1,LAYUPS,2021
-Jordan Clarkson,203903,Finger Roll,1,1,LAYUPS,2021
-Jordan Clarkson,203903,Putback Layup,3,2,LAYUPS,2021
-Jordan Clarkson,203903,2PT Fadeaway Jump Shot,1,1,TWO_POINT_JUMPERS,2022
-Jordan Clarkson,203903,2PT Floating Jump Shot,18,12,FLOATING_SHOTS,2022
-Jordan Clarkson,203903,2PT Pullup Jump Shot,8,5,TWO_POINT_JUMPERS,2022
-Jordan Clarkson,203903,2PT Step Back Jump Shot,2,2,TWO_POINT_JUMPERS,2022
-Jordan Clarkson,203903,2PT Turnaround Jump Shot,5,3,TWO_POINT_JUMPERS,2022
-Jordan Clarkson,203903,3PT Jump Shot,15,7,THREE_POINT_JUMPERS,2022
-Jordan Clarkson,203903,3PT Pullup Jump Shot,6,1,THREE_POINT_JUMPERS,2022
-Jordan Clarkson,203903,3PT Running Jump Shot,1,1,THREE_POINT_JUMPERS,2022
-Jordan Clarkson,203903,3PT Step Back Jump Shot,2,0,THREE_POINT_JUMPERS,2022
-Jordan Clarkson,203903,Driving Dunk,1,1,DUNKS,2022
-Jordan Clarkson,203903,Driving Layup,8,2,LAYUPS,2022
-Jordan Clarkson,203903,Finger Roll,4,3,LAYUPS,2022
-Jordan Clarkson,203903,Putback Layup,2,2,LAYUPS,2022
+Jordan Clarkson,203903,2PT Driving Jump Shot,6,1,TWO_POINT_JUMPERS,2015
+Jordan Clarkson,203903,2PT Fadeaway Jump Shot,3,1,TWO_POINT_JUMPERS,2015
+Jordan Clarkson,203903,2PT Floating Jump Shot,26,16,FLOATING_SHOTS,2015
+Jordan Clarkson,203903,2PT Jump Shot,187,51,TWO_POINT_JUMPERS,2015
+Jordan Clarkson,203903,2PT Pullup Jump Shot,34,27,TWO_POINT_JUMPERS,2015
+Jordan Clarkson,203903,2PT Running Jump Shot,27,14,TWO_POINT_JUMPERS,2015
+Jordan Clarkson,203903,2PT Step Back Jump Shot,6,2,TWO_POINT_JUMPERS,2015
+Jordan Clarkson,203903,2PT Turnaround Jump Shot,2,1,TWO_POINT_JUMPERS,2015
+Jordan Clarkson,203903,3PT Jump Shot,118,36,THREE_POINT_JUMPERS,2015
+Jordan Clarkson,203903,3PT Pullup Jump Shot,3,2,THREE_POINT_JUMPERS,2015
+Jordan Clarkson,203903,Alley Oop Dunk,3,3,DUNKS,2015
+Jordan Clarkson,203903,Alley Oop Layup,1,1,LAYUPS,2015
+Jordan Clarkson,203903,Driving Dunk,6,6,DUNKS,2015
+Jordan Clarkson,203903,Driving Hook Shot,1,1,POST_MOVES,2015
+Jordan Clarkson,203903,Driving Layup,48,40,LAYUPS,2015
+Jordan Clarkson,203903,Finger Roll,9,8,LAYUPS,2015
+Jordan Clarkson,203903,Hook Shot,4,2,POST_MOVES,2015
+Jordan Clarkson,203903,Putback Dunk,1,1,DUNKS,2015
+Jordan Clarkson,203903,Putback Layup,4,4,LAYUPS,2015
+Jordan Clarkson,203903,Reverse Layup,7,6,LAYUPS,2015
+Jordan Clarkson,203903,Running Hook Shot,2,1,POST_MOVES,2015
+Jordan Clarkson,203903,Standard Dunk,11,10,DUNKS,2015
+Jordan Clarkson,203903,Standard Layup,79,31,LAYUPS,2015
+Jordan Clarkson,203903,Tip Shot,7,1,TIP_SHOTS,2015
+Jordan Clarkson,203903,Turnaround Hook Shot,1,1,POST_MOVES,2015
+Jordan Clarkson,203903,2PT Driving Jump Shot,9,7,TWO_POINT_JUMPERS,2016
+Jordan Clarkson,203903,2PT Fadeaway Jump Shot,12,4,TWO_POINT_JUMPERS,2016
+Jordan Clarkson,203903,2PT Floating Jump Shot,106,63,FLOATING_SHOTS,2016
+Jordan Clarkson,203903,2PT Jump Shot,216,53,TWO_POINT_JUMPERS,2016
+Jordan Clarkson,203903,2PT Pullup Jump Shot,85,46,TWO_POINT_JUMPERS,2016
+Jordan Clarkson,203903,2PT Running Jump Shot,12,6,TWO_POINT_JUMPERS,2016
+Jordan Clarkson,203903,2PT Step Back Jump Shot,25,11,TWO_POINT_JUMPERS,2016
+Jordan Clarkson,203903,2PT Turnaround Jump Shot,12,6,TWO_POINT_JUMPERS,2016
+Jordan Clarkson,203903,3PT Fadeaway Jump Shot,1,1,THREE_POINT_JUMPERS,2016
+Jordan Clarkson,203903,3PT Jump Shot,280,91,THREE_POINT_JUMPERS,2016
+Jordan Clarkson,203903,3PT Pullup Jump Shot,15,8,THREE_POINT_JUMPERS,2016
+Jordan Clarkson,203903,3PT Running Jump Shot,10,6,THREE_POINT_JUMPERS,2016
+Jordan Clarkson,203903,3PT Step Back Jump Shot,11,4,THREE_POINT_JUMPERS,2016
+Jordan Clarkson,203903,3PT Turnaround Jump Shot,1,0,THREE_POINT_JUMPERS,2016
+Jordan Clarkson,203903,Alley Oop Dunk,2,2,DUNKS,2016
+Jordan Clarkson,203903,Alley Oop Layup,5,5,LAYUPS,2016
+Jordan Clarkson,203903,Driving Dunk,5,5,DUNKS,2016
+Jordan Clarkson,203903,Driving Hook Shot,4,3,POST_MOVES,2016
+Jordan Clarkson,203903,Driving Layup,84,55,LAYUPS,2016
+Jordan Clarkson,203903,Finger Roll,27,22,LAYUPS,2016
+Jordan Clarkson,203903,Hook Shot,4,2,POST_MOVES,2016
+Jordan Clarkson,203903,Putback Dunk,1,1,DUNKS,2016
+Jordan Clarkson,203903,Putback Layup,17,10,LAYUPS,2016
+Jordan Clarkson,203903,Reverse Layup,7,5,LAYUPS,2016
+Jordan Clarkson,203903,Specialty Dunk,6,6,DUNKS,2016
+Jordan Clarkson,203903,Standard Dunk,15,9,DUNKS,2016
+Jordan Clarkson,203903,Standard Layup,123,42,LAYUPS,2016
+Jordan Clarkson,203903,Turnaround Hook Shot,1,1,POST_MOVES,2016
+Jordan Clarkson,203903,2PT Driving Jump Shot,8,7,TWO_POINT_JUMPERS,2017
+Jordan Clarkson,203903,2PT Fadeaway Jump Shot,9,5,TWO_POINT_JUMPERS,2017
+Jordan Clarkson,203903,2PT Floating Jump Shot,139,72,FLOATING_SHOTS,2017
+Jordan Clarkson,203903,2PT Jump Shot,111,23,TWO_POINT_JUMPERS,2017
+Jordan Clarkson,203903,2PT Pullup Jump Shot,101,55,TWO_POINT_JUMPERS,2017
+Jordan Clarkson,203903,2PT Running Jump Shot,10,4,TWO_POINT_JUMPERS,2017
+Jordan Clarkson,203903,2PT Step Back Jump Shot,25,11,TWO_POINT_JUMPERS,2017
+Jordan Clarkson,203903,2PT Turnaround Jump Shot,20,6,TWO_POINT_JUMPERS,2017
+Jordan Clarkson,203903,3PT Jump Shot,300,90,THREE_POINT_JUMPERS,2017
+Jordan Clarkson,203903,3PT Pullup Jump Shot,31,18,THREE_POINT_JUMPERS,2017
+Jordan Clarkson,203903,3PT Running Jump Shot,6,1,THREE_POINT_JUMPERS,2017
+Jordan Clarkson,203903,3PT Step Back Jump Shot,14,6,THREE_POINT_JUMPERS,2017
+Jordan Clarkson,203903,3PT Turnaround Jump Shot,2,0,THREE_POINT_JUMPERS,2017
+Jordan Clarkson,203903,Alley Oop Dunk,2,1,DUNKS,2017
+Jordan Clarkson,203903,Alley Oop Layup,7,2,LAYUPS,2017
+Jordan Clarkson,203903,Driving Dunk,4,4,DUNKS,2017
+Jordan Clarkson,203903,Driving Hook Shot,15,7,POST_MOVES,2017
+Jordan Clarkson,203903,Driving Layup,91,55,LAYUPS,2017
+Jordan Clarkson,203903,Finger Roll,35,29,LAYUPS,2017
+Jordan Clarkson,203903,Hook Shot,4,2,POST_MOVES,2017
+Jordan Clarkson,203903,Putback Layup,11,6,LAYUPS,2017
+Jordan Clarkson,203903,Reverse Dunk,1,1,DUNKS,2017
+Jordan Clarkson,203903,Reverse Layup,6,4,LAYUPS,2017
+Jordan Clarkson,203903,Specialty Dunk,2,1,DUNKS,2017
+Jordan Clarkson,203903,Standard Dunk,12,11,DUNKS,2017
+Jordan Clarkson,203903,Standard Layup,102,54,LAYUPS,2017
+Jordan Clarkson,203903,2PT Fadeaway Jump Shot,16,8,TWO_POINT_JUMPERS,2018
+Jordan Clarkson,203903,2PT Floating Jump Shot,104,51,FLOATING_SHOTS,2018
+Jordan Clarkson,203903,2PT Jump Shot,100,36,TWO_POINT_JUMPERS,2018
+Jordan Clarkson,203903,2PT Pullup Jump Shot,108,47,TWO_POINT_JUMPERS,2018
+Jordan Clarkson,203903,2PT Running Jump Shot,7,4,TWO_POINT_JUMPERS,2018
+Jordan Clarkson,203903,2PT Step Back Jump Shot,18,7,TWO_POINT_JUMPERS,2018
+Jordan Clarkson,203903,2PT Turnaround Jump Shot,17,8,TWO_POINT_JUMPERS,2018
+Jordan Clarkson,203903,3PT Jump Shot,270,89,THREE_POINT_JUMPERS,2018
+Jordan Clarkson,203903,3PT Pullup Jump Shot,24,11,THREE_POINT_JUMPERS,2018
+Jordan Clarkson,203903,3PT Running Jump Shot,8,4,THREE_POINT_JUMPERS,2018
+Jordan Clarkson,203903,3PT Step Back Jump Shot,13,7,THREE_POINT_JUMPERS,2018
+Jordan Clarkson,203903,3PT Turnaround Jump Shot,1,0,THREE_POINT_JUMPERS,2018
+Jordan Clarkson,203903,Alley Oop Layup,7,3,LAYUPS,2018
+Jordan Clarkson,203903,Driving Dunk,3,3,DUNKS,2018
+Jordan Clarkson,203903,Driving Hook Shot,6,2,POST_MOVES,2018
+Jordan Clarkson,203903,Driving Layup,105,63,LAYUPS,2018
+Jordan Clarkson,203903,Finger Roll,26,15,LAYUPS,2018
+Jordan Clarkson,203903,Hook Shot,5,2,POST_MOVES,2018
+Jordan Clarkson,203903,Putback Layup,19,11,LAYUPS,2018
+Jordan Clarkson,203903,Reverse Layup,9,5,LAYUPS,2018
+Jordan Clarkson,203903,Specialty Dunk,3,3,DUNKS,2018
+Jordan Clarkson,203903,Standard Dunk,10,9,DUNKS,2018
+Jordan Clarkson,203903,Standard Layup,73,41,LAYUPS,2018
+Jordan Clarkson,203903,Turnaround Hook Shot,2,1,POST_MOVES,2018
+Jordan Clarkson,203903,2PT Fadeaway Jump Shot,26,16,TWO_POINT_JUMPERS,2019
+Jordan Clarkson,203903,2PT Floating Jump Shot,144,69,FLOATING_SHOTS,2019
+Jordan Clarkson,203903,2PT Jump Shot,68,21,TWO_POINT_JUMPERS,2019
+Jordan Clarkson,203903,2PT Pullup Jump Shot,88,49,TWO_POINT_JUMPERS,2019
+Jordan Clarkson,203903,2PT Running Jump Shot,5,4,TWO_POINT_JUMPERS,2019
+Jordan Clarkson,203903,2PT Step Back Jump Shot,50,28,TWO_POINT_JUMPERS,2019
+Jordan Clarkson,203903,2PT Turnaround Jump Shot,53,25,TWO_POINT_JUMPERS,2019
+Jordan Clarkson,203903,3PT Fadeaway Jump Shot,2,0,THREE_POINT_JUMPERS,2019
+Jordan Clarkson,203903,3PT Jump Shot,355,114,THREE_POINT_JUMPERS,2019
+Jordan Clarkson,203903,3PT Pullup Jump Shot,62,19,THREE_POINT_JUMPERS,2019
+Jordan Clarkson,203903,3PT Running Jump Shot,4,4,THREE_POINT_JUMPERS,2019
+Jordan Clarkson,203903,3PT Step Back Jump Shot,19,7,THREE_POINT_JUMPERS,2019
+Jordan Clarkson,203903,3PT Turnaround Jump Shot,3,0,THREE_POINT_JUMPERS,2019
+Jordan Clarkson,203903,Alley Oop Layup,2,1,LAYUPS,2019
+Jordan Clarkson,203903,Driving Dunk,4,3,DUNKS,2019
+Jordan Clarkson,203903,Driving Hook Shot,4,1,POST_MOVES,2019
+Jordan Clarkson,203903,Driving Layup,123,62,LAYUPS,2019
+Jordan Clarkson,203903,Finger Roll,28,22,LAYUPS,2019
+Jordan Clarkson,203903,Hook Shot,7,2,POST_MOVES,2019
+Jordan Clarkson,203903,Putback Dunk,1,1,DUNKS,2019
+Jordan Clarkson,203903,Putback Layup,30,16,LAYUPS,2019
+Jordan Clarkson,203903,Reverse Dunk,1,1,DUNKS,2019
+Jordan Clarkson,203903,Reverse Layup,13,10,LAYUPS,2019
+Jordan Clarkson,203903,Specialty Dunk,8,8,DUNKS,2019
+Jordan Clarkson,203903,Standard Dunk,4,3,DUNKS,2019
+Jordan Clarkson,203903,Standard Layup,69,39,LAYUPS,2019
+Jordan Clarkson,203903,Turnaround Hook Shot,7,4,POST_MOVES,2019
+Jordan Clarkson,203903,2PT Fadeaway Jump Shot,12,5,TWO_POINT_JUMPERS,2020
+Jordan Clarkson,203903,2PT Floating Jump Shot,117,59,FLOATING_SHOTS,2020
+Jordan Clarkson,203903,2PT Jump Shot,24,7,TWO_POINT_JUMPERS,2020
+Jordan Clarkson,203903,2PT Pullup Jump Shot,30,12,TWO_POINT_JUMPERS,2020
+Jordan Clarkson,203903,2PT Running Jump Shot,1,1,TWO_POINT_JUMPERS,2020
+Jordan Clarkson,203903,2PT Step Back Jump Shot,19,6,TWO_POINT_JUMPERS,2020
+Jordan Clarkson,203903,2PT Turnaround Jump Shot,25,13,TWO_POINT_JUMPERS,2020
+Jordan Clarkson,203903,3PT Fadeaway Jump Shot,1,0,THREE_POINT_JUMPERS,2020
+Jordan Clarkson,203903,3PT Jump Shot,302,117,THREE_POINT_JUMPERS,2020
+Jordan Clarkson,203903,3PT Pullup Jump Shot,73,22,THREE_POINT_JUMPERS,2020
+Jordan Clarkson,203903,3PT Running Jump Shot,6,2,THREE_POINT_JUMPERS,2020
+Jordan Clarkson,203903,3PT Step Back Jump Shot,31,11,THREE_POINT_JUMPERS,2020
+Jordan Clarkson,203903,Alley Oop Layup,2,2,LAYUPS,2020
+Jordan Clarkson,203903,Driving Dunk,7,6,DUNKS,2020
+Jordan Clarkson,203903,Driving Hook Shot,4,3,POST_MOVES,2020
+Jordan Clarkson,203903,Driving Layup,94,52,LAYUPS,2020
+Jordan Clarkson,203903,Finger Roll,21,14,LAYUPS,2020
+Jordan Clarkson,203903,Hook Shot,6,3,POST_MOVES,2020
+Jordan Clarkson,203903,Putback Layup,18,14,LAYUPS,2020
+Jordan Clarkson,203903,Reverse Layup,10,7,LAYUPS,2020
+Jordan Clarkson,203903,Specialty Dunk,1,1,DUNKS,2020
+Jordan Clarkson,203903,Standard Dunk,3,3,DUNKS,2020
+Jordan Clarkson,203903,Standard Layup,54,31,LAYUPS,2020
+Jordan Clarkson,203903,Turnaround Hook Shot,6,3,POST_MOVES,2020
+Jordan Clarkson,203903,2PT Fadeaway Jump Shot,22,12,TWO_POINT_JUMPERS,2021
+Jordan Clarkson,203903,2PT Floating Jump Shot,169,99,FLOATING_SHOTS,2021
+Jordan Clarkson,203903,2PT Jump Shot,24,3,TWO_POINT_JUMPERS,2021
+Jordan Clarkson,203903,2PT Pullup Jump Shot,21,6,TWO_POINT_JUMPERS,2021
+Jordan Clarkson,203903,2PT Running Jump Shot,2,1,TWO_POINT_JUMPERS,2021
+Jordan Clarkson,203903,2PT Step Back Jump Shot,14,5,TWO_POINT_JUMPERS,2021
+Jordan Clarkson,203903,2PT Turnaround Jump Shot,52,26,TWO_POINT_JUMPERS,2021
+Jordan Clarkson,203903,3PT Fadeaway Jump Shot,4,2,THREE_POINT_JUMPERS,2021
+Jordan Clarkson,203903,3PT Floating Jump Shot,1,0,FLOATING_SHOTS,2021
+Jordan Clarkson,203903,3PT Jump Shot,324,110,THREE_POINT_JUMPERS,2021
+Jordan Clarkson,203903,3PT Pullup Jump Shot,164,56,THREE_POINT_JUMPERS,2021
+Jordan Clarkson,203903,3PT Running Jump Shot,34,13,THREE_POINT_JUMPERS,2021
+Jordan Clarkson,203903,3PT Step Back Jump Shot,70,26,THREE_POINT_JUMPERS,2021
+Jordan Clarkson,203903,3PT Turnaround Jump Shot,2,1,THREE_POINT_JUMPERS,2021
+Jordan Clarkson,203903,Driving Dunk,5,3,DUNKS,2021
+Jordan Clarkson,203903,Driving Hook Shot,8,3,POST_MOVES,2021
+Jordan Clarkson,203903,Driving Layup,78,42,LAYUPS,2021
+Jordan Clarkson,203903,Finger Roll,13,9,LAYUPS,2021
+Jordan Clarkson,203903,Hook Shot,6,4,POST_MOVES,2021
+Jordan Clarkson,203903,Putback Layup,8,5,LAYUPS,2021
+Jordan Clarkson,203903,Reverse Dunk,1,0,DUNKS,2021
+Jordan Clarkson,203903,Reverse Layup,3,2,LAYUPS,2021
+Jordan Clarkson,203903,Specialty Dunk,1,1,DUNKS,2021
+Jordan Clarkson,203903,Standard Dunk,7,7,DUNKS,2021
+Jordan Clarkson,203903,Standard Layup,34,15,LAYUPS,2021
+Jordan Clarkson,203903,Turnaround Hook Shot,8,6,POST_MOVES,2021
+Jordan Clarkson,203903,2PT Fadeaway Jump Shot,22,16,TWO_POINT_JUMPERS,2022
+Jordan Clarkson,203903,2PT Floating Jump Shot,160,86,FLOATING_SHOTS,2022
+Jordan Clarkson,203903,2PT Jump Shot,12,4,TWO_POINT_JUMPERS,2022
+Jordan Clarkson,203903,2PT Pullup Jump Shot,37,17,TWO_POINT_JUMPERS,2022
+Jordan Clarkson,203903,2PT Step Back Jump Shot,16,4,TWO_POINT_JUMPERS,2022
+Jordan Clarkson,203903,2PT Turnaround Jump Shot,42,27,TWO_POINT_JUMPERS,2022
+Jordan Clarkson,203903,3PT Fadeaway Jump Shot,3,1,THREE_POINT_JUMPERS,2022
+Jordan Clarkson,203903,3PT Floating Jump Shot,1,0,FLOATING_SHOTS,2022
+Jordan Clarkson,203903,3PT Jump Shot,328,98,THREE_POINT_JUMPERS,2022
+Jordan Clarkson,203903,3PT Pullup Jump Shot,154,51,THREE_POINT_JUMPERS,2022
+Jordan Clarkson,203903,3PT Running Jump Shot,27,12,THREE_POINT_JUMPERS,2022
+Jordan Clarkson,203903,3PT Step Back Jump Shot,82,28,THREE_POINT_JUMPERS,2022
+Jordan Clarkson,203903,3PT Turnaround Jump Shot,2,0,THREE_POINT_JUMPERS,2022
+Jordan Clarkson,203903,Alley Oop Layup,1,0,LAYUPS,2022
+Jordan Clarkson,203903,Driving Dunk,8,4,DUNKS,2022
+Jordan Clarkson,203903,Driving Hook Shot,5,2,POST_MOVES,2022
+Jordan Clarkson,203903,Driving Layup,113,56,LAYUPS,2022
+Jordan Clarkson,203903,Finger Roll,40,26,LAYUPS,2022
+Jordan Clarkson,203903,Hook Shot,2,1,POST_MOVES,2022
+Jordan Clarkson,203903,Putback Layup,14,8,LAYUPS,2022
+Jordan Clarkson,203903,Standard Dunk,5,4,DUNKS,2022
+Jordan Clarkson,203903,Standard Layup,34,18,LAYUPS,2022
+Jordan Clarkson,203903,Turnaround Hook Shot,5,3,POST_MOVES,2022
+Jordan Clarkson,203903,2PT Fadeaway Jump Shot,19,9,TWO_POINT_JUMPERS,2023
+Jordan Clarkson,203903,2PT Floating Jump Shot,186,89,FLOATING_SHOTS,2023
+Jordan Clarkson,203903,2PT Jump Shot,16,4,TWO_POINT_JUMPERS,2023
+Jordan Clarkson,203903,2PT Pullup Jump Shot,71,36,TWO_POINT_JUMPERS,2023
+Jordan Clarkson,203903,2PT Running Jump Shot,1,1,TWO_POINT_JUMPERS,2023
+Jordan Clarkson,203903,2PT Step Back Jump Shot,8,4,TWO_POINT_JUMPERS,2023
+Jordan Clarkson,203903,2PT Turnaround Jump Shot,27,12,TWO_POINT_JUMPERS,2023
+Jordan Clarkson,203903,3PT Fadeaway Jump Shot,1,0,THREE_POINT_JUMPERS,2023
+Jordan Clarkson,203903,3PT Jump Shot,261,84,THREE_POINT_JUMPERS,2023
+Jordan Clarkson,203903,3PT Pullup Jump Shot,113,34,THREE_POINT_JUMPERS,2023
+Jordan Clarkson,203903,3PT Running Jump Shot,38,19,THREE_POINT_JUMPERS,2023
+Jordan Clarkson,203903,3PT Step Back Jump Shot,44,17,THREE_POINT_JUMPERS,2023
+Jordan Clarkson,203903,3PT Turnaround Jump Shot,1,1,THREE_POINT_JUMPERS,2023
+Jordan Clarkson,203903,Alley Oop Layup,1,0,LAYUPS,2023
+Jordan Clarkson,203903,Driving Dunk,11,7,DUNKS,2023
+Jordan Clarkson,203903,Driving Hook Shot,9,3,POST_MOVES,2023
+Jordan Clarkson,203903,Driving Layup,106,67,LAYUPS,2023
+Jordan Clarkson,203903,Finger Roll,41,23,LAYUPS,2023
+Jordan Clarkson,203903,Hook Shot,2,2,POST_MOVES,2023
+Jordan Clarkson,203903,Putback Layup,31,18,LAYUPS,2023
+Jordan Clarkson,203903,Reverse Dunk,1,0,DUNKS,2023
+Jordan Clarkson,203903,Reverse Layup,5,2,LAYUPS,2023
+Jordan Clarkson,203903,Specialty Dunk,4,4,DUNKS,2023
+Jordan Clarkson,203903,Standard Dunk,1,1,DUNKS,2023
+Jordan Clarkson,203903,Standard Layup,27,18,LAYUPS,2023
+Jordan Clarkson,203903,Turnaround Hook Shot,6,3,POST_MOVES,2023
+Jordan Clarkson,203903,2PT Fadeaway Jump Shot,28,13,TWO_POINT_JUMPERS,2024
+Jordan Clarkson,203903,2PT Floating Jump Shot,159,77,FLOATING_SHOTS,2024
+Jordan Clarkson,203903,2PT Jump Shot,15,5,TWO_POINT_JUMPERS,2024
+Jordan Clarkson,203903,2PT Pullup Jump Shot,52,22,TWO_POINT_JUMPERS,2024
+Jordan Clarkson,203903,2PT Running Jump Shot,3,0,TWO_POINT_JUMPERS,2024
+Jordan Clarkson,203903,2PT Step Back Jump Shot,25,11,TWO_POINT_JUMPERS,2024
+Jordan Clarkson,203903,2PT Turnaround Jump Shot,25,11,TWO_POINT_JUMPERS,2024
+Jordan Clarkson,203903,3PT Jump Shot,168,54,THREE_POINT_JUMPERS,2024
+Jordan Clarkson,203903,3PT Pullup Jump Shot,71,19,THREE_POINT_JUMPERS,2024
+Jordan Clarkson,203903,3PT Running Jump Shot,39,11,THREE_POINT_JUMPERS,2024
+Jordan Clarkson,203903,3PT Step Back Jump Shot,32,8,THREE_POINT_JUMPERS,2024
+Jordan Clarkson,203903,Driving Dunk,2,2,DUNKS,2024
+Jordan Clarkson,203903,Driving Hook Shot,5,2,POST_MOVES,2024
+Jordan Clarkson,203903,Driving Layup,77,34,LAYUPS,2024
+Jordan Clarkson,203903,Finger Roll,38,24,LAYUPS,2024
+Jordan Clarkson,203903,Hook Shot,4,2,POST_MOVES,2024
+Jordan Clarkson,203903,Putback Layup,18,8,LAYUPS,2024
+Jordan Clarkson,203903,Reverse Layup,3,2,LAYUPS,2024
+Jordan Clarkson,203903,Specialty Dunk,4,4,DUNKS,2024
+Jordan Clarkson,203903,Standard Dunk,8,7,DUNKS,2024
+Jordan Clarkson,203903,Standard Layup,30,18,LAYUPS,2024
+Jordan Clarkson,203903,Turnaround Hook Shot,10,3,POST_MOVES,2024
+Jordan Clarkson,203903,2PT Fadeaway Jump Shot,10,4,TWO_POINT_JUMPERS,2025
+Jordan Clarkson,203903,2PT Floating Jump Shot,63,27,FLOATING_SHOTS,2025
+Jordan Clarkson,203903,2PT Jump Shot,7,3,TWO_POINT_JUMPERS,2025
+Jordan Clarkson,203903,2PT Pullup Jump Shot,18,9,TWO_POINT_JUMPERS,2025
+Jordan Clarkson,203903,2PT Running Jump Shot,1,0,TWO_POINT_JUMPERS,2025
+Jordan Clarkson,203903,2PT Step Back Jump Shot,2,1,TWO_POINT_JUMPERS,2025
+Jordan Clarkson,203903,2PT Turnaround Jump Shot,5,3,TWO_POINT_JUMPERS,2025
+Jordan Clarkson,203903,3PT Fadeaway Jump Shot,1,0,THREE_POINT_JUMPERS,2025
+Jordan Clarkson,203903,3PT Jump Shot,53,17,THREE_POINT_JUMPERS,2025
+Jordan Clarkson,203903,3PT Pullup Jump Shot,41,16,THREE_POINT_JUMPERS,2025
+Jordan Clarkson,203903,3PT Running Jump Shot,15,5,THREE_POINT_JUMPERS,2025
+Jordan Clarkson,203903,3PT Step Back Jump Shot,11,3,THREE_POINT_JUMPERS,2025
+Jordan Clarkson,203903,Driving Hook Shot,2,1,POST_MOVES,2025
+Jordan Clarkson,203903,Driving Layup,32,17,LAYUPS,2025
+Jordan Clarkson,203903,Finger Roll,8,4,LAYUPS,2025
+Jordan Clarkson,203903,Hook Shot,2,1,POST_MOVES,2025
+Jordan Clarkson,203903,Putback Layup,4,1,LAYUPS,2025
+Jordan Clarkson,203903,Reverse Layup,1,0,LAYUPS,2025
+Jordan Clarkson,203903,Standard Dunk,2,2,DUNKS,2025
+Jordan Clarkson,203903,Standard Layup,7,4,LAYUPS,2025
+Jordan Clarkson,203903,Turnaround Hook Shot,3,1,POST_MOVES,2025
